@@ -45,6 +45,11 @@ media:
     media_url: https://static.ndmais.com.br/2026/11/pm-rodoviaria-apreende-tabletes-maconha-carro-ouroeste-spjpg.jpg
     publisher: ND Mais
     caption: 'Hundreds of cannabis tablets found in the trunk and back seat, totalling more than half a tonne. Photo: Divulgação/SSP-SP'
+  - kind: photo
+    url: https://www.agenciasp.sp.gov.br/seguranca-publica/mais-de-meia-tonelada-de-maconha-e-apreendida-em-canavial-durante-acao-da-pm-rodoviaria-em-sp/
+    media_url: https://www.agenciasp.sp.gov.br/wp-content/uploads/2026/11/whatsapp-image-2026-11-05-at-07-52-54.webp
+    publisher: Agência SP
+    caption: 'The hundreds of cannabis tablets found in the trunk and on the back seat of the abandoned car in the sugarcane field near Ouroeste. Photo: SSP'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 377b3f058af36043e8e7340aadcce414
@@ -75,6 +80,11 @@ sources:
     publisher: Fato Paulista
     date: 2026-11-05
     language: pt
+  - title: Mais de meia tonelada de maconha é apreendida em canavial durante ação da PM Rodoviária em SP
+    url: https://www.agenciasp.sp.gov.br/seguranca-publica/mais-de-meia-tonelada-de-maconha-e-apreendida-em-canavial-durante-acao-da-pm-rodoviaria-em-sp/
+    publisher: Agência SP
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The opened accounts do not specify the exact spot in the cane field, such as the road or kilometre marker.
   - No suspect was named and no arrest, charge or court outcome was reported; the investigation was still under way.
@@ -82,20 +92,21 @@ open_questions:
   - The weight is published as 549 kg in the Policial Padrão and PMESP headlines and as 549.6 kg by the Federal Police, so the exact rounded count differs between accounts.
   - Fato Paulista describes the FICCO task force as linked to the Public Ministry, while the Federal Police's own statement lists its members as federal and São Paulo state agencies.
   - Fato Paulista gives no exact weight, only more than half a tonne, so the 549.6 kg figure still rests on the Federal Police count.
+  - Agência SP gives no exact weight, only "more than meia tonelada", so it does not settle the difference between the 549 kg and 549.6 kg figures in the report.
 ---
 
 Highway officers found a car abandoned in a sugarcane field beside a highway in
 Ouroeste, São Paulo, on Wednesday 4 November 2026. [@1,5] During the inspection,
 officers found hundreds of cannabis tablets hidden in the vehicle, in the trunk
-and on the back seat. [@1] The Federal Police weighed the load at 549.6 kg of
+and on the back seat. [@1,6] The Federal Police weighed the load at 549.6 kg of
 maconha in the Ouroeste region. [@2] São Paulo public-security authorities
 estimated the seizure caused more than R$1 million in losses to organised crime.
-[@1,5]
+[@1,5,6]
 
 The operation was led by the Tático Ostensivo Rodoviário with the FICCO task
 force and the Public Ministry. [@1] Canine teams from the 9th BAEP, officers of
 the 16th Interior Police Battalion and the Minas Gerais military police also
-took part. [@1]
+took part. [@1,6]
 
 Officers searched the surrounding area, but no one was found to take
 responsibility for the car and the driver was not located. [@1] The vehicle and
