@@ -50,6 +50,11 @@ sources:
     publisher: Stiri Din Surse Buzău
     date: 2026-11-05
     language: ro
+  - title: VIDEO Tânăr de 27 de ani, arestat pentru trafic de droguri în Buzău. Vindea canabis și „cristal” prin metoda „dead drop”
+    url: https://qwer.ro/video-tanar-de-27-de-ani-arestat-pentru-trafic-de-droguri-in-buzau-vindea-canabis-si-cristal-prin-metoda-dead-drop
+    publisher: QWER.ro
+    date: 2026-11-05
+    language: ro
 open_questions:
   - No weight for the cannabis found in the 3 November searches or in the earlier stop was published, so no cannabis quantity can be recorded.
   - The 3-CMC sold during the alleged trafficking and the 4-CMC found in the searches are synthetic drugs outside the cannabis figures, and no combined total is recorded.
@@ -66,7 +71,7 @@ A 27-year-old man was placed in 30 days of preventive arrest on suspicion of
 continued trafficking in risk and high-risk drugs. [@1,5] Investigators said he
 sold cannabis and 3-CMC, a synthetic cathinone known in Romania as "cristal",
 both by direct sale and by the "dead drop" method, in which drugs are hidden at
-set places for buyers to collect later. [@1] Officers of the Buzău
+set places for buyers to collect later. [@1,6] Officers of the Buzău
 organised-crime service and prosecutors of DIICOT's Buzău territorial office,
 the directorate that investigates organised crime and terrorism, documented his
 activity between February and September 2026. [@1] Amprenta Buzău reported that
