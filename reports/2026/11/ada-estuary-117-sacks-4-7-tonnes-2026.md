@@ -57,6 +57,11 @@ sources:
     url: https://www.adomonline.com/ghana-navy-intercepts-4-7-tonnes-of-suspected-indian-hemp-worth-over-us1m-at-ada-estuary/
     publisher: Adomonline.com
     date: 2026-11-06
+  - title: Ghana Navy intercepts two boats carrying 4.8 tonnes of suspected marijuana worth over US$1m
+    url: https://3news.com/news/ghana-navy-intercepts-two-boats-carrying-4-8-tonnes-of-suspected-marijuana-worth-over-us-1m
+    publisher: 3News
+    date: 2026-11-06
+    language: en
 open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
   - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
@@ -64,17 +69,20 @@ open_questions:
   - The news reports do not say whether the two boats and any outboard motors or fuel were retained as exhibits.
   - The earlier 2026 Ada estuary seizures mentioned in the same reports — 37 sacks at Goi on 27 March and 59 sacks on 19 July — are separate events and are not recorded here.
   - The Adomonline account does not say what happened to the 117 sacks after the seizure, while the report says they were handed to NACOC for forensic examination.
+  - 3News gives the cargo as an estimated 4.8 tonnes, while the Ghana Navy statement and other outlets give 4.7 tonnes; the report keeps 4.7 tonnes.
+  - 3News says the consignment was bound for Nigeria through the Volta Lake corridor, while the existing report says the intended foreign destination was not established.
+  - The boats are placed at the Volta Lake estuary near the Talibet Bridge, while the report's place is the Ada Estuary; the sources do not establish whether these are the same spot.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
 Control Commission (NACOC) and National Security, intercepted two wooden boats
-at the Ada Estuary on Thursday 5 November 2026. [@2,3] The boats carried 117 sacks
+at the Ada Estuary on Thursday 5 November 2026. [@2,3,4] The boats carried 117 sacks
 of compressed dried leaves suspected to be Indian hemp, each sack holding more
-than 80 parcels. [@2,3] The occupants spotted the approaching naval patrol,
-abandoned both vessels and their cargo, and fled. [@1,3]
+than 80 parcels. [@2,3,4] The occupants spotted the approaching naval patrol,
+abandoned both vessels and their cargo, and fled. [@1,3,4]
 
 The Navy estimated the cargo at about 4.7 tonnes and put its street value at
-more than US$1 million. [@1,3] No one was arrested, and the sacks remain
+more than US$1 million. [@1,3,4] No one was arrested, and the sacks remain
 classified as suspected narcotics pending laboratory testing. [@2] Preliminary
 intelligence indicated the consignment was being prepared for export out of
 Ghana. [@2,3]
@@ -90,3 +98,5 @@ route for drugs. [@2,3]
 The Navy said the interception was at least the third major abandonment of a
 cannabis boat on the Ada estuary in 2026, after 37 sacks found near Goi on 27
 March and 59 sacks found on 19 July. [@2]
+
+Ghana Navy personnel found the two wooden vessels concealed along the banks of the Volta Lake estuary at about 1:00 a.m., roughly 200 metres from the Talibet Bridge. [@4] Naval personnel searched the vessels at about 5:00 a.m. in the presence of officials from the Narcotics Control Commission, finding the 117 sacks. [@4] The individuals behind the shipment abandoned the boats and remain at large, and the Navy warned those financing or facilitating drug trafficking that operations would continue. [@4]
