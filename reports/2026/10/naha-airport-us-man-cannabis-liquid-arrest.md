@@ -24,18 +24,24 @@ sources:
     publisher: Ryukyu Shimpo
     date: 2026-11-05
     language: ja
+  - title: 那覇空港で大麻輸入疑い　米国籍の男逮捕　豊見城署
+    url: https://www.47news.jp/15185827.html
+    publisher: 47NEWS（琉球新報）
+    date: 2026-11-05
+    language: ja
 open_questions:
   - Only one opened source supports this event; searches for a second account or agency statement found nothing to open.
   - The page's only image is captioned as a file photo of Naha Airport and does not show the seizure, so no media entry is included.
   - The 1.24 grams of tablets containing stimulants are a separate non-cannabis substance and are excluded from cannabis figures.
   - No court outcome beyond referral to the Naha District Public Prosecutors Office was reported.
+  - The submitted 47NEWS page carries only the opening extract of the Ryukyu Shimpo article, so it adds no facts beyond the arrest, the 17 October import allegation and the 1.87 grams.
 ---
 
 Tomishiro Police Station emergency-arrested a 25-year-old United States national
 with no fixed address who described himself as a company employee on 18 October
-2026 on suspicion of importing narcotics. [@1] He is accused of hiding 1.87
+2026 on suspicion of importing narcotics. [@1,2] He is accused of hiding 1.87
 grams of liquid containing cannabis in a rucksack and importing it at Naha
-Airport at about 5 p.m. on 17 October 2026. [@1] Police said 1.24 grams of
+Airport at about 5 p.m. on 17 October 2026. [@1,2] Police said 1.24 grams of
 tablets containing stimulants were also found in the man's suitcase. [@1] The
 man was referred to the Naha District Public Prosecutors Office on 19 October.
 [@1]
@@ -50,4 +56,3 @@ stimulants. [@1]
 
 Tomishiro police have not disclosed whether the man admits or denies the
 allegations, citing potential interference with the investigation. [@1]
-
