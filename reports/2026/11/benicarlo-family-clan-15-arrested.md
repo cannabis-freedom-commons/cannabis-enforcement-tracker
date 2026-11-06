@@ -48,6 +48,11 @@ sources:
     publisher: Actualidad Castellón
     date: 2026-11-05
     language: es
+  - title: Quince detenidos en Benicarló en el desmantelamiento de un punto de venta de droga liderado por un clan familiar
+    url: https://www.vinarosnews.net/quince-detenidos-en-benicarlo-en-el-desmantelamiento-de-un-punto-de-venta-de-droga-liderado-por-un-clan-familiar/
+    publisher: Vinaròs News
+    date: 2026-11-05
+    language: es
 open_questions:
   - No source gives a weight for the hashish or marijuana seized, so no cannabis quantity can be recorded.
   - The 100,000-euro figure covers jewellery, watches, phones and vehicles together, not the drugs, and no separate value was given for any substance.
@@ -60,30 +65,29 @@ open_questions:
 
 The Guardia Civil arrested 15 people in Benicarló, in Castellón province, and is
 investigating them for crimes against public health and membership of a criminal
-organisation. [@1] Officers carried out six searches in homes in Benicarló's old
+organisation. [@1,4] Officers carried out six searches in homes in Benicarló's old
 town, and dozens of Guardia Civil officers took part from judicial-police,
 investigation, riot-control, citizen-security, dog-handling,
 technological-investigation, nature-protection and air units. [@1] The clan ran
 a network of connected sales points from different homes in the old town,
-managed by members of the same family. [@3]
+managed by members of the same family. [@3,4]
 
 The searches found cocaine, heroin, hashish, marijuana and cristal, a street
 name for crystal methamphetamine, along with other drug derivatives, plus
-precision scales and packaging for preparing and distributing the drugs. [@1]
+precision scales and packaging for preparing and distributing the drugs. [@1,4]
 Officers seized six shotguns, several bladed weapons and abundant ammunition,
 plus more than 10,000 euros in cash and stamped official documents valued at
-over 1,500 euros. [@1] The operation also recovered jewellery, watches, mobile
+over 1,500 euros. [@1,4] The operation also recovered jewellery, watches, mobile
 phones and eight vehicles, goods the sources valued together at more than
-100,000 euros. [@1]
+100,000 euros. [@1,4]
 
 In two of the searched properties officers found about 180 fighting cocks, 48 of
 them mutilated, plus several finches and more than 40 hunting dogs, most of them
-without identification microchips. [@1] Two of the detainees are being
+without identification microchips. [@1,4] Two of the detainees are being
 investigated by Seprona, the Guardia Civil's nature-protection service, over
 suspected animal abuse, and officers also started administrative sanction
-proceedings. [@2]
+proceedings. [@2,4]
 
 The detainees and the seized items were placed at the disposal of the Civil and
 Investigating Section, Seat 3, of the Vinaròs court, the court serving
-Benicarló. [@1]
-
+Benicarló. [@1,4]
