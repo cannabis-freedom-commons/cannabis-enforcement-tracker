@@ -111,8 +111,9 @@ func (w *Worker) jobs(ctx context.Context, kind string, pool *agentPool) {
 			release()
 			close(stop)
 			cancel()
-			if errors.Is(err, errCoverageRequeued) {
-				// The fenced job was atomically replaced by a research review.
+			if errors.Is(err, errCoverageRequeued) || errors.Is(err, errHeldBack) {
+				// The fenced job was atomically replaced by a research review, or put back to wait
+				// for a related submission.
 				continue
 			}
 			if err != nil && !errors.Is(err, store.ErrBudget) && !errors.Is(err, store.ErrConfiguration) && !errors.Is(err, store.ErrInterrupted) {
@@ -343,6 +344,22 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			// OpenCode determines relevance from the opened article even when no term matched.
 			if err = w.Store.Transition(ctx, j.Ref, "classifying", check.Describe(), "", ""); err != nil {
 				return err
+			}
+			// the same story already being researched from another source: wait for it (related_hold.go)
+			headline := check.Title
+			if check.Metadata != nil {
+				headline = storyHeadline(check.Title, check.Metadata.Description, check.Metadata.SiteName)
+			}
+			if other, err := w.relatedRunning(ctx, j.Ref, headline); err != nil {
+				slog.Warn("related submissions could not be checked", "case", j.Ref, "error", err)
+			} else if other != "" {
+				held, err := w.holdBack(ctx, j, other)
+				if err != nil {
+					return err
+				}
+				if held {
+					return errHeldBack
+				}
 			}
 		}
 		run, err := w.Store.Reserve(ctx, j.Ref, "", w.Config.RunCents, w.Config.DailyCents)

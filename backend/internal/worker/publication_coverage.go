@@ -190,8 +190,10 @@ func (w *Worker) requeueResearchReview(ctx context.Context, j store.Job, content
 	if _, err = tx.ExecContext(ctx, "UPDATE research_checkpoints SET payload=? WHERE case_id=?", store.JSON(checkpoint), j.Ref); err != nil {
 		return err
 	}
-	if _, err = tx.ExecContext(ctx, `INSERT INTO jobs(id,kind,ref,payload,status,available_at) VALUES(?,'research',?,'{}','queued',?)
- ON CONFLICT(kind,ref) DO UPDATE SET status='queued',available_at=excluded.available_at,attempts=0,lease_until=0,lease_token='',error_code=''`, store.ID(), j.Ref, now); err != nil {
+	// first in the queue (jobs are taken by available_at): the research is done and saved, the
+	// review is a short run, and at the back of the queue it would wait for hours behind new arrivals
+	if _, err = tx.ExecContext(ctx, `INSERT INTO jobs(id,kind,ref,payload,status,available_at) VALUES(?,'research',?,'{}','queued',0)
+ ON CONFLICT(kind,ref) DO UPDATE SET status='queued',available_at=excluded.available_at,attempts=0,lease_until=0,lease_token='',error_code=''`, store.ID(), j.Ref); err != nil {
 		return err
 	}
 	why := "Another submission changed report coverage while this one was researching. Saved research will be checked against the latest reports before publication."

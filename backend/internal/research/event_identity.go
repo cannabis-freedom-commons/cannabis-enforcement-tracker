@@ -314,3 +314,6 @@ func placeSuffix(place string) string {
 	}
 	return ", " + place
 }
+
+// StoryTokens are the words the event matcher compares: lower-cased, without accents and stop words.
+func StoryTokens(s string) map[string]bool { return identityTokens(s) }
