@@ -23,6 +23,11 @@ media:
     media_url: https://posterimage.amarujala.com/1XoXCGC.0000000.jpg?w=674&dpr=1.0&q=80
     publisher: Amar Ujala
     caption: The opening image of Amar Ujala's video report on the Sonbhadra seizure; the page gives no credit for it.
+  - kind: photo
+    url: https://www.swatantraprabhat.com/article/194030/605-kg-ganja-recovered-from-ciaz-car-with-secret-cabin
+    media_url: https://www.swatantraprabhat.com/media-webp/1200/2026-11/lumii_20261105_201216172.jpg
+    publisher: Swatantra Prabhat
+    caption: The page picture for the Sonbhadra seizure, captioned as a Ciaz car with a secret cabin from which 60.5 kg of ganja was recovered and two smugglers arrested; no credit is given.
 details:
   products:
     - {product: flower}
@@ -53,6 +58,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-05
     language: hi
+  - title: गुप्त केबिन वाली सियाज कार से 60.5 किलो गांजा बरामद, दो तस्कर गिरफ्तार
+    url: https://www.swatantraprabhat.com/article/194030/605-kg-ganja-recovered-from-ciaz-car-with-secret-cabin
+    publisher: Swatantra Prabhat
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Only the date of the stop (the night of Wednesday 4 November 2026) is fixed; the reports do not say exactly when the two men were sent to court.
   - Police valued the consignment at 'about Rs 30 lakh', an approximation, not an exact figure.
@@ -63,19 +73,22 @@ open_questions:
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The sacks were hidden in a secret compartment built specially into the rear of their Suzuki Ciaz car.'
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police registered a first information report under the NDPS Act, India''s main drug law, at Robertsganj police station.'
   - 'Left out, as its quotation was not found in Amar Ujala: Police said they were checking the men''s criminal records and looking for others in the smuggling network.'
+  - The submitted article puts the arrest on the night of 4 November but gives no court date and no remand outcome.
+  - No source identifies who built the secret cabin or who was to buy the cannabis in Shahjahanpur.
+  - The page picture is captioned as the Ciaz with the hidden cabin but gives no credit and is not shown to be an agency handout, so it is linked rather than treated as a cover.
 ---
 
 Police in Sonbhadra district, Uttar Pradesh, arrested two men from Shahjahanpur
-district and seized 60.5 kg of ganja, or cannabis, from their car. [@1] The men
+district and seized 60.5 kg of ganja, or cannabis, from their car. [@1,5] The men
 were identified as Seebu Ali, 24, of Brahmanan village in the Allaganj police
 station area of Shahjahanpur district, and Satyam Yadav, 21, of Laisna village
 in the Jalalabad police station area of the same district. [@2] Police said the
 officers stopped the car near the TVS warehouse in Lodhi village, in the
-Robertsganj police station area. [@3] The checks were made during Operation
+Robertsganj police station area. [@3,5] The checks were made during Operation
 Shuddhi, a state police drive against drug trafficking. [@1]
 
-Police valued the cannabis at about Rs 30 lakh. [@2] Officers found the cannabis
-in 43 packets packed into three plastic sacks. [@2] The two told police they had
+Police valued the cannabis at about Rs 30 lakh. [@2,5] Officers found the cannabis
+in 43 packets packed into three plastic sacks. [@2,5] The two told police they had
 collected the cannabis in Sambalpur, Odisha, and were taking it to Shahjahanpur
 to sell. [@1]
 
@@ -85,3 +98,4 @@ Officers sent both men to court and seized the car used to carry the cannabis.
 An officer said the police check followed a tip at about 8:45 pm on Wednesday
 night. [@4]
 
+Deputy superintendent of police Mevik Taak disclosed the case at a press conference in the Churk police lines auditorium on Thursday. [@4] Police said the two men hid the ganja in the car's secret cabin so that road checks would not reveal it. [@4]
