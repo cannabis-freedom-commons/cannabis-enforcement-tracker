@@ -55,6 +55,11 @@ sources:
     publisher: QWER.ro
     date: 2026-11-05
     language: ro
+  - title: Tânăr de 27 de ani, arestat preventiv pentru vânzare de canabis și cristal prin metoda dead-drop
+    url: https://jurnalmm.ro/tanar-de-27-de-ani-arestat-preventiv-canabis-cristal-dead-drop-buzau/
+    publisher: JURNAL MM
+    date: 2026-11-05
+    language: ro
 open_questions:
   - No weight for the cannabis found in the 3 November searches or in the earlier stop was published, so no cannabis quantity can be recorded.
   - The 3-CMC sold during the alleged trafficking and the 4-CMC found in the searches are synthetic drugs outside the cannabis figures, and no combined total is recorded.
@@ -65,16 +70,17 @@ open_questions:
   - 'Left out, as its quotation was not found in Știri din Buzău: The searches recovered quantities of cannabis and a crystalline substance identified as 4-CMC, together with an electronic scale, a grinder and other evidence.'
   - The page's lead picture uses a 2023 archive file name, so it cannot be verified to show this event and no media entry is included.
   - The page embeds a YouTube video titled Trafic de droguri Buzău, but its content could not be verified from the capture, so no video entry is included.
+  - Jurnal MM credits its account to DIICOT; the directorate's own press release could not be opened, so that attribution is taken from the article.
 ---
 
 A 27-year-old man was placed in 30 days of preventive arrest on suspicion of
-continued trafficking in risk and high-risk drugs. [@1,5] Investigators said he
+continued trafficking in risk and high-risk drugs. [@1,5,7] Investigators said he
 sold cannabis and 3-CMC, a synthetic cathinone known in Romania as "cristal",
 both by direct sale and by the "dead drop" method, in which drugs are hidden at
 set places for buyers to collect later. [@1,6] Officers of the Buzău
 organised-crime service and prosecutors of DIICOT's Buzău territorial office,
 the directorate that investigates organised crime and terrorism, documented his
-activity between February and September 2026. [@1] Amprenta Buzău reported that
+activity between February and September 2026. [@1,7] Amprenta Buzău reported that
 he allegedly obtained, held and prepared for sale quantities of cannabis and
 synthetic substances, including 3-CMC. [@2]
 
@@ -83,7 +89,7 @@ Bucharest. [@1,4,5] The searches targeted addresses in the municipalities of Buz
 and Bucharest. [@2] At the end of October 2026 police had already found him in
 the municipality of Buzău carrying a quantity of cannabis. [@1,4,5]
 
-DIICOT Buzău prosecutors ordered his detention for 24 hours on 3 November. [@1]
+DIICOT Buzău prosecutors ordered his detention for 24 hours on 3 November. [@1,7]
 On 4 November the rights-and-freedoms judge of the Buzău Tribunal ordered him
 held in preventive arrest for 30 days. [@1,4,5] Buzău county police officers and
 Buzău county gendarmes took part in the operation, which Stiri de Buzau reported
@@ -92,4 +98,4 @@ were delivered both directly to clients and through dead drops in Buzău and
 Bucharest. [@3] Investigations continued to establish the full extent of the
 alleged offending, and he has not been tried. [@2]
 
-The 3 November searches recovered quantities of cannabis and a crystalline substance identified as 4-CMC, together with an electronic scale, a grinder and other evidence. [@4,5]
+The 3 November searches recovered quantities of cannabis and a crystalline substance identified as 4-CMC, together with an electronic scale, a grinder and other evidence. [@4,5,7]
