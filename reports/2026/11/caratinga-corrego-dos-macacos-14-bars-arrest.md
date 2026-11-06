@@ -50,6 +50,11 @@ sources:
     publisher: Rádio Itatiaia
     date: 2026-11-05
     language: pt
+  - title: Suspeito de tráfico de drogas é preso com 14 barras de maconha em Minas Gerais
+    url: https://www.otempo.com.br/cidades/2026/11/5/suspeito-de-trafico-de-drogas-e-preso-com-14-barras-de-maconha-em-minas-gerais
+    publisher: O TEMPO
+    date: 2026-11-05
+    language: pt
 open_questions:
   - No weight was published for the 14 bars of cannabis, so no kilograms can be recorded.
   - The suspected owner of the material was not found, and no name or age was published for him.
@@ -60,24 +65,27 @@ open_questions:
   - The reprint is the same text as the g1 article and adds no independent confirmation beyond that outlet.
   - The reprint page carries a generic picture and site background image that are not established to show this seizure, so no media entry is added from it.
   - The Itatiaia page captions its only picture only as "Divulgação" (publicity handout), without naming the photographer or the agency that supplied it, so it is not confirmed to show this seizure and no media entry is added from it.
+  - O Tempo does not mention the precision scale, plastic film roll or knife listed in the existing report, so those details remain supported only by the earlier sources.
+  - O Tempo places Caratinga in the Zona da Mata while the existing report describes eastern Minas Gerais; the location match rests on the identical Córrego dos Macacos district and rural-zone description.
+  - The O Tempo photo caption does not by itself confirm the location, and its PMMG handout image may duplicate the Military Police handout already filed from g1, so no media entry is added.
 ---
 
 Military Police officers arrested a 53-year-old man at a house in Córrego dos
 Macacos, in the rural zone of Caratinga in eastern Minas Gerais, on the morning
-of Wednesday 4 November 2026. [@1,3,4] The officers went to the property after
+of Wednesday 4 November 2026. [@1,3,4,5] The officers went to the property after
 receiving information that it was being used by other people to store and
-prepare drugs. [@1,4] The resident told the officers that one of the people who
+prepare drugs. [@1,4,5] The resident told the officers that one of the people who
 frequented the house had asked his permission to keep cannabis there, and then
-let them in to search. [@1,3,4] The Military Police said only that its officers
+let them in to search. [@1,3,4,5] The Military Police said only that its officers
 seized drugs at the Córrego dos Macacos property; the Diário de Caratinga
 article on the case carries no count of the material. [@2]
 
 In an elevated compartment that was hard to reach, the officers found a sack
 holding 14 bars of cannabis, a precision scale, a roll of plastic film and a
-knife. [@1,3,4] According to the police, the resident said the drug belonged to
-another man. [@1,4] Officers searched for the suspected owner during the operation
-but did not find him. [@1,3,4]
+knife. [@1,3,4,5] According to the police, the resident said the drug belonged to
+another man. [@1,4,5] Officers searched for the suspected owner during the operation
+but did not find him. [@1,3,4,5]
 
 The resident was arrested and taken to the Civil Police station with the seized
-material. [@1,4] The Military Police did not say whether the resident was involved
+material. [@1,4,5] The Military Police did not say whether the resident was involved
 in storing or preparing the drug. [@1]
