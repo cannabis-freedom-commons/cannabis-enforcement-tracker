@@ -62,6 +62,11 @@ sources:
     url: https://cyprus-mail.com/2026/11/05/26-arrested-in-major-cyprus-police-operation-targeting-organised-crime-networks
     publisher: Cyprus Mail
     date: 2026-11-05
+  - title: На Кіпрі затримали 26 людей у справі про наркоторгівлю — Cyprus Mail
+    url: https://ua.news/ua/dovkolo-svitu/na-kipri-zatrimali-26-liudei-u-spravi-pro-narkotorgivliu-cyprus-mail
+    publisher: UA.NEWS
+    date: 2026-11-05
+    language: uk
 open_questions:
   - The 171.5 kg total is the sum of 167 kg of cannabis and 4.5 kg of cannabis resin reported from the February phase of the same case; the small cannabis quantities seized on 5 November were not quantified and are not included.
   - The 62 kg of cocaine reported alongside the cannabis is mentioned only for context and is excluded from cannabis figures, as is any combined drug total.
@@ -81,9 +86,9 @@ open_questions:
 ---
 
 Police arrested 26 people on Thursday in the operation codenamed Plegma to crack
-down on organised crime. [@1,3,4,7,9,10] Officers carried out 27 court-authorised searches
+down on organised crime. [@1,3,4,7,9,10,11] Officers carried out 27 court-authorised searches
 across the Nicosia, Limassol, Larnaca and Famagusta districts and at the Central
-Prisons, covering homes, other premises, vehicles and prison cells. [@2,3,4,5,8,9] Police
+Prisons, covering homes, other premises, vehicles and prison cells. [@2,3,4,5,8,9,11] Police
 said the arrests were part of an investigation into suspected drug trafficking,
 participation in a criminal organisation, money laundering and illegal
 possession of explosives. [@2] Police said five defendants from the February
@@ -91,14 +96,14 @@ case were already in custody. [@2,3,4,5,7,9]
 
 The investigation began on 19 February when anti-narcotics officers stopped a
 vehicle in the Nicosia district and found 11,480 firecrackers along with
-cannabis and cocaine. [@2,3,4,8] Searches linked to that stop then uncovered 167 kg of
+cannabis and cocaine. [@2,3,4,8,11] Searches linked to that stop then uncovered 167 kg of
 cannabis and 4.5 kg of cannabis resin, a combined 171.5 kg of cannabis,
 alongside 62 kg of cocaine. [@1,3,4,7] During the 5 November searches, officers seized
 25,025 euros in cash, 37 mobile phones, a pistol, a hunting rifle, ammunition
 and small quantities of cannabis and cocaine. [@2,3,4,9] Working with the
 anti-money-laundering unit, police obtained court orders freezing a house, plots
 of land, 10 cars and two motorcycles valued at about 400,000 euros, plus 100,000
-euros in funds. [@2,3,4,9]
+euros in funds. [@2,3,4,9,11]
 
 The operation was led by the Directorate for Combating Organized Crime, the
 specialist unit dubbed the Cyprus FBI. [@2] Police said the financial
