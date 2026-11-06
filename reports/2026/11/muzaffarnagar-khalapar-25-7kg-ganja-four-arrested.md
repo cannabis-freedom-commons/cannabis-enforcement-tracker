@@ -62,6 +62,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-07
     language: hi
+  - title: 'त्योहारों में गांजे की तस्करी, मेरठ के 4 शातिर गिरफ्तार: चार बैग से 3.85 लाख रुपए का गांजा बरामद, उत्तराखंड से खरीदकर लाए थे नशीला पदार्थ'
+    url: https://www.bhaskar.com/local/uttar-pradesh/muzaffarnagar/news/muzaffarnagar-police-arrest-meerut-gang-cannabis-smuggling-haul-139612068.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The reports do not say whether the four accused were remanded to custody or released on bail.
   - Neither report gives the individual weight carried by each of the four men.
@@ -70,11 +75,12 @@ open_questions:
   - The Royal Bulletin page picture carries no credit and no caption text of its own, so it is linked rather than treated as established agency evidence.
   - The accused are named in the reports; no ages are given.
   - The supplier named Harish was not arrested and the reports give no details of his identification or whereabouts.
+  - Only the article's opening paragraph was readable in the captured page; the later paragraphs sit behind the outlet's app paywall, so the detailed figures stated in this article were not verified against it.
 ---
 
 Police in Muzaffarnagar's Khala Par station area arrested four men from Meerut
 on suspicion of smuggling ganja, a traditional Indian cannabis preparation, on 6
-November 2026. [@1] The four arrested men come from Sindhawali village on Rohta
+November 2026. [@1,3] The four arrested men come from Sindhawali village on Rohta
 Road, in the Kankarkhera police station area of Meerut district. [@1]
 
 Sub-inspector Asgar Ali's team stopped them at about 1:15 pm on the lane behind
@@ -101,4 +107,3 @@ recorded as number 155A, with earlier cases under robbery, gangster, Arms Act
 and assault provisions. [@1] Police said Talib already faced a 2020 NDPS case at
 Meerut's Civil Lines station and Irshan a 2023 NDPS case at Khatauli station in
 Muzaffarnagar, and that they are tracing the wider network. [@1]
-
