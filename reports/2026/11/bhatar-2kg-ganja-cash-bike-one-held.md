@@ -56,6 +56,13 @@ open_questions:
   - The article also mentions separate drives at Shaktigarh and Madhabdihi with two arrests but gives no details; they are left out of the figures here.
   - The page picture is credited only as a staff photo and is not established to show this seizure.
   - The text gives a weight ("2 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The article counts one person detained in the Bhatar case while its headline says two were arrested with ganja; the report follows the body text.
+  - The article does not say where in Bhatar the ganja and cash were found, or whether a case was filed and under which law.
+  - It is not stated whether the 451,600 rupees are separate from, or related to, the four lakh rupee valuation of the ganja.
+  - No case number, charge or court step is reported for the detained man.
+  - No second outlet or police statement was found for the Bhatar seizure or for the Shaktigarh and Madhabdihi arrests.
+  - 'Left out, as its quotation was not found in Ei Samay: A motorbike was confiscated and 451,600 rupees in cash were recovered from the arrested man along with the ganja.'
+  - 'Left out, as its quotation was not found in Ei Samay: Separate drives were also carried out at Shaktigarh and Madhabdihi, where two drug traffickers were arrested, bringing the arrests in the overall account to three.'
 ---
 
 Bhatar police station officers in Purba Bardhaman, West Bengal, recovered about
@@ -68,4 +75,3 @@ Madhabdihi. [@1]
 
 The seizure took place in Purba Bardhaman district, where the Bhatar police
 station is responsible for the area. [@1]
-
