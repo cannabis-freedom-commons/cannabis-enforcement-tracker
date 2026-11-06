@@ -44,7 +44,7 @@ media:
     caption: Officials pour liquid case evidence into a drain beside a police building during the 5 November destruction published by Potret Papua. The page does not show the cannabis being weighed.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
-submission: 7709aa728bbfe5cac59e4b5490c4ef9
+submission: 7700aa728bbfeafcac59e4b5490c4ef9
 tags: [jayawijaya, wamena, ganja, evidence-destruction, papua-pegunungan]
 sources:
   - title: Kejari Jayawijaya musnahkan ganja 868,75 gram dan sabu 44,12 gram

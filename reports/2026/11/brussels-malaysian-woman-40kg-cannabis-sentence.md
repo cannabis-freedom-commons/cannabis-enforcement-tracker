@@ -31,7 +31,7 @@ details:
   date_precision: exact
   period: {start: 2026-04-07, end: 2026-11-05}
   region: Brussels
-  route: {from: th, to: be, crossing: Brussels Airport}
+  route: {from: [th], to: [be], crossing: Brussels Airport}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
@@ -51,7 +51,7 @@ data_sources:
   figures.prison: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
-submission: 3bb3a91abd2d9af1b5d164ec141899b
+submission: 3bb3a91abd2d9af98b5d164ec141899b
 tags: [brussels-airport, thailand, malaysia, cannabis, customs]
 sources:
   - title: TC Bruxelles - Une quadragénaire écope de 40 mois de prison pour transport de drogue depuis la Thaïlande
