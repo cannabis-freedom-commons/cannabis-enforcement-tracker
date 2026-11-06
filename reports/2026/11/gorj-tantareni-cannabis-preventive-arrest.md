@@ -58,6 +58,11 @@ sources:
     publisher: Gorj Express
     date: 2026-11-05
     language: ro
+  - title: Canabis cultivat și vândut în Gorj. Un tânăr de 34 de ani a ajuns în arest
+    url: https://presafarastapani.ro/canabis-cultivat-si-vandut-in-gorj-un-tanar-de-34-de-ani-a-ajuns-in-arest/
+    publisher: Presa Fara Stapani
+    date: 2026-11-05
+    language: ro
 open_questions:
   - No figure for the number of plants grown or for the weight, area or value of the cannabis was published; only the nine jars seized are stated.
   - The cannabis found in the jars and bags was still being examined, so its weight and composition were not stated.
@@ -78,16 +83,16 @@ directorate that investigates organised crime, documented the man's activity.
 [@1,3,4,5]
 
 Investigators said he bought quantities of cannabis seeds in spring 2026 and set
-up the grow in the commune. [@1,3,4,5] Once the plants reached a certain stage he
+up the grow in the commune. [@1,3,4,5,7] Once the plants reached a certain stage he
 harvested, dried and stored them, and part of the plant material was later sold
 to various customers. [@1,3,4,5] Police carried out two search warrants, at the man's
-home and at his brother's home. [@1,3,4,5,6] Officers found and seized nine glass jars
+home and at his brother's home. [@1,3,4,5,6,7] Officers found and seized nine glass jars
 containing various amounts of cannabis, several bags and containers with plant
 fragments still being examined, remnants of hand-rolled cigarettes, grinders,
-data storage devices and other evidence. [@1,3,4,5,6]
+data storage devices and other evidence. [@1,3,4,5,6,7]
 
-DIICOT Gorj prosecutors ordered his detention on 4 November 2026. [@1,3,4,5,6] On
+DIICOT Gorj prosecutors ordered his detention on 4 November 2026. [@1,3,4,5,6,7] On
 Thursday, 5 November, a judge of the Gorj Tribunal ordered him held in
-preventive arrest for 30 days. [@1,3,4,5,6] County police officers and Gorj gendarmes
+preventive arrest for 30 days. [@1,3,4,5,6,7] County police officers and Gorj gendarmes
 supported the operation. [@1,3,4,5,6] The man retains the presumption of innocence and
 his procedural rights through the criminal proceedings. [@1]
