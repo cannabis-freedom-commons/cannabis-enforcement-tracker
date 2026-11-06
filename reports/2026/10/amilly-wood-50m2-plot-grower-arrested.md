@@ -41,6 +41,11 @@ sources:
     publisher: Ouest-France
     date: 2026-11-04
     language: fr
+  - title: 'Loiret : Un promeneur découvre 50 m² de cannabis cultivé en pleine forêt'
+    url: https://www.20minutes.fr/faits_divers/4260656-20261105-loiret-promeneur-decouvre-50-2-cannabis-cultive-pleine-foret
+    publisher: 20 Minutes
+    date: 2026-11-05
+    language: fr
 open_questions:
   - No count of the cannabis plants was published, only the planted area and plant height.
   - No cannabis weight, street value, or account of what happened to the plants was reported.
@@ -48,6 +53,7 @@ open_questions:
   - The body text says plants could reach 2.50 metres while the photo caption says more than 2.50 metres; the report keeps both wordings as published.
   - The Ouest-France page gives no separate date for the police operation itself, only the 2 November 2026 social-media account and its own 4 November 2026 publication date.
   - The page's only picture is captioned as an archive illustration photo, so it does not show this plantation and no media entry is included.
+  - 20 Minutes says the case is closed, but gives no court decision beyond the finding of criminal irresponsibility, so the closure is not explained.
 ---
 
 On 22 October 2026, Loiret police launched an operation at Amilly. [@1] Police
@@ -59,13 +65,15 @@ Once there, he found several cannabis plants and decided to call the police.
 [@1]
 
 There they found a plantation of about 50 square metres with plants reaching up
-to 2.5 metres in height. [@1,3] A second account likewise put the plot at 50
+to 2.5 metres in height. [@1,3,4] A second account likewise put the plot at 50
 square metres in a wood near Amilly in the Loiret. [@2] A police photo caption
 called it a clandestine plantation in the Amilly woods with plants reaching more
 than 2.5 metres. [@1] Officers searched the surrounding area for anyone at the
 site but found no one there. [@1,3] One account contrasted the open-air grow with
 cultivation usually carried out under sodium lamps. [@2]
 
-The Loiret police disclosed the operation in a social-media post. [@1] After
+The Loiret police disclosed the operation in a social-media post. [@1,4] After
 further investigation, police arrested the grower, who was declared criminally
-irresponsible. [@1,3]
+irresponsible. [@1,3,4]
+
+The article says the case is now closed. [@4]
