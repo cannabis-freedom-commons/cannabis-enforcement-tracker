@@ -24,12 +24,18 @@ tags: [dhankuta, bhedetar, trafficking]
 open_questions:
   - No second outlet account was found and the report is in Nepali; every fact above comes from the Kantipur report.
   - Whether the suspect was the driver and where the consignment was headed were not stated.
+  - Onlinekhabar English spells the suspect's surname Bishwakarma, while Kantipur uses Vishwakarma.
+  - Onlinekhabar English describes the arrest of one person and the concealment in sacks but does not say whether the detained man was driving, where the load was headed or what charges followed.
 sources:
   - title: दुर्घटनामा परेको स्कर्पियोबाट ३४१ किलो गाँजा बरामद
     url: https://ekantipur.com/koshi-pradesh/2026/10/07/341-kg-of-marijuana-recovered-from-scorpio-involved-in-accident-20-43.html
     publisher: Kantipur
     date: 2026-10-07
     language: ne
+  - title: 341 kg of marijuana found in crashed vehicle, one arrested
+    url: https://english.onlinekhabar.com/341-kg-of-marijuana-found-in-crashed-vehicle-one-arrested.html
+    publisher: Onlinekhabar English
+    date: 2026-10-07
 ---
 
 A Scorpio jeep with registration number Ba 13 Cha 6275, travelling from Dhungre toward
@@ -37,8 +43,8 @@ Bhedetar, crashed near the Skywalk at Bhedetar in Sangurigadhi-6 at about 11:55 
 Tuesday night; police reaching the scene on the crash report detained a man sitting
 beside the vehicle and recovered the drugs. [@1]
 
-Police recovered 341 kg of marijuana from the crashed Scorpio. [@1] The detained man is
+Police recovered 341 kg of marijuana from the crashed Scorpio. [@1,2] The detained man is
 39-year-old Amit Vishwakarma, originally of Biratnagar Metropolitan City-9 in Morang and
 currently living in Dharan-10, Sunsari, according to Dhankuta police information officer
-DSP Hemant Bhandari Kshetri. [@1] Police have brought the recovered marijuana to the
-District Police Office, Dhankuta. [@1]
+DSP Hemant Bhandari Kshetri. [@1,2] Police have brought the recovered marijuana to the
+District Police Office, Dhankuta. [@1,2]
