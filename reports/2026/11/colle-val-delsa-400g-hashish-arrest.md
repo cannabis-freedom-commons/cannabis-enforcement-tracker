@@ -46,6 +46,11 @@ sources:
     publisher: La Nazione
     date: 2026-11-06
     language: it
+  - title: 'COLLE VAL D’ELSA: ARRESTATI DAI CARABINIERI 2 CITTADINI STRANIERI SORPRESI CON 4 PANETTI DI HASHISH'
+    url: https://www.antennaradioesse.it/colle-val-delsa-arrestati-dai-carabinieri-2-cittadini-stranieri-sorpresi-con-4-panetti-di-hashish/
+    publisher: Antenna Radio Esse
+    date: 2026-11-05
+    language: it
 open_questions:
   - The article gives no separate date for the stop; 5 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source for this event was found after searching in Italian and English.
@@ -53,6 +58,9 @@ open_questions:
   - The page image is a 2019 file photo of a Carabinieri arrest, not this seizure, so no media entry is listed.
   - No court outcome beyond house arrest pending the validation hearing was reported.
   - La Nazione gives no separate date for the stop; 6 November 2026 is its publication date.
+  - Antenna Radio Esse gives no separate date for the stop; 5 November 2026 is its publication date and stands in for the incident date.
+  - Antenna Radio Esse publishes the men's nationalities but not their names.
+  - The page's lead image is an uncaptioned Carabinieri picture that is not established to show this seizure, so no media entry is listed for it.
 ---
 
 Two young foreign men aged 25 and 22 were arrested by the Carabinieri in Colle
@@ -66,3 +74,5 @@ blocks divided in 2 packages weighing 400 grams in total. [@1,2]
 
 Both were arrested in flagrante and placed by the judicial authority under house
 arrest at their respective residences pending the validation hearing. [@1]
+
+Antenna Radio Esse describes the two arrested men as a 25-year-old Moroccan and a 22-year-old Tunisian. [@3]
