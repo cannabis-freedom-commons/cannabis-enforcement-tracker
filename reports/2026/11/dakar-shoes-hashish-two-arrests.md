@@ -79,6 +79,11 @@ sources:
     publisher: كازا 24
     date: 2026-11-05
     language: ar
+  - title: 'Lutte contre le trafic de drogue : l’OCRTIS démantèle un réseau international d''expédition de haschisch dissimulé dans des chaussures'
+    url: https://www.pressafrik.com/Lutte-contre-le-trafic-de-drogue-l-OCRTIS-demantele-un-reseau-international-d-expedition-de-haschisch-dissimule-dans-des_a314144.html
+    publisher: PressAfrik
+    date: 2026-11-05
+    language: fr
 open_questions:
   - No weight for the hashish was published, only counts of eight pellets, 32 balls and one additional ball, so no kilogram figure can be recorded.
   - The two packs of Alprazolam are a non-cannabis substance and are excluded from cannabis figures.
@@ -95,11 +100,14 @@ open_questions:
   - The page's image caption refers to blue packets seized by police and does not establish that the photo shows the shoes or hashish in this case, so no media entry is included.
   - Casa24 gives no weight for the hashish, reporting only balls of the drug, so the existing open question about a kilogram figure remains.
   - Casa24 refers to the central office for the fight against illicit drug trafficking without naming ocrtis, and does not say how the Moroccan seizure was transferred to Senegal.
+  - This account calls the Soprim Extension woman the addressee of the second consignment, while the report records her as an intermediary who named a final recipient still being sought.
+  - The stated Casablanca total of 500 grams does not match its own breakdown of eight 100-gram slabs plus nine balls, so no separate kilogram figure is taken from this account.
+  - The account dates the intelligence note to 31 October 2026 but does not say where the parcel originated beyond Morocco, nor why the goods were described as having passed through Casablanca.
 ---
 
 Two people were arrested in Dakar in an operation by Ocrtis, the anti-drug
 office, against a suspected hashish-trafficking network between Casablanca and
-Dakar. [@1,4,7,8,9] The first person arrested was M. M. Mbacké, aged 25, who described
+Dakar. [@1,4,7,8,9,11] The first person arrested was M. M. Mbacké, aged 25, who described
 himself as a livestock breeder living at HLM 5. [@1,4,5] A second outlet fully names
 him as Mouhamadou Mourtalla Mbacké and dates his interception to 1 November.
 [@2] The second person arrested was R. Kane, aged 28, who described herself as a
@@ -110,16 +118,18 @@ and gave investigators the identity of the consignment's final recipient, who
 was still being actively sought. [@1,3,4,6]
 
 Officers found eight pellets of hashish, made up of 32 balls, carefully hidden
-in the soles of shoes carried in a parcel. [@1,4,5,7,8,9] A search of Mbacké's home
+in the soles of shoes carried in a parcel. [@1,4,5,7,8,9,11] A search of Mbacké's home
 recovered one more ball of hashish along with two started packs of Alprazolam,
-which is not counted as cannabis. [@1,4,5,7,8,9]
+which is not counted as cannabis. [@1,4,5,7,8,9,11]
 
 On 31 October a Senegalese GP, a parcel courier shuttling between the two
 cities, alerted police after noticing a strong suspect smell coming from shoes
 inside a parcel. [@1,4,6,7] The drugs were first handed to the Moroccan police. [@1,3,4,5,6]
 Ocrtis then set up a controlled delivery with the goods substituted in order to
-identify the people involved in the circuit. [@1,3,4,5,6]
+identify the people involved in the circuit. [@1,3,4,5,6,11]
 
 The woman had commissioned a parcel courier to collect the parcel at Parcelles Assainies Unité 08 at about 20:00, and officers carrying out a watched delivery then identified and arrested her. [@7,8,9] The man was arrested near the Zinc market in Pikine at about 19:00 on 1 November 2026 as he was about to collect the parcel. [@7,8,9] He was placed in custody for criminal association, international hashish trafficking and money laundering. [@7,8,9] The woman's arrest followed a related seizure in Casablanca of eight 100-gram hashish slabs and nine hashish balls hidden in a pair of shoes, 500 grams in all. [@7,8,9] A search of her home at Soprim Extension found three pairs of shoes identical to the one used to hide the hashish seized in Morocco. [@7,8,9]
 
 The report says the woman said her role was limited to acting as an intermediary for delivering the parcel before she gave the recipient's identity. [@10] Casa24 names the Senegalese agency as the central office for the fight against illicit drug trafficking, and does not say how the drugs reached it. [@10]
+
+The operation followed intelligence received on 31 October 2026 about the arrival of suspicious parcels from Morocco. [@11]
