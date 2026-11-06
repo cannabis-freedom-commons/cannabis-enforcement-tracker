@@ -48,6 +48,16 @@ sources:
     url: https://www.centralchronicle.com/police-seize-970-kg-of-cannabis-plants/
     publisher: Central Chronicle
     date: 2026-11-05
+  - title: 'एमपी: कपास और तुअर की फसल के बीच उगा रहे थे गांजा, 1.57 करोड़ के 1284 पौधे जब्त'
+    url: https://www.amarujala.com/madhya-pradesh/bhopal/mp-1-284-cannabis-plants-worth-rs-1-57-crore-seized-from-cotton-and-pigeon-pea-fields-in-dhar-2026-11-05
+    publisher: Amar Ujala
+    date: 2026-11-05
+    language: hi
+  - title: 'मनावर में खेत से गांजे के 150 पौधे जब्त: कपास और तुअर की फसल के बीच हो रही थी खेती; 54.12 लाख कीमत, मालिक गिरफ्तार'
+    url: https://www.bhaskar.com/local/mp/dhar/manawar/news/dhar-manawar-illegal-ganja-cultivation-arrest-police-raid-139592284.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives no separate date for the two raids; 5 November 2026 is its publication date and is used as the incident date.
   - No names or ages of the two arrested growers were published.
@@ -59,6 +69,9 @@ open_questions:
   - A second article on breakingtube.com carries the same headline and totals and appears to be a reprint of the same police release, so it does not constitute independent corroboration.
   - Central Chronicle gives the second village as Karondiya Khurd, an English rendering of the Karaundia Khurd used in the existing report; no substantive discrepancy.
   - The article gives no separate date for the two raids; 5 November 2026 is its publication date.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: Police arrested the Jali accused and registered a case against him at Tanda police station under the Narcotic Drugs and Psychotropic Substances Act.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The Umarban outpost police received a tip from an informer on 4 November that cannabis was growing among cotton and pigeon pea in a Karondiya Khurd field and raided the field after confirming it.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The Manawar station house chief said the Karondiya Khurd action was the tenth against illegal cannabis cultivation under Operation Prahar in the district in two months, with ten cases registered.'
 ---
 
 Dhar police carried out two raids against illegal cannabis cultivation in Dhar
@@ -66,8 +79,8 @@ district under Operation Prahar on the direction of Superintendent of Police
 Sachin Sharma. [@1,2,3] Officers arrested two growers accused of cultivating
 cannabis illegally in the two actions. [@1,2,3] Officers seized a total of 1,284
 green cannabis plants, known locally as ganja, weighing 969.335 kg in the two
-actions. [@1,2,3] Police valued the total seizure at 1 crore 57 lakh 12 thousand
-rupees. [@1,2,3]
+actions. [@1,2,3,4] Police valued the total seizure at 1 crore 57 lakh 12 thousand
+rupees. [@1,2,3,4]
 
 Tanda police raided Jali village and seized 1,134 green cannabis plants from the
 accused grower's cotton field. [@1,2] Police said the Jali plants weighed 518.335
@@ -78,7 +91,7 @@ the second action, the Umarban outpost of Manawar police raided Karaundia Khurd
 village and seized 150 cannabis plants from the accused grower's field. [@1,2] The
 Karaundia Khurd plants had been grown among cotton and tuar, the local name for
 pigeon pea, and police said they weighed 451 kg with an estimated value of 54
-lakh 12 thousand rupees. [@1,2] Police arrested the second accused and took legal
+lakh 12 thousand rupees. [@1,2,5] Police arrested the second accused and took legal
 action against him under the Narcotic Drugs and Psychotropic Substances Act.
 [@1,2]
 
