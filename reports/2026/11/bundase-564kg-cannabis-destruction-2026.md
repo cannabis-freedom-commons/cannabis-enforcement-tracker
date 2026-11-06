@@ -31,6 +31,11 @@ media:
     media_url: https://cdn.ghanaweb.com/imagelib/pics/656/65653682.295.jpg
     publisher: GhanaWeb
     caption: NACOC officials destroy seized illicit drugs at Bundase.
+  - kind: photo
+    url: https://www.citinewsroom.com/2026/11/nacoc-destroys-over-us10m-worth-of-seized-narcotics/
+    media_url: https://www.citinewsroom.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162532-750x375.png
+    publisher: Citinewsroom
+    caption: The page picture carried by Citi Newsroom with the NACOC destruction story; it has no listed caption or photo credit, so it is not established to show the burning at Bundase.
 details:
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
@@ -71,6 +76,10 @@ sources:
     publisher: GhanaWeb
     date: 2026-11-05
     language: en
+  - title: NACOC destroys over US$10m worth of seized narcotics
+    url: https://www.citinewsroom.com/2026/11/nacoc-destroys-over-us10m-worth-of-seized-narcotics/
+    publisher: Citinewsroom
+    date: 2026-11-05
 open_questions:
   - The article gives no separate date for the destruction; 5 November 2026, its publication date, is used as the incident date.
   - No arrests, charges or court outcomes connected with this destruction were reported.
@@ -81,21 +90,24 @@ open_questions:
   - MyJoyOnline gives no date for the destruction; 5 November 2026, its publication date, stands in for the event date.
   - MyJoyOnline values the synthetic opioids at about US$5.9 million, a rounded figure consistent with the existing report's US$5,912,625 but not stated to the dollar.
   - MyJoyOnline does not say where the destroyed cannabis had been seized or how much the cannabis alone weighed beyond the 564.39 kg figure.
+  - Citinewsroom gives no separate date for the destruction; its 5 November 2026 publication date is the only date the source provides.
+  - The article states the codeine cough mixture and opioid values only as running text, so they are left out of this corroboration.
+  - The Citinewsroom page image has no caption or credit, so it is not established to show the destruction itself.
 ---
 
 The Narcotics Control Commission (NACOC) destroyed seized narcotic drugs at
 Bundase in an exercise with an estimated street value of more than US$10
-million. [@1,2,3,5,6] The destroyed stock included 564.39 kilograms of cannabis, valued
-at US$112,878. [@1,2,3,5,6,7] The same destruction included 4,730,100 capsules and tablets
+million. [@1,2,3,5,6,8] The destroyed stock included 564.39 kilograms of cannabis, valued
+at US$112,878. [@1,2,3,5,6,7,8] The same destruction included 4,730,100 capsules and tablets
 of synthetic opioids, estimated at US$5,912,625, and 338,000 bottles of
 codeine-infused cough mixture, valued at US$4,225,000. [@1,2,5,6] The Ghana Standards
 Authority verified the authenticity of the seized substances before destruction,
-and tests confirmed cannabis in the samples. [@1,4,5,6]
+and tests confirmed cannabis in the samples. [@1,4,5,6,8]
 
 After the exercise, NACOC Director-General Major General Maxwell Obuba Mantey
 spoke to the media. [@1] Mantey said the Commission remained committed to
 fighting narcotics despite a recent drug seizure in Lebanon linked to Ghana.
-[@1,6] He said the Lebanon-linked seizure did not mean the Commission had failed
+[@1,6,8] He said the Lebanon-linked seizure did not mean the Commission had failed
 in its mandate and that it would continue efforts against drug trafficking
 despite the challenges. [@1,5] Mantey reaffirmed the Commission's resolve to
 intensify efforts to tackle the narcotics trade. [@1,5] He said NACOC would not
@@ -107,3 +119,5 @@ The seized drugs had been cleared for destruction through court orders. [@3,7] T
 Mantey said the Lebanon incident should not be viewed as evidence of institutional failure. [@5] NACOC did not disclose exactly where the destroyed substances had been seized. [@5]
 
 The drugs destroyed had been confiscated during NACOC's anti-drug operations. [@6]
+
+Mantey urged the public to report suspicious activity to the Commission and said its doors were open to anyone with information on drug trafficking. [@8]
