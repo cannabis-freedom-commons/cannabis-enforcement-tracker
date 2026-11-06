@@ -58,6 +58,10 @@ sources:
     publisher: 香港商報網
     date: 2026-11-05
     language: zh
+  - title: Hong Kong Customs Seizes About 9kg of Suspected Cannabis Buds, Arrests a Passenger at Airport
+    url: https://www.bastillepost.com/global/article/6328861-hong-kong-customs-seizes-about-9kg-of-suspected-cannabis-buds-arrests-a-passenger-at-airport
+    publisher: Bastillepost
+    date: 2026-11-05
 open_questions:
   - The reported 9 kg weight and HK$1.9 million value are stated as approximations.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
@@ -66,16 +70,16 @@ open_questions:
 ---
 
 Hong Kong Customs arrested a 24-year-old mainland male traveller at Hong Kong
-International Airport after finding suspected cannabis in his hand luggage. [@1,2,4,5]
+International Airport after finding suspected cannabis in his hand luggage. [@1,2,4,5,6]
 The traveller had flown in from Bangkok, Thailand, on the night of 4 November
-2026. [@1,2,4,5] Officers detected the luggage-concealed trafficking case at the
-airport on 5 November 2026. [@1,4] The arrested man has been charged with one
-count of trafficking in a dangerous drug. [@2,4,5] His case is due for mention at
-West Kowloon Magistrates' Courts on 6 November 2026. [@1,2,4,5]
+2026. [@1,2,4,5,6] Officers detected the luggage-concealed trafficking case at the
+airport on 5 November 2026. [@1,4,6] The arrested man has been charged with one
+count of trafficking in a dangerous drug. [@2,4,5,6] His case is due for mention at
+West Kowloon Magistrates' Courts on 6 November 2026. [@1,2,4,5,6]
 
 Officers seized about 9 kg of suspected cannabis buds, described as 大麻花, in the
-case. [@3,5] Customs put the estimated market value of the seized buds at about
-HK$1.9 million. [@1,2,5]
+case. [@3,5,6] Customs put the estimated market value of the seized buds at about
+HK$1.9 million. [@1,2,5,6]
 
 Customs said it prioritises clearance checks on travellers arriving from
 high-risk regions under a risk-management approach to combat cross-boundary drug
