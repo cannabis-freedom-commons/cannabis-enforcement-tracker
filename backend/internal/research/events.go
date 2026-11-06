@@ -16,10 +16,16 @@ type executionEvent struct {
 	Type      string `json:"type"`
 	SessionID string `json:"sessionID"`
 	Error     struct {
-		Name string `json:"name"`
+		Name string `json:"name"` // older OpenCode: name and data.message
 		Data struct {
 			Message string `json:"message"`
 		} `json:"data"`
+		Type     string `json:"type"` // newer: type, message, the provider's HTTP status and answer
+		Message  string `json:"message"`
+		Status   int    `json:"status"`
+		Response struct {
+			Body string `json:"body"`
+		} `json:"response"`
 	} `json:"error"`
 	Part struct {
 		SessionID string `json:"sessionID"`
@@ -266,6 +272,55 @@ func slugList(slugs []string) string {
 	return strings.Join(slugs, ", ")
 }
 
+// what an OpenCode error says: who failed, the provider's HTTP status, its message and support code
+var providerErrors = map[string]string{
+	"provider.auth":            "the model provider refused the credentials",
+	"provider.invalid-request": "the model provider rejected the request",
+	"provider.internal":        "the model provider had an internal error",
+	"provider.unknown":         "the model provider failed",
+	"provider.rate-limit":      "the model provider's rate limit was reached",
+}
+
+func (w *eventWriter) errorDetail(e executionEvent) string {
+	who := providerErrors[e.Error.Type]
+	if who == "" {
+		who = e.Error.Type
+		if who == "" {
+			who = e.Error.Name
+		}
+		if !toolPattern.MatchString(strings.NewReplacer(".", "_", "-", "_").Replace(strings.ToLower(who))) {
+			who = ""
+		}
+	}
+	why := strings.TrimSpace(e.Error.Message)
+	if why == "" {
+		why = strings.TrimSpace(e.Error.Data.Message)
+	}
+	var body struct {
+		Code string `json:"code"`
+	}
+	_ = json.Unmarshal([]byte(e.Error.Response.Body), &body)
+	var b strings.Builder
+	if who != "" {
+		b.WriteString(": " + who)
+	}
+	if e.Error.Status >= 100 && e.Error.Status < 600 {
+		fmt.Fprintf(&b, " (HTTP %d)", e.Error.Status)
+	}
+	if why = w.reason(why); why != "" {
+		if b.Len() == 0 {
+			b.WriteString(": ")
+		} else {
+			b.WriteString(" — ")
+		}
+		b.WriteString(strings.TrimRight(why, "."))
+	}
+	if code := strings.TrimSpace(body.Code); code != "" && toolPattern.MatchString(strings.ToLower(strings.ReplaceAll(code, "-", "_"))) {
+		b.WriteString(". Provider code " + code)
+	}
+	return b.String()
+}
+
 func (w *eventWriter) handle(line []byte) error {
 	var e executionEvent
 	if json.Unmarshal(line, &e) != nil {
@@ -344,14 +399,7 @@ func (w *eventWriter) handle(line []byte) error {
 			role, kind, text = "assistant", "reasoning", w.safeN(value, 4000)
 		}
 	case "error":
-		why := strings.TrimSpace(e.Error.Data.Message)
-		if why == "" {
-			why = e.Error.Name
-		}
-		text = "OpenCode reported an error"
-		if why != "" {
-			text += ": " + w.reason(why)
-		}
+		text = "OpenCode reported an error" + w.errorDetail(e)
 		role, kind, text = "system", "error", text+"."
 	}
 	if text == "" {

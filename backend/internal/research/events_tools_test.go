@@ -64,3 +64,21 @@ func TestTrackerToolsInPublicChat(t *testing.T) {
 		t.Fatalf("check ok: %q", got)
 	}
 }
+
+func TestOpenCodeErrorsSayWhatFailed(t *testing.T) {
+	w := &eventWriter{secret: "sk-private-test-key-1234567890"}
+	for line, want := range map[string]string{
+		`{"type":"error","error":{"type":"provider.invalid-request","message":"unknown model","status":404,"response":{"body":"{\"error\":{\"message\":\"unknown model\"},\"code\":\"SWN-F97DET\",\"support\":\"please contact staff at https://discord.gg/x\"}"}}}`: "OpenCode reported an error: the model provider rejected the request (HTTP 404) — unknown model. Provider code SWN-F97DET.",
+		`{"type":"error","error":{"type":"provider.auth","message":"Request failed: 400"}}`:                             "OpenCode reported an error: the model provider refused the credentials — Request failed: 400.",
+		`{"type":"error","error":{"name":"APIError","data":{"message":"key sk-private-test-key-1234567890 rejected"}}}`: "OpenCode reported an error: APIError — key [redacted] rejected.",
+		`{"type":"error","error":{}}`: "OpenCode reported an error.",
+	} {
+		var e executionEvent
+		if err := json.Unmarshal([]byte(line), &e); err != nil {
+			t.Fatal(err)
+		}
+		if got := "OpenCode reported an error" + w.errorDetail(e) + "."; got != want {
+			t.Errorf("got  %q\nwant %q", got, want)
+		}
+	}
+}
