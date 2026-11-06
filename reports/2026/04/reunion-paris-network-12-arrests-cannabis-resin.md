@@ -39,6 +39,11 @@ sources:
     publisher: Gendinfo, Gendarmerie nationale
     date: 2026-04-17
     language: fr
+  - title: Cocaïne, "dou", résine de cannabis, ecstasy... un vaste trafic de drogue piloté depuis la prison de Domenjod démantelé à La Réunion et en région parisienne
+    url: https://la1ere.franceinfo.fr/reunion/cocaine-dou-resine-de-cannabis-ecstasy-un-vaste-trafic-de-drogue-pilote-depuis-la-prison-de-domenjod-demantele-a-la-reunion-et-en-region-parisienne-1692479.html
+    publisher: Réunion La 1ère
+    date: 2026-04-17
+    language: fr
 open_questions:
   - No breakdown of the 1.6 million euro valuation by substance was published, so the total is recorded as the gendarmerie's estimate for all the drugs, not a cannabis-only value.
   - The article gives no figure for the cannabis resin found at the December 2025 airport stop, where 37 kg of mixed drugs were seized, so only the 14.3 kg from the 13 April searches is recorded.
@@ -47,16 +52,17 @@ open_questions:
   - 'No court outcome is reported: seven were presented to an investigating judge, while the five held in the Paris region were subject to arrest warrants.'
   - The page's only photo carries no caption beyond its COMGENDRE / UNPJ credit and is not established to show the seized drugs.
   - Only the gendarmerie's own account could be opened; no independent second report of the operation was found.
+  - The article also mentions a separate local dou and cocaine trafficking case uncovered the same week, explicitly described as unlinked; it is a different event left out here.
 ---
 
 On 13 April 2026 gendarmes arrested 12 people in a coordinated operation against
-a drug network running between Réunion and metropolitan France. [@1] Seven of
-the twelve were arrested on the island and five in the Paris region. [@1]
+a drug network running between Réunion and metropolitan France. [@1,2] Seven of
+the twelve were arrested on the island and five in the Paris region. [@1,2]
 
 The searches turned up 14.3 kg of cannabis resin, along with 1.6 kg of cocaine,
 5.4 kg of cathinone, more than 4,200 ecstasy tablets and 19,000 euros in cash.
-[@1] The gendarmerie put the resale value of the whole haul at more than 1.6
-million euros. [@1] The seven people arrested on Réunion were brought before an
+[@1,2] The gendarmerie put the resale value of the whole haul at more than 1.6
+million euros. [@1,2] The seven people arrested on Réunion were brought before an
 investigating judge from 16 April 2026. [@1] Those arrested in mainland France
 were made subject to arrest warrants, meaning the Paris-region suspects were not
 yet brought before a judge. [@1]
@@ -68,10 +74,11 @@ investigation was opened on 21 December 2025 under the Saint-Denis prosecutor's
 office on Réunion. [@1] Investigators said the network used "mules" flying the
 drugs from the Paris region to Réunion, and that it was directed by a
 logistician and an organiser on the island, with steering from Domenjod remand
-prison. [@1]
+prison. [@1,2]
 
 Investigations were led by the Saint-Denis gendarmerie anti-narcotics office and
 the departmental flow-control squadron, with the national investigation unit of
 the gendarmerie's national criminal police joined in March 2026. [@1] More than
 100 gendarmes took part in the operation. [@1]
 
+The December 2025 airport arrest that started the inquiry involved 23.5 kg of cannabis resin, 12.3 kg of cathinone and 1.1 kg of cocaine in the couple's two suitcases, estimated at more than 4 million euros on the local market. [@2] Several vehicles and dozens of telephones were also seized alongside the cash. [@2]
