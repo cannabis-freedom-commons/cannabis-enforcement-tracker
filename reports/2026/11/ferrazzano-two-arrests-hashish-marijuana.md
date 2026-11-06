@@ -40,6 +40,11 @@ sources:
     publisher: Polizia di Stato - Questura di Campobasso
     date: 2026-11-05
     language: it
+  - title: 'BLITZ ANTIDROGA DELLA SQUADRA MOBILE: DUE ARRESTI. SEQUESTRATI COCAINA, HASHISH'
+    url: https://www.tvimolise.it/blitz-antidroga-della-squadra-mobile-due-arresti-sequestrati-cocaina-hashish/
+    publisher: TVI molise
+    date: 2026-11-05
+    language: it
 open_questions:
   - The reports give no separate date for the car stop; 4 November 2026 is inferred from the police statement's reference to "the day before" its 5 November publication, and isNews gives no date of its own.
   - No charges, validation of the arrests or court outcome were reported; the case was at the preliminary investigation stage.
@@ -47,25 +52,26 @@ open_questions:
   - The articles describe one hashish total of about 60 g across the two homes without saying how much was found in each.
   - The drugs' value, the car involved and the exact location in Ferrazzano were not reported.
   - The isNews page carries a general police photo captioned only "arresti squadra mobile", with no photographer or agency credit, so it is not established to show this specific seizure.
+  - The TVI Molise page reports 'oltre 70 grammi di sostanza stupefacente' without breaking it down, so it does not by itself separate the 60 g of hashish and 10 g of marijuana recorded in the existing report from the cocaine also named in its headline.
+  - The page serves a SQUADRA-MOBILE.jpg image with no caption, alt text or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Campobasso's Squadra Mobile, the provincial detective unit of the State Police,
 stopped a car carrying two men in Ferrazzano, in the province of Campobasso,
-Molise. [@2] The driver was a young man of Abruzzo origin who had lived in the
+Molise. [@2,3] The driver was a young man of Abruzzo origin who had lived in the
 province for years and had a prior drug record; his passenger was a Tunisian
 citizen. [@1]
 
 Police said the driver was carrying 12 grams of cocaine the passenger had just
 handed him. [@2] Officers also found about 5,000 euros in cash on the two men.
-[@1] Searches of their homes in Montagano and Ferrazzano turned up about 60
+[@1,3] Searches of their homes in Montagano and Ferrazzano turned up about 60
 grams of hashish and 10 grams of marijuana. [@2] The same searches found
 material for packaging and preparing doses for sale. [@1]
 
 The two men, aged 23 and 52, were arrested in the act on charges of dealing and
 possessing drugs for sale. [@2] On the order of the Campobasso prosecutor's
 office, one man was taken to the provincial prison and the other placed under
-house arrest pending a decision by the judicial authority. [@1] The police
+house arrest pending a decision by the judicial authority. [@1,3] The police
 statement says the Campobasso prosecutor's case is still at the preliminary
 investigation stage and that guilt will be finally established only at trial,
 under the presumption of innocence. [@2]
-
