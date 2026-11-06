@@ -34,6 +34,21 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-05
     language: hi
+  - title: बिहिया में कुख्यात अपराधी संजीत यादव उर्फ करिया गिरफ्तार:पिस्टल और गांजा बरामद, रंगदारी समेत पहले से दर्ज हैं चार आपराधिक मामले
+    url: https://www.bhaskar.com/local/bihar/bhojpur/bihiya/video/bihia-crime-notorious-criminal-sanjeet-yadav-kariya-arrested-arms-139600952.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-11-05
+    language: hi
+  - title: 'Ara News: पिस्टल और गांजे के साथ कुख्यात करिया यादव सहित दो गिरफ्तार'
+    url: https://www.livehindustan.com/bihar/ara/story-bhojpur-police-arrest-notorious-criminal-kariya-yadav-seize-pistol-and-ganja-201793890649744.amp.html
+    publisher: Hindustan
+    date: 2026-11-05
+    language: hi
+  - title: 'Bihar News : भोजपुर पुलिस ने कुख्यात संजीत उर्फ करिया यादव सहित दो को किया गिरफ्तार, हथियार और मादक पदार्थ किया बरामद'
+    url: https://news4nation.com/bihar/arrah/bhojpur-police-arrested-two-people-including-notorious-sanjeet-alias-kariya-yadav-736582
+    publisher: News4Nation
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No weight or quantity for the seized ganja was published, so no cannabis kilograms can be recorded.
   - No type, count or calibre for the seized arms and cartridges was published.
@@ -48,10 +63,17 @@ open_questions:
   - Police reported 5.75 grams recovered from the paddy field and a combined total of 175.75 grams; the article does not explain how the two figures relate, so the total is recorded as police stated it.
   - No charge sections, court date or judicial custody decision appear in this account.
   - The single page image repeats the headline and its file path dates to February 2025, so it is not established to show this seizure and no media entry is included.
+  - Hindustan and News4Nation report a total of 176.45 g, while the existing report records 175.75 g; Hindustan's FAQ gives 5.75 g at the scene and 170 g from the shop, and News4Nation gives 5.75 g and 170.7 g, so the final total remains unresolved.
+media:
+  - kind: video
+    url: https://www.bhaskar.com/local/bihar/bhojpur/bihiya/video/bihia-crime-notorious-criminal-sanjeet-yadav-kariya-arrested-arms-139600952.html?type=video
+    media_url: https://videos.bhaskarassets.com/2026/11/05/3308c0d8-aa2f-4091-98ab-527955721952_1793871965190/mp4/v360.mp4
+    publisher: Dainik Bhaskar
+    caption: Dainik Bhaskar video report on Sanjeet Yadav's arrest and the recovery of a pistol and ganja.
 ---
 
 During the Wednesday raid near the temple, officers caught both youths with
-illegal arms, cartridges and ganja. [@1,2,3] Police had received a tip that
+illegal arms, cartridges and ganja. [@1,2,3,4,5] Police had received a tip that
 offenders had gathered in the area planning a major criminal act. [@1,2]
 
 Police suspect the arrested youths were preparing to carry out a major criminal
@@ -65,3 +87,5 @@ will register a case under the relevant sections and send both accused to
 judicial custody after questioning is complete. [@1,3]
 
 Police recovered a country-made pistol, four cartridges and a total of 175.75 grams of ganja, according to a press note from superintendent of police Awadhesh Dixit. [@3] The other arrested suspect was identified as Awadh Bihari Prasad of Kateya village. [@3] Yadav told police he had bought the ganja from Prasad, and a raid on Prasad's shop recovered 170 grams of ganja; Prasad admitted his involvement. [@3]
+
+Police registered Bihiya police station case 382/26 on 4 November 2026 under the Arms Act and the NDPS Act. [@6]
