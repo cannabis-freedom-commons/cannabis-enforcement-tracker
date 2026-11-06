@@ -31,6 +31,11 @@ sources:
     publisher: Neue Westfälische
     date: 2026-11-04
     language: de
+  - title: 'Überraschender Fund in Gütersloher Einrichtung: Polizei entdeckt Cannabispflanzen'
+    url: https://www.nw.de/lokal/kreis_guetersloh/guetersloh/24455575_Ueberraschender-Fund-in-Guetersloher-Einrichtung-Polizei-entdeckt-Cannabispflanzen.html
+    publisher: Neue Westfälische
+    date: 2026-11-06
+    language: de
 open_questions:
   - No exact plant count was published; police gave only a middle two-digit number, so no plants_destroyed figure is recorded.
   - The raid date of 3 November 2026 is inferred from the article's reference to Tuesday and its publication date of 4 November 2026.
@@ -40,12 +45,13 @@ open_questions:
   - 'Left out, as its quotation was not found in Neue Westfälische: Police spokesman Mark Kohnert put the haul at a middle two-digit number of hemp plants and said investigators gave no further details on scale, origin or intended use.'
   - 'Left out, as its quotation was not found in Neue Westfälische: A Gütersloh defence lawyer noted that home growing has been legal in Germany since April 2024 within a limit of three plants per adult, which must be kept separate and protected from access by others.'
   - 'Left out, as its quotation was not found in Neue Westfälische: The same lawyer noted that up to 50 grams of dried cannabis may be kept at home for personal use, with any surplus harvest to be destroyed, and that home-grown cannabis may not be passed on to others.'
+  - The Neue Westfälische now serves the same article under the address with the headline wording "Polizei entdeckt Cannabispflanzen"; the report's older citation address for it may no longer resolve.
 ---
 
 Police and Gütersloh public-order officers seized cannabis plants from a flat in
-the city-run Lindenstraße shelter on Tuesday. [@1] The flat's residents, a
+the city-run Lindenstraße shelter on Tuesday. [@1,2] The flat's residents, a
 married couple aged 51 and 52, face criminal proceedings for unauthorised
-cultivation of cannabis. [@1] The city has since moved the couple to a different
+cultivation of cannabis. [@1,2] The city has since moved the couple to a different
 municipal facility after the find. [@1]
 
 The discovery was described as accidental during an inspection the Gütersloh
@@ -54,9 +60,10 @@ illuminated Christmas decorations above their entrance. [@1] Inspectors were
 concerned because the associated power distribution was allegedly not installed
 properly, and officers found the plants during that check before police searched
 the flat and confiscated them. [@1] Whether other people or premises are
-involved remains subject to the ongoing investigation. [@1]
+involved remains subject to the ongoing investigation. [@1,2]
 
 The building is a distinctive natural-stone house by the railway underpass where
 the couple had lived for more than a year and had decorated the drab facade with
 flowers, plants, containers and painted stones. [@1]
 
+A Gütersloh defence lawyer said home growing has been legal in Germany since April 2024 within a limit of three plants per adult, which must be kept separate and protected from other people's access. [@2]
