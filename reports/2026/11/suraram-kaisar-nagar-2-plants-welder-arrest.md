@@ -20,6 +20,11 @@ media:
     media_url: https://www.dishadaily.com/h-upload/2026/11/05/612610-untitled-1.webp
     publisher: Disha Daily
     caption: Photograph published with the Disha report on the ganja cultivation inside the walled plot at Kaisar Nagar, Suraram.
+  - kind: photo
+    url: https://www.v6velugu.com/man-arrested-for-growing-cannabis-plants-on-open-plot-in-gajularamaram
+    media_url: https://static.v6velugu.com/uploads/2026/11/man-arrested-for-growing-cannabis-plants-on-open-plot-in-gajularamaram_094pNi8hQM.jpg
+    publisher: V6 Velugu
+    caption: Photo published with the V6 Velugu report on two cannabis plants grown on an open plot in Kaisar Nagar.
 details:
   products:
     - {product: flower}
@@ -35,17 +40,25 @@ sources:
     publisher: Disha Daily
     date: 2026-11-05
     language: te
+  - title: గంజాయి కొనుడేందని సాగే చేసిండు.. కైసర్నగర్లో ఓపెన్ ప్లాట్లో రెండు మొక్కల పెంపకం
+    url: https://www.v6velugu.com/man-arrested-for-growing-cannabis-plants-on-open-plot-in-gajularamaram
+    publisher: V6 Velugu
+    date: 2026-11-06
+    language: te
 open_questions:
   - The article gives no separate date for the inspection and arrest; 5 November 2026 is its publication date.
   - No weight, value or seedling count beyond the two plants was published.
   - No court outcome beyond remand was reported.
   - Only one source could be found; searches in English and Telugu found no second report of this arrest.
+  - The new source transliterates the accused's name as MD Ayaz while the existing report records MD Riyaz; whether this is a transliteration difference remains open.
+  - The new source places the plot at Gajularamaram Kaisar Nagar under Qutbullapur while the existing report places it at Kaisar Nagar, Suraram; the locality relationship remains open.
+  - The new source reports an arrest and case registration but does not mention remand, which the existing report records.
 ---
 
 Suraram police arrested a 54-year-old welder for growing prohibited ganja on an
-open plot in Kaisar Nagar and sent him to remand. [@1] Acting on reliable
+open plot in Kaisar Nagar and sent him to remand. [@1,2] Acting on reliable
 information, officers inspected the plot and identified the cannabis plants.
-[@1] The case was reported from Dundigal under Suraram police station limits.
+[@1,2] The case was reported from Dundigal under Suraram police station limits.
 [@1]
 
 Suraram CI K. Balaraj identified the accused as MD Riyaz, aged 54, a welder from
@@ -55,7 +68,6 @@ received reliable information that prohibited ganja was being cultivated quietly
 on that plot. [@1]
 
 Officers found two ganja plants growing against the compound wall, one five feet
-tall and the other four feet tall. [@1] Questioned in custody, he admitted that
-he was growing the ganja for his own personal use. [@1] The accused was then
+tall and the other four feet tall. [@1,2] Questioned in custody, he admitted that
+he was growing the ganja for his own personal use. [@1,2] The accused was then
 arrested and sent to remand. [@1]
-
