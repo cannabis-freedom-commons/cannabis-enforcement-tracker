@@ -46,6 +46,16 @@ sources:
     publisher: COPE
     date: 2026-11-05
     language: es
+  - title: Investigan a los padres de un bebé de 14 meses intoxicado por cannabis en La Rioja
+    url: https://www.heraldo.es/noticias/nacional/2026/11/05/investigan-padres-bebe-14-meses-intoxicado-cannabis-rioja-2065904.html
+    publisher: Heraldo de Aragón
+    date: 2026-11-05
+    language: es
+  - title: La Guardia Civil investiga a los padres de un bebé de 14 meses por ser intoxicado con cannabis en La Rioja
+    url: https://okdiario.com/sucesos/guardia-civil-investiga-padres-bebe-14-meses-ser-intoxicado-cannabis-rioja-20705455
+    publisher: OKDiario
+    date: 2026-11-05
+    language: es
 open_questions:
   - The article gives no separate date for the hospital admission or the investigation, so 5 November 2026 is the publication date used as the incident date.
   - No cannabis weight, seizure, plant count, cultivation site or laboratory amount was reported.
@@ -56,29 +66,31 @@ open_questions:
   - The Europa Press and Cadena SER accounts closely reproduce the same Guardia Civil version, so independent confirmation beyond that account was not found.
   - COPE gives no separate date for the hospital admission or the start of the investigation, so 5 November 2026 remains the publication date used as the incident date.
   - COPE, like the other outlets, reproduces the Guardia Civil account and adds no independent confirmation or new figures.
+  - The submitted OKDiario account describes a 24-year-old man and a 22-year-old woman, reversing the ages given as a 22-year-old man and a 24-year-old woman in the existing report and the Heraldo account; the report's ages are retained.
+  - The Heraldo article recalls a separate case of a ten-month-old baby who tested positive in Calatayud, a different event left out here.
 ---
 
 Guardia Civil officers in La Rioja investigated a 22-year-old man and a
 24-year-old woman as presumed perpetrators of serious negligent injury and
 breach of parental duties after their 14-month-old son suffered cannabis
-intoxication. [@1,2,3,4,5] The two people under investigation are the child's mother and
+intoxication. [@1,2,3,4,5,6] The two people under investigation are the child's mother and
 father. [@1,4]
 
 The case began when emergency health protocols were activated for the child's
-hospital admission in the autonomous community. [@1,4] The baby showed pronounced
+hospital admission in the autonomous community. [@1,4,7] The baby showed pronounced
 listlessness and drowsiness, prompting medical tests to determine the cause.
 [@1] Toxicology tests confirmed cannabis in the infant's body, establishing
-intoxication with the drug. [@1,4,5] The child remained hospitalised with a moderate
-prognosis. [@1,4] The parents told investigators the intoxication may have
+intoxication with the drug. [@1,4,5,7] The child remained hospitalised with a moderate
+prognosis. [@1,4,7] The parents told investigators the intoxication may have
 happened accidentally when the baby inhaled smoke in a public park where others
-were allegedly using cannabis nearby. [@1,2,4,5] Investigators found nothing to
+were allegedly using cannabis nearby. [@1,2,4,5,7] Investigators found nothing to
 corroborate that account or reasonably explain how the intoxication occurred.
-[@1,4,5] Officers therefore proceeded to investigate both parents for alleged
+[@1,4,5,7] Officers therefore proceeded to investigate both parents for alleged
 involvement in the cited offences. [@1]
 
 Child-protection protocols were activated alongside the police inquiry, placing
 the baby under provisional guardianship and custody of social services pending
-protective measures and liability decisions. [@1,2,4,5] The Guardia Civil said any act
+protective measures and liability decisions. [@1,2,4,5,7] The Guardia Civil said any act
 or omission endangering a minor's physical integrity, health or welfare can have
 legal consequences and will be investigated. [@1] The force said it would
 release no further information about the case or the locality where it happened
