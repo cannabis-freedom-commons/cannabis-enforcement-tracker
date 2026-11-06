@@ -45,12 +45,17 @@ sources:
     url: https://www.freepressjournal.in/pune/pune-airport-customs-seizes-hydroponic-weed-worth-372-crore-hidden-in-food-packets-bangkok-passenger-arrested
     publisher: The Free Press Journal
     date: 2026-11-05
+  - title: Pune customs personnel seize hydroponic weed worth Rs 3.72 crore at airport
+    url: https://timesofindia.indiatimes.com/city/pune/pune-customs-personnel-seize-hydroponic-weed-worth-rs-3-72-crore-at-airport/articleshow/135585151.cms
+    publisher: The Times of India
+    date: 2026-11-06
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
   - Rs 3.72 crore is the Customs estimated illicit-market value, not an independently confirmed price.
   - Identification rests on a field testing kit; laboratory confirmation was not reported.
   - Further investigation into the smuggling network was still under way with no additional arrests reported.
+  - The Times of India gives the passenger's age as 45 but still does not publish a name or residence.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
@@ -67,11 +72,12 @@ vacuum-sealed black polythene to mask detection. [@2] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2]
+crore. [@2,4]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1] The passenger was arrested and
 produced before a judicial magistrate, who granted him judicial custody till 18
-November. [@2] Further investigation is under way to bust the illicit syndicate
-involved in the smuggling attempt. [@3]
+November. [@2,4] Further investigation is under way to bust the illicit syndicate
+involved in the smuggling attempt. [@3,4]
 
+The arrested flyer was 45 years old. [@4]

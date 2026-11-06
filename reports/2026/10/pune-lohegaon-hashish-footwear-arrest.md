@@ -41,6 +41,10 @@ sources:
     url: https://inshorts.com/en/news/bangkok-passenger-arrested-at-pune-airport-with-hashish-in-shoes-1793256287001
     publisher: Inshorts
     date: 2026-10-29
+  - title: Pune customs personnel seize hydroponic weed worth Rs 3.72 crore at airport
+    url: https://timesofindia.indiatimes.com/city/pune/pune-customs-personnel-seize-hydroponic-weed-worth-rs-3-72-crore-at-airport/articleshow/135585151.cms
+    publisher: The Times of India
+    date: 2026-11-06
 open_questions:
   - Mirror Now reports 387.21 grams while Inshorts, citing the Hindustan Times, reports 381.27 grams; this report uses the Mirror Now figure.
   - The passenger was described only as a resident of Ulhasnagar; no name was published.
@@ -53,4 +57,4 @@ Customs officers at Pune's Lohegaon airport arrested an Indian passenger arrivin
 
 Officers first searched the cabin baggage and found nothing, then noticed the man's black sports shoes felt unusually heavy with noticeably thick soles. [@1] Inside specially built cavities in the inner soles they found packets wrapped in black cloth and secured with red adhesive tape. [@1] Field testing showed the packets held a dark, waxy substance identified as cannabis extract. [@1,2]
 
-Mirror Now put the seized quantity at 387.21 grams with an estimated street value of about ₹13.44 lakh, seized under the Narcotic Drugs and Psychotropic Substances Act. [@1] A second account gave the weight as 381.27 grams. [@2] The passenger, described only as a resident of Ulhasnagar, was presented before a judicial magistrate and remanded to judicial custody until 7 November 2026 as inquiries continue. [@1,2]
+Mirror Now put the seized quantity at 387.21 grams with an estimated street value of about ₹13.44 lakh, seized under the Narcotic Drugs and Psychotropic Substances Act. [@1] A second account gave the weight as 381.27 grams. [@2,3] The passenger, described only as a resident of Ulhasnagar, was presented before a judicial magistrate and remanded to judicial custody until 7 November 2026 as inquiries continue. [@1,2]
