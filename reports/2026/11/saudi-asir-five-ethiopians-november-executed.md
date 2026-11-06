@@ -26,6 +26,16 @@ sources:
     url: https://www.khaleejtimes.com/world/gulf/saudi-arabia-execution-five-ethiopians-smuggling-hashish
     publisher: Khaleej Times
     date: 2026-11-05
+  - title: تنفيذ حكم القتل تعزيرا بحق مهربي المخدرات في عسير
+    url: https://news50.sa/%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9/execution-of-death-penalty-drug-smugglers-aseer/
+    publisher: أخبار السعودية | SAUDI NEWS
+    date: 2026-11-05
+    language: ar
+  - title: تنفيذ حكم القتل تعزيرًا بحق خمسة من مهربي المخدرات في منطقة عسير
+    url: https://www.okaz.com.sa/local/na/2274103
+    publisher: صحيفة عكاظ
+    date: 2026-11-05
+    language: ar
 open_questions:
   - The names of the five executed men were not published.
   - No quantity of hashish they were convicted of smuggling was published.
@@ -33,6 +43,8 @@ open_questions:
   - No trial, appeal or detention details for these five men were reported.
   - The 205, 124, 109 and 32 totals are AFP tallies based on official data, not separate findings for this event.
   - The submitted page's only photo is captioned as a 25 April 2023 Jeddah amphetamine seizure and does not show this execution, so no media entry is included.
+  - The Arabic renderings of the five names differ between the submitted page, Okaz and Ajel, so the spellings here follow the submitted page and have not been confirmed against a family or court record.
+  - The accounts repeat one interior ministry statement and are not independent of each other; none reports the quantity of hashish, the place of arrest or the date of the trial.
 ---
 
 Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November
@@ -56,3 +68,4 @@ all appeals and aim to maintain security and protect residents from drugs. [@1]
 Rights groups say the executions undermine the kingdom's efforts to polish its
 image. [@1]
 
+The Interior Ministry named the five executed men as Seqaw Asay Brato Tesfay, Kenfe Teklay Hadosh Fuado, Mekele Merhan Gerzagir Gebra, Desta Gebre Kiros Ambaya and Mahari Gebre Howarie Hilah Hilasa. [@3] The ministry gave the execution date as Thursday 25 Rabi al-Thani 1448 AH, corresponding to 5 November 2026, in the Asir region. [@4]
