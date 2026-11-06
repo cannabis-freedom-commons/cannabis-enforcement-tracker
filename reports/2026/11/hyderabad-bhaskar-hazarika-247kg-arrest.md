@@ -82,6 +82,10 @@ sources:
     publisher: Andhrajyothy
     date: 2026-11-05
     language: te
+  - title: EAGLE Force busts alleged interstate ganja network, five arrested
+    url: https://telanganatoday.com/eagle-force-busts-alleged-interstate-ganja-network-five-arrested
+    publisher: Telangana Today
+    date: 2026-11-05
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -113,14 +117,18 @@ open_questions:
   - The article gives no separate date for the raid; 5 November 2026 is its publication date.
   - The page's only picture is captioned with the headline alone, so it cannot be confirmed to show this seizure.
   - The page carries a separate Quthbullapur case in which Suraram police seized two cannabis plants from an open plot in Kaisar Nagar and arrested a 54-year-old welder; it is a different event and is left out of this report.
+  - Telangana Today repeats the 27 August interception's 20.36 kg, while The Times of India account already noted in the report gives 20.3 kg.
+  - Telangana Today describes the investigation as two months long, while the existing report's other account describes a 60-day hunt.
+  - The page carries one picture captioned only with the headline, which cannot be confirmed to show this seizure, so no media entry is added.
+  - The new account does not repeat that the five men were arrested at a house in Prem Nagar in a night raid, as another outlet already cited reported.
 ---
 
 The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
-24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8] The five arrested were
+24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9] The five arrested were
 Hazarika, Babu Borah, Nirmal Hazarika, Pranajal Dutta and Akan Rajbanshi; all
-five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1] Hazarika, 31,
+five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1,9] Hazarika, 31,
 had worked as a security guard and delivery executive and operated couriers and
 distributors moving marijuana from Odisha to Hyderabad. [@1] Police said the
 investigation began on 27 August when EAGLE Force and Choutuppal Police
@@ -146,3 +154,5 @@ Police traced more than Rs 48 lakh in online payments made in 88 instalments to 
 Police raided a house at Prem Nagar in Hafeezpet on Wednesday night and arrested the five men there. [@6,7] On 27 August a team intercepted a car carrying 20.3 kg of ganja at Choutuppal and arrested two couriers from Odisha. [@6] Police arrested the couriers' employer, Bikas Barik, on 29 August, and he allegedly identified Hazarika as his buyer. [@6] Police said 31-year-old Hazarika came to Hyderabad in 2014 and worked as a security guard before entering the ganja trade in 2020. [@6]
 
 Hazarika had previously been caught in three ganja cases and was released on bail in each, but continued the trade. [@7] Two couriers first held by Choutuppal police, when questioned, led special teams to the gang's Hyderabad operation. [@7]
+
+At Prem Nagar in New Hafeezpet, Hazarika ran a small roadside hotel. [@9]
