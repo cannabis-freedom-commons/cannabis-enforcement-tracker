@@ -44,6 +44,10 @@ sources:
     publisher: The Bharat Now
     date: 2026-11-05
     language: hi
+  - title: Police seize 970 kg of cannabis plants | Central India's Premier English Daily
+    url: https://www.centralchronicle.com/police-seize-970-kg-of-cannabis-plants/
+    publisher: Central Chronicle
+    date: 2026-11-05
 open_questions:
   - The article gives no separate date for the two raids; 5 November 2026 is its publication date and is used as the incident date.
   - No names or ages of the two arrested growers were published.
@@ -53,15 +57,17 @@ open_questions:
   - This account gives the second village as करौंदिया खुर्द (Karaundia Khurd), matching the existing record's spelling; no substantive discrepancy was found.
   - The page photo is captioned only with the file name 7-1.jpg and carries no credit, so it is not established to show the Jali or Karaundia Khurd fields and no media is added to the report.
   - A second article on breakingtube.com carries the same headline and totals and appears to be a reprint of the same police release, so it does not constitute independent corroboration.
+  - Central Chronicle gives the second village as Karondiya Khurd, an English rendering of the Karaundia Khurd used in the existing report; no substantive discrepancy.
+  - The article gives no separate date for the two raids; 5 November 2026 is its publication date.
 ---
 
 Dhar police carried out two raids against illegal cannabis cultivation in Dhar
 district under Operation Prahar on the direction of Superintendent of Police
-Sachin Sharma. [@1,2] Officers arrested two growers accused of cultivating
-cannabis illegally in the two actions. [@1,2] Officers seized a total of 1,284
+Sachin Sharma. [@1,2,3] Officers arrested two growers accused of cultivating
+cannabis illegally in the two actions. [@1,2,3] Officers seized a total of 1,284
 green cannabis plants, known locally as ganja, weighing 969.335 kg in the two
-actions. [@1,2] Police valued the total seizure at 1 crore 57 lakh 12 thousand
-rupees. [@1,2]
+actions. [@1,2,3] Police valued the total seizure at 1 crore 57 lakh 12 thousand
+rupees. [@1,2,3]
 
 Tanda police raided Jali village and seized 1,134 green cannabis plants from the
 accused grower's cotton field. [@1,2] Police said the Jali plants weighed 518.335
