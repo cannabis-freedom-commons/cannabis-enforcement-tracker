@@ -41,6 +41,11 @@ media:
     media_url: https://peninsulardigital.com/wp-content/uploads/2026/11/051126_trio.webp
     publisher: Peninsular Digital
     caption: 'The three men detained in the Los Cabos operations. Photo: Peninsular Digital'
+  - kind: photo
+    url: https://www.zocalo.com.mx/asegura-pgje-cerca-de-3-mil-dosis-de-droga-en-los-cabos-hay-tres-detenidos/
+    media_url: https://www.zocalo.com.mx/wp-content/uploads/2026/11/02.jpg
+    publisher: Periódico Zócalo
+    caption: Page image published with the Milenio account of the three Los Cabos operations, credited only as a courtesy image (Imagen de cortesía).
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0797327e46ef98a838f2cfee186ecdd0
@@ -56,6 +61,16 @@ sources:
     publisher: Procuraduría General de Justicia del Estado de Baja California Sur
     date: 2026-11-05
     language: es
+  - title: Asegura PGJE cerca de 3 mil dosis de droga en Los Cabos; hay tres detenidos
+    url: https://www.zocalo.com.mx/asegura-pgje-cerca-de-3-mil-dosis-de-droga-en-los-cabos-hay-tres-detenidos/
+    publisher: Periódico Zócalo
+    date: 2026-11-05
+    language: es
+  - title: Detienen a 3 hombres y aseguran casi 3 mil dosis de narcóticos en operativos en Los Cabos
+    url: https://www.palabrabcs.com/seguridad/detienen-a-3-hombres-y-aseguran-casi-3-mil-dosis-de-narcoticos-en-operativos-en-los-cabos/
+    publisher: Palabra BCS
+    date: 2026-11-05
+    language: es
 open_questions:
   - The agency gives the event date as 4 November 2026; the Peninsular Digital article gives no event date and is dated 5 November, its publication date.
   - The marijuana weight for the Cabo San Lucas seizure is given as approximately 700 grams, not a laboratory weight; the report uses the agency's dose arithmetic of 725 grams.
@@ -63,16 +78,18 @@ open_questions:
   - No charges, detention hearing or court outcome were reported; the case remained with the Public Ministry for investigation.
   - The dose counts are the agency's own conversion of the seized weights and are not independently verified.
   - The Peninsular Digital photo is captioned as showing the three detainees, not the drugs, and carries no credit.
+  - Zócalo and Palabra BCS describe the offences as narcomenudeo (street-level dealing), while the report's charges field uses comercio de narcóticos from Peninsular Digital; both describe the same conduct.
+  - The Zócalo page image is credited only as a courtesy image with no agency or photographer named, so it is not established to show this operation.
 ---
 
 Agents of Baja California Sur's state prosecutor's office, the PGJE, arrested
 three men in three operations in Cabo San Lucas and San José del Cabo on 4
-November 2026. [@2] The operations followed anonymous complaints and
-investigations into drug sales, the agency said. [@2]
+November 2026. [@2,3] The operations followed anonymous complaints and
+investigations into drug sales, the agency said. [@2,3]
 
 The first was a search warrant from a control judge for a home on calle Isla
 Tórtola in the El Caribe neighbourhood of Cabo San Lucas, carried out at midday.
-[@2] There officers arrested Adrián “N”, 25 and from Guerrero, and seized about
+[@2,4] There officers arrested Adrián “N”, 25 and from Guerrero, and seized about
 700 grams of marijuana and 38 grams of crystal. [@2] A second arrest in San José
 del Cabo was of Luis Anselmo “N”, alias “El Wicho”, 39, who had 15 wrappers
 holding 19.1 grams of crystal. [@2] A third intervention in San José del Cabo
@@ -85,5 +102,6 @@ counted as 2,912.5 doses, the rest of them crystal. [@1] The first action was
 run by the subprosecutor's office for high-impact crimes, SADAI, through its
 specialised narcotics investigation unit. [@2] The men and the drugs were left
 with the Public Ministry to investigate possible offences against health in the
-form of drug trading. [@1]
+form of drug trading. [@1,3]
 
+Officers seized bags and wraps containing green, dry plant material and granulated substances, which the agency identified as marijuana and crystal. [@4]
