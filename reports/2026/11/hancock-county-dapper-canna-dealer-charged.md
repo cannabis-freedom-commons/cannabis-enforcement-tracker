@@ -41,6 +41,11 @@ media:
     media_url: https://fox59.com/video/smoke-shop-raid-leads-to-felony-charges-against-a-local-hemp-dealer/12342240
     publisher: Fox 59
     caption: Fox 59 video report titled 'Smoke shop raid leads to felony charges against a local hemp dealer' on the Hancock County farm raid and charges.
+  - kind: video
+    url: https://fox59.com/video/fountain-square-hemp-dealer-charged-with-felony-drug-dealing-in-hancock-county/12342625/
+    media_url: https://tkx.mp.lura.live/rest/v2/mcp/video/12342625.m3u8?anvack=M2v78Qk76DBE7TPa76h6ws2bj8oQ6Bog&eud=2yjQ9budopikOpAN5WZhM9WhaLZuDbsVamKkq1Dnpd3tbw5J58SOOFD1%2FftGdJwCTyO8KsbFw40vgX8hrw%2Bxqw%3D%3D
+    publisher: Fox 59
+    caption: 'Fox 59 video report titled ''Fountain Square hemp dealer charged with felony drug dealing in Hancock County'' on the Hancock County farm raid and the charges. Video: Fox 59'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a6f7d88d72c14ef63a58b7121f7bfe7b
@@ -48,6 +53,10 @@ tags: [indiana, hancock-county, hemp, dispensary]
 sources:
   - title: Fountain Square hemp dealer charged with felony drug dealing in Hancock County
     url: https://fox59.com/news/indycrime/fountain-square-hemp-dealer-charged-with-felony-drug-dealing-in-hancock-county/
+    publisher: Fox 59
+    date: 2026-11-05
+  - title: Fountain Square hemp dealer charged with felony drug dealing in Hancock County
+    url: https://fox59.com/video/fountain-square-hemp-dealer-charged-with-felony-drug-dealing-in-hancock-county/12342625/
     publisher: Fox 59
     date: 2026-11-05
 open_questions:
@@ -62,7 +71,7 @@ open_questions:
 ---
 
 Felony drug charges have been filed in Hancock County against a local hemp
-dealer who runs a dispensary in Fountain Square. [@1] The dealer was identified
+dealer who runs a dispensary in Fountain Square. [@1,2] The dealer was identified
 as Adam King, who faces two felony counts of dealing marijuana. [@1] King spoke
 out against the charges a day after he was released from jail. [@1] He spent
 nearly a week behind bars before being released on bond pending trial after an
@@ -86,4 +95,3 @@ marijuana, both medical and recreational, remains illegal in Indiana,
 non-intoxicating hemp is not against the law. [@1] King plans to file a civil
 lawsuit against the various law enforcement agencies involved in the raids on
 his business. [@1]
-
