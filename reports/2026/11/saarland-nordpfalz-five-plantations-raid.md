@@ -82,6 +82,11 @@ sources:
     publisher: Saarländischer Rundfunk
     date: 2026-11-05
     language: de
+  - title: 'Saarland: Zoll hebt fünf Cannabisplantagen - acht Verdächtige in U-Haft'
+    url: https://www.saarbruecker-zeitung.de/blaulicht/saarland-zoll-hebt-fuenf-cannabisplantagen-acht-verdaechtige-in-u-haft_aid-157880353
+    publisher: Saarbrücker Zeitung
+    date: 2026-11-05
+    language: de
 open_questions:
   - The 3 November 2026 incident date comes from the stated Tuesday raid day and the explicit 03.11.2026 date in the authorities' statement; 5 November 2026 is the publication date.
   - The plant count is reported as more than 2,300, so 2,300 is recorded as the stated minimum.
@@ -101,21 +106,23 @@ open_questions:
   - 'Left out, as its quotation was not found in Polizei.news: Investigators also seized a tablet press, blank-firing and air weapons plus another possibly live firearm.'
   - The SR.de page describes the seized hashish as just under one kilogram ("knapp ein Kilogramm") while the joint statement of the Saarbrücken prosecutor's office and the Frankfurt customs investigation office gives 1 kg; the report's 12.5 kg cannabis total keeps the stated one kilogram.
   - The SR.de rail video on the raid has no recoverable direct stream address, so it is not listed in media.
+  - The Saarbrücker Zeitung piece does not say which of the five plantations is meant by the Saarpfalz-Kreis site; the existing report records that prosecutors described the largest plantation as being in Homburg, which lies in that district.
+  - The article's lead photo is a dpa stock illustration (Symbolbild), not a picture of this raid, so no media entry is added for it.
 ---
 
 Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating
-and dealing cannabis. [@1,4,7] The suspects allegedly used vacant buildings to
+and dealing cannabis. [@1,4,7,8] The suspects allegedly used vacant buildings to
 operate illegal plantations and sold the marijuana in the surrounding Greater
 Region and in France. [@1,3,4] The eight were brought before an investigating judge,
 who issued custody orders for all of them but suspended one under conditions,
-leaving seven in pretrial detention. [@1,4,7] The group comprised six Albanian
+leaving seven in pretrial detention. [@1,4,7,8] The group comprised six Albanian
 nationals, one German and one Italian, according to the authorities' statement.
 [@2,5]
 
 Officers searched eleven homes and business premises in Saarland and the
 Rhineland-Palatinate part of the Nordpfälzer Bergland. [@1,4,6,7] They seized 11.5
 kilograms of marijuana and one kilogram of hashish, together with 33 kilograms
-of amphetamine, 1.2 kilograms of MDMA and 500 grams of ecstasy tablets. [@1,4,6,7]
+of amphetamine, 1.2 kilograms of MDMA and 500 grams of ecstasy tablets. [@1,4,6,7,8]
 Investigators also seized a tablet press, blank-firing and air weapons plus
 another possibly live firearm. [@2,5]
 
@@ -128,3 +135,5 @@ ongoing. [@2,3,4,5]
 Investigators said the Jeckenbach site in Bad Kreuznach district held about 300 plants. [@3] Prosecutors said the largest of the dismantled plantations was in Homburg in Saarland. [@3]
 
 The submitted page gives hashish as "knapp ein Kilogramm" (just under one kilogram) while the agencies' release and the report state one kilogram; the report's cannabis total keeps the stated one kilogram. [@7] The SR page carries a 27-second SR information video on the raid whose direct stream address was not recoverable from the page, so no media entry is included for it. [@7]
+
+The five dismantled plantations comprised one in Saarlouis district, one in Saarpfalz-Kreis and three in Bad Kreuznach district in Rhineland-Palatinate. [@8]
