@@ -33,6 +33,11 @@ sources:
     publisher: NAGORIK TV
     date: 2026-11-05
     language: bn
+  - title: বিছানার নিচে মিলল ইয়াবা-গাঁজা, ২ জনের বিরুদ্ধে মামলা
+    url: https://www.kalbela.com/country-news/346878
+    publisher: কালবেলা
+    date: 2026-11-06
+    language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
   - The 115 yaba pills weighing 11.5 grams are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
@@ -41,23 +46,32 @@ open_questions:
   - The report names Alauddin in the same case but does not say he was detained or charged, and no arrest of a second person is recorded.
   - The 5 November 2026 date is the reported Thursday operation date, which matches the publication date.
   - The source page carries an image captioned only as 13, which does not establish that it shows this seizure, so no media entry is included.
+  - Kalbela adds Meherpur deputy director Rashel Ahmed's quoted statement that the directorate will keep pursuing others in the drug trade; no further arrests were reported.
+  - Neither account gives a cannabis-only estimated value; the Tk 66,000 figure covers all seized drugs together.
+media:
+  - kind: photo
+    url: https://www.kalbela.com/country-news/346878
+    media_url: https://www.kalbela.com/assets/news_photos/2026/11/06/image_346878_1793934038.webp
+    publisher: কালবেলা
+    caption: 'Photo captioned "the arrested accused" for the Meherpur seizure case. Photo: Kalbela'
 ---
 
 Department of Narcotics Control officers detained 48-year-old Abdus Salam in the
-Gopalpur Basantapur area of Meherpur Sadar. [@1] Officers also linked
+Gopalpur Basantapur area of Meherpur Sadar. [@1,2] Officers also linked
 25-year-old Alauddin to the operation and named him in the same case, without
-reporting that he was detained. [@1] The operation took place in the area under
-Meherpur Sadar police station on Thursday, 5 November 2026. [@1]
+reporting that he was detained. [@1,2] The operation took place in the area under
+Meherpur Sadar police station on Thursday, 5 November 2026. [@1,2]
 
 Acting on secret information, officers searched Salam's own three-room
 single-storey house. [@1] Under the bed in the north-east room, they found a
 plastic bag holding 115 yaba pills weighing 11.5 grams, 500 grams of ganja, the
 local term for cannabis, and Tk 45,500 in cash described as drug-sale proceeds.
-[@1] The directorate put the estimated value of all the seized drugs together at
-Tk 66,000, a combined figure not recorded as a cannabis value. [@1]
+[@1,2] The directorate put the estimated value of all the seized drugs together at
+Tk 66,000, a combined figure not recorded as a cannabis value. [@1,2]
 
 Alauddin was reported to work as a painter at the Meherpur IT Training and
-Incubation Centre. [@1] Sub-Inspector Md. Rahmat Ali of the district narcotics
+Incubation Centre. [@1,2] Sub-Inspector Md. Rahmat Ali of the district narcotics
 office filed a regular case under the Narcotics Control Act, 2018, at Meherpur
-Sadar police station. [@1]
+Sadar police station. [@1,2]
 
+Rashel Ahmed, deputy director of the Meherpur district narcotics office, said the directorate's drives against drugs continue and that it will identify others involved in the drug trade and bring them under the law. [@2]
