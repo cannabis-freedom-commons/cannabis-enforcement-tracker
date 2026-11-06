@@ -67,6 +67,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-06
     language: hi
+  - title: त्योहारों में गांजे की तस्करी, मेरठ के चार शातिर तस्कर गिरफ्तार
+    url: https://www.thejbt.com/india/uttar-pradesh/cannabis-smuggling-during-festive-season-4-cunning-smugglers-arrested-in-meerut-news-321317
+    publisher: Janbhawna Times
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The reports do not say whether the four accused were remanded to custody or released on bail.
   - Neither report gives the individual weight carried by each of the four men.
@@ -76,20 +81,22 @@ open_questions:
   - The accused are named in the reports; no ages are given.
   - The supplier named Harish was not arrested and the reports give no details of his identification or whereabouts.
   - Only the article's opening paragraph was readable in the captured page; the later paragraphs sit behind the outlet's app paywall, so the detailed figures stated in this article were not verified against it.
+  - The Janbhawna Times is based in Haryana and bylines the story to a reporter named Rohit; its account appears to draw on the same Muzaffarnagar police briefing as the other reports.
+  - The Janbhawna Times page photo is captioned only with the article headline, carries no credit and shows a generic ganja image, so no media entry is taken from it.
 ---
 
 Police in Muzaffarnagar's Khala Par station area arrested four men from Meerut
 on suspicion of smuggling ganja, a traditional Indian cannabis preparation, on 6
-November 2026. [@1,3] The four arrested men come from Sindhawali village on Rohta
-Road, in the Kankarkhera police station area of Meerut district. [@1]
+November 2026. [@1,3,4] The four arrested men come from Sindhawali village on Rohta
+Road, in the Kankarkhera police station area of Meerut district. [@1,4]
 
 Sub-inspector Asgar Ali's team stopped them at about 1:15 pm on the lane behind
 Sharden School, on the way from Meerut Road towards Garhabagh, after they turned
-back at the sight of the police patrol. [@1] The men each carried a bag, and
-police say the four bags together held 25 kg 700 grams of ganja. [@1] Police
+back at the sight of the police patrol. [@1,4] The men each carried a bag, and
+police say the four bags together held 25 kg 700 grams of ganja. [@1,4] Police
 also seized four mobile phones of different companies from the four arrested
 men. [@1] Police had the ganja weighed and put its estimated value at 385,500
-rupees. [@1]
+rupees. [@1,4]
 
 Police registered case 195/2026 at Khala Par station under sections 8/20 of the
 NDPS Act and began taking the four before a court. [@1] Assistant superintendent
@@ -107,3 +114,5 @@ recorded as number 155A, with earlier cases under robbery, gangster, Arms Act
 and assault provisions. [@1] Police said Talib already faced a 2020 NDPS case at
 Meerut's Civil Lines station and Irshan a 2023 NDPS case at Khatauli station in
 Muzaffarnagar, and that they are tracing the wider network. [@1]
+
+The Janbhawna Times account says the four men were taking the ganja to sell it for a profit they expected because festive-season demand had pushed prices up. [@4]
