@@ -1367,7 +1367,7 @@ func (r Runner) execute(ctx context.Context, cid, dir, run string, cmd *exec.Cmd
 		key = localKey
 	}
 	out := &capped{Max: 4 * 1024 * 1024}
-	events = &eventWriter{ctx: ctx, store: r.Store, cid: cid, run: run, secret: key}
+	events = &eventWriter{ctx: ctx, store: r.Store, cid: cid, run: run, secret: key, dir: dir}
 	flags := os.O_CREATE | os.O_WRONLY | os.O_TRUNC
 	if appendLog {
 		flags = os.O_CREATE | os.O_WRONLY | os.O_APPEND

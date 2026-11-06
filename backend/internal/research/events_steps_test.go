@@ -46,7 +46,7 @@ func TestPublicEventsDescribeStepsAndToolFailures(t *testing.T) {
 	if strings.Contains(public, "started a model step") {
 		t.Fatalf("step-start noise in the chat: %s", public)
 	}
-	for _, want := range []string{"Searching for corroborating coverage: private query — failed: search failed for https://secret.example/q?x=1 at /home/runner/job/x.json: rate limited.", "Using the codesearch tool — done.", "Step 1 done · 14,605 tokens read, 1,038 written"} {
+	for _, want := range []string{"Searching for corroborating coverage: private query — failed: search failed for https://secret.example/q?x=1 at …/x.json: rate limited.", "Using the codesearch tool — done.", "Step 1 done · 14,605 tokens read, 1,038 written"} {
 		if !strings.Contains(public, want) {
 			t.Fatalf("missing %q in %s", want, public)
 		}

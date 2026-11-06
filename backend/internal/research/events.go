@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 	"math"
+	"path/filepath"
 	"regexp"
 	"strings"
 )
@@ -28,6 +29,7 @@ type executionEvent struct {
 			Status string          `json:"status"`
 			Error  string          `json:"error"`
 			Input  json.RawMessage `json:"input"`
+			Output json.RawMessage `json:"output"`
 			Title  string          `json:"title"`
 		} `json:"state"`
 		Cost   float64 `json:"cost"`
@@ -46,6 +48,7 @@ type eventWriter struct {
 	ctx              context.Context
 	store            *store.Store
 	cid, run, secret string
+	dir              string // the job's workspace: its host path never reaches the public chat
 	buffer           []byte
 	events           int
 	steps            int // model steps finished, for the step dividers in the public chat
@@ -74,7 +77,7 @@ func (w *eventWriter) Write(p []byte) (int, error) {
 }
 
 var sessionPattern = regexp.MustCompile(`^[A-Za-z0-9_-]{1,120}$`)
-var secretPattern = regexp.MustCompile(`(?i)(bearer\s+\S+|(?:sk|oc|opencode)[-_][A-Za-z0-9_-]{16,})`)
+var secretPattern = regexp.MustCompile(`(?i)(bearer\s+\S+|\b(?:sk|oc|opencode)[-_][A-Za-z0-9_-]{16,})`)
 
 // what a tool did, in words for the public chat, followed by what it was asked (all public data)
 var toolNames = map[string]string{
@@ -83,6 +86,8 @@ var toolNames = map[string]string{
 	"websearch": "Searching for corroborating coverage", "write": "Writing the draft report", "edit": "Revising the draft report",
 	"patch": "Revising the draft report", "todowrite": "Planning the next steps", "todoread": "Reviewing the plan",
 	"task": "Asking a helper agent", "bash": "Running a check",
+	"tracker_find_reports": "Searching existing reports", "tracker_get_report": "Reading existing report",
+	"tracker_check_result": "Checking the draft result against the service's rules",
 }
 var toolPattern = regexp.MustCompile(`^[a-z][a-z0-9_]{0,30}$`)
 
@@ -101,12 +106,12 @@ func thousands(n int64) string {
 
 func (w *eventWriter) safe(text string) string { return w.safeN(text, 1000) }
 
-// the text with credentials redacted, cut to max characters; everything else is public data
+// the text with credentials and host paths redacted, cut to max characters; everything else is public data
 func (w *eventWriter) safeN(text string, max int) string {
 	if w.secret != "" {
 		text = strings.ReplaceAll(text, w.secret, "[redacted]")
 	}
-	text = secretPattern.ReplaceAllString(text, "[redacted]")
+	text = w.hidePaths(secretPattern.ReplaceAllString(text, "[redacted]"))
 	r := []rune(text)
 	if len(r) > max {
 		text = string(r[:max]) + "…"
@@ -115,23 +120,152 @@ func (w *eventWriter) safeN(text string, max int) string {
 }
 
 // what a tool was asked to do: the address, the query, the file or the pattern
-func (w *eventWriter) toolInput(raw json.RawMessage) string {
+func (w *eventWriter) toolInput(tool string, raw json.RawMessage) string {
 	var in map[string]any
 	if json.Unmarshal(raw, &in) != nil {
 		return ""
 	}
-	for _, key := range []string{"url", "query", "filePath", "file_path", "path", "pattern", "name", "description"} {
-		if v, ok := in[key].(string); ok && strings.TrimSpace(v) != "" {
-			if key == "pattern" {
-				if inc, ok := in["include"].(string); ok && inc != "" {
-					v += " in " + inc
-				}
+	str := func(key string) string {
+		v, _ := in[key].(string)
+		return strings.Join(strings.Fields(v), " ")
+	}
+	switch tool {
+	case "tracker_check_result":
+		return "" // the whole draft: shown as the final answer, not here
+	case "tracker_get_report":
+		return w.safeN(str("slug"), 200)
+	case "tracker_find_reports":
+		var parts []string
+		for _, key := range []string{"country", "date", "title", "place", "keywords"} {
+			if v := str(key); v != "" {
+				parts = append(parts, v)
 			}
-			return w.safeN(strings.Join(strings.Fields(v), " "), 300)
+		}
+		if names, ok := in["case_ids"].([]any); ok && len(names) > 0 {
+			parts = append(parts, fmt.Sprintf("%d case numbers", len(names)))
+		}
+		if days, ok := in["window_days"].(float64); ok && days > 0 {
+			parts = append(parts, fmt.Sprintf("within %d days", int(days)))
+		}
+		return w.safeN(w.hidePaths(strings.Join(parts, " · ")), 300)
+	case "grep", "glob":
+		if v := str("pattern"); v != "" {
+			if inc := str("include"); inc != "" {
+				v += " in " + inc
+			}
+			if where := w.hidePaths(str("path")); where != "" && where != "." {
+				v += " (" + where + ")"
+			}
+			return w.safeN(w.hidePaths(v), 300)
+		}
+	}
+	for _, key := range []string{"url", "query", "filePath", "file_path", "path", "pattern", "name", "description"} {
+		if v := str(key); v != "" {
+			return w.safeN(w.hidePaths(v), 300)
 		}
 	}
 	return ""
 }
+
+// absolute host paths, shown relative to the workspace (or by their last part outside it)
+var hostPath = regexp.MustCompile(`(^|[\s'"(=,\[])(?:/(?:Users|home|private|var|tmp|opt|Volumes|root|srv|mnt|workspace|app|data))(?:/[^\s'"/,;)]+)+/?`)
+
+func (w *eventWriter) hidePaths(text string) string {
+	if w.dir != "" {
+		for _, root := range []string{filepath.Join(w.dir, ".research-input"), w.dir} {
+			roots := []string{root}
+			if real, err := filepath.EvalSymlinks(root); err == nil && real != root {
+				roots = append(roots, real)
+			}
+			for _, r := range roots {
+				text = strings.ReplaceAll(text, r+"/", "")
+				text = strings.ReplaceAll(text, r, ".")
+			}
+		}
+	}
+	return hostPath.ReplaceAllStringFunc(text, func(p string) string {
+		lead := ""
+		if p != "" && p[0] != '/' {
+			lead, p = p[:1], p[1:]
+		}
+		return lead + shortPath(p)
+	})
+}
+
+func shortPath(p string) string {
+	{
+		if i := strings.Index(p, "/.research-input/"); i >= 0 {
+			return p[i+len("/.research-input/"):]
+		}
+		return "…/" + filepath.Base(strings.TrimSuffix(p, "/"))
+	}
+}
+
+// what a tracker tool answered, in a few public words (the reports are public; the draft is not shown)
+func toolOutcome(tool string, raw json.RawMessage) string {
+	var out string
+	if json.Unmarshal(raw, &out) != nil || out == "" {
+		return ""
+	}
+	switch tool {
+	case "tracker_find_reports":
+		compare, other, inOther := []string{}, []string{}, false
+		for _, line := range strings.Split(out, "\n") {
+			if strings.HasPrefix(line, "Other possible matches") {
+				inOther = true
+			}
+			if slug, _, ok := strings.Cut(strings.TrimPrefix(line, "- "), " | "); ok && strings.HasPrefix(line, "- ") {
+				if inOther {
+					other = append(other, slug)
+				} else {
+					compare = append(compare, slug)
+				}
+			}
+		}
+		if len(compare)+len(other) == 0 {
+			return "no matching report"
+		}
+		var parts []string
+		if len(compare) > 0 {
+			parts = append(parts, "must compare "+slugList(compare))
+		}
+		if len(other) > 0 {
+			parts = append(parts, fmt.Sprintf("%d other possible matches, best %s", len(other), slugList(other[:min(2, len(other))])))
+		}
+		return strings.Join(parts, "; ")
+	case "tracker_get_report":
+		if strings.HasPrefix(out, "No report has the slug") {
+			return "no such report"
+		}
+		for _, line := range strings.Split(out, "\n") {
+			if title, ok := strings.CutPrefix(line, "title: "); ok {
+				return "“" + strings.Trim(strings.TrimSpace(title), `"'`) + "”"
+			}
+		}
+	case "tracker_check_result":
+		switch {
+		case strings.HasPrefix(out, "No problems found"):
+			return "no problems found"
+		case strings.HasPrefix(out, "The service would reject"):
+			n := strings.Count(out, "\n- ")
+			if n == 1 {
+				return "1 problem to fix"
+			}
+			return fmt.Sprintf("%d problems to fix", n)
+		default:
+			return "the draft could not be read"
+		}
+	}
+	return ""
+}
+
+func slugList(slugs []string) string {
+	if len(slugs) > 4 {
+		return strings.Join(slugs[:4], ", ") + fmt.Sprintf(" and %d more", len(slugs)-4)
+	}
+	return strings.Join(slugs, ", ")
+}
+
 func (w *eventWriter) handle(line []byte) error {
 	var e executionEvent
 	if json.Unmarshal(line, &e) != nil {
@@ -175,15 +309,19 @@ func (w *eventWriter) handle(line []byte) error {
 		}
 		if ok {
 			role, kind, text = "tool", "tool", name
-			if what := w.toolInput(e.Part.State.Input); what != "" {
+			if what := w.toolInput(e.Part.Tool, e.Part.State.Input); what != "" {
 				text += ": " + what
 			}
 			switch e.Part.State.Status {
 			case "completed":
-				text += " — done."
+				if found := toolOutcome(e.Part.Tool, e.Part.State.Output); found != "" {
+					text += " — " + w.safeN(found, 400) + "."
+				} else {
+					text += " — done."
+				}
 			case "error":
 				text += " — failed"
-				if why := w.reason(e.Part.State.Error); why != "" {
+				if why := w.reason(w.hidePaths(e.Part.State.Error)); why != "" {
 					text += ": " + why
 				}
 				text += "."
