@@ -16,12 +16,16 @@ figures:
   arrested: 2
 details:
   activity: [possession]
+  agency_types: [police]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.elsiglodetorreon.com.mx/noticia/2026/detienen-a-pareja-con-marihuana-danaban-la-banca-de-una-plaza-en-la-colonia-alamedas.html

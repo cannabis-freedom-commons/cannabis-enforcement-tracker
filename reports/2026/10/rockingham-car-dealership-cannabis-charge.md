@@ -19,6 +19,7 @@ details:
 data_sources:
   details.activity: [1, 4, 2]
   details.agency_types: [2, 4, 1, 3]
+  figures.charged: [1, 4, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 8926dec6b2dd98172c6902fcabc7e9c8

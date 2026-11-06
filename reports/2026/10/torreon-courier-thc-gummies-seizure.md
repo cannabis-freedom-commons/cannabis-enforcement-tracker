@@ -21,11 +21,13 @@ media:
 details:
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [mail]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

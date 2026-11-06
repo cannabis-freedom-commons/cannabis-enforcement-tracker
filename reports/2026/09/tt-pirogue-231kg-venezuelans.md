@@ -23,10 +23,12 @@ details:
   agency_types: [coast-guard]
   products: [{product: flower, kg: 231.42}]
   route: {from: [ve], to: [tt]}
+  setting: [street]
 data_sources:
   details.agency_types: [1]
   details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]
 status: verified

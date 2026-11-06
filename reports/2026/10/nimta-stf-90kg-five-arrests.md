@@ -23,10 +23,12 @@ created_by_model: anthropic/opus-5.5
 details:
   agencies: [in-anf]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   route: {from: [in], to: [in], crossing: Odisha}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.route: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

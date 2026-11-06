@@ -28,6 +28,8 @@ data_sources:
   details.force: [3, 4, 1]
   details.products: [3, 4, 1]
   details.setting: [4]
+  figures.charged: [3, 2, 4]
+  figures.deaths: [3, 4, 1]
 media:
   - kind: photo
     url: https://news3lv.com/news/local/two-suspects-in-las-vegas-deadly-robbery-attempt-arrested-in-minnesota-police-say

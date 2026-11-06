@@ -26,6 +26,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
 media:
   - kind: photo
     url: https://www.cbsnews.com/chicago/news/chicago-man-charged-narcotics-investigation-evanston/

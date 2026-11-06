@@ -11,6 +11,10 @@ summary: >-
   alongside 27.9 kg of codeine and 1.9 kg of cocaine. The figures cover all drugs and all forms of
   cannabis, not cannabis alone.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: zambia-dec-arrests-2024
 sources:

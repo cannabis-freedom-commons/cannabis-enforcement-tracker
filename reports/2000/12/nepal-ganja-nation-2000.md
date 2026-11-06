@@ -13,9 +13,11 @@ summary: >-
   India, with police, local officials and Maoist cadres taking a share.
 created_by_model: unknown
 details:
+  activity: [smuggling]
   agency_types: [police]
   products: [{product: hashish}, {product: flower}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
 status: verified

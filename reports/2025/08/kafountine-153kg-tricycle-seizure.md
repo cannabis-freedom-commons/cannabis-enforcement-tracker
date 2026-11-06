@@ -15,10 +15,12 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [gendarmerie]
+  case_stage: investigation
   setting: [prison]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [3, 1, 2]
+  details.case_stage: [3, 1, 2]
   details.setting: [2, 1]
   figures.kg_seized: [3, 1, 2]
 status: verified

@@ -19,11 +19,13 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [customs, police]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [mail, prison]
 data_sources:
   details.activity: [2, 1, 3]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1]
+  details.sentence_types: [2, 1]
   details.setting: [2, 1, 3]
   figures.arrested: [2]
   figures.charged: [2]

@@ -32,6 +32,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [2, 1]
   figures.kg_seized: [2, 1]
 status: verified
 created_by_model: xai/grok-4.7#low

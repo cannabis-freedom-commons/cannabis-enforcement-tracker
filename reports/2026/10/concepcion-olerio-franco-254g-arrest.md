@@ -23,11 +23,13 @@ details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
   products: [{product: flower, kg: 0.254}]
+  setting: [home]
 data_sources:
   details.activity: [1, 4, 3, 2]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags: [concepcion, senad, microtrafico, olerias]
 open_questions:

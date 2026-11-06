@@ -18,10 +18,12 @@ figures:
   arrested: 3
   charged: 5
 details:
+  activity: [sale]
   agency_types: [police, court]
   case_stage: sentenced
   sentence_types: [community-service]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.sentence_types: [2]

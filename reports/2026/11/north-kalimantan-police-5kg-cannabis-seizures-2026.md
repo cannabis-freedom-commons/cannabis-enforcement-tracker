@@ -18,6 +18,7 @@ details:
   activity: [trafficking]
   agencies: [North Kalimantan Regional Police (Polda Kaltara)]
   agency_types: [police, anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower, kg: 5.10491}
   date_precision: exact
@@ -26,6 +27,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

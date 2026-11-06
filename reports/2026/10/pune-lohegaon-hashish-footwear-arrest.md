@@ -24,12 +24,14 @@ figures:
     currency: INR
 details:
   agency_types: [customs]
+  case_stage: investigation
   setting: [airport]
   products:
     - {product: hashish}
   route: {from: [th], to: [in]}
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]

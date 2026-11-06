@@ -33,6 +33,7 @@ data_sources:
   details.environment: [1]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 tags: [hashish, nijar, almeria, controlled-delivery]

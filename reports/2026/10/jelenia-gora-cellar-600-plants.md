@@ -24,12 +24,15 @@ details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
   products: [{product: plants}]
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.charged: [1]
   figures.kg_seized: [1]
 status: verified
 tags: [jelenia-gora]

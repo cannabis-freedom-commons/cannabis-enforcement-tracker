@@ -21,11 +21,13 @@ figures:
 details:
   agencies: [bd-dnc]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   setting: [airport]
   route: {from: [th], to: [bd]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]

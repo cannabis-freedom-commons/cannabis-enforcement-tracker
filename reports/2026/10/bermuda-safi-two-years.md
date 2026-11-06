@@ -21,10 +21,12 @@ figures:
     currency: BMD
 created_by_model: xai/grok-4.7
 details:
+  activity: [smuggling]
   agency_types: [prosecutor]
   case_stage: sentenced
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.setting: [1]

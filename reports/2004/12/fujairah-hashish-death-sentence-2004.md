@@ -18,11 +18,13 @@ figures:
   kg_seized: 0.149
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [sale]
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
   products: [{product: hashish, kg: 0.149}]
   sentence_types: [death]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]

@@ -16,11 +16,13 @@ figures:
   kg_seized: 11.8
 details:
   agency_types: [customs, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [airport]
 data_sources:
   details.agency_types: [2, 1, 3]
+  details.case_stage: [3, 1, 2]
   details.products: [1]
   details.setting: [2, 1, 3]
   figures.kg_seized: [3, 1]

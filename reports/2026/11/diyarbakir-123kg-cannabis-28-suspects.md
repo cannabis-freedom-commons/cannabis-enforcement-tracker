@@ -24,11 +24,13 @@ media:
     caption: Lead photo on the source page for this Diyarbakır seizure report.
 details:
   agency_types: [gendarmerie, anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 4, 5, 6, 7, 9]
+  details.case_stage: [2, 6, 8, 10, 11, 12]
   details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
   figures.arrested: [2, 6, 8, 10, 11, 12]
   figures.kg_seized: [2, 6, 8, 10, 11, 12]

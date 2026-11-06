@@ -17,9 +17,13 @@ figures:
     currency: MYR
 details:
   agency_types: [customs]
+  case_stage: investigation
+  sentence_types: [life]
   setting: [mail, prison]
 data_sources:
   details.agency_types: [1, 2, 3, 5, 4]
+  details.case_stage: [1, 2, 4, 5, 3]
+  details.sentence_types: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
   figures.value: [1, 2, 4, 5, 3]
 media:

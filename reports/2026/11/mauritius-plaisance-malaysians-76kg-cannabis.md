@@ -23,10 +23,12 @@ media:
 details:
   activity: [smuggling]
   agency_types: [customs, anti-narcotics, police]
+  case_stage: investigation
   setting: [airport]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

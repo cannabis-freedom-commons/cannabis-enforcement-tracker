@@ -20,12 +20,14 @@ figures:
   kg_seized: 0.2286
   prison: 3 years 6 months
 details:
+  activity: [possession]
   agency_types: [police, court]
   case_stage: sentenced
   products: [{product: flower, kg: 0.2286}]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.environment: [1]

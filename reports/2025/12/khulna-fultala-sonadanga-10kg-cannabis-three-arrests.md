@@ -15,6 +15,7 @@ figures:
   arrested: 3
   kg_seized: 10
 details:
+  activity: [smuggling, sale]
   agencies: [district police, KMP]
   agency_types: [police]
   products:
@@ -23,6 +24,7 @@ details:
   date_precision: exact
   region: Khulna
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

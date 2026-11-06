@@ -27,10 +27,14 @@ figures:
 details:
   activity: [sale]
   agency_types: [police]
+  case_stage: investigation
+  sentence_types: [fine]
   setting: [prison]
 data_sources:
   details.activity: [7, 25, 8, 15, 19, 21]
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.sentence_types: [1, 4, 6, 19, 32, 2]
   details.setting: [1, 4, 7, 8, 11, 12]
   figures.value: [1, 4, 5, 7, 8, 9]
 media:

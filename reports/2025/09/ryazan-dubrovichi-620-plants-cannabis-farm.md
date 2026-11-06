@@ -22,6 +22,7 @@ details:
   case_stage: sentenced
   environment: [greenhouse]
   products: [{product: flower, kg: 19.091}, {product: plants, plants: 620}]
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.activity: [3, 4, 1]
@@ -29,6 +30,7 @@ data_sources:
   details.case_stage: [4]
   details.environment: [1]
   details.products: [1, 2, 3]
+  details.sentence_types: [4]
   details.setting: [1, 4]
   figures.plants_destroyed: [1, 4]
 media:

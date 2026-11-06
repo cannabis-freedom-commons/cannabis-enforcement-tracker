@@ -38,12 +38,14 @@ details:
   case_stage: investigation
   environment: [indoor]
   products: [{product: flower, kg: 0.2949}, {product: plants, plants: 26}]
+  setting: [home]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.environment: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [2, 1]
   figures.charged: [2, 1]
   figures.plants_destroyed: [1, 2]

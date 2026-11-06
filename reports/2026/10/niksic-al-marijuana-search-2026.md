@@ -28,11 +28,14 @@ media:
     caption: 'Police photo of a baton and other metal items shown among property seized during the operation. Photo: UP'
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [2, 3, 4, 5, 1]
+  details.case_stage: [2, 3, 4, 5, 1]
   details.products: [1, 3, 4, 5]
+  figures.arrested: [2, 3, 4, 5, 1]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: 4d38a01372ae930a0f612806962aa0c5

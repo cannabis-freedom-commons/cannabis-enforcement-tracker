@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.prison: [2, 1]
   figures.value: [1, 2]
 media:

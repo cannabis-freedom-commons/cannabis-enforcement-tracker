@@ -26,11 +26,13 @@ details:
   case_stage: charged
   products:
     - {product: hashish}
+  sentence_types: [fine]
   setting: [airport, port, prison]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.charged: [2]

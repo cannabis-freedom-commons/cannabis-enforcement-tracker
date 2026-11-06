@@ -35,6 +35,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [2]
   details.setting: [2, 1]
+  figures.arrested: [2, 1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6dd3169e1da88cc9d7f0e46755f1faff

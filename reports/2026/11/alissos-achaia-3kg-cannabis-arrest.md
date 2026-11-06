@@ -17,10 +17,14 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: plants}]
   setting: [home]
 data_sources:
   details.activity: [1, 10, 4, 5, 6, 7]
   details.agency_types: [1, 10, 4, 5, 6, 7]
+  details.case_stage: [1, 10, 4, 5, 6, 7]
+  details.products: [2, 3, 4, 5, 6, 7]
   details.setting: [1, 10, 4, 5, 6, 7]
 media:
   - kind: photo

@@ -18,9 +18,11 @@ figures:
   kg_seized: 62.811
 details:
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 62.811}]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

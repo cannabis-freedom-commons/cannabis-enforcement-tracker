@@ -17,12 +17,14 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
   details.activity: [3, 2, 1]
   details.agency_types: [3, 2, 1]
+  details.case_stage: [3, 2, 1]
   details.products: [2]
   figures.arrested: [3]
   figures.kg_seized: [2, 1]

@@ -27,12 +27,14 @@ details:
   activity: [sale]
   case_stage: investigation
   products: [{product: flower, kg: 0.8052}]
+  setting: [street]
 data_sources:
   details.activity: [1, 3]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
   details.products: [1, 3]
+  details.setting: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 22607efb68c1280029bb5dde6509bcd6

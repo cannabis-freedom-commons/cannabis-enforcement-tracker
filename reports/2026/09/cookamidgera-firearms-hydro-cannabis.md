@@ -23,10 +23,14 @@ details:
   agency_types: [police]
   case_stage: charged
   environment: [indoor]
+  products: [{product: plants}]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
 status: verified
 tags: [nsw-police, rural-crime, firearms, hydroponic, weapon-prohibition]
 open_questions:

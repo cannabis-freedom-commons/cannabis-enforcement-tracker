@@ -19,11 +19,13 @@ figures:
   charged: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
   details.sentence_types: [1, 2, 3, 4, 5, 6]

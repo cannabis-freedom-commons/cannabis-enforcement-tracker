@@ -22,10 +22,12 @@ created_by_model: unknown
 details:
   agencies: [in-bsf]
   agency_types: [border-guard]
+  case_stage: investigation
   products: [{product: flower, kg: 327.7}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

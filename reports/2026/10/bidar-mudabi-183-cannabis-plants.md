@@ -26,10 +26,12 @@ media:
     caption: Police officers among the tall cannabis plants in the field on the outskirts of Mudabi village.
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1]
   details.products: [2]
   figures.arrested: [2, 1]
   figures.plants_destroyed: [2, 1]

@@ -24,11 +24,13 @@ details:
   activity: [cultivation]
   agencies: [tr-jandarma]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: flower, kg: 1.362}, {product: plants, plants: 2940}]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

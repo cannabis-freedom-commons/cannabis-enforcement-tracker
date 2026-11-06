@@ -18,11 +18,13 @@ figures:
   kg_seized: 20000
 details:
   agency_types: [customs, police]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [port]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

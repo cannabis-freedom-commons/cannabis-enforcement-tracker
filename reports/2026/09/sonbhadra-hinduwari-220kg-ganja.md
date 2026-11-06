@@ -21,12 +21,14 @@ figures:
 details:
   activity: [smuggling, trafficking]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [vehicle]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1, 3]
+  details.case_stage: [3, 2, 1]
   details.products: [1]
   details.setting: [2, 1, 3]
   figures.arrested: [2, 1, 3]

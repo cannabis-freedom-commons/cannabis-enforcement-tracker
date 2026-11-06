@@ -18,12 +18,14 @@ figures:
   value: { amount: 432142, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [court]
   case_stage: sentenced
   environment: [indoor]
   products: [{product: flower}, {product: plants}]
   sentence_types: [prison]
   setting: [airport, building, prison]
 data_sources:
+  details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]
   details.products: [1]

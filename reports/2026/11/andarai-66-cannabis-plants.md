@@ -22,12 +22,14 @@ media:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   environment: [greenhouse]
   products: [{product: plants, plants: 66}]
   setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2, 3]
   details.environment: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]

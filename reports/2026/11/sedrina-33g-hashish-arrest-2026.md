@@ -21,13 +21,17 @@ media:
     publisher: L'Eco di Bergamo
     caption: 'Seized drugs from the 26-year-old arrested in Sedrina by the Zogno Carabinieri. Photo: L''Eco di Bergamo'
 details:
+  activity: [sale]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3, 2, 4, 5]
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
+  details.case_stage: [1, 2, 4, 5, 3]
   details.products: [1, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

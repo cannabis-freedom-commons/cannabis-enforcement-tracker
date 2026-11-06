@@ -31,11 +31,13 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [mail]
 data_sources:
   details.activity: [2, 1, 5, 3, 4]
   details.agency_types: [2, 1, 5, 3]
   details.case_stage: [2, 1, 5]
   details.products: [1, 5]
+  details.setting: [2, 1, 5, 3]
   figures.arrested: [1, 5, 2, 3, 4]
   figures.kg_seized: [2, 1, 5, 3]
 status: verified

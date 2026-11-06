@@ -20,11 +20,13 @@ created_by_model: spacexai/grok-4.7
 details:
   activity: [trafficking]
   agency_types: [police, court]
+  case_stage: investigation
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified

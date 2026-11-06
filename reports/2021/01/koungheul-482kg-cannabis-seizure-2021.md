@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [2, 1, 3, 5, 4]
   details.case_stage: [2, 1, 3, 5, 4]
   details.setting: [2, 1, 3, 5]
+  figures.arrested: [2, 1, 3, 5, 4]
   figures.kg_seized: [1]
   figures.value: [2, 1]
 media:

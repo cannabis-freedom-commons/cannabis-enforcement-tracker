@@ -16,11 +16,14 @@ figures:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: flower}]
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [2, 1, 3]
   details.products: [1, 3, 2]
+  figures.arrested: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fe49aa21fa8e3658f499a56704d9f29a

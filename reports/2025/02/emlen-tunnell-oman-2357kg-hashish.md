@@ -26,11 +26,13 @@ media:
 details:
   activity: [smuggling]
   agency_types: [coast-guard, military]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [2]
   figures.kg_seized: [1, 2]
 status: verified

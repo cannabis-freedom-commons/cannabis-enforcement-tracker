@@ -24,12 +24,16 @@ media:
 details:
   activity: [smuggling]
   agency_types: [military]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

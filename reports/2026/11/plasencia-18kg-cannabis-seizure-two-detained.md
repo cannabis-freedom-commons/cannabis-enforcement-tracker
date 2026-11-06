@@ -28,12 +28,14 @@ media:
     caption: 'Police photo of the two suitcases holding 16 kilograms of hashish in tablets and two kilograms of marijuana. Credit: Policía Nacional Extremadura via COPE'
 details:
   agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
   setting: [prison]
 data_sources:
   details.agency_types: [1, 3, 6, 4, 5, 2]
+  details.case_stage: [1, 3, 6, 4, 5, 2]
   details.products: [1, 4, 5, 6]
   details.setting: [1, 4]
   figures.arrested: [1, 4, 5, 6, 3]

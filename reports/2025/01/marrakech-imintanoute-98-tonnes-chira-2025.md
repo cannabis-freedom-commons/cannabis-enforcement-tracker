@@ -23,11 +23,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1]

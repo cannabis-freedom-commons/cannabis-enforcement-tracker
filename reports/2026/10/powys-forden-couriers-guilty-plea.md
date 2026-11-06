@@ -18,8 +18,10 @@ figures:
   kg_seized: 0.14
 details:
   agency_types: [prosecutor, court]
+  setting: [mail]
 data_sources:
   details.agency_types: [1, 2]
+  details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]
 status: verified

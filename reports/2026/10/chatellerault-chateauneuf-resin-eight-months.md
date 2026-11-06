@@ -21,12 +21,15 @@ details:
   case_stage: sentenced
   products:
     - {product: hashish}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.sentence_types: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 38bccc6c5c8c290b1cfee9ea0b3f6c2f

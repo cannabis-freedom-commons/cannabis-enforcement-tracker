@@ -17,8 +17,10 @@ figures:
   hectares: 14
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  case_stage: investigation
   setting: [forest]
 data_sources:
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1, 2]
 status: verified

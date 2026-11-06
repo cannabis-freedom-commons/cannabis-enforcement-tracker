@@ -21,12 +21,14 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [court]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [airport, port, prison]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2]
   details.case_stage: [1, 2]
+  details.products: [2]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
   figures.fine: [1, 2]

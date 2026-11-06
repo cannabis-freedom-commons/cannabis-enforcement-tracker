@@ -22,14 +22,17 @@ media:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [port]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 6f70c118155662a894a8e2e3188a780c

@@ -13,13 +13,17 @@ summary: >-
   25 July 2007, the same day the City Council voted to halt new dispensaries; crowds
   protested at the California Patients Group in Hollywood while the LAPD stood by.
 details:
+  activity: [sale]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   products: [{product: flower}]
+  setting: [shop]
 data_sources:
+  details.activity: [1, 5]
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
   details.products: [2]
+  details.setting: [1, 5]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, dispensaries, medical-marijuana]

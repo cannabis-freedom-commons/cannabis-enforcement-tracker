@@ -26,16 +26,20 @@ media:
     publisher: МВД МЕДИА
     caption: 'Police photo of wrapped hashish bars marked 50, 100, 15 and 10. Photo: Press service of the Interior Ministry for the Republic of Sakha (Yakutia)'
 details:
+  activity: [sale]
   agencies: [ru-fsb]
   agency_types: [police]
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [street]
 data_sources:
+  details.activity: [1, 3]
   details.agencies: [3]
   details.agency_types: [3]
   details.case_stage: [1, 3]
   details.products: [1, 3]
+  details.setting: [1]
   figures.kg_seized: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

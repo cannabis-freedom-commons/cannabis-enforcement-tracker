@@ -26,6 +26,8 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [3, 2]
+  figures.arrested: [1, 3]
+  figures.charged: [1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [wisconsin, washburn-county, marijuana, impaired-driving, owi]

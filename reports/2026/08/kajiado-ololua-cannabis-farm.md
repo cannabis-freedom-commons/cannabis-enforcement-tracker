@@ -23,9 +23,11 @@ created_by_model: cursor/composer-2.5
 details:
   activity: [cultivation]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]
 status: verified

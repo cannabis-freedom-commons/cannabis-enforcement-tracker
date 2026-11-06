@@ -13,8 +13,10 @@ summary: >-
   national HIV response, from 2.83 to 5.17 million US dollars.
 created_by_model: unknown
 details:
+  activity: [use]
   agency_types: [court]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
 status: verified
 cfi_id: jamaica-court-cases-fall-after-reform-2016

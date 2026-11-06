@@ -13,10 +13,12 @@ summary: >-
   considered their powers too limited to set aside the conviction on the basis of those doubts.
 created_by_model: unknown
 details:
+  agency_types: [court]
   case_stage: sentenced
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.agency_types: [1]
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]

@@ -16,9 +16,11 @@ figures:
   arrested: 1
   charged: 1
 details:
+  activity: [use]
   agency_types: [police]
   products: [{product: flower}]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.products: [2, 1]
 status: verified

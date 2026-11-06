@@ -19,12 +19,15 @@ details:
   activity: [sale]
   agency_types: [police]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.charged: [1]
 media:
   - kind: photo
     url: https://tydenikpolicie.cz/doutnik-prodaval-marihuanu-v-ceskobudejovickem-parku-prevazne-mladistvym/

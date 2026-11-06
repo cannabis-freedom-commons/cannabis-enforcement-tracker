@@ -16,9 +16,11 @@ figures:
   plants_destroyed: 1006
 details:
   activity: [cultivation]
+  case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 1006}]
 data_sources:
   details.activity: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3]
   figures.plants_destroyed: [1, 2, 3]

@@ -20,12 +20,15 @@ details:
   activity: [smuggling, trafficking, possession]
   agency_types: [police, court]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2, 6, 9, 12, 3, 13]
   details.agency_types: [2, 6, 9, 12, 3, 14]
   details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [2, 6, 9, 12]
   figures.value: [2, 6, 9, 12, 3, 14]
 media:
   - kind: photo

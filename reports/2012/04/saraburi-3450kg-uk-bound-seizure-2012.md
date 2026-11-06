@@ -20,12 +20,15 @@ figures:
   value: { amount: 51000000, currency: THB }
 details:
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 3450}]
   setting: [vehicle, home, building]
 data_sources:
   details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3, 1]
   details.products: [2, 3, 1]
   details.setting: [1, 2, 3]
+  figures.arrested: [2, 3, 1]
   figures.kg_seized: [2, 3]
   figures.value: [2, 3, 1]
 media:

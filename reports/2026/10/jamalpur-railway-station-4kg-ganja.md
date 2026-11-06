@@ -31,11 +31,13 @@ media:
     caption: 'Dainik Bhaskar video report on the platform seizure, showing railway police officers with the four packets. Video: Dainik Bhaskar'
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.case_stage: [3, 1, 2]
   details.products: [3]
   details.setting: [3, 1, 2]
   figures.kg_seized: [3, 1, 2]

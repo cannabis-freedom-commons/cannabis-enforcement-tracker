@@ -26,14 +26,17 @@ media:
 details:
   activity: [trafficking, cultivation]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cc5564888bc5df3267011debfb3051e7

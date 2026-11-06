@@ -17,11 +17,13 @@ figures:
   prison: 1 year and 9 months, respectively
 created_by_model: openai/gpt-6
 details:
+  activity: [sale]
   agency_types: [court]
   case_stage: sentenced
   environment: [wild]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]

@@ -17,11 +17,13 @@ figures:
   charged: 1
   kg_seized: 2.015
 details:
+  activity: [smuggling]
   agency_types: [police, court]
   products:
     - {product: flower}
   setting: [port]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.products: [1, 2]
   details.setting: [2, 1]

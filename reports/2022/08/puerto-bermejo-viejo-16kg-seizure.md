@@ -17,9 +17,11 @@ figures:
     currency: ARS
 details:
   agency_types: [coast-guard, prosecutor]
+  case_stage: investigation
   products: [{product: flower, kg: 16}]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1]
   figures.kg_seized: [1, 2]
 media:

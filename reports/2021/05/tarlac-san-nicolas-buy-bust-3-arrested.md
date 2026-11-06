@@ -20,11 +20,13 @@ details:
   activity: [trafficking]
   agencies: [ph-pnp]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower}, {product: oil}]
 data_sources:
   details.activity: [2, 1, 3]
   details.agencies: [1, 2]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 1, 3]
   details.products: [2, 1, 3]
   figures.arrested: [1, 2]
   figures.value: [1, 3, 2]

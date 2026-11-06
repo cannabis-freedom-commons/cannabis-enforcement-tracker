@@ -13,8 +13,10 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking]
+  case_stage: investigation
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: togo-drug-seizures-report-2026
 tags:

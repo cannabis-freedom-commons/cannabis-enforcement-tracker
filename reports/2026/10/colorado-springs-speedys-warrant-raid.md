@@ -21,11 +21,15 @@ figures:
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower, kg: 968.464}]
+  setting: [building]
 data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: cursor/composer-2.5

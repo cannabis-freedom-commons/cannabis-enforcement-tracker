@@ -21,11 +21,13 @@ details:
   agency_types: [customs, gendarmerie, prosecutor]
   products:
     - {product: flower}
+  sentence_types: [fine]
   setting: [vehicle, home, building]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1]
+  details.sentence_types: [2, 1]
   details.setting: [1]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]

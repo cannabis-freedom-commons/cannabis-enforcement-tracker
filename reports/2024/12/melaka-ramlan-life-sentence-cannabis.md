@@ -17,11 +17,13 @@ figures:
   prison: life imprisonment
 details:
   activity: [trafficking]
+  agency_types: [court]
   case_stage: sentenced
   sentence_types: [life]
   setting: [vehicle, building, prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]

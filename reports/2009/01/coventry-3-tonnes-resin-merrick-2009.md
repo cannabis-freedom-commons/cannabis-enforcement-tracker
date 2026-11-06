@@ -35,6 +35,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.sentence_types: [1, 3]
   details.setting: [1, 3]
+  figures.charged: [2, 1, 3]
   figures.value: [1, 2]
 status: verified
 tags: [coventry, west-midlands-police]

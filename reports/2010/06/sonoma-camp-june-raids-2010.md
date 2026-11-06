@@ -18,10 +18,12 @@ figures:
 details:
   agencies: [us-camp]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.plants_destroyed: [1]
   figures.value: [1]

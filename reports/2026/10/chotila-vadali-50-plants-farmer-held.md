@@ -22,11 +22,13 @@ figures:
 details:
   activity: [trafficking, cultivation]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.activity: [2]
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1]
   figures.plants_destroyed: [2, 1]
   figures.value: [2, 1]

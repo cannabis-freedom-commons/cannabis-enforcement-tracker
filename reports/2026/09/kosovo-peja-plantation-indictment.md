@@ -16,11 +16,13 @@ details:
   activity: [cultivation, possession]
   agency_types: [police, prosecutor]
   case_stage: charged
+  products: [{product: plants}]
   setting: [field]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
   figures.charged: [1]
   figures.kg_seized: [1]

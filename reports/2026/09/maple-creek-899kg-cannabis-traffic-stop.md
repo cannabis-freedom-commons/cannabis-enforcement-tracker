@@ -38,6 +38,8 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
 status: verified
 created_by_model: unknown # This runtime did not disclose its exact model identifier or reasoning effort.
 tags: [saskatchewan, maple-creek, rcmp, traffic-stop, cannabis]

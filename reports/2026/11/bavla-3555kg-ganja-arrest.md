@@ -26,11 +26,13 @@ media:
     caption: Video report on the SOG ganja seizure and arrest in Bavla
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [2]
   details.products: [2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

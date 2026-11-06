@@ -24,12 +24,14 @@ media:
     publisher: Officer.com
     caption: "Seized marijuana at the White City processing site. Photo: Oregon State Police via Officer.com"
 details:
+  activity: [smuggling]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: investigation
   products: [{product: flower, kg: 226796}]
   setting: [home, building]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2, 1]

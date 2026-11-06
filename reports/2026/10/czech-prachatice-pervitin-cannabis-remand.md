@@ -26,11 +26,13 @@ media:
     caption: 'The drugs seized in the raid in the Prachatice district, laid out on a table. Photo: Police of the Czech Republic, with permission.'
 details:
   agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [prison]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

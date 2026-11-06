@@ -32,6 +32,8 @@ data_sources:
   details.case_stage: [1, 3, 4, 2]
   details.products: [1, 3, 4, 2]
   details.setting: [2]
+  figures.arrested: [1, 3, 4, 2]
+  figures.charged: [1, 3, 4, 2]
   figures.kg_seized: [1, 3, 4, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

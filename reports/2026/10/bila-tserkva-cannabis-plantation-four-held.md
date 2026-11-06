@@ -25,12 +25,14 @@ details:
   agency_types: [police]
   case_stage: sentenced
   products: [{product: plants, plants: 209}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2, 3, 4, 1]
   details.agency_types: [2, 1, 4, 3]
   details.case_stage: [2, 3, 4, 1]
   details.products: [2, 1, 4]
+  details.sentence_types: [2, 3, 4, 1]
   details.setting: [3, 2, 4, 1]
   figures.arrested: [2, 1, 4, 3]
   figures.charged: [2, 1, 4, 3]

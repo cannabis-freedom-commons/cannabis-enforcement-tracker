@@ -23,10 +23,14 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 1999.9}, {product: plants, plants: 86578}]
   setting: [mail]
 data_sources:
   details.activity: [2, 5, 1, 4]
+  details.agency_types: [3, 2, 4, 1, 5]
+  details.case_stage: [2, 4, 1, 5]
   details.products: [2, 5, 1]
   details.setting: [2, 5, 1, 4]
   figures.plants_destroyed: [2, 5]

@@ -20,11 +20,13 @@ figures:
     amount: 120000000
     currency: LBP
 details:
+  agency_types: [court]
   case_stage: sentenced
   products:
     - {product: hashish}
   sentence_types: [fine]
 data_sources:
+  details.agency_types: [2, 3]
   details.case_stage: [3, 1]
   details.products: [1, 2]
   details.sentence_types: [3, 1]

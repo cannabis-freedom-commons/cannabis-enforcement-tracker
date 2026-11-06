@@ -25,14 +25,17 @@ figures:
 details:
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [prison]
 data_sources:
   details.agencies: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
   details.agency_types: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+  details.case_stage: [1, 4, 7, 8, 9, 10]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
   details.setting: [1, 3, 4, 5, 6, 7]
+  figures.arrested: [1, 8, 9, 10, 11, 12]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

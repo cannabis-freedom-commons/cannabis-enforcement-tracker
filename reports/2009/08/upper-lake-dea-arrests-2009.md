@@ -21,13 +21,19 @@ figures:
   plants_destroyed: 154
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [sale]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 154}]
+  setting: [shop]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified
 tags: [medical-marijuana, lake-county]

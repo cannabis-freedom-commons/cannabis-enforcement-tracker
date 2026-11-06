@@ -13,6 +13,10 @@ summary: >-
   appeals against the judgments. Their later published review concerns drug offences generally
   and does not…
 created_by_model: unknown
+details:
+  agency_types: [court]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: iraq-badra-personal-use-fines-2019
 tags:

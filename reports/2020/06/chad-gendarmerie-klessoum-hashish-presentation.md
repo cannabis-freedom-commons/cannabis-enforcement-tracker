@@ -13,8 +13,10 @@ summary: >-
   Chad's national gendarmerie presented a mixed haul at its Klessoum Legion in N'Djamena, listing 54 weapons and two sacks identified as cannabis. Several people described as suspected criminals had also been arrested, and the displayed items included other drugs, adulterated drinks, a satellite device and tear-gas grenade detonators.
 details:
   agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1]
 media:
   - kind: photo
     url: https://www.alwihdainfo.com/Tchad-d-importantes-saisies-d-armes-de-guerre-par-la-gendarmerie_a89286.html

@@ -19,11 +19,13 @@ figures:
   value: { amount: 446000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
   case_stage: sentenced
   products: [{product: plants, plants: 811}]
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]

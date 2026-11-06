@@ -16,8 +16,12 @@ summary: >-
 figures:
   plants_destroyed: 109000
 details:
+  activity: [cultivation]
+  case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 109000}]
 data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified

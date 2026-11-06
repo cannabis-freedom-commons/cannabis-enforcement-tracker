@@ -18,12 +18,14 @@ figures:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [3, 1, 2]
   details.products: [2]
   details.setting: [3, 2, 1]
   figures.arrested: [2, 3, 1]

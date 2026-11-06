@@ -19,10 +19,12 @@ figures:
 created_by_model: xai/grok-4.7
 details:
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]

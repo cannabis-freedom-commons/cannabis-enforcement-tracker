@@ -17,12 +17,14 @@ figures:
   arrested: 5
   kg_seized: 628.42
 details:
+  activity: [smuggling]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
   case_stage: investigation
   products: [{product: flower, kg: 628.42}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

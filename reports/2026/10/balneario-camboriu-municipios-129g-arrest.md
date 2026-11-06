@@ -29,12 +29,14 @@ details:
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f6f93b955e4984adeeab1e212638007a

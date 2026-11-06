@@ -13,9 +13,15 @@ summary: >-
   drugs, not cannabis alone.
 created_by_model: unknown
 details:
+  activity: [trafficking]
   agency_types: [prosecutor]
+  case_stage: investigation
+  setting: [street]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 cfi_id: maldives-drug-seizures-2024
 sources:

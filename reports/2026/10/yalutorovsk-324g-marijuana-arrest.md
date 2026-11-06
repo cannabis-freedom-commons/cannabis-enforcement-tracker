@@ -19,11 +19,13 @@ figures:
   arrested: 1
   kg_seized: 0.324
 details:
+  activity: [possession]
   agency_types: [police]
   products: [{product: flower, kg: 0.324}]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.environment: [2]
   details.products: [1, 2]

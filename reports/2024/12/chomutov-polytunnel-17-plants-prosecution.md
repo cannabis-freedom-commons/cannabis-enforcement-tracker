@@ -29,6 +29,8 @@ data_sources:
   details.environment: [2, 1]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [1, 2]
+  figures.plants_destroyed: [2, 1]
 media:
   - kind: photo
     url: https://www.novinky.cz/clanek/krimi-muz-na-chomutovsku-pestoval-ve-foliovniku-konopi-po-udani-mu-ho-prisla-sklidit-policie-40500915

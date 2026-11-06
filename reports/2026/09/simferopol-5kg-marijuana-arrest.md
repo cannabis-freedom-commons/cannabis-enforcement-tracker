@@ -19,11 +19,13 @@ figures:
   arrested: 1
   kg_seized: 5
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: investigation
   environment: [wild]
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1, 2]

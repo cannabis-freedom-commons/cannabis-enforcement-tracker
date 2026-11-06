@@ -18,6 +18,7 @@ figures:
     amount: 4000
     currency: GBP
 details:
+  activity: [smuggling]
   agencies: [gb-nca, gb-border-force]
   agency_types: [anti-narcotics, border-guard]
   setting: [port]
@@ -27,6 +28,7 @@ details:
   date_precision: publication
   region: Essex
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1]

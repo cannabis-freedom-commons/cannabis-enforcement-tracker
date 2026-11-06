@@ -19,6 +19,7 @@ figures:
   kg_seized: 2640
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [np-police]
   agency_types: [police]
   case_stage: investigation
@@ -26,6 +27,7 @@ details:
     - {product: hashish}
   route: {from: [np], to: [in, cn]}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

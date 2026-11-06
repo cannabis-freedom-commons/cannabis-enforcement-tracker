@@ -10,6 +10,10 @@ summary: >-
   Grenadian authorities seized 460 kg of cannabis and 1,309 cannabis cigarettes during 2009, as
   reported in the US International Narcotics Control Strategy Report.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1, 2]
 status: verified
 cfi_id: grenada-seizures-2009
 sources:

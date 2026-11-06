@@ -15,11 +15,13 @@ figures:
   arrested: 20
   charged: 19
 details:
+  activity: [smuggling]
   case_stage: executed
   force: shots-fired
   sentence_types: [prison]
   setting: [vehicle, home, building]
 data_sources:
+  details.activity: [1]
   details.case_stage: [1, 2]
   details.force: [1]
   details.sentence_types: [1]

@@ -14,11 +14,13 @@ figures:
   deaths: 5
 details:
   activity: [smuggling]
+  agency_types: [court]
   case_stage: executed
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 5, 7, 8, 9, 10]
+  details.agency_types: [4, 5, 6, 7, 10, 2]
   details.case_stage: [1, 5, 7, 8, 9, 10]
   details.products: [1, 2]
   figures.deaths: [1, 5, 7, 8, 9, 10]

@@ -13,8 +13,10 @@ summary: >-
   Cayman's Director of Public Prosecutions agreed in October 2024 to remake the decision not to charge officials over the 2019 raid on the licensed Doctors Express clinic in George Town. A judge had ruled the seizure of cannabis products unlawful in 2021, and the clinic's judicial-review challenge was left academic pending the fresh charging decision.
 details:
   agency_types: [customs, police, court]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 36c6d961504e7b5e1d36752ababb7260

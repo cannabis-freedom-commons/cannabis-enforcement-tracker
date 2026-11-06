@@ -19,12 +19,14 @@ details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
   products: [{product: hashish, kg: 5}, {product: flower}]
+  sentence_types: [prison, fine, suspended]
   setting: [prison]
 data_sources:
   details.activity: [1, 9, 5, 3, 6, 8]
   details.agency_types: [1, 2, 7, 9, 3, 4]
   details.case_stage: [4, 6, 8]
   details.products: [1, 5, 9, 3, 6, 8]
+  details.sentence_types: [4, 6, 8, 1, 2, 7]
   details.setting: [4, 6, 8]
   figures.arrested: [1, 2, 7, 9, 3]
   figures.kg_seized: [1, 5, 7, 9, 2]

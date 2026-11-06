@@ -27,12 +27,14 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2, 1, 4, 6, 10, 8]
   details.agency_types: [2, 5, 7, 10, 3, 1]
   details.case_stage: [2, 5, 7, 10, 3]
   details.products: [2, 5, 7, 10]
+  details.sentence_types: [2, 1, 4, 6, 10]
   details.setting: [2, 1, 4, 6, 10]
   figures.arrested: [2, 5, 7, 10, 3]
   figures.kg_seized: [2, 5, 7, 10, 3]

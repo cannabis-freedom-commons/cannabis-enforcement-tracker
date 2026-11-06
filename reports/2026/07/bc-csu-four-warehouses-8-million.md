@@ -20,11 +20,13 @@ figures:
 details:
   agencies: [ca-rcmp]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: plants}, {product: edibles}]
   setting: [building]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 3, 2]
   details.products: [1]
   details.setting: [3]
   figures.value: [1]

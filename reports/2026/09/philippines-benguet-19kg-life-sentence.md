@@ -23,6 +23,7 @@ figures:
     currency: PHP
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
 details:
+  activity: [smuggling]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   case_stage: sentenced
@@ -30,6 +31,7 @@ details:
   sentence_types: [life, fine]
   setting: [prison]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

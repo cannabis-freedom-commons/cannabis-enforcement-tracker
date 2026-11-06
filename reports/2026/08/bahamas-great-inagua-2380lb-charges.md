@@ -25,11 +25,13 @@ details:
   agency_types: [coast-guard, prosecutor]
   case_stage: charged
   products: [{product: flower, kg: 1079.55}]
+  setting: [street]
 data_sources:
   details.activity: [1, 2, 3, 4]
   details.agency_types: [1, 2, 4, 3, 5]
   details.case_stage: [1, 2, 4, 3, 5]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 4, 3, 5]
   figures.arrested: [1, 2, 3, 4]
   figures.charged: [1, 2, 3, 4]
   figures.kg_seized: [1, 2, 4, 3, 5]

@@ -16,6 +16,7 @@ figures:
   charged: 1
   deaths: 1
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
   case_stage: sentenced
   force: lethal
@@ -24,12 +25,14 @@ details:
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
+  details.activity: [1, 4, 2]
   details.agency_types: [1, 2, 4]
   details.case_stage: [1, 2, 3]
   details.force: [2, 3, 4, 1]
   details.products: [1, 4]
   details.sentence_types: [1, 2, 3]
   details.setting: [1, 4, 3, 2]
+  figures.deaths: [2, 3, 4, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [riverside, california, murder, robbery, marijuana]

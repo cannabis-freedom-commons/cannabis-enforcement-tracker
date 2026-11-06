@@ -17,13 +17,17 @@ figures:
   charged: 1
   prison: 3 years
 details:
+  activity: [smuggling]
   agency_types: [customs, police, prosecutor]
   case_stage: sentenced
+  products: [{product: hashish}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [4, 5, 1, 2]
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [5, 1, 2]
+  details.products: [4, 5]
   details.sentence_types: [5, 1, 2]
   details.setting: [5, 1, 2]
   figures.prison: [5, 1, 2]

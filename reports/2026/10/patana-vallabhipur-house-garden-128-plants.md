@@ -28,9 +28,11 @@ details:
   agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agency_types: [2, 3, 1]
   details.products: [1, 3]
+  details.setting: [2]
   figures.plants_destroyed: [2, 3, 1]
   figures.value: [2, 3, 1]
 status: verified

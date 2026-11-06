@@ -20,9 +20,11 @@ figures:
   value: { amount: 1000000000, currency: USD }
 details:
   activity: [cultivation]
+  agency_types: [police]
   products: [{product: flower, kg: 15186}, {product: plants, plants: 372918}]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

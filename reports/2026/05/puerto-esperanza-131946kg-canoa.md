@@ -13,6 +13,10 @@ summary: >-
   Gendarmería officers patrolling at Vera Cue, in Puerto Esperanza, Misiones, saw two people throwing bundles from a canoe toward the Argentine bank and found 149 packages of marijuana, 131 kilos 946 grams, after the pair fled to Paraguay. The federal court and prosecutor's office in Puerto Iguazú ordered the drug seized and no arrests were reported.
 figures:
   kg_seized: 131.946
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/misiones-incautaron-mas-de-131-kilos-de-marihuana-abandonados-en-la-costa-del-rio-parana

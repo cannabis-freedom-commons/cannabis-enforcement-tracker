@@ -22,11 +22,15 @@ media:
     publisher: LEADERSHIP
     caption: Uniformed officers stand behind a table of packaged goods at Tin Can Island Port, in two photographs accompanying the announcement; no credit is given.
 details:
+  activity: [smuggling]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  setting: [street]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
   figures.kg_seized: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

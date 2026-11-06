@@ -22,11 +22,13 @@ details:
   agency_types: [prosecutor, court]
   case_stage: sentenced
   products: [{product: flower}, {product: plants, plants: 46}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [1]
 status: verified

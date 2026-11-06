@@ -12,8 +12,10 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [police]
+  products: [{product: plants}]
 data_sources:
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: kiribati-abatao-cannabis-raid-2025
 sources:

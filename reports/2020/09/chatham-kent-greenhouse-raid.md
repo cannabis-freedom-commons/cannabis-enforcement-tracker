@@ -31,6 +31,7 @@ data_sources:
   details.environment: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.charged: [1, 2]
   figures.plants_destroyed: [1, 2]
   figures.value: [1]
 status: verified

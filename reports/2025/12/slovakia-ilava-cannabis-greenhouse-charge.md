@@ -34,6 +34,7 @@ data_sources:
   details.environment: [1]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.charged: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ilava, greenhouse, personal-use, cannabis]

@@ -23,10 +23,12 @@ media:
     caption: Photo captioned “Contents of one of the packages seized by Police on Saturday July 16,” showing the contents of a seized package.
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max

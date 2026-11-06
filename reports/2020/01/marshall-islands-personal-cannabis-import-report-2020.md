@@ -13,9 +13,11 @@ summary: >-
   which included probation conditions restricting travel outside Majuro.
 created_by_model: unknown
 details:
+  activity: [possession]
   products: [{product: flower}]
   sentence_types: [suspended, probation]
 data_sources:
+  details.activity: [1]
   details.products: [1]
   details.sentence_types: [1]
 status: verified

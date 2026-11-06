@@ -21,9 +21,11 @@ media:
     caption: 'Lead image published with the report on the La Goulette seizure, captioned only with the article title, with no credit or caption identifying what it shows. Photo: Webdo'
 details:
   agency_types: [customs]
+  case_stage: investigation
   setting: [port]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

@@ -18,10 +18,14 @@ created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
 details:
   activity: [trafficking, cultivation]
   agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: plants}]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1]
   details.setting: [1, 2]
 status: verified
 tags: [saxony-anhalt, balgstaedt, grow-op, halle]

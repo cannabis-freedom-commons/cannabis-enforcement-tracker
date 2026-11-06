@@ -15,6 +15,14 @@ summary: >-
   seizures in Baja California that February.
 figures:
   kg_seized: 10886.22
+details:
+  agency_types: [military]
+  case_stage: investigation
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mexican-army, trailer, baja-california]

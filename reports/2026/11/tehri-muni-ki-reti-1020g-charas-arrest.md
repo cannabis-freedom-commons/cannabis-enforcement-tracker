@@ -22,6 +22,7 @@ details:
   activity: [smuggling]
   agencies: [in-anf]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [vehicle]
@@ -29,6 +30,7 @@ data_sources:
   details.activity: [1, 4, 2, 3, 5]
   details.agencies: [2, 4, 5]
   details.agency_types: [2, 4, 5]
+  details.case_stage: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 4, 5]
   details.setting: [1, 2, 5, 3, 4]
   figures.arrested: [1, 2, 4, 5, 3]

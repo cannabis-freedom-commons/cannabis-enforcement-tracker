@@ -12,6 +12,10 @@ summary: >-
   investigators were examining links to cannabis seized in Serbia. The ministry said some inspected
   companies operated lawfully; the complaint was not a conviction.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: north-macedonia-cannabis-complaint-2026
 sources:

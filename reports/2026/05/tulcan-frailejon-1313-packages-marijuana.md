@@ -17,11 +17,13 @@ figures:
     currency: USD
 details:
   agency_types: [military]
+  case_stage: investigation
   setting: [border]
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.value: [1]

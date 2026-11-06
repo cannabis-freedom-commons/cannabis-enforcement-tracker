@@ -32,6 +32,7 @@ data_sources:
   details.case_stage: [2, 3, 4]
   details.force: [1, 3, 2, 4]
   details.products: [1, 3]
+  figures.deaths: [1, 3, 2, 4]
   figures.kg_seized: [1, 3]
   figures.value: [1, 3, 2, 4, 5]
 status: verified

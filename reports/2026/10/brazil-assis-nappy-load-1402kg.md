@@ -30,6 +30,7 @@ data_sources:
   details.agency_types: [1, 3]
   details.case_stage: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.arrested: [1, 2]
 status: verified
 tags: [assis, sao-paulo, ficco, highway-police]
 media:

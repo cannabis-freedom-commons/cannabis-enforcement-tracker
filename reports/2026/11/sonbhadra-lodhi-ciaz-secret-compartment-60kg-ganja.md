@@ -31,12 +31,14 @@ media:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home, building]
 data_sources:
   details.activity: [2, 3, 5, 1]
   details.agency_types: [1, 5, 2, 3, 4]
+  details.case_stage: [1, 5, 2, 4]
   details.products: [1]
   details.setting: [1, 5, 2, 3]
   figures.arrested: [1, 5, 4, 2]

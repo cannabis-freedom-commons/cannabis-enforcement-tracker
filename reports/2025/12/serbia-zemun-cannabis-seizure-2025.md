@@ -12,8 +12,10 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [prosecutor]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
 status: reported
 cfi_id: serbia-zemun-cannabis-seizure-2025
 sources:

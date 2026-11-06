@@ -22,11 +22,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [th-oncb]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   route: {from: [th], to: [gb]}
   setting: [home, mail]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.route: [2]
   details.setting: [2, 1]
   figures.arrested: [2, 1]

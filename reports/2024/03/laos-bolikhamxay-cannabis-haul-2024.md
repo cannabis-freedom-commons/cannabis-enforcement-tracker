@@ -12,6 +12,10 @@ summary: >-
   meth seized in Xayaboury and 166 kg in Bokeo. It gave no charge, court date or sentence for the
   cannabis case.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: laos-bolikhamxay-cannabis-haul-2024
 sources:

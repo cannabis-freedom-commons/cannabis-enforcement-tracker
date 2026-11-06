@@ -20,6 +20,8 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.arrested: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://www.ekusheysangbad.com/country/news/527589

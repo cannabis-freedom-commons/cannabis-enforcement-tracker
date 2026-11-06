@@ -12,8 +12,10 @@ summary: >-
   cannabis seized against 6.3 kg in 2023. No cannabis-specific arrest count was published.
 created_by_model: unknown
 details:
+  case_stage: investigation
   products: [{product: flower}]
 data_sources:
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 cfi_id: brunei-drug-arrests-2024

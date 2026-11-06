@@ -12,6 +12,12 @@ summary: >-
   parole and 275,000 pesos in damages, rejecting the officers' claim that the teenager had fought
   back. The decision was dated 11 August 2025 and made public on 22 December.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: convicted
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 cfi_id: philippines-kian-conviction-affirmed-2025
 sources:

@@ -20,10 +20,14 @@ figures:
   value: { amount: 6316200, currency: TTD }
 created_by_model: openai/gpt-6-luna#max
 details:
+  activity: [smuggling]
   agency_types: [police]
+  case_stage: investigation
   setting: [home]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2]
   details.setting: [1, 2, 3, 4]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]

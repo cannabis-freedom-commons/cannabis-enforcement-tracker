@@ -26,13 +26,17 @@ created_by_model: cursor/composer-2.5
 details:
   activity: [trafficking, cultivation]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   environment: [indoor]
   products: [{product: flower, kg: 27.72}, {product: plants, plants: 255}]
+  setting: [home]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.environment: [1, 2]
   details.products: [2, 3, 1]
+  details.setting: [2, 3, 1]
   figures.plants_destroyed: [1, 2, 3]
   figures.value: [1, 2, 3]
 status: verified

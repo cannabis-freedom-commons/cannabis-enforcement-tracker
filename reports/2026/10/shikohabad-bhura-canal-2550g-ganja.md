@@ -24,12 +24,14 @@ media:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [prison]
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [2]
 status: verified

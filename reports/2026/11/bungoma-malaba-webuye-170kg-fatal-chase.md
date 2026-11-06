@@ -20,11 +20,16 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   force: lethal
+  setting: [street]
 data_sources:
   details.activity: [1, 3, 4, 6]
   details.agency_types: [1, 2, 6, 3, 4, 5]
+  details.case_stage: [2, 3, 4, 5, 6, 7]
   details.force: [1, 2, 5, 6, 7, 3]
+  details.setting: [1, 4, 2, 3, 5, 6]
+  figures.deaths: [1, 2, 5, 6, 7, 3]
   figures.kg_seized: [1, 4, 2, 3, 5, 6]
   figures.value: [1, 4, 2, 3, 5, 6]
 status: verified

@@ -17,10 +17,14 @@ figures:
 details:
   agency_types: [gendarmerie, police]
   case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [prison, fine]
   setting: [forest, prison]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.products: [1, 2]
+  details.sentence_types: [1]
   details.setting: [1, 2]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

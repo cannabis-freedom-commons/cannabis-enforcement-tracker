@@ -24,10 +24,13 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.products: [1]
+  details.setting: [2, 1]
+  figures.arrested: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1e100ce5cd73f3f25a0bec79fb517f78

@@ -21,14 +21,18 @@ details:
   activity: [possession]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]

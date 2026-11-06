@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [pk-anf]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
     - {product: flower}
@@ -24,6 +25,7 @@ details:
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.arrested: [1]

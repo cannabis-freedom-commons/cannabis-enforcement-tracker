@@ -19,12 +19,14 @@ figures:
 details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [vehicle]
 data_sources:
   details.agencies: [1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 16, 18, 20, 21, 22, 23, 24, 25, 26]
   details.agency_types: [1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 16, 18, 20, 21, 22, 23, 24, 25, 26]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
   details.setting: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]

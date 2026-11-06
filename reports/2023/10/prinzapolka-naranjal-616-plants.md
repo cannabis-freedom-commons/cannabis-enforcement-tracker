@@ -18,11 +18,13 @@ figures:
 details:
   activity: [cultivation, sale]
   agency_types: [military]
+  case_stage: investigation
   products: [{product: flower, kg: 0.68}, {product: plants, plants: 616}]
   setting: [field]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1]

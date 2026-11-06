@@ -16,12 +16,15 @@ figures:
   plants_destroyed: 44
 details:
   agency_types: [prosecutor]
+  case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 44}]
   setting: [home]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1]
   figures.plants_destroyed: [1]
 media:
   - kind: photo

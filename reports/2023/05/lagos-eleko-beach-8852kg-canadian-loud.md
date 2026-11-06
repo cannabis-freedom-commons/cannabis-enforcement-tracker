@@ -16,11 +16,13 @@ summary: >-
 figures:
   kg_seized: 8852
 details:
+  activity: [smuggling]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   force: shots-fired
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.force: [1, 2]

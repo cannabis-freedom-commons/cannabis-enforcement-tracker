@@ -23,10 +23,12 @@ media:
     caption: Police personnel with the seized car and two sacks placed in front of it at the stop on NH-27.
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [2]
   details.products: [1, 2]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]

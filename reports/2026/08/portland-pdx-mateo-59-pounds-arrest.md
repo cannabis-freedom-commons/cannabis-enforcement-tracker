@@ -17,15 +17,19 @@ figures:
   charged: 1
   kg_seized: 26.99
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: charged
   products: [{product: flower, kg: 26.99}]
   setting: [airport, port]
 data_sources:
+  details.activity: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1]
   details.products: [1, 2, 3]
   details.setting: [1, 2]
+  figures.arrested: [1]
+  figures.charged: [1]
 media:
   - kind: video
     url: https://www.kptv.com/2026/09/29/woman-arrested-pdx-with-nearly-60-pounds-weed/

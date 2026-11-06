@@ -36,12 +36,15 @@ details:
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.activity: [1, 2, 3, 4, 5]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 4, 5]
+  details.setting: [1, 2, 3, 4, 5]
+  figures.arrested: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 292b47e34414e719feefd54285386d5c

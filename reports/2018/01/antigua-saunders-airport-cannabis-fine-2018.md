@@ -20,17 +20,20 @@ figures:
     amount: 300
     currency: XCD
 details:
+  activity: [smuggling]
   agency_types: [customs]
   case_stage: sentenced
   products: [{product: flower, kg: 0.013}]
   sentence_types: [fine]
   setting: [airport]
 data_sources:
+  details.activity: [2, 3, 4]
   details.agency_types: [1, 2, 3]
   details.case_stage: [4, 1]
   details.products: [3, 4]
   details.sentence_types: [2, 3, 4, 1]
   details.setting: [1, 3]
+  figures.arrested: [1, 2]
   figures.fine: [2, 3, 4, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

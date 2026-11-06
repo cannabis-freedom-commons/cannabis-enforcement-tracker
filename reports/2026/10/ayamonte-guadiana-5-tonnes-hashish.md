@@ -19,11 +19,13 @@ created_by_model: xai/grok-4.7
 details:
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 tags: [ayamonte, guadiana, hashish]

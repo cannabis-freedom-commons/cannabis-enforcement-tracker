@@ -16,12 +16,17 @@ figures:
   arrested: 1
   kg_seized: 1
 details:
+  activity: [smuggling]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [2]
+  figures.arrested: [2, 1]
   figures.kg_seized: [2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

@@ -12,6 +12,10 @@ summary: >-
   cannabis and arrested a suspect in the same district. The fields were found with monitoring by the
   national research agency (BRIN) and the geospatial agency (BIG).
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: indonesia-aceh-cannabis-eradication-2024
 sources:

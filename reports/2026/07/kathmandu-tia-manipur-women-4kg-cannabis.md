@@ -21,10 +21,14 @@ media:
     publisher: Nepal News
     caption: 'Seized cannabis displayed after the airport arrest. Photo courtesy: Narcotics Control Bureau'
 details:
+  activity: [smuggling]
   agency_types: [police]
+  case_stage: investigation
   setting: [airport]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.setting: [1]
   figures.arrested: [1]
 status: verified

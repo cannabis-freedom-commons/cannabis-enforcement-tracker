@@ -20,13 +20,16 @@ figures:
     currency: INR
 details:
   agency_types: [police]
+  case_stage: investigation
   setting: [vehicle]
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 3, 5, 2, 4]
+  details.case_stage: [2, 3, 4, 5, 1]
   details.products: [1, 3, 5]
   details.setting: [1, 2, 3, 4, 5]
+  figures.arrested: [1, 3, 5, 2, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4318b6dac8bfea76ac74851ee4f1c7dc

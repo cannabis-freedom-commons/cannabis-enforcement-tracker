@@ -14,9 +14,13 @@ summary: >-
 details:
   activity: [trafficking]
   agency_types: [military, police, prosecutor]
+  case_stage: investigation
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.morgenpost.de/berlin/article413587812/polizei-entdeckt-waffenarsenal-in-berliner-wohnung.html

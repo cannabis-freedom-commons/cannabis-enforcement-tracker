@@ -21,9 +21,12 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kadamtala, churaibari, trafficking, ndps]

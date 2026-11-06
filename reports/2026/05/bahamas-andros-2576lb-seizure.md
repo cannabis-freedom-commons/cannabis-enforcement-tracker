@@ -21,11 +21,17 @@ figures:
   value: { amount: 6400000, currency: USD }
 created_by_model: command-code/deepseek-v4.1-flash#max
 details:
+  activity: [trafficking]
   agency_types: [coast-guard, police]
+  case_stage: investigation
   environment: [indoor]
+  setting: [street]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1, 2]
+  details.setting: [1]
   figures.kg_seized: [2, 1]
   figures.value: [1]
 status: verified

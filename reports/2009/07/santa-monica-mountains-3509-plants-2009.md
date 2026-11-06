@@ -20,12 +20,14 @@ details:
   activity: [cultivation]
   agencies: [us-camp]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower}, {product: plants, plants: 3509}]
   setting: [field]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
   details.products: [2, 1]
   details.setting: [2, 1]
   figures.plants_destroyed: [2, 1]

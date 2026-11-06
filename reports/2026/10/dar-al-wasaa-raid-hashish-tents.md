@@ -19,8 +19,10 @@ figures:
   kg_seized: 22
 created_by_model: unknown
 details:
+  case_stage: investigation
   products: [{product: hashish, kg: 22}, {product: flower}]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

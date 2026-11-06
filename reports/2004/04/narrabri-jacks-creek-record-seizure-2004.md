@@ -22,11 +22,13 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police, court]
+  case_stage: appeal
   products: [{product: plants}]
   setting: [vehicle, home]
 data_sources:
   details.activity: [2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [3]
   details.products: [2, 3]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

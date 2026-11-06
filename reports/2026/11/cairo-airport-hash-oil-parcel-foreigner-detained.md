@@ -25,11 +25,13 @@ media:
     caption: 'Customs photo of the seized postal parcel suspected to contain cannabis oil. Photo: Other photographer via Al-Masry Al-Youm'
 details:
   agency_types: [customs, anti-narcotics]
+  case_stage: investigation
   products:
     - {product: oil}
   setting: [airport, mail]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.value: [1, 2]

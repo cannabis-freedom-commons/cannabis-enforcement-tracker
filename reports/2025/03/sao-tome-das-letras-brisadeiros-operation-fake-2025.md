@@ -18,11 +18,13 @@ details:
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
   details.case_stage: [2, 3]
   details.products: [2, 1]
+  details.setting: [2, 3]
   figures.arrested: [2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

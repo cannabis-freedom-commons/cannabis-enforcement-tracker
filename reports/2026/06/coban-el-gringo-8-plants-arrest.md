@@ -20,13 +20,16 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [field, home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/america/america-latina/2026/06/24/guatemala-capturan-al-ciudadano-estadounidense-alias-el-gringo-por-tener-una-plantacion-de-marihuana-y-galletas-con-droga-en-su-casa/

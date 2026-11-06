@@ -23,10 +23,12 @@ created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
 details:
   activity: [smuggling]
   agency_types: [customs, police, prosecutor]
+  case_stage: investigation
   route: {from: [vn], to: [jp]}
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.route: [2]
   figures.kg_seized: [1, 2]
 status: verified

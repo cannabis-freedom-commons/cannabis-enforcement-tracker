@@ -13,11 +13,13 @@ created_by_model: unknown
 details:
   activity: [trafficking]
   agency_types: [gendarmerie, police]
+  case_stage: investigation
   force: shots-fired
   setting: [forest]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.force: [1]
   details.setting: [1]
 status: verified

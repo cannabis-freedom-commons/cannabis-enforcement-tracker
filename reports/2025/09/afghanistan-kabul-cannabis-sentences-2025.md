@@ -14,10 +14,12 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking]
+  agency_types: [court]
   sentence_types: [corporal]
   setting: [prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.sentence_types: [1]
   details.setting: [1]
 status: verified

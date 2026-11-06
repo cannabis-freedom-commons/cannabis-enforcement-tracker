@@ -25,11 +25,13 @@ details:
   activity: [trafficking]
   agencies: [cl-pdi]
   agency_types: [police]
+  case_stage: investigation
   setting: [home]
 data_sources:
   details.activity: [3, 1]
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
+  details.case_stage: [2, 3, 1]
   details.setting: [2]
   figures.arrested: [2]
 status: verified

@@ -26,11 +26,13 @@ details:
   agencies: [cl-pdi]
   agency_types: [police]
   case_stage: investigation
+  setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9113a4c77a6de7ca4872531de71545b0

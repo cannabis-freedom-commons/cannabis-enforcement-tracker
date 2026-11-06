@@ -13,9 +13,13 @@ summary: >-
   more than twice the 452 kg of herbal cannabis recorded across the country in 2024.
 created_by_model: unknown
 details:
+  case_stage: investigation
   products: [{product: flower}]
+  setting: [port, street]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: japan-record-cannabis-seizure-2025
 sources:

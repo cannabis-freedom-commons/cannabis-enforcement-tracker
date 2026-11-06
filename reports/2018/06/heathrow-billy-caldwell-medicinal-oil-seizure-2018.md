@@ -15,10 +15,12 @@ summary: >-
   returned to his hospital on 16 June.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
   products: [{product: oil}]
   route: {from: [ca], to: [gb]}
   setting: [airport]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
   details.route: [1]
   details.setting: [1, 2]

@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.sentence_types: [2, 1, 3]
   details.setting: [1, 3, 2]
+  figures.arrested: [1, 2, 3]
   figures.prison: [2, 1]
 media:
   - kind: photo

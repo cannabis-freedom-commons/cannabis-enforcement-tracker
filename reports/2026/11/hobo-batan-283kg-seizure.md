@@ -18,11 +18,13 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [military, police]
+  case_stage: investigation
   products: [{product: flower, kg: 283}]
   setting: [vehicle]
 data_sources:
   details.activity: [1, 3, 4, 5, 6, 2]
   details.agency_types: [2, 3, 6, 1, 5, 4]
+  details.case_stage: [2, 3, 6, 1, 5, 4]
   details.products: [2, 3, 6, 1, 5]
   details.setting: [2, 3, 6, 1, 5, 4]
   figures.kg_seized: [2, 3, 6, 1, 5, 4]

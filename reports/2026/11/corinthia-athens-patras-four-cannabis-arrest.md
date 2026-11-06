@@ -16,8 +16,10 @@ figures:
   kg_seized: 0.00789
 details:
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ef1f50624d95cfad8938a459edd89014

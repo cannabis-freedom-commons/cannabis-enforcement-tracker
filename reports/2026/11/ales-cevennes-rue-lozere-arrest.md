@@ -18,9 +18,11 @@ details:
   agency_types: [police]
   products:
     - {product: hashish}
+  setting: [street]
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4fcc1795e1cbaa08ed65f455c43218d1

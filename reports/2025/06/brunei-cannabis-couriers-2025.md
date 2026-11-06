@@ -14,8 +14,10 @@ summary: >-
 created_by_model: unknown
 details:
   case_stage: investigation
+  setting: [mail]
 data_sources:
   details.case_stage: [1]
+  details.setting: [1]
 status: verified
 cfi_id: brunei-cannabis-couriers-2025
 tags:

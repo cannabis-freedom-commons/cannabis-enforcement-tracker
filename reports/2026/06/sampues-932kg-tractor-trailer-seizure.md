@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [3, 4, 1, 2]
+  figures.arrested: [1, 2, 3]
   figures.kg_seized: [1]
 media:
   - kind: photo

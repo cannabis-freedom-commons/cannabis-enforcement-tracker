@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 3]
   details.products: [1, 3]
   details.setting: [1, 3]
+  figures.charged: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 64ef890aaa4ed8b7a439a8c9a58a323a

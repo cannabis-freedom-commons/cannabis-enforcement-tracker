@@ -13,8 +13,10 @@ summary: >-
   alongside smaller amounts and thousands of psychotropic tablets.
 created_by_model: unknown
 details:
+  products: [{product: hashish}]
   setting: [vehicle]
 data_sources:
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 cfi_id: mauritania-drug-seizures-2026

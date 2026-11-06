@@ -47,11 +47,13 @@ media:
 details:
   activity: [smuggling]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [2, 4, 3]
+  details.case_stage: [2, 4, 3, 1]
   details.products: [2, 3, 4]
   figures.kg_seized: [2, 4, 3, 1]
 status: verified

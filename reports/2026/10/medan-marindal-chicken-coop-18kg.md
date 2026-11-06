@@ -19,11 +19,13 @@ details:
   activity: [trafficking]
   agency_types: [police]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [home, building, prison]
 data_sources:
   details.activity: [2, 6, 7, 8, 9, 10]
   details.agency_types: [1, 10, 13, 20, 21, 22]
   details.case_stage: [2, 6, 7, 8, 9, 10]
+  details.sentence_types: [2, 6, 7, 8, 9, 10]
   details.setting: [1, 10, 13, 20, 21, 22]
   figures.arrested: [1, 10, 13, 20, 21, 22]
   figures.kg_seized: [1, 10, 13, 20, 21, 22]

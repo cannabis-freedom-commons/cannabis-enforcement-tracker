@@ -56,6 +56,7 @@ details:
   activity: [trafficking, possession]
   agencies: [it-gdf]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [home, mail]
@@ -63,6 +64,7 @@ data_sources:
   details.activity: [1, 3, 5, 6, 7, 8]
   details.agencies: [1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
   details.agency_types: [1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+  details.case_stage: [1, 5, 6, 7, 8, 9]
   details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
   details.setting: [1, 4, 5, 6, 7, 8]
   figures.arrested: [1, 5, 6, 7, 8, 9]

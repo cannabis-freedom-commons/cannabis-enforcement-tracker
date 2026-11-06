@@ -22,11 +22,13 @@ media:
     caption: Police photo of the seized country-made pistol with arrested accused in the Jhajha triple raid
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]

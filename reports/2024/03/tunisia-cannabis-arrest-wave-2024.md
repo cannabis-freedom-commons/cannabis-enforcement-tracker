@@ -13,8 +13,10 @@ summary: >-
   prosecutors treated small users as dealers.
 created_by_model: unknown
 details:
+  activity: [sale]
   agency_types: [prosecutor]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
 status: verified
 cfi_id: tunisia-cannabis-arrest-wave-2024

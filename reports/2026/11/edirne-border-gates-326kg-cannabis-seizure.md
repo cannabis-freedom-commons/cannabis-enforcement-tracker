@@ -19,12 +19,14 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [customs, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [airport, vehicle]
 data_sources:
   details.activity: [1, 2, 3, 4, 6, 9]
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 36, 37, 38, 43]
   details.setting: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]

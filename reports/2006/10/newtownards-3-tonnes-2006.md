@@ -23,10 +23,12 @@ details:
   activity: [possession]
   agency_types: [customs, police]
   case_stage: charged
+  setting: [street]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.setting: [1]
   figures.arrested: [1, 2]
   figures.charged: [1, 2]
   figures.value: [1]

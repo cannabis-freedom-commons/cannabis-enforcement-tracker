@@ -28,12 +28,14 @@ details:
   activity: [trafficking]
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.value: [2, 1]
 status: verified

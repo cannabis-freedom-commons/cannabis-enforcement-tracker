@@ -15,8 +15,10 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [smuggling]
+  agency_types: [police]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: hong-kong-canada-cannabis-seizure-2024
 sources:

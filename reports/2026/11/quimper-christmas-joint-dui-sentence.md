@@ -15,10 +15,12 @@ figures:
   charged: 1
   prison: 2 months
 details:
+  activity: [use]
   agency_types: [gendarmerie, prosecutor, court]
   case_stage: sentenced
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]

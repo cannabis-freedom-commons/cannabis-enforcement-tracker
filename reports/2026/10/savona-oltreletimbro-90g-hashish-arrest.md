@@ -15,14 +15,20 @@ figures:
   arrested: 1
   kg_seized: 0.09
 details:
+  activity: [sale]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [3, 2, 1]
   details.agencies: [3]
   details.agency_types: [3]
+  details.case_stage: [2, 3, 1]
   details.products: [1, 2]
+  details.setting: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7ac8e0d0d440501581b544c11b7ad1c8

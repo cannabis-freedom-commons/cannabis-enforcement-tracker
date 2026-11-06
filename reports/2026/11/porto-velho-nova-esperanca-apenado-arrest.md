@@ -36,6 +36,7 @@ data_sources:
   details.environment: [1, 3, 4, 2]
   details.products: [2, 1, 4, 3]
   details.setting: [2, 4, 1, 3]
+  figures.arrested: [2, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 05f8bf11304a7bea31db6e52caa0d588

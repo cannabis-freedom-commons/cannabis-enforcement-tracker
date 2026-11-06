@@ -16,10 +16,14 @@ figures:
 details:
   activity: [trafficking, cultivation]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 1.49}]
   setting: [field]
 data_sources:
   details.activity: [2, 1, 3]
   details.agency_types: [3, 2, 1]
+  details.case_stage: [1, 3, 2]
+  details.products: [1, 3, 2]
   details.setting: [1, 3, 2]
   figures.kg_seized: [3, 1, 2]
   figures.plants_destroyed: [1, 2, 3]

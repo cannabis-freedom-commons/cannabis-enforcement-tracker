@@ -18,10 +18,12 @@ figures:
     currency: COP
 details:
   agency_types: [military, anti-narcotics, police]
+  case_stage: investigation
   products: [{product: flower, kg: 1564}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [3, 4, 2]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1]

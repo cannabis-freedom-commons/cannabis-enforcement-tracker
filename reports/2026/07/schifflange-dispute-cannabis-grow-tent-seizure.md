@@ -16,11 +16,16 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: plants, plants: 1}]
   setting: [vehicle, home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
   details.setting: [1]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a071fe6706447996e0f88c5da3b18085

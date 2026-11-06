@@ -19,10 +19,13 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [street]
 data_sources:
   details.agency_types: [3, 1, 2]
   details.case_stage: [1, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
+  figures.arrested: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3319718cd38c073767d08d2db7382c04

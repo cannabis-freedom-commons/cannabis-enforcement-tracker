@@ -13,11 +13,15 @@ summary: >-
   explain why police had concluded he was trading.
 created_by_model: unknown
 details:
+  activity: [possession]
   agency_types: [police, court]
+  case_stage: sentenced
   sentence_types: [deportation]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]
 status: verified

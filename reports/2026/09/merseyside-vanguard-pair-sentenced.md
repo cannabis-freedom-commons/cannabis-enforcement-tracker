@@ -17,10 +17,12 @@ summary: >-
 figures:
   charged: 2
 details:
+  agency_types: [police]
   case_stage: sentenced
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]

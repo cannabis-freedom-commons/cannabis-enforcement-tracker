@@ -23,12 +23,14 @@ media:
 details:
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
   setting: [prison]
   products:
     - {product: hashish}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

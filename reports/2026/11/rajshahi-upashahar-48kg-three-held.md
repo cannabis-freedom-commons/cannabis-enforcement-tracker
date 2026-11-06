@@ -27,12 +27,14 @@ media:
     publisher: Rajshahir Somoy
     caption: Photo accompanying the report of the Upashahar 48 kg seizure and two arrests
 details:
+  activity: [sale]
   agency_types: [police, court]
   case_stage: investigation
   products:
     - {product: flower}
   setting: [vehicle, prison]
 data_sources:
+  details.activity: [2, 4, 5, 8, 3]
   details.agency_types: [1, 6, 2, 5, 7, 4]
   details.case_stage: [1, 6, 2, 5, 7]
   details.products: [1, 5, 6]

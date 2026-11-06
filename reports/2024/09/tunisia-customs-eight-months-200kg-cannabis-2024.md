@@ -15,12 +15,16 @@ figures:
   arrested: 2
   kg_seized: 200
 details:
+  activity: [smuggling]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [airport, port, border]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

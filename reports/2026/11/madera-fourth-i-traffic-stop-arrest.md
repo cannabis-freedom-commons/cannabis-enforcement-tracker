@@ -13,9 +13,12 @@ summary: >-
 figures:
   arrested: 1
 details:
+  agency_types: [police]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e32a86671c32efa50d9e6f0d06ca108c

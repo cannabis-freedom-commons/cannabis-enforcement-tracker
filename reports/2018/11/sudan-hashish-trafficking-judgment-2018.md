@@ -12,10 +12,12 @@ summary: >-
   evidence of trafficking intent, upholds life imprisonment and reduces the fine to 10,000 pounds.
 created_by_model: unknown
 details:
+  activity: [possession]
   case_stage: sentenced
   sentence_types: [life]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]

@@ -19,10 +19,12 @@ figures:
 details:
   agencies: [us-cbp]
   agency_types: [customs]
+  case_stage: investigation
   products: [{product: flower, kg: 7983}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.kg_seized: [1]
   figures.value: [1]

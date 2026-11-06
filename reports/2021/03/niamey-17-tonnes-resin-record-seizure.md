@@ -23,6 +23,7 @@ details:
   agencies: [int-interpol]
   agency_types: [police]
   activity: [trafficking]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [lb], to: [ly], crossing: 'via Lomé and Agadez'}
@@ -31,6 +32,7 @@ data_sources:
   details.activity: [1, 2, 3, 5]
   details.agencies: [1, 5]
   details.agency_types: [1, 5]
+  details.case_stage: [1, 2, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
   details.route: [2, 4]
   details.setting: [1, 2, 5, 4, 6, 3]

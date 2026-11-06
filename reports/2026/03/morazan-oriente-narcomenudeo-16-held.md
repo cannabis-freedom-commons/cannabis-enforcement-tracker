@@ -34,11 +34,13 @@ details:
   agency_types: [police, prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 0.57}]
+  setting: [street]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2, 4, 3]
   details.case_stage: [1, 2, 4]
   details.products: [2, 3, 4, 1]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.charged: [1, 2]
   figures.value: [3, 4, 1]

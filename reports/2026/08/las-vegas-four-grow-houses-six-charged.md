@@ -14,16 +14,20 @@ summary: >-
 figures:
   charged: 6
 details:
+  activity: [cultivation]
   agencies: [us-dea, us-hsi, us-fbi]
   agency_types: [anti-narcotics, police]
   case_stage: charged
   products: [{product: flower}, {product: plants}]
+  sentence_types: [life]
   setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1]
   details.products: [1]
+  details.sentence_types: [2, 1]
   details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

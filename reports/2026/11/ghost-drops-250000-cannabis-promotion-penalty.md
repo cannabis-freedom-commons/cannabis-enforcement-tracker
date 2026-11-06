@@ -14,7 +14,10 @@ figures:
   fine:
     amount: 250000
     currency: CAD
+details:
+  case_stage: convicted
 data_sources:
+  details.case_stage: [1]
   figures.fine: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max

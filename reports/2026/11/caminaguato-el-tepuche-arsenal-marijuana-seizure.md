@@ -34,11 +34,13 @@ media:
 details:
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [vehicle]
 data_sources:
   details.agencies: [2, 3, 5, 9, 10]
   details.agency_types: [2, 3, 5, 9, 10]
+  details.case_stage: [1, 3, 4, 7, 8, 10]
   details.products: [2, 3, 5, 9, 10, 7]
   details.setting: [2, 3, 5, 9, 10, 7]
 status: verified

@@ -19,10 +19,13 @@ figures:
   arrested: 1
 details:
   agency_types: [police]
+  products: [{product: flower}]
   setting: [airport, mail]
 data_sources:
   details.agency_types: [1, 2, 4, 3]
+  details.products: [1, 2, 4, 3]
   details.setting: [1, 2, 4, 3]
+  figures.arrested: [1, 2, 4, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [tema, indian-hemp, distribution]

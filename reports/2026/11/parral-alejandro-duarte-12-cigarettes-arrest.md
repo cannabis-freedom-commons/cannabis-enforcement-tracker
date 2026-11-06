@@ -25,12 +25,15 @@ details:
   agency_types: [military]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.activity: [1, 3]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
   details.products: [1, 3]
+  details.setting: [1, 3]
+  figures.arrested: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f26691500ca197026be370d7647d27f6

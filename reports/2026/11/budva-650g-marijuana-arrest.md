@@ -21,6 +21,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.arrested: [1, 2, 3]
 media:
   - kind: photo
     url: https://en.vijesti.me/news-b/black-chronicle/834517/Budva--Beranac-arrested--apartment-searched--marijuana--cocaine--phones--sim-cards--money-found

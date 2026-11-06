@@ -28,9 +28,12 @@ media:
 details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
+  case_stage: investigation
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 285bd786525ccbdedc428229bbbce88b

@@ -20,10 +20,14 @@ media:
     publisher: Telediario
     caption: 'Bags of drugs found in the Mexico City storehouse attributed to La Unión Tepito. Photo: C4 Carlos Jiménez'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2]
   details.setting: [2, 1, 3]
 status: verified

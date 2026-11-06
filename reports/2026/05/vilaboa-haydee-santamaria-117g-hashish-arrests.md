@@ -26,6 +26,7 @@ media:
     publisher: El Debate
     caption: Police photo of the seized drugs and medicines from the operation.
 details:
+  activity: [smuggling]
   agencies: [es-guardia-civil, es-policia-nacional]
   agency_types: [gendarmerie, police]
   case_stage: investigation
@@ -33,6 +34,7 @@ details:
     - {product: hashish}
   setting: [home, prison]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
   details.case_stage: [3, 2, 1]

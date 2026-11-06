@@ -27,12 +27,17 @@ media:
 details:
   activity: [trafficking]
   agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
   details.activity: [1, 2, 4, 3]
   details.agency_types: [4, 1, 2, 3]
+  details.case_stage: [2, 4, 3, 1]
   details.products: [1, 3]
+  details.setting: [1, 3]
+  figures.arrested: [4, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 15055f33c7294ab2c1cf640acce85d4d

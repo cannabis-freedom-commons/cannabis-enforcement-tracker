@@ -13,6 +13,10 @@ summary: >-
   life sentences, and said 6,022 people had recovered from addiction while 1,228 were in treatment
   at 16 centres.
 created_by_model: unknown
+details:
+  sentence_types: [death, life]
+data_sources:
+  details.sentence_types: [1]
 status: verified
 cfi_id: iraq-drug-networks-2025
 sources:

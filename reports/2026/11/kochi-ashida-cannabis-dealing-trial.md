@@ -18,8 +18,14 @@ figures:
         currency: JPY
 details:
   activity: [sale]
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [prison, fine]
 data_sources:
     details.activity: [1, 2, 3, 4]
+    details.agency_types: [5]
+    details.case_stage: [5]
+    details.sentence_types: [5]
     figures.charged: [5]
     figures.fine: [5]
     figures.prison: [5]

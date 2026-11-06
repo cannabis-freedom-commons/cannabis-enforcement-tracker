@@ -22,13 +22,17 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police, court]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.arrested: [1]
+  figures.charged: [1]
 status: verified
 tags: [western-region, indian-hemp, possession]
 open_questions:

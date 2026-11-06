@@ -17,10 +17,12 @@ figures:
 details:
   activity: [trafficking, possession]
   agency_types: [gendarmerie, police]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.sentence_types: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

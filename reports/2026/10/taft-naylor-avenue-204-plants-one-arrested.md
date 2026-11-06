@@ -34,6 +34,7 @@ data_sources:
   details.activity: [1, 2, 3]
   details.case_stage: [2]
   details.products: [2, 1, 3]
+  figures.arrested: [2]
   figures.plants_destroyed: [2, 1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

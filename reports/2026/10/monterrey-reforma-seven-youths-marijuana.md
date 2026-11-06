@@ -16,10 +16,12 @@ figures:
   arrested: 7
 details:
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [2, 4, 1, 3]
+  details.case_stage: [1, 3, 4, 2]
   details.products: [2, 4, 1, 3]
   details.setting: [2, 4, 1, 3]
   figures.arrested: [1]

@@ -14,9 +14,11 @@ figures:
   plants_destroyed: 298
 details:
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: plants, plants: 298}]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.plants_destroyed: [1]
 media:

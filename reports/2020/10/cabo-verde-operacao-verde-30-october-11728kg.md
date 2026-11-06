@@ -16,10 +16,12 @@ figures:
 details:
   activity: [trafficking, cultivation]
   agency_types: [police, prosecutor]
+  products: [{product: plants}]
   setting: [field]
 data_sources:
   details.activity: [3, 2, 1, 4]
   details.agency_types: [3, 2, 1, 4]
+  details.products: [3, 2]
   details.setting: [3, 2]
   figures.kg_seized: [2, 3, 1]
 status: verified

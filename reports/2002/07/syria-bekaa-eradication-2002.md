@@ -13,8 +13,10 @@ summary: >-
   and opened regional offices in Aleppo and Homs to watch the Turkish and Lebanese borders.
 created_by_model: unknown
 details:
+  case_stage: investigation
   products: [{product: hashish}]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 cfi_id: syria-bekaa-eradication-2002

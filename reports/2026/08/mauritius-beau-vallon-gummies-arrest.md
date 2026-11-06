@@ -17,9 +17,14 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [police]
+  case_stage: investigation
+  setting: [home]
 data_sources:
   details.activity: [4, 2]
   details.agency_types: [2, 4, 1, 3]
+  details.case_stage: [2, 4, 1, 3]
+  details.setting: [4, 2, 1]
+  figures.arrested: [2, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f7fe524ab3b1a5d0bb98e4bda15e960a

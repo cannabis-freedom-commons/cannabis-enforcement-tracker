@@ -73,6 +73,7 @@ details:
   activity: [trafficking, sale]
   agencies: [id-bnn]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [airport, vehicle]
@@ -80,6 +81,7 @@ data_sources:
   details.activity: [1, 4, 7, 15, 18, 22]
   details.agencies: [1, 3, 4, 7, 15, 18]
   details.agency_types: [1, 4, 7, 13, 14, 15]
+  details.case_stage: [1, 4, 7, 13, 14, 15]
   details.products: [1, 4, 5, 7, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25]
   details.setting: [1, 4, 7, 15, 18, 22]
   figures.arrested: [1, 4, 18, 2, 6, 7]

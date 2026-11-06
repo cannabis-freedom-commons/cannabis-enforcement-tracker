@@ -21,6 +21,7 @@ media:
     publisher: CiberCuba
     caption: The Ecuadorian-style three-engine go-fast boat intercepted in the Caribbean Sea, in a photo credited to X/@CBPAMO.
 details:
+  activity: [trafficking]
   agencies: [us-cbp]
   agency_types: [customs]
   case_stage: investigation
@@ -28,6 +29,7 @@ details:
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 3]

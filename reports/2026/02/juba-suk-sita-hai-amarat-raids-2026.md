@@ -13,10 +13,12 @@ summary: >-
   Central Equatoria security forces and the Juba City Council raided Suk Sita and Hai Amarat in Juba on 24 February 2026 and seized marijuana known locally as bangi with other illicit drugs. No weights, arrests or charges were reported, and officials warned traffickers they would face the full force of the law.
 details:
   activity: [trafficking]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [2, 1]
   details.setting: [1, 2]
 media:

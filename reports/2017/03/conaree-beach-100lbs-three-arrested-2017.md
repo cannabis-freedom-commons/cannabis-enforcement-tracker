@@ -16,9 +16,11 @@ figures:
   kg_seized: 45.36
 details:
   agency_types: [coast-guard, police]
+  case_stage: investigation
   products: [{product: flower, kg: 45.36}]
 data_sources:
   details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1, 3]
   details.products: [2, 1, 3]
   figures.arrested: [2, 1, 3]
   figures.kg_seized: [2, 1]

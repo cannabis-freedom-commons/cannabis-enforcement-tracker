@@ -12,6 +12,10 @@ summary: >-
   and 105 kg of dried cannabis, against 1.91 tonnes in the same period of 2025. The figures cover
   all drugs.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: cambodia-drug-arrests-2026
 sources:

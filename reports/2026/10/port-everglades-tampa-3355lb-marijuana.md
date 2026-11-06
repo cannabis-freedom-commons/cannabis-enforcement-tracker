@@ -16,10 +16,12 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [coast-guard]
+  case_stage: investigation
   products: [{product: flower, kg: 1521.8}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.kg_seized: [1]
 media:

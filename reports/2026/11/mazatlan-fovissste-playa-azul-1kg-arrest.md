@@ -26,11 +26,14 @@ details:
   agency_types: [police, prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 1}]
+  setting: [home, street]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a7c09b87e890e1d79d9b442b4ef7d483

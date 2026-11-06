@@ -12,6 +12,12 @@ summary: >-
   assaulting officers enforcing the narcotics law that resulted in death, and ordered the
   confiscation of all seized items.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: jordan-officer-killing-death-sentence-2026
 sources:

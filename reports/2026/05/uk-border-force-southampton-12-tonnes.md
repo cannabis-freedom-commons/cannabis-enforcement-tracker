@@ -21,11 +21,15 @@ figures:
   value: { amount: 139000000, currency: GBP }
 created_by_model: deepseek/deepseek-v4.1-flash#max
 details:
+  activity: [smuggling]
   agencies: [gb-border-force]
   agency_types: [customs]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]

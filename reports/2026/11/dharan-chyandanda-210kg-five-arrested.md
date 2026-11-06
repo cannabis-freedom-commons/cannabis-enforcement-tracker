@@ -45,10 +45,12 @@ media:
     caption: 'Scorpio vehicles being seized by police in Dharan. Photo: RSS'
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 4, 5, 2, 3, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13]
   figures.arrested: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]

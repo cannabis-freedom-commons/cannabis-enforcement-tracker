@@ -22,6 +22,7 @@ media:
     publisher: News24
     caption: 'The arrested taxi commuter, with the dagga he carried wrapped around his waist. Photo: Supplied/SAPS'
 details:
+  activity: [smuggling, sale]
   agencies: [za-saps]
   agency_types: [police]
   case_stage: charged
@@ -29,11 +30,14 @@ details:
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [4]
   details.agency_types: [4]
   details.case_stage: [2, 1]
   details.products: [1, 2, 3, 4]
   details.setting: [2]
+  figures.arrested: [2, 1]
+  figures.charged: [2, 1]
   figures.kg_seized: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -20,12 +20,16 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   environment: [outdoor]
+  products: [{product: plants, plants: 8723}]
   setting: [field, building, mail]
 data_sources:
   details.activity: [3, 2, 1]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [3, 2, 1]
   details.environment: [2, 3]
+  details.products: [1, 2]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2]
 media:

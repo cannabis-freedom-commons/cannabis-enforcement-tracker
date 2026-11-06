@@ -21,12 +21,14 @@ media:
     caption: 'State Security Service video still published with the report on the two Yashnabad flats searched and the substances seized there. Photo: State Security Service'
 details:
   activity: [trafficking, sale]
+  agency_types: [police]
   case_stage: investigation
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
   details.activity: [1, 4, 5]
+  details.agency_types: [1, 4, 5, 3]
   details.case_stage: [1, 4]
   details.products: [1, 5]
   details.setting: [2, 3]

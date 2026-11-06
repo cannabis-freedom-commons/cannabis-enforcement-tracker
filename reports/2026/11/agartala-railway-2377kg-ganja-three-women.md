@@ -24,11 +24,15 @@ media:
     publisher: Borok Times
     caption: 'The seized ganja at Agartala Railway Station, in the photo published with the report. Photo: Borok Times.'
 details:
+  activity: [smuggling]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1, 2]
 status: verified

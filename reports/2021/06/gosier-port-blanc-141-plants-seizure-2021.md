@@ -17,12 +17,14 @@ figures:
 details:
   activity: [cultivation, sale]
   agency_types: [police]
+  case_stage: investigation
   environment: [indoor, outdoor]
   products: [{product: flower}, {product: plants, plants: 141}]
   setting: [home]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2]
+  details.case_stage: [2, 1]
   details.environment: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]

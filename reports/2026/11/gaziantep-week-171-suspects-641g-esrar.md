@@ -24,11 +24,13 @@ media:
 details:
   activity: [trafficking]
   agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.arrested: [1]
 status: verified

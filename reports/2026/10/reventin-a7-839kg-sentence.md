@@ -19,6 +19,7 @@ figures:
   kg_seized: 839
   prison: 10 years
 details:
+  activity: [trafficking]
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
   case_stage: sentenced
@@ -27,6 +28,7 @@ details:
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2, 1, 3]

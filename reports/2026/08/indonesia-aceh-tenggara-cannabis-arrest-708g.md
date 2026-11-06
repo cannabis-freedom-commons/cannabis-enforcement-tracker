@@ -16,10 +16,12 @@ figures:
   arrested: 3
   kg_seized: 0.70882
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: investigation
   setting: [mail]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.setting: [1]

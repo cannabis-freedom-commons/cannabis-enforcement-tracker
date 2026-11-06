@@ -26,6 +26,7 @@ details:
   activity: [sale]
   case_stage: sentenced
   products: [{product: hashish, kg: 21.827}, {product: flower}]
+  sentence_types: [prison]
   setting: [shop]
 data_sources:
   details.activity: [1, 2, 5]
@@ -33,6 +34,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [4, 5]
   details.products: [1, 4, 5, 2, 3]
+  details.sentence_types: [4, 5]
   details.setting: [1, 2, 4, 5]
   figures.fine: [4, 5]
   figures.kg_seized: [4, 5]

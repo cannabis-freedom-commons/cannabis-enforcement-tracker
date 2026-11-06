@@ -40,12 +40,14 @@ details:
   activity: [trafficking, cultivation]
   agencies: [id-bnn, id-polri]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products: [{product: plants}, {product: seeds}]
   setting: [field]
 data_sources:
   details.activity: [3, 2, 7, 9, 10, 4]
   details.agencies: [1, 4, 5, 6, 7, 8, 9, 10]
   details.agency_types: [1, 4, 5, 6, 7, 8, 9, 10]
+  details.case_stage: [9, 10, 11, 12]
   details.products: [8, 9, 10, 11, 12]
   details.setting: [1, 4, 5, 6, 9, 7]
   figures.arrested: [1, 4, 5, 6, 9, 7]

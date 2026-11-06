@@ -19,11 +19,17 @@ figures:
   deaths: 1
 created_by_model: meta/muse-spark
 details:
+  activity: [sale]
   agency_types: [police]
   force: lethal
+  products: [{product: flower}]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.force: [1, 2]
+  details.products: [1, 2]
+  figures.arrested: [1, 2]
+  figures.deaths: [1, 2]
 status: verified
 tags: [katsina, police-shooting]
 open_questions:

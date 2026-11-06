@@ -20,11 +20,13 @@ details:
   agency_types: [police]
   case_stage: investigation
   products: [{product: hashish, kg: 0.006}]
+  setting: [home]
 data_sources:
   details.activity: [1, 5, 7, 10, 3, 6]
   details.agency_types: [1, 3, 6, 7, 8, 9]
   details.case_stage: [2, 4, 7, 8, 9, 11]
   details.products: [1, 9, 11, 12, 3, 4]
+  details.setting: [1, 3, 6, 7, 8, 9]
   figures.arrested: [1, 4, 5, 10, 11, 12]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

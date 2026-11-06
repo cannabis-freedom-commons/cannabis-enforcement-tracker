@@ -33,6 +33,7 @@ media:
 details:
   activity: [trafficking]
   agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [ma], to: [mr]}
@@ -40,6 +41,7 @@ details:
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 3, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.route: [1, 3, 2]
   details.setting: [1, 3, 2]

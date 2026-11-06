@@ -13,10 +13,12 @@ summary: >-
   Police seized cannabis plants drying on lines in an abandoned house at Cour Zamia, Pointe-à-Pitre, on 31 May 2022 after a drug dog found two sachets of cannabis in tall grass. The plants were seized and destroyed; the account reports people fleeing but no arrests.
 details:
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products: [{product: flower}, {product: plants}]
   setting: [home]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 media:

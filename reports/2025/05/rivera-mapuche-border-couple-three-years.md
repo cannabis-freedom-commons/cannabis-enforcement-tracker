@@ -28,6 +28,7 @@ media:
     publisher: Ministerio del Interior
     caption: 'The drugs, cash and ammunition seized in Santana do Livramento, Brazil. Photo: Ministerio del Interior'
 details:
+  activity: [smuggling]
   agency_types: [military, police, prosecutor]
   case_stage: sentenced
   environment: [outdoor]
@@ -36,6 +37,7 @@ details:
   products:
     - {product: flower}
 data_sources:
+  details.activity: [3, 1]
   details.agency_types: [1, 3]
   details.case_stage: [3, 1]
   details.environment: [3, 1]

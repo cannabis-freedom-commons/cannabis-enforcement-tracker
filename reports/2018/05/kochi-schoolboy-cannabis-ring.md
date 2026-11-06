@@ -19,8 +19,10 @@ figures:
 created_by_model: meta/muse-spark
 details:
   agency_types: [police]
+  setting: [home]
 data_sources:
   details.agency_types: [1, 3, 2]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [kochi, schoolboys, yakuza]
 media:

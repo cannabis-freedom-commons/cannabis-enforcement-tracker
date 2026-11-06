@@ -25,12 +25,14 @@ details:
   activity: [trafficking]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower, kg: 0.51175}]
   setting: [airport]
 data_sources:
   details.activity: [3, 4]
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [3, 4]
   details.products: [3, 4]
   details.setting: [1, 2, 3, 4]
 status: verified

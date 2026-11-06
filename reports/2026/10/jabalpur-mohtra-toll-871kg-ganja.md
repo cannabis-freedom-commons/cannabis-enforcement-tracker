@@ -88,6 +88,7 @@ details:
   activity: [smuggling]
   agencies: [in-anf]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
   route: {from: [in], to: [in], crossing: Odisha}
@@ -96,6 +97,7 @@ data_sources:
   details.activity: [1, 6, 9, 10, 16, 17]
   details.agencies: [3, 5, 8, 14, 15, 29, 43, 44]
   details.agency_types: [3, 5, 8, 14, 15, 29, 43, 44]
+  details.case_stage: [1, 6, 9, 10, 16, 17]
   details.products: [3, 14, 15, 29, 43, 44]
   details.route: [2, 27, 1, 3, 4, 5]
   details.setting: [21, 24, 25, 35, 36, 41]

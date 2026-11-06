@@ -22,9 +22,13 @@ created_by_model: unknown # This runtime did not disclose its exact model identi
 details:
   agency_types: [police]
   case_stage: charged
+  setting: [home, street]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
+  details.setting: [1, 2, 3]
+  figures.arrested: [1, 2]
+  figures.charged: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 tags: [nordland, seizure, cannabis]

@@ -16,10 +16,12 @@ summary: >-
 figures:
   plants_destroyed: 63
 details:
+  agency_types: [police]
   products: [{product: plants, plants: 63}]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

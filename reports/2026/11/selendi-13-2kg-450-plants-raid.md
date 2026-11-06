@@ -91,7 +91,18 @@ open_questions:
   - The page gives no separate day for the remand; 5 November 2026 is its publication and entry date and is used as the latest-step date, while the raid itself was inferred as 4 November 2026 in the existing report.
   - The Habertürk page states its text came without editorial intervention through agency channels from Anadolu Ajansı, and a Milliyet page carries the same AA text, so no independent account beyond the agency copy was found.
   - The page image is captioned only with the headline Manisa'da uyuşturucu operasyonunda yakalanan şüpheli tutuklandı and carries no photographer or agency credit establishing that it shows this seizure, so no media entry is included.
+details:
+  activity: [cultivation, sale]
+  agency_types: [gendarmerie]
+  case_stage: charged
+  products: [{product: flower, kg: 13.2}, {product: plants, plants: 450}]
+  setting: [home]
 data_sources:
+    details.activity: [1, 5, 6, 7]
+    details.agency_types: [2, 4, 6, 7]
+    details.case_stage: [8, 9, 10]
+    details.products: [2, 4, 5, 6, 7]
+    details.setting: [1, 5, 6, 7]
     figures.arrested: [8]
     figures.kg_seized: [8]
     figures.plants_destroyed: [8]

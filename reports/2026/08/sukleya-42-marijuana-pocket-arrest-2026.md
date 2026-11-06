@@ -15,6 +15,7 @@ figures:
   arrested: 1
 details:
   activity: [trafficking]
+  agency_types: [police]
   case_stage: sentenced
   products:
     - {product: flower}
@@ -22,6 +23,7 @@ details:
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.products: [1, 2]
   details.sentence_types: [2, 1]

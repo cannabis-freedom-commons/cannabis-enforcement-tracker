@@ -18,10 +18,12 @@ figures:
   kg_seized: 1360.78
 details:
   activity: [cultivation]
+  agency_types: [police]
   products: [{product: flower, kg: 1360.78}]
   setting: [forest]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

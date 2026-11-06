@@ -18,12 +18,14 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [trafficking]
+  agency_types: [court]
   case_stage: sentenced
   products: [{product: flower}]
   sentence_types: [life]
   setting: [prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   details.sentence_types: [1, 2]

@@ -21,6 +21,7 @@ details:
   products:
     - {product: flower, kg: 11.2}
   activity: [smuggling, trafficking]
+  sentence_types: [prison]
   setting: [airport]
   charges: [illegal import of a large amount of narcotics into Georgia, 'illegal acquisition, storage and transport of an especially large amount of marijuana']
   case_stage: charged
@@ -35,6 +36,7 @@ data_sources:
   details.charges: [1]
   details.products: [1]
   details.route: [1]
+  details.sentence_types: [1, 2, 3]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

@@ -16,9 +16,11 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   figures.arrested: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

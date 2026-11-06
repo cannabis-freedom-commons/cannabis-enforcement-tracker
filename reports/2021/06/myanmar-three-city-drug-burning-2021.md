@@ -13,11 +13,15 @@ summary: >-
 details:
   activity: [trafficking]
   agency_types: [military]
+  case_stage: investigation
   force: physical
+  setting: [home]
 data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 3, 2]
   details.force: [3, 1]
+  details.setting: [3, 1]
 media:
   - kind: photo
     url: https://news.sky.com/story/500m-of-drugs-including-cannabis-and-heroin-burned-by-myanmar-authorities-12342282

@@ -22,15 +22,19 @@ figures:
   prison: 4 years 8 months
 created_by_model: command-code/deepseek-v4.1-flash#max
 details:
+  activity: [sale]
   agency_types: [customs, court]
   case_stage: sentenced
   products: [{product: hashish, kg: 24}]
   sentence_types: [prison]
+  setting: [mail, street]
 data_sources:
+  details.activity: [2, 4, 3]
   details.agency_types: [1, 2, 4, 3]
   details.case_stage: [1, 2, 4]
   details.products: [1, 2, 4, 3]
   details.sentence_types: [1, 2, 4]
+  details.setting: [2, 4, 3, 1]
   figures.kg_seized: [1, 2, 4, 3]
   figures.value: [1, 3, 4, 2]
 status: verified

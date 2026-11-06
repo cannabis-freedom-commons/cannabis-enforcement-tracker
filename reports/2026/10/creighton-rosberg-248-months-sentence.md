@@ -20,6 +20,7 @@ details:
   case_stage: sentenced
   products:
     - {product: flower}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2, 1]
@@ -27,6 +28,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [2]
   details.products: [1]
+  details.sentence_types: [2, 1]
   details.setting: [2, 1]
   figures.prison: [2, 1]
 status: verified

@@ -16,8 +16,11 @@ figures:
   kg_seized: 650
 details:
   agency_types: [gendarmerie]
+  setting: [mail]
 data_sources:
   details.agency_types: [1, 3, 2]
+  details.setting: [1, 3, 2]
+  figures.arrested: [1, 3]
   figures.kg_seized: [1, 3, 2]
 media:
   - kind: photo

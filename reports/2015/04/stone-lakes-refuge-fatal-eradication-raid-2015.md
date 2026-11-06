@@ -20,9 +20,11 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [trafficking]
+  agency_types: [police]
   products: [{product: flower}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2, 3]
   details.products: [1, 2]
 status: verified
 tags: [stone-lakes, game-warden, eradication-raid]

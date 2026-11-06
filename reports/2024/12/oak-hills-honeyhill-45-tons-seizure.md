@@ -18,9 +18,11 @@ figures:
   value: { amount: 100000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
   products: [{product: flower, kg: 40823}]
   setting: [building]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

@@ -24,12 +24,14 @@ media:
 details:
   activity: [smuggling, sale]
   agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   setting: [vehicle]
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [3, 2]

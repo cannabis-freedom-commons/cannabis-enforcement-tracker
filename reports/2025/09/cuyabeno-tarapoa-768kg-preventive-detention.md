@@ -31,11 +31,13 @@ media:
     caption: 'Photo captioned as the seized marijuana load; the Ministry of Defence estimated its value at about one million dollars. Photo: Cortesía'
 details:
   agency_types: [military, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2]
   details.setting: [1, 2, 3, 4]
   figures.kg_seized: [4, 3, 2, 1]

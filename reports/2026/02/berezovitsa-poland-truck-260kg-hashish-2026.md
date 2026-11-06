@@ -20,6 +20,7 @@ details:
   products:
     - {product: hashish, kg: 260}
   activity: [smuggling]
+  sentence_types: [prison]
   setting: [border]
   charges: [illegal movement of narcotic substances across the customs border]
   case_stage: investigation
@@ -34,6 +35,7 @@ data_sources:
   details.charges: [1]
   details.products: [1]
   details.route: [1]
+  details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

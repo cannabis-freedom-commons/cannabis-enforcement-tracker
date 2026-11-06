@@ -17,11 +17,14 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  figures.plants_destroyed: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c5d4e8174cd87f4961c3482a41f1d86a

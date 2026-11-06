@@ -18,12 +18,14 @@ details:
   activity: [possession]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: reported

@@ -14,11 +14,13 @@ summary: >-
 figures:
   arrested: 51
 details:
+  agency_types: [police]
   case_stage: investigation
   products:
     - {product: flower}
   setting: [mail]
 data_sources:
+  details.agency_types: [2, 1]
   details.case_stage: [1, 2, 3]
   details.products: [1, 2]
   details.setting: [3, 2, 1]

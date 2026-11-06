@@ -41,11 +41,13 @@ media:
     caption: 'The two accused in police custody. Photo: Dainik Bhaskar'
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
   details.products: [1, 2]
   details.setting: [2, 1, 3]
   figures.arrested: [3, 1, 2]

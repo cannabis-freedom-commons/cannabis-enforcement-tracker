@@ -20,8 +20,12 @@ figures:
   kg_seized: 27.216
   plants_destroyed: 32
 details:
+  agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 27.216}, {product: plants, plants: 32}]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]

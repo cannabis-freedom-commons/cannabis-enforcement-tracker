@@ -30,6 +30,7 @@ media:
 details:
   activity: [smuggling, trafficking]
   agency_types: [customs]
+  case_stage: investigation
   products: [{product: flower, kg: 1.478}]
   setting: [airport]
   environment: [indoor]
@@ -37,10 +38,12 @@ details:
 data_sources:
   details.activity: [4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [1, 2, 3, 4, 5]
   details.environment: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 4, 5]
   details.route: [4]
   details.setting: [4]
+  figures.arrested: [1, 2, 3, 4, 5]
   figures.kg_seized: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

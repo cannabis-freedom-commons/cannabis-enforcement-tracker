@@ -21,6 +21,7 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  case_stage: sentenced
   environment: [indoor]
   products: [{product: flower, kg: 40.5}, {product: plants, plants: 455}]
   sentence_types: [prison]
@@ -28,6 +29,7 @@ details:
 data_sources:
   details.activity: [2, 6, 5, 3]
   details.agency_types: [4, 1, 7, 2, 3, 6]
+  details.case_stage: [1, 7, 2, 3, 6, 5]
   details.environment: [4]
   details.products: [4, 1, 7, 2, 3, 6]
   details.sentence_types: [7]

@@ -26,11 +26,13 @@ media:
     caption: Photo captioned as police members removing the drugs taped to the cat, credited by the outlet only as a screen capture.
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [prison]
 data_sources:
   details.agency_types: [2, 1, 3, 4, 5, 6]
+  details.case_stage: [1, 4, 5, 7, 3, 2]
   details.products: [1, 4, 5]
   details.setting: [1, 3, 2, 4, 6, 7]
 status: verified

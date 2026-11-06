@@ -46,11 +46,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 1873}]
   setting: [vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

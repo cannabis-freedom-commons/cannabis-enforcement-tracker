@@ -37,10 +37,12 @@ media:
     caption: Officers handling the seized cannabis from the Nong Ya Plong forest plot
 details:
   agency_types: [border-guard, police]
+  case_stage: investigation
   products: [{product: plants}]
   setting: [forest]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.hectares: [1]

@@ -34,12 +34,14 @@ media:
 details:
   activity: [smuggling, trafficking]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home, prison]
 data_sources:
   details.activity: [1, 8, 9, 11, 2, 3]
   details.agency_types: [1, 8, 9, 11, 2, 3]
+  details.case_stage: [1, 8, 9, 11, 2, 3]
   details.products: [1, 6, 7, 8, 9, 10, 11]
   details.setting: [4, 5, 6, 8, 7, 11]
 status: verified

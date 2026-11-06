@@ -25,6 +25,7 @@ details:
   case_stage: charged
   products: [{product: flower}, {product: plants, plants: 8135}]
   route: {from: [ca/bc], to: [us/ca]}
+  sentence_types: [life]
   setting: [street]
 data_sources:
   details.activity: [2, 1, 3]
@@ -33,6 +34,7 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.products: [1, 3, 2]
   details.route: [1, 3]
+  details.sentence_types: [1, 2, 3]
   details.setting: [1, 3, 2]
   figures.arrested: [1, 2, 3]
   figures.plants_destroyed: [2, 3, 1]

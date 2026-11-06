@@ -18,12 +18,14 @@ figures:
 details:
   activity: [smuggling, trafficking]
   agency_types: [gendarmerie, police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [vehicle]
 data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3]
   details.products: [1, 3]
   details.setting: [2, 1, 3]
   figures.arrested: [1, 3]

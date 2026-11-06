@@ -20,6 +20,7 @@ details:
   products:
     - {product: hashish, kg: 136}
   activity: [smuggling, sale, trafficking]
+  sentence_types: [prison]
   setting: [border]
   charges: [moving narcotics across the customs border of the Eurasian Economic Union and Belarus (part 2 of article 328-1 of the Belarusian Criminal Code)]
   case_stage: charged
@@ -35,6 +36,7 @@ data_sources:
   details.force: [1]
   details.products: [1]
   details.route: [1]
+  details.sentence_types: [1, 2, 3]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

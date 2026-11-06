@@ -16,9 +16,13 @@ created_by_model: unknown
 details:
   activity: [trafficking]
   agency_types: [customs, police]
+  case_stage: investigation
+  setting: [mail]
 data_sources:
   details.activity: [2, 4, 6]
   details.agency_types: [1, 2, 4, 6, 3, 5]
+  details.case_stage: [1, 2, 4, 6]
+  details.setting: [1, 2, 4, 6, 5]
 status: verified
 cfi_id: guinea-bissau-senegal-cannabis-convoy-2026
 tags:

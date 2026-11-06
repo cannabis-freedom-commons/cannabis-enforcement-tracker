@@ -14,9 +14,11 @@ figures:
   kg_seized: 0.3
 details:
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products: [{product: flower, kg: 0.3}]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 status: verified

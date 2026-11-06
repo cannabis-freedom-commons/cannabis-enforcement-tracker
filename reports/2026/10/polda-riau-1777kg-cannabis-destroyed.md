@@ -26,10 +26,12 @@ details:
   agency_types: [customs, military, police]
   products:
     - {product: flower}
+  setting: [mail]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified

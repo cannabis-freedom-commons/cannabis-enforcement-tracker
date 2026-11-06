@@ -25,10 +25,12 @@ details:
   activity: [trafficking, sale]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
 data_sources:
   details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2, 1]
   figures.arrested: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

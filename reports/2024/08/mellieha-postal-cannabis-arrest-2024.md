@@ -32,6 +32,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1]
+  figures.arrested: [1, 2]
 status: verified
 tags: [mellieha, postal]
 open_questions:

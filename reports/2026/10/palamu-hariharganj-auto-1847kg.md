@@ -20,13 +20,16 @@ figures:
   kg_seized: 18.47
 created_by_model: unknown
 details:
+  activity: [smuggling]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 18.47}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 tags: [autorickshaw, concealment, bihar-route]

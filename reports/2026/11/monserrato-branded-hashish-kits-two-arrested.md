@@ -22,10 +22,16 @@ media:
     publisher: YouTG.NET
     caption: Drugs seized by Cagliari's Squadra Mobile in the Monserrato operation
 details:
+  activity: [sale]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [home, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

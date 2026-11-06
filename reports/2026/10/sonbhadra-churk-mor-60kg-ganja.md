@@ -33,6 +33,7 @@ details:
   activity: [smuggling]
   agencies: [in-anf]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [vehicle]
@@ -40,6 +41,7 @@ data_sources:
   details.activity: [3, 2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

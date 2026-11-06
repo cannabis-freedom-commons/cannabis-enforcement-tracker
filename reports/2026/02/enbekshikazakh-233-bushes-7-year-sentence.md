@@ -29,6 +29,7 @@ data_sources:
   details.products: [4, 3, 1, 2]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.arrested: [4, 3, 1, 2]
   figures.kg_seized: [4, 2, 1]
   figures.plants_destroyed: [1, 2, 4, 3]
   figures.prison: [1]

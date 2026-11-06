@@ -16,10 +16,12 @@ details:
   agency_types: [police]
   case_stage: sentenced
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: papua-new-guinea-tabubil-sentence-2024
 sources:

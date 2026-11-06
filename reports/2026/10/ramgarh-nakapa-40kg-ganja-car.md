@@ -38,10 +38,12 @@ media:
     caption: Photo published with the report on the private car detained with 40 kg of ganja at Nakapa Bazar.
 details:
   agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 4, 5, 6, 7, 2]
+  details.case_stage: [1, 4, 5, 6, 7, 2]
   details.products: [1, 4, 5, 6, 7]
   figures.arrested: [1, 4, 6, 7, 5, 3]
   figures.kg_seized: [1, 4, 5, 6, 7, 3]

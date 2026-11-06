@@ -22,11 +22,15 @@ media:
 details:
   activity: [cultivation]
   agency_types: [gendarmerie, police, prosecutor]
+  case_stage: investigation
   products: [{product: seeds}]
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 3, 4, 5, 6, 7]
+  details.case_stage: [1, 3, 4, 5, 7, 8]
   details.products: [1, 3, 4, 6, 8, 9]
+  details.setting: [1, 3, 4, 5, 7, 8]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b257c5b19e0a0cff76400b012ca9ba93

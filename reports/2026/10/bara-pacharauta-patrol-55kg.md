@@ -26,6 +26,7 @@ details:
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 tags: [patrol, night]

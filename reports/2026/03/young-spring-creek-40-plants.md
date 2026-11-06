@@ -23,12 +23,16 @@ details:
   case_stage: charged
   environment: [indoor]
   products: [{product: plants, plants: 40}]
+  setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.environment: [1, 2]
   details.products: [2, 1]
+  details.setting: [2]
+  figures.arrested: [2, 1]
+  figures.charged: [1, 2]
   figures.kg_seized: [2, 1]
   figures.plants_destroyed: [2, 1]
 media:

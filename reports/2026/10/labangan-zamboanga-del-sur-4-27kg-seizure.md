@@ -23,6 +23,7 @@ media:
     publisher: INQUIRER.net
     caption: 'Anti-narcotics agents inspecting the four bricks of suspected marijuana intercepted at the Labangan delivery hub. Photo: PDEA-9'
 details:
+  activity: [smuggling]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   case_stage: investigation
@@ -30,6 +31,7 @@ details:
     - {product: flower}
   setting: [mail]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

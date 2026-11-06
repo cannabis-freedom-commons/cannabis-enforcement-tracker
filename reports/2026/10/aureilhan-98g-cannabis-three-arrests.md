@@ -24,10 +24,12 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
   details.agency_types: [2, 3, 1, 4]
   details.case_stage: [2, 3, 1]
   details.products: [1, 2]
+  details.setting: [1, 2, 3, 4]
   figures.arrested: [2, 1, 3]
   figures.charged: [2, 1, 3]
   figures.value: [2, 1, 3, 4]

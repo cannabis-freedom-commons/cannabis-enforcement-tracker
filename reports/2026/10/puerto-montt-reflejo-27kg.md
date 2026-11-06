@@ -56,6 +56,7 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 3]
   details.products: [1, 3, 4]
+  figures.arrested: [1, 3]
   figures.kg_seized: [1, 4, 3]
   figures.value: [1, 3]
 status: reported

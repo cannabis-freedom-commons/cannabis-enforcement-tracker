@@ -34,11 +34,13 @@ details:
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
   case_stage: investigation
+  setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [aysen, coyhaique, carabineros, os7]

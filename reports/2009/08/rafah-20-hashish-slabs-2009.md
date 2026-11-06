@@ -20,10 +20,12 @@ media:
     publisher: وكالة الرأي الفلسطينية
     caption: 'A person in police uniform holding several rectangular slabs of brown hashish over a table laid out with more slabs, published with the Rafah seizure report. Photo: وكالة الرأي الفلسطينية'
 details:
+  activity: [sale]
   agency_types: [anti-narcotics, police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
 status: verified

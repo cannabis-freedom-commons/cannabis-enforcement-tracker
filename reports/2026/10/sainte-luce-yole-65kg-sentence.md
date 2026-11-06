@@ -18,9 +18,11 @@ figures:
   prison: 24 months
 details:
   agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   products: [{product: flower, kg: 65}]
 data_sources:
   details.agency_types: [3, 4, 1]
+  details.case_stage: [3, 4]
   details.products: [1, 3, 4]
   figures.kg_seized: [1, 3, 4]
 media:

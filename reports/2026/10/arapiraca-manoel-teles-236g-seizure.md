@@ -20,12 +20,16 @@ media:
     publisher: Alagoas 24 Horas
     caption: Sniffer dog K9 Beretta behind a table with the seized cannabis portions, banknotes, mobile phones, scale and packaging material from the two houses.
 details:
+  activity: [sale]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   setting: [home]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

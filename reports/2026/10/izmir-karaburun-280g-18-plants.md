@@ -18,10 +18,12 @@ figures:
   kg_seized: 0.28
 details:
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: plants, plants: 18}, {product: seeds}]
   setting: [home]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1]

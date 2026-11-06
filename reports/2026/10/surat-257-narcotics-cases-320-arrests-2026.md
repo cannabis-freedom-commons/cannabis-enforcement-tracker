@@ -27,11 +27,13 @@ media:
 details:
   agencies: [in-ncb, in-dri]
   agency_types: [anti-narcotics, customs]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]

@@ -15,10 +15,12 @@ figures:
   arrested: 6
   kg_seized: 0.042
 details:
+  activity: [use]
   agency_types: [police]
   case_stage: investigation
   setting: [home]
 data_sources:
+  details.activity: [2, 3, 4, 6, 8, 9]
   details.agency_types: [1, 4, 3, 5, 7, 8]
   details.case_stage: [1, 4, 3, 5, 7, 8]
   details.setting: [1, 4, 2, 3, 5, 6]

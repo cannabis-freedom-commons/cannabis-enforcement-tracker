@@ -18,11 +18,13 @@ figures:
     amount: 1200000
     currency: MDL
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 6}, {product: seeds}]
   setting: [port]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.products: [2, 1]

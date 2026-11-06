@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [it-gdf]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: flower, kg: 24}
   activity: [possession]
@@ -26,6 +27,7 @@ data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

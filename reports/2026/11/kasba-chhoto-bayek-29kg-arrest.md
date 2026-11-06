@@ -22,11 +22,13 @@ figures:
   kg_seized: 29
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [2, 4, 3]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]

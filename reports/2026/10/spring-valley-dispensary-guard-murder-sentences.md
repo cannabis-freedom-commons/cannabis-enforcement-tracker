@@ -33,6 +33,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.charged: [1, 2]
+  figures.deaths: [1, 2]
   figures.prison: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

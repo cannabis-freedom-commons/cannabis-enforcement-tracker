@@ -16,9 +16,11 @@ figures:
   kg_seized: 0.056
 details:
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 0.056}]
 data_sources:
   details.agency_types: [2, 3, 4, 1]
+  details.case_stage: [2, 3, 4]
   details.products: [2, 3, 4]
 media:
   - kind: photo

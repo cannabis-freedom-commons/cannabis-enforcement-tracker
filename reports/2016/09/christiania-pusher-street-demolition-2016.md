@@ -16,15 +16,19 @@ summary: >-
 figures:
   deaths: 1
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: investigation
   environment: [outdoor]
   products: [{product: hashish}, {product: flower}]
+  setting: [street]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.environment: [1, 2]
   details.products: [2, 1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.bbc.com/news/world-europe-37260193

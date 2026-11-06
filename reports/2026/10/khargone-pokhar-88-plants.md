@@ -23,10 +23,12 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products: [{product: plants, plants: 88}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 3, 5, 2, 4]
+  details.case_stage: [2, 3, 5, 1, 4]
   details.products: [2, 3, 5, 1, 4]
   figures.plants_destroyed: [1, 2, 3, 5, 4]
 status: reported

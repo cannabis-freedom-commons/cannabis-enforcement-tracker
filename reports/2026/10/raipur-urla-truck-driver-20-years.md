@@ -33,6 +33,7 @@ data_sources:
   details.case_stage: [3, 5, 1, 6]
   details.sentence_types: [3, 5, 1, 6]
   details.setting: [3, 5, 1, 6, 2, 4]
+  figures.arrested: [2, 5, 1, 6]
   figures.kg_seized: [2, 5, 1, 6]
   figures.prison: [3, 5]
 status: reported

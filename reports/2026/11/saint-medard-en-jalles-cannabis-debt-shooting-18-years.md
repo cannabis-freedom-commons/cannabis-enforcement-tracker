@@ -19,10 +19,12 @@ figures:
     amount: 1000
     currency: EUR
 details:
+  activity: [sale]
   agency_types: [court]
   case_stage: sentenced
   setting: [home]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2]
   details.case_stage: [2]
   details.setting: [2, 1]

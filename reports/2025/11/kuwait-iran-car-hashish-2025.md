@@ -13,8 +13,10 @@ summary: >-
   referred to the narcotics prosecution.
 created_by_model: unknown
 details:
+  agency_types: [police]
   products: [{product: hashish}, {product: flower}]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 cfi_id: kuwait-iran-car-hashish-2025

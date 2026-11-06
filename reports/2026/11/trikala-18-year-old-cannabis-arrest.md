@@ -16,8 +16,13 @@ figures:
   arrested: 1
 details:
   agency_types: [police]
+  case_stage: investigation
+  setting: [building]
 data_sources:
   details.agency_types: [1, 5, 6, 4, 7, 2]
+  details.case_stage: [1, 5, 6, 4, 7, 2]
+  details.setting: [1, 6, 2, 4, 7]
+  figures.arrested: [1, 5, 6, 4, 7, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 61e85cbaa265279f9fa1d26a7f8ca053

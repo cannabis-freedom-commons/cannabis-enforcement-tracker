@@ -23,12 +23,14 @@ details:
   agency_types: [customs]
   products: [{product: flower, kg: 348}]
   route: {from: [ca], to: [hk]}
+  sentence_types: [life]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

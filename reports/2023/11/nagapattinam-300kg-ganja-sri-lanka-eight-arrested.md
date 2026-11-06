@@ -26,12 +26,14 @@ media:
 details:
   activity: [smuggling]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   route: {from: [in], to: [lk]}
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1, 3]
   details.products: [1, 2, 3]
   details.route: [2, 1]
   figures.arrested: [2, 1]

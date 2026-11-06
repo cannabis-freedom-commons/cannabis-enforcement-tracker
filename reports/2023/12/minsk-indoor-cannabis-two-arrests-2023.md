@@ -19,14 +19,17 @@ details:
   agency_types: [customs, police]
   case_stage: sentenced
   products: [{product: flower}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://www.customs.gov.by/news/dva-grazhdanina-kotorye-vyrashchivali-kannabis-i-izgotavlivali-iz-nego-marikhuanu-zaderzhany-sotrudn/

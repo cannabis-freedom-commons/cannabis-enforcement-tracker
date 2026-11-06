@@ -15,11 +15,13 @@ figures:
   arrested: 2
   kg_seized: 2.952
 details:
+  activity: [smuggling]
   agency_types: [customs]
   case_stage: investigation
   setting: [airport]
   route: {from: [th], to: [in]}
 data_sources:
+  details.activity: [1, 5, 2, 3]
   details.agency_types: [1, 2, 3, 5]
   details.case_stage: [1, 2, 3, 5]
   details.route: [1, 2, 3, 5]

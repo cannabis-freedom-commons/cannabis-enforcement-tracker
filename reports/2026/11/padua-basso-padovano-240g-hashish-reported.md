@@ -15,14 +15,18 @@ figures:
   charged: 1
   kg_seized: 0.24
 details:
+  activity: [sale]
   agencies: [it-gdf]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [mail]
 data_sources:
+  details.activity: [1, 3, 5, 2, 4]
   details.agencies: [1, 3, 4, 5]
   details.agency_types: [1, 3, 4, 5]
+  details.case_stage: [1, 3, 4, 5, 2]
   details.products: [2, 3, 4, 5]
   details.setting: [1, 3, 4, 5, 2]
 status: verified

@@ -13,8 +13,10 @@ summary: >-
   had been seized in 22 suitcases at Samui airport and 13 foreigners arrested.
 created_by_model: unknown
 details:
+  case_stage: investigation
   setting: [airport]
 data_sources:
+  details.case_stage: [1]
   details.setting: [1]
 status: verified
 cfi_id: thailand-smuggling-warning-2025

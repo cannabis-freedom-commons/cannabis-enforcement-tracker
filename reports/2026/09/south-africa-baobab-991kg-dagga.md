@@ -24,6 +24,7 @@ media:
     publisher: BNK News
     caption: 'Stacked dagga bales seized in the operation. Photo: SAPS via BNK News'
 details:
+  activity: [sale]
   agencies: [za-saps]
   agency_types: [police]
   case_stage: charged
@@ -32,6 +33,7 @@ details:
   route: {from: [tz], to: [za]}
   setting: [port]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

@@ -24,10 +24,13 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   activity: [cultivation]
+  case_stage: investigation
 data_sources:
   details.activity: [1, 2, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  figures.plants_destroyed: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cc52c082b528025598786fb7d5059bde

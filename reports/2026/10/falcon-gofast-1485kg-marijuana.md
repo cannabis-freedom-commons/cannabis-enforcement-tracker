@@ -18,9 +18,11 @@ figures:
   arrested: 3
   kg_seized: 1485.506
 details:
+  activity: [trafficking]
   agency_types: [customs, prosecutor]
   products: [{product: flower, kg: 1485.506}]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.products: [1, 2]
   figures.arrested: [1, 2]

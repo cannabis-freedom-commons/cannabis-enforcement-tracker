@@ -13,8 +13,10 @@ summary: >-
   Chad's anti-narcotics directorate presented dozens of sacks of cannabis, alongside diverted medicines and adulterated alcohol, to officials at its N'Djamena headquarters in Moursal on 27 March 2025. The accounts name no arrests and give no weight, plant count or value.
 details:
   agency_types: [anti-narcotics, police, prosecutor]
+  setting: [street]
 data_sources:
   details.agency_types: [1, 3, 2]
+  details.setting: [3, 1]
 media:
   - kind: photo
     url: https://www.alwihdainfo.com/Tchad-Importante-saisie-de-stupefiants-presentee-a-la-presse_a139813.html

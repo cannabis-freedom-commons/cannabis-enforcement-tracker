@@ -16,9 +16,11 @@ figures:
 details:
   activity: [possession]
   agency_types: [police]
+  products: [{product: plants}]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: afb00967a28b550fdfce46f2e24cc78b

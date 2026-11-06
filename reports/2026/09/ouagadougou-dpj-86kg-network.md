@@ -21,9 +21,11 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.activity: [1, 3, 5, 2]
   details.agency_types: [1, 3, 5, 2, 4]
+  details.case_stage: [1, 3, 5, 2]
   figures.kg_seized: [1, 3, 5, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

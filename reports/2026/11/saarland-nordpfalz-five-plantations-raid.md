@@ -40,12 +40,14 @@ details:
   activity: [cultivation]
   agencies: [de-bka]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: hashish, kg: 12.5}, {product: flower}]
   setting: [field]
 data_sources:
   details.activity: [1, 4, 7, 8, 9, 3]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 4, 7, 8, 9, 10]
   details.products: [2, 5, 9, 1, 4, 6]
   details.setting: [1, 4, 7, 8, 9, 3]
   figures.arrested: [1, 4, 7, 8, 9, 3]

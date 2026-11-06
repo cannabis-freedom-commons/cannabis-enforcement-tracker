@@ -13,11 +13,13 @@ summary: >-
   Prison police seized three mobile phones, chargers and small quantities of hashish during a routine search of two cells at the Cagliari-Uta prison on 3 November 2026. The Sappe penitentiary-police union announced the seizure and praised the officers, stressing the need for vigilance against phones and drugs in prisons.
 details:
   agency_types: [police]
+  case_stage: investigation
   setting: [prison]
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 3, 5, 4, 2]
+  details.case_stage: [1, 3, 5, 4, 2]
   details.products: [2, 5]
   details.setting: [1, 3, 5]
 status: verified

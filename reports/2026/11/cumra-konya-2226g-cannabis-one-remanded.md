@@ -21,6 +21,7 @@ details:
   products:
     - {product: flower, kg: 2.226}
   activity: [sale, possession]
+  sentence_types: [prison]
   setting: [home]
   charges: [drug trafficking (uyuşturucu madde ticareti)]
   case_stage: charged
@@ -31,6 +32,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]
+  details.sentence_types: [2, 3, 1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

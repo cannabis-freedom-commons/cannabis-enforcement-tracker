@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1]
+  figures.charged: [1]
 status: verified
 tags: [mandatory-death-penalty]
 open_questions:

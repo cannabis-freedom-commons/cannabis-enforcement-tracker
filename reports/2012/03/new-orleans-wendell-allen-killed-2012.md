@@ -21,12 +21,14 @@ figures:
   deaths: 1
 created_by_model: meta/muse-spark
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: charged
   force: lethal
   products: [{product: flower, kg: 0.1276}]
   setting: [home]
 data_sources:
+  details.activity: [1, 3]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 2, 3]
   details.force: [1, 3]

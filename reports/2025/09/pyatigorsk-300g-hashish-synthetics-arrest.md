@@ -36,6 +36,7 @@ media:
     publisher: МВД МЕДИА
     caption: 'Operational video embedded in the police account of the Pyatigorsk detention and searches. Video: Press service of the Main Directorate of the Interior Ministry for the North Caucasus Federal District'
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: sentenced
   products:
@@ -43,11 +44,13 @@ details:
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1, 2]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8fcdffeeacddd1bb9c2a8efc19af6f68

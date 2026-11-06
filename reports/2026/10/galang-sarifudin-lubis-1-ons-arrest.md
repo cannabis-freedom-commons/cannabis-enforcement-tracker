@@ -33,11 +33,14 @@ media:
     caption: Photo published with the report on the seizure of about one ons of dried ganja in Galang
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3, 4]
+  figures.arrested: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1a35fcdb9a1f9869b7012ebf8dfa85cc

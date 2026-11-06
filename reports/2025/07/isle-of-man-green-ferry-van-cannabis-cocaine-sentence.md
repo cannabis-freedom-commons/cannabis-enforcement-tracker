@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [1]
   figures.value: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

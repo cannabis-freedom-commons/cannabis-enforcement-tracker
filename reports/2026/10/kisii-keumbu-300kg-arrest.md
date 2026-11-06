@@ -18,14 +18,17 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: edibles}
   setting: [home]
 data_sources:
   details.activity: [4, 2]
   details.agency_types: [2, 3, 1]
+  details.case_stage: [1, 2, 4]
   details.products: [3]
   details.setting: [2, 3, 1]
+  figures.arrested: [2, 3]
   figures.kg_seized: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

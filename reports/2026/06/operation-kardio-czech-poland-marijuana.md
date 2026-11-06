@@ -23,6 +23,7 @@ media:
     publisher: Policie České republiky
     caption: Police photo from the Operation Kardio gallery showing seized items including valuables kept in a safe.
 details:
+  activity: [smuggling, sale]
   agency_types: [police, prosecutor]
   case_stage: sentenced
   products:
@@ -30,6 +31,7 @@ details:
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.products: [1, 2]

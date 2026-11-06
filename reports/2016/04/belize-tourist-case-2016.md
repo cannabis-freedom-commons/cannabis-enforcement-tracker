@@ -11,6 +11,12 @@ summary: >-
   charges dismissed: the judge noted the cannabis had been sold to her openly and she appeared to
   believe it was legal, cautioning her never to possess drugs in Belize again.
 created_by_model: unknown
+details:
+  agency_types: [court]
+  case_stage: acquitted
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: belize-tourist-case-2016
 sources:

@@ -30,6 +30,7 @@ details:
   activity: [trafficking, cultivation]
   agencies: [es-mossos]
   agency_types: [police]
+  case_stage: investigation
   environment: [indoor]
   products: [{product: flower}, {product: plants, plants: 327}]
   setting: [field, home]
@@ -37,9 +38,11 @@ data_sources:
   details.activity: [1, 3, 5, 2, 4]
   details.agencies: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [1, 4, 2, 3, 5]
   details.environment: [1, 3, 5]
   details.products: [1, 3, 5, 2, 4]
   details.setting: [1, 3, 5, 2, 4]
+  figures.arrested: [1, 3, 5, 2, 4]
   figures.plants_destroyed: [1, 4, 2, 3, 5]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

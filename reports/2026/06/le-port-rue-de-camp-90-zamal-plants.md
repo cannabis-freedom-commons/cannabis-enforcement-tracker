@@ -19,12 +19,14 @@ figures:
 details:
   activity: [trafficking, sale]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   environment: [indoor]
   products: [{product: flower, kg: 9}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2]
   details.environment: [1]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2]

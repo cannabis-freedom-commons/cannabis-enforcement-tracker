@@ -22,9 +22,11 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  setting: [vehicle]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

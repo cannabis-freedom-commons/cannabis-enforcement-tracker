@@ -17,9 +17,11 @@ figures:
 details:
   activity: [smuggling, trafficking]
   agency_types: [prosecutor]
+  case_stage: investigation
 data_sources:
   details.activity: [2, 1, 3, 4]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]
   figures.kg_seized: [1, 2]
 media:

@@ -23,11 +23,14 @@ media:
     caption: Photo published with the report on the arrest of Prabhu Bhagat with 1.320 kg of charas at Bela Khap
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1, 3, 4, 2]
+  details.case_stage: [2, 1, 4]
   details.products: [1, 4]
+  figures.arrested: [1, 3, 4]
   figures.kg_seized: [2, 1, 4, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

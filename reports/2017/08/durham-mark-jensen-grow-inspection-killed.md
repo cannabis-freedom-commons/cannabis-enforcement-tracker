@@ -27,6 +27,7 @@ data_sources:
   details.force: [1, 2]
   details.products: [1, 2]
   details.setting: [2]
+  figures.deaths: [1, 2]
 status: verified
 tags: [durham, code-enforcement, swat]
 sources:

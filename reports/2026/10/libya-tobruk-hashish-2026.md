@@ -13,11 +13,13 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [smuggling, sale]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [home]
 data_sources:
   details.activity: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]

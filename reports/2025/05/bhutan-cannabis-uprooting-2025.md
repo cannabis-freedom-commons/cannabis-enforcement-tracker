@@ -13,8 +13,10 @@ summary: >-
   2023. The campaign was enforcement, not a change in the law.
 created_by_model: unknown
 details:
+  case_stage: investigation
   products: [{product: hashish}]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 cfi_id: bhutan-cannabis-uprooting-2025

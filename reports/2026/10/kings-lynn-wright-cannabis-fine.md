@@ -23,10 +23,13 @@ details:
   activity: [possession]
   agency_types: [police]
   sentence_types: [fine]
+  setting: [street]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.sentence_types: [1]
+  details.setting: [1]
+  figures.arrested: [1]
   figures.fine: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max

@@ -18,8 +18,10 @@ figures:
     currency: XOF
 details:
   agency_types: [customs]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
   figures.kg_seized: [1]
   figures.value: [1]
 media:

@@ -17,17 +17,21 @@ figures:
   charged: 1
   prison: 10 years
 details:
+  agency_types: [police]
   case_stage: sentenced
   environment: [indoor, outdoor]
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
+  details.agency_types: [1, 3, 2]
   details.case_stage: [1]
   details.environment: [1, 3, 2]
   details.products: [1, 3, 2]
   details.sentence_types: [1]
   details.setting: [1, 3, 2]
+  figures.arrested: [1]
+  figures.charged: [1]
   figures.prison: [1]
 media:
   - kind: photo

@@ -21,9 +21,11 @@ created_by_model: cursor/composer-2.5
 details:
   activity: [smuggling, trafficking]
   agency_types: [border-guard, anti-narcotics]
+  case_stage: investigation
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 status: verified
 tags: [jazan, border-guard, hashish]

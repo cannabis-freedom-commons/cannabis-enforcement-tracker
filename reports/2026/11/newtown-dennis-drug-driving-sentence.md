@@ -19,9 +19,11 @@ figures:
 details:
   agency_types: [police, court]
   sentence_types: [fine, probation]
+  setting: [street]
 data_sources:
   details.agency_types: [1]
   details.sentence_types: [1]
+  details.setting: [1]
   figures.fine: [1]
 media:
   - kind: photo

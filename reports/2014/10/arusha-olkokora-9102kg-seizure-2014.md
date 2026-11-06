@@ -20,8 +20,10 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   figures.hectares: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

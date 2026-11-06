@@ -13,9 +13,13 @@ summary: >-
   began on 20 May and was due to run until 30 November.
 created_by_model: unknown
 details:
+  agency_types: [police]
+  case_stage: investigation
   environment: [wild]
   products: [{product: hashish}]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
 status: verified

@@ -16,9 +16,11 @@ figures:
   kg_seized: 321.033
 details:
   agency_types: [police]
+  case_stage: investigation
   products: [{product: hashish, kg: 321.033}]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.arrested: [1]
 status: verified

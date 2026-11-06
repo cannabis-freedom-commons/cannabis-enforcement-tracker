@@ -23,8 +23,13 @@ figures:
   charged: 1
 details:
   agency_types: [police]
+  case_stage: investigation
+  setting: [street]
 data_sources:
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1]
+  details.setting: [1, 2, 3, 4]
+  figures.arrested: [1, 2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 77ddb7e74d39348cfcb74e38ce8eafb9

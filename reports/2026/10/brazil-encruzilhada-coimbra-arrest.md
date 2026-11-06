@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [2, 1]
 media:
   - kind: photo
     url: https://portalarauto.com.br/31-10-2026/batalhao-de-choque-apreende-pistola-municoes-cocaina-e-maconha-em-encruzilhada/

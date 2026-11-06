@@ -18,9 +18,11 @@ figures:
 details:
   products: [{product: flower, kg: 834.61}]
   route: {from: [mx], to: [us/va]}
+  setting: [vehicle, street]
 data_sources:
   details.products: [1, 2]
   details.route: [1]
+  details.setting: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]
 status: verified

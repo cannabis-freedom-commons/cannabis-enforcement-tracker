@@ -19,8 +19,10 @@ figures:
 created_by_model: unknown
 details:
   agency_types: [court]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 tags: [taranaki]
 sources:

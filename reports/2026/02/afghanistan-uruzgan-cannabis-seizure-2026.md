@@ -12,6 +12,12 @@ summary: >-
   reported 37 kilograms of opium seized in Farah and four arrests there. The Uruzgan haul was the
   largest cannabis seizure reported in the period reviewed.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: afghanistan-uruzgan-cannabis-seizure-2026
 sources:

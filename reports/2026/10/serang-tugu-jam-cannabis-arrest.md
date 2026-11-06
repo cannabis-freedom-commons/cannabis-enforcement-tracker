@@ -20,6 +20,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 2, 4]
   details.case_stage: [1, 3, 2]
+  figures.arrested: [1, 3, 2]
 media:
   - kind: photo
     url: https://www.radarbanten.co.id/2026/10/30/diduga-edarkan-ganja-di-taman-tugu-jam-serang-pria-asal-lampung-ditangkap-polres-serang/

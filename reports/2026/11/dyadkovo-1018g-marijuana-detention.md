@@ -20,6 +20,7 @@ details:
   products:
     - {product: flower, kg: 1.018}
   activity: [cultivation, possession]
+  sentence_types: [prison]
   setting: [home]
   environment: [indoor]
   charges: ['illegal acquisition, manufacture and storage of drugs on a large scale']
@@ -34,6 +35,7 @@ data_sources:
   details.charges: [2]
   details.environment: [2]
   details.products: [2]
+  details.sentence_types: [1, 2, 3]
   details.setting: [2]
   figures.arrested: [1]
   figures.kg_seized: [2]

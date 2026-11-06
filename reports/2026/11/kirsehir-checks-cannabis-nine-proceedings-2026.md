@@ -16,6 +16,7 @@ figures:
 details:
   agencies: [tr-egm]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
   date_precision: publication
@@ -23,6 +24,7 @@ details:
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.charged: [1]
 status: verified

@@ -28,6 +28,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
+  figures.arrested: [1, 2, 3]
 status: verified
 created_by_model: openai/gpt-6
 tags: [lautoka, lomolomo, marijuana, police]

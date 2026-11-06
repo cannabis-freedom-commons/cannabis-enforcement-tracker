@@ -17,12 +17,15 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

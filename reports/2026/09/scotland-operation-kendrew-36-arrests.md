@@ -21,10 +21,12 @@ details:
   activity: [trafficking, cultivation]
   agency_types: [police]
   environment: [indoor]
+  setting: [home]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.environment: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
 status: verified
 tags: [police-scotland, operation-kendrew, vietnamese]

@@ -24,10 +24,12 @@ media:
     publisher: Channels Television
     caption: The fuel tanker with a concealed compartment used to transport cannabis, shown with Channels Television coverage.
 details:
+  activity: [sale]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [1, 2]

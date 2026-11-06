@@ -14,11 +14,14 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [sale]
   agency_types: [police]
   setting: [prison]
 data_sources:
+  details.activity: [1, 3, 4]
   details.agency_types: [1, 3, 4]
   details.setting: [1, 3, 4, 2]
+  figures.arrested: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a5757375574927044be579cdec123c57

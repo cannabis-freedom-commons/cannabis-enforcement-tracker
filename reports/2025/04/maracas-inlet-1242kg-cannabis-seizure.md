@@ -18,10 +18,12 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [coast-guard, police]
+  case_stage: investigation
   setting: [forest]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.setting: [2]
   figures.value: [2]
 media:

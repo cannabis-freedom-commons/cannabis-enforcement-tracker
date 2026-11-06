@@ -18,11 +18,13 @@ figures:
   plants_destroyed: 40000
   value: { amount: 40000000, currency: CAD }
 details:
+  activity: [cultivation]
   agencies: [ca-opp]
   agency_types: [police]
   products: [{product: flower}, {product: plants, plants: 40000}]
   setting: [vehicle, home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]

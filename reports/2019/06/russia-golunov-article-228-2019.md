@@ -19,10 +19,14 @@ created_by_model: unknown
 details:
   activity: [processing]
   agency_types: [police]
+  case_stage: appeal
+  sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
   details.activity: [3, 1, 4]
   details.agency_types: [3, 1]
+  details.case_stage: [1, 4, 2]
+  details.sentence_types: [3, 1, 4]
   details.setting: [3, 1, 4]
 status: verified
 cfi_id: russia-golunov-article-228-2019

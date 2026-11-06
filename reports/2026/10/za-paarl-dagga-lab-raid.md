@@ -19,11 +19,13 @@ figures:
 created_by_model: unknown
 details:
   activity: [cultivation]
+  agency_types: [police]
   case_stage: investigation
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

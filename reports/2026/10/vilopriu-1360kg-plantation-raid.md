@@ -22,12 +22,17 @@ details:
   activity: [cultivation]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: plants}]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [2, 1, 3]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7

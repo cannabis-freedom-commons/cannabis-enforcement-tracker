@@ -16,9 +16,11 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [anti-narcotics, prosecutor]
+  case_stage: investigation
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   figures.kg_seized: [1]
 media:
   - kind: photo

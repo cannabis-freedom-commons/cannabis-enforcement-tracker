@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2, 4]
   details.products: [1, 3, 2]
   details.setting: [1, 2, 4]
+  figures.arrested: [1, 3]
 status: verified
 tags: [marc-emery, smoke-in, tour]
 open_questions:

@@ -20,6 +20,7 @@ details:
   products:
     - {product: flower, kg: 2.1}
   activity: [possession]
+  sentence_types: [prison]
   setting: [home, forest]
   environment: [wild]
   charges: [illegal acquisition and storage of narcotic drugs in a large amount without intent to sell (part 2 of article 228 of the Criminal Code)]
@@ -34,6 +35,7 @@ data_sources:
   details.charges: [1]
   details.environment: [1]
   details.products: [1]
+  details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

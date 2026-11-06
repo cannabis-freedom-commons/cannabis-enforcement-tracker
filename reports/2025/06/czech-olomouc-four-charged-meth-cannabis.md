@@ -19,11 +19,13 @@ details:
   activity: [sale]
   agency_types: [police]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

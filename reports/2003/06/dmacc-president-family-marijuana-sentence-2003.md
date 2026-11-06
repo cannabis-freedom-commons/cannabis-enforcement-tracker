@@ -27,12 +27,15 @@ details:
   case_stage: sentenced
   products: [{product: flower}]
   sentence_types: [prison, probation, community-service]
+  setting: [home]
 data_sources:
   details.activity: [3, 1, 2]
   details.agency_types: [1, 3, 2]
   details.case_stage: [2, 4, 3]
   details.products: [1, 3, 2]
   details.sentence_types: [2, 4, 3]
+  details.setting: [1, 3]
+  figures.arrested: [1, 3]
   figures.plants_destroyed: [1, 3]
   figures.value: [1, 3]
 status: verified

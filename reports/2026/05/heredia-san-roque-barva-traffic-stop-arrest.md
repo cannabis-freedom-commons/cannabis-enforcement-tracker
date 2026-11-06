@@ -26,11 +26,15 @@ media:
     caption: Police photo of the items seized in Heredia, captioned "Decomisos en Heredia" and credited to the MPS, Costa Rica's Public Security Ministry.
 details:
   agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

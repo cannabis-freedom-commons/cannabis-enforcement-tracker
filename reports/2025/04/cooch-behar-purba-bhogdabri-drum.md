@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [2]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cooch-behar, sitalkuchi, ganja, west-bengal]

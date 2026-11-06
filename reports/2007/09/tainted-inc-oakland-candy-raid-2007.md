@@ -18,10 +18,12 @@ figures:
   charged: 4
   plants_destroyed: 460
 details:
+  case_stage: investigation
   environment: [indoor]
   products: [{product: flower}, {product: plants, plants: 460}]
   setting: [vehicle, building]
 data_sources:
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

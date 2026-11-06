@@ -27,11 +27,13 @@ media:
     publisher: NBC News
     caption: 'Tightly packed marijuana hidden in the spare tire wheel wells of Ford Fusions. Photo: Youngstown Resident Office / Drug Enforcement Administration'
 details:
+  activity: [sale]
   agencies: [us-dea, us-fbi]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   products: [{product: flower, kg: 181.44}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

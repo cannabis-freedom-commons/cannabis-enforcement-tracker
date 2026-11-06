@@ -16,10 +16,12 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [military]
+  case_stage: investigation
   products: [{product: flower, kg: 320}]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [2, 1]
   figures.kg_seized: [2, 1]
 media:

@@ -16,9 +16,11 @@ figures:
   plants_destroyed: 100000
 details:
   activity: [cultivation]
+  agency_types: [police]
   products: [{product: flower}, {product: plants, plants: 100000}]
 data_sources:
   details.activity: [2, 1]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   figures.plants_destroyed: [2]
 status: verified

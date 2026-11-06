@@ -21,11 +21,13 @@ media:
     caption: Picture published with the report of the 30 July 2026 seizure in Absheron and Garadagh districts, captioned only with the headline "В Азербайджане изъяли 57 кг наркотиков".
 details:
   activity: [smuggling, trafficking]
+  agency_types: [police]
   case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 3, 4]
+  details.agency_types: [2, 1, 3]
   details.case_stage: [2, 3, 4, 1]
   details.products: [1]
   figures.arrested: [2, 1, 3, 4]

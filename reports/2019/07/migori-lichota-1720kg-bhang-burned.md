@@ -18,11 +18,13 @@ figures:
   value: { amount: 17200000, currency: KES }
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: edibles}
   route: {from: [tz], to: [ke]}
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.route: [1]
   figures.kg_seized: [1]

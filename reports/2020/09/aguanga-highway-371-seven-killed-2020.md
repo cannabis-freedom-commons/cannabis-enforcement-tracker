@@ -22,10 +22,12 @@ details:
   agencies: [us-fbi]
   agency_types: [police]
   products: [{product: flower, kg: 454}]
+  setting: [home]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.products: [1, 2]
+  details.setting: [1]
   figures.deaths: [1]
   figures.kg_seized: [1, 2]
 status: verified

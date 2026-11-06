@@ -15,11 +15,13 @@ figures:
   arrested: 2
   kg_seized: 0.1
 details:
+  activity: [smuggling]
   agency_types: [gendarmerie, prosecutor]
   setting: [prison]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]

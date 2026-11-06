@@ -20,12 +20,14 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [customs]
+  case_stage: investigation
   environment: [indoor]
   products: [{product: flower, kg: 40}]
   setting: [airport]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.environment: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]

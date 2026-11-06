@@ -17,11 +17,13 @@ figures:
   kg_seized: 6.35
   prison: 447 months (more than 37 years)
 details:
+  agency_types: [court]
   case_stage: sentenced
   products: [{product: flower, kg: 6.35}]
   sentence_types: [prison, probation]
   setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]

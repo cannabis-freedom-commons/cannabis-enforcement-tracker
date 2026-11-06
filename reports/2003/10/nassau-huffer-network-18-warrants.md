@@ -18,14 +18,18 @@ figures:
   arrested: 9
   kg_seized: 79.38
 details:
+  activity: [smuggling]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   environment: [indoor]
   products: [{product: flower, kg: 79.38}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

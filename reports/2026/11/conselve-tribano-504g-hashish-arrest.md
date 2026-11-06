@@ -21,14 +21,18 @@ media:
     publisher: La Piazza Web
     caption: Lead photo of the Conselve arrest article, on the hashish seizure case. Publisher image, credit not stated.
 details:
+  activity: [sale]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1, 2, 3]
 status: verified

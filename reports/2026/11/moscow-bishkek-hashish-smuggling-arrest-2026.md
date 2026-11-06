@@ -50,13 +50,16 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  sentence_types: [life]
   setting: [prison]
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 4, 5, 2, 3]
   details.case_stage: [1, 4, 5, 2, 3]
   details.products: [1, 2]
+  details.sentence_types: [2, 4, 5]
   details.setting: [2, 4, 5]
+  figures.arrested: [1, 4, 5, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 67c80ccb3e54c19541125a14e94119b8

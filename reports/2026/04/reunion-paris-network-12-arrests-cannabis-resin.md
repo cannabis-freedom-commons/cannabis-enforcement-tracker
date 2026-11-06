@@ -25,12 +25,14 @@ media:
     publisher: Gendinfo, Gendarmerie nationale
     caption: 'Gendarmerie handout photo illustrating the 13 April 2026 drug operation between Réunion and the Paris region. Photo: COMGENDRE / UNPJ'
 details:
+  activity: [trafficking]
   agency_types: [gendarmerie, anti-narcotics, police, prosecutor]
   case_stage: investigation
   products:
     - {product: hashish}
   setting: [airport, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]

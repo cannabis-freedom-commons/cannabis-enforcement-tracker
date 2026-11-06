@@ -24,14 +24,17 @@ details:
   activity: [cultivation]
   agencies: [ru-fsb]
   agency_types: [police]
+  case_stage: investigation
   setting: [forest]
   environment: [wild]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2, 1]
   details.environment: [1]
   details.setting: [1]
+  figures.hectares: [1]
   figures.plants_destroyed: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -18,14 +18,17 @@ details:
   activity: [sale]
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 943a75ecf550fa9ed6810baa905bc9d5

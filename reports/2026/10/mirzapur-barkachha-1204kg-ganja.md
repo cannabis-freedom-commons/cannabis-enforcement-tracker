@@ -53,12 +53,14 @@ media:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   setting: [vehicle]
   products:
     - {product: flower}
 data_sources:
   details.activity: [3, 5, 6, 8, 9, 10]
   details.agency_types: [3, 6, 13, 15, 9, 4]
+  details.case_stage: [4, 5, 6, 8, 9, 10]
   details.products: [1, 3, 7, 8, 9, 12, 14, 15]
   details.setting: [3, 4, 5, 6, 8, 9, 10, 13, 14, 15]
   figures.arrested: [3, 6, 13, 15, 2, 8]

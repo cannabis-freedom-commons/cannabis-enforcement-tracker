@@ -16,12 +16,15 @@ figures:
   kg_seized: 1
 details:
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 1}]
   setting: [home, prison]
 data_sources:
   details.agency_types: [1, 3, 4, 2]
+  details.case_stage: [1, 3, 4, 2]
   details.products: [1, 3, 4, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 3, 4]
 media:
   - kind: photo
     url: https://www.bhaskar.com/g/local/bihar/patna/news/patna-rajapur-gumti-youth-arrested-ganja-pistol-seized-139600709.html

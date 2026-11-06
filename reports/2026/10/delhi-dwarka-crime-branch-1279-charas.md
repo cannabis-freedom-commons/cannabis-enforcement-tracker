@@ -22,12 +22,16 @@ media:
     publisher: SocialNews.XYZ
     caption: 'Suspects and Crime Branch officers photographed outside the Northern Range-II Crime Branch office in Sector 18, Rohini, New Delhi, after the Dwarka arrests. Photo: IANS via SocialNews.XYZ.'
 details:
+  activity: [smuggling]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
   details.products: [1, 3]
   details.setting: [1]
   figures.arrested: [1, 2]

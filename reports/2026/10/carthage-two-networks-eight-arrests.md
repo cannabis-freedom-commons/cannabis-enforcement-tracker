@@ -23,11 +23,13 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [4, 7, 6, 5]
   details.products: [6, 7]
   figures.arrested: [1, 2, 3, 4, 5, 6]
 status: verified

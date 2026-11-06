@@ -26,12 +26,14 @@ media:
 details:
   activity: [smuggling]
   agency_types: [customs]
+  case_stage: investigation
   setting: [border]
   products:
     - {product: hashish}
 data_sources:
   details.activity: [4, 5, 7]
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7]
   details.setting: [2, 3, 4, 5, 6, 7]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]

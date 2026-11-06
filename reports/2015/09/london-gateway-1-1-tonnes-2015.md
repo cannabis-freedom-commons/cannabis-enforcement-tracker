@@ -25,9 +25,13 @@ media:
 details:
   agencies: [gb-nca, gb-border-force]
   agency_types: [police, customs]
+  case_stage: investigation
+  setting: [street]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
   figures.kg_seized: [1]
   figures.value: [1]
 status: verified

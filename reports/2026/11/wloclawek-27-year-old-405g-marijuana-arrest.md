@@ -18,11 +18,13 @@ details:
   agency_types: [police]
   case_stage: sentenced
   products: [{product: flower, kg: 0.405}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 4, 5, 7, 6, 2]
   details.case_stage: [3, 7]
   details.products: [1, 4, 5, 6, 7, 2]
+  details.sentence_types: [3, 7, 1, 4, 5, 6]
   details.setting: [1, 4, 5, 7, 6, 3]
 media:
   - kind: photo

@@ -13,11 +13,13 @@ summary: >-
   arrested a supplier; the report did not state how much cannabis each young man held.
 created_by_model: unknown
 details:
+  activity: [sale]
   agency_types: [police, court]
   case_stage: sentenced
   sentence_types: [prison, fine]
   setting: [prison]
 data_sources:
+  details.activity: [2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
   details.sentence_types: [1, 2]

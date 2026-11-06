@@ -18,10 +18,12 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [gendarmerie, prosecutor]
+  products: [{product: flower, kg: 800}]
   setting: [field]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
   figures.hectares: [1]
   figures.kg_seized: [1]

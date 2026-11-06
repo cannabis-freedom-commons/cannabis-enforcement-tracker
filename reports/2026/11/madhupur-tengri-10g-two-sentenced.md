@@ -22,12 +22,14 @@ details:
   case_stage: sentenced
   products:
     - {product: flower}
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
   details.products: [1, 2, 3]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2, 3]
   figures.arrested: [2, 1]
 status: verified

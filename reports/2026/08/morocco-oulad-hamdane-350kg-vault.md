@@ -17,9 +17,13 @@ summary: >-
 figures:
   kg_seized: 350
 details:
+  activity: [smuggling]
   agency_types: [customs, gendarmerie, prosecutor]
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.setting: [1]
   figures.kg_seized: [1]
 media:
   - kind: photo

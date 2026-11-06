@@ -13,9 +13,13 @@ summary: >-
   drugs had been seized between 1 June 2024 and 31 May 2025.
 created_by_model: unknown
 details:
+  case_stage: investigation
   products: [{product: flower}]
+  setting: [home]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: myanmar-drug-burning-2025
 sources:

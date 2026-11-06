@@ -13,6 +13,10 @@ summary: >-
   presented the destruction as part of the government’s effort to protect public health and young
   people.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: togo-drug-seizures-2025
 tags:

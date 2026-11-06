@@ -23,12 +23,14 @@ details:
   agency_types: [police]
   case_stage: charged
   products: [{product: flower}, {product: plants, plants: 900}]
+  setting: [home]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [2, 1]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified

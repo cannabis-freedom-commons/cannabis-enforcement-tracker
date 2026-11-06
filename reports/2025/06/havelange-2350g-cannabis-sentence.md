@@ -20,12 +20,14 @@ figures:
   prison: 2 years
 created_by_model: cursor/composer-2.5
 details:
+  activity: [sale]
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
   products: [{product: hashish, kg: 2.35}, {product: flower}]
   sentence_types: [prison, probation]
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

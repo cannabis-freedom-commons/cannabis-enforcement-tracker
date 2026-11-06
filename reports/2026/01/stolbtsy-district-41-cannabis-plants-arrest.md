@@ -20,6 +20,7 @@ details:
   case_stage: sentenced
   environment: [indoor]
   products: [{product: plants, plants: 41}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1, 2, 3]
@@ -27,6 +28,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.environment: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.sentence_types: [1, 2]
   details.setting: [2, 1]
   figures.arrested: [1]
   figures.plants_destroyed: [1, 2, 3]

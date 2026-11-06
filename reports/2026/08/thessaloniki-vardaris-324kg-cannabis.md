@@ -19,9 +19,11 @@ figures:
     currency: EUR
 details:
   agency_types: [police]
+  case_stage: investigation
   setting: [vehicle]
 data_sources:
   details.agency_types: [4]
+  details.case_stage: [2, 1, 3]
   details.setting: [2, 1, 3]
   figures.kg_seized: [2, 1, 3]
 media:

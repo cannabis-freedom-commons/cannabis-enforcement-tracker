@@ -26,6 +26,8 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1]
+  figures.charged: [1]
 media:
   - kind: photo
     url: https://www.waka.com/2026/10/04/man-arrested-in-montgomery-county-on-charges-involving-prison-contraband/

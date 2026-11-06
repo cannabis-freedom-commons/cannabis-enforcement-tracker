@@ -20,10 +20,12 @@ media:
     caption: The seized kif from the joint ANP–Customs interception in Béchar.
 details:
   agency_types: [customs, military]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [2, 3, 4, 5, 6, 7]
+  details.case_stage: [2, 3, 4, 5, 6, 7]
   details.products: [1, 3, 4, 5, 6, 7]
   figures.kg_seized: [2, 3, 4, 5, 6, 7]
 status: verified

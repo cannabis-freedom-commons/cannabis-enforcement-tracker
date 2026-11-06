@@ -17,8 +17,10 @@ figures:
     currency: MYR
 details:
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [1, 2, 4]
   figures.kg_seized: [1, 2, 4]
   figures.value: [1, 2, 4, 3]
 media:

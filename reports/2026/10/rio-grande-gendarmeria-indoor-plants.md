@@ -36,12 +36,14 @@ media:
 details:
   agencies: [ar-gna]
   agency_types: [gendarmerie]
+  case_stage: investigation
   environment: [indoor]
   products: [{product: flower, kg: 10.641}, {product: plants}]
   setting: [border]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]

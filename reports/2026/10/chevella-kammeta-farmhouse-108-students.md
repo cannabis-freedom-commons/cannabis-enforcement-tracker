@@ -24,12 +24,14 @@ media:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agencies: [2, 6, 7, 8, 9]
   details.agency_types: [2, 6, 7, 8, 9]
+  details.case_stage: [2, 1, 4, 5]
   details.products: [1, 2, 4, 5, 6, 7, 8, 9]
   details.setting: [1, 4, 5, 2, 6, 8]
   figures.arrested: [1, 4, 5, 2, 6, 8]

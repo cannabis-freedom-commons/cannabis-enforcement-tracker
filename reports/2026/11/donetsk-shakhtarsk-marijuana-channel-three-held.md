@@ -21,6 +21,7 @@ details:
   products:
     - {product: flower, kg: 1.377}
   activity: [sale, possession, cultivation]
+  sentence_types: [prison]
   setting: [home, street]
   environment: [outdoor]
   charges: [attempted sale of narcotics on a large scale]
@@ -34,6 +35,7 @@ data_sources:
   details.charges: [1]
   details.environment: [1]
   details.products: [1]
+  details.sentence_types: [1, 2]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

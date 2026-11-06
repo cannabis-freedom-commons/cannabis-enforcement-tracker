@@ -17,10 +17,12 @@ figures:
   kg_seized: 11000
 details:
   agency_types: [customs]
+  case_stage: investigation
   products: [{product: hashish, kg: 11000}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

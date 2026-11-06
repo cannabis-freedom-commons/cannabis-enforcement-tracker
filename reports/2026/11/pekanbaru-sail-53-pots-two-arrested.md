@@ -17,6 +17,7 @@ figures:
   plants_destroyed: 53
   kg_seized: 0.03728
 details:
+  activity: [sale]
   agencies: [Polresta Pekanbaru]
   agency_types: [police]
   products:
@@ -29,6 +30,7 @@ details:
   date_precision: exact
   region: Riau
 data_sources:
+  details.activity: [1, 6, 7, 5, 4, 3]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

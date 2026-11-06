@@ -16,6 +16,7 @@ details:
   agencies: [Moroccan customs]
   agency_types: [customs]
   activity: [smuggling]
+  case_stage: investigation
   date_precision: exact
   products: [{product: hashish, kg: 4000}]
   region: Tangier-Tetouan-Al Hoceima
@@ -24,6 +25,7 @@ data_sources:
   details.activity: [2]
   details.agencies: [2]
   details.agency_types: [3]
+  details.case_stage: [3, 2, 1]
   details.products: [3, 2, 1]
   details.setting: [2, 1]
   figures.kg_seized: [3]

@@ -18,10 +18,12 @@ figures:
   kg_seized: 6.80389
 details:
   activity: [trafficking, possession]
+  case_stage: investigation
   products: [{product: flower, kg: 6.80389}]
   setting: [home]
 data_sources:
   details.activity: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [2, 1]
   details.setting: [2]
   figures.kg_seized: [2, 1]

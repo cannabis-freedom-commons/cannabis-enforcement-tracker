@@ -18,10 +18,12 @@ summary: >-
 figures:
   kg_seized: 68.648
 details:
+  activity: [smuggling]
   agency_types: [police]
   case_stage: sentenced
   setting: [port]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.setting: [1]

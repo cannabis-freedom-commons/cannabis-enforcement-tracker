@@ -24,11 +24,13 @@ media:
 details:
   activity: [smuggling]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 3, 2]
+  details.case_stage: [2, 1]
   details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

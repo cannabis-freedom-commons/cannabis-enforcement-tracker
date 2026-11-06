@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   agency_types: [gendarmerie, police]
   case_stage: investigation
+  setting: [street]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: djibouti-balbala-cannabis-network-2026
 tags:

@@ -17,12 +17,18 @@ summary: >-
 figures:
   prison: life without parole (commuted after about 21 years)
 details:
+  activity: [sale]
   agency_types: [police]
+  case_stage: sentenced
   products: [{product: flower}]
+  sentence_types: [life]
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.prison: [1, 2]
 media:

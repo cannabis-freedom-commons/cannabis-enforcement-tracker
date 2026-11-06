@@ -19,12 +19,15 @@ figures:
     currency: EUR
 details:
   agency_types: [customs, border-guard, police]
+  case_stage: investigation
   setting: [airport]
   route: {from: [th], to: [al]}
 data_sources:
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.route: [2]
   details.setting: [1]
+  figures.arrested: [2]
   figures.kg_seized: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

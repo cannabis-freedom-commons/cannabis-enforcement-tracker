@@ -21,10 +21,12 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products: [{product: flower}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.plants_destroyed: [1]
 status: verified

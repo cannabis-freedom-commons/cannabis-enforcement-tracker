@@ -17,9 +17,11 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  setting: [street]
 data_sources:
   details.agency_types: [2, 3, 1, 4, 5]
   details.case_stage: [2, 3, 5]
+  details.setting: [5, 2]
   figures.arrested: [2, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

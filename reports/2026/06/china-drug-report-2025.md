@@ -13,6 +13,10 @@ summary: >-
   seized from foreign sources, the report named methamphetamine, heroin and cannabis as the main
   types.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: china-drug-report-2025
 sources:

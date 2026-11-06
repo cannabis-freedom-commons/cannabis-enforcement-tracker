@@ -21,14 +21,19 @@ media:
     publisher: Adria TV
     caption: 'Police photo of the seized drugs. Photo: UP'
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
+  details.activity: [1, 4, 6, 5, 2, 3]
   details.agency_types: [1, 5, 3, 2, 4, 6]
+  details.case_stage: [3, 2, 4, 5, 1, 6]
   details.products: [1, 4, 5]
   details.setting: [1, 4, 5, 2, 3, 7]
+  figures.arrested: [1, 5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2ce45cf799c4fb274dde5c92d658a96d

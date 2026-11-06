@@ -19,9 +19,11 @@ figures:
   value: { amount: 400, currency: USD }
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
 details:
+  agency_types: [police]
   products: [{product: flower}]
   setting: [port, border]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
   figures.value: [1]

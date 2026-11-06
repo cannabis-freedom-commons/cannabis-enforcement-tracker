@@ -23,6 +23,7 @@ details:
   activity: [trafficking]
   agencies: [fr-douane]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [mail]
@@ -30,6 +31,7 @@ data_sources:
   details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [2, 1]
 status: verified

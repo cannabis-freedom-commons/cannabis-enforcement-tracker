@@ -19,6 +19,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 7, 8, 9, 10]
   details.case_stage: [1, 3, 7, 8, 9, 10]
+  figures.arrested: [1, 3, 7, 8, 9, 10]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1374d67e11b0f98b6617f84cbca14fa8

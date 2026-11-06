@@ -20,11 +20,13 @@ figures:
   value: { amount: 15000000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agency_types: [police]
   case_stage: sentenced
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.sentence_types: [1]

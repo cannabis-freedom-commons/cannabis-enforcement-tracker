@@ -14,10 +14,12 @@ figures:
   kg_seized: 17.035
 details:
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: flower, kg: 17.035}]
   setting: [mail]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 media:

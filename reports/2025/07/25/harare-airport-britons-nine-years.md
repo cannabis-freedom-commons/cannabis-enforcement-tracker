@@ -22,12 +22,14 @@ figures:
   value: { amount: 600000, currency: USD }
 created_by_model: cursor/composer-2.5
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
   case_stage: sentenced
   products: [{product: flower, kg: 66.415}]
   sentence_types: [prison]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [2, 3]

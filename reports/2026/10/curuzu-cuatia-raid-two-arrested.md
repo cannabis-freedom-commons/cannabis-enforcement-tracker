@@ -22,11 +22,13 @@ media:
     caption: Cash, mobile phones and packaged drug doses laid out on a table after the raid in Curuzú Cuatiá.
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home]
 data_sources:
   details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3, 1]
   details.products: [1]
   details.setting: [2, 3]
   figures.arrested: [1, 3]

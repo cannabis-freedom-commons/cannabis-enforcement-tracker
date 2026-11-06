@@ -22,12 +22,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
   agency_types: [police]
+  case_stage: investigation
   environment: [indoor]
   products: [{product: oil}]
   setting: [home]
 data_sources:
   details.activity: [1, 5, 2, 4]
   details.agency_types: [1, 5]
+  details.case_stage: [1, 5, 2]
   details.environment: [3, 4, 1]
   details.products: [3, 4, 1]
   details.setting: [5, 2, 3]

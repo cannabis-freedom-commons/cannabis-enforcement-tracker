@@ -19,10 +19,13 @@ details:
   agency_types: [police]
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 3, 2]
   details.products: [1, 2]
+  details.setting: [1, 3]
+  figures.arrested: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3e78e1cdbea0c3e0bc8149aa703b7832

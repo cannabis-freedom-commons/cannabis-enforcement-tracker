@@ -21,6 +21,7 @@ details:
   activity: [trafficking]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
   setting: [port]
   products:
     - {product: hashish}
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1]
   figures.arrested: [1, 2]

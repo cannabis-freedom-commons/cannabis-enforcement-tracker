@@ -22,12 +22,15 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie, prosecutor]
   case_stage: charged
+  products: [{product: flower, kg: 300}]
   setting: [port, vehicle, prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [2, 1]
+  figures.charged: [1, 2]
   figures.kg_seized: [2]
   figures.value: [1, 2]
 media:

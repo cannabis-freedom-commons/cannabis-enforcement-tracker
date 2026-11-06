@@ -17,11 +17,13 @@ figures:
   kg_seized: 1500
 details:
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 1500}]
   route: {from: [py], to: [uy], crossing: 'land entry from Brazil'}
   setting: [vehicle]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

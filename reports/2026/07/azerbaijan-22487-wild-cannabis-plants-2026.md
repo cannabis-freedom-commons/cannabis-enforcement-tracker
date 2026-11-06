@@ -22,11 +22,13 @@ media:
     caption: 'Wrapped and labelled drug packages photographed for the Report.az story on the 10 July 2026 nationwide roundup of seizures and plant destruction. Photo: Report.az'
 details:
   agency_types: [police]
+  case_stage: investigation
   environment: [wild]
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [4, 1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.environment: [4, 1]
   details.products: [1, 2]
   figures.kg_seized: [4, 1, 2, 3]

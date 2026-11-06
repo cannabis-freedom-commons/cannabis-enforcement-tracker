@@ -17,11 +17,13 @@ figures:
   kg_seized: 1492
 details:
   activity: [smuggling, trafficking]
+  agency_types: [police]
   case_stage: investigation
   products: [{product: hashish, kg: 1492}, {product: flower}]
   setting: [home]
 data_sources:
   details.activity: [1, 6, 8, 4, 2, 5]
+  details.agency_types: [1, 6, 8, 7, 4, 2]
   details.case_stage: [1, 6, 8]
   details.products: [1, 6, 8]
   details.setting: [1, 6, 7, 8, 4]

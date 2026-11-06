@@ -11,6 +11,12 @@ summary: >-
   were arrested and a fourth, the chief executive of Gobi Cashmere, left the country. The assailants
   were reported to have been under the influence of illegal drugs, though no drug was named.
 created_by_model: unknown
+details:
+  activity: [use]
+  setting: [street]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 cfi_id: mongolia-nightclub-assault-2025
 sources:

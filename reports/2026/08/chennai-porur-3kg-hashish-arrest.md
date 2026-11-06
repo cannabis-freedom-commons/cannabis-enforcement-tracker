@@ -27,6 +27,7 @@ details:
   activity: [smuggling, trafficking]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [vehicle]
@@ -34,6 +35,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

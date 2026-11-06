@@ -26,6 +26,7 @@ data_sources:
   details.products: [1, 2, 4]
   details.sentence_types: [2, 3, 4]
   details.setting: [1, 4, 2, 3]
+  figures.arrested: [1, 4, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: aecda5760e22675ed93e567757e08259

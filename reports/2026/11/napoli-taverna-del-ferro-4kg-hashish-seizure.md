@@ -34,6 +34,7 @@ details:
   activity: [sale]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
   sentence_types: [fine]
@@ -41,6 +42,7 @@ data_sources:
   details.activity: [1, 3, 2, 4, 5]
   details.agencies: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 5, 4]
   details.products: [1, 2, 3, 4, 5, 6]
   details.sentence_types: [5]
 status: verified

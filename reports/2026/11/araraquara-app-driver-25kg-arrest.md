@@ -24,12 +24,14 @@ details:
   activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: flower, kg: 25.69}]
   setting: [prison]
 data_sources:
   details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1, 2]

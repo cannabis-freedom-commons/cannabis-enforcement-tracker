@@ -17,10 +17,12 @@ figures:
   deaths: 1
   kg_seized: 0.255
 details:
+  agency_types: [police]
   force: lethal
   products: [{product: flower, kg: 0.255}]
   setting: [vehicle, home]
 data_sources:
+  details.agency_types: [1, 2]
   details.force: [1, 2, 3]
   details.products: [2, 3, 1]
   details.setting: [1, 2, 3]

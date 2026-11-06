@@ -18,6 +18,7 @@ figures:
 details:
   activity: [possession]
   agency_types: [police, court]
+  sentence_types: [prison]
   setting: [home]
   environment: [wild]
   charges: [unlawful acquisition and storage of narcotic-containing plant parts in a large amount without intent to sell (article 228(2))]
@@ -30,6 +31,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.environment: [1]
+  details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

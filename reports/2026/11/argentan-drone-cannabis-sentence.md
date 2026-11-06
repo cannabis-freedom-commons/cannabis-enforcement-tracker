@@ -17,9 +17,11 @@ figures:
   kg_seized: 0.2
 details:
   agency_types: [police]
+  case_stage: investigation
   setting: [prison]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

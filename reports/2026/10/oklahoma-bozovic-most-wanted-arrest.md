@@ -35,6 +35,8 @@ data_sources:
   details.agency_types: [2, 4, 6, 7, 3, 1]
   details.case_stage: [2, 4, 6, 7, 3, 1]
   details.products: [3, 7, 1]
+  figures.arrested: [2, 4, 6, 7, 3, 1]
+  figures.charged: [1, 7, 5, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [oklahoma, most-wanted, trafficking, fugitive, illinois]

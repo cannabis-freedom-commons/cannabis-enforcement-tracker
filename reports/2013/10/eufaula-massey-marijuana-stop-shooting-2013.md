@@ -16,8 +16,10 @@ figures:
   deaths: 1
   kg_seized: 3.175
 details:
+  agency_types: [police]
   products: [{product: flower, kg: 3.175}]
 data_sources:
+  details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 media:

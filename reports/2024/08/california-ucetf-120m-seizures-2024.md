@@ -18,7 +18,12 @@ figures:
   plants_destroyed: 122914
   value: { amount: 120000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  case_stage: investigation
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   figures.plants_destroyed: [1, 2]
   figures.value: [1, 2]
 status: verified

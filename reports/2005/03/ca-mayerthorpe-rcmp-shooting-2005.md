@@ -18,12 +18,14 @@ figures:
   deaths: 4
 created_by_model: unknown
 details:
+  activity: [cultivation]
   agencies: [ca-rcmp]
   agency_types: [police]
   force: shots-fired
   products: [{product: flower}, {product: plants}]
   setting: [vehicle, home]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.force: [1, 2]

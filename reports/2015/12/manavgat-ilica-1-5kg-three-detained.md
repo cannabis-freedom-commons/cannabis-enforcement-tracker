@@ -18,10 +18,12 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   setting: [home, prison]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.setting: [2, 1]
   figures.arrested: [2, 1]
 media:

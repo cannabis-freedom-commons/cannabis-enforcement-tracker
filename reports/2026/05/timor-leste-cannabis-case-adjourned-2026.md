@@ -12,6 +12,10 @@ summary: >-
   Superior Council of the Judiciary to decide whether the judge should stay on the panel. The case
   had already been in court for nearly four years.
 created_by_model: unknown
+details:
+  agency_types: [court]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: timor-leste-cannabis-case-adjourned-2026
 sources:

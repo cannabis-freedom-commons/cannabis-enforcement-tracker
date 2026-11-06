@@ -19,10 +19,12 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [2, 3, 4, 5, 6, 1]
   details.case_stage: [1, 3, 4, 5, 6, 2]
+  details.sentence_types: [1, 3, 4, 5, 6, 2]
   details.setting: [1, 3, 4, 5, 6, 2]
 media:
   - kind: photo

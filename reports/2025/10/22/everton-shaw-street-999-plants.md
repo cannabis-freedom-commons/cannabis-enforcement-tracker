@@ -21,10 +21,12 @@ details:
   agency_types: [police]
   case_stage: appeal
   products: [{product: plants, plants: 999}]
+  setting: [street]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified
 tags: [merseyside, everton, cannabis-farm]

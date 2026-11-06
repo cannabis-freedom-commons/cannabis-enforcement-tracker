@@ -17,10 +17,12 @@ figures:
   value: { amount: 1000000, currency: EUR }
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.kg_seized: [1]
   figures.value: [1]

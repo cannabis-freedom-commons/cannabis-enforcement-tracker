@@ -35,10 +35,12 @@ media:
 details:
   activity: [trafficking]
   agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: investigation
   products: [{product: flower, kg: 1217}]
 data_sources:
   details.activity: [2, 5, 7, 9]
   details.agency_types: [3, 1, 4, 2, 5, 7]
+  details.case_stage: [1, 4, 3]
   details.products: [1, 4, 3]
   figures.kg_seized: [2, 4, 1, 5]
   figures.value: [2, 4, 1, 5]

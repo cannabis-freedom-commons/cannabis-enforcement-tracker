@@ -12,6 +12,14 @@ summary: >-
   with stalks and leaves, the plants came to about 2.8 pounds, over the 2.2-pound trafficking
   threshold.
 created_by_model: unknown
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [life]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 cfi_id: us-brooker-life-sentence-2014
 tags:

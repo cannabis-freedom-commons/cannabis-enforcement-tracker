@@ -29,15 +29,18 @@ media:
 details:
   activity: [cultivation]
   agency_types: [gendarmerie, anti-narcotics, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
   details.activity: [1, 3, 4, 5, 7, 8]
   details.agency_types: [1, 3, 4, 5, 7, 8]
+  details.case_stage: [1, 3, 4, 5, 6, 7]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9]
   details.setting: [1, 3, 4, 5, 6, 7]
   figures.arrested: [1, 3, 4, 5, 7, 8]
+  figures.plants_destroyed: [1, 3, 4, 5, 7, 8]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6060531cb115471bfa3645caf0aff795

@@ -23,13 +23,16 @@ media:
     caption: 'A cannabis plant in a flower pot, in the lead image published with the Maalai Malar report on the case. Photo: Maalai Malar'
 details:
   agency_types: [police]
+  case_stage: investigation
   setting: [home]
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.products: [1]
   details.setting: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 1006c7d9a32bd63c5479bd33659b3e7d

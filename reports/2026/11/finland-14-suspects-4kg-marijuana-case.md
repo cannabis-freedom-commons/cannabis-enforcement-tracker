@@ -22,12 +22,14 @@ media:
 details:
   agencies: [int-europol]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [port, home, mail]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [2]
   details.setting: [2, 1]
   figures.arrested: [1]

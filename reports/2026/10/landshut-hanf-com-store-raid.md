@@ -13,10 +13,14 @@ summary: >-
   Police searched the Hanf.com hemp shop on Theaterstraße in Landshut on 9 October 2026 and seized about 1,500 items including seeds, cuttings, hemp tea and CBD flowers. Founder Wenzel Cerveny called the fourth Landshut search disproportionate; no charges were brought that day.
 details:
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products: [{product: seeds}]
+  setting: [building]
 data_sources:
   details.agency_types: [2, 1]
+  details.case_stage: [2]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9b2749a696f2d9873139ab350f1469df

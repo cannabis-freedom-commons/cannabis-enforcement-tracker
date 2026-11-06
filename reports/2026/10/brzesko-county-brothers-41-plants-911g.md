@@ -18,11 +18,13 @@ figures:
   plants_destroyed: 41
   kg_seized: 0.911
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
   case_stage: charged
   products: [{product: flower, kg: 0.911}]
   setting: [home]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [2, 1, 3]
   details.products: [2, 1, 3]

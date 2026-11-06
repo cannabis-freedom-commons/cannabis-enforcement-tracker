@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [10, 11]
   details.products: [1, 10, 14, 3, 4, 6]
   details.setting: [2, 4, 7, 8, 9, 12]
+  figures.arrested: [10, 11]
 media:
   - kind: photo
     url: https://www.sertaodaparaiba.com.br/noticia/policia-investiga-apreensao-de-maconha-em-van-ligada-a-delegado-em-joao-pessoa

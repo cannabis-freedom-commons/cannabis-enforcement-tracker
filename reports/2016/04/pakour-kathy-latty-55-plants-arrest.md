@@ -18,11 +18,15 @@ figures:
 details:
   activity: [trafficking, cultivation]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: plants, plants: 55}]
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]
 status: verified

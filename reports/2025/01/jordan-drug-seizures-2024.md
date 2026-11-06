@@ -13,9 +13,11 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: hashish}, {product: flower}]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 cfi_id: jordan-drug-seizures-2024

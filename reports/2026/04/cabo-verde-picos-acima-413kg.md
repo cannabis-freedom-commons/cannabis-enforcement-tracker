@@ -16,8 +16,10 @@ summary: >-
   cannabis was seized and destroyed, and a car was taken; no arrests were reported.
 details:
   agency_types: [police, prosecutor]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   figures.kg_seized: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017

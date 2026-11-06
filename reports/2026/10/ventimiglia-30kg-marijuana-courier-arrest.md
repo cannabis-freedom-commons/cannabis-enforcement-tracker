@@ -25,6 +25,7 @@ details:
   activity: [trafficking]
   agencies: [it-gdf]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [border]
@@ -32,8 +33,10 @@ data_sources:
   details.activity: [1, 3, 4, 6, 7, 8]
   details.agencies: [1, 2, 3, 4, 6, 7, 8, 10, 11, 12, 13]
   details.agency_types: [1, 2, 3, 4, 6, 7, 8, 10, 11, 12, 13]
+  details.case_stage: [1, 3, 6, 11, 12, 13]
   details.products: [1, 3, 4, 5, 6, 7, 8, 9, 12, 13, 14]
   details.setting: [1, 3, 4, 6, 7, 8]
+  figures.arrested: [1, 3, 4, 6, 7, 8]
   figures.kg_seized: [1, 3, 6, 11, 12, 13]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

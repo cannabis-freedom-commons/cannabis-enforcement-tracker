@@ -28,6 +28,8 @@ data_sources:
   details.case_stage: [1, 3, 2]
   details.products: [1, 3, 2]
   details.setting: [2, 1, 3]
+  figures.arrested: [2, 1, 3]
+  figures.charged: [1, 3, 2]
 media:
   - kind: photo
     url: https://www.dothanpd.org/2026/10/30/investigators-seize-19-guns-drugs-and-cash-after-extensive-investigation/

@@ -34,6 +34,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.route: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.arrested: [1, 2, 3]
 status: verified
 tags: [calama, os7, bolivia-route]
 open_questions:

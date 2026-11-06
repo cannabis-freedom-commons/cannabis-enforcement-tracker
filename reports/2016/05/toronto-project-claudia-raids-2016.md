@@ -25,11 +25,13 @@ details:
   agency_types: [police]
   case_stage: investigation
   products: [{product: hashish, kg: 325}, {product: flower}]
+  setting: [building]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [project-claudia, dispensaries, toronto-police]
 sources:

@@ -21,10 +21,12 @@ created_by_model: command-code/deepseek/deepseek-v4.1-flash#max
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   setting: [port]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
 status: verified

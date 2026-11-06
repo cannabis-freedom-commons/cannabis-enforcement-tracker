@@ -34,6 +34,8 @@ data_sources:
   details.case_stage: [1, 3, 2]
   details.environment: [1, 3, 2]
   details.setting: [1, 3]
+  figures.arrested: [1, 3, 2]
+  figures.charged: [1, 3, 2]
   figures.plants_destroyed: [1, 3]
   figures.value: [1, 3]
 status: verified

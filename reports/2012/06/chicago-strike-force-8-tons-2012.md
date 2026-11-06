@@ -21,12 +21,14 @@ details:
   activity: [possession]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower, kg: 7257.5}]
   setting: [home, building]
 data_sources:
   details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2]
   details.products: [2, 1]
   details.setting: [2]
   figures.kg_seized: [2]

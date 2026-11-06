@@ -18,11 +18,13 @@ details:
   agency_types: [prosecutor, court]
   case_stage: sentenced
   sentence_types: [fine, community-service]
+  setting: [street]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [morecambe, ellesmere-port, cheshire, community-order, cannabis-supply]

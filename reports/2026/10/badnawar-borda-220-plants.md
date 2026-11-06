@@ -22,9 +22,11 @@ figures:
 details:
   activity: [trafficking, cultivation]
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.activity: [1, 3, 2, 4]
   details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [1, 4, 2, 3]
   figures.plants_destroyed: [1, 4, 2, 3]
 media:
   - kind: photo

@@ -20,12 +20,14 @@ details:
   agency_types: [customs, police]
   case_stage: sentenced
   products: [{product: hashish, kg: 1.5}]
+  sentence_types: [prison]
   setting: [mail]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.sentence_types: [1]
   details.setting: [1]
   figures.kg_seized: [1]
   figures.prison: [1]

@@ -23,9 +23,13 @@ media:
     caption: 'The 10 cannabis packages, weighing 11.088 kg, seized in the case. Photo: ANTARA/HO-Polda Banten'
 details:
   agency_types: [police]
+  case_stage: investigation
+  sentence_types: [life]
   setting: [mail]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [2, 1]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.charged: [2, 1]

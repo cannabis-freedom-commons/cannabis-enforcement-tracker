@@ -21,13 +21,16 @@ figures:
   kg_seized: 0.000831
   prison: 1 year (suspended for 3 years)
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
   case_stage: sentenced
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.arrested: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tokyo, volleyball, suspended-sentence, possession]

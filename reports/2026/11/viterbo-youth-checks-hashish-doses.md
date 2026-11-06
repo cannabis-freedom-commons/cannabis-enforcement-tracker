@@ -16,8 +16,10 @@ figures:
   charged: 8
 details:
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 623f8c60dd1d42dcc17ab17aa655fb4d

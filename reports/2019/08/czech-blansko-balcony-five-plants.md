@@ -15,11 +15,19 @@ summary: >-
 figures:
   plants_destroyed: 5
 details:
+  activity: [possession]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: plants, plants: 5}]
+  sentence_types: [fine]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1]
   details.products: [2, 1]
+  details.sentence_types: [2, 1]
+  details.setting: [2, 1, 3]
 media:
   - kind: photo
     url: https://brnenska.drbna.cz/krimi/14915-foto-muz-pestoval-na-balkone-pet-velkych-kytek-marihuany.html

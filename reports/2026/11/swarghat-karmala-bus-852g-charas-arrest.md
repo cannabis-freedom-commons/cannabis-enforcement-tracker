@@ -17,14 +17,17 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [border, vehicle]
 data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
   details.products: [1, 3]
   details.setting: [2, 3, 1]
+  figures.arrested: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e5b889be6f0a50c57c70c770f7193fea

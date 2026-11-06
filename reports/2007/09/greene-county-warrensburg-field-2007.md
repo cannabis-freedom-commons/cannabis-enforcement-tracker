@@ -18,13 +18,16 @@ figures:
   plants_destroyed: 8000
   arrested: 1
 details:
+  agency_types: [police]
   case_stage: investigation
   products: [{product: flower}]
   setting: [field]
 data_sources:
+  details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.arrested: [2, 1]
   figures.plants_destroyed: [2]
 status: verified
 created_by_model: cursor/composer-2.5

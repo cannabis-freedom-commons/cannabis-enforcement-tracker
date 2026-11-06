@@ -22,10 +22,14 @@ media:
     caption: 'Photo published with the report on the 34.61 kg seizure near the Kuyluk bazaar, captioned only with the headline. Photo: press service of the Customs Committee'
 details:
   activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1]
   figures.kg_seized: [2, 1]

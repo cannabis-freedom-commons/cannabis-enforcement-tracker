@@ -15,6 +15,7 @@ figures:
   arrested: 2
   kg_seized: 0.4
 details:
+  activity: [sale]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
   products:
@@ -25,6 +26,7 @@ details:
   region: Tuscany
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

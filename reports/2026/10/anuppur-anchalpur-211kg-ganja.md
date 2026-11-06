@@ -35,12 +35,14 @@ media:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [forest, home]
 data_sources:
   details.activity: [2, 1, 4]
   details.agency_types: [3, 6, 2, 5, 1, 4]
+  details.case_stage: [1, 4, 2, 6, 5, 7]
   details.products: [1, 2, 4, 5, 6, 7]
   details.setting: [3, 6, 2, 5, 1, 4]
   figures.value: [1, 4, 2, 6, 5, 7]

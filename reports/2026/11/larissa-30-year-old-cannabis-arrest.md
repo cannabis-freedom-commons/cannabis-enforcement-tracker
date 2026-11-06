@@ -16,9 +16,14 @@ figures:
   arrested: 1
   kg_seized: 0.0038
 details:
+  agency_types: [police]
   case_stage: investigation
+  setting: [street]
 data_sources:
+  details.agency_types: [1, 3, 4, 2]
   details.case_stage: [1, 3, 4, 2]
+  details.setting: [1, 2, 3, 4]
+  figures.arrested: [1, 3, 4, 2]
   figures.kg_seized: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

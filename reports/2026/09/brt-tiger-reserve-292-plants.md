@@ -27,6 +27,7 @@ media:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   environment: [indoor]
   setting: [forest]
   products:
@@ -34,6 +35,7 @@ details:
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
   details.setting: [1]

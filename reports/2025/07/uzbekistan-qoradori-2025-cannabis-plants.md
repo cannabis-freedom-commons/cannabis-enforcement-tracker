@@ -26,9 +26,13 @@ media:
     caption: 'Second Interior Ministry press-service photograph inside the article, captioned only "Photo: Press service of the Interior Ministry", showing a notice on a blue fence. Photo: Press service of the Interior Ministry'
 details:
   activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
   products: [{product: plants, plants: 10000}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
   figures.plants_destroyed: [1, 2, 3, 4]
 status: verified

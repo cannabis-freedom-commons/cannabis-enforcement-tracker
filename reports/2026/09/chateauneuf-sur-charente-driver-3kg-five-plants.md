@@ -38,6 +38,7 @@ data_sources:
   details.sentence_types: [3, 2]
   details.setting: [3, 2]
   figures.kg_seized: [2, 1, 3]
+  figures.plants_destroyed: [3, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 1c3e300888ae8b04d7feef47c0b8e4a8

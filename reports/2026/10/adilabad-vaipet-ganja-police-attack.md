@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1, 3]
   figures.arrested: [1, 2, 3]
   figures.charged: [1, 2, 3]
+  figures.plants_destroyed: [1, 2]
 media:
   - kind: photo
     url: https://telanganatoday.com/four-policemen-injured-in-mob-attack-during-ganja-cultivation-probe-in-adilabad

@@ -24,12 +24,14 @@ media:
 details:
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [home]
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1]
   details.setting: [1, 3]
   figures.arrested: [1, 2, 3]

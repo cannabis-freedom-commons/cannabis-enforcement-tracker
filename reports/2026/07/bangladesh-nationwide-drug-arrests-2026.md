@@ -12,6 +12,12 @@ summary: >-
   filed 14,157 drug cases and seized 5,336 packets of cannabis along with yaba, heroin, phensedyl
   and liquor. The operation ended the day before parliament passed the 2026 narcotics amendment.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: bangladesh-nationwide-drug-arrests-2026
 sources:

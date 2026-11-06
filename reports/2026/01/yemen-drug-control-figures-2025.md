@@ -13,8 +13,10 @@ summary: >-
   drug cases, 488 of them for use, and 1,260 suspects, of whom 827 were users.
 created_by_model: unknown
 details:
+  case_stage: investigation
   products: [{product: hashish}]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 cfi_id: yemen-drug-control-figures-2025

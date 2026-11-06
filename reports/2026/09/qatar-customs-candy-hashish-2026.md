@@ -13,9 +13,11 @@ summary: >-
   authorities. The seizure was announced on 3 September 2026.
 created_by_model: unknown
 details:
+  activity: [smuggling]
   agency_types: [customs]
   products: [{product: hashish}]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
 status: verified

@@ -20,10 +20,12 @@ media:
     publisher: Bilecik Haber
     caption: Photo of the seized cannabis published with the report of the Bilecik operation.
 details:
+  activity: [possession]
   agencies: [tr-egm]
   agency_types: [police]
   case_stage: investigation
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]

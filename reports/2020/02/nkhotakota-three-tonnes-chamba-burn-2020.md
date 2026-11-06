@@ -19,8 +19,10 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police]
+  products: [{product: flower, kg: 3000}]
 data_sources:
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [chamba, exhibits-destruction]
 media:

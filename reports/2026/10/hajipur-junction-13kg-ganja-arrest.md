@@ -33,6 +33,7 @@ details:
   activity: [trafficking]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [home, prison]
@@ -40,6 +41,7 @@ data_sources:
   details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [2, 3]
 status: verified

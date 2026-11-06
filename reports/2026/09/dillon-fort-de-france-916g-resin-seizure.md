@@ -21,10 +21,12 @@ media:
     caption: 'Police photo of the 916 grammes of cannabis resin seized in the Dillon anti-delinquency operation. Photo: Police Nationale social media, via RCI'
 details:
   agency_types: [gendarmerie, police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

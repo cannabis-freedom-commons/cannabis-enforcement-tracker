@@ -19,6 +19,7 @@ details:
   activity: [possession]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
@@ -27,6 +28,7 @@ data_sources:
   details.activity: [1, 3, 4, 5]
   details.agencies: [1, 3, 4, 5]
   details.agency_types: [1, 3, 4, 5]
+  details.case_stage: [1, 3, 4, 5, 2]
   details.products: [1, 2, 3, 4, 5]
   details.setting: [1, 3, 4, 5]
 status: verified

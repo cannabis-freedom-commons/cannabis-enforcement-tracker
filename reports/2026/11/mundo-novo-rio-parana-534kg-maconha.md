@@ -22,11 +22,15 @@ media:
 details:
   agencies: [br-pf]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 534}]
+  setting: [border]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2, 1]
   details.products: [2, 1]
+  details.setting: [1, 2]
   figures.kg_seized: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

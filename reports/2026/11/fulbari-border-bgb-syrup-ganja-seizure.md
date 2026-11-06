@@ -16,6 +16,7 @@ details:
   activity: [smuggling]
   agencies: [bd-bgb]
   agency_types: [border-guard]
+  case_stage: investigation
   setting: [border]
   products:
     - {product: flower}
@@ -23,6 +24,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [2]
   details.setting: [1, 2]
 status: verified

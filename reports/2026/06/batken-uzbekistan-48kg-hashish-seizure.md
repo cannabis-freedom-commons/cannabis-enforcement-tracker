@@ -22,6 +22,7 @@ media:
     caption: Seized substances linked to the Tajikistan-Uzbekistan trafficking channel.
 details:
   activity: [trafficking]
+  agency_types: [police]
   case_stage: investigation
   products:
     - {product: hashish}
@@ -29,6 +30,7 @@ details:
   setting: [home]
 data_sources:
   details.activity: [1, 2, 3]
+  details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1, 3]
   details.route: [1, 2, 3]

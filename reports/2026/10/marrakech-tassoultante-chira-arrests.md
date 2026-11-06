@@ -20,10 +20,12 @@ details:
   agency_types: [gendarmerie, police]
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [1]
   figures.arrested: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

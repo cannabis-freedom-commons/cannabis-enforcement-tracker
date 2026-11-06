@@ -13,8 +13,10 @@ summary: >-
   of marihuana growing.
 created_by_model: unknown
 details:
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 cfi_id: cuba-courts-689-sanctioned-2023

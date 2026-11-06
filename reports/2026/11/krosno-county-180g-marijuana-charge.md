@@ -39,6 +39,7 @@ data_sources:
   details.case_stage: [2, 3, 4, 6, 5]
   details.products: [1, 2, 3, 4]
   details.setting: [2, 5, 6]
+  figures.charged: [2, 3, 4, 6, 5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0c361b244a38ce3df183bb6c8ac98872

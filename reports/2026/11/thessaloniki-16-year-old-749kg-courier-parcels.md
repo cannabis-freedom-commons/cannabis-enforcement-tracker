@@ -23,6 +23,7 @@ media:
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   environment: [indoor]
   setting: [mail]
   products:
@@ -30,6 +31,7 @@ details:
 data_sources:
   details.activity: [1, 14, 17, 20, 22, 2]
   details.agency_types: [1, 3, 5, 6, 9, 12]
+  details.case_stage: [1, 3, 5, 7, 8, 9]
   details.environment: [2, 4, 5, 6, 7, 8]
   details.products: [1, 3, 5, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
   details.setting: [1, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]

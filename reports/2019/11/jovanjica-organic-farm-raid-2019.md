@@ -21,11 +21,13 @@ details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
   products: [{product: flower, kg: 3954}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [2, 3, 1]
   details.case_stage: [1, 2]
   details.products: [2, 3, 1]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [2, 3, 1]
   figures.kg_seized: [2, 3, 1]

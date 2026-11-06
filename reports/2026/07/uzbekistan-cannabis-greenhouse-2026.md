@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   activity: [smuggling, sale]
   products: [{product: hashish}, {product: plants}]
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: uzbekistan-cannabis-greenhouse-2026
 sources:

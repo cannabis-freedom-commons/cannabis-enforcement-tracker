@@ -12,10 +12,12 @@ title: Xylo abandoned with 321 kg after driver flees
 details:
   activity: [smuggling]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 321}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 tags: [xylo, driver-fled, manhunt, kandhamal-route]
 summary: >-

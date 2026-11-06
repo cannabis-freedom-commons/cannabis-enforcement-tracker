@@ -31,11 +31,13 @@ media:
     caption: A second photo of the couple with police officers and the seized packets of ganja.
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [border, vehicle]
 data_sources:
   details.agency_types: [1, 5, 3, 2, 4]
+  details.case_stage: [4, 5]
   details.products: [1, 5]
   details.setting: [1, 5, 3, 2, 4]
   figures.kg_seized: [4, 5]

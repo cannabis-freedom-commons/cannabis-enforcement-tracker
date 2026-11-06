@@ -19,11 +19,13 @@ details:
   agency_types: [anti-narcotics, police]
   case_stage: sentenced
   products: [{product: flower, kg: 0.3332}]
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.agency_types: [2, 3, 1, 4]
   details.case_stage: [1, 3, 2, 4]
   details.products: [2, 3, 1, 4]
+  details.sentence_types: [1, 3, 2, 4]
   details.setting: [2, 3, 1, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

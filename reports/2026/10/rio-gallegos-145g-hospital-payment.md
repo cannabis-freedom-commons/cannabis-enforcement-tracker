@@ -28,12 +28,14 @@ media:
     publisher: La Opinión Austral
     caption: 'L.S.L. handcuffed by Santa Cruz provincial police after his detention in the 2024 weapons search in which the marijuana was found. Photo: Policía de Santa Cruz.'
 details:
+  activity: [possession]
   agencies: [ar-gna]
   agency_types: [gendarmerie]
   products: [{product: flower}]
   sentence_types: [suspended]
   setting: [home, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]

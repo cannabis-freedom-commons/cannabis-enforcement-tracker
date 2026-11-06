@@ -22,12 +22,14 @@ media:
     publisher: Le Dauphiné Libéré
     caption: 'Photo illustrating the 34-year-old man''s account that his girlfriend drove him several times a week to different addresses. Photo: Olivier Masseboeuf'
 details:
+  activity: [sale]
   agency_types: [police, court]
   case_stage: sentenced
   products:
     - {product: hashish}
   setting: [home, prison]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [2]
   details.products: [2]

@@ -26,11 +26,13 @@ media:
     caption: Lead photo published with the report on the 16.13 kg ganja seizure at the Ramol Expressway toll plaza
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [vehicle]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.arrested: [1]

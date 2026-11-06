@@ -17,12 +17,16 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
   details.activity: [3, 4, 6, 2, 5]
   details.agency_types: [3, 4, 6, 2, 5, 1]
+  details.case_stage: [1, 6, 5, 3]
   details.products: [1, 6]
+  details.setting: [1, 5, 6, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8940be33ac51b7c0c9c616ede95aa6de

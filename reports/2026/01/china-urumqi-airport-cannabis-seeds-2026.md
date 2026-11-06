@@ -13,11 +13,13 @@ summary: >-
   Ürümqi Tian Shan Airport customs seized 32 cannabis seeds in inbound post declared as a toy, according to a customs WeChat notice reported on 30 January 2026. Officers said seeds were hidden inside six assembled Lego brick groups in a resealed box; laboratory testing confirmed they were cannabis seeds.
 details:
   agency_types: [customs, prosecutor]
+  case_stage: investigation
   products:
     - {product: seeds}
   setting: [airport]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: reported

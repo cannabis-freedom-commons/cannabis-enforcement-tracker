@@ -13,11 +13,13 @@ summary: >-
   Guangzhou customs seized 68 cannabis seeds on 11 November 2025 in an inbound postal parcel declared as a men's cotton T-shirt. Officers said X-ray screening was abnormal; inside they found seeds in sealed bags and plastic tubes wrapped in the shirt, and testing confirmed they were cannabis seeds.
 details:
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: seeds}
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: reported

@@ -25,10 +25,12 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
   figures.arrested: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

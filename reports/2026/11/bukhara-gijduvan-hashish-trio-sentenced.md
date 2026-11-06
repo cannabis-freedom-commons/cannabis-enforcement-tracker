@@ -17,12 +17,14 @@ figures:
   charged: 3
   prison: 5 years 3 months to 5 years 6 months
 details:
+  activity: [sale]
   agency_types: [court]
   case_stage: investigation
   products:
     - {product: hashish}
   setting: [vehicle, prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

@@ -16,12 +16,14 @@ figures:
   arrested: 1
   plants_destroyed: 30
 details:
+  activity: [sale]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   environment: [greenhouse]
   products: [{product: plants, plants: 30}]
   setting: [home]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2]
   details.environment: [2, 1, 3]

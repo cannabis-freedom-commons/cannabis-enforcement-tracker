@@ -27,11 +27,13 @@ media:
     caption: Video embedded in the report on the drug seizure, titled with the article headline. No separate credit is given.
 details:
   activity: [smuggling]
+  agency_types: [police]
   case_stage: investigation
   products: [{product: hashish, kg: 0.1085}, {product: oil}]
   setting: [online]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1]

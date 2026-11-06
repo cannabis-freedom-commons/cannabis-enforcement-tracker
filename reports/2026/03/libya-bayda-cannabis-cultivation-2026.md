@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking, cultivation]
+  sentence_types: [life]
   setting: [prison]
 data_sources:
   details.activity: [1]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 cfi_id: libya-bayda-cannabis-cultivation-2026

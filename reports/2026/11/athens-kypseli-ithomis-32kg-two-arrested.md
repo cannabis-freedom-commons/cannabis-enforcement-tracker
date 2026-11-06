@@ -25,12 +25,14 @@ media:
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [vehicle, home]
 data_sources:
   details.activity: [1, 4, 5, 6, 7, 8]
   details.agency_types: [1, 4, 5, 6, 7, 8]
+  details.case_stage: [1, 6, 3, 8, 5, 9]
   details.products: [1, 4, 5, 6, 7, 8]
   details.setting: [2, 6, 1, 3, 4, 5]
   figures.arrested: [1, 4, 5, 6, 7, 8]

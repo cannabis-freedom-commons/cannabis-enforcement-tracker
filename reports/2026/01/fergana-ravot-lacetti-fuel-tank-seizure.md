@@ -28,6 +28,7 @@ media:
 details:
   activity: [smuggling]
   agency_types: [customs, border-guard]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
@@ -35,6 +36,7 @@ details:
 data_sources:
   details.activity: [3, 2, 1]
   details.agency_types: [1, 3]
+  details.case_stage: [3, 1, 2]
   details.products: [3]
   details.setting: [3, 2, 1]
 status: verified

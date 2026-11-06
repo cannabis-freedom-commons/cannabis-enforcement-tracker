@@ -18,13 +18,17 @@ figures:
   value: { amount: 850000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [in-bsf]
   agency_types: [border-guard]
+  case_stage: investigation
   products: [{product: flower, kg: 17}]
   setting: [border]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

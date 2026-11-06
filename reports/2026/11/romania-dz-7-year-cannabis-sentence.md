@@ -15,10 +15,12 @@ figures:
   kg_seized: 0.003
   prison: 7 years
 details:
+  activity: [possession]
   case_stage: sentenced
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]

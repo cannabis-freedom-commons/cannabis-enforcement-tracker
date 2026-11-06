@@ -20,10 +20,12 @@ figures:
   charged: 3
   value: { amount: 6000000, currency: CAD }
 details:
+  activity: [cultivation]
   agency_types: [police]
   products: [{product: flower, kg: 13.6}, {product: plants, plants: 6000}]
   setting: [home]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2]

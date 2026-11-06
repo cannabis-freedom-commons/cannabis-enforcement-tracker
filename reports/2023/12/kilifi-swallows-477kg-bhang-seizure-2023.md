@@ -36,11 +36,13 @@ details:
   force: shots-fired
   products:
     - {product: edibles}
+  setting: [street]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.force: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]

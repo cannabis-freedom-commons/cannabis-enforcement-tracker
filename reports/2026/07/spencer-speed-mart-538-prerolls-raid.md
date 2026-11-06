@@ -13,8 +13,12 @@ title: 538 pre-rolls and 26 THC vapes seized in Spencer liquor store raid
 summary: >-
   Deputies raided Speed Mart Liquors in Spencer on 16 July 2026 and seized 538 cannabis/THC pre-rolls, 26 THC vapes, $20,307 in suspected proceeds and a BMW X3. The store's owners face possession-with-intent charges; 120 synthetic kratom units also seized are excluded from the cannabis record.
 details:
+  agency_types: [police]
+  case_stage: investigation
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [2, 1]
 media:
   - kind: photo

@@ -19,12 +19,14 @@ figures:
 details:
   agencies: [ca-opp]
   agency_types: [police]
+  case_stage: investigation
   environment: [greenhouse]
   products: [{product: plants}]
   setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
   details.setting: [1]

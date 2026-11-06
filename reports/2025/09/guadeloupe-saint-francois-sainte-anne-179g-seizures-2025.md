@@ -16,11 +16,15 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: flower, kg: 0.17939}]
+  setting: [street]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
   details.products: [1, 2, 3]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/guadeloupe/grande-terre/operations-antidrogue-en-guadeloupe-les-gendarmes-saisissent-cannabis-cocaine-et-crack-a-saint-francois-et-sainte-anne-1623959.html

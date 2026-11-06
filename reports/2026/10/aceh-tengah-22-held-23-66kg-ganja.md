@@ -22,11 +22,13 @@ media:
     publisher: Investigasi.news
     caption: 'Aceh Tengah police hold a press conference on the results of the two-month narcotics operation in Takengon. Photo: BY / Investigasi.news'
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
   details.products: [1]

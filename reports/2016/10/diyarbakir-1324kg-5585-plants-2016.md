@@ -16,11 +16,15 @@ figures:
   plants_destroyed: 5585
   kg_seized: 1324
 details:
+  activity: [sale]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
+  setting: [street]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.setting: [1]
   figures.arrested: [1]
   figures.plants_destroyed: [1]
 status: verified

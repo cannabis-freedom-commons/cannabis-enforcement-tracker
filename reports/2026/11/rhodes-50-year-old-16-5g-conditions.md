@@ -19,9 +19,12 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  case_stage: investigation
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a6cc61f0468bbc322dcaaea0bc33e5a3

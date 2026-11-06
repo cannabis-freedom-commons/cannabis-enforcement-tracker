@@ -12,9 +12,11 @@ title: One of 49 people drug-tested in Da Nang ward sweep is positive for cannab
 summary: >-
   Police in An Hải ward, Da Nang, drug-tested 49 people at lodging businesses and rented flats on the morning of 30 October 2026, and two were positive. One, B.C.C., born in 2004, tested positive for cannabis; the other, P.N.H., born in 1987, tested positive for Etomidate, and no arrest, charge or cannabis seizure has been reported.
 details:
+  activity: [sale]
   agency_types: [police]
   setting: [home]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2, 3]
   details.setting: [1, 2, 3]
 media:

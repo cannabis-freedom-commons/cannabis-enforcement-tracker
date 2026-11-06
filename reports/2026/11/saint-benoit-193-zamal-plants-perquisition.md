@@ -15,12 +15,18 @@ figures:
   arrested: 1
   plants_destroyed: 193
 details:
+  activity: [possession]
   agency_types: [gendarmerie, police]
   case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.activity: [2]
   details.agency_types: [1, 3, 4, 2]
   details.case_stage: [2, 1]
+  details.products: [1, 3, 4, 2]
+  details.sentence_types: [2, 1]
   details.setting: [2, 1]
   figures.plants_destroyed: [1, 3, 4, 2]
 media:

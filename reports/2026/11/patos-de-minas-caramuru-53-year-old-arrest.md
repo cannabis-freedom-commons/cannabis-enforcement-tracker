@@ -17,12 +17,15 @@ details:
   activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   setting: [home]
 data_sources:
   details.activity: [1, 3, 4, 2]
   details.agencies: [1, 3, 4]
   details.agency_types: [1, 3, 4]
+  details.case_stage: [1, 3, 4, 2]
   details.setting: [1, 2, 3, 4]
+  figures.arrested: [1, 3, 4, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8b1f91dbd1a71dc3aba148d671417500

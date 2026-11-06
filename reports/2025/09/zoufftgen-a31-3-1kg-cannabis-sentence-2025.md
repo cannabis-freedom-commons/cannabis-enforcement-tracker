@@ -26,12 +26,14 @@ media:
     publisher: Le Républicain Lorrain
     caption: 'The convicted Belgian defendant before the Thionville criminal court. Photo: Armand Flohr'
 details:
+  activity: [use]
   agencies: [fr-douane]
   agency_types: [customs]
   case_stage: sentenced
   products: [{product: flower, kg: 3.1}]
   setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

@@ -15,6 +15,7 @@ details:
   activity: [cultivation]
   agencies: [Adilabad District Police]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   date_precision: approximate
@@ -23,6 +24,7 @@ data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1]
 media:
   - kind: photo

@@ -19,12 +19,17 @@ details:
   activity: [trafficking, possession]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [2, 1]
+  figures.charged: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9f4149a9e0abf4bb4927a540db7231a4

@@ -19,9 +19,11 @@ figures:
     currency: EUR
 details:
   agency_types: [gendarmerie, military, court]
+  case_stage: investigation
   route: {from: [af], to: [mu]}
 data_sources:
   details.agency_types: [2]
+  details.case_stage: [2, 1]
   details.route: [2, 1, 3]
   figures.kg_seized: [2, 1, 3]
 media:

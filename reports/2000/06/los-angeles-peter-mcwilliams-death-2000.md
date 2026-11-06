@@ -24,10 +24,12 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   products: [{product: flower}, {product: plants, plants: 6000}]
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.charged: [1]
   figures.plants_destroyed: [1, 2]
 status: verified

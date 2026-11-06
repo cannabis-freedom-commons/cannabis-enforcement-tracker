@@ -19,12 +19,16 @@ figures:
     amount: 2600000
     currency: USD
 details:
+  activity: [sale]
   case_stage: sentenced
   products: [{product: edibles}]
+  sentence_types: [prison, fine]
   setting: [home, building, prison]
 data_sources:
+  details.activity: [3, 1]
   details.case_stage: [3, 1]
   details.products: [1, 3]
+  details.sentence_types: [3, 1]
   details.setting: [1, 3]
   figures.fine: [2, 1]
   figures.value: [2, 1]

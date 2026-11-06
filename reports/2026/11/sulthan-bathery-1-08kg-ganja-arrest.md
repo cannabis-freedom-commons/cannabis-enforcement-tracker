@@ -23,14 +23,17 @@ figures:
 details:
   activity: [smuggling, sale]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [border, home]
 data_sources:
   details.activity: [7]
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7]
   details.setting: [7, 1, 2, 3, 4, 5]
+  figures.arrested: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

@@ -21,10 +21,12 @@ details:
   activity: [trafficking]
   agencies: [ke-nps]
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   figures.arrested: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

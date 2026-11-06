@@ -26,6 +26,7 @@ media:
 details:
   activity: [trafficking]
   agency_types: [customs]
+  case_stage: investigation
   setting: [airport]
   environment: [indoor]
   products:
@@ -33,6 +34,7 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 1]
   details.environment: [1]
   details.products: [1]
   details.setting: [2]

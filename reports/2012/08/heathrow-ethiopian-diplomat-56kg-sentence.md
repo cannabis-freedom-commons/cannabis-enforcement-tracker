@@ -20,11 +20,13 @@ figures:
   value: { amount: 160000, currency: GBP }
 details:
   activity: [smuggling]
+  agency_types: [court]
   case_stage: sentenced
   sentence_types: [prison, deportation]
   setting: [airport, prison]
 data_sources:
   details.activity: [2, 1]
+  details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.sentence_types: [2, 1]
   details.setting: [1, 2]

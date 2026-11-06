@@ -19,6 +19,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.environment: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [jumgal, naryn, wild-cannabis, kara-kurai]

@@ -20,12 +20,14 @@ figures:
   kg_seized: 33
 created_by_model: unknown
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: investigation
   environment: [indoor, outdoor]
   products: [{product: hashish, kg: 33}, {product: flower}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]

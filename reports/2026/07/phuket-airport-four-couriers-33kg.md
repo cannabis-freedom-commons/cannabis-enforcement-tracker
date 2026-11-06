@@ -17,10 +17,12 @@ figures:
 details:
   agency_types: [customs, police]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [airport, prison]
 data_sources:
   details.agency_types: [2, 3, 1]
   details.case_stage: [3, 1]
+  details.sentence_types: [3, 1]
   details.setting: [2, 3, 1]
   figures.arrested: [2]
   figures.kg_seized: [1, 2]

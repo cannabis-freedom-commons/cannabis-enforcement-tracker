@@ -24,6 +24,7 @@ details:
   activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [home]
@@ -31,6 +32,7 @@ data_sources:
   details.activity: [2]
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
+  details.case_stage: [2, 3, 1]
   details.products: [1]
   details.setting: [2, 3, 1]
   figures.arrested: [2, 3, 1]

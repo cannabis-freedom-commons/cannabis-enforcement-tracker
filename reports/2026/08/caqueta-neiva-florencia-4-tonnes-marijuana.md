@@ -27,11 +27,13 @@ media:
 details:
   activity: [trafficking]
   agency_types: [military, police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.activity: [3, 2, 1]
   details.agency_types: [2, 3, 1]
+  details.case_stage: [1]
   details.products: [1, 2]
   figures.kg_seized: [1, 2, 3]
 status: verified

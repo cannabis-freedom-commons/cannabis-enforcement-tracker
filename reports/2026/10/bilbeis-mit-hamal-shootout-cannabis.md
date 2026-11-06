@@ -18,6 +18,7 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   environment: [indoor]
   force: lethal
   products:
@@ -25,6 +26,7 @@ details:
 data_sources:
   details.activity: [2, 1, 3]
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1, 3]
   details.environment: [1, 2, 3]
   details.force: [2, 1]
   details.products: [1]

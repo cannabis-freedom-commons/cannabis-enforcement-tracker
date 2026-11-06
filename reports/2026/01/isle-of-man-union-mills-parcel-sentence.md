@@ -22,10 +22,12 @@ figures:
 created_by_model: command-code/deepseek-v4.1-flash#max
 details:
   agency_types: [police, court]
+  case_stage: investigation
   sentence_types: [prison]
   setting: [vehicle, mail, prison]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.prison: [1, 2]

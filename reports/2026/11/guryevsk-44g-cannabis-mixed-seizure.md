@@ -17,9 +17,13 @@ figures:
 details:
   activity: [sale]
   agency_types: [police]
+  case_stage: investigation
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e927bc5467ecd07e638dd358607193e2

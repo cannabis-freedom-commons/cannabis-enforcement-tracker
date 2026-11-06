@@ -20,6 +20,7 @@ figures:
     currency: INR
 details:
   agency_types: [customs]
+  case_stage: investigation
   environment: [indoor]
   products:
     - {product: flower}
@@ -27,6 +28,7 @@ details:
   setting: [airport]
 data_sources:
   details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
   details.environment: [1, 3, 2]
   details.products: [1, 2, 3]
   details.route: [1, 3]

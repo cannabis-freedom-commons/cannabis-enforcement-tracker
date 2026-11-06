@@ -23,12 +23,16 @@ media:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.activity: [4, 5]
   details.agency_types: [1, 5, 4, 7, 2, 3]
+  details.case_stage: [2, 5, 7, 3, 6, 1]
   details.products: [1, 2, 3, 5, 6]
+  details.setting: [1, 5, 4, 7, 2]
   figures.kg_seized: [3, 5, 6, 7, 1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

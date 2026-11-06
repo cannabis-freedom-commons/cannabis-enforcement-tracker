@@ -19,10 +19,12 @@ figures:
   value: { amount: 1500000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   products:
     - {product: hashish}
   setting: [mail]
 data_sources:
+  details.activity: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

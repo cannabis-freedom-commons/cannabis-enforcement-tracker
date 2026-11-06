@@ -21,11 +21,13 @@ details:
   activity: [cultivation]
   agencies: [ng-ndlea, ng-npf]
   agency_types: [anti-narcotics, police]
+  products: [{product: plants}]
   setting: [field, forest]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
   figures.hectares: [1]
 status: verified

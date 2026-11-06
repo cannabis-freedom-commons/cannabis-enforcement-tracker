@@ -31,11 +31,13 @@ details:
   case_stage: charged
   products:
     - {product: hashish}
+  setting: [street]
 data_sources:
   details.activity: [1, 3, 4, 5, 6, 7]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [14, 19]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+  details.setting: [2, 3, 4, 5, 6, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 1285783c35be1725da4ace2af181a0b4

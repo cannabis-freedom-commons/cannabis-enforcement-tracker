@@ -15,10 +15,12 @@ figures:
   plants_destroyed: 17782
 details:
   agency_types: [police]
+  case_stage: investigation
   environment: [wild]
   products: [{product: plants, plants: 17782}]
 data_sources:
   details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3, 1]
   details.environment: [1, 2]
   details.products: [2, 3, 1, 4]
   figures.plants_destroyed: [2]

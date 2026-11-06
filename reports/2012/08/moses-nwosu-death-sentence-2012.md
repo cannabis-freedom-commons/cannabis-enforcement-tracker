@@ -21,11 +21,13 @@ figures:
 created_by_model: meta/muse-spark
 details:
   activity: [trafficking]
+  agency_types: [court]
   case_stage: sentenced
   products: [{product: flower, kg: 14.302}]
   setting: [vehicle]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [2, 1]

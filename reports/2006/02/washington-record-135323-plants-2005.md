@@ -19,11 +19,13 @@ figures:
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   environment: [outdoor]
   products: [{product: flower}, {product: plants, plants: 135323}]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
   figures.plants_destroyed: [1, 2]

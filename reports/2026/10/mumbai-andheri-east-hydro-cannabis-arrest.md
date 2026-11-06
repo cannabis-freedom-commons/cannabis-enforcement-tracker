@@ -19,9 +19,11 @@ figures:
     amount: 6636000
     currency: INR
 details:
+  activity: [smuggling]
   agency_types: [anti-narcotics, police]
   environment: [indoor]
 data_sources:
+  details.activity: [1, 7, 9, 10, 2, 3]
   details.agency_types: [1, 3, 7, 10, 12, 2]
   details.environment: [1, 3, 4, 6, 7, 8]
   figures.arrested: [1, 3, 4, 6, 7, 8]

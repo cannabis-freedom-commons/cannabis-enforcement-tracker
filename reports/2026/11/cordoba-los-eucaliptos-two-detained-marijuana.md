@@ -25,11 +25,13 @@ media:
     publisher: ElDoce.tv
     caption: Second photo accompanying the ElDoce.tv report on the Los Eucaliptos detentions, captioned that the detainees sold drugs in Barrio Los Eucaliptos.
 details:
+  activity: [sale]
   agency_types: [anti-narcotics, police, prosecutor]
   case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]

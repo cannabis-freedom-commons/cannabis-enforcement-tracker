@@ -19,11 +19,16 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [customs]
+  case_stage: investigation
+  sentence_types: [life]
   setting: [airport, mail, prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.value: [1]
 media:
   - kind: photo

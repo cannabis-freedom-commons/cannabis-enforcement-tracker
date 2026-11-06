@@ -18,11 +18,13 @@ figures:
   kg_seized: 40.56
   prison: 9 years (3 suspended)
 details:
+  activity: [sale]
   agency_types: [court]
   case_stage: sentenced
   sentence_types: [prison]
   setting: [border, prison]
 data_sources:
+  details.activity: [3, 1]
   details.agency_types: [1, 3]
   details.case_stage: [3, 1]
   details.sentence_types: [3, 1]

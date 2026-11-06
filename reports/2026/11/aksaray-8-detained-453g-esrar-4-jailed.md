@@ -21,12 +21,14 @@ media:
     publisher: Aksaray Yenigün Gazetesi
     caption: Seized drugs displayed after the Aksaray gendarmerie operation that detained eight suspects.
 details:
+  activity: [sale]
   agency_types: [gendarmerie, prosecutor]
   case_stage: investigation
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
+  details.activity: [1, 4, 6, 3, 5, 7]
   details.agency_types: [1, 3, 6, 2, 4, 7]
   details.case_stage: [1, 3, 6, 2, 4, 7]
   details.products: [1, 3, 4, 5, 6, 7]

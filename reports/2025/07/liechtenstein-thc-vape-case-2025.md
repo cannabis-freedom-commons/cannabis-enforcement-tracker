@@ -11,6 +11,10 @@ summary: >-
   from a seized consignment. A combined CHF2,400 fine remained, with CHF600 expert costs; the
   reported judgment was still open to appeal.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: liechtenstein-thc-vape-case-2025
 sources:

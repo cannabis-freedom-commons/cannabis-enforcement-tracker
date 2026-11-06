@@ -15,11 +15,13 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: plants}]
   setting: [forest]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [2, 1]
   details.setting: [2, 1]
 status: verified

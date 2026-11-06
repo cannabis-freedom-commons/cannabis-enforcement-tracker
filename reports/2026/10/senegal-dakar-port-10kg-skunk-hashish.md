@@ -23,11 +23,13 @@ figures:
 created_by_model: claude-apollo-4-8
 details:
   agency_types: [customs, police]
+  case_stage: investigation
   setting: [port]
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]

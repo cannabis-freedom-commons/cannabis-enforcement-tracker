@@ -14,10 +14,14 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [cultivation]
+  case_stage: investigation
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: fiji-sasamaki-total-2026
 sources:

@@ -25,6 +25,7 @@ details:
   date_precision: publication
   region: Sughd
   route: {from: [af], to: [tj]}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1]
@@ -34,6 +35,7 @@ data_sources:
   details.charges: [1]
   details.products: [1]
   details.route: [1, 3]
+  details.sentence_types: [1, 3]
   details.setting: [1, 3]
   figures.arrested: [1]
   figures.kg_seized: [1]

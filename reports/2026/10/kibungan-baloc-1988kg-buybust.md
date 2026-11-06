@@ -21,10 +21,12 @@ figures:
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower, kg: 19.88}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.kg_seized: [1]
 status: verified

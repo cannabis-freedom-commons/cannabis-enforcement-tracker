@@ -31,12 +31,15 @@ details:
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f50b4679b3ed86d4c7573c6ba2b1a7b4

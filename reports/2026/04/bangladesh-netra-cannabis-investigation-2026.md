@@ -12,8 +12,10 @@ summary: >-
   cent of seizures by weight, while heroin and cocaine together were under 1 per cent.
 created_by_model: unknown
 details:
+  activity: [sale]
   agency_types: [police]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
 status: verified
 cfi_id: bangladesh-netra-cannabis-investigation-2026

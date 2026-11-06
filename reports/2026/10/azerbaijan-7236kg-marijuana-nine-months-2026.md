@@ -17,11 +17,15 @@ figures:
   kg_seized: 7490.53271
 details:
   activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
   details.activity: [2, 3]
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 1]
   details.products: [2]
   figures.charged: [2, 3]
   figures.plants_destroyed: [2, 1]

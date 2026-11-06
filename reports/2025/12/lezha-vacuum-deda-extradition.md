@@ -25,12 +25,14 @@ details:
   activity: [cultivation]
   agencies: [int-interpol]
   agency_types: [police]
+  case_stage: investigation
   environment: [greenhouse]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [3, 2]
   details.environment: [1, 3]
   details.setting: [1, 3]
   figures.kg_seized: [2]

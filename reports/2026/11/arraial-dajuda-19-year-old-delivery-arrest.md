@@ -24,6 +24,7 @@ details:
     - {product: flower}
     - {product: hashish}
   activity: [sale, trafficking]
+  sentence_types: [prison]
   setting: [home]
   case_stage: investigation
   date_precision: exact
@@ -35,6 +36,7 @@ data_sources:
   details.case_stage: [2]
   details.force: [3]
   details.products: [1]
+  details.sentence_types: [3, 2, 1]
   details.setting: [2]
   figures.arrested: [1]
   figures.cash: [2]

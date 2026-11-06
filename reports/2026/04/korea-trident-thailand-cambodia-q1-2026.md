@@ -20,10 +20,12 @@ media:
 details:
   activity: [smuggling]
   agency_types: [customs]
+  case_stage: investigation
   products: [{product: flower}]
 data_sources:
   details.activity: [3]
   details.agency_types: [1, 3]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

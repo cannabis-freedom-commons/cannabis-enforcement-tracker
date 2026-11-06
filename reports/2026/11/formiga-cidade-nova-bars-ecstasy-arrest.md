@@ -27,12 +27,16 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.activity: [1, 2, 3]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 3]
   details.products: [1]
+  details.setting: [1, 3]
+  figures.arrested: [1, 3]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4c2c67cf5dd6d7e07d1fb3c26b9ab639

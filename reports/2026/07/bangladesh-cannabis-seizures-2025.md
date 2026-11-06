@@ -11,6 +11,10 @@ summary: >-
   narcotics of all kinds. Authorities seized 96,358 kg of cannabis in 2025, down from 114,345 kg in
   2024.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: bangladesh-cannabis-seizures-2025
 tags:

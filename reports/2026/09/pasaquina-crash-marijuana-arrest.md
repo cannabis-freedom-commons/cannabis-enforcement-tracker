@@ -18,13 +18,16 @@ details:
   agency_types: [police]
   case_stage: sentenced
   products: [{product: flower}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1, 3]
   details.case_stage: [1]
   details.products: [2, 1, 3]
+  details.sentence_types: [1]
   details.setting: [1]
+  figures.arrested: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/el-salvador/2026/09/07/capturan-a-hombre-tras-hallar-marihuana-en-vehiculo-involucrado-en-accidente-en-el-oriente-salvadoreno/

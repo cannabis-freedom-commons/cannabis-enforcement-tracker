@@ -15,8 +15,10 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [prosecutor]
+  setting: [home]
 data_sources:
   details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: congo-owando-cannabis-arrests-2024
 tags:

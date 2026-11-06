@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2, 4]
   details.products: [3, 1, 2, 4]
   figures.arrested: [3]
+  figures.charged: [1, 2, 4]
 media:
   - kind: photo
     url: https://newsday.co.tt/2021/07/19/sort-in-major-ganja-bust-on-uriah-butler-highway/

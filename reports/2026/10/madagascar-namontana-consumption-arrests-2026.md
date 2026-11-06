@@ -10,8 +10,10 @@ summary: Police arrested 19 men for consuming cannabis at Namontana, Antananariv
 created_by_model: unknown
 details:
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   figures.arrested: [1, 2]
 status: verified
 cfi_id: madagascar-namontana-consumption-arrests-2026

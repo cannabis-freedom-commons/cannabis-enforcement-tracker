@@ -15,11 +15,13 @@ summary: >-
 details:
   activity: [trafficking]
   agency_types: [customs, police]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [3, 5, 2, 4, 1]
   details.agency_types: [1, 3, 2, 4, 5]
+  details.case_stage: [2, 4, 3, 5]
   details.products: [2, 4, 1]
   details.setting: [2, 4, 3, 5]
 media:

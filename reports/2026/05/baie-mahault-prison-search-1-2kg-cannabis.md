@@ -31,10 +31,12 @@ media:
     caption: Gendarmes inside the Baie-Mahault prison during the 22 May search.
 details:
   agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   products: [{product: hashish, kg: 1.256}, {product: flower}]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [2, 3, 1]
   details.setting: [1, 3]
 status: verified

@@ -17,11 +17,13 @@ figures:
   value: { amount: 155000000, currency: AUD }
 details:
   agency_types: [military]
+  case_stage: investigation
   setting: [port]
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1]

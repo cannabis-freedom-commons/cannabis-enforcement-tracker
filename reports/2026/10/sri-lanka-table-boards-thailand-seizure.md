@@ -20,13 +20,17 @@ figures:
   value: { amount: 157000000, currency: LKR }
 created_by_model: unknown
 details:
+  activity: [smuggling]
   agency_types: [customs, police]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [th], to: [lk]}
   setting: [home, building]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

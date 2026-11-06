@@ -22,12 +22,14 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [vehicle]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [3, 1, 2]
+  details.case_stage: [3, 2]
   details.products: [1]
   details.setting: [2, 3]
   figures.arrested: [3, 1, 2]

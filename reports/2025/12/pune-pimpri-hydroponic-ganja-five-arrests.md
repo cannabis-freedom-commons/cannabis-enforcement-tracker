@@ -20,12 +20,14 @@ details:
   case_stage: investigation
   environment: [indoor]
   products: [{product: hashish, kg: 1.194}, {product: flower}]
+  setting: [home, mail]
 data_sources:
   details.activity: [3, 2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.environment: [2]
   details.products: [2, 3, 1]
+  details.setting: [3, 2, 1]
   figures.arrested: [1, 2]
   figures.kg_seized: [3, 2]
 status: verified

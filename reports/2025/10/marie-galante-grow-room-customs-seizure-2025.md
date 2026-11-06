@@ -35,11 +35,14 @@ details:
   agency_types: [customs, gendarmerie]
   environment: [indoor]
   products: [{product: flower, kg: 0.303}, {product: plants, plants: 13}]
+  setting: [home, building]
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 3, 2]
   details.environment: [3]
   details.products: [1, 3]
+  details.setting: [1, 3]
+  figures.plants_destroyed: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4513e666899683f1663b9680cba99182

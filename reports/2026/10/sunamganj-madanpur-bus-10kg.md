@@ -23,9 +23,11 @@ media:
     caption: The arrested man, his face blurred, before a press-briefing banner; photo published with the Daily SunamKantha report.
 details:
   activity: [trafficking, sale]
+  agency_types: [police]
   setting: [vehicle]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   activity: [cultivation]
   agency_types: [court]
+  products: [{product: plants}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: india-kerala-hc-potted-cannabis-2025
 sources:

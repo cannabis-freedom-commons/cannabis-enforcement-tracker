@@ -26,11 +26,14 @@ media:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   setting: [mail]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kalahandi, odisha, ganja, courier, excise]

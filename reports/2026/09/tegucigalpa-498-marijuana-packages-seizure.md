@@ -12,10 +12,12 @@ summary: >-
   Honduran National Police said meticulous investigation and intelligence work led to the seizure of 498 packages of marijuana bound for Tegucigalpa. The drugs were moved to the capital to continue the investigation; the announcement gives no weight, seizure location, arrests or court outcome.
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

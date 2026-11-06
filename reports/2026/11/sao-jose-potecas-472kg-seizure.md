@@ -27,13 +27,16 @@ media:
     caption: 'Civil Police officers stand behind a table of brick-shaped marijuana packages and evidence bags labelled in Portuguese during the 472 kg seizure in São José. Photo: Divulgação/Polícia Civil de Santa Catarina (agency handout republished by the outlet)'
 details:
   agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [prison]
 data_sources:
   details.agency_types: [1, 3, 5, 2, 4, 6]
+  details.case_stage: [1, 2, 3, 4, 6]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 3, 5, 2, 4]
+  figures.arrested: [1, 3, 5, 2]
   figures.kg_seized: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -17,15 +17,18 @@ figures:
   kg_seized: 2.9
 details:
   agency_types: [police, prosecutor]
+  case_stage: investigation
   environment: [indoor]
   products:
     - {product: flower}
   setting: [mail]
 data_sources:
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 3, 4, 2]
   details.environment: [2, 1]
   details.products: [1]
   details.setting: [3, 4, 1, 2]
+  figures.arrested: [3, 4, 1, 2]
   figures.kg_seized: [3, 4, 1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

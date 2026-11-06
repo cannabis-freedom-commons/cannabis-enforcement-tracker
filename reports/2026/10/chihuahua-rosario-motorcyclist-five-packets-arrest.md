@@ -18,10 +18,12 @@ details:
   agency_types: [police, prosecutor]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [street]
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2a529a833182412146392e4b1cc583f5

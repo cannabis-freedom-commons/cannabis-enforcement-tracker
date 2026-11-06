@@ -17,12 +17,14 @@ figures:
   kg_seized: 0.07
 details:
   agency_types: [gendarmerie, police]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2, 3]

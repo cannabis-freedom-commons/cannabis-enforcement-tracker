@@ -11,6 +11,10 @@ summary: >-
   Oubangui river, in Boy-Rabe and at Combattant market. Radio Ndeke Luka reported that the seizures
   took place from 14 to 20 October, before the destruction on 5 November.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: car-bangui-seized-cannabis-destroyed-2024
 tags:

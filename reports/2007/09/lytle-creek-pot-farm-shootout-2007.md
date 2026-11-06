@@ -18,11 +18,14 @@ summary: >-
 figures:
   deaths: 1
 details:
+  agency_types: [police]
   products: [{product: flower}, {product: plants}]
   setting: [field, forest]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.deaths: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [san-bernardino, eradication-raid, camp]

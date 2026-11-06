@@ -18,11 +18,13 @@ figures:
   kg_seized: 272.65
   value: { amount: 1100000, currency: ZAR }
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 272.65}]
   setting: [port]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]

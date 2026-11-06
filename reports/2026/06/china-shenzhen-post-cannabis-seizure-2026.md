@@ -16,10 +16,12 @@ figures:
 details:
   activity: [smuggling, trafficking]
   agency_types: [customs]
+  case_stage: investigation
   setting: [field, mail]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5

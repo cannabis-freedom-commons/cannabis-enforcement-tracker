@@ -17,10 +17,12 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [coast-guard, military, police]
+  case_stage: investigation
   products: [{product: flower, kg: 353.6}]
 data_sources:
   details.activity: [1, 3, 4, 5, 6]
   details.agency_types: [1, 2, 4, 5, 6, 3]
+  details.case_stage: [1, 4, 6, 5, 3]
   details.products: [1, 4, 5, 6, 3]
   figures.kg_seized: [1, 4, 6, 3, 5]
 status: verified

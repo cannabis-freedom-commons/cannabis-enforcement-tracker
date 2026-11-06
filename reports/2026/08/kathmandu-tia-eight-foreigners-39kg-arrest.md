@@ -17,12 +17,14 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products: [{product: flower, kg: 39.288}]
   route: {from: [th], to: [np]}
   setting: [airport, port, vehicle]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [2, 1]
   details.route: [1, 2]
   details.setting: [1, 2]

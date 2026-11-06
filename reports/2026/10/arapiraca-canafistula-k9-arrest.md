@@ -24,6 +24,7 @@ details:
   activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   force: physical
   products:
     - {product: flower}
@@ -32,9 +33,11 @@ data_sources:
   details.activity: [2, 5, 3, 4, 6]
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
+  details.case_stage: [2, 6, 5]
   details.force: [2, 5, 6]
   details.products: [2, 5, 6]
   details.setting: [1, 2, 5, 6, 3, 4]
+  figures.arrested: [1]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3238a325db140b597a1ddcacef2d741d

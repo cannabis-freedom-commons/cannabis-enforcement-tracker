@@ -21,6 +21,7 @@ figures:
 details:
   activity: [trafficking]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [prison]
   products:
     - {product: hashish}
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5

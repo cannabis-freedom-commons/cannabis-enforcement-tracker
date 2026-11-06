@@ -18,9 +18,12 @@ summary: >-
 details:
   agency_types: [police]
   case_stage: investigation
+  setting: [street]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.setting: [1]
+  figures.arrested: [1]
 status: verified
 tags: [psni, record-seizure]
 open_questions:

@@ -21,12 +21,14 @@ details:
   case_stage: sentenced
   environment: [indoor]
   products: [{product: plants, plants: 2140}]
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.environment: [1]
   details.products: [1]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]

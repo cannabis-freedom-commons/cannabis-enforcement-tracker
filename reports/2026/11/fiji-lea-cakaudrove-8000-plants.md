@@ -16,6 +16,7 @@ figures:
 details:
   agencies: [Northern Division Taskforce, Republic of Fiji Military Forces]
   agency_types: [police, military]
+  case_stage: investigation
   products:
     - {product: plants, plants: 8000}
   activity: [cultivation]
@@ -26,6 +27,7 @@ data_sources:
   details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 3, 1, 4]
   details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]

@@ -16,9 +16,11 @@ figures:
   plants_destroyed: 440000
 details:
   agency_types: [military, police]
+  case_stage: investigation
   products: [{product: plants, plants: 440000}]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.products: [2]
   figures.plants_destroyed: [1]
 status: verified

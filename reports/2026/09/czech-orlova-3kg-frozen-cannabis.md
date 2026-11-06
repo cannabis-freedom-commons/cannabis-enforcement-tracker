@@ -19,11 +19,14 @@ figures:
 details:
   agency_types: [police]
   case_stage: investigation
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [3, 2, 1]
   details.case_stage: [3, 2]
+  details.sentence_types: [3, 1]
   details.setting: [3, 1]
+  figures.arrested: [3, 2]
   figures.kg_seized: [3, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

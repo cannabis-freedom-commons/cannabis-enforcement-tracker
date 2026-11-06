@@ -19,11 +19,13 @@ figures:
   kg_seized: 3800
   value: { amount: 11000000, currency: GBP }
 details:
+  agency_types: [police]
   case_stage: sentenced
   products: [{product: hashish, kg: 3800}]
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
   details.sentence_types: [1, 2]

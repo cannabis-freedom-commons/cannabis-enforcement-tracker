@@ -27,12 +27,16 @@ media:
 details:
   activity: [trafficking]
   agency_types: [customs]
+  case_stage: investigation
   products: [{product: flower, kg: 5}]
+  sentence_types: [life]
   setting: [airport]
 data_sources:
   details.activity: [1]
   details.agency_types: [2, 3, 4, 5, 1]
+  details.case_stage: [2, 3, 4, 5, 1]
   details.products: [2, 3, 4, 5, 1]
+  details.sentence_types: [1]
   details.setting: [2, 3, 4, 5]
   figures.arrested: [2, 3, 4, 5, 1]
   figures.kg_seized: [2, 3, 4, 5, 1]

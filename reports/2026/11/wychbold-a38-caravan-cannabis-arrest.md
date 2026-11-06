@@ -15,11 +15,16 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [use]
   agency_types: [police]
+  case_stage: investigation
   setting: [vehicle]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
 media:
   - kind: photo
     url: https://www.worcesternews.co.uk/news/26692611.wychbold-drug-driving-arrest-man-55-caravan-stop/

@@ -16,10 +16,12 @@ figures:
   arrested: 5
   kg_seized: 6.84
 details:
+  activity: [sale]
   agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
   figures.arrested: [1]

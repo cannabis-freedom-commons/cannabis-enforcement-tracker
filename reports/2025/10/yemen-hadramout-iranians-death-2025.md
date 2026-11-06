@@ -12,6 +12,10 @@ summary: >-
   ordered the drugs destroyed and the seized items confiscated, and the justice ministry said the
   case was part of efforts against transnational organised crime.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: yemen-hadramout-iranians-death-2025
 sources:

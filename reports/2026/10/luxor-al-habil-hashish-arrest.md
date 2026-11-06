@@ -18,13 +18,17 @@ figures:
 details:
   activity: [sale]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1, 3, 4, 2]
   details.agency_types: [2, 1, 3, 4]
+  details.case_stage: [1, 3, 4]
   details.products: [1, 3, 4]
+  details.sentence_types: [2, 1, 3, 4]
   details.setting: [2, 1, 3, 4]
   figures.arrested: [2]
   figures.kg_seized: [1, 3, 4]

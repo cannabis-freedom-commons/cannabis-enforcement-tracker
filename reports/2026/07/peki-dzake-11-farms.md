@@ -21,10 +21,12 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [2]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1, 2]
   figures.hectares: [1, 2]
 status: verified
 tags: [volta, dleu, eradication]

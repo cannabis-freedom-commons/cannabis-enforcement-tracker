@@ -19,10 +19,12 @@ figures:
     currency: XAF
 details:
   activity: [trafficking]
+  agency_types: [court]
   case_stage: investigation
   setting: [mail, prison]
 data_sources:
   details.activity: [1, 2, 3]
+  details.agency_types: [3, 1]
   details.case_stage: [3, 1]
   details.setting: [2, 1, 3]
   figures.value: [2, 1]

@@ -25,6 +25,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   figures.charged: [1]
+  figures.hectares: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ncb, mandi, malana, eradication-drive]

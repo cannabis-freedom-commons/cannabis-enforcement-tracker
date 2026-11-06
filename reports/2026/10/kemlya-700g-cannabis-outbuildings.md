@@ -17,10 +17,12 @@ figures:
 details:
   activity: [possession]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 0.7}]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [2, 1]
 media:
   - kind: photo

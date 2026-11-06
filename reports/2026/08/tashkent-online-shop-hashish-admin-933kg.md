@@ -15,12 +15,14 @@ figures:
   arrested: 1
   kg_seized: 9.33
 details:
+  agency_types: [police]
   case_stage: sentenced
   products:
     - {product: hashish}
   sentence_types: [prison]
   setting: [prison]
 data_sources:
+  details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.products: [2]
   details.sentence_types: [2, 1]

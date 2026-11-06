@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [3, 4, 5, 6, 7, 9]
   details.products: [1, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
   details.setting: [3, 4, 5, 6, 7, 9]
+  figures.arrested: [3, 4, 5, 6, 7, 9]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4786bdc1ac152d381e14cd9caedc363e

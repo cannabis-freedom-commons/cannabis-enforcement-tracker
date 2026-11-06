@@ -14,10 +14,12 @@ figures:
   kg_seized: 4
 details:
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [1]
   figures.kg_seized: [1]
 status: verified

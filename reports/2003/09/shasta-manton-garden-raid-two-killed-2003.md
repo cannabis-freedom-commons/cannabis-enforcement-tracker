@@ -17,13 +17,17 @@ figures:
   deaths: 2
   plants_destroyed: 27262
 details:
+  activity: [cultivation]
   agencies: [us-camp]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   force: lethal
   products: [{product: flower}, {product: plants, plants: 27262}]
 data_sources:
+  details.activity: [1, 3]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2]
   details.force: [1, 3]
   details.products: [1, 3, 2]
   figures.deaths: [1, 3]

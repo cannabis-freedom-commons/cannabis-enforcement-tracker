@@ -15,13 +15,19 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [sale]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  sentence_types: [life, fine]
   setting: [prison]
 data_sources:
+  details.activity: [1, 7, 10, 2, 6, 8]
   details.agency_types: [1, 7, 10, 2, 6, 8]
+  details.case_stage: [1, 7, 11, 3, 9, 10]
   details.products: [1, 2, 5, 7, 8, 10, 11]
+  details.sentence_types: [2, 5, 8, 10, 11, 1]
   details.setting: [2, 5, 8, 10, 11, 1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

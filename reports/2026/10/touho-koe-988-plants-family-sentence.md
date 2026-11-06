@@ -23,12 +23,14 @@ figures:
     amount: 3660000
     currency: XPF
 details:
+  activity: [sale]
   agency_types: [gendarmerie, prosecutor]
   case_stage: sentenced
   products: [{product: flower}, {product: plants, plants: 988}]
   sentence_types: [fine, probation, community-service]
   setting: [school]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

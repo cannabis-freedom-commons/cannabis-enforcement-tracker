@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.charged: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c94e6dd08970ae1e120de90dd30b8806

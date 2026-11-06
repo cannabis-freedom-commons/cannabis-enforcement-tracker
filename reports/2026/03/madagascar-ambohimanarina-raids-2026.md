@@ -12,8 +12,10 @@ summary: >-
   jailed at Antanimora.
 created_by_model: unknown
 details:
+  activity: [sale]
   setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.setting: [1]
 status: verified
 cfi_id: madagascar-ambohimanarina-raids-2026

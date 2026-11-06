@@ -19,11 +19,15 @@ media:
     publisher: The Times of India
     caption: Police officials destroying the seized cannabis in the incinerator.
 details:
+  activity: [smuggling]
   agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.kg_seized: [1]
 status: verified

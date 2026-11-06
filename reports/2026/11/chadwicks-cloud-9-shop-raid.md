@@ -15,13 +15,19 @@ figures:
   arrested: 1
   charged: 1
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: charged
   products: [{product: flower}]
+  setting: [building, shop, street]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.charged: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 7456144ef112e423476f37563c3853f0

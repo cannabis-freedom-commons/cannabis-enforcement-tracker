@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [6]
   details.products: [5, 3, 2, 1]
   details.setting: [2, 1, 3, 6, 4, 5]
+  figures.arrested: [6]
   figures.kg_seized: [5, 3, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max

@@ -20,9 +20,11 @@ media:
     caption: 'Customs photo of the cannabis found in mattresses at Luxembourg. Photo: Administration des douanes et accises'
 details:
   agency_types: [customs, prosecutor]
+  case_stage: investigation
   setting: [airport]
 data_sources:
   details.agency_types: [3, 5, 2, 4, 1]
+  details.case_stage: [2, 4, 5, 3]
   details.setting: [3, 5]
   figures.kg_seized: [2, 4, 5, 3]
 status: verified

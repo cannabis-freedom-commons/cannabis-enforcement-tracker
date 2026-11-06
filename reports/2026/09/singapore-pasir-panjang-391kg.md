@@ -21,10 +21,12 @@ created_by_model: unknown
 details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
+  sentence_types: [death]
   setting: [port]
 data_sources:
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
+  details.sentence_types: [1, 2, 4]
   details.setting: [1, 2, 4]
   figures.kg_seized: [1, 2, 3, 4, 5]
 status: verified

@@ -18,12 +18,14 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [police]
+  case_stage: investigation
   environment: [greenhouse]
   products: [{product: flower, kg: 1.482}]
   setting: [home]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
   details.setting: [1, 2, 3]

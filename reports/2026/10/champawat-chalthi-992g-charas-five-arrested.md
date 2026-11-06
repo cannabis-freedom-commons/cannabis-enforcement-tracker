@@ -24,11 +24,13 @@ media:
     caption: Men with their faces obscured, photographed in connection with the Chalthi checkpoint arrest; the page gives no caption or credit.
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [border, prison]
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1, 3]
   figures.arrested: [3, 1]

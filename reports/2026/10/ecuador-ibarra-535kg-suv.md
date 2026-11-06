@@ -22,10 +22,12 @@ figures:
 created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
 details:
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 535.03}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [2]
   figures.arrested: [1, 2]

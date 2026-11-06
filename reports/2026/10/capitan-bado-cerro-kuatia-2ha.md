@@ -17,7 +17,10 @@ figures:
   hectares: 2
   kg_seized: 2000
 created_by_model: xai/grok-4.7
+details:
+  agency_types: [police]
 data_sources:
+  details.agency_types: [1]
   figures.kg_seized: [1, 2]
 status: verified
 tags: [amambay, sumar, capitan-bado]

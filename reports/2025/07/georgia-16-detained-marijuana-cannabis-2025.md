@@ -20,6 +20,7 @@ details:
   environment: [greenhouse]
   products:
     - {product: flower}
+  sentence_types: [life]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 2]
@@ -27,6 +28,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.environment: [2, 1]
   details.products: [2]
+  details.sentence_types: [2, 1]
   details.setting: [2, 1]
   figures.arrested: [1]
 status: verified

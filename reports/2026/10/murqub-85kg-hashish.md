@@ -19,11 +19,13 @@ figures:
   kg_seized: 85
 details:
   agency_types: [anti-narcotics, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [vehicle]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

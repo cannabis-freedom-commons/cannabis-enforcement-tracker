@@ -20,9 +20,11 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [gendarmerie]
+  case_stage: investigation
 data_sources:
   details.activity: [2]
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   figures.arrested: [2]
   figures.kg_seized: [2]
 status: verified

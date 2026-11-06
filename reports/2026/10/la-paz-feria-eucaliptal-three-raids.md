@@ -13,11 +13,17 @@ title: Three La Paz raids over gun abuse find suspected cannabis
 summary: >-
   Police carried out three simultaneous raids in La Paz, Entre Ríos on 30 October 2026 in a firearms-abuse case and seized packets of suspected cocaine and cannabis plus a precision scale. The Dangerous Drugs division intervened and the seized substances await laboratory testing, with no weights or arrests given.
 details:
+  activity: [sale]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://lagacetaonline.com.ar/policiales/tres-allanamientos-en-la-paz-por-abuso-de-armas-encontraron-cocaina-y-marihuana/

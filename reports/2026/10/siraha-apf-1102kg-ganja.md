@@ -15,8 +15,10 @@ figures:
   kg_seized: 1102.655
 details:
   agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
 media:
   - kind: photo
     url: https://www.ratopati.com/story/596256/armed-police-seize-1100-kg-of-marijuana-from-siraha

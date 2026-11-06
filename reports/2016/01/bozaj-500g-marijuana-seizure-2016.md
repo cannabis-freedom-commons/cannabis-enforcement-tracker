@@ -15,10 +15,12 @@ figures:
 details:
   activity: [smuggling]
   agency_types: [customs, border-guard, police, prosecutor]
+  case_stage: investigation
   products: [{product: flower, kg: 0.5}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 media:
   - kind: photo

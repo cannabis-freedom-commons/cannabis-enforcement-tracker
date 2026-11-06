@@ -17,11 +17,13 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [prosecutor]
+  case_stage: investigation
   products: [{product: flower, kg: 44}]
   route: {from: [ni], to: [sv]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.route: [1]
   figures.arrested: [1]

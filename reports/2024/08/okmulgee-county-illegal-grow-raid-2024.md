@@ -15,8 +15,12 @@ summary: >-
   more than 3,000 plants, three firearms and $25,000 in cash. No arrests were reported.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
+  case_stage: investigation
   products: [{product: flower, kg: 564.27}, {product: plants}]
 data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

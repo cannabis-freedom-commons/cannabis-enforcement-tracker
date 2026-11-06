@@ -29,12 +29,14 @@ media:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
   setting: [port, vehicle]
 data_sources:
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
+  details.case_stage: [1, 4, 3, 2]
   details.products: [3, 4]
   details.setting: [3, 4, 1, 2]
   figures.arrested: [3, 4, 1]

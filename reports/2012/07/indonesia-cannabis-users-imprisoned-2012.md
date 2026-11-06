@@ -12,8 +12,10 @@ summary: >-
   circular were meant to send users to rehabilitation.
 created_by_model: unknown
 details:
+  agency_types: [court]
   setting: [prison]
 data_sources:
+  details.agency_types: [1]
   details.setting: [1]
 status: verified
 cfi_id: indonesia-cannabis-users-imprisoned-2012

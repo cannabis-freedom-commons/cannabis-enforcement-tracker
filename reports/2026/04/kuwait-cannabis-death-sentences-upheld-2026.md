@@ -16,10 +16,12 @@ details:
   activity: [trafficking]
   agency_types: [coast-guard]
   products: [{product: hashish}]
+  sentence_types: [death]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: kuwait-cannabis-death-sentences-upheld-2026
 sources:

@@ -22,11 +22,13 @@ created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
 details:
   activity: [cultivation]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products: [{product: plants}]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1, 2]

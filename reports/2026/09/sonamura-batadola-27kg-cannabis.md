@@ -24,13 +24,17 @@ media:
     caption: BSF and police personnel with the seized wrapped cannabis packets, in the photograph Tripura Star News published with the report.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [in-bsf]
   agency_types: [border-guard]
+  case_stage: investigation
   products: [{product: flower, kg: 27}]
   setting: [border]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

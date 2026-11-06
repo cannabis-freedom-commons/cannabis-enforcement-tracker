@@ -21,12 +21,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling, cultivation]
   agency_types: [customs, police]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [field, home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

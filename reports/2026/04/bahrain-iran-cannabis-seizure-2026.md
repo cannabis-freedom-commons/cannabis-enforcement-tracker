@@ -14,8 +14,10 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [smuggling]
+  case_stage: investigation
 data_sources:
   details.activity: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 cfi_id: bahrain-iran-cannabis-seizure-2026
 sources:

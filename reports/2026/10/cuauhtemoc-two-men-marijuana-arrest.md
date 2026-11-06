@@ -22,15 +22,19 @@ media:
     publisher: Segundo a Segundo
     caption: A man stands between an AEI investigator and a Sedena soldier in front of a Fiscalía de Distrito Zona Occidente backdrop; no photo credit is shown.
 details:
+  activity: [sale]
   agencies: [mx-sedena]
   agency_types: [military]
   case_stage: investigation
   products: [{product: flower, kg: 0.243}]
+  setting: [street]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [2, 1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

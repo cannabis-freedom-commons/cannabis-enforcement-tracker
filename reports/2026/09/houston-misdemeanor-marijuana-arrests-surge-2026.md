@@ -16,11 +16,13 @@ details:
   activity: [trafficking, possession]
   agency_types: [police]
   products: [{product: flower}]
+  sentence_types: [fine]
   setting: [prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]
 status: verified

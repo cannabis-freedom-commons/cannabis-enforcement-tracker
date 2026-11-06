@@ -21,11 +21,13 @@ media:
     publisher: Diário do Rio Doce
     caption: 'The 23 cannabis bars seized in Governador Valadares, displayed on a table with a PMMG sign. Photo: Comando Geral'
 details:
+  activity: [sale]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

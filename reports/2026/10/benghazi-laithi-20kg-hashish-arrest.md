@@ -15,9 +15,13 @@ figures:
   arrested: 1
   kg_seized: 20
 details:
+  activity: [sale]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2, 3]
   figures.arrested: [1, 3, 2]
   figures.kg_seized: [1, 2, 3]

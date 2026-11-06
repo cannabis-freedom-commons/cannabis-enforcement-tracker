@@ -22,11 +22,13 @@ media:
     caption: Photo linked to the hashish seizure in the Pikine-Technopole operation.
 details:
   agency_types: [customs, police]
+  case_stage: investigation
   products:
     - {product: hashish}
   setting: [home, building, mail]
 data_sources:
   details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2]
   figures.arrested: [2, 1]

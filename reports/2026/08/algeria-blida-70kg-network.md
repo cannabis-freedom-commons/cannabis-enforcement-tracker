@@ -21,11 +21,13 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products: [{product: hashish, kg: 70}]
   route: {from: [ma], to: [dz]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.route: [1]
   figures.kg_seized: [1]

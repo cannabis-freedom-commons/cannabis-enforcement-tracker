@@ -25,15 +25,18 @@ media:
     caption: A man in custody flanked by Saligao police officers after the arrest at Marra, Pilerne; the faces are blurred in the published photo and no credit is given.
 details:
   agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: flower}
   sentence_types: [fine]
   setting: [home]
 data_sources:
   details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [3, 4, 1]
   details.products: [1, 4]
   details.sentence_types: [3, 4, 1]
   details.setting: [4]
+  figures.arrested: [1, 4, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ab9546f0c12e85c5aa769b458743f45d

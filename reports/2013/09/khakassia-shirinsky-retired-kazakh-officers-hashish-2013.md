@@ -24,6 +24,7 @@ media:
     caption: 'Photo of the seized smuggled hashish. Photo: r-19.ru'
 details:
   activity: [smuggling]
+  agency_types: [police]
   case_stage: sentenced
   products:
     - {product: hashish}
@@ -31,6 +32,7 @@ details:
   setting: [vehicle, prison]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.sentence_types: [1, 2]

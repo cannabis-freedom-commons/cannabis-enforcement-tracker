@@ -11,9 +11,13 @@ title: Pistol with 15 rounds and drugs seized on fans' bus in Entre Ríos
 summary: >-
   Gendarmería officers stopped a bus of football supporters bound for Uruguay at Puerto Unzué, Entre Ríos, and seized cocaine and marijuana doses. They also found a loaded 9mm pistol with 15 rounds hidden in the air-conditioning panel; a federal court ordered the seizure.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products: [{product: flower}]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 media:

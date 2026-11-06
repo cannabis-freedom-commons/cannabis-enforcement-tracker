@@ -16,8 +16,12 @@ figures:
   charged: 1
 details:
   case_stage: charged
+  setting: [building]
 data_sources:
   details.case_stage: [1, 4]
+  details.setting: [1, 4, 2, 3]
+  figures.arrested: [1, 4]
+  figures.charged: [1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1ddc22eba5f366711ce9b8349617522c

@@ -45,6 +45,7 @@ data_sources:
   details.products: [1, 2, 4, 6, 8, 9, 10, 11, 13, 14]
   details.route: [9, 11, 13]
   details.setting: [18, 19, 20, 9, 16]
+  figures.arrested: [1, 2, 4, 14, 5, 6]
   figures.kg_seized: [1, 2, 4, 14, 5, 6]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

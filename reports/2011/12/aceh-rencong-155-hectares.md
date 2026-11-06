@@ -22,11 +22,13 @@ figures:
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: plants, plants: 1500000}]
   setting: [forest]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1]

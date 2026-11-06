@@ -32,13 +32,17 @@ details:
   activity: [smuggling, trafficking]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [street]
 data_sources:
   details.activity: [2, 3, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [3, 2, 1]
   details.products: [1, 2, 3]
+  details.setting: [3, 2, 1]
   figures.arrested: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

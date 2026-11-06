@@ -16,9 +16,11 @@ figures:
   kg_seized: 200
 details:
   agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   setting: [border, vehicle, mail]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]

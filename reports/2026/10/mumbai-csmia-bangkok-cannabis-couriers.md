@@ -20,11 +20,13 @@ figures:
 created_by_model: unknown
 details:
   activity: [smuggling]
+  agency_types: [police]
   case_stage: investigation
   setting: [airport]
   route: {from: [th], to: [in]}
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.route: [1]
   details.setting: [1]

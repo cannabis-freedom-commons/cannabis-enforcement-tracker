@@ -16,9 +16,11 @@ created_by_model: unknown
 details:
   activity: [trafficking]
   agency_types: [court]
+  case_stage: convicted
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1]
 status: verified
 cfi_id: macau-cannabis-sharing-ruling-2004
 tags:

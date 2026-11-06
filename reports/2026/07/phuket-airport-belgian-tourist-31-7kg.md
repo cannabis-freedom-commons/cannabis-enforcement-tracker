@@ -19,12 +19,16 @@ details:
   activity: [smuggling, trafficking]
   agency_types: [customs, police]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [airport, prison]
 data_sources:
   details.activity: [2, 1, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [3, 2, 1]
+  details.sentence_types: [3, 2, 1]
   details.setting: [1, 3, 2]
+  figures.arrested: [1]
+  figures.charged: [2, 3]
   figures.kg_seized: [2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -20,11 +20,13 @@ details:
   activity: [cultivation]
   agencies: [in-excise]
   agency_types: [regulator]
+  products: [{product: plants, plants: 58800}]
   setting: [field, forest]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified

@@ -16,11 +16,14 @@ figures:
   arrested: 1
   kg_seized: 226.8
 details:
+  agency_types: [police]
   products: [{product: flower, kg: 226.8}]
   setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1]
+  figures.arrested: [1]
   figures.kg_seized: [1, 2]
 media:
   - kind: photo

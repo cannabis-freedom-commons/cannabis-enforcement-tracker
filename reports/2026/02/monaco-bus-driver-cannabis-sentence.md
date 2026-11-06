@@ -19,12 +19,16 @@ figures:
   prison: 6 months, 5 of them suspended
 created_by_model: command-code/deepseek-v4.1-flash#max
 details:
+  activity: [use]
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2, 3]
 status: verified
 tags: [bus-driver, drug-driving, thc, monaco]

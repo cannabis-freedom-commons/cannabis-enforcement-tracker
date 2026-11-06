@@ -22,9 +22,11 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [border-guard, anti-narcotics, police]
+  setting: [street]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
+  details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]
   figures.value: [1, 2]
 status: verified

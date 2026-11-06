@@ -12,6 +12,10 @@ summary: >-
   previous three months; a positive result blocks the application until the person completes
   treatment, though the decree says it is not a permanent exclusion.
 created_by_model: unknown
+details:
+  agency_types: [court]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: algeria-drug-testing-decrees-2026
 sources:

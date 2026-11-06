@@ -18,13 +18,18 @@ figures:
   arrested: 1
   kg_seized: 4.4247
 details:
+  activity: [possession]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 4.4247}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1]
   details.case_stage: [2]
   details.products: [1, 2]
+  details.setting: [1, 2]
+  figures.arrested: [2]
 media:
   - kind: photo
     url: https://www.vesti.ru/ns/v-volgogradskoj-oblasti-policiya-nashla-u-mestnogo-zhitelya-bolee-44-kg-marikhuany

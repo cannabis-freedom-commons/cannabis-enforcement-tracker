@@ -21,10 +21,12 @@ figures:
 created_by_model: cursor/composer-2.5
 details:
   agency_types: [customs, police]
+  case_stage: investigation
   sentence_types: [prison]
   setting: [airport]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [2]
   details.sentence_types: [1, 2]
   details.setting: [2]
   figures.prison: [1, 2]

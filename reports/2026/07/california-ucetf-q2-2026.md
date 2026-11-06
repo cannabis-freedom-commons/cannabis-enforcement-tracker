@@ -21,8 +21,12 @@ figures:
 created_by_model: anthropic/opus-5.5
 details:
   activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.activity: [2, 1]
+  details.agency_types: [1]
+  details.case_stage: [2, 1]
   figures.arrested: [1]
   figures.kg_seized: [2, 1]
   figures.plants_destroyed: [2, 1]

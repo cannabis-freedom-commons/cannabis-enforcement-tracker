@@ -19,7 +19,12 @@ figures:
   value:
     amount: 45000
     currency: TTD
+details:
+  agency_types: [police]
+  setting: [home, street]
 data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
   figures.value: [1]
 media:
   - kind: photo

@@ -32,12 +32,15 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [building, mail]
 data_sources:
   details.activity: [1, 6, 7, 3]
   details.agency_types: [2, 7, 1, 3, 4, 5]
   details.case_stage: [2, 7, 1, 3, 4, 5]
   details.products: [1, 3, 4, 5, 6, 7]
+  details.setting: [1, 3, 6, 7, 4, 5]
   figures.arrested: [2, 7, 1, 3, 4, 5]
+  figures.plants_destroyed: [2, 7, 1, 3, 4, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 30e8da0fd27fe42ae1d01dd640a2d25c

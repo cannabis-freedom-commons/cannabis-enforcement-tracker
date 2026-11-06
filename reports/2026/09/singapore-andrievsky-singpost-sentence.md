@@ -21,15 +21,18 @@ figures:
   prison: 27 months
 created_by_model: cursor/composer-2.5
 details:
+  activity: [possession]
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
   case_stage: sentenced
   setting: [online]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [2, 1]
 status: verified
 tags: [cnb, ica, singpost, telegram, import]
 open_questions:

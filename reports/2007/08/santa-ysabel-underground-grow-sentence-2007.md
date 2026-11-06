@@ -21,11 +21,13 @@ figures:
   prison: 5 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [court]
   case_stage: sentenced
   products: [{product: flower}, {product: plants, plants: 454}]
   sentence_types: [prison, deportation]
   setting: [home, prison]
 data_sources:
+  details.agency_types: [3, 2]
   details.case_stage: [3]
   details.products: [3, 2]
   details.sentence_types: [3, 1, 2]

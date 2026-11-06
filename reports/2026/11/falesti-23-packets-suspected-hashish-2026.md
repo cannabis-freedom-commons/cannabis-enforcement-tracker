@@ -12,11 +12,15 @@ summary: >-
   Police in Fălești searched a 20-year-old suspect's home on 3 November 2026 and seized 23 packets of a substance police said looked like hashish. The material was sent for forensic examination, with police cautioning it is premature to call it a drug before results arrive.
 details:
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e61c9666da3d8a2b6b3e5b4eea86c26b

@@ -18,11 +18,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [trafficking]
   agency_types: [customs]
+  case_stage: investigation
   products: [{product: flower, kg: 19339}]
   setting: [port]
 data_sources:
   details.activity: [1, 4]
   details.agency_types: [1, 4, 5, 2, 3]
+  details.case_stage: [1, 4, 5]
   details.products: [1, 4, 5, 2, 3]
   details.setting: [1, 4]
   figures.kg_seized: [1, 4]

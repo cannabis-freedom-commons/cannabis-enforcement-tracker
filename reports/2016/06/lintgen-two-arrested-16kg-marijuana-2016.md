@@ -24,11 +24,15 @@ media:
     publisher: Le Quotidien
     caption: 'The seized marijuana packaged in plastic bags, captioned “La marchandise était prête à l''emploi” and credited to the Grand-Ducal Police. Photo: police grand-ducale'
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

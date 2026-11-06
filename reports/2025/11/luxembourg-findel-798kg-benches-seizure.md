@@ -14,9 +14,11 @@ figures:
   kg_seized: 798.84
 details:
   agency_types: [customs, police, prosecutor]
+  case_stage: investigation
   setting: [airport]
 data_sources:
   details.agency_types: [1, 3, 4, 5, 6, 2]
+  details.case_stage: [1, 3, 4, 6, 7, 2]
   details.setting: [1, 3, 4, 5, 6, 2]
   figures.kg_seized: [1, 3, 4, 6, 7, 2]
 media:

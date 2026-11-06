@@ -32,10 +32,12 @@ media:
     caption: '24-second video report on the November briefing at the Novara prosecution office about the hashish contaminated with synthetic cannabinoids. Video: La Stampa'
 details:
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agency_types: [2, 5, 6, 1, 7, 3]
+  details.case_stage: [2, 5, 6, 4, 1, 7]
   details.products: [2, 5, 6]
   figures.kg_seized: [2, 5, 6, 4]
 status: verified

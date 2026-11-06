@@ -11,8 +11,10 @@ summary: >-
   seized in Burkina Faso over the years 2000 to 2005.
 created_by_model: unknown
 details:
+  case_stage: investigation
   products: [{product: flower}]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 cfi_id: burkina-faso-herb-seizures-2000-2005

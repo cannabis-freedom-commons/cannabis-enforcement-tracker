@@ -31,11 +31,13 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [street]
 data_sources:
   details.activity: [1, 5, 2, 3]
   details.agency_types: [1, 5, 2, 3, 4]
   details.case_stage: [3, 1, 2, 4]
   details.products: [1, 4]
+  details.setting: [1, 5, 2, 3]
   figures.arrested: [1, 5, 2]
 status: reported
 created_by_model: xai/grok-4.7#low

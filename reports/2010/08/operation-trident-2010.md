@@ -22,10 +22,14 @@ figures:
   value: { amount: 1700000000, currency: USD }
 details:
   activity: [smuggling, trafficking, cultivation]
+  agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 226.356}]
   setting: [forest, home]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1, 2]
   figures.arrested: [1]

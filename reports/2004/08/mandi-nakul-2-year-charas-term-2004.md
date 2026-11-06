@@ -16,12 +16,14 @@ figures:
   prison: 2 years' imprisonment
   fine: { amount: 40000, currency: INR }
 details:
+  agency_types: [court]
   case_stage: sentenced
   products:
     - {product: hashish}
   sentence_types: [prison, fine]
   setting: [prison]
 data_sources:
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   details.sentence_types: [1]

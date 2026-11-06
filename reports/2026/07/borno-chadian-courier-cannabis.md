@@ -22,10 +22,13 @@ details:
   agency_types: [military]
   case_stage: investigation
   route: {from: [td], to: [ng]}
+  setting: [mail]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

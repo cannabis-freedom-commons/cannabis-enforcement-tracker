@@ -22,10 +22,12 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [ph-pdea, ph-pnp]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products: [{product: plants, plants: 89240}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 tags: [cordillera, benguet, kalinga, mountain-province, baguio, pnp, pdea]

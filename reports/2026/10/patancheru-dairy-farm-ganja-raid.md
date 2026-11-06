@@ -43,11 +43,13 @@ media:
 details:
   agencies: [in-eagle]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   details.agency_types: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   figures.arrested: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]

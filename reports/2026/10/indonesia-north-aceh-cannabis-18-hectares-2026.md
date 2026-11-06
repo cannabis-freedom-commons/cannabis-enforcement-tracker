@@ -22,6 +22,7 @@ data_sources:
   details.agency_types: [1, 2, 6, 3, 4, 5]
   details.case_stage: [1, 2, 5, 6]
   figures.arrested: [1, 2, 5, 6]
+  figures.hectares: [1, 2, 6, 3, 4]
 status: reported
 cfi_id: indonesia-north-aceh-cannabis-18-hectares-2026
 sources:

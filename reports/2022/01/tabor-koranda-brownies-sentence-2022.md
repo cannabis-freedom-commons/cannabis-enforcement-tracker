@@ -22,16 +22,19 @@ figures:
     currency: USD
 details:
   activity: [possession]
+  agency_types: [court]
   case_stage: sentenced
   products: [{product: flower, kg: 0.4536}]
   sentence_types: [prison, fine, probation]
   setting: [prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [2, 1, 3]
   details.case_stage: [2, 3]
   details.products: [1, 2]
   details.sentence_types: [2, 3, 1]
   details.setting: [2, 3]
+  figures.arrested: [1]
   figures.prison: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -17,9 +17,11 @@ figures:
     currency: ARS
 details:
   agency_types: [prosecutor]
+  case_stage: investigation
   products: [{product: flower, kg: 263}]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   figures.kg_seized: [1]
   figures.value: [1, 2]

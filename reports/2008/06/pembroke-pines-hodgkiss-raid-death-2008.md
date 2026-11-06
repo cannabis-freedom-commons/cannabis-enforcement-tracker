@@ -20,13 +20,16 @@ figures:
   kg_seized: 0.043
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [sale]
   agency_types: [police]
   products: [{product: flower, kg: 0.043}]
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2]
+  figures.arrested: [1, 2, 3]
 status: verified
 tags: [raid-death, swat]
 open_questions:

@@ -27,6 +27,7 @@ data_sources:
   details.environment: [2, 1, 3, 4]
   details.products: [1, 3, 4]
   details.setting: [1, 3, 4, 2]
+  figures.arrested: [1, 3, 2, 4]
 media:
   - kind: photo
     url: https://actu.fr/centre-val-de-loire/amilly_45004/les-allees-et-venues-d-un-homme-dans-ce-bois-du-loiret-sont-peu-discretes-la-police-tombe-sur-sa-plantation-de-cannabis_65005408.html

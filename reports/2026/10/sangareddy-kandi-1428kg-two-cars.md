@@ -21,12 +21,14 @@ figures:
   value: { amount: 7140000, currency: INR }
 created_by_model: unknown
 details:
+  activity: [smuggling]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 142.8}]
   route: {from: [in], to: [in], crossing: 'Odisha to Maharashtra'}
   setting: [mail]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

@@ -27,11 +27,13 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [mail]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 3]
   details.case_stage: [1]
   details.products: [1, 2, 3]
+  details.setting: [1, 2]
   figures.kg_seized: [1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

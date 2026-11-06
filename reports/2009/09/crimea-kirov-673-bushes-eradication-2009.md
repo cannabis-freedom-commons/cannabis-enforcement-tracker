@@ -18,10 +18,14 @@ figures:
   plants_destroyed: 673
   kg_seized: 2000
 details:
+  agency_types: [police]
+  case_stage: investigation
   environment: [greenhouse]
   products: [{product: flower, kg: 2000}]
   setting: [home]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
   details.setting: [1]

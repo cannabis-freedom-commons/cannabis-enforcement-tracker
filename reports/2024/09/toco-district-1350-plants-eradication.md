@@ -21,8 +21,10 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police]
+  setting: [street]
 data_sources:
   details.agency_types: [1]
+  details.setting: [1]
   figures.hectares: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]

@@ -30,6 +30,7 @@ data_sources:
   details.activity: [2, 1, 4, 5, 6, 7]
   details.agencies: [1, 3, 4, 5, 7]
   details.agency_types: [1, 3, 4, 5, 7]
+  figures.arrested: [1, 4, 5, 3, 6]
   figures.kg_seized: [1, 4, 5, 6, 7, 3]
 status: reported
 created_by_model: xai/grok-4.7#low

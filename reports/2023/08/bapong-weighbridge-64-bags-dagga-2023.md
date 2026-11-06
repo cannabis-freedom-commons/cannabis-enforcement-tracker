@@ -19,12 +19,14 @@ figures:
   value: { amount: 5000000, currency: ZAR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: charged
   setting: [vehicle]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

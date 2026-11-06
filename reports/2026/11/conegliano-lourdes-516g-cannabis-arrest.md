@@ -24,6 +24,7 @@ media:
 details:
   activity: [trafficking, sale]
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
@@ -31,6 +32,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 3, 2]
+  details.case_stage: [3, 2, 1]
   details.products: [3]
   details.setting: [3, 2, 1]
 status: verified

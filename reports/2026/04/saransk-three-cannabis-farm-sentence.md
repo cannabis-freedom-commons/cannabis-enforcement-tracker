@@ -32,12 +32,14 @@ details:
   agency_types: [police]
   case_stage: sentenced
   products: [{product: flower, kg: 9.738}, {product: plants, plants: 82}]
+  setting: [street]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1]
   figures.prison: [1, 2]

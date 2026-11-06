@@ -23,10 +23,12 @@ details:
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  setting: [street]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

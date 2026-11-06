@@ -43,6 +43,7 @@ data_sources:
   details.case_stage: [2, 4, 1, 3]
   details.products: [2, 4, 1, 3]
   details.setting: [1, 2, 4]
+  figures.arrested: [2, 4, 1, 3]
   figures.plants_destroyed: [2, 4, 1, 3]
   figures.value: [2, 4, 1, 3]
 status: reported

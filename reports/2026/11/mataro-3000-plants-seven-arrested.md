@@ -50,12 +50,14 @@ media:
 details:
   activity: [cultivation, possession]
   agency_types: [police, court]
+  case_stage: investigation
   environment: [indoor]
   products: [{product: flower, kg: 1}, {product: plants, plants: 3000}]
   setting: [field]
 data_sources:
   details.activity: [1, 2, 3, 4, 6, 5]
   details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.environment: [1, 2, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]

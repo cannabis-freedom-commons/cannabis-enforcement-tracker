@@ -14,13 +14,17 @@ summary: >-
   searched an operator's home the same morning. No one was arrested or charged,
   and the club reopened the next day at another location.
 details:
+  activity: [sale]
   agencies: [us-dea, us-fbi]
   agency_types: [anti-narcotics, police]
   products: [{product: flower}]
+  setting: [home, shop, street]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [2, 1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, dispensaries, medical-marijuana]

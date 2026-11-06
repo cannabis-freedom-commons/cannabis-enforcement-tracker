@@ -13,9 +13,11 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [military]
+  case_stage: investigation
   products: [{product: hashish}, {product: flower}]
 data_sources:
   details.agency_types: [2, 3]
+  details.case_stage: [1, 3, 2]
   details.products: [2, 3, 1]
 status: verified
 cfi_id: el-salvador-drug-seizures-2025

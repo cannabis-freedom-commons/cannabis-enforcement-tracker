@@ -15,9 +15,11 @@ figures:
   kg_seized: 590
 details:
   agency_types: [police]
+  case_stage: investigation
   setting: [home]
 data_sources:
   details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.setting: [2, 1]
   figures.kg_seized: [2, 1]
 media:

@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1]
   details.force: [1]
   details.setting: [1]
+  figures.arrested: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: cebb7729fd4da0e34e806b7054e567c8

@@ -17,10 +17,14 @@ figures:
     amount: 190000000
     currency: TND
 details:
+  activity: [smuggling]
   agency_types: [customs]
+  case_stage: investigation
   setting: [border]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2, 3]

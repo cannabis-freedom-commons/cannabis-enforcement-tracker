@@ -22,13 +22,17 @@ media:
     caption: 'State Security Service photo published with the report on the 11.7 kg hashish seizures in Namangan and Tashkent region. Photo: State Security Service (СГБ)'
 details:
   activity: [trafficking]
+  agency_types: [police]
   case_stage: investigation
   products:
     - {product: hashish}
+  setting: [mail]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8a3a37d5485ec9af38b2959b62061768

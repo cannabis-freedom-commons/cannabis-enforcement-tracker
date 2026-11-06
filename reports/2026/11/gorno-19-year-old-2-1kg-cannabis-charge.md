@@ -29,6 +29,7 @@ details:
   case_stage: charged
   date_precision: approximate
   region: Świętokrzyskie Voivodeship
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1]
@@ -37,6 +38,7 @@ data_sources:
   details.case_stage: [2]
   details.charges: [2]
   details.products: [2]
+  details.sentence_types: [1, 3, 2]
   details.setting: [1, 3, 2]
   figures.arrested: [2]
   figures.charged: [2]

@@ -14,12 +14,14 @@ summary: >-
 figures:
   arrested: 2
 details:
+  agency_types: [police]
   case_stage: sentenced
   products:
     - {product: hashish}
   sentence_types: [prison, fine]
   setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
   details.sentence_types: [1, 2]

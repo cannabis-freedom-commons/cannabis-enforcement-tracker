@@ -26,6 +26,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  figures.arrested: [1, 2]
 status: verified
 tags: [vrgorac, a1, border-police]
 open_questions:

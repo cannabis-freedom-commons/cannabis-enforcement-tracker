@@ -21,12 +21,15 @@ figures:
     currency: INR
 details:
   agency_types: [police, court]
+  case_stage: investigation
   products: [{product: plants, plants: 60}]
   setting: [prison]
 data_sources:
   details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [2, 1]
   details.setting: [1, 2]
+  figures.arrested: [2, 1]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]
   figures.value: [1, 2]

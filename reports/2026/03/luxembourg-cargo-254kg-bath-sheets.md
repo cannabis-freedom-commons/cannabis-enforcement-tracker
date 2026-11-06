@@ -21,8 +21,10 @@ figures:
     currency: EUR
 details:
   agency_types: [customs, prosecutor]
+  case_stage: investigation
 data_sources:
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
   figures.kg_seized: [1, 2, 3, 4]
   figures.value: [1, 2, 4, 3]
 status: verified

@@ -18,11 +18,13 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   activity: [sale]
+  case_stage: investigation
   setting: [shop]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
   details.setting: [1, 2]
 status: verified
 tags: [dispensary, obama-administration]

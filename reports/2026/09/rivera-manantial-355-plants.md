@@ -19,10 +19,12 @@ figures:
   kg_seized: 4.732
 details:
   agency_types: [police, prosecutor]
+  case_stage: investigation
   products: [{product: plants}]
   setting: [vehicle]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1, 2]

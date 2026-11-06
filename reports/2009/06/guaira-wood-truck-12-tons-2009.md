@@ -18,11 +18,13 @@ figures:
 details:
   agencies: [br-pf]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 12000}]
   setting: [border, vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]

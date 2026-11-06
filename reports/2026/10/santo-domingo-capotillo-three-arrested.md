@@ -32,10 +32,12 @@ media:
     caption: 'Video of the seized packages labelled with weights and names, coloured wrappers and slot machines in the background. Video: Redes Diego Pesqueira'
 details:
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 1]
   details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

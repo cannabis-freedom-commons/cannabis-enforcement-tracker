@@ -20,12 +20,14 @@ details:
   agency_types: [military, police, prosecutor]
   case_stage: investigation
   products: [{product: flower}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 2]
   details.products: [2, 3, 1]
+  details.sentence_types: [2, 4]
   details.setting: [2, 4]
   figures.arrested: [2, 4]
   figures.charged: [2, 4]

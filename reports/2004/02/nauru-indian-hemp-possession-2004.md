@@ -11,6 +11,16 @@ summary: >-
   section 10(1)(c) of the Dangerous Drugs Act 1968. It was the last reported pre-2004 cannabis
   prosecution and showed the old law's three-month statutory minimum.
 created_by_model: unknown
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: nauru-indian-hemp-possession-2004
 sources:

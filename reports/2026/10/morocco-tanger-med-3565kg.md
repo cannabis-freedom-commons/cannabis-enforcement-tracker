@@ -25,6 +25,7 @@ details:
   agencies: [ma-dgsn]
   agency_types: [police]
   activity: [trafficking]
+  case_stage: investigation
   setting: [vehicle, port]
   products:
     - {product: hashish}
@@ -32,6 +33,7 @@ data_sources:
   details.activity: [4, 5]
   details.agencies: [5]
   details.agency_types: [5]
+  details.case_stage: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 4, 5]
   details.setting: [1, 2, 3, 4, 5]
   figures.kg_seized: [1, 2, 3, 4, 5]

@@ -19,10 +19,12 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: hashish, kg: 9.2}]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   figures.arrested: [1]
   figures.charged: [1]

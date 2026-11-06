@@ -18,10 +18,12 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   setting: [prison]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [3, 2, 4, 1]
+  details.case_stage: [2, 3, 4]
   details.setting: [4]
   figures.value: [2, 3, 4, 1]
 status: reported

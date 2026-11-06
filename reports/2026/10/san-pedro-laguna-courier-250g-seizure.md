@@ -22,11 +22,13 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products: [{product: flower, kg: 0.25}]
   setting: [mail]
 data_sources:
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3]
   figures.value: [1, 2, 3, 4]

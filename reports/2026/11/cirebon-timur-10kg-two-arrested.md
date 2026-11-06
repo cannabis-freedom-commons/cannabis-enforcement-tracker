@@ -20,11 +20,13 @@ details:
   activity: [sale]
   agency_types: [police]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.activity: [2, 4, 5, 6, 8, 9]
   details.agency_types: [2, 4, 5, 6, 8, 9]
   details.case_stage: [2, 5, 6, 10, 9]
+  details.sentence_types: [2, 5, 6, 10, 9]
   details.setting: [2, 4, 5, 6, 8, 9]
   figures.arrested: [2, 4, 5, 6, 8, 9]
   figures.kg_seized: [2, 4, 5, 6, 8, 9]

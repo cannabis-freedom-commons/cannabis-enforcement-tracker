@@ -18,9 +18,11 @@ details:
   agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 164aa72a1cbd2a597286d8ea694b0ad2

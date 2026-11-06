@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.deaths: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d6ce6e6ee4e69840b57455e8e1cef2f4

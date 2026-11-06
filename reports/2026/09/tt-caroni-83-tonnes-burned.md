@@ -19,10 +19,14 @@ figures:
   value: { amount: 1600000000, currency: TTD }
 details:
   agency_types: [police]
+  case_stage: investigation
   products: [{product: flower, kg: 8300}]
+  setting: [street]
 data_sources:
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

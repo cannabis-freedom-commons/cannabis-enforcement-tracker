@@ -21,11 +21,15 @@ media:
     publisher: بوابة الوسط
     caption: 'Pieces of hashish, tramadol boxes and seized cash displayed after the Ajdabiya flat raid on 22 October 2026. Photo: Ajdabiya security (أمن أجدابيا)'
 details:
+  activity: [smuggling]
+  agency_types: [police]
   case_stage: investigation
   products:
     - {product: hashish}
   setting: [home]
 data_sources:
+  details.activity: [3, 1, 2]
+  details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]

@@ -24,11 +24,13 @@ details:
   agency_types: [police]
   case_stage: charged
   products: [{product: plants, plants: 650}]
+  setting: [street]
 data_sources:
   details.activity: [2, 3, 4, 5, 6, 1]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [2, 3, 4, 5, 6, 1]
+  details.setting: [1, 2, 3, 4, 5, 6]
   figures.arrested: [1, 2, 3, 4, 5, 6]
   figures.charged: [1, 2, 3, 4, 5, 6]
   figures.plants_destroyed: [2, 3, 4, 5, 6, 1]

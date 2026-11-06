@@ -19,8 +19,10 @@ figures:
 created_by_model: meta/muse-spark
 details:
   agency_types: [police]
+  products: [{product: flower}]
 data_sources:
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   figures.arrested: [1, 2]
 status: verified
 tags: [abraka, delta-state, cultism]

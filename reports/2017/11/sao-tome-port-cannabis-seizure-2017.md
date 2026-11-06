@@ -17,11 +17,13 @@ details:
   activity: [trafficking, cultivation]
   agency_types: [police]
   case_stage: investigation
+  sentence_types: [prison]
   setting: [field, prison]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
+  details.sentence_types: [2]
   details.setting: [1, 2, 3]
 status: verified
 cfi_id: sao-tome-port-cannabis-seizure-2017

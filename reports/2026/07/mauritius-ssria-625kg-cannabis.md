@@ -87,7 +87,9 @@ data_sources:
     details.setting: [3]
     figures.arrested: [3]
     figures.charged: [3]
+    figures.kg_seized: [1, 2]
     figures.released: [6]
+    figures.value: [1, 2]
 ---
 
 ADSU and customs officers seized about 62.5 kg of cannabis at Sir Seewoosagur Ramgoolam International Airport on June 4, 2026; the reported estimated value was Rs 94.5 million. [@1,2]

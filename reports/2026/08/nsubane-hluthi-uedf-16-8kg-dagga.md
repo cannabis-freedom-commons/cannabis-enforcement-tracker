@@ -21,9 +21,11 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [street]
 data_sources:
   details.case_stage: [1, 2]
   details.products: [2]
+  details.setting: [2]
   figures.kg_seized: [2]
   figures.value: [2]
 status: verified

@@ -20,6 +20,7 @@ details:
   products:
     - {product: flower, kg: 0.13}
   activity: [possession]
+  sentence_types: [prison]
   setting: [home, farm]
   case_stage: investigation
   date_precision: approximate
@@ -30,6 +31,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [2]
+  details.sentence_types: [3, 4, 1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

@@ -19,9 +19,11 @@ figures:
     currency: DZD
 details:
   activity: [trafficking]
+  agency_types: [police]
   case_stage: investigation
 data_sources:
   details.activity: [2, 1, 3]
+  details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1]
   figures.arrested: [2, 1]
   figures.kg_seized: [1, 2]

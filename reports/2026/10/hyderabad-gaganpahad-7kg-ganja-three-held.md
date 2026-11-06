@@ -25,13 +25,17 @@ media:
     publisher: The Siasat Daily
     caption: Excise officials and onlookers stand around the car used to carry the ganja, sacks of the seized drug on its roof, as three detained men crouch in front; captioned "Three held for ganja peddling in Hyderabad", no credit given.
 details:
+  activity: [sale]
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 3, 2]
   details.products: [1, 3]
   figures.arrested: [1, 3]
   figures.value: [3, 1, 2]
