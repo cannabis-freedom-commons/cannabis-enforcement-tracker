@@ -38,6 +38,7 @@ open_questions:
   - The sources announce the seizure on 26 and 27 November without dating the boarding itself, whose official photos date from 23 and 24 November.
   - The pin is a regional reference for the northern Arabian Sea and Indian Ocean rather than an exact site.
   - The dhow's crew and any arrests were not described in the opened sources.
+  - The BBC report is dated 26 November 2018 but says the seizure happened on Sunday, implying 25 November; the existing report already notes the boarding itself is not separately dated.
 sources:
   - title: Destroyer HMS Dragon seizes tonnes of hashish in major Gulf drugs bust
     publisher: Royal Navy
@@ -47,8 +48,11 @@ sources:
     publisher: Combined Maritime Forces
     url: https://combinedmaritimeforces.com/2018/11/27/hms-dragon-seizes-3-tonnes-of-drugs-from-dhow-in-indian-ocean/
     date: 2018-11-27
+  - title: 'HMS Dragon: Three tonnes of hashish seized in the Gulf'
+    url: https://www.bbc.com/news/uk-46346367
+    publisher: BBC News
 ---
 
-Royal Navy warship HMS Dragon seized three tonnes of hashish in one of the most significant drugs busts in the Gulf that year. [@1] The Portsmouth-based Type 45 destroyer, on patrol in the Middle East, came across a suspicious dhow in the notorious drug smuggling route known as the "Hash Highway". [@1,2]
+Royal Navy warship HMS Dragon seized three tonnes of hashish in one of the most significant drugs busts in the Gulf that year. [@1,3] The Portsmouth-based Type 45 destroyer, on patrol in the Middle East, came across a suspicious dhow in the notorious drug smuggling route known as the "Hash Highway". [@1,2,3]
 
-Sailors and Royal Marines launched fast boats to intercept and board the vessel, then searched its compartments painstakingly. [@1] They found 148 bags of hashish weighing around 3,048 kg in false compartments. [@1,2] The warship was operating in direct support of Combined Task Force 150, the counter-terrorism and narcotics task force then commanded by the Royal Saudi Navy. [@2] Defence Secretary Gavin Williamson called the seizure the latest blow to the illicit drugs trade, and the commanding officer said his 260 crew had done themselves proud. [@1]
+Sailors and Royal Marines launched fast boats to intercept and board the vessel, then searched its compartments painstakingly. [@1] They found 148 bags of hashish weighing around 3,048 kg in false compartments. [@1,2,3] The warship was operating in direct support of Combined Task Force 150, the counter-terrorism and narcotics task force then commanded by the Royal Saudi Navy. [@2] Defence Secretary Gavin Williamson called the seizure the latest blow to the illicit drugs trade, and the commanding officer said his 260 crew had done themselves proud. [@1]
