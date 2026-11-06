@@ -61,6 +61,11 @@ sources:
     publisher: Policja Świętokrzyska
     date: 2026-11-05
     language: pl
+  - title: 'Kielce: Za taką ilość narkotyków 19-latkowi grozi 10 lat więzienia. Miał ich prawie 4 kg i krzew konopi'
+    url: https://informacje.wp.pl/wiadomosci/za-taka-ilosc-narkotykow-19-latkowi-grozi-10-lat-wiezienia-mial-ich-prawie-4-kg-i-krzew-konopi-7347732730845632a
+    publisher: WP Info
+    date: 2026-11-05
+    language: pl
 open_questions:
   - The sources say only that the search happened on Tuesday and were published on 5 November 2026; 3 November 2026 is used as the incident date with approximate precision.
   - All drug weights are described as preliminary estimates pending laboratory analysis, so the cannabis total may change.
@@ -72,17 +77,16 @@ open_questions:
 
 Officers from the anti-drug unit of the Kielce city police searched a property
 in Gorno commune on Tuesday to check suspicions that a young local resident
-possessed drugs. [@1] The 19-year-old resident was detained and charged with
+possessed drugs. [@1,3] The 19-year-old resident was detained and charged with
 possessing a significant quantity of intoxicants, which police say carries up to
-10 years in prison. [@2] A court imposed bail, a ban on leaving the country and
-an obligation to report to a police station twice a week. [@2]
+10 years in prison. [@2,3] A court imposed bail, a ban on leaving the country and
+an obligation to report to a police station twice a week. [@2,3]
 
 Preliminary estimates indicate officers secured about 1.1 kg of marijuana, 1 kg
-of hashish and 46 grams of butter containing THC. [@2] Officers also found a
+of hashish and 46 grams of butter containing THC. [@2,3] Officers also found a
 non-fibre cannabis plant, an electronic scale and more than 5,000 zlotys in cash
 at the property. [@2] The same search also yielded about 1.7 kg of mephedrone, a
 synthetic drug that is not counted in this report's cannabis totals. [@1] The
 seized material was sent to a police laboratory for detailed testing to
 establish its exact composition, and police are checking whether the secured
-cash came from criminal activity. [@2]
-
+cash came from criminal activity. [@2,3]
