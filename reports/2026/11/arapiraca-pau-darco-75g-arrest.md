@@ -50,6 +50,11 @@ media:
     media_url: https://cdn.gazetaweb.com/img/GALLERYINLINEIMAGE/940000/800x600/policia-apreende-crack-cocaina-e-maconha-apos-denu-00947398-c8adfa7c52c601442ec54d615c65ba50t-2.webp?fallback=https%3A%2F%2Fcdn.gazetaweb.com%2Fimg%2FGALLERYINLINEIMAGE%2F940000%2Fpolicia-apreende-crack-cocaina-e-maconha-apos-denu-00947398-c8adfa7c52c601442ec54d615c65ba50.jpg%3Fxid%3D2127561%26resize%3D212%252C393%26t%3D1793904022&xid=2127561
     publisher: GazetaWeb
     caption: 'Items seized after the Pau D''Arco house search. Photo: Divulgação/GazetaWeb'
+  - kind: photo
+    url: https://todosegundo.com.br/editoria/policia/canil-da-pm-flagra-suspeito-e-apreende-cocaina-maconha-e-crack-em-arapiraca/8/43449
+    media_url: https://todosegundo.com.br/thumbs.php?imagem=uploads/image/noticias/43449/whatsapp-image-2026-11-05-at-16.49.09.jpeg&largura=640&altura=480&marca=false
+    publisher: Todo Segundo
+    caption: 'Photo credited to the Military Police, published with the report on the Pau D''Arco arrest, showing the scene of the Canil action. Photo: Reprodução / PM'
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 775bd8673b0dfd0e928dc416809f3696
@@ -70,32 +75,39 @@ sources:
     publisher: Estadão Alagoas
     date: 2026-11-05
     language: pt
+  - title: Canil da PM flagra suspeito e apreende cocaína, maconha e crack em Arapiraca
+    url: https://todosegundo.com.br/editoria/policia/canil-da-pm-flagra-suspeito-e-apreende-cocaina-maconha-e-crack-em-arapiraca/8/43449
+    publisher: Todo Segundo
+    date: 2026-11-05
+    language: pt
 open_questions:
   - GazetaWeb places the arrest in the afternoon of 5 November 2026, while Tribuna Hoje and Estadão Alagoas place it in the morning, and Estadão Alagoas gives about 10:40; the report uses 5 November and records both accounts.
   - GazetaWeb names the dog K9 Caos and Estadão Alagoas names K9 Kaos.
   - No name, age, formal charging document or court outcome was published.
   - GazetaWeb's figure of more than 269 grams of drugs includes crack and a cocaine-like substance and is not used as the cannabis weight.
   - No separate Military Police statement page was opened; the three accounts are newspaper reports of the police action.
+  - Todo Segundo places the arrest in the morning of 5 November 2026, adding a third morning account alongside Tribuna Hoje and Estadão Alagoas; the tracker report already records both the morning and the afternoon versions.
+  - The page's lead photo is credited only as Reprodução / PM and its caption does not describe the scene, so it is listed as a media link without confirmation of what exactly it shows.
 ---
 
 A man was arrested on suspicion of drug trafficking on Thursday 5 November 2026
 in Pau D'Arco, a rural settlement in Arapiraca, in Alagoas's Agreste region.
-[@1] GazetaWeb placed the arrest in the afternoon of that Thursday. [@1] Tribuna
+[@1,4] GazetaWeb placed the arrest in the afternoon of that Thursday. [@1] Tribuna
 Hoje placed the same arrest in the morning. [@2] Estadão Alagoas said the
 incident was recorded at about 10:40 during an action by the Canil of the 3rd
 Military Police Battalion. [@3]
 
 According to the Military Police of Alagoas, a team from the Canil of the 3rd
 Battalion was training with sniffer dog K9 Caos when residents reported drug
-sales at a house in the area. [@1] Officers went to the address, and while part
+sales at a house in the area. [@1,4] Officers went to the address, and while part
 of the team went to the back of the house another officer called at the door and
-was met by a woman. [@1] The team then saw a man throw a black plastic bag over
-the wall. [@1] Tribuna Hoje said he threw the bag over the back wall of the
+was met by a woman. [@1,2] The team then saw a man throw a black plastic bag over
+the wall. [@1,4] Tribuna Hoje said he threw the bag over the back wall of the
 property and did not resist when stopped. [@2]
 
 In the bag officers found 17.52 grams of a cocaine-like substance, 41 grams of
 marijuana, 34 grams of marijuana flower and 177 grams of crack, and they seized
-R$13.45 in cash. [@1] Tribuna Hoje said the 41 grams of marijuana were in 40
+R$13.45 in cash. [@1,4] Tribuna Hoje said the 41 grams of marijuana were in 40
 portions and the cocaine-like substance was in 21 wraps. [@2] Estadão Alagoas
 reported the cannabis as 75 grams of marijuana, matching the two marijuana
 weights, alongside the same cocaine, crack and cash figures. [@3] During a
@@ -104,6 +116,5 @@ found. [@1] Estadão Alagoas said the resident authorised the officers to enter
 and that the search used dog K9 Kaos. [@3]
 
 The man was taken to the Central de Polícia, where the applicable legal
-procedures were carried out. [@1] Tribuna Hoje said he remained in custody at
+procedures were carried out. [@1,4] Tribuna Hoje said he remained in custody at
 the Civil Police station in Arapiraca. [@2]
-
