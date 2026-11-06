@@ -43,6 +43,11 @@ sources:
     publisher: Mana Telangana
     date: 2026-11-05
     language: te
+  - title: 'Hyderabad: 60 రోజుల వేటకు తెర.. రూ.1.8 కోట్ల గంజాయి దందా బట్టబయలు!'
+    url: https://www.hmtvlive.com/telugu-news/telangana/assam-drug-gang-arrested-hyderabad-eagle-force-bhaskar-hazarika-209467
+    publisher: HMTV
+    date: 2026-11-05
+    language: te
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -62,12 +67,16 @@ open_questions:
   - The page's only image is captioned with the headline alone and could not be confirmed to show this seizure, so no media entry is included.
   - The new account names the Odisha suppliers as Ashok Kumar and Debasish Nayak, while the existing report names Ashish Kumar; whether Ashok and Ashish are the same person or different suppliers is unclear.
   - The new account mentions only the 24.7 kg of marijuana and does not mention the seven mobile phones recorded in the existing report.
+  - HMTV names the supplier Ashish Kumar as from Odisha, while the existing report names Ashish Kumar among Odisha suppliers without stating his origin explicitly.
+  - HMTV says the business was worth about Rs 1.8 crore in the last ten months and that about 400 kg of ganja was brought into the city; it does not describe the Rs 1.8 crore as a valuation of the 10-month supply.
+  - HMTV refers to Rachakonda police alongside the EAGLE Force, while the existing report names EAGLE Force and Choutuppal Police; the relationship between the two police units is not explained.
+  - HMTV's only image is captioned just "Hyderabad" and cannot be confirmed to show this case, so no media entry is added.
 ---
 
 The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
-24.7 kg of marijuana and seven mobile phones. [@1,2,3,4] The five arrested were
+24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5] The five arrested were
 Hazarika, Babu Borah, Nirmal Hazarika, Pranajal Dutta and Akan Rajbanshi; all
 five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1] Hazarika, 31,
 had worked as a security guard and delivery executive and operated couriers and
@@ -89,3 +98,5 @@ months. [@1,3] Police said Hazarika had other sources of supply. [@1]
 Police said three ganja cases had been registered against Hazarika in 2024, two at Madapoor police station and one at Gachibowli police station. [@2,3] Investigators found he resumed trafficking after being released on bail in those cases, officer said. [@2,4] Police found the gang bought ganja from suppliers in Odisha and sold it in Hyderabad. [@2,4]
 
 Police registered a case over the seizure at the Cyberabad Narcotics Police Station. [@4] The arrested men included Rapido driver Babu Bora, private employee Nirmal Hazarika and Uber driver Pranjal Datta. [@4] Hazarika collected payments both online and in cash. [@4]
+
+Police traced more than Rs 48 lakh in online payments made in 88 instalments to Odisha supplier Ashish Kumar. [@5]
