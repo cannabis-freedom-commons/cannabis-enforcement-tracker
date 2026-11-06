@@ -41,6 +41,10 @@ sources:
     url: https://www.interpol.int/News-and-Events/News/2022/Hundreds-of-firearms-and-12.6-tonnes-of-drugs-seized-in-Caribbean-operation
     publisher: INTERPOL
     date: 2022-10-13
+  - title: HSI efforts in joint international operation contribute to hundreds of firearms, tons of drugs seized in Caribbean
+    url: https://www.ice.gov/news/releases/hsi-efforts-joint-international-operation-contribute-hundreds-firearms-tons-drugs
+    publisher: ICE
+    date: 2022-10-18
 open_questions:
   - The incident date uses the operation end date of 30 September 2022; the source was published on 13 October 2022.
   - The 510 arrests cover the whole firearms operation and are not a cannabis-only count; no cannabis-specific arrest total was given.
@@ -49,26 +53,27 @@ open_questions:
   - No names, charges or court outcomes were reported for those arrested.
   - No cannabis-only weight for the Barbados plants and no cannabis value were published.
   - Only the INTERPOL account could be opened; no second independent account of this operation was found.
+  - The ICE account does not mention the 3,664 cannabis plants destroyed in Barbados, leaving that figure supported only by the INTERPOL account.
+  - The ICE page lists five photos with the generic release title as caption; the captions do not identify what each photo shows, so no media entry is made.
 ---
 
 Operation Trigger VII ran from 24 to 30 September 2022 with officers from 19
-countries taking part. [@1] Police made a total of 510 arrests during the
+countries taking part. [@1,2] Police made a total of 510 arrests during the
 week-long operation, including a murder suspect wanted under an INTERPOL Red
-Notice. [@1] CARICOM IMPACS hosted the operational hub in Barbados with officers
+Notice. [@1,2] CARICOM IMPACS hosted the operational hub in Barbados with officers
 from INTERPOL, the Joint Regional Communications Center, the United States
 Bureau of Alcohol, Tobacco, Firearms and Explosives and United States Homeland
-Security Investigations. [@1]
+Security Investigations. [@1,2]
 
-The operation seized 10.1 tonnes of cocaine and 2.5 tonnes of cannabis. [@1] In
+The operation seized 10.1 tonnes of cocaine and 2.5 tonnes of cannabis. [@1,2] In
 Jamaica, authorities intercepted 500.2 kg of cocaine bound for Canada on a
-private jet and separately seized 500 kg of cannabis. [@1] In Curaçao, the Coast
+private jet and separately seized 500 kg of cannabis. [@1,2] In Curaçao, the Coast
 Guard stopped vessels carrying a total of 3 tonnes of cocaine and 1.8 tonnes of
-cannabis. [@1] Authorities made 17 arrests in connection with the Curaçao
-shipments, which were believed to have originated in Venezuela. [@1] In
+cannabis. [@1,2] Authorities made 17 arrests in connection with the Curaçao
+shipments, which were believed to have originated in Venezuela. [@1,2] In
 Barbados, authorities destroyed 3,664 cannabis plants. [@1]
 
 The joint INTERPOL and CARICOM IMPACS firearms operation seized about 350
-weapons and 3,300 rounds of ammunition across the Caribbean. [@1] Several
+weapons and 3,300 rounds of ammunition across the Caribbean. [@1,2] Several
 countries reported reverse trafficking of cannabis from Canada and the United
-States into the Caribbean region. [@1]
-
+States into the Caribbean region. [@1,2]
