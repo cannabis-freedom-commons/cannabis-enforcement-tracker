@@ -176,3 +176,41 @@ func Fetch(ctx context.Context, raw string) (Evidence, error) {
 
 // StableURLs is useful for deterministic provenance comparisons.
 func StableURLs(values []string) []string { sort.Strings(values); return values }
+
+// FetchImage downloads a photo a report links (its media_url) through the public-address-only
+// client: an image, at most 25 MB. The address comes from research output, so it gets the same
+// destination checks as a source.
+func FetchImage(ctx context.Context, raw string) ([]byte, error) {
+	normalized, err := Normalize(raw)
+	if err != nil {
+		return nil, err
+	}
+	req, err := http.NewRequestWithContext(ctx, "GET", normalized, nil)
+	if err != nil {
+		return nil, err
+	}
+	req.Header.Set("User-Agent", "CannabisEnforcementTracker/1.0 (photo thumbnails)")
+	req.Header.Set("Accept", "image/avif,image/webp,image/*;q=0.8")
+	res, err := Client().Do(req)
+	if err != nil {
+		if errors.Is(err, ErrUnsafeDestination) {
+			return nil, err
+		}
+		return nil, errors.New("fetch failed")
+	}
+	defer res.Body.Close()
+	if res.StatusCode != 200 {
+		return nil, fmt.Errorf("HTTP %d", res.StatusCode)
+	}
+	if ct := strings.TrimSpace(strings.SplitN(res.Header.Get("Content-Type"), ";", 2)[0]); ct != "" && !strings.HasPrefix(ct, "image/") && ct != "application/octet-stream" {
+		return nil, fmt.Errorf("not an image (%s)", ct)
+	}
+	b, err := io.ReadAll(io.LimitReader(res.Body, 25*1024*1024+1))
+	if err != nil {
+		return nil, errors.New("fetch failed")
+	}
+	if len(b) > 25*1024*1024 {
+		return nil, errors.New("larger than 25 MB")
+	}
+	return b, nil
+}

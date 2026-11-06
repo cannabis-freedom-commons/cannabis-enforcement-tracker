@@ -844,6 +844,16 @@ func (w *Worker) publish(ctx context.Context, j store.Job) error {
 		}
 		explanation += " It also updated " + strings.Join(titles, ", ") + "."
 	}
+	// the new photos' placeholders and thumbnails, in a commit of their own (local_media.go)
+	rels := []string{d.Rel}
+	for _, u := range d.Updates {
+		rels = append(rels, u.Rel)
+	}
+	if note, err := commitMedia(ctx, w.Config.RepoPath, j.Ref, d.Title, rels); err != nil {
+		explanation += " Photo thumbnails were not added (" + err.Error() + ")."
+	} else if note != "" {
+		explanation += " " + note
+	}
 	if w.Config.AutoPush {
 		// the commit goes to GitHub straight away, so its link works; a failed push leaves the
 		// commit in place and says so

@@ -11,7 +11,6 @@ import (
 	"regexp"
 	"strings"
 	"sync"
-	"syscall"
 	"time"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/reportcode"
@@ -69,27 +68,13 @@ func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, er
 		return cmd.Output()
 	}
 	git := func(args ...string) ([]byte, error) { return gitWithContext(ctx, args...) }
-	gitDir, err := git("rev-parse", "--absolute-git-dir")
-	if err != nil {
-		return "", errors.New("report repository is unavailable")
-	}
-	lock, err := os.OpenFile(filepath.Join(strings.TrimSpace(string(gitDir)), "submission-publish.lock"), os.O_CREATE|os.O_RDWR, 0600)
+	// with several jobs at once, two reports can be ready together: wait for the other commit (and
+	// its push) rather than failing the job
+	unlock, err := publishLock(ctx, repo)
 	if err != nil {
 		return "", err
 	}
-	defer lock.Close()
-	// with several jobs at once, two reports can be ready together: wait for the other commit (and
-	// its push) rather than failing the job
-	for waited := time.Duration(0); ; waited += 250 * time.Millisecond {
-		if err = syscall.Flock(int(lock.Fd()), syscall.LOCK_EX|syscall.LOCK_NB); err == nil {
-			break
-		}
-		if waited >= 2*time.Minute || ctx.Err() != nil {
-			return "", errors.New("another report is being committed")
-		}
-		time.Sleep(250 * time.Millisecond)
-	}
-	defer syscall.Flock(int(lock.Fd()), syscall.LOCK_UN)
+	defer unlock()
 	content, err := os.ReadFile(filepath.Join(d.Dir, d.Rel))
 	if err != nil {
 		return "", err

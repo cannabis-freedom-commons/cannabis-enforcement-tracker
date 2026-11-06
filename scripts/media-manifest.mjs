@@ -9,6 +9,9 @@
 //   node scripts/media-manifest.mjs              photos not in the manifest yet
 //   node scripts/media-manifest.mjs --retry      also try again those that failed
 //   node scripts/media-manifest.mjs --thumbs     (re)make missing thumbnails from archived originals
+//   node scripts/media-manifest.mjs --input <file.json>
+//       only these photos, already downloaded: [{ "url", "file" } | { "url", "error" }] (the
+//       submission service fetches them with its public-address-only client and commits the result)
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
@@ -19,19 +22,21 @@ import { rgbaToThumbHash } from "thumbhash";
 const MANIFEST = "src/data/media.json", ORIGINALS = "archive/media", THUMBS = "public/media";
 // the same browser identity as archive-media.mjs: many news sites refuse unknown clients
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36";
-const retry = process.argv.includes("--retry"), thumbsOnly = process.argv.includes("--thumbs");
+const retry = process.argv.includes("--retry") || process.argv.includes("--input"), thumbsOnly = process.argv.includes("--thumbs");
+const inputAt = process.argv.indexOf("--input");
+const input = inputAt > 0 ? JSON.parse(fs.readFileSync(process.argv[inputAt + 1], "utf8")) : null;
 const manifest = fs.existsSync(MANIFEST) ? JSON.parse(fs.readFileSync(MANIFEST, "utf8")) : {};
 
 // every photo the reports link, with the page it was published on
 const wanted = new Map();
-for (const p of fs.globSync("reports/**/*.md")) {
+for (const p of input ? [] : fs.globSync("reports/**/*.md")) {
   const t = fs.readFileSync(p, "utf8"), e = t.indexOf("\n---", 4);
   let d; try { d = load(t.slice(4, e)); } catch { continue; }
   for (const m of d.media ?? []) if (m.kind === "photo" && /^https?:\/\//.test(m.media_url ?? "")) wanted.set(m.media_url, m.url);
 }
 // what archive-media.mjs already keeps, by image address
 const archived = new Map();
-for (const f of fs.globSync("archive/*/manifest.json")) {
+for (const f of input ? [] : fs.globSync("archive/*/manifest.json")) {
   try { for (const x of JSON.parse(fs.readFileSync(f, "utf8"))) archived.set(x.image, path.join(path.dirname(f), x.file)); } catch {}
 }
 
@@ -71,7 +76,10 @@ async function one(url, page) {
   }
   if (old && (old.status === "ok" || !retry)) return;
   try {
-    const local = archived.get(url);
+    const given = input?.find((x) => x.url === url);
+    if (given?.error) throw new Error(given.error);
+    if (input && !given?.file) throw new Error("not downloaded"); // with --input, never fetch here
+    const local = given?.file ?? archived.get(url);
     const buf = local && fs.existsSync(local) ? fs.readFileSync(local) : await download(url, page);
     const sha256 = crypto.createHash("sha256").update(buf).digest("hex");
     const info = await describe(buf);
@@ -79,23 +87,24 @@ async function one(url, page) {
     fs.mkdirSync(ORIGINALS, { recursive: true });
     if (!originalOf(sha256)) fs.writeFileSync(path.join(ORIGINALS, `${sha256}.${ext}`), buf);
     await thumbnail(buf, sha256);
-    manifest[url] = { status: "ok", sha256, ...info, bytes: buf.length, fetched: new Date().toISOString(), via: local ? "archive" : "download" };
+    manifest[url] = { status: "ok", sha256, ...info, bytes: buf.length, fetched: new Date().toISOString(), via: given ? "service" : local ? "archive" : "download" };
   } catch (e) {
     manifest[url] = { status: "unavailable", error: String(e.message ?? e).slice(0, 160), fetched: new Date().toISOString() };
   }
 }
 
 // the reports' own cover images (src/assets/reports/): only a placeholder, keyed "cover:<name>"
-for (const f of fs.globSync("src/assets/reports/*.{jpg,jpeg,png,webp,avif}")) {
+for (const f of input ? [] : fs.globSync("src/assets/reports/*.{jpg,jpeg,png,webp,avif}")) {
   const key = `cover:${path.basename(f).replace(/\.[^.]+$/, "")}`;
   if (manifest[key]?.status === "ok" && !retry) continue;
   const buf = fs.readFileSync(f);
   try { manifest[key] = { status: "ok", sha256: crypto.createHash("sha256").update(buf).digest("hex"), ...(await describe(buf)), bytes: buf.length, via: "local" }; } catch {}
 }
 const save = () => {
-  const sorted = Object.fromEntries(Object.entries(manifest).filter(([u]) => wanted.has(u) || u.startsWith("cover:")).sort(([a], [b]) => a.localeCompare(b)));
+  const sorted = Object.fromEntries(Object.entries(manifest).filter(([u]) => input || wanted.has(u) || u.startsWith("cover:")).sort(([a], [b]) => a.localeCompare(b)));
   fs.writeFileSync(MANIFEST, JSON.stringify(sorted, null, 0).replace(/},"/g, '},\n"') + "\n");
 };
+if (input) for (const x of input) if (/^https?:\/\//.test(x.url ?? "")) wanted.set(x.url, null);
 const queue = [...wanted];
 let done = 0;
 await Promise.all(Array.from({ length: 8 }, async () => {

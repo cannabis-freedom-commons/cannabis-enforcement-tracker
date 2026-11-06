@@ -786,6 +786,17 @@ Its 6× plan allocation is API value divided by 6, including reasoning variants 
 The register, request detail, report research summary and AI statistics use the same calculations.
 Cost sorting uses API value, including the Swancloud and OpenCode Go Muse estimates.
 
+## Photo thumbnails
+
+After committing a report, the service gives the photos it links (`media` with a `media_url`) their
+entry in `src/data/media.json`: size, ThumbHash placeholder and a 320px AVIF thumbnail in
+`public/media/`. It downloads each new photo through the public-address-only client (`FetchImage`,
+images up to 25 MB, at most 12 per report); `scripts/media-manifest.mjs --input` only processes
+those files and never fetches. The manifest and thumbnails are committed on their own under the
+publication lock, with a `Submission-Media: <case>` trailer, and skipped when they have local
+edits. A failure leaves the report committed and is noted on the request; photos that could not
+be fetched are recorded as `unavailable`.
+
 ## Archived capture compression
 
 Playwright writes WebP for new captures that fit its size limit. Larger images are encoded
