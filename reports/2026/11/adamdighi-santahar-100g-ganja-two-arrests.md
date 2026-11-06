@@ -51,6 +51,11 @@ sources:
     publisher: Durniti Talash News TV
     date: 2026-11-05
     language: bn
+  - title: সান্তাহারে ইয়াবা ও গাঁজাসহ তালিকাভুক্ত দুই মাদক ব্যবসায়ী গ্রেপ্তার
+    url: https://aporadhtothyachitra.com/2026/11/06/%E0%A6%B8%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87-%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%93-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C/
+    publisher: Aporadh Tothyachitra
+    date: 2026-11-06
+    language: bn
 open_questions:
   - 'The two accounts differ on the raid address: Rupali Bangladesh puts it in the Adarshapara area of Santahar, while Daily Joypur Barta describes it as in the New Bazaar area of Santahar municipal town.'
   - 'The raid time differs by about half an hour: around 10 am in Rupali Bangladesh, around 9:30 am in Daily Joypur Barta.'
@@ -66,19 +71,23 @@ open_questions:
   - 'Left out, as its quotation was not found in Daily Joypur Barta: The men were sent to court after the case was filed against them at Adamdighi police station under the drug law.'
   - This account places the raid in the Adarshapara (New Bazaar) area of ward 3 in Santahar municipality, which reconciles the address difference the existing report records between Adarshapara and New Bazaar.
   - This account gives no raid time, and no court outcome beyond the filing of the case.
+  - Aporadh Tothyachitra places the raid only in the New Bazaar area of Santahar municipal town, without the Adarshapara ward detail other accounts give, and reports no raid time beyond 'Thursday morning'.
+  - The two men were sent to jail through a Bogura court after the Adamdighi police station case was filed, and no charge, remand hearing or court outcome beyond that was reported.
+  - The page's single featured image is uncaptioned and uncredited and could not be confirmed as a different photo from those already linked, so it was not added as media.
+  - This account reproduces the same local correspondent details as the other Bangla accounts, so it may not be independent of them.
 ---
 
 Jambu is the son of Ruhul Amin of the New Bazaar area of Santahar municipal town
 and Chowdhury the son of Nazim Uddin Chowdhury of Lakup West Colony in Bashipur.
-[@1]
+[@1,4]
 
 Inspector Shamsul Alam of the DNC's Santahar circle said the raid took place
 around 10 am in the Adarshapara area of Santahar on Thursday. [@1] The raid was
 carried out around 9:30 am that Thursday in the New Bazaar area of Santahar
-municipal town. [@2]
+municipal town. [@2,4]
 
 In the afternoon, DNC sub-inspector Shamima Akhtar filed a case against the men
 under the drug law at Adamdighi police station. [@1] DNC sub-inspector Shamima
-Akhtar said the department's continuing drive against drugs would carry on. [@2]
+Akhtar said the department's continuing drive against drugs would carry on. [@2,4]
 
 On 5 November 2026 DNC sub-inspector Shamima Akhtar filed a regular case at Adamdighi police station under Schedule 10(a)/19(a)/41 of section 36(1) of the Narcotics Control Act, 2018. [@3]
