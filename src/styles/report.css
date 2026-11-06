@@ -81,3 +81,6 @@
 .law-changes { list-style: none; padding: 0; margin: 4px 0 10px; }
 .law-changes li { margin-bottom: 6px; line-height: 1.4; }
 .law-changes time { display: block; font: 12px var(--mono); color: var(--muted); }
+
+/* the flag before a registry agency's name */
+.fact-flag { margin-right: .35em; }
