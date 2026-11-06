@@ -48,6 +48,11 @@ sources:
     publisher: Infobae
     date: 2026-06-03
     language: es
+  - title: Detienen en Paraguay a un cuarto estadounidense tras incautación de droga en avión privado
+    url: https://www.infobae.com/america/agencias/2026/05/31/detienen-en-paraguay-a-un-cuarto-estadounidense-tras-incautacion-de-droga-en-avion-privado/
+    publisher: Infobae
+    date: 2026-05-31
+    language: es
 open_questions:
   - Only InSight Crime's Spanish account and its English edition could be opened; no separate SENAD or prosecutor's statement was opened directly.
   - The total number of people detained is ambiguous because Brown's brief detention and the three United States citizens remaining in custody overlap in time, so the arrested figure records only the three reported as remaining in custody.
@@ -61,20 +66,22 @@ open_questions:
   - Infobae attributes Brown's release to the prosecutor's finding that there were no grounds to suspect him, and gives his age as 21; the report says he was 20 and that a SENAD representative said investigators found no evidence he knew about the drugs.
   - Infobae says Keith Siilats was not charged and left Paraguay on a commercial flight before the operation; the report records an arrest warrant against him, and that difference is unresolved.
   - The new names, detention order and charter payment rest on Infobae's summary of EFE, AP and ABC; no SENAD, prosecutor or court document was opened directly.
+  - The submitted article dates the seizure and arrests to Saturday, which would be 30 May 2026, while the existing report dates the discovery to 29 May; the calendar day remains unresolved.
+  - The submitted article gives only a per-kilogram estimate of about 14,000 dollars in Brazil and no total value, while the existing report keeps the 3.6 million-dollar total from later official accounts.
 ---
 
 20-year-old influencer and co-pilot Jabari Stephen Brown, known as Captain
 Treezy, was among those detained after the seizure after rising to fame by
-winning a viral MrBeast challenge in late 2025. [@1] Three United States
+winning a viral MrBeast challenge in late 2025. [@1,4] Three United States
 citizens who travelled aboard the jet remain in Paraguayan custody. [@1,3]
 Authorities identified the second pilot and registered owner of the jet as
 Estonian citizen Keith Siilats and issued an arrest warrant against him for
-international drug trafficking and unauthorized possession of narcotics. [@1]
+international drug trafficking and unauthorized possession of narcotics. [@1,4]
 Siilats, who left Paraguay before the operation, told InSight Crime he had no
 knowledge of the marijuana on board and plans to cooperate fully with Paraguayan
-authorities. [@1] Brown was briefly detained after the seizure but was released
+authorities. [@1,4] Brown was briefly detained after the seizure but was released
 on 31 May after investigators found no evidence he knew about the drugs,
-according to a SENAD representative. [@1,3]
+according to a SENAD representative. [@1,3,4]
 
 Paraguayan authorities discovered 261.6 kilograms of high-THC cannabis valued at
 US$3.6 million being unloaded from the aircraft at Silvio Pettirossi
@@ -82,7 +89,7 @@ International Airport in Asuncion on 29 May. [@1] The aircraft had departed
 Miami, stopped in Panama and then arrived in Paraguay, and investigators believe
 the marijuana was destined for Brazil. [@1,3] Paraguayan anti-drug prosecutor
 Ingrid Cubilla said the estimated value reflected demand in Brazil, where each
-kilogram can reach nearly US$14,000 on the illicit market. [@1]
+kilogram can reach nearly US$14,000 on the illicit market. [@1,4]
 
 The seized aircraft was a Bombardier Challenger 604, not the Hawker 400XP that
 Brown won in the MrBeast contest. [@1] A SENAD officer said the use of a large
@@ -90,4 +97,6 @@ executive aircraft was unusual among seizures recorded in the country. [@1] The
 English edition confirms that Brown was released on May 31, according to a
 representative of Paraguay's drug enforcement agency. [@2]
 
-A Paraguayan judge, Rosarito Montanía, ordered the pretrial detention of Marisol Rivas, Troy Anthony Vásquez and David Thomas Wise because they had no ties to Paraguay. [@3] The men were held at the Centro Nacional de Prevenidos in Asunción, and Rivas was sent to the prison at Emboscada, in the Cordillera department. [@3] The passengers were named as Marisol Rivas, 39, from New York; Troy Anthony Vásquez, 42, from Florida; and David Thomas Wise, 58, from California. [@3] Wise chartered the aircraft through a California company for USD 91,485, according to prosecutor Ingrid Cubilla. [@3] Paraguayan authorities arrested three of the US travellers in Asunción hotels and the co-pilot at the airport. [@3] The three detained passengers face international trafficking and unauthorised possession charges under articles 21 and 27 of Paraguay's Drug Law 1,340, according to ABC. [@3] SENAD agents intercepted the Challenger 604 in an airport hangar after a crew member tried to remove luggage containing eight packages of the marijuana. [@3]
+A Paraguayan judge, Rosarito Montanía, ordered the pretrial detention of Marisol Rivas, Troy Anthony Vásquez and David Thomas Wise because they had no ties to Paraguay. [@3] The men were held at the Centro Nacional de Prevenidos in Asunción, and Rivas was sent to the prison at Emboscada, in the Cordillera department. [@3] The passengers were named as Marisol Rivas, 39, from New York; Troy Anthony Vásquez, 42, from Florida; and David Thomas Wise, 58, from California. [@3] Wise chartered the aircraft through a California company for USD 91,485, according to prosecutor Ingrid Cubilla. [@3] Paraguayan authorities arrested three of the US travellers in Asunción hotels and the co-pilot at the airport. [@3] The three detained passengers face international trafficking and unauthorised possession charges under articles 21 and 27 of Paraguay's Drug Law 1,340, according to ABC. [@3,4] SENAD agents intercepted the Challenger 604 in an airport hangar after a crew member tried to remove luggage containing eight packages of the marijuana. [@3,4]
+
+Senad identified Siilats as a co-founder of the micromobility company Bolt Mobility in the United States. [@4] The four detainees were taken from SENAD's operations base to the Public Prosecutor's Office, where prosecutors took their statements. [@4]
