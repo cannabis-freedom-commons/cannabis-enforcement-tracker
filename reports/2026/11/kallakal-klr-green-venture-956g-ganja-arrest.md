@@ -47,6 +47,11 @@ sources:
     publisher: HMTV Live
     date: 2026-11-05
     language: te
+  - title: కాళ్లకల్‌లో ఎక్సైజ్ శాఖ దాడులు.. ఎండు గంజాయి పట్టివేత..
+    url: https://www.dishadaily.com/telangana/medak/excise-department-raids-in-kallakal-dried-ganja-cannabis-seized-598866
+    publisher: Disha Daily
+    date: 2026-11-05
+    language: te
 open_questions:
   - Neither account gives a separate date for the checks; 5 November 2026 is the publication date of both reports and is used as the incident date.
   - No case number, court appearance, charge detail or remand outcome was reported.
@@ -57,20 +62,19 @@ open_questions:
 
 Excise Department officers in Telangana's Medak district arrested a 22-year-old
 man from Bihar and seized 956 grams of dry ganja from him during surprise checks
-at KLR Green Venture in Kallakal village, Manoharabad mandal. [@1] The man was
-identified as Jyothish Kumar, 22, a native of Bihar. [@2] Officers stopped and
+at KLR Green Venture in Kallakal village, Manoharabad mandal. [@1,3] The man was
+identified as Jyothish Kumar, 22, a native of Bihar. [@2,3] Officers stopped and
 searched Kumar as he appeared suspicious at the venture, the site of the Excise
 Department's District Task Force checks. [@1]
 
 District Task Force (DTF) circle inspector J. Gopal, who announced the seizure,
-said the ganja would fetch about Rs 60,000 on the open market. [@1] The special
+said the ganja would fetch about Rs 60,000 on the open market. [@1,3] The special
 team acted on the orders of excise deputy commissioner Chandrayya Goud and
 superintendent L. Narasimha Reddy, led by CI Gopal. [@1] Officers handed Kumar
 and the seized ganja to the Narsapur excise circle office for further action.
-[@1]
+[@1,3]
 
 Excise staff Pundareekam, Waheed, Sravanthi and Shahid were among those who took
-part in the checks. [@1] Gopal said the department keeps round-the-clock
+part in the checks. [@1,3] Gopal said the department keeps round-the-clock
 surveillance on the transport, storage and sale of prohibited drugs and asked
 the public to report ganja information to officials immediately. [@1]
-
