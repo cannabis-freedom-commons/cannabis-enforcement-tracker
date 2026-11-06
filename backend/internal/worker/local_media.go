@@ -6,9 +6,11 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"net/url"
 	"os"
 	"os/exec"
 	"path/filepath"
+	"regexp"
 	"strings"
 	"syscall"
 	"time"
@@ -47,8 +49,47 @@ func publishLock(ctx context.Context, repo string) (func(), error) {
 
 // reportPhotos lists the photo addresses (media_url) the given committed reports link.
 func reportPhotos(repo string, rels []string) []string {
+	photos, _ := reportMedia(repo, rels)
+	return photos
+}
+
+var (
+	youtubeID = regexp.MustCompile(`^[\w-]{6,20}$`)
+	videoFile = regexp.MustCompile(`(?i)\.(mp4|webm|ogv|mov|m4v)$`)
+)
+
+// videoPoster says how a video that plays in place gets its poster: YouTube's preview image, or a
+// frame of the file (""); ok is false for a video shown only as a link (src/lib/media.js).
+func videoPoster(raw string) (poster string, ok bool) {
+	u, err := url.Parse(raw)
+	if err != nil || (u.Scheme != "http" && u.Scheme != "https") {
+		return "", false
+	}
+	if videoFile.MatchString(u.Path) {
+		return "", true
+	}
+	host := strings.TrimPrefix(strings.TrimPrefix(u.Hostname(), "www."), "m.")
+	id := ""
+	switch {
+	case host == "youtu.be":
+		id = strings.TrimPrefix(u.Path, "/")
+	case host == "youtube.com" || host == "youtube-nocookie.com":
+		id = u.Query().Get("v")
+		for _, prefix := range []string{"/embed/", "/shorts/", "/live/"} {
+			if id == "" && strings.HasPrefix(u.Path, prefix) {
+				id = strings.SplitN(strings.TrimPrefix(u.Path, prefix), "/", 2)[0]
+			}
+		}
+	}
+	if youtubeID.MatchString(id) {
+		return "https://i.ytimg.com/vi/" + id + "/hqdefault.jpg", true
+	}
+	return "", false
+}
+
+// reportMedia lists the photos and the videos that play in place the given reports link.
+func reportMedia(repo string, rels []string) (photos, videos []string) {
 	seen := map[string]bool{}
-	var out []string
 	for _, rel := range rels {
 		b, err := os.ReadFile(filepath.Join(repo, rel))
 		if err != nil {
@@ -68,13 +109,34 @@ func reportPhotos(repo string, rels []string) []string {
 			continue
 		}
 		for _, m := range data.Media {
-			if m.Kind == "photo" && strings.HasPrefix(m.MediaURL, "http") && !seen[m.MediaURL] {
+			if !strings.HasPrefix(m.MediaURL, "http") || seen[m.MediaURL] {
+				continue
+			}
+			if m.Kind == "photo" {
 				seen[m.MediaURL] = true
-				out = append(out, m.MediaURL)
+				photos = append(photos, m.MediaURL)
+			} else if _, ok := videoPoster(m.MediaURL); m.Kind == "video" && ok {
+				seen[m.MediaURL] = true
+				videos = append(videos, m.MediaURL)
 			}
 		}
 	}
-	return out
+	return photos, videos
+}
+
+// frameOf takes one frame of a downloaded video start as JPEG with ffmpeg, which reads only the
+// local file: a second in, or its first frame for a short clip.
+func frameOf(ctx context.Context, video, out string) error {
+	for _, at := range []string{"1", "0"} {
+		runCtx, cancel := context.WithTimeout(ctx, 30*time.Second)
+		cmd := exec.CommandContext(runCtx, "ffmpeg", "-nostdin", "-loglevel", "error", "-y", "-protocol_whitelist", "file", "-ss", at, "-i", video, "-frames:v", "1", "-f", "image2", "-vcodec", "mjpeg", out)
+		err := cmd.Run()
+		cancel()
+		if info, e := os.Stat(out); err == nil && e == nil && info.Size() > 1000 {
+			return nil
+		}
+	}
+	return errors.New("no frame could be read")
 }
 
 // commitMedia gives the photos of a just-committed report their manifest entry, ThumbHash
@@ -83,8 +145,8 @@ func reportPhotos(repo string, rels []string) []string {
 // public-address-only client; the script never fetches. Best effort: a failure leaves the report
 // committed and is returned as a note.
 func commitMedia(ctx context.Context, repo, cid, title string, rels []string) (string, error) {
-	photos := reportPhotos(repo, rels)
-	if len(photos) == 0 {
+	photos, videos := reportMedia(repo, rels)
+	if len(photos)+len(videos) == 0 {
 		return "", nil
 	}
 	known := map[string]struct {
@@ -94,10 +156,14 @@ func commitMedia(ctx context.Context, repo, cid, title string, rels []string) (s
 		_ = json.Unmarshal(b, &known)
 	}
 	var todo []string
-	for _, u := range photos {
+	isVideo := map[string]bool{}
+	for _, u := range append(append([]string{}, photos...), videos...) {
 		if _, ok := known[u]; !ok && len(todo) < 12 {
 			todo = append(todo, u)
 		}
+	}
+	for _, u := range videos {
+		isVideo[u] = true
 	}
 	if len(todo) == 0 {
 		return "", nil
@@ -108,12 +174,18 @@ func commitMedia(ctx context.Context, repo, cid, title string, rels []string) (s
 	}
 	defer os.RemoveAll(tmp)
 	type item struct {
-		URL   string `json:"url"`
-		File  string `json:"file,omitempty"`
-		Error string `json:"error,omitempty"`
+		URL    string `json:"url"`
+		Video  bool   `json:"video,omitempty"`
+		Poster string `json:"poster,omitempty"`
+		File   string `json:"file,omitempty"`
+		Error  string `json:"error,omitempty"`
 	}
 	var input []item
 	for i, u := range todo {
+		if isVideo[u] {
+			input = append(input, videoItem(ctx, tmp, i, u))
+			continue
+		}
 		fetchCtx, cancel := context.WithTimeout(ctx, 30*time.Second)
 		b, err := safeurl.FetchImage(fetchCtx, u)
 		cancel()
@@ -175,7 +247,54 @@ func commitMedia(ctx context.Context, repo, cid, title string, rels []string) (s
 			ok++
 		}
 	}
-	return fmt.Sprintf("%d of %d new photos got a thumbnail.", ok, len(input)), nil
+	return fmt.Sprintf("%d of %d new photos and videos got a thumbnail or poster.", ok, len(input)), nil
+}
+
+// videoItem gets a video's poster for the manifest script: YouTube's preview image, or a frame of
+// the file's first 16 MB (fetched through the public-address-only client; ffmpeg reads only that).
+func videoItem(ctx context.Context, tmp string, i int, u string) (it struct {
+	URL    string `json:"url"`
+	Video  bool   `json:"video,omitempty"`
+	Poster string `json:"poster,omitempty"`
+	File   string `json:"file,omitempty"`
+	Error  string `json:"error,omitempty"`
+}) {
+	it.URL, it.Video = u, true
+	poster, _ := videoPoster(u)
+	fetchCtx, cancel := context.WithTimeout(ctx, 45*time.Second)
+	defer cancel()
+	file := filepath.Join(tmp, fmt.Sprintf("%d.jpg", i))
+	if poster != "" {
+		it.Poster = poster
+		b, err := safeurl.FetchImage(fetchCtx, poster)
+		if err == nil {
+			err = os.WriteFile(file, b, 0600)
+		}
+		if err != nil {
+			it.Error = err.Error()
+			return it
+		}
+		it.File = file
+		return it
+	}
+	if _, err := exec.LookPath("ffmpeg"); err != nil {
+		it.Error = "ffmpeg is not installed"
+		return it
+	}
+	b, err := safeurl.FetchVideoStart(fetchCtx, u, 16*1024*1024)
+	video := filepath.Join(tmp, fmt.Sprintf("%d.video", i))
+	if err == nil {
+		err = os.WriteFile(video, b, 0600)
+	}
+	if err == nil {
+		err = frameOf(ctx, video, file)
+	}
+	if err != nil {
+		it.Error = err.Error()
+		return it
+	}
+	it.File = file
+	return it
 }
 
 // restoreMedia undoes an unfinished thumbnail run: the manifest as committed, no new files.

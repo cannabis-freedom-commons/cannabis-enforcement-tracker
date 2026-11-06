@@ -797,6 +797,12 @@ publication lock, with a `Submission-Media: <case>` trailer, and skipped when th
 edits. A failure leaves the report committed and is noted on the request; photos that could not
 be fetched are recorded as `unavailable`.
 
+Videos that play in place get a 640px poster the same way: YouTube's preview image (fetched with
+`FetchImage`), or for a video file a frame taken by ffmpeg from its first 16 MB, which
+`FetchVideoStart` downloads through the same client; ffmpeg reads only that local file
+(`-protocol_whitelist file`). A file not laid out for streaming may yield no frame; it is recorded
+as `unavailable` and shows its play button without a poster.
+
 ## Archived capture compression
 
 Playwright writes WebP for new captures that fit its size limit. Larger images are encoded

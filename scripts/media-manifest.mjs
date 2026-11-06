@@ -12,8 +12,9 @@
 //   node scripts/media-manifest.mjs --retry      also try again those that failed
 //   node scripts/media-manifest.mjs --thumbs     (re)make missing thumbnails from archived originals
 //   node scripts/media-manifest.mjs --input <file.json>
-//       only these photos, already downloaded: [{ "url", "file" } | { "url", "error" }] (the
-//       submission service fetches them with its public-address-only client and commits the result)
+//       only these, already downloaded: [{ "url", "file" } | { "url", "error" }], and for a video
+//       { "url", "video": true, "poster"?, "file" (its poster or a frame) | "error" } (the submission
+//       service fetches them with its public-address-only client and commits the result)
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
@@ -122,15 +123,18 @@ async function frameOf(url) {
 async function oneVideo(url, page) {
   const old = manifest[url];
   if (old && (old.status === "ok" || !retry)) return;
-  const source = posterSource(url);
+  const source = posterSource(url) ?? { kind: "file", poster: null };
+  const given = input?.find((x) => x.url === url);
   try {
-    const buf = source.kind === "youtube" ? await download(source.poster, page) : await frameOf(url);
+    if (given?.error) throw new Error(given.error);
+    if (input && !given?.file) throw new Error("not downloaded"); // with --input, never fetch here
+    const buf = given ? fs.readFileSync(given.file) : source.kind === "youtube" ? await download(source.poster, page) : await frameOf(url);
     const sha256 = crypto.createHash("sha256").update(buf).digest("hex");
     const info = await describe(buf);
     fs.mkdirSync(ORIGINALS, { recursive: true });
     if (!originalOf(sha256)) fs.writeFileSync(path.join(ORIGINALS, `${sha256}.${info.type.split("/")[1].replace("jpeg", "jpg")}`), buf);
     await thumbnail(buf, sha256, 640);
-    manifest[url] = { kind: "video", status: "ok", poster: source.poster, sha256, ...info, bytes: buf.length, fetched: new Date().toISOString(), via: source.kind };
+    manifest[url] = { kind: "video", status: "ok", poster: source.poster, sha256, ...info, bytes: buf.length, fetched: new Date().toISOString(), via: given ? "service" : source.kind };
   } catch (e) {
     manifest[url] = { kind: "video", status: "unavailable", error: String(e.message ?? e).slice(0, 160), fetched: new Date().toISOString() };
   }
@@ -147,7 +151,7 @@ const save = () => {
   const sorted = Object.fromEntries(Object.entries(manifest).filter(([u]) => input || wanted.has(u) || videos.has(u) || u.startsWith("cover:")).sort(([a], [b]) => a.localeCompare(b)));
   fs.writeFileSync(MANIFEST, JSON.stringify(sorted, null, 0).replace(/},"/g, '},\n"') + "\n");
 };
-if (input) for (const x of input) if (/^https?:\/\//.test(x.url ?? "")) wanted.set(x.url, null);
+if (input) for (const x of input) if (/^https?:\/\//.test(x.url ?? "")) (x.video ? videos : wanted).set(x.url, null);
 const queue = [...wanted, ...[...videos].map(([u, p]) => [u, p, true])];
 let done = 0;
 await Promise.all(Array.from({ length: 8 }, async () => {

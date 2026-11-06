@@ -214,3 +214,38 @@ func FetchImage(ctx context.Context, raw string) ([]byte, error) {
 	}
 	return b, nil
 }
+
+// FetchVideoStart downloads the beginning of a video file a report links, at most max bytes,
+// through the public-address-only client: enough for a frame when the file is laid out for
+// streaming. Only video (or unlabelled) content is accepted.
+func FetchVideoStart(ctx context.Context, raw string, max int64) ([]byte, error) {
+	normalized, err := Normalize(raw)
+	if err != nil {
+		return nil, err
+	}
+	req, err := http.NewRequestWithContext(ctx, "GET", normalized, nil)
+	if err != nil {
+		return nil, err
+	}
+	req.Header.Set("User-Agent", "CannabisEnforcementTracker/1.0 (video posters)")
+	req.Header.Set("Range", fmt.Sprintf("bytes=0-%d", max-1))
+	res, err := Client().Do(req)
+	if err != nil {
+		if errors.Is(err, ErrUnsafeDestination) {
+			return nil, err
+		}
+		return nil, errors.New("fetch failed")
+	}
+	defer res.Body.Close()
+	if res.StatusCode != 200 && res.StatusCode != 206 {
+		return nil, fmt.Errorf("HTTP %d", res.StatusCode)
+	}
+	if ct := strings.TrimSpace(strings.SplitN(res.Header.Get("Content-Type"), ";", 2)[0]); ct != "" && !strings.HasPrefix(ct, "video/") && ct != "application/octet-stream" && ct != "binary/octet-stream" {
+		return nil, fmt.Errorf("not a video (%s)", ct)
+	}
+	b, err := io.ReadAll(io.LimitReader(res.Body, max))
+	if err != nil && len(b) == 0 {
+		return nil, errors.New("fetch failed")
+	}
+	return b, nil
+}
