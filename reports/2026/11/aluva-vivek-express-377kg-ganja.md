@@ -77,22 +77,29 @@ sources:
     publisher: Deshabhimani
     date: 2026-11-06
     language: ml
+  - title: ശർക്കര പൊതിഞ്ഞ നിലയിൽ കടത്തിക്കൊണ്ടുവന്ന 37 കിലോ കഞ്ചാവ് ആർപിഎഫ് പിടിച്ചെടുത്തു; വിപണിവില 19 ലക്ഷം രൂപ
+    url: https://malayalam.news18.com/news/crime/rpf-seizes-37-7-kg-of-cannabis-coated-in-jaggery-worth-19-lakh-srn-794657.html
+    publisher: News18 Malayalam
+    date: 2026-11-06
+    language: ml
 open_questions:
   - Neither report gives the origin or intended destination of the sacks, or where on the route they were placed on the train.
   - No arrest, charge or court step has been reported; investigators said they were trying to identify those behind the consignment.
   - The value of about 19 lakh rupees is the RPF's own estimate, as carried in the reports, not a court-assessed valuation.
   - The two Hindi and Malayalam reports both date the inspection to Thursday, 5 November 2026, the publication day; no separate check time was published.
   - This Malayalam account does not give the train's origin or destination, the number of the service, or when the sacks were placed aboard.
+  - News18 Malayalam dates the inspection only as "the other day" (കഴിഞ്ഞ ദിവസം) and was published on 6 November 2026; the date of 5 November 2026 used in the report comes from the other accounts.
+  - News18 Malayalam repeats the RPF's estimate of about 19 lakh rupees without naming who made the estimate.
 ---
 
 Railway Protection Force officers seized 37.7 kg of ganja from the
 Dibrugarh–Kanyakumari Vivek Express at Aluva railway station in Kerala on
-Thursday, 5 November 2026. [@1,4,5] The force put the value of the seized ganja at
+Thursday, 5 November 2026. [@1,4,5,6] The force put the value of the seized ganja at
 about 19 lakh rupees. [@1,5]
 
 Officers found four unclaimed sacks in a general coach while inspecting train
 number 22504 after it reached Aluva; they appeared to hold jaggery, but the
-ganja was packed beneath a jaggery coating. [@1,4,5] Malayala Manorama reported that
+ganja was packed beneath a jaggery coating. [@1,4,5,6] Malayala Manorama reported that
 the cannabis was split across four sacks concealed under jaggery-like wrapping
 and weighed 37.700 kg. [@2] Malayala Manorama reported that the cannabis was
 found unclaimed in the general coach after the train arrived. [@2]
@@ -106,8 +113,10 @@ supervision of Inspector Jipin A.J. of Thiruvananthapuram, the outlet reported.
 [@3]
 
 The RPF handed the ganja to the Aluva Excise Department for further action and
-investigation. [@1,5] The RPF said smugglers had previously hidden ganja in
+investigation. [@1,5,6] The RPF said smugglers had previously hidden ganja in
 cricket bats, shoes, inverter boxes, paint tins and other goods, and that checks
 at stations and on trains had been stepped up for the festival season. [@1]
 
-The inspection was carried out by Thiruvananthapuram RPF Crime Intelligence Branch Inspector A. J. Jibin with ASIs Sijo Xavier and Vijayakumar, Head Constable Vipin and Constable Nikhil. [@5]
+The inspection was carried out by Thiruvananthapuram RPF Crime Intelligence Branch Inspector A. J. Jibin with ASIs Sijo Xavier and Vijayakumar, Head Constable Vipin and Constable Nikhil. [@5,6]
+
+The RPF said checks at stations and on trains would be tightened for the Deepavali festival season. [@6]
