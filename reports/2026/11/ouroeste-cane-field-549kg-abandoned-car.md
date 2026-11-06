@@ -85,6 +85,11 @@ sources:
     publisher: Agência SP
     date: 2026-11-05
     language: pt
+  - title: 'Operação em canavial de SP destrói rota do tráfico: meia tonelada de maconha apreendida - BRA 1'
+    url: https://www.bra1.com.br/policia/id-720817/operacao_em_canavial_de_sp_destroi_rota_do_trafico__meia_tonelada_de_maconha_apreendida
+    publisher: BRA 1
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The opened accounts do not specify the exact spot in the cane field, such as the road or kilometre marker.
   - No suspect was named and no arrest, charge or court outcome was reported; the investigation was still under way.
@@ -93,24 +98,25 @@ open_questions:
   - Fato Paulista describes the FICCO task force as linked to the Public Ministry, while the Federal Police's own statement lists its members as federal and São Paulo state agencies.
   - Fato Paulista gives no exact weight, only more than half a tonne, so the 549.6 kg figure still rests on the Federal Police count.
   - Agência SP gives no exact weight, only "more than meia tonelada", so it does not settle the difference between the 549 kg and 549.6 kg figures in the report.
+  - This account gives only more than 500 kg rather than the 549.6 kg Federal Police weighing, so the exact weight still rests on the earlier Federal Police count.
 ---
 
 Highway officers found a car abandoned in a sugarcane field beside a highway in
-Ouroeste, São Paulo, on Wednesday 4 November 2026. [@1,5] During the inspection,
+Ouroeste, São Paulo, on Wednesday 4 November 2026. [@1,5,7] During the inspection,
 officers found hundreds of cannabis tablets hidden in the vehicle, in the trunk
-and on the back seat. [@1,6] The Federal Police weighed the load at 549.6 kg of
+and on the back seat. [@1,6,7] The Federal Police weighed the load at 549.6 kg of
 maconha in the Ouroeste region. [@2] São Paulo public-security authorities
 estimated the seizure caused more than R$1 million in losses to organised crime.
-[@1,5,6]
+[@1,5,6,7]
 
 The operation was led by the Tático Ostensivo Rodoviário with the FICCO task
-force and the Public Ministry. [@1] Canine teams from the 9th BAEP, officers of
+force and the Public Ministry. [@1,7] Canine teams from the 9th BAEP, officers of
 the 16th Interior Police Battalion and the Minas Gerais military police also
-took part. [@1,6]
+took part. [@1,6,7]
 
 Officers searched the surrounding area, but no one was found to take
-responsibility for the car and the driver was not located. [@1] The vehicle and
+responsibility for the car and the driver was not located. [@1,7] The vehicle and
 the drugs were taken to the Federal Police station in Jales, which continues to
-investigate to identify those responsible for the transport. [@2]
+investigate to identify those responsible for the transport. [@2,7]
 
 The vehicle was a rented car, and the rental documents were left inside it. [@3] The car was found near kilometre 188 of the SP-463 highway in Ouroeste. [@4]
