@@ -34,6 +34,11 @@ sources:
     publisher: WP Info
     date: 2026-11-03
     language: pl
+  - title: Cztery dożywotnie zakazy i ucieczka przed policją. 45-latek trafił do więzienia
+    url: https://iotwock.info/artykul/cztery-dozywotnie-zakazy-n1876251
+    publisher: iOtwock.info
+    date: 2026-11-05
+    language: pl
 open_questions:
   - The sources give only publication dates of 3 November 2026 with no separate incident day, so 3 November 2026 is used as the incident date.
   - The marijuana finding is only a preliminary test result; confirmatory blood-test results were not reported.
@@ -43,24 +48,25 @@ open_questions:
   - The submitted page's only relevant image is captioned only with its police source and does not establish what it shows, so no media entry is included.
   - The TuStolica account repeats the Otwock police statement; no independent account beyond the police version was found.
   - The WP Info page declares canonical to the TuStolica.pl URL and reproduces the same partner text, so it provides no independent account beyond the police version already cited.
+  - The iOtwock.info account was published on 5 November 2026, two days after the existing report's sources, but gives no separate day for the pursuit itself.
 ---
 
 Otwock traffic police detained a 45-year-old Peugeot driver who tried to avoid a
-road check. [@1,3] The incident began in Józefów. [@1] Officers of the traffic
+road check. [@1,3,4] The incident began in Józefów. [@1] Officers of the traffic
 department noticed the Peugeot and decided to check the driver. [@1] The driver
 first slowed as if he would obey the officers. [@1] When an officer showed him
 where to stop safely, he accelerated sharply and fled. [@1] Officers immediately
 set off after the fleeing car. [@1] The pursuit ended in Otwock, where the
-traffic police stopped the Peugeot safely. [@2,3]
+traffic police stopped the Peugeot safely. [@2,3,4]
 
 The car was secured and towed to the police parking lot. [@2] The driver had
-ignored four lifetime bans on driving imposed by a court. [@1] A preliminary
+ignored four lifetime bans on driving imposed by a court. [@1,4] A preliminary
 test indicated marijuana in his body, so officers took blood for further
-testing. [@2,3] A records check showed he was wanted to serve a prison term of one
+testing. [@2,3,4] A records check showed he was wanted to serve a prison term of one
 year and three months. [@2] He was charged with failing to stop for a road check
-and driving under the influence despite the court bans. [@2] After the
+and driving under the influence despite the court bans. [@2,4] After the
 procedures he was taken to a prison, where he is to spend the next 15 months.
-[@1]
+[@1,4]
 
 The Wydział Ruchu Drogowego, Otwock's traffic-police unit, handled the stop, and
 officer Patryk Domarecki said the driver tried to avoid control but was stopped
