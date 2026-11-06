@@ -96,6 +96,11 @@ sources:
     publisher: Madhyamam
     date: 2026-11-06
     language: ml
+  - title: കണ്ടാൽ ശർക്കര, ഉള്ളിൽ കഞ്ചാവ്; ട്രെയിനിൽ ഉപേക്ഷിക്കപ്പെട്ട നിലയിൽ കണ്ടെത്തിയത് 19 ലക്ഷം രൂപയുടെ കഞ്ചാവ്
+    url: https://www.manoramaonline.com/district-news/ernakulam/2026/11/05/aluva-ganja-seizure-rpf-vivek-express.amp.html
+    publisher: Malayala Manorama
+    date: 2026-11-05
+    language: ml
 open_questions:
   - Neither report gives the origin or intended destination of the sacks, or where on the route they were placed on the train.
   - No arrest, charge or court step has been reported; investigators said they were trying to identify those behind the consignment.
@@ -119,19 +124,19 @@ Officers found four unclaimed sacks in a general coach while inspecting train
 number 22504 after it reached Aluva; they appeared to hold jaggery, but the
 ganja was packed beneath a jaggery coating. [@1,4,5,6,7,8] Malayala Manorama reported that
 the cannabis was split across four sacks concealed under jaggery-like wrapping
-and weighed 37.700 kg. [@2] Malayala Manorama reported that the cannabis was
-found unclaimed in the general coach after the train arrived. [@2]
+and weighed 37.700 kg. [@2,9] Malayala Manorama reported that the cannabis was
+found unclaimed in the general coach after the train arrived. [@2,9]
 
 No one has been arrested over the seizure. [@1,7,8] Investigators were trying to
 establish where on the route the sacks were placed on the train and who was
 behind them. [@1] Malayala Manorama reported that no suspects had been traced.
-[@2] The seizure was made by the RPF Crime Intelligence Branch under the
+[@2,9] The seizure was made by the RPF Crime Intelligence Branch under the
 instructions of Senior Divisional Security Commissioner Mohammed Haneef and the
 supervision of Inspector Jipin A.J. of Thiruvananthapuram, the outlet reported.
 [@3]
 
 The RPF handed the ganja to the Aluva Excise Department for further action and
-investigation. [@1,5,6,7,8] The RPF said smugglers had previously hidden ganja in
+investigation. [@1,5,6,7,8,9] The RPF said smugglers had previously hidden ganja in
 cricket bats, shoes, inverter boxes, paint tins and other goods, and that checks
 at stations and on trains had been stepped up for the festival season. [@1,7]
 
