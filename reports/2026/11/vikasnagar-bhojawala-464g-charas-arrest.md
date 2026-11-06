@@ -51,6 +51,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-06
     language: hi
+  - title: Dehradun News:कार में छिपाकर रखी थी 464 ग्राम चरस, तस्कर गिरफ्तार
+    url: https://www.amarujala.com/dehradun/found-hidden-in-a-car-smuggler-arrestedfound-hidden-in-a-car-smuggler-arrested-vikas-nagar-news-c-39-1-sdrn1026-138325-2026-11-06
+    publisher: Amar Ujala
+    date: 2026-11-06
+    language: hi
 open_questions:
   - No street value for the seized charas was published.
   - The report does not specify which Mirzapur the accused said he bought the charas in.
@@ -60,21 +65,22 @@ open_questions:
 ---
 
 Under Operation Prahar, Vikasnagar police arrested Pradeep alias Sonu with 464
-grams of charas in the Bhojawala area. [@1] The accused is 45-year-old Pradeep
+grams of charas in the Bhojawala area. [@1,2] The accused is 45-year-old Pradeep
 alias Sonu, son of Mir Singh and a resident of Bhojawala, Vikasnagar. [@1]
 Police said they acted on 5 November on information that a Maruti Swift car in
 the Bhojawala area contained a suspicious item. [@1] A police team reached the
 spot and found a man standing beside the car. [@1] A search of the vehicle in
 his presence found 464 grams of charas hidden in plastic under the steering
-sheet. [@1]
+sheet. [@1,2]
 
-Police seized the Maruti Swift car used in the smuggling. [@1] During
-questioning, the accused said he had bought the charas in Mirzapur. [@1] He said
+Police seized the Maruti Swift car used in the smuggling. [@1,2] During
+questioning, the accused said he had bought the charas in Mirzapur. [@1,2] He said
 he had hidden it in the car to sell it in small quantities to villagers and
-passersby for higher profit while looking for customers. [@1] A case under the
+passersby for higher profit while looking for customers. [@1,2] A case under the
 NDPS Act was registered against him at Vikasnagar Kotwali, and he was produced
-in court and sent to jail. [@1]
+in court and sent to jail. [@1,2]
 
 Police said an NDPS Act case had also been registered against him at Vikasnagar
 Kotwali in 2019. [@1]
 
+Station officer Rajiv Routhan said police acted on a tip on 5 November that a car in the Bhojawala area contained a suspicious item. [@2]
