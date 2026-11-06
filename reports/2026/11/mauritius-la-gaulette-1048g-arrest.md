@@ -34,6 +34,11 @@ sources:
     publisher: lexpress.mu
     date: 2026-11-04
     language: fr
+  - title: 'Drogue : deux opérations de l’ADSU à La Gaulette et à Cité La Cure'
+    url: https://defimedia.info/drogue-deux-operations-de-ladsu-la-gaulette-et-cite-la-cure
+    publisher: Defimedia.info
+    date: 2026-11-05
+    language: fr
 open_questions:
   - Only one accessible source for this event was found after searching in French and English.
   - The cannabis is described as presumed or suspected, and no laboratory confirmation was reported.
@@ -44,13 +49,13 @@ open_questions:
 
 Anti-Drug and Smuggling Unit officers searched the home of a 26-year-old man at
 Le Petit Morne, La-Gaulette, on Tuesday 3 November. [@1] The suspect was
-identified as Daniel François Laridain. [@1] He was arrested at about 12:15 at
+identified as Daniel François Laridain. [@1,2] He was arrested at about 12:15 at
 his home in Le Petit Morne. [@1] The operation was conducted by Superintendent
 Vedpathak and ADSU Team C. [@1] Laridain was sent to the Vacoas detention
 centre. [@1] He appeared on a provisional drug-trafficking charge. [@1]
 
-Officers seized 1,048 g of suspected cannabis in the search. [@1] Officers also
-seized Rs 461,400 suspected of coming from drug trafficking. [@1] The suspected
+Officers seized 1,048 g of suspected cannabis in the search. [@1,2] Officers also
+seized Rs 461,400 suspected of coming from drug trafficking. [@1,2] The suspected
 drug was in two transparent resealable plastic bags with a red strip containing
 leaves suspected to be cannabis. [@1] The second bag held nine small heat-sealed
 packets and another transparent plastic bag, also containing plant matter
@@ -62,4 +67,3 @@ An investigation for possession of cannabis for sale, with a presumption of
 trafficking, was opened after the discovery. [@1] The suspect is also under
 investigation for money laundering in a separate procedure linked to the case.
 [@1]
-
