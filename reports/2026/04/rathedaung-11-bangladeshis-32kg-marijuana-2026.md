@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 11
   kg_seized: 32
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [coast-guard]
+  products: [{product: flower, kg: 32}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: eaceeb0571264ede35a9e4ee61bbc70e

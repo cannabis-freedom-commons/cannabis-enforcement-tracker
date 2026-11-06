@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  activity: [sale]
+  agency_types: [prosecutor]
+  case_stage: sentenced
+  setting: [forest, mail, prison]
+data_sources:
+  details.activity: [1, 4, 2, 3, 5]
+  details.agency_types: [1, 4, 2]
+  details.case_stage: [2, 3, 4, 5, 1]
+  details.setting: [2, 4, 5, 3, 1]
 media:
   - kind: photo
     url: https://kyiv.npu.gov.ua/news/maskuvala-narkotyky-sered-odiahu-u-kyievi-sudytymut-33-richnu-narkotorhovytsiu

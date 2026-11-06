@@ -21,6 +21,16 @@ figures:
   prison: "14 years (each: Albert Hulst, Christiaan Ekkebus, Arjeh Van Dijk)"
   value: { amount: 43000000, currency: GBP }
 created_by_model: meta/muse-spark
+details:
+  agency_types: [customs, police]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 8690.02}]
+  setting: [port, vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [red-scorpion, hm-customs-and-excise, north-sea, edinburgh-high-court]
 open_questions:

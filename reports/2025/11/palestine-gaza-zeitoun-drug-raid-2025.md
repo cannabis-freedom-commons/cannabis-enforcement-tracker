@@ -11,6 +11,14 @@ summary: >-
   hashish, 317 Rotana pills, five marijuana plants, a rifle and ammunition. Two suspects were
   arrested; the police said drug flows into Gaza had risen since the war.
 created_by_model: unknown
+details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: palestine-gaza-zeitoun-drug-raid-2025
 sources:

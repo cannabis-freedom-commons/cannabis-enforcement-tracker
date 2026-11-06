@@ -16,6 +16,14 @@ summary: >-
   9 kg of cannabis in 26 days with £150,000 monthly turnover.
 figures:
   charged: 2
+details:
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [merseyside, wigan, rainhill, social-media, project-medusa]

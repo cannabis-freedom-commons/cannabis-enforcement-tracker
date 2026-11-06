@@ -19,6 +19,18 @@ figures:
   charged: 2
   prison: 14 months
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: plants}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [3, 1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [1, 2]
 status: verified
 tags: [indoor-grow, bunker, worcestershire, retrial]
 media:

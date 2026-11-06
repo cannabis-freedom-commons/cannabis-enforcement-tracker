@@ -17,6 +17,18 @@ figures:
   value:
     amount: 72063420
     currency: TTD
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 481}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [3, 1, 2]
+  details.products: [3, 1, 2]
+  details.setting: [2, 3, 1]
 media:
   - kind: photo
     url: https://newsday.co.tt/2022/08/07/72-million-in-marijuana-seized-in-barbados-after-leaving-trinidad-and-tobago/

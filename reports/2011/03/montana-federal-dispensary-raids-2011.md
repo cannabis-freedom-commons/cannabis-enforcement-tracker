@@ -19,14 +19,18 @@ details:
   agencies: [us-dea, us-fbi]
   agency_types: [anti-narcotics, police]
   case_stage: sentenced
+  environment: [greenhouse]
   products: [{product: flower}, {product: plants}]
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.activity: [2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2, 3]
+  details.environment: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
   details.setting: [1, 2, 3]
 status: verified
 tags: [dea, medical-marijuana, search-warrants]

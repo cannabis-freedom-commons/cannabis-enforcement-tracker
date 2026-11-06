@@ -21,6 +21,7 @@ details:
   case_stage: sentenced
   environment: [indoor]
   products: [{product: plants}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
@@ -28,6 +29,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.environment: [2]
   details.products: [1]
+  details.sentence_types: [2, 1]
   details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

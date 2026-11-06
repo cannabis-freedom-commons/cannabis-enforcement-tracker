@@ -11,6 +11,16 @@ summary: >-
   suspended, and a 2.5 million CFP fine. The case followed arrests on 21 April 2026 and a seizure of
   2 kg of cannabis and nearly 4.5 million CFP in cash.
 created_by_model: unknown
+details:
+  agency_types: [gendarmerie, court]
+  case_stage: sentenced
+  sentence_types: [prison, probation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: french-polynesia-huahine-trial-2026
 tags:

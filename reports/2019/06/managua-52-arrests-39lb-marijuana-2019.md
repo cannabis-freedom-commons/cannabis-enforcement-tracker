@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 52
   kg_seized: 17.69
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 17.69}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.products: [1, 2, 3]
+  details.setting: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.el19digital.com/articulos/ver/91241-mas-de-50-detenidos-por-cometer-delitos-de-peligrosidad-en-nicaragua-

@@ -14,6 +14,18 @@ summary: >-
   Police in João Pessoa seized 174 tablets of suspected marijuana from a van registered to civil police delegate Walter Brandão on 1 November 2026. The workshop owner was booked for trafficking while the delegate said he knew nothing of the drugs and the driver remained missing.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [2, 4, 7, 8, 9, 12]
+  details.agency_types: [2, 9, 10, 1, 14, 3]
+  details.case_stage: [10, 11]
+  details.products: [1, 10, 14, 3, 4, 6]
+  details.setting: [2, 4, 7, 8, 9, 12]
 media:
   - kind: photo
     url: https://www.sertaodaparaiba.com.br/noticia/policia-investiga-apreensao-de-maconha-em-van-ligada-a-delegado-em-joao-pessoa

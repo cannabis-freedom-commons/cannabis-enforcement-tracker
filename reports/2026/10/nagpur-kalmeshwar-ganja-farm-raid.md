@@ -20,6 +20,14 @@ figures:
   kg_seized: 1.358
   value: { amount: 27120, currency: INR }
 created_by_model: unknown
+details:
+  activity: [smuggling, cultivation]
+  agency_types: [anti-narcotics, police]
+  products: [{product: flower, kg: 1.358}]
+data_sources:
+  details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.products: [1, 2, 3, 4]
 status: verified
 tags: [nagpur]
 sources:

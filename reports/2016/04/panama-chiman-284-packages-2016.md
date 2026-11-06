@@ -13,6 +13,16 @@ summary: >-
   Panama's aeronaval service intercepted two boats off Isla Majé in Chimán district on 24 April 2016 and seized 284 packages of marijuana, confirmed by a field test. Four Colombian crew and one Colombian-Panamanian man in a second boat were detained and handed to anti-drug prosecutors.
 figures:
   arrested: 5
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [3, 2, 1]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1, 3]
+  details.products: [2, 1, 3]
 media:
   - kind: video
     url: https://www.tvn-2.com/nacionales/decomiso-paquetes-marihuana-droga-senan-video_1_1664689.html

@@ -14,6 +14,16 @@ summary: >-
   Mandau Police arrested BKA (34) and AP (31) at a house in Pematang Pudu, Duri, on 2 November 2026 and seized 21 packets of cannabis. Officers also took two phones and two motorcycles, and said investigation into the drugs' origin continues.
 figures:
   arrested: 2
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
+  details.setting: [1, 3, 2]
 media:
   - kind: photo
     url: https://kabarduri.net/21-paket-ganja-disita-dua-pria-ditangkap-polsek-mandau-di-duri/

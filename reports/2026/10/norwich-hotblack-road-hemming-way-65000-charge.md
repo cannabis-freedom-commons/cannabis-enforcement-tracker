@@ -17,6 +17,14 @@ figures:
   value:
     amount: 65000
     currency: GBP
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 media:
   - kind: photo
     url: https://www.eveningnews24.co.uk/news/26702179.man-charged-65-000-police-drug-seizure-norwich/

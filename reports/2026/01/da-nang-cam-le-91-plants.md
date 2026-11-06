@@ -19,6 +19,18 @@ figures:
   arrested: 1
   charged: 1
 created_by_model: spacexai/grok-4.7
+details:
+  activity: [sale]
+  agency_types: [police]
+  environment: [indoor]
+  products: [{product: plants}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 status: verified
 tags: [da-nang, cam-le, indoor]
 open_questions:

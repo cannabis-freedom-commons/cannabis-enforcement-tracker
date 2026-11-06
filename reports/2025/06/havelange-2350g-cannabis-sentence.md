@@ -19,6 +19,18 @@ figures:
   kg_seized: 2.35
   prison: 2 years
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 2.35}, {product: flower}]
+  sentence_types: [prison, probation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [namur, wallonia, traffic-stop]
 open_questions:

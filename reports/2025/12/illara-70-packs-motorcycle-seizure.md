@@ -10,6 +10,14 @@ type: seizure
 title: 70 cannabis packs seized as rider flees in Illara
 summary: >-
   Border police in Illara seized 70 packs of cannabis after a motorcyclist abandoned his motorcycle and fled into the bush during a night check near the frontier. No suspect was arrested, and police appealed for help to identify the rider and find possible storage points.
+details:
+  agency_types: [border-guard, police]
+  case_stage: appeal
+  setting: [mail]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a8974ef9174a29f28bae0c18d4c8f63a

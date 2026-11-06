@@ -19,6 +19,14 @@ figures:
   plants_destroyed: 28964
   kg_seized: 1809.83
   value: { amount: 150000000, currency: CAD }
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [york-region, project-green-sweep, medical-licences]

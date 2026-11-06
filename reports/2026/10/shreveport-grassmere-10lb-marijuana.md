@@ -19,6 +19,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 4.536
+details:
+  activity: [possession]
+  agency_types: [police]
+  products: [{product: flower, kg: 4.536}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [shreveport, warrant, vcat]

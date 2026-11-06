@@ -19,6 +19,16 @@ figures:
   plants_destroyed: 32840
   kg_seized: 7225.73
 created_by_model: meta/muse-spark
+details:
+  activity: [cultivation]
+  case_stage: investigation
+  products: [{product: flower, kg: 7225.73}, {product: plants, plants: 32840}]
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [humboldt, unpermitted-grow, environment]
 open_questions:

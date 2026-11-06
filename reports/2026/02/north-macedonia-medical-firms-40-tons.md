@@ -14,6 +14,18 @@ summary: >-
   Police in North Macedonia seized more than 40 tons of cannabis from licensed medical producers in raids around Skopje and Strumica in early February 2026. The Interior Ministry said the cannabis was suspected of diversion to the illegal market; no arrests were disclosed.
 figures:
   kg_seized: 40000
+details:
+  activity: [trafficking]
+  agency_types: [customs, police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 40000}, {product: oil}]
+  setting: [vehicle, building]
+data_sources:
+  details.activity: [1, 3, 6, 4, 7]
+  details.agency_types: [3, 6, 4, 7, 8, 9]
+  details.case_stage: [1, 3, 6, 4, 7]
+  details.products: [1, 2, 3, 4, 5, 7]
+  details.setting: [4, 8, 9, 10, 1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [skopje, strumica, medical-cannabis, record]

@@ -17,6 +17,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 335
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [border, home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://k24.digital/crimescandals/police-seize-over-335kg-of-bhang/

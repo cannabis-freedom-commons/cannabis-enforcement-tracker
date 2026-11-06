@@ -11,6 +11,10 @@ summary: >-
   slabs, packed in six sacks made to look like bags of maize. The men were handed to the central
   anti-drug office, Ocertid, for investigation.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: benin-bohicon-seizure-2025
 sources:

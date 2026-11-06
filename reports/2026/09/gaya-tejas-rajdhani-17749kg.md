@@ -19,6 +19,16 @@ figures:
   arrested: 1
   kg_seized: 17.749
   value: { amount: 887450, currency: INR }
+details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 17.749}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://patnapress.com/gaya-station-ganja-seizure-tejas-rajdhani-patna-man-arrested/

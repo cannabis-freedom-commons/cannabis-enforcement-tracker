@@ -14,6 +14,18 @@ summary: >-
 figures:
   kg_seized: 7.5
   prison: 40 months
+details:
+  activity: [smuggling]
+  agency_types: [customs, prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3e336acf0fda6d1863ade2dc18ba42a2

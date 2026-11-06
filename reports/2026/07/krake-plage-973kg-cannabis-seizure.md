@@ -13,6 +13,12 @@ summary: >-
   Republican Police found 973.65 kg of Indian hemp in 25 bags in a makeshift seaside house at Krakè-Plage on 23 July 2026. No suspects were present, and officers secured the drugs plus cash and equipment pending judicial proceedings.
 figures:
   kg_seized: 973.65
+details:
+  activity: [trafficking]
+  agency_types: [border-guard, police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 12dec90eae4a598057d10faae8dc2cf2

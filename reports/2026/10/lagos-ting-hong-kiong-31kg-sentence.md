@@ -22,12 +22,14 @@ details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [airport]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.sentence_types: [1, 2]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

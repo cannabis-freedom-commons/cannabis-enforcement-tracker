@@ -13,6 +13,14 @@ summary: >-
   Peru's National Police Terna squad raided a property in Villa El Salvador and detained Gabriel Renzo Gómez, a 40-year-old Colombian, who was to face the courts. Officers found marijuana, cocaine hydrochloride and red-dyed coca paste sold by motorcycle delivery under the nickname 'la coloradita'.
 figures:
   arrested: 1
+details:
+  agency_types: [police, court]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
 media:
   - kind: video
     url: https://canaln.pe/actualidad/villa-salvador-incautan-droga-roja-inmueble-microcomercializadores-n440947

@@ -10,6 +10,14 @@ type: seizure
 title: Myanmar burns $668m seized drugs including cannabis in 3 cities
 summary: >-
   Myanmar's military authorities burned seized drugs including cannabis at ceremonies in Yangon, Mandalay and Taunggyi on 26 June 2021 for the UN anti-drugs day. Police put the combined haul at just under US$668 million including 224 million meth tablets; no separate cannabis weight was given.
+details:
+  activity: [trafficking]
+  agency_types: [military]
+  force: physical
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3]
+  details.force: [3, 1]
 media:
   - kind: photo
     url: https://news.sky.com/story/500m-of-drugs-including-cannabis-and-heroin-burned-by-myanmar-authorities-12342282

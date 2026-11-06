@@ -22,6 +22,16 @@ figures:
     amount: 2200000
     currency: PLN
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [customs, prosecutor]
+  case_stage: sentenced
+  products: [{product: flower, kg: 44.9}]
+  setting: [airport, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [kas, chopin-airport, bangkok]
 open_questions:

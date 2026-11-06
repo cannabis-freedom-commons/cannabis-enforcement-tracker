@@ -14,6 +14,16 @@ summary: >-
   the owner dropped it and fled. Commissioner Samuel Henry Malimbo said a local order bans growing
   marijuana in Yei. No weight was given and no one was named as arrested.
 created_by_model: swancloud/grok-4.7-free
+details:
+  activity: [possession]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [port, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1, 3, 2, 4]
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags: [yei, bangi, destruction, local-order]
 open_questions:

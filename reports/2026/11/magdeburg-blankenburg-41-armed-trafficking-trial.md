@@ -11,6 +11,12 @@ also: [seizure]
 title: Harz man, 41, goes on trial in Magdeburg over armed cannabis and amphetamine sales
 summary: >-
   A 41-year-old man from Blankenburg is to stand trial at the Landgericht Magdeburg from 12 November 2026 for armed drug trafficking, accused of selling amphetamine, methamphetamine and cannabis in autumn 2023. The court says he kept knives within reach in his flat to protect the trade, so the trial must decide whether the knives counted as weapons.
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor, court]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2b60a36e9eedbff0c0c8a86945df75be

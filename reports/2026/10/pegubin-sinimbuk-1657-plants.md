@@ -9,6 +9,14 @@ coordinates: [-4.475, 140.558]
 precision: district
 type: eradication
 title: 1,657 harvest-ready plants uprooted at Sinimbuk
+details:
+  activity: [cultivation]
+  agency_types: [military]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 tags: [joint-operation, tni, community-plantation]
 summary: >-
   A joint force led by Yonif 734/SNS with five task forces, military

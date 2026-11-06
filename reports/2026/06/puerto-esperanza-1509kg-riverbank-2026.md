@@ -13,6 +13,14 @@ summary: >-
   Gendarmería officers patrolling at Vera Cue, in Puerto Esperanza, Misiones, found two yellow-wrapped bundles holding 15 kilos 90 grams of marijuana among the vegetation by the Paraná. The Federal Court and prosecutor's office in Iguazú ordered the drug seized and the accounts name no arrests.
 figures:
   kg_seized: 15.09
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs, prosecutor]
+  products: [{product: flower, kg: 15.09}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/en-misiones-incautaron-15-kilos-de-marihuana-y-7750-paquetes-de-cigarrillos-sin-aval-legal

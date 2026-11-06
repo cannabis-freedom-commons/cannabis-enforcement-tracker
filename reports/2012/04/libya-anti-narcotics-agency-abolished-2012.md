@@ -11,6 +11,10 @@ summary: >-
   Substances Agency and moved its assets, staff and powers to the Interior Ministry. The agency had
   been created in 2006. Drug enforcement passed to the ministry.
 created_by_model: unknown
+details:
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: libya-anti-narcotics-agency-abolished-2012
 sources:

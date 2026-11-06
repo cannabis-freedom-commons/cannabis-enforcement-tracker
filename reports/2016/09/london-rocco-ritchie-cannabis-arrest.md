@@ -13,6 +13,14 @@ summary: >-
   Metropolitan Police officers from Camden borough arrested 16-year-old Rocco Ritchie, son of Madonna and Guy Ritchie, for possession of cannabis after a stop and search in Primrose Hill on 28 September 2016. He was bailed and dealt with through the force's Triage youth-diversion scheme rather than charged in court.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [3, 1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f951ff0dd4b42075400cb0c2b3f95b34

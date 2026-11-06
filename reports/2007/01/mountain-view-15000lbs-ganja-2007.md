@@ -14,6 +14,14 @@ summary: >-
 figures:
   kg_seized: 6804
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 6804}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 tags: [compressed-ganja, mountain-view, kingston]
 open_questions:

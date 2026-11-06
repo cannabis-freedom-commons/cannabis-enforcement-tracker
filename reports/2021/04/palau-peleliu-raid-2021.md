@@ -11,6 +11,12 @@ summary: >-
   Peleliu; four Bangladeshi suspects were arrested. Police estimated the retail value at more than
   $400,000.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: flower}, {product: plants}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: palau-peleliu-raid-2021
 sources:

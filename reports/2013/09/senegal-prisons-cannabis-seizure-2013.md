@@ -11,6 +11,10 @@ also: [raid]
 title: 250 phones and cannabis seized in Senegal prisons sweep
 summary: >-
   Senegal’s justice minister said a security sweep of detention facilities found cannabis, nearly 250 mobile phones and bladed weapons in detainees’ cells, especially in Dakar remand prisons. No cannabis weight and no related arrests were reported.
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0ac3c5c3de6447095f2e4ef1a5266333

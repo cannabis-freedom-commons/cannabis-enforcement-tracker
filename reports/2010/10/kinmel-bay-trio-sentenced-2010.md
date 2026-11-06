@@ -17,6 +17,20 @@ summary: >-
 figures:
   plants_destroyed: 4700
   charged: 3
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower}, {product: plants, plants: 4700}]
+  sentence_types: [prison]
+  setting: [building, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.sentence_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [kinmel-bay, conwy, north-wales-police, factory]

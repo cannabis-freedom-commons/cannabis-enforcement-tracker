@@ -23,10 +23,12 @@ created_by_model: openai/gpt-6-luna#max
 details:
   agency_types: [prosecutor, court]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [border]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 tags: [mwanza, border, thyolo, sentencing]

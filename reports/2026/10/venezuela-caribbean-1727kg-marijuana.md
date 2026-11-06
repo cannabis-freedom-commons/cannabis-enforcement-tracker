@@ -17,6 +17,14 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 1727.4
+details:
+  agency_types: [coast-guard, military, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 1727.4}]
+data_sources:
+  details.agency_types: [1, 2, 5]
+  details.case_stage: [1, 2, 5]
+  details.products: [2, 5, 1, 3, 4]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [gnb, caribe, francia]

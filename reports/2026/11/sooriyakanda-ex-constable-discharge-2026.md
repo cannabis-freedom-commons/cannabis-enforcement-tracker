@@ -13,6 +13,14 @@ summary: >-
   Embilipitiya Magistrate's Court on 2 November 2026 discharged former Sooriyakanda constable Susantha Hettiarachchi in a case linked to a cannabis plantation raid. The land was reportedly tied to a relative of Ratnapura MP Shantha Pathma Kumara, and Hettiarachchi had faced obstruction, force and intimidation charges.
 figures:
   charged: 1
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dd33ad3c23d19e08acf621add6f52ad4

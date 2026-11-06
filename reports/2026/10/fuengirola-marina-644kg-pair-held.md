@@ -19,6 +19,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 6.44
+details:
+  agency_types: [police]
+  products: [{product: hashish, kg: 6.44}, {product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [fuengirola, marina, unlicensed-bar]

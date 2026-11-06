@@ -16,6 +16,12 @@ summary: >-
 figures:
   kg_seized: 4.7
 created_by_model: command-code/deepseek-v4.1-flash#max
+details:
+  agency_types: [customs]
+  setting: [border]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [customs, galafi, pillows]
 open_questions:

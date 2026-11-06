@@ -12,6 +12,10 @@ summary: >-
   authorised by the Ministry of Health for medical use were allowed and that police confiscated
   illegal products.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: laos-thai-cannabis-drinks-2024
 sources:

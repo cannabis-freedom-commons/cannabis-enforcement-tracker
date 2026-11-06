@@ -13,6 +13,14 @@ summary: >-
   Tirana police arrested two residents aged 36 and 50 in Operation Variety on suspicion of selling cocaine and cannabis. Officers seized suspected drug quantities and doses, an imitation pistol with metal bullets, two vehicles and mobile phones.
 figures:
   arrested: 2
+details:
+  activity: [sale]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1, 3, 2, 4]
+  details.agency_types: [1, 3, 2, 4]
+  details.setting: [2, 4, 1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ac870e1a20a8e1c571e73d9d3cbcda78

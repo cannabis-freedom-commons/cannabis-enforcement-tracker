@@ -19,6 +19,12 @@ figures:
   value:
     amount: 145800
     currency: GBP
+details:
+  agency_types: [prosecutor, court]
+  products: [{product: plants, plants: 243}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4d11ed6787b773972267527520f298c9

@@ -13,6 +13,14 @@ summary: >-
   Shenzhen Post Office Customs seized cannabis with a gross weight of 2,103.1 g in transit mail, according to a customs WeChat notice reported on 5 September 2025. Officers said eight snack boxes were heavier than their labels suggested; inside they found layered plastic-wrapped plant material that tested positive for tetrahydrocannabinol, and the case went to anti-smuggling investigators.
 figures:
   kg_seized: 2.1031
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [guangdong, shenzhen, customs, post]

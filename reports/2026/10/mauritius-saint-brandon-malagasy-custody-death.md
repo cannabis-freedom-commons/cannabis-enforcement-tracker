@@ -19,6 +19,16 @@ figures:
   value:
     amount: 399600000
     currency: MUR
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: charged
+  setting: [mail, prison]
+data_sources:
+  details.activity: [1, 4, 3, 2]
+  details.agency_types: [4, 3]
+  details.case_stage: [4, 3]
+  details.setting: [2, 3, 1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ba2a40f4fef08f024463e7e60ee57fd9

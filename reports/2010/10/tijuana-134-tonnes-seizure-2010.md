@@ -18,6 +18,18 @@ figures:
   kg_seized: 134000
   arrested: 11
   value: { amount: 340000000, currency: USD }
+details:
+  activity: [trafficking, sale]
+  agency_types: [police]
+  force: shots-fired
+  products: [{product: flower, kg: 134000}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.force: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [sinaloa-cartel, record-seizure, us-bound]

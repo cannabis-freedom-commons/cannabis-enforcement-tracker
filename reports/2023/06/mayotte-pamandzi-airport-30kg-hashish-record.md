@@ -15,7 +15,18 @@ figures:
   value:
     amount: 65000
     currency: EUR
+details:
+  agency_types: [customs, police, prosecutor]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 30.18}]
+  sentence_types: [prison]
+  setting: [airport, prison]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
   figures.kg_seized: [2]
   figures.value: [1]
 status: verified

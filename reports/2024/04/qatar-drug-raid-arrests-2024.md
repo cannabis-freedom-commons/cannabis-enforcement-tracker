@@ -12,6 +12,10 @@ summary: >-
   vehicles and said they found illegal items, but the announcement gave no quantity or charge. The
   ministry did not say what happened to the men after the arrest.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: qatar-drug-raid-arrests-2024
 sources:

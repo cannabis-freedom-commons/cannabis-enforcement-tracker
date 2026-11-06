@@ -16,6 +16,18 @@ summary: >-
   flagged bypassed electrics; he said he was paid to water the crop.
 figures:
   charged: 1
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: plants}]
+  sentence_types: [deportation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [grimsby, docks, gardener, deportation]

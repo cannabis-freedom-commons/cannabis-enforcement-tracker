@@ -16,6 +16,12 @@ figures:
   fine:
     amount: 319
     currency: GBP
+details:
+  agency_types: [police, court]
+  sentence_types: [fine, probation]
+data_sources:
+  details.agency_types: [1]
+  details.sentence_types: [1]
 media:
   - kind: photo
     url: https://www.countytimes.co.uk/news/26678600.newtown-woman-banned-mid-wales-drug-driving-offences/

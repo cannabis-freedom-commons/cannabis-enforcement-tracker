@@ -13,6 +13,12 @@ summary: >-
   Prosecutors' Office said the operation was meant to uncover hidden users and reject calls for
   legalisation.
 created_by_model: unknown
+details:
+  activity: [possession]
+  agency_types: [prosecutor]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: taiwan-cannabis-crackdown-2025
 sources:

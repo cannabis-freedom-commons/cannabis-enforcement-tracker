@@ -11,6 +11,12 @@ summary: >-
   defendants in a cannabis-growing operation run from a rented villa in Adliya, and cut the third
   defendant's life term to 15 years; a fourth received 10 years and a fifth one year.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 cfi_id: bahrain-adliya-cannabis-farm-2025
 sources:

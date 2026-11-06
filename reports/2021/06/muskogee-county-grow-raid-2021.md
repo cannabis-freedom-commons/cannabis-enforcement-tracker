@@ -14,6 +14,12 @@ summary: >-
   workers lived in shanties on the farm without pay, in what agents treated as possible
   labor trafficking.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [obn, unlicensed-grow, labour-trafficking]
 sources:

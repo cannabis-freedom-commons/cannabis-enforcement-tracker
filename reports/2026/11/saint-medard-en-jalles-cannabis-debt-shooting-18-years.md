@@ -18,7 +18,14 @@ figures:
   value:
     amount: 1000
     currency: EUR
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  setting: [home]
 data_sources:
+  details.agency_types: [2]
+  details.case_stage: [2]
+  details.setting: [2, 1]
   figures.charged: [2]
   figures.injured: [2]
   figures.prison: [2]

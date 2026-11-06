@@ -17,6 +17,18 @@ figures:
   value:
     amount: 1295370
     currency: GTQ
+details:
+  activity: [trafficking, cultivation, sale]
+  agency_types: [police, prosecutor]
+  environment: [greenhouse]
+  products: [{product: flower, kg: 30}, {product: plants}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fa2cec0c0528ec122ddae6ff1535a8f7

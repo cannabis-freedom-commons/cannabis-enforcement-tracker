@@ -17,6 +17,18 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.543
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  environment: [wild]
+  products: [{product: flower, kg: 0.543}]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://162.ru/criminal/u-zhitelya-glebkovo-izyali-543-gramma-marikhuany-id595342/

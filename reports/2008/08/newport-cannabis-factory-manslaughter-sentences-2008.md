@@ -17,6 +17,20 @@ figures:
   charged: 6
   deaths: 1
   prison: 23 years combined (9 years; 7 years; 7 years)
+details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: sentenced
+  force: physical
+  sentence_types: [prison]
+  setting: [vehicle, home, building]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.force: [1]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cannabis-factory]

@@ -14,6 +14,12 @@ summary: >-
   3 October 2026 and seized 96 rolls of bhang plus 440 litres of chang'aa in
   22 containers. The 27-year-old occupant escaped through a window and a
   manhunt began; landlords were warned against harbouring illicit trade.
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [vihiga, changaa, raid]

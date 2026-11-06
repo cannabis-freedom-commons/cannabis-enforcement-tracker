@@ -18,6 +18,12 @@ summary: >-
   investigation.
 figures:
   plants_destroyed: 3000
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 3000}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://awsimages.detik.net.id/api/wm/2026/05/31/polisi-menemukan-ladang-ganja-seluas-3-hektare-di-madina-foto-dok-polres-madina-1780223214874_169.jpeg

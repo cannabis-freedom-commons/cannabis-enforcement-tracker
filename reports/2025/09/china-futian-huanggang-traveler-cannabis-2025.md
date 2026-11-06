@@ -13,6 +13,14 @@ summary: >-
   Huanggang customs seized 49.73 g of cannabis from a male traveler who entered the Futian checkpoint without declaring his bag, according to a customs WeChat notice reported on 26 September 2025. Officers said five sealed bags of brown plant material in his shoulder bag tested positive for cannabis and tetrahydrocannabinol; the case went to anti-smuggling investigators.
 figures:
   kg_seized: 0.04973
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  setting: [border]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [guangdong, shenzhen, futian, customs, huanggang]

@@ -14,6 +14,18 @@ summary: >-
   Police at the Faladié Gendarmerie School checkpoint arrested 18-year-old B.T. on the night of 16-17 October 2026 and seized 40 packets of cannabis hidden in two cartons in his Toyota. He is now in judicial custody while police investigate the supply chain from Sénou.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [border]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8feea7ebe15ba53ec04ad2d702f3d416

@@ -17,6 +17,14 @@ summary: >-
 figures:
   plants_destroyed: 119000
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  agency_types: [military, police]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [vraem, ayacucho, anco, army]
 open_questions:

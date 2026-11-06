@@ -21,6 +21,14 @@ figures:
   kg_seized: 1999.9
   value: { amount: 26000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  products: [{product: flower, kg: 1999.9}, {product: plants, plants: 86578}]
+  setting: [mail]
+data_sources:
+  details.activity: [2, 5, 1, 4]
+  details.products: [2, 5, 1]
+  details.setting: [2, 5, 1, 4]
 status: verified
 tags: [island-mountain, emerald-triangle, search-warrants]
 open_questions:

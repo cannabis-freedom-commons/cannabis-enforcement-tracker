@@ -17,10 +17,12 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [ca-rcmp, ca-opp]
   agency_types: [police]
+  environment: [outdoor]
   products: [{product: plants, plants: 2700}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.environment: [1]
   details.products: [1]
 status: verified
 tags: [operation-sabot, o-sabot, outdoor-grows]

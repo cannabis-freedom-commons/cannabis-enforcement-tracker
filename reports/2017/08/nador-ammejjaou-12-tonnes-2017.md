@@ -20,6 +20,14 @@ figures:
   arrested: 6
   kg_seized: 12500
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [nador, rif]
 sources:

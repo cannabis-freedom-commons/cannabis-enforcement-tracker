@@ -19,7 +19,16 @@ figures:
   value:
     amount: 1688
     currency: GBP
+details:
+  activity: [possession, sale]
+  agency_types: [police]
+  sentence_types: [probation]
+  setting: [home, prison]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 3, 1]
+  details.sentence_types: [2]
+  details.setting: [1, 2, 3]
   figures.arrested: [1]
   figures.charged: [3]
   figures.kg_seized: [2]

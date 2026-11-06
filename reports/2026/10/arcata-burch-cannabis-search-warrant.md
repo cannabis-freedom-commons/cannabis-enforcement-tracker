@@ -14,6 +14,16 @@ summary: >-
   Arcata police arrested Thomas Michael Burch, 35, on drug charges early on 30 October 2026, then served a search warrant at his home later that day and booked him on cannabis sale and possession-for-sale charges. He had posted bail after the first arrest; the booking sheet records no release after the second.
 figures:
   arrested: 1
+details:
+  activity: [possession, sale]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://johnchiv.blogspot.com/2026/10/arrested-today-posts-bond-goes-home-to.html

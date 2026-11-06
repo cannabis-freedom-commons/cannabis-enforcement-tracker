@@ -17,6 +17,16 @@ figures:
   value:
     amount: 3000
     currency: GTQ
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [field, home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.infobae.com/america/america-latina/2026/06/24/guatemala-capturan-al-ciudadano-estadounidense-alias-el-gringo-por-tener-una-plantacion-de-marihuana-y-galletas-con-droga-en-su-casa/

@@ -18,6 +18,18 @@ figures:
   kg_seized: 1300
   arrested: 5
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 1300}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [jakarta, kembangan, minivan]
 open_questions:

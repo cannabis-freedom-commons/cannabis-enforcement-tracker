@@ -13,6 +13,16 @@ summary: >-
   Honduras's anti-drug police detained a 24-year-old man in Sabá, Colón, on suspicion of aggravated drug trafficking. Officers seized 63 double bundles equivalent to 126 packages of suspected marijuana, an extra bag of the same substance, and two motorcycles.
 figures:
   arrested: 1
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f6ae9f2c26472abc37b714f993e2e940

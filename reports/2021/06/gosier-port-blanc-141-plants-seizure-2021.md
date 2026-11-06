@@ -14,6 +14,18 @@ summary: >-
 figures:
   charged: 1
   plants_destroyed: 141
+details:
+  activity: [cultivation, sale]
+  agency_types: [police]
+  environment: [indoor, outdoor]
+  products: [{product: flower}, {product: plants, plants: 141}]
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2]
+  details.environment: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/saisie-de-141-pieds-de-cannabis-a-port-blanc-gosier-401605.php

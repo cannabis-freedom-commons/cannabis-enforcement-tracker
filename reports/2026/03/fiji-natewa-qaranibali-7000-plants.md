@@ -14,6 +14,16 @@ summary: >-
   Police in Fiji's Northern Division seized more than 7,000 marijuana plants, some over four metres tall, from a farm at Qaranibali in Vusasivo, Natewa, on 25 March 2026. A drone found the plantation during Operation Sasamaki; the plants were taken for analysis and police said three months later that no arrests had been made.
 figures:
   arrested: 0
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 4, 3, 2]
+  details.agency_types: [1, 3, 4, 2]
+  details.products: [1, 3, 4, 2]
+  details.setting: [1, 3, 4, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [natewa, cakaudrove, drone, sasamaki]

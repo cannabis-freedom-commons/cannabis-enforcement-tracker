@@ -22,6 +22,14 @@ figures:
   arrested: 5
   kg_seized: 5000
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags:
   - bangkok

@@ -18,6 +18,12 @@ figures:
   charged: 1
   kg_seized: 0.9378
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  sentence_types: [death]
+data_sources:
+  details.activity: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 tags: [mandatory-death-penalty, federal-court, kedah]
 open_questions:

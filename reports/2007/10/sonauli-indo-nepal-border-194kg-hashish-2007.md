@@ -15,6 +15,14 @@ summary: >-
 figures:
   kg_seized: 194
   value: { amount: 508582, currency: USD }
+details:
+  agency_types: [police]
+  products: [{product: hashish, kg: 194}]
+  setting: [border]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [indo-nepal-border]

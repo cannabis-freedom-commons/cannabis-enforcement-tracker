@@ -13,6 +13,14 @@ summary: >-
   believed to be marijuana in the Vatuyalewa mountain range.
 figures:
   plants_destroyed: 2000
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [fiji, northern-division, vatuyalewa, eradication]

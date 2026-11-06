@@ -17,6 +17,16 @@ summary: >-
 figures:
   prison: 4 years
 created_by_model: meta/muse-spark
+details:
+  activity: [possession]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [scarborough, york-crown-court, cryptocurrency]
 sources:

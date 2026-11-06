@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 56000
   hectares: 0.6
 created_by_model: unknown
+details:
+  agency_types: [military]
+  products: [{product: flower}, {product: plants, plants: 56000}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [semar, nayarit, navy]
 sources:

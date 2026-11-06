@@ -18,6 +18,16 @@ figures:
   kg_seized: 2.57
   prison: 10 years
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking, possession]
+  agency_types: [court]
+  case_stage: sentenced
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [kuala-lumpur, caning, sri-lanka]
 open_questions:

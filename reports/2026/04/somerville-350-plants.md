@@ -16,6 +16,20 @@ figures:
   charged: 1
   plants_destroyed: 350
   kg_seized: 0.5
+details:
+  activity: [cultivation, possession]
+  agency_types: [police]
+  case_stage: charged
+  environment: [indoor, greenhouse]
+  products: [{product: plants, plants: 350}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2]
 media:
   - kind: photo
     url: https://www.abc.net.au/news/2026-04-16/police-seize-more-than-350-cannabis-plants-from-kalgoorlie-house/106571660

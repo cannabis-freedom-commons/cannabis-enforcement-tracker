@@ -20,10 +20,12 @@ details:
   activity: [trafficking]
   case_stage: sentenced
   products: [{product: flower, kg: 18.75}]
+  sentence_types: [death]
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [mandatory-death-penalty, trafficking]

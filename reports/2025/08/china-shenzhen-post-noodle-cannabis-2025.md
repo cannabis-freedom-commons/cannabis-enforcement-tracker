@@ -16,6 +16,14 @@ summary: >-
   anti-smuggling investigators with no suspect named.
 figures:
   kg_seized: 1.7241
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [guangdong, shenzhen, customs, post]

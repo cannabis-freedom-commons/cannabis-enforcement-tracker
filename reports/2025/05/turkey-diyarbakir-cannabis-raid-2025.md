@@ -13,6 +13,14 @@ summary: >-
   operation was one of the largest in the southeast, where most illegal cannabis cultivation is
   found.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  case_stage: investigation
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: turkey-diyarbakir-cannabis-raid-2025
 sources:

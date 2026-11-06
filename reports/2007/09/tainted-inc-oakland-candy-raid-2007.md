@@ -17,6 +17,14 @@ figures:
   arrested: 3
   charged: 4
   plants_destroyed: 460
+details:
+  environment: [indoor]
+  products: [{product: flower}, {product: plants, plants: 460}]
+  setting: [vehicle, building]
+data_sources:
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.dea.gov/sites/default/files/divisions/sf/2007/sanfran092707p.html

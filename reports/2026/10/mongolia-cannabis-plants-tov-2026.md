@@ -12,6 +12,10 @@ summary: >-
   evidence and said the investigation was continuing. No charge, quantity or court outcome was
   reported.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: mongolia-cannabis-plants-tov-2026
 sources:

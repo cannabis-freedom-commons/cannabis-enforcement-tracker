@@ -24,12 +24,14 @@ details:
   case_stage: charged
   products:
     - {product: flower}
+  sentence_types: [fine]
   setting: [vehicle]
 data_sources:
   details.activity: [1]
   details.agency_types: [2, 3, 1]
   details.case_stage: [1]
   details.products: [1]
+  details.sentence_types: [2, 3, 1]
   details.setting: [2, 3, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max

@@ -15,6 +15,16 @@ summary: >-
 figures:
   value: { amount: 5000000, currency: THB }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling, sale]
+  agency_types: [military]
+  products: [{product: flower}]
+  setting: [forest]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [navy, mekong, smuggling]
 open_questions:

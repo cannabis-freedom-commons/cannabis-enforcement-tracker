@@ -19,6 +19,16 @@ figures:
   value:
     amount: 13470
     currency: EUR
+details:
+  activity: [trafficking, possession]
+  agency_types: [police, court]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5a7d64a48ae71bfbc90fe7763af0897f

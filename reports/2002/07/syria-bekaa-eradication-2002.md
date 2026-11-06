@@ -12,6 +12,10 @@ summary: >-
   under cannabis and opium. Syria also upgraded its counternarcotics branch to a directorate in 2002
   and opened regional offices in Aleppo and Homs to watch the Turkish and Lebanese borders.
 created_by_model: unknown
+details:
+  products: [{product: hashish}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: syria-bekaa-eradication-2002
 sources:

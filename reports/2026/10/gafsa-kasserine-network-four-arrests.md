@@ -13,6 +13,12 @@ summary: >-
   Gafsa anti-drug officers dismantled a suspected trafficking network operating between Hassi El Frid in Kasserine and Gafsa, arresting four suspected members. They seized cannabis and raw cocaine along with cash, two cars and a motorcycle.
 figures:
   arrested: 4
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a2d6e6afc6a647fc5434d4e4be40d7df

@@ -21,6 +21,18 @@ figures:
   charged: 1
   prison: 10 years with hard labour
 created_by_model: openai/gpt-6-luna#max
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison, fine]
+  setting: [mail, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [jasikan, oti-region, sentencing]
 open_questions:

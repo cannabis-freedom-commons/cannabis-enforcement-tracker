@@ -30,12 +30,14 @@ details:
   agencies: [gb-nca, gb-border-force]
   agency_types: [police, customs]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [airport, prison]
 data_sources:
   details.activity: [1, 3, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 3, 2]
+  details.sentence_types: [1, 3, 2]
   details.setting: [1, 3, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

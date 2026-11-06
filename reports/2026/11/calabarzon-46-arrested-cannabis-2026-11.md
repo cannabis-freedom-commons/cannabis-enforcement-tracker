@@ -16,6 +16,12 @@ figures:
   plants_destroyed: 0
   kg_seized: 0.01219
   hectares: 0
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 0.01219}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9a94313c8990126b64b56470e313836e

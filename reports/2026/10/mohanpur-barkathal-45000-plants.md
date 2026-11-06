@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 45000
   hectares: 2.4
 created_by_model: xai/grok-4.7
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 45000}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [india, tripura, mohanpur, eradication]
 sources:

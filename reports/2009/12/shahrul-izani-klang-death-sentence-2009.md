@@ -17,6 +17,16 @@ figures:
   charged: 1
   kg_seized: 0.622
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [mandatory-death-penalty, shah-alam]
 open_questions:

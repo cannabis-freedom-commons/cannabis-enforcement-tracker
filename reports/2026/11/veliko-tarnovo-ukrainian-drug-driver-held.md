@@ -12,6 +12,12 @@ summary: >-
   Veliko Tarnovo traffic police detained a 30-year-old Ukrainian driver on 3 November 2026 after a roadside drug test indicated cannabis and cocaine use. He refused a blood test, was held for up to 24 hours, and police opened fast-track proceedings.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2, 3, 5, 4]
+  details.case_stage: [1, 2, 3, 5, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8509c333711f4dd58229ed950ffb4105

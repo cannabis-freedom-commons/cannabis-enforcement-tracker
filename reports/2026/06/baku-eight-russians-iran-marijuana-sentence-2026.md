@@ -14,6 +14,18 @@ summary: >-
 figures:
   charged: 8
   prison: 3 years
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [2, 3, 1]
+  details.agency_types: [2, 3]
+  details.case_stage: [1, 3]
+  details.sentence_types: [1, 3]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 710b21dbcdf98fa8130bd44f9438d5cd

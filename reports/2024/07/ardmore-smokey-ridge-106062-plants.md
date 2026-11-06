@@ -15,6 +15,16 @@ figures:
   arrested: 2
   plants_destroyed: 106062
   kg_seized: 508.02
+details:
+  activity: [trafficking, cultivation]
+  case_stage: investigation
+  products: [{product: flower, kg: 508.02}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [3, 1]
+  details.case_stage: [3, 1]
+  details.products: [3, 1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.kten.com/news/two-arrests-in-raid-at-illegal-marijuana-grow-near-ardmore/article_2d25bc72-49cb-11ef-8878-c72e17157420.html

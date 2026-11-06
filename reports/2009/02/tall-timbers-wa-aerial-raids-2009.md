@@ -18,6 +18,16 @@ figures:
   plants_destroyed: 2800
   charged: 1
   value: { amount: 8000000, currency: AUD }
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 2800}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [tall-timbers, aerial-raids]

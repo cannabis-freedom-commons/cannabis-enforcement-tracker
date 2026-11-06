@@ -15,6 +15,14 @@ summary: >-
   The court set sentencing for 25 November 2026 after Kim admitted the charges.
 figures:
   charged: 1
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: charged
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: muse-spark-1.3#max
 tags: [sokcho, sinawe, repeat-offender]

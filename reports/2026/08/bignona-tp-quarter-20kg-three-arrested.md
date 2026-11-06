@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 20
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.ndarinfo.com/Bignona-trois-individus-interpelles-pour-trafic-de-chanvre-indien_a46377.html

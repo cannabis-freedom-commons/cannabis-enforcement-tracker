@@ -29,6 +29,7 @@ details:
   activity: [possession]
   agency_types: [police, prosecutor, court]
   case_stage: investigation
+  force: physical
   products:
     - {product: flower}
   setting: [vehicle, home]
@@ -36,6 +37,7 @@ data_sources:
   details.activity: [1, 3, 4, 5, 6, 7]
   details.agency_types: [1, 3, 7, 5, 4, 6]
   details.case_stage: [1, 3, 7, 5]
+  details.force: [1, 3, 4, 5, 6, 7]
   details.products: [1, 3, 4, 5, 6, 7]
   details.setting: [1, 3, 7, 5, 4, 6]
 status: reported

@@ -14,6 +14,14 @@ summary: >-
 figures:
   plants_destroyed: 57283
   value: { amount: 29000000, currency: USD }
+details:
+  agency_types: [military, police]
+  products: [{product: flower}, {product: seeds}]
+  setting: [field]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [joint-task-force-bravo, us-support]

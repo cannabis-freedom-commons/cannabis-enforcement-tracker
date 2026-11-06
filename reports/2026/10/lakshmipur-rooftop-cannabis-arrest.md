@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 media:
   - kind: photo
     url: https://dbcnews.tv/articles/180625

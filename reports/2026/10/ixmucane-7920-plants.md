@@ -15,6 +15,14 @@ figures:
   plants_destroyed: 7920
   hectares: 0.066
   value: { amount: 3960000, currency: GTQ }
+details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 7920}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [peten, las-cruces, ixmucane]

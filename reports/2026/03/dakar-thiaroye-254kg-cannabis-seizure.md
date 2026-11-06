@@ -15,6 +15,16 @@ figures:
   arrested: 3
   charged: 3
   kg_seized: 254
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://fr.apanews.net/society/senegal-254-kg-de-chanvre-indien-saisis-a-dakar/

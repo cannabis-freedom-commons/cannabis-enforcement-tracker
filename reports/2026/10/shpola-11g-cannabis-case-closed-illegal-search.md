@@ -18,6 +18,18 @@ figures:
   fine:
     amount: 17000
     currency: UAH
+details:
+  activity: [cultivation, possession]
+  agency_types: [court]
+  case_stage: acquitted
+  sentence_types: [fine]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 666a0db88bfb4b61b823424e4ead0008

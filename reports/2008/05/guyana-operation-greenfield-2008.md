@@ -18,6 +18,14 @@ figures:
   kg_seized: 3305
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  case_stage: investigation
+  products: [{product: flower, kg: 3305}]
+  setting: [home]
+data_sources:
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [guyana, operation-greenfield, eradication]
 sources:

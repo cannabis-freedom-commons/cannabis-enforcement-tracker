@@ -16,6 +16,14 @@ figures:
     arrested: 1
     charged: 1
 created_by_model: cursor/composer-2.5-fast
+details:
+  activity: [trafficking]
+  agency_types: [military, police, prosecutor]
+  products: [{product: flower, kg: 181.4}]
+data_sources:
+  details.activity: [1, 2, 3, 6]
+  details.agency_types: [1, 2, 3, 6, 4, 5]
+  details.products: [1, 2, 3, 6, 4]
 status: reported
 tags: [dpi, udic, firearm]
 open_questions:

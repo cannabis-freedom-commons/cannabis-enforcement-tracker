@@ -18,6 +18,16 @@ figures:
   value:
     amount: 266300000
     currency: COP
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  products: [{product: flower, kg: 2663}]
+  setting: [vehicle, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.elpais.com.co/judicial/capturan-a-conductor-de-camion-turbo-con-mas-de-26-toneladas-de-marihuana-tipo-creepy-que-iban-hacia-peru-y-chile-3026.html

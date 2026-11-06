@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 115000
   kg_seized: 92
   charged: 619
+details:
+  activity: [cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [operation-ella, national-cannabis-operation]

@@ -12,6 +12,14 @@ summary: >-
   cannabis. Thirty people were arrested, most Vietnamese nationals facing deportation, and police
   put the black-market value at more than NZ$50 million.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 cfi_id: new-zealand-operation-beryl-2025
 sources:

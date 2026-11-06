@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.5
+details:
+  activity: [trafficking]
+  agency_types: [military, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.5}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a6b80ca5cb1cee36242a762f8121d68b

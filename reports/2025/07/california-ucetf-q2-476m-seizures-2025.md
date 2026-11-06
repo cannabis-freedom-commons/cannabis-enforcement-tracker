@@ -20,6 +20,10 @@ figures:
   kg_seized: 84310.57458901
   value: { amount: 476000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [california, ucetf, task-force, quarterly, unlicensed-market]
 media:

@@ -21,6 +21,16 @@ figures:
   kg_seized: 2.966
   prison: 2 years
 created_by_model: spacexai/grok-4.7
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison, deportation]
+  setting: [vehicle, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [chuy, pado, rocha]
 open_questions:

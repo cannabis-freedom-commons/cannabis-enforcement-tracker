@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 29.85
+details:
+  case_stage: investigation
+  setting: [prison]
+data_sources:
+  details.case_stage: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://rri.co.id/padang/hukum/kriminalitas/2738323/bnnp-sumbar-gagalkan-pengiriman-hampir-30-kilogram-ganja

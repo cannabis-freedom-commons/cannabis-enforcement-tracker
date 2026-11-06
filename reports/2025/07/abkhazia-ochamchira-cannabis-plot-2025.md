@@ -12,6 +12,12 @@ summary: >-
   cannabis plants. A criminal case was opened and he was placed under house arrest. The case shows
   that a small outdoor plot is prosecuted as a crime, not treated as a minor infraction.
 created_by_model: unknown
+details:
+  products: [{product: plants}]
+  setting: [forest, home]
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: abkhazia-ochamchira-cannabis-plot-2025
 sources:

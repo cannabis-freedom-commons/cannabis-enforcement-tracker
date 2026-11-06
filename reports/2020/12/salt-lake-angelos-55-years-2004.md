@@ -18,6 +18,16 @@ figures:
   prison: 55 years (released after about 12 years; pardoned in 2020)
   charged: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower}]
+  sentence_types: [prison]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.products: [1, 2, 3, 4, 5, 6]
+  details.sentence_types: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 status: verified
 tags:
   - mandatory-minimum

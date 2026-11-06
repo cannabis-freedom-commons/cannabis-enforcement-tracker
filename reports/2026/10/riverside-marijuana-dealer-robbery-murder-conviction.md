@@ -18,13 +18,17 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  force: lethal
   products:
     - {product: flower}
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.agency_types: [1, 2, 4]
   details.case_stage: [1, 2, 3]
+  details.force: [2, 3, 4, 1]
   details.products: [1, 4]
+  details.sentence_types: [1, 2, 3]
   details.setting: [1, 4, 3, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

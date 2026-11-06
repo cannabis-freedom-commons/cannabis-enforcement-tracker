@@ -16,6 +16,14 @@ summary: >-
 figures:
   deaths: 1
   kg_seized: 0.255
+details:
+  force: lethal
+  products: [{product: flower, kg: 0.255}]
+  setting: [vehicle, home]
+data_sources:
+  details.force: [1, 2, 3]
+  details.products: [2, 3, 1]
+  details.setting: [1, 2, 3]
 status: disputed
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [swat-raid]

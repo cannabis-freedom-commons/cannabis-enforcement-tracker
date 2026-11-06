@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 83.5
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [border, mail, prison]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://cheznousautogo.mondoblog.org/2013/11/05/kpalime-une-moto-volee-et-8350-kg-de-cannabis-saisis-la-police-met-la-population-a-contribution/

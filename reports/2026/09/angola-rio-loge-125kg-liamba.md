@@ -17,6 +17,12 @@ figures:
   arrested: 1
   kg_seized: 125
 created_by_model: command-code/deepseek-v4.1-flash#max
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 tags: [police, zaire, liamba, rio-loge]
 open_questions:

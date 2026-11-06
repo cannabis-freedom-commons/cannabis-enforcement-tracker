@@ -17,6 +17,12 @@ summary: >-
   police post and a manhunt began for a watchlisted trafficker.
 figures:
   kg_seized: 265
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [thika, kiganjo, trafficking]

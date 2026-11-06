@@ -13,6 +13,12 @@ summary: >-
   On 30 January 2026, police from Mbour's central station seized 120 kg of chanvre indien, or cannabis, left in six 20-kg sisal sacks on Tripano beach after a pirogue landing. The boat had already put to sea and no suspects were arrested, with police saying they were still working to identify the owners and crew.
 figures:
   kg_seized: 120
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 75946c7d4971b8da06d6febddde4c9f6

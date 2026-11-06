@@ -18,6 +18,16 @@ figures:
   kg_seized: 2.753
   arrested: 1
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  environment: [indoor]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
 status: verified
 tags: [kutina, sisak-moslavina, firearms]
 open_questions:

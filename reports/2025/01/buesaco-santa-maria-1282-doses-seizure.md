@@ -10,6 +10,14 @@ type: seizure
 title: 1,282 marijuana doses seized in Santa María, Buesaco
 summary: >-
   Nariño police seized 1,282 doses of marijuana, described as more than one kilo, in Santa María, Buesaco, after the holder abandoned it and fled. No arrest was reported and officers handed the drug to the competent authorities for analysis and proceedings.
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.policia.gov.co/noticia/incautan-marihuana-en-zona-rural-buesaco

@@ -16,6 +16,14 @@ figures:
   plants_destroyed: 421
   kg_seized: 833
 created_by_model: openai/gpt-6
+details:
+  agency_types: [border-guard, police]
+  products: [{product: plants, plants: 421}]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [blagoevgrad, sandanski, petrich]
 open_questions:

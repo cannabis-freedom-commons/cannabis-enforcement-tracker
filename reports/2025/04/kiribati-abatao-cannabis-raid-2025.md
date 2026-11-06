@@ -10,6 +10,10 @@ summary: >-
   Police found a cannabis plant almost two metres high at Abatao, Tarawa, arrested a suspect and
   asked the public for information. It was the first cannabis raid reported in 2025.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: kiribati-abatao-cannabis-raid-2025
 sources:

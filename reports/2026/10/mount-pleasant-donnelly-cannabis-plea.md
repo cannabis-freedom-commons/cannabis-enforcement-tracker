@@ -16,6 +16,16 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 6.39
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  setting: [home, prison]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2]
+  details.setting: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 21a9de8cb8233f9a87c171ffea341712

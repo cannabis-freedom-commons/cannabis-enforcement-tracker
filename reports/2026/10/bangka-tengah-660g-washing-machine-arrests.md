@@ -16,6 +16,12 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 0.66
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.setting: [1, 3, 2]
 media:
   - kind: photo
     url: https://babelteraktual.co/2026/10/24/2-pengedar-660-gram-ganja-ditangkap-polisi-barang-bukti-disembunyikan-di-mesin-cuci-dan-kandang-ayam/

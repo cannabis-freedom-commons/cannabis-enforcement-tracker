@@ -12,6 +12,10 @@ summary: >-
   arrived in Japan in June. It was the largest single seizure of any illegal drug in Japan, and
   more than twice the 452 kg of herbal cannabis recorded across the country in 2024.
 created_by_model: unknown
+details:
+  products: [{product: flower}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: japan-record-cannabis-seizure-2025
 sources:

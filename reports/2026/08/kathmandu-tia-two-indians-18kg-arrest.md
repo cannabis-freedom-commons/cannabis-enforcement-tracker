@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 18
+details:
+  activity: [smuggling, possession]
+  agency_types: [customs, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 18}]
+  setting: [airport, vehicle]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3312eb7582282a6f143f516d09774b60

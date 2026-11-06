@@ -21,6 +21,18 @@ figures:
   kg_seized: 0.003
   prison: 13 years 4 months
 created_by_model: meta/muse-spark
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.003}]
+  sentence_types: [prison, suspended, probation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1, 3]
+  details.products: [2, 1]
+  details.sentence_types: [2, 3, 1]
+  details.setting: [1, 3, 2]
 status: verified
 tags: [habitual-offender, sentencing, clemency]
 sources:

@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.627
+details:
+  agency_types: [police]
+  products: [{product: plants}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: reported
 created_by_model: "opencode-go/deepseek-v4.1-flash#max"
 tags: [xinjiang, akto, cannabis, police-dog, drug-use]

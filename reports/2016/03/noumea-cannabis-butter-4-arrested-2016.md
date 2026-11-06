@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 3.9
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/nouvellecaledonie/400g-de-beurre-de-cannabis-saisis-339521.html

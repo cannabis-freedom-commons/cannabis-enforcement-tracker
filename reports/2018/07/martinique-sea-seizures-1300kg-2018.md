@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 1301.5
+details:
+  activity: [trafficking]
+  agency_types: [customs, coast-guard, military]
+  case_stage: investigation
+  products: [{product: flower, kg: 1301.5}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://rci.fm/martinique/infos/Faits-divers/Plus-dune-tonne-de-cannabis-saisie-en-un-mois

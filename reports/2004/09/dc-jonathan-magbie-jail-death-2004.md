@@ -19,6 +19,16 @@ figures:
   deaths: 1
   prison: 10 days
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [possession]
+  agency_types: [police, prosecutor]
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.activity: [2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [2, 1, 3]
 status: verified
 tags: [jail-death, medical-neglect]
 open_questions:

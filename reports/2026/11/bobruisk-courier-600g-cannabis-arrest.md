@@ -32,12 +32,14 @@ details:
   case_stage: sentenced
   products:
     - {product: hashish}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1, 8, 10, 11, 12, 13]
   details.agency_types: [2, 5, 6, 8, 10, 12]
   details.case_stage: [1, 8, 10, 11, 12, 13]
   details.products: [3, 5, 6, 7, 8, 10, 11, 12, 13]
+  details.sentence_types: [1, 8, 10, 11, 12, 13]
   details.setting: [1, 8, 10, 11, 12, 13]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

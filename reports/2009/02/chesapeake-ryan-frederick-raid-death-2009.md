@@ -20,6 +20,16 @@ figures:
   deaths: 1
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower}, {product: plants}]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.products: [1, 2, 3]
+  details.setting: [2, 3, 1]
 status: verified
 tags: [raid-death, informant]
 open_questions:

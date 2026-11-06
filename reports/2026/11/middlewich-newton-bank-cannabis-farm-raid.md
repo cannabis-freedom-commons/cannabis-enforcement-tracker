@@ -15,6 +15,18 @@ figures:
   value:
     amount: 800000
     currency: GBP
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: appeal
+  products: [{product: plants}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 3, 4, 2, 5, 6]
+  details.agency_types: [2, 5, 6, 1, 3, 4]
+  details.case_stage: [1, 3, 4, 5, 6, 2]
+  details.products: [2, 5, 6, 1, 3, 4]
+  details.setting: [1, 3, 4, 5, 6, 2]
 media:
   - kind: photo
     url: https://uk.news.yahoo.com/cheshire-police-shut-down-cannabis-143000959.html

@@ -16,6 +16,16 @@ summary: >-
 figures:
   plants_destroyed: 22999
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  case_stage: charged
+  products: [{product: flower}]
+  setting: [vehicle, field, forest]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [sbi, aerial-surveillance, chatham-county]
 open_questions:

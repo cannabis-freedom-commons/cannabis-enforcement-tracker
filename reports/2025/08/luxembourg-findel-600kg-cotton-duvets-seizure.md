@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 600
+details:
+  agency_types: [customs, police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 600}]
+  setting: [airport, mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://infos.rtl.lu/news/luxembourg/600-kilos-de-cannabis-1380197590

@@ -16,6 +16,10 @@ summary: >-
 figures:
   plants_destroyed: 63241
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 tags: [sonoma-county, illicit-grows]
 open_questions:

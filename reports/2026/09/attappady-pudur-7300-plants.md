@@ -17,6 +17,14 @@ summary: >-
 figures:
   plants_destroyed: 7300
 created_by_model: xai/grok-4.7
+details:
+  agency_types: [anti-narcotics, police]
+  products: [{product: plants, plants: 7300}]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [india, kerala, palakkad, eradication]
 sources:

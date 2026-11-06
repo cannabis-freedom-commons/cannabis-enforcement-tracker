@@ -16,6 +16,14 @@ summary: >-
   Indian-hemp network that used the site as transit point and consumption hub.
   Police are hunting a soldier nicknamed "Alòtrò" accused of extorting dealers in
   exchange for protection from raids.
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [port]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ghetto, soldier, extortion, indian-hemp]

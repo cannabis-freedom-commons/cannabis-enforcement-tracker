@@ -19,6 +19,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 457.6
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [migori, oruba, kluger, trafficking]

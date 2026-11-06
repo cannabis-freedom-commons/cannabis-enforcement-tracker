@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 405
   kg_seized: 41.5
+details:
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ce840ade96af3a3321c34e9f8e6a7082

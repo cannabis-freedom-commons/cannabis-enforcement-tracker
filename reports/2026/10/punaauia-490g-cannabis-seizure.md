@@ -15,6 +15,10 @@ figures:
   arrested: 3
   charged: 1
   kg_seized: 0.0049
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/polynesie/23-3-grammes-d-ice-saisis-a-punaauia-avec-du-cannabis-1746648.html

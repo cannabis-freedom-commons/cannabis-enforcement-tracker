@@ -14,6 +14,14 @@ summary: >-
   Costa Rica's Fuerza Pública detained a man in Grecia, Alajuela, on the first night of its Halloween operation after police said he was carrying marijuana, cocaine and crack, and seized the same three drugs and ₡655,000 in cash in Palmares. The operation deployed 1,500 officers for Halloween and the Día de la Mascarada Costarricense.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
 media:
   - kind: photo
     url: https://www.infobae.com/costa-rica/2026/11/01/inicio-del-operativo-halloween-dejo-decomisos-de-armas-drogas-y-788-multas-de-transito-en-costa-rica/

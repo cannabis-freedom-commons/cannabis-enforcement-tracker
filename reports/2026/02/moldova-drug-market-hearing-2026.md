@@ -11,6 +11,10 @@ summary: >-
   while synthetic drugs were growing. It reported 737 people sent to trial for drug offences in
   2025; this figure covers all drugs.
 created_by_model: unknown
+details:
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: moldova-drug-market-hearing-2026
 sources:

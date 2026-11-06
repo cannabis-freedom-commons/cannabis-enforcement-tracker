@@ -15,6 +15,18 @@ figures:
   arrested: 2
   plants_destroyed: 30000
   hectares: 2.8
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 30000}]
+  setting: [field, home]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://tiempo.hn/sucesos/2025/10/12/localizan-30-mil-plantas-marihuana-olancho-capturan-dos-hombres/

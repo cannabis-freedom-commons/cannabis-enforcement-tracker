@@ -16,6 +16,12 @@ summary: >-
 figures:
   hectares: 244.02
   arrested: 13
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [morogoro, mvomero, dcea, cannabis-eradication]

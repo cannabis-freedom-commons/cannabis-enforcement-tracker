@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 700
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 700}]
+  setting: [field, home]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
+  details.products: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a184a348ab15a51a9096567ed817143b

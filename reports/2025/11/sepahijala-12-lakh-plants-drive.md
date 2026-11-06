@@ -17,6 +17,16 @@ figures:
   plants_destroyed: 1200000
   value: { amount: 500000000, currency: INR }
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 1200000}]
+  setting: [forest]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [tripura, sepahijala, joint-operation]
 open_questions:

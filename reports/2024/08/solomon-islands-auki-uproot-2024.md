@@ -12,6 +12,14 @@ summary: >-
   before officers arrived; no arrest was reported. The provincial commander praised the village for
   acting against cultivation.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: solomon-islands-auki-uproot-2024
 sources:

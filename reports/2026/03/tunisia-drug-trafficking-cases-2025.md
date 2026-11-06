@@ -12,6 +12,12 @@ summary: >-
   reported seizures of cannabis, 479,830 tablets, 146.77 kg of cocaine and 751.25 g of heroin. The
   figures cover police and national guard, not customs.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [customs, police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: tunisia-drug-trafficking-cases-2025
 sources:

@@ -23,6 +23,7 @@ details:
   agency_types: [customs]
   case_stage: sentenced
   products: [{product: hashish, kg: 7100}]
+  sentence_types: [prison]
   setting: [airport, vehicle, home]
 data_sources:
   details.activity: [2, 3]
@@ -30,6 +31,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [3]
   details.products: [3, 1, 2]
+  details.sentence_types: [3]
   details.setting: [3, 1, 2]
 status: verified
 tags: [paris, record-haul, customs]

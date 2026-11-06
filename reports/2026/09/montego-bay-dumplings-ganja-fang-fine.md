@@ -18,6 +18,20 @@ figures:
   fine:
     amount: 5000
     currency: JMD
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 0.02835}]
+  sentence_types: [fine]
+  setting: [mail, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fc7cdd6c431848c763238e5135efcd2a

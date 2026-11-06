@@ -16,6 +16,10 @@ summary: >-
   at the Central Police Station.
 figures:
   kg_seized: 10.82
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [canje, berbice]

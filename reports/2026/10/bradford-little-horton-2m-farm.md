@@ -17,6 +17,12 @@ summary: >-
   and remanded in custody.
 figures:
   arrested: 1
+details:
+  activity: [cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bradford, industrial, remand]

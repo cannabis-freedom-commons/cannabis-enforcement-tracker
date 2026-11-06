@@ -13,6 +13,10 @@ summary: >-
   Police at the Third Police Station in Posadas found 143 grams of cannabis hidden in a 500-gram packet of yerba mate that a young man had brought for detainees. The case went to federal prosecutors under Argentina's national drug law, and no arrest was reported.
 figures:
   kg_seized: 0.143
+details:
+  agency_types: [police, prosecutor]
+data_sources:
+  details.agency_types: [1, 4, 3, 2, 5]
 media:
   - kind: photo
     url: https://misionesonline.net/2026/10/31/posadas-llevo-yerba-para-los-detenidos-pero-la-policia-descubrio-marihuana-oculta-en-el-paquete/

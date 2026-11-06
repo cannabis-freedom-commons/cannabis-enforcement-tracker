@@ -15,6 +15,16 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 0.68
+details:
+  activity: [possession]
+  case_stage: charged
+  products: [{product: flower, kg: 0.68}]
+  setting: [prison]
+data_sources:
+  details.activity: [3, 2, 1, 4]
+  details.case_stage: [4, 3, 2, 1]
+  details.products: [1, 4, 3, 2]
+  details.setting: [2, 1, 3, 4]
 media:
   - kind: video
     url: https://www.witn.com/2026/09/18/two-greenville-men-charged-with-exposing-child-marijuana/

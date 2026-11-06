@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 119
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [port, mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.comoresinfos.net/plus-de-2000-kg-de-cannabis-saisi-par-lantidrogue-en-3-ans/

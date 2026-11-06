@@ -22,12 +22,16 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: charged
+  environment: [indoor]
+  force: shots-fired
   products: [{product: flower}, {product: plants}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
+  details.environment: [1]
+  details.force: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

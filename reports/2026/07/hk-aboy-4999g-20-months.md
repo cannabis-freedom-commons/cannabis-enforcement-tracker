@@ -28,12 +28,14 @@ details:
   agency_types: [customs]
   case_stage: sentenced
   products: [{product: flower, kg: 4.999}]
+  sentence_types: [life]
   setting: [airport]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.products: [2, 1]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [airport, customs, trafficking]

@@ -15,6 +15,14 @@ summary: >-
   it at Tangier.
 figures:
   kg_seized: 11000
+details:
+  agency_types: [customs]
+  products: [{product: hashish, kg: 11000}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: disputed
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [record-seizure, scanner, tir-trucks]

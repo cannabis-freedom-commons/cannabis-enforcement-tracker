@@ -12,6 +12,14 @@ summary: >-
   Hannover customs officers seized three cannabis seedlings from an Austrian parcel addressed to a Hannover man on 3 November 2026. Customs opened smuggling proceedings, noting seedlings count as cannabis plants and remain subject to the import ban.
 figures:
   plants_destroyed: 3
+details:
+  agency_types: [customs]
+  products: [{product: plants, plants: 3}]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.nachrichten-heute.net/1780101-hza-h-hauptzollamt-hannover-cannabis-setzlinge-landen-beim-zoll.html

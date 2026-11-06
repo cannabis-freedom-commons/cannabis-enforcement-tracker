@@ -13,6 +13,10 @@ summary: >-
   27 per cent, and cannabis was one of the three main drugs involved; the conviction rate was 86 per
   cent.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: hong-kong-drug-report-2025
 sources:

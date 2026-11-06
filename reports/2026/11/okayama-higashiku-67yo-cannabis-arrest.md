@@ -13,6 +13,14 @@ summary: >-
   Police in Higashi-ku, Okayama arrested a 67-year-old unemployed man on 4 November 2026 for allegedly possessing one cannabis cigarette at home. The search followed a 5 October tip about garden cultivation, and officers are also investigating a cannabis-like plant found in his garden.
 figures:
   arrested: 1
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [2, 3, 1]
+  details.setting: [2, 1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 665896ed470b27f9f53aae85422adfe6

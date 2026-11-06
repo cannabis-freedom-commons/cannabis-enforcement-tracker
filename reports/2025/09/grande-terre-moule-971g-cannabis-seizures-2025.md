@@ -13,6 +13,10 @@ summary: >-
   Gendarmes of the Le Moule company seized 971 grams of cannabis in operations across Grande-Terre, Guadeloupe, over the week ending 21 September 2025. Weekend checks in Sainte-Anne, Morne-à-l'Eau and Saint-François netted 64 g, 501 g and 125 g, alongside small amounts of cocaine and crack.
 figures:
   kg_seized: 0.971
+details:
+  agency_types: [gendarmerie]
+data_sources:
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/lutte-contre-les-stupefiants-la-compagnie-de-gendarmerie-du-moule-maintient-la-pression-1051286.php

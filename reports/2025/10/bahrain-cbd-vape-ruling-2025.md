@@ -13,6 +13,10 @@ summary: >-
   year and BHD1,000 each. The case began in 2024 and the suspected CBD liquid was prosecuted as
   cannabis.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: bahrain-cbd-vape-ruling-2025
 sources:

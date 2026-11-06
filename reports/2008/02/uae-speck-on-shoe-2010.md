@@ -15,6 +15,16 @@ summary: >-
   the tread of his shoe. He was sentenced to four years in February 2008, then
   pardoned and released early within weeks.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [airport, prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 cfi_id: uae-speck-on-shoe-2010
 tags: [sentencing, pardon]

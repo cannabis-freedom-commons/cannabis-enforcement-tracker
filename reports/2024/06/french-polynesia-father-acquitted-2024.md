@@ -11,6 +11,12 @@ summary: >-
   in Taravao to make oil for his son; the prosecutor had asked it to waive punishment. Growing for
   therapy remained prohibited.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor, court]
+  case_stage: acquitted
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: french-polynesia-father-acquitted-2024
 tags:

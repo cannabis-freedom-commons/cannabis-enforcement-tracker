@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.6
+details:
+  activity: [cultivation, sale]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.6}]
+data_sources:
+  details.activity: [2, 4, 5, 3, 1]
+  details.agency_types: [2, 4, 5, 3, 1]
+  details.case_stage: [2, 4, 5, 3, 1]
+  details.products: [1, 3, 4, 5]
 media:
   - kind: photo
     url: https://www.afanasy.biz/amp/incident/262088

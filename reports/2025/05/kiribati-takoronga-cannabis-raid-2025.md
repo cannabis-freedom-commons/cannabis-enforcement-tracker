@@ -11,6 +11,14 @@ summary: >-
   arrested and cautioned a suspect, and described it as the second drug bust of 2025. The first was
   at Abatao on 28 April.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: kiribati-takoronga-cannabis-raid-2025
 sources:

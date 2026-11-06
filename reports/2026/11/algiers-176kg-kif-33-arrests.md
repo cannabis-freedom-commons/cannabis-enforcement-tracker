@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 33
   kg_seized: 176
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, anti-narcotics]
+data_sources:
+  details.activity: [1, 4, 5, 8, 9, 6]
+  details.agency_types: [1, 4, 5, 8, 9, 6]
 media:
   - kind: photo
     url: https://www.aps.dz/fr/algerie/actualite-nationale/mw3cxlv1-demantelement-de-deux-reseaux-de-criminels-transfrontaliers-et-saisie-de-plus-d-un-million-de-comprimes-psychotropes

@@ -12,6 +12,12 @@ summary: >-
   years and a 3,000-dinar fine each. All five lost their civil rights, and the ruling was reported
   on 15 March.
 created_by_model: unknown
+details:
+  activity: [trafficking, cultivation]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 cfi_id: libya-bayda-cannabis-cultivation-2026
 sources:

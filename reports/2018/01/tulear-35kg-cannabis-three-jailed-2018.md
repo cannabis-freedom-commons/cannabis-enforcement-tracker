@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 3.5
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [forest, home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 978eae5c2d0f2af0b785328405a94c9d

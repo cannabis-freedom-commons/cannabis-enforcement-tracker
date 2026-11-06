@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 242000
   hectares: 6.05
   kg_seized: 242000
+details:
+  agency_types: [police]
+  setting: [field]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [chihuahua, guerrero, sspe]

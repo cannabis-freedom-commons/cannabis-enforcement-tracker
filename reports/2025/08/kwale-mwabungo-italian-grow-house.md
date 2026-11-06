@@ -20,6 +20,16 @@ summary: >-
   trafficking network.
 figures:
   arrested: 2
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [anti-narcotics, police]
+  products: [{product: plants}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kwale, grow-house, foreigners, anu]

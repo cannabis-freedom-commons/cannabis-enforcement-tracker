@@ -11,6 +11,12 @@ summary: >-
   found 78 balls and 40 slabs of cannabis, 74 kg in all. The driver and two passengers were
   detained.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: ivory-coast-customs-seizure-2025
 sources:

@@ -13,6 +13,16 @@ summary: >-
   Colombian Army troops seized 11,692 kg of marijuana in more than 10,000 packages from two houses in Monserrate, Puerto Asís, Putumayo. The Army linked the Brazil-bound load to the Segunda Marquetalia dissidence's Comandos de Frontera.
 figures:
   kg_seized: 11692
+details:
+  activity: [trafficking]
+  agency_types: [military, anti-narcotics, police]
+  products: [{product: flower, kg: 11692}]
+  setting: [vehicle, home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.eluniversal.com.mx/mundo/incautan-mas-de-116-toneladas-de-marihuana-en-colombia-droga-tenia-como-destino-final-brasil/

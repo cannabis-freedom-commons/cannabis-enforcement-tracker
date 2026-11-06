@@ -15,6 +15,16 @@ summary: >-
   an armed man escaped into the tunnel and no arrests were reported.
 figures:
   kg_seized: 6350.29
+details:
+  agency_types: [military, border-guard, police]
+  force: lethal
+  products: [{product: flower, kg: 6350.29}]
+  setting: [home, building]
+data_sources:
+  details.agency_types: [2, 1, 3]
+  details.force: [3, 1, 2]
+  details.products: [2, 1, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [tunnel, tecate, border-patrol]

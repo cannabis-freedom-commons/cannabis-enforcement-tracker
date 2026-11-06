@@ -13,6 +13,14 @@ summary: >-
   Mexican Navy personnel seized more than seven kilograms of suspected marijuana found in a bag during patrols in Pueblo Nuevo, Elota, as part of Operation Sable. No detentions were reported, and the material was handed to the competent authorities for investigation.
 figures:
   kg_seized: 7
+details:
+  agency_types: [military]
+  case_stage: investigation
+  products: [{product: flower, kg: 7}]
+data_sources:
+  details.agency_types: [1, 3, 4, 5, 7, 2]
+  details.case_stage: [1, 3, 4, 5, 7, 2]
+  details.products: [1, 3, 4, 5, 7, 2]
 media:
   - kind: photo
     url: https://extraoficial.mx/marina-asegura-mas-de-siete-kilos-de-marihuana-durante-operativo-en-pueblo-nuevo/

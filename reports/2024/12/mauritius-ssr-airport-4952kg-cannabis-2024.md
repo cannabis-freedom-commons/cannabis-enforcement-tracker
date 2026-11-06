@@ -18,6 +18,14 @@ figures:
   kg_seized: 49.52
   value: { amount: 59424000, currency: MUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling]
+  agency_types: [customs, anti-narcotics]
+  setting: [airport, mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [airport-smuggling, gatwick]
 open_questions:

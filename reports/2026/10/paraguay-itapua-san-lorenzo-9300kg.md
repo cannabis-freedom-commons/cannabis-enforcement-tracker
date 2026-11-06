@@ -20,6 +20,18 @@ figures:
   hectares: 3
   value: { amount: 1350000, currency: USD }
 created_by_model: deepseek/deepseek-v4.1-flash#max
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [military, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 9300}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [ftc-sur, codi, itapua, erradicacion]
 open_questions:

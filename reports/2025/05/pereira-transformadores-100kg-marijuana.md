@@ -17,6 +17,18 @@ figures:
   value:
     amount: 200000000
     currency: COP
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 100}]
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.policia.gov.co/noticia/capturado-con-100-kilogramos-marihuana

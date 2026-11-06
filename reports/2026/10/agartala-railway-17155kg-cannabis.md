@@ -18,6 +18,12 @@ figures:
   value:
     amount: 800000
     currency: INR
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [3]
+  details.agency_types: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.tripurastarnews.com/tripura-railway-police-seizes-17-155-kg-of-cannabis-worth-%E2%82%B9800000-with-1-drug-peddler-in-agartala-railway-station/

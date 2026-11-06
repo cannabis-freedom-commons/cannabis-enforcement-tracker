@@ -12,6 +12,16 @@ summary: >-
   rejected search and entrapment arguments at the preliminary stage. The final disposition was not
   traced.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [customs, court]
+  products: [{product: flower}]
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: micronesia-ehsa-mail-import-2024
 sources:

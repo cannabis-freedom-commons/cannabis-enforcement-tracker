@@ -20,6 +20,14 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.6009
+details:
+  activity: [possession]
+  agency_types: [police, prosecutor]
+  setting: [border]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: unknown
 tags: [mile-38]

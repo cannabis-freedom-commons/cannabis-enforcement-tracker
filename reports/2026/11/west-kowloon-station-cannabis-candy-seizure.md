@@ -12,6 +12,14 @@ summary: >-
   West Kowloon Station Customs stopped a male inbound traveller and seized one packet of cannabis candy with a gross weight of 18.03 grams after field and laboratory tests detected THC. The case was transferred to the customs anti-smuggling department for further handling.
 figures:
   kg_seized: 0.01803
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  setting: [border]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f351e66aecb065f4aa5730c9a572f601

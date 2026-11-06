@@ -19,11 +19,13 @@ figures:
 details:
   agencies: [ca-rcmp, ca-opp]
   agency_types: [police]
+  environment: [indoor, greenhouse]
   products: [{product: flower}, {product: plants, plants: 2000}]
   setting: [home]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.environment: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

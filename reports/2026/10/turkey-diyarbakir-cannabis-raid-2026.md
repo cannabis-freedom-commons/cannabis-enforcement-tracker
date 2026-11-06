@@ -12,6 +12,12 @@ summary: >-
   have produced 1.2 tonnes of hashish, and officers seized 36 kg of hashish. The operation was part
   of the national action plan against illegal cannabis cultivation.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: turkey-diyarbakir-cannabis-raid-2026
 sources:

@@ -12,6 +12,12 @@ summary: >-
   Police stopped a 39-year-old Turkish driver in Bad Hofgastein on 3 November 2026 after noticing a strong cannabis smell and seized about 300 g of cannabis herb. He said it was for personal use; on the Salzburg prosecutor's order officers seized his cash and phone, and he remains free pending a report.
 figures:
   kg_seized: 0.3
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 0.3}]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 44672df98e82f6dc96a2a04ca5bc2abb

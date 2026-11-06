@@ -12,6 +12,14 @@ summary: >-
   Iran executed six convicted drug traffickers whose charges included cannabis alongside methamphetamine and heroin, state media reported on 2 January 2024. Three other traffickers were hanged separately in Ardabil Province for heroin and opium.
 figures:
   deaths: 6
+details:
+  activity: [smuggling, trafficking]
+  case_stage: executed
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7fc8f5c079edc88c99f7320fa830ec16

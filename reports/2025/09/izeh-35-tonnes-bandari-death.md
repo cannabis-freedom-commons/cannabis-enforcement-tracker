@@ -19,6 +19,14 @@ figures:
   kg_seized: 3500
   arrested: 2
   deaths: 1
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 3500}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [izeh, khuzestan, dehdz]

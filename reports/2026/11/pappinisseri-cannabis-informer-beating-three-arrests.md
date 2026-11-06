@@ -12,7 +12,12 @@ summary: >-
   Kerala police arrested three men accused of abducting and beating A K Muhammed Musthafa, 46, because they believed he had told the excise department about cannabis sales. Officers said Vijil, who had recently left jail after three months in a drug case, led the 2 November attack in Pappinisseri, Kannur district.
 figures:
   arrested: 3
+details:
+  case_stage: investigation
+  setting: [vehicle, home, prison]
 data_sources:
+  details.case_stage: [1]
+  details.setting: [1]
   figures.arrested: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

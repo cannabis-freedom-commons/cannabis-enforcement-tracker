@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 15
+details:
+  agency_types: [military]
+  case_stage: investigation
+  products: [{product: flower, kg: 15}]
+  setting: [border]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/colombia/2024/03/15/capturaron-a-colombianos-moviendo-cargamento-de-marihuana-en-ecuador-la-droga-iba-camuflada-en-un-taxi/

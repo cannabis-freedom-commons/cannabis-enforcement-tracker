@@ -14,6 +14,14 @@ summary: >-
   tall. The reported weight exceeded 9 kg for the mixed plants, but the sources do not
   separate the cannabis component, so no cannabis quantity is recorded.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  case_stage: sentenced
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: reported
 tags: [jondor, bukhara, cultivation, mixed-crops]
 open_questions:

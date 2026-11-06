@@ -12,6 +12,14 @@ summary: >-
   Republican Police in Tohouè, Sèmè-Podji, seized 265.24 kg of Indian hemp from a Toyota Highlander during a night operation on 28-29 August 2026 after a tip about trafficking by sea. The driver and loaders fled and remained wanted while police investigated the shipment's origin and destination.
 figures:
   kg_seized: 265.24
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  setting: [mail]
+data_sources:
+  details.activity: [1, 3, 4, 2]
+  details.agency_types: [1, 3, 4, 2]
+  details.setting: [1, 3, 4, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fa72a3b37a3ec2d3861cc20cf1fd07f5

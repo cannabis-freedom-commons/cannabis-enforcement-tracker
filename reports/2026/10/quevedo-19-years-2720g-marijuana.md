@@ -18,6 +18,18 @@ figures:
   prison: 19 years
   charged: 1
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  products: [{product: flower, kg: 2.72}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [fiscalia, quevedo, sentencing]
 open_questions:

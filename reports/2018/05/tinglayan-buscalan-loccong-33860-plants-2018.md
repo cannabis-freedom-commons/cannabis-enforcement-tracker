@@ -17,6 +17,16 @@ figures:
   plants_destroyed: 33860
   value: { amount: 5970000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 33860}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 tags: [eradication, cordillera, pdea]
 sources:

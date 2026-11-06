@@ -17,11 +17,13 @@ figures:
   kg_seized: 2.9
 details:
   agency_types: [police, prosecutor]
+  environment: [indoor]
   products:
     - {product: flower}
   setting: [mail]
 data_sources:
   details.agency_types: [1, 2, 3, 4]
+  details.environment: [2, 1]
   details.products: [1]
   details.setting: [3, 4, 1, 2]
 status: verified

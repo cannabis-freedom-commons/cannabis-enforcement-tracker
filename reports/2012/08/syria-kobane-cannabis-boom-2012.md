@@ -12,6 +12,16 @@ summary: >-
   that almost every village was growing it and that nobody had been arrested because nearly everyone
   was involved and the villagers were armed.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  case_stage: sentenced
+  sentence_types: [life]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: syria-kobane-cannabis-boom-2012
 sources:

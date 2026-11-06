@@ -18,6 +18,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 12700.59
+details:
+  activity: [smuggling]
+  case_stage: investigation
+  products: [{product: flower, kg: 12700.59}]
+  setting: [vehicle, home, building]
+data_sources:
+  details.activity: [2, 1]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [tunnel, otay-mesa, dea]

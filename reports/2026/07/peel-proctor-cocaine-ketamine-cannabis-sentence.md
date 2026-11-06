@@ -16,6 +16,18 @@ figures:
   charged: 1
   kg_seized: 0.0191
   prison: 3 years and 11 months
+details:
+  activity: [possession]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6075fee6578433f8220c83308c350526

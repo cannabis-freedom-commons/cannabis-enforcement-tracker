@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 315
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 315}]
+  setting: [border, vehicle]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://ultimasnoticias.com.ve/sucesos/incautaron-600-envoltorios-de-marihuana-ocultos-en-cilindros-de-gas-en-maracaibo/

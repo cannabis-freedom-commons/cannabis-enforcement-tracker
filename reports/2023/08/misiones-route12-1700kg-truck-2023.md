@@ -18,6 +18,16 @@ figures:
   kg_seized: 1700
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [customs, gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 1700}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [aduana, gendarmeria, misiones, trafficking]
 open_questions:

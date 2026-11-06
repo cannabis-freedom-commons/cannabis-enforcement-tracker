@@ -17,6 +17,16 @@ figures:
   charged: 1
   kg_seized: 0.004
   prison: 3 years
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison, deportation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3e9eaf6698120851b19bc48b3429b5ee

@@ -12,6 +12,12 @@ summary: >-
   Venezuelan forces found 838 abandoned panels of marijuana weighing 456.725 kg during a coastal patrol off Falcon state. Authorities announced the seizure on 3 March 2023, a weight InSight Crime rounded to 457 kg.
 figures:
   kg_seized: 456.725
+details:
+  activity: [cultivation]
+  products: [{product: flower, kg: 456.725}]
+data_sources:
+  details.activity: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 534a30090d789ffa69c22d76a64caece

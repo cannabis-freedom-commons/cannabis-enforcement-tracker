@@ -29,11 +29,13 @@ media:
 details:
   activity: [trafficking, cultivation]
   agency_types: [gendarmerie, prosecutor]
+  environment: [indoor, greenhouse]
   products: [{product: plants, plants: 651}]
   setting: [home]
 data_sources:
   details.activity: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4, 5]
+  details.environment: [1, 2]
   details.products: [1, 2, 3, 4]
   details.setting: [1]
 status: verified

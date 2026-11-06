@@ -17,6 +17,7 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  environment: [greenhouse]
   products:
     - {product: flower}
   setting: [home, prison]
@@ -24,6 +25,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.environment: [2, 1]
   details.products: [2]
   details.setting: [2, 1]
 status: verified

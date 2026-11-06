@@ -19,6 +19,14 @@ figures:
   arrested: 2
   kg_seized: 2.958
 created_by_model: opencode-go/deepseek-v4.1-flash#max
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  products: [{product: hashish, kg: 2.958}, {product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [paramaribo, narcoticabrigade]
 open_questions:

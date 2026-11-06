@@ -15,6 +15,14 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 1714.56
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  setting: [field]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://leleaderinfobenin.bj/save-la-police-interrompt-une-recolte-de-chanvre-indien-et-saisit-plus-de-1-7-tonne/

@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 6
 created_by_model: unknown
+details:
+  agency_types: [court]
+data_sources:
+  details.agency_types: [1]
 status: verified
 tags: [taranaki]
 sources:

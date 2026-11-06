@@ -12,6 +12,10 @@ summary: >-
   region, 17 tonnes in Issyk-Kul and Naryn, 15 tonnes in Bishkek and smaller amounts in the south.
   The operation was part of the annual Kara-kuurai eradication campaign.
 created_by_model: unknown
+details:
+  environment: [wild]
+data_sources:
+  details.environment: [1]
 status: verified
 cfi_id: kyrgyzstan-wild-cannabis-burn-2024
 sources:

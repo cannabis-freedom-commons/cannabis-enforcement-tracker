@@ -21,6 +21,18 @@ figures:
   kg_seized: 8
   charged: 1
 created_by_model: claude-apollo-4-8
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison, fine]
+  setting: [home, building, mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [limassol, controlled-delivery, courier-parcel, guilty-plea]
 open_questions:

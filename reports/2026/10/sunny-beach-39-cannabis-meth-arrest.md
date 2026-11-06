@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.002
+details:
+  activity: [sale]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [vehicle]
+data_sources:
+  details.activity: [3, 1, 5, 6]
+  details.agency_types: [1, 5, 7, 2, 4, 6]
+  details.case_stage: [1, 5, 7, 2, 4]
+  details.setting: [1, 5, 6, 7, 3]
 media:
   - kind: photo
     url: https://poligraff.net/news/dvama-zadrzani-s-narkotici-v-sveti-vlas-i-slncev-bryag/102953

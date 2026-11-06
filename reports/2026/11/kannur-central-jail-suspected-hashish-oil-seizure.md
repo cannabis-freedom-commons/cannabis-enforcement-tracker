@@ -10,6 +10,12 @@ type: seizure
 title: Suspected hashish oil seized from prisoner in Kannur jail
 summary: >-
   Staff at Kannur Central Jail found a bottle suspected to contain hashish oil concealed in a prisoner’s underwear and sent it for scientific testing. A separate search recovered a mobile phone with SIM card, battery and charger, the fourth such phone seizure in the jail this month.
+details:
+  products: [{product: hashish}, {product: oil}]
+  setting: [prison]
+data_sources:
+  details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 media:
   - kind: photo
     url: https://www.mediaoneonline.com/kerala/mobile-phones-and-contraband-342617

@@ -12,6 +12,12 @@ summary: >-
   Customs said officers found the contraband during a luggage inspection and referred it to the
   authorities. The seizure was announced on 3 September 2026.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  products: [{product: hashish}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: qatar-customs-candy-hashish-2026
 sources:

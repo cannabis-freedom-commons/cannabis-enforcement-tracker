@@ -16,6 +16,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2150
+details:
+  agency_types: [police, prosecutor, court]
+  setting: [vehicle, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [chamba, roadblock, trafficking]

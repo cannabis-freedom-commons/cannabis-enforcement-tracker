@@ -20,6 +20,14 @@ figures:
   arrested: 97
   kg_seized: 226.356
   value: { amount: 1700000000, currency: USD }
+details:
+  activity: [smuggling, trafficking, cultivation]
+  products: [{product: flower, kg: 226.356}]
+  setting: [forest, home]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [dea, operation-trident, public-lands, sierra]

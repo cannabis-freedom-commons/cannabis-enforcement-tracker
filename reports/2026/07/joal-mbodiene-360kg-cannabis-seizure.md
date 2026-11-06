@@ -12,6 +12,12 @@ summary: >-
   On 7 July 2026, Senegal's Joal gendarmes seized 360 kg of cannabis with a motorbike and a horse-drawn cart on the sandy track between Mbodiène and Ndianda. The carriers abandoned the load and fled in the dark, so no arrests were reported.
 figures:
   kg_seized: 360
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 35b831b7386daf1e0b81bdda9804b5bb

@@ -19,6 +19,10 @@ figures:
   value:
     amount: 1500000
     currency: EUR
+details:
+  agency_types: [customs, prosecutor]
+data_sources:
+  details.agency_types: [1, 2, 3, 4]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [findel, cargo, air-freight]

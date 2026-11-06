@@ -14,6 +14,16 @@ summary: >-
 figures:
   plants_destroyed: 116
   hectares: 0.02
+details:
+  activity: [cultivation]
+  agency_types: [customs, police]
+  products: [{product: plants, plants: 116}]
+  setting: [field, forest]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://jateng.antaranews.com/berita/497307/satgas-pamtas-yonif-725-temukan-ladang-ganja-di-papua-selatan

@@ -17,6 +17,18 @@ figures:
   charged: 1
   kg_seized: 1
   prison: 10 years 2 months (strict regime)
+details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 1}, {product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [krasnodar-krai, slavyansk-na-kubani, courts, sentence]

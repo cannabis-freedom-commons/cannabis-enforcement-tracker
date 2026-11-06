@@ -20,6 +20,18 @@ figures:
   kg_seized: 0.07
   value: { amount: 400000, currency: HKD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation, sale]
+  agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: plants, plants: 38}, {product: seeds}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [tai-po, customs, cultivation]
 sources:

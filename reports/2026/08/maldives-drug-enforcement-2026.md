@@ -13,6 +13,10 @@ summary: >-
   nationals were handed to Immigration for deportation. The figures covered all drugs and did not
   separate cannabis.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: maldives-drug-enforcement-2026
 sources:

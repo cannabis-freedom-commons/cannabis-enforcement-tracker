@@ -18,6 +18,16 @@ figures:
   value:
     amount: 12300000
     currency: USD
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: charged
+  products: [{product: flower, kg: 5011.3}]
+data_sources:
+  details.activity: [2, 4]
+  details.agency_types: [2, 4, 3, 1]
+  details.case_stage: [2, 4]
+  details.products: [2, 4, 1, 3]
 media:
   - kind: photo
     url: https://www.opinion.com.bo/policial/caen-paraguayos-5-toneladas-marihuana/20170822211500587741.html

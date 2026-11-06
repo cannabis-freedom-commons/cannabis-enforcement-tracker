@@ -15,6 +15,12 @@ summary: >-
 figures:
   charged: 1
   prison: 3 months
+details:
+  agency_types: [gendarmerie]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 20911f66401823b1ab25465829432d39

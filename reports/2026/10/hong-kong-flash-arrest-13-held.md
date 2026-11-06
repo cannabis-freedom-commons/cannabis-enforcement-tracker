@@ -16,6 +16,16 @@ figures:
   arrested: 13
   charged: 2
   kg_seized: 0.04
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: charged
+  setting: [home, building]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.wenweipo.com/a/202610/30/AP6ae43fc2e4b0fa89498b17ab.html

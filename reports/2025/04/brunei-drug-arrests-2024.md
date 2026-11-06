@@ -11,6 +11,10 @@ summary: >-
   were locals. Methamphetamine seizures rose above 40 kg, while UNODC recorded 2.6 kg of herbal
   cannabis seized against 6.3 kg in 2023. No cannabis-specific arrest count was published.
 created_by_model: unknown
+details:
+  products: [{product: flower}]
+data_sources:
+  details.products: [1, 2]
 status: verified
 cfi_id: brunei-drug-arrests-2024
 sources:

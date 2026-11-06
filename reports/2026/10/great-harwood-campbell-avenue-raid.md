@@ -11,6 +11,14 @@ also: [seizure]
 title: Two investigated after cannabis and cash seized in Great Harwood raid
 summary: >-
   Police raided a property on Campbell Avenue in Great Harwood on 29 October 2026, seizing a large quantity of cash and a quantity of drugs believed to be cannabis. A local man and woman are under investigation for money laundering and possession of controlled drugs, with no arrests or charges reported.
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6fefc001942d48f7ce5b5ec0d66ff1ba

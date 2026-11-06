@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2
+details:
+  activity: [trafficking, possession]
+  agency_types: [gendarmerie, police]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 325ccdba7990c0aabac8c2564fb7b96b

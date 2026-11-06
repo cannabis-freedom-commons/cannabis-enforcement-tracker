@@ -19,6 +19,16 @@ figures:
   value:
     amount: 94800
     currency: GBP
+details:
+  activity: [cultivation]
+  agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: plants, plants: 158}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: dfe57dc985f5e45d5318bd995c67d283

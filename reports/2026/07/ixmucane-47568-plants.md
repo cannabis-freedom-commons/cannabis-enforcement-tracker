@@ -15,6 +15,16 @@ figures:
   value:
     amount: 23784000
     currency: GTQ
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [military, anti-narcotics, police]
+  products: [{product: flower}, {product: plants, plants: 47568}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.sgaia.gob.gt/erradicacion-de-47568-matas-de-marihuana-en-las-cruces-peten/

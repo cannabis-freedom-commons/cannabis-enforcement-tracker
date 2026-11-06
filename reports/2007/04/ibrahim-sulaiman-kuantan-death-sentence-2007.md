@@ -17,6 +17,14 @@ summary: >-
 figures:
   kg_seized: 61.159
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: sentenced
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 tags: [kuantan-high-court, mandatory-death-penalty, bernama]
 open_questions:

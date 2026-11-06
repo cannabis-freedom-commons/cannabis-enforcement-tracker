@@ -12,6 +12,14 @@ summary: >-
   later, another 296 kg were seized along the Moroccan border and 51 people were arrested. The
   operations were part of a weekly series of army drug seizures reported along the frontier.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  case_stage: investigation
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: algeria-bechar-resin-seizure-2026
 sources:

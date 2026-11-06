@@ -12,6 +12,14 @@ summary: >-
   other men were detained, and the defence ministry said they and the cargo would be handed to the
   courts.
 created_by_model: unknown
+details:
+  agency_types: [gendarmerie, court]
+  case_stage: investigation
+  setting: [border, vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 cfi_id: cameroon-noun-seizure-2025
 tags:

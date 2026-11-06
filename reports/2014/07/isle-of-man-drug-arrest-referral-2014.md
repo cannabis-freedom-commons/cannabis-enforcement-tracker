@@ -12,6 +12,10 @@ summary: >-
   says most referrals involved cannabis, especially among under-18s, and records 93 completions from
   108 entrants in 2021/22.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: isle-of-man-drug-arrest-referral-2014
 sources:

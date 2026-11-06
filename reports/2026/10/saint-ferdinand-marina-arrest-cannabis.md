@@ -14,6 +14,14 @@ summary: >-
   A man in his thirties was arrested at the marina in Saint-Ferdinand, Quebec, on the evening of 29 October 2026 after young people reported a possibly armed person; he was carrying two compressed-air guns. A search of his vehicle found several narcotics, including cannabis and methamphetamine, and police said he could face drug and weapons possession charges.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6b346927e731a9d5ab85c5605aaf05ed

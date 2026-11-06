@@ -11,6 +11,12 @@ summary: >-
   micrograms of THC per litre of blood. Police had stopped his erratically driven car in November
   2023.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  sentence_types: [fine]
+data_sources:
+  details.agency_types: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: gibraltar-drug-driver-sentenced-2024
 sources:

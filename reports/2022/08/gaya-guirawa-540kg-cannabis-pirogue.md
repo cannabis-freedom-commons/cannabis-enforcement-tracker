@@ -12,6 +12,12 @@ summary: >-
   Gaya's river gendarmerie seized 560 bricks weighing 540 kg of cannabis from a motorised pirogue on the River Niger on 17 August 2022. The drugs were presented to departmental authorities that evening, while no number or identity of those involved had been disclosed.
 figures:
   kg_seized: 540
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 04bd82aac6a0f926dd342ee515732fba

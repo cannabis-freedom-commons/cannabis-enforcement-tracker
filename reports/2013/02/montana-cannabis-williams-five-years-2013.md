@@ -17,6 +17,18 @@ summary: >-
 figures:
   prison: 5 years plus 130 days (time served on the drug count)
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking, possession]
+  agency_types: [prosecutor]
+  case_stage: sentenced
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [montana-cannabis, medical-marijuana, mandatory-minimums]
 sources:

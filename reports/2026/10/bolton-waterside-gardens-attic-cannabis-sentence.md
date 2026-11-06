@@ -17,6 +17,18 @@ figures:
   plants_destroyed: 53
   kg_seized: 7.2
   prison: 12 months, suspended for 2 years
+details:
+  activity: [cultivation]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [suspended, community-service]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c75d99d8c1dc0342b49d95a72a6a8c6a

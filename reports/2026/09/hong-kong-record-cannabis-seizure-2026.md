@@ -12,6 +12,12 @@ summary: >-
   in 364 of 1,342 boxes and arrested three men after a controlled delivery; one was charged with
   attempting to traffic.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  case_stage: charged
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 cfi_id: hong-kong-record-cannabis-seizure-2026
 sources:

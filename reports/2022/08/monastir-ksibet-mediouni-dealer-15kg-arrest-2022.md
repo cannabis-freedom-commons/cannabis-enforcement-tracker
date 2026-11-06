@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.5
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://kapitalis.com/tunisie/2022/08/31/monastir-un-dealer-de-cocaine-et-de-cannabis-arrete-en-possession-de-devises-et-de-plus-de-78-000-dt/

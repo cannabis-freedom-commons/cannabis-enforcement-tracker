@@ -17,6 +17,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 65
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 65}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://caretas.pe/nacional/incautan-65-kilos-de-marihuana-en-huamachuco/

@@ -12,6 +12,10 @@ summary: >-
   commit an offence and promised the strictest action for trespass or damage. The Criminal Court had
   closed drug cafés in the capital before; this order came from a magistrate court on Fuvahmulah.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: maldives-drug-cafe-closure-2026
 sources:

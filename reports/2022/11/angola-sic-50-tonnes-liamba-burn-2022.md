@@ -12,6 +12,14 @@ summary: >-
   Angola's Criminal Investigation Service burned 50,000 kg of liamba and more than 210 kg of cocaine seized in 2022 operations during coordinated incinerations in the week of 24 November 2022. The Bengo leg alone accounted for more than 33,000 kg of liamba, with smaller cannabis burns recorded in Namibe, Cunene and Huíla.
 figures:
   kg_seized: 50000
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  setting: [airport, port]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e868269b3d23e9046679cf4a706f6609

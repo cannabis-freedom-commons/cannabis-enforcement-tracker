@@ -18,6 +18,12 @@ summary: >-
 figures:
   deaths: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.products: [1, 2]
 status: verified
 tags: [stone-lakes, game-warden, eradication-raid]
 sources:

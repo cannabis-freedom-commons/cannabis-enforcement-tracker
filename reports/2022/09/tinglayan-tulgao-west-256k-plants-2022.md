@@ -17,6 +17,16 @@ figures:
   hectares: 2.1
   value: { amount: 51500000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 256500}]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [pnp, kalinga, cordillera]
 sources:

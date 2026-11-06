@@ -12,6 +12,12 @@ summary: >-
   2023. Six other defendants, including a woman, were named in the case; the court treated the
   challenge to an in-absentia judgment as having no legal basis.
 created_by_model: unknown
+details:
+  agency_types: [court]
+  products: [{product: hashish}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: bahrain-hashish-network-2025
 sources:

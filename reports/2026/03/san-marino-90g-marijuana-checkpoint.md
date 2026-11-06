@@ -16,6 +16,14 @@ summary: >-
   to the judiciary. No name, charge or court outcome was published.
 figures:
   kg_seized: 0.09
+details:
+  activity: [possession]
+  agency_types: [police]
+  products: [{product: flower, kg: 0.09}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [road-check, gendarmeria]

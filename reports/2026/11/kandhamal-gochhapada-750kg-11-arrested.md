@@ -18,6 +18,14 @@ figures:
   value:
     amount: 7500000
     currency: INR
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 750}]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://pragativadi.com/kandhamala-ganja-seizure-gochhapada-raid-update/

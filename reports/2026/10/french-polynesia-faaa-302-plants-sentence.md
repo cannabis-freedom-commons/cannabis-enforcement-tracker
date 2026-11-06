@@ -17,6 +17,18 @@ figures:
   plants_destroyed: 302
   kg_seized: 0.382
   prison: 18 months
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.382}, {product: plants, plants: 302}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.tahiti-infos.com/Methamphetamine-et-pieds-de-cannabis-saisis-a-Faa-a_a239928.html

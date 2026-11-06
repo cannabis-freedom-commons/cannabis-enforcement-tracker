@@ -16,6 +16,14 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 19.2
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+data_sources:
+  details.activity: [3, 1, 2, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [3, 1, 2, 4]
 media:
   - kind: photo
     url: https://www.247malawi.com/jenda-roadblock-interception-leads-to-arrest-of-two-over-suspected-cannabis-consignment/

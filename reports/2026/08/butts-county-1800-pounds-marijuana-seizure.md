@@ -13,6 +13,14 @@ summary: >-
   Butts County deputies seized about 1,800 pounds of marijuana from a Sacramento-origin freight trailer after the truck driver found it and called 911. About half was bound for Atlanta and half for Orlando; the driver was cleared and no other arrests were announced.
 figures:
   kg_seized: 816.47
+details:
+  activity: [trafficking]
+  products: [{product: flower, kg: 816.47}, {product: oil}]
+  setting: [vehicle, home, building]
+data_sources:
+  details.activity: [1, 4, 2]
+  details.products: [2, 1, 4, 3]
+  details.setting: [2, 3, 1, 4]
 media:
   - kind: photo
     url: https://cbs12.com/news/local/nearly-900-pounds-of-marijuana-headed-to-orlando-seized-in-georgia

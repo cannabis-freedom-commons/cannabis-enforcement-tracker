@@ -20,6 +20,12 @@ figures:
   arrested: 1
   kg_seized: 55
 created_by_model: anthropic/opus-5.5
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 55}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [patrol, night]
 sources:

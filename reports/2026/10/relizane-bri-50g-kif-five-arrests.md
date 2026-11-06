@@ -16,6 +16,12 @@ figures:
   arrested: 5
   charged: 5
   kg_seized: 0.05
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 08399a0d3378c1c8e76a945ea335e820

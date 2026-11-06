@@ -17,6 +17,16 @@ summary: >-
 figures:
   charged: 2
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [possession]
+  case_stage: sentenced
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [tribal-cannabis, acquittal, sovereignty-dispute]
 open_questions:

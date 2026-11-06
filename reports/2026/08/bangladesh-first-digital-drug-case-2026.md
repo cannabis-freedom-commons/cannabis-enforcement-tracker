@@ -12,6 +12,10 @@ summary: >-
   platform. The case was filed on 16 August 2026, after a raid in Badda arrested the supplier and
   recovered oil, materials and equipment.
 created_by_model: unknown
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 cfi_id: bangladesh-first-digital-drug-case-2026
 sources:

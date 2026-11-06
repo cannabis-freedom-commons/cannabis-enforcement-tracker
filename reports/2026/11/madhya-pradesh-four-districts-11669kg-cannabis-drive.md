@@ -18,6 +18,18 @@ figures:
   value:
     amount: 301000000
     currency: INR
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 1753}]
+  setting: [forest]
+data_sources:
+  details.activity: [1, 2, 3, 4, 7]
+  details.agency_types: [1, 2, 3, 5, 6, 4]
+  details.case_stage: [1, 2, 3, 5, 6]
+  details.products: [1, 2, 3, 5, 6, 4]
+  details.setting: [1, 2, 3, 6, 7, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9e1424d445bf5664286224392ed7b15b

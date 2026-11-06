@@ -12,6 +12,12 @@ summary: >-
   Thai customs had intercepted over 800 smugglers and nine tonnes of cannabis since October 2024,
   and cannabis posted to Britain had fallen by 90 per cent in the first quarter of 2025.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: thailand-operation-chaophraya-2024
 sources:

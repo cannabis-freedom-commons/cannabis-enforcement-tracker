@@ -18,6 +18,16 @@ figures:
   arrested: 4
   kg_seized: 9.05
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 9.05}, {product: flower}]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [riga, organized-group, minor]
 open_questions:

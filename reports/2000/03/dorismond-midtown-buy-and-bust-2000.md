@@ -16,6 +16,12 @@ summary: >-
 figures:
   deaths: 1
 created_by_model: meta/muse-spark
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [undercover, buy-and-bust, nypd]
 open_questions:

@@ -16,6 +16,16 @@ figures:
   hectares: 12.95
   value: { amount: 135000000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 90000}]
+  setting: [forest]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [tripura, sepahijala, sonamura, mainama, aralia, paoramura, eradication]
 sources:

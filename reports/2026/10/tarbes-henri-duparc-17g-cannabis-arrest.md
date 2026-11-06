@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.017
+details:
+  agency_types: [police, prosecutor]
+data_sources:
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.ladepeche.fr/2026/11/02/trafic-de-stupefiants-la-soiree-dhalloween-se-termine-en-garde-a-vue-13632738.php

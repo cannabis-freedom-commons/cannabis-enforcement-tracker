@@ -18,6 +18,12 @@ figures:
   arrested: 1
   value: { amount: 400, currency: USD }
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
+details:
+  products: [{product: flower}]
+  setting: [port, border]
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [ldea, maryland-county, karloken]
 open_questions:

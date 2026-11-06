@@ -24,6 +24,16 @@ figures:
   value:
     amount: 32824.94
     currency: EUR
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 3.21}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [kardzhali, sentence]

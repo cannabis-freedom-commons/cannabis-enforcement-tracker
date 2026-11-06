@@ -16,6 +16,16 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 2358.68
+details:
+  activity: [possession]
+  case_stage: investigation
+  products: [{product: flower, kg: 2358.68}]
+  setting: [vehicle, prison]
+data_sources:
+  details.activity: [2, 1]
+  details.case_stage: [2, 1]
+  details.products: [2, 1, 3]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://www.freightwaves.com/news/nebraska-troopers-seize-record-50m-drug-load-from-semi-on-interstate-80

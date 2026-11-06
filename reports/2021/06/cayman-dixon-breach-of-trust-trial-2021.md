@@ -14,7 +14,12 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  agency_types: [prosecutor]
+  products: [{product: flower}]
 data_sources:
+  details.agency_types: [1]
+  details.products: [1]
   figures.arrested: [2]
   figures.charged: [2]
 status: verified

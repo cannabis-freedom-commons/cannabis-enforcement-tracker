@@ -19,6 +19,14 @@ figures:
   arrested: 3
   kg_seized: 148
 created_by_model: spacexai/grok-4.7
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [grand-bassam, grad, aboisso]
 open_questions:

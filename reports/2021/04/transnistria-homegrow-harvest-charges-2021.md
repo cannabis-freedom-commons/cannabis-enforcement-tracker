@@ -10,6 +10,16 @@ summary: >-
   Investigators sent Ivan Zavyazkin’s case to court after police found 34 cannabis plants and
   749.054 g of dried cannabis at his cottage in an October 2020 search.
 created_by_model: unknown
+details:
+  activity: [cultivation, possession]
+  agency_types: [police]
+  products: [{product: plants}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: transnistria-homegrow-harvest-charges-2021
 tags:

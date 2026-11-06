@@ -13,6 +13,14 @@ summary: >-
   Cabo Verde's Judicial Police seized 8,473.5 kg of cannabis from cultivation fields in Belém, Mosquito de Horta and Encosta de Santa Clara on 28 October and 4 November 2022. Police weighed the cannabis and then incinerated it all, with Armed Forces support in the November operation.
 figures:
   kg_seized: 8473.5
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 8473.5}]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [3, 1, 2]
+  details.products: [1, 3, 2]
 media:
   - kind: photo
     url: https://www.anacao.cv/noticia/2022/11/09/apreendidos-e-queimados-cerca-de-85-mil-quilos-de-erva-cannabis-na-ribeira-grande-de-santiago/

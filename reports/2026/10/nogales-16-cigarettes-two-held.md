@@ -14,6 +14,12 @@ summary: >-
   Municipal police in Nogales, Sonora, detained two people on 29 October 2026 after stopping them with a stolen motorcycle and 16 cigarettes of herb similar to marijuana. Both were left with the state prosecutor, which has not yet decided charges.
 figures:
   arrested: 2
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://infonogales.com/recuperan-motocicleta-robada-y-aseguran-16-cigarrillos-con-posible-marihuana-en-nogales/

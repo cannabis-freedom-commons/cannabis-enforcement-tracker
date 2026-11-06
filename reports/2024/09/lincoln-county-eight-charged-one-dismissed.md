@@ -17,6 +17,18 @@ figures:
   charged: 8
   plants_destroyed: 2100
   kg_seized: 31.75
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 31.75}, {product: plants, plants: 2100}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5ae322659a29cc9aec0a76022f84b465

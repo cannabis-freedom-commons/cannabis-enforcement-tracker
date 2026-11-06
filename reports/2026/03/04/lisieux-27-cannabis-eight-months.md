@@ -17,6 +17,14 @@ summary: >-
 figures:
   prison: 8 months (firm)
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 tags: [lisieux, comparution-immediate]
 open_questions:

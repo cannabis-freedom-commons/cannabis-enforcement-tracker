@@ -25,6 +25,16 @@ figures:
   prison: 3 years in default of the fine
   arrested: 1
 created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison, fine]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
+  details.sentence_types: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags:
   - tarkwa

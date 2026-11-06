@@ -18,6 +18,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 33.2
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 33.2}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [tobago, canaan, ttps, state-of-emergency]

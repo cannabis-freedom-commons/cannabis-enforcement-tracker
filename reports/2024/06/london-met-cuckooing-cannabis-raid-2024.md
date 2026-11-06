@@ -13,6 +13,16 @@ summary: >-
   Metropolitan Police officers forced entry to a top-floor London apartment at dawn and arrested one man on suspicion of possessing Class B drugs with intent to supply, after finding cannabis, weapons and cash. The other five or six occupants were treated as potential victims of cuckooing, the practice of dealers taking over a vulnerable person's home.
 figures:
   arrested: 1
+details:
+  activity: [cultivation, possession]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn000ev0lpdo

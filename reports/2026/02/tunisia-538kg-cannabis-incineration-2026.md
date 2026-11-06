@@ -13,6 +13,12 @@ summary: >-
   Tunisia's National Guard destroyed 538 kg of seized cannabis on Wednesday 18 February 2026, burning it at a cement plant under public prosecutor supervision. The cannabis came from a two-month intelligence operation that led to several arrests, with other suspects still said to be abroad.
 figures:
   kg_seized: 538
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, prosecutor]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://www.webdo.tn/fr/actualite/national/tunisie-destruction-de-538-kilogrammes-de-cannabis/393390/

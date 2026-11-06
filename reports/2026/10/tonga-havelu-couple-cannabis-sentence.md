@@ -16,6 +16,18 @@ figures:
   charged: 2
   kg_seized: 0.04396
   prison: 21 months (final 6 suspended); 15 months (fully suspended)
+details:
+  activity: [possession]
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0e127524c8e9ffd97306f27b77ddc8db

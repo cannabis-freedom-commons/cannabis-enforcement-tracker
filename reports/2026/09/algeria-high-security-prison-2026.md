@@ -12,6 +12,12 @@ summary: >-
   and to turn an army barracks at Tanezrouft in the Sahara into a high-security prison for drug
   traffickers. The presidency announced no legal text or start date.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: algeria-high-security-prison-2026
 sources:

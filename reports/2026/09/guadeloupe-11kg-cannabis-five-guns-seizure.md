@@ -13,6 +13,14 @@ summary: >-
   Guadeloupe territorial police seized more than 11 kg of cannabis, five handguns, cocaine, crack and 94 cartons of contraband cigarettes in recent targeted operations. Several people were arrested and placed in police custody during the interventions.
 figures:
   kg_seized: 11
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 media:
   - kind: photo
     url: https://rci.fm/guadeloupe/infos/Faits-divers/Cinq-armes-feu-plus-de-11-kg-de-cannabis-et-de-la-contrebande-saisis-lors

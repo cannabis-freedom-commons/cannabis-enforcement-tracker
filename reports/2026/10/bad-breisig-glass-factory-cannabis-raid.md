@@ -10,6 +10,14 @@ type: raid
 title: Cannabis plantation found in old Bad Breisig glass factory
 summary: >-
   Kriminalinspektion Mayen searched a former glass factory in Bad Breisig on 28 October after a tip from the energy supplier, finding a professional cannabis plantation in the hall. A Koblenz police spokesman confirmed the raid; the scale and background remain unclear.
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [field, building]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.rhein-zeitung.de/lokales/kreis-ahrweiler/cannabisplantage-in-alter-glasfabrik-entdeckt_arid-4167410.html

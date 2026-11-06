@@ -22,12 +22,14 @@ details:
   case_stage: sentenced
   environment: [indoor]
   products: [{product: flower, kg: 7}]
+  sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5

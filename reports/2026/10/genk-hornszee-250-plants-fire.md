@@ -18,6 +18,14 @@ figures:
   arrested: 2
   plants_destroyed: 250
 created_by_model: xai/grok-4.7
+details:
+  activity: [cultivation]
+  agency_types: [police, prosecutor]
+  setting: [field, home, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [genk, limburg, fire]
 open_questions:

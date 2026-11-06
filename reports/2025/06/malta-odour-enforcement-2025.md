@@ -12,6 +12,10 @@ summary: >-
   and say where the smell comes from; officers first advise, then enforce the €235 fine if the
   nuisance continues.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: malta-odour-enforcement-2025
 sources:

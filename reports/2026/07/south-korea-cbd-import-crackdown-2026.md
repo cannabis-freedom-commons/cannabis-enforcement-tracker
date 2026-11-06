@@ -12,6 +12,10 @@ summary: >-
   temporary narcotic mesembrine. It asked customs to hold the products and platforms to block their
   sale, and warned that importing or eating them is punishable.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: south-korea-cbd-import-crackdown-2026
 sources:

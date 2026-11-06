@@ -15,6 +15,14 @@ summary: >-
 figures:
   plants_destroyed: 1600
   value: { amount: 1600000, currency: TTD }
+details:
+  activity: [possession]
+  agency_types: [police]
+  setting: [field, forest]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ttps, moruga, la-lune]

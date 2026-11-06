@@ -18,6 +18,18 @@ figures:
   kg_seized: 0.8076
   deaths: 1
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: executed
+  sentence_types: [death]
+  setting: [vehicle, prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 3]
+  details.case_stage: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [2, 3, 1]
 status: verified
 tags: [changi, mandatory-death-penalty, cnb]
 open_questions:

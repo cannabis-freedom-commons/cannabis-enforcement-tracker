@@ -15,6 +15,18 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 30
+details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  environment: [greenhouse]
+  products: [{product: plants, plants: 30}]
+  setting: [home]
+data_sources:
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [2]
+  details.environment: [2, 1, 3]
+  details.products: [2, 1]
+  details.setting: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.sozcu.com.tr/otel-odasinda-soke-eden-goruntu-wp2542910

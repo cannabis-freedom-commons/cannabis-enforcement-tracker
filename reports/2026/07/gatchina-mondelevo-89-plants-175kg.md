@@ -17,6 +17,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 17.5
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/v-lenoblasti-politsiya-izyala-17-5-kg-marikhuany-i-89-kustov-kannabisa-u-dachnogo-narkoagronoma/

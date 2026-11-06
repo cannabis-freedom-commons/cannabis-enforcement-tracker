@@ -16,6 +16,16 @@ summary: >-
 figures:
   charged: 1
   prison: 3 years
+details:
+  agency_types: [customs, police, prosecutor]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [5, 1, 2]
+  details.sentence_types: [5, 1, 2]
+  details.setting: [5, 1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cannabis-cafe, stockport]

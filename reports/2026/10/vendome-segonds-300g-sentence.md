@@ -18,6 +18,16 @@ summary: >-
 figures:
   kg_seized: 0.3
   charged: 6
+details:
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [prison, fine, probation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [vendome, blois, sentence]

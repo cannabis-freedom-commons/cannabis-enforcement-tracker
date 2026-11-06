@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 3500
+details:
+  activity: [cultivation]
+  agency_types: [military]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 3500}]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.el19digital.com/articulos/ver/144709-ejercito-de-nicaragua-realizo-incautacion-e-incineracion-de-3500-plantas-de-marihuana

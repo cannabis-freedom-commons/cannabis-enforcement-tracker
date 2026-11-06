@@ -12,6 +12,12 @@ summary: >-
   environmental assessment or registered applicators. Police continued Operation Thunder, destroying
   fields and seizing hundreds of kilograms.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  setting: [field]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: eswatini-dagga-spraying-2025
 tags:

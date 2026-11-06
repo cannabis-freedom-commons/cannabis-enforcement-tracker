@@ -13,6 +13,16 @@ summary: >-
   Municipal police in Nogales, Sonora, detained two adults and two 17-year-olds after a fight report at the Jardines del Buen Pastor cemetery on 2 November 2026. Officers found the teenagers with a bag of marijuana and a beer bottle holding a similar substance; the adults were referred for alleged corruption of minors.
 figures:
   arrested: 4
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [port]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.elimparcial.com/son/nogales/2026/11/03/detienen-a-dos-adultos-y-dos-menores-tras-rina-en-panteon-de-nogales-adolescentes-tenian-mariguana-y-bebidas-alcoholicas/

@@ -16,6 +16,18 @@ summary: >-
 figures:
   kg_seized: 14.5
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  force: lethal
+  products: [{product: flower, kg: 14.5}]
+  setting: [home, mail]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [3, 2, 1]
+  details.force: [3, 2, 1]
+  details.products: [3, 2, 1]
+  details.setting: [3, 2, 1]
 status: verified
 tags: [swat, controlled-delivery, dogs-killed, wrongful-raid]
 open_questions:

@@ -15,6 +15,12 @@ summary: >-
   unknown and the inquiry continues.
 figures:
   plants_destroyed: 243
+details:
+  activity: [smuggling]
+  products: [{product: plants, plants: 243}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [la-gaulette, adsu, abandoned-land]

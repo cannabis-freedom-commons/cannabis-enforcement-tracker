@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 10
+details:
+  activity: [smuggling, trafficking]
+  products: [{product: flower, kg: 10}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 83aa3d89ee38bf0c955bcedf2e3e0f44

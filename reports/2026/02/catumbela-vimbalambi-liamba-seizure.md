@@ -13,6 +13,16 @@ summary: >-
   Angola's Criminal Investigation Service detained three people in Bairro Vimbalambi, Catumbela, after finding liamba buried in a residence's yard on 12 February 2026. The SIC described the three, aged 34 to 48, as the alleged owners of the drug and said inquiries into other sales and storage points were continuing.
 figures:
   arrested: 3
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ba6f402863fceb8a9152de128738218e

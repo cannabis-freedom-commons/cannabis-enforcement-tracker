@@ -15,6 +15,16 @@ figures:
   arrested: 1
   kg_seized: 30
   hectares: 1
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [border-guard, police]
+  case_stage: investigation
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f2a8d16c4cca9bbb9682e9a9132c730e

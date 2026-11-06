@@ -13,6 +13,16 @@ summary: >-
   Police arrested two men aged 26 and 39 at the Assouindé checkpoint on 11 August 2026 after finding ten ballons of OD Kush cannabis in their Yango vehicle. The Aboisso DPSD drug-police unit made the seizure during a routine check under Operation Vacances Sécurisées XI.
 figures:
   arrested: 2
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [border]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://news.abidjan.net/articles/748873/cote-divoire-deux-individus-interpelles-avec-dix-ballons-de-cannabis-a-assouinde

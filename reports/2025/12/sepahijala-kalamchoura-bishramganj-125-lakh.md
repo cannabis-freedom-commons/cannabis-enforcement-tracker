@@ -15,6 +15,16 @@ summary: >-
   Nayajala and about a lakh matured plants around Bishramganj.
 figures:
   plants_destroyed: 125000
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 125000}]
+  setting: [forest]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tripura, sepahijala, joint-operation]

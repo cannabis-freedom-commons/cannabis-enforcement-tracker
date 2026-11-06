@@ -18,6 +18,12 @@ figures:
   kg_seized: 1.7
   charged: 2
   prison: 1 year firm (Mehdi P.); 8 months with 6 suspended (Dalida B.)
+details:
+  agency_types: [police, prosecutor, court]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [traffic-stop, thc, cbd]

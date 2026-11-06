@@ -12,6 +12,12 @@ summary: >-
   Code; no verdict was reported. It was one of the few cannabis-specific seizures reported that
   year.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: plants}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: mongolia-cannabis-plants-seizure-2024
 sources:

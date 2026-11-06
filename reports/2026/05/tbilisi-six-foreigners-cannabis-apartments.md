@@ -15,6 +15,20 @@ summary: >-
 figures:
   arrested: 6
 created_by_model: deepseek/deepseek-v4-flash-vision-exp
+details:
+  activity: [cultivation, sale]
+  agency_types: [police]
+  case_stage: sentenced
+  environment: [greenhouse]
+  products: [{product: flower}, {product: plants}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [tbilisi, indoor-growing, foreign-nationals]
 open_questions:

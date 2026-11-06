@@ -17,6 +17,18 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: meta/muse-spark
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: charged
+  environment: [indoor]
+  setting: [port, home, building]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [operation-league, factory]
 open_questions:

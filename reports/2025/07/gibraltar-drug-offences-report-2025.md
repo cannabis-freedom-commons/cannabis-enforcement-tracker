@@ -11,6 +11,14 @@ summary: >-
   all drugs. Its report describes enforcement ranging from possession fines to prison for
   trafficking.
 created_by_model: unknown
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: gibraltar-drug-offences-report-2025
 sources:

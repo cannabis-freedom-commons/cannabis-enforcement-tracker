@@ -12,6 +12,12 @@ summary: >-
   Police in Tajikistan seized about 28 kg of cannabis from 4 to 12 February 2006, including over 23 kg found in Hamadoni district and about 5 kg found in a car in Dushanbe. The cannabis was part of wider seizures of over 50 kg of drugs in 18 cases, with the owner of the Hamadoni cache still being sought.
 figures:
   kg_seized: 28
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c791d069995dc347058ab4ac53848ca3

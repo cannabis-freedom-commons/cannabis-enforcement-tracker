@@ -18,6 +18,12 @@ figures:
   kg_seized: 4.5
   value: { amount: 22038728, currency: GYD }
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 53000}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [linden, upper-demerara, police]
 sources:

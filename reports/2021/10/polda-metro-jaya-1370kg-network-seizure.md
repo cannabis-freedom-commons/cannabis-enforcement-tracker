@@ -18,6 +18,16 @@ figures:
   arrested: 12
   kg_seized: 1370
   value: { amount: 7000000000, currency: IDR }
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 1370}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [aceh-network]

@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 423
   plants_destroyed: 119772
+details:
+  agency_types: [gendarmerie, prosecutor]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [turkey, jandarma, eradication]

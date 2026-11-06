@@ -14,7 +14,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 4.613
+details:
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
 media:

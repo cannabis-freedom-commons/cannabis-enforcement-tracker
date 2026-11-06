@@ -14,6 +14,14 @@ summary: >-
   Police in Mordovia's Ichalkovsky district found more than 700 grams of cannabis and marijuana in the outbuildings of a 37-year-old Kemlya resident on 20 October 2026. A criminal case for illegal possession was opened against him, and he told officers he had grown the plant on his plot for personal use.
 figures:
   kg_seized: 0.7
+details:
+  activity: [possession]
+  agency_types: [police]
+  products: [{product: flower, kg: 0.7}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [2, 1]
 media:
   - kind: photo
     url: https://info-rm.com/lenta/incidentru/u-zhitelya-mordovii-zabrali-prestupnyy-urozhay/

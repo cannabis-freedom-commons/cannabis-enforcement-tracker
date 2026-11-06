@@ -13,6 +13,14 @@ summary: >-
   Argentine Naval Prefecture officers found almost one tonne of marijuana packed in 1,114 bricks inside two boats and scattered along the Paraná bank at Puerto Neis, in Puerto Rico, Misiones. The federal prosecutor's office in Oberá ordered the seizure and is investigating; no arrests were reported.
 figures:
   kg_seized: 1000
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  products: [{product: flower, kg: 1000}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/fronteras-seguras-prefectura-secuestro-casi-una-tonelada-de-droga-en-misiones

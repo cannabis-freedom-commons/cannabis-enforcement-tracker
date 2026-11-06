@@ -14,6 +14,14 @@ summary: >-
   On 16 December 2025 Kinshasa’s judicial police narcotics unit seized 56 sacks of
   cannabis hidden in a container during checks at Mitendi, west of the capital, and
   arrested suppliers with more sacks and kraft paper used for retail packs.
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [kinshasa, mitendi, ndobo]

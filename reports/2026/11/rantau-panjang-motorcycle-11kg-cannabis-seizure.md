@@ -15,6 +15,10 @@ figures:
   value:
     amount: 34100
     currency: MYR
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 4, 2, 3]
 media:
   - kind: photo
     url: https://www.sinarharian.com.my/article/803314/berita/semasa/pecut-lari-elak-polis-tinggalkan-11kg-ganja-dan-motosikal-dalam-lumpur

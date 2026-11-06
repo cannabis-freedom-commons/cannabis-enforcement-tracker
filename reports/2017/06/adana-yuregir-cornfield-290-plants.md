@@ -13,6 +13,14 @@ summary: >-
   Police in Ali Hocalı, Yüreğir district of Adana, seized 290 cannabis plants found growing in the middle of a cornfield during helicopter-backed inspections published on 5 June 2017. No growers had been identified at the time, and police said efforts to find the person or persons who planted the crop were continuing.
 figures:
   plants_destroyed: 290
+details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: plants, plants: 290}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d9383afe0e080566e4b3114777c69838

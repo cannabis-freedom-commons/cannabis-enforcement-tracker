@@ -11,6 +11,12 @@ summary: >-
   people. Media called it Tonga's largest cannabis bust at the time, though a 2017 raid at Matahau
   had found 3,894 plants.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: plants}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: tonga-vavau-cannabis-bust-2018
 sources:

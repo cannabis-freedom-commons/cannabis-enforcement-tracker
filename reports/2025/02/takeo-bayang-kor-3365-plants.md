@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 3365
   hectares: 0.189
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [military, police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [takeo, kirivong, mountain]
 open_questions:

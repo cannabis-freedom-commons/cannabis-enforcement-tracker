@@ -16,6 +16,14 @@ summary: >-
 figures:
   plants_destroyed: 7414
   value: { amount: 30000000, currency: MUR }
+details:
+  activity: [smuggling, cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 7414}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: unknown
 tags: [adsu, sugar-cane, helicopter]

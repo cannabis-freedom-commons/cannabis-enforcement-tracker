@@ -18,6 +18,12 @@ figures:
   arrested: 3
   kg_seized: 30
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 30}]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 tags: [warning-shots, tip-off]
 media:

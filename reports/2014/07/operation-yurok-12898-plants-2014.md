@@ -18,6 +18,12 @@ summary: >-
 figures:
   plants_destroyed: 12898
   kg_seized: 136
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 136}, {product: plants, plants: 12898}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [yurok, humboldt-county, operation-yurok]

@@ -17,6 +17,16 @@ figures:
   value:
     amount: 2178000000
     currency: COP
+details:
+  activity: [trafficking]
+  agency_types: [military, police]
+  products: [{product: flower, kg: 917}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [2, 3, 4, 1]
+  details.agency_types: [2, 3, 1, 4]
+  details.products: [1, 3, 4, 2]
+  details.setting: [1, 3, 4, 2]
 media:
   - kind: photo
     url: https://www.eltiempo.com/bogota/policia-encontro-917-kilos-de-marihuana-en-una-camioneta-que-transitaba-por-la-via-bogota-villavicencio-3598303

@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 95
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [dealer, kono, jamba]

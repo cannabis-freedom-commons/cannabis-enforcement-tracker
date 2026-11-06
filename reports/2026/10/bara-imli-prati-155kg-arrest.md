@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 155.635
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 155.635}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bara, trafficking]

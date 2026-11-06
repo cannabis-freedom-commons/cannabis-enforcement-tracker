@@ -14,6 +14,12 @@ summary: >-
   were arrested; the agency said armed ex-fighters guarded the remote farms.
 figures:
   plants_destroyed: 440000
+details:
+  agency_types: [military, police]
+  products: [{product: plants, plants: 440000}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [bong-county, nimba-county, unmil, dea]

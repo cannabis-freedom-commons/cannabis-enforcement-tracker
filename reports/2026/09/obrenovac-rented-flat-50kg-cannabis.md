@@ -18,6 +18,14 @@ figures:
   arrested: 2
   kg_seized: 50
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor]
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [obrenovac, sbpok, belgrade]
 open_questions:

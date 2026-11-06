@@ -16,6 +16,16 @@ summary: >-
 figures:
   charged: 6
 created_by_model: meta/muse-spark
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [home, building, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [stately-home, conspiracy, cumbria]
 open_questions:

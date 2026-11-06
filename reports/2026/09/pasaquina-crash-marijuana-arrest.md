@@ -13,6 +13,18 @@ summary: >-
   El Salvador's National Civil Police detained Freddy Azael Amaya Zúñiga, 25, after he was involved in a traffic accident at kilometre 193 of the Pan-American Highway in Pasaquina, La Unión Norte, and officers found a large marijuana package hidden in his vehicle. No weight was published, and he was to be referred to the courts for alleged illicit drug trafficking.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [1]
+  details.products: [2, 1, 3]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/el-salvador/2026/09/07/capturan-a-hombre-tras-hallar-marihuana-en-vehiculo-involucrado-en-accidente-en-el-oriente-salvadoreno/

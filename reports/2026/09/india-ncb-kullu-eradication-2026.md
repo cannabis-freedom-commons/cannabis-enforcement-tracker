@@ -12,6 +12,10 @@ summary: >-
   geo-tag and film the plots and the Forest Department issues destruction certificates; the NCB said
   legal action would follow against those responsible.
 created_by_model: unknown
+details:
+  setting: [forest]
+data_sources:
+  details.setting: [1]
 status: verified
 cfi_id: india-ncb-kullu-eradication-2026
 sources:

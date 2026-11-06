@@ -16,6 +16,12 @@ summary: >-
 figures:
   kg_seized: 10.5
   value: { amount: 525000, currency: INR }
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 10.5}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: reported
 created_by_model: unknown
 tags: [nanded, digras, maharashtra, cultivation]

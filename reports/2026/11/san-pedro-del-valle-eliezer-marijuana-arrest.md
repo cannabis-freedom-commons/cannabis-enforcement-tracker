@@ -14,6 +14,16 @@ summary: >-
   San Pedro police detained 34-year-old Eliézer “N” in Del Valle after allegedly finding several wrappers of dry herb resembling marijuana. The arrest occurred during Halloween prevention patrols; no weight was published and his legal situation was pending.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [port]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://mvsnoticias.com/nuevo-leon/2026/11/1/operativo-de-halloween-deja-cuatro-detenidos-por-distintos-delitos-en-san-pedro-751976.html

@@ -18,6 +18,16 @@ figures:
   arrested: 4
   kg_seized: 600
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling]
+  agency_types: [police]
+  products: [{product: flower, kg: 600}]
+  setting: [border]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [checkpoint, couriers]
 open_questions:

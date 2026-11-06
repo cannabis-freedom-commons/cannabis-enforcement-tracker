@@ -16,6 +16,16 @@ figures:
   arrested: 6
   charged: 6
   kg_seized: 90.72
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 90.72}]
+  setting: [vehicle, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d4f310a13754cfe8bd7eddeed364f7df

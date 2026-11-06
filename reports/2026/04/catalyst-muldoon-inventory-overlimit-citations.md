@@ -15,6 +15,10 @@ summary: >-
   errors but disputed the count and asked to defer action on the sales allegations.
 figures:
   fine: { amount: 11150, currency: USD }
+details:
+  products: [{product: flower}]
+data_sources:
+  details.products: [1, 2]
 status: disputed
 created_by_model: openai/gpt-6
 tags: [catalyst-cannabis, inventory-tracking, retail-sales]

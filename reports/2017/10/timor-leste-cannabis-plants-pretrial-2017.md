@@ -12,6 +12,20 @@ summary: >-
   trafficking but acquitted of consumption after a negative urine test. He had been held since January, and
   his defence said it would appeal.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: sentenced
+  products: [{product: plants}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2]
+  details.products: [2, 1]
+  details.sentence_types: [2]
+  details.setting: [2, 1]
 status: verified
 cfi_id: timor-leste-cannabis-plants-pretrial-2017
 tags:

@@ -12,6 +12,10 @@ summary: >-
   Dangerous Drugs Act. Officers uprooted his plants and found cannabis on him at the arrest. The
   case shows both limbs of the 1941 law being used against a small grower.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: solomon-islands-choiseul-cultivation-charges-2025
 sources:

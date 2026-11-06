@@ -12,6 +12,10 @@ summary: >-
   Police seized 95 grams of cannabis from the pavilion at Morris Marshall Recreational Grounds in Port-of-Spain during a 6:00 PM search on 11 March 2025. The report names no arrests or charges, and PC Thompson is continuing inquiries.
 figures:
   kg_seized: 0.095
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4aa3f98f1ea8183e4bee6fb393f852f3

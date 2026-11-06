@@ -13,6 +13,12 @@ summary: >-
   Police in St Kitts and Nevis charged three men with possession of cannabis with intent to supply over offences on 26–27 June 2024. Davin Phipps was charged at Basseterre Police Station on 28 June, while Xavier Dore and Antonio Pascal were charged at Newcastle Police Station on Nevis.
 figures:
   charged: 3
+details:
+  activity: [cultivation, possession]
+  agency_types: [police]
+data_sources:
+  details.activity: [2, 1, 4, 3]
+  details.agency_types: [2, 1, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 755dc0c1266fa5b2a49e3a1b8ea14773

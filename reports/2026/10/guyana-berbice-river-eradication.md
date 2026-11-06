@@ -20,6 +20,12 @@ figures:
   kg_seized: 199.6
   value: { amount: 165071544, currency: GYD }
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [berbice-river, savannah]
 open_questions:

@@ -15,6 +15,16 @@ figures:
   arrested: 60
   charged: 95
   kg_seized: 0.4536
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.4536}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8ac2acb070896acb7e1f3f5069d8b61d

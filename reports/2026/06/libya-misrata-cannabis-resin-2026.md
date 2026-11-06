@@ -11,6 +11,14 @@ summary: >-
   hidden among other goods in two containers. The haul totalled more than five tonnes and one Libyan
   man was arrested. Prosecutors in East Misrata supervised the case.
 created_by_model: unknown
+details:
+  agency_types: [customs, prosecutor]
+  case_stage: investigation
+  products: [{product: hashish}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: libya-misrata-cannabis-resin-2026
 sources:

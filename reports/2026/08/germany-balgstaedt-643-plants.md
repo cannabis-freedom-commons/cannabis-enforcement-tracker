@@ -15,6 +15,14 @@ summary: >-
   plantation with 643 plants on 5 August 2026 and provisionally arrested two men aged 30 and 24.
   Prosecutors in Halle said they would seek arrest warrants.
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [saxony-anhalt, balgstaedt, grow-op, halle]
 open_questions:

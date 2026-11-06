@@ -15,6 +15,14 @@ figures:
   value:
     amount: 500000
     currency: EUR
+details:
+  agency_types: [customs]
+  products: [{product: flower, kg: 56.8}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://lequotidien.lu/a-la-une/dudelange-zoufftgen-plus-de-56-kg-de-cannabis-saisis-a-la-frontiere/

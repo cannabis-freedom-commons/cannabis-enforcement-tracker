@@ -18,6 +18,10 @@ figures:
   value:
     amount: 17000
     currency: INR
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [2, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: fda9fd04a3701200ea7c283395f0f4e4

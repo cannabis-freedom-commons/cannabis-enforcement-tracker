@@ -16,6 +16,14 @@ figures:
   arrested: 47
   kg_seized: 482
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [military]
+  force: lethal
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.force: [1]
 status: verified
 tags: [anp, moroccan-border, weekly-bilan]
 sources:

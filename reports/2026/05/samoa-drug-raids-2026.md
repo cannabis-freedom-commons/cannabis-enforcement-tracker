@@ -11,6 +11,12 @@ summary: >-
   including 12 women aged 18–47 and 43 men aged 16–53. Seizures included just over 100 g of
   methamphetamine, marijuana plants and joints, and firearms. The figures cover all drugs.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: flower}, {product: plants}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: samoa-drug-raids-2026
 sources:

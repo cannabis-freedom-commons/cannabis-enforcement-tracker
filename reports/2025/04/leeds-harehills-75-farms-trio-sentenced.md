@@ -21,6 +21,18 @@ figures:
   kg_seized: 458
   value: { amount: 4500000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison, community-service]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [leeds, harehills, indoor-grow, property-front]
 open_questions:

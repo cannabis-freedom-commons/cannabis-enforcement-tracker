@@ -19,6 +19,16 @@ figures:
   kg_seized: 60
   prison: 4 years
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [prosecutor]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [airport, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [stansted, chelmsford, import]
 open_questions:

@@ -14,6 +14,10 @@ summary: >-
   Security services incinerated at least five sacks of hemp seized from shops in
   Biakato, along with high-strength alcohol and expired goods, at a public ceremony at the
   local stadium on 7 October 2026; no sellers were named or arrested in the reports.
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [ituri, biakato, hemp, public-destruction]

@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 741
+details:
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/1667584-diyarbakirda-741-kilogram-esrar-ele-gecirildi

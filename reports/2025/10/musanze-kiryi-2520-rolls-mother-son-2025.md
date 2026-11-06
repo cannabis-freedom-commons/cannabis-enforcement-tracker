@@ -16,6 +16,12 @@ summary: >-
   the Rwanda Investigation Bureau.
 figures:
   arrested: 2
+details:
+  activity: [sale]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://taarifa.rw/2025/10/06/mother-and-son-arrested-in-musanze-with-2520-rolls-of-cannabis/

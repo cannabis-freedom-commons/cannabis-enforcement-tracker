@@ -15,6 +15,12 @@ summary: >-
   they destroyed the plants and searched the surrounding area again.
 figures:
   plants_destroyed: 23
+details:
+  activity: [cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.gxnews.com.cn/staticpages/20260929/newgx6abbbf93-21999648.shtml

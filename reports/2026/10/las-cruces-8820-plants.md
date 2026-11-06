@@ -14,6 +14,14 @@ summary: >-
 figures:
   plants_destroyed: 8820
   value: { amount: 4410000, currency: GTQ }
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [peten, las-cruces]

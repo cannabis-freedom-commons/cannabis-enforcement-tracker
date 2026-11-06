@@ -18,6 +18,14 @@ figures:
   kg_seized: 500
   arrested: 2
   charged: 2
+details:
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 500}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [tilbury, ealing, operation-bandage, south-africa]

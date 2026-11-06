@@ -11,6 +11,12 @@ summary: >-
   at dawn on 19 July. They seized five tonnes of hashish and broke up what officials called a
   cannabis cultivation and processing operation, arresting several people.
 created_by_model: unknown
+details:
+  activity: [smuggling, cultivation]
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: libya-taknes-hashish-raid-2025
 sources:

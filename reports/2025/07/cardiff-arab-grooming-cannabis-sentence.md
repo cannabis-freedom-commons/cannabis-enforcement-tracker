@@ -15,6 +15,16 @@ figures:
   arrested: 1
   charged: 1
   prison: 7 years in custody with a 2-year extended licence
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: sentenced
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://www.bbc.co.uk/news/articles/cp900p5d0vyo

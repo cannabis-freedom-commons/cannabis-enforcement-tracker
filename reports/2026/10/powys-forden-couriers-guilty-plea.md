@@ -16,6 +16,10 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 0.14
+details:
+  agency_types: [prosecutor, court]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e4bf1bb6c4141adc212d5f6c75f92f0c

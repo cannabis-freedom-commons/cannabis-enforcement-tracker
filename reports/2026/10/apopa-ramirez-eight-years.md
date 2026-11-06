@@ -17,6 +17,20 @@ figures:
   kg_seized: 0.1882
   value: { amount: 664.34, currency: USD }
   prison: 8 years
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.1882}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [apopa, san-salvador]

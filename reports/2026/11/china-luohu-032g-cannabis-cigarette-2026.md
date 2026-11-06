@@ -12,6 +12,12 @@ summary: >-
   Luohu Customs intercepted a woman in white and two companions entering without declaration and found one half-burned homemade cannabis cigarette in a candy box in her backpack. The cigarette was confirmed as cannabis weighing 0.32 grams net, and the case was transferred to the customs anti-smuggling department.
 figures:
   kg_seized: 0.00032
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e110b476f2b247ec796c26b55e4e1da9

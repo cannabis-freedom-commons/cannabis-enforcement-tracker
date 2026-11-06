@@ -20,10 +20,12 @@ details:
   activity: [sale]
   agencies: [ca-rcmp]
   agency_types: [police]
+  sentence_types: [fine]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.sentence_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 41bf1cc4e9f3aafe871027539600bd43

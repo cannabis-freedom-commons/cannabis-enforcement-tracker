@@ -20,6 +20,14 @@ figures:
   kg_seized: 49
   plants_destroyed: 20000
   value: { amount: 9800000, currency: PHP }
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 49}, {product: plants, plants: 20000}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.filipinonewssentinel.com/3-drug-personalities-busted-over-9-8-m-worth-of-marijuana-seized-and-destroyed-in-separate-drug-operations-in-kalinga/

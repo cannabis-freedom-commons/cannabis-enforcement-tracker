@@ -12,6 +12,10 @@ summary: >-
   Police in Mossendjo, Niari, arrested four suspected cannabis dealers and placed them in custody over alleged possession and use of cannabis. The four, aged 17 to 41, were brought before the Mossendjo prosecutor on Monday 26 February 2018.
 figures:
   arrested: 4
+details:
+  agency_types: [police, prosecutor]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4d2deb24c53aefd9c0c08cf620120400

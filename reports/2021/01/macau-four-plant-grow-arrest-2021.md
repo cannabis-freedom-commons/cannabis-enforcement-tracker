@@ -13,6 +13,12 @@ summary: >-
   plants were grown for sale. Officers came across the operation while investigating another drug
   case.
 created_by_model: unknown
+details:
+  activity: [trafficking, sale]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: macau-four-plant-grow-arrest-2021
 sources:

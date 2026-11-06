@@ -19,6 +19,12 @@ figures:
   kg_seized: 57.42
   value: { amount: 6316200, currency: TTD }
 created_by_model: openai/gpt-6-luna#max
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags: [ttps, gasparillo, reform]
 open_questions:

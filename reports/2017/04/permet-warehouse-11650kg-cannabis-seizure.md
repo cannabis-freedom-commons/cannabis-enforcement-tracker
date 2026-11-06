@@ -17,6 +17,14 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 11650
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [permet, pagri, warehouse]

@@ -21,6 +21,12 @@ figures:
     amount: 11683500
     currency: KES
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [anti-narcotics, police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [kwale, mdomo, anu, trafficking]
 sources:

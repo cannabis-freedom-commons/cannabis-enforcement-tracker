@@ -17,6 +17,16 @@ figures:
   value:
     amount: 1093000
     currency: XOF
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [2, 3, 1]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://togoactualite.com/togo-un-homme-arrete-avec-une-importante-quantite-de-cannabis-a-gbadago/

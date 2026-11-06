@@ -14,6 +14,14 @@ summary: >-
   Wakigunyi Village. The plantation owner escaped; the plants were booked as exhibits at Mbale
   Police Station while investigations continued.
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 open_questions:
   - Only one local report on the operation was found, so the plant count has no independent confirmation.

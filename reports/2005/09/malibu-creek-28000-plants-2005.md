@@ -16,6 +16,10 @@ summary: >-
 figures:
   plants_destroyed: 28000
   value: { amount: 30000000, currency: USD }
+details:
+  products: [{product: flower}]
+data_sources:
+  details.products: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [malibu, lost-hills, public-lands]

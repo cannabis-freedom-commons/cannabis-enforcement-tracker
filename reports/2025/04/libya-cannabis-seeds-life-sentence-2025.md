@@ -11,6 +11,18 @@ summary: >-
   customs documents that falsely described the goods. It fined him 40,000 dinars and permanently
   stripped him of his civil rights. The charge was importing the seeds, not growing plants.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: seeds}]
+  sentence_types: [life, fine]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: libya-cannabis-seeds-life-sentence-2025
 sources:

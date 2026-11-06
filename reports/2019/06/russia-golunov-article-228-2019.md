@@ -16,6 +16,14 @@ summary: >-
   leading newspapers ran the same front page, the case was dropped on 11 June, five days after the arrest, and five
   officers were later convicted of fabricating the case.
 created_by_model: unknown
+details:
+  activity: [processing]
+  agency_types: [police]
+  setting: [vehicle, prison]
+data_sources:
+  details.activity: [3, 1, 4]
+  details.agency_types: [3, 1]
+  details.setting: [3, 1, 4]
 status: verified
 cfi_id: russia-golunov-article-228-2019
 open_questions:

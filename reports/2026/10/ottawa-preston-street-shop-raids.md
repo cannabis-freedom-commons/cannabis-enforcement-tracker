@@ -22,6 +22,14 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 7.262
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  case_stage: charged
+data_sources:
+  details.activity: [2, 5, 6, 3, 1, 4]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b16b0b9b50b5d8a921e7cc5e8e4a00c9

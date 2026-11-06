@@ -18,6 +18,18 @@ figures:
   plants_destroyed: 455
   kg_seized: 40.5
   prison: 54 months
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 40.5}, {product: plants, plants: 455}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [2, 6, 5, 3]
+  details.agency_types: [4, 1, 7, 2, 3, 6]
+  details.products: [4, 1, 7, 2, 3, 6]
+  details.sentence_types: [7]
+  details.setting: [1, 7, 2, 3, 6, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [pennsylvania, chalfont, grow-house, federal-sentence, cooperation]

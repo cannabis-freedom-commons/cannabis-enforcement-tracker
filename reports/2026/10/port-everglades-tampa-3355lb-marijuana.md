@@ -13,6 +13,14 @@ summary: >-
   The crew of Coast Guard Cutter Tampa offloaded about 3,355 pounds of marijuana alongside cocaine at Port Everglades after six Eastern Pacific interdictions. Officials estimated the combined haul at $226.7 million, with no arrests announced.
 figures:
   kg_seized: 1521.8
+details:
+  activity: [smuggling]
+  agency_types: [coast-guard]
+  products: [{product: flower, kg: 1521.8}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: video
     url: https://www.newsnationnow.com/us-news/southeast/226m-cocaine-marijuana-seized-coast-guard/

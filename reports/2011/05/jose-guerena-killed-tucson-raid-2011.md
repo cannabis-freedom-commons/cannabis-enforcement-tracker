@@ -20,6 +20,18 @@ summary: >-
 figures:
   deaths: 1
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  force: shots-fired
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3]
+  details.force: [1, 3]
+  details.products: [3, 1, 2]
+  details.setting: [1, 3, 2]
 status: verified
 tags: [police-shooting, swat, no-arrests, settlement]
 media:

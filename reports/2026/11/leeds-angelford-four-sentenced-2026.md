@@ -18,6 +18,16 @@ figures:
   value:
     amount: 17000
     currency: GBP
+details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 3, 4]
+  details.sentence_types: [1, 3, 4]
+  details.setting: [1, 3, 4]
 media:
   - kind: photo
     url: https://www.westyorkshire.police.uk/news-appeals/four-sentenced-after-neighbourhood-policing-investigation-drug-offences-east-leeds

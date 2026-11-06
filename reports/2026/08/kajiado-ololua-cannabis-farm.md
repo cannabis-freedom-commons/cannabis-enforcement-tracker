@@ -20,6 +20,12 @@ figures:
   arrested: 1
   value: { amount: 2369000, currency: KES }
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [kajiado, dci, ololua, eradication]
 sources:

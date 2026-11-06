@@ -13,6 +13,12 @@ summary: >-
   An Alaska Marijuana Control Office inspection at Dope Dynasty found hundreds of
   untagged plants. The agency alleged 1,840 tracking-rule violations; the business
   said it corrected the tags before the follow-up visit and asked for a warning.
+details:
+  activity: [cultivation]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6
 tags: [dope-dynasty, inventory-tracking, wasilla]

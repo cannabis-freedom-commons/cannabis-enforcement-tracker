@@ -19,6 +19,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 4
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: unknown
 tags: [dakar]

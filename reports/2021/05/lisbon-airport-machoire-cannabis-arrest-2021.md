@@ -13,7 +13,16 @@ summary: >-
   Portuguese officers arrested Karim Benkhelif, a 41-year-old French-Algerian known as "Mâchoire", at Lisbon Airport on 30 May 2021 as he stepped off a flight from Dubai. He was wanted on French and Spanish European arrest warrants and is suspected of importing several tonnes of cannabis into France.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  setting: [airport]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
   figures.arrested: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

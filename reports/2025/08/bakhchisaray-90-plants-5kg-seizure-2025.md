@@ -13,6 +13,16 @@ summary: >-
 figures:
   plants_destroyed: 90
   kg_seized: 5
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [field, home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/svyshe-90-kustov-konopli-i-pochti-5-kg-marikhuany-izyali-politseyskie-u-zhitelya-bakhchisarayskogo-r/

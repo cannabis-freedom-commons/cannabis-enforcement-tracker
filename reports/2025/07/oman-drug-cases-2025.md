@@ -12,6 +12,10 @@ summary: >-
   common drugs and said international networks used social media to recruit young people. The
   figures cover all drugs, not cannabis alone, and no arrest or conviction breakdown was published.
 created_by_model: unknown
+details:
+  products: [{product: hashish}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: oman-drug-cases-2025
 sources:

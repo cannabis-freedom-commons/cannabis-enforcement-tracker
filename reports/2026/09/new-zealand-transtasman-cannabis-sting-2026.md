@@ -12,6 +12,12 @@ summary: >-
   opium, MDMA, cash and firearms. The cannabis came from grow houses in Auckland linked to Vietnamese
   organised crime.
 created_by_model: unknown
+details:
+  agency_types: [customs, police]
+  setting: [home]
+data_sources:
+  details.agency_types: [2, 1, 3, 4]
+  details.setting: [2, 1, 3]
 status: verified
 cfi_id: new-zealand-transtasman-cannabis-sting-2026
 sources:

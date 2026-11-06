@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 10.35
+details:
+  agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 10.35}]
+  setting: [border, vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/formosa-hallan-mas-de-10-kilos-de-marihuana-ocultos-en-la-rueda-de-auxilio-de-una-camioneta

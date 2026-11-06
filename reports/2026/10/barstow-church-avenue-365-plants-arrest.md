@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 365
+details:
+  activity: [cultivation]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 365}]
+  setting: [port, home, prison]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2c9724e1e93053600fa42e83ad1dec5f

@@ -12,6 +12,10 @@ summary: >-
   became involved and why inspectors had notified it. The statement exposed a dispute over the
   investigation’s handling while the cases continued.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: serbia-konjuh-investigation-link-2026
 sources:

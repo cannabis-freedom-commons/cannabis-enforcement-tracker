@@ -17,6 +17,14 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 18
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [dakar, keur-massar]

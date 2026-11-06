@@ -15,6 +15,10 @@ figures:
   value:
     amount: 3000000
     currency: USD
+details:
+  products: [{product: flower}]
+data_sources:
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.sgvtribune.com/2025/07/16/more-than-3-million-in-marijuana-seized-from-illegal-grow-in-hacienda-heights/

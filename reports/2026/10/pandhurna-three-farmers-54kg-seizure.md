@@ -16,6 +16,18 @@ figures:
   arrested: 3
   plants_destroyed: 66
   kg_seized: 54
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 66}]
+  setting: [field, prison]
+data_sources:
+  details.activity: [2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 3]
+  details.products: [1, 2]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.bhaskar.com/local/mp/chhindwara/pandhurna/news/pandhurna-ganja-seizure-farmers-arrested-chhindwara-crime-news-139534312.html

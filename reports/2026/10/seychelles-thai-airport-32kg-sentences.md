@@ -17,6 +17,16 @@ summary: >-
   2025. Officers seized about 15.9 kg from each traveller.
 figures:
   kg_seized: 31.913
+details:
+  agency_types: [customs, police]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [airport, importation, thailand]

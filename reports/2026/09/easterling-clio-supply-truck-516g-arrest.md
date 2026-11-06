@@ -16,6 +16,16 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.516
+details:
+  activity: [possession]
+  case_stage: charged
+  products: [{product: flower, kg: 0.516}]
+  setting: [vehicle, prison]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.waka.com/2026/10/04/man-arrested-in-montgomery-county-on-charges-involving-prison-contraband/

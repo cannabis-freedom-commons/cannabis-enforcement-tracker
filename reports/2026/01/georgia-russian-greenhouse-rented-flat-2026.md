@@ -17,14 +17,18 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: sentenced
+  environment: [greenhouse]
   products:
     - {product: flower}
+  sentence_types: [life]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2]
+  details.environment: [1, 2]
   details.products: [1]
+  details.sentence_types: [2]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -16,6 +16,18 @@ summary: >-
   grown for a tribal housing project; no one was arrested.
 figures:
   plants_destroyed: 3782
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [pine-ridge, dea, industrial-hemp, alex-white-plume]

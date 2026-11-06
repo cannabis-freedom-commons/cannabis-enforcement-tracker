@@ -21,12 +21,14 @@ details:
   case_stage: sentenced
   products:
     - {product: seeds}
+  sentence_types: [probation]
   setting: [home, prison]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [seeds, extradition, activism]

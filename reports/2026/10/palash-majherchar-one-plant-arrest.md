@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 1
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.ekusheysangbad.com/country/news/527589

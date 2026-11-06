@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   hectares: 0.005
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants}]
+  setting: [field]
+data_sources:
+  details.activity: [2, 1, 3, 4]
+  details.agency_types: [1, 3, 4, 2]
+  details.products: [1, 3, 4]
+  details.setting: [1, 3, 4, 2]
 media:
   - kind: photo
     url: https://actu.fr/centre-val-de-loire/amilly_45004/les-allees-et-venues-d-un-homme-dans-ce-bois-du-loiret-sont-peu-discretes-la-police-tombe-sur-sa-plantation-de-cannabis_65005408.html

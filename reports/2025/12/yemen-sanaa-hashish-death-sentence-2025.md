@@ -12,6 +12,14 @@ summary: >-
   confiscated. A second defendant received 25 years for drug trafficking, and three others five
   years each for possessing hashish with intent to use.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  products: [{product: hashish}]
+  sentence_types: [death]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 cfi_id: yemen-sanaa-hashish-death-sentence-2025
 sources:

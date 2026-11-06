@@ -26,12 +26,14 @@ details:
   products:
     - {product: hashish}
   route: {from: [ma], to: [fr]}
+  sentence_types: [prison]
   setting: [home, building, prison]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5

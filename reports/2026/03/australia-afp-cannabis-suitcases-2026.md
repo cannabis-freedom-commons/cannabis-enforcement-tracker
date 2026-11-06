@@ -12,6 +12,12 @@ summary: >-
   staff became suspicious of his suitcase in August 2024, and he pleaded guilty to a Commonwealth
   trafficking charge in August 2025. The District Court set a non-parole period of one year.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  setting: [airport]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 cfi_id: australia-afp-cannabis-suitcases-2026
 sources:

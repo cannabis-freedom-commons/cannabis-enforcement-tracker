@@ -16,6 +16,12 @@ figures:
   value:
     amount: 390
     currency: EUR
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+data_sources:
+  details.activity: [2, 5, 6, 3, 4]
+  details.agency_types: [2, 5, 6, 3, 4, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 01d6752fc939b59325967d75db3816ce

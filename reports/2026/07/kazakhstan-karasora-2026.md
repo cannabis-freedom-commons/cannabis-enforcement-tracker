@@ -12,6 +12,12 @@ summary: >-
   among them more than 121 kg of synthetic drugs, and 266 kg of precursors. A separate case in
   Astana involved 245 g of alpha-PVP packed in 227 sachets.
 created_by_model: unknown
+details:
+  activity: [smuggling, cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: kazakhstan-karasora-2026
 sources:

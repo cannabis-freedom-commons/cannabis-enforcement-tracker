@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.0046
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5dfe24d23bba1017f32a31784bc71514

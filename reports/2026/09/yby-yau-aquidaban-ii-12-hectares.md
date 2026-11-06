@@ -18,6 +18,12 @@ figures:
   hectares: 12
   kg_seized: 2000
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [anti-narcotics, police, prosecutor]
+  products: [{product: flower, kg: 2000}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [concepcion, yby-yau, eradication, sumar]
 sources:

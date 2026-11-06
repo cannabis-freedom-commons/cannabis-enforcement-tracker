@@ -19,10 +19,12 @@ figures:
 details:
   agency_types: [prosecutor, court]
   products: [{product: flower, kg: 7.5}]
+  sentence_types: [probation]
   setting: [home]
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.05
+details:
+  agency_types: [gendarmerie]
+  products: [{product: flower, kg: 0.05}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/pointe-a-pitre-un-individu-intercepte-avec-50-grammes-de-cannabis-1085949.php

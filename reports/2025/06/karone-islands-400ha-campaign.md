@@ -20,6 +20,14 @@ figures:
   hectares: 400
   kg_seized: 4000
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  agency_types: [customs, gendarmerie]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [3, 1, 2]
 status: verified
 tags: [karone, casamance, ziguinchor, chanvre-indien]
 open_questions:

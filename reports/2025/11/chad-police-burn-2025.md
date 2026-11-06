@@ -12,6 +12,12 @@ summary: >-
   adulterated alcohol. The deputy prosecutor present said the destruction complied with Law 22/PR/95
   on drug control.
 created_by_model: unknown
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: chad-police-burn-2025
 tags:

@@ -18,6 +18,16 @@ figures:
   value:
     amount: 950000
     currency: HKD
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 7, 8]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 media:
   - kind: photo
     url: https://hk.on.cc/hk/bkn/cnt/news/20261103/bkn-20261103191303839-1103_00822_001.html

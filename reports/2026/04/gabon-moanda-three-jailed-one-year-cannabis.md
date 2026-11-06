@@ -16,6 +16,18 @@ figures:
   arrested: 3
   charged: 3
   prison: 1 year
+details:
+  activity: [possession]
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 76cfb6d0efe4ef1ac11d60a8d647744b

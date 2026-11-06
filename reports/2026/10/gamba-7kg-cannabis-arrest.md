@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 7
+details:
+  agency_types: [customs, gendarmerie, police, prosecutor]
+  case_stage: investigation
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://actucameroun.com/2026/10/14/region-du-nord-un-trafiquant-presume-de-chanvre-indien-arrete-a-gamba/

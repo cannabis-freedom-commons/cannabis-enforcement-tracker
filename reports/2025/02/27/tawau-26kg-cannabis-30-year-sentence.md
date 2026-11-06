@@ -19,6 +19,18 @@ figures:
   kg_seized: 26.2153
   prison: 30 years
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [death]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [tawau, sabah, section-39b]
 open_questions:

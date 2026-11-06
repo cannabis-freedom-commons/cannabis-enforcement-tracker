@@ -17,6 +17,12 @@ figures:
   value:
     amount: 270000
     currency: USD
+details:
+  activity: [possession]
+  products: [{product: flower, kg: 81.65}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://katu.com/news/local/over-180-pounds-of-marijuana-lsd-and-psylocibin-seized-in-coos-bay-narcotics-operation

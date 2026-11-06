@@ -21,9 +21,11 @@ figures:
 created_by_model: cursor/composer-2.5
 details:
   agency_types: [customs, police]
+  sentence_types: [prison]
   setting: [airport]
 data_sources:
   details.agency_types: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [2]
 status: verified
 tags: [paphos, ykan, airport]

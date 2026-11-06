@@ -12,6 +12,12 @@ summary: >-
   Searches recovered mephedrone, hashish and marijuana worth more than 15 million som. The case was
   opened under the supply article of the Criminal Code and the investigation continued.
 created_by_model: unknown
+details:
+  case_stage: investigation
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: kyrgyzstan-mixed-drug-case-2026
 sources:

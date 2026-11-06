@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 112.63
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kazungula, lusaka, mpika, dec]

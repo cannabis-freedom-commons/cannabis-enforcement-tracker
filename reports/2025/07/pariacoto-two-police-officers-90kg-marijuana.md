@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 90
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 90}]
+data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/peru/2025/07/09/dos-policias-fueron-capturados-con-marihuana-en-ancash-operativo-revelo-red-de-traslado-de-droga-que-involucraba-a-uniformados/

@@ -13,6 +13,14 @@ summary: >-
   morning of Friday 29 April 2011, weeks before the party's first local
   elections. Officers found only a few cannabis seeds and took a worker to the
   police station.
+details:
+  agency_types: [police]
+  products: [{product: flower}, {product: seeds}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dagga-party, elections]

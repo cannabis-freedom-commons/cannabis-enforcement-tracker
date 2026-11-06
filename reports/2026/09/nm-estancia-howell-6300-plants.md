@@ -17,6 +17,16 @@ summary: >-
 figures:
   plants_destroyed: 6300
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  agency_types: [police, prosecutor]
+  environment: [greenhouse]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 tags: [new-mexico, torrance, eradication]
 sources:

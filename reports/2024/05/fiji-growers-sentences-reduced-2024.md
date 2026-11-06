@@ -12,6 +12,12 @@ summary: >-
   and role guidelines to the men’s older case, involving a remote plantation with at least 208 whole
   plants confirmed in the analyst’s report.
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 cfi_id: fiji-growers-sentences-reduced-2024
 tags:

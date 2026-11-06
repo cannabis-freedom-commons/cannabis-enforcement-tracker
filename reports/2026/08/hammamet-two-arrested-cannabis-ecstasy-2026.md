@@ -13,6 +13,14 @@ summary: >-
   Nabeul anti-drug police arrested two wanted suspects in Hammamet and searched one suspect's home, seizing packaged cannabis, ecstasy tablets and a pistol. The Grombalia prosecutor ordered both suspects held while police hunt other network members.
 figures:
   arrested: 2
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 671336d435d67f11a2e0df0968264890

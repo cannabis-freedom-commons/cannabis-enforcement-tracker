@@ -13,6 +13,16 @@ summary: >-
   Police took presidential candidate Zurab Japaridze and three Girchi members from a cannabis-legalization festival in a central Tbilisi park after Japaridze handed out three marijuana joints. Japaridze was searched, questioned in a criminal case over acquisition, storage and distribution, and released hours later.
 figures:
   arrested: 4
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.bbc.com/russian/news-45929992

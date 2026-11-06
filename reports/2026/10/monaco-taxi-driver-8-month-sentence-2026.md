@@ -13,6 +13,18 @@ summary: >-
   Monaco's Criminal Court sentenced a 44-year-old taxi driver to eight months in prison after officers found him slumped over his running car near the Wurtemberg roundabout with drugs in his system. Searches found THC vape products at 88% THC alongside cocaine, medication and weapons, and the court also banned him from taxi work for five years.
 figures:
   prison: 8 months
+details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  force: physical
+  sentence_types: [prison, suspended, probation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.force: [1, 2]
+  details.sentence_types: [2, 1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ec9ba7cc7eaab81a66c682f563e6eb48

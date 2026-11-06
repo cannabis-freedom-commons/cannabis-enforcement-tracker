@@ -13,6 +13,14 @@ summary: >-
   Police answering a night-time dispute call in Schifflange found cannabis containers in an apartment and seized drugs and phones on the prosecutor's orders. A follow-up search of a second suspect's home and vehicle recovered one cannabis plant, a grow tent and more cannabis containers.
 figures:
   plants_destroyed: 1
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  setting: [vehicle, home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a071fe6706447996e0f88c5da3b18085

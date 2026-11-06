@@ -19,6 +19,14 @@ figures:
   hectares: 2
   arrested: 1
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking, cultivation, sale]
+  agency_types: [gendarmerie]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [mindourou, gendarmerie, east-region, schools]
 open_questions:

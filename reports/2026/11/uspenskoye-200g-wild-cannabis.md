@@ -19,6 +19,7 @@ details:
   activity: [cultivation, possession]
   agency_types: [police]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [forest]
   environment: [wild]
 data_sources:
@@ -26,6 +27,7 @@ data_sources:
   details.agency_types: [1, 5, 2, 4, 3]
   details.case_stage: [2, 4, 5, 3, 1]
   details.environment: [1, 3, 5]
+  details.sentence_types: [2, 4, 5, 3, 1]
   details.setting: [1, 3, 5]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

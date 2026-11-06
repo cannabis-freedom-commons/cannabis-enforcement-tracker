@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 5.7
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor]
+  products: [{product: flower, kg: 5.7}]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
+  details.products: [2, 3, 1]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/martinique/plus-de-5-kg-de-cannabis-et-trois-armes-saisis-lors-d-une-operation-de-gendarmerie-au-francois-1691636.html

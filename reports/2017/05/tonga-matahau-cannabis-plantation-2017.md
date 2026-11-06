@@ -11,6 +11,12 @@ summary: >-
   and arrested eight men. Four were sentenced on 7 June 2018. It appears to have been larger than
   the Vava'u bust that media later called Tonga's biggest.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: plants}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: tonga-matahau-cannabis-plantation-2017
 sources:

@@ -30,12 +30,14 @@ details:
   case_stage: sentenced
   products:
     - {product: seeds}
+  sentence_types: [prison, fine]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2]
   details.products: [2, 3]
+  details.sentence_types: [2, 1, 3]
   details.setting: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

@@ -18,6 +18,16 @@ summary: >-
 figures:
   kg_seized: 5724.34
   arrested: 2
+details:
+  agency_types: [customs]
+  case_stage: investigation
+  products: [{product: flower, kg: 5724.34}]
+  setting: [border, vehicle]
+data_sources:
+  details.agency_types: [2]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [us-customs, el-paso, bridge-of-the-americas, tractor-trailer]

@@ -17,6 +17,14 @@ summary: >-
 figures:
   plants_destroyed: 999
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police]
+  case_stage: appeal
+  products: [{product: plants, plants: 999}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [merseyside, everton, cannabis-farm]
 open_questions:

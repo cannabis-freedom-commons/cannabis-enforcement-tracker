@@ -18,6 +18,12 @@ summary: >-
   was arrested at the scene.
 figures:
   kg_seized: 210
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 210}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [morang, jahada, apf, trafficking]

@@ -13,6 +13,16 @@ summary: >-
   Municipal guards in Ibaté arrested a man for suspected drug trafficking after he fled and discarded a bag holding six suspected marijuana portions alongside 18 suspected cocaine pins. He was booked in flagrante for trafficking and remained in custody after being presented to the Civil Police in São Carlos.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://regiaoemdestake.com.br/trafico-de-drogas-em-ibate-homem-tenta-fugir-e-e-preso/

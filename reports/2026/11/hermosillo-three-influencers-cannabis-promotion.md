@@ -12,6 +12,12 @@ summary: >-
   A control judge in Hermosillo bound three influencers over for trial for publicly promoting Olympos marijuana products in an August Facebook video. The three must sign weekly, post a financial guarantee, stay in Sonora and stop promoting the brand while the case continues.
 figures:
   charged: 3
+details:
+  agency_types: [prosecutor, court]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [2, 3, 4, 5, 1]
+  details.products: [1, 3, 4, 2, 5]
 media:
   - kind: photo
     url: https://www.infobae.com/mexico/2026/11/03/sonora-procesan-a-los-influencers-el-azlan-el-pelon-bajavion-y-el-doble-carne-por-promover-consumo-de-marihuana-en-redes/

@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 175000
   hectares: 20.23
   value: { amount: 257200000, currency: INR }
+details:
+  activity: [cultivation]
+  setting: [forest]
+data_sources:
+  details.activity: [1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.sentinelassam.com/amp/story/breakingnews/assam-rifles-destroys-illegal-ganja-cultivation-worth-rs-2572-crore-in-tripuras-boxanagar

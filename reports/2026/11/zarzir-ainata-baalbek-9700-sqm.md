@@ -13,6 +13,14 @@ summary: >-
   Lebanon's army said on 1 November 2026 that one of its units had destroyed a marijuana crop covering about 9,700 square meters in the Zarzir and Ainata areas of Baalbek. The statement gave no plant count or weight, named no suspects and reported no arrests.
 figures:
   hectares: 0.97
+details:
+  activity: [cultivation]
+  agency_types: [military]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [2, 1, 7, 3, 6, 8]
+  details.agency_types: [1, 4, 6, 7, 8, 9]
+  details.products: [1, 4, 6, 7, 8, 9]
 media:
   - kind: photo
     url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-9700-%D9%85%D8%AA%D8%B1-%D9%85%D8%B1%D8%A8%D8%B9-%D9%85%D9%86-%D9%85%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D9%8A%D8%AC%D9%88%D8%A7%D9%86%D8%A7-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%AA%D9%8E%D9%8A-%D8%A7%D9%84%D8%B2%D8%B1%D8%A7%D8%B2%D9%8A%D8%B1-%D9%88%D8%B9%D9%8A%D9%86%D8%A7%D8%AA%D8%A7-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83

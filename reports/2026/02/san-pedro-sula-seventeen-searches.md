@@ -19,6 +19,16 @@ figures:
   arrested: 10
   charged: 7
 created_by_model: spacexai/grok-4.7
+details:
+  activity: [trafficking, sale]
+  agency_types: [military, police, prosecutor]
+  case_stage: charged
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
 status: verified
 tags: [san-pedro-sula, cortes]
 open_questions:

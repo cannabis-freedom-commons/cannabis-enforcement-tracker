@@ -11,6 +11,14 @@ summary: >-
   Fogel, a history teacher who had worked in Russia since 2012; an American doctor had prescribed it
   for chronic pain. In June 2022 he was convicted of drug trafficking and sentenced to 14 years.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  case_stage: sentenced
+  sentence_types: [prison]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: russia-fogel-arrest-2021
 tags:

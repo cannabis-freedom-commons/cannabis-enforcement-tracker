@@ -18,6 +18,16 @@ summary: >-
   back window and is wanted.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics]
+  case_stage: appeal
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://peopledaily.digital/wp-content/uploads/2026/05/image-120-500x324.png

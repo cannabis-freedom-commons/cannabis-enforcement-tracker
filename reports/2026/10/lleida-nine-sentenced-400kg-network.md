@@ -36,12 +36,14 @@ details:
   case_stage: sentenced
   products:
     - {product: hashish}
+  sentence_types: [prison]
   setting: [vehicle, home, building]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 3]
   details.products: [1, 2]
+  details.sentence_types: [1, 3, 2]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

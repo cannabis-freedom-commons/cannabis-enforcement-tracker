@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 31
   kg_seized: 0.4293
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.4293}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/republica-dominicana/2026/09/21/operativos-contra-el-microtrafico-dejaron-mas-de-30-detenidos-y-mas-de-dos-kilos-de-drogas-en-cuatro-provincias-de-republica-dominicana/

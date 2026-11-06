@@ -13,6 +13,12 @@ summary: >-
   An Abidjan port police unit seized 59 cannabis blocks weighing 590 kg in an unfinished house in Grand-Bassam on 27 November 2023, acting on a tip. The national police announced the seizure and opened an investigation into the origin of the drugs and those involved.
 figures:
   kg_seized: 590
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [2, 1]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://www.yeclo.com/trafic-de-drogue-la-police-saisit-59-blocs-de-cannabis-a-bassam/

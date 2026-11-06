@@ -24,11 +24,13 @@ details:
   case_stage: sentenced
   products:
     - {product: hashish}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [4, 1]
   details.products: [1]
+  details.sentence_types: [4, 1]
   details.setting: [4, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

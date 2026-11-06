@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 8
+details:
+  activity: [trafficking]
+  agency_types: [coast-guard]
+  case_stage: charged
+  products: [{product: flower, kg: 8}]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/america/colombia/2022/12/20/incautan-una-tonelada-de-cocaina-y-capturan-a-cinco-colombianos-en-costa-rica/

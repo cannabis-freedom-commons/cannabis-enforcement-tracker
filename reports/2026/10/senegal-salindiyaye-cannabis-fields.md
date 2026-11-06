@@ -13,6 +13,12 @@ summary: >-
   Military Zone No. 5 ran a joint security sweep on Salindiyaye in the Karones archipelago on
   8 October 2026 and found several chanvre indien fields. The navy base at Ziguinchor and
   gendarmes took part; no one was arrested and searches continued.
+details:
+  agency_types: [gendarmerie, military]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.sunugox.info/iles-karones-des-champs-de-chanvre-indien-decouverts-lors-dune-operation-militaire/

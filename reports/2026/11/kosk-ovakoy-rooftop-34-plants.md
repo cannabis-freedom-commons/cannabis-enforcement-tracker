@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 34
+details:
+  agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: plants, plants: 34}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2, 5, 3]
+  details.case_stage: [1, 2, 5, 3, 4]
+  details.products: [1, 4, 5, 2]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 027f2da8e55e8f8a95f196ed242504ee

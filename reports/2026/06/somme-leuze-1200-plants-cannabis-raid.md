@@ -15,6 +15,14 @@ figures:
   arrested: 3
   plants_destroyed: 1200
   kg_seized: 33.5
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [field, home]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://www.brusselstimes.com/2193527/about-1200-cannabis-plants-seized-at-namur-home

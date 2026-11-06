@@ -13,6 +13,16 @@ summary: >-
   Chad's national gendarmerie presented 29 arrested suspects and a mixed haul of weapons, drugs, counterfeit notes and motorcycles at Klessoum in N'Djamena on 24 July 2020; retail cannabis sellers were among the suspects and its special units seized cannabis. No weight, plant count or value was given for the cannabis, and the arrest total covers the whole roundup.
 figures:
   arrested: 29
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, military, police]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.alwihdainfo.com/Tchad-des-armes-des-faux-billets-et-de-la-drogue-saisis-par-la-gendarmerie-29-arrestations_a91075.html

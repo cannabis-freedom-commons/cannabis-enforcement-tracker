@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 3
+details:
+  agency_types: [customs, police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 3}, {product: oil}]
+  setting: [airport, home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://maldivesindependent.com/crime-2/suspected-traffickers-arrested-with-cannabis-143456

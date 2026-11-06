@@ -19,6 +19,16 @@ figures:
   arrested: 16
   kg_seized: 2500
   value: { amount: 35000000, currency: AUD }
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  products: [{product: plants}]
+  setting: [vehicle, home]
+data_sources:
+  details.activity: [2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [2, 3]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [drug-squad, record-seizure]

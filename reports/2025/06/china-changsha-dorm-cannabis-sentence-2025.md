@@ -16,6 +16,18 @@ figures:
   charged: 1
   prison: 10 months
   plants_destroyed: 8
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: seeds}]
+  setting: [prison]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [hunan, changsha, sentence, indoor-grow]

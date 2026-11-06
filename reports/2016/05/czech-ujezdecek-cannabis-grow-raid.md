@@ -16,6 +16,16 @@ figures:
   arrested: 2
   charged: 1
   plants_destroyed: 125
+details:
+  agency_types: [police]
+  case_stage: charged
+  environment: [indoor]
+  products: [{product: flower}, {product: plants, plants: 125}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://teplicky.denik.cz/krimi/pestirna-konopi-v-ujezdecku/

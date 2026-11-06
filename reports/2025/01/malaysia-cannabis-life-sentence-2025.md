@@ -12,6 +12,18 @@ summary: >-
   trafficking charge carried 12 strokes and the cultivation charge six, to run concurrently from
   their arrest in December 2021.
 created_by_model: unknown
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [life]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: malaysia-cannabis-life-sentence-2025
 sources:

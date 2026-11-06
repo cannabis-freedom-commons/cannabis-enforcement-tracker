@@ -12,6 +12,10 @@ summary: >-
   Niger's anti-drug office seized 162 kg of cannabis hidden in a wedding procession in Arlit on 28 September 2024. The 157 bricks had come from a neighbouring country, and local officials praised the officers for helping protect young people from drugs.
 figures:
   kg_seized: 162
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: add65ebfe641838ef9ae5939680c613b

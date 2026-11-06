@@ -22,6 +22,16 @@ figures:
     amount: 3700000
     currency: GBP
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [deportation]
+  setting: [vehicle, home, building]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [2, 1]
+  details.setting: [1, 2]
 status: verified
 tags: [bradford, wyke, vietnam, gardeners]
 open_questions:

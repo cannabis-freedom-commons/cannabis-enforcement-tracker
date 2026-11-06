@@ -19,6 +19,14 @@ figures:
   arrested: 1
   charged: 1
 created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
+details:
+  agency_types: [police]
+  case_stage: charged
+  environment: [indoor]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
 status: verified
 tags: [nsw-police, rural-crime, firearms, hydroponic, weapon-prohibition]
 open_questions:

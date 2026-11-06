@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 40
   kg_seized: 1.1845
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 1.1845}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/america/america-latina/2026/09/27/mas-de-19-kilos-de-droga-y-40-detenidos-la-fuerza-de-tarea-conjunta-de-republica-dominicana-desplego-operativos-en-tres-provincias/

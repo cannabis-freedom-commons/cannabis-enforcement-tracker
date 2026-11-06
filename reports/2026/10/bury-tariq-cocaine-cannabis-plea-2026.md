@@ -12,6 +12,12 @@ summary: >-
   Qasim Tariq, 38, pleaded guilty at Manchester Crown Court to possessing cocaine and cannabis with intent to supply in Bury. He was remanded in custody until November 27, while an alleged £12,500 cash charge and driving allegations remain unresolved.
 figures:
   charged: 1
+details:
+  agency_types: [police, prosecutor]
+  case_stage: charged
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4bfd2075db7ffe68b0ccd5e943984db7

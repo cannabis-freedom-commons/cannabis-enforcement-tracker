@@ -15,6 +15,12 @@ summary: >-
   then the largest seizure in Northern Ireland. Three men appeared in Belfast
   Magistrate's Court the next day; police believed the load was bound for
   loyalist paramilitaries.
+details:
+  agency_types: [police, court]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.setting: [1]
 status: verified
 tags: [psni, paramilitaries, record-seizure]
 open_questions:

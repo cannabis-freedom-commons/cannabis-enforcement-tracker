@@ -16,6 +16,16 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 190
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  setting: [vehicle, home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://malawi24.com/2026/08/12/190kg-cannabis-haul-lands-two-in-police-net/

@@ -13,6 +13,10 @@ summary: >-
   Senegal's national gendarmerie seized 3.2 tonnes of Indian hemp, known locally as yamba, in an operation reported on 30 July 2018. The haul was the result of a four-year investigation by the gendarmerie's research section.
 figures:
   kg_seized: 3200
+details:
+  agency_types: [gendarmerie]
+data_sources:
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://www.senenews.com/actualites/3200-kg-de-yamba-saisis-par-la-gendarmerie-photos_242770.html

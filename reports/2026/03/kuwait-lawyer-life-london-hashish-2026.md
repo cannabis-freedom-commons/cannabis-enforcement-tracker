@@ -12,6 +12,14 @@ summary: >-
   Kuwaiti received seven years each. The case showed that air cargo from Europe, not only Gulf sea
   routes, supplies the market.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  case_stage: sentenced
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: kuwait-lawyer-life-london-hashish-2026
 sources:

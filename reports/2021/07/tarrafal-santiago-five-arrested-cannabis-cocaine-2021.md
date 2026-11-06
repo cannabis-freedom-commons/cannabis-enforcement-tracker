@@ -13,6 +13,14 @@ summary: >-
   Cabo Verde's Judicial Police detained five people, including two Nigerians, in Tarrafal de Santiago on 28 July 2021 on suspicion of drug trafficking. Officers executing eleven searches seized cannabis and cocaine together with cash, scales and other items, and the detainees awaited a first judicial interrogation.
 figures:
   arrested: 5
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2e921a5cb2e0f09e6a1256d13a7f749b

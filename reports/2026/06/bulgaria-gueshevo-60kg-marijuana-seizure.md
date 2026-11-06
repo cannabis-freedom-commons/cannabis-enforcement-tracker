@@ -17,6 +17,18 @@ figures:
   value:
     amount: 498366.42
     currency: EUR
+details:
+  activity: [smuggling]
+  agency_types: [customs, border-guard, police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 60.92}]
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.novinite.com/articles/238918/Nearly+Half+a+Million+Euros+in+Marijuana+Seized+at+Gueshevo+Border+as+Albanian+Driver+Detained

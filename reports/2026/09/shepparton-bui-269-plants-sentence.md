@@ -19,6 +19,20 @@ figures:
   arrested: 1
   plants_destroyed: 269
   kg_seized: 189.38
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: plants, plants: 269}]
+  sentence_types: [deportation]
+  setting: [airport, vehicle, home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [shepparton, victoria, commercial-quantity]

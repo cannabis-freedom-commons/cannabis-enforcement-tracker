@@ -20,6 +20,12 @@ figures:
   value:
     amount: 2800
     currency: KES
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: unknown
 tags: [eldoret, activism, heroin]

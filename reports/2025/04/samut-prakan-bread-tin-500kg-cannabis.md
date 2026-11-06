@@ -22,6 +22,14 @@ figures:
     amount: 5000000
     currency: THB
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police]
+  products: [{product: oil, kg: 500}]
+  setting: [vehicle, home, mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [samut-prakan, bang-phli, packaging, controlled-herb]
 media:

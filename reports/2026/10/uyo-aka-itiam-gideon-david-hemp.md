@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: meta/muse-spark
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 tags: [uyo, akwa-ibom]
 open_questions:

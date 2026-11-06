@@ -20,6 +20,18 @@ figures:
   kg_seized: 105.23
   prison: 21 months
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  case_stage: sentenced
+  products: [{product: flower, kg: 105.23}, {product: plants, plants: 8656}]
+  sentence_types: [prison]
+  setting: [forest, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.sentence_types: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [shasta-trinity, grow-operation]
 media:

@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 20
   charged: 19
+details:
+  case_stage: executed
+  force: shots-fired
+  sentence_types: [prison]
+  setting: [vehicle, home, building]
+data_sources:
+  details.case_stage: [1, 2]
+  details.force: [1]
+  details.sentence_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d3ec94e1ef405e19aaeaf90701c91956

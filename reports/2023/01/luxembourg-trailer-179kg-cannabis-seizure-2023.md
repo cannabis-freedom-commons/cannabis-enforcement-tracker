@@ -12,6 +12,12 @@ summary: >-
   Luxembourg customs found around 179 kilos of cannabis in a lorry trailer travelling to Ghent in Belgium at the end of January 2023 after a sniffer dog alerted officers. Officers confiscated the drugs and opened an investigation.
 figures:
   kg_seized: 179
+details:
+  agency_types: [customs]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 397a4e29727d367ea0126505706b1408

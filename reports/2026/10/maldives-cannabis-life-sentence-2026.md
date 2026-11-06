@@ -12,6 +12,10 @@ summary: >-
   of cannabis and 23.60 g of diamorphine taped to his legs before a domestic flight; the court
   imposed life on each count, calculated at 25 years, and the terms added up to 50 years.
 created_by_model: unknown
+details:
+  agency_types: [court]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: maldives-cannabis-life-sentence-2026
 sources:

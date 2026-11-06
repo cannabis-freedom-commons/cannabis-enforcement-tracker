@@ -15,6 +15,12 @@ figures:
   value:
     amount: 4000000000
     currency: ARS
+details:
+  agency_types: [border-guard, prosecutor]
+  products: [{product: flower, kg: 1500}]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.products: [1, 3, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 4de935d003d22c327f0f379241e5b990

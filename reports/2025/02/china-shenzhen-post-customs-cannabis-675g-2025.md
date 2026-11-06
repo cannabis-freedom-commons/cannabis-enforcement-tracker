@@ -16,6 +16,16 @@ summary: >-
   were positive and the case went to anti-smuggling investigators.
 figures:
   kg_seized: 0.6759
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  products: [{product: hashish, kg: 0.6759}]
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [guangdong, shenzhen, customs, post]

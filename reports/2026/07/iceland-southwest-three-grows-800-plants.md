@@ -16,6 +16,16 @@ summary: >-
   Police said the cannabis was meant for sale. No charges or court outcome were given.
 figures:
   arrested: 8
+details:
+  activity: [sale]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [iceland, indoor, capital-area]

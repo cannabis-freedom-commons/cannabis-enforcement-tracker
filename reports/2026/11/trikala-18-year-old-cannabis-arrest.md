@@ -14,6 +14,10 @@ summary: >-
   Trikala motorcycle police arrested an 18-year-old woman on 1 November 2026 after finding her with a small amount of dried cannabis, which officers seized. A separate forgery case involving a minor reported on the same page involved no cannabis and is not counted here.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 5, 6, 4, 7, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 61e85cbaa265279f9fa1d26a7f8ca053

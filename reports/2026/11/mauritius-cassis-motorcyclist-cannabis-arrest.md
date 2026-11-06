@@ -13,6 +13,10 @@ summary: >-
   Police motorcycle officers intercepted a motorcyclist on Cassis Road on 2 November 2026 after he allegedly failed to stop at Les Salines, seizing suspected cannabis. The rider tested positive for drugs and was handed to Bain-des-Dames police for investigation.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7457ec14522f5df6695b64e3eb665ddc

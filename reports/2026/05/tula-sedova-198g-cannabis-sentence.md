@@ -19,6 +19,18 @@ figures:
   charged: 1
   kg_seized: 0.198
   prison: 3 years 3 months (suspended)
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.198}, {product: plants}]
+  sentence_types: [probation]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [tula, home-cultivation, article-228, russia]

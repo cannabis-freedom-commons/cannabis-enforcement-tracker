@@ -27,10 +27,12 @@ details:
   agency_types: [police, court]
   products:
     - {product: flower}
+  sentence_types: [fine]
   setting: [home]
 data_sources:
   details.agency_types: [1, 4, 2, 3]
   details.products: [1, 4]
+  details.sentence_types: [3, 4, 1]
   details.setting: [4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

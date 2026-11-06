@@ -12,6 +12,14 @@ summary: >-
   said each would be paid KD10,000 for delivering the shipment. The case confirmed that cannabis
   resin trafficking can still end in a death sentence.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [coast-guard]
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: kuwait-cannabis-death-sentences-upheld-2026
 sources:

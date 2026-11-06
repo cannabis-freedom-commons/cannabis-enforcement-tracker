@@ -18,6 +18,14 @@ figures:
   arrested: 2
   kg_seized: 199
   value: { amount: 360000000, currency: IDR }
+details:
+  agency_types: [customs, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 199}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 tags: [military]
 open_questions:

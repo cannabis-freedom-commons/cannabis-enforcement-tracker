@@ -11,6 +11,12 @@ summary: >-
   locations in Mbarande, North East Guadalcanal. No one was arrested at the time, and police asked
   village chiefs, church leaders and youth leaders to help identify the growers.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 cfi_id: solomon-islands-mbarande-raid-2019
 sources:

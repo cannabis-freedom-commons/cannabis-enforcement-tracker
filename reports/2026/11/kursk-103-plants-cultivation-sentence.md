@@ -15,6 +15,18 @@ figures:
   charged: 1
   plants_destroyed: 103
   prison: 3 months restriction of freedom
+details:
+  activity: [cultivation]
+  agency_types: [prosecutor, court]
+  case_stage: convicted
+  products: [{product: seeds}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fc178b97d6fe7e55989236ba0e65432b

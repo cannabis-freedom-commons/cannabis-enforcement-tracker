@@ -13,6 +13,12 @@ summary: >-
   Azerbaijan's Interior Ministry said police destroyed 41,622 wild-growing cannabis plants weighing 12.1 tonnes on 26 June 2026, without naming any district. The same day's operations seized about 34.2 kg of narcotic substances; the ministry gave no breakdown by substance, so no cannabis weight is recorded from that haul.
 figures:
   plants_destroyed: 41622
+details:
+  agency_types: [police]
+  environment: [wild]
+data_sources:
+  details.agency_types: [1, 2]
+  details.environment: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a15342044bf546b491dbbacd04e42be2

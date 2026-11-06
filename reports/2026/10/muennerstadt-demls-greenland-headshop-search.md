@@ -11,6 +11,10 @@ also: [seizure]
 title: Police search Münnerstadt CBD headshop and the operators' flat
 summary: >-
   Police searched the Demls Greenland headshop in Münnerstadt and the flat of the couple who run it, and seized goods from both. The article's subtitle asks whether the search was disproportionate, but the finding and its grounds remain behind a paywall.
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e8973c49a45ea2ba78940fd876ff60c6

@@ -19,6 +19,18 @@ figures:
   plants_destroyed: 1308
   charged: 250
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  environment: [indoor]
+  products: [{product: oil}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 5, 2, 4]
+  details.agency_types: [1, 5]
+  details.environment: [3, 4, 1]
+  details.products: [3, 4, 1]
+  details.setting: [5, 2, 3]
 status: verified
 tags: [operation-lime, grow-shops, hydroponic, organised-crime]
 open_questions:

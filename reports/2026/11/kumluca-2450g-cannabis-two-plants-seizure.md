@@ -15,6 +15,12 @@ figures:
   arrested: 1
   plants_destroyed: 2
   kg_seized: 2.45
+details:
+  agency_types: [gendarmerie, prosecutor]
+  products: [{product: plants, plants: 2}]
+data_sources:
+  details.agency_types: [1, 3, 4, 6, 7, 5]
+  details.products: [1, 3, 4, 6, 7, 5]
 media:
   - kind: photo
     url: https://www.gunhaber.com.tr/haber/kumluca-da-2-kilo-450-gram-esrar-ele-gecirildi/577583/

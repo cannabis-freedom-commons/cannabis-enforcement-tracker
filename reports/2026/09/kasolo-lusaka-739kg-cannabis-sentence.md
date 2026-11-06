@@ -19,6 +19,18 @@ figures:
   kg_seized: 73.9
   prison: 7 years on each of three counts, concurrent from 26 June 2025
 created_by_model: alibaba-token-plan/qwen3.8-flash
+details:
+  activity: [trafficking]
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [airport, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [dec, appeal-window, thai-nationals, bribery]
 open_questions:

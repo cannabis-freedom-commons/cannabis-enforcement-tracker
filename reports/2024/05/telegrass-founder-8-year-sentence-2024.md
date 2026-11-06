@@ -17,11 +17,13 @@ details:
   activity: [trafficking]
   case_stage: sentenced
   products: [{product: flower}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

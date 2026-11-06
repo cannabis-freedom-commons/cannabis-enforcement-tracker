@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 200
+details:
+  agency_types: [gendarmerie, prosecutor]
+  setting: [border, vehicle, mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.camer.be/actualites/societe/cameroun-200-kg-de-cannabis-saisis-cameroon.html

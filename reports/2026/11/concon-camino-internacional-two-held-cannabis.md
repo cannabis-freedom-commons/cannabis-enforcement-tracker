@@ -13,6 +13,14 @@ summary: >-
   Carabineros detained two foreign men during a vehicle check on Camino Internacional in Concón after finding them smoking handmade marijuana cigarettes. A search found more cigarettes, three card payment machines, a knife and cash, and the men were placed at the tribunal's disposition.
 figures:
   arrested: 2
+details:
+  agency_types: [police, court]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6039ed5d09a011b730e402ca99008bef

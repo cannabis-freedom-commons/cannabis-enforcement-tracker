@@ -12,6 +12,12 @@ summary: >-
   It was reported as the country's largest single cannabis seizure. The case was an enforcement
   event, not a change in the law.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  setting: [airport]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: sri-lanka-record-kush-seizure-2026
 tags:

@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.096
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.096}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.rcn67.com.br/tres-lagoas/jpnews/jovem-de-21-anos-e-preso-com-tablete-de-maconha-durante-abordagem-em-tres-lagoas/

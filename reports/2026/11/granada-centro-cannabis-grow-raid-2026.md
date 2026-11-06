@@ -13,6 +13,12 @@ summary: >-
   National Police arrested two people during a raid on an indoor cannabis grow on Calle Doctor Buenaventura Carreras in Granada on 5 November 2026. The outlets gave different estimates for the seized plants and cuttings, so no plant total is recorded.
 figures:
   arrested: 2
+details:
+  agency_types: [police]
+  products: [{product: plants}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.ideal.es/granada/dos-detenidos-tras-desmantelarles-plantacion-marihuana-pleno-20261105161738-nt.html

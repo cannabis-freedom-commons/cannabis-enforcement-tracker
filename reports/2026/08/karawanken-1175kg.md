@@ -20,6 +20,16 @@ figures:
   value:
     amount: 120000
     currency: EUR
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 11.75}]
+  setting: [vehicle, mail, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [karawanken, carinthia, villach]

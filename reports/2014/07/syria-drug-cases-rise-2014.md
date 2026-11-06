@@ -12,6 +12,12 @@ summary: >-
   that trafficking carries ten years to death under the 1993 law, that whoever plants cannabis is
   treated as a trader, and that the law regards addicts as the victims of dealers.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [court]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: syria-drug-cases-rise-2014
 sources:

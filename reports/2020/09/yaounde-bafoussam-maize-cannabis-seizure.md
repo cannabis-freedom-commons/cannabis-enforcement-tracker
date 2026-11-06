@@ -11,6 +11,14 @@ also: [arrest]
 title: Maize-hidden cannabis seized on Yaoundé-Bafoussam road, network held
 summary: >-
   Gendarmes intercepted cannabis hidden in maize in a bus on the Yaoundé-Bafoussam axis and detained members of the Bamenda-to-Yaoundé supply network. The load from Bamenda was bound for Yaoundé and other towns, with follow-up searches recovering stock already dispersed in the capital.
+details:
+  activity: [trafficking, sale]
+  agency_types: [gendarmerie]
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a7cf04541dcd6b7b4ce26232b9a4db3d

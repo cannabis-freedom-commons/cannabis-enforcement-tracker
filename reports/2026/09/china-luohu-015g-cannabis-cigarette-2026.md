@@ -15,6 +15,12 @@ summary: >-
   customs anti-smuggling officers.
 figures:
   kg_seized: 0.00015
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://finance.sina.com.cn/roll/2026-09-06/doc-iniqvzve6946393.shtml

@@ -21,12 +21,14 @@ details:
   activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  environment: [indoor]
   products: [{product: flower}, {product: plants, plants: 4578}]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [2, 1]
 status: verified

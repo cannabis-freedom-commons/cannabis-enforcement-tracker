@@ -12,6 +12,12 @@ summary: >-
   his Thetsane residence in 2024. Police had still not returned the plants by October 2026, and the
   Ministry of Health was withholding a licence renewal.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: lesotho-srugo-case-2026
 sources:

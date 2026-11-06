@@ -17,6 +17,14 @@ summary: >-
 figures:
   arrested: 28
 created_by_model: openai/gpt-6-luna#max
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
 status: verified
 tags: [iganga, busoga, drug-dens]
 open_questions:

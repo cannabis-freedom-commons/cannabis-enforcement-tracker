@@ -14,6 +14,18 @@ summary: >-
 figures:
   charged: 2
   kg_seized: 0.1413
+details:
+  activity: [possession]
+  agency_types: [police, prosecutor]
+  case_stage: executed
+  sentence_types: [fine]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1db5e2520ed87fb21ab867b79110b79e

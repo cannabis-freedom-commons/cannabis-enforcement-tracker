@@ -14,6 +14,12 @@ summary: >-
 figures:
   charged: 1
   plants_destroyed: 400
+details:
+  agency_types: [police, prosecutor, court]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 media:
   - kind: photo
     url: https://www.xm-inside.com/news/%D0%BD%D0%B0-%D1%88%D0%B5%D0%BF%D0%B5%D1%82%D1%96%D0%B2%D1%89%D0%B8%D0%BD%D1%96-%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D0%BA-%D0%B2%D0%B8%D1%80%D0%BE%D1%81%D1%82%D0%B8%D0%B2-%D0%BD%D0%B0-%D0%B3%D0%BE/

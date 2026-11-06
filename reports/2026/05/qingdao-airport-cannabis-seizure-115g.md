@@ -15,6 +15,14 @@ summary: >-
   was transferred to customs anti-smuggling investigators.
 figures:
   kg_seized: 0.11507
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  setting: [airport]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.dailyqd.com/guanhai/452110_1.html

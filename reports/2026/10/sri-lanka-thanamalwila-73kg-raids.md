@@ -19,6 +19,10 @@ figures:
   arrested: 2
   kg_seized: 73.07
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 tags: [stf]
 sources:

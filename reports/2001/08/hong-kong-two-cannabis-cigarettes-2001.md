@@ -12,6 +12,20 @@ summary: >-
   and the commercial sale in a discotheque important despite the small amount, while recognising the
   then-lower sentencing benchmark for herbal cannabis than resin.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [suspended, community-service]
+  setting: [prison]
+data_sources:
+  details.activity: [3, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1]
+  details.products: [1, 2, 3, 4]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: hong-kong-two-cannabis-cigarettes-2001
 tags:

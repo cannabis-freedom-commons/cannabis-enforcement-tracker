@@ -32,12 +32,14 @@ details:
   case_stage: sentenced
   products:
     - {product: flower}
+  sentence_types: [fine]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 3, 4, 5, 6]
   details.agency_types: [1, 3, 4, 5, 2, 6]
   details.case_stage: [1, 3, 4, 5, 6]
   details.products: [1, 3, 4, 5, 6]
+  details.sentence_types: [1, 3, 4, 5, 6, 2]
   details.setting: [1, 3, 6, 4, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

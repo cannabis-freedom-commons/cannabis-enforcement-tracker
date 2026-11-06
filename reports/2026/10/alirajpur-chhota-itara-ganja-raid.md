@@ -20,6 +20,12 @@ figures:
   arrested: 2
   value: { amount: 10000000, currency: INR }
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 2079}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [alirajpur]
 sources:

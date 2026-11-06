@@ -16,6 +16,14 @@ figures:
   arrested: 564
   deaths: 2
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  force: lethal
+  products: [{product: plants, plants: 108000}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.force: [1, 2]
+  details.products: [1]
 status: verified
 tags: [national-cannabis-crime-operation, gibbston-valley]
 open_questions:

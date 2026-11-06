@@ -19,6 +19,12 @@ summary: >-
 figures:
   arrested: 3
 created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [st-andrew, half-way-tree, extortion, drugs-for-guns]
 open_questions:

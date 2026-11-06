@@ -17,6 +17,16 @@ figures:
   charged: 1
   plants_destroyed: 34
   kg_seized: 0.54
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 media:
   - kind: photo
     url: https://kalisz.naszemiasto.pl/35-latek-uprawial-konopie-i-handlowal-narkotykami/ar/c1p2-29492801

@@ -17,6 +17,14 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 2.399
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: reported
 created_by_model: meta/muse-spark-1.3#xhigh
 tags: [crabwood-creek, corentyne, patrol]

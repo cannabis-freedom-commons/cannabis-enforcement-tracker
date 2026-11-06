@@ -12,6 +12,18 @@ summary: >-
   40 of the 1993 narcotics law, which carries life imprisonment for trafficking and can reach death
   with aggravating facts.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [death, life]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: syria-raqqa-life-sentence-2026
 sources:

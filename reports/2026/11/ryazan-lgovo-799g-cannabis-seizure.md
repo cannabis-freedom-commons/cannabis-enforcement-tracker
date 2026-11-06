@@ -14,6 +14,14 @@ summary: >-
   Police in Ryazan District seized 799 grams of cannabis from a 41-year-old Lgovo man who said he had grown several plants for personal use. An investigator opened a large-scale possession case under Criminal Code Article 228(2), which remains under investigation.
 figures:
   kg_seized: 0.799
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [2, 3, 4, 5, 1]
+  details.agency_types: [2, 3, 4, 5, 1]
+  details.setting: [2, 3, 4, 5, 1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 05eaa736dd821824840da54282ecd9c9

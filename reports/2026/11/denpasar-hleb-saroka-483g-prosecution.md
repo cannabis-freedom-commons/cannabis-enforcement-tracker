@@ -16,6 +16,14 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.4835
+details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.agency_types: [2, 3, 4, 5, 6, 1]
+  details.case_stage: [1, 3, 4, 5, 6, 2]
+  details.setting: [1, 3, 4, 5, 6, 2]
 media:
   - kind: photo
     url: https://radarbadung.jawapos.com/hukum-kriminal/2611030006/bawa-483-gram-ganja-dan-33-gram-kokain-wna-belarus-dituntut-9-tahun-penjara

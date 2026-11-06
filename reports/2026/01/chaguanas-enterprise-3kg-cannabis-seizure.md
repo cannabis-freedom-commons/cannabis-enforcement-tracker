@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 3
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7c1de2a5084b2f6430275349aecff3dd

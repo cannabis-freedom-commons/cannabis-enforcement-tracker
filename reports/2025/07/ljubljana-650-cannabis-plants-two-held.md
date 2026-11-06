@@ -18,6 +18,14 @@ figures:
   arrested: 2
   plants_destroyed: 650
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ljubljana, indoor-grow]
 open_questions:

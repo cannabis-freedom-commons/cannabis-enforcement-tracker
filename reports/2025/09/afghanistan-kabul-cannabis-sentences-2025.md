@@ -12,6 +12,14 @@ summary: >-
   alcohol and cannabis. The Supreme Court approved the sentences, which were carried out on 23
   September 2025.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  sentence_types: [corporal]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: afghanistan-kabul-cannabis-sentences-2025
 sources:

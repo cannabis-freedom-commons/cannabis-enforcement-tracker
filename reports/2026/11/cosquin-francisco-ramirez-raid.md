@@ -13,6 +13,16 @@ summary: >-
   FPA officers raided a house on Francisco Ramírez 1300 in Cosquín, dismantling an alleged drug-selling point after detaining a man in a street check the previous weekend. They seized several cocaine doses and marijuana plants plus scales and packaging for cutting drugs, with all evidence sent to the Cosquín anti-drug prosecutor.
 figures:
   arrested: 1
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.eldiariodecarlospaz.com.ar/sucesos/2026/11/4/golpe-al-narcomenudeo-en-cosquin-allanaron-una-casa-y-encontraron-cocaina-y-marihuana-263598.html

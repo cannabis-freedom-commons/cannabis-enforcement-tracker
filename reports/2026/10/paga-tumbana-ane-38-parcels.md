@@ -18,6 +18,12 @@ summary: >-
   operations at an illegal mining site at Wuru, Kayoro.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  setting: [home, mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [paga, upper-east, trafficking]

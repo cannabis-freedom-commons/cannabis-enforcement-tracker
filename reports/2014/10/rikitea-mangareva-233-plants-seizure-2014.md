@@ -13,6 +13,18 @@ summary: >-
   Rikitea gendarmes uprooted and seized 233 cannabis plants from a cultivated plot in Rikitea district on Mangareva island. The identified plot owner was summoned to the brigade and was to answer possession, use and resale charges before the next tribunal forain.
 figures:
   plants_destroyed: 233
+details:
+  activity: [cultivation]
+  agency_types: [gendarmerie, police]
+  case_stage: charged
+  products: [{product: plants, plants: 233}]
+  setting: [port, field, mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 867a59648e0e8c942e03ca37df8e7a84

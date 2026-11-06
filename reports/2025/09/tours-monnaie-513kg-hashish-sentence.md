@@ -20,6 +20,14 @@ figures:
   prison: 1 year
   fine: { amount: 80000, currency: EUR }
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [customs]
+  products: [{product: hashish, kg: 513}]
+  setting: [vehicle, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [customs, a10, tours]
 open_questions:

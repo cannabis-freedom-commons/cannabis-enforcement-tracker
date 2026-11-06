@@ -11,6 +11,10 @@ summary: >-
   a bush at Bepoase after a public tip-off; no one was arrested, and the
   command denied media claims of a gun confrontation between officers at the scene.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 tags: [fanteakwa, indian-hemp]
 open_questions:

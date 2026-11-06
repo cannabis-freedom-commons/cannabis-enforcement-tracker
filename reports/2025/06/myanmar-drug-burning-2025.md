@@ -12,6 +12,10 @@ summary: >-
   over 1,334 kg of opium, over 8,573 kg of ketamine and 281 million methamphetamine tablets. The
   drugs had been seized between 1 June 2024 and 31 May 2025.
 created_by_model: unknown
+details:
+  products: [{product: flower}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: myanmar-drug-burning-2025
 sources:

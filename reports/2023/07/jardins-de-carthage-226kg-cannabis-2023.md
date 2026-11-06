@@ -17,6 +17,16 @@ figures:
   value:
     amount: 6000000
     currency: TND
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://kapitalis.com/tunisie/2023/07/31/jardins-de-carthage-saisie-de-226-kg-de-cannabis-dune-valeur-de-6-md/

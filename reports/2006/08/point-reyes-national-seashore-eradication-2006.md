@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 20000
   value: { amount: 50000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [coast-guard, police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [2, 3, 1]
+  details.products: [1, 2]
 status: verified
 tags: [national-park, public-lands, environmental-damage]
 open_questions:

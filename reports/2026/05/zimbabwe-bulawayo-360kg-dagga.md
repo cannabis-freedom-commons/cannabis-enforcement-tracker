@@ -19,6 +19,16 @@ figures:
   kg_seized: 360
   value: { amount: 10800000, currency: ZWG }
 created_by_model: openai/gpt-6-luna#max
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 360}]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 3, 1]
+  details.products: [1, 2, 3]
 status: verified
 tags: [zrp, bulawayo, cross-border, smuggling]
 open_questions:

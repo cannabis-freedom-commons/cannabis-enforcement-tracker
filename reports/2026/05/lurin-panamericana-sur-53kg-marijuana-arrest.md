@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 53
+details:
+  activity: [trafficking]
+  agency_types: [military, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 53}]
+  setting: [building]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://larepublica.pe/sociedad/2026/05/01/suboficial-y-exintegrante-de-la-fuerza-aerea-del-peru-fueron-detenidos-transportando-mas-de-50-kilos-de-marihuana-93893

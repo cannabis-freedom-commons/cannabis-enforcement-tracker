@@ -61,12 +61,14 @@ details:
   case_stage: sentenced
   products:
     - {product: hashish}
+  sentence_types: [prison]
   setting: [home, mail, prison]
 data_sources:
   details.activity: [1, 3, 4, 5, 6, 8]
   details.agency_types: [2, 7, 17, 3, 13, 16]
   details.case_stage: [1, 3, 7, 9, 12, 13]
   details.products: [2, 3, 4, 5, 6, 7, 8, 9, 12]
+  details.sentence_types: [1, 3, 7, 9, 12, 13]
   details.setting: [2, 6, 10, 12, 13, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

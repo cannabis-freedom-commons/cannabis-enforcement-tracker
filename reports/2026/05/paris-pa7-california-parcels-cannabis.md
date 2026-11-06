@@ -15,6 +15,14 @@ figures:
   arrested: 6
   charged: 5
   kg_seized: 430
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police, prosecutor]
+  setting: [mail]
+data_sources:
+  details.activity: [1, 4]
+  details.agency_types: [2, 4, 1, 3]
+  details.setting: [1, 4, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: da5b0ecfb02ce27ab7a7a39dc8ddcd22

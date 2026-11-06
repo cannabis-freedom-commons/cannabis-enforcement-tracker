@@ -17,6 +17,16 @@ summary: >-
 figures:
   arrested: 4
   plants_destroyed: 354
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 354}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://nu.cw/2026/04/14/grote-drugsactie-op-aruba-vier-arrestaties-en-plantages-opgerold/

@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 60
+details:
+  activity: [smuggling]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 255c0ab6e1f92fd09e4135ee5c2fe2bd

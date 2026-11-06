@@ -16,6 +16,18 @@ figures:
   arrested: 3
   charged: 3
   kg_seized: 80
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 80}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://kesedice.com/judicial/con-80-kilos-de-marihuana-tipo-creepy-en-un-chevrolet-asi-cayeron-tres-personas-en-puerto-boyaca-HDJRSSVZ

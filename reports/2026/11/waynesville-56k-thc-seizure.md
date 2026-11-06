@@ -17,6 +17,12 @@ figures:
   value:
     amount: 56000
     currency: USD
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.wspa.com/news/crime/waynesville-police-seize-thc-products/

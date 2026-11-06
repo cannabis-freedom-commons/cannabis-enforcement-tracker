@@ -13,6 +13,14 @@ summary: >-
   Three Dominicans were detained off Baní after a 15-hour air-sea-land pursuit intercepted a 32-foot boat carrying 1,360 suspected cocaine packages and 30 blocks of apparent marijuana. The DNCD-led operation with US and Colombian support sent the 1,390 packages for forensic analysis, with the network investigation still open.
 figures:
   arrested: 3
+details:
+  agency_types: [military]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 189b5d53fc6437d0c12b0f004e2601c4

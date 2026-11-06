@@ -13,6 +13,14 @@ summary: >-
   prison and social reintegration service and the state leaders’ protection unit alongside the
   judicial…
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [field, prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 cfi_id: sao-tome-cannabis-crop-raids-2024
 tags:

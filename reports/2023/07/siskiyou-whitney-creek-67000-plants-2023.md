@@ -18,6 +18,12 @@ figures:
   plants_destroyed: 67045
   kg_seized: 3637.7
   value: { amount: 68500000, currency: USD }
+details:
+  activity: [cultivation]
+  products: [{product: plants, plants: 67045}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ucetf, environment, firearms]

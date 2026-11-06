@@ -13,6 +13,14 @@ summary: >-
   Police took two people, including an adolescent, to the 134th Police Station in Campos after seizing eight cannabis wraps alongside cocaine, cash and a phone. Both admitted ownership of the drugs, and the adolescent's guardian was called to accompany him.
 figures:
   arrested: 2
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 47c9fa92cbbdd887bea484e4fa61c483

@@ -13,6 +13,16 @@ summary: >-
   Bouaké anti-drug police seized nine blocks of cannabis in the Zone quarter on 24 April 2022. Officers arrested two dealers holding packaged cannabis and then their supplier at his home; all three were to face a judge.
 figures:
   arrested: 3
+details:
+  activity: [trafficking, sale]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [airport]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 754c978ef3aa7d04998e0013fc621ef4

@@ -18,10 +18,12 @@ figures:
 details:
   agency_types: [court]
   case_stage: sentenced
+  sentence_types: [suspended, community-service]
   setting: [prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.65
+details:
+  agency_types: [police, prosecutor]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://en.vijesti.me/news-b/black-chronicle/834517/Budva--Beranac-arrested--apartment-searched--marijuana--cocaine--phones--sim-cards--money-found

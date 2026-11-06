@@ -14,7 +14,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.05
+details:
+  agency_types: [customs, border-guard, police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.05}]
+  setting: [home]
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1]
   figures.kg_seized: [1]
 media:

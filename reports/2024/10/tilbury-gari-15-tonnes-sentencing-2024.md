@@ -29,6 +29,7 @@ details:
   case_stage: sentenced
   products: [{product: flower, kg: 1500}]
   route: {from: [gh], to: [gb]}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2]
@@ -37,6 +38,7 @@ data_sources:
   details.case_stage: [2]
   details.products: [1, 2]
   details.route: [1, 2]
+  details.sentence_types: [2]
   details.setting: [2]
 status: verified
 tags: [nca, organised-crime, smuggling]

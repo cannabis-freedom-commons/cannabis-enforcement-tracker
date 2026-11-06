@@ -15,6 +15,16 @@ figures:
   arrested: 2
   plants_destroyed: 152
   kg_seized: 10.5
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 10.5}, {product: plants, plants: 152}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/u-dvukh-narkoagronomov-iz-krasnoyarska-politseyskie-izyali-152-kusta-konopli-i-bolee-10-kg-chastey-k/

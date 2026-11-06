@@ -18,6 +18,18 @@ figures:
   fine:
     amount: 10000
     currency: XCD
+details:
+  activity: [possession]
+  agency_types: [customs, anti-narcotics, police]
+  case_stage: sentenced
+  sentence_types: [fine]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 82f05a9b351a5a075f9c23dfba083e1d

@@ -19,6 +19,14 @@ figures:
   charged: 31
   plants_destroyed: 3288
   value: { amount: 12500000, currency: CAD }
+details:
+  agency_types: [police]
+  environment: [indoor]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.environment: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [project-tropical-storm, grow-ops, york-police, hydroponics]

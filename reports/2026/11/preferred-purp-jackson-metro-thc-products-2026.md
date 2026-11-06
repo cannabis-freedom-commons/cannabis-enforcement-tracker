@@ -13,7 +13,10 @@ summary: >-
   Mississippi Department of Public Safety agents served 14 search warrants at stores across Madison, Rankin and Hinds counties in Operation Preferred Purp and seized more than 800 pounds of THC products, with arrests made but not counted. The more than 200 pounds of products labeled as kratom, suspected of containing federally banned substances, are excluded from the cannabis weight.
 figures:
   kg_seized: 362.874
+details:
+  agency_types: [police]
 data_sources:
+  details.agency_types: [1]
   figures.kg_seized: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

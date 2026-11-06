@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 180
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 180}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.doncasterfreepress.co.uk/news/man-arrested-as-police-raid-doncaster-cannabis-factory-9328372

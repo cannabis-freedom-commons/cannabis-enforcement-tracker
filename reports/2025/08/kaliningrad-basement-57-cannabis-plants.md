@@ -19,6 +19,18 @@ figures:
   arrested: 1
   plants_destroyed: 57
   kg_seized: 0.3195
+details:
+  activity: [cultivation, possession]
+  agency_types: [customs, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.3195}, {product: plants, plants: 57}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/politsiya-ulichila-ottsa-mladentsev-bliznetsov-iz-kaliningrada-v-kultivirovanii-i-khranenii-kannabis/

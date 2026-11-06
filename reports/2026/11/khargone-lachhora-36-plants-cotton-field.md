@@ -17,6 +17,16 @@ figures:
   value:
     amount: 320000
     currency: INR
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics, police]
+  products: [{product: plants, plants: 36}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://english.dainikjagranmpcg.com/states/madhya-pradesh/khargone-36-cannabis-plants-seized-from-cotton-field/article-42863

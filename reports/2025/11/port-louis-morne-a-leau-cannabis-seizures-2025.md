@@ -11,6 +11,14 @@ also: [arrest]
 title: Cannabis and cocaine packets seized in northern Grande-Terre gendarmerie controls
 summary: >-
   Gendarmes of the Le Moule company carried out a week of targeted anti-crime operations in Port-Louis and Morne-à-l'Eau, in northern Grande-Terre, Guadeloupe, at the prosecutor's request. Officers found several packets of cannabis and cocaine and a replica Glock pistol; the accounts report no drug weights and no suspects arrested.
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor]
+  setting: [port]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://rci.fm/guadeloupe/infos/Faits-divers/Cannabis-et-cocaine-saisis-au-cours-dune-serie-de-controles-dans-le-nord-Grande

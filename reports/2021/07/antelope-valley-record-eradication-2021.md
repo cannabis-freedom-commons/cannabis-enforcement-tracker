@@ -18,6 +18,12 @@ figures:
   kg_seized: 15186
   plants_destroyed: 372918
   value: { amount: 1000000000, currency: USD }
+details:
+  activity: [cultivation]
+  products: [{product: flower, kg: 15186}, {product: plants, plants: 372918}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.police1.com/drug-interdiction-narcotics/articles/1b-in-illegal-pot-seized-in-largest-los-angeles-county-bust-kduJCyY7SKfEBWJG/

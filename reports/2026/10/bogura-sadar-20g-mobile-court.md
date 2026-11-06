@@ -26,11 +26,13 @@ details:
   agencies: [bd-dnc]
   agency_types: [anti-narcotics]
   case_stage: sentenced
+  sentence_types: [fine]
   setting: [prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

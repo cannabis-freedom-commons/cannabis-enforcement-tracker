@@ -13,6 +13,16 @@ summary: >-
   Puebla police with the Navy and state prosecutors detained three alleged CJNG operatives in Unidad Antorchista, seizing more than 280 drug packets including marijuana plus a gun and a vehicle. The three were placed at the authorities' disposal while investigations continue.
 figures:
   arrested: 3
+details:
+  agency_types: [military, prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.eluniversalpuebla.com.mx/estado/detienen-a-tres-presuntos-integrantes-del-cjng-en-puebla-les-aseguran-mas-de-280-dosis-de-droga/

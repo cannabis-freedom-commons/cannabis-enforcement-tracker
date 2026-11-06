@@ -16,6 +16,16 @@ figures:
   value:
     amount: 34000
     currency: USD
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.eluniverso.com/noticias/seguridad/marihuana-saborizada-una-nueva-modalidad-de-trafico-de-sustancias-que-la-jefatura-antidrogas-busca-contener-en-ecuador-nota/

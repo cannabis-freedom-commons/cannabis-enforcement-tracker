@@ -12,6 +12,14 @@ summary: >-
   Police in Gaoua, southwestern Burkina Faso, seized 90 kg of cannabis together with more than 5,000 litres of contraband alcohol in an operation backed by the GCRS. Authorities valued the combined haul at 25 million CFA francs and said a network based in Malba was supplying artisanal gold-mining sites around Gaoua, Kampti and Galgouli.
 figures:
   kg_seized: 90
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [port]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6eafe3c5d0da4cfdb0534c53d4812593

@@ -20,6 +20,16 @@ figures:
   kg_seized: 1079.55
   value: { amount: 5900000, currency: USD }
 created_by_model: openai/gpt-6-luna#max
+details:
+  activity: [smuggling]
+  agency_types: [coast-guard, prosecutor]
+  case_stage: charged
+  products: [{product: flower, kg: 1079.55}]
+data_sources:
+  details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 4, 3, 5]
+  details.case_stage: [1, 2, 4, 3, 5]
+  details.products: [1, 2, 3, 4]
 status: verified
 tags: [rbdf, uscg, great-inagua]
 open_questions:

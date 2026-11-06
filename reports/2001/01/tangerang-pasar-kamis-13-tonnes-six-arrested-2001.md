@@ -19,6 +19,14 @@ figures:
   kg_seized: 1300
   value: { amount: 1300000000, currency: IDR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower, kg: 1300}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [tangerang, aceh, police-involvement]
 sources:

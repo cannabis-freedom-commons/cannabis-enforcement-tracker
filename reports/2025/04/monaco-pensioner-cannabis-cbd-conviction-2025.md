@@ -12,6 +12,12 @@ summary: >-
   prosecutor cited a ministerial order banning cannabis and its derivatives, including CBD, even at
   low THC levels, and asked for three months suspended.
 created_by_model: unknown
+details:
+  agency_types: [court]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: monaco-pensioner-cannabis-cbd-conviction-2025
 tags:

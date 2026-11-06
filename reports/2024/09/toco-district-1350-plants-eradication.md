@@ -19,6 +19,10 @@ figures:
   hectares: 0.051
   value: { amount: 1577000, currency: TTD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 tags: [ttps, siu, toco]
 open_questions:

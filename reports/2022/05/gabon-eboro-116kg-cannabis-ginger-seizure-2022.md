@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 116.6
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.gabonreview.com/gabon-pres-de-120-kilos-de-chanvre-saisis-a-eboro-bitam/

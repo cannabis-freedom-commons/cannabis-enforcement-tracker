@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: spacexai/grok-4.7
+details:
+  agency_types: [police]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [kamonyi, runda]
 open_questions:

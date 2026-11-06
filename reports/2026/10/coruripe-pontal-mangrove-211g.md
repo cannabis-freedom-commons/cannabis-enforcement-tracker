@@ -15,6 +15,14 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.211
+details:
+  activity: [trafficking]
+  agency_types: [military, police]
+  case_stage: investigation
+data_sources:
+  details.activity: [2, 4, 1]
+  details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [2, 4, 1]
 media:
   - kind: photo
     url: https://www.tnh1.com.br/noticia/nid/dois-suspeitos-de-trafico-de-drogas-sao-presos-durante-operacao-em-coruripe/

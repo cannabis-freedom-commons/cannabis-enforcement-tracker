@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 5.5
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://news.abidjan.net/articles/748596/cote-divoire-un-individu-interpelle-avec-55-kg-de-cannabis-lors-dune-operation-de-securisation-a-abobo

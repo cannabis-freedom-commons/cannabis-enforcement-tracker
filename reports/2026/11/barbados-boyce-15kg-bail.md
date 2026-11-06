@@ -19,6 +19,12 @@ figures:
   value:
     amount: 121600
     currency: BBD
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://barbadostoday.bb/2026/11/02/woman-on-45-000-bail-in-121-600-cannabis-case/

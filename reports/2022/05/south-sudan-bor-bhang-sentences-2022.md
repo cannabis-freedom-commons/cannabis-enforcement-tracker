@@ -12,6 +12,16 @@ summary: >-
   four received six months, and five were fined 50,000 South Sudanese pounds each. Police also
   arrested a supplier; the report did not state how much cannabis each young man held.
 created_by_model: unknown
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison, fine]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: south-sudan-bor-bhang-sentences-2022
 tags:

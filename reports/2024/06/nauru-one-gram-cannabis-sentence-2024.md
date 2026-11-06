@@ -13,6 +13,18 @@ summary: >-
   disproportionate for the adults, months before parliament introduced mandatory custody for
   possession.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison, probation, community-service]
+  setting: [prison]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [1, 3, 4]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: nauru-one-gram-cannabis-sentence-2024
 tags:

@@ -13,6 +13,16 @@ summary: >-
   Tadas Bijanskas, 34, of Navan Court, Armagh, appeared before Armagh Magistrates' Court charged with cannabis possession, conspiracy and supply alongside firearm, incapacitant-spray and criminal-property allegations. He was remanded on continuing bail with the case adjourned to 1 December, and the charges remain untested allegations.
 figures:
   charged: 1
+details:
+  activity: [possession]
+  agency_types: [court]
+  case_stage: charged
+  setting: [vehicle]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e0d4f8bb0b2e2daf452d0a3e4d7df1d2

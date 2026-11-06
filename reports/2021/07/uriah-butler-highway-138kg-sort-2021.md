@@ -15,6 +15,16 @@ figures:
   arrested: 4
   charged: 1
   kg_seized: 137.9
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 137.9}]
+data_sources:
+  details.activity: [1, 2, 4]
+  details.agency_types: [3, 1, 2]
+  details.case_stage: [1, 2, 4]
+  details.products: [3, 1, 2, 4]
 media:
   - kind: photo
     url: https://newsday.co.tt/2021/07/19/sort-in-major-ganja-bust-on-uriah-butler-highway/

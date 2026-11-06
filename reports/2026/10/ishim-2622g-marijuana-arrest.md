@@ -17,6 +17,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2.622
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 2.622}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1]
+  details.products: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [ishim, tyumen-oblast, article-228, russia]

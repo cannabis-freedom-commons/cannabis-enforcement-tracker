@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.01
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.01}]
+  setting: [port]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://sampi.net.br/ovale/noticias/3015874/vale-do-paraiba/2026/11/homem-e-preso-fumando-maconha-na-balsa-de-ilhabela-sao-sebastiao

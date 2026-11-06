@@ -12,6 +12,10 @@ summary: >-
   start date was given. The device would sit alongside alcohol tests; no THC threshold or separate
   penalty for cannabis was published.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: tunisia-saliva-drug-test-2025
 sources:

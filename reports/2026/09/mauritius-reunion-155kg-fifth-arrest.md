@@ -16,6 +16,18 @@ figures:
     amount: 234000000
     currency: MUR
 created_by_model: deepseek/deepseek-v4-flash-vision-exp
+details:
+  activity: [smuggling, trafficking, cultivation]
+  agency_types: [gendarmerie, police]
+  case_stage: investigation
+  products: [{product: plants}]
+  setting: [port, vehicle]
+data_sources:
+  details.activity: [1, 4, 5, 6]
+  details.agency_types: [1, 2, 7, 8, 3, 4]
+  details.case_stage: [4, 6, 7, 8, 5, 9]
+  details.products: [3, 4, 6, 7, 8, 5]
+  details.setting: [9, 10, 11, 1, 2, 7]
 status: verified
 tags: [reunion, bras-panon, adsu, maritime-smuggling]
 open_questions:

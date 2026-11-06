@@ -21,6 +21,16 @@ figures:
   hectares: 0.4
   value: { amount: 41060440, currency: GYD }
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 700}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ebini, upper-berbice, police]
 open_questions:

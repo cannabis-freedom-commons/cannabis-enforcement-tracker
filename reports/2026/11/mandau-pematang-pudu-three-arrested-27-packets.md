@@ -14,6 +14,14 @@ summary: >-
   Mandau police detained three men in Pematang Pudu on 2 November 2026 and seized 27 packets of cannabis, three phones and three motorcycles. The suspects were taken to Mandau police station while police investigate the source of the drugs.
 figures:
   arrested: 3
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [1, 2, 3, 5, 4]
+  details.setting: [1, 2, 5, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 427f01611797850405f57708f5626c41

@@ -12,6 +12,12 @@ summary: >-
   9.7 kg of methamphetamine and 1 kg of heroin. In Kabul, police arrested 123 people over a week and
   seized 15 kg of hashish, while 50,000 stimulant tablets were seized in Nangarhar.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: hashish}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: afghanistan-kandahar-cannabis-destruction-2026
 sources:

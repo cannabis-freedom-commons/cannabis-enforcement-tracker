@@ -15,6 +15,12 @@ figures:
   arrested: 61
   plants_destroyed: 5585
   kg_seized: 1324
+details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 24e99477062d8a4622a229dc4fb7f2d7

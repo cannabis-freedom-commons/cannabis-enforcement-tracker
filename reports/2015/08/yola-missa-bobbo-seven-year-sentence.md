@@ -25,6 +25,7 @@ details:
   agency_types: [anti-narcotics]
   case_stage: sentenced
   products: [{product: plants}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
@@ -32,6 +33,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark

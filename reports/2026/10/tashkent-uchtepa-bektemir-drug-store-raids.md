@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.5
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.5}]
+  setting: [home, building]
+data_sources:
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3, 1]
+  details.products: [2, 3, 1]
+  details.setting: [2, 3, 1]
 media:
   - kind: photo
     url: https://repost.uz/rabotali-v-online-narkoshope

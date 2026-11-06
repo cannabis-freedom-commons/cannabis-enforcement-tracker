@@ -16,6 +16,14 @@ figures:
   arrested: 1
   plants_destroyed: 178
   kg_seized: 5
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 178}]
+  setting: [field, home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.radarmedan.com/polres-samosir-temukan-1-rante-ladang-ganja-di-sijambur

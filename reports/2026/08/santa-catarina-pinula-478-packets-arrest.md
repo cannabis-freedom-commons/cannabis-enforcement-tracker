@@ -13,6 +13,14 @@ summary: >-
   DEIC investigators arrested a Guatemalan woman and a Colombian man at kilometre 13 of the Carretera a El Salvador, seizing 478 packets of marijuana from their van. Police also seized four phones for analysis on suspicion the pair belong to a drug-distribution gang.
 figures:
   arrested: 2
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7df081cd822d8d2b37c2476e3ff04d30

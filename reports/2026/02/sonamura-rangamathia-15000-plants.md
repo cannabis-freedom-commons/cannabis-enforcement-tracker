@@ -19,6 +19,14 @@ figures:
   hectares: 2.02
   value: { amount: 22500000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [forest]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [tripura, sepahijala, sonamura, rangamathia, bholamura, tsr]
 open_questions:

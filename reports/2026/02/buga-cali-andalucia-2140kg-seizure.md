@@ -19,6 +19,14 @@ figures:
   kg_seized: 2140
   value: { amount: 4280000000, currency: COP }
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 2140}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [buga, valle-del-cauca, highway]
 open_questions:

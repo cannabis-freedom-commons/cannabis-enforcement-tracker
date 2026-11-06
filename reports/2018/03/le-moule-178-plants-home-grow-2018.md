@@ -17,10 +17,12 @@ figures:
 details:
   activity: [cultivation]
   agency_types: [gendarmerie, police]
+  environment: [indoor]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.environment: [1]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh

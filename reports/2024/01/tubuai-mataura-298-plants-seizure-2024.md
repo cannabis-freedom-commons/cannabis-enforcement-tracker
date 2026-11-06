@@ -12,6 +12,12 @@ summary: >-
   On 24 January 2024, gendarmes seized 298 cannabis plants at Mataura on the island of Tubuai, implicating four individuals. The French Polynesia gendarmerie said it had seized and destroyed 848 plants territory-wide since the start of 2024.
 figures:
   plants_destroyed: 298
+details:
+  agency_types: [gendarmerie]
+  products: [{product: plants, plants: 298}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.tntvnews.pf/polynesie/faits-divers/298-pieds-de-cannabis-saisis-a-tubuai/

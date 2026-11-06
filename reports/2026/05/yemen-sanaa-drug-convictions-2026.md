@@ -12,6 +12,12 @@ summary: >-
   got five years for possessing hashish for use, five got one year for preparing drug-use premises,
   and one was acquitted.
 created_by_model: unknown
+details:
+  case_stage: acquitted
+  products: [{product: hashish}]
+data_sources:
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: yemen-sanaa-drug-convictions-2026
 sources:

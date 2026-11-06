@@ -17,6 +17,12 @@ summary: >-
   mental illness to hide his activities.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  setting: [airport, mail]
+data_sources:
+  details.agency_types: [1, 2, 4, 3]
+  details.setting: [1, 2, 4, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [tema, indian-hemp, distribution]

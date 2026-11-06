@@ -18,6 +18,12 @@ figures:
   value:
     amount: 6636000
     currency: INR
+details:
+  agency_types: [anti-narcotics, police]
+  environment: [indoor]
+data_sources:
+  details.agency_types: [1, 3, 7, 10, 12, 2]
+  details.environment: [1, 3, 4, 6, 7, 8]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 25c459c28006cf2a383b02b2f22945a2

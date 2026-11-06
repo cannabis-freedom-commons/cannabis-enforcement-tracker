@@ -33,11 +33,13 @@ details:
   activity: [cultivation]
   agencies: [us-cbp]
   agency_types: [customs]
+  environment: [greenhouse]
   setting: [home]
 data_sources:
   details.activity: [1, 3]
   details.agencies: [1]
   details.agency_types: [1]
+  details.environment: [1, 3]
   details.setting: [1, 3, 2]
 status: verified
 tags: [ice, cbp, glass-house-farms, wrongful-death-claim, licensed-farm, ufw]

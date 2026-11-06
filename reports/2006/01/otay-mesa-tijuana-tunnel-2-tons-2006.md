@@ -18,6 +18,16 @@ summary: >-
 figures:
   kg_seized: 1905.09
 created_by_model: meta/muse-spark
+details:
+  activity: [smuggling]
+  agency_types: [military]
+  products: [{product: flower, kg: 1905.09}]
+  setting: [airport, vehicle, home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [tunnel, otay-mesa]
 media:

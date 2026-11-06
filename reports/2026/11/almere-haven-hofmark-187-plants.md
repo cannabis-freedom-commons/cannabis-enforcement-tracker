@@ -12,6 +12,16 @@ summary: >-
   Police found 187 young cannabis plants in a house on the Hofmark in Almere Haven, where electricity had been tapped illegally. The nursery was dismantled, the plants destroyed, and the specialist cannabis team opened an investigation into those behind it.
 figures:
   plants_destroyed: 187
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 187}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.omroepflevoland.nl/nieuws/529997/bijna-tweehonderd-hennepplanten-groeiden-in-kwekerij-almere-haven-stroom-illegaal-afgetapt

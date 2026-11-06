@@ -21,6 +21,16 @@ figures:
   value: { amount: 593000, currency: GBP }
   prison: 4 years 8 months
 created_by_model: command-code/deepseek-v4.1-flash#max
+details:
+  agency_types: [customs, court]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 24}]
+  sentence_types: [prison]
+data_sources:
+  details.agency_types: [1, 2, 4, 3]
+  details.case_stage: [1, 2, 4]
+  details.products: [1, 2, 4, 3]
+  details.sentence_types: [1, 2, 4]
 status: verified
 tags: [jersey, customs, hire-car, importation]
 open_questions:

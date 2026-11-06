@@ -17,6 +17,12 @@ summary: >-
   truck driver fled and is sought.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [techiman, trafficking]

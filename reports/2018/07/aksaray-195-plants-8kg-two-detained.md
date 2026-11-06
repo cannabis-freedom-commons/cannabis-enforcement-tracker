@@ -16,6 +16,20 @@ figures:
   arrested: 2
   plants_destroyed: 195
   kg_seized: 8
+details:
+  activity: [cultivation, sale]
+  agency_types: [anti-narcotics, police, court]
+  case_stage: investigation
+  environment: [greenhouse]
+  products: [{product: plants, plants: 195}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/2672061-aksarayda-uyusturucu-operasyonu

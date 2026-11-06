@@ -15,6 +15,12 @@ summary: >-
   operation.
 figures:
   hectares: 2.02
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 tags: [eradication, narcotics-division]
 created_by_model: muse-code/muse-spark-1.3#xhigh
 status: verified

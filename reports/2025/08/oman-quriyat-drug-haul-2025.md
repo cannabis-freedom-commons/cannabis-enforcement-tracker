@@ -13,6 +13,14 @@ summary: >-
   consumption. The statement did not split the cannabis between resin and herb or name the source
   country.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: oman-quriyat-drug-haul-2025
 sources:

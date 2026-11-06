@@ -19,6 +19,18 @@ figures:
   kg_seized: 1084
   value: { amount: 1200000000, currency: COP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [military, anti-narcotics, police]
+  case_stage: charged
+  products: [{product: flower, kg: 1084}]
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [huila, gigante, ejercito]
 sources:

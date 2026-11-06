@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.14
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: charged
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://ici.radio-canada.ca/nouvelle/2297226/arrestation-perquisition-drogue-policier-surete-quebec-north-savage-gang

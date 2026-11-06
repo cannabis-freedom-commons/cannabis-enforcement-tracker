@@ -23,6 +23,7 @@ figures:
 details:
   agencies: [in-dri]
   agency_types: [customs]
+  environment: [indoor]
   products:
     - {product: flower, kg: 72.024}
   activity: [smuggling, trafficking]
@@ -38,6 +39,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
+  details.environment: [1, 2, 3]
   details.period: [1]
   details.products: [1]
   details.setting: [1]

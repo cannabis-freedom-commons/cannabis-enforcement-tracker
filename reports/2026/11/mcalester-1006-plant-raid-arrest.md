@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 1006
+details:
+  activity: [cultivation]
+  products: [{product: flower}, {product: plants, plants: 1006}]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.products: [1, 2, 3, 4]
 media:
   - kind: photo
     url: https://www.newson6.com/crime/marijuana-plants-seized-raid-mcalester

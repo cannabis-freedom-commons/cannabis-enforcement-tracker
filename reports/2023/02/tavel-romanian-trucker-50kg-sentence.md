@@ -25,11 +25,13 @@ details:
   agencies: [fr-douane]
   agency_types: [customs]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [trucker, tavel, gard]

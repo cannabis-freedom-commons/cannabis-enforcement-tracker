@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 1
   prison: 3 years and 4 months
+details:
+  activity: [cultivation]
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower}]
+  setting: [field, home]
+data_sources:
+  details.activity: [2, 3, 1]
+  details.agency_types: [3, 2, 1]
+  details.case_stage: [2, 3]
+  details.products: [2, 3]
+  details.setting: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: aa99df42868a6e19856d0fb7a6a6e8a8

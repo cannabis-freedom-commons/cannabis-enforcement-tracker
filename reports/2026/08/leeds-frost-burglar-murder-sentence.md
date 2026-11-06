@@ -19,6 +19,16 @@ figures:
   deaths: 1
   prison: life (minimum 27 years)
 created_by_model: unknown
+details:
+  case_stage: sentenced
+  force: shots-fired
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.case_stage: [1, 2]
+  details.force: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [burglary, shotgun, self-defence]
 sources:

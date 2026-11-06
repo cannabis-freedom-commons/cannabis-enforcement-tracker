@@ -12,6 +12,10 @@ summary: >-
   called it the largest single cannabis seizure of the year; a controlled delivery led to a second
   arrest, of a 41-year-old Malaysian man.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: maldives-airport-cannabis-seizure-2024
 sources:

@@ -28,10 +28,12 @@ media:
 details:
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [mail]
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [3, 1, 2]
+  details.sentence_types: [3, 1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

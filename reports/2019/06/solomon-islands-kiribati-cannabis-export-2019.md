@@ -11,6 +11,12 @@ summary: >-
   found cannabis. Two people, including an airline employee, were charged with attempted export and
   appeared in the Honiara Magistrates' Court in late July 2019. The amount was not stated.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: charged
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: solomon-islands-kiribati-cannabis-export-2019
 sources:

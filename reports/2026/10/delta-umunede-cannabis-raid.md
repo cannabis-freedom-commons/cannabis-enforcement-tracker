@@ -14,6 +14,14 @@ summary: >-
   Delta police arrested Chibuike Ezeji and Ikenna Emeka in Umunede on 30 October 2026 after a resident reported an alleged pistol threat. A search recovered firearms, ammunition and substances suspected to be cannabis and methamphetamine, but police gave no amount for the suspected drugs.
 figures:
   arrested: 2
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.agency_types: [3, 4, 5, 2, 1]
+  details.case_stage: [3, 4, 5, 2, 1]
+  details.setting: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.tvcnews.tv/delta-police-arrest-four-suspected-cultists-robbers-recover-seven-firearms-stolen-motorcycles/

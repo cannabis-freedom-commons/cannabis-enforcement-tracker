@@ -13,6 +13,14 @@ summary: >-
   Mexico City police detained a 46-year-old man at Zarco and Moctezuma in colonia Guerrero, Cuauhtémoc, seizing 30 small bags of suspected marijuana. He was taken before the Public Ministry, which will decide his legal situation; records showed two prior prison entries for robbery.
 figures:
   arrested: 1
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: adec5f2e74bb916df0ab6d5678023c50

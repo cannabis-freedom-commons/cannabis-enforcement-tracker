@@ -21,6 +21,18 @@ figures:
     amount: 340
     currency: EUR
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking]
+  agency_types: [border-guard, police, prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [airport, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [otopeni, diicot, air-travel]
 open_questions:

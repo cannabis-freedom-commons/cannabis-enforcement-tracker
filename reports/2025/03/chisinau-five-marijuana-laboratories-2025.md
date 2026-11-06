@@ -18,6 +18,18 @@ figures:
   value:
     amount: 7000000
     currency: MDL
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: convicted
+  products: [{product: flower, kg: 1.5}, {product: plants, plants: 169}]
+  setting: [port, vehicle, home]
+data_sources:
+  details.activity: [3, 1, 2]
+  details.agency_types: [1, 3]
+  details.case_stage: [3, 1]
+  details.products: [1, 2, 3]
+  details.setting: [1]
 media:
   - kind: video
     url: https://nokta.md/video-v-kishineve-raskryli-pyat-narkolaboratorij-i-zaderzhali-treh-podozrevaemyh/

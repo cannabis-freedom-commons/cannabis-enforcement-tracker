@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 28
+details:
+  agency_types: [police]
+  setting: [mail]
+data_sources:
+  details.agency_types: [3, 5, 7, 2, 6, 4]
+  details.setting: [3, 5, 7, 2, 6, 4]
 media:
   - kind: photo
     url: https://www.dailykaratoa.com/article/189210

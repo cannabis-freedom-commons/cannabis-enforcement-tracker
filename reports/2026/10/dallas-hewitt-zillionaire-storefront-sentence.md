@@ -16,6 +16,16 @@ figures:
   charged: 1
   kg_seized: 6.35
   prison: 447 months (more than 37 years)
+details:
+  case_stage: sentenced
+  products: [{product: flower, kg: 6.35}]
+  sentence_types: [prison, probation]
+  setting: [prison]
+data_sources:
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.fox4news.com/news/crips-gang-member-gets-37-year-sentence-using-storefront-sell-zillionaire-marijuana-other-drugs

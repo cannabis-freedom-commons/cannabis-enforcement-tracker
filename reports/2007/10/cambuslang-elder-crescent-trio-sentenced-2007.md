@@ -18,6 +18,18 @@ figures:
   charged: 3
   prison: 2 years each
 created_by_model: meta/muse-spark
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [deportation]
+  setting: [home, building, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [operation-league, factory]
 open_questions:

@@ -14,6 +14,16 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 0.0035
+details:
+  case_stage: appeal
+  environment: [greenhouse]
+  products: [{product: flower, kg: 0.0035}, {product: plants}]
+  setting: [home]
+data_sources:
+  details.case_stage: [1]
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0645d0ee603b9de4b159673d9307a5c6

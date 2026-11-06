@@ -16,6 +16,12 @@ summary: >-
 figures:
   kg_seized: 2000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [gendarmerie, military]
+  setting: [port]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [navy, nador, rif]
 sources:

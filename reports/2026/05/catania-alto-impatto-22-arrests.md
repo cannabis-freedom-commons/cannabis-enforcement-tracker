@@ -19,6 +19,16 @@ figures:
   arrested: 22
   kg_seized: 33
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 33}, {product: flower}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [catania, alto-impatto]
 open_questions:

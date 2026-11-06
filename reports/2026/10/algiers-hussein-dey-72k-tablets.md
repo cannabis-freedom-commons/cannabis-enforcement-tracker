@@ -18,6 +18,14 @@ figures:
   value:
     amount: 4000000
     currency: DZD
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 933de44bbd4d7156b2025c6663136d6a

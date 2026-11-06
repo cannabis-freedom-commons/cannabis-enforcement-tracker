@@ -20,6 +20,16 @@ figures:
   charged: 3
   plants_destroyed: 1118
   kg_seized: 2.27
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: acquitted
+  products: [{product: flower, kg: 2.27}, {product: plants, plants: 1118}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.reviewjournal.com/local/local-las-vegas/las-vegas-pot-bust-leads-to-3-houses-3-arrests/

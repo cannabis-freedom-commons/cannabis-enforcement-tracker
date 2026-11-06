@@ -11,6 +11,16 @@ summary: >-
   marijuana, crystal meth, cash, mobile phones and alcohol in prisoners' cells. The raid followed a
   sting in which an inmate sold methamphetamine to a police informant.
 created_by_model: unknown
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: marshall-islands-jail-marijuana-raid-2024
 sources:

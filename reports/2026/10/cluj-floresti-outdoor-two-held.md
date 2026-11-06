@@ -18,6 +18,16 @@ summary: >-
 figures:
   arrested: 2
   plants_destroyed: 20
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [cluj, floresti, diicot]

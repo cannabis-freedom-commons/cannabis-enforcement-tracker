@@ -12,6 +12,12 @@ summary: >-
   Yangmei police arrested two drivers for drug-driving on 3 November 2026 after traffic stops led to positive saliva tests. A 63-year-old unlicensed driver tested positive for cannabis and methamphetamine, while a 62-year-old motorcyclist tested positive for heroin and methamphetamine, and both were sent to Taoyuan prosecutors.
 figures:
   arrested: 2
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 3, 4, 5, 6, 7]
+  details.case_stage: [1, 3, 4, 8, 10, 5]
 media:
   - kind: photo
     url: https://www.chinatimes.com/realtimenews/20261104002312-260402

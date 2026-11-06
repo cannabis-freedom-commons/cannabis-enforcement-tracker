@@ -13,6 +13,12 @@ summary: >-
   origin. It showed cannabis resin and herb moving alongside methamphetamine and tablets in the same
   shipment.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: oman-sea-drug-haul-2024
 sources:

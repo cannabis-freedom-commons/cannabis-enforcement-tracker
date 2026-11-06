@@ -12,7 +12,12 @@ summary: >-
   West Region gendarmes seized a truck carrying 78 sacks of cannabis totalling 7.8 tonnes in the Ndé department. The sacks were hidden among fresh produce and presented to the regional governor in Bafoussam, while the driver and convoy assistant fled.
 figures:
   kg_seized: 7800
+details:
+  agency_types: [gendarmerie]
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [2, 1, 4, 3]
+  details.setting: [2, 1]
   figures.kg_seized: [2, 4]
 media:
   - kind: photo

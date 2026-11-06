@@ -13,6 +13,12 @@ summary: >-
   Iwaki Higashi police in Fukushima Prefecture re-arrested an 18-year-old office worker on 5 November 2026 on suspicion of possessing cannabis in a building in the city on 10 September. He had already been arrested red-handed on 16 October for possessing cannabis on another day, and police say he admits the new allegation.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cdde9c2a9ebd43331a2d5db06d486175

@@ -14,6 +14,16 @@ summary: >-
   Civil Police officers from Denarc's 4th anti-narcotics precinct found 75 bricks of marijuana weighing 53 kg in a house in Vila Cachoeirinha, Cachoeirinha, which police said was a depot supplying the Porto Alegre metropolitan region. No arrest was reported in the case; investigators said they were working to identify the owner of the load, who faces a drug-trafficking charge.
 figures:
   kg_seized: 53
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
+  products: [{product: flower, kg: 53}]
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADcia/policia-civil-apreende-mais-de-90-kg-de-drogas-1.1760034

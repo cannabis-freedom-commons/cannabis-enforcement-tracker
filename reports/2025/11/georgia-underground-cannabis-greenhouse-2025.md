@@ -11,6 +11,14 @@ summary: >-
   underground on land beside his home. Police seized 283 cannabis plants and about 3 kilograms of
   dried marijuana, along with packaging materials, adhesive tape and an electronic scale.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  case_stage: charged
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: georgia-underground-cannabis-greenhouse-2025
 sources:

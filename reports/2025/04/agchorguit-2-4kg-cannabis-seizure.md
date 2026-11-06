@@ -12,6 +12,12 @@ summary: >-
   Gendarmes at Agchorguit stopped a Toyota Avensis Verso arriving from Boghé on 9 April 2025 and seized 2.4 kg of cannabis from its driver. The load was bound for a recipient in Nouakchott.
 figures:
   kg_seized: 2.4
+details:
+  agency_types: [gendarmerie]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 500979ee09512d8617ab64ea63a064fe

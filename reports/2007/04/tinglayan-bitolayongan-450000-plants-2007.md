@@ -20,12 +20,14 @@ details:
   activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  force: shots-fired
   products: [{product: flower}, {product: plants, plants: 450000}]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.force: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

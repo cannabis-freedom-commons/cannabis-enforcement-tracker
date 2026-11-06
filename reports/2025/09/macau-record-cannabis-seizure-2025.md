@@ -11,6 +11,10 @@ summary: >-
   Malaysian men who had flown in from South Korea. A Hong Kong man travelling with them was also
   arrested.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: macau-record-cannabis-seizure-2025
 sources:

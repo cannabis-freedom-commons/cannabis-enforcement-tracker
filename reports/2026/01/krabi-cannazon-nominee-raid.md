@@ -19,6 +19,12 @@ figures:
   arrested: 1
   charged: 1
 created_by_model: cursor/composer-2.5-fast
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 tags: [krabi, foreign-business-act, cannazon]
 open_questions:

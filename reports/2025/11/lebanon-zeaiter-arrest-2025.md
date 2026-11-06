@@ -11,6 +11,10 @@ summary: >-
   Baalbek-Hermel. He had admitted cannabis cultivation and trafficking. The arrest was one of
   several against Bekaa networks in 2025.
 created_by_model: unknown
+details:
+  activity: [trafficking, cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: lebanon-zeaiter-arrest-2025
 tags:

@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 22
+details:
+  agency_types: [customs, court]
+  case_stage: sentenced
+  setting: [vehicle, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [customs, highway, transport]

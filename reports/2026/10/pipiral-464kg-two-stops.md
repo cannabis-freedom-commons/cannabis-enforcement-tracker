@@ -19,6 +19,12 @@ figures:
   arrested: 2
   kg_seized: 464.7
 created_by_model: spacexai/grok-4.7
+details:
+  agency_types: [police, prosecutor]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [meta, pipiral, villavicencio]
 open_questions:

@@ -12,6 +12,16 @@ summary: >-
   Antsohihy gendarmes and Madagascar National Parks agents seized about a tonne of cannabis packed in 42 woven sacks in the Analabe forest, where patrols also found thousands of growing plants. The traffickers fled, and the seized zamal was due to be destroyed in the following days.
 figures:
   kg_seized: 1000
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+  products: [{product: plants}]
+  setting: [forest]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 7b2ef2d4cb969291dd310017c12858f1

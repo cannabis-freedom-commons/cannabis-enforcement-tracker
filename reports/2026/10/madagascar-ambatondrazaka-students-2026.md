@@ -10,6 +10,10 @@ summary: >-
   Police raided a youth gathering point at Ambatondrazaka and arrested ten students aged 14 to 20,
   eight girls and two boys, after finding a bag of suspected cannabis.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: madagascar-ambatondrazaka-students-2026
 sources:

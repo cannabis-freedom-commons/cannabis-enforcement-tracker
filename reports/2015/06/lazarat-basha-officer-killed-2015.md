@@ -18,6 +18,16 @@ summary: >-
 figures:
   deaths: 1
 created_by_model: meta/muse-spark
+details:
+  agency_types: [police]
+  force: lethal
+  products: [{product: flower}]
+  setting: [border, home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.force: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [lazarat, renea, officer-killed]
 sources:

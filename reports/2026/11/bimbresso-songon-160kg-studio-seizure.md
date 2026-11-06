@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 160.5
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [1, 2, 3, 4]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2026/11/04/cote-divoire/societe/cote-divoire-saisie-record-a-bimbresso-1605-kg-de-cannabis-dans-un-studio-discret-de-songon_202254.html

@@ -14,7 +14,12 @@ summary: >-
 figures:
   kg_seized: 16
   prison: 25 months
+details:
+  activity: [possession]
+  case_stage: sentenced
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
   figures.kg_seized: [1]
   figures.prison: [1]
 media:

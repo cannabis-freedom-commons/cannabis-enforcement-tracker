@@ -16,6 +16,16 @@ summary: >-
 figures:
   plants_destroyed: 3000
   arrested: 7
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 3000}]
+  setting: [building]
+data_sources:
+  details.agency_types: [2]
+  details.case_stage: [2, 1]
+  details.products: [2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [nottinghamshire, cannabis-factory]

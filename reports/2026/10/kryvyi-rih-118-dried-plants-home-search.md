@@ -14,6 +14,16 @@ summary: >-
   Police searched a 35-year-old man's home in Kryvyi Rih on 27 October 2026 and found 118 dried cannabis plants, bags and a box of plant remains. Investigators opened a case over illegal storage of narcotics in large amounts, which carries a large fine or up to three years in prison; the pre-trial investigation continues.
 figures:
   plants_destroyed: 118
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: plants, plants: 118}]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [3, 5, 1, 2, 4]
+  details.case_stage: [4, 2, 1, 5]
+  details.products: [3, 5, 1]
+  details.setting: [3, 5, 1, 2, 4]
 media:
   - kind: photo
     url: https://one.kr.ua/ru/news/66229

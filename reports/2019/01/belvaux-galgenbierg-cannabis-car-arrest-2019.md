@@ -14,7 +14,14 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.035
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: hashish, kg: 0.035}, {product: flower}]
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
   figures.arrested: [2]
   figures.kg_seized: [2]
 status: verified

@@ -15,7 +15,16 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 11
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs, police]
+  case_stage: sentenced
+  setting: [mail, prison]
 data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1]
+  details.setting: [2, 1, 3]
   figures.arrested: [2]
   figures.charged: [2]
   figures.kg_seized: [2]

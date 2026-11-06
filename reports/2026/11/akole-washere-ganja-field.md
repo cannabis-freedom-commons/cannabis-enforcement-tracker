@@ -18,6 +18,14 @@ figures:
   value:
     amount: 1536000
     currency: INR
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants}]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1, 3]
+  details.products: [2, 1, 3]
 media:
   - kind: photo
     url: https://pudhari.news/maharashtra/north-maharashtra/ahilyanagar/akole-ganja-cultivation-washere-sk04

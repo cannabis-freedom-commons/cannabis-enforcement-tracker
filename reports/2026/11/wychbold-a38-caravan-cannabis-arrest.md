@@ -14,6 +14,12 @@ summary: >-
   West Mercia Police stopped a car towing a caravan without a number plate on the A38 towards Wychbold on 1 November 2026 and found cannabis inside. A 55-year-old man was arrested on suspicion of drug driving.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.worcesternews.co.uk/news/26692611.wychbold-drug-driving-arrest-man-55-caravan-stop/

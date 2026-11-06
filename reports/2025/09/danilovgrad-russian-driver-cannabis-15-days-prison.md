@@ -11,6 +11,14 @@ also: [arrest, prosecution]
 title: Russian driver jailed 15 days in Montenegro for driving under cannabis
 summary: >-
   The Minor Offences Court in Podgorica, Danilovgrad Department, sentenced a Russian citizen identified only as M.K. to 15 days in prison for driving under the influence of cannabis on 22 September 2025. The court also banned him from driving a category B vehicle in Montenegro for six months.
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8388a8d76a215839e4ce4cbd621fd900

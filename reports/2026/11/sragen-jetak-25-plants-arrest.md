@@ -16,6 +16,16 @@ figures:
   charged: 1
   plants_destroyed: 29
   kg_seized: 0.0158
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 29}, {product: seeds}]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2, 3, 4, 5, 7]
+  details.case_stage: [1, 2, 3, 4, 5, 7]
+  details.products: [2, 5, 7, 1, 3, 4]
+  details.setting: [1, 2, 3, 4, 5, 7]
 media:
   - kind: photo
     url: https://solo.tribunnews.com/solo-raya/352980/nekat-tanam-25-batang-ganja-di-samping-rumah-pria-di-jetak-sragen-terancam-hukuman-mati

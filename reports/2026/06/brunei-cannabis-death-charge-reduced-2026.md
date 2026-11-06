@@ -11,6 +11,14 @@ summary: >-
   carried the death penalty. In June 2026 prosecutors replaced it with two charges of possession for
   trafficking, covering 200 g of cannabis and 84.17 g of cannabis mixture, and he pleaded guilty.
 created_by_model: unknown
+details:
+  case_stage: sentenced
+  sentence_types: [probation]
+  setting: [prison]
+data_sources:
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: brunei-cannabis-death-charge-reduced-2026
 sources:

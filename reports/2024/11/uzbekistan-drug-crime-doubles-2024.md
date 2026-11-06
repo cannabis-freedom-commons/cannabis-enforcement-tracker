@@ -12,6 +12,10 @@ summary: >-
   'pharmacy drug addiction' was spreading among young people and called for regional cooperation.
   The figures cover all drugs, not cannabis alone.
 created_by_model: unknown
+details:
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: uzbekistan-drug-crime-doubles-2024
 sources:

@@ -21,6 +21,7 @@ details:
   agency_types: [police]
   case_stage: sentenced
   products: [{product: plants, plants: 148}]
+  sentence_types: [prison]
   setting: [home]
   environment: [greenhouse]
 data_sources:
@@ -28,6 +29,7 @@ data_sources:
   details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

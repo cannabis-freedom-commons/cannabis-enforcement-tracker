@@ -13,6 +13,12 @@ summary: >-
   The 14-year term exceeds the 5–10 year band for 8–20 kg, suggesting aggravation or a charging
   issue.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  setting: [airport]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 cfi_id: cambodia-cannabis-airport-sentence-2026
 tags:

@@ -13,6 +13,14 @@ summary: >-
   Guadalupe tactical police detained 15-year-old Jorge Alberto in Colonia Cañada Blanca with 32 packets of green herb described as suspected marijuana. He was placed at the disposal of the Ministerio Público, which will investigate and determine his legal situation.
 figures:
   arrested: 1
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://mvsnoticias.com/nuevo-leon/2026/11/4/aseguran-32-dosis-de-presunta-droga-a-joven-de-15-anos-752290.html

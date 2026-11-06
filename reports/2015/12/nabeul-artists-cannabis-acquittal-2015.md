@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 3
   charged: 3
+details:
+  agency_types: [police, court]
+  case_stage: acquitted
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [law-52, acquittal]
 open_questions:

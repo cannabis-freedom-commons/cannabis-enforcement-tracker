@@ -13,6 +13,14 @@ summary: >-
   Police in Porto-Novo arrested a couple at their home in Houssouko on 17 August 2026 and seized suspected cannabis and Tramadol tablets. The husband, a motorcycle-taxi driver, allegedly distributed the drugs while his partner stored and packaged them, and both were held for presentation to the prosecutor.
 figures:
   arrested: 2
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c728dd81313936aaf1a7c59d9367f2e3

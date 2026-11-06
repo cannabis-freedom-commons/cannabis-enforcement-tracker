@@ -14,6 +14,18 @@ summary: >-
 figures:
   plants_destroyed: 272
   kg_seized: 42
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+  environment: [greenhouse]
+  products: [{product: plants, plants: 272}]
+  setting: [home]
+data_sources:
+  details.activity: [3, 2, 4]
+  details.agency_types: [3, 4, 2]
+  details.environment: [3, 4, 2, 1]
+  details.products: [3, 4, 2]
+  details.setting: [3, 4, 2, 1]
 media:
   - kind: photo
     url: https://www.tntvnews.pf/polynesie/faits-divers/deux-sites-de-cultures-de-cannabis-decouverts-a-huahine-272-plants-saisis/

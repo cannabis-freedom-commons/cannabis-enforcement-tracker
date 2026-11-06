@@ -18,6 +18,14 @@ figures:
   arrested: 175
   plants_destroyed: 400000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 400000}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
 status: verified
 tags: [operation-mercury, farmland-grows, dea]
 sources:

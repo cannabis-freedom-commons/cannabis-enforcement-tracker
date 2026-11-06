@@ -17,6 +17,14 @@ figures:
   value:
     amount: 656000
     currency: MOP
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: charged
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 media:
   - kind: photo
     url: https://www.globaltimes.cn/page/202507/1339277.shtml

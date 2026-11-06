@@ -12,6 +12,10 @@ summary: >-
   arrested while transporting drugs, 11 more were linked to a ringleader based abroad, and 10 were
   held in Dubai, Abu Dhabi and Ajman.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: uae-marijuana-hash-oil-raid-2026
 sources:

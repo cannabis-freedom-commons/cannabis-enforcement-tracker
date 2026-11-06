@@ -16,6 +16,18 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.008
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 0.008}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [1, 3, 2]
+  details.products: [1, 3, 2]
+  details.setting: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.dothanpd.org/2026/10/30/investigators-seize-19-guns-drugs-and-cash-after-extensive-investigation/

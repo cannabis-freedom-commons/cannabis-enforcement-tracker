@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 1485.506
+details:
+  agency_types: [customs, prosecutor]
+  products: [{product: flower, kg: 1485.506}]
+data_sources:
+  details.agency_types: [2, 1]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [falcon, gnb, francia]

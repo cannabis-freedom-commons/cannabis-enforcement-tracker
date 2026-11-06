@@ -17,6 +17,14 @@ figures:
   value:
     amount: 5000000
     currency: EUR
+details:
+  activity: [cultivation]
+  agency_types: [police, prosecutor]
+  setting: [field, building, mail]
+data_sources:
+  details.activity: [3, 2, 1]
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://balkaninsight.com/2023/03/28/crime-ties-exposed-in-north-macedonia-medicinal-cannabis-boom/bi/

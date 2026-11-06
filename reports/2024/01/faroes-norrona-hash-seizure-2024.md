@@ -10,6 +10,14 @@ summary: >-
   Customs found 24 kg of hashish in a car arriving on Norrøna. Police arrested two people and
   charged them under Penal Code § 191; the following day a court remanded them for four weeks.
 created_by_model: unknown
+details:
+  agency_types: [customs, police]
+  products: [{product: hashish}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: faroes-norrona-hash-seizure-2024
 sources:

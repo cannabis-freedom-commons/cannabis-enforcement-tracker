@@ -18,6 +18,12 @@ figures:
   arrested: 1
   kg_seized: 34
 created_by_model: cursor/composer-2.5
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [border-guard, anti-narcotics]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 tags: [jazan, border-guard, hashish]
 open_questions:

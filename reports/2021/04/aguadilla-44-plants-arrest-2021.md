@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 44
+details:
+  agency_types: [prosecutor]
+  products: [{product: flower}, {product: plants, plants: 44}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.telemundopr.com/noticias/puerto-rico/autoridades-incautan-44-plantas-de-marihuana-en-residencia-en-aguadilla/2200995/

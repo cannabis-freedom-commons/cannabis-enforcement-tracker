@@ -15,6 +15,16 @@ summary: >-
   The clearance came days after officers destroyed another cannabis field in nearby Wanyemba Village.
 figures:
   plants_destroyed: 500
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 500}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ntcheu, njolomole, chamba]

@@ -13,6 +13,10 @@ summary: >-
   Congo's national police announced the seizure of more than 2 tonnes of cannabis during Usalama 5, a joint regional operation against cross-border crime launched on 27 September 2018. The results were presented to the press in Kinshasa on 24 October, and the police gave no breakdown by province or arrests for the cannabis alone.
 figures:
   kg_seized: 2000
+details:
+  agency_types: [police, prosecutor]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 590c2aeaf5df78772b9237cdd0cf7233

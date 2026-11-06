@@ -12,6 +12,12 @@ summary: >-
   Police in Bembèrèkè seized six jute sacks of cannabis with about 600 kg of estimated capacity from a bush cache near Pédarou on 28 June 2026. No suspects were arrested, and the alleged traffickers remain wanted while the sealed goods await judicial proceedings.
 figures:
   kg_seized: 600
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 69f88d5908b2c05fd41d3d6dca0586ea

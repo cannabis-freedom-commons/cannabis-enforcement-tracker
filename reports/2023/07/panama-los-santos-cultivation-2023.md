@@ -11,6 +11,16 @@ summary: >-
   plants under article 314 of the Penal Code, after police found 12 plants and 279 seeds in Los
   Santos.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: seeds}]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: panama-los-santos-cultivation-2023
 sources:

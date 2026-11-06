@@ -22,11 +22,13 @@ details:
   activity: [cultivation]
   agency_types: [police, court]
   products: [{product: plants, plants: 63}]
+  sentence_types: [probation]
   setting: [home, prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

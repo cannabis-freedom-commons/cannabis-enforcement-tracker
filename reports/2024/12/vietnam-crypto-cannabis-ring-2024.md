@@ -12,6 +12,12 @@ summary: >-
   kg of dried cannabis and 10 kg of resin were seized, along with packaging disguised as tea and
   food. The ringleader told police he had arranged seven shipments, about two tonnes, in two months.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: vietnam-crypto-cannabis-ring-2024
 sources:

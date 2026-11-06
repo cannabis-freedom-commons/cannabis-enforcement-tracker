@@ -14,6 +14,18 @@ summary: >-
   A man in the Znojmo district who grew cannabis for chronic pain was prosecuted after police, called to thieves he had caught, harvested his garden plants and seized his stocks. The Brno Regional Court replaced a nine-month suspended sentence with 100 hours of community service.
 figures:
   charged: 1
+details:
+  activity: [sale]
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [suspended, community-service]
+  setting: [vehicle, home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: eed707ee4dbbe16c97e4772e5cac1907

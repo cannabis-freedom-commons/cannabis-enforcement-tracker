@@ -17,6 +17,12 @@ figures:
   value:
     amount: 15000
     currency: EUR
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 8c9de88e89cb640a97f8b2bb78669558

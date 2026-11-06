@@ -12,6 +12,10 @@ summary: >-
   and eight engines in raids in Kenitra and Casablanca, and arrested eight people including two
   women. The operation was based on intelligence from the DGST.
 created_by_model: unknown
+details:
+  products: [{product: hashish}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: morocco-bcij-seizure-2025
 sources:

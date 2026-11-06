@@ -19,6 +19,14 @@ figures:
   arrested: 4
   kg_seized: 11000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [besancon, record-haul, trafficking-network]
 sources:

@@ -16,6 +16,20 @@ figures:
   charged: 2
   kg_seized: 5.4
   prison: 13 years
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 5.4}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [2, 1]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/panama/2026/03/14/capturados-en-alta-mar-condenan-a-13-anos-a-dos-colombianos-por-trafico-de-marihuana-y-cocaina/

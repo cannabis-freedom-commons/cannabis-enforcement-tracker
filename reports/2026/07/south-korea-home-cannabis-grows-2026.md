@@ -12,6 +12,12 @@ summary: >-
   composer. Investigators seized about 3 kg of cannabis, 39 plants and cannabis jelly, and said
   ordinary residents were treating home growing as an entry drug.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  setting: [home, building]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 cfi_id: south-korea-home-cannabis-grows-2026
 sources:

@@ -12,6 +12,14 @@ summary: >-
   Gendarmería officers seized 719.27 kg of cannabis from an abandoned grey Volkswagen Amarok near the Paraná River at Colonia Helvecia, Misiones, after its occupants fled, crashed into an embankment and escaped on foot. The pickup had an active seizure order for robbery, and the Oberá federal court and prosecutor ordered the drug and vehicle seized.
 figures:
   kg_seized: 719.27
+details:
+  agency_types: [gendarmerie, prosecutor]
+  products: [{product: flower, kg: 719.27}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/misiones-hallan-719-kilos-de-marihuana-en-una-camioneta-con-pedido-de-secuestro

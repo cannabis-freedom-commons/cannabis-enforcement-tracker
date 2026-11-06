@@ -19,12 +19,14 @@ figures:
 details:
   agency_types: [police, prosecutor]
   case_stage: charged
+  force: shots-fired
   products:
     - {product: flower}
   setting: [vehicle, prison]
 data_sources:
   details.agency_types: [2, 3, 4, 1]
   details.case_stage: [1, 2]
+  details.force: [1, 2]
   details.products: [2]
   details.setting: [1, 2, 3, 4]
 status: verified

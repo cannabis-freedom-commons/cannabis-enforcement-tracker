@@ -17,6 +17,16 @@ figures:
   hectares: 1.2
   value: { amount: 4500000, currency: LKR }
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [udawalawe, nature-reserve]
 sources:

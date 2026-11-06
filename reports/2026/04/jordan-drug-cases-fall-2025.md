@@ -12,6 +12,10 @@ summary: >-
   6,311. A separate human-rights report had compared 2025 crimes with 2024 arrests, producing a
   misleading 34 per cent drop.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 cfi_id: jordan-drug-cases-fall-2025
 sources:

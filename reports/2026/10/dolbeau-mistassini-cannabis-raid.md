@@ -15,6 +15,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.2
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [2, 4, 1, 3]
+  details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [1, 4, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 00112a92bde321b2940fe58696d0d99e

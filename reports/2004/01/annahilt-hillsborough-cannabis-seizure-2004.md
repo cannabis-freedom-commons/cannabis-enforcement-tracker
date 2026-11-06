@@ -15,6 +15,12 @@ summary: >-
   boxes, with an estimated street value of £2.75 million. One man was
   arrested; ministers called it the largest cannabis seizure in Northern
   Ireland.
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 tags: [psni, record-seizure]
 open_questions:

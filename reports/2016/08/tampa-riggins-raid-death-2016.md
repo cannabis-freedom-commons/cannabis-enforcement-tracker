@@ -17,6 +17,16 @@ summary: >-
 figures:
   deaths: 1
   kg_seized: 0.002
+details:
+  agency_types: [police]
+  force: lethal
+  products: [{product: flower, kg: 0.002}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.force: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: disputed
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [swat-raid]

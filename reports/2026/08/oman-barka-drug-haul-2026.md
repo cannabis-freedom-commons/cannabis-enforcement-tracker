@@ -12,6 +12,12 @@ summary: >-
   120,000 psychotropic tablets. The Royal Oman Police said the group intended to traffic the drugs.
   The statement did not give a separate cannabis weight or say where the shipment entered Oman.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: oman-barka-drug-haul-2026
 sources:

@@ -17,6 +17,18 @@ figures:
   value:
     amount: 6900000
     currency: INR
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 1.975}]
+  setting: [airport]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.bhaskarenglish.in/local/gujarat/ahmedabad/news/ahmedabad-man-arrested-2kg-ganja-luxury-car-69-lakh-137989306.html

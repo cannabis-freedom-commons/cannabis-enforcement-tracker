@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 700
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [home, mail]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [2, 1]
+  details.case_stage: [2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://ledjely.com/2023/10/23/guinee-environ-700-kg-de-chanvre-indien-saisis-par-les-services-de-securite/

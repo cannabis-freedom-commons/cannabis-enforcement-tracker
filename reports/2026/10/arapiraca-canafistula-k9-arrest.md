@@ -24,6 +24,7 @@ details:
   activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  force: physical
   products:
     - {product: flower}
   setting: [home]
@@ -31,6 +32,7 @@ data_sources:
   details.activity: [2, 5, 3, 4, 6]
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
+  details.force: [2, 5, 6]
   details.products: [2, 5, 6]
   details.setting: [1, 2, 5, 6, 3, 4]
 status: reported

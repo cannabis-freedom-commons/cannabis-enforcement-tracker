@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.155
+details:
+  activity: [sale]
+  agency_types: [police, prosecutor]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.messinatoday.it/cronaca/milazzo-droga-arresto-.html

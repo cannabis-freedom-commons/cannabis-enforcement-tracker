@@ -19,6 +19,10 @@ figures:
   arrested: 2
   kg_seized: 1000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 tags: [adriatic-route, sailing-boat]
 open_questions:

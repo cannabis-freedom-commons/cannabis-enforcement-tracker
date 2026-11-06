@@ -15,6 +15,14 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 2000
+details:
+  activity: [smuggling]
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 4, 3]
+  details.case_stage: [1]
 media:
   - kind: photo
     url: https://agadir24.info/%D8%AA%D8%A7%D8%B1%D9%88%D8%AF%D8%A7%D9%86%D8%AA-%D9%83%D9%88%D9%85%D9%88%D9%86%D8%AF%D9%88%D8%B3-%D9%84%D9%84%D8%AF%D8%B1%D9%83-%D8%A8%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7.html

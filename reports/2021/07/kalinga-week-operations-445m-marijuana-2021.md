@@ -19,6 +19,16 @@ figures:
   plants_destroyed: 76000
   value: { amount: 44536000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 65.3}]
+  setting: [border, field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [pdea, kalinga, cordillera]
 sources:

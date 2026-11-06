@@ -16,6 +16,16 @@ figures:
   charged: 1
   kg_seized: 1.6
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: sentenced
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 tags: [kedah, mandatory-death-penalty]
 open_questions:

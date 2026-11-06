@@ -11,6 +11,16 @@ also: [raid]
 title: Over 10,000 drug wraps with marijuana seized in San Lorenzo home
 summary: >-
   Honduran National Police seized more than 10,000 wraps of suspected drugs, including marijuana alongside crack and cocaine, from a house in colonia Morazán, San Lorenzo. No suspects were detained as the main targets fled, though police say they have been identified; the combined haul was valued by police at more than two million lempiras.
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/honduras/2026/04/01/honduras-la-policia-decomisa-mas-de-diez-mil-envoltorios-de-droga-en-una-vivienda-de-san-lorenzo/

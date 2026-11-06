@@ -18,6 +18,18 @@ figures:
   fine:
     amount: 9384.8
     currency: MXN
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 1.612}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://imparcialoaxaca.mx/policiaca/cuatro-anos-de-carcel-por-vender-drogas-condenan-a-tres-personas-tras-decomiso-de-metanfetamina-cocaina-y-marihuana-en-ixtlan/

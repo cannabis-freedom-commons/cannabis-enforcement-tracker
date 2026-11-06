@@ -19,6 +19,18 @@ figures:
   kg_seized: 1750
   prison: 8 years
   value: { amount: 5000000, currency: GBP }
+details:
+  activity: [smuggling]
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [vehicle, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [ukba, dover, smuggling]

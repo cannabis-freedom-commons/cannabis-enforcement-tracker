@@ -17,6 +17,14 @@ figures:
   value:
     amount: 375000
     currency: MUR
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 77}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7cff6c9f94757162bc047001b449d251

@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 5
+details:
+  activity: [trafficking, sale]
+  agency_types: [prosecutor]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.ziuaconstanta.ro/stiri/justitie/video-foto-diicot-doi-barbati-arestati-preventiv-dupa-ce-au-fost-prinsi-in-flagrant-cu-peste-5-kilograme-de-canabis-aduse-din-spania-959414.html

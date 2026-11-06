@@ -18,6 +18,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.022
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.022}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://gorod48.ru/news/1981503/

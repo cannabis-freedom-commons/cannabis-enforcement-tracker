@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.6913
+details:
+  activity: [smuggling, trafficking]
+data_sources:
+  details.activity: [1, 2, 3]
 media:
   - kind: photo
     url: https://lexpress.mu/node/563875

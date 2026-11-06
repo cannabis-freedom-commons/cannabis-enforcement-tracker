@@ -12,6 +12,10 @@ summary: >-
   anti-drug campaign since Marcos took office in June 2022, including 330 in 2023–2025, while police
   reported about 6,200 deaths under Duterte and rights groups estimated up to 30,000.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: philippines-drug-war-10-years-2026
 sources:

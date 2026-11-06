@@ -38,6 +38,7 @@ details:
   agency_types: [customs]
   case_stage: sentenced
   products: [{product: flower}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
@@ -45,6 +46,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [2]
   details.products: [1, 2, 3, 4]
+  details.sentence_types: [2]
   details.setting: [2]
 status: verified
 tags: [medical-marijuana, dismissal, detroit, license-dispute]

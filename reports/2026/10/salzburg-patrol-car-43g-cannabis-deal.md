@@ -12,6 +12,12 @@ summary: >-
   Police in Salzburg watched a 30-year-old alleged dealer and a 67-year-old alleged buyer complete a cannabis handover beside a parked patrol car on 31 October 2026. Officers seized about 40 grams from the dealer and about three grams from the buyer and reported both men while leaving them at liberty.
 figures:
   kg_seized: 0.043
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 0.043}]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6da3b6bfc191dd7a2876d9712381406c

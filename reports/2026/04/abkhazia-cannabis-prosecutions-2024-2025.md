@@ -12,6 +12,10 @@ summary: >-
   suspended sentences and four were sent for compulsory treatment; fines came to 2.45 million
   roubles. Police seized 598 cannabis roots, mostly South Krasnodar, and 547 opium poppy roots.
 created_by_model: unknown
+details:
+  agency_types: [police, prosecutor]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: abkhazia-cannabis-prosecutions-2024-2025
 sources:

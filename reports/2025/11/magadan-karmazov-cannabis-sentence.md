@@ -24,13 +24,17 @@ details:
   activity: [cultivation]
   agency_types: [police, court]
   case_stage: sentenced
+  environment: [indoor]
   products: [{product: flower, kg: 4}, {product: plants, plants: 35}]
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.environment: [1]
   details.products: [1]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: reported
 created_by_model: cursor/composer-2.5

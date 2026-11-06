@@ -10,6 +10,14 @@ type: seizure
 title: 23 blocks of cannabis seized from motorbike near Kaolack
 summary: >-
   Kaolack's regional narcotics brigade seized 23 blocks of cannabis from a Jakarta-type motorcycle on an unpaved road near Dramé Escale on 9 March 2026. Officers also recovered the motorcycle and a mobile phone; police described the seizure as major and linked it to transborder organised crime.
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8faea52b7943ec4c40fd15181d34972e

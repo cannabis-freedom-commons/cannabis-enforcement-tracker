@@ -12,6 +12,14 @@ summary: >-
   Trinidad and Tobago police seized about 2.2 kg of cannabis from three locations in Port-of-Spain during Operation B.L.A.S.T. on 29 September 2026. Officers recovered packets and loose plant material in East Dry River and Henry Street, and reported no arrests.
 figures:
   kg_seized: 2.2
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c9ea133efadb85c21e526bd503069a90

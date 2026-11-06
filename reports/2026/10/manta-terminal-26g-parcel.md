@@ -13,6 +13,18 @@ summary: >-
   Ecuador's National Police seized 26 grams of marijuana from a Quito-to-Manta parcel at Manta's bus terminal on 30 October 2026 after detector dog CUMI alerted. No one was detained; prosecutors opened an inquiry into the sender and recipient.
 figures:
   kg_seized: 0.026
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.026}]
+  setting: [vehicle, home, building]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.eldiario.ec/seguridad/unidad-canina-detecta-paquete-con-marihuana-en-el-terminal-terrestre-de-manta-30102026/

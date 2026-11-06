@@ -14,6 +14,14 @@ figures:
   plants_destroyed: 690000
   hectares: 44
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower}]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [guardia-di-finanza]
 sources:

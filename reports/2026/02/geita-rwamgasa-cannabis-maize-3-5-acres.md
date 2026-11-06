@@ -19,6 +19,14 @@ figures:
   hectares: 1.4164
 # The desktop runtime did not disclose the exact provider, model, or reasoning effort.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  case_stage: investigation
+  setting: [field, forest]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [forest-reserve, maize, cannabis-farm]
 open_questions:

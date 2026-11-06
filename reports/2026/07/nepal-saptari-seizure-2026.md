@@ -12,6 +12,10 @@ summary: >-
   was one of the largest single cannabis seizures in Nepal, in a period when police reported a
   record 51,439 kg seized in the previous fiscal year.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: nepal-saptari-seizure-2026
 sources:

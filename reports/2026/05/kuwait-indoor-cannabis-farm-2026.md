@@ -12,6 +12,14 @@ summary: >-
   cultivation for trafficking can bring death or life under the 2025 law. The raid showed that small
   indoor grows, not only imports, supply some users.
 created_by_model: unknown
+details:
+  activity: [trafficking, cultivation]
+  environment: [indoor]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.environment: [1]
+  details.products: [1]
 status: verified
 cfi_id: kuwait-indoor-cannabis-farm-2026
 sources:

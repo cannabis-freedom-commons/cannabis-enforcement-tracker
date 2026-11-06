@@ -13,6 +13,10 @@ summary: >-
   2,000 som each, about 2.5 million som. The case was opened under the supply article of the
   Criminal Code.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: kyrgyzstan-marijuana-trafficking-case-2024
 sources:

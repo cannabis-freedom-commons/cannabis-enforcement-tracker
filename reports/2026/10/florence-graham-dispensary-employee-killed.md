@@ -19,10 +19,12 @@ figures:
   deaths: 1
 details:
   activity: [sale]
+  force: shots-fired
   products: [{product: flower}]
   setting: [shop]
 data_sources:
   details.activity: [1]
+  details.force: [1, 2, 3]
   details.products: [1]
   details.setting: [1]
 status: verified

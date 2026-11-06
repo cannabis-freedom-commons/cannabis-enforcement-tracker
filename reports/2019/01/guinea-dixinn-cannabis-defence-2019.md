@@ -11,6 +11,12 @@ summary: >-
   for some and acquittal for four. Their lawyer challenged the possession evidence and the requested
   fines, arguing that the law linked fines to the value of drugs seized.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: guinea-dixinn-cannabis-defence-2019
 tags:

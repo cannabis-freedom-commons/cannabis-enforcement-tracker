@@ -15,6 +15,16 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 0.927
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [mandatory-death-penalty, kuala-lumpur]

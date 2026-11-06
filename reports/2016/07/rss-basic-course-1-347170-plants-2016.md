@@ -15,6 +15,16 @@ figures:
   arrested: 1
   plants_destroyed: 347170
   kg_seized: 231.3
+details:
+  agency_types: [military, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 231.3}, {product: plants, plants: 347170}]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f73948341896fb69cf987c56e2eed465

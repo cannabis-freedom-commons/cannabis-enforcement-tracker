@@ -12,6 +12,14 @@ summary: >-
   accomplice was at large outside Kuwait. The case showed that prison-based dealers can direct
   smuggling networks beyond the walls.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  products: [{product: hashish}]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: kuwait-prison-hashish-ring-2025
 sources:

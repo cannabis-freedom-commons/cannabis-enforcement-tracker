@@ -17,6 +17,14 @@ figures:
   value:
     amount: 6300000
     currency: USD
+details:
+  activity: [trafficking]
+  agency_types: [coast-guard, military]
+  products: [{product: flower, kg: 6072}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/armada-incauta-seis-toneladas-de-marihuana-en-el-pacifico-cargamento-tendria-como-destino-costa-rica-3594152

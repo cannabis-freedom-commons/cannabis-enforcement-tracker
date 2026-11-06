@@ -19,6 +19,14 @@ figures:
   value:
     amount: 180000
     currency: INR
+details:
+  agency_types: [police, court]
+  products: [{product: plants, plants: 60}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [2, 1]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.bhaskarhindi.com/city/satna/cannabis-cultivation-discovered-in-a-pigeon-pea-field-1387043

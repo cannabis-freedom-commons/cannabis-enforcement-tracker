@@ -17,6 +17,14 @@ figures:
   value:
     amount: 3818000
     currency: INR
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 1.091}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://sandesh.com/gujarat/news/crime/vapi/vapi--rs-38-98-lakh-worth-of-hybrid-weed-seized-by-valsad-lcb

@@ -19,6 +19,16 @@ figures:
   plants_destroyed: 835
   kg_seized: 24
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: investigation
+  products: [{product: flower, kg: 24}]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [rezekne, latgale, organised]
 open_questions:

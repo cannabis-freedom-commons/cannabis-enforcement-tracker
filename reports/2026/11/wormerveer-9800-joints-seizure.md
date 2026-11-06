@@ -13,6 +13,12 @@ summary: >-
   Police in Wormerveer seized almost 9,800 ready-made joints from a car and a house after an anonymous tip, arresting one suspect. The cannabis was confiscated, the suspect was later released, and the investigation continues.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  setting: [vehicle, home]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.noordhollandsdagblad.nl/regio/zaanstreek-waterland/zaanstreek/ruim-achtduizend-joints-ontdekt-in-auto.-politie-stuit-ook-in-wormerveerse-woning-op-partij-softdrugs-na-anonieme-tip/164067961.html

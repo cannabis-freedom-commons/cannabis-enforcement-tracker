@@ -21,6 +21,16 @@ figures:
   plants_destroyed: 110437
   value: { amount: 20000000, currency: USD }
 created_by_model: openai/gpt-6-luna#max
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 36949.6}, {product: plants, plants: 110437}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [osp, clackamas, marion, black-market]
 open_questions:

@@ -12,6 +12,14 @@ summary: >-
   that cultivation carried a fifteen-year statutory maximum and treated the combined offences as
   serious.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  products: [{product: plants}]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: northern-cyprus-three-plants-sentence-2019
 sources:

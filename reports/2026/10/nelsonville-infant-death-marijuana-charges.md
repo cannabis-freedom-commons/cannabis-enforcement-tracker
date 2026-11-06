@@ -16,6 +16,16 @@ figures:
   arrested: 2
   charged: 3
   deaths: 1
+details:
+  agency_types: [prosecutor]
+  case_stage: charged
+  products: [{product: flower}]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 4, 5, 7, 3, 2]
+  details.case_stage: [1, 4, 5, 7]
+  details.products: [1, 4, 5, 7, 3]
+  details.setting: [1, 4, 5, 7, 3, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f7df344cf32db921bc5e588fcfae4967

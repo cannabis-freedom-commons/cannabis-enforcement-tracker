@@ -15,6 +15,18 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: executed
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e5c729f8aede91abe43fef9a9d99f580

@@ -18,6 +18,18 @@ figures:
   fine:
     amount: 323
     currency: GBP
+details:
+  activity: [possession]
+  agency_types: [police, court]
+  case_stage: investigation
+  sentence_types: [fine]
+  setting: [home, building]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.leicestermercury.co.uk/news/leicester-news/highcross-bomb-threat-mum-who-11217652

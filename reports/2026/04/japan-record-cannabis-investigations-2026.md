@@ -12,6 +12,10 @@ summary: >-
   offence of use, and 1,373 were under 20, the highest since 1990. More than 40% of those under
   30 said they had bought cannabis through apps such as X and Telegram, and police seized 315 kg of…
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: japan-record-cannabis-investigations-2026
 sources:

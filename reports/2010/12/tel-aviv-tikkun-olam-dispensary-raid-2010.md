@@ -13,6 +13,14 @@ summary: >-
   Gvirol Street and detained three staff for questioning over alleged
   oversupply; dozens of patients protested outside four days later.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police, court]
+  case_stage: investigation
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
 status: verified
 tags: [tel-aviv, medical-marijuana, tikkun-olam]
 open_questions:

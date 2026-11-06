@@ -19,6 +19,20 @@ figures:
   charged: 1
   plants_destroyed: 718
   prison: 27 months
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: plants, plants: 718}]
+  sentence_types: [prison, deportation]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [durham, burnopfield, deportation, albania, commercial-grow]

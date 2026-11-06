@@ -19,6 +19,12 @@ figures:
   kg_seized: 27
   value: { amount: 4000000, currency: NOK }
 created_by_model: unknown # This runtime did not disclose its exact model identifier or reasoning effort.
+details:
+  agency_types: [police]
+  case_stage: charged
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
 status: verified
 tags: [nordland, seizure, cannabis]
 open_questions:

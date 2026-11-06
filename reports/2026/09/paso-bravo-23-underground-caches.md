@@ -13,6 +13,14 @@ summary: >-
   the Paso Bravo National Park reserve in San Carlos del Apa on 11 and 12
   September 2026. Troops began moving the stock to the CODI base in Arroyito on
   13 September while rain slowed transport, with weighing still pending.
+details:
+  activity: [trafficking]
+  agency_types: [military, prosecutor]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.abc.com.py/policiales/2026/09/15/parque-nacional-paso-bravo-manana-iniciaria-pesaje-de-marihuana-hallada-en-reserva-natural/

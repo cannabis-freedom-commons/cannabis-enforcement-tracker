@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.03047
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://riaupos.jawapos.com/kuansing/2611030008/dalam-semalam-satres-narkoba-polres-kuansing-ringkus-3-pengedar-di-wisma-sita-ekstasi-sabu-ganja

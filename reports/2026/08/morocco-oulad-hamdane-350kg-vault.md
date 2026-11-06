@@ -16,6 +16,10 @@ summary: >-
   suspect fled; a national search notice was issued and the goods went to customs.
 figures:
   kg_seized: 350
+details:
+  agency_types: [customs, gendarmerie, prosecutor]
+data_sources:
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://eljadidanews.com/wp-content/uploads/2026/08/IMG-20260827-WA0003.jpg

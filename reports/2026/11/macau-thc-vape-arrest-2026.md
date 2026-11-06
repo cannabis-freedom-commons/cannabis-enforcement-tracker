@@ -16,6 +16,16 @@ figures:
     value:
         amount: 8000
         currency: MOP
+details:
+  activity: [smuggling, trafficking, possession]
+  agency_types: [police, court]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.activity: [2, 6, 9, 12, 3, 13]
+  details.agency_types: [2, 6, 9, 12, 3, 14]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://news.rthk.hk/rthk/ch/component/k2/1876124-20261101.htm

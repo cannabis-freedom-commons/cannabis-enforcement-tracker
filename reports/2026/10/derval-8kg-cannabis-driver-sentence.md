@@ -19,6 +19,16 @@ figures:
   arrested: 1
   kg_seized: 8
   prison: 3 years 2 months
+details:
+  agency_types: [gendarmerie]
+  case_stage: sentenced
+  sentence_types: [probation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [derval, gendarmerie, courier]

@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 102
+details:
+  case_stage: charged
+  products: [{product: hashish, kg: 102}]
+data_sources:
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [raseiniai, kaunas, first-report]

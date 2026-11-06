@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 5.71
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 5.71}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kaup, udupi, beach, trafficking]

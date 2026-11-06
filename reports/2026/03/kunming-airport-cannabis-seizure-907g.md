@@ -14,6 +14,12 @@ summary: >-
   suitcase. The material weighed 907.4 g net, and customs opened a criminal case.
 figures:
   kg_seized: 0.9074
+details:
+  agency_types: [customs]
+  setting: [airport]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://static.cdsb.com/micropub/Articles/202603/11ae08b15de8aabf42f78922792cc253.html

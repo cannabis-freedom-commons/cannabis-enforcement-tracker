@@ -17,6 +17,12 @@ figures:
   value:
     amount: 10000000
     currency: XAF
+details:
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: eea4957443de1d3a07c5e5c0cbb87e12

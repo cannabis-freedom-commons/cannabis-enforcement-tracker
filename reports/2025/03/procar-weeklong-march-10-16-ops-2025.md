@@ -20,6 +20,12 @@ figures:
   plants_destroyed: 129720
   value: { amount: 30345953.20, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 35.01613}, {product: plants, plants: 129720}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [cordillera, pro-car, weeklong-operations]
 open_questions:

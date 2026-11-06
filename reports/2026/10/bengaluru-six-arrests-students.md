@@ -20,6 +20,14 @@ figures:
   arrested: 6
   kg_seized: 9.89
   value: { amount: 652000, currency: INR }
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 9.89}]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bengaluru, students, mdma, ndps]

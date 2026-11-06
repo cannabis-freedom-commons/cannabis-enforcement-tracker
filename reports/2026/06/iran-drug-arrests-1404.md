@@ -11,6 +11,14 @@ summary: >-
   connected to drug offences were arrested in the Iranian year 1404, which ended in March 2026. It
   said seizures rose about 3% from 1403 but gave no cannabis breakdown.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: iran-drug-arrests-1404
 sources:

@@ -14,6 +14,12 @@ summary: >-
   U.S. Park Police arrested 10 people in a search-warrant raid near Mellon Street SE in Southeast Washington, seizing marijuana plus cocaine, PCP, fentanyl and MDMA. Officers also recovered 10 firearms; no separate cannabis weight and no charges were disclosed.
 figures:
   arrested: 10
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 239bc1599031cbc34b27dcc80bdd46c0

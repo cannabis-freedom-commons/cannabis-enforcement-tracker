@@ -16,6 +16,14 @@ summary: >-
 figures:
   plants_destroyed: 1207
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 1207}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [crete, helicopter]
 open_questions:

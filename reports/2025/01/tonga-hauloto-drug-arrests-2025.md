@@ -12,6 +12,14 @@ summary: >-
   methamphetamine; in the second, two packs of cannabis weighing 1.54 g and 27 packs of
   methamphetamine.
 created_by_model: unknown
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: tonga-hauloto-drug-arrests-2025
 sources:

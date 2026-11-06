@@ -22,6 +22,20 @@ figures:
   arrested: 1
   plants_destroyed: 102
   kg_seized: 50.03
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  environment: [greenhouse]
+  products: [{product: plants, plants: 102}]
+  setting: [field, home]
+data_sources:
+  details.activity: [1, 7, 2, 3, 4, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.environment: [1, 2, 3, 4, 5, 6]
+  details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1319963/man-held-for-growing-marijuana-in-greenhouses/

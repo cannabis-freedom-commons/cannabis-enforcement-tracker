@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 500
+details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 500}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/2552665-diyarbakirda-500-kilogram-esrar-ele-gecirildi

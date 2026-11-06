@@ -18,6 +18,18 @@ figures:
   plants_destroyed: 6874
   prison: 24 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [possession]
+  case_stage: investigation
+  environment: [outdoor]
+  products: [{product: flower}]
+  setting: [forest, prison]
+data_sources:
+  details.activity: [3]
+  details.case_stage: [1, 3]
+  details.environment: [2, 3, 1]
+  details.products: [3, 2, 1]
+  details.setting: [3]
 status: verified
 tags: [public-lands, boise-national-forest]
 sources:

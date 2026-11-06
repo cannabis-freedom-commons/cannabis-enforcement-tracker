@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.0038
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1, 3, 4, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f873c29ba6741def6fbb95087f7c9929

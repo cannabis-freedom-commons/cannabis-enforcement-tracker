@@ -15,6 +15,14 @@ summary: >-
   oils, edibles and cash, and laid trafficking and proceeds-of-crime charges.
 figures:
   arrested: 9
+details:
+  activity: [trafficking, possession]
+  agency_types: [police, prosecutor]
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ottawa, dispensaries]

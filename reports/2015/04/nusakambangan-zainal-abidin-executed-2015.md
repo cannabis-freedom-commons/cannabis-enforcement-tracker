@@ -17,6 +17,20 @@ summary: >-
 figures:
   deaths: 1
   kg_seized: 58.7
+details:
+  activity: [smuggling]
+  agency_types: [police, court]
+  case_stage: executed
+  products: [{product: flower, kg: 58.7}]
+  sentence_types: [death]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
+  details.products: [1, 2, 3, 4]
+  details.sentence_types: [1, 2, 3, 4]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mandatory-death-penalty, firing-squad, nusakambangan]

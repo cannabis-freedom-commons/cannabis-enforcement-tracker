@@ -20,6 +20,12 @@ figures:
   value:
     amount: 45900000
     currency: INR
+details:
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [chhattisgarh, ganja, ndps]

@@ -17,6 +17,12 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 0.31445
+details:
+  activity: [trafficking]
+  case_stage: charged
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [ilala, retrial, acquittal-overturned]

@@ -13,6 +13,18 @@ summary: >-
   San Juan Drugs Division officers arrested seven men and a woman in housing projects in Puerto Nuevo and Río Piedras, seizing 192 bags and 15 containers of marijuana alongside other drugs. The 29 April 2016 operation also recovered cocaine, heroin and crack in separate finds across several residenciales.
 figures:
   arrested: 8
+details:
+  activity: [possession]
+  agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 65d34dc58dba777db09712566fa550c1

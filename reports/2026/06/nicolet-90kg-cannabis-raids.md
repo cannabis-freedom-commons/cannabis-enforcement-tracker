@@ -17,6 +17,16 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 90
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 90}, {product: plants}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.lecourriersud.com/faits-divers/operation-antidrogue-a-nicolet-quatre-individus-arretes/

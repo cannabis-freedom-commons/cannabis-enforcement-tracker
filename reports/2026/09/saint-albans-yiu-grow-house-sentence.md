@@ -15,6 +15,18 @@ summary: >-
 figures:
   charged: 1
   prison: 1 day (time served)
+details:
+  agency_types: [prosecutor]
+  case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [prison]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: openai/gpt-6.1-sol#xhigh
 tags: [maine, bangor, saint-albans, grow-house, mortgage-fraud, federal-court]

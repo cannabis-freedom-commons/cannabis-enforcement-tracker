@@ -16,6 +16,16 @@ figures:
   charged: 1
   kg_seized: 0.5
   prison: 18 months suspended with probation
+details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  sentence_types: [probation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bf5aa0acb5f9a102b0f4e042f3b46fb1

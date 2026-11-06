@@ -16,6 +16,14 @@ summary: >-
 figures:
   deaths: 2
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  force: lethal
+  setting: [home]
+data_sources:
+  details.agency_types: [3, 1, 2]
+  details.force: [3, 1, 2]
+  details.setting: [3]
 status: verified
 tags: [napier-siege, cannabis-warrant]
 open_questions:

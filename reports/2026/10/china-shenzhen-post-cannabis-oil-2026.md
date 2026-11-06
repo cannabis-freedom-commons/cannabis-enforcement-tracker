@@ -11,6 +11,14 @@ type: seizure
 title: Shenzhen Customs seize cannabis oil in a 1,153 g glass bottle
 summary: >-
   Customs officers in Shenzhen found THC-positive oil in a transfer parcel. The bottle and liquid weighed 1,153.1 g gross, and the case went to customs anti-smuggling investigators.
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.thepaper.cn/newsDetail_forward_34313401

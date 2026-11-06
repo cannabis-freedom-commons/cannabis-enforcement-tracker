@@ -12,6 +12,16 @@ summary: >-
   The Peja Basic Prosecution filed an indictment on 30 September 2026 against nine people accused of
   running cannabis plantations in Kliqinë and Sverkë, in Peja municipality. Police seized 2,850
   plants and more than 1,035 kg of cannabis in a September 2024 raid.
+details:
+  activity: [cultivation, possession]
+  agency_types: [police, prosecutor]
+  case_stage: charged
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
 tags: [peja, kliqine, sverke, prosecution, albania]

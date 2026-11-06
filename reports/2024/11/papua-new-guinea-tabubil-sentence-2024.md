@@ -12,6 +12,14 @@ summary: >-
   12 October 2024 and pleaded guilty; 25 days in pre-trial custody were deducted. Police put the
   street value at K20,000–30,000.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: papua-new-guinea-tabubil-sentence-2024
 sources:

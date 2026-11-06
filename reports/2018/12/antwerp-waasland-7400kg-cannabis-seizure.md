@@ -15,6 +15,12 @@ figures:
   value:
     amount: 59000000
     currency: EUR
+details:
+  agency_types: [customs]
+  setting: [port]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 50864a3d9236d804c31a3375b10f1926

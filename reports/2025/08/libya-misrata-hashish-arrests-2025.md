@@ -11,6 +11,12 @@ summary: >-
   trafficking, finding hashish, hallucinogenic pills and cash, according to a statement by the
   monitoring group Migrant Rescue Watch. The case was referred to the public prosecution.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: libya-misrata-hashish-arrests-2025
 sources:

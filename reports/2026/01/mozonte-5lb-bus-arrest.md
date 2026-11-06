@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 2.27
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 2.27}]
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.tn8.ni/sucesos/golpe-al-narcotrafico-detenidos-transportando-marihuana-en-nueva-segovia/

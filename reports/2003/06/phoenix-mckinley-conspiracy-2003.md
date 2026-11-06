@@ -18,6 +18,16 @@ summary: >-
 figures:
   kg_seized: 680
   arrested: 4
+details:
+  activity: [smuggling]
+  agency_types: [police]
+  products: [{product: flower, kg: 680}]
+  setting: [home, building, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [phoenix-pd, conspiracy, mccardinals]

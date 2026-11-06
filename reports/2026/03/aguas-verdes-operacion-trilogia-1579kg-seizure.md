@@ -15,6 +15,14 @@ figures:
   value:
     amount: 3198750
     currency: USD
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police, prosecutor]
+  products: [{product: flower, kg: 1579.5}]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.infobae.com/peru/2026/03/25/policia-de-peru-y-ecuador-incauta-mas-de-15-toneladas-de-marihuana-en-frontera-mafia-colombiana-escondia-droga-en-vigas-de-acero/

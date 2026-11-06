@@ -15,6 +15,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.0113
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e8edcc4c3090a4f621dc44df01a1be8a

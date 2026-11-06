@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 89
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [anti-narcotics, police]
+  products: [{product: flower}, {product: plants, plants: 89}]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.products: [2, 1]
 media:
   - kind: photo
     url: https://www.khmertimeskh.com/15581/man-held-over-cannabis-farm/

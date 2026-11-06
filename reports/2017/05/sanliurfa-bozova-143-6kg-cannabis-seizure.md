@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 143.6
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [police, court]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.setting: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: a199134a2291b0cd9033410784e13514

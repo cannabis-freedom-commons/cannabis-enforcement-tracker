@@ -13,6 +13,18 @@ summary: >-
   30 May 2007 on three marijuana cultivation and conspiracy charges at his
   retrial, after the 2003 verdict was overturned over juror misconduct. He faced
   no further punishment beyond the single day in jail already served.
+details:
+  activity: [cultivation]
+  agency_types: [prosecutor]
+  case_stage: acquitted
+  products: [{product: flower}, {product: plants}]
+  setting: [home, building, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [oakland, medical-marijuana, federal]

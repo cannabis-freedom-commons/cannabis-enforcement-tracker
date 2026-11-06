@@ -15,6 +15,14 @@ figures:
   arrested: 1
   plants_destroyed: 55
   kg_seized: 3
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [gendarmerie]
+  products: [{product: plants, plants: 55}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 928489b6b9a561de0e68963fc19b6c5b

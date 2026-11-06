@@ -17,6 +17,14 @@ figures:
   value:
     amount: 1100000
     currency: USD
+details:
+  activity: [smuggling]
+  agency_types: [coast-guard, military, police]
+  products: [{product: flower, kg: 553.38}]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.dvidshub.net/news/112992/operation-bahamas-turks-and-caicos-seizes-1220-pounds-marijuana-caribbean

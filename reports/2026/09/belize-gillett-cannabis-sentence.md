@@ -18,6 +18,18 @@ figures:
   kg_seized: 1.295
   prison: 1 year 9 months (suspended for 2 years)
   fine: { amount: 6000, currency: BZD }
+details:
+  activity: [possession]
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [fine]
+  setting: [vehicle, home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.breakingbelizenews.com/2026/09/29/evan-gillett-fined-6000-for-almost-3lbs-of-weed-pleads-guilty-so-father-in-law-isnt-charged/

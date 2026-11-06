@@ -18,6 +18,18 @@ figures:
   kg_seized: 21
   prison: 36 months
 created_by_model: cursor/composer-2.5
+details:
+  activity: [smuggling]
+  agency_types: [customs, prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [suspended]
+  setting: [airport, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [brussels-airport, customs, thailand]
 open_questions:

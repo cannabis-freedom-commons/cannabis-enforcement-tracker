@@ -16,6 +16,14 @@ figures:
   value:
     amount: 300000000
     currency: COP
+details:
+  agency_types: [military, anti-narcotics, police]
+  products: [{product: flower, kg: 1564}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.rtvcnoticias.com/justicia/seguridad-y-orden/incautan-mas-de-una-tonelada-de-marihuana-que-iba-rumbo-ecuador

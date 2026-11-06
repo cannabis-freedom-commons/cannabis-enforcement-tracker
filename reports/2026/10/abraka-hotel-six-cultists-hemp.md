@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 6
 created_by_model: meta/muse-spark
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 tags: [abraka, delta-state, cultism]
 open_questions:

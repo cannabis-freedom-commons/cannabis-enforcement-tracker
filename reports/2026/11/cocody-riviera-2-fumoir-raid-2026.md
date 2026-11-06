@@ -13,6 +13,10 @@ summary: >-
   Abidjan's GRAD Special unit dismantled a drug den at Riviera 2 in Cocody on 2 November 2026 and arrested six people. Officers seized six cannabis blocks and 29 sachets holding 290 wraps and then completely destroyed the site under Operation Epervier 12.
 figures:
   arrested: 6
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.linfodrome.com/societe/127173-cocody-290-pochons-de-cannabis-decouverts-dans-un-fumoir-a-riviera-2

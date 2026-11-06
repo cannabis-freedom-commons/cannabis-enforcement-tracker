@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 1090
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: plants, plants: 1090}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e90d1c93909b53096867b08f130d303b

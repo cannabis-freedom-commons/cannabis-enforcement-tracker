@@ -14,6 +14,12 @@ summary: >-
   Tuanikopey Island near Ada on 17 September 2026, finding 29 sacks holding 2,213 slabs
   of suspected Indian hemp. The occupants fled on sighting the patrol, and no arrests
   have been reported.
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [indian-hemp, river-volta, marine-police, ada, slabs]

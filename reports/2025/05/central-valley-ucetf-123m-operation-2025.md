@@ -18,6 +18,12 @@ figures:
   kg_seized: 10005
   value: { amount: 123500000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  case_stage: investigation
+  products: [{product: plants, plants: 105700}]
+data_sources:
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [ucetf, central-valley, unlicensed-cultivation, environmental-harm]
 open_questions:

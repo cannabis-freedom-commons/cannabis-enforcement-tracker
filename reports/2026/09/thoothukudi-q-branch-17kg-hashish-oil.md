@@ -18,6 +18,16 @@ figures:
   value:
     amount: 170000000
     currency: INR
+details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 17}, {product: oil}]
+data_sources:
+  details.activity: [1, 4, 2]
+  details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [1]
+  details.products: [1, 4, 2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [hashish-oil, thoothukudi, tamil-nadu, maldives, ndps]

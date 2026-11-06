@@ -17,6 +17,12 @@ figures:
   value:
     amount: 700000
     currency: EUR
+details:
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [4]
+  details.setting: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.ekathimerini.com/news/1312577/police-break-gang-that-smuggled-albanian-marijuana-to-turkey-in-waste/

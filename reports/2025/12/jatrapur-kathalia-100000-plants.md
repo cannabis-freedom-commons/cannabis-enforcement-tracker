@@ -14,6 +14,14 @@ summary: >-
   Tripura, on 23 December 2025.
 figures:
   plants_destroyed: 100000
+details:
+  agency_types: [anti-narcotics, police]
+  products: [{product: plants, plants: 100000}]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://neherald.com/tripura/large-scale-ganja-plantation-destroyed-in-sepahijala-district

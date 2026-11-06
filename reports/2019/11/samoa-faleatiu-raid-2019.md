@@ -12,6 +12,18 @@ summary: >-
   million at ST$1,000 a plant. The area had been raided in 2015 and 2016, and officers reported guns
   being pointed at them.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants}]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: samoa-faleatiu-raid-2019
 sources:

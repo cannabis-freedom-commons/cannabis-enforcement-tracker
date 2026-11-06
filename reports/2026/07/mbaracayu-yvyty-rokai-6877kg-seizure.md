@@ -12,6 +12,16 @@ summary: >-
   Paraguayan forces seized 6,877 kg of pressed marijuana stored near Lake Itaipu in Mbaracayú, Alto Paraná, for shipment to Brazil; those guarding it fled and no arrests were made. The Navy moved the 299 packages to its Ciudad del Este base under an anti-drug prosecutor's orders while the investigation continues.
 figures:
   kg_seized: 6877
+details:
+  activity: [cultivation]
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 6877}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 53247bcd7bda7cf58f53fb63126feb0f

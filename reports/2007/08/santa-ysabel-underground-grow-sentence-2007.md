@@ -20,6 +20,16 @@ figures:
   plants_destroyed: 454
   prison: 5 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  case_stage: sentenced
+  products: [{product: flower}, {product: plants, plants: 454}]
+  sentence_types: [prison, deportation]
+  setting: [home, prison]
+data_sources:
+  details.case_stage: [3]
+  details.products: [3, 2]
+  details.sentence_types: [3, 1, 2]
+  details.setting: [2, 3, 1]
 status: verified
 tags: [underground-grow, tunnel, forfeiture, deportation]
 open_questions:

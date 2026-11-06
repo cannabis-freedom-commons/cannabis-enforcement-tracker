@@ -17,6 +17,12 @@ figures:
   value:
     amount: 80000000
     currency: XOF
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1, 3, 4, 5]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2025/09/28/afrique/societe/burkina-faso-plus-dune-demi-tonne-de-chanvre-indien-saisi-a-kaya-et-ouagadougou_190602.html

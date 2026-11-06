@@ -19,6 +19,14 @@ figures:
   plants_destroyed: 75
   kg_seized: 0.724
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 75}]
+  setting: [forest, home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [kutarayat, naman-teran, karo, north-sumatra, protected-forest, cultivation]
 sources:

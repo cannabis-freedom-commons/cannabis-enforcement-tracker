@@ -17,6 +17,10 @@ figures:
   arrested: 4
   kg_seized: 176
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 tags: [jakarta, syndicate]
 sources:

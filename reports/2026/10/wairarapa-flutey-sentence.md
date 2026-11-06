@@ -16,6 +16,16 @@ figures:
   arrested: 1
   charged: 1
   prison: 10 years and five months
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.1news.co.nz/2026/10/31/wairarapa-drug-kingpins-prison-sentence-a-major-blow-to-organised-crime/

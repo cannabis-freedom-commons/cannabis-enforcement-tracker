@@ -15,6 +15,18 @@ summary: >-
 figures:
   deaths: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  force: lethal
+  products: [{product: flower}, {product: plants}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.force: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2]
 status: verified
 tags: [durham, code-enforcement, swat]
 sources:

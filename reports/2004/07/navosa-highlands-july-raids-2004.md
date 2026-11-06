@@ -11,6 +11,14 @@ summary: >-
   uprooted 1,819 cannabis plants in one raid and 2,335 in another. Growers
   fought back by strewing nails across roads, blowing out police vehicle
   tires. No arrests were named in the opened source.
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [navosa, resistance]

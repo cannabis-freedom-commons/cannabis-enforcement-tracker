@@ -19,6 +19,14 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 1.63
+details:
+  activity: [sale]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [dci, kisii, kitui, kajiado, trafficking]

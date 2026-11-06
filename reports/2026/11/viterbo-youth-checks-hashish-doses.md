@@ -14,6 +14,10 @@ summary: >-
   Viterbo police identified 155 young people and reported eight, including two minors, during national youth-crime checks in shopping centres and nightlife areas. Officers seized a knife and some hashish doses dealt with as an administrative offence, while national police reported 174.8 kg of cannabinoids seized across Italy.
 figures:
   charged: 8
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 623f8c60dd1d42dcc17ab17aa655fb4d

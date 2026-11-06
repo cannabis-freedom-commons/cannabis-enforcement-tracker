@@ -12,6 +12,12 @@ summary: >-
   belonged to outlaw groups operating in the province and that the operation was run with the
   Internal Security Command in the Badia. The announcement gave no arrest figure.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: syria-sweida-hashish-2026
 sources:

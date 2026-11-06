@@ -16,6 +16,16 @@ figures:
   plants_destroyed: 350
   kg_seized: 150
   hectares: 2
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 350}]
+  setting: [field, forest]
+data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 media:
   - kind: photo
     url: https://atjehwatch.com/2026/11/02/nyan-polres-pidie-musnahkan-2-hektar-ladang-ganja-di-tangse-350-batang-disita/

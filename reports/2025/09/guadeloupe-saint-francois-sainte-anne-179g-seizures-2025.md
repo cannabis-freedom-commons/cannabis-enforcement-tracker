@@ -13,6 +13,14 @@ summary: >-
   Gendarmes raided a known dealing spot on rue de la Liberté in Saint-François and a street in Sainte-Anne on 17 September 2025, seizing 179.39 grams of cannabis in total alongside cocaine and crack. No arrests were reported in the accounts of the operations.
 figures:
   kg_seized: 0.17939
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+  products: [{product: flower, kg: 0.17939}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/guadeloupe/grande-terre/operations-antidrogue-en-guadeloupe-les-gendarmes-saisissent-cannabis-cocaine-et-crack-a-saint-francois-et-sainte-anne-1623959.html

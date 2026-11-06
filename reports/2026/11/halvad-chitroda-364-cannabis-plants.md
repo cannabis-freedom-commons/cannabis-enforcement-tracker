@@ -18,6 +18,16 @@ figures:
   value:
     amount: 1652500
     currency: INR
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: plants, plants: 364}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://morbiupdate.com/2026/11/03/364-cannabis-plants-cultivated-under-the-guise-of-a-castor-crop-seized-in-chitroda-village-of-halvad

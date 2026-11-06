@@ -14,6 +14,18 @@ summary: >-
   Bintang, on 8 September 2026.
 figures:
   plants_destroyed: 1347
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 1347}]
+  setting: [forest]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.antaranews.com/berita/5731804/tni-temukan-1347-batang-ganja-di-hutan-pegunungan-bintang

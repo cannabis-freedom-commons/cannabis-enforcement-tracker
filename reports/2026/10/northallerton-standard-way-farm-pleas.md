@@ -21,6 +21,12 @@ figures:
   value:
     amount: 1000000
     currency: GBP
+details:
+  agency_types: [police]
+  setting: [building]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: unknown
 tags: [northallerton, cultivation, guilty-plea, york-crown-court]

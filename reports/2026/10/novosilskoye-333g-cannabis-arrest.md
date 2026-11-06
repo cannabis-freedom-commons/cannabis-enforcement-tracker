@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.3332
+details:
+  agency_types: [anti-narcotics, police]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.3332}]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [2, 3, 1, 4]
+  details.case_stage: [1, 3, 2, 4]
+  details.products: [2, 3, 1, 4]
+  details.setting: [2, 3, 1, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: d5cf59e2536363722419b4ffa6bc47f6

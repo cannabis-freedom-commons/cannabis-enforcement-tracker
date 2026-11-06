@@ -16,6 +16,12 @@ figures:
   arrested: 5
   charged: 5
   kg_seized: 73.698
+details:
+  activity: [trafficking, cultivation, sale]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://vietnamnews.vn/society/1799747/nearly-74kg-of-cannabis-uncovered-in-drug-bust-in-northern-province.html

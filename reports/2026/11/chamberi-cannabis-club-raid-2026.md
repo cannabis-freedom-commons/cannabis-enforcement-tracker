@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2.7
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 2.7}, {product: flower}]
+data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
+  details.products: [1, 3, 2, 4]
 media:
   - kind: video
     url: https://www.epe.es/es/madrid/20261103/desmantelan-soci-cannabis-chamberi-funcionaba-136026687

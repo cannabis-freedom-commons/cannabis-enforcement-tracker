@@ -14,6 +14,12 @@ summary: >-
 figures:
   plants_destroyed: 191
   kg_seized: 320
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b82fe33f200d430cfe9f8a9e50c4c28d

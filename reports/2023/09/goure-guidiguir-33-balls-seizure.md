@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 17.049
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 64fb14caf3d30d577ff0469470b4c0b1

@@ -12,6 +12,10 @@ summary: >-
   government appointed the Cannabis Regulatory Authority. They were enforcement, not a change in the
   law.
 created_by_model: unknown
+details:
+  setting: [field]
+data_sources:
+  details.setting: [1]
 status: verified
 cfi_id: lebanon-army-bekaa-raids-2025
 tags:

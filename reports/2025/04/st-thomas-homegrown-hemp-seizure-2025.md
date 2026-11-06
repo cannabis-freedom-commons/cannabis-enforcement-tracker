@@ -15,6 +15,10 @@ figures:
   value:
     amount: 18000
     currency: USD
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 12b27e1ed718aab03c8a00e99fae4c98

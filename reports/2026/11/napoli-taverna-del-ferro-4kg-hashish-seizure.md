@@ -36,11 +36,13 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
+  sentence_types: [fine]
 data_sources:
   details.activity: [1, 3, 2, 4, 5]
   details.agencies: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
+  details.sentence_types: [5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 999b40f3f5dd262164cb5771905dd76e

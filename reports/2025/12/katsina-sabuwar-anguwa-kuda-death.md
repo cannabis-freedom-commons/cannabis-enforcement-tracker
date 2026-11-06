@@ -18,6 +18,12 @@ figures:
   arrested: 1
   deaths: 1
 created_by_model: meta/muse-spark
+details:
+  agency_types: [police]
+  force: lethal
+data_sources:
+  details.agency_types: [1, 2]
+  details.force: [1, 2]
 status: verified
 tags: [katsina, police-shooting]
 open_questions:

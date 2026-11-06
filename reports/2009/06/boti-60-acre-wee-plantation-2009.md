@@ -17,6 +17,14 @@ figures:
   arrested: 4
   hectares: 24.28
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [yilo-krobo, indian-hemp]
 open_questions:

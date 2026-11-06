@@ -25,11 +25,13 @@ details:
   activity: [cultivation]
   agencies: [int-interpol]
   agency_types: [police]
+  environment: [greenhouse]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.environment: [1, 3]
   details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

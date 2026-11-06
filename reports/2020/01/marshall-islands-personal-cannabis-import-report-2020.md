@@ -12,6 +12,12 @@ summary: >-
   personal use to relieve back pain. Chief Justice Carl Ingram approved the plea agreement,
   which included probation conditions restricting travel outside Majuro.
 created_by_model: unknown
+details:
+  products: [{product: flower}]
+  sentence_types: [suspended, probation]
+data_sources:
+  details.products: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: marshall-islands-personal-cannabis-import-report-2020
 tags:

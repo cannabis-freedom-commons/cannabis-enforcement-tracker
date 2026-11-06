@@ -23,6 +23,18 @@ figures:
   kg_seized: 0.853
   charged: 1
 created_by_model: claude-apollo-4-8
+details:
+  activity: [trafficking]
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [mail, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 tags: [rhodes, dodecanese, courier-parcel, appeal-pending]
 open_questions:

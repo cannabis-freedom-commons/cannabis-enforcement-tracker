@@ -11,6 +11,12 @@ summary: >-
   destroyed about 500 farms and seized more than 30,000 packages of cannabis and 54,000 pieces of
   hashish. An armed group ambushed them and two officers were wounded.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: sudan-radom-campaign-2017
 tags:

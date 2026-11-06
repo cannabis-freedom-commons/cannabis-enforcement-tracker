@@ -19,6 +19,16 @@ figures:
   plants_destroyed: 58920
   kg_seized: 612.4
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  case_stage: investigation
+  products: [{product: flower, kg: 612.4}, {product: plants, plants: 58920}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [octf, tulsa, claremore, straw-ownership]
 open_questions:

@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 341
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 341}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [dhankuta, bhedetar, trafficking]

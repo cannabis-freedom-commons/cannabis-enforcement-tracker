@@ -19,6 +19,14 @@ figures:
   arrested: 11
   kg_seized: 36.23
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: appeal
+  products: [{product: flower, kg: 36.23}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 tags: [meth, police-operation]
 sources:

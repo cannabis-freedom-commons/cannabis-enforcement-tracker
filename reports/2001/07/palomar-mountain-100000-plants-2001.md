@@ -14,6 +14,12 @@ summary: >-
   finds by 20 July took the site total past 100,000 plants with no arrests.
 figures:
   plants_destroyed: 100000
+details:
+  activity: [cultivation]
+  products: [{product: flower}, {product: plants, plants: 100000}]
+data_sources:
+  details.activity: [2, 1]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [palomar-mountain, san-diego-county]

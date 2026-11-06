@@ -16,6 +16,12 @@ summary: >-
   a woman were detained.
 figures:
   kg_seized: 76
+details:
+  case_stage: investigation
+  products: [{product: flower, kg: 76}]
+data_sources:
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [operation-kingfish, downtown-kingston]

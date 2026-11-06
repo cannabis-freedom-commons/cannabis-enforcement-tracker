@@ -13,6 +13,12 @@ summary: >-
   Navy personnel with Excise officers arrested a 61-year-old Kalmunaikudi resident in Kalmunai on 3 November 2026. They seized over 6kg of cannabis-mixed tobacco known as Mukku Thool in 94 packets prepared for sale and handed the case to the Kalmunai Excise office.
 figures:
   arrested: 1
+details:
+  activity: [sale]
+  agency_types: [military]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://news.navy.lk/operations-news/2026/november/suspect-nabbed-with-cannabis-mixed-tobacco-product-in-kalmunai.html

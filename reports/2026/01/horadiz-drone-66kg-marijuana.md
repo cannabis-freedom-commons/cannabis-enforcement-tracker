@@ -16,6 +16,12 @@ summary: >-
   trying to identify those behind the smuggling attempt.
 figures:
   kg_seized: 6.6
+details:
+  activity: [smuggling]
+  products: [{product: flower, kg: 6.6}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [horadiz, drone, iran-border]

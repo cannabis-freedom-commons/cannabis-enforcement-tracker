@@ -18,6 +18,10 @@ figures:
   arrested: 2
   kg_seized: 22
 created_by_model: unknown
+details:
+  products: [{product: hashish, kg: 22}, {product: flower}]
+data_sources:
+  details.products: [1]
 status: verified
 tags: [baalbek]
 sources:

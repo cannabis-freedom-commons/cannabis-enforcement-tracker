@@ -13,6 +13,12 @@ summary: >-
   imprisonment or the death penalty abroad, although Thailand itself has no death penalty for
   cannabis.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: thailand-export-seizures-2026
 sources:

@@ -15,6 +15,12 @@ summary: >-
   as proof of resolve against drugs and alcohol.
 figures:
   kg_seized: 371
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 371}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [aceh, incineration]

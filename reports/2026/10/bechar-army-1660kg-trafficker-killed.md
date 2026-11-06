@@ -17,6 +17,14 @@ summary: >-
 figures:
   deaths: 1
   kg_seized: 1660
+details:
+  activity: [trafficking]
+  agency_types: [military]
+  force: lethal
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.force: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bechar, army, kif, border, trafficking]

@@ -16,6 +16,14 @@ figures:
   charged: 2
   kg_seized: 20
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  sentence_types: [death]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 tags: [acquittal, death-penalty, putrajaya, indonesian-nationals]
 sources:

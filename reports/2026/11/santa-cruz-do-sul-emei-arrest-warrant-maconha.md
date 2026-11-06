@@ -13,7 +13,16 @@ summary: >-
   Guarda Municipal officers arrested a 24-year-old man wanted by the 2ª Vara Criminal in Santa Cruz do Sul on the morning of 5 November 2026 after a school video surveillance system identified him near an Emei. A search found a small portion of marijuana in a cigarette packet, and he was taken to the regional prison.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.products: [1, 2]
+  details.setting: [2, 1]
   figures.arrested: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -20,11 +20,13 @@ created_by_model: unknown
 details:
   agencies: [ca-rcmp]
   agency_types: [police]
+  force: shots-fired
   products: [{product: flower}, {product: plants}]
   setting: [vehicle, home]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.force: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

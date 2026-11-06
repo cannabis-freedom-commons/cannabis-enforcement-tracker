@@ -19,6 +19,18 @@ figures:
   fine:
     amount: 100000
     currency: MVR
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [life]
+  setting: [home, prison]
+data_sources:
+  details.activity: [3, 1]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3]
+  details.sentence_types: [1, 3]
+  details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 23e15a81416f2aea9045f694f351b067

@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  environment: [wild]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
 media:
   - kind: photo
     url: https://tvatv.ru/news/proisshestviya/84725-v-buryatii-sdayut-travokurov/

@@ -19,6 +19,14 @@ figures:
   arrested: 3
   hectares: 1.3
 created_by_model: spacexai/grok-4.7
+details:
+  activity: [cultivation]
+  agency_types: [police, prosecutor]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [menznau, lucerne]
 open_questions:

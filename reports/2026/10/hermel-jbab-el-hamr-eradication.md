@@ -21,6 +21,10 @@ figures:
   hectares: 18
   kg_seized: 60000
 created_by_model: unknown
+details:
+  agency_types: [military]
+data_sources:
+  details.agency_types: [1, 2]
 status: reported
 tags:
   - hermel

@@ -17,6 +17,16 @@ figures:
   arrested: 4
   value: { amount: 2000000000, currency: JPY }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [possession, sale]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants}]
+  setting: [building]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [factory-grow]
 open_questions:

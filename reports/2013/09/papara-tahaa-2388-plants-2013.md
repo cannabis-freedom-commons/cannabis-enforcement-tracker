@@ -13,6 +13,16 @@ summary: >-
   Gendarmes found and seized cannabis plants in Papara on Tahiti and on Taha'a on 9 September 2013, counting 2,388 in all. Three men in Papara were questioned and summoned to court, while no owner had yet been identified for the two Taha'a plantations, whose 1,800 plants were burned.
 figures:
   plants_destroyed: 2388
+details:
+  activity: [cultivation]
+  agency_types: [gendarmerie, police, prosecutor]
+  products: [{product: plants, plants: 2388}]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 312dc57e9cb86e5f22a361af35f59b4c

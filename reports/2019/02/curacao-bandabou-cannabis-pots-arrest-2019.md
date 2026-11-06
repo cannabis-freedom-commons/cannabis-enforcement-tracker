@@ -13,6 +13,16 @@ summary: >-
   Coast Guard units detained 12 undocumented Venezuelans and found a potted cannabis plantation during a search on Bándabou on 23 February 2019. A person arrested over the plantation has been released, and the KPC police are investigating both cases.
 figures:
   arrested: 1
+details:
+  activity: [cultivation]
+  agency_types: [customs, coast-guard, police]
+  case_stage: investigation
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a38a721cd20d9c2cbc90cb5ee7b22a34

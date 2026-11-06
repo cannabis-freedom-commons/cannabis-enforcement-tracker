@@ -11,6 +11,12 @@ also: [raid, prosecution]
 title: Mauritius FCC seizes two speedboats in 155.7 kg Réunion zamal case
 summary: >-
   Mauritius's Financial Crimes Commission seized two speedboats at suspect Ravindra Chimajee's home on 7 September 2026 in the investigation into a failed 155.7 kg cannabis shipment from Bras-Panon, Réunion, to Mauritius. The boats, documents and satellite phones were taken to the FCC headquarters for forensic examination.
+details:
+  agency_types: [gendarmerie, police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/reunion/ile-maurice-deux-hors-bord-utilises-pour-importer-du-zamal-de-la-reunion-saisis-1736375.html

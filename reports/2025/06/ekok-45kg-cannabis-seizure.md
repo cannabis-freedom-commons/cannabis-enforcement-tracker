@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 45
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 3, 2]
 media:
   - kind: photo
     url: https://www.investiraucameroun.com/gestion-publique/2506-22171-trafic-la-douane-camerounaise-effectue-un-saisie-record-de-45-kg-de-cannabis-en-provenance-du-nigeria

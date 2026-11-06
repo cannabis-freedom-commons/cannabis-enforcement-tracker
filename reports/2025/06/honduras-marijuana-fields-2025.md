@@ -11,6 +11,14 @@ summary: >-
   plants so far in 2025, beside 37 coca plantations with more than 770,000 bushes. The latest
   marijuana field, at Tocoa in Colón, held about 36,000 plants on eight manzanas.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  products: [{product: flower}]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: honduras-marijuana-fields-2025
 tags:

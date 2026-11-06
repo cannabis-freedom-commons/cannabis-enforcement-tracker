@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.06
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 411eb62ce2ce41f333625333e4187bfa

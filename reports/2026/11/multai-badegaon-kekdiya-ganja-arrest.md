@@ -17,6 +17,14 @@ figures:
   value:
     amount: 220000
     currency: INR
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants}]
+data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.betulupdate.com/multai-police-action-illegal-ganja-farming/

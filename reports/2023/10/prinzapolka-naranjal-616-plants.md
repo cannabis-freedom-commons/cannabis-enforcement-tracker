@@ -15,6 +15,16 @@ figures:
   arrested: 1
   plants_destroyed: 616
   kg_seized: 0.68
+details:
+  activity: [cultivation, sale]
+  agency_types: [military]
+  products: [{product: flower, kg: 0.68}, {product: plants, plants: 616}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 3, 2]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.el19digital.com/articulos/ver/titulo:145462-ejercito-de-nicaragua-realizo-la-incautacion-de-616-plantas-de-marihuana

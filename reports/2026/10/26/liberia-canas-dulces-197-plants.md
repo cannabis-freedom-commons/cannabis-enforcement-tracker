@@ -19,6 +19,14 @@ figures:
   plants_destroyed: 197
   kg_seized: 50
   arrested: 1
+details:
+  activity: [cultivation]
+  agency_types: [border-guard, anti-narcotics, police, prosecutor]
+  products: [{product: flower, kg: 50}, {product: plants, plants: 197}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [liberia, guanacaste, border-police, nursery]

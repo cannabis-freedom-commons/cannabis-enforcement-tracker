@@ -19,6 +19,18 @@ figures:
   deaths: 1
   arrested: 9
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [1, 2]
+  details.case_stage: [2]
+  details.products: [1, 2]
+  details.setting: [2]
 status: verified
 tags: [raid-death, long-island]
 open_questions:

@@ -11,6 +11,12 @@ summary: >-
   in 2023/24, two in 2024/25 and seven in 2025/26 by April. Two men were shot in Kathmandu and
   Rupandehi on 7 April 2026, and 11 of those shot or arrested in the cases were Indian nationals.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: nepal-police-shootings-2026
 sources:

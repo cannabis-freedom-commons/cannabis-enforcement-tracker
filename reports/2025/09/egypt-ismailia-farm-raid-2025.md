@@ -12,6 +12,12 @@ summary: >-
   billion Egyptian pounds. One suspect was found with 90 kg of hashish and 10 kg of hydro, and
   firearms were seized.
 created_by_model: unknown
+details:
+  products: [{product: hashish}]
+  setting: [prison]
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: egypt-ismailia-farm-raid-2025
 sources:

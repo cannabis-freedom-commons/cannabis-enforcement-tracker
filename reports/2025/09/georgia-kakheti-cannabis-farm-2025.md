@@ -12,6 +12,14 @@ summary: >-
   suspects also turned up 3.3 kilograms of dried marijuana already packaged, drying equipment and
   digital scales.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor]
+  case_stage: charged
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: georgia-kakheti-cannabis-farm-2025
 sources:

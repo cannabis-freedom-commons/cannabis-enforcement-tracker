@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 4
   kg_seized: 94
+details:
+  activity: [trafficking]
+  case_stage: investigation
+  products: [{product: flower, kg: 94}]
+  setting: [border, home]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/busqueda-implacable-prefectura-secuestro-mas-de-100-kilos-de-marihuana-y-detuvo-cuatro

@@ -20,6 +20,18 @@ figures:
   prison: 12 months
   fine: { amount: 100000, currency: XAF }
 created_by_model: swancloud/grok-4.7-free
+details:
+  activity: [possession]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [fine]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [2, 1, 3]
+  details.sentence_types: [2, 1, 3]
+  details.setting: [2, 1]
 status: verified
 tags: [mouila, prison-officer, court-seals, ocad]
 open_questions:

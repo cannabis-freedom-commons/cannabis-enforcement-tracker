@@ -13,6 +13,12 @@ summary: >-
   from Aiseia. Officers found marijuana in bags and containers, methamphetamine, crack and $1,109 in
   cash.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: marshall-islands-aiseia-marijuana-charges-2024
 sources:

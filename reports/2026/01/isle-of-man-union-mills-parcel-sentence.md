@@ -20,6 +20,14 @@ figures:
   value: { amount: 81150, currency: GBP }
   prison: 22 months suspended for 2 years
 created_by_model: command-code/deepseek-v4.1-flash#max
+details:
+  agency_types: [police, court]
+  sentence_types: [prison]
+  setting: [vehicle, mail, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [isle-of-man, post-office, importation, suspended-sentence]
 open_questions:

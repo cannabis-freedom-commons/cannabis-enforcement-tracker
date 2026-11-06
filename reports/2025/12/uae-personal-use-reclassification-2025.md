@@ -12,6 +12,14 @@ summary: >-
   court found no evidence of promotion, negotiation or delivery, and said the investigation did not
   explain why police had concluded he was trading.
 created_by_model: unknown
+details:
+  agency_types: [police, court]
+  sentence_types: [deportation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: uae-personal-use-reclassification-2025
 sources:

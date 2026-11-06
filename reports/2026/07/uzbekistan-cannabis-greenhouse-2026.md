@@ -12,6 +12,12 @@ summary: >-
   separate case in Tashkent, a previously convicted man was stopped with 1.994 kg of hashish said to
   have been smuggled from a neighbouring country. Criminal cases were opened in both.
 created_by_model: unknown
+details:
+  activity: [smuggling, sale]
+  products: [{product: hashish}, {product: plants}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: uzbekistan-cannabis-greenhouse-2026
 sources:

@@ -16,6 +16,12 @@ figures:
   value:
     amount: 20000000
     currency: XPF
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d3f83a2f906dab057db07527731ff79b

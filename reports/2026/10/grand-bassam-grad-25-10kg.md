@@ -18,6 +18,14 @@ figures:
   arrested: 2
   kg_seized: 25.1
 created_by_model: command-code/deepseek/deepseek-v4.1-flash#max
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [port]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [grad, grand-bassam, epervier, port-autonome-abidjan]
 open_questions:

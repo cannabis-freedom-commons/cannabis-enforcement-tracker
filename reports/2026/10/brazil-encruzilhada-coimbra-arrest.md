@@ -14,6 +14,18 @@ summary: >-
   Brigada Militar shock-battalion patrols arrested a man for drug trafficking and illegal gun possession in Bairro Coimbra, Encruzilhada do Sul, on 30 October 2026. Officers seized a 9mm pistol with its serial number removed, 87 portions of marijuana, 33 of cocaine, ammunition, a scale, a phone and cash.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://portalarauto.com.br/31-10-2026/batalhao-de-choque-apreende-pistola-municoes-cocaina-e-maconha-em-encruzilhada/

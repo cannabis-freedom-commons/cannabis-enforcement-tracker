@@ -16,6 +16,14 @@ figures:
   kg_seized: 474
   value: { amount: 142120000, currency: JMD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 474}]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [morant-bay, st-thomas]
 open_questions:

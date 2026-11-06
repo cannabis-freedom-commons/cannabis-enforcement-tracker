@@ -12,6 +12,10 @@ summary: >-
   plates; a parallel search at Sidi Kaouki turned up another vehicle. The operation was run by the
   DGSN with the DGST, local authorities and the royal gendarmerie.
 created_by_model: unknown
+details:
+  agency_types: [gendarmerie]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: morocco-essaouira-seizure-2026
 sources:

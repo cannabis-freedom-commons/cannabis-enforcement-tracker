@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 1184
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 1184}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/colombia/2024/11/26/incautan-cerca-de-dos-toneladas-de-marihuana-y-cocaina-en-frontera-con-panama-tres-personas-fueron-capturadas/

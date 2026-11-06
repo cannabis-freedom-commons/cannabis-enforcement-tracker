@@ -19,6 +19,14 @@ figures:
   kg_seized: 17
   arrested: 1
   charged: 1
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.policja.pl/pol/aktualnosci/283243,Przewozil-17-kg-marihuany-Tymczasowy-areszt-dla-23-letniego-Sochaczewianina.html

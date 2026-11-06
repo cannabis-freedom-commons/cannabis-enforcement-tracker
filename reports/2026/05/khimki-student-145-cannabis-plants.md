@@ -19,6 +19,16 @@ figures:
   arrested: 1
   plants_destroyed: 145
   kg_seized: 0.7
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.7}, {product: plants, plants: 145}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/v-moskve-pod-strazhu-zaklyuchyen-student-ustroivshiy-narkopitomnik-v-arendovannoy-kvartire-v-khimkakh/

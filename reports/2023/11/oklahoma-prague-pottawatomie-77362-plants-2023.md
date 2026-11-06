@@ -18,6 +18,10 @@ figures:
   plants_destroyed: 77362
   kg_seized: 907.185
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products: [{product: flower, kg: 907.185}, {product: plants, plants: 77362}]
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [octf, omma, pottawatomie-county]
 open_questions:

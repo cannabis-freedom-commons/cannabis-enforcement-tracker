@@ -13,6 +13,18 @@ summary: >-
   Cuban police arrested a young man in Salvador Rosales, Songo-La Maya, Santiago de Cuba, while he counted seeds at an illegal marijuana plantation of more than 2,000 plants. Several other people accused of harvesting and distributing the crop were also arrested and are being processed, with no names or charges released.
 figures:
   plants_destroyed: 2000
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 2000}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 3, 1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.periodicocubano.com/operativo-policial-en-songo-la-maya-desmantela-cultivo-de-marihuana-con-mas-de-2-mil-plantas

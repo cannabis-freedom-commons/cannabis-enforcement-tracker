@@ -13,7 +13,16 @@ summary: >-
   National security police arrested a suspected dealer in La Marsa on 7 January 2025 after finding cannabis and cocaine in the flat he rented, and detained three people waiting outside for drugs. The public prosecutor ordered all four held while the investigation continued.
 figures:
   arrested: 4
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [home]
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [3, 2]
+  details.setting: [1, 3, 2]
   figures.arrested: [1, 2]
 media:
   - kind: photo

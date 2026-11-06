@@ -17,6 +17,14 @@ summary: >-
 figures:
   prison: 42-60 years (commuted, released after about 25 years)
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  case_stage: sentenced
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.case_stage: [2, 1, 3]
+  details.products: [2, 1, 3]
+  details.setting: [2, 1, 3]
 status: verified
 tags: [commutation, release, clemency]
 open_questions:

@@ -12,6 +12,14 @@ summary: >-
   three Indian nationals to between five years and five years and six months for a separate haul of
   more than 7 kg on the same route.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [court]
+  case_stage: sentenced
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 cfi_id: bhutan-paro-airport-cannabis-sentences-2025
 sources:

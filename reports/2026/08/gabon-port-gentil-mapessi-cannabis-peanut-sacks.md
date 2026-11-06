@@ -17,6 +17,14 @@ figures:
   value:
     amount: 150000
     currency: XAF
+details:
+  activity: [trafficking]
+  case_stage: investigation
+  setting: [mail, prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.case_stage: [3, 1]
+  details.setting: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.gabonreview.com/port-gentil-du-sac-darachides-a-la-prison-georges-mapessi-rattrape-par-le-cannabis/

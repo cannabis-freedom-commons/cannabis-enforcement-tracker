@@ -20,6 +20,16 @@ figures:
   plants_destroyed: 1043
   kg_seized: 465
   value: { amount: 70000000, currency: HKD }
+details:
+  agency_types: [customs]
+  case_stage: investigation
+  products: [{product: plants, plants: 1043}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_268.html

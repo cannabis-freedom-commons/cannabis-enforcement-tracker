@@ -14,6 +14,10 @@ summary: >-
   The Polícia Judiciária and the Polícia Nacional dismantled three cannabis plots at Picos Acima in
   São Salvador do Mundo, on Santiago island, in the early hours of 4 April 2026. About 413 kg of
   cannabis was seized and destroyed, and a car was taken; no arrests were reported.
+details:
+  agency_types: [police, prosecutor]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
 tags: [santiago, sao-salvador-do-mundo, policia-judiciaria, eradication]

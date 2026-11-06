@@ -12,6 +12,14 @@ type: seizure
 title: Nine sacks of cannabis recovered after fleeing microbus crashes into Brahmanbaria pond
 summary: >-
   Police in Kasba, Brahmanbaria, recovered nine sacks of Indian cannabis from a microbus that plunged into a pond on 28 August 2026 after its driver fled a police checkpoint. The driver and other suspected smugglers swam ashore and escaped; no arrests were made and the quantity of cannabis was not immediately determined.
+details:
+  activity: [smuggling]
+  agency_types: [police]
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.tbsnews.net/bangladesh/microbus-carrying-cannabis-plunges-brahmanbaria-pond-during-police-chase-1527071

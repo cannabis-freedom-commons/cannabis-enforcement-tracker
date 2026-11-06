@@ -17,6 +17,18 @@ figures:
   kg_seized: 4.7
   fine: { amount: 30000, currency: PGK }
   prison: 20 years if the fine is not paid
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower, kg: 4.7}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.thepngsun.com/hela-youth-fined-k30-000-or-faces-20-years-for-marijuana/

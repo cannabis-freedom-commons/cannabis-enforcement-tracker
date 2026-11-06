@@ -11,6 +11,18 @@ summary: >-
   imprisonment in a batch of drug cases. One man was convicted of repeated trafficking under article
   29 of the 2013 drug law; the other of importing drugs for trafficking under article 28.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [military]
+  case_stage: sentenced
+  sentence_types: [life]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: palestine-gaza-military-drug-sentences-2023
 sources:

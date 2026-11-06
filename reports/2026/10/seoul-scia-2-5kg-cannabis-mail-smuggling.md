@@ -15,6 +15,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2.5
+details:
+  activity: [smuggling]
+  agency_types: [customs, anti-narcotics, court]
+  case_stage: investigation
+data_sources:
+  details.activity: [2, 4, 3]
+  details.agency_types: [2, 4, 3]
+  details.case_stage: [2, 3, 4, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0f24df953ee4a38d06196dfec2d11a52

@@ -14,6 +14,14 @@ summary: >-
   Police raided a home on Kings Bench Street in Hull on 2 November 2026, seizing an estimated 165 suspected cannabis plants spread over three floors. No arrests were named as enquiries continued to identify those behind the suspected grow.
 figures:
   plants_destroyed: 165
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 165}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1c0208ea5f8036c6fd01993b73971397

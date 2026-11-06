@@ -20,6 +20,14 @@ figures:
   plants_destroyed: 80000
   kg_seized: 2040
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  products: [{product: flower, kg: 2040}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [black-market, denver, out-of-state-trafficking]
 open_questions:

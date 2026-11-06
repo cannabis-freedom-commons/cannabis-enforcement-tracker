@@ -27,11 +27,13 @@ details:
   activity: [trafficking]
   agency_types: [court]
   case_stage: sentenced
+  sentence_types: [life]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [3, 4, 1, 2]
+  details.sentence_types: [3, 4]
   details.setting: [3, 4, 1, 2]
 status: verified
 tags:

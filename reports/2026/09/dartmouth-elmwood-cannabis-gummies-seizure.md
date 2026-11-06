@@ -14,6 +14,12 @@ summary: >-
   Halifax Regional Police charged three people after a 4 September 2026 search of a Dartmouth home found 6.2 kilograms of fentanyl, 10.5 litres of GHB and 96 packages of cannabis gummies. John Waye, 73, Krista Waye, 43, and Jaime Beaton, 43, face trafficking and cannabis-selling charges; police link the drugs to organized crime.
 figures:
   charged: 3
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 4, 2, 3]
+  details.agency_types: [1, 4, 2, 3]
 media:
   - kind: video
     url: https://globalnews.ca/news/12124551/halifax-police-fentanyl-ghb-seizure/

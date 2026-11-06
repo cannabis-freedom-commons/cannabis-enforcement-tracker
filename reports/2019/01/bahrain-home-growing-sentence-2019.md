@@ -12,6 +12,20 @@ summary: >-
   The Daily Tribune reported. Police had raided his home after a tip-off; he said he grew for
   himself and learned online. The court acquitted him of selling because the evidence was…
 created_by_model: unknown
+details:
+  activity: [trafficking, cultivation, possession]
+  agency_types: [anti-narcotics, police, prosecutor, court]
+  case_stage: sentenced
+  products: [{product: seeds}]
+  sentence_types: [life]
+  setting: [prison]
+data_sources:
+  details.activity: [4, 2, 3, 5, 1]
+  details.agency_types: [1]
+  details.case_stage: [2, 4, 3]
+  details.products: [2, 5]
+  details.sentence_types: [4, 2, 3]
+  details.setting: [1, 2, 4, 3]
 status: verified
 cfi_id: bahrain-home-growing-sentence-2019
 tags:

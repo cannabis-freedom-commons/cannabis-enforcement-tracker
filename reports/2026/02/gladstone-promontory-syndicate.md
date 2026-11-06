@@ -18,6 +18,12 @@ figures:
   value:
     amount: 3000000
     currency: AUD
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.abc.net.au/news/2026-02-27/police-charge-25-people-with-drug-offences-in-gladstone/106394952

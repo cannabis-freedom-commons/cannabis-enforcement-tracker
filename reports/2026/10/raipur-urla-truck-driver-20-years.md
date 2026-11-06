@@ -23,6 +23,16 @@ figures:
   value:
     amount: 405000
     currency: INR
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [fine]
+  setting: [vehicle, prison]
+data_sources:
+  details.agency_types: [3, 5, 1, 6, 2, 4]
+  details.case_stage: [3, 5, 1, 6]
+  details.sentence_types: [3, 5, 1, 6]
+  details.setting: [3, 5, 1, 6, 2, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6770a9df3309c91c9e39b1dd54c01397

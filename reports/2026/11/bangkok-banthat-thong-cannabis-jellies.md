@@ -24,6 +24,14 @@ figures:
   value:
     amount: 50000
     currency: THB
+details:
+  activity: [sale]
+  agency_types: [police]
+  setting: [prison]
+data_sources:
+  details.activity: [7, 25, 8, 15, 19, 21]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 4, 7, 8, 11, 12]
 media:
   - kind: photo
     url: https://www.hfocus.org/content/2026/11/40096

@@ -23,11 +23,13 @@ details:
   case_stage: sentenced
   products:
     - {product: hashish}
+  sentence_types: [fine]
   setting: [airport, prison]
 data_sources:
   details.agency_types: [1, 4, 2]
   details.case_stage: [1, 2, 4, 3]
   details.products: [1, 2, 4]
+  details.sentence_types: [1, 2, 4, 3]
   details.setting: [1, 4, 2, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

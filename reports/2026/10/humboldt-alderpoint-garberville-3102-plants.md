@@ -17,6 +17,12 @@ summary: >-
 figures:
   plants_destroyed: 3102
   kg_seized: 16.33
+details:
+  activity: [cultivation]
+  products: [{product: flower, kg: 16.33}, {product: plants, plants: 3102}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://humboldtgov.org/m/newsflash/Home/Detail/6363

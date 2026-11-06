@@ -13,6 +13,10 @@ summary: >-
   Police arrested Linder Antonio Q. G., known as alias “Titán,” in Santo Domingo on 4 November 2026 during an operation linked to alleged weapons and drug distribution. Authorities reported marijuana and firearms among the evidence, but accounts disagree on the amount seized and the arrest date.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.eldiario.ec/seguridad/alias-titan-cayo-en-santo-domingo-investigan-presuntas-actividades-de-trafico-de-drogas-04112026/

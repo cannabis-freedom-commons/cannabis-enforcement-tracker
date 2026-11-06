@@ -12,6 +12,14 @@ summary: >-
   plants on ten hectares and burned 950 kg of dried cannabis. The growers fled as the patrols
   arrived and no one was arrested.
 created_by_model: unknown
+details:
+  agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: plants}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: madagascar-tsaratanana-plantation-2024
 tags:

@@ -16,6 +16,20 @@ summary: >-
   it charged a 66-year-old man after finding almost 20 kg of dried marijuana
   and almost 300 cannabis plants.
 created_by_model: spacexai/grok-4.7
+details:
+  activity: [trafficking, processing]
+  agency_types: [police]
+  case_stage: investigation
+  environment: [indoor]
+  products: [{product: flower}, {product: plants}]
+  setting: [home]
+data_sources:
+  details.activity: [3, 1, 2]
+  details.agency_types: [3, 1, 2]
+  details.case_stage: [3]
+  details.environment: [1, 2]
+  details.products: [3, 1, 2]
+  details.setting: [3, 1, 2]
 status: verified
 tags: [pezinok, kvetinar]
 open_questions:

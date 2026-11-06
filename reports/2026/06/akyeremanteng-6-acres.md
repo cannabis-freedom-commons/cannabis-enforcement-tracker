@@ -19,6 +19,12 @@ figures:
   hectares: 2.4
   arrested: 1
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
 status: verified
 tags: [eastern-region, yilo-krobo, dleu]
 sources:

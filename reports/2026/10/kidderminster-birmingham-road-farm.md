@@ -25,6 +25,18 @@ figures:
     amount: 1200000
     currency: GBP
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  environment: [indoor]
+  setting: [building]
+data_sources:
+  details.activity: [1, 3, 4, 2, 5]
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [1, 3, 4, 2]
+  details.environment: [1, 2, 3, 4, 5]
+  details.setting: [1, 2, 3, 4, 5]
 status: verified
 tags:
   - worcestershire

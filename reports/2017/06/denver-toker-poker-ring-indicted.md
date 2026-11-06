@@ -21,6 +21,12 @@ figures:
   plants_destroyed: 2600
   kg_seized: 1814.37
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking, cultivation]
+  products: [{product: flower, kg: 1814.37}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [toker-poker, interstate-trafficking]
 sources:

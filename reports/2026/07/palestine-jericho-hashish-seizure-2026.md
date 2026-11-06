@@ -12,6 +12,14 @@ summary: >-
   several governorates and some for smuggling across the border; no arrests were announced in the
   first statement.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  agency_types: [anti-narcotics, police]
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: palestine-jericho-hashish-seizure-2026
 sources:

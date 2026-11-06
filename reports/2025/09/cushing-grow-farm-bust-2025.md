@@ -14,6 +14,16 @@ summary: >-
   pounds of processed marijuana from a grow farm in Cushing in an investigation into illegal
   cultivation. Seven people were detained and two were handed to immigration custody.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [customs]
+  case_stage: investigation
+  products: [{product: flower, kg: 136.08}, {product: plants}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 tags:
   - illegal-grow

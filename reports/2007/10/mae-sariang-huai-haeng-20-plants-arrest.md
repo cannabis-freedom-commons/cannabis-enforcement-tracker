@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 20
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 20}]
+  setting: [field, home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 67ac1bbe812570e0646ec28bad9cc098

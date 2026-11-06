@@ -13,6 +13,16 @@ summary: >-
   unlawful cultivation. Applying the 2013 guidance, he placed the case at the lower end of the
   personal-growing…
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  products: [{product: plants}]
+  sentence_types: [fine, probation, community-service]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1]
+  details.products: [1]
+  details.sentence_types: [1, 3, 2]
 status: verified
 cfi_id: vanuatu-pest-barrier-cannabis-2017
 tags:

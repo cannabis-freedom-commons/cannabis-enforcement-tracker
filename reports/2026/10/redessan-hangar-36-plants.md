@@ -18,6 +18,18 @@ figures:
   value:
     amount: 50000
     currency: EUR
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police]
+  environment: [greenhouse]
+  products: [{product: plants, plants: 36}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.midilibre.fr/2026/10/30/un-reseau-local-de-fabrication-de-cannabis-demantele-dans-le-gard-pres-de-36-plants-decouverts-trois-individus-interpelles-13627528.php

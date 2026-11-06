@@ -18,6 +18,14 @@ figures:
   kg_seized: 71.6
   arrested: 2
 created_by_model: cursor/composer-2.5-fast
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [gendarmerie]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1, 3, 2, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [chlef, gendarmerie, highway]
 open_questions:

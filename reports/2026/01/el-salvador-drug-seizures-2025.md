@@ -11,6 +11,12 @@ summary: >-
   kg of drugs seized, against 17,224.8 kg in 2024. Cocaine made up 24,612.59 kg of the total;
   marijuana accounted for 394.52 kg, valued at about 1.39 million dollars.
 created_by_model: unknown
+details:
+  agency_types: [military]
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.agency_types: [2, 3]
+  details.products: [2, 3, 1]
 status: verified
 cfi_id: el-salvador-drug-seizures-2025
 sources:

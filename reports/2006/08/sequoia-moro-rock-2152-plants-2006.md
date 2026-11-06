@@ -17,6 +17,14 @@ figures:
   plants_destroyed: 2152
   value: { amount: 2000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  products: [{product: flower}, {product: plants, plants: 2152}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [national-park, public-lands, environmental-damage]
 open_questions:

@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.02
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.02}]
+  setting: [border]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 285fe70825ea3371e916d46ca696e682

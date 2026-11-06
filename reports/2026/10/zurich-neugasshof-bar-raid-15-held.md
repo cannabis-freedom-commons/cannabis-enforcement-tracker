@@ -17,6 +17,14 @@ summary: >-
   of cannabis flowers, packed hashish, cocaine, cash and a pistol.
 figures:
   arrested: 15
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: hashish}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [zurich, bar, gisler, first-report]

@@ -20,6 +20,20 @@ figures:
   plants_destroyed: 90
   kg_seized: 42
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking, cultivation, sale]
+  agency_types: [gendarmerie, border-guard, police, prosecutor]
+  case_stage: investigation
+  environment: [indoor]
+  products: [{product: plants, plants: 90}, {product: seeds}]
+  setting: [airport]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [diicot, singureni, giurgiu, organized-crime]
 media:

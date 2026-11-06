@@ -14,6 +14,12 @@ summary: >-
 figures:
   plants_destroyed: 120945
   hectares: 1.9
+details:
+  agency_types: [border-guard, anti-narcotics, police]
+  products: [{product: plants, plants: 120945}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [talamanca, telire, eradication, indigenous-territory]

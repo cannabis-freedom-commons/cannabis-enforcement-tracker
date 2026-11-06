@@ -16,6 +16,14 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.087
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.087}]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
+  details.products: [1, 2, 3]
 media:
   - kind: photo
     url: https://news.1777.ru/130257-v-pyatigorske-zaderzhali-22-letnego-zakladchika-s-partiey-marihuany

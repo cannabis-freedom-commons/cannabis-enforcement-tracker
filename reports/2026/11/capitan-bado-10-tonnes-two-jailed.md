@@ -22,6 +22,7 @@ details:
   agency_types: [anti-narcotics]
   case_stage: sentenced
   products: [{product: flower, kg: 10008}]
+  sentence_types: [prison]
   setting: [vehicle, home, prison]
 data_sources:
   details.activity: [1]
@@ -29,6 +30,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

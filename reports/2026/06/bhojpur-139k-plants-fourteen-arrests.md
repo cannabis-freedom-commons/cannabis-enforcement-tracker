@@ -20,6 +20,16 @@ figures:
   arrested: 14
   charged: 14
 created_by_model: cursor/composer-2.5-fast
+details:
+  activity: [cultivation, sale]
+  agency_types: [police, court]
+  products: [{product: flower, kg: 1556}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [bhojpur, eradication-campaign]
 open_questions:

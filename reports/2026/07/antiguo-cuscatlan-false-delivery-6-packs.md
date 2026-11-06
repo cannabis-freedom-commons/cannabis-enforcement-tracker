@@ -13,6 +13,18 @@ summary: >-
   Police in Antiguo Cuscatlán arrested Jhon Anthony Valles García after he crashed while fleeing on a motorcycle disguised as a delivery bike, seizing six packages of suspected marijuana. He remains in custody while investigators weigh the drugs and examine his phone for distribution links.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/el-salvador/2026/07/23/el-salvador-capturan-a-falso-repartidor-con-paquetes-de-presunta-cocaina-tras-persecucion-policial/

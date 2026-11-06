@@ -12,6 +12,10 @@ summary: >-
   toward Chad and on into Egypt or Sudan. The seizures made Niger the most visible interception
   point on that route.
 created_by_model: unknown
+details:
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: niger-resin-seizures-2006-2007
 sources:

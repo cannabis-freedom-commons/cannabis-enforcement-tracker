@@ -16,6 +16,14 @@ figures:
   arrested: 5
   kg_seized: 0.79783
   plants_destroyed: 2
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 2}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, xinhe, yining, trafficking]

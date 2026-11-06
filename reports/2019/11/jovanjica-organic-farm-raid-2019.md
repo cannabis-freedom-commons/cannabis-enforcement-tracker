@@ -17,6 +17,16 @@ figures:
   arrested: 9
   kg_seized: 3954
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  products: [{product: flower, kg: 3954}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [1, 2]
+  details.products: [2, 3, 1]
+  details.setting: [1, 2]
 status: verified
 tags: [jovanjica, stara-pazova, organic-farm]
 sources:

@@ -15,6 +15,18 @@ figures:
   arrested: 3
   plants_destroyed: 100
   kg_seized: 5
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 5}, {product: flower}]
+  setting: [field, home]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/pochti-100-kustov-konopli-i-5-kg-podgotovlennoy-k-sbytu-marikhuany-izyato-politseyskimi-u-zhitelya-u/

@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 6
   kg_seized: 271.204
+details:
+  activity: [trafficking]
+  agency_types: [military, police, court]
+  case_stage: investigation
+  products: [{product: flower, kg: 271.204}]
+data_sources:
+  details.activity: [2, 3, 1, 4]
+  details.agency_types: [2, 4, 1, 3]
+  details.case_stage: [1, 4]
+  details.products: [1, 2, 4, 3]
 media:
   - kind: photo
     url: https://www.el19digital.com/articulos/ver/178622-ejercito-de-nicaragua-asesta-golpe-al-narcotrafico-en-bluefields-seis-detenidos-y-117-bultos-de-marihuana-incautados

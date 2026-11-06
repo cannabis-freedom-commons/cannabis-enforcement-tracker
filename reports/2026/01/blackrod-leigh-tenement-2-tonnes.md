@@ -22,6 +22,12 @@ figures:
   value:
     amount: 24000000
     currency: GBP
+details:
+  agency_types: [police]
+  case_stage: charged
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 media:
   - kind: photo
     url: https://www.europesays.com/uk/692452/

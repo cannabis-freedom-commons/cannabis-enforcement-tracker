@@ -13,6 +13,16 @@ summary: >-
   Police in Bonon's Frakro quarter arrested two men, aged 30 and 43, at about 8.30 pm on 3 October 2026 and found two blocks of cannabis, one man carrying it from Bouaflé in a rice sack. Officers took 48,000 and 224,500 francs CFA from the two and held them at Bonon police station.
 figures:
   arrested: 2
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2026/10/05/cote-divoire/societe/cote-divoire-bonon-deux-hommes-interpelles-avec-deux-blocs-de-cannabis_201271.html

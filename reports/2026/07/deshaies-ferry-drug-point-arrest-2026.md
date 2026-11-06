@@ -13,6 +13,12 @@ summary: >-
   Gendarmes arrested one suspect at his home in Ferry, Deshaies, on 8 July 2026 after a months-long inquiry into a local drug-selling point. Officers seized cannabis herb alongside crack, cocaine and cash suspected to come from resale.
 figures:
   arrested: 1
+details:
+  agency_types: [gendarmerie, court]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/deshaies-un-point-de-deal-demantele-cannabis-crack-et-cocaine-saisis-1086871.php

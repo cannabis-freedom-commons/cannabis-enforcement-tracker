@@ -11,6 +11,12 @@ also: [seizure, raid]
 title: Senegal navy burns Karone cannabis fields, seizes 37 bags
 summary: >-
   On 30 October 2026 Senegal's navy raided cannabis-growing sites at Boune and Bocko in the Karone Islands, burning fields and seizing 37 bags of cannabis and four 20-litre containers of seeds. No arrests were made as the growers had fled before troops arrived.
+details:
+  activity: [trafficking]
+  products: [{product: seeds}]
+data_sources:
+  details.activity: [1, 2, 5]
+  details.products: [2, 1, 4, 5, 3]
 media:
   - kind: photo
     url: https://www.dakarposte.com/CASAMANCE-COUP-DE-FILET-DANS-LES-ILES-KARONE-LA-MARINE-DETRUIT-DES-PLANTATIONS-DE-CANNABIS-ET-SAISIT-37-SACS-DE-CHANVRE_a88138.html

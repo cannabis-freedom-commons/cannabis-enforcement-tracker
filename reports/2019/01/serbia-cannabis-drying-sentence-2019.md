@@ -12,6 +12,10 @@ summary: >-
   Morava and later carried the prepared cannabis to Kraljevo for sale. The court distinguished this
   processing from growing a plant, which then had a separate six-month-to-five-year penalty.
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation, possession, sale]
+data_sources:
+  details.activity: [1, 2, 3, 4, 5]
 status: verified
 cfi_id: serbia-cannabis-drying-sentence-2019
 tags:

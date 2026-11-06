@@ -13,6 +13,12 @@ summary: >-
   commercially or personally shared the sale proceeds. The judgment applied the personal-growing
   guidance…
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [court]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: vanuatu-young-cannabis-seller-sentence-2019
 tags:

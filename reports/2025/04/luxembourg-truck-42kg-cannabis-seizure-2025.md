@@ -12,6 +12,14 @@ summary: >-
   Luxembourg customs found 42 kg of marijuana in two crates on a foreign lorry during a targeted truck check, using an X-ray scanner and the sniffer dog Balto. The prosecutor ordered the drugs confiscated, and investigators are still tracing the shipment's origin and intended recipients.
 figures:
   kg_seized: 42
+details:
+  agency_types: [customs, prosecutor]
+  products: [{product: flower, kg: 42}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.products: [1, 3, 2]
+  details.setting: [1, 3, 2]
 media:
   - kind: photo
     url: https://www.virgule.lu/luxembourg/42-kilos-de-cannabis-saisis-par-les-douanes-luxembourgeoises-dans-un-camion/61427025.html

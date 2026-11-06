@@ -19,6 +19,16 @@ figures:
   kg_seized: 9
   arrested: 2
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [field, home, prison]
+data_sources:
+  details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags: [styria, stainz, deutschlandsberg]
 open_questions:

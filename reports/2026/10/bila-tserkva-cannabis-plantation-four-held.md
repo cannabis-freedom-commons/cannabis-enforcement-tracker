@@ -20,6 +20,18 @@ figures:
   value:
     amount: 60700000
     currency: UAH
+details:
+  activity: [sale]
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: plants, plants: 209}]
+  setting: [prison]
+data_sources:
+  details.activity: [2, 3, 4, 1]
+  details.agency_types: [2, 1, 4, 3]
+  details.case_stage: [2, 3, 4, 1]
+  details.products: [2, 1, 4]
+  details.setting: [3, 2, 4, 1]
 media:
   - kind: photo
     url: https://bc.espreso.tv/news-konoplyana-plantatsiya-ta-desyatki-kilogramiv-kanabisu-na-bilotserkivshchini-vikrili-narkobiznes

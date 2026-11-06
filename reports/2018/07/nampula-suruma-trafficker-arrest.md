@@ -12,6 +12,14 @@ summary: >-
   In Nampula, a citizen was detained for trafficking cannabis sativa, known as suruma. The cannabis had been moved from Niassa province together with sacks of maize, and the detained seller said he deals because of poverty.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 media:
   - kind: photo
     url: https://www.voaportugues.com/a/detido-traficante-suruma-vende-por-causa-pobreza/4494709.html

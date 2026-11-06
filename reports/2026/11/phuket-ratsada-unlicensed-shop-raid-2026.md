@@ -13,6 +13,12 @@ summary: >-
   Administrative and public-health officers raided an unlicensed cannabis shop on Ratsada Road in Mueang Phuket on 4 November 2026, arresting the 41-year-old female owner. They seized 36 cannabis items, seven other items and 123,290 baht in cash and handed the case to Mueang Phuket police for prosecution.
 figures:
   arrested: 1
+details:
+  activity: [sale]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e31cf1fc266f06bf9a0d7ee298cd5188

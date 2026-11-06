@@ -15,6 +15,14 @@ summary: >-
   manhunt followed.
 figures:
   plants_destroyed: 20000
+details:
+  activity: [cultivation]
+  agency_types: [military, police]
+  products: [{product: flower}, {product: plants, plants: 20000}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.khmertimeskh.com/50809011/police-raid-five-marijuana-farms-and-destroy-more-than-20000-plants/

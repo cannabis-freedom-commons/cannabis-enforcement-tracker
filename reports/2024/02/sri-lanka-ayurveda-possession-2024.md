@@ -12,6 +12,10 @@ summary: >-
   required, and that police may prosecute possession outside those conditions. The statement
   followed complaints that the crackdown had treated traditional medicines as recreational drugs.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: sri-lanka-ayurveda-possession-2024
 sources:

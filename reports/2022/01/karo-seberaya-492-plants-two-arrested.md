@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 2
   plants_destroyed: 492
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 492}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://medan.kompas.com/read/2022/01/07/113624178/polisi-tangkap-2-pengedar-ganja-di-tanah-karo-punya-2-ladang-ganja

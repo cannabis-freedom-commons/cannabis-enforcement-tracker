@@ -15,6 +15,12 @@ figures:
   arrested: 13666
   plants_destroyed: 944651
   kg_seized: 272
+details:
+  activity: [trafficking]
+  agency_types: [military, police]
+data_sources:
+  details.activity: [2, 3, 1]
+  details.agency_types: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a864c3b9e88f86f3dedad6817d1bda21

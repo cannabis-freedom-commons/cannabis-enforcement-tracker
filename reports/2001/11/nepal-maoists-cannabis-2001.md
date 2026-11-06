@@ -12,6 +12,12 @@ summary: >-
   declared the area a marijuana-free zone, then allowed the trade in exchange for a cut. Police had
   seized 8,000 kg of cannabis and destroyed the crop on 74.5 hectares the year before.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: nepal-maoists-cannabis-2001
 sources:

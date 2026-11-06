@@ -16,6 +16,16 @@ summary: >-
   and drug specialists were called in; the investigation continues.
 figures:
   arrested: 3
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [tierra-del-fuego, ushuaia, policia, robberies]

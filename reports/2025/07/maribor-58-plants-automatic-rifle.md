@@ -20,6 +20,16 @@ figures:
   plants_destroyed: 58
   kg_seized: 0.5
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.setting: [2, 1]
 status: verified
 tags: [maribor, weapons]
 open_questions:

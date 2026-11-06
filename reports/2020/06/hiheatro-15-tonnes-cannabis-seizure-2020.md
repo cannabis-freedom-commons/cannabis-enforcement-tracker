@@ -12,6 +12,16 @@ summary: >-
   Togolese customs seized 1.5 tonnes of cannabis from a minibus at the Hihéatro checkpoint on the night of 9–10 June 2020. The driver fled after officers detected his false goods declaration, abandoning the vehicle at the post.
 figures:
   kg_seized: 1500
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  case_stage: appeal
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.koaci.com/index.php/article/2020/06/17/togo/Soci%C3%A9t%C3%A9/togo-saisie-de-15-tonnes-du-cannabis-a-hiheatro-sous-une-fausse-deguisee_142375.html

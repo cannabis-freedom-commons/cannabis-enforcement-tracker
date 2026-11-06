@@ -19,6 +19,14 @@ summary: >-
 figures:
   arrested: 22
   kg_seized: 22.371
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [isp, troop-5, traffic-stop]

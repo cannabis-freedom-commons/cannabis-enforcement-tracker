@@ -12,6 +12,10 @@ summary: >-
   one of a series of drone-borne drug shipments along the Araz river border in 2024 and 2025,
   alongside marijuana hidden in lorries and boats.
 created_by_model: unknown
+details:
+  products: [{product: flower}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: azerbaijan-drone-marijuana-2024
 sources:

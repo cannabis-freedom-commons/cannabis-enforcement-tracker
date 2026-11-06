@@ -15,6 +15,16 @@ summary: >-
   2025. Officers cleared 48 plots in the Kalamchoura forests and about 70 plots near Bangshibari.
 figures:
   plants_destroyed: 800000
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [military, police]
+  products: [{product: plants, plants: 800000}]
+  setting: [forest]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tripura, sepahijala, joint-operation]

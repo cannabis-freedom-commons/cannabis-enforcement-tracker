@@ -16,6 +16,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 35.4
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://newsroom.gy/2026/09/10/78-pounds-of-cannabis-over-400k-seized-in-region-10/

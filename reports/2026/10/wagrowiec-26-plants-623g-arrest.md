@@ -16,6 +16,20 @@ figures:
   charged: 1
   plants_destroyed: 26
   kg_seized: 0.623
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  environment: [greenhouse]
+  products: [{product: flower, kg: 0.623}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 3, 4]
+  details.agency_types: [1, 3, 4, 2]
+  details.case_stage: [1, 3, 4, 2]
+  details.environment: [1, 3, 4, 2]
+  details.products: [2, 3, 4, 1]
+  details.setting: [1, 3, 4, 2]
 media:
   - kind: photo
     url: https://chodziez.policja.gov.pl/wl1/aktualnosci/280903,Uprawial-konopie-i-posiadal-znaczna-ilosc-srodkow-odurzajacych-areszt-tymczasowy.html

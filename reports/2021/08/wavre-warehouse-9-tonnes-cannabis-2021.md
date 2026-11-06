@@ -15,6 +15,16 @@ figures:
   arrested: 3
   charged: 3
   kg_seized: 9000
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 9000}]
+  setting: [port, home, building]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.rtbf.be/article/enorme-saisie-de-cannabis-a-wavre-neuf-tonnes-decouvertes-dans-un-entrepot-10822641

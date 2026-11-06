@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1054.6
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f73320a445a97fdd8340ceb3e149cab0

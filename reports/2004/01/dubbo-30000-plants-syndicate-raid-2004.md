@@ -20,6 +20,16 @@ figures:
   plants_destroyed: 30000
   value: { amount: 50000000, currency: AUD }
 created_by_model: meta/muse-spark
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 30000}]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [dubbo, nsw-police, syndicate]
 open_questions:

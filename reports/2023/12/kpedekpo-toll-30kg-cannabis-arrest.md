@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 30
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [mail]
+data_sources:
+  details.activity: [3, 2, 4]
+  details.agency_types: [3, 1, 2, 4]
+  details.setting: [3, 1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4af85527fe3ca42b1af94b69a7cd3370

@@ -17,6 +17,12 @@ figures:
   value:
     amount: 20000000
     currency: XOF
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cd4bfe2852a0760853b0f4b9c3f617ab

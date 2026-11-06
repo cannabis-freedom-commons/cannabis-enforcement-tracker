@@ -19,6 +19,12 @@ figures:
   arrested: 10
   value: { amount: 56000000, currency: HKD }
 created_by_model: openai/gpt-6
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [hong-kong, customs, airport, transit, cannabis]
 open_questions:

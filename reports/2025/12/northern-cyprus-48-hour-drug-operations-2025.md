@@ -12,6 +12,12 @@ summary: >-
   22-year-old in Metehan and 600 g in Kyrenia, and arresting ten suspects. Two of them were held at
   the airport over four cannabis cigarettes after a detection dog alerted officers.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  setting: [airport]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: northern-cyprus-48-hour-drug-operations-2025
 sources:

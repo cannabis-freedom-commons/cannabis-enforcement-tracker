@@ -12,6 +12,12 @@ summary: >-
   Mauritian officers seized 56.1 kg of cannabis and 3.31 kg of hashish from an abandoned speedboat at Grand-Baie on 16 December 2021 after a tip from Réunion gendarmes. The occupants fled and were still sought as investigators linked the Réunion load to a 33 kg seizure the previous month.
 figures:
   kg_seized: 59.41
+details:
+  agency_types: [coast-guard, gendarmerie]
+  products: [{product: hashish, kg: 59.41}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ffa132e89949c521c9766633da83456a

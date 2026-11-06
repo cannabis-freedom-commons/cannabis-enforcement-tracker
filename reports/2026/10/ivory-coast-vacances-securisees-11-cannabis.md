@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 152
   kg_seized: 774.075
+details:
+  agency_types: [gendarmerie, police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4a6e03e44ff828229cf1159534a6a204

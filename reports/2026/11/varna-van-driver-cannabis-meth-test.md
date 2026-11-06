@@ -12,7 +12,14 @@ summary: >-
   Police in Varna detained a 31-year-old man from the city on 4 November 2026 after a roadside device found methamphetamine and cannabis in his sample while he was driving a van. He gave a blood sample at a laboratory, was held for up to 24 hours, and a pre-trial proceeding was opened; the test results were not released.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

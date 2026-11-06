@@ -13,6 +13,10 @@ summary: >-
   Corinthia O.P.DI. officers arrested a 22-year-old Greek man in Loutraki on 3 November 2026, seizing a small amount of cannabis and a grinder. The Loutraki Police Department is conducting the preliminary investigation.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ff04e14762abef7cfd42e95d553822f1

@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.03
+details:
+  agency_types: [customs]
+  products: [{product: flower, kg: 0.03}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.aduanas.gub.uy/innovaportal/v/10541/14/innova.front/incautacion-de-marihuana-en-paysandu.html

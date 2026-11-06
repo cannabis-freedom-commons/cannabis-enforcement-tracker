@@ -25,10 +25,12 @@ created_by_model: cursor/composer-2.5
 details:
   agency_types: [customs, court]
   case_stage: sentenced
+  sentence_types: [prison, fine]
   setting: [airport]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [airport, import, trafficking]

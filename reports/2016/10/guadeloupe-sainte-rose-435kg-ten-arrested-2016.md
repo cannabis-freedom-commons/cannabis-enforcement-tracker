@@ -15,6 +15,18 @@ figures:
   arrested: 10
   charged: 10
   kg_seized: 435
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: trial
+  products: [{product: flower, kg: 435}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 3]
+  details.products: [1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/10-trafiquants-ecroues-et-435-kilos-dherbe-saisis-264307.php

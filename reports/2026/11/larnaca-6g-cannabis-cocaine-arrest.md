@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.006
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 0.006}]
+data_sources:
+  details.activity: [1, 5, 7, 10, 3, 6]
+  details.agency_types: [1, 3, 6, 7, 8, 9]
+  details.case_stage: [2, 4, 7, 8, 9, 11]
+  details.products: [1, 9, 11, 12, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ab5fe8f0490ee45375ad9d5fec03b458

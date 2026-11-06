@@ -17,6 +17,16 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 436
+details:
+  activity: [cultivation]
+  case_stage: sentenced
+  products: [{product: plants, plants: 436}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://primamedia.ru/news/2539391/

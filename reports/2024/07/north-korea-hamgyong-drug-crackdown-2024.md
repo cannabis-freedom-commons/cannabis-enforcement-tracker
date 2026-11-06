@@ -12,6 +12,10 @@ summary: >-
   first half of the year. The committee made July and August an intensive crackdown and said
   smuggling drugs to China should draw heavier sentences, up to death.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: north-korea-hamgyong-drug-crackdown-2024
 sources:

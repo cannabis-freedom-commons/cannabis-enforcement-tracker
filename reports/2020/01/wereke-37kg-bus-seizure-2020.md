@@ -12,6 +12,14 @@ summary: >-
   Benin customs seized 37 kg of cannabis from a Togo-origin bus at Wereke on the Djougou–N'Dali road on 22 January 2020. The Rapid Intervention Service of Borgou-Alibori found the drugs concealed in the vehicle after intelligence it received.
 figures:
   kg_seized: 37
+details:
+  activity: [trafficking]
+  agency_types: [customs, police]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dde0e2d9b33476b4a17c7169b0e0db2b

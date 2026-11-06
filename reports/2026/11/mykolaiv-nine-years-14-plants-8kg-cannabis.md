@@ -29,12 +29,14 @@ details:
   agency_types: [police, court]
   case_stage: sentenced
   products: [{product: flower, kg: 8}, {product: plants, plants: 14}]
+  sentence_types: [prison]
   setting: [home]
 data_sources:
   details.activity: [1, 6, 10, 11, 2, 3]
   details.agency_types: [1, 6, 8, 9, 12, 13]
   details.case_stage: [1, 3, 4, 5, 10, 11]
   details.products: [7, 12, 13, 8, 9, 10]
+  details.sentence_types: [2, 5, 1, 3, 4, 6]
   details.setting: [1, 3, 4, 5, 6, 7, 10, 11, 12, 13]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

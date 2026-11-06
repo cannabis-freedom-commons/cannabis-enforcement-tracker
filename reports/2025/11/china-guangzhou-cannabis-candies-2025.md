@@ -15,6 +15,14 @@ summary: >-
   laboratory confirmed the candies contained THC.
 figures:
   kg_seized: 0.283
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://xapp.southcn.com/node_2ea31fe5fd/08bf7cea41.shtml

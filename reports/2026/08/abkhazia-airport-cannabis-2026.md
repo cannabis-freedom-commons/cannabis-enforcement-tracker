@@ -12,6 +12,10 @@ summary: >-
   ministry. The amount was just above the 4 g large-amount threshold, so the case could be
   prosecuted in the aggravated possession tier rather than as simple possession.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: abkhazia-airport-cannabis-2026
 sources:

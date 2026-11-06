@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 250
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 250}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/costa-rica/2026/08/11/decomisan-mas-de-250-kilos-de-marihuana-en-costa-rica-paquetes-llevaban-imagenes-de-conocidos-narcotraficantes-mexicanos/

@@ -12,6 +12,10 @@ summary: >-
   under article 327(2) with acquiring more than 100 grams of opium for sale as part of a group, an
   offence carrying up to 20 years.
 created_by_model: unknown
+details:
+  activity: [sale]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: turkmenistan-opium-extradition-2026
 sources:

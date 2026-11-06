@@ -20,6 +20,12 @@ figures:
   kg_seized: 1168.5
   value: { amount: 6400000, currency: USD }
 created_by_model: command-code/deepseek-v4.1-flash#max
+details:
+  agency_types: [coast-guard, police]
+  environment: [indoor]
+data_sources:
+  details.agency_types: [1]
+  details.environment: [1, 2]
 status: verified
 tags: [rbdf, uscg, andros, go-fast]
 open_questions:

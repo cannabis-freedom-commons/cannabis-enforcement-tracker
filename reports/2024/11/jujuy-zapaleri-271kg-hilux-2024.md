@@ -12,7 +12,12 @@ summary: >-
   Gendarmes of Squadron 21 "La Quiaca" chased three unlit pickups on the tri-border crossing at Zapaleri, Jujuy, and intercepted a Toyota Hilux whose occupants fled on foot. The vehicle held 271 kilos 100 grams of cannabis sativa in 256 packages; no arrests were reported and the federal prosecution office ordered the drug and the stolen pickup seized.
 figures:
   kg_seized: 271.1
+details:
+  agency_types: [gendarmerie]
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 3, 2]
+  details.setting: [1, 3, 2, 4, 5]
   figures.kg_seized: [1]
 media:
   - kind: photo

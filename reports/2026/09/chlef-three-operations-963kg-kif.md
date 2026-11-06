@@ -16,6 +16,12 @@ summary: >-
 figures:
   arrested: 8
   kg_seized: 96.3
+details:
+  agency_types: [customs, gendarmerie]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 media:
   - kind: photo
     url: https://www.horizons.dz/2026/09/douanes-algeriennes-saisie-de-96-kg-et-300-g-de-kif-traite-a-chlef/

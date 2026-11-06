@@ -20,6 +20,14 @@ figures:
   value:
     amount: 1000000
     currency: INR
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics, police]
+  products: [{product: plants, plants: 88}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 3, 5, 2, 4]
+  details.products: [2, 3, 5, 1, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: d6a664908f08c9579e782fdd50b21c60

@@ -18,6 +18,16 @@ figures:
   arrested: 3
   kg_seized: 303.007
   value: { amount: 234830.43, currency: USD }
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower, kg: 303.007}]
+  setting: [border]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 3, 1]
+  details.products: [2, 1, 3]
+  details.setting: [2, 3, 1]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [carchi, montufar, policia-nacional]

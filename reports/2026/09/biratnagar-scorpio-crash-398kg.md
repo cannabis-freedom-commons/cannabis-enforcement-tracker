@@ -14,6 +14,14 @@ summary: >-
   driver escaped on foot and is being sought; both vehicles are in custody.
 figures:
   kg_seized: 398
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 398}]
+  setting: [border]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [biratnagar, morang, scorpio, checkpoint, driver-fled]

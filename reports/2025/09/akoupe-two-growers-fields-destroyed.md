@@ -15,6 +15,14 @@ figures:
   arrested: 2
   plants_destroyed: 172
   kg_seized: 45
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.aip.ci/cote-divoire-aip-deux-cultivateurs-de-cannabis-interpelles-et-deux-champs-detruits-a-akoupe-police/

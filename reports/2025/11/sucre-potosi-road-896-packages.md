@@ -10,6 +10,18 @@ type: seizure
 title: FELCN intercepts van with 896 packages of marijuana on Potosí–Sucre road
 summary: >-
   Bolivia's FELCN stopped a private van at a static checkpoint on the Potosí–Sucre highway and found 45 jute sacks holding 896 packages that field-tested positive for marijuana. It was not known whether the driver or anyone else was detained, and the weight was not published.
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [3, 2]
+  details.products: [1, 3, 2]
+  details.setting: [1, 3, 2]
 media:
   - kind: photo
     url: https://eldeber.com.bo/pais/agentes-antidrogas-interceptan-furgon-cargado-896-paquetes-marihuana_1762955313

@@ -23,11 +23,13 @@ details:
   agency_types: [court]
   case_stage: convicted
   products: [{product: flower, kg: 0.01905}]
+  sentence_types: [fine]
   setting: [airport]
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 2]
   details.products: [3, 1, 2]
+  details.sentence_types: [1, 3, 2]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

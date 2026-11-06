@@ -17,6 +17,16 @@ summary: >-
 figures:
   plants_destroyed: 245000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 245000}]
+  setting: [prison]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [oregon-department-of-justice, national-guard, glendale, jackson-county]
 open_questions:

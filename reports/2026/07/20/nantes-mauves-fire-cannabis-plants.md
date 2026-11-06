@@ -16,6 +16,14 @@ summary: >-
   controlled on 21 July they uprooted the remainder and opened a judicial inquiry.
 figures:
   plants_destroyed: 175
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [nantes, bidonville, fire]

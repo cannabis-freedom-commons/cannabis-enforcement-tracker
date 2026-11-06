@@ -13,6 +13,12 @@ summary: >-
   Forest rangers, soldiers and police searched 16 burned and cleared patches in Kaeng Krachan National Park and found cannabis sown among upland rice in almost every area. No suspects were found, and the intruders stole two chainsaw engines from the officers' camp.
 figures:
   arrested: 0
+details:
+  agency_types: [border-guard, police]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.sanook.com/news/1183683/

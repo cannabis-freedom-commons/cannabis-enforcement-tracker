@@ -19,6 +19,16 @@ figures:
   value:
     amount: 500000
     currency: GBP
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: plants, plants: 650}]
+data_sources:
+  details.activity: [2, 3, 4, 5, 6, 1]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.products: [2, 3, 4, 5, 6, 1]
 media:
   - kind: photo
     url: https://www.thetelegraphandargus.co.uk/news/26690683.cannabis-farm-650-plants-discovered-police/

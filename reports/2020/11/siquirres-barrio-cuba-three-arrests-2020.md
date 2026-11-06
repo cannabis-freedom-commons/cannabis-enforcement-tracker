@@ -13,6 +13,16 @@ summary: >-
   Costa Rica's Judicial Investigation Agency detained three suspected drug sellers in morning raids on 5 November 2020 in Barrio Nazareth, Siquirres and Barrio Cuba, San Jose, seizing marijuana-type drugs, crack cocaine, a firearm and cash. Two siblings were held in Siquirres and a 34-year-old man in Barrio Cuba, with all cases sent to the Public Ministry.
 figures:
   arrested: 3
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://crhoy.com/nacionales/allanamientos-por-drogas-dejan-3-detenidos-en-siquirres-y-barrio-cuba/

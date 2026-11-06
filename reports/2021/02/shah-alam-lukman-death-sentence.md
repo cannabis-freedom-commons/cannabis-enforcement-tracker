@@ -20,6 +20,20 @@ figures:
   kg_seized: 0.279
   prison: 5 years (concurrent terms)
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking, possession]
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.279}, {product: oil}]
+  sentence_types: [death]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [2, 1, 5, 6]
+  details.case_stage: [1, 2]
+  details.products: [2, 3, 4, 1]
+  details.sentence_types: [2, 3, 4, 5, 6]
+  details.setting: [5, 6, 3, 4]
 status: verified
 tags: [death-sentence, medical-cannabis, shah-alam, appeal]
 open_questions:

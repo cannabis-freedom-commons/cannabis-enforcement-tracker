@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.7
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor, court]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.7}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 media:
   - kind: photo
     url: https://www.iha.com.tr/tokat-haberleri/tokatta-arac-ve-evde-700-gram-esrar-ele-gecirildi-510939771

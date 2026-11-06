@@ -11,6 +11,10 @@ summary: >-
   positive for an illicit drug. The campaign followed a rise in drug crime and calls for tougher
   enforcement. It was an enforcement operation, not a change in the law.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: mongolia-nightclub-drug-raids-2025
 sources:

@@ -15,6 +15,16 @@ summary: >-
   Kedah in 1995 in place after twelve years on death row.
 figures:
   charged: 1
+details:
+  activity: [trafficking, possession]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [death]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mandatory-death-penalty, federal-court]

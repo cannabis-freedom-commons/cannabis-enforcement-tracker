@@ -13,6 +13,14 @@ summary: >-
   On 22 September 2026, border police on the Niger River at Malanville arrested a boatman after finding two packages of Indian hemp in his luggage. He jumped into the river to escape, was pulled out with help from residents, and was placed in custody while prosecutors opened a trafficking investigation.
 figures:
   arrested: 1
+details:
+  activity: [smuggling, possession]
+  agency_types: [border-guard, police, prosecutor]
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ee465ab7edcde7f7c25d092024f91625

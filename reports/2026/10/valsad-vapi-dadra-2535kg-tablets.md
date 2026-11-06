@@ -19,6 +19,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 2535.1
+details:
+  agency_types: [anti-narcotics, police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [valsad, vapi, dadra, tablets, interstate-network]

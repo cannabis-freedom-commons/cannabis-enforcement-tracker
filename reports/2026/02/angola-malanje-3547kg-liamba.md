@@ -20,6 +20,10 @@ figures:
   kg_seized: 3547.5
   value: { amount: 14000000, currency: AOA }
 created_by_model: openai/gpt-6-luna#max
+details:
+  agency_types: [prosecutor]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 tags: [sic, malanje, liamba]
 open_questions:

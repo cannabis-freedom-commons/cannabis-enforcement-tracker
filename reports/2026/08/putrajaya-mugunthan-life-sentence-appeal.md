@@ -23,11 +23,13 @@ details:
   activity: [trafficking]
   agency_types: [court]
   case_stage: sentenced
+  sentence_types: [life]
   setting: [vehicle, home, prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [putrajaya, federal-court, trafficking]

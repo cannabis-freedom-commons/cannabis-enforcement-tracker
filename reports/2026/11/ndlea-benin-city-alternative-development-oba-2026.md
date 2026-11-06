@@ -10,6 +10,14 @@ type: raid
 title: NDLEA asks the Oba of Benin to back a plan to move cannabis farmers to cassava
 summary: >-
   NDLEA chairman Buba Marwa asked the Oba of Benin on 4 November 2026 to support the agency's Alternative Development Programme, which persuades cannabis growers to switch to cassava, yam and maize. The programme's Ondo State pilot began in January 2026, and the agency now plans to launch it in Edo State.
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [anti-narcotics]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.ndlea.gov.ng/blog/okpebholo-oba-of-benin-declare-support-for-drug-war-as-marwa-takes-advocacy-to-edo

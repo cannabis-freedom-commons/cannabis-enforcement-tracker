@@ -26,6 +26,7 @@ details:
   activity: [sale]
   case_stage: sentenced
   products: [{product: flower, kg: 265}]
+  sentence_types: [prison]
   setting: [shop]
 data_sources:
   details.activity: [1]
@@ -33,6 +34,7 @@ data_sources:
   details.agency_types: [1, 3]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1]
 status: verified
 tags: [medical-marijuana, dispensary, dea, federal]

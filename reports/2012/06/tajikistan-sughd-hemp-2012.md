@@ -12,6 +12,12 @@ summary: >-
   than 113 kg of hashish and opened 98 criminal cases under Articles 200 and 201. The operation
   began on 20 May and was due to run until 30 November.
 created_by_model: unknown
+details:
+  environment: [wild]
+  products: [{product: hashish}]
+data_sources:
+  details.environment: [1]
+  details.products: [1]
 status: verified
 cfi_id: tajikistan-sughd-hemp-2012
 sources:

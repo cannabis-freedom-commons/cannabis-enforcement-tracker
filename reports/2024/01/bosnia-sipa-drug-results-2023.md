@@ -11,6 +11,14 @@ summary: >-
   all-drug trafficking work covered 68 cases and sixteen reports to prosecutors concerning 32
   people, plus a supplementary report concerning three people.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  products: [{product: flower}, {product: plants}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: bosnia-sipa-drug-results-2023
 sources:

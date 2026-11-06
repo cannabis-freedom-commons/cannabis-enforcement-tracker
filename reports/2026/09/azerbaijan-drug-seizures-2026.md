@@ -12,6 +12,12 @@ summary: >-
   Combating Drug Addiction reported. Marijuana accounted for 5,928.805 kg and hashish for 247.630
   kg, and officers also took 17,372 cannabis plants out of circulation.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  products: [{product: hashish}, {product: plants}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: azerbaijan-drug-seizures-2026
 sources:

@@ -10,6 +10,14 @@ type: seizure
 title: One dog seized after suspected cannabis-grow fire in Doncaster
 summary: >-
   South Yorkshire Police responded to a house fire on St Vincent Road in Wheatley, Doncaster, on 25 April 2026, saying they believed it followed cannabis cultivation. Officers seized an aggressive dog found loose at the property and said it remained in police kennels while their investigation continued.
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 media:
   - kind: video
     url: https://www.doncasterfreepress.co.uk/news/aggressive-dog-seized-as-cannabis-grow-sparks-doncaster-house-blaze-7805731

@@ -15,6 +15,18 @@ summary: >-
 figures:
   arrested: 3
   plants_destroyed: 123
+details:
+  activity: [cultivation]
+  agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: plants, plants: 123}]
+  setting: [forest]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: bd1360b1d57ebfd84877b37f1114601e

@@ -12,6 +12,12 @@ summary: >-
   of cannabis abuse in Oceania, and cannabis plants were also illicitly cultivated in Fiji, Samoa
   and Tonga.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  products: [{product: plants}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: papua-new-guinea-arms-barter-prevalence-2006
 sources:

@@ -20,6 +20,20 @@ figures:
   charged: 1
   prison: 5 years
 created_by_model: spacexai/grok-4.7
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  environment: [greenhouse]
+  products: [{product: plants}]
+  sentence_types: [prison]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [2, 3, 4, 5, 1]
+  details.case_stage: [2, 3, 4, 5, 1]
+  details.environment: [1, 2, 3, 4, 5]
+  details.products: [1, 2, 3, 4, 5]
+  details.sentence_types: [2, 3, 4, 5, 1]
+  details.setting: [1, 2, 3, 4, 5]
 status: reported
 tags: [khust, zakarpattia]
 open_questions:

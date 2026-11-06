@@ -19,6 +19,12 @@ figures:
   arrested: 6
   kg_seized: 11
 created_by_model: openai/gpt-6-luna#max
+details:
+  agency_types: [police, prosecutor]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [quito, los-lobos, apolo-41]
 open_questions:

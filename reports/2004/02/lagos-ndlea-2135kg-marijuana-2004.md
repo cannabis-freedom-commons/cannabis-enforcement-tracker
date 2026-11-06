@@ -22,10 +22,12 @@ details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   products: [{product: flower, kg: 2135.5}]
+  sentence_types: [fine]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ndlea, lagos]

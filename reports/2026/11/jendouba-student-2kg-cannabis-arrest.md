@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2
+details:
+  activity: [trafficking, possession]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 3, 4, 5, 6, 2]
+  details.setting: [1, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 216179e2dd63caec4cd78b744d7aa2e9

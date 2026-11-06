@@ -13,6 +13,12 @@ summary: >-
   Police caught two young men using ganja near Narsimhapuram village in Chintakani and took them into custody. They reportedly said they bought it from a suspected seller who was absconding as police investigated the supply.
 figures:
   arrested: 2
+details:
+  activity: [sale]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 2, 3]
 media:
   - kind: photo
     url: https://prabhanews.com/ganja-stir-two-youths-arrested/

@@ -15,6 +15,12 @@ summary: >-
   in vehicle AXO 085 on 9 May 2026 and found eleven parcels of suspected cannabis
   sativa hidden in a compartment beneath the rear seat. He remains in custody
   pending investigation.
+details:
+  agency_types: [police]
+  setting: [border, mail]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [hidden-compartment, checkpoint]

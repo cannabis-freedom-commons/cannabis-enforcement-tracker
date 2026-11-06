@@ -20,7 +20,18 @@ figures:
   value:
     amount: 11.87
     currency: EUR
+details:
+  agency_types: [court]
+  case_stage: appeal
+  products: [{product: flower, kg: 0.00116}]
+  sentence_types: [prison]
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
   figures.charged: [1]
   figures.convicted: [1]
   figures.kg_seized: [2]

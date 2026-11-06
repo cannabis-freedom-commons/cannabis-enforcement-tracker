@@ -12,6 +12,10 @@ summary: >-
   e-cigarettes containing cannabis oil. Eighty-one of those arrested faced criminal proceedings and
   70 received administrative penalties.
 created_by_model: unknown
+details:
+  products: [{product: oil}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: vietnam-hcmc-cannabis-ring-2026
 sources:

@@ -15,6 +15,12 @@ summary: >-
 figures:
   plants_destroyed: 60000
   hectares: 3
+details:
+  agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 60000}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://web.archive.org/web/20180311074549/https://www.cambodiadaily.com/news/police-burn-60000-marijuana-plants-at-takeo-village-hotspot-132664/

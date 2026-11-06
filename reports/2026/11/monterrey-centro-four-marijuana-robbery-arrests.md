@@ -14,6 +14,16 @@ summary: >-
   Monterrey police arrested four suspected bank-customer robbers in two central Monterrey stops and reported 28 packets of suspected marijuana. The detainees, from Jalisco, the State of Mexico and Tabasco, were placed at the authorities' disposal while robbery investigations continue.
 figures:
   arrested: 4
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 3]
+  details.case_stage: [1]
+  details.products: [1, 3]
 media:
   - kind: photo
     url: https://mvsnoticias.com/nuevo-leon/2026/11/2/detienen-a-banda-de-foraneos-por-robo-a-cuentahabientes-en-monterrey-752005.html

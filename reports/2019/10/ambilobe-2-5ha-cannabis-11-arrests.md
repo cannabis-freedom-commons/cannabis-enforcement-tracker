@@ -15,6 +15,14 @@ figures:
   arrested: 11
   kg_seized: 800
   hectares: 2.5
+details:
+  activity: [cultivation]
+  agency_types: [gendarmerie, prosecutor]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1d7cb0b317d81d7fc3f60f8035d33481

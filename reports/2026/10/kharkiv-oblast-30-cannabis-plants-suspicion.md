@@ -15,6 +15,16 @@ summary: >-
 figures:
   charged: 1
   plants_destroyed: 30
+details:
+  agency_types: [police, prosecutor]
+  environment: [wild]
+  products: [{product: plants, plants: 30}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.environment: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e774b80a1af8ab014d39f56fe95dbd0b

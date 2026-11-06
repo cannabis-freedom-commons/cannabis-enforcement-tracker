@@ -19,6 +19,20 @@ figures:
   plants_destroyed: 5200
   prison: 4 years
   fine: { amount: 1778400, currency: GYD }
+details:
+  activity: [trafficking, cultivation, possession]
+  agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: plants, plants: 5200}]
+  sentence_types: [prison, fine]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [canu, hauraruni, guilty-plea]

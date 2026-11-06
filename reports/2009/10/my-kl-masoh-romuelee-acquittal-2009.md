@@ -16,6 +16,16 @@ figures:
   charged: 2
   kg_seized: 34.942
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: appeal
+  sentence_types: [death]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 2, 3]
+  details.sentence_types: [1, 3, 2]
 status: verified
 tags: [mandatory-death-penalty, acquittal, appeal]
 open_questions:

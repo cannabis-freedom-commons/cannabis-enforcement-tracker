@@ -13,6 +13,12 @@ summary: >-
   Federal police arrested a 28-year-old train passenger at Bad Bentheim station on 1 November 2026 on a custodial warrant alleging serious cannabis dealing. He spent a night in custody and was then brought before a judge and admitted to prison.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 3, 4]
+  details.setting: [1, 3, 4, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a5757375574927044be579cdec123c57

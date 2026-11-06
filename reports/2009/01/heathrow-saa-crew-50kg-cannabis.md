@@ -17,6 +17,14 @@ figures:
   kg_seized: 50
   arrested: 15
   value: { amount: 150000, currency: GBP }
+details:
+  activity: [smuggling]
+  agency_types: [customs, police]
+  case_stage: investigation
+data_sources:
+  details.activity: [2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [heathrow, smuggling, airline-crew, south-african-airways]

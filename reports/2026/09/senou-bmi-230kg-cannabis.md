@@ -16,6 +16,14 @@ summary: >-
 figures:
   kg_seized: 230
   value: { amount: 312000000, currency: XOF }
+details:
+  agency_types: [customs]
+  products: [{product: hashish, kg: 230}, {product: flower}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [douanes, senou, bamako]

@@ -16,6 +16,20 @@ figures:
   charged: 1
   plants_destroyed: 620
   kg_seized: 19.091
+details:
+  activity: [cultivation, sale]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  environment: [greenhouse]
+  products: [{product: flower, kg: 19.091}, {product: plants, plants: 620}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [3, 4, 1]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [4]
+  details.environment: [1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 4]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/u-narkoagrariya-iz-ryazani-politseyskie-izyali-pochti-20-kg-kannabisa-i-620-kustov-proizrastavshey-k/

@@ -18,6 +18,12 @@ summary: >-
 figures:
   kg_seized: 21
   plants_destroyed: 13
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 21}, {product: seeds}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [2, 1]
 media:
   - kind: photo
     url: https://kianews24.ru/news/zdorove-uzhe-ne-to-69-letniy-simferopolets-khranil-21-kg-marikhuany-v-lechebnykh-tselyakh/

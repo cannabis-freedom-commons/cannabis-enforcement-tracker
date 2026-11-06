@@ -17,6 +17,14 @@ figures:
   arrested: 2
   kg_seized: 2
 created_by_model: xai/grok-4.7
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [hungary, bekes, remand]
 open_questions:

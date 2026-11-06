@@ -12,6 +12,10 @@ summary: >-
   1 kg, a weight his defence said counted the whole dry plant. He was sentenced to eleven years and
   a fine of over €23,000. He said he grew it for himself.
 created_by_model: anthropic/opus-5.5
+details:
+  setting: [home]
+data_sources:
+  details.setting: [1, 2, 3, 4, 5]
 status: verified
 cfi_id: malta-holmes-sentence-2011
 tags:

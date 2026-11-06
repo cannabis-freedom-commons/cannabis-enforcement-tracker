@@ -16,7 +16,10 @@ figures:
   value:
     amount: 284615000
     currency: XOF
+details:
+  agency_types: [customs]
 data_sources:
+  details.agency_types: [1, 3, 2]
   figures.kg_seized: [1]
   figures.value: [1]
 media:

@@ -16,6 +16,14 @@ figures:
   arrested: 1
   kg_seized: 0.004
   value: { amount: 5000, currency: HKD }
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  setting: [airport, mail, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://cannareporter.eu/en/2023/02/11/hong-kong-faz-a-primeira-detencao-de-posse-de-produtos-com-cbd/

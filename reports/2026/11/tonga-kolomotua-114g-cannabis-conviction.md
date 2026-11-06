@@ -15,6 +15,14 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.00114
+details:
+  agency_types: [police, court]
+  case_stage: convicted
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c76369f15f3f2721b513a3450428bc9c

@@ -17,11 +17,13 @@ figures:
 details:
   activity: [possession]
   agency_types: [police]
+  force: physical
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.force: [1, 2]
   details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

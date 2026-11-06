@@ -18,6 +18,14 @@ figures:
   arrested: 14
   kg_seized: 6000
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  agency_types: [gendarmerie]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [2, 1]
+  details.case_stage: [1]
 status: verified
 tags: [casamance, military, bignona]
 open_questions:

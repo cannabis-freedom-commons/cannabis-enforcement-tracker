@@ -21,6 +21,18 @@ figures:
     amount: 3600000
     currency: HUF
 created_by_model: spacexai/grok-4.7#medium
+details:
+  activity: [trafficking, sale]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [prison, fine]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [lajosmizse, csepa, szolnok]
 open_questions:

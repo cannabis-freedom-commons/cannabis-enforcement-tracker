@@ -22,6 +22,16 @@ figures:
   kg_seized: 184.9
   value: { amount: 1437630, currency: USD }
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 184.9}, {product: plants, plants: 397}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [hawaii-county, vice, ocean-view]
 open_questions:

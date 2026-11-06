@@ -13,6 +13,14 @@ summary: >-
   Guinea’s National Gendarmerie seized 1,180 kg of cannabis in 47 sacks from a pirogue intercepted off Conakry on 3 March 2017. The boat had come from Sierra Leone; officers detained its captain after two others escaped by sea, and also questioned a woman who said she was in the wrong place.
 figures:
   kg_seized: 1180
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 848b034f26bbef5f28bef242e55c1eb8

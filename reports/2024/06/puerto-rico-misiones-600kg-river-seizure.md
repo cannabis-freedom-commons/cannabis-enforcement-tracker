@@ -15,6 +15,12 @@ figures:
   value:
     amount: 1300000000
     currency: ARS
+details:
+  agency_types: [border-guard, prosecutor]
+  products: [{product: flower, kg: 600}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.ellitoral.com/sucesos/incautaron-600-kilos-marihuana-cruzando-argentina-lanchas-flores-acuaticas-droga-ahora-hoy-misiones-puerto-rico-paraguyay-federal-video_0_CWNrIVTm4G.html

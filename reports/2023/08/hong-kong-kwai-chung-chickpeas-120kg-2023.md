@@ -18,6 +18,14 @@ figures:
   charged: 2
   kg_seized: 120
   value: { amount: 28000000, currency: HKD }
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.info.gov.hk/gia/general/202308/18/P2023081800505.htm

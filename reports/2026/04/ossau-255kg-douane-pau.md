@@ -19,6 +19,12 @@ figures:
     amount: 2000000
     currency: EUR
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [customs]
+  products: [{product: hashish, kg: 255.94}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [ossau, pau, douane, pyrenees-atlantiques]
 open_questions:

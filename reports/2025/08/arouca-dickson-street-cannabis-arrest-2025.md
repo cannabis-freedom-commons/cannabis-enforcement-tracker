@@ -13,6 +13,14 @@ summary: >-
   Trinidad and Tobago police arrested a Trincity man on 15 August 2025 after they saw him pass two foil packets of cannabis through a gate on Dickson Street, Arouca, during a roving North-Central Division operation. A search found the packets and cash, and he was held at Arouca Police Station for trafficking in cannabis.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8ff00186bdfa0cd1bfaf15ed45466fe3

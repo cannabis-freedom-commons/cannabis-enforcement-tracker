@@ -12,6 +12,14 @@ summary: >-
   Gendarmes seized 375 kg of cannabis from an abandoned cart near the Mbodiène lagoon in Mbour after six machete-armed escorts fled during a night operation on 11 September 2026. The drugs were taken to the Joal brigade as an investigation opened to find the traffickers still at large.
 figures:
   kg_seized: 375
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5c1d3c073722396f3be25f87d2d45ca2

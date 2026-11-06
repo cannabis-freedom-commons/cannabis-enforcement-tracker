@@ -15,6 +15,14 @@ figures:
   arrested: 0
   plants_destroyed: 9
   kg_seized: 0.0149
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 0.0149}, {product: plants, plants: 9}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.luxtimes.lu/luxembourg/cannabis-plants-seized-from-two-attics/1261788.html

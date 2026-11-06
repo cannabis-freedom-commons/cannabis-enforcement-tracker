@@ -15,6 +15,14 @@ figures:
   plants_destroyed: 20000
   value: { amount: 4000000, currency: BRL }
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 20000}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 open_questions:
   - Bahia Notícias carries the same Civil Police account as the state release; independent confirmation of the estimate was not reported.

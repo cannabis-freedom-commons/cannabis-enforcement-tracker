@@ -18,6 +18,16 @@ figures:
   kg_seized: 0.517
   prison: 10 years 6 months and 10 strokes of the cane
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  case_stage: sentenced
+  sentence_types: [death]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [appeal, death-penalty, caning, kedah]
 open_questions:

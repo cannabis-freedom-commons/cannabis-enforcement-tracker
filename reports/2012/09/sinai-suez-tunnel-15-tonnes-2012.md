@@ -17,6 +17,16 @@ summary: >-
 figures:
   kg_seized: 15000
 created_by_model: meta/muse-spark
+details:
+  activity: [smuggling, cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 15000}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [sinai, suez, bango, record-seizure]
 sources:

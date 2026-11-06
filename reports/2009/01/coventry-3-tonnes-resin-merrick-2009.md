@@ -21,6 +21,20 @@ figures:
   prison: 7 years
   value: { amount: 9500000, currency: GBP }
 created_by_model: meta/muse-spark
+details:
+  activity: [possession]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 3000}]
+  sentence_types: [prison]
+  setting: [home, building, prison]
+data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 3]
+  details.products: [1, 2, 3]
+  details.sentence_types: [1, 3]
+  details.setting: [1, 3]
 status: verified
 tags: [coventry, west-midlands-police]
 open_questions:

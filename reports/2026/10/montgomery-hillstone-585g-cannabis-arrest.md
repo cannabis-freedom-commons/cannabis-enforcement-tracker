@@ -16,6 +16,16 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 0.585
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  setting: [prison]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4d932ce9cefa10e8ca2cd6bb981ec378

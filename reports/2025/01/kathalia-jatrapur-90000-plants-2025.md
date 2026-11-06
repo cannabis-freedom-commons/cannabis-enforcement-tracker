@@ -16,6 +16,14 @@ figures:
   plants_destroyed: 90000
   hectares: 44.5
   value: { amount: 35000000, currency: INR }
+details:
+  agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 90000}]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [assam-rifles, tripura, joint-operation]

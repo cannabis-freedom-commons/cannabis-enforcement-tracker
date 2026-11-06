@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 7
   kg_seized: 5.6767
+details:
+  agency_types: [customs, coast-guard, anti-narcotics, police]
+data_sources:
+  details.agency_types: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.police.kn/press-releases/detail/916

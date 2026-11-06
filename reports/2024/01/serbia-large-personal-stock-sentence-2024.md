@@ -11,6 +11,10 @@ summary: >-
   cannabis, even though it was for his own use. An appeal had increased his original thirteen-month
   sentence by applying the large-quantity offence introduced in 2019.
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2, 3, 4, 5]
 status: verified
 cfi_id: serbia-large-personal-stock-sentence-2024
 tags:

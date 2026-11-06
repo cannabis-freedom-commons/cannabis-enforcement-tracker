@@ -12,6 +12,12 @@ summary: >-
   They were also investigating more than eight bags that arrived on an Air Sanga flight in May and
   disappeared from the terminal with the help of airport and police officers.
 created_by_model: unknown
+details:
+  agency_types: [customs, police]
+  setting: [airport]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: papua-new-guinea-airport-smuggling-2025
 sources:

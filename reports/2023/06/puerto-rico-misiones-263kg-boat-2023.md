@@ -15,6 +15,12 @@ figures:
   value:
     amount: 130000000
     currency: ARS
+details:
+  agency_types: [prosecutor]
+  products: [{product: flower, kg: 263}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9d0ddf568d094bf56cdaa8b682f97086

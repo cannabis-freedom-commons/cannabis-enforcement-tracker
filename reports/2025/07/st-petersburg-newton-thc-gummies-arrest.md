@@ -12,6 +12,12 @@ summary: >-
   St. Petersburg police arrested 22-year-old Danielle Newton for child neglect after a five-year-old in her care ate THC gummies and was hospitalized in stable condition. The child was taken to hospital late Sunday night acting lethargic, and police said the case remained under investigation.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a01fa7bcfc73eee4a2a10f358b86bcdd

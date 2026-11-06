@@ -18,6 +18,16 @@ figures:
   value:
     amount: 20000000
     currency: XAF
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: charged
+  setting: [port, vehicle, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://www.gabonreview.com/gabon-1000-ballots-de-chanvre-indien-saisis-a-bitam/

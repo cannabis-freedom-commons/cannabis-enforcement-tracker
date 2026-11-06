@@ -16,6 +16,14 @@ figures:
   value:
     amount: 36000000
     currency: LKR
+details:
+  activity: [smuggling]
+  agency_types: [military]
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [kerala-cannabis, kalpitiya, navy, seaborne-smuggling]

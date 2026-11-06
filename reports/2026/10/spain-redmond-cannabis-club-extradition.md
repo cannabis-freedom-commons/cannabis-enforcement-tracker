@@ -18,11 +18,13 @@ details:
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   case_stage: investigation
+  force: shots-fired
   setting: [shop]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.force: [1]
   details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low

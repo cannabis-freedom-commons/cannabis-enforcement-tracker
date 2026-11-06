@@ -23,11 +23,13 @@ details:
   activity: [trafficking]
   agency_types: [court]
   case_stage: sentenced
+  sentence_types: [death]
   setting: [vehicle]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [2, 1, 3]
   details.case_stage: [1, 2, 3]
+  details.sentence_types: [1, 3, 2]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

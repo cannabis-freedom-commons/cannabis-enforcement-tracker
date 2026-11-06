@@ -13,6 +13,18 @@ summary: >-
   Costa Rican coast guards detained six men aboard two go-fast boats off Bahía Ballena de Osa on 9 July 2026, including three men on a second boat carrying cocaine and marijuana. The first boat held more than 2.5 tonnes of cocaine presumed bound for the United States, while no separate cannabis weight was published.
 figures:
   arrested: 6
+details:
+  activity: [trafficking]
+  agency_types: [military]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b631589a85303bfedcc1eceebf51f578

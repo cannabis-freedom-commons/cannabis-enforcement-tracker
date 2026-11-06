@@ -17,6 +17,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 44.402
+details:
+  activity: [trafficking]
+  agency_types: [military, anti-narcotics, court]
+  sentence_types: [fine]
+  setting: [border, vehicle, prison]
+data_sources:
+  details.activity: [3, 1, 2]
+  details.agency_types: [3, 1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [3, 1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [checkpoint, civil-servants, dleag]

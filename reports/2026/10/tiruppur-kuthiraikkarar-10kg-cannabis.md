@@ -15,6 +15,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 10
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 275a8b3cb6531f896103f6f01a49a6f3

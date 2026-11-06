@@ -13,6 +13,10 @@ summary: >-
   controlled delivery. The case showed smugglers using ordinary food cargoes to move cannabis into
   Hong Kong.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: hong-kong-canada-cannabis-seizure-2024
 sources:

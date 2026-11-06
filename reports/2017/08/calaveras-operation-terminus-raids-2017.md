@@ -18,6 +18,14 @@ summary: >-
 figures:
   plants_destroyed: 28650
   arrested: 35
+details:
+  agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 28650}]
+data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [operation-terminus, environmental-crimes]

@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 225.4
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a76b540c0b2b7a216799a221accfdcea

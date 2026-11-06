@@ -9,6 +9,14 @@ coordinates: [26.798, 86.87]
 precision: locality
 type: seizure
 title: Abandoned Bolero held 940.44 kg at Chargare
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 940.44}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 tags: [abandoned-vehicle, bolero, manhunt]
 summary: >-
   Around 2 AM on Monday 12 October 2026 police found a Bolero pickup abandoned

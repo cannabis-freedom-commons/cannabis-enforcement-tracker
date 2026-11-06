@@ -12,6 +12,10 @@ summary: >-
   facto moratorium that had lasted since 2007, in a country whose drug law already allowed death for
   trafficking.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2, 3]
 status: verified
 cfi_id: kuwait-executions-resume-2013
 sources:

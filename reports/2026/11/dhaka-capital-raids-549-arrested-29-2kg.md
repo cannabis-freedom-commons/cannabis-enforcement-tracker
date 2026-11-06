@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 549
   kg_seized: 29.2
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 29.2}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 644079dcef69b64555bef208cda8114f

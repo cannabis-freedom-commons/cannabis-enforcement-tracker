@@ -21,12 +21,14 @@ details:
   agencies: [us-fbi]
   agency_types: [police]
   case_stage: charged
+  force: lethal
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 3]
+  details.force: [1, 2]
   details.products: [1, 3]
   details.setting: [1, 3, 2, 4]
 status: verified

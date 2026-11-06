@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 120
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 media:
   - kind: photo
     url: https://www.guinee7.com/2026/10/12/lola-120-kg-de-cannabis-saisis-par-la-police-trois-personnes-interpellees/

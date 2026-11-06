@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 9a74a3a479f566bb64124f40625cff9b

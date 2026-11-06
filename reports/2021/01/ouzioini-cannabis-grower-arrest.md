@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 30
+details:
+  activity: [cultivation]
+  agency_types: [gendarmerie, police, prosecutor]
+  case_stage: investigation
+  products: [{product: plants, plants: 30}]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 723fa4d8a4b054686ef746ced5a04e24

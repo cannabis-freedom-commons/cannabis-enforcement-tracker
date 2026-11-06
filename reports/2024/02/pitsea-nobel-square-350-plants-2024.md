@@ -14,6 +14,18 @@ summary: >-
   with hydroponic equipment. No one was present and no arrests were made.
 figures:
   plants_destroyed: 350
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  environment: [indoor]
+  products: [{product: plants, plants: 350}]
+  setting: [building]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [essex-police, cannabis-factory, pitsea]

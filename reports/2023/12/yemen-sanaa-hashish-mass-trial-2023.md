@@ -12,6 +12,14 @@ summary: >-
   and confiscated property; in a separate case that day, one man got five years and two others 25
   years for possessing a block of hashish.
 created_by_model: unknown
+details:
+  agency_types: [court]
+  products: [{product: hashish}]
+  sentence_types: [death]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: yemen-sanaa-hashish-mass-trial-2023
 sources:

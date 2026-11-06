@@ -12,6 +12,14 @@ also: [raid]
 title: Cash, alleged drugs and 9 phones seized in Janos search
 summary: >-
   Ministerial investigators searched a property in Janos, Chihuahua, seizing cash, bags of alleged cocaine and marijuana, nine phones and a DVR, with no arrests reported. All items were placed at the disposal of the Northwestern Zone prosecutor as forensic analysis and investigation continue.
+details:
+  agency_types: [prosecutor]
+  products: [{product: flower}]
+  sentence_types: [fine]
+data_sources:
+  details.agency_types: [1, 9, 2, 3, 4, 6]
+  details.products: [1, 2, 4, 8, 9, 3]
+  details.sentence_types: [1, 2, 3, 4, 6, 7]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c753aa9b437e60ea7fab0478f6fc32b6

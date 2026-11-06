@@ -19,6 +19,14 @@ figures:
   plants_destroyed: 1000
   kg_seized: 22
   hectares: 2
+details:
+  activity: [cultivation]
+  agency_types: [military]
+  products: [{product: flower, kg: 22}, {product: plants, plants: 1000}]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [2, 1]
+  details.products: [2, 1]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [yacopi, army, cundinamarca]

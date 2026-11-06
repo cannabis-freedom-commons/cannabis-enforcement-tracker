@@ -15,6 +15,12 @@ summary: >-
   fellow sufferers; she was found unconscious that morning and taken to
   hospital.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police, court]
+  case_stage: charged
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 tags: [orkney, medical-use, canna-choc]
 sources:

@@ -15,6 +15,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.05023
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 0510e87a767773bf453fd684412849d3

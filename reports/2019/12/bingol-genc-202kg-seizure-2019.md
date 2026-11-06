@@ -12,6 +12,10 @@ summary: >-
   Turkish security forces seized 202 kg of marijuana from a stream bed in Genç, Bingöl, in a sniffer dog-aided operation on Dec. 31, 2019. The provincial governor's office announced the seizure and said anti-drug efforts would continue across the province.
 figures:
   kg_seized: 202
+details:
+  products: [{product: flower, kg: 202}]
+data_sources:
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.hurriyetdailynews.com/more-than-200-kg-of-marijuana-seized-in-eastern-turkey-150469

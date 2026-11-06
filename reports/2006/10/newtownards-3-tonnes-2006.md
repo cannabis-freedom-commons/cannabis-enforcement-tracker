@@ -19,6 +19,14 @@ figures:
   arrested: 2
   charged: 2
   value: { amount: 18000000, currency: GBP }
+details:
+  activity: [possession]
+  agency_types: [customs, police]
+  case_stage: charged
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [psni, newtownards, county-down, record-seizure]

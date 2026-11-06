@@ -14,6 +14,14 @@ summary: >-
 figures:
   charged: 1
   prison: 5 months firm
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 801056611e00ee85abd5213157639c5d

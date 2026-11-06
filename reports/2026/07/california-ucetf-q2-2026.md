@@ -19,6 +19,10 @@ figures:
   arrested: 24
   value: { amount: 104000000, currency: USD }
 created_by_model: anthropic/opus-5.5
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [2, 1]
 status: verified
 tags: [ucetf, unlicensed-market, pesticides]
 sources:

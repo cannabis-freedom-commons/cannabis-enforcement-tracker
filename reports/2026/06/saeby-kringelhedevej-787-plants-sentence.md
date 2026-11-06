@@ -18,6 +18,20 @@ figures:
   plants_destroyed: 787
   kg_seized: 22
   prison: "9 months"
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  environment: [greenhouse]
+  products: [{product: flower, kg: 22}, {product: plants, plants: 787}]
+  sentence_types: [deportation]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.environment: [1, 2, 3]
+  details.products: [1, 3, 2]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [denmark, sentence, indoor]

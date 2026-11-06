@@ -19,7 +19,16 @@ figures:
   cash:
     amount: 805
     currency: USD
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [4, 3, 2, 1]
+  details.agency_types: [3, 2, 1, 4]
+  details.products: [3, 2, 1, 4]
+  details.setting: [3, 2, 1, 4]
   figures.arrested: [1]
   figures.cash: [1]
   figures.value: [1]

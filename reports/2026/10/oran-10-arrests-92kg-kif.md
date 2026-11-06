@@ -16,6 +16,14 @@ figures:
   arrested: 10
   charged: 10
   kg_seized: 9.2
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: hashish, kg: 9.2}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 1560e9f9d636b919df99c33430066462

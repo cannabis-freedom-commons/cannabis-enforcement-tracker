@@ -12,6 +12,14 @@ summary: >-
   of cannabis had been traded between 2023 and June 2024. Nguyễn Phi Cơ and Nguyễn Duy Mạnh received
   death sentences; Nguyễn Tuấn Anh received life.
 created_by_model: unknown
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [death]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: vietnam-cannabis-death-sentences-2026
 sources:

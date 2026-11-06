@@ -17,6 +17,18 @@ figures:
   charged: 1
   kg_seized: 0.858
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: sentenced
+  sentence_types: [death, life]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [gombak, mandatory-death-penalty]
 sources:

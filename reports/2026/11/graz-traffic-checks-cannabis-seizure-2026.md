@@ -10,6 +10,12 @@ type: seizure
 title: Four found unfit in Graz traffic checks; small cannabis seized
 summary: >-
   Graz traffic police found four drivers unfit to drive on 1 November 2026 during drink- and drug-driving checks, seizing licences and banning five people from continuing. Officers also seized a small amount of cannabis herb and filed one report under Austria's Narcotics Act.
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [2, 1, 3]
+  details.products: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.krone.at/4358513

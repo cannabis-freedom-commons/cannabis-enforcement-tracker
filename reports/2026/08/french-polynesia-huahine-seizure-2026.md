@@ -10,6 +10,12 @@ summary: >-
   Customs seized 794 cannabis plants and 208 cuttings, about 513 kg, in Huahine and destroyed them
   on site. The raid was one of the largest cannabis seizures reported in the territory.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  products: [{product: plants}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: french-polynesia-huahine-seizure-2026
 sources:

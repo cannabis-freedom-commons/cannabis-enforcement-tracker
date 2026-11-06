@@ -18,6 +18,10 @@ figures:
     amount: 10000000000
     currency: TRY
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [gendarmerie, police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 tags: [lice, diyarbakir, destruction, gendarmerie]
 sources:

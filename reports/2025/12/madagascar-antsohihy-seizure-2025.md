@@ -11,6 +11,10 @@ summary: >-
   months, with 10 arrests. The stock was burned on 8 December, and another 400 kg was seized the
   same afternoon.
 created_by_model: unknown
+details:
+  agency_types: [gendarmerie]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: madagascar-antsohihy-seizure-2025
 sources:

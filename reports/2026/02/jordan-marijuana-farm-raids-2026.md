@@ -12,6 +12,12 @@ summary: >-
   officers detained four dealers with 5 kg of marijuana; they also seized hashish blocks, crystal
   meth and firearms in Ma'an, Zarqa, Ajloun and Ramtha.
 created_by_model: unknown
+details:
+  activity: [smuggling, trafficking]
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: jordan-marijuana-farm-raids-2026
 sources:

@@ -19,6 +19,16 @@ figures:
   value:
     amount: 6090000
     currency: INR
+details:
+  activity: [trafficking, cultivation, possession]
+  agency_types: [police]
+  products: [{product: plants, plants: 1592}]
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 media:
   - kind: video
     url: https://www.bhaskar.com/local/mp/dhar/kukshi/video/dehri-police-seize-cannabis-plants-field-drug-bust-139558088.html?type=video

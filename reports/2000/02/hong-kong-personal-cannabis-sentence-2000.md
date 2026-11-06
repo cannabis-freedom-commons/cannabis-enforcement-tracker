@@ -12,6 +12,12 @@ summary: >-
   fine, but the appeal judge accepted that the sentence was excessive in light of the sentencing
   authorities; the prosecution did not defend it.
 created_by_model: unknown
+details:
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: hong-kong-personal-cannabis-sentence-2000
 tags:

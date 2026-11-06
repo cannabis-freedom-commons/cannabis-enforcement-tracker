@@ -18,6 +18,14 @@ figures:
   arrested: 4
   kg_seized: 2950.84
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 2950.84}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [sirohi, intercropping]
 sources:

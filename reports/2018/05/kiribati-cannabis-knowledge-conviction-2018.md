@@ -10,6 +10,12 @@ summary: >-
   Fisheries officer Tebaatei Kourabi received a fine after being convicted of keeping cannabis he
   had found and used for about a month.
 created_by_model: unknown
+details:
+  agency_types: [court]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 cfi_id: kiribati-cannabis-knowledge-conviction-2018
 tags:

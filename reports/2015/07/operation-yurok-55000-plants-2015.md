@@ -20,6 +20,14 @@ figures:
   kg_seized: 454
   arrested: 7
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  products: [{product: plants, plants: 55000}]
+  setting: [field, home]
+data_sources:
+  details.activity: [3, 1, 2]
+  details.products: [1, 3]
+  details.setting: [3, 1, 2]
 status: verified
 tags: [yurok, humboldt-county, operation-yurok]
 media:

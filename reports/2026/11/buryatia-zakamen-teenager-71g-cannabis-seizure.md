@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.071
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://tvatv.ru/news/proisshestviya/84703-v-rayone-buryatii-podrostok-sobral-konoplyu-dlya-sebya/

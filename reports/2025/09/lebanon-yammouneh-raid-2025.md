@@ -12,6 +12,10 @@ summary: >-
   two other clan members were wounded. The army did not mention the strike, saying soldiers returned
   fire during raids and killed a wanted man.
 created_by_model: unknown
+details:
+  agency_types: [military]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: lebanon-yammouneh-raid-2025
 sources:

@@ -18,6 +18,14 @@ figures:
   plants_destroyed: 30000
   hectares: 0.61
   arrested: 1
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 30000}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [berbice, ebini, b-division]

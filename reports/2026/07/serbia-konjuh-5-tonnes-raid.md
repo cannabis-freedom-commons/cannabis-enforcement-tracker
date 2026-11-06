@@ -21,6 +21,7 @@ details:
   case_stage: investigation
   products: [{product: flower, kg: 5000}]
   route: {from: [mk], to: [rs]}
+  sentence_types: [fine]
   setting: [vehicle, home, building]
 data_sources:
   details.activity: [1, 3, 7, 2, 9]
@@ -28,6 +29,7 @@ data_sources:
   details.case_stage: [3, 4, 7]
   details.products: [1, 3, 5, 7, 2, 9]
   details.route: [3]
+  details.sentence_types: [5, 6, 8]
   details.setting: [3, 5, 6, 4, 7]
 media:
   - kind: photo

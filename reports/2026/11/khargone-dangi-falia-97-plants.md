@@ -18,6 +18,12 @@ figures:
   value:
     amount: 74000
     currency: INR
+details:
+  activity: [cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 media:
   - kind: video
     url: https://www.bhaskar.com/local/mp/khargone/video/khargone-ganja-seized-police-arrest-youth-field-raid-139602081.html?type=video

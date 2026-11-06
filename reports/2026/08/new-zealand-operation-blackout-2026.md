@@ -12,6 +12,14 @@ summary: >-
   raids; police seized about NZ$1.25 million of cultivation equipment, 35 kg of cannabis and
   NZ$80,000 in cash.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: new-zealand-operation-blackout-2026
 sources:

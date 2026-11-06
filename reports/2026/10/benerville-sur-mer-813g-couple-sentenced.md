@@ -26,12 +26,14 @@ details:
   case_stage: sentenced
   products:
     - {product: hashish}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2, 4, 1]
   details.agency_types: [1, 4, 3, 2]
   details.case_stage: [2, 3, 1]
   details.products: [1, 2, 3]
+  details.sentence_types: [2, 3, 1]
   details.setting: [2, 3, 1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

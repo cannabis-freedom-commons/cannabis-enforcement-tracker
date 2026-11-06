@@ -13,6 +13,14 @@ summary: >-
   Ghana's IGP Special Operations Team arrested 192 suspects in operations across Accra-area communities and the Eastern Region from October 2 to 29, 2026. Police recovered suspected Indian hemp in the Eastern Region with other suspected drugs, pharmaceuticals, firearms and ammunition, holding all suspects for investigation.
 figures:
   arrested: 192
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 55aace9b249bb695cb0f547967bbd4c8

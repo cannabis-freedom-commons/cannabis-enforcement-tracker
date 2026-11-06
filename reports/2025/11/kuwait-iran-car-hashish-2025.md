@@ -12,6 +12,10 @@ summary: >-
   car. The case pointed to Iran as a source of resin shipped across the Gulf. The suspect was
   referred to the narcotics prosecution.
 created_by_model: unknown
+details:
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: kuwait-iran-car-hashish-2025
 sources:

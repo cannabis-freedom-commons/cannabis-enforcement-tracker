@@ -13,6 +13,14 @@ summary: >-
   Lezha police arrested 18-year-old Klevis Paplekaj on suspicion of selling cannabis doses mainly near schools, seizing 83 doses and a mobile phone. The Operation Impulse case under the Clean Schools plan was referred to the Lezha prosecution for further action.
 figures:
   arrested: 1
+details:
+  activity: [sale]
+  agency_types: [police, prosecutor]
+  setting: [home]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fa188a259dfe0dfa58b21805e41fc04b

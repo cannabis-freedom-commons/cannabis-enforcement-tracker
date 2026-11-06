@@ -17,6 +17,14 @@ summary: >-
   fields along the Gambian border, the Armed Forces said.
 figures:
   deaths: 3
+details:
+  activity: [cultivation]
+  force: lethal
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.force: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [casamance, military]

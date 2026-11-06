@@ -20,12 +20,14 @@ figures:
     currency: INR
 details:
   agency_types: [customs]
+  environment: [indoor]
   products:
     - {product: flower}
   route: {from: [th], to: [in]}
   setting: [airport]
 data_sources:
   details.agency_types: [1, 3, 2]
+  details.environment: [1, 3, 2]
   details.products: [1, 2, 3]
   details.route: [1, 3]
   details.setting: [1, 3, 2]

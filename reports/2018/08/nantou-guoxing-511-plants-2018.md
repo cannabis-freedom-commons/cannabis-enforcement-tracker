@@ -19,6 +19,18 @@ figures:
   kg_seized: 0.17558
   plants_destroyed: 511
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  products: [{product: plants, plants: 511}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 tags: [mountain-grow, manufacturing]
 open_questions:

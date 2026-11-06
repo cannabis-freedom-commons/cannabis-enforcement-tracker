@@ -20,6 +20,14 @@ figures:
   kg_seized: 54
   value: { amount: 2500000, currency: GBP }
 created_by_model: meta/muse-spark
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 28000}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [cannabis-factories, skunk, operation-keymer]
 open_questions:

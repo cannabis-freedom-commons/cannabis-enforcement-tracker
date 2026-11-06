@@ -18,6 +18,7 @@ details:
   activity: [trafficking]
   agency_types: [gendarmerie]
   case_stage: investigation
+  force: lethal
   products:
     - {product: hashish}
   setting: [forest]
@@ -25,6 +26,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.force: [2, 1]
   details.products: [1]
   details.setting: [2, 1]
 status: verified

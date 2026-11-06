@@ -16,6 +16,12 @@ figures:
   value:
     amount: 1297000000
     currency: ARS
+details:
+  agency_types: [coast-guard, police, prosecutor]
+  products: [{product: flower, kg: 332}]
+data_sources:
+  details.agency_types: [2, 3, 4, 1]
+  details.products: [1, 4, 2, 3]
 media:
   - kind: photo
     url: https://dataportuaria.com/en/argentina/current-affairs/misiones-coast-guard-seizes-over-300-kilos-of-marijuana-28d585

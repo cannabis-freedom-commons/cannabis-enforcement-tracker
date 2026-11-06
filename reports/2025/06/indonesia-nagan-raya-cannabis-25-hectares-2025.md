@@ -17,6 +17,16 @@ figures:
   plants_destroyed: 1000000
   kg_seized: 200000
   hectares: 25
+details:
+  activity: [trafficking]
+  agency_types: [customs, police]
+  case_stage: investigation
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://aceh.antaranews.com/berita/387093/bareskrim-polri-musnahkan-25-ha-ladang-ganja-di-nagan-raya

@@ -17,6 +17,16 @@ figures:
   value:
     amount: 93288
     currency: XCD
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 4.54}]
+  setting: [airport]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2, 3]
+  details.setting: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.thestkittsnevisobserver.com/southeast-peninsula-search-leads-seizure-weed-coke/

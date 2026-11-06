@@ -13,6 +13,12 @@ summary: >-
   Incheon Yeonsu police detained a Russian man in his 40s accused of driving in Yeonsu District on 28 October after using cannabis; a preliminary urine test was positive for cannabis. Police found his stay had expired, handed him to immigration authorities, and sought forensic confirmation after a warrant request was not pursued.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 3, 7, 8, 9, 10]
+  details.case_stage: [1, 3, 7, 8, 9, 10]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1374d67e11b0f98b6617f84cbca14fa8

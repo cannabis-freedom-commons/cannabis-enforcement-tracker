@@ -18,6 +18,14 @@ figures:
   arrested: 1
   kg_seized: 240
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [border, mail]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [prm, inhambane, govuro, soruma, cross-border]
 open_questions:

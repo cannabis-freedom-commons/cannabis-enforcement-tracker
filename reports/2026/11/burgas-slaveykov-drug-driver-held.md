@@ -12,6 +12,12 @@ summary: >-
   Police in Burgas's Slaveykov complex detained a 37-year-old Daihatsu Sirion driver accused of driving after using cannabis, amphetamine and methamphetamine. He refused a chemical test, was held for up to 24 hours, and police opened fast-track proceedings.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 241b73427481b0a6ae876659a7aa3531

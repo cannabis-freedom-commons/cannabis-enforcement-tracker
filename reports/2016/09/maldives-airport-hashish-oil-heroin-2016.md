@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 8
   kg_seized: 24.9
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs, police]
+  products: [{product: hashish, kg: 24.9}, {product: oil}]
+  setting: [airport, home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://maldivesindependent.com/crime-2/27kg-of-drugs-smuggled-from-india-seized-from-airport-126646

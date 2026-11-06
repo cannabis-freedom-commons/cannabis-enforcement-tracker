@@ -13,6 +13,16 @@ summary: >-
   Thames Valley Police found cannabis inside a house in Stonea Close, Lower Earley, on 28 October after being called to a report of drugs offences. No one was arrested, officers could not say how much cannabis was found, and a resident's suspicion that the house was a cannabis farm was not confirmed.
 figures:
   arrested: 0
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [port, home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [lower-earley, reading, berkshire, thames-valley, drugs-raid]

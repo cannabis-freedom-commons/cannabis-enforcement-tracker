@@ -15,6 +15,20 @@ figures:
   arrested: 1
   charged: 1
   plants_destroyed: 17
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  environment: [greenhouse]
+  products: [{product: flower}, {product: plants, plants: 17}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.environment: [2, 1]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://www.novinky.cz/clanek/krimi-muz-na-chomutovsku-pestoval-ve-foliovniku-konopi-po-udani-mu-ho-prisla-sklidit-policie-40500915

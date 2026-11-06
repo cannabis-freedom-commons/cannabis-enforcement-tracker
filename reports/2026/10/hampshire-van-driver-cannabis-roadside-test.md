@@ -13,6 +13,14 @@ summary: >-
   A van driver was stopped in Hampshire for not wearing a seatbelt and arrested after a roadside test for cannabis came back positive, Hampshire Constabulary said. The driver was in custody for a blood specimen procedure, and no charge or court date has been announced.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.dailyecho.co.uk/news/26684283.van-driver-arrested-stopped-hampshire-police/

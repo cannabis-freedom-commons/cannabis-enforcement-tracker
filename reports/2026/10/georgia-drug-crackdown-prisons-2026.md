@@ -12,6 +12,16 @@ summary: >-
   General's Office opened 119 drug cases against Russian citizens in 2024, 196 in 2025 and 234 in
   the first nine months of 2026.
 created_by_model: unknown
+details:
+  case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [prison, deportation]
+  setting: [prison]
+data_sources:
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: georgia-drug-crackdown-prisons-2026
 sources:

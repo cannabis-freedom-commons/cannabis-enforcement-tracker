@@ -12,6 +12,12 @@ summary: >-
   involved, and each was fined BHD10,000. It was the first time Bahraini courts imposed death for a
   non-lethal drug offence.
 created_by_model: unknown
+details:
+  products: [{product: hashish}]
+  sentence_types: [death, fine]
+data_sources:
+  details.products: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
 status: verified
 cfi_id: bahrain-first-drug-death-sentences-2018
 sources:

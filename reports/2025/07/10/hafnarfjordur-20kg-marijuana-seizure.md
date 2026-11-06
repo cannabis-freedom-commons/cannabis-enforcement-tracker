@@ -18,6 +18,14 @@ figures:
   arrested: 6
   kg_seized: 20
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [customs, police]
+  products: [{product: flower, kg: 20}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [import, capital-region]
 open_questions:

@@ -16,6 +16,14 @@ summary: >-
 figures:
   charged: 2
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [edibles, students]
 sources:

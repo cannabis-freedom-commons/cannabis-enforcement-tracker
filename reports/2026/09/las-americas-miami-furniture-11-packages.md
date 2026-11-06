@@ -10,6 +10,14 @@ type: seizure
 title: 11 marijuana packages seized in seat shipped from Miami to Las Américas
 summary: >-
   Dominican anti-drug agents seized 11 packages of suspected marijuana hidden inside a bench seat shipped from Miami to Las Américas airport in Boca Chica. No arrests were reported, and the material was sent to the national forensics institute while prosecutors investigate those responsible and the shipment's destination.
+details:
+  agency_types: [anti-narcotics, prosecutor]
+  products: [{product: flower}]
+  setting: [airport, vehicle, mail]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/republica-dominicana/2026/09/20/autoridades-dominicanas-incautaron-11-paquetes-de-presunta-marihuana-oculta-en-un-mueble-enviado-desde-miami/

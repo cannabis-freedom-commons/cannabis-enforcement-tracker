@@ -23,12 +23,14 @@ details:
   agency_types: [anti-narcotics]
   activity: [trafficking]
   case_stage: charged
+  force: lethal
   products: [{product: flower, kg: 88991}]
 data_sources:
   details.activity: [4]
   details.agencies: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [2, 3, 4]
+  details.force: [1, 3, 2, 4]
   details.products: [1, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

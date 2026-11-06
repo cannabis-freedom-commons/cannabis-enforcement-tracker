@@ -18,6 +18,18 @@ figures:
   charged: 1
   prison: 4 years
   value: { amount: 7000, currency: GBP }
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [prison]
+  setting: [building, prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cannabis-factory, caretaker, debt]

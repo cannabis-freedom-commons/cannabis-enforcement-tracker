@@ -22,11 +22,13 @@ details:
   activity: [trafficking, cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  environment: [indoor]
   products: [{product: flower}]
 data_sources:
   details.activity: [2, 3, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.environment: [2]
   details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark

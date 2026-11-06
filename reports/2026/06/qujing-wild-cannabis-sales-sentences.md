@@ -16,6 +16,16 @@ figures:
   charged: 2
   prison: 1 year and 9 months, respectively
 created_by_model: openai/gpt-6
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  environment: [wild]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 tags: [qujing, sentence, wild-cannabis]
 sources:

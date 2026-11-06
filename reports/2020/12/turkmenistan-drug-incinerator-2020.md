@@ -12,6 +12,10 @@ summary: >-
   furnaces. The government presented the facility as a sign of its commitment to drug control; it
   did not say which drugs made up the total.
 created_by_model: unknown
+details:
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: turkmenistan-drug-incinerator-2020
 sources:

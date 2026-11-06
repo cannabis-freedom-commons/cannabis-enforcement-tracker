@@ -18,6 +18,12 @@ figures:
   value:
     amount: 2080000
     currency: BDT
+details:
+  agency_types: [military, police]
+  setting: [border, vehicle, prison]
+data_sources:
+  details.agency_types: [1, 8, 6, 2, 4, 7]
+  details.setting: [1, 4, 5, 6, 7, 8]
 media:
   - kind: photo
     url: https://www.ajkerpatrika.com/bangladesh/rajshahi/ajpvmpxpuhmqu

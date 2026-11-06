@@ -12,6 +12,12 @@ summary: >-
   Malian customs seized more than 300 kg of cannabis in 172 packages at Kati on the Bamako-Dakar road as it was being moved toward Senegal. The drivers and accomplices fled, abandoning two vehicles and the load, which officers took to Bamako.
 figures:
   kg_seized: 300
+details:
+  agency_types: [customs]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://malijet.com/les_faits_divers_au_mali/92858-du-chanvre-indien-saisi-au-mali-en-partance-pour-le-senegal.html

@@ -24,6 +24,12 @@ figures:
     amount: 17800000
     currency: INR
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 317}]
+data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.products: [1, 2, 3, 4]
 status: verified
 tags:
   - rental-car

@@ -13,6 +13,14 @@ summary: >-
   Guinea's border police seized 106 kg of cannabis in Pamalap, Forécariah, during the cross-border mission Épervier on 15 August 2025. Officers also recovered cannabis seeds and destroyed cannabis plants found on site, according to a national police communique.
 figures:
   kg_seized: 106
+details:
+  activity: [trafficking]
+  agency_types: [border-guard, police]
+  products: [{product: plants}, {product: seeds}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://guinee28.info/plus-de-100-kg-de-cannabis-saisis-a-pamelap/

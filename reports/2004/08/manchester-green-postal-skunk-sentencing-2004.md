@@ -22,11 +22,13 @@ details:
   case_stage: sentenced
   products:
     - {product: flower}
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2]
   details.products: [1, 2]
+  details.sentence_types: [2]
   details.setting: [1, 2]
 status: verified
 tags: [manchester-crown-court, postal-importation, skunk, confiscation]

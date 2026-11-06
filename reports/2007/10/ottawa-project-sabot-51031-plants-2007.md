@@ -20,10 +20,12 @@ figures:
 details:
   agencies: [ca-rcmp]
   agency_types: [police]
+  environment: [outdoor]
   products: [{product: flower, kg: 207}, {product: plants, plants: 51031}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.environment: [1]
   details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

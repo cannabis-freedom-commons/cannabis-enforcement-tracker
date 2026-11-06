@@ -24,12 +24,14 @@ details:
   products:
     - {product: flower}
     - {product: hashish}
+  sentence_types: [death]
   setting: [mail]
 data_sources:
   details.activity: [1, 3, 4, 5, 6, 2]
   details.agency_types: [2, 1, 3, 4, 5, 6]
   details.case_stage: [1, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
+  details.sentence_types: [1, 2, 3, 5, 6, 4]
   details.setting: [2, 1, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

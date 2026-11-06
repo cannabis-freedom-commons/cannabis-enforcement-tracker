@@ -16,6 +16,14 @@ summary: >-
   sources describe 11 jute sacks but give no net weight for the cannabis.
 figures:
   arrested: 2
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://africaho.bj/article/benin-1-031-boules-de-chanvre-indien-saisies-a-bante-deux-convoyeurs-togolais-arretes/

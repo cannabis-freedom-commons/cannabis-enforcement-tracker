@@ -25,12 +25,14 @@ details:
   agency_types: [court]
   case_stage: sentenced
   products: [{product: hashish, kg: 14}, {product: flower}]
+  sentence_types: [life, fine]
   setting: [airport, prison]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [trafficking, foreigners, plea-deal, thailand]

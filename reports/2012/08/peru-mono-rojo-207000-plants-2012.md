@@ -15,6 +15,14 @@ figures:
   kg_seized: 50000
   plants_destroyed: 207000
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower, kg: 50000}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [record-haul, andes]
 open_questions:

@@ -20,6 +20,12 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.975
+details:
+  activity: [possession]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [gray, trident, cat-food, commercial-quantity]

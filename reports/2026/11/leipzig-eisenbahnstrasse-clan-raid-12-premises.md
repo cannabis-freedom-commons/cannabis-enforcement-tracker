@@ -12,6 +12,16 @@ also: [seizure]
 title: 200 officers search 12 premises in Leipzig clan raid
 summary: >-
   About 200 customs, police and city officers checked 12 bars, shisha bars and shops in eastern Leipzig on 2 November 2026 in an anti-clan operation. Officers logged seven narcotics and cannabis-law violations and found larger quantities of narcotics in a commercial property on Eisenbahnstraße, with no separate cannabis weight published.
+details:
+  activity: [trafficking]
+  agency_types: [customs, police]
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [3, 5, 2, 4, 1]
+  details.agency_types: [1, 3, 2, 4, 5]
+  details.products: [2, 4, 1]
+  details.setting: [2, 4, 3, 5]
 media:
   - kind: photo
     url: https://www.radioleipzig.de/beitrag/naechtliche-razzia-auf-der-eisenbahnstrasse-200-beamte-durchsuchen-12-objekte-895475/

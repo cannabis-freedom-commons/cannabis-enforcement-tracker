@@ -17,6 +17,12 @@ summary: >-
   stop-and-search operations along major roads.
 figures:
   kg_seized: 5000
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [salima, destruction, disposal]

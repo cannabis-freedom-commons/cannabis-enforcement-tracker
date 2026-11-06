@@ -15,11 +15,13 @@ details:
   activity: [smuggling]
   agency_types: [customs, prosecutor, court]
   case_stage: sentenced
+  sentence_types: [prison, fine, deportation]
   setting: [airport]
 data_sources:
   details.activity: [2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
+  details.sentence_types: [2, 3, 1]
   details.setting: [1, 2, 3]
 status: verified
 cfi_id: china-beijing-airport-cannabis-2025

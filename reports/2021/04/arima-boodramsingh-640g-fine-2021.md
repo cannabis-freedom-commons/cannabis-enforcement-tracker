@@ -24,11 +24,13 @@ details:
   agency_types: [police]
   products:
     - {product: flower}
+  sentence_types: [fine]
   setting: [home]
 data_sources:
   details.activity: [2]
   details.agency_types: [2, 1]
   details.products: [2]
+  details.sentence_types: [2, 1]
   details.setting: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max

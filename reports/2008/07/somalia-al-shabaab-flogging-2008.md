@@ -10,6 +10,14 @@ summary: >-
   After Al-Shabaab seized the port city of Kismayo, three local men were arrested for possession of
   hashish. Their supply was burned and they were publicly flogged by the militants.
 created_by_model: unknown
+details:
+  activity: [possession]
+  case_stage: investigation
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: somalia-al-shabaab-flogging-2008
 sources:

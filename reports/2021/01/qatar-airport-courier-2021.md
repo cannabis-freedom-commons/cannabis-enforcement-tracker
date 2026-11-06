@@ -11,6 +11,14 @@ summary: >-
   five years in prison, a fine of 300,000 riyals and deportation. He said a friend at home, who had
   promised him a job in Qatar and paid for his ticket, had given him the case to deliver.
 created_by_model: unknown
+details:
+  case_stage: sentenced
+  sentence_types: [prison, fine, deportation]
+  setting: [airport, prison]
+data_sources:
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: qatar-airport-courier-2021
 tags:

@@ -13,6 +13,16 @@ summary: >-
   Bolivian authorities inspecting a Buses Cosmos coach in Cochabamba before it collected the São Paulo FC squad found about 86 kilos of marijuana hidden inside and seized it on 11 August 2026. The club is not linked to the load, the team travelled on to La Paz, and investigators were still working out who was responsible.
 figures:
   kg_seized: 86
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 86}]
+  setting: [airport, vehicle]
+data_sources:
+  details.agency_types: [4, 5, 8]
+  details.case_stage: [1, 2, 7, 3, 5, 6]
+  details.products: [1, 2, 6, 7, 5, 4]
+  details.setting: [2, 3, 5, 6, 8, 4]
 media:
   - kind: photo
     url: https://www.mediotiempo.com/futbol/autobus-trasladaria-sao-paulo-detenido-bolivia-86-kilos-marihuana

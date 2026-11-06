@@ -12,6 +12,14 @@ also: [seizure]
 title: 13 identified in three Bovril drug raids; marijuana seized
 summary: >-
   Police carried out three drug raids in Bovril, Entre Ríos, on 1 November 2026, identifying 13 people and seizing marijuana, cannabis plants, cash and 14 mobile phones. No detentions were reported in the initial account, which treated the case as alleged micro-trafficking under provincial Law 10.566.
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://ahora.com.ar/policiales/allanamientos-venta-drogas-bovril-marihuana-dinero-celulares

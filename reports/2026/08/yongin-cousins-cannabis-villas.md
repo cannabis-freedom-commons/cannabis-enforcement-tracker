@@ -20,6 +20,14 @@ figures:
   kg_seized: 2.3
   value: { amount: 230000000, currency: KRW }
 created_by_model: unknown
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 2.3}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
 status: verified
 tags: [villas, online-sales]
 sources:

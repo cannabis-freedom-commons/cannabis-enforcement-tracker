@@ -12,6 +12,12 @@ summary: >-
   with 37 kilograms of gold bars and precious metals that investigators treated as proceeds. The
   sentence was passed under the 1983 drug law, five months before its replacement took effect.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: kuwait-home-grow-life-sentence-2025
 sources:

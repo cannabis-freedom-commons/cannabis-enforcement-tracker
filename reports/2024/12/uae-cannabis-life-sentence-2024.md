@@ -12,6 +12,14 @@ summary: >-
   messages about sales. He had been caught in a sting in Al Nahda after a Sudanese buyer led
   investigators to him.
 created_by_model: unknown
+details:
+  agency_types: [court]
+  case_stage: appeal
+  sentence_types: [deportation]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: uae-cannabis-life-sentence-2024
 sources:

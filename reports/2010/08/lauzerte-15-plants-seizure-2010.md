@@ -15,6 +15,12 @@ figures:
   arrested: 1
   charged: 1
   plants_destroyed: 15
+details:
+  agency_types: [gendarmerie]
+  products: [{product: flower}, {product: plants, plants: 15}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.ladepeche.fr/article/2010/08/11/887044-cannabis-encore-une-plantation-saisie-a-lauzerte.html

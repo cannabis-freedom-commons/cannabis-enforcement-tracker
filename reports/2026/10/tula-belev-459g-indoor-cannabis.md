@@ -18,6 +18,16 @@ figures:
   arrested: 1
   plants_destroyed: 100
   kg_seized: 0.459
+details:
+  activity: [sale]
+  agency_types: [police]
+  products: [{product: flower, kg: 0.459}, {product: plants, plants: 100}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://tula.mk.ru/incident/2026/10/16/u-zhitelya-beleva-nashli-bolee-100-kustov-konopli-i-459-grammov-marikhuany.html

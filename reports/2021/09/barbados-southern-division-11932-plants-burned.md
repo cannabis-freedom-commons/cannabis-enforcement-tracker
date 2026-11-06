@@ -14,6 +14,12 @@ summary: >-
 figures:
   plants_destroyed: 11932
   kg_seized: 880
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 11932}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.bajanreporter.com/2021/09/destruction-of-1940-lbs-of-harvested-ganja-plants/

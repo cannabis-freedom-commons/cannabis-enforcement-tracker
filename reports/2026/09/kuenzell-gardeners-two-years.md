@@ -17,6 +17,18 @@ figures:
   arrested: 2
   prison: 2 years 3 months
 created_by_model: spacexai/grok-4.7#medium
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: plants}]
+  setting: [field, home, building]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [2]
+  details.setting: [1, 2]
 status: verified
 tags: [kuenzell, fulda]
 open_questions:

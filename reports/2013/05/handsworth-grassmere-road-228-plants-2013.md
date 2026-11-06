@@ -17,6 +17,14 @@ figures:
   plants_destroyed: 228
   prison: 2 years 8 months
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [vehicle, prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 tags: [birmingham, indoor-grow, gardener]
 sources:

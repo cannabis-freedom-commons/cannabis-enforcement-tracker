@@ -13,6 +13,16 @@ summary: >-
   Guangzhou Baiyun Airport customs seized 2,380.96 g of cannabis in a transit parcel declared as “cocoa crisps”, according to reporting on a customs case. Officers said five boxes of foreign-brand breakfast cereal contained vacuum-packed green plant fragments that tested as cannabis; the case was referred to anti-smuggling investigators.
 figures:
   kg_seized: 2.38096
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs]
+  case_stage: investigation
+  setting: [airport, mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [guangdong, guangzhou, customs, baiyun]

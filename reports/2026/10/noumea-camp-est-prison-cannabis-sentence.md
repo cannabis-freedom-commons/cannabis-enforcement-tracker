@@ -18,6 +18,16 @@ figures:
   value:
     amount: 435000
     currency: XPF
+details:
+  activity: [trafficking, possession]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [2, 1]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/nouvellecaledonie/elle-introduisait-du-cannabis-au-camp-est-une-trentenaire-condamnee-a-deux-ans-de-prison-ferme-1744977.html

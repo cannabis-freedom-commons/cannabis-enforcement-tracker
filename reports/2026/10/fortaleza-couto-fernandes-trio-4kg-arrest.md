@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 4
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 4}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://cn7.com.br/policia-civil-prende-trio-e-apreende-quatro-quilos-de-maconha-que-seriam-enviados-ao-interior-do-ceara/

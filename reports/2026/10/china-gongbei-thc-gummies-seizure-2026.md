@@ -13,6 +13,10 @@ summary: >-
   Customs officers at Gongbei Port found a packet of THC-positive gummies in a traveler's suitcase. The packet weighed 10.11 g net, and the case was referred to prosecutors for review.
 figures:
   kg_seized: 0.01011
+details:
+  agency_types: [customs, prosecutor]
+data_sources:
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.thepaper.cn/newsDetail_forward_34324206

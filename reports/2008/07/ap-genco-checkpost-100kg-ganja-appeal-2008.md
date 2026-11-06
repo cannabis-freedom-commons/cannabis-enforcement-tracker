@@ -19,6 +19,18 @@ figures:
   kg_seized: 100
   prison: time served (29 March 2007 to 9 July 2008)
   fine: { amount: 1000, currency: INR }
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 100}]
+  sentence_types: [fine]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [appeal, ndps]

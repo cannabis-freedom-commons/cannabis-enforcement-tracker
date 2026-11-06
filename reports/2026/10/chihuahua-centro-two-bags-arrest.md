@@ -14,6 +14,16 @@ summary: >-
   Municipal police in Chihuahua arrested a 43-year-old man and a 25-year-old woman in the colonia Centro after finding two bags of marijuana on their motorcycle. They were handed to the central-zone district prosecutor with the seized drug.
 figures:
   arrested: 2
+details:
+  activity: [possession]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.tiempo.com.mx/local/arrestan-a-pareja-con-marihuana-en-calles-del-centro/

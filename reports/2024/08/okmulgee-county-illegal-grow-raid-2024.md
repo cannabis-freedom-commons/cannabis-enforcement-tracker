@@ -14,6 +14,10 @@ summary: >-
   an illegal marijuana grow in Okmulgee County, seizing 1,244 pounds of untagged marijuana,
   more than 3,000 plants, three firearms and $25,000 in cash. No arrests were reported.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products: [{product: flower, kg: 564.27}, {product: plants}]
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags:
   - organized-crime

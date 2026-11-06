@@ -13,6 +13,14 @@ summary: >-
   Thomas Bryan, 56, was charged in February 2024 after a nearly year-long investigation into Delta 8 THC gummies sold at CBD Altoona. A search-warrant seizure took 552 items, and he was arraigned on February 20 and released on 40,000 dollars unsecured bail.
 figures:
   charged: 1
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 13951d97e28fbf7d8f8e1be45a462739

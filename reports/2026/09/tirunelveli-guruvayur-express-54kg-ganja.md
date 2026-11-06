@@ -18,6 +18,10 @@ figures:
   arrested: 2
   kg_seized: 54
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products: [{product: flower, kg: 54}]
+data_sources:
+  details.products: [1]
 status: verified
 tags: [tirunelveli, railway, guruvayur-express, nib-cid, rpf]
 sources:

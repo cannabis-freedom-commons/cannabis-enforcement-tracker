@@ -18,6 +18,16 @@ figures:
   arrested: 1
   deaths: 4
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  case_stage: investigation
+  force: lethal
+  products: [{product: flower}]
+data_sources:
+  details.activity: [2]
+  details.case_stage: [1, 2]
+  details.force: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [homicide, illicit-grow, organised-crime]
 sources:

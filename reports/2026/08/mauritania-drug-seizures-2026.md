@@ -12,6 +12,10 @@ summary: >-
   resin hidden in food shipments, 230 kg in a truck trailer at Bassiknou and 210 kg at Nouadhibou,
   alongside smaller amounts and thousands of psychotropic tablets.
 created_by_model: unknown
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 cfi_id: mauritania-drug-seizures-2026
 sources:

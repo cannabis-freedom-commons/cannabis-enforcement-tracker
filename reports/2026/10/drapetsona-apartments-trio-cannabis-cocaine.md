@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 1.113
+details:
+  agency_types: [police, prosecutor]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [drapetsona, athens, couple, pistol]

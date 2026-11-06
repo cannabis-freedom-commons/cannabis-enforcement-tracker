@@ -12,6 +12,12 @@ summary: >-
   DNCD and airport security seized 35 pounds of marijuana at Las Américas airport in Boca Chica from foil-lined boxes sent from Montevideo and manifested to Switzerland. No arrests were reported and prosecutors opened an investigation into the transit shipment amid reinforced Holy Week controls.
 figures:
   kg_seized: 15.876
+details:
+  products: [{product: flower, kg: 15.876}]
+  setting: [airport, vehicle]
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/republica-dominicana/2026/04/04/las-autoridades-dominicanas-incautan-35-libras-de-marihuana-y-cocaina-en-operativos-en-el-aeropuerto-de-las-americas/

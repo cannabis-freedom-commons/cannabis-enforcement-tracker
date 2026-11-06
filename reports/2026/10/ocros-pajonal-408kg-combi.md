@@ -16,6 +16,12 @@ summary: >-
 figures:
   kg_seized: 408
 created_by_model: xai/grok-4.7
+details:
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [ayacucho, divincri, combi]
 open_questions:

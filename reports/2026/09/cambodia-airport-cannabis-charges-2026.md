@@ -14,6 +14,14 @@ summary: >-
   Article 40 after two stops at Techo International Airport. On 6 September officers seized about 18
   kg of cannabis and heroin from two of them; on 9 September they found 73.017 kg of dried cannabis
   and 6.219 kg of white powder suspected to be heroin in the luggage of the other three.
+details:
+  activity: [trafficking]
+  agency_types: [court]
+  setting: [airport]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://phnompenhpost.com/national/customs-seize-140kg-of-outbound-narcotics-at-techo-intl-aiport/

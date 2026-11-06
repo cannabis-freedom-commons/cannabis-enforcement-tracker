@@ -12,6 +12,20 @@ summary: >-
   three months and two days in custody before bail, which the court deducted from a nine-month term,
   leaving five months and twenty-eight days suspended for two years. The court treated the grow…
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: flower}, {product: plants}]
+  sentence_types: [prison, suspended, fine]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 4]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 3, 4]
+  details.sentence_types: [1]
+  details.setting: [1, 2]
 status: verified
 cfi_id: vanuatu-five-plants-remand-2024
 tags:

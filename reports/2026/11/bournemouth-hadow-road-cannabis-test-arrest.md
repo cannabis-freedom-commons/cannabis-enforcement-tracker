@@ -12,6 +12,12 @@ summary: >-
   A driver was arrested on Hadow Road in Bournemouth after failing a roadside cannabis test while driving on a revoked licence during a school-street enforcement operation. The driver was further arrested on suspicion of assaulting a police officer, and enquiries are ongoing.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 media:
   - kind: photo
     url: https://www.bournemouthecho.co.uk/news/26695944.bournemouth-driver-arrested-cannabis-test-assault/

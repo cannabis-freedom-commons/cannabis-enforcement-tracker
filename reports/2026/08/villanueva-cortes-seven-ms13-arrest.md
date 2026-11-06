@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 7
   charged: 7
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [3, 2]
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [3, 2]
+  details.products: [2, 3, 1]
+  details.setting: [3, 1, 2]
 media:
   - kind: photo
     url: https://www.latribuna.hn/2026/08/27/siete-miembros-de-la-ms-13-capturados-con-droga-en-villanueva-cortes/

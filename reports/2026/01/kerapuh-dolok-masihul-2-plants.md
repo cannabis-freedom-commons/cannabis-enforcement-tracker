@@ -15,6 +15,14 @@ summary: >-
   plants were taken for investigation under Indonesia's narcotics law.
 figures:
   plants_destroyed: 2
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.detik.com/sumut/hukum-dan-kriminal/d-8297403/tanam-pohon-ganja-di-belakang-rumah-warga-sergai-ditangkap-polisi

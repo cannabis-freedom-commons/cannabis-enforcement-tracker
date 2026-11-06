@@ -12,6 +12,16 @@ summary: >-
   ordered to pay damages to the family. It was only the fourth known conviction of police for a
   drug-war killing, out of thousands of deaths.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison, fine]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: philippines-bonifacio-conviction-2024
 sources:

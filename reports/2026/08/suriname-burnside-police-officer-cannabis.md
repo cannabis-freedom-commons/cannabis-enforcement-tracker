@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: deepseek/deepseek-v4.1-flash#max
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower}]
+  setting: [border]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [suriname, coronie, burnside, police-officer]
 open_questions:

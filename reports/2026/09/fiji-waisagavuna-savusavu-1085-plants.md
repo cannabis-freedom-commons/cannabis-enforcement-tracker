@@ -19,6 +19,14 @@ summary: >-
 figures:
   plants_destroyed: 1085
 created_by_model: claude-apollo-4-8
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 1085}]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 tags: [savusavu, vanua-levu, police-farm]
 open_questions:

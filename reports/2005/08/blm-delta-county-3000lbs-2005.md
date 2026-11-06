@@ -16,6 +16,14 @@ summary: >-
   appeared to have operated for several years.
 figures:
   kg_seized: 1360.78
+details:
+  activity: [cultivation]
+  products: [{product: flower, kg: 1360.78}]
+  setting: [forest]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [blm, delta-county, public-lands]

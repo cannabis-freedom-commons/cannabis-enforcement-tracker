@@ -10,6 +10,14 @@ type: seizure
 title: Niger customs seize record 154 cannabis balls near Kouré
 summary: >-
   Niamey Customs Brigade officers intercepted 154 balls of cannabis about 22 km south of the Kouré checkpoint on 9 September 2026, a haul Customs called a brigade record. Acting on prior intelligence, officers stopped the suspect cargo before it continued; no arrests were reported.
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  setting: [border]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.journalduniger.com/niger-douane-saisie-record-154-boules-chanvre-indien/

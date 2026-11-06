@@ -19,6 +19,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 10
+details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: charged
+  setting: [mail]
+data_sources:
+  details.activity: [1, 4, 3, 5]
+  details.agency_types: [1, 5, 2, 3, 4]
+  details.case_stage: [1, 4, 5, 2, 3]
+  details.setting: [1, 5, 2, 3, 4]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bangkok, maldivians, tumblers, cargo, transnational]

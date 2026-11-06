@@ -20,6 +20,12 @@ figures:
   hectares: 7
   plants_destroyed: 225000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  products: [{product: flower, kg: 1950.45}, {product: oil}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [operation-kingfish, first-anniversary]
 open_questions:

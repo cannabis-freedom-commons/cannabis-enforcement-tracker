@@ -15,6 +15,16 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 27.22
+details:
+  activity: [smuggling]
+  case_stage: charged
+  products: [{product: flower, kg: 27.22}]
+  setting: [airport]
+data_sources:
+  details.activity: [1, 3]
+  details.case_stage: [1, 4, 3]
+  details.products: [1, 3, 2, 4]
+  details.setting: [1, 3, 2, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 389b655c8b2ba484877ac73ec36927d5

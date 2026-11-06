@@ -15,6 +15,10 @@ summary: >-
   state and federal investigation continued.
 figures:
   plants_destroyed: 109000
+details:
+  products: [{product: flower}, {product: plants, plants: 109000}]
+data_sources:
+  details.products: [1, 2]
 status: verified
 tags: [record-seizure]
 open_questions:

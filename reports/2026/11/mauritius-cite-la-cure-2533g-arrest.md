@@ -18,7 +18,14 @@ figures:
   value:
     amount: 260875
     currency: MUR
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  setting: [mail]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]
   figures.kg_seized: [1]

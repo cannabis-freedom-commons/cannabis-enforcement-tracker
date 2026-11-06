@@ -12,6 +12,14 @@ summary: >-
   implicated 395 people and held 45 in custody. It was an enforcement operation, not a change in the
   law.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: french-polynesia-matai-rorofai-2025
 sources:

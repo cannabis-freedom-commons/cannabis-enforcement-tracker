@@ -12,6 +12,18 @@ summary: >-
   A court in Kerch gave a local man a two-year suspended sentence with two years' probation for growing cannabis from seeds in a flowerpot and keeping a drug den used by three people. Police halted the activity during operative-search measures, and the verdict had not yet entered into force.
 figures:
   prison: 2 years suspended with 2-year probation
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  products: [{product: seeds}]
+  sentence_types: [probation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
+  details.sentence_types: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e3803b772565d230633b8a07ac48322a

@@ -13,6 +13,12 @@ summary: >-
   Municipal guards responding to a noise complaint on Suchodolska Street in Warsaw found marijuana on two young people on 2 November 2026. Police took the two into custody to trace the drug's source, while a sealed vodka bottle was handed to one's mother and the others received a warning talk.
 figures:
   arrested: 2
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 36e0a4796dfcc6fa4f671790e3523253

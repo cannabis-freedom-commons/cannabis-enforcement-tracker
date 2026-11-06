@@ -28,12 +28,14 @@ details:
   agency_types: [gendarmerie]
   case_stage: sentenced
   environment: [indoor]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [3, 2]
   details.agency_types: [2, 1, 3]
   details.case_stage: [3, 2]
   details.environment: [1, 2]
+  details.sentence_types: [3, 2]
   details.setting: [3, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

@@ -13,6 +13,14 @@ summary: >-
   Suwon prosecutors indicted rapper Bill Stax, 46, without detention on 16 October 2026 for violating the Narcotics Control Act. He is accused of buying cannabis and cannabis jelly from a dealer in November 2025 and smoking marijuana.
 figures:
   charged: 1
+details:
+  agency_types: [police, prosecutor]
+  case_stage: charged
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [suwon, rapper, edibles, indictment]

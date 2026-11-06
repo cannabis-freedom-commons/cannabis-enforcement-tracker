@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 6
   kg_seized: 55
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [gendarmerie, police, prosecutor, court]
+  case_stage: charged
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
 media:
   - kind: photo
     url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/petit-bourg-six-interpellations-apres-une-saisie-de-cannabis-et-de-cigarettes-de-contrebande-1085276.php

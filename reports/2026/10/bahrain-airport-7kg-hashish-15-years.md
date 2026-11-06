@@ -27,6 +27,7 @@ details:
   activity: [smuggling]
   agency_types: [customs, anti-narcotics, police, court]
   case_stage: sentenced
+  sentence_types: [fine, deportation]
   setting: [airport]
   products:
     - {product: hashish}
@@ -35,6 +36,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [airport, hashish, court]

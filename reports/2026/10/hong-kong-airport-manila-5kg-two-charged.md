@@ -19,6 +19,16 @@ figures:
   arrested: 2
   kg_seized: 5
   value: { amount: 1000000, currency: HKD }
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  case_stage: charged
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.info.gov.hk/gia/general/202610/11/P2026101100219.htm

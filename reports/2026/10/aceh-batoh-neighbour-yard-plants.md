@@ -19,6 +19,14 @@ figures:
   arrested: 1
   plants_destroyed: 21
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 21}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 tags: [aceh, polybag]
 sources:

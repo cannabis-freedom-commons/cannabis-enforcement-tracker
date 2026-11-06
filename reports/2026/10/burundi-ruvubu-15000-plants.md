@@ -16,6 +16,14 @@ summary: >-
 figures:
   hectares: 1.5
   plants_destroyed: 15000
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 15000}]
+  setting: [field]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [ruvubu-national-park, gitega, usalama-xii, cannabis-eradication]

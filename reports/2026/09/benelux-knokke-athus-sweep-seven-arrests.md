@@ -13,6 +13,12 @@ summary: >-
   Belgian, Dutch and Luxembourg police checked 968 vehicles and 382 people in the 4–5 September 2026 “From Knokke to Athus” operation for Benelux Day, making seven arrests. The sweep seized about 500 grams of drugs described as mainly cannabis, plus 700 cartons of contraband cigarettes.
 figures:
   arrested: 7
+details:
+  agency_types: [police]
+  setting: [border]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.luxtimes.lu/luxembourg/cannabis-cigarettes-seized-and-seven-arrests-in-benelux-cross-border-police-sweep/161165550.html

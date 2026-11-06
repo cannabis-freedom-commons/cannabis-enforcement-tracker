@@ -12,6 +12,12 @@ summary: >-
   Luxembourg customs seized 798.84 kg of cannabis hidden in benches in US air freight at Findel cargo centre on 13 November 2025. The pallets were delivered under surveillance to Belgium, which proved to be only a transit point before the load was redirected to another European country.
 figures:
   kg_seized: 798.84
+details:
+  agency_types: [customs, police, prosecutor]
+  setting: [airport]
+data_sources:
+  details.agency_types: [1, 3, 4, 5, 6, 2]
+  details.setting: [1, 3, 4, 5, 6, 2]
 media:
   - kind: photo
     url: https://actu.fr/faits-divers/environ-800-kg-de-cannabis-caches-dans-des-banquettes-saisis-a-l-aeroport-du-luxembourg_63557786.html

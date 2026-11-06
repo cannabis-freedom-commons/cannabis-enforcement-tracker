@@ -13,6 +13,16 @@ summary: >-
   Costa Rican authorities detained four men aboard a go-fast boat in the Pacific carrying two tons of marijuana and cocaine together. The suspects were taken to Golfito and presented to prosecutors, while no separate cannabis weight was published.
 figures:
   arrested: 4
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [port, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.eltiempo.com/mundo/latinoamerica/colombianos-capturados-en-un-decomiso-de-droga-en-costa-rica-702237

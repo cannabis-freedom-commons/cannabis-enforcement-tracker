@@ -15,6 +15,18 @@ figures:
   arrested: 13
   charged: 10
   kg_seized: 47
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 47}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f8bb3fdaa2186e1873e493ec5c8ef792

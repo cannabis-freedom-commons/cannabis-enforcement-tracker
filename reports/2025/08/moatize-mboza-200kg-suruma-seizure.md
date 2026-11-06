@@ -17,6 +17,12 @@ figures:
   value:
     amount: 6000000
     currency: MZN
+details:
+  case_stage: investigation
+  setting: [border, vehicle, home]
+data_sources:
+  details.case_stage: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6bb86f9f53aa72b524866bfa517f6fa2

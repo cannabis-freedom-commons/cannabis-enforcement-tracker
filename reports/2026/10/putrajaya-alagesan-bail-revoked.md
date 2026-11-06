@@ -17,6 +17,16 @@ summary: >-
 figures:
   charged: 1
   kg_seized: 6.276
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: charged
+  setting: [home, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [putrajaya, bail, trafficking-charge]

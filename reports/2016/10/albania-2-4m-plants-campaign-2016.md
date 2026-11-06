@@ -17,6 +17,18 @@ figures:
   plants_destroyed: 2400000
   hectares: 219
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  products: [{product: flower}, {product: plants, plants: 2400000}]
+  setting: [field, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 tags: [record-campaign, guardia-di-finanza, organised-crime]
 sources:

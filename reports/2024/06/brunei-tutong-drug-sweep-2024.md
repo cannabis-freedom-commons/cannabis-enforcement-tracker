@@ -11,6 +11,10 @@ summary: >-
   of syabu and 37.21 g of cannabis. The operation was one of the year's street-level enforcement
   actions and did not change the law.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: brunei-tutong-drug-sweep-2024
 sources:

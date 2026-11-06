@@ -19,12 +19,14 @@ details:
   agencies: [be-police]
   agency_types: [police]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [field, home, building]
 data_sources:
   details.activity: [2, 4, 1]
   details.agencies: [3]
   details.agency_types: [3]
   details.case_stage: [2, 4]
+  details.sentence_types: [2, 4]
   details.setting: [2, 4, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

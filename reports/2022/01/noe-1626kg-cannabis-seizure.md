@@ -13,6 +13,16 @@ summary: >-
   Ivorian customs officers seized 1,626 kg of cannabis from a motorcyclist at Noé on the Ghana border on 11 January 2022. The carrier and his accomplices were handed to the mixed police of Noé for investigation.
 figures:
   kg_seized: 1626
+details:
+  activity: [trafficking]
+  agency_types: [customs, police]
+  case_stage: investigation
+  setting: [vehicle]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d0979ae7382147e19cb4d573718f6d38

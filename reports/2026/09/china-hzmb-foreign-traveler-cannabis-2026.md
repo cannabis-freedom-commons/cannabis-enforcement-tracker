@@ -13,6 +13,12 @@ summary: >-
   Gongbei Customs officers at the Hong Kong-Zhuhai-Macao Bridge Zhuhai port seized 2.51 g of cannabis resin from a foreign male traveler on 13 September 2026 after he tried the green channel with a sealed bag in his trouser pocket. On-site tests were positive and laboratory analysis confirmed THC; the case went to anti-smuggling investigators.
 figures:
   kg_seized: 0.00251
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [guangdong, zhuhai, customs, hzmb]

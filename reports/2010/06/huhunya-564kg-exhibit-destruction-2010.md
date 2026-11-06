@@ -15,6 +15,14 @@ summary: >-
 figures:
   kg_seized: 564
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation, possession]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 tags: [yilo-krobo, indian-hemp, exhibit-destruction]
 open_questions:

@@ -21,6 +21,7 @@ details:
   case_stage: sentenced
   environment: [indoor]
   products: [{product: flower}, {product: plants}]
+  sentence_types: [prison]
   setting: [home, building, prison]
 data_sources:
   details.agencies: [1]
@@ -28,6 +29,7 @@ data_sources:
   details.case_stage: [1]
   details.environment: [1, 2]
   details.products: [1, 2]
+  details.sentence_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

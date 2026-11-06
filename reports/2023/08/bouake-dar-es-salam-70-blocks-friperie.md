@@ -13,6 +13,12 @@ summary: >-
   The anti-drug cell of the Bouaké gendarmerie arrested a woman selling drugs in the Dar Es Salam quarter on 20 August 2023, seizing 70 blocks of cannabis she had hidden in sacks of second-hand clothes. Officers infiltrated the network before catching her in the act of delivering the load.
 figures:
   arrested: 1
+details:
+  agency_types: [gendarmerie]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 media:
   - kind: photo
     url: https://news.abidjan.net/articles/723441/cote-divoire-70-blocs-de-cannabis-saisis-dans-des-balles-de-friperies-a-bouake

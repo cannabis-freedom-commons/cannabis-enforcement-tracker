@@ -14,6 +14,14 @@ summary: >-
   Municipal police in Chihuahua City arrested 20-year-old Óscar Ramón R. R. during Blindaje Capital patrols in colonia Rosario after finding five packets of suspected marijuana in his backpack. He was taken to the Zona Sur detention centre for processing before referral to the Public Prosecutor, and his motorcycle was impounded.
 figures:
   arrested: 1
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2a529a833182412146392e4b1cc583f5

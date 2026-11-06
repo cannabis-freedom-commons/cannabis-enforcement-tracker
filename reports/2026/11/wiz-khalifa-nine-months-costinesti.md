@@ -16,6 +16,16 @@ figures:
     prison: 9 months
     kg_seized: 0.01853
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking, possession]
+  agency_types: [police, prosecutor, court]
+  case_stage: acquitted
+  setting: [prison]
+data_sources:
+  details.activity: [2, 1, 3, 7, 9, 10]
+  details.agency_types: [1, 2, 7, 14, 16, 6]
+  details.case_stage: [12, 14, 15, 16, 18]
+  details.setting: [1, 2, 3, 14, 7, 16]
 status: verified
 tags: [costinesti, festival, appeal]
 open_questions:

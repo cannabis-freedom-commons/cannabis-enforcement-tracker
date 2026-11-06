@@ -15,6 +15,14 @@ figures:
   value:
     amount: 1200000
     currency: XOF
+details:
+  activity: [cultivation]
+  agency_types: [police, prosecutor]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.aip.ci/cote-divoire-aip-vingt-kilogrammes-de-cannabis-saisis-a-bongo-par-la-dpsd/

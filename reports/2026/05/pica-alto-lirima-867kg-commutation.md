@@ -13,7 +13,18 @@ summary: >-
   Carabineros stopped a Bolivian scout for a drug convoy carrying 867 kg of marijuana near Alto Lirima, Pica, in July 2021; he was sentenced to five years and a day. In May 2026 the Ministry of Justice cut three months from his term, one of 115 drug-offender commutations the ministry did not oppose.
 figures:
   kg_seized: 867
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 867}]
+  sentence_types: [prison]
+  setting: [vehicle, prison]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
   figures.kg_seized: [1]
 media:
   - kind: photo

@@ -14,6 +14,12 @@ summary: >-
   Police in Blansko found five cannabis plants about 180 centimetres tall on the balcony of a 39-year-old man's flat in August 2019 and seized them. The man, who said he grew them for his own use, faced an administrative fine of up to 15,000 koruna.
 figures:
   plants_destroyed: 5
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 5}]
+data_sources:
+  details.agency_types: [2, 1, 3]
+  details.products: [2, 1]
 media:
   - kind: photo
     url: https://brnenska.drbna.cz/krimi/14915-foto-muz-pestoval-na-balkone-pet-velkych-kytek-marihuany.html

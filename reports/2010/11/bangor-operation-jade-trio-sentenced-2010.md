@@ -18,6 +18,16 @@ figures:
   plants_destroyed: 11276
   charged: 3
 created_by_model: meta/muse-spark
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [building, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [operation-jade, north-wales-police, factory]
 open_questions:

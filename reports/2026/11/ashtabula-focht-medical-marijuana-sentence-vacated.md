@@ -13,6 +13,16 @@ summary: >-
   Ohio's Eleventh District Court of Appeals vacated the 36-month prison term imposed on Amy Arlene Focht after she admitted using medical marijuana while on community control. The court ordered resentencing, finding the trial judge failed to reconsider required sentencing factors and appeared to punish her for contesting the violations.
 figures:
   prison: 36 months, vacated
+details:
+  agency_types: [police, prosecutor, court]
+  products: [{product: flower}]
+  sentence_types: [prison, probation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7c154dde8a612745959fd01043da4443

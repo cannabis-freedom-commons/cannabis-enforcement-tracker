@@ -13,6 +13,12 @@ summary: >-
   Aqaba. The operations also led to arrests in Amman and Zarqa, where officers found further hashish
   and pills.
 created_by_model: unknown
+details:
+  products: [{product: hashish}]
+  setting: [border]
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: jordan-hashish-border-bust-2025
 sources:

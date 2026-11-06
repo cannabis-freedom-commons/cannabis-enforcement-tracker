@@ -22,11 +22,13 @@ details:
   activity: [trafficking]
   agency_types: [police]
   case_stage: sentenced
+  sentence_types: [death]
   setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [death-sentence, trafficking, shah-alam]

@@ -12,6 +12,12 @@ summary: >-
   under house arrest. At 82 g the amount is above the 50 g especially-large threshold, so the top
   possession tier of five to seven years applies.
 created_by_model: unknown
+details:
+  products: [{product: flower}]
+  setting: [port, home]
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: abkhazia-large-cannabis-seizure-2026
 sources:

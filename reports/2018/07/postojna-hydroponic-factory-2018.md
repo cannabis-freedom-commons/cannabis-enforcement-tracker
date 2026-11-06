@@ -16,6 +16,18 @@ figures:
   plants_destroyed: 2140
   kg_seized: 5
   charged: 1
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  environment: [indoor]
+  products: [{product: plants, plants: 2140}]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [postojna, hydroponics, koper-police]

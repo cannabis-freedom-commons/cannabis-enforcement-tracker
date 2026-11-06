@@ -18,6 +18,16 @@ figures:
   value:
     amount: 6500000
     currency: USD
+details:
+  activity: [trafficking]
+  agency_types: [military]
+  products: [{product: flower, kg: 1300}]
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [1, 3, 4, 2]
+  details.agency_types: [1, 4, 3]
+  details.products: [1, 4, 3, 2]
+  details.setting: [1, 4, 3]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [carchi, santa-martha-de-cuba, army]

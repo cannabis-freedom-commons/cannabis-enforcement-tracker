@@ -15,6 +15,14 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.437
+details:
+  activity: [smuggling, possession]
+  products: [{product: flower, kg: 0.437}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3ebe076c26669a732302b397419dad62

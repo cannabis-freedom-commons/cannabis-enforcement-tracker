@@ -11,6 +11,12 @@ summary: >-
   hemp grower Fresh Standard on about 7 May 2019 and uprooted its young plants
   as cannabis, months after the agriculture minister had exempted the crop.
 figures: {}
+details:
+  activity: [cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [hemp, licence-dispute]

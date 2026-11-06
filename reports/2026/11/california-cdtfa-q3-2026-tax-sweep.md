@@ -18,6 +18,14 @@ figures:
   value:
     amount: 2600000
     currency: USD
+details:
+  case_stage: sentenced
+  products: [{product: edibles}]
+  setting: [home, building, prison]
+data_sources:
+  details.case_stage: [3, 1]
+  details.products: [1, 3]
+  details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5859dd0d297da5e3caaae973e86605ea

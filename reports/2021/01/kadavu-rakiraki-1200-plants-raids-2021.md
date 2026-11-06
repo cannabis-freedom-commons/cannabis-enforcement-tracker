@@ -17,6 +17,14 @@ figures:
   arrested: 1
   plants_destroyed: 1200
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [kadavu]
 media:

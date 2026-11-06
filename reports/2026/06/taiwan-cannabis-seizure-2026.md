@@ -13,6 +13,12 @@ summary: >-
   largest cannabis seizure in ten years; seven people were arrested and prosecutors indicted them on
   24 August.
 created_by_model: unknown
+details:
+  agency_types: [coast-guard, police, prosecutor]
+  case_stage: charged
+data_sources:
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
 status: verified
 cfi_id: taiwan-cannabis-seizure-2026
 sources:

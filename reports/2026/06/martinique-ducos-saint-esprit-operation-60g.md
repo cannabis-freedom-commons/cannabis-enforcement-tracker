@@ -13,6 +13,12 @@ summary: >-
   Gendarmes deployed to three sensitive sectors of Ducos and Le Saint-Esprit in southern Martinique on 5 June 2026, searching for drugs, weapons and ammunition for about three hours. They seized 60 grams of cannabis herb and two cartridges and wrote ten fixed drug fines, without reporting any arrests.
 figures:
   kg_seized: 0.06
+details:
+  agency_types: [gendarmerie]
+  products: [{product: flower, kg: 0.06}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://rci.fm/martinique/infos/Societe/Operation-anti-delinquance-dans-le-Sud-du-cannabis-et-des-munitions-saisis

@@ -16,6 +16,7 @@ figures:
 details:
   agencies: [Mangawan police station]
   agency_types: [police]
+  force: shots-fired
   products:
     - {product: flower}
   activity: [trafficking, sale]
@@ -26,6 +27,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.force: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

@@ -18,6 +18,16 @@ summary: >-
 figures:
   arrested: 8
   charged: 8
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: plants}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.cbc.ca/news/canada/toronto/project-dos-drug-busts-southern-ontario-1.5129081

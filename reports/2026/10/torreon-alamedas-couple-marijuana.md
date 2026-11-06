@@ -14,6 +14,14 @@ summary: >-
   Grupo de Reacción Torreón officers detained José Miguel N. and Andrea Guadalupe N., both 23, in colonia Alamedas on 28 October 2026 after finding two bags of marijuana. They had been pulling a plaza bench and allegedly tried to hit the officers.
 figures:
   arrested: 2
+details:
+  activity: [possession]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.elsiglodetorreon.com.mx/noticia/2026/detienen-a-pareja-con-marihuana-danaban-la-banca-de-una-plaza-en-la-colonia-alamedas.html

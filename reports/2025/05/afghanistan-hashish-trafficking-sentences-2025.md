@@ -10,6 +10,18 @@ summary: >-
   A Taliban court sentences eleven people for trafficking hashish and narcotic tablets to between
   seven months and three and a half years in prison, plus ten to thirty-nine lashes.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  case_stage: sentenced
+  products: [{product: hashish}]
+  sentence_types: [prison, corporal]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: afghanistan-hashish-trafficking-sentences-2025
 tags:

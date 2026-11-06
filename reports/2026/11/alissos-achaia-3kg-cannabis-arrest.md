@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 3.117
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  setting: [home]
+data_sources:
+  details.activity: [1, 10, 4, 5, 6, 7]
+  details.agency_types: [1, 10, 4, 5, 6, 7]
+  details.setting: [1, 10, 4, 5, 6, 7]
 media:
   - kind: photo
     url: https://tempo24.news/dytiki-achaia-synelifthi-andras-me-perissotera-apo-3-kila-kannavis-kai-opla/

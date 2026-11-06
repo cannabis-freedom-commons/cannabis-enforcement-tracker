@@ -15,6 +15,16 @@ figures:
   arrested: 1
   charged: 1
   prison: 14 months
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [suspended]
+  setting: [vehicle, home, prison]
+data_sources:
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 1]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [3, 2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c329cac882d93d6d28d95d8d371071f3

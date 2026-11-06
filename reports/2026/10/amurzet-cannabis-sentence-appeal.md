@@ -16,6 +16,20 @@ figures:
   arrested: 1
   charged: 1
   prison: 3 years 6 months
+details:
+  activity: [possession]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [suspended]
+  setting: [port, prison]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3]
+  details.products: [2, 3]
+  details.sentence_types: [1]
+  details.setting: [3, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 6ebcf275afb0c25769ebde2d85ab6d3a

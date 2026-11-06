@@ -17,6 +17,14 @@ figures:
   charged: 1
   kg_seized: 3.87566
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  case_stage: appeal
+  sentence_types: [death]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 tags: [death-sentence, appeal, bangladeshi-student]
 sources:

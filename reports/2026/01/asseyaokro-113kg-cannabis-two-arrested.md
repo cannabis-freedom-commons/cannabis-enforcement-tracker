@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 113
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, court]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.aip.ci/cote-divoire-aip-deux-individus-interpelles-et-113-kg-de-cannabis-saisis-a-asseyaokro-police/

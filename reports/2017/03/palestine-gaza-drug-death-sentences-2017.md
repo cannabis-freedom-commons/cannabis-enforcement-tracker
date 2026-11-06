@@ -12,6 +12,12 @@ summary: >-
   sentenced in absentia; the interior ministry said police had seized $2 million of drugs in
   January, mostly cannabis and narcotics.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: sentenced
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: palestine-gaza-drug-death-sentences-2017
 sources:

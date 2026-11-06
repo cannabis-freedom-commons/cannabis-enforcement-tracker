@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 26.96
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 26.96}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://dps.arkansas.gov/news/asp-intercepts-nearly-60-pounds-of-illegal-marijuana-in-back-to-back-i-40-stops/

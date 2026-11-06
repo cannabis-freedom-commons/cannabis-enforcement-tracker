@@ -18,6 +18,12 @@ summary: >-
   country and gold-mining sites.
 figures:
   kg_seized: 86
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 3, 5, 2]
+  details.agency_types: [1, 3, 5, 2, 4]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ouagadougou, dpj, network, gold-mines]

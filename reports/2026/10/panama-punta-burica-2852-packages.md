@@ -18,6 +18,18 @@ figures:
   prison: 11 years
   charged: 3
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [chiriqui, punta-burica, senan, plea-agreement]
 open_questions:

@@ -21,6 +21,20 @@ figures:
   kg_seized: 5180
   prison: 12 years 6 months
 created_by_model: spacexai/grok-4.7
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  environment: [indoor, greenhouse]
+  sentence_types: [deportation]
+  setting: [vehicle, home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [2, 1]
+  details.sentence_types: [2, 1]
+  details.setting: [1, 2]
 status: verified
 tags: [toolamba, shepparton, county-court]
 open_questions:

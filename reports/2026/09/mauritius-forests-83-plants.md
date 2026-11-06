@@ -14,6 +14,12 @@ summary: >-
   behind the plots are being sought.
 figures:
   plants_destroyed: 83
+details:
+  activity: [cultivation]
+  setting: [forest]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [adsu, forests, eradication]

@@ -20,6 +20,12 @@ figures:
   kg_seized: 14.489
   value: { amount: 50000, currency: DZD }
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 tags: [network, house-search]
 sources:

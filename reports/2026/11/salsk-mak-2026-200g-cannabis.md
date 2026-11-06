@@ -15,6 +15,18 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.2
+details:
+  agency_types: [police]
+  case_stage: investigation
+  environment: [wild]
+  products: [{product: flower, kg: 0.2}]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 640470bc003706e25fa1e55aee3d5bbd

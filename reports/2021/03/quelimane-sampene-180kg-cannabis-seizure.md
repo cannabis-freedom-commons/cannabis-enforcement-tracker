@@ -13,6 +13,12 @@ summary: >-
   Sernic officers raided a house in Sampene, Quelimane on 18 March 2021 and seized 180 kg of cannabis alongside large amounts of heroin and morphine, detaining people including the Tanzanian tenant. Sernic said the drugs came from Tanzania and Quelimane was used as a reception and distribution point for onward movement to Maputo and South Africa.
 figures:
   kg_seized: 180
+details:
+  activity: [trafficking]
+  setting: [home, building]
+data_sources:
+  details.activity: [2, 3, 1]
+  details.setting: [3, 2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b0350e93feb70328dcc594d43590d868

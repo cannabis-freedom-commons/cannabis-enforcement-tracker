@@ -12,6 +12,10 @@ summary: >-
   psychotropic substances rose to 101 kg, 59% more than the year before. The agency said traffickers
   were shifting from cannabis and opium toward methamphetamine and other synthetics.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: tajikistan-drug-market-2024
 sources:

@@ -12,6 +12,12 @@ summary: >-
   Police in Breda arrested a 29-year-old French driver on 4 November 2026 after a check found mismatched plates and a forged registration certificate. A saliva test indicated cannabis use, and officers seized the Swiss-origin car while investigating possible theft.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
 media:
   - kind: photo
     url: https://www.ed.nl/brabant/franse-bestuurder-29-aangehouden-in-breda-met-vervalst-kentekenbewijs-en-onder-invloed~a21fcee2/

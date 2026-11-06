@@ -22,11 +22,13 @@ media:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  environment: [greenhouse]
   products: [{product: plants, plants: 66}]
   setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.environment: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
 status: verified

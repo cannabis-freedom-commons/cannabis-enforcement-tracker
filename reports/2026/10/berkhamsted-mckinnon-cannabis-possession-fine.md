@@ -15,6 +15,10 @@ figures:
   fine:
     amount: 1333
     currency: GBP
+details:
+  sentence_types: [fine]
+data_sources:
+  details.sentence_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ceaba58803e08df2a199cf92172f2964

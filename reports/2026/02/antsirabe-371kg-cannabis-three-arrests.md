@@ -16,6 +16,14 @@ figures:
   arrested: 3
   kg_seized: 371
 created_by_model: openai/gpt-6-luna#max
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [gendarmerie]
+  setting: [port]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [antsirabe, vakinankaratra, gendarmerie, seizure]
 sources:

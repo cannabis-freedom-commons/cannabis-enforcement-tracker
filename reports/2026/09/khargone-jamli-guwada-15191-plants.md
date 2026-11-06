@@ -20,6 +20,14 @@ figures:
   value:
     amount: 29800000
     currency: INR
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 15191}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.freepressjournal.in/indore/mps-khargone-police-use-drones-to-bust-298-crore-illegal-ganja-cultivation

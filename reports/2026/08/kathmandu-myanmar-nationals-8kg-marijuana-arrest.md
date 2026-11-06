@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 8.238
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 8.238}]
+  setting: [airport, vehicle]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3]
+  details.products: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9baf49739e854149ec3eb1c39bc4c05c

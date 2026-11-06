@@ -17,6 +17,18 @@ summary: >-
   possession case.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  environment: [wild]
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [rostov-on-don, aksay, mak-2026, article-228, russia]

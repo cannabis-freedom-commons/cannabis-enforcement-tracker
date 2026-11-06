@@ -10,6 +10,20 @@ summary: >-
   Portuguese sailor Joao Afonso was fined A$1,600 on a marijuana charge after the court accepted
   that it was part of his prescribed treatment but held it was a prohibited import in Kiribati.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower}, {product: plants}]
+  sentence_types: [fine]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 4, 6]
+  details.agency_types: [1, 3, 4, 6, 5]
+  details.case_stage: [3, 1]
+  details.products: [1, 3, 2]
+  details.sentence_types: [1]
+  details.setting: [1, 3, 4, 6]
 status: verified
 cfi_id: kiribati-prescription-marijuana-sailor-2016
 tags:

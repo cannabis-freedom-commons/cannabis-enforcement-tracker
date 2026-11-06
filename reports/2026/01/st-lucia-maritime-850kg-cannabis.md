@@ -17,6 +17,12 @@ figures:
   kg_seized: 850.42
   value: { amount: 3400000, currency: XCD }
 created_by_model: openai/gpt-6-luna#max
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [rslpf, maritime, caribbean]
 open_questions:

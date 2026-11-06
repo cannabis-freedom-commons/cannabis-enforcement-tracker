@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.0614
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.0614}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://rccnoticias.com.do/dncd-arresta-dos-por-microtrafico-y-ocupa-drogas-en-la-vega-594987/

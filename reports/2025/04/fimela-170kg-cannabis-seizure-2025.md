@@ -13,6 +13,10 @@ summary: >-
   Gendarmes of the territorial brigade of Fimela seized six packages of chanvre indien weighing 170 kg in Fatick department, between the villages of Loul Sessène and Fayil. The traffickers abandoned the load and fled, and an investigation was opened to identify them.
 figures:
   kg_seized: 170
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 95ec288449ec4de7590bf25c7c195da0

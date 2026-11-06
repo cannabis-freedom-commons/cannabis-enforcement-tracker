@@ -16,6 +16,12 @@ summary: >-
 figures:
   hectares: 50
   value: { amount: 2000000000, currency: XOF }
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [military]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [casamance, military, bignona]

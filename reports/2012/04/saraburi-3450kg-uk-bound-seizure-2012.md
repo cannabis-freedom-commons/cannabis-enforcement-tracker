@@ -18,6 +18,14 @@ figures:
   arrested: 1
   kg_seized: 3450
   value: { amount: 51000000, currency: THB }
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 3450}]
+  setting: [vehicle, home, building]
+data_sources:
+  details.agency_types: [2, 3, 1]
+  details.products: [2, 3, 1]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.dailymail.com/news/article-2136157/Thai-police-seize-3-000kg-marijuana-packed-boxes-destined-Kent-haulage-company.html

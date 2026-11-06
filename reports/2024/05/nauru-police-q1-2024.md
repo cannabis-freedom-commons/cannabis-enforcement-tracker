@@ -11,6 +11,10 @@ summary: >-
   illicit drug use and possession, but published no drug-specific breakdown. The figure covers all
   crime, not cannabis alone.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: nauru-police-q1-2024
 sources:

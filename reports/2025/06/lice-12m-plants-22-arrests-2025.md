@@ -17,6 +17,12 @@ figures:
   arrested: 22
   kg_seized: 127
   plants_destroyed: 12389000
+details:
+  agency_types: [gendarmerie, court]
+  products: [{product: flower, kg: 127}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [lice, diyarbakir, gendarmerie]

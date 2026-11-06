@@ -10,6 +10,16 @@ summary: >-
   Gendarmes and soldiers seized 350.06 kg of cannabis in 25 sacks at Sahambano forest, Ihosy, after
   traffickers opened fire and fled. Local police seized another 52 kg. No arrests were reported.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police]
+  force: shots-fired
+  setting: [forest]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.force: [1]
+  details.setting: [1]
 status: verified
 cfi_id: madagascar-ihosy-seizure-2025
 sources:

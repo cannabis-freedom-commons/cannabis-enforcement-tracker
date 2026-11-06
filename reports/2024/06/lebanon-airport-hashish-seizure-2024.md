@@ -11,6 +11,14 @@ summary: >-
   shipping suitcase and bound for an Arab country. The case was one of the few cannabis-specific
   seizures reported in 2024.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  products: [{product: hashish}]
+  setting: [airport]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: lebanon-airport-hashish-seizure-2024
 tags:

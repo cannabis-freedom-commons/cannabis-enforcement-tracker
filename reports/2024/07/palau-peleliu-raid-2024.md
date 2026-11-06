@@ -11,6 +11,14 @@ summary: >-
   Anna Gotlob was charged on 4 July 2024. Peleliu had been raided repeatedly since 2019, showing
   that local cultivation persisted despite the crackdowns.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: palau-peleliu-raid-2024
 sources:

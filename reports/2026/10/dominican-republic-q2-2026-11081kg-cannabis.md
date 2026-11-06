@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 12548
   kg_seized: 11081.45
+details:
+  case_stage: investigation
+  products: [{product: hashish, kg: 11081.45}, {product: flower}]
+data_sources:
+  details.case_stage: [1]
+  details.products: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.infobae.com/republica-dominicana/2026/10/04/republica-dominicana-ha-incautado-16671-kilogramos-de-drogas-durante-el-segundo-trimestre-de-2026/

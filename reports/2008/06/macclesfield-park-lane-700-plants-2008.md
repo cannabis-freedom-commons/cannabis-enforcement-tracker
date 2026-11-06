@@ -15,6 +15,14 @@ summary: >-
 figures:
   plants_destroyed: 700
   value: { amount: 50000, currency: GBP }
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 700}]
+  setting: [building]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [macclesfield, cheshire, cannabis-factory]

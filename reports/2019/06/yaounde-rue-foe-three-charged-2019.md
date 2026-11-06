@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 3
   charged: 3
+details:
+  activity: [trafficking, sale]
+  case_stage: charged
+  setting: [prison]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d85d88b13c9ec5a164e9517568c76c43

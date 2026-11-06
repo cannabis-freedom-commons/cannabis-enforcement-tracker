@@ -16,6 +16,16 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 3, 2, 4]
+  details.case_stage: [1, 2, 4]
+  details.products: [1, 3, 2]
+  details.setting: [1, 2, 4]
 status: verified
 tags: [marc-emery, smoke-in, tour]
 open_questions:

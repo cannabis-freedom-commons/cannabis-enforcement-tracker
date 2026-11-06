@@ -14,6 +14,14 @@ summary: >-
   Police in Dresden-Loebtau arrested a 29-year-old German man after finding cannabis, other drugs, weapons and about EUR 10,000 in his car and flat. Officers seized the drugs, cash and firearms and are investigating him for alleged drug trafficking while carrying weapons.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7b7f40e2ce1e371388eeb068e777fcee

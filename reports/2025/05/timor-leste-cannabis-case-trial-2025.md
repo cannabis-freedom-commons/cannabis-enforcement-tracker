@@ -12,6 +12,12 @@ summary: >-
   chocolate and 0.50 g of methamphetamine, with $4,139.25 in cash. Witnesses described the
   intelligence-led raids and disputed who had detained the first five suspects.
 created_by_model: unknown
+details:
+  case_stage: investigation
+  products: [{product: hashish}]
+data_sources:
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: timor-leste-cannabis-case-trial-2025
 sources:

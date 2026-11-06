@@ -13,6 +13,16 @@ summary: >-
   Greater Manchester Police arrested 19 people in 21 dawn raids across Bolton and nearby areas targeting a suspected organised crime group supplying Class A and Class B drugs including cannabis. Officers found crack cocaine, heroin and cannabis with a cannabis grinder at an Egerton Street address, but reported no separate cannabis weight.
 figures:
   arrested: 19
+details:
+  activity: [sale]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [vehicle, home]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 4, 5, 6, 2]
+  details.case_stage: [1, 3, 5, 6, 4, 2]
+  details.setting: [1, 2, 5, 6, 3, 4]
 media:
   - kind: photo
     url: https://www.theboltonnews.co.uk/news/26694846.19-arrested-bolton-raids-targeting-suspected-drug-network/

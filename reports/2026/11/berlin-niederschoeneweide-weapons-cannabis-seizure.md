@@ -11,6 +11,12 @@ also: [raid]
 title: Rifles, 108 rounds and cannabis seized in Berlin flat search
 summary: >-
   Berlin police searching a 39-year-old man's flat in Niederschöneweide for a gang drug-trafficking case seized rifles, striking weapons and suspected cannabis. Officers found an AK-47, a suspected operational Russian military weapon with 108 rounds and a not-small quantity of cannabis; investigations continue.
+details:
+  activity: [trafficking]
+  agency_types: [military, police, prosecutor]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://www.morgenpost.de/berlin/article413587812/polizei-entdeckt-waffenarsenal-in-berliner-wohnung.html

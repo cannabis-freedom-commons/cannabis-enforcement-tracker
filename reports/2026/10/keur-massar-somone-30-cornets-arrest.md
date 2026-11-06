@@ -13,6 +13,12 @@ summary: >-
   Gendarmes arrested two suspected members of a Guinea-Bissau–Senegal trafficking network in Keur Massar and Somone, seizing 30 cannabis cornets in Somone and 89 grams of cocaine in Keur Massar. One suspect was placed in custody on 2 October 2026 for alleged cannabis trafficking as the investigation continued.
 figures:
   arrested: 2
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5b31f8f5da32c88a6566d55e823c2f75

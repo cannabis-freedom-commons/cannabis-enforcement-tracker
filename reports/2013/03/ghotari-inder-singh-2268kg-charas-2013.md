@@ -21,11 +21,13 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agency_types: [police]
+  environment: [wild]
   products:
     - {product: hashish}
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

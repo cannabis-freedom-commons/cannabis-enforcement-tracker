@@ -12,6 +12,10 @@ summary: >-
   authorities, the cannabis was hidden among second-hand clothing and was being taken to Benin
   through Togo.
 created_by_model: openai/gpt-6
+details:
+  setting: [vehicle]
+data_sources:
+  details.setting: [1, 2, 3, 4]
 status: verified
 cfi_id: togo-cannabis-bus-seizure-2020
 tags:

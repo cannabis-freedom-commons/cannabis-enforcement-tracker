@@ -26,6 +26,18 @@ figures:
     amount: 131200
     currency: EUR
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: flower, kg: 32.8}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [hautes-pyrenees, douanes, pyrenees, trafficking]
 open_questions:

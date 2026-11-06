@@ -74,6 +74,7 @@ details:
   activity: [cultivation]
   case_stage: sentenced
   products: [{product: flower, kg: 78645}, {product: plants, plants: 157290}]
+  sentence_types: [prison]
   setting: [field, home, prison]
 data_sources:
   details.activity: [5, 6, 7, 8, 9, 11, 12, 13]
@@ -81,6 +82,7 @@ data_sources:
   details.agency_types: [5, 6, 7, 8, 9, 11, 12, 13]
   details.case_stage: [5, 6, 9, 12, 13, 7]
   details.products: [2, 4, 1, 3, 15, 17]
+  details.sentence_types: [5, 6, 9, 12, 13, 7]
   details.setting: [5, 6, 11, 12, 9, 13]
 status: reported
 created_by_model: swancloud/deepseek-v4.1-flash#max

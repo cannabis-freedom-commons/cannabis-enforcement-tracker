@@ -18,6 +18,18 @@ figures:
   kg_seized: 0.276
   prison: 5 months suspended
 created_by_model: unknown # This runtime did not disclose its exact model identifier or reasoning effort.
+details:
+  activity: [possession]
+  agency_types: [military, police, prosecutor, court]
+  case_stage: sentenced
+  products: [{product: plants}]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [lapland, tervola, grow]
 open_questions:

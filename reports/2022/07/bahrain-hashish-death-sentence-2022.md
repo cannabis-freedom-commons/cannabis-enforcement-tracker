@@ -12,6 +12,16 @@ summary: >-
   Iran and the intelligence dated from March. On appeal the sentence became life imprisonment, and
   the Court of Cassation upheld the life term on 24 July 2023.
 created_by_model: unknown
+details:
+  agency_types: [court]
+  case_stage: executed
+  sentence_types: [death, life]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: bahrain-hashish-death-sentence-2022
 sources:

@@ -17,6 +17,14 @@ figures:
   value:
     amount: 447000
     currency: USD
+details:
+  case_stage: investigation
+  products: [{product: flower, kg: 67.59}]
+  setting: [vehicle, prison]
+data_sources:
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://statepatrol.nebraska.gov/nearly-150-lbs-marijuana-seized-i-80-traffic-stop

@@ -17,6 +17,20 @@ figures:
   charged: 1
   prison: 10 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [prison]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.sentence_types: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [medical-marijuana, chico, mandatory-minimum]
 sources:

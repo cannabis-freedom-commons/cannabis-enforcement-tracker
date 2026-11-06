@@ -19,6 +19,12 @@ figures:
   kg_seized: 40.82
   value: { amount: 70968116, currency: GYD }
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 95000}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [berbice, narcotics-branch]
 open_questions:

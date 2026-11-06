@@ -16,6 +16,14 @@ summary: >-
 figures:
   plants_destroyed: 31000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 31000}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [kadavu, operation-sasamaki, police]
 open_questions:

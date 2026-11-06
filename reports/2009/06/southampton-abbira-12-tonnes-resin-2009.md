@@ -24,12 +24,14 @@ details:
   agency_types: [customs, police, court]
   case_stage: sentenced
   products: [{product: hashish, kg: 12500}]
+  sentence_types: [prison]
   setting: [port]
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [2, 3, 1]
   details.case_stage: [1, 3]
   details.products: [2, 3]
+  details.sentence_types: [1, 3]
   details.setting: [3]
 status: verified
 tags: [southampton, customs, soca, maritime]

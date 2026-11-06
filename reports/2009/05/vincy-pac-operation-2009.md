@@ -18,6 +18,20 @@ figures:
   arrested: 30
   deaths: 3
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  force: lethal
+  products: [{product: flower}, {product: plants, plants: 8500000}]
+  setting: [field]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [3, 2, 1]
+  details.case_stage: [3]
+  details.force: [3, 2, 1]
+  details.products: [3, 2, 1]
+  details.setting: [2, 1]
 status: verified
 tags: [st-vincent, vincy-pac, eradication]
 sources:

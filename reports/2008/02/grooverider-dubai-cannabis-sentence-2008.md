@@ -17,6 +17,20 @@ summary: >-
 figures:
   kg_seized: 0.00216
   prison: 4 years
+details:
+  activity: [possession]
+  agency_types: [customs, court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.00216}]
+  sentence_types: [deportation]
+  setting: [airport, prison]
+data_sources:
+  details.activity: [1, 3, 4, 2]
+  details.agency_types: [1, 3, 4, 2]
+  details.case_stage: [1, 3, 4]
+  details.products: [1, 3, 4, 2]
+  details.sentence_types: [1, 3, 4]
+  details.setting: [1, 3, 4, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [sentencing, pardon]

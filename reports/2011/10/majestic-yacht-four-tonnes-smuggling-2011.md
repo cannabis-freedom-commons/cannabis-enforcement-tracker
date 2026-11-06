@@ -19,6 +19,14 @@ figures:
   charged: 4
   kg_seized: 4000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [port, prison]
+data_sources:
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [smuggling, yacht, english-channel, newhaven]
 sources:

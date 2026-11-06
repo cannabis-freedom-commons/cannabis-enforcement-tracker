@@ -17,6 +17,16 @@ figures:
   kg_seized: 37.451
   prison: 17 years
 created_by_model: spacexai/grok-4.7#medium
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [paphos, ykan]
 open_questions:

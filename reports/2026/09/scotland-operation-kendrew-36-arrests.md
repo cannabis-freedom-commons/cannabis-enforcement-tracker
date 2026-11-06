@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 36
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 tags: [police-scotland, operation-kendrew, vietnamese]
 open_questions:

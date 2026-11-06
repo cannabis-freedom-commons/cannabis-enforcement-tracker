@@ -18,6 +18,14 @@ summary: >-
 figures:
   kg_seized: 510
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 510}]
+  setting: [border]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ssb, nepal-border, orchard]
 sources:

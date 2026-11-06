@@ -18,6 +18,12 @@ figures:
   arrested: 137
   kg_seized: 1600
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 tags: [kirehe, exhibits-destruction]
 sources:

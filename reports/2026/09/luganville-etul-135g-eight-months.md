@@ -18,6 +18,16 @@ figures:
   arrested: 1
   kg_seized: 0.135
   prison: 8 months
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  products: [{product: flower, kg: 0.135}]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [luganville, court, taxi]

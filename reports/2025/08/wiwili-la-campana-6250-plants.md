@@ -17,6 +17,18 @@ summary: >-
 figures:
   plants_destroyed: 6250
   arrested: 1
+details:
+  activity: [cultivation]
+  agency_types: [military, police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 6250}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [wiwili, jinotega, army]

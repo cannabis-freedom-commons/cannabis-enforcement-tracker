@@ -15,6 +15,20 @@ figures:
   arrested: 1
   plants_destroyed: 46
   kg_seized: 5.9
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, court]
+  case_stage: sentenced
+  environment: [greenhouse]
+  products: [{product: plants, plants: 46}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [2, 4, 1]
+  details.agency_types: [2, 4, 1, 3]
+  details.case_stage: [2, 1, 4]
+  details.environment: [2, 3, 1, 4]
+  details.products: [2, 3, 1, 4]
+  details.setting: [2, 3, 1, 4]
 media:
   - kind: photo
     url: https://la1ere.franceinfo.fr/reunion/une-quarantaine-de-pieds-de-zamal-saisis-avec-des-fusils-a-lunettes-et-des-munitions-a-saint-benoit-1745043.html

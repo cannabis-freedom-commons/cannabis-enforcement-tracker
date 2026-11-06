@@ -10,6 +10,10 @@ summary: >-
   The annex to UNODC's 2007 Cannabis in Africa overview records 3,004 kilograms of cannabis herb
   seized in Burkina Faso over the years 2000 to 2005.
 created_by_model: unknown
+details:
+  products: [{product: flower}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: burkina-faso-herb-seizures-2000-2005
 sources:

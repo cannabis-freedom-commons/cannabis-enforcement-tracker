@@ -11,6 +11,14 @@ summary: >-
   about 1,269 tonnes of marijuana and 139 tonnes of cocaine between November 2020 and December 2024,
   and that 13,359 people had been arrested for drug trafficking in that time.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: bolivia-marijuana-seizures-2024
 sources:

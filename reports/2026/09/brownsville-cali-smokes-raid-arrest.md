@@ -14,6 +14,12 @@ summary: >-
   Task force agents raided Cali Smokes in Brownsville and a linked location, jailing clerk Yousef Al Baadani after an undercover kratom buy. The reported haul of over 50 pounds mixes kratom and marijuana/THC products, so no separate cannabis weight can be recorded.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.wbbjtv.com/2026/09/21/brownsville-smoke-shop-raid-nets-50-pounds-illegal-kratom-marijuana/

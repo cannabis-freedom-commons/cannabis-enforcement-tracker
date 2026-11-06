@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.00522
+details:
+  activity: [smuggling]
+  agency_types: [police]
+data_sources:
+  details.activity: [4, 2]
+  details.agency_types: [2, 4, 1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f7fe524ab3b1a5d0bb98e4bda15e960a

@@ -21,6 +21,18 @@ figures:
   kg_seized: 56.5
   prison: 10 years
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower, kg: 56.5}]
+  sentence_types: [prison]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 tags: [menyamya, morobe, lae-court]
 open_questions:

@@ -13,6 +13,12 @@ summary: >-
   separatist bases around Badjom in Casamance and uncovered several hectares
   of cannabis fields feeding what it calls the rebels' criminal economy.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [casamance, mfdc, badjom]
 sources:

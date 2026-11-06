@@ -15,6 +15,12 @@ figures:
   kg_seized: 750
   value: { amount: 10000000, currency: XAF }
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 tags: [exhibit-destruction, ngounie]
 sources:

@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2.72
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [2, 1]
 media:
   - kind: photo
     url: https://www.laprensa.hn/sucesos/capturan-presunto-integrante-banda-nikson-con-6-paquetes-sustancias-trojes-NO31845686

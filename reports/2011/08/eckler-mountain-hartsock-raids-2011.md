@@ -19,6 +19,18 @@ figures:
   arrested: 3
   plants_destroyed: 28065
   value: { amount: 25700000, currency: USD }
+details:
+  activity: [trafficking, cultivation, possession]
+  agency_types: [prosecutor]
+  case_stage: appeal
+  products: [{product: flower}, {product: plants, plants: 28065}]
+  setting: [forest, prison]
+data_sources:
+  details.activity: [2, 5, 1, 3]
+  details.agency_types: [2, 5, 1, 3, 4]
+  details.case_stage: [1, 2, 5]
+  details.products: [1, 2, 5]
+  details.setting: [1, 2, 3, 4]
 media:
   - kind: photo
     url: https://www.waitsburgtimes.com/story/2011/08/18/front-page/biggest-pot-raid-of-the-year/4952.html

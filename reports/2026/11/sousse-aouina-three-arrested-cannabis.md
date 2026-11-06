@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.5
+details:
+  activity: [trafficking]
+  case_stage: investigation
+  products: [{product: hashish, kg: 0.5}, {product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2, 4]
+  details.case_stage: [1, 2, 3, 4]
+  details.products: [1, 2, 4, 3]
+  details.setting: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d11b063d6b91a661ebd2af1f471c7120

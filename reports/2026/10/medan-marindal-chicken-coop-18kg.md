@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 18
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [home, building, prison]
+data_sources:
+  details.activity: [2, 6, 7, 8, 9, 10]
+  details.agency_types: [1, 10, 13, 20, 21, 22]
+  details.case_stage: [2, 6, 7, 8, 9, 10]
+  details.setting: [1, 10, 13, 20, 21, 22]
 media:
   - kind: photo
     url: https://sumut.akurat.co/hukum-kriminal/902847/satresnarkoba-polrestabes-medan-gerebek-gudang-penyimpanan-narkoba-berkedok-kandang-ayam-18-kg-ganja-disita

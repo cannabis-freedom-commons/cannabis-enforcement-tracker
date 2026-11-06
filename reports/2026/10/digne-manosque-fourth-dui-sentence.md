@@ -18,6 +18,14 @@ figures:
   charged: 1
   prison: 8 months
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [gendarmerie, police, prosecutor, court]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [driving, recidivism, alpes-de-haute-provence]
 open_questions:

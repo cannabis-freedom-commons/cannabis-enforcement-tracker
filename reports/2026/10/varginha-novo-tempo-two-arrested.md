@@ -23,12 +23,14 @@ details:
   activity: [trafficking, sale]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  force: physical
   products: [{product: flower}]
   setting: [home]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.force: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.5
+details:
+  case_stage: investigation
+  products: [{product: flower, kg: 1.5}, {product: seeds}]
+  setting: [home]
+data_sources:
+  details.case_stage: [1]
+  details.products: [1, 2, 3]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/v-podmoskovnom-podolske-politsiya-izyala-u-muzhchiny-bolee-1-5-kg-marikhuany-podgotovlennoy-im-dlya-/

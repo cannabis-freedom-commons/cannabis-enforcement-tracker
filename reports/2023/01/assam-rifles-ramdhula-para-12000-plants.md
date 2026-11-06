@@ -18,6 +18,14 @@ figures:
   hectares: 0.81
   value: { amount: 2400000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [field, forest]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [assam-rifles, unakoti, tripura-police]
 media:

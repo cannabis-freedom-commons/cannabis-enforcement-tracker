@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  activity: [trafficking, sale]
+  agency_types: [gendarmerie, police, prosecutor]
+data_sources:
+  details.activity: [1, 5, 7, 6, 2, 4]
+  details.agency_types: [1, 4, 5, 7, 3, 2]
 media:
   - kind: video
     url: https://stiridebuzau.ro/video-tanar-de-27-de-ani-arestat-pentru-trafic-de-droguri-in-buzau-vindea-canabis-si-cristal-prin-metoda-dead-drop/

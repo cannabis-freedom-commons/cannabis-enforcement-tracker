@@ -15,6 +15,18 @@ figures:
   plants_destroyed: 485
   kg_seized: 0.5
   prison: 10 months
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison, deportation]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.dailymail.com/news/article-16264545/Albanian-illegal-migrant-jailed-1-5m-cannabis-plot-wins-right-fight-deportation-crime-didnt-cause-harm.html

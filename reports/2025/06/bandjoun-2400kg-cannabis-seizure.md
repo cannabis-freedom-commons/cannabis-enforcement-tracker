@@ -16,6 +16,12 @@ summary: >-
 figures:
   kg_seized: 2400
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [customs]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: verified
 tags: [customs, bandjoun, west-region]
 open_questions:

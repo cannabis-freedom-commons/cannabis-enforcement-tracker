@@ -12,6 +12,10 @@ summary: >-
   Police stopped a 23-year-old driver from Haan on the L11 between Nideggen and Brück on 2 November 2026 after reports of reckless driving. A voluntary saliva test was positive for cannabis, so officers had blood taken, seized his licence and opened a criminal case for suspected endangerment of road traffic.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 77af4b88616d395f5d132636adbc65ef

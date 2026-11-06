@@ -18,6 +18,14 @@ figures:
   kg_seized: 1302.3
   value: { amount: 1200000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [customs]
+  products: [{product: flower, kg: 1302.3}]
+  setting: [port, vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [controlled-delivery, customs]
 open_questions:

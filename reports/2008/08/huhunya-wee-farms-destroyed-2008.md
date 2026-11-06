@@ -16,6 +16,14 @@ summary: >-
 figures:
   arrested: 2
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation, sale]
+  agency_types: [police]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [eastern-region, indian-hemp, yilo-krobo]
 open_questions:

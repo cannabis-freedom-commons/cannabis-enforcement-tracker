@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  agency_types: [police, court]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.setting: [2, 1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 79bf33b0eceee40a6abcd92927098117

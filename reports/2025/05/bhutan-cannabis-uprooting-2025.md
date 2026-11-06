@@ -12,6 +12,10 @@ summary: >-
   1.26 kg of hashish and 337 plants seized in 2024, and 225 cannabis-abuse cases against 197 in
   2023. The campaign was enforcement, not a change in the law.
 created_by_model: unknown
+details:
+  products: [{product: hashish}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: bhutan-cannabis-uprooting-2025
 sources:

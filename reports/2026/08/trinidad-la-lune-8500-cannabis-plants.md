@@ -16,6 +16,16 @@ summary: >-
 figures:
   value: { amount: 8550000, currency: TTD }
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants}]
+  setting: [field, forest]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 open_questions:
   - Only one focused report was found; it gives no exact plant total beyond “more than 8,500” or area for the seven fields.

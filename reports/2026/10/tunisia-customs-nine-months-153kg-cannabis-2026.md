@@ -16,6 +16,12 @@ figures:
   value:
     amount: 190000000
     currency: TND
+details:
+  agency_types: [customs]
+  setting: [border]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e15edbd18cd3a6f938455852deeb1c45

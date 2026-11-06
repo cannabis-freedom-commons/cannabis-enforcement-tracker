@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 123
   kg_seized: 257
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.voaportugues.com/a/namibe-06-27-2011-voanews-124607959/1260584.html

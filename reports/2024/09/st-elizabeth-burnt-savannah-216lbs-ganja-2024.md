@@ -16,6 +16,14 @@ summary: >-
 figures:
   kg_seized: 98
   value: { amount: 2160000, currency: JMD }
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 98}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.jamaicaobserver.com/2024/09/04/216-pounds-ganja-seized-st-elizabeth/

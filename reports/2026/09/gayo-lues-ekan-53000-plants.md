@@ -22,6 +22,14 @@ figures:
   hectares: 26.5
   kg_seized: 180
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 53000}]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [gayo-lues, pining, operasi-antik-seulawah, eradication]
 sources:

@@ -15,6 +15,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.226
+details:
+  activity: [smuggling]
+  agency_types: [customs, prosecutor]
+  setting: [airport, mail]
+data_sources:
+  details.activity: [3, 4, 2, 1, 5]
+  details.agency_types: [3, 1, 5, 2, 4]
+  details.setting: [3, 1, 5, 2, 4]
 media:
   - kind: photo
     url: https://www.chosun.com/english/national-en/2026/10/30/5GD4J3VU6RF2RMVMPA4EHHHRUE/

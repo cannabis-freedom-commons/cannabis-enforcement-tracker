@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  force: physical
   products:
     - {product: flower}
     - {product: plants, plants: 3}
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.force: [1, 2]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

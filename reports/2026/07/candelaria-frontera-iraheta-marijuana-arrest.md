@@ -13,6 +13,16 @@ summary: >-
   Police arrested 66-year-old Sócrates Miguel Iraheta Bonilla at his home in Candelaria de La Frontera, Santa Ana Oeste, for alleged illicit trafficking. Officers seized more than half a kilo of marijuana, a scale, cash and two phones, which were kept as evidence while the investigation continued.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/el-salvador/2026/07/12/el-salvador-capturan-a-sujeto-con-mas-de-medio-kilo-de-marihuana-en-candelaria-de-la-frontera/

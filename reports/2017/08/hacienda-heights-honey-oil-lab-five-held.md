@@ -16,6 +16,18 @@ figures:
   value:
     amount: 1800000
     currency: USD
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.sgvtribune.com/2017/08/02/1m-home-in-hacienda-heights-hid-18m-of-pot-products-some-in-game-of-thrones-themed-tins-police-say/

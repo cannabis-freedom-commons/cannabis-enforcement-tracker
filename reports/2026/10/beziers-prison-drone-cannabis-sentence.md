@@ -20,10 +20,12 @@ figures:
 details:
   agency_types: [police]
   case_stage: sentenced
+  sentence_types: [prison, probation]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 4, 3]
   details.case_stage: [2, 4, 1]
+  details.sentence_types: [2, 4, 1, 3]
   details.setting: [1, 3, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

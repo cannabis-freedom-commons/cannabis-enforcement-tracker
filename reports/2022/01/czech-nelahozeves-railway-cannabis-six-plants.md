@@ -14,6 +14,14 @@ summary: >-
 figures:
   plants_destroyed: 6
   kg_seized: 1.266
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 1.266}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [nelahozeves, melnik, central-bohemia, railway, personal-grow]

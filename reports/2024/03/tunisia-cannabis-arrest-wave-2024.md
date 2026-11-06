@@ -12,6 +12,10 @@ summary: >-
   since Ben Ali. People were held for carrying rolling papers or filters, and activists said
   prosecutors treated small users as dealers.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: tunisia-cannabis-arrest-wave-2024
 sources:

@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.478
+details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 0.478}, {product: flower}]
+  setting: [airport, home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e42d3998d2aebb7cf91ef1c18bc4c2f5

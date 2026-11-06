@@ -11,6 +11,12 @@ summary: >-
   during a court-authorised search. The suspect was referred to the Doboj prosecutor the following
   day.
 created_by_model: unknown
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: bosnia-samac-cannabis-seizure-2025
 sources:

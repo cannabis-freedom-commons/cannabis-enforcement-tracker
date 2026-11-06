@@ -13,6 +13,10 @@ summary: >-
   kilograms of methamphetamine and 6.8 million Lyrica capsules. The figures cover all drugs, not
   cannabis alone.
 created_by_model: unknown
+details:
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: kuwait-midyear-drug-figures-2025
 sources:

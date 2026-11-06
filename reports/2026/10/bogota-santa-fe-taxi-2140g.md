@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 2.14
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 2.14}]
+data_sources:
+  details.agency_types: [1, 5]
+  details.case_stage: [3, 5, 1, 4, 2]
+  details.products: [3, 5, 1, 4]
 media:
   - kind: photo
     url: https://bogota.gov.co/mi-ciudad/seguridad/2026-10/capturadas-en-bogota-dos-personas-con-mas-de-dos-kilos-de-marihuana

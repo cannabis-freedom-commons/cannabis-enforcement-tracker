@@ -14,6 +14,12 @@ summary: >-
   Kaliningrad police searched a 34-year-old suspect's home in Guryevsk and seized 44.66 g of cannabis plus 1.65 g of cannabis-plant parts among other drugs. The same case recovered 992.03 g of ephedrone from a cache located through his phone, and criminal cases were opened for attempted drug sale.
 figures:
   kg_seized: 0.04631
+details:
+  activity: [sale]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e927bc5467ecd07e638dd358607193e2

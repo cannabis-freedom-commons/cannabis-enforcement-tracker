@@ -12,6 +12,12 @@ summary: >-
   166 locations and nine vessels, arrested 193 people, and seized 30.63 kg of drugs and 182 bottles
   of alcohol.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 cfi_id: maldives-operation-alimagu-2025
 sources:

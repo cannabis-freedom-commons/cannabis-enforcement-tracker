@@ -11,6 +11,10 @@ summary: >-
   people, including 50 women, since the start of 2026. More than 100 families had reported relatives
   to the police in the hope of treatment, the police spokesman said.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: palestine-west-bank-drug-arrests-2026
 sources:

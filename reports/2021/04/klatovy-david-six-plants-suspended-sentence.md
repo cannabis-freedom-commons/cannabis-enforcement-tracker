@@ -16,6 +16,20 @@ figures:
   charged: 1
   plants_destroyed: 6
   prison: 18 months, suspended
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  environment: [greenhouse]
+  products: [{product: flower}, {product: plants, plants: 6}]
+  sentence_types: [prison, suspended]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.environment: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.novinky.cz/clanek/krimi-marihuanu-jsem-mel-na-masticku-presvedcil-muz-soud-udal-ho-soused-40358411

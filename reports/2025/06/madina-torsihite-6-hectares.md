@@ -17,6 +17,16 @@ summary: >-
 figures:
   hectares: 6
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [mandailing-natal, tor-sihite, hillside, drone]
 open_questions:

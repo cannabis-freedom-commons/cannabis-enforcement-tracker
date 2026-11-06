@@ -17,6 +17,14 @@ summary: >-
   and found a homemade firearm with ten 12-gauge rounds.
 figures:
   arrested: 6
+details:
+  activity: [cultivation]
+  agency_types: [gendarmerie]
+  setting: [vehicle, field, forest]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [yokadouma, gendarmerie, operation-tentacules]

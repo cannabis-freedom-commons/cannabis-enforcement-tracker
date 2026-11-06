@@ -12,6 +12,12 @@ summary: >-
   Customs Committee said the vehicle was carrying the cargo in transit through Azerbaijan and that
   an investigation had begun.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: azerbaijan-marijuana-transit-seizure-2026
 sources:

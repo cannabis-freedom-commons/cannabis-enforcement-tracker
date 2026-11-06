@@ -13,6 +13,14 @@ summary: >-
   On 7 October 2026 a vehicle fled a check on the La Angostura–Samaipata road in Santa Cruz and was
   found empty, engine running. Inside were 346 packages that a field test identified as marijuana.
   No one was arrested, and the weight had not yet been published.
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [2, 3, 1]
+  details.products: [3, 2, 1]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [santa-cruz, felcn, samaipata]

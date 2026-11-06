@@ -12,6 +12,10 @@ summary: >-
   These totals cover drugs generally, not cannabis alone. Authorities separately reported 77 cases
   of marihuana growing.
 created_by_model: unknown
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1]
 status: verified
 cfi_id: cuba-courts-689-sanctioned-2023
 tags:

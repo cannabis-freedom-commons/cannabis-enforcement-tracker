@@ -21,6 +21,7 @@ details:
   case_stage: sentenced
   environment: [wild]
   products: [{product: flower, kg: 0.498}]
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [4, 1, 5, 3]
@@ -28,6 +29,7 @@ data_sources:
   details.case_stage: [4, 1, 5]
   details.environment: [4]
   details.products: [1, 5, 3, 2, 4]
+  details.sentence_types: [4, 1, 5]
   details.setting: [4, 1, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

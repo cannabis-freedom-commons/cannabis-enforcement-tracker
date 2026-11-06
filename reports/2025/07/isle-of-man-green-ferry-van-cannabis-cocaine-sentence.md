@@ -19,6 +19,18 @@ figures:
   value:
     amount: 10466
     currency: GBP
+details:
+  activity: [smuggling]
+  agency_types: [customs, police, court]
+  case_stage: sentenced
+  sentence_types: [prison, probation]
+  setting: [vehicle, home, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 37c7e57f55ed2194f2a0df8d986ff4e1

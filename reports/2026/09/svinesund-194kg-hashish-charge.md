@@ -20,6 +20,12 @@ figures:
   charged: 1
   kg_seized: 194.8
 created_by_model: spacexai/grok-4.7
+details:
+  agency_types: [customs, police, prosecutor]
+  setting: [vehicle, home]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [svinesund, toll]
 open_questions:

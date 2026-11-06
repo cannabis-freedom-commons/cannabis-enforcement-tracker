@@ -20,6 +20,12 @@ figures:
   arrested: 80
   kg_seized: 20.87
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking, cultivation]
+  products: [{product: flower, kg: 20.87}, {product: plants, plants: 400000}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [kings-canyon, sequoia, nps, public-lands, operation-sos]
 open_questions:

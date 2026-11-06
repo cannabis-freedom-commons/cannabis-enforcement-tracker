@@ -19,6 +19,18 @@ summary: >-
 figures:
   deaths: 1
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [1]
+  details.case_stage: [2]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [police-shooting, search-warrant, inquest]
 sources:

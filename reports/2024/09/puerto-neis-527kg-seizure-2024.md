@@ -15,6 +15,12 @@ figures:
   value:
     amount: 1200000000
     currency: ARS
+details:
+  agency_types: [prosecutor]
+  products: [{product: flower, kg: 527}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/prefectura-secuestro-un-cargamento-de-marihuana-en-misiones-2

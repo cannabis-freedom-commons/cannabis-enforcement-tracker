@@ -12,6 +12,12 @@ summary: >-
   Police in Le Port, Réunion, arrested a wanted man on 16 July 2026 after tracing a strong cannabis smell to a building stairwell; three officers were hurt when he resisted. He faced allegations of drug use, rebellion and escape and was due for an immediate-appearance trial on 20 July.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+  agency_types: [police, prosecutor]
+data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5b89327691945edd942026cbe9605974

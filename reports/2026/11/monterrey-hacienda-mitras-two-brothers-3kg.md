@@ -34,12 +34,14 @@ media:
 details:
   agency_types: [police, prosecutor]
   case_stage: investigation
+  force: shots-fired
   products:
     - {product: flower}
   setting: [vehicle, home]
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3, 2]
+  details.force: [2, 3, 1]
   details.products: [1, 2, 3]
   details.setting: [2, 3, 1]
 status: reported

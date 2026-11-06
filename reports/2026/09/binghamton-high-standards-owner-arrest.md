@@ -14,6 +14,10 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  case_stage: charged
+data_sources:
+  details.case_stage: [1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1ddc22eba5f366711ce9b8349617522c

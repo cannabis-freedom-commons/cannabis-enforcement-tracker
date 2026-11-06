@@ -13,6 +13,12 @@ summary: >-
   A 16-year-old boy from Prestwich pleaded guilty to possessing cannabis and a spring-loaded knife at Heaton Park Metrolink stop. Manchester Magistrates' Court imposed a Youth Rehabilitation Order with supervision until October 2027, ordered the cannabis destroyed and imposed £85 in prosecution costs.
 figures:
   charged: 1
+details:
+  activity: [possession]
+  sentence_types: [fine, treatment]
+data_sources:
+  details.activity: [1]
+  details.sentence_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1d2ae9ded92751bef0d6749f5d85039f

@@ -12,6 +12,12 @@ summary: >-
   Guinea's police seized 315 kg of cannabis in six bundles from a Toyota Prado in Salguidia, Forécariah, after a BSIP surveillance operation; the driver fled and remained wanted. A separate interception in Dabola recovered 14 packages of pharmaceutical products, and both seizures were handed to local judicial authorities.
 figures:
   kg_seized: 315
+details:
+  agency_types: [police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0890812c8218227e9daaef7778d826fd

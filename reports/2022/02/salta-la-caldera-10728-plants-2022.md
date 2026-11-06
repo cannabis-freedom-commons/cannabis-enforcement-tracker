@@ -19,6 +19,18 @@ figures:
   kg_seized: 74.874
   plants_destroyed: 10728
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: charged
+  products: [{product: flower, kg: 74.874}]
+  setting: [vehicle, field, forest]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2]
+  details.case_stage: [3, 1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [gendarmeria, procunar]
 open_questions:

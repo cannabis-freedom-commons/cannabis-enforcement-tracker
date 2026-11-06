@@ -18,6 +18,12 @@ figures:
   kg_seized: 21000
   value: { amount: 17000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  products: [{product: flower, kg: 21000}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [diyarbakir]
 sources:

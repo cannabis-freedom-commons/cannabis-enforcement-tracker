@@ -12,6 +12,12 @@ summary: >-
   Kazakhstan's security service stopped three attempts to smuggle cannabis products through Almaty airport in August 2026. Officers seized more than 32 kg of marijuana, cannabis resin and hashish oil hidden in containers disguised as cosmetics.
 figures:
   kg_seized: 32
+details:
+  products: [{product: hashish, kg: 32}, {product: flower}]
+  setting: [airport]
+data_sources:
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.inform.kz/ru/bolee-32-kgnarkotikov-pitalis-vvezti-vkazahstan-izyugo-vostochnoy-azii-bc131bf3

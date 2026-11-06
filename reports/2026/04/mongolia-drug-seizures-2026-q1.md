@@ -12,6 +12,10 @@ summary: >-
   customs. It said it had stopped an amount equal to 27,671 single doses, without giving a weight or
   a cannabis breakdown. The figures cover all controlled drugs.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: mongolia-drug-seizures-2026-q1
 sources:

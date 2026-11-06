@@ -16,6 +16,12 @@ summary: >-
 figures:
   plants_destroyed: 86
 created_by_model: meta/muse-spark
+details:
+  activity: [cultivation]
+  products: [{product: plants, plants: 86}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 tags: [toledo, drone]
 open_questions:

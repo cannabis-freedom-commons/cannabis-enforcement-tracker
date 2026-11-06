@@ -28,6 +28,7 @@ details:
   activity: [trafficking, sale]
   agency_types: [police, prosecutor]
   case_stage: investigation
+  environment: [indoor]
   setting: [online]
   products:
     - {product: flower}
@@ -36,6 +37,7 @@ data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [2, 3, 1]
   details.case_stage: [2, 3]
+  details.environment: [2, 3, 1]
   details.products: [2]
   details.setting: [2]
 status: verified

@@ -14,6 +14,14 @@ summary: >-
   A Mobile police SWAT team serving a marijuana search warrant before dawn on 13 November 2023 shot
   and killed Randall Adjessom, 16, who was not the target. Body camera footage released in October
   2026 shows officers waiting minutes before treating him.
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
 tags: [mobile, alabama, swat, search-warrant, body-camera]

@@ -15,6 +15,14 @@ summary: >-
   2026, and founder Ted Smith estimated about $100,000 of products were seized. The unlicensed
   non-profit, which sells higher-dose products mainly to low-income patients, planned to reopen
   the next day; the ministry would not discuss the specific action.
+details:
+  agency_types: [police]
+  sentence_types: [fine]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.timescolonist.com/local-news/about-100000-in-products-seized-in-raid-on-victoria-cannabis-buyers-club-12173923

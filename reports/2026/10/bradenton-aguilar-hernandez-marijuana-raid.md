@@ -16,6 +16,14 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 6.80389
+details:
+  activity: [trafficking, possession]
+  products: [{product: flower, kg: 6.80389}]
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 3268fe58fc3926ec08aee5b86c0dd51a

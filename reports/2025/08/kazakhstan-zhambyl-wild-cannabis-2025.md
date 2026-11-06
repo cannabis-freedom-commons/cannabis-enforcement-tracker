@@ -12,6 +12,12 @@ summary: >-
   more than 3,000 tonnes. The work used agricultural machinery and was part of the annual campaign
   against harvesting in the Chu valley and nearby areas.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  environment: [wild]
+data_sources:
+  details.agency_types: [1]
+  details.environment: [1]
 status: verified
 cfi_id: kazakhstan-zhambyl-wild-cannabis-2025
 sources:

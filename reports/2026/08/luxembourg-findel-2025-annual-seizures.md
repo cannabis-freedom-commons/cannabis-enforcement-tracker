@@ -12,6 +12,16 @@ summary: >-
   Luxembourg customs seized nearly 2.6 tonnes of marijuana and 215.192 kg of hashish at Findel Airport during 2025 passenger checks, record totals reported in the Finance Ministry's annual customs activity report. The same controls also intercepted cocaine, ketamine, methamphetamine and heroin, plus drug cash, weapons and non-compliant pharmaceutical and cosmetic products.
 figures:
   kg_seized: 2815.192
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  products: [{product: hashish, kg: 2815.192}, {product: flower}]
+  setting: [airport]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d75e9f43b014a245e3b8f2084519d730

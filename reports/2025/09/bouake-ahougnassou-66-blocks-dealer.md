@@ -13,6 +13,14 @@ summary: >-
   Bouaké's anti-drug unit arrested one suspected dealer in the Ahougnassou quarter during the night of 7-8 September 2025 and seized 66 blocks of cannabis hidden in his home. He was held in custody while police looked for accomplices.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police]
+  setting: [home]
+data_sources:
+  details.activity: [2, 3, 4]
+  details.agency_types: [1, 4, 2, 3]
+  details.setting: [1, 4]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2025/09/08/cote-divoire/societe/cote-divoire-bouake-66-blocs-de-cannabis-saisis-au-domicile-dun-presume-dealer_189984.html

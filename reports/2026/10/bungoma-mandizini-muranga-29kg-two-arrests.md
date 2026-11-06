@@ -18,6 +18,16 @@ figures:
   value:
     amount: 878400
     currency: KES
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.tv47.digital/two-arrested-as-detectives-seize-29kg-of-bhang-in-bungoma-and-muranga-167549/

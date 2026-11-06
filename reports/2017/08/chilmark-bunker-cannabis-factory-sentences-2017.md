@@ -22,6 +22,18 @@ figures:
   kg_seized: 643
   value: { amount: 2000000, currency: GBP }
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  sentence_types: [prison, deportation]
+  setting: [home, prison]
+data_sources:
+  details.activity: [3, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1, 3]
+  details.sentence_types: [2, 1]
+  details.setting: [2, 3, 1]
 status: verified
 tags: [nuclear-bunker, chilmark, cannabis-factory, modern-slavery]
 sources:

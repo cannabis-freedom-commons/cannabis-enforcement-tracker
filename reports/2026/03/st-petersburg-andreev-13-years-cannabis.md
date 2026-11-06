@@ -20,6 +20,20 @@ figures:
   fine:
     amount: 800000
     currency: RUB
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: plants}]
+  sentence_types: [prison, fine, probation]
+  setting: [field]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [st-petersburg, primorsky-district, courts, sentence]

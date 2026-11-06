@@ -13,6 +13,12 @@ summary: >-
   Thames Valley Police arrested an unnamed man in Aylesbury on 29 October 2026 after a Section 23 drugs warrant linked to suspected dealing. He was held on suspicion of possessing and being concerned in supplying cocaine and Class B cannabis, and remained in custody.
 figures:
   arrested: 1
+details:
+  activity: [possession]
+  agency_types: [police]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b9cc17f726b50b51c40a3e9cdf968c66

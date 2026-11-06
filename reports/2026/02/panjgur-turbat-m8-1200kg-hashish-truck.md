@@ -11,6 +11,18 @@ also: [arrest]
 title: Two arrested as 1,200 kg hashish seized on Panjgur-Turbat road
 summary: >-
   Pakistan's Anti-Narcotics Force stopped a truck on the M-8 highway between Panjgur and Turbat on 11 February 2026 and seized 1.2 tonnes of hashish in hidden compartments, arresting two suspects. The force valued the load at about $66.15 million and said it was smuggled from Afghanistan for shipment by sea to Gulf states, Yemen and Tanzania.
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: hashish}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [2, 3]
+  details.agency_types: [2]
+  details.case_stage: [2]
+  details.products: [2]
+  details.setting: [2]
 media:
   - kind: photo
     url: https://www.urdupoint.com/en/pakistan/anf-seizes-12-tonnes-of-hashish-in-gwadar-a-2136539.html

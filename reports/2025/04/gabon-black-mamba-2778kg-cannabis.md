@@ -17,6 +17,12 @@ figures:
   value:
     amount: 500000000
     currency: XAF
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://gabonmediatime.com/operation-black-mamba-plus-de-2-000-kg-de-cannabis-saisis-et-130-clandestins-interpelles/

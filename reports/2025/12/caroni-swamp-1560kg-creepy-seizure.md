@@ -15,6 +15,12 @@ figures:
   value:
     amount: 171205320
     currency: TTD
+details:
+  agency_types: [military, police]
+  products: [{product: flower, kg: 1560}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: http://www.guardian.co.tt/news/ganja-haul-in-caroni-swamp-6.2.2469646.d714a77ba8

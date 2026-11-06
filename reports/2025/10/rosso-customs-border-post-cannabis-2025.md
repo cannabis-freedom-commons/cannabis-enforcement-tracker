@@ -10,6 +10,14 @@ type: seizure
 title: Mauritanian customs seize cannabis bound for Nouakchott at Rosso border post
 summary: >-
   Customs officers at Rosso, on Mauritania's border with Senegal, seized a large cannabis load from traffickers heading for Nouakchott, the customs service announced on Facebook. Customs released a video of the cannabis wrapped and hidden in plastic baskets, but gave no weight, count or arrests.
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  setting: [border]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f3c82c88729ca202de5e169e3a762aca

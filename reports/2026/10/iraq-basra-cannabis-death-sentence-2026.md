@@ -12,6 +12,18 @@ summary: >-
   Judicial Council announced the judgment on 27 October 2026. Article 27(1) is one of the law's
   trafficking provisions and carries death or life imprisonment.
 created_by_model: unknown
+details:
+  activity: [trafficking, sale]
+  case_stage: sentenced
+  products: [{product: hashish}]
+  sentence_types: [life]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: iraq-basra-cannabis-death-sentence-2026
 sources:

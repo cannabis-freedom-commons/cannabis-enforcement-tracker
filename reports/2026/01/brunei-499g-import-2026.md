@@ -12,6 +12,10 @@ summary: >-
   amended to the 330–500 g band, carrying twenty to thirty years and fifteen strokes. He had been in
   remand for nearly two years.
 created_by_model: unknown
+details:
+  case_stage: charged
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: brunei-499g-import-2026
 tags:

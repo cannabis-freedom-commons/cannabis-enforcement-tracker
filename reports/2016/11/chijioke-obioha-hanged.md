@@ -20,6 +20,18 @@ figures:
   deaths: 1
   charged: 1
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, court]
+  case_stage: executed
+  sentence_types: [death]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 7, 3, 4, 5]
+  details.agency_types: [1, 2, 4, 5, 6, 7]
+  details.case_stage: [1, 7, 2, 4, 5, 6]
+  details.sentence_types: [1, 7, 3, 2]
+  details.setting: [1, 2]
 status: disputed
 tags:
   - cnb

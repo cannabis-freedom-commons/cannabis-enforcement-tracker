@@ -13,6 +13,10 @@ summary: >-
   and, on 13 September, 9 kilograms from one traveller and 8 kilograms hidden in food bags from
   another.
 created_by_model: unknown
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1, 2, 3, 4]
 status: verified
 cfi_id: oman-airport-cannabis-2025
 sources:

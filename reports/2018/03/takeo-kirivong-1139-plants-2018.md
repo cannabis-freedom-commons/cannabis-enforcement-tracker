@@ -12,6 +12,16 @@ summary: >-
   Takeo police destroyed 1,139 marijuana plants in seven mountainside plots in Preah Bat Choanchum commune, Kirivong district, on Saturday 10 March 2018. No growers were found; police said the owners remained unknown and the investigation was continuing.
 figures:
   plants_destroyed: 1139
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 1139}]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.khmertimeskh.com/113501/more-marijuana-plants-destroyed/

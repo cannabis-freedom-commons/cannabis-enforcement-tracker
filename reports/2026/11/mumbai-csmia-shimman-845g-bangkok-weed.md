@@ -17,12 +17,14 @@ figures:
 details:
   activity: [smuggling, trafficking]
   agency_types: [customs]
+  environment: [indoor]
   products: [{product: flower, kg: 0.845}]
   setting: [airport]
   route: {from: [th], to: [in]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.environment: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

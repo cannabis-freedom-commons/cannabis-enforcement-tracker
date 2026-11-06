@@ -11,6 +11,12 @@ summary: >-
   and taken to Betio headquarters. Police said illicit drugs were already in the country and warned
   that young people were probably using them; no arrest or outcome was reported.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: kiribati-line-islands-cocaine-cannabis-2019
 sources:

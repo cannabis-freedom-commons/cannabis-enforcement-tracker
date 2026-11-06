@@ -13,6 +13,14 @@ summary: >-
   Port of Spain police seized 11 packages of marijuana weighing nine kilograms from a car abandoned at Pioneer Drive, Sea Lots, on the night of 4 March 2021 after a chase; the three men inside ran off. No arrests were reported and police said enquiries were continuing.
 figures:
   kg_seized: 9
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 9}]
+  setting: [port]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://newsday.co.tt/2021/03/05/marijuana-seized-in-sea-lots-after-car-chase/

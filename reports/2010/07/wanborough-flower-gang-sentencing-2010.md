@@ -27,12 +27,14 @@ details:
   case_stage: sentenced
   products:
     - {product: flower}
+  sentence_types: [prison]
   setting: [airport, vehicle, home]
 data_sources:
   details.activity: [3]
   details.agency_types: [1, 2]
   details.case_stage: [3]
   details.products: [1, 2, 3]
+  details.sentence_types: [3]
   details.setting: [1, 2, 3]
 status: verified
 tags: [wanborough, flower-lorries, bristol-crown-court, skunk]

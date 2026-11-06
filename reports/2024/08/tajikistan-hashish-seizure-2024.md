@@ -12,6 +12,12 @@ summary: >-
   for especially large supply. The police said they were still looking for other members of the
   group.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: hashish}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: tajikistan-hashish-seizure-2024
 sources:

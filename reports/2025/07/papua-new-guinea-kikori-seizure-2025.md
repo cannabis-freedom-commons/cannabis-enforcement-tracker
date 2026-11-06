@@ -11,6 +11,12 @@ summary: >-
   on 13 July 2025. Police said the load came from the Southern Highlands and was to be taken by
   dinghy and road towards Daru and then Australia through Saibai, Cairns and Townsville.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: papua-new-guinea-kikori-seizure-2025
 sources:

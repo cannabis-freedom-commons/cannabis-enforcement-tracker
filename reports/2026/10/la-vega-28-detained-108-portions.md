@@ -14,6 +14,16 @@ summary: >-
   The National Police said 28 people were detained in a preventive sweep across La Vega province on 30 October 2026, alongside soldiers and DNCD drug agents. Police reported 108 portions of suspected marijuana and eight knives, but gave no weight for the drug and no grounds for the detentions.
 figures:
   arrested: 28
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.paginaextra.com/policia-y-fuerzas-armadas-apresan-28-personas-y-ocupan-evidencias-en-operativo/

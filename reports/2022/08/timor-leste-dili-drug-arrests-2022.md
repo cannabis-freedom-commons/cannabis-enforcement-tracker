@@ -13,6 +13,12 @@ summary: >-
   by a student movement. Justice Minister Tiago Amaral Sarmento also called for stronger
   penalties and…
 created_by_model: unknown
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1, 2, 3]
 status: verified
 cfi_id: timor-leste-dili-drug-arrests-2022
 tags:

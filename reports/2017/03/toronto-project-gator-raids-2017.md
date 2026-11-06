@@ -19,6 +19,16 @@ summary: >-
 figures:
   arrested: 5
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking, possession]
+  agency_types: [police, court]
+  case_stage: charged
+  setting: [airport, home]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [1, 2]
+  details.case_stage: [2]
+  details.setting: [1, 2]
 status: verified
 tags: [project-gator, dispensaries, toronto-police]
 sources:

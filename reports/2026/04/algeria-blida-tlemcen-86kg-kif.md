@@ -17,6 +17,12 @@ figures:
   value:
     amount: 2530000
     currency: DZD
+details:
+  activity: [trafficking]
+  case_stage: investigation
+data_sources:
+  details.activity: [2, 1, 3]
+  details.case_stage: [2, 1]
 media:
   - kind: photo
     url: https://www.ennaharonline.com/fr/saisie-de-86-kilogrammes-de-cannabis-en-provenance-du-maroc/

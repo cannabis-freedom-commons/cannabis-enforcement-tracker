@@ -20,6 +20,18 @@ figures:
   fine:
     amount: 1784
     currency: GBP
+details:
+  activity: [possession]
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 3]
+  details.sentence_types: [1, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://uk.news.yahoo.com/man-made-160-000-illicit-184733187.html

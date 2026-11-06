@@ -22,10 +22,12 @@ figures:
 details:
   agency_types: [customs, police, court]
   case_stage: sentenced
+  sentence_types: [prison]
   setting: [port]
 data_sources:
   details.agency_types: [2, 1, 3]
   details.case_stage: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
   details.setting: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

@@ -18,6 +18,16 @@ figures:
   arrested: 1
   plants_destroyed: 419
   kg_seized: 0.2
+details:
+  case_stage: investigation
+  environment: [indoor]
+  products: [{product: flower, kg: 0.2}]
+  setting: [prison]
+data_sources:
+  details.case_stage: [1]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.donnews.ru/v-rostove-politseyskie-obnaruzhili-plantatsiyu-konopli-i-podvalnuyu-narkooranzhereyu

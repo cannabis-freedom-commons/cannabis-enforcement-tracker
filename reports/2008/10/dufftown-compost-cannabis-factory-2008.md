@@ -20,6 +20,18 @@ figures:
   prison: 2 years
   value: { amount: 225000, currency: GBP }
 created_by_model: meta/muse-spark
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 tags: [scotland, grampian-police, cannabis-factory]
 sources:

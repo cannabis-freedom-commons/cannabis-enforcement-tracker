@@ -11,6 +11,14 @@ also: [seizure, arrest]
 title: Huy prisoner caught with cannabis parcel dropped over the walls
 summary: >-
   A 38-year-old prisoner at Huy prison appeared in the Huy criminal court after picking up a parcel of cannabis thrown over the prison walls during his daily walk. He admitted taking it and was caught with it, and the court is due to rule on 3 December, with his lawyer and the prosecutor both seeking community service.
+details:
+  agency_types: [prosecutor]
+  case_stage: investigation
+  setting: [mail, prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.lavenir.net/regions/huy-waremme/huy/2026/11/06/detenu-a-la-prison-de-huy-il-ramasse-un-colis-de-cannabis-tombe-du-ciel-la-drogue-elle-tombe-tous-les-jours-en-prison-AA6E6MDQUZHQHEJAVTH3YUTZ4I/

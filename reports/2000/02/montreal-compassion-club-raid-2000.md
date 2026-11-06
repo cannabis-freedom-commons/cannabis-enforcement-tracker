@@ -18,6 +18,18 @@ figures:
   arrested: 2
   kg_seized: 0.066
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  case_stage: charged
+  products: [{product: flower, kg: 0.066}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 tags: [compassion-club, medical-marijuana]
 open_questions:

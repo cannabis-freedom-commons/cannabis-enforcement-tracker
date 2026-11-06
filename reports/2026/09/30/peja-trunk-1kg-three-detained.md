@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 1
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 1}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [peja, trafficking]

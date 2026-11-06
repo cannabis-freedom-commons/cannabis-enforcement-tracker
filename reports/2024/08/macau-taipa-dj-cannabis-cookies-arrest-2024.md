@@ -11,6 +11,14 @@ also: [seizure, prosecution]
 title: Hong Kong DJ, 49, arrested in Macau over cannabis cookies sold in a Taipa bar
 summary: >-
   Judiciary Police arrested a 49-year-old Hong Kong DJ at the Hong Kong-Zhuhai-Macau Bridge on 14 August 2024 with 8.35 grams of cannabis buds in his underwear, then found more buds, dough and cookies mixed with cannabis at his Taipa flat. Police valued the haul at about 9,000 patacas, said he had sold the cookies in his bar for about two months and sent him to prosecutors on trafficking charges.
+details:
+  activity: [smuggling, trafficking, sale]
+  agency_types: [police]
+  setting: [border]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
+  details.setting: [1, 3]
 media:
   - kind: photo
     url: https://macaupostdaily.com/news/22425

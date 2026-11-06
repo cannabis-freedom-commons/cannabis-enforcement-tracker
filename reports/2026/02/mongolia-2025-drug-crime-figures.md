@@ -12,6 +12,10 @@ summary: >-
   25 to 35. The prosecutor's office said ignorance of the drug laws and attempts to make easy money
   helped explain the increase; the figures cover all drugs.
 created_by_model: unknown
+details:
+  agency_types: [police, prosecutor]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: mongolia-2025-drug-crime-figures
 sources:

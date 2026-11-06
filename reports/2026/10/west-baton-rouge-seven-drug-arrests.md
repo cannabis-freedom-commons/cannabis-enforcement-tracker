@@ -13,6 +13,14 @@ summary: >-
   West Baton Rouge Parish sheriff's deputies arrested seven people on drug charges, four of them on marijuana counts, and said three more suspects were still wanted. The marijuana counts range from distribution and possession with intent to distribute to a second-offence possession charge.
 figures:
   arrested: 7
+details:
+  activity: [possession]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 75562e75a6ff539518ced81936656985

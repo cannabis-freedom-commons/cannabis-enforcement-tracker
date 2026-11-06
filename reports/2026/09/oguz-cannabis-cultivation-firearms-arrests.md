@@ -13,6 +13,16 @@ summary: >-
   Azerbaijan's Interior Ministry said Oğuz district police detained S.İbrahimov, E.İsmayılov and T.Haşımov and found drugs, cannabis plants they had cultivated and firearms. A court ordered the three held in pre-trial detention and a criminal case was opened.
 figures:
   arrested: 3
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants}]
+data_sources:
+  details.activity: [2, 1, 3, 4]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2, 3, 4]
+  details.products: [2, 1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 54951e3c2977460d7d436983e8bb7917

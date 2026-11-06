@@ -15,6 +15,12 @@ figures:
   value:
     amount: 2000000
     currency: ARS
+details:
+  agency_types: [coast-guard, prosecutor]
+  products: [{product: flower, kg: 16}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/chaco-prefectura-incauto-marihuana-en-la-costa-del-rio-paraguay

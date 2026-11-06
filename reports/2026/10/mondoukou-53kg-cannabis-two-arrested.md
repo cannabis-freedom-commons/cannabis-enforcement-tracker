@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 53.003
+details:
+  activity: [trafficking]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2026/10/16/cote-divoire/societe/cote-divoire-mondoukou-plus-de-53-kg-de-cannabis-saisis-deux-individus-interpelles_201680.html

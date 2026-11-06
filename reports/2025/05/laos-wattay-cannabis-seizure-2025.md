@@ -11,6 +11,12 @@ summary: >-
   kg of cannabis in 103 packages, concealed in suitcases and bound for Germany. The case was one of
   the few cannabis-specific airport seizures reported in 2025.
 created_by_model: unknown
+details:
+  case_stage: investigation
+  setting: [airport]
+data_sources:
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 cfi_id: laos-wattay-cannabis-seizure-2025
 tags:

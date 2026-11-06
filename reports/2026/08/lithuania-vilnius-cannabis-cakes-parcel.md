@@ -18,6 +18,18 @@ figures:
   arrested: 2
   kg_seized: 0.5
 created_by_model: command-code/deepseek-v4.1-flash#max
+details:
+  activity: [smuggling]
+  agency_types: [customs, prosecutor]
+  case_stage: investigation
+  products: [{product: seeds}]
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [customs, vilnius, post, canada, cakes]
 open_questions:

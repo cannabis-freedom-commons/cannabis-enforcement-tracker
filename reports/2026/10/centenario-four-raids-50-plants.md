@@ -17,6 +17,16 @@ figures:
   charged: 2
   plants_destroyed: 50
   kg_seized: 1.11
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: investigation
+  products: [{product: plants, plants: 50}]
+data_sources:
+  details.activity: [1, 4, 2, 3]
+  details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [1, 4, 2, 3]
+  details.products: [1, 4, 2, 3]
 media:
   - kind: photo
     url: https://www.minutoneuquen.com/neuquen/2026/10/24/cuatro-allanamientos-en-centenario-permitieron-secuestrar-drogas-y-un-arma-412973.html

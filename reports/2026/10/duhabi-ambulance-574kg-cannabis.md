@@ -17,6 +17,10 @@ summary: >-
   driver fled and the vehicle was impounded.
 figures:
   kg_seized: 574.87
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [sunsari, duhabi, ambulance, trafficking]

@@ -14,6 +14,12 @@ summary: >-
   Police in Jayawijaya Regency, Papua Pegunungan, found a cannabis plot in Kampung Pipukmo on 27 August 2026 after residents clearing land reported suspicious plants. Officers seized 16 plants, 12 still growing and four already harvested, and said they were still looking for whoever planted them; no arrests were reported.
 figures:
   plants_destroyed: 16
+details:
+  agency_types: [police]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1, 3, 4, 2]
+  details.setting: [1, 3, 2]
 media:
   - kind: photo
     url: https://www.detik.com/sulsel/hukum-dan-kriminal/d-8637159/ladang-ganja-ditemukan-polisi-di-kampung-pipukmo-jayawijaya

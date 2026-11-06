@@ -12,6 +12,14 @@ summary: >-
   kg of ganja from two trucks near Raipur; officers also found 140.5 kg near Patna, 69 kg near
   Ludhiana and 5 kg of charas smuggled from Nepal.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  products: [{product: hashish}, {product: flower}]
+  setting: [airport, vehicle]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: india-dri-cannabis-raids-2026
 sources:

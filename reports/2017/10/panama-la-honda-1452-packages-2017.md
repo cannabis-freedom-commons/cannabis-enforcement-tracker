@@ -13,6 +13,18 @@ summary: >-
   Police and the aeronaval service seized a launch carrying 1,452 packages of marijuana at the port of La Honda, in Los Santos province, and detained eight Colombians. A judge validated their preventive detention on international drug trafficking charges and gave prosecutors six months to investigate.
 figures:
   arrested: 8
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: charged
+  products: [{product: flower}]
+  setting: [port]
+data_sources:
+  details.activity: [3, 1]
+  details.agency_types: [1, 3]
+  details.case_stage: [3, 1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.prensa.com/impresa/panorama/Captura-masiva-droga-Azuero_0_4876762365.html

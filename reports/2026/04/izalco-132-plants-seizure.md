@@ -12,6 +12,18 @@ summary: >-
   El Salvador's Armed Forces located 132 marijuana plants in Cantón Las Marías, Izalco, during a Thursday anti-drug patrol in Sonsonate. Defence Minister René Merino Monroy said the operation was part of a national effort to eradicate drug trafficking.
 figures:
   plants_destroyed: 132
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [military]
+  case_stage: sentenced
+  products: [{product: flower}, {product: plants, plants: 132}]
+  setting: [field, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/el-salvador/2026/04/17/fuerza-armada-de-el-salvador-localiza-plantacion-ilegal-de-marihuana-durante-patrullaje/

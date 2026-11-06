@@ -12,6 +12,12 @@ summary: >-
   to 23,403, and smuggling offenders hit a record 1,772. Seizures included 128.6 kg of herbal
   cannabis and 5.6 kg of resin.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: south-korea-drug-white-paper-2025
 sources:

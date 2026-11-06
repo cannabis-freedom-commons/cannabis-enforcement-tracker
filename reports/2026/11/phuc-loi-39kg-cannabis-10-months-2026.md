@@ -12,6 +12,12 @@ summary: >-
   Phuc Loi ward police in Hanoi said they investigated 21 drug cases involving 25 suspects in the first 10 months of 2026, including an illegal cannabis-trading case with 39,544 grams seized. Police described the cannabis seizure as serious and large, showing resolute enforcement against drug crime.
 figures:
   kg_seized: 39.544
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c6943adf6476c50bb148949d96bef75b

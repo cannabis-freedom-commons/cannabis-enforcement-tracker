@@ -19,6 +19,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 152.61
+details:
+  activity: [smuggling]
+  agency_types: [police]
+  products: [{product: flower, kg: 152.61}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [sangamner, ahilyanagar, trafficking]

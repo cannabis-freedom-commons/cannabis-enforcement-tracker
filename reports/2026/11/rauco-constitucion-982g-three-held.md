@@ -15,6 +15,16 @@ figures:
   arrested: 3
   plants_destroyed: 7
   kg_seized: 0.98252
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: plants, plants: 7}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.vlnradio.cl/noticias/policial/2026/11/04/pdi-incauta-casi-un-kilo-de-marihuana-en-rauco-durante-operativos-antidrogas-en-el-maule/

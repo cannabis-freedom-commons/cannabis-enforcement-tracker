@@ -18,6 +18,12 @@ figures:
   charged: 1
   kg_seized: 13.4
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: edibles, kg: 13.4}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [unlicensed-shop, ottawa]
 sources:

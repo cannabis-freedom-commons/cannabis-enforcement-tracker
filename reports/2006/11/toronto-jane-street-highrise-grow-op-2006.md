@@ -19,6 +19,14 @@ figures:
   arrested: 3
   charged: 3
   value: { amount: 6000000, currency: CAD }
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 13.6}, {product: plants, plants: 6000}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [toronto, jane-street, grow-op]

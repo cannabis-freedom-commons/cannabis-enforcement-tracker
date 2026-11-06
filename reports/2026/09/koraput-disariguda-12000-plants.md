@@ -18,6 +18,16 @@ figures:
   hectares: 4.05
   arrested: 3
 created_by_model: xai/grok-4.7
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 12000}]
+  setting: [forest]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [india, odisha, koraput, eradication]
 sources:

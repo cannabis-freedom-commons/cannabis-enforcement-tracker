@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2340
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
+  setting: [vehicle]
+data_sources:
+  details.activity: [3]
+  details.agency_types: [3, 2, 1]
+  details.case_stage: [3]
+  details.setting: [3, 1, 2]
 media:
   - kind: photo
     url: https://guinee28.info/saisie-record-de-plus-de-2-tonnes-de-chanvre-indien-a-kindia/

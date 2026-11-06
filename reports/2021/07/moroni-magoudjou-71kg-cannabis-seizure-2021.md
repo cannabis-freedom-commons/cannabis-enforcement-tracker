@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 71
+details:
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
 media:
   - kind: photo
     url: https://www.comoresinfos.net/71kg-de-cannabis-saisis-par-la-gendarmerie-nationale/

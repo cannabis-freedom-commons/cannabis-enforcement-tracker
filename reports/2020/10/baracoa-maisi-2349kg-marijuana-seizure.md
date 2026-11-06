@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 2349
+details:
+  activity: [trafficking]
+  agency_types: [coast-guard, military, border-guard, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 2349}]
+data_sources:
+  details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
+  details.products: [1, 2, 3, 4, 5]
 media:
   - kind: photo
     url: https://diariodecuba.com/cuba/1604412396_26175.html

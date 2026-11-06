@@ -13,6 +13,12 @@ summary: >-
   Customs officers at Zhuhai's Jiuzhou Port passenger terminal stopped a traveler on the evening of 24 October 2026 and found five sealed cannabis cigarettes, 1.87 g net, in his trouser pocket. The case went to the anti-smuggling department; the traveler's name, nationality and any charge were not published.
 figures:
   kg_seized: 0.00187
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+data_sources:
+  details.activity: [2, 3, 7, 1, 4, 6]
+  details.agency_types: [1, 3, 4, 5, 6, 2]
 media:
   - kind: photo
     url: https://www.sohu.com/a/1094722407_121107000

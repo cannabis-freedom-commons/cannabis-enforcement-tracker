@@ -18,6 +18,16 @@ figures:
   fine:
     amount: 100000
     currency: MVR
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [fine]
+  setting: [port, home, prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c30083cf4f63052924a703039cb645d8

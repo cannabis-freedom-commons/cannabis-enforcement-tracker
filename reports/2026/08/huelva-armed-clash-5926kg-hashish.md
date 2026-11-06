@@ -23,12 +23,14 @@ details:
   agencies: [es-guardia-civil, es-vigilancia-aduanera]
   agency_types: [gendarmerie, customs]
   case_stage: investigation
+  force: shots-fired
   products: [{product: hashish, kg: 5926}]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
+  details.force: [1, 2]
   details.products: [1, 2]
 status: verified
 sources:

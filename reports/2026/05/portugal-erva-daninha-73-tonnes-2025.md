@@ -14,6 +14,16 @@ figures:
     arrested: 6
     kg_seized: 7300
     charged: 24
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [customs, police, prosecutor]
+  case_stage: investigation
+  setting: [home, building]
+data_sources:
+  details.activity: [1, 4, 5, 6]
+  details.agency_types: [4, 2]
+  details.case_stage: [2, 3, 4, 5]
+  details.setting: [4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b3a3477675d96401a86386d066ba74c7

@@ -11,6 +11,12 @@ summary: >-
   narcotics, 617 of them for use and 480 for trafficking, in prisons holding about three times their
   capacity. Arrests had risen from 142 in 2014 to 2,017 in 2022.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 cfi_id: iraq-kurdistan-drug-prisoners-2023
 sources:

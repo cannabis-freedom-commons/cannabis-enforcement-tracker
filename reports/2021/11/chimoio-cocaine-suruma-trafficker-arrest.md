@@ -13,6 +13,14 @@ summary: >-
   Police in Chimoio detained a 42-year-old dual Mozambican-Tanzanian national on suspicion of drug trafficking after accomplices tipped them off. He was found with cocaine and cannabis sativa, locally called suruma, in an unspecified quantity.
 figures:
   arrested: 1
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 37e6e7209f0e431f689aa73d881d4e23

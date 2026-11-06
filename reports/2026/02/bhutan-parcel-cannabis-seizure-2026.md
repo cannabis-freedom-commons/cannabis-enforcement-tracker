@@ -12,6 +12,10 @@ summary: >-
   total to more than 33 kg by early March, with four Bhutanese and two Indian nationals arrested.
   The case was an enforcement event, not a change in the law.
 created_by_model: unknown
+details:
+  setting: [mail]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 cfi_id: bhutan-parcel-cannabis-seizure-2026
 tags:

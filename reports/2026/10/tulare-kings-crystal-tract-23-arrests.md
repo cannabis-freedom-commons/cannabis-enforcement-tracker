@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 23
   kg_seized: 4.99
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 4.99}]
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://kmph.com/news/local/operation-crystal-tract-23-arrested-in-tulare-king-drug-trafficking-bust

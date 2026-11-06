@@ -19,6 +19,12 @@ figures:
   kg_seized: 192
 # The desktop runtime did not disclose the exact provider, model, or reasoning effort.
 created_by_model: unknown
+details:
+  agency_types: [military]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [navy, dinghy, foreign-cannabis]
 open_questions:

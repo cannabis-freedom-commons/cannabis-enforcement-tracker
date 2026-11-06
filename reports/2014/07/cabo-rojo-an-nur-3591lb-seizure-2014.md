@@ -18,6 +18,18 @@ figures:
   value:
     amount: 3500000
     currency: USD
+details:
+  activity: [trafficking]
+  agency_types: [customs, coast-guard, prosecutor]
+  case_stage: charged
+  products: [{product: flower, kg: 1628.85}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4575e64235821a7d6b60bc26aa3cec6e

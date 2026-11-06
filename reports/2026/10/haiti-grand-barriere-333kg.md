@@ -18,6 +18,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 333.795
+details:
+  agency_types: [coast-guard, police]
+  products: [{product: flower, kg: 333.795}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ile-a-vache, coast-guard, blts]

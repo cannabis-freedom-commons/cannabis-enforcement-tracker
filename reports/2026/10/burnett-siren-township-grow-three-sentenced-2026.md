@@ -17,6 +17,16 @@ figures:
   charged: 3
   plants_destroyed: 50
   kg_seized: 1.13
+details:
+  activity: [possession]
+  case_stage: sentenced
+  products: [{product: flower, kg: 1.13}]
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.case_stage: [1, 3, 2]
+  details.products: [1, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b9fa4bb62d6ba2c957c664875e22514c

@@ -12,6 +12,10 @@ summary: >-
   They described initial testing in Dili and a 2022 cannabis case that was still in court. The
   statement points to the laboratory gap the 2012 UN assessment had already identified.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: timor-leste-pcic-drug-testing-2024
 sources:

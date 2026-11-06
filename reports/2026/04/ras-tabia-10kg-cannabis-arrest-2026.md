@@ -13,6 +13,12 @@ summary: >-
   National Guard officers arrested the brother of a former international footballer in Ras Tabia, El Omrane, on 23 April 2026 and broke up a drug-trafficking network. They seized 99 cannabis slabs weighing about 10 kg meant for resale, plus cocaine, and prosecutors ordered the suspects held for investigation.
 figures:
   kg_seized: 10
+details:
+  activity: [trafficking]
+  agency_types: [court]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4cc89af6e3f8a9d396407fb4110311fb

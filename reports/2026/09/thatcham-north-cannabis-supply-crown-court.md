@@ -13,6 +13,10 @@ summary: >-
   Brandon North, 18, of Thatcham, appeared at Reading Magistrates' Court on 30 September 2026 charged with being concerned in supplying cannabis, alongside cocaine and ketamine charges. Magistrates sent the case to Reading Crown Court and released him on bail.
 figures:
   charged: 1
+details:
+  case_stage: charged
+data_sources:
+  details.case_stage: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b140acd544e561437c46fbd9284adfea

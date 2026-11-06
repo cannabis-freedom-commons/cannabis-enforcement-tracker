@@ -11,6 +11,10 @@ summary: >-
   kg, transported from Ketire into the town. The spokesperson said the suspects were in custody
   during the investigation and would be sent to court.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: south-sudan-torit-bangi-arrests-2019
 tags:

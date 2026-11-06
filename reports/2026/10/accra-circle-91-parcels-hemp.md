@@ -17,6 +17,12 @@ figures:
   value:
     amount: 33600
     currency: GHS
+details:
+  agency_types: [police]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1, 4, 5, 7, 9, 10]
+  details.setting: [3, 1, 4, 5, 7, 8]
 media:
   - kind: photo
     url: https://www.myjoyonline.com/police-arrest-40-year-old-man-with-91-parcels-of-suspected-indian-hemp-at-circle/

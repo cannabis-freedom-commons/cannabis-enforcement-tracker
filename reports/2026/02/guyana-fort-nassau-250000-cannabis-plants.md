@@ -19,6 +19,12 @@ figures:
   kg_seized: 149.7
   value: { amount: 219416824, currency: GYD }
 created_by_model: openai/gpt-6
+details:
+  agency_types: [police]
+  products: [{product: plants, plants: 250000}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 open_questions:
   - The plant count, dried-cannabis amount and value come from a Guyana Police Force account repeated by both outlets, with no independent confirmation in these reports.

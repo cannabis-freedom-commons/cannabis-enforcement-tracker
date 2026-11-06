@@ -13,6 +13,10 @@ summary: >-
   On 21 August 2026 customs officers at the Kayes wharf intercepted a national of an English-speaking West African country carrying ten bricks of cannabis. The authorities gave no weight or destination for the cannabis, and the companion flour and pasta seizure is excluded from cannabis figures.
 figures:
   arrested: 1
+details:
+  agency_types: [customs]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1209450b296bd8de48229db3e49fdd2a

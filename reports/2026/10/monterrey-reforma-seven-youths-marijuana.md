@@ -14,6 +14,14 @@ summary: >-
   Monterrey police detained seven young men, four of them minors, at 03:20 on 30 October 2026 after stopping a Ford Explorer on Calle Reforma. Officers reported 40 wraps of crystal and two bags of marijuana; the seven were left with prosecutors.
 figures:
   arrested: 7
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [2, 4, 1, 3]
+  details.products: [2, 4, 1, 3]
+  details.setting: [2, 4, 1, 3]
 media:
   - kind: photo
     url: https://www.milenio.com/policia/detienen-siete-jovenes-con-droga-centro-monterrey

@@ -19,6 +19,18 @@ figures:
   kg_seized: 25000
   plants_destroyed: 90000
 created_by_model: meta/muse-spark
+details:
+  activity: [processing]
+  agency_types: [police]
+  case_stage: investigation
+  force: shots-fired
+  products: [{product: flower, kg: 25000}, {product: plants, plants: 90000}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.force: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [lazarat, record-haul, organised-crime]
 open_questions:

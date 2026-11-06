@@ -14,6 +14,14 @@ summary: >-
   Cleveland Police stopped an uninsured white transit van on Wilton Street in Middlesbrough and found cannabis, cash and drug bags. A 59-year-old passenger and a 42-year-old driver were arrested on suspicion of supply offences and released on bail.
 figures:
   arrested: 2
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.thenorthernecho.co.uk/news/26687952.two-arrested-drugs-uninsured-van-middlesbrough/

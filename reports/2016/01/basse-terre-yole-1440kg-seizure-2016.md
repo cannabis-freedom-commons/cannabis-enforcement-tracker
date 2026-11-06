@@ -17,6 +17,16 @@ figures:
   value:
     amount: 2000000
     currency: EUR
+details:
+  activity: [trafficking]
+  agency_types: [customs, coast-guard, police, prosecutor]
+  products: [{product: flower, kg: 1440}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 64e36807de183efd6a5698ae7a155f5c

@@ -16,6 +16,14 @@ summary: >-
 figures:
   arrested: 8
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [smuggling]
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [smuggling, akwesasne, cleveland, russian-organized-crime]
 open_questions:

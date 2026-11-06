@@ -14,6 +14,12 @@ summary: >-
 figures:
   plants_destroyed: 159
   kg_seized: 103
+details:
+  agency_types: [gendarmerie, police]
+  products: [{product: flower, kg: 103}, {product: plants, plants: 159}]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.products: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.bta.bg/bg/news/bulgaria/1237038-spetsializirana-politseyska-operatsiya-ustanovi-103-kilograma-marihuana-vav-veli

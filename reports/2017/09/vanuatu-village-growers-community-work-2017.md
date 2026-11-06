@@ -13,6 +13,12 @@ summary: >-
   2013 personal-growing guidance and warned one defendant that his church belief did not permit him
   to…
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  sentence_types: [probation]
+data_sources:
+  details.activity: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: vanuatu-village-growers-community-work-2017
 tags:

@@ -11,6 +11,14 @@ summary: >-
   carrying about 3,200 pounds of marijuana, valued at 3.8 million dollars, and detained one person.
   The cargo and the suspect were handed to the Haitian authorities for prosecution.
 created_by_model: unknown
+details:
+  agency_types: [coast-guard]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 cfi_id: haiti-mole-saint-nicolas-seizure-2026
 sources:

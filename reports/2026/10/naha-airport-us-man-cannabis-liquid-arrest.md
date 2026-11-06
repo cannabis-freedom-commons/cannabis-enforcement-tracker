@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.00187
+details:
+  agency_types: [customs, police, prosecutor]
+  setting: [airport]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b6a663eaf152f461eb10055ac79a35de

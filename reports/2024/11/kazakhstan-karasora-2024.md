@@ -12,6 +12,14 @@ summary: >-
   including about 4.5 tonnes of marijuana, more than 200 kg of hashish and 16 tonnes of cannabis
   plants, and destroyed more than 100 tonnes of wild cannabis on 380 hectares in the Shu district.
 created_by_model: unknown
+details:
+  case_stage: investigation
+  environment: [wild]
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
 status: verified
 cfi_id: kazakhstan-karasora-2024
 sources:

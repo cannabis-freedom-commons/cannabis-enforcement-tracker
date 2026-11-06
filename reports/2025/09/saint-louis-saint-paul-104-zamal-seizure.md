@@ -13,6 +13,14 @@ summary: >-
 figures:
   plants_destroyed: 104
   kg_seized: 1.49
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [gendarmerie]
+  setting: [field]
+data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [3, 2, 1]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b772a0b4557c458c33f7f4f618599438

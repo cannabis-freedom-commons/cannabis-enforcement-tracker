@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 82.5
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://fr.apanews.net/society/senegal-82-kg-de-cannabis-saisis-a-dakar/

@@ -19,6 +19,14 @@ figures:
   fine:
     amount: 720
     currency: GBP
+details:
+  activity: [possession]
+  agency_types: [police]
+  sentence_types: [fine]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.sentence_types: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: f184e2bae47aaddbf3a4aa942079b7a1

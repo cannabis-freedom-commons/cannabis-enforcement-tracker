@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 3
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 3}]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2, 3]
+  details.setting: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/la-pfa-desarticulo-banda-que-hacia-delivery-de-marihuana-en-entre-rios

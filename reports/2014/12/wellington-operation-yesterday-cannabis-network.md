@@ -16,6 +16,16 @@ summary: >-
   network had sold hundreds of thousands of dollars of cannabis over several years.
 figures:
   arrested: 11
+details:
+  activity: [cultivation]
+  agency_types: [customs, police]
+  products: [{product: seeds}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [operation-yesterday, wellington, whanganui, commercial-grow]

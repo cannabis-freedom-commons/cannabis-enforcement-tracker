@@ -10,6 +10,12 @@ summary: >-
   In September 2015 Panamanian soldiers uprooted and burned thousands of marijuana plants on a
   remote island in the Darien.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  products: [{product: flower}, {product: plants}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: panama-darien-eradication-2015
 tags:

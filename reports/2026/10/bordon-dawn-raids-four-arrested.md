@@ -14,6 +14,14 @@ summary: >-
   Four people were arrested when Hampshire police raided two homes and a business on Chalet Hill and Pine View in Bordon at about 5.45am on 5 October 2026, seizing cannabis, suspected Class A drugs, cannabis vapes and an air weapon. All four were bailed with conditions until 5 January while investigations continue.
 figures:
   arrested: 4
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.bordonherald.com/news/999/four-arrested-on-drugs-offences-as-police-raid-bordon-shop-and-homes-968574

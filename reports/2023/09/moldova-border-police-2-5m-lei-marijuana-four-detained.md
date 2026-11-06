@@ -26,12 +26,14 @@ details:
   activity: [cultivation]
   agency_types: [border-guard, police, prosecutor]
   case_stage: investigation
+  environment: [greenhouse]
   products: [{product: flower}, {product: plants}]
   setting: [forest, home]
 data_sources:
   details.activity: [2, 3]
   details.agency_types: [2, 1]
   details.case_stage: [2, 3, 1]
+  details.environment: [1, 3, 2]
   details.products: [2, 1, 3]
   details.setting: [1, 3, 2]
 status: verified

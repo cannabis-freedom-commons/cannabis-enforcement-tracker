@@ -17,6 +17,18 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 494.416
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 494.416}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [3]
+  details.agency_types: [1, 2, 4, 5, 3]
+  details.case_stage: [2, 4, 3]
+  details.products: [1, 2, 4, 3]
+  details.setting: [1, 2, 4, 5, 3]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [border, carchi, cero-impunidad]

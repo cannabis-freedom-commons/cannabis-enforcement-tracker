@@ -20,6 +20,12 @@ figures:
   kg_seized: 20
   value: { amount: 2700000, currency: PHP }
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 20}, {product: plants, plants: 1150}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [cordillera, roundup]
 sources:

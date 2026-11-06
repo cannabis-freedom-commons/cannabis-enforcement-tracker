@@ -12,6 +12,12 @@ summary: >-
   rise in retail prices and said local cultivation was largely confined to small amounts for
   personal use.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  sentence_types: [fine]
+data_sources:
+  details.activity: [1]
+  details.sentence_types: [1]
 status: verified
 cfi_id: cnmi-eradication-imports-assessment-2003
 tags:

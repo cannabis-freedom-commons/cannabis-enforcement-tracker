@@ -13,6 +13,10 @@ summary: >-
   Nepal's Armed Police Force seized 1,102.655 kg of cannabis packed in 26 sacks from a Bolero and a motorcycle at a bridge in Sukhipur, Siraha, early on 1 October 2026. The drivers and other occupants fled, leaving the vehicles behind, and police said they were searching for them.
 figures:
   kg_seized: 1102.655
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [2, 1]
 media:
   - kind: photo
     url: https://www.ratopati.com/story/596256/armed-police-seize-1100-kg-of-marijuana-from-siraha

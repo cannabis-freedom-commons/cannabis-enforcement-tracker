@@ -22,11 +22,13 @@ details:
   case_stage: sentenced
   products:
     - {product: hashish}
+  sentence_types: [probation]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [2]
+  details.sentence_types: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d29176c24ff74b96ff1969922ff27b26

@@ -18,6 +18,16 @@ figures:
   charged: 1
   prison: 10 years
 created_by_model: meta/muse-spark
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower}, {product: plants}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [g3-holistics, medical-marijuana, inland-empire]
 sources:

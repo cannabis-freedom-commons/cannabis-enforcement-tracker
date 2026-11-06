@@ -13,6 +13,12 @@ summary: >-
   A 34-year-old Piara Waters man was charged on 6 October 2026 with one count of possessing cannabis and 83 counts of stealing as a servant from a Rockingham car dealership. Police allege he diverted A$96,029.93 in customer deposit refunds and A$23,000 in deposits into 21 bank accounts; he was due in Rockingham Magistrates Court on 30 October 2026.
 figures:
   charged: 1
+details:
+  activity: [possession]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 4, 2]
+  details.agency_types: [2, 4, 1, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 8926dec6b2dd98172c6902fcabc7e9c8

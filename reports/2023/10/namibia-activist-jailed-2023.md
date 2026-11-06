@@ -12,6 +12,14 @@ summary: >-
   was never tested and that the investigating officer had died and could not be cross-examined. His
   lawyer in the constitutional case said the sentence did not end that challenge.
 created_by_model: unknown
+details:
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: namibia-activist-jailed-2023
 tags:

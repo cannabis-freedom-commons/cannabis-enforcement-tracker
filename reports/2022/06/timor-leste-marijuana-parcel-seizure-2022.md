@@ -12,6 +12,14 @@ summary: >-
   police said relatives had sent the parcel from Ireland and that examination of its quantity was
   continuing. The suspect was referred for an initial court hearing on 3 June.
 created_by_model: unknown
+details:
+  agency_types: [customs, police]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 cfi_id: timor-leste-marijuana-parcel-seizure-2022
 tags:

@@ -12,6 +12,10 @@ summary: >-
   the enforcement framework for the 2022 regulations was still being designed, leaving the fine
   scheme on the books but unused.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: israel-cannabis-fines-zero-2026
 sources:

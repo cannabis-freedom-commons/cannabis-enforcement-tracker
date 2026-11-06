@@ -17,6 +17,12 @@ figures:
   value:
     amount: 1000000
     currency: DZD
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fc897f83ed6203a1682e6171195b651d

@@ -15,6 +15,16 @@ figures:
   arrested: 1
   kg_seized: 0.001
   prison: 20 months
+details:
+  activity: [possession]
+  agency_types: [police, court]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 688c93994c6ba0442259056b4fced0df

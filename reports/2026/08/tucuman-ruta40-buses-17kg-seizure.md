@@ -12,6 +12,14 @@ summary: >-
   Gendarmerie Squadron 71 stopped three passenger buses on National Route 40 near Quilmes and Colalao del Valle, seizing 17 kilos 035 grams of marijuana. Part was hidden in parcels in the luggage holds and the rest in an unclaimed backpack, and federal courts ordered the seizure.
 figures:
   kg_seized: 17.035
+details:
+  agency_types: [gendarmerie]
+  products: [{product: flower, kg: 17.035}]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/gendarmeria-decomiso-mas-de-17-kilos-de-marihuana-durante-controles-colectivos-en-tucuman

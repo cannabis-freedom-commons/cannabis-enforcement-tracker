@@ -18,6 +18,16 @@ figures:
   fine:
     amount: 160
     currency: GBP
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [fine]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6f83017277e58d9bd88e97ae2d6d40c1

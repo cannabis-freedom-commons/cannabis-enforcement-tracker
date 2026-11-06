@@ -12,6 +12,12 @@ summary: >-
   bags and passengers are scanned at Hamad International Airport, and travellers carrying even very
   small quantities have been arrested. Smuggling charges can carry the death penalty.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  setting: [airport]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 cfi_id: qatar-world-cup-warning-2022
 tags:

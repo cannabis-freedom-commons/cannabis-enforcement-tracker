@@ -13,6 +13,16 @@ summary: >-
   Colombian police found 266 packages of marijuana, more than 500 kg in all, in a white pickup truck on a public street in southern Armenia, Quindío, on 27 October 2026. The driver was not found, no arrests were reported, and the marijuana and truck were handed to the authorities.
 figures:
   kg_seized: 500
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower, kg: 500}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1, 4, 2]
+  details.agency_types: [3, 1, 2, 4]
+  details.products: [3, 1, 2, 4]
+  details.setting: [3, 1, 2, 4]
 media:
   - kind: photo
     url: https://www.ntn24.com/noticias-actualidad/estas-son-las-impresionantes-imagenes-del-cargamento-de-estupefacientes-incautado-en-armenia-eran-mas-de-500-kilogramos-661749

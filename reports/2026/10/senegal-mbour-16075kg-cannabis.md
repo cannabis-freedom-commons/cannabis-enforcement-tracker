@@ -16,6 +16,12 @@ summary: >-
   date or number of suspects.
 figures:
   kg_seized: 160.75
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.rts.sn/actualite/detail/a-la-une/mbour-16075-kg-de-chanvre-indien-saisis-par-la-brigade-regionale-des-stupefiants

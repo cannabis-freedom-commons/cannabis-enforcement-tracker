@@ -14,6 +14,12 @@ summary: >-
   medical-cannabis company in Borisovo and its manager, V.K., after an
   inspection found 7,813.49 kg of dried flower unaccounted for.
 created_by_model: spacexai/grok-4.7
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 tags: [borisovo, strumica, medical]
 open_questions:

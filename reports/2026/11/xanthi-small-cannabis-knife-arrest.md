@@ -13,6 +13,10 @@ summary: >-
   Police in Xanthi arrested a man in the early hours of 4 November 2026 after finding a small amount of raw cannabis and a knife in his possession. Both items were seized and the Xanthi criminal-investigation department is conducting the preliminary inquiry.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 93b7e5395bb737a626fc6a666c6b6352

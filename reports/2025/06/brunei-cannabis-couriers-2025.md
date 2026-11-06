@@ -12,6 +12,10 @@ summary: >-
   acting as a courier source rather than only a consumer market. The arrests were an enforcement
   action, not a change in the law.
 created_by_model: unknown
+details:
+  case_stage: investigation
+data_sources:
+  details.case_stage: [1]
 status: verified
 cfi_id: brunei-cannabis-couriers-2025
 tags:

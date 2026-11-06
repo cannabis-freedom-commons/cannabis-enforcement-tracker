@@ -15,6 +15,12 @@ figures:
   plants_destroyed: 2957
   hectares: 0.35
 created_by_model: openai/gpt-6
+details:
+  activity: [trafficking, cultivation]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 open_questions:
   - The articles are dated 13 May but do not give a separate date or time for the operation.

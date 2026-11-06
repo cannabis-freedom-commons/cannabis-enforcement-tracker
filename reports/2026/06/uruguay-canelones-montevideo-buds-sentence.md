@@ -17,6 +17,18 @@ summary: >-
 figures:
   charged: 3
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [mail, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [canelones, montevideo, lavalleja, buds]
 open_questions:

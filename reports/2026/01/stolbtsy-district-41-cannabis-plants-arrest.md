@@ -14,6 +14,20 @@ summary: >-
 figures:
   arrested: 2
   plants_destroyed: 41
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  environment: [indoor]
+  products: [{product: plants, plants: 41}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [2, 1]
 media:
   - kind: video
     url: https://t.me/minobl_uvd/69572

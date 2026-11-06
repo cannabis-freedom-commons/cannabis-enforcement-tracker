@@ -13,6 +13,14 @@ summary: >-
   A man was arrested in Wanstead Park, London, on the evening of 30 October 2026 after Metropolitan Police officers found a significant quantity of suspected herbal cannabis in a vehicle. Police gave no weight or value for the drug and said the man remained under investigation.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
+  details.products: [1, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 74b9bd296872f958f4e246fd4472b4ff

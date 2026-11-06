@@ -37,12 +37,14 @@ details:
   case_stage: sentenced
   products:
     - {product: flower}
+  sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [3, 1, 2]
   details.case_stage: [1, 2, 3]
   details.products: [1]
+  details.sentence_types: [1, 2, 3]
   details.setting: [3, 1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

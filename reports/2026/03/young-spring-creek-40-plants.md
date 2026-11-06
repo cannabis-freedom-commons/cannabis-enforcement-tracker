@@ -17,6 +17,18 @@ figures:
   charged: 1
   plants_destroyed: 40
   kg_seized: 3.5
+details:
+  activity: [cultivation, possession]
+  agency_types: [police]
+  case_stage: charged
+  environment: [indoor]
+  products: [{product: plants, plants: 40}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
+  details.products: [2, 1]
 media:
   - kind: photo
     url: https://www.canberratimes.com.au/story/9202461/police-allege-40-cannabis-plants-steroids-and-other-drugs-seized-in-young/

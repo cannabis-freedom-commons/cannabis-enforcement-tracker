@@ -16,6 +16,12 @@ figures:
   charged: 1
   prison: 10 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  products: [{product: flower}, {product: plants}]
+  setting: [prison]
+data_sources:
+  details.products: [1, 2]
+  details.setting: [2, 4, 3]
 status: verified
 tags: [medical-marijuana, mandatory-minimum]
 open_questions:

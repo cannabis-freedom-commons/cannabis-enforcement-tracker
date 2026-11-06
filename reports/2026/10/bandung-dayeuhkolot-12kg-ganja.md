@@ -16,6 +16,14 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 12
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [vehicle, prison]
+data_sources:
+  details.agency_types: [1, 3, 4, 5, 6, 7]
+  details.case_stage: [2, 4, 7, 9, 10, 12]
+  details.setting: [1, 3, 8, 13, 4, 7]
 media:
   - kind: photo
     url: https://jabar.idntimes.com/news/jawa-barat/polisi-bekuk-pengedar-12-kg-ganja-di-bandung-diduga-pasok-ke-lapas-00-9y7yl-x0ppd4

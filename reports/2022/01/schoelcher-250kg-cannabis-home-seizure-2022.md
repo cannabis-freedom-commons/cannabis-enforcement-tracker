@@ -13,6 +13,14 @@ summary: >-
   Gendarmes searched a woman's home in Schoelcher, Martinique, on 11 January 2022 and seized nearly 250 kg of cannabis herb in a record haul. A judicial investigation was opened and specialised interregional judges took over inquiries into a possibly international network.
 figures:
   kg_seized: 250
+details:
+  agency_types: [gendarmerie]
+  case_stage: executed
+  products: [{product: flower, kg: 250}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/250-kilos-de-cannabis-saisis-chez-une-habitante-de-schoelcher-887144.php

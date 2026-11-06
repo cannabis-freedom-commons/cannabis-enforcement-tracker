@@ -14,6 +14,12 @@ summary: >-
   Yahukimo sites on 13 July 2026: about 3,000 at Kima and 2,000 at Air Garam.
   The reports describe recovery during a patrol but do not document
   destruction of the plants.
+details:
+  activity: [cultivation]
+  products: [{product: plants}]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [indonesia, papua-pegunungan, yahukimo, kima, air-garam, seizure]

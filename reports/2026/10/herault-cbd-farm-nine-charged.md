@@ -13,6 +13,14 @@ summary: >-
   Nine people aged 22 to 32 were placed under formal investigation at Nanterre between 16 and 22 October 2026 over a cannabis network that ran from a CBD farm in the Hérault, near Montpellier, to dealers in the Val-d’Oise and northern Hauts-de-Seine. Eight were remanded in custody and one woman was released under judicial supervision.
 figures:
   charged: 9
+details:
+  activity: [trafficking]
+  products: [{product: flower}]
+  setting: [building]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 2e17167105bf3a97b6b58f34e6e13e59

@@ -24,6 +24,7 @@ details:
   activity: [sale]
   case_stage: sentenced
   products: [{product: flower, kg: 6.8}, {product: edibles}]
+  sentence_types: [prison]
   setting: [shop]
 data_sources:
   details.activity: [2, 3]
@@ -31,6 +32,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [3, 1]
   details.products: [2, 1, 3]
+  details.sentence_types: [3, 1]
   details.setting: [2, 3]
 status: verified
 tags: [dea, dispensary, corona]

@@ -19,6 +19,18 @@ summary: >-
 figures:
   charged: 5
   prison: 12 to 33 months (convictions vacated in 2017)
+details:
+  activity: [sale]
+  agency_types: [prosecutor]
+  case_stage: acquitted
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [2, 3, 1, 4]
+  details.case_stage: [2]
+  details.products: [2]
+  details.setting: [2, 3]
 media:
   - kind: photo
     url: https://reason.com/2015/03/04/medical-marijuana-growers-escape-mandato/

@@ -18,6 +18,16 @@ figures:
   kg_seized: 0.1614
   prison: 80 days suspended (man); 30 days suspended (woman)
 created_by_model: unknown # This runtime did not disclose its exact model identifier or reasoning effort.
+details:
+  activity: [sale]
+  agency_types: [police, court]
+  sentence_types: [suspended]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 tags: [lapland, rovaniemi, sentence]
 open_questions:

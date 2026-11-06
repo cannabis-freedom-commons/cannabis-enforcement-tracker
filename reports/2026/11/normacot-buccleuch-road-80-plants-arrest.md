@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 80
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 80}]
+  setting: [vehicle, home, building]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.stokesentinel.co.uk/news/stoke-on-trent-news/police-smash-way-stoke-trent-11228785

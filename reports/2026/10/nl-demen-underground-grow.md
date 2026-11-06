@@ -17,6 +17,14 @@ summary: >-
   had been arrested by the next day.
 figures:
   plants_destroyed: 700
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [vehicle, home]
+data_sources:
+  details.activity: [1, 2, 4]
+  details.agency_types: [1, 2, 4, 3]
+  details.setting: [1, 3, 4, 2]
 media:
   - kind: photo
     url: https://www.omroepbrabant.nl/nieuws/6030730/hennepkwekerij-ontdekt-in-demen-politie-bezig-met-ontruimen

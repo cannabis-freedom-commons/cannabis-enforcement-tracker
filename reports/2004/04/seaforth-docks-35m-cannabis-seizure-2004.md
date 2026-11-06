@@ -18,6 +18,10 @@ figures:
   arrested: 7
   value: { amount: 35000000, currency: GBP }
 created_by_model: meta/muse-spark
+details:
+  agency_types: [customs]
+data_sources:
+  details.agency_types: [1]
 status: verified
 tags: [seaforth, customs-and-excise, merseyside]
 open_questions:

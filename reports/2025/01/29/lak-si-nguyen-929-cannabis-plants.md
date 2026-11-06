@@ -19,6 +19,16 @@ figures:
   arrested: 1
   plants_destroyed: 929
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  environment: [indoor]
+  products: [{product: plants, plants: 929}]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [immigration, lak-si, indoor]
 open_questions:

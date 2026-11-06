@@ -11,6 +11,14 @@ summary: >-
   trafficking narcotics to Israel. PCHR called it the first death sentence of 2023 and said the
   number issued since 1994 had reached 281, including 251 in Gaza.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  case_stage: sentenced
+  sentence_types: [death]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 cfi_id: palestine-gaza-trafficking-death-sentence-2023
 sources:

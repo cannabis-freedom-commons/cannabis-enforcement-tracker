@@ -16,6 +16,16 @@ figures:
   value:
     amount: 2682000
     currency: ARS
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.radiosudamericana.com/nota/policiales/352270-Hallaron-otro-kiosco-de-drogas-en-Curuzu-Cuatia--dos-detenidos.htm

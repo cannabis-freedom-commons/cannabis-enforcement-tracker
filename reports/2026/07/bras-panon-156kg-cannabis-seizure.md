@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 156
+details:
+  agency_types: [gendarmerie, prosecutor]
+  products: [{product: flower, kg: 156}]
+data_sources:
+  details.agency_types: [2, 3, 1]
+  details.products: [1, 2, 3]
 media:
   - kind: photo
     url: https://freedom.fr/coup-de-filet-a-bras-panon-156-kg-de-cannabis-saisis-sur-le-littoral-grace-a-la-vigilance-citoyenne/

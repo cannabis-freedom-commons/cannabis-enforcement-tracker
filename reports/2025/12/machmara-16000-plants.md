@@ -14,6 +14,14 @@ summary: >-
   Unakoti, Tripura, on 27 December 2025.
 figures:
   plants_destroyed: 16000
+details:
+  agency_types: [anti-narcotics, police]
+  products: [{product: plants, plants: 16000}]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.sentinelassam.com/topheadlines/security-forces-destroy-ganja-plants-worth-rs-108-cr-in-tripura

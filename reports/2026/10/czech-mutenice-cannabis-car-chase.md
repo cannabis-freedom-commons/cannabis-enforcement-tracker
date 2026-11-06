@@ -14,6 +14,12 @@ summary: >-
   Police detained two men after a car fled a patrol at a petrol station in Mutěnice, reached 200 km/h and came to rest on railway tracks late on 24 October 2026. Officers found a large quantity of cannabis in the boot and cabin; the driver had never held a licence and tested positive for amphetamine and methamphetamine.
 figures:
   arrested: 2
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [2, 3, 1, 4, 5]
+  details.case_stage: [2, 3, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [mutenice, hodonin, car-chase, cannabis, south-moravia]

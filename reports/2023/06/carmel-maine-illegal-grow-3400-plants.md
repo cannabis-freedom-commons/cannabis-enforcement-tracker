@@ -18,6 +18,16 @@ figures:
   plants_destroyed: 3400
   kg_seized: 50.35
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  case_stage: investigation
+  products: [{product: flower, kg: 50.35}, {product: plants, plants: 3400}]
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.case_stage: [1, 2]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [unlicensed-grow, penobscot-county]
 sources:

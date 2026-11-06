@@ -15,6 +15,20 @@ figures:
   charged: 6
   kg_seized: 23
   prison: 3 to 7 years
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor, court]
+  case_stage: investigation
+  products: [{product: flower, kg: 23}]
+  sentence_types: [suspended]
+  setting: [border, home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 3, 2]
+  details.products: [1, 2, 3]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.fiscales.gob.ar/narcocriminalidad/salta-cinco-condenados-a-penas-de-hasta-7-anos-de-prision-por-transportar-23-kilos-de-marihuana-con-la-modalidad-del-coche-puntero/

@@ -12,6 +12,12 @@ summary: >-
   The judges rejected his personal-use argument but treated his simple, direct sales without an
   organisation as small-scale trafficking.
 created_by_model: openai/gpt-6
+details:
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: mozambique-cannabis-seller-sentence-reduced-2024
 tags:

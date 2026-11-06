@@ -18,6 +18,16 @@ figures:
   arrested: 8
   kg_seized: 8700
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  case_stage: investigation
+  products: [{product: hashish, kg: 8700}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [operation-ramses, eastern-mediterranean-route, santa-rita-terza]
 media:

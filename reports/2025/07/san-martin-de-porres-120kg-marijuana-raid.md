@@ -17,6 +17,18 @@ figures:
   value:
     amount: 300000
     currency: PEN
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 120}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/peru/2025/07/13/cae-banda-en-smp-con-120-kilos-de-marihuana-valorizados-en-s-300-mil-una-menor-entre-los-detenidos/

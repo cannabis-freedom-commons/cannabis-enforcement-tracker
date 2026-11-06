@@ -15,6 +15,18 @@ summary: >-
 figures:
   charged: 5
   kg_seized: 0.00641
+details:
+  activity: [trafficking]
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [1, 3, 2]
+  details.sentence_types: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 41888b48f60f354fc3e4874c4a8600c3

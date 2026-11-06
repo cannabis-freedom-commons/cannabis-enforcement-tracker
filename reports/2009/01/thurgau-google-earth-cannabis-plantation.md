@@ -18,6 +18,16 @@ figures:
   arrested: 16
   value: { amount: 2500000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 1100}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [google-earth, thurgau, zurich-police]
 open_questions:

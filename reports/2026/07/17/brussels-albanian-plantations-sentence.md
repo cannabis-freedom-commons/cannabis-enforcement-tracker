@@ -16,6 +16,20 @@ summary: >-
   sites found in 2025; a fourteenth defendant received 100 hours of community service.
 figures:
   charged: 14
+details:
+  activity: [cultivation]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  products: [{product: plants}]
+  sentence_types: [prison]
+  setting: [field, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [brussels, albanian-network, indoor]

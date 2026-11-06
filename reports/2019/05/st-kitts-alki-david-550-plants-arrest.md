@@ -15,6 +15,18 @@ figures:
   arrested: 1
   charged: 1
   plants_destroyed: 550
+details:
+  activity: [possession]
+  agency_types: [customs, police, court]
+  case_stage: charged
+  products: [{product: flower}]
+  setting: [airport]
+data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1]
+  details.products: [2, 3]
+  details.setting: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ab9b422720dcdbba24749c8e6dad5bff

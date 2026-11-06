@@ -13,6 +13,12 @@ summary: >-
   Gendarmería Nacional officers patrolling Puerto Delicia, Misiones, saw people throwing bundles from boats at the mouth of the Aguaray Guazú stream and fleeing to the Paraguayan bank, then recovered 33 bundles holding 671 cannabis bricks weighing 981 kilos 705 grams. The Eldorado federal court ordered the drug seized under law 23.737, and no arrests were reported.
 figures:
   kg_seized: 981.705
+details:
+  agency_types: [coast-guard, gendarmerie, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/gendarmeria-decomiso-casi-una-tonelada-de-estupefacientes-en-misiones

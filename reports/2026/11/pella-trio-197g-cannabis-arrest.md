@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 0.1975
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1, 3, 4, 5, 6, 7]
+  details.agency_types: [1, 3, 4, 5, 6, 7]
+  details.case_stage: [1, 6, 2, 5, 3, 4]
+  details.setting: [2, 5, 3, 4, 7, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c98558052f4b7c3249f097442e3053d7

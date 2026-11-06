@@ -15,6 +15,18 @@ figures:
   arrested: 1
   charged: 1
   prison: 20 years
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [3, 1, 2]
+  details.sentence_types: [3, 1, 2]
+  details.setting: [3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d6abd092694a9cc35903fc73bbdaf2ec

@@ -14,6 +14,16 @@ summary: >-
   Police arrested three men on suspicion of cannabis cultivation after finding a cannabis factory at Club 104 on Cheney Manor Road, Swindon, on 20 August 2026. All three were later bailed while police investigated, and Wiltshire Police requested a review seeking revocation of the club’s premises certificate.
 figures:
   arrested: 3
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [building]
+data_sources:
+  details.activity: [2, 3, 4]
+  details.agency_types: [2, 3, 4, 1]
+  details.case_stage: [2, 3, 4]
+  details.setting: [2, 3, 4]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: 5a6b117a103f24e9484cbc3aacdcf98f

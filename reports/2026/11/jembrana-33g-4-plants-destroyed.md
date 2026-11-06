@@ -14,6 +14,10 @@ summary: >-
 figures:
   plants_destroyed: 4
   kg_seized: 0.03304
+details:
+  products: [{product: plants, plants: 4}]
+data_sources:
+  details.products: [1]
 media:
   - kind: photo
     url: https://balitribune.co.id/content/6334-butir-ekstasi-dimusnahkan

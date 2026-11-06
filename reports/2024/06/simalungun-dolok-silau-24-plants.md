@@ -14,6 +14,14 @@ summary: >-
   Police found 24 cannabis plants growing among coffee trees in Juma Lepar, Dolok Silau, Simalungun, North Sumatra, on 14 June 2024 and uprooted them. The suspect, SG alias Cege, fled as officers reached his house; his wife and 17-year-old child were taken to the police station for questioning.
 figures:
   plants_destroyed: 24
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [vehicle, field, home]
+data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [1, 2, 3]
+  details.setting: [2, 3, 1]
 media:
   - kind: photo
     url: https://daerah.sindonews.com/read/1397259/717/disamarkan-pohon-kopi-ladang-ganja-ditemukan-di-dolok-silau-simalungun-1718460387

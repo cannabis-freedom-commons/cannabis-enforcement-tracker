@@ -19,6 +19,18 @@ figures:
   arrested: 1
   kg_seized: 0.45
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 0.45}, {product: plants, plants: 200}]
+  setting: [home]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [wakeford, medical-marijuana, udora]
 open_questions:

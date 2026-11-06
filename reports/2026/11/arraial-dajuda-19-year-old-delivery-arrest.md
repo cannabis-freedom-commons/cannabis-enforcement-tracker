@@ -18,6 +18,7 @@ figures:
     currency: BRL
 details:
   agency_types: [police]
+  force: physical
   products:
     - {product: flower}
     - {product: hashish}
@@ -30,6 +31,7 @@ data_sources:
   details.activity: [2]
   details.agency_types: [2]
   details.case_stage: [2]
+  details.force: [3]
   details.products: [1]
   details.setting: [2]
   figures.arrested: [1]

@@ -22,6 +22,12 @@ figures:
     amount: 350000
     currency: GBP
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [lincolnshire, welbourn, indoor-grow]
 open_questions:

@@ -17,6 +17,12 @@ figures:
   hectares: 12.1
   arrested: 9
 created_by_model: unknown
+details:
+  agency_types: [police]
+  setting: [forest]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [kandhamal]
 sources:

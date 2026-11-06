@@ -19,6 +19,20 @@ figures:
   prison: 6 months
   value: { amount: 2000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [prison, suspended]
+  setting: [prison]
+data_sources:
+  details.activity: [3, 2]
+  details.agency_types: [3, 2, 1]
+  details.case_stage: [3]
+  details.products: [3, 2, 1]
+  details.sentence_types: [3]
+  details.setting: [3]
 status: verified
 tags: [worthing, cannabis-cafe, medical-use]
 sources:

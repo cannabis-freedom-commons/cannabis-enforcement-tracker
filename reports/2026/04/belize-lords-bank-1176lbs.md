@@ -17,6 +17,12 @@ summary: >-
 figures:
   kg_seized: 533
   value: { amount: 1600000, currency: BZD }
+details:
+  agency_types: [anti-narcotics, police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [belize-district, seizure]

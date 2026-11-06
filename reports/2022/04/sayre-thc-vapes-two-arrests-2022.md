@@ -17,6 +17,16 @@ figures:
   value:
     amount: 50000
     currency: USD
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 486f8981528ee64f51d9d9514e36e4d7

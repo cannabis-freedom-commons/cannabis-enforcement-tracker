@@ -19,6 +19,10 @@ figures:
   arrested: 1
   kg_seized: 27.216
   plants_destroyed: 32
+details:
+  products: [{product: flower, kg: 27.216}, {product: plants, plants: 32}]
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [date, unlicensed, townsend]

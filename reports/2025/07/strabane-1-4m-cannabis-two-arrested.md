@@ -17,6 +17,16 @@ figures:
   value:
     amount: 1400000
     currency: GBP
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn0qr9dzqw9o

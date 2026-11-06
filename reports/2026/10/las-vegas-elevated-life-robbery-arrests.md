@@ -16,6 +16,18 @@ figures:
   arrested: 2
   charged: 2
   deaths: 1
+details:
+  agency_types: [police]
+  case_stage: charged
+  force: lethal
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.agency_types: [3, 2, 4, 1]
+  details.case_stage: [3, 2, 4]
+  details.force: [3, 4, 1]
+  details.products: [3, 4, 1]
+  details.setting: [4]
 media:
   - kind: photo
     url: https://news3lv.com/news/local/two-suspects-in-las-vegas-deadly-robbery-attempt-arrested-in-minnesota-police-say

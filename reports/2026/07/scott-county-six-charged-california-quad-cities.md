@@ -16,6 +16,16 @@ figures:
   arrested: 6
   charged: 6
   kg_seized: 6.35
+details:
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 6.35}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.kwqc.com/2026/07/20/6-women-charged-california-to-quad-cities-marijuana-enterprise/

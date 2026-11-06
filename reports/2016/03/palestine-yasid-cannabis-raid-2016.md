@@ -11,6 +11,16 @@ summary: >-
   2,000 cannabis saplings. Two suspects were arrested after they tried to flee; the raid was part of
   a West Bank crackdown that also seized 370 plants and 54 kg of dried cannabis in Jenin.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: investigation
+  environment: [greenhouse]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.environment: [1]
+  details.setting: [1]
 status: verified
 cfi_id: palestine-yasid-cannabis-raid-2016
 sources:

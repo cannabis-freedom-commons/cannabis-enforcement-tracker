@@ -16,6 +16,14 @@ figures:
   plants_destroyed: 145000
   hectares: 23.47
   value: { amount: 145000000, currency: INR }
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics, police]
+  setting: [forest]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://neherald.com/tripura/assam-rifles-destroys-illicit-ganja-cultivation-worth-rs-14-5-cr-in-tripura

@@ -16,6 +16,16 @@ summary: >-
 figures:
   kg_seized: 500000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 500000}]
+  setting: [field]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 tags: [senad, nueva-alianza, amambay, argentina, brazil]
 media:

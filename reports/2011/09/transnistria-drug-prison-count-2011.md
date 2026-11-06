@@ -10,6 +10,14 @@ summary: >-
   The justice ministry reported 241 people imprisoned for drug offences, 11% of its sentenced prison
   population, and more than 200 people serving suspended sentences under supervision.
 created_by_model: unknown
+details:
+  case_stage: sentenced
+  sentence_types: [suspended]
+  setting: [prison]
+data_sources:
+  details.case_stage: [1]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 cfi_id: transnistria-drug-prison-count-2011
 tags:

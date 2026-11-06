@@ -12,6 +12,10 @@ summary: >-
   95 to the Prosecutor General and reported shutting five drug networks. The figures covered all
   drugs, not cannabis alone.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: maldives-drug-seizures-2024
 sources:

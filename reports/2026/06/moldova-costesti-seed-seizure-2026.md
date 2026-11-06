@@ -11,6 +11,12 @@ summary: >-
   on a coach arriving from Belgium. The seeds were sent for expert examination and the investigation
   continued.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  products: [{product: seeds}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: moldova-costesti-seed-seizure-2026
 sources:

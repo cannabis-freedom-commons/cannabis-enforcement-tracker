@@ -12,6 +12,14 @@ summary: >-
   BHD1,516.925 and SAR635 in cash; prosecutors said he was part of a wider group using concealed
   shipments. The case was before the courts in April 2025, with a verdict expected on 29 April.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor, court]
+  products: [{product: hashish}]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: bahrain-hashish-fabric-2024
 sources:

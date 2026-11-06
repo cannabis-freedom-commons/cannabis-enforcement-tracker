@@ -13,6 +13,14 @@ summary: >-
   Gendarmes arrested a man in his twenties near Lyon-Corbas prison after he tried to throw a bag containing cannabis and food over the perimeter wall on 28 October 2026. He spent a night in custody and was released with a summons to appear before the Lyon court on prison-intrusion and delivery charges.
 figures:
   arrested: 1
+details:
+  agency_types: [gendarmerie, police]
+  case_stage: charged
+  setting: [mail, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e05fa00be11967cbb8a5cc808d634405

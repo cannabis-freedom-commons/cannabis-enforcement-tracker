@@ -19,6 +19,10 @@ figures:
   arrested: 10
   deaths: 1
 created_by_model: meta/muse-spark
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 tags: [enugu, police-shooting, cultism]
 open_questions:

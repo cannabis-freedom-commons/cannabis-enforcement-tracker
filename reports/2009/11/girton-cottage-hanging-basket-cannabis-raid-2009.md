@@ -16,6 +16,12 @@ summary: >-
 figures:
   arrested: 1
   value: { amount: 112000, currency: GBP }
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [2, 1]
+  details.products: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [factory, indoor-grow]

@@ -10,6 +10,14 @@ type: seizure
 title: 216 cannabis blocks seized in abandoned Kpalimé house
 summary: >-
   Togo's National Police seized 216 blocks of cannabis hidden in three maize sacks in an abandoned house at Kligué-Kondji, Kpalimé, on 10 January 2026 after residents raised the alert. No arrests were reported, with investigations continuing to identify the owners and dismantle the network.
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 16e14563547657503bab322feb3620c8

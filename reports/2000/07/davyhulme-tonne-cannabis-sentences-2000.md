@@ -14,6 +14,16 @@ summary: >-
   brother-in-law William Probert for four over more than a tonne of cannabis
   found at a Davyhulme house and a Lancaster garage. Police tracked Johnson's
   van from Lancaster; the paper valued the haul at £8 million.
+details:
+  activity: [smuggling]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [vehicle, home, building]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 tags: [greater-manchester, trafficking]
 open_questions:

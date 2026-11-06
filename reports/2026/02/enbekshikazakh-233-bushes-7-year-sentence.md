@@ -17,6 +17,18 @@ figures:
   plants_destroyed: 233
   kg_seized: 49
   prison: 7 years
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 49}, {product: plants, plants: 233}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [2, 4, 3, 1]
+  details.case_stage: [1]
+  details.products: [4, 3, 1, 2]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5d7784d92684c004ff87876497be8199

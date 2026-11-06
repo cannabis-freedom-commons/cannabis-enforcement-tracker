@@ -23,11 +23,13 @@ details:
   activity: [cultivation]
   agencies: [ca-rcmp]
   agency_types: [police]
+  environment: [indoor]
   products: [{product: flower, kg: 970.36}, {product: plants, plants: 148400}]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.environment: [1]
   details.products: [1, 2]
 status: verified
 tags: [charlemagne, indoor-grows, rcmp]

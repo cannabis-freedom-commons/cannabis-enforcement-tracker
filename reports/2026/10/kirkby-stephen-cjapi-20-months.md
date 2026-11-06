@@ -19,6 +19,20 @@ figures:
   prison: 20 months
   value: { amount: 439000, currency: GBP }
 created_by_model: xai/grok-4.7
+details:
+  activity: [smuggling]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  products: [{product: plants, plants: 293}]
+  sentence_types: [deportation]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 tags: [cumbria, carlisle, gardener]
 open_questions:

@@ -17,6 +17,14 @@ figures:
   value:
     amount: 638230
     currency: ARS
+details:
+  agency_types: [anti-narcotics, police, prosecutor]
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.lmneuquen.com/policiales/allanaron-cuatro-kioscos-droga-los-cuatro-detenidos-uno-quedo-preso-intentar-atropellar-un-policia-n1254214

@@ -12,6 +12,10 @@ summary: >-
   that shops would soon be allowed to sell only to customers with a prescription. In March 375 kg
   had been seized in 22 suitcases at Samui airport and 13 foreigners arrested.
 created_by_model: unknown
+details:
+  setting: [airport]
+data_sources:
+  details.setting: [1]
 status: verified
 cfi_id: thailand-smuggling-warning-2025
 tags:

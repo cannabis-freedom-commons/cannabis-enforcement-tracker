@@ -12,6 +12,14 @@ summary: >-
   Mexican naval personnel seized about 288.8 kg of marijuana hidden in 10 pallets inside a Costa Rica-bound container at Manzanillo port on 18 November 2021. Sniffer dogs found 516 packages during a joint routine inspection, and the drug was handed to ministerial authorities.
 figures:
   kg_seized: 288.8
+details:
+  activity: [trafficking]
+  agency_types: [customs, military]
+  products: [{product: flower, kg: 288.8}]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.infobae.com/america/mexico/2021/11/21/semar-decomiso-288-kilos-de-marihuana-en-colima-con-destino-a-costa-rica/

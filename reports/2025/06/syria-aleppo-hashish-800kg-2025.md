@@ -12,6 +12,12 @@ summary: >-
   men were trying to smuggle the shipment and that the drugs would be destroyed. It was one of the
   largest cannabis seizures reported since the fall of Assad.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  products: [{product: hashish}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 cfi_id: syria-aleppo-hashish-800kg-2025
 sources:

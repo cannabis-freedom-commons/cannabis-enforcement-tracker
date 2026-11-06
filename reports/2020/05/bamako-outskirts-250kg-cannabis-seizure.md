@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 250
+details:
+  activity: [trafficking]
+  case_stage: investigation
+  setting: [home]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.case_stage: [1, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e8aaf08f20cc8ac0165459f500184a7a

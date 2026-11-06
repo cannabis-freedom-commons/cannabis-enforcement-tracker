@@ -18,6 +18,20 @@ figures:
   value:
     amount: 9000000
     currency: AUD
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: charged
+  environment: [indoor]
+  products: [{product: plants, plants: 2613}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [2, 3, 1]
 media:
   - kind: photo
     url: https://police.act.gov.au/news/2025-media-releases/january/man-charged-and-grow-house-dismantled

@@ -19,6 +19,18 @@ figures:
   plants_destroyed: 69
   prison: 7 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: plants, plants: 69}]
+  sentence_types: [prison]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [grow-house, british-national]
 open_questions:

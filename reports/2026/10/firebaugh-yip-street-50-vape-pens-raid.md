@@ -11,6 +11,10 @@ also: [seizure]
 title: 50 cannabis vape pens seized in Firebaugh home raid
 summary: >-
   Firebaugh police seized about 50 cannabis vape products from a juvenile during a 27 October 2026 home search in the 1700 block of Yip Street. Police said the juvenile was suspected of selling to other juveniles and that the distribution investigation is ongoing.
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 media:
   - kind: photo
     url: https://kmph.com/news/local/search-warrant-raid-involving-juvenile-50-cannabis-vape-pens-seized

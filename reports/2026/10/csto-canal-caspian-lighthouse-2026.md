@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 376
   kg_seized: 1492
+details:
+  activity: [smuggling, trafficking]
+  case_stage: investigation
+  products: [{product: hashish, kg: 1492}, {product: flower}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 6, 8, 4, 2, 5]
+  details.case_stage: [1, 6, 8]
+  details.products: [1, 6, 8]
+  details.setting: [1, 6, 7, 8, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f2456fa8ede8d20fe12efb54e68bd6e3

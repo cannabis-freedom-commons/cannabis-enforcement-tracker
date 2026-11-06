@@ -18,6 +18,10 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 110
+details:
+  agency_types: [anti-narcotics]
+data_sources:
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://peopledaily.digital/wp-content/uploads/2026/07/dci-finds-2-500x425.jpg

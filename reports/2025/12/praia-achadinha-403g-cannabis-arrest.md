@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.403329
+details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ce78c86ff79f281a990affb30f5c3656

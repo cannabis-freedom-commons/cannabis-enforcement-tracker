@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 5
   kg_seized: 6
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 6}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/pointe-a-pitre-cinq-interpellations-et-6-kg-de-cannabis-saisis-lors-dune-operation-a-bergevin-1093822.php

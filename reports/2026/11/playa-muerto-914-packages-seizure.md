@@ -13,6 +13,16 @@ summary: >-
   Panama’s Senafront border service seized 914 rectangular packages of suspected marijuana in Playa Muerto, Darién, detaining two people. The operation also netted phones, GPS devices and a twin-engine boat, with detainees and evidence handed to prosecutors.
 figures:
   arrested: 2
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.midiario.com/policiales/golpe-en-playa-muerto-decomisan-914-paquetes-de-presunta-droga-y-aprehenden-a-dos/

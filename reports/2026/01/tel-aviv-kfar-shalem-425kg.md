@@ -19,6 +19,12 @@ figures:
   arrested: 2
   kg_seized: 42.5
 created_by_model: openai/gpt-6-luna#max
+details:
+  agency_types: [police, prosecutor]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.setting: [1, 2]
 status: verified
 tags: [israel-police, tel-aviv, kfar-shalem]
 open_questions:

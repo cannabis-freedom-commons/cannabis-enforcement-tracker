@@ -21,6 +21,7 @@ details:
   agency_types: [customs]
   case_stage: investigation
   environment: [indoor]
+  force: physical
   products: [{product: flower, kg: 172}, {product: plants, plants: 438}]
   setting: [field, home]
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]
+  details.force: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

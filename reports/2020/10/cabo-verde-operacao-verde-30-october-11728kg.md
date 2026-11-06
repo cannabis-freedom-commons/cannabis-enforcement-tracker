@@ -13,6 +13,14 @@ summary: >-
   Cabo Verde's Polícia Judiciária dismantled cannabis plantations in localities across the interior of Santiago Island on 30 October 2020 and burned 11,728 kg where it was found. About 120 officers took part with Armed Forces support, and police reported no information on detentions.
 figures:
   kg_seized: 11728
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  setting: [field]
+data_sources:
+  details.activity: [3, 2, 1, 4]
+  details.agency_types: [3, 2, 1, 4]
+  details.setting: [3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7cc4b1c4a65c1eca00f8f558fa59b8bf

@@ -12,6 +12,14 @@ summary: >-
   On 8 January 2016 border police stopped 23-year-old pedestrian E.H. from Bajza at the Božaj crossing and found about 500 g of suspected marijuana in his bag. He and the drug were handed to Podgorica anti-drug officers, the prosecutor was informed, and the substance was sent for forensic examination.
 figures:
   kg_seized: 0.5
+details:
+  activity: [smuggling]
+  agency_types: [customs, border-guard, police, prosecutor]
+  products: [{product: flower, kg: 0.5}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://en.vijesti.me/fun/145996/in-Bozaj%2C-half-a-kg-of-marijuana-was-seized-near-the-border-with-Bosnia-and-Herzegovina%2C-cigarettes-worth-11-euros

@@ -17,6 +17,12 @@ figures:
   kg_seized: 7000
   value: { amount: 14000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [customs, police]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [smuggling, record-seizure, produce-cover]
 sources:

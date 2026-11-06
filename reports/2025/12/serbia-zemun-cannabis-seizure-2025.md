@@ -10,6 +10,10 @@ summary: >-
   Belgrade prosecutors indicted two defendants on 5 December 2025 after two tonnes of cannabis packaged for
   sale were seized in Zemun. The indictment followed an investigation opened on 21 August 2025.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor]
+data_sources:
+  details.agency_types: [1]
 status: reported
 cfi_id: serbia-zemun-cannabis-seizure-2025
 sources:

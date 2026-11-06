@@ -12,6 +12,14 @@ summary: >-
   operation was part of an anti-drug campaign launched by the prosecutor general at the Conakry
   court of appeal, and the Kindia prosecutor was informed.
 created_by_model: unknown
+details:
+  agency_types: [prosecutor]
+  case_stage: investigation
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 cfi_id: guinea-kindia-seizure-2025
 tags:

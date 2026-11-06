@@ -17,6 +17,12 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [sale]
+  agency_types: [police]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [bangkok, unlicensed-shop]
 open_questions:

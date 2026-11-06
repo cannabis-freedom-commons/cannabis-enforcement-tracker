@@ -17,6 +17,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 8.63
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 8.63}]
+  setting: [home]
+data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://62.rosguard.gov.ru/News/Article/pri-silovoj-podderzhke-sobr-arestovan-zhitel-ryazani-u-kotorogo-narkopolicejskie-izyali-bolee-85%C2%A0kilogramma%C2%A0marixuany

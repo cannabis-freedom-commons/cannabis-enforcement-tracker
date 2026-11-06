@@ -12,6 +12,12 @@ summary: >-
   Nkeyema District in Western Province, and 68.42 kg of packed cannabis in Senanga District. Twelve
   suspects were arrested and were to appear in court.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  case_stage: investigation
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: zambia-operation-kufeza-2026
 sources:

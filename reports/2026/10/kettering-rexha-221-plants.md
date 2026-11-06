@@ -21,6 +21,18 @@ figures:
   charged: 1
   prison: 26 months
   fine: { amount: 228, currency: GBP }
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: plants, plants: 221}]
+  sentence_types: [prison, deportation]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [united-kingdom, kettering, sentence]

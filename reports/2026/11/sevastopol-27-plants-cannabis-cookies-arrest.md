@@ -26,12 +26,14 @@ details:
   activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
+  environment: [greenhouse]
   products: [{product: flower, kg: 2.98}]
   setting: [home]
 data_sources:
   details.activity: [1, 3, 4, 5]
   details.agency_types: [2, 5]
   details.case_stage: [1, 3, 4, 5]
+  details.environment: [1, 3, 4, 5, 2]
   details.products: [1, 5, 3, 4, 2]
   details.setting: [2]
 status: reported

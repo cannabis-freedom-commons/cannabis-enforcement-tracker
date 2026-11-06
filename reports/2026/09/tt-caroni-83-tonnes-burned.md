@@ -17,6 +17,12 @@ summary: >-
 figures:
   kg_seized: 8300
   value: { amount: 1600000000, currency: TTD }
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 8300}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [destruction, caroni]

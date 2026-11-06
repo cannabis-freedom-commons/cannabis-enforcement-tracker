@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 2
   charged: 2
+details:
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower}]
+  setting: [home]
+data_sources:
+  details.agency_types: [2, 3, 4, 1]
+  details.case_stage: [1, 4, 3]
+  details.products: [2, 3, 4, 1]
+  details.setting: [1, 3, 4]
 media:
   - kind: photo
     url: https://mazowiecka.policja.gov.pl/wg/aktualnosci/140820,Marihuana-i-amfetamina-ukryte-w-samochodzie-mefedron-w-domu-kierowca-po-alkoholu.html

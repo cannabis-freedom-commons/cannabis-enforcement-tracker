@@ -16,6 +16,14 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 3
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [prison]
+data_sources:
+  details.agency_types: [3, 2, 1]
+  details.case_stage: [3, 2]
+  details.setting: [3, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [orlova, cannabis, seizure, technical-hemp, czechia]

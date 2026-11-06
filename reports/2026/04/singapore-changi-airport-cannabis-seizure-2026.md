@@ -13,6 +13,10 @@ summary: >-
   threshold for the death penalty; the Immigration & Checkpoints Authority said investigations
   continued, and…
 created_by_model: unknown
+details:
+  setting: [airport, border]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 cfi_id: singapore-changi-airport-cannabis-seizure-2026
 sources:

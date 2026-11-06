@@ -12,6 +12,12 @@ summary: >-
   for possessing up to 30 g, he said, the police cannot detain a person for it before trial and bail
   must be granted; they should charge the person and bring them before a magistrate.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: guyana-attorney-general-no-detention-2024
 tags:

@@ -10,6 +10,14 @@ type: seizure
 title: Cat intercepted with suspected cannabis near Colón prison
 summary: >-
   Prison guards and police intercepted a cat carrying suspected drugs near Nueva Esperanza prison in Colón, Panama. A drug prosecutor said the load might include marijuana alongside cocaine and crack; authorities opened an investigation and transferred the cat to an animal-protection foundation.
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [4, 1, 2, 3]
+  details.products: [2, 1, 3]
+  details.setting: [4, 1, 2, 3]
 media:
   - kind: photo
     url: https://www.swissinfo.ch/spa/atrapan-a-narcogato-cuando-ingresaba-con-drogas-a-una-c%C3%A1rcel-paname%C3%B1a/46543680

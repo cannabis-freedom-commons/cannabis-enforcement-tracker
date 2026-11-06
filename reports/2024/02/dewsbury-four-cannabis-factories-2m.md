@@ -16,6 +16,10 @@ figures:
   plants_destroyed: 1700
   value: { amount: 2000000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 tags: [west-yorkshire-police, community-intelligence]
 sources:

@@ -14,6 +14,16 @@ summary: >-
 figures:
   arrested: 6
   kg_seized: 257.35
+details:
+  activity: [sale]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [border, vehicle]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f61a22560aac501b24854b5e1f999bd7

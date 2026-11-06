@@ -16,6 +16,14 @@ figures:
   charged: 2
   plants_destroyed: 575
   kg_seized: 10
+details:
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: plants, plants: 575}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.newsport.com.au/2026/june/two-charged-with-drug-offences-after-raid-at-wujal-wujal

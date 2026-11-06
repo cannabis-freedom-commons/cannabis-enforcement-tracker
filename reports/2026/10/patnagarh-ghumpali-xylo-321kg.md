@@ -9,6 +9,14 @@ coordinates: [20.761, 83.111]
 precision: locality
 type: seizure
 title: Xylo abandoned with 321 kg after driver flees
+details:
+  activity: [smuggling]
+  agency_types: [police]
+  products: [{product: flower, kg: 321}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 tags: [xylo, driver-fled, manhunt, kandhamal-route]
 summary: >-
   A Patnagarh special team Under SP orders chased a speeding Mahindra Xylo

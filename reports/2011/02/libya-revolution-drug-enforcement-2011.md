@@ -12,6 +12,10 @@ summary: >-
   expanded through the country over the next decade. The cannabis ban stayed on the books, but
   enforcement became local and uneven.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+data_sources:
+  details.activity: [1]
 status: verified
 cfi_id: libya-revolution-drug-enforcement-2011
 sources:

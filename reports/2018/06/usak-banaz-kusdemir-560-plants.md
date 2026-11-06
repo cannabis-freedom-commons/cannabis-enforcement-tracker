@@ -16,6 +16,16 @@ figures:
   arrested: 1
   plants_destroyed: 560
   kg_seized: 0.02
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, court]
+  products: [{product: hashish, kg: 0.02}, {product: plants, plants: 560}]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8d2ce90d52be9f0f05ff0bbaed708b1b

@@ -13,6 +13,14 @@ summary: >-
   Shenzhen Post Office Customs seized cannabis with a gross weight of 973.6 g in a transit parcel declared as a baby blanket, according to a customs statement reported on 3 June 2026. Officers said X-ray screening was abnormal, found plant material inside the blanket in plastic bags, and confirmed tetrahydrocannabinol in laboratory testing.
 figures:
   kg_seized: 0.9736
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs]
+  setting: [field, mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [guangdong, shenzhen, customs, post]

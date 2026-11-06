@@ -17,6 +17,10 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 10.2
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [windhoek, mandrax]

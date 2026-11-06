@@ -14,6 +14,12 @@ summary: >-
   more than 280 plants in business premises on Dolfijn in Enkhuizen after
   anonymous tips. No one was arrested. The plants are to be destroyed.
 created_by_model: spacexai/grok-4.7#medium
+details:
+  agency_types: [police]
+  products: [{product: plants}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [enkhuizen, noord-holland]
 open_questions:

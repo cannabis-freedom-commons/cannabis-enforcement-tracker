@@ -15,7 +15,16 @@ figures:
   arrested: 1
   charged: 1
   prison: 1 year, suspended with 2 years' probation
+details:
+  activity: [possession]
+  agency_types: [gendarmerie, police, prosecutor, court]
+  sentence_types: [probation]
+  setting: [home, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]
   figures.prison: [1]

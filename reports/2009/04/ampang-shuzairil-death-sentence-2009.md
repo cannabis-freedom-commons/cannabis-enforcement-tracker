@@ -17,6 +17,14 @@ figures:
   charged: 1
   kg_seized: 0.511
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  case_stage: sentenced
+  setting: [vehicle]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 tags: [mandatory-death-penalty, ampang]
 open_questions:

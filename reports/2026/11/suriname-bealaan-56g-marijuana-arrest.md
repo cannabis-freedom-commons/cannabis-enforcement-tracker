@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.056
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 0.056}]
+data_sources:
+  details.agency_types: [2, 3, 4, 1]
+  details.products: [2, 3, 4]
 media:
   - kind: photo
     url: https://politie.sr/narcotica-brigade-houdt-met-ondersteuning-van-at-en-qrt-drugsverdachte-aan/

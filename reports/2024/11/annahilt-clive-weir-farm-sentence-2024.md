@@ -19,6 +19,18 @@ figures:
   charged: 3
   prison: 3 years (18 months in custody, 18 months on licence)
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [vehicle, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [psni, craigavon, organised-crime]
 open_questions:

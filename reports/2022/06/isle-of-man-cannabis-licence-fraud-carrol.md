@@ -14,7 +14,16 @@ summary: >-
 figures:
   charged: 1
   prison: 4 years
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [home, prison]
 data_sources:
+  details.agency_types: [1, 4, 3, 2]
+  details.case_stage: [2]
+  details.sentence_types: [2]
+  details.setting: [1, 3, 2]
   figures.charged: [3]
   figures.prison: [2]
 status: verified

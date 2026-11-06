@@ -17,6 +17,14 @@ figures:
   kg_seized: 3102
   value: { amount: 1800000000, currency: COP }
 created_by_model: unknown
+details:
+  agency_types: [military, police]
+  products: [{product: flower, kg: 3102}]
+  setting: [border, vehicle]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [eln, army, arauca]
 open_questions:

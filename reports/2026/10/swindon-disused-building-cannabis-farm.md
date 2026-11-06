@@ -11,6 +11,12 @@ type: raid
 title: Police hunt grower after cannabis farm found in disused building near Swindon
 summary: >-
   Thames Valley Police found a cannabis farm inside a disused building near Swindon on 28 October 2026 and said officers were trying to identify the 'budding gardener' behind it. The discovery came after an earlier arrest that day in a separate Class A drugs case, in which a man has since been charged and remanded.
+details:
+  activity: [cultivation]
+  agency_types: [police]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.swindonadvertiser.co.uk/news/26687108.cannabis-farm-found-building-police-hunt-gardener/

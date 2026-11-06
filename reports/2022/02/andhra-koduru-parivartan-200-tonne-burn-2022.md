@@ -17,6 +17,12 @@ figures:
   kg_seized: 200000
   value: { amount: 8500000000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 200000}, {product: plants}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [operation-parivartan, andhra-pradesh, public-destruction]
 sources:

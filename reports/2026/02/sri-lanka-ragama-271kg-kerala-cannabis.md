@@ -21,6 +21,12 @@ figures:
   arrested: 1
   kg_seized: 271.835
 created_by_model: opencode-go/deepseek-v4.1-flash#max
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 tags: [crime-division, kerala-cannabis, tip-off]
 open_questions:

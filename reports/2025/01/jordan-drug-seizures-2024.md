@@ -11,6 +11,12 @@ summary: >-
   seized 3,000 kg of hashish, 262 kg of marijuana and 27.5 million Captagon pills, and 744 people
   entered rehabilitation. The figures cover all drugs, not cannabis alone.
 created_by_model: unknown
+details:
+  agency_types: [anti-narcotics]
+  products: [{product: hashish}, {product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: jordan-drug-seizures-2024
 sources:

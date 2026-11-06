@@ -16,6 +16,16 @@ figures:
   charged: 1
   kg_seized: 0.525
   prison: 5 years
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a297e0691c3addfdc644c53d5aa19986

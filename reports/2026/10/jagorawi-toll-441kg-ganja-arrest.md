@@ -16,6 +16,14 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 44.1
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.agency_types: [3, 7, 8, 9, 11, 12]
+  details.case_stage: [1, 5, 7, 8, 9, 11]
+  details.setting: [1, 5, 7, 8, 9, 11]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5957e2fc0a728d63f68163ee65872368

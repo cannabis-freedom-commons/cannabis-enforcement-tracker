@@ -17,6 +17,16 @@ summary: >-
   wounded, and several attackers were neutralized, the army said.
 figures:
   deaths: 1
+details:
+  activity: [cultivation]
+  agency_types: [military]
+  force: lethal
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.force: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [casamance, mfdc, military]

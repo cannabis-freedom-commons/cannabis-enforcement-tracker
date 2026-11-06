@@ -12,6 +12,14 @@ summary: >-
   Gendarmes in Kafountine, Ziguinchor region, found 153 kg of chanvre indien in a tricycle abandoned near the town's lycée on the night of 27 August 2025. The driver fled on foot and the gendarmerie opened an investigation to identify him.
 figures:
   kg_seized: 153
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+  setting: [prison]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [3, 1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 5868c5581748a3aead8bf01e037906fc

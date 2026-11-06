@@ -18,6 +18,16 @@ figures:
   charged: 1
   prison: 6 years
 created_by_model: spacexai/grok-4.7
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 tags: [la-libertad, santa-tecla]
 open_questions:

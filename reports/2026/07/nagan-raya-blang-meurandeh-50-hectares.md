@@ -17,6 +17,10 @@ figures:
   hectares: 50
   kg_seized: 300000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  setting: [field, forest]
+data_sources:
+  details.setting: [1, 2]
 status: verified
 tags: [aceh, nagan-raya, blang-meurandeh, kodam-iskandar-muda, eradication]
 open_questions:

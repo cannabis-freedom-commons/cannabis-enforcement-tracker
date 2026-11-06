@@ -17,6 +17,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 2241
+details:
+  activity: [trafficking]
+  agency_types: [coast-guard]
+  case_stage: investigation
+  products: [{product: flower, kg: 2241}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://amcostarica.com/U.S.%20leads%20seizure%20of%202%20tons%20of%20marijuana%20in%20Costa%20Rica%20031025.html

@@ -16,6 +16,14 @@ summary: >-
   bags of marijuana, prefilled cannabis cigarettes, e-cigarettes and phones.
 figures:
   arrested: 3
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [border, vehicle]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [retalhuleu, checkpoint, pnc]

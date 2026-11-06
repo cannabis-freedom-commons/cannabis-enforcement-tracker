@@ -12,6 +12,16 @@ summary: >-
   Houston police have arrested about 440 people per year for misdemeanor marijuana possession under Mayor John Whitmire, up from about 35 a year in 2021-2023, according to department data obtained by Houston Public Media. The figures emerged two months before voters were to decide whether to make such possession the department's lowest enforcement priority.
 figures:
   arrested: 440
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ab769202a5d46690b5029106e9a444b3

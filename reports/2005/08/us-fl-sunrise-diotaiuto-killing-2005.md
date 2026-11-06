@@ -18,6 +18,16 @@ figures:
   deaths: 1
   kg_seized: 0.0567
 created_by_model: unknown
+details:
+  agency_types: [police]
+  force: shots-fired
+  products: [{product: flower, kg: 0.0567}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.force: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [swat, sunrise, raid-death]
 open_questions:

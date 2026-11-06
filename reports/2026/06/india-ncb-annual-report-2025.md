@@ -11,6 +11,14 @@ summary: >-
   about half of all drugs by weight, up from 540.8 tonnes in 2024 but below the 816.9 tonnes of
   2021.
 created_by_model: unknown
+details:
+  environment: [indoor]
+  products: [{product: flower}]
+  setting: [airport]
+data_sources:
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: india-ncb-annual-report-2025
 sources:

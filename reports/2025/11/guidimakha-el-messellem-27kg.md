@@ -18,6 +18,12 @@ figures:
   kg_seized: 27
   arrested: 1
 created_by_model: cursor/composer-2.5-fast
+details:
+  agency_types: [police]
+  setting: [border]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [guidimakha, checkpoint, ghabou]
 sources:

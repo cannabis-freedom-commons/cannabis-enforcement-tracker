@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 2.359
+details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: investigation
+  products: [{product: flower, kg: 2.359}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://fatopaulista.com.br/baep-apreende-drogas-limeira/

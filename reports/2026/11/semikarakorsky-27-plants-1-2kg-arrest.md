@@ -21,6 +21,20 @@ figures:
   arrested: 1
   plants_destroyed: 27
   kg_seized: 1.2
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  environment: [greenhouse]
+  products: [{product: flower, kg: 1.2}, {product: plants, plants: 27}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.environment: [2, 4, 5, 6, 7, 1]
+  details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [2, 4, 5, 6, 7, 1]
 media:
   - kind: photo
     url: https://bloknot-rostov.ru/news/v-rostovskoy-oblasti-zaderzhali-narkoagronoma-s-27-2022753

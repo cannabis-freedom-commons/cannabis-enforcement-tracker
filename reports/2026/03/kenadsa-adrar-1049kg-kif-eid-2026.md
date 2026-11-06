@@ -13,7 +13,12 @@ summary: >-
 figures:
   vehicles: 3
   kg_seized: 1049
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [military]
 data_sources:
+  details.activity: [3, 4, 1, 2]
+  details.agency_types: [3, 4, 1, 2]
   figures.kg_seized: [3]
   figures.vehicles: [3]
 media:

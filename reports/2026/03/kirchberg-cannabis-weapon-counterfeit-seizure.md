@@ -11,6 +11,16 @@ also: [raid]
 title: Cannabis plants, gun and fake notes seized in Kirchberg raid
 summary: >-
   Grand-Ducal Police searched a man's vehicle and home at Kirchberg after reports of an apparently armed driver near a reception facility. Officers seized an unauthorised firearm, illegally grown cannabis plants, suspected trafficking material and counterfeit banknotes.
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  products: [{product: plants}]
+  setting: [port]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c7c0eb137ab71f2619b73dcfaa9497b7

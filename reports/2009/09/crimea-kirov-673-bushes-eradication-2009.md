@@ -17,6 +17,14 @@ summary: >-
 figures:
   plants_destroyed: 673
   kg_seized: 2000
+details:
+  environment: [greenhouse]
+  products: [{product: flower, kg: 2000}]
+  setting: [home]
+data_sources:
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cultivation]

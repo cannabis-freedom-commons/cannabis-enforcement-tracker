@@ -15,6 +15,16 @@ figures:
   value:
     amount: 31878000
     currency: GTQ
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics, police]
+  products: [{product: flower}]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 19a910082263e7310417200ccbf0a50e

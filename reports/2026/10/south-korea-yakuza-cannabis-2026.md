@@ -19,6 +19,14 @@ figures:
   prison: 10 years
   value: { amount: 95400000000, currency: KRW }
 created_by_model: unknown
+details:
+  activity: [smuggling, sale]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+data_sources:
+  details.activity: [2, 4, 1, 3]
+  details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [1, 4, 2]
 status: verified
 cfi_id: south-korea-yakuza-cannabis-2026
 tags: [suwon, incheon, yakuza]

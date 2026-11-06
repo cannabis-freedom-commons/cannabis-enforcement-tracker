@@ -11,6 +11,14 @@ summary: >-
   involving 657.3 grams of hashish found in the accused’s locked bag. It treats the quantity as
   evidence of trafficking intent, upholds life imprisonment and reduces the fine to 10,000 pounds.
 created_by_model: unknown
+details:
+  case_stage: sentenced
+  sentence_types: [life]
+  setting: [prison]
+data_sources:
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: sudan-hashish-trafficking-judgment-2018
 tags:

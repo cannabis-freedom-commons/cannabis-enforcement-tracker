@@ -13,6 +13,16 @@ summary: >-
   Charlie Williams, 21, was sentenced at Chester Magistrates' Court on 26 October 2026 to a community order with 100 hours of unpaid work for possessing cannabis with intent to supply. His phone and cash were taken under a court order, the cannabis was forfeited and ordered destroyed, and he was ordered to pay £85 in costs and a £114 surcharge.
 figures:
   charged: 1
+details:
+  activity: [possession]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  sentence_types: [fine, community-service]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [morecambe, ellesmere-port, cheshire, community-order, cannabis-supply]

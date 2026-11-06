@@ -15,6 +15,14 @@ summary: >-
   more than 60 cuttings. They said the power had been tapped illegally and
   that the plants would be destroyed. No one was arrested.
 created_by_model: spacexai/grok-4.7
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [uitgeest, noord-holland]
 open_questions:

@@ -13,6 +13,14 @@ summary: >-
   Guanajuato state police detained 22-year-old Juan Roberto “N” in Cerano, Yuriria, seizing more than 1,400 doses of suspected marijuana, two firearms and other items. He and the seized items were handed to the Ministerio Público, which will decide his legal situation.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 82b77a807d3047963ff4a86d3e5fc767

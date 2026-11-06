@@ -17,6 +17,16 @@ summary: >-
   pink briefcase at Kanyonyoo on 26 September 2026.
 figures:
   arrested: 2
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kitui, dci, trafficking, concealment]

@@ -12,6 +12,12 @@ summary: >-
   minister. The agency was given powers over cultivation, trafficking and use, treatment and
   rehabilitation, and its own budget, including half of the assets confiscated in drug cases.
 created_by_model: unknown
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [anti-narcotics]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: libya-anti-narcotics-agency-rebuilt-2022
 sources:

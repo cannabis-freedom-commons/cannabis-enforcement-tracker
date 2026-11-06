@@ -12,6 +12,12 @@ summary: >-
   Abdul Razzaq al-Ruwaifi, said the shipment and the accused were handed to the prosecution. The
   seizure was announced by the official Saba news agency and reported by Yemen Monitor.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  setting: [border]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 cfi_id: yemen-marib-hashish-seizure-2024
 sources:

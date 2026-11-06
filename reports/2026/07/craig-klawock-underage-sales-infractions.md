@@ -13,6 +13,10 @@ summary: >-
   Alaska State Troopers and the Alcohol & Marijuana Control Office conducted
   undercover age-compliance checks at bars and marijuana stores in Craig and
   Klawock. They reported seven infractions across the operation.
+details:
+  products: [{product: flower}]
+data_sources:
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [underage-sales, compliance, prince-of-wales-island]

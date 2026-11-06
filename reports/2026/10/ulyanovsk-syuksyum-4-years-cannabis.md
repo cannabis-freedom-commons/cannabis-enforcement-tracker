@@ -16,6 +16,14 @@ summary: >-
 figures:
   charged: 1
   prison: 4 years (strict regime)
+details:
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  environment: [wild]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [ulyanovsk-oblast, inzensky-district, courts, sentence]

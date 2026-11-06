@@ -17,7 +17,12 @@ figures:
   value:
     amount: 92500000
     currency: XOF
+details:
+  activity: [trafficking]
+  agency_types: [customs]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   figures.kg_seized: [1]
   figures.value: [1]
   figures.vehicles: [1]

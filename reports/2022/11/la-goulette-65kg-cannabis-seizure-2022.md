@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 6.5
+details:
+  activity: [trafficking]
+  agency_types: [customs, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 media:
   - kind: photo
     url: https://kapitalis.com/tunisie/2022/11/01/tunisie-un-voyageur-en-provenance-de-marseille-arrete-en-possession-de-65-kg-de-cannabis/

@@ -19,6 +19,18 @@ figures:
   kg_seized: 9.3
   prison: 10 years in default
   fine: { amount: 1000000, currency: KES }
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [voi, taita-taveta, sentencing, cultivation]

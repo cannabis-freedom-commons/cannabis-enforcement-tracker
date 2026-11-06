@@ -13,6 +13,10 @@ summary: >-
   destroyed naturally growing bhang plants on the campus on 21 April 2026 during a state drug-free
   campaign.
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1]
 status: verified
 tags: [jind, haryana, college, self-sown]
 open_questions:

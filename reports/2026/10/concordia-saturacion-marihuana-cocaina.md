@@ -42,12 +42,14 @@ details:
   activity: [sale]
   agency_types: [police, prosecutor, court]
   case_stage: investigation
+  force: physical
   products:
     - {product: flower}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.force: [1]
   details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

@@ -18,6 +18,16 @@ figures:
   arrested: 34
   kg_seized: 3896
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation, possession, sale]
+  environment: [indoor, greenhouse]
+  products: [{product: flower, kg: 3896}, {product: plants}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [operation-hammer-strike, greenhouses, illegal-grows]
 open_questions:

@@ -15,6 +15,18 @@ figures:
   arrested: 2
   plants_destroyed: 28
   kg_seized: 1.482
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  environment: [greenhouse]
+  products: [{product: flower, kg: 1.482}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.environment: [1]
+  details.products: [1]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://24.kz/ru/news/incidents/793323-28-kustov-kannabisa-i-bolee-1-4-kg-marikhuany-izyali-v-dome-v-zhetysu

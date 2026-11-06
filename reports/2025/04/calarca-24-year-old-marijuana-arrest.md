@@ -13,6 +13,16 @@ summary: >-
   National Police officers in Calarcá stopped a 24-year-old man on a public road at Block 14 of the Balcones de la Villa neighbourhood and found marijuana in a black plastic bag he was carrying. Police said he intended to sell the drug and left him at the disposal of the competent authority; no weight for the marijuana was published.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.policia.gov.co/noticia/un-hombre-es-capturado-en-calarca-con-marihuana

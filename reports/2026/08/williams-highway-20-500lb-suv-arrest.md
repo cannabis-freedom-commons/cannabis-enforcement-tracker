@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 226.8
+details:
+  products: [{product: flower, kg: 226.8}]
+  setting: [prison]
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://fox40.com/williams/driver-arrested-in-williams-marijuana-in-suv/

@@ -17,6 +17,18 @@ figures:
   value:
     amount: 148000
     currency: MOP
+details:
+  activity: [trafficking]
+  agency_types: [customs, police]
+  case_stage: charged
+  products: [{product: flower, kg: 0.147456}]
+  setting: [home, mail]
+data_sources:
+  details.activity: [7, 4, 2, 5]
+  details.agency_types: [1, 2, 3, 6, 4, 5]
+  details.case_stage: [7, 4, 2, 5]
+  details.products: [3, 1, 2, 4, 5, 7]
+  details.setting: [5, 2, 1, 6, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3e58a3640c0a9d88aa060cf994fdeaa2

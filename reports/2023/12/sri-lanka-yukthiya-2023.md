@@ -11,6 +11,12 @@ summary: >-
   launched a nationwide anti-drug operation on 17 December that arrested at least a thousand people
   a day in its first weeks.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  agency_types: [military]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: sri-lanka-yukthiya-2023
 sources:

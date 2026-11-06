@@ -19,6 +19,14 @@ figures:
   kg_seized: 1600
   plants_destroyed: 7500000
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
 status: verified
 tags: [lice, diyarbakir, pkk]
 open_questions:

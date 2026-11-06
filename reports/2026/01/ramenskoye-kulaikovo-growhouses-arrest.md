@@ -18,6 +18,18 @@ figures:
   arrested: 2
   plants_destroyed: 192
   kg_seized: 1.5
+details:
+  activity: [trafficking, sale]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 1.5}, {product: seeds}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/narkodeltsy-vyrastivshie-195-kustov-konopli-dlya-izgotovleniya-marikhuany-zaderzhany-v-podmoskove/

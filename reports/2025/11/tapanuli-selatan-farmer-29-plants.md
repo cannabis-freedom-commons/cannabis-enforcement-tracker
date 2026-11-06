@@ -16,6 +16,18 @@ figures:
   arrested: 1
   charged: 1
   plants_destroyed: 29
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: plants, plants: 29}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [3, 1, 2]
+  details.case_stage: [2, 1, 3]
+  details.products: [3, 1]
+  details.setting: [3, 1, 2]
 media:
   - kind: photo
     url: https://sumut.wahananews.co/utama/kebun-sawit-jadi-ladang-ganja-petani-di-tapanuli-selatan-tidur-di-penjara-ogc5585KwD

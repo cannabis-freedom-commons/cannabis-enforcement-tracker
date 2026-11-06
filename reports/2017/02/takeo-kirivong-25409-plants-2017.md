@@ -15,6 +15,14 @@ summary: >-
   crop signed pledges to stop while police hunted the brokers behind it.
 figures:
   plants_destroyed: 25409
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 25409}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.khmertimeskh.com/12257/takeo-marijuana-plantation-goes-up-in-smoke/

@@ -19,6 +19,14 @@ figures:
   arrested: 40
   kg_seized: 577
   value: { amount: 5800000, currency: THB }
+details:
+  activity: [trafficking]
+  agency_types: [customs]
+  setting: [airport]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [suvarnabhumi, customs, smuggling, exports]

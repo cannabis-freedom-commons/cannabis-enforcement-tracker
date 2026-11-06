@@ -17,6 +17,14 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 1000
+details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 1000}, {product: plants}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [spreitenbach, aargau, kapo-zurich]

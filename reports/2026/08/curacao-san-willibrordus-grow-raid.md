@@ -14,6 +14,16 @@ summary: >-
   Curaçao police searched an address in San Willibrordus at about 6 a.m. on 20 August 2026 and
   seized a large quantity of marijuana plants and growing equipment. Police said no one had been
   arrested, while another outlet reported that several residents were detained.
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants}]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://nu.cw/2026/08/21/grote-hoeveelheid-marihuanaplanten-gevonden-bij-inval-in-st-willibrordus/

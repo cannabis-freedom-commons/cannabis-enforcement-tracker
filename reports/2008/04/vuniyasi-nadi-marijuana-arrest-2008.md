@@ -16,6 +16,12 @@ summary: >-
 figures:
   arrested: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [fiji, nadi, arrest]
 sources:

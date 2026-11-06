@@ -13,6 +13,16 @@ summary: >-
   Glendale police arrested brothers Hakop and Berg Nagapetian on 17 December 2015 at their father's North Hollywood home, finding a butane honey-oil lab, marijuana and concentrated cannabis alongside firearms and ammunition. One brother remained jailed on a probation hold while the other posted $35,000 bail; officers also seized assault weapons and handguns from a relative's nearby home.
 figures:
   arrested: 2
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [home, prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2f1322a77e0e76bb5151f1d9a48ff612

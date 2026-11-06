@@ -15,6 +15,12 @@ summary: >-
 figures:
   arrested: 63
   kg_seized: 7.748
+details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [2, 1]
 media:
   - kind: photo
     url: https://vigilanteinformativo.com/fuerzas-de-seguridad-impactan-redes-del-microtrafico-en-el-gran-santo-domingo/

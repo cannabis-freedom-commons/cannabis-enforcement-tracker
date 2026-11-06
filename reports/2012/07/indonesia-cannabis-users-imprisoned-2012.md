@@ -11,6 +11,10 @@ summary: >-
   cited by the Transnational Institute, even though the 2009 narcotics law and a Supreme Court
   circular were meant to send users to rehabilitation.
 created_by_model: unknown
+details:
+  setting: [prison]
+data_sources:
+  details.setting: [1]
 status: verified
 cfi_id: indonesia-cannabis-users-imprisoned-2012
 tags:

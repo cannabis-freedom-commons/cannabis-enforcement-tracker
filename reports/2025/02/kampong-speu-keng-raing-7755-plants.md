@@ -17,6 +17,12 @@ figures:
   plants_destroyed: 7755
   hectares: 1
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [military, police]
+  products: [{product: flower}, {product: plants, plants: 7755}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 tags: [kampong-speu, oral, cardamom]
 open_questions:

@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.08
+details:
+  activity: [trafficking]
+  agency_types: [customs, gendarmerie, police]
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 3, 2]
+  details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c5ddacddf3e69cfc879da2fda56bf60e

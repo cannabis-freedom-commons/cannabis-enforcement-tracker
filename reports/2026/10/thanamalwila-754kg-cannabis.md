@@ -19,6 +19,12 @@ figures:
   arrested: 1
   value: { amount: 100000000, currency: LKR }
 created_by_model: unknown
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [police, monaragala]
 open_questions:

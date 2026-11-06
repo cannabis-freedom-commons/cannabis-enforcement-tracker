@@ -12,6 +12,12 @@ summary: >-
   had not found the drugs on either entry or exit. The case was reported by Hronika on 4 June and
   highlighted the gap in Turkmen border checks.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  setting: [border, vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 cfi_id: turkmenistan-heroin-transit-2026
 sources:

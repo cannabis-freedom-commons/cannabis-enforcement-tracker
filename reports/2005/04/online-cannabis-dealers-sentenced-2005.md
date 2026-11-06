@@ -17,6 +17,14 @@ summary: >-
 figures:
   arrested: 3
   charged: 5
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  sentence_types: [community-service]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [internet, hove-crown-court, proceeds-of-crime, first-of-kind]

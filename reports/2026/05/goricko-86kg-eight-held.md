@@ -20,6 +20,14 @@ figures:
     amount: 1000000
     currency: EUR
 created_by_model: spacexai/grok-4.7#medium
+details:
+  agency_types: [police]
+  environment: [indoor]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.environment: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [goricko, murska-sobota, pomurje]
 open_questions:

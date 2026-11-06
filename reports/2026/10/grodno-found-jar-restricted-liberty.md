@@ -13,6 +13,14 @@ summary: >-
   A Grodno court convicted a 59-year-old man of illegally acquiring and storing marijuana without intent to sell after he found a jar of it near the railway station in June, took it home and used part of it. He was sentenced to two years' restriction of liberty without being sent to an open-type correctional institution, and the verdict could still be appealed.
 figures:
   charged: 1
+details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
+  products: [{product: flower}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 media:
   - kind: video
     url: https://www.grodnoplustv.by/index.php/novosti/item/32267-v-grodno-muzhchinu-osudili-za-najdennuyu-banku-s-marikhuanoj

@@ -16,6 +16,16 @@ summary: >-
   an abandoned Hortonwood industrial unit raided on 8 November.
 figures:
   charged: 3
+details:
+  activity: [cultivation]
+  case_stage: sentenced
+  products: [{product: plants}]
+  setting: [building, prison]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [telford, hortonwood, sentence, industrial-farm]

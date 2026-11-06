@@ -17,6 +17,16 @@ figures:
   kg_seized: 1800
   charged: 5
   value: { amount: 80000000, currency: GBP }
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [operation-bizarre, smuggling, cold-store]

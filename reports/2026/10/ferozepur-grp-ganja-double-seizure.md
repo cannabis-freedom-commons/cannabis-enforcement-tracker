@@ -18,6 +18,12 @@ figures:
   arrested: 2
   kg_seized: 48.9
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 48.9}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [railway, grp]
 sources:

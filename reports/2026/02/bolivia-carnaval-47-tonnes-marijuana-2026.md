@@ -14,7 +14,14 @@ summary: >-
 figures:
   arrested: 43
   kg_seized: 4700
+details:
+  activity: [trafficking, cultivation]
+  products: [{product: flower, kg: 4700}]
+  setting: [mail]
 data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1]
   figures.kg_seized: [1]
 media:

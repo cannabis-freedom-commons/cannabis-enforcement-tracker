@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 45.36
+details:
+  agency_types: [coast-guard, police]
+  products: [{product: flower, kg: 45.36}]
+data_sources:
+  details.agency_types: [2, 1, 3]
+  details.products: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.thestkittsnevisobserver.com/combined-operation-nets-large-quantity-marijuana-three-persons-arrested/

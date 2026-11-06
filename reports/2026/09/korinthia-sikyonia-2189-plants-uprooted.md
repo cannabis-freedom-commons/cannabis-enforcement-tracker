@@ -20,6 +20,18 @@ figures:
   kg_seized: 12.876
   value: { amount: 3300000, currency: EUR }
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  environment: [greenhouse]
+  products: [{product: plants, plants: 2189}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [corinthia, sikyonia, police]
 open_questions:

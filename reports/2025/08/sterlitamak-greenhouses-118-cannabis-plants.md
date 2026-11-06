@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 118
+details:
+  activity: [cultivation, sale]
+  agency_types: [police]
+  case_stage: investigation
+  environment: [greenhouse]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.environment: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://mvdmedia.ru/news/operativnye-novosti/pochti-50-kg-konopli-marikhuany-i-makovoy-solomy-izyali-politseyskie-u-zhitelya-bashkortostana/

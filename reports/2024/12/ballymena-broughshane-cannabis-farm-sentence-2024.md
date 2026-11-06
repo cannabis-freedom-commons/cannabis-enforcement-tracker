@@ -18,6 +18,18 @@ figures:
   charged: 2
   prison: 24 months
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [community-service]
+  setting: [building]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 tags: [psni, ballymena, antrim]
 open_questions:

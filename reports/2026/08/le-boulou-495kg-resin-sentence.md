@@ -31,6 +31,7 @@ details:
   case_stage: sentenced
   products: [{product: hashish, kg: 495}]
   route: {from: [es], to: [it], crossing: 'Le Boulou A9 toll'}
+  sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
   details.agencies: [1, 2]
@@ -38,6 +39,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [pyrenees-orientales, douanes, a9, ofast]

@@ -17,6 +17,16 @@ summary: >-
 figures:
   kg_seized: 40.56
   prison: 9 years (3 suspended)
+details:
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [border, prison]
+data_sources:
+  details.agency_types: [1, 3]
+  details.case_stage: [3, 1]
+  details.sentence_types: [3, 1]
+  details.setting: [3, 1]
 media:
   - kind: photo
     url: https://www.thezimbabwean.co/2025/07/high-court-slashes-harsh-15-year-jail-term-for-cannabis-dealer/

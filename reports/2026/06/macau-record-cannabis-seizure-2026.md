@@ -12,6 +12,10 @@ summary: >-
   valued the haul at about MOP35 million and called it the largest cannabis case in Macau's history,
   eight months after the previous record.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 cfi_id: macau-record-cannabis-seizure-2026
 sources:

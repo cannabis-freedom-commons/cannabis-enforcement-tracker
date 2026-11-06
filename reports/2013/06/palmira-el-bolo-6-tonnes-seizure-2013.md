@@ -17,6 +17,16 @@ figures:
   kg_seized: 6000
   value: { amount: 3600000000, currency: COP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 6000}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [highway-checkpoint]
 open_questions:

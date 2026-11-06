@@ -16,6 +16,14 @@ figures:
   plants_destroyed: 4000
   kg_seized: 221
   hectares: 0.2
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 221}, {product: plants, plants: 4000}]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [lancaster, corentyne, berbice]

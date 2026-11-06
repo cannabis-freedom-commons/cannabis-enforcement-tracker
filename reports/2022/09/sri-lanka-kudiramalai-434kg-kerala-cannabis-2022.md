@@ -16,6 +16,12 @@ summary: >-
 figures:
   arrested: 10
   kg_seized: 434.8
+details:
+  agency_types: [coast-guard, military, police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
 media:
   - kind: photo
     url: https://news.coastguard.gov.lk/news/2022/09/13/202209141526/

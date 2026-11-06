@@ -14,6 +14,12 @@ summary: >-
   Narcotics officers of Serang police arrested DS, 35, at Taman Tugu Jam on Jalan Sudirman in Serang city on 22 October 2026 and found a duct-taped package of cannabis in his bag. Police say he had dealt for about two months and are hunting his alleged supplier, MM, in Kebon Jeruk, West Jakarta.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 3, 2, 4]
+  details.case_stage: [1, 3, 2]
 media:
   - kind: photo
     url: https://www.radarbanten.co.id/2026/10/30/diduga-edarkan-ganja-di-taman-tugu-jam-serang-pria-asal-lampung-ditangkap-polres-serang/

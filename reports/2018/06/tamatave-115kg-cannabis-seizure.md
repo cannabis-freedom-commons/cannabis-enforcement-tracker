@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 9
   kg_seized: 115.7
+details:
+  agency_types: [customs]
+  products: [{product: hashish, kg: 115.7}]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3b95c56a4f0aebd30be92ef55d7ecddb

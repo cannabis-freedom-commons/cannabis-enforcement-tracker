@@ -14,6 +14,14 @@ summary: >-
   Seferihisar district police searched suspect F.Z.E.'s address in Ulamış Mahallesi and seized one cannabis plant alongside an unlicensed pistol, two shotguns and ammunition. Judicial proceedings were initiated against the suspect and the investigation is continuing.
 figures:
   plants_destroyed: 1
+details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.olusumhaber.com/seferihisar-da-bir-adreste-ruhsatsiz-silah-ve-hint-keneviri-ele-gecirildi/37687/

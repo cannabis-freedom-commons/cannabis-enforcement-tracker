@@ -19,6 +19,12 @@ figures:
   arrested: 1
   kg_seized: 6.105
   value: { amount: 300000, currency: INR }
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 6.105}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [agartala, railway, trafficking, ndps]

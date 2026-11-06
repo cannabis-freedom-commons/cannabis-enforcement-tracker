@@ -17,6 +17,16 @@ figures:
   plants_destroyed: 32500
   kg_seized: 621.7
 created_by_model: unknown
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 621.7}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 tags: [chugay, la-libertad, pnp]
 sources:

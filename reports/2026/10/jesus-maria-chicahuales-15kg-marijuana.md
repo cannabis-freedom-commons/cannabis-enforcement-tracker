@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 15
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 15}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.binoticias.com/opinion/decomisan-mas-de-17-kilos-de-droga-y-40-kilos-de-polvo-en-jesus-maria-hay-tres-detenidos

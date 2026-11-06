@@ -38,6 +38,7 @@ details:
   case_stage: sentenced
   products: [{product: flower, kg: 89}]
   route: {from: [th], to: [sg]}
+  sentence_types: [prison, fine]
   setting: [airport, prison]
 data_sources:
   details.activity: [1, 2]
@@ -46,6 +47,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1]
+  details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [oncb, suvarnabhumi, smuggling]

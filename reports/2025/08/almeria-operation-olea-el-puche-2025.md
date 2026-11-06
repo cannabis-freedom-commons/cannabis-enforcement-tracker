@@ -17,6 +17,14 @@ figures:
   arrested: 5
   kg_seized: 2740
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  products: [{product: hashish, kg: 2740}, {product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [policia-nacional, almeria, el-puche, firearms]
 open_questions:

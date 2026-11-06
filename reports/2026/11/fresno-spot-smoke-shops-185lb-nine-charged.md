@@ -15,6 +15,14 @@ summary: >-
 figures:
   charged: 9
   kg_seized: 83.91
+details:
+  agency_types: [police]
+  products: [{product: flower, kg: 83.91}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4657945a0c4117949489ce9f7e73f468

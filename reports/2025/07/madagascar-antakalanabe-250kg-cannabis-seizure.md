@@ -13,6 +13,16 @@ summary: >-
 figures:
   arrested: 0
   kg_seized: 250
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://www.lexpress.mg/2025/07/befandriana-nord-un-quart-de-tonne-de.html

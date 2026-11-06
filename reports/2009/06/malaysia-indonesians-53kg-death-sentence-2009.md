@@ -15,6 +15,16 @@ figures:
   charged: 2
   kg_seized: 53
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [death]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.sentence_types: [1]
 status: verified
 tags: [mandatory-death-penalty, aceh]
 open_questions:

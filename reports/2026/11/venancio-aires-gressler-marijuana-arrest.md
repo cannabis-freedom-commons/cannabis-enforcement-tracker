@@ -13,6 +13,16 @@ summary: >-
   A man was arrested for drug trafficking in Bairro Gressler, Venâncio Aires, on the night of 2 November 2026 after a Brigada Militar patrol found drugs on him. Officers seized five marijuana portions and 15 cocaine wraps along with cash, a phone and packing material, and took him to the ready-response police station.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://folhadomate.com/noticias/policia/brigada-prende-suspeito-de-trafico-em-venancio-aires-2/

@@ -19,11 +19,13 @@ details:
   activity: [trafficking]
   agencies: [bo-felcn]
   agency_types: [anti-narcotics]
+  environment: [greenhouse]
   setting: [home]
 data_sources:
   details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.environment: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium

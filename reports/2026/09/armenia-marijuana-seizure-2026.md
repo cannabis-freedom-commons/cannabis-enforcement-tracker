@@ -12,6 +12,12 @@ summary: >-
   opened under the aggravated sale and smuggling articles, and a court ordered the two Armenians
   held.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 cfi_id: armenia-marijuana-seizure-2026
 sources:

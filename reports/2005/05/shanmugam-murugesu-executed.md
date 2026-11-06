@@ -17,6 +17,16 @@ summary: >-
 figures:
   kg_seized: 1.0298
   deaths: 1
+details:
+  agency_types: [court]
+  case_stage: executed
+  sentence_types: [death]
+  setting: [border, prison]
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 3, 2]
+  details.sentence_types: [1, 3]
+  details.setting: [1, 3]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [cnb, mandatory-death-penalty, tuas]

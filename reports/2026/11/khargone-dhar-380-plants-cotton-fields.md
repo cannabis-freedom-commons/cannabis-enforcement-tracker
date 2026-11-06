@@ -19,6 +19,16 @@ figures:
   value:
     amount: 6507000
     currency: INR
+details:
+  activity: [smuggling, cultivation]
+  agency_types: [anti-narcotics, police]
+  products: [{product: plants, plants: 380}]
+  setting: [forest]
+data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 2, 3, 4]
+  details.products: [1, 4, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.freepressjournal.in/amp/indore/mps-khargone-and-dhar-police-seize-380-cannabis-plants-worth-over-65-lakh-hidden-in-cotton-fields-one-arrested

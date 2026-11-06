@@ -11,6 +11,14 @@ summary: >-
   heroin hidden in automotive spare parts in a passenger's luggage. The General Authority of Customs
   said the drugs were seized and legal proceedings began. The seizure was announced on 23 May 2025.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  products: [{product: hashish}]
+  setting: [airport]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: qatar-hamad-airport-hashish-2025
 sources:

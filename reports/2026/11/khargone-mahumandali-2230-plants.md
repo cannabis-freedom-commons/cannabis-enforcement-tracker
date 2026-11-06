@@ -17,6 +17,16 @@ figures:
   plants_destroyed: 2230
   kg_seized: 1269
   hectares: 0.4
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 2230}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.naidunia.com/madhya-pradesh/khargone-cannabis-crop-found-cultivated-across-one-acre-in-a-field-in-khargone-8474258

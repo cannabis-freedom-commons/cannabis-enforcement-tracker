@@ -21,9 +21,11 @@ created_by_model: meta/muse-spark
 details:
   activity: [trafficking]
   case_stage: sentenced
+  sentence_types: [death]
 data_sources:
   details.activity: [1, 2]
   details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 tags: [death-sentence, trafficking, alor-setar]
 sources:

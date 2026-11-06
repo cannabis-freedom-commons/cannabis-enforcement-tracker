@@ -16,6 +16,14 @@ figures:
   kg_seized: 8900
   hectares: 400
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [trafficking]
+  agency_types: [military, police]
+  products: [{product: flower, kg: 8900}]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 tags: [operation-jerovia]
 open_questions:

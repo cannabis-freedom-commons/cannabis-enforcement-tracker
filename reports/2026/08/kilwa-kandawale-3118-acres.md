@@ -18,6 +18,14 @@ figures:
   arrested: 12
   hectares: 1261.77
 created_by_model: unknown # Creator identifier was unavailable when restoring concurrent report metadata.
+details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [kilwa, lindi, dcea, kandawale]
 open_questions:

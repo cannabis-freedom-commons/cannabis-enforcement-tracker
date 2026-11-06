@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 0.389
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower, kg: 0.389}]
+  setting: [vehicle, home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.hnt.com.br/policia/adolescente-e-apreendida-com-meia-barra-de-maconha-r-510-e-adesivos-de-faccao/584557

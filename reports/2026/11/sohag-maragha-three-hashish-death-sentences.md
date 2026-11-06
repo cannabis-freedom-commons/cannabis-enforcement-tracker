@@ -20,11 +20,13 @@ details:
   case_stage: sentenced
   products:
     - {product: hashish}
+  sentence_types: [death]
 data_sources:
   details.activity: [1, 2, 4, 5, 6, 3]
   details.agency_types: [1, 2, 4, 5, 6, 3]
   details.case_stage: [1, 2, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
+  details.sentence_types: [1, 3, 7, 2, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fcb6cd3f91e9a2a4f5ed98e7b5fc4508

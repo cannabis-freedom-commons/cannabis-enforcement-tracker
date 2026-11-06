@@ -14,6 +14,18 @@ summary: >-
   Civil police in São Bento do Sul, Santa Catarina, arrested a 47-year-old man and a 51-year-old woman for drug trafficking during a search of a house in the Progresso neighbourhood on 29 October 2026. Officers seized cannabis plants, three complete grow tents with drying and processing equipment, a precision scale, packaging and more than R$14,000 in cash; both were held for a custody hearing.
 figures:
   arrested: 2
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, court]
+  case_stage: investigation
+  products: [{product: plants}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [2, 4, 1, 3]
+  details.agency_types: [1, 4, 3, 2]
+  details.case_stage: [1, 4, 2]
+  details.products: [1, 4, 3, 2]
+  details.setting: [1, 4, 3, 2]
 media:
   - kind: photo
     url: https://gazetasbs.com.br/casal-e-preso-com-estufas-de-cultivo-de-maconha-em-sao-bento-do-sul/

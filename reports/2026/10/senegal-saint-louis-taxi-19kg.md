@@ -18,6 +18,12 @@ figures:
   arrested: 2
   charged: 2
   kg_seized: 19
+details:
+  agency_types: [police, prosecutor]
+  case_stage: charged
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: unknown
 tags: [saint-louis, taxi, chanvre-indien]

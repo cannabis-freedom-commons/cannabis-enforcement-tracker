@@ -18,6 +18,18 @@ figures:
   kg_seized: 5.081
   prison: life imprisonment and 12 strokes
 created_by_model: cursor/composer-2.5
+details:
+  activity: [trafficking]
+  agency_types: [customs, prosecutor]
+  case_stage: sentenced
+  sentence_types: [life]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [sarawak, sibu, bintangor, section-39b]
 open_questions:

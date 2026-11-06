@@ -15,6 +15,14 @@ summary: >-
   by boat for onward delivery.
 figures:
   kg_seized: 270
+details:
+  activity: [smuggling]
+  agency_types: [border-guard, police]
+  products: [{product: flower, kg: 270}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.bangkokpost.com/thailand/general/1984559/270kg-marijuana-seized-from-mekong-bank

@@ -14,6 +14,18 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 5
+details:
+  activity: [sale]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 5}, {product: flower}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 9, 5, 3, 6, 8]
+  details.agency_types: [1, 2, 7, 9, 3, 4]
+  details.case_stage: [4, 6, 8]
+  details.products: [1, 5, 9, 3, 6, 8]
+  details.setting: [4, 6, 8]
 media:
   - kind: photo
     url: https://burgasmedia.com/news/trima-zadarzhani-i-nad-5-kg-marihuana-pri-akcii-v-sofiya?lang=en

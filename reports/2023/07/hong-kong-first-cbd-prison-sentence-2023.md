@@ -12,6 +12,14 @@ summary: >-
   5 g of CBD, about 2.2 g of ketamine and ten syringes after her arrival from the United States in
   March.
 created_by_model: unknown
+details:
+  agency_types: [customs]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 cfi_id: hong-kong-first-cbd-prison-sentence-2023
 tags:

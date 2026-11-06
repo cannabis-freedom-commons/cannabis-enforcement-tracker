@@ -15,6 +15,14 @@ figures:
   value:
     amount: 140000000
     currency: XAF
+details:
+  activity: [trafficking]
+  agency_types: [customs, police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 3, 2, 4]
+  details.agency_types: [1, 3, 2, 4]
+  details.case_stage: [1, 3, 2, 4]
 media:
   - kind: photo
     url: https://fr.infosgabon.com/gabon-14-tonne-de-cannabis-saisie-a-libreville/

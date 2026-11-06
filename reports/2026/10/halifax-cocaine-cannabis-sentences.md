@@ -16,6 +16,16 @@ figures:
   charged: 11
   kg_seized: 20
   prison: 'more than 85 years combined (longest: 14 years and 3 months, Yaar)'
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  sentence_types: [prison, suspended]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 5, 2, 4]
+  details.case_stage: [1, 3, 5, 7, 8, 2]
+  details.sentence_types: [1, 3, 5, 7, 8, 6]
+  details.setting: [1, 3, 5, 7, 8, 6]
 media:
   - kind: photo
     url: https://www.yorkshirepost.co.uk/news/crime/drugs-gang-jailed-for-more-than-85-years-after-police-uncover-industrial-scale-cocaine-and-cannabis-operation-9321977

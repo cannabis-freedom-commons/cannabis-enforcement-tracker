@@ -20,6 +20,16 @@ figures:
   arrested: 90
   kg_seized: 325
 created_by_model: meta/muse-spark
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 325}, {product: flower}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
 status: verified
 tags: [project-claudia, dispensaries, toronto-police]
 sources:

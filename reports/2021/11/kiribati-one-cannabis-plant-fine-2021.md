@@ -12,6 +12,16 @@ summary: >-
   dealing and treated the case as less serious than the earlier fisheries officer’s cannabis
   offence. Failure to pay by the end of December would bring one month in prison.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police, court]
+  products: [{product: plants}]
+  setting: [prison]
+data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 3]
+  details.setting: [1, 3]
 status: verified
 cfi_id: kiribati-one-cannabis-plant-fine-2021
 tags:

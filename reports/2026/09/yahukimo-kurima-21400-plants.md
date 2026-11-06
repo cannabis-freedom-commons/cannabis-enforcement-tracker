@@ -15,6 +15,14 @@ summary: >-
   reported.
 figures:
   plants_destroyed: 21400
+details:
+  activity: [cultivation]
+  agency_types: [military]
+  products: [{product: plants, plants: 21400}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 media:
   - kind: photo
     url: https://www.antaranews.com/berita/5734735/satgas-yonif-725-temukan-21400-batang-ganja-di-yahukimo

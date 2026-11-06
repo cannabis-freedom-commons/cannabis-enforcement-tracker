@@ -11,6 +11,10 @@ summary: >-
   2009 and July 2025, naming more than 1.5 million accused. Cannabis accounted for more than 99 per
   cent of seizures by weight, while heroin and cocaine together were under 1 per cent.
 created_by_model: unknown
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1]
 status: verified
 cfi_id: bangladesh-netra-cannabis-investigation-2026
 sources:

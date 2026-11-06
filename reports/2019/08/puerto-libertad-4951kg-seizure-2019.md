@@ -12,6 +12,12 @@ summary: >-
   Prefectura Naval Argentina seized 4,951.33 kg of marijuana hidden in a riverside refuge at Puerto Libertad, Misiones, near the Paraguay border. Security Minister Patricia Bullrich presented the haul on 22 August 2019, which officials said equalled about 15 million doses.
 figures:
   kg_seized: 4951.33
+details:
+  activity: [trafficking, sale]
+  products: [{product: flower, kg: 4951.33}]
+data_sources:
+  details.activity: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e3ae39dbf06d81e4cbdd052d378ed849

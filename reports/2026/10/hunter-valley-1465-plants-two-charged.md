@@ -18,6 +18,16 @@ summary: >-
 figures:
   arrested: 2
   plants_destroyed: 1465
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  environment: [indoor]
+  products: [{product: plants, plants: 1465}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [hunter-valley, nsw, grow-houses, operation-cages]

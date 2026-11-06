@@ -15,6 +15,16 @@ figures:
   plants_destroyed: 120000
   hectares: 6
 created_by_model: openai/gpt-6
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 120000}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 open_questions:
   - Neither report gives a separate date for the operation; 1 April is the date of publication.

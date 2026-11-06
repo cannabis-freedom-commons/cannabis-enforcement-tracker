@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 0.0047
+details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.0047}]
+  setting: [mail]
+data_sources:
+  details.agency_types: [1, 4, 5, 3, 2]
+  details.case_stage: [1, 4, 5, 3, 2]
+  details.products: [1, 4, 5, 3, 2]
+  details.setting: [1, 3, 4, 5, 2]
 media:
   - kind: photo
     url: https://www.ruffnews.ru/novocherkassk/v-novocherkasske-zaderzhali-zakladchika-kotoryy-pryatal-marihuanu-v-gretskih-orehah

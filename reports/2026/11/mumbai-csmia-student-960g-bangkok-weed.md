@@ -17,10 +17,12 @@ figures:
   kg_seized: 0.96
 details:
   agency_types: [customs, court]
+  environment: [indoor]
   products: [{product: flower, kg: 0.96}]
   setting: [airport]
 data_sources:
   details.agency_types: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: reported

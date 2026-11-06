@@ -12,6 +12,14 @@ summary: >-
   Maldives Customs seized 3.2 kg of cannabis from a suspicious postal package inspected on Saturday 15 August 2026. No arrests were reported, and Customs warned the public against collecting suspicious parcels for others.
 figures:
   kg_seized: 3.2
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  setting: [mail]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e7ddce4f30b24762f8c51e2070102b12

@@ -16,6 +16,12 @@ summary: >-
 figures:
   kg_seized: 236800
 created_by_model: meta/muse-spark
+details:
+  agency_types: [police]
+  products: [{product: hashish, kg: 236800}]
+data_sources:
+  details.agency_types: [3, 4, 1, 2]
+  details.products: [3, 4, 1, 2]
 status: verified
 tags: [unodc, nato, spin-boldak, taliban]
 open_questions:

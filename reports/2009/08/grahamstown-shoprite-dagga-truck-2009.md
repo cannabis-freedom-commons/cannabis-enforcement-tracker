@@ -18,6 +18,14 @@ figures:
   arrested: 1
   value: { amount: 1200000, currency: ZAR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [vehicle]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [grahamstown, crime-intelligence, free-state-route]
 open_questions:

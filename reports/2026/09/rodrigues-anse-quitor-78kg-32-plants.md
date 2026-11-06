@@ -18,6 +18,14 @@ figures:
   plants_destroyed: 32
   kg_seized: 7.8
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation]
+  case_stage: investigation
+  products: [{product: plants, plants: 32}]
+data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [rodrigues, anse-quitor, adsu, cannabis]
 sources:

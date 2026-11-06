@@ -16,6 +16,16 @@ summary: >-
   kilograms of dried plant material in the garage. A 47-year-old woman and a
   49-year-old man were arrested, and a district court ordered them held.
 created_by_model: spacexai/grok-4.7
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: plants}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [sopron]
 open_questions:

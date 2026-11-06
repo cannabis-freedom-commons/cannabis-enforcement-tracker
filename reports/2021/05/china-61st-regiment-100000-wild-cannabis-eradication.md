@@ -16,6 +16,16 @@ summary: >-
   wild and used samples to explain drug risks and laws to residents.
 figures:
   plants_destroyed: 100000
+details:
+  activity: [cultivation]
+  agency_types: [border-guard, police]
+  environment: [wild]
+  products: [{product: plants, plants: 100000}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.environment: [1]
+  details.products: [1]
 media:
   - kind: photo
     url: https://www.xj.chinanews.com.cn/dizhou/2021-05-27/detail-ihamuvvy5537080.shtml

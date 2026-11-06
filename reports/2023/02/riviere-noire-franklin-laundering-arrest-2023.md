@@ -17,6 +17,7 @@ details:
   agencies: [Independent Commission Against Corruption (ICAC)]
   agency_types: [other]
   activity: [money]
+  sentence_types: [prison]
   setting: [home]
   charges: [suspected money laundering]
   case_stage: investigation
@@ -28,6 +29,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2]
   details.charges: [1]
+  details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]
 status: verified

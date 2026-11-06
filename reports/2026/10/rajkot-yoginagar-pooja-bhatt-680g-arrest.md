@@ -17,6 +17,12 @@ figures:
   value:
     amount: 2380000
     currency: INR
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 19054601f2103926fd78392dcb9493d3

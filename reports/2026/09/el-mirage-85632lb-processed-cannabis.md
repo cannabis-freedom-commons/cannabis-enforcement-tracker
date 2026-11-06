@@ -17,6 +17,14 @@ summary: >-
 figures:
   kg_seized: 38844.9
 created_by_model: cursor/composer-2.5
+details:
+  activity: [cultivation]
+  products: [{product: flower, kg: 38844.9}]
+  setting: [vehicle, mail]
+data_sources:
+  details.activity: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [san-bernardino, el-mirage, code-enforcement, processed-cannabis]
 open_questions:

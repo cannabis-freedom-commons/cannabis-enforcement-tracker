@@ -27,12 +27,14 @@ details:
   case_stage: sentenced
   products:
     - {product: flower}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.activity: [2, 3, 4, 5, 6]
   details.agency_types: [1, 3, 4, 5, 6, 2]
   details.case_stage: [2, 1, 3, 4, 5, 6]
   details.products: [1, 3, 4, 5, 6]
+  details.sentence_types: [2, 1, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

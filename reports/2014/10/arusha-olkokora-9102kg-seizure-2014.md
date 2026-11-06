@@ -18,6 +18,10 @@ figures:
   kg_seized: 9102
   hectares: 0.81
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [anti-narcotics, police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 tags: [mount-meru, arusha, crackdown]
 sources:

@@ -15,6 +15,14 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 20
+details:
+  activity: [smuggling]
+  agency_types: [customs, prosecutor]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/2759325-suriyeden-donen-ambulansta-esrar-ele-gecirildi

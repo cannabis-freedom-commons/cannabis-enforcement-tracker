@@ -17,6 +17,14 @@ summary: >-
 figures:
   hectares: 20
   plants_destroyed: 8000
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [forest]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [polres-bireuen, antik-2007, aceh]

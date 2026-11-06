@@ -12,6 +12,10 @@ summary: >-
   Iran through dead drops and were moved in two boats; cash, smuggling equipment and the boats were
   seized, and the case went to the Public Prosecution.
 created_by_model: unknown
+details:
+  activity: [smuggling]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 cfi_id: bahrain-iran-cannabis-seizure-2026
 sources:

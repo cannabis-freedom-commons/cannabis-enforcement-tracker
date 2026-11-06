@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 13
+details:
+  activity: [sale]
+  agency_types: [police]
+data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.etvbharat.com/ml/videos/ganja-seized-and-west-bengal-resident-arrested-in-pattambi-palakkad-kls26110402760

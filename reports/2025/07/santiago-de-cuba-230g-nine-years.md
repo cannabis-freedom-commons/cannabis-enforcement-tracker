@@ -15,6 +15,18 @@ figures:
   charged: 1
   kg_seized: 0.23
   prison: 9 years
+details:
+  activity: [trafficking, sale]
+  agency_types: [court]
+  case_stage: sentenced
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.sentence_types: [1, 2]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.cubanet.org/santiago-de-cuba-imponen-nueve-anos-de-prision-a-ciudadano-por-trafico-de-marihuana/

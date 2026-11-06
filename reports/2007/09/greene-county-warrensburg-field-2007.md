@@ -17,6 +17,14 @@ summary: >-
 figures:
   plants_destroyed: 8000
   arrested: 1
+details:
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [field]
+data_sources:
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [greene-county, thp, marijuana-eradication]

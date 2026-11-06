@@ -11,6 +11,16 @@ summary: >-
   possessed 166.4 g of cannabis resin. It treated the individually wrapped portions as evidence of
   preparation for supply, while explaining that the presumption above 25 g could be rebutted.
 created_by_model: openai/gpt-6.1-sol
+details:
+  activity: [trafficking, possession]
+  agency_types: [police, court]
+  products: [{product: hashish}]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 cfi_id: seychelles-francois-resin-trafficking-2000
 tags:

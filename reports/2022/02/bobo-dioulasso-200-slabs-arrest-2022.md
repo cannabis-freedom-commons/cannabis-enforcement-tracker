@@ -13,6 +13,14 @@ summary: >-
   Police in Bobo-Dioulasso arrested a 61-year-old suspected trafficker and seized about 200 slabs of cannabis stored in a field outside the city. He told officers the cannabis came by motorcycle from a neighbouring country to supply Bobo and Mali over four years.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2022/02/01/afrique/societe/burkina-faso-pres-de-200-plaquettes-de-cannabis-saisis-a-bobo-dioulasso_157311.html

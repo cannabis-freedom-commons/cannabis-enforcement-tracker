@@ -19,6 +19,14 @@ figures:
   value:
     amount: 1500
     currency: MUR
+details:
+  activity: [smuggling, trafficking, possession]
+  agency_types: [coast-guard, police]
+  case_stage: charged
+data_sources:
+  details.activity: [2, 1, 3, 4, 5]
+  details.agency_types: [2, 1, 4, 3, 5]
+  details.case_stage: [1, 4, 2, 3, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: c97c1685e13103dda3efb7a9ed901c60

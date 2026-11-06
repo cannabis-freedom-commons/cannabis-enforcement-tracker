@@ -19,6 +19,10 @@ figures:
   kg_seized: 544.31
   value: { amount: 540699360, currency: GYD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police]
+data_sources:
+  details.agency_types: [1, 2]
 status: verified
 tags: [berbice, narcotics-branch]
 open_questions:

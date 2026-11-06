@@ -14,6 +14,16 @@ summary: >-
   On 27 March 2026 the Special Operations Group, with the National Anti-Drug Command, seized
   289.50 kg of marijuana in Barquisimeto, Lara, and Punto Fijo, Falcón, and detained six people. The
   interior ministry announced the results the next day.
+details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 289.5}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
 tags: [lara, falcon, goes, cna, seizure]

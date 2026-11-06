@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [Hellenic Police]
   agency_types: [police]
+  force: physical
   products:
     - {product: flower, kg: 0.01122}
   activity: [possession, sale]
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.force: [1, 2]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

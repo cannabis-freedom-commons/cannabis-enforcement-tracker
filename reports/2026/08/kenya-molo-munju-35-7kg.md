@@ -18,6 +18,14 @@ figures:
   arrested: 1
   kg_seized: 35.7
   value: { amount: 1071000, currency: KES }
+details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 media:
   - kind: photo
     url: https://radiogeneration.co.ke/suspected-drug-trafficker-arrested-in-molo-cannabis-worth-sh1-million-recovered_43366

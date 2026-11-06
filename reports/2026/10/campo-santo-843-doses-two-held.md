@@ -14,6 +14,12 @@ summary: >-
   Police in Campo Santo, Salta, detained a 34-year-old woman and a 31-year-old man after stopping their motorcycle on Ruta Provincial 11 and finding 843 doses of cocaine and marijuana. Officers also seized two phones, a scale, cash and the motorcycle, and the case went to the UFINAR anti-narcotics prosecution unit.
 figures:
   arrested: 2
+details:
+  agency_types: [anti-narcotics, court]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3]
 media:
   - kind: photo
     url: https://holasalta.com/post/campo-santo-secuestran-843-dosis-de-droga-y-detienen-a-dos-personas/

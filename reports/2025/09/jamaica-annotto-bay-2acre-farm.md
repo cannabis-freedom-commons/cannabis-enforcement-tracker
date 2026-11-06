@@ -18,6 +18,14 @@ summary: >-
 figures:
   arrested: 1
   hectares: 0.81
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [st-mary, annotto-bay]

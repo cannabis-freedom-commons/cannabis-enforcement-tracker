@@ -15,6 +15,16 @@ summary: >-
 figures:
   charged: 3
   prison: 6–10 months
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: seeds}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [shanghai, sentence, cultivation, buried-drop]

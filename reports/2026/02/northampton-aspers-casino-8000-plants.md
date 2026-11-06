@@ -22,6 +22,18 @@ figures:
   value:
     amount: 3200000
     currency: GBP
+details:
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: plants, plants: 8000}]
+  sentence_types: [fine]
+  setting: [prison]
+data_sources:
+  details.agency_types: [2, 1, 3, 4]
+  details.case_stage: [2, 1, 3]
+  details.products: [3, 2, 1]
+  details.sentence_types: [2, 1, 3]
+  details.setting: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.bbc.co.uk/news/articles/cj6nxrdexwwo

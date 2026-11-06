@@ -18,6 +18,16 @@ summary: >-
 figures:
   kg_seized: 329.28
 created_by_model: cursor/composer-2.5
+details:
+  agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: flower, kg: 329.28}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [douanes, modane, albertville]
 open_questions:

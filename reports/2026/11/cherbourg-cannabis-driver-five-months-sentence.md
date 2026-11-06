@@ -13,6 +13,14 @@ summary: >-
 figures:
   charged: 1
   prison: 5 months
+details:
+  agency_types: [police, court]
+  case_stage: sentenced
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: aeb317ac3019c813556e716ceaf18c03

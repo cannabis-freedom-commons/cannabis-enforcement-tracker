@@ -17,6 +17,20 @@ summary: >-
 figures:
   arrested: 1
   plants_destroyed: 429
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower}]
+  sentence_types: [prison]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [holguin, banes, sentence, cultivation]

@@ -12,6 +12,12 @@ summary: >-
   handed to judicial authorities. It was one of the largest single cannabis seizures reported in
   northern Afghanistan in 2025.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: hashish}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: afghanistan-badakhshan-hashish-seizure-2025
 sources:

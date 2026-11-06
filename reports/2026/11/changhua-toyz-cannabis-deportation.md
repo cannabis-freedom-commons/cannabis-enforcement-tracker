@@ -16,6 +16,16 @@ figures:
   arrested: 1
   charged: 1
   prison: 4 years 2 months
+details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor, court]
+  sentence_types: [deportation]
+  setting: [airport, home, prison]
+data_sources:
+  details.activity: [1, 4, 5, 6, 7, 8]
+  details.agency_types: [1, 4, 6, 7, 8, 9]
+  details.sentence_types: [1, 4, 5, 6, 7, 8]
+  details.setting: [35, 36, 38, 55, 47, 63]
 media:
   - kind: photo
     url: https://www.ettoday.net/news/20261103/3265610.htm

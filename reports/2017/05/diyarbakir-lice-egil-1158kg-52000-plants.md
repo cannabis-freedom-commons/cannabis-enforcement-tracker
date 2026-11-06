@@ -15,6 +15,16 @@ figures:
   arrested: 2
   plants_destroyed: 52000
   kg_seized: 1158
+details:
+  agency_types: [gendarmerie, prosecutor, court]
+  case_stage: investigation
+  products: [{product: plants, plants: 52000}]
+  setting: [forest]
+data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 media:
   - kind: photo
     url: https://m.haber7.com/guncel/haber/2334949-diyarbakirda-narkoteror-operasyonu

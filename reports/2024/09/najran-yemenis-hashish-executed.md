@@ -20,10 +20,12 @@ details:
   case_stage: executed
   products:
     - {product: hashish}
+  sentence_types: [death]
 data_sources:
   details.activity: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.sentence_types: [1, 2]
 status: verified
 tags: [hashish, yemen, najran]
 open_questions:

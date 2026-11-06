@@ -20,6 +20,12 @@ figures:
   charged: 248
   kg_seized: 13.241
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  agency_types: [police, court]
+  products: [{product: plants, plants: 9369}, {product: oil, kg: 13.241}]
+data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.products: [1, 2]
 status: verified
 tags: [national-cannabis-operation, operation-penny]
 open_questions:

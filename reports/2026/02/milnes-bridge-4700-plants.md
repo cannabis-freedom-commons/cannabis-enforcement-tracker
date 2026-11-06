@@ -20,6 +20,20 @@ figures:
   value:
     amount: 10000000
     currency: AUD
+details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: charged
+  environment: [greenhouse]
+  products: [{product: plants, plants: 4700}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.abc.net.au/news/2026-02-13/men-face-commercial-drug-cultivation-charges-after-cannabis-bust/106338128

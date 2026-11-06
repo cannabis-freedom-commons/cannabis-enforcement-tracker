@@ -12,6 +12,12 @@ summary: >-
   Gongbei Customs officers seized four cannabis cigarettes, 1.1 grammes net, hidden in a chewing-gum tub in a cross-border driver's centre console at the HZMB Zhuhai Port on 25 July 2026. Laboratory tests confirmed cannabis in all four, and the case was handed to anti-smuggling investigators.
 figures:
   kg_seized: 0.0011
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
 media:
   - kind: photo
     url: https://www.macaupostdaily.com/news/29006

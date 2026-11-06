@@ -15,6 +15,16 @@ summary: >-
 figures:
   arrested: 1
   charged: 1
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  setting: [port]
+data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1, 3]
+  details.setting: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8deb8abd82f511661055e834dcc6a7b2

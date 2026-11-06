@@ -11,6 +11,16 @@ summary: >-
   the border with Afghanistan in 2025, and the authorities said trafficking from Afghanistan had
   risen by nearly half over 2024.
 created_by_model: unknown
+details:
+  activity: [trafficking]
+  case_stage: sentenced
+  products: [{product: hashish}]
+  setting: [prison]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: tajikistan-border-seizures-2025
 sources:

@@ -18,6 +18,20 @@ figures:
   charged: 2
   plants_destroyed: 100
 created_by_model: muse-code/muse-spark-1.3#xhigh
+details:
+  activity: [cultivation, sale]
+  agency_types: [police]
+  case_stage: sentenced
+  force: physical
+  sentence_types: [prison]
+  setting: [home, prison]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
+  details.force: [1]
+  details.sentence_types: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [operation-hive, porirua, family-convictions]
 sources:

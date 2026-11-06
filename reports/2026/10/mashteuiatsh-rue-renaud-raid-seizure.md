@@ -14,6 +14,14 @@ summary: >-
   Sûreté du Québec officers and Mashteuiatsh public security searched a home on rue Renaud in Mashteuiatsh and seized cocaine, methamphetamine tablets, cannabis including edibles, magic mushrooms and about $3,000 cash. One person was questioned and police said drug-trafficking charges were being considered.
 figures:
   arrested: 1
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://news.ssbcrack.com/saisie-de-drogues-et-arrestation-lors-dune-perquisition-a-mashteuiatsh/

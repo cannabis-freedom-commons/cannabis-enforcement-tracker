@@ -20,11 +20,13 @@ details:
   case_stage: sentenced
   products:
     - {product: flower}
+  sentence_types: [prison]
   setting: [prison]
 data_sources:
   details.agency_types: [1, 2, 4, 3]
   details.case_stage: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
+  details.sentence_types: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

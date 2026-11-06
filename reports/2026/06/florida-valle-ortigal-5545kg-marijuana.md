@@ -16,6 +16,18 @@ figures:
   value:
     amount: 4365000000
     currency: COP
+details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 5545}]
+  setting: [vehicle]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.policia.gov.co/noticia/mas-cinco-toneladas-marihuana-incautadas

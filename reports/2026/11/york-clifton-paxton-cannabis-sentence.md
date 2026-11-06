@@ -16,6 +16,14 @@ figures:
   arrested: 1
   charged: 1
   prison: 12 months, suspended for 12 months
+details:
+  agency_types: [police, court]
+  sentence_types: [prison, probation]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1]
+  details.sentence_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 93c579c11edc8dc970005f60e3e52d00

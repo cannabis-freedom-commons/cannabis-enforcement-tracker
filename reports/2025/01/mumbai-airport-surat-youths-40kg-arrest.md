@@ -17,6 +17,18 @@ figures:
   value:
     amount: 400000000
     currency: INR
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  environment: [indoor]
+  products: [{product: flower, kg: 40}]
+  setting: [airport]
+data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.environment: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 50a94eb28d5390fb95c5af491014e165

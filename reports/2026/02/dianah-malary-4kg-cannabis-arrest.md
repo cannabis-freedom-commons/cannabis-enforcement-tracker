@@ -14,6 +14,12 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 4
+details:
+  activity: [trafficking, possession]
+  agency_types: [gendarmerie]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 media:
   - kind: photo
     url: https://www.seneweb.com/fr/news/Societe/lutte-contre-le-trafic-de-stupefiants-4-kg-de-chanvre-indien-saisis-a-dianah-malary_n_483570.html

@@ -13,6 +13,16 @@ summary: >-
   Shenzhen Postal Customs found cannabis concealed among dried fruit in a transfer parcel. The
   gross seized material weighed 4,260.9 g including plastic packaging, and the case went to
   customs anti-smuggling investigators.
+details:
+  activity: [smuggling]
+  agency_types: [customs]
+  case_stage: investigation
+  setting: [mail]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://xinwen.bjd.com.cn/content/s69ac1e79e4b0687a28923533.html

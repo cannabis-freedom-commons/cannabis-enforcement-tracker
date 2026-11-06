@@ -24,11 +24,13 @@ details:
   agency_types: [police]
   case_stage: sentenced
   products: [{product: flower, kg: 2}]
+  sentence_types: [prison]
   setting: [home]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [1]
+  details.sentence_types: [2, 1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

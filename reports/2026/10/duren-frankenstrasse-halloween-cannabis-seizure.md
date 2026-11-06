@@ -10,6 +10,12 @@ type: seizure
 title: Four youths checked in Düren; cannabis and ecstasy found on minor
 summary: >-
   Düren municipal officers checked four youths at the Frankenstraße playground on Halloween night after finding a minor smoking a joint, seizing cannabis and ecstasy plus a blank-firing pistol and fireworks. Police took over the youths for criminal review, while officers separately shut a loud party in Nord-Düren after about 25 to 30 guests left.
+details:
+  agency_types: [police]
+  setting: [home]
+data_sources:
+  details.agency_types: [2, 1]
+  details.setting: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3b8ef9f933bdf7678e8534986f13c5f6

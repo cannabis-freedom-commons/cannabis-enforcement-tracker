@@ -12,6 +12,12 @@ summary: >-
   intoxicating tablets in Jalalabad and 1,000 tablet K pills in Herat. The ministry said the
   suspects would face legal action.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  products: [{product: hashish}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: afghanistan-helmand-hashish-seizure-2026
 sources:

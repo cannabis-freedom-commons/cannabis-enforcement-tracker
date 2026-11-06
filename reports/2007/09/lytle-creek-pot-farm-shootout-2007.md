@@ -17,6 +17,12 @@ summary: >-
   and no arrests were made.
 figures:
   deaths: 1
+details:
+  products: [{product: flower}, {product: plants}]
+  setting: [field, forest]
+data_sources:
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [san-bernardino, eradication-raid, camp]

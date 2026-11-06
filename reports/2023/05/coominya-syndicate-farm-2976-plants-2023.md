@@ -19,6 +19,18 @@ figures:
   charged: 1
   kg_seized: 32
   value: { amount: 23100000, currency: AUD }
+details:
+  agency_types: [police]
+  case_stage: charged
+  environment: [indoor, greenhouse]
+  products: [{product: plants}]
+  setting: [home]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [syndicate, greenhouse, commercial-production]

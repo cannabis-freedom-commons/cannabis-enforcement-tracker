@@ -18,6 +18,16 @@ figures:
   charged: 1
   plants_destroyed: 1082
   prison: 10 years
+details:
+  activity: [cultivation]
+  case_stage: sentenced
+  products: [{product: flower}, {product: plants, plants: 1082}]
+  setting: [forest, prison]
+data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [sequoia, camp, forest-service]

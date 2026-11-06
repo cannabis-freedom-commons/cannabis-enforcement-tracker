@@ -15,6 +15,14 @@ summary: >-
   machine guns and rocket-propelled grenades, wounding a policeman. Roadblocks of
   burning tires and attacks on eradication tractors marked the same day across the
   Baalbek area.
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  setting: [field]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [bekaa, eradication-resisted]

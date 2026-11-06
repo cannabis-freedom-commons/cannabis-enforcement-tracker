@@ -14,6 +14,14 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 45
+details:
+  activity: [trafficking]
+  agency_types: [police]
+  setting: [vehicle, home]
+data_sources:
+  details.activity: [2]
+  details.agency_types: [1, 2]
+  details.setting: [2]
 media:
   - kind: photo
     url: https://www.seneweb.com/fr/news/Afrique/niger-45-kg-de-cannabis-saisis-deux-suspects-interpelles_n_490342.html

@@ -17,6 +17,18 @@ summary: >-
 figures:
   arrested: 4
   charged: 4
+details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: edibles}]
+  setting: [home]
+data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.am800cklw.com/news/windsor-420-highway-busted-by-opp/

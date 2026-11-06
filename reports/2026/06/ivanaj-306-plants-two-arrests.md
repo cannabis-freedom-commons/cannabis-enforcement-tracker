@@ -18,6 +18,12 @@ figures:
   arrested: 2
   plants_destroyed: 306
 created_by_model: spacexai/grok-4.7#medium
+details:
+  activity: [cultivation]
+  agency_types: [police, prosecutor, court]
+data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
 status: verified
 tags: [ivanaj, malesi-e-madhe, flagranca]
 open_questions:

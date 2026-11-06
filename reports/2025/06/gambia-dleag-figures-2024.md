@@ -11,6 +11,12 @@ summary: >-
   drug cases in 2024, 1,014 of them Gambians. The agency seized 1.9 tonnes of cannabis sativa and
   2.2 tonnes from plantations; cannabis made up 54.7% of all seizures.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  setting: [field]
+data_sources:
+  details.activity: [1]
+  details.setting: [1]
 status: verified
 cfi_id: gambia-dleag-figures-2024
 sources:

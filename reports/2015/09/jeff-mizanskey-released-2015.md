@@ -16,6 +16,14 @@ summary: >-
   family, lawmakers and reform groups.
 figures:
   prison: life without parole (commuted after about 21 years)
+details:
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 media:
   - kind: photo
     url: https://convictsoapbox.com/2015/09/03/man-sentenced-to-life-without-parole-for-marijuana-charge-is-freed/

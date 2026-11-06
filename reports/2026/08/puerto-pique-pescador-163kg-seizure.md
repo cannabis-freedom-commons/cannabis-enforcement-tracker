@@ -15,6 +15,14 @@ figures:
   value:
     amount: 620000000
     currency: ARS
+details:
+  agency_types: [coast-guard, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 163.55}]
+data_sources:
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [1]
+  details.products: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/prefectura-secuestro-mas-de-160-kilos-de-droga-en-misiones

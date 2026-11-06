@@ -12,6 +12,12 @@ summary: >-
   and Ulagunan after a group of young people fled; no one was arrested at the time. Police said the
   suspects' identities were known and appealed for them to surrender.
 created_by_model: unknown
+details:
+  agency_types: [police]
+  case_stage: appeal
+data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 cfi_id: papua-new-guinea-kokopo-seizure-2025
 sources:

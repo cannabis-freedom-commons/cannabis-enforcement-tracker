@@ -12,6 +12,12 @@ summary: >-
   dinars. It also listed 2,073 arrests and just 951 grams of hashish. Pills and cocaine dominated
   the published haul.
 created_by_model: unknown
+details:
+  agency_types: [anti-narcotics]
+  products: [{product: hashish}]
+data_sources:
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: libya-anti-narcotics-2024-report
 sources:

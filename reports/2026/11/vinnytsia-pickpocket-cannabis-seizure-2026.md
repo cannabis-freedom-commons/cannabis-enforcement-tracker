@@ -13,6 +13,14 @@ summary: >-
   Vinnytsia police detained a 43-year-old local man on suspicion of stealing 450 dollars from a 20-year-old trolleybus passenger. During investigative actions, they recovered the money and seized cannabis and methadone; investigators were preparing a notice of suspicion and considering a preventive measure.
 figures:
   arrested: 1
+details:
+  agency_types: [police]
+  case_stage: investigation
+  setting: [prison]
+data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://suspilne.media/vinnytsia/1444681-u-vinnici-zatrimali-colovika-akogo-pidozruut-u-kradizci-450-dolariv-u-pasazirki-trolejbusa/

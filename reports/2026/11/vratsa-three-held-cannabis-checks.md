@@ -13,6 +13,12 @@ summary: >-
   Police in Vratsa detained three men in two checks on 4 November 2026: a 20-year-old driver whose drug test showed cannabis and his passenger, who carried cannabis, and a 22-year-old searched on the street and at home, where more cannabis and ketamine were found. A car was seized and the cases were opened as one fast-track and one pre-trial proceeding.
 figures:
   arrested: 3
+details:
+  agency_types: [police]
+  case_stage: investigation
+data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 96a23a85597067ee43a8578bbe688d35

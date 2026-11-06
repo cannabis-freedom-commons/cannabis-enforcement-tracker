@@ -12,6 +12,10 @@ summary: >-
   foreigners. Seizures included 505 kg of dried cannabis and 12,212 fresh cannabis plants, out of
   1.91 tonnes of drugs in all.
 created_by_model: unknown
+details:
+  products: [{product: plants}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: cambodia-drug-arrests-2025
 sources:

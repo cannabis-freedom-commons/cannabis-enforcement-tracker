@@ -18,6 +18,10 @@ figures:
   kg_seized: 86116.33
   plants_destroyed: 317834
   value: { amount: 312880014.35, currency: USD }
+details:
+  activity: [cultivation]
+data_sources:
+  details.activity: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ucetf, unlicensed-market, annual-total]

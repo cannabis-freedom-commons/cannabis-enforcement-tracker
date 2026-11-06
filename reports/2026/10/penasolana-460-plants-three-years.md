@@ -21,6 +21,20 @@ figures:
   fine: { amount: 1790, currency: EUR }
   value: { amount: 119496, currency: EUR }
 created_by_model: xai/grok-4.7
+details:
+  activity: [cultivation]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  products: [{product: plants, plants: 460}]
+  sentence_types: [prison, fine]
+  setting: [vehicle, field, home]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.sentence_types: [1, 2]
+  details.setting: [2, 1]
 status: verified
 tags: [salamanca, udyco, electricity]
 open_questions:

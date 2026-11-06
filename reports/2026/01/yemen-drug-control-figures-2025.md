@@ -12,6 +12,10 @@ summary: >-
   1,530 kg of crystal methamphetamine, 169 kg of heroin and 482,596 Captagon pills. It counted 704
   drug cases, 488 of them for use, and 1,260 suspects, of whom 827 were users.
 created_by_model: unknown
+details:
+  products: [{product: hashish}]
+data_sources:
+  details.products: [1]
 status: verified
 cfi_id: yemen-drug-control-figures-2025
 sources:

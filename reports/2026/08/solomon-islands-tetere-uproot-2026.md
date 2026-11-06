@@ -12,6 +12,14 @@ summary: >-
   police arrived and no arrest was made. Police repeated that cultivation is a serious offence under
   the Dangerous Drugs Act.
 created_by_model: unknown
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants}]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 cfi_id: solomon-islands-tetere-uproot-2026
 sources:
