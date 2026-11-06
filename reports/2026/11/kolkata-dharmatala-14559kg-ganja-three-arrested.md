@@ -69,6 +69,11 @@ sources:
     publisher: Sangbad Pratidin
     date: 2026-11-05
     language: bn
+  - title: কালীপুজোর মুখে কলকাতায় বিপুল গাঁজা উদ্ধার ! গ্রেফতার মুর্শিদাবাদের 3 পাচারকারী
+    url: https://www.etvbharat.com/bn/state/murshidabad-several-traffickers-arrested-in-kolkata-with-large-quantity-of-cannabis-wbs26110502444
+    publisher: ETV Bharat
+    date: 2026-11-05
+    language: bn
 open_questions:
   - The raid fell on Wednesday and the case was registered on Thursday; 4 November 2026 is used as the incident date, derived from the 5 November 2026 publication date.
   - No value was published for the seized ganja.
@@ -79,7 +84,7 @@ open_questions:
 ---
 
 Kolkata Police's Narcotics Cell arrested three people and seized ganja during a
-raid near the Dharmatala bus stand in central Kolkata. [@1] Acting on specific
+raid near the Dharmatala bus stand in central Kolkata. [@1,4] Acting on specific
 intelligence, officers raided the Maidan police station area on Wednesday and
 caught the three suspects near the PWD Site Office (South Division) next to the
 bus stand. [@1,4] Police identified the three as Abdul Haque, 48, Anju Sheikh, 32,
@@ -100,3 +105,5 @@ with other members of the gang. [@2]
 The Bengali article gives the accused's names as Abdul Haque alias Babu, Anju Sheikh and Attabur Sheikh. [@3]
 
 The Maidan police station complaint was filed by Narcotic Cell sub-inspector Prashantakumar Ray. [@4]
+
+The three accused were to be produced before the Alipore court on Thursday. [@6]
