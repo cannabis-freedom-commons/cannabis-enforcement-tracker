@@ -31,6 +31,9 @@ open_questions:
   - No court outcome for the six detained Colombians was reported in the opened sources.
   - The exact interception coordinates were not published; the report is mapped to the O'Higgins coast.
   - Photos of the seizure published with the local report could not be visually verified, so no media entry was recorded.
+  - The release dates the press briefing to 19 November 2019 and says the investigation ran since January 2019, while the existing report says the inquiry ran since February 2019; the difference is not resolved here.
+  - The release places the interception about 175 nautical miles off Caldera and describes Rancagua detectives as leading the case, which differs from the existing report's O'Higgins-region mapping.
+  - No court outcome for the six detained Colombians is reported in this release.
 sources:
   - title: "Operación 'Alta Mar': Operativo antidrogas entre PDI y la Armada permite decomiso más grande en la historia de Chile"
     url: https://eltipografo.cl/2019/11/operacion-alta-mar-operativo-antidrogas-entre-pdi-y-la-armada-permite-decomiso-mas-grande-en-la-historia-de-chile/
@@ -41,6 +44,11 @@ sources:
     url: https://insightcrime.org/news/brief/chiles-status-as-marijuana-destination-of-choice-confirmed-by-record-bust/
     publisher: InSight Crime
     date: 2019-12-06
+  - title: “Alta Mar” la mayor incautación de droga en Chile
+    url: https://www.pdichile.cl/centro-de-prensa/detalle-prensa/2019/11/20/alta-mar-la-mayor-incautaci%C3%B3n-de-droga-en-chile
+    publisher: PDI Chile
+    date: 2019-11-20
+    language: es
 ---
 
 Chile's navy and the PDI, the investigative police, intercepted a boat on the
@@ -65,3 +73,5 @@ from Colombia [@2]. O'Higgins prosecutor Javier von Bischoffshausen said the
 authorities had tracked the trafficking ring for nine months [@2]. The crew
 had bought a second boat to run the drugs closer to shore but failed to locate
 it, and naval air and sea units helped intercept the shipment [@1].
+
+The cannabis was carried on a Colombian fishing boat detected about 175 nautical miles off the coast of Caldera, with six Colombian nationals on board. [@3] The PDI began working on the case in January 2019, using criminal intelligence analysis and coordination. [@3] PDI director general Héctor Espinosa called Alta Mar “the largest police investigation in history” at a press briefing in Rancagua on 19 November 2019. [@3] The navy used satellite tracking, maritime patrol aircraft and patrol boats carrying detectives, maritime police and its immediate response group to locate the vessel. [@3]
