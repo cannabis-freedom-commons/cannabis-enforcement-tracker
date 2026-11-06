@@ -58,6 +58,10 @@ sources:
     url: https://www.afintl.com/en/202611068900
     publisher: Afghanistan International
     date: 2026-11-06
+  - title: Tajikistan Arrests 9 Suspects in Drug Trafficking Network Linked To Afghanistan
+    url: https://thekabultribune.com/en/0011834
+    publisher: The Kabul Tribune
+    date: 2026-11-05
 open_questions:
   - The article gives no separate date for the detention or seizure; 5 November 2026 is its publication date and is used as the incident date.
   - The destination country for the alleged onward smuggling was not named.
@@ -67,10 +71,11 @@ open_questions:
   - Only one accessible reporting account could be opened, repeating the Interior Ministry's version, and the ministry's video itself was not opened.
   - A separate Dushanbe detention involving almost 16.5 kg of hashish mentioned in the same article is a different event left out here.
   - Half-year national drug seizure totals mentioned in the same article are general statistics left out here.
+  - The Kabul Tribune gives no separate date for the arrests; it says the ministry announced them on Thursday and the page is dated 5 November 2026.
 ---
 
 Tajikistan's Interior Ministry reported the detention of nine people on
-suspicion of smuggling drugs abroad. [@1,2] The ministry says all nine belonged to
+suspicion of smuggling drugs abroad. [@1,2,3] The ministry says all nine belonged to
 one drug group that had moved more than half a tonne of drugs abroad over the
 past year. [@1] The suspects were named as 44-year-old Muzafar Azamov,
 40-year-old Farkhod Nordzhigitov, 44-year-old Abdushukur Dzhuraboev and
@@ -82,7 +87,7 @@ he created the group in 2025 after release from prison and names several other
 people as helpers in transport and sale. [@1]
 
 Officers found and seized 24 kg of hashish from a cache in Matchinsky district.
-[@1] The ministry said the drugs had been brought by smugglers from Afghanistan
+[@1,3] The ministry said the drugs had been brought by smugglers from Afghanistan
 into Tajikistan for onward shipment abroad. [@1] The ministry's message does not
 say to which country the drugs were being sent. [@1] Azamov states that from
 2025 until now the group transported hashish 20 to 25 times, totalling about 550
@@ -94,3 +99,5 @@ trafficking under part 4 of Article 200 of Tajikistan's Criminal Code and they
 were remanded in custody. [@1] That article carries 12 to 20 years'
 imprisonment. [@1] The positions of the detainees and their relatives on the
 case are not known. [@1]
+
+The ministry said he formed the group after being released from prison in 2025. [@3] The Kabul Tribune reports that the nine suspects could face 12 to 20 years in prison if convicted. [@3]
