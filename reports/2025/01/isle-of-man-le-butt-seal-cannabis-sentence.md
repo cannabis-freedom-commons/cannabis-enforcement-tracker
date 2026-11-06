@@ -26,25 +26,30 @@ sources:
     url: https://www.bbc.com/news/articles/c3600z0e574o
     publisher: BBC News
     date: 2025-01-17
+  - title: Man who imported £49k of cannabis sentenced
+    url: https://www.manxradio.com/news/isle-of-man-news/man-who-imported-49k-of-cannabis-sentenced/
+    publisher: Manx Radio
+    date: 2025-01-19
 open_questions:
   - No cannabis weight was published, only five bags and a £49,000 value, so no kilograms are recorded.
   - The article gives no separate sentencing hearing date; 17 January 2025 is the publication date and is used as the incident date.
   - Only one source for this event could be opened; web search returned no second account to corroborate or add facts.
   - The BBC hero image is described as a close-up of a cannabis plant and does not show this seizure, raid or court action, so no media entry is included.
+  - Manx Radio credits the report to BBC Isle of Man, so it is a republication of the existing report's source, not independent reporting.
 ---
 
 Oliver Le-Butt-Seal, 35, was sentenced for importing cannabis to the Isle of
-Man. [@1] He was handed a 20-month sentence suspended for two years and banned
-from returning to the island for five years. [@1] He pleaded guilty to
-importation of cannabis and possession of the drug with intent to supply. [@1]
+Man. [@1,2] He was handed a 20-month sentence suspended for two years and banned
+from returning to the island for five years. [@1,2] He pleaded guilty to
+importation of cannabis and possession of the drug with intent to supply. [@1,2]
 Deemster Cook said he had taken into account that Le-Butt-Seal had served a
 significant period in a UK prison because of the Isle of Man offence. [@1]
 Deemster Cook said the only reason for leniency was jurisdictional problems
-across borders. [@1]
+across borders. [@1,2]
 
 The imported cannabis was worth £49,000 and was hidden in the spare tyre of a
 car. [@1] He brought five bags of the drug stashed in a wheel strapped
-underneath a white car over on the ferry on 14 December 2022. [@1] His
+underneath a white car over on the ferry on 14 December 2022. [@1,2] His
 fingerprints were detected on the cannabis packaging. [@1] He had been the
 passenger in the vehicle, while prosecutors found the driver was not involved in
 the importation. [@1]
@@ -54,5 +59,4 @@ questioned by customs officers about his reason for visiting. [@1] He had been
 offered £250 to transport the drugs and to clear some of a £7,000 drug debt he
 had. [@1] He had served an additional one year and 10 months in a UK prison for
 a separate offence, as a consequence of the Isle of Man case as well as a
-positive drug test in the facility. [@1]
-
+positive drug test in the facility. [@1,2]
