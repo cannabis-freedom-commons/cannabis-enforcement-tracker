@@ -38,6 +38,14 @@ sources:
     url: https://www.bbc.com/news/articles/cn7my2y02peo
     publisher: BBC News
     date: 2024-10-25
+  - title: Leading drug gang member jailed for 15 years on Isle of Man
+    url: https://www.bbc.com/news/world-europe-isle-of-man-66410767
+    publisher: BBC News
+    date: 2023-08-11
+  - title: Drugs gang leader jailed for 15 years
+    url: https://www.iomtoday.co.im/news/drugs-gang-leader-jailed-for-15-years-631995
+    publisher: Isle of Man Today
+    date: 2023-08-11
 open_questions:
   - No cannabis weight was published, only values of almost £100,000 of cocaine and about £78,000 of cannabis; figures record only the cannabis-only value.
   - No separate sentencing hearing date was published; 24 July 2024 is derived from the report that the three were sentenced on Wednesday before the 25 July 2024 publication.
@@ -49,6 +57,10 @@ open_questions:
   - The BBC account describes £78,000 of “cannabis and cocaine” and gives a £99,000–£142,000 street value without separating the drugs’ respective values, so it does not resolve the existing report’s cannabis-only valuation.
   - No second independently opened account of Thomas’s sentencing was found.
   - Isle of Man Today gives McHarrie’s total sentence as 21 years and nine months in one passage and 22 years and nine months in another; this update follows the BBC’s 21 years and nine months.
+  - Isle of Man Today dates the 999.56 g cocaine and 3.9 kg cannabis production to 22 June 2022, while the existing report dates the BMW Sea Terminal seizure to 6 June 2022; the matching weights and values indicate the same consignment with an unresolved date difference.
+  - The BBC gives the separate importation as about £78,000 of cannabis and cocaine worth £99,000 to £142,000, while Isle of Man Today splits it as £78,419 of cannabis and £99,956 to £142,794 of cocaine within £178,345 to £221,213 overall; only the cannabis-only weight and value are usable for cannabis figures.
+  - The 248.7 g microwave consignment was cocaine only and is mentioned only to explain the same sentencing event.
+  - The submitted BBC page carries a police mugshot of Spotswood and a Douglas Courthouse exterior, neither showing the seizure, raid or drugs, so no media entry is included.
 media:
   - kind: photo
     url: https://www.iomtoday.co.im/news/drugs-gangs-downfall-came-when-bmw-was-stopped-off-the-ferry-during-isle-of-man-tt-733806
@@ -78,7 +90,7 @@ package the cannabis. [@1]
 Hughes serviced a BMW, stored it in his garage overnight, and it was collected
 in the morning. [@1] Spotswood was jailed for 15 years last August for playing a
 leading role in an organised crime gang that imported cocaine and cannabis to
-the island. [@1,4] Hughes pleaded guilty to charges of being concerned in the
+the island. [@1,4,5,6] Hughes pleaded guilty to charges of being concerned in the
 importation of cocaine and the importation of cannabis. [@1] Moody was found
 guilty of playing a part in importing the cannabis, while Woods was convicted of
 being concerned in the importation of both cocaine and cannabis following a
@@ -95,3 +107,5 @@ release. [@1] The three were sentenced on Wednesday. [@1]
 Darryl Thomas was jailed for nine years for his role in an organised crime gang importing cocaine and cannabis to the Isle of Man. [@2] Thomas pleaded guilty to importing cocaine and cannabis to the island. [@2] In June 2022, Thomas arranged for another man to take a vehicle containing the drugs from north-west England to the Isle of Man by ferry. [@2] Police found 20 packages of cannabis and cocaine in the vehicle when they searched it on arrival in Douglas. [@2]
 
 The BMW was stopped at Douglas's Sea Terminal on 6 June 2022, and the 20 packages behind its rear panels held 3,920.95 grams of cannabis. [@3] McHarrie was the last of six men jailed over the June 2022 car-boot smuggling of cannabis and cocaine to the island. [@4] McHarrie was jailed for 21 years and nine months for his involvement in importing cocaine and cannabis to the Isle of Man and laundering drug money. [@4] McHarrie was found guilty after a July trial of being concerned in the importation of cocaine and cannabis. [@4]
+
+Spotswood admitted the June 2022 production of 999.56 grams of cocaine and 3.9 kilos of cannabis alongside the August 2021 production of 248.7 grams of cocaine. [@6] The June 2022 consignment comprised 3.9 kilos of cannabis valued at £78,419 and cocaine valued at between £99,956 and £142,794. [@6] He received 15 years for the cocaine offences with three years concurrent for cannabis production, plus a five-year island ban after release. [@6] His conviction came under joint Isle of Man police and North West Regional Crime Unit Operation Achilles, which has seen a dozen members of the same group sentenced. [@6]
