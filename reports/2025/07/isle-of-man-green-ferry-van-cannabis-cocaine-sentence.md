@@ -75,3 +75,4 @@ to supply charges running concurrently. [@2] He was also given an exclusion
 order banning him from returning to the island for five years after his release.
 [@1]
 
+The drugs were found in a specially created "hide" within the black Ford Transit Connect Van when a further search was carried out at police headquarters. [@1] Green, from Kirby in Merseyside, had arrived on the Manxman's sailing from Heysham at 06:00 GMT on 21 March, the court heard. [@1]
