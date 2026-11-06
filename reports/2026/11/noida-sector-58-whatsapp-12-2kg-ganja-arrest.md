@@ -79,6 +79,10 @@ sources:
     publisher: हिन्दुस्तान (Live Hindustan)
     date: 2026-11-05
     language: hi
+  - title: Noida WhatsApp Ganja Delivery Racket Busted, Airport Engineer Among Two Held
+    url: https://the420.in/noida-whatsapp-ganja-delivery-racket/
+    publisher: The 420.in
+    date: 2026-11-05
 open_questions:
   - The article gives 4 November 2026 only for Sumit Raghav's arrest at Sector-57; no separate date is given for Manish Kumar Jha's arrest near Sector-56.
   - Only one accessible source for this event was found after searching in English and Hindi.
@@ -114,6 +118,9 @@ open_questions:
   - The page's only picture is captioned as a representative image (प्रतीकात्मक तस्वीर), so no media entry is added.
   - Hindustan says neither accused had a criminal history but does not state how the newly registered NDPS case recorded in the existing report is counted.
   - The submitted page's lead image is a generic Noida banner stored under a 2025 file path, not a photograph of the seizure, so no media entry is linked.
+  - The 420.in places the checking near Radisson Cut in Sector 57, while the existing report records Medicine Cut; the existing wording is kept.
+  - The 420.in gives the arrests only as the night of 4 November 2026 and names no separate date for Manish Kumar Jha's arrest near Sector 56.
+  - The 420.in reports no court outcome beyond registration of the NDPS case.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335
@@ -138,7 +145,7 @@ media:
 ---
 
 Sector-58 police in Noida arrested two men accused of trafficking and selling
-ganja through WhatsApp. [@1,2,3,4,5,6,8,9,11] On 4 November 2026 a police team arrested Sumit
+ganja through WhatsApp. [@1,2,3,4,5,6,8,9,11,12] On 4 November 2026 a police team arrested Sumit
 Raghav at Medicine Cut in Sector-57, Noida, using local intelligence and beat
 policing. [@1,5,7,8] Following questioning of Sumit, police arrested his associate
 Manish Kumar Jha near ESI Colony in Sector-56, Noida. [@1,5,6,7,8] The men were
@@ -150,7 +157,7 @@ supplied youths in flats, paying-guest housing, hostels and colleges across
 Delhi-NCR through WhatsApp, with customers sending locations and sale money sent
 online to Manish. [@1,4,8,9]
 
-Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2,3,4,5,6,7,8,9,11] A
+Police seized a total of 12 kg 200 g of illegal ganja from the two men. [@1,2,3,4,5,6,7,8,9,11,12] A
 search of Sumit's bag found small packets bearing an online delivery company's
 name containing 1 kg 900 g of ganja. [@1,3,6,7,8] Police recovered 10 kg 300 g of ganja
 from Manish. [@1,3,6,7,8] Police also seized a Splendor motorcycle, two mobile phones
@@ -158,7 +165,7 @@ and 42 printed packets used for packing the ganja. [@1,3,9]
 
 The accused packed ganja in 25 to 30 gram packets placed inside packets bearing
 online delivery companies' names to avoid suspicion during delivery. [@1,8,9] Police
-said Manish works as a technical engineer. [@1,4,7,8] Questioning also named another
+said Manish works as a technical engineer. [@1,4,7,8,12] Questioning also named another
 associate, Amit, who is already jailed in Guwahati, Assam, in a
 ganja-trafficking case. [@1,3,8] Police registered case number 385/26 under sections
 8/20 of the NDPS Act at Sector-58 police station and are investigating the
@@ -177,3 +184,5 @@ Police sent both accused to jail after the arrests. [@9]
 Police said the man worked as a technical engineer at Delhi airport and had ganja brought from Shillong to supply in Noida and the surrounding areas. [@10] The accused was selling ganja in Noida that he had sent for from Shillong. [@10] Preliminary investigation found he was running the ganja-supply work alongside his job. [@10] Police said they were questioning the accused to gather information about other people connected to the network, and were taking further action in the case. [@10]
 
 Police arrested the technical engineer and his associate together on Wednesday night. [@11] Sumit told police he received 200 to 250 rupees for each delivery. [@11] Police said they found no criminal history for either of the two arrested men. [@11] Police said other people were involved in moving ganja from northeastern states to Delhi-NCR and that teams were working to trace them. [@11]
+
+The small packets were allegedly prepared in advance before distribution. [@12] Police are examining the seized mobile phones to identify other people connected to the network. [@12]
