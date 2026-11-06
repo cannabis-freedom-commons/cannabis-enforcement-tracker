@@ -49,6 +49,16 @@ sources:
     url: https://timesofindia.indiatimes.com/city/pune/pune-customs-personnel-seize-hydroponic-weed-worth-rs-3-72-crore-at-airport/articleshow/135585151.cms
     publisher: The Times of India
     date: 2026-11-06
+  - title: सुकामेवा, नुडल्‍सच्‍या पाकिटातून हायड्रोपोनिक गांजाची तस्‍करी; विमान प्रवाशाला बेड्या, १८ नोव्हेंबरपर्यंत न्यायालयीन कोठडी
+    url: https://www.loksatta.com/pune/pune-airport-customs-seizes-hydroponic-ganja-from-bangkoks-passenger-ssb-93-6233076/
+    publisher: Loksatta
+    date: 2026-11-05
+    language: mr
+  - title: 'Pune Crime : सुकामेवा, नुडल्सच्या पाकिटांत हायड्रोपोनिक गांजा; पुणे विमानतळावर पावणेचार कोटींचा अमली साठा जप्त'
+    url: https://pudhari.news/maharashtra/pune/pune-crime-hydroponic-cannabis-seized-pune-airport-dry-fruits-noodles-packets-rg84
+    publisher: Pudhari
+    date: 2026-11-05
+    language: mr
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -56,6 +66,8 @@ open_questions:
   - Identification rests on a field testing kit; laboratory confirmation was not reported.
   - Further investigation into the smuggling network was still under way with no additional arrests reported.
   - The Times of India gives the passenger's age as 45 but still does not publish a name or residence.
+  - Loksatta describes the concealment only as dried-fruit and noodle packets, without the ‘Freeze Dried Monthong Durian’ label or the nine-packet count that the existing report takes from its other sources.
+  - Loksatta does not give the passenger's age or residence, so nothing is added on those points.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
@@ -72,12 +84,12 @@ vacuum-sealed black polythene to mask detection. [@2] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4]
+crore. [@2,4,5]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1] The passenger was arrested and
 produced before a judicial magistrate, who granted him judicial custody till 18
-November. [@2,4] Further investigation is under way to bust the illicit syndicate
+November. [@2,4,6] Further investigation is under way to bust the illicit syndicate
 involved in the smuggling attempt. [@3,4]
 
 The arrested flyer was 45 years old. [@4]
