@@ -97,6 +97,10 @@ sources:
     url: https://punemirror.com/city/pune/noodles-durian-packets-used-to-smuggle-%E2%82%B93-72-crore-hydroponic-weed-through-pune-airport/
     publisher: Pune Mirror
     date: 2026-11-06
+  - title: Pune Customs Seizes 10.6 Kg Hydroponic Weed Worth ₹3.72 Crore At Airport; Bangkok Passenger Arrested
+    url: https://www.mypunepulse.com/pune-customs-seizes-10-6-kg-hydroponic-weed-worth-%E2%82%B93-72-crore-at-airport-bangkok-passenger-arrested/
+    publisher: PUNE PULSE
+    date: 2026-11-06
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -115,12 +119,14 @@ open_questions:
   - It does not say which Customs office filed the case or how the Rs 3.72 crore valuation was calculated beyond describing it as the international market price.
   - The page's images are generic stock photographs, not confirmed pictures of this seizure, so no media entry was added.
   - No other outlet's account of this same seizure was newly opened here; the match rests on the recorded event details and this article alone.
+  - Pune Pulse gives no name, age or residence for the passenger.
+  - Pune Pulse attributes the ₹3.72 crore figure to an estimate without saying how it was calculated.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
 arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12] The passenger had
 arrived on Air India Express flight IX-291 and was stopped after passenger
-profiling and suspicious scanning of his check-in baggage. [@2,3,7,8,12] The interception
+profiling and suspicious scanning of his check-in baggage. [@2,3,7,8,12,13] The interception
 was carried out by officers of the Air Intelligence Unit and the Airport Batch
 of Pune Customs. [@2,3,12]
 
@@ -134,7 +140,7 @@ narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 crore. [@2,4,5,7,8,9,10,11,12]
 
 Customs seized the weed along with its packing materials under the Narcotic
-Drugs and Psychotropic Substances Act, 1985. [@1,8,12] The passenger was arrested and
+Drugs and Psychotropic Substances Act, 1985. [@1,8,12,13] The passenger was arrested and
 produced before a judicial magistrate, who granted him judicial custody till 18
 November. [@2,4,6,8,9,10,11,12] Further investigation is under way to bust the illicit syndicate
 involved in the smuggling attempt. [@3,4]
