@@ -44,6 +44,11 @@ sources:
     publisher: Sarmad
     date: 2026-10-29
     language: ar
+  - title: «المكافحة» «توقيف 5 متهمين بـ 4000 كبسولة و4 كيلو «لاريكا» وأوراق كيميكال مشبعة
+    url: https://www.alanba.com.kw/1383049
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-01
+    language: ar
 open_questions:
   - The ministry gave no date for the arrests themselves; 29 October 2026 is the day it announced them.
   - The ministry announced four separate cases together, so the drug figures are totals for all four rather than for one case.
@@ -52,6 +57,8 @@ open_questions:
   - The same ministry statement reported a security campaign in Jahra governorate and traffic campaigns against delivery riders, separate events left out of this report.
   - 'Neither page carried a photograph that could be confirmed to show the seized items: Al-Rai''s picture is of a government building, and Kuwait Times ran four uncaptioned images beside the drug item.'
   - The Sarmad page displays a main image with an empty caption and alt text, so it cannot be confirmed to show this seizure and no media entry is included.
+  - The Al-Anbaa page was first published on 31 October 2026 and carries a 1 November 2026 date line, so the date of the arrests themselves remains unstated.
+  - Al-Anbaa spells the drug «اللاريكا» where the existing report uses Lyrica; they appear to be the same capsules and powder.
 media:
   - kind: photo
     url: https://alseyassah.com/article/474545/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B6%D8%A8%D8%B7-5-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D9%81%D9%8A-4-%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D9%88%D8%AA%D8%B9%D8%A7%D8%B7/
@@ -62,14 +69,14 @@ media:
 
 Kuwait's General Department for Drug Control arrested five suspects in four
 separate cases involving trafficking in narcotics and psychotropic substances
-and their use, the Interior Ministry said. [@1,3,4] It announced them in a press
+and their use, the Interior Ministry said. [@1,3,4,5] It announced them in a press
 statement on Thursday 29 October 2026. [@1] It said officers detained the five
 in continuing security efforts against drug activity and against those involved
 in it. [@1,3] The ministry referred the suspects and the seized items to the
-competent authorities for the necessary action. [@1,3]
+competent authorities for the necessary action. [@1,3,5]
 
 The only cannabis in the haul was 5 grams of hashish, listed among the seizures
-from the four cases. [@2,3,4] The other seizures were 4,000 capsules of Lyrica,
+from the four cases. [@2,3,4,5] The other seizures were 4,000 capsules of Lyrica,
 which the ministry described as psychotropic, 4 kilograms of Lyrica powder and
 170 grams of shabu (methamphetamine). [@1,3,4] Officers also seized 15 sheets of
 paper soaked in a drug known locally as 'chemical' with 1 gram of the same
