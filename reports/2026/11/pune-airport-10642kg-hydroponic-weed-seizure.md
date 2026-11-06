@@ -38,6 +38,11 @@ media:
     media_url: https://images.mid-day.com/images/images/2026/nov/napps_1793940762394_d.jpg
     publisher: Mid-Day
     caption: 'Hydroponic weed shown after Pune Customs officers opened the packets it was concealed in at Pune airport. Photo: Special arrangement'
+  - kind: photo
+    url: https://www.prahaar.in/2026/11/06/pune-airport-customs-department-seizes-10-6-kg-of-hydroponic-weed-worth-3-72-cr-rupees/
+    media_url: https://www.prahaar.in/rppl/wp-content/uploads/2026/11/Pune-Customs-Seized-Hydroponic-Weed-768x432.jpg
+    publisher: Prahaar
+    caption: 'Photo captioned as the customs operation at Pune airport over the hydroponic ganja smuggled from Bangkok in dragon-fruit packets. Photo: ANI News'
 details:
   environment: [indoor]
 data_sources:
@@ -137,6 +142,11 @@ sources:
     url: https://www.mid-day.com/news/india-news/article/une-customs-bust-novel-drug-smuggling-method-seize-10-6-kg-of-ganja-from-bangkok-passenger-23658759
     publisher: Mid-Day
     date: 2026-11-06
+  - title: 'Pune Airport: पुणे विमानतळावर कस्टम विभागाची मोठी कारवाई, बँकॉकहून ड्रॅगन फ्रूटच्या पॅकेटमध्ये केली जात होती गांजाची तस्करी'
+    url: https://www.prahaar.in/2026/11/06/pune-airport-customs-department-seizes-10-6-kg-of-hydroponic-weed-worth-3-72-cr-rupees/
+    publisher: Prahaar
+    date: 2026-11-06
+    language: mr
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -178,10 +188,14 @@ open_questions:
   - Rediff does not give the flight number, the passenger's age, or the quantity in grams.
   - The Mid-Day article does not mention the nine-packet count, the noodle packets, the vacuum-sealed black polythene layers, the field testing kit result, the nine-hour investigation, or the judicial custody till 18 November recorded in the existing report.
   - Mid-Day gives the concealment as freeze-dried durian packets in check-in baggage but names no charges, court or investigating officer.
+  - Prahaar spells the customs deputy commissioner's name both 'धीरम मोरे' and 'धीरज मोरे' in the same article.
+  - Prahaar describes the packets as dragon-fruit and durian pouches at different points; the labelled 'Monthong Durian' packaging is the same concealment the existing report records.
+  - The article gives no separate date for the interception, arrest or remand hearing; 6 November 2026 is its publication date.
+  - The article gives the weight as 10.642 kg in one place and about 10.6 kg in another.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
-arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18,19,20] The passenger had
+arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18,19,20,21] The passenger had
 arrived on Air India Express flight IX-291 and was stopped after passenger
 profiling and suspicious scanning of his check-in baggage. [@2,3,7,8,12,13,14,15] The interception
 was carried out by officers of the Air Intelligence Unit and the Airport Batch
@@ -189,17 +203,17 @@ of Pune Customs. [@2,3,12,15,20]
 
 Officers searching his check-in trolley bag found nine rectangular,
 silver-coloured packets labelled ‘Freeze Dried Monthong Durian’ hidden among
-noodle packets. [@1,8,11,12,14,15,16,17,18,19] Each packet was further lined with two layers of
+noodle packets. [@1,8,11,12,14,15,16,17,18,19,21] Each packet was further lined with two layers of
 vacuum-sealed black polythene to mask detection. [@2,8,10,11,12] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2,11,12,16,19] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20]
+crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20,21]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1,8,12,13,16,19] The passenger was arrested and
 produced before a judicial magistrate, who granted him judicial custody till 18
-November. [@2,4,6,8,9,10,11,12,14,15,16,18] Further investigation is under way to bust the illicit syndicate
+November. [@2,4,6,8,9,10,11,12,14,15,16,18,21] Further investigation is under way to bust the illicit syndicate
 involved in the smuggling attempt. [@3,4,18]
 
 The arrested flyer was 45 years old. [@4]
@@ -209,3 +223,5 @@ Further investigation is under way to identify and track down the smuggling netw
 The seizure was carried out under the direction of Dheeraj More, Pune Customs' Deputy Commissioner of Police. [@11,14,16]
 
 Following statutory procedures under the NDPS Act, 1985, officers found the contraband hidden among noodle packets and packaged inside nine rectangular silver-coloured packets bearing 'Freeze Dried Monthong Durian' labels. [@2]
+
+The cannabis had a market value of about Rs 35 lakh per kilogram. [@21]
