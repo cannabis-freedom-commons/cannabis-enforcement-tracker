@@ -61,16 +61,23 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-06
     language: tr
+  - title: Konya Çumra'da ikamet aramasında 2 kilo 226 gram esrar bulundu, 1 kişi tutuklandı
+    url: https://www.sondakika.com/3-sayfa/haber-konya-cumra-da-ikamet-aramasinda-2-kilo-226-gram-e-20401938/
+    publisher: Son Dakika
+    date: 2026-11-06
+    language: tr
 open_questions:
   - The sources give no separate date for the search or the remand hearing; 6 November 2026 is the shared publication date and is used as the incident date.
   - No street value, packaging or weight breakdown of the cannabis was published.
   - The suspect was not named, and no age, personal details or criminal record was reported.
   - Only a pretrial remand is recorded; no indictment, trial date or court sentence has been reported.
   - The Hürriyet account is bylined to the Demirören news agency and the İhlas text is repeated by Habertürk, so the outlets restate police or agency accounts rather than independent reporting.
+  - The Son Dakika page is a reprint of the İhlas Haber Ajansı text already cited by the existing report, not independent reporting.
+  - Its single photo repeats the police display of the cannabis, scale and pistol already linked from Konhaber, so no second media entry was added.
 ---
 
 Police in Çumra district of Konya detained a suspect and found 2 kg 226 g of
-esrar, the Turkish name for cannabis, during a search of a residence. [@1] The
+esrar, the Turkish name for cannabis, during a search of a residence. [@1,4] The
 police said one suspect was detained, that he was referred to the judicial
 authorities on the offence of drug trafficking, and that the court remanded him
 in custody and sent him to prison. [@1]
@@ -88,4 +95,3 @@ same seizure total and the same custody outcome, saying the suspect was sent to
 prison. [@3] In Turkey the offence of drug trafficking carries a prison sentence
 set by a court, and this remand in custody is a pretrial measure, not a final
 sentence. [@1]
-
