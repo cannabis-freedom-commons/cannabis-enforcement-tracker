@@ -56,6 +56,11 @@ sources:
     publisher: RRI.co.id
     date: 2026-11-05
     language: id
+  - title: Polres Lhokseumawe Sita 40 Kg Ganja, 216 Gram Sabu dan 41 Vape dari 6 Kasus Narkotika
+    url: https://rri.co.id/lhokseumawe/hukum/kriminalitas/2875146/polres-lhokseumawe-sita-40-kg-ganja-216-gram-sabu-dan-41-vape-dari-6-kasus-narkotika
+    publisher: RRI.co.id
+    date: 2026-11-06
+    language: id
 open_questions:
   - RRI and earlier reporting list four people detained in the 27 October Sawang phase with one later released, while this press conference says only three suspects were held there.
   - The submitted page spells the sites Alue Garot and Alue Ie Mudek, differing from Cot Mancang, Alue Garot and Alue Le Mudek in other accounts.
@@ -67,16 +72,16 @@ open_questions:
 
 Lhokseumawe police presented nine detainees and about 40.3 kilograms of dried
 cannabis at a press conference at the Lhokseumawe police headquarters on 5
-November 2026. [@1] The nine detainees were eight men and one woman, held over
+November 2026. [@1,3] The nine detainees were eight men and one woman, held over
 narcotics cases spread across Banda Sakti, Muara Dua and Sawang district. [@1]
 
 Two ganja cases accounted for 40,312.128 grams of dried cannabis, the only
-cannabis weight the press conference reported. [@1] On 27 October 2026 officers
+cannabis weight the press conference reported. [@1,3] On 27 October 2026 officers
 found a cannabis field of 18 hectares in Desa Teupin Rusep, Sawang, North Aceh,
 and detained three suspects who were still being questioned about their
 involvement. [@1] Between 30 and 31 October 2026 officers found three more
 cannabis sites at Dusun Alue Garot, Dusun Alue Ie Mudek and Desa Teupin Rusep in
-Sawang with a combined area of about 25 hectares. [@1] No one had been
+Sawang with a combined area of about 25 hectares. [@1,3] No one had been
 identified for the three late-October sites, which police said were still under
 investigation. [@1] RRI put the cannabis fields found in the series of
 disclosures at about 43 hectares in total. [@2] RRI reported that the 27 October
@@ -90,3 +95,4 @@ Police applied Articles 111, 112, 114, 117 and 119 of Narcotics Law Number 35 of
 [@2] The Lhokseumawe police chief, AKBP Ahzan, said the crackdown showed police
 would give no room to people damaging the younger generation through drugs. [@1]
 
+The three suspects held after the 27 October find in Desa Teupin Rusep, Sawang, were still being questioned about their involvement. [@3]
