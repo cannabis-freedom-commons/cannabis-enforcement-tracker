@@ -147,6 +147,7 @@ open_questions:
   - The page displays one main photo without a caption or credit identifying its content, so no media entry is added for this source.
   - This account dates the public tip that started the operation to Thursday 29 October 2026, while the report follows a 26 October tip with a 29 October follow-up check from other outlets; 31 October 2026 as the destruction date is not in dispute.
   - The page displays a photo captioned only as the five-hectare eradication in Madina without a credit or alt text establishing it as a distinct image rather than a republished agency handout already covered, so no media entry is listed for this source.
+  - The article names no suspect, arrest or charge over the Tor Sihite plots.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -388,6 +389,11 @@ sources:
     publisher: Radarindo
     date: 2026-11-05
     language: id
+  - title: Ladang Ganja Seluas 5 Hektare Terbongkar di Madina, Poldasu Musnahkan 150.000 Batang
+    url: https://asarpua.com/ladang-ganja-seluas-5-hektare-terbongkar-di-madina-poldasu-musnahkan-150-000-batang/
+    publisher: asarpua.com
+    date: 2026-11-06
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -480,7 +486,7 @@ Tampubolon said each cannabis plant found at the site weighed almost 2 ons, abou
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7,23] He said the huts around the plots were empty when officers arrived. [@7]
 
-The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33,34,35,36,37,39,40,41,42,44,46,48] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26,43] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
+The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33,34,35,36,37,39,40,41,42,44,46,48,49] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26,43] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
 
 North Sumatra police drug director Kombes Pol Andy Arisandi led the operation with BNN North Sumatra enforcement and intelligence head Kombes Pol Josua Tampubolon; among the units taking part were the army's Kotanopan subdistrict command (Koramil 14 Kotanopan), the Madina public order agency (Satpol PP) and forest police (Polhut). [@10] BNN North Sumatra said it would keep investigating for other cannabis fields in the area. [@10,21]
 
@@ -505,3 +511,5 @@ Police said the 31 October destruction was part of Operasi Gakkum Narkoba 2026. 
 In this account the operation followed a follow-up by the Mandailing Natal police drug unit, the Polres Mandailing Natal narcotics unit, which first coordinated with the provincial police drug directorate before the joint team was assembled with BNN and other agencies. [@43,48] North Sumatra police public relations chief Kombes Pol. Ferry Walintukan said the force's commitment was to fight drugs "from upstream to downstream", cutting production sources and the networks behind them rather than only circulating supplies. [@43]
 
 Officers who swept the field found no one they suspected of owning or managing it. [@47,48]
+
+At provincial police headquarters on 5 November 2026, provincial police public relations chief Kombes Pol. Ferry Walintukan said the force was ordered to leave no room for drug trafficking in North Sumatra, including crackdowns on any planting, production or distribution of drugs. [@49]
