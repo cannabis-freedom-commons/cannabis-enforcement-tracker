@@ -57,12 +57,17 @@ sources:
     publisher: ADI News
     date: 2026-10-22
     language: fr
+  - title: 'Douane : Saisie à Galafi de 4,7 kg de cannabis'
+    url: https://www.adi.dj/public/article/139023
+    publisher: ADI News
+    date: 2026-10-22
+    language: fr
 ---
 
 Customs officers at the Galafi border post found 4.7 kg of cannabis hidden in four pillows during a
-routine check on 22 October 2026. [@1,2] The vehicle was registered in Djibouti but had come from
-Ethiopia, and its passengers' luggage was searched. [@1,2]
+routine check on 22 October 2026. [@1,2,3] The vehicle was registered in Djibouti but had come from
+Ethiopia, and its passengers' luggage was searched. [@1,2,3]
 
-The officers became suspicious of four thick, firm pillows stacked together. [@1,2] Opening the first,
-they found a plastic bag containing cannabis; the other three held the same. [@1,2] The statement gave
+The officers became suspicious of four thick, firm pillows stacked together. [@1,2,3] Opening the first,
+they found a plastic bag containing cannabis; the other three held the same. [@1,2,3] The statement gave
 no street value for the drug and named no arrests. [@1]
