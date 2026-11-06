@@ -35,22 +35,27 @@ sources:
     url: https://mynewsla.com/crime/2026/10/10/employee-killed-in-shootout-at-florence-graham-pot-shop-idd/
     publisher: MyNewsLA
     date: 2026-10-10
+  - title: Employee Killed In Shootout At Los Angeles Area Pot Shop ID'd
+    url: https://patch.com/california/los-angeles/employee-killed-shootout-los-angeles-area-pot-shop-idd
+    publisher: Los Angeles, CA Patch
+    date: 2026-10-12
 open_questions:
   - Both opened reports are from MyNewsLA; no second outlet's account was found.
   - No suspects had been identified or arrested in these reports.
   - The reports do not say whether anything was taken from the dispensary or what motivated the attack.
+  - The submitted page carries only a stock Shutterstock illustration, not a photo of the event, so no event media can be added.
 ---
 
 Two armed suspects entered a marijuana dispensary in the 2000 block of Nadeau
 Street in Florence-Graham, an unincorporated area near South Los Angeles, at
 about 7:30 p.m. on Thursday 8 October 2026 and exchanged gunfire with an
 employee. [@1] A witness fled to the back of the building while the victim
-confronted the suspects, who fled after the exchange. [@1,2] Fire department
+confronted the suspects, who fled after the exchange. [@1,2,3] Fire department
 personnel pronounced the victim dead at the scene, and Nadeau Street was closed
 off while deputies investigated. [@1,2]
 
 The victim was identified on 10 October as 33-year-old Martin Gudines, whose
 city of residence was not given, according to the county Medical Examiner's
-office. [@2] Sheriff's homicide detectives investigated the shooting as a
+office. [@2,3] Sheriff's homicide detectives investigated the shooting as a
 homicide. [@1] Anyone with information was asked to contact the sheriff's
-Homicide Bureau. [@1,2]
+Homicide Bureau. [@1,2,3]
