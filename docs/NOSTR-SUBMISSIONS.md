@@ -675,8 +675,15 @@ sentence gains the new source in its citation, and genuinely new details become 
 The rest of the report (title, prose, figures, status) stays as written. If the
 report already cites the sources, the submission ends as `duplicate`.
 
-Both `additional_source` and `existing_case` use the same sentence merge. Research receives the
-original Markdown files under `existing-reports/<slug>.md`, alongside the compact coverage index.
+Both `additional_source` and `existing_case` use the same sentence merge. With the local runner,
+research looks existing reports up through the tracker tool server (the same loopback MCP endpoint
+as `check_result`): `find_reports` returns a short ranked list, first the reports the result check
+will require it to compare (the same event-identity matcher), then other matches by rare shared
+words, place and date; `get_report` returns one report's original Markdown. Both read the job's
+snapshot, so no copy of the index or the reports goes into the job input. The container runner,
+which has no tool server, still receives `reports-index.jsonl` and `existing-reports/<slug>.md`.
+Job workspaces clone history with `--shared --no-checkout` and copy the site inputs as
+copy-on-write clones where the file system has them (APFS), so a job takes a few megabytes.
 A corroborating fact either copies the existing sentence into `text`, or names it in
 `existing_text`; line wrapping is ignored, and the original wording stays. A genuinely new fact
 must set `new_detail: true`. An unmatched, unmarked paraphrase is rejected rather than appended

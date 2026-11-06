@@ -40,7 +40,7 @@ type checkServer struct {
 	srv        *http.Server
 }
 
-func startCheckServer(check CheckFunc) (*checkServer, error) {
+func startCheckServer(check CheckFunc, lookup *reportLookup) (*checkServer, error) {
 	ln, err := net.Listen("tcp", "127.0.0.1:0")
 	if err != nil {
 		return nil, err
@@ -51,7 +51,7 @@ func startCheckServer(check CheckFunc) (*checkServer, error) {
 		return nil, err
 	}
 	s := &checkServer{URL: "http://" + ln.Addr().String() + "/mcp", Token: hex.EncodeToString(token)}
-	s.srv = &http.Server{Handler: http.HandlerFunc(func(w http.ResponseWriter, req *http.Request) { s.serve(w, req, check) }), ReadHeaderTimeout: 10 * time.Second}
+	s.srv = &http.Server{Handler: http.HandlerFunc(func(w http.ResponseWriter, req *http.Request) { s.serve(w, req, check, lookup) }), ReadHeaderTimeout: 10 * time.Second}
 	go func() { _ = s.srv.Serve(ln) }()
 	return s, nil
 }
@@ -72,7 +72,7 @@ type rpcRequest struct {
 	Params  json.RawMessage `json:"params,omitempty"`
 }
 
-func (s *checkServer) serve(w http.ResponseWriter, req *http.Request, check CheckFunc) {
+func (s *checkServer) serve(w http.ResponseWriter, req *http.Request, check CheckFunc, lookup *reportLookup) {
 	got := strings.TrimPrefix(req.Header.Get("Authorization"), "Bearer ")
 	if subtle.ConstantTimeCompare([]byte(got), []byte(s.Token)) != 1 {
 		http.Error(w, "unauthorized", http.StatusUnauthorized)
@@ -119,24 +119,46 @@ func (s *checkServer) serve(w http.ResponseWriter, req *http.Request, check Chec
 	case "ping":
 		writeRPC(w, message.ID, map[string]any{}, nil)
 	case "tools/list":
-		writeRPC(w, message.ID, map[string]any{"tools": []any{map[string]any{
+		tools := []any{map[string]any{
 			"name": "check_result", "description": checkToolDescription,
 			"inputSchema": map[string]any{"type": "object", "properties": map[string]any{"result": map[string]any{"type": "object", "description": "The complete proposed final JSON result."}}, "required": []string{"result"}},
-		}}}, nil)
+		}}
+		if lookup != nil {
+			tools = append(tools,
+				map[string]any{"name": "find_reports", "description": findReportsDescription, "inputSchema": findReportsSchema},
+				map[string]any{"name": "get_report", "description": getReportDescription, "inputSchema": getReportSchema})
+		}
+		writeRPC(w, message.ID, map[string]any{"tools": tools}, nil)
 	case "tools/call":
 		var params struct {
-			Name      string `json:"name"`
-			Arguments struct {
-				Result json.RawMessage `json:"result"`
-			} `json:"arguments"`
+			Name      string          `json:"name"`
+			Arguments json.RawMessage `json:"arguments"`
 		}
-		if err = json.Unmarshal(message.Params, &params); err != nil || params.Name != "check_result" {
+		if err = json.Unmarshal(message.Params, &params); err != nil {
 			writeRPC(w, message.ID, nil, &rpcError{Code: -32602, Message: "unknown tool or invalid arguments"})
 			return
 		}
-		ctx, cancel := context.WithTimeout(req.Context(), time.Minute)
-		defer cancel()
-		text := runCheck(ctx, params.Arguments.Result, check)
+		var text string
+		switch {
+		case params.Name == "check_result":
+			var args struct {
+				Result json.RawMessage `json:"result"`
+			}
+			if err = json.Unmarshal(params.Arguments, &args); err != nil {
+				writeRPC(w, message.ID, nil, &rpcError{Code: -32602, Message: "unknown tool or invalid arguments"})
+				return
+			}
+			ctx, cancel := context.WithTimeout(req.Context(), time.Minute)
+			defer cancel()
+			text = runCheck(ctx, args.Result, check)
+		case params.Name == "find_reports" && lookup != nil:
+			text = lookup.find(params.Arguments)
+		case params.Name == "get_report" && lookup != nil:
+			text = lookup.get(params.Arguments)
+		default:
+			writeRPC(w, message.ID, nil, &rpcError{Code: -32602, Message: "unknown tool or invalid arguments"})
+			return
+		}
 		writeRPC(w, message.ID, map[string]any{"content": []any{map[string]string{"type": "text", "text": text}}, "isError": false}, nil)
 	default:
 		writeRPC(w, message.ID, nil, &rpcError{Code: -32601, Message: "method not found"})
@@ -261,7 +283,9 @@ func allowLegacyCheckTool(input string) error {
 	if !ok {
 		return errors.New("research agent permissions are missing")
 	}
-	permissions[CheckToolName+"_check_result"] = "allow"
+	for _, tool := range []string{"check_result", "find_reports", "get_report"} {
+		permissions[CheckToolName+"_"+tool] = "allow"
+	}
 	encoded, err := yaml.Marshal(header)
 	if err != nil {
 		return err

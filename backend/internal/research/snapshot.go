@@ -56,17 +56,26 @@ func snapshotSite(ctx context.Context, repo, dir string) error {
 				return errors.New("site snapshot directory is a symlink")
 			}
 		}
-		data, e := os.ReadFile(source)
-		if e != nil {
-			return e
-		}
 		target := filepath.Join(dir, path)
 		if e = os.MkdirAll(filepath.Dir(target), 0755); e != nil {
 			return e
 		}
-		if e = os.WriteFile(target, data, info.Mode().Perm()); e != nil {
+		if e = copyFile(source, target, info.Mode().Perm()); e != nil {
 			return e
 		}
 	}
 	return nil
+}
+
+// copyFile copies one regular file: a copy-on-write clone where the file system has them (APFS),
+// which takes no space until either side changes, otherwise its bytes.
+func copyFile(source, target string, perm os.FileMode) error {
+	if cloneFile(source, target) == nil {
+		return os.Chmod(target, perm)
+	}
+	data, err := os.ReadFile(source)
+	if err != nil {
+		return err
+	}
+	return os.WriteFile(target, data, perm)
 }

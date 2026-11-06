@@ -23,6 +23,8 @@ type ReportIndex struct {
 	Summary string         `json:"summary,omitempty"`
 	Place   string         `json:"place,omitempty"`
 	Figures map[string]any `json:"figures,omitempty"`
+	Type    string         `json:"type,omitempty"`
+	Tags    []string       `json:"tags,omitempty"`
 	Names   []string       `json:"names,omitempty" yaml:"-"`
 	CaseIDs []string       `json:"case_ids,omitempty" yaml:"-"`
 	Digest  string         `json:"-" yaml:"-"`

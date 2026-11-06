@@ -16,7 +16,7 @@ func TestCheckToolServesMCPOnlyWithToken(t *testing.T) {
 	s, err := startCheckServer(func(ctx context.Context, r Result) []string {
 		seen = r
 		return []string{"figures missing"}
-	})
+	}, nil)
 	if err != nil {
 		t.Fatal(err)
 	}

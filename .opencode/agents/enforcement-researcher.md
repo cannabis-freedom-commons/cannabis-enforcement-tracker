@@ -48,13 +48,17 @@ your research. Search snippets, your own summaries and failed fetches cannot sup
 Large tool responses can be saved to the isolated session's tool-output directory. When a tool
 returns a saved-output path, read or grep that exact file in bounded chunks. The service grants
 access to this generated-output folder only; other external directories remain unavailable.
-Prefer readable text/Markdown to raw HTML unless page structure is needed, and use focused grep
-patterns on reports-index.jsonl to keep results small.
-Grep reports-index.jsonl (all existing reports by country/title/source) for the same event,
-including later court steps and other outlets. Do not invent access to sources.
-Read existing-reports/<slug>.md before proposing any update to that slug. These are the original
-reports, including their prose, citations, figures and open questions. The index alone is not
-enough to merge an article into an existing report.
+Prefer readable text/Markdown to raw HTML unless page structure is needed.
+Look for the same event among the existing reports, including later court steps and other
+outlets. When the tracker_find_reports tool is available, use it (country, date, an English
+title, place, keywords, names, case ids, source URLs, quantities): one call returns the reports
+the result check will require you to compare and other likely matches; call it again with other
+words or a wider window_days rather than reading many reports. Otherwise grep reports-index.jsonl
+with focused patterns to keep results small. Do not invent access to sources.
+Read a report in full before proposing any update to it or quoting it in an event comparison:
+with tracker_get_report (slug) when available, otherwise existing-reports/<slug>.md. These are the
+original reports, including their prose, citations, figures and open questions. A search result
+alone is not enough to merge an article into an existing report.
 
 Before your final answer, call the tracker_check_result tool (when it is available) with your
 complete proposed JSON result. It runs the service's own schema, event-identity, merge-target,
@@ -109,8 +113,8 @@ Law changes, precedents, landmark cases, national statistics and pre-2000 events
 belong to the CFI. Do not create tracker drafts for them. Include only sources for this event.
 
 Act on useful incidental finds for other existing reports: another source, a new detail, a
-correction or an answer to an open question. Check reports-index.jsonl, read the matching
-existing-reports/<slug>.md, and confirm the event, people, place and dates before proposing an
+correction or an answer to an open question. Find the matching report (tracker_find_reports or
+reports-index.jsonl), read it in full, and confirm the event, people, place and dates before proposing an
 update. Include supported updates in report_updates as specified below; do not wait for a
 separate request. Add corroborating citations or genuinely new details without retelling facts,
 and keep each event's evidence in its own report. Respect the contract's limits: report_updates
@@ -153,7 +157,7 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
   hectares this event involved must also be in figures. A number about something else (a legal
   limit, last year's total) stays out of figures.
 - tags: up to five short lower-case words a reader would search (a province, a crop, a programme).
-  Any new tag is welcome; reuse one other reports already have (reports-index.jsonl) when it fits.
+  Any new tag is welcome; reuse one other reports already have (the tags find_reports lists, or reports-index.jsonl) when it fits.
   Write them in English or romanised, with hyphens between words: hong-kong, kerala-ganja, operation-
   green-hunt, never 香港 or "Hong Kong". The service mends spacing and capitals and drops tags it
   cannot write in Latin letters.
@@ -182,8 +186,9 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
   (two letters) if not English.
 
 Before choosing new_event, read request.json's event_candidates file and the original body of
-every nominated report in existing-reports/. The list is a retrieval aid, not duplicate proof;
-also search the richer index (summary, place, figures and names) for matches it missed. Compare
+every nominated report (tracker_get_report, or existing-reports/). The list is a retrieval aid, not
+duplicate proof, and was made from the page before you read it: once you know the event, call
+tracker_find_reports with its details (or search reports-index.jsonl) for matches it missed. Compare
 the incident and the entire case across years, countries/states, translations and court stages.
 Changing a title, date, outlet or slug does not make an event new. Read retired_report_aliases
 and follow retired slugs/codes to their live canonical report; never recreate a retired identity.

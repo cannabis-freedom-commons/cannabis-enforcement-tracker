@@ -55,7 +55,7 @@ func TestLiveAgentUsesCheckTool(t *testing.T) {
 			return []string{"explanation must mention the word banana"}
 		}
 		return nil
-	})
+	}, nil)
 	if err != nil {
 		t.Fatal(err)
 	}

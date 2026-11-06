@@ -857,7 +857,10 @@ func (r Runner) Snapshot(ctx context.Context, cid string) (string, error) {
 	if err != nil {
 		return "", err
 	}
-	cmd := exec.CommandContext(ctx, "git", "clone", "--no-hardlinks", "--local", "--", repo, dir)
+	// History only, for the addition times of reports (added_at.go): the objects stay in the
+	// repository (--shared) and the files come from snapshotSite, so a job costs megabytes, not a
+	// full copy of the repository. Nothing commits in a workspace.
+	cmd := exec.CommandContext(ctx, "git", "clone", "--shared", "--no-checkout", "--quiet", "--", repo, dir)
 	if err = cmd.Run(); err != nil {
 		return "", errors.New("isolated checkout failed")
 	}
@@ -1117,12 +1120,23 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 	// page inside one JSON line reached the model cut off. source.txt is the readable text (what
 	// quotations are checked against, besides the markup), source.html the markup for details.
 	text := e.ReadableText()
-	request := map[string]any{"case_id": cid, "url": e.URL, "final_url": e.FinalURL, "existing_reports_index": "reports-index.jsonl", "initial_source_unavailable": e.Content == "", "example_reports": "examples/"}
+	// With the tracker tool server (local runner), existing reports are looked up through its
+	// find_reports and get_report tools; otherwise the index and every report go in as files.
+	lookupTools := r.Config.ResearchRunner == "local" && r.ResultCheck != nil
+	request := map[string]any{"case_id": cid, "url": e.URL, "final_url": e.FinalURL, "initial_source_unavailable": e.Content == "", "example_reports": "examples/"}
+	if lookupTools {
+		request["existing_reports"] = "Use the tracker_find_reports and tracker_get_report tools; the reports are not files here."
+	} else {
+		request["existing_reports_index"] = "reports-index.jsonl"
+	}
 	if e.ArchiveURL != "" {
 		request["archive_url"] = e.ArchiveURL
 		request["archive_timestamp"] = e.ArchivedAt
 	}
-	files := map[string][]byte{"reports-index.jsonl": []byte(index.String())}
+	files := map[string][]byte{}
+	if !lookupTools {
+		files["reports-index.jsonl"] = []byte(index.String())
+	}
 	var identityReports []ReportIndex
 	if err = json.Unmarshal(coverage, &identityReports); err != nil {
 		return Result{}, nil, err
@@ -1164,14 +1178,16 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 	}
 	// The model needs the actual prose to merge another outlet's account without
 	// paraphrasing the same facts into a second copy of the report.
-	reportFiles, err := existingReportFiles(dir)
-	if err != nil {
-		return Result{}, nil, err
+	if !lookupTools {
+		reportFiles, err := existingReportFiles(dir)
+		if err != nil {
+			return Result{}, nil, err
+		}
+		for name, content := range reportFiles {
+			files[name] = content
+		}
+		request["existing_reports_dir"] = "existing-reports/"
 	}
-	for name, content := range reportFiles {
-		files[name] = content
-	}
-	request["existing_reports_dir"] = "existing-reports/"
 	// the article's photos the capture kept, with caption and credit: candidates for media links
 	if e.Metadata != nil && len(e.Metadata.Images) > 0 {
 		var images []map[string]string
@@ -1280,7 +1296,7 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 func (r Runner) invoke(ctx context.Context, cid, dir, run string, adapt func(*exec.Cmd) *exec.Cmd, resumed bool) (Result, *Session, error) {
 	local := r.Config.ResearchRunner == "local"
 	if local && r.ResultCheck != nil {
-		tool, err := startCheckServer(r.ResultCheck)
+		tool, err := startCheckServer(r.ResultCheck, newReportLookup(dir))
 		if err != nil {
 			r.abandon(cid, run)
 			return Result{}, nil, err
