@@ -97,6 +97,11 @@ sources:
     publisher: Смартпресс
     date: 2026-10-15
     language: ru
+  - title: Российского рэпера Navai выпустили из СИЗО и выдворили из Казахстана. Дело о контрабанде наркотиков прекращено — Meduza
+    url: https://meduza.io/news/2026/10/20/repera-navai-vypustili-iz-sizo-i-vydvorili-iz-kazahstana-delo-o-kontrabande-narkotikov-prekrascheno
+    publisher: Meduza
+    date: 2026-10-20
+    language: ru
 open_questions:
   - The 2.5 g marijuana description and weight come from secondary reporting and were not part of the published Zhambyl police statement, which spoke only of an unspecified narcotic substance.
   - An additional allegation that about 10 g of substance was found with the manager does not identify the substance as cannabis and is excluded from cannabis figures.
@@ -131,6 +136,9 @@ open_questions:
   - RIA reports Baza's 2.5 g marijuana estimate for Navai's car and separately mentions about 10 g of an unspecified substance with his manager; this differs from the existing report's wording that places 10 g of marijuana in the car, and the manager's substance cannot be counted as cannabis.
   - 'Left out, as its quotation was not found in Tengrinews.kz: Kyrgyzstan''s border service was checking the circumstances of Navai''s border crossing while he had drugs with him.'
   - 'Left out, as its quotation was not found in РИА Новости: Baza''s account put the amount of marijuana reported in Navai''s car at 2.5 g.'
+  - The submitted article dates the detention to 14 October, while the existing report dates the interception to 13 October with reporting on 14 October.
+  - The submitted article attributes 10 grams of marijuana to Baza and separately mentions 2.5 grams of unspecified drugs in other sources, while the existing report records 2.5 g of marijuana as the cannabis figure and treats the 10 g account as disputed.
+  - The submitted article does not state the non-rehabilitating grounds or first-offence basis in those terms; it cites active remorse and prosecution approval for the case termination.
 ---
 
 Police and border guards detained Russian rapper Navai, real name Navai Bakirov,
@@ -151,18 +159,18 @@ reasons. [@1,3,4,5,7,11,15] His mother told Izvestia she did not believe in his 
 drug trafficking and suggested the discovered substance could have been planted.
 [@2]
 
-Baza, citing checkpoint staff, claimed that 10 grams of marijuana were found in Navai's car, in which his manager and driver were travelling with him. [@3,8]
+Baza, citing checkpoint staff, claimed that 10 grams of marijuana were found in Navai's car, in which his manager and driver were travelling with him. [@3,8,16]
 
 A service dog named Atlas discovered the banned substances. [@4,11] The marijuana was found in the pocket of the driver's seat of the car in which the rapper was travelling. [@4,9,11] A case was opened under Article 286 of Kazakhstan's Criminal Code, which provides for a fine, corrective labour, restriction or imprisonment for up to five years, with or without confiscation of property. [@4] The day before, the rapper had been in Tashkent before travelling to a concert in Astana. [@4]
 
-The Korday district court ordered Navai held in custody for two months. [@5,8,15] Telegram channels reported that the Korday district court sanctioned holding Navai in custody for two months. [@6] A criminal case was opened against him on charges of smuggling and unlawful transportation of narcotics without intent to sell. [@5,11]
+The Korday district court ordered Navai held in custody for two months. [@5,8,15,16] Telegram channels reported that the Korday district court sanctioned holding Navai in custody for two months. [@6] A criminal case was opened against him on charges of smuggling and unlawful transportation of narcotics without intent to sell. [@5,11]
 
 Journalist Mikhail Kozachkov wrote on Telegram that 2.5 g of marijuana was found in the car after a service dog reacted to it. [@7,10,11,15] Two other people were travelling with the rapper, and investigators were establishing who owned the substances. [@7,10] The organiser said spectators would receive refunds for the cancelled Astana concert. [@7,11] His tour ran from 9 July to 16 October across Russia, Uzbekistan, Kyrgyzstan, Kazakhstan and Moldova, with the last concert on 12 October in Bishkek before the planned Astana and Chisinau shows. [@7]
 
-On questioning, the rapper admitted that he had bought the drugs in Bishkek. [@8,9,15] Kyrgyzstan's border service started an internal inquiry into the circumstances of the border-control passage after Navai's detention with drugs after crossing the border. [@8]
+On questioning, the rapper admitted that he had bought the drugs in Bishkek. [@8,9,15,16] Kyrgyzstan's border service started an internal inquiry into the circumstances of the border-control passage after Navai's detention with drugs after crossing the border. [@8]
 
 The two men who were accompanying the singer in the car were later released. [@11] Navai's mother, Ainur Bakirova, said she believed her son would soon be released and suggested he might have been set up. [@11] Bakirova said security staff told her the matter was settled, he would be released and would pay a fine. [@11] The artist's director Rauf Gusanov declined to comment, and his former partner Anastasia Mironova said she knew nothing about the case and had stopped communicating with him. [@11]
 
-On 20 October, police said Bakirov had been expelled from Kazakhstan and his criminal case had been closed on non-rehabilitating grounds, citing a first offence and active remorse. [@14]
+On 20 October, police said Bakirov had been expelled from Kazakhstan and his criminal case had been closed on non-rehabilitating grounds, citing a first offence and active remorse. [@14,16]
 
 The Chisinau concert scheduled for 16 October was postponed to 8 December. [@15]
