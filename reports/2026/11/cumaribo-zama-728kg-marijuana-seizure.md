@@ -55,6 +55,11 @@ media:
     media_url: https://imagenes2.eltiempo.com/files/image_600_455/uploads/2026/11/05/6aed140fbc204.jpeg
     publisher: El Tiempo
     caption: 'Photo of the seized drugs. Photo: Cortesía'
+  - kind: photo
+    url: https://724noticias.com.co/2026/11/05/armada-incauta-728-kilos-marihuana-rio-orinoco-vichada-segunda-marquetalia/
+    media_url: https://i0.wp.com/724noticias.com.co/wp-content/uploads/2026/11/ARC.FOTO_.-INTERCEPTADO-CARGAMENTO-DE-MARIHUANA-EN-LA-FRONTERA-CON-VENEZUELA-10-e1793921798702.jpeg?resize=1060%2C706&ssl=1
+    publisher: 724 Noticias
+    caption: 'Photo of the marijuana load intercepted on the Orinoco at Zama, Vichada. Photo: ARC (Colombian Navy)'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 08c233c45b7d73615e8c8ed4679cad4d
@@ -70,16 +75,23 @@ sources:
     publisher: Infobae
     date: 2026-11-05
     language: es
+  - title: 'Golpe al narcotráfico en Vichada: 728 kg de marihuana iban para Venezuela'
+    url: https://724noticias.com.co/2026/11/05/armada-incauta-728-kilos-marihuana-rio-orinoco-vichada-segunda-marquetalia/
+    publisher: 724 Noticias
+    date: 2026-11-05
+    language: es
 open_questions:
   - The reports give only the 5 November 2026 announcement date with no separate interception date, so 5 November is used as the incident date.
   - The two detainees were not named and no charges or court outcome were reported.
   - The reports mention several packages in the double bottom but give no package count.
   - The 7.6 million dollar figure and the 120,000-dose estimate are the Navy's estimates.
+  - The image file name attributes the photo to the ARC, the Colombian Navy, but the page carries no visible caption or credit for it.
+  - The Navy's 7.6 million dollar valuation is an official estimate of income prevented, not a market figure independently checked.
 ---
 
 Navy units located and intercepted a boat at the hamlet of Zama in Cumaribo,
-Vichada. [@1] Two crew members aboard were captured, a Colombian man and a
-Venezuelan woman. [@1] Marine Infantry Brigade No. 5 and Riverine Battalion No.
+Vichada. [@1,3] Two crew members aboard were captured, a Colombian man and a
+Venezuelan woman. [@1,3] Marine Infantry Brigade No. 5 and Riverine Battalion No.
 50 detected the boat in a joint operation with the Army, the Air Force and the
 National Police. [@2] The two detainees were placed at the disposal of the
 judicial authorities to define their legal situation. [@2]
@@ -88,15 +100,16 @@ Inspectors found packages with characteristics of illicit substances hidden in a
 double bottom fitted inside the boat. [@1] The boat, its occupants and the
 seized material were taken to El Coco in Inírida, Guainía, where Technical
 Investigation Corps officers confirmed through preliminary identification
-testing that it was marijuana. [@1] The final weighing gave 728.2 kilograms of
-marijuana seized by the Navy on the Orinoco River in Vichada. [@1] The Navy said
+testing that it was marijuana. [@1,3] The final weighing gave 728.2 kilograms of
+marijuana seized by the Navy on the Orinoco River in Vichada. [@1,3] The Navy said
 the operation prevented about 7.6 million dollars in income to drug trafficking
 groups and the distribution of more than 120,000 doses of marijuana. [@1]
 
 Intelligence linked the load presumptively to the illicit finances of residual
-organized armed group structure 53 Edison Umaña of the Segunda Marquetalia. [@1]
+organized armed group structure 53 Edison Umaña of the Segunda Marquetalia. [@1,3]
 The load was bound first for Venezuela, where trafficking networks would use
 clandestine airstrips to move it onward to Central America and the United
-States. [@1] The Navy said rivers like the Orinoco let illegal groups move loads
+States. [@1,3] The Navy said rivers like the Orinoco let illegal groups move loads
 in hard-to-reach areas near the border. [@2]
 
+The interception at Zama was carried out jointly by the Navy, the Army, the Air Force and the National Police, which captured the two crew members. [@3]
