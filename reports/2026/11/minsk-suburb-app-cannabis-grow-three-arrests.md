@@ -70,7 +70,7 @@ open_questions:
 
 Drug-control officers of Minsk's Zavodsky district police department detained
 three young men aged 22 to 27 in a suburb of the capital. [@1,2] Those detained
-were a Minsk resident, a Grodno resident and a resident of Gomel Region. [@1]
+were a Minsk resident, a Grodno resident and a resident of Gomel Region. [@1,2]
 The men had rented a house in the suburb to use as a drug plantation. [@1] The
 detention was reported through the Minsk police Telegram channel Militsiya
 Minska. [@1]
