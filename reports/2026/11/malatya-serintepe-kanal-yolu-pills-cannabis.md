@@ -60,6 +60,11 @@ sources:
     publisher: DHA
     date: 2026-11-06
     language: tr
+  - title: Malatya'da uyuşturucu operasyonunda 3 şüpheli yakalandı
+    url: https://www.hurriyet.com.tr/yerel-haberler/malatya/malatyada-uyusturucu-operasyonunda-3-supheli-y-43367115
+    publisher: Hürriyet (Anadolu Agency)
+    date: 2026-11-05
+    language: tr
 open_questions:
   - Neither account says which unit carried out the checks or where exactly on the road the suspects were stopped.
   - The suspects are described only as three people; no names, ages, or the charges they face were published.
@@ -72,6 +77,8 @@ open_questions:
   - The submitted page carries an image without caption or credit, so it cannot be confirmed to show this event and is not listed as media.
   - The submitted page gives no separate incident date; 5 November 2026 is its publication date, while the existing report dates the checks to 4 November 2026.
   - The new accounts describe the seizure as coming from a vehicle stopped after surveillance, while the existing accounts place the checks along Kanal Yolu; whether the vehicle was stopped on that road is unclear.
+  - The DHA account on Hürriyet says the pills and esrar were found in a vehicle stopped on suspicion, while the Anadolu Agency account says they were found in searches at the suspects' addresses.
+  - The submitted page gives no separate incident date; 6 November 2026 is its publication date.
 ---
 
 Three people were named as suspects after security forces searched along Kanal
@@ -94,3 +101,5 @@ into custody. [@2]
 Manşet Haber described the 6,050 pills as sentetik ecza, or synthetic pharmaceutical pills. [@3] The operation was carried out by Battalgazi District Police, part of the Malatya Provincial Police Directorate. [@3,4] Police searched the suspects’ addresses as part of the operation. [@3] Police detained three suspects and took them to the station, where their processing was still continuing. [@3,6]
 
 Battalgazi District Police teams carried out physical surveillance of street dealers described as torbacı and then searched a vehicle stopped on suspicion. [@5]
+
+A separate Anadolu Agency account said the 6,050 synthetic pharmaceutical pills and 12 grams of esrar were found in searches at the suspects' addresses. [@7]
