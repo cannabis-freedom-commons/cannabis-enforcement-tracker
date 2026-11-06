@@ -1,6 +1,6 @@
 // Gives every source and media page of the reports an archived copy in the Wayback Machine, and
 // writes its address into the report as `archived:`, so the page can still be read if it changes or
-// disappears. (Local copies of the pictures: scripts/archive-media.mjs.)
+// disappears.
 //
 //   node scripts/archive-sources.mjs              look up existing snapshots and fill them in
 //   node scripts/archive-sources.mjs --save       also ask the Wayback Machine to save pages it lacks

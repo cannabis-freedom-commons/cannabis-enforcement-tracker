@@ -160,13 +160,10 @@ copied** to this site.
   the first photo as a thumbnail; plays a direct video file or a YouTube/Vimeo video in
   place once the reader clicks its poster (nothing loads from the video's site before), each with its caption and source; a photo the publisher no longer serves, and any other
   entry, stays a link (`src/lib/media.js`). After adding photos, run `node scripts/media-manifest.mjs`: it records
-  each photo's size and placeholder in `src/data/media.json` and keeps the original privately.
+  each photo's size and placeholder in `src/data/media.json` and makes its thumbnail; the original is not kept.
 - Never publish a newspaper's photo, a stock photo, or a picture of a different event or of a building
   sign. A photo must show *this* event.
-- **Archive everything.** Pages and pictures disappear, and they are the evidence. After writing a
-  report, run `node scripts/archive-media.mjs <slug>`: it keeps a copy of every picture on the
-  report's source and media pages in `archive/<slug>/`, with a manifest (page, image URL, date,
-  SHA-256). `archive/` is not committed or published; back it up privately. Then run
+- **Archive the pages.** Pages disappear, and they are the evidence. After writing a report, run
   `node scripts/archive-sources.mjs <slug>` to add the Wayback Machine's copy of each source and
   media page as `archived:` (`--save` asks it to save pages it lacks).
 
@@ -270,5 +267,5 @@ The schema and tests reject missing, invalid or duplicate codes; the build never
 - [ ] Coordinates with precision.
 - [ ] What the sources leave open listed in `open_questions` (§9).
 - [ ] A cover only with an open licence; other photos as `media` links; every newly collected photo or video has its direct `media_url` and source-page `url`.
-- [ ] Pictures archived (`node scripts/archive-media.mjs <slug>`); `archived` source copies where they exist.
+- [ ] `archived` source copies where they exist (`node scripts/archive-sources.mjs <slug>`).
 - [ ] `npm test` and `npm run build` pass.

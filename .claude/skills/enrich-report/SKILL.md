@@ -81,7 +81,6 @@ At scale, the backend can fill structured details only, with every quotation che
 
 ```bash
 node scripts/archive-sources.mjs --save <slug> …
-node scripts/archive-media.mjs <slug> …
 node scripts/media-manifest.mjs              # sizes and placeholders of new photos
 node scripts/report-gaps.mjs <slug> …        # what is still missing, and why it may stay so
 npm run codes -- <report paths>              # preserves existing codes and times

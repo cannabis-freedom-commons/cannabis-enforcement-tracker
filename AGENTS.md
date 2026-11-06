@@ -47,7 +47,7 @@ Index (country ids are the CFI's).
   work; link all others as `media`. After adding media run `node scripts/media-manifest.mjs`: it
   records each photo's size and placeholder and commits only a 320px thumbnail (`public/media/`). Every newly collected photo or video must include its direct
   `media_url` alongside the source-page `url`, one media entry per photo or video. Never guess a media
-  address. Keep local evidence copies with `node scripts/archive-media.mjs`.
+  address.
 - The site must stay fast with thousands of reports: no page may embed all reports; use the
   indexes in `src/lib/reports.js` and `/api/index.json`. Check with `node scripts/load-test.mjs`.
 - Check with `npm run build` (runs `npm test` first) and read the HTML in `dist/`. Don't start dev

@@ -38,7 +38,7 @@ Uncertain matches stay separate with a documented reason for follow-up. Preserve
 
 ## Validate and report
 
-Run `npm run codes -- <changed report paths>` without replacing existing identities. Archive changed reports with `scripts/archive-media.mjs` and `scripts/archive-sources.mjs`. Report unavailable evidence honestly; archive lookup failure is not successful verification. Run media/source mutation scripts sequentially for the same file so one cannot overwrite another's edits.
+Run `npm run codes -- <changed report paths>` without replacing existing identities. Archive changed reports' pages with `scripts/archive-sources.mjs`. Report unavailable evidence honestly; archive lookup failure is not successful verification. Run media/source mutation scripts sequentially for the same file so one cannot overwrite another's edits.
 
 Run the report/alias tests, `npm run build` (including its tests), and `node scripts/load-test.mjs`. Read the generated report HTML and verify retired report URLs and `/r/<code>/` pages redirect to live targets. Check the JSON index excludes retired entries and lists every surviving report once. Verify filter/search results in the browser for representative merged cases. For a running local dev server, POST `/__dev/refresh-reports` after edits, then verify its live index; the report watcher intentionally does not refresh automatically.
 

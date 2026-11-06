@@ -1,16 +1,14 @@
 // The report photos' manifest (src/data/media.json): for every photo a report links with a direct
 // `media_url`, the SHA-256 of the original file, its size and type, a ThumbHash placeholder (a
 // blurred preview of about 25 bytes, shown while the photo loads) and how it was obtained.
-// The original goes to the private archive, content-addressed (archive/media/<sha256>.<ext>; not
-// committed, the photos belong to their publishers). A 320px AVIF thumbnail goes to
-// public/media/<ab>/<cd>/<sha256>.avif: committed and served by the site in grids and lists;
-// enlarging a photo still loads the original from its publisher (src/lib/media-manifest.js).
+// Only a 320px AVIF thumbnail is kept, in public/media/<ab>/<cd>/<sha256>.avif: committed and
+// served by the site in grids and lists. The original is not kept (the photos belong to their
+// publishers); enlarging a photo loads it from its publisher (src/lib/media-manifest.js).
 // Videos that play in place (a video file, or YouTube) get a poster the same way, 640px: YouTube's
 // preview image, or a frame of the file taken with ffmpeg. The video itself is never copied.
 //
 //   node scripts/media-manifest.mjs              photos not in the manifest yet
 //   node scripts/media-manifest.mjs --retry      also try again those that failed
-//   node scripts/media-manifest.mjs --thumbs     (re)make missing thumbnails from archived originals
 //   node scripts/media-manifest.mjs --input <file.json>
 //       only these, already downloaded: [{ "url", "file" } | { "url", "error" }], and for a video
 //       { "url", "video": true, "poster"?, "file" (its poster or a frame) | "error" } (the submission
@@ -25,10 +23,10 @@ import { execFile } from "node:child_process";
 import { promisify } from "node:util";
 import { mediaView } from "../src/lib/media.js";
 
-const MANIFEST = "src/data/media.json", ORIGINALS = "archive/media", THUMBS = "public/media";
-// the same browser identity as archive-media.mjs: many news sites refuse unknown clients
+const MANIFEST = "src/data/media.json", THUMBS = "public/media";
+// a browser identity: many news sites refuse unknown clients
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36";
-const retry = process.argv.includes("--retry") || process.argv.includes("--input"), thumbsOnly = process.argv.includes("--thumbs");
+const retry = process.argv.includes("--retry") || process.argv.includes("--input");
 const inputAt = process.argv.indexOf("--input");
 const input = inputAt > 0 ? JSON.parse(fs.readFileSync(process.argv[inputAt + 1], "utf8")) : null;
 const manifest = fs.existsSync(MANIFEST) ? JSON.parse(fs.readFileSync(MANIFEST, "utf8")) : {};
@@ -50,14 +48,8 @@ for (const p of input ? [] : fs.globSync("reports/**/*.md")) {
   for (const m of d.media ?? []) if (m.kind === "photo" && /^https?:\/\//.test(m.media_url ?? "")) wanted.set(m.media_url, m.url);
   for (const m of d.media ?? []) if (m.kind === "video" && posterSource(m.media_url)) videos.set(m.media_url, m.url);
 }
-// what archive-media.mjs already keeps, by image address
-const archived = new Map();
-for (const f of input ? [] : fs.globSync("archive/*/manifest.json")) {
-  try { for (const x of JSON.parse(fs.readFileSync(f, "utf8"))) archived.set(x.image, path.join(path.dirname(f), x.file)); } catch {}
-}
 
 const thumbPath = (sha) => path.join(THUMBS, sha.slice(0, 2), sha.slice(2, 4), `${sha}.avif`);
-const originalOf = (sha) => fs.globSync(`${ORIGINALS}/${sha}.*`)[0];
 
 async function describe(buf) {
   const img = sharp(buf, { failOn: "none", animated: false });
@@ -86,24 +78,16 @@ async function download(url, page) {
 
 async function one(url, page) {
   const old = manifest[url];
-  if (thumbsOnly) {
-    if (old?.sha256 && !fs.existsSync(thumbPath(old.sha256))) { const f = originalOf(old.sha256); if (f) await thumbnail(fs.readFileSync(f), old.sha256); }
-    return;
-  }
   if (old && (old.status === "ok" || !retry)) return;
   try {
     const given = input?.find((x) => x.url === url);
     if (given?.error) throw new Error(given.error);
     if (input && !given?.file) throw new Error("not downloaded"); // with --input, never fetch here
-    const local = given?.file ?? archived.get(url);
-    const buf = local && fs.existsSync(local) ? fs.readFileSync(local) : await download(url, page);
+    const buf = given?.file ? fs.readFileSync(given.file) : await download(url, page);
     const sha256 = crypto.createHash("sha256").update(buf).digest("hex");
     const info = await describe(buf);
-    const ext = info.type.split("/")[1].replace("jpeg", "jpg");
-    fs.mkdirSync(ORIGINALS, { recursive: true });
-    if (!originalOf(sha256)) fs.writeFileSync(path.join(ORIGINALS, `${sha256}.${ext}`), buf);
     await thumbnail(buf, sha256);
-    manifest[url] = { status: "ok", sha256, ...info, bytes: buf.length, fetched: new Date().toISOString(), via: given ? "service" : local ? "archive" : "download" };
+    manifest[url] = { status: "ok", sha256, ...info, bytes: buf.length, fetched: new Date().toISOString(), via: given ? "service" : "download" };
   } catch (e) {
     manifest[url] = { status: "unavailable", error: String(e.message ?? e).slice(0, 160), fetched: new Date().toISOString() };
   }
@@ -131,8 +115,6 @@ async function oneVideo(url, page) {
     const buf = given ? fs.readFileSync(given.file) : source.kind === "youtube" ? await download(source.poster, page) : await frameOf(url);
     const sha256 = crypto.createHash("sha256").update(buf).digest("hex");
     const info = await describe(buf);
-    fs.mkdirSync(ORIGINALS, { recursive: true });
-    if (!originalOf(sha256)) fs.writeFileSync(path.join(ORIGINALS, `${sha256}.${info.type.split("/")[1].replace("jpeg", "jpg")}`), buf);
     await thumbnail(buf, sha256, 640);
     manifest[url] = { kind: "video", status: "ok", poster: source.poster, sha256, ...info, bytes: buf.length, fetched: new Date().toISOString(), via: given ? "service" : source.kind };
   } catch (e) {

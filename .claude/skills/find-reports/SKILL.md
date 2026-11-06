@@ -115,7 +115,6 @@ for different events in their respective reports, and archive and validate every
 ## 5. Archive
 
 ```bash
-node scripts/archive-media.mjs <slug> <slug> …
 ```
 
 Keeps local copies of every picture on the sources and media pages (`archive/`, not committed or

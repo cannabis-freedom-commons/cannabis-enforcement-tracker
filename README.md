@@ -333,18 +333,12 @@ move pins. Both are offline review aids, with no automatic report changes or rej
 [coordinate checks](docs/COORDINATES.md) for JSON output, individual-report checks, offshore
 cases and dataset limitations.
 
-## Evidence archive
+## Photo thumbnails
 
-`node scripts/archive-media.mjs [slug …]` saves every picture on each report's source and media pages
-to `archive/<slug>/` with a manifest (page, image URL, date fetched, SHA-256), so the evidence
-survives if the pages change or disappear. `archive/` is ignored by git and not part of the site,
-because most of the pictures belong to their publishers; back it up privately.
-
-`node scripts/media-manifest.mjs [--retry] [--thumbs]` describes every photo a report links with a
+`node scripts/media-manifest.mjs [--retry]` describes every photo a report links with a
 `media_url` in `src/data/media.json` (committed): the SHA-256 of the original, its width, height and
 type, a ThumbHash placeholder and whether it could be fetched (`ok` or `unavailable`, with the
-error). The original goes to `archive/media/<sha256>.<ext>` (private, shared by every report that
-links it) and a 320px AVIF thumbnail to `public/media/<ab>/<cd>/<sha256>.avif`, committed and
+error). Only a 320px AVIF thumbnail is kept, in `public/media/<ab>/<cd>/<sha256>.avif`, committed and
 served at `/media/`. Pages reserve each photo's size and show its blurred placeholder until it
 loads. Report lists and photo grids of three or more use the thumbnails; a grid of one or two
 photos, and enlarging a photo, load the original from its publisher through the image proxy.
