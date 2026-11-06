@@ -45,6 +45,11 @@ sources:
     publisher: Q4.pl – Włocławski Portal Internetowy
     date: 2026-11-05
     language: pl
+  - title: Włocławscy kryminalni zabezpieczyli mefedron i marihuanę, mężczyzna już jest za kratami
+    url: https://www.portalwloclawek.pl/artykul/16291,wloclawscy-kryminalni-zabezpieczyli-mefedron-i-marihuane-mezczyzna-juz-jest-za-kratami
+    publisher: Portal Włocławek
+    date: 2026-11-05
+    language: pl
 open_questions:
   - 'No precise laboratory weight was reported: the figures are "over 405 g" of marijuana and "over 290 g" of mephedrone, so the cannabis figure uses the stated lower bound.'
   - The reports do not say whether the 27-year-old has been formally charged yet; police said he was still to hear the possession charge.
@@ -55,13 +60,13 @@ open_questions:
 ---
 
 Włocławek criminal police searched a 27-year-old resident's flat on Tuesday 3
-November 2026 and found drugs. [@1,4] The man was already wanted under an order to
+November 2026 and found drugs. [@1,4,5] The man was already wanted under an order to
 take him to prison to serve a six-month sentence for an earlier drug offence.
-[@1,4] He was placed in prison, and police said he will soon also be charged with
+[@1,4,5] He was placed in prison, and police said he will soon also be charged with
 possessing a significant quantity of drugs, an offence carrying up to 10 years.
-[@1,4]
+[@1,4,5]
 
-During the search officers seized more than 405 grams of marijuana. [@1,4] They
+During the search officers seized more than 405 grams of marijuana. [@1,4,5] They
 also seized more than 290 grams of mephedrone, a stimulant that is not cannabis
 and is left out of the cannabis figure here. [@1,4] The total was almost 700 grams
 of narcotic and psychotropic substances, and the drugs went to a laboratory for
