@@ -35,3 +35,16 @@ test("the CFI score in a year follows the last change before it", () => {
   assert.equal(scoreIn(trend, 1900), null);
   assert.equal(scoreIn(null, 2000), null);
 });
+
+import { reportGaps } from "./lib/report-gaps.mjs";
+test("the gap audit names what today's rules ask for", () => {
+  const old = { status: "reported", figures: { arrested: 2 }, sources: [{ url: "https://a.example", title: "A", publisher: "A" }] };
+  assert.deepEqual(reportGaps(old), ["no-coordinates", "single-source", "unarchived-source", "undated-source", "no-media", "no-details", "unsourced-figure", "not-verified", "no-open-questions", "no-tags"]);
+  const done = {
+    status: "verified", coordinates: [1, 2], precision: "locality", tags: ["x"], open_questions: ["q"],
+    figures: { arrested: 2 }, details: { setting: ["farm"], region: "Kano" }, data_sources: { "figures.arrested": [1], "details.setting": [2] },
+    media: [{ url: "https://a.example", media_url: "https://a.example/p.jpg", archived: "https://web.archive.org/x" }],
+    sources: [{ url: "https://a.example", archived: "x", date: new Date() }, { url: "https://b.example", archived: "y", date: new Date() }],
+  };
+  assert.deepEqual(reportGaps(done), []);
+});

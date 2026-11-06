@@ -11,6 +11,9 @@ Index (country ids are the CFI's).
 - **To add a report from a URL** the user gives, follow `.claude/skills/add-report/SKILL.md`.
 - **To find and add reports**, follow `.claude/skills/find-reports/SKILL.md`. Start with
   `node scripts/coverage.mjs`.
+- **To enrich existing reports** (bring older reports up to the current rules: photos, archived
+  copies, second sources, coordinates, structured details, open questions), follow
+  `.claude/skills/enrich-report/SKILL.md`. Start with `node scripts/report-gaps.mjs`.
 - **To audit or merge duplicate reports**, follow `.claude/skills/deduplicate-reports/SKILL.md`.
   Start with `node scripts/check-duplicate-reports.mjs --json`; candidates require source verification.
 - **What belongs here and what goes to the CFI history** (changes in the law, famous and landmark
