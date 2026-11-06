@@ -69,6 +69,11 @@ sources:
     publisher: Portal 93
     date: 2026-11-05
     language: pt
+  - title: Jovem é preso com 39 porções de maconha escondidas em terreno baldio
+    url: https://atualmt.com.br/2026/11/05/jovem-e-preso-com-39-porcoes-de-maconha-escondidas-em-terreno-baldio/
+    publisher: AtualMT
+    date: 2026-11-05
+    language: pt
 open_questions:
   - No weight, street value or number of plants was published for the 39 portions, so only the portion count is recorded.
   - The suspect's name was not published, only his age of 18 and his neighbourhood in Cuiabá.
@@ -81,28 +86,29 @@ open_questions:
   - No weight, street value or number of plants was published for the 39 portions in this account.
   - Portal 93 credits Gazeta Digital and republishes its report, so it is not an independent account of the arrest.
   - No weight, street value or court outcome is given for the 39 portions in this account.
+  - The AtualMT page image has no caption or credit, so it is not established to show this seizure and no media entry is added.
 ---
 
 Officers of Rotam, the Military Police's tactical patrol battalion, arrested an
 18-year-old man for drug trafficking in the Lixeira neighbourhood of Cuiabá in
 the late afternoon of Wednesday 4 November 2026. [@1,2] The officers went to the
 neighbourhood after the intelligence sector reported a drug sales point and the
-suspect responsible for it. [@1,4,5] The arrest arose from information passed on by
+suspect responsible for it. [@1,4,5,6] The arrest arose from information passed on by
 the state public security secretariat's intelligence service about a drug sales
 point in Lixeira, which also identified the man running it. [@3]
 
 They stopped him on Rua Linhares and found three portions of a cannabis-like
 substance on him. [@2,5] Police said the suspect admitted he was selling the drug
-and told them where more was stored, in a vacant lot next to an alley. [@1,2,4]
+and told them where more was stored, in a vacant lot next to an alley. [@1,2,4,6]
 
 In the lot, officers found a bag with another 36 cannabis portions in plastic
 packaging, ready for sale. [@1,5] The seizure totalled 39 cannabis portions, with
-no weight published in any account. [@2,4] An iPhone was also collected during the
+no weight published in any account. [@2,4,6] An iPhone was also collected during the
 operation, which had the support of the ALI/Rotam intelligence unit and the
 Rotam 90 team. [@2,5]
 
 Officers gave the man notice of arrest and took him to the Central de Flagrantes
-in Cuiabá, where he was handed to the Civil Police to register the case. [@1,4,5]
+in Cuiabá, where he was handed to the Civil Police to register the case. [@1,4,5,6]
 The police record says the young man had previous records for drug trafficking
 and for sexual assault of a vulnerable person. [@2,5] The case was registered as
 suspected drug trafficking, with any criminal liability still to be established.
