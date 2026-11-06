@@ -45,6 +45,11 @@ media:
     media_url: https://staticimg.amarujala.com/assets/images/2026/11/06/aarapaya-ka-janakara-thata-palsa_b4fb47262ddb3e29912bd4fee922eb70.jpeg?w=674&dpr=2.0&q=80
     publisher: Amar Ujala
     caption: 'Police briefing about the arrested women, the photograph published with the report. Photo: Amar Ujala (संवाद)'
+  - kind: video
+    url: https://www.amarujala.com/amp/video/uttar-pradesh/mau/video-three-female-smugglers-arrested-78-kg-cannabis-seized-2026-11-06
+    media_url: https://videocdn.amarujala.com/embed-vod/1XpjrNO#mute&is_amp=1
+    publisher: Amar Ujala
+    caption: 'Amar Ujala video report on the arrest of three women with 78 kg of ganja in Mau. Video: Amar Ujala'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5ff45d01db41929f2a17f335705b368a
@@ -60,6 +65,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-06
     language: hi
+  - title: तीन महिला तस्कर गिरफ्तार, 78 किलो गांजा बरामद; VIDEO
+    url: https://www.amarujala.com/amp/video/uttar-pradesh/mau/video-three-female-smugglers-arrested-78-kg-cannabis-seized-2026-11-06
+    publisher: Amar Ujala
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The Amar Ujala text does not give the number of trolley bags; Dainik Bhaskar reports four bags holding 28 packets, which is used for that detail.
   - Amar Ujala reports the weight as 78 kg, while Dainik Bhaskar describes it as about 78 kg; the reported figure of 78 kg is recorded.
@@ -67,11 +77,13 @@ open_questions:
   - The sources do not state the section of the NDPS Act under which the case was registered, and no trial or sentence outcome is yet reported.
   - The accounts rest on police statements given at a press conference; no independent account of the arrest was found.
   - The submitted page photo is captioned only as police giving information about the accused, so it is not established to show the seized bags themselves.
+  - The video page does not restate the recovery location or the number of trolley bags and packets already recorded from other outlets.
+  - No court outcome beyond judicial custody is reported.
 ---
 
 Mau Kotwali Nagar police and the SWAT team arrested three women cannabis
 smugglers near the selfie point by the railway overbridge at about 10:30 am on
-Friday. [@1] The women, residents of the AIIMS and Gayatri Nagar police areas of
+Friday. [@1,3] The women, residents of the AIIMS and Gayatri Nagar police areas of
 Gorakhpur district, were standing with trolley bags waiting for the bus to
 Gorakhpur. [@1] Additional Superintendent of Police Anoop Kumar said a tip-off
 had warned that three women were waiting with a ganja consignment for the
@@ -94,3 +106,4 @@ Nitesh Pratap Singh, according to Dainik Bhaskar. [@2] Police said they were
 gathering information on other people linked to the smuggling network and on the
 source of the ganja supply. [@1]
 
+Amar Ujala's video report named all three arrested women and stated that all three lived in Gorakhpur district. [@3]
