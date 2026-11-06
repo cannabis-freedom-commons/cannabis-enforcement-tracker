@@ -35,28 +35,36 @@ sources:
     publisher: Thuế & Hải quan Online - Tạp chí Kinh tế - Tài chính
     date: 2026-10-30
     language: vi
+  - title: Hải quan phát hiện hơn 25kg hoa, lá của cây cần sa trong hành lý đi Pháp
+    url: https://tuoitre.vn/hai-quan-phat-hien-hon-25kg-hoa-la-cua-cay-can-sa-trong-hanh-ly-di-phap-100261106102138311.htm
+    publisher: Tuổi Trẻ Online
+    date: 2026-11-06
+    language: vi
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
   - The article does not say what charge the passenger faces or whether a court has taken up the case.
   - Only one full account of the case could be opened for this report; no separate statement from the customs branch was available to read.
   - The same article reports a separate 2.5 kg ketamine parcel case from September 2026, a different drug and event left out of this report.
+  - The Tuổi Trẻ account describes the herb as parts of the cannabis plant in the Customs Department's words but still gives no laboratory result confirming the species.
+  - Tuổi Trẻ does not name the passenger or give the payment he described, so it neither confirms nor contradicts the earlier account of a €4,000 payment for carrying the load from Cambodia.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
 were screening transit baggage at Noi Bai International Airport on 25 October
-2026 when they found a black checked suitcase. [@1] The suitcase was checked
+2026 when they found a black checked suitcase. [@1,2] The suitcase was checked
 through on a connecting itinerary and booked on flight VN19, which was due to
-leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@1] The airport
+leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@1,2] The airport
 task force identified the passenger, Jesus Sanchez Gomez, as the owner of the
 checked bag. [@1]
 
 Inside the suitcase were two packages measuring about 40 by 70 cm, holding dried
-herb believed to be cannabis and weighing about 25.4 kg in total. [@1]
+herb believed to be cannabis and weighing about 25.4 kg in total. [@1,2]
 Questioned by the task force, Gomez admitted that he had been paid €4,000 to
 carry the goods from Cambodia, through Vietnam, to France. [@1]
 
 Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
-investigation. [@1]
+investigation. [@1,2]
 
+The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2]
