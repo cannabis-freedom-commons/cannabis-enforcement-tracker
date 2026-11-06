@@ -49,6 +49,11 @@ sources:
     publisher: Mediahub Polri
     date: 2026-11-05
     language: id
+  - title: Baru Jemput 2,2 Kg Ganja dan 15,36 Gram Sabu-Sabu dari Pekanbaru, 2 Pemuda Ditangkap di Payakumbuh
+    url: https://sumbarkita.id/baru-jemput-22-kg-ganja-dan-1536-gram-sabu-sabu-dari-pekanbaru-2-pemuda-ditangkap-di-payakumbuh/
+    publisher: Sumbarkita.id
+    date: 2026-11-05
+    language: id
 open_questions:
   - Only one accessible source for this event was found after searching in Indonesian and English, so no second outlet corroborates the account.
   - The article page carries a photograph with no caption or alt text establishing that it shows this seizure, so no media entry is included.
@@ -60,12 +65,19 @@ open_questions:
   - The new accounts describe the Article 114(2) penalty as 12 years' imprisonment, with Sakato saying a maximum of 12 years and Salingka Media saying a minimum of 12 years, while the existing report gives a 6-year minimum and a 20-year or life maximum for the same charge.
   - Mediahub Polri describes the Article 114(2) charge's threatened prison term as 12 years, another figure in a series that already differ across outlets covering this case; the penalty detail remains unresolved.
   - The Mediahub page labels its only photograph "Main" with no credit or description identifying it as a picture of this seizure, so no media entry is added.
+  - Sumbarkita gives the men's roles in more detail than earlier accounts, calling AS the owner or dealer (bandar) of the drugs and FH only his companion on the trip to Pekanbaru, without saying on what evidence that distinction rests.
+  - Sumbarkita reports no charge, court date or outcome for the two men.
 media:
   - kind: photo
     url: https://sakato.co.id/dramatis-polisi-bekuk-dua-pengedar-narkotika-lintas-provinsi-di-payakumbuh-ganja-2-kg-lebih-disita/
     media_url: https://sakato.co.id/wp-content/uploads/2026/11/IMG-20261105-WA0179.jpg
     publisher: Sakato.co.id
     caption: 'Seized evidence secured by the Payakumbuh drug squad in the early hours of 5 November 2026. Photo: Humas Polres Payakumbuh via Sakato.co.id'
+  - kind: photo
+    url: https://sumbarkita.id/baru-jemput-22-kg-ganja-dan-1536-gram-sabu-sabu-dari-pekanbaru-2-pemuda-ditangkap-di-payakumbuh/
+    media_url: https://sumbarkita.id/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-14.46.50.jpeg
+    publisher: Sumbarkita.id
+    caption: 'Payakumbuh police''s photograph captioned as the two men arrested on Jalan Jenderal Sudirman in the early hours of 5 November 2026 with cannabis and methamphetamine. Photo: Polres Payakumbuh via Sumbarkita.id'
 ---
 
 Payakumbuh's drug squad arrested two men, AS aged 32 and FH aged 26, on
@@ -90,3 +102,5 @@ a wider trafficking network. [@1,2,3,6] The two men were accused under Article 1
 of Indonesia's 2009 Narcotics Law in conjunction with the 2023 Criminal Code,
 which carries a minimum of 6 years and a maximum of 20 years or life
 imprisonment. [@1,3]
+
+The roadside arrest of the two men was made by Payakumbuh district police's drug squad in Kecamatan Payakumbuh Utara, the district where Jalan Jenderal Sudirman in Kelurahan Balai Janggo lies. [@7]
