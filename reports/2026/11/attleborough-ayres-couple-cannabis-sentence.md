@@ -116,6 +116,10 @@ sources:
     url: https://www.somersetcountygazette.co.uk/news/national/26704139.married-couple-70s-grew-gbp46-000-cannabis-sentenced/
     publisher: Somerset County Gazette
     date: 2026-11-05
+  - title: Couple in their 70s caught running cannabis farm in £1m home
+    url: https://www.wymondhamandattleboroughmercury.co.uk/news/26704043.couple-70s-caught-running-cannabis-farm-1m-home/
+    publisher: Wymondham & Attleborough Mercury
+    date: 2026-11-05
 open_questions:
   - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
   - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
@@ -133,8 +137,8 @@ open_questions:
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown
 Court for their involvement in producing cannabis at their home in Burgh Common,
-near Attleborough in Norfolk. [@1,4,5,7,11] Marion Ayres was given nine months in prison,
-suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+near Attleborough in Norfolk. [@1,4,5,7,11,19] Marion Ayres was given nine months in prison,
+suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
 Mark Ayres had pleaded guilty to producing cannabis and to possessing cannabis
 with intent to supply, while Marion Ayres admitted producing cannabis. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
 
@@ -151,4 +155,4 @@ Sergeant Dan Shelley of Norfolk Constabulary said drug production and supply
 could have a "hugely damaging impact" on communities and urged residents to
 report concerns about drugs to police. [@1,17]
 
-He began growing cannabis at a former gym in his home. [@4] He started small, with just eight plants in 2023, but extended this to 25 which were found when he was arrested. [@4] On one occasion Marion Ayres bought bags off the internet for the drugs. [@4] The court was told Mark was diagnosed with cancer in 2018 and conducted research into the medicinal benefits of the drug. [@4]
+He began growing cannabis at a former gym in his home. [@4] He started small, with just eight plants in 2023, but extended this to 25 which were found when he was arrested. [@4,19] On one occasion Marion Ayres bought bags off the internet for the drugs. [@4,19] The court was told Mark was diagnosed with cancer in 2018 and conducted research into the medicinal benefits of the drug. [@4,19]
