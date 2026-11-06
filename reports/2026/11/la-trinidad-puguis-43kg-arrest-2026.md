@@ -48,6 +48,10 @@ sources:
     url: https://tribune.net.ph/amp/story/2026/11/06/worker-arrested-on-birthday-with-5m-worth-of-marijuana-in-benguet
     publisher: Daily Tribune
     date: 2026-11-06
+  - title: Worker arrested on birthday with ₱5M worth of marijuana in Benguet
+    url: https://tribune.net.ph/2026/11/06/worker-arrested-on-birthday-with-5m-worth-of-marijuana-in-benguet
+    publisher: Daily Tribune
+    date: 2026-11-06
 open_questions:
   - The marijuana weight is reported as approximately 43 kilograms, so no exact laboratory weight is recorded.
   - The value is reported as more than ₱5 million and is recorded as ₱5,000,000 as a floor; the valuation method was not stated.
@@ -59,9 +63,9 @@ open_questions:
 
 In Puguis, La Trinidad, Benguet, police arrested a 21-year-old construction
 worker on his birthday on the evening of 5 November 2026 after catching him
-transporting marijuana. [@1] The suspect is a native of Santo Cristo, Guagua,
+transporting marijuana. [@1,2] The suspect is a native of Santo Cristo, Guagua,
 Pampanga. [@1] He attempted to flee upon noticing the police but was
-apprehended, while the passengers of the larger vehicle managed to escape. [@1]
+apprehended, while the passengers of the larger vehicle managed to escape. [@1,2]
 He remains in police custody and is expected to face charges for violating
 Republic Act 9165, the Comprehensive Dangerous Drugs Act of 2002. [@1]
 
@@ -69,9 +73,8 @@ Patrolling officers from the La Trinidad Municipal Police Station spotted two
 parked vehicles and noticed a man transferring boxes from a larger vehicle into
 the trunk of a car. [@1] The officers saw a tubular-shaped object inside the
 containers. [@1] Authorities confiscated approximately 43 kilograms of marijuana
-valued at more than ₱5 million. [@1] Officers also seized two vehicles, vehicle
+valued at more than ₱5 million. [@1,2] Officers also seized two vehicles, vehicle
 keys and a wallet containing various identification cards from the suspect. [@1]
 
 The larger vehicle’s passengers managed to escape while the suspect was
 apprehended at the scene. [@1]
-
