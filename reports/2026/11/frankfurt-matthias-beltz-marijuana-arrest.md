@@ -43,6 +43,11 @@ sources:
     publisher: nachrichten-heute.net
     date: 2026-11-05
     language: de
+  - title: 'Innenstadt: Dealer nach Handel mit Marihuana festgenommen'
+    url: https://frankfurter.online/frankfurt-main/innenstadt/14896-innenstadt-dealer-nach-handel-mit-marihuana-festgenommen.html
+    publisher: Vorsprung Frankfurt
+    date: 2026-11-05
+    language: de
 open_questions:
   - No weight was published for the seized marijuana and no exact cash sum was given, so no cannabis quantity or value can be recorded.
   - The report gives the arrest as Wednesday midday and the police announcement as Thursday, with publication on 5 November 2026, so 4 November 2026 is used as the incident date.
@@ -56,16 +61,16 @@ Frankfurt police arrested a suspected marijuana dealer at Matthias-Beltz-Platz
 in Frankfurt am Main, an arrest the Frankfurt police announced on Thursday. [@1,2,4]
 The 35-year-old suspect had come to the officers' attention at midday on
 Wednesday when he was seen distributing his goods. [@1,2,4] The officers kept the
-man under observation and then arrested him immediately. [@1,4] During the
+man under observation and then arrested him immediately. [@1,4,5] During the
 operation, investigators also discovered a hiding place in which the suspect was
-alleged to have stored his drugs. [@1,3,4]
+alleged to have stored his drugs. [@1,3,4,5]
 
 A subsequent search of the suspect's home found further small quantities of
 marijuana together with packaging material and cash in the low three-figure
-range. [@1,3,4] Police seized all of the marijuana, packaging material and cash
+range. [@1,3,4,5] Police seized all of the marijuana, packaging material and cash
 found during those searches. [@1]
 
 The 35-year-old was released again after the police measures had been completed.
-[@1,3,4] He must now answer on suspicion of dealing in a not insignificant quantity.
-[@1,2,4] The Frankfurt police are named as the authority that carried out the
+[@1,3,4,5] He must now answer on suspicion of dealing in a not insignificant quantity.
+[@1,2,4,5] The Frankfurt police are named as the authority that carried out the
 arrest, found the stash and conducted the home search. [@1,2]
