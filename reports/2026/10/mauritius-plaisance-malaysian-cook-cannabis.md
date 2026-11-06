@@ -73,6 +73,11 @@ sources:
     url: https://www.nst.com.my/news/nation/2026/10/1566447/malaysian-chef-nabbed-mauritius-over-rm23mil-cannabis-smuggling-attempt
     publisher: New Straits Times
     date: 2026-10-29
+  - title: Tukang masak warga Malaysia ditahan di Mauritius, ganja RM2.3 juta dirampas
+    url: https://www.bharian.com.my/ringkasanberita/1691060?d=1793274667&ringkasan=1691060
+    publisher: Berita Harian
+    date: 2026-10-29
+    language: ms
 media:
   - kind: photo
     url: https://defimedia.info/plaisance-saisie-de-rs-255-m-de-cannabis-sur-un-cuisinier-malaisien
@@ -125,9 +130,11 @@ open_questions:
   - The new source values the haul at about RM2.18 million while the existing report keeps Rs 25.5 million from Le Défi Media Group; the difference is left open.
   - The page image is captioned as a Rawpixel stock picture of a detention, not a photo of this seizure, so no media entry is included.
   - The article also describes a separate 15 September arrest of a Malaysian with 6.18 kg at the same airport, a different event recorded separately and left out here.
+  - Berita Harian gives 17.92 kg and RM2.3 million for the haul, while the existing report keeps 17.88 kg and Rs 25.5 million from Le Défi Media Group; the difference is left open.
+  - The Berita Harian page is an AI-generated news summary and names no suspect, flight or agency unit.
 ---
 
-Mauritian officers arrested a Malaysian cook arriving from Dubai with 17.88 kilograms of cannabis in his luggage. [@1,2,3,4,5,6,7,8]
+Mauritian officers arrested a Malaysian cook arriving from Dubai with 17.88 kilograms of cannabis in his luggage. [@1,2,3,4,5,6,7,8,10]
 
 Officers of the Anti Drug and Smuggling Unit and the Customs Anti Narcotics
 Section were watching passengers off flight EK709 from Dubai, which landed
@@ -147,3 +154,5 @@ of drug dealing by importing dangerous drugs with an averment of trafficking.
 A 55-year-old Malaysian chef was arrested in Mauritius on 23 October 2026 after [@5] authorities allegedly found 17.88 kg of suspected cannabis, worth RM2.3 million [@5] (26.88 million Mauritian rupees), hidden in his luggage. [@5]
 
 The Malaysian chef was 55 years old. [@9]
+
+The haul was the second case this year of a Malaysian national held for smuggling drugs into Mauritius. [@10]
