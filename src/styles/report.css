@@ -60,8 +60,13 @@
 .report-details dt, .report-details dd { padding: 7px 0; border-bottom: 1px solid var(--border); }
 .report-details dt { color: var(--muted); }
 .report-details dd { margin: 0; overflow-wrap: anywhere; }
-.data-cite { font: 600 10.5px var(--mono); margin-left: 2px; }
-.data-cite a { color: var(--cite); text-decoration: none; }
+/* the sources of a figure or detail: a small icon, shown while the value is pointed at or focused */
+.data-src { display: inline-flex; vertical-align: middle; margin-left: 6px; padding: 2px; border: 0; background: none; color: var(--cite); cursor: help; opacity: 0; transition: opacity .12s; }
+.data-src svg { width: 13px; height: 13px; }
+.fact:hover .data-src, .data-src:focus-visible, .data-src.is-active { opacity: 1; }
+.report-details > .fact:hover > * { background: color-mix(in srgb, var(--cite) 6%, transparent); }
+.glance-facts a, .report-details a { color: inherit; text-decoration: underline; text-underline-offset: 3px; text-decoration-color: var(--muted); }
+@media (hover: none) { .data-src { opacity: .6; } }
 @media (max-width: 520px) {
   .glance-figures { gap: 12px 28px; }
   .glance-figures dd { font-size: 22px; }

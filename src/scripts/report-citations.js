@@ -3,12 +3,16 @@
 // sources in a card, copied from the report's list of sources, when it is pointed at or focused;
 // a tap or click pins the card until the reader taps elsewhere or presses Escape. Links and
 // glossary terms inside the text keep working as before.
+// The figures and details (at a glance and in the case data) work the same way through a small
+// source icon (<button class="data-src" data-refs>, Fact.astro) shown when the value is pointed at.
 const body = document.querySelector(".article-body");
 const spans = body ? [...body.querySelectorAll(".cited[data-refs]")] : [];
-if (spans.length) {
+const TRIGGER = ".cited[data-refs], .data-src[data-refs]";
+if (spans.length || document.querySelector(".data-src")) {
   // the hidden numbers stay for screen readers, out of the tab order (the text itself is focusable)
-  for (const a of body.querySelectorAll("sup.cite a")) a.tabIndex = -1;
+  if (body) for (const a of body.querySelectorAll("sup.cite a")) a.tabIndex = -1;
   for (const span of spans) span.tabIndex = 0;
+  const scope = document;
 
   const card = document.createElement("div");
   card.id = "cite-card";
@@ -67,11 +71,11 @@ if (spans.length) {
     card.hidden = true;
   };
   const later = () => { clearTimeout(hideTimer); if (!pinned) hideTimer = setTimeout(hide, 160); };
-  const spanOf = (target) => target instanceof Element ? target.closest(".cited[data-refs]") : null;
+  const spanOf = (target) => target instanceof Element ? target.closest(TRIGGER) : null;
   // a glossary term or a link has its own behaviour: the card stays out of its way
   const ownTarget = (target) => target instanceof Element && target.closest(".term-g, a");
 
-  body.addEventListener("pointerover", (e) => {
+  scope.addEventListener("pointerover", (e) => {
     if (e.pointerType === "touch" || pinned) return;
     const span = spanOf(e.target);
     if (!span || ownTarget(e.target)) { if (current) later(); return; }
@@ -80,7 +84,7 @@ if (spans.length) {
     if (span === current) return;
     showTimer = setTimeout(() => show(span, e.clientX, e.clientY), current ? 0 : 90);
   });
-  body.addEventListener("pointerout", (e) => {
+  scope.addEventListener("pointerout", (e) => {
     if (e.pointerType === "touch" || pinned) return;
     if (spanOf(e.relatedTarget) === current && !ownTarget(e.relatedTarget)) return;
     clearTimeout(showTimer);
@@ -88,15 +92,15 @@ if (spans.length) {
   });
   card.addEventListener("pointerenter", () => clearTimeout(hideTimer));
   card.addEventListener("pointerleave", later);
-  body.addEventListener("click", (e) => {
+  scope.addEventListener("click", (e) => {
     const span = spanOf(e.target);
     if (!span || ownTarget(e.target) || getSelection()?.toString()) return;
     if (pinned && current === span) { hide(); return; }
     show(span, e.clientX, e.clientY);
     pinned = true;
   });
-  body.addEventListener("focusin", (e) => { const span = spanOf(e.target); if (span === e.target) show(span); });
-  body.addEventListener("focusout", (e) => { if (!pinned && !card.contains(e.relatedTarget)) hide(); });
+  scope.addEventListener("focusin", (e) => { const span = spanOf(e.target); if (span === e.target) show(span); });
+  scope.addEventListener("focusout", (e) => { if (!pinned && !card.contains(e.relatedTarget)) hide(); });
   document.addEventListener("pointerdown", (e) => {
     if (pinned && !card.contains(e.target) && !spanOf(e.target)) hide();
   });

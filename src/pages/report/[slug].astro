@@ -12,7 +12,7 @@ import { flagOf } from "../../lib/countries.js";
 import { landraceAt } from "../../lib/landrace.js";
 import { relative } from "node:path";
 import AddedAt from "../../components/AddedAt.astro";
-import Cites from "../../components/Cites.astro";
+import Fact from "../../components/Fact.astro";
 import { legalContext } from "../../lib/legal-context.js";
 import { glanceFacts } from "../../lib/details.js";
 import { submissionsAPI } from "../../lib/submissions-config.js";
@@ -101,8 +101,8 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
 
     {(glanceFigures.length > 0 || glance.length > 0) && (
       <section class="glance" aria-label="At a glance">
-        {glanceFigures.length > 0 && <dl class="glance-figures">{glanceFigures.map((f) => <div><dt>{f.label}</dt><dd>{f.value}</dd></div>)}</dl>}
-        {glance.length > 0 && <dl class="glance-facts">{glance.map((f) => <div><dt>{f.label}</dt><dd>{f.value}</dd></div>)}</dl>}
+        {glanceFigures.length > 0 && <dl class="glance-figures">{glanceFigures.map((f) => <div class="fact"><dt>{f.label}</dt><dd><Fact row={f} refs={cites(`figures.${f.key}`)} /></dd></div>)}</dl>}
+        {glance.length > 0 && <dl class="glance-facts">{glance.map((f) => <div class="fact"><dt>{f.label}</dt><dd><Fact row={f} refs={cites(`details.${f.key}`)} /></dd></div>)}</dl>}
         {caseData && <a class="glance-more" href="#case-data">All case data and sources ↓</a>}
       </section>
     )}
@@ -139,8 +139,8 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
         <h2 id="case-data">Case data</h2>
         <p class="muted case-data-note">Every number and detail the sources state, with the sources that state it.</p>
         <dl class="report-details">
-          {r.figureRows.map((f) => <div><dt>{f.label}</dt><dd>{f.value}<Cites numbers={cites(`figures.${f.key}`)} /></dd></div>)}
-          {r.detailRows.map((d) => <div><dt>{d.label}</dt><dd>{d.value}<Cites numbers={cites(`details.${d.key}`)} /></dd></div>)}
+          {r.figureRows.map((f) => <div class="fact"><dt>{f.label}</dt><dd><Fact row={f} refs={cites(`figures.${f.key}`)} /></dd></div>)}
+          {r.detailRows.map((d) => <div class="fact"><dt>{d.label}</dt><dd><Fact row={d} refs={cites(`details.${d.key}`)} /></dd></div>)}
         </dl>
       </>
     )}
