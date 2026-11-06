@@ -89,6 +89,11 @@ sources:
     publisher: الوكالة الوطنية العراقية للأنباء (NINA)
     date: 2026-11-06
     language: ar
+  - title: الإمارات تحبط تهريب 200 ألف قرص مخدر وتطيح بشبكة دولية تضم 20 متهما
+    url: https://almashhadalaraby.com/amp/591825
+    publisher: المشهد العربي
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -106,23 +111,23 @@ open_questions:
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
-6 November 2026. [@1,6,7,8,9] The suspects are described as holding Gulf, Arab, African
+6 November 2026. [@1,6,7,8,9,10] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
-link of the plan, from smuggling to preparation for dealing. [@1,6]
+link of the plan, from smuggling to preparation for dealing. [@1,6,10]
 
 Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
-surveillance, Shafaq News reported. [@4,5,8] The network planned to bring the drugs
+surveillance, Shafaq News reported. [@4,5,8,10] The network planned to bring the drugs
 in through a border area of Ras Al Khaimah and then distribute them around the
-country. [@1,8,9]
+country. [@1,8,9,10]
 
 The haul included marijuana and hashish among cocaine, crystal methamphetamine
 and Spice; the latter is a synthetic drug and is not counted as cannabis here.
-[@2,9] The operation also seized 200,000 Captagon pills and more than 30 kg of
+[@2,9,10] The operation also seized 200,000 Captagon pills and more than 30 kg of
 drugs in total, with no separate figure given for the cannabis. [@3]
 
 The National Anti-Narcotics Agency ran the operation with Ras Al Khaimah Police,
 Iraq's General Directorate for Narcotics and Psychotropic Substances and the
-Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9]
+Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10]
 The agency said the operation struck a blow at trafficking networks and called
 on the public to report suspicious activity. [@1]
