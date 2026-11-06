@@ -86,6 +86,11 @@ sources:
     publisher: Grand News
     date: 2026-11-05
     language: hi
+  - title: 'ओडिशा से छत्तीसगढ़ लाई जा रही थी 280 किलो गांजे की बड़ी खेप: कांकेर पुलिस की नाकाबंदी से घबराए तस्कर माल फेंककर फरार'
+    url: https://navabharat.news/kanker-singarbhat-280-kg-ganja-recovered-smugglers-flee-odisha-chhattisgarh/
+    publisher: Navabharat News
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -125,15 +130,21 @@ open_questions:
   - This Navbharat Live account says police acted on an informer's precise tip, while the report's first source says local people alerted officers; the two accounts of the tip are not reconciled.
   - The headline and highlights put the load at more than Rs 1 crore but the article publishes no exact figure or weight of individual bags, so no value is added.
   - The page gives only "last night" and no calendar date for the recovery; 4 November 2026 is retained from the earlier accounts.
+  - This account values 280 kg at about Rs 1 crore in one line and above Rs 1 crore in the next, while the report keeps 2.80 quintals (280 kg) with about Rs 1.5 crore from other accounts and records no value figure.
+  - This account reports several bags without a count, so the 15-sack versus 70-packet difference remains unresolved.
+  - The article says the smugglers fled last night and gives no calendar date for the recovery; its publication date of 5 November 2026 is not used as the incident date.
+  - The page's single image file named news-cgnews.webp is captioned only as a Kanker ganja-smuggling graphic and is not shown to depict this recovery, so no media entry is added.
+  - This account names no suspect, vehicle or Odisha district and says only that the load came from the Odisha border, so the Vishrampuri-Keshkal route reported elsewhere is not corroborated here.
+  - This account credits a police informer for the tip, while the report's first source says local people alerted officers; the two accounts of the tip are not reconciled.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
-condition near National Highway-30 in Kanker. [@1,8,9] The seizure occurred on 4
+condition near National Highway-30 in Kanker. [@1,8,9,11] The seizure occurred on 4
 November 2026. [@1] Police reached the foot of the hill after local people
 alerted them to sacks lying there in a suspicious condition. [@1] Officers found
 ganja packed inside 15 sacks at the foot of the hill. [@1] No smugglers were
 caught at the spot, and police suspect they abandoned the sacks and fled to
-avoid action or arrest. [@1,2,3,4,5,7]
+avoid action or arrest. [@1,2,3,4,5,7,11]
 
 The case falls under the Kotwali police station area. [@1,3,4] Police put the value
 of the seized ganja in lakhs of rupees. [@1] Senior officers and a Kotwali
@@ -153,7 +164,7 @@ Keshkal police were chasing the smugglers when Kanker police set up its cordon. 
 
 Smugglers fleeing a police interception late on Tuesday night drove a car at Ritesh Mishra, the station house officer of Keshkal police station, and the car brushed his foot as it passed, injuring his thumb. [@6,8] Police chased the vehicles for about 30 kilometres from Keshkal towards Kanker. [@6,8] Police tried to stop a Toyota Fortuner bringing ganja from Odisha and a pilot Tata Winger accompanying it, and the driver of a Nexon then drove at the station house officer. [@6] Keshkal police later stopped and searched a suspicious vehicle that was returning and released it after finding nothing. [@6] Kanker superintendent of police Nikhil Rakhecha said police had found leads on the vehicles and suspects used in the smuggling and had sent separate teams to arrest them. [@6,8]
 
-Police packed the seized ganja into three vehicles and took it to their police station. [@7] Police are also trying to identify the consignment's main buyer and the wider network. [@7] Several police teams were raiding suspected hideouts in the search for the gang. [@7]
+Police packed the seized ganja into three vehicles and took it to their police station. [@7,11] Police are also trying to identify the consignment's main buyer and the wider network. [@7,11] Several police teams were raiding suspected hideouts in the search for the gang. [@7]
 
 The sacks had been dumped in a garbage heap near a rice mill below Gadia Pahad in Singarbhat. [@6,8] With construction work continuing on the Raipur-Visakhapatnam expressway, smugglers from Odisha were using the old Keshkal-Kanker routes as a new corridor. [@6,8]
 
@@ -161,4 +172,4 @@ Ganja worth crores of rupees was found in Kanker, and the smugglers fled. [@9]
 
 The haul came a day after Keshkal police seized 407 kg of ganja. [@10] Grand News reporter Dheeraj Sharma filed the account of the Kanker recovery and chase. [@10]
 
-This account says police reached the spot after an informer gave them precise information, and then found several bags of ganja there. [@7] The smugglers tried to hide the load from the police cordon and changed their route, dumping it on the way before fleeing under cover of darkness. [@7] Police said the consignment was brought from neighbouring Odisha by road to be sold in Chhattisgarh, while officers kept running checks along the route. [@7] Police officers said the fleeing accused would soon be identified and sent to jail and the smuggling network would be exposed. [@7]
+This account says police reached the spot after an informer gave them precise information, and then found several bags of ganja there. [@7,11] The smugglers tried to hide the load from the police cordon and changed their route, dumping it on the way before fleeing under cover of darkness. [@7,11] Police said the consignment was brought from neighbouring Odisha by road to be sold in Chhattisgarh, while officers kept running checks along the route. [@7,11] Police officers said the fleeing accused would soon be identified and sent to jail and the smuggling network would be exposed. [@7]
