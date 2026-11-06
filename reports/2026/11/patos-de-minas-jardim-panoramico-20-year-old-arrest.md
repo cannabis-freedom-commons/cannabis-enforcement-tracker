@@ -54,6 +54,11 @@ sources:
     publisher: Patos Hoje
     date: 2026-11-05
     language: pt
+  - title: Jovem é preso com 45 papelotes de cocaína e porções de maconha em Patos de Minas
+    url: https://www.ponoticias.com.br/jovem-e-preso-com-45-papelotes-de-cocaina-e-porcoes-de-maconha-em-patos-de-minas/
+    publisher: P.O Notícias
+    date: 2026-11-05
+    language: pt
 open_questions:
   - No weight or count of the marijuana cigarette or the home portion was published, so no cannabis kilogram figure can be recorded.
   - The 45 cocaine wraps are a separate substance and are excluded from cannabis figures.
@@ -63,12 +68,12 @@ open_questions:
 
 Military Police arrested a 20-year-old for drug trafficking on the night of
 Wednesday 4 November 2026 in the Jardim Panorâmico neighbourhood of Patos de
-Minas, Minas Gerais. [@1] During the stop, officers seized 45 wraps of cocaine
-and portions of marijuana. [@1] Officers were patrolling a quiet subdivision
-when they saw him beside a black Honda CG 160 motorcycle. [@2]
+Minas, Minas Gerais. [@1,3] During the stop, officers seized 45 wraps of cocaine
+and portions of marijuana. [@1,3] Officers were patrolling a quiet subdivision
+when they saw him beside a black Honda CG 160 motorcycle. [@2,3]
 
 When he noticed the patrol car, he threw a package into vegetation at the
-roadside. [@1] A search of his waist bag found a marijuana cigarette. [@1] In
+roadside. [@1,3] A search of his waist bag found a marijuana cigarette. [@1,3] In
 the vegetation, officers recovered the discarded package, which held 45 cocaine
 wraps packaged for sale. [@1] Patos Hoje reported that he first denied owning
 the drugs, then admitted they were his and that he had thrown the package when
@@ -77,5 +82,4 @@ he saw the police. [@2]
 With a relative's permission, teams searched his home in the Jardim Quebec
 neighbourhood and found another portion of marijuana in his bedroom. [@2] He was
 arrested in flagrante and taken to the Civil Police station with the seized
-drugs. [@2]
-
+drugs. [@2,3]
