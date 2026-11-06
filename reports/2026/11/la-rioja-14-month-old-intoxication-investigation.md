@@ -61,6 +61,11 @@ sources:
     publisher: La Razón
     date: 2026-11-05
     language: es
+  - title: La Guardia Civil investiga a unos padres por la intoxicación con cannabis de su bebé de 14 meses en La Rioja
+    url: https://www.eleconomista.es/actualidad/amp/14025862/la-guardia-civil-investiga-a-unos-padres-por-la-intoxicacion-con-cannabis-de-su-bebe-de-14-meses-en-la-rioja
+    publisher: elEconomista.es
+    date: 2026-11-05
+    language: es
 open_questions:
   - The article gives no separate date for the hospital admission or the investigation, so 5 November 2026 is the publication date used as the incident date.
   - No cannabis weight, seizure, plant count, cultivation site or laboratory amount was reported.
@@ -78,7 +83,7 @@ open_questions:
 Guardia Civil officers in La Rioja investigated a 22-year-old man and a
 24-year-old woman as presumed perpetrators of serious negligent injury and
 breach of parental duties after their 14-month-old son suffered cannabis
-intoxication. [@1,2,3,4,5,6,8] The two people under investigation are the child's mother and
+intoxication. [@1,2,3,4,5,6,8,9] The two people under investigation are the child's mother and
 father. [@1,4]
 
 The case began when emergency health protocols were activated for the child's
@@ -88,14 +93,14 @@ listlessness and drowsiness, prompting medical tests to determine the cause.
 intoxication with the drug. [@1,4,5,7] The child remained hospitalised with a moderate
 prognosis. [@1,4,7] The parents told investigators the intoxication may have
 happened accidentally when the baby inhaled smoke in a public park where others
-were allegedly using cannabis nearby. [@1,2,4,5,7] Investigators found nothing to
+were allegedly using cannabis nearby. [@1,2,4,5,7,9] Investigators found nothing to
 corroborate that account or reasonably explain how the intoxication occurred.
-[@1,4,5,7,8] Officers therefore proceeded to investigate both parents for alleged
+[@1,4,5,7,8,9] Officers therefore proceeded to investigate both parents for alleged
 involvement in the cited offences. [@1]
 
 Child-protection protocols were activated alongside the police inquiry, placing
 the baby under provisional guardianship and custody of social services pending
-protective measures and liability decisions. [@1,2,4,5,7,8] The Guardia Civil said any act
+protective measures and liability decisions. [@1,2,4,5,7,8,9] The Guardia Civil said any act
 or omission endangering a minor's physical integrity, health or welfare can have
 legal consequences and will be investigated. [@1] The force said it would
 release no further information about the case or the locality where it happened
