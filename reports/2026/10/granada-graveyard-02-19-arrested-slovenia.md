@@ -71,6 +71,11 @@ media:
     media_url: https://web.guardiacivil.es/export/sites/guardiaCivil/.galleries/Noticias/op_graveyard_granada_03.jpg_1414141190.jpg
     publisher: Guardia Civil
     caption: 'More of the weapons laid out after the searches, including short firearms and a shotgun. Photo: Guardia Civil'
+  - kind: photo
+    url: https://www.101tv.es/granada/desarticulada-en-granada-una-organizacion-criminal-que-enviaba-droga-a-eslovenia/
+    media_url: https://files-101tv-londres.s3-accelerate.amazonaws.com/2026/11/dinero-marihuana.jpg
+    publisher: 101TV
+    caption: 'Page picture for the Graveyard 02 article, captioned only "Plantación de Marihuana" and credited to the Guardia Civil. Photo: Guardia Civil'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7a339889f699ae838212dcf6f2a1b4b3
@@ -106,6 +111,11 @@ sources:
     publisher: Granada es Noticia
     date: 2026-11-06
     language: es
+  - title: Desarticulada en Granada una organización criminal que enviaba droga a Eslovenia
+    url: https://www.101tv.es/granada/desarticulada-en-granada-una-organizacion-criminal-que-enviaba-droga-a-eslovenia/
+    publisher: 101TV
+    date: 2026-11-06
+    language: es
 open_questions:
   - The Guardia Civil statement gives no breakdown of how much of the 181 kg of marijuana was bud and how much was plants, nor whether the 1,388 plants were seized or cut.
   - The three sources give the same figures, but no independent verification of the weights was published; all figures are the Guardia Civil's own.
@@ -116,12 +126,13 @@ open_questions:
   - The EFE/Infobae account repeats the Guardia Civil's own figures and gives no independent verification of the weights.
   - It does not say how many of the 12 properties held grow rooms or whether the 1,388 plants were seized or cut.
   - It reports a pistol modified for automatic fire without naming the Glock model that other coverage used.
+  - Only the three Slovenian-origin detainees and the gold valuation are added; the outlet repeats the agency's other figures without independent verification.
 ---
 
 Spain's Guardia Civil said it had dismantled a criminal organisation that grew,
 bought and sold, transported and shipped marijuana to Slovenia, detaining 19
 people in operation Graveyard 02. [@2,4,5] Three of the 19 detainees are of
-Slovenian origin. [@1,4,5] The searches took place on 23 and 24 October 2026 at 12
+Slovenian origin. [@1,4,5,7] The searches took place on 23 and 24 October 2026 at 12
 properties in Granada city, Almuñécar and Peligros. [@2,4,5,6] Investigators believe
 the organisation shipped the drugs to Slovenia and have not ruled out
 international links with other countries. [@2,5]
@@ -147,3 +158,5 @@ Digital, quoting the Guardia Civil, also reported the 19 detentions in operation
 Graveyard 02 and the remand in custody of four detainees. [@3]
 
 The operation drew on agents from different Granada companies with support from units of Almería, Huelva and Málaga. [@5]
+
+Officers also seized gold pieces valued at about 40,000 euros. [@7]
