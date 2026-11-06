@@ -62,11 +62,14 @@ open_questions:
   - The 8,682 grams of cannabis beedis are not included in kg_seized because the source does not say whether they fall within the ganja total.
   - This Dailyhunt page reprints Marunadan Malayali's article and gives no press conference date beyond a publication time of 4 November 2026.
   - 'Left out, as its quotation was not found in Marunadan Malayali (via Dailyhunt): The police also initiated action against 137 people under the Kerala Anti-Social Activities (Prevention) Act, KAAPA.'
+  - The article reports separate seizures in Manjeri, Palakkad, Mattancherry and Perumbavoor, including 15.020 grams and 16 kg of hybrid cannabis; these are different events and are not added to this campaign report.
+  - The page gives no street value for the cannabis, no area of fields destroyed and no number of people still in custody beyond the 1,173 remanded.
+  - The page picture carries no credit and is captioned only with the campaign totals, so its subject beyond that caption is not established.
 ---
 
 Kerala police say they arrested 15,515 people in the first five months of
 Operation Toofan, the state's anti-drug campaign. [@1,4] The same period produced
-14,369 registered drug cases. [@1,4] Of those arrested, 1,173 have been remanded
+14,369 registered drug cases. [@1,2,4] Of those arrested, 1,173 have been remanded
 in judicial custody. [@1,4] Inspector General Putta Vimaladitya, the campaign's
 state nodal officer, gave the figures at a press conference in
 Thiruvananthapuram. [@2,4]
@@ -101,3 +104,5 @@ project. [@1] Inspector General Putta Vimaladitya said the drive was launched on
 The campaign also led to seizures of an undisclosed amount of hashish, LSD
 stamps, nitrazepam and opium, and officers found 8,682 grams of cannabis beedis.
 [@2]
+
+Police said the campaign had also seized 7,261.352 grams of hashish oil, 5.85 grams of hashish and 3.650 grams of cannabis oil. [@1] Officers seized 186 vehicles and 801 mobile phones from accused people in various cases. [@1] Police said 2,534 people had been profiled and that magistrate bond conditions were imposed in 1,584 cases under Section 34 of the NDPS Act. [@1]
