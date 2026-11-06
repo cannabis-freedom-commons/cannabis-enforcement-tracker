@@ -45,6 +45,11 @@ sources:
     publisher: Manşet Haber
     date: 2026-11-05
     language: tr
+  - title: 6 Bin 50 Hap Ele Geçirildi
+    url: https://malatyaflashaber.com/6-bin-50-hap-ele-gecirildi/
+    publisher: Malatya Flaş Haber
+    date: 2026-11-05
+    language: tr
 open_questions:
   - Neither account says which unit carried out the checks or where exactly on the road the suspects were stopped.
   - The suspects are described only as three people; no names, ages, or the charges they face were published.
@@ -54,15 +59,17 @@ open_questions:
   - Both outlets carry the governor's statement almost verbatim, so the three-suspect count and quantities are not independently corroborated.
   - The reports do not say whether the 12 grams were found on the suspects or nearby along the road.
   - Manşet Haber describes searches at the suspects’ addresses, while the existing accounts place the checks along Kanal Yolu; whether those addresses were on that road is unclear.
+  - The submitted page carries an image without caption or credit, so it cannot be confirmed to show this event and is not listed as media.
+  - The submitted page gives no separate incident date; 5 November 2026 is its publication date, while the existing report dates the checks to 4 November 2026.
 ---
 
 Three people were named as suspects after security forces searched along Kanal
 Yolu in the Serintepe neighbourhood of Malatya on 4 November 2026. [@1] A
 judicial investigation was opened against the three suspects in connection with
-the seizure. [@1]
+the seizure. [@1,4]
 
 Officers seized 6,050 narcotic pills packed in 121 boxes together with 12 grams
-of esrar, the Turkish name for cannabis. [@1,3] Malatya governor Seddar Yavuz
+of esrar, the Turkish name for cannabis. [@1,3,4] Malatya governor Seddar Yavuz
 announced the seizure, not a police directorate statement. [@1]
 
 Yavuz said the checks on 4 November 2026 found 6,050 narcotic pills in 121 boxes
@@ -73,4 +80,4 @@ checks as part of continuing controls on drug production and trade across
 Malatya. [@2] Kahta Haber Postası reported that the seized material was taken
 into custody. [@2]
 
-Manşet Haber described the 6,050 pills as sentetik ecza, or synthetic pharmaceutical pills. [@3] The operation was carried out by Battalgazi District Police, part of the Malatya Provincial Police Directorate. [@3] Police searched the suspects’ addresses as part of the operation. [@3] Police detained three suspects and took them to the station, where their processing was still continuing. [@3]
+Manşet Haber described the 6,050 pills as sentetik ecza, or synthetic pharmaceutical pills. [@3] The operation was carried out by Battalgazi District Police, part of the Malatya Provincial Police Directorate. [@3,4] Police searched the suspects’ addresses as part of the operation. [@3] Police detained three suspects and took them to the station, where their processing was still continuing. [@3]
