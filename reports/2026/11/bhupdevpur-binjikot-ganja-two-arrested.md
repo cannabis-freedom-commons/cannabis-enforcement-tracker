@@ -49,6 +49,11 @@ media:
     media_url: https://raigarhtopnews.com/wp-content/uploads/2026/11/IMG_20261106_131349.jpg
     publisher: Raigarh Top News
     caption: The page's lead picture for the Bhupdevpur arrests, captioned only that two accused were arrested in Raigarh with 60,000 rupees of ganja; the page gave no credit.
+  - kind: photo
+    url: https://www.bhaskar.com/local/chhattisgarh/raigarh/news/raigarh-ganja-smuggling-arrest-bhupdevpur-police-action-139611039.html
+    media_url: https://images.bhaskarassets.com/web2images/521/2026/11/06/cover_1793960526160.jpg
+    publisher: Dainik Bhaskar
+    caption: Police photograph published with the report, captioned that two ganja traffickers were arrested and sent to jail; the page gave no credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 783fe49bc2ef4c29311adb945fdbf7b4
@@ -79,6 +84,11 @@ sources:
     publisher: Grand News
     date: 2026-11-06
     language: hi
+  - title: 'रायगढ़ में गांजा तस्करी पर पुलिस का एक्शन: 60 हजार के गांजे के साथ दो गिरफ्तार, थैला में लेकर जाते समय पकड़ा, भूपदेवपुर का मामला'
+    url: https://www.bhaskar.com/local/chhattisgarh/raigarh/news/raigarh-ganja-smuggling-arrest-bhupdevpur-police-action-139611039.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The reports give no separate date for the interception and arrests; 6 November 2026 is their publication dateline and is used as the incident date.
   - The district reports do not say where Binjkot or Darramuda villages lie within Raigarh district, so the coordinates are for Raigarh town and the precision is district.
@@ -89,18 +99,21 @@ open_questions:
   - Grand News names only Kumhar and does not give the NDPS sections or crime number, and its text closely follows the same police handout as other outlets, so it is not an independent account.
   - The Grand News page's only news image is uncaptioned and uncredited and is not shown to depict this seizure, so no media entry is supported from it.
   - Hindusthan Samachar does not say where Binjkot or Darramuda lie within Raigarh district, so the coordinates stay at the district centre.
+  - The Dainik Bhaskar capture stops after the first paragraph at the page's app paywall, so its full detail on the search, arrests and court step could not be read; only the opening paragraph and headline were available.
+  - The Bhaskar headline gives the ganja as worth 60,000 rupees but no weight, and the readable text gives no cash figure, so neither supports a change to the report's 4.110 kg and 500 rupees.
+  - The Bhaskar lead photograph is captioned only that two ganja traffickers were arrested and sent to jail, with no credit, so it cannot be confirmed to show the seized ganja rather than a posed picture of the accused.
 ---
 
 Bhupdevpur police arrested Dhaneshwar Kumhar, 62, of Binjkot Kumhardipa and
 Thakur Prasad Patel, 39, of Darramuda village after a tip-off about ganja being
-carried through Binjkot in Raigarh district, Chhattisgarh. [@1] Officers found
+carried through Binjkot in Raigarh district, Chhattisgarh. [@1,6] Officers found
 four packets of ganja wrapped in khaki tape in the plastic bag Kumhar was
 carrying on foot from Binjkot towards Darramuda. [@1,4] The ganja weighed 4.110
 kg, which police estimated was worth about 60,000 rupees. [@1,4]
 
 Kumhar admitted in questioning that he had kept the ganja for sale. [@1]
 Questioning of Kumhar pointed to Patel as helping buy and sell the ganja, and
-Patel confessed when officers detained and questioned him. [@1] Police also
+Patel confessed when officers detained and questioned him. [@1,6] Police also
 recovered and seized 500 rupees in ganja-sale proceeds from Patel. [@1,4] Both men
 were booked at Bhupdevpur police station in crime number 141/2026 under sections
 20(b) and 29 of the NDPS Act, India's narcotics law, and sent to judicial
@@ -111,7 +124,7 @@ arrested with more than 4 kg of ganja. [@2] Kelo Pravah carried the same
 Bhupdevpur police account of both men being arrested under NDPS sections 20(b)
 and 29 and sent to judicial remand. [@3] The arrest came under Operation Aghaat,
 a special drive ordered by Raigarh superintendent of police Shashi Mohan Singh
-against the illegal drug trade. [@1] Inspector Roshan Kumar Kaushik, the
+against the illegal drug trade. [@1,6] Inspector Roshan Kumar Kaushik, the
 Bhupdevpur station house officer, led the team with trainee sub-inspector
 Praveen Kumar Bandhav. [@1,5] Police said they were still looking for others
 linked to the ganja trade, under the guidance of Kharsia sub-divisional police
