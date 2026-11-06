@@ -47,6 +47,11 @@ sources:
     publisher: Portal Guaíra
     date: 2026-11-05
     language: pt
+  - title: Veículos com maconha são apreendidos em Terra Roxa
+    url: https://radiodifusora.net/veiculos-com-maconha-sao-apreendidos-em-terra-roxa
+    publisher: Rádio Difusora do Paraná
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The three suspects were not located; no arrests, charges or court outcome were reported for this seizure.
   - The newspaper describes the bundles as a substance similar to marijuana, while the Federal Police statement calls it marijuana and a substance similar to marijuana; both give the 534 kg weight.
@@ -59,11 +64,13 @@ open_questions:
   - The new reports give no arrest, charge or court development; the three suspects remained unlocated.
   - 'Left out, as its quotation was not found in Mídia Sudoeste: A statement from the Border Police Battalion said the seizure represented an estimated loss of R$ 1,254,000 to crime.'
   - 'Left out, as its quotation was not found in Mídia Sudoeste: The incident in Terra Roxa began on 3 November 2026, with 534 kg seized on Estrada Paulista.'
+  - The article gives no separate date for the patrol; 5 November 2026 is its publication date, while 3 November 2026 as the incident date comes from the earlier Federal Police and newspaper accounts.
+  - The page carries a picture captioned only with the headline and no credit, so no media entry is added because it cannot be established to show this seizure.
 ---
 
 Three men loading bundles into two cars on a rural road in Terra Roxa ran into
 the riverside woodland when officers approached, abandoning a Hyundai Santa Fe
-and a GM S10 pickup. [@1,3] The teams searched the area but did not find the three
+and a GM S10 pickup. [@1,3,4] The teams searched the area but did not find the three
 suspects. [@1,3]
 
 The seizure was made on Tuesday 3 November 2026 in Terra Roxa, in western
@@ -75,10 +82,10 @@ The teams came from the Border Police Battalion (BPFron), the Federal Police's
 Special Maritime Police Nucleus (Nepom/PF) and the Receita Federal office in
 Mundo Novo, Mato Grosso do Sul. [@1]
 
-The bundles found in the vehicles weighed 534 kg after weighing. [@1,3] An Apple
+The bundles found in the vehicles weighed 534 kg after weighing. [@1,3,4] An Apple
 iPhone 17 Pro Max and a wallet with documents were also seized in the pickup.
 [@1] The vehicles, the drug and the other materials were sent to the Federal
-Police station in Guaíra for judicial police procedures. [@1,3] The security
+Police station in Guaíra for judicial police procedures. [@1,3,4] The security
 forces put the loss to crime at R$ 1.254 million. [@1]
 
 The Federal Police said an integrated action with the Paraná Military Police
