@@ -63,6 +63,11 @@ sources:
     publisher: Presa Fara Stapani
     date: 2026-11-05
     language: ro
+  - title: Și-a făcut cultură de canabis și ar fi vândut drogurile. Bărbat de 34 de ani, arestat preventiv - JURNAL MM
+    url: https://jurnalmm.ro/cultura-de-canabis-tantareni-barbat-de-34-de-ani-arestat-preventiv/
+    publisher: Jurnal MM
+    date: 2026-11-05
+    language: ro
 open_questions:
   - No figure for the number of plants grown or for the weight, area or value of the cannabis was published; only the nine jars seized are stated.
   - The cannabis found in the jars and bags was still being examined, so its weight and composition were not stated.
@@ -73,26 +78,27 @@ open_questions:
   - The Gazeta de Sud page is a video post; no direct video stream address could be recovered, so only its thumbnail still is listed.
   - Gorjeanul gives no weight, plant count, area or value for the cannabis, and no figure beyond the nine jars already recorded.
   - The man is not named, and no charges, trial or sentence beyond the preventive arrest are reported.
+  - The page's lead image is marked 'Imagine ilustrativă' and is not shown to depict this seizure, so no media entry is listed.
 ---
 
 A 34-year-old man from Gorj County was placed in 30 days' preventive arrest,
 investigated for trafficking in risk drugs over a cannabis grow in Țânțăreni.
-[@1,3,4,6] Țânțăreni is a commune in Gorj County, in the Oltenia region of Romania.
+[@1,3,4,6,8] Țânțăreni is a commune in Gorj County, in the Oltenia region of Romania.
 [@2] Officers of the Gorj organised-crime service and DIICOT prosecutors, the
 directorate that investigates organised crime, documented the man's activity.
 [@1,3,4,5]
 
 Investigators said he bought quantities of cannabis seeds in spring 2026 and set
-up the grow in the commune. [@1,3,4,5,7] Once the plants reached a certain stage he
+up the grow in the commune. [@1,3,4,5,7,8] Once the plants reached a certain stage he
 harvested, dried and stored them, and part of the plant material was later sold
 to various customers. [@1,3,4,5] Police carried out two search warrants, at the man's
 home and at his brother's home. [@1,3,4,5,6,7] Officers found and seized nine glass jars
 containing various amounts of cannabis, several bags and containers with plant
 fragments still being examined, remnants of hand-rolled cigarettes, grinders,
-data storage devices and other evidence. [@1,3,4,5,6,7]
+data storage devices and other evidence. [@1,3,4,5,6,7,8]
 
-DIICOT Gorj prosecutors ordered his detention on 4 November 2026. [@1,3,4,5,6,7] On
+DIICOT Gorj prosecutors ordered his detention on 4 November 2026. [@1,3,4,5,6,7,8] On
 Thursday, 5 November, a judge of the Gorj Tribunal ordered him held in
-preventive arrest for 30 days. [@1,3,4,5,6,7] County police officers and Gorj gendarmes
+preventive arrest for 30 days. [@1,3,4,5,6,7,8] County police officers and Gorj gendarmes
 supported the operation. [@1,3,4,5,6] The man retains the presumption of innocence and
 his procedural rights through the criminal proceedings. [@1]
