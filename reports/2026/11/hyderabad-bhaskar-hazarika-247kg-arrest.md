@@ -86,6 +86,10 @@ sources:
     url: https://telanganatoday.com/eagle-force-busts-alleged-interstate-ganja-network-five-arrested
     publisher: Telangana Today
     date: 2026-11-05
+  - title: EAGLE Force arrests Assam gang kingpin, four others in Hyderabad drug racket
+    url: https://hyderabadmail.com/eagle-force-arrests-assam-ganja-kingpin-hyderabad-drug-racket/
+    publisher: Hyderabad Mail
+    date: 2026-11-05
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -123,10 +127,10 @@ open_questions:
   - The new account does not repeat that the five men were arrested at a house in Prem Nagar in a night raid, as another outlet already cited reported.
 ---
 
-The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3] EAGLE
+The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,10] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
-24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9] The five arrested were
+24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9,10] The five arrested were
 Hazarika, Babu Borah, Nirmal Hazarika, Pranajal Dutta and Akan Rajbanshi; all
 five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1,9] Hazarika, 31,
 had worked as a security guard and delivery executive and operated couriers and
@@ -135,7 +139,7 @@ investigation began on 27 August when EAGLE Force and Choutuppal Police
 intercepted a Maruti Suzuki Fronx after a chase. [@1,2]
 
 The network repackaged each kilogram of marijuana into about 150 small packets,
-sold for ₹300 each. [@1,2,3,4] Police said Hazarika reportedly sold 40 to 50 kg
+sold for ₹300 each. [@1,2,3,4,10] Police said Hazarika reportedly sold 40 to 50 kg
 monthly over ten months to around 100 regular customers in Cyberabad. [@1]
 
 Bank transaction analysis showed Hazarika bought marijuana worth ₹48 lakh from
@@ -156,3 +160,5 @@ Police raided a house at Prem Nagar in Hafeezpet on Wednesday night and arrested
 Hazarika had previously been caught in three ganja cases and was released on bail in each, but continued the trade. [@7] Two couriers first held by Choutuppal police, when questioned, led special teams to the gang's Hyderabad operation. [@7]
 
 At Prem Nagar in New Hafeezpet, Hazarika ran a small roadside hotel. [@9]
+
+Bhaskar Hazarika, 31, is a native of Lakhimpur in Assam. [@10]
