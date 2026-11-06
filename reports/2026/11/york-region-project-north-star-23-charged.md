@@ -112,6 +112,10 @@ sources:
     url: https://torontosun.com/news/local-news/project-north-star-illegal-cannabis-operation-arrests-toronto-london
     publisher: Toronto Sun
     date: 2026-11-04
+  - title: Police dismantle $4.8M London grow operation, charge 23 people
+    url: https://www.ctvnews.ca/london/article/police-dismantle-48m-london-grow-operation-charge-23-people/
+    publisher: CTV News
+    date: 2026-11-05
 open_questions:
   - Weights were reported as more than the stated pounds, so the kilogram total is a lower-bound conversion.
   - No weight was published for the infused edibles, so they are excluded from the cannabis weight.
@@ -156,36 +160,41 @@ open_questions:
   - Toronto Sun calls Ailsa Craig a rural village while the existing report calls it a rural community; the seven-place warrant list is otherwise identical.
   - Toronto Sun's $7.5 million figure is introduced in its own text as '$7.5 million in illegal cannabis', while police sources describe it as the value of all drugs seized.
   - Only the lead handout image (Project-North-Star-4) has a verifiable address in the opened page markup, so only one media entry is added; the other inline images repeat the same generic caption with no confirmed distinct addresses, and it may duplicate police handout photos already linked from CP24.
+  - CTV News London published this account of the Project North Star charges on 5 November 2026, a day after the police announcement recorded in this report.
+  - CTV repeats the York Regional Police account without independent reporting, so it does not resolve whether the wanted man is counted among the 23 charged.
+  - CTV gives no weight for the infused edibles, no plant count and no area for the London grow operation, and no figure for the number of searches or charges laid.
+  - The five photos on the CTV page are captioned as York Regional Police items seized in Project North Star; they could not be confirmed as distinct from the police handout photos already linked in this report, so no media entry is added.
+  - Two Ailsa Craig residents aged 39 and 46 are the only accused whose ages CTV gives, without detail that could confirm them against the full charge list.
 ---
 
 York Regional Police have charged 23 people and are searching for another
 suspect after an investigation into an alleged cannabis trafficking operation
-that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14,15,16] The
+that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14,15,16,17] The
 man still wanted is Zongyu Zhu, 26, of Markham, who faces charges of conspiracy
 to commit an indictable offence and possession for the purpose of distributing.
 [@1,3,4,5,6,7,12,13,14,15,16]
 
 Investigators say they seized more than 1,550 pounds of cannabis, 8.5 pounds of
 hashish and 4.4 pounds of cannabis derivatives, along with infused edibles and
-small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13,14,16] Police also seized two firearms
-with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13,14,15,16]
+small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13,14,16,17] Police also seized two firearms
+with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13,14,15,16,17]
 Two Ford pickup trucks were also seized, one of which police allege had been
 re-vinned. [@1,3,4,8,11,13,16] Police estimated the cannabis taken from the London grow
-operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16] York police put the
+operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17] York police put the
 value of all drugs seized in the project at more than $7.5 million. [@2,4,5,16]
 
 The investigation was dubbed Project North Star and was launched in February
-2026. [@1,3,5,7,12,13,16] It was led by the York Regional Police Complex Investigation Unit, in
+2026. [@1,3,5,7,12,13,16,17] It was led by the York Regional Police Complex Investigation Unit, in
 partnership with the Ontario Provincial Police Provincial Joint Forces Cannabis
 Enforcement Team, the Canada Border Services Agency and the London Police
-Service. [@2,6,8,9,10,11,12,16] Investigators allege the group sourced cannabis from several
+Service. [@2,6,8,9,10,11,12,16,17] Investigators allege the group sourced cannabis from several
 locations across Ontario, including a large-scale illegal grow operation in
 London, before distributing it through the underground market. [@1,2,3,4,5,16] Police say
 the group also operated an online illicit dispensary and shipped cannabis to
 destinations across North America and parts of Europe using commercial parcel
-delivery services. [@1,3,8,13,16] Search warrants were executed between July and September
+delivery services. [@1,3,8,13,16,17] Search warrants were executed between July and September
 at properties in Markham, Scarborough, Vaughan, Burlington, Milton, London and
-the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13,14,16] The investigation shut down the illicit
+the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13,14,16,17] The investigation shut down the illicit
 cannabis dispensary and dismantled the illicit grow operation in London. [@2,4,10,11,16]
 
 The 23 people face a total of 90 charges. [@5]
