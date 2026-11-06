@@ -39,6 +39,10 @@ sources:
     archived: https://web.archive.org/web/20261011152540/https://pmnewsnigeria.com/2026/10/11/ndlea-arrests-south-african-woman-with-32-74kg-of-cannabis-at-port-harcourt-airport/
     publisher: P.M. News
     date: 2026-10-11
+  - title: NDLEA says South Africans lead drug cartels in Nigeria, three arrested
+    url: https://ng.headtopics.com/news/ndlea-south-africans-leading-drug-trafficking-cartels-in-89584626
+    publisher: Head Topics
+    date: 2026-11-05
 media:
   - kind: photo
     url: https://ndlea.gov.ng/blog/83-year-old-convicted-grandma-south-african-lady-arrested-with-colos-meth-shipments
@@ -52,16 +56,22 @@ media:
     archived: https://web.archive.org/web/20261011152540/https://pmnewsnigeria.com/2026/10/11/ndlea-arrests-south-african-woman-with-32-74kg-of-cannabis-at-port-harcourt-airport/
     publisher: P.M. News
     caption: Gebashe Sithandiwe Jessie, the suspect arrested at Port Harcourt airport
+open_questions:
+  - Head Topics calls the 32.74 kg of Thai Loud 'synthetic cannabis'; the existing report follows the NDLEA statement and P.M. News in treating Thai Loud as a cannabis strain.
+  - The briefing gives no date for the Port Harcourt arrest beyond 'October 2026' and no court outcome.
+  - The three-arrest tally in the briefing covers separate operations in different months, and the reporting does not say whether the Abuja heroin case has led to charges.
 ---
 
 Nigeria's National Drug Law Enforcement Agency (NDLEA) said on 11 October 2026 that its officers,
 working with the Nigeria Customs Service, had arrested a South African woman at Port Harcourt
-International Airport with 32.74 kg of cannabis. [@1,2]
+International Airport with 32.74 kg of cannabis. [@1,2,3]
 
 The woman, named by the agency as Gebashe Sithandiwe Jessie, arrived on Qatar Airways flight QR1431
 from Thailand via Doha with 30 parcels of Thai Loud, a cannabis strain, concealed in two travelling
-bags, the agency said. [@1,2] P.M. News reported that she is 30 years old. [@2] The agency said she
+bags, the agency said. [@1,2,3] P.M. News reported that she is 30 years old. [@2] The agency said she
 confessed to having trafficked drugs through other African countries and was trying to extend her
 route to Port Harcourt when she was arrested. [@1,2]
 
 The NDLEA did not say on what date she was arrested or whether she had appeared in court. [@1]
+
+The NDLEA said three South African nationals had been arrested in the period under review, a tally that also covered a separate July 2026 case in which a woman arriving from Doha was found with 5.75 kg of heroin. [@3]
