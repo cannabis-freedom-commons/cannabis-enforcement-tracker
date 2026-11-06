@@ -56,16 +56,24 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-06
     language: hi
+  - title: घर से 10.550 किलो गांजा के साथ गृह स्वामी गिरफ्तार
+    url: https://www.bhaskar.com/local/bihar/saharsa/news/homeowner-arrested-with-10550-kg-of-marijuana-dbp-139605000.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The article gives no separate calendar date for the raid; 5 November 2026, the publication date and the Thursday-evening briefing date, is used as the incident date.
   - Only the Dainik Bhaskar account, in video and text versions, was accessible; no independent second outlet was found.
   - The Rs 1.5 lakh figure is the police estimate for the seized ganja, described as about one and a half lakh rupees.
   - No date or case details were given for the accused's earlier jailing on a ganja charge.
   - No charge sheet or court outcome was reported; the case stood at FIR No. 107 with further action under way.
+  - The submitted page's body is truncated by an app paywall after its opening lines, so only the headline facts could be checked against it.
+  - The submitted page was published on 6 November 2026, a day after the existing report's incident date; it describes the same raid with no new date, so the incident date is unchanged.
+  - No usable event photo appears on the submitted page, so no media entry is added.
 ---
 
 Sonvarsha Kachhari police arrested Vinod Yadav in Diwari village, Saharsa, with
-10.55 kg of ganja. [@2] Sadar SDPO Pankaj Kumar Singh said on Thursday evening
+10.55 kg of ganja. [@2,3] Sadar SDPO Pankaj Kumar Singh said on Thursday evening
 that patrols and raids were being carried out against the dry-drug trade on the
 SP's orders. [@2] Police said a patrol tip stated that Yadav, a resident of Ward
 No. 2 in Diwari village, was buying and selling narcotics from his home. [@2] A
@@ -81,3 +89,4 @@ Yadav had previously gone to jail on a ganja-smuggling charge. [@2] Police
 registered FIR No. 107 at Sonvarsha Kachhari station and said further action was
 under way. [@2]
 
+Vinod Yadav was 41 years old. [@3]
