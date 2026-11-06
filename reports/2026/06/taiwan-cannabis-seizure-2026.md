@@ -37,6 +37,11 @@ sources:
     publisher: 翻爆 - 翻報
     date: 2026-11-05
     language: zh
+  - title: 政院：海巡2026查處驅離中國船舶618艘次 守護國安
+    url: https://money.udn.com/money/amp/story/7307/9859759
+    publisher: 經濟日報
+    date: 2026-11-05
+    language: zh
 open_questions:
   - The 5 November speech gives a year-to-date drug total of 12,901.6 kg without separating cannabis, so it is not recorded as a cannabis figure.
   - The 3-tonne figure covers two drug cases found during a 50-day maritime lockdown roundup and is not attributed to the Rueifang case.
@@ -47,8 +52,10 @@ open_questions:
   - The submitted page gives no separate date or place for the 766-kg seizure beyond presenting it as this year's joint coast-guard and police inland seizure.
   - The submitted page names no arrests, charges, valuations, package counts or court outcome for the cannabis case.
   - The page's only photo shows spokesperson Li Huizhi at the Executive Yuan press conference, not the seizure, so no media entry is taken from it.
+  - The page gives no separate date or place for the 766-kg seizure beyond presenting it as this year's joint coast-guard and police inland seizure.
+  - The page carries no photo of the seizure itself, so no media entry is added.
 ---
 
 Coast guard and police officers stopped a truck in New Taipei's Rueifang district early on 3 June 2026 and found 1,309 packages holding 766.09 kg of dried cannabis flower, along with amphetamine and mixed drugs. The coast guard valued the haul at about NT$1.62 billion and said it was its largest cannabis seizure in ten years; seven people were arrested and prosecutors indicted them on 24 August. The announcement was made on 5 October. [@1,2]
 
-At the award ceremony on 5 November 2026 the minister again described the case as the largest cannabis seizure in Taiwan in the past ten years. [@2,3,4] She put the coast guard's year-to-date drug seizures at 12,901.6 kg, a total not separated by substance. [@2,3] She said that during a maritime lockdown the service had broken two drug cases and seized more than 3 tonnes of drugs, alongside two illegal border-crossing cases and more than 20 wanted fugitives. [@2]
+At the award ceremony on 5 November 2026 the minister again described the case as the largest cannabis seizure in Taiwan in the past ten years. [@2,3,4,5] She put the coast guard's year-to-date drug seizures at 12,901.6 kg, a total not separated by substance. [@2,3] She said that during a maritime lockdown the service had broken two drug cases and seized more than 3 tonnes of drugs, alongside two illegal border-crossing cases and more than 20 wanted fugitives. [@2]
