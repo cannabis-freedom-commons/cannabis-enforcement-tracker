@@ -41,6 +41,11 @@ sources:
     publisher: Navbharat Live
     date: 2026-11-06
     language: hi
+  - title: मुंबई विमानतळावर कोट्यवधींच्या गांजा तस्करीचा पर्दाफाश; चॉकलेटच्या पाकिटातून लपवून आणले ड्रग्ज
+    url: https://www.lokmat.com/mumbai/smuggling-attempt-thwarted-at-mumbai-airport-drugs-hidden-in-chocolate-wrappers-a1001/amp/
+    publisher: Lokmat
+    date: 2026-11-06
+    language: mr
 open_questions:
   - The article gives no calendar date for either interception and says only they happened "recently"; 4 November 2026 is the dateline of its text and is used as the incident date.
   - The two interceptions are not dated separately, so it is not known how far apart they occurred.
@@ -51,24 +56,28 @@ open_questions:
   - The lead photo is captioned as a representational image and is an older file, so it does not establish that it shows this seizure and no media entry is included.
   - The Gallinews page gives no separate date for the two interceptions and only its own 5 November 2026 publication date.
   - The Gallinews page names neither man, so it cannot confirm or contradict the names Tshegay and Tashi Tenzin used in the Free Press Journal account.
+  - Lokmat does not give a calendar date for the two interceptions; its publication is 6 November 2026, two days after the dateline used as the incident date in the existing report.
+  - Lokmat names only the second passenger, Tashi Tenzin, and does not name the first, so it cannot confirm the name Tshegay used in the Free Press Journal account.
+  - The headline speaks of smuggling worth crores but the article states no rupee value, so no value is recorded.
+  - The page's single photo is a generic file captioned with the headline and is not established to show this seizure, so no media entry is added.
 ---
 
 Air Intelligence Unit officers at Chhatrapati Shivaji Maharaj International
 Airport in Mumbai arrested two Bhutanese nationals who had arrived from Bangkok
-on separate flights, and seized cannabis. [@1,2,3]
+on separate flights, and seized cannabis. [@1,2,3,5]
 
 In the first interception, officers acting on specific profiling stopped a
-Bhutanese passenger identified as Tshegay as he arrived from Thailand. [@1]
+Bhutanese passenger identified as Tshegay as he arrived from Thailand. [@1,5]
 Officers found seven vacuum-sealed packets concealed inside commercial chocolate
-wrappers, holding 1,452 grams of cannabis. [@1,2,3] Tshegay admitted the offence
+wrappers, holding 1,452 grams of cannabis. [@1,2,3,5] Tshegay admitted the offence
 during questioning and said he had been lured by the promise of “quick and easy
 money”. [@1] He was summoned, his statement recorded under the Narcotic Drugs
 and Psychotropic Substances (NDPS) Act, and he was arrested. [@1]
 
 Closely following the first interception, officers stopped a second Bhutanese
-national, Tashi Tenzin, who had also flown into Mumbai from Bangkok. [@1] A
+national, Tashi Tenzin, who had also flown into Mumbai from Bangkok. [@1,5] A
 search of Tenzin's baggage found seven chocolate carton boxes holding another
-consignment of approximately 1,500 grams of cannabis. [@1,2,3] Tenzin was arrested
+consignment of approximately 1,500 grams of cannabis. [@1,2,3,5] Tenzin was arrested
 immediately after failing to give a legitimate explanation for the contraband.
 [@1,2]
 
