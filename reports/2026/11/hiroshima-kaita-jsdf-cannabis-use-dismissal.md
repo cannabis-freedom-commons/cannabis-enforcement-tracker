@@ -1,0 +1,94 @@
+---
+code: 69F0E8
+added_at: "2026-11-06T18:46:44.6639Z"
+date: 2026-11-06
+country: jp
+place: Kaita, Aki District, Hiroshima Prefecture
+coordinates: [34.3724, 132.5329]
+precision: locality
+type: sentence
+also: [arrest, prosecution]
+title: Self-Defense Force private, 19, dismissed over cannabis use in Hiroshima
+summary: >-
+  Japan's Ground Self-Defense Force dismissed a 19-year-old private second class at the Kaita garrison in Hiroshima Prefecture on 6 November 2026 for using cannabis and other drugs at a friend's home in Hiroshima City in August. He had been arrested in September with two friends on suspicion of cannabis use.
+figures:
+  arrested: 3
+  sentenced: 1
+details:
+  agencies: [Japan Ground Self-Defense Force Kaita garrison, Kaita Police Station]
+  agency_types: [other, police]
+  products:
+    - {product: flower}
+  activity: [use]
+  setting: [home]
+  charges: [Narcotics and Psychotropics Control Law violation (use)]
+  case_stage: investigation
+  region: Hiroshima Prefecture
+data_sources:
+  details.activity: [1]
+  details.agencies: [2]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [2]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.sentenced: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 00b9ee82fc0a6c3549f74072b5235b7c
+tags: [hiroshima, kaita, jsdf, dismissal, use]
+sources:
+  - title: 自衛隊員（１９）大麻使用で懲戒免職「出来心だった」　友人宅に集まり３人で使用した疑い９月逮捕　広島
+    url: https://www.fnn.jp/articles/-/1147385
+    publisher: FNNプライムオンライン
+    date: 2026-11-06
+    language: ja
+  - title: 広島の友人宅で大麻使用　陸自2士搬送され、免職
+    url: https://www.sankei.com/article/20261106-FKVYEG5GRRIFRBXI3HN3LNLYIM/
+    publisher: 産経ニュース
+    date: 2026-11-06
+    language: ja
+  - title: 広島市で大麻使用の19歳陸上自衛隊員、懲戒免職に「出来心だった」
+    url: https://www.chugoku-np.co.jp/articles/-/920919
+    publisher: 中国新聞デジタル
+    date: 2026-11-06
+    language: ja
+  - title: 自宅で大麻使用の疑い　19歳の自衛隊員ら3人逮捕・広島
+    url: https://news.ntv.co.jp/n/htv/category/society/ht80eebe5fe25f44baa78c18b3bb7bf580
+    publisher: 広テレ！NEWS NNN
+    date: 2026-09-30
+    language: ja
+open_questions:
+  - No weight, form or value of the cannabis was published, so no cannabis quantity is recorded.
+  - Sankei reports the soldier also used a type of synthetic drug; that substance is outside this tracker's scope and no quantities of any drug are given.
+  - The September arrest date within the month is not stated; the arrest is placed in September 2026 on the sources' wording.
+  - The dismissal is an administrative disciplinary measure, not a court sentence, and no court outcome is reported.
+  - The soldier's name was not published in the accessible text.
+  - The FNN page image address resolves to a generic thumbnail associated with the page and is not established to show this case, so no media entry is listed.
+---
+
+Japan's Ground Self-Defense Force dismissed a 19-year-old private second class
+at the Kaita garrison in Hiroshima Prefecture on 6 November 2026 over cannabis
+use. [@1] The dismissal was pronounced by the 46th Infantry Regiment, the unit
+at the Kaita garrison in Kaita town, Hiroshima Prefecture, according to the
+Chugoku Shimbun. [@3]
+
+The garrison said the soldier used cannabis and other drugs at a friend's home
+in Aki Ward, Hiroshima City, in August this year. [@1] In September he was
+arrested together with two friends on suspicion of cannabis use. [@1] The
+broadcast report on the arrests said police suspected the three men of using
+cannabis at one of their homes between about May and August 2026. [@4] Sankei
+reported that neighbours complained about noise on the night of 29 August, that
+the soldier collapsed while officers questioned him and was taken to hospital,
+and that a drug test was positive. [@2] The Kaita police station arrested him in
+September on suspicion of violating the Narcotics and Psychotropics Control Law
+by use. [@2]
+
+Asked about the matter in the garrison's hearing, the soldier said it was a
+momentary impulse and that he was deeply sorry. [@1] Colonel Manji Hyodo,
+commander of the 46th Infantry Regiment, said the force would tighten
+instruction to its members and work to prevent a repeat. [@1] The Chugoku
+Shimbun reported that the garrison said this was the first time one of its
+members had been arrested over a drug case. [@4]
+
