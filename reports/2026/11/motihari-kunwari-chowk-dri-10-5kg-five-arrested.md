@@ -73,6 +73,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-05
     language: hi
+  - title: 'मोतिहारी के मुफस्सिल में STF का बड़ा शिकंजा: 10 किलो गांजा के साथ पांच तस्कर गिरफ्तार, दो बाइक जब्त'
+    url: https://www.prabhatkhabar.com/state/bihar/motihari/stf-arrests-five-smugglers-10kg-ganja-mufassil
+    publisher: Prabhat Khabar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - 'The two accounts name the spot differently: Hindustan says Kunwari Chowk and Dainik Bhaskar says Chatauni Chowk, both near Motihari; the report uses Kunwari Chowk and records the discrepancy.'
   - Neither account gives a published market value for the 10.5 kg of ganja, so no value is recorded.
@@ -80,21 +85,26 @@ open_questions:
   - The court is identified only as the special court of the principal district and sessions judge; no case number or section of the NDPS Act was published.
   - Whether the hired car was seized, and who supplied or financed the load in Nepal, was not reported.
   - The Hindustan page image uses a 2025 image address captioned only with the headline, so whether it shows this seizure is not established; the entry links it as the page picture.
+  - This account attributes the raid to the STF and district intelligence unit in the Mufassil police-station area, while the existing report attributes the same arrests to the DRI Muzaffarpur unit with the SSB 71st Battalion at Kunwari/Chatauni Chowk; the agency and precise spot differ.
+  - This account reports an even 10 kg of ganja, while the existing report records about 10.5 kg and 10.550 kg; the report keeps the existing figures.
+  - This account reports two motorcycles and five smartphones seized but no cash, while the existing report records Rs 45,000 cash and two motorcycles with no phones; whether cash and phones were seized together is unresolved.
+  - This account names Tikulia village in Adapur and Saraia Khas in Govindganj, while the existing report gives ward numbers in Adapur and Sareya Khwas under Govindganj; spellings also vary (Bhulan/Bhuln, Sah/Shah, Sahni/Sahani).
+  - This account does not mention the hired car, the Satganj-Nepal origin, the FIR by the DRI intelligence officer, or the production before the special court and remand to jail recorded in the existing report.
 ---
 
 The Muzaffarpur unit of the Directorate of Revenue Intelligence (DRI), India's
 customs intelligence agency, arrested five men with about ten and a half
 kilograms of ganja near Kunwari Chowk in Motihari on the night of Wednesday 4
-November 2026. [@1] The arrested men were Bhulan Kumar and Shyam Kumar of Ward 8
+November 2026. [@1,3] The arrested men were Bhulan Kumar and Shyam Kumar of Ward 8
 and Gulshan Kumar of Ward 7 in Adapur, and Mukesh Sah of Ward 12 and Radheshyam
 Sahni of Ward 13 in Sareya Khwas, which falls under Govindganj police station,
-all in East Champaran district. [@1] Dainik Bhaskar puts the seizure at 10.550
+all in East Champaran district. [@1,3] Dainik Bhaskar puts the seizure at 10.550
 kilograms and says the consignment was brought from Satganj in Nepal and meant
-to be sold in Motihari and nearby areas. [@2]
+to be sold in Motihari and nearby areas. [@2,3]
 
 The men had brought the load in bags in a hired car and were about to deliver it
 by motorcycle, the DRI team said. [@1] Officers seized Rs 45,000 in cash and two
-motorcycles from the men. [@1] Dainik Bhaskar reports that the joint team was
+motorcycles from the men. [@1,3] Dainik Bhaskar reports that the joint team was
 formed from the 71st Battalion of the Sashastra Seema Bal (SSB), India's border
 guard, in Motihari and the DRI's Muzaffarpur unit, and that it set up the cordon
 about 30 kilometres inside the India-Nepal border from border pillar 376. [@2]
@@ -106,3 +116,4 @@ usually handles customs and smuggling cases, is the national agency behind a run
 of cannabis seizures across India in recent months, including ganja and charas
 hauls in Bihar and Uttar Pradesh. [@1]
 
+Officers also seized five smartphones from the men. [@3]
