@@ -1,18 +1,18 @@
 ---
 code: RRYRW6
 added_at: "2026-11-04T17:03:03.070235Z"
-date: 2026-11-04
+date: 2026-11-05
 country: eg
 place: Al-Marg district, Cairo
 coordinates: [30.16, 31.335]
 precision: district
-type: arrest
-also: [seizure]
+type: prosecution
+also: [seizure, arrest]
 title: Man held with 200 hashish slabs in Cairo's Al-Marg
 summary: >-
   Cairo police arrested a repeat offender in Al-Marg district, seizing 200 hashish slabs plus a shotgun, cash and a phone. The suspect admitted holding the drugs for sale and the Public Prosecution took over the investigation.
 figures:
-  arrested: 1
+    arrested: 1
 details:
   products:
     - {product: hashish}
@@ -28,6 +28,11 @@ sources:
     publisher: يوليو
     date: 2026-11-04
     language: ar
+  - title: حبس مسجل خطر 4 أيام بتهمة الاتجار في المخدرات بالمرج
+    url: https://www.youlyou.com/87925
+    publisher: يوليو
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No weight was published for the 200 hashish slabs, so no kilogram figure can be recorded.
   - The article gives no separate date for the arrest; 4 November 2026 is the publication date and is used as the incident date.
@@ -35,6 +40,10 @@ open_questions:
   - No court outcome beyond referral to the Public Prosecution investigation was reported.
   - Only one accessible source for this event was found after searching in Arabic.
   - The page photo is captioned only as the accused and is not established to show this seizure, so no media entry is included.
+  - The article gives no separate date for the detention order; 5 November 2026 is used because the prosecution ordered it the day before the 6 November publication.
+  - No weight or street value was published for the 200 hashish slabs, so no kilogram figure or value is recorded.
+  - No charge sheet, bail decision or court outcome beyond the four-day pretrial detention was reported.
+  - Only one opened source covering this detention step was found after searching in Arabic.
 ---
 
 Cairo security forces arrested a man in Al-Marg district on suspicion of
@@ -46,13 +55,14 @@ arresting the suspect. [@1]
 
 After legal procedures were completed and several ambushes were set, a Marg
 detective detained the suspect. [@1] Officers found 200 hashish slabs in his
-possession, along with a shotgun, a mobile phone and an amount of cash. [@1]
+possession, along with a shotgun, a mobile phone and an amount of cash. [@1,2]
 Police presented the case as intercepting the dealer before he could distribute
 the 200 slabs to his clients in Al-Marg. [@1]
 
 When confronted before the head of East Cairo investigations, the man admitted
-possessing the seized items for trafficking. [@1] He said the cash was proceeds
+possessing the seized items for trafficking. [@1,2] He said the cash was proceeds
 of sales and that the phone was used to facilitate contact with his clients.
 [@1] Police filed the required report and the Public Prosecution took over the
 investigation. [@1]
 
+The Al-Marg prosecution ordered a repeat offender held for four days pending investigation on a charge of trafficking drugs in the Al-Marg police station district. [@2]
