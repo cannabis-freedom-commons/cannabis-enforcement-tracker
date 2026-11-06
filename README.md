@@ -348,7 +348,10 @@ links it) and a 320px AVIF thumbnail to `public/media/<ab>/<cd>/<sha256>.avif`, 
 served at `/media/`. Pages reserve each photo's size and show its blurred placeholder until it
 loads. Report lists and photo grids of three or more use the thumbnails; a grid of one or two
 photos, and enlarging a photo, load the original from its publisher through the image proxy.
-`MEDIA_BASE` at build time serves the thumbnails from elsewhere. The submission service does this
+`MEDIA_BASE` at build time serves the thumbnails from elsewhere. Videos that play in place (a video
+file, or YouTube) are shown as a poster with a "Play video from <site>" button and contact nobody
+until it is clicked; the script makes their 640px poster from YouTube's preview image or a frame of
+the file (ffmpeg). The service does photos only: run the script by hand for new video posters. The submission service does this
 for every report it commits: it fetches new photos through its public-address-only client, runs the
 script with `--input`, and commits `src/data/media.json` and the new thumbnails separately
 ("Add photo thumbnails: …"), before pushing.

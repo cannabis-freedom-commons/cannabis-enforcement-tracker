@@ -5,6 +5,8 @@
 // committed, the photos belong to their publishers). A 320px AVIF thumbnail goes to
 // public/media/<ab>/<cd>/<sha256>.avif: committed and served by the site in grids and lists;
 // enlarging a photo still loads the original from its publisher (src/lib/media-manifest.js).
+// Videos that play in place (a video file, or YouTube) get a poster the same way, 640px: YouTube's
+// preview image, or a frame of the file taken with ffmpeg. The video itself is never copied.
 //
 //   node scripts/media-manifest.mjs              photos not in the manifest yet
 //   node scripts/media-manifest.mjs --retry      also try again those that failed
@@ -18,6 +20,9 @@ import crypto from "node:crypto";
 import sharp from "sharp";
 import { load } from "js-yaml";
 import { rgbaToThumbHash } from "thumbhash";
+import { execFile } from "node:child_process";
+import { promisify } from "node:util";
+import { mediaView } from "../src/lib/media.js";
 
 const MANIFEST = "src/data/media.json", ORIGINALS = "archive/media", THUMBS = "public/media";
 // the same browser identity as archive-media.mjs: many news sites refuse unknown clients
@@ -27,12 +32,22 @@ const inputAt = process.argv.indexOf("--input");
 const input = inputAt > 0 ? JSON.parse(fs.readFileSync(process.argv[inputAt + 1], "utf8")) : null;
 const manifest = fs.existsSync(MANIFEST) ? JSON.parse(fs.readFileSync(MANIFEST, "utf8")) : {};
 
-// every photo the reports link, with the page it was published on
-const wanted = new Map();
+// a video's poster: YouTube's preview image, or a frame of a video file (null: shown as a link)
+function posterSource(url) {
+  const view = mediaView({ kind: "video", media_url: url });
+  const yt = view?.type === "embed" && view.src.match(/youtube-nocookie\.com\/embed\/([\w-]+)/)?.[1];
+  if (yt) return { kind: "youtube", poster: `https://i.ytimg.com/vi/${yt}/hqdefault.jpg` };
+  if (view?.type === "video") return { kind: "file", poster: null };
+  return null;
+}
+
+// every photo the reports link, with the page it was published on; and the videos that play in place
+const wanted = new Map(), videos = new Map();
 for (const p of input ? [] : fs.globSync("reports/**/*.md")) {
   const t = fs.readFileSync(p, "utf8"), e = t.indexOf("\n---", 4);
   let d; try { d = load(t.slice(4, e)); } catch { continue; }
   for (const m of d.media ?? []) if (m.kind === "photo" && /^https?:\/\//.test(m.media_url ?? "")) wanted.set(m.media_url, m.url);
+  for (const m of d.media ?? []) if (m.kind === "video" && posterSource(m.media_url)) videos.set(m.media_url, m.url);
 }
 // what archive-media.mjs already keeps, by image address
 const archived = new Map();
@@ -52,11 +67,11 @@ async function describe(buf) {
   const upright = (meta.orientation ?? 1) >= 5;
   return { width: upright ? meta.height : meta.width, height: upright ? meta.width : meta.height, type: `image/${meta.format}`, thumbhash: hash };
 }
-async function thumbnail(buf, sha) {
+async function thumbnail(buf, sha, size = 320) {
   const out = thumbPath(sha);
   if (fs.existsSync(out)) return;
   fs.mkdirSync(path.dirname(out), { recursive: true });
-  await sharp(buf, { failOn: "none" }).rotate().resize(320, 320, { fit: "inside", withoutEnlargement: true }).avif({ quality: 50, effort: 4 }).toFile(out);
+  await sharp(buf, { failOn: "none" }).rotate().resize(size, size, { fit: "inside", withoutEnlargement: true }).avif({ quality: 50, effort: 4 }).toFile(out);
 }
 async function download(url, page) {
   const res = await fetch(url, { headers: { "User-Agent": UA, ...(page ? { Referer: page } : {}) }, signal: AbortSignal.timeout(25000), redirect: "follow" });
@@ -93,6 +108,34 @@ async function one(url, page) {
   }
 }
 
+// one frame of a video file, a second in (or its first, for a very short one), as JPEG
+const run = promisify(execFile);
+async function frameOf(url) {
+  for (const at of ["1", "0"]) {
+    try {
+      const { stdout } = await run("ffmpeg", ["-nostdin", "-loglevel", "error", "-user_agent", UA, "-ss", at, "-i", url, "-frames:v", "1", "-f", "image2", "-vcodec", "mjpeg", "pipe:1"], { encoding: "buffer", timeout: 60000, maxBuffer: 20 * 1024 * 1024 });
+      if (stdout.length > 1000) return stdout;
+    } catch {}
+  }
+  throw new Error("no frame could be read");
+}
+async function oneVideo(url, page) {
+  const old = manifest[url];
+  if (old && (old.status === "ok" || !retry)) return;
+  const source = posterSource(url);
+  try {
+    const buf = source.kind === "youtube" ? await download(source.poster, page) : await frameOf(url);
+    const sha256 = crypto.createHash("sha256").update(buf).digest("hex");
+    const info = await describe(buf);
+    fs.mkdirSync(ORIGINALS, { recursive: true });
+    if (!originalOf(sha256)) fs.writeFileSync(path.join(ORIGINALS, `${sha256}.${info.type.split("/")[1].replace("jpeg", "jpg")}`), buf);
+    await thumbnail(buf, sha256, 640);
+    manifest[url] = { kind: "video", status: "ok", poster: source.poster, sha256, ...info, bytes: buf.length, fetched: new Date().toISOString(), via: source.kind };
+  } catch (e) {
+    manifest[url] = { kind: "video", status: "unavailable", error: String(e.message ?? e).slice(0, 160), fetched: new Date().toISOString() };
+  }
+}
+
 // the reports' own cover images (src/assets/reports/): only a placeholder, keyed "cover:<name>"
 for (const f of input ? [] : fs.globSync("src/assets/reports/*.{jpg,jpeg,png,webp,avif}")) {
   const key = `cover:${path.basename(f).replace(/\.[^.]+$/, "")}`;
@@ -101,19 +144,19 @@ for (const f of input ? [] : fs.globSync("src/assets/reports/*.{jpg,jpeg,png,web
   try { manifest[key] = { status: "ok", sha256: crypto.createHash("sha256").update(buf).digest("hex"), ...(await describe(buf)), bytes: buf.length, via: "local" }; } catch {}
 }
 const save = () => {
-  const sorted = Object.fromEntries(Object.entries(manifest).filter(([u]) => input || wanted.has(u) || u.startsWith("cover:")).sort(([a], [b]) => a.localeCompare(b)));
+  const sorted = Object.fromEntries(Object.entries(manifest).filter(([u]) => input || wanted.has(u) || videos.has(u) || u.startsWith("cover:")).sort(([a], [b]) => a.localeCompare(b)));
   fs.writeFileSync(MANIFEST, JSON.stringify(sorted, null, 0).replace(/},"/g, '},\n"') + "\n");
 };
 if (input) for (const x of input) if (/^https?:\/\//.test(x.url ?? "")) wanted.set(x.url, null);
-const queue = [...wanted];
+const queue = [...wanted, ...[...videos].map(([u, p]) => [u, p, true])];
 let done = 0;
 await Promise.all(Array.from({ length: 8 }, async () => {
   while (queue.length) {
-    const [url, page] = queue.shift();
-    await one(url, page);
+    const [url, page, video] = queue.shift();
+    await (video ? oneVideo(url, page) : one(url, page));
     if (++done % 200 === 0) { save(); console.log(`${done}/${wanted.size}`); }
   }
 }));
 save();
 const all = Object.values(manifest), ok = all.filter((m) => m.status === "ok").length;
-console.log(`${wanted.size} photos: ${ok} described, ${all.length - ok} unavailable. Manifest: ${MANIFEST}`);
+console.log(`${wanted.size} photos and ${videos.size} videos: ${ok} described, ${all.length - ok} unavailable. Manifest: ${MANIFEST}`);

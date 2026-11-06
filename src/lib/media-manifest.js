@@ -67,3 +67,14 @@ export function photoOf(url) {
   const oursIsFull = !!ours && m.width <= 320 && m.height <= 320;
   return { src: ours ?? full, full: oursIsFull ? ours : full, original: url, host, ours, oursIsFull, width: m.width, height: m.height, placeholder: placeholderOf(m.thumbhash), hash: m.thumbhash, thumb: ours, meta };
 }
+
+// a video that plays in place, before it is played: its poster (our 640px copy of YouTube's preview
+// image or of a frame of the file), its placeholder, and who would be contacted to play it
+export function videoOf(url, view) {
+  const m = manifest[url];
+  const host = view?.type === "embed"
+    ? (/youtube/.test(view.src) ? "YouTube" : /vimeo/.test(view.src) ? "Vimeo" : new URL(view.src).hostname)
+    : (() => { try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return null; } })();
+  if (m?.status !== "ok") return { poster: null, placeholder: null, host };
+  return { poster: thumbUrlOf(m.sha256), placeholder: placeholderOf(m.thumbhash), host, width: m.width, height: m.height };
+}

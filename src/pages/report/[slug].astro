@@ -14,6 +14,7 @@ import { relative } from "node:path";
 import AddedAt from "../../components/AddedAt.astro";
 import Fact from "../../components/Fact.astro";
 import PhotoInfo from "../../components/PhotoInfo.astro";
+import VideoFacade from "../../components/VideoFacade.astro";
 import { legalContext } from "../../lib/legal-context.js";
 import { glanceFacts } from "../../lib/details.js";
 import { submissionsAPI } from "../../lib/submissions-config.js";
@@ -121,8 +122,7 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
                 {m.view.type === "photo" && <button type="button" class="media-open" aria-label={`Enlarge: ${m.caption}`} style={m.photo.placeholder ? `background-image:url(${m.photo.placeholder})` : undefined}>
                   <img src={shown.length > 2 ? m.photo.src : m.photo.full} data-full={m.photo.full} data-original={m.photo.original} data-ours={m.photo.ours ?? undefined} data-host={m.photo.host ?? undefined} width={m.photo.width ?? undefined} height={m.photo.height ?? undefined} alt={m.caption} loading="lazy" decoding="async" referrerpolicy="no-referrer" />
                 </button>}
-                {m.view.type === "video" && <video src={m.view.src} controls preload="metadata" playsinline referrerpolicy="no-referrer" aria-label={m.caption}></video>}
-                {m.view.type === "embed" && <iframe src={m.view.src} title={m.caption} loading="lazy" allow="fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>}
+                {(m.view.type === "video" || m.view.type === "embed") && <VideoFacade m={m} />}
                 <figcaption>{m.caption}{m.photo && <PhotoInfo photo={m.photo} shownSrc={shown.length > 2 || m.photo.oursIsFull ? m.photo.src : m.photo.full} archived={m.archived} />} <span class="media-source">Source: <a href={m.url} class="ext" target="_blank" rel="noopener noreferrer">{m.publisher}</a>{m.archived && <> · <a href={m.archived} target="_blank" rel="noopener">archived copy</a></>}</span></figcaption>
               </figure>
             ))}
@@ -235,3 +235,4 @@ const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryNa
 <script>import "../../scripts/report-citations.js";</script>
 {r.submission && <script>import "../../scripts/report-submission.js";</script>}
 {shown.some((m) => m.view.type === "photo") && <script>import "../../scripts/media-viewer.js";</script>}
+{shown.some((m) => m.view.type !== "photo") && <script>import "../../scripts/video-facade.js";</script>}

@@ -158,7 +158,7 @@ copied** to this site.
   Under the text, "Photos and video" shows each photo with a `media_url` in a grid, loaded through
   DuckDuckGo's image proxy so readers never contact the publisher (click to enlarge); report lists show
   the first photo as a thumbnail; plays a direct video file or a YouTube/Vimeo video in
-  place, each with its caption and source; a photo the publisher no longer serves, and any other
+  place once the reader clicks its poster (nothing loads from the video's site before), each with its caption and source; a photo the publisher no longer serves, and any other
   entry, stays a link (`src/lib/media.js`). After adding photos, run `node scripts/media-manifest.mjs`: it records
   each photo's size and placeholder in `src/data/media.json` and keeps the original privately.
 - Never publish a newspaper's photo, a stock photo, or a picture of a different event or of a building

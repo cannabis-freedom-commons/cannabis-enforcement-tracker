@@ -110,3 +110,13 @@
 .media-ask { position: absolute; top: 8px; left: 8px; right: 8px; display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; padding: 8px 10px; border-radius: 6px; background: rgb(0 0 0 / .72); color: #eee; font-size: 12.5px; line-height: 1.4; }
 .media-ask button, .media-viewer .mv-load { padding: 3px 10px; border: 1px solid rgb(255 255 255 / .5); border-radius: 999px; background: none; color: #fff; font: inherit; cursor: pointer; }
 .media-ask button:hover, .media-viewer .mv-load:hover { background: rgb(255 255 255 / .15); }
+
+/* a video before it is played: its poster and a play button saying where it plays from */
+.video-facade { position: relative; aspect-ratio: 16 / 9; border-radius: 8px; overflow: hidden; background: #000 center / cover no-repeat; }
+.video-facade img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.video-play { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; gap: 10px; width: 100%; padding: 0; border: 0; background: linear-gradient(transparent 40%, rgb(0 0 0 / .45)); color: #fff; font: 500 14px/1.3 inherit; cursor: pointer; }
+.video-play svg { width: 22px; height: 22px; padding: 13px; border-radius: 50%; background: rgb(0 0 0 / .65); box-sizing: content-box; transition: transform .15s, background .15s; }
+.video-play > span { padding: 5px 10px; border-radius: 999px; background: rgb(0 0 0 / .6); }
+.video-host { opacity: .8; }
+.video-play:hover svg, .video-play:focus-visible svg { transform: scale(1.08); background: var(--cite); }
+.video-error { margin: 0; padding: 24px 16px; border-radius: 8px; background: var(--surface); color: var(--muted); font-size: 14px; }
