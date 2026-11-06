@@ -61,6 +61,11 @@ sources:
     publisher: Haluan Riau
     date: 2026-11-06
     language: id
+  - title: Polres Kampar Tangkap Bandar Narkoba di Kampar, 1,2 Kg Ganja dan Sabu Disita
+    url: https://kabarduri.net/polres-kampar-tangkap-bandar-narkoba-di-kampar-12-kg-ganja-dan-sabu-disita/
+    publisher: KabarDuri
+    date: 2026-11-06
+    language: id
 open_questions:
   - Halo Terkini describes both men as suspected dealers while RiauAktual and Haluan Riau distinguish MK as the courier and HH as the dealer; this report follows the distinction.
   - Haluan Riau gives MK's residence as Dusun III Tanjung while Halo Terkini gives Desa Tanjung generally; the arrest roadside in Dusun I Tanjung is consistent.
@@ -71,10 +76,10 @@ open_questions:
 
 Kampar narcotics officers broke up an alleged trafficking case involving
 methamphetamine and dried cannabis leaf. [@1] Officers detained two Tanjung
-village residents, MK aged 24 and HH aged 34, in Koto Kampar Hulu. [@1] Police
+village residents, MK aged 24 and HH aged 34, in Koto Kampar Hulu. [@1,4] Police
 described MK as the suspected courier and HH as the suspected dealer. [@2] The
 operation took place on Wednesday 4 November 2026 at about 22.45 on a roadside
-in Dusun I Tanjung, Tanjung village. [@1]
+in Dusun I Tanjung, Tanjung village. [@1,4]
 
 Officers first stopped MK on the roadside in Dusun I Tanjung. [@3] A search
 witnessed by village officials found one packet of dried ganja weighing 22.36
@@ -85,11 +90,10 @@ packet weighing 11.86 grams, along with a digital scale, wrapping equipment and
 a phone. [@1]
 
 In total, police logged 1,222.36 grams of dried ganja and 11.86 grams of meth in
-the operation. [@1] MK told officers he had obtained the cannabis from HH, and
-his urine test was positive for THC. [@1] HH admitted acting as a dealer and
+the operation. [@1,4] MK told officers he had obtained the cannabis from HH, and
+his urine test was positive for THC. [@1,4] HH admitted acting as a dealer and
 said his supply came from AD and WY in Rokan Hulu, while his urine was positive
-for methamphetamine and THC. [@1] Both suspects were taken to Kampar police
+for methamphetamine and THC. [@1,4] Both suspects were taken to Kampar police
 headquarters for further investigation. [@2] Police said both men were charged
 under Articles 111 and 114 of the 2009 Narcotics Law in conjunction with the
-amended Criminal Code provisions. [@1]
-
+amended Criminal Code provisions. [@1,4]
