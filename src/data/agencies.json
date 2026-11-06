@@ -29,7 +29,7 @@
   { "id": "ie-garda", "name": "An Garda Síochána", "country": "ie", "type": "police", "aliases": ["Garda", "Gardaí"], "tags": ["garda"] },
   { "id": "ie-revenue", "name": "Revenue Commissioners (Customs)", "country": "ie", "type": "customs", "aliases": ["Revenue Commissioners", "Revenue Customs"], "tags": [] },
   { "id": "fr-gendarmerie", "name": "National Gendarmerie (France)", "country": "fr", "type": "gendarmerie", "aliases": ["Gendarmerie nationale"], "tags": [] },
-  { "id": "fr-douane", "name": "French Customs (Douane)", "country": "fr", "type": "customs", "aliases": ["Douane", "Douanes"], "tags": ["douane"] },
+  { "id": "fr-douane", "name": "French Customs (Douane)", "country": "fr", "type": "customs", "aliases": ["French Customs", "Douanes françaises", "douane française"], "tags": ["douane"] },
   { "id": "fr-ofast", "name": "Anti-Narcotics Office (OFAST)", "country": "fr", "type": "anti-narcotics", "aliases": ["OFAST"], "tags": ["ofast"] },
   { "id": "es-guardia-civil", "name": "Guardia Civil", "country": "es", "type": "gendarmerie", "aliases": ["Guardia Civil"], "tags": ["guardia-civil"] },
   { "id": "es-policia-nacional", "name": "National Police of Spain", "country": "es", "type": "police", "aliases": ["Policía Nacional"], "tags": ["policia-nacional"] },
