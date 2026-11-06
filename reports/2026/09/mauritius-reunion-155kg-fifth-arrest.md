@@ -72,6 +72,11 @@ sources:
     publisher: Zinfos974
     date: 2026-08-01
     language: fr
+  - title: 'Trafic présumé de 156 kg de zamal : deux bateaux saisis au domicile de Ravindra Chimajee'
+    url: https://defimedia.info/trafic-presume-de-156-kg-de-zamal-deux-bateaux-saisis-au-domicile-de-ravindra-chimajee
+    publisher: Defimedia.info
+    date: 2026-09-07
+    language: fr
 ---
 
 Mauritius's Anti-Drug and Smuggling Unit arrested a fifth suspect in the south-west
@@ -106,3 +111,5 @@ there was no evidence she was involved. [@4]
 The political party of minister Véronique Leu-Govind said it was following the investigation and any resulting proceedings with the greatest attention. [@6]
 
 Presented on Saturday before the Port-Louis court, he was not released on bail after police cited a risk of reoffending, pressure on witnesses and tampering with evidence. [@7] In a statement published on Saturday, the Les Nouveaux Démocrates party, to which Véronique Leu-Govind belongs, acknowledged the arrest and recalled its fundamental attachment to the principle of presumption of innocence. [@7]
+
+On 7 September 2026 the Financial Crimes Commission moved two speedboats from suspect Ravindra Chimajee's home to its Réduit Triangle headquarters, with forensic examination of the cabin, lockers and cockpit ordered. [@9] The FCC inquiry also examined possible money laundering linked to the network. [@9]

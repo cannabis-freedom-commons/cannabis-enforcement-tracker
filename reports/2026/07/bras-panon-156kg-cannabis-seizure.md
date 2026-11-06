@@ -39,6 +39,11 @@ sources:
     publisher: LINFO.re
     date: 2026-07-27
     language: fr
+  - title: 'Île Maurice : deux hors-bord utilisés pour importer du zamal de La Réunion saisis'
+    url: https://la1ere.franceinfo.fr/reunion/ile-maurice-deux-hors-bord-utilises-pour-importer-du-zamal-de-la-reunion-saisis-1736375.html
+    publisher: Réunion La 1ère (France Télévisions)
+    date: 2026-09-08
+    language: fr
 open_questions:
   - "The map uses a Bras-Panon locality reference; the exact seafront transfer site near Rivière du Mât was not geolocated."
   - The two men's names, ages and the charges they face were not published.
@@ -47,6 +52,7 @@ open_questions:
   - The new account gives only a lower bound of more than 100 kg, while the existing report records 156 kg; the existing precise figure is retained.
   - The new account presents the Mauritius destination as conditional and attributed to confrères, while the existing report states it as established after custody.
   - The page cover image is captioned only as zamal and credited DR, which does not establish that it shows this seizure, so no media entry is included.
+  - The new account says inspectors ordered the vessel seizure but does not say whether a court warrant backed it.
 ---
 
 Gendarmes stopped a cannabis transfer on the seafront at Bras-Panon, Réunion, on
@@ -65,3 +71,5 @@ branches. [@1] The gendarmerie said it had deployed a large operation involving
 multiple units. [@1] It thanked the witnesses, whose alert it called decisive.
 [@2] It said the case showed how a simple report can take large quantities of
 drugs off the market. [@1]
+
+The Financial Crimes Commission seized two speedboats that may have served to import the Réunion zamal into Mauritius at a suspect's home on 7 September 2026. [@4] Ten people were being prosecuted over the attempted shipment by early September 2026, five in Mauritius and five in Réunion. [@4]
