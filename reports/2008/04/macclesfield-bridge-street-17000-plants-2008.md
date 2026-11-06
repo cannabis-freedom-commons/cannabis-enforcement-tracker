@@ -24,6 +24,7 @@ data_sources:
   details.environment: [3, 2]
   details.setting: [3, 1, 2]
   figures.plants_destroyed: [3, 1, 2]
+  figures.value: [3, 1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [macclesfield, cheshire, cannabis-factory]

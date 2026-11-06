@@ -26,6 +26,7 @@ data_sources:
   details.environment: [1, 3, 4, 6, 7, 8]
   figures.arrested: [1, 3, 4, 6, 7, 8]
   figures.kg_seized: [1, 3, 4, 6, 7, 8]
+  figures.value: [2, 3, 7, 10, 11, 12]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 25c459c28006cf2a383b02b2f22945a2

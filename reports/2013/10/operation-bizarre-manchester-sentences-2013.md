@@ -27,6 +27,8 @@ data_sources:
   details.case_stage: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
+  figures.value: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [operation-bizarre, smuggling, cold-store]

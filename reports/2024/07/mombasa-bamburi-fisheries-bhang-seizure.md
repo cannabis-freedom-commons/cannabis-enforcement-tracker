@@ -31,6 +31,7 @@ data_sources:
   details.route: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1]
+  figures.value: [1]
 status: verified
 tags: [dci, tanzania-route, mombasa]
 sources:

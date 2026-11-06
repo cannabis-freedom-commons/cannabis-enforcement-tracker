@@ -36,6 +36,7 @@ data_sources:
   details.products: [1]
   details.route: [1]
   details.setting: [1]
+  figures.value: [1]
 status: verified
 tags: [airport, bangkok-route, abandoned, kush, pnb]
 sources:

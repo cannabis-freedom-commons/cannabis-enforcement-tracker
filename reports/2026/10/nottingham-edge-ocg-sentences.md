@@ -36,6 +36,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.prison: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [nottingham, clifton, emsou, drones]
 open_questions:

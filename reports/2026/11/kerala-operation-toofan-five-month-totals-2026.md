@@ -33,6 +33,7 @@ data_sources:
   details.agency_types: [1, 4, 2, 3]
   details.products: [1, 2, 4]
   figures.arrested: [1, 4, 2]
+  figures.kg_seized: [1, 4]
   figures.plants_destroyed: [2, 4, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -27,6 +27,7 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
+  figures.value: [1]
 status: verified
 tags: [grahamstown, crime-intelligence, free-state-route]
 open_questions:

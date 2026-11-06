@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.reviewjournal.com/local/local-las-vegas/las-vegas-pot-bust-leads-to-3-houses-3-arrests/

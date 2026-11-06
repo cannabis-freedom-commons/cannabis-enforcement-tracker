@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [dagga, brits, mooinooi, north-west, truck, flying-squad]
 open_questions:

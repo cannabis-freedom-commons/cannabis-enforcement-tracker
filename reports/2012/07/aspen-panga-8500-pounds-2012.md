@@ -27,6 +27,8 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  figures.kg_seized: [1]
+  figures.value: [1, 2]
 status: verified
 tags: [coast-guard, panga, maritime-smuggling, pacific]
 sources:

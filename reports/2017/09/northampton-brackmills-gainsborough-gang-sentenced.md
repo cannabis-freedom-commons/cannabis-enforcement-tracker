@@ -27,6 +27,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.sentence_types: [2, 1]
   details.setting: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [cannabis-factory, northampton-crown-court]
 sources:

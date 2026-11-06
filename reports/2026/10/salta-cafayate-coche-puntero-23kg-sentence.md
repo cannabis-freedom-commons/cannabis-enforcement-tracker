@@ -31,6 +31,7 @@ data_sources:
   details.setting: [1, 2, 3]
   figures.charged: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
+  figures.prison: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.fiscales.gob.ar/narcocriminalidad/salta-cinco-condenados-a-penas-de-hasta-7-anos-de-prision-por-transportar-23-kilos-de-marihuana-con-la-modalidad-del-coche-puntero/

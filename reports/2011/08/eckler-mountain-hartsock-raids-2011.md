@@ -32,6 +32,7 @@ data_sources:
   details.products: [1, 2, 5]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [2, 5, 1, 3]
+  figures.value: [1, 2]
 media:
   - kind: photo
     url: https://www.waitsburgtimes.com/story/2011/08/18/front-page/biggest-pot-raid-of-the-year/4952.html

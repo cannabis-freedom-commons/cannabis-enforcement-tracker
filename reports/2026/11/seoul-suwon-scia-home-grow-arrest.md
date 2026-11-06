@@ -35,6 +35,7 @@ data_sources:
   figures.charged: [1, 7, 6, 16, 20, 8]
   figures.kg_seized: [6, 7, 8, 9, 10, 12]
   figures.plants_destroyed: [7, 10, 13, 14, 16, 17]
+  figures.value: [6, 7, 10, 14, 15, 19]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: d38f63e926770ffbf729f071c25d4cba

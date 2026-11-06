@@ -34,6 +34,7 @@ data_sources:
   figures.arrested: [1, 2]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]
+  figures.value: [1, 2]
 status: verified
 tags: [strike-force-heradale, transnational-crime, hydroponic]
 sources:

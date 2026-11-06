@@ -29,6 +29,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [2, 1]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [sic, malanje, liamba, field]
 open_questions:

@@ -43,6 +43,7 @@ data_sources:
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
   details.setting: [12, 3, 5, 6, 8, 9]
   figures.arrested: [3, 8, 1, 4, 5, 7]
+  figures.kg_seized: [1, 8, 11, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags:

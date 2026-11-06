@@ -29,6 +29,7 @@ data_sources:
   details.environment: [1]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
+  figures.value: [1]
 status: verified
 tags: [goricko, murska-sobota, pomurje]
 open_questions:

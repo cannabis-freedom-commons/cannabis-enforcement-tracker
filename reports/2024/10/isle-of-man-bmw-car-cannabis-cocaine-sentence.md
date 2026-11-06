@@ -30,6 +30,7 @@ data_sources:
   details.sentence_types: [1, 4, 5, 6, 2, 3]
   details.setting: [1, 4, 5, 6, 2, 3]
   figures.charged: [2, 3, 4]
+  figures.kg_seized: [4, 6]
   figures.prison: [1, 4, 5, 6]
   figures.value: [1]
 status: verified

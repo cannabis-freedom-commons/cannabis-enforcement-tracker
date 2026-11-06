@@ -32,6 +32,7 @@ data_sources:
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 media:
   - kind: photo
     url: https://www.bangkokpost.com/thailand/general/1919176/village-head-arrested-480kg-of-marijuana-seized

@@ -34,6 +34,7 @@ data_sources:
   details.setting: [1, 3, 2]
   figures.arrested: [1, 3]
   figures.plants_destroyed: [1]
+  figures.value: [1, 3]
 status: verified
 tags: [pike-national-forest, public-lands, mexican-cartels]
 open_questions:

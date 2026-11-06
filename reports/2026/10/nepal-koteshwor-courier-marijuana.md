@@ -26,6 +26,7 @@ data_sources:
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]
+  figures.kg_seized: [1, 3, 2]
 status: verified
 created_by_model: unknown
 tags: [narcotics-control-bureau, courier, kathmandu]

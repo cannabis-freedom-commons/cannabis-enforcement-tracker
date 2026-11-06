@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [3, 1, 4, 2]
   details.products: [2, 1, 3, 4]
   figures.arrested: [3, 1, 4, 2]
+  figures.kg_seized: [2, 1, 3, 4]
 media:
   - kind: photo
     url: https://gcaptain.com/coast-guard-offloads-record-drug-haul-in-port-everglades/

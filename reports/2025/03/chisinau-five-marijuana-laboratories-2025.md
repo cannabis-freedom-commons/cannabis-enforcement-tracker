@@ -33,6 +33,7 @@ data_sources:
   figures.arrested: [1, 2, 3]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]
+  figures.value: [1, 2, 3]
 media:
   - kind: video
     url: https://nokta.md/video-v-kishineve-raskryli-pyat-narkolaboratorij-i-zaderzhali-treh-podozrevaemyh/

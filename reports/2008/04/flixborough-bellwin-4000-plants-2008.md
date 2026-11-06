@@ -35,6 +35,7 @@ data_sources:
   figures.arrested: [1]
   figures.charged: [1]
   figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 tags: [humberside-police, cannabis-factory, lincolnshire]
 sources:

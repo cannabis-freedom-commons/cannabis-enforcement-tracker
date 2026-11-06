@@ -32,6 +32,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.hectares: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [ndlea, edo, farm-raid]
 open_questions:

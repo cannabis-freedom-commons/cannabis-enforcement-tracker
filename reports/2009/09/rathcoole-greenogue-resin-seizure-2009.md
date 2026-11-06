@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 2, 3, 4]
   details.setting: [1, 3, 4, 2, 5]
   figures.arrested: [1, 3, 4, 2]
+  figures.value: [1, 3, 4, 2]
 status: verified
 tags: [rathcoole, resin, greenogue]
 open_questions:

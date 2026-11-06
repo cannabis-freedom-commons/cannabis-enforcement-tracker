@@ -23,6 +23,7 @@ details:
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1, 3, 4, 5]
+  figures.value: [3, 1, 2]
 media:
   - kind: photo
     url: https://www.koaci.com/article/2025/09/28/afrique/societe/burkina-faso-plus-dune-demi-tonne-de-chanvre-indien-saisi-a-kaya-et-ouagadougou_190602.html

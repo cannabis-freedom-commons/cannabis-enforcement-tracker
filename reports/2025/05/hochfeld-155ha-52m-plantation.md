@@ -37,6 +37,7 @@ data_sources:
   details.products: [1]
   details.setting: [1, 2]
   figures.hectares: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [hochfeld, okahandja, otjozondjupa, eendrag]
 open_questions:

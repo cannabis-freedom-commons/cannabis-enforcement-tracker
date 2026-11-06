@@ -28,6 +28,7 @@ data_sources:
   details.products: [1, 2]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]
+  figures.value: [2, 1]
 status: verified
 tags: [cordillera, benguet, mountain-province, kalinga, pnp, marijuana-eradication]
 sources:

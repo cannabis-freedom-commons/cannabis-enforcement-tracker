@@ -31,6 +31,7 @@ data_sources:
   figures.charged: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [toronto, jane-street, grow-op]

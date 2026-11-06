@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [hong-kong, customs, airport, transit, cannabis]
 open_questions:

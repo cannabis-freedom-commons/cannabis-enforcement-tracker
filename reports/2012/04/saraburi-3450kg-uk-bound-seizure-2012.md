@@ -26,6 +26,8 @@ data_sources:
   details.agency_types: [2, 3, 1]
   details.products: [2, 3, 1]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [2, 3]
+  figures.value: [2, 3, 1]
 media:
   - kind: photo
     url: https://www.dailymail.com/news/article-2136157/Thai-police-seize-3-000kg-marijuana-packed-boxes-destined-Kent-haulage-company.html

@@ -27,6 +27,7 @@ details:
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  figures.kg_seized: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [nigeria, tin-can, customs, edibles, delta-8]

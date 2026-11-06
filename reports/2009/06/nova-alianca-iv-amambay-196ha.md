@@ -29,6 +29,7 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.hectares: [1]
+  figures.kg_seized: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [senad, amambay, binational]

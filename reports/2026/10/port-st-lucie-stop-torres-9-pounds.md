@@ -35,6 +35,7 @@ data_sources:
   details.case_stage: [1, 4, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7]
   details.setting: [1, 2, 3, 4, 5, 6, 7]
+  figures.kg_seized: [1, 4, 6, 3, 5, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3e3f90e5d5edf624773de9ff864beeb8

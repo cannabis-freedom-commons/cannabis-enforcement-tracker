@@ -31,6 +31,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [pdea, agusan-del-sur, oplan-dahon]

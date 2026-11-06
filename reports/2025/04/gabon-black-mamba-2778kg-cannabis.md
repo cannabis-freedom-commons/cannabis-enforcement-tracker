@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   figures.arrested: [1]
   figures.kg_seized: [1, 2, 3]
+  figures.value: [1, 3, 2]
 media:
   - kind: photo
     url: https://gabonmediatime.com/operation-black-mamba-plus-de-2-000-kg-de-cannabis-saisis-et-130-clandestins-interpelles/

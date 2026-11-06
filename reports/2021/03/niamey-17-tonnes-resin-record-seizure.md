@@ -34,6 +34,8 @@ data_sources:
   details.products: [1, 2, 3, 4, 5, 6]
   details.route: [2, 4]
   details.setting: [1, 2, 5, 4, 6, 3]
+  figures.kg_seized: [1, 2, 4, 5, 6]
+  figures.value: [1, 2, 4, 5, 6]
 status: verified
 tags: [hashish, resin, record-seizure, trafficking]
 sources:

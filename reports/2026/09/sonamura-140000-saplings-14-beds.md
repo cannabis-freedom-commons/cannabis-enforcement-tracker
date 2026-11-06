@@ -30,6 +30,7 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, sepahijala, sonamura, ganja, nursery-beds]

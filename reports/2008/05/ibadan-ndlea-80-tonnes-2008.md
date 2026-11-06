@@ -36,6 +36,8 @@ data_sources:
   details.case_stage: [1, 2]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2, 3, 4]
+  figures.value: [2, 1, 3, 4]
 status: verified
 tags:
   - ndlea

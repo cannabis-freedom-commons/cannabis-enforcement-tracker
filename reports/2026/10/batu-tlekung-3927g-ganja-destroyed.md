@@ -35,6 +35,7 @@ data_sources:
   details.case_stage: [3, 1, 2]
   details.sentence_types: [3, 1, 2]
   details.setting: [1, 2]
+  figures.value: [2, 3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7b5b148ced2e6e3d89e1ace3dd261196

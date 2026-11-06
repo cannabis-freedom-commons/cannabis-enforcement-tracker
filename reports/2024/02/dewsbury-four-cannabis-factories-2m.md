@@ -21,6 +21,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 tags: [west-yorkshire-police, community-intelligence]
 sources:

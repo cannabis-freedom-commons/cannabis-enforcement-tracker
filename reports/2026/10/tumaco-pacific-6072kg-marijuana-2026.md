@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   figures.kg_seized: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/armada-incauta-seis-toneladas-de-marihuana-en-el-pacifico-cargamento-tendria-como-destino-costa-rica-3594152

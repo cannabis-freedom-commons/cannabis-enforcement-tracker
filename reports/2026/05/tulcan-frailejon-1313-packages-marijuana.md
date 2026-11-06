@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.value: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: c9377fdbffecbe7c8e38f3d9fe1b61a6

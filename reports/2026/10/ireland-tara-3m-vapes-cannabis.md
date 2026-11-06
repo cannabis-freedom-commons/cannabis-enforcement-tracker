@@ -22,6 +22,7 @@ details:
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ireland, gndocb, operation-tara]

@@ -32,6 +32,7 @@ data_sources:
   details.setting: [1]
   figures.hectares: [1]
   figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 tags: [santol, cordillera, pdea]
 sources:

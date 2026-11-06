@@ -32,6 +32,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.prison: [1]
+  figures.value: [1]
 status: verified
 tags: [smuggling, resin, haulage]
 sources:

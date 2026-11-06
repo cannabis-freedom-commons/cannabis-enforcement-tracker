@@ -33,6 +33,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   figures.hectares: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [senad, canindeyu, nueva-alianza-54]
 open_questions:

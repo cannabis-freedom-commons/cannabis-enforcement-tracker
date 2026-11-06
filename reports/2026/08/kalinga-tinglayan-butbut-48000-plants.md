@@ -37,6 +37,7 @@ data_sources:
   details.case_stage: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 tags: [cordillera, communal-land]
 sources:

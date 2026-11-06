@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [2, 4, 3, 1]
   details.case_stage: [1]
   details.setting: [1, 3, 4]
+  figures.prison: [1]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b02118cc327ab61bb3d3bed31609c132

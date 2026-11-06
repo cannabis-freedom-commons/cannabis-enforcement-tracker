@@ -21,6 +21,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: video
     url: https://www.newsnationnow.com/us-news/southeast/226m-cocaine-marijuana-seized-coast-guard/

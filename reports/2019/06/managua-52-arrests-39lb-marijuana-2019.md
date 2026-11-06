@@ -25,6 +25,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.setting: [2, 1, 3]
   figures.arrested: [1, 2, 3]
+  figures.kg_seized: [2, 1, 3]
 media:
   - kind: photo
     url: https://www.el19digital.com/articulos/ver/91241-mas-de-50-detenidos-por-cometer-delitos-de-peligrosidad-en-nicaragua-

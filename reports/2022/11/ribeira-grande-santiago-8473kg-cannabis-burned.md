@@ -21,6 +21,7 @@ data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [3, 1, 2]
   details.products: [1, 3, 2]
+  figures.kg_seized: [3, 1]
 media:
   - kind: photo
     url: https://www.anacao.cv/noticia/2022/11/09/apreendidos-e-queimados-cerca-de-85-mil-quilos-de-erva-cannabis-na-ribeira-grande-de-santiago/

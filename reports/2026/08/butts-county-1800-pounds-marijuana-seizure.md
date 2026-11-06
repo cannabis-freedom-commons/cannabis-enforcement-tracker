@@ -21,6 +21,7 @@ data_sources:
   details.activity: [1, 4, 2]
   details.products: [2, 1, 4, 3]
   details.setting: [2, 3, 1, 4]
+  figures.kg_seized: [2, 1, 4, 3]
 media:
   - kind: photo
     url: https://cbs12.com/news/local/nearly-900-pounds-of-marijuana-headed-to-orlando-seized-in-georgia

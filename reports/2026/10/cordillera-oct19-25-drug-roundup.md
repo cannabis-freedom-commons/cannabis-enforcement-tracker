@@ -29,6 +29,7 @@ data_sources:
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 tags: [cordillera, roundup]
 sources:

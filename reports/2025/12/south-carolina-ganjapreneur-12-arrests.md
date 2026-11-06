@@ -33,6 +33,7 @@ data_sources:
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.charged: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [ganjapreneur, sled, dea, thc-retail]
 open_questions:

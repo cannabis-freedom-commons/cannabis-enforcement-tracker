@@ -35,6 +35,7 @@ data_sources:
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [vienna, liesing, operation-psycho, indoor]
 sources:

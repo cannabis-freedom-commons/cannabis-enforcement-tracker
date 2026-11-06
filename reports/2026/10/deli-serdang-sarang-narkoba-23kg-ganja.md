@@ -83,6 +83,7 @@ data_sources:
   details.products: [1, 4, 5, 7, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25]
   details.setting: [1, 4, 7, 15, 18, 22]
   figures.arrested: [1, 4, 18, 2, 6, 7]
+  figures.kg_seized: [1, 4, 7, 13, 14, 15]
   figures.value: [1, 4, 18, 2, 6, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

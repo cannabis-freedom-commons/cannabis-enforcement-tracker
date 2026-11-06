@@ -32,6 +32,7 @@ data_sources:
   details.agency_types: [2, 3, 1]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [2, 3, 1]
 status: verified
 tags: [tijuana, warehouse, sinaloa-cartel]
 sources:

@@ -38,6 +38,7 @@ data_sources:
   details.products: [1, 2, 3, 4, 5, 6]
   details.route: [5, 6]
   details.setting: [3, 4, 5, 6]
+  figures.kg_seized: [1, 2, 3, 4, 5, 6]
 status: verified
 tags:
   - bnn

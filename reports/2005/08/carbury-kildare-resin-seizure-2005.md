@@ -30,6 +30,8 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1]
   figures.arrested: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 tags: [cannabis-resin, carbury-seizure, drug-trafficking-act]
 open_questions:

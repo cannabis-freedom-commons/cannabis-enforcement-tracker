@@ -36,6 +36,7 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]
+  figures.value: [1]
 status: reported
 tags: [india, odisha, kandhamal, raikia]
 open_questions:

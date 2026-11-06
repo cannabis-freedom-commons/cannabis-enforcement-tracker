@@ -25,6 +25,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1]
+  figures.value: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4b978274ff67da473bf6e3c0efd066cd

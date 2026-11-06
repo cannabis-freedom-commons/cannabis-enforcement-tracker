@@ -38,6 +38,7 @@ data_sources:
   figures.charged: [2, 3]
   figures.kg_seized: [1]
   figures.plants_destroyed: [2, 1]
+  figures.value: [2, 1]
 status: verified
 tags: [nuclear-bunker, chilmark, cannabis-factory, modern-slavery]
 sources:

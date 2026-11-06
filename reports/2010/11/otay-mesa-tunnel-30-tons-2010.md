@@ -31,6 +31,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tunnel, sinaloa-cartel, dea, otay-mesa]

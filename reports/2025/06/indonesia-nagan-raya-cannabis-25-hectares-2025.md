@@ -29,6 +29,7 @@ data_sources:
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.hectares: [1, 2]
+  figures.kg_seized: [2, 1, 3]
 media:
   - kind: photo
     url: https://aceh.antaranews.com/berita/387093/bareskrim-polri-musnahkan-25-ha-ladang-ganja-di-nagan-raya

@@ -46,6 +46,7 @@ data_sources:
   details.sentence_types: [1, 2, 3]
   details.setting: [3]
   figures.arrested: [2, 3, 1]
+  figures.kg_seized: [3, 2, 1]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [grand-cayman, frank-sound, coast-guard, maritime, rcips]

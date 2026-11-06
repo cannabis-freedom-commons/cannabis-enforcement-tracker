@@ -34,6 +34,8 @@ data_sources:
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2, 3, 4]
+  figures.value: [1, 2, 3, 4]
 status: verified
 tags: [dnpa, minibus, fescco]
 open_questions:

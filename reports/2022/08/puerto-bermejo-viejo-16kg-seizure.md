@@ -21,6 +21,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.products: [1]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://www.argentina.gob.ar/noticias/chaco-prefectura-incauto-marihuana-en-la-costa-del-rio-paraguay

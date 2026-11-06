@@ -27,6 +27,8 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1, 2, 3]
+  figures.kg_seized: [1]
+  figures.value: [1, 2]
 status: verified
 tags: [heathrow, nacob]
 sources:

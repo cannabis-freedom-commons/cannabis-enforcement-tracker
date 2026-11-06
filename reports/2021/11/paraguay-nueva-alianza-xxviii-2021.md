@@ -37,6 +37,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [2]
   figures.hectares: [2, 1]
+  figures.kg_seized: [2, 1]
 status: verified
 tags: [senad, amambay, nueva-alianza]
 open_questions:

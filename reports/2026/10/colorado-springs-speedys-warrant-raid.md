@@ -26,6 +26,7 @@ data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [colorado-springs, dea, smoke-shop, thc]

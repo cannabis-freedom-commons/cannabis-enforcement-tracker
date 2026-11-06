@@ -36,6 +36,7 @@ data_sources:
   figures.arrested: [1, 2]
   figures.charged: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [airport, trafficking, canada]
 media:

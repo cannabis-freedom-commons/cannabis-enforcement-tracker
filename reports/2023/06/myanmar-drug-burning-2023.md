@@ -22,6 +22,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1]
   details.products: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.voanews.com/a/myanmar-burns-446-million-in-seized-drugs-/7153370.html

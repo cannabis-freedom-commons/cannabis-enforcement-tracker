@@ -28,6 +28,7 @@ data_sources:
   details.products: [1, 3, 5, 6, 8, 4]
   figures.arrested: [1, 3, 5, 6, 8, 4]
   figures.charged: [1, 3, 5, 6, 8, 4]
+  figures.kg_seized: [1, 3, 4, 6, 8, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4f2c11290724ac2373b595de2c39278b

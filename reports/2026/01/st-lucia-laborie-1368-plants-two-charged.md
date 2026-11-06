@@ -34,6 +34,7 @@ data_sources:
   details.setting: [1, 3]
   figures.arrested: [1, 3]
   figures.charged: [1, 3]
+  figures.kg_seized: [1, 3]
   figures.plants_destroyed: [1, 3]
   figures.value: [1, 3]
 status: verified

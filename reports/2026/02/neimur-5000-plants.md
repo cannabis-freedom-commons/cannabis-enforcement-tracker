@@ -48,6 +48,7 @@ data_sources:
   details.products: [2, 1]
   details.setting: [2, 1]
   figures.plants_destroyed: [2, 1]
+  figures.value: [2, 1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [new-south-wales, neimur, riverina, nsw-police, eradication]

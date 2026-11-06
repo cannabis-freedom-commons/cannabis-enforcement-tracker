@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.products: [1, 2]
+  figures.kg_seized: [2, 1]
 status: verified
 tags: [dea, dispensaries, medical-marijuana]
 open_questions:

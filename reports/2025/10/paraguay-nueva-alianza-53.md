@@ -44,6 +44,8 @@ data_sources:
   details.products: [1, 3, 2]
   details.setting: [1, 3, 2]
   figures.hectares: [1, 3]
+  figures.kg_seized: [1, 3]
+  figures.value: [1, 2]
 status: verified
 tags: [nueva-alianza, brazil, joint-operation, protected-areas, deforestation]
 sources:

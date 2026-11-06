@@ -44,6 +44,7 @@ data_sources:
   details.products: [2, 4, 1, 3]
   details.setting: [1, 2, 4]
   figures.plants_destroyed: [2, 4, 1, 3]
+  figures.value: [2, 4, 1, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 53aa49dd84be66a987c9f7d7c0bf6e0d

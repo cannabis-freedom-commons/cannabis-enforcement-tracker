@@ -29,6 +29,7 @@ data_sources:
   details.products: [3, 4, 6, 7, 8, 5]
   details.setting: [9, 10, 11, 1, 2, 7]
   figures.kg_seized: [1, 2, 7, 8, 9, 10]
+  figures.value: [1, 2, 7, 8]
 status: verified
 tags: [reunion, bras-panon, adsu, maritime-smuggling]
 open_questions:

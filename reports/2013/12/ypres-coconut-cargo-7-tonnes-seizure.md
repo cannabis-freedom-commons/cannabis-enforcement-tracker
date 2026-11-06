@@ -23,6 +23,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   details.setting: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [smuggling, record-seizure, produce-cover]
 sources:

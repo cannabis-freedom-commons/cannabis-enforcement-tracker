@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 2, 5]
   details.products: [2, 5, 1, 3, 4]
   figures.arrested: [1, 2, 5]
+  figures.kg_seized: [3, 4, 5]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [gnb, caribe, francia]

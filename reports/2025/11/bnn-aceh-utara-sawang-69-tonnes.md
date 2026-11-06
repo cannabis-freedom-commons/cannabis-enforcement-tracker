@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1]
   details.setting: [1]
   figures.hectares: [1]
+  figures.kg_seized: [1]
   figures.plants_destroyed: [1]
 status: verified
 tags: [bnn, aceh]

@@ -32,6 +32,8 @@ data_sources:
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2, 3]
+  figures.value: [2, 3, 1]
 status: verified
 tags: [smuggling, british-columbia, akwesasne, continuing-criminal-enterprise]
 open_questions:

@@ -31,6 +31,8 @@ data_sources:
   details.products: [2, 5]
   figures.arrested: [1, 2, 3, 4, 5]
   figures.charged: [1, 2, 3, 4, 5]
+  figures.kg_seized: [1, 2, 3]
+  figures.value: [1, 2, 3, 4]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 24d3e843f91459c3a3939cf92db0106c

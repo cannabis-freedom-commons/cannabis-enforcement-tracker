@@ -19,6 +19,7 @@ details:
   products: [{product: flower, kg: 3.175}]
 data_sources:
   details.products: [1, 2, 3]
+  figures.kg_seized: [1, 2, 3]
 media:
   - kind: video
     url: https://www.buzzfeednews.com/article/albertsamaha/video-captures-fatal-police-shooting-in-alabama

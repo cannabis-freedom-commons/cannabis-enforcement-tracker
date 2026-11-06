@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.value: [1, 2, 3]
 status: verified
 tags: [tripura, sepahijala, joint-operation]
 open_questions:

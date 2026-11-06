@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2, 3]
   details.products: [1]
   details.setting: [2, 3, 1]
+  figures.kg_seized: [2, 3, 1]
   figures.plants_destroyed: [1, 2, 3]
 status: verified
 tags: [madhya-pradesh, barwani, sendhwa, drones, operation-green-strike]

@@ -28,6 +28,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   figures.arrested: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn0qr9dzqw9o

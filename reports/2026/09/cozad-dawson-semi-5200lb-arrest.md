@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.products: [2, 1, 3]
   details.setting: [2, 1]
+  figures.kg_seized: [1, 2, 3]
 media:
   - kind: photo
     url: https://www.freightwaves.com/news/nebraska-troopers-seize-record-50m-drug-load-from-semi-on-interstate-80

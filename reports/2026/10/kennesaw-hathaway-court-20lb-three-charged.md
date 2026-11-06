@@ -24,6 +24,7 @@ data_sources:
   details.activity: [2]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.kg_seized: [2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3ceef6fb7c32593b7da45aa5715f0fc2

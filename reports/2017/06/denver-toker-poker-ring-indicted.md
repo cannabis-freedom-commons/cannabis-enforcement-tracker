@@ -28,6 +28,7 @@ data_sources:
   details.activity: [1, 2]
   details.products: [1, 2]
   figures.charged: [1, 2]
+  figures.kg_seized: [1]
   figures.plants_destroyed: [1]
 status: verified
 tags: [toker-poker, interstate-trafficking]

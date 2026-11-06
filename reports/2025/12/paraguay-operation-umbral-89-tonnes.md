@@ -32,6 +32,8 @@ data_sources:
   details.case_stage: [2, 3, 4]
   details.force: [1, 3, 2, 4]
   details.products: [1, 3]
+  figures.kg_seized: [1, 3]
+  figures.value: [1, 3, 2, 4, 5]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [senad, canindeyu, trafficking, record]

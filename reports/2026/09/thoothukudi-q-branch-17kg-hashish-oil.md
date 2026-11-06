@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 4, 2, 3]
   figures.arrested: [1]
   figures.kg_seized: [1, 4, 2, 3]
+  figures.value: [1, 4, 2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [hashish-oil, thoothukudi, tamil-nadu, maldives, ndps]

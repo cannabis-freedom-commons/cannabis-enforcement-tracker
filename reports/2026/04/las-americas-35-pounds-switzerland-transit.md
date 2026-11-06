@@ -18,6 +18,7 @@ details:
 data_sources:
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/republica-dominicana/2026/04/04/las-autoridades-dominicanas-incautan-35-libras-de-marihuana-y-cocaina-en-operativos-en-el-aeropuerto-de-las-americas/

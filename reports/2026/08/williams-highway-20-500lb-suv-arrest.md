@@ -21,6 +21,7 @@ details:
 data_sources:
   details.products: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1, 2]
 media:
   - kind: photo
     url: https://fox40.com/williams/driver-arrested-in-williams-marijuana-in-suv/

@@ -50,6 +50,7 @@ data_sources:
   details.products: [1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
   details.setting: [1, 5, 6, 7, 8, 9]
   figures.arrested: [2, 4, 5, 7, 9, 10]
+  figures.kg_seized: [1, 5, 6, 7, 8, 9]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 53fc23aca5a8e595c134a45894de6b9e

@@ -25,6 +25,7 @@ details:
 data_sources:
   details.agency_types: [1, 2]
   figures.arrested: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [sic, malanje, liamba]
 open_questions:

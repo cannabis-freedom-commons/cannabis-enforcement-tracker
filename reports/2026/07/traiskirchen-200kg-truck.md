@@ -29,6 +29,7 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+  figures.value: [1, 2]
 status: verified
 tags: [traiskirchen, spielfeld, truck]
 open_questions:

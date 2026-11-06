@@ -29,6 +29,7 @@ data_sources:
   details.setting: [1, 2, 3]
   figures.arrested: [2, 1, 3]
   figures.plants_destroyed: [2, 1, 3]
+  figures.value: [2, 1, 3]
 status: verified
 tags: [grow-houses, hidta, operation-d-day]
 sources:

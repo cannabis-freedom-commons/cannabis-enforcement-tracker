@@ -24,6 +24,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2, 3]
+  figures.kg_seized: [3, 2]
 media:
   - kind: video
     url: https://www.mypanhandle.com/video/two-arrested-in-large-carrabelle-marijuana-raid/12191641/

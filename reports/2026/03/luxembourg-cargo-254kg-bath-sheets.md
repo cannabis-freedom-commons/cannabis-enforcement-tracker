@@ -24,6 +24,7 @@ details:
 data_sources:
   details.agency_types: [1, 2, 3, 4]
   figures.kg_seized: [1, 2, 3, 4]
+  figures.value: [1, 2, 4, 3]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [findel, cargo, air-freight]

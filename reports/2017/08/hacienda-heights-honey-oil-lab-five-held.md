@@ -29,6 +29,7 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
+  figures.value: [1]
 media:
   - kind: photo
     url: https://www.sgvtribune.com/2017/08/02/1m-home-in-hacienda-heights-hid-18m-of-pot-products-some-in-game-of-thrones-themed-tins-police-say/

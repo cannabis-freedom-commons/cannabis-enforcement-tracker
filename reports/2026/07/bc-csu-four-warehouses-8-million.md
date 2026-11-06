@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [3]
+  figures.value: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [british-columbia, community-safety-unit, warehouse, unlicensed-cannabis]

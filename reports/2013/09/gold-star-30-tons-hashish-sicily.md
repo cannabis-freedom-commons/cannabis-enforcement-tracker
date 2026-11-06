@@ -27,6 +27,8 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [gold-star, hashish, guardia-di-finanza, mediterranean, sicily]

@@ -22,6 +22,7 @@ details:
 data_sources:
   details.products: [1, 2]
   details.setting: [2, 4, 3]
+  figures.prison: [1]
 status: verified
 tags: [medical-marijuana, mandatory-minimum]
 open_questions:

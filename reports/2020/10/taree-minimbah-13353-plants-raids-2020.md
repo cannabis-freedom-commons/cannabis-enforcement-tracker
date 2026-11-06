@@ -30,7 +30,9 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [strike-force-harthouse, indoor-grows, vietnamese-nationals]
 media:

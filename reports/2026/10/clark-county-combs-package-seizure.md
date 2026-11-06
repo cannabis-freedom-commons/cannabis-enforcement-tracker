@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [2, 3, 4, 1, 5]
   details.case_stage: [1, 5, 3]
   details.products: [1, 2, 3, 4, 5]
+  figures.kg_seized: [1, 3, 5]
   figures.plants_destroyed: [1, 3, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

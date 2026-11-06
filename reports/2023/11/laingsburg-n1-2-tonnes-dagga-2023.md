@@ -38,6 +38,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
+  figures.value: [1, 2, 3]
 status: verified
 tags: [dagga, n1, western-cape, truck, traffic-police]
 open_questions:

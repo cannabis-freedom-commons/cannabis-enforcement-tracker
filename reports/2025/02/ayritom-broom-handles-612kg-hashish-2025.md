@@ -38,6 +38,7 @@ data_sources:
   details.products: [2, 4, 5, 6]
   details.setting: [2, 4, 5, 6, 3]
   figures.kg_seized: [2, 5, 6, 4, 1]
+  figures.value: [2, 5, 6, 4, 1]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 46d8d9b92b522a38b3e5ef54e67bf52a

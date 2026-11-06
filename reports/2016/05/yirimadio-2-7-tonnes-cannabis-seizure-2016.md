@@ -28,6 +28,8 @@ data_sources:
   details.case_stage: [1, 3, 2, 4]
   details.setting: [3, 2, 1, 4]
   figures.arrested: [1, 3, 2, 4]
+  figures.kg_seized: [3, 2, 1, 4]
+  figures.value: [2, 1, 4]
 media:
   - kind: photo
     url: https://www.rfi.fr/fr/afrique/20160519-saisie-record-cannabis-mali-drogue-office-central-stupefiants-ghana

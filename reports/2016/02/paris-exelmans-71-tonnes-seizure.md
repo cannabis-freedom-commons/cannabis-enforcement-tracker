@@ -33,6 +33,8 @@ data_sources:
   details.products: [3, 1, 2]
   details.sentence_types: [3]
   details.setting: [3, 1, 2]
+  figures.kg_seized: [1, 2, 3]
+  figures.value: [1, 2]
 status: verified
 tags: [paris, record-haul, customs]
 open_questions:

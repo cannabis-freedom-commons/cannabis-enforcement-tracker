@@ -23,7 +23,9 @@ details:
 data_sources:
   details.activity: [1, 2]
   figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ucetf, unlicensed-market, annual-total]

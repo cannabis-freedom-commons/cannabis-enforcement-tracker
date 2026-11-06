@@ -22,6 +22,7 @@ details:
   products: [{product: flower, kg: 907.185}, {product: plants, plants: 77362}]
 data_sources:
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified
 tags: [octf, omma, pottawatomie-county]

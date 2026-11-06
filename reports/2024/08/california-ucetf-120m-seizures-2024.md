@@ -20,6 +20,7 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 data_sources:
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [ucetf, unlicensed-market]
 sources:

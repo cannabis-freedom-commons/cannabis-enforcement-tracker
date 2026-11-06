@@ -40,6 +40,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.plants_destroyed: [1, 2, 3]
+  figures.value: [1, 2, 3]
 status: verified
 tags: [tripura, sepahijala, dhanpur, assam-rifles]
 open_questions:

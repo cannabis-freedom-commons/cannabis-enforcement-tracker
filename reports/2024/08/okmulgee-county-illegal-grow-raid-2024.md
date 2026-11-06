@@ -18,6 +18,7 @@ details:
   products: [{product: flower, kg: 564.27}, {product: plants}]
 data_sources:
   details.products: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags:
   - organized-crime

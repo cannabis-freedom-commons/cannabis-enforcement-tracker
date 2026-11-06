@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 open_questions:
   - Bahia Notícias carries the same Civil Police account as the state release; independent confirmation of the estimate was not reported.

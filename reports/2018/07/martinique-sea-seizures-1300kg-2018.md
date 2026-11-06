@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://rci.fm/martinique/infos/Faits-divers/Plus-dune-tonne-de-cannabis-saisie-en-un-mois

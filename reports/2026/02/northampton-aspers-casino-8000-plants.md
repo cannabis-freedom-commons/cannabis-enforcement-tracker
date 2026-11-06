@@ -36,6 +36,7 @@ data_sources:
   details.setting: [2, 1, 3]
   figures.fine: [1, 3, 2]
   figures.plants_destroyed: [3, 2]
+  figures.value: [3, 2, 1]
 media:
   - kind: photo
     url: https://www.bbc.co.uk/news/articles/cj6nxrdexwwo

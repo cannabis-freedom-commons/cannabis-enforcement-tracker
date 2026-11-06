@@ -32,6 +32,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]
+  figures.value: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dandry, strike-force-harthouse, record-seizure]

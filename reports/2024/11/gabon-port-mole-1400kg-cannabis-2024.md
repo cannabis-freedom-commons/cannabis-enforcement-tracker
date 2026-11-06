@@ -23,6 +23,8 @@ data_sources:
   details.activity: [1, 3, 2, 4]
   details.agency_types: [1, 3, 2, 4]
   details.case_stage: [1, 3, 2, 4]
+  figures.kg_seized: [1, 3]
+  figures.value: [1, 3, 2]
 media:
   - kind: photo
     url: https://fr.infosgabon.com/gabon-14-tonne-de-cannabis-saisie-a-libreville/

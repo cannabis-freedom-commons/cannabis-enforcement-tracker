@@ -34,6 +34,7 @@ data_sources:
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1, 2]
 status: verified
 sources:
   - title: Mexican authorities seize 44 tons of marijuana in Tijuana

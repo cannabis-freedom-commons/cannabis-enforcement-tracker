@@ -32,6 +32,8 @@ data_sources:
   details.products: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]
   figures.charged: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2, 4, 3, 5]
+  figures.value: [1, 2, 4, 3, 5]
 status: verified
 tags: [rbdf, uscg, great-inagua]
 open_questions:

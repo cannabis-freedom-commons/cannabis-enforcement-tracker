@@ -21,6 +21,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
+  figures.value: [1, 2, 3]
 status: reported
 cfi_id: libya-tobruk-hashish-2026
 sources:

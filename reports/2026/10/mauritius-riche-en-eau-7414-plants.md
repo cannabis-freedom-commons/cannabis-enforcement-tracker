@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1]
   figures.plants_destroyed: [1]
+  figures.value: [2, 1]
 status: verified
 created_by_model: unknown
 tags: [adsu, sugar-cane, helicopter]

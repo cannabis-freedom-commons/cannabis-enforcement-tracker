@@ -30,6 +30,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [2, 1]
   figures.arrested: [1]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [dea, project-deliverance, mexico, trafficking]
 open_questions:

@@ -26,6 +26,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [national-park, public-lands, environmental-damage]
 open_questions:

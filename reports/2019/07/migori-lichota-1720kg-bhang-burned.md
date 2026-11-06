@@ -26,6 +26,7 @@ data_sources:
   details.products: [1, 2]
   details.route: [1]
   figures.kg_seized: [1]
+  figures.value: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [bhang, migori, exhibits-destruction]

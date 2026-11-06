@@ -32,6 +32,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [operation-tara, gndocb, tallaght, revenue]
 media:

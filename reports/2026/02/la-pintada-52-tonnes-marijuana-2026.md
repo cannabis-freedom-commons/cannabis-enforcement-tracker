@@ -25,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.policia.gov.co/noticia/policia-nacional-incauta-5-toneladas-marihuana

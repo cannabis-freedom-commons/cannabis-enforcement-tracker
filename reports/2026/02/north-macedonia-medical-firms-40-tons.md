@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1, 3, 6, 4, 7]
   details.products: [1, 2, 3, 4, 5, 7]
   details.setting: [4, 8, 9, 10, 1, 2]
+  figures.kg_seized: [1, 2, 3, 4, 5, 7]
 status: verified
 created_by_model: meta/muse-spark
 tags: [skopje, strumica, medical-cannabis, record]

@@ -26,6 +26,7 @@ data_sources:
   details.agency_types: [1]
   details.products: [2, 1]
   details.setting: [2, 1]
+  figures.kg_seized: [1]
 status: verified
 tags: [senad, nueva-alianza, amambay, argentina, brazil]
 media:

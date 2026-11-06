@@ -33,6 +33,7 @@ data_sources:
   details.route: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [islamabad, airport, thailand-route, weed]

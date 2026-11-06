@@ -33,6 +33,7 @@ details:
 data_sources:
   details.activity: [1, 2]
   details.products: [1, 2]
+  figures.kg_seized: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b551d92965b8b128bb2d8b0a3a0b6c81

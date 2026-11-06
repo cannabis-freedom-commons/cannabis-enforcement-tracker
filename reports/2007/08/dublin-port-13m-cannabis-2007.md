@@ -28,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [dublin-port, customs, herbal-cannabis]
 open_questions:

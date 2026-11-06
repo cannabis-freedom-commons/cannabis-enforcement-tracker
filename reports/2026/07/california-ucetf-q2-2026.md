@@ -24,7 +24,9 @@ details:
 data_sources:
   details.activity: [2, 1]
   figures.arrested: [1]
+  figures.kg_seized: [2, 1]
   figures.plants_destroyed: [2, 1]
+  figures.value: [2, 1]
 status: verified
 tags: [ucetf, unlicensed-market, pesticides]
 sources:

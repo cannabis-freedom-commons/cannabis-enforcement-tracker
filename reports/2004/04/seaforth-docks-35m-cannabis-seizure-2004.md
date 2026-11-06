@@ -23,6 +23,7 @@ details:
 data_sources:
   details.agency_types: [1]
   figures.arrested: [1]
+  figures.value: [1]
 status: verified
 tags: [seaforth, customs-and-excise, merseyside]
 open_questions:

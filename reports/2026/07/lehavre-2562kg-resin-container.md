@@ -36,6 +36,7 @@ data_sources:
   details.route: [1, 2, 3, 4, 6, 5]
   details.setting: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 3, 4, 6]
+  figures.value: [1, 2, 3, 5, 4, 6]
 status: verified
 tags: [douane, port, container, machine-tools, senegal-libya-route]
 open_questions:

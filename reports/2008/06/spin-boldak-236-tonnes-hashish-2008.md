@@ -22,6 +22,7 @@ details:
 data_sources:
   details.agency_types: [3, 4, 1, 2]
   details.products: [3, 4, 1, 2]
+  figures.kg_seized: [3, 4, 1, 2]
 status: verified
 tags: [unodc, nato, spin-boldak, taliban]
 open_questions:

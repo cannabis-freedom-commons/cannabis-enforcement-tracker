@@ -24,6 +24,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 media:
   - kind: photo
     url: https://www.aip.ci/cote-divoire-aip-vingt-kilogrammes-de-cannabis-saisis-a-bongo-par-la-dpsd/

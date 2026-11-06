@@ -33,6 +33,8 @@ data_sources:
   details.products: [2, 3]
   details.sentence_types: [1, 3]
   details.setting: [3]
+  figures.kg_seized: [2, 3]
+  figures.value: [2, 3]
 status: verified
 tags: [southampton, customs, soca, maritime]
 open_questions:

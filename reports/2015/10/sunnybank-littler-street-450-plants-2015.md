@@ -32,6 +32,7 @@ data_sources:
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [hydroponic, vietnamese-nationals]
 open_questions:

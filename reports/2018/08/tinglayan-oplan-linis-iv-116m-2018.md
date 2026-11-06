@@ -31,6 +31,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 media:
   - kind: photo

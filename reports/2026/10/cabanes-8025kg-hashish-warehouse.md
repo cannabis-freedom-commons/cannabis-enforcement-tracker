@@ -47,6 +47,7 @@ data_sources:
   figures.arrested: [1, 2, 3]
   figures.charged: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
+  figures.value: [1, 2, 3]
 status: verified
 tags: [mossos-desquadra, hashish, rubber-granules, warehouse, criminal-organisation]
 open_questions:

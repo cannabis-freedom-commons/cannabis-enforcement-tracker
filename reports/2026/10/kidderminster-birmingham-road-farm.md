@@ -39,6 +39,7 @@ data_sources:
   details.setting: [1, 2, 3, 4, 5]
   figures.arrested: [1, 2, 3, 4, 5]
   figures.charged: [1, 2, 3, 4, 5]
+  figures.value: [1, 3, 4]
 status: verified
 tags:
   - worcestershire

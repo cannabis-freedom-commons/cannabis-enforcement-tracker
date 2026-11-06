@@ -30,6 +30,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 49518af024612e72ea511b47dda1cd88

@@ -27,6 +27,8 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [border-force, southampton, canada, swrocu]
 open_questions:

@@ -29,6 +29,7 @@ data_sources:
   details.products: [1, 4, 3, 2]
   details.setting: [1, 4, 3]
   figures.kg_seized: [1, 4, 3]
+  figures.value: [1, 3, 4, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [carchi, santa-martha-de-cuba, army]

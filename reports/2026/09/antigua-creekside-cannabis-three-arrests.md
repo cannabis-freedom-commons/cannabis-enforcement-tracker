@@ -22,6 +22,7 @@ data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1]
   figures.arrested: [1, 2]
+  figures.kg_seized: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [antigua, creekside, stop-and-search, vehicle-search]

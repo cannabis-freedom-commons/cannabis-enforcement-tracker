@@ -26,6 +26,8 @@ details:
 data_sources:
   details.agency_types: [1]
   details.environment: [1, 2]
+  figures.kg_seized: [2, 1]
+  figures.value: [1]
 status: verified
 tags: [rbdf, uscg, andros, go-fast]
 open_questions:

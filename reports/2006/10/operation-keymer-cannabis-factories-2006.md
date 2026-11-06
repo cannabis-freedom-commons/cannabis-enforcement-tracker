@@ -33,6 +33,7 @@ data_sources:
   figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
   figures.plants_destroyed: [1, 2, 3]
+  figures.value: [1, 2, 3]
 status: verified
 tags: [cannabis-factories, skunk, operation-keymer]
 open_questions:

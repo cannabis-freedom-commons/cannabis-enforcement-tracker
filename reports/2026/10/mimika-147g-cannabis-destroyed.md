@@ -43,6 +43,7 @@ data_sources:
   details.products: [1, 2, 3, 4, 5]
   details.sentence_types: [3, 1, 2, 5]
   details.setting: [2, 1, 3, 5, 4]
+  figures.value: [1, 4, 5, 2, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e871d3af85c8e7990d4535d2f3d02509

@@ -29,6 +29,8 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [2, 1]
   details.setting: [2]
+  figures.kg_seized: [2]
+  figures.value: [1]
 status: verified
 tags: [chicago, cartel, dea, tractor-trailer]
 sources:

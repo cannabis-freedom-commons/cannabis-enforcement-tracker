@@ -30,6 +30,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
+  figures.kg_seized: [2, 1]
   figures.plants_destroyed: [2, 1]
 status: verified
 tags: [alameda-county, illicit-grows, east-bay]

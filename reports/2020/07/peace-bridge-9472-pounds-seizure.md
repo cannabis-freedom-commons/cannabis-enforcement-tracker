@@ -40,6 +40,8 @@ data_sources:
   details.case_stage: [1, 3, 2]
   details.products: [1, 3, 2]
   details.setting: [1, 3, 2]
+  figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 tags: [cbp, peace-bridge, cross-border]
 sources:

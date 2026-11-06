@@ -30,6 +30,8 @@ data_sources:
   details.sentence_types: [1]
   details.setting: [1]
   figures.charged: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 tags: [smuggling, dover, lock-ups, underground-bunker]
 sources:

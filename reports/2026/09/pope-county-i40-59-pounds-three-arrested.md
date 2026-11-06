@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1, 2]
   figures.arrested: [1]
+  figures.kg_seized: [2, 1]
 media:
   - kind: photo
     url: https://dps.arkansas.gov/news/asp-intercepts-nearly-60-pounds-of-illegal-marijuana-in-back-to-back-i-40-stops/

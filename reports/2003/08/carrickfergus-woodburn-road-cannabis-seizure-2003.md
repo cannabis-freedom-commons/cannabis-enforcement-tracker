@@ -21,6 +21,7 @@ details:
 data_sources:
   details.agency_types: [1, 3, 2]
   details.setting: [1]
+  figures.value: [1, 3]
 status: verified
 tags: [psni, paramilitaries, record-seizure]
 open_questions:

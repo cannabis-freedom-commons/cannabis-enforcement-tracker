@@ -34,6 +34,7 @@ data_sources:
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 3, 2]
+  figures.value: [1, 3, 2]
 status: verified
 tags: [rathcoole, resin, operation-oak]
 open_questions:

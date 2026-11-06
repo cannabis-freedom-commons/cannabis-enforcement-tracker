@@ -50,6 +50,7 @@ data_sources:
   details.setting: [1, 3, 4, 5, 6, 7]
   figures.arrested: [1, 3, 4, 6, 7, 8]
   figures.charged: [1, 3, 4, 6, 7, 8]
+  figures.value: [1, 3, 4, 8, 13, 14]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 32296050ded449051043b6c1a93bb85d

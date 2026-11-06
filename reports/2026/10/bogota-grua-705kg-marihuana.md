@@ -31,6 +31,7 @@ data_sources:
   details.setting: [1, 2, 3]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]
+  figures.value: [1, 2, 3]
 status: verified
 tags: [bogota, kennedy, cauca]
 open_questions:

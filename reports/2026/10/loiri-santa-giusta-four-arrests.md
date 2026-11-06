@@ -38,6 +38,7 @@ data_sources:
   figures.arrested: [1, 2]
   figures.charged: [1, 2]
   figures.plants_destroyed: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [gallura, carabinieri, outdoor]
 open_questions:

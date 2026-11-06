@@ -33,6 +33,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [sedena, plantation, sinaloa-cartel]
 sources:

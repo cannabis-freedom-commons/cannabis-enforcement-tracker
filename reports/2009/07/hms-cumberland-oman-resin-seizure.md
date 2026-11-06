@@ -24,6 +24,8 @@ data_sources:
   details.agency_types: [1]
   details.products: [1, 2]
   details.setting: [1]
+  figures.kg_seized: [1, 2]
+  figures.value: [1]
 status: verified
 tags: [hms-cumberland, maritime, combined-task-force-150]
 open_questions:

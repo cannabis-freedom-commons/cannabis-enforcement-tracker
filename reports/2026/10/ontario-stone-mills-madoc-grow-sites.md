@@ -24,6 +24,7 @@ details:
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  figures.value: [1]
 status: verified
 tags: [grow-ops, opp]
 sources:

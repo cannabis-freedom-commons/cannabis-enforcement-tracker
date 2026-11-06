@@ -33,6 +33,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [navan, warehouse, cross-border, resin]
 open_questions:

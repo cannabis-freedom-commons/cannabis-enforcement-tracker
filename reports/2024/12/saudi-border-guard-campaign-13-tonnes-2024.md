@@ -27,6 +27,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [border-guard, hashish, jazan, asir, najran]

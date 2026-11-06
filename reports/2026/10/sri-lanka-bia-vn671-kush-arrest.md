@@ -30,6 +30,7 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 tags: [kush, airport, green-channel]
 sources:

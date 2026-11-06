@@ -42,7 +42,9 @@ data_sources:
   details.setting: [2]
   figures.arrested: [2]
   figures.charged: [2]
+  figures.kg_seized: [2, 1]
   figures.prison: [2]
+  figures.value: [2, 1]
 status: verified
 tags: [nca, organised-crime, smuggling]
 open_questions:

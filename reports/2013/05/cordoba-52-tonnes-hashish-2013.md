@@ -28,6 +28,8 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
+  figures.kg_seized: [1]
+  figures.value: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, record-seizure, organised-crime]

@@ -25,6 +25,7 @@ details:
   agency_types: [military]
 data_sources:
   details.agency_types: [1, 2]
+  figures.kg_seized: [1, 2]
 status: reported
 tags:
   - hermel

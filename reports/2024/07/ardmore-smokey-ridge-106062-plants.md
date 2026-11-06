@@ -25,6 +25,7 @@ data_sources:
   details.case_stage: [3, 1]
   details.products: [3, 1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [3, 1, 2]
   figures.plants_destroyed: [3]
 media:
   - kind: photo

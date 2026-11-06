@@ -34,6 +34,7 @@ data_sources:
   details.products: [1]
   details.setting: [1, 2]
   figures.plants_destroyed: [1]
+  figures.value: [1]
 status: verified
 tags: [pro-1, pdea, ilocos-sur, la-union]
 open_questions:

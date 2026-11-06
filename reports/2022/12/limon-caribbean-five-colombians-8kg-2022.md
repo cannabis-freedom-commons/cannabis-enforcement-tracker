@@ -26,6 +26,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/america/colombia/2022/12/20/incautan-una-tonelada-de-cocaina-y-capturan-a-cinco-colombianos-en-costa-rica/

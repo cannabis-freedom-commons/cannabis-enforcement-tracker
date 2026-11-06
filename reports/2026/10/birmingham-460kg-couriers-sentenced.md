@@ -33,6 +33,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [2, 1]
+  figures.value: [1]
 status: verified
 tags: [couriers, trafficking]
 sources:
