@@ -97,6 +97,16 @@ sources:
     publisher: NEWS ATALOEN
     date: 2026-11-03
     language: id
+  - title: Polres Lhokseumawe Ungkap 6 Kasus Narkotika, Sita 40 Kg Ganja, Sabu dan 41 Vape
+    url: https://portalsatu.com/polres-lhokseumawe-ungkap-6-kasus-narkotika-sita-40-kg-ganja-sabu-dan-41-vape/
+    publisher: portalsatu
+    date: 2026-11-05
+    language: id
+  - title: Polres Lhokseumawe Ungkap Enam Kasus Narkoba, Temukan Ladang Ganja 43 Hektare
+    url: https://rri.co.id/lhokseumawe/hukum/kriminalitas/2873598/polres-lhokseumawe-ungkap-enam-kasus-narkoba-temukan-ladang-ganja-43-hektare
+    publisher: RRI.co.id
+    date: 2026-11-05
+    language: id
 open_questions:
   - No plant count, seized weight, estimated value, or charges and case outcome for the three detainees were published.
   - The same hamlet and village hosted a 27-28 October 2026 operation covering the same reported 18 hectares with four different detainees (MW, HM, SF, WD); whether the 2 November burning revisited the same fields or separate fields is unresolved.
@@ -121,6 +131,7 @@ open_questions:
   - The page carries two photos captioned only with file names, so no new media entry can confirm they show the eradication.
   - The new account reports 25 hectares across three locations but names only Dusun Alue Garot and Dusun Alue Mudek, leaving the third site unnamed.
   - The page's image has no caption, alt text or credit establishing it shows this eradication, so no media entry is included.
+  - The new site names Cot Mancang, Alue Garot and Alue Le Mudek differ in spelling from Alue Garut, Alue Kubu and Alue Mudek in the existing report.
 ---
 
 A joint enforcement team arrested three men described as suspected owners of
@@ -148,3 +159,5 @@ The eradication covered three areas — Dusun Alue Garut, Alue Kubu and Alue Mud
 The follow-up covered 25 hectares estimated at 37,500 cannabis plants. [@9] The plants were over one metre tall, ready to harvest and spread across three sites. [@9] The three detainees allegedly acted as seeders, planters and seekers of plantation sites to evade officers. [@9]
 
 Personnel from Koramil 19/Sawang under Kodim 0103/Aceh Utara joined the joint operation, with dozens of personnel from Polda Aceh, Polres Lhokseumawe, Brimob, BNN Kota Lhokseumawe and TNI deployed to support the destruction. [@10]
+
+From the Sawang site on 27 October officers also seized 282 grams of cannabis seeds and 29 grams of dried cannabis. [@11] The 30-31 October follow-up found three sites at Dusun Cot Mancang, Dusun Alue Garot and Dusun Alue Le Mudek in Desa Teupin Rusep totalling about 25 hectares. [@12]
