@@ -48,6 +48,11 @@ media:
     media_url: https://images-prd.deshabhimani.com/kanchavu-1793912606545-f9d9e3da-5c03-4a0f-9fd8-30727fdad52d-900x508.webp
     publisher: Deshabhimani
     caption: 'Cannabis seized at Aluva railway station. Photo: Deshabhimani.'
+  - kind: photo
+    url: https://www.ndtv.com/india-news/38-kg-ganja-hidden-in-4-jaggery-sacks-seized-from-train-at-kerala-station-12291132
+    media_url: https://c.ndtvimg.com/2026-11/v38krsgc_contraband-seized_625x300_06_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720
+    publisher: NDTV
+    caption: 'Seized packets of ganja laid out after the RPF search of the Vivek Express at Aluva railway station. Photo: NDTV.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 65cc7a3c54683ec774eae0e8720c7acb
@@ -82,6 +87,10 @@ sources:
     publisher: News18 Malayalam
     date: 2026-11-06
     language: ml
+  - title: 38 Kg Ganja Hidden In 4 Jaggery Sacks Seized From Train At Kerala Station
+    url: https://www.ndtv.com/india-news/38-kg-ganja-hidden-in-4-jaggery-sacks-seized-from-train-at-kerala-station-12291132
+    publisher: NDTV
+    date: 2026-11-06
 open_questions:
   - Neither report gives the origin or intended destination of the sacks, or where on the route they were placed on the train.
   - No arrest, charge or court step has been reported; investigators said they were trying to identify those behind the consignment.
@@ -90,21 +99,23 @@ open_questions:
   - This Malayalam account does not give the train's origin or destination, the number of the service, or when the sacks were placed aboard.
   - News18 Malayalam dates the inspection only as "the other day" (കഴിഞ്ഞ ദിവസം) and was published on 6 November 2026; the date of 5 November 2026 used in the report comes from the other accounts.
   - News18 Malayalam repeats the RPF's estimate of about 19 lakh rupees without naming who made the estimate.
+  - NDTV's headline rounds the weight to 38 kg while its text gives 37.7 kg; the report keeps 37.7 kg.
+  - NDTV credits the seized-goods photo to itself rather than naming the Railway Protection Force as its origin, so it may duplicate an agency handout published elsewhere.
 ---
 
 Railway Protection Force officers seized 37.7 kg of ganja from the
 Dibrugarh–Kanyakumari Vivek Express at Aluva railway station in Kerala on
-Thursday, 5 November 2026. [@1,4,5,6] The force put the value of the seized ganja at
-about 19 lakh rupees. [@1,5]
+Thursday, 5 November 2026. [@1,4,5,6,7] The force put the value of the seized ganja at
+about 19 lakh rupees. [@1,5,7]
 
 Officers found four unclaimed sacks in a general coach while inspecting train
 number 22504 after it reached Aluva; they appeared to hold jaggery, but the
-ganja was packed beneath a jaggery coating. [@1,4,5,6] Malayala Manorama reported that
+ganja was packed beneath a jaggery coating. [@1,4,5,6,7] Malayala Manorama reported that
 the cannabis was split across four sacks concealed under jaggery-like wrapping
 and weighed 37.700 kg. [@2] Malayala Manorama reported that the cannabis was
 found unclaimed in the general coach after the train arrived. [@2]
 
-No one has been arrested over the seizure. [@1] Investigators were trying to
+No one has been arrested over the seizure. [@1,7] Investigators were trying to
 establish where on the route the sacks were placed on the train and who was
 behind them. [@1] Malayala Manorama reported that no suspects had been traced.
 [@2] The seizure was made by the RPF Crime Intelligence Branch under the
@@ -113,10 +124,12 @@ supervision of Inspector Jipin A.J. of Thiruvananthapuram, the outlet reported.
 [@3]
 
 The RPF handed the ganja to the Aluva Excise Department for further action and
-investigation. [@1,5,6] The RPF said smugglers had previously hidden ganja in
+investigation. [@1,5,6,7] The RPF said smugglers had previously hidden ganja in
 cricket bats, shoes, inverter boxes, paint tins and other goods, and that checks
-at stations and on trains had been stepped up for the festival season. [@1]
+at stations and on trains had been stepped up for the festival season. [@1,7]
 
 The inspection was carried out by Thiruvananthapuram RPF Crime Intelligence Branch Inspector A. J. Jibin with ASIs Sijo Xavier and Vijayakumar, Head Constable Vipin and Constable Nikhil. [@5,6]
 
 The RPF said checks at stations and on trains would be tightened for the Deepavali festival season. [@6]
+
+NDTV published a photo captioned as the contraband seized by the Railway Protection Force, credited to NDTV. [@7]
