@@ -61,6 +61,15 @@ sources:
     publisher: The Followup
     date: 2026-11-06
     language: hi
+  - title: बिहार में 10 करोड़ रुपये के चरस के साथ तस्कर गिरफ्तार, पूर्णिया में महिला से 61 ग्राम स्मैक जब्त
+    url: https://hindi.theprint.in/india/smuggler-arrested-with-hashish-worth-rs-10-crore-in-bihar-61-grams-of-smack-seized-from-woman-in-purnia/1055149/
+    publisher: ThePrint Hindi
+    date: 2026-11-06
+    language: hi
+  - title: Bihar STF arrests man with charas worth Rs 10 crore, woman with 61 gm smack
+    url: https://theprint.in/india/bihar-stf-arrests-man-with-charas-worth-rs-10-crore-woman-with-61-gm-smack/3092183/
+    publisher: ThePrint
+    date: 2026-11-06
 open_questions:
   - The incident date of 5 November 2026 is inferred because the reports published on 6 November 2026 say the Dumaria Ghat arrest happened on Thursday.
   - The same articles report a separate Purnia operation in which a woman was held with 61 grams of smack and a motorcycle; smack is not cannabis, so that seizure, vehicle and arrest are excluded from this cannabis report.
@@ -72,17 +81,16 @@ open_questions:
 A joint team of the Bihar Police Special Task Force and the Directorate of
 Revenue Intelligence's Patna and Muzaffarpur units arrested Rajesh Sahni on
 Thursday in the Dumaria Ghat police station area of East Champaran district.
-[@1] Officers seized 10 kg of charas from him and valued the consignment at
-about Rs 10 crore. [@2] Officers also recovered a mobile phone and Rs 2,320 in
+[@1,4] Officers seized 10 kg of charas from him and valued the consignment at
+about Rs 10 crore. [@2,5] Officers also recovered a mobile phone and Rs 2,320 in
 cash from him. [@3] Sahni is a resident of East Champaran district, according to
 the STF account released on Friday. [@3]
 
 The STF said Sahni was allegedly part of an international drug-trafficking gang.
-[@1] He allegedly brought charas from Nepal and supplied it through Bihar to
+[@1,4] He allegedly brought charas from Nepal and supplied it through Bihar to
 traffickers in Uttar Pradesh, Punjab, Haryana, Gujarat and Maharashtra. [@1] The
 seized consignment was to be delivered to Patan district in Gujarat. [@2]
 
 The STF said further investigation in the case is continuing. [@1] The criminal
 history of the arrested accused is being verified. [@1] Legal proceedings in the
 case have been started. [@1]
-
