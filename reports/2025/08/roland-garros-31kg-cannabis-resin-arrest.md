@@ -15,10 +15,14 @@ figures:
   arrested: 1
   kg_seized: 31
 details:
+  agency_types: [customs]
   products:
     - {product: hashish}
+  setting: [airport]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f1d94977d8f4da1bf2231f047b3beaaa

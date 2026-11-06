@@ -53,14 +53,18 @@ media:
     publisher: Arezzo24
     caption: Loose hashish pieces and a wrapped package shown in an Arezzo seizure photo.
 details:
+  activity: [trafficking, possession]
   agencies: [it-gdf]
   agency_types: [customs]
   products:
     - {product: hashish}
+  setting: [home, mail]
 data_sources:
+  details.activity: [1, 3, 5, 6, 7, 8]
   details.agencies: [1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
   details.agency_types: [1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
   details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+  details.setting: [1, 4, 5, 6, 7, 8]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 955bab2a0f1871add8f0ffcee78753aa

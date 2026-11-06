@@ -19,11 +19,19 @@ figures:
   value: { amount: 845000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [int-europol]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 360}, {product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 open_questions:
   - Both accounts repost the 26 October 2023 Europol release; no independent press

@@ -33,8 +33,12 @@ media:
     caption: 'Video of the coordinated operation neutralizing the illegal crop that generated million-dollar profits for drug trafficking. Video: Ejército de Guatemala via Infobae.'
 details:
   activity: [cultivation]
+  agency_types: [military, anti-narcotics, police]
+  products: [{product: flower}, {product: plants, plants: 21000}]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cd4e40785bf89f74a652c7c600eb8eb7

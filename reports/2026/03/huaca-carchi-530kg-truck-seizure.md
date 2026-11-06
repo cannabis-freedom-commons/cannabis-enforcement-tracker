@@ -22,8 +22,16 @@ media:
     publisher: El Comercio
     caption: 'Photo published with the report of the 530 kg marijuana seizure in Carchi. Photo: FF.AA. (Ecuador''s Armed Forces)'
 details:
+  activity: [trafficking]
+  agency_types: [military, police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 530.5}]
   setting: [border]
 data_sources:
+  details.activity: [2]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3]
+  details.products: [1, 3, 2]
   details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

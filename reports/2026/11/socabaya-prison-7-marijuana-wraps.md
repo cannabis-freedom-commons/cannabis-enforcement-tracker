@@ -18,10 +18,14 @@ media:
     publisher: Correo
     caption: Photo published with the report of the drugs, bladed weapons and phones seized in the Socabaya prison search.
 details:
+  agency_types: [police]
+  case_stage: investigation
   setting: [prison]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

@@ -16,11 +16,15 @@ figures:
   arrested: 1
   kg_seized: 0.00223
 details:
+  activity: [trafficking]
   agencies: [cl-pdi]
   agency_types: [police]
+  case_stage: investigation
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: cd47b527f5d224a99e4b3a542ce52cb1

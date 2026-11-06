@@ -31,11 +31,13 @@ media:
     publisher: Napolitan
     caption: Photo published with the report of the high-impact checks and 4 kg hashish seizure in eastern Naples
 details:
+  activity: [sale]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3, 2, 4, 5]
   details.agencies: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]

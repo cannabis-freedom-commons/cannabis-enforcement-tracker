@@ -20,10 +20,16 @@ media:
     publisher: СБ. Беларусь сегодня
     caption: 'Frame from a State Border Committee of Belarus video of the search of the Dutch woman''s car at the Brest checkpoint. Photo: ГПК, via СБ. Беларусь сегодня'
 details:
+  activity: [trafficking]
+  agency_types: [border-guard]
+  case_stage: investigation
   setting: [border]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: reported

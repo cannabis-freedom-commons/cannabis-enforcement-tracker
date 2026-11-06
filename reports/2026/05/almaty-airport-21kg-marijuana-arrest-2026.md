@@ -21,10 +21,18 @@ media:
     publisher: 24KZ
     caption: 'Photo published with the report on the seizure of about 21 kg of presumed marijuana at Almaty airport. Photo: press service of the National Security Committee'
 details:
+  activity: [smuggling]
+  agency_types: [customs, police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [airport]
 data_sources:
+  details.activity: [2, 1, 4]
+  details.agency_types: [3, 1, 2, 4]
+  details.case_stage: [3, 1, 2, 4]
   details.products: [2]
+  details.setting: [3, 1, 2, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 52ec06fa8f0362924ba1bbf9d9e8020e

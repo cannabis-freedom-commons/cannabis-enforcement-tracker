@@ -21,9 +21,17 @@ figures:
   value: { amount: 7140000, currency: INR }
 created_by_model: unknown
 details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 142.8}]
   route: {from: [in], to: [in], crossing: 'Odisha to Maharashtra'}
+  setting: [mail]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.route: [1]
+  details.setting: [1]
 status: verified
 tags: [cars, odisha-route, maharashtra-route]
 sources:

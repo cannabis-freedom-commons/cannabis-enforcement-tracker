@@ -15,10 +15,16 @@ figures:
   charged: 1
   kg_seized: 0.289
 details:
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 25f2634ae5cd451ea0ec0285a1545cf6

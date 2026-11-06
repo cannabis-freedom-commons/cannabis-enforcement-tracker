@@ -18,11 +18,15 @@ figures:
   arrested: 1
   kg_seized: 82
 details:
+  activity: [smuggling]
+  case_stage: investigation
   setting: [border]
   products:
     - {product: hashish}
   route: {from: [lb], to: [sy]}
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

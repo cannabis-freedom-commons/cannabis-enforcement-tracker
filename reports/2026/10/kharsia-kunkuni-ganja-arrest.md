@@ -25,10 +25,16 @@ media:
     publisher: RIG24
     caption: A man squatting in front of Kharsia police officers outside the police station, in the article's featured photograph; the page gave no caption or credit.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [2, 4, 1, 5]
+  details.agency_types: [2, 4, 5, 1, 3, 6]
   details.products: [1, 2, 4, 5, 6]
+  details.setting: [2, 4, 5, 1]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b5a12faea25e67453d0f9d35fe14fac5

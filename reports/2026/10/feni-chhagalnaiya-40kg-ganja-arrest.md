@@ -30,10 +30,16 @@ media:
     publisher: Dhaka Mail
     caption: 'Photo of Anwar Hossain after his arrest. Photo: Dhaka Mail'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [2, 1, 5, 6]
+  details.case_stage: [1, 3, 5, 6]
   details.products: [1, 3, 4, 5, 6]
+  details.setting: [1, 3, 5, 6, 2]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 96d4d9217e0b3d09ad2acb105ef22862

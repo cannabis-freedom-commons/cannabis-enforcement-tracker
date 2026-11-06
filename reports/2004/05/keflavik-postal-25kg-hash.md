@@ -18,10 +18,12 @@ figures:
   kg_seized: 2.5
   arrested: 3
 details:
+  agency_types: [customs, police]
   setting: [mail]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
 status: reported

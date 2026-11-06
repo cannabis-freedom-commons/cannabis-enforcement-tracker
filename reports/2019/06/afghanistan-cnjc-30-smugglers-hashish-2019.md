@@ -16,10 +16,16 @@ figures:
   kg_seized: 427
   prison: 1 to 16 years
 details:
+  activity: [smuggling]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fd9f9c7d16f9470a7fc48d84e1b70c35

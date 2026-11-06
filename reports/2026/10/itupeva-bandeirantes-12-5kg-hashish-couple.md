@@ -30,11 +30,13 @@ media:
     publisher: Sampi / Jornal de Jundiai
     caption: Photo of the seized drug, captioned as valued at about R$125,000.
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]

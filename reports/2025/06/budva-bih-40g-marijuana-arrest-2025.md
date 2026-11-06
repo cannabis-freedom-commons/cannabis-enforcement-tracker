@@ -15,10 +15,16 @@ figures:
   arrested: 1
   kg_seized: 0.04
 details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e8cbfaa81ffbe9c1e2680ba24c40efcd

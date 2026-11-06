@@ -19,8 +19,12 @@ figures:
   kg_seized: 30
 created_by_model: unknown
 details:
+  agency_types: [anti-narcotics, police]
+  products: [{product: flower, kg: 30}]
   route: {from: [in], to: [in], crossing: 'Odisha to Kerala'}
 data_sources:
+  details.agency_types: [1]
+  details.products: [1]
   details.route: [1]
 status: verified
 tags: [odisha-route, dansaf, operation-toofan]

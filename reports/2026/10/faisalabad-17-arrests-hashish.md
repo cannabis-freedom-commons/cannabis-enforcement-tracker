@@ -16,9 +16,13 @@ figures:
   arrested: 17
   kg_seized: 9
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 4, 2]
   details.products: [1, 4]
 status: reported
 created_by_model: xai/grok-4.7#low

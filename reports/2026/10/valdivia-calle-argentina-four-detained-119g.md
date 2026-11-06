@@ -18,9 +18,13 @@ figures:
 details:
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.1191}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4ce6f5ab9c1f1fd8c870a935642128f3

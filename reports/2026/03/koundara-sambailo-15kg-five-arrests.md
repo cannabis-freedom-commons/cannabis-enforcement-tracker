@@ -19,8 +19,10 @@ figures:
   arrested: 5
 created_by_model: cursor/composer-2.5-fast
 details:
+  agency_types: [police]
   setting: [shop]
 data_sources:
+  details.agency_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [koundara, bsip, shop]

@@ -18,9 +18,15 @@ figures:
     amount: 15390000
     currency: USD
 details:
+  activity: [cultivation]
+  agency_types: [police]
   environment: [indoor]
+  products: [{product: flower, kg: 457.22}]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.environment: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ac3223499f10238d072690f09f6506ba

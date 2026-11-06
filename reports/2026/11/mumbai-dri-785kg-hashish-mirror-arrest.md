@@ -31,14 +31,18 @@ media:
     publisher: News18
     caption: Photo published with the report on the 7.85 kg hashish seizure in Mumbai, captioned as showing the eight packets found inside the mirror frame and the 169 sachets of blackish resinous substance. Image/News18
 details:
+  activity: [trafficking]
   agencies: [in-dri]
   agency_types: [customs]
+  case_stage: investigation
   setting: [mail]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 4, 5]
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
+  details.case_stage: [1, 2, 3, 6, 4, 7]
   details.products: [1, 2, 3, 7]
   details.setting: [1, 2, 3, 5]
 status: verified

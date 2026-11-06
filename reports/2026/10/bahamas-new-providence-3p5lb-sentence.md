@@ -20,9 +20,17 @@ figures:
     amount: 7000
     currency: BSD
 details:
+  activity: [possession]
+  agency_types: [police, court]
+  case_stage: sentenced
   environment: [indoor]
+  products: [{product: flower, kg: 1.5876}]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9502b607f3aa5575b255ed6b04bfc27b

@@ -13,8 +13,10 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking]
+  agency_types: [police]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
 status: verified
 cfi_id: rwanda-rubavu-cannabis-seizure-2017
 tags:

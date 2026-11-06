@@ -24,11 +24,17 @@ media:
     caption: Graphic accompanying the Kandhamal cannabis-plantation eradication report
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [in-excise]
   agency_types: [regulator]
+  products: [{product: plants, plants: 100000}]
+  setting: [field, forest]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: reported
 tags: [india, odisha, kandhamal, raikia]
 open_questions:

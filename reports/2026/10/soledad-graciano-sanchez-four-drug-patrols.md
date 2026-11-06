@@ -15,10 +15,16 @@ summary: >-
 figures:
   arrested: 4
 details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [forest]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4584327dc987df006db16c78d023d52d

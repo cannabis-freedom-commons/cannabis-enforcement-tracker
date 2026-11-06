@@ -20,9 +20,13 @@ figures:
 details:
   agencies: [in-bsf]
   agency_types: [border-guard]
+  products: [{product: plants, plants: 1500000}]
+  setting: [forest]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tripura, sepahijala, joint-operation]

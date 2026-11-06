@@ -15,9 +15,13 @@ figures:
   arrested: 3
   kg_seized: 0.045
 details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

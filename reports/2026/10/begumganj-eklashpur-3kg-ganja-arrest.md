@@ -22,10 +22,16 @@ media:
     publisher: Durniti Talash News TV
     caption: 'The arrested man standing between two police officers, with the three sacks of cannabis recovered in the raid shown below, in a photo published with the report. Photo: Durniti Talash News TV'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b06a97a501672342f5e9ed10ad88d5eb

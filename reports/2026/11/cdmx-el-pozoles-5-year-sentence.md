@@ -17,14 +17,20 @@ figures:
   kg_seized: 0.4967
   prison: 5 years
 details:
+  activity: [possession]
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 04c03c07e9492287562b965c157ad9ef

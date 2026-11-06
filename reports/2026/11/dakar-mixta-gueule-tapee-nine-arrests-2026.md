@@ -24,12 +24,14 @@ details:
   period: {start: 2026-10-30, end: 2026-11-01}
   date_precision: exact
   region: Dakar
+  setting: [mail]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.period: [1]
   details.products: [1]
+  details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified

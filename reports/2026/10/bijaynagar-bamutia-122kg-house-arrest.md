@@ -21,10 +21,16 @@ media:
     publisher: Sorejomin Barta
     caption: Police officers with stacked blue-wrapped bundles reported as the 122 kg of ganja seized from the Bamutia house.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [2, 3, 1]
+  details.agency_types: [1, 3, 2]
   details.products: [1, 3]
+  details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7dc59140263c660110673992b7313884

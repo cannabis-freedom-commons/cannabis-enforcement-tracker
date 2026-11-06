@@ -17,10 +17,18 @@ figures:
   kg_seized: 0.115
   prison: life
 details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ec2dc853e210394c7d533ca9108ab9af

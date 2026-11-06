@@ -16,9 +16,17 @@ figures:
   arrested: 2
   charged: 2
 details:
+  activity: [trafficking, cultivation, possession]
+  agency_types: [police]
+  case_stage: charged
   environment: [indoor]
+  products: [{product: flower}]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.environment: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 08e188afe21fcd22f5fe0db204229ac1

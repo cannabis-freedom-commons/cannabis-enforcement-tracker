@@ -22,14 +22,20 @@ media:
     publisher: Jornal Primeira Página
     caption: Lead photo on the source page for this seizure report
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0c0c4888529a96c1d4c74a33e2159675

@@ -21,8 +21,12 @@ media:
     caption: 'Video report on the Gorj arrest, whose still shows a dark night scene with police lights; no direct video stream address was recoverable. Image: Gazeta de Sud'
 details:
   activity: [cultivation]
+  agency_types: [gendarmerie, police, prosecutor]
+  products: [{product: seeds}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 3, 4, 5, 6, 7]
+  details.products: [1, 3, 4, 6, 8, 9]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b257c5b19e0a0cff76400b012ca9ba93

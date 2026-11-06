@@ -36,8 +36,14 @@ media:
     publisher: Infobae
     caption: 'Video report on the Navy seizure of more than 1.4 tonnes of drugs in the Colombian Pacific. Photo: prensa Armada de Colombia.'
 details:
+  activity: [smuggling, trafficking, possession]
+  agency_types: [coast-guard, military, anti-narcotics, police]
+  products: [{product: flower, kg: 0.407}]
   setting: [port]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -18,9 +18,11 @@ figures:
     amount: 5500
     currency: INR
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [2, 1]
   details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max

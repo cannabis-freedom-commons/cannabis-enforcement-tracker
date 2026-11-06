@@ -37,10 +37,18 @@ media:
     publisher: 101TV
     caption: 'Part of the seized drug haul, stacked wrapped packages. Photo: Policía Nacional.'
 details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  case_stage: charged
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [2, 4, 5, 7, 9, 10]
+  details.agency_types: [2, 4, 5, 7, 9, 10]
+  details.case_stage: [2, 16, 8, 17, 1, 3]
   details.products: [1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+  details.setting: [1, 5, 6, 7, 8, 9]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 53fc23aca5a8e595c134a45894de6b9e

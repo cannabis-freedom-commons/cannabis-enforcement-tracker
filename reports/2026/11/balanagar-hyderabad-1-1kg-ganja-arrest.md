@@ -22,11 +22,13 @@ media:
     publisher: The Siasat Daily
     caption: The excise team with the detained man (crouching) and the seized contraband.
 details:
+  activity: [possession]
   agencies: [in-excise]
   agency_types: [regulator]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

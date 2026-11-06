@@ -23,10 +23,12 @@ details:
   agency_types: [customs]
   products:
     - {product: hashish}
+  setting: [home, building]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [hashish, sailboat, canary-islands, organised-crime]
 open_questions:

@@ -20,8 +20,12 @@ figures:
   kg_seized: 356.79
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 5968}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [cultivation, drones, st-john, eradication]

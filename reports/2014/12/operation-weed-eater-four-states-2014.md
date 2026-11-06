@@ -24,11 +24,17 @@ media:
     caption: Two detained suspects sit before bags of seized cannabis in Delta State
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 1514278}]
+  setting: [vehicle, field, forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ndlea, operation-weed-eater, multi-state, warehouses, farmland]
 sources:

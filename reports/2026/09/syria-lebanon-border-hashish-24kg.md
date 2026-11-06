@@ -21,10 +21,16 @@ media:
     publisher: Syrian Arab News Agency (SANA)
     caption: 'A Drug Enforcement Department officer inspects seized narcotics and bottles of alcohol after the shipment from Lebanon was stopped. Photo: SANA'
 details:
+  activity: [smuggling]
+  agency_types: [border-guard]
+  case_stage: investigation
   setting: [border]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2]
   details.setting: [1]
 status: verified

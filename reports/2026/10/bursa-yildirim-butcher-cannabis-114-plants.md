@@ -17,12 +17,20 @@ figures:
   plants_destroyed: 114
   kg_seized: 2.914
 details:
+  activity: [trafficking, sale]
+  agency_types: [police, court]
+  case_stage: investigation
   environment: [indoor]
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 18, 19, 21, 2, 3]
+  details.agency_types: [2, 3, 4, 5, 6, 7]
+  details.case_stage: [2, 3, 4, 5, 6, 7]
   details.environment: [2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 22]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+  details.setting: [1, 3, 4, 5, 9, 10]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 12c097ab6469c08ac914c0e4ea36bff7

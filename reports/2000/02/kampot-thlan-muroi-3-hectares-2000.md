@@ -16,8 +16,12 @@ figures:
   hectares: 3
 details:
   activity: [cultivation]
+  agency_types: [military, police]
+  setting: [port, field]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [kampot, eradication, khmer-rouge, police-corruption]

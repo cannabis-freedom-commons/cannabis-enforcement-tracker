@@ -19,11 +19,17 @@ figures:
   hectares: 4
   kg_seized: 660
 details:
+  activity: [cultivation]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 660}]
+  setting: [forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [amambay, senad, timburi, drones]

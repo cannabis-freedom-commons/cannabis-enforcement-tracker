@@ -15,10 +15,14 @@ summary: >-
 figures:
   kg_seized: 1.425
 details:
+  activity: [smuggling, trafficking]
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: be864b47189820657206a773940e580f

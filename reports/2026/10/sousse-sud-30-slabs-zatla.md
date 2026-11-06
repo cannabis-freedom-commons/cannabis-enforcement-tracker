@@ -15,9 +15,15 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [smuggling, sale]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 4, 3, 7, 2, 5]
+  details.agency_types: [3, 6, 7, 1, 4, 2]
+  details.case_stage: [2, 5, 6, 7, 3]
   details.products: [3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

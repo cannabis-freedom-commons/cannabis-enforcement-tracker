@@ -15,8 +15,10 @@ summary: >-
   entering from Austria; Liechtenstein police seized the plants and reported him
   for a breach of the Narcotics Act.
 details:
+  agency_types: [customs, police]
   setting: [border]
 data_sources:
+  details.agency_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5

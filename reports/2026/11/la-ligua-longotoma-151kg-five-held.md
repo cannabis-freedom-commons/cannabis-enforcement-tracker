@@ -17,9 +17,15 @@ figures:
 details:
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 151}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
+  details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c24bf27c1dec493401a178033f721d72

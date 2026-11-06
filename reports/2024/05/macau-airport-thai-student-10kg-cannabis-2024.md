@@ -44,8 +44,14 @@ media:
     publisher: The Macau Post Daily
     caption: 'Senior investigator Lei Ka Wo and other PJ officers at the special press conference, with the marijuana buds and THC gummies displayed. Photo: William Chan, The Macau Post Daily'
 details:
+  activity: [smuggling]
+  agency_types: [customs, police]
+  products: [{product: flower, kg: 10.56}]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 4, 3]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

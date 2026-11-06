@@ -29,9 +29,15 @@ media:
 created_by_model: openai/gpt-6-luna#max
 details:
   activity: [cultivation]
+  agency_types: [gendarmerie, military]
+  case_stage: investigation
+  products: [{product: seeds}]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [lola, gueasso, gendarmerie, plantation, nzerekore]

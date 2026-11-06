@@ -16,10 +16,16 @@ figures:
   arrested: 1
   kg_seized: 300
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
   products:
     - {product: edibles}
+  setting: [home]
 data_sources:
+  details.activity: [4, 2]
+  details.agency_types: [2, 3, 1]
   details.products: [3]
+  details.setting: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 085701ab07c0cc2a98609479f0ad61fa

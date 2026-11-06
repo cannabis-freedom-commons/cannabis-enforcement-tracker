@@ -20,14 +20,20 @@ media:
     publisher: Hindustan Times
     caption: 'Officials destroying illegal cannabis cultivation in Kullu. Photo: Hindustan Times (HT Photo)'
 details:
+  activity: [cultivation]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
+  case_stage: appeal
   products:
     - {product: hashish}
+  setting: [forest]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 29c78d23c7b5ef571d2de8cad448c364

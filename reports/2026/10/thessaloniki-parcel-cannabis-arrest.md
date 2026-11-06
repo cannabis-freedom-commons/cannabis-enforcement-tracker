@@ -16,10 +16,14 @@ figures:
   arrested: 1
   kg_seized: 2.9
 details:
+  agency_types: [police, prosecutor]
   products:
     - {product: flower}
+  setting: [mail]
 data_sources:
+  details.agency_types: [1, 2, 3, 4]
   details.products: [1]
+  details.setting: [3, 4, 1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6bf466206644b34dd96c8983cecd9143

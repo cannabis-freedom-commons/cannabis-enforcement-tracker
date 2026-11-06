@@ -16,8 +16,14 @@ figures:
   arrested: 3
 details:
   activity: [possession]
+  agency_types: [police]
+  case_stage: appeal
+  setting: [home]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [3, 2, 1]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ec51d1f340ff424c0d5d3756ff2655da

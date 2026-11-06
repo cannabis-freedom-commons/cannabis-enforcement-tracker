@@ -30,8 +30,12 @@ media:
     publisher: RCI
     caption: Gendarmes inside the Baie-Mahault prison during the 22 May search.
 details:
+  agency_types: [gendarmerie, prosecutor]
+  products: [{product: hashish, kg: 1.256}, {product: flower}]
   setting: [prison]
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [2, 3, 1]
   details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

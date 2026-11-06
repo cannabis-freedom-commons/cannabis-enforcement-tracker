@@ -27,11 +27,19 @@ media:
     publisher: U.S. Immigration and Customs Enforcement
     caption: 'Photo captioned “Law enforcement seized 114 bales of marijuana weighing in excess of 2,800 pounds” from the two stopped vehicles. Photo: ICE'
 details:
+  activity: [smuggling, possession]
   agencies: [us-cbp, us-hsi]
   agency_types: [customs, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 1270.1}]
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 80cf1581787e36530440225c7b14bf12

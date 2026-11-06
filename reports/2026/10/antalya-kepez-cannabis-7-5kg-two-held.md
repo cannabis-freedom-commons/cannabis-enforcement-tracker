@@ -47,9 +47,15 @@ media:
     publisher: Yeni Birlik
     caption: Wrapped packages of seized cannabis laid out in front of a banner of the Antalya police narcotics branch; police photo published by Yeni Birlik.
 details:
+  activity: [trafficking, sale]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 4, 8, 9, 10, 11]
+  details.agency_types: [1, 4, 8, 9, 10, 11]
+  details.case_stage: [1, 4, 8, 9, 10, 11]
   details.products: [1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 22, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

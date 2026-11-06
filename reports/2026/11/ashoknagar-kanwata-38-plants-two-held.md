@@ -25,8 +25,16 @@ media:
     publisher: Dainik Bhaskar
     caption: 'Dainik Bhaskar''s 27-second video report on the seizure of 38 cannabis plants from two houses in Kanwata village. Credit: Dainik Bhaskar'
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: appeal
+  products: [{product: plants, plants: 38}]
   setting: [home]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2]
+  details.products: [2, 1]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -21,9 +21,15 @@ media:
     publisher: Asia-Plus
     caption: 'Seized drugs from the Asht case, shown as a screenshot from an Interior Ministry video. Photo: screenshot from Interior Ministry video via Asia-Plus.'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

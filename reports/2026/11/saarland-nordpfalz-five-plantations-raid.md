@@ -37,11 +37,17 @@ media:
     publisher: SWR Aktuell
     caption: 'One of the cannabis plantations discovered in the raids, including about 300 plants in Jeckenbach. Photo: Zollfahndungsamt Frankfurt am Main'
 details:
+  activity: [cultivation]
   agencies: [de-bka]
   agency_types: [police]
+  products: [{product: hashish, kg: 12.5}, {product: flower}]
+  setting: [field]
 data_sources:
+  details.activity: [1, 4, 7, 8, 9, 3]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [2, 5, 9, 1, 4, 6]
+  details.setting: [1, 4, 7, 8, 9, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0e2cd996cc95e4910a18d0a509adac8e

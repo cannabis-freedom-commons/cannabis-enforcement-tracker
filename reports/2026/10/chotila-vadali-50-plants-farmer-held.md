@@ -20,9 +20,13 @@ figures:
     amount: 804500
     currency: INR
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2]
+  details.agency_types: [2, 1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

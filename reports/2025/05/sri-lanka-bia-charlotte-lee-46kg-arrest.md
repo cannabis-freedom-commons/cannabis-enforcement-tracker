@@ -15,6 +15,7 @@ figures:
   arrested: 1
   kg_seized: 46
 details:
+  activity: [smuggling]
   agencies: [Sri Lanka Customs Narcotics Control Unit]
   agency_types: [customs]
   products:
@@ -24,6 +25,7 @@ details:
   date_precision: exact
   route: {from: [th], to: [lk]}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1]

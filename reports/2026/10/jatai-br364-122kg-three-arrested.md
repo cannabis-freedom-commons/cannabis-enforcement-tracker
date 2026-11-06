@@ -24,11 +24,13 @@ media:
 details:
   agencies: [br-prf]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

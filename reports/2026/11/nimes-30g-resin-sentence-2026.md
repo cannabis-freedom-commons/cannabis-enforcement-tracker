@@ -17,10 +17,18 @@ figures:
   kg_seized: 0.03
   prison: 2 years
 details:
+  activity: [trafficking, possession]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b4a147557d57fe462f2fa6adf0447cfa

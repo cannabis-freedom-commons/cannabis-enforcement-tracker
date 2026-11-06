@@ -23,10 +23,12 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
   setting: [online]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [cnb, ica, singpost, telegram, import]

@@ -16,10 +16,14 @@ figures:
   prison: 2 years' imprisonment
   fine: { amount: 40000, currency: INR }
 details:
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [charas, mandi, trial-court]

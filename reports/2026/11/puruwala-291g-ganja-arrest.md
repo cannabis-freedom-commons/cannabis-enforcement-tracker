@@ -26,9 +26,11 @@ media:
     publisher: MBM News Network
     caption: Police photo showing the accused with the police team.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

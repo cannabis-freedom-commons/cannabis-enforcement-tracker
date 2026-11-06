@@ -22,8 +22,16 @@ media:
     publisher: Haber7
     caption: Photo published with the report on cannabis seized from beehives in Dörtyol.
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: plants, plants: 3}]
   setting: [home]
 data_sources:
+  details.activity: [2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

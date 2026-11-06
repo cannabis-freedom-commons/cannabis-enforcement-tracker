@@ -22,10 +22,18 @@ media:
     publisher: Haber7
     caption: Bags of seized cannabis displayed in front of a Didim anti-smuggling unit banner in the photo published with the report.
 details:
+  activity: [smuggling]
+  agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7fe918fd803061c357daff5b3b379139

@@ -29,9 +29,11 @@ media:
     publisher: Haribhoomi
     caption: 'Cannabis plants seized by Bariyo police in Khukhri village. Photo: Haribhoomi'
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 3, 2]
   details.products: [3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

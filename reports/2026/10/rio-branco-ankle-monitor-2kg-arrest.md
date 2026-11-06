@@ -27,11 +27,15 @@ media:
     publisher: A Gazeta do Acre
     caption: 'A two-photo collage showing the handcuffed suspect with BOPE officers, and the two seized cannabis packages, a mobile phone and BOPE unit cards on a BOPE vest. Photo: A Gazeta do Acre (watermark).'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  setting: [home]
 data_sources:
+  details.activity: [2, 3, 8, 1, 5, 6]
   details.agencies: [1, 6]
   details.agency_types: [1, 6]
+  details.setting: [2, 3, 8, 1, 5, 6]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 45be1ff0b01e5984552e53c58518ff43

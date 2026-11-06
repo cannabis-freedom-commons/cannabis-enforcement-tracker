@@ -19,10 +19,14 @@ figures:
   kg_seized: 3700
 created_by_model: meta/muse-spark
 details:
+  activity: [smuggling]
   products:
     - {product: hashish}
+  setting: [port, vehicle, home]
 data_sources:
+  details.activity: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [hashish, trafficking-ring, civil-guard, cross-border]
 sources:

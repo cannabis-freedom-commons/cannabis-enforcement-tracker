@@ -22,10 +22,18 @@ media:
     publisher: Agrajatra Pratidin
     caption: Photo accompanying the report on the couple arrested with ganja in Tangail
 details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [border, vehicle]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 59f9775f4f56b4f1dd0b848024cbe85e

@@ -14,12 +14,14 @@ summary: >-
 figures:
   kg_seized: 151
 details:
+  activity: [trafficking]
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
   setting: [port]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2, 3]

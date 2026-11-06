@@ -31,8 +31,14 @@ media:
     caption: 'The cocaine portions seized in the searches, photographed for the prosecutor''s office report. Photo: Cortesía (courtesy)'
 details:
   activity: [sale]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.57}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2, 4, 3]
+  details.case_stage: [1, 2, 4]
+  details.products: [2, 3, 4, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b06d753c46cd3dcace56504464fdff03

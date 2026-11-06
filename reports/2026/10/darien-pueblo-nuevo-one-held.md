@@ -26,9 +26,15 @@ media:
     publisher: Mi Diario
     caption: 'A gloved hand points to rounds, coins and a small plastic packet on a patterned surface. Credit: Corprensa'
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2]
+  details.case_stage: [2, 1]
   details.products: [2]
 status: verified
 created_by_model: xai/grok-4.7#low

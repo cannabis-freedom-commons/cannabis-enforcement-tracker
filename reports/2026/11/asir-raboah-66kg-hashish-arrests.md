@@ -22,9 +22,13 @@ media:
     publisher: صحيفة صراحة الالكترونية
     caption: 'Four handcuffed detainees stand with their backs to the camera beneath a General Directorate of Border Guards, Asir region command banner, with packages laid out in front of them. Photo: Saudi Border Guard, via Sraha.'
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [border-guard, anti-narcotics]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

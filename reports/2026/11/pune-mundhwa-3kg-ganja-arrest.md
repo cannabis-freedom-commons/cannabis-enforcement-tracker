@@ -25,9 +25,13 @@ media:
     publisher: Divya Marathi
     caption: Photo accompanying the report on the seized 3 kg of ganja and mobile phone in the Mundhwa case
 details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

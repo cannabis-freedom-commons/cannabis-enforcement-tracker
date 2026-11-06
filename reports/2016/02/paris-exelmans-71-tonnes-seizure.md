@@ -18,11 +18,19 @@ figures:
     arrested: 1
 created_by_model: meta/muse-spark
 details:
+  activity: [trafficking]
   agencies: [fr-douane]
   agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 7100}]
+  setting: [airport, vehicle, home]
 data_sources:
+  details.activity: [2, 3]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [3]
+  details.products: [3, 1, 2]
+  details.setting: [3, 1, 2]
 status: verified
 tags: [paris, record-haul, customs]
 open_questions:

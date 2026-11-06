@@ -19,9 +19,11 @@ figures:
 details:
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
+  setting: [mail]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [aflao, volta, customs, lexus, nacoc]

@@ -20,10 +20,16 @@ media:
     publisher: State Customs Committee of Belarus
     caption: 'The hashish found in the gearbox housing of the vehicle arriving from Poland, in a photograph published by the State Customs Committee. Photo: State Customs Committee of Belarus'
 details:
+  agency_types: [customs]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [4, 1]
   details.products: [1]
+  details.setting: [4, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 31bfe34130c2977505f1d3b521dd7763

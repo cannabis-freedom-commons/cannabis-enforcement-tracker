@@ -15,9 +15,17 @@ figures:
   arrested: 3
   kg_seized: 11
 details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 11}]
   route: {from: [th], to: [np]}
+  setting: [airport, vehicle]
 data_sources:
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [1]
+  details.products: [1, 2, 3]
   details.route: [1]
+  details.setting: [1, 3, 2]
 media:
   - kind: photo
     url: https://english.onlinekhabar.com/3-indian-nationals-arrested-at-tia.html

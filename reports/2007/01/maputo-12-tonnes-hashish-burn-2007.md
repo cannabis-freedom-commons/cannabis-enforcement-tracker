@@ -16,10 +16,18 @@ figures:
   charged: 9
   kg_seized: 12800
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1a1a7049e9ad3478c60e5b78da211133

@@ -31,8 +31,16 @@ media:
     publisher: Virgule
     caption: 'A second screen capture from the police video of the Rinas seizure. Photo: screen capture'
 details:
+  activity: [possession]
+  agency_types: [customs, police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 26.7}]
   setting: [airport]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

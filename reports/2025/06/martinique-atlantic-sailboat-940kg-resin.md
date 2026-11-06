@@ -21,14 +21,20 @@ media:
     publisher: Martinique La 1ère
     caption: 'Photo captioned by the outlet as near a tonne of cannabis seized off Martinique, credited to Serge Charmoillaux, Groupe Image Méditerranée; the outlet does not name the vessel or place it was taken. Photo: Serge Charmoillaux / Groupe Image Méditerranée'
 details:
+  activity: [trafficking]
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [port]
 data_sources:
+  details.activity: [4, 2, 1]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [2, 1, 3]
   details.products: [2]
+  details.setting: [2, 1, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 111e82ae7c6d325c953e3c23114635ad

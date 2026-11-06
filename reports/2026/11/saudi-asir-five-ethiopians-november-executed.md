@@ -13,9 +13,13 @@ summary: >-
 figures:
   deaths: 5
 details:
+  activity: [smuggling]
+  case_stage: executed
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 5, 7, 8, 9, 10]
+  details.case_stage: [1, 5, 7, 8, 9, 10]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

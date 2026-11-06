@@ -16,11 +16,15 @@ figures:
   arrested: 7
   kg_seized: 178.85
 details:
+  activity: [smuggling]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  setting: [airport]
 data_sources:
+  details.activity: [1, 4, 6, 8, 10, 11]
   details.agencies: [1, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 19, 20, 21, 23]
   details.agency_types: [1, 4, 5, 6, 7, 8, 9, 10, 12, 14, 16, 18, 19, 20, 21, 23]
+  details.setting: [2, 1, 4, 6, 8, 10]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c13f28a7bdac38902d0d41499e8f0080

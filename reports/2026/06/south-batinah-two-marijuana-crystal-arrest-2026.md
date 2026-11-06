@@ -20,9 +20,13 @@ media:
     publisher: Al Shabiba
     caption: The large quantity of marijuana and crystal meth seized in the South Al Batinah operation
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

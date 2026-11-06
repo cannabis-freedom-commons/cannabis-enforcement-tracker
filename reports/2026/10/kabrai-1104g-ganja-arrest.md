@@ -16,10 +16,14 @@ figures:
   arrested: 1
   kg_seized: 1.104
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [port]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: b8dde35dfc01efbe6836a4724712ee24

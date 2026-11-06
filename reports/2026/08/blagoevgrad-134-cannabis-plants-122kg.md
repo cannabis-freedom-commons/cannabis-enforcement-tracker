@@ -15,8 +15,14 @@ figures:
   plants_destroyed: 134
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 134}]
+  setting: [forest]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [blagoevgrad, petrich, strumyani, eradication]

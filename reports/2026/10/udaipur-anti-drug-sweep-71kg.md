@@ -22,11 +22,17 @@ media:
     publisher: Dainik Bhaskar
     caption: 'A composite photo of Raja Hussain alias Shanu, arrested in Ambamata, and Jagdish Chandra, arrested in Sukher, published with the report. Photo: Dainik Bhaskar'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4b02d81b6a93a716aa5daaa9cb4b7ad3

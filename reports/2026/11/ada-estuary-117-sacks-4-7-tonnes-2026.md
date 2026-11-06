@@ -24,6 +24,7 @@ details:
   activity: [smuggling]
   environment: [outdoor]
   case_stage: investigation
+  setting: [mail]
 data_sources:
   details.activity: [2]
   details.agencies: [2]
@@ -31,6 +32,7 @@ data_sources:
   details.case_stage: [1]
   details.environment: [2]
   details.products: [2]
+  details.setting: [2, 3, 4, 6, 1]
   figures.arrested: [2]
   figures.kg_seized: [1]
   figures.value: [1]

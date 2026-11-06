@@ -21,11 +21,17 @@ media:
     publisher: Araraquara Agora
     caption: The detained app driver with seized maconha tablets and the grey Fiat Mobi on the SP-255 in Araraquara.
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: flower, kg: 25.69}]
+  setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8673360ffdf129a6414ce69a8f336d56

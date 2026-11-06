@@ -15,11 +15,13 @@ figures:
   arrested: 1
   kg_seized: 0.1
 details:
+  activity: [possession]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.products: [1, 2, 3]

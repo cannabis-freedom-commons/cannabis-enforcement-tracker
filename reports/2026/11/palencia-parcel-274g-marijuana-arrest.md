@@ -26,14 +26,18 @@ media:
     publisher: El Norte de Castilla
     caption: 'Photo of the cocaine and cannabis from the intercepted Palencia parcel. Photo: El Norte de Castilla'
 details:
+  activity: [trafficking]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
   setting: [mail]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 4, 5, 6]
   details.agencies: [1, 4, 5, 6]
   details.agency_types: [1, 4, 5, 6]
+  details.case_stage: [1, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 4, 5, 6]
 status: verified

@@ -22,9 +22,13 @@ media:
     publisher: La République du Centre
     caption: 'Courtroom photo caption says five youths were convicted for drug trafficking by the Orléans court. Photo: Christelle Gaujard'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -18,8 +18,12 @@ figures:
   kg_seized: 2.03
   prison: 10 years 6 months
 details:
+  agency_types: [customs, court]
+  case_stage: sentenced
   setting: [mail]
 data_sources:
+  details.agency_types: [2, 4, 3, 1]
+  details.case_stage: [1]
   details.setting: [1, 3, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

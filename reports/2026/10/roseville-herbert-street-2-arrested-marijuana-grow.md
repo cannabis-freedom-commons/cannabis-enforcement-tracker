@@ -15,9 +15,17 @@ summary: >-
 figures:
   arrested: 2
 details:
+  activity: [cultivation]
+  agency_types: [police]
   environment: [indoor]
+  products: [{product: flower}]
+  setting: [home, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8845a72ee79e4af51c3c080feb2914c4

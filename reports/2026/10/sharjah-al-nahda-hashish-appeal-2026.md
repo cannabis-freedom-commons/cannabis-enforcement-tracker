@@ -18,10 +18,18 @@ figures:
   kg_seized: 1.0911
   prison: life
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 75dac124274ae7cb9bcf9e6d4654dfca

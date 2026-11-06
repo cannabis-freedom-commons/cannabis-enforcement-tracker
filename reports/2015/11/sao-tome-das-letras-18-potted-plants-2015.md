@@ -21,11 +21,17 @@ media:
     publisher: G1 Sul de Minas
     caption: 'Military Police evidence photo of the seized cannabis plants in their pots on a tiled floor behind a case holding seeds and other material, published with the report of the São Tomé das Letras seizure. Photo: Reprodução EPTV'
 details:
+  activity: [cultivation]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: plants, plants: 18}, {product: seeds}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dcba157dbaaa2fb760fa6e0dcfeed7cd

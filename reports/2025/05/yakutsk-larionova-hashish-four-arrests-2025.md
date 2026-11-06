@@ -28,11 +28,13 @@ media:
 details:
   agencies: [ru-fsb]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agencies: [3]
   details.agency_types: [3]
+  details.case_stage: [1, 3]
   details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

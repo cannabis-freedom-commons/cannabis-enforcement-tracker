@@ -20,10 +20,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
+  setting: [port, vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [algeciras, concealment, detection-dog, hashish]
 open_questions:

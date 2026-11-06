@@ -20,13 +20,19 @@ figures:
   kg_seized: 10
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [nz-police]
   agency_types: [police]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: plants, plants: 6886}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [operation-beryl, indoor-grow, vietnamese-syndicate, deportation]
 media:

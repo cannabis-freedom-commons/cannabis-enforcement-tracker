@@ -22,10 +22,14 @@ media:
     caption: 'Federal police officers at the roadside with the seized items laid out beside them during one of the two operations reported on 10 February 2025. Photo: Ministerio de Seguridad Nacional.'
 details:
   activity: [sale]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

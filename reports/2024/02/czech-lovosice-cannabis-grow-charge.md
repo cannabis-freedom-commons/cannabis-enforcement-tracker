@@ -16,9 +16,19 @@ figures:
   charged: 1
   kg_seized: 1
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
   environment: [indoor]
+  products: [{product: plants}]
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.environment: [2]
+  details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [lovosice, litomerice, indoor-grow, toxi-team]

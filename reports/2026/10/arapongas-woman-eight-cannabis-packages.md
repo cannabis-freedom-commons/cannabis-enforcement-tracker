@@ -14,9 +14,11 @@ summary: >-
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  setting: [prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 041b2f186f1d67c30df55c9b28d9af17

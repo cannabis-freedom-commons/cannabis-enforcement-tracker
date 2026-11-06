@@ -19,10 +19,16 @@ figures:
   kg_seized: 1000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [vehicle, home]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [hashish, record-seizure, trafficking]
 media:

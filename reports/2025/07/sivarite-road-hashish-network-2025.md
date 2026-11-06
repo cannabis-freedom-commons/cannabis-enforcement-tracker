@@ -23,11 +23,13 @@ details:
   products:
     - {product: hashish}
   route: {from: [es], to: [fr]}
+  setting: [vehicle, home, building]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
   details.route: [1]
+  details.setting: [1]
 status: verified
 tags: [hashish, france-route]
 open_questions:

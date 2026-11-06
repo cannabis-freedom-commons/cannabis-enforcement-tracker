@@ -20,10 +20,16 @@ media:
     publisher: Curaçao Chronicle
     caption: 'Photo of the marijuana plantation published with the report on the Barbuquet raid. Photo: Extra'
 details:
+  activity: [cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [field]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1f0eebd8e9e000d653904d1c93c2c51d

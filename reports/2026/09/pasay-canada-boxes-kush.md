@@ -26,10 +26,12 @@ details:
   agency_types: [anti-narcotics]
   products:
     - {product: flower}
+  setting: [home, building]
 data_sources:
   details.agencies: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
   details.products: [1, 3]
+  details.setting: [1, 2, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags:

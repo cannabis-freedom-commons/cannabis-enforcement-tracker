@@ -18,9 +18,11 @@ figures:
     amount: 388000
     currency: EUR
 details:
+  agency_types: [customs, border-guard, police]
   setting: [airport]
   route: {from: [th], to: [al]}
 data_sources:
+  details.agency_types: [2, 1]
   details.route: [2]
   details.setting: [1]
 status: verified

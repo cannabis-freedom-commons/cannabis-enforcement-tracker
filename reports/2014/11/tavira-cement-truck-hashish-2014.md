@@ -19,10 +19,16 @@ figures:
   kg_seized: 2000
 created_by_model: meta/muse-spark
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [judicial-police, hashish, cross-border]
 sources:

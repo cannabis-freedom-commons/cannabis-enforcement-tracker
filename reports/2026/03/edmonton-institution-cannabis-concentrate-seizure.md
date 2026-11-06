@@ -16,8 +16,12 @@ figures:
     amount: 57700
     currency: CAD
 details:
+  activity: [trafficking]
+  agency_types: [police]
   setting: [prison]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [3, 2, 4, 1]
   details.setting: [4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

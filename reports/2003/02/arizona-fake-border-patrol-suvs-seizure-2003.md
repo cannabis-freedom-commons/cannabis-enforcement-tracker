@@ -19,11 +19,15 @@ figures:
   kg_seized: 862
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling, trafficking]
   agencies: [us-cbp]
   agency_types: [customs]
+  products: [{product: flower, kg: 862}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [arizona, southwest-border, fake-police-vehicles]
 sources:

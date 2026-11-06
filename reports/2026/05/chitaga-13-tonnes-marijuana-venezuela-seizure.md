@@ -16,6 +16,7 @@ figures:
   vehicles: 1
   kg_seized: 1300
 details:
+  activity: [trafficking]
   agencies: [co-pnc, us-dea]
   agency_types: [anti-narcotics, police, prosecutor]
   products:
@@ -25,6 +26,7 @@ details:
   date_precision: publication
   region: Norte de Santander
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

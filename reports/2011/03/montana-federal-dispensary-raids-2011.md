@@ -15,11 +15,19 @@ summary: >-
   on the state's medical-marijuana law as lawmakers debated repeal.
 created_by_model: meta/muse-spark
 details:
+  activity: [trafficking]
   agencies: [us-dea, us-fbi]
   agency_types: [anti-narcotics, police]
+  case_stage: sentenced
+  products: [{product: flower}, {product: plants}]
+  setting: [home, prison]
 data_sources:
+  details.activity: [2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [dea, medical-marijuana, search-warrants]
 sources:

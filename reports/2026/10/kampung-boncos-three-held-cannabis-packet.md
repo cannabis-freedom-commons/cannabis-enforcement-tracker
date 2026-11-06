@@ -31,10 +31,14 @@ media:
     publisher: detikNews
     caption: 'Police officers stand behind three detained men during the raid on Kampung Boncos, Palmerah, West Jakarta, on 30 October 2026. Photo: Dok. Istimewa/detikNews'
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [2, 4, 5, 6, 1, 3]
   details.products: [2, 4, 5, 6]
+  details.setting: [2, 4, 5, 6, 1, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: ccce5d0d271fd14f7d731b63ac916d8f

@@ -16,14 +16,18 @@ figures:
   arrested: 10
   kg_seized: 47.6
 details:
+  activity: [trafficking]
   agencies: [pk-anf]
   agency_types: [anti-narcotics]
   products:
     - {product: hashish}
+  setting: [airport]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 49de9aae201e45aa15ae1c97fe1ca43b

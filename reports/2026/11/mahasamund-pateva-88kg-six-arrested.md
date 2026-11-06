@@ -21,10 +21,14 @@ figures:
     amount: 4400000
     currency: INR
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2, 4, 6, 7, 8]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  details.setting: [1, 2, 4, 6, 7, 8]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mahasamund, pateva, ganja, ndps, operation-nishchay]

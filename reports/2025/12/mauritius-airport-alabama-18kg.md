@@ -19,9 +19,13 @@ figures:
   arrested: 3
   kg_seized: 18
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs, anti-narcotics, police]
   setting: [airport]
   route: {from: [us], to: [mu]}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.route: [1]
   details.setting: [1]
 status: verified

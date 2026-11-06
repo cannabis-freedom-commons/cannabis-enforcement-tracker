@@ -14,11 +14,15 @@ summary: >-
 figures:
   kg_seized: 6778.5
 details:
+  activity: [trafficking]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  setting: [port]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [lagos, apapa, canadian-loud, ndlea, rcmp]

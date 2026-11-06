@@ -20,9 +20,11 @@ created_by_model: unknown
 details:
   agencies: [int-europol]
   agency_types: [police]
+  setting: [mail]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [parcels, eurojust, trafficking]
 sources:

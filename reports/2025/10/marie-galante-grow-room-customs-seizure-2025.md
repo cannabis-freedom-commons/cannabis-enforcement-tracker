@@ -31,9 +31,15 @@ media:
     publisher: Guadeloupe La 1ère
     caption: 'The customs seizure from the shop: 20 g of cannabis herb, 2,193 cigarettes and 1 kg of loose tobacco. Photo: Gendarmerie de Guadeloupe'
 details:
+  activity: [smuggling]
+  agency_types: [customs, gendarmerie]
   environment: [indoor]
+  products: [{product: flower, kg: 0.303}, {product: plants, plants: 13}]
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
   details.environment: [3]
+  details.products: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4513e666899683f1663b9680cba99182

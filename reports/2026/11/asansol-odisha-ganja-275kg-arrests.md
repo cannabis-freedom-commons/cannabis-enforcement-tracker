@@ -15,6 +15,7 @@ figures:
   arrested: 2
   kg_seized: 27.5
 details:
+  agency_types: [police]
   products:
     - {product: flower, kg: 27.5}
   activity: [trafficking]
@@ -23,6 +24,7 @@ details:
   region: West Bengal
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 3, 2]
   details.case_stage: [1]
   details.products: [1]
   figures.arrested: [1, 2]

@@ -17,8 +17,12 @@ summary: >-
 figures:
   kg_seized: 149
 details:
+  agency_types: [coast-guard, prosecutor, court]
+  case_stage: investigation
   setting: [port]
 data_sources:
+  details.agency_types: [1, 2, 4, 3, 5]
+  details.case_stage: [1, 2, 4, 3]
   details.setting: [1, 2, 4]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max

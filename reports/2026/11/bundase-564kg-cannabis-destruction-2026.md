@@ -37,9 +37,11 @@ media:
     publisher: Citinewsroom
     caption: The page picture carried by Citi Newsroom with the NACOC destruction story; it has no listed caption or photo credit, so it is not established to show the burning at Bundase.
 details:
+  activity: [trafficking]
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
 data_sources:
+  details.activity: [1, 6, 8, 5, 3, 7]
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
 status: verified

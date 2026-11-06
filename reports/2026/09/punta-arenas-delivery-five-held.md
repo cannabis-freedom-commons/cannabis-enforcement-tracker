@@ -30,11 +30,19 @@ media:
     publisher: El Pingüino
     caption: Video embedded in El Pingüino's report on the case.
 details:
+  activity: [cultivation, sale]
   agencies: [cl-pdi]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.5}, {product: plants}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [magallanes, punta-arenas, pdi, delivery]

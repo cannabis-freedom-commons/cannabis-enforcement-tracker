@@ -26,13 +26,17 @@ details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   activity: [cultivation]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [field, home]
 data_sources:
   details.activity: [3, 4]
   details.agencies: [4]
   details.agency_types: [4]
+  details.case_stage: [4, 2, 1]
   details.products: [2, 3, 4]
+  details.setting: [2, 3, 4, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cordillera, benguet, kalinga, marijuana, eradication]

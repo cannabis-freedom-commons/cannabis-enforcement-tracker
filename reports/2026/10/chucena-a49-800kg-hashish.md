@@ -27,14 +27,18 @@ media:
     publisher: Huelva24
     caption: 'Hashish bales carried in the stopped car on the A-49, with little concealment. Photo: Guardia Civil'
 details:
+  activity: [trafficking]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
+  setting: [border]
 data_sources:
+  details.activity: [2, 4, 5, 6, 1, 3]
   details.agencies: [2, 3, 4, 5, 6]
   details.agency_types: [2, 3, 4, 5, 6]
   details.products: [1, 2, 4, 5, 6]
+  details.setting: [2, 4, 5, 6, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7bfb4c6a7658f578ba10ff8df8b646fc

@@ -21,9 +21,11 @@ created_by_model: spacexai/grok-4.7
 details:
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
 status: verified
 tags: [taltal, antofagasta, carabineros]
 open_questions:

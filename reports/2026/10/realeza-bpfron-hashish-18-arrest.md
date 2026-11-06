@@ -25,14 +25,18 @@ media:
     publisher: Mídia Sudoeste
     caption: 'Photo published with the BPFRON account of the Realeza stop, credited to the battalion. Photo: BPFRON'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   setting: [border]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
 status: verified

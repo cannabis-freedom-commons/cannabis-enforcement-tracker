@@ -27,9 +27,13 @@ media:
 details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 5554}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5318911917db2bf18cb11fa4135f7481

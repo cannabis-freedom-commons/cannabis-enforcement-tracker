@@ -22,11 +22,17 @@ figures:
   value: { amount: 9000000, currency: GBP }
 details:
   activity: [smuggling]
+  agency_types: [customs, police]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [smuggling, resin, customs, haulage]

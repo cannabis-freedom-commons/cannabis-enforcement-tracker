@@ -21,10 +21,14 @@ media:
     publisher: Pune Mirror
     caption: Airport police team posing with seized goods on a table inside the Cloud Cartel shop in Viman Nagar, with the shop sign and seized electric motorcycle visible.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [airport]
 data_sources:
+  details.agency_types: [1, 3, 5, 6, 2, 4]
   details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 3, 5, 6, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3b320ce47a61ad90965b6a6c1572471f

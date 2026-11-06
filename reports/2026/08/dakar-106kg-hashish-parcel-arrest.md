@@ -15,10 +15,14 @@ figures:
   arrested: 1
   kg_seized: 10.6
 details:
+  activity: [trafficking]
+  case_stage: investigation
   setting: [mail]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3]
+  details.case_stage: [1]
   details.products: [2]
   details.setting: [1, 2, 3]
 status: verified

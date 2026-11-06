@@ -17,11 +17,15 @@ figures:
     amount: 4500
     currency: CAD
 details:
+  agency_types: [police, court]
   case_stage: investigation
   date_precision: publication
+  products: [{product: hashish}]
   region: Quebec
 data_sources:
+  details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   figures.arrested: [1]
   figures.cash: [1]
 media:

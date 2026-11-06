@@ -16,10 +16,18 @@ figures:
   charged: 1
   kg_seized: 18
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [anti-narcotics]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [port, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 82ce6309d8250b50619609042bac88dc

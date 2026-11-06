@@ -26,11 +26,17 @@ media:
     caption: An officer sets seized marijuana alight during an eradication operation
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking, cultivation]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 82680}]
+  setting: [field, forest]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
 status: verified
 tags: [amambay, senad, nueva-alianza-36, brazil]
 open_questions:

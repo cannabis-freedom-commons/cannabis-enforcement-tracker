@@ -16,9 +16,13 @@ figures:
   charged: 2
 details:
   activity: [possession]
+  case_stage: investigation
+  products: [{product: flower}]
   setting: [vehicle]
 data_sources:
   details.activity: [1, 2, 3, 4]
+  details.case_stage: [1, 5]
+  details.products: [1, 5, 3, 4, 2]
   details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

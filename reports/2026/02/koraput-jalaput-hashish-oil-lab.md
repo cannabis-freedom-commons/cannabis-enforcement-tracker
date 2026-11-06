@@ -26,8 +26,16 @@ figures:
 created_by_model: Meta Muse Spark (via Muse Code)
 details:
   activity: [processing]
+  agency_types: [police]
+  case_stage: appeal
+  products: [{product: hashish, kg: 1000}, {product: flower}]
+  setting: [forest]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: reported
 tags:
   - koraput

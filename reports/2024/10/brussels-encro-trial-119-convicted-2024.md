@@ -15,11 +15,17 @@ figures:
   charged: 119
   prison: 14 months to 17 years
 details:
+  activity: [cultivation, processing]
   agencies: [be-police]
   agency_types: [police]
+  case_stage: sentenced
+  setting: [field, home, building]
 data_sources:
+  details.activity: [2, 4, 1]
   details.agencies: [3]
   details.agency_types: [3]
+  details.case_stage: [2, 4]
+  details.setting: [2, 4, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9953e803864aded1a51d7ef24527f073

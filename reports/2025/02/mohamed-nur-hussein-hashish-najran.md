@@ -17,9 +17,13 @@ figures:
   deaths: 1
 created_by_model: cursor/composer-2.5
 details:
+  activity: [smuggling, trafficking]
+  case_stage: executed
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2]
 status: verified
 tags: [hashish, foreign-national, najran]

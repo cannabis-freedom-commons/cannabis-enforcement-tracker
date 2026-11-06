@@ -22,11 +22,15 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   activity: [sale]
+  case_stage: sentenced
+  products: [{product: flower, kg: 6.8}, {product: edibles}]
   setting: [shop]
 data_sources:
   details.activity: [2, 3]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [3, 1]
+  details.products: [2, 1, 3]
   details.setting: [2, 3]
 status: verified
 tags: [dea, dispensary, corona]

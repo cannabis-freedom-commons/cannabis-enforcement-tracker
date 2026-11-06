@@ -21,10 +21,16 @@ media:
     publisher: Tarun Mitra
     caption: Police photo of the 22.400 kg ganja seizure and the two arrested accused.
 details:
+  activity: [smuggling, trafficking, sale]
+  agency_types: [police, court]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b2b649c495a4d108f522ea9fe20bc7b0

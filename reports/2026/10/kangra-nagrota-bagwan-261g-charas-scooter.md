@@ -15,10 +15,14 @@ figures:
   charged: 1
   kg_seized: 0.261
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [border]
 data_sources:
+  details.agency_types: [3, 1, 2]
   details.products: [1, 3]
+  details.setting: [3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 443c9e58349f7fb0b8b8c58f6855f97f

@@ -28,9 +28,15 @@ media:
 details:
   agencies: [ar-gna]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 2687.046}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 3, 4]
+  details.products: [1, 3]
+  details.setting: [1, 3, 2, 4]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bec4afa4889411e64431513750dde6f6

@@ -25,9 +25,13 @@ media:
     publisher: Diario1
     caption: 'Police photo captioned as two men captured with several portions of marijuana in Quezaltepeque. Photo: PNC via Diario1'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [3, 2]
+  details.agency_types: [2, 1, 3]
   details.products: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

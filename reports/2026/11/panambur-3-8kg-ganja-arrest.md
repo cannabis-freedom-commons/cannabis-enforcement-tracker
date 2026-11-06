@@ -28,6 +28,7 @@ details:
   case_stage: investigation
   date_precision: exact
   region: Karnataka
+  setting: [home]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -35,6 +36,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]
+  details.setting: [1, 3, 4]
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.value: [1]

@@ -14,9 +14,13 @@ summary: >-
 figures:
   kg_seized: 369.6
 details:
+  agency_types: [gendarmerie, police]
   route: {from: [ma], to: [ne]}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
   figures.kg_seized: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

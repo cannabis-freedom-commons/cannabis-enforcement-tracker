@@ -24,10 +24,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [port]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1, 2]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 6f70c118155662a894a8e2e3188a780c

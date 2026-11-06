@@ -17,11 +17,17 @@ figures:
   kg_seized: 9248.2575
   hectares: 3.69
 details:
+  activity: [trafficking, cultivation]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  setting: [forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [edo, ndlea, cannabis-farms, eradication, nigeria]

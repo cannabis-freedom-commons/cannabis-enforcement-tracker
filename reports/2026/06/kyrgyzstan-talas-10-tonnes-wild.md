@@ -22,9 +22,13 @@ media:
     publisher: 24.kg
     caption: 'Officers watching a pile of wild cannabis burn in Talas. Photo: 24.kg'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.environment: [1]
   details.setting: [1]
 status: verified

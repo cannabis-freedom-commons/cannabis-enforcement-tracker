@@ -24,8 +24,16 @@ figures:
 created_by_model: cursor/composer-2.5
 details:
   activity: [trafficking]
+  agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: flower, kg: 2.921}]
+  setting: [prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 status: verified
 tags: [airport, customs, trafficking]
 open_questions:

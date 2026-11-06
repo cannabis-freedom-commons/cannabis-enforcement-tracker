@@ -22,14 +22,20 @@ media:
     publisher: Notícia no Ato
     caption: Photo accompanying the report of the 12 seized portions in Lages
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 76dc531f3d5416f5a0282ca9973043fe

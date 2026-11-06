@@ -18,8 +18,12 @@ figures:
   kg_seized: 6.18
   value: { amount: 9270000, currency: MUR }
 details:
+  activity: [smuggling]
+  agency_types: [customs, anti-narcotics]
   setting: [airport]
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

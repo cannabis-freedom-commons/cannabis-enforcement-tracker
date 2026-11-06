@@ -26,9 +26,13 @@ media:
     publisher: V6 Velugu
     caption: Photo published with the V6 Velugu report on two cannabis plants grown on an open plot in Kaisar Nagar.
 details:
+  activity: [cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

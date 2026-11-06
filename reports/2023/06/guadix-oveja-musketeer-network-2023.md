@@ -19,11 +19,19 @@ figures:
   kg_seized: 1902
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking, possession]
   agencies: [es-guardia-civil, es-vigilancia-aduanera, int-europol]
   agency_types: [gendarmerie, customs, police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 1902}]
+  setting: [vehicle, home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 open_questions:
   - The reports give the announcement date; the culminating arrests and searches are

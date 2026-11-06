@@ -22,10 +22,16 @@ media:
     publisher: Kun.uz
     caption: 'Cannabis products seized from the suspects'' luggage at Phuket airport. Photo: Amarin TV'
 details:
+  agency_types: [customs, police]
+  case_stage: charged
   products:
     - {product: hashish}
+  setting: [airport, port, prison]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4742c69d4af6287efa0e8b8ab586ef7a

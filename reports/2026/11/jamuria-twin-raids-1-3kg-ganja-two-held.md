@@ -21,10 +21,14 @@ media:
     publisher: Hindusthan Samachar
     caption: Photo of the recovered ganja and brown sugar from the Jamuria raids.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7de44fc2f31287aab46213336691352f

@@ -19,8 +19,16 @@ figures:
   arrested: 1
   kg_seized: 1451.5
 details:
+  activity: [smuggling]
+  agency_types: [coast-guard, military]
+  case_stage: investigation
+  products: [{product: flower, kg: 1451.5}]
   setting: [port]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

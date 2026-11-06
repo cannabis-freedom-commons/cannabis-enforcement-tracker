@@ -25,11 +25,17 @@ media:
     publisher: Комсомольская правда в Молдове (md.kp.media)
     caption: 'Video still showing the drugs packed in 140 sachets for sale in Bălți. Credit: screenshot of a video by Politia RM.'
 details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   setting: [online]
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [2, 3, 1]
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3]
   details.products: [2]
   details.setting: [2]
 status: verified

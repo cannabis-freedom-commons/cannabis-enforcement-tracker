@@ -20,9 +20,13 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
+  case_stage: executed
+  setting: [home, prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2, 3]
+  details.setting: [1, 2]
 status: verified
 tags: [cnb, mandatory-death-penalty, pasir-ris]
 open_questions:

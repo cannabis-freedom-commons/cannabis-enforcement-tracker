@@ -37,10 +37,14 @@ details:
   agencies: [ar-gna]
   agency_types: [gendarmerie]
   environment: [indoor]
+  products: [{product: flower, kg: 10.641}, {product: plants}]
+  setting: [border]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [tierra-del-fuego, rio-grande, gendarmeria, indoor]

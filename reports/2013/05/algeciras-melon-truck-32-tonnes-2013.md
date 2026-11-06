@@ -23,10 +23,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
+  setting: [port, vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [hashish, algeciras, record-seizure, melons]
 sources:

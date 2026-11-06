@@ -37,11 +37,15 @@ media:
     publisher: Graphic Online
     caption: Cannabis plants burn after the gardens were destroyed.
 details:
+  activity: [cultivation]
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
+  setting: [field]
 data_sources:
+  details.activity: [1, 2, 3, 4]
   details.agencies: [2, 4]
   details.agency_types: [2, 4]
+  details.setting: [2, 4, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7cae2b14b7b449d1218b0869155dbf1b

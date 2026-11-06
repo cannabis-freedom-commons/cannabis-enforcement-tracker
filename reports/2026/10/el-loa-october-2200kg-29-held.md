@@ -15,11 +15,17 @@ summary: >-
 figures:
   arrested: 29
 details:
+  activity: [trafficking]
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4162463e44e007d8bd9d7a57ffaf7aaa

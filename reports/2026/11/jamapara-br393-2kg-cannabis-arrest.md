@@ -27,15 +27,21 @@ media:
     publisher: G1
     caption: 'Military Police handout photo published with the report on the bus inspection in Jamapará, Sapucaia. Photo: Divulgação/Polícia Militar'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2, 3]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: c636005e3a63164a38871477f656a849

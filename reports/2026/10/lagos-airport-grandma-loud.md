@@ -22,9 +22,11 @@ created_by_model: unknown
 details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  setting: [mail]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ndlea, airport, loud, couriers]
 sources:

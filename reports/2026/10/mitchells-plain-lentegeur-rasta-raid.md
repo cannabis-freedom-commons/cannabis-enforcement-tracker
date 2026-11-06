@@ -20,12 +20,16 @@ figures:
 details:
   agencies: [za-saps]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: disputed
 created_by_model: meta/muse-spark-1.3#xhigh
 tags: [dagga, lentegeur, anti-gang-unit, ipid]

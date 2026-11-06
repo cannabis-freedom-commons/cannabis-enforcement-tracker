@@ -20,10 +20,16 @@ figures:
   value: { amount: 600000, currency: KES }
 created_by_model: meta/muse-spark
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
   products:
     - {product: edibles}
+  setting: [port, prison]
 data_sources:
+  details.activity: [2, 3]
+  details.agency_types: [2, 3, 1]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [bhang, mtwapa, indian-ocean]
 open_questions:

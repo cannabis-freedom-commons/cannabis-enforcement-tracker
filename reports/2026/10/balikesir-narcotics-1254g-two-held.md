@@ -44,10 +44,14 @@ media:
       Lead photo on the source page for this operations report; its caption repeats the headline and carries
       no credit.
 details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 5, 6, 7]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

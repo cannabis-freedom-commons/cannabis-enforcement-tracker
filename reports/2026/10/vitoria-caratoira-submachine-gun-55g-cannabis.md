@@ -22,11 +22,17 @@ media:
     publisher: Tribuna Online
     caption: 'Police handout photo of the material seized in Caratoíra: the semi-industrial submachine gun, magazines and the drugs laid out after the arrest. Photo: Divulgação/PMES.'
 details:
+  activity: [trafficking, possession]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f91150c81b117168ac71d150d8c61e3a

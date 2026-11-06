@@ -17,9 +17,13 @@ figures:
   value: { amount: 2900000, currency: ZAR }
 created_by_model: unknown
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
 status: verified
 tags: [dagga, mpumalanga]

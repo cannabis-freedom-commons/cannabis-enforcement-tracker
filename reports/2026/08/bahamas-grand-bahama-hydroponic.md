@@ -21,9 +21,17 @@ figures:
   value: { amount: 2060, currency: BSD }
 created_by_model: openai/gpt-6-luna#max
 details:
+  agency_types: [police]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower, kg: 0.5897}]
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [grand-bahama, hydroponic, drug-enforcement-unit]
 open_questions:

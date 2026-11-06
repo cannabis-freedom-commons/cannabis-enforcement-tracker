@@ -20,10 +20,12 @@ figures:
 details:
   agencies: [ca-rcmp]
   agency_types: [police]
+  products: [{product: plants}, {product: edibles}]
   setting: [building]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
   details.setting: [3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

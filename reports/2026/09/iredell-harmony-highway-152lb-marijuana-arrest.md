@@ -20,8 +20,14 @@ figures:
     amount: 225000
     currency: USD
 details:
+  activity: [trafficking]
+  case_stage: charged
+  products: [{product: flower, kg: 69.28}]
   setting: [vehicle]
 data_sources:
+  details.activity: [2, 1, 3]
+  details.case_stage: [2, 1, 3]
+  details.products: [1, 2, 3]
   details.setting: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

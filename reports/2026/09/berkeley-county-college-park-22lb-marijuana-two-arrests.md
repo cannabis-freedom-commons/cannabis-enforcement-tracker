@@ -29,11 +29,17 @@ media:
     caption: 'Seized marijuana, methamphetamine pills, psilocybin mushrooms and THC products laid out after the search. Photo: Berkeley County Sheriff''s Office'
 details:
   activity: [trafficking]
+  agency_types: [police]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a7f72e6ea08e13cd86a09c472ae83081

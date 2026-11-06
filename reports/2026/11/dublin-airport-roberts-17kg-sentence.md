@@ -21,11 +21,15 @@ figures:
     amount: 357200
     currency: EUR
 details:
+  activity: [possession, sale]
   agencies: [ie-garda]
   agency_types: [police]
+  setting: [airport]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c4af4bf6441aff1b65e2f0d6ca3b1cd0

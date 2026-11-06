@@ -18,8 +18,14 @@ figures:
   arrested: 1
   kg_seized: 11.399
 details:
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 11.399}]
   setting: [port]
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 3]
 status: verified
 created_by_model: cursor/grok-4.7-low

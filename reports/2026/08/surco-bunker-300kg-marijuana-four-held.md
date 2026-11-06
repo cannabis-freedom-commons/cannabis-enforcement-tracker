@@ -15,10 +15,18 @@ figures:
   arrested: 4
 details:
   activity: [sale]
+  agency_types: [police]
+  case_stage: investigation
   date_precision: publication
+  products: [{product: flower}]
   region: Lima
+  setting: [vehicle, home]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2]
   figures.arrested: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

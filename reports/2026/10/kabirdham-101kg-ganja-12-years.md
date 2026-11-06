@@ -20,10 +20,18 @@ figures:
     amount: 100000
     currency: INR
 details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [vehicle, home, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 9938a71b7bf60ac3281afa12bac8a9ca

@@ -22,9 +22,11 @@ media:
     publisher: Fiji One News
     caption: Foil-wrapped bundles of dried leaves reported as recovered during the Lomolomo arrest.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
 status: verified
 created_by_model: openai/gpt-6

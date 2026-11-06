@@ -16,9 +16,19 @@ figures:
     kg_seized: 5000
     charged: 6
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 5000}]
   route: {from: [mk], to: [rs]}
+  setting: [vehicle, home, building]
 data_sources:
+  details.activity: [1, 3, 7, 2, 9]
+  details.agency_types: [1, 3, 5, 7, 2]
+  details.case_stage: [3, 4, 7]
+  details.products: [1, 3, 5, 7, 2, 9]
   details.route: [3]
+  details.setting: [3, 5, 6, 4, 7]
 media:
   - kind: photo
     url: https://srpske.rs/uploads/articles/konjuh-drug-squad-officers-letter-macut-15-removed-16x9.webp

@@ -20,8 +20,14 @@ figures:
     currency: XCD
 details:
   activity: [cultivation]
+  agency_types: [police, court]
+  products: [{product: flower, kg: 1.008}, {product: plants, plants: 25}]
+  setting: [field]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 506aba210f3bb3a1e75f25141404a61b

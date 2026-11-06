@@ -15,10 +15,14 @@ figures:
   arrested: 9
   kg_seized: 170
 details:
+  activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: flower}
   route: {from: [in], to: [lk]}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1]
   details.route: [1, 2]
 status: verified

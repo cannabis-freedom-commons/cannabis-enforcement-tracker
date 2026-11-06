@@ -19,9 +19,11 @@ figures:
     amount: 160650
     currency: INR
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

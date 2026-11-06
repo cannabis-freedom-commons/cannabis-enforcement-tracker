@@ -21,8 +21,12 @@ figures:
   hectares: 15
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
 details:
+  agency_types: [prosecutor]
+  case_stage: investigation
   setting: [field]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [sic, malanje, liamba, field]

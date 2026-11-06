@@ -15,8 +15,14 @@ figures:
   charged: 3
   kg_seized: 330
 details:
+  agency_types: [border-guard, police, prosecutor]
+  case_stage: appeal
+  products: [{product: flower, kg: 330}]
   setting: [port]
 data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [3, 4]
+  details.products: [2, 3]
   details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

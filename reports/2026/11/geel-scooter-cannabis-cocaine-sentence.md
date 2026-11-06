@@ -22,10 +22,18 @@ media:
     publisher: HLN
     caption: 'Police control in the Stadspark in Geel. Photo: Politiezone Geel-Laakdal-Meerhout'
 details:
+  activity: [possession]
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7cd4e09dd8b87f58fa2bc29a2299c26e

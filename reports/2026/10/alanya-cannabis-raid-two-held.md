@@ -23,10 +23,18 @@ media:
     publisher: Akdeniz Gerçek
     caption: 'Handcuffed suspects being escorted after the Alanya raids, in the lead photo of the Akdeniz Gerçek report. Photo: İHA'
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 3, 4, 5, 8, 10]
+  details.agency_types: [1, 4, 5, 6, 10, 3]
+  details.case_stage: [1, 4, 5, 6, 10, 3]
   details.products: [1, 3, 4, 5, 7, 9]
+  details.setting: [1, 3, 4, 5, 7, 9]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ea228fab23bcea33ff9525c09b77dbfd

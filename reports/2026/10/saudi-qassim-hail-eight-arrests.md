@@ -22,13 +22,17 @@ media:
     publisher: عاجل
     caption: Several men stand with their backs to the camera in front of a General Directorate of Narcotics Control backdrop in the lead photo of the arrests report.
 details:
+  activity: [smuggling]
   agencies: [sa-gdnc]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 4, 3]
   details.agencies: [1, 3, 4]
   details.agency_types: [1, 3, 4]
+  details.case_stage: [1, 3, 4, 2]
   details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

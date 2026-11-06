@@ -35,11 +35,15 @@ media:
     caption: A masked Guardia Civil officer in an orange vest removes a large blade and ammunition found in one of the registered properties.
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
 details:
+  activity: [trafficking, cultivation, possession]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  products: [{product: plants, plants: 1357}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [guardia-civil, garnata-silo, underground, buried-containers, arsenals]
 open_questions:

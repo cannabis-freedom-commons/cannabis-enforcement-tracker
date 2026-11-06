@@ -35,11 +35,19 @@ media:
     publisher: Toronto Sun
     caption: 'York Regional Police handout photo from the Project North Star searches, captioned with the July to September 2026 warrants and the seizure of more than 700 kg of cannabis, two firearms, two pickup trucks and more than $250,000 cash. Photo: Handout / York Regional Police'
 details:
+  activity: [trafficking, possession]
   agencies: [ca-cbsa, ca-opp]
   agency_types: [customs, police]
+  case_stage: charged
+  products: [{product: hashish, kg: 708.92}, {product: edibles}]
+  setting: [vehicle, mail]
 data_sources:
+  details.activity: [1, 3, 4, 6, 7, 8]
   details.agencies: [2, 6, 8, 9, 10, 11, 12]
   details.agency_types: [2, 6, 8, 9, 10, 11, 12]
+  details.case_stage: [1, 3, 4, 6, 7, 8]
+  details.products: [1, 3, 4, 5, 6, 7]
+  details.setting: [1, 3, 4, 5, 6, 7]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 32296050ded449051043b6c1a93bb85d

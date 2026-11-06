@@ -20,9 +20,13 @@ media:
     publisher: Suryaa News
     caption: 'Chandurthi police staff and men detained in the urine-test checks at the circle office, in the lead photograph. Photo: Suryaa News'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

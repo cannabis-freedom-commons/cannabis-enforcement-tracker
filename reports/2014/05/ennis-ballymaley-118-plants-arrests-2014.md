@@ -18,11 +18,19 @@ figures:
   arrested: 2
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [grow-operation, clare]
 open_questions:

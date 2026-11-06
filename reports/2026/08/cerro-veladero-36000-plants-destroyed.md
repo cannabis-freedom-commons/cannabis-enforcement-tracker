@@ -19,10 +19,14 @@ details:
   agencies: [mx-fgr]
   agency_types: [prosecutor]
   activity: [cultivation]
+  products: [{product: plants, plants: 36000}]
+  setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [cerro-veladero, baja-california, fesc, eradication]

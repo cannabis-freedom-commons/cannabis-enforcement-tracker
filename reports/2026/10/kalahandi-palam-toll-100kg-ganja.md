@@ -24,12 +24,16 @@ media:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 2]
   details.products: [1, 3]
+  details.setting: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: ce3af579a42c77d6c282ce80e1da3df1

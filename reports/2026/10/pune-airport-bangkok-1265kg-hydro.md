@@ -19,9 +19,19 @@ figures:
     amount: 4427000
     currency: INR
 details:
+  activity: [smuggling]
+  agency_types: [customs]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower, kg: 1.265}]
+  setting: [airport]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 40342d0000c07c294de08e7d445e23e8

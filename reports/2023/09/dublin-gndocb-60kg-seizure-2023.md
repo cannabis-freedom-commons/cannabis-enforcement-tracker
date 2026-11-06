@@ -20,11 +20,15 @@ figures:
   kg_seized: 60
   value: { amount: 1200000, currency: EUR }
 details:
+  activity: [trafficking]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: investigation
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [organised-crime, joint-operation]

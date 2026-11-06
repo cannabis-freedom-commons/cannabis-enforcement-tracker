@@ -18,8 +18,16 @@ figures:
     amount: 29412196
     currency: USD
 details:
+  activity: [trafficking]
+  agency_types: [coast-guard, military, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 268}]
   route: {from: [ve], to: [tt]}
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
   details.route: [1]
 media:
   - kind: photo

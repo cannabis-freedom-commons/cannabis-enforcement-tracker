@@ -18,8 +18,10 @@ figures:
   value: { amount: 100000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  products: [{product: flower, kg: 40823}]
   setting: [building]
 data_sources:
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [oak-hills, warehouse, honeyhill-road]

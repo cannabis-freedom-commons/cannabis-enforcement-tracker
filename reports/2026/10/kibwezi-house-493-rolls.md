@@ -19,8 +19,14 @@ figures:
   arrested: 2
 details:
   activity: [trafficking]
+  agency_types: [anti-narcotics]
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kibwezi, makueni, dci, trafficking]

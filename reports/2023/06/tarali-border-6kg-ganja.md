@@ -17,11 +17,13 @@ figures:
     amount: 60000
     currency: INR
 details:
+  activity: [smuggling]
   agencies: [in-bsf]
   agency_types: [border-guard]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

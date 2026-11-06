@@ -18,10 +18,14 @@ figures:
   kg_seized: 30.85
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
+  case_stage: sentenced
   setting: [mail]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

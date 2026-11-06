@@ -15,8 +15,12 @@ summary: >-
 figures:
   kg_seized: 15
 details:
+  activity: [smuggling]
+  agency_types: [customs]
   setting: [airport]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

@@ -18,9 +18,13 @@ media:
     publisher: RCI Martinique
     caption: Photo published with the Terres-Sainville sweep report, captioned with the headline about the revolver, crack and cannabis seized, showing a handgun and bags of drugs on a table.
 details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

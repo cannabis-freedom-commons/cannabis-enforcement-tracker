@@ -17,11 +17,13 @@ figures:
   kg_seized: 4198
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [customs]
   setting: [border]
   products:
     - {product: hashish}
   route: {from: [ma], to: [mr]}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]

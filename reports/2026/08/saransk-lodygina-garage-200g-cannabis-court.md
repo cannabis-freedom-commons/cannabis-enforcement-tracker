@@ -17,9 +17,15 @@ figures:
   plants_destroyed: 10
   kg_seized: 0.2
 details:
+  agency_types: [police]
+  case_stage: investigation
   environment: [wild]
+  products: [{product: flower, kg: 0.2}]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.environment: [2]
+  details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 47f977addbeff8817d6b07b8ef87699b

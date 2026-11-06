@@ -18,11 +18,19 @@ figures:
   plants_destroyed: 860000
   value: { amount: 17480000, currency: PHP }
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 860000}]
+  setting: [field, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [pdea, kalinga, cordillera]

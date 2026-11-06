@@ -20,8 +20,12 @@ media:
     publisher: Sudinfo
     caption: 'Drugs reported as the 10.5 grams of cocaine found in the Saint-Hubert prison search. Photo: phodoc@lesoir.be'
 details:
+  activity: [possession]
+  agency_types: [police, prosecutor]
   setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

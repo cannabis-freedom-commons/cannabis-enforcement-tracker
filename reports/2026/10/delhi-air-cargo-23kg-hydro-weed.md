@@ -20,10 +20,16 @@ figures:
   value: { amount: 81200000, currency: INR }
 created_by_model: unknown
 details:
+  agency_types: [customs]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower, kg: 23.22}]
   route: {from: [th], to: [in]}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
 status: verified
 tags: [hydroponic, bangkok-route, air-cargo]

@@ -16,10 +16,18 @@ figures:
   arrested: 1
   kg_seized: 0.05417
 details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: seeds}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a1c9867cb2849c0b37d22530fc01ada8

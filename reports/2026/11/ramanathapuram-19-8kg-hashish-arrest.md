@@ -39,12 +39,18 @@ media:
     publisher: Vikatan
     caption: Photo identified as the arrested Mano in the Ramanathapuram case.
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
   route: {from: [in], to: [lk]}
+  setting: [home]
 data_sources:
+  details.activity: [4, 7, 5, 6, 9, 8]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
   details.route: [6, 9]
+  details.setting: [4, 6, 7, 8, 9, 10]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bc627a9f33f666618c1c637f9fc175bc

@@ -20,8 +20,10 @@ media:
     publisher: Webdo
     caption: 'Lead image published with the report on the La Goulette seizure, captioned only with the article title, with no credit or caption identifying what it shows. Photo: Webdo'
 details:
+  agency_types: [customs]
   setting: [port]
 data_sources:
+  details.agency_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

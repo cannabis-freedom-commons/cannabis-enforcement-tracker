@@ -21,9 +21,13 @@ figures:
 details:
   agencies: [us-camp]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 4400000}]
+  setting: [forest]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [camp, record-eradication, public-lands]

@@ -19,9 +19,11 @@ figures:
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 135323}]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [washington-state-patrol, outdoor-grows, public-lands]

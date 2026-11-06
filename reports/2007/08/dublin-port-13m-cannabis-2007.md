@@ -17,12 +17,16 @@ figures:
   value: { amount: 13000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [ie-garda, ie-revenue]
   agency_types: [police, customs]
+  products: [{product: flower}]
   route: {from: [za], to: [ie]}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
 status: verified
 tags: [dublin-port, customs, herbal-cannabis]

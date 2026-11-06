@@ -31,8 +31,14 @@ media:
     publisher: Argentina.gob.ar (Gendarmería Nacional Argentina)
     caption: 'Third photo published with the Gendarmería release of the seizure on Ruta Nacional 11 in Chaco. Photo: Gendarmería Nacional Argentina'
 details:
+  agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 250.5}]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 3, 1]
+  details.products: [1, 2, 3]
   details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

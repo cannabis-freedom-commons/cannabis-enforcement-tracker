@@ -18,10 +18,16 @@ figures:
   prison: 13 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [manchester-crown-court, postal-importation, skunk, confiscation]
 open_questions:

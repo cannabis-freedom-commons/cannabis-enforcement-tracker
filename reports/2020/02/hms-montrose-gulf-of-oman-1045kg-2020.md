@@ -19,10 +19,16 @@ figures:
   value: { amount: 538860, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
+  agency_types: [military]
   products:
     - {product: hashish}
+  setting: [port]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [hashish, maritime, ctf-150, dhow]
 sources:

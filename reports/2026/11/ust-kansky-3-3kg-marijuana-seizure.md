@@ -20,9 +20,13 @@ media:
     publisher: Новости Горного Алтая
     caption: 'Photo accompanying the report on the Ust-Kansky District marijuana seizure. Photo: Interior Ministry for the Altai Republic.'
 details:
+  agency_types: [police]
   environment: [wild]
+  products: [{product: flower, kg: 3.3}]
 data_sources:
+  details.agency_types: [1]
   details.environment: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c82ba5e5d1dff56baeb88fa63ca05b80

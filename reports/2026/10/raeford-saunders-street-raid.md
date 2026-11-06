@@ -23,10 +23,18 @@ media:
     publisher: Qué Pasa
     caption: 'Part of what was seized in the raid, including drugs and guns, laid out for display. Photo: Hoke County Sheriff''s Office.'
 details:
+  activity: [trafficking, possession, sale]
+  agency_types: [police]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: a8fe587d41baa225d3f6b3694a76e6b0

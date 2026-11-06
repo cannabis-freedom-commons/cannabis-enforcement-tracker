@@ -25,10 +25,14 @@ media:
     publisher: The Siasat Daily
     caption: Young man standing with arms crossed in front of a table with two wrapped packages, the lead image on the Siasat report.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 3, 4, 2]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 3, 4, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ea91823aaa7f3f2a08d319bb7678cf89

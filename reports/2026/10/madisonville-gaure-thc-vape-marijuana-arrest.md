@@ -27,10 +27,18 @@ media:
     publisher: WBKO
     caption: 44-second video report on the Madisonville arrest and seizure.
 details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  case_stage: charged
   products:
     - {product: oil}
+  setting: [prison]
 data_sources:
+  details.activity: [3, 2, 1]
+  details.agency_types: [2, 3]
+  details.case_stage: [3, 2]
   details.products: [2, 3]
+  details.setting: [3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 194a0b8eb089873223aef398482c50b5

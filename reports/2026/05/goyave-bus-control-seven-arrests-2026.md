@@ -45,8 +45,14 @@ media:
     publisher: France-Antilles Guadeloupe
     caption: 'A transport inspector helping gendarmes check passengers late in the day on 29 May 2026. Photo: Gendarmerie de la Guadeloupe'
 details:
+  activity: [trafficking, possession]
+  agency_types: [customs, gendarmerie, police]
+  case_stage: investigation
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.setting: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

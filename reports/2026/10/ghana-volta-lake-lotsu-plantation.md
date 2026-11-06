@@ -23,9 +23,11 @@ figures:
 created_by_model: unknown
 details:
   activity: [cultivation]
+  agency_types: [police]
   setting: [field]
 data_sources:
   details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
 status: verified
 tags:

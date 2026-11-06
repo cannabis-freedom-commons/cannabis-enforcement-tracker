@@ -32,9 +32,13 @@ media:
     caption: The sentencing hearing at Beijing No. 4 Intermediate People's Court, in a photo published with the court's account.
 details:
   activity: [smuggling]
+  agency_types: [court]
+  case_stage: sentenced
   setting: [mail]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

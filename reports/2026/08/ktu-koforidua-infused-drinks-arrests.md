@@ -31,9 +31,11 @@ media:
     publisher: 'Chale News (photo: MyJoyOnline)'
     caption: Ten suspects in NACOC custody after the KTU operation
 details:
+  activity: [sale]
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
 data_sources:
+  details.activity: [1, 3, 4]
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
 status: verified

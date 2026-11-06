@@ -23,10 +23,12 @@ created_by_model: meta/muse-spark
 details:
   agencies: [us-cbp]
   agency_types: [customs]
+  products: [{product: flower, kg: 14332.61}]
   setting: [border]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [cbp, record-haul, border]

@@ -19,8 +19,12 @@ figures:
   kg_seized: 0.0017
   prison: 4 months
 details:
+  agency_types: [prosecutor, court]
+  products: [{product: flower, kg: 0.0017}]
   setting: [prison]
 data_sources:
+  details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5

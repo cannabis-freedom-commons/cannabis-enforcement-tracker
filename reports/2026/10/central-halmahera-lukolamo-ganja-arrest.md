@@ -32,9 +32,13 @@ media:
     publisher: Website Resmi Polres Ternate
     caption: Night-time scene with officers and a man beside the road, accompanying the account of the Lukolamo arrest.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2, 6, 7, 4, 5]
+  details.case_stage: [1, 4, 7]
   details.products: [1, 2, 4, 5, 7]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

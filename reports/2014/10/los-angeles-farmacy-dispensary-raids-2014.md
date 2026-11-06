@@ -14,11 +14,15 @@ summary: >-
   computers. Staff said the shops followed state law, and no one was arrested.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [sale]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [dispensary, dea]
 open_questions:

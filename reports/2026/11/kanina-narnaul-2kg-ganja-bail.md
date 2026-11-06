@@ -18,9 +18,13 @@ figures:
     amount: 50000
     currency: INR
 details:
+  agency_types: [police, prosecutor, court]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -19,9 +19,17 @@ figures:
   value: { amount: 16500000, currency: KES }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower}]
   route: {from: [tz], to: [ke]}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [dci, tanzania-route, mombasa]
 sources:

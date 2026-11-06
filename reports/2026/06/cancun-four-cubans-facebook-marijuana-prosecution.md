@@ -22,8 +22,14 @@ media:
     caption: 'Detained Cubans in Cancún. Photo: Facebook/Policía de Cancún.'
 details:
   activity: [sale]
+  agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4c4d52e64143ef7678c139f8e9862b1a

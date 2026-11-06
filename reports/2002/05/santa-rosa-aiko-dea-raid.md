@@ -17,11 +17,15 @@ summary: >-
 figures:
   arrested: 2
 details:
+  activity: [trafficking]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [dea, medical-marijuana, sonoma-county]

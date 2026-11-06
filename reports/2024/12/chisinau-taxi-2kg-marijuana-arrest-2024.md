@@ -15,10 +15,16 @@ figures:
   arrested: 2
   kg_seized: 2
 details:
+  activity: [smuggling]
+  agency_types: [police, prosecutor, court]
   products:
     - {product: flower}
+  setting: [forest, prison]
 data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [3, 2, 1]
   details.products: [2]
+  details.setting: [2, 1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d4565918544fe6377d6f3f47391f2269

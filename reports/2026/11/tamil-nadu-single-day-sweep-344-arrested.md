@@ -15,11 +15,15 @@ figures:
   arrested: 344
   kg_seized: 7220
 details:
+  agency_types: [police]
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [border]
 data_sources:
+  details.agency_types: [2, 1, 3]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1c5bf02f6606f8d51bb30ed289f84528

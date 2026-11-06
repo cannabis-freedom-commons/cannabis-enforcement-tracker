@@ -22,10 +22,16 @@ media:
     publisher: CataniaToday
     caption: Photo published with the report on the police arrest of the 16-year-old found with marijuana doses
 details:
+  activity: [possession]
+  agency_types: [police, prosecutor]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1, 6, 7, 8, 9, 3]
+  details.agency_types: [1, 3, 4, 5, 8, 9]
   details.products: [1, 3, 4, 5, 6, 7, 8, 9]
+  details.setting: [1, 3, 6, 7, 8, 9]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 367f54431a8fd63a5ac7c9b5427ec78a

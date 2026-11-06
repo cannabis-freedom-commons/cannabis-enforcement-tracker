@@ -22,9 +22,11 @@ media:
     publisher: Oeste Mais
     caption: 'Police photo of the cannabis, cash, phones and packaging material seized after the vehicle stop in Chapecó. Photo: Polícia Militar'
 details:
+  activity: [trafficking, sale]
   agencies: [br-pm]
   agency_types: [gendarmerie]
 data_sources:
+  details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
 status: verified

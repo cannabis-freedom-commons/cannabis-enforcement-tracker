@@ -17,11 +17,15 @@ figures:
   prison: 6 months
 details:
   activity: [smuggling]
+  agency_types: [customs]
+  case_stage: sentenced
   setting: [airport]
   products:
     - {product: flower}
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

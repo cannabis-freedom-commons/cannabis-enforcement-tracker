@@ -16,6 +16,7 @@ figures:
 details:
   agency_types: [anti-narcotics, police]
   activity: [cultivation, possession]
+  products: [{product: seeds}]
   setting: [home]
   environment: [outdoor]
   charges: [illegal trafficking of drugs in a large amount without intent to sell (part 2 of article 228 of the Criminal Code), illegal cultivation of drug-containing plants (article 10.5.1 of the Administrative Code)]
@@ -28,6 +29,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.environment: [1]
+  details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1]
 media:

@@ -24,11 +24,15 @@ media:
     publisher: Araraquara Agora
     caption: 'Seized drugs carried in sacks to the incineration site. Photo: Polícia Federal/Divulgação'
 details:
+  activity: [trafficking]
   agencies: [br-pf]
   agency_types: [police]
+  products: [{product: flower, kg: 500}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0cdd3230b6de4a232a3adca49784837d

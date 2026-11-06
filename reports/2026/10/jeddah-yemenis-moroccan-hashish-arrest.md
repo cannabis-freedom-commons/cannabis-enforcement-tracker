@@ -23,11 +23,13 @@ media:
 details:
   agencies: [sa-gdnc]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

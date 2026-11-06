@@ -37,10 +37,16 @@ media:
       Screenshot of Primorsky Krai police material on the reported 136 kg marijuana seizure in the shed.
       Photo: screenshot, Police of Primorsky Krai
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7]
+  details.setting: [1, 2, 4, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 87e0e2bcc94497084919d29972b76e26

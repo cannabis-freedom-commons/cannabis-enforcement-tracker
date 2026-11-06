@@ -19,11 +19,19 @@ figures:
   plants_destroyed: 2500
   value: { amount: 2100000, currency: EUR }
 details:
+  activity: [trafficking, cultivation]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 2500}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [operation-nitrogen, grow-houses]

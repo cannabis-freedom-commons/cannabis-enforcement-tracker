@@ -15,6 +15,7 @@ figures:
   arrested: 1
   kg_seized: 38
 details:
+  activity: [trafficking]
   agencies: [Department of Police of Ulytau Region]
   agency_types: [police, anti-narcotics]
   products:
@@ -23,6 +24,7 @@ details:
   date_precision: publication
   region: Ulytau Region
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

@@ -21,9 +21,13 @@ media:
     publisher: Haberton
     caption: 'Photo of the Kağıthane drug operation that led to 2 detentions. Photo: DHA via Haberton'
 details:
+  agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 3, 6, 2, 7]
+  details.case_stage: [1, 3, 6, 2, 7, 4]
   details.products: [1, 3, 4, 5, 6, 7, 8, 9]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

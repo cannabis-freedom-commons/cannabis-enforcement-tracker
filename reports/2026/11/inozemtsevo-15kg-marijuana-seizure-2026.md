@@ -21,9 +21,13 @@ media:
     publisher: АТВмедиа
     caption: 'Police photograph published with the report on the Inozemtsevo home search and seizure. Photo: полиция Ставрополья'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [4, 5]
+  details.agency_types: [1, 5, 4, 7, 2, 3]
   details.products: [1, 2, 3, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

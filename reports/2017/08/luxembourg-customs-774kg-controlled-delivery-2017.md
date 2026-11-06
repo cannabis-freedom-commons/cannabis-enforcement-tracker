@@ -16,10 +16,14 @@ figures:
     amount: 650000
     currency: EUR
 details:
+  agency_types: [customs, prosecutor]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ef9006f245e1fa63a00ebc02913fc19c

@@ -19,10 +19,14 @@ figures:
   arrested: 2
 created_by_model: unknown
 details:
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [ma], to: [fr]}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
 status: verified

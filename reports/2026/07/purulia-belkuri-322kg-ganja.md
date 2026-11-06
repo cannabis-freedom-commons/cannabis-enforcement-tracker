@@ -16,8 +16,14 @@ figures:
   arrested: 7
   kg_seized: 322
 details:
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 322}]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [2, 3, 1, 4]
+  details.case_stage: [2, 3, 1]
+  details.products: [1, 4, 2]
   details.setting: [2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

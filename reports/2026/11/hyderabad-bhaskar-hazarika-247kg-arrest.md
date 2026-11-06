@@ -31,14 +31,20 @@ media:
     publisher: Andhrajyothy
     caption: 'Photo illustrating the arrest of the gang accused of running a ganja supply network in Hyderabad. Photo: Andhrajyothy'
 details:
+  activity: [trafficking]
   agencies: [in-eagle]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 3, 8, 12, 13, 14]
   details.agencies: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [1, 2, 3, 9, 10, 12]
   details.products: [1, 2, 3, 4, 5]
+  details.setting: [4, 5, 6, 7, 15, 12]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: dda61f912ccda722ad063b1a68ee7013

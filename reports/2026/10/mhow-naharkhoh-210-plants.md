@@ -27,9 +27,13 @@ media:
     publisher: Nai Dunia
     caption: 'Badgonda police officers pulling up cannabis plants growing among an arhar crop on the hillside field at Naharkhoh. Photo: Nai Dunia'
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

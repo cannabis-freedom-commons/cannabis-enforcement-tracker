@@ -22,9 +22,11 @@ created_by_model: unknown
 details:
   agencies: [in-bsf]
   agency_types: [border-guard]
+  products: [{product: flower, kg: 327.7}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [bsf, tsr, drums]
 open_questions:

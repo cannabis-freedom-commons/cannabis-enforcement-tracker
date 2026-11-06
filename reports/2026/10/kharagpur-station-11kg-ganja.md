@@ -22,9 +22,13 @@ media:
     publisher: Vocal TV
     caption: Sanjeev Rai seated on the floor beside three wrapped packets of ganja and a backpack, in the photo published with the report of his arrest at Kharagpur station. No credit given.
 details:
+  activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

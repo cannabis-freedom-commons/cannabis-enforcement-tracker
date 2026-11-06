@@ -28,8 +28,14 @@ media:
     publisher: Almaty Police Department
     caption: 'Operational footage shared by Almaty police and embedded with the report. Video: Almaty Police Department (@almaty.police)'
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
   setting: [home]
 data_sources:
+  details.activity: [2, 3, 1, 4]
+  details.agency_types: [1, 5, 4, 2, 3]
+  details.case_stage: [1, 5, 4]
   details.setting: [1, 2, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

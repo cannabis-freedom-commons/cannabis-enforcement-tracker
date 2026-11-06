@@ -19,11 +19,15 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
   details.activity: [1, 3]
+  details.agency_types: [1, 3]
   details.products: [1, 3]
+  details.setting: [1, 2]
 status: reported
 tags:
   - bekaa

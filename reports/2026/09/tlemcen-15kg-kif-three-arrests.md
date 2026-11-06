@@ -18,8 +18,12 @@ figures:
   arrested: 3
   kg_seized: 15
 details:
+  agency_types: [police]
+  products: [{product: hashish, kg: 15}]
   route: {from: [ma], to: [dz]}
 data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
 media:
   - kind: photo

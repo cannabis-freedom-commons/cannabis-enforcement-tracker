@@ -27,10 +27,16 @@ media:
     caption: Bales of seized hashish stacked in a warehouse, with Spanish, French and Moroccan agency emblems
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
   products:
     - {product: hashish}
+  setting: [port, vehicle, home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [hashish, watermelon-truck, dgsn, ofast, almeria]
 open_questions:

@@ -18,10 +18,18 @@ figures:
   kg_seized: 0.1981
   prison: 3 years and 3 months
 details:
+  activity: [possession]
+  agency_types: [military, police]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [mail, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 375a265f4ca3a714d628ac243211c591

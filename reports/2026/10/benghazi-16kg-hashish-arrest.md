@@ -27,9 +27,11 @@ media:
     publisher: بوابة الوسط
     caption: 'The seized hashish with the suspect, in a photograph dated Saturday 31 October 2026. Photo: General Department for Combating Drugs and Psychotropic Substances.'
 details:
+  activity: [trafficking]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

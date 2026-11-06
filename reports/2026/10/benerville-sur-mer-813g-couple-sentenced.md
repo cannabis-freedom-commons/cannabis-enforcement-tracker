@@ -21,10 +21,18 @@ figures:
     amount: 8130
     currency: EUR
 details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 4, 1]
+  details.agency_types: [1, 4, 3, 2]
+  details.case_stage: [2, 3, 1]
   details.products: [1, 2, 3]
+  details.setting: [2, 3, 1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3f78c8264329def3d63deb5894e2c725

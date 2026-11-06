@@ -24,10 +24,16 @@ media:
     publisher: Ommcom News
     caption: 'Police personnel standing behind rows of white sacks of seized ganja in the forest, with an iron chest in front. Photo: Ommcom News'
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: investigation
   setting: [forest]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [3, 1, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1]
 status: verified

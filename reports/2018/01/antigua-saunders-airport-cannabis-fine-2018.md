@@ -20,8 +20,14 @@ figures:
     amount: 300
     currency: XCD
 details:
+  agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.013}]
   setting: [airport]
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [4, 1]
+  details.products: [3, 4]
   details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

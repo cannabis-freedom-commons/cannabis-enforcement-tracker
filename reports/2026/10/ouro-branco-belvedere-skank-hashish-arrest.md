@@ -15,13 +15,17 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 4, 3, 2]
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
+  details.case_stage: [1, 4, 3]
   details.products: [2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -17,10 +17,14 @@ figures:
   prison: 3 to 5.5 years for four men; closed youth care for one minor
 created_by_model: unknown # This runtime did not disclose its exact model identifier or reasoning effort.
 details:
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [norrland, network, hashish]
 open_questions:

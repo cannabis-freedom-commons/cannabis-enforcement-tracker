@@ -20,11 +20,15 @@ figures:
   value: { amount: 1000000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [us-fbi]
   agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 10000000}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: disputed
 tags: [hemp-dispute, kern-county, arvin]
 open_questions:

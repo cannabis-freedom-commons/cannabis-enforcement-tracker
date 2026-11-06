@@ -21,10 +21,12 @@ media:
     publisher: தினமணி (Dinamani)
     caption: 'Photo captioned "கைது செய்யப்பட்ட இளைஞா்கள்" (the arrested youths), showing the two men taken into custody. Photo: Dinamani'
 details:
+  agency_types: [police]
   setting: [school]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

@@ -30,10 +30,16 @@ media:
     publisher: Hoy.com.sv
     caption: 'Second photo from the same arrest operation after K9 Mimi detected the drugs. Photo: PNC / Gustavo Villatoro via Hoy'
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [4, 3, 2, 1, 5]
+  details.agency_types: [4, 2, 1]
   details.products: [2, 4]
+  details.setting: [4, 3, 2, 1, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1920bd53b8fa241a84fb0bf979bedd2e

@@ -17,10 +17,18 @@ figures:
   charged: 1
   prison: life
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3]
   details.products: [1, 3]
+  details.setting: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e83067ea7c636066509d93d45e62a3f

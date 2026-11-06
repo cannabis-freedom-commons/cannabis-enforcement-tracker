@@ -20,9 +20,15 @@ media:
     publisher: Dainik Bhaskar
     caption: 'Police officers sit behind stacks of ganja packets seized from the car at a press conference in Chatra. Photo: Dainik Bhaskar'
 details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [3, 1]
+  details.agency_types: [3, 1, 2]
+  details.case_stage: [3, 1, 2]
   details.products: [3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

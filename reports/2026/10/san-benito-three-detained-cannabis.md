@@ -23,8 +23,12 @@ media:
     caption: 'Police photo of the narcomenudeo raid in San Benito. Photo: Policía de Entre Ríos'
 details:
   activity: [sale]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: f7e4b3f277db3f08cfe412c6cd6496db

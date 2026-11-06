@@ -17,6 +17,7 @@ figures:
   kg_seized: 198.67
   prison: 30, 33 and 36 months
 details:
+  agency_types: [police]
   products:
     - {product: flower, kg: 198.67}
   activity: [smuggling]
@@ -27,6 +28,7 @@ details:
   region: Grand Cayman
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   details.sentence_types: [1]

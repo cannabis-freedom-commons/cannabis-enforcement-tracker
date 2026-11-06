@@ -24,8 +24,12 @@ figures:
     currency: HKD
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking]
+  agency_types: [police, court]
   setting: [mail]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.setting: [1]
 status: verified
 tags: [tsing-yi, courier, high-court]

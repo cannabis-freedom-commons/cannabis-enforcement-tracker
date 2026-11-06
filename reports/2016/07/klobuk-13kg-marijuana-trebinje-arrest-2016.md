@@ -15,8 +15,14 @@ figures:
   arrested: 1
   kg_seized: 13
 details:
+  activity: [smuggling]
+  agency_types: [border-guard, police, prosecutor, court]
+  products: [{product: flower, kg: 13}]
   setting: [border]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

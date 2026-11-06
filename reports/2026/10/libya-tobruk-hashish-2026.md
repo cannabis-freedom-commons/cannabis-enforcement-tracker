@@ -12,10 +12,14 @@ summary: >-
   Egyptian border for sale in Libya. The detainees were Libyan and Egyptian nationals.
 created_by_model: unknown
 details:
+  activity: [smuggling, sale]
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: reported
 cfi_id: libya-tobruk-hashish-2026
 sources:

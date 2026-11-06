@@ -18,10 +18,14 @@ summary: >-
 figures:
   kg_seized: 85
 details:
+  agency_types: [anti-narcotics, prosecutor]
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7
 tags: [libya, hashish, murqub]

@@ -22,9 +22,13 @@ figures:
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  products: [{product: plants, plants: 1500000}]
+  setting: [forest]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [bnn, aceh, rencong, outdoor-cultivation]

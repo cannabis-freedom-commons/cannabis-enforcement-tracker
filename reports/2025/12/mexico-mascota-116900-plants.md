@@ -21,9 +21,13 @@ figures:
 details:
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 470}, {product: plants, plants: 116900}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [mexico, jalisco, mascota, eradication]

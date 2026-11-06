@@ -18,11 +18,17 @@ figures:
   kg_seized: 7000.129
   arrested: 1
 details:
+  activity: [trafficking]
   agencies: [br-pf]
   agency_types: [police]
+  products: [{product: flower, kg: 7000.129}]
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [guaira, parana, policia-federal, paraguay-border, tanker]

@@ -22,14 +22,18 @@ media:
     publisher: Live Hindustan
     caption: The arrested man standing between two police officers, with a pink bag and a black backpack in front of them, captioned "the ₹25,000-reward ganja smuggler arrested in Ahraura".
 details:
+  activity: [smuggling, trafficking]
   agencies: [in-excise]
   agency_types: [regulator]
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 3, 4, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 3, 4]
+  details.setting: [1, 3, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 0d83e64d834f4a4368f7c06401ed1acb

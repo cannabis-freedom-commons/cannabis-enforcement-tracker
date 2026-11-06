@@ -17,8 +17,12 @@ figures:
   prison: life imprisonment
 details:
   activity: [trafficking]
+  case_stage: sentenced
+  setting: [vehicle, building, prison]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [death-penalty-avoided, trafficking, melaka]

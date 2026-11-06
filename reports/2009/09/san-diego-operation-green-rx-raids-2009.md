@@ -17,11 +17,19 @@ summary: >-
 figures:
   arrested: 33
 details:
+  activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: acquitted
+  products: [{product: flower}]
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [2, 3]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 3]
+  details.products: [2, 3, 1]
+  details.setting: [2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dispensaries, medical-marijuana, operation-green-rx]

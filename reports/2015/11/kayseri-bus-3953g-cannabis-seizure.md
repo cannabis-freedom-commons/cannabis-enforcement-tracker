@@ -16,8 +16,12 @@ figures:
   arrested: 1
   kg_seized: 3.953
 details:
+  activity: [smuggling]
+  agency_types: [police]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max

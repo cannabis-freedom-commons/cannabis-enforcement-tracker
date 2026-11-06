@@ -18,11 +18,17 @@ figures:
   plants_destroyed: 900
   arrested: 2
 details:
+  activity: [trafficking]
   agencies: [ca-rcmp]
   agency_types: [police]
+  case_stage: charged
+  products: [{product: flower}, {product: plants, plants: 900}]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [compassion-society, medical-cannabis, rcmp]

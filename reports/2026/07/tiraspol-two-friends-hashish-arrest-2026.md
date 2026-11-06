@@ -14,10 +14,14 @@ summary: >-
 figures:
   arrested: 2
 details:
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c69cfc45fbcfc10c5146e659cc793fd6

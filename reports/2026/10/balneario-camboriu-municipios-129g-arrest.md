@@ -22,14 +22,18 @@ media:
     publisher: Camboriú News
     caption: 'Drugs, cash, a mobile phone, a precision scale and packaging from the operations displayed in front of a 12th Military Police Battalion sign. Photo: 12º BPM / Military Police of Santa Catarina.'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

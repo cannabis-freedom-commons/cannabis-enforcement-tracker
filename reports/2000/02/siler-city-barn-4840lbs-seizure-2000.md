@@ -20,9 +20,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [us-fbi]
   agency_types: [police]
+  products: [{product: flower, kg: 2195.4}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [siler-city, evidence-theft, fbi]
 open_questions:

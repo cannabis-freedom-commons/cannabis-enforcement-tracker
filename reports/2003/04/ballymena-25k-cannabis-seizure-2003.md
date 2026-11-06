@@ -19,10 +19,14 @@ figures:
   kg_seized: 0.5
   value: { amount: 25000, currency: GBP }
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ballymena, cultivation, resin]

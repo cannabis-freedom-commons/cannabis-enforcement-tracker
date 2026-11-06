@@ -20,9 +20,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [ca-rcmp]
   agency_types: [police]
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [calgary, samit, grow-op]
 sources:

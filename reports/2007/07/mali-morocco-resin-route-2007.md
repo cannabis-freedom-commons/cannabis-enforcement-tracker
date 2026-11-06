@@ -13,8 +13,12 @@ summary: >-
   trans-Saharan trafficking map linking Moroccan resin to markets further east.
 created_by_model: unknown
 details:
+  activity: [smuggling, trafficking]
+  products: [{product: hashish}]
   route: {from: [ma], to: [ml], crossing: 'Mauritania–Mali–Niger–Chad corridor'}
 data_sources:
+  details.activity: [1]
+  details.products: [1]
   details.route: [1]
 status: verified
 cfi_id: mali-morocco-resin-route-2007

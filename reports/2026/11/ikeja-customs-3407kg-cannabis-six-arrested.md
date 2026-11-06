@@ -26,11 +26,15 @@ media:
     publisher: Leadership
     caption: Photo of the seized goods displayed at the Customs FOU Zone A briefing in Ikeja.
 details:
+  activity: [smuggling]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  setting: [mail]
 data_sources:
+  details.activity: [2, 1, 5, 3, 4]
   details.agencies: [1, 3, 4, 5]
   details.agency_types: [1, 3, 4, 5]
+  details.setting: [1, 3, 4, 5, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1d6f9a957607fcc31245dea9b87d7126

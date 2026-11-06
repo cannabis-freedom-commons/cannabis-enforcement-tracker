@@ -14,8 +14,14 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [possession]
+  agency_types: [police]
+  products: [{product: flower}]
   setting: [vehicle]
 data_sources:
+  details.activity: [2]
+  details.agency_types: [1, 3, 2]
+  details.products: [2]
   details.setting: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

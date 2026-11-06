@@ -29,11 +29,17 @@ media:
     publisher: Comando Conjunto de las Fuerzas Armadas
     caption: Photograph of the intercepted boat and 884 kg load published in the PUMA operation account.
 details:
+  activity: [trafficking]
   agencies: [pe-dirandro]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 884}]
+  setting: [forest]
 data_sources:
+  details.activity: [3, 2, 4]
   details.agencies: [3]
   details.agency_types: [3]
+  details.products: [1, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 79265f629e476ff2a22c0e059ba28b2f

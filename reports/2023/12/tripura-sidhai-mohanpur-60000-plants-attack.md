@@ -21,9 +21,13 @@ media:
     publisher: Hindustan Times
     caption: 'The scene of the attack in Panchabati, Sidhai Mohanpur, West Tripura. Photo: West Tripura police (X/wd_police), via Hindustan Times.'
 details:
+  agency_types: [police]
+  case_stage: appeal
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 1]
   details.products: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

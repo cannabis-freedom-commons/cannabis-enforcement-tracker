@@ -21,9 +21,15 @@ media:
     publisher: UzDaily.uz
     caption: 'Drugs seized in the Tashkent and Samarkand operations laid out for inspection. Photo: Customs Committee press service via UzDaily.uz'
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -16,10 +16,16 @@ figures:
   charged: 1
   deaths: 1
 details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.agency_types: [1, 2, 4]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 4]
+  details.setting: [1, 4, 3, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [riverside, california, murder, robbery, marijuana]

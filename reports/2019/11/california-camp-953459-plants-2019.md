@@ -18,11 +18,17 @@ figures:
   arrested: 148
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking, cultivation]
   agencies: [us-dea, us-camp]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 953459}]
+  setting: [forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [camp, becerra, public-lands]
 sources:

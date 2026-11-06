@@ -14,11 +14,17 @@ summary: >-
   in September 2005. The joint team itself destroyed 60 bighas a day on 19 and 20 September
   after walking more than 20 km into remote forest areas.
 details:
+  activity: [cultivation]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
+  products: [{product: hashish}]
+  setting: [forest]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ncb, mandi, eradication-drive]

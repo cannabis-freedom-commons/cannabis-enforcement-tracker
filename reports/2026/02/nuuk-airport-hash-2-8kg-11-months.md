@@ -21,10 +21,12 @@ figures:
   kg_seized: 2.8
   prison: 11 months
 details:
+  agency_types: [customs, police]
   setting: [airport]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

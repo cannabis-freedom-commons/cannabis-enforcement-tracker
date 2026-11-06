@@ -24,8 +24,14 @@ figures:
 created_by_model: xai/grok-4.7
 details:
   activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [field]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [sri-lanka, hambegamuwa, eradication]
 sources:

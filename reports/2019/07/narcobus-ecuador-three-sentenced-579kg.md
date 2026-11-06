@@ -36,11 +36,19 @@ media:
     publisher: El Tiempo
     caption: 'Marijuana, bazuco and cocaine laid out after the raids on the Ibagué homes of the accused. Photo: Fiscalía General de la Nación'
 details:
+  activity: [trafficking]
   agencies: [int-interpol]
   agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower, kg: 579.119}]
+  setting: [prison]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 2b979055bf8f0dda25c981f328ba1b86

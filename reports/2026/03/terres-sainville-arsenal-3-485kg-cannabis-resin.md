@@ -28,10 +28,18 @@ media:
     publisher: ZayActu
     caption: 'Police photo of the weapons and equipment seized in the house, including the handgun stock, silencer, ammunition and ballistic vest. Photo: Police nationale de la Martinique'
 details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [3, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
   details.products: [3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 25dc1da7f7b56fb271a2971ed3ad53ba

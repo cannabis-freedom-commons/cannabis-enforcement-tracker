@@ -25,11 +25,15 @@ media:
     publisher: Royal Canadian Mounted Police
     caption: Cannabis packed in vacuum-sealed bags that was found in a suitcase at Vancouver International Airport, in an RCMP handout photo.
 details:
+  activity: [possession]
   agencies: [ca-rcmp, ca-cbsa]
   agency_types: [police, customs]
+  setting: [airport, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [richmond, british-columbia, vancouver-airport, smuggling, exportation]

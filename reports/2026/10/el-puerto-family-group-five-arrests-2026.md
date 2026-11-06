@@ -31,10 +31,18 @@ media:
     publisher: El MIRA
     caption: Seized cocaine, hashish, ecstasy and cash after the three searches in El Puerto de Santa María
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [field]
 data_sources:
+  details.activity: [2, 4, 1, 3]
+  details.agency_types: [2, 4, 1, 3]
+  details.case_stage: [2, 4]
   details.products: [2, 4]
+  details.setting: [2, 4, 1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c992b0a7594dcb89c05011edb878790c

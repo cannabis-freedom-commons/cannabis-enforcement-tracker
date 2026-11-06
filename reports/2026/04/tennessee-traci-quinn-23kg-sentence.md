@@ -18,8 +18,12 @@ figures:
   prison: 3 years
 details:
   activity: [trafficking]
+  case_stage: investigation
+  setting: [prison]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 835c9858fba93c80daaadfc95afbdf26

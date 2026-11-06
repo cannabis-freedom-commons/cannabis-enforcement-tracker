@@ -23,10 +23,16 @@ figures:
     amount: 12500000
     currency: INR
 details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [1, 4, 2, 3]
   details.products: [1, 3, 4]
+  details.setting: [1, 4, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 78441696f6bd740700a8de896d8c38a1

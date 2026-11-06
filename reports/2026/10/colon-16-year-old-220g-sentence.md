@@ -19,10 +19,18 @@ figures:
     amount: 778.36
     currency: USD
 details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2043aaa28d71e93cbf39e4685e1e8334

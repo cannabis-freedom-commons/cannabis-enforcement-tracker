@@ -25,12 +25,18 @@ media:
     caption: SENAD's Regional No. 4 flag from Salto del Guairá at the wooded stash, beside bales of the seized marijuana.
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
 details:
+  activity: [sale]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 1753}]
   route: {from: [py], to: [br]}
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 3, 1]
+  details.products: [1, 2, 3]
   details.route: [2, 3, 1]
 status: verified
 tags: [senad, canindeyu, stash-site, brazil-route]

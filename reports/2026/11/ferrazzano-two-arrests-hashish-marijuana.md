@@ -21,10 +21,18 @@ media:
     publisher: isNews - Molise
     caption: Photo captioned "arresti squadra mobile", filed with the report on the Ferrazzano arrests; the page gives no photographer or agency credit.
 details:
+  activity: [sale]
+  agency_types: [police, prosecutor]
+  case_stage: charged
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [1, 3, 2]
   details.products: [2]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 646a0bf78556993e1e6fa323757404cf

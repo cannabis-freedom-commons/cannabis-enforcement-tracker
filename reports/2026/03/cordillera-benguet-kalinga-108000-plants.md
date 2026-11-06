@@ -19,11 +19,15 @@ figures:
   value: { amount: 28500000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [ph-pnp]
   agency_types: [police]
+  products: [{product: flower, kg: 57}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [cordillera, benguet, kalinga, pnp, marijuana-eradication]
 sources:

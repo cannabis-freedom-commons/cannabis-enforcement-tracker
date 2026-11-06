@@ -13,6 +13,7 @@ summary: >-
 figures:
   kg_seized: 308.4
 details:
+  activity: [trafficking]
   agencies: [ar-gna]
   agency_types: [gendarmerie]
   products:
@@ -22,6 +23,7 @@ details:
   date_precision: approximate
   region: Misiones
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1]

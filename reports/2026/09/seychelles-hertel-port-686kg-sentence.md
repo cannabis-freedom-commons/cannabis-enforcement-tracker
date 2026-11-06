@@ -18,8 +18,12 @@ summary: >-
 figures:
   kg_seized: 68.648
 details:
+  agency_types: [police]
+  case_stage: sentenced
   setting: [port]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5

@@ -22,10 +22,18 @@ figures:
   value: { amount: 60000000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [airport, vehicle, home]
 data_sources:
+  details.activity: [3]
+  details.agency_types: [1, 2]
+  details.case_stage: [3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [wanborough, flower-lorries, bristol-crown-court, skunk]
 open_questions:

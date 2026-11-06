@@ -22,11 +22,19 @@ media:
     publisher: Europa Press
     caption: 'Photo accompanying the report on the Calasparra seizure. Photo: Guardia Civil via Europa Press'
 details:
+  activity: [trafficking]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.17}]
+  setting: [border, vehicle]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6ce7c25f7fe36a43ad23694a56945b27

@@ -27,13 +27,19 @@ media:
     publisher: Europa Press
     caption: 'A Mossos d''Esquadra officer in the marijuana plantation dismantled in Tortosa. Photo: Mossos via Europa Press'
 details:
+  activity: [trafficking, cultivation]
   agencies: [es-mossos]
   agency_types: [police]
   environment: [indoor]
+  products: [{product: flower}, {product: plants, plants: 327}]
+  setting: [field, home]
 data_sources:
+  details.activity: [1, 3, 5, 2, 4]
   details.agencies: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
   details.environment: [1, 3, 5]
+  details.products: [1, 3, 5, 2, 4]
+  details.setting: [1, 3, 5, 2, 4]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c0ca7dd3729b6a9cb0b587b6e9c6fe02

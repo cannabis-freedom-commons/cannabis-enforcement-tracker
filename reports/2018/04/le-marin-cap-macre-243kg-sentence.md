@@ -28,10 +28,18 @@ media:
     publisher: Gendinfo, Gendarmerie nationale
     caption: 'Gendarme photograph of bales from the Cap Macré landing; a third image on the page uses the same Comgend - Martinique credit but no separate address could be recovered. Photo: Comgend - Martinique'
 details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, police, court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
   details.products: [1, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bd8c9d9835f96174d5171a1ed4af919d

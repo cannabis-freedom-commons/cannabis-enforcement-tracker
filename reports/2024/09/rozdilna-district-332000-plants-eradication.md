@@ -18,8 +18,14 @@ figures:
   hectares: 7
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 332000}]
   setting: [border]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 tags: [rozdilna, border, forest-fund]

@@ -21,9 +21,15 @@ figures:
   value: { amount: 22300000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking, possession]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower}, {product: plants, plants: 11000}]
 data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [fish-farm-cover, pierce-county, indoor-grow]
 open_questions:

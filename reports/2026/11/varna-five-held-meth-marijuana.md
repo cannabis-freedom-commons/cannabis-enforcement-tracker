@@ -15,6 +15,7 @@ figures:
   arrested: 5
 details:
   agencies: [Bulgarian municipal police, Varna regional police directorate]
+  agency_types: [police, prosecutor]
   products:
     - {product: flower}
   activity: [possession]
@@ -23,6 +24,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agencies: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   figures.arrested: [1]

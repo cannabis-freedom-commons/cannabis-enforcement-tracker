@@ -25,6 +25,7 @@ details:
   date_precision: exact
   region: Paris
   route: {from: [ma], to: [fr]}
+  setting: [prison]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -33,6 +34,7 @@ data_sources:
   details.products: [1]
   details.route: [1]
   details.sentence_types: [1]
+  details.setting: [1]
   figures.convicted: [1]
   figures.prison: [1]
 media:

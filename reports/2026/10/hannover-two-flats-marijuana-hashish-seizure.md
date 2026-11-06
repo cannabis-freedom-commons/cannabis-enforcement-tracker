@@ -29,11 +29,13 @@ media:
     publisher: nord24
     caption: 'Cash seized in the 25-year-old suspect''s flat. Photo: Zoll'
 details:
+  agency_types: [customs, prosecutor]
   setting: [mail]
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2, 3]
   details.setting: [1, 2]
 status: reported

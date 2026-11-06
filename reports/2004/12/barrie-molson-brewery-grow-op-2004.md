@@ -22,11 +22,19 @@ figures:
   charged: 7
   value: { amount: 30000000, currency: CAD }
 details:
+  activity: [smuggling, trafficking, cultivation, possession]
   agencies: [ca-opp]
   agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower}]
+  setting: [vehicle, home, building]
 data_sources:
+  details.activity: [1, 2, 4, 3]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 2, 4]
+  details.products: [1, 3, 2, 4]
+  details.setting: [1, 2, 4]
 status: verified
 created_by_model: meta/muse-spark
 tags: [molson, barrie, opp, grow-op, organised-crime]

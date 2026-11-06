@@ -33,9 +33,17 @@ media:
     publisher: tovima.com
     caption: Police photo of the hydroponic cannabis setup and plants found at the second home.
 details:
+  activity: [trafficking, cultivation, possession]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower, kg: 0.2949}, {product: plants, plants: 26}]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.environment: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 21d0a487a261574b0dd2149305b7ba2a

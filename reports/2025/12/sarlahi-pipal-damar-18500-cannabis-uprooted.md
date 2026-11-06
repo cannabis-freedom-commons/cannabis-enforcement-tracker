@@ -21,11 +21,17 @@ media:
     publisher: The Himalayan Times
     caption: 'Photo published with The Himalayan Times report on the destruction of the cannabis crop at Pipal Damar in Sarlahi. Photo: Prabhat Kumar Jha'
 details:
+  activity: [cultivation]
   agencies: [np-police]
   agency_types: [police]
+  products: [{product: plants, plants: 18500}]
+  setting: [field]
 data_sources:
+  details.activity: [2, 3, 4, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ea17b10304c420920a3a2f45af806356

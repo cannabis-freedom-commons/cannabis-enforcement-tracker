@@ -24,10 +24,16 @@ media:
     publisher: Gabonreview.com
     caption: 'Bundles of cannabis resin, captioned as an illustration of the drug rather than a photograph of this load. Photo: D.R.'
 details:
+  activity: [trafficking]
+  agency_types: [prosecutor]
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3e4f687f0f2f64f6a4070cb315dba56e

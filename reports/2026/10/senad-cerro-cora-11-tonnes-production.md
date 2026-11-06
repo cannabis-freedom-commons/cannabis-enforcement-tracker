@@ -18,11 +18,17 @@ figures:
   hectares: 3
   kg_seized: 11000
 details:
+  activity: [cultivation]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 11000}]
+  setting: [forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [senad, amambay, cerro-cora, colonia-cumbre]

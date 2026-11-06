@@ -25,10 +25,16 @@ media:
     publisher: Jagran
     caption: Seized ganja reported as worth about Rs 14.20 lakh.
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fc5e69e65f4890a907f007c7d0410a51

@@ -15,11 +15,19 @@ summary: >-
 figures:
   kg_seized: 0.281
 details:
+  activity: [trafficking, possession]
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.281}]
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mandatory-death-penalty, trafficking-threshold]

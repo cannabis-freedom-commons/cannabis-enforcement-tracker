@@ -39,10 +39,18 @@ media:
     publisher: Navabharat News
     caption: 'Lead photograph on Navabharat''s report, captioned only with the headline about the 2.38 crore rupee ganja seizure and seven arrests in Bastar; the page gives no credit. Photo: Navabharat News'
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 3, 20, 6, 4, 5]
+  details.agency_types: [2, 4, 5, 6, 7, 8]
+  details.case_stage: [10, 19, 18]
   details.products: [1, 2, 4, 5, 6, 7, 8, 9, 10]
+  details.setting: [2, 7, 8, 13, 15, 16]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3f66851f7e738323ec84f92c33a65093

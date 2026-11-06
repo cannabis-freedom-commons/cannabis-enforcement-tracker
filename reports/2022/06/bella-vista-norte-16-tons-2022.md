@@ -17,11 +17,17 @@ figures:
   kg_seized: 16000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 16000}]
+  setting: [field, home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [senad, amambay]
 sources:

@@ -15,14 +15,18 @@ figures:
   arrested: 2
   kg_seized: 8.593
 details:
+  activity: [trafficking]
   agencies: [de-zoll]
   agency_types: [customs]
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: ed1d81f2208dc1f0e76447effbf9a14a

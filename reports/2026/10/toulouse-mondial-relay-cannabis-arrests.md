@@ -28,8 +28,16 @@ media:
     caption: 'Weapons and ammunition seized in the case, in a photo credited to the Toulouse prosecutor''s office. Photo: Parquet de Toulouse'
 details:
   activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: hashish, kg: 34}, {product: flower}]
+  setting: [home, mail]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f4f186bf4f34a24419a955b7aa9b601b

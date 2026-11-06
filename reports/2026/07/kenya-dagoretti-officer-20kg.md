@@ -26,9 +26,11 @@ media:
 details:
   agencies: [ke-nps]
   agency_types: [police]
+  setting: [home]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [officer, corruption, nps]

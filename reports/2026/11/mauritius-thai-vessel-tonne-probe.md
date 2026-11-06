@@ -20,13 +20,19 @@ figures:
         currency: MUR
 created_by_model: unknown
 details:
+  activity: [smuggling, trafficking]
   agencies: [int-interpol]
   agency_types: [police]
+  case_stage: charged
+  products: [{product: hashish, kg: 1500}]
   setting: [port]
   route: {from: [th], to: [mu]}
 data_sources:
+  details.activity: [1, 10, 11, 2, 4, 5]
   details.agencies: [9]
   details.agency_types: [9]
+  details.case_stage: [4, 3, 2, 5]
+  details.products: [1, 2, 5, 6, 7, 9]
   details.route: [1, 7, 9]
   details.setting: [1, 2, 3, 7, 10, 11, 12]
 status: reported

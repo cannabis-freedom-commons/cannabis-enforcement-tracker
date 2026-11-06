@@ -17,14 +17,18 @@ figures:
   value: { amount: 10000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [ie-garda]
   agency_types: [police]
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [cannabis-resin, carbury-seizure, drug-trafficking-act]
 open_questions:

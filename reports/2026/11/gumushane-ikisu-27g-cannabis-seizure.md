@@ -13,9 +13,11 @@ summary: >-
 figures:
   kg_seized: 0.027
 details:
+  agency_types: [gendarmerie, prosecutor]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

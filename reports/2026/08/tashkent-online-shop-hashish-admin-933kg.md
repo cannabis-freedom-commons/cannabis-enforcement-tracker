@@ -15,10 +15,14 @@ figures:
   arrested: 1
   kg_seized: 9.33
 details:
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.case_stage: [2, 1]
   details.products: [2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dae51c746d3d32739fd3abccfb855530

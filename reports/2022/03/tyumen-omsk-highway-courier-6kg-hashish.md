@@ -21,9 +21,11 @@ media:
     publisher: МВД МЕДИА
     caption: 'Police operational footage of the pressed hashish blocks and wrapped packets taken from the courier''s suitcase. Photo: Press service of the Tyumen Oblast Interior Ministry'
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

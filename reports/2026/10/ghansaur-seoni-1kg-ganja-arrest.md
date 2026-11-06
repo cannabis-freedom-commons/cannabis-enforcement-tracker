@@ -26,10 +26,14 @@ media:
     publisher: Dainik Yashonnati
     caption: Photo published with the Ghansaur arrest report, captioned as the man held with 1.2 kg of ganja he sold in small packets.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: a2e254cdbaa76098879ba2c77832d359

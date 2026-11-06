@@ -19,10 +19,14 @@ figures:
   arrested: 1
   kg_seized: 3.056
 details:
+  agency_types: [customs, police]
+  case_stage: investigation
   setting: [mail]
   products:
     - {product: oil}
 data_sources:
+  details.agency_types: [1, 2, 4, 5]
+  details.case_stage: [1, 2, 5, 3, 6]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

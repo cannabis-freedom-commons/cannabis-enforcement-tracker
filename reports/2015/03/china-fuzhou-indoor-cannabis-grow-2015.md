@@ -26,9 +26,17 @@ media:
     publisher: 福州晚报
     caption: 'Cannabis plants, some already flowering, inside one of the three rented flats. Photo: Fuzhou Evening News'
 details:
+  activity: [smuggling, cultivation]
+  agency_types: [customs, prosecutor]
+  case_stage: investigation
   environment: [indoor]
+  setting: [mail]
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.environment: [1]
+  details.setting: [1, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [fuzhou, indoor-grow, mail-smuggling, customs, fujian]

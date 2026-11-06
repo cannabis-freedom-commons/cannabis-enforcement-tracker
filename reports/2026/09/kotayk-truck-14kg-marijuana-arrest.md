@@ -22,11 +22,17 @@ media:
     caption: Photo published with the Report.az report on the 14.2 kg marijuana seizure in Armenia.
 details:
   activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle, building]
 data_sources:
   details.activity: [2, 3, 5]
+  details.agency_types: [1, 4, 2, 3, 5]
+  details.case_stage: [1, 4, 2, 3, 5]
   details.products: [1, 2, 3, 4, 5]
+  details.setting: [1, 4, 2, 3, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 69873f571b2dd4732584dc89c11c8b08

@@ -16,11 +16,15 @@ figures:
   arrested: 1
   kg_seized: 0.872
 details:
+  activity: [trafficking]
   agencies: [in-excise]
   agency_types: [regulator]
+  products: [{product: flower, kg: 0.872}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3daa7e17f9f7a19e7880233c40ea2dae

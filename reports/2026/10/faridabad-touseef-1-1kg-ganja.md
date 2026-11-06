@@ -22,9 +22,13 @@ media:
     publisher: Alive News
     caption: The arrested suspect, Touseef, with the ganja and other items recovered from him.
 details:
+  activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
   details.products: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

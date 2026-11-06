@@ -20,8 +20,10 @@ figures:
   prison: 10 years
 created_by_model: cursor/composer-2.5
 details:
+  agency_types: [customs, police]
   setting: [airport]
 data_sources:
+  details.agency_types: [1, 2]
   details.setting: [2]
 status: verified
 tags: [paphos, ykan, airport]

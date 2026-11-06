@@ -22,9 +22,15 @@ media:
     publisher: Hürriyet
     caption: 'Evidence bags of skunk and a packet labelled ''KOKAİN'' laid out beneath the sign of the İzmir police narcotics branch, in the photo published with the report. Photo: DHA'
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 3, 4, 5, 7, 9]
+  details.agency_types: [1, 3, 4, 5, 6, 7]
+  details.case_stage: [1, 3, 4, 5, 6, 7]
   details.products: [1, 3, 4, 5, 7, 8, 9, 10, 11, 12]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

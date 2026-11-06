@@ -26,10 +26,12 @@ media:
     publisher: Almaty.tv
     caption: Embedded operational video of the Caspian Sea drug-channel interception.
 details:
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.case_stage: [2, 3, 4, 5, 8, 9]
   details.products: [2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

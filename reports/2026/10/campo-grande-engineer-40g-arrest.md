@@ -20,10 +20,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: aac368e782595b652e264fc5cb7b96d3

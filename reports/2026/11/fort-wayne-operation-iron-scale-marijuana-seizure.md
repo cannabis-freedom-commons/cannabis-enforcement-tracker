@@ -15,16 +15,20 @@ figures:
   arrested: 12
   kg_seized: 1
 details:
+  activity: [trafficking, possession]
   agencies: [us-dea, us-fbi, Indiana State Police, Fort Wayne Police Department, Allen County Sheriff's Department]
   agency_types: [police, anti-narcotics]
+  case_stage: charged
   products:
     - {product: flower, kg: 1}
   setting: [home]
   date_precision: exact
   region: Indiana
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2, 1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [2]

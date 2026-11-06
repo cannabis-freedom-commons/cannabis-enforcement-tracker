@@ -17,10 +17,16 @@ figures:
   charged: 1
   kg_seized: 0.00216
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
   setting: [vehicle]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2]
+  details.agency_types: [3, 2]
+  details.case_stage: [3, 2]
   details.products: [2]
   details.setting: [3]
 status: verified

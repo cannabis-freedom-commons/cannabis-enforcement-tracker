@@ -25,10 +25,12 @@ details:
   agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: e61714f4489916eaf4fd789b656101af

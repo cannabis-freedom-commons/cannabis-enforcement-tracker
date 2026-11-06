@@ -19,10 +19,16 @@ figures:
   kg_seized: 32200
   arrested: 1
 details:
+  agency_types: [customs, police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [port]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [casablanca, hashish, chira, smuggling]

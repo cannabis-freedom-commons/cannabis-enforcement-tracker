@@ -22,9 +22,15 @@ media:
     publisher: Eenadu
     caption: Uniformed officers stand over a pile of dark plant material and a weighing scale, the photograph published with Eenadu's report of the Paikmal ganja seizure.
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#medium

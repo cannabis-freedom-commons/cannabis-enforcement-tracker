@@ -19,9 +19,13 @@ figures:
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max
 details:
   activity: [cultivation]
+  agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 15392}]
   setting: [field]
 data_sources:
   details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 6, 5]
+  details.products: [1, 2, 3, 4, 6, 5]
   details.setting: [1, 2, 3, 4, 6]
 status: verified
 tags: [dncd, san-jose-de-ocoa, el-pinar, plantation]

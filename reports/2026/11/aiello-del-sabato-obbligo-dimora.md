@@ -17,12 +17,16 @@ figures:
 details:
   agencies: [it-gdf]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8c5e383556b8a52a1682c018ab1b3fdc

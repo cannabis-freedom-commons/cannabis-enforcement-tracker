@@ -18,11 +18,17 @@ figures:
   plants_destroyed: 1496
   kg_seized: 14376
 details:
+  activity: [trafficking]
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  products: [{product: plants, plants: 1496}]
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [bnn, bireuen, aceh, nila-rencong]

@@ -21,10 +21,12 @@ created_by_model: unknown
 details:
   agencies: [in-dri]
   agency_types: [customs]
+  products: [{product: flower, kg: 591.3}]
   setting: [vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: reported
 tags:

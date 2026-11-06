@@ -30,9 +30,13 @@ media:
 details:
   agencies: [ar-gna]
   agency_types: [gendarmerie]
+  products: [{product: flower}]
+  setting: [home, prison]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [santa-cruz, rio-gallegos, tribunal-oral-federal, sentence]

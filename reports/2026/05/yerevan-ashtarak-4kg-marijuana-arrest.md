@@ -26,10 +26,18 @@ media:
     publisher: Новости-Армения
     caption: Police video of the detention and the seized substance on the Yerevan-Ashtarak road.
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f20880169865194715cbf1fc5b6cae5d

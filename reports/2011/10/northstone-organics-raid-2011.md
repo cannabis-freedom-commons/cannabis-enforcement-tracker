@@ -17,11 +17,17 @@ figures:
   plants_destroyed: 99
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 99}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [medical-marijuana]
 sources:

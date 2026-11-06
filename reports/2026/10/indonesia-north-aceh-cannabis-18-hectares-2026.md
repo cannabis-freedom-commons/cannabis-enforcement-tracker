@@ -13,8 +13,12 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2, 6, 3, 4, 5]
+  details.case_stage: [1, 2, 5, 6]
 status: reported
 cfi_id: indonesia-north-aceh-cannabis-18-hectares-2026
 sources:

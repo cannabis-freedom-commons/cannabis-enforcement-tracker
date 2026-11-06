@@ -17,10 +17,18 @@ figures:
     kg_seized: 15
     prison: 15 years
 details:
+  activity: [trafficking, possession]
+  agency_types: [anti-narcotics, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a3e00412ebd75172e2ca00dda18e60a0

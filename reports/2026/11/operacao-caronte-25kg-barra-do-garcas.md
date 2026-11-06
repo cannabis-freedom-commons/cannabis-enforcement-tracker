@@ -15,11 +15,17 @@ figures:
   arrested: 3
   kg_seized: 25
 details:
+  activity: [trafficking]
   agencies: [br-pf]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 25}]
 data_sources:
+  details.activity: [1, 2, 3, 4]
   details.agencies: [1, 3, 4]
   details.agency_types: [1, 3, 4]
+  details.case_stage: [2, 3, 4, 1]
+  details.products: [1, 3, 4, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d543cb1edeca149725ea2e02dca7bce6

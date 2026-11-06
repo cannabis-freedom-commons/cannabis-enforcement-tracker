@@ -21,10 +21,14 @@ media:
     publisher: Amar Ujala
     caption: 'The article''s lead image of Noida, reused from the newspaper''s 2021 stock file and captioned only with the headline; it does not show these arrests. Photo: Amar Ujala'
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 53988f06b871066caddfe3302705728e

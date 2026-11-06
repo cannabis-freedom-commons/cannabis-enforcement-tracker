@@ -19,8 +19,12 @@ figures:
   kg_seized: 35.159
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
+  products: [{product: flower, kg: 35.159}]
   setting: [mail]
 data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [assam, cachar, courier, meghalaya-border]

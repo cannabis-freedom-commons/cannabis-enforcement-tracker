@@ -18,11 +18,17 @@ figures:
   kg_seized: 20.45
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [dz-anp]
   agency_types: [military]
+  case_stage: investigation
+  products: [{product: hashish, kg: 20.45}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 tags: [chlef, customs, highway, kif]
 sources:

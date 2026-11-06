@@ -26,10 +26,16 @@ media:
     publisher: Raj Express
     caption: Police personnel with the seized sacks of ganja in front of Shahpur police station in Mauganj.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 4]
+  details.agency_types: [1, 4, 2, 3]
   details.products: [1, 2, 4]
+  details.setting: [2, 1, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f9aa6b5da74dbae40a14c47f045b0e54

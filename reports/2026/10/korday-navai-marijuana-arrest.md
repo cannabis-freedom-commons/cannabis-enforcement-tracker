@@ -14,10 +14,18 @@ figures:
     arrested: 3
     kg_seized: 0.0025
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [border-guard, police]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [border, prison]
 data_sources:
+  details.activity: [2, 10, 11, 4, 1, 7]
+  details.agency_types: [1, 3, 4, 5, 7, 9]
+  details.case_stage: [4, 5, 8, 15, 16, 6]
   details.products: [3, 4, 7, 8, 9, 10, 11]
+  details.setting: [1, 3, 4, 5, 7, 9]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9749b83b5c1e52460887b80df38119cc

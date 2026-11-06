@@ -20,10 +20,14 @@ figures:
   value: { amount: 12000000, currency: EGP }
 created_by_model: xai/grok-4.7
 details:
+  agency_types: [customs]
   products:
     - {product: oil}
+  setting: [airport, mail]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [cairo, customs, cannabis-oil]
 open_questions:

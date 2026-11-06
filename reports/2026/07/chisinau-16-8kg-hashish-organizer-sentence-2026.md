@@ -21,10 +21,18 @@ media:
     publisher: СП - Новости Бельцы Молдова
     caption: 'Seized hashish concealed in the spare-wheel niche of the smuggling car. Photo: PCCOCS'
 details:
+  activity: [smuggling]
+  agency_types: [customs, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cf54e01aa1164aaf65d0c854c415f314

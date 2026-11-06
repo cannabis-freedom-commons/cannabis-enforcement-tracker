@@ -16,11 +16,17 @@ figures:
   arrested: 27
   kg_seized: 0.06079
 details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 10726b83ca992086abd61f4061e79f40

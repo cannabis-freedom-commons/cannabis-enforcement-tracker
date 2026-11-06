@@ -18,10 +18,16 @@ figures:
   arrested: 1
   plants_destroyed: 148
 details:
+  agency_types: [police]
+  case_stage: sentenced
+  products: [{product: plants, plants: 148}]
   setting: [home]
   environment: [greenhouse]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

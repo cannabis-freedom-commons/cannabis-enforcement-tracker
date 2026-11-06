@@ -20,9 +20,15 @@ media:
     publisher: Monitor
     caption: 'Some of the suspects detained in the Busika operation, reported to have been found with narcotic drugs. Photo: Herbert Kamoga.'
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: executed
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

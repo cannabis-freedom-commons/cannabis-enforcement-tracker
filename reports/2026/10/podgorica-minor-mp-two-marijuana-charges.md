@@ -32,9 +32,11 @@ media:
     publisher: Vijesti
     caption: 'Police photo of seized marijuana packaging. Photo: UP'
 details:
+  agency_types: [police, prosecutor]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

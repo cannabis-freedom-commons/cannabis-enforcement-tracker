@@ -18,6 +18,7 @@ figures:
     amount: 2400000
     currency: INR
 details:
+  activity: [smuggling]
   agencies: [Anti-Narcotics Cell of Pune city police]
   agency_types: [police, anti-narcotics]
   products:
@@ -28,6 +29,7 @@ details:
   region: Maharashtra
   route: {from: [np], to: [in]}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

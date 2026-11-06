@@ -21,14 +21,20 @@ media:
     publisher: Correio Braziliense
     caption: 'Police photo of the seized portions of maconha, skunk and cocaine, drone, digital scale, trafficking accounts and pistol magazine. Photo: Material cedido ao Correio.'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4098e9afb75681ffdc4660e02dcee1f7

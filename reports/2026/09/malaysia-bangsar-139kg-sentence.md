@@ -21,8 +21,14 @@ figures:
 created_by_model: unknown
 details:
   activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
+  setting: [prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [caning, trafficking, bangsar]
 sources:

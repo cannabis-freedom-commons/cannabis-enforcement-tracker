@@ -26,10 +26,14 @@ media:
     publisher: Glas Srpske
     caption: 'Additional police photo of items seized in Operation Demidz. Photo: MUP Srpske'
 details:
+  agency_types: [police, prosecutor]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e1768c4b21e50cb2f94b31f14df60073

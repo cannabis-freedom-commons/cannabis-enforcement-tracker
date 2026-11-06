@@ -21,8 +21,14 @@ figures:
 created_by_model: cursor/composer-2.5
 details:
   activity: [cultivation]
+  agency_types: [anti-narcotics, police]
+  products: [{product: flower}, {product: plants, plants: 35232}]
+  setting: [field]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [peten, las-cruces, ixcoch, sgaia, eradication]
 open_questions:

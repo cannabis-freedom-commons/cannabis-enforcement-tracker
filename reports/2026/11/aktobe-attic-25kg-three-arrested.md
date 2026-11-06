@@ -26,10 +26,18 @@ media:
     publisher: CentralAsia.media
     caption: 'Generic illustration photo of a Kazakh police officer''s uniform, with a POLISIA badge, the interior ministry emblem and a body camera; it does not show the Aktobe search or the seized barrels. Photo: CentralAsia.media'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2, 4, 6]
+  details.agency_types: [1, 2, 4, 6, 5, 3]
+  details.case_stage: [1, 2, 4, 6, 5, 3]
   details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 4, 5, 6, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d74db6eae54b00aae6532f1aef478e2c

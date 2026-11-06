@@ -19,9 +19,11 @@ figures:
 details:
   agencies: [us-camp]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 27262}]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [1, 3, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [camp, shasta-county, manton]

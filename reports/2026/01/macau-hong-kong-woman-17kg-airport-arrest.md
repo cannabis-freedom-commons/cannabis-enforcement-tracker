@@ -18,8 +18,16 @@ figures:
     amount: 17000000
     currency: MOP
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs, police, court]
+  case_stage: investigation
+  products: [{product: flower, kg: 17.371}]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

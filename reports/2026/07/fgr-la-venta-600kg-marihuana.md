@@ -28,9 +28,15 @@ created_by_model: alibaba-token-plan/qwen3.8-flash
 details:
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 600}]
+  setting: [border, vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [fgr, checkpoint, pre-trial-detention, hiding-method]
 open_questions:

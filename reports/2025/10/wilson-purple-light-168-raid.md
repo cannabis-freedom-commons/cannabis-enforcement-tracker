@@ -18,11 +18,15 @@ figures:
   plants_destroyed: 15000
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
   agencies: [us-dea, us-hsi]
   agency_types: [anti-narcotics, police]
+  products: [{product: flower}, {product: plants, plants: 15000}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [octf, wilson, carter-county, ice]
 open_questions:

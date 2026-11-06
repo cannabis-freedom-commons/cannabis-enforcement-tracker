@@ -30,10 +30,14 @@ media:
     publisher: Saam TV
     caption: The truck-car crash scene on the Mumbai-Nagpur Highway near Khamgaon.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 3, 5, 4, 6, 2]
   details.products: [1, 3, 5, 6]
+  details.setting: [1, 3, 5, 4, 6]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 287c265e08c1f1becabd7780a3794cc5

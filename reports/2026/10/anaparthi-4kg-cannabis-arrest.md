@@ -26,11 +26,15 @@ media:
     caption: 'Police officers and several men standing beside a motorcycle at night, in the photograph published with the Suryaa report on the arrest and cannabis seizure in Anaparthi. Photo: Suryaa News'
 details:
   activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [port]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 2c46a0483fc2049930125e68a2657c3c

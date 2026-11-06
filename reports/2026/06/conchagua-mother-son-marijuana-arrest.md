@@ -26,11 +26,15 @@ media:
     caption: 'Police photograph of María Ángela Membreño Ventura, 65, and Erick Armando Ventura Membreño, 24, detained over drug possession. Photo: El Salvador Times, courtesy of the Policía Nacional Civil'
 details:
   activity: [possession]
+  agency_types: [police, prosecutor]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 3, 1]
   details.products: [1, 2, 3]
+  details.setting: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5818bb5d6c14667b76dfe79c0de9ff4c

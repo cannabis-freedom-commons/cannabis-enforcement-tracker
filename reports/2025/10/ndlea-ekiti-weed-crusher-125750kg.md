@@ -20,11 +20,19 @@ figures:
   hectares: 51
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 125750}]
+  setting: [field, forest]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [ndlea, ekiti, operation-weed-crusher]
 open_questions:

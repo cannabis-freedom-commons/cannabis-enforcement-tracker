@@ -17,10 +17,18 @@ figures:
   prison: life imprisonment
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
+  agency_types: [prosecutor]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [airport, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [hashish, bali, life-sentence]
 open_questions:

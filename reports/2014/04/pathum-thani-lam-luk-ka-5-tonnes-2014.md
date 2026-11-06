@@ -18,9 +18,13 @@ figures:
   value: { amount: 500000000, currency: THB }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
+  products: [{product: flower, kg: 5000}]
   setting: [building]
   route: {from: [th], to: [nl]}
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2]
   details.route: [1, 2, 3]
   details.setting: [1, 2]
 status: verified

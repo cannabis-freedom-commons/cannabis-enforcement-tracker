@@ -18,11 +18,15 @@ figures:
     amount: 64900000
     currency: INR
 details:
+  agency_types: [customs]
+  products: [{product: flower, kg: 18.54}]
   setting: [airport]
   environment: [indoor]
   route: {from: [th], to: [in]}
 data_sources:
+  details.agency_types: [1]
   details.environment: [1]
+  details.products: [1]
   details.route: [1]
   details.setting: [1]
 status: verified

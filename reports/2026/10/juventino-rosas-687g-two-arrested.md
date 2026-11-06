@@ -27,9 +27,13 @@ media:
     publisher: Noticias Por Internet
     caption: Two detained young men stand with state police officers in front of a police pickup, with bags on the ground at their feet. No photo credit given.
 details:
+  agency_types: [prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

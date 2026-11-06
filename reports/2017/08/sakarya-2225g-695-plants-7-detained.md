@@ -16,11 +16,17 @@ figures:
   plants_destroyed: 695
   kg_seized: 2.225
 details:
+  activity: [cultivation]
   agencies: [tr-jandarma]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: plants, plants: 695}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3c9692b783df4d8c273f95dc3e7fe037

@@ -18,9 +18,19 @@ figures:
   plants_destroyed: 31
   kg_seized: 3.56819
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower, kg: 3.56819}, {product: seeds}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e66bfdaebf13008ade454ea412f60b35

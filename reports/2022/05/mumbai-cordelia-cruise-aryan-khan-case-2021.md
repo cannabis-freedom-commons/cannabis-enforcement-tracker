@@ -28,9 +28,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: hashish, kg: 0.021}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [ncb, cruise-ship]
 sources:

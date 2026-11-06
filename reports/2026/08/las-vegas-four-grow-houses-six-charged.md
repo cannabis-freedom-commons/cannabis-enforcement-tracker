@@ -16,9 +16,15 @@ figures:
 details:
   agencies: [us-dea, us-hsi, us-fbi]
   agency_types: [anti-narcotics, police]
+  case_stage: charged
+  products: [{product: flower}, {product: plants}]
+  setting: [home, prison]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 69b32e8d7f07cf73192e262aed73f46d

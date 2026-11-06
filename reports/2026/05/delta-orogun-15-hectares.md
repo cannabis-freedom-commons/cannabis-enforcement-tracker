@@ -20,11 +20,15 @@ figures:
   arrested: 1
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 37500}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [delta, ndlea, orogun, eradication]
 sources:

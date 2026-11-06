@@ -23,8 +23,16 @@ figures:
   kg_seized: 475.39
 details:
   activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 475.39}]
+  setting: [port, vehicle]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2, 3]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [sabarkantha, gujarat, cultivation]

@@ -27,11 +27,17 @@ media:
     caption: 'Detention cells at the Saint-Brieuc police station, the picture published with the report that a 23-year-old man was jailed after his arrest near Rennes. Photo: David Ademas / Ouest-France'
 details:
   activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 870e8aff32f02b8c5596cbc6e4189754

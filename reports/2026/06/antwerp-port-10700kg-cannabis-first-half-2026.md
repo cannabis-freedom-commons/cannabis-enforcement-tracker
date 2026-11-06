@@ -13,10 +13,12 @@ summary: >-
 figures:
   kg_seized: 10700
 details:
+  agency_types: [customs]
   setting: [port]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

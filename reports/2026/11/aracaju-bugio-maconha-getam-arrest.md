@@ -20,11 +20,13 @@ media:
     publisher: A8 Sergipe
     caption: 'Photo captioned ''drug seizure'' and credited to the Sergipe Military Police (PMSE), on the report of the arrest in Bugio. Photo: PMSE'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

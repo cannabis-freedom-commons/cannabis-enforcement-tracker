@@ -21,9 +21,13 @@ media:
     publisher: Bhaskar English
     caption: Photo published with the report, captioned as the Crime Branch arresting five smugglers in a drugs action at two places. The page gives no separate photo credit.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [3]
+  details.agency_types: [1, 3, 2]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

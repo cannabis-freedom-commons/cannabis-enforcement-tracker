@@ -18,11 +18,17 @@ figures:
   plants_destroyed: 52000
 created_by_model: unknown
 details:
+  activity: [cultivation]
   agencies: [in-ncb, in-anf, in-excise]
   agency_types: [anti-narcotics, regulator]
+  products: [{product: plants, plants: 52000}]
+  setting: [forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [boudh, zero-cultivation-mission]
 sources:

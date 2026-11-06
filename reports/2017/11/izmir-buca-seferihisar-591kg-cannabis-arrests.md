@@ -17,9 +17,13 @@ figures:
 details:
   agencies: [tr-egm]
   agency_types: [police]
+  case_stage: investigation
+  setting: [home]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 692181d7c627f7e4c238f7e9fb16428f

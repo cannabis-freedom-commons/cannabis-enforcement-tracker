@@ -28,10 +28,14 @@ media:
     publisher: Ministerio del Interior
     caption: 'The drugs, cash and ammunition seized in Santana do Livramento, Brazil. Photo: Ministerio del Interior'
 details:
+  agency_types: [military, police, prosecutor]
+  case_stage: sentenced
   setting: [border]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 3]
+  details.case_stage: [3, 1]
   details.products: [1]
   details.setting: [1, 2]
 status: verified

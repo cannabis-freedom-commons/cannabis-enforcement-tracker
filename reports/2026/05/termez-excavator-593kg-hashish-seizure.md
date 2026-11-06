@@ -19,10 +19,16 @@ media:
     publisher: Gazeta.uz
     caption: Still from State Security Service footage of the Termez excavator drug seizure.
 details:
+  activity: [smuggling]
+  agency_types: [customs, military, border-guard]
   products:
     - {product: hashish}
+  setting: [border, vehicle]
 data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 786952a7a290210feec06b4e566a4382

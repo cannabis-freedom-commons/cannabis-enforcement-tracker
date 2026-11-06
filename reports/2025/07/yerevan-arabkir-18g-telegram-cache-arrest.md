@@ -26,10 +26,16 @@ media:
     publisher: Новости-Армения
     caption: 'News Armenia video accompanying the police account of the detention and the cache search. Video: News Armenia'
 details:
+  activity: [sale]
+  agency_types: [police]
+  case_stage: investigation
   setting: [online]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

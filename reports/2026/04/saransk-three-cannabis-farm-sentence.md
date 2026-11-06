@@ -27,11 +27,17 @@ media:
     publisher: Вестник Мордовии
     caption: 'Cannabis from the Saransk case at sentencing. Photo: Mordovia Interior Ministry and FSB, via Vestnik Mordovii'
 details:
+  activity: [cultivation, sale]
   agencies: [ru-fsb]
   agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower, kg: 9.738}, {product: plants, plants: 82}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [saransk, mordovia, cultivation, sentence, russia]

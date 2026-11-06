@@ -17,6 +17,7 @@ figures:
     amount: 750000
     currency: ARS
 details:
+  activity: [trafficking]
   agencies: [Argentine Federal Police]
   agency_types: [police]
   products:
@@ -28,6 +29,7 @@ details:
   date_precision: exact
   region: Santa Fe
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

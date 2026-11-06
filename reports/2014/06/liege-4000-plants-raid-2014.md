@@ -31,6 +31,7 @@ details:
   case_stage: investigation
   date_precision: exact
   region: Liège
+  setting: [field, prison]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -38,6 +39,7 @@ data_sources:
   details.case_stage: [2]
   details.environment: [2]
   details.products: [1]
+  details.setting: [1, 2, 3, 4]
   figures.arrested: [2]
   figures.cash: [1]
   figures.plants_destroyed: [1]

@@ -24,11 +24,15 @@ media:
     publisher: DT Next
     caption: The hydroponic ganja seized at Chennai airport.
 details:
+  activity: [trafficking]
+  agency_types: [customs]
   setting: [airport]
   environment: [indoor]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
   details.environment: [1]
   details.products: [1]
   details.setting: [2]

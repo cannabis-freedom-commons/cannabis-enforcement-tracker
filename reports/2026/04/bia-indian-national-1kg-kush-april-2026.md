@@ -17,12 +17,14 @@ figures:
 details:
   agencies: [lk-pnb]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   setting: [airport]
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

@@ -21,8 +21,12 @@ figures:
   charged: 2
 created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
 details:
+  activity: [smuggling]
+  agency_types: [customs, police, prosecutor]
   route: {from: [vn], to: [jp]}
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
   details.route: [2]
 status: verified
 tags: [thc-liquid, customs, vietnam-route, international-post, minors]

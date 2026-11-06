@@ -14,9 +14,11 @@ summary: >-
 figures:
   plants_destroyed: 22000
 details:
+  activity: [cultivation]
   agencies: [br-pm]
   agency_types: [gendarmerie]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
 status: verified

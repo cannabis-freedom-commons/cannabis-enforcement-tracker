@@ -20,8 +20,14 @@ figures:
     currency: PEN
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 723.8}, {product: plants, plants: 72000}]
+  setting: [field]
 data_sources:
   details.activity: [3]
+  details.agency_types: [3, 2, 1]
+  details.products: [3, 2, 1]
+  details.setting: [3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 86db2b35dc22da9481594f0279886385

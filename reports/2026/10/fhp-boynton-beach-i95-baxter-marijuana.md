@@ -17,10 +17,14 @@ figures:
   charged: 1
   kg_seized: 0.0027
 details:
+  activity: [possession]
   products:
     - {product: flower}
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: d923cc494310556b916e20be617cf00a

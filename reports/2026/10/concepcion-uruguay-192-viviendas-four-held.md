@@ -48,9 +48,13 @@ media:
     publisher: Elonce
     caption: 'Federal police photo published with the account of the four detentions, showing seized items laid out on a table. Photo: PFA, via Elonce.'
 details:
+  agency_types: [police, prosecutor]
+  case_stage: charged
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 4, 2, 3]
+  details.case_stage: [1, 4]
   details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: xai/grok-4.7#low

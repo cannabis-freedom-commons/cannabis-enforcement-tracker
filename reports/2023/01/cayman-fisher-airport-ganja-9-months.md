@@ -17,11 +17,15 @@ figures:
   prison: 9 months, half of an 18-month term suspended
 details:
   activity: [smuggling]
+  agency_types: [customs, court]
+  case_stage: sentenced
   setting: [airport]
   products:
     - {product: flower}
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

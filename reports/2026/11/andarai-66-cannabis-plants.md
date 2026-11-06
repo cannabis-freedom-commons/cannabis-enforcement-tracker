@@ -22,9 +22,13 @@ media:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: plants, plants: 66}]
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2412439b9641b728645e0c06cdfb93c7

@@ -15,9 +15,13 @@ summary: >-
 figures:
   hectares: 0.405
 details:
+  activity: [cultivation]
+  agency_types: [anti-narcotics]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.environment: [1]
   details.setting: [1]
 status: verified

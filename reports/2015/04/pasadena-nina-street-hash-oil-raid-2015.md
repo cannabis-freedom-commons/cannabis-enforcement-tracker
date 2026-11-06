@@ -21,10 +21,16 @@ media:
     publisher: ABC7 Los Angeles
     caption: 'KABC photo from the Nina Street hash-oil bust in Pasadena. Photo: KABC'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: oil}
+  setting: [building]
 data_sources:
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 3]
   details.products: [2, 3]
+  details.setting: [3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c41ef381c56ed8b1d2e6aed44d8bd5ac

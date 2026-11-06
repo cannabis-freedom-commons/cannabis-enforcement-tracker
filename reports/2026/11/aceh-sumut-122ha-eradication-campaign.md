@@ -44,11 +44,19 @@ media:
     publisher: Telusur
     caption: 'Joint BNN and Polri team uncovering and destroying cannabis fields in Aceh. Photo: dok. BNN.'
 details:
+  activity: [trafficking, cultivation]
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
+  products: [{product: plants, plants: 150000}, {product: seeds}]
+  setting: [field, forest, prison]
 data_sources:
+  details.activity: [29, 30, 31, 27, 28, 1]
   details.agencies: [1, 2, 3, 8, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 25, 27, 28, 29, 30]
   details.agency_types: [1, 2, 3, 8, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 25, 27, 28, 29, 30]
+  details.case_stage: [1, 4, 6, 9, 11, 13]
+  details.products: [1, 3, 4, 6, 7, 9]
+  details.setting: [27, 28, 29, 30, 1, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a0b11fdb744747faab0170240badc5d4

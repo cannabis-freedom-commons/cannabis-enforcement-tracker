@@ -16,8 +16,14 @@ figures:
   charged: 1
 details:
   activity: [possession]
+  agency_types: [police, prosecutor]
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
   details.activity: [1, 2, 4, 5, 6, 7]
+  details.agency_types: [1, 8, 6, 3, 4, 5]
+  details.products: [1, 2, 4, 5, 6, 7]
+  details.setting: [1, 6, 2, 7, 9, 8]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f68d13e874a89c93b6121727c74393e3

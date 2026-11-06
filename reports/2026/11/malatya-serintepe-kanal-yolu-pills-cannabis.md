@@ -21,9 +21,13 @@ media:
     publisher: Malatya Time
     caption: Police handout showing the plastic trays of pills and the cartons laid out after the Malatya seizure, under the emblem of the Battalgazi district police directorate's crime-prevention and investigation office. No photo credit given.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 4, 3, 5, 2, 6]
+  details.case_stage: [2, 3, 4, 6, 5]
   details.products: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

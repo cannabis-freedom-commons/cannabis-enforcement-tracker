@@ -21,9 +21,19 @@ figures:
   kg_seized: 6
   value: { amount: 1100000, currency: HKD }
 details:
+  activity: [trafficking, possession]
+  agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: flower, kg: 6}]
   route: {from: [th], to: [hk]}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.info.gov.hk/gia/general/202610/07/P2026100700698.htm

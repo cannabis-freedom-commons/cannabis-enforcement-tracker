@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [Ecuador National Police]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower, kg: 438.8}
   activity: [trafficking]
@@ -27,6 +28,7 @@ data_sources:
   details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2]
   details.products: [2]
   details.setting: [2]
   figures.arrested: [2]

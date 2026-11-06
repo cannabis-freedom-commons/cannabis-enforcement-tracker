@@ -17,10 +17,16 @@ figures:
   charged: 1
   prison: 6 months
 details:
+  agency_types: [police, court]
+  case_stage: appeal
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 3, 4, 2]
+  details.case_stage: [1, 3, 4]
   details.products: [1, 3, 4]
+  details.setting: [1, 3, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2038cc466048c865a2ecd2d1030345b2

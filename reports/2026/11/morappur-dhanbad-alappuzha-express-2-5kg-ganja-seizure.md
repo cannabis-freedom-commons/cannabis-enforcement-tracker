@@ -13,10 +13,12 @@ summary: >-
 figures:
   kg_seized: 2.5
 details:
+  agency_types: [police]
   products:
     - {product: flower}
   case_stage: investigation
 data_sources:
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   figures.kg_seized: [1]

@@ -17,10 +17,16 @@ figures:
   charged: 2
   kg_seized: 0.305
 details:
+  agency_types: [police, prosecutor, court]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
+  details.setting: [1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3bc9cfb9496724b39fc82eff8ae74212

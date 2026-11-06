@@ -21,8 +21,12 @@ media:
     publisher: Defimedia.info
     caption: Photo published with the Plaisance seizure report, captioned 'drogue'.
 details:
+  activity: [smuggling]
+  agency_types: [customs, anti-narcotics, police]
   setting: [airport]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

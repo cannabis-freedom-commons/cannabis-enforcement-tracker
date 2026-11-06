@@ -21,10 +21,16 @@ figures:
   kg_seized: 10000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
+  agency_types: [prosecutor]
+  case_stage: charged
   products:
     - {product: hashish}
   route: {from: [ma], to: [es]}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
   details.route: [1]
 status: verified

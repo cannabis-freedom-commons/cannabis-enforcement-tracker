@@ -25,11 +25,17 @@ figures:
     currency: EUR
 created_by_model: cursor/composer-2.5-fast
 details:
+  activity: [trafficking]
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [pyrenees-orientales, douanes, pmr-van]
 open_questions:

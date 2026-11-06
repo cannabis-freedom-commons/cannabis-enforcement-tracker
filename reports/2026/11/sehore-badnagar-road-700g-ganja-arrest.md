@@ -25,11 +25,13 @@ media:
     publisher: प्रदेश प्रकाश
     caption: Photo published with the report on the ganja seized from the field in Sehore.
 details:
+  activity: [trafficking]
   agencies: [in-excise]
   agency_types: [regulator]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.products: [1, 2]

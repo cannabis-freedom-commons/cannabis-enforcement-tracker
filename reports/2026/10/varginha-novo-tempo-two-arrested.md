@@ -20,11 +20,17 @@ media:
     publisher: Varginha Online
     caption: 'Police photo published with the report on the Novo Tempo arrests. Photo: Polícia Militar'
 details:
+  activity: [trafficking, sale]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a44c77ff5156ef163fde16f4ba1b0584

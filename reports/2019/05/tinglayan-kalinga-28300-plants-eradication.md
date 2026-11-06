@@ -18,11 +18,17 @@ figures:
   hectares: 0.2931
   value: { amount: 5600000, currency: PHP }
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 29300}]
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [pdea, kalinga, cordillera, oplan-green-pearl-bravo]

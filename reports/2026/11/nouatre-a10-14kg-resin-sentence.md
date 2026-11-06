@@ -25,10 +25,16 @@ media:
     publisher: La Nouvelle République
     caption: 'Seized drug load estimated at 113,440 euros after the 30 October 2026 Nouâtre check. Photo: archives NR'
 details:
+  agency_types: [customs, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 81b954a6788f32c5f9499cb704a79e12

@@ -17,9 +17,13 @@ figures:
   deaths: 4
 created_by_model: meta/muse-spark
 details:
+  activity: [smuggling]
+  case_stage: executed
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 tags: [mandatory-death-penalty, hashish, najran]

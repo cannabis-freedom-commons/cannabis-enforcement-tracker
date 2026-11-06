@@ -21,12 +21,14 @@ figures:
 details:
   agencies: [ru-fsb]
   agency_types: [police]
+  products: [{product: plants, plants: 4700}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.environment: [1]
+  details.products: [1, 2]
   details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5

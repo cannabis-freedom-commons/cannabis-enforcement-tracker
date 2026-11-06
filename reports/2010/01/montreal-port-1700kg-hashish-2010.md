@@ -19,10 +19,12 @@ figures:
 details:
   agencies: [ca-rcmp, ca-cbsa]
   agency_types: [police, customs]
+  products: [{product: hashish, kg: 1700}]
   setting: [port]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

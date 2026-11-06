@@ -17,10 +17,14 @@ figures:
   charged: 1
   kg_seized: 2.015
 details:
+  agency_types: [police, court]
   products:
     - {product: flower}
+  setting: [port]
 data_sources:
+  details.agency_types: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: a4bb08147678befe64a1a98e959ba5e6

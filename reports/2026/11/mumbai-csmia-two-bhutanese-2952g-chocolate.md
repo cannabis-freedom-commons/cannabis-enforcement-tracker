@@ -15,9 +15,13 @@ figures:
   arrested: 2
   kg_seized: 2.952
 details:
+  agency_types: [customs]
+  case_stage: investigation
   setting: [airport]
   route: {from: [th], to: [in]}
 data_sources:
+  details.agency_types: [1, 2, 3, 5]
+  details.case_stage: [1, 2, 3, 5]
   details.route: [1, 2, 3, 5]
   details.setting: [1, 2, 3]
 status: verified

@@ -21,11 +21,19 @@ figures:
   value: { amount: 800000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 8}, {product: plants, plants: 900}]
+  setting: [home, building]
 data_sources:
+  details.activity: [1, 3, 4, 2]
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 3, 4, 2]
+  details.products: [1, 3, 4, 2]
+  details.setting: [1, 3, 4, 2]
 status: verified
 tags: [dublin, meath, cannabis-factory, operation-nitrogen]
 open_questions:

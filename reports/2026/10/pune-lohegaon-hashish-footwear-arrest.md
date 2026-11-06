@@ -23,11 +23,13 @@ figures:
     amount: 1344000
     currency: INR
 details:
+  agency_types: [customs]
   setting: [airport]
   products:
     - {product: hashish}
   route: {from: [th], to: [in]}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]

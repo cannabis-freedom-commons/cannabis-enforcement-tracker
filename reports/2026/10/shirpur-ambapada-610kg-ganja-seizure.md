@@ -25,11 +25,15 @@ media:
     caption: 'A group of men standing among the cannabis plants on forest land in Shirpur taluka. Photo: Pudhari'
 details:
   activity: [cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [field, forest]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6e450ce5530a1d31ee98c4e7e7d21bbf

@@ -23,6 +23,7 @@ details:
   force: [none-reported]
   period: {start: 2026-09-01, end: 2026-09-30}
   date_precision: approximate
+  setting: [prison]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -31,6 +32,7 @@ data_sources:
   details.force: [1]
   details.period: [1]
   details.products: [1]
+  details.setting: [1, 3]
   figures.arrested: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

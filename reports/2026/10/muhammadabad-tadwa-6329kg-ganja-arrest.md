@@ -16,10 +16,16 @@ figures:
   arrested: 1
   kg_seized: 6.329
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [2, 3]
+  details.agency_types: [1, 3, 2]
   details.products: [3]
+  details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f79e0de0a508aca1530a2a04004face2

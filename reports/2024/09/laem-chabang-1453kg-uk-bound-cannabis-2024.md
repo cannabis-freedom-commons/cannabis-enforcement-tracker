@@ -19,10 +19,18 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling]
+  agency_types: [customs]
+  case_stage: charged
+  products: [{product: flower, kg: 1453.3}]
   route: {from: [th], to: [gb]}
+  setting: [port]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [customs, laem-chabang, uk-route, export]
 open_questions:

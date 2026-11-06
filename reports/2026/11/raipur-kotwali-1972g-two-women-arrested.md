@@ -30,10 +30,16 @@ media:
     publisher: Dainik Bhaskar
     caption: Video report on the Kotwali ganja seizure and arrests
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1, 3]
   details.products: [1, 2, 3]
+  details.setting: [2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8810b58a62f86da78a72d85cdf424ad9

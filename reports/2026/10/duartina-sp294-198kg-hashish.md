@@ -30,9 +30,13 @@ media:
     publisher: Marília Notícia
     caption: 'News video on the Duartina seizure, titled ''Carga de haxixe e maconha avaliada em R$ 1,2 milhão é apreendida em Duartina''. Video: Marília Notícia.'
 details:
+  activity: [trafficking]
+  agency_types: [military, police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 3, 1]
+  details.agency_types: [2, 3, 1]
   details.products: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

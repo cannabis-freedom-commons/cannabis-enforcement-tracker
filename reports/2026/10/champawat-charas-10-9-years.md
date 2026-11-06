@@ -18,10 +18,18 @@ figures:
   kg_seized: 1.88
   prison: 10 years and 9 years
 details:
+  activity: [smuggling]
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e9ba7bffdd9149ff5070736ea753f74c

@@ -26,10 +26,14 @@ figures:
     currency: BMD
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 details:
+  agency_types: [customs]
+  case_stage: sentenced
   setting: [airport]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1]
 status: verified

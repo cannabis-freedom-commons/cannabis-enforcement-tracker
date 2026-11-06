@@ -45,9 +45,15 @@ media:
     publisher: Cairo 24
     caption: 'More seized items from the Zagazig stop, captioned ''المضبوطات'' (the seized items). Photo: Cairo 24'
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

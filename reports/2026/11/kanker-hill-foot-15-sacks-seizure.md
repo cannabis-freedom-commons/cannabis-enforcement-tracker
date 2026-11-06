@@ -32,10 +32,16 @@ media:
     publisher: ETV Bharat
     caption: 'Large consignment of ganja recovered in Kanker. Photo: ETV Bharat'
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 8, 9, 11, 2, 3]
+  details.agency_types: [1, 8, 9, 11, 2, 3]
   details.products: [1, 6, 7, 8, 9, 10, 11]
+  details.setting: [4, 5, 6, 8, 7, 11]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f4a28e11aa3f0760df62099da8fbb838

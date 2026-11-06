@@ -23,8 +23,14 @@ media:
     caption: BVI News's photograph captioned 'Kyle Kabel of Valley, Virgin Gorda', showing the accused and a Glock handgun with five rounds of ammunition; BVI News gave no photo credit.
 details:
   activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  setting: [prison]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 14d792d1213c2b4ee03596af12caed22

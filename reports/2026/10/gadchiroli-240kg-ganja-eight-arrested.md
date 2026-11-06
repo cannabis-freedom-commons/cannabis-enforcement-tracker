@@ -19,10 +19,16 @@ figures:
     amount: 12000000
     currency: INR
 details:
+  agency_types: [police]
+  case_stage: executed
   products:
     - {product: flower}
+  setting: [vehicle, forest]
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d66b8194db16dcc5234a543b9b58f5e9

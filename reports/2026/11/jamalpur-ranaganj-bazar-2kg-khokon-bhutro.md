@@ -21,9 +21,13 @@ media:
     publisher: Agrajatra Pratidin
     caption: A uniformed police officer standing with a handcuffed man and another man behind a table holding two blue plastic-wrapped packages of seized ganja, in the photo published with the Agrajatra Pratidin report. No photo credit or caption was published.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

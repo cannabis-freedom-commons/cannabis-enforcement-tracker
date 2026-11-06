@@ -17,6 +17,7 @@ figures:
   kg_seized: 0.3
 details:
   activity: [possession]
+  agency_types: [police, court]
   setting: [home]
   environment: [wild]
   charges: [unlawful acquisition and storage of narcotic-containing plant parts in a large amount without intent to sell (article 228(2))]
@@ -25,6 +26,7 @@ details:
   region: Volgograd Oblast
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
   details.case_stage: [1]
   details.charges: [1]
   details.environment: [1]

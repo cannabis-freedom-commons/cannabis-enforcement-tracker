@@ -70,10 +70,16 @@ media:
     publisher: Harian SIB
     caption: 'Police chief with Forkopimda members and guests holding up seized evidence at the press conference on 30 October 2026 in Lubukpakam. Photo: Lisbon Situmorang / harianSIB.com'
 details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor]
   products:
     - {product: flower}
+  setting: [airport, vehicle]
 data_sources:
+  details.activity: [1, 4, 7, 15, 18, 22]
+  details.agency_types: [1, 4, 7, 13, 14, 15]
   details.products: [1, 4, 5, 7, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25]
+  details.setting: [1, 4, 7, 15, 18, 22]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 7dbf0dcf679aa1faac6a95ec512fd645

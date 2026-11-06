@@ -14,14 +14,20 @@ summary: >-
 figures:
   prison: 248 months
 details:
+  activity: [trafficking]
   agencies: [us-hsi, us-fbi]
   agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2]
   details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 570f3c8a277e48a60313343a2de62d45

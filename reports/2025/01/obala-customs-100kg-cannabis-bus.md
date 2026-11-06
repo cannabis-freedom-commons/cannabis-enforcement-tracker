@@ -14,8 +14,10 @@ summary: >-
 figures:
   kg_seized: 100
 details:
+  agency_types: [customs]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

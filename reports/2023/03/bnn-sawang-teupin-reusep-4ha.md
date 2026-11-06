@@ -19,11 +19,15 @@ figures:
   hectares: 4
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [bnn, aceh, sawang]
 open_questions:

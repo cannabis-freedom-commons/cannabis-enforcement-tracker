@@ -21,10 +21,16 @@ media:
     publisher: Réunion La 1ère
     caption: 'Customs photo of the seized cannabis resin packed across several bags. Photo: Douanes de La Réunion'
 details:
+  activity: [trafficking]
+  agency_types: [customs, police, prosecutor]
   products:
     - {product: hashish}
+  setting: [airport]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4dfcb28e0ddc5e479001c15bba17ccf8

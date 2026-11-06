@@ -18,9 +18,17 @@ figures:
   value: { amount: 1000000, currency: AUD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
+  agency_types: [police]
   environment: [indoor]
+  products: [{product: flower}, {product: plants, plants: 360}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [greenfield-park, hydroponic, wetherill-park]
 open_questions:

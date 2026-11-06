@@ -19,9 +19,13 @@ media:
     publisher: RCI Martinique
     caption: 'Bales and bags of cannabis herb laid out after the interception, used as the article''s lead image under the headline ''Opération Scotopélia : 55 kilos de cannabis saisis dans le Sud de la Martinique''.'
 details:
+  activity: [trafficking]
+  agency_types: [customs, gendarmerie, military, prosecutor]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

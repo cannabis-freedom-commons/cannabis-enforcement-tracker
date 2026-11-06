@@ -15,9 +15,11 @@ summary: >-
 figures:
   kg_seized: 0.0039
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

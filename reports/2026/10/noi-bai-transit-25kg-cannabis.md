@@ -27,8 +27,14 @@ media:
     publisher: VOH Online
     caption: 'Frame from a Customs Department clip showing more than 25 kg of vacuum-sealed cannabis herb, leaves, stems and buds taken from the Spanish passenger''s suitcase. Photo: Cục Hải quan (Customs Department) via VOH.'
 details:
+  activity: [smuggling]
+  agency_types: [customs, border-guard, police]
+  products: [{product: flower, kg: 25.4}]
   setting: [airport]
 data_sources:
+  details.activity: [3, 6, 13, 14, 12, 8]
+  details.agency_types: [1, 2, 3, 4, 6, 7]
+  details.products: [1, 2, 3, 5, 6, 7]
   details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

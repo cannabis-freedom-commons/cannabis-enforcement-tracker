@@ -23,8 +23,10 @@ media:
     caption: Seized marijuana plants from the raids in barrio Policial Anexo.
 details:
   activity: [sale]
+  case_stage: investigation
 data_sources:
   details.activity: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 11c638245ab7c66c195ad910cd848f97

@@ -16,10 +16,14 @@ figures:
     amount: 500900000
     currency: ARS
 details:
+  agency_types: [coast-guard, prosecutor]
   products:
     - {product: flower}
+  setting: [forest]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 669d16d5d4ed8b6cff863809d01b1cd5

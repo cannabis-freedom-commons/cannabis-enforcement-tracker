@@ -15,6 +15,7 @@ figures:
   arrested: 1
   prison: 6 years
 details:
+  activity: [trafficking]
   agencies: [Herzegovina-Neretva Canton Ministry of the Interior (MUP HNK), Court of Bosnia and Herzegovina]
   agency_types: [police, court]
   products:
@@ -23,13 +24,16 @@ details:
   sentence_types: [prison]
   force: [none-reported]
   region: Herzegovina-Neretva Canton
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2, 3, 4]
   details.agencies: [1]
   details.agency_types: [3]
   details.case_stage: [3]
   details.force: [2]
   details.products: [1]
   details.sentence_types: [1]
+  details.setting: [3, 1, 2]
   figures.arrested: [1]
   figures.prison: [1]
 media:

@@ -14,8 +14,12 @@ summary: >-
 figures:
   kg_seized: 0.90652
 details:
+  activity: [smuggling]
+  agency_types: [customs]
   setting: [airport]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5

@@ -19,9 +19,19 @@ figures:
   kg_seized: 110
 created_by_model: unknown
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 110}]
   route: {from: [np], to: [np], crossing: 'toward Siraha'}
+  setting: [vehicle, forest]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [courier, siraha-route]
 sources:

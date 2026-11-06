@@ -43,13 +43,17 @@ media:
     publisher: JL Notícias
     caption: 'The packages of skunk seized from the car. Photo: PRF.'
 details:
+  activity: [trafficking]
   agencies: [br-prf]
   agency_types: [police]
+  case_stage: charged
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 4, 12, 6, 7, 8]
   details.agencies: [1, 2, 12]
   details.agency_types: [1, 2, 12]
+  details.case_stage: [1, 4, 12, 6, 7, 8]
   details.products: [1, 2, 4, 6, 7, 8, 9, 10, 11, 12]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

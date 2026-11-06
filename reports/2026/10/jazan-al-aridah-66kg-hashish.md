@@ -16,9 +16,15 @@ figures:
   arrested: 5
   kg_seized: 66
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [border-guard, anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 3, 4, 5, 1, 6]
+  details.agency_types: [2, 3, 4, 5, 1, 6]
+  details.case_stage: [2, 3, 4, 5, 1, 6]
   details.products: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

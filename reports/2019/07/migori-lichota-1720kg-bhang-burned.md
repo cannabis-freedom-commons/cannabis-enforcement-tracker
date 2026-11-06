@@ -17,10 +17,12 @@ figures:
   kg_seized: 1720
   value: { amount: 17200000, currency: KES }
 details:
+  agency_types: [police]
   products:
     - {product: edibles}
   route: {from: [tz], to: [ke]}
 data_sources:
+  details.agency_types: [1]
   details.products: [1, 2]
   details.route: [1]
 status: verified

@@ -23,14 +23,20 @@ media:
     publisher: Heraldo de Aragón
     caption: 'Search of the house in Caspe where the four accused sold drugs. Photo: Guardia Civil'
 details:
+  activity: [trafficking, sale]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 86d3806323a3586c64e66d91f3c37542

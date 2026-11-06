@@ -28,10 +28,16 @@ media:
     publisher: DHA
     caption: DHA's lead photograph on its report of the operation, showing plainclothes police holding a man beside a car; DHA gives no photographer credit.
 details:
+  agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 3, 6, 5, 2, 4]
+  details.case_stage: [1, 3, 6, 5]
   details.products: [2, 3, 4, 5, 6]
+  details.setting: [1, 3, 6, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 1850bfceb23e98ded1c187b0ebfad77f

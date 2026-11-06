@@ -22,9 +22,13 @@ media:
     publisher: Yozgat Medya
     caption: 'Methamphetamine, esrar and a cannabis plant displayed under a ''Narko Gaziantep'' sign, in the lead image of the İHA report. Photo: İHA'
 details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

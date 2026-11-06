@@ -22,9 +22,15 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: charged
+  products: [{product: flower}, {product: edibles}]
+  setting: [vehicle, home, building]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ganjapreneur, sled, dea, thc-retail]
 open_questions:

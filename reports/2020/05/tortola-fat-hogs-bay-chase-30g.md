@@ -22,6 +22,7 @@ details:
   agencies: [Royal Virgin Islands Police Force]
   agency_types: [police]
   activity: [possession]
+  products: [{product: flower, kg: 0.03}]
   setting: [vehicle]
   charges: [Unlawful Possession of a Controlled Drug, Travelling Backwards With a Motor Vehicle More Than Requisite, Reckless & Negligent Act, Failure To Stop At The Sound of A Siren, Driving an Unlicensed Vehicle, Driving an Uninsured Vehicle]
   case_stage: convicted
@@ -33,6 +34,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [3]
   details.charges: [1]
+  details.products: [3]
   details.setting: [3]
   figures.arrested: [2]
   figures.charged: [2]

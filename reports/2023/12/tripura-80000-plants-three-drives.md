@@ -16,14 +16,18 @@ figures:
   plants_destroyed: 80000
   hectares: 13.4
 details:
+  activity: [cultivation]
   agencies: [in-ncb, in-bsf, in-excise]
   agency_types: [anti-narcotics, border-guard, regulator]
   products:
     - {product: flower}
+  setting: [forest]
 data_sources:
+  details.activity: [2, 4, 1]
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
   details.products: [1, 2, 4]
+  details.setting: [1, 4, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, ganja, bsf, unakoti, sepahijala]

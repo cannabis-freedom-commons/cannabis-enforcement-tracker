@@ -23,8 +23,12 @@ media:
     publisher: Minuto30
     caption: 'Two uniformed officers beside the seized packages marked “Marihuana”. Photo: Policía Nacional'
 details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 4.898}]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

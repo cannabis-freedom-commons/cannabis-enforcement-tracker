@@ -27,8 +27,14 @@ media:
     caption: Potted cannabis plants seized by police, shown at the announcement of the case ("large-scale cannabis cultivation incident", Hokkaido Police).
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 1083}]
   setting: [building]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [hokkaido, warehouse, profit-motive, cannabis-cultivation-control-law]

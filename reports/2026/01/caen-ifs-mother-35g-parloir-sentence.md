@@ -18,8 +18,14 @@ figures:
   kg_seized: 0.0351
   prison: 6 months
 details:
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 0.0351}]
   setting: [prison]
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5

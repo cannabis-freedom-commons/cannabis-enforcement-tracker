@@ -20,10 +20,16 @@ media:
     publisher: Prensa Libre
     caption: 'Photo of the drug packages seized from vehicles in Pasaco, Jutiapa. Photo: PNC via Prensa Libre.'
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police, prosecutor]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 91a6228bbefb63d1b394f9b915e5414b

@@ -23,9 +23,11 @@ media:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  products: [{product: flower, kg: 1.4}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 87083b923fcfb65ebcc4099c37406a83

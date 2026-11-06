@@ -18,9 +18,13 @@ figures:
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}]
+  setting: [forest]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [public-lands, cartel-grow]

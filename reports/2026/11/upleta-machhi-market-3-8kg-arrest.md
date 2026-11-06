@@ -30,10 +30,16 @@ media:
     publisher: Divya Bhaskar
     caption: Video report on the Upleta Machhi Market ganja seizure and raid
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 3, 2, 4]
+  details.case_stage: [2, 1, 3, 4]
   details.products: [1, 2, 3]
+  details.setting: [2, 1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5d3832b28f79b80c6d6b1b8e671781e4

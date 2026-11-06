@@ -19,9 +19,11 @@ created_by_model: xai/grok-4.7
 details:
   agencies: [in-bsf]
   agency_types: [border-guard]
+  products: [{product: plants, plants: 80000}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [india, tripura, mohanpur, eradication]
 sources:

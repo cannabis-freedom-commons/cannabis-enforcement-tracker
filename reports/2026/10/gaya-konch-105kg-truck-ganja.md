@@ -23,10 +23,14 @@ media:
     publisher: Dainik Bhaskar
     caption: 'Cannabis recovered from a truck in Konch. Photo: Dainik Bhaskar'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   setting: [vehicle]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
 status: reported

@@ -20,9 +20,15 @@ figures:
 details:
   agencies: [us-cbp]
   agency_types: [customs]
+  case_stage: charged
+  products: [{product: flower, kg: 8618}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [houston, stash-house, school-buses, trafficking]

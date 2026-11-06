@@ -19,9 +19,11 @@ figures:
 details:
   agencies: [ca-opp]
   agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 20000}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [opp, brechin, orillia, outdoor-grow]

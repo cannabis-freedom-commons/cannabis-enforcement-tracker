@@ -21,9 +21,11 @@ media:
     publisher: Repórter Beto Ribeiro
     caption: Bagged drugs and cash displayed against a São Paulo Military Police emblem.
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
 status: verified

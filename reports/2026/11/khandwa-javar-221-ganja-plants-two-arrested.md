@@ -19,10 +19,16 @@ figures:
     amount: 2957000
     currency: INR
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [3, 7, 1, 4, 5, 6]
+  details.agency_types: [1, 3, 2, 5, 6, 4]
   details.products: [1, 2, 3, 5, 6]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 39f4a4580cbd10d212927b2a234056c7

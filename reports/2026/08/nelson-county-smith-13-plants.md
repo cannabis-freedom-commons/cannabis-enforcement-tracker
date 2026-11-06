@@ -17,10 +17,14 @@ figures:
   charged: 1
   plants_destroyed: 13
 details:
+  activity: [cultivation, possession]
+  case_stage: charged
   setting: [home]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1]
 status: verified

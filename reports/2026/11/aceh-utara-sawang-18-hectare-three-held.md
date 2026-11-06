@@ -37,11 +37,17 @@ media:
     publisher: RRI.co.id
     caption: 'The 25-hectare cannabis field found in Aceh Utara. Photo: RRI/Saiful'
 details:
+  activity: [trafficking, cultivation]
   agencies: [id-bnn, id-polri]
   agency_types: [anti-narcotics, police]
+  products: [{product: plants}, {product: seeds}]
+  setting: [field]
 data_sources:
+  details.activity: [3, 2, 7, 9, 10, 4]
   details.agencies: [1, 4, 5, 6, 7, 8, 9, 10]
   details.agency_types: [1, 4, 5, 6, 7, 8, 9, 10]
+  details.products: [8, 9, 10, 11, 12]
+  details.setting: [1, 4, 5, 6, 9, 7]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: de642c1b164fc2303ea6cab702bef1dd

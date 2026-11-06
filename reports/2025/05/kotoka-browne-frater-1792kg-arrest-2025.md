@@ -23,9 +23,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
+  case_stage: charged
+  setting: [airport]
 data_sources:
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
+  details.case_stage: [1, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [nacoc, smuggling, kotoka]
 media:

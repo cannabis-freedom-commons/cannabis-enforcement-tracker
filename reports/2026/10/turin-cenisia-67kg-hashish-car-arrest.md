@@ -27,10 +27,18 @@ media:
     publisher: Polizia di Stato — Questura di Torino
     caption: 'Police photo captioned “Torino: i panetti di stupefacente sequestrati dalla Polizia di Stato” showing the seized hashish blocks'
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 3]
+  details.case_stage: [1, 3]
   details.products: [1, 3]
+  details.setting: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9e7aa6bc61bffc18799916a9023cfca5

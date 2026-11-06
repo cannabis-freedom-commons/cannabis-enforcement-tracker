@@ -14,9 +14,13 @@ summary: >-
 figures:
   charged: 1
 details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [2, 3, 1, 4]
   details.environment: [1, 2]
   details.setting: [1, 4]
 status: verified

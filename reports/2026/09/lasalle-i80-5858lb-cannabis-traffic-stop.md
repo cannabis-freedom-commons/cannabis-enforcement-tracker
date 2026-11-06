@@ -19,8 +19,12 @@ figures:
   kg_seized: 2657.3
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking]
+  agency_types: [police]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2, 5, 3, 4]
+  details.agency_types: [1, 2, 5, 3, 4]
   details.setting: [1, 2, 5]
 status: verified
 tags: [isp, traffic-stop, lasalle]

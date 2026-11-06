@@ -30,14 +30,18 @@ media:
     publisher: Dainik Bhaskar
     caption: 'Dainik Bhaskar video published with its report on the seizure; its still shows a blue bag of ganja on the ground. Video: Dainik Bhaskar'
 details:
+  activity: [trafficking]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
   details.products: [1, 2]
+  details.setting: [2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 283d72b652db513b612ce2a69ea3be82

@@ -16,11 +16,17 @@ figures:
   deaths: 1
   kg_seized: 0.919
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: charged
+  setting: [port, home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 269e8c0bb1f9c0b8fb459d2952ead924

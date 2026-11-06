@@ -25,9 +25,11 @@ media:
     publisher: The Times of India
     caption: 'The cannabis seized by the ANTF in Khurda. Photo: The Times of India'
 details:
+  activity: [trafficking]
   agencies: [in-anf]
   agency_types: [anti-narcotics]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
 status: reported

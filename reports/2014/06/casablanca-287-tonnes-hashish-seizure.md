@@ -20,10 +20,16 @@ figures:
   kg_seized: 28700
 created_by_model: meta/muse-spark
 details:
+  activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [home, building]
 data_sources:
+  details.activity: [2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [casablanca, record-haul, chira]
 open_questions:

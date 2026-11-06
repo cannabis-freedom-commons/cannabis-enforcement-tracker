@@ -22,8 +22,12 @@ figures:
   prison: 16 weeks (time served)
   fine: { amount: 10000000, currency: EUR }
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
   setting: [shop]
 data_sources:
+  details.activity: [2, 3, 1]
+  details.agency_types: [1, 2, 3]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

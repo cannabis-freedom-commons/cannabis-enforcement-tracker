@@ -20,11 +20,15 @@ figures:
   arrested: 6
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
+  setting: [field, forest]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [eastern-region, okere, yilo-krobo, dleu, nacoc]
 sources:

@@ -17,8 +17,10 @@ summary: >-
 figures:
   arrested: 0
 details:
+  agency_types: [anti-narcotics, police]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
   details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

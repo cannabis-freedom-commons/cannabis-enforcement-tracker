@@ -31,11 +31,13 @@ media:
     publisher: Radio Interior
     caption: 'Money and drugs seized in the Navalmoral operation. Photo: Radio Interior'
 details:
+  activity: [trafficking]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2, 4, 5, 6, 7]
   details.agencies: [1, 2, 4, 5, 6, 7, 8]
   details.agency_types: [1, 2, 4, 5, 6, 7, 8]
   details.products: [1, 2, 4, 5, 6, 7, 8]

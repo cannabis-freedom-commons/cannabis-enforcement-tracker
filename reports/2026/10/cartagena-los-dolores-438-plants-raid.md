@@ -16,13 +16,21 @@ figures:
   plants_destroyed: 438
   kg_seized: 172
 details:
+  activity: [cultivation]
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower, kg: 172}, {product: plants, plants: 438}]
+  setting: [field, home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7ff971791534382e7528eeb4ad107817

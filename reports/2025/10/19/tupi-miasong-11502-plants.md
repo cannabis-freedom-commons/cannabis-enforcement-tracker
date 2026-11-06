@@ -20,11 +20,17 @@ figures:
     currency: PHP
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 11502}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [pdea-12, tupi, miasong]
 open_questions:

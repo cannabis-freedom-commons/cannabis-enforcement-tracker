@@ -21,12 +21,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [np-police]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [np], to: [in, cn]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.route: [1]
 status: verified

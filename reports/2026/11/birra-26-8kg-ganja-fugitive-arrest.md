@@ -24,10 +24,16 @@ media:
     publisher: Naidunia
     caption: Arrested accused with the seized car and ganja.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0ddbad87ea4deb4e1d0ac559189fad88

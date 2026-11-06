@@ -18,10 +18,18 @@ figures:
   kg_seized: 0.04
   prison: 10 months, suspended with probation
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 45c737ecd4402eaf40e1a77be56b8979

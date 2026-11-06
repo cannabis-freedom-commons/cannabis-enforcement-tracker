@@ -15,8 +15,12 @@ figures:
   plants_destroyed: 4200
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 4200}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [xinjiang, zhaosu, eradication]

@@ -28,11 +28,15 @@ media:
     caption: 'Drugs seized during the search at a Pineville Road home. Photo: Darlington County Sheriff''s Office'
 details:
   activity: [trafficking]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 54cdcc20a91f3eb4d7e6ffe6447716a6

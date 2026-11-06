@@ -17,10 +17,12 @@ figures:
   kg_seized: 8000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   setting: [port]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

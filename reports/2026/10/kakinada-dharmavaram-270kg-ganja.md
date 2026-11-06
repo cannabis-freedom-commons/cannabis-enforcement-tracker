@@ -31,10 +31,12 @@ media:
     caption: Police and other men stand behind sacks of seized ganja during the Dharmavaram operation.
 details:
   activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

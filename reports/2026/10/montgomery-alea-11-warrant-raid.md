@@ -17,11 +17,19 @@ figures:
   charged: 2
   kg_seized: 15.932
 details:
+  activity: [trafficking]
   agencies: [us-dea, us-hsi, us-fbi]
   agency_types: [anti-narcotics, police]
+  case_stage: charged
+  products: [{product: flower, kg: 15.932}]
+  setting: [prison]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: eae8cc991fa9a93e5321b42e83d2ae3d

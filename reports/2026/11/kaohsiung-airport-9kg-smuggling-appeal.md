@@ -25,8 +25,14 @@ figures:
   prison: 6 years 6 months
 details:
   activity: [smuggling]
+  agency_types: [court]
+  case_stage: appeal
+  setting: [airport, prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 53cbe980a7f77753582a38ef4ea5241d

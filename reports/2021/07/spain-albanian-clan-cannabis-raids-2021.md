@@ -20,11 +20,17 @@ figures:
   kg_seized: 938
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [int-europol]
   agency_types: [police]
+  products: [{product: flower, kg: 938}, {product: plants, plants: 25000}]
+  setting: [field]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 tags: [europol, albania, organised-crime]
 open_questions:

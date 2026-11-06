@@ -15,9 +15,17 @@ figures:
   arrested: 8
   kg_seized: 39.288
 details:
+  activity: [smuggling]
+  agency_types: [anti-narcotics, police]
+  products: [{product: flower, kg: 39.288}]
   route: {from: [th], to: [np]}
+  setting: [airport, port, vehicle]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.products: [2, 1]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2d705a4ac538fbc682adc22e2400dd4f

@@ -20,9 +20,15 @@ figures:
     amount: 10000000
     currency: USD
 details:
+  activity: [smuggling]
+  agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2, 3, 4, 5]
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 4, 5]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

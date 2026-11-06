@@ -20,11 +20,15 @@ figures:
     amount: 1600000
     currency: EUR
 details:
+  activity: [possession, sale]
   agencies: [ie-garda]
   agency_types: [police]
+  setting: [airport, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 21b3ae66e23314866d7c677985c0a75b

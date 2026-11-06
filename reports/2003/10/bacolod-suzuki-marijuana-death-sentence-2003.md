@@ -21,8 +21,14 @@ figures:
   prison: reclusion perpetua
   fine: { amount: 1000000, currency: PHP }
 details:
+  activity: [possession]
+  case_stage: sentenced
+  products: [{product: flower, kg: 1.54707}]
   setting: [airport]
 data_sources:
+  details.activity: [2]
+  details.case_stage: [2]
+  details.products: [2, 1]
   details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

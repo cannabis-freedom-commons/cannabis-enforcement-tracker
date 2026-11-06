@@ -19,11 +19,17 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [money]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [vehicle, home, building]
 data_sources:
   details.activity: [2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [3, 2]
   details.products: [1, 2, 3]
+  details.setting: [2, 3]
 status: verified
 tags: [hashish, joint-operation, morocco, money-laundering]
 sources:

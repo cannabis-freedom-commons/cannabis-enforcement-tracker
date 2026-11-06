@@ -19,11 +19,15 @@ figures:
 created_by_model: meta/muse-spark
 details:
   activity: [smuggling]
+  agency_types: [anti-narcotics, police]
   products:
     - {product: hashish}
+  setting: [airport, vehicle, field]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [beirut-port, hashish, record-seizure, smuggling]
 sources:

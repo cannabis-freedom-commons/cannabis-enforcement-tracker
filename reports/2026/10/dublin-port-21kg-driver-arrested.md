@@ -25,11 +25,17 @@ media:
     publisher: Dublin Live
     caption: Photo of the seized herbal cannabis published with the report.
 details:
+  activity: [smuggling]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 21.2}]
 data_sources:
+  details.activity: [1, 3]
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
+  details.case_stage: [1, 2, 4, 3]
+  details.products: [1, 2, 4, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 988082c51912d67cbc4d7aafe6817e5c

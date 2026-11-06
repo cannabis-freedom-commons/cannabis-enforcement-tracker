@@ -19,11 +19,13 @@ media:
     publisher: General Directorate of Mujahideen
     caption: Two handcuffed suspects seen from behind in front of a General Directorate of Mujahideen support-patrols backdrop.
 details:
+  activity: [smuggling]
   agencies: [sa-gdnc]
   agency_types: [anti-narcotics]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [2]

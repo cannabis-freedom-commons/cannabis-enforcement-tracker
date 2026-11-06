@@ -15,10 +15,14 @@ summary: >-
 figures:
   arrested: 1
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 7, 10, 2, 6, 8]
   details.products: [1, 2, 5, 7, 8, 10, 11]
+  details.setting: [2, 5, 8, 10, 11, 1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 8045942a184035db777fc60ee3e64dcf

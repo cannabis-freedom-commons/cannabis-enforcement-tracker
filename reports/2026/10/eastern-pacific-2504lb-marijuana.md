@@ -16,10 +16,14 @@ figures:
   arrested: 3
   kg_seized: 1135.795
 details:
+  agency_types: [coast-guard]
+  case_stage: investigation
   setting: [port]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [2, 3, 4]
   details.products: [1, 2, 3, 4]
   details.setting: [2, 3, 4]
 status: reported

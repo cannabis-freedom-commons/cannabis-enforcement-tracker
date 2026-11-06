@@ -23,12 +23,14 @@ details:
   case_stage: investigation
   date_precision: publication
   region: Tuscany
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]
+  details.setting: [1, 2, 3]
   figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified

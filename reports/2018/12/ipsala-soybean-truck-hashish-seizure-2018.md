@@ -20,10 +20,16 @@ figures:
   value: { amount: 40000000, currency: TRY }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [turkiye, ipsala, hashish, soybean-truck]
 media:

@@ -21,9 +21,15 @@ figures:
 details:
   agencies: [bd-dnc]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
+  products: [{product: flower, kg: 0.05}]
+  setting: [prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 74e11e60040f7cc865a7a081bb1a064b

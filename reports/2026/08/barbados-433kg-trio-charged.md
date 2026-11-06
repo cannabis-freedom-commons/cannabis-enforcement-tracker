@@ -21,8 +21,14 @@ figures:
   kg_seized: 43.3
 details:
   activity: [trafficking]
+  agency_types: [police]
+  case_stage: charged
+  setting: [port]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [trafficking, trinidad-route, guyana-route, illegal-entry]

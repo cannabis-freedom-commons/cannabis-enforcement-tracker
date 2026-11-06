@@ -16,10 +16,18 @@ figures:
   arrested: 2
   charged: 2
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9ed87f93593d912e6aac3221a9d9f2a1

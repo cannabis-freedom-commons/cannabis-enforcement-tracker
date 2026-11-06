@@ -22,9 +22,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [us-cbp, us-hsi]
   agency_types: [customs, police]
+  products: [{product: flower, kg: 6788.01}]
+  setting: [port, vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [cbp, border, otay-mesa]
 sources:

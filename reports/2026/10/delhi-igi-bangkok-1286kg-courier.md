@@ -19,9 +19,15 @@ figures:
   kg_seized: 12.86
   value: { amount: 45000000, currency: INR }
 details:
+  agency_types: [customs]
+  case_stage: investigation
+  products: [{product: flower, kg: 12.86}]
   setting: [airport]
   route: {from: [th], to: [in]}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]
 status: verified

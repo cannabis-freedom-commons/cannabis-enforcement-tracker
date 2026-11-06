@@ -29,9 +29,13 @@ media:
     publisher: The Fiji Sun
     caption: 'Police photo of the marijuana plants uprooted from the Nasuva farming area. Photo: Fiji Police Force'
 details:
+  activity: [cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 3, 4, 1]
+  details.agency_types: [2, 3, 4, 1]
   details.products: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

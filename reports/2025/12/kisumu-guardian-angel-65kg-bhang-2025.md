@@ -21,11 +21,15 @@ figures:
   value: { amount: 1963500, currency: KES }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
+  agency_types: [police]
   setting: [vehicle]
   products:
     - {product: edibles}
   route: {from: [ke], to: [ke], crossing: 'Mombasa to Kisumu'}
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]

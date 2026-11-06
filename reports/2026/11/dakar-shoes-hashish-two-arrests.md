@@ -20,10 +20,18 @@ media:
     publisher: Seneweb
     caption: The shoes with hashish concealed in the soles at the centre of the Casablanca-Dakar case
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [mail]
 data_sources:
+  details.activity: [1, 4, 7, 8, 9, 11]
+  details.agency_types: [1, 4, 5, 7, 8, 9]
+  details.case_stage: [1, 3, 4, 5, 6, 11]
   details.products: [1, 4, 5]
+  details.setting: [1, 3, 4, 6, 5, 7]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e342c649641b4a7f62bd25022aab2745

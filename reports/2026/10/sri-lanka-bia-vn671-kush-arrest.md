@@ -21,10 +21,12 @@ figures:
   value: { amount: 51000000, currency: LKR }
 created_by_model: unknown
 details:
+  agency_types: [customs, police]
   setting: [airport]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

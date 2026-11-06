@@ -15,11 +15,17 @@ figures:
   arrested: 3
   charged: 3
 details:
+  activity: [trafficking]
   agencies: [us-fbi]
   agency_types: [police]
+  case_stage: charged
+  products: [{product: flower}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0ebd9e65a705a7ace70dd93e4cb47075

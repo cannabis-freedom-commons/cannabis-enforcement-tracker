@@ -29,11 +29,17 @@ media:
     caption: Security personnel work among burning cannabis plants in the Dulunga cultivation area
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [in-bsf]
   agency_types: [border-guard]
+  products: [{product: plants, plants: 500000}]
+  setting: [forest]
 data_sources:
+  details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [tripura, dulunga, sonamura]
 open_questions:

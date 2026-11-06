@@ -16,9 +16,11 @@ figures:
   arrested: 5
   kg_seized: 6.84
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

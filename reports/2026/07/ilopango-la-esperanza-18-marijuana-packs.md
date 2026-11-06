@@ -25,9 +25,13 @@ media:
     publisher: Infobae
     caption: 'Police handout photo related to the operation in comunidad La Esperanza that seized marijuana, two digital scales and two mobile phones. Photo: Policía Nacional Civil via Infobae'
 details:
+  activity: [trafficking]
+  agency_types: [police, court]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2, 4, 3]
+  details.agency_types: [4, 1, 2, 3]
   details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

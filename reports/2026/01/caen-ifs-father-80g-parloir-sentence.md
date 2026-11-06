@@ -19,10 +19,14 @@ figures:
   kg_seized: 0.0806
   prison: 8 months
 details:
+  activity: [trafficking]
+  case_stage: sentenced
   setting: [prison]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

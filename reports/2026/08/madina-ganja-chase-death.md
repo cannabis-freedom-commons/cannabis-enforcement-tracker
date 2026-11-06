@@ -24,9 +24,11 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  case_stage: investigation
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
 status: verified
 tags: [bnn, madina, panyabungan]
 open_questions:

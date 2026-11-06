@@ -20,9 +20,11 @@ created_by_model: meta/muse-spark
 details:
   agencies: [us-cbp]
   agency_types: [customs]
+  products: [{product: flower, kg: 907}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [cbp, border-patrol, tucson-sector]
 open_questions:

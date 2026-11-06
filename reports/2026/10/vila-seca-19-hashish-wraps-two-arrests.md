@@ -21,9 +21,13 @@ media:
     publisher: Diari de Tarragona
     caption: 'A Policia Local de Vila-seca patrol car and an officer at a night-time static checkpoint in Vila-seca, the control at which the two men were arrested. Photo: Policia Local de Vila-seca'
 details:
+  activity: [trafficking, sale]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

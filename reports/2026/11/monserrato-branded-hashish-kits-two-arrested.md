@@ -24,8 +24,10 @@ media:
 details:
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c141ed6ee024ceaa6bbca33b3001d8af

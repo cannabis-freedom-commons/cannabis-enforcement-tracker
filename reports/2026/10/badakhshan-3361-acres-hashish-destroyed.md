@@ -15,9 +15,13 @@ summary: >-
   growers of stern action against poppy, hashish and other illegal crops.
 figures: {}
 details:
+  activity: [cultivation]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

@@ -18,16 +18,20 @@ figures:
   kg_seized: 2000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
   route: {from: [ma], to: [br]}
+  setting: [vehicle, home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
   details.route: [1]
+  details.setting: [1]
 status: verified
 tags: [hashish, fortim, transatlantic-route]
 sources:

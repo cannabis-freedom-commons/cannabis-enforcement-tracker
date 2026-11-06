@@ -23,9 +23,15 @@ media:
 details:
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.769}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 3]
+  details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4c63e5ff62d650176f72e3d046501f72

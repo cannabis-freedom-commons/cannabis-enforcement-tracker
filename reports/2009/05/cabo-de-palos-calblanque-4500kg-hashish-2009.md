@@ -19,9 +19,13 @@ figures:
 details:
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
+  case_stage: investigation
+  products: [{product: hashish, kg: 4500}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cabo-de-palos]

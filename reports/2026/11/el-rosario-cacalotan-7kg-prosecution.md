@@ -16,11 +16,19 @@ figures:
   charged: 1
   kg_seized: 7.708
 details:
+  activity: [possession]
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  case_stage: charged
+  products: [{product: flower, kg: 7.708}]
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8be436cace6692c9e507ba9eaff0efc7

@@ -24,10 +24,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 33e328f1780f86e73cf5d9255510979d

@@ -15,11 +15,15 @@ figures:
   arrested: 28
   kg_seized: 844
 details:
+  activity: [trafficking]
   agencies: [dz-anp]
   agency_types: [military]
+  products: [{product: hashish, kg: 844}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b1b55067b002cebf600dff5820352cfe

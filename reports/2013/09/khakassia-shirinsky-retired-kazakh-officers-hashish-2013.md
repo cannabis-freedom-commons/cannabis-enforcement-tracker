@@ -24,11 +24,15 @@ media:
     caption: 'Photo of the seized smuggled hashish. Photo: r-19.ru'
 details:
   activity: [smuggling]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
   details.activity: [2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4272c45353711d2910ff6494db5ea147

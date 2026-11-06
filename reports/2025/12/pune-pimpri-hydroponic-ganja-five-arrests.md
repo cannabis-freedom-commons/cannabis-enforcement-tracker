@@ -15,9 +15,17 @@ figures:
   arrested: 5
   kg_seized: 1.194
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: hashish, kg: 1.194}, {product: flower}]
 data_sources:
+  details.activity: [3, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.environment: [2]
+  details.products: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 800503725dfec7bb3e67ba020f6ba306

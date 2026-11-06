@@ -21,9 +21,17 @@ figures:
   kg_seized: 0.08
 created_by_model: cursor/composer-2.5
 details:
+  activity: [sale]
+  agency_types: [gendarmerie, police, prosecutor]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: plants, plants: 34}]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1, 2]
+  details.products: [1]
 status: verified
 tags: [diicot, mehedinti, indoor, trafficking]
 open_questions:

@@ -20,10 +20,14 @@ details:
   agencies: [lk-pnb]
   agency_types: [anti-narcotics]
   activity: [cultivation]
+  case_stage: investigation
+  products: [{product: plants, plants: 36710}]
 data_sources:
   details.activity: [1, 2, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a2b85958ea56c18e6f1d0b7720c4a603

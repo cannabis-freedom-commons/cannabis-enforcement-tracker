@@ -22,15 +22,19 @@ media:
     publisher: Polícia Militar do Distrito Federal
     caption: Lead photo on the PMDF page for this Paranoá seizure report
 details:
+  activity: [cultivation]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [field, home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 94dfd8c787ddb7c1babe295ef739b5e0

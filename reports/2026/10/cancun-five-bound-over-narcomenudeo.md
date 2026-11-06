@@ -23,10 +23,14 @@ media:
     caption: 'The five accused on the sheet issued by the Quintana Roo prosecutor''s office (FGE): Alberto “N”, Miguel “N”, Francisco Javier “N”, Luis Gerardo “N” and Luis Alberto “N”. Photo: FGE Quintana Roo'
 details:
   activity: [sale]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

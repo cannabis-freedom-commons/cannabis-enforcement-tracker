@@ -20,9 +20,13 @@ media:
     publisher: Новости Приднестровья
     caption: 'Police evidence photo of the dried, crushed cannabis taken in the case, laid on paper beside a ruler. Photo: МВД ПМР (Transnistrian Interior Ministry)'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

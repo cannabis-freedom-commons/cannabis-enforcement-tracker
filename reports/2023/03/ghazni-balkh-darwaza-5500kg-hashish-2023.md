@@ -26,9 +26,13 @@ media:
     publisher: Islamic Emirate of Afghanistan (Al-Emara English)
     caption: 'Photo published with the interior ministry''s statement on the case, described only by the article headline as the seizure of more than five tons of drugs in Ghazni. Photo: Ministry of Interior, via Al-Emara English'
 details:
+  agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

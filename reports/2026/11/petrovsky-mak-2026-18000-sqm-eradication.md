@@ -14,9 +14,13 @@ summary: >-
 figures:
   hectares: 1.8
 details:
+  activity: [cultivation]
+  agency_types: [police]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.environment: [1]
   details.setting: [1]
 status: verified

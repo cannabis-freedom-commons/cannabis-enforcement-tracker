@@ -21,10 +21,14 @@ media:
     publisher: Prabhat Khabar
     caption: Police photo of the seized country-made pistol with arrested accused in the Jhajha triple raid
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5e4b9981e857a889a4a1710a0e3801c6

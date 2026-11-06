@@ -16,11 +16,13 @@ figures:
   arrested: 1
   kg_seized: 1.046
 details:
+  activity: [trafficking]
   agencies: [in-excise]
   agency_types: [regulator]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [3]
   details.agency_types: [3]
   details.products: [1, 2]

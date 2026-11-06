@@ -17,10 +17,14 @@ summary: >-
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling]
+  agency_types: [customs]
   route: {from: [gh], to: [gb]}
+  setting: [airport, mail]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.route: [1]
+  details.setting: [1]
 status: verified
 tags: [kotoka, ceps, nacob, export, uk-route]
 open_questions:

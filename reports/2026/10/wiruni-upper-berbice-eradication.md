@@ -21,8 +21,12 @@ figures:
   value: { amount: 26832112, currency: GYD }
 details:
   activity: [cultivation]
+  products: [{product: flower, kg: 18.14}, {product: plants, plants: 37000}]
+  setting: [field]
 data_sources:
   details.activity: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 media:

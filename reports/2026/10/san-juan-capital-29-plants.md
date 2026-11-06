@@ -15,8 +15,10 @@ summary: >-
 figures:
   plants_destroyed: 29
 details:
+  agency_types: [police, prosecutor]
   setting: [home]
 data_sources:
+  details.agency_types: [1, 2, 3]
   details.setting: [1, 2, 3]
 status: reported
 created_by_model: xai/grok-4.7#low

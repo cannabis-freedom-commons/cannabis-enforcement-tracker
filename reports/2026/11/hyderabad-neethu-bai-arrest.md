@@ -30,14 +30,20 @@ media:
     publisher: Hyderabad Mail
     caption: Lead image captioned “Eagle Force Operation Leading To The Arrest Of Alleged Ganja Network Operator Neethu Bai In Hyderabad”; no photo credit given.
 details:
+  activity: [trafficking]
   agencies: [in-excise, in-eagle]
   agency_types: [regulator, anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [3]
   details.products: [1]
+  details.setting: [3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 343c0bdf042911055e8046cc445623f8

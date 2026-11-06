@@ -15,9 +15,13 @@ figures:
   arrested: 68
   kg_seized: 1143
 details:
+  agency_types: [prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [2, 1]
   details.products: [1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1]

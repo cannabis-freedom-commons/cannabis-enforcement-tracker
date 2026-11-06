@@ -20,9 +20,13 @@ media:
     publisher: Amar Ujala
     caption: The seized narcotics from the 138 NDPS cases, in the lead image of Amar Ujala's video report on the disposal.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

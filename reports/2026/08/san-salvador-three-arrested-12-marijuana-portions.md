@@ -20,10 +20,18 @@ media:
     publisher: Diario El Mundo
     caption: 'Photograph shared by Security Minister Gustavo Villatoro showing the three detainees and the marijuana seized in the San Salvador house raid. Photo: Gustavo Villatoro via Diario El Mundo'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [2, 4, 1, 3]
+  details.agency_types: [1, 3, 2, 4]
+  details.case_stage: [1, 3, 2]
   details.products: [2]
+  details.setting: [1, 3, 2, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ecba81eff1708671d6b500ea81cf3506

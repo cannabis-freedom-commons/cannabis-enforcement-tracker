@@ -21,9 +21,19 @@ media:
     publisher: Aktuality.sk
     caption: 'Cannabis plants in a police photograph published with the case announcement. Photo: Polícia SR – Trenčiansky kraj via Aktuality.sk'
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
   environment: [greenhouse]
+  products: [{product: plants}, {product: seeds}]
+  setting: [home]
 data_sources:
+  details.activity: [2]
+  details.agency_types: [2, 1]
+  details.case_stage: [2]
   details.environment: [1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ilava, greenhouse, personal-use, cannabis]

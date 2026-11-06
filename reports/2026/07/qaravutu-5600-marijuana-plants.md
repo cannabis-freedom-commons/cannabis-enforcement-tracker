@@ -19,8 +19,14 @@ media:
     publisher: fijivillage
     caption: A photo published with fijivillage's report and credited to the Fiji Police Force; the page gives no caption.
 details:
+  activity: [cultivation, possession]
+  agency_types: [police]
+  products: [{product: flower}]
   setting: [farm]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: deepseek/deepseek-v4-flash-vision-exp#max

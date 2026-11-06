@@ -20,8 +20,14 @@ media:
     publisher: Procuraduría General de la Nación
     caption: 'Handout montage and text marking the drug seizures reported for 7–14 September 2025, including the Mojave courier-trafficking case. Photo: Procuraduría General de la Nación (Panama)'
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  products: [{product: flower}]
   setting: [mail]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.products: [1]
   details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

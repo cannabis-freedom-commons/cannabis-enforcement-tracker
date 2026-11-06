@@ -17,11 +17,13 @@ figures:
   kg_seized: 3240
   arrested: 1
 details:
+  activity: [trafficking]
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

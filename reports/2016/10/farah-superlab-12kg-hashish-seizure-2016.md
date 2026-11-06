@@ -20,9 +20,11 @@ media:
     publisher: ABC News
     caption: 'Drugs seized in the October joint operation in Farah province. Photo: Drug Enforcement Administration'
 details:
+  activity: [trafficking]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
   details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

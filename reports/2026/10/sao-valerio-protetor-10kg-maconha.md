@@ -27,9 +27,11 @@ media:
     publisher: Bico 24 Horas
     caption: 'Civil police during the integrated search that served seven warrants in São Valério da Natividade. Photo: Polícia Civil'
 details:
+  activity: [trafficking, possession]
   agencies: [br-pm]
   agency_types: [gendarmerie]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
 status: verified

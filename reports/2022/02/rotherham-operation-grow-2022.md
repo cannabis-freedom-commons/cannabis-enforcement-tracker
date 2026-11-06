@@ -20,9 +20,15 @@ figures:
   value: { amount: 6800000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
+  agency_types: [police]
   environment: [indoor]
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [operation-grow, indoor-grow, rotherham, organised-crime]
 media:

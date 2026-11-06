@@ -16,9 +16,11 @@ figures:
   charged: 7
   kg_seized: 2.12039
 details:
+  activity: [trafficking, possession]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2, 3]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

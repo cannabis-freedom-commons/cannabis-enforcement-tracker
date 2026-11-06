@@ -16,11 +16,15 @@ figures:
   arrested: 1
   kg_seized: 0.2
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e9189206258eadb4d1fc2dd840677217

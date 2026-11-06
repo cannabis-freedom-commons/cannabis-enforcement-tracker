@@ -25,11 +25,17 @@ media:
     publisher: Rajasthan News 24
     caption: Police uproot cannabis and hemp plants in a field, and cannabis plants growing among maize.
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
     - {product: edibles}
+  setting: [home]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [udaipur, rajasthan, ganja, bhang, mandwa]

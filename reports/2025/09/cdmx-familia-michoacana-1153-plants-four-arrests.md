@@ -32,13 +32,21 @@ media:
     publisher: Infobae
     caption: 'Video report on the criminal marijuana network operating in Mexico City and the four detentions. Video: SSC via Infobae'
 details:
+  activity: [cultivation]
   agencies: [mx-gn]
   agency_types: [gendarmerie]
+  case_stage: investigation
   environment: [greenhouse]
+  products: [{product: flower, kg: 35}, {product: plants, plants: 1153}]
+  setting: [home, building]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.environment: [1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2c5663e5ddf19ff567d68573156e24ae

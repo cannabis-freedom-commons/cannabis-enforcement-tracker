@@ -27,11 +27,17 @@ media:
     caption: Cordillera police uprooted marijuana plants in Barangay Loccong, Tinglayan, Kalinga during a raid
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 240000}]
+  setting: [field, forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [kalinga, tinglayan, pnp, pdea]
 sources:

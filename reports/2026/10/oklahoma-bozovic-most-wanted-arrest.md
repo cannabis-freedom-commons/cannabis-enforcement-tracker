@@ -27,8 +27,14 @@ media:
     caption: 'KFOR''s 18-second video report on the arrest, built around a ''Captured'' graphic of Mihailo Bozovic. Video: KFOR'
 details:
   activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [1, 3, 7]
+  details.agency_types: [2, 4, 6, 7, 3, 1]
+  details.case_stage: [2, 4, 6, 7, 3, 1]
+  details.products: [3, 7, 1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [oklahoma, most-wanted, trafficking, fugitive, illinois]

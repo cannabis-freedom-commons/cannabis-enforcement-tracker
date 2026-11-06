@@ -15,14 +15,18 @@ figures:
   arrested: 3
   kg_seized: 15.872
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1, 3, 2, 4]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.products: [1, 2, 4]
+  details.setting: [1, 2, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 22ad87e80b88fe2ffd69a0fae2828a55

@@ -21,12 +21,16 @@ figures:
 details:
   agencies: [ru-fsb]
   agency_types: [police]
+  case_stage: sentenced
+  products: [{product: oil, kg: 100}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
+  details.products: [1, 2]
   details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5

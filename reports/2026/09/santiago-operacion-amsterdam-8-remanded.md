@@ -14,11 +14,19 @@ summary: >-
 figures:
   arrested: 72
 details:
+  activity: [trafficking, cultivation]
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [vehicle, home]
 data_sources:
+  details.activity: [3, 4, 2]
   details.agencies: [4]
   details.agency_types: [4]
+  details.case_stage: [1, 3, 4, 2]
+  details.products: [4]
+  details.setting: [3, 1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: eb7d0e6315b1937a9feece1748cc5aaf

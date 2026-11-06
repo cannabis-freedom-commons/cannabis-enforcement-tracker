@@ -21,12 +21,14 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: investigation
   setting: [building]
   products:
     - {product: hashish}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1]
 status: verified

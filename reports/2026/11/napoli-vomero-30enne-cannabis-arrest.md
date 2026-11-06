@@ -15,14 +15,18 @@ figures:
   arrested: 1
   kg_seized: 0.444
 details:
+  activity: [possession]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 4, 5, 6, 7, 3]
   details.agencies: [1, 4, 5, 6, 7]
   details.agency_types: [1, 4, 5, 6, 7]
   details.products: [2, 3, 4, 5, 6, 7]
+  details.setting: [1, 4, 5, 6, 7, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: eecbb5ec01b734315ac6c96da2ca37ab

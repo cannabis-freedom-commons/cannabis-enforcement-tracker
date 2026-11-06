@@ -14,9 +14,17 @@ summary: >-
   Europe.
 created_by_model: unknown
 details:
+  activity: [smuggling]
+  case_stage: investigation
+  products: [{product: hashish}]
   route: {from: [ma], to: [sn]}
+  setting: [port]
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.route: [1]
+  details.setting: [1]
 status: verified
 cfi_id: senegal-dakar-resin-seizure-2000
 sources:

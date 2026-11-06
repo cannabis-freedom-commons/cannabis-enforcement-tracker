@@ -17,14 +17,20 @@ figures:
   plants_destroyed: 100
   kg_seized: 25
 details:
+  activity: [trafficking]
   agencies: [cz-npc]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [hashish, cannabis-grow, czechia, slovakia, vivaldi]

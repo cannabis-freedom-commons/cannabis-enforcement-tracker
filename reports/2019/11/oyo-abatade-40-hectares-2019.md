@@ -19,11 +19,17 @@ figures:
   hectares: 40
 created_by_model: meta/muse-spark
 details:
+  activity: [cultivation]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2, 1]
+  details.setting: [1, 2]
 status: verified
 tags: [ndlea, oyo, hemp-plantation]
 sources:

@@ -24,9 +24,11 @@ figures:
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  case_stage: investigation
 data_sources:
   details.agencies: [3, 4]
   details.agency_types: [3, 4]
+  details.case_stage: [1, 2, 3, 4]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags:

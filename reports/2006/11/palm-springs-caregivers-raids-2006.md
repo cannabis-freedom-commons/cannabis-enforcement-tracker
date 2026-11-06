@@ -17,11 +17,13 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   activity: [sale]
+  products: [{product: flower}, {product: edibles}]
   setting: [shop]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.products: [1, 3, 2]
   details.setting: [1, 2]
 status: verified
 tags: [dea, dispensary, palm-springs]

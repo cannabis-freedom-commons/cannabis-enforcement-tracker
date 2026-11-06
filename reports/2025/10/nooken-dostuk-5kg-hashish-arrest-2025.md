@@ -36,10 +36,12 @@ media:
     publisher: ELTR Кыргызстан
     caption: 'Landscape photo of the packages laid out on the ground at the detention site. Photo: ELTR, published without a separate credit'
 details:
+  case_stage: investigation
   setting: [border]
   products:
     - {product: hashish}
 data_sources:
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2]
   details.setting: [1, 3]
 status: verified

@@ -30,14 +30,18 @@ media:
     publisher: Dainik Bhaskar
     caption: Dainik Bhaskar video report on the seizure of ganja worth 30.25 lakh rupees and the driver's arrest in Sonbhadra (27 seconds).
 details:
+  activity: [smuggling]
   agencies: [in-anf]
   agency_types: [anti-narcotics]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [3, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 32d61a88bc37d03ee44a4105a6e95db2

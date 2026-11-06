@@ -16,6 +16,7 @@ figures:
   vehicles: 1
   kg_seized: 29.572
 details:
+  activity: [trafficking]
   agencies: [ar-gna]
   agency_types: [gendarmerie]
   products:
@@ -25,6 +26,7 @@ details:
   date_precision: approximate
   region: Corrientes
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

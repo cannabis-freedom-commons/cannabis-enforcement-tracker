@@ -20,10 +20,14 @@ figures:
     amount: 2636.73
     currency: EUR
 details:
+  agency_types: [police, court]
+  case_stage: sentenced
   setting: [prison]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 6, 2, 4, 5, 3]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]
 status: reported

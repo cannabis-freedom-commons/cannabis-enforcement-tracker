@@ -21,8 +21,14 @@ media:
     publisher: CR Hoy
     caption: The article's photo for the Osa seizure, captioned only 'Decomiso de droga en Osa' (drug seizure in Osa); no photo credit was published.
 details:
+  agency_types: [coast-guard]
+  case_stage: investigation
+  products: [{product: flower, kg: 1196}]
   setting: [port]
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [1]
+  details.products: [1, 2]
   details.setting: [2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh

@@ -14,8 +14,10 @@ summary: >-
 figures:
   kg_seized: 2000
 details:
+  agency_types: [police]
   environment: [wild]
 data_sources:
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

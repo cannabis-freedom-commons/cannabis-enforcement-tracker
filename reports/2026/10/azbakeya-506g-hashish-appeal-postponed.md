@@ -21,10 +21,16 @@ figures:
     amount: 200000
     currency: EGP
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fdb93cbb6c43d54fa0de34f54548b1cc

@@ -28,11 +28,15 @@ media:
     publisher: Barrie 360
     caption: 'Items seized in the Midland search laid out in front of a Southern Georgian Bay OPP bag. Photo: Southern Georgian Bay OPP via Barrie 360'
 details:
+  activity: [trafficking]
   agencies: [ca-opp]
   agency_types: [police]
+  case_stage: charged
 data_sources:
+  details.activity: [2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: c72dc1de33851a0d18222b470837a7fd

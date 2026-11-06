@@ -20,10 +20,16 @@ media:
     publisher: MOST Media
     caption: 'Screenshot from a State Border Committee of Belarus video of the detention at the Brest checkpoint. Screenshot: MOST, from state border committee video'
 details:
+  activity: [trafficking]
+  agency_types: [border-guard]
+  case_stage: investigation
   setting: [border]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [3, 1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
   details.products: [1]
   details.setting: [1, 2, 3]
 status: verified

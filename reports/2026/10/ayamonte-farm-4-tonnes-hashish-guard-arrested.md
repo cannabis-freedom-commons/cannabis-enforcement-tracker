@@ -22,14 +22,18 @@ media:
     publisher: La Razón
     caption: 'Still from a Policía Nacional video at the moment of the drug seizure at the Ayamonte farm. Photo: La Razón / Policía Nacional'
 details:
+  activity: [trafficking, possession]
   agencies: [es-policia-nacional]
   agency_types: [police]
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2b9c03f03f813ce5805ffffea51042c7

@@ -20,13 +20,17 @@ figures:
   plants_destroyed: 3982
 created_by_model: openai/gpt-6-luna#max
 details:
+  activity: [trafficking, cultivation]
   agencies: [es-mossos]
   agency_types: [police]
   environment: [outdoor]
+  setting: [field, home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [mossos, tarragona, outdoor-grow]
 open_questions:

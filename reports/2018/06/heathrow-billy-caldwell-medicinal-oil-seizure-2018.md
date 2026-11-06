@@ -15,9 +15,13 @@ summary: >-
   returned to his hospital on 16 June.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  products: [{product: oil}]
   route: {from: [ca], to: [gb]}
+  setting: [airport]
 data_sources:
+  details.products: [1]
   details.route: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [medicinal, border-force]
 sources:

@@ -16,10 +16,14 @@ figures:
   arrested: 1
   kg_seized: 1.392
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9cd447616843e3b75bed7fa362510b48

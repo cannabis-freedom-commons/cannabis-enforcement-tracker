@@ -53,9 +53,11 @@ media:
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  case_stage: investigation
 data_sources:
   details.agencies: [2, 8, 10, 12, 15, 16, 17, 19]
   details.agency_types: [2, 8, 10, 12, 15, 16, 17, 19]
+  details.case_stage: [2, 11, 15, 12, 16, 17]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: ca67fd42a2c986eb5166821e73e32865

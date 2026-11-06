@@ -20,9 +20,15 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 9.07}]
+  setting: [home]
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [2, 1, 3]
+  details.products: [1, 3, 2]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [medical-marijuana, dea, patient-records]
 open_questions:

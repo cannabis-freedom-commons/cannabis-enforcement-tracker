@@ -41,10 +41,16 @@ media:
     caption: R100 notes seized in the case, laid out on a table.
 created_by_model: command-code/deepseek/deepseek-v4.1-flash#max
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: investigation
   setting: [vehicle]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

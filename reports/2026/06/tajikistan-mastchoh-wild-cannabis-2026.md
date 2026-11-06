@@ -17,11 +17,15 @@ figures:
   kg_seized: 48
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 4000}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
   details.environment: [1]
+  details.products: [1, 2]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

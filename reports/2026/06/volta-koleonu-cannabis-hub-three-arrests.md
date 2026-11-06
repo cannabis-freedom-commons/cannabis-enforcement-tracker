@@ -18,11 +18,17 @@ summary: >-
 figures:
   arrested: 3
 details:
+  activity: [cultivation]
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
+  products: [{product: hashish}, {product: oil}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [nacoc, volta, hashish-oil, edibles]

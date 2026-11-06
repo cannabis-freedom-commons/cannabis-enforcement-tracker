@@ -20,9 +20,11 @@ figures:
     amount: 136160
     currency: INR
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

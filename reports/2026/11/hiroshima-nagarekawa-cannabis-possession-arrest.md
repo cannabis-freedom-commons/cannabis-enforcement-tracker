@@ -15,8 +15,10 @@ figures:
   arrested: 1
 details:
   activity: [possession]
+  agency_types: [police]
 data_sources:
   details.activity: [2, 4]
+  details.agency_types: [1, 2, 4, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ae874677aec3f9dcf554419dc028fbba

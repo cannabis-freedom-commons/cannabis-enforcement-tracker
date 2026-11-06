@@ -21,10 +21,16 @@ media:
     publisher: APAnews - Agence de Presse Africaine
     caption: Photo of the 32 kg hashish seizure at Blaise Diagne airport.
 details:
+  activity: [trafficking]
+  agency_types: [customs, police, prosecutor]
   products:
     - {product: hashish}
+  setting: [airport]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0d559da57e8d62e7c851c77d2715fdd5

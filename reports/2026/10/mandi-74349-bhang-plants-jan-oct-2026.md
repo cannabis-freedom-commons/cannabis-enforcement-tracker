@@ -17,10 +17,14 @@ figures:
   plants_destroyed: 74349
   kg_seized: 10.414
 details:
+  activity: [cultivation]
+  agency_types: [police]
   products:
     - {product: hashish}
     - {product: edibles}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

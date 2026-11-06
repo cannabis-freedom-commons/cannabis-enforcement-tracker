@@ -18,12 +18,16 @@ figures:
   kg_seized: 31
   prison: 2 years
 details:
+  activity: [trafficking, possession]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

@@ -18,9 +18,15 @@ figures:
 details:
   agencies: [cz-npc]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
+  products: [{product: plants}]
+  setting: [vehicle, prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [slany, kladno, organised-crime, indoor-grow, cannabis]

@@ -21,9 +21,15 @@ figures:
   charged: 1
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking]
+  agency_types: [police]
   environment: [indoor]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [dugo-selo, zagreb-county, indoor]
 open_questions:

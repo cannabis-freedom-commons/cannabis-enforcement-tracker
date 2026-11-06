@@ -19,11 +19,17 @@ figures:
   kg_seized: 1.34
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
+  setting: [border, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [death-sentence, appeal, kranji, mandatory-death-penalty]
 sources:

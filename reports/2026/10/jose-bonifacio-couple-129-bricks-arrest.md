@@ -21,11 +21,17 @@ media:
     publisher: Band
     caption: Police photo of the seizure credited to the Military Police.
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 047c58276ef446f3d4dbad9e1ea44ef6

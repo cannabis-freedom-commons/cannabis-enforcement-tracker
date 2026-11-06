@@ -41,14 +41,20 @@ media:
     publisher: Diário Goianiense
     caption: 'Photo published with the Diário Goianiense report of the 3.5-tonne skunk seizure on the BR-153. Credit on the page: A Redação, com informações da PRF e PCDF; FONTE/CRÉDITOS: Glaucio teixeira.'
 details:
+  activity: [trafficking]
   agencies: [br-prf]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 5, 15, 2, 3, 4]
   details.agencies: [1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 15, 16]
   details.agency_types: [1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 15, 16]
+  details.case_stage: [2, 3, 4, 6, 7, 9]
   details.products: [1, 2, 3, 4, 6, 7, 9, 10, 11, 12, 15, 16]
+  details.setting: [2, 3, 4, 6, 7, 9]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 0d5434a64ecbbb6b8828a23255faa9fa

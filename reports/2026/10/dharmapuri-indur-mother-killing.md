@@ -22,9 +22,11 @@ media:
     publisher: Thanthi TV
     caption: 'Thanthi TV video report on the killing of Chinnapappa in Indur and the arrest of her son Devaraj. Video: Thanthi TV'
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 5, 6, 7, 2, 3]
   details.products: [1, 3, 6]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

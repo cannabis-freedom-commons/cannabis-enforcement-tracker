@@ -22,10 +22,16 @@ media:
     publisher: Dainik Bhaskar
     caption: 'An arrested suspect in police custody after the charas seizure near Tandi. Photo: Dainik Bhaskar'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [border]
 data_sources:
+  details.agency_types: [2, 1, 3, 4]
+  details.case_stage: [2]
   details.products: [1, 2]
+  details.setting: [2, 1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b7341d12c3c2016f0920a1cb38b7aaee

@@ -19,11 +19,19 @@ figures:
   plants_destroyed: 600
   value: { amount: 600000, currency: CAD }
 details:
+  activity: [sale]
   agencies: [ca-rcmp]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 600}]
+  setting: [home]
 data_sources:
+  details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [grow-op, forfeiture]
 open_questions:

@@ -15,10 +15,16 @@ figures:
   arrested: 5
   kg_seized: 0.2
 details:
+  activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 2a9fc350336be92bddfa23376d8ff285

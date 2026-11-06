@@ -23,10 +23,16 @@ figures:
     amount: 4000000
     currency: EUR
 details:
+  activity: [smuggling]
+  agency_types: [customs, court]
+  case_stage: sentenced
   setting: [vehicle]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2, 4]
+  details.agency_types: [2, 1, 3, 4]
+  details.case_stage: [2, 1]
   details.products: [1, 3, 4]
   details.setting: [1, 2, 4]
 status: verified

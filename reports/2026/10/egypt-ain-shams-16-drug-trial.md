@@ -14,9 +14,15 @@ summary: >-
 figures:
   charged: 16
 details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor, court]
+  case_stage: charged
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

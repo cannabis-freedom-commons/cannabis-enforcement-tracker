@@ -20,11 +20,17 @@ figures:
   charged: 6
   value: { amount: 7900000, currency: CAD }
 details:
+  activity: [cultivation, possession]
   agencies: [ca-opp]
   agency_types: [police]
+  case_stage: charged
+  products: [{product: plants}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [opp, napanee, grow-op, cannabis-act]

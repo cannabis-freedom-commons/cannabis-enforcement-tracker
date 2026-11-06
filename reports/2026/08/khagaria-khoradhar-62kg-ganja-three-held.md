@@ -25,10 +25,18 @@ media:
     publisher: Prabhat Khabar
     caption: 'Packets of ganja recovered by police in Maheshkhunt, Khagaria. Photo: Prabhat Khabar Network'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1, 3, 4, 2]
+  details.agency_types: [1, 3, 4, 2]
+  details.case_stage: [1]
   details.products: [1, 2, 4]
+  details.setting: [3, 4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b5f64d06991983e97fb37dc0856bcdff

@@ -26,12 +26,14 @@ details:
   products:
     - {product: hashish}
   route: {from: [lb], to: [ly], crossing: 'via Lomé and Agadez'}
+  setting: [port, border, vehicle]
 data_sources:
   details.activity: [1, 2, 3, 5]
   details.agencies: [1, 5]
   details.agency_types: [1, 5]
   details.products: [1, 2, 3, 4, 5, 6]
   details.route: [2, 4]
+  details.setting: [1, 2, 5, 4, 6, 3]
 status: verified
 tags: [hashish, resin, record-seizure, trafficking]
 sources:

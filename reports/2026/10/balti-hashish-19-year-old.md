@@ -18,10 +18,14 @@ media:
     publisher: СП
     caption: 'Carabinieri photo published with the Bălți and Edineț drug stops, including a plant substance described as looking like hashish. Photo: carabinieri, via СП.'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low

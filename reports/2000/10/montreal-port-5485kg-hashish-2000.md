@@ -16,10 +16,14 @@ figures:
   kg_seized: 5485
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
+  agency_types: [customs, police]
   setting: [port]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

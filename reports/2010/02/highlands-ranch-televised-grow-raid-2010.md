@@ -20,9 +20,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}]
+  setting: [prison]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [medical-marijuana, dea, caregiver]
 open_questions:

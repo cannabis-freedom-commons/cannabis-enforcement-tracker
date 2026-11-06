@@ -26,11 +26,13 @@ created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
 details:
   agencies: [fr-douane]
   agency_types: [customs]
+  products: [{product: hashish, kg: 2562}]
   setting: [port]
   route: {from: [sn], to: [ly]}
 data_sources:
   details.agencies: [1, 2, 6]
   details.agency_types: [1, 2, 6]
+  details.products: [1, 2, 3, 4, 6, 5]
   details.route: [1, 2, 3, 4, 6, 5]
   details.setting: [1, 2, 3, 4, 5, 6]
 status: verified

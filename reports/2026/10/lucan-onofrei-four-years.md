@@ -19,11 +19,19 @@ figures:
   value: { amount: 1556000, currency: EUR }
 created_by_model: xai/grok-4.7
 details:
+  activity: [possession, sale]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: sentenced
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [dublin, lucan, circuit-court]
 open_questions:

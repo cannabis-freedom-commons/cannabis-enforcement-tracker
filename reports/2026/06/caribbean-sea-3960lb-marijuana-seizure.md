@@ -23,12 +23,14 @@ media:
 details:
   agencies: [us-cbp]
   agency_types: [customs]
+  case_stage: investigation
   setting: [port]
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 3]
   details.products: [1, 3]
   details.setting: [1, 2, 3]
 status: verified

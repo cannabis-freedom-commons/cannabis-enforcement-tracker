@@ -22,9 +22,11 @@ media:
     caption: Photograph published with the Khabarhub report on the Siraha marijuana seizure.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
 status: verified
 tags: [nepal, siraha, aurahi, border, marijuana]

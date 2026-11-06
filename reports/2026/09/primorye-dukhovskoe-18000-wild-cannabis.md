@@ -23,9 +23,15 @@ media:
     publisher: Вести.ru
     caption: 'Wild cannabis eradication near Dukhovskoye, reported 28 September 2026. Photo: Primorye Interior Ministry, via Vesti.ru'
 details:
+  activity: [cultivation]
+  agency_types: [police]
   environment: [wild]
+  products: [{product: plants, plants: 18000}]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.environment: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [primorye, dukhovskoye, mak-2026, wild-cannabis, russia]

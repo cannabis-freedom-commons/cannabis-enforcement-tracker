@@ -16,10 +16,14 @@ figures:
     amount: 36000000
     currency: COP
 details:
+  agency_types: [police, prosecutor]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 345481acfa741e6d98282361b823e594

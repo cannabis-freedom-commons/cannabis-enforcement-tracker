@@ -20,11 +20,15 @@ figures:
   kg_seized: 1000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking, possession]
   agencies: [ca-cbsa]
   agency_types: [customs]
+  products: [{product: hashish, kg: 1000}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [project-icarus, halton, record-seizure]
 media:

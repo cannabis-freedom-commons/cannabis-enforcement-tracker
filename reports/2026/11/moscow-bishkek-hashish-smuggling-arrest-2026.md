@@ -46,11 +46,17 @@ media:
     caption: 'Federal Customs Service photograph of another item used to conceal the shipment. Photo: ФТС РФ'
 details:
   activity: [smuggling]
+  agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 4, 5, 2, 3]
+  details.case_stage: [1, 4, 5, 2, 3]
   details.products: [1, 2]
+  details.setting: [2, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 67c80ccb3e54c19541125a14e94119b8

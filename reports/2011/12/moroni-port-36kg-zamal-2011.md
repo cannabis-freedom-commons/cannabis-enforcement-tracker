@@ -20,8 +20,12 @@ media:
     publisher: HabarizaComores
     caption: Photo published with the 12 December 2011 reprint of the Albalad report on the 36 kg of zamal seized at Moroni port.
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, prosecutor]
   setting: [port]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

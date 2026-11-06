@@ -19,10 +19,18 @@ figures:
   deaths: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
   products:
     - {product: oil}
+  setting: [home, mail]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [st-james, hash-oil, firearms]
 open_questions:

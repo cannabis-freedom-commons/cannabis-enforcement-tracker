@@ -17,12 +17,16 @@ figures:
   deaths: 1
 created_by_model: anthropic/opus-5.5
 details:
+  activity: [trafficking]
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
+  case_stage: executed
   setting: [mail]
 data_sources:
+  details.activity: [1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
   details.setting: [1]
 status: verified
 tags: [death-penalty, mandatory-sentence, courier]

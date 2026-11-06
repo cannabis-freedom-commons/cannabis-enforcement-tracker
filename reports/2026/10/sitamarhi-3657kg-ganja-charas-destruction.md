@@ -25,10 +25,14 @@ media:
     publisher: Sitamarhi Police
     caption: 'Sitamarhi Police video posted with its 29 October statement on the ganja and charas destruction. Credit: Sitamarhi Police'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low

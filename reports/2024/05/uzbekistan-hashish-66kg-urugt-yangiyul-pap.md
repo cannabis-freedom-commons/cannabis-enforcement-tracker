@@ -27,10 +27,14 @@ media:
     caption: 'Drugs seized from a suspect, in a photo released by the State Security Service press service. Photo: State Security Service of Uzbekistan, via Sputnik Таджикистан'
 details:
   activity: [smuggling]
+  agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh

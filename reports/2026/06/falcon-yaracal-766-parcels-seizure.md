@@ -21,10 +21,16 @@ media:
     publisher: El Nacional
     caption: 'Cargo found in the truck described as humanitarian aid. Photo: cortesía'
 details:
+  agency_types: [prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [border, vehicle, mail]
 data_sources:
+  details.agency_types: [1, 3]
+  details.case_stage: [2, 1, 3]
   details.products: [1, 3]
+  details.setting: [2, 1, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 632783ac6e68a4e8903f58f0afd902d5

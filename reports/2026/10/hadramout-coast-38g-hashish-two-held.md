@@ -16,9 +16,13 @@ figures:
   arrested: 2
   kg_seized: 0.038
 details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low

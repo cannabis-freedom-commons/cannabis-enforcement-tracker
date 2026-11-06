@@ -26,10 +26,18 @@ media:
     publisher: НИАТ «Ховар»
     caption: 'Second security service handout photo, placed beside the passage on the 139 parcels found in the suspect''s BYD car and the 41 parcels found nearby. Photo: State Committee for National Security, published by NIAT Khovar'
 details:
+  activity: [smuggling]
+  agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [mail]
 data_sources:
+  details.activity: [3, 1, 2]
+  details.agency_types: [2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [2]
+  details.setting: [3, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b00d25f6a8bc98fd59c2ccae2583a304

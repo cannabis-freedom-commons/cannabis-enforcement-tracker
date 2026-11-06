@@ -22,10 +22,18 @@ figures:
   value: { amount: 25000000, currency: SEK }
 created_by_model: spacexai/grok-4.7
 details:
+  activity: [smuggling]
+  agency_types: [customs]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [malmo, tullverket, hashish]
 open_questions:

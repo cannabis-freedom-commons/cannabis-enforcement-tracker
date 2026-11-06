@@ -19,14 +19,18 @@ media:
     publisher: Correio Braziliense
     caption: 'PMDF handout photo of the Paranoá house search during which no resident was found. Photo: Divulgação/PMDF'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 88725b7d939b7bd6c1aaeef8b179d421

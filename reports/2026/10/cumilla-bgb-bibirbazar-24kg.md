@@ -27,12 +27,16 @@ media:
     publisher: Jugantor
     caption: 'Seized drugs, shown with Jugantor''s caption that their estimated market value was Tk 51,30,800. Photo: Jugantor'
 details:
+  activity: [smuggling, trafficking]
   agencies: [bd-bgb]
   agency_types: [border-guard]
+  case_stage: investigation
   setting: [border]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low

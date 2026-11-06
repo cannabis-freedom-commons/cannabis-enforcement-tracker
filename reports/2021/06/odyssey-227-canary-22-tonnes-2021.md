@@ -27,14 +27,18 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [ma], crossing: 'Atlantic off Canary Islands, toward West Africa'}
+  setting: [port]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [odyssey-227, atlantic-route, trawler, hashish]
 sources:

@@ -30,10 +30,16 @@ media:
     publisher: Domažlický deník
     caption: Miroslav H. with his defence counsel at the District Court in Domažlice.
 details:
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 12888300ca27fb2bf91e9401844c3156

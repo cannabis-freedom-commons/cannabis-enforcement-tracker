@@ -18,10 +18,18 @@ figures:
     amount: 700000
     currency: MDL
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1]
   details.products: [2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2d3a9a16f14cfdd4e5f64b833a59d0f9

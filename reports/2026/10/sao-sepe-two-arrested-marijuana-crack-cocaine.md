@@ -22,11 +22,15 @@ media:
     caption: 'Police handout photo of the cash, mobile phone and drug portions seized in the arrests in São Sepé. Photo: Polícia Civil (PC), divulgação'
 details:
   activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 1]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 97a544609b1bb5b9d1611360a4a99515

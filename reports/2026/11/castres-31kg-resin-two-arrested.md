@@ -36,10 +36,18 @@ media:
     publisher: La Semaine des Pyrénées
     caption: 'Seized cannabis, cash and weapons from the Petit Train–Laden operation. Photo: gendarmerie du Tarn'
 details:
+  activity: [trafficking, possession]
+  agency_types: [gendarmerie, police, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 1, 3, 4, 6]
+  details.agency_types: [1, 4, 6, 2, 5, 3]
+  details.case_stage: [2, 3, 6]
   details.products: [1, 4, 6]
+  details.setting: [2, 3, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ba87c356c0798b2fcdced496cb8ee21b

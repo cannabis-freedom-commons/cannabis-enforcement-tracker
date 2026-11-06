@@ -27,10 +27,16 @@ media:
     publisher: Polisia.kz
     caption: 'The Aktobe region police department''s video about the case, titled "Ақтөбеде есірткіні заңсыз сақтау дерегі тіркелді" (A drug storage case was registered in Aktobe). Video: Aktobe region police department via Polisia.kz'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 206b2983d3ad08310b8a9ca65055e7d2

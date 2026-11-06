@@ -19,11 +19,17 @@ figures:
     amount: 903000
     currency: GBP
 details:
+  activity: [smuggling]
   agencies: [gb-border-force]
   agency_types: [customs]
+  case_stage: sentenced
+  setting: [airport, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8a67d830793a0f37411de4c121e5f740

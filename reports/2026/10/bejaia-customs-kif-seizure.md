@@ -19,8 +19,12 @@ figures:
   kg_seized: 144.3
 details:
   activity: [trafficking]
+  agency_types: [customs, military]
+  products: [{product: hashish, kg: 144.3}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [bejaia, customs, kif, trafficking]

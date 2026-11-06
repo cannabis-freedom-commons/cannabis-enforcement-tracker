@@ -19,11 +19,19 @@ figures:
   charged: 21
   plants_destroyed: 9000
 details:
+  activity: [trafficking]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: charged
+  products: [{product: flower}, {product: plants, plants: 9000}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, dispensaries, medical-marijuana, operation-urban-harvest]

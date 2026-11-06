@@ -19,8 +19,16 @@ figures:
   kg_seized: 1.04
 details:
   activity: [trafficking]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  products: [{product: flower, kg: 1.04}]
+  setting: [prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
+  details.setting: [2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [mandatory-death-penalty, trafficking]

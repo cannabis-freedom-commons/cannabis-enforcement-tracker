@@ -56,10 +56,16 @@ media:
     publisher: МВД МЕДИА
     caption: 'Police photo from the Sakhalin marijuana operation. Photo: Press service of the UMVD of Russia for the Sakhalin Oblast'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [forest]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 724c435e5bfaf5edc0cd1cb96a5eeff3

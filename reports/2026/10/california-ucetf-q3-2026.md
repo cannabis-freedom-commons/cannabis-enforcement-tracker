@@ -44,8 +44,12 @@ media:
       Alameda County results. Photo: Office of the Governor of California
 details:
   activity: [cultivation]
+  case_stage: investigation
+  products: [{product: flower, kg: 25087.3}]
 data_sources:
   details.activity: [2]
+  details.case_stage: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: b49ca59fb958d79be06f4a2e1417d4f8

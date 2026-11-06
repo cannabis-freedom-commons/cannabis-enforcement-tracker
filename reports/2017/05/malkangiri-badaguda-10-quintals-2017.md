@@ -19,10 +19,14 @@ figures:
   kg_seized: 1000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [forest]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [malkangiri, ganja, inter-state]
 sources:

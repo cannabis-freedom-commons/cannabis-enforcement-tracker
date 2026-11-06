@@ -15,9 +15,13 @@ figures:
   kg_seized: 2000
 created_by_model: unknown
 details:
+  agency_types: [military]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 tags: [pakistan-navy, ispr, arabian-sea, hashish]

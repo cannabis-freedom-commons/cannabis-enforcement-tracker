@@ -30,9 +30,13 @@ media:
     publisher: News18 हिंदी
     caption: Photo published with the News18 report on the Dhar Operation Prahar seizure, captioned as ganja worth over 50 crore seized.
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 3, 2, 4]
+  details.agency_types: [1, 3, 5, 2, 4]
   details.products: [1, 3, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

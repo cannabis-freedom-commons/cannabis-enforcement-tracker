@@ -27,8 +27,14 @@ media:
     publisher: France-Antilles Martinique
     caption: 'Gendarmerie photo captioned as the more than 650 plants found by the gendarmes. Photo: Gendarmerie du Marin'
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [gendarmerie, prosecutor]
+  products: [{product: plants, plants: 651}]
   setting: [home]
 data_sources:
+  details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.products: [1, 2, 3, 4]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

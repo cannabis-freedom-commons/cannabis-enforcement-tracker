@@ -37,9 +37,11 @@ media:
     publisher: Amar Sangbad
     caption: Photo published with the report on the private car detained with 40 kg of ganja at Nakapa Bazar.
 details:
+  agency_types: [police, court]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 4, 5, 6, 7, 2]
   details.products: [1, 4, 5, 6, 7]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

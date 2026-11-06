@@ -36,10 +36,18 @@ media:
     publisher: Sorejomin Barta
     caption: Lead photo published with the report on the 24 kg seizure.
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [1]
   details.products: [1, 2, 3, 4, 5]
+  details.setting: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0f7905734338eed2aacb6f653a0c5b40

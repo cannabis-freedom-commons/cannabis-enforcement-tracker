@@ -23,10 +23,16 @@ media:
     publisher: Вечерняя Москва
     caption: 'Wild cannabis eradication in Moscow Oblast reported on 15 September 2025. Photo: Moscow region Interior Ministry Telegram channel, via Vechernyaya Moskva'
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.environment: [1]
+  details.products: [1, 2]
   details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5

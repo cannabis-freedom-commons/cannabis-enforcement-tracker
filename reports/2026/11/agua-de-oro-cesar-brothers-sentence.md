@@ -24,8 +24,16 @@ media:
     caption: Lead photo published with the Agua de Oro convictions report, captioned “condenados fpa”
 details:
   activity: [sale]
+  agency_types: [anti-narcotics, prosecutor, court]
+  case_stage: sentenced
+  products: [{product: flower}]
+  setting: [home, prison]
 data_sources:
   details.activity: [3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 84105c805c4cbc767f26dca936348cd9

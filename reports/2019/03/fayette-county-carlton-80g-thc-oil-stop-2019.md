@@ -16,8 +16,12 @@ figures:
   charged: 1
   kg_seized: 0.08
 details:
+  activity: [possession]
+  case_stage: charged
   setting: [vehicle]
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh

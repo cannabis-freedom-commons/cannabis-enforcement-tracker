@@ -19,11 +19,17 @@ figures:
   plants_destroyed: 313776
   arrested: 20
 details:
+  activity: [cultivation]
   agencies: [us-camp]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 313776}]
+  setting: [forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [camp, lockyer, public-lands]

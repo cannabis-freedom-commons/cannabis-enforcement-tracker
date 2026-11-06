@@ -22,10 +22,16 @@ media:
     publisher: Sanmarg Hindi daily
     caption: 'Police escorting the accused to court in this case. Photo: Sanmarg Hindi daily'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fa8f0c8ca00e95bf5cb206b8a8d1b517

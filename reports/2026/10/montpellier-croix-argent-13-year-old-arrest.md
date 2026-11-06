@@ -26,9 +26,11 @@ media:
     publisher: Actu.fr
     caption: 'Screen capture published with Actu.fr''s report; its caption says the BAC put the group of youths to flight around 11pm and the 13-year-old was arrested. Credit: DR'
 details:
+  agency_types: [police, prosecutor]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [2, 4, 3, 1, 5]
   details.products: [2, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

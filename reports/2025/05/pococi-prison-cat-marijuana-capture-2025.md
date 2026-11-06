@@ -25,10 +25,14 @@ media:
     publisher: El Comercio
     caption: Photo captioned as police members removing the drugs taped to the cat, credited by the outlet only as a screen capture.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [2, 1, 3, 4, 5, 6]
   details.products: [1, 4, 5]
+  details.setting: [1, 3, 2, 4, 6, 7]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0a1a80a43b7780c4de15115d9c0ff6d5

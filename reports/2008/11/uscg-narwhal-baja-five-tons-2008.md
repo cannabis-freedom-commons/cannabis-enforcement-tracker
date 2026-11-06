@@ -18,9 +18,15 @@ figures:
   value: { amount: 32000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
+  agency_types: [coast-guard, military]
+  products: [{product: flower, kg: 4536}]
   setting: [port]
   route: {from: [mx], to: [us]}
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
   details.route: [1, 2, 3]
   details.setting: [1, 2]
 status: verified

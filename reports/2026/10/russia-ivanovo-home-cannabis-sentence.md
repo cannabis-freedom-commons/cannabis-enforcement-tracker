@@ -16,8 +16,14 @@ figures:
   charged: 1
   prison: 3 years 6 months
 details:
+  agency_types: [court]
+  case_stage: sentenced
+  products: [{product: flower}, {product: seeds}]
   setting: [home]
 data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
+  details.products: [1, 3, 2]
   details.setting: [2, 3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

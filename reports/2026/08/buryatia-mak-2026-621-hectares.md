@@ -16,10 +16,14 @@ summary: >-
 figures:
   hectares: 621
 details:
+  agency_types: [police]
+  products: [{product: hashish}, {product: flower}]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max

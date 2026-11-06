@@ -19,9 +19,13 @@ figures:
   plants_destroyed: 20000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
   environment: [outdoor]
+  products: [{product: plants, plants: 20000}]
 data_sources:
+  details.agency_types: [1, 2]
   details.environment: [1]
+  details.products: [1, 2]
 status: verified
 tags: [bay-of-plenty, rotorua, taupo, outdoor-grow]
 sources:

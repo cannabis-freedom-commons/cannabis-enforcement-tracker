@@ -30,10 +30,18 @@ media:
     publisher: TVA Nouvelles
     caption: 'Photo of firearms that Bouchard allegedly showed an undercover officer while saying he could obtain them. Photo: Courtoisie de la cour'
 details:
+  activity: [sale]
+  agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 051a72305803bd12f5197857c509bf27

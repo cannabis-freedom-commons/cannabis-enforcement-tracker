@@ -19,10 +19,12 @@ figures:
     amount: 358000
     currency: INR
 details:
+  agency_types: [police]
   setting: [vehicle]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 3, 5, 2, 4]
   details.products: [1, 3, 5]
   details.setting: [1, 2, 3, 4, 5]
 status: reported

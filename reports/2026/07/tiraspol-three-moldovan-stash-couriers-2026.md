@@ -13,10 +13,14 @@ summary: >-
 figures:
   arrested: 3
 details:
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: e8ddc38e4f1c158ea5184a51715ead7e

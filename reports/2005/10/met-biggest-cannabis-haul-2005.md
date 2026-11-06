@@ -18,8 +18,12 @@ figures:
   value: { amount: 12000000, currency: GBP }
 created_by_model: meta/muse-spark
 details:
+  agency_types: [customs, police]
+  case_stage: investigation
   route: {from: [mx], to: [gb]}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.route: [1, 2]
 status: verified
 tags: [metropolitan-police, hm-customs, furniture-consignment, mexico-route]

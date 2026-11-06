@@ -24,9 +24,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [fr-douane]
   agency_types: [customs]
+  case_stage: sentenced
+  setting: [vehicle, prison]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [trucker, tavel, gard]
 open_questions:

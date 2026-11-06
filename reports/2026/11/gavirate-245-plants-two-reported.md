@@ -30,11 +30,15 @@ media:
     publisher: Prealpina
     caption: Seized potted marijuana plants from the Gavirate operation captioned Sequestrate 245 piante di marijuana
 details:
+  activity: [cultivation]
   agencies: [it-gdf]
   agency_types: [customs]
+  products: [{product: flower}]
 data_sources:
+  details.activity: [1, 3, 4, 5, 6, 7]
   details.agencies: [1, 3, 4, 5, 6, 7, 8, 9, 10]
   details.agency_types: [1, 3, 4, 5, 6, 7, 8, 9, 10]
+  details.products: [1, 3, 4, 5, 6, 7]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0e1bf26482be440bfd61af1a32cc021e

@@ -17,6 +17,7 @@ figures:
   kg_seized: 14.559
 details:
   agencies: [Kolkata Police Narcotics Cell]
+  agency_types: [police]
   products:
     - {product: flower, kg: 14.559}
   activity: [trafficking, sale]
@@ -28,6 +29,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agencies: [1]
+  details.agency_types: [1, 4, 2, 5, 3, 6]
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]

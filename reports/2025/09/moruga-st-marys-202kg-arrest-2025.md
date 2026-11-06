@@ -22,8 +22,14 @@ media:
     caption: Seized marijuana shown in the report on the Moruga exercise.
 details:
   activity: [trafficking]
+  agency_types: [police]
+  products: [{product: flower, kg: 2.2061}]
+  setting: [port]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0999ea1d37f73d792939bb3f609f5867

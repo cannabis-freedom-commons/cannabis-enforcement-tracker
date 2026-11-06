@@ -16,9 +16,11 @@ figures:
   kg_seized: 150
   value: { amount: 1000000, currency: EUR }
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

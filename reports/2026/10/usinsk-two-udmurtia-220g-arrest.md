@@ -23,9 +23,13 @@ media:
     publisher: КомиОнлайн
     caption: 'Police photo accompanying the report on the Usinsk detention and flat search. Photo: MVD of the Komi Republic'
 details:
+  agency_types: [police]
+  case_stage: investigation
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1]
   details.setting: [1]
 status: verified

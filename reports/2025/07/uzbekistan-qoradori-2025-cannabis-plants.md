@@ -26,8 +26,10 @@ media:
     caption: 'Second Interior Ministry press-service photograph inside the article, captioned only "Photo: Press service of the Interior Ministry", showing a notice on a blue fence. Photo: Press service of the Interior Ministry'
 details:
   activity: [cultivation]
+  products: [{product: plants, plants: 10000}]
 data_sources:
   details.activity: [1]
+  details.products: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e52bd91bb959372a3a9ae8bb8d1bec38

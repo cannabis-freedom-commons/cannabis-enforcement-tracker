@@ -18,11 +18,17 @@ figures:
   hectares: 1.62
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [int-interpol]
   agency_types: [police]
+  products: [{product: flower}]
+  setting: [field, home]
 data_sources:
+  details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 tags: [tain-district, indian-hemp]
 open_questions:

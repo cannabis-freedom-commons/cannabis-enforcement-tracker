@@ -21,9 +21,11 @@ media:
     publisher: Polizia di Stato
     caption: 'Official image labelled as the 670 kg hashish seizure at sea. Photo: Polizia di Stato'
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [2, 1]
   details.products: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max

@@ -18,11 +18,15 @@ figures:
   plants_destroyed: 226
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [id-polri]
   agency_types: [police]
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [yunabol, oksibil, siminbuk, serambakon, pegunungan-bintang, highland-papua]
 sources:

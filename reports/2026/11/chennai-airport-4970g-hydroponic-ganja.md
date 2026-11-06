@@ -18,10 +18,18 @@ figures:
     amount: 50000000
     currency: INR
 details:
+  activity: [smuggling, cultivation]
+  agency_types: [customs]
+  case_stage: investigation
+  products: [{product: flower, kg: 4.97}]
   setting: [airport]
   environment: [indoor]
 data_sources:
+  details.activity: [1, 5, 6, 7, 2, 3]
+  details.agency_types: [1, 6, 5, 7, 2, 3]
+  details.case_stage: [2, 3, 4, 5, 7]
   details.environment: [1, 6, 7]
+  details.products: [1, 5, 6, 7, 2, 3]
   details.setting: [1, 2, 4, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

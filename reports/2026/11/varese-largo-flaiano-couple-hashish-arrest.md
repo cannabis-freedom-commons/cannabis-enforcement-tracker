@@ -21,14 +21,20 @@ media:
     publisher: Questura di Varese, Polizia di Stato
     caption: 'Police handout image carried with the Varese statement on the hashish found in the couple''s car and flat. Photo: Polizia di Stato, Questura di Varese'
 details:
+  activity: [sale]
   agencies: [it-gdf]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 4, 7, 8, 3, 5]
   details.agencies: [1, 3, 5]
   details.agency_types: [1, 3, 5]
+  details.case_stage: [1, 5, 8, 3, 7, 2]
   details.products: [1, 3, 4, 5]
+  details.setting: [1, 3, 5, 8, 7, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ef2302e37a705f8b59b10b3fd361e321

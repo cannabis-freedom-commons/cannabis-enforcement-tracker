@@ -23,10 +23,18 @@ media:
     publisher: GOV.KZ
     caption: 'Photo accompanying the KNB account of the Caspian detention and drug seizure. Photo: Border Service of the National Security Committee'
 details:
+  activity: [smuggling, trafficking, sale]
+  agency_types: [court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b24959823435820a0b5363a86cbaf3d6

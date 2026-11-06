@@ -24,11 +24,17 @@ media:
     publisher: The Times of India
     caption: Maharajganj Police and SSB personnel with the apprehended Myanmar national Phyo and the seized 4.532 kg of high-grade hydroponic weed near the India-Nepal border.
 details:
+  activity: [smuggling, trafficking]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 4.532}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4e6ca730d6ad93ea44d1d68e5c336200

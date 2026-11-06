@@ -21,11 +21,13 @@ media:
     publisher: g1
     caption: 'PRF photo presented with the report on increased drug seizures on federal highways in Minas Gerais in 2026. Photo: PRF/Divulgação'
 details:
+  activity: [trafficking]
   agencies: [br-prf]
   agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.products: [1]

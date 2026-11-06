@@ -17,8 +17,12 @@ figures:
   kg_seized: 7.5
   prison: 3 years, suspended for 5 years
 details:
+  agency_types: [prosecutor, court]
+  products: [{product: flower, kg: 7.5}]
   setting: [home]
 data_sources:
+  details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

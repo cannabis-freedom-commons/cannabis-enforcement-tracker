@@ -20,9 +20,13 @@ media:
     publisher: Suryaa News
     caption: Photo published with the report on the arrest of two persons allegedly consuming ganja.
 details:
+  agency_types: [police]
+  case_stage: appeal
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -31,9 +31,13 @@ media:
     publisher: МВД МЕДИА
     caption: 'Police handout photo of seized packets stored in a box in the Gorlovka case. Photo: Press service of the MIA for the Donetsk People''s Republic'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

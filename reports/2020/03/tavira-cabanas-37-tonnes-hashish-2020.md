@@ -17,11 +17,17 @@ figures:
   kg_seized: 3700
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [pt-gnr]
   agency_types: [gendarmerie]
+  products: [{product: hashish, kg: 3700}]
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [maritime-smuggling]
 media:

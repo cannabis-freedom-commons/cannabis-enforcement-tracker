@@ -20,9 +20,13 @@ media:
     publisher: Podrobno.uz
     caption: Photo accompanying the report on the 70 grams of hashish found with the Nexia driver in Namangan region.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

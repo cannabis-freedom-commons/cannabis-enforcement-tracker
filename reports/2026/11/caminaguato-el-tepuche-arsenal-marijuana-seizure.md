@@ -34,9 +34,13 @@ media:
 details:
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  products: [{product: flower}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [2, 3, 5, 9, 10]
   details.agency_types: [2, 3, 5, 9, 10]
+  details.products: [2, 3, 5, 9, 10, 7]
+  details.setting: [2, 3, 5, 9, 10, 7]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c92aeb985454f6fbaed90140151d03cd

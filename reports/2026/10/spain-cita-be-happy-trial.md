@@ -20,8 +20,14 @@ figures:
   charged: 4
   kg_seized: 1.2
 details:
+  agency_types: [police, prosecutor]
+  case_stage: charged
+  products: [{product: hashish, kg: 1.2}, {product: flower}]
   setting: [shop]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

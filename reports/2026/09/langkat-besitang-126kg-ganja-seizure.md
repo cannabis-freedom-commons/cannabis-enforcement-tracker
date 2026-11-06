@@ -21,9 +21,11 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  setting: [forest, home]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [bnn, langkat, gunung-leuser]
 open_questions:

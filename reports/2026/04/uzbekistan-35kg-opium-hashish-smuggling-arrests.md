@@ -23,10 +23,14 @@ media:
     caption: 'Four men, two of them in camouflage, standing with officers in uniform, with bags and a tobacco box laid out on the ground in front of them. Photo: СГБ, Uzbekistan''s State Security Service'
 details:
   activity: [smuggling]
+  agency_types: [border-guard]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 3]
+  details.case_stage: [1]
   details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

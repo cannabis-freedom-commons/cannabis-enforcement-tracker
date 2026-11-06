@@ -14,10 +14,16 @@ summary: >-
 figures:
   arrested: 1
 details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [mail]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 01cab71d518f6e6302610f914aa5d305

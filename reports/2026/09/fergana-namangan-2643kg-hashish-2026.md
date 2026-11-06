@@ -15,10 +15,16 @@ figures:
   arrested: 4
   kg_seized: 2.643
 details:
+  agency_types: [customs, police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8729e5573eaf169a1ae75971199b581b

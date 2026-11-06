@@ -23,10 +23,12 @@ media:
     publisher: İlke Haber Ajansı
     caption: Lead photo on the source page for this Diyarbakır seizure report.
 details:
+  agency_types: [gendarmerie, anti-narcotics]
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 4, 5, 6, 7, 9]
   details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -16,9 +16,19 @@ figures:
   arrested: 1
   kg_seized: 0.498
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
   environment: [wild]
+  products: [{product: flower, kg: 0.498}]
+  setting: [prison]
 data_sources:
+  details.activity: [4, 1, 5, 3]
+  details.agency_types: [4, 1, 5, 3]
+  details.case_stage: [4, 1, 5]
   details.environment: [4]
+  details.products: [1, 5, 3, 2, 4]
+  details.setting: [4, 1, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e3d58b25a11df6ea3cc3e54ff4c139fe

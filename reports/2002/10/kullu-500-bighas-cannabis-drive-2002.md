@@ -14,9 +14,11 @@ summary: >-
   2002. No one had been prosecuted for the cultivation, and the agencies said they would seek
   education and alternative crops before taking action under the NDPS Act.
 details:
+  activity: [cultivation]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
 status: verified

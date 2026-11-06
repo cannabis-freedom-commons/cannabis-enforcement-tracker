@@ -20,9 +20,13 @@ figures:
     amount: 177000
     currency: INR
 details:
+  agency_types: [anti-narcotics, police]
+  case_stage: appeal
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 3, 4, 2]
+  details.case_stage: [1, 3]
   details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

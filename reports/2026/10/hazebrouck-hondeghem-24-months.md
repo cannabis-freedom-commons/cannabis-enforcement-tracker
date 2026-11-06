@@ -27,8 +27,16 @@ media:
     caption: 'Gendarmes at a building in Hondeghem during the operation. Photo: Gendarmerie / SIRPA / F. Bourdeau'
 details:
   activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 0.44}, {product: flower}]
+  setting: [home, prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [3, 1, 4, 2]
+  details.case_stage: [3, 1, 4]
+  details.products: [1, 4, 3, 2]
+  details.setting: [3, 1, 2, 4]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 42052f0bd6e0a4cc65f9fb9ff57cd15c

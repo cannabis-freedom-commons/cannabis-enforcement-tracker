@@ -25,9 +25,17 @@ figures:
   charged: 3
 created_by_model: unknown
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   route: {from: [bg], to: [tr]}
+  setting: [home]
 data_sources:
+  details.activity: [3, 1, 2, 4, 5]
+  details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [1, 3]
   details.route: [1]
+  details.setting: [1, 2, 3]
 status: verified
 tags:
   - gdbop

@@ -13,10 +13,14 @@ summary: >-
 figures:
   kg_seized: 6758.66
 details:
+  activity: [trafficking]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 4, 5]
   details.products: [1, 4]
+  details.setting: [1, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 74117748ebdc0aa805913466ad48f261

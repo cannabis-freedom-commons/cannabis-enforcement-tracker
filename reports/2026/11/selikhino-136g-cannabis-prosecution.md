@@ -16,9 +16,11 @@ figures:
   charged: 1
   kg_seized: 0.136
 details:
+  agency_types: [police]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.agency_types: [1]
   details.environment: [1]
   details.setting: [1]
 status: verified

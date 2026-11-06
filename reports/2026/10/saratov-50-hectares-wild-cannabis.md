@@ -27,9 +27,11 @@ media:
     publisher: Sarnovosti
     caption: 'A field overgrown with wild cannabis in Saratov Oblast. Photo: Rosselkhoznadzor for Saratov, Samara and Penza Oblasts.'
 details:
+  agency_types: [police]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
   details.setting: [1, 2]
 status: verified

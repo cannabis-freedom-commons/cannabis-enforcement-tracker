@@ -15,10 +15,14 @@ figures:
   charged: 1
   prison: 8 months (firm)
 details:
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
   setting: [prison]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

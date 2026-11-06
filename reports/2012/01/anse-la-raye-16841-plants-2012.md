@@ -24,8 +24,16 @@ media:
     caption: The marijuana field found and destroyed by local police.
 details:
   activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 90.72}, {product: plants, plants: 26841}]
+  setting: [field, forest]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fbd36ba333b3b44e0efaa9adac58c430

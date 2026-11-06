@@ -22,14 +22,20 @@ media:
     publisher: Torino Cronaca
     caption: Seized drugs displayed after the Val di Susa operation
 details:
+  activity: [trafficking]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7b0ef2976e15c2ca2e2144e4d361bd36

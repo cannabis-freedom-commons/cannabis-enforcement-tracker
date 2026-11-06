@@ -16,13 +16,21 @@ figures:
   arrested: 4
   plants_destroyed: 12
 details:
+  activity: [trafficking]
   agencies: [cl-pdi]
   agency_types: [police]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: plants, plants: 12}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 907cf2967c86f9504d13b3c9bdbef1b2

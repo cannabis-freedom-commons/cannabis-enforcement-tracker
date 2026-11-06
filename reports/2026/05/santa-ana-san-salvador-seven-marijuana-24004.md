@@ -33,10 +33,18 @@ media:
     publisher: La Prensa Gráfica
     caption: 'Police photo of part of the drugs seized in the operation. Photo: PNC'
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [2, 3]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 4, 2, 3]
   details.products: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: d19cd685bcb2909e8844eb078d0aca55

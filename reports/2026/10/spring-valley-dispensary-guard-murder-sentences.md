@@ -18,9 +18,15 @@ figures:
   prison: 67 years and four months to life; 84 years to life; 54 years to life
 details:
   activity: [sale]
+  agency_types: [prosecutor]
+  case_stage: sentenced
+  products: [{product: flower}]
   setting: [shop]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

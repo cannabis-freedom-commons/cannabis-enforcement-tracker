@@ -17,8 +17,10 @@ figures:
   kg_seized: 0.0353
 details:
   activity: [possession]
+  agency_types: [prosecutor]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 3, 4, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1d5bf7aa6d6964b2356620fccf3f252d

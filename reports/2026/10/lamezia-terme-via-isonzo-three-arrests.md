@@ -15,10 +15,12 @@ summary: >-
 figures:
   arrested: 3
 details:
+  agency_types: [police]
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 3, 4, 2]
   details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -17,6 +17,7 @@ figures:
 details:
   agencies: [ru-mvd]
   agency_types: [police]
+  products: [{product: flower, kg: 11}]
   setting: [vehicle, home]
   environment: [wild]
   case_stage: investigation
@@ -27,6 +28,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]
+  details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

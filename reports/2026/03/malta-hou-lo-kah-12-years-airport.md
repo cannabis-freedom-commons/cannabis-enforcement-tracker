@@ -23,8 +23,12 @@ figures:
   value: { amount: 153833, currency: EUR }
 created_by_model: cursor/composer-2.5
 details:
+  agency_types: [customs, court]
+  case_stage: sentenced
   setting: [airport]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [airport, import, trafficking]

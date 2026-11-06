@@ -21,11 +21,19 @@ figures:
   value: { amount: 500000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [possession]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: convicted
+  products: [{product: flower, kg: 50}]
+  setting: [airport, mail]
 data_sources:
+  details.activity: [2, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [appeal, retrial, controlled-delivery]
 open_questions:

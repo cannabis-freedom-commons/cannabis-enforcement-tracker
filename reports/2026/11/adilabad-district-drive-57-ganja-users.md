@@ -12,6 +12,7 @@ title: 57 of 90 people drug-tested in Adilabad drive were positive for ganja
 summary: >-
   Adilabad police searched the homes of suspects from 5 am in a district-wide drive against ganja, testing 90 people and finding 57 who had used it; several were referred to de-addiction. Police said the district logged ganja cases against 221 people in a year, seized 23 kg worth Rs 1.68 crore, found 1,632 plants in fields and stopped welfare funds on about 250 acres.
 details:
+  activity: [cultivation]
   agencies: [Adilabad District Police]
   agency_types: [police]
   products:
@@ -19,6 +20,7 @@ details:
   date_precision: approximate
   region: Telangana
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

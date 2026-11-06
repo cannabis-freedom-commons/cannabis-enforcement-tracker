@@ -21,8 +21,12 @@ figures:
   value: { amount: 11300000, currency: INR }
 created_by_model: unknown
 details:
+  agency_types: [police]
+  case_stage: investigation
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.setting: [1]
 status: verified
 tags: [truck, night-patrol]

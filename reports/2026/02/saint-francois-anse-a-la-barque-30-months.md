@@ -17,14 +17,20 @@ figures:
   kg_seized: 243.28
   prison: 30 months (firm)
 details:
+  activity: [trafficking]
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1]
   details.products: [3]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 910e90736a99fecac661542072bcc6c6

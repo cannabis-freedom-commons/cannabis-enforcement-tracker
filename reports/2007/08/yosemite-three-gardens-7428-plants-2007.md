@@ -19,11 +19,15 @@ figures:
   value: { amount: 22000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [us-camp]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 7428}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2, 3]
 status: verified
 tags: [national-park, public-lands, camp, environmental-damage]
 open_questions:

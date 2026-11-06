@@ -21,11 +21,13 @@ media:
     publisher: G1
     caption: 'Police handout photo of the cannabis seized in the Paraty apprehension. Photo: Divulgacao/Policia Militar'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.products: [1, 3]

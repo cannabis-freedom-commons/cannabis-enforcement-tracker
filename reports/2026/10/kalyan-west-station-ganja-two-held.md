@@ -19,10 +19,16 @@ figures:
     amount: 286000
     currency: INR
 details:
+  activity: [smuggling]
+  agency_types: [anti-narcotics, police]
   products:
     - {product: flower}
+  setting: [mail]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 8f5017f1023c7ac63ca9f434bfef58b6

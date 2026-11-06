@@ -19,10 +19,14 @@ figures:
   arrested: 3
   kg_seized: 510.3
 details:
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [border]
 data_sources:
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [shiselweni, border, dagga, uedf]

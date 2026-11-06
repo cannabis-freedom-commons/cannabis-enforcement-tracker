@@ -31,12 +31,18 @@ media:
     publisher: CRIDEM
     caption: Image captioned with the 370 kg hashish seizure from a truck arriving from Morocco; no photographer or agency credit is given.
 details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor]
   products:
     - {product: hashish}
   route: {from: [ma], to: [mr]}
+  setting: [border, vehicle]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2]
   details.route: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 72d46bd54821f8fd44e8407b7c5aaba3

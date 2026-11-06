@@ -20,8 +20,12 @@ figures:
   hectares: 2
 details:
   activity: [cultivation]
+  agency_types: [customs, military, police]
+  setting: [field]
 data_sources:
   details.activity: [3]
+  details.agency_types: [1, 3, 2]
+  details.setting: [1, 2, 3]
 status: disputed
 created_by_model: openai/gpt-6
 tags: [indonesia, aceh, teupin-rusep, eradication]

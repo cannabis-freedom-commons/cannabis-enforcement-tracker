@@ -22,8 +22,12 @@ media:
     caption: Police photo published with the account of the alcohol and cannabis intercepted north of Marla.
 details:
   activity: [trafficking]
+  agency_types: [police]
+  case_stage: charged
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f667c45f4450193c238ad71d87d0c1dd

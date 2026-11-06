@@ -21,10 +21,16 @@ media:
     publisher: Podrobno.uz
     caption: Detained suspect standing between two masked officers behind rows of seized hashish packages.
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [af], to: [uz], crossing: 'via Tajikistan and Kyrgyzstan'}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
 status: verified

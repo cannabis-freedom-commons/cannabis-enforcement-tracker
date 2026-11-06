@@ -22,9 +22,11 @@ created_by_model: unknown
 details:
   agencies: [in-bsf]
   agency_types: [border-guard]
+  setting: [forest]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [bsf, tsr, drones]
 open_questions:

@@ -16,14 +16,20 @@ figures:
   charged: 1
   prison: 15 years
 details:
+  activity: [trafficking, possession]
   agencies: [us-fbi]
   agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6.1-sol#xhigh
 tags: [pennsylvania, philadelphia, federal-court, marijuana, firearms]

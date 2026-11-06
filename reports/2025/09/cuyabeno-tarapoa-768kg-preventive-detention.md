@@ -30,10 +30,14 @@ media:
     publisher: Diario Expreso
     caption: 'Photo captioned as the seized marijuana load; the Ministry of Defence estimated its value at about one million dollars. Photo: Cortesía'
 details:
+  agency_types: [military, prosecutor]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2, 3, 4]
   details.products: [1, 2]
+  details.setting: [1, 2, 3, 4]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: eb2a9471e45800f903810a3f671570ee

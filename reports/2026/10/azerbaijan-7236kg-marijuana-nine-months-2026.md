@@ -16,10 +16,12 @@ figures:
   plants_destroyed: 21355
   kg_seized: 7490.53271
 details:
+  activity: [trafficking, cultivation]
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [2, 3]
   details.products: [2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

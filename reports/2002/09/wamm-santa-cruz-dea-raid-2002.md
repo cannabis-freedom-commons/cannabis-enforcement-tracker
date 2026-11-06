@@ -20,11 +20,15 @@ figures:
   plants_destroyed: 167
 created_by_model: meta/muse-spark
 details:
+  activity: [possession]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: hashish}, {product: flower}]
 data_sources:
+  details.activity: [3]
   details.agencies: [3, 5]
   details.agency_types: [3, 5]
+  details.products: [1, 2, 3, 4, 5]
 status: disputed
 tags:
   - medical-marijuana

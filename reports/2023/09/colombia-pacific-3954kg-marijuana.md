@@ -30,12 +30,16 @@ media:
     publisher: Nos Cogió La Noche
     caption: 'A Colombian Navy photograph of the seized drug haul, published with the report on the Pacific operations. Photo: Armada de Colombia.'
 details:
+  activity: [trafficking]
   agencies: [co-armada]
   agency_types: [military]
+  products: [{product: flower, kg: 3954}]
   setting: [port]
 data_sources:
+  details.activity: [2, 3, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [2, 1, 3]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

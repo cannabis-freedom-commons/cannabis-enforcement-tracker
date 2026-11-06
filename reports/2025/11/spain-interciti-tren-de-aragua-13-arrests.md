@@ -14,9 +14,19 @@ summary: >-
 figures:
   arrested: 13
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower}]
+  setting: [field, prison]
 data_sources:
+  details.activity: [2, 4, 3, 1]
+  details.agency_types: [1, 2, 4, 3]
+  details.case_stage: [1, 3]
   details.environment: [1]
+  details.products: [4, 3, 1, 2]
+  details.setting: [4, 3, 1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6c23331e6bc3b9705fab8d8080a66fc2

@@ -56,10 +56,18 @@ media:
     publisher: Укрінформ
     caption: Photograph published in Ukrinform's account of Operation Espanyol beside the passage on the second stage of the operation; no caption or credit is given.
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [home, mail, prison]
 data_sources:
+  details.activity: [1, 3, 4, 5, 6, 8]
+  details.agency_types: [2, 7, 17, 3, 13, 16]
+  details.case_stage: [1, 3, 7, 9, 12, 13]
   details.products: [2, 3, 4, 5, 6, 7, 8, 9, 12]
+  details.setting: [2, 6, 10, 12, 13, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 54ac52ebae71dea94d749b723b6ece54

@@ -17,10 +17,16 @@ figures:
   charged: 7
   kg_seized: 4.577
 details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e59e38946f834c9bd6b8bde2767ac733

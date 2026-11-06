@@ -18,9 +18,11 @@ figures:
   arrested: 34
   kg_seized: 6100
 details:
+  activity: [cultivation]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
 status: verified

@@ -25,9 +25,13 @@ media:
     publisher: Vande Matram News
     caption: Photo published with the report and captioned 'Smuggler arrested with cannabis in Ratlam'; the page credits no photographer or agency.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

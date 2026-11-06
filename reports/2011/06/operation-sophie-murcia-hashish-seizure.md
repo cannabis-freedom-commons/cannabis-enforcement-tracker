@@ -19,11 +19,13 @@ figures:
   value: { amount: 6177000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

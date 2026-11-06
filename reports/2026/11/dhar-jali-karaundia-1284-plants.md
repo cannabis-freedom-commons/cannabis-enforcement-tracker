@@ -30,9 +30,13 @@ media:
     publisher: Nai Dunia
     caption: 'Police officers seizing cannabis plants among crops at Karaundia Khurd village in Manawar. Photo: Police'
 details:
+  activity: [cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2, 3, 6, 4, 7]
+  details.agency_types: [1, 2, 3, 6, 4, 7]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

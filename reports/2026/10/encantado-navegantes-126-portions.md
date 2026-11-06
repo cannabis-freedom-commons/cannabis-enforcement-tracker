@@ -26,13 +26,17 @@ media:
     publisher: Força do Vale
     caption: A Brigada Militar photograph of the drugs, phones and money seized in Encantado, published with the Força do Vale report; no credit given.
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

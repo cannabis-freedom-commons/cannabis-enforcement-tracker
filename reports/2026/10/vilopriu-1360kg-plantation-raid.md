@@ -19,11 +19,15 @@ figures:
   arrested: 1
   kg_seized: 1360
 details:
+  activity: [cultivation]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7
 tags: [girona, guardia-civil, patos]

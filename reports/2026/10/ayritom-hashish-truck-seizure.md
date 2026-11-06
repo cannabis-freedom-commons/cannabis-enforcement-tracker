@@ -18,10 +18,12 @@ summary: >-
 figures:
   kg_seized: 42.335
 details:
+  agency_types: [customs]
   setting: [border]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

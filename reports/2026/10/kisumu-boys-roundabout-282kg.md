@@ -40,9 +40,13 @@ media:
     publisher: People Daily
     caption: Part of the narcotics recovered by the DCI during the 30 October 2026 crackdown, in a photo credited to @DCI_Kenya/X.
 details:
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: edibles}
 data_sources:
+  details.agency_types: [3, 8, 9, 1, 2, 4]
+  details.case_stage: [3, 5, 6, 8, 9, 10]
   details.products: [1, 2, 3, 4, 5, 9]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

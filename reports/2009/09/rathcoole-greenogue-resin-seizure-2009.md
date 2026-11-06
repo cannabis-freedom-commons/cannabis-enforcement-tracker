@@ -18,14 +18,20 @@ figures:
   value: { amount: 2000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [3, 1, 4, 5]
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 3, 4, 2]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 3, 4, 2, 5]
 status: verified
 tags: [rathcoole, resin, greenogue]
 open_questions:

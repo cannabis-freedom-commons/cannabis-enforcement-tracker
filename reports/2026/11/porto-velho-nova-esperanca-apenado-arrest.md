@@ -21,11 +21,19 @@ media:
     publisher: PVH Notícias
     caption: Photo accompanying the report on the monitored apenado arrested with drug portions in Nova Esperança.
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: hashish}, {product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [2, 1, 4]
   details.agencies: [2, 4]
   details.agency_types: [2, 4]
+  details.case_stage: [2, 1, 3, 4]
+  details.products: [2, 1, 4, 3]
+  details.setting: [2, 4, 1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 05f8bf11304a7bea31db6e52caa0d588

@@ -22,9 +22,17 @@ figures:
     amount: 1180000
     currency: USD
 details:
+  activity: [trafficking]
+  agency_types: [customs, police, prosecutor]
+  products: [{product: flower, kg: 590}]
   route: {from: [pe], to: [cl]}
+  setting: [vehicle]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [tumbes, zarumilla, trailer, chile-route]

@@ -18,10 +18,18 @@ figures:
   kg_seized: 9.35
   prison: 6 years
 details:
+  activity: [sale]
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [border, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 9339b12f9172b11a03fb5877c7666dfd

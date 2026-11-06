@@ -16,9 +16,11 @@ figures:
   arrested: 2
   kg_seized: 1.45
 details:
+  activity: [sale]
   agencies: [in-eagle]
   agency_types: [anti-narcotics]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
 status: verified

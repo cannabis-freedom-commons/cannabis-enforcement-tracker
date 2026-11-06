@@ -24,10 +24,16 @@ media:
     publisher: Ajker Arban
     caption: Photo published with the Ajker Arban report on the Bikunia ganja arrest and 10-day sentence.
 details:
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a26320a9eaf4bbc15fa54c12ad6219e9

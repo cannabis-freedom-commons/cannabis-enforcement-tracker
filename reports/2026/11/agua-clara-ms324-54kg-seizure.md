@@ -15,9 +15,11 @@ figures:
   arrested: 3
   kg_seized: 54
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
 status: verified

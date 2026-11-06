@@ -19,11 +19,17 @@ figures:
   arrested: 5
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking, possession, sale]
   agencies: [us-hsi]
   agency_types: [police]
+  products: [{product: flower}]
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2, 3]
+  details.setting: [2, 3, 1]
 status: disputed
 tags: [buy-bust, ice, disputed-shooting]
 open_questions:

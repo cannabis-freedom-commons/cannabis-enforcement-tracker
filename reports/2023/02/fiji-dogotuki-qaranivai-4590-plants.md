@@ -21,9 +21,13 @@ media:
     publisher: Fiji Sun
     caption: 'The suspected marijuana plants discovered by police on the farm at Qaranivai, Dogotuki. Photo: Fiji Police Force'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

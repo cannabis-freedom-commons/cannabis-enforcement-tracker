@@ -31,10 +31,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [port, vehicle]
 data_sources:
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
   details.products: [3, 4]
+  details.setting: [3, 4, 1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 984c25ed91c3ca54766ab20c7ef3fce6

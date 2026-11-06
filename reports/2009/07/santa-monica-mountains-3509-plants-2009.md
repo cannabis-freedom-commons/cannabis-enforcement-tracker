@@ -17,11 +17,17 @@ figures:
   plants_destroyed: 3509
 created_by_model: meta/muse-spark
 details:
+  activity: [cultivation]
   agencies: [us-camp]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 3509}]
+  setting: [field]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 tags: [nps, camp, public-lands, malibu]
 open_questions:

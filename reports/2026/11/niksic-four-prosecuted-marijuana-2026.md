@@ -15,9 +15,15 @@ figures:
   arrested: 2
   charged: 4
 details:
+  activity: [trafficking, possession]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 4]
   details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -22,11 +22,15 @@ media:
     publisher: Diário Corumbaense
     caption: 'Police handout photo of the cannabis seized from the man in Corumbá, captioned by the newspaper as ''the drug weighed almost four kilos''. Photo: Divulgação/Polícia Militar (Military Police handout)'
 details:
+  activity: [trafficking]
   agencies: [br-pf, br-pm]
   agency_types: [police, gendarmerie]
+  setting: [vehicle, home]
 data_sources:
+  details.activity: [3, 1, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.setting: [3, 1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 201d2131ac9558c988d0dc5bf9320135

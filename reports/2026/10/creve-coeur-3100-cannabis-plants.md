@@ -16,8 +16,12 @@ figures:
   value: { amount: 12400000, currency: MUR }
 details:
   activity: [cultivation]
+  agency_types: [police]
+  setting: [field]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [creve-coeur, pamplemousses, eradication, cannabis]

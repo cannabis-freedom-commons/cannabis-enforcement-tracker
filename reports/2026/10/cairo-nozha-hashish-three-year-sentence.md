@@ -20,10 +20,18 @@ figures:
     amount: 10000
     currency: EGP
 details:
+  activity: [sale]
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 08925c506acdf0af8e6cbd2a84910b3b

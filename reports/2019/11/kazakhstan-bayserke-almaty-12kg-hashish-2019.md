@@ -21,10 +21,16 @@ media:
     publisher: Inbusiness.kz
     caption: Photo published with the report on the 12 kg hashish seizure.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ccdcf218a58e6334a6319e9ab948707c

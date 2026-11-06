@@ -16,10 +16,14 @@ figures:
   kg_seized: 2500
   hectares: 2
 details:
+  agency_types: [police]
+  products: [{product: flower, kg: 2500}]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.agency_types: [1]
   details.environment: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

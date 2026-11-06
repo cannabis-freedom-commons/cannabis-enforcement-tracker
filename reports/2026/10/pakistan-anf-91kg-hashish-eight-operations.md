@@ -23,10 +23,12 @@ details:
   agency_types: [anti-narcotics]
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.setting: [2, 1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [hashish, anf, karachi, rawalpindi, students]

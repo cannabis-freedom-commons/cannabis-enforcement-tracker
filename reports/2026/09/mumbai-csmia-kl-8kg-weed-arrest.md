@@ -21,10 +21,16 @@ figures:
     amount: 28000000
     currency: INR
 details:
+  activity: [smuggling]
+  agency_types: [customs]
+  products: [{product: flower, kg: 8}]
   setting: [airport]
   environment: [indoor]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

@@ -22,9 +22,11 @@ media:
     publisher: Dainik Bhaskar
     caption: A uniformed officer stands beside a person whose face is blurred, the photograph published with the Gonda ganja arrest. Credit not stated.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2, 3]
 status: verified
 created_by_model: xai/grok-4.7#low

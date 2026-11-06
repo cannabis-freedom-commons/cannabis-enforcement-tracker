@@ -21,11 +21,17 @@ figures:
   charged: 3
 created_by_model: spacexai/grok-4.7
 details:
+  activity: [trafficking]
   agencies: [cl-pdi]
   agency_types: [police]
+  products: [{product: flower, kg: 352.52}]
+  setting: [border, vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ollague, antofagasta, customs, pdi]
 open_questions:

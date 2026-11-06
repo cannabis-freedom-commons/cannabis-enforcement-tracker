@@ -21,9 +21,11 @@ media:
     publisher: صدى البلد
     caption: 'Photo labelled "the accused" with the Nasr City hashish arrest. Photo: Sada El Balad'
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [2, 4, 1]
   details.products: [2, 4]
 status: verified
 created_by_model: xai/grok-4.7#low

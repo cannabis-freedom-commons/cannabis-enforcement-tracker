@@ -21,11 +21,17 @@ figures:
   value: { amount: 1200000, currency: INR }
 created_by_model: unknown
 details:
+  activity: [smuggling, trafficking]
   agencies: [in-excise]
   agency_types: [regulator]
+  products: [{product: flower, kg: 120}]
+  setting: [forest]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 sources:
   - title: Ganja smugglers flees after ramming excise team's vehicle, car seized with 120 kgs of cannabis

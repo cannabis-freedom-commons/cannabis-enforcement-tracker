@@ -23,9 +23,13 @@ media:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [home]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 8620584191cb64741f6499a2e7e96e8d

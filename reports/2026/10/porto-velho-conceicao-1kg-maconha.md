@@ -31,10 +31,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 4a3156457cc39e12fc9fb89273220945

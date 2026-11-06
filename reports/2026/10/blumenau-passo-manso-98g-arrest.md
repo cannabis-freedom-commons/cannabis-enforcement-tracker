@@ -27,11 +27,17 @@ media:
     publisher: ND Mais
     caption: 'Tribuna do Povo Blumenau''s video report on the arrest of a man with cannabis and trafficking materials in Passo Manso. Video: Tribuna do Povo Blumenau / ND Mais'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [home]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 2]
+  details.setting: [1]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: eda74287721111dbdb79a820369057d5

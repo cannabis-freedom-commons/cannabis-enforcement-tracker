@@ -19,11 +19,17 @@ figures:
 details:
   agencies: [it-gdf]
   agency_types: [customs]
+  case_stage: investigation
+  products: [{product: flower, kg: 5000}]
   route: {from: [al], to: [it]}
+  setting: [home, prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2, 1]
+  details.products: [1]
   details.route: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [catanzaro, albania-route, ndrangheta]

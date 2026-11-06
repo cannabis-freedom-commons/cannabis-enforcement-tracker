@@ -18,11 +18,17 @@ figures:
   kg_seized: 10
   value: { amount: 200000, currency: EUR }
 details:
+  activity: [trafficking]
   agencies: [ie-garda, ie-revenue]
   agency_types: [police, customs]
+  case_stage: investigation
+  products: [{product: flower, kg: 10}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [limerick, gndocb, revenue, organised-crime]

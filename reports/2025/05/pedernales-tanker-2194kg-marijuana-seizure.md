@@ -13,6 +13,7 @@ summary: >-
 figures:
   kg_seized: 2193.57
 details:
+  activity: [trafficking]
   agencies: [Cuerpo Especializado de Seguridad Fronteriza (CESFRONT), Dirección Nacional de Control de Drogas (DNCD)]
   agency_types: [border-guard, anti-narcotics]
   products:
@@ -22,6 +23,7 @@ details:
   date_precision: exact
   region: Pedernales
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2]

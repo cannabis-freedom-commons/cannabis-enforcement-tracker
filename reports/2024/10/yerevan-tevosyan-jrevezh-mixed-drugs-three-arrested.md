@@ -26,11 +26,19 @@ media:
     publisher: Новости-Армения
     caption: 'Video embedded under the Interior Ministry press release on the Yerevan and Jjrvezh detentions. Video: Novosti-Armenia'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.activity: [2]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 96a68efbc241d1867fbae6a7920358e5

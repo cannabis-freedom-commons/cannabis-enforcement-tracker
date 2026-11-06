@@ -22,9 +22,13 @@ created_by_model: meta/muse-spark
 details:
   agencies: [us-cbp]
   agency_types: [customs]
+  products: [{product: flower, kg: 9955}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [laredo, cbp, ice, southwest-border]
 open_questions:

@@ -22,8 +22,12 @@ media:
     caption: Photo captioned as the Nigerien trafficker arrested at Konni, illustrating the arrest of the courier with the 11.34 kg cannabis load.
 details:
   activity: [trafficking]
+  agency_types: [police]
+  setting: [border, vehicle]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bb7597349f5c14a12e0ff2e9d0a60c25

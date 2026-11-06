@@ -26,10 +26,18 @@ media:
     publisher: Curaçao Chronicle
     caption: Photo of the seized marijuana plantation at Scherpenheuvel.
 details:
+  activity: [cultivation]
+  agency_types: [coast-guard, police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [field, home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 105ccd8330ca2cace19ba47d96b517bf

@@ -27,10 +27,16 @@ media:
     publisher: Dainik Bhaskar
     caption: 'The arrested man in police custody in Hasayan. Photo: Dainik Bhaskar'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
   details.products: [1, 2]
+  details.setting: [2, 3, 4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 92deafb2aedf09d03d86dd3933e30e6b

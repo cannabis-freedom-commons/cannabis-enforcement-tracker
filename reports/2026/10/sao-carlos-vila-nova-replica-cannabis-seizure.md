@@ -15,11 +15,13 @@ summary: >-
 figures:
   arrested: 2
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
   details.products: [2]

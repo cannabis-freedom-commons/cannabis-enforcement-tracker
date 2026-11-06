@@ -20,9 +20,13 @@ figures:
   kg_seized: 70
 details:
   activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: charged
   route: {from: [cg], to: [ga]}
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.route: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

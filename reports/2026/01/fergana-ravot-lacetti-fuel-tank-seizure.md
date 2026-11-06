@@ -26,11 +26,17 @@ media:
     publisher: Xabar.uz
     caption: Still from video of the Lacetti fuel-tank seizure at the Ravot post.
 details:
+  activity: [smuggling]
+  agency_types: [customs, border-guard]
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [border, home]
 data_sources:
+  details.activity: [3, 2, 1]
+  details.agency_types: [1, 3]
   details.products: [3]
+  details.setting: [3, 2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: f148781d2face5a54917834816c345d9

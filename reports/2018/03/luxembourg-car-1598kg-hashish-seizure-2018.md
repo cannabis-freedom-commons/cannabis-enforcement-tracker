@@ -24,10 +24,16 @@ media:
     publisher: Le Quotidien
     caption: 'The seized cannabis resin and jute-wrapped packages photographed by Luxembourg customs and excise. Photo: Administration des douanes et accises de Luxembourg'
 details:
+  agency_types: [customs, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
   details.products: [1, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 19f29c1330a5dfd5577c1a244e6dc86c

@@ -44,10 +44,12 @@ media:
     publisher: Soualigapost
     caption: A view of the deck of the frigate Germinal during the operation, among the series of photos published with the seizure report.
 details:
+  activity: [trafficking]
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
   setting: [port]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.setting: [1]

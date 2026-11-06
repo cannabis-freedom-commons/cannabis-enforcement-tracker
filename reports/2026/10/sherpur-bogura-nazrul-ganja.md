@@ -22,10 +22,16 @@ media:
     publisher: Daily Karatoa
     caption: 'Officers and a man stand behind seized cannabis sticks on a table in front of a Sherpur police station banner in Bogura. Photo: Daily Karatoa'
 details:
+  agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1]
+  details.setting: [1, 2, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: c317c2afd95ad834b20405f52a7200c1

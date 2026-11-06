@@ -20,10 +20,12 @@ figures:
   arrested: 1
   kg_seized: 0.0217
 details:
+  agency_types: [police]
   setting: [vehicle]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

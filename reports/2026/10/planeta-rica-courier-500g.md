@@ -20,8 +20,12 @@ media:
     publisher: Policía Nacional de Colombia, via El Meridiano
     caption: 'Two National Police officers and a sniffer dog with the parcel of marijuana seized at a courier company in Planeta Rica. Photo: Policía Nacional de Colombia, via El Meridiano.'
 details:
+  agency_types: [police]
+  products: [{product: flower, kg: 0.5}]
   setting: [mail]
 data_sources:
+  details.agency_types: [1, 3]
+  details.products: [1, 3, 2]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

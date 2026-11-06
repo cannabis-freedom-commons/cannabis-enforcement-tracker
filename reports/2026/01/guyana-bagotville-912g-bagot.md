@@ -18,8 +18,14 @@ figures:
   arrested: 1
 details:
   activity: [trafficking]
+  agency_types: [customs]
+  case_stage: charged
+  setting: [home]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [guyana, canu, trafficking]

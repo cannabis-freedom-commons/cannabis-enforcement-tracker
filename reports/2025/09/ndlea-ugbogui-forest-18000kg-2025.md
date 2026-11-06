@@ -21,11 +21,17 @@ figures:
 tags: [ndlea, edo, ugbogui-forest]
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  setting: [field, forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 open_questions:
   - One account gives the farm's estimated yield as over 16,966 kilogrammes rather than over 18,000 kilogrammes.

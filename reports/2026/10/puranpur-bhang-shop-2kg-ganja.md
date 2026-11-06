@@ -21,10 +21,12 @@ details:
   agency_types: [regulator]
   products:
     - {product: flower}
+  setting: [vehicle, prison]
 data_sources:
   details.agencies: [1, 3, 4]
   details.agency_types: [1, 3, 4]
   details.products: [1, 2, 3, 4]
+  details.setting: [2, 3, 1, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2c5c458ca46e420760687073a633099e

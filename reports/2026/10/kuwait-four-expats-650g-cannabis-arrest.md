@@ -18,9 +18,15 @@ figures:
   arrested: 4
   kg_seized: 0.65
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [3]
 status: verified
 created_by_model: unknown

@@ -24,12 +24,14 @@ media:
 details:
   agencies: [za-saps]
   agency_types: [police]
+  case_stage: charged
   setting: [border]
   products:
     - {product: flower}
 data_sources:
   details.agencies: [4]
   details.agency_types: [4]
+  details.case_stage: [2, 1]
   details.products: [1, 2, 3, 4]
   details.setting: [2]
 status: verified

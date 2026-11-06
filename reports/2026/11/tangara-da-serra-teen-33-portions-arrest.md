@@ -20,11 +20,17 @@ media:
     publisher: O Mato Grosso
     caption: 'Police photo of the marijuana tablets and portions seized from the 17-year-old in Tangará da Serra. Photo: PMMT (Military Police of Mato Grosso)'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 3, 4, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 3, 4]
+  details.setting: [1, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 60a99e5b47ee893a358b8358ae2fc1c6

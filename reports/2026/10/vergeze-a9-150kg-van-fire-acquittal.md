@@ -17,10 +17,18 @@ figures:
   charged: 1
   kg_seized: 150
 details:
+  activity: [trafficking]
+  agency_types: [prosecutor, court]
+  case_stage: acquitted
   products:
     - {product: hashish}
+  setting: [vehicle, home, mail]
 data_sources:
+  details.activity: [3]
+  details.agency_types: [1, 3]
+  details.case_stage: [3, 1, 2]
   details.products: [1]
+  details.setting: [3, 1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e30b63bb56f4722236184134dd673aab

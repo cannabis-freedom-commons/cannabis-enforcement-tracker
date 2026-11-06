@@ -24,14 +24,18 @@ media:
     publisher: Sampi
     caption: Police photo captioned Polícia Rodoviária, published with the report on the Andradina seizure; the page does not say what the picture shows beyond that general caption.
 details:
+  activity: [trafficking]
   agencies: [br-pf, br-pm]
   agency_types: [police, gendarmerie]
+  case_stage: investigation
   setting: [vehicle]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3, 5, 6]
   details.agencies: [1, 2, 3, 5]
   details.agency_types: [1, 2, 3, 5]
+  details.case_stage: [1, 5, 3, 6, 2]
   details.products: [1, 3, 5]
   details.setting: [1, 2, 3, 5]
 status: verified

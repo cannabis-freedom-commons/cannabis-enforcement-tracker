@@ -22,8 +22,14 @@ figures:
   fine: { amount: 50000000, currency: KES }
 details:
   activity: [trafficking]
+  agency_types: [court]
+  products: [{product: flower, kg: 0.25}]
+  setting: [home, prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [lamu, sentencing, trafficking]

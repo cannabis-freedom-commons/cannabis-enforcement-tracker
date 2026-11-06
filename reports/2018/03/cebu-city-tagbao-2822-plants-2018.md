@@ -26,10 +26,16 @@ details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   activity: [cultivation]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [field]
 data_sources:
   details.activity: [2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: f9c5bedc0219d74e65c1ffc241222776

@@ -22,11 +22,17 @@ media:
     publisher: Gazeta de Vargem Grande
     caption: 'Seized drugs from the Itobi stop, captioned as totalling 45 grams. Photo: Gazeta de Vargem Grande'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.setting: [2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 4d2768a5dbc18a0b6de01944061fadea

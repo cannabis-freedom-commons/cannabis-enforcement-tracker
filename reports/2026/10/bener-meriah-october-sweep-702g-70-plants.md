@@ -16,6 +16,7 @@ figures:
   plants_destroyed: 70
   kg_seized: 0.702
 details:
+  activity: [trafficking]
   agency_types: [police]
   products:
     - {product: flower, kg: 0.702}
@@ -24,11 +25,14 @@ details:
   period: {start: 2026-10-09, end: 2026-10-31}
   date_precision: approximate
   region: Aceh
+  setting: [field]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.period: [1]
   details.products: [1]
+  details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.plants_destroyed: [1]

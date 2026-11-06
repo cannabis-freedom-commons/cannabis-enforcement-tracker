@@ -21,10 +21,14 @@ media:
     publisher: Hespress Français
     caption: Photo linked to the hashish seizure in the Pikine-Technopole operation.
 details:
+  agency_types: [customs, police]
   products:
     - {product: hashish}
+  setting: [home, building, mail]
 data_sources:
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2, 3]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: be33cdcfba6df59b6ebba8a3cc037536

@@ -14,8 +14,10 @@ summary: >-
   packages in the V.C. Bird cargo shed on 22 October 2024, a seizure worth
   over half a million dollars. No arrests were reported.
 details:
+  agency_types: [customs, police]
   setting: [airport]
 data_sources:
+  details.agency_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

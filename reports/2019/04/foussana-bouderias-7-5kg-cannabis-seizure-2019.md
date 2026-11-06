@@ -14,8 +14,12 @@ summary: >-
 figures:
   kg_seized: 8
 details:
+  activity: [smuggling]
+  products: [{product: hashish, kg: 8}]
   setting: [border]
 data_sources:
+  details.activity: [3]
+  details.products: [3]
   details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

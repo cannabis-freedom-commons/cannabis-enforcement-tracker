@@ -21,11 +21,15 @@ figures:
     currency: TTD
 details:
   activity: [possession]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 1]
   details.products: [2]
+  details.setting: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 4d8937930dacc02a87a5a6ce36d0331d

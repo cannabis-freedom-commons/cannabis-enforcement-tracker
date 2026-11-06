@@ -22,14 +22,20 @@ media:
     publisher: Foro Coatza
     caption: 'SSP Veracruz collage from the coordinated operations, showing armed officers, men with blurred faces, motorcycles and items laid out under an “acciones operativas” banner. Photo: Foro Coatza'
 details:
+  activity: [possession]
   agencies: [mx-gn]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [mail]
 data_sources:
+  details.activity: [2, 3, 4, 5, 7, 1]
   details.agencies: [1, 5, 7, 8, 9]
   details.agency_types: [1, 5, 7, 8, 9]
+  details.case_stage: [2, 3, 4, 5, 7, 1]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  details.setting: [2, 3, 4, 5, 7, 1]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 1a6c5933cc7f0db9a7d72da6029b478a

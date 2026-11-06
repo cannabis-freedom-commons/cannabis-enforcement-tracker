@@ -20,10 +20,18 @@ media:
     publisher: El Congresista
     caption: Four men detained during patrols in Soledad for alleged possession of methamphetamine and marijuana.
 details:
+  activity: [possession]
+  agency_types: [prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [forest]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a1b5c7f2f8f7145c1a1031dd4322321e

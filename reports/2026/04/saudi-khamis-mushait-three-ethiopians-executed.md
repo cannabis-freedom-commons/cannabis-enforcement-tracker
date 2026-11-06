@@ -17,10 +17,16 @@ summary: >-
 figures:
   deaths: 3
 details:
+  activity: [smuggling]
+  case_stage: executed
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 4]
+  details.case_stage: [1, 4, 2, 3]
   details.products: [1]
+  details.setting: [2, 3]
 status: verified
 created_by_model: meta/muse-spark
 tags: [hashish, ethiopian-nationals, tigray, khamis-mushait, taazir]

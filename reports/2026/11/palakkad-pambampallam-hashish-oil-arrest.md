@@ -29,9 +29,13 @@ media:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  products: [{product: hashish, kg: 0.420692}, {product: oil}]
+  setting: [vehicle, home]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fa47ffd2f7c58b884e117f40f231afe5

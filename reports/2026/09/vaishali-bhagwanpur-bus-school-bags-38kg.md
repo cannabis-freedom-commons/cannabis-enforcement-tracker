@@ -18,8 +18,12 @@ figures:
   kg_seized: 38.6
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
+  products: [{product: flower, kg: 38.6}]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 tags: [bihar, vaishali, bus, minors, operation-neelkanth]

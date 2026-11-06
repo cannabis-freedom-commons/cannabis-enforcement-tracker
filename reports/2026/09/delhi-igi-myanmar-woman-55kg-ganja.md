@@ -18,9 +18,15 @@ figures:
     amount: 19300000
     currency: INR
 details:
+  activity: [smuggling]
+  agency_types: [customs]
+  products: [{product: flower, kg: 5.5}]
   setting: [airport]
   route: {from: [th], to: [in]}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.route: [1]
   details.setting: [1, 2]
 status: verified

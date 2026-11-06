@@ -15,6 +15,7 @@ figures:
   arrested: 2
   kg_seized: 0.28
 details:
+  activity: [possession]
   agencies: [Rethymno Police Directorate, Mylopotamos Police Operations Department, Rethymno Criminal Investigation Sub-Directorate]
   agency_types: [police]
   products:
@@ -24,6 +25,7 @@ details:
   case_stage: investigation
   region: Crete
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

@@ -21,10 +21,14 @@ media:
     publisher: Uttarbanga Sambad
     caption: 'A composite image at the top of the article shows officers standing with the four arrested youths at the terminus, and the recovered bags of ganja laid out on tables. Photo: Uttarbanga Sambad.'
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
 tags: [ganja, siliguri, west-bengal, cooch-behar, trafficking]

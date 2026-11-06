@@ -29,12 +29,16 @@ media:
 details:
   agencies: [mx-sedena]
   agency_types: [military]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f80de5836910cdd9a3ffba5284104b3a

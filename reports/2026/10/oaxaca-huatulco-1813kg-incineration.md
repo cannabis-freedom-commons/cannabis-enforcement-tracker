@@ -20,9 +20,11 @@ media:
 details:
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  products: [{product: flower}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: eb48eecec1e6ccc83dea93fe279527e7

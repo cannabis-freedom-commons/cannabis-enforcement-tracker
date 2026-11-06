@@ -22,14 +22,18 @@ media:
     publisher: CesenaToday
     caption: Photo of the seized firearm reported with the arrest
 details:
+  activity: [possession]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 3, 4]
   details.agencies: [1, 3, 4]
   details.agency_types: [1, 3, 4]
   details.products: [1, 3, 4]
+  details.setting: [1, 3, 4, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c66b16298bfbfe172496b88adf81c707

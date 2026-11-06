@@ -20,9 +20,15 @@ figures:
 details:
   agencies: [us-fbi]
   agency_types: [police]
+  case_stage: charged
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 3]
+  details.products: [1, 3]
+  details.setting: [1, 3, 2, 4]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [rainbow-farm, standoff, festivals]

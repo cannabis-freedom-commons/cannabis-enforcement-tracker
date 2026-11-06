@@ -20,9 +20,13 @@ media:
     publisher: Бакинский рабочий
     caption: Picture published with the report of the 30 July 2026 seizure in Absheron and Garadagh districts, captioned only with the headline "В Азербайджане изъяли 57 кг наркотиков".
 details:
+  activity: [smuggling, trafficking]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3, 4]
+  details.case_stage: [2, 3, 4, 1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

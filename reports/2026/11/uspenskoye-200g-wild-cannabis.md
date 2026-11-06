@@ -16,9 +16,15 @@ figures:
   charged: 1
   kg_seized: 0.2
 details:
+  activity: [cultivation, possession]
+  agency_types: [police]
+  case_stage: sentenced
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [2, 4, 5, 3, 1]
+  details.agency_types: [1, 5, 2, 4, 3]
+  details.case_stage: [2, 4, 5, 3, 1]
   details.environment: [1, 3, 5]
   details.setting: [1, 3, 5]
 status: verified

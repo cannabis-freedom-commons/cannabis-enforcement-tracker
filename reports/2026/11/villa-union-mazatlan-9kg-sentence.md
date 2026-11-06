@@ -18,9 +18,15 @@ figures:
 details:
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  case_stage: sentenced
+  products: [{product: flower, kg: 9.3496}]
+  setting: [vehicle, prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b21b2fc11b70cc82cb3e3697db08e485

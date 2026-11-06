@@ -16,11 +16,17 @@ figures:
   value: { amount: 2212000, currency: PHP }
 created_by_model: openai/gpt-6
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: plants, plants: 11300}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 open_questions:
   - The mature-plant count is reported only as more than 11,000, so 11,300 is a minimum combined count rather than an exact total.

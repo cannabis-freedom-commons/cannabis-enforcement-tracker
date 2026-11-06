@@ -21,11 +21,17 @@ media:
     publisher: El Confidencial
     caption: 'Seized bag holding a kilo of marijuana. Photo: Europa Press/Guardia Civil'
 details:
+  activity: [trafficking]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 1}]
 data_sources:
+  details.activity: [1, 2, 4, 6, 3, 5]
   details.agencies: [1, 2, 3, 4, 6]
   details.agency_types: [1, 2, 3, 4, 6]
+  details.case_stage: [1, 2, 4, 6, 3, 5]
+  details.products: [1, 2, 4, 6, 3, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 22c39910b55c18ac46c3c25e3bd8724c

@@ -20,10 +20,18 @@ figures:
     amount: 60000
     currency: INR
 details:
+  activity: [smuggling]
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2091c64985127866abee15c0ab18cf9d

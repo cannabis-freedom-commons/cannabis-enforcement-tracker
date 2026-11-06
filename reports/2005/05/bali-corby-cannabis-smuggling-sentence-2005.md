@@ -17,8 +17,16 @@ figures:
   prison: 20 years
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
+  agency_types: [customs, prosecutor]
+  case_stage: sentenced
+  products: [{product: flower, kg: 4.2}]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [bali, airport, trafficking]

@@ -18,9 +18,15 @@ figures:
 details:
   agencies: [tr-jandarma]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: plants, plants: 116}]
+  setting: [home]
 data_sources:
   details.agencies: [3]
   details.agency_types: [3]
+  details.case_stage: [2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [2, 3, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6602414a63d13220f9c23558dcbe60a2

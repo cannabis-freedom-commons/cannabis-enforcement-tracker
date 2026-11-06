@@ -28,11 +28,15 @@ media:
     publisher: Infobae
     caption: 'The fibreglass river boat with a 200 HP outboard motor, reportedly of Brazilian origin, impounded in the operation. Photo: Gobierno del Perú (Gob)'
 details:
+  activity: [trafficking]
   agencies: [pe-dirandro]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 883.3}]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 986d376cbe5e15db87fdf40e8ad13375

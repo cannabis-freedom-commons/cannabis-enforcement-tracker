@@ -39,10 +39,14 @@ media:
     publisher: Diario1
     caption: 'The seized marijuana from the La Hachadura interception. Photo: Fuerza Armada via Diario1'
 details:
+  activity: [trafficking]
+  agency_types: [military, border-guard, court]
   setting: [border]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.products: [1]
   details.setting: [1]
 status: verified

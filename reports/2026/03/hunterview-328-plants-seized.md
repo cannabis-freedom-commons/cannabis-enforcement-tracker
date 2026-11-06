@@ -24,9 +24,15 @@ media:
     publisher: Newcastle Herald
     caption: 'NSW Police photos of the Hunterview cannabis raid seizure. Photo: NSW Police'
 details:
+  activity: [cultivation]
+  agency_types: [police]
   environment: [indoor]
+  products: [{product: flower}, {product: plants, plants: 406}]
 data_sources:
+  details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
   details.environment: [2, 4]
+  details.products: [2, 3, 4, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a78460afb6c6b726768eae6145d359c1

@@ -16,8 +16,12 @@ figures:
   arrested: 1
 details:
   activity: [sale]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [1, 3]
+  details.case_stage: [1, 3, 4]
+  details.products: [1, 3, 4]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 2bebe5482e3ebb90186272d4817cb0a0

@@ -22,9 +22,13 @@ media:
     publisher: El Correo
     caption: 'The drugs and cash seized in operation Banatzailea, laid out on a table in front of an Ertzaintza banner. Photo: El Correo'
 details:
+  activity: [trafficking, sale]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 3]
+  details.agency_types: [2, 3, 1]
   details.products: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

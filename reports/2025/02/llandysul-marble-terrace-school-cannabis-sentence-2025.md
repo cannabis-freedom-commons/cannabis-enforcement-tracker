@@ -21,8 +21,12 @@ figures:
   value: { amount: 1960000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
+  case_stage: sentenced
   setting: [school]
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2]
   details.setting: [2]
 status: verified
 tags: [llandysul, ceredigion, school, m4-interception, indoor-grow]

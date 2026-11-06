@@ -15,9 +15,13 @@ summary: >-
 figures:
   arrested: 3
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [3, 4, 6, 2, 5]
+  details.agency_types: [3, 4, 6, 2, 5, 1]
   details.products: [1, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

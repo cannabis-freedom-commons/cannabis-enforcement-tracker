@@ -17,14 +17,20 @@ figures:
   kg_seized: 12000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [port]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [hashish, mother-ship, operation-canelas]
 sources:

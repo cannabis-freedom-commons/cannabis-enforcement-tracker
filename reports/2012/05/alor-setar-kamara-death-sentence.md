@@ -20,8 +20,14 @@ figures:
 created_by_model: meta/muse-spark
 details:
   activity: [trafficking]
+  agency_types: [customs, prosecutor, court]
+  case_stage: sentenced
+  setting: [vehicle]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [death-sentence, trafficking, kedah]
 sources:

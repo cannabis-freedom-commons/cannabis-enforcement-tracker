@@ -18,11 +18,17 @@ figures:
   value: { amount: 12900000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [ph-pdea, ph-pnp]
   agency_types: [anti-narcotics, police]
+  products: [{product: flower}, {product: plants}]
+  setting: [field]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 tags: [pdea, pnp, joint-operation]
 open_questions:

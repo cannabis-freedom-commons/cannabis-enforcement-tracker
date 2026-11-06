@@ -19,10 +19,12 @@ details:
   agency_types: [customs]
   products:
     - {product: hashish}
+  setting: [mail]
 data_sources:
   details.agencies: [1, 3, 4, 5]
   details.agency_types: [1, 3, 4, 5]
   details.products: [2, 3, 4, 5]
+  details.setting: [1, 3, 4, 5, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0d8769ff54868dfb07f614e8b581edd3

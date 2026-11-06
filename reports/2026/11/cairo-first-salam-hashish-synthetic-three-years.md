@@ -16,10 +16,18 @@ figures:
   charged: 2
   prison: 3 years
 details:
+  activity: [trafficking, possession]
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c4e047fe235c31e38ddd45fe2303434f

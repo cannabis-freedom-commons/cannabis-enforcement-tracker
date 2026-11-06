@@ -12,11 +12,15 @@ title: 3,560 US THC gummy packs seized en route to Netherlands
 summary: >-
   OLAF and French Customs seized and destroyed 3,560 packs of US-origin THC gummies destined for the Netherlands, most in counterfeit packs mimicking a well-known brand. The enquiry also identified online vendors and French shops selling illicit psychoactive products and warned the familiar packaging hid unpredictable THC doses, especially risky for children.
 details:
+  activity: [trafficking]
   agencies: [fr-douane]
   agency_types: [customs]
+  setting: [port]
 data_sources:
+  details.activity: [2, 3, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.setting: [2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c751b47126b3f8232154d194e52c3207

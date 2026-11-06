@@ -17,11 +17,13 @@ details:
   agencies: [nz-police]
   agency_types: [police]
   activity: [cultivation]
+  products: [{product: plants, plants: 360}]
   setting: [building]
 data_sources:
   details.activity: [2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6

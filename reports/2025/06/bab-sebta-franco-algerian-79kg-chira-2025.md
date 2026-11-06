@@ -16,11 +16,17 @@ figures:
   kg_seized: 79
 details:
   activity: [trafficking]
+  agency_types: [customs, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [border]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 011a43bcd7d3bc7e011db97bebf93777

@@ -30,11 +30,17 @@ media:
     publisher: open.kg
     caption: 'Interior Ministry photo published with the report on the extradited suspect’s alleged parcels. Photo: Ministry of Internal Affairs'
 details:
+  activity: [smuggling, trafficking]
   agencies: [int-interpol]
   agency_types: [police]
+  products: [{product: flower}]
+  setting: [mail]
 data_sources:
+  details.activity: [1, 4, 3, 2]
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
+  details.products: [1, 4, 3, 2]
+  details.setting: [1, 4, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 41e7c840aa490cda6be826668774bece

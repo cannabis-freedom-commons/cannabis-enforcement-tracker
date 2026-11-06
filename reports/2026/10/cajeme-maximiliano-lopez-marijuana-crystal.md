@@ -17,8 +17,14 @@ figures:
   charged: 1
 details:
   activity: [sale]
+  agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 43d98d0b25dd3a14518c777d710f53f1

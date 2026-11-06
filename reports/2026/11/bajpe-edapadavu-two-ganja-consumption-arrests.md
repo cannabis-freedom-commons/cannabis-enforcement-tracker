@@ -13,9 +13,11 @@ summary: >-
 figures:
   arrested: 2
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh

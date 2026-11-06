@@ -16,11 +16,15 @@ summary: >-
 figures:
   arrested: 42
 details:
+  activity: [trafficking]
   agencies: [int-interpol, int-europol]
   agency_types: [police]
+  case_stage: investigation
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [istanbul, network, interpol-europol]

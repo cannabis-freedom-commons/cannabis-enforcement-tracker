@@ -21,10 +21,14 @@ details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   activity: [cultivation]
+  products: [{product: flower}, {product: plants, plants: 143070}]
+  setting: [field]
 data_sources:
   details.activity: [2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [cordillera, kalinga, benguet, eradication]

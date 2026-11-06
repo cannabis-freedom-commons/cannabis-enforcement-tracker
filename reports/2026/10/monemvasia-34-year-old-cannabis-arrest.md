@@ -16,8 +16,10 @@ figures:
   arrested: 1
 details:
   activity: [possession]
+  agency_types: [police]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3463a0bace1211578fa4e111975165d3

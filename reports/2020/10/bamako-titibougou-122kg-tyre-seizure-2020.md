@@ -15,9 +15,19 @@ figures:
   arrested: 2
   kg_seized: 122
 details:
+  activity: [sale]
+  agency_types: [police, court]
+  case_stage: investigation
+  products: [{product: flower, kg: 122}]
   route: {from: [ml], to: [sn]}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1]
   details.route: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://maliactu.net/mali-trafic-de-drogue-122-kg-dherbes-de-cannabis-saisis-par-le-12e-arrondissement-de-bamako/

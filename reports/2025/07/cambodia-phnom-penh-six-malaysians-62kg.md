@@ -18,8 +18,12 @@ summary: >-
 figures:
   arrested: 6
 details:
+  agency_types: [customs, anti-narcotics, police, prosecutor]
+  case_stage: sentenced
   setting: [airport]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

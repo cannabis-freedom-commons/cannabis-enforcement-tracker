@@ -13,9 +13,13 @@ summary: >-
 figures:
   kg_seized: 66
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [border-guard, police, prosecutor]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

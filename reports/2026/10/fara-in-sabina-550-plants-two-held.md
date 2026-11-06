@@ -16,11 +16,17 @@ figures:
   plants_destroyed: 550
   kg_seized: 600
 details:
+  activity: [trafficking, cultivation]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
+  products: [{product: plants, plants: 550}]
+  setting: [field, prison]
 data_sources:
+  details.activity: [1, 2, 4, 5, 3]
   details.agencies: [1, 2, 5]
   details.agency_types: [1, 2, 5]
+  details.products: [2, 5, 1, 4]
+  details.setting: [3, 2, 5, 1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bd8c6bb44285afe10547be769286d7f7

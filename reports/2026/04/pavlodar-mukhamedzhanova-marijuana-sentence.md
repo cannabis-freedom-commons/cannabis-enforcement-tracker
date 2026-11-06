@@ -16,10 +16,18 @@ figures:
   kg_seized: 0.0026
   prison: 6 years
 details:
+  activity: [sale]
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [border, home, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e3daf823479d952fc0c6abf4162dee75

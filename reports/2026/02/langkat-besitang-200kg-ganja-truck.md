@@ -21,9 +21,11 @@ figures:
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  setting: [prison]
 data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.setting: [3, 1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [bnn, langkat, aceh, trafficking]

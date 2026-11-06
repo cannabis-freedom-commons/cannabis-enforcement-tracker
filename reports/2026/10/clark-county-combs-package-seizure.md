@@ -18,9 +18,15 @@ figures:
   plants_destroyed: 36
   kg_seized: 61.6886
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: charged
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 5, 3]
+  details.agency_types: [2, 3, 4, 1, 5]
+  details.case_stage: [1, 5, 3]
   details.products: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

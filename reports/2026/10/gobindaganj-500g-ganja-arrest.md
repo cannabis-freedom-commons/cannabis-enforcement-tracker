@@ -23,10 +23,14 @@ media:
     publisher: Ekushey Sangbad
     caption: A DB officer in a police vest and a man in a maroon T-shirt stand in front of a banner for the District Detective Police, Gaibandha, in a photo published with the report of the arrest.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 24800a24deda326b8ea6a032209c33e1

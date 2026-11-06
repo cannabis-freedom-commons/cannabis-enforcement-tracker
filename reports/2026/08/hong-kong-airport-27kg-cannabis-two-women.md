@@ -21,8 +21,16 @@ figures:
   value: { amount: 6300000, currency: HKD }
 created_by_model: openai/gpt-6
 details:
+  activity: [trafficking]
+  agency_types: [customs]
+  case_stage: charged
+  products: [{product: flower, kg: 27}]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [hong-kong, customs, airport, cannabis, seizure]

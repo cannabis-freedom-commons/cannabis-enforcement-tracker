@@ -27,10 +27,18 @@ media:
     publisher: RIG24
     caption: The district and sessions court building shown as the article's lead image for the Raigarh sentencing; the page gave no caption or credit.
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 3, 4, 5, 6]
+  details.agency_types: [1, 3, 4, 5, 2, 6]
+  details.case_stage: [1, 3, 4, 5, 6]
   details.products: [1, 3, 4, 5, 6]
+  details.setting: [1, 3, 6, 4, 5]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6a1292520dd6d2084778b0f768aa42af

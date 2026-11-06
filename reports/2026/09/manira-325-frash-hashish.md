@@ -18,9 +18,11 @@ summary: >-
 figures:
   arrested: 1
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [2]
 status: verified
 created_by_model: cursor/composer-2.5

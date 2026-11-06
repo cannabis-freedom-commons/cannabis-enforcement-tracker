@@ -22,10 +22,12 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 0.25}]
   setting: [mail]
 data_sources:
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3]
 status: verified
 tags: [laguna, san-pedro, pdea, courier, k9]

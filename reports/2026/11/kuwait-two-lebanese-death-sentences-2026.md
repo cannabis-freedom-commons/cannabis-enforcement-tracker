@@ -18,11 +18,19 @@ figures:
   kg_seized: 2.4
   prison: death sentence
 details:
+  activity: [trafficking]
+  agency_types: [customs, anti-narcotics, prosecutor]
+  case_stage: sentenced
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [mail]
 data_sources:
+  details.activity: [1, 3, 4, 5, 6, 2]
+  details.agency_types: [2, 1, 3, 4, 5, 6]
+  details.case_stage: [1, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [2, 1, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5ec2eea24f7c23a388d4903db8e720da

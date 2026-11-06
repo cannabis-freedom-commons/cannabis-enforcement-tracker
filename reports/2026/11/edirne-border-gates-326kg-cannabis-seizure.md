@@ -17,10 +17,16 @@ summary: >-
 figures:
   kg_seized: 325.941
 details:
+  activity: [smuggling]
+  agency_types: [customs, prosecutor]
   products:
     - {product: hashish}
+  setting: [airport, vehicle]
 data_sources:
+  details.activity: [1, 2, 3, 4, 6, 9]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 36, 37, 38, 43]
+  details.setting: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1c59be625d8ee1c727bdc952feda9e13

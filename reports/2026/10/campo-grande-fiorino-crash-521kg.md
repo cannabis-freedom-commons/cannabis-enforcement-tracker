@@ -20,11 +20,15 @@ media:
     publisher: Campo Grande News
     caption: 'Abandoned Fiat Fiorino at the scene after the collision with a motorcycle. Photo: Direto das Ruas'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: flower, kg: 521.6}]
 data_sources:
+  details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [1, 3, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 397b31400c0c714b1e87357133273f81

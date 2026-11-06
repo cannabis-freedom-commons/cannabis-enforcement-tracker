@@ -32,10 +32,16 @@ media:
     publisher: Aksaray Portal
     caption: The 1,134 synthetic pills seized in the operation, spread out in front of the gendarmerie banner.
 details:
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.agency_types: [3, 1, 2]
+  details.case_stage: [3]
   details.products: [1]
+  details.setting: [3, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 2ab6b322d6d00059e258dbe5ff64adbb

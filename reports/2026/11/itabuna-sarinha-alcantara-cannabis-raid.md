@@ -20,12 +20,14 @@ media:
     publisher: Se Ligue Bahia
     caption: 'Drugs, cash, two mobile phones and the seized remote-control drone laid out after the Sarinha Alcântara raid in Itabuna. Photo: Divulgação'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

@@ -24,11 +24,17 @@ figures:
     currency: USD
 created_by_model: meta/muse-spark
 details:
+  activity: [trafficking]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  setting: [airport, vehicle, home]
 data_sources:
+  details.activity: [3, 4]
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2, 3, 4]
 status: verified
 tags:
   - ndlea

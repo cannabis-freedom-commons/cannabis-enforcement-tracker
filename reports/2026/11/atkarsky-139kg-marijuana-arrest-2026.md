@@ -21,10 +21,18 @@ media:
     publisher: Общественное мнение
     caption: 'Police photograph published with the account of the seizure at the 51-year-old resident''s household. Photo: ГУ МВД по Саратовской области'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8191ab8f7f4e80b7f9b495c3cf54eddd

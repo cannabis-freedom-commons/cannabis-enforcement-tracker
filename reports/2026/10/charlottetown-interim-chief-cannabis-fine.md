@@ -17,9 +17,11 @@ figures:
     amount: 200
     currency: CAD
 details:
+  activity: [sale]
   agencies: [ca-rcmp]
   agency_types: [police]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
 status: verified

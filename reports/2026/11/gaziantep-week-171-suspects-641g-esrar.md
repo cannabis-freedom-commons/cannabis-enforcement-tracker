@@ -22,9 +22,13 @@ media:
     publisher: Malatya Söz
     caption: Police display of seized drugs under a 'NARKO GAZIANTEP' sign shown in the lead image
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police, prosecutor]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

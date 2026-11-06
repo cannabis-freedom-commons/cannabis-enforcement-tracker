@@ -30,10 +30,14 @@ media:
     publisher: Lalluram
     caption: A second photo of the couple with police officers and the seized packets of ganja.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [border, vehicle]
 data_sources:
+  details.agency_types: [1, 5, 3, 2, 4]
   details.products: [1, 5]
+  details.setting: [1, 5, 3, 2, 4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 1e068b55807602ff5d3043540cc5671a

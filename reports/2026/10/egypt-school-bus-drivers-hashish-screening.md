@@ -14,9 +14,11 @@ summary: >-
 figures:
   charged: 22
 details:
+  agency_types: [anti-narcotics]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2, 3]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

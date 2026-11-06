@@ -18,11 +18,15 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling]
+  agency_types: [prosecutor]
   products:
     - {product: hashish}
+  setting: [home, building]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [isf, hashish, ouzai, smuggling]
 sources:

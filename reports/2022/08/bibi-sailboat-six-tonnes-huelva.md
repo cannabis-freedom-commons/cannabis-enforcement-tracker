@@ -29,14 +29,18 @@ media:
     caption: Hashish bales stacked in the sailing boat's cabin (still from the agency video)
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling, trafficking]
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [ma], to: [es]}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
 status: verified

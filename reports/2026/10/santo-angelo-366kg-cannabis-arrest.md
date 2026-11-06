@@ -22,11 +22,17 @@ media:
     publisher: Jornal Noroeste
     caption: 'BM photo accompanying the report on the drugs seized in Santo Ângelo. Photo: BM'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 3.662}]
 data_sources:
+  details.activity: [1, 3]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 3]
+  details.products: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8073d5ff7073274ea29dfada48cd8885

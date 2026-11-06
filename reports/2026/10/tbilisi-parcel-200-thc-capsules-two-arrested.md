@@ -15,8 +15,12 @@ summary: >-
 figures:
   arrested: 2
 details:
+  agency_types: [customs, police]
+  case_stage: convicted
   setting: [airport, mail]
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

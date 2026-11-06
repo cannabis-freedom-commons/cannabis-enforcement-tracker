@@ -22,10 +22,18 @@ media:
     publisher: عدن الغد
     caption: 'A police colonel seated behind nine bags of hashish laid out on a table, published with the report on the Khormaksar seizure. Photo: Aden Al-Ghad'
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 1, 4, 6, 10, 8]
+  details.agency_types: [2, 5, 7, 10, 3, 1]
+  details.case_stage: [2, 5, 7, 10, 3]
   details.products: [2, 5, 7, 10]
+  details.setting: [2, 1, 4, 6, 10]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 5618c90fc887e5b0df6d010a9940d32c

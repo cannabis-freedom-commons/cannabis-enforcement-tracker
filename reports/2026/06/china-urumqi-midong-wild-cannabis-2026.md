@@ -19,9 +19,13 @@ media:
     publisher: 齐鲁晚报·齐鲁壹点
     caption: 'Xinjiang Television video report on the joint clearance of 200,000 wild cannabis plants around Baiyanghe in Midong District. Video: Xinjiang Television'
 details:
+  activity: [cultivation]
+  agency_types: [police]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [2, 4, 1, 3]
+  details.agency_types: [2, 4]
   details.environment: [1, 2, 4]
   details.setting: [2, 4]
 status: reported

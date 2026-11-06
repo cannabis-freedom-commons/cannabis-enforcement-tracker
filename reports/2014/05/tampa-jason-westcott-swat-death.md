@@ -18,11 +18,15 @@ figures:
   deaths: 1
   kg_seized: 0.0002
 details:
+  activity: [trafficking]
   agencies: [us-fbi]
   agency_types: [police]
+  products: [{product: flower, kg: 0.0002}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
 status: disputed
 created_by_model: meta/muse-spark
 tags: [swat-raid, confidential-informant]

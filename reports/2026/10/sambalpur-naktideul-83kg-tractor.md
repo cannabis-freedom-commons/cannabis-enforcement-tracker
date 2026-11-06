@@ -35,10 +35,16 @@ media:
     publisher: Kanak News
     caption: 'Kanak News video report on the seizure of 83 kg of ganja from a tractor trolley in Redhakhol. Video: Kanak News'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [forest]
 data_sources:
+  details.activity: [3, 1, 4, 2]
+  details.agency_types: [3, 5, 1, 2, 4]
   details.products: [1, 3, 5]
+  details.setting: [3, 5, 1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 61ac56e17fad7f710051d5c3799fcfdc

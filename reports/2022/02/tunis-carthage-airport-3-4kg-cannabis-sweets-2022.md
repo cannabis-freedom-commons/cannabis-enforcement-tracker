@@ -26,8 +26,12 @@ media:
     publisher: Réalités
     caption: 'A second photo from the same customs statement, showing the packets seized at the airport. Photo: Douane tunisienne / Réalités'
 details:
+  activity: [smuggling]
+  agency_types: [customs, prosecutor]
   setting: [airport]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1, 3]
   details.setting: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

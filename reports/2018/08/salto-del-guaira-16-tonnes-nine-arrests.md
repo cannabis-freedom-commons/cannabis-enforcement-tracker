@@ -18,9 +18,19 @@ figures:
     amount: 8000000
     currency: USD
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [customs, police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 16000}]
   route: {from: [py], to: [br]}
+  setting: [field]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.route: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c27abab9c476e301e18a766e68a24606

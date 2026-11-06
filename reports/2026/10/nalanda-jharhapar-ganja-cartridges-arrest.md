@@ -16,10 +16,16 @@ figures:
   arrested: 1
   kg_seized: 1.596
 details:
+  activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 4e601d8c5289e2cdc6a158bc9ff4d4e1

@@ -26,10 +26,16 @@ media:
     publisher: Fiji Sun
     caption: 'A police drug detection dog alerted officers to a truck at Narain Jetty, leading to the discovery of suspected marijuana concealed inside a bag. Photo: Police Media Cell.'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle, mail]
 data_sources:
+  details.agency_types: [1, 3, 4, 5, 6, 8]
+  details.case_stage: [1, 3, 4, 5, 6, 8]
   details.products: [1, 2, 3, 4, 5, 6, 7]
+  details.setting: [1, 3, 4, 5, 6, 8]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8f6ad391645f8366fc10f112863c0a08

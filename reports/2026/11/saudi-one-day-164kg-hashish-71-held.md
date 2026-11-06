@@ -16,14 +16,18 @@ figures:
   arrested: 71
   kg_seized: 164
 details:
+  activity: [smuggling]
   agencies: [sa-gdnc]
   agency_types: [anti-narcotics]
   products:
     - {product: hashish}
+  setting: [border]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d29888ab55f19e3434f90b46a0d68c7d

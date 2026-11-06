@@ -15,10 +15,14 @@ figures:
   arrested: 2
   kg_seized: 200
 details:
+  agency_types: [customs]
   products:
     - {product: hashish}
+  setting: [airport, port, border]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7022f27fc662892ac6ed14827e971333

@@ -14,8 +14,14 @@ figures:
     arrested: 5
 details:
   activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: investigation
+  setting: [home]
 data_sources:
   details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 6, 5]
+  details.setting: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1e83dbaeefc7a41ed5f32450e00eb7ba

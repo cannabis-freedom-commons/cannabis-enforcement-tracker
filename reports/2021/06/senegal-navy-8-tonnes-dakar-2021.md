@@ -17,10 +17,14 @@ figures:
   kg_seized: 8370
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [military]
   products:
     - {product: hashish}
+  setting: [port]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [navy, hashish, dakar]
 sources:

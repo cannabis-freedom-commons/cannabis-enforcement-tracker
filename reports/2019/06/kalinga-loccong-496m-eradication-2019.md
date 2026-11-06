@@ -18,11 +18,19 @@ figures:
   value: { amount: 49600000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 240500}]
+  setting: [field]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [pdea, kalinga, cordillera, oplan-green-pearl-charlie]
 sources:

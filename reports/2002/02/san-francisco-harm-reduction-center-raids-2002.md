@@ -19,13 +19,21 @@ figures:
   plants_destroyed: 8135
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: charged
+  products: [{product: flower}, {product: plants, plants: 8135}]
   route: {from: [ca/bc], to: [us/ca]}
+  setting: [street]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 1, 3]
+  details.products: [1, 3, 2]
   details.route: [1, 3]
+  details.setting: [1, 3, 2]
 status: verified
 tags: [medical-marijuana, dea, harm-reduction]
 open_questions:

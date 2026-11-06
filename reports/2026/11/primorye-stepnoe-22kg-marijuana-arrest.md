@@ -22,10 +22,16 @@ media:
     publisher: PRIMPRESS.RU
     caption: 'Police screenshot published with the report on the Stepnoe detention and seized marijuana. Photo: Police of Primorsky Krai'
 details:
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [2, 3, 4, 1]
+  details.case_stage: [1, 3, 4, 2]
   details.products: [1, 3]
+  details.setting: [1, 3, 4, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 818e813b833b55d3a7a19e93c776bbd1

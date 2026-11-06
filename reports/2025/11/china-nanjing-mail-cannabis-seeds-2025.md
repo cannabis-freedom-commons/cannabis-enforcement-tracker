@@ -15,10 +15,14 @@ summary: >-
   in small bags of three to five each; customs destroyed the mail and cited criminal penalties for
   carrying non-inactivated drug-plant seeds in larger amounts.
 details:
+  agency_types: [customs]
   products:
     - {product: seeds}
+  setting: [mail]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [jiangsu, nanjing, customs, cannabis-seeds]

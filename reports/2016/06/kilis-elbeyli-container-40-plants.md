@@ -16,8 +16,12 @@ figures:
   arrested: 1
   plants_destroyed: 40
 details:
+  agency_types: [gendarmerie, prosecutor]
+  case_stage: investigation
   setting: [port]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

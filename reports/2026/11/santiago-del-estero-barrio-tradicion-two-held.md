@@ -15,8 +15,14 @@ figures:
   arrested: 2
 details:
   activity: [sale]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c5870f997cb5427994ce8bddd4a59408

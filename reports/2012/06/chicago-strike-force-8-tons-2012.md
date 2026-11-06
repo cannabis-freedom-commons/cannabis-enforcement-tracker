@@ -18,11 +18,17 @@ figures:
   value: { amount: 40000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [possession]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 7257.5}]
+  setting: [home, building]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [2, 1]
+  details.setting: [2]
 status: verified
 tags: [chicago, cartel, dea, tractor-trailer]
 sources:

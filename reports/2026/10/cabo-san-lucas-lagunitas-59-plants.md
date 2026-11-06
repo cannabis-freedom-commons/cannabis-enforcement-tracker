@@ -29,14 +29,18 @@ media:
     publisher: Peninsular Digital
     caption: 'Photograph labeled Erik Esaú “N” and Shawna Marie “N”. Photo: Peninsular Digital'
 details:
+  activity: [cultivation, possession]
   agencies: [mx-fgr]
   agency_types: [prosecutor]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: f50d7debf6b9f90bd57d7bcea959b18a

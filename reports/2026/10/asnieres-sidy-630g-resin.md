@@ -16,10 +16,16 @@ figures:
   arrested: 1
   kg_seized: 0.63
 details:
+  activity: [trafficking]
+  agency_types: [police, court]
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [1, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 416c014adadd299beaca2734b675cf9e

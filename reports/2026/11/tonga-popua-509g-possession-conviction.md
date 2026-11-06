@@ -17,8 +17,14 @@ figures:
   kg_seized: 0.50878
 details:
   activity: [possession]
+  agency_types: [police, court]
+  case_stage: acquitted
+  setting: [home]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 690e8b5ecc3dcc642bad9c3d5a3aa767

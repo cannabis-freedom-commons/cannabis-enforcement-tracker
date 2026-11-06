@@ -29,10 +29,18 @@ media:
     publisher: Sud Ouest
     caption: 'The defendant at the Bayonne hearing; he admitted the drug-trafficking acts and left for 30 months in detention. Photo: Bertrand Lapègue / SO'
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [port, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5a4074c6fa0af95cb6122b4fe95511dc

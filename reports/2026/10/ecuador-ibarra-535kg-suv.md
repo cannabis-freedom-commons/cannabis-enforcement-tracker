@@ -21,8 +21,12 @@ figures:
   value: { amount: 414000, currency: USD }
 created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
 details:
+  agency_types: [police]
+  products: [{product: flower, kg: 535.03}]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [2]
 status: verified
 tags: [imbabura, ibarra, cero-impunidad, vehicle]

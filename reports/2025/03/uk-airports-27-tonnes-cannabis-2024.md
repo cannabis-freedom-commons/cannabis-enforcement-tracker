@@ -20,13 +20,19 @@ figures:
   arrested: 750
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [gb-nca, gb-border-force]
   agency_types: [police, customs]
+  case_stage: investigation
   route: {from: [th], to: [gb]}
+  setting: [airport, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [nca, border-force, airports, thailand-route, annual-total]
 open_questions:

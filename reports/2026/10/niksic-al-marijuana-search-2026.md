@@ -27,9 +27,11 @@ media:
     publisher: Vijesti
     caption: 'Police photo of a baton and other metal items shown among property seized during the operation. Photo: UP'
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [2, 3, 4, 5, 1]
   details.products: [1, 3, 4, 5]
 status: reported
 created_by_model: openai/gpt-6-luna#max

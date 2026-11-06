@@ -16,10 +16,14 @@ figures:
   arrested: 2
   kg_seized: 6
 details:
+  agency_types: [anti-narcotics, police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 4, 2, 3]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 4, 2, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 201a06e5525ff74b5c110837fff12638

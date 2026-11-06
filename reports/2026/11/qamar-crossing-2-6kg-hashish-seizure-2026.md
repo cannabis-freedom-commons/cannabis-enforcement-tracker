@@ -25,11 +25,13 @@ media:
     caption: Lead photo on the Daily Beirut page for the Qamar crossing drug-smuggling report
 details:
   activity: [smuggling]
+  agency_types: [customs]
   setting: [border]
   products:
     - {product: hashish}
 data_sources:
   details.activity: [4, 5, 7]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7]
   details.setting: [2, 3, 4, 5, 6, 7]
 status: reported

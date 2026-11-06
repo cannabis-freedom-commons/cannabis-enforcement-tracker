@@ -20,14 +20,18 @@ figures:
   kg_seized: 10000
   value: { amount: 20000000, currency: EUR }
 details:
+  activity: [smuggling, trafficking]
   agencies: [it-gdf]
   agency_types: [customs]
+  case_stage: investigation
   setting: [port]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 1, 3]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1, 3]
   details.products: [1, 2]
   details.setting: [2]
 status: verified

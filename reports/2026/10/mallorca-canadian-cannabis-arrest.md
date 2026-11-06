@@ -22,10 +22,18 @@ figures:
 created_by_model: unknown
 details:
   activity: [trafficking]
+  agency_types: [customs, police, prosecutor, court]
+  case_stage: charged
+  products: [{product: hashish, kg: 3289}, {product: flower}]
   route: {from: [ca], to: [es]}
+  setting: [port, home, building]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [trafficking, canada-route, valencia]
 sources:

@@ -32,8 +32,12 @@ media:
     publisher: Blu Radio
     caption: 'Messenger pigeon carrying marijuana toward the prison. Photo: Twitter @HuancaYorkTimes.'
 details:
+  agency_types: [police]
+  products: [{product: flower}]
   setting: [prison]
 data_sources:
+  details.agency_types: [4, 3, 1, 2]
+  details.products: [4, 3, 1, 2]
   details.setting: [1, 2, 4]
 status: verified
 created_by_model: openai/gpt-6-luna#max

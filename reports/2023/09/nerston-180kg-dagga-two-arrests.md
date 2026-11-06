@@ -24,10 +24,16 @@ media:
     publisher: IOL
     caption: 'SAPS photo published with the report on the two suspects found with 38 bags of dagga. Photo: SAPS'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [port]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 9523c7ab7b386b5266ea819a4e30260c

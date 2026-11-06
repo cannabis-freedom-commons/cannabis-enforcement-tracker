@@ -19,10 +19,18 @@ figures:
     amount: 6000
     currency: USD
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [2, 3, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 941a98cb3f67f9c2f68d5c8ea8ea4d0d

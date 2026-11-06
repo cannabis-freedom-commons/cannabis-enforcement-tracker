@@ -17,8 +17,10 @@ summary: >-
 figures:
   kg_seized: 123
 details:
+  agency_types: [customs, prosecutor]
   setting: [airport]
 data_sources:
+  details.agency_types: [1, 2, 3]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: xai/grok-4.7

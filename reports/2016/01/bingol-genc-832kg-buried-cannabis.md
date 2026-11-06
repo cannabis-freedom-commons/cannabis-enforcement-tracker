@@ -19,10 +19,16 @@ figures:
     amount: 4160000
     currency: TRY
 details:
+  activity: [smuggling]
+  agency_types: [gendarmerie, prosecutor]
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2, 3]
   details.products: [2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 72e6239f8740648da1cdbca1eb009ba0

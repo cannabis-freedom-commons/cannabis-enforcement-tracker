@@ -29,9 +29,19 @@ media:
     publisher: Europa Press
     caption: 'National Police officers in the marijuana plantation dismantled in Gurb (Barcelona). Photo: CNP'
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower}]
+  setting: [field, home, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dae2934995881cbaf1718b0ad904c298

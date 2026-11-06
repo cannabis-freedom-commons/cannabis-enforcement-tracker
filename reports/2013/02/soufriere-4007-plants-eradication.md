@@ -26,8 +26,16 @@ media:
     caption: Second photograph published with the account of the 23 February 2013 eradication at St Phillips, Fond St Jacques, Soufriere; the page carries no caption or credit for it.
 details:
   activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 4007}]
+  setting: [field]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 5fc43cb784d762e1e44b18676b3e8159

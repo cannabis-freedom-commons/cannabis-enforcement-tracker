@@ -21,9 +21,11 @@ figures:
 details:
   agencies: [bd-dnc]
   agency_types: [anti-narcotics]
+  case_stage: investigation
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [bangladesh, brahmanbaria, dnc, ganja]

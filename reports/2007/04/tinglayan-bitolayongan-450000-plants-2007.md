@@ -17,11 +17,17 @@ figures:
   plants_destroyed: 450000
   value: { amount: 90000000, currency: PHP }
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 450000}]
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [pdea, tinglayan, cordillera]

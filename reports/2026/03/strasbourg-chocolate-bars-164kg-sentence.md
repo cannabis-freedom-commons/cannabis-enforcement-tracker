@@ -21,12 +21,18 @@ figures:
   prison: 4–6 years (four organisers)
   fine: { amount: 130000, currency: EUR }
 details:
+  agency_types: [police, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
   route: {from: [ma], to: [fr]}
+  setting: [home, building, prison]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [strasbourg, resin, chocolate, port-du-rhin]

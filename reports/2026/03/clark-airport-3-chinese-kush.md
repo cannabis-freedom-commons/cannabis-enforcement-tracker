@@ -29,10 +29,12 @@ details:
   agency_types: [anti-narcotics]
   products:
     - {product: flower}
+  setting: [port]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [clark, crk, kush, transit, customs]

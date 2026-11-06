@@ -19,9 +19,17 @@ figures:
   kg_seized: 0.04
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
+  agency_types: [police]
   environment: [greenhouse]
+  products: [{product: flower, kg: 0.04}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.environment: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [kraslava, latgale, greenhouse]
 open_questions:

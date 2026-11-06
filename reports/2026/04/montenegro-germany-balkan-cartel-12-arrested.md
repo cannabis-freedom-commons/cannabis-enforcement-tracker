@@ -42,9 +42,11 @@ media:
     publisher: Europol
     caption: Embedded video with footage from the arrests.
 details:
+  activity: [smuggling, trafficking]
   agencies: [int-europol]
   agency_types: [police]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
 status: verified

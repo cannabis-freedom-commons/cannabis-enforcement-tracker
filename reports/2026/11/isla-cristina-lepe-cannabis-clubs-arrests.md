@@ -26,11 +26,13 @@ media:
     publisher: Europa Press
     caption: 'Officers during one of the searches in Operation Dehesa. Photo: Guardia Civil'
 details:
+  activity: [trafficking]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3, 4, 5, 6, 2]
   details.agencies: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [1, 3, 4, 5, 6]

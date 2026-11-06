@@ -22,10 +22,16 @@ media:
     publisher: Dainik Bhaskar
     caption: A woman in a yellow sari and a young man in a blue shirt standing with two police officers, in the lead photograph on the Dainik Bhaskar report of the arrest. The page gives no caption or photographer credit.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: eb9e84584a3c778a1ec7a0b58e954d99

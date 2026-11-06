@@ -27,9 +27,11 @@ media:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
 data_sources:
   details.agencies: [3]
   details.agency_types: [3]
+  details.case_stage: [1, 3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 19eab450ef7ccf3671468f473f8e4ec1

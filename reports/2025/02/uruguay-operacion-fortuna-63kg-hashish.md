@@ -60,10 +60,16 @@ media:
     publisher: Ministerio del Interior
     caption: Image captioned as seized drugs in the Operation Fortuna gallery; no photo credit stated.
 details:
+  activity: [trafficking]
+  agency_types: [customs, court]
   products:
     - {product: hashish}
+  setting: [airport, mail]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.products: [1, 2, 3]
+  details.setting: [1, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: c19b16179956b9fae772995416b845fc

@@ -17,9 +17,11 @@ figures:
 details:
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 186}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8084686119cbeb69f58936da457ae8f1

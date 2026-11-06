@@ -20,10 +20,16 @@ figures:
     amount: 5000
     currency: INR
 details:
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 75f73c351e71687a088c1534fe82e8be

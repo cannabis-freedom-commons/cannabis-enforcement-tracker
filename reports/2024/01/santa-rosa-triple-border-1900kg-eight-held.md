@@ -15,9 +15,17 @@ figures:
   arrested: 8
   kg_seized: 1900
 details:
+  activity: [trafficking]
+  agency_types: [military, police]
+  case_stage: investigation
   date_precision: publication
+  products: [{product: flower, kg: 1900}]
   region: Loreto
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
 media:

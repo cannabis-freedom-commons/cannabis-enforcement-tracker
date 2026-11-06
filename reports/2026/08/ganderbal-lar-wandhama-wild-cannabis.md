@@ -14,11 +14,13 @@ summary: >-
   identifying, uprooting and destroying wild plants along roadsides and at other locations.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [in-excise]
   agency_types: [regulator]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.environment: [1, 2]

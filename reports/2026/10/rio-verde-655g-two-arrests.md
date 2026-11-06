@@ -22,14 +22,20 @@ media:
     publisher: Idest
     caption: 'Police handout photo accompanying the report on the 655 g seizure in Jardim dos Estados. Credit: Policia Militar disclosure via Idest'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8ebef53627b46a41320d4d7fa734aa4c

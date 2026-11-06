@@ -37,10 +37,18 @@ media:
     publisher: Nadmorski24.pl
     caption: 'Police handout gallery photo published with the Luzino seizure report. Photo: KPP Wejherowo'
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 097823c7b2e53d5fc0d67719cc38c477

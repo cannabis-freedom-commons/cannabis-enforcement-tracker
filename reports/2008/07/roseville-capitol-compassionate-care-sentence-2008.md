@@ -24,11 +24,15 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   activity: [sale]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 21.827}, {product: flower}]
   setting: [shop]
 data_sources:
   details.activity: [1, 2, 5]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [4, 5]
+  details.products: [1, 4, 5, 2, 3]
   details.setting: [1, 2, 4, 5]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

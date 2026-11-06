@@ -18,9 +18,11 @@ figures:
 details:
   agencies: [cl-carabineros, cl-pdi]
   agency_types: [gendarmerie, police]
+  products: [{product: plants, plants: 237}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ffff73690e0d0e6344ccde7c67672546

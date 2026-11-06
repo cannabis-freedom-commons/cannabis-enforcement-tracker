@@ -19,12 +19,18 @@ figures:
   arrested: 7
   value: { amount: 35000000, currency: EUR }
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [ma], to: [fr]}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [2]
   details.route: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [resin, morocco-route, rungis-investigation]

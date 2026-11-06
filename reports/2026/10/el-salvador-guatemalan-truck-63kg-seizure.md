@@ -37,11 +37,15 @@ media:
     caption: 'Drugs in bundles hidden with special material to evade controls. Photo: courtesy Gustavo Villatoro'
 details:
   activity: [smuggling]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
   details.activity: [2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3b18e6da9d9af7d21f6be4be54d33723

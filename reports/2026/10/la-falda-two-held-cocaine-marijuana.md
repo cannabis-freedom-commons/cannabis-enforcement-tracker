@@ -32,9 +32,15 @@ media:
     publisher: La Voz del Interior
     caption: 'One of the men detained in the La Falda raids. Photo: Ministerio Público Fiscal de Córdoba (mpfcordoba.gob.ar).'
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: charged
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 5, 2]
+  details.agency_types: [3, 1, 4, 2, 5]
+  details.case_stage: [1, 5, 2]
   details.products: [1, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

@@ -42,11 +42,19 @@ media:
     publisher: Julio Astillero
     caption: Lead image published with the Julio Astillero reprint of the OEM-Informex note on the 82-kilogram marijuana shipment seized at a Cancún parcel company; no separate photo credit is given.
 details:
+  activity: [possession]
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 82.573006}]
+  setting: [mail]
 data_sources:
+  details.activity: [1, 3, 4]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 3, 4]
+  details.products: [1, 3, 4]
+  details.setting: [1, 3, 4, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 19def2afe62e598afa91fbcde2606f58

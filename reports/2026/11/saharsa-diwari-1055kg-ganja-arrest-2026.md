@@ -18,6 +18,7 @@ figures:
     amount: 150000
     currency: INR
 details:
+  activity: [smuggling]
   agencies: [Sonvarsha Kachhari police]
   agency_types: [police]
   products:
@@ -27,6 +28,7 @@ details:
   date_precision: publication
   region: Bihar
 data_sources:
+  details.activity: [2, 1, 3]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]

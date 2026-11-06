@@ -20,8 +20,12 @@ figures:
   kg_seized: 231.42
   value: { amount: 25456200, currency: TTD }
 details:
+  agency_types: [coast-guard]
+  products: [{product: flower, kg: 231.42}]
   route: {from: [ve], to: [tt]}
 data_sources:
+  details.agency_types: [1]
+  details.products: [1, 2]
   details.route: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

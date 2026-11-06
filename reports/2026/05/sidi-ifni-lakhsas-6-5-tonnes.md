@@ -20,10 +20,16 @@ figures:
   arrested: 1
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, prosecutor]
   products:
     - {product: hashish}
+  setting: [border, vehicle]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [sidi-ifni, guelmim, royal-gendarmerie, hashish]
 open_questions:

@@ -23,10 +23,14 @@ media:
     publisher: Marunadan Malayalee
     caption: Header image the outlet uses for the Operation Toofan five-month update, captioned with the arrest and seizure totals.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [1, 4, 2]
+  details.agency_types: [1, 4, 2, 3]
   details.products: [1, 2, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

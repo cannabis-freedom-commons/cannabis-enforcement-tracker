@@ -18,8 +18,12 @@ figures:
   charged: 1
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [court]
+  case_stage: sentenced
   setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [death-penalty, prison, methamphetamine]

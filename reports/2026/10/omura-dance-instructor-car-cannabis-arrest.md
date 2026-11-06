@@ -16,6 +16,7 @@ figures:
   kg_seized: 0.0002
 details:
   agencies: [長崎県警察]
+  agency_types: [police]
   products:
     - {product: flower, kg: 0.0002}
   activity: [possession]
@@ -27,6 +28,7 @@ details:
 data_sources:
   details.activity: [2]
   details.agencies: [2]
+  details.agency_types: [2, 1]
   details.case_stage: [2]
   details.charges: [2]
   details.products: [2]

@@ -30,10 +30,18 @@ media:
     publisher: Смартпресс
     caption: Seized packages from the record 1.3-tonne shipment.
 details:
+  activity: [smuggling]
+  agency_types: [customs]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [1, 3, 4, 2]
+  details.agency_types: [1, 3, 2, 4]
+  details.case_stage: [1, 3, 4, 2]
   details.products: [1, 3, 4]
+  details.setting: [1, 3, 2, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b1b3ed7ee3c186ab137166ccdbae2f41

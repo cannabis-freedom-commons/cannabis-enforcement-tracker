@@ -39,8 +39,14 @@ media:
     caption: 'Police photo of the seized marijuana said to be worth millions on the illicit market. Photo: X / DIPAMPCO'
 details:
   activity: [sale]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [border]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c7166d37f113eae1c9b47316c352a5f2

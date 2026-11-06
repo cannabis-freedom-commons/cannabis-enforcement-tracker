@@ -24,9 +24,15 @@ figures:
     currency: EUR
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police, prosecutor]
   environment: [indoor]
+  products: [{product: flower, kg: 27.72}, {product: plants, plants: 255}]
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
   details.environment: [1, 2]
+  details.products: [2, 3, 1]
 status: verified
 tags: [attica, daoe, hydroponic, skunk]
 open_questions:

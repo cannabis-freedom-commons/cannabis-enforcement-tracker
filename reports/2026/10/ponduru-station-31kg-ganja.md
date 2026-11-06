@@ -25,9 +25,15 @@ media:
     publisher: Andhrajyothy
     caption: 'Tahsildar and police officers inspect bags of ganja laid out at Ponduru railway station. Photo: Andhrajyothy'
 details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

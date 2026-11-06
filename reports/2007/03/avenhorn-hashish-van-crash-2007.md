@@ -15,10 +15,14 @@ summary: >-
 figures:
   kg_seized: 3000
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [hashish, trafficking, road-crash]

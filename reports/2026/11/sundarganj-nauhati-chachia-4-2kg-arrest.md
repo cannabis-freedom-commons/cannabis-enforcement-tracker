@@ -28,10 +28,12 @@ details:
   agency_types: [anti-narcotics]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d422ae1212db696ffcd9801c328ed4f0

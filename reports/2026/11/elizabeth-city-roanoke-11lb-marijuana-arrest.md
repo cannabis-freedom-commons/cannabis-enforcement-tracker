@@ -16,8 +16,16 @@ figures:
   charged: 1
   kg_seized: 0.499
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 0.499}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 6, 5, 4]
+  details.case_stage: [1, 5, 2, 3, 4, 6]
+  details.products: [1, 2, 3, 6, 5, 4]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

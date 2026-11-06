@@ -19,8 +19,12 @@ figures:
 created_by_model: cursor/composer-2.5
 details:
   activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
 data_sources:
   details.activity: [2]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 tags: [volta, dleu, eradication]
 sources:

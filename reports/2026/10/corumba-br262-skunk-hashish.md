@@ -24,13 +24,17 @@ media:
 details:
   agencies: [br-pf, br-prf]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 3, 2]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 115420e601938e2066f245a827ef8a7f

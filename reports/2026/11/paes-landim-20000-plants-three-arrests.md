@@ -41,11 +41,19 @@ media:
     publisher: Jornal de Brasília
     caption: Federal Police handout photo published with the report on the Paes Landim eradication, captioned 'Divulgação Polícia Federal' (Federal Police handout).
 details:
+  activity: [cultivation]
   agencies: [br-pf]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 20000}]
+  setting: [prison]
 data_sources:
+  details.activity: [1, 3, 4, 5, 2, 6]
   details.agencies: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
+  details.case_stage: [2, 3, 4]
+  details.products: [1, 4, 5, 6, 3]
+  details.setting: [3, 4, 5]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7e789da53b424c595c697e5aed18d315

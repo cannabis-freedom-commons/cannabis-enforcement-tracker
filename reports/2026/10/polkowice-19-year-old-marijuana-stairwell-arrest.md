@@ -26,10 +26,16 @@ media:
     publisher: Policja Dolnośląska
     caption: 'Police photo of two officers escorting the detained 19-year-old woman outdoors in a residential area. Photo: KPP Polkowice'
 details:
+  agency_types: [police, court]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [port]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fb72a43f06fe271ebf9886f7f8119c38

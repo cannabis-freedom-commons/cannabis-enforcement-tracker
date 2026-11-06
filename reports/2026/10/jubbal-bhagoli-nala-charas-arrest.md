@@ -27,9 +27,11 @@ media:
     publisher: Rozana Spokesman
     caption: The arrested man sitting on the floor in front of three uniformed police officers, in the photograph published with Rozana Spokesman's report of the Jubbal arrest.
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 4, 2, 3]
   details.products: [1, 2, 3, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

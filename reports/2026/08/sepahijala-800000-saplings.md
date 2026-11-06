@@ -25,9 +25,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [in-bsf]
   agency_types: [border-guard]
+  products: [{product: seeds}]
+  setting: [forest]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [tripura, sepahijala, sonamura, eradication]
 open_questions:

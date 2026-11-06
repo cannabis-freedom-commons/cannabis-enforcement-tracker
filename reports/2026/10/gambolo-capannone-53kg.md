@@ -20,9 +20,19 @@ figures:
   charged: 3
 created_by_model: cursor/composer-2.5-fast
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: hashish, kg: 53}]
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [pavia, vigevano, indoor]
 open_questions:

@@ -17,9 +17,11 @@ figures:
   kg_seized: 1000
   hectares: 0.5
 details:
+  agency_types: [police]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
   details.setting: [1, 2]
 status: verified

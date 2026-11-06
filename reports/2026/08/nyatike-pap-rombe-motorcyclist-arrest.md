@@ -14,11 +14,15 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [trafficking]
   agencies: [ke-nps]
   agency_types: [police]
+  case_stage: appeal
 data_sources:
+  details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1b5d150a00165671075906885bf924d9

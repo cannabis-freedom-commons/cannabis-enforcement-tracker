@@ -15,6 +15,7 @@ figures:
   arrested: 116
   kg_seized: 5.10491
 details:
+  activity: [trafficking]
   agencies: [North Kalimantan Regional Police (Polda Kaltara)]
   agency_types: [police, anti-narcotics]
   products:
@@ -22,6 +23,7 @@ details:
   date_precision: exact
   region: North Kalimantan
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

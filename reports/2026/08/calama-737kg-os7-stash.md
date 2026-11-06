@@ -19,13 +19,21 @@ figures:
   kg_seized: 737.3
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking]
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 737.3}]
   route: {from: [bo], to: [cl]}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
   details.route: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [calama, os7, bolivia-route]
 open_questions:

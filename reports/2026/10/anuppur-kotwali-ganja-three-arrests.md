@@ -22,10 +22,16 @@ media:
     publisher: Dainik Bhaskar
     caption: 'The 27-second video published with the report, showing men held in the case and packets of seized ganja laid out on a table. Video: Dainik Bhaskar'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 0922c8d0a73290ed4906b98cf63a3446

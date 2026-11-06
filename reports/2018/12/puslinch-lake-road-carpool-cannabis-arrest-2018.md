@@ -16,11 +16,15 @@ figures:
   charged: 1
   kg_seized: 0.03
 details:
+  activity: [trafficking, possession]
   agencies: [ca-opp]
   agency_types: [police]
+  products: [{product: flower, kg: 0.03}]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [2, 1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9667cfd6c421e3efcaa83722736de024

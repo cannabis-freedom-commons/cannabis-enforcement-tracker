@@ -15,9 +15,13 @@ figures:
   arrested: 0
   kg_seized: 160
 details:
+  activity: [smuggling, cultivation]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
   details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

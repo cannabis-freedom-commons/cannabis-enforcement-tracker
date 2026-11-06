@@ -32,9 +32,11 @@ media:
 details:
   agencies: [br-prf, br-pm]
   agency_types: [police, gendarmerie]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1, 2, 4, 5]
   details.agency_types: [1, 2, 4, 5]
+  details.setting: [1, 5, 3, 2, 6, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 0a8b1fd8c03516bef48aabd39f40c5c7

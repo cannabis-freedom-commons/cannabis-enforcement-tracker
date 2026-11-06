@@ -36,9 +36,15 @@ media:
     publisher: Infobae
     caption: 'Video about the PNP operation in Huanchaco and the nine Ecuadorian detainees. Credit: Policía Nacional del Perú.'
 details:
+  activity: [trafficking, possession]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2, 4]
+  details.case_stage: [1, 3]
   details.products: [1, 4]
 status: verified
 created_by_model: openai/gpt-6-luna#max

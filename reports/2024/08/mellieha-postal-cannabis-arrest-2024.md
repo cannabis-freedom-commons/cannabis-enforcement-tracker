@@ -21,8 +21,16 @@ figures:
   kg_seized: 8.5
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
+  agency_types: [customs, police, court]
+  case_stage: investigation
+  products: [{product: hashish, kg: 8.5}, {product: plants}]
   setting: [mail]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1]
   details.setting: [1]
 status: verified
 tags: [mellieha, postal]

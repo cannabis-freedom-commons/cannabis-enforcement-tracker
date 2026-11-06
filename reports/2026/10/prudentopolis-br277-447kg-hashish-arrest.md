@@ -22,9 +22,11 @@ media:
     publisher: TERRA MT DIGITAL
     caption: 'Federal Revenue photo showing the drug packages taped to the passenger''s legs. Photo: Receita Federal'
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

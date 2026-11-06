@@ -33,10 +33,16 @@ media:
       Kapolda Lampung Brig. Gen. Yustan Alpiani leading the drug-case press conference at Mapolda Lampung on 4
       November 2026. Photo: Erik/Kupastuntas.co
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [2, 4, 5]
+  details.setting: [2, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 15606a33c36007619329d6a7125f3a3a

@@ -29,9 +29,15 @@ media:
     publisher: Eisamay Online
     caption: 'The three arrested after railway police stopped them with the ganja at Malda Town station. Photo: Eisamay Online'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 3, 5, 4]
+  details.agency_types: [1, 3, 2, 6, 5, 4]
+  details.case_stage: [1, 2, 6]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

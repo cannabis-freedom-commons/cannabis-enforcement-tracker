@@ -22,10 +22,12 @@ media:
 details:
   agencies: [br-prf]
   agency_types: [police]
+  products: [{product: flower, kg: 1.5}]
   setting: [vehicle]
 data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.products: [1]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

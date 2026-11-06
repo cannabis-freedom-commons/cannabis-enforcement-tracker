@@ -17,11 +17,15 @@ details:
   agency_types: [customs]
   activity: [smuggling]
   date_precision: exact
+  products: [{product: hashish, kg: 4000}]
   region: Tangier-Tetouan-Al Hoceima
+  setting: [vehicle]
 data_sources:
   details.activity: [2]
   details.agencies: [2]
   details.agency_types: [3]
+  details.products: [3, 2, 1]
+  details.setting: [2, 1]
   figures.kg_seized: [3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -14,10 +14,18 @@ summary: >-
   cannabis seeds…
 created_by_model: unknown
 details:
+  activity: [trafficking, cultivation, possession]
+  agency_types: [prosecutor]
+  case_stage: sentenced
   products:
     - {product: seeds}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1]
+  details.case_stage: [3, 2]
   details.products: [1, 3]
+  details.setting: [1, 3, 2]
 status: verified
 cfi_id: bahrain-home-cultivation-appeal-2026
 tags:

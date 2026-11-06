@@ -21,8 +21,12 @@ figures:
   value: { amount: 2000000, currency: EUR }
 created_by_model: xai/grok-4.7
 details:
+  agency_types: [police, prosecutor]
+  products: [{product: flower, kg: 200}]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1]
   details.setting: [1]
 status: verified
 tags: [traiskirchen, spielfeld, truck]

@@ -15,10 +15,18 @@ figures:
   arrested: 11
   kg_seized: 20000
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [port]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 670a1b26a79e43fad082681d227ca19a

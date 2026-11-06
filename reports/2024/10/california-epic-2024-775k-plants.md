@@ -20,11 +20,17 @@ figures:
   kg_seized: 48144.75
   value: { amount: 353000000, currency: USD }
 details:
+  activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: plants, plants: 774829}]
+  setting: [forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [epic, bonta, unlicensed-cultivation, environmental-harm]

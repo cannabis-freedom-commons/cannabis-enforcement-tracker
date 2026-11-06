@@ -14,9 +14,13 @@ summary: >-
 figures:
   plants_destroyed: 5000
 details:
+  activity: [cultivation]
+  agency_types: [border-guard, police]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
   details.setting: [1, 2]
 status: verified

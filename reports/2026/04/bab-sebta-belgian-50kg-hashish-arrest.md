@@ -31,9 +31,15 @@ media:
     publisher: El Faro de Ceuta
     caption: 'Photo of the hidden compartment under the rear seat used to conceal hashish plates. Photo: Imágenes cedidas via El Faro de Ceuta.'
 details:
+  activity: [smuggling]
+  agency_types: [customs, police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

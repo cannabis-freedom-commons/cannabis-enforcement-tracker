@@ -18,11 +18,17 @@ figures:
   kg_seized: 121000
   arrested: 101
 details:
+  activity: [smuggling, trafficking]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 121000}]
+  setting: [home, building]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [dea, fedex, operation-green-air, arellano-felix]

@@ -26,9 +26,15 @@ media:
     publisher: Taung Daily News
     caption: 'The two 20-litre drums and bags of compressed dagga seized near Christiana. Photo: police, via Taung Daily News.'
 details:
+  activity: [possession]
+  agency_types: [police]
+  case_stage: charged
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: unknown

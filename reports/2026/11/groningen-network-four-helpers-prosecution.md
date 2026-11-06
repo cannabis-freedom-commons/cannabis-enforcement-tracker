@@ -13,10 +13,16 @@ summary: >-
 figures:
   charged: 4
 details:
+  activity: [smuggling]
+  agency_types: [prosecutor, court]
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d2c0f8e57e4f928762b6f73b85203bc1

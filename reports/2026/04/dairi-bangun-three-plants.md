@@ -20,8 +20,14 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 3}]
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1]
+  details.products: [1, 2]
 status: verified
 tags: [bangun, parbuluan, dairi, north-sumatra, cultivation]
 open_questions:

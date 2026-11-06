@@ -13,11 +13,19 @@ title: Guardia Civil dismantles indoor cannabis farm in Huévar and arrests its 
 summary: >-
   The Guardia Civil dismantled an indoor cannabis plantation in a warehouse in Guadial, Huévar del Aljarafe (Seville), on 27 October 2026 and detained the people said to be running it. The town hall thanked the officers, who came from Pilas, and hoped residents would no longer have drug traffickers near their homes.
 details:
+  activity: [trafficking, cultivation]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [field, home, building]
 data_sources:
+  details.activity: [1, 2, 4, 5, 6, 7]
   details.agencies: [1, 2, 3, 4, 5, 6, 7]
   details.agency_types: [1, 2, 3, 4, 5, 6, 7]
+  details.case_stage: [1, 4, 5, 6, 7, 2]
+  details.products: [1, 4, 5, 6, 7]
+  details.setting: [1, 4, 5, 6, 7, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 867a08af92a09beed2b35f96f6da73a7

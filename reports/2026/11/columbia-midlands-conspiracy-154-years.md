@@ -25,6 +25,7 @@ details:
   sentence_types: [prison]
   date_precision: publication
   region: South Carolina
+  setting: [prison]
 data_sources:
   details.activity: [2]
   details.agencies: [1]
@@ -32,6 +33,7 @@ data_sources:
   details.case_stage: [2]
   details.products: [2]
   details.sentence_types: [1]
+  details.setting: [2, 3, 1]
   figures.kg_seized: [2]
   figures.sentenced: [1]
   figures.sites: [2]

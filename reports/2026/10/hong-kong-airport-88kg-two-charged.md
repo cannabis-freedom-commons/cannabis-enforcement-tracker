@@ -20,8 +20,16 @@ figures:
   charged: 2
   kg_seized: 8.8
 details:
+  activity: [trafficking, possession]
+  agency_types: [customs, anti-narcotics]
+  case_stage: charged
+  products: [{product: flower, kg: 8.8}]
   setting: [airport]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark

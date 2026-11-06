@@ -21,9 +21,15 @@ figures:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 48000}]
+  setting: [vehicle, home, building]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [rio-de-janeiro, mare, pm, record]

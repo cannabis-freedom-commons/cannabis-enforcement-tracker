@@ -22,11 +22,17 @@ figures:
     currency: PHP
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
   agencies: [ph-pdea, ph-pnp]
   agency_types: [anti-narcotics, police]
+  products: [{product: flower, kg: 96}]
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ilocos-sur, sugpon, pdea, pnp]
 open_questions:

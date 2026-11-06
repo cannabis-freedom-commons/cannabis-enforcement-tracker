@@ -30,12 +30,18 @@ media:
     publisher: El Observatodo
     caption: Cannabis plants seized in Diaguitas, in the photograph published with this version of the El Observatodo report; the outlet gives no caption or credit.
 details:
+  activity: [trafficking]
   agencies: [cl-pdi]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants, plants: 62}]
   setting: [home]
 data_sources:
+  details.activity: [1, 4, 3]
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [2, 4, 1, 3]
+  details.products: [2, 4, 1, 3]
   details.setting: [1, 2, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

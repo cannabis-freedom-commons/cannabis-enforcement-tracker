@@ -19,8 +19,12 @@ figures:
   arrested: 21
 created_by_model: unknown
 details:
+  activity: [trafficking]
+  agency_types: [police]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [airport, couriers, eurojust]

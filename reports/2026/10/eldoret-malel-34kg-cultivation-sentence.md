@@ -28,10 +28,18 @@ figures:
     amount: 1032000
     currency: KES
 details:
+  activity: [trafficking, cultivation, possession]
+  agency_types: [court]
+  case_stage: sentenced
   products:
     - {product: edibles}
+  setting: [mail, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags:

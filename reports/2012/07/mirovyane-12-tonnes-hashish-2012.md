@@ -19,10 +19,14 @@ figures:
   value: { amount: 360000000, currency: EUR }
 created_by_model: meta/muse-spark
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [home, building]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [mirovyane, hashish, record-seizure, smuggling]
 sources:

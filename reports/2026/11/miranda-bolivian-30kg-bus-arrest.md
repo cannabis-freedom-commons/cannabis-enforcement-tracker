@@ -24,9 +24,11 @@ media:
 details:
   agencies: [br-prf]
   agency_types: [police]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e81a0407162e869e3d2a3827a2f1e930

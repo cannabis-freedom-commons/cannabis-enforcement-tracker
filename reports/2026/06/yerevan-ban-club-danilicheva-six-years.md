@@ -21,6 +21,7 @@ figures:
 details:
   agencies: [Armenian police, Investigative Committee of Armenia, Yerevan first-instance court of general jurisdiction]
   agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: flower, kg: 0.0058}
   activity: [possession, sale, use]
@@ -34,6 +35,7 @@ data_sources:
   details.activity: [2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [3]
   details.charges: [3]
   details.force: [1]
   details.products: [1]

@@ -17,16 +17,20 @@ figures:
 details:
   agencies: [tr-jandarma]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish, kg: 0.05}
   activity: [trafficking]
   date_precision: publication
   region: Eskişehir
+  setting: [home, prison]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 3, 5, 6, 4]
   details.products: [1]
+  details.setting: [1, 3, 4, 5, 6, 2]
   figures.arrested: [1]
   figures.kg_seized: [1]
 media:

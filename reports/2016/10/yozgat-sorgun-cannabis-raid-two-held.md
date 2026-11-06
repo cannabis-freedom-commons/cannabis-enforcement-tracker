@@ -24,12 +24,16 @@ media:
 details:
   agencies: [tr-jandarma]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e13c3e1ae77ee6e6d63191ed35a12aac

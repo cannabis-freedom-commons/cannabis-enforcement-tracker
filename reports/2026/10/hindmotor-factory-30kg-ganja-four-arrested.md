@@ -20,10 +20,18 @@ figures:
     amount: 250000
     currency: INR
 details:
+  activity: [sale]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [building]
 data_sources:
+  details.activity: [1, 2, 4]
+  details.agency_types: [1, 6, 4, 5, 3, 2]
+  details.case_stage: [1, 6, 4, 5]
   details.products: [1, 2, 4]
+  details.setting: [1, 6, 4, 5, 3, 2]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: d9edb23723a77ae7902f5bcf2ef64432

@@ -22,10 +22,16 @@ media:
     publisher: Daily Thanthi
     caption: Seized ganja packets from the mini-lorry case on display after police seized 35 kg of ganja.
 details:
+  activity: [smuggling, sale]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 56445c14fc3c9c1a537eddffe7f340c0

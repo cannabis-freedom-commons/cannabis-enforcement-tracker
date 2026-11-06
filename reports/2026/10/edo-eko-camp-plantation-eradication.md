@@ -23,11 +23,15 @@ figures:
   hectares: 1.646
   kg_seized: 477
 details:
+  activity: [cultivation]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  setting: [airport, field]
 data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
   details.agencies: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
   details.agency_types: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+  details.setting: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: openai/gpt-6
 tags:

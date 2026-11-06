@@ -16,9 +16,13 @@ figures:
   deaths: 2
   kg_seized: 3.5
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 1, 3]
+  details.agency_types: [2, 1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

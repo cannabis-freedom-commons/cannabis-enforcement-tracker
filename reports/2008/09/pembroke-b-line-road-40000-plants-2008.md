@@ -20,9 +20,13 @@ figures:
 details:
   agencies: [ca-opp]
   agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 40000}]
+  setting: [vehicle, home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [opp, grow-op, cornfield]

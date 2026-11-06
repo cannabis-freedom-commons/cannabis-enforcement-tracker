@@ -19,11 +19,17 @@ figures:
   kg_seized: 3000
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking, cultivation]
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  products: [{product: plants, plants: 150000}, {product: seeds}]
+  setting: [field, forest]
 data_sources:
+  details.activity: [4, 23, 28, 35, 5, 6]
   details.agencies: [1, 2, 3, 4, 8, 9, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 25, 26, 28, 30, 31, 32, 35, 36, 38, 43]
   details.agency_types: [1, 2, 3, 4, 8, 9, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 25, 26, 28, 30, 31, 32, 35, 36, 38, 43]
+  details.products: [27, 36, 33, 37, 28, 43]
+  details.setting: [10, 21, 19, 32, 34, 36]
 status: verified
 tags: [bnn, mandailing-natal, tor-sihite, hillside]
 open_questions:

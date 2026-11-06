@@ -25,9 +25,13 @@ media:
     caption: Bags of seized narcotics in the Syrian Interior Ministry photo published with the report on the joint operation.
 created_by_model: unknown
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [anti-narcotics]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
 status: verified
 tags: [syria, iraq, hashish, joint-operation]

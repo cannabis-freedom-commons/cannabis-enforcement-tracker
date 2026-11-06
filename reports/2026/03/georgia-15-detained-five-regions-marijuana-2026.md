@@ -14,10 +14,18 @@ summary: >-
 figures:
   arrested: 15
 details:
+  activity: [sale]
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: da8c426ff9ff2f7e1c9c2fa9dce40a65

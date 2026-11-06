@@ -22,10 +22,16 @@ media:
     publisher: 中新网·新疆
     caption: Police officers examine wild cannabis plants growing in a greenbelt.
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 1000}]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.environment: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6

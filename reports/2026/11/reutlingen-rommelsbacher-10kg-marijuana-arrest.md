@@ -15,11 +15,17 @@ figures:
   arrested: 1
   kg_seized: 10.1
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [border, prison]
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
   details.products: [2, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: df6ba33c1aeff26179c8e93b79781642

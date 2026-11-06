@@ -23,10 +23,12 @@ media:
     publisher: Youm7
     caption: 'Youm7 photo of the seized material, published with the caption ''the seized items''. Photo: Youm7'
 details:
+  agency_types: [customs]
   setting: [airport]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 3, 2]
   details.products: [3]
   details.setting: [1]
 status: verified

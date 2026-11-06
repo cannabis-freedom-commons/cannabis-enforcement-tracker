@@ -29,9 +29,11 @@ media:
     publisher: BERITA Mediacorp
     caption: 'The drugs seized from the residential unit near Marsiling Road on 3 November 2026, including the cannabis, Ice and Ecstasy tablets. Photo: Central Narcotics Bureau'
 details:
+  activity: [trafficking]
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
 data_sources:
+  details.activity: [1, 3, 5, 7, 8, 6]
   details.agencies: [1, 3, 5, 7, 8]
   details.agency_types: [1, 3, 5, 7, 8]
 status: verified

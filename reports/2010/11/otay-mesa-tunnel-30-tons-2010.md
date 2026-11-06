@@ -20,11 +20,17 @@ figures:
   arrested: 2
   value: { amount: 20000000, currency: USD }
 details:
+  activity: [smuggling, trafficking]
   agencies: [us-dea, us-cbp]
   agency_types: [anti-narcotics, customs]
+  products: [{product: flower, kg: 27215.54}]
+  setting: [border, home, building]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tunnel, sinaloa-cartel, dea, otay-mesa]

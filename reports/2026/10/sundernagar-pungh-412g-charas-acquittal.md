@@ -16,9 +16,13 @@ figures:
   charged: 3
   kg_seized: 0.412
 details:
+  agency_types: [police, court]
+  case_stage: acquitted
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

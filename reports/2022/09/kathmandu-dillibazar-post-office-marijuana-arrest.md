@@ -14,11 +14,17 @@ summary: >-
 figures:
   arrested: 3
 details:
+  activity: [smuggling]
   agencies: [np-police]
   agency_types: [police]
+  products: [{product: flower}]
+  setting: [mail]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a9fff933d74f5ff82e446c3bc27b31bb

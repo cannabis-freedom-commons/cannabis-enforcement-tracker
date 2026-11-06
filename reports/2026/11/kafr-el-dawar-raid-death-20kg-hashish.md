@@ -16,10 +16,16 @@ figures:
   deaths: 1
   kg_seized: 20
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 55c31147a75e387af391620151406204

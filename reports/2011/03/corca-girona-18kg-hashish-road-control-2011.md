@@ -19,10 +19,16 @@ figures:
     amount: 25500
     currency: EUR
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8136875a126c26de1087cc2bc6bae3d5

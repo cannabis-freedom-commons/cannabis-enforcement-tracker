@@ -27,8 +27,14 @@ media:
     publisher: Philenews
     caption: Cannabis parcel sting in Nicosia nets more than six kilos, 22-year-old arrested
 details:
+  activity: [possession]
+  agency_types: [customs, police]
+  case_stage: investigation
   setting: [mail]
 data_sources:
+  details.activity: [1, 6, 3, 7, 4, 5]
+  details.agency_types: [3, 6, 7, 1, 4, 5]
+  details.case_stage: [3, 7, 6, 2, 4, 5]
   details.setting: [1, 3, 4, 5, 7]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

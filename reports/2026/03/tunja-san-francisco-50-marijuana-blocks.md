@@ -25,10 +25,16 @@ media:
     publisher: Policía Nacional de Colombia
     caption: Police image captioned as showing two officers and a man arrested after marijuana was found in a vehicle. No separate photo credit is given.
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
   products:
     - {product: flower}
+  setting: [vehicle, home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 91c42d3a9549f9546b8b29df7e72f442

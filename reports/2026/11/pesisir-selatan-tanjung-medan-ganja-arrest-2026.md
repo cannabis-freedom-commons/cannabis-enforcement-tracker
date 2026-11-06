@@ -25,10 +25,16 @@ media:
     publisher: Investigasi
     caption: Police photo of suspects FS and ODP with the seized drug packets and related items after the bridge arrest.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 4, 3, 2]
+  details.case_stage: [1, 4, 3]
   details.products: [1, 4]
+  details.setting: [2, 1, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ebfb93be85ae42c1d05d16f9eae1ab5d

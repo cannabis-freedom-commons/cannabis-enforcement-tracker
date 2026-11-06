@@ -23,12 +23,16 @@ media:
 details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [border]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
   details.products: [2]
+  details.setting: [1, 2, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [skunk, delta-state, fake-police, checkpoint, ndlea]

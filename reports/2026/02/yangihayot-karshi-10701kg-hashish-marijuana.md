@@ -21,11 +21,15 @@ media:
     publisher: Gazeta.uz
     caption: 'Photo published with the State Security Service statement on the three seizures in Tashkent city and the Tashkent and Kashkadarya regions; the caption repeats the headline and does not say which episode it shows. Photo: Press service of the State Security Service, via Gazeta.uz'
 details:
+  activity: [smuggling, sale]
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [3, 1, 2]
   details.products: [1, 3]
+  details.setting: [3, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 08d6df70451d517854ca3ceeb330a934

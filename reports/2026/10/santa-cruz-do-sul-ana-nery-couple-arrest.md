@@ -21,10 +21,18 @@ media:
     publisher: Portal Arauto
     caption: Seized drugs displayed after the arrest, captioned as a large quantity of drugs seized.
 details:
+  activity: [trafficking]
+  agency_types: [military, police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 95eb4278389535d32b4f72b9c4b2cfb3

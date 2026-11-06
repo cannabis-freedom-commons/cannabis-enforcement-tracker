@@ -17,10 +17,12 @@ created_by_model: meta/muse-spark
 details:
   agencies: [us-cbp]
   agency_types: [customs]
+  products: [{product: flower}]
   setting: [border]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
 status: reported
 tags: [cbp, record-haul, border]

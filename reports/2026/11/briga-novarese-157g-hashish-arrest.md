@@ -25,10 +25,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: b631b2cad438c15309c2271efb9fdedf

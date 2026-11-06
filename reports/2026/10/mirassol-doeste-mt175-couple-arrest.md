@@ -21,11 +21,15 @@ media:
     publisher: Só Notícias
     caption: 'Lead photo on the source page for this arrest report. Photo: Assessoria.'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: flower}]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 13a14867755ac23e18b12aa743b1646d

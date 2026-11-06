@@ -24,10 +24,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [vehicle, home]
 data_sources:
   details.agencies: [1, 5]
   details.agency_types: [1, 5]
   details.products: [1, 3, 4, 5]
+  details.setting: [1, 5, 3, 4, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5886b9725682d6ee04606fc9e69e06c9

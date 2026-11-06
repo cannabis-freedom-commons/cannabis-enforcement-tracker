@@ -23,11 +23,17 @@ figures:
   kg_seized: 12.4
 created_by_model: anthropic/opus-5.5
 details:
+  activity: [cultivation]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  setting: [field, forest]
 data_sources:
+  details.activity: [2, 1, 4, 3]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 3]
+  details.setting: [2, 1, 4, 3]
 status: verified
 tags:
   - ndlea

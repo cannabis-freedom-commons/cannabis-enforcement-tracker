@@ -21,10 +21,14 @@ media:
     publisher: Buxar Khabar
     caption: 'Ganja seized by Mufassil police station. Photo: Buxar Khabar'
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 4, 2, 3, 5]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 4, 2, 3, 5]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: a44dff5b0f89a2605f5f3cfa60322f9e

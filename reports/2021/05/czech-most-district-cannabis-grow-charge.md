@@ -29,9 +29,15 @@ media:
     publisher: e-Mostecko.cz
     caption: Photographs of the seized marijuana published with the report.
 details:
+  activity: [cultivation, sale]
+  agency_types: [police]
   environment: [indoor]
+  products: [{product: flower, kg: 5.793}, {product: plants, plants: 479}]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.environment: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [czechia, ustecky-kraj, most, indoor-grow, cannabis]

@@ -31,9 +31,15 @@ media:
     publisher: Infobae
     caption: 'The interception point 52 nautical miles south-east of Punta Burica, shown as part of the joint operation with US and Panamanian authorities. Photo: MSP'
 details:
+  activity: [trafficking]
+  agency_types: [coast-guard, police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [3, 5]
+  details.agency_types: [1, 2, 4, 3]
+  details.case_stage: [1, 2, 4]
   details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

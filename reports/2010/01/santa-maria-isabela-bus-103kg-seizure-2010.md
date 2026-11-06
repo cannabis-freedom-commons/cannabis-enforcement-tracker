@@ -18,11 +18,17 @@ figures:
   value: { amount: 3000000, currency: PHP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 103}]
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [pdea, bus-interception, kalinga-supply]
 open_questions:

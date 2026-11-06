@@ -22,8 +22,14 @@ figures:
   fine: { amount: 9900, currency: BGN }
 details:
   activity: [cultivation]
+  agency_types: [police, court]
+  products: [{product: flower, kg: 8.826}]
+  setting: [home]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cultivation]

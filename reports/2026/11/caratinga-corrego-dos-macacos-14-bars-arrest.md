@@ -27,9 +27,13 @@ media:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [home]
 data_sources:
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 3, 4, 5, 6]
+  details.setting: [1, 3, 4, 5, 6, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6041e27c0a976a6ffcf3a1cf52a24911

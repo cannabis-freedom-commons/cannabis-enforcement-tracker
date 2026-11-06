@@ -42,13 +42,17 @@ media:
     publisher: La Ciutat
     caption: Mossos d'Esquadra officers outside the Gavà house where the 656-plant plantation was found, in the video published with the report. No credit given.
 details:
+  activity: [cultivation]
   agencies: [es-mossos]
   agency_types: [police]
+  case_stage: investigation
   setting: [school]
   environment: [indoor]
 data_sources:
+  details.activity: [1, 7, 3, 6, 4, 5]
   details.agencies: [1, 3, 5, 6, 7]
   details.agency_types: [1, 3, 5, 6, 7]
+  details.case_stage: [3, 1, 6, 7, 4, 5]
   details.environment: [1, 5, 6, 7]
   details.setting: [1, 5, 6, 7]
 status: reported

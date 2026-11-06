@@ -21,9 +21,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [nz-police]
   agency_types: [police]
+  products: [{product: plants, plants: 16307}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [operation-jess, aerial-eradication]
 open_questions:

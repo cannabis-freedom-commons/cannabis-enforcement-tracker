@@ -29,8 +29,14 @@ media:
     caption: Police and soldiers debrief after destroying a marijuana field in Castara valued at over $5 million on 11 July. Photo courtesy TTPS.
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower, kg: 1.5}]
+  setting: [field, forest]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 5b016aee2af57a6f00c7da8ef1e762ab

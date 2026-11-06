@@ -19,10 +19,16 @@ figures:
     amount: 11000000
     currency: INR
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1, 3]
   details.products: [1]
+  details.setting: [2, 1, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sonbhadra, uttar-pradesh, ganja, operation-shuddhi, odisha]

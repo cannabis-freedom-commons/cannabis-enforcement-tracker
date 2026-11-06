@@ -18,8 +18,12 @@ figures:
   arrested: 0
 details:
   activity: [cultivation]
+  agency_types: [police]
+  setting: [prison]
 data_sources:
   details.activity: [5, 6]
+  details.agency_types: [5, 4, 6, 3, 1, 2]
+  details.setting: [5, 4, 3]
 status: disputed
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
 tags: [jinack, north-bank, dleag, eradication]

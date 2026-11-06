@@ -30,6 +30,7 @@ details:
   date_precision: exact
   region: Bihar
   route: {from: [np], to: [in]}
+  setting: [vehicle, prison]
 data_sources:
   details.activity: [1]
   details.agencies: [2]
@@ -37,6 +38,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [3]
   details.route: [1]
+  details.setting: [2, 6, 7, 9, 1, 8]
   figures.arrested: [3]
   figures.cash: [3]
   figures.kg_seized: [1]

@@ -20,11 +20,17 @@ figures:
   prison: 30 months (six months suspended for five years)
 details:
   activity: [possession]
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: openai/gpt-6
 tags: [chinhoyi, dagga, sentence, possession]

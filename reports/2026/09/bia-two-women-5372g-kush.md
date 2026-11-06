@@ -25,6 +25,7 @@ media:
     caption: Five airtight packages of suspected kush cannabis and a suitcase, in an Ada Derana photograph from the BIA seizure.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [lk-pnb]
   agency_types: [anti-narcotics]
   setting: [airport]
@@ -32,6 +33,7 @@ details:
     - {product: flower}
   route: {from: [th], to: [lk]}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]

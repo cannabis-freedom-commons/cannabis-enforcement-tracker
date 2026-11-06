@@ -15,10 +15,18 @@ figures:
   arrested: 26
   kg_seized: 171.5
 details:
+  activity: [trafficking, possession]
+  agency_types: [anti-narcotics, police, court]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home, building, prison]
 data_sources:
+  details.activity: [2, 3, 4, 5, 8, 9]
+  details.agency_types: [2, 3, 4, 5, 7, 9]
+  details.case_stage: [14]
   details.products: [1, 3, 4, 7]
+  details.setting: [1, 3, 4, 7, 2, 9]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 77925473f54a87b186e974b2fbddb5b6

@@ -30,8 +30,10 @@ media:
     caption: 'Photograph of the seized cannabis portions laid out after the Ciudad Delgado arrest. Photo: Diario Digital Cronio de El Salvador'
 details:
   activity: [possession]
+  agency_types: [police]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 051f6012e95396d934a398b09d2e1150

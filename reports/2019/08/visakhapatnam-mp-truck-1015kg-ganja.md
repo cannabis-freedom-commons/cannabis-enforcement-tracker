@@ -22,9 +22,15 @@ figures:
 details:
   agencies: [in-dri]
   agency_types: [customs]
+  case_stage: investigation
+  products: [{product: flower, kg: 1015}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [dri, interstate-smuggling]

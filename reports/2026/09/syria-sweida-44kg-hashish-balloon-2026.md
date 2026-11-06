@@ -46,10 +46,12 @@ media:
     caption: 'One of the photographs SANA published with the report on the foiled balloon smuggling attempt from Sweida to Jordan. Photo: SANA'
 details:
   activity: [smuggling]
+  agency_types: [anti-narcotics]
   products:
     - {product: hashish}
 data_sources:
   details.activity: [1, 3]
+  details.agency_types: [2, 4, 3]
   details.products: [2, 3, 4]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

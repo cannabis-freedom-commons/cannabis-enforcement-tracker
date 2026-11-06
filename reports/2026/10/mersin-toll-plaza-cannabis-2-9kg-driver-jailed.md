@@ -23,10 +23,18 @@ media:
     publisher: Beyaz Belge Haber
     caption: Bags of the kubar esrar seized in the Mersin operation, displayed in front of a Mersin provincial gendarmerie command sign.
 details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, anti-narcotics]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 6dd3169e1da88cc9d7f0e46755f1faff

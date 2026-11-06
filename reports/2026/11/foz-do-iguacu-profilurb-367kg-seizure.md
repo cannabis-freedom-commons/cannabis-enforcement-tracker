@@ -22,9 +22,11 @@ media:
     publisher: O Paraná
     caption: 'BPFron photo of the 367 kg cannabis seizure in Foz do Iguaçu. Photo: BPFron'
 details:
+  activity: [trafficking]
   agencies: [br-pf, br-pm]
   agency_types: [police, gendarmerie]
 data_sources:
+  details.activity: [1, 3]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
 status: verified

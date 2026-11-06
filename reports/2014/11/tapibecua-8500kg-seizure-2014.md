@@ -28,13 +28,21 @@ media:
     caption: Packages of the marijuana seized in Paso de los Libres
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [ar-gna]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 8500}]
   route: {from: [py], to: [ar]}
+  setting: [vehicle, mail]
 data_sources:
+  details.activity: [3, 2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2, 3, 4]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [gendarmeria, paraguay-route]
 sources:

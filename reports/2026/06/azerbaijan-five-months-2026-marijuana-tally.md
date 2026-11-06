@@ -18,10 +18,12 @@ figures:
     amount: 111800000
     currency: AZN
 details:
+  activity: [trafficking, cultivation]
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2, 3]
   details.products: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

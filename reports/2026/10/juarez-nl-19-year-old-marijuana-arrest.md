@@ -21,9 +21,13 @@ media:
     publisher: MVS Noticias
     caption: 'The 19-year-old detainee, her face covered, stands in front of a Policía de Juárez backdrop after her arrest. Photo: Policía de Juárez'
 details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

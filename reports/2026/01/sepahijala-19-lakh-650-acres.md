@@ -19,11 +19,17 @@ figures:
   value: { amount: 1000000000, currency: INR }
 created_by_model: cursor/composer-2.5-fast
 details:
+  activity: [smuggling, cultivation]
   agencies: [in-bsf]
   agency_types: [border-guard]
+  products: [{product: flower}, {product: plants, plants: 1900000}]
+  setting: [field, forest]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.products: [2, 1, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [tripura, sepahijala, bsf, tsr]
 sources:

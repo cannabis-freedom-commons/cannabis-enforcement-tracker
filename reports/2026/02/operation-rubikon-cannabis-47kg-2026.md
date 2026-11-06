@@ -16,11 +16,17 @@ figures:
   charged: 123
   kg_seized: 47
 details:
+  activity: [smuggling, trafficking]
   agencies: [int-europol]
   agency_types: [police]
+  case_stage: sentenced
+  setting: [prison]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7814f409b1093e48daae30afebb69ea2

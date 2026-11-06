@@ -24,8 +24,16 @@ media:
     publisher: Eje21
     caption: 'Navy photo of the intercepted boat''s marijuana load published with the seizure report. Photo: Armada de Colombia.'
 details:
+  activity: [trafficking, possession]
+  agency_types: [coast-guard, military, anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 2915}]
   setting: [port]
 data_sources:
+  details.activity: [2, 3, 1]
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [2]
+  details.products: [2, 3, 1]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

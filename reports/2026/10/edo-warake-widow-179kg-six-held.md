@@ -20,11 +20,15 @@ figures:
   arrested: 6
   kg_seized: 407.39
 details:
+  activity: [trafficking]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  setting: [home]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [edo, owan-east, ndlea, widow]

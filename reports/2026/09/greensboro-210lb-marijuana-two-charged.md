@@ -18,8 +18,14 @@ figures:
   kg_seized: 95.25
 details:
   activity: [trafficking]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 95.25}]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 47dbafbc151dbcad26b883084e81caf9

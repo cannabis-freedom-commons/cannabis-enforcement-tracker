@@ -16,12 +16,20 @@ figures:
   arrested: 2
   kg_seized: 20
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
   route: {from: [in], to: [in], crossing: 'Odisha to Howrah'}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 3, 4, 2]
+  details.agency_types: [1, 3, 4]
+  details.case_stage: [1, 3, 4]
   details.products: [1, 3, 4]
   details.route: [1, 3, 4, 2]
+  details.setting: [1, 3, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 66b183c2ae32868c6bda800d1225e698

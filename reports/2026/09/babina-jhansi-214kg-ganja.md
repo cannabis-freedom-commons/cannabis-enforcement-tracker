@@ -26,12 +26,16 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [in-anf]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle, home]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [babina, jhansi, uttar-pradesh, ganja, antf]
 sources:

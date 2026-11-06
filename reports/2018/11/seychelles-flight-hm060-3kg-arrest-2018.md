@@ -19,8 +19,12 @@ figures:
   kg_seized: 3
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [customs, anti-narcotics]
+  case_stage: investigation
   setting: [airport]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [airport, trafficking]

@@ -16,9 +16,15 @@ summary: >-
 figures:
   kg_seized: 1500
 details:
+  agency_types: [police]
+  products: [{product: flower, kg: 1500}]
   route: {from: [py], to: [uy], crossing: 'land entry from Brazil'}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1]
+  details.products: [1]
   details.route: [1]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://web.archive.org/web/20220818111943/https://dialogo-americas.com/articles/uruguay-police-carries-out-record-seizure-of-marijuana/

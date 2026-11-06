@@ -17,10 +17,16 @@ figures:
   charged: 1
   prison: 3 years 1 month suspended
 details:
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4bac12ff068f496139707b1675e518ad

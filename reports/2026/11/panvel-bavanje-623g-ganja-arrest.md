@@ -19,10 +19,14 @@ figures:
     amount: 32150
     currency: INR
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7a7d34410bda508f823d1dda5418eb65

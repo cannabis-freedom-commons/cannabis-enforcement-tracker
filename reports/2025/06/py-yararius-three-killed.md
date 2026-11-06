@@ -28,9 +28,11 @@ created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
 details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: hashish, kg: 887.2}, {product: flower}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [codi, ftc, yararius, el-macho, arsenal, parana-river]
 open_questions:

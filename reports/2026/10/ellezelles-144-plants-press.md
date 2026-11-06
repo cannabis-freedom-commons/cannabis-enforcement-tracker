@@ -18,9 +18,11 @@ figures:
   plants_destroyed: 144
 created_by_model: xai/grok-4.7
 details:
+  agency_types: [police, prosecutor]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 tags: [hainaut, ellezelles, resin]

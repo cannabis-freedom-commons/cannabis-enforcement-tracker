@@ -18,11 +18,17 @@ figures:
   deaths: 1
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking]
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
+  case_stage: executed
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [cnb, mandatory-death-penalty, conspiracy]
 open_questions:

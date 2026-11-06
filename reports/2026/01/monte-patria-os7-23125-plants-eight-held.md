@@ -25,11 +25,19 @@ media:
     publisher: Fiscalía de Chile
     caption: Photo published with the Fiscalía de Chile release on the Monte Patria seizure; the page carries no caption or credit line.
 details:
+  activity: [trafficking, cultivation]
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 40}, {product: plants, plants: 23125}]
+  setting: [field]
 data_sources:
+  details.activity: [3, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 3]
+  details.products: [1, 3, 2]
+  details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 69f0e30f8ebeddf69bf3211859fc2e8e

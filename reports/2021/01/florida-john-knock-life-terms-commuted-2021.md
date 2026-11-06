@@ -19,9 +19,15 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
+  products: [{product: hashish}, {product: flower}]
+  setting: [home, prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 3]
+  details.products: [2, 1, 4, 3]
+  details.setting: [2, 4]
 status: verified
 tags: [commutation, clemency, conspiracy, life-sentence]
 open_questions:

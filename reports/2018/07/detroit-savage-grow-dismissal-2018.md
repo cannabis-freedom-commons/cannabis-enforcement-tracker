@@ -33,11 +33,19 @@ media:
     caption: Marijuana seized in the West Jefferson facility raid
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [us-cbp]
   agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: flower}]
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2]
+  details.products: [1, 2, 3, 4]
+  details.setting: [2]
 status: verified
 tags: [medical-marijuana, dismissal, detroit, license-dispute]
 open_questions:

@@ -21,9 +21,13 @@ created_by_model: unknown
 details:
   agencies: [br-pf]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 1050.2}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
 status: verified
 tags: [ficco, sao-paulo, highway]
 sources:

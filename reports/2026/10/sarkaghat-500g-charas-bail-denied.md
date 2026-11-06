@@ -17,10 +17,16 @@ figures:
   charged: 2
   kg_seized: 0.5
 details:
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [border]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 89fdc7328002974a06d09f49fa73786d

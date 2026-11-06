@@ -15,10 +15,16 @@ figures:
   arrested: 2
   kg_seized: 50
 details:
+  activity: [trafficking]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [vehicle, mail]
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9826c1c81825b4786d895e19914c23a4

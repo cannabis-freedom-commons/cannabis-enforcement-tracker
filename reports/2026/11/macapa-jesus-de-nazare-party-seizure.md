@@ -13,10 +13,16 @@ title: Cannabis and cocaine seized after tube dumped at Macapá party
 summary: >-
   Tactical Force officers searched a party venue in Jesus de Nazaré, Macapá, after a trafficking tip and seized a plastic tube holding suspected cocaine and marijuana. No one was arrested after officers said a crowd and poor lighting prevented identifying who discarded the tube.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [port]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2a28c39609ead6e7e27e93c8c90f9e36

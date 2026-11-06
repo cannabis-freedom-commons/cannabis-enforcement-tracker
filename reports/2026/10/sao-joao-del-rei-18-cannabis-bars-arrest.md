@@ -16,9 +16,11 @@ figures:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: flower}]
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.products: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: fe49aa21fa8e3658f499a56704d9f29a

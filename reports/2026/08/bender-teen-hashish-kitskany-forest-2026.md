@@ -14,10 +14,18 @@ summary: >-
 figures:
   arrested: 1
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [forest]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4da5887aee7477b2e3ce3c1015b7ac9b

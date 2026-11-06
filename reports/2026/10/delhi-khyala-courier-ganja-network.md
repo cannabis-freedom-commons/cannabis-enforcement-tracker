@@ -19,9 +19,13 @@ figures:
   kg_seized: 26.46
 created_by_model: unknown
 details:
+  agency_types: [anti-narcotics, police]
+  products: [{product: flower, kg: 26.46}]
   setting: [mail]
   route: {from: [in], to: [in], crossing: 'Odisha to Delhi'}
 data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]
 status: verified

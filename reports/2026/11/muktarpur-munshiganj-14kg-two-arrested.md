@@ -27,10 +27,16 @@ media:
     publisher: Dhaka Mail
     caption: The seized navy-blue pickup van allegedly used to transport the cannabis
 details:
+  agency_types: [military, police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 3, 4, 5, 2]
+  details.case_stage: [1, 3, 4]
   details.products: [1, 3, 4]
+  details.setting: [1, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5fbb00a53970826b73402e049f8cd98b

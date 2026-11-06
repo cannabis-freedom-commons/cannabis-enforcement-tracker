@@ -18,6 +18,7 @@ details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
   activity: [possession, sale]
+  products: [{product: flower}]
   setting: [home]
   case_stage: investigation
   date_precision: exact
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2]
+  details.products: [1, 3, 5, 6, 2]
   details.setting: [1]
   figures.arrested: [1]
   figures.plants_destroyed: [1]

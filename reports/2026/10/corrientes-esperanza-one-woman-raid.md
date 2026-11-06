@@ -21,10 +21,16 @@ media:
     publisher: El Litoral
     caption: Phones, cash and packets displayed on a table beside a police emblem after the Corrientes search.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: bd79af37ab0a22e4ded3df33ef8f12da

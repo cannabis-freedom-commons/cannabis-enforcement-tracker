@@ -24,10 +24,16 @@ media:
     publisher: Pradesh Prakash
     caption: Photo of the seized ganja and related material displayed after the Bhanwarkuan arrest.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 74a2385379de8f8346765e9a99897a33

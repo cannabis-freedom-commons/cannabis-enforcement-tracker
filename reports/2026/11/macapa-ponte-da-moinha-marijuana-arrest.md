@@ -15,6 +15,7 @@ figures:
   arrested: 1
 details:
   agencies: [Patamo]
+  agency_types: [military, police]
   products:
     - {product: flower}
   activity: [possession, trafficking]
@@ -26,6 +27,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agencies: [1]
+  details.agency_types: [2, 1]
   details.case_stage: [2]
   details.force: [1]
   details.products: [1]

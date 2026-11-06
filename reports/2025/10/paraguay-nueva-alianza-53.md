@@ -32,11 +32,17 @@ media:
     caption: A pile of cannabis plants burns in a field, smoke rising over the crop
 created_by_model: unknown
 details:
+  activity: [cultivation]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 39000}]
+  setting: [forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.products: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: verified
 tags: [nueva-alianza, brazil, joint-operation, protected-areas, deforestation]
 sources:

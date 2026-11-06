@@ -23,12 +23,16 @@ media:
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
+  details.case_stage: [1, 4, 3, 2]
   details.products: [1, 2, 4]
+  details.setting: [1, 2, 4, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c7069b90271e10f14c19fa1a17b41e63

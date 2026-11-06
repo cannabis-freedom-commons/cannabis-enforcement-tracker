@@ -24,10 +24,18 @@ media:
     publisher: Heraldo de Aragón
     caption: 'Police photos of the seized drugs and money and the discovered gas cylinder from the Zaragoza operation. Photo: P. N.'
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [home, building, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fc41e6200da8116d94d890f98576c0e5

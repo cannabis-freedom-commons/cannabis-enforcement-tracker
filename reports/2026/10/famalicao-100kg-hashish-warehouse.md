@@ -20,14 +20,18 @@ figures:
   kg_seized: 100
 created_by_model: xai/grok-4.7
 details:
+  activity: [trafficking, possession]
   agencies: [pt-pj]
   agency_types: [police]
   products:
     - {product: hashish}
+  setting: [home, building, mail]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [famalicao, pj, hashish]
 open_questions:

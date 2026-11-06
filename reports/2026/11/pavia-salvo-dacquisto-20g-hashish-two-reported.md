@@ -16,10 +16,16 @@ figures:
   charged: 2
   kg_seized: 0.02
 details:
+  activity: [possession]
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4686da4a7ec673319090db5ab3b4df11

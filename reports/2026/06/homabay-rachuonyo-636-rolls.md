@@ -18,9 +18,11 @@ summary: >-
 figures:
   arrested: 3
 details:
+  activity: [trafficking]
   agencies: [ke-nps]
   agency_types: [police]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
 status: verified

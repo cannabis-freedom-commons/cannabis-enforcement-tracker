@@ -19,14 +19,18 @@ figures:
     amount: 275000
     currency: INR
 details:
+  activity: [smuggling]
   agencies: [in-excise]
   agency_types: [regulator]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2, 3, 4]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2, 3, 4]
+  details.setting: [2, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fa9736ab22164224164faad436d7dae9

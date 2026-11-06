@@ -20,9 +20,17 @@ figures:
   value: { amount: 80000000, currency: AUD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
+  agency_types: [police]
   environment: [indoor]
+  products: [{product: flower, kg: 586}, {product: plants, plants: 23000}]
+  setting: [port, home]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [strike-force-heradale, transnational-crime, hydroponic]
 sources:

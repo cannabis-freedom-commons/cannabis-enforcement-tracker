@@ -24,8 +24,12 @@ media:
     caption: 'Street view of Southport Road in Leyland, where Heyes was driving when found with cannabis in his system. Photo: Google'
 details:
   activity: [possession]
+  agency_types: [court]
+  products: [{product: hashish}]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a14e27f0aed18005eea7156d624554db

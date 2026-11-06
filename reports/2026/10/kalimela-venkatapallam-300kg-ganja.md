@@ -15,10 +15,14 @@ summary: >-
 figures:
   kg_seized: 300
 details:
+  activity: [smuggling]
+  agency_types: [police]
   setting: [forest]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.products: [1]
   details.setting: [1]
 status: verified

@@ -19,8 +19,14 @@ figures:
   prison: 3 months (suspended 6 months)
 details:
   activity: [possession]
+  agency_types: [police]
+  case_stage: sentenced
+  setting: [prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [blacksands, efate, court, possession]

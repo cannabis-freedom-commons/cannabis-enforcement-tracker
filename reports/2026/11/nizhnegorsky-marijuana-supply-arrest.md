@@ -16,10 +16,18 @@ figures:
   arrested: 1
   charged: 1
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c6019cb8f47f3b8b515094c6d247212a

@@ -20,11 +20,15 @@ figures:
   kg_seized: 5.77301
 created_by_model: spacexai/grok-4.7
 details:
+  activity: [trafficking]
   agencies: [pt-gnr]
   agency_types: [gendarmerie]
+  products: [{product: plants}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 tags: [covilha, gnr]
 open_questions:

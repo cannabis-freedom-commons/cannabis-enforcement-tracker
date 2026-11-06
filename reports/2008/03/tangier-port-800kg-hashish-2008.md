@@ -19,12 +19,20 @@ figures:
   arrested: 2
   value: { amount: 3000000, currency: EUR }
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [ma], to: [fr], crossing: 'via Algeciras'}
+  setting: [port]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.route: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [tangier, hashish, trafficking, spain-route]

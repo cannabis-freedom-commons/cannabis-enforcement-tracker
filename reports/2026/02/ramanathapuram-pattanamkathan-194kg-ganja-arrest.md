@@ -18,8 +18,16 @@ figures:
     amount: 3000000
     currency: INR
 details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 194}]
   route: {from: [in], to: [lk]}
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
   details.route: [1, 2]
 media:
   - kind: photo

@@ -18,12 +18,18 @@ figures:
   arrested: 1
   value: { amount: 4100000, currency: USD }
 details:
+  agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [ma], to: [it]}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.route: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [resin, italy-route, customs]

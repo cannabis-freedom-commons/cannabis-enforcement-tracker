@@ -14,13 +14,17 @@ summary: >-
 figures:
   arrested: 9
 details:
+  activity: [smuggling]
   agencies: [in-bsf]
   agency_types: [border-guard]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 4, 1, 5, 3, 6]
   details.agencies: [1, 3, 4, 5]
   details.agency_types: [1, 3, 4, 5]
+  details.case_stage: [2, 4, 5]
   details.products: [1, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

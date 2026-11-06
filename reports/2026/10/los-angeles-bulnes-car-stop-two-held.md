@@ -28,9 +28,11 @@ media:
 details:
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  products: [{product: flower}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 953a207824eec9f7c469f8d71ce442f1

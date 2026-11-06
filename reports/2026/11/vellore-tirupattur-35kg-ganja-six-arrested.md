@@ -21,10 +21,16 @@ media:
     publisher: The Hindu
     caption: 'Police searches with sniffer dogs at a public place such as a railway station during the Vellore-Tirupattur drive. Photo: Special Arrangement'
 details:
+  activity: [sale]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 273beb074b2ad092fd61b42cb5c92aa0

@@ -34,9 +34,13 @@ media:
 details:
   agencies: [mx-gn]
   agency_types: [gendarmerie]
+  products: [{product: flower, kg: 1}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: e4fb882840f31b0d640c5149679be03d

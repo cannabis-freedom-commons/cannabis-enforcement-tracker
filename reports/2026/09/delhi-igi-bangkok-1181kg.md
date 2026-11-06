@@ -20,9 +20,15 @@ figures:
   value: { amount: 4133000, currency: INR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [customs]
+  case_stage: investigation
+  products: [{product: flower, kg: 1.181}]
   setting: [airport]
   route: {from: [th], to: [in]}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.route: [1]
   details.setting: [1]
 status: verified

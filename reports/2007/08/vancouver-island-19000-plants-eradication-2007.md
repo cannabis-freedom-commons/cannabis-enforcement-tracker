@@ -20,9 +20,11 @@ figures:
 details:
   agencies: [ca-rcmp]
   agency_types: [police]
+  products: [{product: plants, plants: 19000}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [aerial-operation]

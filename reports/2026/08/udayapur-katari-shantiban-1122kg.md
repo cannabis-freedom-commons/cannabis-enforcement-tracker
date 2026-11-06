@@ -24,13 +24,17 @@ details:
   agencies: [np-police]
   agency_types: [police]
   activity: [trafficking]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle, forest]
 data_sources:
   details.activity: [2]
   details.agencies: [3]
   details.agency_types: [3]
+  details.case_stage: [1, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [udayapur, katari, ganja, seizure, trafficking]

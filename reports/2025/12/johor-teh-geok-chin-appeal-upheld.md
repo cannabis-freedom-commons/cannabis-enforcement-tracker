@@ -25,8 +25,14 @@ figures:
 created_by_model: cursor/composer-2.5
 details:
   activity: [trafficking]
+  agency_types: [court]
+  case_stage: sentenced
+  setting: [home, prison]
 data_sources:
   details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [3, 4, 1, 2]
+  details.setting: [3, 4, 1, 2]
 status: verified
 tags:
   - johor-bahru

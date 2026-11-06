@@ -33,12 +33,16 @@ media:
 details:
   agencies: [es-mossos]
   agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [vehicle, home, building]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 3]
   details.products: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 15df7cc0fed3f760d6cad6ed37219219

@@ -21,10 +21,16 @@ media:
     publisher: Eisamay Online
     caption: 'Photo captioned as the woman arrested in Lalgarh on suspicion of ganja smuggling. Photo: Eisamay.com'
 details:
+  activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2, 4, 3]
+  details.agency_types: [1, 2, 4, 3]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 4, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: b22042850501cd7defab454b4cb61779

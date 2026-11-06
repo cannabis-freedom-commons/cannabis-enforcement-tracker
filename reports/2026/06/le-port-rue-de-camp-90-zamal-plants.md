@@ -17,9 +17,17 @@ figures:
   plants_destroyed: 90
   kg_seized: 9
 details:
+  activity: [trafficking, sale]
+  agency_types: [police, prosecutor]
   environment: [indoor]
+  products: [{product: flower, kg: 9}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3, 4]
   details.environment: [1]
+  details.products: [1, 2, 3, 4]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ef3ef69af5fc436182ae2171cad9395d

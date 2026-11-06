@@ -32,13 +32,21 @@ media:
     caption: A Malaysian couple was arrested at Suvarnabhumi Airport with 70 kilograms of cannabis in their luggage
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling, trafficking]
   agencies: [th-oncb]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
+  products: [{product: flower, kg: 89}]
   route: {from: [th], to: [sg]}
+  setting: [airport, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.route: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [oncb, suvarnabhumi, smuggling]
 sources:

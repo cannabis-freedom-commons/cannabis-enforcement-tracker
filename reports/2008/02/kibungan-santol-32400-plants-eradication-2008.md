@@ -17,11 +17,15 @@ figures:
   plants_destroyed: 32400
   value: { amount: 54000000, currency: PHP }
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 32400}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kibungan, santol, pdea, eradication]

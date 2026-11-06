@@ -26,8 +26,10 @@ media:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
+  agency_types: [police]
 data_sources:
   details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
 status: verified
 tags: [bhanupratappur, kanker, chhattisgarh, cultivation]
 open_questions:

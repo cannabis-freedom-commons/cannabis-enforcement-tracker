@@ -16,11 +16,19 @@ figures:
   arrested: 4
   kg_seized: 17.606
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: appeal
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1, 4, 5]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 4, 5]
   details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2c9a49d70bbdccb35d5a1f714ff82e1a

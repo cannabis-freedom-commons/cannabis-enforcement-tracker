@@ -21,6 +21,7 @@ figures:
     currency: GBP
 details:
   activity: [smuggling]
+  agency_types: [police, prosecutor, court]
   setting: [mail]
   charges: [importing cannabis, attempting to possess cannabis with intent to supply]
   case_stage: sentenced
@@ -29,6 +30,7 @@ details:
   region: Isle of Man
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
   details.case_stage: [1]
   details.charges: [1]
   details.sentence_types: [1]

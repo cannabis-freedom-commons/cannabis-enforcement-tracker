@@ -22,9 +22,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 66.93}]
+  setting: [home]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 tags: [operation-sweet-leaf]
 sources:

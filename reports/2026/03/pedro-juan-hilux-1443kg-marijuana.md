@@ -19,9 +19,13 @@ figures:
 details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 1443}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [pedro-juan-caballero, amambay, senad, hilux]

@@ -22,11 +22,15 @@ details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   activity: [sale]
+  case_stage: sentenced
+  products: [{product: flower}, {product: plants}]
   setting: [shop]
 data_sources:
   details.activity: [2, 4]
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3]
+  details.products: [2, 4, 3, 1]
   details.setting: [2, 4]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

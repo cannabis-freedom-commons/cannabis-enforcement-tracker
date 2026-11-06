@@ -15,8 +15,12 @@ figures:
   arrested: 1
 details:
   activity: [possession]
+  case_stage: charged
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 337221b63f9a5744dbd6f850ce8489bf

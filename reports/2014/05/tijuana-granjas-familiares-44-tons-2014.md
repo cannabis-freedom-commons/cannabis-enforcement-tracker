@@ -19,13 +19,19 @@ figures:
 tags: [tijuana, warehouse, us-route]
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [mx-sedena, mx-fgr]
   agency_types: [military, prosecutor]
+  case_stage: investigation
+  products: [{product: flower, kg: 39000}]
   setting: [building]
   route: {from: [mx], to: [us/ca]}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1]
 status: verified

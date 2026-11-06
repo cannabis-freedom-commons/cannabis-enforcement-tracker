@@ -26,9 +26,13 @@ media:
     publisher: ElDoce.tv
     caption: Second photo accompanying the ElDoce.tv report on the Villa El Libertador detentions, captioned that the brothers sold drugs in Villa El Libertador.
 details:
+  agency_types: [anti-narcotics, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

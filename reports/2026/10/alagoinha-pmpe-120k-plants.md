@@ -22,11 +22,15 @@ media:
     publisher: Portal de Prefeitura
     caption: 'Military police photo of the cannabis plantation found in the Agreste. Photo: Divulgação/PMPE'
 details:
+  activity: [cultivation]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  setting: [field]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 3913be42c802c22a170e3afac37e2bd6

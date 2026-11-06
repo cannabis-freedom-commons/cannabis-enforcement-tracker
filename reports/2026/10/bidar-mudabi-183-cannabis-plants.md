@@ -25,9 +25,11 @@ media:
     publisher: Vartha Bharati
     caption: Police officers among the tall cannabis plants in the field on the outskirts of Mudabi village.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [2, 1, 3]
   details.products: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

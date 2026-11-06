@@ -22,10 +22,14 @@ media:
     publisher: Onda Cero
     caption: 'Police photograph of the seized cocaine, MDMA, tusi, methamphetamine, marijuana and LSD doses, more than €100 in cash and a precision scale laid out on a table. Photo: Policía Nacional (CPN)'
 details:
+  agency_types: [police]
+  case_stage: investigation
   setting: [vehicle]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

@@ -25,11 +25,19 @@ media:
     publisher: KOAA
     caption: Photo of the seized Pueblo West marijuana grow operation.
 details:
+  activity: [cultivation, possession]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 31.751}]
+  setting: [home]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8ac26f9a1f77a093aac6f46183ef8b46

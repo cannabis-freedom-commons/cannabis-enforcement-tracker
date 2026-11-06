@@ -17,9 +17,19 @@ figures:
   plants_destroyed: 3000
   kg_seized: 1
 details:
+  activity: [cultivation, possession]
+  agency_types: [police, court]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower, kg: 1}, {product: plants, plants: 3000}]
+  setting: [field]
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
   details.environment: [1, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 19e1098093b9c0df7894d89a3afdd10a

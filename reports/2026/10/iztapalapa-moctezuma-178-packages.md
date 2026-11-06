@@ -23,11 +23,13 @@ media:
 details:
   agencies: [mx-gn]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

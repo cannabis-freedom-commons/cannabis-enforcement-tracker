@@ -52,11 +52,19 @@ media:
     publisher: Atlas
     caption: 2m 15s silent compilation of Guardia Civil images of the mountain plantation operation in Aznalcóllar. Images distributed by the Guardia Civil.
 details:
+  activity: [cultivation]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 50}]
+  setting: [field, prison]
 data_sources:
+  details.activity: [1, 4, 12, 21, 22, 24]
   details.agencies: [1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 13, 14, 15, 16, 17, 18, 21, 22, 23, 26, 29, 30]
   details.agency_types: [1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 13, 14, 15, 16, 17, 18, 21, 22, 23, 26, 29, 30]
+  details.case_stage: [1, 3, 4, 5, 6, 9]
+  details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 4, 12, 21, 22, 24]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a6c89bea035bef3e1745750e9034e3fa

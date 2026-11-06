@@ -21,9 +21,13 @@ media:
     publisher: Gazeta.uz
     caption: 'Press-service photograph accompanying the nationwide Operation Qoradori results. Photo: Press Service of the State Security Service.'
 details:
+  activity: [trafficking]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [2, 3]
 status: verified
 created_by_model: openai/gpt-6-luna#max

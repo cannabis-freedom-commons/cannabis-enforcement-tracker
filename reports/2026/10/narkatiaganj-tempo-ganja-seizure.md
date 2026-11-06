@@ -35,10 +35,16 @@ media:
     publisher: Dainik Bhaskar
     caption: 'A 35-second Dainik Bhaskar video on the Narkatiaganj seizure and the search for the main accused. Video: Dainik Bhaskar.'
 details:
+  activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home, building]
 data_sources:
+  details.activity: [1, 3, 4, 2, 5, 6]
+  details.agency_types: [1, 3, 2, 4, 5, 6]
   details.products: [1]
+  details.setting: [1, 3, 2, 4, 5, 6]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: c6f5b02e8796cc39fc3f69004d45ff9b

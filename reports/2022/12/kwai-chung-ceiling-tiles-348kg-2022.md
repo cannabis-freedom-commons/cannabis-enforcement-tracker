@@ -19,9 +19,17 @@ figures:
   value: { amount: 60000000, currency: HKD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
+  agency_types: [customs]
+  products: [{product: flower, kg: 348}]
   route: {from: [ca], to: [hk]}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [canada-route, concealed-consignment]
 media:

@@ -19,9 +19,19 @@ figures:
   plants_destroyed: 15
   kg_seized: 3.351
 details:
+  activity: [cultivation, possession]
+  agency_types: [police, court]
+  case_stage: appeal
   environment: [greenhouse]
+  products: [{product: flower, kg: 3.351}, {product: plants, plants: 15}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [greenhouse, personal-cultivation]

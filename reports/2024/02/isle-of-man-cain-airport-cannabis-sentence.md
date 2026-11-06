@@ -20,8 +20,12 @@ figures:
     amount: 116000
     currency: GBP
 details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   setting: [airport]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

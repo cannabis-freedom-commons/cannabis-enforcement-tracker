@@ -20,13 +20,17 @@ figures:
   value: { amount: 413000, currency: EUR }
 created_by_model: xai/grok-4.7
 details:
+  activity: [cultivation]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   environment: [outdoor]
+  products: [{product: flower, kg: 220}, {product: plants}]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
   details.environment: [1]
+  details.products: [1, 2]
 status: verified
 tags: [guardia-civil, huesca, outdoor]
 open_questions:

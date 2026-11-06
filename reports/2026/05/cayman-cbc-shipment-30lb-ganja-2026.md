@@ -15,10 +15,14 @@ figures:
   arrested: 3
   kg_seized: 13.6
 details:
+  agency_types: [customs]
   products:
     - {product: flower}
+  setting: [mail]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 83e997dfb31026078f23ed78275ac257

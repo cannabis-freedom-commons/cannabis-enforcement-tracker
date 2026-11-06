@@ -21,10 +21,16 @@ media:
     publisher: দৈনিক সকাল
     caption: Image accompanying the report on the woman arrested with 500 g of ganja in Galachipa.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: dcbd3e163e441a91c86e9716ac0d7d5b

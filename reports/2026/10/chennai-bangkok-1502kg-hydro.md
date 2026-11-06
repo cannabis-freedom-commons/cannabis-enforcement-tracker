@@ -20,10 +20,14 @@ figures:
   kg_seized: 15.02
   value: { amount: 52600000, currency: INR }
 details:
+  agency_types: [customs]
   environment: [indoor]
+  products: [{product: flower, kg: 15.02}]
   route: {from: [th], to: [in]}
 data_sources:
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

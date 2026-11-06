@@ -19,9 +19,11 @@ figures:
     amount: 400000
     currency: INR
 details:
+  agency_types: [anti-narcotics, police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

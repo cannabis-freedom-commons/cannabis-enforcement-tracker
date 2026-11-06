@@ -17,11 +17,15 @@ figures:
   hectares: 85
   kg_seized: 255000
 details:
+  activity: [trafficking, cultivation]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 255000}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [senad, morombi, eradication, brazil]

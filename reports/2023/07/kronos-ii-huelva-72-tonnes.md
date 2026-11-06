@@ -19,14 +19,20 @@ figures:
   kg_seized: 7200
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home, building]
 data_sources:
+  details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
   details.products: [2]
+  details.setting: [2, 1]
 status: verified
 tags: [huelva, hashish, customs, organised-crime]
 open_questions:

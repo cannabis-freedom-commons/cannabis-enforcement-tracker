@@ -36,11 +36,17 @@ media:
     publisher: Diario Chañarcillo
     caption: Four men behind a table with packages of cannabis and cash in Copiapó.
 details:
+  activity: [trafficking]
   agencies: [cl-pdi]
   agency_types: [police]
+  case_stage: investigation
+  setting: [prison]
 data_sources:
+  details.activity: [1, 4, 2, 3]
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
+  details.case_stage: [1, 4, 2]
+  details.setting: [1, 4, 3]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f4d0ec5ebf159ed0dae9679c5c3d2388

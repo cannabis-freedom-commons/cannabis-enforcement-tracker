@@ -18,10 +18,14 @@ figures:
   arrested: 1
   kg_seized: 11.246
 details:
+  activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: hashish}
   route: {from: [np], to: [in]}
 data_sources:
+  details.activity: [1, 2, 4]
+  details.agency_types: [1, 2, 3, 4]
   details.products: [1, 2]
   details.route: [2]
 status: verified

@@ -18,13 +18,21 @@ figures:
   arrested: 2
 created_by_model: unknown
 details:
+  activity: [cultivation]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower}]
+  setting: [home, building]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [guardia-civil, madrid, indoor]
 sources:

@@ -15,11 +15,19 @@ summary: >-
 figures:
   arrested: 5
 details:
+  activity: [trafficking]
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 3, 4]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 3, 4]
+  details.products: [1, 4, 3]
+  details.setting: [1, 4]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 0df341391f335df3381f12294e77f8ac

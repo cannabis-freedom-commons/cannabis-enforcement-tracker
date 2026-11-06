@@ -21,10 +21,18 @@ figures:
     amount: 177260
     currency: EUR
 details:
+  activity: [trafficking]
+  agency_types: [customs, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 9be6ed9874d90e1c81acff1aad93b436

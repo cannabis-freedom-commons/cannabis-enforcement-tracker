@@ -21,8 +21,14 @@ figures:
 created_by_model: meta/muse-spark
 details:
   activity: [trafficking]
+  case_stage: sentenced
+  products: [{product: flower, kg: 14.302}]
+  setting: [vehicle]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 tags: [death-sentence, trafficking, kedah]
 sources:

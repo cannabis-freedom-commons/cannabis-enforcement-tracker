@@ -21,9 +21,11 @@ figures:
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 19.88}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [kibungan, benguet, pdea, buy-bust]

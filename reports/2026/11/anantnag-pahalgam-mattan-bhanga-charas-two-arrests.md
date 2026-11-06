@@ -15,9 +15,11 @@ figures:
   arrested: 2
   kg_seized: 3.0196
 details:
+  agency_types: [anti-narcotics, police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2, 3]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -22,10 +22,18 @@ media:
     publisher: Saray Medya
     caption: 'A police display of bagged suspected synthetic cannabinoid and a placard reading ''Mersin synthetic cannabinoid (bonzai raw material), narco'', published with the report on the arrests. Photo: İHA via Saray Medya'
 details:
+  activity: [trafficking, sale]
+  agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 5, 1, 4, 6, 3]
+  details.agency_types: [1, 4, 6, 2, 5, 3]
+  details.case_stage: [1, 4, 6, 2, 5]
   details.products: [1, 4, 5, 6]
+  details.setting: [1, 4, 5, 6, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 73dcb09a23c859c3a9481b432fb86adb

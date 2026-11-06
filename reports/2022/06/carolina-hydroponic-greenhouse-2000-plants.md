@@ -24,9 +24,17 @@ media:
     publisher: Telemundo Puerto Rico
     caption: 'Telemundo Puerto Rico video report on the seizure, described as recorded at the grow house confiscated in barrio Carruzo, Carolina. Video: Telemundo Puerto Rico'
 details:
+  activity: [trafficking, cultivation]
+  agency_types: [police]
   environment: [indoor, greenhouse]
+  products: [{product: flower, kg: 535}, {product: plants, plants: 2000}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.environment: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 817d43566739933e7e4d53da73116390

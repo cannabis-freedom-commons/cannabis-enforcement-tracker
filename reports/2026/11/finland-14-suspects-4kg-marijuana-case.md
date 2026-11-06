@@ -24,10 +24,12 @@ details:
   agency_types: [police]
   products:
     - {product: flower}
+  setting: [port, home, mail]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bdd8b4338fb2d7aece0ca7f8265e406d

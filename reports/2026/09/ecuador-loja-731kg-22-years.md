@@ -20,8 +20,16 @@ figures:
   charged: 5
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: sentenced
+  products: [{product: flower, kg: 731}]
   setting: [border]
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [1, 2, 3]
+  details.products: [3, 4]
   details.setting: [1, 2, 3]
 status: verified
 tags: [loja, amaluza, espindola, border]

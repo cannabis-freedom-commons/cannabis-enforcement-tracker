@@ -18,9 +18,17 @@ figures:
   arrested: 2
 created_by_model: unknown
 details:
+  activity: [trafficking, cultivation, possession]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower, kg: 575}, {product: plants}]
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.environment: [1, 2, 3]
+  details.products: [1, 2, 3]
 status: verified
 tags: [bonaerense, exaltacion-de-la-cruz, indoor]
 sources:

@@ -22,10 +22,14 @@ media:
     publisher: Dainik Bhaskar
     caption: Video report on the Maranchi police raid, seizure and arrests.
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [2, 1]
   details.products: [1, 2]
+  details.setting: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8faa473db0b039e8b6ed1a4ab1d14db0

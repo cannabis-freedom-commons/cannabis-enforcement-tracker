@@ -21,10 +21,18 @@ media:
     publisher: CubaHeadlines
     caption: 'Photo accompanying the sentencing report on the electronic-surveillance investigation and 15-year sentence. Photo: periódico 26/Dayana Menzoney'
 details:
+  activity: [trafficking]
+  agency_types: [court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 2, 3, 4, 5, 6]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ef4e358bf1f2e652216abfb0cdf65d77

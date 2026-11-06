@@ -20,9 +20,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: charged
+  products: [{product: flower}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [dispensary]
 open_questions:

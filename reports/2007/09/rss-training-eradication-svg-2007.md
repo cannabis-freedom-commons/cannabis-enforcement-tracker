@@ -18,8 +18,12 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 870161}]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [st-vincent, rss, eradication]
 sources:

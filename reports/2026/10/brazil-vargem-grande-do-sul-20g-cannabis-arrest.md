@@ -22,11 +22,17 @@ media:
     publisher: Gazeta de Vargem Grande
     caption: 'Police photograph of the drugs and brass knuckles recovered with the arrested man. Photo: Polícia Militar'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 790eecabf62b209f9cc7e11c38e5d6a6

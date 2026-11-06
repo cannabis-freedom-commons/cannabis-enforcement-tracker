@@ -18,10 +18,14 @@ figures:
   kg_seized: 75
   arrested: 2
 details:
+  activity: [cultivation]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [ncb, hooghly, ganja, dimapur, ndps]

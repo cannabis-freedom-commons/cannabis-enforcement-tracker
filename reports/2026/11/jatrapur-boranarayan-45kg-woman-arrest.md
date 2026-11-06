@@ -17,9 +17,13 @@ figures:
 details:
   agencies: [in-bsf]
   agency_types: [border-guard]
+  case_stage: investigation
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2cb13f30899b2c5ce0e03ff4a1164148

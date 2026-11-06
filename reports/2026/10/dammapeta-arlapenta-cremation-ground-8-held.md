@@ -25,9 +25,13 @@ media:
     publisher: Suryaa News
     caption: Lead photograph on the Suryaa report of the Dammapeta case, published under the headline about the six detained at the cremation ground and the two held with ganja; no photographer credit given.
 details:
+  agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
   details.products: [1, 2]
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max

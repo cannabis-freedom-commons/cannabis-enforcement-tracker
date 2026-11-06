@@ -21,11 +21,17 @@ media:
     publisher: Portal Cantagalo
     caption: 'PRF photo of the marijuana seized in the Honda Civic on BR-277 in Céu Azul. Credit: Divulgação/PRF'
 details:
+  activity: [trafficking]
   agencies: [br-prf]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 306.48}]
 data_sources:
+  details.activity: [2, 1, 5, 6, 4, 7]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2, 1, 5, 6, 4, 7]
+  details.products: [2, 4, 5, 6, 7, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 4a3c85266712ee7bdaae54ef69e13e0b

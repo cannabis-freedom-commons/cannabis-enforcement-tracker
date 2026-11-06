@@ -17,8 +17,12 @@ figures:
   value: { amount: 43000000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [military]
+  products: [{product: hashish, kg: 12400}, {product: flower}]
   setting: [port]
 data_sources:
+  details.agency_types: [1]
+  details.products: [1, 2]
   details.setting: [1]
 status: verified
 tags: [hms-cumberland, maritime, combined-task-force-150]

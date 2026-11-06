@@ -32,10 +32,18 @@ media:
     publisher: Valsts policija, via LSM.lv
     caption: 'State Police photograph released with the announcement of the Rīga search and seizure. Photo: Valsts policija'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 2, 3]
+  details.agency_types: [3, 1, 2]
+  details.case_stage: [1, 2, 3]
   details.products: [1]
+  details.setting: [3, 1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 6cd73e2c6c14dee890cfeb53c85c082f

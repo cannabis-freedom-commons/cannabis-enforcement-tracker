@@ -24,10 +24,16 @@ media:
     publisher: RVA
     caption: Lead photo on the source page for this Courpière seizure report
 details:
+  agency_types: [gendarmerie, prosecutor, court]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 3, 4, 2]
+  details.case_stage: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9c79b0c82fa4f7275b5b169ab1d4c322

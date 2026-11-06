@@ -24,11 +24,19 @@ media:
     publisher: InSight Crime
     caption: 'Illustration based on SENAD photos of the private-jet cannabis seizure at Asuncion on 29 May 2026. Image: SENAD via InSight Crime.'
 details:
+  activity: [trafficking, possession]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 261.6}]
+  setting: [airport, prison]
 data_sources:
+  details.activity: [1, 4, 3]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 4, 3]
+  details.products: [1, 4, 3]
+  details.setting: [1, 3, 4, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1c3b36148878318ad83894571bbec49e

@@ -20,9 +20,13 @@ figures:
     amount: 3200
     currency: EUR
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [2, 3, 1, 4]
+  details.case_stage: [2, 3, 1]
   details.products: [1, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

@@ -15,11 +15,15 @@ figures:
   arrested: 1
   kg_seized: 0.935
 details:
+  activity: [trafficking]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  products: [{product: flower, kg: 0.935}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: ea96baf85cc444eb340a1f0f2cafa744

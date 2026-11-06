@@ -16,10 +16,16 @@ figures:
   arrested: 4
   kg_seized: 50
 details:
+  activity: [smuggling, trafficking, cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [forest, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 788464ee13fba2a2fc775c4e629f284f

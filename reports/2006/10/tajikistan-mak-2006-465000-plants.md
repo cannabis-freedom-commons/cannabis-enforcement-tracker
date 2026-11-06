@@ -15,9 +15,13 @@ figures:
   plants_destroyed: 465000
   kg_seized: 235
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
   details.environment: [1, 2]
   details.setting: [2]
 status: verified

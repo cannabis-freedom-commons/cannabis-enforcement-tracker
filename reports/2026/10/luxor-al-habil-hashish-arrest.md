@@ -16,10 +16,16 @@ figures:
   arrested: 1
   kg_seized: 1.5
 details:
+  activity: [sale]
+  agency_types: [police, prosecutor]
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 3, 4, 2]
+  details.agency_types: [2, 1, 3, 4]
   details.products: [1, 3, 4]
+  details.setting: [2, 1, 3, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 97457458eaa223472f19e5ee9f3ec1bd

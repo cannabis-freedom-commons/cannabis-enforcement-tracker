@@ -27,10 +27,16 @@ media:
     publisher: The Morung Express
     caption: The seized ganja haul displayed by Assam Rifles. Photo courtesy Assam Rifles
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs, police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 4, 3, 2]
+  details.agency_types: [4, 1, 2, 3]
   details.products: [1, 3]
+  details.setting: [4, 3, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, tripura, khowai, assam-rifles, customs]

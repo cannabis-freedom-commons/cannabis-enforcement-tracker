@@ -25,9 +25,15 @@ media:
     publisher: Dainik Bhaskar
     caption: Lead photograph on the report of the Pandripani ganja seizure, captioned 'Information was received about ganja kept for sale in Pandripani'; no separate credit was given.
 details:
+  activity: [smuggling, sale]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

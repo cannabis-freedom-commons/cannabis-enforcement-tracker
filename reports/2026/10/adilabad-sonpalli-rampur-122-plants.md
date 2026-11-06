@@ -20,8 +20,14 @@ figures:
   plants_destroyed: 122
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 122}]
+  setting: [home]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [adilabad, telangana, cultivation]

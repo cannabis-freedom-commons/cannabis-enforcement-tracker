@@ -20,8 +20,10 @@ figures:
   arrested: 4
   kg_seized: 75
 details:
+  products: [{product: flower, kg: 75}]
   setting: [vehicle]
 data_sources:
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

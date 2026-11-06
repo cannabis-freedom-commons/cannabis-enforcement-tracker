@@ -19,11 +19,19 @@ figures:
   arrested: 4
   kg_seized: 76.6
 details:
+  activity: [smuggling, trafficking]
   agencies: [th-oncb]
   agency_types: [anti-narcotics]
+  case_stage: charged
+  products: [{product: hashish, kg: 76.6}]
+  setting: [home, building]
 data_sources:
+  details.activity: [1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [cannabis-oil, oncb, samut-prakan]

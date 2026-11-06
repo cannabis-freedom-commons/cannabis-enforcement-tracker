@@ -51,8 +51,14 @@ media:
     publisher: CR Hoy
     caption: 'Seized drugs from the interception 200 km off Golfito. Photo: MSP.'
 details:
+  agency_types: [coast-guard, anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 2024}]
   setting: [port]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -19,8 +19,16 @@ figures:
   arrested: 1
   kg_seized: 87.25
 details:
+  activity: [smuggling]
+  agency_types: [customs]
+  case_stage: investigation
+  products: [{product: flower, kg: 87.25}]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

@@ -20,11 +20,19 @@ figures:
   value: { amount: 25000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling, trafficking]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 1814}]
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [ventura-county, trafficking-ring]
 open_questions:

@@ -19,11 +19,17 @@ figures:
     amount: 290000
     currency: EUR
 details:
+  activity: [possession, sale]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: sentenced
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 3, 4, 5, 2]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 3, 4, 5, 2]
+  details.setting: [2, 3, 4, 5, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 144df8e44e0f7736d3c81b913272a155

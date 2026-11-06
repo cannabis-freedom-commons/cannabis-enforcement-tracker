@@ -20,14 +20,18 @@ media:
     publisher: Portal Zap Catalão
     caption: 'Seized marijuana, money, cell phone and precision scale from the Bosque operation in Araguari. Photo: Divulgação/PMMG'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [vehicle, home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c697ea1a7b1eac649188011f39ce6f50

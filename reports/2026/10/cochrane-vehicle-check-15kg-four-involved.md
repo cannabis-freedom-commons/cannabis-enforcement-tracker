@@ -16,11 +16,19 @@ figures:
   arrested: 4
   kg_seized: 1.5
 details:
+  activity: [trafficking, cultivation]
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 1.5}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2, 6, 7, 4, 5]
   details.agencies: [1, 3, 4, 5, 6, 7]
   details.agency_types: [1, 3, 4, 5, 6, 7]
+  details.case_stage: [1, 2, 3, 4, 5, 7]
+  details.products: [1, 2, 4, 7, 6]
+  details.setting: [1, 2, 3, 4, 5, 7]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 41df8c2954d0c01cd2ec0ecc7ecfa59e

@@ -60,10 +60,14 @@ media:
 details:
   agencies: [th-oncb]
   agency_types: [anti-narcotics]
+  case_stage: charged
+  products: [{product: flower}]
   setting: [building]
 data_sources:
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
+  details.case_stage: [3, 5, 6, 7, 8, 4]
+  details.products: [3, 5, 7, 8, 6, 4]
   details.setting: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 status: reported
 created_by_model: openai/gpt-6-luna#max

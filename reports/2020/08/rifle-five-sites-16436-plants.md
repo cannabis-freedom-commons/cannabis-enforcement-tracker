@@ -18,11 +18,19 @@ figures:
   plants_destroyed: 16436
   arrested: 6
 details:
+  activity: [cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower}, {product: plants, plants: 16436}]
+  setting: [forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [dea, rifle, garfield-county, public-lands]

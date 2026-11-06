@@ -21,9 +21,11 @@ created_by_model: xai/grok-4.7
 details:
   agencies: [mx-semar]
   agency_types: [military]
+  products: [{product: flower}]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [1, 2]
 status: verified
 tags: [mexico, nayarit, semar, sedena, eradication]
 sources:

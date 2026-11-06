@@ -18,8 +18,10 @@ figures:
     amount: 1000000
     currency: EUR
 details:
+  agency_types: [gendarmerie, military, court]
   route: {from: [af], to: [mu]}
 data_sources:
+  details.agency_types: [2]
   details.route: [2, 1, 3]
 media:
   - kind: photo

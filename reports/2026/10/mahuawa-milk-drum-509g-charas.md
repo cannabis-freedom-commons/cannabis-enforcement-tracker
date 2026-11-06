@@ -30,10 +30,16 @@ media:
     publisher: News18 Hindi
     caption: Video embedded in the News18 Hindi report of the Motihari milk-container seizure.
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: f6feb1560958abe3507b82390c3481bb

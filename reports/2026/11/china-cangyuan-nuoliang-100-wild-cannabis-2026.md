@@ -14,10 +14,12 @@ summary: >-
 figures:
   plants_destroyed: 100
 details:
+  products: [{product: plants, plants: 100}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.environment: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

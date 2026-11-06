@@ -16,10 +16,14 @@ figures:
   kg_seized: 0.018
 details:
   activity: [possession]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

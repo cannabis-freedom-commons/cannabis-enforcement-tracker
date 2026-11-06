@@ -29,11 +29,15 @@ media:
     publisher: Fair News Service (FNS)
     caption: Image illustrating BGB's recovery of Indian syrup and cannabis at Bilgathua; photo credit not listed.
 details:
+  activity: [smuggling, trafficking]
   agencies: [bd-bgb]
   agency_types: [border-guard]
+  products: [{product: flower, kg: 8}]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [2, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 9c3406726f81eef761e9fe940783f401

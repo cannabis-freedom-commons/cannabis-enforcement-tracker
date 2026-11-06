@@ -17,8 +17,16 @@ figures:
   prison: 16 years
 details:
   activity: [smuggling]
+  agency_types: [prosecutor, court]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 5.7}, {product: oil}]
+  setting: [port, mail, prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1e76230f15c00a07df5ad0672ec13283

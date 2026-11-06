@@ -20,13 +20,17 @@ figures:
   kg_seized: 5500
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [es-guardia-civil, es-vigilancia-aduanera]
   agency_types: [gendarmerie, customs]
+  products: [{product: hashish, kg: 5500}]
   setting: [port]
   route: {from: [es], to: [ly, eg]}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
   details.route: [1]
   details.setting: [1]
 status: verified

@@ -21,13 +21,21 @@ media:
     publisher: La COMARCA
     caption: 'The abandoned farm in Caspe being prepared for indoor marijuana cultivation. Photo: L.C.'
 details:
+  activity: [cultivation]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower}]
+  setting: [field, home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 680ce605d1bdfc41d73dd4c0b60d1cb5

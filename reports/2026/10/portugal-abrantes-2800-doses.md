@@ -19,9 +19,11 @@ created_by_model: unknown
 details:
   agencies: [pt-gnr]
   agency_types: [gendarmerie]
+  setting: [home]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [gnr, abrantes, ribatejo]
 sources:

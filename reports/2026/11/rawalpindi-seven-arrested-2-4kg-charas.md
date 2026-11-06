@@ -15,6 +15,7 @@ figures:
   arrested: 7
   kg_seized: 2.4
 details:
+  activity: [possession]
   agencies: [West Ridge police, Chaklala police, Banni police, Ratha Amral police, Kallar Syedan police, Race Course police, Rawat police]
   agency_types: [police]
   products:
@@ -22,6 +23,7 @@ details:
   case_stage: investigation
   date_precision: publication
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

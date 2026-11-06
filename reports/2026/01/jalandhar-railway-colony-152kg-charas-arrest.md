@@ -15,10 +15,16 @@ figures:
   arrested: 1
   kg_seized: 15.2
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: def60baa38e8f038e3544e467033b661

@@ -22,10 +22,16 @@ media:
     publisher: Tripura Times
     caption: 'Assam Rifles personnel standing beside blue-wrapped packages and white sacks after the seizure in Tripura. Photo: Tripura Times'
 details:
+  activity: [smuggling, trafficking, cultivation, sale]
+  agency_types: [customs, military, police]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 3, 1, 4]
+  details.agency_types: [2, 1, 4]
   details.products: [1, 2, 4]
+  details.setting: [4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [tripura, khowai, ganja, assam-rifles, customs]

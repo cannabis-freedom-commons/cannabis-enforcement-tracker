@@ -16,10 +16,14 @@ figures:
   arrested: 1
   kg_seized: 0.45
 details:
+  agency_types: [police, prosecutor]
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4e5893bfffe14558f61f54d4010b584d

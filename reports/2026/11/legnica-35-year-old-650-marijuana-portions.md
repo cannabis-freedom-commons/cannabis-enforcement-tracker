@@ -16,10 +16,16 @@ figures:
   arrested: 1
   charged: 1
 details:
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 2, 4, 3]
+  details.case_stage: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b57db992e5ccd3e1bb84804704f72cb1

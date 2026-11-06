@@ -27,10 +27,14 @@ details:
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
   activity: [smuggling]
+  products: [{product: hashish, kg: 1.5}, {product: oil}]
+  setting: [airport]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3a5afea0afb866f1e488e02361af5800

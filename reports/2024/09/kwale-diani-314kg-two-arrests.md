@@ -21,8 +21,12 @@ figures:
   kg_seized: 314
 details:
   activity: [trafficking]
+  products: [{product: flower, kg: 314}]
+  setting: [home]
 data_sources:
   details.activity: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [diani, kwale, anu, trafficking]

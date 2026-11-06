@@ -16,9 +16,19 @@ figures:
   arrested: 21
   kg_seized: 113
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  case_stage: investigation
+  products: [{product: hashish, kg: 113}]
   route: {from: [ma], to: [dz]}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.expressdz.dz/2026/10/17/demantelement-de-six-reseaux-criminels-et-saisie-de-113-kg-de-kif-traite-en-provenance-du-maroc/

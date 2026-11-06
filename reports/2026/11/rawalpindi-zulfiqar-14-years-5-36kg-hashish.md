@@ -30,6 +30,7 @@ details:
   force: [none-reported]
   date_precision: exact
   region: Punjab
+  setting: [prison]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -39,6 +40,7 @@ data_sources:
   details.force: [1]
   details.products: [1]
   details.sentence_types: [1]
+  details.setting: [1]
   figures.charged: [1]
   figures.fine: [1]
   figures.kg_seized: [1]

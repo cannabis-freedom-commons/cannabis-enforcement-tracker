@@ -29,10 +29,16 @@ media:
     publisher: Swatantra Prabhat
     caption: The page picture for the Sonbhadra seizure, captioned as a Ciaz car with a secret cabin from which 60.5 kg of ganja was recovered and two smugglers arrested; no credit is given.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home, building]
 data_sources:
+  details.activity: [2, 3, 5, 1]
+  details.agency_types: [1, 5, 2, 3, 4]
   details.products: [1]
+  details.setting: [1, 5, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5b0ba0dcdb24b13736a51bf618eeaa7b

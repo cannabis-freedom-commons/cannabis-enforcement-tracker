@@ -26,10 +26,14 @@ media:
     publisher: RCI
     caption: 'Aéroport Aimé Césaire in Martinique, where the arrest took place. Photo: RCI'
 details:
+  agency_types: [customs, court]
+  case_stage: executed
   setting: [airport]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

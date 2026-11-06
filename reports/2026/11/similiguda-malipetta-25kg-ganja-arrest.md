@@ -22,14 +22,20 @@ media:
     publisher: Eenadu
     caption: Photo displayed with the 25-kg ganja seizure item on the source page
 details:
+  activity: [smuggling]
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [border]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 63f2f45ba67fe747e19b698d5af3905a

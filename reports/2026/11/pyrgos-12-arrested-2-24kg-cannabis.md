@@ -17,6 +17,7 @@ figures:
   sites: 7
   kg_seized: 2.24
 details:
+  agency_types: [police, prosecutor]
   products:
     - {product: flower, kg: 2.24}
     - {product: plants, plants: 2}
@@ -27,6 +28,7 @@ details:
   region: Elis
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 4, 5, 6, 7, 3]
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]

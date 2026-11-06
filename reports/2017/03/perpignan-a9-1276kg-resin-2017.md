@@ -16,10 +16,14 @@ figures:
     amount: 8300000
     currency: EUR
 details:
+  agency_types: [customs, prosecutor]
   products:
     - {product: hashish}
+  setting: [port, vehicle]
 data_sources:
+  details.agency_types: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 97df360fc7612e7d37d3513b5c98ba40

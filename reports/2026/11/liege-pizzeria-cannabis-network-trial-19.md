@@ -19,6 +19,7 @@ figures:
     amount: 80000
     currency: EUR
 details:
+  agency_types: [police, court]
   products:
     - {product: plants, plants: 715}
   activity: [cultivation, sale]
@@ -30,6 +31,7 @@ details:
   region: Province de Liège
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2, 4, 3]
   details.case_stage: [1]
   details.charges: [1]
   details.environment: [1]

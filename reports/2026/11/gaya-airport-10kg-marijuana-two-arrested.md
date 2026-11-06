@@ -15,10 +15,18 @@ figures:
   arrested: 2
   kg_seized: 10
 details:
+  activity: [smuggling]
+  agency_types: [customs, court]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [airport]
 data_sources:
+  details.activity: [1, 9, 12, 4, 6, 10]
+  details.agency_types: [1, 2, 5, 6, 8, 9]
+  details.case_stage: [1, 2, 5, 6, 8, 9]
   details.products: [1, 2, 4, 5, 6, 7]
+  details.setting: [1, 2, 5, 6, 8, 9]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d5abdc821f81e7a24a59f388319cff8a

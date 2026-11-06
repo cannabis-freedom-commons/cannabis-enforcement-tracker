@@ -16,10 +16,18 @@ figures:
   arrested: 2
   kg_seized: 8.562
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police, court]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [2, 4, 6, 8, 9, 1]
+  details.agency_types: [1, 4, 5, 6, 7, 8]
+  details.case_stage: [2, 4, 6, 8, 9, 1]
   details.products: [1, 4, 5, 6, 7, 8, 9]
+  details.setting: [1, 4, 5, 6, 7, 8]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 790ef7d3a6f4e4f71acecc110df254eb

@@ -29,10 +29,12 @@ details:
   agency_types: [anti-narcotics]
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [4]
+  details.setting: [1, 3, 2, 4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 4db330903de3399eb11d20e6953391be

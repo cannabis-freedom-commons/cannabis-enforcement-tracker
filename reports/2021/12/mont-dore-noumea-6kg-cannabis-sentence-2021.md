@@ -17,9 +17,17 @@ figures:
   kg_seized: 6.323
   prison: 2 years (including 1 year suspended)
 details:
+  activity: [trafficking, sale]
+  agency_types: [gendarmerie, court]
+  case_stage: sentenced
   environment: [indoor]
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.environment: [2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3c71c6e7610d108a0acc1e98c669ae07

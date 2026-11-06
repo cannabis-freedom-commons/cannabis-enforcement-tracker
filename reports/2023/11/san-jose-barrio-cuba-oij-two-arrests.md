@@ -50,9 +50,13 @@ media:
     publisher: CR Hoy
     caption: 'Seventh photograph in the carousel, published under the caption ''Detienen a dos sujetos en Barrio Cuba por venta de droga''. Photo: CR Hoy'
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

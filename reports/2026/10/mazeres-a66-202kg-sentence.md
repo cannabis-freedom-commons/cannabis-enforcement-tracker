@@ -26,9 +26,15 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [fr-ofast]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
+  products: [{product: hashish, kg: 202.85}, {product: flower}]
+  setting: [prison]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [ariege, mazeres, customs, ofast]
 open_questions:

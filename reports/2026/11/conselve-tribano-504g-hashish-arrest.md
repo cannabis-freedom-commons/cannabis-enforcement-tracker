@@ -25,10 +25,12 @@ details:
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 79661f739c5ba619c43df5287d2a802f

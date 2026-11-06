@@ -25,9 +25,13 @@ media:
     publisher: Infobae
     caption: 'Video on the two simultaneous operations against drug transport routes and an improvised-explosives workshop in southern Colombia. Video: @COL_EJERCITO / X'
 details:
+  activity: [trafficking]
+  agency_types: [military, police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [3, 2, 1]
+  details.agency_types: [2, 3, 1]
   details.products: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

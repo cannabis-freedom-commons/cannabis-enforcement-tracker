@@ -31,10 +31,12 @@ details:
   agency_types: [police]
   products:
     - {product: flower}
+  setting: [border, vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [dhankuta, koshi-highway, marijuana, nepal-police, apf]
 sources:

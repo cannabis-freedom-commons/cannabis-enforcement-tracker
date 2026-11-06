@@ -19,9 +19,11 @@ figures:
 details:
   agencies: [nz-police]
   agency_types: [police]
+  products: [{product: plants, plants: 124000}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [national-cannabis-operation, operation-julia]

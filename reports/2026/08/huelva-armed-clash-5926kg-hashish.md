@@ -19,11 +19,17 @@ figures:
   kg_seized: 5926
 created_by_model: unknown
 details:
+  activity: [smuggling, trafficking]
   agencies: [es-guardia-civil, es-vigilancia-aduanera]
   agency_types: [gendarmerie, customs]
+  case_stage: investigation
+  products: [{product: hashish, kg: 5926}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 sources:
   - title: Ten members of a criminal organisation have been arrested following a shooting attack on a Civil Guard patrol boat in the waters off Huelva

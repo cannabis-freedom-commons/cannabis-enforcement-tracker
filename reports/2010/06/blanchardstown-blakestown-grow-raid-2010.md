@@ -21,11 +21,17 @@ figures:
   value: { amount: 450000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: investigation
+  setting: [home]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 3, 2]
+  details.setting: [1, 3]
 status: verified
 tags: [dublin, cannabis-factory]
 open_questions:

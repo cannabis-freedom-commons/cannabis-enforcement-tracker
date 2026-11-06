@@ -16,9 +16,11 @@ figures:
   arrested: 2
   kg_seized: 156
 details:
+  activity: [trafficking]
   agencies: [br-prf]
   agency_types: [police]
 data_sources:
+  details.activity: [1, 3, 4, 5, 2]
   details.agencies: [1, 3, 4, 5]
   details.agency_types: [1, 3, 4, 5]
 status: reported

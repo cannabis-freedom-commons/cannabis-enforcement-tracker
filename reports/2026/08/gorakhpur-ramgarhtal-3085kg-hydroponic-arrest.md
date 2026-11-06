@@ -29,11 +29,17 @@ media:
     publisher: Bhaskar English
     caption: 'The five accused in custody with the seized cannabis. Photo: Bhaskar English'
 details:
+  activity: [smuggling, trafficking]
   agencies: [in-anf]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 3.085}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a176decf0017846ca3532bf4032acb06

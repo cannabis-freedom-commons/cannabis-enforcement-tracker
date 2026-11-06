@@ -21,10 +21,18 @@ media:
     publisher: Luxembourg Times
     caption: 'Photo of the 43 kg of marijuana found in a van in Luxembourg. Photo: Polizei Wuppertal'
 details:
+  activity: [smuggling]
+  agency_types: [police, prosecutor, court]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 5c19f582a55be3910835014326cf698f

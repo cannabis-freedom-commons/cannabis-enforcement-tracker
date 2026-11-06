@@ -26,9 +26,13 @@ media:
     publisher: МВД МЕДИА
     caption: 'The cloth sack of dried cannabis leaves with a police scale marker beside it. Photo: Press service of the Interior Ministry for Altai Krai'
 details:
+  agency_types: [police]
   environment: [wild]
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
   details.environment: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b6898ad85ebe63ba160c41c0eb339117

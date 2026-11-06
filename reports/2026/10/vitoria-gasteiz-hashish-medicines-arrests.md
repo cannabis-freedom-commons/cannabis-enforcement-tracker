@@ -14,9 +14,15 @@ summary: >-
 figures:
   arrested: 2
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
   details.products: [1, 2, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

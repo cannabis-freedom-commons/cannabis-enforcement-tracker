@@ -20,14 +20,20 @@ media:
     publisher: Campos 24 Horas
     caption: 'Photo published with the report of the Portelinha 2 arrests, credited to the Military Police as a handout (Foto: Divulgação PM); the page gives no caption saying what it shows.'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ca451373198a9d059e2c4f2ffb572be2

@@ -21,11 +21,15 @@ media:
     publisher: AgoraVale
     caption: 'Photo accompanying the report of the man arrested with more than 2 kg of marijuana in the supermarket parking lot in São José dos Campos. Photo: Divulgação'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: flower, kg: 2.02}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bb16530e300958bab0e5b32d67f0bf15

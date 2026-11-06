@@ -17,14 +17,18 @@ figures:
   plants_destroyed: 1
   kg_seized: 0.08
 details:
+  activity: [possession]
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1, 3]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
   details.products: [1, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 29d22314dc3fb9291c624aa1751cf2ed

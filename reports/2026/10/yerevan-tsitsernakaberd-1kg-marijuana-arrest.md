@@ -26,10 +26,18 @@ media:
     publisher: Новости-Армения
     caption: Embedded video accompanying the report on the uncovered drug trafficking case and arrests
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 275e2fafb0de17461ba818fd4b3712b1

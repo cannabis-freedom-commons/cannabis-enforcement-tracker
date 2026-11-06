@@ -19,10 +19,16 @@ figures:
   arrested: 41
   kg_seized: 2700
 details:
+  activity: [smuggling, cultivation]
+  agency_types: [anti-narcotics, police]
   products:
     - {product: flower}
+  setting: [forest]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [malkangiri, maoists, ganja]

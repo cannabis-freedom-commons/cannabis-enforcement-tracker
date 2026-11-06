@@ -18,8 +18,16 @@ figures:
   kg_seized: 110
   value: { amount: 19000000, currency: HKD }
 details:
+  activity: [trafficking, sale]
+  agency_types: [anti-narcotics, police]
+  case_stage: charged
+  products: [{product: flower, kg: 110}]
   route: {from: [ca], to: [hk]}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

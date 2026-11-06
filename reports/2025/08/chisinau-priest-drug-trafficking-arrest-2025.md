@@ -20,11 +20,19 @@ media:
     publisher: NewsMaker
     caption: Photo collage from the searches in the Chisinau drug-trafficking case in which the priest was detained.
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: convicted
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [vehicle, home, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8f2fa171ea8b98a9bd5ef6df500c7c46

@@ -21,9 +21,13 @@ summary: >-
 figures:
   arrested: 8
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2, 3, 4, 5, 6]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
   details.products: [6, 7]
 status: verified
 created_by_model: xai/grok-4.7#low

@@ -21,10 +21,18 @@ media:
     publisher: Blu Radio
     caption: 'Police photo of the drug arrests in the Bucaramanga metropolitan area. Photo: Policía.'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7aa12ae73985d62b01ae59287755a655

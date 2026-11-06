@@ -18,11 +18,17 @@ figures:
   arrested: 32
   kg_seized: 15945
 details:
+  activity: [trafficking]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 15945}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 3, 2]
+  details.products: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, operation-puma, gulf-cartel, texas]

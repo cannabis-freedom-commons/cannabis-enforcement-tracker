@@ -35,8 +35,16 @@ media:
     publisher: 香港商報網
     caption: Police photo, labelled 警方圖片, showing the suspected cannabis seized at the airport.
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: appeal
+  products: [{product: flower, kg: 9}]
   setting: [airport]
 data_sources:
+  details.activity: [3, 2, 4]
+  details.agency_types: [1, 2, 3, 4]
+  details.case_stage: [2]
+  details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

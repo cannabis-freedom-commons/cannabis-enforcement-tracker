@@ -24,12 +24,14 @@ media:
 details:
   agencies: [in-eagle]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   setting: [school]
   products:
     - {product: flower}
 data_sources:
   details.agencies: [1, 2, 4, 5, 6, 7, 9, 10, 11]
   details.agency_types: [1, 2, 4, 5, 6, 7, 9, 10, 11]
+  details.case_stage: [1, 6, 7, 9, 10, 11]
   details.products: [1, 4, 6, 7, 8, 9, 10, 11]
   details.setting: [1, 2, 4, 5, 6, 7, 8, 9, 10, 11]
 status: reported

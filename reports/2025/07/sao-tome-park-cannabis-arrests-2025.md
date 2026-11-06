@@ -14,8 +14,14 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  setting: [field, prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.setting: [1, 2]
 status: verified
 cfi_id: sao-tome-park-cannabis-arrests-2025
 tags:

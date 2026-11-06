@@ -19,9 +19,15 @@ figures:
   plants_destroyed: 16000
 created_by_model: meta/muse-spark
 details:
+  agency_types: [police]
+  case_stage: investigation
   environment: [greenhouse]
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [houten, greenhouse, nursery]
 open_questions:

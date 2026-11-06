@@ -26,11 +26,17 @@ media:
     publisher: Assiscity
     caption: 'The Honda Titan motorcycle used for drug deliveries, seized by the Civil Police in Assis. Photo: Civil Police'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: f50b4679b3ed86d4c7573c6ba2b1a7b4

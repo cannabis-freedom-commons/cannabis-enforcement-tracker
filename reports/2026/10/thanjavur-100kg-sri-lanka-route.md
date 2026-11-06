@@ -20,8 +20,14 @@ figures:
   kg_seized: 100
 created_by_model: unknown
 details:
+  activity: [smuggling]
+  agency_types: [police]
+  products: [{product: flower, kg: 100}]
   route: {from: [in], to: [lk]}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
   details.route: [1]
 status: verified
 tags: [sri-lanka-route, carrier]

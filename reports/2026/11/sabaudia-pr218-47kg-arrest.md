@@ -17,9 +17,13 @@ figures:
 details:
   agencies: [br-prf]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 47}]
 data_sources:
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
+  details.case_stage: [1, 3, 2]
+  details.products: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e3f7eb7431cf5a3d74df05e97f982720

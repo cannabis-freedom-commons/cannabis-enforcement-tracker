@@ -19,9 +19,13 @@ figures:
 details:
   agencies: [us-cbp, us-hsi]
   agency_types: [customs, police]
+  products: [{product: flower, kg: 1093.16}]
+  setting: [port]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [cbp, peace-bridge, cross-border]

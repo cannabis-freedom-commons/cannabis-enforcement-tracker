@@ -22,10 +22,14 @@ media:
     caption: State police officers behind a table of seized bags, in the photo published with the report's Cancún section; no caption or credit was given.
 details:
   activity: [sale]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [2]
   details.products: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max

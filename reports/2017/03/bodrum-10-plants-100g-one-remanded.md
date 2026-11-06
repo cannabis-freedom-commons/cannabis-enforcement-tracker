@@ -16,10 +16,18 @@ figures:
   plants_destroyed: 10
   kg_seized: 0.1
 details:
+  activity: [smuggling, sale]
+  agency_types: [police, prosecutor, court]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: afb4008df12a9d970fec995f4f14115b

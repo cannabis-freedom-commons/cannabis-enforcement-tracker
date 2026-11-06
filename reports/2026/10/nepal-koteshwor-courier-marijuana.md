@@ -18,8 +18,12 @@ figures:
   arrested: 2
   kg_seized: 1.338
 details:
+  agency_types: [police]
+  products: [{product: flower, kg: 1.338}]
   setting: [mail]
 data_sources:
+  details.agency_types: [1, 2, 3, 4]
+  details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
 status: verified
 created_by_model: unknown

@@ -21,9 +21,11 @@ created_by_model: unknown
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 1200}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
 status: verified
 tags: [benguet]
 open_questions:

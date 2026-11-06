@@ -15,10 +15,14 @@ figures:
   arrested: 2
   kg_seized: 6
 details:
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [airport, vehicle]
 data_sources:
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cff5f60751dde50f9029b97a93dc3e7e

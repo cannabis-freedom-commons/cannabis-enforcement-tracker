@@ -21,10 +21,14 @@ media:
     publisher: Onmanorama
     caption: 'Arrested accused T R Nidhun (L) and Ebi. Photo: Special arrangement'
 details:
+  agency_types: [anti-narcotics, police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 6d7fe1b7149c558448745c7f08975d03

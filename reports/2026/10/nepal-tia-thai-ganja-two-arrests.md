@@ -19,8 +19,10 @@ figures:
   kg_seized: 14
 created_by_model: unknown
 details:
+  products: [{product: flower, kg: 14}]
   setting: [airport]
 data_sources:
+  details.products: [1, 3, 2]
   details.setting: [1, 2, 3]
 status: verified
 tags: [thai-ganja, airport, batik-air]

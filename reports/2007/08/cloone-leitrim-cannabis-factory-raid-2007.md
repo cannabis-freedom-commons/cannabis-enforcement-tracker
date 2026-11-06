@@ -20,9 +20,15 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: plants}]
+  setting: [home]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 tags: [cannabis-factory, leitrim]
 open_questions:

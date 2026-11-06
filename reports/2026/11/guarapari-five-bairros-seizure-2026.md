@@ -26,14 +26,18 @@ media:
     publisher: TV Guarapari
     caption: Seized material laid out in Portal Clube, reported to include cocaine pins, hashish, crack rocks, cash and a precision scale
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

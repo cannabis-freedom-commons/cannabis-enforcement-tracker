@@ -16,10 +16,16 @@ figures:
   arrested: 2
   kg_seized: 0.25
 details:
+  activity: [sale]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a13736e59357991a5874983bde13dece

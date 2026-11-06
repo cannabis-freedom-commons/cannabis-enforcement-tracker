@@ -16,12 +16,16 @@ figures:
 details:
   agencies: [mx-sedena, mx-semar, mx-gn, mx-fgr, Secretaría de Seguridad y Protección Ciudadana (SSPC), Secretaría de Seguridad Ciudadana de la Ciudad de México (SSC-CDMX)]
   activity: [sale, possession, trafficking]
+  agency_types: [military, police, prosecutor]
+  products: [{product: flower}]
   setting: [home]
   case_stage: investigation
 data_sources:
   details.activity: [2]
   details.agencies: [2]
+  details.agency_types: [1, 2, 3]
   details.case_stage: [3]
+  details.products: [2, 3]
   details.setting: [2]
   figures.arrested: [2]
 status: verified

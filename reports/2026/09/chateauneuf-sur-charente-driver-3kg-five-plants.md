@@ -24,9 +24,17 @@ media:
     publisher: Actu Charente
     caption: 'Screenshot of the Charente gendarmerie''s Facebook post about the search, showing the indoor drug laboratory officers found at the driver''s home, published by Actu Charente. Photo: Gendarmerie de la Charente'
 details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
+  case_stage: sentenced
   environment: [indoor]
+  setting: [prison]
 data_sources:
+  details.activity: [3, 2]
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [3, 2]
   details.environment: [1, 2]
+  details.setting: [3, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 1c3e300888ae8b04d7feef47c0b8e4a8

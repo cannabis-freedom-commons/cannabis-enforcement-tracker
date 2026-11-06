@@ -23,10 +23,14 @@ media:
     publisher: Champawat Khabar
     caption: Men with their faces obscured, photographed in connection with the Chalthi checkpoint arrest; the page gives no caption or credit.
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
+  setting: [border, prison]
 data_sources:
+  details.agency_types: [1, 2, 3]
   details.products: [1]
+  details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2bffe8e459974f0c9c764e2e2c2f706f

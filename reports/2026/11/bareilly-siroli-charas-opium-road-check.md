@@ -26,9 +26,11 @@ media:
     publisher: Dainik Bhaskar
     caption: 'Short video published with the report on the Siroli arrest of the two riders. Video: Dainik Bhaskar'
 details:
+  agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

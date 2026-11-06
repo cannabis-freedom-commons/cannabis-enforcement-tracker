@@ -21,11 +21,13 @@ details:
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
+  products: [{product: flower}]
   region: West Bengal
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1]
   figures.arrested: [1]
   figures.value: [1]
 media:

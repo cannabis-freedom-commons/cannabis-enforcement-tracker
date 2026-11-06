@@ -31,11 +31,15 @@ media:
     publisher: Jornal Razão
     caption: Photo of the 29 kg of cannabis seized by the PMSC.
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  setting: [vehicle, mail]
 data_sources:
+  details.activity: [1, 3, 4, 5, 2]
   details.agencies: [4, 5]
   details.agency_types: [4, 5]
+  details.setting: [2, 4, 3, 5, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8004069ebfb3b48ca346f8217906d5c7

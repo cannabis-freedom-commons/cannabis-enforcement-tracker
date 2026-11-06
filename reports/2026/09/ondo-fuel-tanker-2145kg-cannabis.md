@@ -26,9 +26,11 @@ media:
 details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low
 tags: [ondo, ndlea, tanker, akoko]

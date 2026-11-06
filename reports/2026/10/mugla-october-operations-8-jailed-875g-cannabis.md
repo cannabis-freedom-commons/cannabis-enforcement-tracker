@@ -17,10 +17,14 @@ figures:
   charged: 8
   kg_seized: 0.875
 details:
+  activity: [trafficking]
+  agency_types: [gendarmerie]
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

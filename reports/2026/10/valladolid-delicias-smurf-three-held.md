@@ -27,10 +27,18 @@ media:
     publisher: Diario de Valladolid
     caption: 'Diario de Valladolid video of the National Police operation against drug retailing in Las Delicias, Valladolid; its preview shows the seized drugs, cash and bladed weapons. Video: Diario de Valladolid'
 details:
+  activity: [trafficking]
+  agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [3, 4, 9, 1, 8, 2]
+  details.agency_types: [3, 4, 9, 1, 8, 2]
+  details.case_stage: [3, 4, 9, 1, 8, 2]
   details.products: [1, 4, 6, 8, 9]
+  details.setting: [1, 4, 7, 8, 9, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 55f822fddc5b9f4b81936d629d67289b

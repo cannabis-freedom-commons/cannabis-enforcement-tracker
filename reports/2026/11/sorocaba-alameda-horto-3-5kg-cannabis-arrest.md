@@ -24,14 +24,20 @@ media:
     publisher: Jornal Cruzeiro do Sul
     caption: 'The drugs seized in the Sorocaba operation laid out together, including the marijuana portions and tablets and the cannabis ice found in the car and at the suspect''s home. Photo: 14th Baep (Divulgação)'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dfcbd60ec35382d0b4847ca3d0271d36

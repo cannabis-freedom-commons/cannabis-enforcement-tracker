@@ -19,11 +19,15 @@ figures:
   arrested: 300
   charged: 28
 details:
+  activity: [cultivation]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 71000}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [ndlea, indian-hemp]

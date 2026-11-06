@@ -26,8 +26,10 @@ media:
     caption: Photo captioned "Narkootikumid" (drugs) on the ERR report, credited to PPA (Police and Border Guard Board).
 details:
   activity: [smuggling]
+  agency_types: [customs]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 89b5c3fb5941cd02063ed53838543c4d

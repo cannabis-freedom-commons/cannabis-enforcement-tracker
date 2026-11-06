@@ -15,10 +15,16 @@ figures:
   charged: 1
   kg_seized: 1.5
 details:
+  agency_types: [customs, court]
+  case_stage: convicted
   products:
     - {product: hashish}
+  setting: [mail]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d47bba5e5ba94f631957dc0761f3eabc

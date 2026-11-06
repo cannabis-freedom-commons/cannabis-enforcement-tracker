@@ -36,8 +36,14 @@ media:
     publisher: Prensa Libre
     caption: 'A ship at Puerto Santo Tomás de Castilla, the Guatemalan port named as where the Haina container was loaded. Photo: Empornac / Prensa Libre'
 details:
+  activity: [trafficking]
+  agency_types: [customs, anti-narcotics, prosecutor]
+  products: [{product: flower, kg: 3057.21}]
   setting: [port]
 data_sources:
+  details.activity: [3, 4, 2, 1]
+  details.agency_types: [4, 2, 1]
+  details.products: [2, 3, 4]
   details.setting: [1, 2, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

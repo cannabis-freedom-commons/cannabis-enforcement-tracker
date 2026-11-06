@@ -20,8 +20,14 @@ media:
     publisher: L'Express de Madagascar
     caption: 'Montage of the four Mauritian suspects held at Tsiafahy prison, as published by L''Express de Madagascar. Photo: L''Express de Madagascar'
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   setting: [port]
 data_sources:
+  details.activity: [1, 2, 5, 3, 4]
+  details.agency_types: [1, 4, 5, 2, 3]
+  details.case_stage: [1, 4, 5, 2]
   details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

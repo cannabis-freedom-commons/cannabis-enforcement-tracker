@@ -16,9 +16,13 @@ figures:
   arrested: 1
   kg_seized: 0.42
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 5, 6, 7, 8, 9]
+  details.case_stage: [4]
   details.products: [2]
 status: reported
 created_by_model: xai/grok-4.7#medium

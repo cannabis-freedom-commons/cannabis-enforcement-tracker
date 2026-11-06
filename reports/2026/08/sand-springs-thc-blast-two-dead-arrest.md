@@ -18,8 +18,12 @@ figures:
   deaths: 2
 details:
   activity: [processing]
+  products: [{product: flower}]
+  setting: [prison]
 data_sources:
   details.activity: [1, 2]
+  details.products: [2, 4, 3, 1]
+  details.setting: [2, 4, 3, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 869a295af28cab2c743473e7a46068ac

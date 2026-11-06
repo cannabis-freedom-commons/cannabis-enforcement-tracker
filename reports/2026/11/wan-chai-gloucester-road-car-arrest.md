@@ -27,8 +27,16 @@ media:
     publisher: on.cc東網
     caption: 'Police with the drugs seized from the private car. Photo: Hu Dewei'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.0016}]
   setting: [vehicle]
 data_sources:
+  details.activity: [3, 4, 5, 2, 1, 6]
+  details.agency_types: [2, 1, 4, 5, 6, 3]
+  details.case_stage: [2, 1, 4, 5, 6]
+  details.products: [2, 1, 4, 5, 6, 3]
   details.setting: [1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

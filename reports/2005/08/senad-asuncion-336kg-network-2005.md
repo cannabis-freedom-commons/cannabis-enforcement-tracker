@@ -18,11 +18,19 @@ figures:
   kg_seized: 336
   arrested: 10
 details:
+  activity: [trafficking]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 336}]
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [senad, asuncion, pressed-marijuana]

@@ -26,10 +26,16 @@ media:
     publisher: Mlyn.by
     caption: 'MVD video published with the report on the courier detentions. Video: MVD.'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: sentenced
   setting: [mail]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
   details.setting: [1]
 status: verified

@@ -37,11 +37,17 @@ media:
     publisher: La Provincia
     caption: 'Containers of cannabis found during the search of the premises. Photo: Policía Nacional.'
 details:
+  activity: [trafficking, sale]
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
+  case_stage: investigation
+  products: [{product: hashish, kg: 1.563}, {product: flower}]
 data_sources:
+  details.activity: [1, 4, 5, 6, 7, 2]
   details.agencies: [1, 3, 4, 5, 6, 7]
   details.agency_types: [1, 3, 4, 5, 6, 7]
+  details.case_stage: [1, 3, 4, 5, 6]
+  details.products: [1, 3, 4, 5, 6, 7]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 2b2a5b0d1e7428f24187416773e3b139

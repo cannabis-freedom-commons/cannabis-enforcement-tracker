@@ -24,10 +24,16 @@ figures:
     currency: BHD
 created_by_model: cursor/composer-2.5
 details:
+  activity: [smuggling]
+  agency_types: [customs, anti-narcotics, police, court]
+  case_stage: sentenced
   setting: [airport]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

@@ -40,10 +40,14 @@ media:
     publisher: Dainik Bhaskar
     caption: 'The two accused in police custody. Photo: Dainik Bhaskar'
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2]
+  details.setting: [2, 1, 3]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: d1318ca17eaf61b9d307bda98b7f53de

@@ -18,11 +18,19 @@ figures:
   kg_seized: 25000
   hectares: 3.75
 details:
+  activity: [trafficking, cultivation]
   agencies: [bo-felcn]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 25000}]
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [felcn, processing-lab, toro-toro]

@@ -17,8 +17,14 @@ figures:
   charged: 1
   kg_seized: 0.0032
 details:
+  activity: [possession]
+  case_stage: charged
+  products: [{product: flower, kg: 0.0032}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 3]
+  details.case_stage: [1, 3]
+  details.products: [1, 3]
   details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

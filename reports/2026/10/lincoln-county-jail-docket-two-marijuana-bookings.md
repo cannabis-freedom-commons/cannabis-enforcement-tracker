@@ -23,6 +23,7 @@ details:
   case_stage: charged
   date_precision: approximate
   region: Mississippi
+  setting: [prison]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -30,6 +31,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]
+  details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]
 status: verified

@@ -19,9 +19,13 @@ figures:
   kg_seized: 70.064
   value: { amount: 573170, currency: EUR }
 details:
+  agency_types: [customs, border-guard, police]
+  products: [{product: flower, kg: 70.064}]
   setting: [border]
   route: {from: [bg], to: [tr]}
 data_sources:
+  details.agency_types: [1]
+  details.products: [1]
   details.route: [1]
   details.setting: [1]
 status: verified

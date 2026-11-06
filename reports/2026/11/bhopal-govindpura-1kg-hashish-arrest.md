@@ -18,14 +18,18 @@ figures:
     amount: 3000000
     currency: INR
 details:
+  activity: [smuggling, trafficking]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.products: [1, 3]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7bd08f371ab9d1081ef18480abfd7e8a

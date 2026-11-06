@@ -24,10 +24,14 @@ media:
     publisher: The Himalayan Times
     caption: 'Police photograph of the seized hashish published with the Birgunj truck seizure report. Photo: Nepal Police/facebook'
 details:
+  activity: [smuggling]
+  agency_types: [customs, police]
   setting: [vehicle]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

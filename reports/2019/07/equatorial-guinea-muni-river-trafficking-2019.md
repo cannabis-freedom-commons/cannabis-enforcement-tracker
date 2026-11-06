@@ -11,8 +11,10 @@ summary: >-
   Muni river, according to the 2019 United States OSAC crime and safety report for the country.
 created_by_model: unknown
 details:
+  activity: [trafficking, cultivation]
   route: {from: [gq], to: [ga], crossing: 'Muni river'}
 data_sources:
+  details.activity: [1]
   details.route: [1]
 status: verified
 cfi_id: equatorial-guinea-muni-river-trafficking-2019

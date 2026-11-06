@@ -14,10 +14,14 @@ summary: >-
 figures:
   arrested: 1
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d846a59a2bb98865e00215c16f145c3d

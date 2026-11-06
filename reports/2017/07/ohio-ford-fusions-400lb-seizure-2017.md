@@ -29,9 +29,13 @@ media:
 details:
   agencies: [us-dea, us-fbi]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 181.44}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 17cbc1443ec8ae957adb1b316fb2195b

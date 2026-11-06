@@ -44,9 +44,19 @@ media:
     publisher: Prahaar
     caption: 'Photo captioned as the customs operation at Pune airport over the hydroponic ganja smuggled from Bangkok in dragon-fruit packets. Photo: ANI News'
 details:
+  activity: [smuggling]
+  agency_types: [customs, police]
+  case_stage: investigation
   environment: [indoor]
+  products: [{product: flower, kg: 10.642}]
+  setting: [airport]
 data_sources:
+  details.activity: [1, 8, 12, 13, 16, 19]
+  details.agency_types: [2, 8, 10, 11, 12, 14]
+  details.case_stage: [2, 4, 5, 7, 8, 9]
   details.environment: [2]
+  details.products: [1, 8, 11, 12, 14, 15]
+  details.setting: [2, 8, 10, 11, 12, 14]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 22776c80ff27cc7ac568691795ff0f0e

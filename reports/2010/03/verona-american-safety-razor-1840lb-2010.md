@@ -16,8 +16,10 @@ figures:
   kg_seized: 834.61
   value: { amount: 2000000, currency: USD }
 details:
+  products: [{product: flower, kg: 834.61}]
   route: {from: [mx], to: [us/va]}
 data_sources:
+  details.products: [1, 2]
   details.route: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

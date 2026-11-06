@@ -16,11 +16,19 @@ figures:
   charged: 1
   kg_seized: 79
 details:
+  activity: [trafficking]
   agencies: [bo-felcn]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 79}]
+  setting: [airport, home, building]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [6]
+  details.products: [5, 3, 2, 1]
+  details.setting: [2, 1, 3, 6, 4, 5]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 09be475e6b44b2578ba45d4eaa7a432b

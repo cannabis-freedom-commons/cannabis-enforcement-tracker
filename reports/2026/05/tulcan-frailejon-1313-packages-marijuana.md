@@ -16,10 +16,12 @@ figures:
     amount: 6500000
     currency: USD
 details:
+  agency_types: [military]
   setting: [border]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
 status: verified

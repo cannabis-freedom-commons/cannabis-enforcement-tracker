@@ -25,8 +25,16 @@ media:
     publisher: Hong Kong Government
     caption: 'Seized suspected cannabis buds from the airport hand-luggage case. Photo: Hong Kong Government'
 details:
+  activity: [trafficking]
+  agency_types: [customs]
+  case_stage: charged
+  products: [{product: flower, kg: 9}]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2, 4, 5, 6, 7]
+  details.agency_types: [1, 2, 4, 5, 6, 7]
+  details.case_stage: [1, 2, 4, 5, 6, 7]
+  details.products: [1, 4, 6, 2, 5, 7]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

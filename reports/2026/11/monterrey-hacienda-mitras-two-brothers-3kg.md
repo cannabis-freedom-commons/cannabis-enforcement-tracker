@@ -32,10 +32,16 @@ media:
     publisher: MVS Noticias
     caption: 'Police at the searched property with the seized SUV. Photo: Policía de Monterrey'
 details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle, home]
 data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3, 2]
   details.products: [1, 2, 3]
+  details.setting: [2, 3, 1]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4534bf9e5297a8d1579dc8d6c3ac5c8b

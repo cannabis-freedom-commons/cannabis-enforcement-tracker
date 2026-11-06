@@ -25,11 +25,17 @@ cover:
   url: https://tribune.net.ph/2026/08/04/p96-million-worth-of-weeds-destroyed-in-kalinga
 created_by_model: anthropic/opus-5.5
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  setting: [field, forest, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 tags: [cordillera, communal-land]
 sources:

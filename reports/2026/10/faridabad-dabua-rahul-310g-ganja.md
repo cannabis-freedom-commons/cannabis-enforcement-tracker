@@ -22,9 +22,15 @@ media:
     publisher: Alive News
     caption: Alive News photo of accused people and recovered items after Faridabad ganja arrests. The page caption does not say which of the two cases is shown.
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low

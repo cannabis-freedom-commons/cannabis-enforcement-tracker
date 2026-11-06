@@ -31,11 +31,17 @@ media:
       the run since March 2026. Photo: Policía Nacional
 details:
   activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: charged
   products:
     - {product: hashish}
+  setting: [vehicle, home, building]
 data_sources:
   details.activity: [1, 4, 6, 9, 10, 12]
+  details.agency_types: [1, 2, 3, 4, 5, 6]
+  details.case_stage: [6, 12, 8, 9, 10, 4]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+  details.setting: [12, 3, 5, 6, 8, 9]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags:

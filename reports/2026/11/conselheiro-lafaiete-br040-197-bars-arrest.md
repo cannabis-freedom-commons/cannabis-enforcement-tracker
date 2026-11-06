@@ -31,11 +31,17 @@ media:
     publisher: Jornal Correio da Cidade
     caption: 'Lead photo on the source page for this seizure report. Photo: Polícia Militar'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
+  details.activity: [1, 2, 3, 4, 5]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3, 4, 5]
+  details.products: [1, 2, 3, 4, 5]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 292b47e34414e719feefd54285386d5c

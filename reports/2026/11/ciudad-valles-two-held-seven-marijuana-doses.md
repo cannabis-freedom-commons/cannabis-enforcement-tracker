@@ -15,8 +15,12 @@ figures:
   arrested: 2
 details:
   activity: [sale]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bfd12e3a4f3ec9fa8fa9bb487c4be5dc

@@ -17,8 +17,14 @@ summary: >-
   that carry up to seven years in prison.
 created_by_model: spacexai/grok-4.7
 details:
+  agency_types: [customs]
+  case_stage: sentenced
+  products: [{product: flower}]
   setting: [border]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
   details.setting: [1]
 status: verified
 tags: [vitebsk, customs, border]

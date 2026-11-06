@@ -21,11 +21,13 @@ media:
     publisher: PPNews FB
     caption: 'Police photo of seized packages displayed with evidence paperwork. Photo: PM.'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

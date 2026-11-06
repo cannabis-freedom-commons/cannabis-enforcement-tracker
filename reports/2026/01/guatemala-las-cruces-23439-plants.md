@@ -18,8 +18,14 @@ figures:
   value: { amount: 8789625, currency: GTQ }
 details:
   activity: [cultivation]
+  agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: plants, plants: 23439}]
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
+  details.products: [2, 1]
 status: verified
 created_by_model: openai/gpt-6
 tags: [guatemala, peten, las-cruces, eradication]

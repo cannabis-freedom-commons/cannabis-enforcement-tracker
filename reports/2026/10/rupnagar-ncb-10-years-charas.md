@@ -18,14 +18,20 @@ figures:
   kg_seized: 3.65
   prison: 10 years
 details:
+  activity: [trafficking]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [ncb, rupnagar, charas, sentence, ndps]

@@ -19,9 +19,13 @@ media:
     publisher: Abtak Media
     caption: Lead photo on the source page captioned as the supplier from Gadhada caught while offloading ganja in the Rajkot rural area.
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

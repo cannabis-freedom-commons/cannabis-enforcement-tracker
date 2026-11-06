@@ -19,9 +19,17 @@ figures:
   kg_seized: 480
   value: { amount: 10000000, currency: THB }
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [border-guard, police]
+  products: [{product: flower, kg: 480}]
   route: {from: [la], to: [th]}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [1, 2]
 media:
   - kind: photo
     url: https://www.bangkokpost.com/thailand/general/1919176/village-head-arrested-480kg-of-marijuana-seized

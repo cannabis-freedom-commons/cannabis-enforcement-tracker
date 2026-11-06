@@ -20,10 +20,14 @@ details:
   agencies: [ca-opp]
   agency_types: [police]
   environment: [greenhouse]
+  products: [{product: plants}]
+  setting: [home]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [kingsville, opp, greenhouse, unlicensed-production]

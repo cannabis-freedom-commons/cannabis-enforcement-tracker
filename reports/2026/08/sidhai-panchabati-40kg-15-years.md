@@ -23,10 +23,16 @@ figures:
     amount: 150000
     currency: INR
 details:
+  agency_types: [police, court]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark
 tags: [sidhai, west-tripura, ganja, ndps]

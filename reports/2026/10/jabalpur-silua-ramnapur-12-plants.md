@@ -21,8 +21,12 @@ figures:
     currency: INR
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: plants, plants: 12}]
 data_sources:
   details.activity: [2]
+  details.agency_types: [3, 2, 1, 4]
+  details.products: [3, 2, 1, 4]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3bbf94dd29d6b525c94a82b60bfd530f

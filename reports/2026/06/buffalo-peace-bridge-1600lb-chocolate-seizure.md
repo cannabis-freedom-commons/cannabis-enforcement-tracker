@@ -21,9 +21,13 @@ figures:
 details:
   agencies: [us-cbp]
   agency_types: [customs]
+  products: [{product: flower, kg: 725.75}]
+  setting: [port, vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [buffalo, peace-bridge, cbp, smuggling, commercial-truck]

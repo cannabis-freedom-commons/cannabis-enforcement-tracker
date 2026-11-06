@@ -19,11 +19,17 @@ figures:
   kg_seized: 14524.8
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [ndlea, ghanaian-loud, trafficking]
 open_questions:

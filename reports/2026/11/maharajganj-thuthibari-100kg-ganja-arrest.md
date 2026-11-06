@@ -31,12 +31,20 @@ media:
     publisher: ETV Bharat
     caption: 'ETV Bharat''s lead photograph for the Maharajganj report, printed under the caption ''Scorpio carrying 123 kg of illegal ganja seized''. Photo: ETV Bharat'
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: flower}
   route: {from: [np], to: [in]}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1, 2, 4, 14, 5, 6]
+  details.agency_types: [1, 2, 4, 14, 5, 6]
+  details.case_stage: [1, 2, 5, 6, 7, 4]
   details.products: [1, 2, 4, 6, 8, 9, 10, 11, 13, 14]
   details.route: [9, 11, 13]
+  details.setting: [18, 19, 20, 9, 16]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e9c5b1df647e33838d7e3ac3d87d4a6

@@ -17,9 +17,11 @@ figures:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  products: [{product: flower, kg: 220000}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [odisha, stf, disposal]

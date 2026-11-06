@@ -36,8 +36,12 @@ media:
     publisher: Matichon Online
     caption: Officers handling the seized cannabis from the Nong Ya Plong forest plot
 details:
+  agency_types: [border-guard, police]
+  products: [{product: plants}]
   setting: [forest]
 data_sources:
+  details.agency_types: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

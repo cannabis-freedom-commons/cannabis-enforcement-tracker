@@ -15,8 +15,16 @@ summary: >-
 created_by_model: openai/gpt-6
 details:
   activity: [cultivation]
+  agency_types: [police, court]
+  case_stage: sentenced
+  products: [{product: plants}]
+  setting: [prison]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 cfi_id: tanzania-cultivation-sentence-upheld-2022
 tags:

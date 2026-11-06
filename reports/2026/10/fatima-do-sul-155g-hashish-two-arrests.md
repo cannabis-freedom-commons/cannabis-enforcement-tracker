@@ -22,14 +22,18 @@ media:
     publisher: Fátima em Dia
     caption: 'Drugs photograph published with the Fátima do Sul arrest report (file name DROGA). Credit: Fátima em Dia'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low

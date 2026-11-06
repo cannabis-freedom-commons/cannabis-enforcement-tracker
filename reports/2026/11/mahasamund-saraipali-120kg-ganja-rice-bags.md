@@ -18,10 +18,16 @@ figures:
     amount: 6048000
     currency: INR
 details:
+  activity: [smuggling]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2, 3, 4, 6, 7]
+  details.agency_types: [1, 2, 3, 4, 6, 7]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8]
+  details.setting: [1, 2, 3, 4, 6, 7]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 494d6dbcfb95ef69a415b1954a67f72b

@@ -16,10 +16,14 @@ figures:
   arrested: 4
 details:
   activity: [sale]
+  agency_types: [prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low

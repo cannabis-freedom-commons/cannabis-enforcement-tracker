@@ -21,10 +21,18 @@ media:
     publisher: MD.KP.MEDIA
     caption: 'Seized drugs laid out after the searches in the rented apartment, as published with the report. Photo: GIP.'
 details:
+  activity: [smuggling, sale]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [home, building, prison]
 data_sources:
+  details.activity: [2]
+  details.agency_types: [2, 1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2fc1f901d5f4f32fe4f93c993f5dbf5e

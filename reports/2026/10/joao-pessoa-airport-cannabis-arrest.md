@@ -22,10 +22,12 @@ media:
     publisher: Fonte 83
     caption: 'Federal Police handout photo of the cannabis seized from the passenger at João Pessoa airport. Photo: Assessoria PF, via Fonte 83'
 details:
+  activity: [trafficking]
   agencies: [br-pf]
   agency_types: [police]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.setting: [1, 2]

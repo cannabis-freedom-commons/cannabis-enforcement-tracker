@@ -19,9 +19,13 @@ figures:
     amount: 4969926
     currency: INR
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
   details.products: [2, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

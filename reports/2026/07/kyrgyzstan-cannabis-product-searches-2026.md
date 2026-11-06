@@ -14,9 +14,11 @@ summary: >-
   when the arrests…
 created_by_model: unknown
 details:
+  agency_types: [police]
   products:
     - {product: seeds}
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 cfi_id: kyrgyzstan-cannabis-product-searches-2026

@@ -16,8 +16,10 @@ figures:
   charged: 2
   kg_seized: 0.2
 details:
+  agency_types: [police]
   setting: [prison]
 data_sources:
+  details.agency_types: [1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

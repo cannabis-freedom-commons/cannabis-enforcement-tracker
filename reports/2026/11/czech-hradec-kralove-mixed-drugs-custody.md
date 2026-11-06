@@ -22,6 +22,7 @@ details:
   activity: [possession, sale]
   charges: [nedovolená výroba a jiné nakládání s omamnými a psychotropními látkami a s jedy podle § 283 trestního zákoníku]
   case_stage: charged
+  setting: [prison]
 data_sources:
   details.activity: [2]
   details.agencies: [1]
@@ -29,6 +30,7 @@ data_sources:
   details.case_stage: [2]
   details.charges: [1]
   details.products: [1]
+  details.setting: [2, 1]
   figures.arrested: [1]
   figures.charged: [1]
 media:

@@ -19,11 +19,17 @@ figures:
   kg_seized: 4.346
 created_by_model: alibaba-token-plan/qwen3.8-flash#xhigh
 details:
+  activity: [cultivation]
   agencies: [cl-pdi]
   agency_types: [police]
+  products: [{product: flower, kg: 4.346}, {product: plants, plants: 1778}]
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [maule, pdi, plan-cannabis, irrigation]
 media:

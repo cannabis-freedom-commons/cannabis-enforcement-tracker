@@ -22,11 +22,17 @@ media:
     publisher: Diário de Votuporanga
     caption: 'Photo published with the report on the Força Tática interception and arrest. Photo: Polícia Militar/Divulgação'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  products: [{product: flower, kg: 0.504}]
+  setting: [home]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [2, 1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0916868200c98ab44cbdb423d0d4c711

@@ -19,11 +19,17 @@ figures:
   kg_seized: 320
 created_by_model: openai/gpt-6
 details:
+  activity: [cultivation]
   agencies: [mx-gn]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [nayarit, la-yesca, navy, army, cannabis-eradication]
 open_questions:

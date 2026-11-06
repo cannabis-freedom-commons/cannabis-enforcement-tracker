@@ -31,9 +31,13 @@ media:
     publisher: NDTV Marathi
     caption: NDTV Marathi video report on cannabis seized from a school bag in Arvi, Wardha.
 details:
+  activity: [trafficking]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [3, 1, 4, 2]
   details.products: [2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

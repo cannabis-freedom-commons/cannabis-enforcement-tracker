@@ -17,14 +17,20 @@ figures:
   prison: 8 years, last 4 suspended
   value: { amount: 625000, currency: EUR }
 details:
+  activity: [possession, sale]
   agencies: [ie-garda]
   agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [inchicore, resin, possession-for-supply]

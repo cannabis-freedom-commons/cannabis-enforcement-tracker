@@ -19,8 +19,14 @@ figures:
   arrested: 5
   kg_seized: 70
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  products: [{product: hashish, kg: 70}]
   route: {from: [ma], to: [dz]}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
   details.route: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

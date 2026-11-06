@@ -29,10 +29,16 @@ media:
     publisher: Gazeta.uz
     caption: 'Customs Committee photo of the seized drugs in the Chirchiq parcel case. Photo: Customs Committee'
 details:
+  activity: [smuggling]
+  agency_types: [customs]
+  case_stage: investigation
   setting: [mail]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3, 4]
+  details.agency_types: [1, 3, 4]
+  details.case_stage: [1, 3, 4]
   details.products: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
 status: verified

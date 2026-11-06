@@ -39,11 +39,13 @@ media:
 details:
   agencies: [in-eagle]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
   details.agencies: [4, 18]
   details.agency_types: [4, 18]
+  details.case_stage: [7, 8, 9, 11, 14, 15]
   details.products: [1, 2, 3, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

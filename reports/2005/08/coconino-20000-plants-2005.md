@@ -18,11 +18,17 @@ figures:
   plants_destroyed: 20000
   arrested: 4
 details:
+  activity: [trafficking, cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}, {product: plants, plants: 20000}]
+  setting: [forest]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [coconino, camp, dea, national-forest]

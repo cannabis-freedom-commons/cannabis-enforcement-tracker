@@ -18,11 +18,19 @@ figures:
   kg_seized: 10
   hectares: 12.14
 details:
+  activity: [smuggling, trafficking, cultivation, possession]
   agencies: [int-interpol]
   agency_types: [police]
+  case_stage: investigation
+  products: [{product: seeds}]
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [usalama, interpol]

@@ -18,9 +18,17 @@ figures:
   value: { amount: 20000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
+  agency_types: [police]
   environment: [greenhouse]
+  products: [{product: flower}, {product: plants, plants: 40000}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [riverside, illicit-grows, greenhouse]
 open_questions:

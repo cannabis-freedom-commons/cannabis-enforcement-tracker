@@ -15,11 +15,19 @@ figures:
   arrested: 4
   kg_seized: 1344
 details:
+  activity: [trafficking]
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 1344}]
+  setting: [port, vehicle]
 data_sources:
+  details.activity: [3]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5c6476668c4872cc8ab4a5f0f9e82878

@@ -14,13 +14,17 @@ summary: >-
 figures:
   arrested: 4
 details:
+  activity: [smuggling]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   case_stage: investigation
+  products: [{product: hashish}]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]
+  details.products: [2, 1, 3]
   figures.arrested: [2]
 media:
   - kind: photo

@@ -22,14 +22,18 @@ media:
     publisher: Ifronteira
     caption: 'Seized marijuana and dry displayed after the Martinópolis arrest. Photo: Polícia Militar.'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   products:
     - {product: flower}
+  setting: [home, prison]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df757f94f7d85aca8c74dad700a36832

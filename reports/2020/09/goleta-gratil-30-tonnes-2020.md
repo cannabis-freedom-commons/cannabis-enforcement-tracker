@@ -20,11 +20,13 @@ figures:
   kg_seized: 30500
 created_by_model: meta/muse-spark
 details:
+  activity: [trafficking]
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1, 2]

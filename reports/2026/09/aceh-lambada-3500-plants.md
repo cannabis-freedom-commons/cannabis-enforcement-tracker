@@ -20,8 +20,12 @@ figures:
 created_by_model: cursor/composer-2.5
 details:
   activity: [cultivation]
+  case_stage: investigation
+  setting: [field]
 data_sources:
   details.activity: [1, 2]
+  details.case_stage: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [aceh-besar, tni, eradication]
 sources:

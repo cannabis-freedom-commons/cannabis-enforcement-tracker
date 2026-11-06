@@ -28,10 +28,16 @@ media:
     publisher: Ministerio del Interior
     caption: 'Interior Ministry video on the Operation Damasco raids and seizure. Video: Ministerio del Interior'
 details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: be324495d0c28a02180fa21cb5c36bf7

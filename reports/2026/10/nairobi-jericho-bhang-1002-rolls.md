@@ -31,14 +31,20 @@ media:
     publisher: TV47 Digital
     caption: Seized bhang rolls marked with evidence tags after the Jericho raid.
 details:
+  activity: [trafficking]
   agencies: [ke-nps]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: edibles}
+  setting: [home]
 data_sources:
+  details.activity: [2, 6, 7, 1, 4, 10]
   details.agencies: [1, 4, 6, 7]
   details.agency_types: [1, 4, 6, 7]
+  details.case_stage: [2, 3, 4, 6, 7, 8]
   details.products: [1, 3, 4, 5, 6, 7, 8, 9]
+  details.setting: [2, 3, 4, 6, 7, 8]
 status: reported
 created_by_model: openai/gpt-6-luna#max
 submission: beaebe6e3abced89eb0032c92f14f42a

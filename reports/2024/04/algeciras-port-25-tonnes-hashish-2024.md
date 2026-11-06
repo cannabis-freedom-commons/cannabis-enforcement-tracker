@@ -21,12 +21,16 @@ figures:
 details:
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [port, vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [algeciras, hashish, customs]

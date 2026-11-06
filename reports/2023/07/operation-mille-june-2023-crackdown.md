@@ -21,9 +21,11 @@ figures:
     currency: GBP
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [cultivation]
   agencies: [gb-nca]
   agency_types: [police]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
 status: verified

@@ -26,11 +26,19 @@ media:
     publisher: Global News
     caption: 'Cannabis plants seized from the commercial unit in Brampton, in an OPP handout photo published by Global News. Photo: OPP'
 details:
+  activity: [cultivation]
   agencies: [ca-opp]
   agency_types: [police]
+  case_stage: charged
+  products: [{product: plants, plants: 4000}]
+  setting: [vehicle]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2, 1]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 0782e70bd7dbb818890527d4321b3749

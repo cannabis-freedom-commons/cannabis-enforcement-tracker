@@ -18,11 +18,15 @@ figures:
   arrested: 4
   kg_seized: 147.3
 details:
+  activity: [trafficking]
   agencies: [in-eagle]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 147.3}]
 data_sources:
+  details.activity: [1, 4]
   details.agencies: [1, 2, 4, 6, 7, 8]
   details.agency_types: [1, 2, 4, 6, 7, 8]
+  details.products: [1, 2, 4]
 status: verified
 created_by_model: meta/muse-spark
 tags: [eagle-force, warangal, ndps-act, asset-forfeiture]

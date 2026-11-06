@@ -15,6 +15,7 @@ figures:
   arrested: 1
   kg_seized: 4
 details:
+  agency_types: [police]
   products:
     - {product: hashish, kg: 4}
   activity: [trafficking]
@@ -24,6 +25,7 @@ details:
   region: Kursk Oblast
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]

@@ -22,11 +22,17 @@ media:
     publisher: Haberler.com
     caption: Cannabis recovered beneath firewood in the pickup; no photo credit is listed.
 details:
+  activity: [smuggling]
   agencies: [tr-jandarma]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  setting: [vehicle]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: openai/gpt-6-luna#max
 submission: 347853f7f1e074d6e6e100ed85758163

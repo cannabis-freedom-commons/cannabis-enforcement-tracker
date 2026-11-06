@@ -23,10 +23,16 @@ media:
     publisher: France-Antilles Martinique
     caption: 'Lead picture of the outlet''s 17-photo gallery published with the customs statement on the record 404 kg resin seizure; the gallery carries no individual captions and is credited to customs and the outlet''s own photographer. Photo: Douane française et R.L.'
 details:
+  activity: [trafficking]
+  agency_types: [customs, police, prosecutor]
   products:
     - {product: hashish}
+  setting: [airport, port, vehicle]
 data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2]
+  details.setting: [1, 3, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 977afaf88ecd816cabd2b0461843a153

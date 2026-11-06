@@ -16,14 +16,20 @@ figures:
   arrested: 2
   kg_seized: 5.7496
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [border, vehicle, home]
 data_sources:
+  details.activity: [2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 20ec2bdceed92baadddd6b402022db20

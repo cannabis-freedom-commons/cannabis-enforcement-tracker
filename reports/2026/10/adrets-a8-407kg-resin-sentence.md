@@ -20,10 +20,16 @@ figures:
   prison: 4 years
   fine: { amount: 3260000, currency: EUR }
 details:
+  agency_types: [customs]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [var, customs, a8, resin]

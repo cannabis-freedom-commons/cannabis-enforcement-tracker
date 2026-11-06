@@ -22,9 +22,13 @@ media:
     publisher: North Luzon Monitor
     caption: 'A police officer uproots marijuana plants during the 25 October to 1 November operation. Photo: PRO-CAR'
 details:
+  activity: [cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

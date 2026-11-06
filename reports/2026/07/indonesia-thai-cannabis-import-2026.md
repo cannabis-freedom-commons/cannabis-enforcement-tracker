@@ -15,9 +15,15 @@ created_by_model: unknown
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [home, building]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: indonesia-thai-cannabis-import-2026
 sources:

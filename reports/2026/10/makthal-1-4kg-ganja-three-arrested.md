@@ -25,9 +25,11 @@ media:
     publisher: Disha Daily
     caption: Police at a Narayanpet district press conference with masked suspects and seized items on the table, in the article's lead photograph
 details:
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [2, 1, 3]
   details.products: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

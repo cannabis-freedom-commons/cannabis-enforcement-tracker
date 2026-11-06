@@ -22,10 +22,18 @@ media:
     publisher: Aksiyon
     caption: Two plastic bags of esrar displayed on a table in front of a Mersin provincial police anti-narcotics unit banner; police handout photo published by Aksiyon.
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police, prosecutor, court]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home, prison]
 data_sources:
+  details.activity: [3, 9, 1, 4, 8, 2]
+  details.agency_types: [1, 4, 5, 6, 7, 8]
+  details.case_stage: [1, 4, 5, 6, 7, 8]
   details.products: [1, 4, 5, 6, 7, 8]
+  details.setting: [3, 9, 1, 4, 8, 2]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 3b97f689eb070bfbdcddb5ab2d4b9bfc

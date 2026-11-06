@@ -16,10 +16,12 @@ summary: >-
 figures:
   plants_destroyed: 63
 details:
+  products: [{product: plants, plants: 63}]
   setting: [forest]
   environment: [wild]
 data_sources:
   details.environment: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

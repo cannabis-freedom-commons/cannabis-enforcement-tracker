@@ -21,10 +21,16 @@ figures:
 created_by_model: meta/muse-spark
 details:
   activity: [smuggling]
+  agency_types: [border-guard, police]
+  products: [{product: flower, kg: 3155}]
   route: {from: [la], to: [th]}
+  setting: [home, building]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
   details.route: [1]
+  details.setting: [1]
 status: verified
 tags: [smuggling, laos, australia]
 sources:

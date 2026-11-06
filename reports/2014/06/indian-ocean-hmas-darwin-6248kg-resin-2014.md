@@ -19,10 +19,12 @@ figures:
   value: { amount: 18000000, currency: GBP }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [military]
   setting: [port]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [2, 1]
   details.products: [1, 2]
   details.setting: [1, 2]
 status: verified

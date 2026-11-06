@@ -22,11 +22,17 @@ figures:
     currency: USD
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking, cultivation]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 13130}]
+  setting: [field, forest]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [senad, amambay, nueva-alianza-52]
 open_questions:

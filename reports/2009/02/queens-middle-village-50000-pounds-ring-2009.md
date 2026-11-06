@@ -21,8 +21,16 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling]
+  agency_types: [police, prosecutor]
+  case_stage: charged
+  products: [{product: flower, kg: 22679.6}]
+  setting: [home]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 3, 1]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [smuggling, british-columbia, akwesasne, continuing-criminal-enterprise]
 open_questions:

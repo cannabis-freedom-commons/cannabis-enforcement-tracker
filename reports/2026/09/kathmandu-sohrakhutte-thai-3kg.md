@@ -19,9 +19,15 @@ figures:
   kg_seized: 3
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
+  products: [{product: flower, kg: 3}]
   route: {from: [th], to: [np]}
+  setting: [airport]
 data_sources:
+  details.agency_types: [1, 2, 4, 3]
+  details.products: [1, 2, 4, 3]
   details.route: [1, 2, 4, 3]
+  details.setting: [1, 2, 4, 3]
 status: verified
 tags: [kathmandu, thai-route, airport-follow, hotel]
 sources:

@@ -21,9 +21,15 @@ figures:
 details:
   agencies: [mx-fgr]
   agency_types: [prosecutor]
+  case_stage: charged
+  products: [{product: flower, kg: 14000}]
+  setting: [port, vehicle, home]
 data_sources:
   details.agencies: [3]
   details.agency_types: [3]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [zacatecas, monreal]

@@ -16,9 +16,11 @@ summary: >-
 details:
   agencies: [us-dea, us-fbi]
   agency_types: [anti-narcotics, police]
+  products: [{product: flower}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, dispensaries, medical-marijuana]

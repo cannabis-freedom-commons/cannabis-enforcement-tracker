@@ -15,8 +15,12 @@ figures:
   arrested: 1
   charged: 1
 details:
+  agency_types: [police]
+  case_stage: charged
   setting: [school]
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
   details.setting: [1, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -21,13 +21,19 @@ figures:
     amount: 18000
     currency: PHP
 details:
+  activity: [cultivation]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   environment: [greenhouse]
+  products: [{product: flower}, {product: plants, plants: 90}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [benguet, tublay, pro-car, pdea-car, greenhouse]

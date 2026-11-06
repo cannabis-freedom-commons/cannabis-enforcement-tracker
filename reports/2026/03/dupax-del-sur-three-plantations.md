@@ -15,8 +15,14 @@ figures:
   value: { amount: 12900000, currency: PHP }
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}]
+  setting: [field]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [1, 2, 3]
+  details.products: [1, 2]
+  details.setting: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dupax-del-sur, nueva-vizcaya, kimbutan, eradication]

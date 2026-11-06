@@ -26,10 +26,18 @@ media:
     publisher: AHORA Entre Ríos
     caption: Wrappers of cocaine and marijuana seized in the Concordia raids; field tests were positive for both drugs.
 details:
+  activity: [possession]
+  agency_types: [police, prosecutor, court]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle, home]
 data_sources:
+  details.activity: [1, 3, 4, 5, 6, 7]
+  details.agency_types: [1, 3, 7, 5, 4, 6]
+  details.case_stage: [1, 3, 7, 5]
   details.products: [1, 3, 4, 5, 6, 7]
+  details.setting: [1, 3, 7, 5, 4, 6]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 5234e699768ce3059e5de9d9b3e7660f

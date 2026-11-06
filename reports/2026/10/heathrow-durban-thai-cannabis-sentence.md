@@ -26,11 +26,17 @@ media:
     publisher: Midweek Herald
     caption: 'The two suitcases containing 51.2 kg of cannabis brought into the UK by Amy Jayne Durban. Photo: NCA via Midweek Herald.'
 details:
+  activity: [smuggling]
   agencies: [gb-nca, gb-border-force]
   agency_types: [police, customs]
+  case_stage: sentenced
+  setting: [airport, prison]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 3, 2]
+  details.setting: [1, 3, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [heathrow, thai-cannabis, courier, devon, drug-import]

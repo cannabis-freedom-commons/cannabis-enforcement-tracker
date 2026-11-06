@@ -22,11 +22,19 @@ media:
     publisher: Más Encarnación
     caption: 'Agents with the detained woman and packaged drugs inside a brick room during the Loreto raid. Photo: Más Encarnación'
 details:
+  activity: [trafficking]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.027}]
+  setting: [home]
 data_sources:
+  details.activity: [1, 3, 2, 4]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 3, 2, 4]
+  details.products: [1, 3, 2, 4]
+  details.setting: [1, 3, 2, 4]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 4614b69ae658600a40f4f135e485e6d3

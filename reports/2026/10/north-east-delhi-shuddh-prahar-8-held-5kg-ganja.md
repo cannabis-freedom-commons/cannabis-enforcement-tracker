@@ -18,12 +18,16 @@ figures:
 details:
   agencies: [in-excise]
   agency_types: [regulator]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [building]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5e32ee24874aaa95064da808325648bd

@@ -19,9 +19,17 @@ figures:
   arrested: 3
   kg_seized: 338
 details:
+  activity: [smuggling]
+  agency_types: [police]
+  products: [{product: flower, kg: 338}]
   route: {from: [in], to: [lk]}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
   details.route: [1]
+  details.setting: [1]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [thoothukudi, sri-lanka-route, trafficking]

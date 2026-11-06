@@ -15,9 +15,15 @@ figures:
   plants_destroyed: 10500
   hectares: 1
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics, police]
   environment: [wild]
+  products: [{product: plants, plants: 10500}]
 data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [3, 1, 2]
   details.environment: [1]
+  details.products: [1, 3]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [primorye, manchurian-cannabis, wild-cannabis, maks-2017, russia]

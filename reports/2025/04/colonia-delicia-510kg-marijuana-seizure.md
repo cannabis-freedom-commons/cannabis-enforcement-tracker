@@ -19,11 +19,17 @@ media:
     publisher: Argentina.gob.ar
     caption: 'Packages of the marijuana seized in Misiones. Photo: Gendarmería Nacional Argentina'
 details:
+  activity: [trafficking]
   agencies: [ar-gna]
   agency_types: [gendarmerie]
+  products: [{product: flower, kg: 510.829}]
+  setting: [forest]
 data_sources:
+  details.activity: [3, 1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1, 3, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: bdfd83f54f99621b77480f07317e745b

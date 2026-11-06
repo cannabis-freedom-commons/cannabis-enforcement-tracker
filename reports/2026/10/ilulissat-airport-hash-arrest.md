@@ -19,10 +19,14 @@ figures:
   arrested: 1
   kg_seized: 0.5
 details:
+  agency_types: [police]
+  case_stage: investigation
   setting: [airport]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [2]
   details.setting: [1]
 status: verified

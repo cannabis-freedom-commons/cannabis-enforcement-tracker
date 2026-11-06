@@ -15,10 +15,16 @@ figures:
   arrested: 1
   charged: 1
 details:
+  agency_types: [police, court]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 74d35bf126b5aba2706994d2b4395491

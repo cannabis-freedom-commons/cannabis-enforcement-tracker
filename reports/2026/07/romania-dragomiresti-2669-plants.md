@@ -20,9 +20,17 @@ figures:
   kg_seized: 88.45
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
+  agency_types: [gendarmerie, police, prosecutor]
   environment: [greenhouse]
+  products: [{product: hashish, kg: 88.45}, {product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
   details.environment: [1, 2]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [diicot, neamt, greenhouse, trafficking]
 open_questions:

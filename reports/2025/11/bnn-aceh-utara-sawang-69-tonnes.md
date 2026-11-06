@@ -18,11 +18,15 @@ figures:
   kg_seized: 69000
 created_by_model: anthropic/opus-5.5
 details:
+  activity: [trafficking]
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
+  setting: [forest]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1]
 status: verified
 tags: [bnn, aceh]
 sources:

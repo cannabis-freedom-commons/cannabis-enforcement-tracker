@@ -17,16 +17,20 @@ figures:
   kg_seized: 2
 details:
   activity: [sale]
+  agency_types: [police, prosecutor]
   charges: [illegal trade in narcotics in not insignificant quantity]
   case_stage: investigation
   period: {start: 2026-11-04, end: 2026-11-05}
   date_precision: exact
   region: Saxony-Anhalt
+  setting: [prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2]
   details.case_stage: [1]
   details.charges: [2]
   details.period: [1]
+  details.setting: [1]
   figures.arrested: [2]
   figures.kg_seized: [1]
   figures.sites: [1]

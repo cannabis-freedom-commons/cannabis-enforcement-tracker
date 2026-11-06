@@ -31,10 +31,16 @@ media:
     publisher: Canal C
     caption: 'Man detained over drug sales. Photo: Ministerio Público Fiscal'
 details:
+  agency_types: [anti-narcotics, police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 351d69d8383da7fa7a04ee329f45610b

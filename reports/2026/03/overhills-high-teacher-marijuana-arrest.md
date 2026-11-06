@@ -15,8 +15,14 @@ figures:
   arrested: 1
   charged: 1
 details:
+  activity: [possession]
+  case_stage: charged
+  products: [{product: hashish}, {product: flower}]
   setting: [school]
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

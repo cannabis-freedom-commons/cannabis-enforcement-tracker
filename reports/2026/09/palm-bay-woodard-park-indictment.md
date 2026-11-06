@@ -17,10 +17,16 @@ figures:
   charged: 2
   deaths: 1
 details:
+  agency_types: [police, prosecutor]
+  case_stage: charged
   products:
     - {product: flower}
+  setting: [vehicle, prison]
 data_sources:
+  details.agency_types: [2, 3, 4, 1]
+  details.case_stage: [1, 2]
   details.products: [2]
+  details.setting: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: fb6f00e7c878f80b035faaa2a849db59

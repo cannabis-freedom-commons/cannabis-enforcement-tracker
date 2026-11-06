@@ -13,10 +13,14 @@ summary: >-
 figures:
   kg_seized: 359
 details:
+  agency_types: [military]
   products:
     - {product: flower}
+  setting: [home, building]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 38da0abeea3628bbd74a6f2c35b708e1

@@ -19,13 +19,19 @@ figures:
   plants_destroyed: 5000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking, cultivation, sale]
   agencies: [es-vigilancia-aduanera, es-mossos]
   agency_types: [customs, police]
   environment: [indoor]
+  products: [{product: flower, kg: 14}]
+  setting: [field, home, building]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.environment: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [indoor-grow, export-network]
 open_questions:

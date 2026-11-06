@@ -23,9 +23,13 @@ media:
 details:
   agencies: [mx-sedena, mx-gn, mx-fgr]
   agency_types: [military, gendarmerie, prosecutor]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: 293a9a032b3a4f56605347e616965962

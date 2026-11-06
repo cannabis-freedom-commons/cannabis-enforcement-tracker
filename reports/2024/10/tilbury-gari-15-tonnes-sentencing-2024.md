@@ -26,12 +26,18 @@ details:
   agencies: [gb-nca, gb-border-force]
   agency_types: [police, customs]
   activity: [smuggling]
+  case_stage: sentenced
+  products: [{product: flower, kg: 1500}]
   route: {from: [gh], to: [gb]}
+  setting: [prison]
 data_sources:
   details.activity: [2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2]
+  details.products: [1, 2]
   details.route: [1, 2]
+  details.setting: [2]
 status: verified
 tags: [nca, organised-crime, smuggling]
 open_questions:

@@ -17,8 +17,12 @@ figures:
   kg_seized: 1504.61
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
+  products: [{product: flower, kg: 1504.61}]
   setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 tags: [truck, abandoned-vehicle, driver-fled]

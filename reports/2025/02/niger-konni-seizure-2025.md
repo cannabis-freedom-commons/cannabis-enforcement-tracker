@@ -14,8 +14,12 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [trafficking]
+  case_stage: investigation
+  setting: [border]
 data_sources:
   details.activity: [1]
+  details.case_stage: [1]
+  details.setting: [1]
 status: verified
 cfi_id: niger-konni-seizure-2025
 tags:

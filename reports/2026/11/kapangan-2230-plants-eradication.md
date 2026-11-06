@@ -24,8 +24,14 @@ media:
     caption: 'Lead photo for the report on the Benguet plantations. Photo courtesy: PNP Police Regional Office CAR.'
 details:
   activity: [cultivation]
+  agency_types: [police]
+  products: [{product: flower}, {product: plants, plants: 2230}]
+  setting: [field]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a3a2fd498c85aa9ff11e8556ec023e20

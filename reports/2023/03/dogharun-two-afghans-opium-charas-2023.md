@@ -22,10 +22,16 @@ media:
     publisher: Ariana News
     caption: 'Photo illustration headed by the report on the arrest of two Afghans at the Dogharun crossing; it shows two men facing a wall and is not captioned as a picture of this seizure. Photo: Ariana News'
 details:
+  activity: [smuggling, trafficking]
+  agency_types: [customs]
   products:
     - {product: hashish}
+  setting: [border]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: db6c8ed24347d450616959402723bfec

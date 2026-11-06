@@ -32,10 +32,16 @@ media:
     publisher: Komenda Miejska Policji w Wałbrzychu
     caption: Police photo showing seized marijuana
 details:
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ea73a991914f5504280ef4edc782d4c3

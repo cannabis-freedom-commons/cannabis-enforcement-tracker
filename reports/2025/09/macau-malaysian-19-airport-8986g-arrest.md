@@ -39,8 +39,14 @@ media:
     publisher: The Macau Post Daily
     caption: 'Five Judiciary Police officers show journalists the cannabis buds seized from the suspect, with his suitcase, at a press briefing at Macau airport. Photo: TDM'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   setting: [airport]
 data_sources:
+  details.activity: [1, 2, 5, 4]
+  details.agency_types: [1, 5, 2, 3, 4]
+  details.case_stage: [1, 5, 2]
   details.setting: [1, 5]
 status: verified
 created_by_model: openai/gpt-6-luna#max

@@ -23,9 +23,11 @@ media:
     publisher: Foco Regional
     caption: 'Cannabis seized from a car on the Via Dutra in Piraí. Photo: PRF'
 details:
+  activity: [trafficking]
   agencies: [br-prf]
   agency_types: [police]
 data_sources:
+  details.activity: [2, 1, 4, 5, 6, 7]
   details.agencies: [1, 3, 4, 5, 7]
   details.agency_types: [1, 3, 4, 5, 7]
 status: reported

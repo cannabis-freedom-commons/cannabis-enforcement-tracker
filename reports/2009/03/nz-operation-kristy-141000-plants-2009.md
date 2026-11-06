@@ -17,11 +17,17 @@ figures:
   plants_destroyed: 141000
   arrested: 1125
 details:
+  activity: [cultivation, possession]
   agencies: [nz-police]
   agency_types: [police]
+  products: [{product: plants, plants: 141000}]
+  setting: [home]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [national-cannabis-operation, operation-kristy]

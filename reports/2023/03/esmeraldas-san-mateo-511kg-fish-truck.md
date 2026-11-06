@@ -22,8 +22,16 @@ media:
     publisher: El Comercio
     caption: 'Police photos of the drugs seized in the three-province operations. Photo: Twitter @CmdtPoliciaEc'
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor, court]
+  case_stage: investigation
+  products: [{product: flower, kg: 511.68}]
   setting: [vehicle]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

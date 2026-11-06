@@ -15,6 +15,7 @@ figures:
   arrested: 1
   charged: 1
 details:
+  activity: [smuggling]
   agencies: [Royal St. Christopher and Nevis Police Force]
   agency_types: [police]
   products:
@@ -25,6 +26,7 @@ details:
   date_precision: exact
   region: St Kitts
 data_sources:
+  details.activity: [3, 2, 1]
   details.agencies: [3]
   details.agency_types: [3]
   details.case_stage: [4]

@@ -15,9 +15,11 @@ summary: >-
 figures:
   kg_seized: 0.025
 details:
+  activity: [trafficking]
   agencies: [bd-bgb]
   agency_types: [border-guard]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
 status: verified

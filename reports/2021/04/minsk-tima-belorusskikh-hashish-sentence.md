@@ -17,10 +17,16 @@ figures:
   kg_seized: 0.0004
   prison: 2 years
 details:
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.agency_types: [2, 1, 3]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 2761aca48cb4bdfd057d37fe64b3f8be

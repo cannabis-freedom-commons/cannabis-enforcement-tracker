@@ -19,9 +19,11 @@ figures:
   arrested: 700
   kg_seized: 170
 details:
+  activity: [cultivation]
   agencies: [nz-police]
   agency_types: [police]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
 status: verified

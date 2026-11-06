@@ -15,14 +15,20 @@ figures:
   arrested: 2
   kg_seized: 50
 details:
+  activity: [smuggling]
   agencies: [ru-fsb]
   agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [forest]
 data_sources:
+  details.activity: [3, 4]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [2, 1]
   details.products: [1, 2]
+  details.setting: [2, 3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b841dbdbbce47f9bb0b86022277cebfe

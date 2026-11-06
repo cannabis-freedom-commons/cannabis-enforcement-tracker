@@ -19,11 +19,15 @@ figures:
   plants_destroyed: 2900000
   value: { amount: 11600000000, currency: USD }
 details:
+  activity: [trafficking, cultivation]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  products: [{product: flower}]
 data_sources:
+  details.activity: [2, 3, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.products: [1, 2]
 status: verified
 created_by_model: meta/muse-spark
 tags: [camp, jerry-brown, record-eradication, public-lands]

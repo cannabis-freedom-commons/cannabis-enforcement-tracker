@@ -28,11 +28,13 @@ media:
     publisher: Marina Baixa Digital
     caption: A package of the seized substance found during one of the three searches in Benidorm, laid out for police photographs.
 details:
+  activity: [trafficking]
   agencies: [es-policia-nacional]
   agency_types: [police]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

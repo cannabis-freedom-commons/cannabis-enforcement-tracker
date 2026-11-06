@@ -15,11 +15,13 @@ summary: >-
   sack, which held about 2,900 rolls of bhang. The exhibit is secured pending further
   investigation.
 details:
+  activity: [trafficking]
   agencies: [ke-nps]
   agency_types: [police]
   products:
     - {product: edibles}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]

@@ -19,8 +19,16 @@ figures:
   kg_seized: 5
 details:
   activity: [cultivation]
+  agency_types: [police, prosecutor, court]
+  case_stage: investigation
+  products: [{product: flower, kg: 5}]
+  setting: [prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2, 3, 7, 8, 4]
+  details.case_stage: [1, 2, 3, 7, 8]
+  details.products: [1, 2, 3, 4, 5, 6]
+  details.setting: [1, 3, 4]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e4c96c64875b89845898dc1594a4bbfb

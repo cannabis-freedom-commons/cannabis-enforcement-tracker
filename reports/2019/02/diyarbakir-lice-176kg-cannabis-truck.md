@@ -22,10 +22,14 @@ media:
     publisher: Haber7
     caption: White sacks of the seized cannabis displayed in front of a Diyarbakır provincial gendarmerie banner.
 details:
+  activity: [smuggling, sale]
+  agency_types: [gendarmerie, prosecutor]
   setting: [vehicle]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
   details.products: [1]
   details.setting: [1]
 status: verified

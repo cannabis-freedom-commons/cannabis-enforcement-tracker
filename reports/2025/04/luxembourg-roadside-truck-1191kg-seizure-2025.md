@@ -15,10 +15,16 @@ figures:
   kg_seized: 1191
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [customs, prosecutor]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [vehicle]
 data_sources:
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.setting: [1, 2, 3]
 status: verified
 tags: [customs, roadside-check, hashish]
 open_questions:

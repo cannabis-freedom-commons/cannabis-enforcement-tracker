@@ -26,11 +26,19 @@ media:
     publisher: Alvorada 95.3 FM
     caption: 'Drugs, money and materials seized by the Military Police in Redentor. Photo: Samuel Leite / Rádio Alvorada'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 1.6}]
+  setting: [home]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [2]
   details.agency_types: [2]
+  details.case_stage: [2]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 3e94c090fd89dee938d902d9c2280a70

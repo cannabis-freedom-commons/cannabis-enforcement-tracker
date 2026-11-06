@@ -22,11 +22,19 @@ figures:
     currency: PHP
 created_by_model: cursor/composer-2.5
 details:
+  activity: [cultivation]
   agencies: [ph-pdea, ph-pnp]
   agency_types: [anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: flower}]
+  setting: [field]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [2, 1]
+  details.products: [2, 1]
+  details.setting: [2, 1]
 status: verified
 tags: [kalinga, tinglayan, pnp, pdea, drones]
 open_questions:

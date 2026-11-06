@@ -16,8 +16,14 @@ figures:
   arrested: 2
 details:
   activity: [sale]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
 data_sources:
   details.activity: [2]
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [2, 3, 1, 4]
+  details.products: [2, 3, 1, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: c24c04a3a83e36fcce2779d53f77137a

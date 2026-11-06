@@ -23,10 +23,14 @@ media:
     publisher: Prabhat Khabar
     caption: 'The ganja recovered in the Kolwara raid, captioned "बरामद गांजा" in Prabhat Khabar''s report. Photo: Prabhat Khabar Network'
 details:
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 4, 2, 5, 3]
   details.products: [1, 2, 4]
+  details.setting: [1, 4, 2, 5, 3]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: d9ef29ad01658abdde8c59d1d34f0dc7

@@ -32,9 +32,11 @@ media:
     publisher: 中新网·新疆
     caption: Officers inspect tall plants growing in a wooded field.
 details:
+  agency_types: [border-guard, police]
   setting: [forest]
   environment: [wild]
 data_sources:
+  details.agency_types: [1]
   details.environment: [1]
   details.setting: [1]
 status: verified

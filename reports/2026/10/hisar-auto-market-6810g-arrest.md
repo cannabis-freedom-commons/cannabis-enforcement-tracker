@@ -22,9 +22,15 @@ media:
     publisher: Dainik Bhaskar
     caption: 'Hisar police detention of the accused with ganja. Photo: Dainik Bhaskar'
 details:
+  activity: [trafficking]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low

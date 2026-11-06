@@ -16,6 +16,7 @@ figures:
   vehicles: 1
   kg_seized: 0.464
 details:
+  activity: [smuggling]
   agencies: [Vikasnagar police]
   agency_types: [police]
   products:
@@ -26,6 +27,7 @@ details:
   date_precision: exact
   region: Uttarakhand
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

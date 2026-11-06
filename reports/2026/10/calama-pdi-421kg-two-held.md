@@ -22,11 +22,15 @@ media:
     publisher: 2001online.com
     caption: Seized drug packages, a bag marked 'Peligro' and stacks of cash displayed with the PDI announcement on the Calama seizures, with PDI officers behind.
 details:
+  activity: [trafficking]
   agencies: [cl-pdi]
   agency_types: [police]
+  setting: [home]
 data_sources:
+  details.activity: [3, 1]
   details.agencies: [2, 3]
   details.agency_types: [2, 3]
+  details.setting: [2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: fc5c05383c69f17218e772bc8a09879c

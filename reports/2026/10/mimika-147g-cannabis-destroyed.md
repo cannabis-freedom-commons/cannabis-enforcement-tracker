@@ -31,10 +31,16 @@ media:
     publisher: Galeripapua.com
     caption: 'Narcotics evidence being destroyed during a press conference at Mimika police headquarters. Photo: Istimewa'
 details:
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [mail, prison]
 data_sources:
+  details.agency_types: [3, 1, 2, 5, 4]
+  details.case_stage: [3, 1, 2, 5]
   details.products: [1, 2, 3, 4, 5]
+  details.setting: [2, 1, 3, 5, 4]
 status: reported
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: e871d3af85c8e7990d4535d2f3d02509

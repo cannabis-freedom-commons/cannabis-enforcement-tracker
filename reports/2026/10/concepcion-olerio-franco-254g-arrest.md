@@ -19,11 +19,15 @@ figures:
   kg_seized: 0.254
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 0.254}]
 data_sources:
+  details.activity: [1, 4, 3, 2]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.products: [1, 2, 3, 4]
 status: verified
 tags: [concepcion, senad, microtrafico, olerias]
 open_questions:

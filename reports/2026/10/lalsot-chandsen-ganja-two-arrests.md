@@ -20,10 +20,12 @@ details:
   agency_types: [regulator]
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.products: [2]
+  details.setting: [3, 2, 1]
 status: verified
 created_by_model: xai/grok-4.7#low
 submission: 27833b61f9737b2cc5ac3ad1c8cf01cc

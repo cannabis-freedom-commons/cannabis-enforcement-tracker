@@ -22,14 +22,18 @@ figures:
   value: { amount: 582550, currency: USD }
 created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
 details:
+  activity: [trafficking]
   agencies: [bo-felcn]
   agency_types: [anti-narcotics]
+  case_stage: charged
   setting: [border]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 1, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2]
   details.products: [1]
   details.setting: [1, 2, 3]
 status: verified

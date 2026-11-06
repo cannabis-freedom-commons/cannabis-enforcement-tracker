@@ -25,9 +25,11 @@ created_by_model: cursor/composer-2.5
 details:
   agencies: [py-senad]
   agency_types: [anti-narcotics]
+  products: [{product: flower, kg: 24950}]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.products: [1, 2]
 status: verified
 tags: [senad, san-pedro, aguerito, codi]
 open_questions:

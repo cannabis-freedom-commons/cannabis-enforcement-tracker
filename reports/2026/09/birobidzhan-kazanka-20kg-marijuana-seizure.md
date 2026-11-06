@@ -26,10 +26,18 @@ media:
     publisher: МВД МЕДИА
     caption: Operational video of the house search and the seized cannabis.
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [field, home]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 13475dbf08f0780b3aac4bb13db0834d

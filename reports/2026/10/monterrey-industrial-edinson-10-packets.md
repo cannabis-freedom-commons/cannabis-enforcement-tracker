@@ -21,9 +21,13 @@ media:
     publisher: MVS Noticias
     caption: 'A man in a grey shirt stands with his hands behind him in front of a Monterrey police patrol after officers said they found 10 packets of herb similar to marijuana and a hammer in Colonia Industrial. Photo: Policía de Monterrey'
 details:
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: xai/grok-4.7#low

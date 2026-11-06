@@ -22,9 +22,13 @@ media:
     publisher: UzDaily.uz
     caption: 'Seized hashish from the Qoradori-2026 operation in Namangan, Andijan and Fergana regions. Photo: press service of the State Security Service.'
 details:
+  activity: [trafficking]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

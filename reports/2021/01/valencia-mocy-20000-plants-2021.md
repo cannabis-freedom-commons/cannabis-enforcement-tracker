@@ -21,11 +21,17 @@ figures:
   kg_seized: 1000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [int-europol]
   agency_types: [police]
+  products: [{product: flower, kg: 1000}]
+  setting: [home, building]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 tags: [mocy, guardia-civil, valencia, bulgarian-network]
 open_questions:

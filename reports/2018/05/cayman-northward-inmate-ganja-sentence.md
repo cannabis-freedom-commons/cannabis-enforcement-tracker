@@ -16,10 +16,18 @@ figures:
   kg_seized: 0.38
   prison: 30 months
 details:
+  activity: [smuggling, possession]
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: cc9722d8e2469e3b1d9067d34b03e818

@@ -22,9 +22,13 @@ media:
     publisher: Royal Bulletin
     caption: Lead photo accompanying the report of the two arrests and the 206-gram charas seizure
 details:
+  activity: [trafficking]
+  agency_types: [police, court]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 3]
+  details.agency_types: [1, 3, 2]
   details.products: [1, 3]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

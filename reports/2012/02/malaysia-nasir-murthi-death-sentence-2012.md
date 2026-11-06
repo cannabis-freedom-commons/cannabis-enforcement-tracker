@@ -14,8 +14,12 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [trafficking]
+  agency_types: [prosecutor]
+  case_stage: sentenced
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
 status: verified
 tags: [death-penalty, trafficking]
 open_questions:

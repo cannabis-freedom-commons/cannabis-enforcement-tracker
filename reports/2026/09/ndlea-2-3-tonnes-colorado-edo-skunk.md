@@ -23,12 +23,16 @@ media:
 details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [airport, forest, home]
 data_sources:
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 3, 4, 2]
   details.products: [1, 3, 4]
+  details.setting: [1, 3, 4, 2]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [colorado, skunk, edo, lagos, ndlea]

@@ -17,8 +17,16 @@ figures:
   plants_destroyed: 154
   kg_seized: 0.015
 details:
+  activity: [cultivation]
+  agency_types: [gendarmerie, court]
+  case_stage: investigation
+  products: [{product: plants, plants: 154}]
   setting: [home]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

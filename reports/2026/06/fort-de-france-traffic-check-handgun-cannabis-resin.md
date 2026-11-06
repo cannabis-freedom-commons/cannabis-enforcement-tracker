@@ -20,10 +20,14 @@ media:
     publisher: Martinique La 1ère
     caption: 'Police photo of the handgun and the cannabis resin found on the man after the traffic check. Photo: Police nationale'
 details:
+  activity: [trafficking]
+  agency_types: [police, court]
   setting: [vehicle]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [2, 1]
   details.products: [1]
   details.setting: [1]
 status: verified

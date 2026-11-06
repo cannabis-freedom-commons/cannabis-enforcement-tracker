@@ -14,8 +14,10 @@ figures:
   charged: 1
 details:
   activity: [possession]
+  agency_types: [court]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: a93fccf5ebc1b4a90fc78c0d3834b187

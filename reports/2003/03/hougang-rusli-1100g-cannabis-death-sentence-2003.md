@@ -19,11 +19,15 @@ figures:
   charged: 1
   kg_seized: 1.1002
 details:
+  activity: [trafficking]
   agencies: [sg-cnb]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [cnb, mandatory-death-penalty, hougang]

@@ -26,10 +26,16 @@ media:
     publisher: France 3 Occitanie
     caption: 'Customs photo of the drug seizure made with the sniffer dog. Photo: Brigade des douanes de Narbonne'
 details:
+  agency_types: [customs, police]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [vehicle, prison]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 8a85f7b86b85bd56247b63a2bb5369c7

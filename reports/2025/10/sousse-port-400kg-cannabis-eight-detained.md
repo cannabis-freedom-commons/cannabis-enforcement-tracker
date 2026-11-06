@@ -16,9 +16,13 @@ figures:
   charged: 8
   kg_seized: 400
 details:
+  activity: [trafficking]
+  agency_types: [anti-narcotics]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
   details.products: [2]
 status: verified
 created_by_model: openai/gpt-6-luna#max

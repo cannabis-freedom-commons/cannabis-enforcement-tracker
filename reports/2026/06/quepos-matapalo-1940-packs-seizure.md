@@ -21,8 +21,14 @@ media:
     publisher: La Prensa
     caption: 'The intercepted speedboat and detained men during the anti-drug operation off Matapalo. Photo: Ministerio de Seguridad Pública de Costa Rica'
 details:
+  agency_types: [coast-guard, anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 1940}]
   setting: [port]
 data_sources:
+  details.agency_types: [2, 1]
+  details.case_stage: [1]
+  details.products: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -30,10 +30,18 @@ media:
     publisher: Radio Gdańsk
     caption: 'Police photo of the seized marijuana from the 42-year-old''s flat. Photo: Komenda Miejska Gdańsk'
 details:
+  activity: [trafficking]
+  agency_types: [police, prosecutor]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1]
+  details.case_stage: [2, 1]
   details.products: [1]
+  details.setting: [2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1dd0f3c2f99a2f23ef427de2ad005008

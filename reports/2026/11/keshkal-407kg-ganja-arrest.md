@@ -29,9 +29,15 @@ media:
     publisher: Lokswar
     caption: Police officers, a detained man and sacks beside a vehicle, shown with the Keshkal seizure; no photo credit is displayed.
 details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [2, 5, 3, 4, 8]
+  details.agency_types: [2, 3, 1, 5, 7, 6]
+  details.case_stage: [2, 4, 8, 3]
   details.products: [1, 2, 3, 4, 5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

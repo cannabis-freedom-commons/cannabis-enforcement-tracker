@@ -22,9 +22,15 @@ created_by_model: meta/muse-spark
 details:
   agencies: [gb-nca]
   agency_types: [police]
+  case_stage: charged
+  products: [{product: plants, plants: 1000}]
+  setting: [vehicle]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [nca, nightclub, cannabis-factory]
 sources:

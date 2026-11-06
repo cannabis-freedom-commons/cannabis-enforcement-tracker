@@ -16,11 +16,15 @@ summary: >-
 figures:
   kg_seized: 12600
 details:
+  activity: [trafficking]
   agencies: [bo-felcn]
   agency_types: [anti-narcotics]
+  setting: [home]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.setting: [1, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [machacamarca, potosi, felcn]

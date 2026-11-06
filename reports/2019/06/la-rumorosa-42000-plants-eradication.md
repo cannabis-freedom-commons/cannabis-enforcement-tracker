@@ -21,8 +21,10 @@ figures:
   value: { amount: 276900000, currency: USD }
 details:
   activity: [cultivation]
+  agency_types: [border-guard, anti-narcotics, police]
 data_sources:
   details.activity: [1, 2]
+  details.agency_types: [2, 1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [eradication, policia-federal, us-cooperation]

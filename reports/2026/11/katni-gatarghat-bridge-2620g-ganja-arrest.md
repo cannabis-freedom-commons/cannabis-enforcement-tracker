@@ -19,6 +19,7 @@ figures:
     currency: INR
 details:
   agencies: ['Kotwali police station, Katni']
+  agency_types: [anti-narcotics, police]
   products:
     - {product: flower, kg: 2.62}
   activity: [possession, trafficking]
@@ -29,6 +30,7 @@ details:
 data_sources:
   details.activity: [1]
   details.agencies: [1]
+  details.agency_types: [1, 2]
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]

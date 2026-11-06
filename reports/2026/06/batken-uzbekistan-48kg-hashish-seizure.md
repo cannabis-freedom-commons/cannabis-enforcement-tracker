@@ -21,12 +21,18 @@ media:
     publisher: UzDaily.uz
     caption: Seized substances linked to the Tajikistan-Uzbekistan trafficking channel.
 details:
+  activity: [trafficking]
+  case_stage: investigation
   products:
     - {product: hashish}
   route: {from: [tj], to: [uz], crossing: 'via Kyrgyzstan'}
+  setting: [home]
 data_sources:
+  details.activity: [1, 2, 3]
+  details.case_stage: [1]
   details.products: [1, 3]
   details.route: [1, 2, 3]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 82ac3bd972c69b5196b89c18fc8de10c

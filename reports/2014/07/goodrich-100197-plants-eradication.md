@@ -19,9 +19,13 @@ figures:
   value: { amount: 175000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agency_types: [police]
   environment: [outdoor]
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
   details.environment: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [polk-county, outdoor-grow, record-haul]
 sources:

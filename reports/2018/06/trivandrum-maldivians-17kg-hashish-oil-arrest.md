@@ -17,9 +17,19 @@ figures:
         amount: 50000000
         currency: INR
 details:
+  activity: [smuggling]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: hashish, kg: 17}, {product: oil}]
   route: {from: [in], to: [mv]}
+  setting: [airport, home]
 data_sources:
+  details.activity: [2, 3, 1, 4, 5]
+  details.agency_types: [2, 3, 1, 4, 5]
+  details.case_stage: [2, 3, 4, 5, 1]
+  details.products: [2, 3, 1, 4, 5]
   details.route: [4]
+  details.setting: [2, 3, 1, 4]
 media:
   - kind: photo
     url: https://maldivesindependent.com/crime-2/three-maldivians-arrested-in-india-drug-bust-138660

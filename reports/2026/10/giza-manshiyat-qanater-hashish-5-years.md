@@ -18,10 +18,16 @@ figures:
   prison: 5 years
 created_by_model: cursor/composer-2.5
 details:
+  activity: [trafficking]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [giza, hashish, court]
 open_questions:

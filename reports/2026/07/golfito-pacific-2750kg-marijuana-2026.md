@@ -26,8 +26,16 @@ media:
     publisher: Infobae
     caption: 'Drug Control Police officers count and weigh the seized drugs in Golfito. Credit: MSP.'
 details:
+  activity: [trafficking]
+  agency_types: [coast-guard, military, anti-narcotics, police]
+  case_stage: investigation
+  products: [{product: flower, kg: 2750}]
   setting: [port]
 data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [2, 3, 1]
+  details.case_stage: [1, 3, 2]
+  details.products: [2, 1, 3]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

@@ -19,8 +19,12 @@ figures:
   kg_seized: 2407.27
   value: { amount: 202760000, currency: MYR }
 details:
+  activity: [smuggling]
+  agency_types: [police]
   setting: [airport]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

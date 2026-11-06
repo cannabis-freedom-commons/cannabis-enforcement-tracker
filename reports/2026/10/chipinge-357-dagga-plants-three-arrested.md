@@ -17,10 +17,18 @@ figures:
   plants_destroyed: 357
   prison: 36 months
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 1a1ca8e103f856f7bf6b43112bcec4d7

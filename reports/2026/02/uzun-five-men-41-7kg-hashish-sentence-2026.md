@@ -24,11 +24,17 @@ media:
     caption: 'Packages of the seized drugs laid out for the camera in the Uzun district case. Photo: State Security Service of Uzbekistan'
 details:
   activity: [smuggling]
+  agency_types: [police]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [border, prison]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1]
   details.products: [1, 2, 6]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1814222c70abe3a4eddcae20d4f4c86f

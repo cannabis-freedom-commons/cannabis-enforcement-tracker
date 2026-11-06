@@ -27,10 +27,16 @@ media:
     publisher: Reporte Indigo
     caption: Detention and presentation of the two detainees before the corresponding Ministerio Público agent.
 details:
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 2, 4, 3]
+  details.case_stage: [1, 2, 4]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 4, 3]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 681f94b16d4aecaad7a1b8cd6cc69b4d

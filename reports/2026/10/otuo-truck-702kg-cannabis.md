@@ -19,11 +19,15 @@ figures:
   arrested: 3
   kg_seized: 702.83
 details:
+  activity: [trafficking]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
+  setting: [vehicle]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.setting: [2, 1]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [ndlea, edo, otuo]

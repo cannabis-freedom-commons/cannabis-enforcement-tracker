@@ -22,10 +22,12 @@ media:
     publisher: Maalai Malar
     caption: 'A cannabis plant in a flower pot, in the lead image published with the Maalai Malar report on the case. Photo: Maalai Malar'
 details:
+  agency_types: [police]
   setting: [home]
   products:
     - {product: flower}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
 status: verified

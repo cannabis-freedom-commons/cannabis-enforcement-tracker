@@ -19,9 +19,11 @@ figures:
   kg_seized: 35.4
 details:
   activity: [trafficking]
+  agency_types: [police]
   setting: [airport]
 data_sources:
   details.activity: [2]
+  details.agency_types: [1, 2]
   details.setting: [1, 2]
 status: verified
 created_by_model: cursor/grok-4.7-low

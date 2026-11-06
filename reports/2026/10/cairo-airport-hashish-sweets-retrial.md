@@ -19,10 +19,16 @@ figures:
     amount: 10000
     currency: EGP
 details:
+  agency_types: [customs, anti-narcotics, police]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [airport, prison]
 data_sources:
+  details.agency_types: [1, 4, 2]
+  details.case_stage: [1, 2, 4, 3]
   details.products: [1, 2, 4]
+  details.setting: [1, 4, 2, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 2e42d3d1e1af3acca33f2e78250a75e5

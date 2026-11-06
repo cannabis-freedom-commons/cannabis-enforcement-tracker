@@ -21,9 +21,11 @@ media:
     publisher: عاجل
     caption: Wrapped bundles displayed beneath an Anti-Narcotics Department sign in the image accompanying the Aleppo-operations report; no photo credit is supplied.
 details:
+  agency_types: [military, anti-narcotics]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 3, 4, 5, 6, 2]
   details.products: [1, 3, 4, 5, 6]
 status: reported
 created_by_model: openai/gpt-6-luna#max

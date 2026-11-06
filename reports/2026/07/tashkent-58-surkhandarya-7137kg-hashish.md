@@ -23,8 +23,10 @@ media:
 details:
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
   details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 81d0c53e35d4ba6b0c056915d75cafcd

@@ -17,9 +17,19 @@ figures:
   charged: 2
   plants_destroyed: 135
 details:
+  activity: [cultivation]
+  agency_types: [police, prosecutor]
+  case_stage: investigation
   environment: [greenhouse]
+  products: [{product: hashish}, {product: plants, plants: 135}]
+  setting: [field, home]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
   details.environment: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3c73b43f5b9c003a21b2cc1e914a95f6

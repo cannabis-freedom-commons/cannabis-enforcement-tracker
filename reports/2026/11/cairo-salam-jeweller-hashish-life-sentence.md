@@ -19,10 +19,18 @@ figures:
         amount: 100000
         currency: EGP
 details:
+  activity: [trafficking, possession]
+  agency_types: [anti-narcotics, prosecutor]
+  case_stage: sentenced
   products:
     - {product: hashish}
+  setting: [prison]
 data_sources:
+  details.activity: [1, 2, 3, 4]
+  details.agency_types: [1, 2, 3]
+  details.case_stage: [1, 2, 3, 4]
   details.products: [1, 3]
+  details.setting: [1, 2, 3, 4]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 79d97cf511c8bd0a2fe81203b316358c

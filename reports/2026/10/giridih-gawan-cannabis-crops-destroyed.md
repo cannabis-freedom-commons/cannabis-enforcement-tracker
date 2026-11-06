@@ -19,10 +19,12 @@ media:
     caption: 'Police destroying cannabis plants. Photo: Lagatar News page image captioned cannabis plants.'
 details:
   activity: [cultivation]
+  agency_types: [police]
   products:
     - {product: flower}
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

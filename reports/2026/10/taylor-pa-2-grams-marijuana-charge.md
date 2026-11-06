@@ -18,8 +18,16 @@ figures:
   kg_seized: 0.002
 details:
   activity: [possession]
+  agency_types: [police]
+  case_stage: charged
+  products: [{product: flower, kg: 0.002}]
+  setting: [home]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [pennsylvania, taylor, possession, warrant, small-amount]

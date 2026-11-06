@@ -21,10 +21,16 @@ media:
     publisher: Pindula News
     caption: Image published with the report on the 10 parcels of compressed dagga seized at the Harare-Chirundu checkpoint.
 details:
+  activity: [possession]
+  agency_types: [police]
   products:
     - {product: flower}
+  setting: [border, vehicle, mail]
 data_sources:
+  details.activity: [1, 3, 2]
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2, 3]
+  details.setting: [1, 3, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ae21f61e1947e9b5eb0134b9790e2b9d

@@ -16,9 +16,13 @@ figures:
   charged: 2
   kg_seized: 1
 details:
+  agency_types: [police, court]
+  case_stage: acquitted
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 3, 2]
+  details.case_stage: [1, 3]
   details.products: [1]
 status: verified
 created_by_model: openai/gpt-6-luna#max

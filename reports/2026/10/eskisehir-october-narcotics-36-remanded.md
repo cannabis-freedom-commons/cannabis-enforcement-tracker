@@ -17,9 +17,11 @@ figures:
   plants_destroyed: 24
   kg_seized: 1.70916
 details:
+  agency_types: [gendarmerie, police]
   products:
     - {product: hashish}
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

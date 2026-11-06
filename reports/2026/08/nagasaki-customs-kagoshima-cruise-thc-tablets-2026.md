@@ -15,6 +15,7 @@ figures:
   charged: 1
   kg_seized: 0.00893
 details:
+  activity: [smuggling]
   agencies: [Nagasaki Customs, Kagoshima Prefectural Police]
   agency_types: [customs, police]
   products:
@@ -23,12 +24,15 @@ details:
   case_stage: charged
   date_precision: exact
   region: Kagoshima Prefecture
+  setting: [airport]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]
   details.charges: [2]
   details.products: [2]
+  details.setting: [1, 3]
   figures.charged: [2]
   figures.kg_seized: [2]
 media:

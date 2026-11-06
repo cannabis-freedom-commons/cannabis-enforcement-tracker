@@ -20,6 +20,7 @@ details:
   agencies: [Bihar Special Task Force (STF), Sitamarhi town police station]
   agency_types: [police, anti-narcotics]
   activity: [trafficking]
+  products: [{product: flower}]
   setting: [street]
   charges: [ganja trafficking under the NDPS Act]
   case_stage: investigation
@@ -31,6 +32,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]
+  details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.cash: [1]

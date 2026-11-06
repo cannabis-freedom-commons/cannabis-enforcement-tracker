@@ -12,10 +12,14 @@ title: Guangzhou customs seize 68 cannabis seeds hidden in inbound T-shirt mail
 summary: >-
   Guangzhou customs seized 68 cannabis seeds on 11 November 2025 in an inbound postal parcel declared as a men's cotton T-shirt. Officers said X-ray screening was abnormal; inside they found seeds in sealed bags and plastic tubes wrapped in the shirt, and testing confirmed they were cannabis seeds.
 details:
+  agency_types: [customs]
   products:
     - {product: seeds}
+  setting: [prison]
 data_sources:
+  details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: reported
 created_by_model: cursor/composer-2.5
 tags: [guangdong, guangzhou, customs, cannabis-seeds]

@@ -22,11 +22,19 @@ media:
     publisher: PPNews FB
     caption: 'Seized bags with suspected drugs and plants laid on a table in front of Santa Catarina Military Police and Parana 21st BPM banners. Photo: PM'
 details:
+  activity: [trafficking, sale]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
+  products: [{product: flower, kg: 0.287}, {product: seeds}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: aa01ce831a42b21cfc0d2f55e1270aaf

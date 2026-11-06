@@ -21,9 +21,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   agencies: [dz-anp]
   agency_types: [military]
+  case_stage: investigation
+  products: [{product: hashish, kg: 75}]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
 status: verified
 tags: [kif, tlemcen, customs, army]
 sources:

@@ -19,11 +19,19 @@ figures:
   plants_destroyed: 20000
   prison: 10 years
 details:
+  activity: [possession]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
+  case_stage: sentenced
+  products: [{product: flower}]
+  setting: [home]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2, 3]
+  details.products: [1, 2]
+  details.setting: [1]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [dea, medical-marijuana, lake-county]

@@ -15,8 +15,10 @@ figures:
   arrested: 1
   kg_seized: 96.3
 details:
+  agency_types: [customs, prosecutor]
   setting: [airport]
 data_sources:
+  details.agency_types: [1, 2, 3]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

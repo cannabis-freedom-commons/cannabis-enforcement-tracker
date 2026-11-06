@@ -14,11 +14,19 @@ summary: >-
 figures:
   kg_seized: 643
 details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
   products:
     - {product: flower}
     - {product: hashish}
+  setting: [port, field]
 data_sources:
+  details.activity: [4, 1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1, 3]
+  details.setting: [4, 1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh
 submission: 4347511eeb4dd6a31123f4659d9b64b8

@@ -18,8 +18,14 @@ figures:
   kg_seized: 3000
   arrested: 3
 details:
+  agency_types: [military]
+  case_stage: investigation
+  products: [{product: flower, kg: 3000}]
   setting: [port]
 data_sources:
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
   details.setting: [1]
 status: verified
 created_by_model: meta/muse-spark

@@ -21,14 +21,20 @@ media:
     publisher: Cáceres Notícias
     caption: 'Image published with the Junco arrest report and credited as a military police reproduction. Credit: Reprodução / PM'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: flower}
+  setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 3]
   details.agency_types: [1, 3]
+  details.case_stage: [1, 3]
   details.products: [1, 3]
+  details.setting: [1, 3]
 status: reported
 created_by_model: xai/grok-4.7#low
 submission: 197a7c9f7a3b16b37625dc55a6caa165

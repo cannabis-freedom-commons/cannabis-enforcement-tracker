@@ -18,13 +18,17 @@ media:
     publisher: GaliciaPress
     caption: Photo labelled as what was seized in the Ponteareas case. GaliciaPress / Europa Press.
 details:
+  activity: [trafficking, sale]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
+  case_stage: investigation
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 3, 4, 1]
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
+  details.case_stage: [3, 4, 2, 1]
   details.products: [3, 4]
 status: reported
 created_by_model: xai/grok-4.7#low

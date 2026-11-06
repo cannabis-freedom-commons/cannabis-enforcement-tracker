@@ -22,8 +22,12 @@ media:
     caption: 'Hassan Soueid and Casey Ann Smith with 4950 Glenn Pine Lane and 1300 South Ocean Boulevard. Photo: Palm Beach County Sheriff''s Office, Google Maps, Getty via The Real Deal'
 details:
   activity: [money]
+  case_stage: charged
+  products: [{product: flower}]
 data_sources:
   details.activity: [1, 2, 3]
+  details.case_stage: [1, 3]
+  details.products: [4, 2, 1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: de5285033fc519389eab7b196334504f

@@ -19,17 +19,21 @@ figures:
     currency: INR
 details:
   agencies: [Bihar Excise and Prohibition Department]
+  agency_types: [police]
   products:
     - {product: flower, kg: 311.3}
   activity: [smuggling]
   case_stage: investigation
   date_precision: exact
   region: Bihar
+  setting: [vehicle]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
+  details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.value: [1]

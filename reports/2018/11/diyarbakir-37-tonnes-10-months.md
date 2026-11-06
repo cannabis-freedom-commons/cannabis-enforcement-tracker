@@ -17,9 +17,11 @@ figures:
   plants_destroyed: 3016747
   kg_seized: 37293.994
 details:
+  activity: [smuggling]
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [2, 1]
   details.products: [1]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max

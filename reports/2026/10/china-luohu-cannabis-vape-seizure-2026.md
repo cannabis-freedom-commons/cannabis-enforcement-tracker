@@ -15,9 +15,15 @@ figures:
   kg_seized: 0.00028
 created_by_model: openai/gpt-6
 details:
+  activity: [smuggling]
+  agency_types: [customs]
+  case_stage: investigation
   products:
     - {product: oil}
 data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
 status: verified
 tags: [customs, shenzhen, vape]

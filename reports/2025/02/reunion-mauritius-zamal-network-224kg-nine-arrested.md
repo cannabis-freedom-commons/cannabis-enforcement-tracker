@@ -18,8 +18,12 @@ figures:
     amount: 5000000
     currency: EUR
 details:
+  activity: [trafficking]
+  agency_types: [gendarmerie, anti-narcotics]
   route: {from: [re], to: [mu]}
 data_sources:
+  details.activity: [2, 1]
+  details.agency_types: [2, 1, 3]
   details.route: [2, 1, 3]
   figures.arrested: [1]
   figures.charged: [1]

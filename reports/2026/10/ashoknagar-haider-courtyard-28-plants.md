@@ -23,10 +23,14 @@ media:
     publisher: Dainik Bhaskar
     caption: 'Dainik Bhaskar''s 26-second video report on the seizure of 28 cannabis plants from Devi Singh Yadav''s courtyard in Haider village. Credit: Dainik Bhaskar'
 details:
+  activity: [cultivation]
+  agency_types: [police, court]
   setting: [home]
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
   details.products: [1]
   details.setting: [1]
 status: verified

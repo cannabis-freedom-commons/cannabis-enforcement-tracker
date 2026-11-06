@@ -19,12 +19,16 @@ figures:
     amount: 52300000
     currency: INR
 details:
+  agency_types: [customs]
   products:
     - {product: flower}
   route: {from: [th], to: [in]}
+  setting: [airport]
 data_sources:
+  details.agency_types: [1, 3, 2]
   details.products: [1, 2, 3]
   details.route: [1, 3]
+  details.setting: [1, 3, 2]
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e04c5c718883ee3c46e0310de6df0c34

@@ -25,8 +25,14 @@ media:
     publisher: Hong Kong Customs and Excise Department
     caption: 'The suspected cannabis buds seized at Hong Kong International Airport, shown in a Customs handout photo. Photo: Hong Kong Customs and Excise Department'
 details:
+  activity: [trafficking]
+  agency_types: [customs]
+  products: [{product: flower, kg: 5}]
   setting: [airport]
 data_sources:
+  details.activity: [1]
+  details.agency_types: [2, 3, 4, 5, 1]
+  details.products: [2, 3, 4, 5, 1]
   details.setting: [2, 3, 4, 5]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

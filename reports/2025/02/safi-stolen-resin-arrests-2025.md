@@ -21,10 +21,16 @@ figures:
   kg_seized: 85
 created_by_model: cursor/composer-2.5
 details:
+  agency_types: [police, court]
+  case_stage: investigation
   products:
     - {product: hashish}
+  setting: [home]
 data_sources:
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [safi, resin, evidence]
 open_questions:
