@@ -61,12 +61,19 @@ sources:
     publisher: Полтавська обласна прокуратура
     date: 2026-11-05
     language: uk
+  - title: 'Сушили канабіс у гаражі та продавали з рук в руки: на Полтавщині заарештували чотирьох наркоторговців'
+    url: https://poltava.to/news/88884/
+    publisher: Інтернет-видання «Полтавщина»
+    date: 2026-11-06
+    language: uk
 open_questions:
   - The reports give no separate date for the searches or suspicion notices; 5 November 2026, the announcement and publication date, is used as the incident date.
   - The exact weight beyond more than 70 kg of cannabis was not published, so figures record 70 kg.
   - No plant count was published beyond the charge threshold of 50 or more cannabis plants.
   - The suspects were not named and no plea or trial outcome was reported; the pre-trial investigation was continuing.
   - A brief mention of a detained 35-year-old Kremenchuk drug-sale suspect is a separate event left out of this report.
+  - The submitted page gives no separate date for the searches, suspicion notices or custody decision; it is a follow-up account published on 6 November 2026, a day later than the first coverage.
+  - The page's photos have no captions and could not be confirmed as showing this event, so none was linked.
 ---
 
 Police in the Poltava region exposed four men on suspicion of growing cannabis
@@ -87,5 +94,6 @@ All four group members were notified of suspicion according to their alleged
 roles. [@1] They face counts of repeated large-scale manufacture, storage and
 transport of drugs for sale by a conspiring group, and of growing 50 or more
 cannabis plants by a conspiring group for sale. [@1] A court placed the suspects
-in custody at the investigators' request. [@1]
+in custody at the investigators' request. [@1,3]
 
+The pre-trial investigation and operational support in the case are run by the regional police investigators together with the strategic investigations department, under the Poltava regional prosecutor's office. [@3]
