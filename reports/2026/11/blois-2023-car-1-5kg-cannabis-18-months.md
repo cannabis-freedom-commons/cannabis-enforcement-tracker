@@ -41,12 +41,6 @@ data_sources:
   figures.kg_seized: [1]
   figures.prison: [1]
   figures.released: [1]
-media:
-  - kind: photo
-    url: https://www.lanouvellerepublique.fr/blois/il-avait-ete-controle-a-blois-avec-1-5-kg-de-cannabis-et-une-arme-de-calibre-9-mm-dans-sa-voiture-18-mois-de-prison-dont-six-avec-sursis-pour-cet-ex-blesois-1793896579
-    media_url: https://images.lanouvellerepublique.fr/image/upload/t_768w/f_auto/v1781890379/6aecb0800aaf46df398b46ee.jpg
-    publisher: La Nouvelle République
-    caption: 'Archive photo of the Blois judicial court, where the hearing took place on 3 November 2026. Photo: Fabien Burgaud, La Nouvelle République archives'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 36d8c56d5d112ed59b02093a0fcc2b93

@@ -19,12 +19,9 @@ media:
     url: https://www.nur.kz/incident/crime/2452107-troih-zaderzhali-v-aktobe-posle-obyska-na-cherdake-video/
     media_url: https://cdn.nur.kz/images/720x405/46e16a02228c1de3637e5f65fefee339.webp?version=1
     publisher: NUR.KZ
-    caption: 'Detention still from the Aktobe regional police video showing the operation. Photo: Police Department of the Aktobe Region via NUR.KZ'
-  - kind: photo
-    url: https://centralasia.media/art:45322/
-    media_url: https://cdn-1.aki.kg/cdn-st-0/qiG/6/K/3091aed6de1e09f7d59f5cf05ab3bd7a.jpg
-    publisher: CentralAsia.media
-    caption: 'Generic illustration photo of a Kazakh police officer''s uniform, with a POLISIA badge, the interior ministry emblem and a body camera; it does not show the Aktobe search or the seized barrels. Photo: CentralAsia.media'
+    caption: >-
+      Detention still from the Aktobe regional police video showing the operation. Photo: Police
+      Department of the Aktobe Region via NUR.KZ
 details:
   activity: [trafficking]
   agency_types: [police]

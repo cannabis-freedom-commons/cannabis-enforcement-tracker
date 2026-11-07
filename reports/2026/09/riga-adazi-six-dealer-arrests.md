@@ -42,6 +42,7 @@ open_questions:
   - Police gave birth years but not names; three suspects had prior drug convictions and two were wanted for other offences at arrest.
   - LSM English published on 22 September 2026 citing a 21 September police briefing; Delfi and Apollo.lv carried the same figures without a later court outcome.
   - The operation also seized amphetamine oil residue, ketamine, clonazepam tablets, four cars and more than €5,500 in cash linked to the group.
+  - LSM illustrated the story with a generic LETA file photo, so no event photo is listed.
 sources:
   - title: Drug bust in Rīga and Ādaži last week
     url: https://eng.lsm.lv/article/society/crime/22.09.2026-drug-bust-in-riga-and-adazi-last-week.a664196/
@@ -54,13 +55,6 @@ sources:
     publisher: Delfi
     date: 2026-09-21
     language: lv
-media:
-  - kind: photo
-    url: https://eng.lsm.lv/article/society/crime/22.09.2026-drug-bust-in-riga-and-adazi-last-week.a664196/
-    archived: https://web.archive.org/web/20260922175850/https://eng.lsm.lv/article/society/crime/22.09.2026-drug-bust-in-riga-and-adazi-last-week.a664196/
-    media_url: https://static.lsm.lv/media/2017/09/large/1/855j.jpg
-    publisher: LETA (via LSM English)
-    caption: Generic LETA file photo used on LSM’s report of the Rīga and Ādaži drug arrests.
 ---
 
 Latvian police said they broke up a six-person organised drug-dealing group in Rīga and nearby

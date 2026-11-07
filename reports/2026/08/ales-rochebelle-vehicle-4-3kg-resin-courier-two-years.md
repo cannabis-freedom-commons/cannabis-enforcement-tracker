@@ -42,12 +42,6 @@ data_sources:
   figures.charged: [1]
   figures.kg_seized: [2]
   figures.prison: [2]
-media:
-  - kind: photo
-    url: https://www.midilibre.fr/2026/09/01/15-kg-de-cocaine-et-5-kg-de-resine-de-cannabis-saisis-a-ales-lors-dun-controle-de-vehicule-a-rochebelle-13530900.php
-    media_url: https://images.midilibre.fr/api/v1/images/view/6a969ecaf9427d1d8d03f1c3/large/image.jpg?v=1
-    publisher: Midi Libre
-    caption: 'Archive photo used to illustrate the August round-up in Alès; it does not show this vehicle stop. Photo: Midi Libre Archives - Mikael Anisset'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 16206e13313dfa7ad7e6464accc8ae33

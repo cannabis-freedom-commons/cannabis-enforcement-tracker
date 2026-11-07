@@ -38,27 +38,33 @@ media:
     url: https://www.attasiaa.com/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA/
     media_url: https://www.attasiaa.com/wp-content/uploads/2026/11/dubai_164926.webp
     publisher: Attasiaa
-    caption: The page's main picture illustrating the announcement of the 20-suspect network dismantled in Ras Al Khaimah; the page gives no credit.
+    caption: >-
+      The page's main picture illustrating the announcement of the 20-suspect network dismantled in
+      Ras Al Khaimah; the page gives no credit.
   - kind: photo
     url: https://www.almashhad.com/article/773112298002792-News/555400366648439-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-200-%D8%A3%D9%84%D9%81-%D9%82%D8%B1%D8%B5-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-20-%D9%85%D8%AA%D9%87%D9%85%D8%A7/
     media_url: https://media.almashhad.com/storage/attachments/5555/1793959990800TztJbwebp-1793959990800_highres.webp
     publisher: قناة ومنصة المشهد
-    caption: A table of the seized items from the 20-suspect network, captioned in Arabic as varied quantities of cocaine, crystal, marijuana, hashish and Spice; the page credits the image only to X (Twitter).
+    caption: >-
+      A table of the seized items from the 20-suspect network, captioned in Arabic as varied
+      quantities of cocaine, crystal, marijuana, hashish and Spice; the page credits the image only
+      to X (Twitter).
   - kind: photo
     url: https://sana.sy/international/2627742/
     media_url: https://cdn.sananews.sy/2026/11/8011664.webp
     publisher: الوكالة العربية السورية للأنباء – سانا
-    caption: The page's main picture, captioned with the headline about the UAE seizing an international drug-smuggling network of 20 people; the page carries the emblem of the UAE National Anti-Narcotics Agency rather than a scene of the seizure, and gives no credit.
-  - kind: photo
-    url: https://aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-20-%D9%85%D8%AA%D9%87%D9%85%D8%A7-%D8%A8%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82/4114689
-    media_url: https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/06/thumbs_b_c_3674a9d0abf04f3838b5d70db4e727cb.jpg
-    publisher: Anadolu Ajansı (الأناضول)
-    caption: The Anadolu page's picture, captioned only with the headline about the arrest of 20 suspects for drug smuggling with Iraqi cooperation; the page gives no credit and it is not established to show the seizure.
+    caption: >-
+      The page's main picture, captioned with the headline about the UAE seizing an international
+      drug-smuggling network of 20 people; the page carries the emblem of the UAE National
+      Anti-Narcotics Agency rather than a scene of the seizure, and gives no credit.
   - kind: photo
     url: https://www.akhbrna.ae/news/alimarat-tdbt-shbka-dwlya-mn/
     media_url: https://cdn.akhbrna.ae/img/820x461/upload/media/2026/11/img_6aedc154380932.49002162.webp
     publisher: صحيفة اخبارنا
-    caption: The page's feature image, captioned as the seizing of an international network accused of smuggling Captagon and drugs into the UAE; the page gives no credit and the picture is not established to show this seizure.
+    caption: >-
+      The page's feature image, captioned as the seizing of an international network accused of
+      smuggling Captagon and drugs into the UAE; the page gives no credit and the picture is not
+      established to show this seizure.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 046f618050dae4ea03e407090bc5a422

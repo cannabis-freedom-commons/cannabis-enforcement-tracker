@@ -45,12 +45,6 @@ data_sources:
   figures.fine: [1]
   figures.prison: [1]
   figures.value: [1]
-media:
-  - kind: photo
-    url: https://akhbar-alkhaleej.com/news/article/1456859
-    media_url: https://media.akhbar-alkhaleej.com/source/17760/images/img.jpg
-    publisher: Akhbar Al Khaleej
-    caption: Picture of a man's hands behind prison bars published with the report on the five-year sentence; it carries no credit and is not established to show the defendant.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: eea1bfc94cdd4c0f5c373a49d457cf3a

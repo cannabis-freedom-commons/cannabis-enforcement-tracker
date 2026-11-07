@@ -102,12 +102,6 @@ open_questions:
   - The Sohu page credits Xinhua and cites Kyodo, so it is a wire reprint rather than independent reporting of the garrison's statement.
   - The TSS page shows a 7 November 2026 posting date although the dismissal took effect on 6 November; the report keeps 6 November as the incident date.
   - The Chinese account is a Xinhua reprint of a Kyodo report and identifies the drugs only as cannabis and other drugs, without weights or forms.
-media:
-  - kind: photo
-    url: http://www.crntt.com/doc/7_0_107252479_1_1106152051.html
-    media_url: https://hkpic.crntt.com/upload/202611/6/107252482.jpg
-    publisher: 中評社
-    caption: Uncaptioned photo published with the Chinese account of the Kaita garrison dismissal; it is not established to show this case.
 ---
 
 Japan's Ground Self-Defense Force dismissed a 19-year-old private second class

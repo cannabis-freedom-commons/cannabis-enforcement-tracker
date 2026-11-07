@@ -24,12 +24,6 @@ data_sources:
   details.environment: [1]
   details.products: [1, 2]
   details.setting: [1]
-media:
-  - kind: photo
-    url: https://www.inform.kz/ru/21-tonna-narkotikov-izyata-v-kazahstane-za-tri-mesyatsa-e2b08e07
-    media_url: https://img.inform.kz/kazinform-photobank/media/2026-06-09/79559eaf-1efc-41d8-847b-b6ac46715f3d.webp
-    publisher: Kazinform
-    caption: 'Illustrative page picture for the Qarasora-2026 interim results, credited to the Interior Ministry''s Polisia.kz news portal; it is not established to show a specific plantation. Photo: Polisia.kz'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cd07c3b7f2688a05d90443775fb90908

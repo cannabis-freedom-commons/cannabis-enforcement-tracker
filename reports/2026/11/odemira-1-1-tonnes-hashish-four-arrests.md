@@ -66,12 +66,6 @@ open_questions:
   - No outcome of the first judicial interrogation or of any coercive measures was reported.
   - The page photo is captioned only with the article headline and its credit is not given, so it is not established to show this seizure.
   - The Renascença page picture has no caption or credit establishing that it shows this seizure, so it is not listed as media.
-media:
-  - kind: photo
-    url: https://sol.iol.pt/sociedade/noticias/combate-ao-narcotrafico-embarcacao-suspeita-leva-autoridades-a-apreender-1-1-toneladas-de-haxixe-em-odemira-ha-quatro-detidos/20261106/6aedeffb0cf2aafa0453d885
-    media_url: https://img.iol.pt/image/id/695dc7d20cf22dd7c7f51474/720
-    publisher: SOL
-    caption: The page picture given to the SOL report on the Odemira hashish seizure, captioned only with the article headline; no credit is given and it is not established to show this seizure.
 ---
 
 Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the

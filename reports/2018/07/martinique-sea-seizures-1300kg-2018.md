@@ -29,12 +29,6 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://rci.fm/martinique/infos/Faits-divers/Plus-dune-tonne-de-cannabis-saisie-en-un-mois
-    media_url: https://rci.fm/sites/default/files/styles/729x40/public/rci-images-archives/image-generique.png?itok=-jCj4OVc
-    publisher: RCI
-    caption: 'The article''s generic illustration image of more than a tonne of cannabis seized in a month; the page markup credits no photographer and does not state that the picture was taken during these interceptions. Photo: RCI'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: df63356a9b1dd2b4e456c3312cdd48a7

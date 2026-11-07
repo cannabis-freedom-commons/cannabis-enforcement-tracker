@@ -14,12 +14,6 @@ summary: >-
 figures:
   arrested: 2
   kg_seized: 4.25
-media:
-  - kind: photo
-    url: https://www.amarujala.com/delhi-ncr/noida/two-accused-arrested-for-cannabis-trafficking-in-separate-incidents-grnoida-news-c-1-noi1095-4909760-2026-11-05
-    media_url: https://staticimg.amarujala.com/assets/images/2021/10/26/noida_1635234632.jpeg?w=674&dpr=2.0&q=80
-    publisher: Amar Ujala
-    caption: 'The article''s lead image of Noida, reused from the newspaper''s 2021 stock file and captioned only with the headline; it does not show these arrests. Photo: Amar Ujala'
 details:
   activity: [sale]
   agency_types: [police]

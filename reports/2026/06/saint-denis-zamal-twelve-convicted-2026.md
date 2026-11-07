@@ -51,12 +51,6 @@ data_sources:
   figures.kg_seized: [1]
   figures.prison: [1]
   figures.sentenced: [2]
-media:
-  - kind: photo
-    url: https://www.zinfos974.com/trafic-de-zamal-entre-la-reunion-et-maurice-bertrand-de-boisvilliers-condamne-a-quatre-ans-de-prison/
-    media_url: https://www.zinfos974.com/wp-content/uploads/2024/10/zinfos974-heurts-a-bras-fusil-deux-individus-juges-pour-violences-et-cambriolage-69893243-48815040.jpg
-    publisher: Zinfos974
-    caption: 'Courthouse scene illustration used on the Zinfos974 page, not a photo of this hearing. Photo: Zinfos974'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 367d494d700dfc6bb82c308c60e5c5cf
@@ -78,6 +72,7 @@ open_questions:
   - Zinfos974 gives only some of the lesser defendants' names, and its spellings may be incomplete; Le Quotidien gives the eight smaller sentences only as a range.
   - The court is recorded at Saint-Denis city, not a precise courthouse address.
   - The fines are the first-instance fines; the appeal coverage does not say whether they were changed.
+  - Zinfos974 illustrated the hearing with an unrelated courthouse scene, so no event photo is listed.
 ---
 
 The Saint-Denis criminal court found all twelve defendants guilty of trafficking

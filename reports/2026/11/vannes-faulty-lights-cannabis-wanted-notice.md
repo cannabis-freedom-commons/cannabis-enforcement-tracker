@@ -36,12 +36,6 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.released: [1]
-media:
-  - kind: photo
-    url: https://www.letelegramme.fr/morbihan/vannes-56000/a-vannes-la-police-le-controle-pour-des-feux-defectueux-et-decouvre-quil-est-recherche-pour-une-peine-de-prison-ferme-7153848.php
-    media_url: https://media.letelegramme.fr/api/v1/images/view/6aee17774ca3ae60dd0634ca/web_golden_xl/6aee17774ca3ae60dd0634ca.1
-    publisher: Le Télégramme
-    caption: 'Illustration photo published with the account, captioned as showing the 33-year-old Vannetais whose licence was suspended and car impounded after testing positive for cannabis; it is not established to show the roadside check itself. Photo: Le Télégramme/R.M'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 788dd8411165a475e6c7abdca8bbfe36

@@ -97,7 +97,7 @@ const counts = {
     countsEl.textContent = `${n.remove} remove · ${n.keep} keep · ${n.replace} replace · ${n.undecided} open`;
   }
 
-  function card(c: Cand) {
+  function card(c: Cand, n: number) {
     const li = document.createElement("li");
     li.className = "mr-card";
     li.dataset.id = c.id;
@@ -108,6 +108,10 @@ const counts = {
          </button>`
       : `<div class="mr-shot empty">No thumb</div>`;
     li.innerHTML = `
+      <div class="mr-case">
+        <span class="mr-num">#${n}</span>
+        <span class="mr-mark-label" data-mark-label>${esc(markOf(c.id))}</span>
+      </div>
       ${img}
       <div class="mr-meta">
         <div class="mr-flags">${c.flags.map((f) => `<span>${esc(f)}</span>`).join("")}<span class="mr-str">${esc(c.strength)}</span></div>
@@ -134,7 +138,7 @@ const counts = {
 
   function render() {
     const list = visible();
-    grid.replaceChildren(...list.map(card));
+    grid.replaceChildren(...list.map((c, i) => card(c, i + 1)));
     summary();
   }
 
@@ -154,6 +158,8 @@ const counts = {
     else marks[id] = mark;
     save();
     cardEl.dataset.mark = markOf(id);
+    const label = cardEl.querySelector<HTMLElement>("[data-mark-label]");
+    if (label) label.textContent = markOf(id);
     summary();
     if (filterStatus.value !== "all" && filterStatus.value !== markOf(id)) cardEl.remove();
   });
@@ -189,7 +195,8 @@ const counts = {
   render();
 </script>
 
-<style>
+<style is:global>
+  /* is:global: cards are built in the browser, so Astro scoped attrs never land on them */
   .mr { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
   .mr-kicker { margin: 0; color: var(--muted); font-size: .85rem; letter-spacing: .04em; text-transform: uppercase; }
   .mr-head h1 { font-family: var(--display); font-weight: 400; font-size: clamp(1.8rem, 4vw, 2.6rem); margin: .2rem 0 .5rem; }
@@ -201,12 +208,38 @@ const counts = {
   .mr-btn { background: var(--accent); color: var(--accent-ink); border: 0; border-radius: var(--r); padding: .45rem .8rem; cursor: pointer; font: inherit; }
   .mr-btn.ghost, .mr-actions .ghost { background: transparent; color: var(--text-2); border: 1px solid var(--border); }
   .mr-out { background: var(--surface); border: 1px solid var(--border); padding: .75rem 1rem; overflow: auto; font-family: var(--mono); font-size: .8rem; white-space: pre-wrap; }
-  .mr-grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.25rem; }
-  .mr-card { display: grid; grid-template-columns: minmax(220px, 320px) 1fr; gap: 1rem; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); padding: .75rem; }
-  .mr-card[data-mark="remove"] { outline: 2px solid #c45c5c; }
-  .mr-card[data-mark="keep"] { outline: 2px solid #5a9a6a; }
-  .mr-card[data-mark="replace"] { outline: 2px solid #c4a35c; }
-  .mr-shot { display: block; width: 100%; aspect-ratio: 16 / 10; overflow: hidden; background: var(--surface-2); border: 0; padding: 0; cursor: zoom-in; border-radius: var(--r); }
+  .mr-grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 2rem; }
+  .mr-card {
+    display: grid;
+    grid-template-columns: minmax(220px, 320px) 1fr;
+    grid-template-areas: "case case" "shot meta";
+    gap: 1rem 1.25rem;
+    background: var(--bg);
+    border: 2px solid var(--border);
+    border-radius: 6px;
+    padding: 1rem 1rem 1.15rem;
+    box-shadow: var(--shadow);
+  }
+  .mr-card + .mr-card { border-top-width: 2px; }
+  .mr-case {
+    grid-area: case;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: .75rem;
+    padding-bottom: .65rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .mr-num { font-family: var(--mono); font-size: .95rem; letter-spacing: .02em; color: var(--text); }
+  .mr-mark-label { font-family: var(--mono); font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+  .mr-card[data-mark="remove"] { border-color: #c45c5c; background: color-mix(in srgb, #c45c5c 8%, var(--bg)); }
+  .mr-card[data-mark="keep"] { border-color: #5a9a6a; background: color-mix(in srgb, #5a9a6a 8%, var(--bg)); }
+  .mr-card[data-mark="replace"] { border-color: #c4a35c; background: color-mix(in srgb, #c4a35c 8%, var(--bg)); }
+  .mr-card[data-mark="remove"] .mr-mark-label { color: #e08a8a; }
+  .mr-card[data-mark="keep"] .mr-mark-label { color: #8ec99a; }
+  .mr-card[data-mark="replace"] .mr-mark-label { color: #d4b56a; }
+  .mr-shot { grid-area: shot; display: block; width: 100%; aspect-ratio: 16 / 10; overflow: hidden; background: var(--surface-2); border: 1px solid var(--border); padding: 0; cursor: zoom-in; border-radius: var(--r); }
+  .mr-meta { grid-area: meta; }
   .mr-shot img { width: 100%; height: 100%; object-fit: cover; display: block; background-size: cover; background-position: center; }
   .mr-shot.empty { display: grid; place-items: center; color: var(--muted); cursor: default; }
   .mr-flags { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: .4rem; }
@@ -228,6 +261,9 @@ const counts = {
   .mr-card[data-mark="keep"] .mr-actions button[data-mark="keep"],
   .mr-card[data-mark="replace"] .mr-actions button[data-mark="replace"] { outline: 2px solid var(--text); }
   @media (max-width: 720px) {
-    .mr-card { grid-template-columns: 1fr; }
+    .mr-card {
+      grid-template-columns: 1fr;
+      grid-template-areas: "case" "shot" "meta";
+    }
   }
 </style>

@@ -39,12 +39,6 @@ data_sources:
   figures.arrested: [1]
   figures.deaths: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://www.lemonde.fr/international/article/2026/01/29/l-algerie-dit-avoir-tue-trois-trafiquants-de-drogue-marocains-pres-de-la-frontiere-algero-marocaine_6664645_3210.html
-    media_url: https://img.lemde.fr/2021/11/10/0/0/4537/2970/556/0/75/0/e134ffa_258691560-000-9r29pt.jpg
-    publisher: Le Monde
-    caption: 'An Algerian border guard patrolling the frontier with Morocco in the Oujda region on 4 November 2021, an illustrative archive photo rather than a picture of this ambush. Photo: Fadel Senna/AFP'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b732ef948ebdfe88445cf9648303c584

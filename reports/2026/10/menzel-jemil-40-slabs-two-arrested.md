@@ -31,12 +31,9 @@ media:
     url: https://diwanfm.net/news/%D8%AC%D9%87%D9%88%D9%8A%D8%A9/%D9%85%D9%86%D8%B2%D9%84-%D8%AC%D9%85%D9%8A%D9%84%3A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B4%D8%A7%D8%A8%D9%8A%D9%86-%D9%88%D8%AD%D8%AC%D8%B2-4-%D9%83%D9%84%D8%BA-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D8%A8-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A
     media_url: https://diwanfm.net/photos/posts/2026/10/01/970x546-6abe2ee6ac2746abe2ee6ac275.jpg
     publisher: Radio Diwan fm
-    caption: 'Handcuffed hands held by officers, used as the header image of Diwan FM''s report on the two men detained in Menzel Jemil. Photo: Radio Diwan fm'
-  - kind: photo
-    url: https://www.alchourouk.com/article/%D9%85%D9%86%D8%B2%D9%84-%D8%AC%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D8%B7%D8%A7%D8%AD%D8%A9-%D8%A8%D9%85%D8%B1%D9%88%D8%AC%D9%8A-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
-    media_url: https://www.alchourouk.com/sites/default/files/article/zatla_72_2_0.jpg
-    publisher: جريدة الشروق التونسية
-    caption: 'Illustration filed under cannabis (zatla) that heads Al-Chourouk''s report on the Menzel Jemil arrest; it is not shown to be a photo of this seizure. Photo: Al-Chourouk'
+    caption: >-
+      Handcuffed hands held by officers, used as the header image of Diwan FM's report on the two
+      men detained in Menzel Jemil. Photo: Radio Diwan fm
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 70e0f190fbe858988670083a20da79df
@@ -70,7 +67,7 @@ open_questions:
   - The 4 kg figure is a total for the 40 slabs, not a per-slab weight, and only Diwan FM and Al-Chourouk give a weight at all.
   - No charges, court date or outcome were reported beyond the prosecutor authorising continued custody.
   - Oxygène FM gives the men's ages as between 20 and 27 without saying which man is which.
-  - The Diwan FM header photo shows handcuffed hands and the Al-Chourouk image is a generic cannabis illustration, so neither is established to show this seizure.
+  - The Diwan FM header photo shows handcuffed hands and is not established to show this seizure; the Al-Chourouk generic cannabis illustration was dropped.
   - 'Left out, as its quotation was not found in Radio Oxygène FM: Radio Oxygène FM said the two men were caught in a carefully prepared ambush after information that they were carrying drugs in the town, in a drive against dealing among young people and around schools.'
 ---
 

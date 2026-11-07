@@ -55,12 +55,6 @@ data_sources:
   figures.prison: [1]
   figures.sentenced: [1]
   figures.value: [2]
-media:
-  - kind: photo
-    url: https://www.linfo.re/la-reunion/faits-divers/16-5-kilos-de-cannabis-dans-ses-bagages-un-professeur-anglais-condamne-a-deux-ans-de-prison
-    media_url: https://www.linfo.re/public/images/2026/3/2/zamal--c089__182346_w-1200.webp
-    publisher: LINFO.re / Antenne Réunion
-    caption: 'Cover illustration captioned Zamal, a Réunion word for cannabis, used for this article and credited to Antenne Réunion; it is not established to show this seizure. Photo: DR-Antenne Réunion'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9bb0aa87a6d5955e459e5057830677f0

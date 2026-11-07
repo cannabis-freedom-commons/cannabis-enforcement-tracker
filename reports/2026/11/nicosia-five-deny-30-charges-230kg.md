@@ -16,12 +16,6 @@ figures:
 data_sources:
   figures.charged: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://cyprus-mail.com/2026/11/06/five-plead-not-guilty-over-230kg-drugs-haul
-    media_url: https://cyprus-mail.com/image/s1100x750/fill/webp/path/wp-content/uploads/2026/10/nicosia-district-court.jpg
-    publisher: Cyprus Mail
-    caption: The Nicosia district court, the file photo illustrating the page; it carries no credit and does not show this hearing.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4de7b3254993fd1a406e71f2b0745fa6

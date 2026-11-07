@@ -26,12 +26,6 @@ data_sources:
   details.products: [1]
   figures.kg_seized: [1]
   figures.prison: [1]
-media:
-  - kind: photo
-    url: https://www.thepress.co.nz/nz-news/361110797/commercial-drug-dealer-jailed-judge-rejects-addiction-excuse
-    media_url: https://www.thepress.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUSeZYZbm+SU0zjMnNqDfql8Yk4r+Ht43oxrl86VwI5IF7k1TZFVP%2FGWCLS2aI+JHG0CHrKRTdD6g4UMVckUdv3gKBjgt0h7C++o2A4sPwD0kIOjudY0XIkRiAHlNz2BT7qI7pWIiW6VN7THAWjcGNDoBDbWIRRw5FdJ8mU%2FN5bE6Yvi%2FMdBJMuAMWjbTJGdZ18QsCmgyLHkyoV6DJiDIqW3BqrIRzNMb1SDfkTodAopiUX3SROG121kZH5x0ja1+sDZts0t1cTWkpwhSwcn9Um1vw2XPWKETdUI2O+dyaB9x5HboH1DgWTTBxbzF224ZfItnlCjNC1UOXeM5rabZs0B0FuitTzRwh79TKv1NpiRd%2FfYBBHpMV+x4s2sD5svy52zQws9CMWXRnFkc8lpicJMvMQMLSudgO4lzTN7I%2Fi+W3QHceZwev2rQzxHarhHGKoDyHFBPzwvFjzads8T0bH6hD7CdNvjU9umIRr9aYZjfhdhNvJcRaE0RMg77nJY1g=?
-    publisher: The Press
-    caption: 'The Press''s file photo used with the article on Jade-Cooper Mackenzie''s sentencing, showing a video frame it says was sent to cannabis customers explaining how to order. Photo: Ross Giblin / THE POST'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c35f967863c7691f5016a217467ab09e
@@ -48,6 +42,7 @@ open_questions:
   - The methamphetamine, cocaine and ecstasy charges and the assault, taser and community work offences explain the mixed case and are excluded from cannabis figures.
   - The $35,000 in cash is as published and no police valuation for the whole case is given.
   - No second account of the sentencing was found; the Press report is the only source.
+  - The Press page used a file photo of a customer-order video frame rather than a picture of this sentencing, so no event photo is listed.
 ---
 
 Judge Mark Williams sentenced Jade-Cooper Mackenzie in the Invercargill District

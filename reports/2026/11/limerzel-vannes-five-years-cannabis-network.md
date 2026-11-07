@@ -27,12 +27,6 @@ data_sources:
   details.setting: [1]
   figures.cash: [1]
   figures.charged: [1]
-media:
-  - kind: photo
-    url: https://www.letelegramme.fr/bretagne/toutes-les-infos/un-morbihannais-implique-dans-un-vaste-trafic-de-drogue-en-bretagne-condamne-a-cinq-ans-de-prison-7153814.php
-    media_url: https://media.letelegramme.fr/api/v1/images/view/6aee0eebb6b724665f034a22/web_golden_xxl/6aee0eebb6b724665f034a22.1
-    publisher: Le Télégramme
-    caption: 'Illustration photo, not a picture of this seizure: cannabis resin used to illustrate the road check in which gendarmes found 675 g of resin. Photo: François Destoc/Le Télégramme'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8ab1c6eaac5c4ba2845fc5489c89c063

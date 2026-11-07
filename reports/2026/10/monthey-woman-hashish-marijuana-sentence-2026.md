@@ -39,12 +39,6 @@ data_sources:
   figures.kg_seized: [1]
   figures.prison: [1]
   figures.value: [1]
-media:
-  - kind: photo
-    url: https://latele.ch/articles/trafic-de-drogue-en-valais-une-femme-ecope-de-la-prison-ferme
-    media_url: https://latele.demeter.latele.ch/-/resize/904x508/-/fit/crop/-/format/webp/f/https://ats.latele.ch/storage/ats/50161-le-tribunal-de-monthey-a-condamne-une-quinquagenaire-a-trois-ans-de-prison-dont-1-ferme-photo-dillus.jpg
-    publisher: La Télé
-    caption: Illustration picture published with the ATS dispatch on the Monthey sentence; the file name identifies it as a photo d'illustration (illustrative photo) and no credit is given.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 38da9ec82fccf94c2626fe947eeef529

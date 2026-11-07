@@ -40,6 +40,7 @@ open_questions:
   - The defendant's name was not published in the regional press accounts opened.
   - Ouest-France described the drugs as cannabis while the court hearing concerned driving after use of narcotics generally.
   - The prosecutor's request to confiscate the vehicle was not mentioned in the outcome reported.
+  - The Dauphiné page used an illustration rather than a photograph of this hearing, so no event photo is listed.
 sources:
   - title: "Au volant sous cannabis, un Manosquin de 23 ans condamné à huit mois de prison"
     url: https://www.ledauphine.com/faits-divers-justice/2026/10/12/au-volant-sous-cannabis-un-manosquin-de-23-ans-condamne-a-huit-mois-de-prison
@@ -51,12 +52,6 @@ sources:
     publisher: Alpes 1
     date: 2026-10-13
     language: fr
-media:
-  - kind: photo
-    url: https://www.ledauphine.com/faits-divers-justice/2026/10/12/au-volant-sous-cannabis-un-manosquin-de-23-ans-condamne-a-huit-mois-de-prison
-    media_url: https://cdn-s-www.ledauphine.com/images/CD795552-20E2-4FBC-A10F-BEE4A52BD571/FB1200/photo-1778872175.jpg
-    publisher: Le Dauphiné Libéré (Bernard Fali)
-    caption: Illustration used with the Digne-les-Bains court report.
 ---
 
 Gendarmes stopped a 23-year-old Manosque man at Les Mées on 24 September 2026 and found he had

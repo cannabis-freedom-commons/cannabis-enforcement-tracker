@@ -17,12 +17,6 @@ details:
   region: West Bengal
 data_sources:
   figures.arrested: [1]
-media:
-  - kind: photo
-    url: https://www.anandabazar.com/west-bengal/purulia-birbhum-bankura/7-persons-held-in-purulia-under-the-ndps-act-dgtld/cid/1724517
-    media_url: https://assets.telegraphindia.com/abp/2026/Oct/1792817251_arrest-1.jpg
-    publisher: Anandabazar.com
-    caption: Representative picture published with the Purulia arrests report; the page captions it only as a representative image and gives no credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6d9255312ffe0c1ca0598abe5f5b5c25
