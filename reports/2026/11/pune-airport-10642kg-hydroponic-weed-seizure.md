@@ -192,6 +192,10 @@ sources:
     url: https://economictimes.indiatimes.com/news/short-videos/10-642-kg-hydroponic-cannabis-worth-3-72-crore-seized-at-pune-airport/videoshow/135628475.cms
     publisher: The Economic Times
     date: 2026-11-07
+  - title: 10.642 kg hydroponic cannabis worth ₹3.72 crore seized at Pune airport
+    url: https://m.economictimes.com/news/short-videos/10-642-kg-hydroponic-cannabis-worth-3-72-crore-seized-at-pune-airport/amp_videoshow/135628475.cms
+    publisher: The Economic Times
+    date: 2026-11-07
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -247,10 +251,13 @@ open_questions:
   - The Economic Times item is a short video summary and gives no interception date, flight, arrest or court details; those come from the other outlets opened here.
   - The video page's cover image is a headline composite, not a confirmed photograph of this seizure, so the video is the only media entry.
   - 'Left out, as its quotation was not found in The Hindu: Pune Customs arrested an Indian passenger arriving from Bangkok on Air India Express flight IX-291 and seized the haul at Pune International Airport on 4 November 2026.'
+  - The Economic Times item is a short video summary that gives no interception date, flight, arrest or court details, and no weight in grams beyond the 10.642 kg figure.
+  - The video's cover image is a headline composite rather than a confirmed photograph of this seizure, so no media entry is added.
+  - The item does not say which Customs office or officers carried out the interception.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
-arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18,19,20,21,23,24,25,26] The passenger had
+arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18,19,20,21,23,24,25,26,28] The passenger had
 arrived on Air India Express flight IX-291 and was stopped after passenger
 profiling and suspicious scanning of his check-in baggage. [@2,3,7,8,12,13,14,15,22,23] The interception
 was carried out by officers of the Air Intelligence Unit and the Airport Batch
