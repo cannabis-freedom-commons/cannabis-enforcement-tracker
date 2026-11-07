@@ -128,6 +128,21 @@ sources:
     publisher: SOL.DE
     date: 2026-11-06
     language: de
+  - title: 'Großeinsatz schockte Anwohner: Illegale Cannabisplantage in Jeckenbach ausgehoben'
+    url: https://www.rhein-zeitung.de/lokales/oeffentlicher-anzeiger/illegale-cannabisplantage-in-jeckenbach-ausgehoben_arid-4168128.html
+    publisher: Rhein-Zeitung
+    date: 2026-11-06
+    language: de
+  - title: 'Cannabisplantage in Jeckenbach: Razzia im Kreis Bad Kreuznach'
+    url: https://rhein-nahe-direkt.de/aktuelles/bad-kreuznach/cannabisplantage-in-jeckenbach-razzia-im-kreis-bad-kreuznach
+    publisher: Rhein Nahe Direkt
+    date: 2026-11-06
+    language: de
+  - title: 'Bad Kreuznach: Illegale Cannabisplantage entdeckt'
+    url: https://www.rockland.de/service/beitrag/bad-kreuznach-illegale-cannabisplantage-entdeckt-85926.html
+    publisher: Rockland Radio
+    date: 2026-11-05
+    language: de
 open_questions:
   - The 3 November 2026 incident date comes from the stated Tuesday raid day and the explicit 03.11.2026 date in the authorities' statement; 5 November 2026 is the publication date.
   - The plant count is reported as more than 2,300, so 2,300 is recorded as the stated minimum.
@@ -155,6 +170,9 @@ open_questions:
   - This reprint describes the hashish as just under one kilogram ("knapp 1 Kilogramm Haschisch") while the existing report records one kilogram from the authorities' release; the existing cannabis total is unchanged.
   - The article names the shared announcement by the Saarbrücken prosecutor's office and the Frankfurt customs investigation office dated Thursday 5 November 2026 and the searches on the preceding Tuesday, which supports the report's 3 November incident date; 6 November 2026 is this page's publication date.
   - The article gives the hashish as just under one kilogram while the report's cannabis total uses the stated one kilogram.
+  - The Rhein-Zeitung gives 200 to 300 plants for the Jeckenbach house, a range, while the Saarbrücken prosecutors' office and the investigators' release state about 300; no single plant count or weight for this site was published.
+  - The Rhein-Zeitung gives no separate incident date; 3 November 2026 comes from its statement that the raid was on the Tuesday and from the other accounts of this raid.
+  - Nothing was reported about arrests, charges or any court outcome specific to the Jeckenbach house, and the Rhein-Zeitung does not say whether anyone was detained there.
 ---
 
 Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating
@@ -186,3 +204,5 @@ The submitted page gives hashish as "knapp ein Kilogramm" (just under one kilogr
 The five dismantled plantations comprised one in Saarlouis district, one in Saarpfalz-Kreis and three in Bad Kreuznach district in Rhineland-Palatinate. [@8]
 
 The investigation began with a customs check near Pirmasens in May 2026, when officers found about 20 kilograms of marijuana in a car boot and arrested a suspected participant. [@13,14]
+
+Shortly after 6.30 am on the Tuesday, police cars, customs vehicles and an ambulance drove through Jeckenbach, and armed officers of the customs investigation office and police stormed a residential house. [@15] In the house they found an illegal cannabis plantation with between 200 and 300 plants. [@15] The operation in Jeckenbach was part of a larger raid in the Nordpfälzer Bergland and Saarland that found five plantations with more than 2,300 plants and arrested eight suspects. [@16] The Saarbrücken prosecutors' office said about 300 plants were found in Jeckenbach. [@17]
