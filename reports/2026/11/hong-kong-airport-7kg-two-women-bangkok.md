@@ -102,6 +102,11 @@ sources:
     publisher: 風火時報
     date: 2026-11-07
     language: zh
+  - title: 手提行李藏大麻花　兩名泰國抵港旅客被捕
+    url: https://www.passiontimes.hk/article/11-06-2026/145885
+    publisher: 熱血時報 PassionTimes
+    date: 2026-11-06
+    language: zh
 open_questions:
   - The weight is given as about 7 kg in total and about 3.5 kg for each woman; no exact figure was published.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
@@ -115,10 +120,12 @@ open_questions:
   - The submitted page is a republication of the Customs statement by 風火時報, not independent reporting; it carries no details beyond the agency's wording.
   - The weights remain approximate (about 7 kg in total, about 3.5 kg each) and the material is described as suspected cannabis buds without laboratory confirmation.
   - The Bastillepost account raises no new fact and reports no charge, court date or outcome for the two women.
+  - The PassionTimes headline describes the travellers as arriving from Thailand, while the article text specifies Bangkok; it is the same flight route already recorded.
+  - The submitted article carries no information on charges or a court date and gives the drug only as suspected cannabis buds, without laboratory confirmation.
 ---
 
 Hong Kong Customs arrested two mainland Chinese women, aged 50 and 54, at Hong
-Kong International Airport on 6 November 2026. [@1,4,5,6,7,8,9] Both women had arrived that
+Kong International Airport on 6 November 2026. [@1,4,5,6,7,8,9,10] Both women had arrived that
 day on flights from Bangkok, Thailand. [@1,4,5,7,8] During customs clearance, officers
 found about 3.5 kg of suspected cannabis buds in each woman's carry-on baggage,
 and arrested them on the spot. [@3,4,5,6,7,8] The two seizures together came to about 7 kg
@@ -131,3 +138,5 @@ clearance checks and step up enforcement against drug trafficking using
 intelligence analysis. [@2,4] Under the Dangerous Drugs Ordinance, trafficking in
 a dangerous drug carries a maximum penalty of a HK$5 million fine and life
 imprisonment. [@1,4]
+
+Investigations of the cases are ongoing. [@4]
