@@ -56,6 +56,7 @@ open_questions:
   - WAFF shows a portrait of the suspect and WHNT a booking photograph; neither shows the search or the cannabis, so no media entry is included.
   - Only the WHNT and WAFF accounts could be opened; the sheriff's office press release page could not be retrieved.
   - An April 2026 press release and WAFF report describe an earlier arrest of a man with the same name and age in Falkville with marijuana, THC concentrate and vape cartridges; that is a separate event and is not part of this report.
+  - The article gives no marijuana weight or separate court outcome, so no cannabis quantity is added.
 ---
 
 Morgan County sheriff's drug agents searched a place in Falkville on 4 November
@@ -76,4 +77,3 @@ other controlled substances. [@2]
 
 That outlet said he was charged with cocaine trafficking and possession of
 marijuana, instead of possession of cocaine. [@2]
-
