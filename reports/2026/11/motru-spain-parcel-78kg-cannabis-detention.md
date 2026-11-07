@@ -92,6 +92,16 @@ sources:
     publisher: Jurnalul Olteniei
     date: 2026-11-06
     language: ro
+  - title: Aproape 8 kilograme de canabis, ascunse printre alimente într-un colet trimis din Spania. Un bărbat, prins la Motru
+    url: https://gddhd.ro/actualitate/aproape-8-kilograme-de-canabis-ascunse-printre-alimente-intr-un-colet-trimis-din-spania-un-barbat-prins-la-motru/
+    publisher: Gazeta de dimineata
+    date: 2026-11-06
+    language: ro
+  - title: Aproape 8 kilograme de canabis, ascunse printre dulciuri și mezeluri. Colet din Spania, interceptat la Motru
+    url: https://www.sabotorii.ro/articol/aproape-8-kilograme-de-canabis-ascunse-printre-dul_39497.html
+    publisher: Sabotorii
+    date: 2026-11-05
+    language: ro
 open_questions:
   - Only one accessible account of this event could be opened; the DIICOT and IPJ Gorj statements were not reachable and searches found no second outlet reporting it.
   - No court decision on the two preventive-arrest requests had been reported when the article was published.
@@ -111,6 +121,11 @@ open_questions:
   - The page reports the preventive-arrest request to the Gorj Tribunal but not the court's decision.
   - The page does not identify the two men or give a street value for the 7.8 kg.
   - The page's still photo carries no credit and only a caption placeholder, so it is not established to show this parcel; its embedded video shows the cannabis but has no stated source.
+  - The submitted page attributes the briefing to DIICOT prosecutors rather than to a written IPJ Gorj statement, and does not say where in Motru the parcel was taken over or whether a controlled delivery was used.
+  - The Gazeta de dimineata and Sabotorii pages give no court decision on the preventive-arrest requests; only the county police statement and later local coverage addressed the ruling.
+  - Neither newly opened page reports a street value, the exact type or purity of the cannabis, or any charge sheet.
+  - The submitted page credits only the Romanian Police for its lead image and does not show whether the still depicts this parcel or the 32-year-old, so no media entry is supported.
+  - 'Left out, as its quotation was not found in AGERPRES: A 32-year-old man was caught in the act in Motru on 4 November 2026 as he was about to take possession of a parcel sent from abroad.'
 media:
   - kind: video
     url: https://www.gorjonline.ro/video-captura-de-78-kilograme-de-canabis-la-motru-un-barbat-a-fost-prins-cand-ridica-drogurile-ascunse-intr-un-colet-cu-alimente/
@@ -145,7 +160,7 @@ media:
 ---
 
 Officers of the Gorj organised-crime police and prosecutors of the DIICOT Gorj
-territorial office ran the operation that intercepted the parcel. [@1,2,3,4,5,8] A
+territorial office ran the operation that intercepted the parcel. [@1,2,3,4,5,8,12] A
 32-year-old man was caught in the act in Motru on 4 November 2026 as he was
 about to take possession of a parcel sent from abroad. [@1,2,3,5,10] DIICOT prosecutors
 ordered the 32-year-old detained on 4 November in a case concerning his alleged
@@ -158,13 +173,13 @@ cold cuts. [@1,2,3,5,9,10] The packing was meant to disguise the shipment so the
 would look like an ordinary consignment of food sent from abroad. [@1]
 
 Investigators found that the plant material had allegedly been procured and sent
-by another man, aged 34, living in Spain. [@1,2,3,4,5,8,9] The 34-year-old is a relative of
+by another man, aged 34, living in Spain. [@1,2,3,4,5,8,9,11] The 34-year-old is a relative of
 the man caught in the act, according to the Gorj county police. [@1,3,4,10] The
 investigation concerns international trafficking in risk drugs and risk-drug
 trafficking, and investigators suspect the drugs brought into the country were
 to be sold. [@1] On 5 November prosecutors asked a Gorj Tribunal judge to place
 the detained man in preventive arrest and to order preventive arrest in absentia
-for the 34-year-old in Spain. [@1,2,3,4,5,10] No court decision on those requests had been
+for the 34-year-old in Spain. [@1,2,3,4,5,10,12] No court decision on those requests had been
 announced when the information was released, and the investigation continues.
 [@1] Both suspects retain the presumption of innocence until a final court
 judgment. [@1]
