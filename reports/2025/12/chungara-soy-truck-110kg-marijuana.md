@@ -26,6 +26,8 @@ details:
   case_stage: charged
   date_precision: exact
   region: Arica y Parinacota
+  route: {from: [bo], to: [co], crossing: Chile}
+
 data_sources:
   details.activity: [2]
   details.agencies: [2]
@@ -33,6 +35,7 @@ data_sources:
   details.case_stage: [4]
   details.charges: [3]
   details.products: [2]
+  details.route: [2]
   details.setting: [2]
   figures.arrested: [3]
   figures.charged: [3]

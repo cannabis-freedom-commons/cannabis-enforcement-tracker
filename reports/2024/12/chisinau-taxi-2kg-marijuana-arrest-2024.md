@@ -21,11 +21,14 @@ details:
   products:
     - {product: flower}
   setting: [forest, prison]
+  route: {from: [ua], to: [md]}
+
 data_sources:
   details.activity: [2, 1, 3]
   details.agency_types: [3, 2, 1]
   details.case_stage: [3, 2, 1]
   details.products: [2]
+  details.route: [1]
   details.setting: [2, 1, 3]
   figures.kg_seized: [3, 2, 1]
 status: verified

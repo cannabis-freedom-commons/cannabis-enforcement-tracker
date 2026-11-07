@@ -20,10 +20,13 @@ details:
   environment: [outdoor]
   products: [{product: flower, kg: 56.8}]
   setting: [vehicle]
+  route: {from: [es], to: [dk]}
+
 data_sources:
   details.agency_types: [1]
   details.environment: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
   figures.value: [1]

@@ -20,6 +20,8 @@ details:
   environment: [outdoor]
   products: [{product: flower, kg: 456.725}]
   setting: [vehicle]
+  route: {from: [co], to: [ve]}
+
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
@@ -27,6 +29,7 @@ data_sources:
   details.date_precision: [1, 2]
   details.environment: [1]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1, 2]
 status: verified

@@ -24,11 +24,14 @@ details:
   case_stage: charged
   products: [{product: flower, kg: 5011.3}]
   setting: [port]
+  route: {from: [py], to: [bo]}
+
 data_sources:
   details.activity: [2, 4]
   details.agency_types: [2, 4, 3, 1]
   details.case_stage: [2, 4]
   details.products: [2, 4, 1, 3]
+  details.route: [1]
   details.setting: [2]
   figures.arrested: [2]
   figures.charged: [2, 4]

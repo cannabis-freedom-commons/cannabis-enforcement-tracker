@@ -20,10 +20,13 @@ details:
   products:
     - {product: flower}
   setting: [airport, vehicle]
+  route: {from: [th], to: [np]}
+
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
 status: verified
