@@ -397,6 +397,11 @@ sources:
     publisher: ETtoday遊戲雲
     date: 2026-11-06
     language: zh
+  - title: Toyz出獄首露面！篠崎泫飛香港合體 直播破萬人朝聖
+    url: https://ent.ebc.net.tw/buzz/503719
+    publisher: 東森娛樂
+    date: 2026-11-06
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -512,6 +517,9 @@ open_questions:
   - The page calls 篠崎泫 Liu's girlfriend (女友) and reports only a rumour that a marriage could let him return to Taiwan; it does not state that a marriage was registered.
   - The roughly 5,000 livestream viewers describe entertainment activity, not the enforcement operation, so they are not recorded as figures.
   - The page does not name the departure airport or the prison, so it leaves the existing report's Changhua Prison and airport discrepancies unresolved.
+  - The page calls 篠崎泫 Liu's girlfriend (女友) rather than his wife, so her relationship label remains as the existing report states it.
+  - The livestream audience figures and the equipment explanation describe post-deportation social activity, not the enforcement operation, so no enforcement figure is changed.
+  - The page's captioned image is an Instagram screenshot of the livestream, not the deportation, so no media entry is added.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
@@ -553,6 +561,8 @@ Officers from the immigration agency's Changhua County task force collected Liu 
 
 Officers from the immigration agency took Liu Weijian to Taichung Airport on 3 November for the forced expulsion, and he is barred from entering Taiwan for six years. [@64]
 
-Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67]
+Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67]
 
 Liu Weijian appeared by voice beside his girlfriend 篠崎泫 during a Hong Kong livestream on 6 November, drawing about 5,000 viewers instead of the few hundred the broadcast normally has. [@68] Immigration authorities said a marriage to a Taiwan resident would not by itself confer residence rights, and any application by a Hong Kong or Macao resident would still be reviewed under the relevant permit rules. [@68]
+
+The livestream drew more than 11,000 viewers, peaking at 13,000. [@69] Liu said he had not restarted his own channel because his computer and livestreaming equipment in Hong Kong were not ready and he wanted to rest a few days, and that he would restart once they were in place. [@69]
