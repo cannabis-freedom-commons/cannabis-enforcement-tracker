@@ -17,6 +17,7 @@ figures:
   plants_destroyed: 3000
   kg_seized: 1
 details:
+  agencies: [es-policia-nacional]
   activity: [cultivation, possession]
   agency_types: [police, court]
   case_stage: investigation
@@ -24,8 +25,10 @@ details:
   environment: [indoor]
   products: [{product: flower, kg: 1}, {product: plants, plants: 3000}]
   setting: [field]
+
 data_sources:
   details.activity: [1, 3]
+  details.agencies: [1]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
   details.date_precision: [1, 2, 3]

@@ -16,14 +16,17 @@ summary: >-
 figures:
   kg_seized: 6350.29
 details:
+  agencies: [us-dea]
   activity: [processing]
   agency_types: [military, border-guard, police]
   date_precision: exact
   force: [lethal]
   products: [{product: flower, kg: 6350.29}]
   setting: [home, building]
+
 data_sources:
   details.activity: [1, 2, 3]
+  details.agencies: [3]
   details.agency_types: [2, 1, 3]
   details.date_precision: [2, 1]
   details.force: [3, 1, 2]

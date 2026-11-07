@@ -18,14 +18,17 @@ figures:
     amount: 1100000
     currency: USD
 details:
+  agencies: [us-dea]
   activity: [smuggling]
   agency_types: [coast-guard, military, police]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 553.38}]
   setting: [border]
+
 data_sources:
   details.activity: [2, 1]
+  details.agencies: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.date_precision: [1, 2]

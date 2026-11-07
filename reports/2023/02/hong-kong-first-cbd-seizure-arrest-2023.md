@@ -17,6 +17,7 @@ figures:
   kg_seized: 0.004
   value: { amount: 5000, currency: HKD }
 details:
+  agencies: [hk-customs]
   activity: [trafficking]
   agency_types: [customs]
   case_stage: investigation
@@ -24,8 +25,10 @@ details:
   products: [{product: flower, kg: 0.004}]
   sentence_types: [life]
   setting: [airport, mail, prison]
+
 data_sources:
   details.activity: [1]
+  details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

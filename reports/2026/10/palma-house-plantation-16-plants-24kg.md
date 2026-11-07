@@ -17,14 +17,17 @@ figures:
   plants_destroyed: 16
   kg_seized: 24
 details:
+  agencies: [es-policia-nacional]
   activity: [trafficking, cultivation]
   agency_types: [police]
   case_stage: investigation
   environment: [outdoor]
   products: [{product: flower, kg: 24}, {product: plants, plants: 16}]
   setting: [field, home]
+
 data_sources:
   details.activity: [1, 2, 3, 4, 5, 6]
+  details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.environment: [1, 2, 3, 4, 5, 6]

@@ -30,6 +30,7 @@ media:
       Police photo of the organisation's suspected leader, Juan Carlos T. B., alias 'Moreno', who had been on
       the run since March 2026. Photo: Policía Nacional
 details:
+  agencies: [es-policia-nacional]
   activity: [trafficking]
   agency_types: [police, prosecutor]
   case_stage: charged
@@ -37,8 +38,10 @@ details:
   products:
     - {product: hashish}
   setting: [vehicle, home, building]
+
 data_sources:
   details.activity: [1, 4, 6, 9, 10, 12]
+  details.agencies: [1]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [6, 12, 8, 9, 10, 4]
   details.date_precision: [1, 8, 12, 3, 4, 5]

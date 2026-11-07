@@ -15,6 +15,7 @@ figures:
   arrested: 11
   kg_seized: 20000
 details:
+  agencies: [us-dea]
   activity: [smuggling, trafficking]
   agency_types: [police]
   case_stage: investigation
@@ -23,8 +24,10 @@ details:
     - {product: hashish}
   route: {from: [ma], to: [ly]}
   setting: [port]
+
 data_sources:
   details.activity: [2, 1]
+  details.agencies: [1]
   details.agency_types: [2, 1, 3]
   details.case_stage: [2, 1]
   details.date_precision: [2, 1, 3]

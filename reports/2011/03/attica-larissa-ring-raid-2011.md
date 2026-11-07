@@ -20,6 +20,7 @@ figures:
   kg_seized: 1820
 created_by_model: meta/muse-spark
 details:
+  agencies: [us-dea]
   activity: [sale]
   agency_types: [police]
   case_stage: investigation
@@ -27,8 +28,10 @@ details:
   products: [{product: flower, kg: 1820}]
   route: {from: [gr], to: [gb]}
   setting: [vehicle, home, building]
+
 data_sources:
   details.activity: [1]
+  details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

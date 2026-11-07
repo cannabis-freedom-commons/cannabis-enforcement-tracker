@@ -27,6 +27,7 @@ media:
     caption: Bales of seized hashish stacked in a warehouse, with Spanish, French and Moroccan agency emblems
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agencies: [es-policia-nacional, fr-ofast, ma-dgsn]
   activity: [trafficking]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
@@ -35,8 +36,10 @@ details:
     - {product: hashish}
   route: {from: [ma], to: [fr], crossing: Almería}
   setting: [port, vehicle, home]
+
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

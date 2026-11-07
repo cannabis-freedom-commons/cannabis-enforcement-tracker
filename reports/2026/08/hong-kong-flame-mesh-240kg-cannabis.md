@@ -20,13 +20,16 @@ figures:
   value: { amount: 56000000, currency: HKD }
 created_by_model: openai/gpt-6
 details:
+  agencies: [hk-customs]
   activity: [trafficking]
   agency_types: [customs]
   case_stage: investigation
   products: [{product: flower, kg: 240}]
   setting: [border]
+
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

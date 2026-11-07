@@ -20,13 +20,16 @@ figures:
 tags: [hashish, malaga, dgsn, trafficking]
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agencies: [ma-dgsn]
   agency_types: [police, prosecutor]
   case_stage: investigation
   date_precision: exact
   products:
     - {product: hashish}
   setting: [port, vehicle]
+
 data_sources:
+  details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

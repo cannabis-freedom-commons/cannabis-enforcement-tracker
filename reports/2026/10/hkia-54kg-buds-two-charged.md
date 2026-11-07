@@ -21,14 +21,17 @@ figures:
   arrested: 2
   kg_seized: 5.4
 details:
+  agencies: [hk-customs]
   activity: [trafficking]
   agency_types: [customs]
   case_stage: charged
   date_precision: exact
   products: [{product: flower, kg: 5.4}]
   setting: [airport]
+
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

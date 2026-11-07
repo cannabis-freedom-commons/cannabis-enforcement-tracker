@@ -19,6 +19,7 @@ figures:
   kg_seized: 4000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agencies: [gb-nca]
   activity: [trafficking]
   agency_types: [customs, police]
   case_stage: investigation
@@ -26,8 +27,10 @@ details:
   products:
     - {product: hashish}
   setting: [vehicle]
+
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

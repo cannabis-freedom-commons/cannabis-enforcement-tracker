@@ -19,14 +19,17 @@ figures:
   kg_seized: 8700
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  agencies: [fr-douane]
   activity: [trafficking]
   agency_types: [customs]
   case_stage: investigation
   date_precision: exact
   products: [{product: hashish, kg: 8700}]
   setting: [vehicle]
+
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

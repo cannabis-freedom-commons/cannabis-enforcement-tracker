@@ -18,13 +18,16 @@ figures:
   arrested: 3
   kg_seized: 1485.506
 details:
+  agencies: [fr-douane]
   activity: [trafficking]
   agency_types: [customs, prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 1485.506}]
   setting: [vehicle]
+
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.products: [1, 2]

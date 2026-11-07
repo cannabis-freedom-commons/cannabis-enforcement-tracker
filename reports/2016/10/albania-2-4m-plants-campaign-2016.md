@@ -18,6 +18,7 @@ figures:
   hectares: 219
 created_by_model: meta/muse-spark
 details:
+  agencies: [it-gdf]
   activity: [trafficking, cultivation]
   agency_types: [police, prosecutor]
   case_stage: sentenced
@@ -27,8 +28,10 @@ details:
   sentence_types: [prison]
   route: {from: [al], to: [it, gr, xk, me]}
   setting: [field, prison]
+
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1]

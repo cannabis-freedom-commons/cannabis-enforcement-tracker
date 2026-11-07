@@ -20,13 +20,16 @@ figures:
   charged: 2
   kg_seized: 8.8
 details:
+  agencies: [hk-customs]
   activity: [trafficking, possession]
   agency_types: [customs, anti-narcotics]
   case_stage: charged
   products: [{product: flower, kg: 8.8}]
   setting: [airport]
+
 data_sources:
   details.activity: [1]
+  details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

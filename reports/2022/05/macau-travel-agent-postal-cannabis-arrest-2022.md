@@ -18,14 +18,17 @@ figures:
     amount: 148000
     currency: MOP
 details:
+  agencies: [hk-customs]
   activity: [trafficking]
   agency_types: [customs, police]
   case_stage: charged
   date_precision: exact
   products: [{product: flower, kg: 0.147456}]
   setting: [home, mail]
+
 data_sources:
   details.activity: [7, 4, 2, 5]
+  details.agencies: [1]
   details.agency_types: [1, 2, 3, 6, 4, 5]
   details.case_stage: [7, 4, 2, 5]
   details.date_precision: [1, 2, 3]

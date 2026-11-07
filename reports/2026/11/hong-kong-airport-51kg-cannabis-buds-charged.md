@@ -37,14 +37,17 @@ media:
       Seized suspected cannabis buds displayed by Hong Kong Customs in the airport case. Photo: Hong Kong
       Customs and Excise Department
 details:
+  agencies: [hk-customs]
   activity: [trafficking, possession]
   agency_types: [customs]
   case_stage: charged
   date_precision: exact
   products: [{product: flower, kg: 5.1}]
   setting: [airport]
+
 data_sources:
   details.activity: [2, 8, 9, 11, 12, 13]
+  details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.date_precision: [1, 2, 3, 4, 5, 6]

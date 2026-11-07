@@ -19,14 +19,17 @@ figures:
   kg_seized: 1905.09
 created_by_model: meta/muse-spark
 details:
+  agencies: [us-dea]
   activity: [smuggling]
   agency_types: [military]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 1905.09}]
   setting: [airport, vehicle, home]
+
 data_sources:
   details.activity: [1, 2]
+  details.agencies: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
