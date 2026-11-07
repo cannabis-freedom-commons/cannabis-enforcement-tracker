@@ -65,28 +65,33 @@ sources:
     publisher: Newsicilia
     date: 2026-11-07
     language: it
+  - title: 'Catania. In scooter con oltre 300 grammi di cocaina da tagliare: arrestato 29enne, in casa anche marijuana'
+    url: https://www.libertasicilia.it/catania-in-scooter-con-oltre-300-grammi-di-cocaina-da-tagliare-arrestato-29enne-in-casa-anche-marijuana/
+    publisher: Libertà Sicilia
+    date: 2026-11-07
+    language: it
 open_questions:
   - Neither account gives the day of the scooter check and home search; 7 November 2026 is the publication date of both articles.
   - No street value, plant count or total weight for the seized drugs other than the 78 grams of marijuana is reported.
   - The outcome of the validation hearing, including whether the arrest was confirmed and the curfew order revised, is not yet known.
   - The instant of the arrest is described as a charge of possession for sale; the man has not been tried and is presumed innocent.
+  - The Libertà Sicilia article gives no separate day for the scooter check or the home search; 7 November 2026 is its publication date, as with the two accounts already cited.
 ---
 
 Falchi officers of Catania's mobile squad stopped a 29-year-old resident of
 Misterbianco on his scooter near via Carrubella in Catania after noticing his
-nervous manner. [@1] The man was holding his belt pouch tightly, and when
+nervous manner. [@1,3] The man was holding his belt pouch tightly, and when
 officers asked him to open the bag, he handed over a transparent plastic bag
 holding more than 300 grams of uncut cocaine, rock form. [@1]
 
 Officers then searched his home in Misterbianco, where they found a bag holding
 78 grams of loose marijuana (cannabis flower) in a cupboard in the laundry room.
-[@1] All the drugs were seized, the cocaine amount apart from the 78 grams of
+[@1,3] All the drugs were seized, the cocaine amount apart from the 78 grams of
 marijuana. [@1] The man was arrested for possession of drugs for sale
 (detenzione di sostanze stupefacenti ai fini di spaccio) and, after the duty
-prosecutor was informed, taken to jail to await his validation hearing. [@1]
+prosecutor was informed, taken to jail to await his validation hearing. [@1,3]
 
 The arrest also breached a June order restricting him to living in Misterbianco
 and staying indoors from 8 pm to 8 am, which the police found out before
 reaching his home. [@1] Newsicilia reports the same arrest in the same street
 and gives the same 78 grams of loose marijuana found in the laundry room. [@2]
-
