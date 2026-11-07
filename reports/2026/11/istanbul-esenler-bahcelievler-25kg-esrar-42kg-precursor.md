@@ -60,6 +60,11 @@ sources:
     publisher: Canlı Gaste
     date: 2026-11-07
     language: tr
+  - title: İstanbul'da iki ilçede yapılan operasyonlarda sentetik üretime yetecek ham madde ele geçirildi
+    url: https://www.aksiyon.com.tr/istanbul-da-iki-ilcede-yapilan-operasyonlarda-sentetik-uretime-yetecek-ham-madde-ele-gecirildi-390076
+    publisher: Aksiyon
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports say the raids took place within 24 hours before the 7 November 2026 publication and give no calendar date, so 7 November 2026 is used as an approximate incident date.
   - The weight of esrar found in the vehicle in Esenler and in the home in Bahçelievler is not broken down; only a combined 25 kilos 90 grams is given.
@@ -69,11 +74,13 @@ open_questions:
   - Most outlets reproduced İHA or Anadolu agency copy, so the accounts are not independent reporting.
   - Anadolu copy describes the precursor as enough for 4 tonnes 200 grams of synthetic drug, against 4 tonnes 200 kilograms in the police statement, so the figure used here is the larger one.
   - The submitted page image is a generic placeholder and is not established to show this seizure, so no media entry is added.
+  - Aksiyon described the suspects as to be sent to court after police processing, while the Anadolu copy already cited in the report said they had been sent; the report keeps both accounts.
+  - Aksiyon's wording of the synthetic potential differed between its summary and body (4 tonnes 200 kilograms against 4 tonnes 200 grams), a discrepancy already recorded in the report.
 ---
 
 Istanbul police narcotics officers detained two suspects in two separate
 operations in the Esenler and Bahçelievler districts of Istanbul within 24
-hours. [@1] Officers searched a vehicle in Esenler and a home in Bahçelievler.
+hours. [@1,5] Officers searched a vehicle in Esenler and a home in Bahçelievler.
 [@1]
 
 The searches found 25 kilos 90 grams of esrar, the Turkish name for cannabis.
@@ -85,10 +92,9 @@ the material was stopped before it could be used for production. [@1]
 Istanbul police said they ran the two operations to stop drug production and
 trade, block street sales and catch those involved. [@1] Police opened
 proceedings against the two suspects for manufacturing and trading narcotic or
-stimulant substances. [@2] The state news agency Anadolu reported that both
+stimulant substances. [@2,5] The state news agency Anadolu reported that both
 suspects were sent to court after processing at the police station. [@3]
 
 Canlı Gaste, carrying the Anadolu copy, reported that officers seized the 42
 kilograms of chemical and the 25 kilos 90 grams of esrar in searches of the
 vehicle and the house. [@4]
-
