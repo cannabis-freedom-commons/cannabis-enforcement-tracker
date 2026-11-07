@@ -60,6 +60,11 @@ sources:
     publisher: Caserta Web
     date: 2026-11-06
     language: it
+  - title: 'CASERTA - Hashish abbandonato nei pressi della Reggia: scatta il sequestro'
+    url: https://www.casertafocus.net/home/index.php?Itemid=155&catid=33&id=78903&option=com_content&view=article
+    publisher: CasertaFocus
+    date: 2026-11-06
+    language: it
 open_questions:
   - The sources give no date for the incident; 6 November 2026 is the publication date of the Questura and of the local outlets and is used as the incident date.
   - The outlets attribute the 43 grams to the packages recovered after the two ran, but the accounts do not say whether the youth who was stopped carried any of the hashish.
@@ -69,19 +74,20 @@ open_questions:
   - Other local outlets listed the same story under headlines naming one youth stopped and two on the run, but their pages were not opened, so they are not cited.
   - The Questura page and CasertaCE show only a generic police logo image (file name upg.jpg), not a photograph of the scene or the seized hashish, so no media entries are recorded.
   - 'Caserta, fuggono vicino alla Reggia e abbandonano hashish: sequestrati 43 grammi (Pupia.tv) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
+  - The CasertaFocus page reports the seizure through the same police account as the Questura di Caserta statement already cited, so it is not independent reporting.
 ---
 
 Soldiers of the Italian army's Campania grouping on patrol near the Reggia di
 Caserta, the former royal palace in the city, alerted police after seeing three
-young people moving around suspiciously. [@1,4] Two of the three ran off when the
+young people moving around suspiciously. [@1,4,5] Two of the three ran off when the
 soldiers approached, leaving behind several packages, and the third was stopped.
-[@1,4] The patrol was part of Strade Sicure, the standing Italian security
+[@1,4,5] The patrol was part of Strade Sicure, the standing Italian security
 operation in which troops back up police in city surveillance tasks. [@2]
 
 A squad from the Questura di Caserta, the city's police headquarters, collected
-the packages and took the youth to police offices for checks. [@1,4] The checks
+the packages and took the youth to police offices for checks. [@1,4,5] The checks
 confirmed the packages held hashish weighing 43 grams in total, and police
-seized it. [@1,4] Pupia.tv, which reproduced the same account, reported that the
+seized it. [@1,4,5] Pupia.tv, which reproduced the same account, reported that the
 packages left by the two who fled contained the whole 43 grams. [@2]
 
 CasertaCE carried the police statement under its own headline, adding that one
