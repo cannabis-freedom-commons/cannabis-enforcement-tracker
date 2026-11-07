@@ -1,0 +1,93 @@
+---
+code: MWSCDG
+added_at: "2026-11-07T12:51:30.307125Z"
+date: 2026-11-07
+country: in
+place: Annojiguda, Ghatkesar mandal, Medchal-Malkajgiri district, Telangana
+coordinates: [17.4506, 78.6389]
+precision: locality
+type: arrest
+also: [seizure]
+title: Two arrested as Hyderabad SOT police seize 60 kg of ganja headed for Mumbai
+summary: >-
+  Officers from Hyderabad's LB Nagar Special Operations Team and the Pocharam IT Corridor police station arrested two men who were carrying 60 kilograms of ganja in a car through Annojiguda, near Ghatkesar. Police said the consignment came from Odisha and was meant for a receiver in Mumbai's Dharavi, and they valued it at about 30 lakh rupees.
+figures:
+  arrested: 2
+  sites: 1
+  kg_seized: 60
+  value:
+    amount: 3000000
+    currency: INR
+details:
+  agencies: [Pocharam IT Corridor police station, 'Special Operations Team, LB Nagar zone']
+  agency_types: [police, anti-narcotics]
+  products:
+    - {product: flower, kg: 60}
+  activity: [trafficking, possession]
+  setting: [street]
+  case_stage: investigation
+  force: [none-reported]
+  date_precision: exact
+  region: Telangana
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.force: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+  figures.sites: [1]
+  figures.value: [1]
+media:
+  - kind: photo
+    url: https://www.hmtvlive.com/telugu-news/hyderabad/hyderabad-sot-police-seize-60-kg-ganja-en-route-to-mumbai-210301
+    media_url: https://assets.hmtvlive.com/h-upload/2026/11/07/485788-lb-nagar-60-.webp
+    publisher: HMTV
+    caption: Picture published with the HMTV report on the Ghatkesar vehicle check and the 60 kg ganja seizure; the caption reads only "Lb nagar" and names no credit.
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 7b790120f2ce39a6846bfa6dcc8a63c0
+tags: [telangana, hyderabad, ganja, vehicle-check, odisha-to-mumbai]
+sources:
+  - title: 'Lb nagar: ఒడిశా టు ముంబై గంజాయి రవాణా 60 కేజీల గంజాయి స్వాధీనం'
+    url: https://www.hmtvlive.com/telugu-news/hyderabad/hyderabad-sot-police-seize-60-kg-ganja-en-route-to-mumbai-210301
+    publisher: HMTV
+    date: 2026-11-07
+    language: te
+open_questions:
+  - Only one account of the check could be opened; no police statement or second outlet reporting this same seizure was found.
+  - The 60 kilograms is given as a round figure for 60 packets, with no exact weighed total.
+  - The article names the two arrested men and the two absconding men but gives no charges by NDPS section.
+  - No remand, charge sheet or court outcome is reported for the two arrested men.
+  - The photograph published with the report carries only the caption "Lb nagar" and no credit, and it cannot be confirmed exactly what scene it shows.
+  - The article refers to both the Malkajgiri police commissioner and LB Nagar zone officers; the commissionerate where the case was registered is not stated.
+---
+
+Police in the LB Nagar zone of Hyderabad arrested two men and seized 60
+kilograms of ganja from a car near a spice (masala) company on the edge of
+Annojiguda village in Ghatkesar mandal on 7 November 2026. [@1] Officers from
+the Special Operations Team (SOT) of the LB Nagar zone and the Pocharam IT
+Corridor police station stopped the Maruti Suzuki SX4 at about 11.30 am and
+found 60 packets of ganja hidden behind the back seat. [@1] Police said the
+ganja was being carried from Odisha through Hyderabad to Mumbai and was worth
+about 3 million rupees. [@1]
+
+LB Nagar zone Deputy Commissioner of Police Anuradha said the check followed a
+tip-off and was carried out on the orders of police commissioner B. Sumathi.
+[@1] Questioning showed the two had bought the ganja in Odisha from Purnachandra
+Mahapatra, alias Happy, to supply to Yasmin Chand Sayyad, alias Chand Bhai, who
+runs a Dharavi, Mumbai, shop; both were still at large. [@1] Police said the
+pair planned to buy the ganja at about 7,000 rupees a kilogram and sell it at
+15,000 rupees a kilogram, and that they had taken consignments from the same
+supplier twice before. [@1] The two suspects had earlier NDPS Act cases
+registered against them, five for the main suspect and four for the other, and
+the main suspect had twice been detained under the Preventive Detention (PD)
+Act. [@1]
+
+Officers seized the car used to move the ganja and two mobile phones, and said
+special teams were searching for the Odisha supplier and the Mumbai receiver.
+[@1]
+
