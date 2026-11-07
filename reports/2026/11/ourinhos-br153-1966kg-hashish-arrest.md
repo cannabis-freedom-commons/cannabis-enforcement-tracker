@@ -51,6 +51,11 @@ sources:
     publisher: Passando a Régua
     date: 2026-11-06
     language: pt
+  - title: Motorista de aplicativo é preso com quase 20 kg de haxixe em Ourinhos
+    url: https://marilianoticia.com.br/policia/motorista-de-aplicativo-e-preso-com-quase-20-kg-de-haxixe-em-ourinhos/
+    publisher: Marília Notícia
+    date: 2026-11-07
+    language: pt
 open_questions:
   - Only one accessible source for this seizure was found; searches in Portuguese returned no PRF statement or other outlet to corroborate it.
   - The report names no charge; the driver was taken to the Civil Police station, and the investigation stage is used because no charge was reported.
@@ -58,23 +63,23 @@ open_questions:
   - The driver's identity, the destination of the load and the outcome of the civil warrant were not reported.
   - 'The article''s own page caption credits the single photo only as ''Foto: Reprodução'' and does not say what it depicts, so it is linked rather than treated as a photograph of the seized car.'
   - The article gives no date for the warrant's issue or for the loading in Foz do Iguaçu, and does not say whether the load crossed the border or was loaded in the city.
+  - The submitted page and Passando a Régua both reproduce the same PRF account without naming a PRF statement or officer, so they are not independent reporting of the arrest.
 ---
 
 Federal Highway Police officers stopped a 30-year-old app driver at kilometre
 338 of the BR-153 in Ourinhos, São Paulo state, at about 11:30 on Friday 6
-November 2026. [@1] A check of police systems showed an open civil arrest
-warrant against him. [@1]
+November 2026. [@1,2] A check of police systems showed an open civil arrest
+warrant against him. [@1,2]
 
 The officers took the driver and the car to a nearby PRF base because the
 motorway shoulder was unsafe, and there, during a search, they found 38
 invólucros of hashish hidden in the car doors and air ducts of the Fiat Mobi,
-totalizando 19,66 quilos da droga. [@1] The man was arrested and taken with the
+totalizando 19,66 quilos da droga. [@1,2] The man was arrested and taken with the
 car, a mobile phone and the hashish to the Civil Police station in Ourinhos.
-[@1]
+[@1,2]
 
 He told officers he accepted the job of carrying the drug because of financial
 difficulties, and said the car and its key were loaded for him at a fuel station
 in Foz do Iguaçu, Paraná, without his knowing who sent or would receive the
 load. [@1] The case was handed to the Civil Police, which is to investigate
 where the drug came from and where it was going. [@1]
-
