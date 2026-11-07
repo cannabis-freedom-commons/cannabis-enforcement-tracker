@@ -76,6 +76,11 @@ sources:
     publisher: Disha Daily (దిశ)
     date: 2026-11-07
     language: te
+  - title: ఒడిశా నుంచి ముంబైకి గంజాయి స్మగ్లింగ్.. హైదరాబాద్‌లో రూ.30 లక్షల సరుకు పట్టివేత!
+    url: https://www.dishadaily.com/telangana/hyderabad/cannabis-smuggled-from-odisha-to-mumbai-consignment-worth-rs-30-lakh-seized-in-hyderabad-599413
+    publisher: Disha Daily (దిశ)
+    date: 2026-11-07
+    language: te
 open_questions:
   - Only one account of the check could be opened; no police statement or second outlet reporting this same seizure was found.
   - The 60 kilograms is given as a round figure for 60 packets, with no exact weighed total.
@@ -93,16 +98,20 @@ open_questions:
   - Left out value, as its only supporting source is not cited by the report's text.
   - The article gives no NDPS section, remand date or court outcome for the two arrested men.
   - Disha Daily does not say whether the Odisha supplier or the Mumbai receiver has since been arrested.
+  - Disha Daily gives a round value of about Rs 30 lakh for the consignment and does not report an exact weighed total beyond the 60 kilograms.
+  - The article quotes LB Nagar zone DCP Anuradha at a press conference but gives no NDPS section, remand date or court outcome for the two arrested men.
+  - Disha Daily says Imran Uddin faces murder, robbery and several NDPS cases, which differs from the other accounts' count of earlier NDPS cases for the second accused; the existing report keeps the earlier wording.
+  - The article does not say whether the Odisha supplier or the Mumbai receiver has since been arrested.
 ---
 
 Police in the LB Nagar zone of Hyderabad arrested two men and seized 60
 kilograms of ganja from a car near a spice (masala) company on the edge of
-Annojiguda village in Ghatkesar mandal on 7 November 2026. [@1,2] Officers from
+Annojiguda village in Ghatkesar mandal on 7 November 2026. [@1,2,5] Officers from
 the Special Operations Team (SOT) of the LB Nagar zone and the Pocharam IT
 Corridor police station stopped the Maruti Suzuki SX4 at about 11.30 am and
 found 60 packets of ganja hidden behind the back seat. [@1,4] Police said the
 ganja was being carried from Odisha through Hyderabad to Mumbai and was worth
-about 3 million rupees. [@1,4]
+about 3 million rupees. [@1,4,5]
 
 LB Nagar zone Deputy Commissioner of Police Anuradha said the check followed a
 tip-off and was carried out on the orders of police commissioner B. Sumathi.
@@ -123,3 +132,5 @@ special teams were searching for the Odisha supplier and the Mumbai receiver.
 The Hindu reported that Mohammed Amer, 28, lives in Hafeez Baba Nagar, Bandlaguda, and Mohd Imran Uddin, 35, in Toor Colony, Chandrayangutta. [@3] Police said Amer had been involved in five NDPS Act cases and detained under the Preventive Detention Act twice, while Imran Uddin had four earlier cases, two of them under the NDPS Act. [@3] Police said they were investigating to trace the supplier and the intended receiver and to identify others in the interstate network. [@3]
 
 Disha Daily reported that the check was carried out on the outskirts of Annojiguda, near a masala (spice) company, in Ghatkesar. [@4]
+
+The two suspected sellers, both from Chandrayangutta, admitted during questioning that they hid the ganja under the rear seat of the car to move it through Hyderabad. [@5]
