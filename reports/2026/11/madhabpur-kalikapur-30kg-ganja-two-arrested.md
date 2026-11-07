@@ -39,6 +39,11 @@ media:
     media_url: https://www.fns24.com/storage/2026/november/05/news/fair-news-service_6aec4a5ac608c-1793870426.jpg
     publisher: Fair News Service (FNS)
     caption: 'Photo published with the Madhabpur arrest report of the two men held with 30 kg of cannabis. Photo: Fair News Service (FNS)'
+  - kind: photo
+    url: https://www.habiganjexpress.com/news/1932
+    media_url: https://www.habiganjexpress.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-10.56.33-PM-700x390.jpeg
+    publisher: Habiganj Express
+    caption: Photo published with the report of the two men arrested with 30 kg of ganja in Madhabpur; the page gives no caption or credit, and the file name suggests an image supplied by WhatsApp with the report.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 99845826bfbbb5b0393dc7f7c9a9b912
@@ -49,17 +54,25 @@ sources:
     publisher: Fair News Service (FNS)
     date: 2026-11-05
     language: bn
+  - title: মাধবপুরে এসআরবির অভিযান ৩০ কেজি গাঁজাসহ গ্রেপ্তার ২
+    url: https://www.habiganjexpress.com/news/1932
+    publisher: Habiganj Express
+    date: 2026-11-06
+    language: bn
 open_questions:
   - The operation is described as occurring in the early hours of Thursday; 5 November 2026, the publication date, is used as the incident date.
   - The account does not state whether a formal case was filed, what charges were brought or whether the men appeared in court.
   - Only one accessible account of this incident was found; no separate RAB-9 statement or second report could be opened.
   - Coordinates are for Madhabpur Upazila rather than the exact spot beside the paint factory gate.
+  - The Habiganj Express account is the only opened source stating that a formal case was filed and that the covered van was seized.
+  - The article does not say what quantity was carried beyond 30 kg of ganja, nor whether the two men were produced before a court.
+  - The page's only photo carries no caption or credit beyond a WhatsApp-style file name, so its content is not established in detail.
 ---
 
 RAB-9 arrested two men it described as drug traders in a raid on a covered van
 at Kalikapur village, Madhabpur Upazila, Habiganj, in the early hours of
 Thursday. [@1] The covered van was on the Dhaka–Sylhet highway, beside the main
-gate of Kansai Nerolac Paints (Bangladesh) Limited. [@1] The operation followed
+gate of Kansai Nerolac Paints (Bangladesh) Limited. [@1,2] The operation followed
 confidential information and was conducted by an operational team from RAB-9's
 CPC-3 at its Shayestaganj camp. [@1]
 
@@ -73,3 +86,4 @@ RAB-9 said officers recovered the cannabis after the two men made their
 confessions to the team. [@1] The seized cannabis weighed 30 kilograms and was
 wrapped in blue polythene. [@1]
 
+A formal case was filed against the two arrested men under the Narcotics Control Act, and they and the seized evidence were then handed over to Madhabpur police station. [@2] RAB-9 also seized the covered van the men used to transport the drugs. [@2] RAB-9 additional superintendent of police and media officer K.M. Shahidul Islam Sohag said the force's operations against drugs would continue under a zero-tolerance policy. [@2]
