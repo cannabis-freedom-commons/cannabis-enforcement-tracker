@@ -64,6 +64,11 @@ sources:
     publisher: Mathrubhumi
     date: 2026-11-07
     language: ml
+  - title: കൂട്ടുപുഴയിൽ സിനിമാക്കാഴ്ചകൾക്ക് സമാനമായ രക്ഷപ്പെടൽ ശ്രമം
+    url: https://newsthen.com/2026/11/07/305837.html
+    publisher: Newsthen
+    date: 2026-11-07
+    language: ml
 open_questions:
   - Neither account gives a calendar date for the event beyond 'today'; 7 November 2026 is the publication date of both and is used as the incident date.
   - Only Mathrubhumi gives a ganja weight, 10 grams; the submitted TrueVision page says only that ganja was found.
@@ -71,11 +76,12 @@ open_questions:
   - No excise case number, charge or court outcome was reported; the accounts end with the detention and search.
   - The two sources differ on the man's home village, Kannur 'Thayyil' against Kannur 'Markkarkkandi', and the page wording uses both naming forms of the place.
   - 'Left out, as its quotation was not found in Mathrubhumi: Police suspect he also carried MDMA, which may have fallen into the river, and say he had earlier cases at Valapattanam police station in Kannur district.'
+  - The earlier cases at Valapattanam police station are described only as information, with no case numbers, dates or outcomes.
 ---
 
 Excise officers inspecting vehicles at the Koottupuzha check post in Kannur
 district stopped a bus and a young man got off and jumped into the river below.
-[@1] The bus was travelling from Virajpet to Kannur and was being checked at
+[@1,3] The bus was travelling from Virajpet to Kannur and was being checked at
 about 11 a.m. [@2]
 
 He left his bag and slippers on the bridge, swam to the far bank, then climbed
@@ -92,3 +98,4 @@ A search found 10 grams of ganja on him, which officers seized. [@2] Mathrubhumi
 gives the man's home as Markkarkkandi in Kannur, while the submitted page says
 Thayyil. [@2]
 
+The man's home is given as Markkarkkandi in Kannur. [@3] He was said to have earlier cases at Valapattanam police station. [@3]
