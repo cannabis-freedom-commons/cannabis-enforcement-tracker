@@ -42,6 +42,11 @@ media:
     media_url: https://images.hoy.cr/cdn-cgi/image/width=1200,quality=80,format=auto/wp-content/uploads/2026/11/decomiso-droga-7.jpeg
     publisher: CR Hoy
     caption: 'Photo captioned "Decomiso de municiones" (ammunition seizure) showing the rounds seized with the firearm and magazine. Photo: Public Security Ministry handout via CR Hoy'
+  - kind: photo
+    url: https://www.diarioextra.com/noticia/pcd-decomisa-100-paquetes-de-marihuana-tras-persecucion-3-detenidos/
+    media_url: https://gxtra-cr-dxtra.cdn.mediatiquepress.com/wp-content/uploads/2026/11/Allanamientos-en-Alajuela5-800x450.jpeg
+    publisher: Diario Extra
+    caption: 'Photo captioned "Allanamientos en Alajuela" (raids in Alajuela), showing police activity linked to the case. Photo: Roger Soto, Diario Extra correspondent.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ed9a827454f218fd8074aa5a254a474c
@@ -61,6 +66,11 @@ sources:
     publisher: Central Noticias (Gente OPA)
     date: 2026-11-06
     language: es
+  - title: 'PCD decomisa 100 paquetes de marihuana tras persecución: 3 detenidos'
+    url: https://www.diarioextra.com/noticia/pcd-decomisa-100-paquetes-de-marihuana-tras-persecucion-3-detenidos/
+    publisher: Diario Extra
+    date: 2026-11-07
+    language: es
 open_questions:
   - Only the publication date is established from the captured text, so 6 November 2026 stands in as the incident date; the article body dates the chase to the night of 4 November and a house search to 5 November.
   - No weight for the 100 packages was retained, so no cannabis kilograms are recorded; the article body gives about 565 grams per package, about 56.5 kg in total, plus 340 further grams.
@@ -71,20 +81,26 @@ open_questions:
   - 'The two accounts differ on the weight total: CR Hoy gives 56.5 kg for the 100 packages, Central Noticias says the total exceeds 56 kg.'
   - No Public Security Ministry statement could be opened; all accounts reproduce official police information.
   - No charges, measures of restraint or court outcome were published; the detainees were only sent to the Public Prosecutor's Office.
+  - Diario Extra dates the chase to the night of Wednesday 4 November 2026 and the house inspection to Thursday 5 November, while the report's incident date of 6 November 2026 is the publication date of its other accounts.
+  - Diario Extra publishes no total weight for the seizure, only about 565 grams per package plus 340 grams in bags; the report's open questions already note that no total kilograms are recorded.
+  - No charge, measure of restraint or court outcome appears; only that the three were sent to the Public Prosecutor's Office.
+  - The article credits five photos to the Ministry of Public Security (MSP) and one to a correspondent for the house raids, but captions do not establish which specific items each shows.
 ---
 
 A police chase in Alajuela ended with three people detained and the seizure of
 100 packages of marijuana. [@1] A driver who disobeyed a stop order set off the
-police operation, the article's summary line says. [@1] The operation allowed
+police operation, the article's summary line says. [@1,4] The operation allowed
 officers to locate drugs, a firearm and ammunition in a house, according to the
 article's summary line. [@1]
 
 The Fuerza Pública, Costa Rica's national police, and the Drug Control Police
-(PCD) seized the 100 packages of marijuana. [@1] The same operation also
+(PCD) seized the 100 packages of marijuana. [@1,4] The same operation also
 produced 340 additional grams of drug, a firearm, a magazine and 26 rounds of
-ammunition. [@1] The operation took place in San Rafael de Alajuela. [@1]
+ammunition. [@1,4] The operation took place in San Rafael de Alajuela. [@1]
 
 The account came from the Public Security Ministry, which the newspaper credited
 as the source of the published picture. [@1]
 
-The 100 packages weighed about 565 grams each, about 56.5 kg in all, and the three people, stopped by officers of the Fuerza Pública's Operational Support Group (GAO), were sent to the Public Prosecutor's Office to have their legal situation decided. [@2] The three detainees had earlier judicial records, including for drug transport, illegal weapons, robbery and aggravated robbery. [@2] Central Noticias, a second outlet, reported the same operation and put the marijuana total at more than 56 kg, with the 100 packages averaging 565 grams each plus 340 additional grams in bags. [@3]
+The 100 packages weighed about 565 grams each, about 56.5 kg in all, and the three people, stopped by officers of the Fuerza Pública's Operational Support Group (GAO), were sent to the Public Prosecutor's Office to have their legal situation decided. [@2,4] The three detainees had earlier judicial records, including for drug transport, illegal weapons, robbery and aggravated robbery. [@2] Central Noticias, a second outlet, reported the same operation and put the marijuana total at more than 56 kg, with the 100 packages averaging 565 grams each plus 340 additional grams in bags. [@3]
+
+Authorities coordinated with the Public Prosecutor's Office to carry out proceedings at a house linked to the case, and the inspection took place on Thursday. [@4] The detainees were two men surnamed Zimmermann and Olivas and a woman surnamed Araya; police records show Zimmermann for drug transport and carrying a permitted weapon illegally, Olivas for robbery and aggravated robbery, and Araya for robbery, resisting arrest and aggravated robbery. [@4]
