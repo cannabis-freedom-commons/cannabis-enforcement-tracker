@@ -84,6 +84,11 @@ sources:
     publisher: مبتدا
     date: 2026-11-07
     language: ar
+  - title: ضبط شخصين لترويجهما لبيع المخدرات عبر «فيسبوك» بالفيوم
+    url: https://www.almasryalyoum.com/news/details/4403639
+    publisher: المصري اليوم
+    date: 2026-11-07
+    language: ar
 open_questions:
   - No weight, value or packet count was published for the hashish found on either man, so no cannabis quantity can be recorded.
   - The article gives no date for the arrests; 7 November 2026 is its publication date and is used as the incident date.
@@ -122,3 +127,5 @@ hashish with intent to traffic it. [@1,2,3,4,5] Police took the required legal m
 against both men and notified the competent investigation authorities. [@1,2,5]
 
 The second man was arrested after legal procedures were completed, according to Mobtada's account of the ministry statement. [@6]
+
+بالفحص، أمكن تحديد وضبط القائم على إدارة الصفحة، وتبين أنه عامل مقيم بدائرة مركز شرطة الفيوم، وعُثر بحوزته على كمية من مخدر الحشيش وهاتف محمول. [@7]
