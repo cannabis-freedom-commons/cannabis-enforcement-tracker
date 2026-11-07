@@ -60,6 +60,11 @@ sources:
     publisher: News7 Tamil
     date: 2026-11-07
     language: ta
+  - title: காவல் துறையா கஞ்சா வைப்பு துறையா? தி.மு.க., கடும் விமர்சனம்
+    url: https://www.dinamalar.com/news/tamil-nadu-news/police-or-cannabis-deposit-department/4370522
+    publisher: Dinamalar
+    date: 2026-11-07
+    language: ta
 open_questions:
   - The Hindu gives no separate date for the placement of the packet or the five arrests; 5 November 2026 is used, taken from The Times of India, which says the packet was planted on 5 November, and from Dinamalar, which dates it to 5 November.
   - No weight, quantity or value of the ganja was published, so no cannabis weight is recorded.
@@ -78,6 +83,8 @@ open_questions:
   - The DMK post also refers to an unrelated alleged 1,000-crore meth-trafficking case against a TVK functionary, which is not part of this cannabis event and is left out.
   - The DMK post gives no date for the raid, the packet's weight or the number of people arrested, so nothing is added to the report's figures.
   - The page gives no police response to the DMK's allegations and no outcome of any departmental or criminal action against the officers.
+  - 'Left out, as its quotation was not found in Tamil Oneindia: Rajkumar, the trader, said two men came to his shop posing as customers on the morning after a road blockade, one of them dropping a packet in the drain outside, and that a car with two plainclothes officers arrived about ten minutes later.'
+  - 'Left out, as its quotation was not found in Tamil Oneindia: Rajkumar said he believed the bar owner acted with police connivance because of his campaign, and that he had given CCTV footage and a complaint at the Sivaganga superintendent of police''s office.'
 ---
 
 Five people were arrested near Tiruppattur for allegedly planting a packet of
@@ -115,4 +122,6 @@ further investigation was under way, and denied that police were involved. [@2]
 
 Arappor Iyakkam, an anti-corruption group that filed the statement, demanded that the police officers responsible be immediately charged with ganja trafficking and jailed. [@4] The group said Rajkumar escaped only because the shop had CCTV, and that otherwise he would have spent several years in prison. [@4] The group said the case raises the question of how many prisoners are in genuine ganja cases and how many have been pushed into false ones like this. [@4] Arappor Iyakkam said that transferring or suspending the officer would signal that police ganja trafficking is routine, and demanded an inquiry into a bribe the officer took from the bar operator. [@4]
 
-The DMK party said it stands firmly with the trader harmed by police planting ganja at his shop over his campaign against a TASMAC outlet, and demanded that the officers involved face departmental action and a criminal case. [@5,6] In a post on X on 7 November 2026, the DMK demanded that Chief Minister Vijay apologise to the trader affected by the planting. [@5,6]
+The DMK party said it stands firmly with the trader harmed by police planting ganja at his shop over his campaign against a TASMAC outlet, and demanded that the officers involved face departmental action and a criminal case. [@5,6,7] In a post on X on 7 November 2026, the DMK demanded that Chief Minister Vijay apologise to the trader affected by the planting. [@5,6,7]
+
+The DMK's head office said the police, which it said once hunted cannabis sellers, had become a department that stores cannabis, and said the force was used against the trader who campaigned against a TASMAC outlet instead of against a TVK functionary it accuses of trafficking 1,000 crore rupees of methamphetamine, while the Chief Minister tells students that drugs are fun. [@7] The Hindu reported that officers from the Sivaganga prohibition enforcement wing recovered the packet from a nearby drainage ditch, and that it held ganja and gutka, a chewing tobacco. [@1] The Hindu reported that villagers had petitioned repeatedly against the liquor shop and its attached bar, blockaded the road on November 4 demanding its closure, and were then promised by officials that it would be relocated within ten days. [@1]
