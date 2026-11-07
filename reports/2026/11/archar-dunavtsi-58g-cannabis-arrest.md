@@ -64,6 +64,16 @@ sources:
     publisher: БТА
     date: 2026-11-06
     language: bg
+  - title: Спряха кола край Арчар и откриха марихуана в купето, шофьорът е задържан
+    url: https://www.konkurent.bg/news/17939655472090/spryaha-kola-kray-archar-i-otkriha-marihuana-v-kupeto-shoforat-e-zadarzhan
+    publisher: Konkurent.bg
+    date: 2026-11-06
+    language: bg
+  - title: Удар на полицията! Закопчаха дилър във Видинско, иззеха голямо количество дрога
+    url: https://www.bulnews.bg/article/521218
+    publisher: BulNews
+    date: 2026-11-06
+    language: bg
 open_questions:
   - The report gives no court date, charge sheet or outcome beyond the opening of a pre-trial investigation.
   - Neither account says whether the 58.15 grams were intended for the man's own use or for sale.
@@ -76,19 +86,22 @@ open_questions:
   - 'Left out, as its quotation was not found in Българско национално радио, Радио Видин: Shortly after 17:20 on 5 November 2026, officers stopped a car for a check near the village of Archar.'
   - BTA gives the detention time as about 17:20 but says only "yesterday" (вчера), while its publication date is 6 November 2026, which is consistent with the 5 November date in the report.
   - The BTA page picture is captioned only with the roundup headline and is credited to the BTA Vidin correspondent's archive, so it is not established to show this seizure and is not linked.
+  - Neither new account adds a court date, charge sheet or outcome beyond the pre-trial investigation.
+  - Bulnews headlined the case as the arrest of a dealer, but like the other accounts gives no evidence of sale, and the material is described only as possession.
+  - The Bulnews page picture is marked illustrative, and the Konkurent page picture carries only the headline as a caption, so neither is established to show this seizure.
 ---
 
 Police in Vidin Province detained a 24-year-old man from the town of Dunavtsi on
-suspicion of drug possession. [@1,4] A search of the car's interior found a
-plastic bag of dry green leafy material weighing 58.15 grams. [@1,4] The driver
-was taken into custody at the Vidin regional police station. [@1,4]
+suspicion of drug possession. [@1,4,5,6] A search of the car's interior found a
+plastic bag of dry green leafy material weighing 58.15 grams. [@1,4,5] The driver
+was taken into custody at the Vidin regional police station. [@1,4,5]
 
 A field drug test showed the material was cannabis. [@1,4] Radio Vidin published
 the Vidin regional police directorate's own statement, which puts the detention
 on the previous day. [@2]
 
 A pre-trial investigation was opened for an offence under article 354a,
-paragraph 3, of the Criminal Code, which covers drug offences. [@1,4] Radio Vidin
+paragraph 3, of the Criminal Code, which covers drug offences. [@1,4,5] Radio Vidin
 reported that work on the case was continuing within the pre-trial
 investigation. [@2]
 
