@@ -96,6 +96,11 @@ sources:
     url: https://3news.com/news/crime/navy-intercepts-suspected-cannabis-ada-estuary
     publisher: 3News
     date: 2026-11-06
+  - title: Narcotics Control Commission destroys drugs worth $10.3 million
+    url: https://www.modernghana.com/news/1542335/narcotics-control-commission-destroys-drugs-worth.html
+    publisher: Modern Ghana
+    date: 2026-11-05
+    language: en
 open_questions:
   - The article gives no separate date for the destruction; 5 November 2026, its publication date, is used as the incident date.
   - No arrests, charges or court outcomes connected with this destruction were reported.
@@ -109,16 +114,21 @@ open_questions:
   - Citinewsroom gives no separate date for the destruction; its 5 November 2026 publication date is the only date the source provides.
   - The article states the codeine cough mixture and opioid values only as running text, so they are left out of this corroboration.
   - The Citinewsroom page image has no caption or credit, so it is not established to show the destruction itself.
+  - Modern Ghana, reprinting a Ghana News Agency story, puts the codeine-based cough mixture at 3,308 bottles, while the report records 338,000 bottles from other outlets.
+  - Modern Ghana gives the overall value as approximately US$10.3 million, against the US$10,250,503 total the report records.
+  - Modern Ghana's 564.39 kg figure is described as “cannabis and related products” without a separate cannabis street value or a location where the substances were seized.
+  - The Modern Ghana page photo carries only the headline as its caption and no credit, so it is not established to show this destruction.
+  - The page is dated 5 November 2026 and gives no other date for the destruction.
 ---
 
 The Narcotics Control Commission (NACOC) destroyed seized narcotic drugs at
 Bundase in an exercise with an estimated street value of more than US$10
-million. [@1,2,3,5,6,8,9] The destroyed stock included 564.39 kilograms of cannabis, valued
-at US$112,878. [@1,2,3,5,6,7,8] The same destruction included 4,730,100 capsules and tablets
+million. [@1,2,3,5,6,8,9,10] The destroyed stock included 564.39 kilograms of cannabis, valued
+at US$112,878. [@1,2,3,5,6,7,8,10] The same destruction included 4,730,100 capsules and tablets
 of synthetic opioids, estimated at US$5,912,625, and 338,000 bottles of
 codeine-infused cough mixture, valued at US$4,225,000. [@1,2,5,6] The Ghana Standards
 Authority verified the authenticity of the seized substances before destruction,
-and tests confirmed cannabis in the samples. [@1,4,5,6,8]
+and tests confirmed cannabis in the samples. [@1,4,5,6,8,10]
 
 After the exercise, NACOC Director-General Major General Maxwell Obuba Mantey
 spoke to the media. [@1] Mantey said the Commission remained committed to
@@ -127,8 +137,8 @@ fighting narcotics despite a recent drug seizure in Lebanon linked to Ghana.
 in its mandate and that it would continue efforts against drug trafficking
 despite the challenges. [@1,5] Mantey reaffirmed the Commission's resolve to
 intensify efforts to tackle the narcotics trade. [@1,5] He said NACOC would not
-give up in the face of challenges. [@1] He said the commission would pursue
-traffickers wherever they were and believed it would win the fight. [@1]
+give up in the face of challenges. [@1,10] He said the commission would pursue
+traffickers wherever they were and believed it would win the fight. [@1,10]
 
 The seized drugs had been cleared for destruction through court orders. [@3,7] The destruction took place at the Bundase Infantry Training School in the Greater Accra Region on 5 November 2026. [@3,7,9] NACOC put the combined value of the three categories at US$10,250,503. [@3,7]
 
@@ -137,3 +147,5 @@ Mantey said the Lebanon incident should not be viewed as evidence of institution
 The drugs destroyed had been confiscated during NACOC's anti-drug operations. [@6]
 
 Mantey urged the public to report suspicious activity to the Commission and said its doors were open to anyone with information on drug trafficking. [@8]
+
+Mantey said collaborating institutions gave the exercise transparency and accountability in handling the exhibits. [@10] Mantey said some international partners had described Ghana as increasingly becoming a “no-go area” for drug traffickers after recent enforcement successes. [@10] Mantey said NACOC held more than 10 million tramadol tablets awaiting court processes for destruction. [@10] He said details of some operations were withheld because of the sensitivity and complexity of the investigations. [@10]
