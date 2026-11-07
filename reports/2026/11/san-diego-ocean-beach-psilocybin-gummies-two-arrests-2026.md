@@ -53,6 +53,11 @@ sources:
     url: https://www.sandiegouniontribune.com/2026/11/05/arrests-made-after-parents-complain-drug-laced-gummies-left-on-ocean-beach-porch-on-halloween/
     publisher: The San Diego Union-Tribune
     date: 2026-11-05
+  - title: Dzieciom rozdano żelki z narkotykami. Co ukrywali sprawcy? - ESKA.pl
+    url: https://www.eska.pl/news/swiat/zamiast-slodyczy-dostali-psychodeliki-policyjny-szturm-na-dom-po-halloween-aa-z5x7-3jXZ-hh14.html
+    publisher: Radio ESKA
+    date: 2026-11-06
+    language: pl
 open_questions:
   - The search took place on Wednesday 4 November 2026; the reports do not give a time of day for it.
   - The cannabis is described only as more than 2.5 pounds, so the recorded 1.13 kg is an approximate conversion.
@@ -64,23 +69,26 @@ open_questions:
   - The address is given only as the 2100 block of Sunset Cliffs Boulevard, so the coordinates are for that block rather than a specific house.
   - Only a Shutterstock stock image and generic crime-scene photos accompanied the articles, so no photo of this event is linked.
   - No source reports what happened to the arrested men after booking.
+  - This Polish account gives no date for the search and no street address; the recorded 4 November date and Sunset Cliffs Boulevard address come from the police accounts the report already cites.
+  - The Polish page says "several" children received the gummies, while the police accounts already cited put the number at about 15 aged 1 to 6; the report keeps the police figure.
+  - The page picture is a stock Halloween photograph credited to Shutterstock, not a photo of this event, so no media entry is added.
 ---
 
 Two men were arrested and booked into San Diego County Jail after police
 searched a home in the 2100 block of Sunset Cliffs Boulevard in Ocean Beach on
-Wednesday 4 November 2026. [@1] The search followed a report that about 15
+Wednesday 4 November 2026. [@1,4] The search followed a report that about 15
 children aged 1 to 6 picked up psilocybin-infused gummies left on the home's
 porch while trick-or-treating shortly before 6 p.m. on 31 October 2026. [@1]
 Parents noticed the packages, confronted the residents and reported the
 incident, and a saved package tested positive for psilocybin, the hallucinogenic
-compound found in some mushrooms. [@1] Michael Goff, 80, was arrested on
+compound found in some mushrooms. [@1,4] Michael Goff, 80, was arrested on
 suspicion of being a felon in possession of a firearm, and Shawn Michael Foster,
 45, was arrested on suspicion of being a felon in possession of a firearm and
 ammunition. [@1]
 
 Detectives seized more than 2.5 pounds (about 1.13 kg) of cannabis, more than 25
 grams of methamphetamine, a digital scale, drug packaging materials and records
-of suspected drug sales. [@1] Officers also recovered an illegally possessed
+of suspected drug sales. [@1,4] Officers also recovered an illegally possessed
 rifle, dozens of rounds of ammunition and a partially assembled pistol. [@1] NBC
 7 San Diego reported that no charges had been filed in connection with the
 psilocybin gummies. [@2] The Union-Tribune reported that the two men were being
@@ -88,6 +96,7 @@ held in San Diego Central Jail on 50,000 dollars bail. [@3]
 
 San Diego police said a narcotics and child-endangerment investigation was
 continuing, and city code investigators were looking into unpermitted living
-structures on the property. [@1] Police did not say whether any of the children
+structures on the property. [@1,4] Police did not say whether any of the children
 ate the gummies or became ill. [@1]
 
+The account says only that "several" underage children received the packages, while the police statements already cited put the number at about 15 children aged 1 to 6. [@4]
