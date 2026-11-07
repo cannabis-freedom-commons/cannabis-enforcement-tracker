@@ -56,6 +56,11 @@ sources:
     publisher: NewsNow24
     date: 2026-11-06
     language: bn
+  - title: মতলবে মাদকের ১০ মামলার আসামী ‘মেজর ডালিম’সহ আটক ৬
+    url: https://chandpurtimes.com/%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A7%80-2/
+    publisher: চাঁদপুর টাইমস
+    date: 2026-11-06
+    language: bn
 open_questions:
   - The article gives no weight or value for the 30 yaba tablets; they are not part of the cannabis figures.
   - The article does not say what the two men arrested in the Upadhi and Nalua areas were found with, so the 50 grams of ganja is reported only for the two arrested in Badarpur.
@@ -66,11 +71,14 @@ open_questions:
   - The page photo is credited only as collected (সংগৃহীত) and is not confirmed to be an agency handout, so it is linked rather than treated as a cover.
   - The article does not say what the two men arrested in the Upadhi and Nalua areas were found with; the ganja is reported only for the two held in Badarpur.
   - The NewsNow24 account gives no charge sheet or court outcome beyond the six being sent to court on 6 November.
+  - 'The accounts disagree on Major Dalim''s age and case count: Chandpur Times calls him 35 and an accused in 15 cases while its headline says 10, and earlier reports gave him as 30.'
+  - Chandpur Times gives 60 grams of ganja and 30 yaba tablets in total, while the existing report records 50 grams of ganja.
+  - The page photo carries only the alt caption 'মামলার' (case) and no credit, so no media entry is added.
 ---
 
 Police in Matlab Dakshin upazila, Chandpur, arrested six people in separate
 raids, among them a man known as 'Major Dalim' who is an accused in 15 cases.
-[@1,2] Officers recovered 30 yaba tablets and 50 grams of ganja from the arrested
+[@1,2,3] Officers recovered 30 yaba tablets and 50 grams of ganja from the arrested
 people. [@1,2] Police said five of the six were held on suspicion of involvement
 in drug trafficking. [@1]
 
