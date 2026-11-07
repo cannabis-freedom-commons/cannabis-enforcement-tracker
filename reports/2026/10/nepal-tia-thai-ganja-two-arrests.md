@@ -19,16 +19,20 @@ figures:
   kg_seized: 14
 created_by_model: unknown
 details:
+  activity: [smuggling]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 14}]
+  route: {from: [th], to: [np], crossing: via Malaysia}
   setting: [airport]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3]
   details.date_precision: [1, 3, 2]
   details.products: [1, 3, 2]
+  details.route: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 3]
   figures.kg_seized: [1, 3, 2]
@@ -50,8 +54,9 @@ sources:
 media:
   - kind: photo
     url: https://english.ratopati.com/story/84754/two-indian-women-arrested-with-14-kg-of-thai-marijuana-at-airport
+    media_url: https://npcdn.ratopati.com/media/news/pk_YZ5vgRdLja.webp
     publisher: Ratopati
-    caption: The two arrested women photographed after their arrest
+    caption: "The two arrested women photographed after their arrest at Tribhuvan International Airport. Photo: Ratopati"
 open_questions:
   - The new article says the airport arrests happened on Monday while the existing report uses the morning of 27 October 2026.
   - The new article spells the names Shabana Banu M Sheikh and Sarifa Abbas Ansari while the existing report uses Shabana Banu Yar Mohammad Sheikh and Sharif Abbas Ansari.

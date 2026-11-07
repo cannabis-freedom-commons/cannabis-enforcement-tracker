@@ -38,11 +38,13 @@ data_sources:
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [airport, bangkok-route, concealment, hydroponic]
 sources:
   - title: DRI Seizes 7.75 Kg Weed worth Rs.2.71 Cr at RGIA; Arrests Passenger
     url: https://www.deccanchronicle.com/southern-states/telangana/dri-seizes-775-kg-weed-worth-rs271-cr-at-rgia-arrests-passenger-1995460
+    archived: https://web.archive.org/web/20261013175623/https://www.deccanchronicle.com/southern-states/telangana/dri-seizes-775-kg-weed-worth-rs271-cr-at-rgia-arrests-passenger-1995460
     publisher: Deccan Chronicle
     date: 2026-10-26
   - title: DRI seizes hydroponic cannabis worth Rs 2.7 crore hidden inside geyser at Hyderabad airport
@@ -52,8 +54,23 @@ sources:
 media:
   - kind: photo
     url: https://www.deccanchronicle.com/southern-states/telangana/dri-seizes-775-kg-weed-worth-rs271-cr-at-rgia-arrests-passenger-1995460
-    publisher: Deccan Chronicle / DRI
-    caption: Numbered evidence packets from the 73-packet geyser haul in trays
+    archived: https://web.archive.org/web/20261013175623/https://www.deccanchronicle.com/southern-states/telangana/dri-seizes-775-kg-weed-worth-rs271-cr-at-rgia-arrests-passenger-1995460
+    media_url: https://www.deccanchronicle.com/h-upload/2026/10/13/2100285-dri1.jpg
+    publisher: Deccan Chronicle
+    caption: "Numbered evidence packets from the 73-packet geyser haul in trays. Photo: Deccan Chronicle"
+  - kind: photo
+    url: https://www.deccanchronicle.com/southern-states/telangana/dri-seizes-775-kg-weed-worth-rs271-cr-at-rgia-arrests-passenger-1995460
+    archived: https://web.archive.org/web/20261013175623/https://www.deccanchronicle.com/southern-states/telangana/dri-seizes-775-kg-weed-worth-rs271-cr-at-rgia-arrests-passenger-1995460
+    media_url: https://www.deccanchronicle.com/h-upload/2026/10/13/2100288-dri2.webp
+    publisher: Deccan Chronicle
+    caption: "Packets of cannabis packed inside the electric geyser recovered from the passenger's baggage. Photo: Deccan Chronicle"
+  - kind: photo
+    url: https://hyderabadmail.com/hyderabad-airport-hydroponic-cannabis-geyser-dri-seizure/
+    media_url: https://hyderabadmail.com/wp-content/uploads/2026/10/Ganja.jpg
+    publisher: Hyderabad Mail
+    caption: "Numbered cannabis packets from the RGIA geyser seizure laid out in trays. Photo: Hyderabad Mail"
+open_questions:
+  - The passenger was not named in the opened accounts.
 ---
 
 The Hyderabad zonal unit of the Directorate of Revenue Intelligence had

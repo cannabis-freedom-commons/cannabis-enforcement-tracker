@@ -40,6 +40,7 @@ data_sources:
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]
   figures.kg_seized: [1, 2, 3, 4]
+  figures.value: [1, 2, 3, 4]
 status: verified
 tags:
   - truck
@@ -70,8 +71,9 @@ sources:
 media:
   - kind: photo
     url: https://www.etvbharat.com/en/state/haryana-673-kg-cannabis-worth-rs-1-dot-25-crore-seized-in-gurugram-two-arrested-enn26102706232
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/27-10-2026/1200-675-27971323-thumbnail-16x9-heroin-1-aspera.jpg
     publisher: ETV Bharat
-    caption: The two accused with Gurugram Crime Branch officers after the seizure
+    caption: "The two accused with Gurugram Crime Branch officers after the seizure. Photo: ETV Bharat"
   - kind: photo
     url: https://www.bhaskar.com/g/local/haryana/gurugram/news/police-bust-ganja-smuggling-gang-odisha-bhiwadi-arrest-gurugram-139505764.html
     media_url: https://images.bhaskarassets.com/web2images/521/2026/10/27/download__1_1793096966215.gif

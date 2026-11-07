@@ -34,6 +34,7 @@ data_sources:
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]
   figures.kg_seized: [1, 2, 3, 4]
+  figures.plants_destroyed: [1, 2, 3, 4]
   figures.value: [1, 2, 3, 4]
 status: verified
 tags: [nagpur]
@@ -59,8 +60,9 @@ sources:
 media:
   - kind: photo
     url: https://www.thehitavada.com/Encyc/2026/10/28/ganja-plants-found-in-farm-owned-by-ca-caretaker-arrested-.html
+    media_url: https://www.thehitavada.com/Encyc/2026/10/28/Ganja-plants-found-in-farm-owned-by-CA_202610281214018325.jpg
     publisher: The Hitavada
-    caption: Uprooted ganja plants held up after the raid on the Gangaji Dareli farm
+    caption: "Uprooted ganja plants held up after the raid on the Gangaji Dareli farm. Photo: The Hitavada"
   - kind: photo
     url: https://www.nagpurtoday.in/ganja-plants-found-growing-on-cas-farm-in-nagpur-caretaker-arrested-9-plants-seized/
     media_url: https://www.nagpurtoday.in/wp-content/uploads/2026/10/IMG-20261031-WA0001.webp

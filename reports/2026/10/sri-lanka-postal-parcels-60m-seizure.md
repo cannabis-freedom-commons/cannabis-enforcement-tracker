@@ -24,14 +24,18 @@ details:
   route: {from: [th, es, gb, us], to: [lk]}
   setting: [mail]
   products:
-    - {product: flower}
-    - {product: hashish}
+    - {product: flower, kg: 4.934}
+    - {product: hashish, kg: 1.035}
+  activity: [smuggling]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.route: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [kush, hashish, postal, customs]
 sources:
@@ -46,12 +50,18 @@ sources:
 media:
   - kind: photo
     url: https://www.newswire.lk/2026/10/28/customs-seizes-narcotics-worth-over-rs-60-million-in-foreign-postal-parcels/
+    media_url: https://www.newswire.lk/wp-content/uploads/2026/10/Customs-Kush.jpg
     publisher: Newswire
-    caption: Bags of seized kush and blocks of hashish on display
+    caption: "Bags of seized kush and blocks of hashish on display. Photo: Newswire"
   - kind: photo
     url: https://srilankachronicle.com/rs-60-2m-narcotics-shipment-blows-open-postal-smuggling/
+    media_url: https://srilankachronicle.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-18.22.24.jpeg
     publisher: Financial Chronicle
-    caption: Officers examine the nine parcels and the labelled exhibits at the mail exchange
+    caption: "Police Narcotic Bureau officers with labelled kush, hashish and other exhibits from the nine postal parcels. Photo: Financial Chronicle"
+open_questions:
+  - Ecstasy and cocaine in the parcels are excluded from cannabis figures.
+  - The exhibit placard in one photo uses case label 2024/SL-PNB while the opened accounts date the examination to late October 2026.
+  - No arrests or named recipients were published in the opened accounts.
 ---
 
 Sri Lanka Customs officers opened nine foreign postal parcels held at the
