@@ -47,6 +47,21 @@ media:
     media_url: https://www.robin.si/wp-content/uploads/2026/11/konoplja-kanal-pung.jpg
     publisher: Robin
     caption: 'Seized drying cannabis stems and dried plant material from the Kanal ob Soči house search. Photo: PU Nova Gorica / Radio Robin'
+  - kind: photo
+    url: https://primorske.si/kronika/med-hisno-preiskavo-tujcu-zasegli-konopljo-in-mu-izdali-odlocbo-o-vrnitvi/
+    media_url: https://primorske.si/media/2026/11/06/442047/Art-258__trava3-800.webp?1793976572
+    publisher: Primorske novice
+    caption: 'Police photo of suspected cannabis plants seized in the house search in the municipality of Kanal ob Soči. Photo: Policijska postaja Nova Gorica'
+  - kind: photo
+    url: https://primorske.si/kronika/med-hisno-preiskavo-tujcu-zasegli-konopljo-in-mu-izdali-odlocbo-o-vrnitvi/
+    media_url: https://primorske.si/media/2026/11/06/442048/O-258__trava1-800.webp?1793976346
+    publisher: Primorske novice
+    caption: 'Police photo of the seized suspected cannabis plants from the Kanal ob Soči house search. Photo: Policijska postaja Nova Gorica'
+  - kind: photo
+    url: https://primorske.si/kronika/med-hisno-preiskavo-tujcu-zasegli-konopljo-in-mu-izdali-odlocbo-o-vrnitvi/
+    media_url: https://primorske.si/media/2026/11/06/442049/O-258__trava2-800.webp?1793976346
+    publisher: Primorske novice
+    caption: 'Police photo of the plastic packaging with particles of dried green plant material seized in the Kanal ob Soči house search. Photo: Policijska postaja Nova Gorica'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: eb5b769f9d273f2d72f13bcafcf6c1b8
@@ -67,28 +82,34 @@ sources:
     publisher: Svet24
     date: 2026-11-06
     language: sl
+  - title: Med hišno preiskavo tujcu zasegli konopljo in mu izdali odločbo o vrnitvi
+    url: https://primorske.si/kronika/med-hisno-preiskavo-tujcu-zasegli-konopljo-in-mu-izdali-odlocbo-o-vrnitvi/
+    publisher: Primorske novice
+    date: 2026-11-06
+    language: sl
 open_questions:
   - No weight of dried cannabis or plant material was published; the seized material is recorded as eight plants only.
   - The plants had not been confirmed as cannabis when the accounts were published; they were sent for analysis.
   - No arrest, charge or criminal complaint was reported at this stage; the man's removal from the country was a migration measure, not a cannabis penalty.
   - The accounts name only a settlement in the municipality of Kanal ob Soči, so the district centre is used as the coordinate.
   - The same police photographs were republished by all three outlets; only direct addresses from the opened pages are listed.
+  - Primorske novice gives no weight for the drying stems or dried plant material, so the report still records eight plants only.
+  - The plants were still unconfirmed as cannabis in this account; police sent them for analysis.
 ---
 
 Police from the Nova Gorica station searched a 51-year-old British citizen's
 home in one of the settlements of the municipality of Kanal ob Soči on Tuesday,
-3 November, under a court order. [@2] A dog handler from the Miren police dog
-unit took part in the search. [@1]
+3 November, under a court order. [@2,4] A dog handler from the Miren police dog
+unit took part in the search. [@1,4]
 
 Officers found and seized eight plants they suspected were cannabis, between 1.5
-and 2.3 metres tall. [@1] They also took several drying stems of the plant and
-plastic packaging holding dried plant material. [@1] Police did not takedown or
+and 2.3 metres tall. [@1,4] They also took several drying stems of the plant and
+plastic packaging holding dried plant material. [@1,4] Police did not takedown or
 destroy the plants; they kept them as evidence for analysis. [@2]
 
 The plants and plant material went for laboratory analysis to establish whether
 they were an illegal drug, after which police said they would act under drug
-legislation. [@2] Svet24 reported that the 51-year-old had been fined for
+legislation. [@2,4] Svet24 reported that the 51-year-old had been fined for
 overstaying the permitted time in the Schengen area and ordered by decision to
 leave the country. [@3] Police said they fined him under the Aliens Act for
-overstaying and issued a decision on his return. [@1]
-
+overstaying and issued a decision on his return. [@1,4]
