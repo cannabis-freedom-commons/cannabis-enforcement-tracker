@@ -17,13 +17,10 @@ figures:
   kg_seized: 1988.373
 media:
   - kind: photo
-    url: https://m.gmw.cn/2026-02/14/content_1304343965.htm
-    publisher: 光明网
-    caption: Photos released with the police statement showing the seized cannabis seeds, including a heap beside a sack printed 特大麻子 (large hemp seeds), and woven sacks stacked in a room.
-  - kind: photo
-    url: https://www.thepaper.cn/newsDetail_forward_32604588
-    publisher: 澎湃新闻
-    caption: Photos released with the police statement showing the seized cannabis seeds and woven sacks stacked in a room.
+    url: https://www.ynlx.gov.cn/artview/594/344409.html
+    media_url: https://www.ynlx.gov.cn/file/lincang/A01A03/image/20260213/1770972706630039594.jpg
+    publisher: 临翔区人民政府
+    caption: "Woven sacks of seized cannabis seeds stacked indoors after the Lincang case (临翔区人民政府)."
 details:
   activity: [trafficking]
   agency_types: [police]
@@ -66,6 +63,7 @@ open_questions:
   - The three reports carry the same police statement; no independent reporting was found.
   - The 1,988.373 kg is the weight of cannabis seeds, not dried cannabis or resin.
   - The statement describes a trafficking chain from Inner Mongolia through Gansu into Yunnan but does not say where the seeds were seized or how they were moved.
+  - 光明网 and 澎湃新闻 also carried the police statement without separate direct media_url entries here.
 ---
 
 Anti-drug police in Lincang, in southwest China's Yunnan province, have arrested
