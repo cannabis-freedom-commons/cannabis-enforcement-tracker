@@ -54,6 +54,10 @@ sources:
     url: https://www.echo-news.co.uk/news/26708814.man-woman-charged-cannabis-found-tilbury-raid/
     publisher: Echo (Essex)
     date: 2026-11-07
+  - title: Man and woman charged after cannabis found in Tilbury raid
+    url: https://www.braintreeandwithamtimes.co.uk/news/26708814.man-woman-charged-cannabis-found-tilbury-raid/
+    publisher: Braintree and Witham Times
+    date: 2026-11-07
 open_questions:
   - The article gives no weight for the cannabis found, so no cannabis quantity or value is recorded.
   - The cash is described only as a four-figure sum; no amount is given.
@@ -64,13 +68,12 @@ open_questions:
 ---
 
 Essex Police executed a warrant at an address in Tilbury on 2 November 2026 as
-part of an investigation into the sale of cannabis. [@1] Officers found a large
-quantity of cannabis and a four-figure sum of cash at the address. [@1]
+part of an investigation into the sale of cannabis. [@1,3] Officers found a large
+quantity of cannabis and a four-figure sum of cash at the address. [@1,3]
 
 Mollie McKenzie, 32, and Mason Russell, 31, both of Canberra Square in Tilbury,
-were arrested at the address and later charged. [@1] Russell was charged with
+were arrested at the address and later charged. [@1,3] Russell was charged with
 possession with intent to supply a Class B drug, being concerned in the supply
-of a Class B drug, and acquiring, using or possessing criminal property. [@1]
+of a Class B drug, and acquiring, using or possessing criminal property. [@1,3]
 McKenzie was charged with permitting the use of a premises for the supply of a
-Class B drug and with acquiring, using or possessing criminal property. [@2]
-
+Class B drug and with acquiring, using or possessing criminal property. [@2,3]
