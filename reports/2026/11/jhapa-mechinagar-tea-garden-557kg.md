@@ -34,6 +34,11 @@ media:
     media_url: https://npcdn.ratopati.com/media/news/capture_Lu2QebOMfg.webp
     publisher: Ratopati
     caption: The page picture for the Jhapa seizure, captioned as police seizing 557 kg of ganja from the tea garden; it carries no credit.
+  - kind: photo
+    url: https://theannapurnaexpress.com/story/68573/
+    media_url: https://annapurnaexpress.prixacdn.net/media/albums/IMG_6364_D0mn0Eqn6U.jpeg
+    publisher: The Annapurna Express
+    caption: The page picture for the Jhapa tea garden seizure, also used as the article's social-share image; it carries no caption or credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: be1fdaa57a1bf008ba37b8050dd095e8
@@ -53,22 +58,27 @@ sources:
     publisher: Annapurna Post
     date: 2026-11-06
     language: ne
+  - title: 557 kilograms of marijuana recovered from private tea garden in Jhapa
+    url: https://theannapurnaexpress.com/story/68573/
+    publisher: The Annapurna Express
+    date: 2026-11-06
 open_questions:
   - The reports name no arrested suspect; the garden owner is reported to live abroad, and no arrest or charge is reported.
   - The reports do not say where the ganja came from, who left it in the garden, or give its street value.
   - The English account gives only Friday morning; the Nepali account puts the search at about 7:50 am on 20 Kattik 2083, which corresponds to 6 November 2026.
   - No separate incident date is given; 6 November 2026 is both the reported day of the search and the publication date.
   - The page photo is captioned only as the Jhapa tea garden seizure and carries no credit, so it is linked rather than treated as a verified picture of the seized sacks.
+  - The Annapurna Express gives no weight for the sacks with plastic wrapping, so the 562 kg 800 g gross weight rests on the other cited accounts.
 ---
 
 Police recovered 557 kg of ganja from a tea garden at Sirjana Chowk in
-Mechinagar Municipality-5 of Jhapa district. [@1] Officers found the ganja in 13
-sacks on Friday morning in the personal tea garden of local Tekendra Thapa. [@1]
+Mechinagar Municipality-5 of Jhapa district. [@1,4] Officers found the ganja in 13
+sacks on Friday morning in the personal tea garden of local Tekendra Thapa. [@1,4]
 The Nepali-language account says the police team searched on the strength of a
 tip that ganja had been left abandoned in the garden, and put the time at about
-7:50 am on Friday. [@2]
+7:50 am on Friday. [@2,4]
 
-The garden's owner, Thapa, is reported to be abroad. [@2] Weighed with its
+The garden's owner, Thapa, is reported to be abroad. [@2,4] Weighed with its
 plastic wrapping the load came to 562 kg 800 grams, and 557 kg without the
 plastic. [@1] The Nepali-language report gives the same figures, saying the 13
 sacks weighed 562 kg 800 g with plastic and 557 kg without it. [@3]
@@ -78,3 +88,4 @@ further investigation into the incident is under way. [@1] Annapurna Post
 likewise records 557 kg of illegal ganja recovered from the tea garden at
 Sirjana Chowk, Mechinagar-5. [@3]
 
+Police said further investigation into the incident is under way. [@4]
