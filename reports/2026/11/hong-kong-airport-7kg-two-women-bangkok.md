@@ -87,6 +87,11 @@ sources:
     publisher: 香港電台 RTHK
     date: 2026-11-06
     language: zh
+  - title: 香港海關於機場偵破兩宗入境旅客販毒案件（附圖）
+    url: https://www.info.gov.hk/gia/general/202611/06/P2026110600677.htm
+    publisher: Government of the Hong Kong Special Administrative Region
+    date: 2026-11-06
+    language: zh
 open_questions:
   - The weight is given as about 7 kg in total and about 3.5 kg for each woman; no exact figure was published.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
@@ -95,17 +100,18 @@ open_questions:
   - The two hand-luggage photos are credited to Customs and are linked from 星島頭條 rather than a Customs page.
   - 'The figures remain approximate: about 7 kg in total and about 3.5 kg per woman, with no laboratory confirmation that the material is cannabis.'
   - No charge, court date or update on the two women has been reported; Customs said only that investigations were ongoing.
+  - This Chinese-language government press release is the Chinese counterpart of the English release already cited by the report; the English wording was not separately quoted here.
 ---
 
 Hong Kong Customs arrested two mainland Chinese women, aged 50 and 54, at Hong
-Kong International Airport on 6 November 2026. [@1,4,5,6] Both women had arrived that
-day on flights from Bangkok, Thailand. [@1,4,5] During customs clearance, officers
+Kong International Airport on 6 November 2026. [@1,4,5,6,7] Both women had arrived that
+day on flights from Bangkok, Thailand. [@1,4,5,7] During customs clearance, officers
 found about 3.5 kg of suspected cannabis buds in each woman's carry-on baggage,
-and arrested them on the spot. [@3,4,5,6] The two seizures together came to about 7 kg
+and arrested them on the spot. [@3,4,5,6,7] The two seizures together came to about 7 kg
 of suspected cannabis buds, which Customs estimated to be worth about HK$1.4
-million. [@2,4,5,6]
+million. [@2,4,5,6,7]
 
-Both cases were still under investigation, and no charge had been reported. [@1,4,5,6]
+Both cases were still under investigation, and no charge had been reported. [@1,4,5,6,7]
 Customs said it would keep selecting travellers from high-risk regions for
 clearance checks and step up enforcement against drug trafficking using
 intelligence analysis. [@2,4] Under the Dangerous Drugs Ordinance, trafficking in
