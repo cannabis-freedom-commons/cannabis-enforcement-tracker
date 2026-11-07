@@ -168,6 +168,11 @@ sources:
     publisher: فيتو
     date: 2026-11-07
     language: ar
+  - title: ضبط شخصين بتهمة ترويج وتعاطي مخدر الحشيش في الإسكندرية
+    url: https://almsaey.akhbarelyom.com/news/newdetails/3550239/1/%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D9%88%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A-%D9%85%D8%AE%D8%AF%D8%B1-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4
+    publisher: الأخبار المسائى
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
   - Neither report gives the weight of the hashish found with the employee or with the supplier.
@@ -214,13 +219,17 @@ open_questions:
   - Neither page gives a weight for the hashish or names the two men, and neither reports charges or a court outcome.
   - Masrawy, like the earlier Dar El Hilal and Iqraa News accounts, describes both arrested men as unemployed and living in the First Montazah police district, while other accounts describe the filmed pair as a company employee and a delivery worker, with the First Montazah man their supplier.
   - Masrawy gives no weight for the hashish, no separate date for the arrest apart from the 30 October offence date, and no charge or court outcome.
+  - The Akhbar El-Masaei page gives 30 October only as the date the two men said they committed the offence and no date for the arrest itself.
+  - The page gives no weight for the hashish found with the two men and names neither of them.
+  - The page says the matter was referred to the competent investigation authorities without naming the public prosecution, unlike some earlier accounts of this case.
+  - The page picture is captioned only as the accused after arrest, with no credit, so it was not established as a distinct photo of this seizure and no media was added.
 ---
 
 The case began with a social-media post, backed by a video, in which the person
 who published it complained about two men, one of them riding a motorcycle,
-using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,21,22] Egypt's Interior Ministry said its
+using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,21,22,25] Egypt's Interior Ministry said its
 security services identified and arrested the pair and seized the motorcycle,
-which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22] The two were a company employee and a
+which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22,25] The two were a company employee and a
 delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21,23]
 
 Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] Questioned, the two admitted the
@@ -229,7 +238,7 @@ obtained the hashish from an unemployed man with a criminal record living in the
 First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20]
 
 The ministry said no reports had been filed about the incident before the video
-spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22] The public prosecution has taken over the investigation.
+spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22,25] The public prosecution has taken over the investigation.
 [@2,3,4,7,8,9,10,13,16,17,18,20,24]
 
 The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20]
@@ -240,4 +249,4 @@ The Montazah prosecution in Alexandria ordered the three accused held for four d
 
 The two arrested men admitted committing the offence on 30 October and holding the drugs for both use and trafficking, the only account that reports an admission to trafficking by both. [@21,23]
 
-Both arrested men were found with hashish and two mobile phones. [@22]
+Both arrested men were found with hashish and two mobile phones. [@22,23]
