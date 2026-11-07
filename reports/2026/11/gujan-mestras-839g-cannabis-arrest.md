@@ -50,6 +50,11 @@ media:
     media_url: https://media.sudouest.fr/31397372/1200x600/unnamed.avif
     publisher: Sud Ouest
     caption: 'The seizure made on Sunday 1 November in Gujan-Mestras, as photographed for the gendarmerie. Photo: Gendarmerie nationale'
+  - kind: photo
+    url: https://www.ladepechedubassin.fr/bassin-arcachon/demantelement-d-un-point-de-deal-a-gujan-deux-suspects-interpelles-31415576.php
+    media_url: https://media.ladepechedubassin.fr/31415576/1200x600/img-20261105-wa0001.avif
+    publisher: La Dépêche du Bassin
+    caption: 'The gendarmes'' seizure in Gujan-Mestras, with cannabis herb, ketamine and cocaine laid out. Photo: La Dépêche du Bassin'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1784c468b2a25c7bd06d5911e92c68a5
@@ -60,6 +65,11 @@ sources:
     publisher: Sud Ouest
     date: 2026-11-05
     language: fr
+  - title: Démantèlement d’un point de deal à Gujan, deux suspects interpellés
+    url: https://www.ladepechedubassin.fr/bassin-arcachon/demantelement-d-un-point-de-deal-a-gujan-deux-suspects-interpelles-31415576.php
+    publisher: La Dépêche du Bassin
+    date: 2026-11-06
+    language: fr
 open_questions:
   - The article does not report the outcome of the 5 November hearings, so no sentence is recorded.
   - The article does not state what charges were formally laid, only that the pair were dealing drugs and were presented to the courts.
@@ -68,6 +78,9 @@ open_questions:
   - Only one opened source covers this event; no gendarmerie statement or second outlet account could be opened.
   - The article does not say whether the short-term rental owner or platform was aware of the dealing.
   - The place is given only as Gujan-Mestras, with no address for the rented flat.
+  - The article's body is behind a subscriber paywall, so its plants, weights, arrests and court steps could not be checked in the opened text.
+  - The article gives no quantities in the accessible text; the 596 g resin, 243 g herb and 860 euros remain those of the earlier Sud Ouest account.
+  - The new photograph cannot be credited beyond the outlet, which published it without a named photographer or agency.
 ---
 
 Gendarmes arrested two men from Bordeaux, aged 15 and 20, at a short-term
@@ -82,3 +95,4 @@ The two were held in police custody and brought before the Bordeaux judicial
 court on Thursday 5 November, in immediate-appearance proceedings for the adult
 and a guilt hearing at the children's court for the minor. [@1]
 
+A neighbour's tip and a rapid gendarmerie response ended a short-lived drug-dealing operation in Gujan-Mestras, where gendarmes of the local brigade were alerted on Sunday 1 November 2026. [@2] A photograph of the gendarmes' haul from the operation shows cannabis herb alongside ketamine and cocaine. [@2]
