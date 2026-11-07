@@ -60,6 +60,11 @@ sources:
     publisher: İlke Haber Ajansı (İLKHA)
     date: 2026-11-07
     language: tr
+  - title: سوريا تضبط 120 ألف حبة كبتاغون وتعتقل متزعم شبكة تهريب في حمص | سبق
+    url: https://sabq.org/article/Bojise2
+    publisher: صحيفة سبق الإلكترونية
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The article gives no date for the arrest itself; 7 November 2026 is its publication date and is used as the incident date.
   - The exact place of the arrest within Homs Governorate is not named.
@@ -73,15 +78,15 @@ open_questions:
 
 Syria's anti-narcotics directorate announced the arrest of a man identified by
 the initials G.Sh., described as the head of a drug trafficking network whose
-two members were arrested in May. [@1,3] He was found with 9 kilograms of hashish
-and 120,000 Captagon pills, the directorate said. [@1,3]
+two members were arrested in May. [@1,3,4] He was found with 9 kilograms of hashish
+and 120,000 Captagon pills, the directorate said. [@1,3,4]
 
 The directorate said its Homs branch made the arrest, continuing an operation it
 carried out on 5 May 2026 that broke up an attempt to smuggle 200,000 Captagon
-pills from Lebanon and led to two arrests. [@1,3] The two May detainees were the
+pills from Lebanon and led to two arrests. [@1,3,4] The two May detainees were the
 two members of the network, in an operation whose pills came from Lebanon. [@2]
 Units kept tracking the rest of those involved and the network's branches, the
 directorate said. [@1]
 
 The directorate said the seized items were confiscated and the detainee was sent
-to the competent judiciary. [@1,3]
+to the competent judiciary. [@1,3,4]
