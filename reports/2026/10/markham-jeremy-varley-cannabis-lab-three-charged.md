@@ -94,6 +94,10 @@ sources:
     url: https://torontosun.com/news/local-news/cops-bust-markham-drug-lab-seize-639g-narcotics
     publisher: Toronto Sun
     date: 2026-11-06
+  - title: Three People Charged After Police Raid Illegal Cannabis and Psilocybin Lab in Markham
+    url: https://stratcann.com/enforcement/police-raid-illegal-cannabis-and-psilocybin-lab-in-markham/
+    publisher: StratCann
+    date: 2026-11-06
 open_questions:
   - The article gives no time of day for the 23 October visit; that is the date police state for the welfare call, while the charges and volumes were announced in the 6 November release.
   - Some of the seized edibles could be psilocybin edibles, but police list only psilocybin powder separately, so all 12,962 packages and 26 kilograms of loose edibles are counted as cannabis.
@@ -108,10 +112,12 @@ open_questions:
   - 'Left out, as its quotation was not found in York Regional Police: Joseph Li, 41, Yuan Lin, 39, and Michelle Li, 39, all of Markham, were charged with possession for the purpose of trafficking, possession of a prohibited device, producing cannabis, possessing cannabis for distribution and unlawful distribution of cannabis.'
   - 'Left out, as its quotation was not found in York Regional Police: The charges were laid by the force''s Guns, Gangs and Drug Enforcement Unit, which asked anyone with information to contact it.'
   - Left out case stage, as its quotation was not found in York Regional Police.
+  - StratCann adds that the Buddha Boys website was still live as of 6 November 2026 and that Buddha Boys products had been found in a seizure in Ontario in August 2026.
+  - StratCann gives no location for the Markham residence beyond the city, and no arrest date separate from the 23 October welfare call.
 ---
 
 Two men and one woman from Markham were arrested after York Regional Police
-dismantled a clandestine drug lab at a home in the city. [@1] Officers went to a
+dismantled a clandestine drug lab at a home in the city. [@1,5] Officers went to a
 residence in the area of Jeremy Drive and Fred Varley Drive on 23 October 2026
 for a welfare check, and found evidence consistent with the production and
 distribution of controlled substances in a lab setting. [@2] The lab was
@@ -120,7 +126,7 @@ Emergency Services and York Region Paramedic Services. [@2]
 
 Investigators seized 12,962 packages of cannabis edibles, 209 grams of THC
 vaping cartridges, 26 kilograms of loose cannabis edibles and eight kilograms of
-dried cannabis. [@2] They also found 18 kilograms of psilocybin powder, a
+dried cannabis. [@2,5] They also found 18 kilograms of psilocybin powder, a
 psychedelic mushroom product rather than cannabis, so its weight is not included
 in the cannabis total. [@2] Ammunition, a conducted energy weapon and about
 C$100,000 in cash were seized at the residence. [@2]
@@ -131,8 +137,9 @@ illegal substances. [@3]
 
 Investigators learned the drugs produced at the home were sold mainly online
 under the name Buddha Boys, through illegitimate websites that mailed or
-delivered the orders. [@1]
+delivered the orders. [@1,5]
 
 The Toronto Sun placed the home in the Jeremy and Fred Varley drives area, near
 Warden and 16th avenues. [@4]
 
+Ammonition, a conducted energy weapon and about C$100,000 in cash were seized at the residence. [@5]
