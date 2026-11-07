@@ -79,6 +79,11 @@ media:
     media_url: https://leopolis.news/wp-content/uploads/2026/11/photo_2026-11-06_11-00-10.jpg
     publisher: Leopolis.news
     caption: One of six uncaptioned photos of the seized substances in the Leopolis.news item, published with the prosecutor's statement.
+  - kind: photo
+    url: https://wz.lviv.ua/news/561500-u-lvovi-vykryly-narkodyleriv-iaki-rozsylaly-po-ukraini-psykhotropy-ta-kanabis-na-miliony-hryven
+    media_url: https://img2.wz.lviv.ua/bT8Mv2HSIagET5jrp-5kZgryq04=/776x517/smart/filters:format(webp)/wz.lviv.ua/images/news/_cover/561500/img2934.jpeg
+    publisher: Високий Замок
+    caption: Photo published with the report on the Lviv arrests, credited by the page to the National Police of Ukraine; it carries no further caption.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5a2d23860f82bd593923b9dd38fc6b41
@@ -99,6 +104,11 @@ sources:
     publisher: Leopolis.news
     date: 2026-11-06
     language: uk
+  - title: У Львові викрили наркодилерів, які розсилали по Україні психотропи та канабіс на мільйони гривень
+    url: https://wz.lviv.ua/news/561500-u-lvovi-vykryly-narkodyleriv-iaki-rozsylaly-po-ukraini-psykhotropy-ta-kanabis-na-miliony-hryven
+    publisher: Високий Замок
+    date: 2026-11-06
+    language: uk
 open_questions:
   - The accounts give 7 October as the detention date but no date for the searches or the suspicion notices.
   - The 1.73 kg cannabis total is the sum of the reported parts, more than 500 g, 1.2 kg and 30 g, the first of which is only an approximate minimum.
@@ -108,6 +118,7 @@ open_questions:
   - The two men are identified only by age and place of residence; the 32-year-old's village, Davydov, comes from Leopolis.news alone.
   - No court outcome is reported; both suspects are held in custody while the pretrial investigation continues.
   - The submitted page's photo has no caption or credit establishing that it shows this event; the Leopolis.news photos published with the prosecutor's statement are uncaptioned beyond labels such as the detention and the seized substances.
+  - Високий Замок describes the 1,200 g of cannabis as the total seized, without the separate car find of more than 500 g and the 30 g in intercepted parcels that the prosecutor's breakdown gives; the report keeps its own 1.73 kg sum.
 ---
 
 Police in Lviv detained two men suspected of selling drugs and psychotropic
@@ -147,3 +158,4 @@ the right to bail, and the pretrial investigation continues, with officers
 working to identify possible accomplices and supply channels. [@1] Officers
 searched the men's homes, the cars they used and the rented garage. [@2]
 
+Officers detained the 32-year-old in the act of posting another batch of parcels of amphetamine and PVP, and detained his 40-year-old accomplice the same day. [@4]
