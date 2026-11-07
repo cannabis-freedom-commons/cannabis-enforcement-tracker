@@ -273,6 +273,7 @@ open_questions:
   - The submitted page, like the Masrawy account, gives no weight for the hashish found with the two men and no value estimate.
   - The page gives 30 October only as the date the two men said they committed the offence, and no separate date for their arrest.
   - The page's single picture is captioned only المتهمان with no credit and appears to be the same handout already listed from other outlets, so no separate media entry is added.
+  - The Veto page of 7 November 2026 and the Masrawy page of the same date are later republishings of the Interior Ministry statement about the 30 October street-video case, and both describe the filmed pair as unemployed First Montazah residents, as do several earlier accounts.
 ---
 
 The case began with a social-media post, backed by a video, in which the person
@@ -282,7 +283,7 @@ security services identified and arrested the pair and seized the motorcycle,
 which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22,25,27,30] The two were a company employee and a
 delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21,23,30]
 
-Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] Questioned, the two admitted the
+Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,23] Questioned, the two admitted the
 offence and said they held the drugs to use them. [@1,3,4,5,6,7,8,9,10,12,13,15,16,17,18,20] The employee said he had
 obtained the hashish from an unemployed man with a criminal record living in the
 First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20]
@@ -291,7 +292,7 @@ The ministry said no reports had been filed about the incident before the video
 spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22,23,25,27,28,29] The public prosecution has taken over the investigation.
 [@2,3,4,7,8,9,10,13,16,17,18,20,24,27,28]
 
-The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20]
+The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20,24]
 
 Alexandria prosecutors ordered the employee and the delivery worker held for four days pending investigation and ordered the seized drugs held and sent to the chemical laboratory for examination. [@14]
 
