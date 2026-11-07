@@ -72,6 +72,16 @@ sources:
     publisher: Janbhawna Times
     date: 2026-11-06
     language: hi
+  - title: 'मुजफ्फरनगर: 25.7 किलो गांजे के साथ मेरठ के चार तस्कर गिरफ्तार, थोक में लाकर पुड़िया बनाकर करते थे सप्लाई'
+    url: https://www.amarujala.com/amp/uttar-pradesh/muzaffarnagar/muzaffarnagar-four-smugglers-from-meerut-arrested-with-25-7-kg-of-cannabis-they-used-to-procure-it-in-bulk-2026-11-06
+    publisher: Amar Ujala
+    date: 2026-11-06
+    language: hi
+  - title: 'Muzaffarnagar News: चार लाख के गांजा के साथ मेरठ के चार तस्कर गिरफ्तार'
+    url: https://www.livehindustan.com/uttar-pradesh/muzaffar-nagar/story-muzaffarnagar-police-arrest-four-meerut-ganja-smugglers-seize-25-kg-cannabis-201793991348954.html
+    publisher: Hindustan (Live Hindustan)
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The reports do not say whether the four accused were remanded to custody or released on bail.
   - Neither report gives the individual weight carried by each of the four men.
@@ -83,19 +93,26 @@ open_questions:
   - Only the article's opening paragraph was readable in the captured page; the later paragraphs sit behind the outlet's app paywall, so the detailed figures stated in this article were not verified against it.
   - The Janbhawna Times is based in Haryana and bylines the story to a reporter named Rohit; its account appears to draw on the same Muzaffarnagar police briefing as the other reports.
   - The Janbhawna Times page photo is captioned only with the article headline, carries no credit and shows a generic ganja image, so no media entry is taken from it.
+  - Hindustan puts the recovered ganja's value at about four lakh rupees, while Amar Ujala and the other reports give 3,85,500 rupees; the report keeps the specific figure.
+  - Hindustan says police filed the chargesheet against the four men, which the other accounts do not mention; it is not clear whether a chargesheet had been filed or only the arrest papers and the court production were completed.
+  - Hindustan identifies the accused by name and by their fathers' first names.
+  - Hindustan pages are marked as auto-published from print and the account rests on the same assistant superintendent of police's briefing as the other reports.
+  - 'The submitted Amar Ujala article is a later version of the Amar Ujala story the report already cites: its closing paragraph attributes the Pauri sourcing without naming Harish in the sentence about the supplier, while Hindustan names him.'
+  - Hindustan's claim that the accused were caught smuggling drugs in Uttarakhand a few days earlier is a single-outlet assertion with no date, place or case reference.
+  - Hindustan gives the consignment as 25 kg in its main text, rounded from the 25 kg 700 g carried in the four bags.
 ---
 
 Police in Muzaffarnagar's Khala Par station area arrested four men from Meerut
 on suspicion of smuggling ganja, a traditional Indian cannabis preparation, on 6
-November 2026. [@1,3,4] The four arrested men come from Sindhawali village on Rohta
-Road, in the Kankarkhera police station area of Meerut district. [@1,4]
+November 2026. [@1,3,4,5] The four arrested men come from Sindhawali village on Rohta
+Road, in the Kankarkhera police station area of Meerut district. [@1,4,5]
 
 Sub-inspector Asgar Ali's team stopped them at about 1:15 pm on the lane behind
 Sharden School, on the way from Meerut Road towards Garhabagh, after they turned
 back at the sight of the police patrol. [@1,4] The men each carried a bag, and
-police say the four bags together held 25 kg 700 grams of ganja. [@1,4] Police
+police say the four bags together held 25 kg 700 grams of ganja. [@1,4,6] Police
 also seized four mobile phones of different companies from the four arrested
-men. [@1] Police had the ganja weighed and put its estimated value at 385,500
+men. [@1,6] Police had the ganja weighed and put its estimated value at 385,500
 rupees. [@1,4]
 
 Police registered case 195/2026 at Khala Par station under sections 8/20 of the
@@ -108,7 +125,7 @@ The accused told police during questioning that they had bought the ganja from a
 man named Harish in Uttarakhand, and that they brought larger consignments when
 demand rose around the festival season. [@1] Amar Ujala reported that Harish was
 known to bring the ganja from the hills of Pauri and that the smugglers sold it
-in small packets, and that the supplier left the scene. [@2] Police said one of
+in small packets, and that the supplier left the scene. [@2,6] Police said one of
 the four, Anwar, is on the Meerut police's history sheet at Kankarkhera station,
 recorded as number 155A, with earlier cases under robbery, gangster, Arms Act
 and assault provisions. [@1] Police said Talib already faced a 2020 NDPS case at
@@ -116,3 +133,5 @@ Meerut's Civil Lines station and Irshan a 2023 NDPS case at Khatauli station in
 Muzaffarnagar, and that they are tracing the wider network. [@1]
 
 The Janbhawna Times account says the four men were taking the ganja to sell it for a profit they expected because festive-season demand had pushed prices up. [@4]
+
+Hindustan states the recovered ganja is valued at about four lakh rupees. [@6] Hindustan reports that police filed the chargesheet against all four accused. [@6] According to Hindustan, the four men collected ganja from a supplier in Uttarakhand and supplied it in both Meerut and Muzaffarnagar. [@6] Hindustan also states that the accused were caught smuggling illegal drugs in Uttarakhand a few days before this arrest. [@6]
