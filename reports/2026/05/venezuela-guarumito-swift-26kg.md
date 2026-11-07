@@ -24,38 +24,46 @@ details:
   products: [{product: flower, kg: 20.46}]
   route: {from: [co], to: [ve]}
 data_sources:
-  details.activity: [1]
-  details.agency_types: [1]
-  details.products: [1]
-  details.route: [1]
-  figures.kg_seized: [1]
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.products: [1, 2]
+  details.route: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [tachira, gnb, trafficking]
 open_questions:
-  - No second outlet account of the interception was found; the suspect was unnamed and the judicial outcome was not reported.
+  - The suspect was unnamed and the judicial outcome was not reported.
 sources:
   - title: 26 KILOS DE DR0G4 FUERON INCAUTADOS EN GUARUMITO
     url: https://diariodelpueblo.com.ve/2026/05/13/26-kilos-de-dr0g4-fueron-incautados-en-guarumito/
     publisher: Diario del Pueblo
     date: 2026-05-13
     language: es
+  - title: Incautan 26 kilos de droga en puesto de control Guarumito zona Norte del Táchira
+    url: https://radiomundial.com.ve/incautan-26-kilos-de-droga-en-puesto-de-control-guarumito-zona-norte-del-tachira/
+    publisher: YVKE Mundial
+    date: 2026-05-13
+    language: es
 media:
   - kind: photo
-    url: https://diariodelpueblo.com.ve/wp-content/uploads/2026/05/Captura-de-pantalla-2026-05-13-174350.png
-    publisher: Diario del Pueblo
-    caption: 'Detained driver with the seized white Chevrolet Swift at the GNB checkpoint. Photo: GNB via Diario del Pueblo'
+    url: https://radiomundial.com.ve/incautan-26-kilos-de-droga-en-puesto-de-control-guarumito-zona-norte-del-tachira/
+    media_url: https://radiomundial.com.ve/wp-content/uploads/2026/05/IMG_20260513_210800_526.jpg
+    publisher: YVKE Mundial
+    caption: >-
+      Wrapped marijuana and cocaine bricks on a scale reading 26.38 kg at the Guarumito post,
+      labelled for the 5th Platoon, 2nd Company, Detachment 213. Photo: FANB via YVKE Mundial
 ---
 
 Officers of the Bolivarian National Guard apprehended a citizen at the
 Guarumito control point in Ayacucho municipality, Táchira, after a detailed
 inspection of a Chevrolet Swift uncovered a hidden stash totalling 26.36
-kilograms of illicit substances. [@1]
+kilograms of illicit substances. [@1,2]
 
 The load, coming from Colombia and bound for the town of La Fría, consisted
 of 32 wraps of suspected marijuana weighing 20.46 kilograms and 10 wraps of
-suspected cocaine weighing 5.9 kilograms. [@1]
+suspected cocaine weighing 5.9 kilograms. [@1,2]
 
 Following the find and the suspect's detention, both the physical evidence and
 the apprehended citizen were placed at the disposition of the Public Ministry
-to open the legal investigation. [@1]
+to open the legal investigation. [@1,2]

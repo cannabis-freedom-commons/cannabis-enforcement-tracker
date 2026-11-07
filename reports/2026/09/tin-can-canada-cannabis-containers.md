@@ -19,8 +19,11 @@ figures:
 media:
   - kind: photo
     url: https://leadership.ng/customs-intercepts-1-2-tonnes-of-drugs-worth-n3-674bn-from-canada/
+    media_url: https://leadership.ng/wp-content/uploads/2026/10/IMG-20261009-WA0064.jpg
     publisher: LEADERSHIP
-    caption: Uniformed officers stand behind a table of packaged goods at Tin Can Island Port, in two photographs accompanying the announcement; no credit is given.
+    caption: >-
+      Customs officers stand behind rows of black duffel bags with compressed packages at Tin Can
+      Island Port after the Canada container finds; no credit is given.
 details:
   activity: [smuggling]
   agencies: [ng-ndlea]
