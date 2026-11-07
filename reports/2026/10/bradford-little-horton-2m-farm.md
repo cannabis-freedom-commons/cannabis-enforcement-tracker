@@ -34,6 +34,7 @@ tags: [bradford, industrial, remand]
 media:
   - kind: photo
     url: https://www.cannabisinsider.co.uk/news/police-uncover-2-million-cannabis-farm-in-bradford
+    media_url: https://cdn.sanity.io/images/br8j8f0r/production/ede36bda6878aa235c3236c7047eb9e39f843807-1200x675.jpg
     publisher: Cannabis Insider UK (West Yorkshire Police)
     caption: "The industrial grow room seized on Little Horton Lane (West Yorkshire Police)."
 open_questions:

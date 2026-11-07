@@ -41,8 +41,14 @@ tags: [hashish, boats, dgst]
 media:
   - kind: photo
     url: https://fr.le360.ma/societe/fes-saisie-de-plus-de-quatre-tonnes-de-chira-trois-suspects-interpelles_6QBOMDT2LJGUDFO3EA7BJXIEME/
+    media_url: https://fr.le360.ma/resizer/v2/Z7QIO7Y5YVBVRLWOULK66IVYU4.jpeg?auth=7c399a78fe98c1eac1ea7f6d4fc793f30b2c09add5a7e92e7e377d34246d6e9c&smart=true&width=1200&height=630
     publisher: le360
     caption: "Seized hashish bricks and outboard motors from the farm (le360)."
+  - kind: photo
+    url: https://en.hespress.com/147033-police-find-4-1-tonnes-of-hashish-and-smuggling-boats-at-farm-near-fez.html
+    media_url: https://e2.hespress.com/wp-content/overlay/2026/10/fes-drogues.webp?v2
+    publisher: Hespress
+    caption: "Hashish bales and Yamaha outboards displayed after the Fez farm raid (Hespress)."
 open_questions:
   - The map uses a rural district reference near Fez; the sources do not publish the farm coordinates.
   - The judicial investigation into the network's other ramifications was still open.

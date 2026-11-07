@@ -39,6 +39,7 @@ tags: [opp, napanee, grow-op, cannabis-act]
 media:
   - kind: photo
     url: https://www.kingstondaily.ca/news/the-kingston-top-3/six-charged-after-7-9m-illegal-cannabis-seizure-in-greater-napanee/
+    media_url: https://mmo.aiircdn.com/1478/6acf403888cda.jpg
     publisher: Kingston Daily
     caption: "Aerial view of the raided greenhouse grow operation (OPP photo via Kingston Daily)."
 open_questions:

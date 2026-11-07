@@ -54,18 +54,13 @@ sources:
     date: '2026-10-19'
 media:
   - kind: photo
-    url: https://www.latestly.com/agency-news/india-news-dri-foils-major-ganja-trafficking-attempt-seizes-591-kg-cannabis-smuggled-from-nepal-7650426.html
-    publisher: LatestLY
-    caption: Seized packets laid out spelling DRI (PIB photo)
-  - kind: photo
-    url: https://www.latestly.com/agency-news/india-news-dri-foils-major-ganja-trafficking-attempt-seizes-591-kg-cannabis-smuggled-from-nepal-7650426.html
-    publisher: ANI
-    caption: Seized ganja packets arranged to spell DRI (PIB photo via ANI).
+    url: https://newsriveting.com/dri-foils-major-ganja-trafficking-attempt-from-nepal-seizes-591-kg-cannabis/
+    media_url: https://newsriveting.com/wp-content/uploads/2026/10/Cannibis-Nepal.jpg
+    publisher: News Riveting
+    caption: "Seized ganja packets arranged to spell DRI (News Riveting)."
 open_questions:
   - The reports name no driver or arrests, only the intercepted truck and its consignment.
-  - >-
-    The two original source pages could not be reopened during consolidation; the matching earlier accounts
-    and source evidence are retained without claiming a new full verification.
+  - LatestLY returned 502 when reopened; the matching News Riveting account and photo were used instead.
   - >-
     The original report was imported without a recorded creator model; its original unknown attribution is
     preserved.

@@ -57,36 +57,28 @@ sources:
 media:
   - kind: photo
     url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-60-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%88%D9%8A%D9%88%D9%82%D9%81-17-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7
-    publisher: Lebanese Army
-    caption: Soldiers uprooting cannabis by hand in the al-Kanisa field
-  - kind: photo
-    url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-60-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%88%D9%8A%D9%88%D9%82%D9%81-17-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7
-    publisher: Lebanese Army
-    caption: A tractor ploughing under the cannabis crop
-  - kind: photo
-    url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-60-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%88%D9%8A%D9%88%D9%82%D9%81-17-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7
     archived: https://web.archive.org/web/20261010220901/https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-60-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%88%D9%8A%D9%88%D9%82%D9%81-17-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7
     media_url: https://www.lebarmy.gov.lb/sites/default/files/field/images/10_26/PNL10102026121538_01.jpg
     publisher: Lebanese Army
-    caption: Soldiers pull cannabis plants in a dry field, one of them armed and masked.
+    caption: "Soldiers pull cannabis plants in a dry field, one of them armed and masked."
   - kind: photo
     url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-60-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%88%D9%8A%D9%88%D9%82%D9%81-17-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7
     archived: https://web.archive.org/web/20261010220901/https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-60-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%88%D9%8A%D9%88%D9%82%D9%81-17-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7
     media_url: https://www.lebarmy.gov.lb/sites/default/files/field/images/10_26/PNL10102026121538_02.jpg
     publisher: Lebanese Army
-    caption: A red tractor at the edge of the cannabis field, with soldiers cutting plants beside it.
+    caption: "A red tractor at the edge of the cannabis field, with soldiers cutting plants beside it."
   - kind: photo
     url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-60-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%88%D9%8A%D9%88%D9%82%D9%81-17-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7
     archived: https://web.archive.org/web/20261010220901/https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-60-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%88%D9%8A%D9%88%D9%82%D9%81-17-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7
     media_url: https://www.lebarmy.gov.lb/sites/default/files/field/images/10_26/PNL10102026121538_03.jpg
     publisher: Lebanese Army
-    caption: Three army trucks in a smoking cannabis field, with hills behind.
+    caption: "Three army trucks in a smoking cannabis field, with hills behind."
   - kind: photo
     url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-60-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%88%D9%8A%D9%88%D9%82%D9%81-17-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7
     archived: https://web.archive.org/web/20261010220901/https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-60-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D8%A7%D9%84%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AF%D8%A9-%D8%A7%D9%84%D9%83%D9%86%D9%8A%D8%B3%D8%A9-%E2%80%93-%D8%A8%D8%B9%D9%84%D8%A8%D9%83-%D9%88%D9%8A%D9%88%D9%82%D9%81-17-%D8%B9%D8%A7%D9%85%D9%84%D9%8B%D8%A7
     media_url: https://www.lebarmy.gov.lb/sites/default/files/field/images/10_26/PNL10102026121538_04.jpg
     publisher: Lebanese Army
-    caption: Smoke rising from piles of cut plants in a cleared field, with a house at the edge.
+    caption: "Smoke rising from piles of cut plants in a cleared field, with a house at the edge."
 open_questions:
   - >-
     The statement gives no separate date for the destruction. 10 October 2026 is the date of the army

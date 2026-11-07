@@ -56,10 +56,10 @@ media:
     caption: "Uprooted marijuana plants burning on a hillside plot in La Yesca. Photo: Entre Veredas"
   - kind: photo
     url: https://nayaritnoticias.com/2026/10/27/marina-localiza-y-erradica-mas-de-56-mil-plantas-de-presunta-marihuana/
+    media_url: https://i0.wp.com/nayaritnoticias.com/wp-content/uploads/2026/10/IMG-20261027-WA0047.jpg?fit=960%2C878&ssl=1
     publisher: Nayarit Noticias
-    caption: Navy photographs of the plants destroyed at the site
+    caption: "Navy personnel hold a MARINA banner beside incinerated plants on a La Yesca hillside (Nayarit Noticias)."
 open_questions:
-  - The Nayarit Noticias page returned 429 when reopened for a direct media address, so its photo has no media_url yet.
   - Exact coordinates of each of the five plots were not published.
 ---
 
