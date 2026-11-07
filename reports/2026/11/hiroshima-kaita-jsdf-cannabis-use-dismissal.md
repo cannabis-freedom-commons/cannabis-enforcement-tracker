@@ -86,6 +86,11 @@ sources:
     publisher: 网易号（齐鲁壹点）
     date: 2026-11-06
     language: zh
+  - title: 「出来心だった」１９歳自衛隊員 大麻使用で懲戒免職　９月逮捕、友人宅に集まり３人で使用した疑い　広島
+    url: https://article.auone.jp/71a55912-86a8-47ba-ba76-957942d816be
+    publisher: au Webポータル
+    date: 2026-11-07
+    language: ja
 open_questions:
   - No weight, form or value of the cannabis was published, so no cannabis quantity is recorded.
   - Sankei reports the soldier also used a type of synthetic drug; that substance is outside this tracker's scope and no quantities of any drug are given.
@@ -107,7 +112,7 @@ media:
 
 Japan's Ground Self-Defense Force dismissed a 19-year-old private second class
 at the Kaita garrison in Hiroshima Prefecture on 6 November 2026 over cannabis
-use. [@1,5,7,8,9] The dismissal was pronounced by the 46th Infantry Regiment, the unit
+use. [@1,5,7,8,9,10] The dismissal was pronounced by the 46th Infantry Regiment, the unit
 at the Kaita garrison in Kaita town, Hiroshima Prefecture, according to the
 Chugoku Shimbun. [@3,6]
 
