@@ -64,6 +64,10 @@ sources:
     url: https://www.iomtoday.co.im/news/courts/three-jailed-for-cannabis-offences-589820
     publisher: Isle of Man Today
     date: 2023-01-20
+  - title: Isle of Man operation dismantled major drugs gang, police say
+    url: https://www.bbc.com/news/world-europe-isle-of-man-64474035
+    publisher: BBC News
+    date: 2023-02-02
 open_questions:
   - No separate cannabis weight was published for the amount Leigh imported; the £171,270 figure is the value of the cannabis found at McGill's home, not a weight for the whole network.
   - The BBC gives 18 October without a year for the raids, but Manx Radio and Isle of Man Today place the Operation Artemis search of McGill's and Dentith's homes on 18 October 2022.
@@ -72,6 +76,7 @@ open_questions:
   - The BBC spells the judge's name Greame Cook; Manx Radio and Isle of Man Today give Graeme Cook, which is used here.
   - Isle of Man Today describes Dentith's plea as one count of production of cannabis, while the BBC and Manx Radio describe the charge as being concerned in the importation of cannabis.
   - 'No photo of the raid, the seized cannabis or the sentencing itself was available: the BBC page image shows the Douglas Courthouse exterior and the Isle of Man Today mugshot addresses could not be recovered from the opened pages, so no media entry is listed.'
+  - Police announced the operation-wide results on 2 February 2023, after Dentith was sentenced, so his conviction is counted within the reported 14 but the sources do not list who the others were.
 ---
 
 Garry Dentith, 41, described by the court as playing a "leading role" in an
@@ -104,6 +109,5 @@ strong connections with organised crime in Liverpool. [@2] Dentith's advocate,
 Paul Rodgers, argued that the leading role in the operation belonged to the
 dealer in England. [@3] The three had been investigated as part of Operation
 Artemis, a police operation that saw officers arrest people at the Sea Terminal
-in 2022. [@2] Dentith pleaded guilty to five money-laundering counts concerning
+in 2022. [@2,4] Dentith pleaded guilty to five money-laundering counts concerning
 £192,855 of criminal proceeds. [@3]
-
