@@ -39,6 +39,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-07
     language: hi
+  - title: Lucknow Kakori Loot Case | Police Arrest Two With Cash And Ganja
+    url: https://www.bhaskar.com/local/uttar-pradesh/lucknow/kakori/video/lucknow-kakori-loot-arrest-ganja-recovery-police-update-139621285.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives no separate date for the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - The accused were not named and no charges, case stage beyond arrest, or court outcome were reported.
@@ -46,6 +51,7 @@ open_questions:
   - Only one accessible source for this event was found after searching in Hindi and English.
   - The recovered Rs 16,500 is reported as looted cash, not as cannabis proceeds, so it is kept in the text and not recorded as confiscated drug money.
   - The page lists one image URL but carries no caption or credit establishing that it shows this seizure, so no media entry is included.
+  - The page names the NDPS Act but no specific section, so the exact cannabis charge is not stated.
 ---
 
 Police in Kakori in Lucknow arrested two people accused in a robbery within
@@ -54,3 +60,4 @@ minutes of the loot. [@1] Kakori is in Lucknow in Uttar Pradesh. [@1]
 Officers recovered Rs 16,500 in looted cash from the accused. [@1] Officers also
 recovered 550 grams of ganja from the accused. [@1]
 
+Police arrested the two robbery accused in Kakori and found 550 grams of ganja on them. [@2] The incident happened on the evening of 6 November, when police on a check at the Durga Ganj crossing learned that two men were fleeing after robbing a person of 16,500 rupees. [@1] Police registered a case against both men under robbery and NDPS Act provisions and sent them to jail. [@1]
