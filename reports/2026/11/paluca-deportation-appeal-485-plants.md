@@ -50,6 +50,9 @@ sources:
     url: https://www.telegraph.co.uk/news/2026/11/05/migrant-drug-dealer-can-stay-because-not-foreign-criminal/
     publisher: The Telegraph
     date: 2026-11-05
+  - title: Albanian illegal migrant who was jailed over £1.5m cannabis plot wins right to fight deportation 'because his crime didn't cause serious harm' | Framing Analysis | NewsCord
+    url: https://newscord.org/watchdog/article/c6f94fc6-0721-4536-9e81-92841ede6390
+    publisher: NewsCord
 open_questions:
   - The article does not state the date of the Upper Tribunal ruling; 2026-11-05 is the Daily Mail's publication date.
   - The £1.5 million is the sum the gang aimed to make each year selling cannabis, not a police valuation of the plants and cash seized, so no value is recorded in figures.
@@ -61,12 +64,13 @@ open_questions:
   - The Telegraph account gives no plant, harvested-cannabis or cash figures, so the existing figures remain from the Daily Mail account.
   - The Telegraph gives no separate date for the Upper Tribunal ruling; 2026-11-05 is its publication date.
   - The Telegraph's cannabis-farm photograph republishes the same Kent Police handout already represented in the existing report, so no new distinct media is added.
+  - NewsCord republishes the Daily Mail text and links to it as the original article, so it is not an independent account of the tribunal ruling.
 ---
 
 Ndue Paluca, an Albanian who entered the UK without permission in 2012, has won
-the right to pursue a formal appeal against his deportation. [@1] Upper Tribunal
+the right to pursue a formal appeal against his deportation. [@1,3] Upper Tribunal
 Judge Sarah Grey set aside the finding that his cannabis offending caused
-serious harm and ordered the case to be heard by a new judge. [@1,2] She ruled
+serious harm and ordered the case to be heard by a new judge. [@1,2,3] She ruled
 that the first-tier judge erred because police had seized the cannabis before it
 circulated within society. [@1] Judge Grey also found the lower judge had failed
 to properly consider the harm deportation would cause his two young children
@@ -81,7 +85,7 @@ was jailed for less than a year, the standard minimum for automatic deportation.
 
 Police raided cannabis farms including two in Ashford, Kent, and one in
 Watton-at-Stone, Hertfordshire, seizing more than 485 plants, half a kilo of
-harvested cannabis and more than £61,000 in cash. [@1] Paluca, 30, was jailed
+harvested cannabis and more than £61,000 in cash. [@1,3] Paluca, 30, was jailed
 for 10 months in 2021, while his 10 fellow Albanian gang members received
 sentences totalling more than 36 years. [@1] Judge Grey noted that his role had
 been working as a gardener at just one of the raided properties. [@1,2]
