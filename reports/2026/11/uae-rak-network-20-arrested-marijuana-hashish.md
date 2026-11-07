@@ -151,6 +151,10 @@ sources:
     publisher: شبكة رؤية الإخبارية
     date: 2026-11-06
     language: ar
+  - title: Major Drug Trafficking Plot Foiled In UAE, 200,000 Pills And Over 30kg Of Drugs Seized; 20 Arrested
+    url: https://www.urdupoint.com/en/world/uae-drug-smuggling-plot-200000-captagon-pills-20-arrested-2285501.html
+    publisher: UrduPoint
+    date: 2026-11-07
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -185,11 +189,16 @@ open_questions:
   - The Roayah page gives no separate weight or street value for the marijuana or hashish; the more than 30 kg figure covers cocaine, crystal, marijuana, hashish and Spice together.
   - The page gives no date for the interception or the arrests; 6 November 2026 is its publication and announcement date.
   - The page reports no charges or court stage and attributes its account to the UAE state news agency WAM.
+  - The UrduPoint page gives no separate weight or value for the marijuana or hashish; the more than 30 kg figure covers cocaine, crystal, marijuana, hashish and Spice together.
+  - The page gives no date for the interception or the arrests; its byline is 7 November 2026 and its dateline 6 November 2026, so 6 November stands in for the incident date.
+  - The page names no border crossing in Ras Al Khaimah and reports no charges or court stage.
+  - The page's feature image is a 2021 stock file that cannot be shown to depict this seizure, so no media entry is added.
+  - The page attributes its account to Gulf Times and WAM and adds no independent Iraqi statement.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
-6 November 2026. [@1,6,7,8,9,10,11,12,13,15,16,18,19] The suspects are described as holding Gulf, Arab, African
+6 November 2026. [@1,6,7,8,9,10,11,12,13,15,16,18,19,20] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
 link of the plan, from smuggling to preparation for dealing. [@1,6,10,14]
 
@@ -197,18 +206,18 @@ Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
 surveillance, Shafaq News reported. [@4,5,8,10,11,12,13,15,17,18] The network planned to bring the drugs
 in through a border area of Ras Al Khaimah and then distribute them around the
-country. [@1,8,9,10,12,16,17,18,19]
+country. [@1,8,9,10,12,16,17,18,19,20]
 
 The haul included marijuana and hashish among cocaine, crystal methamphetamine
 and Spice; the latter is a synthetic drug and is not counted as cannabis here.
-[@2,9,10,11,12,13,16,17,18,19] The operation also seized 200,000 Captagon pills and more than 30 kg of
-drugs in total, with no separate figure given for the cannabis. [@3,11,12,17,19]
+[@2,9,10,11,12,13,16,17,18,19,20] The operation also seized 200,000 Captagon pills and more than 30 kg of
+drugs in total, with no separate figure given for the cannabis. [@3,11,12,17,19,20]
 
 The National Anti-Narcotics Agency ran the operation with Ras Al Khaimah Police,
 Iraq's General Directorate for Narcotics and Psychotropic Substances and the
-Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10,11,12]
+Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10,11,12,20]
 The agency said the operation struck a blow at trafficking networks and called
-on the public to report suspicious activity. [@1,18]
+on the public to report suspicious activity. [@1,18,20]
 
 The network's plan was uncovered after the UAE and Iraq exchanged intelligence, and the operation was run with the police forces of Ras Al Khaimah, Dubai, Sharjah and Ajman as well as Iraq's Interior Ministry narcotics directorate, under judicial coordination with the Federal Public Prosecution. [@15,18]
 
