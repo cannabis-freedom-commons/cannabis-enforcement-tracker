@@ -41,6 +41,21 @@ media:
     media_url: https://images.pubble.cloud/worker/jpg/default/1024/100748/b20003ff/content/2026/11/4e0dcdbc-97ca-4355-bb6e-bf8c84e5de73
     publisher: Almere DEZE WEEK
     caption: Photo published with the report of the Poldervlak nursery, credited to HV Almere.
+  - kind: photo
+    url: https://www.hv-almere.nl/2026/11/hennepkwekerij-met-1-000-wietplanten-opgerold-op-bedrijventerrein-in-almere-buiten/
+    media_url: https://www.hv-almere.nl/wp-content/uploads/2026/11/Hennepkwekerij-met-1.000-wietplanten-opgerold-op-bedrijventerrein-in-Almere-Buiten-2.jpg
+    publisher: HV-Almere
+    caption: Photo published in a three-image gallery with the report on the Poldervlak nursery; the gallery carries no caption or credit.
+  - kind: photo
+    url: https://www.hv-almere.nl/2026/11/hennepkwekerij-met-1-000-wietplanten-opgerold-op-bedrijventerrein-in-almere-buiten/
+    media_url: https://www.hv-almere.nl/wp-content/uploads/2026/11/Hennepkwekerij-met-1.000-wietplanten-opgerold-op-bedrijventerrein-in-Almere-Buiten-3.jpg
+    publisher: HV-Almere
+    caption: Second photo in the gallery published with the report on the Poldervlak nursery; uncaptioned and uncredited.
+  - kind: photo
+    url: https://www.hv-almere.nl/2026/11/hennepkwekerij-met-1-000-wietplanten-opgerold-op-bedrijventerrein-in-almere-buiten/
+    media_url: https://www.hv-almere.nl/wp-content/uploads/2026/11/Hennepkwekerij-met-1.000-wietplanten-opgerold-op-bedrijventerrein-in-Almere-Buiten-1.jpg
+    publisher: HV-Almere
+    caption: Third photo in the gallery published with the report on the Poldervlak nursery; uncaptioned and uncredited.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 721ac67590c138f5cd7cd6def7c7de42
@@ -61,6 +76,11 @@ sources:
     publisher: 1Almere
     date: 2026-11-06
     language: nl
+  - title: Hennepkwekerij met duizend wietplanten opgerold op bedrijventerrein in Almere Buiten
+    url: https://www.hv-almere.nl/2026/11/hennepkwekerij-met-1-000-wietplanten-opgerold-op-bedrijventerrein-in-almere-buiten/
+    publisher: HV-Almere
+    date: 2026-11-06
+    language: nl
 open_questions:
   - Only the publication date, 6 November 2026, is given for the article; the raid itself is dated to Thursday evening 5 November 2026 in the text.
   - No weight, growing area or street value was published, only the count of 1,000 plants.
@@ -68,20 +88,23 @@ open_questions:
   - No arrests, suspects or charges were reported; the police investigation was still at its start.
   - The reports say the plants will be destroyed; they do not say that this has been done.
   - The submitted page shows an uncaptioned image that is not established to depict this nursery, so no media entry is taken from it.
+  - The HV-Almere page does not say what its three uncaptioned gallery images show, so they are listed as photos published with the report without an identified subject or credit.
+  - HV-Almere reports the find as about 1,000 plants (ongeveer duizend), while the existing report records 1,000.
 ---
 
 Police found a cannabis nursery in a business unit on the Bakkenzuigerstraat on
 the Poldervlak industrial estate in Almere Buiten, in the city of Almere, on the
-evening of Thursday 5 November 2026. [@1] Officers found 1,000 cannabis plants
+evening of Thursday 5 November 2026. [@1,4] Officers found 1,000 cannabis plants
 inside the building. [@1] The nursery was discovered during a municipal
 inspection on the industrial estate, in which police took part in a supporting
-role. [@2]
+role. [@2,4]
 
 Police described the find as a large haul. [@1] No one had been arrested. [@1]
 Police said no arrest had been made because further investigation was needed
 first. [@3] After the discovery several officers worked at the premises to
-investigate. [@2]
+investigate. [@2,4]
 
 Police opened an investigation into the nursery. [@1] The cannabis plants found
 will be destroyed. [@1]
 
+The municipality of Almere carried out the inspection of the industrial estate. [@4]
