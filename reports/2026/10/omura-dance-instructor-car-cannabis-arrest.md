@@ -60,6 +60,11 @@ sources:
     publisher: au Webポータル
     date: 2026-11-07
     language: ja
+  - title: 大麻所持の疑いでダンス講師の男（２５）を逮捕…乗用車のトランク内から発見　大浦署など
+    url: https://www.47news.jp/15196210.html
+    publisher: 47NEWS（長崎新聞）
+    date: 2026-11-07
+    language: ja
 open_questions:
   - The sources do not say whether the man was charged or released; police were still investigating the supply route.
   - No street value was published for the 0.2 grams of dried cannabis.
@@ -70,11 +75,15 @@ open_questions:
   - The Nagasaki Shimbun and NBC accounts do not say whether the man was charged or released.
   - The submitted au Web portal capture held only the teaser of the Nagasaki Shimbun story, so its full text could not be quoted; the outlet's own page at news.jp was opened separately.
   - A time for the traffic stop, about 7:45 p.m. on 18 October, appears in the full Nagasaki Shimbun article but could not be quoted from the submitted capture.
+  - The submitted 47NEWS page carried only the opening of the Nagasaki Shimbun article, so the full wording, including the 0.2 grams and the trunk, was quoted from the dmenu copy of the same article.
+  - 'The article of 7 November 2026 gives no office or court outcome: it does not say whether the man was charged, indicted or released.'
+  - The sources still do not name the exact street in Oura-machi where the car was stopped.
+  - The Nagasaki Shimbun account places the dried cannabis in the trunk, while NBC Nagasaki Broadcasting reported finding it in the bag of the man in the passenger seat; the reports may describe different points in the stop.
 ---
 
 Nagasaki police arrested the 25-year-old dance instructor at about 8:45 a.m. on
 27 October 2026 on suspicion of violating the Narcotics and Psychotropics
-Control Law by possessing dried cannabis. [@2,3] He was 25 years old and worked as
+Control Law by possessing dried cannabis. [@2,3,5] He was 25 years old and worked as
 a dance instructor, living in Kiba 1-chome in Omura City. [@2] Police say he
 possessed 0.2 grams of dried cannabis on 18 October 2026 inside a car stopped on
 a street in Nagasaki City. [@2,3]
@@ -90,3 +99,5 @@ cannabis. [@2] The arrest was reported on 6 November 2026, more than a week
 after it took place. [@1]
 
 The car was on a city road in Oura-machi, Nagasaki City, and an officer on patrol stopped it for traffic guidance, finding the dried cannabis in its trunk. [@3,4]
+
+The car was parked on a city road in Oura-machi, Nagasaki City, and traffic guidance brought it to a stop at about 7:45 p.m. on 18 October. [@3] The man admitted the allegation, telling police he had the cannabis to smoke himself, and the police station was looking into whether he used it and where he obtained it. [@3]
