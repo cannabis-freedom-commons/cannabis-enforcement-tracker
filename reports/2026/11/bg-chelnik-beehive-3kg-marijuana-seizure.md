@@ -65,6 +65,11 @@ sources:
     publisher: RMTV
     date: 2026-11-06
     language: bg
+  - title: ГДБОП иззе марихуана, укрита в пчелен кошер в с. Челник
+    url: https://radio999bg.com/yambol/gdbop-izze-marihuana-ukrita-pchelen-kosher-chelnik
+    publisher: Радио и ТВ 999 (radio999bg.com)
+    date: 2026-11-06
+    language: bg
 open_questions:
   - The report gives the date of the Chelnik operation as 5 November but not the time of day or whether the searches in the two regions were simultaneous.
   - The weight is reported as about 3 kilograms, not an exact measured figure.
@@ -75,19 +80,21 @@ open_questions:
   - The page's only image is credited as a Pixabay stock photo, so no event photo from this source is listed.
   - The RMTV item gives no separate date for the two operations; 5 November is the date in the directorate's announcement as reported by other outlets.
   - The RMTV text does not say whether the Chelnik searches and the Smirnentsi search were simultaneous.
+  - The item reproduces the anti-organised-crime directorate's announcement without adding a plants, area or value figure.
+  - The original sentence places the beehive 'в имот в с. Челник, в пчелен кошер в двора', which was read as a beehive in the yard of the searched property, as other outlets describe it.
 ---
 
 Two men were detained in a specialised operation by Bulgaria's
 anti-organised-crime directorate, known by its Bulgarian initials GDBOP, in the
-Yambol region on 5 November. [@1,3,4] About 3 kilograms of marijuana were found
+Yambol region on 5 November. [@1,3,4,5] About 3 kilograms of marijuana were found
 hidden in a beehive in the yard of a house in the Yambol village of Chelnik.
-[@1,3,4] During the search of the property in Chelnik, officers found the drug
+[@1,3,4,5] During the search of the property in Chelnik, officers found the drug
 divided into various packages and hidden in the beehive. [@1,3,4] The drug was found
 divided into various packages during a search of a yard in the village,
 according to Bulgarian National Radio. [@2]
 
 A pre-trial investigation was opened under the supervision of the Yambol
-regional prosecutor's office. [@1,3,4]
+regional prosecutor's office. [@1,3,4,5]
 
 The Chelnik operation was one of two GDBOP anti-drug operations in the Yambol
 and Haskovo regions that ended with three men detained and about 15 kilograms of
