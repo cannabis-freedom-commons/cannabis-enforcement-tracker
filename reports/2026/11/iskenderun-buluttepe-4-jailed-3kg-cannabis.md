@@ -42,6 +42,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-07
     language: tr
+  - title: İskenderun'da Operasyonda 4 Şüpheli Tutuklandı, 3 Kilo 53 Gram Esrar Ele Geçirildi
+    url: https://www.ngazete.com/iskenderunda-operasyonda-4-supheli-tutuklandi-3-kilo-53-gram-esrar-ele-gecirildi-286145h.htm
+    publisher: N Gazete
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The article gives no separate date for the raid; 7 November 2026 is its publication date and is used as the incident date.
   - The 1 kilo 356 grams of synthetic narcotics and 10 synthetic pills found in the same search are excluded from cannabis figures under the tracker's substance scope.
@@ -49,22 +54,22 @@ open_questions:
   - The suspects are identified only by initials; full names and ages were not published.
   - Only one accessible source for this event was found; the page credits Anadolu Agency (AA).
   - The page photo is captioned only with the same headline and carries no credit, so it is not established to show this seizure and no media entry is included.
+  - The N Gazete initials list gives S.Ö. where the existing report gives S.O.; this looks like the same fourth suspect with an Ö/O spelling variant.
 ---
 
 Four suspects identified only by the initials E.B., O.Y., S.O. and C.B. were
 detained during an operation targeting drug sellers in Iskenderun. [@1] Officers
 from the Iskenderun District Police Directorate's Narcotic Crimes Combat Bureau,
 the Ilce Emniyet Mudurlugu Narkotik Suclarla Mucadele Buro Amirligi, raided a
-specified address in Buluttepe Mahallesi to carry out the operation. [@1]
+specified address in Buluttepe Mahallesi to carry out the operation. [@1,2]
 
 The search of that address found 3 kilos 53 grams of cannabis, called esrar in
-Turkish, one Indian hemp root, called Hint keneviri, and a precision scale. [@1]
+Turkish, one Indian hemp root, called Hint keneviri, and a precision scale. [@1,2]
 The same search also found 1 kilo 356 grams of synthetic narcotics and 10
 synthetic pharmaceutical pills, which are not counted in the cannabis totals in
 this report. [@1]
 
 After their procedures at the police station, all four suspects were transferred
 to the courthouse, where the duty magistrateship ordered them jailed pending
-trial. [@1] The enforcement action took place in Iskenderun district of Hatay
+trial. [@1,2] The enforcement action took place in Iskenderun district of Hatay
 province, at the Buluttepe Mahallesi address named by police. [@1]
-
