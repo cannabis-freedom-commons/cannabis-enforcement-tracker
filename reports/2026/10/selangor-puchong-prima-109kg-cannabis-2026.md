@@ -79,6 +79,11 @@ sources:
     publisher: Berita Harian
     date: 2026-11-06
     language: ms
+  - title: Individu ada masalah kewangan sasaran direkrut jadi keldai dadah
+    url: https://www.bharian.com.my/amp/berita/kes/2026/11/1702685/individu-ada-masalah-kewangan-sasaran-direkrut-jadi-keldai-dadah
+    publisher: Berita Harian
+    date: 2026-11-06
+    language: ms
 open_questions:
   - Harian Metro and Astro Awani describe an operation 'around Selangor', while RTM places the raid in Puchong Prima; the report uses the more precise RTM locality.
   - The Sun Daily summarises the remand as under section 38B of the Dangerous Drugs Act 1952, while Bernama-based accounts say Section 39B; the report uses 39B as reported by the majority of the opened accounts.
@@ -89,10 +94,12 @@ open_questions:
   - 'Left out, as its quotation was not found in Harian Metro: In the raid, police also seized two cars, a motorcycle, three watches and various items of jewellery.'
   - The submitted Berita Harian account gives only a combined 494.55 kg and RM19.59 million for both operations and names no drug type, so no cannabis figure can be drawn from it.
   - The RM126,062 in vehicles and jewellery is given for both operations together, not for the Puchong Prima cannabis case alone.
+  - This Berita Harian account places the cannabis raid only 'around Selangor', while the report follows RTM in naming Puchong Prima.
+  - The two cars, motorcycle, three watches and jewellery are described here for the cannabis raid alone, while RTM reports RM126,062 in vehicles and jewellery forfeited across two operations; the report still records no figure for them.
 ---
 
 Police in Selangor seized 109.17 kg of cannabis and arrested one man in a raid
-on 30 October 2026. [@1] Narcotics Crime Investigation Department director Datuk
+on 30 October 2026. [@1,6] Narcotics Crime Investigation Department director Datuk
 Hussein Omar Khan announced the seizure on 6 November 2026, at a press
 conference reported by Bernama. [@2] The raid took place in Puchong Prima and
 was part of an operation named Op Eupeodes. [@3,5]
@@ -101,12 +108,14 @@ The police valued the cannabis at RM327,600. [@3] Police stopped the load coming
 from the Kelantan border and also seized vehicles and jewellery. [@3]
 
 The arrested man is suspected of actively distributing cannabis since August
-last year. [@1] He tested positive for drugs and has three prior criminal
-records, police said. [@2] The man was remanded until 12 November to assist an
-investigation under Section 39B of the Dangerous Drugs Act 1952. [@1]
+last year. [@1,6] He tested positive for drugs and has three prior criminal
+records, police said. [@2,6] The man was remanded until 12 November to assist an
+investigation under Section 39B of the Dangerous Drugs Act 1952. [@1,6]
 
 Hussein announced the case at a press conference alongside a separate syndicate
 case in Brickfields, Kuala Lumpur, in which four people including a foreign
 mastermind were held over recruiting Malaysians as drug mules. [@4]
 
 Police also sought forfeiture of vehicles and jewellery worth RM126,062 under the two operations. [@3]
+
+In the raid, police also seized two cars, a motorcycle, three watches and various items of jewellery. [@6]
