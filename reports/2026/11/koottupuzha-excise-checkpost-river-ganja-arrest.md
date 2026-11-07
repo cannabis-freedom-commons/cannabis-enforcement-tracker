@@ -54,6 +54,11 @@ media:
     media_url: https://keralaonlinenews.com/static/c1e/client/94744/uploaded/8487b56f1018c672e413ebf424d96992.jpg?width=730&height=420&resizemode=4
     publisher: Kerala Online News
     caption: 'Photo published with the Koottupuzha report, captioned as excise officials apprehending the young man who jumped into the river with ganja during a vehicle inspection. Photo: Kerala Online News'
+  - kind: photo
+    url: https://www.twentyfournews.com/2026/11/07/man-carrying-ganja-jumped-into-a-river-during-vehicle-check-in-kannur.html
+    media_url: https://www.twentyfournews.com/wp-content/uploads/2026/11/Kannur-cannabis-arrest.jpg
+    publisher: Twentyfournews.com
+    caption: Page picture published with the account of the young man caught at the Koottupuzha vehicle check after jumping into the river; the page carries no caption text or credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a90bf8225d26f0017882c995ecd1f0c
@@ -84,6 +89,11 @@ sources:
     publisher: Thejas News
     date: 2026-11-07
     language: ml
+  - title: കണ്ണൂരിൽ വാഹന പരിശോധനയ്ക്കിടെ കഞ്ചാവുമായി പുഴയിൽ ചാടി യുവാവ്; സാഹസികമായി പിടികൂടി പൊലീസ്
+    url: https://www.twentyfournews.com/2026/11/07/man-carrying-ganja-jumped-into-a-river-during-vehicle-check-in-kannur.html
+    publisher: Twentyfournews.com
+    date: 2026-11-07
+    language: ml
 open_questions:
   - Neither account gives a calendar date for the event beyond 'today'; 7 November 2026 is the publication date of both and is used as the incident date.
   - Only Mathrubhumi gives a ganja weight, 10 grams; the submitted TrueVision page says only that ganja was found.
@@ -97,19 +107,21 @@ open_questions:
   - Thejas News gives 90 grams of ganja from the bag left on the bridge, while the existing report records Mathrubhumi's figure of 10 grams; the sources conflict and the tracker keeps the earlier figure pending a resolution.
   - Only Thejas News reports the 90-gram figure; no second opened account confirming that weight was found.
   - Thejas News gives the man's home as Markkarkkandi and does not give his name, so the identification rests on the check post, date and circumstances.
+  - The page attributes to excise a suspicion that the man also carried MDMA, destroyed when he jumped; no quantity is given and none is counted as cannabis.
+  - The page picture carries no caption or credit, so it cannot be confirmed to show this incident beyond the story it is published with.
 ---
 
 Excise officers inspecting vehicles at the Koottupuzha check post in Kannur
 district stopped a bus and a young man got off and jumped into the river below.
 [@1,3,5] The bus was travelling from Virajpet to Kannur and was being checked at
-about 11 a.m. [@2,4]
+about 11 a.m. [@2,4,6]
 
 He left his bag and slippers on the bridge, swam to the far bank, then climbed
 onto a rock in the middle of the river and threatened to dash his head on it and
-kill himself if officers closed in. [@2] Highway police sub-inspector
+kill himself if officers closed in. [@2,6] Highway police sub-inspector
 Sadanandan, check post sub-inspector Jose P. Jose, an excise team and local
 residents overpowered him after an effort lasting about two hours, and several
-officers' mobile phones were lost during the struggle. [@2,4] The TrueVision
+officers' mobile phones were lost during the struggle. [@2,4,6] The TrueVision
 account names check post sub-inspector Jose P. Jose, highway police
 sub-inspector Sadanandan, the excise team and local residents as those who
 caught him. [@1]
@@ -120,6 +132,8 @@ Thayyil. [@2]
 
 The man's home is given as Markkarkkandi in Kannur. [@3] He was said to have earlier cases at Valapattanam police station. [@3]
 
-Sub-inspector Jose P. Jose of Karikkottakkari was injured in the hand while officers tried to catch him. [@4]
+Sub-inspector Jose P. Jose of Karikkottakkari was injured in the hand while officers tried to catch him. [@4,6]
 
-The search of the bag he left behind yielded 90 grams of ganja, which excise officers seized. [@5] The excise account says he already had cases at Valapattanam police station in Kannur district. [@5]
+The search of the bag he left behind yielded 90 grams of ganja, which excise officers seized. [@5,6] The excise account says he already had cases at Valapattanam police station in Kannur district. [@5]
+
+The bus was a Karnataka state transport (KSRTC) coach, and the man was 25. [@6]
