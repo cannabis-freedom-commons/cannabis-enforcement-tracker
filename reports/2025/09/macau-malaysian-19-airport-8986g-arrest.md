@@ -44,6 +44,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 8.9865}]
+  route: {from: [th], to: [mo], crossing: "South Korea"}
   setting: [airport]
 data_sources:
   details.activity: [1, 2, 5, 4]
@@ -51,6 +52,7 @@ data_sources:
   details.case_stage: [1, 5, 2]
   details.date_precision: [1, 5, 2]
   details.products: [2, 3, 1, 5, 4]
+  details.route: [2]
   details.setting: [1, 5]
   figures.arrested: [1, 5, 2]
   figures.value: [3, 1, 2, 5]

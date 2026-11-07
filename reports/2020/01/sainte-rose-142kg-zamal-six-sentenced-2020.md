@@ -26,6 +26,7 @@ details:
   date_precision: exact
   products:
     - {product: flower, kg: 142}
+  route: {from: [re], to: [mu]}
   setting: [port]
   case_stage: final
   sentence_types: [prison]
@@ -37,6 +38,7 @@ data_sources:
   details.case_stage: [4]
   details.date_precision: [4, 1]
   details.products: [2]
+  details.route: [1]
   details.sentence_types: [4]
   details.setting: [3]
   figures.arrested: [1]

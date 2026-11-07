@@ -16,11 +16,13 @@ details:
   activity: [trafficking]
   agency_types: [customs, military]
   products: [{product: flower, kg: 288.8}]
+  route: {from: [mx], to: [cr]}
   setting: [port]
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
 media:

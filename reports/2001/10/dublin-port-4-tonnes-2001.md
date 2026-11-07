@@ -24,6 +24,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 3992}]
+  route: {from: [be], to: [ie]}
   setting: [street]
 data_sources:
   details.activity: [1, 2]
@@ -32,6 +33,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.date_precision: [1]
   details.products: [1]
+  details.route: [2]
   details.setting: [2, 1]
   figures.arrested: [2, 1]
   figures.kg_seized: [2]

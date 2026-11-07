@@ -25,6 +25,7 @@ details:
   agency_types: [customs]
   case_stage: investigation
   date_precision: exact
+  route: {from: [es], to: [eg, tr]}
   setting: [port]
   products:
     - {product: hashish}
@@ -35,6 +36,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.date_precision: [2]
   details.products: [1, 2]
+  details.route: [1, 2]
   details.setting: [2]
   figures.kg_seized: [2, 1]
   figures.value: [1, 2]

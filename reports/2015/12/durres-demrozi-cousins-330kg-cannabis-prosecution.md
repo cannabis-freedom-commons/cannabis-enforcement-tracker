@@ -20,6 +20,7 @@ details:
   case_stage: appeal
   date_precision: exact
   products: [{product: flower, kg: 330}]
+  route: {from: [al], to: [it]}
   setting: [port]
 data_sources:
   details.activity: [4, 2, 1, 3]
@@ -27,6 +28,7 @@ data_sources:
   details.case_stage: [3, 4]
   details.date_precision: [1]
   details.products: [2, 3]
+  details.route: [1, 2]
   details.setting: [1, 3]
   figures.kg_seized: [3, 4, 2]
 status: verified

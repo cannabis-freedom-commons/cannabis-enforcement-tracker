@@ -26,6 +26,7 @@ details:
   date_precision: exact
   products:
     - {product: hashish}
+  route: {from: [ma], to: [ly]}
   setting: [home, building]
 data_sources:
   details.activity: [2]
@@ -33,6 +34,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.route: [2]
   details.setting: [1, 2]
   figures.arrested: [2]
 status: verified

@@ -19,12 +19,14 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: hashish, kg: 115.7}]
+  route: {from: [mg], to: [mu]}
   setting: [street]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [2, 1]
+  details.route: [1]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
 status: verified

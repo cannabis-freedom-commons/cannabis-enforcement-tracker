@@ -32,6 +32,7 @@ details:
   case_stage: sentenced
   date_precision: exact
   products: [{product: hashish, kg: 5.36}, {product: flower}]
+  route: {from: [es], to: [it]}
   setting: [prison]
 data_sources:
   details.activity: [1, 2]
@@ -39,6 +40,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
   figures.fine: [1, 2]
   figures.prison: [1, 2]

@@ -36,6 +36,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 516}]
+  route: {from: [mx], to: [do]}
   setting: [port]
 data_sources:
   details.activity: [2, 1]
@@ -44,6 +45,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.date_precision: [2, 1]
   details.products: [2, 1, 3]
+  details.route: [2]
   details.setting: [2, 1]
   figures.kg_seized: [2, 1, 3]
 status: verified

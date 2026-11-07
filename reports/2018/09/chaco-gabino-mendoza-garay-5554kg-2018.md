@@ -30,6 +30,7 @@ details:
   agency_types: [anti-narcotics]
   date_precision: exact
   products: [{product: flower, kg: 5554}]
+  route: {from: [py], to: [bo]}
   setting: [vehicle]
 data_sources:
   details.activity: [1, 3, 2]
@@ -37,6 +38,7 @@ data_sources:
   details.agency_types: [1]
   details.date_precision: [2, 1, 3]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1, 2]
   figures.kg_seized: [1]
 status: verified

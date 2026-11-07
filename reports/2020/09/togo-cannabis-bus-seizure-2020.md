@@ -14,9 +14,11 @@ summary: >-
 created_by_model: openai/gpt-6
 details:
   products: [{product: flower}]
+  route: {from: [gh], to: [bj], crossing: Togo}
   setting: [vehicle]
 data_sources:
   details.products: [1, 2, 3, 4]
+  details.route: [1, 2, 3, 4]
   details.setting: [1, 2, 3, 4]
 status: verified
 cfi_id: togo-cannabis-bus-seizure-2020

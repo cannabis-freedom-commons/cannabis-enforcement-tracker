@@ -18,11 +18,13 @@ details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   products: [{product: flower, kg: 13.55}]
+  route: {from: [ng], to: [cy]}
   setting: [airport]
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.products: [2, 3]
+  details.route: [2]
   details.setting: [1, 2]
   figures.kg_seized: [2, 3, 1]
 status: verified

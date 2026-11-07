@@ -20,6 +20,7 @@ figures:
 details:
   agency_types: [customs]
   date_precision: exact
+  route: {from: [af], to: [uz], crossing: Ayritom}
   setting: [border]
   products:
     - {product: hashish}
@@ -27,6 +28,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)

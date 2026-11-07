@@ -27,6 +27,7 @@ details:
   date_precision: exact
   products:
     - {product: hashish}
+  route: {from: [ma], to: [gw], crossing: Senegal}
   setting: [home, building, mail]
 data_sources:
   details.activity: [1, 2]
@@ -34,6 +35,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.date_precision: [2, 1]
   details.products: [1, 2, 3]
+  details.route: [1, 3]
   details.setting: [1, 2]
   figures.arrested: [2, 1]
   figures.kg_seized: [1, 2]

@@ -24,6 +24,7 @@ details:
   agency_types: [border-guard]
   case_stage: investigation
   date_precision: exact
+  route: {from: [pl], to: [by], crossing: Brest}
   setting: [border]
   products:
     - {product: flower}
@@ -33,6 +34,7 @@ data_sources:
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1, 2]
   figures.arrested: [1]
 status: reported

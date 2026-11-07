@@ -24,6 +24,7 @@ details:
   products:
     - {product: hashish}
   sentence_types: [life, deportation]
+  route: {from: [in], to: [id], crossing: Bangkok}
   setting: [airport, prison]
 data_sources:
   details.activity: [1]
@@ -31,6 +32,7 @@ data_sources:
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.route: [1]
   details.sentence_types: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1]
