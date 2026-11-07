@@ -55,6 +55,10 @@ sources:
     url: https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-rs-18-crore-drug-seizure-tuticorin-hashish-oil-chennai-airport-ganja-ptag-3005439-2026-09-29
     publisher: India Today
     date: 2026-09-29
+  - title: Rs 17 cr hashish oil seized in Tuticorin, 4 arrested
+    url: https://theprint.in/india/rs-17-cr-hashish-oil-seized-in-tuticorin-4-arrested/3056408/
+    publisher: ThePrint
+    date: 2026-09-29
 open_questions:
   - The Hindu placed the interception near Therespuram; Deccan Chronicle and DT Next, both carrying PTI copy, placed the vehicle check at Boopalarayapuram (also spelled Poobalarayerpuram) near Thoothukudi.
   - 'The suspect names are spelled differently and two ages differ by a year: The Hindu gives J. Rexton (53), C. Rosario (40), S. Antony Libitas (36) and M. Sermadurai (46); the PTI reports give Reniston (53), Rosario (40), Chermadurai (45) and Antony Lipidus (35).'
@@ -64,6 +68,7 @@ open_questions:
   - India Today reports 67 kg of hashish oil for the Tuticorin seizure, while The Hindu and two PTI reports used in the existing report all report 17 kg with the same Rs 17 crore valuation, so the 17 kg figure is retained and the 67 kg figure is not used.
   - The same India Today article also reports a separate seizure of about 3.4 kg of hydroponic ganja from a passenger arriving from Kuala Lumpur at Chennai airport, a different place and agency left out of the Thoothukudi report.
   - The page image supplied with the capture shows an unrelated story with a Hindi caption about a different police investigation, so no photo of this seizure can be linked.
+  - The submitted page is a shortened PTI feed copy that stops after the second paragraph, and the page image is ThePrint's generic placeholder, so no photo of this seizure can be linked from it.
 ---
 
 Four men were arrested in the early hours of Monday 28 September 2026 when
@@ -74,7 +79,7 @@ Antony Libitas, 36, all of Thoothukudi, and M. Sermadurai, 46, of Siluvaipatti.
 Maldives. [@1]
 
 Police said they acted on a tip-off and intensified surveillance across the
-district before intercepting the vehicle. [@1,4] Officers seized 17 kg of hashish
+district before intercepting the vehicle. [@1,4,5] Officers seized 17 kg of hashish
 oil. [@1] PTI put the value at about Rs 17 crore (170 million rupees) on the
 international market. [@2,4] PTI reported that the suspects had planned to launch
 a boat to take it across the sea to the Maldives. [@3,4]
@@ -86,3 +91,5 @@ were questioning the men to trace the source of the oil and the syndicate
 members waiting for the consignment in the Maldives, the report said. [@3]
 Hashish oil is a concentrated extract of the cannabis plant, high in THC, the
 compound responsible for its intoxicating effects. [@3]
+
+According to police, preliminary investigations revealed that the high-value contraband was transported by car from Coimbatore to Tuticorin on Monday. [@5]
