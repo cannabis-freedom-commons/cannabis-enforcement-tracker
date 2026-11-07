@@ -91,6 +91,11 @@ sources:
     publisher: Bnews.vn
     date: 2026-11-07
     language: vi
+  - title: الإمارات.. إحباط تهريب 200 ألف قرص كبتاغون والإطاحة بشبكة دولية
+    url: https://www.jordanzad.com/index.php?id=773042&page=article
+    publisher: زاد الاردن الاخباري - أخبار الأردن
+    date: 2026-11-07
+    language: ar
 open_questions:
   - No separate weight is published for the marijuana or hashish, so no cannabis quantity can be recorded; the more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
   - No figure is published for how the Captagon pills, other drugs or cannabis are split by weight.
@@ -112,22 +117,25 @@ open_questions:
   - The Bnews article gives no date for the interception or the arrests; 7 November 2026 is its publication date and 6 November 2026 remains the announcement date used in the report.
   - The Vietnamese account reproduces IraqiNews reporting and names the Iraqi Interior Ministry, Iraq's narcotics directorate, the UAE National Anti-Narcotics Agency and Ras Al Khaimah Police, with judicial coordination by the UAE Public Prosecution; it reports no charges or court stage.
   - The page's only image is a generic illustration file, not established to show this seizure, so no media entry is added.
+  - The Jordanian page gives no date for the interception or the arrests; 6 November 2026, the announcement date used by the existing report, remains the incident date, while 7 November is this page's publication date.
+  - The page reproduces the UAE anti-narcotics agency statement and gives no separate weight or street value for the marijuana or hashish; its figure of more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
+  - The page's feature image has no caption or credit and is not established to show this seizure, so no media entry is added.
 ---
 
 Twenty defendants of Gulf, Arab, African and Asian nationalities face
-allegations of belonging to an international criminal network. [@2,5,7,9,10,11] The network
+allegations of belonging to an international criminal network. [@2,5,7,9,10,11,12] The network
 was allegedly trying to bring in 200,000 Captagon pills and more than 30
 kilograms of drugs through a border area of the emirate of Ras Al Khaimah for
-distribution inside the country. [@2,4,6,9,11]
+distribution inside the country. [@2,4,6,9,11,12]
 
 Alongside the Captagon pills, the haul included varied quantities of cocaine,
-crystal, marijuana, hashish and Spice, a synthetic drug. [@1,5,7,8,9,11] The operation
+crystal, marijuana, hashish and Spice, a synthetic drug. [@1,5,7,8,9,11,12] The operation
 began with intelligence exchanged between the UAE and Iraq that revealed a
 multinational network's plan to smuggle large quantities of drugs into the
-country. [@3,5,9] The authority worked with the Ras Al Khaimah Police General
+country. [@3,5,9,12] The authority worked with the Ras Al Khaimah Police General
 Headquarters, the General Directorate of Narcotics and Psychotropic Substances
 at the Iraqi Interior Ministry and the Federal Public Prosecution, which
-coordinated judicially. [@2,8,9]
+coordinated judicially. [@2,8,9,12]
 
 Security teams caught some members in the act of holding the drugs and trying to
 smuggle them, while the rest were arrested inside the country in ambushes. [@1,5,9]
