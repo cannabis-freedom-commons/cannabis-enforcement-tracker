@@ -49,6 +49,11 @@ sources:
     publisher: Dinamalar
     date: 2026-11-07
     language: ta
+  - title: '3 கிலோ கஞ்சா, 520 போதை மாத்திரைகள் பறிமுதல்: 5 போ் கைது'
+    url: https://www.dinamani.com/all-editions/edition-coimbatore/coimbatore/2026/Nov/07/3-kg-of-ganja-and-520-narcotic-pills-seized-5-people-arrested
+    publisher: Dinamani
+    date: 2026-11-07
+    language: ta
 open_questions:
   - The article gives no date for the patrol or the arrests; 7 November 2026 is its publication date and is used as the incident date.
   - No charge sheet, court production or remand was reported for the four.
@@ -57,6 +62,9 @@ open_questions:
   - Only one accessible source for this event was found after searching in Tamil and English.
   - The page shows one undated picture captioned only as 'Latest Tamil News' with no credit, so it is linked rather than used as a cover.
   - The number 25 beside the plastic covers is ambiguous in the Tamil text and is not recorded as a figure.
+  - The Dinamani headline and lede say 3 kg of ganja for the two catches combined, but the detailed breakdown gives 2.10 kg plus 500 grams (2.6 kg in total); the headline figure appears rounded.
+  - The article says the Peelamedu patrol was on Friday, while 7 November 2026 was a Saturday; the existing report uses the 7 November publication date as the incident date.
+  - The page's only image is labelled as a file photo, so no media entry is added.
 ---
 
 Peelamedu police in Coimbatore were on patrol at Brindavan Colony in Civil
@@ -66,10 +74,9 @@ them. [@1]
 
 Police identified them as Karthik Raja, 29, of Chinniyampalayam; Lokeshwaran,
 25, of Aranthangi in Pudukkottai district; Nithishkumar, 26, of Peelamedupudur;
-and Suresh, 23, of Avinashi in Tiruppur district. [@1] Questioning showed they
+and Suresh, 23, of Avinashi in Tiruppur district. [@1,2] Questioning showed they
 had been moving ganja, the local term for cannabis, and tablets used as
-intoxicants for sale. [@1]
+intoxicants for sale. [@1,2]
 
 Officers seized 2.1 kg of ganja, 520 tablets used as intoxicants, a motorbike
 and 25 plastic covers from them. [@1]
-

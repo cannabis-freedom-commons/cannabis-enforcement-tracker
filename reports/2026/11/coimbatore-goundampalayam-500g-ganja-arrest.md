@@ -40,6 +40,11 @@ sources:
     publisher: Dinamalar
     date: 2026-11-07
     language: ta
+  - title: '3 கிலோ கஞ்சா, 520 போதை மாத்திரைகள் பறிமுதல்: 5 போ் கைது'
+    url: https://www.dinamani.com/all-editions/edition-coimbatore/coimbatore/2026/Nov/07/3-kg-of-ganja-and-520-narcotic-pills-seized-5-people-arrested
+    publisher: Dinamani
+    date: 2026-11-07
+    language: ta
 open_questions:
   - The page gives no separate date for the patrol; 7 November 2026 is the publication date and is used as the incident date.
   - The brief's heading says four people were arrested for selling ganja, but the text describes only one man, so one arrest is counted and the heading is treated as an error.
@@ -56,10 +61,11 @@ holding ganja, the local term for cannabis. [@1] The catch was made in
 Goundampalayam, a neighbourhood on the western edge of Coimbatore in Tamil Nadu.
 [@1]
 
-Questioning identified him as a 19-year-old from the same area. [@1] Officers
+Questioning identified him as a 19-year-old from the same area. [@1,2] Officers
 lodged him in jail and seized 500 grams of ganja from him. [@1]
 
 Dinamalar published the catch as one of several Coimbatore crime briefs under
 the heading "Four arrested for selling ganja", though the brief itself describes
 one arrest. [@1]
 
+The man was 19-year-old Bojamunirajan of Prabhu Nagar, Goundampalayam, arrested for selling ganja near the Sivan temple. [@2]
