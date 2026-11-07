@@ -1,7 +1,7 @@
 ---
 code: JVV0C0
 added_at: "2026-11-06T19:08:05.911968Z"
-date: 2026-11-05
+date: 2026-11-06
 country: gr
 place: Larisa, Thessaly
 coordinates: [39.6383, 22.4161]
@@ -9,8 +9,7 @@ precision: locality
 type: arrest
 also: [seizure]
 title: Man, 50, arrested in Larisa with 8 cannabis plants in his home
-summary: >-
-  Police in Larisa arrested a 50-year-old Greek man on 5 November 2026 after searching his home and finding eight cannabis plants, 1.5 to 3.3 metres tall, each in a pot, plus 116 grams of raw cannabis. He was taken to the Larisa prosecutor under the drugs and weapons laws, and the search also turned up a precision scale and 13 firearm cartridges.
+summary: Police in Larissa arrested a 50-year-old man after finding eight potted cannabis plants and 116 grams of cannabis at his home. He was released at midday on 6 November 2026 after giving his apology statement to the investigating judge.
 figures:
   arrested: 1
   plants_destroyed: 8
@@ -61,12 +60,19 @@ sources:
     publisher: ERT News
     date: 2026-11-06
     language: el
+  - title: 'Λάρισα: Καλλιεργούσε χασίς σε γλάστρες | Ελευθερία'
+    url: https://www.eleftheria.gr/astynomika/kalliergouse-chasis-se-glastres/
+    publisher: Ελευθερία
+    date: 2026-11-07
+    language: el
 open_questions:
   - No separate charge is named beyond the drugs and weapons laws, and no court outcome was reported after the trip to the prosecutor.
   - The reports do not say whether the 116 grams and the plants were intended for sale; only cultivation and possession are recorded.
   - Only local reporting and an ERT regional piece, both following the police announcement, were found; no second independent account.
   - No weight for the plants and no value or expected benefit is stated.
   - The photo is published with the report but not separately captioned, so it is not established beyond doubt that it shows these plants and not an earlier seizure.
+  - The release date of 6 November 2026 is inferred from the article's wording that he was released yesterday at midday, published on 7 November 2026.
+  - The article gives no further detail on conditions of release, charges filed, or a future trial date.
 ---
 
 Police arrested a 50-year-old Greek man at midday on 5 November 2026 in Larisa
@@ -75,7 +81,7 @@ the Larisa drugs squad, acting on information gathered with police from the Agia
 police station, searched his home that day. [@1]
 
 In the house they found eight cannabis plants between 1.5 and 3.3 metres tall,
-each in its own pot, and uprooted them. [@1] They also seized two packages
+each in its own pot, and uprooted them. [@1,3] They also seized two packages
 holding 116 grams of raw cannabis. [@1] Two further items were taken: a
 precision scale and 13 firearm cartridges. [@1]
 
@@ -84,3 +90,4 @@ instance, while the drugs squad of the Larisa crime investigation subdivision
 carried out the preliminary inquiry. [@1] A second Larisa outlet, ERT News,
 reported the same search and the same quantities the following morning. [@2]
 
+The 50-year-old man from Larissa was released at midday on 6 November 2026 after giving his apology statement to the investigating judge. [@3]
