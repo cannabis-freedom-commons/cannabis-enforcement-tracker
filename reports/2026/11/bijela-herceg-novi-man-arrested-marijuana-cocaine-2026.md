@@ -1,0 +1,68 @@
+---
+code: M0AWEF
+added_at: "2026-11-07T16:00:34.632653Z"
+date: 2026-11-07
+country: me
+place: Bijela, Herceg Novi
+coordinates: [42.4536, 18.6533]
+precision: locality
+type: arrest
+also: [seizure, prosecution]
+title: 30-year-old arrested in Bijela with marijuana, cocaine and tablets
+summary: >-
+  Police in Bijela, Herceg Novi, arrested a 30-year-old man after finding cocaine, marijuana and tablets allegedly meant for street sale. The senior prosecutor in Podgorica qualified the case as drug production, possession and trafficking and ordered his detention.
+figures:
+  arrested: 1
+details:
+  agencies: [Herceg Novi Security Department, Higher State Prosecutor's Office in Podgorica]
+  agency_types: [police, prosecutor]
+  products:
+    - {product: flower}
+  activity: [possession, sale]
+  charges: ['unauthorised production, possession and placing into circulation of narcotic drugs']
+  case_stage: investigation
+  date_precision: publication
+  region: Herceg Novi Municipality
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.products: [1]
+  figures.arrested: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 0d1a53327a3474d5a10bfd915ebdffc2
+tags: [herceg-novi, bijela, marijuana]
+sources:
+  - title: 'Herceg Novi: Pokušao da proguta kesicu kokaina tokom policijske kontrole, pronađeni i marihuana i tablete'
+    url: https://www.antenam.net/clanak/herceg-novi-pokusao-da-proguta-kesicu-kokaina-tokom-policijske-kontrole-pronadeni-i-marihuana-i-tablete
+    publisher: Antena M
+    date: 2026-11-07
+    language: sr
+open_questions:
+  - The article gives no separate date for the control and arrest; 7 November 2026 is its publication date and is used as the incident date.
+  - No separate weight or count is given for the marijuana, only several PVC packages of cocaine and marijuana together, so no cannabis kilograms are recorded and cocaine and tablet quantities are left out as out of scope.
+  - No outcome beyond the prosecutor-ordered deprivation of liberty was reported; charges before a court and detention decisions remain unknown.
+  - Only one account of this arrest, citing the Police Administration, could be opened; no second independent source was found.
+  - No event photo is listed; the submitted page's only captured image is a site globe graphic.
+---
+
+Officers of the Herceg Novi Security Department arrested 30-year-old D.T. from
+Herceg Novi in Bijela after finding cocaine, marijuana and tablets suspected to
+be intended for street sale. [@1] During the police control in the Bijela
+settlement, D.T. tried to swallow a PVC bag containing cocaine, but officers
+stopped him. [@1]
+
+After he was taken to the Herceg Novi Security Department premises, a detailed
+search found and seized several PVC packages of cocaine and marijuana and
+tablets of different types suspected to be intended for further street sale.
+[@1] Police also seized a mobile telephone from him. [@1]
+
+After gathering information and completing the criminal processing, police
+informed the senior state prosecutor at the Higher State Prosecutor's Office in
+Podgorica about the event. [@1] The prosecutor qualified the event as the
+criminal offence of unauthorised production, possession and placing into
+circulation of narcotic drugs and ordered that D.T. be deprived of liberty. [@1]
+
