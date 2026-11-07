@@ -53,6 +53,10 @@ sources:
   - title: Albanian illegal migrant who was jailed over £1.5m cannabis plot wins right to fight deportation 'because his crime didn't cause serious harm' | Framing Analysis | NewsCord
     url: https://newscord.org/watchdog/article/c6f94fc6-0721-4536-9e81-92841ede6390
     publisher: NewsCord
+  - title: Albanian drug dealer to remain in UK after judge rules offending 'not serious enough to be classed as foreign criminal'
+    url: https://www.thesun.co.uk/news/40944909/albanian-drug-dealer-avoids-uk-deportation/
+    publisher: The Sun
+    date: 2026-11-06
 open_questions:
   - The article does not state the date of the Upper Tribunal ruling; 2026-11-05 is the Daily Mail's publication date.
   - The £1.5 million is the sum the gang aimed to make each year selling cannabis, not a police valuation of the plants and cash seized, so no value is recorded in figures.
@@ -65,18 +69,20 @@ open_questions:
   - The Telegraph gives no separate date for the Upper Tribunal ruling; 2026-11-05 is its publication date.
   - The Telegraph's cannabis-farm photograph republishes the same Kent Police handout already represented in the existing report, so no new distinct media is added.
   - NewsCord republishes the Daily Mail text and links to it as the original article, so it is not an independent account of the tribunal ruling.
+  - The Sun gives no plant, harvested-cannabis or cash figures, so the existing figures remain from the earlier account.
+  - The page's images carry no captions establishing that they show this event, so no media entry is added.
 ---
 
 Ndue Paluca, an Albanian who entered the UK without permission in 2012, has won
-the right to pursue a formal appeal against his deportation. [@1,3] Upper Tribunal
+the right to pursue a formal appeal against his deportation. [@1,3,4] Upper Tribunal
 Judge Sarah Grey set aside the finding that his cannabis offending caused
-serious harm and ordered the case to be heard by a new judge. [@1,2,3] She ruled
+serious harm and ordered the case to be heard by a new judge. [@1,2,3,4] She ruled
 that the first-tier judge erred because police had seized the cannabis before it
 circulated within society. [@1] Judge Grey also found the lower judge had failed
 to properly consider the harm deportation would cause his two young children
 under Article 8 of the European Convention on Human Rights, which protects
 family life. [@1] She sent the appeal back to the first-tier tribunal for
-reconsideration and left Paluca in the UK. [@1,2] Paluca challenged his
+reconsideration and left Paluca in the UK. [@1,2,4] Paluca challenged his
 deportation order in October 2023, and a first-tier immigration tribunal
 rejected the challenge and dismissed a later appeal in March 2025. [@1] The case
 turned on whether his offence was serious enough for deportation, given that he
@@ -95,4 +101,4 @@ overlooked the fact that police seized all the cannabis grown by the gang before
 it could be sold and cause harm. [@1] Shadow Home Secretary Chris Philp called
 it absurd that being caught red-handed now counts in a criminal's favour. [@1]
 
-Paluca arrived in the UK in 2012 and made an asylum claim in 2015 because he was in a relationship and had two young daughters. [@2] He withdrew that asylum claim because it was entered into on fraudulent grounds in the face of a deportation order. [@2] He remained in the UK and became a gardener growing cannabis for an organised crime group. [@2] The gang committed frauds to obtain cars, open bank accounts and obtain leases, in which Paluca had a lesser role. [@2] After Paluca was jailed on 29 October 2021, the Home Office could not automatically deport him because the sentence was less than a year but sought his removal on serious-harm grounds. [@2]
+Paluca arrived in the UK in 2012 and made an asylum claim in 2015 because he was in a relationship and had two young daughters. [@2] He withdrew that asylum claim because it was entered into on fraudulent grounds in the face of a deportation order. [@2,4] He remained in the UK and became a gardener growing cannabis for an organised crime group. [@2] The gang committed frauds to obtain cars, open bank accounts and obtain leases, in which Paluca had a lesser role. [@2,4] After Paluca was jailed on 29 October 2021, the Home Office could not automatically deport him because the sentence was less than a year but sought his removal on serious-harm grounds. [@2]
