@@ -57,11 +57,16 @@ sources:
     url: https://tvmnews.mt/en/news/16-year-old-youth-among-seven-arrested-in-connection-with-drug-trafficking/
     publisher: TVMnews.mt
     date: 2026-11-06
+  - title: Seven Arrested As Police Seize Suspected Synthetic Drugs And Thousands In Cash
+    url: https://lovinmalta.com/news/local/seven-arrested-as-police-seize-suspected-synthetic-drugs-and-thousands-in-cash/
+    publisher: Lovin Malta
+    date: 2026-11-06
 open_questions:
   - The seized substances are described only as suspected synthetic drugs and suspected synthetic cannabis, so no weight of cannabis flower, resin or oil is recorded.
   - Times of Malta reports €5,600 in cash seized in Marsa, while TVMnews reports €5,000.
   - The article does not say which four of the seven arrested people were arraigned, and no charges or court outcome are reported.
   - The date of the arrests is given only as 'in recent hours'; 6 November 2026, the publication date, is used as the incident date.
+  - The St Julian's and Marsa substances are described only as suspected synthetic drugs and suspected synthetic cannabis, so no cannabis weight or product is recorded, consistent with the report's existing open question.
 ---
 
 Police arrested seven people in Malta in two separate drug-trafficking
@@ -71,16 +76,15 @@ The six held in Marsa were five men aged between 16 and 39 and a 32-year-old
 woman. [@1]
 
 Searches in Marsa turned up some 165 packets believed to be prepared for sale
-and €5,600 in cash. [@1] Police also confiscated two vehicles they say were used
+and €5,600 in cash. [@1,3] Police also confiscated two vehicles they say were used
 for drug trafficking. [@1] In the second case, officers armed with an arrest
 warrant entered a residence on Sir Joseph Carbone Street, St Julian's, and
-arrested a 39-year-old man on the spot. [@1] The search there yielded about 100
+arrested a 39-year-old man on the spot. [@1,3] The search there yielded about 100
 grams of a substance police described as suspected synthetic cannabis, divided
 into small packets, a small amount of what they suspect is heroin, and several
 mobile phones. [@1]
 
 Four of the seven arrested people were to be arraigned that day before
-Magistrate Lara Lanfranco. [@1] Police said both investigations were still
-ongoing. [@2] TVMnews, citing the police, put the Marsa cash seizure at €5,000
+Magistrate Lara Lanfranco. [@1,3] Police said both investigations were still
+ongoing. [@2,3] TVMnews, citing the police, put the Marsa cash seizure at €5,000
 rather than €5,600. [@2]
-
