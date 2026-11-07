@@ -63,6 +63,10 @@ sources:
     url: https://hirunews.lk/en/498898/a-37-year-old-indian-national-was-arrested-in-katunayake-with-a-drug-haul-worth-rs-230-million
     publisher: Hiru News
     date: 2026-11-07
+  - title: Indian national arrested at BIA with over Rs. 230 million worth of Kush and Hashish
+    url: https://www.newswire.lk/2026/11/07/indian-national-arrested-at-bia-with-over-rs-230-million-worth-of-kush-and-hashish/
+    publisher: Newswire
+    date: 2026-11-07
 open_questions:
   - No result of the production before the Negombo Magistrate's Court or the terms of any detention order was reported.
   - The suspect is identified only by age, occupation and residence in Tamil Nadu; no name was published.
@@ -74,13 +78,13 @@ open_questions:
 
 Officers of the Airport Police Narcotics Bureau arrested a foreign passenger at
 Bandaranaike International Airport in the early hours of 7 November 2026 on
-suspicion of trying to smuggle kush and hashish out of Sri Lanka. [@1,3] The
+suspicion of trying to smuggle kush and hashish out of Sri Lanka. [@1,3,4] The
 suspect is a 37-year-old businessman who lives in Tamil Nadu, India. [@1] He
 arrived at the airport at about 12.00 a.m. that day on Batik Air flight OD-297
 from Kuala Lumpur, Malaysia. [@1]
 
 A search of his luggage found 2 kilograms and 102 grams of kush hidden inside
-four tins labelled as containing tamarind toffees. [@1] Officers also recovered
+four tins labelled as containing tamarind toffees. [@1,2] Officers also recovered
 5 kilograms and 260 grams of hashish, processed into the shape of toffees and
 hidden inside six separate parcels. [@1] The officers valued the seized stock at
 about Rs 231.42 million. [@1]
@@ -92,3 +96,5 @@ flight details, describing the man as a 37-year-old Indian businessman from
 Tamil Nadu who arrived from Kuala Lumpur on Batik Air flight OD-297. [@2]
 
 The street value of the seized contraband is estimated at approximately Rs. 230 million (Rs. 23 crore). [@3] The suspect and the seized narcotics have been handed over to the Airport Police Narcotics Bureau (PNB) for further investigation. [@3]
+
+The suspect was stopped as he tried to leave the airport premises with the consignment, according to Newswire. [@4]
