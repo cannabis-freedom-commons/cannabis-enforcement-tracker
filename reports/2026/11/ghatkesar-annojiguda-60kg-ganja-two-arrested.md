@@ -71,6 +71,11 @@ sources:
     url: https://www.thehindu.com/news/national/telangana/two-held-with-60-kg-of-marijuana-in-car-near-ghatkesar/article71678215.ece
     publisher: The Hindu
     date: 2026-11-07
+  - title: ఘట్కేసర్ లో 60 కిలోల గంజాయి పట్టివేత...
+    url: https://www.dishadaily.com/telangana/medchal/60-kg-of-ganja-seized-in-ghatkesar-599392
+    publisher: Disha Daily (దిశ)
+    date: 2026-11-07
+    language: te
 open_questions:
   - Only one account of the check could be opened; no police statement or second outlet reporting this same seizure was found.
   - The 60 kilograms is given as a round figure for 60 packets, with no exact weighed total.
@@ -86,6 +91,8 @@ open_questions:
   - Left out arrested, as its only supporting source is not cited by the report's text.
   - Left out kg seized, as its only supporting source is not cited by the report's text.
   - Left out value, as its only supporting source is not cited by the report's text.
+  - The article gives no NDPS section, remand date or court outcome for the two arrested men.
+  - Disha Daily does not say whether the Odisha supplier or the Mumbai receiver has since been arrested.
 ---
 
 Police in the LB Nagar zone of Hyderabad arrested two men and seized 60
@@ -93,15 +100,15 @@ kilograms of ganja from a car near a spice (masala) company on the edge of
 Annojiguda village in Ghatkesar mandal on 7 November 2026. [@1,2] Officers from
 the Special Operations Team (SOT) of the LB Nagar zone and the Pocharam IT
 Corridor police station stopped the Maruti Suzuki SX4 at about 11.30 am and
-found 60 packets of ganja hidden behind the back seat. [@1] Police said the
+found 60 packets of ganja hidden behind the back seat. [@1,4] Police said the
 ganja was being carried from Odisha through Hyderabad to Mumbai and was worth
-about 3 million rupees. [@1]
+about 3 million rupees. [@1,4]
 
 LB Nagar zone Deputy Commissioner of Police Anuradha said the check followed a
 tip-off and was carried out on the orders of police commissioner B. Sumathi.
 [@1] Questioning showed the two had bought the ganja in Odisha from Purnachandra
 Mahapatra, alias Happy, to supply to Yasmin Chand Sayyad, alias Chand Bhai, who
-runs a Dharavi, Mumbai, shop; both were still at large. [@1] Police said the
+runs a Dharavi, Mumbai, shop; both were still at large. [@1,4] Police said the
 pair planned to buy the ganja at about 7,000 rupees a kilogram and sell it at
 15,000 rupees a kilogram, and that they had taken consignments from the same
 supplier twice before. [@1] The two suspects had earlier NDPS Act cases
@@ -114,3 +121,5 @@ special teams were searching for the Odisha supplier and the Mumbai receiver.
 [@1,2]
 
 The Hindu reported that Mohammed Amer, 28, lives in Hafeez Baba Nagar, Bandlaguda, and Mohd Imran Uddin, 35, in Toor Colony, Chandrayangutta. [@3] Police said Amer had been involved in five NDPS Act cases and detained under the Preventive Detention Act twice, while Imran Uddin had four earlier cases, two of them under the NDPS Act. [@3] Police said they were investigating to trace the supplier and the intended receiver and to identify others in the interstate network. [@3]
+
+Disha Daily reported that the check was carried out on the outskirts of Annojiguda, near a masala (spice) company, in Ghatkesar. [@4]
