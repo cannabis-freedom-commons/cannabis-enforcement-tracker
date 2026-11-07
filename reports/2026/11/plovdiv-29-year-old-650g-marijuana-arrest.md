@@ -50,17 +50,23 @@ sources:
     publisher: БНТ Новини
     date: 2026-11-06
     language: bg
+  - title: Арест в Пловдив! Иззеха над 800 грама наркотици, продавани чрез мобилни приложения
+    url: https://newspoint.bg/arest-v-plovdiv-izzeha-nad-800-grama-narkotitsi-prodavani-chrez-mobilni/
+    publisher: NewsPoint.bg
+    date: 2026-11-06
+    language: bg
 open_questions:
   - The 650 grams of marijuana come from the expert examination; the overall figure for all three substances is reported as close to 800 grams by Plovdiv Online and as more than 800 grams by Darik News and BNT.
   - The reports do not say whether anyone was charged or whether a court imposed a measure of restraint; the accounts say only that a pre-trial investigation continues.
   - The articles do not say whether the seven vacuum-sealed packets found on the man are the 650 grams of marijuana counted later.
   - The submitted page's lead image is a general police photograph the outlet used earlier (its alt text refers to children going to school), not a picture of this seizure, so no photo of the event is listed.
   - Left out arrested, as its quotation was not found in Darik News.
+  - NewsPoint gives the combined figure as about 810 grams while the existing report notes other outlets describing the haul as close to 800 grams or more than 800 grams.
 ---
 
 Officers of Plovdiv's Sixth Police District detained a 29-year-old man during an
 operation in the city and found marijuana, amphetamine and methamphetamine on
-him and at his home. [@1] The police check took place on 5 November 2026 by a
+him and at his home. [@1,4] The police check took place on 5 November 2026 by a
 petrol station on Tsarigradsko shose Blvd in Plovdiv. [@2] The man ran from the
 officers when they tried to check him and resisted when he was detained. [@1] A
 search of his person found seven vacuum-sealed packets of green plant material.
@@ -76,3 +82,4 @@ communication apps, which he used to contact potential buyers. [@3] A pre-trial
 investigation was opened and work to document the crime continued under the
 supervision of the District Prosecutor's Office in Plovdiv. [@3]
 
+Officers caught the man after a short chase despite his resistance. [@4] NewsPoint put the total seized at about 810 grams, the sum of the 650 grams of marijuana, 120 grams of amphetamine and 40 grams of methamphetamine. [@4]
