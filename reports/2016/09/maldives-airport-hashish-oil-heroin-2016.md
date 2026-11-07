@@ -20,11 +20,14 @@ details:
   case_stage: charged
   products: [{product: hashish, kg: 24.9}, {product: oil}]
   setting: [airport, home]
+  route: {from: [in], to: [mv]}
+
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

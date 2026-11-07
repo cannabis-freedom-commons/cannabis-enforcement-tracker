@@ -27,12 +27,15 @@ details:
   products: [{product: flower, kg: 0.013}]
   sentence_types: [fine]
   setting: [airport]
+  route: {from: [jm], to: [kn], crossing: Antigua}
+
 data_sources:
   details.activity: [2, 3, 4]
   details.agency_types: [1, 2, 3]
   details.case_stage: [4, 1]
   details.date_precision: [1, 2]
   details.products: [3, 4]
+  details.route: [2]
   details.sentence_types: [2, 3, 4, 1]
   details.setting: [1, 3]
   figures.arrested: [1, 2]

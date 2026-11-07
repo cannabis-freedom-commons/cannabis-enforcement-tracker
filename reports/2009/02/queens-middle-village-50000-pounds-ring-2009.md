@@ -26,12 +26,15 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 22679.6}]
   setting: [home]
+  route: {from: [ca/bc], to: [us/ny]}
+
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2, 3]
   details.case_stage: [2, 3, 1]
   details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.route: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2, 3]
