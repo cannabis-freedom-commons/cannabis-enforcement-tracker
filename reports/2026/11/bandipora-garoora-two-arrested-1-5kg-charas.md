@@ -61,6 +61,10 @@ sources:
   - title: Two arrested with 1.5 kg charas-like substance in J-K's Bandipora
     url: https://www.greaterkashmir.com/jammu-kashmir/two-arrested-with-15-kg-charas-like-substance-in-j-ks-bandipora-12791731
     publisher: Greater Kashmir
+  - title: Two Arrested With 1.5 Kg Charas-Like Substance In Bandipora
+    url: https://earthnews.in/two-arrested-with-1-5-kg-charas-like-substance-in-bandipora/
+    publisher: The Earth News
+    date: 2026-11-07
 open_questions:
   - No laboratory confirmation that the substance was cannabis was published; police and outlets describe it only as a charas-like substance.
   - Police gave the weight only as approximately 1.5 kg, with no street value and no detail of how the substance was packed.
@@ -77,9 +81,9 @@ open_questions:
 
 Police in Bandipora district arrested Rafaqat Ali Gojar, of Halwadi in Aragam,
 and Zakir Hussain Qureshi, of Chapran in Aragam, during a naka checking, a
-police checkpoint stop, at Garoora Crossing on Saturday 7 November 2026. [@1,4,5]
+police checkpoint stop, at Garoora Crossing on Saturday 7 November 2026. [@1,4,5,6]
 Police recovered approximately 1.5 kg of a charas-like substance from the two
-men, a police spokesperson said. [@1,4]
+men, a police spokesperson said. [@1,4,6]
 
 Police said the two were arrested on Saturday in Bandipora district and about
 1.5 kg of charas-like substance was seized from them. [@1,5] Kashmir Life put the
@@ -98,3 +102,5 @@ Indepth reported the same FIR, sections and recovery of approximately 1.5
 kilograms of a charas-like substance at Garoora Crossing. [@2]
 
 The two were stopped as suspects during the checkpoint check, which was part of a drive against drug trafficking, and the substance was found when they were searched. [@4] Police said they were investigating the source of the substance, where it was to be delivered and the role of others connected to the trafficking. [@4]
+
+Police said the suspected contraband was seized from the two men's possession during the checking operation. [@6]
