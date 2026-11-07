@@ -39,6 +39,10 @@ sources:
     url: https://kashmirlife.net/seven-drug-peddlers-arrested-in-separate-anti-narcotics-operations-across-kashmir-460174/
     publisher: Kashmir Life
     date: 2026-11-07
+  - title: Seven drug peddlers arrested in J&K
+    url: https://brighterkashmir.com/seven-drug-peddlers-arrested-in-jk
+    publisher: Brighter Kashmir
+    date: 2026-11-08
 open_questions:
   - The operations bear no separate date; 7 November 2026 is the publication date and the day officials said they spoke, so it is used as the incident date.
   - The Baramulla recovery is described only as a bhang-like substance, and the Anantnag and Handwara recoveries as charas or a charas-like substance; no laboratory confirmation is reported.
@@ -46,6 +50,11 @@ open_questions:
   - No weight, street value, legal sections, custody decisions or court outcomes were published for the Anantnag, Handwara or Baramulla cases.
   - Only one accessible account of this roundup was found; a later search returned a different police statement describing seven arrests in six operations in Handwara and Anantnag that does not include the Baramulla stop, so the Baramulla seizure rests on a single article.
   - The page's featured image is a representative photograph dated 2021, not a picture of this seizure, so no media entry is added.
+  - No weight was published for the charas recovered in Anantnag and Handwara or for the heroin, so only the reported bhang-like quantity is quantified in the existing coverage.
+  - The Baramulla seizure is described as bhang-like substance and the Handwara seizure as charas-like substance, with no laboratory confirmation reported.
+  - 7 November 2026 is the dateline in the text; 8 November 2026 is the source publication date.
+  - Only one accessible account of this roundup was opened, so no second outlet confirms the vehicle numbers.
+  - The page image carries no caption confirming it shows this seizure, so no media entry is added.
 ---
 
 Police arrested Ubair Ahmad Mochi of Kalantara Bala after stopping a Sumo
@@ -70,3 +79,4 @@ into the cases was under way. [@1] Police said they would keep up the crackdown
 on drug trafficking and asked the public to help in the fight against drugs.
 [@1]
 
+At Cheradari, police intercepted a passenger Sumo bearing registration No. JK05N-9646 travelling from Baramulla towards Chandoosa. [@2] At Batagund, police intercepted a tipper bearing registration No. JK05B-5479 with the charas-like substance concealed inside the dashboard. [@2] After the Baramulla recovery, the magistrate and independent witnesses were called to the spot and seizure proceedings were completed under the prescribed legal procedure. [@2]
