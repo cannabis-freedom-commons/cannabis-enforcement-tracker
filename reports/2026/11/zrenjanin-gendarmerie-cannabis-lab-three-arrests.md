@@ -85,6 +85,11 @@ sources:
     publisher: Objektiv
     date: 2026-11-07
     language: sr
+  - title: 'Pripadnik Žandarmerije uhapšen u Zrenjaninu: Sumnja se da je sa još dve osobe uzgajao marihuanu'
+    url: https://naslovi.net/2026-11-07/newsmax-balkans/pripadnik-zandarmerije-uhapsen-u-zrenjaninu-sumnja-se-da-je-sa-jos-dve-osobe-uzgajao-marihuanu/42579412
+    publisher: Naslovi.net / Newsmax Balkans
+    date: 2026-11-07
+    language: sr
 open_questions:
   - No date is given for the search or the arrests; 7 November 2026 is the date of the police statement and of publication, and is used as the incident date.
   - The material was described as plants resembling Indian hemp and dried material suspected to be marijuana; no laboratory confirmation was reported.
@@ -95,17 +100,19 @@ open_questions:
   - The submitted page shows one handout photograph, but no caption confirms which of the searched premises it depicts.
   - The Republika page presents the story under the headline about the Gendarmerie member and lists a gallery that includes unrelated police stock photographs and links to other cases.
   - Objektiv credits the story to Tanjug and reproduces the same Police Administration Zrenjanin statement already cited in the report, so it is not independent reporting of the arrest.
+  - The Naslovi.net page is a Newsmax Balkans text reproducing the same Zrenjanin police statement as the outlets already cited, so it is not an independent account and gives no date, plea or court outcome.
+  - The page image is an aggregator thumbnail and no caption confirms what it depicts, so no media entry is added.
 ---
 
 Police in Zrenjanin, with the Higher Public Prosecutor's Office in the city,
 arrested three people on suspicion of unauthorised production and sale of
-narcotics. [@1,4,6] One of the three, identified as Ž. G., is a Gendarmerie member
-and is 43, while the other two are 64 and 63. [@2,5]
+narcotics. [@1,4,6,7] One of the three, identified as Ž. G., is a Gendarmerie member
+and is 43, while the other two are 64 and 63. [@2,5,7]
 
 Officers searched the flat and other premises the suspects use and found an
 illegal indoor cannabis-growing laboratory. [@1,4] During the search police seized
 81 plants resembling Indian hemp, about 7.5 kilograms of dried plant material
-suspected to be marijuana and scales for weighing. [@1,5,6] The account came from a
+suspected to be marijuana and scales for weighing. [@1,5,6,7] The account came from a
 statement by the Police Administration for Zrenjanin, which also said officers
 seized equipment used to grow the drug. [@2,5]
 
