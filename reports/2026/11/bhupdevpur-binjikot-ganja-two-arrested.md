@@ -91,6 +91,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-06
     language: hi
+  - title: गांजा तस्करी पर कार्रवाई 60 हजार रु. का माल जब्त
+    url: https://www.bhaskar.com/local/chhattisgarh/raigarh/news/crackdown-on-marijuana-smuggling-goods-worth-rs-60000-seized-dbp-139616406.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The reports give no separate date for the interception and arrests; 6 November 2026 is their publication dateline and is used as the incident date.
   - The district reports do not say where Binjkot or Darramuda villages lie within Raigarh district, so the coordinates are for Raigarh town and the precision is district.
@@ -104,6 +109,7 @@ open_questions:
   - The Dainik Bhaskar capture stops after the first paragraph at the page's app paywall, so its full detail on the search, arrests and court step could not be read; only the opening paragraph and headline were available.
   - The Bhaskar headline gives the ganja as worth 60,000 rupees but no weight, and the readable text gives no cash figure, so neither supports a change to the report's 4.110 kg and 500 rupees.
   - The Bhaskar lead photograph is captioned only that two ganja traffickers were arrested and sent to jail, with no credit, so it cannot be confirmed to show the seized ganja rather than a posed picture of the accused.
+  - The submitted Bhaskar page stops at the app paywall after its opening paragraph, so the rest of its account, including any NDPS section numbers or custody details, could not be read from the opened capture.
 ---
 
 Bhupdevpur police arrested Dhaneshwar Kumhar, 62, of Binjkot Kumhardipa and
@@ -115,7 +121,7 @@ kg, which police estimated was worth about 60,000 rupees. [@1,4]
 
 Kumhar admitted in questioning that he had kept the ganja for sale. [@1]
 Questioning of Kumhar pointed to Patel as helping buy and sell the ganja, and
-Patel confessed when officers detained and questioned him. [@1,6] Police also
+Patel confessed when officers detained and questioned him. [@1,6,7] Police also
 recovered and seized 500 rupees in ganja-sale proceeds from Patel. [@1,4] Both men
 were booked at Bhupdevpur police station in crime number 141/2026 under sections
 20(b) and 29 of the NDPS Act, India's narcotics law, and sent to judicial
@@ -133,3 +139,5 @@ linked to the ganja trade, under the guidance of Kharsia sub-divisional police
 officer Satish Bhargav and deputy superintendent Uttam Pratap Singh. [@1]
 
 Hindusthan Samachar reported that Bhupdevpur police made the arrests in Binjkot village on Friday 6 November 2026. [@4]
+
+Dainik Bhaskar gave the arrest as a cordon on Binjkot main road, where police caught a 62-year-old man carrying more than 4 kg of ganja in his bag to sell. [@7]
