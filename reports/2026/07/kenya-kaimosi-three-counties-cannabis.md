@@ -44,14 +44,19 @@ sources:
     date: 2026-07-24
   - title: DCI arrests four, seizes cannabis worth Sh13.4m in Nandi, Kiambu, Kisii
     url: https://radiogeneration.co.ke/crime/102939/dci-arrests-four-seizes-cannabis-worth-sh134m-in-nandi-kiambu-kisii
+    archived: https://web.archive.org/web/20261107053305/https://radiogeneration.co.ke/dci-arrests-four-seizes-cannabis-worth-sh13-4m-in-nandi-kiambu-kisii_43035
     publisher: Radio Generation
     date: 2026-07-24
 media:
   - kind: photo
     url: https://capitalfm.africa/sh13-4m-cannabis-haul-tops-fresh-anti-drug-crackdown-across-3-counties/
+    media_url: https://capitalfm.africa/wp-content/uploads/2026/07/HN-aacnaQAAeWef.jpg
     archived: https://web.archive.org/web/20260816124640/https://capitalfm.africa/sh13-4m-cannabis-haul-tops-fresh-anti-drug-crackdown-across-3-counties/
     publisher: Capital FM
-    caption: The Mazda CX-5 intercepted on the Chavakali–Kapsabet road, in a photo released by the DCI
+    caption: >-
+      The sky-blue Mazda CX-5 (KDY 853L) stopped on the Chavakali–Kapsabet road,
+      with sacks of cannabis visible through the open rear door. Photo: DCI via
+      Capital FM
 ---
 
 Detectives seized 271.3 kg of cannabis from a car on the Chavakali–Kapsabet road in Kaimosi, Nandi

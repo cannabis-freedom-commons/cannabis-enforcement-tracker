@@ -15,6 +15,13 @@ figures:
   arrested: 24
   released: 8
   kg_seized: 147
+media:
+  - kind: photo
+    url: https://www.dha.com.tr/gundem/diyarbakirda-uyusturucu-operasyonlarinda-24-tutuklama-2975980
+    archived: https://web.archive.org/web/20261107055519/https://www.dha.com.tr/gundem/diyarbakirda-uyusturucu-operasyonlarinda-24-tutuklama-2975980
+    media_url: https://image.dha.com.tr/i/dha/75/0x0/6aecb1b83653c6b77ea41083.jpg
+    publisher: DHA
+    caption: Police escort handcuffed suspects toward a transport bus in coverage of the Diyarbakır operations that remanded 24 people
 details:
   agencies: [tr-egm]
   agency_types: [police]
@@ -46,16 +53,19 @@ tags: [diyarbakir, skunk, esrar, narkotik]
 sources:
   - title: 'Diyarbakır''da uyuşturucu operasyonu: 147 kilo esrar, 185 bin adet sentetik ecza ele geçirildi'
     url: https://www.yenimesaj.com.tr/diyarbakirda-uyusturucu-operasyonu-147-kilo-esrar-185-bin-adet-sentetik-ecza-ele-gecirildi-H1620929.htm
+    archived: https://web.archive.org/web/20261107055455/https://www.yenimesaj.com.tr/diyarbakirda-uyusturucu-operasyonu-147-kilo-esrar-185-bin-adet-sentetik-ecza-ele-gecirildi-H1620929.htm
     publisher: Yeni Mesaj
     date: 2026-11-05
     language: tr
   - title: Diyarbakır'da uyuşturucu operasyonlarında 24 tutuklama
     url: https://www.dha.com.tr/gundem/diyarbakirda-uyusturucu-operasyonlarinda-24-tutuklama-2975980
+    archived: https://web.archive.org/web/20261107055519/https://www.dha.com.tr/gundem/diyarbakirda-uyusturucu-operasyonlarinda-24-tutuklama-2975980
     publisher: DHA
     date: 2026-11-05
     language: tr
   - title: Diyarbakır'da kademeli operasyonda 147 kilo skunk ve 185 bin 593 sentetik hap ele geçirildi
     url: https://www.aksiyon.com.tr/diyarbakir-da-kademeli-operasyonda-147-kilo-skunk-ve-185-bin-593-sentetik-hap-ele-gecirildi-388952
+    archived: https://web.archive.org/web/20261107055542/https://www.aksiyon.com.tr/diyarbakir-da-kademeli-operasyonda-147-kilo-skunk-ve-185-bin-593-sentetik-hap-ele-gecirildi-388952
     publisher: Aksiyon
     date: 2026-11-05
     language: tr
@@ -66,7 +76,7 @@ open_questions:
   - No suspects were named, and no charges, prosecution stage or later court outcome was reported.
   - The eight suspects under judicial-control measures were released pending proceedings, but the sources do not say how many of the remaining suspects were freed without measure.
   - The synthetic drug pills, cocaine, methamphetamine, heroin and ecstasy are excluded from the cannabis figures.
-  - The submitted page's five photos carry only the headline as a caption and no credit, so no media entry is added.
+  - Media is the DHA photograph published with the remand account; other wire photos without a clear link to this operation are omitted.
   - 'Left out, as its quotation was not found in İhlas Haber Ajansı: Officers also found two unlicensed handguns and 49 cartridges during the operations.'
   - Aksiyon attributes the operations to Diyarbakır's Narkotik Suçlarla Mücadele Şubesi, the police anti-narcotics branch, whereas the report's sources give no unit.
 ---

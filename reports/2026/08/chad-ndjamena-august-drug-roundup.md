@@ -52,9 +52,13 @@ sources:
 media:
   - kind: photo
     url: https://www.alwihdainfo.com/la-police-nationale-presente-29-suspects-pour-trafic-vols-et-escroquerie-2/
+    media_url: https://storage.ghost.io/c/c3/f0/c3f09db4-2ccd-4dca-90bb-45836ef771ee/content/images/size/w1200/2026/08/PicsArt_08-17-07.11.47-1.jpg
     archived: https://web.archive.org/web/20260906003344/https://www.alwihdainfo.com/la-police-nationale-presente-29-suspects-pour-trafic-vols-et-escroquerie-2/
     publisher: Alwihda Info
-    caption: Suspects presented to journalists at national police headquarters, 17 August 2026.
+    caption: >-
+      National Police officers and an official outside the Sous-direction de la
+      Police Secours during the 17 August 2026 press presentation in N'Djamena.
+      Photo: Alwihda Info
 ---
 
 Chad's national police presented 29 suspects to journalists in N'Djamena on Monday

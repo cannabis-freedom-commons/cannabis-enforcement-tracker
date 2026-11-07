@@ -49,13 +49,26 @@ sources:
     date: 2026-03-30
   - title: "21 arrested in an operation against a network that trafficked 'Frankenstein' weapons and more than half a ton of marijuana"
     url: https://www.apd.cat/en/girona/21-arrested-in-an-operation-against-a-network-that-trafficked-frankenstein-weapons-and-more-than-half-a-ton-of-marijuana_5162_102.html
+    archived: https://web.archive.org/web/20261107054407/https://www.apdnoticies.com/en/girona/21-arrested-in-an-operation-against-a-network-that-trafficked-frankenstein-weapons-and-more-than-half-a-ton-of-marijuana_5162_102.html
     publisher: Catalan Police (APD)
     date: 2026-03-31
 media:
   - kind: photo
     url: https://www.apd.cat/en/girona/21-arrested-in-an-operation-against-a-network-that-trafficked-frankenstein-weapons-and-more-than-half-a-ton-of-marijuana_5162_102.html
+    archived: https://web.archive.org/web/20261107054407/https://www.apdnoticies.com/en/girona/21-arrested-in-an-operation-against-a-network-that-trafficked-frankenstein-weapons-and-more-than-half-a-ton-of-marijuana_5162_102.html
+    media_url: https://www.apdnoticies.com/uploads/s1/47/10/1/21-detenidos-en-un-operativo-contra-una-red-que-tr-2026-03-31-06-08-03.jpeg
     publisher: Catalan Police (APD)
-    caption: Material seized during the 23 March action in Catalonia.
+    caption: >-
+      Catalan police officers outside a warehouse during the 23 March 2026
+      action. Photo: APD
+  - kind: photo
+    url: https://www.europol.europa.eu/media-press/newsroom/news/guns-for-cannabis-network-hit-europol-high-value-target-arrested-in-international-action
+    media_url: https://www.europol.europa.eu/cms/sites/default/files/styles/800x/public/images/Operation_Tracia_300326-lead.jpg?itok=KnkEpoYs
+    archived: https://web.archive.org/web/20260621044446/https://www.europol.europa.eu/media-press/newsroom/news/guns-for-cannabis-network-hit-europol-high-value-target-arrested-in-international-action
+    publisher: Europol
+    caption: >-
+      Zastava M57 pistol, magazine and rounds displayed with a Europol scale from
+      Operation Tracia. Photo: Europol
 ---
 
 Police across Spain, Bulgaria and Greece arrested 21 people on 23 March 2026 in a

@@ -14,6 +14,13 @@ summary: >-
 figures:
   arrested: 1
   kg_seized: 1.244
+media:
+  - kind: photo
+    url: https://www.thecliffnews.in/en/article/mahoba-ajnar-police-apprehends-individual-with-over-1-kg-of-cannabis
+    archived: https://web.archive.org/web/20261107055947/https://www.thecliffnews.in/en/article/mahoba-ajnar-police-apprehends-individual-with-over-1-kg-of-cannabis
+    media_url: https://nms-api.thecliffnews.in/uploads/1f590818-781c-447e-a5f2-2bca4c24cc4e.jpg
+    publisher: The Cliff News
+    caption: Ajnar police present the detained man holding a wrapped package outside the station after the cannabis seizure
 details:
   agencies: [Ajnar police station]
   agency_types: [police]
@@ -42,10 +49,12 @@ tags: [mahoba, uttar-pradesh, ganja, ndps-act, ajnar]
 sources:
   - title: 'Mahoba: Ajnar Police Apprehends Individual with Over 1 Kg of Cannabis'
     url: https://www.thecliffnews.in/en/article/mahoba-ajnar-police-apprehends-individual-with-over-1-kg-of-cannabis
+    archived: https://web.archive.org/web/20261107055947/https://www.thecliffnews.in/en/article/mahoba-ajnar-police-apprehends-individual-with-over-1-kg-of-cannabis
     publisher: The Cliff News
     date: 2026-11-06
   - title: 'महोबा: अजनर पुलिस ने 1 किलो से अधिक गांजे के साथ एक व्यक्ति को दबोचा'
     url: https://www.thecliffnews.in/hi/article/mahoba-ajanar-pulis-ne-1-kilo-se-adhik-ganje-ke-sath-ek-vyakti-ko
+    archived: https://web.archive.org/web/20261107060014/https://www.thecliffnews.in/hi/article/mahoba-ajanar-pulis-ne-1-kilo-se-adhik-ganje-ke-sath-ek-vyakti-ko
     publisher: The Cliff News
     date: 2026-11-06
     language: hi
@@ -60,7 +69,7 @@ open_questions:
   - No charge sheet, plea or court outcome was reported beyond the accused being sent to jail; the case was at the investigation stage.
   - The name of the 42-year-old accused was published by the outlet; the report does not repeat it in structured details.
   - Only one full account of the arrest could be opened; searches in Hindi and English found no independent outlet report.
-  - The page photo is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
+  - Media is the Ajnar station presentation photo published with The Cliff News for this arrest.
   - The report places the arrest in the Ajnar police station area; the bus stand kiosk location is given at district precision, since the exact coordinates of that spot are not established.
   - The Hindi article gives no separate date for the arrest; 6 November 2026 is its publication date and the date on which the police post appeared.
   - No street value was published for the ganja.

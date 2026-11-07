@@ -19,9 +19,13 @@ figures:
   arrested: 9
 media:
   - kind: photo
-    url: https://thepoint.gm/assets/Featured-Articles/canabis-farms__ScaleMaxWidthWzE0MDBd.jpg
+    url: https://thepoint.gm/africa/gambia/headlines/alkalo-8-others-in-trouble-over-uncovered-cannabis-farms
+    archived: https://web.archive.org/web/20251108153123/https://thepoint.gm/africa/gambia/headlines/alkalo-8-others-in-trouble-over-uncovered-cannabis-farms
+    media_url: https://thepoint.gm/assets/Featured-Articles/canabis-farms.jpg
     publisher: The Point
-    caption: 'Cannabis farm and uprooted plants seized in the operation. Photo: The Point'
+    caption: >-
+      Standing cannabis plants in a field beside harvested bundles being loaded
+      onto a pickup. Photo: The Point
 details:
   activity: [cultivation]
   agency_types: [police]
@@ -47,10 +51,12 @@ open_questions:
 sources:
   - title: Alkalo, 8 others in trouble over uncovered cannabis farms
     url: https://thepoint.gm/africa/gambia/headlines/alkalo-8-others-in-trouble-over-uncovered-cannabis-farms
+    archived: https://web.archive.org/web/20251108153123/https://thepoint.gm/africa/gambia/headlines/alkalo-8-others-in-trouble-over-uncovered-cannabis-farms
     publisher: The Point
     date: 2025-10-13
   - title: Alkalo, 8 others in trouble over uncovered cannabis farms
     url: https://mamosmedia.com/alkalo-8-others-in-trouble-over-uncovered-cannabis-farms/
+    archived: https://web.archive.org/web/20260211213922/https://mamosmedia.com/alkalo-8-others-in-trouble-over-uncovered-cannabis-farms/
     publisher: Mamosmedia
     date: 2025-10-13
 ---

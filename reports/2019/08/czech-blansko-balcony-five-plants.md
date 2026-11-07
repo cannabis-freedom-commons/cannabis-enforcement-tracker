@@ -31,10 +31,14 @@ data_sources:
 media:
   - kind: photo
     url: https://brnenska.drbna.cz/krimi/14915-foto-muz-pestoval-na-balkone-pet-velkych-kytek-marihuany.html
+    archived: https://web.archive.org/web/20191214062957/https://brnenska.drbna.cz/krimi/14915-foto-muz-pestoval-na-balkone-pet-velkych-kytek-marihuany.html
+    media_url: https://brnenska.drbna.cz/files/drbna/images/page/2019/08/09/size4-15653347418659-60-pjimage-2019-08-09t090836208.jpg
     publisher: Brněnská Drbna
     caption: 'Police photographs of the five cannabis plants on a balcony and the seized leaves. Photo: Police of the Czech Republic (PČR).'
   - kind: photo
     url: https://www.blesk.cz/clanek/regiony-brno-brno-krimi/615761/na-balkone-si-pul-roku-hyckal-konopi-sklizen-obstaral-policejni-toxi-tym.html
+    archived: https://web.archive.org/web/20191106011032/https://www.blesk.cz/clanek/regiony-brno-brno-krimi/615761/na-balkone-si-pul-roku-hyckal-konopi-sklizen-obstaral-policejni-toxi-tym.html
+    media_url: https://1884403144.rsc.cdn77.org/foto/konopi-na-balkone-toxi-tym-prestupek-pokuta-crop/MTIwMHg2MzAvc21hcnQvaW1n/5867119.jpg?v=0&st=Jiw1hvg3DRYIWeis_6ndWd2reQIRsmx7GPdARn8WYb8&ts=1600812000&e=0
     publisher: Blesk.cz
     caption: 'Police photographs of the cannabis plants on the balcony of a panel-block flat in Blansko. Photo: Police of the Czech Republic, Blansko.'
 status: verified
@@ -43,16 +47,19 @@ tags: [blansko, balcony-grow, home-search, misdemeanour]
 sources:
   - title: 'FOTO: Muž pěstoval na balkoně pět velkých kytek konopí'
     url: https://brnenska.drbna.cz/krimi/14915-foto-muz-pestoval-na-balkone-pet-velkych-kytek-marihuany.html
+    archived: https://web.archive.org/web/20191214062957/https://brnenska.drbna.cz/krimi/14915-foto-muz-pestoval-na-balkone-pet-velkych-kytek-marihuany.html
     publisher: Brněnská Drbna
     date: 2019-08-09
     language: cs
   - title: Pěstoval konopí na balkóně. Dostane vysokou pokutu
     url: https://blanensky.denik.cz/krimi/pestoval-konopi-na-balkone-dostane-vysokou-pokutu/
+    archived: https://web.archive.org/web/20261107054315/https://blanensky.denik.cz/krimi/pestoval-konopi-na-balkone-dostane-vysokou-pokutu/
     publisher: Blanenský deník
     date: 2019-08-09
     language: cs
   - title: 'Na balkoně si půl roku hýčkal konopí: Sklizeň obstaral policejní Toxi tým'
     url: https://www.blesk.cz/clanek/regiony-brno-brno-krimi/615761/na-balkone-si-pul-roku-hyckal-konopi-sklizen-obstaral-policejni-toxi-tym.html
+    archived: https://web.archive.org/web/20191106011032/https://www.blesk.cz/clanek/regiony-brno-brno-krimi/615761/na-balkone-si-pul-roku-hyckal-konopi-sklizen-obstaral-policejni-toxi-tym.html
     publisher: Blesk.cz
     date: 2019-08-13
     language: cs

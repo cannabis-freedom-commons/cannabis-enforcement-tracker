@@ -60,6 +60,7 @@ open_questions:
   - No court outcome beyond production of the accused before a court was reported, and the charges' exact sections were not published.
   - The value of ₹3 lakh is the authorities' estimate, not a court-assessed figure.
   - No information was published about the person the consignment was meant for.
+  - The Hindu's lead image is an iStock anti-drug stock photo, and Deshabhimani did not yield a usable event photo, so no media entry is listed.
 ---
 
 Railway Protection Force officers arrested a 19-year-old West Bengal native at

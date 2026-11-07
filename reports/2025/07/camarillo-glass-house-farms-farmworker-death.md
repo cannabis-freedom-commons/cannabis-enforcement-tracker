@@ -21,13 +21,21 @@ media:
   - kind: photo
     url: https://abc7.com/post/jaime-alans-garcia-death-farmworker-injured-during-ventura-county-immigration-raid-glass-house-farms-dies-family-says/17092373/
     archived: https://web.archive.org/web/20261006032939/https://abc7.com/post/jaime-alans-garcia-death-farmworker-injured-during-ventura-county-immigration-raid-glass-house-farms-dies-family-says/17092373/
+    media_url: https://cdn.abcotvs.com/dip/images/17074842_feds-camarillo-split.jpg
     publisher: ABC7 Los Angeles
-    caption: Image published with ABC7's report on the raid at Glass House Farms and the farmworker's death
+    caption: Split image on ABC7's death report — Jaime Alanís García, and workers detained during the federal raid at Glass House Farms near Camarillo
   - kind: photo
     url: https://abc7.com/post/jaime-alans-garcia-death-family-files-federal-court-claim-demanding-accountability-farm-workers-ice-raid/17457697/
     archived: https://web.archive.org/web/20260809110241/https://abc7.com/post/jaime-alans-garcia-death-family-files-federal-court-claim-demanding-accountability-farm-workers-ice-raid/17457697/
+    media_url: https://cdn.abcotvs.com/dip/images/17457668_080625-kabc-camarillo-raid-federal-claim-tn-img.jpg
     publisher: ABC7 Los Angeles
-    caption: Still from ABC7's July 2025 video report of the injury during the Camarillo raid
+    caption: Family attorneys' press conference after filing the federal claim over García's death, with framed portraits of him held behind the podium
+  - kind: photo
+    url: https://abc7.com/post/jaime-alans-garcia-death-family-files-federal-court-claim-demanding-accountability-farm-workers-ice-raid/17457697/
+    archived: https://web.archive.org/web/20260809110241/https://abc7.com/post/jaime-alans-garcia-death-family-files-federal-court-claim-demanding-accountability-farm-workers-ice-raid/17457697/
+    media_url: https://cdn.abcotvs.com/dip/images/17147737_071625-kabc-6am-camarillo-raid-injury-vid.jpg
+    publisher: ABC7 Los Angeles
+    caption: ABC7 still of García in hospital after the fall during the Camarillo raid, used in coverage of Mexico considering legal action
 created_by_model: alibaba-token-plan/qwen3.8-flash
 details:
   activity: [cultivation]
@@ -70,6 +78,7 @@ sources:
     date: 2025-08-07
   - title: Journalist sues ICE for records about deadly immigration raid at California cannabis farm
     url: https://www.rcfp.org/glass-house-foia-lawsuit/
+    archived: https://web.archive.org/web/20260928192039/https://www.rcfp.org/glass-house-foia-lawsuit/
     publisher: The Reporters Committee for Freedom of the Press
     date: 2026-09-04
 ---

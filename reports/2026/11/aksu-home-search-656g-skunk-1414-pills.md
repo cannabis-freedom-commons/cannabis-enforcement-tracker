@@ -13,6 +13,13 @@ summary: >-
   Antalya gendarmerie searched a suspect's home in Aksu district and seized 656 grams of skunk alongside 1,414 synthetic pills and a precision scale. Judicial proceedings were started after the search.
 figures:
   kg_seized: 0.656
+media:
+  - kind: photo
+    url: https://www.alanyaturk.com/zehir-operasyonunda-binlerce-icimlik-hap-ele-gecirildi
+    archived: https://web.archive.org/web/20261107055325/https://www.alanyaturk.com/zehir-operasyonunda-binlerce-icimlik-hap-ele-gecirildi
+    media_url: https://alanyaturkcom.teimg.com/crop/1280x720/alanyaturk-com/uploads/2026/11/antalya-jandarma-uyusturucu-operasyonu.png
+    publisher: Alanya Türk
+    caption: Antalya Provincial Gendarmerie evidence display for this Aksu search — labelled skunk bags, synthetic pills and a precision scale
 details:
   agencies: [tr-jandarma]
   agency_types: [gendarmerie]
@@ -36,6 +43,7 @@ tags: [antalya, aksu, skunk, jandarma]
 sources:
   - title: Zehir operasyonunda binlerce içimlik hap ele geçirildi - Alanya Türk
     url: https://www.alanyaturk.com/zehir-operasyonunda-binlerce-icimlik-hap-ele-gecirildi
+    archived: https://web.archive.org/web/20261107055325/https://www.alanyaturk.com/zehir-operasyonunda-binlerce-icimlik-hap-ele-gecirildi
     publisher: Alanya Türk
     date: 2026-11-05
     language: tr
@@ -46,7 +54,7 @@ open_questions:
   - The 1,414 synthetic pills are a separate non-cannabis item and are excluded from the cannabis figures; their chemical nature was not specified beyond sentetik hap.
   - No neighbourhood or village inside Aksu district is named, so the place is recorded at district level.
   - Only one accessible account of this Aksu search was found; the page credits IHA but no second independent account could be opened.
-  - The page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
+  - Media is the Antalya gendarmerie evidence board photo published with this article; labels match the reported skunk, pills and scale.
 ---
 
 Antalya Provincial Gendarmerie Command teams conducted work to combat drugs on

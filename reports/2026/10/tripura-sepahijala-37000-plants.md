@@ -44,6 +44,7 @@ sources:
 media:
   - kind: photo
     url: https://www.freepressjournal.in/india/37000-cannabis-plants-destroyed-across-25-acres-in-sepahijala-district-during-joint-anti-drug-operation
+    media_url: https://media.assettype.com/freepressjournal/2026-10-16/j1vyryqm/Untitled-design-2026-10-16T174657.650.jpg
     archived: https://web.archive.org/web/20261020220706/https://www.freepressjournal.in/india/37000-cannabis-plants-destroyed-across-25-acres-in-sepahijala-district-during-joint-anti-drug-operation
     publisher: Free Press Journal
     caption: NCB and security personnel destroying plants in the Sepahijala fields

@@ -24,11 +24,13 @@ figures:
   kg_seized: 10820
 media:
   - kind: photo
-    url: https://www.lavanguardia.com/sucesos/20261028/11669609/caida-narco-moreno-refugio-tanger-mover-toneladas-hachis-toda-espana.html
-    publisher: La Vanguardia
+    url: https://www.abc.es/espana/policia-nacional-confirma-caida-marruecos-mayor-capo-20261027101126-nt.html
+    archived: https://web.archive.org/web/20261027093907/https://www.abc.es/espana/policia-nacional-confirma-caida-marruecos-mayor-capo-20261027101126-nt.html
+    media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/27/Captura-U46355772572DwD-1200x630@diario_abc.PNG
+    publisher: ABC
     caption: >-
-      Police photo of the organisation's suspected leader, Juan Carlos T. B., alias 'Moreno', who had been on
-      the run since March 2026. Photo: Policía Nacional
+      National Police release showing mapped locations and packaged drugs seized
+      in the Spanish arm of the Moreno investigation. Photo: Policía Nacional via ABC
 details:
   agencies: [es-policia-nacional]
   activity: [trafficking]
@@ -62,21 +64,25 @@ tags:
 sources:
   - title: Un baron espagnol de la résine de cannabis, en fuite depuis mars, tombe à Tanger
     url: https://barlamane.com/fr/un-baron-espagnol-de-la-resine-de-cannabis-en-fuite-depuis-mars-tombe-a-tanger/
+    archived: https://web.archive.org/web/20261107053415/https://barlamane.com/fr/un-baron-espagnol-de-la-resine-de-cannabis-en-fuite-depuis-mars-tombe-a-tanger/
     publisher: Barlamane
     date: '2026-10-27'
     language: fr
   - title: Detenido en Tánger el narcotraficante 'Moreno' tras intervenir 10,8 toneladas de hachís
     url: https://eldiariodemalaga.es/espana/detenido-en-tanger-el-narcotraficante-moreno-tras-intervenir-10-8-toneladas-de-h/
+    archived: https://web.archive.org/web/20261107053443/https://eldiariodemalaga.es/espana/detenido-en-tanger-el-narcotraficante-moreno-tras-intervenir-10-8-toneladas-de-h/
     publisher: El Diario de Málaga
     date: '2026-10-27'
     language: es
   - title: La caída del narco 'El Moreno' en su refugio de Tánger tras mover toneladas de hachís por toda España
     url: https://www.lavanguardia.com/sucesos/20261028/11669609/caida-narco-moreno-refugio-tanger-mover-toneladas-hachis-toda-espana.html
+    archived: https://web.archive.org/web/20261107053506/https://www.lavanguardia.com/sucesos/20261028/11669609/caida-narco-moreno-refugio-tanger-mover-toneladas-hachis-toda-espana.html
     publisher: La Vanguardia
     date: '2026-10-28'
     language: es
   - title: راتب يتجاوز 5000 يورو دون عمل فعلي.. تفاصيل شبكة حشيش امتدت بين إسبانيا والمغرب
     url: https://espanaenarabe.com/%D8%B1%D8%A7%D8%AA%D8%A8-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-5000-%D9%8A%D9%88%D8%B1%D9%88-%D8%AF%D9%88%D9%86-%D8%B9%D9%85%D9%84-%D9%81%D8%B9%D9%84%D9%8A-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B4/
+    archived: https://web.archive.org/web/20261107053534/https://espanaenarabe.com/%D8%B1%D8%A7%D8%AA%D8%A8-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-5000-%D9%8A%D9%88%D8%B1%D9%88-%D8%AF%D9%88%D9%86-%D8%B9%D9%85%D9%84-%D9%81%D8%B9%D9%84%D9%8A-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%B4/
     publisher: إسبانيا بالعربي
     date: '2026-10-30'
     language: ar
@@ -88,11 +94,13 @@ sources:
     date: '2026-11-01'
   - title: Cae uno de los principales narcos españoles, 'el tigre del hachís', fugado en Marruecos
     url: https://www.heraldo.es/noticias/nacional/2026/10/27/cae-uno-los-principales-narcos-espanoles-tigre-hachis-fugado-marruecos-2063326.html
+    archived: https://web.archive.org/web/20261107053623/https://www.heraldo.es/noticias/nacional/2026/10/27/cae-uno-los-principales-narcos-espanoles-tigre-hachis-fugado-marruecos-2063326.html
     publisher: Heraldo de Aragón
     date: '2026-10-27'
     language: es
   - title: إسبانيا تنتظر تسليم «نمر الحشيش» الموقوف بطنجة
     url: https://tanjanews.com/192484.html
+    archived: https://web.archive.org/web/20261107053655/https://tanjanews.com/192484.html
     publisher: مجلة طنجة نيوز
     date: '2026-11-01'
     language: ar
@@ -103,25 +111,30 @@ sources:
     language: es
   - title: 87 detained over Moroccan hashish network in Spain and Tangier
     url: https://russpain.com/news/87-detained-over-moroccan-hashish-network-in-spain-and-tangier-112607/
+    archived: https://web.archive.org/web/20261107053756/https://russpain.com/news/87-detained-over-moroccan-hashish-network-in-spain-and-tangier-112607/
     publisher: RUSSPAIN
     date: '2026-10-27'
   - title: La Policía Nacional confirma la caída en Marruecos del mayor capo del hachís, adelantada por ABC
     url: https://www.abc.es/espana/policia-nacional-confirma-caida-marruecos-mayor-capo-20261027101126-nt.html
+    archived: https://web.archive.org/web/20261027093907/https://www.abc.es/espana/policia-nacional-confirma-caida-marruecos-mayor-capo-20261027101126-nt.html
     publisher: ABC
     date: '2026-10-27'
     language: es
   - title: La UDYCO interviene 10,8 toneladas de hachís a la 'banda de Moreno'
     url: https://www.elespanol.com/reportajes/20261007/udyco-interviene-toneladas-hachis-banda-moreno-copaban-mercado-espana-resto-europa/1003744412511_0.html
+    archived: https://web.archive.org/web/20261012233442/https://www.elespanol.com/reportajes/20261007/udyco-interviene-toneladas-hachis-banda-moreno-copaban-mercado-espana-resto-europa/1003744412511_0.html
     publisher: El Español
     date: '2026-10-07'
     language: es
     locator: Second-wave arrests and network structure; total given as 10,881 kilos
   - title: Malaga spy-phone supplier and lorry driver arrested as police dismantle 'Eye of Sauron' hashish network
     url: https://www.surinenglish.com/malaga/mobile-phone-provider-20261028000500-nt.html
+    archived: https://web.archive.org/web/20261107053822/https://www.surinenglish.com/malaga/mobile-phone-provider-20261028000500-nt.html
     publisher: Sur in English
     date: 2026-10-29
   - title: مورينو.. زعيم عصابة إسبانية أسقطته 10 أطنان حشيش بالمغرب
     url: https://www.okaz.com.sa/variety/na/2273029
+    archived: https://web.archive.org/web/20261107053853/https://www.okaz.com.sa/variety/na/2273029
     publisher: عكاظ
     date: 2026-10-29
     language: ar
@@ -150,8 +163,8 @@ open_questions:
     The new account gives only its publication date of 1 November 2026 and does not give a separate arrest
     date; the report keeps 8 October from the earlier police announcement.
   - >-
-    The page's lead image has no caption or alt text confirming it shows this event, so it is not listed as
-    media.
+    No recoverable direct address was found for a portrait of Moreno; La Vanguardia's Open Graph image is a
+    raid still rather than the leader, so the listed media is the National Police seizure collage via ABC.
   - >-
     The submitted article reports 86 detainees across seven Spanish provinces while separately reporting the
     leader's arrest in Tangier, leaving unclear whether the leader is counted in the 86; the matched report

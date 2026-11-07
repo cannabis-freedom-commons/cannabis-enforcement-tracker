@@ -36,6 +36,15 @@ data_sources:
     details.charges: [3]
     figures.charged: [3]
     figures.convicted: [4]
+media:
+  - kind: photo
+    url: https://www.greaterbelize.com/ten-charged-in-san-pedro-drug-and-gun-bust/
+    archived: https://web.archive.org/web/20261107051643/https://www.greaterbelize.com/ten-charged-in-san-pedro-drug-and-gun-bust/
+    media_url: https://www.greaterbelize.com/wp-content/uploads/2026/11/10.png
+    publisher: Greater Belize Media (News 5)
+    caption: >-
+      News 5 graphic showing mugshots of the ten people charged after the San
+      Pedrito raid. Photo: Greater Belize Media
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d8ecf2fbbbcbf81813f8d231bf7c0d0a
@@ -43,18 +52,22 @@ tags: [san-pedro, belize-district, mixed-seizure]
 sources:
   - title: Ten detained after guns, cocaine and cannabis found in San Pedro raid
     url: https://www.breakingbelizenews.com/2026/11/05/ten-detained-after-guns-cocaine-and-cannabis-found-in-san-pedro-raid/
+    archived: https://web.archive.org/web/20261107051539/https://www.breakingbelizenews.com/2026/11/05/ten-detained-after-guns-cocaine-and-cannabis-found-in-san-pedro-raid/
     publisher: Breaking Belize News
     date: 2026-11-05
   - title: Police find 402 grams of suspected cannabis hidden under leaves in San Pedro
     url: https://www.breakingbelizenews.com/2026/11/05/police-find-402-grams-of-suspected-cannabis-hidden-under-leaves-in-san-pedro/
+    archived: https://web.archive.org/web/20261107051608/https://www.breakingbelizenews.com/2026/11/05/police-find-402-grams-of-suspected-cannabis-hidden-under-leaves-in-san-pedro/
     publisher: Breaking Belize News
     date: 2026-11-05
   - title: Ten Charged in San Pedro Drug and Gun Bust
     url: https://www.greaterbelize.com/ten-charged-in-san-pedro-drug-and-gun-bust/
+    archived: https://web.archive.org/web/20261107051643/https://www.greaterbelize.com/ten-charged-in-san-pedro-drug-and-gun-bust/
     publisher: Greater Belize Media (News 5)
     date: 2026-11-06
   - title: Three plead guilty following major San Pedro gun and drug bust; police confirm additional arrests in San Ignacio
     url: https://www.breakingbelizenews.com/2026/11/06/three-plead-guilty-following-major-san-pedro-gun-and-drug-bust-police-confirm-additional-arrests-in-san-ignacio/
+    archived: https://web.archive.org/web/20261107051712/https://www.breakingbelizenews.com/2026/11/06/three-plead-guilty-following-major-san-pedro-gun-and-drug-bust-police-confirm-additional-arrests-in-san-ignacio/
     publisher: Breaking Belize News
     date: 2026-11-06
 open_questions:
@@ -62,8 +75,7 @@ open_questions:
   - The 259 grams of suspected cocaine are excluded from cannabis figures as a non-cannabis substance.
   - No charges, custody ruling or court outcome were reported.
   - Only one accessible outlet account was found after searching, so no second source corroborates the raid.
-  - The page image has no caption, credit or alt text confirming it shows this seizure, so no media entry is included.
-  - This page's image has no caption, credit or alt text confirming it shows the seizure, so no media entry is added.
+  - Breaking Belize News lead images on the raid pages are a stylised handcuff stock photo and unrelated ads, so they are not listed as media of this seizure.
   - No sentence was reported for the three who pleaded guilty, so no prison term or fine is recorded.
   - 'The accounts differ on the ammunition: the News 5 account quotes "over 46 rounds", while the 6 November account gives 43 rounds.'
   - The News 5 account lists ten charged people, including two men named Cesar Hernandez aged 57 and 35, while police later circulated identifying information for eleven people connected to the operation.

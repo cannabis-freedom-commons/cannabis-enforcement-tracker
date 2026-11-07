@@ -13,6 +13,13 @@ summary: >-
   Supaul district police raided a house in Mahadevapatti village, Lalitgram, and seized 19 kilograms of ganja that two brothers were accused of storing for sale. Police registered a case under the NDPS Act and said they were tracing the consignment's suppliers and buyers; no arrest was reported.
 figures:
   kg_seized: 19
+media:
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/bihar/supaul/police-seize-19kg-cannabis-raid
+    archived: https://web.archive.org/web/20261107060420/https://www.prabhatkhabar.com/state/bihar/supaul/police-seize-19kg-cannabis-raid
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/06/1793949853074/sizes/06sau_m_5_06112026_64-dee9b0-hero.webp
+    publisher: Prabhat Khabar
+    caption: Supaul police officers display two large packaged bundles seized in the Lalitgram house raid
 details:
   agencies: [Supaul district police, Lalitgram Police Station]
   agency_types: [police]
@@ -41,16 +48,19 @@ tags: [supaul, bihar, ganja, ndps, house-raid]
 sources:
   - title: ललितग्राम में पुलिस की बड़ी कार्रवाई, घर से 19 किलो गांजा बरामद
     url: https://www.hindusthansamachar.in/Encyc/2026/11/6/Lalitgram-cannabis-seized-BR.php
+    archived: https://web.archive.org/web/20261107060224/https://www.hindusthansamachar.in/Encyc/2026/11/6/Lalitgram-cannabis-seized-BR.php
     publisher: हिन्दुस्थान समाचार (Hindusthan Samachar)
     date: 2026-11-06
     language: hi
   - title: सुपौल में घर के अंदर छिपाकर रखा था 19 किलो गांजा, पुलिस की छापेमारी में खुला मादक पदार्थों की तस्करी का राज
     url: https://www.prabhatkhabar.com/state/bihar/supaul/police-seize-19kg-cannabis-raid
+    archived: https://web.archive.org/web/20261107060420/https://www.prabhatkhabar.com/state/bihar/supaul/police-seize-19kg-cannabis-raid
     publisher: Prabhat Khabar
     date: 2026-11-06
     language: hi
   - title: ललितग्राम में पुलिस की बड़ी कार्रवाई, घर से 19 किलो गांजा बरामद
     url: https://vocaltv.in/crime/lalitgram-cannabis-seized-brphp/cid19499714.htm
+    archived: https://web.archive.org/web/20261107060447/https://vocaltv.in/crime/lalitgram-cannabis-seized-brphp/cid19499714.htm
     publisher: Vocal TV
     date: 2026-11-06
     language: hi
@@ -60,7 +70,7 @@ open_questions:
   - There is no published estimate of the ganja's street value and no case number.
   - Hindusthan Samachar gives one suspect's name as Shahid and Prabhat Khabar gives Shazid, and the father's name differs slightly; the report does not rely on the names.
   - Neither account says where Mahadevapatti lies within Supaul district, so the coordinates are for Supaul town and the precision is district.
-  - The submitted page's only photograph is captioned "Br" with no credit and is not established to show this seizure, so no media entry is included.
+  - Media is the Prabhat Khabar presentation photo of officers with the two packaged bundles from this raid; the packages are pixelated in the published frame.
   - Prabhat Khabar's account closely follows the same police information as the agency report, so the two are not fully independent.
   - The submitted Vocal TV text is the Hindusthan Samachar wire report republished verbatim, so it does not add an independent account of the raid.
   - Vocal TV runs the story without an incident date beyond the wire's 5 November tip-off; the raid date remains unstated.

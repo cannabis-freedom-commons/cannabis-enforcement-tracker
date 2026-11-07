@@ -15,6 +15,13 @@ figures:
   arrested: 1
   vehicles: 1
   kg_seized: 0.058
+media:
+  - kind: photo
+    url: https://hyderabadmail.com/quthbullapur-dtf-team-og-kush-mdma-lsd-seizure/
+    archived: https://web.archive.org/web/20261107060128/https://hyderabadmail.com/quthbullapur-dtf-team-og-kush-mdma-lsd-seizure/
+    media_url: https://hyderabadmail.com/wp-content/uploads/2026/11/qutblpur.jpg
+    publisher: Hyderabad Mail
+    caption: Prohibition and Excise officers with the seated detainee and two blue bags of seized material outside the Quthbullapur office
 details:
   agencies: [in-excise]
   agency_types: [regulator]
@@ -40,10 +47,12 @@ tags: [hyderabad, telangana, quthbullapur, og-kush, excise]
 sources:
   - title: Kukatpally DTF team seizes OG Kush, MDMA and LSD in Quthbullapur
     url: https://hyderabadmail.com/quthbullapur-dtf-team-og-kush-mdma-lsd-seizure/
+    archived: https://web.archive.org/web/20261107060128/https://hyderabadmail.com/quthbullapur-dtf-team-og-kush-mdma-lsd-seizure/
     publisher: Hyderabad Mail
     date: 2026-11-06
   - title: Man arrested for selling drugs from his car in Hyderabad
     url: https://www.siasat.com/man-arrested-for-selling-drugs-from-his-car-in-hyderabad-3570785/
+    archived: https://web.archive.org/web/20261107060157/https://www.siasat.com/man-arrested-for-selling-drugs-from-his-car-in-hyderabad-3570785/
     publisher: The Siasat Daily
     date: 2026-11-06
 open_questions:
@@ -52,7 +61,7 @@ open_questions:
   - The article does not state the legal provisions the case was registered under or whether a charge has been filed.
   - No court outcome, remand or sentence was reported.
   - The MDMA and LSD quantities are reported but excluded from cannabis figures.
-  - The page's lead photo, captioned only 'Qutblpur', could not be confirmed to show the seizure, so no media entry was made.
+  - Media is the Prohibition and Excise presentation photo published with Hyderabad Mail for this Quthbullapur seizure.
   - The Siasat article identifies the suspect by name, a detail not in the existing report and not added here.
   - The existing report attributes the handover account to excise superintendent Praveen; the Siasat article reports the handover to Quthbullapur Excise Police Station without naming him.
 ---

@@ -44,6 +44,7 @@ open_questions:
   - The seller known only as "Yaz" on Telegram was not identified beyond a user ID.
   - Andrievsky said he had bought from Yaz on about three earlier occasions, but those shipments were not described in the sentencing reports.
   - He told the court he could not unlock his phone to show messages because he had forgotten the password.
+  - Neither outlet published a photo of the intercepted parcel; The Straits Times lead is a portrait and Mothership's cover is a stock cannabis-and-courts composite, so no media entry is listed.
 sources:
   - title: 27 months' jail for man whose parcel containing cannabis was intercepted at SingPost Centre
     url: https://www.straitstimes.com/singapore/courts-crime/27-months-jail-for-man-whose-parcel-containing-cannabis-was-intercepted-at-singpost-centre
@@ -55,12 +56,6 @@ sources:
     archived: https://web.archive.org/web/20260918023922/https://mothership.sg/2026/09/pr-ordered-cannabis-online-jail/
     publisher: Mothership.SG
     date: 2026-09-17
-media:
-  - kind: photo
-    url: https://www.straitstimes.com/singapore/courts-crime/27-months-jail-for-man-whose-parcel-containing-cannabis-was-intercepted-at-singpost-centre
-    archived: https://web.archive.org/web/20260918140544/https://www.straitstimes.com/singapore/courts-crime/27-months-jail-for-man-whose-parcel-containing-cannabis-was-intercepted-at-singpost-centre
-    publisher: The Straits Times (Kelvin Chng)
-    caption: The intercepted parcel from Britain at SingPost Centre.
 ---
 
 Anton Andrievsky, a 28-year-old American citizen and Singapore permanent resident with prior drug

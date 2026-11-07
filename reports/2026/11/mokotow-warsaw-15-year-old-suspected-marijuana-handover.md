@@ -45,7 +45,7 @@ open_questions:
   - The reports give only a preliminary identification as possible marijuana; no laboratory confirmation was reported.
   - The exact spot of the intervention within the Mokotów, Ursynów and Wilanów command area was not specified; Mokotów, Warsaw is used from the handling command and the local filing.
   - No arrest, charge or family-court outcome was reported beyond the referral; the case was still pending when published.
-  - The submitted page carries a lead image credited to policja.gov.pl, but its content could not be confirmed from the caption or alt text to show this seizure, so no media entry is included.
+  - The Mokotów police page lead is a stock interior shot of a Policja patrol car, not this seizure, so no media entry is included.
 ---
 
 A 15-year-old boy felt unwell after smoking marijuana and called for help

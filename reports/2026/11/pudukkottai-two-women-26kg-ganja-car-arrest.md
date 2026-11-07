@@ -40,6 +40,16 @@ data_sources:
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.value: [2]
+media:
+  - kind: photo
+    url: https://www.dailythanthi.com/news/india/2-women-arrested-for-smuggling-ganja-from-andhra-pradesh-to-pudukkottai
+    archived: https://web.archive.org/web/20261107051427/https://www.dailythanthi.com/news/india/2-women-arrested-for-smuggling-ganja-from-andhra-pradesh-to-pudukkottai
+    media_url: https://media.assettype.com/dailythanthi%2F2026-11-06%2Fnd5ca7b9%2F281.jpg
+    publisher: Daily Thanthi
+    caption: >-
+      The two arrested women stand behind yellow-wrapped ganja packets displayed
+      at a police station under a CCTNS Project poster. Photo: Daily Thanthi /
+      Thanthi TV
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f9c38cb9453fd998c3cbdfd7e1310b31
@@ -47,16 +57,19 @@ tags: [pudukkottai, tamil-nadu, ganja, andhra-pradesh, car-smuggling]
 sources:
   - title: 'காரில் கஞ்சா கடத்தல்: ஆந்திராவில் இருந்து 26 கிலோ கஞ்சா கடத்தி வந்த 2 பெண்கள் கைது. Women Smuggling Cannabis: 26 kg seized, 2 arrested in Andhra Pradesh.'
     url: https://www.thanthitv.com/news/tamilnadu/women-caught-smuggling-ganja-in-car-such-a-huge-quantity
+    archived: https://web.archive.org/web/20261107051359/https://www.thanthitv.com/news/tamilnadu/women-caught-smuggling-ganja-in-car-such-a-huge-quantity
     publisher: Thanthi TV
     date: 2026-11-06
     language: ta
   - title: ஆந்திராவில் இருந்து புதுக்கோட்டைக்கு கஞ்சா கடத்திய 2 பெண்கள் கைது
     url: https://www.dailythanthi.com/news/india/2-women-arrested-for-smuggling-ganja-from-andhra-pradesh-to-pudukkottai
+    archived: https://web.archive.org/web/20261107051427/https://www.dailythanthi.com/news/india/2-women-arrested-for-smuggling-ganja-from-andhra-pradesh-to-pudukkottai
     publisher: Daily Thanthi
     date: 2026-11-06
     language: ta
   - title: 26 கிலோ கஞ்சா கடத்திய இரு பெண்கள் கைது
     url: https://www.dinamani.com/amp/story/all-editions/edition-trichy/pudukottai/2026/Nov/07/26-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%87%E0%AE%B0%E0%AF%81-%E0%AE%AA%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81
+    archived: https://web.archive.org/web/20261107051513/https://www.dinamani.com/amp/story/all-editions/edition-trichy/pudukottai/2026/Nov/07/26-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%87%E0%AE%B0%E0%AF%81-%E0%AE%AA%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81
     publisher: தினமணி
     date: 2026-11-07
     language: ta

@@ -13,6 +13,19 @@ summary: >-
   Guerrero State Police arrested a man identified as Luis “N” on Calle 15 in Acapulco’s La Postal neighbourhood on 5 November 2026. Officers seized 50 small bags of green, dry herb with characteristics similar to marijuana during the patrol.
 figures:
   arrested: 1
+media:
+  - kind: photo
+    url: https://seguridadgro.gob.mx/index.php/noticias/5618-asegura-policia-estatal-50-bolsitas-de-probable-marihuana-y-detiene-a-un-hombre-en-acapulco
+    archived: https://web.archive.org/web/20261107055302/https://seguridadgro.gob.mx/index.php/noticias/5618-asegura-policia-estatal-50-bolsitas-de-probable-marihuana-y-detiene-a-un-hombre-en-acapulco
+    media_url: https://seguridadgro.gob.mx/images/2026/NOVIEMBRE/OCTAVIO/05/BOLETIN%2001/01.jpg
+    publisher: SSP Guerrero
+    caption: State police and other agencies present the detainee with about 50 bags of seized herb laid out on a table in Acapulco
+  - kind: photo
+    url: https://seguridadgro.gob.mx/index.php/noticias/5618-asegura-policia-estatal-50-bolsitas-de-probable-marihuana-y-detiene-a-un-hombre-en-acapulco
+    archived: https://web.archive.org/web/20261107055302/https://seguridadgro.gob.mx/index.php/noticias/5618-asegura-policia-estatal-50-bolsitas-de-probable-marihuana-y-detiene-a-un-hombre-en-acapulco
+    media_url: https://seguridadgro.gob.mx/images/2026/NOVIEMBRE/OCTAVIO/05/BOLETIN%2001/02.jpg
+    publisher: SSP Guerrero
+    caption: Close-up of the roughly 50 bags of seized herb and a bag on the display table in the SSP Guerrero bulletin
 details:
   agency_types: [police]
   products:
@@ -34,11 +47,13 @@ tags: [acapulco, guerrero, marihuana, street-seizure]
 sources:
   - title: Asegura Policía Estatal 50 bolsitas de probable marihuana y detiene a un hombre en Acapulco
     url: https://acustiknoticias.com/2026/11/asegura-policia-estatal-50-bolsitas-de-probable-marihuana-y-detiene-a-un-hombre-en-acapulco/
+    archived: https://web.archive.org/web/20261107055237/https://acustiknoticias.com/2026/11/asegura-policia-estatal-50-bolsitas-de-probable-marihuana-y-detiene-a-un-hombre-en-acapulco/
     publisher: Acustik Noticias
     date: 2026-11-05
     language: es
   - title: Asegura Policía Estatal 50 bolsitas de probable marihuana y detiene a un hombre en Acapulco
     url: https://seguridadgro.gob.mx/index.php/noticias/5618-asegura-policia-estatal-50-bolsitas-de-probable-marihuana-y-detiene-a-un-hombre-en-acapulco
+    archived: https://web.archive.org/web/20261107055302/https://seguridadgro.gob.mx/index.php/noticias/5618-asegura-policia-estatal-50-bolsitas-de-probable-marihuana-y-detiene-a-un-hombre-en-acapulco
     publisher: SSP Guerrero
     date: 2026-11-05
     language: es
@@ -48,7 +63,7 @@ open_questions:
   - No charges, handover authority or court outcome were reported beyond the presumption of innocence.
   - The detained man’s full surname was not published, only Luis “N”.
   - The Acustik Noticias account reproduces the SSP Guerrero bulletin, so the two sources are not independent confirmation.
-  - A photo is published with the Acustik Noticias page but carries no caption establishing that it shows this seizure, so no media entry is included.
+  - The Acustik Noticias page photo is not used; media here is taken from the SSP Guerrero bulletin photographs of this presentation.
 ---
 
 Guerrero State Police officers detained a man during preventive security patrols

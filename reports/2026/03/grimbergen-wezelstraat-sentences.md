@@ -60,9 +60,13 @@ sources:
     language: nl
 media:
   - kind: photo
-    url: https://images.vrt.be/vrtnws_share/2024/08/23/4341c62d-0020-42e2-9e0c-3334e298e924.jpg
+    url: https://www.vrt.be/vrtnws/nl/2024/08/23/politie-valt-met-getrokken-wapen-villa-met-cannabisplantage-in-g/
+    archived: https://web.archive.org/web/20240906141959/https://www.vrt.be/vrtnws/nl/2024/08/23/politie-valt-met-getrokken-wapen-villa-met-cannabisplantage-in-g/
+    media_url: https://images.vrt.be/vrtnws_share/2024/08/23/4341c62d-0020-42e2-9e0c-3334e298e924.jpg
     publisher: VRT NWS
-    caption: A dark front door with a ribbed glass panel and a doorbell, the photograph published with VRT's report of the Wezelstraat raid.
+    caption: >-
+      Front door of the Wezelstraat villa sealed with Federal Police tape, as
+      published with VRT's report of the raid. Photo: VRT NWS
 ---
 
 On 5 March 2026, Het Laatste Nieuws reported that the Brussels criminal court had jailed four men over a cannabis plantation in a villa on Wezelstraat in Grimbergen. [@1] An unlicensed estate agent who had rented the house received 36 months. [@1] Two Albanian men also received 36 months, and a third received 24 months. [@1]

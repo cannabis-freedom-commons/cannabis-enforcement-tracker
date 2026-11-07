@@ -53,20 +53,26 @@ sources:
     language: de
   - title: "Grossrazzia: Polizei beschlagnahmt in Wallbach tausende Hanfpflanzen"
     url: https://www.telem1.ch/aktuell/grossrazzia-polizei-beschlagnahmt-in-wallbach-tausende-hanfpflanzen-164337567
+    archived: https://web.archive.org/web/20261107053232/https://www.telem1.ch/aktuell/grossrazzia-polizei-beschlagnahmt-in-wallbach-tausende-hanfpflanzen-164337567
     publisher: Tele M1
     date: 2026-05-26
     language: de
 media:
   - kind: photo
-    url: https://chm-images-prd.forward-publishing.io/2026/05/26/ea35c998-2c4b-458d-beba-f7b05f05e216.png?auto=format&s=e7393d36b160e3b6fafc7855cb97ef53&rect=0%2C0%2C1024%2C576&w=1200&h=675
+    url: https://www.aargauerzeitung.ch/aargau/kanton-aargau/wallbach-grossrazzia-wegen-hanfplantagen-ld.4174700
+    media_url: https://chm-images-prd.forward-publishing.io/2026/05/26/ea35c998-2c4b-458d-beba-f7b05f05e216.png?auto=format&s=e7393d36b160e3b6fafc7855cb97ef53&rect=0%2C0%2C1024%2C576&w=1200&h=675
     publisher: Aargauer Zeitung
     caption: A wooden commercial hall with two roller doors and a pickup parked in front. The Aargauer Zeitung says the still is from Tele M1 and shows the halls that were searched in Wallbach.
   - kind: photo
-    url: https://static.az-cdn.ch/__ip/5Vz5NWTgAzrOGV7VnTeePjo2cYA/ad765e3fd1407adab2600fd5eadf6797da4d8e7b/n-large2x-16x9-far
+    url: https://www.telem1.ch/aktuell/grossrazzia-polizei-beschlagnahmt-in-wallbach-tausende-hanfpflanzen-164337567
+    archived: https://web.archive.org/web/20261107053232/https://www.telem1.ch/aktuell/grossrazzia-polizei-beschlagnahmt-in-wallbach-tausende-hanfpflanzen-164337567
+    media_url: https://static.az-cdn.ch/__ip/5Vz5NWTgAzrOGV7VnTeePjo2cYA/ad765e3fd1407adab2600fd5eadf6797da4d8e7b/n-large2x-16x9-far
     publisher: Tele M1
     caption: Black rubbish bags piled in a warehouse, a still from Tele M1's report of the Wallbach raid.
   - kind: video
     url: https://www.telem1.ch/aktuell/grossrazzia-polizei-beschlagnahmt-in-wallbach-tausende-hanfpflanzen-164337567
+    archived: https://web.archive.org/web/20261107053232/https://www.telem1.ch/aktuell/grossrazzia-polizei-beschlagnahmt-in-wallbach-tausende-hanfpflanzen-164337567
+    media_url: https://www.telem1.ch/aktuell/grossrazzia-polizei-beschlagnahmt-in-wallbach-tausende-hanfpflanzen-164337567
     publisher: Tele M1
     caption: Tele M1's report of the Wallbach raid, which the Aargauer Zeitung quotes for the arrest count.
 ---

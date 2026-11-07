@@ -45,19 +45,27 @@ sources:
     language: pt
   - title: Operação da Polícia Civil destrói plantação de maconha e termina com suspeito morto em Grajaú
     url: https://esperanca.fm.br/2026/06/22/operacao-da-policia-civil-destroi-plantacao-de-maconha-e-termina-com-suspeito-morto-em-grajau
+    archived: https://web.archive.org/web/20261107054430/https://esperanca.fm.br/2026/06/22/operacao-da-policia-civil-destroi-plantacao-de-maconha-e-termina-com-suspeito-morto-em-grajau
     publisher: Esperança FM
     date: 2026-06-23
     language: pt
 media:
   - kind: photo
     url: https://jornalpequeno.com.br/2026/06/22/suspeito-morre-ao-enfrentar-a-policia-durante-operacao-contra-plantacao-de-maconha-no-ma/
+    media_url: https://jornalpequeno.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-22-at-09.13.08-750x430-1.jpeg
     archived: https://web.archive.org/web/20260626094017/https://jornalpequeno.com.br/2026/06/22/suspeito-morre-ao-enfrentar-a-policia-durante-operacao-contra-plantacao-de-maconha-no-ma/
     publisher: Jornal Pequeno
-    caption: Material seized in the operation, released by the Civil Police
+    caption: >-
+      Camouflaged officers watch a thatched structure burn during the Grajaú
+      Civil Police operation. Photo: Civil Police via Jornal Pequeno
   - kind: photo
     url: https://esperanca.fm.br/2026/06/22/operacao-da-policia-civil-destroi-plantacao-de-maconha-e-termina-com-suspeito-morto-em-grajau
+    archived: https://web.archive.org/web/20261107054430/https://esperanca.fm.br/2026/06/22/operacao-da-policia-civil-destroi-plantacao-de-maconha-e-termina-com-suspeito-morto-em-grajau
+    media_url: https://esperanca.fm.br/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE5ODY4LCJwdXIiOiJibG9iX2lkIn19--e497f6dbf93288d70e9a48cd4d89fcb68aca6690/WhatsApp-Image-2026-06-22-at-11.12.56-768x1024.jpeg
     publisher: Esperança FM
-    caption: The cannabis plots and equipment found in the Bacurizinho indigenous land
+    caption: >-
+      Public-security officers pose with helicopter PR-EBH after the Bacurizinho
+      operation. Photo: Civil Police via Esperança FM
 ---
 
 A 47-year-old man from Salgueiro, Pernambuco, died after exchanging fire with Civil Police officers

@@ -30,6 +30,7 @@ created_by_model: Meta Muse Spark (via Muse Code)
 tags: [airport, cargo]
 open_questions:
   - The Observer's original page was unreachable behind a browser check, so the account rests on the mirror text; the shipment's origin and any arrests were not reported.
+  - Neither outlet published a photo established as this airport seizure; the Observer lead is a October 2023 drug-bust file image and Nice FM's image filename points to a deepwater-harbour haul, so no media entry is listed.
 sources:
   - title: Over half a million in illegal cannabis seized at airport
     url: https://antiguaobserver.com/over-half-a-million-in-illegal-cannabis-seized-at-airport/
@@ -43,12 +44,6 @@ sources:
     publisher: Nice FM
     date: 2024-10-24
     language: en
-media:
-  - kind: photo
-    url: https://www.nicefmradio.com/wp-content/uploads/2024/10/Drugs-deepwater-harbour.jpeg
-    archived: https://web.archive.org/web/20251101025041/https://www.nicefmradio.com/wp-content/uploads/2024/10/Drugs-deepwater-harbour.jpeg
-    publisher: Nice FM
-    caption: 'Vacuum-sealed cannabis packages in a box from the airport seizure. Photo: Police via Nice FM'
 ---
 
 Over half a million dollars worth of cannabis was seized at V.C. Bird

@@ -13,6 +13,12 @@ summary: >-
   Quintana Roo's Grupo Orión police arrested a mototaxi driver on avenida Galaxias del Sol in Cancún and seized 79 small bags of suspected marijuana along with 15 of apparent crack. He was handed to the state prosecutor's office, which will determine his legal situation.
 figures:
   arrested: 1
+media:
+  - kind: photo
+    url: https://quintanaroohoy.com/seguridad/detienen-a-mototaxista-con-marihuana-y-crack-en-galaxias-del-sol/
+    media_url: https://quintanaroohoy.com/wp-content/uploads/2026/11/B5-2.jpg
+    publisher: Quintana Roo Hoy
+    caption: Grupo Orión officers present the detained mototaxi driver after the Galaxias del Sol arrest in Cancún
 details:
   agency_types: [police]
   products:
@@ -41,6 +47,7 @@ sources:
     language: es
   - title: Cae mototaxista con 94 bolsitas de droga en Cancún
     url: https://depeso.com/quintana-roo/cancun/cae-mototaxista-con-94-bolsitas-de-droga-en-cancun/
+    archived: https://web.archive.org/web/20261107055432/https://depeso.com/quintana-roo/cancun/cae-mototaxista-con-94-bolsitas-de-droga-en-cancun/
     publisher: DePeso
     date: 2026-11-05
     language: es
@@ -51,7 +58,8 @@ open_questions:
   - The 15 bags of apparent crack are excluded from cannabis figures; no combined drug weight was reported.
   - No charges or court outcome are reported; the FGE will determine the detainee's legal situation.
   - Both accounts appear to follow the same state police information and are not independent confirmation.
-  - The pages carry photos with no caption establishing they show this seizure, so no media entry is included.
+  - Media is the Grupo Orión presentation photo published with Quintana Roo Hoy's account of this arrest; bag counts are not visible in the frame.
+  - The Wayback Machine capture for the Quintana Roo Hoy page redirected to a different Cancún security article, so that source is left without an archived copy.
 ---
 
 Officers of Grupo Orión, a unit of Quintana Roo's state Citizen Security

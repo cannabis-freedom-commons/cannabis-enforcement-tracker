@@ -22,10 +22,14 @@ figures:
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/balrampur-police-raid-illegal-cannabis-cultivation-in-vegetable-garden-cts26100404550
+    archived: https://web.archive.org/web/20261107051037/https://www.etvbharat.com/hi/state/balrampur-police-raid-illegal-cannabis-cultivation-in-vegetable-garden-cts26100404550
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/04-10-2026/1200-675-27788364-thumbnail-16x9-image-aspera.jpg
     publisher: ETV Bharat
     caption: 'The accused with police officers after the raid on his vegetable garden in Balrampur. Photo: ETV Bharat Chhattisgarh'
   - kind: photo
     url: https://www.haribhoomi.com/state-local/chhattishgarh/news/balrampur-illegal-ganja-farming-barion-police-seized-112-plants-accused-arrested-116133
+    archived: https://web.archive.org/web/20261107051109/https://www.haribhoomi.com/state-local/chhattishgarh/news/balrampur-illegal-ganja-farming-barion-police-seized-112-plants-accused-arrested-116133
+    media_url: https://img.haribhoomi.com/uploadimage/library/16_9/16_9_5/Ganja_plants_seized_by_Barion_police_1791180506.webp
     publisher: Haribhoomi
     caption: 'Cannabis plants seized by Bariyo police in Khukhri village. Photo: Haribhoomi'
 details:
@@ -51,16 +55,19 @@ tags: [balrampur, chhattisgarh, ganja, cultivation, ndps]
 sources:
   - title: बलरामपुर में सब्जियों के बाड़ी में अवैध रूप से गांजे की खेती, पुलिस ने छापेमारी कर पौधे किए जब्त
     url: https://www.etvbharat.com/hi/state/balrampur-police-raid-illegal-cannabis-cultivation-in-vegetable-garden-cts26100404550
+    archived: https://web.archive.org/web/20261107051037/https://www.etvbharat.com/hi/state/balrampur-police-raid-illegal-cannabis-cultivation-in-vegetable-garden-cts26100404550
     publisher: ETV Bharat
     date: 2026-10-04
     language: hi
   - title: 'बलरामपुर में गांजा की खेती : पटवारी ने पुलिस को दी सूचना, 112 बड़े पौधे जब्त, उगाने का आरोपी गिरफ्तार'
     url: https://www.haribhoomi.com/state-local/chhattishgarh/news/balrampur-illegal-ganja-farming-barion-police-seized-112-plants-accused-arrested-116133
+    archived: https://web.archive.org/web/20261107051109/https://www.haribhoomi.com/state-local/chhattishgarh/news/balrampur-illegal-ganja-farming-barion-police-seized-112-plants-accused-arrested-116133
     publisher: Haribhoomi
     date: 2026-10-05
     language: hi
   - title: सब्जियों के बीच उगा रखा था गांजा! पुलिस ने मारा छापा, 112 पौधे और 36.3 किलो गांजा बरामद
     url: https://chhattisgarh.co/hemp-was-grown-among-vegetables-police-raid-recover-112-saplings-and-36-3-kg-of-ganja/
+    archived: https://web.archive.org/web/20261107051139/https://chhattisgarh.co/hemp-was-grown-among-vegetables-police-raid-recover-112-saplings-and-36-3-kg-of-ganja/
     publisher: Chhattisgarh.co
     date: 2026-10-05
     language: hi

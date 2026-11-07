@@ -42,22 +42,21 @@ sources:
     language: fr
   - title: Plus de 7 400 plants de cannabis estimés à près de 30 millions de roupies saisis à Riche-en-Eau
     url: https://radio1.mu/plus-de-7-400-plants-de-cannabis-estimes-a-pres-de-30-millions-de-roupies-saisis-a-riche-en-eau/
+    archived: https://web.archive.org/web/20261107051210/https://radio1.mu/plus-de-7-400-plants-de-cannabis-estimes-a-pres-de-30-millions-de-roupies-saisis-a-riche-en-eau/
     publisher: Radio One
     date: 2026-10-06
     language: fr
 media:
   - kind: photo
     url: https://lexpress.mu/s/7-414-plants-de-cannabis-deracines-apres-un-reperage-aerien-563362
+    media_url: https://lexpress.mu/storage/articles/06qHIkxOhldVY1f1U7sAzdrkcm2YobYw5fkTHeik.jpg
     archived: https://web.archive.org/web/20261007173013/https://lexpress.mu/s/7-414-plants-de-cannabis-deracines-apres-un-reperage-aerien-563362
     publisher: L'Express
-    caption: The cannabis plantation at Riche-en-Eau after its discovery
-  - kind: photo
-    url: https://radio1.mu/plus-de-7-400-plants-de-cannabis-estimes-a-pres-de-30-millions-de-roupies-saisis-a-riche-en-eau/
-    publisher: Radio One
-    caption: Uprooted cannabis plants from the two plots
+    caption: >-
+      L'Express composite of the Riche-en-Eau plantation in situ, bagged uprooted
+      stalks, and plants laid out after the ADSU clearance. Photo: lexpress.mu
 open_questions:
-  - Radio One's lead image is labelled a photo illustration, so no media_url was taken from that page.
-  - L'Express returned 403 when reopened for a direct plantation photo address.
+  - Radio One's lead image is labelled a photo illustration of a flowering plant, so it is not listed as media of this eradication.
 ---
 
 Anti-drug officers uprooted 7,414 cannabis plants at Riche-en-Eau in south-east Mauritius on

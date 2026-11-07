@@ -26,6 +26,7 @@ data_sources:
 media:
   - kind: photo
     url: https://www.sanook.com/news/1183683/
+    media_url: https://s.isanook.com/ns/0/ud/236/1183683/450185-01.jpg
     publisher: Sanook
     caption: 'Wide view of a cleared hillside in the Kaeng Krachan watershed forest, with felled trees and forest rangers walking through the clearing. Photo: Sanook'
 status: reported

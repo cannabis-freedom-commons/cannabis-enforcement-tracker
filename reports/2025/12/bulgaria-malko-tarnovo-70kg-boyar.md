@@ -41,12 +41,14 @@ open_questions:
 sources:
   - title: Police dog helps seize 70 kg of marijuana at Bulgaria-Turkey border
     url: https://bnrnews.bg/en/post/401180/police-dog-helps-seize-70-kg-of-marijuana-at-bulgaria-turkey-border
+    archived: https://web.archive.org/web/20261107053141/https://bnrnews.bg/en/post/401180/police-dog-helps-seize-70-kg-of-marijuana-at-bulgaria-turkey-border
     publisher: BNR News
     date: 2025-12-12
     language: en
 media:
   - kind: photo
-    url: https://bnrnews.bg/api/media/defff344-81fa-4ed7-b2eb-8f7ff17cec87?Size=large
+    url: https://bnrnews.bg/en/post/401180/police-dog-helps-seize-70-kg-of-marijuana-at-bulgaria-turkey-border
+    media_url: https://bnrnews.bg/api/media/defff344-81fa-4ed7-b2eb-8f7ff17cec87?Size=large
     archived: https://web.archive.org/web/20251212154902/https://bnrnews.bg/api/media/defff344-81fa-4ed7-b2eb-8f7ff17cec87?Size=large
     publisher: BNR News
     caption: 'Boyar the sniffer dog and the gas cylinders and packages of seized marijuana. Photo: Border Police via BNR News'

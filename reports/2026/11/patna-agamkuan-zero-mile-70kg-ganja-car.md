@@ -36,6 +36,16 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://24citylive.com/70-kg-ganja-recovered-in-patna-one-smuggler-arrested-another-absconding/
+    archived: https://web.archive.org/web/20261107051323/https://24citylive.com/70-kg-ganja-recovered-in-patna-one-smuggler-arrested-another-absconding/
+    media_url: https://24citylive.com/uploads/2026/11/admin-ade23b3ab96c.jpg
+    publisher: 24CityLive
+    caption: >-
+      24CityLive composite of Agamkuan police displaying brown-wrapped ganja
+      packets beside a Patna Police banner, and officers escorting the handcuffed
+      suspect past the seized Brezza registered BR19X4734.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ac2a054dcfb005f1f571321ae4b30a96
@@ -43,11 +53,13 @@ tags: [patna, bihar, ganja, agamkuan, ndps]
 sources:
   - title: 'पटना: 70 किलो गांजा, चोरी के माल संग 3 गिरफ्तार'
     url: https://www.prabhatkhabar.com/state/bihar/patna/patna-police-seize-70kg-ganja-recover-stolen-goods-arrest-3
+    archived: https://web.archive.org/web/20261107051243/https://www.prabhatkhabar.com/state/bihar/patna/patna-police-seize-70kg-ganja-recover-stolen-goods-arrest-3
     publisher: Prabhat Khabar
     date: 2026-11-06
     language: hi
   - title: पटना में 70 किलो गांजा बरामद, एक तस्कर गिरफ्तार, दूसरा फरार
     url: https://24citylive.com/70-kg-ganja-recovered-in-patna-one-smuggler-arrested-another-absconding/
+    archived: https://web.archive.org/web/20261107051323/https://24citylive.com/70-kg-ganja-recovered-in-patna-one-smuggler-arrested-another-absconding/
     publisher: 24CityLive
     date: 2026-11-05
     language: hi
@@ -58,7 +70,7 @@ open_questions:
   - No court appearance, judicial custody remand or charge sheet has been reported; the case was at the FIR stage.
   - Prabhat Khabar gives the briefing officer the rank of ASP and does not say whether he spoke for all three cases.
   - Prabhat Khabar describes the checking point as Zero Mile near Badi Pahadi; 24CityLive says only near Zero Mile.
-  - Prabhat Khabar's lead picture is captioned as police officers briefing reporters, and 24CityLive's lead picture carries no caption, so no photo of the seizure itself is listed.
+  - Prabhat Khabar's lead picture is captioned as police officers briefing reporters rather than the seizure display itself.
 ---
 
 Police in Patna's Agamkuan police station area stopped a car near Zero Mile and
