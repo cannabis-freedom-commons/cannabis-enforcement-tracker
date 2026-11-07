@@ -72,6 +72,11 @@ sources:
     publisher: Preto no Branco
     date: 2026-11-06
     language: pt
+  - title: Operação policial destrói plantação com aproximadamente 3 mil pés de maconha na zona rural de Remanso
+    url: https://waldineypassos.com.br/operacao-policial-destroi-plantacao-com-aproximadamente-3-mil-pes-de-maconha-na-zona-rural-de-remanso/
+    publisher: Blog do Waldiney Passos
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The submitted page gives no date for the action; 5 November 2026 comes from the Carlos Britto account, which dates it to that Thursday.
   - Plant and area figures are police approximations of about 3,000 plants on about one hectare, not measured counts.
@@ -80,22 +85,24 @@ open_questions:
   - The three outlets reproduce the same CIPE/Caatinga police statement, so the accounts are not independent; Preto no Branco credits Ascom CIPE/Caatinga.
   - The submitted page's only image carries no caption or credit beyond its file name, so what it depicts cannot be confirmed; it is linked, not copied.
   - No count was given for the seeds seized, and the processed cannabis weight is approximate.
+  - This page gives no separate date for the action; 6 November is its publication date.
+  - The page reproduces the same CIPE/Caatinga statement as the outlets already cited, so it is not an independent account.
+  - The page's photo carries no credit line beyond its file name, and what it depicts cannot be confirmed from its caption; it was left out of the media list.
 ---
 
 Bahia's Military Police, through its Caatinga Specialised Policing Independent
 Company (CIPE/Caatinga), found and eradicated a cannabis plantation in the Olho
-D'água district of rural Remanso. [@1] The company worked with the 25th
+D'água district of rural Remanso. [@1,4] The company worked with the 25th
 Independent Military Police Company and the Bahia Civil Police during Operação
 Protetor de Divisas. [@3]
 
 Officers identified a cultivation area of about one hectare where roughly 3,000
-Cannabis sativa plants remained. [@1] During the action they also seized about
+Cannabis sativa plants remained. [@1,4] During the action they also seized about
 17 kg of cannabis ready for consumption, as well as seeds, two precision scales,
-an electric water pump, an air rifle, a mobile phone and three motorcycles. [@1]
+an electric water pump, an air rifle, a mobile phone and three motorcycles. [@1,4]
 
 The plantation was eradicated and incinerated on the spot, and samples of the
-drug were taken to the Remanso territorial police station. [@1] Nobody was
-arrested or taken to a police station in the operation. [@3] The action was
+drug were taken to the Remanso territorial police station. [@1,4] Nobody was
+arrested or taken to a police station in the operation. [@3,4] The action was
 carried out on Thursday 5 November 2026, and most of the crop had already been
 harvested, according to preliminary information. [@2]
-
