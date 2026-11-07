@@ -26,6 +26,11 @@ media:
     media_url: https://image.voh.com.vn/voh/image/2026/11/06/hon-25kg-thao-moc-kho-la-bo-phan-cua-cay-can-sa-duoc-cat-giau-trong-vali-cua-khach-nguoi-tay-ban-nha-anh-cat-tu-clip-do-cuc-hai-quan-cung-cap-111925.jpg?t=o&w=1600&q=85
     publisher: VOH Online
     caption: 'Frame from a Customs Department clip showing more than 25 kg of vacuum-sealed cannabis herb, leaves, stems and buds taken from the Spanish passenger''s suitcase. Photo: Cục Hải quan (Customs Department) via VOH.'
+  - kind: photo
+    url: https://www.vietnam.vn/ko/phat-hien-hon-400-cay-thuoc-la-nung-nong-va-25-4kg-can-sa-trong-hanh-ly-o-ha-noi
+    media_url: https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/06/1793939037110_1793930483184-6237734552520286582-g3066395940100539240-f35461a2c8b00e9a67d8ddddbaf3847e-813.jpeg
+    publisher: Vietnam.vn (VietNamNet)
+    caption: 'Still from the Customs Department clip of the cannabis seized at Noi Bai International Airport. Photo: Cục Hải quan (Customs Department).'
 details:
   activity: [smuggling]
   agency_types: [customs, border-guard, police]
@@ -126,6 +131,11 @@ sources:
     publisher: Vietnam.vn (Báo Tiền Phong)
     date: 2026-11-06
     language: zh
+  - title: 하노이에서 당국은 수하물에서 가열식 담배 400개비 이상과 마리화나 25.4kg을 발견했습니다.
+    url: https://www.vietnam.vn/ko/phat-hien-hon-400-cay-thuoc-la-nung-nong-va-25-4kg-can-sa-trong-hanh-ly-o-ha-noi
+    publisher: Vietnam.vn (VietNamNet)
+    date: 2026-11-06
+    language: ko
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -176,6 +186,9 @@ open_questions:
   - The four heated-tobacco passengers and the more than 400 TEREA sticks in the same announcement are a tobacco case left out of the cannabis report.
   - This page says the four passengers were flagged at gates 6 and 7 of Terminal 2, while the existing report says the Spanish passenger's bag was flagged during screening without giving the terminal or gate; the page does not say which gate the suitcase passed through.
   - The page's only photo shows the heated-tobacco seizure, not the cannabis packages, so no media entry is included from it.
+  - This Korean account names the passenger only as Spanish and names no origin airport for the VN922 leg, so it neither confirms nor contradicts the earlier account of Jesus Sanchez Gomez, a EUR 4,000 payment and a Cambodia origin.
+  - The page gives no laboratory result confirming the dried herb was cannabis beyond the Customs Department's statement, and no charge, court outcome or estimated value.
+  - The more than 400 TEREA heated-tobacco sticks and four passengers in the same announcement are a separate tobacco case left out of this report.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
@@ -193,15 +206,15 @@ carry the goods from Cambodia, through Vietnam, to France. [@1]
 
 Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
-investigation. [@1,2,3,5,6,7,10,14,15,16]
+investigation. [@1,2,3,5,6,7,10,14,15,16,17]
 
-The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,11,14,16]
+The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,11,14,16,17]
 
-The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,11,13,14,16] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
+The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,11,13,14,16,17] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
 
 The Spanish passenger's checked bag was flagged during screening, and the inspection was carried out jointly by airport customs, customs supervision and anti-smuggling units, airport police and the Hanoi PC04 drug unit. [@6,11,12]
 
-The Spanish passenger's suitcase was checked through from flight VN922 onto VN19, which was due to leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@8]
+The Spanish passenger's suitcase was checked through from flight VN922 onto VN19, which was due to leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@8,17]
 
 The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@10,12,13,14,15] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11,13,14]
 
