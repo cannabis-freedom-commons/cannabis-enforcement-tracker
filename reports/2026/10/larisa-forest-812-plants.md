@@ -62,46 +62,55 @@ sources:
     language: el
 media:
   - kind: photo
-    url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__1_.jpg
+    url: https://www.protothema.gr/greece/article/1896002/futeia-me-812-dendrullia-kannavis-vrethike-krummeni-mesa-se-dasos-sti-larisa/
+    media_url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__1_.jpg
     archived: https://web.archive.org/web/20261019192327/https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__1_.jpg
     publisher: Protothema
-    caption: A pole-and-tarp shelter with cannabis hanging in rows to dry.
+    caption: "A pole-and-tarp shelter with cannabis hanging in rows to dry. Photo: Hellenic Police / Protothema"
   - kind: photo
-    url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__2_.jpg
+    url: https://www.protothema.gr/greece/article/1896002/futeia-me-812-dendrullia-kannavis-vrethike-krummeni-mesa-se-dasos-sti-larisa/
+    media_url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__2_.jpg
     archived: https://web.archive.org/web/20261019192327/https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__2_.jpg
     publisher: Protothema
-    caption: Cannabis plants on a wooded hillside among other vegetation.
+    caption: "Cannabis plants on a wooded hillside among other vegetation. Photo: Hellenic Police / Protothema"
   - kind: photo
-    url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__3_.jpg
+    url: https://www.protothema.gr/greece/article/1896002/futeia-me-812-dendrullia-kannavis-vrethike-krummeni-mesa-se-dasos-sti-larisa/
+    media_url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__3_.jpg
     publisher: Protothema
-    caption: The inside of a tarp shelter, with shade mesh and a blue barrel.
+    caption: "The inside of a tarp shelter, with shade mesh and a blue barrel. Photo: Hellenic Police / Protothema"
   - kind: photo
-    url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__4_.jpg
+    url: https://www.protothema.gr/greece/article/1896002/futeia-me-812-dendrullia-kannavis-vrethike-krummeni-mesa-se-dasos-sti-larisa/
+    media_url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__4_.jpg
     archived: https://web.archive.org/web/20261019212228/https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__4_.jpg
     publisher: Protothema
-    caption: A rock hollow lined with black plastic and holding green water.
+    caption: "A rock hollow lined with black plastic and holding green water. Photo: Hellenic Police / Protothema"
   - kind: photo
-    url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__5_.jpg
+    url: https://www.protothema.gr/greece/article/1896002/futeia-me-812-dendrullia-kannavis-vrethike-krummeni-mesa-se-dasos-sti-larisa/
+    media_url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__5_.jpg
     archived: https://web.archive.org/web/20261019224447/https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__5_.jpg
     publisher: Protothema
-    caption: Rows of flowering cannabis plants on a cleared slope.
+    caption: "Rows of flowering cannabis plants on a cleared slope. Photo: Hellenic Police / Protothema"
   - kind: photo
-    url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__6_.jpg
+    url: https://www.protothema.gr/greece/article/1896002/futeia-me-812-dendrullia-kannavis-vrethike-krummeni-mesa-se-dasos-sti-larisa/
+    media_url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__6_.jpg
     archived: https://web.archive.org/web/20261019192327/https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__6_.jpg
     publisher: Protothema
-    caption: Rows of cannabis plants beside a dirt path on the slope.
+    caption: "Rows of cannabis plants beside a dirt path on the slope. Photo: Hellenic Police / Protothema"
   - kind: photo
-    url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__7_.jpg
+    url: https://www.protothema.gr/greece/article/1896002/futeia-me-812-dendrullia-kannavis-vrethike-krummeni-mesa-se-dasos-sti-larisa/
+    media_url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__7_.jpg
     archived: https://web.archive.org/web/20261019192327/https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__7_.jpg
     publisher: Protothema
-    caption: A camp under tarps in the trees, with sacks, barrels and containers.
+    caption: "A camp under tarps in the trees, with sacks, barrels and containers. Photo: Hellenic Police / Protothema"
   - kind: photo
-    url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__8_.jpg
+    url: https://www.protothema.gr/greece/article/1896002/futeia-me-812-dendrullia-kannavis-vrethike-krummeni-mesa-se-dasos-sti-larisa/
+    media_url: https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__8_.jpg
     archived: https://web.archive.org/web/20261019192327/https://i1.prth.gr/images/w880/jpg/files/2026-10-16/narkotika-larisa__8_.jpg
     publisher: Protothema
-    caption: Cannabis plants on a wooded ridge above a plain.
+    caption: "Cannabis plants on a wooded ridge above a plain. Photo: Hellenic Police / Protothema"
   - kind: video
     url: https://www.youtube.com/watch?v=p081dTAXqp8
+    media_url: https://www.youtube.com/watch?v=p081dTAXqp8
     archived: https://web.archive.org/web/20261016214547/https://www.youtube.com/watch?v=p081dTAXqp8
     publisher: Protothema
     caption: Hellenic Police video of the drying shelter, published with the 16 October 2026 report.

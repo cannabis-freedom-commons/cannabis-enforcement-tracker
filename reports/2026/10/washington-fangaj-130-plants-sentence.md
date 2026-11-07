@@ -43,10 +43,17 @@ tags: [washington, newcastle, production]
 media:
   - kind: photo
     url: https://www.chroniclelive.co.uk/news/north-east-news/north-east-cannabis-farmer-told-34795231
+    media_url: https://i2-prod.chroniclelive.co.uk/article34795595.ece/ALTERNATES/s1200/0_RKR-211026ridvanfangaj.jpg
     publisher: Chronicle Live
-    caption: "Custody photograph of Ridvan Fangaj (Northumbria Police via Chronicle Live)."
+    caption: "Custody photograph of Ridvan Fangaj. Photo: Northumbria Police via Chronicle Live"
+  - kind: photo
+    url: https://www.cannabisinsider.co.uk/news/washington-cannabis-farmer-jailed-police-raid
+    media_url: https://cdn.sanity.io/images/br8j8f0r/production/48b4e909fb40fccbb2480b887de54626c1c9ce34-1200x675.jpg
+    publisher: Cannabis Insider UK
+    caption: "The same custody photograph used with the sentencing report. Photo: Northumbria Police via Cannabis Insider"
 open_questions:
   - Neither source states the exact day of the sentencing hearing; the court report was published on 22 October 2026.
+  - The live Chronicle Live page blocked automated fetch (HTTP 403); the mugshot address was taken from its archived copy.
 sources:
   - title: "North East cannabis farmer told police during raid: 'I should have listened to my mother'"
     url: https://www.chroniclelive.co.uk/news/north-east-news/north-east-cannabis-farmer-told-34795231

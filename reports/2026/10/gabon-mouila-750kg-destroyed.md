@@ -39,9 +39,10 @@ sources:
 media:
   - kind: photo
     url: https://www.gabonreview.com/mouila-750-kg-de-cannabis-evalues-a-10-millions-de-fcfa-detruits-par-la-justice/
+    media_url: https://www.gabonreview.com/wp-content/uploads/2026/10/Saisie-cannabis.jpg
     archived: https://web.archive.org/web/20261015043324/https://www.gabonreview.com/mouila-750-kg-de-cannabis-evalues-a-10-millions-de-fcfa-detruits-par-la-justice/
     publisher: Gabon Review
-    caption: Officials with the sacks of cannabis ahead of the destruction
+    caption: "Officials with piled 50 kg sacks of cannabis ahead of the Mouila destruction. Photo: Gabon Review"
 ---
 
 The prosecutor's office of the Mouila court of first instance recently

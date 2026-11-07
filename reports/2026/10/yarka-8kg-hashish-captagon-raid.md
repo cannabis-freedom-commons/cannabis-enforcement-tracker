@@ -34,11 +34,17 @@ tags: [yarka, galilee, hashish, captagon]
 media:
   - kind: photo
     url: https://www.jfeed.com/news-israel/tn7dej
+    media_url: https://images.jfeed.com/2026/10/20/f6b45660-cc5b-11f1-8b3a-89dfa7c520c7__h900_w1600.jpeg
     publisher: JFeed
-    caption: "Seized hashish blocks, scale and phones laid out after the Yarka raid (police)."
+    caption: "Hashish blocks, scale, phones and a Western Galilee police plaque after the raid. Photo: Israel Police via JFeed"
+  - kind: photo
+    url: https://www.jfeed.com/news-israel/tn7dej
+    media_url: https://images.jfeed.com/2026/10/20/754e4f80-cc5c-11f1-8b3a-89dfa7c520c7__h1600_w900.jpeg
+    publisher: JFeed
+    caption: "Blue-wrapped bricks pulled from a black bag at the Yarka compound. Photo: Israel Police via JFeed"
 open_questions:
-  - Only JFeed could be opened for this raid; the account below is the only one verified.
   - Whether the two suspects were remanded or charged was not reported.
+  - No second independent outlet for this raid was opened in this pass.
 sources:
   - title: Police Seize Hashish and Captagon Pills in Yarka Raid
     url: https://www.jfeed.com/news-israel/tn7dej

@@ -49,9 +49,15 @@ sources:
     language: en
 media:
   - kind: photo
-    url: https://www.fijivillage.com/news_images/20261019113111_media_6ad556034efe69_85006125.jpg
+    url: https://www.fijivillage.com/news/four-men-arrested-with-suspected-marijuana-at-narain-jetty-d13822/
+    media_url: https://www.fijivillage.com/news_images/20261019113111_media_6ad556034efe69_85006125.jpg
     publisher: Fijivillage
-    caption: 'Seized dried leaves, branches and sachets laid out after the Narain Jetty checks. Photo: Fiji Police Force via Fijivillage'
+    caption: "Seized dried leaves, branches and sachets laid out after the Narain Jetty checks. Photo: Fiji Police Force via Fijivillage"
+  - kind: photo
+    url: https://conven.org/fiji/news/four-men-arrested-in-drug-bust-at-narain-jetty/
+    media_url: https://conven.org/wp-content/uploads/2026/10/Four-Men-Arrested-in-Drug-Bust-at-Narain-Jetty.jpeg
+    publisher: Fiji One News via CONVEN
+    caption: "The same seizure table of leaves, branches and wrapped packs. Photo: Fiji Police via CONVEN"
 ---
 
 Four men were arrested at Narain Jetty in Suva for alleged possession of
