@@ -24,6 +24,11 @@ media:
     media_url: https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/11/IMAGENS-PORTAL-ITATIAIA-7-4.jpg?resize=1280%2C720&w=1280&h=720&quality=75&crop=1
     publisher: Rádio Itatiaia
     caption: 'The material seized in the Caratinga operation, used as the article''s lead image under the caption "Homem é preso e 14 barras de maconha são apreendidas em Minas". Photo: PMMG'
+  - kind: photo
+    url: https://asnoticiasonline.com.br/2026/11/06/homem-de-53-anos-e-preso-com-14-barras-de-maconha-na-zona-rural-de-caratinga/
+    media_url: https://asnoticiasonline.com.br/wp-content/uploads/2026/11/8f6d1631-863a-4f77-aed7-878e8fce40da.jpg
+    publisher: As Notícias Online
+    caption: Second picture published beside the description of the scale, plastic film and knife seized at the house; the page gives it no caption or credit, and the material photographed may repeat the Military Police handout already filed.
 details:
   agencies: [br-pm]
   agency_types: [gendarmerie]
@@ -74,6 +79,11 @@ sources:
     publisher: Rádio Itatiaia
     date: 2026-11-05
     language: pt
+  - title: Homem de 53 anos é preso com 14 barras de maconha na zona rural de Caratinga
+    url: https://asnoticiasonline.com.br/2026/11/06/homem-de-53-anos-e-preso-com-14-barras-de-maconha-na-zona-rural-de-caratinga/
+    publisher: As Notícias Online
+    date: 2026-11-06
+    language: pt
 open_questions:
   - No weight was published for the 14 bars of cannabis, so no kilograms can be recorded.
   - The suspected owner of the material was not found, and no name or age was published for him.
@@ -90,15 +100,18 @@ open_questions:
   - Itatiaia places Caratinga in the Vale do Rio Doce, while O Tempo, cited in this report, places it in the Zona da Mata; the location match rests on the identical Córrego dos Macacos rural-zone address.
   - The 62nd Battalion is named as the unit that acted, but no weight for the 14 bars, charge or court step is added by this account.
   - The lead picture is credited to PMMG and captioned with this seizure, but its address is the outlet's generic article-image file name, so it may duplicate the Military Police handout already filed for this report.
+  - The As Notícias Online page gives no weight for the 14 bars and no charge or custody decision for the resident.
+  - The two pictures on the page carry no caption, credit or alt text, so it is not established that they show this seizure or the seized materials; they may duplicate the Military Police handout already filed from g1 and Itatiaia.
+  - The As Notícias Online text is closest to the Itatiaia account, so it may be a reprint of the same police-derived material rather than independent reporting.
 ---
 
 Military Police officers arrested a 53-year-old man at a house in Córrego dos
 Macacos, in the rural zone of Caratinga in eastern Minas Gerais, on the morning
 of Wednesday 4 November 2026. [@1,3,4,5,6] The officers went to the property after
 receiving information that it was being used by other people to store and
-prepare drugs. [@1,4,5] The resident told the officers that one of the people who
+prepare drugs. [@1,4,5,7] The resident told the officers that one of the people who
 frequented the house had asked his permission to keep cannabis there, and then
-let them in to search. [@1,3,4,5,6] The Military Police said only that its officers
+let them in to search. [@1,3,4,5,6,7] The Military Police said only that its officers
 seized drugs at the Córrego dos Macacos property; the Diário de Caratinga
 article on the case carries no count of the material. [@2]
 
@@ -106,10 +119,12 @@ In an elevated compartment that was hard to reach, the officers found a sack
 holding 14 bars of cannabis, a precision scale, a roll of plastic film and a
 knife. [@1,3,4,5,6] According to the police, the resident said the drug belonged to
 another man. [@1,4,5,6] Officers searched for the suspected owner during the operation
-but did not find him. [@1,3,4,5,6]
+but did not find him. [@1,3,4,5,6,7]
 
 The resident was arrested and taken to the Civil Police station with the seized
-material. [@1,4,5,6] The Military Police did not say whether the resident was involved
+material. [@1,4,5,6,7] The Military Police did not say whether the resident was involved
 in storing or preparing the drug. [@1]
 
 The Military Police of Minas Gerais, 62nd Battalion, carried out the action in Caratinga's Vale do Rio Doce region. [@6]
+
+The Civil Police was to handle the follow-up to the occurrence. [@7]
