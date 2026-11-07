@@ -143,6 +143,11 @@ sources:
     publisher: Vietnam.vn (Báo Tiền Phong)
     date: 2026-11-06
     language: ja
+  - title: Die Behörden beschlagnahmten am Flughafen Noi Bai über 25 kg Marihuana und hunderte von Tabakerhitzungssticks.
+    url: https://www.vietnam.vn/de/bat-giu-hon-25-kg-can-sa-hang-tram-cay-thuoc-la-nung-nong-o-noi-bai
+    publisher: Vietnam.vn (Báo Tiền Phong)
+    date: 2026-11-06
+    language: de
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -199,6 +204,8 @@ open_questions:
   - This account rounds the cannabis weight to more than 25 kg rather than the 25.4 kg given in the authority's own statement; the existing figure is retained.
   - The page gives no laboratory result confirming the dried herb was cannabis and no national currency or euro figure for a payment, so the earlier account of a EUR 4,000 payment from Cambodia is neither confirmed nor contradicted here.
   - The page's only photo shows the heated-tobacco seizure, not the cannabis packages, so no media entry is added from it.
+  - This German page describes the packages as yellow and white plastic, while the existing Vietnamese accounts describe them simply as nylon; neither says whether that means two colours or one package of each.
+  - The page gives no name for the Spanish passenger and no account of the reported €4,000 payment from Cambodia, so it neither confirms nor contradicts those details.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
@@ -216,11 +223,11 @@ carry the goods from Cambodia, through Vietnam, to France. [@1]
 
 Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
-investigation. [@1,2,3,5,6,7,10,14,15,16,17,18]
+investigation. [@1,2,3,5,6,7,10,14,15,16,17,18,19]
 
 The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,11,14,16,17]
 
-The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,11,13,14,16,17] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
+The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,11,13,14,16,17,19] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
 
 The Spanish passenger's checked bag was flagged during screening, and the inspection was carried out jointly by airport customs, customs supervision and anti-smuggling units, airport police and the Hanoi PC04 drug unit. [@6,11,12]
 
@@ -231,3 +238,5 @@ The evening transit inspection on 25 October was carried out by customs officers
 The Customs Department announced the Noi Bai seizures on the morning of 6 November, and the same announcement reported more than 400 TEREA heated-tobacco sticks carried without declaration by passengers flagged in October. [@16,18] In October, customs officers flagged suspicious activity involving four passengers through operational measures, risk control and baggage X-ray image analysis at gates 6 and 7 of Terminal 2, the international passenger terminal. [@16]
 
 The page also says the cannabis was in the checked suitcase of a Spanish passenger and was transferred to the Hanoi City police drug crime investigation office. [@18]
+
+The page says the two packages were sealed in yellow and white plastic. [@19]
