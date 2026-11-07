@@ -66,6 +66,11 @@ sources:
     publisher: Policie České republiky
     date: 2026-11-06
     language: cs
+  - title: Běžná policejní kontrola odhalila u muže drogy i 170 tisíc korun. Je ve vazbě
+    url: https://hradecka.drbna.cz/krimi/905141-bezna-policejni-kontrola-odhalila-u-muze-drogy-i-170-tisic-korun-je-ve-vazbe.html
+    publisher: Hradecká Drbna
+    date: 2026-11-07
+    language: cs
 open_questions:
   - The articles give no separate date for the police check or the detention; 6 November 2026 is the publication date of both reports and is used as the incident date.
   - No weight, amount or street value was published for the marijuana or any other drug, so no cannabis quantity or valuation is recorded.
@@ -80,22 +85,24 @@ open_questions:
   - The statement publishes no cannabis weight and no separate count of the marijuana items, so the cannabis quantities in this case stay unrecorded.
   - No street value of the drugs was given; the 170,000 koruna was cash found on the man and is not a cannabis valuation.
   - The two police photographs show cash from the seizure rather than the cannabis itself.
+  - Drbna gives no separate date for the police check beyond early November; 7 November 2026 is its publication date.
+  - Drbna confirms that marijuana was among the substances but publishes no cannabis weight, item count or street value.
 ---
 
 A routine police patrol check in Hradec Králové in early November 2026 ended
 with the detention of a 23-year-old man carrying several kinds of drugs, a
-digital scale and cash above 170,000 koruna. [@1,3] The drugs found were cocaine,
+digital scale and cash above 170,000 koruna. [@1,3,4] The drugs found were cocaine,
 ketamine, MDMA and marijuana, along with dozens of tablets containing
-psychotropic substances. [@1,3]
+psychotropic substances. [@1,3,4]
 
 A subsequent expert examination confirmed that the man was holding part of the
 substances for further distribution. [@2,3] Královéhradecští criminal
 investigators charged him with the especially serious offence of unlawful
 production and other handling of narcotic and psychotropic substances and
-poisons under section 283 of the criminal code. [@1,3] The offence carries a
+poisons under section 283 of the criminal code. [@1,3,4] The offence carries a
 maximum of ten years in prison. [@1,3]
 
 The man had been convicted by courts repeatedly before, part of that record for
 drug crime, and was at the time of his detention in the probation period of a
 conditional release from prison, according to police spokesperson Martina
-Jandová. [@2] He is now prosecuted in custody. [@2,3]
+Jandová. [@2] He is now prosecuted in custody. [@2,3,4]
