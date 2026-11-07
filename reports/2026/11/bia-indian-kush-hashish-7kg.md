@@ -46,6 +46,11 @@ media:
     media_url: https://media.adaderanaenglish.lk/articles/251205/MediaFile_20261107_035518_033.jpg
     publisher: Ada Derana
     caption: Photo published by Ada Derana with the report captioned Indian national arrested at BIA with over 7kg of Kush and Hashish, accompanying the account of the BIA seizure.
+  - kind: photo
+    url: https://hirunews.lk/goldfmnews/498898/indian-businessman-arrested-at-katunayake-airport-with-rs-230-million-worth-of-kush-and-hashish
+    media_url: https://cdn.hirunews.lk/Data/News_Images/202611/1794024102_5415724_hirunews.jpg
+    publisher: Hiru News
+    caption: Photo published with Hiru News's account of the arrest, captioned only with the headline about the Indian businessman arrested with kush and hashish; no credit line is given.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 479917fe1772a1c27c5cba2452cf74b3
@@ -67,6 +72,10 @@ sources:
     url: https://www.newswire.lk/2026/11/07/indian-national-arrested-at-bia-with-over-rs-230-million-worth-of-kush-and-hashish/
     publisher: Newswire
     date: 2026-11-07
+  - title: Indian businessman arrested at Katunayake airport with Rs 230 million worth of Kush and Hashish
+    url: https://hirunews.lk/goldfmnews/498898/indian-businessman-arrested-at-katunayake-airport-with-rs-230-million-worth-of-kush-and-hashish
+    publisher: Gold FM News
+    date: 2026-11-07
 open_questions:
   - No result of the production before the Negombo Magistrate's Court or the terms of any detention order was reported.
   - The suspect is identified only by age, occupation and residence in Tamil Nadu; no name was published.
@@ -74,6 +83,8 @@ open_questions:
   - Hiru News puts the street value at about Rs 230 million, while the existing report uses Rs 231.42 million from Ada Derana; the difference is unexplained.
   - Hiru News describes the man as attempting to smuggle the drugs into the country, whereas the existing report and its sources describe an attempt to smuggle kush and hashish out of Sri Lanka on a flight from Kuala Lumpur.
   - Hiru News does not identify the customs unit that made the interception or give any court outcome.
+  - Hiru News says Customs officers at BIA made the arrest, while the report's other sources attribute it to the Airport Police Narcotics Bureau; the accounts agree on the arrest, weights and handover but differ on which unit stopped the man.
+  - Hiru News says the man was trying to smuggle the consignment into the country, while the report's sources describe an attempted outbound smuggling on a flight from Kuala Lumpur; the direction of the journey is unresolved.
 ---
 
 Officers of the Airport Police Narcotics Bureau arrested a foreign passenger at
@@ -95,6 +106,6 @@ investigations. [@1] The Morning reported the same arrest, weight, value and
 flight details, describing the man as a 37-year-old Indian businessman from
 Tamil Nadu who arrived from Kuala Lumpur on Batik Air flight OD-297. [@2]
 
-The street value of the seized contraband is estimated at approximately Rs. 230 million (Rs. 23 crore). [@3] The suspect and the seized narcotics have been handed over to the Airport Police Narcotics Bureau (PNB) for further investigation. [@3]
+The street value of the seized contraband is estimated at approximately Rs. 230 million (Rs. 23 crore). [@3,5] The suspect and the seized narcotics have been handed over to the Airport Police Narcotics Bureau (PNB) for further investigation. [@3,5]
 
 The suspect was stopped as he tried to leave the airport premises with the consignment, according to Newswire. [@4]
