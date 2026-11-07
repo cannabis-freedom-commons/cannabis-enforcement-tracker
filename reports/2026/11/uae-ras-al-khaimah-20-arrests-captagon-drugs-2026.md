@@ -86,6 +86,11 @@ sources:
     publisher: شفق نيوز
     date: 2026-11-06
     language: ar
+  - title: Iraq, UAE triệt phá đường dây buôn bán ma túy quốc tế
+    url: https://bnews.vn/iraq-uae-triet-pha-duong-day-buon-ban-ma-tuy-quoc-te/443492.html
+    publisher: Bnews.vn
+    date: 2026-11-07
+    language: vi
 open_questions:
   - No separate weight is published for the marijuana or hashish, so no cannabis quantity can be recorded; the more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
   - No figure is published for how the Captagon pills, other drugs or cannabis are split by weight.
@@ -104,16 +109,19 @@ open_questions:
   - Neither the Masrawy page nor the existing report gives a date for the interception or the arrests; 6 November 2026 is the announcement and publication date.
   - The page names no border crossing or border area in Ras Al Khaimah beyond the emirate, and reports no charges or court stage.
   - The page's feature image is captioned only with the headline and is not established to show this seizure, so no media entry is added.
+  - The Bnews article gives no date for the interception or the arrests; 7 November 2026 is its publication date and 6 November 2026 remains the announcement date used in the report.
+  - The Vietnamese account reproduces IraqiNews reporting and names the Iraqi Interior Ministry, Iraq's narcotics directorate, the UAE National Anti-Narcotics Agency and Ras Al Khaimah Police, with judicial coordination by the UAE Public Prosecution; it reports no charges or court stage.
+  - The page's only image is a generic illustration file, not established to show this seizure, so no media entry is added.
 ---
 
 Twenty defendants of Gulf, Arab, African and Asian nationalities face
-allegations of belonging to an international criminal network. [@2,5,7,9,10] The network
+allegations of belonging to an international criminal network. [@2,5,7,9,10,11] The network
 was allegedly trying to bring in 200,000 Captagon pills and more than 30
 kilograms of drugs through a border area of the emirate of Ras Al Khaimah for
-distribution inside the country. [@2,4,6,9]
+distribution inside the country. [@2,4,6,9,11]
 
 Alongside the Captagon pills, the haul included varied quantities of cocaine,
-crystal, marijuana, hashish and Spice, a synthetic drug. [@1,5,7,8,9] The operation
+crystal, marijuana, hashish and Spice, a synthetic drug. [@1,5,7,8,9,11] The operation
 began with intelligence exchanged between the UAE and Iraq that revealed a
 multinational network's plan to smuggle large quantities of drugs into the
 country. [@3,5,9] The authority worked with the Ras Al Khaimah Police General
