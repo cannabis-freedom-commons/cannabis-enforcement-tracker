@@ -47,6 +47,16 @@ sources:
     publisher: Index
     date: 2026-11-06
     language: hu
+  - title: Ruha helyett 2 kg fű a csomagban, 100 gramm kokó otthon
+    url: https://zsaruhirek.hu/bunugyek/kabitoszer/2026/11/06/ruh-zat-helyett-tobb-kilogramm-kabitoszert-rejtett-a-portugaliabol-erkezett-csomag/
+    publisher: Zsaruhírek
+    date: 2026-11-06
+    language: hu
+  - title: „Roupas”, azaz ruházat
+    url: https://www.police.hu/hu/hirek-es-informaciok/legfrissebb-hireink/bunugyek/roupas-azaz-ruhazat
+    publisher: Police.hu (Budapesti Rendőr-főkapitányság)
+    date: 2026-11-06
+    language: hu
 open_questions:
   - The marijuana weight is stated only as more than 2 kilograms, so figures record the stated lower bound of 2 kg.
   - The reported value of more than 15 million forints covers all seized drugs together, so it is kept in the text and omitted from cannabis value figures.
@@ -57,27 +67,39 @@ open_questions:
   - Only one accessible source was found after searching in Hungarian and English for the agency account and other coverage.
   - The page's listed image concerns an unrelated interest-rate story and shows nothing from this event, so no media is listed.
   - September and October seizures in Zugló and Nyírbátor mentioned in the same article are separate events left out of this report.
+  - The Zsaruhírek account describes the 25-year-old companion in the car as a Chinese man, while the Budapest Police Headquarters statement calls him a Vietnamese man, as does the Index report; the report keeps the police version.
+  - The reports give no total weight for the cocaine, tablets and pink powder beyond more than 100 grams of white powder, and no cannabis-specific value.
+media:
+  - kind: video
+    url: https://zsaruhirek.hu/bunugyek/kabitoszer/2026/11/06/ruh-zat-helyett-tobb-kilogramm-kabitoszert-rejtett-a-portugaliabol-erkezett-csomag/
+    media_url: https://www.youtube.com/watch?v=BV4i6PZ_mrc
+    publisher: PoliceHungary (Hungarian police)
+    caption: 'Hungarian police video „Roupas”, azaz ruházat, embedded in the Zsaruhírek article, showing the parcel and the seizure in the case. Video: PoliceHungary'
+  - kind: photo
+    url: https://zsaruhirek.hu/bunugyek/kabitoszer/2026/11/06/ruh-zat-helyett-tobb-kilogramm-kabitoszert-rejtett-a-portugaliabol-erkezett-csomag/
+    media_url: https://zsaruhirek.hu/wp-content/uploads/2026/11/lead2_24.png.webp
+    publisher: Zsaruhírek
+    caption: 'Police handout picture used to illustrate the Budapest parcel case. Photo: Budapesti Rendőr-főkapitányság'
 ---
 
 Budapest police identified the recipient of a parcel sent from Portugal to
-Hungary as a 34-year-old Chinese man. [@1] On the morning of 2 November officers
-caught him in his car in Budapest's District X. [@1] A 25-year-old Vietnamese
+Hungary as a 34-year-old Chinese man. [@1,2] On the morning of 2 November officers
+caught him in his car in Budapest's District X. [@1,2] A 25-year-old Vietnamese
 man was also in the car, and a court had already been seeking him over an
-earlier offence. [@1] Investigators detained both men. [@1] Rapid drug tests on
+earlier offence. [@1,3] Investigators detained both men. [@1,3] Rapid drug tests on
 the two men were both positive, indicating cocaine in one of them and
-amphetamine in the other. [@1] Both men were questioned on suspicion of the
+amphetamine in the other. [@1,2] Both men were questioned on suspicion of the
 felony of drug trafficking and then taken into custody, and the court ordered
-their detention at the police's request. [@1]
+their detention at the police's request. [@1,2]
 
 The parcel had been stopped at a Budapest control on 28 October after being
-declared only with the Portuguese word “roupas”, meaning clothing. [@1] Inside,
+declared only with the Portuguese word “roupas”, meaning clothing. [@1,2] Inside,
 the authorities found more than 2 kilograms of green plant material that rapid
-testing and a preliminary expert examination identified as marijuana. [@1]
+testing and a preliminary expert examination identified as marijuana. [@1,3]
 Police then searched the Chinese man's car and flat, seizing more than 100 grams
 of white powder that rapid testing indicated was cocaine, along with tablets and
-pink powder whose exact composition the police statement did not report. [@1]
+pink powder whose exact composition the police statement did not report. [@1,2]
 Police estimated the total black-market value of all the seized drugs at more
-than 15 million forints. [@1]
+than 15 million forints. [@1,2]
 
-The cannabis travelled by parcel post from Portugal to Hungary. [@1]
-
+The cannabis travelled by parcel post from Portugal to Hungary. [@1,3]
