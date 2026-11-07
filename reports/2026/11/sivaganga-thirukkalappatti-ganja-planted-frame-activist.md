@@ -45,6 +45,11 @@ sources:
     publisher: Dinamalar
     date: 2026-11-06
     language: ta
+  - title: மதுக்கடைக்கு எதிராக போராடியவரை கஞ்சா வழக்கில் சிக்க வைக்க முயற்சி.. அறப்போர் இயக்கம் கண்டனம்
+    url: https://tamil.oneindia.com/news/chennai/attempt-to-frame-a-protester-against-a-tasmac-shop-in-a-drug-related-case-arappor-iyakkam-condemns-843655.html
+    publisher: Tamil Oneindia
+    date: 2026-11-07
+    language: ta
 open_questions:
   - The Hindu gives no separate date for the placement of the packet or the five arrests; 5 November 2026 is used, taken from The Times of India, which says the packet was planted on 5 November, and from Dinamalar, which dates it to 5 November.
   - No weight, quantity or value of the ganja was published, so no cannabis weight is recorded.
@@ -52,6 +57,12 @@ open_questions:
   - Dinamalar named Rajapandi and Asai as the two men who placed the packet; The Hindu names only Rajapandi among those arrested, and The Times of India attributes the planting to a person operating the attached bar.
   - No charges, custody details or court outcome were reported, and the outcome of the departmental inquiry and of the criminal case is not yet known.
   - The Hindu page carries only a site-wide placeholder image and no photo of this event, so no media entry is included.
+  - No weight or quantity of the ganja in the planted packet is given, so no cannabis figure can be recorded.
+  - The article gives no date of its own for the incident; 5 November 2026 is used, the date the packet was planted and the five arrests were made as reported by other outlets.
+  - The article says bar employees and police officers acted together, but it gives no names, ranks or counts for the officers.
+  - Arappor Iyakkam's release asks for the officers to be charged with ganja trafficking; no such case, charge or court step is reported.
+  - No police response is given to the bribery allegation against the officer.
+  - The Oneindia article 'சிவகங்கையில் டாஸ்மாக் பாருக்கு எதிராக போராடியவரை சிக்க வைக்க மாஸ்டர் பிளான்.. சிக்கி கொண்ட போலீஸ்?' (oneindia 843647, 7 November 2026) appears to cover the same incident but could not be opened in full and is not cited.
 ---
 
 Five people were arrested near Tiruppattur for allegedly planting a packet of
@@ -59,7 +70,7 @@ ganja at the grocery shop of Rajkumar, an activist who had campaigned against a
 local liquor outlet, to frame him. [@1] According to CCTV footage reviewed by
 Rajkumar, two men posed as customers and dropped the packet at his shop, and two
 plainclothes prohibition officers arrived in a private vehicle about five
-minutes later. [@1]
+minutes later. [@1,4]
 
 Rajkumar of Thirukkalappatti, who runs a grocery and e-service shop, led
 protests against a Tasmac liquor outlet and its attached private bar that
@@ -87,3 +98,4 @@ promptly to information. [@1] A senior police official told The Times of India
 that a case had been registered, that five people had been arrested and that
 further investigation was under way, and denied that police were involved. [@2]
 
+Arappor Iyakkam, an anti-corruption group that filed the statement, demanded that the police officers responsible be immediately charged with ganja trafficking and jailed. [@4] The group said Rajkumar escaped only because the shop had CCTV, and that otherwise he would have spent several years in prison. [@4] The group said the case raises the question of how many prisoners are in genuine ganja cases and how many have been pushed into false ones like this. [@4] Arappor Iyakkam said that transferring or suspending the officer would signal that police ganja trafficking is routine, and demanded an inquiry into a bribe the officer took from the bar operator. [@4]
