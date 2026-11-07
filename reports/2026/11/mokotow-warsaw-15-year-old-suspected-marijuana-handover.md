@@ -39,6 +39,11 @@ sources:
     publisher: KRP II – Mokotów, Ursynów, Wilanów
     date: 2026-11-06
     language: pl
+  - title: 15-latek po zapaleniu marihuany zaniepokoił się swoim samopoczuciem. Sam zadzwonił na policję
+    url: https://miejskireporter.pl/15-latek-po-zapaleniu-marihuany-zaniepokoil-sie-swoim-samopoczuciem-sam-zadzwonil-na-policje/
+    publisher: Miejski Reporter - wydarzenia Warszawa
+    date: 2026-11-07
+    language: pl
 open_questions:
   - No weight or quantity for the handed-over dried material was published, so no cannabis quantity is recorded.
   - No separate date for the intervention was given; 6 November 2026 is the publication date of both the police statement and the WP Info report and is used as the incident date.
@@ -46,10 +51,12 @@ open_questions:
   - The exact spot of the intervention within the Mokotów, Ursynów and Wilanów command area was not specified; Mokotów, Warsaw is used from the handling command and the local filing.
   - No arrest, charge or family-court outcome was reported beyond the referral; the case was still pending when published.
   - The Mokotów police page lead is a stock interior shot of a Policja patrol car, not this seizure, so no media entry is included.
+  - The Miejski Reporter account gives no separate date for the intervention; 6 November 2026, used by the earlier report, is the publication date of the police statement, while this account was published on 7 November 2026.
+  - The account gives no weight for the dried material and only a preliminary identification as possible marijuana, with no laboratory confirmation.
 ---
 
 A 15-year-old boy felt unwell after smoking marijuana and called for help
-himself. [@1] Police officers, including local community officers known as
+himself. [@1,3] Police officers, including local community officers known as
 dzielnicowi, quickly arrived at the scene and secured the boy's safety while
 calling a medical rescue team and taking steps over the revealed substance. [@2]
 Paramedics examined the boy on the spot and found no need for hospitalisation.
@@ -59,11 +66,12 @@ further proceedings. [@2]
 
 Police press officer Marta Haberska said officers ensured the 15-year-old's
 safety, called rescuers, secured the handed-over dried material and then
-notified his parents. [@1] Officers drew up the necessary documentation and
+notified his parents. [@1,3] Officers drew up the necessary documentation and
 passed the minor to officers who handle juvenile cases. [@1] The collected
-materials were sent to the family court, which will decide the case. [@1] The
+materials were sent to the family court, which will decide the case. [@1,3] The
 intervention was handled within the Warsaw police district II area covering
-Mokotów, Ursynów and Wilanów. [@2] Police described the response as an example
+Mokotów, Ursynów and Wilanów. [@2,3] Police described the response as an example
 of rapid reaction to reports and careful treatment of a person in need of help.
 [@2]
 
+This account states that the boy did not require hospitalisation despite the dried plant material being secured during the intervention. [@3]
