@@ -76,6 +76,11 @@ sources:
     publisher: Βεργίνα Τηλεόραση
     date: 2026-11-05
     language: el
+  - title: Δώδεκα συλλήψεις και κατάσχεση δύο κιλών κάνναβης σε αστυνομική επιχείρηση στον Πύργο - ertnews.gr
+    url: https://www.ertnews.gr/perifereia/dodeka-syllipseis-kai-katasxesi-dyo-kilon-kannavis-se-astynomiki-epixeirisi-ston-pyrgo/
+    publisher: ertnews.gr
+    date: 2026-11-07
+    language: el
 open_questions:
   - The operation is described only as taking place on Thursday morning; 5 November 2026 is used as the incident date from the same-day publications.
   - No names, ages or nationalities of the 12 detained people were published.
@@ -88,21 +93,23 @@ open_questions:
   - The Patras Events page image carries no caption or credit establishing that it shows this seizure, so no media entry is added.
   - This account says slightly more than 2.2 kg of cannabis, while the report and its other sources give 2.24 kg; the report keeps 2.24 kg.
   - It describes the two cannabis plants as dried (αποξηραμένα), where the report calls them harvested seedlings; the plant count of two is unchanged.
+  - This ERT account was published on 7 November 2026 and gives no separate operation date, while the existing report dates the morning sweep to 5 November 2026 from same-day publications.
+  - This ERT account gives the cannabis as 2.2 kg, while the existing report keeps the official 2.24 kg figure from its other sources.
 ---
 
 Police arrested 12 people in Pyrgos, Elis on the morning of 5 November 2026
-during a targeted crime-prevention operation. [@1,4,5,6,7] Of the 12 detained, one man
+during a targeted crime-prevention operation. [@1,4,5,6,7,8] Of the 12 detained, one man
 faces violations of drug legislation. [@1,5,6,7] Five other detainees were held for
-electricity theft and six for health-regulation violations. [@1,5,6,7] All those
+electricity theft and six for health-regulation violations. [@1,5,6,7,8] All those
 arrested were expected to be led before the Ilia Court of First Instance
 prosecutor for the prescribed procedure. [@1,4,5,6,7]
 
 Officers found 2 kilos and 240 grams of cannabis and two harvested cannabis
-seedlings in the drug suspect's possession. [@1,4,5,6,7] A second account describes the
+seedlings in the drug suspect's possession. [@1,4,5,6,7,8] A second account describes the
 same drug case as a man arrested for possession after officers seized 2 kilos
 and 240 grams of cannabis and two harvested seedlings. [@3] Officers checked 85
-people and 37 vehicles and searched seven houses. [@1,5,6,7] Officers also brought 15
-people to the competent police services for further checks. [@1,4,6,7] Officers also
+people and 37 vehicles and searched seven houses. [@1,5,6,7,8] Officers also brought 15
+people to the competent police services for further checks. [@1,4,6,7,8] Officers also
 recorded 12 violations of the Highway Code during the same operation. [@1,4,6,7]
 
 The operation was planned by the Elis Police Directorate and carried out with a
