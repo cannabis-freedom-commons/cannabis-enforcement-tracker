@@ -50,6 +50,7 @@ open_questions:
   - The Manila Times gives the haul as P108.83 million in its opening paragraph and P108.8 million later; the report keeps the ₱108.8 million figure.
   - The same article reports a Baguio City buy-bust arrest over shabu; that is a separate event and is not counted here.
   - The page’s social image has no caption in the article text, so it was not added as a photo of the eradication.
+  - The Daily Tribune lead image shows a Loccong banner dated 19 October 2023, so it was not used as a photo of this 2026 operation.
 sources:
   - title: Police destroy P108.8M worth of marijuana in Kalinga
     url: https://tribune.net.ph/2026/10/29/police-destroy-p1088m-worth-of-marijuana-in-kalinga
@@ -77,12 +78,9 @@ sources:
 media:
   - kind: photo
     url: https://psbalita.com/php108-8m-halaga-ng-marijuana-plants-sa-tinglayan-binunot-at-sinunog-ng-kalinga-ppo/
+    media_url: https://psbalita.com/wp-content/uploads/2026/10/viber_image_2026-10-29_10-03-45-621.jpg
     publisher: PS Balita (via Kalinga PPO)
-    caption: Police at one of the Loccong plantation sites during the 27 October eradication.
-  - kind: photo
-    url: https://tribune.net.ph/2026/10/29/police-destroy-p1088m-worth-of-marijuana-in-kalinga
-    publisher: Daily Tribune (courtesy of Kalinga Police)
-    caption: Uprooted marijuana plants during the Loccong operation.
+    caption: "Police with an operation banner at a Loccong plantation site during the 26-27 October eradication. Photo: Kalinga PPO via PS Balita"
   - kind: photo
     url: https://newsinfo.inquirer.net/2333521/cops-destroy-p108-8-m-marijuana-plants-in-tinglayan-kalinga
     media_url: https://newsinfo.inquirer.net/files/2026/10/kalinga-marijuana-31oct2026.jpg.avif

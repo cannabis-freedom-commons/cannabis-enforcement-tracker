@@ -21,23 +21,29 @@ figures:
 details:
   activity: [trafficking]
   agency_types: [police]
+  case_stage: investigation
   products: [{product: hashish, kg: 3.088}, {product: oil}]
-  setting: [home, mail]
+  setting: [home, street]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [tashkent, online-store, hashish-oil, sss]
 media:
   - kind: photo
     url: https://zamin.uz/en/society/225738-rapid-operation-online-drug-store-employee-apprehended-with-3-kg-of-narcotics-video.html
+    media_url: https://zamin.uz/uploads/posts/2026-10/828431f689_2026-10-28-181951.webp
     publisher: Zamin
-    caption: "Still from operational footage of the detention, faces blurred (Zamin)."
+    caption: "Still from operational footage of the detention, faces blurred. Photo: Zamin"
 open_questions:
   - The suppliers, the online store's organizers and the money trail have not been identified.
+  - The Gapim page image is an AI-labelled heroin display unrelated to this hashish-oil arrest, so it is not listed as media.
 sources:
   - title: "Rapid operation: Online drug store employee apprehended with 3 kg of narcotics (video)"
     url: https://zamin.uz/en/society/225738-rapid-operation-online-drug-store-employee-apprehended-with-3-kg-of-narcotics-video.html

@@ -17,18 +17,23 @@ summary: >-
   exploitation.
 figures:
   kg_seized: 3000
+  plants_seized: 10000
 details:
   activity: [cultivation]
   agency_types: [police, prosecutor]
   case_stage: investigation
+  environment: [indoor]
   products: [{product: flower, kg: 3000}, {product: plants}]
   setting: [building]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.plants_seized: [1, 2]
 status: verified
 created_by_model: spacexai/grok-4.7#medium
 tags: [ottana, nuoro, labour]
@@ -49,21 +54,25 @@ sources:
     language: it
 media:
   - kind: photo
-    url: https://immagini.unionesarda.it/version/c:ODcyNzIxYzItMTgxNi00:ZjdkMzQ1MzUtNDQzYy00/image.webp?f=16:9
+    url: https://www.unionesarda.it/news-sardegna/nuoro-provincia/ottana-operai-segregati-nel-capannone-a-lavorare-tonnellate-di-marijuana-5-denunce-d4jhil3d
+    media_url: https://immagini.unionesarda.it/version/c:ODcyNzIxYzItMTgxNi00:ZjdkMzQ1MzUtNDQzYy00/image.webp?f=16:9
     publisher: L'Unione Sarda
-    caption: A composite of the State Police photographs of the shed, showing plants hung to dry, trimmed cannabis in a box and crate, and stacked cardboard boxes.
+    caption: "Composite of State Police photos of the shed: plants hung to dry, trimmed cannabis in a box and crate, and stacked cardboard boxes. Photo: L'Unione Sarda"
   - kind: photo
-    url: https://www.cronachenuoresi.it/wp-content/uploads/2026/10/Una-parte-della-droga-sequestrata.jpg
+    url: https://www.cronachenuoresi.it/2026/10/27/sequestro-da-record-di-droga-tre-tonnellate-di-marijuana-e-lavoratori-segregati-nel-capannone/
+    media_url: https://www.cronachenuoresi.it/wp-content/uploads/2026/10/Una-parte-della-droga-sequestrata.jpg
     publisher: Cronache Nuoresi
-    caption: Cannabis plants hung to dry inside the shed. State Police photo, published by Cronache Nuoresi.
+    caption: "Cannabis plants hung to dry inside the shed. State Police photo via Cronache Nuoresi"
   - kind: photo
-    url: https://www.cronachenuoresi.it/wp-content/uploads/2026/10/Una-parte-della-droga-sequestrata-.jpg
+    url: https://www.cronachenuoresi.it/2026/10/27/sequestro-da-record-di-droga-tre-tonnellate-di-marijuana-e-lavoratori-segregati-nel-capannone/
+    media_url: https://www.cronachenuoresi.it/wp-content/uploads/2026/10/Una-parte-della-droga-sequestrata-.jpg
     publisher: Cronache Nuoresi
-    caption: Cardboard boxes stacked in the shed, with plants still hanging further inside. State Police photo, published by Cronache Nuoresi.
+    caption: "Cardboard boxes stacked in the shed, with plants still hanging further inside. State Police photo via Cronache Nuoresi"
   - kind: photo
-    url: https://www.cronachenuoresi.it/wp-content/uploads/2026/10/Una-parte-della-droga-sequestrata.-.jpg
+    url: https://www.cronachenuoresi.it/2026/10/27/sequestro-da-record-di-droga-tre-tonnellate-di-marijuana-e-lavoratori-segregati-nel-capannone/
+    media_url: https://www.cronachenuoresi.it/wp-content/uploads/2026/10/Una-parte-della-droga-sequestrata.-.jpg
     publisher: Cronache Nuoresi
-    caption: Trimmed cannabis in a crate and an open box inside the shed. State Police photo, published by Cronache Nuoresi.
+    caption: "Trimmed cannabis in a crate and an open box inside the shed. State Police photo via Cronache Nuoresi"
 ---
 
 Officers of the Ottana police station, working under the Nuoro police chief,
