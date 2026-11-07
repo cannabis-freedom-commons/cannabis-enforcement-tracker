@@ -86,6 +86,11 @@ sources:
     publisher: Andhrajyothy
     date: 2026-11-08
     language: te
+  - title: రెండుచోట్ల 170 కిలోల గంజాయి స్వాధీనం | Telangana Ganja Seizure 170 Kg Cannabis Worth Rs 80 Lakh Seized in Suryapet and Ghatkesar
+    url: https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-ganja-seizure-170-kg-cannabis-worth-rs-80-lakh-seized-in-suryapet-and-ghatkesar-1574431.html
+    publisher: Andhrajyothy
+    date: 2026-11-08
+    language: te
 open_questions:
   - Only one account of the check could be opened; no police statement or second outlet reporting this same seizure was found.
   - The 60 kilograms is given as a round figure for 60 packets, with no exact weighed total.
@@ -110,6 +115,7 @@ open_questions:
   - The subheading says 60 lakh worth of goods seized while the body says Rs 30 lakh for the 60 kg; the existing Rs 30 lakh figure is unchanged.
   - The Andhrajyothy account calls the Odisha supplier Purnachandra Mahapatra alias Shiva, while the existing report names him as alias Happy.
   - The page lists one photo whose caption matches the seizure, but its direct image address is under an August 2026 media path, so it is not listed as event media because it cannot be confirmed to show this check.
+  - The roundup gives a combined value of over Rs 80 lakh for both seizures without a separate breakdown, so no separate value is added to the Ghatkesar report.
 ---
 
 Police in the LB Nagar zone of Hyderabad arrested two men and seized 60
@@ -117,7 +123,7 @@ kilograms of ganja from a car near a spice (masala) company on the edge of
 Annojiguda village in Ghatkesar mandal on 7 November 2026. [@1,2,5] Officers from
 the Special Operations Team (SOT) of the LB Nagar zone and the Pocharam IT
 Corridor police station stopped the Maruti Suzuki SX4 at about 11.30 am and
-found 60 packets of ganja hidden behind the back seat. [@1,4,6] Police said the
+found 60 packets of ganja hidden behind the back seat. [@1,4,6,7] Police said the
 ganja was being carried from Odisha through Hyderabad to Mumbai and was worth
 about 3 million rupees. [@1,4,5,6]
 
@@ -128,7 +134,7 @@ Mahapatra, alias Happy, to supply to Yasmin Chand Sayyad, alias Chand Bhai, who
 runs a Dharavi, Mumbai, shop; both were still at large. [@1,4] Police said the
 pair planned to buy the ganja at about 7,000 rupees a kilogram and sell it at
 15,000 rupees a kilogram, and that they had taken consignments from the same
-supplier twice before. [@1,6] The two suspects had earlier NDPS Act cases
+supplier twice before. [@1,6,7] The two suspects had earlier NDPS Act cases
 registered against them, five for the main suspect and four for the other, and
 the main suspect had twice been detained under the Preventive Detention (PD)
 Act. [@1,6]
