@@ -80,6 +80,11 @@ sources:
     publisher: Republika.rs
     date: 2026-11-07
     language: sr
+  - title: 'Akcija MUP-a u Zrenjaninu: Otkrivena laboratorija marihuane, među uhapšenima i žandarm'
+    url: https://objektiv.rs/vest/1767752/akcija-mup-a-u-zrenjaninu-otkrivena-laboratorija-marihuane-medju-uhapsenima-i-zandarm/
+    publisher: Objektiv
+    date: 2026-11-07
+    language: sr
 open_questions:
   - No date is given for the search or the arrests; 7 November 2026 is the date of the police statement and of publication, and is used as the incident date.
   - The material was described as plants resembling Indian hemp and dried material suspected to be marijuana; no laboratory confirmation was reported.
@@ -89,17 +94,18 @@ open_questions:
   - Telegraf, Blic and the submitted portal all reproduce the same Zrenjanin police statement, so they are not independent reporting; the Interior Ministry's own page could not be opened for this report.
   - The submitted page shows one handout photograph, but no caption confirms which of the searched premises it depicts.
   - The Republika page presents the story under the headline about the Gendarmerie member and lists a gallery that includes unrelated police stock photographs and links to other cases.
+  - Objektiv credits the story to Tanjug and reproduces the same Police Administration Zrenjanin statement already cited in the report, so it is not independent reporting of the arrest.
 ---
 
 Police in Zrenjanin, with the Higher Public Prosecutor's Office in the city,
 arrested three people on suspicion of unauthorised production and sale of
-narcotics. [@1,4] One of the three, identified as Ž. G., is a Gendarmerie member
+narcotics. [@1,4,6] One of the three, identified as Ž. G., is a Gendarmerie member
 and is 43, while the other two are 64 and 63. [@2,5]
 
 Officers searched the flat and other premises the suspects use and found an
 illegal indoor cannabis-growing laboratory. [@1,4] During the search police seized
 81 plants resembling Indian hemp, about 7.5 kilograms of dried plant material
-suspected to be marijuana and scales for weighing. [@1,5] The account came from a
+suspected to be marijuana and scales for weighing. [@1,5,6] The account came from a
 statement by the Police Administration for Zrenjanin, which also said officers
 seized equipment used to grow the drug. [@2,5]
 
@@ -107,6 +113,6 @@ Blic reported that the police searched a flat and that the three suspects were
 held for 48 hours before being taken to the prosecutor with a criminal
 complaint. [@3] By order of the Higher Public Prosecutor's Office the three were
 held for up to 48 hours and were to be brought to the prosecutor with a criminal
-complaint. [@1,5] The police announcement said the investigation should establish
+complaint. [@1,5,6] The police announcement said the investigation should establish
 the circumstances of the case and any role each suspect had in the
 cannabis-growing operation. [@2]
