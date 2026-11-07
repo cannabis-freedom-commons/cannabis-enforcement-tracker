@@ -68,6 +68,11 @@ sources:
     publisher: Réalités Magazine
     date: 2026-11-01
     language: fr
+  - title: 'سوسة: تفكيك شبكة مختصة في ترويج المخدرات وحجز 30 صفيحة من "الزطلة"'
+    url: https://www.alchourouk.com/article/%D8%B3%D9%88%D8%B3%D8%A9-%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D9%85%D8%AE%D8%AA%D8%B5%D8%A9-%D9%81%D9%8A-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%AD%D8%AC%D8%B2-30-%D8%B5%D9%81%D9%8A%D8%AD%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B2%D8%B7%D9%84%D8%A9
+    publisher: جريدة الشروق التونسية
+    date: 2026-11-01
+    language: ar
 open_questions:
   - No weight was given for the 30 slabs, so the seizure is recorded by slab count only.
   - The suspect is not named, and no charge or court outcome has been reported.
@@ -81,6 +86,8 @@ open_questions:
   - The submitted page says Cité Erriadh while the existing report says Hay Riad for the same Msaken movement corridor.
   - The submitted page says Sousse generally while the existing report places the operation in Sousse Sud.
   - The page's lead image file Sans-titre-1.jpg has only the generic alt Sans titre-1 and no caption establishing that it shows this seizure, so no media entry is added.
+  - Al Chourouk describes the 30 slabs only as zatla, without the weight, and names no suspect or charge.
+  - Al Chourouk does not say where in Sousse Sud the seizure took place, and gives no details of the car beyond saying it was prepared for rental.
 media:
   - kind: photo
     url: https://hakaekonline.com/%D8%B3%D9%88%D8%B3%D8%A9-%D8%AD%D8%AC%D8%B2-30-%D8%B5%D9%81%D9%8A%D8%AD%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%86%D8%A8-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A-%D9%88%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%85%D8%B9%D8%AF%D9%91%D8%A9-%D9%84%D9%84%D9%83%D8%B1%D8%A7%D8%A1/
@@ -90,7 +97,7 @@ media:
 ---
 
 Tuniscope reported that security units in Sousse Sud seized 30 slabs of cannabis
-on the evening of 31 October 2026. [@2,5,6,7] The substance was cannabis resin, known
+on the evening of 31 October 2026. [@2,5,6,7,8] The substance was cannabis resin, known
 in Tunisia as zatla, and the slabs were prepared for sale, Radio Marina said.
 [@3] A suspect was arrested, Radio Marina reported. [@3,6,7] The public prosecutor
 authorised his detention and legal measures against him. [@3,7] The operation
@@ -101,7 +108,7 @@ the judicial duty centre and the emergency squad, identified and stopped him.
 
 Officers also seized several mobile phones and a luxury car that Radio Marina
 said he used to move the drugs. [@3,7] Jawhara FM described the car as prepared
-for rental. [@1,6]
+for rental. [@1,6,8]
 
 The Sousse Sud judicial police brigade was still trying to identify and bring in
 the other suspected members of the network, Jawhara FM reported. [@1,4] Radio
