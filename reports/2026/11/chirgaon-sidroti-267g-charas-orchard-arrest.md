@@ -53,6 +53,11 @@ sources:
     publisher: Apple News
     date: 2026-11-07
     language: hi
+  - title: नेपाली युवक 267 ग्राम चरस के साथ गिरफ्तार
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/7/CRIME-CHARAS-SEIZED-ARREST.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives no separate date for the raid; 7 November 2026 is its publication date and is used as the incident date.
   - The weight is reported as approximate (about 267 grams), not an exact measured figure.
@@ -64,7 +69,7 @@ open_questions:
 ---
 
 Chirgaon police arrested a 30-year-old man of Nepali origin who worked as a
-caretaker in an orchard. [@1] The man was identified as Arjun (30), a resident
+caretaker in an orchard. [@1,4] The man was identified as Arjun (30), a resident
 of Rolpa, Nepal, who was employed as the caretaker of that orchard. [@1,2]
 
 The search and seizure took place at a shelter in an orchard at Sidroti near
