@@ -38,6 +38,11 @@ sources:
     publisher: Le Nouvelliste
     date: 2026-11-06
     language: fr
+  - title: 'Trafic de stupéfiants : deux autres arrestations et d’importantes saisies de drogues au Centre-du-Québec'
+    url: https://vingt55.ca/trafic-de-stupefiants-deux-autres-arrestations-et-dimportantes-saisies-de-drogues-au-centre-du-quebec/
+    publisher: Vingt55
+    date: 2026-11-06
+    language: fr
 open_questions:
   - Cannabis and hashish amounts are approximate ("près de"); the 20 kg figure is the sum of the stated 5 kg and 15 kg.
   - The cash amount is a minimum ("plus de 8 150 $").
@@ -56,17 +61,19 @@ open_questions:
   - Left out released, as its quotation was not found in Le Nouvelliste.
   - Left out sites, as its quotation was not found in Mon Drummond.
   - Left out vehicles, as its quotation was not found in Mon Drummond.
+  - Vingt55 gives the cocaine as more than 50 grams and the methamphetamine as more than 65 tablets, while the existing report says nearly 50 grams; the report's own text was kept.
+  - Vingt55 states that both men were released and are to appear in court later; the existing report records no court date or charges, and Vingt55 gives no date either.
+  - The Vingt55 illustration is an archive photo from August 2018 of Sûreté du Québec officers, not a picture of this operation.
 ---
 
 Sûreté du Québec organised-crime investigators, with the Mauricie mixed regional
 squad and the Abenaki police force, arrested two men in Odanak on Thursday 5
-November 2026 in an operation against drug trafficking. [@1] The searches
-targeted a residence and a vehicle on rue W8banaki. [@1]
+November 2026 in an operation against drug trafficking. [@1,2] The searches
+targeted a residence and a vehicle on rue W8banaki. [@1,2]
 
 Officers seized about 5 kilograms of cannabis and about 15 kilograms of hashish.
-[@1] The same operation also turned up nearly 50 grams of cocaine, 65
-methamphetamine tablets and more than C$8,150 in cash. [@1]
+[@1,2] The same operation also turned up nearly 50 grams of cocaine, 65
+methamphetamine tablets and more than C$8,150 in cash. [@1,2]
 
 The Sûreté du Québec said in a statement that the operation followed an
-investigation opened after information received from the public. [@1]
-
+investigation opened after information received from the public. [@1,2]
