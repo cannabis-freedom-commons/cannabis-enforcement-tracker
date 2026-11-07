@@ -19,6 +19,11 @@ media:
     media_url: https://www.gds.ro/wp-content/uploads/2026/11/sddefault-1.jpg
     publisher: Gazeta de Sud
     caption: 'Video report on the Gorj arrest, whose still shows a dark night scene with police lights; no direct video stream address was recoverable. Image: Gazeta de Sud'
+  - kind: photo
+    url: https://www.gorjonline.ro/foto-el-este-producatorul-si-comerciantul-de-canabis-de-la-tantareni-marfa-uscata-pusa-la-borcan/
+    media_url: https://www.gorjonline.ro/wp-content/uploads/2026/11/IMG_9349.jpeg
+    publisher: GorjOnline
+    caption: 'Photo published above the GorjOnline report on the Țânțăreni cannabis case; the caption names the man and describes dried cannabis stored in jars. Photo: GorjOnline'
 details:
   activity: [cultivation]
   agency_types: [gendarmerie, police, prosecutor]
@@ -88,6 +93,11 @@ sources:
     publisher: TVR Craiova
     date: 2026-11-06
     language: ro
+  - title: 'Foto: El este producătorul și comerciantul de canabis de la Țânțăreni! Marfa uscată, pusă la borcan - GorjOnline - Zi de zi informați!'
+    url: https://www.gorjonline.ro/foto-el-este-producatorul-si-comerciantul-de-canabis-de-la-tantareni-marfa-uscata-pusa-la-borcan/
+    publisher: GorjOnline
+    date: 2026-11-06
+    language: ro
 open_questions:
   - No figure for the number of plants grown or for the weight, area or value of the cannabis was published; only the nine jars seized are stated.
   - The cannabis found in the jars and bags was still being examined, so its weight and composition were not stated.
@@ -102,11 +112,14 @@ open_questions:
   - TV Sud gives no plant count, weight, area or value for the cannabis, and only repeats the nine glass jars of cannabis without a weight.
   - TV Sud's only image is captioned 'Screenshot' with no credit, and is not established to show this raid or seizure, so no media entry is added.
   - The Țânțăreni case is still described without a plant count, weight, area or value; the TVR Craiova account also gives no cannabis quantity for the nine jars.
+  - The GorjOnline photo caption names the arrested man, which conflicts with the report's statement that he was not named in either report; the earlier accounts still did not name him.
+  - The photo itself shows one unidentified man; its caption does not state whether he is the arrested man, an investigator or someone else pictured with the seized cannabis.
+  - GorjOnline gives no figure for the number of plants, the weight of the cannabis in the jars, the area or the value of the crop.
 ---
 
 A 34-year-old man from Gorj County was placed in 30 days' preventive arrest,
 investigated for trafficking in risk drugs over a cannabis grow in Țânțăreni.
-[@1,3,4,6,8,9,10] Țânțăreni is a commune in Gorj County, in the Oltenia region of Romania.
+[@1,3,4,6,8,9,10,11] Țânțăreni is a commune in Gorj County, in the Oltenia region of Romania.
 [@2] Officers of the Gorj organised-crime service and DIICOT prosecutors, the
 directorate that investigates organised crime, documented the man's activity.
 [@1,3,4,5]
@@ -129,3 +142,5 @@ his procedural rights through the criminal proceedings. [@1]
 The operation was supported by Gorj county police officers and by Gorj county gendarmes. [@9]
 
 The TVR Craiova report placed the Țânțăreni case, handled by DIICOT's Gorj office and the Gorj organised-crime police, alongside the Motru parcel seizure of the same week as part of one Gorj enforcement drive. [@10]
+
+The GorjOnline photo caption identifies the arrested man by name as Andi Vlăduțu. [@11]
