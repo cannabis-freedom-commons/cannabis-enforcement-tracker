@@ -60,22 +60,27 @@ sources:
     url: https://mendovoice.com/2026/11/robbery-victim-tracked-his-stolen-phone-to-hopland-sheriffs-office-says/
     publisher: The Mendocino Voice
     date: 2026-11-05
+  - title: Georgia Man Arrested in Ukiah on Allegations of Armed Robbery & Transportation of Cannabis for Sale
+    url: https://www.crimevoice.com/2026/11/06/georgia-man-arrested-in-ukiah-on-allegations-of-armed-robbery-transportation-of-cannabis-for-sale/
+    publisher: Crime Voice
+    date: 2026-11-06
 open_questions:
   - The weight is given as approximately 177 pounds repeatedly in the source release, not an exact measured amount, so 80.29 kg is a conversion of that figure.
   - The arrest at SFO and the 4 November 2026 robbery happened the same day; the report uses 4 November 2026 as the incident date.
   - No court step beyond booking and the arrest warrant has been reported, and no cannabis value or firearm recovery was reported.
   - SFGATE and The Mendocino Voice both draw on the same sheriff's office release, so they are not fully independent accounts.
   - The page photo of packaged cannabis carries no credit and is linked from the outlet page; it is attributed here only as the sheriff's office release image.
+  - The page headline photo is labelled as stock, so no event photo is linked.
 ---
 
 A Georgia man was arrested at San Francisco International Airport on 4 November
 2026 after the Mendocino County Sheriff's Office investigated an armed robbery
-that grew out of a cannabis sale south of Ukiah. [@1] Mendocino County sheriff's
+that grew out of a cannabis sale south of Ukiah. [@1,4] Mendocino County sheriff's
 deputies and the county's marijuana eradication team handled the case after a
 23-year-old Ukiah man reported being robbed near Oak Knoll Road and South State
 Street in Ukiah. [@1] The suspect was accused of firing at the 23-year-old
 during the robbery and taking his cell phone, wallet and keys before driving off
-in a rental vehicle with Idaho plates. [@2]
+in a rental vehicle with Idaho plates. [@2,4]
 
 With the victim tracking his stolen phone, officers stopped at a Hopland gas
 station where a California Department of Fish and Wildlife warden found a white
@@ -85,14 +90,13 @@ Highway 175 and Old Hopland area for hours with a drone and a helicopter,
 without finding him. [@1] In the abandoned white van at the gas station,
 investigators found about 177 pounds of processed and packaged cannabis, which
 they were told was evidence of the marijuana sale immediately before the
-robbery. [@1] The victim's phone and keys were recovered from the van and the
+robbery. [@1,4] The victim's phone and keys were recovered from the van and the
 suspect's wallet and identification were found there, identifying him as a
 36-year-old man from Hiram, Georgia. [@3]
 
 Police stopped him at the airport for an arrest warrant from Mendocino County
 and booked him in San Mateo County on first-degree robbery, possession of
 cannabis for sale and transportation of cannabis for sale, with bail set at
-$300,000. [@1] Sheriff's investigators said they had not recovered a firearm or
+$300,000. [@1,4] Sheriff's investigators said they had not recovered a firearm or
 identified other suspects and were still trying to establish where the cannabis
 came from. [@2]
-
