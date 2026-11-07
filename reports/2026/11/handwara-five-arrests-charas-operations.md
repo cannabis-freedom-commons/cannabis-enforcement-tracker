@@ -47,6 +47,10 @@ sources:
     url: https://www.greaterkashmir.com/kashmir/handwara-police-apprehend-five-drug-suspects-recover-contraband-12788683
     publisher: Greater Kashmir
     date: 2026-11-06
+  - title: 'Five Arrested in Three Separate Drug-Related Operations in North Kashmir: Police'
+    url: https://kashmirlife.net/five-arrested-in-three-separate-drug-related-operations-in-north-kashmir-police-459958/
+    publisher: Kashmir Life
+    date: 2026-11-06
 open_questions:
   - No weight, value or packaging detail was published for any of the three seizures, so no cannabis quantity is recorded.
   - The article gives a Handwara Nov 06 dateline and 6 November 2026 publication date with no separate time for the checks; 6 November 2026 is used as the incident date.
@@ -54,10 +58,13 @@ open_questions:
   - The Wanigam seizure is called a cannabis (Khashkhash)-like substance but was charged under Section 8/15 of the NDPS Act; the report retains the article's wording.
   - No ages, occupations, lawyers, bail decisions or convictions were reported; the cases stand at FIR registration with investigation implied.
   - Only one accessible source for this event was found; the police statement circulates on social pages but no second outlet account could be opened.
+  - The article gives no date for the three checks; 6 November 2026, its publication time, is the only date reported.
+  - Daily Excelsior and Kashmir Reader put the day's total at seven arrests across Handwara and Anantnag, adding two Anantnag cases that are recorded in separate reports and excluded here.
+  - The page's only picture is a 2015 file image of a prison, not of this event, so no photo is linked.
 ---
 
 Handwara police arrested five suspects in three separate checkpoint operations
-run by Kralgund police station and Chogul police post. [@1] At Khanu Babagund,
+run by Kralgund police station and Chogul police post. [@1,2] At Khanu Babagund,
 officers held Abid Hussain Mir of Tarathpora and Rouf Mushtaq Bhat of Khanu
 during naka checking. [@1] Charas-like substance and charas powder-like
 substance were recovered from the pair's possession. [@1] At Wanigam Crossing,
@@ -78,3 +85,4 @@ Handwara police restated their commitment to eradicating the drug menace and
 appealed for public cooperation to safeguard society, particularly the youth.
 [@1]
 
+Police registered FIR No. 275/2026 under Sections 8, 20 and 29 of the NDPS Act at Police Station Handwara over the Watyen seizure. [@2]
