@@ -55,6 +55,11 @@ sources:
     publisher: CasertaCE
     date: 2026-11-06
     language: it
+  - title: Hashish vicino alla Reggia, sequestrati 43 grammi dopo una segnalazione dei militari
+    url: https://casertaweb.com/notizie/hashish-vicino-alla-reggia-sequestrati-43-grammi-dopo-una-segnalazione-dei-militari/
+    publisher: Caserta Web
+    date: 2026-11-06
+    language: it
 open_questions:
   - The sources give no date for the incident; 6 November 2026 is the publication date of the Questura and of the local outlets and is used as the incident date.
   - The outlets attribute the 43 grams to the packages recovered after the two ran, but the accounts do not say whether the youth who was stopped carried any of the hashish.
@@ -68,19 +73,18 @@ open_questions:
 
 Soldiers of the Italian army's Campania grouping on patrol near the Reggia di
 Caserta, the former royal palace in the city, alerted police after seeing three
-young people moving around suspiciously. [@1] Two of the three ran off when the
+young people moving around suspiciously. [@1,4] Two of the three ran off when the
 soldiers approached, leaving behind several packages, and the third was stopped.
-[@1] The patrol was part of Strade Sicure, the standing Italian security
+[@1,4] The patrol was part of Strade Sicure, the standing Italian security
 operation in which troops back up police in city surveillance tasks. [@2]
 
 A squad from the Questura di Caserta, the city's police headquarters, collected
-the packages and took the youth to police offices for checks. [@1] The checks
+the packages and took the youth to police offices for checks. [@1,4] The checks
 confirmed the packages held hashish weighing 43 grams in total, and police
-seized it. [@1] Pupia.tv, which reproduced the same account, reported that the
+seized it. [@1,4] Pupia.tv, which reproduced the same account, reported that the
 packages left by the two who fled contained the whole 43 grams. [@2]
 
 CasertaCE carried the police statement under its own headline, adding that one
 of the three young people had ended up in trouble while the other two got away.
 [@3] No charge, restraint measure or court outcome for the youth was published,
 and no street value was given for the hashish. [@1]
-
