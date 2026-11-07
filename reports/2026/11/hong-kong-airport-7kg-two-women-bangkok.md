@@ -97,6 +97,11 @@ sources:
     publisher: 巴士的報 Bastillepost
     date: 2026-11-06
     language: zh
+  - title: 香港海關於機場偵破兩宗入境旅客販毒案件
+    url: https://www.flamingwheels.online/html/20261107/157638.htm
+    publisher: 風火時報
+    date: 2026-11-07
+    language: zh
 open_questions:
   - The weight is given as about 7 kg in total and about 3.5 kg for each woman; no exact figure was published.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
@@ -107,10 +112,13 @@ open_questions:
   - No charge, court date or update on the two women has been reported; Customs said only that investigations were ongoing.
   - This Chinese-language government press release is the Chinese counterpart of the English release already cited by the report; the English wording was not separately quoted here.
   - Bastillepost republishes the Government Information Services handout and adds no information beyond the recorded accounts; the drug remains described as suspected cannabis buds without laboratory confirmation.
+  - The submitted page is a republication of the Customs statement by 風火時報, not independent reporting; it carries no details beyond the agency's wording.
+  - The weights remain approximate (about 7 kg in total, about 3.5 kg each) and the material is described as suspected cannabis buds without laboratory confirmation.
+  - The Bastillepost account raises no new fact and reports no charge, court date or outcome for the two women.
 ---
 
 Hong Kong Customs arrested two mainland Chinese women, aged 50 and 54, at Hong
-Kong International Airport on 6 November 2026. [@1,4,5,6,7,8] Both women had arrived that
+Kong International Airport on 6 November 2026. [@1,4,5,6,7,8,9] Both women had arrived that
 day on flights from Bangkok, Thailand. [@1,4,5,7,8] During customs clearance, officers
 found about 3.5 kg of suspected cannabis buds in each woman's carry-on baggage,
 and arrested them on the spot. [@3,4,5,6,7,8] The two seizures together came to about 7 kg
