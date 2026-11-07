@@ -77,30 +77,36 @@ sources:
     publisher: Europa Press
     date: 2026-11-07
     language: es
+  - title: Detenidas seis personas por tráfico de drogas en Brunete y Villanueva de la Cañada (Madrid)
+    url: https://www.lavanguardia.com/local/madrid/20261107/11678677/detenidas-seis-personas-trafico-drogas-brunete-villanueva-canada-madrid.html
+    publisher: La Vanguardia
+    date: 2026-11-07
+    language: es
 open_questions:
   - The articles give no separate date for the searches; 7 November 2026 is the day the Guardia Civil announced them and the other outlets' publication date, so it is used as the incident date.
   - No street value was given for the hashish and marijuana, only the cash amount seized.
   - No ages, nationalities or further identifying details of the six detainees were published.
   - 'No court decision has been reported: the six were handed to the courts, and the case stage is treated as charged pending further reporting.'
   - The articles do not say whether any of the drugs had already been sold or where the hashish came from.
+  - La Vanguardia rounds the drug weights to 7.8 kg of hashish and 1.7 kg of marijuana; the report keeps the precise 7.843 kg and 1.771 kg figures from the earlier sources.
+  - The page's only photo is labelled as an archive photo of a Guardia Civil agent by a vehicle, so no event photo from this outlet is listed as media.
 ---
 
 The Guardia Civil, Spain's military-status national police force, said it had
 broken up a criminal organisation trafficking cannabis in Villanueva de la
-Cañada and Brunete, two towns in the Community of Madrid. [@1] Investigators
+Cañada and Brunete, two towns in the Community of Madrid. [@1,3] Investigators
 gathered indications of drug-trafficking activity in both municipalities before
 the operation, the force said in a statement issued on Saturday. [@1] Officers
 then searched two premises: the home in Brunete where the alleged leaders of the
 organisation lived, and a commercial unit (local) in Villanueva de la Cañada.
-[@1]
+[@1,3]
 
 Police seized 7.843 kg of hashish and 1.771 kg of marijuana, a combined 9.614
-kg, the force said. [@1] They also seized €721,000 in cash, two 12-gauge
-shotguns and five vehicles. [@1] The Europa Press news agency reported that the
+kg, the force said. [@1,3] They also seized €721,000 in cash, two 12-gauge
+shotguns and five vehicles. [@1,3] The Europa Press news agency reported that the
 five vehicles were allegedly linked to the criminal activity. [@2]
 
 Six people were detained as suspected perpetrators of offences against public
 health through drug trafficking, membership of a criminal organisation and money
-laundering. [@1] The six arrested people, whose names and ages were not
+laundering. [@1,3] The six arrested people, whose names and ages were not
 published, have been handed over to the courts. [@1]
-
