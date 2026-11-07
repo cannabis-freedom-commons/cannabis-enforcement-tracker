@@ -15,27 +15,31 @@ summary: >-
   driver and a companion fled. The forces valued the load at more than 1.5 million
   dollars and linked the route to Colombia and the coast.
 figures:
-  kg_seized: 432.45
-  value:
-    amount: 1500000
-    currency: USD
+    kg_seized: 500
+    value:
+        amount: 1500000
+        currency: USD
 created_by_model: cursor/composer-2.5
 details:
-  activity: [trafficking]
-  agency_types: [military]
-  case_stage: investigation
-  date_precision: exact
-  products: [{product: flower, kg: 432.45}]
-  setting: [vehicle]
+    activity: [trafficking]
+    agency_types: [military]
+    case_stage: investigation
+    date_precision: exact
+    products:
+        - {product: flower, kg: 500}
+    setting: [vehicle]
+    agencies: [Ejército Ecuatoriano (Ecuadorean Army)]
+    region: Pichincha
 data_sources:
-  details.activity: [1, 2]
-  details.agency_types: [1, 2]
-  details.case_stage: [1, 2]
-  details.date_precision: [1]
-  details.products: [1, 2]
-  details.setting: [1, 2]
-  figures.kg_seized: [1, 2]
-  figures.value: [1, 2]
+    details.activity: [5]
+    details.agency_types: [3]
+    details.case_stage: [1, 2]
+    details.date_precision: [1]
+    details.products: [3]
+    details.setting: [4]
+    figures.kg_seized: [3]
+    figures.value: [4]
+    details.agencies: [5]
 status: verified
 tags: [ascazubi, cayambe, pichincha, army, amanecer]
 open_questions:
@@ -43,6 +47,7 @@ open_questions:
   - Extra cites an operational weight of 432.45 kg; Expreso and other outlets rounded the same seizure to about 500 kg.
   - The army's 1.5 million dollar figure is its estimate of the loss to trafficking structures.
   - Sources say the load was presumed to be linked to Los Lobos; no court finding is reported.
+  - EFE and El Comercio give the weight only as approximately 500 kg; the 432.45 kg in the report comes from Extra's operational report, and the discrepancy remains unresolved.
 sources:
   - title: Ejército intercepta cargamento de marihuana valorado en 1,5 millones de dólares, en Cayambe
     url: https://www.extra.ec/noticia/quito/ejercito-intercepta-cargamento-marihuana-valorado-1-5-millones-dolares-cayambe-162153.html
@@ -54,6 +59,21 @@ sources:
     url: https://www.expreso.ec/quito/ejercito-decomisa-500-kilos-de-marihuana-en-pichincha-droga-esta-valorada-en-15-millones-294935.html
     archived: https://web.archive.org/web/20261018121926/https://www.expreso.ec/quito/ejercito-decomisa-500-kilos-de-marihuana-en-pichincha-droga-esta-valorada-en-15-millones-294935.html
     publisher: Expreso
+    date: 2026-09-07
+    language: es
+  - title: Fuerzas Armadas de Ecuador incautan media tonelada de marihuana vinculados a Los Lobos
+    url: https://www.abc.es/espana/fuerzas-armadas-ecuador-incautan-media-tonelada-marihuana-20260907210630-nt.html
+    publisher: Diario ABC / Agencia EFE
+    date: 2026-09-07
+    language: es
+  - title: Las Fuerzas Armadas de Ecuador incautan 500 kilos de marihuana vinculados a Los Lobos
+    url: https://www.swissinfo.ch/spa/las-fuerzas-armadas-de-ecuador-incautan-500-kilos-de-marihuana-vinculados-a-los-lobos/92018389
+    publisher: SWI swissinfo.ch / Agencia EFE
+    date: 2026-09-07
+    language: es
+  - title: Fuerzas Armadas decomisan 500 kilos de marihuana en Pichincha vinculados a Los Lobos
+    url: https://www.elcomercio.com/actualidad/seguridad/fuerzas-armadas-decomisan-kilos-marihuana-pichincha-vinculados-los-lobos/
+    publisher: El Comercio
     date: 2026-09-07
     language: es
 media:
@@ -69,6 +89,17 @@ media:
     media_url: https://imagenes.expreso.ec/files/og_thumbnail/uploads/2026/09/07/6a9f408db566b.jpeg
     publisher: Expreso (Ejército Ecuatoriano)
     caption: Army personnel empty a white pickup piled with brick-shaped packages in front of a building marked Honor.
+  - kind: photo
+    url: https://www.abc.es/espana/fuerzas-armadas-ecuador-incautan-media-tonelada-marihuana-20260907210630-nt.html
+    media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/07/VIDEO-fuerzas-armadas-ecuador-incautan.jpg
+    publisher: ABC (Agencia EFE)
+    caption: 'Still from the EFE video of the operation published with the ABC report, credited to the Ecuadorean Army''s X account and to statements by army commander general Jhon Miño. Photo: Ejército Ecuatoriano / EFE'
+  - kind: photo
+    url: https://www.elcomercio.com/actualidad/seguridad/fuerzas-armadas-decomisan-kilos-marihuana-pichincha-vinculados-los-lobos/
+    media_url: https://media.elcomercio.com/wp-content/uploads/2026/09/marihuana.jpg
+    publisher: El Comercio
+    caption: 'Page image captioned on the Army sharing the results of a military operation in Pichincha, published with the report on the Ascázubi seizure; no picture credit is given. Photo: Ejército Ecuatoriano via El Comercio'
+also: [arrest]
 ---
 
 In the early hours of Monday 7 September 2026, around 01:10, Ecuadorian army troops carried out
@@ -86,3 +117,5 @@ departments, entered Ecuador near La Pintada–Julio Andrade in Carchi, and been
 toward Santo Domingo, Babahoyo and Guayaquil. [@1,2] The army said the load was presumed to be
 linked to the organised crime group Los Lobos. [@1,2] The pickup and the packages were handed to
 the competent authorities. [@1,2]
+
+Las Fuerzas Armadas de Ecuador incautaron aproximadamente 500 kilogramos de marihuana presuntamente vinculados a la banda criminal Los Lobos durante una operación realizada en la provincia andina de Pichincha, cuya capital es Quito, según informó este lunes la institución. [@3] El operativo, ejecutado por el Ejército ecuatoriano, permitió localizar el cargamento de droga y retener una camioneta que presuntamente era utilizada para su traslado. [@4] Durante la intervención no hubo personas detenidas, según detallaron las Fuerzas Armadas. [@4] El operativo se realizó en Ascázubi, Pichincha, sector en el límite entre los cantones Cayambe y Quito. [@5] El conductor abandonó el vehículo y huyó del lugar cuando advirtió la presencia de los militares, por lo que el operativo no dejó personas detenidas. [@5] Los militares decomisaron la marihuana y retuvieron el vehículo que estaría relacionado con el traslado de la carga. [@5] Según el análisis militar, el cargamento presuntamente tendría su origen en los departamentos colombianos de Cauca y Nariño y habría ingresado a Ecuador por el sector fronterizo La Pintada–Julio Andrade. [@5] Las Fuerzas Armadas estimaron que la incautación supone una afectación económica de aproximadamente 1,5 millones de dólares, cifra que podría aumentar significativamente en mercados internacionales. [@4] Las evidencias, incluido el cargamento y el vehículo, quedaron a órdenes de las autoridades competentes. [@5]
