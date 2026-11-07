@@ -77,6 +77,11 @@ sources:
     publisher: Gorj Express
     date: 2026-11-06
     language: ro
+  - title: LOVITURĂ DATĂ TRAFICANȚILOR DE DROGURI
+    url: https://tvr-craiova.ro/stiri/lovitura-data-traficantilor-de-droguri/
+    publisher: TVR Craiova
+    date: 2026-11-06
+    language: ro
 open_questions:
   - Only one accessible account of this event could be opened; the DIICOT and IPJ Gorj statements were not reachable and searches found no second outlet reporting it.
   - No court decision on the two preventive-arrest requests had been reported when the article was published.
@@ -87,6 +92,9 @@ open_questions:
   - The preventive-arrest ruling is known from two local outlets quoting the county police; no full Agerpres article or DIICOT statement on the court decision could be opened.
   - No charges, indictment or trial date in the case have been reported.
   - No figure for the street value of the 7.8 kg was published.
+  - The submitted page reports two separate Gorj cases; it is recorded as a source for the Motru parcel report, and the Țânțăreni case is corroborated in the update to its own report.
+  - The page gives no weight, plant count, area or street value for the cannabis found in Țânțăreni.
+  - The page carries no photo of the Motru seizure or the Țânțăreni grow; its images are YouTube stills of other TVR Craiova bulletins.
 media:
   - kind: video
     url: https://www.gorjonline.ro/video-captura-de-78-kilograme-de-canabis-la-motru-un-barbat-a-fost-prins-cand-ridica-drogurile-ascunse-intr-un-colet-cu-alimente/
@@ -106,20 +114,20 @@ media:
 ---
 
 Officers of the Gorj organised-crime police and prosecutors of the DIICOT Gorj
-territorial office ran the operation that intercepted the parcel. [@1,2,3,4,5] A
+territorial office ran the operation that intercepted the parcel. [@1,2,3,4,5,8] A
 32-year-old man was caught in the act in Motru on 4 November 2026 as he was
 about to take possession of a parcel sent from abroad. [@1,2,3,5] DIICOT prosecutors
 ordered the 32-year-old detained on 4 November in a case concerning his alleged
 role in bringing risk drugs into the country and selling them. [@1,3,4,5]
 
 Officers found about 7.8 kilograms of cannabis inside the parcel, a quantity
-prosecutors said was meant for sale. [@1,2,3,5] The cannabis was divided into eight
+prosecutors said was meant for sale. [@1,2,3,5,8] The cannabis was divided into eight
 vacuum-sealed bags hidden among sweets, juices, canned food, oil bottles and
 cold cuts. [@1,2,3,5] The packing was meant to disguise the shipment so the parcel
 would look like an ordinary consignment of food sent from abroad. [@1]
 
 Investigators found that the plant material had allegedly been procured and sent
-by another man, aged 34, living in Spain. [@1,2,3,4,5] The 34-year-old is a relative of
+by another man, aged 34, living in Spain. [@1,2,3,4,5,8] The 34-year-old is a relative of
 the man caught in the act, according to the Gorj county police. [@1,3,4] The
 investigation concerns international trafficking in risk drugs and risk-drug
 trafficking, and investigators suspect the drugs brought into the country were
@@ -132,4 +140,4 @@ judgment. [@1]
 
 A 32-year-old man was caught in the act in Motru on 4 November 2026 as he allegedly took possession of a parcel containing 7.8 kg of cannabis meant for sale. [@4] The plant material was packed in eight vacuum-sealed bags and hidden among sweets, juices, canned food, oil bottles and cold cuts. [@4]
 
-A judge of the Gorj Tribunal ordered both men held in preventive arrest for 30 days, the 34-year-old in absentia, the county police said. [@6] The same ruling was reported the next day by a second Gorj outlet, which said the man sending the parcel from Spain was also placed under preventive arrest in absentia. [@7]
+A judge of the Gorj Tribunal ordered both men held in preventive arrest for 30 days, the 34-year-old in absentia, the county police said. [@6,8] The same ruling was reported the next day by a second Gorj outlet, which said the man sending the parcel from Spain was also placed under preventive arrest in absentia. [@7]

@@ -83,6 +83,11 @@ sources:
     publisher: TV SUD
     date: 2026-11-05
     language: ro
+  - title: LOVITURĂ DATĂ TRAFICANȚILOR DE DROGURI
+    url: https://tvr-craiova.ro/stiri/lovitura-data-traficantilor-de-droguri/
+    publisher: TVR Craiova
+    date: 2026-11-06
+    language: ro
 open_questions:
   - No figure for the number of plants grown or for the weight, area or value of the cannabis was published; only the nine jars seized are stated.
   - The cannabis found in the jars and bags was still being examined, so its weight and composition were not stated.
@@ -96,11 +101,12 @@ open_questions:
   - The page's lead image is marked 'Imagine ilustrativă' and is not shown to depict this seizure, so no media entry is listed.
   - TV Sud gives no plant count, weight, area or value for the cannabis, and only repeats the nine glass jars of cannabis without a weight.
   - TV Sud's only image is captioned 'Screenshot' with no credit, and is not established to show this raid or seizure, so no media entry is added.
+  - The Țânțăreni case is still described without a plant count, weight, area or value; the TVR Craiova account also gives no cannabis quantity for the nine jars.
 ---
 
 A 34-year-old man from Gorj County was placed in 30 days' preventive arrest,
 investigated for trafficking in risk drugs over a cannabis grow in Țânțăreni.
-[@1,3,4,6,8,9] Țânțăreni is a commune in Gorj County, in the Oltenia region of Romania.
+[@1,3,4,6,8,9,10] Țânțăreni is a commune in Gorj County, in the Oltenia region of Romania.
 [@2] Officers of the Gorj organised-crime service and DIICOT prosecutors, the
 directorate that investigates organised crime, documented the man's activity.
 [@1,3,4,5]
@@ -121,3 +127,5 @@ supported the operation. [@1,3,4,5,6] The man retains the presumption of innocen
 his procedural rights through the criminal proceedings. [@1]
 
 The operation was supported by Gorj county police officers and by Gorj county gendarmes. [@9]
+
+The TVR Craiova report placed the Țânțăreni case, handled by DIICOT's Gorj office and the Gorj organised-crime police, alongside the Motru parcel seizure of the same week as part of one Gorj enforcement drive. [@10]
