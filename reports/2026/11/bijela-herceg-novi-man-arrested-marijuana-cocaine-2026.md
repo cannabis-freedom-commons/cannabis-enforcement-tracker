@@ -41,17 +41,33 @@ sources:
     publisher: Antena M
     date: 2026-11-07
     language: sr
+  - title: 'UP: Man from Novalja arrested, cocaine, marijuana and pills found on him, tried to swallow a bag of cocaine'
+    url: https://en.vijesti.me/news-b/black-chronicle/835275/up-arrested-Novljanin--cocaine--marijuana-and-pills-found-on-him--tried-to-swallow-a-bag-of-cocaine
+    publisher: Vijesti
+    date: 2026-11-07
+  - title: 'Uhapšen Novljanin: Pokušao da proguta kesicu sa kokainom'
+    url: https://www.cdm.me/hronika/uhapsen-novljanin-pokusao-da-proguta-kesicu-sa-kokainom/
+    publisher: CdM (Cafe del Montenegro)
+    date: 2026-11-07
+    language: sr
 open_questions:
   - The article gives no separate date for the control and arrest; 7 November 2026 is its publication date and is used as the incident date.
   - No separate weight or count is given for the marijuana, only several PVC packages of cocaine and marijuana together, so no cannabis kilograms are recorded and cocaine and tablet quantities are left out as out of scope.
   - No outcome beyond the prosecutor-ordered deprivation of liberty was reported; charges before a court and detention decisions remain unknown.
   - Only one account of this arrest, citing the Police Administration, could be opened; no second independent source was found.
   - No event photo is listed; the submitted page's only captured image is a site globe graphic.
+  - 'Left out, as its quotation was not found in Vijesti: The Police Directorate said officers in the Bijela neighbourhood stopped D.T. and that he tried to swallow the PVC bag of cocaine, which officers prevented him from doing.'
+media:
+  - kind: photo
+    url: https://en.vijesti.me/news-b/black-chronicle/835275/up-arrested-Novljanin--cocaine--marijuana-and-pills-found-on-him--tried-to-swallow-a-bag-of-cocaine
+    media_url: https://www.vijesti.me/data/images/2026/11/07/16/5772724_img20261107wa0061_ls.jpg
+    publisher: Vijesti
+    caption: 'The drugs seized from the arrested man, captioned "Drugs found", in the Police Directorate handout photo. Photo: Police Directorate of Montenegro'
 ---
 
 Officers of the Herceg Novi Security Department arrested 30-year-old D.T. from
 Herceg Novi in Bijela after finding cocaine, marijuana and tablets suspected to
-be intended for street sale. [@1] During the police control in the Bijela
+be intended for street sale. [@1,2] During the police control in the Bijela
 settlement, D.T. tried to swallow a PVC bag containing cocaine, but officers
 stopped him. [@1]
 
@@ -64,5 +80,6 @@ After gathering information and completing the criminal processing, police
 informed the senior state prosecutor at the Higher State Prosecutor's Office in
 Podgorica about the event. [@1] The prosecutor qualified the event as the
 criminal offence of unauthorised production, possession and placing into
-circulation of narcotic drugs and ordered that D.T. be deprived of liberty. [@1]
+circulation of narcotic drugs and ordered that D.T. be deprived of liberty. [@1,2]
 
+The packages of cocaine and marijuana were found and seized in a detailed search of D.T. at the premises of the Herceg Novi Security Department, after he was brought there. [@3]
