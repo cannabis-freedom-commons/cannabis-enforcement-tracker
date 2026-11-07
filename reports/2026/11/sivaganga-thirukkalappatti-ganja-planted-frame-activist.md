@@ -65,6 +65,10 @@ sources:
     publisher: Dinamalar
     date: 2026-11-07
     language: ta
+  - title: 5 held for planting ganja to frame social activist
+    url: https://timesofindia.indiatimes.com/city/madurai/5-held-for-planting-ganja-to-frame-social-activist/articleshow/135642833.cms
+    publisher: The Times of India
+    date: 2026-11-07
 open_questions:
   - The Hindu gives no separate date for the placement of the packet or the five arrests; 5 November 2026 is used, taken from The Times of India, which says the packet was planted on 5 November, and from Dinamalar, which dates it to 5 November.
   - No weight, quantity or value of the ganja was published, so no cannabis weight is recorded.
@@ -85,11 +89,24 @@ open_questions:
   - The page gives no police response to the DMK's allegations and no outcome of any departmental or criminal action against the officers.
   - 'Left out, as its quotation was not found in Tamil Oneindia: Rajkumar, the trader, said two men came to his shop posing as customers on the morning after a road blockade, one of them dropping a packet in the drain outside, and that a car with two plainclothes officers arrived about ten minutes later.'
   - 'Left out, as its quotation was not found in Tamil Oneindia: Rajkumar said he believed the bar owner acted with police connivance because of his campaign, and that he had given CCTV footage and a complaint at the Sivaganga superintendent of police''s office.'
+  - The Times of India gives no date for the arrests or the planting; the report keeps the 5 November 2026 incident date it already uses.
+  - The account lists five accused but does not say which four were the adults remanded to judicial custody.
+  - The Times of India names Periya Chokkanathan as the informant and Rajapandi as one of the two who placed the substances; earlier accounts in the report attributed the planting to bar staff acting with the bar operator.
+  - The police account says the substances were placed near a canal opposite the grocery shop, while other accounts describe a packet dropped in a drain in front of it.
+  - The police account says the material was found near Rajkumar's residence, while other accounts describe a search of his shop.
+  - The page carries a single lead image whose caption does not describe the scene, so its subject cannot be confirmed.
+  - No court outcome beyond the remand is reported.
+media:
+  - kind: photo
+    url: https://timesofindia.indiatimes.com/city/madurai/5-held-for-planting-ganja-to-frame-social-activist/articleshow/135642833.cms
+    media_url: https://static.toiimg.com/thumb/msid-135642829,imgsize-336042,width-400,height-225,resizemode-75/beans-261012-25030279-ykd44jpeg.jpg
+    publisher: The Times of India
+    caption: 'The Times of India''s lead image for its report on the five arrests; its caption repeats the headline and does not describe the scene. Photo: The Times of India'
 ---
 
 Five people were arrested near Tiruppattur for allegedly planting a packet of
 ganja at the grocery shop of Rajkumar, an activist who had campaigned against a
-local liquor outlet, to frame him. [@1] According to CCTV footage reviewed by
+local liquor outlet, to frame him. [@1,8] According to CCTV footage reviewed by
 Rajkumar, two men posed as customers and dropped the packet at his shop, and two
 plainclothes prohibition officers arrived in a private vehicle about five
 minutes later. [@1,4]
@@ -125,3 +142,5 @@ Arappor Iyakkam, an anti-corruption group that filed the statement, demanded tha
 The DMK party said it stands firmly with the trader harmed by police planting ganja at his shop over his campaign against a TASMAC outlet, and demanded that the officers involved face departmental action and a criminal case. [@5,6,7] In a post on X on 7 November 2026, the DMK demanded that Chief Minister Vijay apologise to the trader affected by the planting. [@5,6,7]
 
 The DMK's head office said the police, which it said once hunted cannabis sellers, had become a department that stores cannabis, and said the force was used against the trader who campaigned against a TASMAC outlet instead of against a TVK functionary it accuses of trafficking 1,000 crore rupees of methamphetamine, while the Chief Minister tells students that drugs are fun. [@7] The Hindu reported that officers from the Sivaganga prohibition enforcement wing recovered the packet from a nearby drainage ditch, and that it held ganja and gutka, a chewing tobacco. [@1] The Hindu reported that villagers had petitioned repeatedly against the liquor shop and its attached bar, blockaded the road on November 4 demanding its closure, and were then promised by officials that it would be relocated within ten days. [@1]
+
+The four adults were remanded to judicial custody, while the 17-year-old was produced before the Juvenile Justice Board and sent to an observation home. [@8] Police said Periya Chokkanathan, who had an earlier enmity with Rajkumar, bought 5 grams of ganja from Sundar and 750 grams of banned tobacco from Jayamoorthy, and arranged with Rajapandi and the boy to place them near a canal opposite Rajkumar's grocery shop. [@8] A case was registered under the Narcotic Drugs and Psychotropic Substances Act, the Cigarettes and Other Tobacco Products Act and the Bharatiya Nyaya Sanhita. [@8]
