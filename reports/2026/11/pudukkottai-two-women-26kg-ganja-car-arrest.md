@@ -55,6 +55,11 @@ sources:
     publisher: Daily Thanthi
     date: 2026-11-06
     language: ta
+  - title: 26 கிலோ கஞ்சா கடத்திய இரு பெண்கள் கைது
+    url: https://www.dinamani.com/amp/story/all-editions/edition-trichy/pudukottai/2026/Nov/07/26-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%87%E0%AE%B0%E0%AF%81-%E0%AE%AA%E0%AF%86%E0%AE%A3%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81
+    publisher: தினமணி
+    date: 2026-11-07
+    language: ta
 open_questions:
   - The reports give no separate time or exact spot for the car check; 6 November 2026 is both the date they state (Friday) and the publication date of the Thanthi TV and Daily Thanthi articles.
   - The check is placed only in Pudukkottai and its surroundings, so coordinates are those of Pudukkottai town with district precision.
@@ -67,21 +72,26 @@ open_questions:
   - The submitted page gives no separate time or exact spot for the car check beyond Pudukkottai district.
   - The two women are identified only by given names, with no ages or occupations reported.
   - No charges under a specific law section or court stage were reported beyond a registered case and an ongoing investigation.
+  - Dinamani dates the arrest to Thursday night (5 November 2026), while the Thanthi TV and Daily Thanthi accounts date the car check to Friday 6 November; the reports may reflect a check after midnight or different reckoning, and no source reconciles them.
+  - Dinamani places the check at Kattiyavayal in Pudukkottai district and describes the arresting officers as a special team of the district superintendent of police, with the case then handed to the prohibition enforcement wing; the earlier reports describe district police stopping the car.
+  - Dinamani gives the two women's ages as 55 and 35 and no occupations.
 ---
 
 Two women were arrested in Pudukkottai district, Tamil Nadu, for smuggling 26 kg
 of ganja by car from Andhra Pradesh, according to Thanthi TV. [@1,2]
 
 Police stopped a suspicious luxury car coming from Andhra Pradesh towards
-Pudukkottai on Friday 6 November 2026 and searched it. [@2] The ganja parcels
-were stacked in a hidden compartment of the car. [@2] Police seized the 26 kg of
+Pudukkottai on Friday 6 November 2026 and searched it. [@2,3] The ganja parcels
+were stacked in a hidden compartment of the car. [@2,3] Police seized the 26 kg of
 ganja, which they valued at about 1.3 million rupees (₹13 lakh), together with
-the car used to carry it. [@2]
+the car used to carry it. [@2,3]
 
 Officers arrested the two women at the scene; they come from Kovilpatti in
 Thiruvarur and are Vasanthi and her sister's daughter Shanmugapriya, who the
-reports describe by those given names. [@2] Initial investigation indicated the
+reports describe by those given names. [@2,3] Initial investigation indicated the
 two planned to distribute the bundles from Andhra Pradesh to local agents in
 Pudukkottai and the surrounding areas. [@2]
 
 Police registered a case and said they were working to find who drove the car and which key figures sit behind the inter-state ganja network. [@2]
+
+Vasanthi was 55 and Shanmugapriya 35 when they were arrested, according to Dinamani; the other accounts gave no ages. [@3] The check took place at Kattiyavayal in Pudukkottai, carried out by a special team of the district superintendent of police after information that the two were bringing ganja from outside the state. [@3] The two were then handed over to the prohibition enforcement police of Pudukkottai, who registered the case, arrested them and jailed them. [@3]
