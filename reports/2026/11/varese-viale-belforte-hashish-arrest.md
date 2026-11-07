@@ -55,6 +55,11 @@ sources:
     publisher: Varese7Press
     date: 2026-11-06
     language: it
+  - title: Varese, spaccio di droga 100 grammi tra hashish e cocaina in auto, arrestato un uomo
+    url: https://www.vareseinluce.it/attualita/varese-spaccio-di-droga-100-grammi-tra-hashish-e-cocaina-in-auto-arrestato-un-uomo/78026/
+    publisher: VareseInLuce.it
+    date: 2026-11-06
+    language: it
 open_questions:
   - The accounts give no separate day for the stop and arrest; 6 November 2026 is the publication date of both and is used as the incident date.
   - The hashish weight of about 98 grams is a gross weight for one block; how much cocaine was found is not stated.
@@ -63,16 +68,24 @@ open_questions:
   - No charge details beyond the accusation of possession for sale, no validation hearing and no court outcome were reported.
   - The over 100 grams cited in both headlines and standfirst combines hashish and cocaine, so only the separately stated hashish weight is recorded as cannabis.
   - The Prealpina page picture carries no credit and is not established to show this seizure, so no media entry is included; the police statement page image could not be checked.
+  - VareseInLuce gives no separate day for the stop; 6 November 2026 is its publication date, as in the existing report.
+  - The page gives no amount for the cash or the cocaine, and no court outcome after the arrest.
+media:
+  - kind: photo
+    url: https://www.vareseinluce.it/attualita/varese-spaccio-di-droga-100-grammi-tra-hashish-e-cocaina-in-auto-arrestato-un-uomo/78026/
+    media_url: https://www.vareseinluce.it/wp-content/uploads/2026/11/droga-1536x864.jpeg
+    publisher: VareseInLuce.it
+    caption: Photo published with the account of the viale Belforte stop; the page gives no caption or credit.
 ---
 
 State police in Varese arrested a man accused of possessing drugs for sale after
 finding him with hashish and cocaine during a routine territorial patrol. [@1]
 Flying Squad investigators spotted a suspicious car travelling from Malnate
 towards Varese and called in the Volanti patrol units for a coordinated
-operation that blocked it in viale Belforte. [@1,3] During checks on the car and
+operation that blocked it in viale Belforte. [@1,3,4] During checks on the car and
 the driver, officers found a block of hashish with a gross weight of about 98
-grams. [@1,3] A personal search then turned up wrappers containing cocaine, cash
-treated as proceeds of drug dealing, and a mobile phone. [@1,3]
+grams. [@1,3,4] A personal search then turned up wrappers containing cocaine, cash
+treated as proceeds of drug dealing, and a mobile phone. [@1,3,4]
 
 After routine checks at the Varese police headquarters, he was arrested on the
 judicial authority's orders and taken to Miogni prison. [@1,3] The Varese police
@@ -83,3 +96,5 @@ and describes the other finds as wrappers containing cocaine, cash and a mobile
 phone. [@2]
 
 The stop was carried out under special territorial-control services aimed at tackling drug dealing. [@3]
+
+The man was taken to the Varese police headquarters for routine checks and then arrested and taken to the Casa Circondariale, the local prison. [@4]
