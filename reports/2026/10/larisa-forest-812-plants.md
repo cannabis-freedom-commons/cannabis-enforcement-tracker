@@ -47,6 +47,7 @@ open_questions:
   - The 34-year-old man is not named.
   - The expected benefit is more than 800,000 euros, including the seized cash, so no single value is recorded.
   - The TA NEA headline rounds the seized cannabis to 37 kg. The text says 36 kg and 690 g.
+  - Thessalia TV gives no name for the wooded site either, so the location of the plantation remains unknown.
 sources:
   - title: Λάρισα — έφοδος της ΕΛ.ΑΣ. σε φυτεία κάνναβης
     url: https://www.tanea.gr/2026/10/16/greece/larisa-efodos-tis-el-as-se-terastia-fyteia-kannavis-brethikan-812-dendryllia-kai-37-kila-marixouanas/
@@ -58,6 +59,11 @@ sources:
     url: https://www.protothema.gr/greece/article/1896002/futeia-me-812-dendrullia-kannavis-vrethike-krummeni-mesa-se-dasos-sti-larisa/
     archived: https://web.archive.org/web/20261021192351/https://www.protothema.gr/greece/article/1896002/futeia-me-812-dendrullia-kannavis-vrethike-krummeni-mesa-se-dasos-sti-larisa/
     publisher: Protothema
+    date: 2026-10-16
+    language: el
+  - title: Εντοπίστηκε μεγάλη φυτεία κάνναβης σε δύσβατη δασώδη περιοχή της Λάρισας με 812 δενδρύλλια (ΦΩΤΟ+video)
+    url: https://www.thessaliatv.gr/news/195092/entopistike-megali-futeia-kannabis-se-dusbati-dasodi-perioxi-tis-la
+    publisher: Θεσσαλία Τηλεόραση
     date: 2026-10-16
     language: el
 media:
@@ -116,9 +122,9 @@ media:
     caption: Hellenic Police video of the drying shelter, published with the 16 October 2026 report.
 ---
 
-On Thursday 15 October 2026 police arrested a 34-year-old foreign man in Larisa on an arrest warrant. [@1,2] Officers of the Drugs Subdivision of the Directorate for Combating Organised Crime had found a cannabis plantation in a hard-to-reach wooded area of Larisa. [@1] The investigation concluded that he supplied the plantation with what it needed. [@1,2] A second person, identified but not described as arrested, is in the file and is accused of cultivating the plants and guarding the site. [@1,2]
+On Thursday 15 October 2026 police arrested a 34-year-old foreign man in Larisa on an arrest warrant. [@1,2,3] Officers of the Drugs Subdivision of the Directorate for Combating Organised Crime had found a cannabis plantation in a hard-to-reach wooded area of Larisa. [@1] The investigation concluded that he supplied the plantation with what it needed. [@1,2] A second person, identified but not described as arrested, is in the file and is accused of cultivating the plants and guarding the site. [@1,2]
 
-The location was fixed from information, with help from the Information and Special Actions Subdivision, EKAM, the Larisa crimes subdivision, and the Tyrnavos police station. [@1,2] At the plantation, officers found, uprooted and seized 812 cannabis plants, from 1.40 to 2.10 metres tall. [@1,2] In a shack set up for drying cannabis they found seven bags of raw cannabis with a gross weight of 36 kilograms and 690 grams. [@1,2] The TA NEA headline rounds that weight to 37 kilograms. [@1]
+The location was fixed from information, with help from the Information and Special Actions Subdivision, EKAM, the Larisa crimes subdivision, and the Tyrnavos police station. [@1,2] At the plantation, officers found, uprooted and seized 812 cannabis plants, from 1.40 to 2.10 metres tall. [@1,2,3] In a shack set up for drying cannabis they found seven bags of raw cannabis with a gross weight of 36 kilograms and 690 grams. [@1,2,3] The TA NEA headline rounds that weight to 37 kilograms. [@1]
 
 Searches of the 34-year-old's homes and of the plantation also found cultivation equipment, things the people living at the plantation used, a pair of binoculars, an intercom and 40,950 euros. [@1,2] The authorities' estimate of the expected benefit, from the seized raw cannabis, the uprooted plants and the cash taken as proceeds, is more than 800,000 euros. [@1,2] The arrested man, who had been charged repeatedly in the past with immigration offences, was taken to the prosecutor and referred to an investigating judge. [@1,2]
 
