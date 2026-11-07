@@ -50,12 +50,20 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-07
     language: hi
+  - title: पुलिस ने एक आरोपी को 2.45 किलो गांजे के साथ किया गिरफ्तार
+    url: https://dastaknews.com/news/201622/pulisa-ne-eka-aaropee-ko-2-45-kilo-ganje-ke-satha-kiya-giraphtara
+    publisher: Dastak News
+    date: 2026-11-07
+    language: hi
 open_questions:
   - Only one account, from Dainik Bhaskar, was available; the page becomes an app-login prompt after the crime number paragraph, and no other outlet report of this arrest was found.
   - The section of the police account that names the patrol on Chhipaner Road, the search of the bag and crime number 742/2026 under section 8/20 of the NDPS Act was read on the page but is not in the saved article capture, so those details are left out of the facts and figures here.
   - The report gives no information on a court appearance, remand or charge sheet.
   - The three photos on the page carry no captions or credits and could not be identified individually, so they are listed as page images without a description of their contents.
   - The exact spot near the Uda railway bridge is not mapped; the coordinates are for Harda town.
+  - Dastak News reproduces the Harda district police account published by Dainik Bhaskar rather than independent reporting, and gives no date for a court appearance, remand or charge sheet.
+  - The page names the suspect in full with his father's name and home locality; the tracker does not record personal identifiers and keeps him as a 29-year-old man arrested in Harda.
+  - The page's photograph is credited to no one and its only caption is the place tag 'harda', so it is not confirmed to show this seizure and is not listed as media.
 ---
 
 City Kotwali police in Harda arrested a 29-year-old man with 2.45 kg of ganja on
@@ -66,3 +74,4 @@ ganja, the Hindi name for cannabis, a preparation banned for sale and possession
 in India. [@1] The report says officers found the ganja when they searched him
 and the bag he was carrying. [@1]
 
+The arrest was made by the city Kotwali station under crime number 742/2026 for an offence under section 8/20 of the NDPS Act, the section of the law that covers possession of cannabis. [@2] Station officer Roshanlal Bharti said the patrol was on Chhipaner Road when officers saw the man sitting near the service road by the Uda railway bridge with a plastic bag, surrounded him and searched the bag. [@2] The operation involved sub-inspector Manvendra Bhadoria, assistant sub-inspector Bhagwandas Yadav, head constables Harprasad Patel and Manish Patharia, and constables Pradeep Malviya and Ramnaresh, along with a woman constable. [@2] According to police, a case for assault, threats and other offences had already been registered against the suspect as crime number 390/2026, and the station officer called him a habitual offender. [@2] The station officer said cases under the NDPS Act had also been registered earlier against the suspect's relatives. [@2]
