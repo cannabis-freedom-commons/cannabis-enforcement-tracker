@@ -78,6 +78,31 @@ media:
     media_url: https://files-101tv-londres.s3-accelerate.amazonaws.com/2026/11/dinero-marihuana.jpg
     publisher: 101TV
     caption: 'Page picture for the Graveyard 02 article, captioned only "Plantación de Marihuana" and credited to the Guardia Civil. Photo: Guardia Civil'
+  - kind: photo
+    url: https://www.infocostatropical.com/noticia.asp?id_noticia=122384
+    media_url: https://www.infocostatropical.com/private/fotos/122384/IMG_20261106_130850.jpg
+    publisher: Infocosta Tropical
+    caption: Page photo ran with the Graveyard 02 report under the headline of the 19 detentions; credited to the Guardia Civil as the news source.
+  - kind: photo
+    url: https://www.infocostatropical.com/noticia.asp?id_noticia=122384
+    media_url: https://www.infocostatropical.com/private/fotos/122384/IMG_20261106_130729.jpg
+    publisher: Infocosta Tropical
+    caption: Second page photo of the Graveyard 02 operation; credited to the Guardia Civil as the news source.
+  - kind: photo
+    url: https://www.infocostatropical.com/noticia.asp?id_noticia=122384
+    media_url: https://www.infocostatropical.com/private/fotos/122384/IMG_20261106_130830.jpg
+    publisher: Infocosta Tropical
+    caption: Third page photo of the Graveyard 02 operation; credited to the Guardia Civil as the news source.
+  - kind: photo
+    url: https://www.infocostatropical.com/noticia.asp?id_noticia=122384
+    media_url: https://www.infocostatropical.com/private/fotos/122384/IMG_20261106_130746.jpg
+    publisher: Infocosta Tropical
+    caption: Fourth page photo of the Graveyard 02 operation; credited to the Guardia Civil as the news source.
+  - kind: photo
+    url: https://www.infocostatropical.com/noticia.asp?id_noticia=122384
+    media_url: https://www.infocostatropical.com/private/fotos/122384/IMG_20261106_130802.jpg
+    publisher: Infocosta Tropical
+    caption: Fifth page photo of the Graveyard 02 operation; credited to the Guardia Civil as the news source.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7a339889f699ae838212dcf6f2a1b4b3
@@ -133,6 +158,11 @@ sources:
     publisher: Moncloa
     date: 2026-11-06
     language: es
+  - title: La Guardia Civil detiene a 19 personas por pertenecer a una organización criminal que enviaba droga a Eslovenia
+    url: https://www.infocostatropical.com/noticia.asp?id_noticia=122384
+    publisher: Infocosta Tropical
+    date: 2026-11-06
+    language: es
 open_questions:
   - The Guardia Civil statement gives no breakdown of how much of the 181 kg of marijuana was bud and how much was plants, nor whether the 1,388 plants were seized or cut.
   - The three sources give the same figures, but no independent verification of the weights was published; all figures are the Guardia Civil's own.
@@ -147,6 +177,7 @@ open_questions:
   - Portal24 does not say whether any of the four remanded suspects are the detainees of Slovenian origin.
   - The article repeats the Spanish authorities' figures without independent verification and gives no outcome beyond the remand of four suspects.
   - The Ahora Granada photos of the firearms and the cash reuse the Guardia Civil handout images already linked from the agency's own page, so no new media entry is added.
+  - The Infocosta page is credited to the Guardia Civil as its source and repeats the agency's figures without independent verification.
 ---
 
 Spain's Guardia Civil said it had dismantled a criminal organisation that grew,
@@ -171,7 +202,7 @@ Guardia Civil treats as a weapon of war. [@2,5,9] The detainees were accused of 
 trafficking, belonging to a criminal organisation, illegal possession of
 firearms, illegal possession of weapons of war and money laundering. [@2] After
 appearing before the duty investigating court of the Granada court, four of them
-were remanded in custody. [@2,4,5,6,9,10] The investigation was run by the Guardia Civil's
+were remanded in custody. [@2,4,5,6,9,10,11] The investigation was run by the Guardia Civil's
 Organised Crime Judicial Police Unit in Granada, supported by the USECIC
 riot-control unit and units from other Andalusian commands. [@2] El Confidencial
 Digital, quoting the Guardia Civil, also reported the 19 detentions in operation
@@ -180,3 +211,5 @@ Graveyard 02 and the remand in custody of four detainees. [@3]
 The operation drew on agents from different Granada companies with support from units of Almería, Huelva and Málaga. [@5]
 
 Officers also seized gold pieces valued at about 40,000 euros. [@7]
+
+The investigation was run by the Guardia Civil's Organised Crime Judicial Police Unit in Granada, supported by the USECIC riot-control unit and units from other Andalusian commands, among them the Grupo de Acción Rápida, the Grupo de Reserva y Seguridad, patrols of the Armilla company and investigation teams from Almuñécar, Las Gabias and Armilla. [@11]
