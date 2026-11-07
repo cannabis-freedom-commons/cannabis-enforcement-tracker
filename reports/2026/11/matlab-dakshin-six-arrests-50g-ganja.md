@@ -71,6 +71,10 @@ sources:
     publisher: Chandpur Kantho
     date: 2026-11-06
     language: bn
+  - title: 62 Awami League leaders, activists arrested in Chandpur | English
+    url: https://www.jagonews24.com/en/national/news/97965
+    publisher: Jagonews24.com
+    date: 2026-11-07
 open_questions:
   - The article gives no weight or value for the 30 yaba tablets; they are not part of the cannabis figures.
   - The article does not say what the two men arrested in the Upadhi and Nalua areas were found with, so the 50 grams of ganja is reported only for the two arrested in Badarpur.
@@ -89,11 +93,12 @@ open_questions:
   - Naya Diganta does not say what the man held in the Upadhi raid was found with, and gives yaba only for the two men arrested in the Nairgaon area.
   - Chandpur Kantho gives 30 grams of ganja for the Badarpur pair and 40 grams for the South Nalua arrest, totalling 70 grams, while the existing report records 50 grams of ganja; a single official total for the raids was not published.
   - Chandpur Kantho's headline counts five arrested traffickers but its text names six people detained, including the convicted man held in Badarpur, matching a discrepancy already recorded from Naya Diganta.
+  - Jagonews24 gives no station split of the 12 drug arrests and no ganja weight, so it neither confirms nor contradicts the 50 grams of ganja recorded for the Badarpur raid.
 ---
 
 Police in Matlab Dakshin upazila, Chandpur, arrested six people in separate
 raids, among them a man known as 'Major Dalim' who is an accused in 15 cases.
-[@1,2,3] Officers recovered 30 yaba tablets and 50 grams of ganja from the arrested
+[@1,2,3,6] Officers recovered 30 yaba tablets and 50 grams of ganja from the arrested
 people. [@1,2] Police said five of the six were held on suspicion of involvement
 in drug trafficking. [@1]
 
