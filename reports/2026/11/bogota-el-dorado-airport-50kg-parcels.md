@@ -66,6 +66,11 @@ sources:
     publisher: Semana
     date: 2026-11-06
     language: es
+  - title: 'Latas de proteína y un compresor: las encomiendas que escondían marihuana en El Dorado'
+    url: https://bogota.gov.co/mi-ciudad/seguridad/2026-11/incautan-mas-de-50-kilos-de-marihuana-en-latas-de-proteina-en-bogota
+    publisher: Bogota.gov.co
+    date: 2026-11-07
+    language: es
 open_questions:
   - No date is given for the two airport inspections; 6 November 2026 is the publication date of both accounts and stands in for the incident date.
   - The weight is given only as more than 50 kilograms in total and as more than 21 and more than 29 kilograms for the two shipments, so no exact weight is recorded.
@@ -74,27 +79,27 @@ open_questions:
   - The marijuana's weight is the police's figure and no street value estimate was published.
   - Both accounts appear to draw on the same Bogotá Metropolitan Police statement, so they are not fully independent reporting.
   - Police said more than seven tonnes of marijuana had been seized in Bogotá in 2026; that citywide total is not part of this event and is not recorded as a figure.
+  - This official account was published on 7 November 2026 while the existing report uses 6 November 2026 from its earlier sources; no separate date for the two inspections is given.
 ---
 
 Police at El Dorado airport in Bogotá seized more than 50 kilograms of marijuana
-addressed for delivery to Tunja and Villavicencio in two operations. [@1] The
+addressed for delivery to Tunja and Villavicencio in two operations. [@1,3] The
 seizures came from inspections of parcels and domestic shipments in the
-airport's cargo warehouses. [@1]
+airport's cargo warehouses. [@1,3]
 
 In the first operation, officers spotted irregularities in two boxes on the
 scanner in the national cargo warehouse and found 30 protein tins hiding a plant
-substance resembling marijuana. [@1] That shipment weighed more than 21
+substance resembling marijuana. [@1,3] That shipment weighed more than 21
 kilograms and had been sent from Cali to Tunja, in Boyacá, with the marijuana
-packed inside the tins to escape detection. [@1] In a second operation police
+packed inside the tins to escape detection. [@1,3] In a second operation police
 found more than 29 kilograms of marijuana hidden inside an air compressor sent
-as a parcel, bound for Villavicencio. [@1] Semana reported that the compressor
+as a parcel, bound for Villavicencio. [@1,3] Semana reported that the compressor
 parcel had been dispatched from the municipality of Buga and that the two
 seizures were made by the airport police station of the Bogotá Metropolitan
-Police. [@2]
+Police. [@2,3]
 
 Lieutenant Colonel Elizabeth Erazo Benavides, commander of the airport police
 station, said the station's officers seized more than 50 kilograms of marijuana.
 [@2] Police said more than seven tonnes of marijuana had been seized in Bogotá
 so far in 2026, and said they would strengthen scanner and operational checks at
 the airport. [@1]
-
