@@ -63,6 +63,11 @@ sources:
     publisher: РИА Пензенской области
     date: 2026-11-07
     language: ru
+  - title: В Бессоновском районе изъяли более четверти килограмма конопли
+    url: https://vk.ru/wall-212325151_10798
+    publisher: УМВД России по Пензенской области
+    date: 2026-11-07
+    language: ru
 open_questions:
   - The reports give no date for the detention, the inspection or the seizure; 7 November 2026 is the publication date and is used as the incident date.
   - The cannabis weight is given as about 257 grams, not an exact measured figure.
@@ -71,10 +76,12 @@ open_questions:
   - No measure of restraint, criminal record or court outcome was reported; the case was at the investigation stage.
   - Both opened accounts reproduce the same Bessonovsky district police statement, so there is no independent witness account.
   - Both opened pages carry a police press-service picture whose caption does not establish that it shows this seizure.
+  - The post gives the suspect's birth year rather than his age, so 34 is derived from 1992 and the date of the report; he may turn 35 later in 2026.
+  - The post is the ministry's own account, so it is not an independent confirmation of the figure of about 257 grams.
 ---
 
 Police in Bessonovsky district, Penza Oblast, detained a 34-year-old local man
-suspected of involvement in the illegal circulation of drugs. [@2] Officers
+suspected of involvement in the illegal circulation of drugs. [@2,3] Officers
 received information that the man might be involved in the illegal circulation
 of banned substances, and their check confirmed it. [@1]
 
@@ -91,3 +98,4 @@ made a drug from the gathered raw material, which he intended to use himself.
 A criminal case was opened under part 2 of article 228 of the Russian Criminal
 Code, which carries a maximum of 10 years in prison. [@1]
 
+The man was born in 1992, the Interior Ministry's post says, which is consistent with the age of 34 given in earlier reports. [@3]
