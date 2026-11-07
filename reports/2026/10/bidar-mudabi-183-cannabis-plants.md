@@ -22,8 +22,9 @@ figures:
 media:
   - kind: photo
     url: https://www.varthabharati.in/bidar/bidar-ganja-plants-worth-over-4-lakh-seized-accused-arrested-2279745
+    media_url: https://www.varthabharati.in/h-upload/2026/10/02/1576361-0121e263-240f-4d84-aaec-2292b41d6263.jfif
     publisher: Vartha Bharati
-    caption: Police officers among the tall cannabis plants in the field on the outskirts of Mudabi village.
+    caption: "Officers with a pile of uprooted cannabis plants and a scale near Mudabi (Vartha Bharati)."
 details:
   agency_types: [police]
   case_stage: investigation

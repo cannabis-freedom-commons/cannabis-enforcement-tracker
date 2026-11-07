@@ -20,12 +20,9 @@ figures:
 media:
   - kind: photo
     url: https://www.indiatodayne.in/tripura/story/340-kg-ganja-worth-rs-174-crore-seized-in-tripuras-khowai-1459814-2026-10-07
+    media_url: https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202610/6ac5d93b7cd49-340-kg-ganja-worth-rs-174-crore-seized-in-tripuras-khowai-073138675-16x9.jpeg
     publisher: India Today NE
-    caption: 'Assam Rifles personnel stand behind stacked packages of the seized ganja in front of the seized Ford EcoSport. Photo: India Today NE'
-  - kind: photo
-    url: https://www.morungexpress.com/assam-rifles-seize-huge-ganja-haul-in-tripura
-    publisher: The Morung Express
-    caption: The seized ganja haul displayed by Assam Rifles. Photo courtesy Assam Rifles
+    caption: "Assam Rifles personnel with stacked packages of seized ganja in front of a Ford EcoSport (India Today NE)."
 details:
   activity: [smuggling, trafficking]
   agency_types: [customs, police]
@@ -67,6 +64,7 @@ open_questions:
   - The Rs 1.74 crore value is the authorities' estimate.
   - The exact interception point within the Mungiakami area was not stated; the coordinates are for Mungiakami village.
   - Whether Customs later filed a case or made further arrests is not stated.
+  - The Morung Express republished Assam Rifles display photos of the same Khowai haul without a separate direct media_url entry here.
 ---
 
 A joint team of Assam Rifles and Customs officials intercepted a Ford EcoSport

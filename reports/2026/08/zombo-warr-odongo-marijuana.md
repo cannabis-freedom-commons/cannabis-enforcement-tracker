@@ -39,6 +39,7 @@ open_questions:
   - No weight or plant count was published for the marijuana uprooted or seized in the house.
   - Police spokesmen mixed references to opium with reporting that described marijuana plants; the outlets treated the recovered drugs as cannabis.
   - Whether Odongo was charged or remanded beyond detention at Warr Police Post was not reported.
+  - Nile Post published additional Warr Sub-County operation photos without a separate direct media_url entry here.
 sources:
   - title: Man arrested over marijuana growing and water pipe sabotage
     url: https://ugreports.co.ug/man-arrested-over-marijuana-growing-and-water-pipe-sabotage/
@@ -52,13 +53,9 @@ sources:
 media:
   - kind: photo
     url: https://ugreports.co.ug/man-arrested-over-marijuana-growing-and-water-pipe-sabotage/
+    media_url: https://ugreports.co.ug/wp-content/uploads/2026/08/IMG_20260814_112733_854_wm@-266309503.jpg
     publisher: UG Reports
-    caption: Police and community members at Odongo's home after uprooting marijuana plants.
-  - kind: photo
-    url: https://nilepost.co.ug/crime/363767/zombo-police-launch-cannabis-crackdown-after-warr-suspect-arrest
-    archived: https://web.archive.org/web/20261021114255/https://nilepost.co.ug/crime/363767/zombo-police-launch-cannabis-crackdown-after-warr-suspect-arrest
-    publisher: Nile Post
-    caption: Scene from the Warr Sub-County operation following Odongo's arrest.
+    caption: "Uprooted marijuana plants being loaded into a pickup after the Warr Sub-County operation (UG Reports)."
 ---
 
 Police in Zombo District arrested Patrick Odongo of Aciro village, Pakia Parish,

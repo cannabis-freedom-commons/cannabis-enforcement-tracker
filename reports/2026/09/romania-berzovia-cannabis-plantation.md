@@ -49,10 +49,8 @@ media:
     media_url: https://www.pressalert.ro/wp-content/uploads/2026/09/cultura-canabis.jpg
     publisher: Pressalert
     caption: "Outdoor cannabis plantation found outside Berzovia (Pressalert / DIICOT)."
-  - kind: photo
-    url: https://focuspress.ro/cultura-de-canabis-infiintata-intr-o-zona-izolata-s-a-lasat-cu-perchezitii-diicot-ce85bf347/
-    publisher: FocusPress
-    caption: DIICOT photograph released with the search announcement
+open_questions:
+  - FocusPress republished DIICOT imagery of the same Berzovia plantation without a separate direct media_url entry here.
 ---
 
 DIICOT prosecutors from Caraș-Severin and organised-crime police carried out five house searches on

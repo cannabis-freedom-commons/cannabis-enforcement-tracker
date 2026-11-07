@@ -66,11 +66,6 @@ media:
     media_url: https://www.elheraldo.co/resizer/v2/YCKEKSMMMFCSNGL26GSWPQTOTA.png?smart=true&auth=9279611be6229bfb61419729852be153bf8443f4eb556661d9c062d9a199d2aa&width=1200&height=675
     publisher: El Heraldo
     caption: "Marijuana bales displayed outside a Policía Nacional antinarcotics building in Huila (El Heraldo)."
-  - kind: photo
-    url: https://caracol.com.co/2026/09/27/incautan-42-toneladas-de-marihuana-camufladas-en-un-cargamento-de-cal-en-el-huila/
-    archived: https://web.archive.org/web/20261007024058/https://caracol.com.co/2026/09/27/incautan-42-toneladas-de-marihuana-camufladas-en-un-cargamento-de-cal-en-el-huila/
-    publisher: Caracol Radio
-    caption: The truck stopped at the Patá toll booth
 open_questions:
   - The Yahoo/EFE page gives only its 27 September publication date and says the presidency reported on Sunday, giving no separate operation hour, so the existing 26 September incident date gains no independent confirmation from this source.
   - This source does not name the Patá toll booth, the Inzá–Bogotá route, the alleged Cauca trafficking organisation or any peso valuation, so those existing details gain no corroboration here.
@@ -79,6 +74,7 @@ open_questions:
   - Infobae gives no separate interception date beyond its 27 September publication, so the existing 26 September incident date rests on the earlier Caracol Radio and El Heraldo reporting rather than on this source.
   - Infobae does not name the Patá toll booth, the Inzá–Bogotá route, the alleged Cauca organisation or the police's roughly 1 billion peso valuation, so those existing details gain no corroboration from this source.
   - Infobae also reports a separate 1,498 kg cocaine seizure on the Meta river in Vichada on 25 September, a different event left out here.
+  - Caracol and other outlets covered the same Huila seizure without separate direct media_url entries here.
 ---
 
 Police found 4.2 tonnes of marijuana hidden among sacks of lime in a truck at the Patá toll booth

@@ -18,12 +18,9 @@ figures:
 media:
   - kind: photo
     url: https://www.udaipurviews.com/big-operation-of-udaipur-mandwa-police-and-dst-destroyed-11-quintals-of-hemp-and-cannabis-cultivation/
+    media_url: https://www.udaipurviews.com/wp-content/uploads/2026/10/354-e1791299441595.jpg
     publisher: Udaipur Views
-    caption: Men uproot cannabis and hemp plants in a field during the operation.
-  - kind: photo
-    url: https://www.rajasthannews24.in/rajasthan/udaipur-police-action-cannabis-cultivation-discovered
-    publisher: Rajasthan News 24
-    caption: Police uproot cannabis and hemp plants in a field, and cannabis plants growing among maize.
+    caption: "Men uproot cannabis and hemp plants in a field during the operation (Udaipur Views)."
 details:
   activity: [trafficking, cultivation]
   agency_types: [police]
@@ -61,6 +58,7 @@ open_questions:
   - Nadi Fala Sadi is not mapped; the coordinates are for Mandwa village in Kotra tehsil, so the location is district-level.
   - Both reports appear to draw on the same police account, so the figures are not independently corroborated.
   - 'Left out, as its quotation was not found in Udaipur Views: Police registered seven cases at Mandwa police station: one under the Narcotic Drugs and Psychotropic Substances (NDPS) Act and six under the Excise Act for bhang.'
+  - Rajasthan News 24 published additional field photos of the same Mandwa/Sadi destruction without a separate direct media_url entry here.
 ---
 
 Police destroyed cannabis and hemp cultivation in the remote hills of Nadi Fala

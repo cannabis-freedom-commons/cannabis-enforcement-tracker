@@ -36,6 +36,7 @@ open_questions:
   - No arrests, plant count or area were published.
   - Red Uno and El Fulgor both follow one police account. No independent measurement of the weight was found.
   - El Fulgor's headline says 90 tonnes. Its text, like Red Uno, says more than 90 tonnes.
+  - El Fulgor published hillside uprooting photos of the same FELCN operation without a separate direct media_url entry here.
 sources:
   - title: Operativo de la Felcn destruyó más de 90 toneladas de marihuana en El Torno
     url: https://www.reduno.com.bo/noticias/operativo-de-la-felcn-destruyo-mas-de-90-toneladas-de-marihuana-en-el-torno-2026814124043
@@ -49,13 +50,10 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://pxcdn.reduno.com.bo/reduno/082026/1786725669246.webp?extw=jpg&cw=600&ch=365
+    url: https://www.reduno.com.bo/noticias/operativo-de-la-felcn-destruyo-mas-de-90-toneladas-de-marihuana-en-el-torno-2026814124043
+    media_url: https://pxcdn.reduno.com.bo/reduno/082026/1786725669246.webp?extw=jpg&cw=600&ch=365
     publisher: Red Uno
-    caption: Smoke rising from a cleared field, with people standing along the burn. Red Uno credits the Bolivian police.
-  - kind: photo
-    url: https://elfulgor.com/images/2026/08/14/NAT_large.jpg
-    publisher: El Fulgor
-    caption: Uniformed men pulling leafy plants on a hillside plot. Published by El Fulgor with the FELCN account of this operation.
+    caption: "Smoke rising from a cleared field during the FELCN burn in El Torno (Red Uno / Bolivian police)."
 ---
 
 FELCN, Bolivia's special force against drug trafficking, burned more than 90

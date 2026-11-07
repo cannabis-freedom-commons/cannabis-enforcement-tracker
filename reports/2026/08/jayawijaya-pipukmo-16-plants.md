@@ -30,12 +30,9 @@ data_sources:
 media:
   - kind: photo
     url: https://www.detik.com/sulsel/hukum-dan-kriminal/d-8637159/ladang-ganja-ditemukan-polisi-di-kampung-pipukmo-jayawijaya
+    media_url: https://awsimages.detik.net.id/community/media/visual/2026/08/27/polres-jayawijaya-menemukan-ladang-ganja-di-kampung-kampung-pipukmo-jayawijaya-1787831097923_169.jpeg?w=1200
     publisher: detikSulsel
-    caption: 'Police officers with cannabis plants seized at the plot in Kampung Pipukmo. Photo: Polres Jayawijaya'
-  - kind: photo
-    url: https://papuainside.id/polres-jayawijaya-ungkap-ladang-ganja-di-kampung-pipukmo/
-    publisher: Papua Inside
-    caption: 'Police officers at the cannabis plot in Kampung Pipukmo. Photo: Humas Polres Jayawijaya'
+    caption: "Police with uprooted cannabis plants from Kampung Pipukmo displayed at Polres Jayawijaya (detikSulsel)."
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [papua, jayawijaya, ganja, drone]
@@ -66,6 +63,7 @@ open_questions:
   - One report described the four cut plants as uprooted or possibly harvested; the others described them as harvested.
   - No owner, suspect or arrest was identified; police said the investigation was continuing.
   - Sources do not say whether the 12 still-growing plants were destroyed after being taken away for examination.
+  - Papua Inside published additional plot photos of the same Pipukmo find without a separate direct media_url entry here.
 ---
 
 Police in Jayawijaya Regency, Papua Pegunungan, found a cannabis plot in Kampung

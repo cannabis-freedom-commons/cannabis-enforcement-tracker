@@ -21,8 +21,9 @@ figures:
 media:
   - kind: photo
     url: https://ommcomnews.com/odisha-news/ganja-worth-rs-1-5-cr-seized-from-forest-in-malkangiri/
+    media_url: https://ommcomnews.com/wp-content/uploads/2026/10/New-Project-3-3.jpg
     publisher: Ommcom News
-    caption: 'Police personnel standing behind rows of white sacks of seized ganja in the forest, with an iron chest in front. Photo: Ommcom News'
+    caption: "Police personnel standing behind white sacks of seized ganja in the forest (Ommcom News)."
 details:
   activity: [smuggling, trafficking]
   agency_types: [police]

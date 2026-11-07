@@ -45,10 +45,8 @@ media:
     media_url: https://www.app.com.pk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-17.04.42-e1791376519894.jpeg
     publisher: Associated Press of Pakistan
     caption: "ISPR handout: Navy personnel with seized packages on deck, plus the two intercepted dhows."
-  - kind: photo
-    url: https://tribune.com.pk/story/2633496/pakistan-navy-seizes-narcotics-worth-96m-in-arabian-sea-ispr
-    publisher: The Express Tribune
-    caption: The seized drugs, photographed in an ISPR handout
+open_questions:
+  - The Express Tribune republished ISPR imagery of the same PNS Yarmook interdiction without a separate direct media_url entry here.
 ---
 
 The Pakistan Navy ship PNS Yarmook intercepted two dhows in the Arabian Sea and recovered about

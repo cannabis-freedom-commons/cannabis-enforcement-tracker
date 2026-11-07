@@ -42,10 +42,6 @@ status: verified
 tags: [loja, amaluza, espindola, border]
 media:
   - kind: photo
-    url: https://cronica.com.ec/2026/09/29/sentenciado-a-22-anos-de-carcel-por-trafico-de-731-kilos-de-marihuana/
-    publisher: Diario Crónica
-    caption: Sacks of cannabis evidence laid out after the seizure in Amaluza.
-  - kind: photo
     url: https://www.elcomercio.com/actualidad/ecuador/golpe-al-narcotrafico-en-la-frontera-sur-policia-incauta-mas-de-media-tonelada-de-droga-en-loja/
     media_url: https://media.elcomercio.com/wp-content/uploads/2026/02/Decomisan-droga-en-Loja-1024x768.jpeg
     publisher: El Comercio
@@ -58,6 +54,7 @@ open_questions:
   - The February accounts give no separate raid date; 11 February 2026 is the El Comercio publication date and 12 February 2026 is the Fiscalia charging bulletin date.
   - The 5.1 million dollar figure and 1,462,000-dose figure are the authorities' estimates for the European market, not verified sale values.
   - Only initials plus age are published for the detainees, so full identities remain unpublished.
+  - Diario Crónica published a separate Amaluza evidence display without a separate direct media_url entry here.
 sources:
   - title: Sentencia de 22 años por tráfico de 731 kilos de marihuana
     url: https://www.fiscalia.gob.ec/accesibilidad/sentencia-de-22-anos-por-trafico-de-731-kilos-de-marihuana/

@@ -44,6 +44,7 @@ open_questions:
   - No charge or court outcome is reported. The state criminal office was still tracing where the cannabis came from and where it was going.
   - The Krone says the men meant to bring the cannabis into Carinthia, and also that their destination was still unknown.
   - The street value of about 120,000 euros is the figure ORF gives for the seized cannabis. The Krone does not repeat it.
+  - ORF Kärnten published a matching evidence-bag photo of the same seizure without a separate direct media_url entry here.
 sources:
   - title: Zwölf Kilo Cannabis in Pkw gefunden
     url: https://kaernten.orf.at/stories/3370290/
@@ -57,13 +58,10 @@ sources:
     language: de
 media:
   - kind: photo
-    url: https://imgl.krone.at/scaled/4286729/vf610bf/og_image.jpg
+    url: https://www.krone.at/4286707
+    media_url: https://imgl.krone.at/scaled/4286729/vf610bf/og_image.jpg
     publisher: Krone
-    caption: Two rows of clear bags of plant material, each with a white evidence label. The Krone credits the photograph to the Carinthia police.
-  - kind: photo
-    url: https://ibs.orf.at/ktn?image=https%3A%2F%2Foekastatic.orf.at%2Fmims%2F2026%2F37%2F23%2Fcrops%2Fw%3D1200%2Ch%3D627%2Cq%3D75%2F3175402_master_1231323_sicherstellung.jpg%3Fs%3D8281f0e3fae6c6153a6af344ba7e7d61a4e72939
-    publisher: ORF Kärnten
-    caption: The same bags of seized cannabis, published by ORF with a Carinthia police credit.
+    caption: "Two rows of clear bags of plant material with Carinthia police evidence labels (Krone)."
 ---
 
 On 20 August 2026, shortly before 11:00, officers of the Villach motorway police stopped a car with Slovenian plates on the Karawanken Autobahn, the A11, just after it had entered Austria. [@1] In the boot they found 11.75 kg of cannabis herb, packed as 20 parcels in a cardboard box. [@1] The driver and his passenger, both 30-year-old Slovenian citizens, had not hidden the drugs. [@1]

@@ -62,10 +62,8 @@ media:
     media_url: https://media.biobiochile.cl/wp-content/uploads/2026/09/social-6952651-weed-1200x633.png
     publisher: BioBioChile
     caption: "PDI evidence display of plastic-wrapped marijuana bricks in San Bernardo (BioBioChile)."
-  - kind: photo
-    url: https://www.cooperativa.cl/noticias/pais/policial/drogas/pdi-desarticulo-banda-narco-transnacional-e-incauto-mas-de-800-kilos-de/2026-09-13/135126.html
-    publisher: Cooperativa
-    caption: PDI photograph of part of the 811 kg seizure
+open_questions:
+  - Cooperativa covered the same San Bernardo PDI seizure without a separate direct media_url entry here.
 ---
 
 Chile's investigative police (PDI) arrested four people and seized 811 kg of cannabis sativa in San
