@@ -59,6 +59,11 @@ sources:
     publisher: 24 часа
     date: 2026-11-06
     language: bg
+  - title: Задържаха 24-годишен мъж от Дунавци с канабис и иззеха 50 кг тютюн без бандерол във Видинско
+    url: https://www.bta.bg/bg/news/bulgaria/1241384-zadarzhaha-24-godishen-mazh-ot-dunavtsi-s-kanabis-i-izzeha-50-kg-tyutyun-bez-ban
+    publisher: БТА
+    date: 2026-11-06
+    language: bg
 open_questions:
   - The report gives no court date, charge sheet or outcome beyond the opening of a pre-trial investigation.
   - Neither account says whether the 58.15 grams were intended for the man's own use or for sale.
@@ -69,27 +74,28 @@ open_questions:
   - The three outlets publish the same Vidin regional police statement, so the accounts are not fully independent.
   - The account gives no weight or plant count for the cannabis in the separate 29 October Vidin case, so none can be recorded there.
   - 'Left out, as its quotation was not found in Българско национално радио, Радио Видин: Shortly after 17:20 on 5 November 2026, officers stopped a car for a check near the village of Archar.'
+  - BTA gives the detention time as about 17:20 but says only "yesterday" (вчера), while its publication date is 6 November 2026, which is consistent with the 5 November date in the report.
+  - The BTA page picture is captioned only with the roundup headline and is credited to the BTA Vidin correspondent's archive, so it is not established to show this seizure and is not linked.
 ---
 
 Police in Vidin Province detained a 24-year-old man from the town of Dunavtsi on
-suspicion of drug possession. [@1] A search of the car's interior found a
-plastic bag of dry green leafy material weighing 58.15 grams. [@1] The driver
-was taken into custody at the Vidin regional police station. [@1]
+suspicion of drug possession. [@1,4] A search of the car's interior found a
+plastic bag of dry green leafy material weighing 58.15 grams. [@1,4] The driver
+was taken into custody at the Vidin regional police station. [@1,4]
 
-A field drug test showed the material was cannabis. [@1] Radio Vidin published
+A field drug test showed the material was cannabis. [@1,4] Radio Vidin published
 the Vidin regional police directorate's own statement, which puts the detention
 on the previous day. [@2]
 
 A pre-trial investigation was opened for an offence under article 354a,
-paragraph 3, of the Criminal Code, which covers drug offences. [@1] Radio Vidin
+paragraph 3, of the Criminal Code, which covers drug offences. [@1,4] Radio Vidin
 reported that work on the case was continuing within the pre-trial
 investigation. [@2]
 
 On the same day separate Vidin officers seized five sacks holding 50 kilograms
 of cut tobacco without excise stamps from a Volkswagen Passat in the village of
 Simeonovo, arresting its 38-year-old driver, a woman from Lom; that is an excise
-offence, not a cannabis offence. [@1] The 24 chasa website published the same
+offence, not a cannabis offence. [@1,4] The 24 chasa website published the same
 BTA account of the Archar arrest and the tobacco seizure in one roundup. [@3] 24
 chasa headlined the account with the Dunavtsi arrest and the 50 kilograms of
 untaxed tobacco. [@3]
-
