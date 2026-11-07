@@ -70,6 +70,11 @@ sources:
     publisher: Glas Srpske
     date: 2026-11-06
     language: sr
+  - title: У СМЕДЕРЕВСКОЈ ПАЛАНЦИ ОТКРИВЕНА ЛАБОРАТОРИЈА ЗА УЗГОЈ МАРИХУАНЕ
+    url: https://palankadanas.com/u-smederevskoj-palanci-otkrivena-laboratorija-za-uzgoj-marihuane/
+    publisher: Паланка данас
+    date: 2026-11-06
+    language: sr
 open_questions:
   - Police did not say when the search took place; 6 November 2026 is the date the Interior Ministry published the statement and is used as the incident date.
   - The total of more than 68 kilograms combines more than 57 kilograms of raw cannabis and more than 11 kilograms of dried cannabis, so the combined weight is a minimum.
@@ -77,18 +82,23 @@ open_questions:
   - The suspect is identified only by initials, S. S., and his age; no plea, charge sheet or court outcome was reported.
   - KoSSev gives no separate facts beyond the ministry statement; the two accounts are not independent.
   - The Kossev page carries one Interior Ministry photo; several further police photos exist on the ministry page but their subjects are not captioned.
+  - The Palanka danas text gives no separate date for the search and arrest; 6 November 2026, when the Interior Ministry statement and this article were published, is used as the incident date.
+  - The article does not say whether the raw cannabis was growing plants, cut plants or unprocessed material, so no plant count is recorded.
+  - The page carries an uncaptioned screen-grab image whose subject is not established, so no media entry is added.
+  - The article repeats the ministry statement and is not an independent account.
+  - No plea, charge sheet or court outcome was reported.
 ---
 
 Police in Smederevska Palanka arrested a 64-year-old local man identified only
-as S. S. after searching his house, yard and outbuildings. [@1,3] The search found
+as S. S. after searching his house, yard and outbuildings. [@1,3,4] The search found
 a laboratory for growing and drying cannabis and more than 68 kilograms of the
-drug in raw and dried form. [@1,3] The Interior Ministry said the operation was
+drug in raw and dried form. [@1,3,4] The Interior Ministry said the operation was
 carried out with the Higher Public Prosecutor's Office in Smederevo. [@2,3]
 
 Officers seized more than 57 kilograms of raw cannabis and more than 11
-kilograms of dried cannabis, along with seeds and flowers of the plant. [@2,3] The
+kilograms of dried cannabis, along with seeds and flowers of the plant. [@2,3,4] The
 suspect is charged with the criminal offence of unauthorised production and sale
 of narcotic drugs. [@2,3]
 
 He was held for up to 48 hours and was then to be brought, with a criminal
-complaint, before the competent higher public prosecutor in Smederevo. [@1,3]
+complaint, before the competent higher public prosecutor in Smederevo. [@1,3,4]
