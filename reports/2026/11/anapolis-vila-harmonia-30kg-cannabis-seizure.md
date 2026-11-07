@@ -54,6 +54,11 @@ sources:
     publisher: Portal Rio Verde Goiás
     date: 2026-11-06
     language: pt
+  - title: Cerca de 30 kg de maconha são apreendidos em Anápolis
+    url: https://www.gynnoticias.com.br/policia/cerca-de-30-kg-de-maconha-sao-apreendidos-em-anapolis/5622
+    publisher: GYN Noticias
+    date: 2026-11-07
+    language: pt
 open_questions:
   - The 30 kg figure is approximate, as the article states ("aproximadamente 30 quilos").
   - No charges, prosecutor referral, court outcome or suspect age and name were published; the case was still under Civil Police investigation.
@@ -62,16 +67,17 @@ open_questions:
   - A DM Anápolis roundup that could not be reopened described the same operation as about 131 kg in total, with about 101 kg at Residencial Verona and 30 kg at the suspect's home in Vila Harmonia, and said the drug was buried in plastic drums covered with zinc sheets; that account is not used for figures here.
   - The page photo is credited only as a reproduction and is not established to show this particular seizure.
   - No street value was published for the drug.
+  - GYN Noticias reports the location as the Harmonia neighbourhood and says the Civil Police did not disclose whether anyone was arrested, while the two earlier accounts record one man arrested, a motorcycle seized and a house searched in Vila Harmonia.
 ---
 
 Civil and military police seized about 30 kilograms of cannabis in the Vila
 Harmonia neighbourhood of Anápolis on the night of Thursday 5 November 2026.
 [@1] Teams came from the Civil Police's Special Group for Narcotics Suppression
-(Genarc) and the Military Police's Specialised Policing Company (CPE). [@1] The
+(Genarc) and the Military Police's Specialised Policing Company (CPE). [@1,3] The
 Rio Verde Goiás portal reported that the operation followed intelligence work
 identifying a vehicle suspected of carrying drugs, and that the Genarc team
 acted with the Military Police's Regional Intelligence Agency (ARI) as well as
-the CPE. [@2]
+the CPE. [@2,3]
 
 Officers stopped a car carrying a couple and their inquiries then led them to a
 property in Vila Harmonia where the drug was found. [@1] Police arrested one man
@@ -82,3 +88,4 @@ The case was to remain under investigation by the Civil Police. [@1] The seizure
 was described as part of the security forces' anti-trafficking operations in
 Anápolis. [@1]
 
+GYN Noticias reported that the Civil Police did not say whether anyone had been arrested in the operation. [@3]
