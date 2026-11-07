@@ -69,6 +69,10 @@ sources:
     url: https://www.cityairnews.com/content/18-arrested-in-tripura-over-attack-on-bsf-personnel-near-bangladesh-border
     publisher: Cityairnews
     date: 2026-11-06
+  - title: 'One more woman arrested for attack on BSF personnel in Tripura - tennews.in: National News Portal'
+    url: https://tennews.in/one-more-woman-arrested-for-attack-on-bsf-personnel-in-tripura/
+    publisher: 'tennews.in: National News Portal'
+    date: 2026-11-07
 open_questions:
   - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
   - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
@@ -90,6 +94,10 @@ open_questions:
   - The eight new arrests are dated to Thursday night and early Friday morning, so the incident date is set to the 6 November publication date of this stage.
   - The article does not say how many of the 18 arrested face the NDPS Act charge specifically, or whether any ganja was recovered in the BSF interception.
   - No court outcome for the eight new arrests was reported beyond production before a Sepahijala court.
+  - No weight, packet count or value for the ganja the BSF intercepted on 2 November was published.
+  - The page's only image carries no caption or credit, so it is not established to show this attack or the arrests and no media entry is added.
+  - The article identifies no specific NDPS Act section and reports no court outcome for the newly arrested woman.
+  - The article says the search parties also aim to seize contraband, but does not say whether any cannabis was found in the 7 November searches.
 ---
 
 Tripura police arrested nine people, including three women, for allegedly
@@ -122,4 +130,6 @@ The BSF complaint names 19 attackers, of whom ten had been arrested and nine rem
 
 Police said the eight newly arrested people would be produced before a local court in Sepahijala district at the earliest. [@6,7] All 18 people arrested have been booked under the Narcotic Drugs and Psychotropic Substances Act, 1985, the Bharatiya Nyaya Sanhita, 2023, and the Prevention of Damage to Public Property Act, 1984. [@6,7] Chief Minister Manik Saha chaired a high-level meeting with senior security officials in Agartala on Thursday night to review the incident and the law and order situation, directing zero tolerance towards cross-border smuggling. [@6,7] One of the alleged attackers was injured in the incident. [@6,7] The attackers allegedly snatched a pump-action gun from one of the BSF personnel, not only attempted to do so. [@6]
 
-The attackers also allegedly snatched a pump-action gun from one of the BSF personnel and damaged a BSF vehicle. [@7] Eight more people were arrested over the attack in Sepahijala district on Thursday night and early Friday morning, taking the total held to 18, including three women. [@7]
+The attackers also allegedly snatched a pump-action gun from one of the BSF personnel and damaged a BSF vehicle. [@7] Eight more people were arrested over the attack in Sepahijala district on Thursday night and early Friday morning, taking the total held to 18, including three women. [@7,8]
+
+A middle-aged woman, Hasina Khatun, was arrested at Kalapania in Sepahijala district on 7 November over the 2 November attack at Ashabari village, taking the number held to 19, police said. [@8] Police said an intensive search operation launched after the 2 November attack was still under way to catch the remaining accused. [@8] Police and the BSF were jointly searching suspected locations, including residences and shops, to catch the accused and seize contraband. [@8] The 2 November interception was of a group alleged to be smuggling ganja across the India-Bangladesh border, after which a mob of around 50 men and women attacked the BSF personnel. [@8] Chief Minister Manik Saha held a series of meetings with senior security officials to review the incident and the state's law and order situation. [@8]
