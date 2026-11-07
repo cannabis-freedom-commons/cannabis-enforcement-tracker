@@ -109,6 +109,11 @@ sources:
     publisher: Kodols
     date: 2026-11-06
     language: lv
+  - title: 'Atrasti 36 kilogrami narkotiku: kā policija Pierīgas mežos uzgāja narkobiznesu'
+    url: https://lasi.lv/par-svarigo/aktuali/atrasti-36-kilogrami-narkotiku-ka-policija-pierigas-mezos-uzgaja-narkobiznesu.50616
+    publisher: LASI.LV
+    date: 2026-11-06
+    language: lv
 open_questions:
   - No separate weight was published for the marijuana, hashish or THC devices, so the combined figure of about 36 kilograms covering all substances is excluded from cannabis figures.
   - The article gives 14, 21 and 23 October without a year; 2026 is inferred from its 5 November 2026 publication.
@@ -129,29 +134,34 @@ open_questions:
   - BNN gives 14, 21 and 23 October without a year; 2026 is inferred from the 5 November 2026 publication date.
   - Kodols gives no separate day for the arrest operation, placing it only at the end of October; police dated it 21 October 2026.
   - Kodols reports the marijuana weight only as almost 16 kilograms, while the State Police figure for marijuana alone is 15.7485 kilograms and does not separately weight the hashish and THC devices.
+  - The submitted page gives no date for the operation itself; 21 October 2026 comes from the earlier State Police account.
+  - The submitted page describes the two people in prison as two of the six organisers, while the existing report, following the police account, counts eight people in total with the two prisoners additional to the six detained.
+  - The submitted page rounds the seizure to 17 kilograms of amphetamine, 15 kilograms of marijuana and 2.5 kilograms of cocaine; the exact police weights are recorded in the existing report's earlier sources.
+  - The submitted page says the Lithuanians had been wanted without saying how many, and does not mention the prison search among the ten searches, listing only homes, cars and forest areas.
+  - The submitted page's lead image is captioned only 'Policija.' with no credit, so it cannot be established to show this seizure and no media entry is added.
 ---
 
 Latvia's State Police detained in Riga, Jurmala and the capital's surroundings a
 criminal group of Latvian and Lithuanian citizens who hid tens of kilograms of
 drugs in barrels buried in the forest. [@1,6,7] On 21 October police detained six
 people in a large-scale operation, after three of them tried to flee but failed
-to escape. [@1,2,6,7,9,10] Two other Latvian members were already imprisoned for other
+to escape. [@1,2,6,7,9,10,11] Two other Latvian members were already imprisoned for other
 crimes but continued to coordinate the activity using banned means of
-communication. [@1,3,4,6,7,8,10] Among the six detained were four Lithuanian citizens and two
+communication. [@1,3,4,6,7,8,10,11] Among the six detained were four Lithuanian citizens and two
 Latvian citizens, born from 1971 to 2003, who police said had no official job in
-Latvia. [@1,2,8] Two detained Lithuanians were wanted in Lithuania at the time, one
-of them internationally wanted for drug trafficking. [@1,3] One detained Latvian
+Latvia. [@1,2,8,11] Two detained Lithuanians were wanted in Lithuania at the time, one
+of them internationally wanted for drug trafficking. [@1,3,11] One detained Latvian
 had been wanted since 28 August for a sexual act against a person under 16 and
-for theft, and was handed over to serve his sentence. [@1] The other detained
+for theft, and was handed over to serve his sentence. [@1,11] The other detained
 Latvian had been released from prison only in spring after serving a sentence
 for a similar drug-trafficking offence. [@1] On 23 October a court imposed
 pretrial custody, the strictest restraint, on five suspects, four Lithuanians
-and one Latvian. [@1,4,6,8,9]
+and one Latvian. [@1,4,6,8,9,11]
 
 Police carried out ten searches at suspects' homes, in cars and in a prison, and
-also examined forest areas. [@1,2,4,6,7,8,9] Officers found about 36 kilograms of various
+also examined forest areas. [@1,2,4,6,7,8,9,11] Officers found about 36 kilograms of various
 narcotic and other controlled substances, including amphetamine, marijuana,
-cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4,6,8,9,10] Officers
+cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4,6,8,9,10,11] Officers
 also seized 34 devices containing the psychoactive substance THC found in
 cannabis, and found most of the substances in barrels buried in the forest. [@1,9]
 State Police said this was the first discovery in the Riga region of such a
