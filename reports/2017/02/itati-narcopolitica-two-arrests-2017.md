@@ -25,6 +25,8 @@ details:
   case_stage: investigation
   date_precision: approximate
   region: Corrientes
+  route: {from: [py], to: [ar]}
+
 data_sources:
   details.activity: [2]
   details.agencies: [1]
@@ -32,6 +34,7 @@ data_sources:
   details.case_stage: [2]
   details.charges: [2]
   details.products: [1]
+  details.route: [1]
   details.setting: [2]
   figures.arrested: [2]
   figures.vehicles: [2]

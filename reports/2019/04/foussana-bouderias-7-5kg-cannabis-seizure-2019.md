@@ -19,11 +19,14 @@ details:
   case_stage: investigation
   products: [{product: hashish, kg: 8}]
   setting: [border]
+  route: {from: [dz], to: [tn]}
+
 data_sources:
   details.activity: [3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [3]
+  details.route: [2, 3]
   details.setting: [1, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

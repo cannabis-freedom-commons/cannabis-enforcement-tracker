@@ -26,11 +26,14 @@ details:
   case_stage: investigation
   products: [{product: flower, kg: 40}]
   setting: [border, street]
+  route: {from: [sz], to: [ke], crossing: "South Africa and Tanzania"}
+
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

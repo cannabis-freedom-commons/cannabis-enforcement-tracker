@@ -36,12 +36,15 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 2857}]
   setting: [port]
+  route: {from: [co], to: [fr], crossing: Venezuela}
+
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.date_precision: [1, 2]
   details.products: [1, 2, 3]
+  details.route: [1]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 status: verified

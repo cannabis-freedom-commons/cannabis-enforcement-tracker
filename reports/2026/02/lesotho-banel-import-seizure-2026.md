@@ -18,11 +18,14 @@ details:
   case_stage: investigation
   products: [{product: flower}]
   setting: [street]
+  route: {from: [th], to: [ls]}
+
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 cfi_id: lesotho-banel-import-seizure-2026

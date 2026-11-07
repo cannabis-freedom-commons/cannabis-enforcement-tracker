@@ -48,12 +48,15 @@ details:
   products:
     - {product: hashish}
   setting: [vehicle, mail]
+  route: {from: [es], to: [it]}
+
 data_sources:
   details.activity: [2, 3, 4, 1, 5]
   details.agencies: [1, 2, 3, 4, 5]
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [1, 3, 4]
   details.products: [2, 3, 4]
+  details.route: [1, 3, 4]
   details.setting: [1, 3, 4, 5, 2]
   figures.arrested: [1, 3, 4]
   figures.value: [1, 3, 5, 2, 4]

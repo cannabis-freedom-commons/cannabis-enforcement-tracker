@@ -23,11 +23,14 @@ details:
   case_stage: charged
   products: [{product: flower, kg: 95.918}]
   setting: [forest, home]
+  route: {from: [us/mi], to: [us/mn]}
+
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.charged: [1]
   figures.value: [1]
