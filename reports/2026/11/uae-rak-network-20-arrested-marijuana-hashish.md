@@ -49,6 +49,11 @@ media:
     media_url: https://cdn.sananews.sy/2026/11/8011664.webp
     publisher: الوكالة العربية السورية للأنباء – سانا
     caption: The page's main picture, captioned with the headline about the UAE seizing an international drug-smuggling network of 20 people; the page carries the emblem of the UAE National Anti-Narcotics Agency rather than a scene of the seizure, and gives no credit.
+  - kind: photo
+    url: https://aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-20-%D9%85%D8%AA%D9%87%D9%85%D8%A7-%D8%A8%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82/4114689
+    media_url: https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/06/thumbs_b_c_3674a9d0abf04f3838b5d70db4e727cb.jpg
+    publisher: Anadolu Ajansı (الأناضول)
+    caption: The Anadolu page's picture, captioned only with the headline about the arrest of 20 suspects for drug smuggling with Iraqi cooperation; the page gives no credit and it is not established to show the seizure.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 046f618050dae4ea03e407090bc5a422
@@ -121,6 +126,11 @@ sources:
     publisher: الترا عراق
     date: 2026-11-06
     language: ar
+  - title: 'الإمارات: القبض على 20 متهما بتهريب المخدرات بعد تعاون مع العراق'
+    url: https://aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-20-%D9%85%D8%AA%D9%87%D9%85%D8%A7-%D8%A8%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D9%85%D8%B9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82/4114689
+    publisher: Anadolu Ajansı (الأناضول)
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -144,17 +154,19 @@ open_questions:
   - The page names no border crossing or border area in Ras Al Khaimah and reports no charges or court stage.
   - The Ultra Iraq page reproduces the UAE state news agency's statement as other outlets did; it attributes no separate Iraqi statement and adds no independent figures.
   - The page's main image is a designed graphic captioned only 'drugs, arrest, UAE', not a photograph of this seizure, so no media entry is added; the other images on the page illustrate unrelated stories.
+  - Anadolu attributes all details to the UAE state news agency WAM and adds no independent account or separate cannabis weight.
+  - The article gives no date for the arrests or interception itself; 6 November 2026 is its publication and announcement date.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
-6 November 2026. [@1,6,7,8,9,10,11,12,13] The suspects are described as holding Gulf, Arab, African
+6 November 2026. [@1,6,7,8,9,10,11,12,13,15] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
 link of the plan, from smuggling to preparation for dealing. [@1,6,10,14]
 
 Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
-surveillance, Shafaq News reported. [@4,5,8,10,11,12,13] The network planned to bring the drugs
+surveillance, Shafaq News reported. [@4,5,8,10,11,12,13,15] The network planned to bring the drugs
 in through a border area of Ras Al Khaimah and then distribute them around the
 country. [@1,8,9,10,12]
 
@@ -168,3 +180,5 @@ Iraq's General Directorate for Narcotics and Psychotropic Substances and the
 Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10,11,12]
 The agency said the operation struck a blow at trafficking networks and called
 on the public to report suspicious activity. [@1]
+
+The network's plan was uncovered after the UAE and Iraq exchanged intelligence, and the operation was run with the police forces of Ras Al Khaimah, Dubai, Sharjah and Ajman as well as Iraq's Interior Ministry narcotics directorate, under judicial coordination with the Federal Public Prosecution. [@15]
