@@ -1,0 +1,94 @@
+---
+code: WN723G
+added_at: "2026-11-07T10:17:39.806948Z"
+date: 2026-11-07
+country: tr
+place: Esenler and Bahçelievler, Istanbul
+coordinates: [41.0395, 28.8855]
+precision: district
+type: seizure
+also: [arrest, raid]
+title: Two Istanbul raids seize 25.09 kg of esrar and 42 kg of a drug precursor
+summary: >-
+  Istanbul anti-narcotics police searched a vehicle in Esenler and a home in Bahçelievler and detained two suspects, seizing 25 kilos 90 grams of esrar, the Turkish name for cannabis, and 42 kilograms of the chemical A-M 2201. The provincial police said the A-M 2201 could have produced 4 tonnes 200 kilograms of synthetic cannabinoid, a part of the case outside this tracker's scope.
+figures:
+  arrested: 2
+  kg_seized: 25.09
+details:
+  agencies: [İstanbul Emniyet Müdürlüğü]
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 25.09}
+  activity: [processing]
+  setting: [vehicle, home]
+  charges: [uyuşturucu veya uyarıcı madde imal ve ticareti]
+  case_stage: investigation
+  date_precision: approximate
+  region: Istanbul
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: f28c9ed22f8f7edea190703c54373f95
+tags: [istanbul, esenler, bahcelievler, esrar, narkotik]
+sources:
+  - title: 'İstanbul''da uyuşturucuya 2 ayrı operasyon: 4 ton 200 kilogramlık üretimde kullanılabilecek ham madde ele geçirildi'
+    url: https://www.iha.com.tr/istanbul-haberleri/istanbulda-uyusturucuya-2-ayri-operasyon-4-ton-200-kilogramlik-uretimde-kullanilabilecek-ham-madde-ele-gecirildi-512417950
+    publisher: İhlas Haber Ajansı
+    date: 2026-11-07
+    language: tr
+  - title: İstanbul Bahçelievler ve Esenler'de Uyuşturucu Operasyonlarında 4 Ton 200 Kilogram Ham Madde Ele Geçirildi
+    url: https://www.mersinhaber.com/haber-istanbul-bahcelievler-ve-esenlerde-uyusturucu-operasyonlarinda-4-ton-200-kilogram-ham-madde-ele-gecirildi/839817
+    publisher: Mersin Haber
+    date: 2026-11-07
+    language: tr
+  - title: Esenler ve Bahçelievler'deki operasyonda 42 kilogram kimyasal madde ele geçirildi
+    url: https://www.haberler.com/guncel/esenler-ve-bahcelievler-deki-operasyonda-42-20404740-haberi/
+    publisher: Haberler.com
+    date: 2026-11-07
+    language: tr
+  - title: İstanbul'da operasyonlarda 42 kilo kimyasal madde ele geçirildi
+    url: https://www.canligaste.com/istanbul-da-operasyonlarda-42-kilo-kimyasal-madde-ele-gecirildi/945086/
+    publisher: Canlı Gaste
+    date: 2026-11-07
+    language: tr
+open_questions:
+  - The reports say the raids took place within 24 hours before the 7 November 2026 publication and give no calendar date, so 7 November 2026 is used as an approximate incident date.
+  - The weight of esrar found in the vehicle in Esenler and in the home in Bahçelievler is not broken down; only a combined 25 kilos 90 grams is given.
+  - Police did not say which suspect was stopped in the vehicle and which was caught at the home, or whether the esrar was being sold or produced.
+  - The accounts do not say what A-M 2201 is beyond a precursor for synthetic cannabinoid, or whether a laboratory was found.
+  - No custody ruling, charge sheet, court outcome or street value was reported; İHA said the suspects were to be sent to court while Anadolu reported they had been sent.
+  - Most outlets reproduced İHA or Anadolu agency copy, so the accounts are not independent reporting.
+  - Anadolu copy describes the precursor as enough for 4 tonnes 200 grams of synthetic drug, against 4 tonnes 200 kilograms in the police statement, so the figure used here is the larger one.
+  - The submitted page image is a generic placeholder and is not established to show this seizure, so no media entry is added.
+---
+
+Istanbul police narcotics officers detained two suspects in two separate
+operations in the Esenler and Bahçelievler districts of Istanbul within 24
+hours. [@1] Officers searched a vehicle in Esenler and a home in Bahçelievler.
+[@1]
+
+The searches found 25 kilos 90 grams of esrar, the Turkish name for cannabis.
+[@1] The same searches found 42 kilograms of a chemical the provincial police
+called A-M 2201. [@2] Istanbul's provincial police said the A-M 2201 would have
+been enough to make 4 tonnes 200 kilograms of synthetic cannabinoid, and that
+the material was stopped before it could be used for production. [@1]
+
+Istanbul police said they ran the two operations to stop drug production and
+trade, block street sales and catch those involved. [@1] Police opened
+proceedings against the two suspects for manufacturing and trading narcotic or
+stimulant substances. [@2] The state news agency Anadolu reported that both
+suspects were sent to court after processing at the police station. [@3]
+
+Canlı Gaste, carrying the Anadolu copy, reported that officers seized the 42
+kilograms of chemical and the 25 kilos 90 grams of esrar in searches of the
+vehicle and the house. [@4]
+
