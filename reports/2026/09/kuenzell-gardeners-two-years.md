@@ -61,10 +61,11 @@ sources:
     language: de
 media:
   - kind: photo
-    url: https://www.fuldaerzeitung.de/assets/images/44/304/44304970-zwei-mitarbeiter-einer-illegalen-cannabis-plantage-sind-jeweils-zu-haftstrafen-verurteilt-worden-43ef.jpg
+    url: https://www.fuldaerzeitung.de/fulda/mehrjaehrige-haftstrafen-fuer-gaertner-von-cannabis-plantage-94516702.html
     archived: https://web.archive.org/web/20261001073152/https://www.fuldaerzeitung.de/assets/images/44/304/44304970-zwei-mitarbeiter-einer-illegalen-cannabis-plantage-sind-jeweils-zu-haftstrafen-verurteilt-worden-43ef.jpg
+    media_url: https://www.fuldaerzeitung.de/assets/images/44/304/44304970-zwei-mitarbeiter-einer-illegalen-cannabis-plantage-sind-jeweils-zu-haftstrafen-verurteilt-worden-43ef.jpg
     publisher: Fuldaer Zeitung
-    caption: Two pixelated men at the defence table during the hearing, with their lawyers. Photograph by Marcus Lotz.
+    caption: "Two pixelated men at the defence table during the hearing, with their lawyers. Photograph by Marcus Lotz."
 ---
 
 The Fulda district court sentenced two men to two years and three months in prison each for working on an illegal cannabis plantation. [@1] The Fuldaer Zeitung reported the hearing on 29 September 2026. Both were 32, and both admitted at the start that they had worked as gardeners in a business hall in Künzell from the beginning of January 2026 until their arrest in April. [@1] Neighbours had smelled cannabis. In the search, police found 703 plants and professional growing equipment. [@1]

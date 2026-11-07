@@ -59,8 +59,9 @@ media:
   - kind: photo
     url: https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/13/pdi-decomisa-811-kilos-de-marihuana-que-eran-internados-desde-bolivia-a-la-region-metropolitana.shtml
     archived: https://web.archive.org/web/20260926154825/https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/13/pdi-decomisa-811-kilos-de-marihuana-que-eran-internados-desde-bolivia-a-la-region-metropolitana.shtml
+    media_url: https://media.biobiochile.cl/wp-content/uploads/2026/09/social-6952651-weed-1200x633.png
     publisher: BioBioChile
-    caption: The marijuana seized by the PDI in San Bernardo
+    caption: "PDI evidence display of plastic-wrapped marijuana bricks in San Bernardo (BioBioChile)."
   - kind: photo
     url: https://www.cooperativa.cl/noticias/pais/policial/drogas/pdi-desarticulo-banda-narco-transnacional-e-incauto-mas-de-800-kilos-de/2026-09-13/135126.html
     publisher: Cooperativa

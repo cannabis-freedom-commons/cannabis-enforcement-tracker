@@ -46,8 +46,9 @@ sources:
 media:
   - kind: photo
     url: https://www.pressalert.ro/2026/09/perchezitii-diicot-dupa-ce-o-cultura-de-canabis-a-fost-gasita-mascata-intr-o-zona-izolata-din-banat/
+    media_url: https://www.pressalert.ro/wp-content/uploads/2026/09/cultura-canabis.jpg
     publisher: Pressalert
-    caption: The cannabis plantation found outside Berzovia
+    caption: "Outdoor cannabis plantation found outside Berzovia (Pressalert / DIICOT)."
   - kind: photo
     url: https://focuspress.ro/cultura-de-canabis-infiintata-intr-o-zona-izolata-s-a-lasat-cu-perchezitii-diicot-ce85bf347/
     publisher: FocusPress

@@ -55,7 +55,8 @@ sources:
     language: en
 media:
   - kind: photo
-    url: https://peopledaily.digital/wp-content/uploads/2026/09/Rolls-of-bhang-hidden-in-rice-768x528.jpg
+    url: https://peopledaily.digital/news/69-rolls-of-bhang-disguised-as-rice-meal-for-remandee-uncovered-at-kitui-police-station
+    media_url: https://peopledaily.digital/wp-content/uploads/2026/09/Rolls-of-bhang-hidden-in-rice-768x528.jpg
     publisher: People Daily
     caption: 'Exhibit photo of the rice container with 69 rolls of bhang and 33 matchsticks laid out and labelled. Photo: DCI via People Daily'
 ---

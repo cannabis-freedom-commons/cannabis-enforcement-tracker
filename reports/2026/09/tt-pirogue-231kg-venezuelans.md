@@ -55,7 +55,8 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilXZf_LrgNnZ6SGstSNoyW_JUSv-Mk-WZGhOpYucQcofBgBvRXyu-k-NyVTY9gyI8TmAQ3wojWM9gZHqFkf6LeAbuKLlpleaP5AUuPTzooi6d25yzM0Fq-tXsG0PY1JVgpNsL-aOelG2W-jHX8XH205D7_ilmRFt9SloB03hT68Ll_jOyJoAqC_Ch_BDXm/s1600/output.jpeg
+    url: http://youthere1news.blogspot.com/2026/09/coast-guard-intercepts-pirogue-with.html
+    media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilXZf_LrgNnZ6SGstSNoyW_JUSv-Mk-WZGhOpYucQcofBgBvRXyu-k-NyVTY9gyI8TmAQ3wojWM9gZHqFkf6LeAbuKLlpleaP5AUuPTzooi6d25yzM0Fq-tXsG0PY1JVgpNsL-aOelG2W-jHX8XH205D7_ilmRFt9SloB03hT68Ll_jOyJoAqC_Ch_BDXm/s1600/output.jpeg
     publisher: Youthere1 News
     caption: 'Seized sealed packages laid out with the Coast Guard crest. Photo: TTCG via Youthere1 News'
 ---

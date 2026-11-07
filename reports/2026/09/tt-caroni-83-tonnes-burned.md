@@ -49,7 +49,8 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rmZjiRfU3uXtESv3bKfZbI0JSSKZAv2GUG-tnJWyDE7T_DPie6cyb4yqgr7smyepNzrQd7-oVk-cPl3TWOzjEACxT7r6_qGcBXxeO_3nt3odTVUKKiMtImNY1S3OyMsuVlVB4hm9Puk4ws-6tIGILkEDfLpsGQp-lS2R1qxOeJZQvsuK_wzjfsZf3v5r/s1600/output.jpeg
+    url: http://youthere1news.blogspot.com/2026/09/police-destroy-83-tonnes-of-illegal.html
+    media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rmZjiRfU3uXtESv3bKfZbI0JSSKZAv2GUG-tnJWyDE7T_DPie6cyb4yqgr7smyepNzrQd7-oVk-cPl3TWOzjEACxT7r6_qGcBXxeO_3nt3odTVUKKiMtImNY1S3OyMsuVlVB4hm9Puk4ws-6tIGILkEDfLpsGQp-lS2R1qxOeJZQvsuK_wzjfsZf3v5r/s1600/output.jpeg
     publisher: Youthere1 News
     caption: 'Narcotics burning at the Caroni Cremation Site destruction exercise. Photo: TTPS via Youthere1 News'
 ---

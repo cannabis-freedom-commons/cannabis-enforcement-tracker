@@ -63,8 +63,9 @@ media:
   - kind: photo
     url: https://www.elheraldo.co/colombia/2026/09/27/policia-nacional-incauto-42-toneladas-de-marihuana-en-el-huila/
     archived: https://web.archive.org/web/20261007112551/https://www.elheraldo.co/colombia/2026/09/27/policia-nacional-incauto-42-toneladas-de-marihuana-en-el-huila/
+    media_url: https://www.elheraldo.co/resizer/v2/YCKEKSMMMFCSNGL26GSWPQTOTA.png?smart=true&auth=9279611be6229bfb61419729852be153bf8443f4eb556661d9c062d9a199d2aa&width=1200&height=675
     publisher: El Heraldo
-    caption: Part of the marijuana found in the truck in Huila
+    caption: "Marijuana bales displayed outside a Policía Nacional antinarcotics building in Huila (El Heraldo)."
   - kind: photo
     url: https://caracol.com.co/2026/09/27/incautan-42-toneladas-de-marihuana-camufladas-en-un-cargamento-de-cal-en-el-huila/
     archived: https://web.archive.org/web/20261007024058/https://caracol.com.co/2026/09/27/incautan-42-toneladas-de-marihuana-camufladas-en-un-cargamento-de-cal-en-el-huila/
