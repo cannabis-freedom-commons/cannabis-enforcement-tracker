@@ -194,6 +194,8 @@ open_questions:
   - The page names no border crossing in Ras Al Khaimah and reports no charges or court stage.
   - The page's feature image is a 2021 stock file that cannot be shown to depict this seizure, so no media entry is added.
   - The page attributes its account to Gulf Times and WAM and adds no independent Iraqi statement.
+  - The Buratha page gives no separate weight or value for the marijuana or hashish; the more than 30 kg figure covers cocaine, crystal, marijuana, hashish and Spice together.
+  - The page reports no charges or court stage and attributes its account to the Emirati state news agency.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
