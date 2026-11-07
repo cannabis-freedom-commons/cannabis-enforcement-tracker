@@ -51,6 +51,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/06/1002533369_1793980111.jpg
     publisher: Dainik Bhaskar
     caption: Ganja plants among a cotton crop in Khandwa, captioned in the article as ganja planted amid the cotton; the page credit is Dainik Bhaskar.
+  - kind: photo
+    url: https://npg.news/madhya-pradesh/khandwa-crime-news-pandhana-police-seized-ganja-plants-kokariya-village-mp-1323898
+    media_url: https://npg.news/h-upload/2026/11/07/1339731-4-ganja.webp
+    publisher: NPG News
+    caption: Ganja plants seized from a cotton field in Kokariya village, Khandwa, as the page shows them; the page credits the photo as edited by NPG News.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 33d76f75f75c4c04c7f20b565c4634d0
@@ -66,6 +71,11 @@ sources:
     publisher: Nai Dunia
     date: 2026-11-07
     language: hi
+  - title: 'कपास के खेतों में उग रहा था डेढ़ क्विंटल गांजा: सोचा नहीं होगा पुलिस ऐसे मारेगी रेड, जानें पूरा मामला'
+    url: https://npg.news/madhya-pradesh/khandwa-crime-news-pandhana-police-seized-ganja-plants-kokariya-village-mp-1323898
+    publisher: NPG News
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives the day as Friday but no separate date; 6 November 2026 is the Friday before its publication and is used as the incident date.
   - The article says police seized the plants but does not say whether they were uprooted and destroyed or kept as evidence after weighing.
@@ -73,11 +83,13 @@ open_questions:
   - The article gives no court appearance, remand order or charge sheet beyond registration of the case.
   - The village is spelled Kokariya in the article and Kakariya as the accused's home address; it is described as a forest village under Pandhana police station.
   - No figure for the field's area or for the cotton it carried was published.
+  - The NPG account does not say whether the uprooted plants were burned or kept as evidence after weighing.
+  - The page photo is captioned only with the article headline and credited as edited by NPG News, so it is linked rather than treated as a cover.
 ---
 
 Pandhana police in Khandwa district, Madhya Pradesh, seized 80 ganja plants from
 a cotton field at Kokariya forest village and arrested a 38-year-old farmer.
-[@1,2] The ganja plants had been planted among the cotton crop. [@1] The raid was
+[@1,2,3] The ganja plants had been planted among the cotton crop. [@1] The raid was
 part of police action in Khandwa district against illegal cultivation of
 narcotic substances, and the farmer was booked under the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act, India's drug law. [@1]
@@ -87,3 +99,5 @@ a quintal is 100 kilograms. [@1,2] Police put the estimated value of the seized
 ganja at about 10 lakh rupees. [@1,2]
 
 The case was registered under sections 8 and 20 of the NDPS Act. [@2] Station house officer Rajkumar Rathore formed a police team and carried out the raid after a tip-off, and the operation was directed by Superintendent of Police Agam Jain and Additional Superintendent of Police Aditya Singhariya under DSP Durgesh Aarmo. [@2] The raid was carried out under the direction of Superintendent of Police Agam Jain and Additional Superintendent of Police Aditya Singhariya, with guidance from DSP Durgesh Aarmo. [@2]
+
+The plants, weighing about 1 quintal 46 kilograms, were pulled up and taken into police custody. [@3]
