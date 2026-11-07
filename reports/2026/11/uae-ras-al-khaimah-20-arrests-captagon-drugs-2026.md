@@ -66,6 +66,11 @@ sources:
     publisher: المصري اليوم
     date: 2026-11-06
     language: ar
+  - title: بالتعاون مع العراق .. الامارات تضبط شبكة دولية لتهريب المخدرات
+    url: https://burathanews.com/arabic/KQn91vyu
+    publisher: Buratha News
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight is published for the marijuana or hashish, so no cannabis quantity can be recorded; the more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
   - No figure is published for how the Captagon pills, other drugs or cannabis are split by weight.
@@ -79,13 +84,13 @@ open_questions:
 ---
 
 Twenty defendants of Gulf, Arab, African and Asian nationalities face
-allegations of belonging to an international criminal network. [@2,5] The network
+allegations of belonging to an international criminal network. [@2,5,7] The network
 was allegedly trying to bring in 200,000 Captagon pills and more than 30
 kilograms of drugs through a border area of the emirate of Ras Al Khaimah for
 distribution inside the country. [@2,4,6]
 
 Alongside the Captagon pills, the haul included varied quantities of cocaine,
-crystal, marijuana, hashish and Spice, a synthetic drug. [@1,5] The operation
+crystal, marijuana, hashish and Spice, a synthetic drug. [@1,5,7] The operation
 began with intelligence exchanged between the UAE and Iraq that revealed a
 multinational network's plan to smuggle large quantities of drugs into the
 country. [@3,5] The authority worked with the Ras Al Khaimah Police General
