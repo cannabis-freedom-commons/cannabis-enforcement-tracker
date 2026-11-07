@@ -55,6 +55,11 @@ sources:
     publisher: الإذاعة الوطنية التونسية (Radio Nationale)
     date: 2026-11-07
     language: ar
+  - title: 'نابل: القبض على مجرم خطير مفتّش عنه من أجل ترويج المخدرات وتبييض الأموال ومسك سلاح ناري بدون رخصة'
+    url: https://www.babnet.net/cadredetail-339241.asp
+    publisher: Babnet
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The 500 kg of cannabis resin, about 5,000 slabs, the pistol and the money belong to an earlier drug case behind the warrants; the source does not say when or where that seizure happened or whether this man was present.
   - Only the arrest on Saturday 7 November 2026 is dated; the article says the arrest happened today and 7 November is also its publication date.
@@ -65,18 +70,22 @@ open_questions:
   - The page image is a generic arrest picture from the outlet from February 2024, not shown to depict this arrest, so no media entry is included.
   - Both newly cited accounts, from Mosaique FM and Radio Nationale, reproduce the same TAP agency statement and add no independent reporting, so the sequence of the arrest and the details of the earlier 500 kg case remain as previously reported.
   - Mosaique FM describes the 500 kg only as cannabis and gives no slabs-to-resin conversion, so the report keeps the resin characterisation and the 500 kg weight as stated.
+  - Mosaique FM tags the text with the TAP agency's initials and adds no new facts, so it is another reproduction of the agency statement rather than independent reporting.
+  - Babnet publishes the TAP text with an auto-generated photo address that carries no caption or credit identifying the arrest, so no media entry is added for it.
 ---
 
 The Nabeul regional anti-drug brigade arrested a suspect wanted on four search
 warrants in Marazga, part of the Hammamet delegation, a security source told the
-TAP news agency. [@1,2] The four warrants were issued over drug trafficking, money
-laundering, possessing a firearm without a licence and forgery. [@1,2] The source
+TAP news agency. [@1,2,4] The four warrants were issued over drug trafficking, money
+laundering, possessing a firearm without a licence and forgery. [@1,2,4] The source
 said the suspect was arrested after officers traced his new residence in
 Marazga, where he had taken refuge after fleeing his home in the La Marsa suburb
-of the capital. [@1,2]
+of the capital. [@1,2,4]
 
 The case data showed he was involved in a drug case in which officers seized 500
 kg of cannabis resin, about 5,000 slabs, as well as a pistol and a significant
-sum of money. [@1,2]
+sum of money. [@1,2,4]
 
 The National Radio of Tunisia published a second account of the same arrest on 7 November, attributing the security source's statement to the TAP agency. [@3]
+
+Mosaique FM published the same TAP agency statement on 7 November, describing the 500 kg only as cannabis and marking the text with the agency's initials. [@2] Babnet republished the same TAP report under the headline that the man was wanted for trafficking, money laundering and unlicensed possession of a firearm, without adding a date, name or court outcome. [@4]
