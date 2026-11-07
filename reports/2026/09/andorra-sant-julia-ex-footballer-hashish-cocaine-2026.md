@@ -49,17 +49,25 @@ sources:
     publisher: L'Indépendant
     date: 2026-09-25
     language: fr
+  - title: 'Il se rendait en Andorre environ deux fois par mois pour vendre la drogue : cannabis, cocaïne... un ancien footballeur international arrêté pour trafic de stupéfiants'
+    url: https://www.ladepeche.fr/2026/09/28/il-se-rendait-en-andorre-environ-deux-fois-par-mois-pour-vendre-la-drogue-cannabis-cocaine-un-ancien-footballeur-international-arrete-pour-trafic-de-13572958.php
+    publisher: La Dépêche du Midi
+    date: 2026-09-28
+    language: fr
 open_questions:
   - The paper gives the hashish as 200 g without saying whether that is an exact weight; 0.2 kg is recorded for it.
   - No cannabis-only money value for the hashish was published.
   - Police did not disclose the suspect's name, but the paper describes him as a well-known former national-team footballer, so he may be identifiable locally.
   - The exact place of the arrest within Sant Julià, the court's reasoning and any charge beyond the public-health offence were not reported; the case awaits further court decisions.
   - No weight was published for any other cannabis product, so no hashish-oil or edibles quantities are recorded.
+  - La Dépêche du Midi says he was placed in detention, while the earlier report describes pretrial detention; the paper does not say whether a judge ordered it.
+  - The twice-monthly trips are attributed to the prosecution case only, and the paper's headline puts the figure at about two trips a month while its standfirst says several trips a month.
+  - The paper is paywalled after its opening paragraphs, so any further details it carries could not be read.
 ---
 
 Andorran police arrested a 43-year-old former international footballer in Sant
 Julià on Wednesday 23 September 2026 and placed him in pretrial detention on
-suspicion of drug trafficking. [@1] When he was stopped he was carrying 200
+suspicion of drug trafficking. [@1,2] When he was stopped he was carrying 200
 grams of hashish and 11 grams of cocaine, all of it vacuum-packed. [@1] His
 identity was not made public; the paper describes him as a well-known figure in
 the principality who played for Andorra's national football team. [@1]
@@ -73,3 +81,4 @@ reports that most drug seizures in Andorra happen at customs posts on the
 Spanish and French borders, mostly small personal amounts carried by tourists
 and non-residents. [@1]
 
+La Dépêche du Midi reports that the hashish and the cocaine were found in the boot of his car. [@2] According to the paper, he allegedly travelled to Andorra about twice a month to sell drugs. [@2]
