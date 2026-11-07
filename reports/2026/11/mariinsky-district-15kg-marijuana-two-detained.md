@@ -46,7 +46,7 @@ media:
     media_url: https://user.vse42.ru/files/P_S1280x966q80/Wnone/ui-6aeebb171c7a80.11288777.jpeg
     publisher: VSE42.RU
     caption: 'Second photo in the police handout about the 1.5 kg marijuana seizure in Mariinsky District, Kemerovo Oblast. Photo: Main Directorate of the Ministry of Internal Affairs for Kemerovo Oblast'
-status: verified
+status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: adb772ce68eddffdec6bf75e015a3173
 tags: [mariinsk, kemerovo-oblast, kuzbass, marijuana, article-228]
@@ -61,6 +61,16 @@ sources:
     publisher: TVGram (ЧП Инцидент Кузбасс)
     date: 2026-11-07
     language: ru
+  - title: В Мариинске сотрудники полиции изъяли у местных жителей 1,5 кг марихуаны
+    url: https://vk.ru/wall-174903079_47672
+    publisher: Лента новостей Кемерово | Новости Кемерово
+    date: 2026-11-07
+    language: ru
+  - title: В Мариинске сотрудники полиции изъяли у местных жителей 1,5 кг марихуаны
+    url: https://t.me/gumvd42/11956
+    publisher: Полиция Кузбасса
+    date: 2026-11-07
+    language: ru
 open_questions:
   - Both accounts say the men were detained "накануне" (the day before), so 6 November 2026 is inferred for the searches; 7 November is the publications' date.
   - Neither account names the settlement in Mariinsky District where the two men lived.
@@ -69,20 +79,24 @@ open_questions:
   - No court outcome, measure of restraint, or information on whether the two criminal cases were merged was reported.
   - Both outlets reproduce the same regional police statement, and the two photos published with the VSE42.RU report are police handout images.
   - The men are identified only by age; no names were published.
+  - The submitted page and the Police of Kuzbass channel give no date for the searches; they were posted on 7 November 2026 and describe the operations as carried out "накануне" (the day before), so 6 November remains inferred for the searches.
+  - Neither the submitted page nor the Police of Kuzbass channel names the settlement in Mariinsky District where the two men lived.
+  - В Мариинске сотрудники полиции изъяли у местных жителей 1,5 кг марихуаны (Полиция Кузбасса) could not be opened again to check its quotations (the browser-rendered page has almost no readable article text (it may require a login, show an access challenge, or contain only media); archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
 ---
 
 Police in Mariinsky District, Kemerovo Oblast, detained two local men, aged 49
 and 51, at their homes on 6 November after a tip-off about drugs in one of the
 district's villages. [@1] The police account says officers received information
 about drugs being stored and traced it to two men they knew, aged 49 and 51,
-then found three packets of cannabis in their homes. [@2]
+then found three packets of cannabis in their homes. [@2,3]
 
 Officers found and seized three packets of cannabis during the searches, and
-testing put the total mass of the marijuana at 1.5 kg. [@1] The Kemerovo Oblast
-police said the two men had prepared the cannabis for their own use. [@1]
+testing put the total mass of the marijuana at 1.5 kg. [@1,3] The Kemerovo Oblast
+police said the two men had prepared the cannabis for their own use. [@1,4]
 
 Criminal cases for storing drugs in a large amount were opened against the men,
 an offence the police said carries up to 10 years in prison. [@1] A separate
 criminal case was opened against each man, and both face up to ten years in
 prison. [@2]
 
+The investigating officer of the Mariinsky interior division opened a criminal case against each suspect under part 2 of article 228 of the Criminal Code, which covers unlawful acquisition, storage, transport, making and processing of drugs. [@3]
