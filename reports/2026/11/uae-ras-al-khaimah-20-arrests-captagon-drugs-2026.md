@@ -96,6 +96,11 @@ sources:
     publisher: زاد الاردن الاخباري - أخبار الأردن
     date: 2026-11-07
     language: ar
+  - title: الإمارات تفكك شبكة دولية لتهريب المخدرات وتلقي القبض على 20 متهماً بالتعاون مع العراق
+    url: https://emirates24.net/local/0711/128237/
+    publisher: الإمارات 24
+    date: 2026-11-07
+    language: ar
 open_questions:
   - No separate weight is published for the marijuana or hashish, so no cannabis quantity can be recorded; the more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
   - No figure is published for how the Captagon pills, other drugs or cannabis are split by weight.
@@ -120,6 +125,8 @@ open_questions:
   - The Jordanian page gives no date for the interception or the arrests; 6 November 2026, the announcement date used by the existing report, remains the incident date, while 7 November is this page's publication date.
   - The page reproduces the UAE anti-narcotics agency statement and gives no separate weight or street value for the marijuana or hashish; its figure of more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
   - The page's feature image has no caption or credit and is not established to show this seizure, so no media entry is added.
+  - The Emirates24 page gives no separate weight or street value for the marijuana or hashish; its figure of more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
+  - The page gives no date for the interception or the arrests; 6 November 2026 is the announcement date and 7 November 2026 is the page's publication date.
 ---
 
 Twenty defendants of Gulf, Arab, African and Asian nationalities face
@@ -141,3 +148,5 @@ Security teams caught some members in the act of holding the drugs and trying to
 smuggle them, while the rest were arrested inside the country in ambushes. [@1,5,9]
 The authority said the operation struck smuggling and trafficking networks and
 that there is no place for drug traders on UAE soil. [@1,9]
+
+The National Anti-Narcotics Authority ran the operation with the police forces of Ras Al Khaimah, Dubai, Sharjah and Ajman and with the Iraqi Interior Ministry's narcotics directorate, under judicial coordination with the Federal Public Prosecution. [@13]
