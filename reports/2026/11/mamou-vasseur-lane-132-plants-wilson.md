@@ -91,6 +91,10 @@ sources:
     url: https://www.yahoo.com/news/videos/over-100-marijuana-plants-seized-180837510.html
     publisher: Yahoo News (KLFY Lafayette)
     date: 2026-11-06
+  - title: Major marijuana grow operation bust
+    url: https://www.kalb.com/video/2026/11/06/major-marijuana-grow-operation-bust/
+    publisher: KALB
+    date: 2026-11-06
 open_questions:
   - The arrest date is not given; deputies arrested the man “later on”, after the 2 November search, so 2 November is the raid date and not necessarily the arrest date.
   - The 971 grams is described only as marijuana; no source separates plants from dried product or says what of the 132 plants was uprooted rather than taken.
@@ -105,6 +109,7 @@ open_questions:
   - The Yahoo page is a syndicated copy of KLFY's Nexstar article, not an independent second account.
   - The arrest date remains unstated beyond deputies finding Wilson "later on" after the 2 November search.
   - The capture gives no court date or outcome; the case was at the charge stage.
+  - The submitted page is a video item whose only text is a one-sentence caption; its direct video address could not be recovered from the page markup, so no media link is given.
 ---
 
 Deputies of the Evangeline Parish Sheriff’s Office searched a camper and three
@@ -113,7 +118,7 @@ tip that a greenhouse there held a large amount of marijuana. [@1,2,3,5,6] The o
 42-year-old Jimmy Lynn Wilson, was the sole resident of the camper and land and
 was not there during the search. [@1]
 
-Deputies seized 132 marijuana plants and 971 grams of marijuana. [@1,2] They also
+Deputies seized 132 marijuana plants and 971 grams of marijuana. [@1,2,7] They also
 took two rifles, a Remington Model 700 .270 and a Savage Model 19 .22 Long
 Rifle, and 45 kratom capsules. [@1,2] The sheriff’s office put the street value of
 the drugs at about $32,450. [@1,2]
