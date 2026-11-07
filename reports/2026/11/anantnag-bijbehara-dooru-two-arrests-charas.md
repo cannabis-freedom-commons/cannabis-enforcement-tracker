@@ -43,6 +43,14 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-07
     language: hi
+  - title: J&K Police intensify crackdown on drug trafficking
+    url: https://kashmirreader.com/2026/11/07/jk-police-intensify-crackdown-on-drug-trafficking/
+    publisher: Kashmir Reader
+    date: 2026-11-07
+  - title: Continuing crackdown on drug trafficking, Anantnag Police arrests 02 drug peddlers in Bijbehara & Dooru. Heroin & charas recovered.
+    url: https://x.com/AnantnagPolice/status/2118609921579327943
+    publisher: Anantnag Police (X)
+    date: 2026-11-06
 open_questions:
   - The article gives no separate date for the two operations; 7 November 2026 is its publication date and is used as the incident date.
   - The charas weights are given as approximately 22.4 grams and three grams, so the total is approximate.
@@ -50,22 +58,23 @@ open_questions:
   - The article does not say whether the charas was meant for sale or personal use; trafficking is inferred from the police framing of the cases as drug-smuggling operations.
   - The page's only picture is a 2021 file image of Srinagar carrying a generic headline, so no media entry is included.
   - Only one accessible account of this event was found; web searches returned no second report or police statement.
+  - Kashmir Reader gives approximately 27 as the Dooru suspect's age, matching the existing report's figure.
+  - The Anantnag Police post was published on 6 November 2026, supporting that date for the operations, while the existing report uses the 7 November publication date as a fallback.
 ---
 
 Anantnag police in Jammu and Kashmir arrested two suspects in separate
 operations in the district's Bijbehara and Dooru areas and recovered heroin and
-charas from them. [@1]
+charas from them. [@1,3]
 
 A Bijbehara police station team arrested a resident of Sheikh Mohalla,
-Bijbehara, at Tul Khan Crossing during a checkpost inspection. [@1] A search
+Bijbehara, at Tul Khan Crossing during a checkpost inspection. [@1,2] A search
 found about 22.4 grams of charas, a cannabis resin, on the Bijbehara suspect,
 and an NDPS Act case was registered at Bijbehara police station. [@1]
 
 In a second operation, Dooru police arrested a 27-year-old resident of Khudamam,
-Dooru. [@1] A search found about four grams of heroin and three grams of charas
+Dooru. [@1,2] A search found about four grams of heroin and three grams of charas
 on the Dooru suspect, and an FIR was registered at Dooru police station. [@1]
 
 Police said investigations in both cases were continuing and that officers were
 trying to trace the forward and backward contacts of the trafficking network.
-[@1]
-
+[@1,2]
