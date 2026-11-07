@@ -77,6 +77,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-07
     language: tr
+  - title: 'JANDARMADAN UYUŞTURUCU OPERASYONU: 7 KİLO 108 GRAM ESRAR ELE GEÇİRİLDİ'
+    url: https://www.yozgatgazetesi.com/iha-haberleri/jandarmadan-uyusturucu-operasyonu-7-kilo-108-gram-esrar-ele-gecirildi-301660.html
+    publisher: Yozgat Gazetesi
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports give no separate date for the raids; 7 November 2026 is the publication date and is used as the incident date.
   - No charge, court step, suspect name or estimated value of the cannabis was published; the investigation was said to be continuing.
@@ -89,13 +94,14 @@ open_questions:
   - The video's pictures could not be checked frame by frame, so it is listed as Sabah's report on this operation rather than as footage confirmed to show the seized esrar.
   - The article gives no separate date for the raids; 7 November 2026 is its publication date and is used as the incident date, as in the existing report.
   - The page photo is captioned only with the headline and has no photographer or agency credit, so whether it shows this seizure is not established and no media entry is added.
+  - The page images carry only the headline as a caption and no photographer or agency credit, and they could not be distinguished from the Habertürk page image already listed, so no media entries are added.
 ---
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses
 identified in Seyhan, a central district of Adana province, in a continuing
-anti-smuggling and anti-drug campaign. [@1,4,5,6] Searches at the two addresses turned
+anti-smuggling and anti-drug campaign. [@1,4,5,6,7] Searches at the two addresses turned
 up 7,108 grams of kubar esrar, a pressed form of cannabis known in Turkey as
-esrar. [@1,4,5,6] Gendarmes detained two suspects in the operation. [@1,4,5,6]
+esrar. [@1,4,5,6,7] Gendarmes detained two suspects in the operation. [@1,4,5,6]
 
 The investigation into the case was continuing. [@1,5,6] The gendarmerie command
 said its teams were continuing their work against smuggling and drugs. [@2] The
