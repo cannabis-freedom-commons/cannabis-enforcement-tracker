@@ -39,6 +39,11 @@ media:
     media_url: https://newsmeter.in/video_upload/video_upload-446382.mp4
     publisher: NewsMeter
     caption: Video published with NewsMeter's report on the arrest of alleged ganja peddler Neethu Bai; the page gives no separate video caption or credit.
+  - kind: photo
+    url: https://telugu.abplive.com/crime/hyderabad-eagle-force-arrests-nanakramguda-ganja-queen-kalapathi-nithu-bai-263228/amp
+    media_url: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/07/c5661146f482d62eab6dacd4f2c94aa317940609567221409_original.jpg?impolicy=abp_cdn&imwidth=470
+    publisher: ABP Desam
+    caption: 'Split image used by ABP Desam with its report: on the left a woman seated beside bundles of currency notes, on the right blue plastic bags of what appears to be dried cannabis and cardboard-wrapped blocks. The page gives no separate caption or credit.'
 details:
   activity: [trafficking]
   agencies: [in-excise, in-eagle]
@@ -134,6 +139,11 @@ sources:
     publisher: Disha Daily (దిశ)
     date: 2026-11-07
     language: te
+  - title: 'Ganja Queen Arrest: రోజుకు రూ. 24 లక్షల గంజాయి దందా.. 30కి పైగా కేసులు.. లేడీ డాన్ నీతూ బాయ్‌ అరెస్ట్'
+    url: https://telugu.abplive.com/crime/hyderabad-eagle-force-arrests-nanakramguda-ganja-queen-kalapathi-nithu-bai-263228/amp
+    publisher: ABP Desam
+    date: 2026-11-07
+    language: te
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
@@ -194,10 +204,12 @@ open_questions:
   - Disha Daily gives no day for the arrest; the report keeps 5 November 2026 from the earlier accounts, while Disha attributes the operation to the EAGLE Force and the handover to the Cyberabad Narcotics Police Station.
   - Disha Daily puts the cases against her at about 12 in the last two years as well as about 30 in total, and the two figures are not reconciled with the 31 cases since 2018 recorded from The Hindu.
   - The Disha Daily page image is captioned only with the headline and carries no credit, so it cannot be confirmed to show the arrest and no media entry is added.
+  - ABP Desam gives no age for Nithu Bai and no figure for the cash found on her at the arrest.
+  - ABP Desam's only image is captioned with the headline and carries no credit, so its provenance is not documented beyond the page.
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
-(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2,5,6,7,12]
+(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2,5,6,7,12,17]
 Bai had been absconding for more than a year. [@1] EAGLE personnel traced her to
 a hideout after a tip-off. [@1] Officers found no narcotic substances on her,
 though they seized ₹1 lakh in cash. [@1,2,4,5,10]
@@ -236,3 +248,5 @@ Siasat reported that Bai was remanded to judicial custody after the arrest. [@13
 In three earlier operations linked to the family, police seized ₹67 lakh in cash and 51.5 kg of ganja. [@14] Police say she allegedly made sales worth ₹24 lakh in a single day, and that a currency counting machine and a drug weighing machine were part of the operation. [@14] Police also caught around 50 alleged customers visiting her residence. [@14]
 
 Disha Daily, quoting EAGLE Force director Sandeep Shandilya, reported that about 12 cases were registered against her in the last two years alone by Gachibowli police, the EAGLE Force and Excise units. [@16] Shandilya said police were examining the construction documents and the source of funds for the buildings and were taking steps to confiscate all the properties acquired with drug money under the law. [@16]
+
+The currency counting machines and digital weighing machines she used in a business dealing in ₹24 lakh worth of ganja a day were also seized, the article said. [@17] She was arrested in an autorickshaw travelling towards Mangalhat, the area adjoining Asif Nagar. [@17]
