@@ -52,12 +52,30 @@ sources:
     publisher: 7Segundos
     date: 2026-11-06
     language: pt
+  - title: Homem é preso com cocaína, maconha e crack em residência na zona rural de Craíbas
+    url: https://nn1.com.br/2026/11/6/homem-e-preso-com-cocaina-maconha-e-crack-em-residencia-na-zona-rural-de-craibas
+    publisher: NN1
+    date: 2026-11-06
+    language: pt
+  - title: Polícia flagra cocaína, maconha e crack na residência de acusado de tráfico
+    url: https://www.alagoas24horas.com.br/1773029/policia-flagra-cocaina-maconha-e-crack-na-residencia-de-acusado-de-trafico/
+    publisher: Alagoas 24 Horas
+    date: 2026-11-06
+    language: pt
+  - title: Movimentação frequente em residência leva à prisão de homem por tráfico em Craíbas
+    url: https://www.tnh1.com.br/noticia/nid/movimentacao-frequente-em-residencia-leva-a-prisao-de-homem-por-trafico-em-craibas/
+    publisher: TNH1
+    date: 2026-11-06
+    language: pt
 open_questions:
   - Only one account of this arrest could be found; no Military Police statement page or second outlet report was opened.
   - No figure was given for the crack found inside the house, and the cocaine and crack weights are excluded from the cannabis total.
   - The age and initials of the man are published but he is not named, and no court outcome beyond the arrest in flagrante is reported.
   - The article reports that the house owner and his partner had previously been arrested on suspicion of drug-trafficking involvement; those earlier arrests are a separate matter and are not counted here.
   - Craíbas town centre coordinates are used for the rural Povoado Ipojuca settlement.
+  - Em Tempo reports that officers reached the address at about 18h30, a timing detail the other accounts omit; it does not contradict them.
+  - The NN1 page photo is credited only to Ascom 3°BPM and the text does not establish which seized items it shows, so no additional media entry is proposed.
+  - No court decision, charge sheet or custody ruling beyond the arrest in flagrante is reported in these accounts.
 ---
 
 A 30-year-old man was arrested in flagrante for drug trafficking on the night of
@@ -76,9 +94,10 @@ discarded bag with portions of marijuana and cocaine. [@1] Questioned, the
 suspect admitted the drugs were his. [@1]
 
 Officers seized 25 portions of marijuana weighing 96 grams, and in the arrest
-report the Cannabis sativa plant is listed as the drug seized. [@1] The same
+report the Cannabis sativa plant is listed as the drug seized. [@1,2] The same
 seizure took 98 bags of cocaine weighing about 100 grams and one crack stone of
-77 grams; these weights are not counted as cannabis. [@1] The man and all the
+77 grams; these weights are not counted as cannabis. [@1,3] The man and all the
 material were taken to the Central de Polícia, where an arrest in flagrante
 (APF) for drug trafficking was recorded. [@1]
 
+The man was left at the disposal of the courts after being charged in flagrante at the Central de Polícia, TNH1 reported. [@4] Police said the owner of the house and his partner had already been arrested on suspicion of drug trafficking. [@3]
