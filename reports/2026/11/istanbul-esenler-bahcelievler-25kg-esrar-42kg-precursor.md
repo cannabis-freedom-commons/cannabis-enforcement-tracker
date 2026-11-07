@@ -65,6 +65,11 @@ sources:
     publisher: Aksiyon
     date: 2026-11-07
     language: tr
+  - title: 'İstanbul''da 2 ayrı narkotik operasyonu: toplam 67 kilo uyuşturucu ele geçirildi'
+    url: https://www.dha.com.tr/yerel-haberler/istanbul/istanbulda-2-ayri-narkotik-operasyonu-toplam-2976992
+    publisher: DHA (Demirören Haber Ajansı)
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports say the raids took place within 24 hours before the 7 November 2026 publication and give no calendar date, so 7 November 2026 is used as an approximate incident date.
   - The weight of esrar found in the vehicle in Esenler and in the home in Bahçelievler is not broken down; only a combined 25 kilos 90 grams is given.
@@ -76,15 +81,18 @@ open_questions:
   - The submitted page image is a generic placeholder and is not established to show this seizure, so no media entry is added.
   - Aksiyon described the suspects as to be sent to court after police processing, while the Anadolu copy already cited in the report said they had been sent; the report keeps both accounts.
   - Aksiyon's wording of the synthetic potential differed between its summary and body (4 tonnes 200 kilograms against 4 tonnes 200 grams), a discrepancy already recorded in the report.
+  - DHA's headline gives a combined 67 kilograms, but only 25 kilos 90 grams of it is esrar; the rest is the A-M 2201 precursor for synthetic cannabinoid and is excluded from cannabis figures.
+  - DHA says the suspects would be sent to court (sevk edilecek), while other accounts already cited in the report said they had been sent.
+  - The DHA page picture is captioned with the headline only, so it is not established to show this seizure and no media entry is added.
 ---
 
 Istanbul police narcotics officers detained two suspects in two separate
 operations in the Esenler and Bahçelievler districts of Istanbul within 24
-hours. [@1,5] Officers searched a vehicle in Esenler and a home in Bahçelievler.
-[@1]
+hours. [@1,5,6] Officers searched a vehicle in Esenler and a home in Bahçelievler.
+[@1,6]
 
 The searches found 25 kilos 90 grams of esrar, the Turkish name for cannabis.
-[@1] The same searches found 42 kilograms of a chemical the provincial police
+[@1,6] The same searches found 42 kilograms of a chemical the provincial police
 called A-M 2201. [@2] Istanbul's provincial police said the A-M 2201 would have
 been enough to make 4 tonnes 200 kilograms of synthetic cannabinoid, and that
 the material was stopped before it could be used for production. [@1]
