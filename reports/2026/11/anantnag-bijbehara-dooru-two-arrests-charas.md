@@ -51,6 +51,14 @@ sources:
     url: https://x.com/AnantnagPolice/status/2118609921579327943
     publisher: Anantnag Police (X)
     date: 2026-11-06
+  - title: Seven drug peddlers arrested in six operations
+    url: https://brighterkashmir.com/seven-drug-peddlers-arrested-in-six-operations
+    publisher: Brighter Kashmir
+    date: 2026-11-07
+  - title: 7 drug-peddlers arrested in Handwara, Anantnag
+    url: https://www.dailyexcelsior.com/7-drug-peddlers-arrested-in-handwara-anantnag
+    publisher: Daily Excelsior
+    date: 2026-11-07
 open_questions:
   - The article gives no separate date for the two operations; 7 November 2026 is its publication date and is used as the incident date.
   - The charas weights are given as approximately 22.4 grams and three grams, so the total is approximate.
@@ -60,6 +68,10 @@ open_questions:
   - Only one accessible account of this event was found; web searches returned no second report or police statement.
   - Kashmir Reader gives approximately 27 as the Dooru suspect's age, matching the existing report's figure.
   - The Anantnag Police post was published on 6 November 2026, supporting that date for the operations, while the existing report uses the 7 November publication date as a fallback.
+  - The page carries a Srinagar Nov 6 dateline but was published on 7 November 2026; the existing Anantnag report uses 7 November as a fallback while the Anantnag Police post cited there points to 6 November for the operations.
+  - No weight is given for any Handwara seizure, so no cannabis quantity from Handwara is recorded; the 4 grams of heroin in the Dooru case is not cannabis and is excluded from cannabis totals.
+  - The submitted page lists one image with no caption or credit, so it cannot be established to show this event and no media entry is included.
+  - 'Not added to handwara-five-arrests-charas-operations, as its quotation was not found in Daily Excelsior: At Wanigam Crossing, officers held Danish Parvaiz Parra of Budra Bala and recovered a cannabis (Khashkhash)-like substance from him.'
 ---
 
 Anantnag police in Jammu and Kashmir arrested two suspects in separate
@@ -67,14 +79,14 @@ operations in the district's Bijbehara and Dooru areas and recovered heroin and
 charas from them. [@1,3]
 
 A Bijbehara police station team arrested a resident of Sheikh Mohalla,
-Bijbehara, at Tul Khan Crossing during a checkpost inspection. [@1,2] A search
+Bijbehara, at Tul Khan Crossing during a checkpost inspection. [@1,2,4] A search
 found about 22.4 grams of charas, a cannabis resin, on the Bijbehara suspect,
-and an NDPS Act case was registered at Bijbehara police station. [@1]
+and an NDPS Act case was registered at Bijbehara police station. [@1,5]
 
 In a second operation, Dooru police arrested a 27-year-old resident of Khudamam,
-Dooru. [@1,2] A search found about four grams of heroin and three grams of charas
-on the Dooru suspect, and an FIR was registered at Dooru police station. [@1]
+Dooru. [@1,2,4] A search found about four grams of heroin and three grams of charas
+on the Dooru suspect, and an FIR was registered at Dooru police station. [@1,5]
 
 Police said investigations in both cases were continuing and that officers were
 trying to trace the forward and backward contacts of the trafficking network.
-[@1,2]
+[@1,2,4]

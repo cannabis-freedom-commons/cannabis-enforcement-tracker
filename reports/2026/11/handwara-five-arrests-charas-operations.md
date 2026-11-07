@@ -56,6 +56,10 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-07
     language: hi
+  - title: Seven drug peddlers arrested in six operations
+    url: https://brighterkashmir.com/seven-drug-peddlers-arrested-in-six-operations
+    publisher: Brighter Kashmir
+    date: 2026-11-07
 open_questions:
   - No weight, value or packaging detail was published for any of the three seizures, so no cannabis quantity is recorded.
   - The article gives a Handwara Nov 06 dateline and 6 November 2026 publication date with no separate time for the checks; 6 November 2026 is used as the incident date.
@@ -69,20 +73,21 @@ open_questions:
   - Amar Ujala calls the Wanigam recovery bhang while the police statement published in English called it a cannabis (Khashkhash)-like substance; no forensic confirmation of the substance is reported.
   - The Amar Ujala page gives no date for the three checks; 7 November 2026 is its publication date and it does not change the report's 6 November date.
   - Amar Ujala's page picture is a Srinagar file image dated November 2021, not a picture of these arrests, so no media is linked from it.
+  - Daily Excelsior drops the -like qualifier used in Brighter Kashmir, calling the recoveries charas and charas powder and a cannabis (Khashkhash); no forensic confirmation is reported in either account.
 ---
 
 Handwara police arrested five suspects in three separate checkpoint operations
 run by Kralgund police station and Chogul police post. [@1,2,3] At Khanu Babagund,
 officers held Abid Hussain Mir of Tarathpora and Rouf Mushtaq Bhat of Khanu
-during naka checking. [@1] Charas-like substance and charas powder-like
-substance were recovered from the pair's possession. [@1] At Wanigam Crossing,
+during naka checking. [@1,4] Charas-like substance and charas powder-like
+substance were recovered from the pair's possession. [@1,4] At Wanigam Crossing,
 officers held Danish Parvaiz Parra of Budra Bala and recovered a cannabis
 (Khashkhash)-like substance from him. [@1]
 
 At Watyen, in Chogul's jurisdiction, police intercepted a motorcycle bearing
-registration number PB08CQ-8150 travelling from Sopore towards Kupwara. [@1]
+registration number PB08CQ-8150 travelling from Sopore towards Kupwara. [@1,4]
 Officers held Mohd. Jahangir Sadeeqi and Mohd. Haseemu Din, both Bihar
-residents, and recovered a charas-like substance during the check. [@1] Police
+residents, and recovered a charas-like substance during the check. [@1,4] Police
 registered FIR No. 78/2026 under Sections 8/20-29 of the NDPS Act at Kralgund
 over the Khanu Babagund seizure. [@1] Police registered FIR No. 79/2026 under
 Section 8/15 of the NDPS Act at Kralgund over the Wanigam seizure. [@1] Police
