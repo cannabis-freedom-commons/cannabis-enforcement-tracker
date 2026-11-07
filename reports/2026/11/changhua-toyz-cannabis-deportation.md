@@ -457,6 +457,11 @@ sources:
     publisher: FTNN 新聞網
     date: 2026-11-07
     language: zh
+  - title: Toyz出獄首合體篠崎泫！探監擁抱照甜炸突宣示主權：女生私訊我全看到了
+    url: https://star.setn.com/news/1934876
+    publisher: 三立娛樂星聞
+    date: 2026-11-07
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -597,6 +602,10 @@ open_questions:
   - The stock-market advice, trading losses and shareholdings described here are personal matters, not enforcement details, so no enforcement figures are added.
   - The page's captioned image is an Instagram screenshot of the couple, not established as showing the deportation or the cannabis case, so no media entry is added.
   - The page gives the livestream day only as 昨（6）日 relative to its 7 November 2026 publication date.
+  - The submitted page calls 篠崎泫 Liu's wife and says the two have been together for three years, while other accounts cited in the report call her his girlfriend; the relationship label remains unresolved.
+  - The submitted page shows a prison-visit embrace photo during the livestream but gives no date for when it was taken.
+  - The livestream's roughly 13,000 concurrent viewers describe entertainment activity, not the enforcement operation, so they are not recorded as figures.
+  - The page's photos are Threads and livestream screenshots of the couple, not images of the deportation or the cannabis case, so no media entries are added.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
@@ -648,4 +657,6 @@ The livestream drew about 13,000 viewers, up from the few hundred people who nor
 
 The livestream audience rose to about 13,000 people. [@72]
 
-篠崎泫 showed the hand-written letters she had sent Toyz while he was in prison. [@76] 篠崎泫 said that Liu's personal social media accounts had been run by her, not by him. [@76]
+篠崎泫 showed the hand-written letters she had sent Toyz while he was in prison. [@76] 篠崎泫 said that Liu's personal social media accounts had been run by her, not by him. [@76,80]
+
+篠崎泫 said she had regularly visited Liu in prison. [@76]
