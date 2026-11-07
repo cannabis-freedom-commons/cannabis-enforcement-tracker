@@ -58,6 +58,11 @@ sources:
     publisher: Милиция Минска (Telegram)
     date: 2026-11-05
     language: ru
+  - title: Белорус разработал приложение для выращивания конопли – в милиции оценили
+    url: https://virtualbrest.ru/news196637.php
+    publisher: Виртуальный Брест
+    date: 2026-11-06
+    language: ru
 open_questions:
   - The article gives no separate date for the detention; 5 November 2026 is its publication date and is used as the incident date.
   - The full names of the three detained men were not published, only their home cities and ages of 22 to 27.
@@ -70,21 +75,23 @@ open_questions:
 
 Drug-control officers of Minsk's Zavodsky district police department detained
 three young men aged 22 to 27 in a suburb of the capital. [@1,2] Those detained
-were a Minsk resident, a Grodno resident and a resident of Gomel Region. [@1,2]
-The men had rented a house in the suburb to use as a drug plantation. [@1] The
+were a Minsk resident, a Grodno resident and a resident of Gomel Region. [@1,2,4]
+The men had rented a house in the suburb to use as a drug plantation. [@1,4] The
 detention was reported through the Minsk police Telegram channel Militsiya
 Minska. [@1]
 
 Police presented the case as cultivation of drug-containing plants stepping into
 a digital format. [@1] The cannabis was grown through a specially developed
 application. [@1] Officers found 50 g of marijuana, six pots with cannabis,
-seeds and growing equipment in their possession. [@1,2] The detainees claimed they
+seeds and growing equipment in their possession. [@1,2,4] The detainees claimed they
 cultivated the drug-containing plants exclusively for themselves. [@1]
 
 To reduce visits to the plantation, one of the men developed an application to
 manage the growing process. [@1] The app allowed him to remotely monitor and
-adjust humidity, temperature and lighting to maintain full climate control. [@1]
-A criminal case was opened against all three men. [@1] No court outcome beyond
+adjust humidity, temperature and lighting to maintain full climate control. [@1,4]
+A criminal case was opened against all three men. [@1,4] No court outcome beyond
 the opened case was reported. [@1]
 
 The police's own announcement said officers seized not only growing equipment but also devices for running the illegal plantation. [@3]
+
+The same page also reports, citing Tochka BY, that a 44-year-old Minsk man was detained for growing cannabis in the basement of the apartment block where he lived, keeping 550 g of marijuana and 20 g of psilocybin. [@4]
