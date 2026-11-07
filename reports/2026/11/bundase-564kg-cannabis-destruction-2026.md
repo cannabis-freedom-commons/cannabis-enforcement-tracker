@@ -101,6 +101,10 @@ sources:
     publisher: Modern Ghana
     date: 2026-11-05
     language: en
+  - title: NACOC Destroys Seized Drugs Worth Over $10 Million in Major Crackdown
+    url: https://www.modernghana.com/videonews/tv3/4/748353
+    publisher: Modern Ghana
+    date: 2026-11-05
 open_questions:
   - The article gives no separate date for the destruction; 5 November 2026, its publication date, is used as the incident date.
   - No arrests, charges or court outcomes connected with this destruction were reported.
@@ -119,11 +123,13 @@ open_questions:
   - Modern Ghana's 564.39 kg figure is described as “cannabis and related products” without a separate cannabis street value or a location where the substances were seized.
   - The Modern Ghana page photo carries only the headline as its caption and no credit, so it is not established to show this destruction.
   - The page is dated 5 November 2026 and gives no other date for the destruction.
+  - The submitted page carries no article body beyond the headline and date; its supporting passage is the headline itself, so it corroborates only the overall value of the destruction.
+  - The TV3 video item gives no location, no cannabis weight and no break-down of the substances destroyed.
 ---
 
 The Narcotics Control Commission (NACOC) destroyed seized narcotic drugs at
 Bundase in an exercise with an estimated street value of more than US$10
-million. [@1,2,3,5,6,8,9,10] The destroyed stock included 564.39 kilograms of cannabis, valued
+million. [@1,2,3,5,6,8,9,10,11] The destroyed stock included 564.39 kilograms of cannabis, valued
 at US$112,878. [@1,2,3,5,6,7,8,10] The same destruction included 4,730,100 capsules and tablets
 of synthetic opioids, estimated at US$5,912,625, and 338,000 bottles of
 codeine-infused cough mixture, valued at US$4,225,000. [@1,2,5,6] The Ghana Standards
