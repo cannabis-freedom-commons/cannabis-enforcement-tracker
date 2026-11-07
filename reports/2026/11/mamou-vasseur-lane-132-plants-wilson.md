@@ -83,6 +83,10 @@ sources:
     url: https://www.myarklamiss.com/louisiana-news/louisiana-authorities-seize-over-100-marijuana-plants/
     publisher: KTVE – myarklamiss.com
     date: 2026-11-06
+  - title: Over 100 marijuana plants seized in Evangeline Parish
+    url: https://www.yahoo.com/news/articles/over-100-marijuana-plants-seized-155153247.html
+    publisher: Yahoo News (KLFY Lafayette)
+    date: 2026-11-06
 open_questions:
   - The arrest date is not given; deputies arrested the man “later on”, after the 2 November search, so 2 November is the raid date and not necessarily the arrest date.
   - The 971 grams is described only as marijuana; no source separates plants from dried product or says what of the 132 plants was uprooted rather than taken.
@@ -94,11 +98,14 @@ open_questions:
   - No independent outlet coverage of the raid was found; both KLFY URLs carry the same sheriff's office account.
   - KALB's sheriff's office figures are not reconciled with the $32,450 total drug value recorded in the report from KLFY's account of the same statement.
   - The report does not say whether the 132 plants were taken as evidence or destroyed, so no separate plant seizure or destruction split is recorded.
+  - The Yahoo page is a syndicated copy of KLFY's Nexstar article, not an independent second account.
+  - The arrest date remains unstated beyond deputies finding Wilson "later on" after the 2 November search.
+  - The capture gives no court date or outcome; the case was at the charge stage.
 ---
 
 Deputies of the Evangeline Parish Sheriff’s Office searched a camper and three
 greenhouses at 1058 Vasseur Lane in Mamou on 2 November 2026, after a 10 October
-tip that a greenhouse there held a large amount of marijuana. [@1,2,3] The owner,
+tip that a greenhouse there held a large amount of marijuana. [@1,2,3,5] The owner,
 42-year-old Jimmy Lynn Wilson, was the sole resident of the camper and land and
 was not there during the search. [@1]
 
@@ -110,7 +117,7 @@ the drugs at about $32,450. [@1,2]
 Deputies later found and arrested Wilson and charged him with possession with
 intent to distribute marijuana and 132 counts of cultivation, production,
 distribution or possession with intent to distribute marijuana, all felonies
-under Louisiana Revised Statute 40:966. [@1,2] Deputies also charged him with two
+under Louisiana Revised Statute 40:966. [@1,2,5] Deputies also charged him with two
 counts of possessing a firearm in the presence of a controlled dangerous
 substance under Louisiana Revised Statute 14:95E. [@1,2]
 
