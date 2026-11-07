@@ -75,6 +75,11 @@ sources:
     publisher: İlke Haber Ajansı (İLKHA)
     date: 2026-11-07
     language: ar
+  - title: 'Suriye’de uyuşturucu operasyonu: 120 bin captagon hapı ve 9 kilo esrar ele geçirildi'
+    url: https://www.malatyaguncel.com/suriye-de-uyusturucu-operasyonu-120-bin-captagon-3121327h.htm
+    publisher: Malatya Haber
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The article gives no date for the arrest itself; 7 November 2026 is its publication date and is used as the incident date.
   - The exact place of the arrest within Homs Governorate is not named.
@@ -88,6 +93,8 @@ open_questions:
   - The article also reports national and Homs-branch October tallies that belong to the separate monthly-tally report, not this arrest.
   - The page image has no caption or credit establishing that it shows this seizure, so no media entry is added.
   - This Arabic page presents the 200,000-pill Lebanon operation as taking place today alongside the arrest, while the tracker report dates that earlier operation to 5 May 2026; this account follows the existing record.
+  - Malatya Haber carries the İLKHA wire text without editorial change, and the story traces to the same anti-narcotics directorate statement as the SANA and Arabic accounts, so it is not independent reporting.
+  - The page photo is captioned only with the story headline and is not confirmed to show this seizure, so no media entry is added.
 ---
 
 Syria's anti-narcotics directorate announced the arrest of a man identified by
@@ -97,7 +104,7 @@ and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6]
 
 The directorate said its Homs branch made the arrest, continuing an operation it
 carried out on 5 May 2026 that broke up an attempt to smuggle 200,000 Captagon
-pills from Lebanon and led to two arrests. [@1,3,4,5] The two May detainees were the
+pills from Lebanon and led to two arrests. [@1,3,4,5,7] The two May detainees were the
 two members of the network, in an operation whose pills came from Lebanon. [@2]
 Units kept tracking the rest of those involved and the network's branches, the
 directorate said. [@1]
@@ -108,3 +115,5 @@ to the competent judiciary. [@1,3,4,5,6]
 The ringleader was identified through security follow-up and arrested in a well-planned ambush. [@5]
 
 The Arabic page attributes the operations to the anti-narcotics branch of the Syrian Interior Ministry. [@6]
+
+Malatya Haber carried the story as İLKHA wire copy, printed without editorial change. [@7]
