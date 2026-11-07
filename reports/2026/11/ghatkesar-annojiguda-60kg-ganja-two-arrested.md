@@ -67,6 +67,10 @@ sources:
     publisher: Telangana Today
     date: 2026-11-07
     language: en
+  - title: Two held with 60 kg of marijuana in car near Ghatkesar
+    url: https://www.thehindu.com/news/national/telangana/two-held-with-60-kg-of-marijuana-in-car-near-ghatkesar/article71678215.ece
+    publisher: The Hindu
+    date: 2026-11-07
 open_questions:
   - Only one account of the check could be opened; no police statement or second outlet reporting this same seizure was found.
   - The 60 kilograms is given as a round figure for 60 packets, with no exact weighed total.
@@ -77,6 +81,11 @@ open_questions:
   - Telangana Today attributes the operation to the Malkajgiri SOT, while the earlier HMTV account cited in this report named the LB Nagar zone SOT; both describe the same officers and the same seizure but do not explain the difference in unit designation.
   - The Telangana Today article gives no names of the two arrested men, no charges by NDPS section, and no remand, charge sheet or court outcome.
   - No police statement naming the unit that registered the case was published in either account.
+  - V6 Velugu gives the sale price in Mumbai as Rs 17,000 a kilogram, while the existing report's other account gives Rs 15,000; the existing figure is unchanged.
+  - V6 Velugu does not give ages or home areas for the two arrested men; those come from The Hindu's account of the same check.
+  - Left out arrested, as its only supporting source is not cited by the report's text.
+  - Left out kg seized, as its only supporting source is not cited by the report's text.
+  - Left out value, as its only supporting source is not cited by the report's text.
 ---
 
 Police in the LB Nagar zone of Hyderabad arrested two men and seized 60
@@ -103,3 +112,5 @@ Act. [@1]
 Officers seized the car used to move the ganja and two mobile phones, and said
 special teams were searching for the Odisha supplier and the Mumbai receiver.
 [@1,2]
+
+The Hindu reported that Mohammed Amer, 28, lives in Hafeez Baba Nagar, Bandlaguda, and Mohd Imran Uddin, 35, in Toor Colony, Chandrayangutta. [@3] Police said Amer had been involved in five NDPS Act cases and detained under the Preventive Detention Act twice, while Imran Uddin had four earlier cases, two of them under the NDPS Act. [@3] Police said they were investigating to trace the supplier and the intended receiver and to identify others in the interstate network. [@3]
