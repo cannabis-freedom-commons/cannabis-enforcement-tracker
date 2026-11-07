@@ -98,6 +98,11 @@ sources:
     publisher: العربي الجديد
     date: 2026-11-06
     language: ar
+  - title: الجيش السوري يحبط تهريب 280 كيلوغراماً من الحشيش و28 ألف حبة كبتاغون من لبنان
+    url: https://www.lebanon24.com/news/lebanon/1592071/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%AD%D8%A8%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-280-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7%D9%8B-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D9%8828-%D8%A3%D9%84%D9%81-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%85
+    publisher: Lebanon24
+    date: 2026-11-06
+    language: ar
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -117,11 +122,15 @@ open_questions:
   - This Arabic-language account restates the Defence Ministry statement without any additional figure or description of the interception site.
   - The smugglers' number, nationality and whether anyone was arrested remain unreported.
   - The article's picture is captioned as drugs seized in Syria on 20 May 2026, an earlier event, so no media for this operation is recorded from it.
+  - Lebanon24 dates the interception to dawn on Saturday, a time of day the report's earlier sources did not state; no exact hour is given.
+  - This page attributes the statement to the Syrian Interior Ministry, carried by the Defence Ministry's media and communication directorate, rather than to the Defence Ministry alone.
+  - Like the accounts already cited, it reproduces the ministry statement, so it adds a republication rather than independent confirmation.
+  - The page gives no arrests, value or plant count, and its lead picture carries only the headline as a caption with no credit, so no media is recorded.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
 Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
-the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9]
+the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10]
 
 The ministry said the smugglers opened fire on the Syrian force during the
 operation and that the force returned fire. [@1,3,4,6,7,8,9] The gunmen then fled towards
@@ -130,7 +139,7 @@ that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1,3,4,6,7,8,9] The seized items were
+confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10] The seized items were
 referred to the competent authorities to complete legal procedures. [@1,3,4]
 
 The Defence Ministry media office announced the operation on Friday 6 November
