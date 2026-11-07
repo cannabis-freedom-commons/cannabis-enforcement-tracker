@@ -63,6 +63,11 @@ sources:
     publisher: HMTV
     date: 2026-11-07
     language: te
+  - title: పొలంలో గంజాయి సాగు.. నాలుగు మొక్కలు స్వాధీనం !
+    url: https://www.dishadaily.com/telugunews/cannabis-cultivation-in-the-field-599470
+    publisher: Disha Daily (దిశ)
+    date: 2026-11-07
+    language: te
 open_questions:
   - No figure for the weight or value of the four plants or the area they covered was published.
   - The farmer's charge, arrest, custody status and any court step are not stated; the article says he was taken into custody and being questioned, so he is recorded as detained and no charges are recorded.
@@ -72,14 +77,18 @@ open_questions:
   - 'An earlier, separate case at the same village is recorded: in September 2025 Gadwal police seized nine cannabis plants from a leased field at Boyalagudem and arrested a farmer from Thottinonidoddi; it is a different event and not covered by this report.'
   - HMTV gives no date beyond Saturday and is published on 7 November 2026, so it does not independently fix the raid date.
   - No charge section, plant weight or field area is given in this second account either.
+  - Disha Daily names the farmer only as Govindu of Lingapuram village and gives no age or address beyond that.
+  - Disha Daily gives no weight, value or area for the four plants and no charge section named against the farmer.
+  - Disha Daily gives no day beyond Saturday; 7 November 2026 is its publication date and the preceding Saturday.
+  - The picture on the Disha Daily page carries only the headline as its caption and no credit, so it cannot be confirmed to show the field or the plants; the report's existing media entries are unchanged.
 ---
 
 Gattu police searched a field at the edge of Boyalagudem village in Jogulamba
-Gadwal district on Saturday and found four cannabis plants growing there. [@1,2]
+Gadwal district on Saturday and found four cannabis plants growing there. [@1,2,3]
 The plants were in a field belonging to Govindu, a farmer from Lingapuram
 village. [@1,2] Police took the four plants into custody and registered a case
-against the farmer. [@1,2]
+against the farmer. [@1,2,3]
 
 Gattu sub-inspector Kalyan Kumar said the farmer had been taken into custody and
-was being questioned. [@1,2] The sub-inspector warned that anyone committing such
-offences in the mandal would face severe legal action. [@1,2]
+was being questioned. [@1,2,3] The sub-inspector warned that anyone committing such
+offences in the mandal would face severe legal action. [@1,2,3]
