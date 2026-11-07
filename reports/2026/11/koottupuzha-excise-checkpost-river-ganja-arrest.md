@@ -49,6 +49,11 @@ media:
     media_url: https://www.youtube.com/watch?v=_dt_Y-gfjHc
     publisher: Mathrubhumi News
     caption: 'Mathrubhumi News video on the youth held after jumping into the river with cannabis at Koottupuzha. Video: Mathrubhumi News'
+  - kind: photo
+    url: https://keralaonlinenews.com/nattuvarthakal/kannur/excise-koottupuzha-ganja/cid19504289.htm
+    media_url: https://keralaonlinenews.com/static/c1e/client/94744/uploaded/8487b56f1018c672e413ebf424d96992.jpg?width=730&height=420&resizemode=4
+    publisher: Kerala Online News
+    caption: 'Photo published with the Koottupuzha report, captioned as excise officials apprehending the young man who jumped into the river with ganja during a vehicle inspection. Photo: Kerala Online News'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a90bf8225d26f0017882c995ecd1f0c
@@ -69,6 +74,11 @@ sources:
     publisher: Newsthen
     date: 2026-11-07
     language: ml
+  - title: കൂട്ടുപുഴയിൽ വാഹന പരിശോധനയ്ക്കിടെ കഞ്ചാവുമായി പുഴയിൽ ചാടിയ യുവാവിനെ എക്സൈസ് പിടികൂടി
+    url: https://keralaonlinenews.com/nattuvarthakal/kannur/excise-koottupuzha-ganja/cid19504289.htm
+    publisher: Kerala Online News
+    date: 2026-11-07
+    language: ml
 open_questions:
   - Neither account gives a calendar date for the event beyond 'today'; 7 November 2026 is the publication date of both and is used as the incident date.
   - Only Mathrubhumi gives a ganja weight, 10 grams; the submitted TrueVision page says only that ganja was found.
@@ -77,19 +87,21 @@ open_questions:
   - The two sources differ on the man's home village, Kannur 'Thayyil' against Kannur 'Markkarkkandi', and the page wording uses both naming forms of the place.
   - 'Left out, as its quotation was not found in Mathrubhumi: Police suspect he also carried MDMA, which may have fallen into the river, and say he had earlier cases at Valapattanam police station in Kannur district.'
   - The earlier cases at Valapattanam police station are described only as information, with no case numbers, dates or outcomes.
+  - Kerala Online News gives no ganja weight; the report keeps Mathrubhumi's 10 grams.
+  - Kerala Online News gives no time of day for the check and says only that it was on Saturday morning; the existing report's 11 a.m. comes from Mathrubhumi.
 ---
 
 Excise officers inspecting vehicles at the Koottupuzha check post in Kannur
 district stopped a bus and a young man got off and jumped into the river below.
 [@1,3] The bus was travelling from Virajpet to Kannur and was being checked at
-about 11 a.m. [@2]
+about 11 a.m. [@2,4]
 
 He left his bag and slippers on the bridge, swam to the far bank, then climbed
 onto a rock in the middle of the river and threatened to dash his head on it and
 kill himself if officers closed in. [@2] Highway police sub-inspector
 Sadanandan, check post sub-inspector Jose P. Jose, an excise team and local
 residents overpowered him after an effort lasting about two hours, and several
-officers' mobile phones were lost during the struggle. [@2] The TrueVision
+officers' mobile phones were lost during the struggle. [@2,4] The TrueVision
 account names check post sub-inspector Jose P. Jose, highway police
 sub-inspector Sadanandan, the excise team and local residents as those who
 caught him. [@1]
@@ -99,3 +111,5 @@ gives the man's home as Markkarkkandi in Kannur, while the submitted page says
 Thayyil. [@2]
 
 The man's home is given as Markkarkkandi in Kannur. [@3] He was said to have earlier cases at Valapattanam police station. [@3]
+
+Sub-inspector Jose P. Jose of Karikkottakkari was injured in the hand while officers tried to catch him. [@4]
