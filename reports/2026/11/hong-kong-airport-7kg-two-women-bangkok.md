@@ -92,6 +92,11 @@ sources:
     publisher: Government of the Hong Kong Special Administrative Region
     date: 2026-11-06
     language: zh
+  - title: 海關機場檢約140萬元懷疑大麻花 兩內地女子被捕
+    url: https://www.bastillepost.com/hongkong/article/17131582-%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E6%AA%A2%E7%B4%84140%E8%90%AC%E5%85%83%E6%87%B7%E7%96%91%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E5%85%A9%E5%85%A7%E5%9C%B0%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8D%95
+    publisher: 巴士的報 Bastillepost
+    date: 2026-11-06
+    language: zh
 open_questions:
   - The weight is given as about 7 kg in total and about 3.5 kg for each woman; no exact figure was published.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
@@ -101,17 +106,18 @@ open_questions:
   - 'The figures remain approximate: about 7 kg in total and about 3.5 kg per woman, with no laboratory confirmation that the material is cannabis.'
   - No charge, court date or update on the two women has been reported; Customs said only that investigations were ongoing.
   - This Chinese-language government press release is the Chinese counterpart of the English release already cited by the report; the English wording was not separately quoted here.
+  - Bastillepost republishes the Government Information Services handout and adds no information beyond the recorded accounts; the drug remains described as suspected cannabis buds without laboratory confirmation.
 ---
 
 Hong Kong Customs arrested two mainland Chinese women, aged 50 and 54, at Hong
-Kong International Airport on 6 November 2026. [@1,4,5,6,7] Both women had arrived that
-day on flights from Bangkok, Thailand. [@1,4,5,7] During customs clearance, officers
+Kong International Airport on 6 November 2026. [@1,4,5,6,7,8] Both women had arrived that
+day on flights from Bangkok, Thailand. [@1,4,5,7,8] During customs clearance, officers
 found about 3.5 kg of suspected cannabis buds in each woman's carry-on baggage,
-and arrested them on the spot. [@3,4,5,6,7] The two seizures together came to about 7 kg
+and arrested them on the spot. [@3,4,5,6,7,8] The two seizures together came to about 7 kg
 of suspected cannabis buds, which Customs estimated to be worth about HK$1.4
-million. [@2,4,5,6,7]
+million. [@2,4,5,6,7,8]
 
-Both cases were still under investigation, and no charge had been reported. [@1,4,5,6,7]
+Both cases were still under investigation, and no charge had been reported. [@1,4,5,6,7,8]
 Customs said it would keep selecting travellers from high-risk regions for
 clearance checks and step up enforcement against drug trafficking using
 intelligence analysis. [@2,4] Under the Dangerous Drugs Ordinance, trafficking in
