@@ -45,12 +45,14 @@ sources:
 media:
   - kind: photo
     url: https://www.fijivillage.com/fashion/38-year-old-farmer-arrested-after-2-371-suspected-marijuana-plants-uprooted-in-savusavu-bf1610/
+    media_url: https://www.fijivillage.com/news_images/20261020094613_media_6ad68cdc212767_06213608.jpg
     publisher: fijivillage
-    caption: Aerial view of one of the cleared farm plots
+    caption: "Aerial view of a cleared Nanuca farm plot with young plants. Photo: Fiji Police"
   - kind: photo
     url: https://www.fijivillage.com/fashion/38-year-old-farmer-arrested-after-2-371-suspected-marijuana-plants-uprooted-in-savusavu-bf1610/
+    media_url: https://www.fijivillage.com/news_images/20261020094613_media_6ad68e6987e9b3_35544674.jpg
     publisher: fijivillage
-    caption: Growing plants photographed during the raid
+    caption: "Standing plants photographed during the Savusavu raid. Photo: Fiji Police Drug Unit"
 ---
 
 A Northern Division police operation team uprooted 1,351 suspected marijuana

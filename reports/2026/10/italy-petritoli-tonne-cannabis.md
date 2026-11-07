@@ -50,14 +50,22 @@ sources:
     language: it
 media:
   - kind: photo
-    url: https://www.rainews.it/tgr/marche/articoli/2026/10/sequestro-cannabis-petritoli-fermo-guardia-di-finanza-d89c2088-ba92-4e26-a641-6a50f536bfdf.html
-    publisher: Rai News
-    caption: The cannabis plants and material seized in the Petritoli warehouse
-  - kind: photo
     url: https://www.cronachefermane.it/2026/10/15/sequestrata-una-tonnellata-di-cannabis-la-guardia-di-finanza-in-azione-a-petritoli/790662/
+    media_url: https://www.cronachefermane.it/wp-content/uploads/2026/10/Foto-1_15.10.2026-1.jpg
     archived: https://web.archive.org/web/20261016223009/https://www.cronachefermane.it/2026/10/15/sequestrata-una-tonnellata-di-cannabis-la-guardia-di-finanza-in-azione-a-petritoli/790662/
     publisher: Cronache Fermane
-    caption: Guardia di Finanza photographs of the warehouse and the seized cannabis
+    caption: "Rows of plants hanging to dry in the Petritoli warehouse. Photo: Guardia di Finanza Fermo"
+  - kind: photo
+    url: https://www.cronachefermane.it/2026/10/15/sequestrata-una-tonnellata-di-cannabis-la-guardia-di-finanza-in-azione-a-petritoli/790662/
+    media_url: https://www.cronachefermane.it/wp-content/uploads/2026/10/Foto-2_15.10.2026-1.jpg
+    archived: https://web.archive.org/web/20261016223009/https://www.cronachefermane.it/2026/10/15/sequestrata-una-tonnellata-di-cannabis-la-guardia-di-finanza-in-azione-a-petritoli/790662/
+    publisher: Cronache Fermane
+    caption: "An officer with a tub of dried buds in the warehouse. Photo: Guardia di Finanza Fermo"
+  - kind: photo
+    url: https://www.rainews.it/tgr/marche/articoli/2026/10/sequestro-cannabis-petritoli-fermo-guardia-di-finanza-d89c2088-ba92-4e26-a641-6a50f536bfdf.html
+    media_url: https://www.rainews.it/resizegd/2000x-/dl/img/2026/10/16/1792146671112_gdf.jpg
+    publisher: Rai News
+    caption: "The outdoor plantation that supplied the warehouse load. Photo: Guardia di Finanza Fermo"
 ---
 
 The Guardia di Finanza seized about a tonne of cannabis in a warehouse in Petritoli, in the province

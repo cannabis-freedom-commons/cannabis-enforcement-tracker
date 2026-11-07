@@ -37,10 +37,15 @@ tags: [siskiyou, interstate-5, uhaul, black-market]
 media:
   - kind: photo
     url: https://jeffersondailynews.com/news/siskiyou-county-interstate-5-marijuana-seizure-october-2026
+    media_url: https://images.squarespace-cdn.com/content/v1/68fd56d61f44913a61ff6b12/bb95a362-e50f-4bef-8c61-7d84d65d0718/20261028-scso2.jpeg
     publisher: Jefferson Daily News (Siskiyou County Sheriff's Office)
-    caption: "Black bags of marijuana filling the U-Haul trailer (Sheriff's Office)."
+    caption: "Black bags of marijuana filling the U-Haul trailer. Photo: Siskiyou County Sheriff's Office"
+  - kind: photo
+    url: https://jeffersondailynews.com/news/siskiyou-county-interstate-5-marijuana-seizure-october-2026
+    media_url: https://static1.squarespace.com/static/68fd56d61f44913a61ff6b12/69094dd4f133a75bd0999be5/6ae2195aa4dff56d7a5ac9ea/1793723568155/20261028-scso1a.jpeg
+    publisher: Jefferson Daily News (Siskiyou County Sheriff's Office)
+    caption: "Siskiyou County sheriff car behind the stopped U-Haul on I-5. Photo: Siskiyou County Sheriff's Office"
 open_questions:
-  - Only the Jefferson Daily News could be opened for this stop; the account below is the only one verified.
   - The marijuana's origin, destination and street value were not disclosed.
 sources:
   - title: Siskiyou County Deputy Seizes 2,254 Pounds of Illegal Marijuana

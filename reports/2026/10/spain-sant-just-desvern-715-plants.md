@@ -39,9 +39,15 @@ tags: [sant-just-desvern, mossos, indoor-grow, electricity]
 media:
   - kind: photo
     url: https://www.lavanguardia.com/elllobregat/sucesos/20261022/11665214/mossos-desmantelan-plantacion-715-plantas-marihuana-sant-just-desvern.html
+    media_url: https://www.lavanguardia.com/uploads/2026/10/22/6ad9c058881dc.jpeg
     archived: https://web.archive.org/web/20261023031224/https://www.lavanguardia.com/elllobregat/sucesos/20261022/11665214/mossos-desmantelan-plantacion-715-plantas-marihuana-sant-just-desvern.html
     publisher: La Vanguardia (El Llobregat)
-    caption: One of the three spaces fitted out in the basement of the house in Sant Just Desvern (Mossos d'Esquadra).
+    caption: "Flowering plants under LED lights in one basement grow room. Photo: Mossos d'Esquadra"
+  - kind: photo
+    url: https://www.vilapress.cat/articulo/sant-just-desvern/2026-10-23/6062871-mossos-desmantelan-plantacion-715-plantas-marihuana-sant-just-desvern
+    media_url: https://www.vilapress.cat/images/showid/8193907
+    publisher: Vilapress
+    caption: "A wider view of the same basement canopy of flowering plants. Photo: Mossos d'Esquadra / Vilapress"
 open_questions:
   - The accounts give no weight or value for the 715 plants, beyond the 2,800 euros in cash seized.
   - Neither of the two arrested people was named, and the court outcome was not reported.
