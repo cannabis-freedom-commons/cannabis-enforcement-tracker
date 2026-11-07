@@ -43,6 +43,11 @@ media:
     media_url: https://www.prahaar.in/rppl/wp-content/uploads/2026/11/Pune-Customs-Seized-Hydroponic-Weed-768x432.jpg
     publisher: Prahaar
     caption: 'Photo captioned as the customs operation at Pune airport over the hydroponic ganja smuggled from Bangkok in dragon-fruit packets. Photo: ANI News'
+  - kind: video
+    url: https://economictimes.indiatimes.com/news/short-videos/10-642-kg-hydroponic-cannabis-worth-3-72-crore-seized-at-pune-airport/videoshow/135628475.cms
+    media_url: https://img.etimg.com/thumb/msid-135628475,width-1200,height-900/overlay-economictimes/news/short-videos/10-642-kg-hydroponic-cannabis-worth-3-72-crore-seized-at-pune-airport.jpg
+    publisher: The Economic Times
+    caption: The Economic Times video report on the 10.642 kg hydroponic cannabis seizure at Pune airport; only its cover image is available as an address
 details:
   activity: [smuggling]
   agency_types: [customs, police]
@@ -183,6 +188,10 @@ sources:
     url: https://www.freepressjournal.in/pune/pune-two-bangkok-passengers-booked-for-smuggling-hydroponic-weed-worth-416-crore
     publisher: The Free Press Journal
     date: 2026-11-06
+  - title: 10.642 kg hydroponic cannabis worth ₹3.72 crore seized at Pune airport
+    url: https://economictimes.indiatimes.com/news/short-videos/10-642-kg-hydroponic-cannabis-worth-3-72-crore-seized-at-pune-airport/videoshow/135628475.cms
+    publisher: The Economic Times
+    date: 2026-11-07
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -235,6 +244,9 @@ open_questions:
   - The Free Press Journal gives no separate date for the arrest or the remand hearing and does not name the passenger.
   - The page's single picture is a headline collage captioned only with the article title, so it is not treated as a photograph of this seizure.
   - The page's Rs 4.16 crore figure is a combined total for two separate seizures and is not used as a figure for this event.
+  - The Economic Times item is a short video summary and gives no interception date, flight, arrest or court details; those come from the other outlets opened here.
+  - The video page's cover image is a headline composite, not a confirmed photograph of this seizure, so the video is the only media entry.
+  - 'Left out, as its quotation was not found in The Hindu: Pune Customs arrested an Indian passenger arriving from Bangkok on Air India Express flight IX-291 and seized the haul at Pune International Airport on 4 November 2026.'
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
@@ -251,7 +263,7 @@ vacuum-sealed black polythene to mask detection. [@2,8,10,11,12,22,23,24] On ope
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2,11,12,16,19,23] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20,21,23,25]
+crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20,21,23,25,27]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1,8,12,13,16,19,23] The passenger was arrested and
