@@ -67,6 +67,10 @@ sources:
     url: https://www.espn.co.uk/nfl/story/_/id/50257962/colts-qb-anthony-richardson-sr-charged-marijuana-possession
     publisher: ESPN
     date: 2026-10-23
+  - title: Waste of a No. 4 Pick? Anthony Richardson Charged with Marijuana Possession as Career Hits New Low
+    url: https://ngscsports.com/waste-of-a-no-4-pick-anthony-richardson-charged-with-marijuana-possession-as-career-hits-new-low/
+    publisher: NGSC Sports
+    date: 2026-10-24
 open_questions:
   - No weight was published for the mason jar contents or the THC-infused gummies, so no cannabis quantity is recorded.
   - The filing date of 19 October 2026 is inferred from the charge being filed on the Monday a week after the Oct. 12 stop.
@@ -87,6 +91,7 @@ open_questions:
   - ESPN gives the bench trial as Jan. 4 without stating the year; the year remains unconfirmed.
   - WISH-TV describes the stop as yielding marijuana paraphernalia while the affidavits it cites describe a jar of marijuana and THC gummies.
   - ESPN gives no event date for the traffic stop, so the charging date of 19 October 2026 remains the report's date.
+  - The NGSC Sports page gives no year for the January 4 bench trial.
 ---
 
 Indianapolis Colts quarterback Anthony Richardson Sr. faces a misdemeanor charge
@@ -115,3 +120,5 @@ Dec. 9 has been waived, and a bench trial will be held in Jan. 2027. [@1,6]
 The Hamilton County prosecutor’s office filed the possession charge as a Class B misdemeanor. [@2]
 
 A car search produced 500-milligram THC-infused gummies in the glove compartment. [@7,9] Colts coach Shane Steichen said the team would keep the matter in-house and that Richardson remained their backup quarterback. [@7,9] A Carmel Police Department officer patrolling the area of Springmill Boulevard and Silver Stream Drive spotted the Dodge Charger. [@8]
+
+Court documents showed the charge came from an Oct. 12 traffic stop in Carmel, Indiana, where police stopped Richardson's Dodge Charger over an expired registration tag that did not match the vehicle. [@10] A bench trial was scheduled for January 4 after Richardson waived his initial hearing. [@10]
