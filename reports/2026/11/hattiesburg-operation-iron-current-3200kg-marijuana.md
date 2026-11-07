@@ -1,0 +1,94 @@
+---
+code: RJSRQ3
+added_at: "2026-11-07T03:04:30.134184Z"
+date: 2026-11-06
+country: us/ms
+place: Hattiesburg, Forrest County, Mississippi
+coordinates: [31.3271, -89.2903]
+precision: locality
+type: seizure
+also: [raid]
+title: HSI seizes 3,200 kg of marijuana from two go-fast vessels
+summary: >-
+  HSI in Hattiesburg, Mississippi, said two go-fast vessels carrying about 3,200 kilograms of marijuana and 3,188 kilograms of cocaine were intercepted under Operation Iron Current, a case against a Colombia-based trafficking organization. ICE put the street value of the haul at more than $80.5 million.
+figures:
+  kg_seized: 3200
+  value:
+    amount: 80500000
+    currency: USD
+details:
+  agencies: [us-hsi, United States Immigration and Customs Enforcement (ICE)]
+  agency_types: [anti-narcotics]
+  products:
+    - {product: flower, kg: 3200}
+  activity: [smuggling]
+  setting: [port]
+  case_stage: investigation
+  date_precision: publication
+  region: Mississippi
+  route: {from: [co], to: [us]}
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.route: [1]
+  details.setting: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
+media:
+  - kind: photo
+    url: https://www.ice.gov/news/releases/hsi-hattiesburg-seizes-over-6000-kg-narcotics-worth-805m-during-operation-iron
+    media_url: https://www.ice.gov/sites/default/files/2026-11/20261106_Hattiesburg.jpg
+    publisher: U.S. Immigration and Customs Enforcement
+    caption: 'ICE handout photo published with the Operation Iron Current release on the seizure from two go-fast vessels. Photo: U.S. Immigration and Customs Enforcement'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 5bcaf9d8a6748d624ab464d0ea998450
+tags: [mississippi, hattiesburg, operation-iron-current, maritime, hsi]
+sources:
+  - title: HSI Hattiesburg seizes over 6,000 kg of narcotics worth $80.5M during Operation Iron Current
+    url: https://www.ice.gov/news/releases/hsi-hattiesburg-seizes-over-6000-kg-narcotics-worth-805m-during-operation-iron
+    publisher: U.S. Immigration and Customs Enforcement
+    date: 2026-11-06
+  - title: 'Federal investigators seize 6K kilos of cocaine & marijuana worth more than $80.5M: ICE'
+    url: https://wwmt.com/news/nation-world/federal-investigators-seize-6k-kilos-of-cocaine-marijuana-worth-more-than-805m-ice-illegal-drugs-narcotics-drug-trafficking-us-immigration-and-customs-enforcement-operation-homeland-security-investigations-dhs-iron-current-trump-true-crime
+    publisher: WWMT News Channel 3
+    date: 2026-11-06
+  - title: Homeland Security’s Hattiesburg division leads effort to seize more than $80M in narcotics
+    url: https://www.supertalk.fm/homeland-securitys-hattiesburg-division-leads-effort-to-seize-more-than-80m-in-narcotics/
+    publisher: SuperTalk Mississippi
+    date: 2026-11-06
+open_questions:
+  - The place and date of the vessel interceptions were not disclosed; 6 November 2026 is the date of ICE's announcement, which is also treated as the incident date, and Hattiesburg is only the office leading the case.
+  - No arrests, charges, suspects or court stage were reported; ICE said only that the investigation remains ongoing.
+  - The $80.5 million street value is ICE's estimate for the cocaine and marijuana together, so no cannabis-only value is known and the figure records the agency's valuation of the whole haul.
+  - SuperTalk Mississippi reported a 6,400 kg total for cocaine and marijuana combined, which does not match ICE's separate figures of about 3,188 kg of cocaine and 3,200 kg of marijuana; this report uses ICE's breakdown.
+  - No information was published on how the marijuana was packaged, where exactly it was headed or where the interceptions took place at sea.
+  - The WWMT page and its photo credited to ICE reproduce the agency's own release and handout image; only the ICE copy of the photo is listed.
+---
+
+Homeland Security Investigations in Hattiesburg, Mississippi, is investigating a
+Colombia-based trafficking organization suspected of distributing thousands of
+kilograms of cocaine into the United States. [@1] The investigation, called
+Operation Iron Current, led to the coordinated interdiction and seizure of two
+go-fast vessels by HSI and its interagency partners, ICE said. [@1]
+
+The vessels carried about 3,200 kilograms of marijuana alongside about 3,188
+kilograms of cocaine, according to ICE. [@1] The agency put the estimated street
+value of the seized narcotics at more than $80.5 million, a figure covering the
+cocaine and marijuana together. [@1] HSI said it worked with domestic and
+international partners to share information supporting maritime counternarcotics
+enforcement. [@1]
+
+HSI New Orleans Special Agent in Charge Matt Wright said transnational criminal
+organizations exploit maritime routes to move drugs and that HSI would keep
+working with partners to disrupt such networks and seize illicit narcotics. [@1]
+ICE said the investigation remains ongoing. [@1] The agencies did not say where
+or when the vessels were intercepted or whether anyone was arrested. [@2]
+
+SuperTalk Mississippi reported that the drugs were said to have been shipped to
+the United States by a Colombian cartel. [@3] The station said the investigation
+was ongoing and information was limited. [@3]
+
