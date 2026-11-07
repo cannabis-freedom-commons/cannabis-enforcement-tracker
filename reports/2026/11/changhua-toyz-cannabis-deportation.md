@@ -2,16 +2,15 @@
 added_at_source: git
 added_at: "2026-11-03T07:46:43.000Z"
 code: 0QHG34
-date: 2026-11-03
+date: 2026-11-06
 country: tw
 place: Changhua Prison, Erlin, Changhua County
 coordinates: [23.925, 120.407]
 precision: locality
 type: sentence
 also: [arrest, prosecution]
-title: Toyz deported after parole in 4-year-2-month cannabis case
-summary: >-
-  Hong Kong esports influencer Liu Weijian (Toyz) was paroled from Changhua Prison and deported from Taiwan on 3 November 2026 after serving part of a 4-year-2-month sentence for selling cannabis vape cartridges. Prosecutors ordered deportation in place of protective supervision, and immigration barred him from re-entering for a period.
+title: Toyz, deported after parole in a cannabis case, appears live in Hong Kong
+summary: Liu Weijian (Toyz), deported from Taiwan on 3 November 2026 after parole in a 4-year-2-month cannabis-selling sentence, appeared publicly for the first time on a Hong Kong livestream on 6 November with his wife, entertainer 篠崎泫. He said his own channel would resume once livestreaming equipment in Hong Kong was set up.
 figures:
   arrested: 1
   charged: 1
@@ -388,6 +387,11 @@ sources:
     publisher: 三立新聞網
     date: 2026-11-06
     language: zh
+  - title: Toyz遣返香港3天首露臉！吐頻道重啟時間
+    url: https://www.mirrormedia.mg/external/setn_1934810
+    publisher: 鏡週刊 Mirror Media
+    date: 2026-11-06
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -499,6 +503,7 @@ open_questions:
   - This page gives the parole day only as 本月3日; 3 November 2026 comes from its 6 November 2026 publication date.
   - The page's 270,000 likes, 20,000 comments, 10,000 reposts and 100,000 shares for Toyz's post-return Threads post describe post-deportation social activity, not the enforcement operation, so they are not recorded as figures.
   - No new media entry is added because the page's photos are Instagram screenshots and a screen capture repeating the parole-escort headline without establishing that they show the deportation operation.
+  - The article gives the livestream day only as 今（6）日 with the publication date of 6 November 2026.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
@@ -539,3 +544,5 @@ In 2020 Liu formed a trafficking group with friends and bought 500 cannabis vape
 Officers from the immigration agency's Changhua County task force collected Liu from Changhua Prison at 8 a.m. on 3 November and escorted him to the airport for the forced expulsion. [@63]
 
 Officers from the immigration agency took Liu Weijian to Taichung Airport on 3 November for the forced expulsion, and he is barred from entering Taiwan for six years. [@64]
+
+Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67]
