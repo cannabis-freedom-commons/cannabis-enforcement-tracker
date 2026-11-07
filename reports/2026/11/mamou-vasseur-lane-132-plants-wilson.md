@@ -62,6 +62,11 @@ media:
     media_url: https://gray-kalb-prod.gtv-cdn.com/resizer/v2/6QCLBP7APRCNXCRZLLR67ZPUTE.jpg?auth=8dfabd131d574bcbdc6edadba1997fecc9fa1c4f71bacc4d48c4372a4095d9aa&width=1300&height=1697&smart=true
     publisher: KALB
     caption: 'Items seized in the Evangeline Parish investigation. Photo: Evangeline Parish Sheriff’s Office'
+  - kind: video
+    url: https://www.myarklamiss.com/video/over-100-marijuana-plants-seized-in-evangeline-parish/12345660/
+    media_url: https://tkx.mp.lura.live/rest/v2/mcp/video/12345660.m3u8?anvack=mGkgwyjnMZaXPf1R0jI1JCa6XL8yYRxe&eud=asf0ddUroZLvxJXBhjPJSalHmIRdaQtOCCS0Y%2FNMj73lBkRJ4FOUYV%2B1PrGCeHD6TyO8KsbFw40vgX8hrw%2Bxqw%3D%3D
+    publisher: KTVE - myarklamiss.com
+    caption: KTVE's video report on the Evangeline Parish Sheriff's Office seizure of more than 100 marijuana plants in Mamou, published in the station's video player under the headline.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fb617c167fc658a418938559474ee709
@@ -99,6 +104,10 @@ sources:
     url: https://www.myarklamiss.com/louisiana-news/louisiana-authorities-seize-over-100-marijuana-plants/amp/
     publisher: KTVE - myarklamiss.com
     date: 2026-11-06
+  - title: Over 100 marijuana plants seized in Evangeline Parish
+    url: https://www.myarklamiss.com/video/over-100-marijuana-plants-seized-in-evangeline-parish/12345660/
+    publisher: KTVE - myarklamiss.com
+    date: 2026-11-06
 open_questions:
   - The arrest date is not given; deputies arrested the man “later on”, after the 2 November search, so 2 November is the raid date and not necessarily the arrest date.
   - The 971 grams is described only as marijuana; no source separates plants from dried product or says what of the 132 plants was uprooted rather than taken.
@@ -114,11 +123,13 @@ open_questions:
   - The arrest date remains unstated beyond deputies finding Wilson "later on" after the 2 November search.
   - The capture gives no court date or outcome; the case was at the charge stage.
   - The submitted page is a video item whose only text is a one-sentence caption; its direct video address could not be recovered from the page markup, so no media link is given.
+  - The KTVE item carries only a one-sentence caption and no arrests, figures or charges; its video was not transcribed, so no detail from the footage is recorded.
+  - KTVE's description says over 100 marijuana plants, fewer than the 132 plants the sheriff's office statement counted.
 ---
 
 Deputies of the Evangeline Parish Sheriff’s Office searched a camper and three
 greenhouses at 1058 Vasseur Lane in Mamou on 2 November 2026, after a 10 October
-tip that a greenhouse there held a large amount of marijuana. [@1,2,3,5,6,8] The owner,
+tip that a greenhouse there held a large amount of marijuana. [@1,2,3,5,6,8,9] The owner,
 42-year-old Jimmy Lynn Wilson, was the sole resident of the camper and land and
 was not there during the search. [@1,8]
 
