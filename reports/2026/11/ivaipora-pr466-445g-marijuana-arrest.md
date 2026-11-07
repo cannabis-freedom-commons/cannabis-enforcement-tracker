@@ -61,6 +61,11 @@ sources:
     publisher: Tribuna Digital
     date: 2026-11-06
     language: pt
+  - title: Rotam apreende maconha e prende homem após abordagem na PR-466 | Ivan Maldonado Online
+    url: https://ivanmaldonado.com.br/rotam-apreende-maconha-prende-homem-abordagem/
+    publisher: Ivan Maldonado Notícias
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The man is not named and his age was not given.
   - The sources do not say what charge was formally recorded against him beyond suspicion of drug trafficking, or whether a court custody decision was made.
@@ -79,14 +84,13 @@ after officers noticed suspicious behaviour and a strong smell of marijuana.
 A search of the vehicle found 247 grams of marijuana. [@1] Officers then went to
 the man's home in the Santa Mariana district of Manoel Ribas, where they found
 another 198 grams of marijuana. [@1] In total officers seized 445 grams of
-marijuana, a mobile phone and the car used to carry the drug. [@1] Military
+marijuana, a mobile phone and the car used to carry the drug. [@1,5] Military
 Police said the drug was intended for sale, and the car was seized because it
 was used to transport it. [@3]
 
 The man was arrested in flagrante, an arrest made at the scene of an offence,
 and taken with the seized material to the Civil Police's Central de Flagrantes,
-the station that registers such arrests. [@2] Tribuna Digital described the
+the station that registers such arrests. [@2,5] Tribuna Digital described the
 detention as an arrest in flagrante for drug trafficking and listed the seized
 items as one man, 445 grams of marijuana, one mobile phone for forensic
 examination and one vehicle. [@4]
-
