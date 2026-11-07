@@ -18,6 +18,7 @@ figures:
 media:
   - kind: photo
     url: https://sana.sy/en/syria/2345981/
+    media_url: https://cdn.sananews.sy/2026/09/photo_1_2026-09-25_16-03-23-860x573-1.jpg
     publisher: Syrian Arab News Agency (SANA)
     caption: 'A Drug Enforcement Department officer inspects seized narcotics and bottles of alcohol after the shipment from Lebanon was stopped. Photo: SANA'
 details:

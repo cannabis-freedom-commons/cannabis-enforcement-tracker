@@ -31,7 +31,8 @@ data_sources:
   figures.kg_seized: [1]
 media:
   - kind: photo
-    url: https://eljadidanews.com/wp-content/uploads/2026/08/IMG-20260827-WA0003.jpg
+    url: https://eljadidanews.com/%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D9%81%D8%B1%D8%AC-%D8%B6%D8%B1%D8%A8%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D9%88%D8%AC%D8%B9%D8%A9-%D9%84%D8%AA%D8%AC%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%85%D9%88/
+    media_url: https://eljadidanews.com/wp-content/uploads/2026/08/IMG-20260827-WA0003.jpg
     publisher: El Jadida News
     caption: 'Wrapped bundles seized from the underground store. Photo: El Jadida News'
 status: verified

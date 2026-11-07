@@ -21,13 +21,9 @@ media:
   - kind: photo
     url: https://www.lanacion.com.py/pais/2026/08/31/nueva-alianza-57-asesta-golpe-de-mas-usd-100-millones-al-narcotrafico/
     archived: https://web.archive.org/web/20260901051852/https://www.lanacion.com.py/pais/2026/08/31/nueva-alianza-57-asesta-golpe-de-mas-usd-100-millones-al-narcotrafico/
+    media_url: https://www.lanacion.com.py/resizer/v2/VRTNT5RUL5GJBJREXT3MR2AT5M.jfif?auth=cd745b1271c4fa2b79195a0988197594c7d261dab0b5675d6e7f2c27edad2d01&width=1200&height=630&smart=true
     publisher: La Nación (Paraguay)
-    caption: Agents pull up plants in a cleared forest plot, a police helicopter behind them
-  - kind: photo
-    url: https://acritica.net/meio-ambiente/operacao-nova-alianca-maconha-reservas-paraguai/
-    archived: https://web.archive.org/web/20260825034441/https://acritica.net/meio-ambiente/operacao-nova-alianca-maconha-reservas-paraguai/
-    publisher: A Crítica
-    caption: A helicopter lands beside a cannabis field among tree stumps
+    caption: "Agents pull up cannabis plants in a cleared forest plot, with a police helicopter behind them (La Nación)."
 created_by_model: anthropic/opus-5.5
 details:
   activity: [cultivation]
@@ -63,6 +59,8 @@ sources:
     publisher: A Crítica (Campo Grande)
     date: 2026-08-24
     language: pt
+open_questions:
+  - A Crítica published further helicopter and field photos of the same Nueva Alianza phase without separate direct media_url entries here.
 ---
 
 Paraguay's National Anti-Drug Secretariat (Senad) announced on 31 August 2026 the results of the

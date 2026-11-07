@@ -51,13 +51,11 @@ sources:
 media:
   - kind: photo
     url: https://ignitenews.com/2026/09/11/police-destroy-53000-cannabis-plants-valued-at-22-million-in-linden/
+    media_url: https://ignitenews.b-cdn.net/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-11-at-9.48.04-AM.jpeg
     publisher: Ignite News
-    caption: A cannabis field found at Yaruni Bend, Linden
-  - kind: photo
-    url: https://inewsguyana.com/22m-worth-of-ganja-destroyed-during-police-operation-in-upper-demerara-river/
-    archived: https://web.archive.org/web/20260913011815/https://inewsguyana.com/22m-worth-of-ganja-destroyed-during-police-operation-in-upper-demerara-river/
-    publisher: iNews Guyana
-    caption: Police photographs of the farms and drying areas destroyed by fire
+    caption: "A wooden camp structure burning during the Yaruni Bend destruction operation (Ignite News)."
+open_questions:
+  - iNews Guyana published additional farm and drying-area photos of the same operation without separate direct media_url entries here.
 ---
 
 Police destroyed about 53,000 cannabis plants on two farms at Yaruni Bend, Linden, in the Upper

@@ -29,16 +29,9 @@ data_sources:
 media:
   - kind: photo
     url: https://www.tbsnews.net/bangladesh/microbus-carrying-cannabis-plunges-brahmanbaria-pond-during-police-chase-1527071
+    media_url: https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/08/28/783027817_2337631430382814_3000842500197681259_n.jpg
     publisher: The Business Standard
-    caption: 'The upturned microbus and nine sacks of cannabis floating in the pond at Kasba, Brahmanbaria, on 28 August 2026. Photo: Collected'
-  - kind: photo
-    url: https://unb.com.bd/category/Bangladesh/police-recover-9-sacks-of-cannabis-after-microbus-crashes-into-pond-in-brahmanbaria/194082
-    publisher: United News of Bangladesh
-    caption: 'The scene at the pond in Kasba, Brahmanbaria, after the microbus crashed during the police chase on 28 August 2026. Photo: UNB'
-  - kind: photo
-    url: https://starnews.com.bd/country/21458/microbus-falls-into-pond-after-chase-9-bags-of-indian-marijuana-found.html
-    publisher: Star News
-    caption: 'The scene at the pond in Khidirpur, Kasba, after the microbus crashed on 28 August 2026. Photo: Star News'
+    caption: 'The upturned microbus and cannabis sacks floating in the pond at Kasba, Brahmanbaria, on 28 August 2026. Photo: Collected'
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [bangladesh, brahmanbaria, indian-cannabis, smuggling, seizure]

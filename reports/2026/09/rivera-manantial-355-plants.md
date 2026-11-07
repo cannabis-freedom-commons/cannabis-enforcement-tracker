@@ -42,6 +42,7 @@ open_questions:
   - The reports say a judge ordered them held and taken to the prosecutor that afternoon. No charge or later outcome is given.
   - The plants are described as seized. The reports do not say they were destroyed.
   - A cocaine and coca-paste seizure in Artigas and Salto the previous week is a different investigation, left out here.
+  - Further aerial ministry photos of the same clearing remain without separate media_url entries after consolidation.
 sources:
   - title: Operación Manantial logra la desarticulación de grupo delictivo dedicado a la plantación de marihuana en Rivera
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/operacion-manantial-logra-desarticulacion-grupo-delictivo-dedicado-plantacion
@@ -55,33 +56,20 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/imagenes/noticias/WhatsApp%20Image%202026-09-09%20at%2012.03.43.jpeg
+    url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/operacion-manantial-logra-desarticulacion-grupo-delictivo-dedicado-plantacion
+    media_url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/imagenes/noticias/WhatsApp%20Image%202026-09-09%20at%2012.03.43.jpeg
     publisher: Ministerio del Interior
-    caption: Rows of young plants under mesh on hoops in a field, published with the Interior Ministry account of the Rivera raids.
+    caption: "Rows of young plants under mesh on hoops in a field (Ministerio del Interior)."
   - kind: photo
-    url: https://media.elobservador.com.uy/p/a8fd8a0bc74b2cb1f12f92bd6612a27b/adjuntos/362/imagenes/100/770/0100770196/1200x675/smart/plantacion-marihuana-rivera.jpg
+    url: https://www.elobservador.com.uy/nacional/policia-desarticulo-plantacion-marihuana-rivera-incautaron-mas-350-plantas-y-hay-tres-detenidos-n6056831
+    media_url: https://media.elobservador.com.uy/p/a8fd8a0bc74b2cb1f12f92bd6612a27b/adjuntos/362/imagenes/100/770/0100770196/1200x675/smart/plantacion-marihuana-rivera.jpg
     publisher: El Observador
-    caption: The same field of young plants under mesh, credited by El Observador to the Interior Ministry.
+    caption: "The same field of young plants under mesh, credited by El Observador to the Interior Ministry."
   - kind: photo
-    url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/WhatsApp%20Image%202026-09-09%20at%2014.42.57.jpeg?itok=gLhaIFwO
+    url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/operacion-manantial-logra-desarticulacion-grupo-delictivo-dedicado-plantacion
+    media_url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/WhatsApp%20Image%202026-09-09%20at%2014.42.57.jpeg
     publisher: Ministerio del Interior
-    caption: Rows of young plants under white mesh, with the sheeting pulled aside along the edge of the plot.
-  - kind: photo
-    url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/WhatsApp%20Image%202026-09-09%20at%2014.42.56.jpeg?itok=39JS1mgb
-    publisher: Ministerio del Interior
-    caption: The planting on a wooded slope, with a black tarp and a small shelter above the rows.
-  - kind: photo
-    url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/WhatsApp%20Image%202026-09-09%20at%2014.42.56%20%281%29.jpeg?itok=mRRMVxkJ
-    publisher: Ministerio del Interior
-    caption: A wider view of the same rows, with mesh drawn back on the right and a wooden box at the edge.
-  - kind: photo
-    url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/WhatsApp%20Image%202026-09-09%20at%2014.42.55.jpeg?itok=x-oHtzSw
-    publisher: Ministerio del Interior
-    caption: An aerial view of the mesh-covered rows in a clearing in the scrub.
-  - kind: photo
-    url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/WhatsApp%20Image%202026-09-09%20at%2014.42.55%20%281%29.jpeg?itok=h0XbWkHA
-    publisher: Ministerio del Interior
-    caption: A distant aerial view of the same clearing on a wooded hill, with plantation forest behind it.
+    caption: "Rows of young plants under white mesh, with the sheeting pulled aside (Ministerio del Interior)."
 ---
 
 On the morning of Wednesday 9 September 2026, police arrested three people in Rivera and seized 355 cannabis plants. [@1] A 24-year-old man had no criminal record. [@1] A 32-year-old man and a 61-year-old woman did. [@1]
