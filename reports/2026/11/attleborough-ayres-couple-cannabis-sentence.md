@@ -314,6 +314,11 @@ sources:
     publisher: Redditch Advertiser (PA News Agency)
     date: 2026-11-05
     language: en
+  - title: Married couple in their 70s who grew £46,000 of cannabis sentenced
+    url: https://www.ludlowadvertiser.co.uk/news/national/26704139.married-couple-70s-grew-gbp46-000-cannabis-sentenced/
+    publisher: Ludlow Advertiser (PA News Agency)
+    date: 2026-11-05
+    language: en
 open_questions:
   - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
   - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
@@ -364,7 +369,7 @@ with intent to supply, while Marion Ayres admitted producing cannabis. [@1,4,5,6
 
 Both were arrested after Norfolk Constabulary officers executed a warrant at the
 couple's home on 20 May 2025, as part of an investigation into cannabis supply
-in the area. [@2,6,7,8,9,10,11,12,14,15,16,17,18,20,21,22,23,24,25,26,27,28,29,30,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,55,56,57,58] Officers found 25 cannabis plants and approximately 5.7 kg of
+in the area. [@2,6,7,8,9,10,11,12,14,15,16,17,18,20,21,22,23,24,25,26,27,28,29,30,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,55,56,57,58,59] Officers found 25 cannabis plants and approximately 5.7 kg of
 dried cannabis, which police estimated had a street value of more than £46,000.
 [@1,4,5,6,7,8,9,10,12,13,14,15,18,20,21,22,24,25,26,27,28,29,30,31,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58] At an earlier hearing at Norwich Magistrates' Court, Mark Ayres had pleaded
 guilty to possessing 5.7 kg of cannabis with intent to supply and to producing
@@ -377,7 +382,7 @@ report concerns about drugs to police. [@1,17,18,20,21,23,24,25,27,30,32,37,38,3
 
 He began growing cannabis at a former gym in his home. [@4,51,53] He started small, with just eight plants in 2023, but extended this to 25 which were found when he was arrested. [@4,19,53] On one occasion Marion Ayres bought bags off the internet for the drugs. [@4,19,53] The court was told Mark was diagnosed with cancer in 2018 and conducted research into the medicinal benefits of the drug. [@4,19,53]
 
-The sentencing was held at Norfolk Crown Court on Thursday 5 November 2026. [@18,28,29,53]
+The sentencing was held at Norfolk Crown Court on Thursday 5 November 2026. [@18,28,29,53,59]
 
 Both had pleaded guilty to producing cannabis, and Mark Ayres also admitted possessing cannabis with intent to supply. [@28,34,36,42,54]
 
@@ -387,6 +392,6 @@ Police photographs of the couple's home show over a dozen cannabis plants cramme
 
 The Daily Mail reports that Ayres, listed as a director of multiple companies, told the court through his barrister that he had first used CBD oil, a legal product in the UK, before turning to cannabis after his cancer returned in 2023. [@53] Recorder John Hardy said the operation Ayres developed after "health difficulties" "hid behind a veneer of respectability". [@53]
 
-The couple, of the Attleborough hamlet Burgh Common, were both arrested after the search on May 20 last year. [@55]
+The couple, of the Attleborough hamlet Burgh Common, were both arrested after the search on May 20 last year. [@55,59]
 
-Norfolk Constabulary said the couple were sentenced at Norfolk Crown Court on Thursday 5 November 2026. [@58]
+Norfolk Constabulary said the couple were sentenced at Norfolk Crown Court on Thursday 5 November 2026. [@58,59]
