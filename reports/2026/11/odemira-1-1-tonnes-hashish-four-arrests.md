@@ -83,6 +83,11 @@ sources:
     publisher: Jornal TVS
     date: 2026-11-06
     language: pt
+  - title: 'Narcotráfico: 4 detidos e 1,1 toneladas de pólen de haxixe em Odemira'
+    url: https://m.noticiasaominuto.com/pais/3079796/narcotrafico-4-detidos-e-1-1-toneladas-de-polen-de-haxixe-em-odemira
+    publisher: Notícias ao Minuto
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
@@ -101,6 +106,14 @@ open_questions:
   - The Jornal TVS page says the four detainees 'serão presentes a primeiro interrogatório judicial' while the existing report records that they were placed in pre-trial detention; the accounts describe the case at slightly different moments.
   - Jornal TVS gives no separate date for the operation, only that it ran 'nos últimos dias'; 6 November 2026 is its publication date.
   - The submitted page's only article image is a screen capture captioned with a timestamp and no credit, so it is not established to show this seizure and no media is listed.
+  - The article gives no separate date for the police action, only that it ran over recent days and that the detainees would face a first judicial interrogation on Friday, 6 November 2026, which is also its publication date.
+  - The page's second picture illustrates an earlier feature on trafficking along the Portuguese coast, not this operation, so only the first image is listed.
+media:
+  - kind: photo
+    url: https://m.noticiasaominuto.com/pais/3079796/narcotrafico-4-detidos-e-1-1-toneladas-de-polen-de-haxixe-em-odemira
+    media_url: https://media-manager.noticiasaominuto.com/960/naom_6aedd17ce4b12.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDMwLCJjcm9wSGVpZ2h0Ijo1ODAsImNyb3BYIjoxNCwiY3JvcFkiOjEwfX0=
+    publisher: Notícias ao Minuto
+    caption: 'Photo published with the article on the Odemira seizure, credited to the Judicial Police (PJ). Photo: PJ'
 ---
 
 Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
@@ -109,7 +122,7 @@ tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
 were to be brought before a judge for a first judicial interrogation and
 coercive measures. [@1]
 
-Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7,9] The
+Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7,9,10] The
 operation began after authorities spotted a suspicious high-speed vessel crewed
 by unidentified people whose presence near the Portuguese coast was unjustified.
 [@1] House searches led to the seizure of a car with a false number plate. [@1]
@@ -121,7 +134,7 @@ and the GNR's Coastal and Border Control Unit, named Operation Barcas, against
 international trafficking by sea. [@1,4,5,7] The operation, called Barcas, ran over
 recent days with support from the Navy and the Air Force. [@2,9] It also had
 support from the Maritime Analysis and Operations Centre – Drugs, an
-international cooperation body against trafficking by sea. [@2,9]
+international cooperation body against trafficking by sea. [@2,9,10]
 
 The four detainees are aged between 16 and 43 and are foreign nationals. [@3,7] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3,7]
 
