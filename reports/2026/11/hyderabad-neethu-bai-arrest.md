@@ -144,6 +144,11 @@ sources:
     publisher: ABP Desam
     date: 2026-11-07
     language: te
+  - title: గంజాయి కేసుల్లో మహిళ అరెస్ట్
+    url: https://www.manatelangana.news/amp/telangana-breaking-news/woman-arrested-in-ganja-trafficking-1650061
+    publisher: మన తెలంగాణ
+    date: 2026-11-07
+    language: te
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
@@ -206,6 +211,11 @@ open_questions:
   - The Disha Daily page image is captioned only with the headline and carries no credit, so it cannot be confirmed to show the arrest and no media entry is added.
   - ABP Desam gives no age for Nithu Bai and no figure for the cash found on her at the arrest.
   - ABP Desam's only image is captioned with the headline and carries no credit, so its provenance is not documented beyond the page.
+  - Manatelangana gives no day other than Friday for the arrest; read with its 7 November 2026 publication that means 6 November, while the report's opening sentence keeps 5 November from earlier accounts.
+  - Manatelangana gives the woman's age as 51, matching several other accounts but not the 48 in the report's opening sentence.
+  - Manatelangana does not say whether the ₹1,59,500 cash seized was cannabis proceeds or a cannabis weight, so no cannabis figure is added.
+  - Manatelangana's only image carries a caption repeating the headline and no credit, so it cannot be confirmed to show the arrest and is not listed as media.
+  - The 22 kg ganja and ₹40 lakh cash, 7.5 kg ganja and ₹5 lakh, 22 kg ganja and ₹22 lakh cash and ₹2.60 lakh seizures Manatelangana recites are earlier operations already described in the report and are not recounted here.
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
@@ -250,3 +260,5 @@ In three earlier operations linked to the family, police seized ₹67 lakh in ca
 Disha Daily, quoting EAGLE Force director Sandeep Shandilya, reported that about 12 cases were registered against her in the last two years alone by Gachibowli police, the EAGLE Force and Excise units. [@16] Shandilya said police were examining the construction documents and the source of funds for the buildings and were taking steps to confiscate all the properties acquired with drug money under the law. [@16]
 
 The currency counting machines and digital weighing machines she used in a business dealing in ₹24 lakh worth of ganja a day were also seized, the article said. [@17] She was arrested in an autorickshaw travelling towards Mangalhat, the area adjoining Asif Nagar. [@17]
+
+Manatelangana reported the police arrest of 51-year-old Kalapathi Neethu Bai of Nanakramguda while she was travelling in an autorickshaw towards Mangalhat on Friday. [@18] The page said police had told it that she was absconding in 13 of those cases. [@18] The police enquiries behind the case counts ran from 2017 up to this year, when the report was published. [@18] Officers seized ₹1,59,500 in cash and one mobile phone from her and handed her to the Cyberabad Narcotics Police Station for further legal action. [@18] Manatelangana framed that scrutiny as an investigation of the family's buildings and of their Jayalakshmi Kirana and General Store accounts, which it said were already frozen. [@18] The page said she kept changing homes in the Nanakramguda, Gachibowli and Langer House areas and cut down her mobile phone use to stay ahead of police surveillance. [@18] Disha Daily, quoting EAGLE Force director Sandeep Shandilya, listed the 30 cases at the Dhoolpet, Narayanguda, Golconda, Serilingampally, Gachibowli and Cyberabad Narcotics police stations. [@16] The Siasat Daily reported that her customers were mostly in Nanakramguda, an area with a predominantly corporate-employee and student population. [@13]
