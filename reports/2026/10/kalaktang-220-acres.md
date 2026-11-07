@@ -76,6 +76,10 @@ sources:
     url: https://timesofindia.indiatimes.com/india/massive-anti-drug-drive-458-acres-of-illicit-cannabis-eradicated-in-arunachal-pradesh/articleshow/135629659.cms
     publisher: The Times of India
     date: 2026-11-07
+  - title: NCB, Security Forces Destroy Over 1.37 Lakh Kg Of Cannabis Plants Across 458 Acres In Arunachal
+    url: https://ommcomnews.com/india-news/ncb-security-forces-destroy-over-1-37-lakh-kg-of-cannabis-plants-across-458-acres-in-arunachal/
+    publisher: Ommcom News
+    date: 2026-11-07
 media:
   - kind: photo
     url: https://www.arunachaltimes.in/article/illicit-cannabis-cultivation-destroyed
@@ -110,13 +114,14 @@ open_questions:
   - The Times of India, Social News XYZ and India Today NE all rest on the same NCB account, so none is an independent observation of the fields.
   - The Times of India image is captioned only as a representative image, so no photo of the event is added.
   - 'Left out, as its quotation was not found in Social News XYZ: Joint teams destroyed more than 1.37 lakh kg (about 137 tonnes) of cannabis plants, grown mainly on community land, during the first phase of the drive.'
+  - The Ommcom News account is a republication of the same IANS report carried by other outlets and relies on the NCB press release, so it is not an independent observation of the fields.
 ---
 
 District police, the Narcotics Control Board, the Sashastra Seema Bal, the Central Reserve Police Force and the district administration destroyed illicit cannabis on at least 220 acres (about 89 hectares) in Kalaktang subdivision of West Kameng district. [@1,2] The two-day drive began on Monday 26 October 2026. [@1,2] Bomdila deputy superintendent of police Sashi Dore led it, under superintendent Dr D. W. Thongon and deputy commissioner Dr Dilip Kumar. [@1]
 
 About 50 acres at Boha, put at around 15,000 kilograms, were destroyed, then about 170 acres at Angkaling and R Pam, put at about 51,000 kilograms. [@1,2] Together the authorities' figures are about 66,000 kilograms. [@2] Gaon buras, the village headmen, panchayat leaders and residents of Boha and Angkaling assisted. [@1] The reports name no one arrested. [@1,2] Police said the drive against illicit cannabis cultivation would continue. [@1]
 
-The completed first phase covered about 458 acres in Kalaktang subdivision, up from the 220 acres recorded for the drive's first two days. [@3,4,6,9] The operation ran from 26 October to 3 November 2026, more than the two days covered by the earlier account of it. [@3,4,6,7,8] The NCB's Itanagar Zonal Unit led the drive, with 118 personnel and workers joined by the SSB, the CRPF, the Arunachal Pradesh Anti-Narcotics Task Force, West Kameng police and the district administration. [@3,4] Ground surveys by West Kameng police and the district administration, with satellite imagery from the NCB, located the cultivation in rugged terrain. [@3,4,9] The NCB said the area cleared of cannabis in Arunachal Pradesh in 2026 was more than eight times the area cleared in all of 2025. [@3,4,9]
+The completed first phase covered about 458 acres in Kalaktang subdivision, up from the 220 acres recorded for the drive's first two days. [@3,4,6,9] The operation ran from 26 October to 3 November 2026, more than the two days covered by the earlier account of it. [@3,4,6,7,8] The NCB's Itanagar Zonal Unit led the drive, with 118 personnel and workers joined by the SSB, the CRPF, the Arunachal Pradesh Anti-Narcotics Task Force, West Kameng police and the district administration. [@3,4,10] Ground surveys by West Kameng police and the district administration, with satellite imagery from the NCB, located the cultivation in rugged terrain. [@3,4,9] The NCB said the area cleared of cannabis in Arunachal Pradesh in 2026 was more than eight times the area cleared in all of 2025. [@3,4,9,10]
 
 Joint teams destroyed more than 1.37 lakh kg (about 137 tonnes) of cannabis plants, grown mainly on community land, during the first phase of the drive. [@5,6]
 
