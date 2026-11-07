@@ -417,6 +417,11 @@ sources:
     publisher: 鏡週刊 Mirror Media
     date: 2026-11-07
     language: zh
+  - title: 篠崎泫飛香港見Toyz！兩人合體直播　他一露臉「觀看人數飆破萬」
+    url: https://star.setn.com/news/1934805
+    publisher: 三立娛樂星聞
+    date: 2026-11-06
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -581,8 +586,10 @@ Officers from the immigration agency's Changhua County task force collected Liu 
 
 Officers from the immigration agency took Liu Weijian to Taichung Airport on 3 November for the forced expulsion, and he is barred from entering Taiwan for six years. [@64]
 
-Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69,70,72] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67]
+Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69,70,72,73] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67]
 
 Liu Weijian appeared by voice beside his girlfriend 篠崎泫 during a Hong Kong livestream on 6 November, drawing about 5,000 viewers instead of the few hundred the broadcast normally has. [@68] Immigration authorities said a marriage to a Taiwan resident would not by itself confer residence rights, and any application by a Hong Kong or Macao resident would still be reviewed under the relevant permit rules. [@68]
 
 The livestream drew more than 11,000 viewers, peaking at 13,000. [@69,72] Liu said he had not restarted his own channel because his computer and livestreaming equipment in Hong Kong were not ready and he wanted to rest a few days, and that he would restart once they were in place. [@69]
+
+The livestream drew about 13,000 viewers, up from the few hundred people who normally watch it. [@73] Toyz showed only half his face on camera, and 篠崎泫 held up a thick stack of the letters she had written to him in prison. [@73]
