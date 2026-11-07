@@ -75,6 +75,11 @@ sources:
     url: https://www.freepressjournal.in/pune/bangkok-passenger-arrested-at-pune-airport-with-hydroponic-weed-worth-114-crore
     publisher: The Free Press Journal
     date: 2026-11-06
+  - title: 'बँकॉकहून आलेल्या महिलेकडून गांजा जप्त: पुणे विमानतळावर 3 किलो 255 ग्रॅम हायड्रोपोनिक गांजा सापडला; किंमत 1.14 कोटी रुपये'
+    url: https://divyamarathi.bhaskar.com/local/maharashtra/pune/news/pune-airport-customs-seize-hydroponic-ganja-bangkok-smuggling-139613663.html
+    publisher: Divya Marathi
+    date: 2026-11-06
+    language: mr
 open_questions:
   - The woman's name, age and precise home address were not published; only that she is a Mumbai resident.
   - Rs 1.14 crore is Customs' estimated illicit-market value, not an independently confirmed price.
@@ -94,11 +99,12 @@ open_questions:
   - The article gives no remand or court outcome; it says only that further investigation is under way.
   - The page's only image is a headline composite titled with the report headline, not identified as a photograph of this seizure, so it is not listed as media.
   - The Free Press Journal earlier published a separate report on the 10.642 kg seizure of 4 November, which is a different event recorded in its own report.
+  - The Divya Marathi page is paywalled at the app-promotion point; only the first paragraph and the headline could be read, which limits what it can corroborate beyond the weight, value and concealment.
 ---
 
 Officers of the Air Intelligence Unit and Airport Batch of Pune Customs
 intercepted an Indian woman arriving from Bangkok at Pune International Airport
-on the evening of 5 November 2026. [@1,3,4,5] She had flown in on Air India Express
+on the evening of 5 November 2026. [@1,3,4,5,6] She had flown in on Air India Express
 flight IX-291 and was stopped on passenger profiling and suspicious scanning of
 her check-in baggage. [@1,3] The woman, a Mumbai resident, was arrested and
 further investigation was under way. [@2]
