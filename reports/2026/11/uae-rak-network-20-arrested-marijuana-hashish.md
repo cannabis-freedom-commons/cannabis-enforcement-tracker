@@ -116,6 +116,11 @@ sources:
     publisher: الإمارات 24
     date: 2026-11-06
     language: ar
+  - title: العراق يطيح بشبكة مخدرات متعددة الجنسيات داخل الإمارات
+    url: https://ultrairaq.ultrasawt.com/%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D8%B7%D9%8A%D8%AD-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1
+    publisher: الترا عراق
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -137,13 +142,15 @@ open_questions:
   - The WAM text gives no separate weight or street value for the marijuana or hashish; the more than 30 kg covers all the non-Captagon drugs together.
   - The page gives no date for the interception or arrests; 6 November 2026 is its publication and announcement date.
   - The page names no border crossing or border area in Ras Al Khaimah and reports no charges or court stage.
+  - The Ultra Iraq page reproduces the UAE state news agency's statement as other outlets did; it attributes no separate Iraqi statement and adds no independent figures.
+  - The page's main image is a designed graphic captioned only 'drugs, arrest, UAE', not a photograph of this seizure, so no media entry is added; the other images on the page illustrate unrelated stories.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
 6 November 2026. [@1,6,7,8,9,10,11,12,13] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
-link of the plan, from smuggling to preparation for dealing. [@1,6,10]
+link of the plan, from smuggling to preparation for dealing. [@1,6,10,14]
 
 Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
