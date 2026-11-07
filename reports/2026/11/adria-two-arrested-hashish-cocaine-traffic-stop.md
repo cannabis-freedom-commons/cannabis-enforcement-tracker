@@ -62,6 +62,11 @@ sources:
     publisher: Questura di Rovigo, Polizia di Stato
     date: 2026-11-06
     language: it
+  - title: 'Spacciatori sorpresi dalla polizia con cacciaviti, chiavi inglesi, hashish e cocaina: arrestati'
+    url: https://www.ilgazzettino.it/nordest/rovigo/spacciatori_cacciaviti_chiavi_inglesi_hashish_cocaina_arrestati_adria-9873506.html
+    publisher: Il Gazzettino
+    date: 2026-11-06
+    language: it
 open_questions:
   - The hashish was found in the car and the cocaine on the men at the police station; the sources describe them separately but do not say whether the men admitted selling drugs or gave any explanation.
   - The judge's orders are precautionary measures pending further proceedings, not a conviction; no trial outcome is reported.
@@ -69,21 +74,23 @@ open_questions:
   - No cannabis street value, no number of hashish doses and no court date were published.
   - Il Gazzettino and Polesine24 carry the same police statement and the same weights; they were not added as separate citations because the headquarters statement and Rovigo.News already carry them.
   - 'Left out, as its quotation was not found in Questura di Rovigo, Polizia di Stato: The other must report to the judicial police four times a week, stay in Adria and remain at home between 19:00 and 07:00.'
+  - Il Gazzettino describes the men as giving a very nervous impression, where the recorded account says they gave no clear account of where they came from; the two accounts differ in emphasis rather than in the facts recorded.
 ---
 
 Officers of the Adria police station in Rovigo province arrested two men after
 stopping their car on the afternoon of 2 November 2026. [@2] Both occupants were
 foreign nationals living in the province, and officers said they gave no clear
-account of where they had come from or were going. [@1]
+account of where they had come from or were going. [@1,3]
 
 Inside the car, in concealed places, police found screwdrivers, spanners and
-pipe wrenches, a precision scale and a kitchen knife. [@1] The car also held a
-packet of 2.30 grams of hashish, the cannabis seized in the case. [@1] At the
+pipe wrenches, a precision scale and a kitchen knife. [@1,3] The car also held a
+packet of 2.30 grams of hashish, the cannabis seized in the case. [@1,3] At the
 police station the two men were searched and 20 packets of cocaine, weighing
-25.96 grams in all, were found on them. [@1]
+25.96 grams in all, were found on them. [@1,3]
 
 Police provisionally accused both men of possessing drugs for sale and of
-unjustified possession of altered keys or lockpicks. [@1] The Rovigo public
+unjustified possession of altered keys or lockpicks. [@1,3] The Rovigo public
 prosecutor's office asked a judge to confirm the arrests, and the judge did so.
-[@1] One of the two was placed under house arrest with an electronic tag. [@1]
+[@1,3] One of the two was placed under house arrest with an electronic tag. [@1,3]
 
+The other must report to the judicial police four times a week, stay in Adria and remain at home between 19:00 and 07:00. [@3]
