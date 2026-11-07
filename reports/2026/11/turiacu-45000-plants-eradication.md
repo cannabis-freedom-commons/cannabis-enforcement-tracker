@@ -20,6 +20,11 @@ media:
     media_url: https://www.policiacivil.ma.gov.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-08.37.50.jpeg
     publisher: Polícia Civil do Maranhão
     caption: 'Police photo of the cannabis plants destroyed in Turiaçu. Photo: Divulgação/PCMA'
+  - kind: video
+    url: https://g1.globo.com/google/amp/ma/maranhao/videos-jmtv-1-edicao/video/policia-civil-erradica-cerca-de-45-mil-pes-de-maconha-em-operacao-em-turiacu-15165548.ghtml
+    media_url: https://s3.glbimg.com/v1/AUTH_e1b09a2d222b4900a437a46914be81e5/static/amp/index.html?videosids=15165548&adunit=tvg_G1%2FSua_Regiao%3ENordeste%3EMaranhao&adcustomdata=ambient%3Damp%26tvg_pgStr%3Dg1%2Fma%2Fmaranh%C3%A3o%2Fv%C3%ADdeos+jmtv+1%C2%AA+edi%C3%A7%C3%A3o%26tipo_pagina%3Dvideo&domain=g1.globo.com&ambient=amp&ga_productUA=UA-296593-3&ga_extras=%7B%22dimension1%22%3A%22amp%22%7D&ga4_measurementid=G-4DF8YFDHV7
+    publisher: g1
+    caption: 'JMTV 1ª Edição television report on the destruction of the cannabis plantations in rural Turiaçu. Video: TV Mirante/G1'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fc6f2feb8dc8a0d56d00d7932c1a5a91
@@ -40,13 +45,18 @@ sources:
     publisher: Polícia Civil do Maranhão
     date: 2026-11-06
     language: pt
+  - title: Polícia Civil erradica cerca de 45 mil pés de maconha em operação em Turiaçu
+    url: https://g1.globo.com/google/amp/ma/maranhao/videos-jmtv-1-edicao/video/policia-civil-erradica-cerca-de-45-mil-pes-de-maconha-em-operacao-em-turiacu-15165548.ghtml
+    publisher: g1
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The reports give only an approximate plant count and no weight, area cleared, value or arrests.
 ---
 
 Maranhão Civil Police located and destroyed about 45,000 cannabis plants during
 an operation on Thursday 5 November 2026 in the rural zone of Turiaçu, on the
-state's western coast. [@1] No arrests were reported in the operation. [@2]
+state's western coast. [@1,4] No arrests were reported in the operation. [@2]
 Police said investigations are continuing to identify and criminally hold
 responsible those involved and to find other possible growing areas. [@3]
 
@@ -63,4 +73,3 @@ operation. [@3] The operation was coordinated by the Turiaçu Civil Police
 station. [@3] The work had support from the Tactical Air Center (CTA), the
 Turiaçu Municipal Civil Guard and the Military Police of Governador Nunes
 Freire. [@3]
-
