@@ -58,6 +58,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-06
     language: hi
+  - title: 'दून पुलिस ने दो नशा तस्करों को दबोचा: 2.790 किलो गांजा और 464 ग्राम चरस बरामद'
+    url: https://uttarakhandaaj.com/doon-police-ki-girat-main-aaye-2-nasha-taskar/
+    publisher: Uttarakhand Aaj
+    date: 2026-11-06
+    language: hi
 open_questions:
   - No street value for the seized charas was published.
   - The report does not specify which Mirzapur the accused said he bought the charas in.
@@ -83,6 +88,6 @@ NDPS Act was registered against him at Vikasnagar Kotwali, and he was produced
 in court and sent to jail. [@1,2]
 
 Police said an NDPS Act case had also been registered against him at Vikasnagar
-Kotwali in 2019. [@1]
+Kotwali in 2019. [@1,3]
 
 Station officer Rajiv Routhan said police acted on a tip on 5 November that a car in the Bhojawala area contained a suspicious item. [@2]
