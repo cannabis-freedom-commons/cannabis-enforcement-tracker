@@ -33,6 +33,10 @@ sources:
     url: https://www.kiprinform.com/en/news/five-defendants-deny-30-charges-over-230kg-drug-seizure-in-nicosia-trial-adjourned-to-december-17/
     publisher: Cyprus Inform
     date: 2026-11-06
+  - title: Cyprus police freeze €750,000 in assets linked to suspected drug network | Pi News Cyprus and Cypriot News
+    url: https://www.pinewsuk.com/cyprus-police-freeze-e750000-in-assets-linked-to-suspected-drug-network/
+    publisher: Pi News
+    date: 2026-11-06
 open_questions:
   - The 171.5kg cannabis total is the sum of the 167kg of cannabis and 4.5kg of cannabis resin reported from the February phase; the cocaine is excluded.
   - Only the case numbers are stated, not what the 30 charges allege or what penalties they carry.
@@ -40,12 +44,14 @@ open_questions:
   - It is not established whether the four remanded under Operation Plegma will be added to the indictment; the defence lawyer put it as a possibility.
   - The sources disagree on the court's name, describing it as the Nicosia criminal court and the Nicosia Assize Court.
   - The page image is a file photo of the Nicosia district court and does not show the hearing.
+  - Pi News attributes to Christos Andreou the remark that the February drugs were intended for the Cypriot market; the Cyprus Mail account of the same hearing does not repeat it.
+  - The 26 arrests and 27 searches of Operation Plegma are recorded in a separate report on that operation.
 ---
 
 Five defendants charged over the seizure of more than 230kg of drugs in Nicosia
 in February pleaded not guilty to all 30 charges before the Nicosia criminal
-court on 6 November 2026. [@1] The trial was adjourned to 17 December, amid the
-prospect that four more suspects will be added to the indictment. [@1] All five
+court on 6 November 2026. [@1,4] The trial was adjourned to 17 December, amid the
+prospect that four more suspects will be added to the indictment. [@1,4] All five
 have been held in custody at the central prisons since their arrest and remain
 there. [@1]
 
@@ -63,7 +69,7 @@ connected to the driver then uncovered 167kg of cannabis, 62kg of cocaine and
 4.5kg of cannabis resin, and police also seized firearms, explosive devices and
 cash. [@1] Christos Andreou, head of the organised crime directorate, said
 assets worth €750,000 have been frozen, comprising property valued at about
-€400,000 and €350,000 in cash and bank accounts. [@1] Police said on 6 November
+€400,000 and €350,000 in cash and bank accounts. [@1,4] Police said on 6 November
 that the network behind the operation had been largely dismantled, and Andreou
 said that could not be confirmed until inquiries were complete. [@1]
 
@@ -79,3 +85,4 @@ of the defendants. [@2] The Assize Court in Nicosia set the case for hearing on
 17 December. [@2] Cyprus Inform reported the same denials of all 30 charges, the
 same adjournment and the same February quantities. [@3]
 
+Police said the drugs were believed to be intended for the Cypriot market. [@4] Investigations continue, and further arrests have not been ruled out because statements from the suspects and data from the seized phones may point to more people. [@1] Andreou said the directorate, launched in early October, is handling four other major cases, among them one involving almost half a ton of ketamine bound for the Israeli market. [@1]
