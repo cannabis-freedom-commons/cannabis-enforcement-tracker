@@ -21,6 +21,16 @@ sources:
     publisher: Улпресса
     date: 2026-11-06
     language: ru
+  - title: В Зеленовском сельском поселении благодаря вмешательству прокуратуры уничтожены места произрастания конопли
+    url: https://moskva.media-talk.ru/news/incidents/v-zelenovskom-selskom-poselenii-blagodarya-vmeshatelstvu-prokuratury-unichtozheny-mesta-proizrastani/
+    publisher: МЕДИА ТОК
+    date: 2026-11-06
+    language: ru
+  - title: Ульяновские прокуроры заставили властей района уничтожить заросли конопли
+    url: https://www.ul.kp.ru/online/news/7260287/
+    publisher: KP.RU
+    date: 2026-11-06
+    language: ru
 open_questions:
   - The article gives no date for the destruction or the inspection; 6 November 2026 is its publication date.
   - No figure for the area or number of plants destroyed, and no weight of cannabis, was published.
@@ -29,13 +39,12 @@ open_questions:
 
 Prosecutors in Starokulatkinsky District, Ulyanovsk Oblast, found that wild
 cannabis patches in the Zelenovsky rural settlement had not been cleared and
-moved to have them destroyed. [@1]
+moved to have them destroyed. [@1,2]
 
 During an inspection, the prosecutor's office found that the officials
 responsible had not taken the measures needed to identify and destroy
-drug-containing plants. [@1] The prosecutor's office said the uncut cannabis
-created the conditions for people to acquire marijuana illegally. [@1]
+drug-containing plants. [@1,2,3] The prosecutor's office said the uncut cannabis
+created the conditions for people to acquire marijuana illegally. [@1,2]
 
 The district prosecutor filed a formal demand to remedy the violations, and the
-cannabis was destroyed after that. [@1]
-
+cannabis was destroyed after that. [@1,2]
