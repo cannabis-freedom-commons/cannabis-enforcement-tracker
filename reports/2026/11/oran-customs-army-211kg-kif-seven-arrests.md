@@ -70,6 +70,11 @@ sources:
     publisher: Algérie Presse Service
     date: 2026-11-07
     language: fr
+  - title: Plus de 211 kg de kif traité saisis à Oran
+    url: https://www.expressdz.dz/2026/11/07/plus-de-211-kg-de-kif-traite-saisis-a-oran/
+    publisher: L'express DZ
+    date: 2026-11-07
+    language: fr
 open_questions:
   - Neither report gives the day of the operation; 7 November 2026 is the publication date of both accounts and is used as the incident date.
   - The customs statement does not say where in Oran the seizure took place or how the treated kif was being carried.
@@ -79,20 +84,21 @@ open_questions:
   - The lead photograph is published with the article, but no caption or credit establishes which seizure it shows.
   - Left out agencies, as its quotation was not found in الشروق أونلاين.
   - The APS dispatch gives no separate date for the operation; 7 November 2026 is its publication date.
+  - L'express DZ reproduces the same General Directorate of Customs communiqué as the outlets already cited, so it is not independent reporting of the operation.
 ---
 
 Algeria's mobile customs brigade of the Oran extérieur divisional customs
 inspectorate, working with a detachment of the National People's Army (ANP),
-seized 211.066 kg of treated kif in Oran and arrested seven people. [@1,3] The
+seized 211.066 kg of treated kif in Oran and arrested seven people. [@1,3,4] The
 figures came in a statement from the General Directorate of Customs. [@1]
 
 The operation also recovered 320,000 dinars and 1,750 euros in cash, according
-to the customs statement. [@1,3] Officers seized five passenger cars and two
+to the customs statement. [@1,3,4] Officers seized five passenger cars and two
 motorcycles the suspects had used. [@1] The customs statement placed the seven
 suspects at the disposal of the justice system. [@1]
 
 After the usual procedures, the seven arrested people were brought before the
-public prosecutor at the Oran court to answer for the alleged offences. [@1,3]
+public prosecutor at the Oran court to answer for the alleged offences. [@1,3,4]
 Echorouk Online, Algeria's daily Echorouk, reported the same customs operation
 in Arabic, with 211.066 kg, seven arrests, five cars, two motorcycles, 320,000
 dinars and 1,750 euros. [@2]
