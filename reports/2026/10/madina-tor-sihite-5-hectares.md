@@ -173,6 +173,9 @@ open_questions:
   - The Karosatuklik and VIVA Medan pages give no weight, value or hectare split for the Tor Sihite field beyond the plant counts already reported.
   - Neither page names a grower, owner or manager, a charge or a court step.
   - The photos on the Karosatuklik page are filed as Facebook image grabs with no caption or credit establishing which part of the operation they show, so no media entry is added for them.
+  - The page carries the deputy regent's remarks of 7 November 2026 about the 31 October 2026 destruction and gives no new operation date, area or plant count beyond the five hectares and about 150,000 plants already recorded.
+  - The page pairs five hectares at Rao-Rao Dolok, Tambangan with the Tor Sihite name used elsewhere, which may be the same site under two names.
+  - The page photo carries no caption or credit and appears to be the police handout already linked from other outlets, so no media entry is added.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -444,6 +447,11 @@ sources:
     publisher: Karosatuklik.com
     date: 2026-11-06
     language: id
+  - title: Wabup Madina Apresiasi Atensi Kapolri, Dorong Pemusnahan Ladang Ganja Terus Berlanjut
+    url: https://madinapos.com/wabup-madina-apresiasi-atensi-kapolri-dorong-pemusnahan-ladang-ganja-terus-berlanjut/
+    publisher: Madina Pos
+    date: 2026-11-07
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -520,7 +528,7 @@ named or arrested in either account. [@1,2,24,27,29,36,39,42,46]
 BNNK Mandailing Natal head Syamsul Arifin said officers verified the crop during a follow-up
 investigation before BNN North Sumatra ordered a joint destruction involving about 90 personnel
 from provincial police, the regency BNN office, the army, local government and community
-volunteers. [@1] Comb Pol Josua Tampubolon of BNN North Sumatra said the team found two nearby
+volunteers. [@1,55] Comb Pol Josua Tampubolon of BNN North Sumatra said the team found two nearby
 sites totalling five hectares—4.5 hectares plus half a hectare ten metres apart—and uprooted
 about 150,000 plants before burning them on the spot. [@2,4,8,10,13,14,15,16,17,18,19,20,21,23,25,26,28,32,35,38] AnalisaDaily put the fields at roughly
 1,170 metres elevation with about 50 by 50 centimetre spacing and a preliminary estimate of
@@ -569,3 +577,5 @@ The operation drew on the North Sumatra police drug directorate, BNN North Sumat
 The Mandailing Natal police drug unit followed up the public information with the North Sumatra police drug directorate before the wider joint team was formed. [@53]
 
 The tip that started the operation went to the Mandailing Natal police drug unit, Satresnarkoba Polres Mandailing Natal, which coordinated with the North Sumatra police drug directorate before other agencies joined the joint operation. [@54]
+
+In Panyabungan on 7 November 2026, Mandailing Natal deputy regent Atika Azmi Utammi Nasution said she hoped the destruction operations would continue, so the government's effort to move residents to other crops could be realised faster. [@55]
