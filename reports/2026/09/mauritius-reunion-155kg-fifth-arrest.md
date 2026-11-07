@@ -22,6 +22,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: plants}]
+  route: {from: [re], to: [mu]}
   setting: [port, vehicle]
 data_sources:
   details.activity: [1, 4, 5, 6]
@@ -29,6 +30,7 @@ data_sources:
   details.case_stage: [4, 6, 7, 8, 5, 9]
   details.date_precision: [1, 2, 7, 8]
   details.products: [3, 4, 6, 7, 8, 5]
+  details.route: [1, 2, 7, 8]
   details.setting: [9, 10, 11, 1, 2, 7]
   figures.kg_seized: [1, 2, 7, 8, 9, 10]
   figures.value: [1, 2, 7, 8]

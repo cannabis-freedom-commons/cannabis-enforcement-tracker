@@ -24,12 +24,14 @@ details:
   products:
     - {product: hashish}
   sentence_types: [death]
+  route: {from: [pk], to: [cn, ca], crossing: Vietnam}
   setting: [vehicle]
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 2, 3, 4]
   details.products: [1]
+  details.route: [1, 2, 3]
   details.sentence_types: [1, 3, 4]
   details.setting: [1, 2]
   figures.charged: [2, 1, 3]

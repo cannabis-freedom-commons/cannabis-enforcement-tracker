@@ -15,11 +15,13 @@ details:
   activity: [trafficking]
   agency_types: [police]
   products: [{product: flower}]
+  route: {from: [cd], to: [rw]}
   setting: [vehicle]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 cfi_id: rwanda-rubavu-cannabis-seizure-2017

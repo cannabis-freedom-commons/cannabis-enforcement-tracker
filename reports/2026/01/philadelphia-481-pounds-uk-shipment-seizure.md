@@ -21,6 +21,7 @@ details:
   activity: [smuggling]
   case_stage: investigation
   products: [{product: flower, kg: 218}]
+  route: {from: [us/ga], to: [gb]}
   setting: [port]
   date_precision: exact
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
   figures.value: [1]

@@ -18,6 +18,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: hashish}]
+  route: {from: [af], to: [pk]}
   setting: [vehicle]
 data_sources:
   details.activity: [2, 3]
@@ -26,6 +27,7 @@ data_sources:
   details.case_stage: [2]
   details.date_precision: [2]
   details.products: [2]
+  details.route: [2]
   details.setting: [2]
 media:
   - kind: photo

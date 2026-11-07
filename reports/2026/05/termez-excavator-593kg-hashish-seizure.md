@@ -23,11 +23,13 @@ details:
   agency_types: [customs, military, border-guard]
   products:
     - {product: hashish}
+  route: {from: [af], to: [uz]}
   setting: [border, vehicle]
 data_sources:
   details.activity: [1, 3, 2]
   details.agency_types: [1, 3, 2]
   details.products: [1, 2]
+  details.route: [1, 3]
   details.setting: [1, 3, 2]
   figures.kg_seized: [2, 1, 3]
 status: verified

@@ -24,11 +24,13 @@ details:
   case_stage: sentenced
   products: [{product: flower, kg: 7500}]
   sentence_types: [prison]
+  route: {from: [za], to: [gb]}
   setting: [port]
 data_sources:
   details.agency_types: [2, 1, 3]
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.route: [2]
   details.sentence_types: [1, 2, 3]
   details.setting: [2]
   figures.kg_seized: [2, 1]

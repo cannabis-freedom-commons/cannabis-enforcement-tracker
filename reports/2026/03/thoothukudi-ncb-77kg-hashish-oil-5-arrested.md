@@ -35,6 +35,7 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  route: {from: [np], to: [lk], crossing: India}
   setting: [street]
 data_sources:
   details.activity: [2, 3, 1]
@@ -42,6 +43,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [3, 2, 1]
   details.products: [1, 2, 3]
+  details.route: [2, 3]
   details.setting: [3, 2, 1]
   figures.arrested: [2]
   figures.value: [3, 2, 1]

@@ -24,6 +24,7 @@ details:
   agency_types: [border-guard]
   case_stage: investigation
   date_precision: exact
+  route: {from: [pl], to: [by], crossing: Brest}
   setting: [border]
   products:
     - {product: hashish}
@@ -33,6 +34,7 @@ data_sources:
   details.case_stage: [1, 2, 3]
   details.date_precision: [1, 2]
   details.products: [1]
+  details.route: [1]
   details.setting: [1, 2, 3]
   figures.arrested: [2, 1, 3]
 status: verified

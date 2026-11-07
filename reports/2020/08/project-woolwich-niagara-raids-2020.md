@@ -23,6 +23,7 @@ details:
   case_stage: charged
   date_precision: exact
   products: [{product: flower}]
+  route: {from: [ca/bc], to: [ca/on, us]}
   setting: [border]
 data_sources:
   details.activity: [1, 2]
@@ -30,6 +31,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.date_precision: [1]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1, 2]
   figures.arrested: [1]
   figures.charged: [1, 2]

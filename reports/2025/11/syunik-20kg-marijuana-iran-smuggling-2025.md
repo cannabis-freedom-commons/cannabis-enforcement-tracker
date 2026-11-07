@@ -37,12 +37,14 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  route: {from: [ir], to: [am]}
   setting: [home]
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
+  details.route: [1]
   details.setting: [2, 1]
   figures.kg_seized: [1, 2]
 status: verified

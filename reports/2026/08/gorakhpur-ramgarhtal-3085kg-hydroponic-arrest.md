@@ -36,6 +36,7 @@ details:
   date_precision: exact
   environment: [indoor]
   products: [{product: flower, kg: 3.085}]
+  route: {from: [th], to: [in]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -44,6 +45,7 @@ data_sources:
   details.date_precision: [1]
   details.environment: [1]
   details.products: [1]
+  details.route: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified

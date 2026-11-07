@@ -18,6 +18,7 @@ details:
   products:
     - {product: flower, kg: 0.1}
   activity: [smuggling]
+  route: {from: [in], to: [bd]}
   setting: [border]
   period: {start: 2026-08-20, end: 2026-08-21}
   date_precision: exact
@@ -28,6 +29,7 @@ data_sources:
   details.agency_types: [1]
   details.period: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified
