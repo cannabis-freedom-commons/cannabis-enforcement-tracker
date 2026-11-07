@@ -208,6 +208,10 @@ open_questions:
   - CK News gives no separate date for the five arrests; 6 November 2026 is its publication date and the page describes the raid without a date.
   - CK News says EAGLE Force STF, while other accounts describe a Special Task Force formed by EAGLE; the two unit descriptions are not reconciled.
   - The page's photo has no caption or credit and is not confirmed to show this seizure, so no media entry is included.
+  - The Telangana Tribune spells the 27 August couriers Trilochan Samantaray and Sagar Bal, while the report's earlier accounts describe two Odisha couriers and do not give those names.
+  - The Telangana Tribune names the Odisha suppliers Ashish Kumar Baliarsingh and Debasis Nayak alias Pinku Nayak, spellings that differ from other accounts already noted in the report.
+  - The Telangana Tribune calls the unit the EAGLE Force STF; other accounts describe a Special Task Force formed by EAGLE, and the two descriptions are not reconciled.
+  - The submitted Hindustan Times video has no article body beyond its headline and sub-heading, so it is cited for the match rather than for further detail.
 ---
 
 The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,9,10,12,13,14,16,17,18] EAGLE
@@ -255,3 +259,5 @@ V6 Velugu reported that Hazarika had earlier worked in Hyderabad as a security g
 NewsMeter reported that Hazarika was arrested in three separate NDPS cases registered at Madhapur and Gachibowli police stations in January and March 2024, involving seizures of 1.96 kg, 1.3 kg and 700 grams of ganja. [@14]
 
 Police said the probe began on 27 August, when the EAGLE Force and Choutuppal police seized 20.36 kg of ganja from a car and arrested two Odisha natives who named Barik and Hazarika. [@15] Hazarika returned to Hyderabad in late 2017, worked with Swiggy and Zomato and later resumed security work. [@15] He resumed operations in Hyderabad in June 2025, sourcing ganja from Barik and two other Odisha-based suppliers through WhatsApp. [@15] After a month of surveillance, officers tracked two couriers carrying ganja into Hazarika's house on Wednesday, raided the premises and arrested five gang members, including the last absconding accused in the Choutuppal case. [@15]
+
+The hunt began when Choutuppal police chased and caught Trilochan Samantaray and Sagar Bal with 20.36 kg of ganja on 27 August, and their interrogation named Hazarika as the kingpin. [@3] Hazarika bought ganja from Odisha suppliers Ashish Kumar Baliarsingh and Debasis Nayak, alias Pinku Nayak, at Rs 12,000 to Rs 15,000 per kg through WhatsApp orders. [@3] EAGLE Force officers raided the house in New Hafeezpet after a tip-off that two couriers from Assam had come to deliver ganja there, and caught all five red-handed. [@3]
