@@ -89,6 +89,11 @@ sources:
     publisher: المصري اليوم
     date: 2026-11-07
     language: ar
+  - title: ضبط شخصين بتهمة ترويج المخدرات عبر مواقع التواصل الاجتماعي بالفيوم
+    url: https://www.cairo24.com/2525199
+    publisher: القاهرة 24
+    date: 2026-11-07
+    language: ar
 open_questions:
   - No weight, value or packet count was published for the hashish found on either man, so no cannabis quantity can be recorded.
   - The article gives no date for the arrests; 7 November 2026 is its publication date and is used as the incident date.
@@ -112,15 +117,15 @@ running a social media page to promote drug sales for money. [@1,2,3,5]
 
 The General Administration for Combating Information Technology Crimes, part of
 the communications and information technology sector, spotted the page together
-with the Public Security sector. [@1,2,3,4,5] Investigation identified the page's
+with the Public Security sector. [@1,2,3,4,5,8] Investigation identified the page's
 administrator as a worker living in Fayoum police centre's district, and
-officers found hashish and a mobile phone in his possession. [@1,2,3,4,5] Examination of
+officers found hashish and a mobile phone in his possession. [@1,2,3,4,5,8] Examination of
 the phone showed it held evidence confirming his criminal activity, police said.
 [@1]
 
 Faced with the findings the man confessed to running the page to promote drugs
 and identified a second man, unemployed and with prior criminal information,
-living within Second Fayoum police district, as his supplier. [@1,2,3,4,5] After legal
+living within Second Fayoum police district, as his supplier. [@1,2,3,4,5,8] After legal
 procedures were completed, officers arrested the second man and found hashish
 and a mobile phone with him. [@1,2,3,4] The second man confessed to holding the
 hashish with intent to traffic it. [@1,2,3,4,5] Police took the required legal measures
