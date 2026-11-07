@@ -47,6 +47,11 @@ media:
     media_url: https://assets.hmtvlive.com/h-upload/2026/11/07/485788-lb-nagar-60-.webp
     publisher: HMTV
     caption: Picture published with the HMTV report on the Ghatkesar vehicle check and the 60 kg ganja seizure; the caption reads only "Lb nagar" and names no credit.
+  - kind: photo
+    url: https://telanganatoday.com/drug-peddlers-held-with-marijuana-worth-rs-30-lakh-in-ghatkesar
+    media_url: https://media.telanganatoday.com/wp-content/uploads/2026/11/arrest-11-768x450.jpg
+    publisher: Telangana Today
+    caption: Photo published with the Telangana Today report on the seizure of 60 kg of ganja from a car near Annojiguda in Ghatkesar; the page gives no credit or caption text beyond the headline.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7b790120f2ce39a6846bfa6dcc8a63c0
@@ -57,6 +62,11 @@ sources:
     publisher: HMTV
     date: 2026-11-07
     language: te
+  - title: Drug peddlers held with marijuana worth Rs 30 lakh in Ghatkesar
+    url: https://telanganatoday.com/drug-peddlers-held-with-marijuana-worth-rs-30-lakh-in-ghatkesar
+    publisher: Telangana Today
+    date: 2026-11-07
+    language: en
 open_questions:
   - Only one account of the check could be opened; no police statement or second outlet reporting this same seizure was found.
   - The 60 kilograms is given as a round figure for 60 packets, with no exact weighed total.
@@ -64,11 +74,14 @@ open_questions:
   - No remand, charge sheet or court outcome is reported for the two arrested men.
   - The photograph published with the report carries only the caption "Lb nagar" and no credit, and it cannot be confirmed exactly what scene it shows.
   - The article refers to both the Malkajgiri police commissioner and LB Nagar zone officers; the commissionerate where the case was registered is not stated.
+  - Telangana Today attributes the operation to the Malkajgiri SOT, while the earlier HMTV account cited in this report named the LB Nagar zone SOT; both describe the same officers and the same seizure but do not explain the difference in unit designation.
+  - The Telangana Today article gives no names of the two arrested men, no charges by NDPS section, and no remand, charge sheet or court outcome.
+  - No police statement naming the unit that registered the case was published in either account.
 ---
 
 Police in the LB Nagar zone of Hyderabad arrested two men and seized 60
 kilograms of ganja from a car near a spice (masala) company on the edge of
-Annojiguda village in Ghatkesar mandal on 7 November 2026. [@1] Officers from
+Annojiguda village in Ghatkesar mandal on 7 November 2026. [@1,2] Officers from
 the Special Operations Team (SOT) of the LB Nagar zone and the Pocharam IT
 Corridor police station stopped the Maruti Suzuki SX4 at about 11.30 am and
 found 60 packets of ganja hidden behind the back seat. [@1] Police said the
@@ -89,5 +102,4 @@ Act. [@1]
 
 Officers seized the car used to move the ganja and two mobile phones, and said
 special teams were searching for the Odisha supplier and the Mumbai receiver.
-[@1]
-
+[@1,2]
