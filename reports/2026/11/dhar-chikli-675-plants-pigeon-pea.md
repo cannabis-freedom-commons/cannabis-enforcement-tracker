@@ -71,6 +71,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-06
     language: hi
+  - title: 'MP: तुअर की फसल की आड़ में गांजे की खेती, 1 करोड़ का माल पकड़ाया'
+    url: https://www.agniban.com/mp-cannabis-cultivated-under-the-guise-of-a-pigeon-pea-tuar-crop-contraband-worth-%E2%82%B91-crore-seized/
+    publisher: Agniban
+    date: 2026-11-06
+    language: hi
 open_questions:
   - Neither account gives the size of the two fields, so no area is recorded.
   - The reports do not say whether the seized plants were kept as evidence or destroyed after uprooting; they are counted as plants_destroyed in line with the tracker's rule for seized plants.
@@ -79,30 +84,34 @@ open_questions:
   - The exact hour of the raid is not given; Dainik Bhaskar reports the station house officer briefing journalists at 8 pm on Thursday 5 November 2026.
   - Both accounts reproduce the same police information, so they are not independent corroboration, and no police statement or third outlet with this raid's details could be opened.
   - The Lalluram lead photograph has no caption or credit and is not established to show this raid; the Dainik Bhaskar photo is captioned only as plants in the field being seized.
+  - The Agniban account does not state the date of the raid; Dainik Bhaskar's 5 November 2026 date is kept as the incident date.
+  - Agniban repeats the same district police briefing as the existing sources, so it is not independent corroboration.
+  - The Agniban lead photograph has no caption or credit and could not be confirmed as showing this raid.
 ---
 
 Manawar police station and the Umarban outpost team raided the hills and forests
 around Chikli village in the Manawar area of Dhar district, Madhya Pradesh, on
-Thursday 5 November 2026. [@2] Police said the accused had planted cannabis
+Thursday 5 November 2026. [@2,3] Police said the accused had planted cannabis
 among a pigeon pea crop, known locally as tuvar, so that it would not be
-noticed. [@1] Police said they had registered a case against both men under the
+noticed. [@1,3] Police said they had registered a case against both men under the
 NDPS Act, India's drug law, and were carrying out a combing operation to find
 them. [@1]
 
 The team uprooted 675 green cannabis plants from two fields; 630 came from the
-field of Shobharam Vaskel and 45 from the field of Mukesh Ginawa. [@1] Police
-put the weight of the uprooted plants at 5 quintals 53 kg (553 kg). [@1] Police
+field of Shobharam Vaskel and 45 from the field of Mukesh Ginawa. [@1,3] Police
+put the weight of the uprooted plants at 5 quintals 53 kg (553 kg). [@1,3] Police
 estimated their value at about Rs 1 crore 10 lakh 60 thousand (about Rs 1.106
-crore) on international and local markets. [@1]
+crore) on international and local markets. [@1,3]
 
 Both accused named by police, Shobharam Vaskel and Mukesh Ginawa, fled into the
 hills and dense forest before officers reached the fields, and no arrest was
-reported. [@1] The raid was carried out under Operation Prahar, the Dhar
+reported. [@1,3] The raid was carried out under Operation Prahar, the Dhar
 district police campaign against illegal drugs, on the orders of Superintendent
 of Police Sachin Sharma; Dainik Bhaskar named the operation in charge as station
 house officer Rajesh Yadav with sub-divisional police officer Pradeep Walter
 supervising. [@2]
 
 Police described it as the 11th major action against illegal drugs by Manawar
-police in the previous month. [@1]
+police in the previous month. [@1,3]
 
+A special police team was formed under Manawar station house officer Rajesh Yadav and outpost chief Prakash Alawa to carry out the raid. [@3]
