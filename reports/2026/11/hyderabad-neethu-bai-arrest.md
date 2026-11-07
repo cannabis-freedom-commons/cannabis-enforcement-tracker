@@ -121,6 +121,10 @@ sources:
     url: https://www.siasat.com/30-ndps-cases-evaded-arrest-13-times-hyderabad-woman-arrested-3571405/
     publisher: The Siasat Daily
     date: 2026-11-07
+  - title: EAGLE Force Nabs Nanakramguda Woman Who Allegedly Sold ₹24 Lakh Worth Of Ganja In One Day
+    url: https://www.telanganatribune.com/eagle-force-nabs-nanakramguda-woman-who-allegedly-sold-%E2%82%B924-lakh-worth-of-ganja-in-one-day/
+    publisher: Telangana Tribune
+    date: 2026-11-07
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
@@ -172,6 +176,9 @@ open_questions:
   - Siasat gives no weight or value for any ganja seized at the arrest and no charges or later court step.
   - The Siasat page carries one image captioned only "hyderabad ganja" with no credit, which cannot be confirmed to show the arrest or a seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in The Siasat Daily: It said she bought ganja wholesale, repackaged it into small packets and sold it around Nanakramguda, selecting areas where software engineers and hostel or rented-home students lived.'
+  - The page gives no day for the three earlier family operations behind the ₹67 lakh cash and 51.5 kg of ganja, so they are treated as background and are not added to the report's figures.
+  - The ₹24 lakh is police's estimate of one day's sales, not a value for cannabis seized at the arrest, so the report's cannabis figures are unchanged.
+  - The page does not say whether the around 50 alleged customers caught at her residence were arrested, charged or referred for de-addiction.
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
@@ -210,3 +217,5 @@ Andhra Prabha reported that an earlier financial investigation found ₹40.30 la
 Prime9 News reported that she had been arrested several times before and sent to judicial custody, and that she allegedly resumed the ganja trade after being released on bail. [@12]
 
 Siasat reported that Bai was remanded to judicial custody after the arrest. [@13]
+
+In three earlier operations linked to the family, police seized ₹67 lakh in cash and 51.5 kg of ganja. [@14] Police say she allegedly made sales worth ₹24 lakh in a single day, and that a currency counting machine and a drug weighing machine were part of the operation. [@14] Police also caught around 50 alleged customers visiting her residence. [@14]
