@@ -143,6 +143,16 @@ sources:
     publisher: Rockland Radio
     date: 2026-11-05
     language: de
+  - title: 'Meurthe-et-Moselle. Trafic de drogue : 21 interpellations dans un réseau démantelé entre l’Allemagne et la Meurthe-et-Moselle'
+    url: https://www.estrepublicain.fr/faits-divers-justice/2026/11/07/trafic-de-drogue-un-reseau-demantele-entre-l-allemagne-et-la-meurthe-et-moselle
+    publisher: L'Est Républicain
+    date: 2026-11-07
+    language: fr
+  - title: 'Rheinland-Pfalz: Drogenrazzia wegen illegaler Cannabisplantagen auch bei Bad Kreuznach'
+    url: https://www.tagesschau.de/inland/regional/rheinlandpfalz/swr-drogenrazzia-wegen-illegaler-cannabisplantagen-auch-bei-bad-kreuznach-100.html
+    publisher: tagesschau.de
+    date: 2026-11-05
+    language: de
 open_questions:
   - The 3 November 2026 incident date comes from the stated Tuesday raid day and the explicit 03.11.2026 date in the authorities' statement; 5 November 2026 is the publication date.
   - The plant count is reported as more than 2,300, so 2,300 is recorded as the stated minimum.
@@ -173,6 +183,9 @@ open_questions:
   - The Rhein-Zeitung gives 200 to 300 plants for the Jeckenbach house, a range, while the Saarbrücken prosecutors' office and the investigators' release state about 300; no single plant count or weight for this site was published.
   - The Rhein-Zeitung gives no separate incident date; 3 November 2026 comes from its statement that the raid was on the Tuesday and from the other accounts of this raid.
   - Nothing was reported about arrests, charges or any court outcome specific to the Jeckenbach house, and the Rhein-Zeitung does not say whether anyone was detained there.
+  - The 30 kg seized in and around Nancy is described only as drugs, without a breakdown by substance, so it cannot be counted as cannabis and is left out of the report's figures.
+  - Neither the French nor the German accounts give a cannabis weight or plant count for the French searches.
+  - The 13 French arrests are counted separately from the report's eight German arrests; the two accounts together give 21 arrests in the simultaneous operation.
 ---
 
 Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating
@@ -192,7 +205,7 @@ Investigators also seized a tablet press, blank-firing and air weapons plus
 another possibly live firearm. [@2,5,9,14]
 
 French authorities carried out parallel searches in the Grand Est area at the
-same time and arrested 13 people. [@1,3,4,7,9,10,11,12,13,14] The Federal Criminal Police Office
+same time and arrested 13 people. [@1,3,4,7,9,10,11,12,13,14,18] The Federal Criminal Police Office
 crime-scene unit, the Saarbrücken main customs office and state police helped
 secure the plantations. [@2,9,14] The authorities said the investigations are still
 ongoing. [@2,3,4,5,9,14]
@@ -206,3 +219,5 @@ The five dismantled plantations comprised one in Saarlouis district, one in Saar
 The investigation began with a customs check near Pirmasens in May 2026, when officers found about 20 kilograms of marijuana in a car boot and arrested a suspected participant. [@13,14]
 
 Shortly after 6.30 am on the Tuesday, police cars, customs vehicles and an ambulance drove through Jeckenbach, and armed officers of the customs investigation office and police stormed a residential house. [@15] In the house they found an illegal cannabis plantation with between 200 and 300 plants. [@15] The operation in Jeckenbach was part of a larger raid in the Nordpfälzer Bergland and Saarland that found five plantations with more than 2,300 plants and arrested eight suspects. [@16] The Saarbrücken prosecutors' office said about 300 plants were found in Jeckenbach. [@17]
+
+Nancy's prosecutors and an investigating judge, working with the German authorities, were investigating an Albanian criminal group based in Germany and specialising in drug trafficking, including cannabis. [@18] The French raids took place in Nancy, Custines, Maxéville, Essey-lès-Nancy, Frouard and Vandœuvre-lès-Nancy. [@18] Eleven of the 13 people arrested in and around Nancy were brought before the magistrates at the city's court complex. [@18,19] More than 30 kg of drugs were seized in and around Nancy. [@18]
