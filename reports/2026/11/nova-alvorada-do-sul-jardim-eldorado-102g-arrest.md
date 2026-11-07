@@ -54,6 +54,11 @@ sources:
     publisher: IvInoticias
     date: 2026-11-06
     language: pt
+  - title: Homem é preso com maconha e relata participação em entrega que terminou em ataque a tiros em Nova Alvorada do Sul
+    url: https://www.fatimanews.com.br/policial/homem-e-preso-com-maconha-e-relata-participacao-em-entrega-que-terminou-em-ataque-a-tiros/1001779/
+    publisher: Fátima News
+    date: 2026-11-06
+    language: pt
 open_questions:
   - No charge, custody decision or court outcome was reported; the account stops at the arrest in flagrante and the drug being sent for legal measures.
   - The 102 grams is reported as approximate; no separate weighing was published.
@@ -65,15 +70,15 @@ open_questions:
 
 Military police arrested a 22-year-old man on suspicion of drug trafficking on
 the night of Thursday 5 November 2026 in the Jardim Eldorado neighbourhood of
-Nova Alvorada do Sul, Mato Grosso do Sul. [@1] During the stop officers seized
-13 portions of marijuana weighing about 102 grams. [@1] Officers of the 3rd
+Nova Alvorada do Sul, Mato Grosso do Sul. [@1,3] During the stop officers seized
+13 portions of marijuana weighing about 102 grams. [@1,3] Officers of the 3rd
 Platoon of the Military Police made the arrest after a tip-off logged through
-Disque-Denúncia 181, an anonymous crime-reporting hotline. [@1]
+Disque-Denúncia 181, an anonymous crime-reporting hotline. [@1,3]
 
 During preventive patrols the officers saw the man on a public street; he became
 nervous when he noticed the patrol car, changed direction abruptly and drew
-their suspicion. [@1] A search found a bag with the drug, divided into 13
-wrappers, in the man's pocket. [@1]
+their suspicion. [@1,3] A search found a bag with the drug, divided into 13
+wrappers, in the man's pocket. [@1,3]
 
 While officers dealt with the arrest, the man told them he had arranged a drug
 delivery that ended in gunfire against another 22-year-old, on 13 October in the
@@ -83,8 +88,7 @@ in his place. [@1] He said two people on a motorcycle shot the courier during
 the negotiation, hitting him in the right arm and grazing his back. [@1] The
 shooters had already been arrested in the investigation of that shooting. [@1]
 His account was written down by the Military Police as potentially useful to the
-investigation of the shooting. [@2]
+investigation of the shooting. [@2,3]
 
 The man was arrested in flagrante and the drug was seized and sent for the
-applicable legal measures. [@1]
-
+applicable legal measures. [@1,3]
