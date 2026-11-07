@@ -36,17 +36,10 @@ data_sources:
   figures.plants_destroyed: [3, 1, 2]
 media:
   - kind: photo
-    url: https://sumut.wahananews.co/utama/kebun-sawit-jadi-ladang-ganja-petani-di-tapanuli-selatan-tidur-di-penjara-ogc5585KwD
-    publisher: Wahana News Sumut
-    caption: 'The suspect and the officers who found the cannabis plants. Photo: WahanaNews.co/Abdul Malik Ritonga'
-  - kind: photo
-    url: https://livesumut.com/2025/11/12/petani-di-tapsel-tanam-ganja-di-kebun-sawit-aksi-nekatnya-berakhir-di-bui/
-    publisher: LIVESUMUT.com
-    caption: The detained farmer, identified as AN, at Tapanuli Selatan police headquarters.
-  - kind: photo
     url: https://transparann.id/petani-tanam-ganja-di-kebun-sawit/
+    media_url: https://transparann.id/wp-content/uploads/2025/11/narkoba-tapsel.jpg
     publisher: transparann.id
-    caption: 'AN in custody after police seized 29 cannabis plants from his oil palm plot. Photo: transparann.id'
+    caption: "Suspect and officers with uprooted cannabis plants in the Tapanuli Selatan oil-palm plot (transparann.id)."
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [sumatera-utara, palm-oil, ganja, smallholder]
@@ -71,6 +64,7 @@ open_questions:
   - 'The reports describe how AN obtained the plants differently: Wahana News says he got seedlings from an acquaintance identified as D, LIVESUMUT says he bought cannabis and kept the seeds, and transparann.id says he bought ''bibit ganja kering'' from D for Rp45,000.'
   - The 20-year figure is the maximum penalty for the charges, not a sentence; no court outcome is reported.
   - The village is spelled Sihuik Huik in the reports and Sihuik Kuik in administrative lists; they appear to be the same place.
+  - Wahana News Sumut published a collage of the same arrest without a separate single-scene media_url entry here.
 ---
 
 Police in Tapanuli Selatan arrested a 45-year-old farmer identified by the

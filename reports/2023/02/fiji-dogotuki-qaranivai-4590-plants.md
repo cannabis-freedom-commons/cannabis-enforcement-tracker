@@ -17,9 +17,10 @@ figures:
   plants_destroyed: 4590
 media:
   - kind: photo
-    url: https://fijisun.com.fj/news/nation/farmer-23-arrested-over-discovery-of-4000-suspected-marijuana-plants
-    publisher: Fiji Sun
-    caption: 'The suspected marijuana plants discovered by police on the farm at Qaranivai, Dogotuki. Photo: Fiji Police Force'
+    url: https://www.fbcnews.com.fj/news/farmer-arrested-following-drug-raid/
+    media_url: https://www.fbcnews.com.fj/wp-content/uploads/2023/02/Drug-raid-1.jpg
+    publisher: FBC News
+    caption: "Rows of cannabis plants on a hillside plantation in Vanua Levu, in a Fiji Police photograph (FBC News)."
 details:
   agency_types: [police]
   case_stage: investigation
@@ -56,6 +57,7 @@ open_questions:
   - The reports date the raid only as 'last Friday' or 'Friday'; with publication dates of 12 and 13 February 2023, it is taken as Friday 10 February 2023.
   - The farmer's name was not published, and no charge, court date or outcome was reported.
   - The reports say the plants were seized; they do not say whether they were destroyed.
+  - Fiji Sun published a two-panel collage of the same Dogotuki field without a separate single-scene media_url entry here.
 ---
 
 A 23-year-old farmer from Vusavio, Dogotuki, was arrested on Friday 10 February
