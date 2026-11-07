@@ -65,6 +65,11 @@ sources:
     publisher: Portal de Notícias da PMESP
     date: 2026-11-06
     language: pt
+  - title: Passageiro é preso com R$ 210 mil em haxixe dentro de ônibus
+    url: https://sampi.net.br/franca/noticias/3016978/franca-e-regiao/2026/11/passageiro-e-preso-com-r-210-mil-em-haxixe-dentro-de-onibus
+    publisher: Sampi
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The passenger is described only as a man; his name, age and nationality were not published.
   - No charges, custody hearing or court outcome beyond the arrest in flagrante and referral to the Ituverava Civil Police Station were reported.
@@ -77,19 +82,18 @@ open_questions:
 
 The Military Highway Police arrested a bus passenger carrying about three kilos
 of hashish in the late afternoon of Thursday 5 November 2026 on the Anhanguera
-highway (SP-330) in Igarapava, in the interior of São Paulo state. [@1] The bus
+highway (SP-330) in Igarapava, in the interior of São Paulo state. [@1,2] The bus
 was travelling from Goiânia in Goiás to Florianópolis in Santa Catarina and was
 stopped at kilometre 448 during Operation Fluminis Custus, an operation against
-drug trafficking and organised crime. [@1]
+drug trafficking and organised crime. [@1,2]
 
 The inspection was backed by the 11th Battalion of Special Police Actions
-(BAEP). [@1] While searching passengers' luggage, the Tactical Road Patrol (TOR)
+(BAEP). [@1,2] While searching passengers' luggage, the Tactical Road Patrol (TOR)
 team of the 3rd Road Police Battalion found 29 slabs of hashish in one man's
-backpack. [@1] In another bag belonging to the same man, police seized one more
+backpack. [@1,2] In another bag belonging to the same man, police seized one more
 block of the drug and seven portions already separated for sale, bringing the
 total to 30 slabs. [@1]
 
 He was arrested for drug trafficking and taken to the Civil Police Station in
-Ituverava. [@1] The Military Police estimated the seizure as a loss of 210,000
-reais to organised crime. [@1]
-
+Ituverava. [@1,2] The Military Police estimated the seizure as a loss of 210,000
+reais to organised crime. [@1,2]
