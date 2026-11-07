@@ -70,6 +70,11 @@ sources:
     publisher: صحيفة العروبة
     date: 2026-11-07
     language: ar
+  - title: سوريا.. ضبط 120 ألف حبة كبتاغون و9 كيلوغرامات من الحشيش في عملية أمنية بحمص
+    url: https://ilkha.com/arabi/world/574411/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%B6%D8%A8%D8%B7120%D8%A3%D9%84%D9%81%D8%AD%D8%A8%D8%A9%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86%D9%889%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A7%D8%AA%D9%85%D9%86%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4%D9%81%D9%8A%D8%B9%D9%85%D9%84%D9%8A%D8%A9%D8%A3%D9%85%D9%86%D9%8A%D8%A9%D8%A8%D8%AD%D9%85%D8%B5
+    publisher: İlke Haber Ajansı (İLKHA)
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The article gives no date for the arrest itself; 7 November 2026 is its publication date and is used as the incident date.
   - The exact place of the arrest within Homs Governorate is not named.
@@ -82,12 +87,13 @@ open_questions:
   - The article gives no separate date for the arrest itself; 7 November 2026 is its publication/update date, as already recorded.
   - The article also reports national and Homs-branch October tallies that belong to the separate monthly-tally report, not this arrest.
   - The page image has no caption or credit establishing that it shows this seizure, so no media entry is added.
+  - This Arabic page presents the 200,000-pill Lebanon operation as taking place today alongside the arrest, while the tracker report dates that earlier operation to 5 May 2026; this account follows the existing record.
 ---
 
 Syria's anti-narcotics directorate announced the arrest of a man identified by
 the initials G.Sh., described as the head of a drug trafficking network whose
-two members were arrested in May. [@1,3,4,5] He was found with 9 kilograms of hashish
-and 120,000 Captagon pills, the directorate said. [@1,3,4,5]
+two members were arrested in May. [@1,3,4,5,6] He was found with 9 kilograms of hashish
+and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6]
 
 The directorate said its Homs branch made the arrest, continuing an operation it
 carried out on 5 May 2026 that broke up an attempt to smuggle 200,000 Captagon
@@ -97,6 +103,8 @@ Units kept tracking the rest of those involved and the network's branches, the
 directorate said. [@1]
 
 The directorate said the seized items were confiscated and the detainee was sent
-to the competent judiciary. [@1,3,4,5]
+to the competent judiciary. [@1,3,4,5,6]
 
 The ringleader was identified through security follow-up and arrested in a well-planned ambush. [@5]
+
+The Arabic page attributes the operations to the anti-narcotics branch of the Syrian Interior Ministry. [@6]
