@@ -61,6 +61,16 @@ sources:
     publisher: 広テレ！NEWS NNN
     date: 2026-09-30
     language: ja
+  - title: 日本一自卫队员因吸食大麻被开除
+    url: https://www.sohu.com/a/1098017050_121347613
+    publisher: 搜狐网
+    date: 2026-11-06
+    language: zh
+  - title: 「出来心だった」１９歳自衛隊員 大麻使用で懲戒免職　９月逮捕、友人宅に集まり３人で使用した疑い　広島
+    url: https://www.tss-tv.co.jp/tssnews/000036582.html
+    publisher: TSS-TV テレビ新広島
+    date: 2026-11-06
+    language: ja
 open_questions:
   - No weight, form or value of the cannabis was published, so no cannabis quantity is recorded.
   - Sankei reports the soldier also used a type of synthetic drug; that substance is outside this tracker's scope and no quantities of any drug are given.
@@ -68,17 +78,20 @@ open_questions:
   - The dismissal is an administrative disciplinary measure, not a court sentence, and no court outcome is reported.
   - The soldier's name was not published in the accessible text.
   - The FNN page image address resolves to a generic thumbnail associated with the page and is not established to show this case, so no media entry is listed.
+  - The Chinese account says only that the soldier was dismissed over cannabis and other drugs and gives no weight or form of the drug, so the report's open question on cannabis quantity remains.
+  - The Sohu page credits Xinhua and cites Kyodo, so it is a wire reprint rather than independent reporting of the garrison's statement.
+  - The TSS page shows a 7 November 2026 posting date although the dismissal took effect on 6 November; the report keeps 6 November as the incident date.
 ---
 
 Japan's Ground Self-Defense Force dismissed a 19-year-old private second class
 at the Kaita garrison in Hiroshima Prefecture on 6 November 2026 over cannabis
-use. [@1] The dismissal was pronounced by the 46th Infantry Regiment, the unit
+use. [@1,5] The dismissal was pronounced by the 46th Infantry Regiment, the unit
 at the Kaita garrison in Kaita town, Hiroshima Prefecture, according to the
-Chugoku Shimbun. [@3]
+Chugoku Shimbun. [@3,6]
 
 The garrison said the soldier used cannabis and other drugs at a friend's home
-in Aki Ward, Hiroshima City, in August this year. [@1] In September he was
-arrested together with two friends on suspicion of cannabis use. [@1] The
+in Aki Ward, Hiroshima City, in August this year. [@1,6] In September he was
+arrested together with two friends on suspicion of cannabis use. [@1,6] The
 broadcast report on the arrests said police suspected the three men of using
 cannabis at one of their homes between about May and August 2026. [@4] Sankei
 reported that neighbours complained about noise on the night of 29 August, that
@@ -93,4 +106,3 @@ commander of the 46th Infantry Regiment, said the force would tighten
 instruction to its members and work to prevent a repeat. [@1] The Chugoku
 Shimbun reported that the garrison said this was the first time one of its
 members had been arrested over a drug case. [@4]
-
