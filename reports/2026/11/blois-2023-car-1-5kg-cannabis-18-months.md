@@ -57,6 +57,11 @@ sources:
     publisher: La Nouvelle République
     date: 2026-11-05
     language: fr
+  - title: 'Du cannabis, une arme et de faux billets retrouvés dans sa voiture : un jeune homme condamné dans le Loir-et-Cher'
+    url: https://www.ouest-france.fr/societe/justice/du-cannabis-une-arme-et-de-faux-billets-retrouves-dans-sa-voiture-un-jeune-homme-condamne-dans-le-loir-et-cher-01c813a4-d9de-11f1-a04a-6776b5256c5b
+    publisher: Ouest-France
+    date: 2026-11-06
+    language: fr
 open_questions:
   - The article is paywalled after its first lines, so the charges read at the hearing, the court's reasoning, any customs fine and the full account of the 2023 search were not available.
   - No figure for the number of people arrested in July 2023 was published in the accessible text; K.C. was in the car with two other people, but no cannabis weight or ownership was attributed to them.
@@ -64,19 +69,23 @@ open_questions:
   - No separate dates for the 2023 arrest, pre-trial detention or release under judicial supervision were given beyond 'July 2023'.
   - No value for the cannabis, details of the 9 mm weapon or number of counterfeit notes was published.
   - Only one account of the sentence was found; no other outlet or court statement on this case was accessible.
+  - No figure for the number of counterfeit notes or for the weapon's make or licence status was given, and the nature of the 1.5 kg (herbal cannabis or resin) is still not stated.
+  - Ouest-France does not say what charge or charges the court ruled on, or whether a customs fine was imposed.
+  - No event photo was published; the page used an illustration image of Blois, labelled as such.
 ---
 
 The Blois criminal court sentenced a 23-year-old former Blois resident,
 identified only as K.C., to 18 months in prison, six of them suspended, on
-Tuesday 3 November 2026. [@1] He had already served 12 months of pre-trial
+Tuesday 3 November 2026. [@1,2] He had already served 12 months of pre-trial
 detention, six of them under an electronic tag, and was free under judicial
-supervision when he appeared, so he will not return to prison. [@1] Presiding
+supervision when he appeared, so he will not return to prison. [@1,2] Presiding
 judge Xavier Lacasa warned him that a six-month suspended term still hangs over
 him. [@1]
 
 The case began in July 2023 in Blois, when police checked his car while it was
 stopped and found him inside with two other people and two bags holding 1.5 kg
 of cannabis. [@1] The same stop is also presented as having turned up a 9 mm
-calibre weapon and counterfeit banknotes in the car. [@1] The hearing took place
+calibre weapon and counterfeit banknotes in the car. [@1,2] The hearing took place
 on Tuesday 3 November 2026 at the Blois judicial court. [@1]
 
+The man told the court he had agreed to keep the bags for 500 euros, "without looking inside", on an offer from older youths in his neighbourhood he knew only by sight. [@2] He said he had never taken part in trafficking and called taking the bags his only mistake, saying he was on a sabbatical year and looking for an employer to start a work-study course. [@2] His lawyer stressed that he had complied with his judicial supervision and was moving into work. [@2] The two other people in the car were released without charge. [@2]
