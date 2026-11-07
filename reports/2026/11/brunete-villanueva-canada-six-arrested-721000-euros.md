@@ -67,6 +67,11 @@ media:
     media_url: https://fotografias-2.larazon.es/clipping/cmsimages01/2026/11/07/9BF9BD7E-234E-4663-9F30-D45278D79B3D/98.jpg?crop=1600,900,x0,y0&width=1900&height=1069&optimize=low&format=webply
     publisher: La Razón
     caption: 'Guardia Civil officers during the operation that broke up the cannabis trafficking organisation in Brunete and Villanueva de la Cañada. Photo: Europa Press'
+  - kind: photo
+    url: https://www.abc.es/espana/madrid/cae-banda-dedicada-trafico-hachis-marihuana-villanueva-20261107135301-nt.html
+    media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/07/villanueva-delacanada-RUpNmNXjC8nQXjtaQqscx6I-1200x840@diario_abc.jpg
+    publisher: Diario ABC
+    caption: 'Stupefacients seized by the Guardia Civil in Madrid, described by the outlet as drugs seized in this operation. Photo: Guardia Civil'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a4e4155922c83a879e55e4ce5bfde26d
@@ -92,6 +97,11 @@ sources:
     publisher: La Razón
     date: 2026-11-07
     language: es
+  - title: Cae una banda dedicada al tráfico de hachís y marihuana en Villanueva de la Cañada y Brunete
+    url: https://www.abc.es/espana/madrid/cae-banda-dedicada-trafico-hachis-marihuana-villanueva-20261107135301-nt.html
+    publisher: Diario ABC
+    date: 2026-11-07
+    language: es
 open_questions:
   - The articles give no separate date for the searches; 7 November 2026 is the day the Guardia Civil announced them and the other outlets' publication date, so it is used as the incident date.
   - No street value was given for the hashish and marijuana, only the cash amount seized.
@@ -101,23 +111,24 @@ open_questions:
   - La Vanguardia rounds the drug weights to 7.8 kg of hashish and 1.7 kg of marijuana; the report keeps the precise 7.843 kg and 1.771 kg figures from the earlier sources.
   - The page's only photo is labelled as an archive photo of a Guardia Civil agent by a vehicle, so no event photo from this outlet is listed as media.
   - La Razón rounds the drug weights to 7.8 kg of hashish and 1.7 kg of marijuana; the report keeps the precise 7.843 kg and 1.771 kg figures from the earlier sources.
+  - ABC rounds the amounts to more than 7 kg of hashish and almost 2 kg of marijuana and gives no separate weight figure beyond those approximations; the report keeps the precise 7.843 kg and 1.771 kg from the earlier sources.
 ---
 
 The Guardia Civil, Spain's military-status national police force, said it had
 broken up a criminal organisation trafficking cannabis in Villanueva de la
-Cañada and Brunete, two towns in the Community of Madrid. [@1,3,4] Investigators
+Cañada and Brunete, two towns in the Community of Madrid. [@1,3,4,5] Investigators
 gathered indications of drug-trafficking activity in both municipalities before
 the operation, the force said in a statement issued on Saturday. [@1] Officers
 then searched two premises: the home in Brunete where the alleged leaders of the
 organisation lived, and a commercial unit (local) in Villanueva de la Cañada.
-[@1,3,4]
+[@1,3,4,5]
 
 Police seized 7.843 kg of hashish and 1.771 kg of marijuana, a combined 9.614
 kg, the force said. [@1,3,4] They also seized €721,000 in cash, two 12-gauge
 shotguns and five vehicles. [@1,3,4] The Europa Press news agency reported that the
-five vehicles were allegedly linked to the criminal activity. [@2]
+five vehicles were allegedly linked to the criminal activity. [@2,5]
 
 Six people were detained as suspected perpetrators of offences against public
 health through drug trafficking, membership of a criminal organisation and money
 laundering. [@1,3,4] The six arrested people, whose names and ages were not
-published, have been handed over to the courts. [@1]
+published, have been handed over to the courts. [@1,5]
