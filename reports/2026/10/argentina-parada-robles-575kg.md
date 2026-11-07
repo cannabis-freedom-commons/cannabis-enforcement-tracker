@@ -56,12 +56,14 @@ sources:
 media:
   - kind: photo
     url: https://www.codigobaires.com.ar/2026-10-27/desmantelaron-un-cultivo-indoor-de-marihuana-y-secuestraron-575-kilos-251546/
+    media_url: https://www.codigobaires.com.ar/adjuntos/1200/codigoba/2026/10/policialesexaltaciondelacruz271026-1302291442.jpg
     publisher: Codigo Baires
-    caption: The indoor cannabis installation raided in Parada Robles
+    caption: "Seized vacuum-packed marijuana bags, jars, grow lights and packaging gear displayed after the Parada Robles raids. Photo: Codigo Baires"
   - kind: photo
     url: https://losbonaerenses.com.ar/parada-robles-operativo-sueno-verde/
+    media_url: https://losbonaerenses.com.ar/wp-content/uploads/2026/10/Parada-Robles-drogas-27-octubre-2026-1.jpeg
     publisher: Los Bonaerenses
-    caption: Police photograph of the plants and equipment seized in the two raids
+    caption: "Marijuana bags, jars and packaging equipment laid out with Buenos Aires Province Police placards. Photo: Los Bonaerenses"
 open_questions:
   - The Crónica article gives no separate date for the two raids; 3 November 2026 is its publication date, while the existing report dates the operation to 26 October 2026.
   - The new account reports the cocaine seizure as 39 doses while the existing report records 35 g, a difference in reporting units that leaves the cocaine figure unresolved and is excluded from cannabis figures.

@@ -37,9 +37,10 @@ created_by_model: Meta Muse Spark (via Muse Code)
 tags: [northern-division, cultivation]
 open_questions:
   - Exact coordinates of the two farms are unavailable; the map marks Northern Division rather than either farm.
-  - No second outlet account of the Vesivuru and Nawi raids was found; the suspect was unnamed and charges were not reported.
+  - The suspect was unnamed and charges were not reported in the opened accounts.
   - The same Fiji Sun article also reports suspected methamphetamine, unidentified white substances and a seashore parcel; those non-cannabis accounts are excluded from cannabis figures.
   - The article gives no separate raid dates beyond earlier in the week and mop-up operations; 29 October 2026 remains the publication and roundup date.
+  - The Fijivillage photo shows dried plant material and sachets from related Northern operations, not the living plants at the Vesivuru or Nawi farms.
 sources:
   - title: More than 1,600 suspected marijuana plants discovered in Northern Division, police continue nationwide drug operations
     url: https://www.fijivillage.com/news/more-than-1-600-suspected-marijuana-plants-discovered-in-northern-division-police-continue-nationwide-drug-operations-e28fff/
@@ -52,7 +53,8 @@ sources:
     date: 2026-10-29
 media:
   - kind: photo
-    url: https://www.fijivillage.com/news_images/20261029074906_media_6ae24fc464ae84_60646623.jpg
+    url: https://www.fijivillage.com/news/more-than-1-600-suspected-marijuana-plants-discovered-in-northern-division-police-continue-nationwide-drug-operations-e28fff/
+    media_url: https://www.fijivillage.com/news_images/20261029074906_media_6ae24fc464ae84_60646623.jpg
     publisher: Fijivillage
     caption: 'Seized dried leaves, branches and sachets from related Northern operations laid out for police. Photo via Fijivillage'
   - kind: photo

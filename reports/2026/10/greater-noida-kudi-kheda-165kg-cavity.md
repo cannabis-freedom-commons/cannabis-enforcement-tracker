@@ -2,7 +2,7 @@
 added_at_source: git
 added_at: "2026-10-29T08:27:48.000Z"
 code: 6BC8BC
-date: 2026-10-26
+date: 2026-10-13
 country: in
 place: Kudi Kheda turn, Dadri-Lalkuan road, Greater Noida
 coordinates: [28.539, 77.537]
@@ -21,32 +21,43 @@ figures:
   value: { amount: 10000000, currency: INR }
 created_by_model: unknown
 details:
+  activity: [smuggling, trafficking]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   products: [{product: flower, kg: 165.7}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.value: [1, 2]
 status: verified
 tags: [truck, scout-car, concealment, odisha-route]
 sources:
   - title: Drugs worth Rs 1 crore seized in Greater Noida, three arrested
     url: https://www.thehawk.in/news/india/drugs-worth-rs-1-crore-seized-in-greater-noida-three-arrested
+    archived: https://web.archive.org/web/20261016180839/https://www.thehawk.in/news/india/drugs-worth-rs-1-crore-seized-in-greater-noida-three-arrested
     publisher: The Hawk
     date: 2026-10-14
   - title: Greater Noida Police Bust Interstate Drug Ring, Seize Rs 1 Crore in Ganja
     url: https://www.mirrornow.in/noida-news/greater-noida-police-bust-interstate-drug-ring-seize-1-crore-ganja-article-156341826
+    archived: https://web.archive.org/web/20261015095414/https://www.mirrornow.in/noida-news/greater-noida-police-bust-interstate-drug-ring-seize-1-crore-ganja-article-156341826
     publisher: Mirror Now
     date: 2026-10-15
 media:
   - kind: photo
     url: https://www.mirrornow.in/noida-news/greater-noida-police-bust-interstate-drug-ring-seize-1-crore-ganja-article-156341826
+    archived: https://web.archive.org/web/20261015095414/https://www.mirrornow.in/noida-news/greater-noida-police-bust-interstate-drug-ring-seize-1-crore-ganja-article-156341826
+    media_url: https://images.mirrornow.in/thumb/msid-156341826,width-1280,height-720,resizemode-75/156341826.jpg
     publisher: Mirror Now
-    caption: The three handcuffed accused with seized sacks by the truck
+    caption: "Three handcuffed suspects with seized sacks beside the intercepted truck. Photo: Mirror Now"
+open_questions:
+  - The Hawk page returned 403 when reopened for media, so its photo address could not be checked.
+  - Exact coordinates of the Kudi Kheda turn remain approximate; the map uses the Dadri-Lalkuan corridor near Greater Noida.
 ---
 
 On local intelligence, a joint Anti-Narcotics and Badalpur police check

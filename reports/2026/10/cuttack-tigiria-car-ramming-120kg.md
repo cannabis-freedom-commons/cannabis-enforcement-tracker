@@ -2,7 +2,7 @@
 added_at_source: git
 added_at: "2026-10-29T08:27:48.000Z"
 code: MQXQY8
-date: 2026-10-26
+date: 2026-10-11
 country: in
 place: Nuasadak Chhak, Tigiria, Cuttack, Odisha
 coordinates: [20.467, 85.496]
@@ -35,17 +35,24 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.kg_seized: [1]
+  figures.value: [1]
 status: verified
 sources:
   - title: Ganja smugglers flees after ramming excise team's vehicle, car seized with 120 kgs of cannabis
     url: https://kalingatv.com/odisha/ganja-smugglers-flees-after-ramming-excise-teams-vehicle-car-seized-with-120-kgs-of-cannabis/
+    archived: https://web.archive.org/web/20261011195237/https://kalingatv.com/odisha/ganja-smugglers-flees-after-ramming-excise-teams-vehicle-car-seized-with-120-kgs-of-cannabis/
     publisher: Kalinga TV
-    date: 2026-10-26
+    date: 2026-10-11
 media:
   - kind: photo
     url: https://kalingatv.com/odisha/ganja-smugglers-flees-after-ramming-excise-teams-vehicle-car-seized-with-120-kgs-of-cannabis/
-    publisher: Kalinga TV / Excise department
-    caption: Seized white sacks with an excise officer
+    archived: https://web.archive.org/web/20261011195237/https://kalingatv.com/odisha/ganja-smugglers-flees-after-ramming-excise-teams-vehicle-car-seized-with-120-kgs-of-cannabis/
+    media_url: https://kalingatv.com/wp-content/uploads/2026/10/ganja-smugglers-flees.jpg
+    publisher: Kalinga TV
+    caption: "White sacks of seized ganja displayed with officers after the Tigiria car interception. Photo: Kalinga TV"
+open_questions:
+  - No independent second outlet account of this ramming and seizure was found; the report rests on the Kalinga TV account.
+  - The smugglers fled and no arrests, charges or injuries from the ramming were reported.
 ---
 
 On a tip-off about ganja smuggling, a joint team of Athagad and Banki excise
