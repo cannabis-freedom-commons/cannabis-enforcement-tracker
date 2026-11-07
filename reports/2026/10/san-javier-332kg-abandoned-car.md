@@ -43,6 +43,16 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/whatsapp_image_2026-10-29_at_17.41.13.jpeg
     publisher: Argentine Naval Prefecture
     caption: 'Prefectura vehicles with blue lights on a dirt track at dusk, an officer and a sniffer dog beside an abandoned dark car. Photo: Argentine Naval Prefecture / argentina.gob.ar'
+  - kind: photo
+    url: https://www.elonce.com/sociedad/incautaron-cargamento-de-332-kilos-de-marihuana-valuado-en-mas-de-1-297-millones.htm
+    media_url: https://elonce-media.elonce.com/fotos/2026/10/30/m_1793347073_86743.webp
+    publisher: Elonce.com
+    caption: 'The seized marijuana bricks from the San Javier operation, captioned "La droga incautada en Misiones" and published without a credit. Photo: Elonce.com'
+  - kind: photo
+    url: https://www.elonce.com/sociedad/incautaron-cargamento-de-332-kilos-de-marihuana-valuado-en-mas-de-1-297-millones.htm
+    media_url: https://elonce-media.elonce.com/fotos/2026/10/30/e_1793347073_31841.webp
+    publisher: Elonce.com
+    caption: 'Uncaptioned second picture published with the report of the San Javier seizure. Photo: Elonce.com'
 status: verified
 created_by_model: alibaba-token-plan/deepseek-v4.1-flash-1017#max
 submission: b579ad61f43b43b9dc30f5959e5d0ecf
@@ -67,6 +77,11 @@ sources:
     publisher: RSM - Revista Sociedade Militar
     date: 2026-11-03
     language: pt
+  - title: Incautaron cargamento de 332 kilos de marihuana valuado en más de $1.297 millones
+    url: https://www.elonce.com/sociedad/incautaron-cargamento-de-332-kilos-de-marihuana-valuado-en-mas-de-1-297-millones.htm
+    publisher: Elonce.com
+    date: 2026-10-30
+    language: es
 open_questions:
   - No article gives a separate date for the operation; 29 October 2026 is the publication date of the earliest account.
   - No arrests were reported, and the driver who fled had not been identified when the reports were published.
@@ -74,25 +89,27 @@ open_questions:
   - The two photographs hosted on argentina.gob.ar were published without captions or a named photographer.
   - The only image on the submitted page is described as an AI-generated illustrative image, so no event photo can be linked from this source.
   - The article also describes a separate 3 August seizure of more than 236 kg in San Javier, which is a different event left out of this report.
+  - Elonce gives no separate date for the operation; 30 October 2026 is its publication date, and the tracker report uses the 29 October publication date of the earliest account.
+  - The photographs published by Elonce carry no credit line, so it is not stated whether they are Prefectura handouts.
 ---
 
 A driver abandoned his car with one door open and fled on a dirt road in San
 Javier, Misiones, when Argentine Naval Prefecture officers began a controlled
-pursuit. [@1,4] Investigators were still trying to identify and find him. [@2] In
+pursuit. [@1,4,5] Investigators were still trying to identify and find him. [@2] In
 the car and in the vegetation around it, officers found 17 packages holding 424
-bricks of marijuana weighing more than 332 kilograms. [@3,4] The authorities
-valued the load at more than 1.297 billion pesos. [@1,4]
+bricks of marijuana weighing more than 332 kilograms. [@3,4,5] The authorities
+valued the load at more than 1.297 billion pesos. [@1,4,5]
 
 Prefectura Naval Argentina, the country's coast guard, said the operation began
 with intelligence from its criminal investigation staff about a possible drug
-transfer in the area. [@2] A patrol watching the Uruguay River at kilometre
+transfer in the area. [@2,5] A patrol watching the Uruguay River at kilometre
 993.6, by the Puerto Natural Once Vueltas, spotted a car on a dirt road and
-followed it. [@1,4] A sniffer dog named Andy and his handler found one more
+followed it. [@1,4,5] A sniffer dog named Andy and his handler found one more
 package hidden among the vegetation, and forensic staff from the Misiones police
-examined the load. [@1,4]
+examined the load. [@1,4,5]
 
 The case is with the federal prosecutor's office and federal court in Oberá.
-[@3] The site is close to Argentina's border with Brazil. [@2] The authorities
+[@3,5] The site is close to Argentina's border with Brazil. [@2] The authorities
 had not said whether the load had recently entered from Brazil or was being
 moved elsewhere in the country. [@2] No arrests were reported in connection with
 the seizure. [@2]
