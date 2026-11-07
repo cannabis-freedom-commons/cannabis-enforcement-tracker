@@ -85,6 +85,11 @@ sources:
     publisher: WP Info
     date: 2026-11-06
     language: pl
+  - title: 'Kielce: Blisko cztery kg narkotyków zabezpieczonych w gminie Górno. Zatrzymano 19-latka'
+    url: https://informacje.wp.pl/wiadomosci/blisko-4-kg-narkotykow-zabezpieczonych-w-gminie-gorno-zatrzymano-19-latka-7347996788967904a
+    publisher: WP Info
+    date: 2026-11-06
+    language: pl
 open_questions:
   - The sources say only that the search happened on Tuesday and were published on 5 November 2026; 3 November 2026 is used as the incident date with approximate precision.
   - All drug weights are described as preliminary estimates pending laboratory analysis, so the cannabis total may change.
@@ -92,19 +97,21 @@ open_questions:
   - No plea, trial date or further court outcome was reported.
   - The TVP account largely repeats the police statement, so corroboration is limited to those two closely related sources.
   - The police page shows two photos of the secured substances, but no absolute image address could be recovered, so only the TVP photo is listed as media.
+  - The WP Info text is a WP Kreator partner item and was republished at the same hour by Wiadomości7dni, so the two are one account rather than independent reporting.
+  - The page dates the search only to Tuesday and gives no separate incident date; 6 November 2026 is its publication date.
 ---
 
 Officers from the anti-drug unit of the Kielce city police searched a property
 in Gorno commune on Tuesday to check suspicions that a young local resident
-possessed drugs. [@1,3,4] The 19-year-old resident was detained and charged with
+possessed drugs. [@1,3,4,5] The 19-year-old resident was detained and charged with
 possessing a significant quantity of intoxicants, which police say carries up to
-10 years in prison. [@2,3] A court imposed bail, a ban on leaving the country and
-an obligation to report to a police station twice a week. [@2,3,4]
+10 years in prison. [@2,3,5] A court imposed bail, a ban on leaving the country and
+an obligation to report to a police station twice a week. [@2,3,4,5]
 
 Preliminary estimates indicate officers secured about 1.1 kg of marijuana, 1 kg
-of hashish and 46 grams of butter containing THC. [@2,3,4] Officers also found a
+of hashish and 46 grams of butter containing THC. [@2,3,4,5] Officers also found a
 non-fibre cannabis plant, an electronic scale and more than 5,000 zlotys in cash
-at the property. [@2] The same search also yielded about 1.7 kg of mephedrone, a
+at the property. [@2,5] The same search also yielded about 1.7 kg of mephedrone, a
 synthetic drug that is not counted in this report's cannabis totals. [@1] The
 seized material was sent to a police laboratory for detailed testing to
 establish its exact composition, and police are checking whether the secured
