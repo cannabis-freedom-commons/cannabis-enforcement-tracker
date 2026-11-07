@@ -80,6 +80,10 @@ sources:
     url: https://kfor.com/news/local/more-than-15000-plants-seized-in-clinton-marijuana-bust/amp/
     publisher: KFOR.com Oklahoma City
     date: 2026-11-06
+  - title: More than 15,000 plants seized in Clinton marijuana bust
+    url: https://www.yahoo.com/news/us/articles/more-15-000-plants-seized-165230026.html
+    publisher: Yahoo News (KFOR Oklahoma City)
+    date: 2026-11-06
 open_questions:
   - The name, age, nationality and charges of the person arrested were not published, and no court outcome was reported.
   - The three people handed to ICE were not identified, and it is not stated whether any of them was the arrested person.
@@ -113,4 +117,4 @@ said its investigation continues. [@2] Hoodline reported that a KFOR account put
 the number of people taken into custody at four, which fits one arrest plus
 three ICE transfers. [@3]
 
-Four people were taken into custody in the bust. [@4]
+Four people were taken into custody in the bust. [@4,5]
