@@ -55,6 +55,11 @@ sources:
     publisher: 長崎新聞
     date: 2026-11-07
     language: ja
+  - title: 大麻所持の疑いでダンス講師の男（25）を逮捕…乗用車のトランク内から発見　大浦署など
+    url: https://article.auone.jp/2508e5dc-6ebf-41f4-9885-532d1d3e954d
+    publisher: au Webポータル
+    date: 2026-11-07
+    language: ja
 open_questions:
   - The sources do not say whether the man was charged or released; police were still investigating the supply route.
   - No street value was published for the 0.2 grams of dried cannabis.
@@ -63,6 +68,8 @@ open_questions:
   - The page photo is captioned only with the headline and is not established to show this seizure, so no media entry is included.
   - The Nagasaki Shimbun account says an officer on patrol gave traffic guidance and found the cannabis in the trunk, while NBC Nagasaki Broadcasting reported that officers noticed the car drifting to the inside of a curve and found the dried cannabis in the bag of the man in the passenger seat; the reports may describe different points in the stop.
   - The Nagasaki Shimbun and NBC accounts do not say whether the man was charged or released.
+  - The submitted au Web portal capture held only the teaser of the Nagasaki Shimbun story, so its full text could not be quoted; the outlet's own page at news.jp was opened separately.
+  - A time for the traffic stop, about 7:45 p.m. on 18 October, appears in the full Nagasaki Shimbun article but could not be quoted from the submitted capture.
 ---
 
 Nagasaki police arrested the 25-year-old dance instructor at about 8:45 a.m. on
@@ -82,4 +89,4 @@ himself. [@2,3] Police said they would investigate how he obtained the dried
 cannabis. [@2] The arrest was reported on 6 November 2026, more than a week
 after it took place. [@1]
 
-The car was on a city road in Oura-machi, Nagasaki City, and an officer on patrol stopped it for traffic guidance, finding the dried cannabis in its trunk. [@3]
+The car was on a city road in Oura-machi, Nagasaki City, and an officer on patrol stopped it for traffic guidance, finding the dried cannabis in its trunk. [@3,4]
