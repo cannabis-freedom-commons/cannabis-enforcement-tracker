@@ -50,6 +50,11 @@ sources:
     publisher: Tamil Oneindia
     date: 2026-11-07
     language: ta
+  - title: '#BIG NEWS : முதலமைச்சர் விஜய் மன்னிப்பு கேட்க வேண்டும்.. திமுக பதிவு..!'
+    url: https://www.toptamilnews.com/thamizhagam/big-news-chief-minister-vijay-should-apologise-dmk/cid19503893.htm
+    publisher: Top Tamil News
+    date: 2026-11-07
+    language: ta
 open_questions:
   - The Hindu gives no separate date for the placement of the packet or the five arrests; 5 November 2026 is used, taken from The Times of India, which says the packet was planted on 5 November, and from Dinamalar, which dates it to 5 November.
   - No weight, quantity or value of the ganja was published, so no cannabis weight is recorded.
@@ -63,6 +68,9 @@ open_questions:
   - Arappor Iyakkam's release asks for the officers to be charged with ganja trafficking; no such case, charge or court step is reported.
   - No police response is given to the bribery allegation against the officer.
   - The Oneindia article 'சிவகங்கையில் டாஸ்மாக் பாருக்கு எதிராக போராடியவரை சிக்க வைக்க மாஸ்டர் பிளான்.. சிக்கி கொண்ட போலீஸ்?' (oneindia 843647, 7 November 2026) appears to cover the same incident but could not be opened in full and is not cited.
+  - The submitted page is a party political statement carried by a Tamil news aggregator; it gives no dates, weights, officer names or counts and offers no independent account of who planted the packet.
+  - The page places the trader at Singampunari while other accounts name Thirukkalappatti near Tiruppattur in Sivaganga district; the report keeps the more specific locality.
+  - The DMK post also refers to an unrelated alleged 1,000-crore meth-trafficking case against a TVK functionary, which is not part of this cannabis event and is left out.
 ---
 
 Five people were arrested near Tiruppattur for allegedly planting a packet of
@@ -79,7 +87,7 @@ road on November 4, 2026, demanding the shop's closure, and it was temporarily
 closed after the protest. [@2] Officers from the Sivaganga prohibition wing
 searched Rajkumar's shop and found a packet of ganja and tobacco lying by the
 pavement stone in front of it, then questioned his wife and mother about selling
-banned goods. [@3]
+banned goods. [@3,5]
 
 Dinamalar reported that when Rajkumar showed the officers the camera footage,
 they took copies and left the scene. [@3] Rajkumar, accompanied by CPI(M)
@@ -99,3 +107,5 @@ that a case had been registered, that five people had been arrested and that
 further investigation was under way, and denied that police were involved. [@2]
 
 Arappor Iyakkam, an anti-corruption group that filed the statement, demanded that the police officers responsible be immediately charged with ganja trafficking and jailed. [@4] The group said Rajkumar escaped only because the shop had CCTV, and that otherwise he would have spent several years in prison. [@4] The group said the case raises the question of how many prisoners are in genuine ganja cases and how many have been pushed into false ones like this. [@4] Arappor Iyakkam said that transferring or suspending the officer would signal that police ganja trafficking is routine, and demanded an inquiry into a bribe the officer took from the bar operator. [@4]
+
+The DMK party said it stands firmly with the trader harmed by police planting ganja at his shop over his campaign against a TASMAC outlet, and demanded that the officers involved face departmental action and a criminal case. [@5] In a post on X on 7 November 2026, the DMK demanded that Chief Minister Vijay apologise to the trader affected by the planting. [@5]
