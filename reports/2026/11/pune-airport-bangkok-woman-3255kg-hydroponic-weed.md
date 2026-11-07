@@ -139,6 +139,7 @@ open_questions:
   - The article does not state the testing method that identified the substance beyond saying the examination showed hydroponic ganja.
   - The page's only image is captioned simply as Pune and is not established to show this seizure, so no media entry is added.
   - The Marathi and English editions are Lokshahi's own versions of the same article by the same author, so they are not an independent second account.
+  - Lokshahi describes the packets as hidden inside the bag rather than inside a fabricated false cavity; both accounts describe the same black plastic wrapped parcels in her check-in trolley bag.
 ---
 
 Officers of the Air Intelligence Unit and Airport Batch of Pune Customs
@@ -165,3 +166,5 @@ ahead of Diwali. [@2]
 The packets held an orange-green dried powder with a strong pungent odour, and a testing machine identified it as high-grade hydroponic cannabis. [@3] Pune Customs is investigating who else took part in the smuggling and whom the cannabis was being brought for. [@3,4,5,9,10]
 
 Pune Customs said it was investigating whom the ganja was being brought for, on whose instructions it was smuggled and whether anyone else was part of the network behind it. [@7]
+
+Lokshahi reported that packets wrapped in sealed black plastic were found hidden inside the woman's check-in bag. [@8]
