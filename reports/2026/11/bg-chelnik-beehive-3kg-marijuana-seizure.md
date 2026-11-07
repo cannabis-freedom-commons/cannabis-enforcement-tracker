@@ -55,6 +55,11 @@ sources:
     publisher: БНР Бургас (Българско национално радио)
     date: 2026-11-06
     language: bg
+  - title: Иззеха 15 кг марихуана при антинаркотични акции в Ямболско и Хасковско
+    url: https://taralej.bg/obshtestvo/izzeha-15-kg-marihuana-pri-antinarkotichni-akcii-v-qmbolsko-i-haskovsko
+    publisher: Таралеж
+    date: 2026-11-06
+    language: bg
 open_questions:
   - The report gives the date of the Chelnik operation as 5 November but not the time of day or whether the searches in the two regions were simultaneous.
   - The weight is reported as about 3 kilograms, not an exact measured figure.
@@ -62,22 +67,22 @@ open_questions:
   - The two detainees in Chelnik are not named and no ages are given.
   - The 12 kg seized in the parallel operation in Smirnentsi, Haskovo region, is a separate event recorded in another report and is not counted in this report's figures.
   - All accounts reproduce the same statement by the anti-organised-crime directorate, and the photographs published with them are its handout images.
+  - The page's only image is credited as a Pixabay stock photo, so no event photo from this source is listed.
 ---
 
 Two men were detained in a specialised operation by Bulgaria's
 anti-organised-crime directorate, known by its Bulgarian initials GDBOP, in the
-Yambol region on 5 November. [@1] About 3 kilograms of marijuana were found
+Yambol region on 5 November. [@1,3] About 3 kilograms of marijuana were found
 hidden in a beehive in the yard of a house in the Yambol village of Chelnik.
-[@1] During the search of the property in Chelnik, officers found the drug
-divided into various packages and hidden in the beehive. [@1] The drug was found
+[@1,3] During the search of the property in Chelnik, officers found the drug
+divided into various packages and hidden in the beehive. [@1,3] The drug was found
 divided into various packages during a search of a yard in the village,
 according to Bulgarian National Radio. [@2]
 
 A pre-trial investigation was opened under the supervision of the Yambol
-regional prosecutor's office. [@1]
+regional prosecutor's office. [@1,3]
 
 The Chelnik operation was one of two GDBOP anti-drug operations in the Yambol
 and Haskovo regions that ended with three men detained and about 15 kilograms of
-marijuana seized in total. [@1] No link between those detained in the two
+marijuana seized in total. [@1,3] No link between those detained in the two
 operations had been announced. [@1]
-
