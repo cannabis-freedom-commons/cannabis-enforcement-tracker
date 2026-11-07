@@ -1,0 +1,233 @@
+---
+// Unlisted editorial tool: review media that captions already flag as stock / AI / illustration /
+// file photos. Not linked from the nav; noindex. Decisions stay in the browser until copied out.
+import Base from "../../layouts/Base.astro";
+import { mediaReviewCandidates } from "../../lib/media-review-candidates.js";
+
+const base = import.meta.env.BASE_URL;
+const candidates = mediaReviewCandidates();
+const counts = {
+  all: candidates.length,
+  hard: candidates.filter((c) => c.strength === "hard").length,
+  strong: candidates.filter((c) => c.strength === "strong").length,
+  soft: candidates.filter((c) => c.strength === "soft").length,
+};
+---
+<Base title="Media review · stock / AI" description="Internal review of caption-flagged stock, illustration and AI media." wide>
+  <meta slot="head" name="robots" content="noindex, nofollow" />
+  <div class="mr" data-media-review data-base={base}>
+    <script type="application/json" id="mr-data" set:html={JSON.stringify(candidates).replace(/</g, "\\u003c")} />
+    <header class="mr-head">
+      <p class="mr-kicker">Unlisted · noindex · decisions stay in this browser</p>
+      <h1>Stock / AI media review</h1>
+      <p class="mr-lead">
+        {counts.all} caption-flagged photos
+        ({counts.hard} agency/AI · {counts.strong} illustration/file · {counts.soft} weaker).
+        Mark each one; copy the list when done and paste it back in chat.
+      </p>
+      <div class="mr-toolbar">
+        <label>Show
+          <select data-filter-strength>
+            <option value="strong" selected>hard + strong ({counts.hard + counts.strong})</option>
+            <option value="hard">agency / AI only ({counts.hard})</option>
+            <option value="soft">weaker only ({counts.soft})</option>
+            <option value="all">all ({counts.all})</option>
+          </select>
+        </label>
+        <label>Status
+          <select data-filter-status>
+            <option value="all">all</option>
+            <option value="undecided" selected>undecided</option>
+            <option value="remove">remove</option>
+            <option value="keep">keep</option>
+            <option value="replace">replace</option>
+          </select>
+        </label>
+        <span class="mr-counts" data-counts></span>
+        <button type="button" class="mr-btn" data-copy>Copy decisions</button>
+        <button type="button" class="mr-btn ghost" data-clear>Clear marks</button>
+      </div>
+      <pre class="mr-out" data-out hidden></pre>
+    </header>
+    <ol class="mr-grid" data-grid></ol>
+  </div>
+</Base>
+
+<script>
+  type Cand = {
+    id: string; slug: string; reportUrl: string; title: string; date: string;
+    countryName: string; index: number; flags: string[]; strength: string;
+    caption: string; publisher: string; pageUrl: string; mediaUrl: string;
+    thumb: string | null; full: string | null; placeholder: string | null;
+  };
+  type Mark = "undecided" | "remove" | "keep" | "replace";
+
+  const root = document.querySelector<HTMLElement>("[data-media-review]")!;
+  const base = root.dataset.base || "/";
+  const candidates: Cand[] = JSON.parse(document.getElementById("mr-data")!.textContent || "[]");
+  const STORE = "cet-media-review-v1";
+  const marks: Record<string, Mark> = (() => {
+    try { return { ...JSON.parse(localStorage.getItem(STORE) || "{}") }; } catch { return {}; }
+  })();
+  const save = () => { try { localStorage.setItem(STORE, JSON.stringify(marks)); } catch {} };
+
+  const grid = root.querySelector<HTMLOListElement>("[data-grid]")!;
+  const countsEl = root.querySelector<HTMLElement>("[data-counts]")!;
+  const out = root.querySelector<HTMLPreElement>("[data-out]")!;
+  const filterStrength = root.querySelector<HTMLSelectElement>("[data-filter-strength]")!;
+  const filterStatus = root.querySelector<HTMLSelectElement>("[data-filter-status]")!;
+
+  const markOf = (id: string): Mark => marks[id] || "undecided";
+
+  function visible() {
+    const strength = filterStrength.value;
+    const status = filterStatus.value;
+    return candidates.filter((c) => {
+      if (strength === "hard" && c.strength !== "hard") return false;
+      if (strength === "strong" && c.strength === "soft") return false;
+      if (strength === "soft" && c.strength !== "soft") return false;
+      if (status !== "all" && markOf(c.id) !== status) return false;
+      return true;
+    });
+  }
+
+  function summary() {
+    const n = { undecided: 0, remove: 0, keep: 0, replace: 0 };
+    for (const c of candidates) n[markOf(c.id)]++;
+    countsEl.textContent = `${n.remove} remove · ${n.keep} keep · ${n.replace} replace · ${n.undecided} open`;
+  }
+
+  function card(c: Cand) {
+    const li = document.createElement("li");
+    li.className = "mr-card";
+    li.dataset.id = c.id;
+    li.dataset.mark = markOf(c.id);
+    const img = c.thumb || c.full
+      ? `<button type="button" class="mr-shot" data-full="${esc(c.full || c.thumb || "")}" title="Enlarge">
+           <img src="${esc(c.thumb || c.full || "")}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${c.placeholder ? ` style="background-image:url(${c.placeholder})"` : ""} />
+         </button>`
+      : `<div class="mr-shot empty">No thumb</div>`;
+    li.innerHTML = `
+      ${img}
+      <div class="mr-meta">
+        <div class="mr-flags">${c.flags.map((f) => `<span>${esc(f)}</span>`).join("")}<span class="mr-str">${esc(c.strength)}</span></div>
+        <h2><a href="${base}${esc(c.reportUrl)}">${esc(c.title)}</a></h2>
+        <p class="mr-sub">${esc(c.date)} · ${esc(c.countryName)} · media[${c.index}] · <code>${esc(c.slug)}</code></p>
+        <p class="mr-cap">${esc(c.caption || "(no caption)")}</p>
+        <p class="mr-links">
+          ${c.pageUrl ? `<a href="${esc(c.pageUrl)}" target="_blank" rel="noopener">source page</a>` : ""}
+          ${c.mediaUrl ? `<a href="${esc(c.mediaUrl)}" target="_blank" rel="noopener">media url</a>` : ""}
+        </p>
+        <div class="mr-actions" role="group" aria-label="Decision">
+          <button type="button" data-mark="remove">Remove</button>
+          <button type="button" data-mark="keep">Keep</button>
+          <button type="button" data-mark="replace">Replace</button>
+          <button type="button" data-mark="undecided" class="ghost">Clear</button>
+        </div>
+      </div>`;
+    return li;
+  }
+
+  function esc(s: string) {
+    return String(s).replace(/[&<>"']/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]!));
+  }
+
+  function render() {
+    const list = visible();
+    grid.replaceChildren(...list.map(card));
+    summary();
+  }
+
+  grid.addEventListener("click", (e) => {
+    const t = e.target as HTMLElement;
+    const fullBtn = t.closest<HTMLElement>("[data-full]");
+    if (fullBtn?.dataset.full) {
+      window.open(fullBtn.dataset.full, "_blank", "noopener");
+      return;
+    }
+    const btn = t.closest<HTMLButtonElement>("button[data-mark]");
+    const cardEl = t.closest<HTMLElement>(".mr-card");
+    if (!btn || !cardEl) return;
+    const id = cardEl.dataset.id!;
+    const mark = btn.dataset.mark as Mark;
+    if (mark === "undecided") delete marks[id];
+    else marks[id] = mark;
+    save();
+    cardEl.dataset.mark = markOf(id);
+    summary();
+    if (filterStatus.value !== "all" && filterStatus.value !== markOf(id)) cardEl.remove();
+  });
+
+  filterStrength.addEventListener("change", render);
+  filterStatus.addEventListener("change", render);
+
+  root.querySelector("[data-clear]")!.addEventListener("click", () => {
+    if (!confirm("Clear all marks in this browser?")) return;
+    for (const k of Object.keys(marks)) delete marks[k];
+    save();
+    render();
+  });
+
+  root.querySelector("[data-copy]")!.addEventListener("click", async () => {
+    const lines = ["Media review decisions:"];
+    for (const mark of ["remove", "replace", "keep"] as Mark[]) {
+      const rows = candidates.filter((c) => markOf(c.id) === mark);
+      if (!rows.length) continue;
+      lines.push("", `${mark}:`);
+      for (const c of rows) lines.push(`- ${c.slug} media[${c.index}] (${c.flags.join(", ")})`);
+    }
+    const text = lines.join("\n");
+    out.hidden = false;
+    out.textContent = text;
+    try {
+      await navigator.clipboard.writeText(text);
+      (root.querySelector("[data-copy]") as HTMLButtonElement).textContent = "Copied";
+      setTimeout(() => { (root.querySelector("[data-copy]") as HTMLButtonElement).textContent = "Copy decisions"; }, 1500);
+    } catch {}
+  });
+
+  render();
+</script>
+
+<style>
+  .mr { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+  .mr-kicker { margin: 0; color: var(--muted); font-size: .85rem; letter-spacing: .04em; text-transform: uppercase; }
+  .mr-head h1 { font-family: var(--display); font-weight: 400; font-size: clamp(1.8rem, 4vw, 2.6rem); margin: .2rem 0 .5rem; }
+  .mr-lead { color: var(--text-2); max-width: 52rem; margin: 0 0 1.25rem; }
+  .mr-toolbar { display: flex; flex-wrap: wrap; gap: .75rem 1rem; align-items: center; margin-bottom: 1rem; }
+  .mr-toolbar label { display: flex; gap: .4rem; align-items: center; color: var(--text-2); font-size: .92rem; }
+  .mr-toolbar select { background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: var(--r); padding: .35rem .5rem; }
+  .mr-counts { color: var(--muted); font-family: var(--mono); font-size: .85rem; }
+  .mr-btn { background: var(--accent); color: var(--accent-ink); border: 0; border-radius: var(--r); padding: .45rem .8rem; cursor: pointer; font: inherit; }
+  .mr-btn.ghost, .mr-actions .ghost { background: transparent; color: var(--text-2); border: 1px solid var(--border); }
+  .mr-out { background: var(--surface); border: 1px solid var(--border); padding: .75rem 1rem; overflow: auto; font-family: var(--mono); font-size: .8rem; white-space: pre-wrap; }
+  .mr-grid { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.25rem; }
+  .mr-card { display: grid; grid-template-columns: minmax(220px, 320px) 1fr; gap: 1rem; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); padding: .75rem; }
+  .mr-card[data-mark="remove"] { outline: 2px solid #c45c5c; }
+  .mr-card[data-mark="keep"] { outline: 2px solid #5a9a6a; }
+  .mr-card[data-mark="replace"] { outline: 2px solid #c4a35c; }
+  .mr-shot { display: block; width: 100%; aspect-ratio: 16 / 10; overflow: hidden; background: var(--surface-2); border: 0; padding: 0; cursor: zoom-in; border-radius: var(--r); }
+  .mr-shot img { width: 100%; height: 100%; object-fit: cover; display: block; background-size: cover; background-position: center; }
+  .mr-shot.empty { display: grid; place-items: center; color: var(--muted); cursor: default; }
+  .mr-flags { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: .4rem; }
+  .mr-flags span { font-family: var(--mono); font-size: .72rem; padding: .15rem .4rem; background: var(--surface-2); border-radius: var(--r); color: var(--text-2); }
+  .mr-flags .mr-str { color: var(--muted); }
+  .mr-meta h2 { font-size: 1.05rem; margin: 0 0 .25rem; font-weight: 600; line-height: 1.3; }
+  .mr-meta h2 a { color: inherit; text-decoration: none; }
+  .mr-meta h2 a:hover { text-decoration: underline; }
+  .mr-sub { margin: 0 0 .5rem; color: var(--muted); font-size: .85rem; }
+  .mr-sub code { font-family: var(--mono); font-size: .8rem; }
+  .mr-cap { margin: 0 0 .5rem; color: var(--text-2); font-size: .92rem; }
+  .mr-links { display: flex; gap: .75rem; margin: 0 0 .75rem; font-size: .85rem; }
+  .mr-actions { display: flex; flex-wrap: wrap; gap: .4rem; }
+  .mr-actions button { font: inherit; font-size: .88rem; padding: .4rem .7rem; border-radius: var(--r); border: 1px solid var(--border); background: var(--surface-2); color: var(--text); cursor: pointer; }
+  .mr-actions button[data-mark="remove"] { background: #5a2a2a; border-color: #7a3a3a; }
+  .mr-actions button[data-mark="keep"] { background: #2a4a32; border-color: #3a6a42; }
+  .mr-actions button[data-mark="replace"] { background: #4a3a20; border-color: #6a5a30; }
+  .mr-card[data-mark="remove"] .mr-actions button[data-mark="remove"],
+  .mr-card[data-mark="keep"] .mr-actions button[data-mark="keep"],
+  .mr-card[data-mark="replace"] .mr-actions button[data-mark="replace"] { outline: 2px solid var(--text); }
+  @media (max-width: 720px) {
+    .mr-card { grid-template-columns: 1fr; }
+  }
+</style>
