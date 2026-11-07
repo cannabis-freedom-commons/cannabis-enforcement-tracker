@@ -2,33 +2,46 @@
 added_at_source: git
 added_at: "2026-11-02T11:51:38.000Z"
 code: ZH9194
-date: 2026-11-02
+date: 2026-11-07
 country: eg
 place: Badrashin, Giza
 coordinates: [29.8514, 31.2742]
 precision: locality
-type: prosecution
-also: [seizure]
-title: Seven on trial in Badrashin over 2.12 kg of hashish
-summary: >-
-  Seven defendants face trial at the Giza Criminal Court over alleged drug trafficking in Badrashin, with lab reports stating 2,120.39 grams of hashish. The same case also involves alleged cocaine, phenethylamine, tramadol and unlicensed firearms.
+type: sentence
+also: [seizure, prosecution]
+title: 'Seven sentenced in Badrashin hashish case: 3 life terms, 15 and 10 years'
+summary: 'The Giza Criminal Court sentenced all seven defendants in Badrashin case No. 19525 of 2025 over drug trafficking and unlicensed firearms: three to life, three to 15 years and one to 10 years. The case involved 2,120.39 grams of hashish, with cocaine, a phenethylamine derivative and tramadol tablets excluded from the cannabis weight.'
 figures:
-  charged: 7
-  kg_seized: 2.12039
+    charged: 7
+    kg_seized: 2.12039
+    prison: life for 3; 15 years for 3; 10 years for 1
+    convicted: 7
+    sentenced: 7
 details:
-  activity: [trafficking, possession]
-  agency_types: [police]
-  case_stage: investigation
-  date_precision: exact
-  products:
-    - {product: hashish}
+    activity: [trafficking, possession]
+    agency_types: [court]
+    case_stage: sentenced
+    date_precision: publication
+    products:
+        - {product: hashish, kg: 2.12039}
+    agencies: [Giza Criminal Court]
+    charges: [trafficking in narcotics, possessing firearms and ammunition without a licence]
+    sentence_types: [prison, life]
+    region: Giza Governorate
 data_sources:
-  details.activity: [1, 2, 3]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.date_precision: [1]
-  details.products: [1]
-  figures.kg_seized: [1]
+    details.activity: [4]
+    details.agency_types: [4]
+    details.case_stage: [4]
+    details.date_precision: [1]
+    details.products: [4]
+    figures.kg_seized: [4]
+    details.agencies: [4]
+    details.charges: [4]
+    details.sentence_types: [4]
+    figures.charged: [4]
+    figures.convicted: [4]
+    figures.prison: [4]
+    figures.sentenced: [4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a1f5189818f2346a90723a7fc3cb78c5
@@ -49,12 +62,24 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-02
     language: ar
+  - title: من المؤبد إلى 10 سنوات.. أحكام متفاوتة بحق 7 متهمين بتجارة المخدرات في البدرشين
+    url: https://www.almasryalyoum.com/news/details/4403757
+    publisher: المصري اليوم
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The headline says a verdict for the seven defendants, but the article body describes a trial hearing; no verdict or sentence is reported.
   - The report uses 2 November 2026, the publication and hearing date; no separate date is given for the earlier arrest or seizure.
   - The headline says 500 tramadol tablets while the body and lab report say 499 tablets; the report uses the 499-tablet lab figure and excludes it from cannabis figures.
   - The only listed image is captioned as an archive court-gavel photo, not this event, so no media entry is included.
   - Cocaine, phenethylamine-derivative powder and tramadol weights are not cannabis and are excluded; no combined drug total is counted as cannabis.
+  - The article gives no date for the sentencing hearing itself; 7 November 2026 is its publication date and is used as the incident date.
+  - The article reports no fines, confiscation orders or appeal, so the sentence is not recorded as final.
+  - The headline says 500 tramadol tablets while the laboratory report says 499; the report keeps the 499-tablet figure and both are excluded from cannabis figures.
+  - No single prison figure can express the sentence, because the seven defendants received three different terms; the figures give life for three, 15 years for three and 10 years for one.
+  - The article gives no weight for the cocaine or the phenethylamine-derivative powder, so no other-substance quantity is recorded and no combined total is used as cannabis.
+  - Only Al-Masry Al-Youm and no second outlet or court statement for the verdict could be opened; no sentence date beyond the publication date is stated.
+  - The page's only image is a captioned archive court-gavel photo, not this case, so no media entry is added.
 ---
 
 On 2 November 2026 the Giza Criminal Court heard the trial of seven defendants
@@ -84,3 +109,4 @@ the defendants, obtained prosecution permission to arrest and search them, and
 seized drugs, weapons and ammunition with a security force, an account supported
 by three accompanying officers. [@1]
 
+On 7 November 2026 the Giza Criminal Court sentenced all seven defendants in Badrashin case No. 19525 of 2025 over drug trafficking and unlicensed possession of firearms and ammunition. [@4] The first, second and fourth defendants received life imprisonment, the fifth, sixth and seventh 15 years, and the third defendant 10 years. [@4] The verdict came on the back of the seizure of about 2 kilograms of hashish and 500 tramadol tablets from the defendants. [@4] The chemical laboratory report put the hashish exhibits at a total of 2,120.39 grams, about 2 kilograms and 120 grams of hashish. [@4] The laboratory report separately listed 499 tramadol tablets, crystalline powder containing a phenethylamine derivative and tablets containing cocaine, none of which is counted in the hashish weight. [@4]
