@@ -62,6 +62,11 @@ sources:
     publisher: Ouest-France
     date: 2026-11-06
     language: fr
+  - title: 'Blois : inconnu de la justice, un jeune homme veillait sur des sacs de drogue pour des trafiquants'
+    url: https://www.larep.fr/blois-41000/faits-divers/blois-inconnu-de-la-justice-un-jeune-homme-veillait-sur-des-sacs-de-drogue-pour-des-trafiquants_15076528/
+    publisher: La République du Centre
+    date: 2026-11-06
+    language: fr
 open_questions:
   - The article is paywalled after its first lines, so the charges read at the hearing, the court's reasoning, any customs fine and the full account of the 2023 search were not available.
   - No figure for the number of people arrested in July 2023 was published in the accessible text; K.C. was in the car with two other people, but no cannabis weight or ownership was attributed to them.
@@ -72,6 +77,10 @@ open_questions:
   - No figure for the number of counterfeit notes or for the weapon's make or licence status was given, and the nature of the 1.5 kg (herbal cannabis or resin) is still not stated.
   - Ouest-France does not say what charge or charges the court ruled on, or whether a customs fine was imposed.
   - No event photo was published; the page used an illustration image of Blois, labelled as such.
+  - The account says he was convicted of holding cannabis but does not say whether the 1.5 kg was herbal cannabis or resin; the report's flower product is carried over, not confirmed.
+  - The 2,000 euro fine is stated as part of the sentence; no customs fine or confiscation is mentioned.
+  - The account does not narrow the July 2023 arrest beyond the month, and it names no charges for the two other people stopped with him.
+  - This account describes payment for keeping the bags but gives no sum, and it does not repeat the 500 euro figure reported elsewhere.
 ---
 
 The Blois criminal court sentenced a 23-year-old former Blois resident,
@@ -89,3 +98,5 @@ calibre weapon and counterfeit banknotes in the car. [@1,2] The hearing took pla
 on Tuesday 3 November 2026 at the Blois judicial court. [@1]
 
 The man told the court he had agreed to keep the bags for 500 euros, "without looking inside", on an offer from older youths in his neighbourhood he knew only by sight. [@2] He said he had never taken part in trafficking and called taking the bags his only mistake, saying he was on a sabbatical year and looking for an employer to start a work-study course. [@2] His lawyer stressed that he had complied with his judicial supervision and was moving into work. [@2] The two other people in the car were released without charge. [@2]
+
+The Blois court also fined the man 2,000 euros and banned him from holding a weapon for three years. [@3] He was acquitted of transporting drugs, while convicted of holding a firearm and cannabis. [@3] He told the court he had been approached by drug traffickers because he had no criminal record, and was to look after their bags for payment, "without looking inside". [@3] The prosecutor retorted that he could not have been unaware of the cannabis in one of the bags, given the smell. [@3] The defendant, who had found work during his judicial supervision, admitted he had made "a mistake" in accepting the offer. [@3]
