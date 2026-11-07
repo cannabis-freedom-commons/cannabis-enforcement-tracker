@@ -84,6 +84,11 @@ sources:
     publisher: Mardin Life
     date: 2026-11-06
     language: tr
+  - title: Mersin'de uyuşturucu operasyonunda 48 kilo esrar ele geçirildi, 4 şüpheli tutuklandı - Haberler
+    url: https://www.haberler.com/amp/mersin-de-uyusturucu-operasyonunda-48-kilo-esrar-20403158-haberi/
+    publisher: Haberler
+    date: 2026-11-06
+    language: tr
 open_questions:
   - No separate date was given for the operation or the court hearing; 31 October 2026 is the publication date of the earliest account, so both happened on or before that evening.
   - No weight, plant count or estimated value was published for the synthetic drugs or the esrar; the accounts say only that 'a quantity' of esrar was found.
@@ -101,6 +106,9 @@ open_questions:
   - The 6 November accounts do not name the districts or neighbourhoods searched, and they do not say how much of the 48 kilograms was found in the vehicle and how much at the home.
   - The street value of the 48 kilograms of esrar was not published.
   - No trial date or final sentence beyond pre-trial detention was reported.
+  - İHA reports that the Mersin provincial police directorate's narcotics branch targeted street-level dealers known as torbacı, while Haberler says the operations took place in districts across the city; neither account names the districts.
+  - İHA and Sabah report that 19 suspects were jailed in Mersin drug-trafficking operations over the previous five days; that campaign total is not counted in this event's figures.
+  - The Haberler page carries only a 'watch the video' link and no article photo address could be recovered, so no media entry is added from it; Sabah's page photographs carry no caption establishing what they show.
 ---
 
 Anti-narcotics police in Mersin detained H.Y. and M.E. in an investigation run
@@ -117,4 +125,6 @@ the two were brought to court under heavy security. [@3] A duty court ordered
 tutuklama, pre-trial detention, on drug-trafficking charges and sent both to
 prison. [@3,4,6]
 
-Police in Mersin detained five suspected street drug dealers and a court jailed four of them on 6 November 2026. [@7] Officers found 48 kilograms of esrar, the Turkish name for cannabis, in the vehicle used by one suspect and in that suspect's home, and about 1.5 kilograms of methamphetamine in another suspect's vehicle. [@7] İHA reported that police caught the suspects in two numbered-plate vehicles and seized about 1.5 kilograms of methamphetamine and 48 kilograms of esrar in the vehicles and at their addresses. [@8] Searches of the other three suspects found 14.40 grams of synthetic cannabinoid (bonzai), cocaine, ammonia, a precision scale and 120 lira. [@9] Of the five suspects brought to court, four were ordered held in pre-trial detention and the fifth was released under judicial supervision. [@9]
+Police in Mersin detained five suspected street drug dealers and a court jailed four of them on 6 November 2026. [@7,10] Officers found 48 kilograms of esrar, the Turkish name for cannabis, in the vehicle used by one suspect and in that suspect's home, and about 1.5 kilograms of methamphetamine in another suspect's vehicle. [@7,10] İHA reported that police caught the suspects in two numbered-plate vehicles and seized about 1.5 kilograms of methamphetamine and 48 kilograms of esrar in the vehicles and at their addresses. [@8] Searches of the other three suspects found 14.40 grams of synthetic cannabinoid (bonzai), cocaine, ammonia, a precision scale and 120 lira. [@9] Of the five suspects brought to court, four were ordered held in pre-trial detention and the fifth was released under judicial supervision. [@9]
+
+İHA reported that the Mersin provincial police directorate's anti-narcotics branch targeted people trading drugs and street-level dealers known as torbacı. [@8]
