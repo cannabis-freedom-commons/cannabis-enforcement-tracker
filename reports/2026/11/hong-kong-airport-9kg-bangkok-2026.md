@@ -89,6 +89,10 @@ sources:
     publisher: 星島加拿大 星島日報
     date: 2026-11-05
     language: zh
+  - title: Hong Kong Customs seizes suspected cannabis buds worth about $1.9 million at airport (with photo)
+    url: https://www.info.gov.hk/gia/general/202611/05/P2026110500602.htm
+    publisher: Hong Kong Special Administrative Region Government
+    date: 2026-11-05
 open_questions:
   - The reported 9 kg weight and HK$1.9 million value are stated as approximations.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
@@ -97,16 +101,16 @@ open_questions:
 ---
 
 Hong Kong Customs arrested a 24-year-old mainland male traveller at Hong Kong
-International Airport after finding suspected cannabis in his hand luggage. [@1,2,4,5,6,7,8]
+International Airport after finding suspected cannabis in his hand luggage. [@1,2,4,5,6,7,8,9]
 The traveller had flown in from Bangkok, Thailand, on the night of 4 November
 2026. [@1,2,4,5,6,7,8] Officers detected the luggage-concealed trafficking case at the
-airport on 5 November 2026. [@1,4,6] The arrested man has been charged with one
-count of trafficking in a dangerous drug. [@2,4,5,6,7,8] His case is due for mention at
-West Kowloon Magistrates' Courts on 6 November 2026. [@1,2,4,5,6,7,8]
+airport on 5 November 2026. [@1,4,6,9] The arrested man has been charged with one
+count of trafficking in a dangerous drug. [@2,4,5,6,7,8,9] His case is due for mention at
+West Kowloon Magistrates' Courts on 6 November 2026. [@1,2,4,5,6,7,8,9]
 
 Officers seized about 9 kg of suspected cannabis buds, described as 大麻花, in the
-case. [@3,5,6,8] Customs put the estimated market value of the seized buds at about
-HK$1.9 million. [@1,2,5,6,8]
+case. [@3,5,6,8,9] Customs put the estimated market value of the seized buds at about
+HK$1.9 million. [@1,2,5,6,8,9]
 
 Customs said it prioritises clearance checks on travellers arriving from
 high-risk regions under a risk-management approach to combat cross-boundary drug
