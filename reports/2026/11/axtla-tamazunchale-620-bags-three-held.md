@@ -51,6 +51,11 @@ sources:
     publisher: Plano Informativo
     date: 2026-11-06
     language: es
+  - title: Caen tres presuntos distribuidores de droga en la Huasteca
+    url: https://www.pulsoslp.com.mx/seguridad/caen-tres-presuntos-distribuidores-de-droga-en-la-huasteca-/2104930
+    publisher: Pulso Diario San Luis
+    date: 2026-11-07
+    language: es
 open_questions:
   - The accounts give no separate date for the operation; 6 November 2026 is the publication date on both pages and is used as the incident date.
   - No weight or street value was given for the 620 bags of marijuana, so the seized cannabis quantity is recorded only as a count of bags.
@@ -60,16 +65,17 @@ open_questions:
   - Two accounts open on the same day carry the same state security statement, and no separate official communiqué was opened.
   - A same-day roundup in Pulso SLP and San Luis Hoy reports four different detentions with 65 crystal doses in Axtla de Terrazas and marijuana doses in Villa de Reyes and Villa de Guadalupe; it appears to be a separate operation and is not counted here.
   - The Plano Informativo photograph carries no caption or credit tying it to this seizure, and the El Exprés image file carries none either.
+  - The Pulso page is dated 7 November 2026 while the existing report uses 6 November 2026 from the earlier accounts; the page gives no separate date for the operation itself.
 ---
 
 Officers of San Luis Potosí's Guardia Civil Estatal, the state civil guard,
 detained three people suspected of distributing drugs in Axtla de Terrazas and
-Tamazunchale, in the Huasteca region. [@1] The three were identified as Herlín
-“N”, 50, José “N”, 18, and a teenager. [@1] The force said the detentions came
+Tamazunchale, in the Huasteca region. [@1,3] The three were identified as Herlín
+“N”, 50, José “N”, 18, and a teenager. [@1,3] The force said the detentions came
 from intelligence work and an operational deployment in the Huasteca region.
 [@2]
 
-During the intervention officers seized 620 bags of marijuana. [@1] Officers
+During the intervention officers seized 620 bags of marijuana. [@1,3] Officers
 also seized 215 doses of the synthetic drug known locally as “cristal”, which is
 not cannabis. [@1]
 
@@ -77,7 +83,6 @@ Intelligence information linked the three to drug distribution, and the force
 presented the seizure as a blow to narcomenudeo, the small-scale sale of drugs.
 [@1] The three detainees and the substances were placed at the disposal of the
 competent authority, which will carry out the investigation and determine legal
-responsibility. [@1] The state Secretariat of Security and Citizen Protection
+responsibility. [@1,3] The state Secretariat of Security and Citizen Protection
 said the civil guard keeps up intelligence, surveillance and operational work
 against drug distribution in all four regions of the state. [@2]
-
