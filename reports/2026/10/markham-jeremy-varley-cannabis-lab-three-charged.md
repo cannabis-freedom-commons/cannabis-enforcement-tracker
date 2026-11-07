@@ -73,6 +73,11 @@ media:
     media_url: https://www.cp24.com/resizer/v2/FBOBAZWRL5FJFKBO7BECSOEV6E.png?auth=6025788a76227431bf3f4e5afa1feaa808dae5b8ea6d649e2ce585afa01d9c26&width=1440&height=810
     publisher: CP24
     caption: 'Fire crews entering the Markham home where police found the lab on 23 October 2026. Photo: CTV News'
+  - kind: photo
+    url: https://www.newmarkettoday.ca/police-beat/police-dismantle-clandestine-drug-lab-in-markham-after-welfare-check-12989859
+    media_url: https://www.vmcdn.ca/f/files/newmarkettoday/images/2026-11-06-police.png;w=960
+    publisher: NewmarketToday.ca
+    caption: 'York Regional Police supplied composite image of the controlled substance production and distribution dismantled at the Markham home. Photo: York Regional Police/Supplied'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d08672f0ae0f6b26e131f565b3ae5a4d
@@ -115,6 +120,10 @@ sources:
     url: https://redfm.ca/en-ca/toronto/news-articles/york-police-uncover-illegal-drug-lab-in-markham-three-people-charged
     publisher: RED FM Toronto
     date: 2026-11-06
+  - title: Police dismantle clandestine drug lab in Markham after welfare check
+    url: https://www.newmarkettoday.ca/police-beat/police-dismantle-clandestine-drug-lab-in-markham-after-welfare-check-12989859
+    publisher: NewmarketToday.ca
+    date: 2026-11-06
 open_questions:
   - The article gives no time of day for the 23 October visit; that is the date police state for the welfare call, while the charges and volumes were announced in the 6 November release.
   - Some of the seized edibles could be psilocybin edibles, but police list only psilocybin powder separately, so all 12,962 packages and 26 kilograms of loose edibles are counted as cannabis.
@@ -139,25 +148,28 @@ open_questions:
   - RED FM names two of the accused as Joseph Li and Michelle Li and the third as Yuan Lin, the same spelling it uses for one accused while CityNews gave Yuan Li; the police spelling of the third accused's surname and given name remains unconfirmed.
   - RED FM states that the charges have not yet been proven in court, which confirms only that no trial outcome had been reported when it published.
   - The page's photo is captioned with the story headline and carries no credit, so it cannot be confirmed as a distinct photo of this raid and no media entry is added.
+  - The NewmarketToday page reproduces the York Regional Police media release with no independent reporting, so it does not resolve whether the 26 kilograms of loose edibles are all cannabis.
+  - The page's photo is a York Regional Police supplied composite whose components could not be confirmed as distinct from the police handout photos already linked in the report, so it is listed here without being added to the report.
+  - NewmarketToday gives the same charge list as York Regional Police, but the page does not say which charge was laid against which of the three accused.
 ---
 
 Two men and one woman from Markham were arrested after York Regional Police
 dismantled a clandestine drug lab at a home in the city. [@1,5,8] Officers went to a
 residence in the area of Jeremy Drive and Fred Varley Drive on 23 October 2026
 for a welfare check, and found evidence consistent with the production and
-distribution of controlled substances in a lab setting. [@2,6,7] The lab was
+distribution of controlled substances in a lab setting. [@2,6,7,10] The lab was
 dismantled with help from the Office of the Fire Marshal, Markham Fire and
 Emergency Services and York Region Paramedic Services. [@2,7]
 
 Investigators seized 12,962 packages of cannabis edibles, 209 grams of THC
 vaping cartridges, 26 kilograms of loose cannabis edibles and eight kilograms of
-dried cannabis. [@2,5,6,7,8] They also found 18 kilograms of psilocybin powder, a
+dried cannabis. [@2,5,6,7,8,10] They also found 18 kilograms of psilocybin powder, a
 psychedelic mushroom product rather than cannabis, so its weight is not included
 in the cannabis total. [@2] Ammunition, a conducted energy weapon and about
 C$100,000 in cash were seized at the residence. [@2]
 
 York police put the estimated street value of the drugs seized at approximately
-C$639,000. [@2,6] CityNews reported the same figure as around $640,000 worth of
+C$639,000. [@2,6,10] CityNews reported the same figure as around $640,000 worth of
 illegal substances. [@3]
 
 Investigators learned the drugs produced at the home were sold mainly online
