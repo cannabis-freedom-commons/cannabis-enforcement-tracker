@@ -95,6 +95,7 @@ open_questions:
   - The article gives no separate date for the raids; 7 November 2026 is its publication date and is used as the incident date, as in the existing report.
   - The page photo is captioned only with the headline and has no photographer or agency credit, so whether it shows this seizure is not established and no media entry is added.
   - The page images carry only the headline as a caption and no photographer or agency credit, and they could not be distinguished from the Habertürk page image already listed, so no media entries are added.
+  - Küçük Saat does not say how the two addresses related to each other or how the esrar was divided between them, and it gives no separate date for the raids.
 ---
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses
@@ -108,3 +109,5 @@ said its teams were continuing their work against smuggling and drugs. [@2] The
 agency account reported the haul as 7 kg 108 g of kubar esrar. [@2] The
 operation was carried out at two addresses designated in Seyhan district, and
 two suspects were taken into custody in it. [@3]
+
+Gendarmes raided two addresses identified in Seyhan district in simultaneous operations. [@5]
