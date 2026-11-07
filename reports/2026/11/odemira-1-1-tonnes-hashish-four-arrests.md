@@ -53,6 +53,11 @@ sources:
     publisher: SOL
     date: 2026-11-06
     language: pt
+  - title: Quatro detidos e 1,1 toneladas de haxixe apreendidas em Odemira
+    url: https://rr.pt/noticia/pais/2026/11/06/quatro-detidos-e-11-toneladas-de-haxixe-apreendidas-em-odemira/492421/
+    publisher: Renascença
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
@@ -60,6 +65,7 @@ open_questions:
   - The SOL article carries only the same-day publication date of 6 November 2026; the police action took place over the preceding days and no separate operation date is given.
   - No outcome of the first judicial interrogation or of any coercive measures was reported.
   - The page photo is captioned only with the article headline and its credit is not given, so it is not established to show this seizure.
+  - The Renascença page picture has no caption or credit establishing that it shows this seizure, so it is not listed as media.
 media:
   - kind: photo
     url: https://sol.iol.pt/sociedade/noticias/combate-ao-narcotrafico-embarcacao-suspeita-leva-autoridades-a-apreender-1-1-toneladas-de-haxixe-em-odemira-ha-quatro-detidos/20261106/6aedeffb0cf2aafa0453d885
@@ -69,12 +75,12 @@ media:
 ---
 
 Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
-municipality of Odemira. [@1] They were suspected of trafficking more than a
+municipality of Odemira. [@1,4] They were suspected of trafficking more than a
 tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
 were to be brought before a judge for a first judicial interrogation and
 coercive measures. [@1]
 
-Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3] The
+Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4] The
 operation began after authorities spotted a suspicious high-speed vessel crewed
 by unidentified people whose presence near the Portuguese coast was unjustified.
 [@1] House searches led to the seizure of a car with a false number plate. [@1]
@@ -83,7 +89,7 @@ movements and communications equipment. [@1]
 
 It was a joint operation by the PJ's National Unit to Combat Drug Trafficking
 and the GNR's Coastal and Border Control Unit, named Operation Barcas, against
-international trafficking by sea. [@1] The operation, called Barcas, ran over
+international trafficking by sea. [@1,4] The operation, called Barcas, ran over
 recent days with support from the Navy and the Air Force. [@2] It also had
 support from the Maritime Analysis and Operations Centre – Drugs, an
 international cooperation body against trafficking by sea. [@2]
