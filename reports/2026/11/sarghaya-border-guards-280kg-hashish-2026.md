@@ -113,6 +113,11 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-07
     language: zh
+  - title: Saisie d’une tentative de trafic de drogue en provenance du Liban
+    url: https://sana.sy/fr/syrie/2340033/
+    publisher: Agence Arabe Syrienne de Presse – SANA
+    date: 2026-11-07
+    language: fr
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -144,6 +149,8 @@ open_questions:
   - The page's only picture is captioned as the smuggled drugs seized, with no credit, and cannot be shown to be a distinct photograph from those already listed from SANA, so no media entry is added.
   - The article's last section on dismantling drug networks and on the former regime's role is general context, and its Captagon seizures at Jisr Qamar and Jdeidet Yabous are separate events dealt with in other reports.
   - The UA.NEWS page gives no separate incident date beyond its 7 November 2026 publication time, and attributes the statement to border forces generally, crediting The National and SANA rather than naming the Defence Ministry.
+  - The page is dated 7 November 2026 but attributes the announcement to Friday 6 November 2026, matching the existing report's account that the ministry announced the operation that day.
+  - This French SANA edition reproduces the same Defence Ministry statement as the Arabic SANA page already cited, so it adds no independent confirmation of the official figures.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
@@ -151,14 +158,14 @@ Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
 the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10,11]
 
 The ministry said the smugglers opened fire on the Syrian force during the
-operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12] The gunmen then fled towards
-Lebanese territory, the ministry said. [@2,4,6,7,8,9,11,12] The state news agency SANA reported
+operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12,13] The gunmen then fled towards
+Lebanese territory, the ministry said. [@2,4,6,7,8,9,11,12,13] The state news agency SANA reported
 that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12] The seized items were
-referred to the competent authorities to complete legal procedures. [@1,3,4,11,12]
+confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13] The seized items were
+referred to the competent authorities to complete legal procedures. [@1,3,4,11,12,13]
 
 The Defence Ministry media office announced the operation on Friday 6 November
 2026, and SANA published the statement the same evening. [@2,5]
