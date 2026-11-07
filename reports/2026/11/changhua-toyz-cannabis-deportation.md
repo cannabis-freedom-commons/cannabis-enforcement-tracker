@@ -407,6 +407,11 @@ sources:
     publisher: NOWnews今日新聞
     date: 2026-11-06
     language: zh
+  - title: Toyz出獄返港竟睡不著！深夜突吐「8字真言」粉絲笑瘋神回：無「獄」警發文
+    url: https://www.4gtv.tv/article/2026110602000007
+    publisher: 四季線上4gTV
+    date: 2026-11-06
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -525,6 +530,9 @@ open_questions:
   - The page calls 篠崎泫 Liu's girlfriend (女友) rather than his wife, so her relationship label remains as the existing report states it.
   - The livestream audience figures and the equipment explanation describe post-deportation social activity, not the enforcement operation, so no enforcement figure is changed.
   - The page's captioned image is an Instagram screenshot of the livestream, not the deportation, so no media entry is added.
+  - The page dates the parole approval only to October 2026, while the existing report gives 20 October from other accounts.
+  - The Threads posts, like and comment counts and marriage speculation describe post-deportation social activity, not the enforcement operation, so they are not recorded as enforcement figures.
+  - No new media entry is added because the page's images are Instagram screenshots and a headline repeat without credit establishing that they show the deportation escort.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
@@ -534,7 +542,7 @@ Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
 [@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47,48,49,52,54,62] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
-supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33,36,37,38,42,45,46,47,48,49,50,52,54,55,63,64]
+supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33,36,37,38,42,45,46,47,48,49,50,52,54,55,63,64,71]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
@@ -544,7 +552,7 @@ prosecuted him for selling second-level drugs and the court imposed the combined
 term. [@1,6,33,36]
 
 He completed exit procedures late that morning and boarded a 1:10 p.m. flight to
-Hong Kong. [@2,4,8,14,25,27,37] Immigration said any future application by Liu to reside in
+Hong Kong. [@2,4,8,14,25,27,37,71] Immigration said any future application by Liu to reside in
 Taiwan through a Taiwan-registered spouse would face strict review, and it said
 visitors must obey Taiwan's laws. [@1,8,25,27,29,31,34,38,46,47,49,50,55]
 
