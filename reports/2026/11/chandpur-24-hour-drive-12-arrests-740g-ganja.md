@@ -60,6 +60,11 @@ sources:
     url: https://www.jagonews24.com/en/national/news/97965
     publisher: Jagonews24.com
     date: 2026-11-07
+  - title: চাঁদপুরে একদিনে ৭৪ জন গ্রেপ্তার, আটক ১৯ কিশোর গ্যাং সদস্য
+    url: https://www.dhakapost.com/country/496038
+    publisher: Dhaka Post
+    date: 2026-11-07
+    language: bn
 open_questions:
   - Only one article could be found for this drive; no police statement page or second outlet report could be opened.
   - The statement gives no dates, places or charges for the individual raids beyond the station names, and no court outcome.
@@ -79,32 +84,38 @@ open_questions:
   - The account gives no weight of cannabis and no number of yaba tablets for the 12 drug-case arrests, so it does not support the existing report's 740 grams of ganja and 166 yaba tablets.
   - It does not say when the overnight drives began, so it does not settle whether they ran from Thursday 5 November or Friday 6 November.
   - This English account and a Daily Observer English report carry the same police release; the Jagonews24 live pages and the Observer page returned access errors and only the captured Jagonews24 article could be read.
+  - This account places the 26 yaba pieces at Shahrasti police station, while an earlier account assigned them to Kachua.
+  - Dhaka Post frames the drive as 24 hours but also describes the Awami League arrests over the last 12 hours, and gives no start time for the raids.
+  - No charge sheets, court appearances or outcome were reported for the 12 drug-case arrests beyond the statement that legal proceedings were taken.
+  - The Dhaka Post page picture is a map graphic captioned only with the headline and carrying no credit, so no media entry is added.
 ---
 
 Police in Chandpur district arrested 12 people accused in drug cases during
 separate raids by the district's police stations in the 24 hours to Friday 6
-November 2026. [@1,2,4,5] Officers recovered 740 grams of ganja and 166 pieces of
-yaba, a methamphetamine tablet, from the 12 arrested people. [@1,2]
+November 2026. [@1,2,4,5,6] Officers recovered 740 grams of ganja and 166 pieces of
+yaba, a methamphetamine tablet, from the 12 arrested people. [@1,2,6]
 
 The figures were released in a press statement signed by Nadira Nur, Chandpur's
 additional superintendent of police for administration and finance. [@1,2,4] The
 drives ran on the instruction of Chandpur district police superintendent Md
-Mizanur Rahman. [@1,2,4,5]
+Mizanur Rahman. [@1,2,4,5,6]
 
 Faridganj station arrested two people with 540 grams of ganja and 50 yaba
 pieces, and Matlab Dakshin station arrested four people with 50 grams of ganja
-and 30 yaba pieces. [@1,2,4] Shahrasti station arrested two people with 150 grams of
-ganja, and officers in Haimchar arrested one person with two yaba pieces. [@1,2,4]
+and 30 yaba pieces. [@1,2,4,6] Shahrasti station arrested two people with 150 grams of
+ganja, and officers in Haimchar arrested one person with two yaba pieces. [@1,2,4,6]
 Kachua station arrested one person with 26 yaba pieces, Matlab Uttar station
 arrested two people with seven yaba pieces, and police in Hajiganj recovered 51
-yaba pieces left behind by a suspect who fled. [@1,2,4]
+yaba pieces left behind by a suspect who fled. [@1,2,4,6]
 
 Police said legal proceedings were completed against those arrested in the
-narcotics cases. [@1,2,4] The statement said such drives would continue to keep the
+narcotics cases. [@1,2,4,6] The statement said such drives would continue to keep the
 district secure and curb crime. [@1,2,4] The same 24-hour operation also held
 leaders and activists of the banned Awami League and 19 members of teenage
-gangs. [@1,2,4,5]
+gangs. [@1,2,4,5,6]
 
 The Chandpur police media cell released the figures on Saturday morning from the superintendent's office. [@2,4]
 
-Police in Chandpur district arrested 62 leaders and activists of the Awami League and its affiliated organisations in the last 12 hours, alongside other arrests that brought the total to 74. [@3,4] Six of the Awami League arrests were at Faridganj police station, 31 at Chandpur Sadar Model police station, six at Shahrasti, seven at Hajiganj and 12 at Matlab Uttar. [@3,4,5] The stations' ganja seizures were 540 grams at Faridganj, 50 grams at Matlab Dakshin and 150 grams at Shahrasti, which together make up the 740 grams police reported. [@3] Besides Haimchar (two pieces), Matlab Uttar (seven) and Hajiganj (51), where the suspect fled, Kachua police station recovered 26 yaba pieces. [@3,4] The raids ran on Friday 6 November 2026 in areas under the district's police stations, and the figures were released on the morning of Saturday 7 November by the media cell of the superintendent of police's office. [@3,4]
+Police in Chandpur district arrested 62 leaders and activists of the Awami League and its affiliated organisations in the last 12 hours, alongside other arrests that brought the total to 74. [@3,4] Six of the Awami League arrests were at Faridganj police station, 31 at Chandpur Sadar Model police station, six at Shahrasti, seven at Hajiganj and 12 at Matlab Uttar. [@3,4,5,6] The stations' ganja seizures were 540 grams at Faridganj, 50 grams at Matlab Dakshin and 150 grams at Shahrasti, which together make up the 740 grams police reported. [@3] Besides Haimchar (two pieces), Matlab Uttar (seven) and Hajiganj (51), where the suspect fled, Kachua police station recovered 26 yaba pieces. [@3,4] The raids ran on Friday 6 November 2026 in areas under the district's police stations, and the figures were released on the morning of Saturday 7 November by the media cell of the superintendent of police's office. [@3,4]
+
+The 19 detained teenagers were held at Faridganj (seven), Chandpur Sadar Model (four), Haimchar (four) and Hajiganj (four) police stations. [@6]
