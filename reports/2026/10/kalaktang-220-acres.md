@@ -123,6 +123,9 @@ sources:
     url: https://www.aryanage.com/article/50807/teams-destroy-458-acres-of-illegal-cannabis-cultivation-in-arunachal
     publisher: Aryan Age
     date: 2026-11-07
+  - title: '458 Acres Of Illicit Cannabis Cultivation In Arunachal Destroyed: NCB'
+    url: https://www.etvbharat.com/en/state/458-acres-of-illicit-cannabis-cultivation-in-arunachal-destroyed-says-ncb-enn26110704485
+    publisher: ETV Bharat News
 media:
   - kind: photo
     url: https://www.arunachaltimes.in/article/illicit-cannabis-cultivation-destroyed
@@ -194,9 +197,9 @@ District police, the Narcotics Control Board, the Sashastra Seema Bal, the Centr
 
 About 50 acres at Boha, put at around 15,000 kilograms, were destroyed, then about 170 acres at Angkaling and R Pam, put at about 51,000 kilograms. [@1,2] Together the authorities' figures are about 66,000 kilograms. [@2] Gaon buras, the village headmen, panchayat leaders and residents of Boha and Angkaling assisted. [@1] The reports name no one arrested. [@1,2] Police said the drive against illicit cannabis cultivation would continue. [@1]
 
-The completed first phase covered about 458 acres in Kalaktang subdivision, up from the 220 acres recorded for the drive's first two days. [@3,4,6,9,11,12,13,14,16,17] The operation ran from 26 October to 3 November 2026, more than the two days covered by the earlier account of it. [@3,4,6,7,8,11,12,14,16,17,18] The NCB's Itanagar Zonal Unit led the drive, with 118 personnel and workers joined by the SSB, the CRPF, the Arunachal Pradesh Anti-Narcotics Task Force, West Kameng police and the district administration. [@3,4,10,11,13,14,17,18] Ground surveys by West Kameng police and the district administration, with satellite imagery from the NCB, located the cultivation in rugged terrain. [@3,4,9,11,12,13,14,18] The NCB said the area cleared of cannabis in Arunachal Pradesh in 2026 was more than eight times the area cleared in all of 2025. [@3,4,9,10,11,13,18]
+The completed first phase covered about 458 acres in Kalaktang subdivision, up from the 220 acres recorded for the drive's first two days. [@3,4,6,9,11,12,13,14,16,17,20] The operation ran from 26 October to 3 November 2026, more than the two days covered by the earlier account of it. [@3,4,6,7,8,11,12,14,16,17,18,20] The NCB's Itanagar Zonal Unit led the drive, with 118 personnel and workers joined by the SSB, the CRPF, the Arunachal Pradesh Anti-Narcotics Task Force, West Kameng police and the district administration. [@3,4,10,11,13,14,17,18] Ground surveys by West Kameng police and the district administration, with satellite imagery from the NCB, located the cultivation in rugged terrain. [@3,4,9,11,12,13,14,18] The NCB said the area cleared of cannabis in Arunachal Pradesh in 2026 was more than eight times the area cleared in all of 2025. [@3,4,9,10,11,13,18]
 
-Joint teams destroyed more than 1.37 lakh kg (about 137 tonnes) of cannabis plants, grown mainly on community land, during the first phase of the drive. [@5,6,12,13,14,16,18]
+Joint teams destroyed more than 1.37 lakh kg (about 137 tonnes) of cannabis plants, grown mainly on community land, during the first phase of the drive. [@5,6,12,13,14,16,18,20]
 
 A total of 118 personnel and workers took part in the joint drive. [@8,9,13] The NCB named the additional districts of Lohit, Lower Dibang Valley and Tirap, and both cannabis and opium poppy cultivation, when describing the areas it plans to operate in. [@8]
 
