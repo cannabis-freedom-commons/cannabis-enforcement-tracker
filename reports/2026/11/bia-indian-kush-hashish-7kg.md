@@ -51,6 +51,11 @@ media:
     media_url: https://cdn.hirunews.lk/Data/News_Images/202611/1794024102_5415724_hirunews.jpg
     publisher: Hiru News
     caption: Photo published with Hiru News's account of the arrest, captioned only with the headline about the Indian businessman arrested with kush and hashish; no credit line is given.
+  - kind: photo
+    url: https://srilankamirror.com/2026/11/07/news/indian-businessman-arrested-at-katunayake-with-kush-and-hashish-worth-over-rs-231-million
+    media_url: https://srilankamirror.com/media/variants/2026/11/eee84f05b41d2d88b8246fc6f96cc5f30c773efe19a8194b24e49c90e9201a8a/960.avif
+    publisher: Sri Lanka Mirror
+    caption: Photo published with Sri Lanka Mirror's account of the arrest, captioned only with the headline about the Indian businessman arrested with kush and hashish; no credit line is given.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 479917fe1772a1c27c5cba2452cf74b3
@@ -76,6 +81,10 @@ sources:
     url: https://hirunews.lk/goldfmnews/498898/indian-businessman-arrested-at-katunayake-airport-with-rs-230-million-worth-of-kush-and-hashish
     publisher: Gold FM News
     date: 2026-11-07
+  - title: Indian businessman arrested at Katunayake with Kush and hashish worth over Rs. 231 million
+    url: https://srilankamirror.com/2026/11/07/news/indian-businessman-arrested-at-katunayake-with-kush-and-hashish-worth-over-rs-231-million
+    publisher: Sri Lanka Mirror
+    date: 2026-11-07
 open_questions:
   - No result of the production before the Negombo Magistrate's Court or the terms of any detention order was reported.
   - The suspect is identified only by age, occupation and residence in Tamil Nadu; no name was published.
@@ -85,17 +94,19 @@ open_questions:
   - Hiru News does not identify the customs unit that made the interception or give any court outcome.
   - Hiru News says Customs officers at BIA made the arrest, while the report's other sources attribute it to the Airport Police Narcotics Bureau; the accounts agree on the arrest, weights and handover but differ on which unit stopped the man.
   - Hiru News says the man was trying to smuggle the consignment into the country, while the report's sources describe an attempted outbound smuggling on a flight from Kuala Lumpur; the direction of the journey is unresolved.
+  - Sri Lanka Mirror attributes the interception to the Airport Police Narcotics Bureau, while other outlets cited in the existing report credit Customs officers and describe the drugs as being brought into the country rather than taken out.
+  - No result of the Negombo Magistrate's Court production or the detention order was reported.
 ---
 
 Officers of the Airport Police Narcotics Bureau arrested a foreign passenger at
 Bandaranaike International Airport in the early hours of 7 November 2026 on
-suspicion of trying to smuggle kush and hashish out of Sri Lanka. [@1,3,4] The
+suspicion of trying to smuggle kush and hashish out of Sri Lanka. [@1,3,4,6] The
 suspect is a 37-year-old businessman who lives in Tamil Nadu, India. [@1] He
 arrived at the airport at about 12.00 a.m. that day on Batik Air flight OD-297
-from Kuala Lumpur, Malaysia. [@1]
+from Kuala Lumpur, Malaysia. [@1,6]
 
 A search of his luggage found 2 kilograms and 102 grams of kush hidden inside
-four tins labelled as containing tamarind toffees. [@1,2] Officers also recovered
+four tins labelled as containing tamarind toffees. [@1,2,6] Officers also recovered
 5 kilograms and 260 grams of hashish, processed into the shape of toffees and
 hidden inside six separate parcels. [@1] The officers valued the seized stock at
 about Rs 231.42 million. [@1]
