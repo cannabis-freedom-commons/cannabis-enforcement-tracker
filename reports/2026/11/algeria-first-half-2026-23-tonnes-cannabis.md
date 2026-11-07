@@ -54,6 +54,11 @@ sources:
     publisher: يومية الشعب الجزائرية
     date: 2026-11-07
     language: ar
+  - title: 'قانون المرور 26-09: عقوبات صارمة ضد السياقة تحت المخدرات'
+    url: https://elmaouid.dz/%D8%AD%D8%B1%D8%A8-%D9%87%D9%88%D8%A7%D8%AF%D8%A9-%D9%81%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%B3%D9%85%D9%88%D9%85-%D9%88%D8%AD%D9%88%D8%A7%D8%AF%D8%AB-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1/
+    publisher: الموعد اليومي
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The total covers January to June 2026, but the accounts give no date for any individual seizure behind it; 7 November 2026 is the day the figures were announced and the publication date.
   - The accounts call the material cannabis or treated kif but give no split between resin and herbal cannabis, and no figure in kilograms for treated kif beyond the 23-tonne cannabis total.
@@ -62,11 +67,12 @@ open_questions:
   - Only the Algerian accounts were found; no ONLCDT statement page giving the tally could be opened.
   - The page photo carries only a file-name caption, so it is not listed as media.
   - The article gives no date for the conference beyond saying the minister spoke "yesterday", and it publishes no seizure, arrest or sentence figures of its own; its only numbers are for strategy activities completed.
+  - The page's photo carries only the generic caption about drugs and traffic accidents, so it is not listed as showing this seizure tally.
 ---
 
 Algeria's security services seized more than 23 tonnes of cannabis during the
 first half of 2026, along with more than 36 million pregabalin tablets, 1,000 kg
-of cocaine and a million ecstasy tablets. [@1] The tally covers drug and
+of cocaine and a million ecstasy tablets. [@1,5] The tally covers drug and
 psychotropic seizures made across Algeria between January and June 2026. [@1]
 
 The figures were given by Tarek Kour, director general of the National Office
@@ -74,7 +80,7 @@ for the Fight against Drugs and Drug Addiction (ONLCDT), Algeria's drug policy
 and prevention body, which published the half-year tally. [@1] He spoke at a
 national conference on drugs and road safety held in Beni Messous, Algiers, at
 the National Army Club, organised with the National Gendarmerie command, under
-the slogan "road safety is everyone's responsibility... no to drugs". [@1] Kour
+the slogan "road safety is everyone's responsibility... no to drugs". [@1,5] Kour
 said that tackling the phenomenon requires going beyond the traditional security
 approach and widening prevention, especially against the risks of driving under
 the influence of drugs and psychotropic substances. [@1] Algeria's Minister of
@@ -84,7 +90,7 @@ and the national anti-drug strategy for 2025-2029. [@3,4]
 
 Kour said the seized pregabalin exceeded the total seized in the whole of the
 previous year, and the 1,000 kg of cocaine amounted to more than 75 percent of
-all cocaine recorded last year. [@2] The figures carry no breakdown by wilaya,
+all cocaine recorded last year. [@2,5] The figures carry no breakdown by wilaya,
 seizure or security service, and no suspects, charges or investigations are
 attached to them. [@2]
 
