@@ -138,6 +138,7 @@ open_questions:
   - This preview gives approximately 4.8 tonnes while the existing report keeps 4.7 tonnes from the Navy statement and other outlets.
   - The page is a programme preview with a single sentence on this seizure and gives no sack count, arrests, laboratory confirmation or seizure date beyond the fresh interception framing.
   - Peace FM Online gives the consignment as approximately 4.8 tonnes, while the Navy statement and several other outlets give 4.7 tonnes; the report keeps 4.7 tonnes.
+  - The submitted gallery page carries only the headline and a photo caption; its article text was not available, so the GhanaWeb wording could not be checked against the story body.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
@@ -151,7 +152,7 @@ The Navy estimated the cargo at about 4.7 tonnes and put its street value at
 more than US$1 million. [@1,3,4,9,10] No one was arrested, and the sacks remain
 classified as suspected narcotics pending laboratory testing. [@2,7] Preliminary
 intelligence indicated the consignment was being prepared for export out of
-Ghana. [@2,3,7]
+Ghana. [@2,3,7,8]
 
 The seized substances were handed to NACOC for forensic examination and further
 investigation. [@1,6] Naval Captain Festus Osei Brobbey, Director of Naval
@@ -159,7 +160,7 @@ Operations, said a riverine detachment had been stationed to strengthen security
 on the Volta Lake and in surrounding communities. [@2,3,7,9] Kenneth Kofi Kabu Kanor,
 the Ada East District Chief Executive and chairman of the District Security
 Committee (DISEC), urged residents not to let the Volta Lake become a transit
-route for drugs. [@2,3,7,9]
+route for drugs. [@2,3,7,8,9]
 
 The Navy said the interception was at least the third major abandonment of a
 cannabis boat on the Ada estuary in 2026, after 37 sacks found near Goi on 27
