@@ -58,9 +58,9 @@ open_questions:
   - The source of the cannabis used in the drinks and ice cream is unknown.
   - No weight or value for the seized cannabis and infused products was published.
   - >-
-  - Nukunya published a NACOC-watermarked night-stall photo of the same KTU operation without a separate direct media_url entry here.
     No formal charges had been announced in the opened reports; the suspects were assisting NACOC with
     investigations.
+  - Nukunya published a NACOC-watermarked night-stall photo of the same KTU operation without a separate direct media_url entry here.
   - >-
     Nsem360 describes all ten suspects as students and names a 23-year-old alleged ringleader; enrolment and
     identities were not confirmed in the other opened reports.

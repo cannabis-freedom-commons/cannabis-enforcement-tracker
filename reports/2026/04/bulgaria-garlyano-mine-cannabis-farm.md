@@ -85,10 +85,10 @@ media:
     caption: Underground cannabis cultivation in a former mine near Kyustendil, released 29 April 2026.
 open_questions:
   - >-
-  - Darik News, Flagman and other outlets published further mine-greenhouse photos of the same Garlyano find without separate direct media_url entries here.
     Reuters and the briefing cited in Bulgarian media describe the seized drugs as about 70 kg in total
     without separating how much was cannabis; one charge mentioned 67.34 kg with intent to distribute but that
     detail was not opened in full here.
+  - Darik News, Flagman and other outlets published further mine-greenhouse photos of the same Garlyano find without separate direct media_url entries here.
   - The specialised operation began on 23 April 2026; the 29 April briefing is used as the report date.
   - >-
     The mine owner is not among those charged and has not been publicly identified; the investigation was
