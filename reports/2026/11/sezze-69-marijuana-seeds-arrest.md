@@ -62,6 +62,11 @@ sources:
     publisher: Latina Quotidiano
     date: 2026-11-07
     language: it
+  - title: 'Sezze, marijuana e semi di cannabis in casa: arrestato 69enne'
+    url: https://www.h24notizie.com/2026/11/06/sezze-marijuana-e-semi-di-cannabis-in-casa-arrestato-69enne/
+    publisher: h24 notizie
+    date: 2026-11-06
+    language: it
 open_questions:
   - The reports give the date only as the afternoon of the previous day; 5 November 2026 is calculated from the 6 November publication date.
   - The marijuana weight is given only as approximately 110 grams and the seeds only as almost 1,000, so neither is an exact figure.
@@ -69,16 +74,18 @@ open_questions:
   - Both accounts reproduce the same Carabinieri statement and carry the same handout photo, so they are not independent.
   - No value estimate for the marijuana was published.
   - Latina Quotidiano gives no event date; 5 November 2026 in the existing report is calculated from the earlier outlets' 6 November publication, and this page was published on 7 November.
+  - h24 notizie reproduces the same Carabinieri statement as the outlets already cited and adds no new detail, so it is not independent reporting.
+  - The page gives the stop only as the afternoon of the previous day; 5 November 2026 is calculated from its 6 November publication date.
 ---
 
 Carabinieri from the Sezze station arrested a 69-year-old local man on the spot
 for possessing drugs with intent to deal. [@2] Officers stopped him during an
 ordinary territorial control patrol while he rode a moped that had no number
-plate and while he lacked driving and registration documents. [@1] The further
-check found he was carrying a folding knife of a prohibited type. [@1]
+plate and while he lacked driving and registration documents. [@1,4] The further
+check found he was carrying a folding knife of a prohibited type. [@1,4]
 
 A search of his home turned up about 110 grams of marijuana, kept in a bag and
-in several plastic containers. [@1] Officers also found almost 1,000 seeds of
+in several plastic containers. [@1,4] Officers also found almost 1,000 seeds of
 Indian hemp in the house. [@1] The drug and the knife were seized and are to be
 sent for laboratory analysis on the instructions of the Latina public
 prosecutor's office. [@2] The moped was placed under administrative seizure.
@@ -87,6 +94,6 @@ prosecutor's office. [@2] The moped was placed under administrative seizure.
 He was also reported at liberty for carrying weapons or objects capable of
 causing offence. [@2] He was taken to the security cells of the Latina
 provincial Carabinieri command to await a validation hearing under the
-fast-track procedure, at the disposal of the judiciary. [@1]
+fast-track procedure, at the disposal of the judiciary. [@1,4]
 
 He was already known to the police, the account adds. [@3] The marijuana is to be analysed in a laboratory on the instructions of the Latina public prosecutor's office. [@3]
