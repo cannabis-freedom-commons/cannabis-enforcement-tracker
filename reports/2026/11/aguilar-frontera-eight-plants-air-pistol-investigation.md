@@ -43,6 +43,11 @@ media:
     media_url: https://www.cordobahoy.es/media/cordobahoy/images/2026/11/06/2026110614104768532.jpg
     publisher: Córdoba Hoy
     caption: 'The air pistol seized by the Guardia Civil in Aguilar de la Frontera. Photo: Guardia Civil'
+  - kind: photo
+    url: https://cordopolis.eldiario.es/cordoba-hoy/sucesos/detenido-amenazar-vecino-pistola-aire-compromiso-poseer-ocho-plantas-marihuana_1_13643378.html
+    media_url: https://static.eldiario.es/clip/46e58d18-8aac-42ae-aece-8e3080fc18d1_16-9-discover-aspect-ratio_default_0.jpg
+    publisher: Cordópolis
+    caption: 'The marijuana plants seized by the Guardia Civil in Aguilar de la Frontera. Photo: Guardia Civil'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 738b6d8193ca8affc5c1bc7f8f5fc48a
@@ -58,6 +63,16 @@ sources:
     publisher: Europa Press
     date: 2026-11-06
     language: es
+  - title: Investigado por amenazas con un arma y cultivar marihuana en Aguilar
+    url: https://www.cordobabn.com/provincia/guardia-civil-investiga-persona-delito-amenazas-delito-salud-publica-aguilar-frontera/20261106113731273618.html
+    publisher: Córdoba Buenas Noticias
+    date: 2026-11-06
+    language: es
+  - title: Detenido por amenazar a un vecino con una pistola de aire comprimido y poseer ocho plantas de marihuana
+    url: https://cordopolis.eldiario.es/cordoba-hoy/sucesos/detenido-amenazar-vecino-pistola-aire-compromiso-poseer-ocho-plantas-marihuana_1_13643378.html
+    publisher: Cordópolis
+    date: 2026-11-06
+    language: es
 open_questions:
   - No date is given for the complaint, the search or the seizure; 6 November 2026 is the publication date of both accounts and is used as the incident date.
   - 'No arrest is reported: the man was placed under investigation (investigado) and the file went to the courts, so no charge, court outcome or penalty is recorded.'
@@ -65,23 +80,24 @@ open_questions:
   - The criminal-law description is only the authorities' phrase 'a crime against public health'; no article or specific offence is named.
   - The man's name, age and the exact address were not published.
   - Both articles reproduce the same Guardia Civil statement, and the air pistol photo is a Guardia Civil handout; only that one photo of the event was published.
+  - Cordópolis headlines the story Detenido (detained) but its text, like the other accounts, describes a person investigated (investigado) whose file went to the courts, with no arrest reported.
+  - Córdoba Buenas Noticias carries the same Guardia Civil air pistol photo already linked from Córdoba Hoy, so it is not listed twice.
 ---
 
 The Guardia Civil has placed a man in Aguilar de la Frontera, in Córdoba
 province, under investigation as the suspected author of a crime against public
-health and a crime of threats. [@1] The case began when a neighbour reported at
+health and a crime of threats. [@1,3] The case began when a neighbour reported at
 the Aguilar de la Frontera Guardia Civil post that he had been threatened with a
-short firearm during an incident with another local resident. [@1] Officers
+short firearm during an incident with another local resident. [@1,4] Officers
 identified and located the suspected author at his home, and he admitted holding
 the weapon without the required documentation or authorisation. [@2] He handed
-over an air pistol voluntarily and the Guardia Civil seized it. [@1]
+over an air pistol voluntarily and the Guardia Civil seized it. [@1,3]
 
 While at the property, officers saw signs of a possible drug cultivation inside
 and asked the owner for permission to check, which he gave after confirming he
-had several marijuana plants. [@1] They seized eight cannabis sativa plants
-about 1.60 metres tall, whose buds later weighed 920 grams. [@1]
+had several marijuana plants. [@1,3] They seized eight cannabis sativa plants
+about 1.60 metres tall, whose buds later weighed 920 grams. [@1,3]
 
 The file, the man under investigation and the seized items were handed to the
-competent court. [@1] The Guardia Civil's account was carried by Córdoba Hoy and
+competent court. [@1,4] The Guardia Civil's account was carried by Córdoba Hoy and
 by Europa Press on the same day. [@2]
-
