@@ -90,6 +90,11 @@ sources:
     url: https://inews.ma/news/8776426
     publisher: أخبار المغرب العاجلة
     language: ar
+  - title: متهمون بتهريب مخدرات، السعودية تنفذ حكم الإعدام بحق 5 إثيوبيين
+    url: https://www.vetogate.com/5764864
+    publisher: فيتو
+    date: 2026-11-05
+    language: ar
 open_questions:
   - The names of the five executed men were not published.
   - No quantity of hashish they were convicted of smuggling was published.
@@ -111,11 +116,12 @@ open_questions:
   - The AFP attribution is truncated after استنادا إلى البي.., so the full basis of the 205 tally is not visible in this capture.
   - The page names no executed men, gives no quantity of hashish and no execution site beyond Saudi Arabia.
   - The page identifies its content as from Kech24, whose original Kech24 page is already cited by the existing report.
+  - The page gives no hashish quantity, no names of the five men and no execution site beyond the Asir region.
 ---
 
 Saudi Arabia executed five Ethiopian nationals in the Asir region on 5 November
 2026. [@1,5,7,8,9,10,11,12] The Interior Ministry said the five were convicted of participating
-in smuggling hashish into the kingdom. [@1,2,6,7,8,9,10,11,12] The ministry recorded the penalty as
+in smuggling hashish into the kingdom. [@1,2,6,7,8,9,10,11,12,13] The ministry recorded the penalty as
 a discretionary taazir execution. [@1] The executions were carried out on
 Thursday in Asir in the south of the country. [@1,2,8,9]
 
