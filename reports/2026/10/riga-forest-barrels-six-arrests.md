@@ -104,6 +104,11 @@ sources:
     publisher: BNN
     date: 2026-11-05
     language: lv
+  - title: Narkotiku bizness pat aiz cietuma restēm! Policija atklāj jaunumus par grupējumu, kas mežos slēpis 36 kilogramus narkotiku
+    url: https://kodols.lv/kriminali/narkotiku-bizness-pat-aiz-cietuma-restem-policija-atklaj-jaunumus-par-grupejumu-kas-mezos-slepis-36-205494
+    publisher: Kodols
+    date: 2026-11-06
+    language: lv
 open_questions:
   - No separate weight was published for the marijuana, hashish or THC devices, so the combined figure of about 36 kilograms covering all substances is excluded from cannabis figures.
   - The article gives 14, 21 and 23 October without a year; 2026 is inferred from its 5 November 2026 publication.
@@ -122,15 +127,17 @@ open_questions:
   - The ReTV page gives 14, 21 and 23 October without a year; 2026 is inferred from its 5 November 2026 publication date.
   - BNN and its English edition publish only the combined figure of about 36 kilograms of various narcotics and a count of 34 THC devices, with no separate weight for marijuana or hashish, so no cannabis weight is recorded.
   - BNN gives 14, 21 and 23 October without a year; 2026 is inferred from the 5 November 2026 publication date.
+  - Kodols gives no separate day for the arrest operation, placing it only at the end of October; police dated it 21 October 2026.
+  - Kodols reports the marijuana weight only as almost 16 kilograms, while the State Police figure for marijuana alone is 15.7485 kilograms and does not separately weight the hashish and THC devices.
 ---
 
 Latvia's State Police detained in Riga, Jurmala and the capital's surroundings a
 criminal group of Latvian and Lithuanian citizens who hid tens of kilograms of
 drugs in barrels buried in the forest. [@1,6,7] On 21 October police detained six
 people in a large-scale operation, after three of them tried to flee but failed
-to escape. [@1,2,6,7,9] Two other Latvian members were already imprisoned for other
+to escape. [@1,2,6,7,9,10] Two other Latvian members were already imprisoned for other
 crimes but continued to coordinate the activity using banned means of
-communication. [@1,3,4,6,7,8] Among the six detained were four Lithuanian citizens and two
+communication. [@1,3,4,6,7,8,10] Among the six detained were four Lithuanian citizens and two
 Latvian citizens, born from 1971 to 2003, who police said had no official job in
 Latvia. [@1,2,8] Two detained Lithuanians were wanted in Lithuania at the time, one
 of them internationally wanted for drug trafficking. [@1,3] One detained Latvian
@@ -144,7 +151,7 @@ and one Latvian. [@1,4,6,8,9]
 Police carried out ten searches at suspects' homes, in cars and in a prison, and
 also examined forest areas. [@1,2,4,6,7,8,9] Officers found about 36 kilograms of various
 narcotic and other controlled substances, including amphetamine, marijuana,
-cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4,6,8,9] Officers
+cocaine, hashish, Subutex, Quetiapine Accord, clonazepam and MDMA. [@1,3,4,6,8,9,10] Officers
 also seized 34 devices containing the psychoactive substance THC found in
 cannabis, and found most of the substances in barrels buried in the forest. [@1,9]
 State Police said this was the first discovery in the Riga region of such a
@@ -162,3 +169,5 @@ Police said the crime was uncovered in close cooperation with the Prison Adminis
 Dmitrijs Vorobjovs, deputy head of the State Police Riga regional board's drug-enforcement division, spoke about the case in an audio interview for LSM. [@5]
 
 The first public sign of the case was a video filmed by a young woman and posted on social media in late October, showing sounds resembling gunshots and several police cars, after which police confirmed several arrests in the Riga region without giving details. [@9]
+
+The Kodols television account broke the total down as almost 16 kilograms of marijuana. [@10]
