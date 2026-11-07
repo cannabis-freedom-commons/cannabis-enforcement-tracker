@@ -51,6 +51,11 @@ media:
     media_url: https://citynews-leccotoday.stgy.ovh/~media/original-hi/41011794042421/spaccio-droga-ovuli-orio-al-serio-finanza-6-novembre-20261.jpg
     publisher: LeccoToday
     caption: 'Image of the pellets inside the 29-year-old courier''s body. Photo: Guardia di Finanza'
+  - kind: photo
+    url: https://www.laprovinciaunicatv.it/stories/lecco/lecco-citta/orio-arrestato-lecchese-con-piu-di-duecento-ovuli-di-hashish-nascosti-in-una-pa-o_3988864_11/
+    media_url: https://storage.laprovinciaunicatv.it/media/photologue/2026/11/6/photos/cache/orio-arrestato-lecchese-con-piu-di-duecento-ovuli-di-hashish-nascosti-in-una-pa_6ad5958e-d9d3-11f1-9dae-fee58998ff83_1920_1080_v3_large_libera.png
+    publisher: La Provincia Unica Tv
+    caption: Orio al Serio airport, the setting of the two courier arrests; the page gives no credit for the image.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b5d91f2975235f99df8103fbd8cd21d0
@@ -71,6 +76,11 @@ sources:
     publisher: Leccoonline
     date: 2026-11-06
     language: it
+  - title: Orio, arrestato lecchese con più di duecento ovuli di hashish nascosti in una panciera
+    url: https://www.laprovinciaunicatv.it/stories/lecco/lecco-citta/orio-arrestato-lecchese-con-piu-di-duecento-ovuli-di-hashish-nascosti-in-una-pa-o_3988864_11/
+    publisher: La Provincia Unica Tv
+    date: 2026-11-06
+    language: it
 open_questions:
   - The articles give no date for the airport checks or the arrests; 6 November 2026, when the case was announced, is used as the incident date.
   - No charge, court date or outcome for either man was reported; the authorities said the case is at the preliminary investigation stage.
@@ -79,12 +89,14 @@ open_questions:
   - Il Giorno gives the retail value as almost 25,000 euros and Corriere Bergamo says more than 50,000 euros, while the accounts used here give more than 51,000 euros; the report uses the 51,000-euro figure for illegal-market profits.
   - Only the submitted page and two other outlets reproducing the same Guardia di Finanza statement were found; no court or agency release was opened.
   - The submitted page carries a video player whose direct video address could not be confirmed, so only still photos are listed.
+  - The page carries no date for the checks themselves; 6 November 2026, the publication date, stands in for the incident date.
+  - The page's single image is an airport-themed illustration with no credit and shows no seizure, so it is linked without being treated as evidence of the drugs found.
 ---
 
 A 48-year-old man living in Lecco province returned from a week in Málaga with
 only a small backpack and no suitcase, and Guardia di Finanza officers at Orio
 al Serio airport found a belt worn as a belly band holding 219 hashish pellets.
-[@1] The hashish weighed 2.3 kilograms in total, and the man was arrested by
+[@1,4] The hashish weighed 2.3 kilograms in total, and the man was arrested by
 soldiers of the Orio al Serio company of the Guardia di Finanza, Italy's finance
 police, with staff of the airport detachment of the Agenzia delle Dogane e dei
 Monopoli, the customs agency. [@1] Officials announced the case on Friday 6
@@ -113,4 +125,3 @@ jaw route with different departure and arrival airports intended to evade
 customs risk analysis. [@1] The authorities said the proceedings were at the
 preliminary investigation stage and that the suspects' guilt could be
 established only by a final conviction. [@2]
-
