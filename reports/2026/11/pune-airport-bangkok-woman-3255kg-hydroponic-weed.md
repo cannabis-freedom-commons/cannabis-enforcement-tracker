@@ -71,6 +71,10 @@ sources:
     publisher: Policenama (Instagram)
     date: 2026-11-06
     language: mr
+  - title: Bangkok Passenger Arrested At Pune Airport With Hydroponic Weed Worth ₹1.14 Crore
+    url: https://www.freepressjournal.in/pune/bangkok-passenger-arrested-at-pune-airport-with-hydroponic-weed-worth-114-crore
+    publisher: The Free Press Journal
+    date: 2026-11-06
 open_questions:
   - The woman's name, age and precise home address were not published; only that she is a Mumbai resident.
   - Rs 1.14 crore is Customs' estimated illicit-market value, not an independently confirmed price.
@@ -86,20 +90,24 @@ open_questions:
   - The post gives no name, age or residence for the woman beyond saying she is Indian.
   - The post repeats the arrest and continuing investigation without any court, remand or custody outcome.
   - The post gives the value as an approximate market price without saying how it was estimated.
+  - The article gives no name, age, residence or home city for the woman, and no charge section beyond the NDPS Act.
+  - The article gives no remand or court outcome; it says only that further investigation is under way.
+  - The page's only image is a headline composite titled with the report headline, not identified as a photograph of this seizure, so it is not listed as media.
+  - The Free Press Journal earlier published a separate report on the 10.642 kg seizure of 4 November, which is a different event recorded in its own report.
 ---
 
 Officers of the Air Intelligence Unit and Airport Batch of Pune Customs
 intercepted an Indian woman arriving from Bangkok at Pune International Airport
-on the evening of 5 November 2026. [@1,3,4] She had flown in on Air India Express
+on the evening of 5 November 2026. [@1,3,4,5] She had flown in on Air India Express
 flight IX-291 and was stopped on passenger profiling and suspicious scanning of
 her check-in baggage. [@1,3] The woman, a Mumbai resident, was arrested and
 further investigation was under way. [@2]
 
 Officers searching her check-in trolley bag found specially fabricated false
 cavities behind the inner lining on both sides and recovered two rectangular
-slab-shaped packets wrapped in three layers of vacuum-sealed black plastic. [@1,3,4]
+slab-shaped packets wrapped in three layers of vacuum-sealed black plastic. [@1,3,4,5]
 A Narcotic Drug Field Testing Kit confirmed the substance was marijuana, also
-known as ganja or hydroponic weed. [@1] Customs seized the consignment, weighing
+known as ganja or hydroponic weed. [@1,5] Customs seized the consignment, weighing
 3.255 kilograms, under the NDPS Act, 1985, and estimated its illicit-market
 value at Rs 1.14 crore. [@1,4]
 
@@ -109,4 +117,4 @@ before her arrival in Pune. [@2] Customs said the repeated seizures indicated a
 possible rise in demand for hydroponic weed in Pune and nearby cities, including
 ahead of Diwali. [@2]
 
-The packets held an orange-green dried powder with a strong pungent odour, and a testing machine identified it as high-grade hydroponic cannabis. [@3] Pune Customs is investigating who else took part in the smuggling and whom the cannabis was being brought for. [@3,4]
+The packets held an orange-green dried powder with a strong pungent odour, and a testing machine identified it as high-grade hydroponic cannabis. [@3] Pune Customs is investigating who else took part in the smuggling and whom the cannabis was being brought for. [@3,4,5]
