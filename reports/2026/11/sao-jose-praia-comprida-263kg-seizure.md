@@ -58,6 +58,11 @@ sources:
     publisher: TV Portal Grande Floripa
     date: 2026-11-06
     language: pt
+  - title: Polícia Civil apreende 263 quilos de maconha no bairro Praia Comprida; dois são presos
+    url: https://sjagora.com.br/seguranca/policia-civil-apreende-263-quilos-de-maconha-no-bairro-praia-comprida-dois-sao-presos-196405
+    publisher: SJ Agora
+    date: 2026-11-06
+    language: pt
 open_questions:
   - No names or ages of the two arrested men were published.
   - No street value was given for the marijuana or the hashish.
@@ -75,7 +80,7 @@ Combate às Drogas (DECOD). [@3] After inquiries the officers located the two
 suspects and stopped them, and searches found drugs inside a vehicle and in a
 residence. [@1]
 
-The marijuana seized came to about 263 kilograms, divided into 317 tablets. [@1]
+The marijuana seized came to about 263 kilograms, divided into 317 tablets. [@1,4]
 During a press conference the Civil Police had first reported more than 300
 kilograms, and the figure was revised after the final count and weighing. [@1]
 
@@ -87,6 +92,5 @@ The two men were taken to the DECOD station in São José, where the arrest in
 flagrante was recorded. [@3] The seizure came four days after another Civil
 Police operation in the Potecas neighbourhood of the same municipality, where
 472 kilograms of marijuana were found at a residence and an 18-year-old was
-arrested. [@1] Together the two operations took the Civil Police's marijuana
-seizures in São José in four days to 735 kilograms, police said. [@1]
-
+arrested. [@1,4] Together the two operations took the Civil Police's marijuana
+seizures in São José in four days to 735 kilograms, police said. [@1,4]
