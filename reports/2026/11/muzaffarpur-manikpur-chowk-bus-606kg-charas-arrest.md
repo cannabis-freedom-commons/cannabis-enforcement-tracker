@@ -56,6 +56,11 @@ sources:
     url: https://patnapress.com/dri-busts-nepal-pune-charas-smuggling-attempt-muzaffarpur-6-crore-seizure/
     publisher: Patna Press
     date: 2026-11-06
+  - title: DRI ने पकड़ी 6 करोड़ की चरस तो कैमूर पुलिस ने 35 लाख की हेरोइन, नशे के सौदागरों पर शिकंजा - dri recovered charas worth 6 crore kaimur police seized heroin worth 35 lakh - Navbharat Times
+    url: https://navbharattimes.indiatimes.com/state/bihar/patna/dri-recovered-charas-worth-6-crore-kaimur-police-seized-heroin-worth-35-lakh/articleshow/135638554.cms
+    publisher: Navbharat Times
+    date: 2026-11-07
+    language: hi
 open_questions:
   - Only one article, drawing on a DRI press release, was found for this interception; the DRI's own statement could not be opened.
   - No similar figure of charas was reported separately, so the seized weight is the packet total as stated.
@@ -63,23 +68,26 @@ open_questions:
   - The article does not say how many people were on the bus or whether anyone else was questioned.
   - The arrest location is given only as near Manikpur Chowk in Muzaffarpur; the map point is the Muzaffarpur town centre, not the exact interception spot.
   - The image is captioned as DRI officials displaying seized charas packets but carries no credit line, so it is linked rather than copied.
+  - This source gives no separate date for the Muzaffarpur interception; 7 November 2026 is its publication date, while the event date follows the existing report.
+  - The article's account of 52.58 grams of heroin and Rs 19,48,012 in cash seized from three people in Kudra, Kaimur is a separate non-cannabis enforcement event and is excluded here.
 ---
 
 Officers of the Directorate of Revenue Intelligence in Patna intercepted a bus
 at Manikpur Chowk in Muzaffarpur on 5 November 2026 and arrested one person.
 [@1] A search of one passenger's bag found 12 packets holding 6.060 kg of
 charas, a cannabis resin, which the DRI valued at Rs 6.060 crore in the illicit
-market. [@1]
+market. [@1,2]
 
 The DRI said its team acted on intelligence about a network allegedly smuggling
-high-quality charas from Nepal for delivery in Pune, Maharashtra. [@1] The
+high-quality charas from Nepal for delivery in Pune, Maharashtra. [@1,2] The
 arrested passenger allegedly told investigators the resin came from Nepal and
 was headed to Pune, moving through Hajipur before a train to Maharashtra. [@1]
 The DRI's account, issued on 6 November, said the consignment was meant to
 travel through Hajipur by train on the Supaul-Pune Express. [@1]
 
 The DRI seized the charas and arrested the passenger under the Narcotic Drugs
-and Psychotropic Substances Act, 1985. [@1] The agency said further
+and Psychotropic Substances Act, 1985. [@1,2] The agency said further
 investigation was under way to establish the details of the alleged operation
 and any links to others in the network. [@1]
 
+The bus intercepted near Manikpur Chowk had registration number BR-06PC-8744. [@2]
