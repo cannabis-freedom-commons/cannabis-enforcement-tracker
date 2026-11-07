@@ -65,6 +65,11 @@ sources:
     publisher: Ministarstvo unutrašnjih poslova Republike Srbije
     date: 2026-11-06
     language: sr
+  - title: Пронађена лабораторија за узгој марихуане, ухапшен мушкарац
+    url: https://www.glassrpske.com/cir/hronika/hronika_vijesti/muskarac-uhapsen-zbog-posjedovanja-laboratorije-za-uzgoj-marihuane/660988
+    publisher: Glas Srpske
+    date: 2026-11-06
+    language: sr
 open_questions:
   - Police did not say when the search took place; 6 November 2026 is the date the Interior Ministry published the statement and is used as the incident date.
   - The total of more than 68 kilograms combines more than 57 kilograms of raw cannabis and more than 11 kilograms of dried cannabis, so the combined weight is a minimum.
@@ -75,16 +80,15 @@ open_questions:
 ---
 
 Police in Smederevska Palanka arrested a 64-year-old local man identified only
-as S. S. after searching his house, yard and outbuildings. [@1] The search found
+as S. S. after searching his house, yard and outbuildings. [@1,3] The search found
 a laboratory for growing and drying cannabis and more than 68 kilograms of the
-drug in raw and dried form. [@1] The Interior Ministry said the operation was
-carried out with the Higher Public Prosecutor's Office in Smederevo. [@2]
+drug in raw and dried form. [@1,3] The Interior Ministry said the operation was
+carried out with the Higher Public Prosecutor's Office in Smederevo. [@2,3]
 
 Officers seized more than 57 kilograms of raw cannabis and more than 11
-kilograms of dried cannabis, along with seeds and flowers of the plant. [@2] The
+kilograms of dried cannabis, along with seeds and flowers of the plant. [@2,3] The
 suspect is charged with the criminal offence of unauthorised production and sale
-of narcotic drugs. [@2]
+of narcotic drugs. [@2,3]
 
 He was held for up to 48 hours and was then to be brought, with a criminal
-complaint, before the competent higher public prosecutor in Smederevo. [@1]
-
+complaint, before the competent higher public prosecutor in Smederevo. [@1,3]
