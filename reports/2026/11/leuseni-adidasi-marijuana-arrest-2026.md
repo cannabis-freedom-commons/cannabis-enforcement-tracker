@@ -77,29 +77,44 @@ sources:
     publisher: NewsMaker
     date: 2026-11-07
     language: ro
+  - title: 'На границе в Леушенах мужчина спрятал в кроссовках предположительно марихуану: что ему грозит'
+    url: https://esp.md/ru/sobytiya/2026/11/07/na-granice-v-leushenah-muzhchina-spryatal-v-krossovkah-predpolozhitelno
+    publisher: СП - Новости Бельцы Молдова
+    date: 2026-11-07
+    language: ru
+  - title: Substanță vegetală suspectă, depistată la punctul de trecere a frontierei Leușeni
+    url: https://www.border.gov.md/index.php/substanta-vegetala-suspecta-depistata-la-punctul-de-trecere-frontierei-leuseni
+    publisher: Poliția de Frontieră a Republicii Moldova
+    date: 2026-11-07
+    language: ro
 open_questions:
   - No weight was published for the plant substance, so no cannabis quantity can be recorded.
   - The substance is described as suspected marijuana; its chemical composition was to be established by expert examination, and the accounts give no laboratory result.
   - The accounts do not say whether the man faced any charge or was freed after the substance was seized; the case was still under investigation.
   - Substanță vegetală suspectă, depistată la punctul de trecere a frontierei Leușeni (Poliția de Frontieră a Republicii Moldova) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+  - The substance's weight was not published, so no cannabis quantity is recorded.
+  - No laboratory result confirming the substance as marijuana has been reported.
+  - The Russian-language article sets out penalties that could apply - fines of 10,000 to 15,000 lei under the contravention code, 20,000 to 35,000 lei, up to 150 hours of community work or up to a year's imprisonment for larger amounts, and 8 to 10 years for drug smuggling under article 248 - but no charge against the man was reported.
 ---
 
 Border police at the Leușeni crossing point stopped a minibus heading from
-Moldova to Germany for exit clearance on 5 November 2026. [@2] On a risk
+Moldova to Germany for exit clearance on 5 November 2026. [@2,6] On a risk
 analysis they searched one passenger, a 41-year-old Moldovan citizen, more
 thoroughly. [@2] The search found two polythene bags holding a greenish plant
 substance with a distinct smell, suspected to be marijuana, inside the trainers
-the man was wearing. [@1,4]
+the man was wearing. [@1,4,6]
 
 Asked where it came from, the man said the substance was his and that he kept it
-for his own use. [@1,4] Officers seized the substance and sent it for expert
-examination to establish its chemical composition. [@1] The case is still under
+for his own use. [@1,4,6] Officers seized the substance and sent it for expert
+examination to establish its chemical composition. [@1,6] The case is still under
 investigation to establish all the circumstances. [@1]
 
 The Border Police said its officers worked with Frontex officers and customs
-officials on the check. [@2] PRO TV reported the man was trying to leave Moldova
+officials on the check. [@2,7] PRO TV reported the man was trying to leave Moldova
 with the two bags of suspected marijuana. [@3] The Border Police renewed its
 commitment to fighting cross-border crime and asked citizens to help maintain
 the state's security. [@2]
 
 NewsMaker reported that the account came in a statement by the Customs Service, which said customs officers, border police and Frontex officers decided on the extra check from a risk analysis. [@5]
+
+The Border Police did not say under which offence the case is being investigated. [@6]
