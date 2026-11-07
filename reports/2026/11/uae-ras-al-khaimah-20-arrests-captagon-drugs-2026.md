@@ -81,6 +81,11 @@ sources:
     publisher: مصراوي.كوم
     date: 2026-11-06
     language: ar
+  - title: بمشاركة عراقية.. الإمارات تطيح بشبكة مخدرات دولية وتعتقل 20 متهماً
+    url: https://shafaq.com/ar/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D8%A7%D9%84-%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B7%D9%8A%D8%AD-%D8%A8%D8%B4%D8%A8%D9%83%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D8%AA%D9%82%D9%84-20-%D9%85%D8%AA%D9%87%D9%85%D8%A7
+    publisher: شفق نيوز
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight is published for the marijuana or hashish, so no cannabis quantity can be recorded; the more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
   - No figure is published for how the Captagon pills, other drugs or cannabis are split by weight.
@@ -102,7 +107,7 @@ open_questions:
 ---
 
 Twenty defendants of Gulf, Arab, African and Asian nationalities face
-allegations of belonging to an international criminal network. [@2,5,7,9] The network
+allegations of belonging to an international criminal network. [@2,5,7,9,10] The network
 was allegedly trying to bring in 200,000 Captagon pills and more than 30
 kilograms of drugs through a border area of the emirate of Ras Al Khaimah for
 distribution inside the country. [@2,4,6,9]
