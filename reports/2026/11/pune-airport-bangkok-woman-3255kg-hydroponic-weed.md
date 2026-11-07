@@ -100,6 +100,8 @@ open_questions:
   - The page's only image is a headline composite titled with the report headline, not identified as a photograph of this seizure, so it is not listed as media.
   - The Free Press Journal earlier published a separate report on the 10.642 kg seizure of 4 November, which is a different event recorded in its own report.
   - The Divya Marathi page is paywalled at the app-promotion point; only the first paragraph and the headline could be read, which limits what it can corroborate beyond the weight, value and concealment.
+  - Pune Pulse, like the original page, gives no name, age, home address or flight details beyond IX-291 for the woman.
+  - 'Left out, as its quotation was not found in PUNE PULSE: Sources said she had travelled to Bangkok four days before her arrival in Pune.'
 ---
 
 Officers of the Air Intelligence Unit and Airport Batch of Pune Customs
@@ -107,7 +109,7 @@ intercepted an Indian woman arriving from Bangkok at Pune International Airport
 on the evening of 5 November 2026. [@1,3,4,5,6] She had flown in on Air India Express
 flight IX-291 and was stopped on passenger profiling and suspicious scanning of
 her check-in baggage. [@1,3] The woman, a Mumbai resident, was arrested and
-further investigation was under way. [@2]
+further investigation was under way. [@1,2]
 
 Officers searching her check-in trolley bag found specially fabricated false
 cavities behind the inner lining on both sides and recovered two rectangular
