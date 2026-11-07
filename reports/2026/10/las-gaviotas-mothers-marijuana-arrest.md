@@ -25,6 +25,11 @@ media:
     media_url: https://cdn.jwplayer.com/videos/sdH94wC8-o549A0fu.mp4
     publisher: Infobae
     caption: 'PNC officers transfer the two handcuffed women after the Las Gaviotas arrest. Video: Infobae'
+  - kind: photo
+    url: https://www.prensalibre.com/guatemala/justicia/capturan-a-dos-mujeres-que-intentaban-ingresar-droga-para-sus-hijos-menores-en-las-gaviotas-breaking/
+    media_url: https://www.prensalibre.com/wp-content/uploads/2026/10/846727826_1572073304960766_4045602501398428753_n.jpg
+    publisher: Prensa Libre
+    caption: 'PNC officers transferring the two women who tried to bring marijuana into the Las Gaviotas correctional centre in zone 13. Photo: PNC'
 details:
   activity: [possession]
   agency_types: [police]
@@ -62,6 +67,11 @@ sources:
     publisher: La Hora
     date: 2026-10-21
     language: es
+  - title: Capturan a dos mujeres que intentaban ingresar droga para sus hijos menores en Las Gaviotas
+    url: https://www.prensalibre.com/guatemala/justicia/capturan-a-dos-mujeres-que-intentaban-ingresar-droga-para-sus-hijos-menores-en-las-gaviotas-breaking/
+    publisher: Prensa Libre
+    date: 2026-10-11
+    language: es
 open_questions:
   - No weight for the 15 envoltorios was published, so no kilograms can be recorded.
   - The exact date of the duty court's bind-over order was not reported; 21 October 2026 is the La Hora publication date, while 11 October 2026 is the arrest date.
@@ -71,24 +81,23 @@ open_questions:
 
 Police detained two mothers as they tried to bring marijuana concealed in
 personal accessories into the Centro Especializado de Reinserción Juvenil Las
-Gaviotas. [@1] Police identified the detainees as 32-year-old Zulmy Judith
+Gaviotas. [@1,4] Police identified the detainees as 32-year-old Zulmy Judith
 Méndez Díaz and 31-year-old Sandra Patricia Barillas del Cid, who intended to
 pass the substance to their detained sons. [@1] The arrests occurred on Sunday
-11 October 2026 at the youth centre in Zone 13 of Guatemala City. [@3] The sons
-are 13 and 16 years old and are serving four-year prison terms for murder. [@1]
+11 October 2026 at the youth centre in Zone 13 of Guatemala City. [@3,4] The sons
+are 13 and 16 years old and are serving four-year prison terms for murder. [@1,4]
 Official security reports describe both minors as members of the Mara
-Salvatrucha gang. [@1] When questioned, the women said the drug would help their
-sons cope with confinement. [@1]
+Salvatrucha gang. [@1,4] When questioned, the women said the drug would help their
+sons cope with confinement. [@1,4]
 
 Secretaría de Bienestar Social staff found the substance during routine checks
 at the visitors’ entrance to the centre in Zone 13 of Guatemala City. [@1]
 Monitors found 12 packets with suspected marijuana hidden in a neck pillow and
-three more hidden in a hair tie. [@2] Centre authorities then coordinated with
+three more hidden in a hair tie. [@2,4] Centre authorities then coordinated with
 officers from PNC comisaría 13 to place both women at the disposal of the
-courts. [@1]
+courts. [@1,4]
 
 A duty court later bound both women over for trial, with one to answer for
 promotion or incitement to drug addiction and the other for possession for
 consumption. [@3] Both women were ordered into pretrial detention while the
 investigation continues. [@3]
-
