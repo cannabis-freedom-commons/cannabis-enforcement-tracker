@@ -50,6 +50,11 @@ sources:
     publisher: IJmond360
     date: 2026-11-06
     language: nl
+  - title: Drugs, illegale sigaretten en vapes gevonden in woning in Beverwijk
+    url: https://www.kennemerdagblad.nl/112-kennemerland/drugs-illegale-sigaretten-en-vapes-gevonden-in-woning-in-beverwijk
+    publisher: Kennemerdagblad.nl
+    date: 2026-11-06
+    language: nl
 open_questions:
   - No weight or amount of the soft drugs was published, so no cannabis quantity or value can be recorded.
   - The number of packets of illegal cigarettes and of vapes is stated, but no weight or value for either was published.
@@ -59,13 +64,15 @@ open_questions:
   - The 238 cigarette packets were seized by customs and the 150 vapes by the NVWA, not by police, though the search was a police operation.
   - IJmond360 quotes anonymous neighbours saying they had seen dealing from the home; this is not a police statement.
   - The only photo listed is the police handout of the seized drugs; the NH Nieuws copy of it shows cigarette packets, and the other two pages show cigarette and vape handouts.
+  - The account gives no weight or product breakdown for the soft drugs, so no cannabis quantity is recorded.
+  - The man is not named and no charges were reported; his role was still under investigation.
 ---
 
 Police searched a home on the Grensstraat in Beverwijk on Wednesday 21 October
-2026 and found drugs, vapes, cigarettes and 865 euros in cash. [@1] The
+2026 and found drugs, vapes, cigarettes and 865 euros in cash. [@1,5] The
 combination of the goods and the money led police to suspect that dealing was
-being done from the home. [@1] The search followed several reports to Meld
-Misdaad Anoniem, the Dutch anonymous crime-reporting line. [@1]
+being done from the home. [@1,5] The search followed several reports to Meld
+Misdaad Anoniem, the Dutch anonymous crime-reporting line. [@1,5]
 
 Police seized soft drugs and hard drugs from the home. [@1] Customs officers
 seized 238 packets of illegal cigarettes of various brands. [@1] The Dutch Food
@@ -74,7 +81,7 @@ flavoured-vape ban, seized 150 vapes in various flavours, which are banned in
 the Netherlands. [@1]
 
 Police arrested a 34-year-old man from Beverwijk; he was released after
-questioning but remains a suspect and his role is under investigation. [@1] The
+questioning but remains a suspect and his role is under investigation. [@1,5] The
 municipal council took administrative measures, temporarily closing the home.
 [@2]
 
@@ -85,4 +92,3 @@ home. [@3] The municipality said the measure should end possible drug dealing
 and improve quiet and safety in the neighbourhood. [@3] IJmond360 reported that
 a neighbour said he had seen the residents deal drugs, and that the home stands
 at the start of the Grensstraat. [@4]
-
