@@ -56,14 +56,12 @@ sources:
     date: 2026-07-02
 media:
   - kind: photo
-    url: https://www.polskieradio.pl/395/7784/Artykul/3704714,poland-seizes-12-tonnes-of-marijuana-from-thailand-officials
-    publisher: Polish Radio
-    caption: Interior Minister Marcin Kierwiński at the Warsaw press conference on the seizure
-  - kind: photo
     url: https://tvpworld.com/94144045/polish-german-services-seize-12m-cannabis-shipment
-    archived: https://web.archive.org/web/20260713062018/https://tvpworld.com/94144045/polish-german-services-seize-12m-cannabis-shipment
+    media_url: https://s14.tvp.pl/images2/4/b/f/uid_4bf9306eb8f549718ebd2798f0d51240_width_1280_play_0_pos_0_gs_0_height_720.png
     publisher: TVP World
-    caption: Cannabis and laterite bricks seized in the operation
+    caption: "Wrapped cannabis bundles and laterite bricks from the Thailand shipment (TVP World)."
+open_questions:
+  - Polish Radio published a Ministry of Interior press-conference photograph of the announcement without a separate cannabis-evidence media_url entry here.
 ---
 
 Polish border guards seized 1,194 kg of cannabis hidden in shipments of laterite bricks sent from

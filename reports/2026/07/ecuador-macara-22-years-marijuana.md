@@ -54,14 +54,12 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://www.fiscalia.gob.ec/condenado-por-transportar-casi-13-toneladas-de-marihuana-en-un-camion/
-    publisher: Fiscalía General del Estado
-    caption: The marijuana blocks found inside the metal beams
-  - kind: photo
     url: https://cronica.com.ec/2026/07/21/condenado-a-22-anos-de-prision-por-transportar-casi-13-toneladas-de-marihuana/
-    archived: https://web.archive.org/web/20260730130710/https://cronica.com.ec/2026/07/21/condenado-a-22-anos-de-prision-por-transportar-casi-13-toneladas-de-marihuana/
+    media_url: https://i0.wp.com/cronica.com.ec/wp-content/uploads/2026/07/marihuana.png?fit=800%2C400&ssl=1
     publisher: Diario Crónica
-    caption: Evidence photographed after the truck was stopped in Macará
+    caption: "Marijuana bricks stacked after the Macará truck stop (Diario Crónica)."
+open_questions:
+  - Fiscalía General published a separate photograph of marijuana blocks inside metal beams that did not yield a recoverable direct media_url here.
 ---
 
 A court in Macará, Loja province, sentenced Eduardo V. to 22 years in prison for large-scale drug

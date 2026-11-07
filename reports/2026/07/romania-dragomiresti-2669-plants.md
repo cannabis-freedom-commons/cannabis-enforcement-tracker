@@ -57,9 +57,9 @@ sources:
 media:
   - kind: photo
     url: https://agerpres.ro/justitie/2026/07/03/neamt-solar-de-mari-dimensiuni-in-care-erau-2-669-de-plante-de-canabis-descoperit-la-dragomiresti-2---1572787
-    archived: https://web.archive.org/web/20260827145011/https://agerpres.ro/justitie/2026/07/03/neamt-solar-de-mari-dimensiuni-in-care-erau-2-669-de-plante-de-canabis-descoperit-la-dragomiresti-2---1572787
+    media_url: https://agerpres.ro/data/202607/20260703103159_994140.jpg
     publisher: AGERPRES (Neamț County Police)
-    caption: The greenhouse raid in Dragomirești.
+    caption: "Cannabis plants inside the Dragomirești greenhouse in a police photograph released with the case (Politia Romana / DIICOT via AGERPRES)."
 ---
 
 Organized-crime police in Neamț County and prosecutors of the Directorate for Investigating

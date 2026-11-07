@@ -56,9 +56,10 @@ sources:
     language: de
 media:
   - kind: photo
-    url: https://cdn.moz.de/2026/08/20/1db60d45-c64c-489f-bab7-a7d36c33fb5c.jpg?width=1200&crop=3264%2C1836%2C0%2C306&format=webp
+    url: https://www.moz.de/lokales/bernau/drogen-schmuggel-in-werneuchen-sauna-haendler-muss-fuer-viele-jahre-ins-gefaengnis-79399993.html
+    media_url: https://cdn.moz.de/2026/08/20/1db60d45-c64c-489f-bab7-a7d36c33fb5c.jpg?width=1200&crop=3264%2C1836%2C0%2C306&format=webp&token=55cfda27e04ef1f03672c60c35d4df0437c716f9d6d34f933918d6094e9cc9d3
     publisher: Märkische Oderzeitung
-    caption: Defendants, lawyers and judges standing in the Moabit courtroom as the sentences are given.
+    caption: "Defendants, lawyers and judges standing in the Moabit courtroom as the sentences are given (Märkische Oderzeitung)."
 ---
 
 On 20 August 2026 the 17th criminal chamber of the Berlin Regional Court
