@@ -57,6 +57,11 @@ sources:
     publisher: JATV
     date: 2026-11-06
     language: bn
+  - title: সীমান্তে ৫৯ বিজিবির পৃথক অভিযানে ৩৭০ বোতল ইস্কাফ সিরাপ হেরোইন ও গাঁজা উদ্ধার
+    url: https://durnititalashnewstv.com/archives/3734
+    publisher: Durniti Talash News Tv
+    date: 2026-11-06
+    language: bn
 open_questions:
   - No figure was published for the value of the 600 grams of ganja.
   - Neither report says whether a case was filed or which police station or court received the drugs; BGB said only that legal procedures were under way.
@@ -71,7 +76,7 @@ beside Namochakpara Government Primary School in Shahbajpur Union of Shibganj
 upazila, Chapainawabganj. [@1]
 
 The patrol was from the Chakpara border outpost of the Mahananda Battalion, the
-59th BGB battalion. [@1] Officers carried out the search at about 8 pm on the
+59th BGB battalion. [@1,3] Officers carried out the search at about 8 pm on the
 night of 5 November 2026, roughly 300 yards inside Bangladesh from border pillar
 183/4-S. [@1] The same patrol found 100 grams of heroin with the ganja, a second
 substance that is not counted in the cannabis quantity here. [@1] Nobody was
@@ -82,6 +87,7 @@ bottles of Eskuf, a narcotic cough syrup, from beside a house in Kamalpur
 village, also unclaimed. [@1] Lt Col Kazi Al-Amin Apu, commander of the 59th BGB
 Battalion, confirmed both raids to reporters and said the force follows a
 zero-tolerance drug policy. [@1] BGB said legal procedures for the seized items
-were still under way. [@1] The battalion commander gave the figures in a press
+were still under way. [@1,3] The battalion commander gave the figures in a press
 statement sent to the media at midday on 6 November. [@2]
 
+The Sonamasjid border outpost patrol that found the syrup was led by Subedar Tushar Kanti Biswas and acted on a tip inside Kamalpur village of Shahbajpur Union, beside a house, about 1 km inside Bangladesh from border main pillar 188. [@3]
