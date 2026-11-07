@@ -89,6 +89,11 @@ sources:
     publisher: المشهد
     date: 2026-11-02
     language: ar
+  - title: القبض على متزعم شبكة تهريب مخدرات وضبط 120 ألف حبة كبتاغون و9 كيلوغرامات حشيش - صحيفة العروبة
+    url: https://ouruba.alwehda.gov.sy/?p=156440
+    publisher: صحيفة العروبة
+    date: 2026-11-07
+    language: ar
 open_questions:
   - >-
     The tally covers the whole of October 2026 and was announced on 1 November 2026; 31 October is used as the
@@ -139,6 +144,7 @@ open_questions:
   - >-
     The page photo shows the Jordanian pills seizure credited to the Public Security Directorate's Facebook
     page, not the Syrian hashish, so no media entry is included.
+  - This source gives only the Captagon part of the national October tally and no hashish weight, so the 582 kg total is unchanged.
 also:
   - raid
 ---
@@ -149,7 +155,7 @@ Syria's Interior Ministry anti-narcotics directorate announced that it carried
 out security operations and dismantled smuggling networks during October 2026 as
 part of efforts to limit drug trafficking and promotion. [@9] It said officers
 conducted 157 security operations and dismantled 30 domestic drug-trafficking
-networks in that month. [@9,10]
+networks in that month. [@9,10,11]
 
 It said those October operations seized 582 kilograms of hashish, the cannabis
 resin tracked here. [@9,10] It summarized that cannabis result as more than half a
