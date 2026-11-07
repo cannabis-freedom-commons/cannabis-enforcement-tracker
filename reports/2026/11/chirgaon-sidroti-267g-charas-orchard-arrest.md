@@ -58,6 +58,11 @@ sources:
     publisher: Hindusthan Samachar
     date: 2026-11-07
     language: hi
+  - title: 'Rampur Bushahar News: बगीचे में संदूक से 267 ग्राम चरस बरामद, चौकीदार गिरफ्तार'
+    url: https://www.amarujala.com/himachal-pradesh/rampur-bushahar/accused-arrested-with-charas-rampur-hp-news-c-178-1-ssml1035-174397-2026-11-07
+    publisher: Amar Ujala
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives no separate date for the raid; 7 November 2026 is its publication date and is used as the incident date.
   - The weight is reported as approximate (about 267 grams), not an exact measured figure.
@@ -66,22 +71,25 @@ open_questions:
   - The page photo is captioned as a symbolic crime image and is not established to show this seizure, so no media entry is included.
   - Vocal TV and Apple News say police issued the information on Saturday, and both give 5 November 2026 as the arrest date, while the report's existing incident date is the 7 November publication date.
   - The two new outlets say the search was made on a tip-off and describe the recovery as 267 grams of charas, while the existing report records the weight as approximate.
+  - This Amar Ujala page is a second, Rampur Bushahar edition of the same police account and states the arrest date as 5 November 2026, while the report's incident date is the 7 November publication date.
 ---
 
 Chirgaon police arrested a 30-year-old man of Nepali origin who worked as a
-caretaker in an orchard. [@1,4] The man was identified as Arjun (30), a resident
+caretaker in an orchard. [@1,4,5] The man was identified as Arjun (30), a resident
 of Rolpa, Nepal, who was employed as the caretaker of that orchard. [@1,2]
 
 The search and seizure took place at a shelter in an orchard at Sidroti near
 Jakhi in Shimla district, Himachal Pradesh, during a campaign against the
 illegal drug trade. [@1,2] Police said they had received a tip-off that narcotics
-were being kept in the orchard shelter at Sidroti. [@1,2] Acting on that
+were being kept in the orchard shelter at Sidroti. [@1,2,5] Acting on that
 information, a police team reached the spot and searched the shelter. [@1] In
 the presence of independent witnesses, officers recovered about 267 grams of
-charas from a box inside the shelter. [@1,2]
+charas from a box inside the shelter. [@1,2,5]
 
 Police registered a case against the accused under Section 20 of the NDPS Act at
-Chirgaon police station. [@1,2] The accused was to be produced in court, and
-police were continuing their investigation of the case. [@1]
+Chirgaon police station. [@1,2,5] The accused was to be produced in court, and
+police were continuing their investigation of the case. [@1,5]
 
-Police arrested him on 5 November 2026. [@2] The case was registered at Chirgaon police station as FIR number 116/2026 dated 5 November 2026. [@3]
+Police arrested him on 5 November 2026. [@2,5] The case was registered at Chirgaon police station as FIR number 116/2026 dated 5 November 2026. [@3]
+
+The search was made at Sidroti near Jakhi in the Chirgaon area of Shimla district during a campaign against the illegal drug trade. [@5]
