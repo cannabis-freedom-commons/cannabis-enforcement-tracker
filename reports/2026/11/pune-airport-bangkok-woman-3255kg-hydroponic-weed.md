@@ -104,6 +104,11 @@ sources:
     publisher: Lokshahi Marathi News
     date: 2026-11-07
     language: mr
+  - title: ट्रॉली बॅगच्या खास कप्प्यात गांजा लपवला, तरीही अधिकाऱ्यांनी शोधून काढला, पुणे विमानतळावर मोठी कारवाई, तब्बल 1 कोटी 14 लाख रुपयांचा गांजा जप्त
+    url: https://marathi.abplive.com/news/pune/pune-ganja-news-major-operation-at-pune-airport-ganja-cannabis-worth-rs-1-14-crore-seized-in-pune-1444778
+    publisher: ABP Majha
+    date: 2026-11-07
+    language: mr
 open_questions:
   - The woman's name, age and precise home address were not published; only that she is a Mumbai resident.
   - Rs 1.14 crore is Customs' estimated illicit-market value, not an independently confirmed price.
@@ -144,18 +149,18 @@ open_questions:
 
 Officers of the Air Intelligence Unit and Airport Batch of Pune Customs
 intercepted an Indian woman arriving from Bangkok at Pune International Airport
-on the evening of 5 November 2026. [@1,3,4,5,6,7,8,9,10] She had flown in on Air India Express
+on the evening of 5 November 2026. [@1,3,4,5,6,7,8,9,10,11] She had flown in on Air India Express
 flight IX-291 and was stopped on passenger profiling and suspicious scanning of
-her check-in baggage. [@1,3,8,10] The woman, a Mumbai resident, was arrested and
+her check-in baggage. [@1,3,8,10,11] The woman, a Mumbai resident, was arrested and
 further investigation was under way. [@1,2,8]
 
 Officers searching her check-in trolley bag found specially fabricated false
 cavities behind the inner lining on both sides and recovered two rectangular
-slab-shaped packets wrapped in three layers of vacuum-sealed black plastic. [@1,3,4,5,7,8,10]
+slab-shaped packets wrapped in three layers of vacuum-sealed black plastic. [@1,3,4,5,7,8,10,11]
 A Narcotic Drug Field Testing Kit confirmed the substance was marijuana, also
 known as ganja or hydroponic weed. [@1,5,10] Customs seized the consignment, weighing
 3.255 kilograms, under the NDPS Act, 1985, and estimated its illicit-market
-value at Rs 1.14 crore. [@1,4,7,8,9,10]
+value at Rs 1.14 crore. [@1,4,7,8,9,10,11]
 
 An official said it appeared she had been handed the bag containing the
 contraband by smugglers, and sources said she had travelled to Bangkok four days
