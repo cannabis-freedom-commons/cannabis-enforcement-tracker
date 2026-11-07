@@ -53,6 +53,11 @@ media:
     media_url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/UIAP%203.jpg?itok=HVoiCoIC
     publisher: Ministerio del Interior
     caption: 'Another of the ministry''s gallery photos of what was seized at Unit 4 of the INR. Photo: Ministerio del Interior'
+  - kind: photo
+    url: https://ladiaria.com.uy/justicia/articulo/2026/8/se-incautaron-17-kilos-de-droga-en-el-ex-comcar/
+    media_url: https://ladiaria.com.uy/media/photologue/photos/cache/RS233634_20240809MQ_1229-lpr_1200w.webp
+    publisher: la diaria
+    caption: 'Archive photo of the former Comcar prison from August 2024, used to illustrate the Unit 4 seizure. Photo: Mara Quintero'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: af74f7e256bbfea9530f69df3875523b
@@ -83,6 +88,11 @@ sources:
     publisher: Nación UY
     date: 2026-10-07
     language: es
+  - title: Se incautaron 17 kilos de droga en el ex Comcar
+    url: https://ladiaria.com.uy/justicia/articulo/2026/8/se-incautaron-17-kilos-de-droga-en-el-ex-comcar/
+    publisher: la diaria
+    date: 2026-08-24
+    language: es
 open_questions:
   - The ministry announced the operation on 24 August 2026; the seizure itself is placed on the afternoon of Sunday 23 August 2026 by la diaria.
   - The Ministry of the Interior called the 2.320 kilos only a 'vegetable substance'; la diaria and later reporting describe it as marijuana, and that description is used.
@@ -95,7 +105,7 @@ open_questions:
 
 Investigators from the National Police's prison intelligence and analysis unit,
 the UIAP, suspect that drugs and other goods were being brought in for prisoners
-at Unit 4 of Uruguay's national rehabilitation institute, the INR. [@1] After
+at Unit 4 of Uruguay's national rehabilitation institute, the INR. [@1,6] After
 several months of investigation, UIAP officers carried out a search of the
 grounds and found the goods near one of the prison's modules. [@1]
 
@@ -106,7 +116,7 @@ near module 6, in a common area the investigators believe was used to store
 drugs for distribution to different parts of the prison. [@2] Local outlet
 NoticiasC21 reported that the operation took place in a module of Unit 4, the
 former Comcar. [@3] Police seized 2.320 kilos of marijuana, which the Ministry
-of the Interior described only as a vegetable substance. [@1] The operation also
+of the Interior described only as a vegetable substance. [@1,6] The operation also
 took 14.894 kilos of a yellowish substance and 353 grams of a white substance,
 substances identified in later reporting as cocaine paste and cocaine. [@2]
 Alongside the drugs, officers seized 38 mobile phones, 10 TV Box devices and 13
@@ -131,4 +141,3 @@ Unit 4, the former Comcar, and the haul as more than 17 kilos of drugs. [@4]
 Some two months later, on 7 October, the UIAP seized the phones of two soldiers
 from the prison's perimeter guard during six raids in Montevideo and Artigas.
 [@5]
-
