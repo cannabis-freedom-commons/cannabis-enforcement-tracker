@@ -36,6 +36,7 @@ tags: [islamabad, customs, charas, m2, trafficking]
 media:
   - kind: photo
     url: https://www.pakistantoday.com.pk/2026/10/02/rs541b-narcotics-haul-1200kg-charas-seized-off-m-2
+    media_url: https://www.pakistantoday.com.pk/uploads/Narcotics-1790967584038-x3052u.jpg
     publisher: Pakistan Today
     caption: "The seized Prado and sacks of charas from its boot (Pakistan Today)."
 open_questions:

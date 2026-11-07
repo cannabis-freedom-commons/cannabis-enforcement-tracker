@@ -66,9 +66,10 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/10/01/6abe2417e96b4.r_d.952-917-9375.jpeg
+    url: https://www.primicias.ec/sucesos/ecuador-incautan-toneladas-marihuana-carchi-133850/
+    media_url: https://imagenes.primicias.ec/files/og_thumbnail/files/fp/uploads/2026/10/01/6abe2417e96b4.r_d.952-917-9375.jpeg
     publisher: Primicias
-    caption: A wrapped rectangular package labelled Colombia Gold, lying on a sack. Primicias says it is one of the packages seized on 30 September 2026 at Santa Martha de Cuba and credits the army's account on X.
+    caption: "Wrapped Colombia Gold package from the Santa Martha de Cuba seizure (Primicias / army)."
 ---
 
 On Wednesday 30 September 2026, Ecuadorian soldiers seized about 1.3 tonnes of marijuana from a pickup abandoned after a chase in Santa Martha de Cuba, in Carchi province, Defence Minister Gian Carlo Loffredo said. [@1,4] The people in the pickup skipped a military checkpoint. [@1,3,4] Soldiers followed them. [@1,4] Kilometres later the occupants left the vehicle and escaped. [@1,4] The army's own post, quoted by Primicias, said the soldiers had seized 1,300 kg in Carchi. [@1]

@@ -38,8 +38,9 @@ sources:
 media:
   - kind: photo
     url: https://pragativadi.com/balangir-police-seizes-321-kg-ganja-worth-rs-22-lakh-in-patnagarh/
+    media_url: https://pragativadi.com/wp-content/uploads/2026/10/IMG-20261013-WA0076.jpg
     publisher: Pragativadi / Balangir police
-    caption: The seized Xylo with its 16 sacks at the police station
+    caption: "The seized Xylo with its sacks at the police station (Pragativadi / Balangir police)."
 ---
 
 On strict orders from the Superintendent of Police, Bolangir, a special team

@@ -53,8 +53,9 @@ media:
   - kind: photo
     url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/ficco-sp-apreende-mais-de-1-tonelada-de-maconha-e-prende-uma-pessoa-em-flagrante
     archived: https://web.archive.org/web/20261002234656/https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/ficco-sp-apreende-mais-de-1-tonelada-de-maconha-e-prende-uma-pessoa-em-flagrante
+    media_url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/ficco-sp-apreende-mais-de-1-tonelada-de-maconha-e-prende-uma-pessoa-em-flagrante/whatsapp-image-2026-10-02-at-13-20-57.jpeg
     publisher: Polícia Federal
-    caption: The marijuana blocks seized from the vehicle
+    caption: "Marijuana bricks stacked beside the white van at the Itatinga seizure (Polícia Federal)."
   - kind: photo
     url: https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/02/homem-e-preso-com-mais-de-1-tonelada-de-maconha-na-sp-280-em-itatinga.ghtml
     archived: https://web.archive.org/web/20261003191118/https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/02/homem-e-preso-com-mais-de-1-tonelada-de-maconha-na-sp-280-em-itatinga.ghtml

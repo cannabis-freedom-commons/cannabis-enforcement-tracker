@@ -18,8 +18,9 @@ figures:
 media:
   - kind: photo
     url: https://www.fijivillage.com/t/more-than-11-000-suspected-marijuana-plants-uprooted-in-nasuva-1d88af/
+    media_url: https://www.fijivillage.com/news_images/20261003081320_media_6ac00ed96fff72_41424675.jpg
     publisher: Fijivillage
-    caption: 'Police photos of the uprooted marijuana plants and officers at the Nasuva farm. Photo: Fiji Police Force'
+    caption: 'Uprooted marijuana plants loaded in a truck after the Nasuva farm clearance. Photo: Fiji Police Force'
   - kind: photo
     url: https://www.fijitimes.com.fj/11000-marijuana-plants-uprooted-in-nasuva/
     publisher: The Fiji Times

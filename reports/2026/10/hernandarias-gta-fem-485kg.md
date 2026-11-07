@@ -22,8 +22,9 @@ figures:
 media:
   - kind: photo
     url: https://mediosdelestado.gov.py/ip/2026-10-03/senad-saca-de-circulacion-casi-50-kilos-de-marihuana-gta-fem-en-hernandarias/
+    media_url: https://mediosdelestado.gov.py/wp-content/uploads/2026/10/833083426_1753055075787882_2580377908020354796_n-e1791034861561.webp
     publisher: Agencia IP
-    caption: Photo published with Agencia IP's report on the SENAD operation in Hernandarias
+    caption: "Suspects beside packaged marijuana on a table under a SENAD Ciudad del Este banner (Agencia IP)."
 created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
 details:
   activity: [smuggling]

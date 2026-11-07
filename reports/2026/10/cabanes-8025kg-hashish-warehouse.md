@@ -23,8 +23,9 @@ media:
   - kind: photo
     url: https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/huit-tonnes-de-resine-de-cannabis-saisie-record-a-la-frontiere-franco-espagnole-3430614.html
     archived: https://web.archive.org/web/20261013230325/https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/huit-tonnes-de-resine-de-cannabis-saisie-record-a-la-frontiere-franco-espagnole-3430614.html
+    media_url: https://france3-regions.franceinfo.fr/image/tu11Z9jqx1jfEgrKeuj3YQ0AiyE/930x620/regions/2026/10/09/6ac8c6828f1fc075477529.jpg
     publisher: France 3 Occitanie
-    caption: Mossos d'Esquadra photos of the hashish hidden in sacks of rubber granules in the Cabanes warehouse
+    caption: "Warehouse stacks of labelled cardboard boxes from the Cabanes hashish seizure (France 3 / Mossos)."
   - kind: photo
     url: https://x.com/mossos/status/2108443780323930326
     archived: https://web.archive.org/web/20261009114655/https://x.com/mossos/status/2108443780323930326

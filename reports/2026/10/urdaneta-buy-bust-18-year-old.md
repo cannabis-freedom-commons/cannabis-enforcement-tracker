@@ -39,6 +39,7 @@ tags: [urdaneta, buy-bust, pdea, kush]
 media:
   - kind: photo
     url: https://tribune.net.ph/2026/10/02/pangasinan-police-seize-p49-million-marijuana-arrest-18-year-old
+    media_url: https://images.assettype.com/tribune/2026-10-02/9n7gkqrm/IMG1355.jpeg
     publisher: Daily Tribune
     caption: "Police inventory of the seized kush jars and bottles at the night scene (Daily Tribune)."
 open_questions:

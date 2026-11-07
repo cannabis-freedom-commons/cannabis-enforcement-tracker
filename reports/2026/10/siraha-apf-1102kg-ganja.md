@@ -27,8 +27,9 @@ data_sources:
 media:
   - kind: photo
     url: https://www.ratopati.com/story/596256/armed-police-seize-1100-kg-of-marijuana-from-siraha
+    media_url: https://npcdn.ratopati.com/media/news/d391a3a8-7392-4074-9472-138ce5ff2588_pvgNIBe61j.webp
     publisher: Ratopati
-    caption: Armed Police Force personnel with the seized Bolero and sacks of cannabis in Sukhipur, Siraha.
+    caption: "Armed Police Force personnel with the seized Bolero and black-wrapped cannabis bales in Sukhipur, Siraha."
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ganja, siraha, armed-police-force, seizure, madhesh]

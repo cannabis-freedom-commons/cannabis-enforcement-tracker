@@ -42,6 +42,7 @@ tags: [hunter-valley, nsw, grow-houses, operation-cages]
 media:
   - kind: photo
     url: https://newy.com.au/2026/10/02/hunter-cannabis-seizures-reach-1465-plants-two-men-charged/
+    media_url: https://newy.com.au/wp-content/uploads/2026/10/singleton-heights-2-1170x878.png
     publisher: newy.com.au (NSW Police Force)
     caption: "Indoor grow room seized in the Hunter raids (NSW Police)."
 open_questions:
