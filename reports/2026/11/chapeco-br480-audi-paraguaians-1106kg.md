@@ -80,6 +80,11 @@ sources:
     publisher: Lê Notícias
     date: 2026-11-06
     language: pt
+  - title: Paraguaios são presos com 110 quilos de maconha em carro na BR-480
+    url: https://cacodarosa.com/noticia/48824/paraguaios-sao-presos-com-110-quilos-de-maconha-em-carro-na-br-480
+    publisher: Caco da Rosa
+    date: 2026-11-07
+    language: pt
 open_questions:
   - The reported weight of 110.6 kg is an aggregate for the marijuana tablets found; no separate figure for packing or purity was published.
   - No charge has been formally filed and no court outcome was reported; the case was at the Federal Police station stage.
@@ -91,19 +96,22 @@ open_questions:
   - The name of the Federal Police station is given as a delegacia rather than a superintendência, a detail not stated in the earlier accounts.
   - The Lê Notícias photo carries no credit and cannot be confirmed as a distinct asset from the PRF handout images already linked from RCO.
   - The page's second image (lenoticias.com.br/extranet/uploads/Noticia/5703398d480a7f157f88e2fe8253da5f.jpg) has no caption and was not listed as media.
+  - Caco da Rosa gives the location only as the BR-480 in Chapecó, so the exact point of the stop remains unrecorded.
+  - Caco da Rosa does not say where the load was collected or where it was going.
+  - The Caco da Rosa photo credited PRF/Divulgação appears to be the same PRF handout image as those linked from other outlets; its direct image address is now recorded in media.
 ---
 
 Federal Highway Police (Polícia Rodoviária Federal, PRF) officers stopped an
 Audi with Paraguayan plates on the BR-480 in Chapecó, western Santa Catarina, on
-the afternoon of Friday 6 November 2026. [@1,4] Two Paraguayan men were travelling
+the afternoon of Friday 6 November 2026. [@1,4,5] Two Paraguayan men were travelling
 in the car. [@2] Officers said the occupants showed extreme nervousness, which
-led them to search the car in detail. [@1,3]
+led them to search the car in detail. [@1,3,5]
 
 In the boot and other compartments they found several tablets of marijuana
-weighing 110.6 kilograms, the figure the PRF reported. [@2,4] The two men were
+weighing 110.6 kilograms, the figure the PRF reported. [@2,4,5] The two men were
 arrested in the act (em flagrante, caught at the scene). [@1,4]
 
 Officers took them to the Federal Police station in Chapecó together with the
-car and the seized drug. [@2,3,4] They are to answer for the crime of international
-drug trafficking. [@1,4] The accounts came from the PRF and were carried by local
+car and the seized drug. [@2,3,4,5] They are to answer for the crime of international
+drug trafficking. [@1,4,5] The accounts came from the PRF and were carried by local
 outlets in western Santa Catarina. [@2]
