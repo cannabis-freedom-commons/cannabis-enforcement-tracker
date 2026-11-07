@@ -81,6 +81,11 @@ sources:
     publisher: Disha Daily (దిశ)
     date: 2026-11-07
     language: te
+  - title: కారులో సీట్ల కింద 60 కిలోల గంజాయి! | Hyderabad Police Seize 60 Kg Cannabis Worth 30 Lakhs Two Smugglers Arrested
+    url: https://www.andhrajyothy.com/2026/national/hyderabad-police-seize-60-kg-cannabis-worth-30-lakhs-two-smugglers-arrested-1574341.html
+    publisher: Andhrajyothy
+    date: 2026-11-08
+    language: te
 open_questions:
   - Only one account of the check could be opened; no police statement or second outlet reporting this same seizure was found.
   - The 60 kilograms is given as a round figure for 60 packets, with no exact weighed total.
@@ -102,6 +107,9 @@ open_questions:
   - The article quotes LB Nagar zone DCP Anuradha at a press conference but gives no NDPS section, remand date or court outcome for the two arrested men.
   - Disha Daily says Imran Uddin faces murder, robbery and several NDPS cases, which differs from the other accounts' count of earlier NDPS cases for the second accused; the existing report keeps the earlier wording.
   - The article does not say whether the Odisha supplier or the Mumbai receiver has since been arrested.
+  - The subheading says 60 lakh worth of goods seized while the body says Rs 30 lakh for the 60 kg; the existing Rs 30 lakh figure is unchanged.
+  - The Andhrajyothy account calls the Odisha supplier Purnachandra Mahapatra alias Shiva, while the existing report names him as alias Happy.
+  - The page lists one photo whose caption matches the seizure, but its direct image address is under an August 2026 media path, so it is not listed as event media because it cannot be confirmed to show this check.
 ---
 
 Police in the LB Nagar zone of Hyderabad arrested two men and seized 60
@@ -109,9 +117,9 @@ kilograms of ganja from a car near a spice (masala) company on the edge of
 Annojiguda village in Ghatkesar mandal on 7 November 2026. [@1,2,5] Officers from
 the Special Operations Team (SOT) of the LB Nagar zone and the Pocharam IT
 Corridor police station stopped the Maruti Suzuki SX4 at about 11.30 am and
-found 60 packets of ganja hidden behind the back seat. [@1,4] Police said the
+found 60 packets of ganja hidden behind the back seat. [@1,4,6] Police said the
 ganja was being carried from Odisha through Hyderabad to Mumbai and was worth
-about 3 million rupees. [@1,4,5]
+about 3 million rupees. [@1,4,5,6]
 
 LB Nagar zone Deputy Commissioner of Police Anuradha said the check followed a
 tip-off and was carried out on the orders of police commissioner B. Sumathi.
@@ -120,10 +128,10 @@ Mahapatra, alias Happy, to supply to Yasmin Chand Sayyad, alias Chand Bhai, who
 runs a Dharavi, Mumbai, shop; both were still at large. [@1,4] Police said the
 pair planned to buy the ganja at about 7,000 rupees a kilogram and sell it at
 15,000 rupees a kilogram, and that they had taken consignments from the same
-supplier twice before. [@1] The two suspects had earlier NDPS Act cases
+supplier twice before. [@1,6] The two suspects had earlier NDPS Act cases
 registered against them, five for the main suspect and four for the other, and
 the main suspect had twice been detained under the Preventive Detention (PD)
-Act. [@1]
+Act. [@1,6]
 
 Officers seized the car used to move the ganja and two mobile phones, and said
 special teams were searching for the Odisha supplier and the Mumbai receiver.
