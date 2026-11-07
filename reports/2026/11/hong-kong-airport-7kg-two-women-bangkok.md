@@ -68,26 +68,31 @@ sources:
     publisher: 星島頭條
     date: 2026-11-06
     language: zh
+  - title: Hong Kong Customs detects two drug trafficking cases involving incoming passengers at airport (with photos)
+    url: https://www.info.gov.hk/gia/general/202611/06/P2026110600678.htm
+    publisher: Government of the Hong Kong Special Administrative Region
+    date: 2026-11-06
 open_questions:
   - The weight is given as about 7 kg in total and about 3.5 kg for each woman; no exact figure was published.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
   - The article gives no charge or court date; both cases were reported as still under investigation.
   - Customs has published no statement on the 6 November cases on its own press-release page yet; the opened accounts follow the agency's wording and photos.
   - The two hand-luggage photos are credited to Customs and are linked from 星島頭條 rather than a Customs page.
+  - 'The figures remain approximate: about 7 kg in total and about 3.5 kg per woman, with no laboratory confirmation that the material is cannabis.'
+  - No charge, court date or update on the two women has been reported; Customs said only that investigations were ongoing.
 ---
 
 Hong Kong Customs arrested two mainland Chinese women, aged 50 and 54, at Hong
-Kong International Airport on 6 November 2026. [@1] Both women had arrived that
-day on flights from Bangkok, Thailand. [@1] During customs clearance, officers
+Kong International Airport on 6 November 2026. [@1,4] Both women had arrived that
+day on flights from Bangkok, Thailand. [@1,4] During customs clearance, officers
 found about 3.5 kg of suspected cannabis buds in each woman's carry-on baggage,
-and arrested them on the spot. [@3] The two seizures together came to about 7 kg
+and arrested them on the spot. [@3,4] The two seizures together came to about 7 kg
 of suspected cannabis buds, which Customs estimated to be worth about HK$1.4
-million. [@2]
+million. [@2,4]
 
-Both cases were still under investigation, and no charge had been reported. [@1]
+Both cases were still under investigation, and no charge had been reported. [@1,4]
 Customs said it would keep selecting travellers from high-risk regions for
 clearance checks and step up enforcement against drug trafficking using
-intelligence analysis. [@2] Under the Dangerous Drugs Ordinance, trafficking in
+intelligence analysis. [@2,4] Under the Dangerous Drugs Ordinance, trafficking in
 a dangerous drug carries a maximum penalty of a HK$5 million fine and life
-imprisonment. [@1]
-
+imprisonment. [@1,4]
