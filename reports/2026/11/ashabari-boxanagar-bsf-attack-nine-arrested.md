@@ -73,6 +73,11 @@ sources:
     url: https://tennews.in/one-more-woman-arrested-for-attack-on-bsf-personnel-in-tripura/
     publisher: 'tennews.in: National News Portal'
     date: 2026-11-07
+  - title: 'त्रिपुरा: बीएसएफ पर हमले के बाद 21 गिरफ्तार, तीन और पकड़े; गांजा तस्करी रोकने पर जवानों पर टूट पड़ी थी भीड़'
+    url: https://www.amarujala.com/india-news/woman-among-three-more-arrested-in-attack-on-bsf-personnel-near-tripura-border-news-in-hindi-2026-11-07
+    publisher: Amar Ujala
+    date: 2026-11-07
+    language: hi
 open_questions:
   - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
   - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
@@ -98,6 +103,9 @@ open_questions:
   - The page's only image carries no caption or credit, so it is not established to show this attack or the arrests and no media entry is added.
   - The article identifies no specific NDPS Act section and reports no court outcome for the newly arrested woman.
   - The article says the search parties also aim to seize contraband, but does not say whether any cannabis was found in the 7 November searches.
+  - This account puts the total at 21 accused, four of them women, while the report records 19 after the 7 November arrest of one woman, so the exact number held on that date differs between sources.
+  - The report says the 2 November interception recovered ganja, while this account describes the BSF stopping ganja smugglers without stating that any cannabis was seized in the interception.
+  - The page's only image is a graphic carrying the headline with no credit or event-specific detail, so it is not established to show the attack and no media entry is added.
 ---
 
 Tripura police arrested nine people, including three women, for allegedly
@@ -133,3 +141,5 @@ Police said the eight newly arrested people would be produced before a local cou
 The attackers also allegedly snatched a pump-action gun from one of the BSF personnel and damaged a BSF vehicle. [@7] Eight more people were arrested over the attack in Sepahijala district on Thursday night and early Friday morning, taking the total held to 18, including three women. [@7,8]
 
 A middle-aged woman, Hasina Khatun, was arrested at Kalapania in Sepahijala district on 7 November over the 2 November attack at Ashabari village, taking the number held to 19, police said. [@8] Police said an intensive search operation launched after the 2 November attack was still under way to catch the remaining accused. [@8] Police and the BSF were jointly searching suspected locations, including residences and shops, to catch the accused and seize contraband. [@8] The 2 November interception was of a group alleged to be smuggling ganja across the India-Bangladesh border, after which a mob of around 50 men and women attacked the BSF personnel. [@8] Chief Minister Manik Saha held a series of meetings with senior security officials to review the incident and the state's law and order situation. [@8]
+
+Three more people, including a woman, were arrested over the 2 November attack, taking the number of accused held in the case to 21, four of them women, Sepahijala district police said on 7 November. [@9] Two of the main accused, who BSF footage showed snatching a service rifle and beating personnel with a stick, were taken into custody on 7 November and handed to Kalamchaura police station. [@9] All 21 accused have been booked under the Narcotic Drugs and Psychotropic Substances Act, the Bharatiya Nyaya Sanhita and the Prevention of Damage to Public Property Act. [@9]
