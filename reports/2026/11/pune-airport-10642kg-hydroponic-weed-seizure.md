@@ -179,6 +179,10 @@ sources:
     url: https://inshorts.com/en/amp_news/pune-customs-seizes--3-72-cr-hydroponic-weed-at-airport-1793942028637
     publisher: Inshorts
     date: 2026-11-06
+  - title: 'Pune: Two Bangkok Passengers Booked For Smuggling Hydroponic Weed Worth ₹4.16 Crore'
+    url: https://www.freepressjournal.in/pune/pune-two-bangkok-passengers-booked-for-smuggling-hydroponic-weed-worth-416-crore
+    publisher: The Free Press Journal
+    date: 2026-11-06
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -228,10 +232,13 @@ open_questions:
   - Urban Acres attributes the account to Lokmat – Pune and gives Dheeraj More's role only as 'of the Customs Department', without the deputy commissioner rank the existing report cites.
   - The Inshorts summary gives no date for the interception, the arrest or the remand hearing; 6 November 2026 is its publication date.
   - The summary credits Hindustan Times but is a condensed rewrite, so it is not an independent account of the seizure.
+  - The Free Press Journal gives no separate date for the arrest or the remand hearing and does not name the passenger.
+  - The page's single picture is a headline collage captioned only with the article title, so it is not treated as a photograph of this seizure.
+  - The page's Rs 4.16 crore figure is a combined total for two separate seizures and is not used as a figure for this event.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
-arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18,19,20,21,23,24,25] The passenger had
+arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18,19,20,21,23,24,25,26] The passenger had
 arrived on Air India Express flight IX-291 and was stopped after passenger
 profiling and suspicious scanning of his check-in baggage. [@2,3,7,8,12,13,14,15,22,23] The interception
 was carried out by officers of the Air Intelligence Unit and the Airport Batch
@@ -239,7 +246,7 @@ of Pune Customs. [@2,3,12,15,20,23]
 
 Officers searching his check-in trolley bag found nine rectangular,
 silver-coloured packets labelled ‘Freeze Dried Monthong Durian’ hidden among
-noodle packets. [@1,8,11,12,14,15,16,17,18,19,21,22,23,24,25] Each packet was further lined with two layers of
+noodle packets. [@1,8,11,12,14,15,16,17,18,19,21,22,23,24,25,26] Each packet was further lined with two layers of
 vacuum-sealed black polythene to mask detection. [@2,8,10,11,12,22,23,24] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
@@ -263,3 +270,5 @@ Following statutory procedures under the NDPS Act, 1985, officers found the cont
 The cannabis had a market value of about Rs 35 lakh per kilogram. [@21]
 
 Mumbai Samachar carried the report as PTI copy in Gujarati, adding that Customs officers are searching for other members of the syndicate. [@22]
+
+The Times of India reported that the arrested flyer was 45 years old. [@4] Customs officers intercepted him after noticing his suspicious behaviour during passenger profiling. [@4] On 27 October, customs officials seized 381.27 grams of hashish from another passenger arriving on the same Air India Express flight from Bangkok, concealed in his shoes. [@4]
