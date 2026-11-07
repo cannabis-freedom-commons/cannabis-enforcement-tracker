@@ -46,6 +46,11 @@ media:
     media_url: https://images.ndr.de/image/ae96b741-82d2-4863-b795-5a158d262ca0/AAABobDizkk/AAABnSSvrFg/16x9-big/verurteilung-100.webp?width=576
     publisher: NDR
     caption: 'The 23-year-old defendant at the Kiel regional court, where he was sentenced to a suspended term; the caption says he spent more than half a year in pre-trial custody. Photo: Ulrich Perrey/dpa'
+  - kind: photo
+    url: https://www.tageblatt.de/Nachrichten/Bewaehrungsstrafe-nach-Tod-eines-15-Jaehrigen-782700.html
+    media_url: https://www.tageblatt.de/Bilder/Das-Landgericht-Kiel-hat-einen-Bremer-nach-dem-gewaltsamen-1436587.jpg
+    publisher: Tageblatt.de
+    caption: 'Archive photo of the Kiel regional court used with the report on the verdict. Photo: Ulrich Perrey/dpa'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5e1e25443f629bc130d62d2c10d8c0ec
@@ -61,6 +66,11 @@ sources:
     publisher: NDR
     date: 2026-11-06
     language: de
+  - title: Bewährungsstrafe nach Tod eines 15-Jährigen
+    url: https://www.tageblatt.de/Nachrichten/Bewaehrungsstrafe-nach-Tod-eines-15-Jaehrigen-782700.html
+    publisher: Tageblatt.de
+    date: 2026-11-06
+    language: de
 open_questions:
   - No quantity of cannabis was published, so no weight is recorded for the drug deal.
   - The stern and dpa text says the dispute happened on a car park, while NDR says a dispute between two youths escalated before a supermarket in the town centre; the verdict reports do not reconcile the two locations.
@@ -69,6 +79,8 @@ open_questions:
   - The stern page picture is a dpa photo of the accused used as a file image, and NDR's photo carries the same photographer's credit, so only the NDR picture is linked as media.
   - 'Left out, as its quotation was not found in NDR: The dispute on 11 March had escalated before a supermarket in Eckernförde''s town centre and, according to the Kiel prosecutors, was about a deal with cannabis.'
   - 'Left out, as its quotation was not found in MOPO (Hamburger Morgenpost): The fatal stabbing took place on the evening of 11 March on a car park in Eckernförde in connection with the alleged drug deal.'
+  - The dpa report gives the deal as about 400 grams of cannabis; the earlier stern and NDR accounts published no quantity.
+  - The court held that the 15-year-old and his brother planned to rob the Bremen men with counterfeit money, an account the earlier sources did not carry in these terms.
 ---
 
 The Landgericht Kiel, the regional court in Kiel, sentenced a 23-year-old man
@@ -98,3 +110,4 @@ than half a year. [@2] A lawyer for the victim's parents had asked for a
 conviction for manslaughter, and after the verdict a woman in the courtroom
 confronted the accused loudly. [@2]
 
+The court assumed the deal ultimately involved about 400 grams of cannabis. [@3] The accused stood in the deal only as the driver, paid a fee of 200 euros. [@3] According to the court, the 15-year-old and his elder brother planned to pay the Bremen men with a bundle of counterfeit 50-euro notes in a plastic bag. [@3] According to the court, the brother drew a blank-firing pistol and threatened the Bremen man. [@3] After the stabbing the two Bremen men fled by car, and the accused turned himself in two weeks later. [@3]
