@@ -79,6 +79,11 @@ sources:
     publisher: Kerala Online News
     date: 2026-11-07
     language: ml
+  - title: കണ്ണൂരില്‍ വാഹന പരിശോധനയ്ക്കിടെ കഞ്ചാവുമായി പുഴയില്‍ ചാടിയ യുവാവിനെ പിടികൂടി
+    url: https://www.thejasnews.com/districts/kannur/a-young-man-who-jumped-into-a-river-with-ganja-during-a-vehicle-inspection-in-kannur-has-been-apprehended-274532
+    publisher: Thejas News
+    date: 2026-11-07
+    language: ml
 open_questions:
   - Neither account gives a calendar date for the event beyond 'today'; 7 November 2026 is the publication date of both and is used as the incident date.
   - Only Mathrubhumi gives a ganja weight, 10 grams; the submitted TrueVision page says only that ganja was found.
@@ -89,11 +94,14 @@ open_questions:
   - The earlier cases at Valapattanam police station are described only as information, with no case numbers, dates or outcomes.
   - Kerala Online News gives no ganja weight; the report keeps Mathrubhumi's 10 grams.
   - Kerala Online News gives no time of day for the check and says only that it was on Saturday morning; the existing report's 11 a.m. comes from Mathrubhumi.
+  - Thejas News gives 90 grams of ganja from the bag left on the bridge, while the existing report records Mathrubhumi's figure of 10 grams; the sources conflict and the tracker keeps the earlier figure pending a resolution.
+  - Only Thejas News reports the 90-gram figure; no second opened account confirming that weight was found.
+  - Thejas News gives the man's home as Markkarkkandi and does not give his name, so the identification rests on the check post, date and circumstances.
 ---
 
 Excise officers inspecting vehicles at the Koottupuzha check post in Kannur
 district stopped a bus and a young man got off and jumped into the river below.
-[@1,3] The bus was travelling from Virajpet to Kannur and was being checked at
+[@1,3,5] The bus was travelling from Virajpet to Kannur and was being checked at
 about 11 a.m. [@2,4]
 
 He left his bag and slippers on the bridge, swam to the far bank, then climbed
@@ -113,3 +121,5 @@ Thayyil. [@2]
 The man's home is given as Markkarkkandi in Kannur. [@3] He was said to have earlier cases at Valapattanam police station. [@3]
 
 Sub-inspector Jose P. Jose of Karikkottakkari was injured in the hand while officers tried to catch him. [@4]
+
+The search of the bag he left behind yielded 90 grams of ganja, which excise officers seized. [@5] The excise account says he already had cases at Valapattanam police station in Kannur district. [@5]
