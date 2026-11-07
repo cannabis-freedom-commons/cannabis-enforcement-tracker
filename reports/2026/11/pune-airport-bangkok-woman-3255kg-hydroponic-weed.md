@@ -85,6 +85,10 @@ sources:
     publisher: Pune Prime News
     date: 2026-11-07
     language: mr
+  - title: 'Pune: Major action by Customs at Pune Airport; ganja worth Rs 1.14 crore seized'
+    url: https://english.lokshahi.com/maharashtra/major-action-by-customs-at-pune-airport-ganja-cannabis-worth-rs-114-crore-seized-12791481
+    publisher: Lokshahi English News
+    date: 2026-11-07
 open_questions:
   - The woman's name, age and precise home address were not published; only that she is a Mumbai resident.
   - Rs 1.14 crore is Customs' estimated illicit-market value, not an independently confirmed price.
@@ -110,22 +114,25 @@ open_questions:
   - Pune Prime News describes the contents only as dried plant material of an orange-green colour, without the floral tops other outlets describe, though both identify it as hydroponic cannabis.
   - The article gives no name, age, home city or court or remand outcome for the woman; it says only that investigation is under way.
   - Its page images are an editorial composite and uncaptioned WhatsApp-style photos not identified as pictures of this seizure, so no media entry is added.
+  - The article gives no separate incident date; 7 November 2026 is its publication date, while the existing report dates the interception to the evening of 5 November 2026.
+  - The article does not give the flight number, the woman's residence, the false-cavity concealment detail, the testing method or any court outcome.
+  - The page image carries only the headline as its caption and no credit, so it is not treated as a confirmed picture of this seizure and no media entry is added.
 ---
 
 Officers of the Air Intelligence Unit and Airport Batch of Pune Customs
 intercepted an Indian woman arriving from Bangkok at Pune International Airport
-on the evening of 5 November 2026. [@1,3,4,5,6,7] She had flown in on Air India Express
+on the evening of 5 November 2026. [@1,3,4,5,6,7,8] She had flown in on Air India Express
 flight IX-291 and was stopped on passenger profiling and suspicious scanning of
-her check-in baggage. [@1,3] The woman, a Mumbai resident, was arrested and
-further investigation was under way. [@1,2]
+her check-in baggage. [@1,3,8] The woman, a Mumbai resident, was arrested and
+further investigation was under way. [@1,2,8]
 
 Officers searching her check-in trolley bag found specially fabricated false
 cavities behind the inner lining on both sides and recovered two rectangular
-slab-shaped packets wrapped in three layers of vacuum-sealed black plastic. [@1,3,4,5,7]
+slab-shaped packets wrapped in three layers of vacuum-sealed black plastic. [@1,3,4,5,7,8]
 A Narcotic Drug Field Testing Kit confirmed the substance was marijuana, also
 known as ganja or hydroponic weed. [@1,5] Customs seized the consignment, weighing
 3.255 kilograms, under the NDPS Act, 1985, and estimated its illicit-market
-value at Rs 1.14 crore. [@1,4,7]
+value at Rs 1.14 crore. [@1,4,7,8]
 
 An official said it appeared she had been handed the bag containing the
 contraband by smugglers, and sources said she had travelled to Bangkok four days
