@@ -60,6 +60,11 @@ sources:
     publisher: De Telegraaf
     date: 2026-11-07
     language: nl
+  - title: Politie vindt bijna 10.000 cobra's, lawinepijlen en shells in garagebox in Dinteloord en arresteert twee mannen
+    url: https://www.bndestem.nl/112-nieuws-steenbergen/politie-vindt-bijna-10-000-cobras-lawinepijlen-en-shells-in-garagebox-in-dinteloord-en-arresteert-twee-mannen~a6015ca0/
+    publisher: BN DeStem
+    date: 2026-11-07
+    language: nl
 open_questions:
   - Only the police statement was found; no separate outlet reporting of this Dinteloord find was located.
   - The quantities are given as more than 90 grams of hemp and more than 800 grams of hash, not exact weights, so the cannabis total of about 891 grams is approximate.
@@ -70,21 +75,23 @@ open_questions:
   - The Omroep Brabant account gives the same approximate cannabis weights ('90 gram hennep', '800 gram hasj') without more precision, and repeats that no charges are stated.
   - De Telegraaf gives the hash weight as '800 gram' without 'ruim', the same approximate figure as the other accounts, so the report's already approximate cannabis total is unaffected.
   - The article does not say what the 250 pills contained or which charges the two men face.
+  - BN DeStem carries the same police statement as the sources already cited and is not independent reporting; it gives no charges, no custody decision and no street value for the hash or hemp.
+  - The page photograph is captioned only 'Foto ter Illustratie' (illustration photo) with an ANP credit and is not established to show this seizure, so no media is linked.
 ---
 
 Police entered a garage box on the De Vriesstraat in Dinteloord on the evening
 of Wednesday 4 November 2026 and found a large quantity of heavy illegal
-fireworks. [@1,2,3] Officers arrested a 25-year-old man from Dinteloord that evening
-and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2]
+fireworks. [@1,2,3,4] Officers arrested a 25-year-old man from Dinteloord that evening
+and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2,4]
 The search followed a longer police investigation that began with a report about
-the possible storage and sale of illegal fireworks. [@1]
+the possible storage and sale of illegal fireworks. [@1,4]
 
 Alongside the fireworks, officers found just over 90 grams of hemp and just over
-800 grams of hash in the garage box. [@1,2,3] Police also seized about 250 pills, an
-alarm pistol, expensive jewellery and a car. [@1,2,3] In total more than 750
+800 grams of hash in the garage box. [@1,2,3,4] Police also seized about 250 pills, an
+alarm pistol, expensive jewellery and a car. [@1,2,3,4] In total more than 750
 kilograms of fireworks were taken away, including almost 10,000 cobras, boxes of
 lawinepijlen (heavy rockets) and shells weighing several kilograms each;
-specialists removed them safely. [@1]
+specialists removed them safely. [@1,4]
 
 Police said the fireworks held large amounts of explosive flash powder and that
 an explosion could set off a mass explosion affecting whole streets and
