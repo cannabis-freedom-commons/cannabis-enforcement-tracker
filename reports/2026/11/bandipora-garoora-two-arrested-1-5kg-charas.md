@@ -58,6 +58,9 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-07
     language: hi
+  - title: Two arrested with 1.5 kg charas-like substance in J-K's Bandipora
+    url: https://www.greaterkashmir.com/jammu-kashmir/two-arrested-with-15-kg-charas-like-substance-in-j-ks-bandipora-12791731
+    publisher: Greater Kashmir
 open_questions:
   - No laboratory confirmation that the substance was cannabis was published; police and outlets describe it only as a charas-like substance.
   - Police gave the weight only as approximately 1.5 kg, with no street value and no detail of how the substance was packed.
@@ -69,18 +72,19 @@ open_questions:
   - Amar Ujala also calls the substance a charas-like substance and does not say whether a laboratory confirmed it as cannabis.
   - The Hindi account gives the local place names Halwadi and Chapran for the two men's villages but no age or further identification.
   - The page photo is a generic Jammu and Kashmir Police image credited to a photographer and dated 2024 in its address, so it is not established to show this seizure and no media entry is included.
+  - The page image is labelled as a representational photo, so no media entry is included.
 ---
 
 Police in Bandipora district arrested Rafaqat Ali Gojar, of Halwadi in Aragam,
 and Zakir Hussain Qureshi, of Chapran in Aragam, during a naka checking, a
-police checkpoint stop, at Garoora Crossing on Saturday 7 November 2026. [@1,4]
+police checkpoint stop, at Garoora Crossing on Saturday 7 November 2026. [@1,4,5]
 Police recovered approximately 1.5 kg of a charas-like substance from the two
 men, a police spokesperson said. [@1,4]
 
 Police said the two were arrested on Saturday in Bandipora district and about
-1.5 kg of charas-like substance was seized from them. [@1] Kashmir Life put the
+1.5 kg of charas-like substance was seized from them. [@1,5] Kashmir Life put the
 catch at approximately 1.5 kg of a charas-like substance recovered during the
-Garoora Crossing check. [@3] Kashmir Life named the two men as Rafaqat Ali
+Garoora Crossing check. [@3,5] Kashmir Life named the two men as Rafaqat Ali
 Gojar, son of Mohd. Gulab Gojar, and Zakir Hussain Qureshi, son of Ghulam
 Noorani Qureshi, both residents of Aragam. [@3]
 
@@ -89,7 +93,7 @@ and 29 of the NDPS Act. [@2] Kashmir Life said the case was registered under
 sections 8, 20 and 29 of the NDPS Act at Police Station Aragam. [@3]
 
 Police said an investigation had begun to establish the source and intended
-destination of the substance and to check for further links. [@1] Kashmir
+destination of the substance and to check for further links. [@1,5] Kashmir
 Indepth reported the same FIR, sections and recovery of approximately 1.5
 kilograms of a charas-like substance at Garoora Crossing. [@2]
 
