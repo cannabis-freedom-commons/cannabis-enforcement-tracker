@@ -188,6 +188,11 @@ sources:
     publisher: بوابة الأهرام
     date: 2026-11-07
     language: ar
+  - title: ضبط شخصين لترويج وتعاطي المخدرات في أحد شوارع الإسكندرية - بوابة مولانا
+    url: https://mwlana.com/details/245770/
+    publisher: بوابة مولانا
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
   - Neither report gives the weight of the hashish found with the employee or with the supplier.
@@ -246,6 +251,7 @@ open_questions:
   - It gives no weight for the hashish found with the two men, names neither of them, and reports no charge or court outcome.
   - It describes both arrested men as unemployed residents of the First Montazah police district, as do several other later accounts, while earlier accounts describe the filmed pair as a company employee and a delivery worker.
   - The page photo is captioned only المتهمان with no credit, so it is not certain it is a distinct image rather than a republished Interior Ministry handout already listed.
+  - 'Left out, as its quotation was not found in بوابة مولانا: Both arrested men were found with hashish and two mobile phones.'
 ---
 
 The case began with a social-media post, backed by a video, in which the person
@@ -261,8 +267,8 @@ obtained the hashish from an unemployed man with a criminal record living in the
 First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20]
 
 The ministry said no reports had been filed about the incident before the video
-spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22,25,27] The public prosecution has taken over the investigation.
-[@2,3,4,7,8,9,10,13,16,17,18,20,24,27]
+spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22,25,27,28] The public prosecution has taken over the investigation.
+[@2,3,4,7,8,9,10,13,16,17,18,20,24,27,28]
 
 The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20]
 
@@ -272,4 +278,4 @@ The Montazah prosecution in Alexandria ordered the three accused held for four d
 
 The two arrested men admitted committing the offence on 30 October and holding the drugs for both use and trafficking, the only account that reports an admission to trafficking by both. [@21,23,27]
 
-Both arrested men were found with hashish and two mobile phones. [@22,23,26,27]
+Both arrested men were found with hashish and two mobile phones. [@22,23,24,26,27]
