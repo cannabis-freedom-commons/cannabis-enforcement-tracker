@@ -67,10 +67,21 @@ sources:
     publisher: PRO TV Chișinău
     date: 2026-11-07
     language: ro
+  - title: 'Control suplimentar la Leușeni: Marijuana, găsită în încălțămintea unui pasager care mergea spre Germania'
+    url: https://realitatea.md/control-suplimentar-la-leuseni-marijuana-ascunsa-in-incaltamintea-unui-pasager-care-mergea-spre-germania/
+    publisher: Realitatea.md
+    date: 2026-11-07
+    language: ro
+  - title: Marijuana, ascunsă în pantofii unui pasager la vama Leușeni? Moldoveanul urma să plece în Germania
+    url: https://newsmaker.md/ro/marijuana-ascunsa-in-pantofii-unui-pasager-la-vama-leuseni-moldoveanul-urma-sa-plece-in-germania
+    publisher: NewsMaker
+    date: 2026-11-07
+    language: ro
 open_questions:
   - No weight was published for the plant substance, so no cannabis quantity can be recorded.
   - The substance is described as suspected marijuana; its chemical composition was to be established by expert examination, and the accounts give no laboratory result.
   - The accounts do not say whether the man faced any charge or was freed after the substance was seized; the case was still under investigation.
+  - Substanță vegetală suspectă, depistată la punctul de trecere a frontierei Leușeni (Poliția de Frontieră a Republicii Moldova) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
 ---
 
 Border police at the Leușeni crossing point stopped a minibus heading from
@@ -78,10 +89,10 @@ Moldova to Germany for exit clearance on 5 November 2026. [@2] On a risk
 analysis they searched one passenger, a 41-year-old Moldovan citizen, more
 thoroughly. [@2] The search found two polythene bags holding a greenish plant
 substance with a distinct smell, suspected to be marijuana, inside the trainers
-the man was wearing. [@1]
+the man was wearing. [@1,4]
 
 Asked where it came from, the man said the substance was his and that he kept it
-for his own use. [@1] Officers seized the substance and sent it for expert
+for his own use. [@1,4] Officers seized the substance and sent it for expert
 examination to establish its chemical composition. [@1] The case is still under
 investigation to establish all the circumstances. [@1]
 
@@ -91,3 +102,4 @@ with the two bags of suspected marijuana. [@3] The Border Police renewed its
 commitment to fighting cross-border crime and asked citizens to help maintain
 the state's security. [@2]
 
+NewsMaker reported that the account came in a statement by the Customs Service, which said customs officers, border police and Frontex officers decided on the extra check from a risk analysis. [@5]
