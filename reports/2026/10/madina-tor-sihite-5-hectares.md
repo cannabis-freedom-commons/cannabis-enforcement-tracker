@@ -170,6 +170,9 @@ open_questions:
   - This account dates the initiating public tip to Thursday 29 October 2026, while the existing report follows a 26 October tip with a 29 October follow-up check from other outlets; 31 October 2026 as the destruction date is not in dispute.
   - This account gives plant height as one to 1.5 metres, while the existing report describes the plants as about one to two metres tall.
   - 'The page displays its main field photo credited only as Dok: Abednego Manalu, apparently republishing the agency handout pattern already listed, so no new media entry is added.'
+  - The Karosatuklik and VIVA Medan pages give no weight, value or hectare split for the Tor Sihite field beyond the plant counts already reported.
+  - Neither page names a grower, owner or manager, a charge or a court step.
+  - The photos on the Karosatuklik page are filed as Facebook image grabs with no caption or credit establishing which part of the operation they show, so no media entry is added for them.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -436,6 +439,11 @@ sources:
     publisher: Tekape.co
     date: 2026-11-06
     language: id
+  - title: 7,5 Jam Berjalan Kaki, Tim Gabungan Polda Sumut Bongkar Ladang Ganja 5 Hektare di Madina
+    url: https://karosatuklik.com/75-jam-berjalan-kaki-tim-gabungan-polda-sumut-bongkar-ladang-ganja-5-hektare-di-madina/amp/
+    publisher: Karosatuklik.com
+    date: 2026-11-06
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -559,3 +567,5 @@ At provincial police headquarters on 5 November 2026, provincial police public r
 The operation drew on the North Sumatra police drug directorate, BNN North Sumatra, Madina police and the Madina public order agency (Satpol PP). [@52]
 
 The Mandailing Natal police drug unit followed up the public information with the North Sumatra police drug directorate before the wider joint team was formed. [@53]
+
+The tip that started the operation went to the Mandailing Natal police drug unit, Satresnarkoba Polres Mandailing Natal, which coordinated with the North Sumatra police drug directorate before other agencies joined the joint operation. [@54]
