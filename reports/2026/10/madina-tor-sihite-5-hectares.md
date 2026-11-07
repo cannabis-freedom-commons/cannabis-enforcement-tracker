@@ -165,6 +165,8 @@ open_questions:
   - This account gives the walk to the site as 7.5 hours arriving about 14.00 WIB, while the report's main account says about seven hours one way and 14 hours round trip and other accounts say eight or nine hours.
   - This account gives plant height as up to 1.5 metres, while the report describes the plants as about one to two metres tall.
   - The page's lead photo carries the same file name and address as the Akurat Sumut image already listed in the report's media, so no duplicate media entry is added.
+  - This account dates the public report that started the operation to Thursday 29 October 2026, while the report follows a 26 October tip and a 29 October follow-up check from other outlets.
+  - The VIVA text dates Ferry's statement to Kamis 5 Oktober 2026, apparently a typo for 5 November 2026 given the page's publication date.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -421,6 +423,11 @@ sources:
     publisher: Tabloid Polmas Poldasu
     date: 2026-11-05
     language: id
+  - title: Jalan Kaki 7,5 Jam Lewati Medan Terjal, Polda Sumut dan BNN Temukan 5 Hektare Ladang Ganja di Madina
+    url: https://medan.viva.co.id/sumut/15700-jalan-kaki-75-jam-lewati-medan-terjal-polda-sumut-dan-bnn-temukan-5-hektare-ladang-ganja-di-madina
+    publisher: VIVA Medan
+    date: 2026-11-05
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -521,7 +528,7 @@ The five-hectare fields sat at 1,117 metres above sea level. [@19,32,34,36,37] T
 
 The investigation team reached the two plots through community gardens and the Tor Sihite hill forest after about six hours on foot. [@22]
 
-Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27,28,29,35,36,39,40,41,43,44,46,47,48,50,51] The joint team walked about nine hours to reach the fields. [@24,28,29,31,34,39] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24,29,39,40,43]
+Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27,28,29,35,36,39,40,41,43,44,46,47,48,50,51,52] The joint team walked about nine hours to reach the fields. [@24,28,29,31,34,39,52] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24,29,39,40,43]
 
 The team finished the destruction at 16.00 WIB and returned to the assembly point at 21.00 WIB. [@26,35]
 
@@ -540,3 +547,5 @@ In this account the operation followed a follow-up by the Mandailing Natal polic
 Officers who swept the field found no one they suspected of owning or managing it. [@47,48,50]
 
 At provincial police headquarters on 5 November 2026, provincial police public relations chief Kombes Pol. Ferry Walintukan said the force was ordered to leave no room for drug trafficking in North Sumatra, including crackdowns on any planting, production or distribution of drugs. [@49]
+
+The operation drew on the North Sumatra police drug directorate, BNN North Sumatra, Madina police and the Madina public order agency (Satpol PP). [@52]
