@@ -41,6 +41,11 @@ media:
     media_url: https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/pratidin/media/media_files/2026/11/07/web-drugs-2026-11-07-18-18-07.jpeg
     publisher: Pratidin Time
     caption: Page picture filed as 'web drugs' with no credit and no caption identifying this seizure, so it cannot be confirmed to show the Dahung consignment.
+  - kind: photo
+    url: https://www.indiatodayne.in/arunachal-pradesh/story/arunachal-police-seize-18-kg-cannabis-in-joint-operation-in-west-kameng-one-held-1472634-2026-11-07
+    media_url: https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202611/6aef27102eaaa-arunachal-cannabis-072639371-16x9.jpg?size=948:533
+    publisher: India TodayNE
+    caption: Page picture filed as 'arunachal-cannabis' with no credit; the page gives no caption confirming what it depicts, so it cannot be confirmed to show the Dahung consignment.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3802c0287a7f4cc3fdfce67bc6876fd8
@@ -50,6 +55,10 @@ sources:
     url: https://www.pratidintime.com/north-east/arunachal-police-seize-18-kg-cannabis-bound-for-assam-one-apprehended-12792210
     publisher: Pratidin Time
     date: 2026-11-07
+  - title: Arunachal Police seize 18 kg cannabis in joint operation in West Kameng, one held
+    url: https://www.indiatodayne.in/arunachal-pradesh/story/arunachal-police-seize-18-kg-cannabis-in-joint-operation-in-west-kameng-one-held-1472634-2026-11-07
+    publisher: India TodayNE
+    date: 2026-11-07
 open_questions:
   - Only one account of this seizure, by Pratidin Time reporting a police release, could be opened; no police statement or second outlet report was found.
   - The cannabis weight is given as approximately 18 kg, not an exact measured figure, and no value estimate was published.
@@ -58,18 +67,20 @@ open_questions:
   - The seized cannabis is described only as 'cannabis'; whether it was dried flower is not stated.
   - The page picture is filed only as 'web drugs', carries no credit and is not shown to depict this consignment.
   - Dahung is placed here at the West Kameng district centre because no source gives Dahung's coordinates.
+  - This second outlet still quotes a single police release; neither page publishes the charge, a case number or the suspect's identity.
+  - The cannabis is described only as 'cannabis'; whether it was dried flower is not stated.
+  - Dahung is placed at the West Kameng district centre because no source gives Dahung's coordinates.
 ---
 
 Arunachal Pradesh police seized about 18 kg of cannabis and apprehended one
 person in a joint anti-narcotics operation in the Dahung-Tenga area of West
-Kameng district on Saturday, 7 November 2026. [@1]
+Kameng district on Saturday, 7 November 2026. [@1,2]
 
 The operation followed intelligence inputs that Gajraj Military Intelligence
 shared with Arunachal Police to intercept the illegal transport of narcotics.
-[@1] The consignment was seized at Dahung at about 10:30 am, according to
-information released on 7 November. [@1] The cannabis was reportedly being
-carried from Boha village under Kalaktang Circle towards Tezpur in Assam. [@1]
+[@1,2] The consignment was seized at Dahung at about 10:30 am, according to
+information released on 7 November. [@1,2] The cannabis was reportedly being
+carried from Boha village under Kalaktang Circle towards Tezpur in Assam. [@1,2]
 
 The person apprehended was handed over to Singchung Police Station, where police
-registered a case and began an investigation. [@1]
-
+registered a case and began an investigation. [@1,2]
