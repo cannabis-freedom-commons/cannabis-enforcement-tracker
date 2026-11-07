@@ -2,6 +2,7 @@ import { execFileSync } from "node:child_process";
 import { isDeepStrictEqual } from "node:util";
 import { load } from "js-yaml";
 import { repositoryURL } from "./changelog.js";
+import { gitCache, readBlobs } from "./git-blobs.js";
 
 export const reportSourceURL = (path) => `${repositoryURL}/blob/main/${path.split("/").map(encodeURIComponent).join("/")}`;
 
@@ -35,21 +36,16 @@ export function readReportHistory(cwd = process.cwd()) {
     const oldPath = tokens[++i], path = /^[RC]/.test(status) ? tokens[++i] : oldPath;
     const compare = !/^[ADC]/.test(status) && before !== after && !/^0+$/.test(before) && !/^0+$/.test(after);
     changes.push({ date, oldPath, path, before, after, status, compare });
-    if (compare) { blobs.add(before); blobs.add(after); }
+  }
+  // Whether one version differs editorially from another never changes: only new pairs are read.
+  const cache = gitCache(cwd, "report-edits-v1");
+  for (const { before, after, compare } of changes) {
+    if (compare && cache.get(`${before}:${after}`) === undefined) { blobs.add(before); blobs.add(after); }
   }
   const contents = new Map();
   if (blobs.size) {
     try {
-      const data = git(["cat-file", "--batch"], { encoding: null, input: [...blobs].join("\n") + "\n", stdio: ["pipe", "pipe", "ignore"] });
-      let offset = 0;
-      while (offset < data.length) {
-        const end = data.indexOf(10, offset);
-        const [hash, type, length] = data.subarray(offset, end).toString().split(" ");
-        if (type !== "blob" || !Number.isFinite(Number(length))) throw new Error("unavailable report blob");
-        const size = Number(length);
-        contents.set(hash, editorial(data.subarray(end + 1, end + 1 + size).toString()));
-        offset = end + size + 2;
-      }
+      for (const [hash, value] of readBlobs(cwd, blobs, editorial)) contents.set(hash, value);
     } catch { /* Missing historical objects leave update times unknown. */ }
   }
   for (const change of changes) {
@@ -58,7 +54,12 @@ export function readReportHistory(cwd = process.cwd()) {
     if (status === "D" || status.startsWith("R")) history.delete(oldPath);
     if (status === "D" || !path?.startsWith("reports/") || !path.endsWith(".md")) continue;
     const added = status === "A" || status.startsWith("C");
-    const edited = compare && contents.has(before) && contents.has(after) && !isDeepStrictEqual(contents.get(before), contents.get(after));
+    const pair = `${before}:${after}`;
+    let edited = compare && cache.get(pair);
+    if (compare && edited === undefined && contents.has(before) && contents.has(after)) {
+      edited = !isDeepStrictEqual(contents.get(before), contents.get(after));
+      cache.set(pair, edited);
+    }
     history.set(path, {
       date,
       addedAt: shallow ? null : added ? new Date(date).toISOString() : previous?.addedAt ?? null,
@@ -66,5 +67,6 @@ export function readReportHistory(cwd = process.cwd()) {
       url: reportSourceURL(path),
     });
   }
+  cache.save(changes.filter((change) => change.compare).map((change) => `${change.before}:${change.after}`));
   return history;
 }

@@ -1,7 +1,9 @@
 // Build-time history only. First-parent diffs describe each change as it reached this branch,
 // including merged work once. Read blobs in one batch, never from the working tree.
 import { execFileSync } from "node:child_process";
+import { createHash } from "node:crypto";
 import { load } from "js-yaml";
+import { gitCache, readBlobs } from "./git-blobs.js";
 
 export const repositoryURL = "https://github.com/burningtree/cannabis-freedom-index-tracker";
 const isReport = (path) => path.startsWith("reports/") && path.endsWith(".md");
@@ -28,27 +30,31 @@ export function readChangelog(cwd = process.cwd()) {
       const kind = !isReport(newPath) || status === "D" ? "deleted"
         : !isReport(oldPath) || status === "A" || status.startsWith("C") ? "added"
         : status.startsWith("R") ? "renamed" : "edited";
-      const change = { kind, oldPath, path: newPath, oldBlob, newBlob };
-      commit.changes.push(change);
-      for (const blob of [oldBlob, newBlob]) if (!/^0+$/.test(blob)) blobs.add(blob);
+      commit.changes.push({ kind, oldPath, path: newPath, oldBlob, newBlob });
     }
   }
-  const snapshots = new Map();
-  if (blobs.size) {
-    const output = run(["cat-file", "--batch"], { input: [...blobs].join("\n") + "\n" });
-    let offset = 0;
-    while (offset < output.length) {
-      const end = output.indexOf(10, offset);
-      const [hash, , size] = output.subarray(offset, end).toString().split(" ");
-      const text = output.subarray(end + 1, end + 1 + Number(size)).toString();
-      const match = text.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)([\s\S]*)/);
-      let data = {};
-      try { data = match ? load(match[1]) ?? {} : {}; } catch { /* older invalid YAML still has a file link */ }
-      snapshots.set(hash, { data, body: match?.[2] ?? text });
-      offset = end + 1 + Number(size) + 1;
-    }
+  // A commit's rows never change: only commits not built before read their report versions.
+  const cache = gitCache(cwd, "changelog-rows-v1");
+  const fresh = [];
+  for (const commit of commits) {
+    const cached = commit.changes.length ? cache.get(commit.hash) : undefined;
+    if (cached) { commit.changes = cached; continue; }
+    if (!commit.changes.length) continue;
+    fresh.push(commit);
+    for (const change of commit.changes) for (const blob of [change.oldBlob, change.newBlob]) if (!/^0+$/.test(blob)) blobs.add(blob);
   }
-  for (const commit of commits) for (const change of commit.changes) {
+  // Keep what the rows show, and a digest of everything else: a report's versions are compared, not stored.
+  const digest = (value) => createHash("sha1").update(JSON.stringify(value) ?? "").digest("base64");
+  const snapshots = readBlobs(cwd, blobs, (text) => {
+    const match = text.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)([\s\S]*)/);
+    let data = {};
+    try { data = match ? load(match[1]) ?? {} : {}; } catch { /* older invalid YAML still has a file link */ }
+    if (typeof data !== "object" || Array.isArray(data)) data = {};
+    const { title, summary, country, type, also, date } = data;
+    const fields = Object.fromEntries(Object.entries(data).map(([key, value]) => [key, digest(value)]));
+    return { data: { title, summary, country, type, also, date }, fields, body: digest((match?.[2] ?? text).trim()) };
+  });
+  for (const commit of fresh) for (const change of commit.changes) {
     const before = snapshots.get(change.oldBlob), after = snapshots.get(change.newBlob);
     change.title = (change.kind === "deleted" ? before : after)?.data.title || slugOf(change.path);
     const snapshot = change.kind === "deleted" ? before : after;
@@ -61,14 +67,16 @@ export function readChangelog(cwd = process.cwd()) {
     change.slug = slugOf(change.path);
     change.fields = [];
     if (before && after) {
-      for (const key of new Set([...Object.keys(before.data), ...Object.keys(after.data)])) {
-        if (JSON.stringify(before.data[key]) !== JSON.stringify(after.data[key])) change.fields.push(key.replaceAll("_", " "));
+      for (const key of new Set([...Object.keys(before.fields), ...Object.keys(after.fields)])) {
+        if (before.fields[key] !== after.fields[key]) change.fields.push(key.replaceAll("_", " "));
       }
-      if (before.body.trim() !== after.body.trim()) change.fields.push("report text");
+      if (before.body !== after.body) change.fields.push("report text");
     }
     delete change.oldBlob;
     delete change.newBlob;
   }
+  for (const commit of fresh) cache.set(commit.hash, commit.changes);
+  cache.save(commits.filter((commit) => commit.changes.length).map((commit) => commit.hash));
   return { commits, shallow };
 }
 

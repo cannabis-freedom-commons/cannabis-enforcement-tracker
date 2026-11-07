@@ -25,7 +25,7 @@ test("dev reports and commits stay quiet until manual refresh; code still hot re
   try {
     mkdirSync(join(root, "src/pages/changelog"), { recursive: true });
     for (const dir of ["src/lib", "src/data", "src/pages/api/country", "src/pages/report", "src/pages/reports", "src/pages/r", "reports"]) mkdirSync(join(root, dir), { recursive: true });
-    for (const name of ["reports", "types", "countries", "map", "code", "figures", "details", "media", "media-manifest", "figure-filters", "stats", "atlas-countries", "report-time", "report-history", "changelog"]) copyFileSync(resolve(`src/lib/${name}.js`), join(root, `src/lib/${name}.js`));
+    for (const name of ["reports", "types", "countries", "map", "code", "figures", "details", "media", "media-manifest", "figure-filters", "stats", "atlas-countries", "report-time", "report-history", "changelog", "git-blobs"]) copyFileSync(resolve(`src/lib/${name}.js`), join(root, `src/lib/${name}.js`));
     copyFileSync(resolve("src/data/countries.json"), join(root, "src/data/countries.json"));
     copyFileSync(resolve("src/data/exchange-rates.json"), join(root, "src/data/exchange-rates.json"));
     for (const name of ["vocabularies", "agencies", "media"]) copyFileSync(resolve(`src/data/${name}.json`), join(root, `src/data/${name}.json`));

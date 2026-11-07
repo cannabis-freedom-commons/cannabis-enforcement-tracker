@@ -39,6 +39,25 @@ test("history reads committed titles and identifies additions, edits, renames an
     assert.equal(commits[1].changes[0].description, "Police arrested 3 people.");
     assert.equal(commits[4].changes[0].description, "Police arrested 2 people.");
     assert.deepEqual(commits[3].changes[0].fields, ["summary", "figures"]);
+    // the second read comes from the cache and matches; a new commit is read and added to it
+    assert.deepEqual(readChangelog(cwd).commits, commits);
+    commit("Re-add report");
+    const again = readChangelog(cwd).commits;
+    assert.equal(again.length, 6);
+    assert.equal(again[0].changes[0].kind, "added");
+    assert.equal(again[0].changes[0].title, "Uncommitted report");
+    assert.deepEqual(again.slice(1), commits);
+  } finally { rmSync(cwd, { recursive: true, force: true }); }
+});
+
+test("report versions are read in batches, beyond one child-process buffer", async () => {
+  const { readBlobs } = await import("../src/lib/git-blobs.js");
+  const cwd = mkdtempSync(join(tmpdir(), "tracker-blobs-"));
+  try {
+    execFileSync("git", ["init"], { cwd, stdio: "pipe" });
+    const hashes = ["a", "b", "c"].map((text) => execFileSync("git", ["hash-object", "-w", "--stdin"], { cwd, input: text }).toString().trim());
+    const read = readBlobs(cwd, hashes, (text) => text.toUpperCase(), 2);
+    assert.deepEqual([...read.values()], ["A", "B", "C"]);
   } finally { rmSync(cwd, { recursive: true, force: true }); }
 });
 
