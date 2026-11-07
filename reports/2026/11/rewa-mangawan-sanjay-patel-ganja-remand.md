@@ -47,6 +47,11 @@ sources:
     publisher: दैनिक भास्कर हिन्दी (Dainik Bhaskar Hindi)
     date: 2026-11-06
     language: hi
+  - title: 'Rewa News: गांजा तस्करी के कुख्यात संजय पटेल से खुलेगा तस्करी नेटवर्क का राज'
+    url: https://www.bhaskarhindi.com/city/rewa/notorious-cannabis-smuggler-sanjay-patel-to-reveal-secrets-of-the-smuggling-network-1388333
+    publisher: दैनिक भास्कर हिन्दी (Dainik Bhaskar Hindi)
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The source gives no date for the remand hearing or for the original Sidhi arrest; 6 November 2026 is the article's publication date and is used as the incident date.
   - No district or police unit is named for the gunfire case in which Aditya Mishra was freed from Odisha police custody.
@@ -54,18 +59,19 @@ open_questions:
   - The charges or NDPS Act sections in the earlier Mangawan cases are not stated individually.
   - No court outcome or further remand was reported beyond the one-day police custody.
   - Only one account of this remand was found, and searches in Hindi and English produced no second outlet reporting it.
+  - The submitted page and the page already cited are two near-identical Bhaskar articles (IDs 1388333 and 1388194) published minutes apart, so they are not independent accounts.
 ---
 
 Mangawan police in Rewa district took custody of alleged ganja smuggler Sanjay
-Patel on a one-day police remand granted by a court. [@1] He is described as the
+Patel on a one-day police remand granted by a court. [@1,2] He is described as the
 main accused in the case of freeing ganja smuggler Aditya Mishra from Odisha
-police custody in an exchange of gunfire. [@1] Sidhi police had earlier arrested
+police custody in an exchange of gunfire. [@1,2] Sidhi police had earlier arrested
 Sanjay Patel in Prayagraj before Mangawan station police obtained him on remand.
-[@1]
+[@1,2]
 
 Mangawan police station had more than two earlier ganja trafficking cases
 registered against him, and police said he had been on the run in them for a
-long time. [@1] Officers are questioning him about the ganja smuggling network,
+long time. [@1,2] Officers are questioning him about the ganja smuggling network,
 the earlier cases and his links to other suspects. [@1]
 
 Police sources said the questioning had already produced significant information
@@ -80,4 +86,3 @@ network. [@1]
 The investigation now extends beyond the old cases to linking his contacts and
 the wider smuggling network, and police may examine other suspects' roles based
 on the questioning. [@1]
-
