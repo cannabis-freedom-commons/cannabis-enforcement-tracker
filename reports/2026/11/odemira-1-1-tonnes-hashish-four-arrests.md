@@ -73,6 +73,11 @@ sources:
     publisher: Braga TV
     date: 2026-11-06
     language: pt
+  - title: Operação “Barcas” – Detidos quatro suspeitos de tráfico de droga por via marítima e apreendidas 1,1 toneladas de haxixe
+    url: https://www.ruadireita.pt/ultima-hora/operacao-barcas-detidos-quatro-suspeitos-de-trafico-de-droga-por-via-maritima-e-apreendidas-11-toneladas-de-haxixe-62970.html
+    publisher: Rua Direita
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
@@ -85,6 +90,9 @@ open_questions:
   - The PJ statement page on policiajudiciaria.pt could not be opened, so it provides no corroborating quotation.
   - Braga TV gives no separate date for the operation; 6 November 2026 is its publication date, and the tracker report dates the event the same way.
   - The article's only picture is captioned as an illustrative image, so it is not established to show this seizure and none is listed as media.
+  - Rua Direita gives no separate date for the police action, only that the detainees would appear in court 'today', its publication date of 6 November 2026.
+  - The page's only image is a generic file named drugs.jpg with no caption or credit, so no event photo is listed from this page.
+  - Beyond the house-search sentence, the page's body paragraphs could not be validated against the captured text, so none of its other sentences are quoted here.
 ---
 
 Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
@@ -113,4 +121,4 @@ The operation was run by the PJ's National Unit to Combat Drug Trafficking (UNCT
 
 All four suspects were placed in pre-trial detention after a first judicial interrogation on Friday. [@6]
 
-House searches also turned up a car with false number plates and various communications equipment, alongside the surveillance cameras. [@7]
+House searches also turned up a car with false number plates and various communications equipment, alongside the surveillance cameras. [@7,8]
