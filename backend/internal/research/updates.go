@@ -39,18 +39,21 @@ func (u ReportUpdate) validate(sources int, cited map[int]bool) error {
 	if !slug.MatchString(u.Report) || len(u.Report) > 100 {
 		return errors.New("invalid report to update")
 	}
-	if len(u.Facts) == 0 || len(u.Facts) > 30 || len(u.Uncertainties) > 30 {
-		return errors.New("invalid report update")
+	if len(u.Facts) == 0 || len(u.Facts) > 30 {
+		return fmt.Errorf("the update of %s needs 1–30 facts (it has %d): each names a source of this answer, quotes it, and gives the report's sentence it supports", u.Report, len(u.Facts))
 	}
-	for _, f := range u.Facts {
-		if err := validateMergeFact(f); err != nil {
-			return err
+	if len(u.Uncertainties) > 30 {
+		return fmt.Errorf("the update of %s has %d open questions; at most 30", u.Report, len(u.Uncertainties))
+	}
+	for i, f := range u.Facts {
+		if p := mergeProblem(f); p != "" {
+			return fmt.Errorf("update of %s, fact %d (%q): %s", u.Report, i+1, excerpt(f.Text), p)
 		}
-		if f.Source < 1 || f.Source > sources || len(f.Text) < 10 || len(f.Text) > 2000 || len(f.Quote) < 20 || len(f.Quote) > 4000 || plain.MatchString(f.Text) {
-			return errors.New("invalid report update fact")
+		if p := factProblem(f, sources); p != "" {
+			return fmt.Errorf("update of %s, fact %d (%q): %s", u.Report, i+1, excerpt(f.Text), p)
 		}
 		if cited != nil && !cited[f.Source] {
-			return errors.New("a report update may only use sources the answer cites")
+			return fmt.Errorf("update of %s, fact %d (%q): source %d is not cited by any of the answer's own facts; a report update may only use sources the answer cites", u.Report, i+1, excerpt(f.Text), f.Source)
 		}
 	}
 	for _, q := range u.Uncertainties {
@@ -58,8 +61,15 @@ func (u ReportUpdate) validate(sources int, cited map[int]bool) error {
 			return errors.New("invalid open question")
 		}
 	}
-	if len(u.Title) > 120 || len(u.Summary) > 400 || plain.MatchString(u.Title) || plain.MatchString(u.Summary) {
-		return errors.New("invalid corrected title or summary")
+	if u.Title != "" {
+		if p := textProblem("the corrected title of "+u.Report, u.Title, 120); p != "" {
+			return errors.New(p)
+		}
+	}
+	if u.Summary != "" {
+		if p := textProblem("the corrected summary of "+u.Report, u.Summary, 400); p != "" {
+			return errors.New(p)
+		}
 	}
 	return nil
 }
@@ -199,8 +209,8 @@ func mergeReport(dir string, u ReportUpdate, sources []Source, media []Media, cu
 	var newSources, newMedia []*yaml.Node
 	archivesChanged := false
 	pendingSources := map[string]int{}
-	for _, f := range u.Facts {
-		if err := validateMergeFact(f); err != nil {
+	for i, f := range u.Facts {
+		if err := validateMergeFact(f, i); err != nil {
 			return d, err
 		}
 		if f.Source < 1 || f.Source > len(sources) {

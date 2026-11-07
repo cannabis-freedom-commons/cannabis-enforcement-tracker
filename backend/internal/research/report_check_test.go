@@ -3,7 +3,9 @@ package research
 import (
 	"os"
 	"path/filepath"
+	"runtime"
 	"strings"
+	"sync"
 	"testing"
 )
 
@@ -12,22 +14,38 @@ const repo = "../../.." // the repository root, from this package
 // every report in the repository passes the site's own schema and tests, so it must pass here too:
 // the check may not be stricter than the site
 func TestCheckReportAcceptsEveryExistingReport(t *testing.T) {
-	n := 0
+	var paths []string
 	filepath.WalkDir(filepath.Join(repo, "reports"), func(path string, d os.DirEntry, err error) error {
 		if err != nil || d.IsDir() || !strings.HasSuffix(path, ".md") {
 			return err
 		}
-		b, _ := os.ReadFile(path)
-		rel, _ := filepath.Rel(repo, path)
-		if err := CheckReport(repo, rel, string(b)); err != nil {
-			t.Errorf("%s: %v", rel, err)
-		}
-		n++
+		paths = append(paths, path)
 		return nil
 	})
-	if n < 100 {
-		t.Fatal("reports not found", n)
+	if len(paths) < 100 {
+		t.Fatal("reports not found", len(paths))
 	}
+	// thousands of reports: checked on every core
+	work := make(chan string)
+	var wg sync.WaitGroup
+	for range runtime.GOMAXPROCS(0) {
+		wg.Add(1)
+		go func() {
+			defer wg.Done()
+			for path := range work {
+				b, _ := os.ReadFile(path)
+				rel, _ := filepath.Rel(repo, path)
+				if err := CheckReport(repo, rel, string(b)); err != nil {
+					t.Errorf("%s: %v", rel, err)
+				}
+			}
+		}()
+	}
+	for _, path := range paths {
+		work <- path
+	}
+	close(work)
+	wg.Wait()
 }
 
 func TestCheckReportNamesWhatIsWrong(t *testing.T) {

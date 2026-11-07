@@ -254,6 +254,10 @@ func CheckReport(dir, rel, content string) error {
 }
 
 func countryIDs(dir string) (map[string]bool, error) {
+	return cachedLoad("countries", []string{filepath.Join(dir, "src/data/countries.json")}, func() (map[string]bool, error) { return readCountryIDs(dir) })
+}
+
+func readCountryIDs(dir string) (map[string]bool, error) {
 	b, err := os.ReadFile(filepath.Join(dir, "src/data/countries.json"))
 	if err != nil {
 		return nil, fmt.Errorf("country list unavailable: %v", err)
@@ -404,6 +408,16 @@ func checkDetails(dir string, v any, countries map[string]bool) error {
 	b, err := json.Marshal(plainDates(v))
 	if err != nil {
 		return err
+	}
+	// an answer may give one term for a list (Terms), but a file must hold the list, as the site's schema requires
+	if m, ok := v.(map[string]any); ok {
+		for _, key := range []string{"agencies", "agency_types", "activity", "setting", "environment", "charges", "sentence_types", "force", "related"} {
+			if value, present := m[key]; present {
+				if _, list := value.([]any); !list {
+					return fmt.Errorf("details: %s must be a list, for example %s: [%v]", key, key, value)
+				}
+			}
+		}
 	}
 	var d Details
 	decoder := json.NewDecoder(bytes.NewReader(b))

@@ -3,6 +3,7 @@ package research
 import (
 	"encoding/json"
 	"errors"
+	"fmt"
 	"os"
 	"path/filepath"
 	"strings"
@@ -10,9 +11,9 @@ import (
 	"gopkg.in/yaml.v3"
 )
 
-func validateMergeFact(f Fact) error {
-	if len(f.ExistingText) > 2000 || plain.MatchString(f.ExistingText) || (f.ExistingText != "" && f.NewDetail) {
-		return errors.New("invalid existing sentence or conflicting merge instructions")
+func validateMergeFact(f Fact, i int) error {
+	if p := mergeProblem(f); p != "" {
+		return fmt.Errorf("fact %d (%q): %s", i+1, excerpt(f.Text), p)
 	}
 	return nil
 }

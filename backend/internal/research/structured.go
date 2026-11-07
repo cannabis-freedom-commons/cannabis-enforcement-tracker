@@ -19,22 +19,44 @@ import (
 // and how far the case went. Every value needs a supporting quotation (DataQuote), checked like
 // the facts' quotations; an unsupported value is left out with an open question.
 type Details struct {
-	Agencies      []string  `json:"agencies,omitempty"`     // registry ids (src/data/agencies.json) or names as published
-	AgencyTypes   []string  `json:"agency_types,omitempty"` // vocabulary agency_type
+	Agencies      Terms     `json:"agencies,omitempty"`     // registry ids (src/data/agencies.json) or names as published
+	AgencyTypes   Terms     `json:"agency_types,omitempty"` // vocabulary agency_type
 	Products      []Product `json:"products,omitempty"`
-	Activity      []string  `json:"activity,omitempty"`
-	Setting       []string  `json:"setting,omitempty"`
-	Environment   []string  `json:"environment,omitempty"`
-	Charges       []string  `json:"charges,omitempty"` // as stated: "cultivation without a licence"
+	Activity      Terms     `json:"activity,omitempty"`
+	Setting       Terms     `json:"setting,omitempty"`
+	Environment   Terms     `json:"environment,omitempty"`
+	Charges       Terms     `json:"charges,omitempty"` // as stated: "cultivation without a licence"
 	CaseStage     string    `json:"case_stage,omitempty"`
-	SentenceTypes []string  `json:"sentence_types,omitempty"`
-	Force         []string  `json:"force,omitempty"`
+	SentenceTypes Terms     `json:"sentence_types,omitempty"`
+	Force         Terms     `json:"force,omitempty"`
 	Period        *Period   `json:"period,omitempty"`
 	DatePrecision string    `json:"date_precision,omitempty"`
 	Region        string    `json:"region,omitempty"` // the state, province or district, in English
 	Route         *Route    `json:"route,omitempty"`
 	PartOf        string    `json:"part_of,omitempty"` // a campaign report this event is a component of
-	Related       []string  `json:"related,omitempty"` // other stages or parts of the same case
+	Related       Terms     `json:"related,omitempty"` // other stages or parts of the same case
+}
+
+// Terms is a list of terms that also accepts a single term: the model often writes force: "lethal"
+// where the format takes [lethal], and a parse error rejected the whole answer for it.
+type Terms []string
+
+func (t *Terms) UnmarshalJSON(b []byte) error {
+	var one string
+	if json.Unmarshal(b, &one) == nil {
+		if one == "" {
+			*t = nil
+		} else {
+			*t = Terms{one}
+		}
+		return nil
+	}
+	var list []string
+	if err := json.Unmarshal(b, &list); err != nil {
+		return err
+	}
+	*t = list
+	return nil
 }
 
 type Product struct {
@@ -70,6 +92,11 @@ type Vocabularies struct {
 }
 
 func LoadVocabularies(repo string) (Vocabularies, error) {
+	paths := []string{filepath.Join(repo, "src/data/vocabularies.json"), filepath.Join(repo, "src/data/agencies.json")}
+	return cachedLoad("vocabularies", paths, func() (Vocabularies, error) { return readVocabularies(repo) })
+}
+
+func readVocabularies(repo string) (Vocabularies, error) {
 	v := Vocabularies{Terms: map[string]map[string]bool{}, Agencies: map[string]bool{}}
 	b, err := os.ReadFile(filepath.Join(repo, "src/data/vocabularies.json"))
 	if err != nil {

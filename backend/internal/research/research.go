@@ -256,8 +256,8 @@ func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error
 	}
 	updated := map[string]bool{r.Slug: r.Outcome != "additional_source", r.ExistingReport: r.Outcome == "additional_source"}
 	cited := map[int]bool{}
-	for _, f := range r.Facts {
-		if err := validateMergeFact(f); err != nil {
+	for i, f := range r.Facts {
+		if err := validateMergeFact(f, i); err != nil {
 			return err
 		}
 		cited[f.Source] = true
@@ -267,7 +267,7 @@ func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error
 			return err
 		}
 		if updated[u.Report] {
-			return errors.New("a report is updated twice")
+			return fmt.Errorf("the report %s is updated twice: put all its facts in one update (and never update the report this answer itself writes or adds a source to)", u.Report)
 		}
 		updated[u.Report] = true
 	}
@@ -300,7 +300,10 @@ func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error
 	}
 	for _, t := range r.Also {
 		if t == r.Type || !strings.Contains(types, "|"+t+"|") {
-			return errors.New("invalid also type")
+			if t == r.Type {
+				return fmt.Errorf("also lists %q, which is already the type: also holds only the other kinds", t)
+			}
+			return fmt.Errorf("also lists %q, which is not a report type (types: %s)", t, strings.Join(strings.Split(strings.Trim(types, "|"), "|"), ", "))
 		}
 	}
 	if len(r.Coordinates) != 2 || r.Coordinates[0] < -90 || r.Coordinates[0] > 90 || r.Coordinates[1] < -180 || r.Coordinates[1] > 180 || !strings.Contains(precisions, "|"+r.Precision+"|") || r.Precision == "" {
@@ -331,24 +334,30 @@ func (r Result) Validate(countries map[string]bool, vocab ...Vocabularies) error
 	if err := r.validateMedia(); err != nil {
 		return err
 	}
-	if len(r.Title) == 0 || len(r.Title) > 120 || len(r.Summary) == 0 || len(r.Summary) > 400 || plain.MatchString(r.Title) || plain.MatchString(r.Summary) {
-		return errors.New("invalid title or summary")
+	if p := textProblem("the title", r.Title, 120); p != "" {
+		return errors.New(p)
 	}
-	if strings.Contains(r.Title, "[@") || strings.Contains(r.Summary, "[@") {
-		return errors.New("the title and summary take no citations ([@n]); cite in the facts")
+	if p := textProblem("the summary", r.Summary, 400); p != "" {
+		return errors.New(p)
 	}
 	if len(r.Sources) == 0 || len(r.Facts) == 0 {
 		return errors.New("missing evidence")
 	}
 	used := map[int]bool{}
-	for _, f := range r.Facts {
-		if f.Paragraph < 0 || f.Paragraph > 30 || f.Source < 1 || f.Source > len(r.Sources) || len(f.Text) < 10 || len(f.Text) > 2000 || len(f.Quote) < 20 || len(f.Quote) > 4000 || plain.MatchString(f.Text) {
-			return errors.New("invalid fact or source reference")
+	for i, f := range r.Facts {
+		if p := factProblem(f, len(r.Sources)); p != "" {
+			return fmt.Errorf("fact %d (%q): %s", i+1, excerpt(f.Text), p)
 		}
 		used[f.Source] = true
 	}
-	if len(used) != len(r.Sources) {
-		return errors.New("uncited source")
+	var uncited []string
+	for i, s := range r.Sources {
+		if !used[i+1] {
+			uncited = append(uncited, fmt.Sprintf("source %d (%s)", i+1, s.URL))
+		}
+	}
+	if len(uncited) > 0 {
+		return fmt.Errorf("%s supports no fact: every listed source must be the source of at least one fact; cite it from the fact it supports or remove it from sources (and renumber the facts' sources)", strings.Join(uncited, ", "))
 	}
 	return nil
 }
