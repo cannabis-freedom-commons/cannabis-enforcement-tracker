@@ -93,6 +93,11 @@ sources:
     publisher: Rádio Sines
     date: 2026-11-06
     language: pt
+  - title: Detidos quatro suspeitos e apreendidas 1,1 toneladas de haxixe na costa alentejana
+    url: https://www.cmjornal.pt/cmtv/videos/detalhe/20261107-113630-detidos-quatro-suspeitos-e-apreendidas-1-1-toneladas-de-haxixe-na-costa-alentejana
+    publisher: Correio da Manhã
+    date: 2026-11-07
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
@@ -114,6 +119,9 @@ open_questions:
   - The article gives no separate date for the police action, only that it ran over recent days and that the detainees would face a first judicial interrogation on Friday, 6 November 2026, which is also its publication date.
   - The page's second picture illustrates an earlier feature on trafficking along the Portuguese coast, not this operation, so only the first image is listed.
   - Rádio Sines gives no separate date for the police action beyond saying it ran over the last few days, and no court outcome is reported.
+  - The video page gives no separate operation date; 7 November 2026 is its publication date.
+  - The page names only the Alentejo coast and gives no operation details beyond the headline summary.
+  - The listed page image has no caption or credit establishing it shows this seizure, so no media is listed.
 media:
   - kind: photo
     url: https://m.noticiasaominuto.com/pais/3079796/narcotrafico-4-detidos-e-1-1-toneladas-de-polen-de-haxixe-em-odemira
@@ -128,7 +136,7 @@ tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
 were to be brought before a judge for a first judicial interrogation and
 coercive measures. [@1]
 
-Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7,9,10] The
+Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7,9,10,12] The
 operation began after authorities spotted a suspicious high-speed vessel crewed
 by unidentified people whose presence near the Portuguese coast was unjustified.
 [@1] House searches led to the seizure of a car with a false number plate. [@1]
@@ -142,7 +150,7 @@ recent days with support from the Navy and the Air Force. [@2,9] It also had
 support from the Maritime Analysis and Operations Centre – Drugs, an
 international cooperation body against trafficking by sea. [@2,9,10]
 
-The four detainees are aged between 16 and 43 and are foreign nationals. [@3,7] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3,7]
+The four detainees are aged between 16 and 43 and are foreign nationals. [@3,7,12] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3,7]
 
 The operation was run by the PJ's National Unit to Combat Drug Trafficking (UNCTE) and the GNR's Coastal and Border Control Unit (UCCF). [@5] Police said the action followed the identification of a suspect high-value vessel crewed by several unidentified people whose presence near the Portuguese coast was unjustified. [@5]
 
