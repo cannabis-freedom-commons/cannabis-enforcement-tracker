@@ -100,6 +100,11 @@ sources:
     publisher: Espos.id
     date: 2026-11-07
     language: id
+  - title: 'Foto : Pria di Salatiga Diduga Tanam Ganja, Polisi Sita 85 Pot dan Biji Kering Halaman 1'
+    url: https://regional.kompas.com/image/2026/11/07/133920178/pria-di-salatiga-diduga-tanam-ganja-polisi-sita-85-pot-dan-biji-kering
+    publisher: Kompas.com
+    date: 2026-11-07
+    language: id
 open_questions:
   - No weight was published for the dried cannabis found alongside the 85 pots, so no kilogram figure is recorded.
   - The articles give the number of pots (85) but no count of individual plants, and no area.
@@ -117,6 +122,8 @@ open_questions:
   - Murianews describes the grow as inside the occupied house and in pots and polybags, while the existing report describes a rooftop grow in 85 pots; the more precise structure (rooftop versus interior) remains unresolved.
   - Espos.id attributes the account to Kapolres Salatiga AKBP Afrito Marbaro, while the report's account comes from narcotics chief AKP Joko Iskandar; both speak for the same Polres Salatiga investigation.
   - Espos.id describes the grow as inside a house and does not mention a rooftop, which the earlier reports named.
+  - Kompas.com describes the grow as at the house where the suspect lived without specifying the rooftop location named in earlier reports.
+  - Kompas gives no count of individual plants behind the 85 pots, so the plant count remains unknown.
 ---
 
 Police from the narcotics unit at Salatiga district police arrested a
@@ -146,3 +153,5 @@ dozens of potted cannabis plants on his rooftop. [@3]
 Alongside the 85 pots, police seized 7.01 grams of cannabis seeds and 15.48 grams of dried cannabis. [@4,6] Police said the suspect faces Article 111 paragraph (2) of Law Number 35 of 2009 on Narcotics in conjunction with Law Number 1 of 2026 on Criminal Penalty Adjustment. [@4] The man told investigators he kept cannabis plants, leaves and dried seeds at his house as a supply for his own consumption. [@4]
 
 The occupied house was in Perumahan Mekar Elok, Tingkir Tengah, Tingkir, Kota Salatiga. [@5,6]
+
+Salatiga police chief AKBP Afrito Marbaro announced the arrest and said one suspect was held in the case. [@4] The man lived in Perumahan Mekar Elok housing estate in Kelurahan Tingkir Tengah, Kecamatan Tingkir, Kota Salatiga. [@4] The officers who acted were from Satresnarkoba, the narcotics unit of Salatiga district police. [@7]
