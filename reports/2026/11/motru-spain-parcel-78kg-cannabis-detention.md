@@ -35,8 +35,8 @@ data_sources:
     details.products: [1]
     details.route: [1]
     details.setting: [1]
-    figures.arrested: [5]
-    figures.kg_seized: [5]
+    figures.arrested: [10]
+    figures.kg_seized: [10]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 59e2e57eb24f139b0c99ce2b4e1bd517
@@ -87,6 +87,11 @@ sources:
     publisher: Radio Târgu Jiu
     date: 2026-11-06
     language: ro
+  - title: Droguri trimise din Spania, captură de 7,8 kg la Motru
+    url: https://jurnalulolteniei.ro/droguri-trimise-din-spania-captura-de-78-kg-la-motru/
+    publisher: Jurnalul Olteniei
+    date: 2026-11-06
+    language: ro
 open_questions:
   - Only one accessible account of this event could be opened; the DIICOT and IPJ Gorj statements were not reachable and searches found no second outlet reporting it.
   - No court decision on the two preventive-arrest requests had been reported when the article was published.
@@ -102,6 +107,10 @@ open_questions:
   - The page carries no photo of the Motru seizure or the Țânțăreni grow; its images are YouTube stills of other TVR Craiova bulletins.
   - The Radio Târgu Jiu account gives no street value for the 7.8 kg and no court date, so nothing is added on those points.
   - The page's lead image is a screenshot still and the page carries no photo established to show this parcel or the arrest; its only video is an unattributed WhatsApp clip embedded below the text.
+  - The Jurnalul Olteniei page gives no date for the arrest itself; 6 November 2026 is its publication date, and the report keeps 4 November from the larger Gorj coverage.
+  - The page reports the preventive-arrest request to the Gorj Tribunal but not the court's decision.
+  - The page does not identify the two men or give a street value for the 7.8 kg.
+  - The page's still photo carries no credit and only a caption placeholder, so it is not established to show this parcel; its embedded video shows the cannabis but has no stated source.
 media:
   - kind: video
     url: https://www.gorjonline.ro/video-captura-de-78-kilograme-de-canabis-la-motru-un-barbat-a-fost-prins-cand-ridica-drogurile-ascunse-intr-un-colet-cu-alimente/
@@ -123,29 +132,39 @@ media:
     media_url: https://media.radiotargujiu.ro/wp-content/uploads/video/2026/11/whatsapp-video-2026-11-05-at-18-24-45-f9c72f.mp4
     publisher: Radio Târgu Jiu
     caption: Video embedded in the Radio Târgu Jiu report on the 7.8 kg cannabis parcel taken over in Motru; the page gives no credit for it.
+  - kind: photo
+    url: https://jurnalulolteniei.ro/droguri-trimise-din-spania-captura-de-78-kg-la-motru/
+    media_url: https://jurnalulolteniei.ro/wp-content/uploads/2026/11/YzViN2M3NWU3OTRhOWVjNTMzNWJjZjY3ODE4OAthumb_.jpg
+    publisher: Jurnalul Olteniei
+    caption: Photo published with the Jurnalul Olteniei report on the 7.8 kg cannabis parcel taken over in Motru, showing cannabis buds in two open metal tins among packing material; the page gives no credit.
+  - kind: video
+    url: https://jurnalulolteniei.ro/droguri-trimise-din-spania-captura-de-78-kg-la-motru/
+    media_url: https://jurnalulolteniei.ro/wp-content/uploads/2026/11/1000268098.mp4
+    publisher: Jurnalul Olteniei
+    caption: Video embedded in the Jurnalul Olteniei report on the 7.8 kg cannabis parcel intercepted at Motru; the page gives no credit.
 ---
 
 Officers of the Gorj organised-crime police and prosecutors of the DIICOT Gorj
 territorial office ran the operation that intercepted the parcel. [@1,2,3,4,5,8] A
 32-year-old man was caught in the act in Motru on 4 November 2026 as he was
-about to take possession of a parcel sent from abroad. [@1,2,3,5] DIICOT prosecutors
+about to take possession of a parcel sent from abroad. [@1,2,3,5,10] DIICOT prosecutors
 ordered the 32-year-old detained on 4 November in a case concerning his alleged
 role in bringing risk drugs into the country and selling them. [@1,3,4,5]
 
 Officers found about 7.8 kilograms of cannabis inside the parcel, a quantity
 prosecutors said was meant for sale. [@1,2,3,5,8,9] The cannabis was divided into eight
 vacuum-sealed bags hidden among sweets, juices, canned food, oil bottles and
-cold cuts. [@1,2,3,5,9] The packing was meant to disguise the shipment so the parcel
+cold cuts. [@1,2,3,5,9,10] The packing was meant to disguise the shipment so the parcel
 would look like an ordinary consignment of food sent from abroad. [@1]
 
 Investigators found that the plant material had allegedly been procured and sent
 by another man, aged 34, living in Spain. [@1,2,3,4,5,8,9] The 34-year-old is a relative of
-the man caught in the act, according to the Gorj county police. [@1,3,4] The
+the man caught in the act, according to the Gorj county police. [@1,3,4,10] The
 investigation concerns international trafficking in risk drugs and risk-drug
 trafficking, and investigators suspect the drugs brought into the country were
 to be sold. [@1] On 5 November prosecutors asked a Gorj Tribunal judge to place
 the detained man in preventive arrest and to order preventive arrest in absentia
-for the 34-year-old in Spain. [@1,2,3,4,5] No court decision on those requests had been
+for the 34-year-old in Spain. [@1,2,3,4,5,10] No court decision on those requests had been
 announced when the information was released, and the investigation continues.
 [@1] Both suspects retain the presumption of innocence until a final court
 judgment. [@1]
