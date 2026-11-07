@@ -68,6 +68,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-05
     language: hi
+  - title: 'पटना: राजापुल के पास गांजा, हथियार संग शातिर गिरफ्तार'
+    url: https://www.prabhatkhabar.com/state/bihar/patna/shrikrishnapuri-police-arrest-criminal-arms-ganja/amp
+    publisher: Prabhat Khabar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither article gives a separate date for the raid; 5 November 2026 is the publication date of both accounts and is used as the incident date.
   - The ganja weight is given only as about one kilogram, so the figure is approximate.
@@ -82,6 +87,7 @@ open_questions:
   - The page's only listed image uses a July 2025 Patna image address with a generic headline caption and no credit showing this seizure, so no media entry is included.
   - The new account writes Rajapul where the existing report writes Rajapur Gumti for the same junction; the report keeps Rajapur Gumti.
   - The page's only image is labelled as a file photo of the Shri Krishnapuri station, so no new event photo is added.
+  - The published page image is captioned as a file photo of the Shri Krishnapuri police station, so no photo of the raid or the recovery is added from this account.
 ---
 
 Patna police arrested a young man they named as Shivam Kumar near Rajapur Gumti,
@@ -98,9 +104,11 @@ was selling ganja from the kiosk. [@1] The SDPO said Shivam Kumar had a criminal
 history and had been jailed before in a ganja buying-and-selling case. [@1]
 Kumar and Shri Krishnapuri station house officer Jitendra Rana gave the details
 at a press conference. [@1] Police said they were questioning him about where
-the ganja came from and whether others were part of the trade. [@1] Deshpatra
+the ganja came from and whether others were part of the trade. [@1,5] Deshpatra
 reported that police would also act against anyone else found involved. [@2]
 
 Live Hindustan reports that one country-made pistol, two cartridges and about one kilogram of ganja were recovered from Shivam Kumar. [@3] Shivam Kumar is 23 years old, originally from Khudanagar in Nalanda, and lived on rent near the Pranami temple at Rajapur. [@3] Three NDPS Act cases were already registered against Shivam Kumar at Shri Krishnapuri police station. [@3,4] He had been absconding since his name surfaced in narcotics recoveries in September and February. [@3,4] Police said ganja had been sold at the spot for a long time. [@3] Police were questioning him to trace other members of his gang. [@3]
 
-Shivam Kumar tried to run on seeing the police and was caught after a chase. [@4] The arrest was made under a special pre-Diwali drive against criminals and illegal activity in the Shri Krishnapuri station area. [@4]
+Shivam Kumar tried to run on seeing the police and was caught after a chase. [@4,5] The arrest was made under a special pre-Diwali drive against criminals and illegal activity in the Shri Krishnapuri station area. [@4]
+
+During questioning, Shivam Kumar named other members of his gang and some of the traffickers who supplied the ganja, and police were raiding to identify and arrest them. [@5]
