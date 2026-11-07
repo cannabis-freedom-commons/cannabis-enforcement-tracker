@@ -26,6 +26,7 @@ details:
   agency_types: [anti-narcotics]
   case_stage: charged
   products: [{product: flower, kg: 17.92}]
+  route: {from: [th], to: [gb], crossing: Ghana}
   setting: [airport]
 data_sources:
   details.activity: [1, 3]
@@ -33,6 +34,7 @@ data_sources:
   details.agency_types: [2, 3]
   details.case_stage: [1, 3]
   details.products: [1, 2, 3]
+  details.route: [2, 3]
   details.setting: [1, 2, 3]
   figures.charged: [1, 3]
   figures.kg_seized: [2, 3, 1]

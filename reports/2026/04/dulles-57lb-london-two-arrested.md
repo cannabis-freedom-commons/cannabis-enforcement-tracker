@@ -28,6 +28,7 @@ details:
   agency_types: [customs]
   case_stage: charged
   date_precision: exact
+  route: {from: [us], to: [gb]}
   setting: [airport]
   products:
     - {product: flower}
@@ -38,6 +39,7 @@ data_sources:
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.charged: [1]
   figures.kg_seized: [1]

@@ -14,8 +14,10 @@ summary: >-
 created_by_model: unknown
 details:
   products: [{product: hashish}, {product: flower}]
+  route: {from: [ma], to: [eg, sd], crossing: Mauritania–Mali–Niger–Chad}
 data_sources:
   details.products: [1]
+  details.route: [1]
 status: verified
 cfi_id: niger-resin-seizures-2006-2007
 sources:

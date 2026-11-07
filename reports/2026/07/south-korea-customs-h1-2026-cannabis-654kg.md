@@ -19,6 +19,7 @@ details:
   products:
     - {product: flower, kg: 654}
   activity: [smuggling]
+  route: {from: [th], to: [kr]}
   setting: [airport, mail]
   case_stage: investigation
   date_precision: exact
@@ -29,6 +30,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [2]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [2]
 media:

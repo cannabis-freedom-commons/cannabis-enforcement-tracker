@@ -20,12 +20,14 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  route: {from: [ma], to: [ru]}
   setting: [home]
 data_sources:
   details.activity: [2, 1, 4]
   details.agency_types: [1, 3]
   details.case_stage: [1, 3]
   details.products: [1]
+  details.route: [1]
   details.setting: [1, 4]
   figures.arrested: [1, 3]
   figures.kg_seized: [2, 1]

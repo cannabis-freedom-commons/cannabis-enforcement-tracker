@@ -27,6 +27,7 @@ details:
   products:
     - {product: hashish}
   sentence_types: [prison]
+  route: {from: [ma], to: [fr], crossing: Spain}
   setting: [prison]
 data_sources:
   details.activity: [2, 1, 3]
@@ -35,6 +36,7 @@ data_sources:
   details.case_stage: [2, 1, 3]
   details.date_precision: [2, 1, 3]
   details.products: [1, 2, 3]
+  details.route: [1, 2]
   details.sentence_types: [2, 1, 3]
   details.setting: [2, 1, 3]
   figures.kg_seized: [1, 3]

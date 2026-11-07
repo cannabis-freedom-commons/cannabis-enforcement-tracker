@@ -60,12 +60,14 @@ details:
     case_stage: sentenced
     sentence_types: [prison, fine]
     date_precision: exact
+    route: {from: [ma], to: [fr]}
     setting: [prison]
 data_sources:
     details.activity: [3]
     details.agencies: [3]
     details.agency_types: [3]
     details.case_stage: [3]
+    details.route: [1]
     details.sentence_types: [3]
     details.setting: [3]
     figures.arrested: [1, 2]

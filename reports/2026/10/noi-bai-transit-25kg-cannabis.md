@@ -37,6 +37,7 @@ details:
   case_stage: convicted
   date_precision: exact
   products: [{product: flower, kg: 25.4}]
+  route: {from: [kh], to: [fr], crossing: Vietnam}
   setting: [airport]
 data_sources:
   details.activity: [3, 6, 13, 14, 12, 8]
@@ -44,6 +45,7 @@ data_sources:
   details.case_stage: [1, 2, 3, 5, 6, 7]
   details.date_precision: [1, 2, 3, 4, 6, 7]
   details.products: [1, 2, 3, 5, 6, 7]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1, 2, 3, 5, 6, 7]
 status: verified
