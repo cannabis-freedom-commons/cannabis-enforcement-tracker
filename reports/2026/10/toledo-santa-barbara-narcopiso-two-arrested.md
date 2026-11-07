@@ -45,6 +45,11 @@ sources:
     publisher: La Razón
     date: 2026-11-06
     language: es
+  - title: 'Narcopiso en Santa Bárbara: dos detenidos con cocaína y marihuana'
+    url: https://www.covertalavera.com/narcopiso-santa-barbara-toledo-detenidos/
+    publisher: Cover Talavera
+    date: 2026-11-07
+    language: es
 open_questions:
   - No weight or street value was published for the 53 bags of marijuana buds or the 26 cocaine wraps, so no cannabis kilograms can be recorded.
   - No charges, court referral or custody decision were reported for the two detainees.
@@ -56,16 +61,16 @@ open_questions:
 
 Spain's National Police, working with Toledo's local police, dismantled a drug
 flat in the Santa Bárbara neighbourhood of Toledo from which a man and a woman
-sold cocaine and marijuana directly to consumers. [@1,3] Officers detained the
+sold cocaine and marijuana directly to consumers. [@1,3,4] Officers detained the
 two, a man and a woman, over the flat. [@2]
 
 The investigation began with anonymous tips from several residents who told
-officers they suspected drug sales in the neighbourhood. [@1,3]
+officers they suspected drug sales in the neighbourhood. [@1,3,4]
 
-On 28 October 2026 officers searched the home the two used as a drug flat. [@1,3]
+On 28 October 2026 officers searched the home the two used as a drug flat. [@1,3,4]
 In a kitchen cupboard they found 26 wraps of cocaine and 53 heat-sealed bags of
-marijuana buds, prepared for distribution. [@1,3] Officers also found a precision
-scale and 710 euros in cash. [@1,3]
+marijuana buds, prepared for distribution. [@1,3,4] Officers also found a precision
+scale and 710 euros in cash. [@1,3,4]
 
 The operation involved the provincial judicial police brigade, the Toledo
 National Police station's prevention and reaction unit (UPR) and the local
