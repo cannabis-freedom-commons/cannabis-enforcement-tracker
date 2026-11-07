@@ -19,6 +19,7 @@ figures:
   kg_seized: 43300
 created_by_model: meta/muse-spark
 details:
+  activity: [smuggling]
   agencies: [ca-rcmp, ca-cbsa]
   agency_types: [police, customs]
   case_stage: investigation
@@ -28,6 +29,7 @@ details:
   route: {from: [pk], to: [ca]}
   setting: [port]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

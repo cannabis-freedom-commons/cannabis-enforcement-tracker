@@ -23,6 +23,7 @@ details:
   agencies: [cl-pdi]
   agency_types: [anti-narcotics, police, prosecutor]
   date_precision: exact
+  environment: [outdoor]
   products:
     - {product: flower, kg: 15500}
     - {product: plants, plants: 293000}
@@ -36,6 +37,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
+  details.environment: [1, 4, 3]
   details.period: [4]
   details.products: [1]
   details.setting: [1]

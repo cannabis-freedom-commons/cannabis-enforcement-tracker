@@ -15,10 +15,12 @@ summary: >-
 figures:
   kg_seized: 398
 details:
+  activity: [trafficking]
   agency_types: [police]
   products: [{product: flower, kg: 398}]
   setting: [border]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]

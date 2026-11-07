@@ -21,6 +21,7 @@ media:
     publisher: O TEMPO
     caption: 'Police photo of the seized package of marijuana. Photo: PMMG / Divulgação'
 details:
+  activity: [trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
@@ -29,6 +30,7 @@ details:
     - {product: flower}
   setting: [home]
 data_sources:
+  details.activity: [1, 3, 4, 2]
   details.agencies: [1, 2, 4]
   details.agency_types: [1, 2, 4]
   details.case_stage: [1, 4, 3, 2]

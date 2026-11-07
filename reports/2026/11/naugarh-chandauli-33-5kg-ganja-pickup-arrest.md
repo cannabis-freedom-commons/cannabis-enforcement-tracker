@@ -12,11 +12,17 @@ summary: >-
   Police in Naugarh, Chandauli district, arrested a man with 33.5 kg of ganja hidden in a concealed chamber under the cargo bed of a Magic pickup on the night of 5 November 2026. The load, which the suspect said came from Ambikapur and was bound for Varanasi, was seized along with the vehicle under the NDPS Act.
 details:
   activity: [smuggling, trafficking]
+  agency_types: [police]
+  case_stage: investigation
+  products: [{product: flower}]
   setting: [vehicle]
   date_precision: exact
   region: Uttar Pradesh
 data_sources:
   details.activity: [2]
+  details.agency_types: [3, 2, 1]
+  details.case_stage: [3, 2, 1]
+  details.products: [3, 2, 1]
   details.setting: [2]
 media:
   - kind: photo

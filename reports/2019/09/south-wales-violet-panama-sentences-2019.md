@@ -36,6 +36,7 @@ media:
     caption: Police raid carried out as part of the operation in November 2017
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [gb-nca]
   agency_types: [police]
   case_stage: sentenced
@@ -43,6 +44,7 @@ details:
   sentence_types: [prison]
   setting: [building, prison]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

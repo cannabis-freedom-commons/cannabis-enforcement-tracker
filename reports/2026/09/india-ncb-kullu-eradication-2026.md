@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   activity: [cultivation]
+  agency_types: [anti-narcotics]
   setting: [forest]
 data_sources:
   details.activity: [1]
+  details.agency_types: [1]
   details.setting: [1]
 status: verified
 cfi_id: india-ncb-kullu-eradication-2026

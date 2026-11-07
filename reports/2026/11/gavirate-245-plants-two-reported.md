@@ -35,12 +35,14 @@ details:
   agency_types: [customs]
   case_stage: investigation
   products: [{product: flower}]
+  setting: [farm]
 data_sources:
   details.activity: [1, 3, 4, 5, 6, 7]
   details.agencies: [1, 3, 4, 5, 6, 7, 8, 9, 10]
   details.agency_types: [1, 3, 4, 5, 6, 7, 8, 9, 10]
   details.case_stage: [1, 3, 4, 5, 6, 7]
   details.products: [1, 3, 4, 5, 6, 7]
+  details.setting: [1, 3, 4, 5, 6, 7]
   figures.plants_destroyed: [1, 3, 4, 5, 6, 7]
   figures.value: [1, 3, 5, 9, 4, 8]
 status: reported

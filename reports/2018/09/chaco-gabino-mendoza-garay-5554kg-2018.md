@@ -25,12 +25,14 @@ media:
     publisher: ABC Color
     caption: A second ABC Color picture from the story, published without a caption or credit; the page places it with the account of the two loads.
 details:
+  activity: [smuggling, trafficking]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
   date_precision: exact
   products: [{product: flower, kg: 5554}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.date_precision: [2, 1, 3]

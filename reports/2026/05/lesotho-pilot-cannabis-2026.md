@@ -13,11 +13,13 @@ summary: >-
   were allegations, not court findings.
 created_by_model: unknown
 details:
+  activity: [smuggling]
   agency_types: [police]
   products: [{product: flower}]
   sentence_types: [fine]
   setting: [airport]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
   details.sentence_types: [1]

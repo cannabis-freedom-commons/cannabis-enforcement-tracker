@@ -26,11 +26,13 @@ media:
     caption: Photo published with Agencia IP's report on the SENAD operation in Hernandarias
 created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
 details:
+  activity: [smuggling]
   agencies: [py-senad]
   agency_types: [anti-narcotics]
   case_stage: investigation
   products: [{product: flower, kg: 48.5}]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

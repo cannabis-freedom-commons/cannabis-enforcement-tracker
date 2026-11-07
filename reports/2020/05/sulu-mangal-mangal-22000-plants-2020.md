@@ -21,6 +21,7 @@ figures:
 details:
   agencies: [ph-pdea, Naval Forces Western Mindanao, Marine Battalion Landing Team-7]
   agency_types: [military, anti-narcotics]
+  environment: [outdoor]
   products:
     - {product: plants, plants: 22000}
   activity: [cultivation]
@@ -33,6 +34,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.environment: [2, 1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

@@ -35,12 +35,14 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  setting: [farm]
 data_sources:
   details.activity: [2, 3, 4, 1]
   details.agency_types: [2, 3, 4, 1]
   details.case_stage: [4, 1, 3, 2]
   details.date_precision: [2, 3, 4, 1]
   details.products: [2]
+  details.setting: [2, 3, 4, 1]
   figures.plants_destroyed: [2, 3, 4]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

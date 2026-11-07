@@ -19,6 +19,7 @@ figures:
   kg_seized: 2000
 created_by_model: meta/muse-spark
 details:
+  activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
@@ -26,6 +27,7 @@ details:
     - {product: hashish}
   setting: [vehicle]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

@@ -26,6 +26,7 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 1.1002}]
   sentence_types: [death]
+  setting: [home]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
@@ -34,6 +35,7 @@ data_sources:
   details.date_precision: [2]
   details.products: [1, 2]
   details.sentence_types: [2]
+  details.setting: [2]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]
 status: verified

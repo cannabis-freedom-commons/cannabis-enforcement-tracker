@@ -11,6 +11,22 @@ also: [seizure]
 title: Kathmandu hotel arrest nets Myanmar woman and two Indians in ganja case
 summary: >-
   Nepal's Narcotics Control Bureau arrested a Myanmar woman, Jin Jin Phyo, at a hotel in Kathmandu's Sohrakhutte with hydroponic ganja in her suitcase, after she flew in from Vietnam via Hong Kong. Two men from Gorakhpur, India, who were to take the load on to Delhi were also arrested in the case.
+details:
+  activity: [smuggling, trafficking]
+  agency_types: [anti-narcotics]
+  case_stage: investigation
+  environment: [indoor]
+  products: [{product: flower}]
+  route: {from: [vn], to: [np, in], crossing: via Hong Kong}
+  setting: [building]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.environment: [1]
+  details.products: [1]
+  details.route: [1]
+  details.setting: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0933dab54000ac637e50dea6b123255f

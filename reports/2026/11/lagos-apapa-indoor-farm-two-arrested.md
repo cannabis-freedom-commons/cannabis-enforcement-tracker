@@ -43,6 +43,7 @@ details:
   date_precision: exact
   environment: [indoor]
   products: [{product: plants}]
+  setting: [farm]
 data_sources:
   details.activity: [4, 24, 31, 3, 14, 1]
   details.agencies: [14]
@@ -51,6 +52,7 @@ data_sources:
   details.date_precision: [1, 7, 8, 9, 11, 12]
   details.environment: [1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
   details.products: [3, 24, 4, 14]
+  details.setting: [1, 3, 5, 6, 7, 8]
   figures.arrested: [1, 3, 5, 6, 7, 8]
 status: reported
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

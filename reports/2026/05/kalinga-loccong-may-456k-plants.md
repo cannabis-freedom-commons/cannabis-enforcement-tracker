@@ -27,6 +27,7 @@ details:
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   date_precision: exact
+  environment: [outdoor]
   products: [{product: flower}]
   setting: [field]
 data_sources:
@@ -35,6 +36,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.date_precision: [2, 1]
+  details.environment: [2, 1]
   details.products: [2, 1]
   details.setting: [2, 1]
   figures.hectares: [2, 1]

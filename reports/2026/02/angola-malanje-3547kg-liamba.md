@@ -21,12 +21,14 @@ figures:
   value: { amount: 14000000, currency: AOA }
 created_by_model: openai/gpt-6-luna#max
 details:
+  activity: [smuggling]
   agency_types: [prosecutor]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 3547.5}]
   setting: [street]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

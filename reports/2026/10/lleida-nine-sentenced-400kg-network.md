@@ -31,6 +31,7 @@ media:
     publisher: Segre
     caption: 'The trial at the Lleida courts on the morning of 29 October 2026. Photo: Albert Guerrero'
 details:
+  activity: [smuggling]
   agencies: [es-mossos]
   agency_types: [police]
   case_stage: sentenced
@@ -40,6 +41,7 @@ details:
   sentence_types: [prison]
   setting: [vehicle, home, building]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 3]

@@ -16,11 +16,13 @@ figures:
   kg_seized: 9000
   value: { amount: 15300000, currency: USD }
 details:
+  activity: [trafficking]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   products: [{product: flower, kg: 9000}]
   setting: [home]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

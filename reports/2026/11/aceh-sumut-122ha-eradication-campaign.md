@@ -49,6 +49,7 @@ details:
   agency_types: [anti-narcotics]
   case_stage: sentenced
   date_precision: exact
+  environment: [outdoor]
   products: [{product: plants, plants: 150000}, {product: seeds}]
   sentence_types: [life]
   setting: [field, forest, prison]
@@ -58,6 +59,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 8, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 25, 27, 28, 29, 30]
   details.case_stage: [1, 4, 6, 9, 11, 13]
   details.date_precision: [1, 13, 29, 9, 10, 12]
+  details.environment: [28, 29, 30]
   details.products: [1, 3, 4, 6, 7, 9]
   details.sentence_types: [21]
   details.setting: [27, 28, 29, 30, 1, 4]

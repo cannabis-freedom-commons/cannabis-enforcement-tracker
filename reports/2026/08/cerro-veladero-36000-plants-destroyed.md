@@ -20,6 +20,7 @@ details:
   agency_types: [prosecutor]
   activity: [cultivation]
   date_precision: exact
+  environment: [outdoor]
   products: [{product: plants, plants: 36000}]
   setting: [field]
 data_sources:
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.date_precision: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]

@@ -18,12 +18,14 @@ details:
   activity: [cultivation]
   agency_types: [customs]
   case_stage: investigation
+  environment: [outdoor]
   products: [{product: flower, kg: 2880}]
   setting: [field]
 data_sources:
   details.activity: [3, 1]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 3]
+  details.environment: [3, 1]
   details.products: [1, 2, 3]
   details.setting: [3, 1]
   figures.arrested: [1, 3]

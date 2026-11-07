@@ -20,6 +20,7 @@ figures:
     amount: 2000000
     currency: EUR
 details:
+  activity: [smuggling]
   agencies: [fr-gendarmerie]
   agency_types: [gendarmerie]
   date_precision: exact
@@ -30,6 +31,7 @@ details:
   sentence_types: [prison]
   region: Réunion
 data_sources:
+  details.activity: [1, 3, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [4]

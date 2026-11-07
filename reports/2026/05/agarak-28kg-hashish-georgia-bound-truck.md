@@ -26,6 +26,7 @@ media:
     publisher: Armenpress
     caption: Photo published with the Armenpress report on the hashish seized from the truck at Agarak.
 details:
+  activity: [smuggling]
   agency_types: [customs]
   case_stage: investigation
   products:
@@ -33,6 +34,7 @@ details:
   route: {from: [ir], to: [ge], crossing: 'Armenia transit'}
   setting: [border, vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

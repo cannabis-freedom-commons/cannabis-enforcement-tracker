@@ -22,6 +22,7 @@ details:
   agency_types: [police, court]
   case_stage: sentenced
   date_precision: exact
+  environment: [outdoor]
   products: [{product: plants}]
   sentence_types: [prison]
   setting: [field, home, building]
@@ -30,6 +31,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
+  details.environment: [1, 2]
   details.products: [2]
   details.sentence_types: [1]
   details.setting: [1, 2]

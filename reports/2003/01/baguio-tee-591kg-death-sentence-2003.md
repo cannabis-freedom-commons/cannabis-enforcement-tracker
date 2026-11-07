@@ -36,6 +36,7 @@ data_sources:
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.charged: [1, 2]
+  figures.fine: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 tags: [death-penalty, baguio, supreme-court]

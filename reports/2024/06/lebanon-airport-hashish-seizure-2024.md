@@ -12,11 +12,13 @@ summary: >-
   seizures reported in 2024.
 created_by_model: unknown
 details:
+  activity: [smuggling]
   agency_types: [customs]
   case_stage: investigation
   products: [{product: hashish}]
   setting: [airport]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

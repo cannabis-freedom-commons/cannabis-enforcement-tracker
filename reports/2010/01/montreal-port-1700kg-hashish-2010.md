@@ -17,12 +17,14 @@ figures:
   kg_seized: 1700
   value: { amount: 36000000, currency: CAD }
 details:
+  activity: [smuggling]
   agencies: [ca-rcmp, ca-cbsa]
   agency_types: [police, customs]
   date_precision: exact
   products: [{product: hashish, kg: 1700}]
   setting: [port]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.date_precision: [1]

@@ -29,6 +29,7 @@ details:
   sentence_types: [probation, fine]
   date_precision: publication
   region: Buckinghamshire
+  setting: [farm]
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
@@ -37,6 +38,7 @@ data_sources:
   details.charges: [1]
   details.case_stage: [1]
   details.sentence_types: [1]
+  details.setting: [1]
   figures.charged: [1]
   figures.convicted: [1]
   figures.sentenced: [1]

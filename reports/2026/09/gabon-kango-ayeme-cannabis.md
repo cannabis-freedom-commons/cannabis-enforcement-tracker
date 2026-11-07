@@ -24,6 +24,7 @@ details:
   agency_types: [gendarmerie, court]
   case_stage: investigation
   date_precision: exact
+  environment: [outdoor]
   products: [{product: plants}]
   setting: [field]
 data_sources:
@@ -31,6 +32,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

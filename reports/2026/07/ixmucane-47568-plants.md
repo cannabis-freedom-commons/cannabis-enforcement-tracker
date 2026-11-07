@@ -18,11 +18,13 @@ figures:
 details:
   activity: [trafficking, cultivation]
   agency_types: [military, anti-narcotics, police]
+  environment: [outdoor]
   products: [{product: flower}, {product: plants, plants: 47568}]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
   figures.value: [1]

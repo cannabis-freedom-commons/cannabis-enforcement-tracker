@@ -41,6 +41,7 @@ details:
   agencies: [de-bka]
   agency_types: [police]
   case_stage: investigation
+  environment: [outdoor]
   products: [{product: hashish, kg: 12.5}, {product: flower}]
   setting: [field]
 data_sources:
@@ -48,6 +49,7 @@ data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1, 4, 7, 8, 9, 10]
+  details.environment: [1, 4, 7, 8, 9, 13]
   details.products: [2, 5, 9, 1, 4, 6]
   details.setting: [1, 4, 7, 8, 9, 3]
   figures.arrested: [1, 4, 7, 8, 9, 3]

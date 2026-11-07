@@ -16,6 +16,7 @@ figures:
 details:
   agency_types: [police]
   activity: [possession]
+  products: [{product: flower}]
   setting: [shop]
   case_stage: investigation
   region: Tamil Nadu
@@ -23,6 +24,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [2]
+  details.products: [1, 2, 3]
   details.setting: [1]
   figures.arrested: [1]
 status: verified

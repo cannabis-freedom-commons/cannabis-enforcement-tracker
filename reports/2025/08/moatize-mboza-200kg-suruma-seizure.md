@@ -18,10 +18,12 @@ figures:
     amount: 6000000
     currency: MZN
 details:
+  activity: [smuggling]
   case_stage: investigation
   products: [{product: flower, kg: 200}]
   setting: [border, vehicle, home]
 data_sources:
+  details.activity: [3, 2]
   details.case_stage: [1, 2, 3]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]

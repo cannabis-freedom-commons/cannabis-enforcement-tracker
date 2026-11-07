@@ -23,6 +23,7 @@ details:
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
   case_stage: investigation
+  environment: [outdoor]
   products:
     - {product: hashish}
   setting: [field, home]
@@ -31,6 +32,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]

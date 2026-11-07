@@ -18,6 +18,7 @@ figures:
     amount: 1000000
     currency: EUR
 details:
+  activity: [smuggling]
   agency_types: [gendarmerie, military, court]
   case_stage: investigation
   date_precision: exact
@@ -25,6 +26,7 @@ details:
   route: {from: [af], to: [mu]}
   setting: [vehicle]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [2]
   details.case_stage: [2, 1]
   details.date_precision: [2]

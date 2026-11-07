@@ -17,6 +17,7 @@ details:
   agency_types: [military]
   case_stage: investigation
   date_precision: exact
+  environment: [outdoor]
   products: [{product: flower, kg: 456.725}]
   setting: [vehicle]
 data_sources:
@@ -24,6 +25,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.date_precision: [1, 2]
+  details.environment: [1]
   details.products: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1, 2]

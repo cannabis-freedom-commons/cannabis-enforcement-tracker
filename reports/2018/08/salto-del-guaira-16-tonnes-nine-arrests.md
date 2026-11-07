@@ -21,6 +21,7 @@ details:
   activity: [trafficking, cultivation]
   agency_types: [customs, police, prosecutor]
   case_stage: investigation
+  environment: [outdoor]
   products: [{product: flower, kg: 16000}]
   route: {from: [py], to: [br]}
   setting: [field]
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.environment: [1]
   details.products: [1]
   details.route: [1]
   details.setting: [1]

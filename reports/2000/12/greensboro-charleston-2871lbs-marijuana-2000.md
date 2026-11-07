@@ -19,11 +19,13 @@ figures:
   value: { amount: 1200000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling, trafficking]
   agency_types: [customs]
   case_stage: investigation
   products: [{product: flower, kg: 1302.3}]
   setting: [port, vehicle]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.products: [1, 2]

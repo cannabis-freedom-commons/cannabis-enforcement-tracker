@@ -22,6 +22,7 @@ details:
   agencies: [id-polri]
   agency_types: [police]
   date_precision: exact
+  environment: [outdoor]
   products: [{product: plants, plants: 226}]
   setting: [field]
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.date_precision: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]

@@ -25,6 +25,7 @@ details:
   date_precision: exact
   force: [lethal]
   products: [{product: flower}]
+  setting: [field]
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 2, 4, 3]
@@ -32,6 +33,7 @@ data_sources:
   details.date_precision: [1, 2, 4]
   details.force: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2, 4, 3]
   figures.arrested: [1, 2]
   figures.deaths: [1, 2]
 status: verified

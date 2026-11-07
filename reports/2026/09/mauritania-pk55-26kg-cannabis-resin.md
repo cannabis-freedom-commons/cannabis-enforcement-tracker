@@ -21,6 +21,7 @@ figures:
   arrested: 2
 created_by_model: command-code/deepseek-v4.1-flash#max
 details:
+  activity: [trafficking]
   agency_types: [gendarmerie]
   case_stage: investigation
   date_precision: exact
@@ -28,6 +29,7 @@ details:
     - {product: hashish}
   setting: [border]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

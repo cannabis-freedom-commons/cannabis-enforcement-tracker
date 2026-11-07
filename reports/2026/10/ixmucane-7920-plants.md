@@ -21,12 +21,14 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}, {product: plants, plants: 7920}]
+  setting: [farm]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
   details.date_precision: [1]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]
   figures.value: [1, 2]
 status: verified

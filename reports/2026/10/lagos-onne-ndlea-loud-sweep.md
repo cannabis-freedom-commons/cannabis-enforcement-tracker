@@ -17,6 +17,7 @@ summary: >-
 figures:
   kg_seized: 1443.5
 details:
+  activity: [trafficking]
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics]
   date_precision: exact
@@ -24,6 +25,7 @@ details:
   route: {from: [th], to: [ng]}
   setting: [mail]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.date_precision: [1, 2, 3]

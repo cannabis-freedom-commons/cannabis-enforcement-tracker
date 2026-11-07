@@ -18,12 +18,14 @@ details:
   case_stage: investigation
   environment: [indoor]
   products: [{product: flower}]
+  setting: [farm]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
+  details.setting: [1]
 status: verified
 cfi_id: kuwait-indoor-cannabis-farm-2026
 sources:

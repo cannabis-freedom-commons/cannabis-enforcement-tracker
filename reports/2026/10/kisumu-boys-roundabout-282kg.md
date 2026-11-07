@@ -46,12 +46,14 @@ details:
   force: [physical]
   products:
     - {product: edibles}
+  setting: [home]
 data_sources:
   details.agency_types: [3, 8, 9, 1, 2, 4]
   details.case_stage: [3, 5, 6, 8, 9, 10]
   details.date_precision: [3, 5, 9, 6, 7, 8]
   details.force: [1, 4, 6, 7, 10, 3]
   details.products: [1, 2, 3, 4, 5, 9]
+  details.setting: [3, 5, 9, 6, 7, 8]
   figures.arrested: [3, 5, 6, 8, 9, 10]
   figures.kg_seized: [1, 4, 6, 7, 10, 3]
 status: reported

@@ -27,6 +27,7 @@ media:
     publisher: Amazônia Sem Fronteira
     caption: 'Police photo of the skunk seized in the Japurá boat operation. Photo: Divulgação/PMAM'
 details:
+  activity: [smuggling, trafficking]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
@@ -35,6 +36,7 @@ details:
     - {product: flower}
   setting: [port, vehicle]
 data_sources:
+  details.activity: [1, 4, 3, 2]
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
   details.case_stage: [1, 4, 3, 2]

@@ -30,6 +30,7 @@ media:
     publisher: Infobae
     caption: 'Packages from the load, captioned in the article “La droga estaba destinada a la isla del caribe”. Photo: FGR-Semar.'
 details:
+  activity: [smuggling]
   agencies: [mx-semar, mx-fgr]
   agency_types: [military, prosecutor]
   case_stage: investigation
@@ -37,6 +38,7 @@ details:
   products: [{product: flower, kg: 516}]
   setting: [port]
 data_sources:
+  details.activity: [2, 1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2, 1]

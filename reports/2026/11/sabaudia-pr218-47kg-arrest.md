@@ -15,6 +15,7 @@ figures:
   arrested: 1
   kg_seized: 47
 details:
+  activity: [smuggling]
   agencies: [br-prf]
   agency_types: [police]
   case_stage: investigation
@@ -22,6 +23,7 @@ details:
   products: [{product: flower, kg: 47}]
   setting: [street]
 data_sources:
+  details.activity: [1, 2, 4, 3]
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
   details.case_stage: [1, 3, 2]

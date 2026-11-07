@@ -22,12 +22,14 @@ figures:
   value: { amount: 3300000, currency: USD }
 created_by_model: command-code/inclusionai/ling-3.1-flash-1019:free#high
 details:
+  activity: [trafficking]
   agency_types: [coast-guard, military]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 303.7}]
   setting: [port]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]

@@ -20,6 +20,7 @@ figures:
   kg_seized: 1015
   value: { amount: 15225000, currency: INR }
 details:
+  activity: [smuggling]
   agencies: [in-dri]
   agency_types: [customs]
   case_stage: investigation
@@ -27,6 +28,7 @@ details:
   products: [{product: flower, kg: 1015}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]

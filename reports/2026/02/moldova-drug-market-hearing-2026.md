@@ -12,8 +12,10 @@ summary: >-
   2025; this figure covers all drugs.
 created_by_model: unknown
 details:
+  agency_types: [police]
   products: [{product: hashish}, {product: flower}]
 data_sources:
+  details.agency_types: [1]
   details.products: [1]
 status: verified
 cfi_id: moldova-drug-market-hearing-2026

@@ -19,6 +19,7 @@ figures:
   arrested: 2
 created_by_model: spacexai/grok-4.7
 details:
+  activity: [trafficking]
   agencies: [cl-carabineros]
   agency_types: [gendarmerie]
   case_stage: investigation
@@ -26,6 +27,7 @@ details:
   products: [{product: flower, kg: 1845}]
   setting: [street]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]

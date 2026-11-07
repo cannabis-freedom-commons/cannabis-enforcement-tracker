@@ -21,11 +21,13 @@ created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [cultivation]
   agency_types: [police]
+  environment: [outdoor]
   products: [{product: flower, kg: 1100}]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [2, 1]

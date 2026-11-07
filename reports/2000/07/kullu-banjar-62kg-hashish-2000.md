@@ -19,6 +19,7 @@ figures:
   kg_seized: 62
   arrested: 2
 details:
+  activity: [trafficking, sale]
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
   case_stage: investigation
@@ -26,6 +27,7 @@ details:
   products:
     - {product: hashish}
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

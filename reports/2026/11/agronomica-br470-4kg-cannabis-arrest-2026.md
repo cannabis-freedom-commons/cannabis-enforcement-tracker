@@ -22,6 +22,7 @@ media:
     publisher: RBA TV
     caption: 'Lead photo on the source page for this seizure report. Photo: PMSC'
 details:
+  activity: [smuggling]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
@@ -29,6 +30,7 @@ details:
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

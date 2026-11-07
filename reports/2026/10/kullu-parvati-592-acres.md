@@ -21,6 +21,7 @@ details:
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  environment: [outdoor]
   products:
     - {product: hashish}
   setting: [field, forest]
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1, 2]

@@ -21,6 +21,7 @@ details:
   activity: [cultivation]
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  environment: [outdoor]
   products: [{product: flower, kg: 36}, {product: plants, plants: 12500}]
   sentence_types: [prison]
   setting: [field, prison]
@@ -28,6 +29,7 @@ data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [2, 1]
+  details.environment: [2, 1]
   details.products: [1, 2]
   details.sentence_types: [2, 1]
   details.setting: [2, 1]

@@ -18,11 +18,13 @@ details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   activity: [cultivation]
+  environment: [outdoor]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.environment: [1, 2]
   details.setting: [1, 2]
   figures.plants_destroyed: [2, 1]
 status: verified

@@ -35,6 +35,7 @@ details:
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
+  environment: [outdoor]
   products:
     - {product: hashish}
   setting: [field]
@@ -43,6 +44,7 @@ data_sources:
   details.agency_types: [2, 4, 1, 3]
   details.case_stage: [2, 4]
   details.date_precision: [2, 4, 1]
+  details.environment: [2, 4, 1, 3]
   details.products: [2, 4]
   details.setting: [2, 4, 1, 3]
   figures.arrested: [2, 4]

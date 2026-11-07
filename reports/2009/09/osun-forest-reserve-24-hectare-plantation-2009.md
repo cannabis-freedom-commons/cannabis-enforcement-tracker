@@ -20,6 +20,7 @@ details:
   agency_types: [anti-narcotics, police]
   activity: [cultivation]
   case_stage: investigation
+  environment: [outdoor]
   products: [{product: plants}]
   setting: [field]
 data_sources:
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
   figures.hectares: [1]

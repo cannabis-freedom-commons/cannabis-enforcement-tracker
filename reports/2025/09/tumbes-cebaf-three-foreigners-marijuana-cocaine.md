@@ -30,12 +30,14 @@ media:
     publisher: América Noticias
     caption: América Noticias video report on the detention of three foreigners at the Cebaf border post in Tumbes (1 minute 14 seconds).
 details:
+  activity: [smuggling]
   agency_types: [police, prosecutor]
   case_stage: investigation
   products:
     - {product: flower}
   setting: [border, vehicle, field]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]

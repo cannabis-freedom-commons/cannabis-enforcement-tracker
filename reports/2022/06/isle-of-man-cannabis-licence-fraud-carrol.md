@@ -18,12 +18,14 @@ details:
   agency_types: [police, prosecutor, court]
   case_stage: sentenced
   date_precision: exact
+  products: [{product: flower}]
   sentence_types: [prison]
   setting: [home, prison]
 data_sources:
   details.agency_types: [1, 4, 3, 2]
   details.case_stage: [2]
   details.date_precision: [2, 3]
+  details.products: [1, 4]
   details.sentence_types: [2]
   details.setting: [1, 3, 2]
   figures.charged: [3]

@@ -25,10 +25,12 @@ media:
     caption: Officers stand by stacked packages of the seized marijuana on display
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agency_types: [military, police]
   products: [{product: flower, kg: 41600}]
   setting: [building]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [2, 3, 1]
   details.products: [1, 2, 3]
   details.setting: [1, 2, 3]

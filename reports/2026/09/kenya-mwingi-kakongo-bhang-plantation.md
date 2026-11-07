@@ -22,6 +22,7 @@ details:
   activity: [cultivation]
   agencies: [ke-nps]
   agency_types: [police]
+  environment: [outdoor]
   products:
     - {product: edibles}
   setting: [field]
@@ -29,6 +30,7 @@ data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
+  details.environment: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
   figures.hectares: [1, 2]

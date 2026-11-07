@@ -16,6 +16,7 @@ figures:
     amount: 6500000
     currency: USD
 details:
+  activity: [trafficking]
   agency_types: [military]
   case_stage: investigation
   date_precision: exact
@@ -23,6 +24,7 @@ details:
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

@@ -18,13 +18,15 @@ figures:
   kg_seized: 2195.4
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [us-fbi]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 2195.4}]
-  setting: [vehicle]
+  setting: [building]
 data_sources:
+  details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]

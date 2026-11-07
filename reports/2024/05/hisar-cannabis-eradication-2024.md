@@ -16,11 +16,13 @@ details:
   agency_types: [court]
   case_stage: investigation
   products: [{product: plants}]
+  setting: [field]
 data_sources:
   details.activity: [2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [2]
+  details.setting: [1]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [hisar, haryana, cannabis, eradication, high-court]

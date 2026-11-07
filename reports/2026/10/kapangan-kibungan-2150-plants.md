@@ -27,6 +27,7 @@ details:
   agency_types: [anti-narcotics]
   activity: [cultivation]
   date_precision: exact
+  environment: [outdoor]
   products: [{product: flower}, {product: plants, plants: 2150}]
   setting: [field]
 data_sources:
@@ -34,6 +35,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.date_precision: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.value: [1, 2]

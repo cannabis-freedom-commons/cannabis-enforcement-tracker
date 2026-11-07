@@ -19,6 +19,7 @@ details:
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
+  environment: [outdoor]
   products: [{product: flower}]
   setting: [field]
 data_sources:
@@ -26,6 +27,7 @@ data_sources:
   details.agency_types: [1, 3, 4, 2]
   details.case_stage: [1, 3, 4, 2]
   details.date_precision: [1, 3, 4, 2]
+  details.environment: [1, 3, 4, 2]
   details.products: [1, 3, 4, 2]
   details.setting: [1, 3, 4, 2]
 status: reported

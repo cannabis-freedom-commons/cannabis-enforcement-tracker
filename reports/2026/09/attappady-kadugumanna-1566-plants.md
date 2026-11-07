@@ -22,6 +22,7 @@ details:
   agency_types: [regulator]
   activity: [cultivation]
   case_stage: investigation
+  environment: [outdoor]
   products: [{product: plants, plants: 1566}]
   setting: [field, forest]
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1, 2]
   figures.plants_destroyed: [1, 2]

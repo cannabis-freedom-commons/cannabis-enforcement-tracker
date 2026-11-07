@@ -18,11 +18,13 @@ figures:
   value: { amount: 100000000, currency: USD }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agency_types: [police]
   case_stage: convicted
   products: [{product: flower, kg: 40823}]
   setting: [building]
 data_sources:
+  details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

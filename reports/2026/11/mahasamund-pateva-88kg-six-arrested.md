@@ -21,12 +21,14 @@ figures:
     amount: 4400000
     currency: INR
 details:
+  activity: [smuggling]
   agency_types: [police]
   case_stage: investigation
   products:
     - {product: flower}
   setting: [vehicle]
 data_sources:
+  details.activity: [2, 9, 1, 3, 4, 5]
   details.agency_types: [1, 2, 4, 6, 7, 8]
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9]

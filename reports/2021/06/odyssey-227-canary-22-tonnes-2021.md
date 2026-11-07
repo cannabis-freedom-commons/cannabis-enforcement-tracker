@@ -25,6 +25,7 @@ media:
     caption: "Seized hashish from the Odyssey 227 operation. Photo: Guardia Civil via MAOC (N)"
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [trafficking]
   agencies: [es-vigilancia-aduanera]
   agency_types: [customs]
   case_stage: investigation
@@ -34,6 +35,7 @@ details:
   route: {from: [ma], crossing: 'Atlantic off Canary Islands, toward West Africa'}
   setting: [port]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

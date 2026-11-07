@@ -16,12 +16,14 @@ summary: >-
   Magistrate's Court the next day; police believed the load was bound for
   loyalist paramilitaries.
 details:
+  activity: [smuggling]
   agency_types: [police, court]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}]
   setting: [vehicle]
 data_sources:
+  details.activity: [2]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3]
   details.date_precision: [1]

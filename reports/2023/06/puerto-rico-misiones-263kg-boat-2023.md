@@ -16,11 +16,13 @@ figures:
     amount: 130000000
     currency: ARS
 details:
+  activity: [trafficking]
   agency_types: [prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 263}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

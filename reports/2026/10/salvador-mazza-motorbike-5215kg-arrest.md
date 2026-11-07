@@ -26,11 +26,13 @@ media:
     publisher: Argentina.gob.ar (Gendarmería Nacional)
     caption: 'Packages of cannabis seized at Salvador Mazza, photographed next to a ruler with the weight marked. Photo: Gendarmería Nacional Argentina'
 details:
+  activity: [trafficking]
   agencies: [ar-gna]
   agency_types: [gendarmerie]
   case_stage: investigation
   setting: [border, field, street]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

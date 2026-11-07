@@ -19,6 +19,7 @@ figures:
     amount: 52300000
     currency: INR
 details:
+  activity: [trafficking]
   agency_types: [customs]
   case_stage: investigation
   date_precision: exact
@@ -28,6 +29,7 @@ details:
   route: {from: [th], to: [in]}
   setting: [airport]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3, 2]
   details.date_precision: [1, 3, 2]

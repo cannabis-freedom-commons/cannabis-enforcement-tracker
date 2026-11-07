@@ -17,11 +17,13 @@ figures:
     amount: 300000000
     currency: COP
 details:
+  activity: [smuggling]
   agency_types: [military, anti-narcotics, police]
   case_stage: investigation
   products: [{product: flower, kg: 1564}]
   setting: [vehicle]
 data_sources:
+  details.activity: [3, 4, 2]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [3, 4, 2]
   details.products: [1, 2, 3, 4]

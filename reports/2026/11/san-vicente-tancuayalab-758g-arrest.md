@@ -22,11 +22,13 @@ media:
     publisher: Reporte Índigo
     caption: 'Seized narcotics and communications equipment from the operation in San Vicente Tancuayalab. Photo: GCE (State Civil Guard).'
 details:
+  activity: [trafficking]
   agency_types: [military]
   case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 5, 7, 2, 6, 8]
   details.agency_types: [1, 2, 5, 6, 7]
   details.case_stage: [1, 2, 5, 6, 7]
   details.products: [1, 2, 5, 6, 7, 8]

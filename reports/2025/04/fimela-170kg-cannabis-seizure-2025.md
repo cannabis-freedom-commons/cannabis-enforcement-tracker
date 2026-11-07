@@ -15,8 +15,10 @@ figures:
   kg_seized: 170
 details:
   activity: [trafficking]
+  products: [{product: flower, kg: 170}]
 data_sources:
   details.activity: [1, 2]
+  details.products: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh

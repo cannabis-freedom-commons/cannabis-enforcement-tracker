@@ -17,6 +17,7 @@ details:
   agency_types: [police, prosecutor]
   case_stage: charged
   date_precision: exact
+  environment: [outdoor]
   products: [{product: plants}]
   setting: [field]
 data_sources:
@@ -24,6 +25,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
   figures.charged: [1]

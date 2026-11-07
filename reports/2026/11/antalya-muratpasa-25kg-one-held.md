@@ -27,12 +27,14 @@ media:
     publisher: İhlas Haber Ajansı
     caption: Second photo on the IHA page for the report of the 25-kilogram cannabis seizure in Muratpaşa.
 details:
+  activity: [trafficking]
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   products:
     - {product: hashish}
   setting: [home]
 data_sources:
+  details.activity: [1, 4, 5, 6, 7, 8]
   details.agency_types: [1, 4, 5, 6, 7, 8]
   details.case_stage: [1, 4, 5, 6, 7, 8]
   details.products: [1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29]

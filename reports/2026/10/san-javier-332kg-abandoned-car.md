@@ -17,10 +17,12 @@ figures:
     amount: 1297000000
     currency: ARS
 details:
+  activity: [trafficking]
   agency_types: [coast-guard, police, prosecutor]
   products: [{product: flower, kg: 332}]
   setting: [port, border]
 data_sources:
+  details.activity: [1, 4, 2, 3]
   details.agency_types: [2, 3, 4, 1]
   details.products: [1, 4, 2, 3]
   details.setting: [1, 4, 2, 3]

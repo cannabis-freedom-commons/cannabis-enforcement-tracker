@@ -22,10 +22,12 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  setting: [home]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.setting: [2, 1]
   figures.deaths: [1, 2]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]

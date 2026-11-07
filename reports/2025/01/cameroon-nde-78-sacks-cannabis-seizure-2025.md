@@ -13,11 +13,13 @@ summary: >-
 figures:
   kg_seized: 7800
 details:
+  activity: [smuggling]
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: flower, kg: 7800}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [2, 1, 4, 3]
   details.case_stage: [4, 3]
   details.products: [2, 1, 4, 3]

@@ -20,6 +20,7 @@ figures:
     currency: PHP
 created_by_model: cursor/composer-2.5
 details:
+  activity: [smuggling]
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]
   case_stage: investigation
@@ -27,6 +28,7 @@ details:
   products: [{product: flower, kg: 0.25}]
   setting: [mail]
 data_sources:
+  details.activity: [1, 2, 3, 4]
   details.agencies: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 2, 3, 4]

@@ -15,12 +15,14 @@ figures:
   charged: 1
   kg_seized: 1.5
 details:
+  activity: [smuggling, trafficking]
   agency_types: [customs, court]
   case_stage: convicted
   products:
     - {product: hashish}
   setting: [mail]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

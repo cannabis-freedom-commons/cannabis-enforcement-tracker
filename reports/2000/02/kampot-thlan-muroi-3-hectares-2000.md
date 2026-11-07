@@ -18,12 +18,14 @@ details:
   activity: [cultivation]
   agency_types: [military, police]
   case_stage: investigation
+  environment: [outdoor]
   products: [{product: plants}]
   setting: [port, field]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
+  details.environment: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
 status: verified

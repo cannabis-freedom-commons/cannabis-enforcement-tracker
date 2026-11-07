@@ -32,6 +32,7 @@ data_sources:
   details.products: [1, 2, 3, 4, 5, 6]
   details.sentence_types: [1, 2, 3, 4, 5, 6]
   details.setting: [1, 2, 3, 4, 5, 6]
+  figures.fine: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 4, 5, 3, 6]
   figures.prison: [1, 2, 3, 4, 5, 6]
 status: reported

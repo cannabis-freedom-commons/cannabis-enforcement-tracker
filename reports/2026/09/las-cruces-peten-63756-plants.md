@@ -19,12 +19,14 @@ details:
   activity: [cultivation]
   agency_types: [anti-narcotics, police]
   date_precision: exact
+  environment: [outdoor]
   products: [{product: flower}]
   setting: [field]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.date_precision: [1]
+  details.environment: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
 status: verified

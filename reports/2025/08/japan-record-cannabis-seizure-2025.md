@@ -13,12 +13,14 @@ summary: >-
   more than twice the 452 kg of herbal cannabis recorded across the country in 2024.
 created_by_model: unknown
 details:
+  activity: [smuggling]
   agency_types: [anti-narcotics]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}]
   setting: [port, street]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

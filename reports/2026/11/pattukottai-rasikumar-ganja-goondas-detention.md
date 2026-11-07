@@ -15,6 +15,7 @@ figures:
   arrested: 8
   kg_seized: 6.226
 details:
+  activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
   products:
@@ -22,6 +23,7 @@ details:
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

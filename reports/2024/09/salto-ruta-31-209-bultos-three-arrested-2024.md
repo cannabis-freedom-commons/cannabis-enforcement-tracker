@@ -16,6 +16,7 @@ figures:
 details:
   agency_types: [police]
   activity: [trafficking]
+  products: [{product: flower}]
   setting: [vehicle]
   case_stage: investigation
   region: Salto department
@@ -23,6 +24,7 @@ data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.products: [1, 2]
   details.setting: [1]
   figures.arrested: [1]
 media:

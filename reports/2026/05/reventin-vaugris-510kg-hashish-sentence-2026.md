@@ -38,6 +38,7 @@ data_sources:
   details.sentence_types: [2, 1]
   details.setting: [1, 2, 4]
   figures.arrested: [1, 2, 4]
+  figures.fine: [1, 2, 4, 3]
   figures.kg_seized: [2, 1, 3, 4]
   figures.prison: [2, 1]
   figures.value: [1, 3, 4]

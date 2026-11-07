@@ -10,6 +10,20 @@ type: eradication
 title: Kazakhstan stops 21 tonnes of drugs in Qarasora-2026's first three months
 summary: >-
   Kazakhstan's interior ministry said its first three months of Qarasora-2026 stopped more than 2,000 drug offences and four organised crime groups and kept 21 tonnes of drugs out of circulation, without giving a cannabis-only weight. Police recorded 256 cases of cultivating drug-bearing plants, destroyed dozens of plantations and shut 25 indoor growing laboratories.
+details:
+  activity: [cultivation]
+  agency_types: [police]
+  case_stage: investigation
+  environment: [indoor, outdoor]
+  products: [{product: plants}]
+  setting: [field, building]
+data_sources:
+  details.activity: [1]
+  details.agency_types: [1, 2]
+  details.case_stage: [1]
+  details.environment: [1]
+  details.products: [1, 2]
+  details.setting: [1]
 media:
   - kind: photo
     url: https://www.inform.kz/ru/21-tonna-narkotikov-izyata-v-kazahstane-za-tri-mesyatsa-e2b08e07

@@ -18,10 +18,12 @@ figures:
   kg_seized: 125
 created_by_model: command-code/deepseek-v4.1-flash#max
 details:
+  activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 125}]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

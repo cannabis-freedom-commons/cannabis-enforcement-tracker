@@ -33,6 +33,7 @@ media:
     publisher: CBS Baltimore
     caption: 39-second video report on more than 10,000 pounds of marijuana seized in Baltimore bound for England.
 details:
+  activity: [smuggling]
   agencies: [us-cbp, us-hsi]
   agency_types: [customs, police]
   case_stage: investigation
@@ -40,6 +41,7 @@ details:
   products: [{product: flower, kg: 4815}]
   setting: [port]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]

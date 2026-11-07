@@ -19,6 +19,7 @@ details:
   agencies: [be-police]
   agency_types: [police]
   case_stage: sentenced
+  environment: [outdoor]
   products: [{product: plants}]
   sentence_types: [prison]
   setting: [field, home, building]
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [3]
   details.agency_types: [3]
   details.case_stage: [2, 4]
+  details.environment: [2, 4, 1]
   details.products: [2, 4, 1]
   details.sentence_types: [2, 4]
   details.setting: [2, 4, 1]

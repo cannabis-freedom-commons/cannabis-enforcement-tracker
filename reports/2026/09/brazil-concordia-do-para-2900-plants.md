@@ -22,6 +22,7 @@ details:
   case_stage: investigation
   environment: [outdoor]
   products: [{product: plants, plants: 2900}]
+  setting: [farm]
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
@@ -29,6 +30,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.environment: [1, 2]
   details.products: [1, 2]
+  details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified

@@ -23,6 +23,7 @@ details:
   agency_types: [anti-narcotics]
   activity: [cultivation]
   date_precision: exact
+  environment: [outdoor]
   products: [{product: flower}]
   setting: [field]
 data_sources:
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.date_precision: [1]
+  details.environment: [1]
   details.products: [1]
   details.setting: [1]
   figures.plants_destroyed: [1]

@@ -24,12 +24,14 @@ media:
     publisher: GP1
     caption: 'Seized packages of skunk valued at R$400,000 in Piauí. Photo: Divulgação'
 details:
+  activity: [smuggling]
   agencies: [br-pm]
   agency_types: [gendarmerie]
   case_stage: investigation
   products:
     - {product: flower}
 data_sources:
+  details.activity: [1, 2, 3, 4]
   details.agencies: [1, 2, 3, 4, 6]
   details.agency_types: [1, 2, 3, 4, 6]
   details.case_stage: [1, 2, 3, 4, 6, 5]

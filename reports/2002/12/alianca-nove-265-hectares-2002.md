@@ -23,6 +23,7 @@ details:
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
+  environment: [outdoor]
   products: [{product: flower, kg: 583000}]
   setting: [vehicle, field]
 data_sources:
@@ -31,6 +32,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
+  details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1]

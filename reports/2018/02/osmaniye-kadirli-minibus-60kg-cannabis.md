@@ -16,11 +16,13 @@ figures:
   arrested: 1
   kg_seized: 60
 details:
+  activity: [trafficking]
   agency_types: [police, court]
   case_stage: investigation
   products: [{product: flower, kg: 60}]
   setting: [vehicle, home, mail]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]

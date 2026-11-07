@@ -15,10 +15,12 @@ summary: >-
 created_by_model: unknown
 details:
   agency_types: [anti-narcotics]
+  case_stage: executed
   products: [{product: flower}]
   sentence_types: [death, life]
 data_sources:
   details.agency_types: [1]
+  details.case_stage: [1]
   details.products: [1]
   details.sentence_types: [1]
 status: verified

@@ -26,12 +26,14 @@ media:
     caption: Prosecutor's (FGR) photos of the seized packages and the pickup truck, published with the report
 created_by_model: alibaba-token-plan/qwen3.8-flash
 details:
+  activity: [smuggling, trafficking]
   agencies: [mx-fgr]
   agency_types: [prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 600}]
   setting: [border, vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

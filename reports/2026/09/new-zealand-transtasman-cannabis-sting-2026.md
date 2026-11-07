@@ -13,11 +13,13 @@ summary: >-
   organised crime.
 created_by_model: unknown
 details:
+  activity: [trafficking]
   agency_types: [customs, police]
   case_stage: investigation
   products: [{product: flower, kg: 270}]
   setting: [home]
 data_sources:
+  details.activity: [2, 1, 3]
   details.agency_types: [2, 1, 3, 4]
   details.case_stage: [2, 1, 3, 4]
   details.products: [2, 3, 4]

@@ -19,6 +19,7 @@ figures:
   kg_seized: 32200
   arrested: 1
 details:
+  activity: [smuggling]
   agency_types: [customs, police]
   case_stage: investigation
   date_precision: exact
@@ -26,6 +27,7 @@ details:
     - {product: hashish}
   setting: [port]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1]

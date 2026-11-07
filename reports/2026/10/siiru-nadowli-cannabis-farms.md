@@ -41,6 +41,7 @@ details:
   agencies: [gh-nacoc]
   agency_types: [anti-narcotics]
   case_stage: investigation
+  environment: [outdoor]
   products: [{product: flower}]
   setting: [field]
 data_sources:
@@ -48,6 +49,7 @@ data_sources:
   details.agencies: [2, 4]
   details.agency_types: [2, 4]
   details.case_stage: [2, 4, 1]
+  details.environment: [2, 4, 1]
   details.products: [1, 2, 3, 4]
   details.setting: [2, 4, 1]
 status: verified

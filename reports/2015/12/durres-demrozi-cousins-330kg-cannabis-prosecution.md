@@ -15,12 +15,14 @@ figures:
   charged: 3
   kg_seized: 330
 details:
+  activity: [smuggling, trafficking]
   agency_types: [border-guard, police, prosecutor]
   case_stage: appeal
   date_precision: exact
   products: [{product: flower, kg: 330}]
   setting: [port]
 data_sources:
+  details.activity: [4, 2, 1, 3]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [3, 4]
   details.date_precision: [1]

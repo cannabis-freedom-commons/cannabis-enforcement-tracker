@@ -31,6 +31,7 @@ details:
   sentence_types: [prison, fine]
   date_precision: publication
   region: Uttar Pradesh
+  setting: [prison]
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -38,6 +39,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.sentence_types: [1]
+  details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]
   figures.convicted: [1]

@@ -39,12 +39,14 @@ media:
     publisher: Argentina.gob.ar (Gendarmería Nacional Argentina)
     caption: 'Gendarmería photo placed beside the passage on the Narcotest result and the 45 kilos 822 grams of cannabis sativa. Photo: Gendarmería Nacional Argentina'
 details:
+  activity: [smuggling]
   agency_types: [gendarmerie, prosecutor]
   case_stage: investigation
   products: [{product: flower, kg: 45.822}]
   setting: [vehicle]
   route: {from: [py], to: [ar]}
 data_sources:
+  details.activity: [1]
   details.agency_types: [1, 3]
   details.case_stage: [3, 1, 2]
   details.products: [1]

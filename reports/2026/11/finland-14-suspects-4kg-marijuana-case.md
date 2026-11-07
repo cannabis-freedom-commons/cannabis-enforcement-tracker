@@ -20,6 +20,7 @@ media:
     publisher: Tulli
     caption: 'Customs photo of cocaine packages seized in the same operation. Photo: Tulli'
 details:
+  activity: [trafficking]
   agencies: [int-europol]
   agency_types: [police]
   case_stage: investigation
@@ -27,6 +28,7 @@ details:
     - {product: flower}
   setting: [port, home, mail]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]

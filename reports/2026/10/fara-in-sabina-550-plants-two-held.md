@@ -20,6 +20,7 @@ details:
   agencies: [it-carabinieri]
   agency_types: [gendarmerie]
   case_stage: investigation
+  environment: [outdoor]
   products: [{product: plants, plants: 550}]
   setting: [field, prison]
 data_sources:
@@ -27,6 +28,7 @@ data_sources:
   details.agencies: [1, 2, 5]
   details.agency_types: [1, 2, 5]
   details.case_stage: [2, 5, 1]
+  details.environment: [3, 2, 5, 1, 4]
   details.products: [2, 5, 1, 4]
   details.setting: [3, 2, 5, 1, 4]
   figures.arrested: [2, 5, 3]

@@ -16,10 +16,12 @@ figures:
     amount: 171205320
     currency: TTD
 details:
+  activity: [trafficking]
   agency_types: [military, police]
   products: [{product: flower, kg: 1560}]
   setting: [street]
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]

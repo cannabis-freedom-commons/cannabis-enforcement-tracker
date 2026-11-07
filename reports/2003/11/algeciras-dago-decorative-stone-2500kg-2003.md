@@ -16,12 +16,14 @@ figures:
   kg_seized: 2500
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
+  activity: [smuggling, trafficking]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   products:
     - {product: hashish}
   setting: [port, vehicle]
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]

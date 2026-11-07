@@ -22,6 +22,7 @@ details:
   agency_types: [anti-narcotics]
   activity: [cultivation]
   case_stage: sentenced
+  environment: [outdoor]
   products: [{product: flower, kg: 7.3}]
   sentence_types: [life]
   setting: [field, prison]
@@ -30,6 +31,7 @@ data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
+  details.environment: [1]
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]

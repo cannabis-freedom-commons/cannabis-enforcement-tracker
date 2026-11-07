@@ -27,6 +27,7 @@ media:
     publisher: hi INDiA
     caption: 'A pink trolley bag beside vacuum-sealed packets of the seized hydroponic marijuana and a passport. Photo: IANS.'
 details:
+  activity: [trafficking]
   agency_types: [customs]
   case_stage: investigation
   date_precision: exact
@@ -35,6 +36,7 @@ details:
   route: {from: [th], to: [in]}
   setting: [airport]
 data_sources:
+  details.activity: [1, 26, 28, 32, 33, 35]
   details.agency_types: [1, 2, 3, 4, 5, 9]
   details.case_stage: [1, 2, 4, 5, 6, 9]
   details.date_precision: [1, 2, 3, 4, 5, 9]

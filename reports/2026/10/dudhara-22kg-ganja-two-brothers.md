@@ -23,6 +23,7 @@ media:
     publisher: Amar Ujala
     caption: 'Video report on the arrest of two brothers with 22.3 kg of ganja in Dudhara. Video: Amar Ujala.'
 details:
+  activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
@@ -30,6 +31,7 @@ details:
     - {product: flower}
   setting: [home]
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3, 2]
   details.date_precision: [1, 3, 2]

@@ -48,6 +48,7 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  setting: [farm]
 data_sources:
   details.activity: [3, 9, 10, 4, 6, 5]
   details.agencies: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -55,6 +56,7 @@ data_sources:
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.date_precision: [1, 2, 3, 4, 5, 6]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  details.setting: [1, 2, 3, 4, 5, 6]
   figures.arrested: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]
   figures.value: [4, 9, 6, 10, 3, 5]

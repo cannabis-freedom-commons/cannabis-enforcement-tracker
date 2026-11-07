@@ -22,12 +22,14 @@ media:
     publisher: Campo Grande News
     caption: 'Photo shows the two suitcases with cannabis in ziplock packaging. Photo: Reprodução/Autos'
 details:
+  activity: [trafficking]
   agencies: [br-prf]
   agency_types: [police]
   case_stage: convicted
   products: [{product: flower, kg: 30.2}]
   setting: [vehicle]
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
