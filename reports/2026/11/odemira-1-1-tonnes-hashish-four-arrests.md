@@ -48,10 +48,24 @@ sources:
     publisher: Sul Informação
     date: 2026-11-06
     language: pt
+  - title: 'Combate ao narcotráfico: embarcação suspeita leva autoridades a apreender 1,1 toneladas de haxixe em Odemira. Há quatro detidos'
+    url: https://sol.iol.pt/sociedade/noticias/combate-ao-narcotrafico-embarcacao-suspeita-leva-autoridades-a-apreender-1-1-toneladas-de-haxixe-em-odemira-ha-quatro-detidos/20261106/6aedeffb0cf2aafa0453d885
+    publisher: SOL
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
   - The judicial outcome after the first interrogation was not reported in the cited sources.
+  - The SOL article carries only the same-day publication date of 6 November 2026; the police action took place over the preceding days and no separate operation date is given.
+  - No outcome of the first judicial interrogation or of any coercive measures was reported.
+  - The page photo is captioned only with the article headline and its credit is not given, so it is not established to show this seizure.
+media:
+  - kind: photo
+    url: https://sol.iol.pt/sociedade/noticias/combate-ao-narcotrafico-embarcacao-suspeita-leva-autoridades-a-apreender-1-1-toneladas-de-haxixe-em-odemira-ha-quatro-detidos/20261106/6aedeffb0cf2aafa0453d885
+    media_url: https://img.iol.pt/image/id/695dc7d20cf22dd7c7f51474/720
+    publisher: SOL
+    caption: The page picture given to the SOL report on the Odemira hashish seizure, captioned only with the article headline; no credit is given and it is not established to show this seizure.
 ---
 
 Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
@@ -60,7 +74,7 @@ tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
 were to be brought before a judge for a first judicial interrogation and
 coercive measures. [@1]
 
-Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1] The
+Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3] The
 operation began after authorities spotted a suspicious high-speed vessel crewed
 by unidentified people whose presence near the Portuguese coast was unjustified.
 [@1] House searches led to the seizure of a car with a false number plate. [@1]
@@ -74,3 +88,4 @@ recent days with support from the Navy and the Air Force. [@2] It also had
 support from the Maritime Analysis and Operations Centre – Drugs, an
 international cooperation body against trafficking by sea. [@2]
 
+The four detainees are aged between 16 and 43 and are foreign nationals. [@3] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3]
