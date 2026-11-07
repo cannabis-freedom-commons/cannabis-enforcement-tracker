@@ -103,6 +103,11 @@ sources:
     publisher: Lebanon24
     date: 2026-11-06
     language: ar
+  - title: الجيش السوري يحبط محاولة تهريب مخدرات من لبنان ويضبط 280 كيلو حشيش
+    url: https://www.algomhor.com/508042
+    publisher: الجمهور الإخباري
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -128,21 +133,26 @@ open_questions:
   - The page gives no arrests, value or plant count, and its lead picture carries only the headline as a caption with no credit, so no media is recorded.
   - The Al-Araby Al-Jadeed lead picture is captioned as drugs seized in Syria on 20 May 2026, an earlier event, so it does not show the Sarghaya operation.
   - The article reproduces the Defence Ministry statement and also recounts separate October 2026 seizures on the Syrian and Lebanese sides of the border that are not part of this event.
+  - This account dates the operation to before dawn on Saturday 7 November 2026, and its own publication timestamp is 00:30 that day, while the report places the announcement on Friday 6 November 2026; the discrepancy is unresolved.
+  - This page reproduces the Defence Ministry statement in the same terms as SANA and the outlets already cited, so it adds a further republication rather than independent confirmation.
+  - No arrests, names, nationalities or court outcome were reported for this interception.
+  - The page's only picture is captioned as the smuggled drugs seized, with no credit, and cannot be shown to be a distinct photograph from those already listed from SANA, so no media entry is added.
+  - The article's last section on dismantling drug networks and on the former regime's role is general context, and its Captagon seizures at Jisr Qamar and Jdeidet Yabous are separate events dealt with in other reports.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
 Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
-the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10]
+the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10,11]
 
 The ministry said the smugglers opened fire on the Syrian force during the
-operation and that the force returned fire. [@1,3,4,6,7,8,9] The gunmen then fled towards
-Lebanese territory, the ministry said. [@2,4,6,7,8,9] The state news agency SANA reported
+operation and that the force returned fire. [@1,3,4,6,7,8,9,11] The gunmen then fled towards
+Lebanese territory, the ministry said. [@2,4,6,7,8,9,11] The state news agency SANA reported
 that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10] The seized items were
-referred to the competent authorities to complete legal procedures. [@1,3,4]
+confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11] The seized items were
+referred to the competent authorities to complete legal procedures. [@1,3,4,11]
 
 The Defence Ministry media office announced the operation on Friday 6 November
 2026, and SANA published the statement the same evening. [@2,5]
@@ -150,3 +160,5 @@ The Defence Ministry media office announced the operation on Friday 6 November
 Border guard units in the Syrian Arab Army seized 280 kilograms of hashish and 28,000 Captagon pills in the Sarghaya area of the Damascus countryside, the Defence Ministry's media office said. [@5]
 
 The Defence Ministry said the confiscated items were referred to the competent authorities to complete legal procedures. [@4,7]
+
+The account says the operation took place before dawn on Saturday 7 November 2026, the day of its publication. [@11]
