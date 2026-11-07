@@ -60,6 +60,11 @@ sources:
     publisher: Diario La Página
     date: 2026-11-06
     language: es
+  - title: Incautan marihuana y cocaína durante operativo en residencial de Santa Tecla
+    url: https://diariolahuella.com/incautan-marihuana-y-cocaina-durante-operativo-en-residencial-de-santa-tecla/
+    publisher: Diario La Huella
+    date: 2026-11-06
+    language: es
 open_questions:
   - The sources give no weight or price for the marijuana or for the cocaine, so no kilograms are recorded and the cocaine is not counted.
   - The articles give no date beyond 'this Friday' 6 November 2026, and La Página says only that the FGR ordered the capture, so the accounts differ on who carried out the search.
@@ -70,10 +75,10 @@ open_questions:
 
 El Salvador's National Civil Police and Attorney General's Office arrested a
 41-year-old man at his home in the residencial Santa Teresa in the Santa Tecla
-district, La Libertad Sur, on Friday 6 November 2026. [@2] The search of the
+district, La Libertad Sur, on Friday 6 November 2026. [@2,4] The search of the
 house was ordered by the Attorney General's Office (FGR) and carried out with
 the police, which said the man was suspected of storing and distributing drugs.
-[@3]
+[@3,4]
 
 During the search officers seized portions of marijuana and portions of cocaine,
 which are not counted in a cannabis weight because the sources give none. [@1]
@@ -86,3 +91,4 @@ trafficking. [@2] The Santa Tecla arrest was announced the same day as two other
 drug arrests in the capital, a university detention over marijuana and the case
 of a couple accused of using minors to sell drugs. [@1]
 
+La Huella described the seizure of three metal grinders, one plastic grinder, a scale, three pipes and two mobile phones. [@4]
