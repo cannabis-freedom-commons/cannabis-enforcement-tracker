@@ -115,6 +115,8 @@ open_questions:
   - The Times of India image is captioned only as a representative image, so no photo of the event is added.
   - 'Left out, as its quotation was not found in Social News XYZ: Joint teams destroyed more than 1.37 lakh kg (about 137 tonnes) of cannabis plants, grown mainly on community land, during the first phase of the drive.'
   - The Ommcom News account is a republication of the same IANS report carried by other outlets and relies on the NCB press release, so it is not an independent observation of the fields.
+  - The page is a brief unattributed news summary of the authorities' account, not an independent observation of the fields.
+  - The page's video is a Lokal video item; whether it shows the Kalaktang fields cannot be confirmed from its text, so no media is added.
 ---
 
 District police, the Narcotics Control Board, the Sashastra Seema Bal, the Central Reserve Police Force and the district administration destroyed illicit cannabis on at least 220 acres (about 89 hectares) in Kalaktang subdivision of West Kameng district. [@1,2] The two-day drive began on Monday 26 October 2026. [@1,2] Bomdila deputy superintendent of police Sashi Dore led it, under superintendent Dr D. W. Thongon and deputy commissioner Dr Dilip Kumar. [@1]
@@ -128,3 +130,5 @@ Joint teams destroyed more than 1.37 lakh kg (about 137 tonnes) of cannabis plan
 A total of 118 personnel and workers took part in the joint drive. [@8,9] The NCB named the additional districts of Lohit, Lower Dibang Valley and Tirap, and both cannabis and opium poppy cultivation, when describing the areas it plans to operate in. [@8]
 
 The NCB placed the drive under its Vision Document on Narcotics Control (2026–2029), which calls for mapping cultivation hotspots and synchronised crop destruction by central, state and district agencies under a whole-of-government approach. [@9] The NCB said further joint drives would target illicit cannabis and opium poppy sites in Lohit, Lower Dibang Valley, Dibang Valley, Namsai, Anjaw, Tirap, Changlang and Longding districts. [@9]
+
+Joint multi-agency teams took part in the first phase of the special eradication operation, which ran from 26 October to 3 November 2026. [@7]
