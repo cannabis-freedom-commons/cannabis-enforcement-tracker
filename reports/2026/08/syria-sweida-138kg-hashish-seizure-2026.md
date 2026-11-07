@@ -15,9 +15,10 @@ figures:
   kg_seized: 138
 media:
   - kind: photo
-    url: https://sana.sy/fr/syrie/2326722/
-    publisher: SANA – Agence Arabe Syrienne de Presse
-    caption: 'Packages of hashish and narcotic pills seized in eastern Sweida, in photographs published with the anti-narcotics directorate''s announcement. Photo: SANA'
+    url: https://sana.sy/locals/2565959/
+    media_url: https://cdn.sananews.sy/2026/08/photo_3_2026-08-29_18-02-45.jpg
+    publisher: SANA
+    caption: "Fabric-wrapped hashish packages laid out after the eastern Sweida interception (SANA)."
 details:
   activity: [smuggling]
   agency_types: [anti-narcotics]
@@ -58,6 +59,7 @@ open_questions:
   - SANA's French version calls the 138 kg 'cannabis', while its Arabic original and Ajel call it hashish; the tracker counts it as 138 kg of cannabis product.
   - The announcement gave no destination, interception point or value for the shipment, and did not identify the 382,000 pills.
   - The same SANA article reports a separate Deir Ezzor arrest on the same day, with 37 kg of hashish, methamphetamine, drugs and weapons; that is a different event and is not covered by this report.
+  - SANA also published Captagon-pill photographs from the same Sweida announcement; those synthetic exhibits are out of cannabis media scope here.
 ---
 
 Syria's anti-narcotics directorate said it had foiled an international

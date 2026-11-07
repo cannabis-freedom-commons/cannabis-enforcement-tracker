@@ -14,17 +14,10 @@ summary: >-
   Acting on a tip from two hunters, police found hundreds of harvested cannabis plants in forest at Dusun II Sarang Kulit, Sibolangit, and dried leaves and seeds in a nearby hut. No one was at the site; police said they were still looking for the owner.
 media:
   - kind: photo
-    url: https://pewarta.co/news/hukum/ratusan-batang-ganja-ditemukan-dalam-hutan-sibolangit-daunnya-dikeringkan-di-gubuk
-    publisher: Pewarta.co
-    caption: 'Two men, one in uniform, inspect and cut cannabis plants at the Sibolangit site. Photo: Pewarta.co'
-  - kind: photo
-    url: https://www.medanposonline.com/sumatera-utara/23387/polsek-pancur-batu-temukan-ratusan-batang-ganja-tak-bertuan-quotdaunya-dikeringkan-dalam-gubukquot/
-    publisher: Medanposonline
-    caption: 'Pancurbatu police chief Junaidi examines cannabis seeds found at the site. Photo: Medanposonline'
-  - kind: photo
     url: https://www.hariansib.com/Medan-Sekitarnya/449664/polsek-pancurbatu-bersama-koramil-03-sibolangit-gerebek-lokasi-diduga-tanaman-ganja/all/
-    publisher: Harian SIB
-    caption: 'Police and soldiers during the joint sweep of the cannabis plot in Dusun II. Photo: Polsek Pancurbatu via Harian SIB'
+    media_url: https://www.hariansib.com/cdn/uploads/images/2026/09/_2953_Polsek-Pancurbatu-Bersama-Koramil-03-Sibolangit-Gerebek-Lokasi-Diduga-Tanaman-Ganja.png
+    publisher: HarianSIB
+    caption: "A Polri officer carrying uprooted cannabis stalks as plants are burned at the Sibolangit forest site (HarianSIB)."
 details:
   activity: [cultivation]
   agency_types: [police]
@@ -60,6 +53,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Harian SIB: It reached the site about 1:30 pm.'
   - 'Left out, as its quotation was not found in Harian SIB: The clearing finished about 6 pm.'
   - 'Left out, as its quotation was not found in Harian SIB: Junaidi said the operation showed cooperation between the army, police, village government and residents in preventing and fighting drug abuse.'
+  - Pewarta and Medan Pos Online covered the same Sibolangit hut find without separate direct media_url entries here.
 ---
 
 Police found hundreds of harvested cannabis plants, known locally as ganja, on a
