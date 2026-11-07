@@ -75,6 +75,11 @@ sources:
     url: https://www.jagonews24.com/en/national/news/97965
     publisher: Jagonews24.com
     date: 2026-11-07
+  - title: মতলব দক্ষিণে ১৫ মামলার আসামি 'মেজর ডালিম'সহ পাঁচ মাদক কারবারি গ্রেফতার
+    url: https://chandpurkhobor.com/130794/%E0%A6%AE%E0%A6%A4%E0%A6%B2%E0%A6%AC-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3%E0%A7%87-%E0%A7%A7%E0%A7%AB-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8/
+    publisher: দৈনিক চাঁদপুর খবর
+    date: 2026-11-06
+    language: bn
 open_questions:
   - The article gives no weight or value for the 30 yaba tablets; they are not part of the cannabis figures.
   - The article does not say what the two men arrested in the Upadhi and Nalua areas were found with, so the 50 grams of ganja is reported only for the two arrested in Badarpur.
@@ -115,8 +120,10 @@ Nalua areas. [@1,2]
 
 Sub-Inspector Delwar Hossain of Matlab Dakshin police station said all six had
 been produced in court and that Dalim faces 15 cases. [@1] The officer said such
-police drives to eliminate drugs would continue. [@1]
+police drives to eliminate drugs would continue. [@1,7]
 
 In the Badarpur raid, police arrested two men, aged 25 and 21, with 20 grams of ganja, and also detained a man convicted in another case. [@4] In a separate raid, police arrested a 34-year-old man from the South Nalua area of the municipality's ward 7 with 40 grams of ganja. [@4,5]
 
 Chandpur Kantho reports that the raids ran from the night of Thursday 5 November 2026 to the morning of Friday 6 November 2026, and that the arrested were produced before a Chandpur court on the Friday. [@5]
+
+The page's headline counts five drug traffickers arrested, including the man known as 'Major Dalim', a suspect in 15 cases. [@7]
