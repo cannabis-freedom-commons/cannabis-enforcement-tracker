@@ -48,8 +48,9 @@ media:
   - kind: photo
     url: https://bdnews24.com/bangladesh/q5taobedtl
     archived: https://web.archive.org/web/20261015032846/https://bdnews24.com/bangladesh/q5taobedtl
+    media_url: https://media.assettype.com/bdnews24-english/2026-10-15/5youau4u/abhijit-das-kush-151026-01.jpg
     publisher: bdnews24.com
-    caption: The handcuffed suspect with the seized kush packets at the DNC airport office
+    caption: "Handcuffed suspect with plastic-wrapped kush packets at the DNC Shahjalal Airport office (bdnews24.com)."
 ---
 
 The Department of Narcotics Control arrested 40-year-old Indian national

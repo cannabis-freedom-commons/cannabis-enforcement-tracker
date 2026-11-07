@@ -61,8 +61,9 @@ media:
   - kind: photo
     url: https://www.newswire.lk/2026/10/15/rs-51-mn-hashish-seized-at-bia-three-foreigners-arrested/
     archived: https://web.archive.org/web/20261015100451/https://www.newswire.lk/2026/10/15/rs-51-mn-hashish-seized-at-bia-three-foreigners-arrested/
+    media_url: https://www.newswire.lk/wp-content/uploads/2026/10/Hashish-BIA.jpg
     publisher: Newswire
-    caption: The opened suitcase and cosmetic containers of hashish
+    caption: "Opened suitcase and cosmetic containers of hashish at BIA (Newswire)."
   - kind: photo
     url: https://adaderana.lk/news/250016
     media_url: https://media.adaderanaenglish.lk/articles/250016/content/IMG-20261015-WA0064_20261015_070242_356.jpg

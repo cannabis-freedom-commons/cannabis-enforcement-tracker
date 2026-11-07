@@ -37,6 +37,7 @@ tags: [valsad, vapi, dadra, tablets, interstate-network]
 media:
   - kind: photo
     url: https://ianslive.in/gujarat-25-tonnes-of-cannabis-laced-tablets-worth-rs-1267-crore-seized-two-arrested--20261024185720
+    media_url: https://iansportalimages.s3.amazonaws.com/ianslive_watermark/202610243990426.jpg
     publisher: IANS
     caption: "The two arrested men with barrels of seized tablets at the Dadra shop (police)."
 open_questions:

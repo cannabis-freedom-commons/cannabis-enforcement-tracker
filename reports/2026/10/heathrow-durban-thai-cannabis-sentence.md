@@ -22,9 +22,15 @@ figures:
     currency: GBP
 media:
   - kind: photo
+    url: https://www.nationalcrimeagency.gov.uk/news/25-months-in-jail-for-woman-who-smuggled-thai-cannabis
+    media_url: https://www.nationalcrimeagency.gov.uk/images/Oct2026/Amy%20Durban%20and%20suitcases%20web.png
+    publisher: National Crime Agency
+    caption: 'NCA composite: Amy Jayne Durban custody photo beside open suitcases of vacuum-sealed cannabis.'
+  - kind: photo
     url: https://www.midweekherald.co.uk/news/26638893.devon-woman-jailed-smuggling-512-000-cannabis/
+    media_url: https://www.midweekherald.co.uk/resources/images/21583780.jpg
     publisher: Midweek Herald
-    caption: 'The two suitcases containing 51.2 kg of cannabis brought into the UK by Amy Jayne Durban. Photo: NCA via Midweek Herald.'
+    caption: 'Four open suitcases of vacuum-sealed cannabis from the Durban case (NCA via Midweek Herald).'
 details:
   activity: [smuggling]
   agencies: [gb-nca, gb-border-force]

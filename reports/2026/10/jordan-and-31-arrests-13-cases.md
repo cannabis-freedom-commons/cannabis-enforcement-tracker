@@ -58,7 +58,8 @@ sources:
     language: en
 media:
   - kind: photo
-    url: https://petra.gov.jo/storage/media/2026/10/08/a2a8dd41-dff9-47df-90b8-a3a56016a396.jpg
+    url: https://petra.gov.jo/en/news/anti-narcotics-department-arrests-31-in-13-drug-cases-across-kingdom
+    media_url: https://petra.gov.jo/storage/media/2026/10/08/a2a8dd41-dff9-47df-90b8-a3a56016a396.jpg
     publisher: Petra
     caption: 'Hashish slabs and pills, scales and phones laid out under the Anti-Narcotics Department banner. Photo: PSD via Petra'
 ---

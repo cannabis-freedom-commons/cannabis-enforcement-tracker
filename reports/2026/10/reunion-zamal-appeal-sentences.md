@@ -16,7 +16,8 @@ summary: >-
   years each, a third five years; the fourth term stayed at four years.
 media:
   - kind: photo
-    url: https://www.lequotidien.re/assets/images/cache/thumbnail_une_1/assets/images/articles/2026/10/14/bateau-trafic-de-zamal-reunion-maurice-6ac764ca5efb0625528671-6acf093b3eb68490861278.webp
+    url: https://www.lequotidien.re/article/faits-divers/2026/10/14/trafic-de-zamal-vers-maurice-les-peines-alourdies-par-la-cour-dappel
+    media_url: https://www.lequotidien.re/assets/images/cache/thumbnail_une_1/assets/images/articles/2026/10/14/bateau-trafic-de-zamal-reunion-maurice-6ac764ca5efb0625528671-6acf093b3eb68490861278.webp
     publisher: Le Quotidien
     caption: 'Gendarmes with a beached trafficking boat at Saint-Benoît. Photo: Emmanuel Grondin via Le Quotidien'
 details:
