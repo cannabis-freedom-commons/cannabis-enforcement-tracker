@@ -71,31 +71,34 @@ open_questions:
   - Lokmat names only the second passenger, Tashi Tenzin, and does not name the first, so it cannot confirm the name Tshegay used in the Free Press Journal account.
   - The headline speaks of smuggling worth crores but the article states no rupee value, so no value is recorded.
   - The page's single photo is a generic file captioned with the headline and is not established to show this seizure, so no media entry is added.
+  - The Navbharat Live page gives no separate date for the two interceptions and no dateline; its publication is 6 November 2026, two days after the dateline used as the incident date in the existing report.
+  - The page gives no illicit-market value, charges beyond the NDPS Act arrest, or bail or court outcome.
+  - The page's lead photo is captioned as a representational image from social media, so it is not established to show this seizure and no media entry is added.
 ---
 
 Air Intelligence Unit officers at Chhatrapati Shivaji Maharaj International
 Airport in Mumbai arrested two Bhutanese nationals who had arrived from Bangkok
-on separate flights, and seized cannabis. [@1,2,3,5]
+on separate flights, and seized cannabis. [@1,2,3,4,5]
 
 In the first interception, officers acting on specific profiling stopped a
-Bhutanese passenger identified as Tshegay as he arrived from Thailand. [@1,5]
+Bhutanese passenger identified as Tshegay as he arrived from Thailand. [@1,4,5]
 Officers found seven vacuum-sealed packets concealed inside commercial chocolate
-wrappers, holding 1,452 grams of cannabis. [@1,2,3,5] Tshegay admitted the offence
+wrappers, holding 1,452 grams of cannabis. [@1,2,3,4,5] Tshegay admitted the offence
 during questioning and said he had been lured by the promise of “quick and easy
-money”. [@1] He was summoned, his statement recorded under the Narcotic Drugs
-and Psychotropic Substances (NDPS) Act, and he was arrested. [@1]
+money”. [@1,4] He was summoned, his statement recorded under the Narcotic Drugs
+and Psychotropic Substances (NDPS) Act, and he was arrested. [@1,4]
 
 Closely following the first interception, officers stopped a second Bhutanese
-national, Tashi Tenzin, who had also flown into Mumbai from Bangkok. [@1,5] A
+national, Tashi Tenzin, who had also flown into Mumbai from Bangkok. [@1,4,5] A
 search of Tenzin's baggage found seven chocolate carton boxes holding another
-consignment of approximately 1,500 grams of cannabis. [@1,2,3,5] Tenzin was arrested
+consignment of approximately 1,500 grams of cannabis. [@1,2,3,4,5] Tenzin was arrested
 immediately after failing to give a legitimate explanation for the contraband.
-[@1,2]
+[@1,2,4]
 
 Together the two interceptions produced almost three kilograms of high-grade
 cannabis, and Customs officials said the syndicates recruit nationals of
 neighbouring countries such as Bhutan as mules by offering financial incentives.
-[@1,3] A senior Customs officer said preliminary investigations and the accused
+[@1,3,4] A senior Customs officer said preliminary investigations and the accused
 men's statements show other foreign and local handlers are involved and have yet
 to be traced. [@1,3]
 
