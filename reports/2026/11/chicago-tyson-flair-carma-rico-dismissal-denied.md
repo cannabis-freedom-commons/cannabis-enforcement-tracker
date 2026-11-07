@@ -32,17 +32,23 @@ sources:
     url: https://www.aol.com/articles/mike-tyson-ric-flair-score-233558000.html
     publisher: AOL
     date: 2026-11-06
+  - title: Mike Tyson and Ric Flair Score Major Court Victory in $50M Cannabis Fraud Battle
+    url: https://www.complex.com/sports/a/bernadette-giacomazzo/mike-tyson-50m-lawsuit-win-ric-flair
+    publisher: Complex
+    date: 2026-11-07
 open_questions:
   - No date was published for the ruling; 6 November 2026 is the TMZ publication date and is used as the incident date.
   - The court and case number come from the federal docket published by the CourtListener RECAP archive, not from the TMZ account, which names only a federal judge in Illinois.
   - The full text of the ruling and the judge's reasoning were not available; only the outcome reported by TMZ was read.
   - The $50 million damages claim reported in TMZ's headline is stated in the text only as tens of millions of dollars sought, and it is a claim, not an award, so it is not recorded as a figure.
   - The lead photograph is a Getty picture of the two men that predates the ruling and does not show the court event.
+  - The Complex article gives no separate date for the ruling; 7 November 2026 is its publication date.
+  - Complex attributes its account to TMZ Sports rather than an independent reading of the ruling or docket.
 ---
 
 A federal judge in Illinois refused to dismiss the racketeering lawsuit that
 Mike Tyson and Ric Flair, among other plaintiffs, filed in December 2025 over
-their cannabis businesses. [@1,3] Tyson and Flair accuse five people linked to
+their cannabis businesses. [@1,3,4] Tyson and Flair accuse five people linked to
 Carma and the Tyson 2.0 cannabis brand of taking the boxer and the wrestler for
 large sums. [@1,3] The case is Tyson et al. v. Bronstein et al., No.
 1:25-cv-15462, a civil racketeering suit filed in the U.S. District Court for
@@ -50,13 +56,15 @@ the Northern District of Illinois on 19 December 2025. [@2]
 
 The plaintiffs say two of the defendants, Carma executives, ran the company as a
 personal piggy bank and diverted more than $1 million to private jet travel, a
-yacht and home renovations. [@1,3] Other defendants were accused of taking
-kickbacks on deals they negotiated without the two men's knowledge. [@1,3] Five
+yacht and home renovations. [@1,3,4] Other defendants were accused of taking
+kickbacks on deals they negotiated without the two men's knowledge. [@1,3,4] Five
 defendants filed a joint motion asking the court to throw the case out for
-various reasons, having strongly denied wrongdoing. [@1,3] The judge rejected
-their arguments, so the case will continue. [@1,3]
+various reasons, having strongly denied wrongdoing. [@1,3,4] The judge rejected
+their arguments, so the case will continue. [@1,3,4]
 
 A representative of Tyson 2.0 called the ruling a significant development in the
-plaintiffs' pursuit of justice. [@1,3] Tyson and Flair are seeking tens of
+plaintiffs' pursuit of justice. [@1,3,4] Tyson and Flair are seeking tens of
 millions of dollars, both for money they say was taken and for deals they missed
-out on, and the ruling was a step in the case rather than a final win. [@1,3]
+out on, and the ruling was a step in the case rather than a final win. [@1,3,4]
+
+The fellow plaintiffs alongside Tyson and Flair are Carma HoldCo Inc. and hemp company LGNDS. [@4] The five defendants are former Carma president Chad Bronstein, former CEO Adam Wilks, former legal executive Nicole Cosby, shareholder James Case and Christopher Volo. [@4] The complaint alleges an arrangement with vape manufacturer DomPen that allowed unauthorized use of Carma's intellectual property in exchange for concealed payments. [@4]
