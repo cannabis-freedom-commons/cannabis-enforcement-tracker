@@ -153,6 +153,11 @@ sources:
     url: https://english.varthabharati.in/india/woman-ganja-peddler-absconding-in-13-cases-arrested-in-hyderabad-2289196
     publisher: Vartha Bharati
     date: 2026-11-07
+  - title: 'Hyderabad: గంజాయి క్వీన్‌ నీతూబాయి అరెస్ట్‌ | ganja-queen-neetu-arrested'
+    url: https://www.eenadu.net/telugu-news/districts/hyderabad-ganja-queen-neetu-arrested/529/126202949
+    publisher: EENADU
+    date: 2026-11-08
+    language: te
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
@@ -222,18 +227,22 @@ open_questions:
   - The 22 kg ganja and ₹40 lakh cash, 7.5 kg ganja and ₹5 lakh, 22 kg ganja and ₹22 lakh cash and ₹2.60 lakh seizures Manatelangana recites are earlier operations already described in the report and are not recounted here.
   - Vartha Bharati gives her age as 51 and the apprehension date as 6 November, while the existing report opens with 48 and 5 November from earlier accounts; the difference is already tracked as an open question.
   - Vartha Bharati spells the name K Nithu Bai, while the existing report uses Kalapathi Neethu Bai; the report treats them as the same person.
+  - Eenadu dates the arrest to Saturday near Dhoolpet and in an autorickshaw towards Mangalhat; read with its 8 November 2026 publication this implies 7 November, while the report keeps 5 November 2026 in Asif Nagar from earlier accounts.
+  - Eenadu gives her age as 51, while the report's opening sentence gives 48 from The Hindu.
+  - Eenadu says she absconded for two years and counts 30 cases from 2020 to 2026 starting with a Dhoolpet excise case, while the report records more than a year absconding and 31 cases since 2018.
+  - Eenadu says 47 buyers were caught in the June raid on her home, while the report describes about 50 customers.
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
-(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2,5,6,7,12,17]
-Bai had been absconding for more than a year. [@1] EAGLE personnel traced her to
+(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2,5,6,7,12,17,20]
+Bai had been absconding for more than a year. [@1,20] EAGLE personnel traced her to
 a hideout after a tip-off. [@1] Officers found no narcotic substances on her,
 though they seized ₹1 lakh in cash. [@1,2,4,5,10]
 
 Bai was linked to an alleged marijuana-trafficking network across Hyderabad and
 Cyberabad. [@1] Bai and her family members operated an organised distribution
 network, procuring marijuana in bulk from suppliers and selling it in small
-sachets to consumers across Hyderabad and Cyberabad. [@1,10,12] An EAGLE officer said
+sachets to consumers across Hyderabad and Cyberabad. [@1,10,12,20] An EAGLE officer said
 consumers who had purchased marijuana through her network had been identified
 earlier and sent for de-addiction. [@1]
 
@@ -268,3 +277,5 @@ Disha Daily, quoting EAGLE Force director Sandeep Shandilya, reported that about
 The currency counting machines and digital weighing machines she used in a business dealing in ₹24 lakh worth of ganja a day were also seized, the article said. [@17] She was arrested in an autorickshaw travelling towards Mangalhat, the area adjoining Asif Nagar. [@17,19]
 
 Manatelangana reported the police arrest of 51-year-old Kalapathi Neethu Bai of Nanakramguda while she was travelling in an autorickshaw towards Mangalhat on Friday. [@18] The page said police had told it that she was absconding in 13 of those cases. [@18] The police enquiries behind the case counts ran from 2017 up to this year, when the report was published. [@18] Officers seized ₹1,59,500 in cash and one mobile phone from her and handed her to the Cyberabad Narcotics Police Station for further legal action. [@18] Manatelangana framed that scrutiny as an investigation of the family's buildings and of their Jayalakshmi Kirana and General Store accounts, which it said were already frozen. [@18] The page said she kept changing homes in the Nanakramguda, Gachibowli and Langer House areas and cut down her mobile phone use to stay ahead of police surveillance. [@18] Disha Daily, quoting EAGLE Force director Sandeep Shandilya, listed the 30 cases at the Dhoolpet, Narayanguda, Golconda, Serilingampally, Gachibowli and Cyberabad Narcotics police stations. [@16] The Siasat Daily reported that her customers were mostly in Nanakramguda, an area with a predominantly corporate-employee and student population. [@13]
+
+The Enforcement Directorate entered the case in September and searched three of her dens, collecting some evidence. [@20] Police demolished her kirana shop and sheet shed built by encroaching on the road. [@20]
