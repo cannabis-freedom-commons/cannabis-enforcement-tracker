@@ -41,6 +41,11 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-07
     language: ar
+  - title: القبض على يمني في جازان لترويجه (20) كجم «حشيش»
+    url: https://www.alriyadh.com/2214094
+    publisher: جريدة الرياض
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The article gives no separate date for the operations; 7 November 2026 is its publication date and is used as the incident date.
   - The headline says 25 kg of hashish but the text says 20 kg, all of it in Jazan; the report uses the text figure.
@@ -50,6 +55,8 @@ open_questions:
   - None of the suspects was named, no ages were given, and no charges before a court or court outcome was reported; all were referred to the Public Prosecution.
   - The only image is captioned with the headline, including the unsupported 25 kg figure, and cannot be confirmed to show this seizure, so no media entry is included.
   - Only one accessible source for this event was found; searches in Arabic located an Instagram reel about the operation that could not be opened as an article.
+  - The Al Riyadh page covers only the Jazan component and does not mention the Hail or Al-Baha amphetamine operations recorded in the existing report.
+  - The page gives no separate date for the arrest; 7 November 2026 is its publication date.
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control arrested several alleged
@@ -57,15 +64,16 @@ drug promoters in the Jazan, Hail and Al-Baha regions in security operations.
 [@1]
 
 In Jazan region, officers arrested a Yemeni national who had violated the border
-security law, accused of promoting 20 kilograms of hashish. [@1] In Hail region,
+security law, accused of promoting 20 kilograms of hashish. [@1,2] In Hail region,
 officers arrested two citizens accused of promoting 5,000 amphetamine tablets.
 [@1] In Al-Baha region, the directorate detained two citizens over their
 involvement in promoting amphetamine. [@1] All the suspects were stopped, legal
 procedures were taken against them and they were referred to the Public
-Prosecution. [@1]
+Prosecution. [@1,2]
 
 The directorate asked the public to report drug smugglers and promoters on 995,
 on 911 in Mecca, Medina, Riyadh and the Eastern Province, and on 999 in the rest
 of the kingdom. [@1] It said reports could also be sent by email or through its
 account on X, and would be treated in strict confidence. [@1]
 
+In the rest of the Kingdom, the reporting numbers are 999 and 994. [@2]
