@@ -45,6 +45,11 @@ sources:
     publisher: Free Press Online
     date: 2026-11-01
     language: it
+  - title: Hashish e bilancino nascosti tra gli indumenti e in casa, 21enne arrestato
+    url: https://www.canicattiweb.com/2026/11/06/hashish-e-bilancino-nascosti-tra-gli-indumenti-e-in-casa-21enne-arrestato/
+    publisher: Canicatti Web Notizie
+    date: 2026-11-06
+    language: it
 open_questions:
   - The articles give no separate date for the street stop, searches and arrest; 1 November 2026 is the earliest publication date and is used as the incident date.
   - The weight is reported as almost or about 80 grams, so 0.08 kg is an approximate police-reported figure.
@@ -54,17 +59,16 @@ open_questions:
 
 Carabinieri from the Mazzarrone station arrested a 21-year-old man of Tunisian
 origin described as previously convicted on suspicion of possessing drugs for
-dealing. [@1] The operation followed several calls from residents to the
+dealing. [@1,3] The operation followed several calls from residents to the
 Caltagirone operations room reporting a highly confused youth staggering along
-Via Botteghelle in Mazzarrone. [@1] Officers stopped and searched the young man
+Via Botteghelle in Mazzarrone. [@1,3] Officers stopped and searched the young man
 and found a precision scale soiled with hashish hidden in his underwear. [@1] A
 follow-up search of his bedroom found a block of hashish weighing almost 80
-grams inside a sports bag. [@2]
+grams inside a sports bag. [@2,3]
 
 The Carabinieri said the drug together with the packaging material pointed to
 dealing. [@1] The man was arrested in flagrante, and the judicial authority
 later validated the arrest and ordered an obbligo di firma, a requirement to
-report regularly to police for signing. [@1] The Carabinieri presented the
+report regularly to police for signing. [@1,3] The Carabinieri presented the
 intervention as part of continued territorial checks in the Calatino area
 against the circulation of narcotic substances. [@1]
-
