@@ -56,12 +56,23 @@ sources:
     publisher: Creta24.gr
     date: 2026-11-06
     language: el
+  - title: 'Ρέθυμνο: Δύο 28χρονοι συνελήφθησαν στον Μυλοπόταμο – Κατασχέθηκαν 280 γραμμάρια κάνναβης'
+    url: https://www.politica.gr/kriti/rethumno-duo-28chronoi-sunelifthisan-ston-mulopotamo-kataschethikan-280-grammaria-kannabis
+    publisher: Politica.gr
+    date: 2026-11-06
+    language: el
 open_questions:
   - No source names the village or settlement within the Municipality of Mylopotamos, so the district centre is used for coordinates.
   - No street value, plant count or additional cannabis quantity was published.
   - No court outcome was reported; the preliminary investigation was still under way.
   - The sources do not say whether the dried plant fragments are cannabis or how much there was.
   - 'Left out, as its quotation was not found in Νέα Κρήτη: Nea Kriti dates the arrests to the morning of Thursday 5 November 2026.'
+media:
+  - kind: photo
+    url: https://www.politica.gr/kriti/rethumno-duo-28chronoi-sunelifthisan-ston-mulopotamo-kataschethikan-280-grammaria-kannabis
+    media_url: https://i0.wp.com/www.politica.gr/wp-content/uploads/2026/11/chasis-narkotika-rethymno061126.jpeg?quality=92&fit=1310%2C900&ssl=1
+    publisher: Politica.gr
+    caption: Photo published with the Politica.gr account of the Mylopotamos arrests and the seizure of 280 grams of cannabis.
 ---
 
 Police arrested two 28-year-old twin brothers in the Municipality of
@@ -75,11 +86,10 @@ competent prosecutor. [@2] Creta24 also described the men as twin brothers and
 dated the coordinated operation to the morning of Thursday. [@3]
 
 Officers found and seized 280 grams of cannabis, along with dried plant
-fragments and a mobile phone. [@1] The brothers face charges under the drug laws
+fragments and a mobile phone. [@1,4] The brothers face charges under the drug laws
 and under the police ordinance on livestock theft. [@1] A case file on livestock
 theft was opened after the men said they could not gather their flock during the
-check. [@1]
+check. [@1,4]
 
 The case is being handled as possession of cannabis, alongside the
 livestock-theft file. [@1]
-
