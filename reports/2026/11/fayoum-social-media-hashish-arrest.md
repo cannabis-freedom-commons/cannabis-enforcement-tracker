@@ -64,6 +64,11 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-07
     language: ar
+  - title: ضبط شخصين بتهمة ترويج المخدرات عبر مواقع التواصل الاجتماعي بالفيوم
+    url: https://www.iqraa.news/203027/%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%B9%D8%A8%D8%B1-%D9%85%D9%88%D8%A7/
+    publisher: إقرأ نيوز
+    date: 2026-11-07
+    language: ar
 open_questions:
   - No weight, value or packet count was published for the hashish found on either man, so no cannabis quantity can be recorded.
   - The article gives no date for the arrests; 7 November 2026 is its publication date and is used as the incident date.
@@ -75,6 +80,7 @@ open_questions:
   - The page owner's home address is not described in the report, so 'home' as a setting is inferred from the district-level residence rather than stated.
   - Al-Dostor gives no weight, value or packet count for the hashish found on either man.
   - Al-Dostor's page photo is captioned only "متهمين" (the accused), with no credit, and cannot be confirmed to show this arrest rather than a recycled police handout.
+  - Iqraa News relays the Interior Ministry statement and attaches its own fact-check label; it is not independent reporting on this arrest.
 ---
 
 Security forces of the Fayoum Security Directorate arrested two men accused of
@@ -82,16 +88,16 @@ running a social media page to promote drug sales for money. [@1,2,3]
 
 The General Administration for Combating Information Technology Crimes, part of
 the communications and information technology sector, spotted the page together
-with the Public Security sector. [@1,2,3] Investigation identified the page's
+with the Public Security sector. [@1,2,3,4] Investigation identified the page's
 administrator as a worker living in Fayoum police centre's district, and
-officers found hashish and a mobile phone in his possession. [@1,2,3] Examination of
+officers found hashish and a mobile phone in his possession. [@1,2,3,4] Examination of
 the phone showed it held evidence confirming his criminal activity, police said.
 [@1]
 
 Faced with the findings the man confessed to running the page to promote drugs
 and identified a second man, unemployed and with prior criminal information,
-living within Second Fayoum police district, as his supplier. [@1,2,3] After legal
+living within Second Fayoum police district, as his supplier. [@1,2,3,4] After legal
 procedures were completed, officers arrested the second man and found hashish
-and a mobile phone with him. [@1,2,3] The second man confessed to holding the
-hashish with intent to traffic it. [@1,2,3] Police took the required legal measures
+and a mobile phone with him. [@1,2,3,4] The second man confessed to holding the
+hashish with intent to traffic it. [@1,2,3,4] Police took the required legal measures
 against both men and notified the competent investigation authorities. [@1,2]
