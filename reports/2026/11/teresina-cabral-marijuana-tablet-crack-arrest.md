@@ -74,6 +74,11 @@ sources:
     publisher: GP1
     date: 2026-11-06
     language: pt
+  - title: Homem é preso com tablete de maconha e porções de crack na zona Norte de Teresina
+    url: https://www.portalr10.com/blogs-e-colunas/183661/homem-e-preso-com-tablete-de-maconha-e-porcoes-de-crack-na-zona-norte-de-teresina/
+    publisher: Portal R10
+    date: 2026-11-06
+    language: pt
 open_questions:
   - No weight was published for the marijuana tablet, so no cannabis kilogram figure can be recorded.
   - The 198 crack wrappers are a different substance and are left out of cannabis figures.
@@ -82,6 +87,7 @@ open_questions:
   - All three accounts reproduce the same Piauí Military Police statement, so they are not independent reporting.
   - The A10+ photo is captioned only with the arrest headline and the credit Divulgação/SSP-PI; Parnaíba em Nota publishes two other SSP-PI images with the same case text, whose direct addresses could not be confirmed as showing this seizure.
   - Meio Norte credits its photo to the Piauí Military Police (Divulgação/PMPI) rather than to SSP-PI, so more than one handout image may exist for the same arrest.
+  - Portal R10 and Parnaíba em Nota carry the same two SSP-PI handout photos, and no weight was given for the marijuana tablet, so the cannabis quantity remains unrecorded.
 ---
 
 Military police from the Batalhão Especial de Policiamento do Interior (BEPI),
@@ -89,13 +95,13 @@ the Piauí Military Police's special interior policing battalion, arrested a
 31-year-old man suspected of drug trafficking in Bairro Cabral, in the northern
 zone of Teresina, on Thursday 5 November 2026. [@1] The BEPI team was on visible
 patrol in the area when officers saw the man walking along the street and
-noticed a bulge at his waistline. [@1,4] He drew the officers' attention by
+noticed a bulge at his waistline. [@1,4,6] He drew the officers' attention by
 changing his behaviour when he saw the patrol car approaching, and was stopped
 and searched. [@2,4]
 
 During the personal search officers found a tablet of a marijuana-like substance
 at his waistline and 198 wrappers of a crack-like substance hidden under his
-underwear. [@1,4] The man was arrested and taken with the seized material to
+underwear. [@1,4,6] The man was arrested and taken with the seized material to
 Teresina's Central de Flagrantes, the police station where arrests in the act
 are recorded, for the legal procedures. [@1,4] The Piauí Military Police was the
 source of the account, and a second outlet credited its photo to BEPI. [@2] The
