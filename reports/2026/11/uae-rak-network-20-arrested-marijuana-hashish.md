@@ -54,6 +54,11 @@ media:
     media_url: https://web-cdnprod.aa.com.tr/uploads/Contents/2026/11/06/thumbs_b_c_3674a9d0abf04f3838b5d70db4e727cb.jpg
     publisher: Anadolu Ajansı (الأناضول)
     caption: The Anadolu page's picture, captioned only with the headline about the arrest of 20 suspects for drug smuggling with Iraqi cooperation; the page gives no credit and it is not established to show the seizure.
+  - kind: photo
+    url: https://www.akhbrna.ae/news/alimarat-tdbt-shbka-dwlya-mn/
+    media_url: https://cdn.akhbrna.ae/img/820x461/upload/media/2026/11/img_6aedc154380932.49002162.webp
+    publisher: صحيفة اخبارنا
+    caption: The page's feature image, captioned as the seizing of an international network accused of smuggling Captagon and drugs into the UAE; the page gives no credit and the picture is not established to show this seizure.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 046f618050dae4ea03e407090bc5a422
@@ -165,6 +170,11 @@ sources:
     publisher: شفق نيوز
     date: 2026-11-06
     language: ar
+  - title: الإمارات تضبط شبكة دولية من 20 متهماً وتحبط تهريب 200 ألف قرص كبتاجون
+    url: https://www.akhbrna.ae/news/alimarat-tdbt-shbka-dwlya-mn/
+    publisher: صحيفة اخبارنا
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -213,6 +223,7 @@ open_questions:
   - No date is given for the interception or the arrests; 6 November 2026 is the announcement and publication date.
   - The source names no charges or court stage, and does not say how many suspects were caught at the border and how many inside the country.
   - The page's only picture is a webp illustration carrying the headline as its alt text, with no credit, and is not established to show this seizure, so no media entry is added.
+  - Akhbrna attributes its account to the UAE state news agency rather than quoting the anti-narcotics agency's own statement, and gives no date for the interception or the arrests.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
@@ -225,19 +236,21 @@ Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
 surveillance, Shafaq News reported. [@4,5,8,10,11,12,13,15,17,18,21,22] The network planned to bring the drugs
 in through a border area of Ras Al Khaimah and then distribute them around the
-country. [@1,8,9,10,12,16,17,18,19,20,21,22]
+country. [@1,8,9,10,12,16,17,18,19,20,21,22,23]
 
 The haul included marijuana and hashish among cocaine, crystal methamphetamine
 and Spice; the latter is a synthetic drug and is not counted as cannabis here.
-[@2,9,10,11,12,13,16,17,18,19,20,21,22] The operation also seized 200,000 Captagon pills and more than 30 kg of
+[@2,9,10,11,12,13,16,17,18,19,20,21,22,23] The operation also seized 200,000 Captagon pills and more than 30 kg of
 drugs in total, with no separate figure given for the cannabis. [@3,11,12,17,19,20]
 
 The National Anti-Narcotics Agency ran the operation with Ras Al Khaimah Police,
 Iraq's General Directorate for Narcotics and Psychotropic Substances and the
-Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10,11,12,20]
+Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10,11,12,20,23]
 The agency said the operation struck a blow at trafficking networks and called
 on the public to report suspicious activity. [@1,18,20]
 
 The network's plan was uncovered after the UAE and Iraq exchanged intelligence, and the operation was run with the police forces of Ras Al Khaimah, Dubai, Sharjah and Ajman as well as Iraq's Interior Ministry narcotics directorate, under judicial coordination with the Federal Public Prosecution. [@15,18]
 
 An international criminal network of 20 suspects holding Gulf, Arab, African and Asian nationalities was dismantled. [@19] The operation was carried out with the police forces of Ras Al Khaimah, Dubai, Sharjah and Ajman, alongside Iraq's General Directorate for Narcotics and Psychotropic Substances. [@19]
+
+Two members of the network were caught while holding the drugs and trying to smuggle them, and the remaining suspects were arrested inside the UAE in security ambushes. [@23]
