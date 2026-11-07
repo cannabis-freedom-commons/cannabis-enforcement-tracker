@@ -72,6 +72,11 @@ sources:
     publisher: Küçük Saat
     date: 2026-11-07
     language: tr
+  - title: Adana Seyhan'da 2 adrese yapılan jandarma baskınında 7 kilo 108 gram esrar bulundu - Son Dakika
+    url: https://www.sondakika.com/3-sayfa/haber-adana-seyhan-da-2-adrese-yapilan-jandarma-baskinin-20404751/
+    publisher: Son Dakika
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports give no separate date for the raids; 7 November 2026 is the publication date and is used as the incident date.
   - No charge, court step, suspect name or estimated value of the cannabis was published; the investigation was said to be continuing.
@@ -88,11 +93,11 @@ open_questions:
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses
 identified in Seyhan, a central district of Adana province, in a continuing
-anti-smuggling and anti-drug campaign. [@1,4,5] Searches at the two addresses turned
+anti-smuggling and anti-drug campaign. [@1,4,5,6] Searches at the two addresses turned
 up 7,108 grams of kubar esrar, a pressed form of cannabis known in Turkey as
-esrar. [@1,4,5] Gendarmes detained two suspects in the operation. [@1,4,5]
+esrar. [@1,4,5,6] Gendarmes detained two suspects in the operation. [@1,4,5,6]
 
-The investigation into the case was continuing. [@1,5] The gendarmerie command
+The investigation into the case was continuing. [@1,5,6] The gendarmerie command
 said its teams were continuing their work against smuggling and drugs. [@2] The
 agency account reported the haul as 7 kg 108 g of kubar esrar. [@2] The
 operation was carried out at two addresses designated in Seyhan district, and
