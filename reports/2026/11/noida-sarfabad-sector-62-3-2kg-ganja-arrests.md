@@ -39,11 +39,20 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-07
     language: hi
+  - title: 'गौतमबुद्धनगर: सेक्टर-58 पुलिस ने गांजा तस्करी के आरोप में एक युवक को दबोचा, 1.7 किलो गांजा बरामद!!'
+    url: https://www.dotookmedia.com/2026/11/58-17.html
+    publisher: Do Took Media
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives the arrests as Friday evening and is published Saturday 7 November 2026, so 6 November 2026 is used as the incident date.
   - Only one accessible source for this event was found after searching in Hindi and English.
   - No NDPS sections, case numbers, remand or court outcome beyond registration of FIRs were reported.
   - The page's lead image is stored under a 2021 file path and captioned only with the headline, so it is not confirmed to show this seizure and no media entry is added.
+  - The article's reference to a 2026 NDPS case under sections 8/20 at Sector-58 station does not say whether it is this same arrest's case or a separate earlier one.
+  - The article reports no value for the ganja and no remand, charge or court date.
+  - The article makes no mention of a second accused or of Delhi as the source of the ganja, which the other account reports.
+  - The page's single image carries only the headline and no credit establishing that it shows this seizure, so no media entry is added.
 ---
 
 Sector-113 and Sector-58 station police in Noida arrested a woman and a youth
@@ -51,7 +60,7 @@ with 3.2 kg of ganja. [@1] Police said both accused brought ganja from Delhi to
 sell in Noida. [@1] The woman was identified as 25-year-old Rafsana, a native of
 Cooch Behar in West Bengal who lives in the Sarfabad slums. [@1] The youth was
 identified as 26-year-old Lavkush, a resident of Khoda Colony in Ghaziabad,
-arrested near the Chhota D Park gate in Sector-62. [@1]
+arrested near the Chhota D Park gate in Sector-62. [@1,2]
 
 Police recovered 1.5 kg of ganja from the woman. [@1] Police recovered 1.7 kg of
 ganja from Lavkush's bag. [@1] A Sector-113 team on evening patrol near the
@@ -63,3 +72,4 @@ company employees, slum dwellers and factory areas. [@1] ADCP Abhay Kumar Mishra
 said FIRs were registered against both accused and police were gathering
 information about others linked to the network. [@1]
 
+In this arrest he was booked under sections 8/20 of the NDPS Act at Sector-58 police station in 2026. [@2]
