@@ -18,8 +18,9 @@ figures:
 media:
   - kind: photo
     url: https://www.hindustantimes.com/india-news/tripura-cops-who-destroyed-60-000-cannabis-plants-attacked-5-hurt-official-101702566442239.html
+    media_url: https://www.hindustantimes.com/ht-img/img/2023/12/14/1600x900/The-attack-took-place-in-Panchabati-area-of-Sidhai_1702566432221.jpg
     publisher: Hindustan Times
-    caption: 'The scene of the attack in Panchabati, Sidhai Mohanpur, West Tripura. Photo: West Tripura police (X/wd_police), via Hindustan Times.'
+    caption: "Personnel cutting cannabis plants in the Sidhai plantation destruction that preceded the attack (Hindustan Times)."
 details:
   agency_types: [police]
   case_stage: appeal
@@ -56,6 +57,7 @@ open_questions:
   - The map marks Mohanpur locality (Sidhai Mohanpur area); the sources name only the Panchabati area of Sidhai Mohanpur village, not an exact plot.
   - 'Left out, as its quotation was not found in The Indian Express: The injured were treated and discharged from hospital, and an officer said their injuries were not severe.'
   - 'Left out, as its quotation was not found in The Indian Express: A state police official said a sustained drive to destroy illegal cannabis plantations was under way across Tripura, with at least 2.8 million plants destroyed in the year to that point.'
+  - Indian Express published a street crowd photograph of the aftermath that did not show the cannabis field clearly enough for a separate media_url entry here.
 ---
 
 At least five personnel of the Tripura Police and the Tripura State Rifles were

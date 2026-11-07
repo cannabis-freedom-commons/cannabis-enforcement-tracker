@@ -35,10 +35,10 @@ data_sources:
   figures.prison: [1, 3]
 media:
   - kind: photo
-    url: https://www.thezimbabwean.co/2025/07/high-court-slashes-harsh-15-year-jail-term-for-cannabis-dealer/
-    archived: https://web.archive.org/web/20250723063415/https://www.thezimbabwean.co/2025/07/high-court-slashes-harsh-15-year-jail-term-for-cannabis-dealer/
-    publisher: ZimLive via The Zimbabwean
-    caption: Seized cannabis pictured as illicit goods with the report on the sentence review.
+    url: https://www.zimbabwesituation.com/news/high-court-slashes-harsh-15-year-jail-term-for-cannabis-dealer/
+    media_url: https://www.zimbabwesituation.com/wp-content/uploads/2025/07/IMG_2362.jpeg
+    publisher: Zimbabwe Situation
+    caption: "Dried cannabis in a container, published with coverage of the Beitbridge sentence review (Zimbabwe Situation)."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [beitbridge, appeal]
