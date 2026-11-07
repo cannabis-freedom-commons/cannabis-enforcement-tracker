@@ -122,6 +122,10 @@ sources:
     publisher: GhanaWeb
     date: 2026-11-06
     language: en
+  - title: 'Playback: Newsfile discussed Traffitech-GH, drug busts'
+    url: https://www.myjoyonline.com/playback-newsfile-discussed-traffitech-gh-drug-busts/
+    publisher: MyJoyOnline
+    date: 2026-11-07
 open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
   - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
@@ -152,6 +156,7 @@ open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates, and the sacks had not been confirmed as cannabis by laboratory testing when this account was published.
   - The article was published on 6 November 2026 but describes the interception as taking place on 5 November 2026.
   - GhanaWeb gives no identity of the boat operators and does not say whether the boats, outboard motors or fuel were retained.
+  - This is a programme preview published the day the Newsfile edition aired, not reporting of the seizure itself, and it gives no sack count, arrest figure or laboratory confirmation.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
@@ -190,3 +195,5 @@ Director of Naval Operations Captain Festus Osei Brobbey commended residents for
 Peace FM Online reported that the abandoned boats were escorted to Ada Foah and searched at about 5:00 a.m. in the presence of NACOC officials. [@11] Peace FM Online reported that each of the 117 sacks contained more than 80 tightly packed parcels. [@11]
 
 The Ghana Navy's preliminary intelligence suggested the consignment was being transported out of Ghana to Nigeria. [@12]
+
+Ghana Navy seized approximately 4.8 tonnes of suspected marijuana at the Volta Lake estuary near Ada, with the consignment allegedly destined for Nigeria. [@13]
