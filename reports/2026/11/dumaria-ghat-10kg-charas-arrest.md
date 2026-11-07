@@ -95,6 +95,11 @@ sources:
     url: https://timesofindia.indiatimes.com/city/patna/charas-worth-rs10-cr-seized-one-held-in-muzaffarpur/articleshow/135613557.cms
     publisher: The Times of India
     date: 2026-11-06
+  - title: 'बिहार : 10 करोड़ के चरस और 61 ग्राम स्मैक के साथ 2 तस्कर गिरफ्तार'
+    url: https://sanmarg.in/bihar-news-hindi/bihar-2-smugglers-arrested-with-charas-worth-10-crore-and-61-grams-of-smack
+    publisher: Sanmarg Hindi Daily
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The incident date of 5 November 2026 is inferred because the reports published on 6 November 2026 say the Dumaria Ghat arrest happened on Thursday.
   - The same articles report a separate Purnia operation in which a woman was held with 61 grams of smack and a motorcycle; smack is not cannabis, so that seizure, vehicle and arrest are excluded from this cannabis report.
@@ -118,6 +123,8 @@ open_questions:
   - Gandiv Live does not state the weight of the charas or the site of the interception, giving only the district and the Rs 10 crore valuation in its headline.
   - Neither this web story nor The Followup gives a charge, case number or court outcome; both say investigation is continuing.
   - 'Left out, as its quotation was not found in गांडीव लाइव: The seized consignment was to be delivered to Patan district in Gujarat.'
+  - Sanmarg reports that the seized charas consignment was to be delivered to Patan district in Gujarat, consistent with the existing report, but gives no further detail on the suspected carrier's onward route.
+  - The page attributes the Dumaria Ghat arrest to a joint STF and DRI operation covering the DRI's Patna and Muzaffarpur units, which other accounts reported differently; no case number or charge was published on this page either.
 ---
 
 A joint team of the Bihar Police Special Task Force and the Directorate of
@@ -142,3 +149,5 @@ The DRI's Muzaffarpur regional unit made the recovery after stopping a bus in th
 According to an STF statement, the syndicate planned to move the consignment through multiple trains and deliberately delay its movement to evade detection, and the load was scheduled to travel onwards on 5 November. [@10] Acting on a tip about a suspected carrier travelling by bus, the team intercepted the bus at Dumariaghat and arrested him. [@10] Police sources said the syndicate moved the charas from Nepal to Patan in Gujarat via Basti in Uttar Pradesh. [@10]
 
 The STF said it is also verifying the arrested man's criminal history. [@3]
+
+The joint team that stopped the man in East Champaran and seized the 10 kg of charas was drawn from the Special Task Force and the DRI's Patna and Muzaffarpur units. [@11]
