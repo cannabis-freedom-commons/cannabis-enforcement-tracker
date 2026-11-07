@@ -61,6 +61,11 @@ sources:
     publisher: চাঁদপুর টাইমস
     date: 2026-11-06
     language: bn
+  - title: মতলবে ১৫ মামলার আসামিসহ ৫ মাদককারবারি গ্রেফতার
+    url: https://dailynayadiganta.com/post/country/1067220
+    publisher: Daily Naya Diganta
+    date: 2026-11-06
+    language: bn
 open_questions:
   - The article gives no weight or value for the 30 yaba tablets; they are not part of the cannabis figures.
   - The article does not say what the two men arrested in the Upadhi and Nalua areas were found with, so the 50 grams of ganja is reported only for the two arrested in Badarpur.
@@ -74,6 +79,9 @@ open_questions:
   - 'The accounts disagree on Major Dalim''s age and case count: Chandpur Times calls him 35 and an accused in 15 cases while its headline says 10, and earlier reports gave him as 30.'
   - Chandpur Times gives 60 grams of ganja and 30 yaba tablets in total, while the existing report records 50 grams of ganja.
   - The page photo carries only the alt caption 'মামলার' (case) and no credit, so no media entry is added.
+  - Naya Diganta describes five people as arrested drug traffickers while naming six people detained, including a third man held on a sentence warrant in the Badarpur raid; the existing report counts six arrested.
+  - Naya Diganta gives 20 grams of ganja in the Badarpur raid, while Chandpur Times reported 30 grams for one of the two men held there, so the totals differ between accounts.
+  - Naya Diganta does not say what the man held in the Upadhi raid was found with, and gives yaba only for the two men arrested in the Nairgaon area.
 ---
 
 Police in Matlab Dakshin upazila, Chandpur, arrested six people in separate
@@ -96,3 +104,5 @@ Nalua areas. [@1,2]
 Sub-Inspector Delwar Hossain of Matlab Dakshin police station said all six had
 been produced in court and that Dalim faces 15 cases. [@1] The officer said such
 police drives to eliminate drugs would continue. [@1]
+
+In the Badarpur raid, police arrested two men, aged 25 and 21, with 20 grams of ganja, and also detained a man convicted in another case. [@4] In a separate raid, police arrested a 34-year-old man from the South Nalua area of the municipality's ward 7 with 40 grams of ganja. [@4]
