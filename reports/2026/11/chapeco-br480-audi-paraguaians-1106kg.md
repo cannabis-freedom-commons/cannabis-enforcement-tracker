@@ -50,6 +50,11 @@ media:
     media_url: https://novalenoticias.com.br/wp-content/uploads/2026/11/apreensao-drogas-02-750x375.jpg?v=1794002039
     publisher: No Vale Notícias
     caption: 'Photo published with the BR-480 seizure report showing the seized marijuana; the page carries no credit. Photo: No Vale Notícias'
+  - kind: photo
+    url: https://www.lenoticias.com.br/noticia/39780/dois-paraguaios-sao-presos-com-mais-de-110-kg-de-maconha-na-br-480
+    media_url: https://www.lenoticias.com.br/extranet/thumbnail/crop/850/Noticia/whatsapp_image_2026_11_06_at_19_1794006851174.55.42.jpeg
+    publisher: Lê Notícias
+    caption: 'Photo published with the BR-480 report showing the seized marijuana; the page carries no credit. Photo: Lê Notícias'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bb21bdeedb4a001c8eb5e2ef1c56801a
@@ -70,6 +75,11 @@ sources:
     publisher: No Vale Notícias
     date: 2026-11-06
     language: pt
+  - title: Dois paraguaios são presos com mais de 110 kg de maconha na BR-480
+    url: https://www.lenoticias.com.br/noticia/39780/dois-paraguaios-sao-presos-com-mais-de-110-kg-de-maconha-na-br-480
+    publisher: Lê Notícias
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The reported weight of 110.6 kg is an aggregate for the marijuana tablets found; no separate figure for packing or purity was published.
   - No charge has been formally filed and no court outcome was reported; the case was at the Federal Police station stage.
@@ -79,19 +89,21 @@ open_questions:
   - Left out vehicles, as its quotation was not found in Portal Oeste Mais.
   - The page publishes four photographs of the seized tablets, but only one direct image address could be recovered; the caption carries no credit beyond the outlet, so it is not established whether they are PRF handout images already recorded from RCO.
   - The name of the Federal Police station is given as a delegacia rather than a superintendência, a detail not stated in the earlier accounts.
+  - The Lê Notícias photo carries no credit and cannot be confirmed as a distinct asset from the PRF handout images already linked from RCO.
+  - The page's second image (lenoticias.com.br/extranet/uploads/Noticia/5703398d480a7f157f88e2fe8253da5f.jpg) has no caption and was not listed as media.
 ---
 
 Federal Highway Police (Polícia Rodoviária Federal, PRF) officers stopped an
 Audi with Paraguayan plates on the BR-480 in Chapecó, western Santa Catarina, on
-the afternoon of Friday 6 November 2026. [@1] Two Paraguayan men were travelling
+the afternoon of Friday 6 November 2026. [@1,4] Two Paraguayan men were travelling
 in the car. [@2] Officers said the occupants showed extreme nervousness, which
 led them to search the car in detail. [@1,3]
 
 In the boot and other compartments they found several tablets of marijuana
-weighing 110.6 kilograms, the figure the PRF reported. [@2] The two men were
-arrested in the act (em flagrante, caught at the scene). [@1]
+weighing 110.6 kilograms, the figure the PRF reported. [@2,4] The two men were
+arrested in the act (em flagrante, caught at the scene). [@1,4]
 
 Officers took them to the Federal Police station in Chapecó together with the
-car and the seized drug. [@2,3] They are to answer for the crime of international
-drug trafficking. [@1] The accounts came from the PRF and were carried by local
+car and the seized drug. [@2,3,4] They are to answer for the crime of international
+drug trafficking. [@1,4] The accounts came from the PRF and were carried by local
 outlets in western Santa Catarina. [@2]
