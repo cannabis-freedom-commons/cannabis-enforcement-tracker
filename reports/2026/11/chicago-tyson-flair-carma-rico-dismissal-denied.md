@@ -28,6 +28,10 @@ sources:
   - title: Tyson v. Bronstein (1:25-cv-15462)
     url: https://www.courtlistener.com/docket/72062643/tyson-v-bronstein/
     publisher: CourtListener (RECAP Archive)
+  - title: MIke Tyson, Ric Flair Score Big Win In Court In $50 Mil Cannabis Biz Lawsuit
+    url: https://www.aol.com/articles/mike-tyson-ric-flair-score-233558000.html
+    publisher: AOL
+    date: 2026-11-06
 open_questions:
   - No date was published for the ruling; 6 November 2026 is the TMZ publication date and is used as the incident date.
   - The court and case number come from the federal docket published by the CourtListener RECAP archive, not from the TMZ account, which names only a federal judge in Illinois.
@@ -38,22 +42,21 @@ open_questions:
 
 A federal judge in Illinois refused to dismiss the racketeering lawsuit that
 Mike Tyson and Ric Flair, among other plaintiffs, filed in December 2025 over
-their cannabis businesses. [@1] Tyson and Flair accuse five people linked to
+their cannabis businesses. [@1,3] Tyson and Flair accuse five people linked to
 Carma and the Tyson 2.0 cannabis brand of taking the boxer and the wrestler for
-large sums. [@1] The case is Tyson et al. v. Bronstein et al., No.
+large sums. [@1,3] The case is Tyson et al. v. Bronstein et al., No.
 1:25-cv-15462, a civil racketeering suit filed in the U.S. District Court for
 the Northern District of Illinois on 19 December 2025. [@2]
 
 The plaintiffs say two of the defendants, Carma executives, ran the company as a
 personal piggy bank and diverted more than $1 million to private jet travel, a
-yacht and home renovations. [@1] Other defendants were accused of taking
-kickbacks on deals they negotiated without the two men's knowledge. [@1] Five
+yacht and home renovations. [@1,3] Other defendants were accused of taking
+kickbacks on deals they negotiated without the two men's knowledge. [@1,3] Five
 defendants filed a joint motion asking the court to throw the case out for
-various reasons, having strongly denied wrongdoing. [@1] The judge rejected
-their arguments, so the case will continue. [@1]
+various reasons, having strongly denied wrongdoing. [@1,3] The judge rejected
+their arguments, so the case will continue. [@1,3]
 
 A representative of Tyson 2.0 called the ruling a significant development in the
-plaintiffs' pursuit of justice. [@1] Tyson and Flair are seeking tens of
+plaintiffs' pursuit of justice. [@1,3] Tyson and Flair are seeking tens of
 millions of dollars, both for money they say was taken and for deals they missed
-out on, and the ruling was a step in the case rather than a final win. [@1]
-
+out on, and the ruling was a step in the case rather than a final win. [@1,3]
