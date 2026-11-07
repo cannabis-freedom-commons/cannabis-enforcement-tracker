@@ -59,6 +59,11 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-06
     language: hi
+  - title: रोहिड़ा पुलिस ने करोड़ों की गांजे की खेती का किया पर्दाफाश,2 आरोपी गिरफ्तार
+    url: https://palisirohionline.in/rohida-ganja-kheti-pardafash/
+    publisher: Pali Sirohi Online News by Pintu Agarwal
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The article gives no separate date for the raid; 6 November 2026 is its publication date and is used as the incident date.
   - No count of the plants seized in the four fields was published, only their combined weight of 1,548.484 kg.
@@ -66,26 +71,28 @@ open_questions:
   - The name of the village or locality of the four fields was not published; Kedar Padar is given only as the home of the two arrested men.
   - No court outcome or remand decision was reported; the four cases were still under investigation.
   - Only one opened source was found for this raid; a search surfaced only the same ETV Bharat article and a social-media post without a full account.
+  - Pali Sirohi Online names the cover crops as maize, castor and varayali, while ETV Bharat reported maize and other crops; the difference is noted rather than reconciled.
+  - Neither account gives a separate date for the raid; 6 November 2026 is the publication date of both pages.
+  - 'Left out, as its quotation was not found in ETV Bharat: Officers searched four separate fields in the Rohida police station area and seized 1,548.484 kg of green ganja plants in total.'
 ---
 
 Sirohi police arrested a 25-year-old man and a 19-year-old man, both residents
 of Kedar Padar in the Rohida police station area, over illegally grown ganja.
-[@1] Police registered four cases under the NDPS Act and began investigating
+[@1,2] Police registered four cases under the NDPS Act and began investigating
 other aspects linked to the fields and the people behind the cultivation and its
 network. [@1]
 
 Officers searched four separate fields in the Rohida police station area and
 seized 1,548.484 kg of green ganja plants in total. [@1] The plants were found
-growing illegally among maize and other crops in the hilly terrain. [@1] Police
-put the estimated value of the seized ganja at more than one crore rupees. [@1]
+growing illegally among maize and other crops in the hilly terrain. [@1,2] Police
+put the estimated value of the seized ganja at more than one crore rupees. [@1,2]
 The raid followed a tip-off, with the team led by the Rohida station officer
 under the supervision of additional superintendent Narendra Kumar and circle
 officer Rahul Meena, on the instructions of superintendent Dr Ajeya Singh
-Rathore. [@1]
+Rathore. [@1,2]
 
 Rathore said the raid was part of Operation Trinetra, a district drive against
 the cultivation, smuggling and trade of illegal drugs that includes special
 surveillance of remote hilly areas. [@1] He said no one involved in the drug
 trade would be spared and that intensive searches would continue across the
 district. [@1]
-
