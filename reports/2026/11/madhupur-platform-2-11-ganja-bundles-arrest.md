@@ -37,6 +37,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/07/e94fc07c-db47-4c12-b2aa-8244941e9413_1794033946401.jpg
     publisher: Dainik Bhaskar
     caption: 'Photo published with the report of the seizure at Madhupur railway station; it carried no caption or credit. Photo: Dainik Bhaskar'
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/rpf-arrested-smuggler-with-ganja-at-madhupur-station-in-deoghar-jhs26110703890
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/07-11-2026/1200-675-28060670-thumbnail-16x9-deoghar.jpg
+    publisher: ETV Bharat
+    caption: 'Police photo published with the report of the ganja seizure at Madhupur railway station, captioned ''Ganja smuggler arrested by RPF''. Photo: ETV Bharat'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 43e6894012b0ff8eb9ee5c36a54ae89e
@@ -57,6 +62,11 @@ sources:
     publisher: Kashish News
     date: 2026-11-07
     language: hi
+  - title: मधुपुर रेलवे स्टेशन पर आरपीएफ की बड़ी कार्रवाई, 12 लाख रुपये का गांजा के साथ तस्कर गिरफ्तार
+    url: https://www.etvbharat.com/hi/state/rpf-arrested-smuggler-with-ganja-at-madhupur-station-in-deoghar-jhs26110703890
+    publisher: ETV Bharat
+    date: 2026-11-07
+    language: hi
 open_questions:
   - No weight in kilograms was published, only a count of 11 bundles, so no cannabis weight can be recorded.
   - The article's later paragraphs, which appear to name the suspect, his age and village, the night-time timing and the investigation status, sit behind a paywall and were not part of the captured text, so they are left out of the report.
@@ -68,11 +78,15 @@ open_questions:
   - Only one local second account of the arrest could be found, and it is a one-line news item.
   - The platform and station are named but not separately geolocated; the coordinates are of Madhupur town.
   - The account gives about 25 kg as an approximate weight, and it is the first source to give any weight for the 11 bundles.
+  - ETV Bharat puts the ganja's value at about ₹13 lakh, while the existing report, from Dainik Bhaskar, gives about ₹12.50 lakh; both are police estimates.
+  - ETV Bharat gives no weight in kilograms and no separate date for the arrest; 7 November 2026 is its publication date.
+  - ETV Bharat does not report the joint Crime Intelligence Branch involvement described in a local account.
+  - ETV Bharat's headline says ₹12 lakh of ganja while its text quotes the RPF inspector putting the value at about ₹13 lakh.
 ---
 
 A joint team of the Railway Protection Force stopped and searched a young man on
 platform no. 2 of Madhupur railway station after his movements appeared
-suspicious. [@1,3] The team arrested him with 11 bundles of ganja. [@1,3]
+suspicious. [@1,3] The team arrested him with 11 bundles of ganja. [@1,3,4]
 
 Dainik Bhaskar puts the value of the seized ganja at about ₹12.50 lakh. [@1,3] Two
 accounts say the man was arrested with ganja on the platform of Madhupur railway
@@ -81,6 +95,8 @@ station. [@2]
 The operation was carried out by a joint team of the Railway Protection Force
 and the CIB, as described by a local Madhupur account. [@2,3] The local account
 dates the item to 7 November 2026 and places it in Madhupur, Deoghar district,
-Jharkhand. [@2]
+Jharkhand. [@2,4]
 
-The 11 bundles were taken from a trolley bag and a rucksack, and when weighed the ganja came to about 25 kg. [@3] The arrested man was 20 years old and a resident of Nayagarh in Odisha. [@3] After the arrest the RPF handed the man and the ganja to the Madhupur railway police, who sent him to judicial custody, the remand a magistrate orders while a case is investigated. [@3]
+The 11 bundles were taken from a trolley bag and a rucksack, and when weighed the ganja came to about 25 kg. [@3,4] The arrested man was 20 years old and a resident of Nayagarh in Odisha. [@3] After the arrest the RPF handed the man and the ganja to the Madhupur railway police, who sent him to judicial custody, the remand a magistrate orders while a case is investigated. [@3]
+
+The Madhupur RPF inspector, H.K. Singh, said the seized ganja was estimated to be worth about ₹13 lakh. [@4]
