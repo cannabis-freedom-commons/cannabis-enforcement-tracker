@@ -44,6 +44,11 @@ sources:
     publisher: Miejski Reporter - wydarzenia Warszawa
     date: 2026-11-07
     language: pl
+  - title: 'Warszawa: 15-latek po zapaleniu marihuany zaniepokoił się swoim samopoczuciem. Sam zadzwonił na policję'
+    url: https://informacje.wp.pl/wiadomosci/15-latek-po-zapaleniu-marihuany-zaniepokoil-sie-swoim-samopoczuciem-sam-zadzwonil-na-policje-7348418399672768a
+    publisher: WP Info
+    date: 2026-11-07
+    language: pl
 open_questions:
   - No weight or quantity for the handed-over dried material was published, so no cannabis quantity is recorded.
   - No separate date for the intervention was given; 6 November 2026 is the publication date of both the police statement and the WP Info report and is used as the incident date.
@@ -53,22 +58,23 @@ open_questions:
   - The Mokotów police page lead is a stock interior shot of a Policja patrol car, not this seizure, so no media entry is included.
   - The Miejski Reporter account gives no separate date for the intervention; 6 November 2026, used by the earlier report, is the publication date of the police statement, while this account was published on 7 November 2026.
   - The account gives no weight for the dried material and only a preliminary identification as possible marijuana, with no laboratory confirmation.
+  - The page's main photograph shows a policeman by a patrol car with an ambulance on a snowy street and carries no credit, so it does not depict this seizure and no media entry is included.
 ---
 
 A 15-year-old boy felt unwell after smoking marijuana and called for help
-himself. [@1,3] Police officers, including local community officers known as
+himself. [@1,3,4] Police officers, including local community officers known as
 dzielnicowi, quickly arrived at the scene and secured the boy's safety while
 calling a medical rescue team and taking steps over the revealed substance. [@2]
 Paramedics examined the boy on the spot and found no need for hospitalisation.
-[@1] He voluntarily handed the officers dried plant material that a preliminary
+[@1,4] He voluntarily handed the officers dried plant material that a preliminary
 test indicated could be marijuana, and officers secured the substance for
-further proceedings. [@2]
+further proceedings. [@2,4]
 
 Police press officer Marta Haberska said officers ensured the 15-year-old's
 safety, called rescuers, secured the handed-over dried material and then
 notified his parents. [@1,3] Officers drew up the necessary documentation and
 passed the minor to officers who handle juvenile cases. [@1] The collected
-materials were sent to the family court, which will decide the case. [@1,3] The
+materials were sent to the family court, which will decide the case. [@1,3,4] The
 intervention was handled within the Warsaw police district II area covering
 Mokotów, Ursynów and Wilanów. [@2,3] Police described the response as an example
 of rapid reaction to reports and careful treatment of a person in need of help.
