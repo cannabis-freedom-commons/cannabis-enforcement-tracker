@@ -90,6 +90,11 @@ sources:
     publisher: صدى البلد
     date: 2026-11-01
     language: ar
+  - title: مباحث طهطا تضبط تاجر حشيش بقرية الجبيرات
+    url: https://ekhbary24.com/article/42730
+    publisher: إخباري 24 نيوز
+    date: 2026-11-07
+    language: ar
 open_questions:
   - None of the four accounts gives the weight of the hashish or the amount of cash seized.
   - No separate date is given for the arrest; 1 November 2026 is the publication date of all four accounts.
@@ -101,18 +106,21 @@ open_questions:
   - The submitted page was published on 2 November 2026 while the existing report's accounts were published on 1 November 2026; no separate arrest date is given, so the later date appears to be republication of the same arrest.
   - The page gives no weight for the hashish and no amount for the cash seized.
   - Whether the page image shows this arrest is not established from its caption and surrounding text, so no media entry is added.
+  - The page gives no weight for the hashish, no amount for the cash and no separate date for the arrest; 7 November 2026 is its publication date.
+  - The page names the suspect as Nour A. S. and repeats the police statement, adding no independent detail.
+  - The page image is captioned only with a section and time label and is not established to show this seizure, so no media entry is added.
 ---
 
 Police in Tahta, a district in northern Sohag governorate, arrested a
 34-year-old man with a quantity of hashish, saying he was caught before he could
-sell the drug to customers. [@1,7,10] The man, identified in police accounts as N. A.
+sell the drug to customers. [@1,7,10,12] The man, identified in police accounts as N. A.
 S., lives in Al-Jubayrat village in the district. [@2,6,8,9,10,11] Detectives had received a
 tip that he was dealing in drugs and using one of the district's villages as his
 base. [@1,7,11]
 
 The operation followed authorisation from the Public Prosecution and was led by
 Ahmed al-Bariri, head of the Tahta police investigations unit, with Captain Alaa
-Omran assisting. [@3,7,9,10,11] Police said he was caught in the act with the seized
+Omran assisting. [@3,7,9,10,11,12] Police said he was caught in the act with the seized
 items. [@1] Besides the hashish, officers found cash that police suspect came
 from drug sales. [@2,5,8,10,11] Questioned by police, he admitted holding the drugs for
 sale and said he wanted quick financial profit. [@1,7] He was referred to the
