@@ -53,6 +53,11 @@ sources:
     publisher: Deshabhimani
     date: 2026-11-06
     language: ml
+  - title: കഞ്ചാവ് തൃശൂരിലെത്തിച്ചാൽ 20,000 രൂപ നൽകാമെന്ന വാഗ്ദാനം. തൃശൂർ റെയിൽവേ സ്റ്റേഷനിൽ ആറുകിലോയോളം കഞ്ചാവുമായി 19കാരൻ പിടിയിൽ
+    url: https://www.sathyamonline.com/news/news-keralam/thrisur-12790364
+    publisher: Sathyam Online
+    date: 2026-11-06
+    language: ml
 open_questions:
   - 'The two accounts differ on the planned destination: The Hindu says the bag was to be handed to someone at Aluva, while Deshabhimani says the ganja was to be paid for on delivery in Thrissur.'
   - The exact weight is 5.966 kg; The Hindu rounds it to 6 kg and Deshabhimani's headline says about six kilograms.
@@ -61,6 +66,9 @@ open_questions:
   - The value of ₹3 lakh is the authorities' estimate, not a court-assessed figure.
   - No information was published about the person the consignment was meant for.
   - The Hindu's lead image is an iStock anti-drug stock photo, and Deshabhimani did not yield a usable event photo, so no media entry is listed.
+  - Sathyam credits the arrest to railway station police under Thrissur West Circle Inspector S. Anshad and names the station house officer's team as those who caught the man, while the existing report attributes the operation to the RPF Crime Intelligence Branch; the relationship between the two teams is unclear.
+  - Sathyam repeats that the ganja was to be delivered in Thrissur, while The Hindu account in the report says the bag was to be handed to someone at Aluva.
+  - Sathyam gives no value for the seized ganja, unlike The Hindu's ₹3 lakh estimate.
 ---
 
 Railway Protection Force officers arrested a 19-year-old West Bengal native at
@@ -90,3 +98,4 @@ Psychotropic Substances (NDPS) Act, India's drug law. [@1] The accused and the
 seized material were produced before a court. [@2] The force said inspections
 would be intensified for the Deepavali season. [@1]
 
+The page lists അറസ്റ്റ് and reported the seizure at Thrissur railway station. [@3]
