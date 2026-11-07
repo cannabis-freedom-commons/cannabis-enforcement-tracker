@@ -62,6 +62,11 @@ sources:
     publisher: Rikosuutiset
     date: 2026-11-06
     language: fi
+  - title: Poliisi paljasti laajan kannabiskasvatuksen Keski-Suomessa
+    url: https://tilannemedia.fi/poliisi-paljasti-laajan-kannabiskasvatuksen-keski-suomessa/
+    publisher: Tilannemedia
+    date: 2026-11-06
+    language: fi
 open_questions:
   - No figure for the number of cannabis plants taken was published, and no split between the plants and the cannabis material within the more than 20 kilos is given.
   - The article gives no exact date for the searches; only summer 2026 is stated, so 6 November 2026, the publication date, is used as the incident date.
@@ -72,13 +77,14 @@ open_questions:
   - The page picture is an archive photo of a police car, not an image of this event, and no photo of this cultivation was published, so no media entry is included.
   - The Yle and Rikosuutiset accounts both reproduce the same Central Finland police statement, so they are not independent reporting.
   - The text gives a number of plants ("2026 found plants") but the figures have no plants_destroyed; check whether it belongs there.
+  - The page image is a close-up of a police emblem, not a photo of this cultivation, so no media entry is included.
 ---
 
 Police suspect five men from Central Finland of aggravated drug offences
 committed in 2025 and 2026, and say they found a large-scale cannabis
 cultivation. [@1] Officers arrested the suspects in summer 2026, and three of
 them remain held on remand. [@1] At the same time police searched buildings
-controlled by the suspects and an industrial hall. [@1]
+controlled by the suspects and an industrial hall. [@1,4]
 
 The searches led police to seize cannabis plants and potent cannabis material
 weighing more than 20 kilograms in total. [@1] Police put the street value of
@@ -86,17 +92,16 @@ the cannabis at about 240,000 to 370,000 euros. [@1] Detective chief inspector
 Ari Rutanen, who led the investigation, said police believe at least two crops
 had been harvested before the searches. [@1] Police suspect the cultivation and
 sale lasted about a year. [@1] The growing took place on several properties in
-Äänekoski, Viitasaari and Saarijärvi in Central Finland. [@1] Rutanen said the
+Äänekoski, Viitasaari and Saarijärvi in Central Finland. [@1,4] Rutanen said the
 amount suggests the operation was professional and that cannabis was grown for
 sale as well. [@1] The growing used old residential properties in remote areas.
 [@1]
 
 Police said the suspects had different roles, for example in cultivation and in
-sales. [@2] In aggravated drug offences involving cannabis the threshold is one
+sales. [@2,4] In aggravated drug offences involving cannabis the threshold is one
 kilogram, a limit the amount found far exceeds. [@1] Rutanen said such a large
 case is unusual, because cases that come to the authorities' attention are
 usually small operations in a single flat or a grow tent. [@1] Police have
 completed the preliminary investigation, and the case has gone to prosecutors
 for consideration of charges. [@1] The statement came from the Central Finland
 police department, whose account Yle and Rikosuutiset published. [@3]
-
