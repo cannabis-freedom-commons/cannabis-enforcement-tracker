@@ -50,6 +50,11 @@ media:
     media_url: https://s.yimg.com/lo/mysterio/api/67eba24467cb900f3f99e05122c718b3fb073219b02529d532cff7d357456e5f/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fstandard%2Fraw%2Fcpsprodpb%2F1ba3%2Flive%2F69c857e0-d9c8-11f1-93e1-3b657b665bcf.png
     publisher: BBC (via Yahoo News)
     caption: 'Police photographs of cannabis plants in pots on a floor and dried cannabis on mesh drying trays under lamps, found at the couple''s Burgh Common home. Photo: Norfolk Police'
+  - kind: photo
+    url: https://www.bbc.co.uk/news/articles/c6ly334x5z33o
+    media_url: https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/cb94/live/051337c0-d9f0-11f1-b441-2b33b063138f.jpg.webp
+    publisher: BBC News
+    caption: 'Police photographs of cannabis plants in pots on a floor, left, and dried cannabis on mesh drying trays under lamps, right, found at the couple''s Burgh Common home. Photo: Norfolk Police'
 details:
   activity: [possession]
   agency_types: [police, court]
@@ -288,6 +293,10 @@ sources:
     url: https://www.dailymail.com/news/article-16271659/Husband-home-cannabis-farm-jailed.html
     publisher: Daily Mail
     date: 2026-11-06
+  - title: Attleborough couple, in their 70s, grew cannabis farm at home
+    url: https://www.bbc.co.uk/news/articles/c6ly334x5z33o
+    publisher: BBC News
+    date: 2026-11-06
 open_questions:
   - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
   - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
@@ -323,12 +332,14 @@ open_questions:
   - The article reports 25 plants at sentencing, while the earlier guilty plea recorded in the report was entered for 28 plants.
   - This account gives the sentencing court as Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
   - The Daily Mail describes Mark Ayres as a director of multiple companies, a personal detail not carried in the other accounts of the sentencing.
+  - The BBC gives the sentencing court as Norwich Crown Court, which matches the existing report but conflicts with PA syndications naming Norfolk Crown Court.
+  - The BBC account gives the search only as in May 2025, without the 20 May date the report records.
 ---
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown
 Court for their involvement in producing cannabis at their home in Burgh Common,
-near Attleborough in Norfolk. [@1,4,5,7,11,18,19,21,22,24,25,27,30,31,33,38,39,40,41,43,44,45,46,48,50,51,52,53] Marion Ayres was given nine months in prison,
-suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,42,43,44,45,46,47,48,49,50,52,53]
+near Attleborough in Norfolk. [@1,4,5,7,11,18,19,21,22,24,25,27,30,31,33,38,39,40,41,43,44,45,46,48,50,51,52,53,54] Marion Ayres was given nine months in prison,
+suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,42,43,44,45,46,47,48,49,50,52,53,54]
 Mark Ayres had pleaded guilty to producing cannabis and to possessing cannabis
 with intent to supply, while Marion Ayres admitted producing cannabis. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,23,25,26,27,29,30,33,34,35,37,38,39,40,43,46,47,48,50,51,53]
 
@@ -336,7 +347,7 @@ Both were arrested after Norfolk Constabulary officers executed a warrant at the
 couple's home on 20 May 2025, as part of an investigation into cannabis supply
 in the area. [@2,6,7,8,9,10,11,12,14,15,16,17,18,20,21,22,23,24,25,26,27,28,29,30,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53] Officers found 25 cannabis plants and approximately 5.7 kg of
 dried cannabis, which police estimated had a street value of more than £46,000.
-[@1,4,5,6,7,8,9,10,12,13,14,15,18,20,21,22,24,25,26,27,28,29,30,31,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53] At an earlier hearing at Norwich Magistrates' Court, Mark Ayres had pleaded
+[@1,4,5,6,7,8,9,10,12,13,14,15,18,20,21,22,24,25,26,27,28,29,30,31,32,33,35,36,38,39,40,41,42,43,44,45,46,47,48,49,50,52,53,54] At an earlier hearing at Norwich Magistrates' Court, Mark Ayres had pleaded
 guilty to possessing 5.7 kg of cannabis with intent to supply and to producing
 28 cannabis plants on that date. [@3] Marion Ayres denied both charges at that
 stage and was sent to Norwich Crown Court for a trial preparation hearing. [@3]
@@ -349,7 +360,7 @@ He began growing cannabis at a former gym in his home. [@4,51,53] He started sma
 
 The sentencing was held at Norfolk Crown Court on Thursday 5 November 2026. [@18,28,29,53]
 
-Both had pleaded guilty to producing cannabis, and Mark Ayres also admitted possessing cannabis with intent to supply. [@28,34,36,42]
+Both had pleaded guilty to producing cannabis, and Mark Ayres also admitted possessing cannabis with intent to supply. [@28,34,36,42,54]
 
 The coverage describes the house where the cannabis was grown as worth about £1m. [@48]
 
