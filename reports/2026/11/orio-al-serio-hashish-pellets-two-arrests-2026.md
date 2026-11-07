@@ -81,6 +81,11 @@ sources:
     publisher: La Provincia Unica Tv
     date: 2026-11-06
     language: it
+  - title: 'Nello zaino una “panciera” imbottita di 219 ovuli: arrestato corriere della droga con 2 kg e mezzo di hashish al posto dei souvenir'
+    url: https://www.ilgiorno.it/lecco/cronaca/droga-spagna-1895d92d
+    publisher: Il Giorno
+    date: 2026-11-06
+    language: it
 open_questions:
   - The articles give no date for the airport checks or the arrests; 6 November 2026, when the case was announced, is used as the incident date.
   - No charge, court date or outcome for either man was reported; the authorities said the case is at the preliminary investigation stage.
@@ -91,12 +96,16 @@ open_questions:
   - The submitted page carries a video player whose direct video address could not be confirmed, so only still photos are listed.
   - The page carries no date for the checks themselves; 6 November 2026, the publication date, stands in for the incident date.
   - The page's single image is an airport-themed illustration with no credit and shows no seizure, so it is linked without being treated as evidence of the drugs found.
+  - Il Giorno gives the hashish's retail value as almost 25,000 euros, while the report records the Guardia di Finanza figure of more than 51,000 euros. The existing open question on differing values therefore remains, and the Il Giorno figure is another estimate for the same shipment.
+  - Il Giorno opens with the dateline 'Lecco, 6 giugno 2026' but carries 6 November 2026 as its publication and update date, and the corresponding tracker report dates the event 6 November 2026; the day the checks took place is still not stated.
+  - Il Giorno's text once calls the man 38 years old where its headline and body give 48; the existing report's 48 years is used.
+  - The page's photos are captioned only as the drugs found at Orio, with no credit, so no new media entry is added; the report already links Guardia di Finanza handout photos from other outlets.
 ---
 
 A 48-year-old man living in Lecco province returned from a week in Málaga with
 only a small backpack and no suitcase, and Guardia di Finanza officers at Orio
 al Serio airport found a belt worn as a belly band holding 219 hashish pellets.
-[@1,4] The hashish weighed 2.3 kilograms in total, and the man was arrested by
+[@1,4,5] The hashish weighed 2.3 kilograms in total, and the man was arrested by
 soldiers of the Orio al Serio company of the Guardia di Finanza, Italy's finance
 police, with staff of the airport detachment of the Agenzia delle Dogane e dei
 Monopoli, the customs agency. [@1] Officials announced the case on Friday 6
@@ -105,10 +114,10 @@ from Brussels after swallowing 83 pellets. [@1]
 
 A drug dog named Kenny alerted officers to the backpack of the passenger
 arriving from Spain, during intensified checks, including on night flights, of
-arrivals from Spanish and Belgian airports. [@1] Investigators believe the
+arrivals from Spanish and Belgian airports. [@1,5] Investigators believe the
 48-year-old was to be paid 1,500 euros to bring the drug to Italy and hand it to
 people he did not know, who would contact him outside the terminal; he told
-officers at the time of his arrest that he did not know the recipients. [@3]
+officers at the time of his arrest that he did not know the recipients. [@3,5]
 Prima Bergamo reported that the man is unemployed with previous convictions for
 drug dealing. [@2] The Guardia di Finanza said that, because of its high THC
 content, the hashish would have generated more than 51,000 euros of profit on
@@ -125,3 +134,5 @@ jaw route with different departure and arrival airports intended to evade
 customs risk analysis. [@1] The authorities said the proceedings were at the
 preliminary investigation stage and that the suspects' guilt could be
 established only by a final conviction. [@2]
+
+According to Il Giorno, the two people who were to collect the hashish realised the handover had been dropped after the arrest and disappeared. [@5]
