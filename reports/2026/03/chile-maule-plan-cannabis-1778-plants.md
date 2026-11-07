@@ -43,9 +43,9 @@ tags: [maule, pdi, plan-cannabis, irrigation]
 media:
   - kind: photo
     url: https://www.diarioelcentro.cl/2026/03/11/desarticulan-cultivos-ilegales-de-marihuana-en-san-clemente-retiro-y-longavi-incautan-mas-de-1-700-plantas/
-    archived: https://web.archive.org/web/20260421192442/https://www.diarioelcentro.cl/2026/03/11/desarticulan-cultivos-ilegales-de-marihuana-en-san-clemente-retiro-y-longavi-incautan-mas-de-1-700-plantas/
-    publisher: Diario El Centro (Talca)
-    caption: The uprooted plants from the Maule cultivation sites, tagged as evidence (PDI).
+    media_url: https://www.diarioelcentro.cl/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-11-at-4.02.28-PM.jpeg
+    publisher: Diario El Centro
+    caption: "Uprooted cannabis plants tagged as PDI evidence after the Maule cultivation seizures (Diario El Centro / PDI)."
 open_questions:
   - The police gave no date for each search and no location finer than the commune; the sites are described only as rural and precordilleran.
   - No arrests or charges were reported in these accounts.

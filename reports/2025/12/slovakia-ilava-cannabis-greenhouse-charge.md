@@ -18,8 +18,9 @@ figures:
 media:
   - kind: photo
     url: https://www.aktuality.sk/clanok/OQkAepQ/policajti-z-trencianskeho-kraja-odhalili-nelegalnu-plantaz-konopy-podozriveho-obvinili/
+    media_url: https://img.aktuality.sk/foto/trencianska-policia-odhalila-nelegalne-pestovanie-drog/MTIwMHg2MzAvc21hcnQvZmlsdGVyczpmb3JtYXQod2VicCk6cXVhbGl0eSg3MCk6d2F0ZXJtYXJrKGh0dHA6Ly9sb2NhbGhvc3Q6ODEvaW1nL2FrdHVhbGl0eV93YXRlcm1hcmtfdjIsLTI0LC0yNCwwKS9odHRwOi8vbG9jYWxob3N0OjgxL3B1bHNjbXMtdHJhbnNmb3Jtcy8x/t9GktkpTURBXy80NjM0MDIzOTg3YjM0NzY3MWIxOTQ0OWNjYTdkYmMwNC5qcGeSlQMAzPnNBDjNAl-VAs0H0ADCww?st=K-_1wJw-tc7tNXC9DzmUVtNISYexusdkKCNa91EKpqA&ts=1794006000&e=0
     publisher: Aktuality.sk
-    caption: 'Cannabis plants in a police photograph published with the case announcement. Photo: Polícia SR – Trenčiansky kraj via Aktuality.sk'
+    caption: "Cannabis plants in a police photograph published with the Ilava case announcement (Polícia SR – Trenčiansky kraj via Aktuality.sk)."
 details:
   activity: [possession]
   agency_types: [police]

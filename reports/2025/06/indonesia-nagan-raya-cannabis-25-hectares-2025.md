@@ -37,16 +37,9 @@ data_sources:
 media:
   - kind: photo
     url: https://aceh.antaranews.com/berita/387093/bareskrim-polri-musnahkan-25-ha-ladang-ganja-di-nagan-raya
-    publisher: ANTARA News Aceh
-    caption: 'Joint team members standing in a cannabis field during the destruction of a 25-hectare plantation in the Beutong Ateuh Banggalang mountains, Nagan Raya, on 24 June 2025. Photo: ANTARA/HO-Dok. Polres Nagan Raya Aceh'
-  - kind: photo
-    url: https://www.liputan6.com/news/read/6083603/tim-gabungan-musnahkan-25-hektare-ladang-ganja-di-nagan-raya
-    publisher: Liputan6
-    caption: 'Joint police and customs team destroying a 25-hectare cannabis field in Beutong Ateuh Banggalang, Nagan Raya. Photo: Istimewa'
-  - kind: photo
-    url: https://news.detik.com/berita/d-7980582/bareskrim-musnahkan-25-hektare-ladang-ganja-di-nagan-raya-aceh
-    publisher: detikNews
-    caption: 'Police and joint-team members at a cannabis field in Nagan Raya, Aceh. Photo: Agus Setyadi/detikSumut'
+    media_url: https://cdn.antaranews.com/cache/1200x800/2025/06/25/1000048551_1.jpg
+    publisher: ANTARA
+    caption: "Joint team members with uprooted cannabis plants during the Nagan Raya destruction (ANTARA)."
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [aceh, nagan-raya, cannabis-plantation, eradication]
@@ -70,6 +63,7 @@ open_questions:
   - Antara says the destruction took six days, from 19 to 24 June 2025; Liputan6 says it was carried out on 24 June and that the fields were destroyed on site the same day.
   - The plot-by-plot counts in the Antara report total 880,000 plants at seven of the eight sites and give no count for a three-hectare plot in Blang Meurandeh; the roughly one million figure is police's estimate of 40,000 plants per hectare across 25 hectares.
   - The reports name no farmers or landowners and do not say whether anyone was detained at the fields; no charges, court dates or sentences for the two detained suspects were reported.
+  - Liputan6 and Detik covered the same Nagan Raya destruction without separate direct media_url entries here.
 ---
 
 Police destroyed cannabis fields across 25 hectares in Beutong Ateuh Banggalang,

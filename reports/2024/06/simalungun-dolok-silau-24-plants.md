@@ -32,16 +32,9 @@ data_sources:
 media:
   - kind: photo
     url: https://daerah.sindonews.com/read/1397259/717/disamarkan-pohon-kopi-ladang-ganja-ditemukan-di-dolok-silau-simalungun-1718460387
-    publisher: SINDOnews Daerah
-    caption: 'Police officers stand in the cannabis field hidden among coffee trees in Juma Lepar, Dolok Silau. Photo: SINDOnews (Foto/Ist).'
-  - kind: photo
-    url: https://sumut.antaranews.com/berita/574689/tanam-ganja-dikebun-kopi-sekeluarga-di-simalungun-diamankan-polisi
-    publisher: ANTARA News Sumatera Utara
-    caption: 'Simalungun police personnel show cannabis plants growing between coffee trees in Nagori Ujung Bawang, Dolok Silau. Photo: ANTARA/HO-Humas Polres Simalungun.'
-  - kind: photo
-    url: https://sumut.antaranews.com/berita/574815/polres-simalungun-sita-24-pohon-ganja-dari-ladang-warga
-    publisher: ANTARA News Sumatera Utara
-    caption: 'Simalungun police personnel display the seized cannabis plants at Juma Lepar, Dolok Silau. Photo: ANTARA/HO-Polres Simalungun.'
+    media_url: https://pict.sindonews.com/dyn/850/pena/news/2024/06/15/717/1397259/disamarkan-pohon-kopi-ladang-ganja-ditemukan-di-dolok-silau-simalungun-cqd.jpg
+    publisher: SINDOnews
+    caption: "Police officers with uprooted cannabis plants among coffee trees in Dolok Silau (SINDOnews)."
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [simalungun, coffee, north-sumatra]
@@ -65,6 +58,7 @@ open_questions:
   - 'The reports differ on when SG fled: one says the night of Thursday 12 June 2024, while others link it to the police visit around the field''s discovery on Friday 14 June.'
   - No weight for the 24 plants and no area for the field were reported.
   - The reports name no arrest of SG and no charges or court outcome, and they do not say whether SMB and RAG were detained or released.
+  - ANTARA Sumut published additional coffee-garden photos of the same Simalungun find without a separate direct media_url entry here.
 ---
 
 Police found a cannabis field ready for harvest, hidden among coffee trees in

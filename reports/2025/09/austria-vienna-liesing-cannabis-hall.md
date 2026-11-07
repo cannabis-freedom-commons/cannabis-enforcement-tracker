@@ -63,9 +63,9 @@ sources:
 media:
   - kind: photo
     url: https://wien.orf.at/stories/3358039/
-    archived: https://web.archive.org/web/20260910055649/https://wien.orf.at/stories/3358039/
+    media_url: https://oekastatic.orf.at/mims/2026/24/06/crops/w=1200,h=627,q=75/3069222_master_1188206_c4.jpg?s=ae951347699b8cec1a581c07a817f510347d8ef2
     publisher: ORF Wien
-    caption: The cannabis plantation inside the 3,200 sq m hall in Liesing
+    caption: "Flowering cannabis plants on benches inside the Liesing warehouse hall (ORF Wien)."
 open_questions:
   - Only the Krone report names Hvar as the place of arrest and gives the 3.5 to 4 million euro profit estimate, the three rented storage rooms, the wholesale buyer's arrest and the test purchase that started the case; no second opened source corroborates them.
   - Krone attributes the nickname "Psychonaut" to the 46-year-old, while ORF Wien describes it only as the nickname of a main suspect.

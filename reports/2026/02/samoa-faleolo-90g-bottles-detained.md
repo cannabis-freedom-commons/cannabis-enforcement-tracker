@@ -52,8 +52,9 @@ sources:
 media:
   - kind: photo
     url: https://www.rnz.co.nz/news/pacific/586643/samoa-authorities-detain-nz-passport-holder-following-marijuana-seizure-at-faleolo-international-airport
+    media_url: https://media.rnztools.nz/rnz/image/upload/s--mt1yIJsk--/t_tohu-badge-facebook/f_auto/q_auto/4JTBWQE_633409865_1313277480835399_4945870416908190837_n_jpg
     publisher: RNZ
-    caption: 'Seized bottles of marijuana and drug test kits laid out after the Faleolo interception. Photo: Samoa Government via RNZ'
+    caption: "Seized marijuana tubs and Duquenois-Levine test kits after the Faleolo interception (Samoa Government via RNZ)."
 ---
 
 A 43-year-old Samoan national holding a New Zealand passport was detained in

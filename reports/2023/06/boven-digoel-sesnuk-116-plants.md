@@ -31,16 +31,9 @@ data_sources:
 media:
   - kind: photo
     url: https://jateng.antaranews.com/berita/497307/satgas-pamtas-yonif-725-temukan-ladang-ganja-di-papua-selatan
-    publisher: ANTARA News Jateng
-    caption: 'Soldiers and a customs officer stand in tall grass at the cannabis field found in the Km 56 forest, Sesnuk District. Photo: ANTARA/HO-Humas Satgas Pamtas RI-PNG Yonif 725.'
-  - kind: photo
-    url: https://regional.kompas.com/read/2023/06/15/142939978/ladang-ganja-seluas-200-meter-persegi-ditemukan-di-hutan-boven-digoel
-    publisher: Kompas.com
-    caption: 'Satgas and customs personnel at the cannabis field on 14 June 2023. Photo: Kompas.com/Fuci Manupapami.'
-  - kind: photo
-    url: https://tniad.mil.id/gagalkan-indikasi-pelanggaran-di-tapal-batas-satgas-yonif-725-wrg-dan-bea-cukai-merauke-temukan-ladang-ganja/
-    publisher: TNI Angkatan Darat
-    caption: 'Army photographs of the patrol at the cannabis field in the Km 56 forest. Photo: TNI Angkatan Darat.'
+    media_url: https://cdn.antaranews.com/cache/800x533/2023/06/21/Screenshot_20230621_102548_copy_800x600.jpg
+    publisher: ANTARA
+    caption: "Border task-force personnel at the cannabis plot found in the Sesnuk forest, Boven Digoel (ANTARA)."
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [papua, boven-digoel, cannabis-field, border-patrol]
@@ -65,6 +58,7 @@ open_questions:
   - The coordinates are for the Sesnuk district centre, not the Km 56 forest site.
   - The two people arrested in April 2023 were detained in an earlier, related case and are not counted as arrests in this event.
   - Ladang Ganja Seluas 200 Meter Persegi Ditemukan di Hutan Boven Digoel (Kompas.com) could not be opened again to check its quotations (The browser page answered HTTP 403.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
+  - Kompas and TNI AD covered the same Boven Digoel field find without separate direct media_url entries here.
 ---
 
 A joint patrol of the RI–PNG border task force Yonif 725/Woroagi and Merauke
