@@ -55,6 +55,11 @@ media:
     media_url: https://asset.kompas.com/crops/-a54jCj6w7e55IzeZx8Y68n98U4=/0x0:0x0/1200x800/data/photo/2026/11/07/6aee5c87ef537.jpg
     publisher: Kompas.com
     caption: 'Salatiga narcotics officers arrest the man who grew cannabis in 85 pots. Photo: Humas Polres Salatiga via Kompas.com'
+  - kind: photo
+    url: https://jateng.murianews.com/zulkifli-fahmi/479855/tanam-85-pohon-ganja-di-rumah-pria-salatiga-ditangkap-polisi
+    media_url: https://images.murianews.com/data/2026/11/penampakan-tanaman-ganja-yang-dibudidayakan-pria-d-20261107073528.jpeg
+    publisher: Murianews
+    caption: 'Cannabis plants cultivated inside the house in Perumahan Mekar Elok, Tingkir Tengah, displayed after seizure. Photo: Polres Salatiga via Murianews'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2c00403481f740df6c7486fa09de31d1
@@ -80,6 +85,11 @@ sources:
     publisher: Kompas.com
     date: 2026-11-07
     language: id
+  - title: Tanam 85 Pohon Ganja di Rumah, Pria Salatiga Ditangkap Polisi
+    url: https://jateng.murianews.com/zulkifli-fahmi/479855/tanam-85-pohon-ganja-di-rumah-pria-salatiga-ditangkap-polisi
+    publisher: Murianews
+    date: 2026-11-07
+    language: id
 open_questions:
   - No weight was published for the dried cannabis found alongside the 85 pots, so no kilogram figure is recorded.
   - The articles give the number of pots (85) but no count of individual plants, and no area.
@@ -93,21 +103,23 @@ open_questions:
   - 'Left out, as its quotation was not found in RASIKAFM.COM: Police presented the rooftop find as a case of cannabis cultivation hidden in an ordinary residential neighbourhood.'
   - Left out environment, as its only supporting source is not cited by the report's text.
   - Kompas.com describes the grow as at the suspect's house without specifying the rooftop location named in earlier reports.
+  - Murianews gives the suspect's age as 58 and initials KSBKN, while the existing report records a 59-year-old man with inconsistently reported initials across its sources.
+  - Murianews describes the grow as inside the occupied house and in pots and polybags, while the existing report describes a rooftop grow in 85 pots; the more precise structure (rooftop versus interior) remains unresolved.
 ---
 
 Police from the narcotics unit at Salatiga district police arrested a
 59-year-old man who was growing cannabis on the roof of his house in Kelurahan
 Tingkir Tengah, Kecamatan Tingkir, Kota Salatiga, on Thursday 5 November 2026.
-[@1,4] Officers searched the house's rooftop area and found cannabis plants at
+[@1,4,5] Officers searched the house's rooftop area and found cannabis plants at
 every stage of growth, from seeds and small seedlings to bushy plants that
 appeared ready for harvest, along with dried cannabis. [@1] Police counted 85
-pots of cannabis plants as the total evidence taken in the raid. [@1,4]
+pots of cannabis plants as the total evidence taken in the raid. [@1,4,5]
 
 The suspect was taken with all the evidence to the Salatiga police narcotics
 unit office for questioning. [@2] Salatiga narcotics chief AKP Joko Iskandar
 confirmed the raid and said one person was detained. [@2] Joko said the initial
 account given to investigators was that the cannabis was grown for the suspect's
-own use and was not sold. [@2]
+own use and was not sold. [@2,5]
 
 Investigators said they were still establishing why the man grew the cannabis on
 his roof, where the seeds came from, how long he had been growing it, and
@@ -120,3 +132,5 @@ Other Indonesian outlets reported the same arrest of the 59-year-old held over
 dozens of potted cannabis plants on his rooftop. [@3]
 
 Alongside the 85 pots, police seized 7.01 grams of cannabis seeds and 15.48 grams of dried cannabis. [@4] Police said the suspect faces Article 111 paragraph (2) of Law Number 35 of 2009 on Narcotics in conjunction with Law Number 1 of 2026 on Criminal Penalty Adjustment. [@4] The man told investigators he kept cannabis plants, leaves and dried seeds at his house as a supply for his own consumption. [@4]
+
+The occupied house was in Perumahan Mekar Elok, Tingkir Tengah, Tingkir, Kota Salatiga. [@5]
