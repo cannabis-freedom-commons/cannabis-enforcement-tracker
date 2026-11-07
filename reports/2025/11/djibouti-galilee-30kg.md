@@ -37,6 +37,8 @@ open_questions:
   - The driver was not named and no court outcome was reported in these sources.
   - No photographs of the seizure were found on the opened pages.
   - The pin uses Ali Sabieh town near the Galilée frontier; coarse border maps may flag southern Djibouti as outside the country polygon.
+  - ADI does not report the packing of the cannabis into 20 balls of about 1.5 kg each, and does not publish the driver's name or any court outcome.
+  - The page picture on the ADI report has no caption or credit, so it cannot be confirmed to show this seizure; its direct address was recorded as a media link.
 sources:
   - title: >-
       Près de 30 kg de cannabis, d'une valeur de 774 millions FD, saisis par les douaniers
@@ -52,14 +54,27 @@ sources:
     publisher: RTD
     date: 2025-11-17
     language: fr
+  - title: Près de 30 kg de cannabis, d’une valeur de 774 millions FD, saisis par les douaniers d’Ali-Sabieh
+    url: https://www.adi.dj/article/13684
+    publisher: ADI News
+    date: 2025-11-17
+    language: fr
+media:
+  - kind: photo
+    url: https://www.adi.dj/article/13684
+    media_url: https://www.adi.dj/uploads/images_articles/f6455b2e80d35412d70eed4afdf896b3.jpg
+    publisher: ADI News
+    caption: The page picture on the ADI report of the Galilée cannabis seizure; it carries no caption or credit on the page.
 ---
 
 Around 02:00 on 17 November 2025, customs officers from the Ali Sabieh brigade at the Galilée
-border post stopped a truck-trailer during a routine check. [@1,2]
+border post stopped a truck-trailer during a routine check. [@1,2,3]
 
 They found 29.8 kilograms of cannabis concealed in the vehicle's spare wheels, packed in 20 balls
-of about 1.5 kilograms each. [@1,2] The customs service valued the load at 774 million Djiboutian
-francs. [@1,2]
+of about 1.5 kilograms each. [@1,2,3] The customs service valued the load at 774 million Djiboutian
+francs. [@1,2,3]
 
 The driver was arrested immediately and, with the drugs, was handed to gendarmes of the northern
-brigade to investigate before any prosecution. [@1,2]
+brigade to investigate before any prosecution. [@1,2,3]
+
+ADI reports that the vehicle was carrying close to 30 kg of cannabis. [@3] The director general of customs and indirect duties, Gouled Ahmed Youssouf, said the officers' priority was to protect citizens against illicit products. [@3]
