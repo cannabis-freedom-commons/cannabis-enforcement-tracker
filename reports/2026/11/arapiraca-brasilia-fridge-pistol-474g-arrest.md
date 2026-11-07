@@ -70,6 +70,11 @@ sources:
     publisher: TNH1
     date: 2026-11-06
     language: pt
+  - title: Homem é preso com pistola 9mm, maconha e cocaína escondidas em geladeira
+    url: https://www.alagoas24horas.com.br/1773033/homem-e-preso-com-pistola-9mm-maconha-e-cocaina-escondidas-em-geladeira/amp/
+    publisher: Alagoas 24 Horas
+    date: 2026-11-06
+    language: pt
 open_questions:
   - No name for the suspect beyond his age was published; the four accounts describe the same man.
   - The cannabis weights are as stated by the Military Police, with no laboratory confirmation reported.
@@ -79,6 +84,7 @@ open_questions:
   - No charge, custody hearing or court outcome was reported for the man.
   - Arapiraca coordinates are the city centre, not a point on Rua Cícero Torres.
   - 'Left out, as its quotation was not found in 7Segundos: At the police station the man presented a national driver''s licence whose photograph did not match his appearance, and an Infoseg system check confirmed the divergence.'
+  - Whether the Alagoas 24 Horas lead photo shows the seized items, the hiding place or the suspect is not stated in any caption or credit.
 ---
 
 Military Police officers arrested a 51-year-old man at a house on Rua Cícero
@@ -89,22 +95,22 @@ intelligence from the BOPE special operations battalion's intelligence unit in
 Maceió that a Justice fugitive holding two firearms was in the area. [@2]
 Officers cordoned off the property, whose gate was padlocked, and ordered the
 man to come out while he moved through the rooms holding a gun; part of the team
-carried a ballistic shield and negotiated with him. [@2] After a few minutes the
+carried a ballistic shield and negotiated with him. [@2,5] After a few minutes the
 man broke a mobile phone in front of the officers and unlocked the gate, and he
 was then restrained and searched. [@2]
 
 The searches found a loaded Taurus G2C 9mm pistol hidden in the motor of a
-refrigerator, with four magazines and 30 intact 9mm rounds. [@2] A sniffer dog,
+refrigerator, with four magazines and 30 intact 9mm rounds. [@2,5] A sniffer dog,
 K9 Kaos, indicated illicit material in the house, where officers found cannabis
 and cocaine. [@2] The cannabis seized was a 459-gram tablet plus two smaller
 portions weighing a total of 15 grams, about 474 grams, which is the figure
-recorded here. [@2] Officers also seized a 106-gram cocaine rock and a bag with
-another 8 grams of cocaine, which are not counted as cannabis. [@2] Two
+recorded here. [@2,5] Officers also seized a 106-gram cocaine rock and a bag with
+another 8 grams of cocaine, which are not counted as cannabis. [@2,5] Two
 precision scales, R$425 in cash and a broken Redmi 15C phone were seized as
-well. [@2] When questioned, the man admitted the seized material was his. [@2]
+well. [@2,5] When questioned, the man admitted the seized material was his. [@2]
 
 The suspect and all the seized material were taken to the Central de Polícia
-Civil in Arapiraca for the legal procedures. [@2] TNH1 reported that the arrest
+Civil in Arapiraca for the legal procedures. [@2,5] TNH1 reported that the arrest
 involved an integrated operation by officers from three Military Police units,
 including Pelopes and the Canil unit, and that he remained detained at the
 disposal of the courts. [@4] The Military Police reported that he may also have
@@ -114,5 +120,6 @@ NN1 put the total cannabis at 474 grams and the cocaine at 114 grams. [@3]
 
 The submitted account reported the 51-year-old as suspected of being a Justice
 fugitive who kept two firearms, and listed 30 rounds of 9mm ammunition, four
-magazines and R$425 in cash among the items seized. [@1]
+magazines and R$425 in cash among the items seized. [@1,5]
 
+The suspect presented an identity document, but an Infoseg system check found that the photograph on his national driver's licence did not match his appearance. [@5]
