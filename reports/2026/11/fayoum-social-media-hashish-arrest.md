@@ -49,6 +49,11 @@ sources:
     publisher: نيوز رووم
     date: 2026-11-07
     language: ar
+  - title: فك شفرة صفحة إلكترونية لترويج المخدرات وضبط القائمين عليها بالفيوم
+    url: https://gate.ahram.org.eg/News/5979993.aspx
+    publisher: بوابة الأهرام
+    date: 2026-11-07
+    language: ar
 open_questions:
   - No weight, value or packet count was published for the hashish found on either man, so no cannabis quantity can be recorded.
   - The article gives no date for the arrests; 7 November 2026 is its publication date and is used as the incident date.
@@ -61,21 +66,20 @@ open_questions:
 ---
 
 Security forces of the Fayoum Security Directorate arrested two men accused of
-running a social media page to promote drug sales for money. [@1]
+running a social media page to promote drug sales for money. [@1,2]
 
 The General Administration for Combating Information Technology Crimes, part of
 the communications and information technology sector, spotted the page together
-with the Public Security sector. [@1] Investigation identified the page's
+with the Public Security sector. [@1,2] Investigation identified the page's
 administrator as a worker living in Fayoum police centre's district, and
-officers found hashish and a mobile phone in his possession. [@1] Examination of
+officers found hashish and a mobile phone in his possession. [@1,2] Examination of
 the phone showed it held evidence confirming his criminal activity, police said.
 [@1]
 
 Faced with the findings the man confessed to running the page to promote drugs
 and identified a second man, unemployed and with prior criminal information,
-living within Second Fayoum police district, as his supplier. [@1] After legal
+living within Second Fayoum police district, as his supplier. [@1,2] After legal
 procedures were completed, officers arrested the second man and found hashish
-and a mobile phone with him. [@1] The second man confessed to holding the
-hashish with intent to traffic it. [@1] Police took the required legal measures
-against both men and notified the competent investigation authorities. [@1]
-
+and a mobile phone with him. [@1,2] The second man confessed to holding the
+hashish with intent to traffic it. [@1,2] Police took the required legal measures
+against both men and notified the competent investigation authorities. [@1,2]
