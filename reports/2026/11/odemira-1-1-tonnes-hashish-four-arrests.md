@@ -78,6 +78,11 @@ sources:
     publisher: Rua Direita
     date: 2026-11-06
     language: pt
+  - title: Operação “Barcas” leva à apreensão de 1,1 toneladas de haxixe e à detenção de quatro suspeitos
+    url: https://jornaltvs.pt/11/2026/operacao-barcas-leva-a-apreensao-de-11-toneladas-de-haxixe-e-a-detencao-de-quatro-suspeitos/
+    publisher: Jornal TVS
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
@@ -93,15 +98,18 @@ open_questions:
   - Rua Direita gives no separate date for the police action, only that the detainees would appear in court 'today', its publication date of 6 November 2026.
   - The page's only image is a generic file named drugs.jpg with no caption or credit, so no event photo is listed from this page.
   - Beyond the house-search sentence, the page's body paragraphs could not be validated against the captured text, so none of its other sentences are quoted here.
+  - The Jornal TVS page says the four detainees 'serão presentes a primeiro interrogatório judicial' while the existing report records that they were placed in pre-trial detention; the accounts describe the case at slightly different moments.
+  - Jornal TVS gives no separate date for the operation, only that it ran 'nos últimos dias'; 6 November 2026 is its publication date.
+  - The submitted page's only article image is a screen capture captioned with a timestamp and no credit, so it is not established to show this seizure and no media is listed.
 ---
 
 Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
-municipality of Odemira. [@1,4,5] They were suspected of trafficking more than a
+municipality of Odemira. [@1,4,5,9] They were suspected of trafficking more than a
 tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
 were to be brought before a judge for a first judicial interrogation and
 coercive measures. [@1]
 
-Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7] The
+Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7,9] The
 operation began after authorities spotted a suspicious high-speed vessel crewed
 by unidentified people whose presence near the Portuguese coast was unjustified.
 [@1] House searches led to the seizure of a car with a false number plate. [@1]
@@ -111,9 +119,9 @@ movements and communications equipment. [@1]
 It was a joint operation by the PJ's National Unit to Combat Drug Trafficking
 and the GNR's Coastal and Border Control Unit, named Operation Barcas, against
 international trafficking by sea. [@1,4,5,7] The operation, called Barcas, ran over
-recent days with support from the Navy and the Air Force. [@2] It also had
+recent days with support from the Navy and the Air Force. [@2,9] It also had
 support from the Maritime Analysis and Operations Centre – Drugs, an
-international cooperation body against trafficking by sea. [@2]
+international cooperation body against trafficking by sea. [@2,9]
 
 The four detainees are aged between 16 and 43 and are foreign nationals. [@3,7] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3,7]
 
