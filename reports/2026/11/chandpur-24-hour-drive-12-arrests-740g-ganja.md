@@ -70,6 +70,11 @@ sources:
     publisher: আমার দেশ
     date: 2026-11-07
     language: bn
+  - title: চাঁদপুরে একদিনে আওয়ামী লীগের ৬২ নেতাকর্মীসহ গ্রেপ্তার ৭৪ জন
+    url: https://risingcumilla.com/%E0%A6%9A%E0%A6%BE%E0%A6%81%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%8F%E0%A6%95%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AE%E0%A7%80/
+    publisher: Rising Cumilla
+    date: 2026-11-07
+    language: bn
 open_questions:
   - Only one article could be found for this drive; no police statement page or second outlet report could be opened.
   - The statement gives no dates, places or charges for the individual raids beyond the station names, and no court outcome.
@@ -100,12 +105,15 @@ open_questions:
   - The page picture is captioned only with the headline, so it is not established to show this seizure and no media entry is added.
   - 'Left out, as its quotation was not found in আমার দেশ: Faridganj police recovered 540 grams of ganja and 50 yaba pieces, Matlab Dakshin police 50 grams of ganja and 30 yaba pieces, and Shahrasti police 150 grams of ganja and 26 yaba pieces.'
   - 'Left out, as its quotation was not found in আমার দেশ: Police said legal proceedings were completed against those arrested in the narcotics cases.'
+  - This account gives no per-station counts for the 12 drug arrests, only the recoveries by station, so it does not resolve which stations made them.
+  - It lists 166 yaba pieces in total but its station-by-station figures sum to more than that, so the yaba split is not reliable.
+  - It does not say whether charge sheets were filed or the 12 appeared in court.
 ---
 
 Police in Chandpur district arrested 12 people accused in drug cases during
 separate raids by the district's police stations in the 24 hours to Friday 6
-November 2026. [@1,2,4,5,6,7] Officers recovered 740 grams of ganja and 166 pieces of
-yaba, a methamphetamine tablet, from the 12 arrested people. [@1,2,6,7]
+November 2026. [@1,2,4,5,6,7,8] Officers recovered 740 grams of ganja and 166 pieces of
+yaba, a methamphetamine tablet, from the 12 arrested people. [@1,2,6,7,8]
 
 The figures were released in a press statement signed by Nadira Nur, Chandpur's
 additional superintendent of police for administration and finance. [@1,2,4] The
