@@ -52,13 +52,15 @@ sources:
 media:
   - kind: photo
     url: https://www.aigiovoice.gr/erymanthos-pano-apo-300-dendryllia-kannavis-entopise-i-el-as-erevnes-gia-ton-entopismo-ton-draston/
+    media_url: https://www.aigiovoice.gr/wp-content/uploads/2026/10/5.10.2026-korinthia-entopismos-fyteias-posothta-kannavhs-3-e1791197551301.webp
     publisher: Aigio Voice
-    caption: The cleared cannabis plot in the Erymanthos forest
+    caption: "Cut cannabis spread on a tarp beside standing plants at the Erymanthos forest plot (Aigio Voice)."
   - kind: photo
     url: https://dete.gr/erymanthos-vrikan-fyteia-me-330-dendryllia/
     archived: https://web.archive.org/web/20261008222611/https://dete.gr/erymanthos-vrikan-fyteia-me-330-dendryllia/
+    media_url: https://dete.gr/wp-content/uploads/2026/10/fitia.jpg
     publisher: dete.gr
-    caption: Cannabis plants and drying material seized by police
+    caption: "Flowering cannabis plants in the Erymanthos forest clearing (dete.gr)."
 ---
 
 Police found a cannabis plantation in a steep forest area of Erymanthos municipality in Achaea on

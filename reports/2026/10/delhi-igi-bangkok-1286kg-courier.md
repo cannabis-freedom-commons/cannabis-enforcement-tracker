@@ -39,8 +39,9 @@ tags: [delhi, airport, bangkok-route, customs, ndps]
 media:
   - kind: photo
     url: https://apnamatvchannel.com/india/delhi-customs-at-igi-airport-seize-marijuana-worth-rs-4-5-crore-passenger-arrested/
+    media_url: https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20261010033603.jpg
     publisher: ANI
-    caption: "Seized marijuana from the passenger's bag (ANI via APNA MA TV)."
+    caption: "Compressed marijuana slab from the passenger's bag (ANI via APNA MA TV)."
 open_questions:
   - The reports do not say what happened to the passenger after the arrest or whether a court has remanded him.
 sources:

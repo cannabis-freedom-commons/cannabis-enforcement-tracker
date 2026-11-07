@@ -42,7 +42,9 @@ media:
     caption: "The 30 bags of seized cannabis with the suspect's exhibit board (NDLEA via Dateline Nigeria)."
 open_questions:
   - The targeted suspect had not been caught; surveillance to apprehend him was continuing.
-  - The exhibit board in the seizure photo is dated 2-09-2026 while both reports place the operation in early October; the name, bag count and weight on the board otherwise match the reported seizure.
+  - >-
+    Dateline's exhibit-board photo shows DOA 27-09-2023 for the same named suspect, bag count and 428 kg
+    weight, so no media_url was added until a 2026 operation photo is confirmed.
 sources:
   - title: NDLEA, Army taskforce destroy cannabis farm in Adamawa
     url: https://dailypost.ng/2026/10/05/ndlea-army-taskforce-destroy-cannabis-farm-in-adamawa/

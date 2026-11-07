@@ -42,8 +42,9 @@ media:
   - kind: photo
     url: https://www.app.com.pk/national/pns-yarmook-seizes-large-cache-of-narcotics-worth-96-mln/
     archived: https://web.archive.org/web/20261008210007/https://www.app.com.pk/national/pns-yarmook-seizes-large-cache-of-narcotics-worth-96-mln/
+    media_url: https://www.app.com.pk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-17.04.42-e1791376519894.jpeg
     publisher: Associated Press of Pakistan
-    caption: ISPR handout photo of narcotics recovered from the two dhows
+    caption: "ISPR handout: Navy personnel with seized packages on deck, plus the two intercepted dhows."
   - kind: photo
     url: https://tribune.com.pk/story/2633496/pakistan-navy-seizes-narcotics-worth-96m-in-arabian-sea-ispr
     publisher: The Express Tribune

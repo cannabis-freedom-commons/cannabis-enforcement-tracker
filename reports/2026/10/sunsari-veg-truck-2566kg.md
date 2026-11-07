@@ -37,6 +37,7 @@ tags: [sunsari, truck, trafficking]
 media:
   - kind: photo
     url: https://thehimalayantimes.com/nepal/2566kg-marijuana-seized-from-vegetable-laden-truck-in-sunsari
+    media_url: https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/10/05/51351.jpg
     publisher: The Himalayan Times
     caption: "Seized sacks and the truck at the Sunsari District Police Office (Santosh Kafle)."
 open_questions:

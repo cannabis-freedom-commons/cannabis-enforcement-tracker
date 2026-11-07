@@ -55,6 +55,9 @@ media:
     url: https://radio1.mu/plus-de-7-400-plants-de-cannabis-estimes-a-pres-de-30-millions-de-roupies-saisis-a-riche-en-eau/
     publisher: Radio One
     caption: Uprooted cannabis plants from the two plots
+open_questions:
+  - Radio One's lead image is labelled a photo illustration, so no media_url was taken from that page.
+  - L'Express returned 403 when reopened for a direct plantation photo address.
 ---
 
 Anti-drug officers uprooted 7,414 cannabis plants at Riche-en-Eau in south-east Mauritius on

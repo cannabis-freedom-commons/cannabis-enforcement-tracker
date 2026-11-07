@@ -71,8 +71,9 @@ media:
   - kind: photo
     url: https://hiindia.com/two-arrested-with-317-kg-of-ganja-worth-rs-3-17-crore-in-bengaluru/
     archived: https://web.archive.org/web/20261013195118/https://hiindia.com/two-arrested-with-317-kg-of-ganja-worth-rs-3-17-crore-in-bengaluru/
+    media_url: https://hiindia.com/wp-content/uploads/2026/10/202610133976911.jpg
     publisher: hi INDiA / Bengaluru police
-    caption: Officers with the seized sacks at the Kumbalagodu press briefing
+    caption: "Officers with the seized sacks at the Kumbalagodu press briefing."
 open_questions:
   - The reports do not name the two arrested men or say what happened to them after the arrest.
   - >-
