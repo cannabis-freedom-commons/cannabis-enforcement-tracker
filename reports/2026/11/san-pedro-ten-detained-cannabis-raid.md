@@ -45,6 +45,16 @@ media:
     caption: >-
       News 5 graphic showing mugshots of the ten people charged after the San
       Pedrito raid. Photo: Greater Belize Media
+  - kind: photo
+    url: https://www.greaterbelize.com/ten-arrested-in-san-pedro-drug-bust-amid-soe-operations/
+    media_url: https://www.greaterbelize.com/wp-content/uploads/2026/11/vlcsnap-2026-11-06-18h45m21s209.png
+    publisher: Greater Belize Media (News 5)
+    caption: 'Still from the News 5 newscast accompanying the report on the San Pedro operation and Assistant Superintendent Stacy Smith''s briefing. Photo: Greater Belize Media'
+  - kind: video
+    url: https://www.greaterbelize.com/ten-arrested-in-san-pedro-drug-bust-amid-soe-operations/
+    media_url: https://www.youtube.com/embed/c82RZqQMzb4
+    publisher: Greater Belize Media (News 5)
+    caption: News 5's full evening newscast from 6 November 2026 containing Smith's account of the San Pedro operation.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: d8ecf2fbbbcbf81813f8d231bf7c0d0a
@@ -70,6 +80,10 @@ sources:
     archived: https://web.archive.org/web/20261107051712/https://www.breakingbelizenews.com/2026/11/06/three-plead-guilty-following-major-san-pedro-gun-and-drug-bust-police-confirm-additional-arrests-in-san-ignacio/
     publisher: Breaking Belize News
     date: 2026-11-06
+  - title: Ten Arrested in San Pedro Drug Bust amid SOE Operations
+    url: https://www.greaterbelize.com/ten-arrested-in-san-pedro-drug-bust-amid-soe-operations/
+    publisher: Greater Belize Media (News 5)
+    date: 2026-11-06
 open_questions:
   - Two bags of suspected cannabis found behind the shelf had no published weight, so only the weighed 332 grams plus 402 grams are recorded as 0.734 kg.
   - The 259 grams of suspected cocaine are excluded from cannabis figures as a non-cannabis substance.
@@ -80,6 +94,10 @@ open_questions:
   - 'The accounts differ on the ammunition: the News 5 account quotes "over 46 rounds", while the 6 November account gives 43 rounds.'
   - The News 5 account lists ten charged people, including two men named Cesar Hernandez aged 57 and 35, while police later circulated identifying information for eleven people connected to the operation.
   - No trial outcome was reported for the other accused.
+  - The News 5 account quotes "over 46 rounds" of 9mm ammunition and names nine people in Smith's list, while the 6 November Breaking Belize News account gives 43 rounds and identifies eleven people connected to the operation.
+  - The role of the GI3 unit in the San Pedro operations was not explained in the accounts.
+  - No sentence had been published for the three who pleaded guilty.
+  - The News 5 image is a still from its newscast; the page embeds the full newscast, not a separate clip of the operation.
 ---
 
 Police detained ten people after searching a two-storey blue wooden house in the
@@ -108,4 +126,6 @@ and the cannabis was recorded as found property. [@1] Investigations continue.
 
 The Anti Narcotics Unit and the K9 Unit began the joint operation around 5:50am on 4 November, and an officer spotted the wrapped package around 7:23am. [@2]
 
-Ten people were jointly charged over the raid, which police said the Anti-Narcotics Unit and K-9 Unit carried out on 4 November under a search warrant. [@3] The weight given for cannabis found in the raid is 332 grams, and two 9mm pistols were seized with ammunition, while 259 grams of cocaine was also found at the house. [@3] The group faces charges including keeping firearms and ammunition without a gun licence and possession of controlled drugs with intent to supply. [@3] At a police briefing on 6 November, Assistant Superintendent Stacy Smith confirmed that three of the accused had entered guilty pleas. [@4] Akeem Locke pleaded guilty to keeping one of the two 9mm pistols. [@4] Vincent Lopez pleaded guilty to offences involving 43 rounds of ammunition and 259 grams of cocaine. [@4] Daniel Lagos pleaded guilty to offences involving 332 grams of cannabis and a Stoeger STR-9SC 9mm pistol. [@4] Although Smith first reported ten people jointly charged, police later circulated photographs and identifying information for eleven people connected to the operation. [@4] Smith said several further police operations were under way in San Pedro involving the GI3 and the Anti-Narcotics Unit. [@3]
+Ten people were jointly charged over the raid, which police said the Anti-Narcotics Unit and K-9 Unit carried out on 4 November under a search warrant. [@3,5] The weight given for cannabis found in the raid is 332 grams, and two 9mm pistols were seized with ammunition, while 259 grams of cocaine was also found at the house. [@3,5] The group faces charges including keeping firearms and ammunition without a gun licence and possession of controlled drugs with intent to supply. [@3] At a police briefing on 6 November, Assistant Superintendent Stacy Smith confirmed that three of the accused had entered guilty pleas. [@4] Akeem Locke pleaded guilty to keeping one of the two 9mm pistols. [@4] Vincent Lopez pleaded guilty to offences involving 43 rounds of ammunition and 259 grams of cocaine. [@4] Daniel Lagos pleaded guilty to offences involving 332 grams of cannabis and a Stoeger STR-9SC 9mm pistol. [@4] Although Smith first reported ten people jointly charged, police later circulated photographs and identifying information for eleven people connected to the operation. [@4] Smith said several further police operations were under way in San Pedro involving the GI3 and the Anti-Narcotics Unit. [@3]
+
+Separate operations were under way in San Pedro by the GI3 unit and the Anti-Narcotics Unit, police said. [@5] The operation took place while a state of emergency was in force on Ambergris Caye, the island where San Pedro Town sits. [@5] At a briefing on 6 November, Smith said no sentence had yet been given to the three who pleaded guilty. [@4]
