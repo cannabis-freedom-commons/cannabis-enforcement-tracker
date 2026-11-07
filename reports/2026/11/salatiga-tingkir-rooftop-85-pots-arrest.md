@@ -60,6 +60,11 @@ media:
     media_url: https://images.murianews.com/data/2026/11/penampakan-tanaman-ganja-yang-dibudidayakan-pria-d-20261107073528.jpeg
     publisher: Murianews
     caption: 'Cannabis plants cultivated inside the house in Perumahan Mekar Elok, Tingkir Tengah, displayed after seizure. Photo: Polres Salatiga via Murianews'
+  - kind: photo
+    url: https://regional.espos.id/walah-budidaya-85-pot-ganja-di-rumah-warga-salatiga-ditangkap-polisi-2264723
+    media_url: https://imgcdn.espos.id/@espos/images/2026/11/20261107074407-1000583946.jpg?quality=60
+    publisher: Espos.id
+    caption: 'Officers seizing potted cannabis plants cultivated by KS at Perumahan Mekar Elok, Tingkir Tengah, Salatiga. Photo: Istimewa via Espos.id'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2c00403481f740df6c7486fa09de31d1
@@ -90,6 +95,11 @@ sources:
     publisher: Murianews
     date: 2026-11-07
     language: id
+  - title: Walah! Budidaya 85 Pot Ganja di Rumah, Warga Salatiga Ditangkap Polisi - Espos.id
+    url: https://regional.espos.id/walah-budidaya-85-pot-ganja-di-rumah-warga-salatiga-ditangkap-polisi-2264723
+    publisher: Espos.id
+    date: 2026-11-07
+    language: id
 open_questions:
   - No weight was published for the dried cannabis found alongside the 85 pots, so no kilogram figure is recorded.
   - The articles give the number of pots (85) but no count of individual plants, and no area.
@@ -105,15 +115,17 @@ open_questions:
   - Kompas.com describes the grow as at the suspect's house without specifying the rooftop location named in earlier reports.
   - Murianews gives the suspect's age as 58 and initials KSBKN, while the existing report records a 59-year-old man with inconsistently reported initials across its sources.
   - Murianews describes the grow as inside the occupied house and in pots and polybags, while the existing report describes a rooftop grow in 85 pots; the more precise structure (rooftop versus interior) remains unresolved.
+  - Espos.id attributes the account to Kapolres Salatiga AKBP Afrito Marbaro, while the report's account comes from narcotics chief AKP Joko Iskandar; both speak for the same Polres Salatiga investigation.
+  - Espos.id describes the grow as inside a house and does not mention a rooftop, which the earlier reports named.
 ---
 
 Police from the narcotics unit at Salatiga district police arrested a
 59-year-old man who was growing cannabis on the roof of his house in Kelurahan
 Tingkir Tengah, Kecamatan Tingkir, Kota Salatiga, on Thursday 5 November 2026.
-[@1,4,5] Officers searched the house's rooftop area and found cannabis plants at
+[@1,4,5,6] Officers searched the house's rooftop area and found cannabis plants at
 every stage of growth, from seeds and small seedlings to bushy plants that
 appeared ready for harvest, along with dried cannabis. [@1] Police counted 85
-pots of cannabis plants as the total evidence taken in the raid. [@1,4,5]
+pots of cannabis plants as the total evidence taken in the raid. [@1,4,5,6]
 
 The suspect was taken with all the evidence to the Salatiga police narcotics
 unit office for questioning. [@2] Salatiga narcotics chief AKP Joko Iskandar
@@ -131,6 +143,6 @@ narcotics, Indonesia's drug law. [@1]
 Other Indonesian outlets reported the same arrest of the 59-year-old held over
 dozens of potted cannabis plants on his rooftop. [@3]
 
-Alongside the 85 pots, police seized 7.01 grams of cannabis seeds and 15.48 grams of dried cannabis. [@4] Police said the suspect faces Article 111 paragraph (2) of Law Number 35 of 2009 on Narcotics in conjunction with Law Number 1 of 2026 on Criminal Penalty Adjustment. [@4] The man told investigators he kept cannabis plants, leaves and dried seeds at his house as a supply for his own consumption. [@4]
+Alongside the 85 pots, police seized 7.01 grams of cannabis seeds and 15.48 grams of dried cannabis. [@4,6] Police said the suspect faces Article 111 paragraph (2) of Law Number 35 of 2009 on Narcotics in conjunction with Law Number 1 of 2026 on Criminal Penalty Adjustment. [@4] The man told investigators he kept cannabis plants, leaves and dried seeds at his house as a supply for his own consumption. [@4]
 
-The occupied house was in Perumahan Mekar Elok, Tingkir Tengah, Tingkir, Kota Salatiga. [@5]
+The occupied house was in Perumahan Mekar Elok, Tingkir Tengah, Tingkir, Kota Salatiga. [@5,6]
