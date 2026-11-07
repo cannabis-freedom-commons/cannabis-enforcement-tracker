@@ -52,6 +52,11 @@ sources:
     publisher: Haskovo.Net (kardjali.bgvesti.net)
     date: 2026-11-06
     language: bg
+  - title: 12 кг марихуана откри ГДБОП в имот в харманлийското село Смирненци
+    url: https://www.kardjali.bgvesti.net/index.php/news/640370/12-kg-marixuana-otkri-gdbop-v-imot-v-xarmanliiskoto-selo-smirnenci
+    publisher: Haskovo.Net (kardjali.bgvesti.net)
+    date: 2026-11-06
+    language: bg
 open_questions:
   - The BHR headline gives the detained man's age as 48 but its text and the haskovo.net account give 46; the report uses 46.
   - Neither account gives the date of the raid; 6 November 2026 is the publication date of both, and the other operation mentioned took place on 5 November.
@@ -59,14 +64,16 @@ open_questions:
   - Neither account states what the man is charged with, the measure of restraint or any court outcome.
   - The village appears as Smirnentsi in haskovo.net and as Smirnenski in BHR; the place given is the standard Bulgarian name.
   - The Chelnik seizure of about 3 kg and the two detentions there are a separate event and are not counted in this report's figures.
+  - The page gives no date for the Smirnentsi raid; 6 November 2026 is its publication date.
+  - The page states no charge, measure of restraint or court outcome for the detained man.
 ---
 
 A 46-year-old man was detained in the village of Smirnentsi, near Harmanli in
 Haskovo region, after agents of Bulgaria's anti-organised-crime directorate,
-known by its Bulgarian initials GDBOP, searched a property he managed. [@1,3]
+known by its Bulgarian initials GDBOP, searched a property he managed. [@1,3,4]
 Inside a farm building on the property the agents found eight packages of
 marijuana. [@1,3] About 12 kilograms of marijuana were seized, the directorate
-announced on its official Facebook page. [@2,3]
+announced on its official Facebook page. [@2,3,4]
 
 Prosecutors opened a pre-trial investigation under the supervision of the
 Haskovo district prosecutor's office. [@1,3] BHR reported the detainer as a
