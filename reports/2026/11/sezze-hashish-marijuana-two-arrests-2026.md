@@ -65,6 +65,11 @@ sources:
     publisher: h24 notizie
     date: 2026-11-06
     language: it
+  - title: 'Trovati con hashish, marijuana e contanti: due giovani arrestati'
+    url: https://www.aprilianews.it/cronaca/trovati-con-hashish-marijuana-e-contanti-due-giovani-arrestati/
+    publisher: Aprilianews.it
+    date: 2026-11-05
+    language: it
 open_questions:
   - The reports give the 70-gram marijuana figure as just under 70 grams and other weights as approximate, so the 1.08 kg total sums the stated approximate weights.
   - The small hashish amount found on one youth on the street was described only as a modest quantity and is not included in the quantified total.
@@ -80,24 +85,24 @@ media:
 ---
 
 Carabinieri in Sezze arrested two local residents aged 23 and 22 on suspicion of
-possessing drugs with intent to deal. [@1,3,4] The operation began on the afternoon
+possessing drugs with intent to deal. [@1,3,4,5] The operation began on the afternoon
 of 4 November during a territorial control patrol in the town centre. [@1,3]
 Officers stopped the two after noticing their suspicious behaviour near a public
-business. [@2]
+business. [@2,5]
 
 The street check found one youth with a small amount of hashish and the other
-with about 25 grams in 11 doses plus an 18 cm knife with hashish residue. [@1,3,4] A
+with about 25 grams in 11 doses plus an 18 cm knife with hashish residue. [@1,3,4,5] A
 bedroom search in the 23-year-old's home found ten hashish blocks totalling
-about 960 grams plus just under 70 grams of marijuana. [@1,3,4] Officers also seized
+about 960 grams plus just under 70 grams of marijuana. [@1,3,4,5] Officers also seized
 about 165 euros in cash thought to be proceeds, two precision scales and
-packaging material. [@1,3,4] Officers also found an electronic identity card whose
+packaging material. [@1,3,4,5] Officers also found an electronic identity card whose
 microchip had been materially removed. [@1,3,4] A search in the 22-year-old's home
-found another roughly 25 grams of marijuana kept in two glass containers. [@1,3,4]
+found another roughly 25 grams of marijuana kept in two glass containers. [@1,3,4,5]
 All the recovered material was seized. [@1,3]
 
 Both were arrested in flagrancy for possession with intent to deal. [@1,3] After
 formalities the 23-year-old was transferred to Latina prison while the
-22-year-old was placed under house arrest. [@1,3,4] The 23-year-old was also
+22-year-old was placed under house arrest. [@1,3,4,5] The 23-year-old was also
 reported at liberty for material forgery over the identity card. [@1,3,4] The
 22-year-old must also answer for carrying weapons or objects capable of offence
 over the knife. [@1,3] Both remain available to the Latina public prosecutor
