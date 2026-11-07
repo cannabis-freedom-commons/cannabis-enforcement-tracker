@@ -37,6 +37,11 @@ media:
     media_url: https://im.haberturk.com/assets/laravel/images/common/local-news/adana-960x540.jpg
     publisher: Habertürk Yerel Haberler
     caption: The page image captioned with the headline of the Adana gendarmerie seizure; it has no stated photographer or agency credit.
+  - kind: video
+    url: https://www.sabah.com.tr/video/yasam/jandarmadan-uyusturucu-operasyonu-7-kilo-108-gram-esrar-ele-gecirildi-video
+    media_url: https://doiszsroym.erbvr.com/vms/5/13/62/51362bc5-8c69-4815-afd9-c55b26e7f793/51362bc5-8c69-4815-afd9-c55b26e7f793_1080p_800k.mp4
+    publisher: Sabah
+    caption: Sabah's 55-second video report on the Adana gendarmerie operation seizing 7 kg 108 g of kubar esrar in Seyhan; the file is hosted from Sabah's video delivery server and carries no separate credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0c606ee066e430424f5e68dadfd89294
@@ -57,6 +62,11 @@ sources:
     publisher: Haberler.com
     date: 2026-11-07
     language: tr
+  - title: 'Jandarmadan uyuşturucu operasyonu: 7 kilo 108 gram esrar ele geçirildi | Video'
+    url: https://www.sabah.com.tr/video/yasam/jandarmadan-uyusturucu-operasyonu-7-kilo-108-gram-esrar-ele-gecirildi-video
+    publisher: Sabah
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports give no separate date for the raids; 7 November 2026 is the publication date and is used as the incident date.
   - No charge, court step, suspect name or estimated value of the cannabis was published; the investigation was said to be continuing.
@@ -65,17 +75,18 @@ open_questions:
   - The three cited accounts carry the same İhlas Haber Ajansı text, so they corroborate the agency's account rather than providing independent reporting.
   - The page image is captioned only with the headline and has no photographer or agency credit, so whether it shows this seizure is not established.
   - No breakdown of how much esrar was found at each of the two addresses was published.
+  - Sabah gives no separate date for the raids; 7 November 2026 is its publication date and is used as the incident date, as in the existing report.
+  - The video's pictures could not be checked frame by frame, so it is listed as Sabah's report on this operation rather than as footage confirmed to show the seized esrar.
 ---
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses
 identified in Seyhan, a central district of Adana province, in a continuing
-anti-smuggling and anti-drug campaign. [@1] Searches at the two addresses turned
+anti-smuggling and anti-drug campaign. [@1,4] Searches at the two addresses turned
 up 7,108 grams of kubar esrar, a pressed form of cannabis known in Turkey as
-esrar. [@1] Gendarmes detained two suspects in the operation. [@1]
+esrar. [@1,4] Gendarmes detained two suspects in the operation. [@1,4]
 
 The investigation into the case was continuing. [@1] The gendarmerie command
 said its teams were continuing their work against smuggling and drugs. [@2] The
 agency account reported the haul as 7 kg 108 g of kubar esrar. [@2] The
 operation was carried out at two addresses designated in Seyhan district, and
 two suspects were taken into custody in it. [@3]
-
