@@ -48,6 +48,11 @@ sources:
     publisher: BHAZ
     date: 2025-03-24
     language: pt
+  - title: 'Retrospectiva 2025: depois de intoxicações e apreensões, São Tomé das Letras registra alívio nos casos ligados a ''doces mágicos'''
+    url: https://g1.globo.com/mg/sul-de-minas/noticia/2025/12/29/retrospectiva-2025-depois-de-intoxicacoes-e-apreensoes-sao-tome-das-letras-registra-alivio-nos-casos-ligados-a-doces-magicos.ghtml
+    publisher: G1 Sul de Minas
+    date: 2025-12-29
+    language: pt
 open_questions:
   - No weight was published for the seized sweets, so no kilograms of cannabis can be recorded.
   - The almost-400 total mixes cannabis items with 70 magic mushrooms and other sweets only described as possibly containing marijuana among synthetic drugs and other substances, so no combined count is treated as cannabis.
@@ -58,6 +63,8 @@ open_questions:
   - The incident date of 22 March 2025 comes from the operation report's night of Saturday 22 March; the follow-up gives only March.
   - 'Left out, as its quotation was not found in G1 Sul de Minas: Police listed the seizure as 200 brisadeiros, 70 magic brownies, 40 magic cookies, 70 magic mushrooms and 15 cannabis palhas italianas.'
   - The BHAZ account does not give the operation's name or the number of officers involved, so those details remain supported only by the earlier G1 account.
+  - The retrospective gives no figure for plants, kilograms or cannabis-specific items in the seizure; the almost-400 total mixes cannabis sweets, magic mushrooms and products only described as possibly containing cannabis.
+  - The retrospective repeats the March 2025 account from the same newsroom and adds no new court development; the inquiry's outcome is still unreported.
 media:
   - kind: photo
     url: https://bhaz.com.br/noticias/minas-gerais/brisadeirossao-tome-das-letras/
@@ -68,15 +75,15 @@ media:
 
 Military police detained 10 people in São Tomé das Letras, Minas Gerais, on the
 night of Saturday 22 March 2025 in an operation against street sales of food
-adulterated with hallucinogenic substances. [@2,3] Those held were eight men aged
+adulterated with hallucinogenic substances. [@2,3,4] Those held were eight men aged
 24 to 42 and two women aged 27 and 29, who were taken to the station, heard and
 released. [@2] Those detained and the collected material were sent to the police
-station in Três Corações. [@2] Police opened an inquiry and the case remained
-under investigation. [@2]
+station in Três Corações. [@2,4] Police opened an inquiry and the case remained
+under investigation. [@2,4]
 
 The operation, called Fake, involved 20 officers working across the city. [@2]
 The reports said the magic sweets may contain synthetic drugs, mushrooms and
-marijuana in their composition. [@2] The city health network had recorded at
+marijuana in their composition. [@2,4] The city health network had recorded at
 least 13 attendances linked to the sweets, with people kept under observation
 reporting hallucinations, vomiting and diarrhoea. [@1]
 
