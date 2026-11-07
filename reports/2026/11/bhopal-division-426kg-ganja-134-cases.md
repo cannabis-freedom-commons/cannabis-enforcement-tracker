@@ -59,6 +59,11 @@ sources:
     publisher: दैनिक जागरण
     date: 2026-11-07
     language: hi
+  - title: 'भोपाल संभाग में नशे के कारोबार पर पुलिस का प्रहार: 426.80 किलो गांजा जब्त, 249 लोगों पर कार्रवाई'
+    url: https://www.haribhoomi.com/state-local/madhya-pradesh/news/bhopal-division-426-kg-ganja-seized-249-action-anti-drug-campaign-121081
+    publisher: Haribhoomi
+    date: 2026-11-07
+    language: hi
 open_questions:
   - Neither account gives a date for the individual operations or the period they cover; both were published on 7 November 2026, which is used as the incident date.
   - The Nai Dunia report labels its picture a file photo, so the image is linked rather than treated as a photo of this seizure.
@@ -68,18 +73,21 @@ open_questions:
   - Dainik Bhaskar says the 22 ganja plants were uprooted while Nai Dunia says they were recovered; the exact action is not clear.
   - The report gives no date for the individual operations or the period they cover; 7 November 2026, its publication date, is not a stated incident date.
   - Dainik Jagran's five district figures add up to 426.765 kg while it headlines 426.80 kg; the earlier reports use the more precise figures 241.106, 117.718, 42.411, 15.295 and 10.273 kg, which the report keeps.
+  - Haribhoomi gives an assessment of the seized share by district but no date for the individual operations; 7 November 2026, its publication date, is used as the incident date.
+  - Haribhoomi does not say how many of the 249 people were arrested rather than named as accused in the 134 cases.
+  - The page's main picture is labelled an AI image (एआई इमेज), so it is not a photograph of the seizure.
 ---
 
 Police and related departments in the Bhopal division of Madhya Pradesh seized
 426.80 kg of ganja, the local word for cannabis, in a campaign against the
-illegal drug trade. [@1,3] Officers registered 134 cases under the NDPS Act,
-India's main drug law, and took action against 249 accused people. [@1,3]
+illegal drug trade. [@1,3,4] Officers registered 134 cases under the NDPS Act,
+India's main drug law, and took action against 249 accused people. [@1,3,4]
 Commissioner Karmaveer Sharma said the campaign was being run continuously in
-coordination with all the departments concerned. [@1]
+coordination with all the departments concerned. [@1,4]
 
 Rajgarh district accounted for the largest share, with 241.106 kg of ganja
-seized. [@1,3] Police seized 117.718 kg in Vidisha, 42.411 kg in Sehore, 15.295 kg
-in Raisen and 10.273 kg in Bhopal Rural. [@1,3] Officers also recovered 22 ganja
+seized. [@1,3,4] Police seized 117.718 kg in Vidisha, 42.411 kg in Sehore, 15.295 kg
+in Raisen and 10.273 kg in Bhopal Rural. [@1,3,4] Officers also recovered 22 ganja
 plants in Vidisha district. [@1]
 
 The commissioner said the actions against those involved in the illegal drug
@@ -99,3 +107,5 @@ also ordered that anti-drug committees be formed in all schools, colleges,
 universities and hostels of the division. [@2]
 
 Dainik Jagran added the five district figures to 426.765 kg, the total it reports as about 426.80 kg. [@3]
+
+Commissioner Sharma directed that the NDPS Act and the National Security Act (Rasuka) be used for strict action in such cases. [@4] The commissioner ordered inspections of the de-addiction centres run in the districts. [@4] The Rajgarh collector told the meeting that the district currently has no de-addiction centre, and the commissioner ordered the social justice department to act quickly on a proposal to open one there. [@4]
