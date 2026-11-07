@@ -22,18 +22,23 @@ figures:
   arrested: 10
   kg_seized: 10
 details:
+  activity: [trafficking]
   agencies: [id-bnn]
-  agency_types: [anti-narcotics]
+  agency_types: [anti-narcotics, police]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 10}]
+  setting: [street]
 data_sources:
+  details.activity: [1, 3, 4]
   details.agencies: [3, 4]
   details.agency_types: [3, 4]
   details.case_stage: [1, 2, 3, 4]
   details.date_precision: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
+  details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]
+  figures.kg_seized: [1, 2, 3, 4]
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags:
@@ -46,8 +51,9 @@ tags:
 media:
   - kind: photo
     url: https://jawawa.id/newsitem/police-seize-10kg-of-dried-cannabis-in-jayapura-raid-1792849852
+    media_url: https://jawawa.id/image/2053649
     publisher: Jawawa
-    caption: Officers with detainees during the Kampung Vietnam raid (Republika via Jawawa).
+    caption: "Officers and a boat party during the Kampung Vietnam waterfront raid. Photo: Republika via Jawawa"
   - kind: photo
     url: https://www.pantau.com/nasional/374815/polda-papua-dan-bnn-gerebek-kampung-vietnam-di-jayapura-amankan-30-kg-ganja-dan-10-orang-termasuk-6-wn-png
     media_url: https://pantau.sgp1.cdn.digitaloceanspaces.com/images/20261024-3324-screenshot-2026-10-24-183002.jpg

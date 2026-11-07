@@ -24,7 +24,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}]
-  setting: [home]
+  setting: [street, home]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
@@ -52,9 +52,15 @@ sources:
     language: en
 media:
   - kind: photo
-    url: https://metronews.co.ke/wp-content/uploads/2026/10/Drugs.jpg
+    url: https://metronews.co.ke/712-2/
+    media_url: https://metronews.co.ke/wp-content/uploads/2026/10/Drugs.jpg
     publisher: Metro News
     caption: 'Suspect behind rows of seized bhang rolls labelled in 100-roll batches. Photo: DCI via Metro News'
+  - kind: photo
+    url: https://radiogeneration.co.ke/dci-arrests-two-suspects-seizes-898-rolls-of-bhang-in-juja-and-homa-bay-47899
+    media_url: https://radiogeneration.co.ke/media/32542
+    publisher: Radio Generation Kenya
+    caption: "Composite of the Juja suspect with labelled roll batches and the Orera suspect. Photo: Radio Generation Kenya"
 ---
 
 Detectives arrested two people and seized 898 rolls of bhang and three

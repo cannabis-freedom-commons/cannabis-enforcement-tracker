@@ -2,7 +2,7 @@
 added_at_source: git
 added_at: "2026-10-29T08:27:48.000Z"
 code: 2XAX3A
-date: 2026-10-26
+date: 2026-10-12
 country: np
 place: Kalyanpur, Sakhuwanankarkatti-5, Siraha
 coordinates: [26.754, 86.203]
@@ -20,42 +20,52 @@ figures:
   kg_seized: 90
 created_by_model: unknown
 details:
+  activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 90}]
   setting: [home]
 data_sources:
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
+  details.activity: [1, 2]
+  details.agency_types: [1, 2]
+  details.case_stage: [1, 2]
+  details.products: [1, 2]
+  details.setting: [1, 2]
+  figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 tags: [house-search, tip-off]
 sources:
   - title: Siraha Police Seize 90kg Ganja, Arrest One
     url: https://english.ratopati.com/story/83514/one-arrested-in-siraha-with-90-kg-of-marijuana
     publisher: Ratopati English
-    date: 2026-10-26
+    date: 2026-10-13
+  - title: लागूऔषध सहित मानिस नियन्त्रण सम्बन्धी
+    url: https://madhesh.nepalpolice.gov.np/news/2331/
+    publisher: Nepal Police Madhesh Province
+    date: 2026-10-13
+    language: ne
 media:
   - kind: photo
     url: https://english.ratopati.com/story/83514/one-arrested-in-siraha-with-90-kg-of-marijuana
+    media_url: https://npcdn.ratopati.com/media/news/aaaa_R0cE5Mx0li.webp
     publisher: Ratopati / Siraha police
-    caption: The arrested homeowner in custody (face redacted by outlet)
+    caption: "The arrested homeowner in custody with face redacted. Photo: Ratopati"
+open_questions:
+  - The Ratopati English page carries an AI-translation disclaimer.
 ---
 
 The account, datelined Janakpurdham and published on 13 October, says the
 Siraha District Police Office acted on secret information that marijuana was
 being sold in Kalyanpur and dispatched a joint team of the Lahan and
-Maheshwari area police offices at 11 PM on the night of 12 October. [@1]
+Maheshwari area police offices at 11 PM on the night of 12 October. [@1,2]
 Kalyanpur is ward 5 of Sakhuwanankarkatti Rural Municipality in Siraha
 district, and the target was the house of 43-year-old Jagdish Yadav, where
-the team found marijuana packed in a plastic bag inside a white sack. [@1]
+the team found marijuana packed in a plastic bag inside a white sack. [@1,2]
 
 Police spokesperson DSP Ramesh Bahadur Pal confirmed the recovery of 90 kg
 and Yadav's arrest; the accused was taken to the Area Police Office in Lahan
-along with the recovered drug, and further investigation is underway. [@1]
+along with the recovered drug, and further investigation is underway. [@1,2]
 The published photograph shows the arrested homeowner in custody with his face
-covered. [@1] The report appears in Ratopati's AI-translated English edition,
-which carries a general accuracy disclaimer. [@1]
+covered. [@1,2] The report appears in Ratopati's AI-translated English edition,
+which carries a general accuracy disclaimer. [@1,2]

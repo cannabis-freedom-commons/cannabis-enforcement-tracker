@@ -31,16 +31,19 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 17.88}]
-  setting: [mail]
+  route: {from: [my], to: [mu], crossing: via Dubai}
+  setting: [airport]
 data_sources:
   details.activity: [1, 2, 3, 4, 5, 6]
   details.agency_types: [1, 2, 3, 4, 5, 6]
   details.case_stage: [1, 7, 4, 2, 3, 9]
   details.date_precision: [1, 2, 3, 7, 5, 9]
   details.products: [1, 2, 3, 4, 5, 6]
+  details.route: [1, 2, 7, 9]
   details.setting: [1, 7, 4, 2, 3, 9]
   figures.arrested: [1, 7, 4, 2, 3, 9]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]
+  figures.charged: [1, 2, 7, 9]
   figures.value: [1, 7, 4, 2, 3, 9]
 status: verified
 tags:
@@ -98,8 +101,9 @@ sources:
 media:
   - kind: photo
     url: https://defimedia.info/plaisance-saisie-de-rs-255-m-de-cannabis-sur-un-cuisinier-malaisien
+    media_url: https://media.defimedia.info/sites/default/files/2026-10/Thumbnail%2027%20octobre%2026.jpg
     publisher: Le Défi Media Group
-    caption: The suspect and the compressed bags of cannabis found in his suitcase
+    caption: "The suspect beside vacuum-packed cannabis bags labelled Flower. Photo: Le Défi Media"
 open_questions:
   - >-
     Le Défi Media Group valued the haul at Rs 25.5 million; The Rakyat Post gives RM2.3 million, about Rs
