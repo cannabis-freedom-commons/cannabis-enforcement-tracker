@@ -47,6 +47,11 @@ sources:
     publisher: haskovo.net
     date: 2026-11-06
     language: bg
+  - title: 12 кг марихуана откри ГДБОП в имот в харманлийското село Смирненци
+    url: https://www.kardjali.bgvesti.net/news/640370/12-kg-marixuana-otkri-gdbop-v-imot-v-xarmanliiskoto-selo-smirnenci
+    publisher: Haskovo.Net (kardjali.bgvesti.net)
+    date: 2026-11-06
+    language: bg
 open_questions:
   - The BHR headline gives the detained man's age as 48 but its text and the haskovo.net account give 46; the report uses 46.
   - Neither account gives the date of the raid; 6 November 2026 is the publication date of both, and the other operation mentioned took place on 5 November.
@@ -58,17 +63,16 @@ open_questions:
 
 A 46-year-old man was detained in the village of Smirnentsi, near Harmanli in
 Haskovo region, after agents of Bulgaria's anti-organised-crime directorate,
-known by its Bulgarian initials GDBOP, searched a property he managed. [@1]
+known by its Bulgarian initials GDBOP, searched a property he managed. [@1,3]
 Inside a farm building on the property the agents found eight packages of
-marijuana. [@1] About 12 kilograms of marijuana were seized, the directorate
-announced on its official Facebook page. [@2]
+marijuana. [@1,3] About 12 kilograms of marijuana were seized, the directorate
+announced on its official Facebook page. [@2,3]
 
 Prosecutors opened a pre-trial investigation under the supervision of the
-Haskovo district prosecutor's office. [@1] BHR reported the detainer as a
+Haskovo district prosecutor's office. [@1,3] BHR reported the detainer as a
 48-year-old in its headline but as a 46-year-old in the body. [@1]
 
 The Smirnentsi raid was part of two operations by the anti-mafia agents; the
 other, carried out on 5 November in the Yambol village of Chelnik, led to the
 detention of two men after about 3 kg of marijuana was found in a beehive in a
-yard. [@2]
-
+yard. [@2,3]
