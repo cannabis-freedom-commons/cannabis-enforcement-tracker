@@ -59,15 +59,22 @@ sources:
     url: https://www.themorning.lk/articles/pnDpgkl2TFFPOBGIPLIn
     publisher: The Morning
     date: 2026-11-07
+  - title: Indian businessman arrested at Katunayake airport with Rs 230 million worth of Kush and Hashish
+    url: https://hirunews.lk/en/498898/a-37-year-old-indian-national-was-arrested-in-katunayake-with-a-drug-haul-worth-rs-230-million
+    publisher: Hiru News
+    date: 2026-11-07
 open_questions:
   - No result of the production before the Negombo Magistrate's Court or the terms of any detention order was reported.
   - The suspect is identified only by age, occupation and residence in Tamil Nadu; no name was published.
   - Ada Derana's photograph carries no credit line, so its origin is not stated.
+  - Hiru News puts the street value at about Rs 230 million, while the existing report uses Rs 231.42 million from Ada Derana; the difference is unexplained.
+  - Hiru News describes the man as attempting to smuggle the drugs into the country, whereas the existing report and its sources describe an attempt to smuggle kush and hashish out of Sri Lanka on a flight from Kuala Lumpur.
+  - Hiru News does not identify the customs unit that made the interception or give any court outcome.
 ---
 
 Officers of the Airport Police Narcotics Bureau arrested a foreign passenger at
 Bandaranaike International Airport in the early hours of 7 November 2026 on
-suspicion of trying to smuggle kush and hashish out of Sri Lanka. [@1] The
+suspicion of trying to smuggle kush and hashish out of Sri Lanka. [@1,3] The
 suspect is a 37-year-old businessman who lives in Tamil Nadu, India. [@1] He
 arrived at the airport at about 12.00 a.m. that day on Batik Air flight OD-297
 from Kuala Lumpur, Malaysia. [@1]
@@ -84,3 +91,4 @@ investigations. [@1] The Morning reported the same arrest, weight, value and
 flight details, describing the man as a 37-year-old Indian businessman from
 Tamil Nadu who arrived from Kuala Lumpur on Batik Air flight OD-297. [@2]
 
+The street value of the seized contraband is estimated at approximately Rs. 230 million (Rs. 23 crore). [@3] The suspect and the seized narcotics have been handed over to the Airport Police Narcotics Bureau (PNB) for further investigation. [@3]
