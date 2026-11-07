@@ -47,6 +47,11 @@ media:
     media_url: https://citynews-bolognatoday.stgy.ovh/~media/horizontal-low/17374397113333/polizia-auto-2.jpeg
     publisher: BolognaToday
     caption: Police photograph published with the report on the Bolognina arrest, credited only as "Foto polizia".
+  - kind: photo
+    url: https://www.ilrestodelcarlino.it/bologna/cronaca/furgone-bazar-droga-arrestato-hashish-cocaina-wfkimjzt
+    media_url: https://www.ilrestodelcarlino.it/image-service/view/acePublic/alias/contentid/MGMxMTMyMGMtNjY0YS00/0/la-polizia-ha-pedinato-lo-spacciatore-che-vendeva-droga-spostandosi-da-zona-a-zona-a-bordo-del-suo-furgone.webp?f=16%3A9&q=0.75&w=768
+    publisher: Il Resto del Carlino
+    caption: Photo published with the report of the police surveillance of the dealer's van in Bologna; no credit given.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ea1686e6b68f95e5cc62e77aa34f70ef
@@ -67,6 +72,11 @@ sources:
     publisher: èTV Rete 7
     date: 2026-11-07
     language: it
+  - title: 'Trasforma il furgone in un bazar della droga: arrestato 43enne con mezzo chilo di hashish e cocaina'
+    url: https://www.ilrestodelcarlino.it/bologna/cronaca/furgone-bazar-droga-arrestato-hashish-cocaina-wfkimjzt
+    publisher: Il Resto del Carlino
+    date: 2026-11-07
+    language: it
 open_questions:
   - No separate date is given for the stop and searches; 7 November 2026 is the publication date of all three reports and is used as the incident date.
   - The hashish weight is reported as "oltre 518 grammi" (more than 518 grams), not an exact measured figure, and 0.518 kg records the stated figure.
@@ -74,6 +84,7 @@ open_questions:
   - No charge sheet, custody decision or court hearing was reported; the reports name no investigating judge's decision on the arrest.
   - The 2,060 euros combines 60 euros from the van and 2,000 euros from the bedroom; no source gives a street value for the hashish.
   - The submitted page's picture has no caption and is not established to show this seizure, so only the police-credit picture from the BolognaToday page is linked.
+  - No separate date is given for the stop and searches; 7 November 2026 is the publication date and is used as the incident date.
 ---
 
 Police in Bologna arrested a 43-year-old Tunisian man on suspicion of possessing
@@ -95,3 +106,4 @@ drug-related offences. [@3] He was reported as well as arrested for carrying
 objects capable of causing offence, over the bat and the stun device. [@2] The
 van and the stun device were also seized. [@2]
 
+The man had turned his van into a mobile drug shop, where he prepared doses and hid precision scales, hashish and an electric stun device. [@4]
