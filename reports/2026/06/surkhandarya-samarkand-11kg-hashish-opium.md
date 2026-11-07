@@ -69,6 +69,11 @@ sources:
     publisher: Repost.uz
     date: 2026-06-17
     language: ru
+  - title: Из Афганистана в Узбекистан пытались ввезти почти 40 килограммов наркотиков. Задержаны четыре человека. Видео
+    url: https://podrobno.uz/cat/proisshestviya/iz-afganistana-v-uzbekistan-pytalis-vvezti-pochti-40-kilogrammov-narkotikov-zaderzhany-chetyre-chelo/
+    publisher: Podrobno.uz
+    date: 2026-06-17
+    language: ru
 open_questions:
   - The reports give no separate date for the operations; 17 June 2026 is the date the State Security Service announced them, so the detention itself may have come days earlier.
   - No value was published for the hashish or the whole haul by an authority, so no value is recorded; one outlet's rough retail estimate of $500,000 to $1 million covers the whole consignment and is not used.
@@ -76,11 +81,13 @@ open_questions:
   - The two members arrested at Termez are described only as Afghans aged 70 and 24 in one account and 1955 and 2001 births in others; no charges or court dates have been reported for any of the six.
   - UzDaily's caption credits the photo to the Customs Committee press service, although the report names the security service and police as leading the operation.
   - The Repost account describes only the Samarkand receipt with four detainees and does not mention the separate Termez International Trade Center arrests that make up the reported six-person total.
+  - Podrobno.uz puts the Samarkand consignment at 11.9 kg of hashish and 25.4 kg of opium, and the Termez sale at 1.8 kg of opium, while the accounts already cited in this report give 11.086 kg of hashish, 25.444 kg of opium and 1 kg 76 g of opium respectively; the report keeps the figures already recorded.
+  - Podrobno.uz attributes the smuggling method to the Termez pair rather than stating it for the Samarkand couriers, as the accounts cited in the report do; the sources do not settle which group carried the drugs in this way.
 ---
 
 Uzbek officers intercepted a consignment of drugs smuggled from Afghanistan and
 took it under control to the city of Samarkand, where they arrested four people
-as they received it. [@2] The four were two Uzbek citizens and two foreign
+as they received it. [@2,6] The four were two Uzbek citizens and two foreign
 nationals. [@1,5] In a separate operation at the International Trade Center in
 Termez, two Afghan nationals were arrested as they tried to sell 1 kg 76 g of
 opium to an undercover buyer for 5,000 US dollars. [@2] Six people were detained
@@ -98,3 +105,5 @@ Criminal cases were opened under article 246 part 2 on smuggling and article 273
 part 5 on drug trafficking, and all the suspects were remanded in custody. [@1]
 All six suspects were placed in pre-trial detention and the investigation was
 continuing. [@4,5]
+
+The two men who received the consignment in Samarkand were local residents aged 36 and 28, and the two foreign couriers who handed it to them were aged 32 and 30. [@6] The second operation at Termez was carried out by the State Security Service together with the border troops, the interior ministry and the customs authorities. [@6]
