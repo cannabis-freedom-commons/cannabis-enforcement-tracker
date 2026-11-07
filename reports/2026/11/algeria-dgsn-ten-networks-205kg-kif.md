@@ -64,6 +64,11 @@ sources:
     publisher: النهار أونلاين
     date: 2026-11-07
     language: ar
+  - title: Saisie de plus de deux quintaux de kif traité en provenance du Maroc
+    url: https://www.aps.dz/fr/algerie/actualite-nationale/mw6mere3-saisie-de-plus-de-deux-quintaux-de-kif-traite-en-provenance-du-maroc
+    publisher: Algérie Presse Service
+    date: 2026-11-07
+    language: fr
 open_questions:
   - None of the accounts gives the day or days of the operations; 7 November 2026 is the publication date and is used as the incident date.
   - No breakdown of the 205 kg, the 28 arrests or the ten networks by wilaya or operation was published, and the statement does not say where each network was dismantled.
@@ -73,24 +78,24 @@ open_questions:
   - The lead photograph is published with the Horizons article but carries no caption or credit, so it is not established which seizure it shows.
   - The Echorouk Online image is a stock illustration marked as such, and Ennahar's lead image did not load, so no other photo of this event was added.
   - 'Left out, as its quotation was not found in الشروق أونلاين: Echorouk Online reported the same police statement in Arabic, with 205 kg of treated kif from Morocco, 28 people held, ten networks dismantled and 13 tourist vehicles and two motorcycles seized in Tlemcen, Naâma, Oran and Béchar.'
+  - This APS account says the recovered sum exceeded one billion centimes, while the existing report records more than 1 billion and 300 million centimes from the other accounts of the same DGSN statement.
 ---
 
 Algeria's national police dismantled ten criminal networks specialising in drug
 trafficking in the west of the country and arrested 28 people, the Directorate
-General of National Security (DGSN) said. [@1] The operations, run in succession
+General of National Security (DGSN) said. [@1,3] The operations, run in succession
 by the national police's operational teams, seized 205 kg of treated kif —
-processed cannabis resin — that came from Morocco. [@1]
+processed cannabis resin — that came from Morocco. [@1,3]
 
 The teams carried out the operations in the wilayas of Tlemcen, Naâma, Oran and
 Béchar, under the supervision of the territorial public prosecutors, according
-to the DGSN statement. [@1] Investigators seized 13 tourist vehicles and two
-motorcycles used for these activities. [@1] They also recovered more than 1
+to the DGSN statement. [@1,3] Investigators seized 13 tourist vehicles and two
+motorcycles used for these activities. [@1,3] They also recovered more than 1
 billion and 300 million centimes — more than 13 million dinars — which the
 statement described as the proceeds of these illicit activities. [@1]
 
 At the end of the investigation the suspects were brought before the public
-prosecutors at the courts of Oran, Naâma, Tlemcen and Béchar. [@1]
+prosecutors at the courts of Oran, Naâma, Tlemcen and Béchar. [@1,3]
 
 Ennahar Online carried the same statement in Arabic, adding that the networks'
 activity extended to other wilayas of the country. [@2]
-
