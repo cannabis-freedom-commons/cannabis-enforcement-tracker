@@ -44,6 +44,8 @@ open_questions:
   - El Observador rounded the cannabis total to 4,500 kg; the Interior Ministry gave 4,433.650 kg.
   - The defendants were not named in the government releases opened; only nationalities and roles were described.
   - Two defendants received probation-style terms of 24 and 18 months rather than prison; the headline figure reflects the longest penitentiary term.
+  - Prensa Latina rounds the seizure to 4,500 kg of marijuana and 45 kg of hashish, while the existing report uses the Interior Ministry's precise 4,433.65 kg of cannabis material and 46.52 kg of hashish; the rounded figures are used here only as corroboration.
+  - Prensa Latina says three tonnes of marijuana were held at the San Jose site and more than three tonnes in Canelones, which together would exceed its own stated 4,500 kg total, so no site breakdown is added as a new figure.
 sources:
   - title: Incautan más de 4.400 kilos de droga y desmantelan laboratorio de procesamiento de hachís
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/incautan-4400-kilos-droga-desmantelan-laboratorio-procesamiento-hachis
@@ -54,6 +56,11 @@ sources:
     url: https://www.elobservador.com.uy/nacional/policia-incauto-4500-kilos-marihuana-san-jose-y-canelones-cuatro-personas-fueron-condenadas-n6027571
     publisher: El Observador
     date: 2025-12-09
+    language: es
+  - title: Fuerte incautación de marihuana y hachis en Uruguay
+    url: https://www.prensa-latina.cu/2025/12/10/fuerte-incautacion-de-marihuana-y-hachis-en-uruguay/
+    publisher: Prensa Latina
+    date: 2025-12-10
     language: es
 media:
   - kind: photo
@@ -69,17 +76,17 @@ media:
 ---
 
 Uruguay's Operation Midas ended on 7 December 2025 with four search warrants at a chacra near Juan
-Soler in San José and three rural properties in Canelones. [@1,2] Police seized 4,433.65 kg of
+Soler in San José and three rural properties in Canelones. [@1,2,3] Police seized 4,433.65 kg of
 cannabis material and 46.52 kg of hashish resin from a clandestine processing laboratory, along
-with vehicles, steel towers and dry-ice packaging used in production. [@1,2]
+with vehicles, steel towers and dry-ice packaging used in production. [@1,2,3]
 
 Two Uruguayans and two Brazilians were detained; prosecutors said the hashish was destined for
-Brazil's illegal market. [@1,2] On 9 December the Interior Ministry reported abbreviated sentences:
+Brazil's illegal market. [@1,2,3] On 9 December the Interior Ministry reported abbreviated sentences:
 one Brazilian received three years in prison for aggravated conspiracy, production and importing
 drugs; another Brazilian two years for conspiracy and production; and two others 24 and 18 months on
-probation with partial house arrest and community work. [@1,2]
+probation with partial house arrest and community work. [@1,2,3]
 
 Investigators had opened the case on 22 May 2025 after Rocha anti-drug police traced irregular
-imports through the Chuy border used for hashish production inputs. [@1,2]
+imports through the Chuy border used for hashish production inputs. [@1,2,3]
 
 ---
