@@ -56,6 +56,10 @@ sources:
     url: https://www.ireland-live.ie/midlands/kildare-now/woman-on-m7-charged-with-having-eur280k-of-cannabis-in-car-9335535
     publisher: Ireland Live
     date: 2026-11-06
+  - title: Woman on M7 charged with having €280k of cannabis in car
+    url: https://www.kildarenow.com/news/woman-on-m7-charged-with-having-eur280k-of-cannabis-in-car-9335531
+    publisher: Kildare Now
+    date: 2026-11-06
 open_questions:
   - The Leinster Express reported the arrested woman as aged in her early 40s, while Midlands 103 and Ireland Live describe the driver as a woman in her 20s; this report counts one arrested and charged person and treats the age as unresolved.
   - Midlands 103 and Ireland Live both report the case next coming before the courts on 22 February 2027; no later stage of the case has been reported.
@@ -63,17 +67,16 @@ open_questions:
 ---
 
 On 4 November 2026, members of the Laois Drugs Unit and the Laois Roads Policing
-Unit stopped and searched a car on the M7 at Clondouglas, Portlaoise. [@3] The
+Unit stopped and searched a car on the M7 at Clondouglas, Portlaoise. [@3,4] The
 woman, who is aged in her early 40s, was arrested and taken to Abbeyleix Garda
 Station for questioning. [@1] She appeared before a sitting of Portlaoise
 District Court on Thursday, November 5, having been charged with an offence
-under Section 15 of the Misuse of Drugs Act 1977/84. [@3] A woman in her 20s has
+under Section 15 of the Misuse of Drugs Act 1977/84. [@3,4] A woman in her 20s has
 appeared in court after a cannabis seizure valued at €280,000. [@2]
 
-Officers found about 20kg of cannabis inside the vehicle during the search. [@3]
+Officers found about 20kg of cannabis inside the vehicle during the search. [@3,4]
 Gardaí valued the cannabis at about €280,000. [@1] The stop happened at around
 8.15pm on Wednesday evening between the toll plaza and Junction 18 on the M7 at
 Portlaoise. [@1] The search was conducted under Section 23 of the Misuse of
 Drugs Act 1977/84. [@3] Gardaí said no further comment would be made because the
-matter is now before the courts. [@3]
-
+matter is now before the courts. [@3,4]
