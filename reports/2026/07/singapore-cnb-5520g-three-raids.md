@@ -58,22 +58,32 @@ sources:
     archived: https://web.archive.org/web/20260730091310/https://www.straitstimes.com/singapore/3-arrested-after-cnb-raids-5-5kg-of-cannabis-seized
     publisher: The Straits Times
     date: 2026-07-29
+  - title: Three arrested in Singapore drug raid, 5.5kg of cannabis seized
+    url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/29/three-arrested-in-singapore-drug-raid-55kg-of-cannabis-seized
+    publisher: The Star
+    date: 2026-07-29
+media:
+  - kind: photo
+    url: https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/29/three-arrested-in-singapore-drug-raid-55kg-of-cannabis-seized
+    media_url: https://apicms.thestar.com.my/uploads/images/2026/07/29/thumbs/700/4032855.webp
+    publisher: The Star
+    caption: 'Drugs, including cannabis and ketamine, seized in the anti-drug operation near Pasir Ris Street 11 on July 27. Photo: Central Narcotics Bureau'
 ---
 
 In the afternoon of Sunday 27 July 2026, Central Narcotics Bureau officers arrested a
 34-year-old man at the void deck of a block near Ang Mo Kio Avenue 4 and searched a hideout
 unit in the next block, where they seized four LSD stamps, about 879 g of cannabis and about
-123 g of methamphetamine. [@1,2]
+123 g of methamphetamine. [@1,2,3]
 
 Follow-up work led officers to arrest a 29-year-old at a Pasir Ris Street 11 lift landing and
 search his unit in the same block, recovering about 4,641 g of cannabis and 145 g of ketamine,
-including blocks found outside the flat. [@1,2] A third man, 27, was arrested later that
+including blocks found outside the flat. [@1,2,3] A third man, 27, was arrested later that
 afternoon at Jalan Bukit Ho Swee; a search of his unit found about 9 g of methamphetamine. [@1,2]
 
 Across the day the bureau seized about 5,520 g of cannabis, 132 g of methamphetamine, 145 g of
 ketamine and four LSD stamps, which it estimated at more than S$142,000 and enough to supply
-about 860 abusers for a week. [@1,2] Two suspects were described as suspected traffickers and one
-as a suspected abuser. [@1,2] Trafficking more than 500 g of cannabis can carry a mandatory
+about 860 abusers for a week. [@1,2,3] Two suspects were described as suspected traffickers and one
+as a suspected abuser. [@1,2,3] Trafficking more than 500 g of cannabis can carry a mandatory
 death sentence under Singapore law. [@1,2]
 
 ---
