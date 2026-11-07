@@ -52,24 +52,28 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://www.eldiariodechihuahua.mx/core/dch/assets/images/2026/10/22/middle-plantio3-Y9HlsYVVM.jpg
+    url: https://www.eldiariodechihuahua.mx/estado/2026/oct/22/localiza-y-destruye-sspe-3-plantios-de-marihuana-en-municipio-de-guerrero-850502.html
+    media_url: https://www.eldiariodechihuahua.mx/core/dch/assets/images/2026/10/22/middle-plantio3-Y9HlsYVVM.jpg
     archived: https://web.archive.org/web/20261023061911/https://www.eldiariodechihuahua.mx/core/dch/assets/images/2026/10/22/middle-plantio3-Y9HlsYVVM.jpg
     publisher: El Diario de Chihuahua
-    caption: A rural state officer stands in front of cannabis plants hung to dry between trees. El Diario credits the photograph as a courtesy image.
+    caption: "A rural state officer before cannabis plants hung to dry between trees. Photo: courtesy / El Diario de Chihuahua"
   - kind: photo
-    url: https://www.eldiariodechihuahua.mx/core/dch/assets/images/2026/10/22/plantio-MSlZWFCiI.jpg
+    url: https://www.eldiariodechihuahua.mx/estado/2026/oct/22/localiza-y-destruye-sspe-3-plantios-de-marihuana-en-municipio-de-guerrero-850502.html
+    media_url: https://www.eldiariodechihuahua.mx/core/dch/assets/images/2026/10/22/plantio-MSlZWFCiI.jpg
     archived: https://web.archive.org/web/20261023061911/https://eldiariodechihuahua.mx/core/dch/assets/images/2026/10/22/plantio-MSlZWFCiI.jpg
     publisher: El Diario de Chihuahua
-    caption: An aerial view of cut cannabis plants piled beside a black sheet in the woods, with three people standing nearby.
+    caption: "Aerial view of cut cannabis plants piled beside a black sheet in the woods. Photo: El Diario de Chihuahua"
   - kind: photo
-    url: https://www.eldiariodechihuahua.mx/core/dch/assets/images/2026/10/22/plantio2-0JVSWolbm.jpg
+    url: https://www.eldiariodechihuahua.mx/estado/2026/oct/22/localiza-y-destruye-sspe-3-plantios-de-marihuana-en-municipio-de-guerrero-850502.html
+    media_url: https://www.eldiariodechihuahua.mx/core/dch/assets/images/2026/10/22/plantio2-0JVSWolbm.jpg
     archived: https://web.archive.org/web/20261023061911/https://eldiariodechihuahua.mx/core/dch/assets/images/2026/10/22/plantio2-0JVSWolbm.jpg
     publisher: El Diario de Chihuahua
-    caption: An aerial view of a wooded slope with black sheeting and a pale patch of cut vegetation.
+    caption: "Aerial view of a wooded slope with black sheeting and cut vegetation. Photo: El Diario de Chihuahua"
   - kind: photo
-    url: https://cdn-a.ntmx.me/a/KJxULvyPfz5HCWQDB7AYgoHso6o1ncqf0agu6RVj_iA/nowm/1280x853/2026/10/8a5f8730-c900-4eb1-b630-d8f9879855d7.jpg
+    url: https://netnoticias.mx/estatal/destruyen-tres-plantios-de-marihuana-en-guerrero
+    media_url: https://cdn-a.ntmx.me/a/KJxULvyPfz5HCWQDB7AYgoHso6o1ncqf0agu6RVj_iA/nowm/1280x853/2026/10/8a5f8730-c900-4eb1-b630-d8f9879855d7.jpg
     publisher: Net Noticias
-    caption: Two views of the same operation. Officers stand by piles of cut plants, and a rural officer faces plants hung to dry.
+    caption: "Composite of officers with cut plants and a rural officer at a drying line. Photo: Net Noticias"
 ---
 
 On 21 October 2026, officers of the Chihuahua state public-security

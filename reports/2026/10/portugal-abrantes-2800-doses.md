@@ -47,12 +47,14 @@ sources:
 media:
   - kind: photo
     url: https://www.antenalivre.pt/politica/gnr-detem-homem-em-abrantes-e-apreende-2800-doses-de-canabis
+    media_url: https://www.antenalivre.pt/pic/850x460/_abrantes_1_6ad735f4313d8.jpeg
     publisher: Antena Livre
-    caption: The house in Vale das Mós where the cannabis was found
+    caption: "Harvested plants, boxed buds, a scale and bags displayed with the GNR crest. Photo: GNR / Antena Livre"
   - kind: photo
     url: https://noticiasdosorraia.sapo.pt/gnr-detem-homem-de-50-anos-e-apreende-2800-doses-de-droga-em-abrantes/
+    media_url: https://noticiasdosorraia.sapo.pt/wp-content/uploads/2026/10/Abrantes.jpeg
     publisher: Notícias do Sorraia
-    caption: Material seized during the search in Abrantes
+    caption: "The same GNR evidence display of plants and packed doses from Abrantes. Photo: GNR / Notícias do Sorraia"
 ---
 
 GNR officers arrested a 50-year-old man and seized 2,800 doses of cannabis and nine plants at a house

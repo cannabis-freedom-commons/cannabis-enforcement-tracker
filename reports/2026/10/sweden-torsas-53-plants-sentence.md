@@ -51,9 +51,10 @@ sources:
 media:
   - kind: photo
     url: https://www.svt.se/nyheter/lokalt/smaland/man-odlade-cannabis-i-stora-delar-av-sitt-hus-doms-till-fangelse
+    media_url: https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/bcdab17a8094be1c89b4f6532b9e444edaa65f87322dc2d75ff22bae9025458d
     archived: https://web.archive.org/web/20261024000228/https://www.svt.se/nyheter/lokalt/smaland/man-odlade-cannabis-i-stora-delar-av-sitt-hus-doms-till-fangelse
     publisher: SVT Nyheter
-    caption: Cannabis plants found in the man's garden in Torsås
+    caption: "Garden plants, indoor drying gear and labelled packs from the Torsås house. Photo: SVT"
 ---
 
 Kalmar District Court sentenced a 40-year-old man from Torsås municipality to two years in prison for

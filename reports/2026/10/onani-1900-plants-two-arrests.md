@@ -56,15 +56,17 @@ sources:
     language: it
 media:
   - kind: photo
-    url: https://www.ansa.it/webimages/img_1280x720/2026/10/21/0364548d417a35bdb240daa4aa7cfd67.jpg
+    url: https://www.ansa.it/sardegna/notizie/2026/10/21/sequestrate-due-piantagioni-di-marijuana-con-3mila-piante-nel-nuorese_ee928d61-4103-4f70-baa1-af8049766fb5.html
+    media_url: https://www.ansa.it/webimages/img_1280x720/2026/10/21/0364548d417a35bdb240daa4aa7cfd67.jpg
     archived: https://web.archive.org/web/20261023163912/https://www.ansa.it/webimages/img_1280x720/2026/10/21/0364548d417a35bdb240daa4aa7cfd67.jpg
     publisher: ANSA
-    caption: A carabiniere beside a flowering cannabis plant, the photograph published with the 21 October reports.
+    caption: "A carabiniere beside a flowering cannabis plant, published with the 21 October reports. Photo: ANSA"
   - kind: photo
-    url: https://api-sites-prd.saegroup.abinsula.com/api/social/image/contentid/policy:1.100932412:1792564841/WhatsApp%20Image%202026-10-21%20at%2008.26.54.jpeg
+    url: https://www.lanuovasardegna.it/nuoro/cronaca/2026/10/21/news/tremila-piante-di-marijuana-sotto-sequestro-due-arresti-il-doppio-blitz-dei-carabinieri-1.100932413
+    media_url: https://api-sites-prd.saegroup.abinsula.com/api/social/image/contentid/policy:1.100932412:1792564841/WhatsApp%20Image%202026-10-21%20at%2008.26.54.jpeg
     archived: https://web.archive.org/web/20261023053531/https://api-sites-prd.saegroup.abinsula.com/api/social/image/contentid/policy:1.100932412:1792564841/WhatsApp%20Image%202026-10-21%20at%2008.26.54.jpeg
     publisher: La Nuova Sardegna
-    caption: The same photograph of a carabiniere and a flowering cannabis plant, as published by La Nuova Sardegna.
+    caption: "The same carabiniere and flowering plant as published by La Nuova Sardegna. Photo: La Nuova Sardegna"
 ---
 
 Carabinieri of the Bitti company, with the helicopter squadron Cacciatori di

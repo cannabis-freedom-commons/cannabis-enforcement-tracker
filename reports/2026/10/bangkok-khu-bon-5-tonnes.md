@@ -72,15 +72,25 @@ sources:
     language: th
 media:
   - kind: photo
-    url: https://www.bangkokpost.com/thailand/general/3340299/five-tonnes-of-cannabis-buds-seized-in-bangkok
-    publisher: Bangkok Post (Royal Thai Police)
-    caption: Immigration police with seized cannabis buds at the Bang Khen house.
+    url: https://www.chiangraitimes.com/bangkok/bangkok-marijuana-seized/
+    media_url: https://www.chiangraitimes.com/wp-content/uploads/2026/10/1-22.webp
+    archived: https://web.archive.org/web/20261022095626/https://www.chiangraitimes.com/bangkok/bangkok-marijuana-seized/
+    publisher: Chiang Rai Times
+    caption: "Immigration officers and officials with clear bags of buds at the Bang Khen house. Photo: Chiang Rai Times"
   - kind: photo
     url: https://thethaiger.com/news/bangkok/bangkok-cannabis-raid-seizes-over-5-tonnes-arrests-five
+    media_url: https://thethaiger.com/wp-content/uploads/2026/10/bangkok-cannabis-2-1.jpg
     archived: https://web.archive.org/web/20261022140956/https://thethaiger.com/news/bangkok/bangkok-cannabis-raid-seizes-over-5-tonnes-arrests-five
     publisher: Thaiger (via Khaosod)
-    caption: Cannabis buds in black bags inside the rented house.
+    caption: "Black bags of cannabis buds stacked inside the rented house. Photo: Thaiger / Khaosod"
+  - kind: photo
+    url: https://thethaiger.com/news/bangkok/bangkok-cannabis-raid-seizes-over-5-tonnes-arrests-five
+    media_url: https://thethaiger.com/wp-content/uploads/2026/10/bangkok-cannabis-3.jpg
+    archived: https://web.archive.org/web/20261022140956/https://thethaiger.com/news/bangkok/bangkok-cannabis-raid-seizes-over-5-tonnes-arrests-five
+    publisher: Thaiger (via Khaosod)
+    caption: "Immigration officers watch cannabis buds being sorted at a workbench in the house. Photo: Thaiger / Khaosod"
 open_questions:
+  - The Bangkok Post page blocked automated fetch (HTTP 451), so its photo could not be given a verified media_url in this pass.
   - >-
     The Thai person who rented the house was not named; police said they were still tracing that person and
     any financiers.
@@ -88,9 +98,6 @@ open_questions:
     Laboratory tests to determine whether the buds were grown in Thailand or imported had not been reported
     when these accounts were published.
   - The sources describe the seizure as more than five tonnes without a precise weight.
-  - >-
-    The original report was imported without a recorded creator model; its original unknown attribution is
-    preserved.
   - >-
     The original report was imported without a recorded creator model; its original unknown attribution is
     preserved.
