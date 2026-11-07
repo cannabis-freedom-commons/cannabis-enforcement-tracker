@@ -91,6 +91,11 @@ sources:
     publisher: au Webポータル
     date: 2026-11-07
     language: ja
+  - title: 自衛隊員（１９）大麻使用で懲戒免職「出来心だった」 友人宅に集まり３人で使用した疑い９月逮捕 広島（広島ニュースＴＳＳ）
+    url: https://topics.smt.docomo.ne.jp/amp/article/tss/region/tss-36575
+    publisher: ｄメニューニュース（NTTドコモ）/ 広島ニュースＴＳＳ
+    date: 2026-11-06
+    language: ja
 open_questions:
   - No weight, form or value of the cannabis was published, so no cannabis quantity is recorded.
   - Sankei reports the soldier also used a type of synthetic drug; that substance is outside this tracker's scope and no quantities of any drug are given.
@@ -102,17 +107,25 @@ open_questions:
   - The Sohu page credits Xinhua and cites Kyodo, so it is a wire reprint rather than independent reporting of the garrison's statement.
   - The TSS page shows a 7 November 2026 posting date although the dismissal took effect on 6 November; the report keeps 6 November as the incident date.
   - The Chinese account is a Xinhua reprint of a Kyodo report and identifies the drugs only as cannabis and other drugs, without weights or forms.
+  - The portal page gives no weight, form or value of the cannabis used, and identifies the other drugs only as such, so no quantities are added.
+  - The portal's headline image is a thumbnail associated with the page and is not established to show this case; the garrison building photo is listed instead.
+media:
+  - kind: photo
+    url: https://topics.smt.docomo.ne.jp/amp/article/tss/region/tss-36575
+    media_url: https://tss1.dc-maxs.net/data/000036575_01.jpg?v=1793948599
+    publisher: 広島ニュースＴＳＳ
+    caption: Photo of the Kaita garrison of the Ground Self-Defense Force in Kaita town, Hiroshima Prefecture, published with the report on the soldier's dismissal.
 ---
 
 Japan's Ground Self-Defense Force dismissed a 19-year-old private second class
 at the Kaita garrison in Hiroshima Prefecture on 6 November 2026 over cannabis
-use. [@1,5,7,8,9,10] The dismissal was pronounced by the 46th Infantry Regiment, the unit
+use. [@1,5,7,8,9,10,11] The dismissal was pronounced by the 46th Infantry Regiment, the unit
 at the Kaita garrison in Kaita town, Hiroshima Prefecture, according to the
 Chugoku Shimbun. [@3,6]
 
 The garrison said the soldier used cannabis and other drugs at a friend's home
-in Aki Ward, Hiroshima City, in August this year. [@1,6] In September he was
-arrested together with two friends on suspicion of cannabis use. [@1,6,9] The
+in Aki Ward, Hiroshima City, in August this year. [@1,6,11] In September he was
+arrested together with two friends on suspicion of cannabis use. [@1,6,9,11] The
 broadcast report on the arrests said police suspected the three men of using
 cannabis at one of their homes between about May and August 2026. [@4] Sankei
 reported that neighbours complained about noise on the night of 29 August, that
@@ -122,7 +135,7 @@ September on suspicion of violating the Narcotics and Psychotropics Control Law
 by use. [@2,7,8]
 
 Asked about the matter in the garrison's hearing, the soldier said it was a
-momentary impulse and that he was deeply sorry. [@1] Colonel Manji Hyodo,
+momentary impulse and that he was deeply sorry. [@1,11] Colonel Manji Hyodo,
 commander of the 46th Infantry Regiment, said the force would tighten
 instruction to its members and work to prevent a repeat. [@1] The Chugoku
 Shimbun reported that the garrison said this was the first time one of its
