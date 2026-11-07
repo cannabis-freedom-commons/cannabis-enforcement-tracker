@@ -46,6 +46,11 @@ media:
     media_url: https://ndtvod.pc.cdn.bitgravity.com/23372/ndtv/web_sirohi_596960_334475_5000.mp4
     publisher: NDTV Rajasthan
     caption: NDTV Rajasthan news video (3:42) on the discovery of cannabis cultivation in the Sirohi hills, the drone and GPS search and the seizures.
+  - kind: video
+    url: https://rajasthan.ndtv.in/videos/rajasthan-police-seizes-ganja-worth-1-crore-using-drone-in-sirohi-forests-1187449
+    media_url: https://ndtvod.pc.cdn.bitgravity.com/23372/ndtv/web_Sitohi2_597011_334513_5000.mp4
+    publisher: NDTV Rajasthan
+    caption: NDTV Rajasthan video report (1:38) on the drone-assisted search of the Sirohi hills, the seizure of about 4.5 tonnes of ganja plants and the arrest of seven suspects.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cd955d844e54cb645ea0276e34b85532
@@ -61,6 +66,11 @@ sources:
     publisher: The Sootr
     date: 2026-11-07
     language: hi
+  - title: Sirohi के जंगलों में Drone से हुआ 1 करोड़ के Ganja का पर्दाफाश!| Rajasthan Police|Crime
+    url: https://rajasthan.ndtv.in/videos/rajasthan-police-seizes-ganja-worth-1-crore-using-drone-in-sirohi-forests-1187449
+    publisher: NDTV Rajasthan
+    date: 2026-11-07
+    language: hi
 open_questions:
   - Neither source gives a separate date for the operation; 7 November 2026 is the publication date of both and stands in for the incident date.
   - Police gave the plant seizure only as about 4.5 tonnes; no count of plants was published, so 4,500 kg is recorded as an approximate weight.
@@ -71,15 +81,20 @@ open_questions:
   - The suspects' names, ages and the charges registered are not published, and no court outcome or remand decision was reported.
   - The accounts do not settle whether this drone operation, the 6 November four-field Rohida raid and the 16 October Valoria raid are parts of one series of searches.
   - Pindwara circle officer Rahul Meena supervised the drone teams here; earlier Sirohi raids also named a Rahul Meena as circle officer, and the overlap is not resolved.
+  - NDTV Rajasthan gives no separate date for the drone search or the arrests; 7 November 2026 is its publication date.
+  - The video description gives the plant quantity both as 15,000 kg of ganja cultivation in the hills and as about 4.5 tonnes of plants seized; the two figures cannot both describe the seizure, so the 4.5-tonne figure is used.
+  - The video states the seized plants were worth more than Rs 1 crore but does not say whether the valuation covers all the fields found or only what was seized.
+  - The video calls the seizing unit simply Rajasthan Police and names no officer, station or case number.
+  - NDTV does not name the specific village or forest locality within the Sirohi hills, so the existing district-level coordinates still apply.
 ---
 
 Police in Sirohi district used drones to find cannabis cultivation hidden in
 remote hills and forests, and seized a large number of plants after reaching the
 fields on the drones' GPS coordinates. [@1] Growers had planted the cannabis
-among maize, castor and other standing crops to conceal it. [@1]
+among maize, castor and other standing crops to conceal it. [@1,3]
 
 Police seized about 4.5 tonnes of cannabis plants under Operation Trinetra and
-arrested seven suspects. [@2] Police said they had been receiving continuing
+arrested seven suspects. [@2,3] Police said they had been receiving continuing
 information that ganja was being supplied in Sirohi, but could not find where it
 was grown. [@2]
 
@@ -95,3 +110,4 @@ Police said they would question the arrested suspects about the cultivation and
 supply network and look for other people involved and where the ganja was sent.
 [@2]
 
+NDTV Rajasthan reported that police valued the seized plants at more than Rs 1 crore. [@3] NDTV Rajasthan said police used drones and GPS for the first time to reach the network hidden in the difficult forests. [@3]
