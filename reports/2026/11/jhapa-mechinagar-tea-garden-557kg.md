@@ -62,6 +62,11 @@ sources:
     url: https://theannapurnaexpress.com/story/68573/
     publisher: The Annapurna Express
     date: 2026-11-06
+  - title: झापा के चाय बागान से ५५७ किलोग्राम गांजा बरामद
+    url: https://hindi.ratopati.com/story/39806/557-kg-of-marijuana-seized-from-tea-plantation
+    publisher: Ratopati Hindi
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The reports name no arrested suspect; the garden owner is reported to live abroad, and no arrest or charge is reported.
   - The reports do not say where the ganja came from, who left it in the garden, or give its street value.
@@ -69,18 +74,20 @@ open_questions:
   - No separate incident date is given; 6 November 2026 is both the reported day of the search and the publication date.
   - The page photo is captioned only as the Jhapa tea garden seizure and carries no credit, so it is linked rather than treated as a verified picture of the seized sacks.
   - The Annapurna Express gives no weight for the sacks with plastic wrapping, so the 562 kg 800 g gross weight rests on the other cited accounts.
+  - The Hindi edition is an automatic translation of Ratopati's Nepali story and carries a disclaimer that it may contain linguistic errors, so its wording is treated as identical in substance to the original.
+  - The Hindi text describes the 13 containers as पैकेट (packets), a translation of the Nepali पोका; the pages do not establish precisely what kind of container held the ganja.
 ---
 
 Police recovered 557 kg of ganja from a tea garden at Sirjana Chowk in
-Mechinagar Municipality-5 of Jhapa district. [@1,4] Officers found the ganja in 13
-sacks on Friday morning in the personal tea garden of local Tekendra Thapa. [@1,4]
+Mechinagar Municipality-5 of Jhapa district. [@1,4,5] Officers found the ganja in 13
+sacks on Friday morning in the personal tea garden of local Tekendra Thapa. [@1,4,5]
 The Nepali-language account says the police team searched on the strength of a
 tip that ganja had been left abandoned in the garden, and put the time at about
 7:50 am on Friday. [@2,4]
 
 The garden's owner, Thapa, is reported to be abroad. [@2,4] Weighed with its
 plastic wrapping the load came to 562 kg 800 grams, and 557 kg without the
-plastic. [@1] The Nepali-language report gives the same figures, saying the 13
+plastic. [@1,5] The Nepali-language report gives the same figures, saying the 13
 sacks weighed 562 kg 800 g with plastic and 557 kg without it. [@3]
 
 Police said they had completed the necessary case record, or muchulka, and that
