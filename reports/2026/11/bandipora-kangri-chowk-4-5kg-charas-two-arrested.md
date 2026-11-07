@@ -50,6 +50,10 @@ sources:
     url: https://x.com/bandiporapolice/status/2118750095491620917
     publisher: District Police, Bandipora (X)
     date: 2026-11-06
+  - title: Four Arrested, Over 6 Kg Of Charas-Like Substance Seized In J&K's Bandipora
+    url: https://www.dailyexcelsior.com/two-arrested-with-1-5-kg-charas-like-substance-in-jks-bandipora/
+    publisher: Daily Excelsior
+    date: 2026-11-07
 open_questions:
   - The day's two Bandipora cases together were reported as approximately 6.5 kg; the Kangri Chowk recovery is given only as a range of approximately 4–5 kg, so the Kangri weight cannot be stated exactly.
   - No laboratory confirmation that the substance was cannabis was published; police describe it only as a charas-like substance.
@@ -59,11 +63,13 @@ open_questions:
   - Coordinates are for Bandipora town, not for the exact spot at Kangri Chowk.
   - The page's single photo carries no caption or credit and is not established to show this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in District Police, Bandipora (X): The district police announced the arrests in the afternoon of 6 November 2026, the day before the roundup was published.'
+  - Daily Excelsior puts the Kangri Chowk recovery at approximately 4.5 kg and the day's total at over six kg, where the KIMS account gave a 4–5 kg range and 6.5 kg in all.
+  - Daily Excelsior does not repeat the FIR numbers for the two cases that the earlier accounts gave.
 ---
 
 Police in Bandipora district arrested four people in two separate narcotics
 cases, one at Kangri Chowk and one at Garoora Crossing, and recovered
-approximately 6.5 kg of a charas-like substance between them. [@1]
+approximately 6.5 kg of a charas-like substance between them. [@1,3]
 
 At Kangri Chowk, officers stopped Irfan Ahmad Chopan, a resident of Bagh in
 Bandipora, and Imran Ahmad Sheikh, a resident of Sheikh Mohalla in Bandipora,
@@ -84,3 +90,4 @@ Police Station Aragam. [@1] Police said they had begun investigations in both
 cases to establish where the substance came from, where it was going and who
 else was involved in the trade. [@1]
 
+Police gave the Kangri Chowk recovery as approximately 4.5 kg where the existing account recorded a 4–5 kg range. [@3] Police registered two separate cases and said they were investigating further links and the source and intended destination of the substance. [@3]
