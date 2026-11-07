@@ -88,6 +88,11 @@ sources:
     publisher: Notícias ao Minuto
     date: 2026-11-06
     language: pt
+  - title: Apreensão de 1,1 toneladas de haxixe resulta na detenção de quatro suspeitos no Porto das Barcas em São Teotónio
+    url: https://radiosines.sapo.pt/noticias/apreensao-de-1-1-toneladas-de-haxixe-resulta-na-detencao-de-quatro-suspeitos-no-porto-das-barcas
+    publisher: Rádio Sines
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
@@ -108,6 +113,7 @@ open_questions:
   - The submitted page's only article image is a screen capture captioned with a timestamp and no credit, so it is not established to show this seizure and no media is listed.
   - The article gives no separate date for the police action, only that it ran over recent days and that the detainees would face a first judicial interrogation on Friday, 6 November 2026, which is also its publication date.
   - The page's second picture illustrates an earlier feature on trafficking along the Portuguese coast, not this operation, so only the first image is listed.
+  - Rádio Sines gives no separate date for the police action beyond saying it ran over the last few days, and no court outcome is reported.
 media:
   - kind: photo
     url: https://m.noticiasaominuto.com/pais/3079796/narcotrafico-4-detidos-e-1-1-toneladas-de-polen-de-haxixe-em-odemira
@@ -117,7 +123,7 @@ media:
 ---
 
 Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
-municipality of Odemira. [@1,4,5,9] They were suspected of trafficking more than a
+municipality of Odemira. [@1,4,5,9,11] They were suspected of trafficking more than a
 tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
 were to be brought before a judge for a first judicial interrogation and
 coercive measures. [@1]
@@ -143,3 +149,5 @@ The operation was run by the PJ's National Unit to Combat Drug Trafficking (UNCT
 All four suspects were placed in pre-trial detention after a first judicial interrogation on Friday. [@6]
 
 House searches also turned up a car with false number plates and various communications equipment, alongside the surveillance cameras. [@7,8]
+
+The criminal investigation continues under the PJ's National Unit to Combat Drug Trafficking (UNCTE) and the GNR's Coastal and Border Control Unit (UCCF), with the aim of establishing every branch of the trafficking network. [@11]
