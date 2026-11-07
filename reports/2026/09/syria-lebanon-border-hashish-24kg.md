@@ -54,11 +54,18 @@ sources:
     publisher: Kataeb.org
     date: 2026-09-25
     language: ar
+  - title: ضبط شحنة مهربة من الحشيش والمشروبات الكحولية قادمة من لبنان
+    url: https://www.verify-sy.com/ar/topic/SecurityIncidents/newsroom/24-kilograms-of-hashish-and-113
+    publisher: تأكد (Verify-Sy)
+    date: 2026-09-25
+    language: ar
 open_questions:
   - The sources do not name the border crossing or governorate where the patrol stopped the shipment, so the place is given at country level.
   - The exact date of the interception is not stated; the department announced it on Friday 25 September 2026 and the reports were published that day, which is used as the incident date.
   - No charge, court date, sentence or estimated value of the hashish has been reported, and the suspect is identified only by the initials Y. M., with no age or nationality given.
   - SANA's article also describes a separate operation on 12 September at al-Nabk, in Damascus countryside, which is not part of this event and is not counted in its figures.
+  - The Verify-Sy account, like the existing report's sources, does not name the border crossing or governorate where the shipment was stopped.
+  - The article gives no value for the hashish and no charge or court outcome.
 ---
 
 Syria's Drug Enforcement Department said one of its security patrols, working
@@ -66,7 +73,7 @@ with border guard forces, foiled an attempt to smuggle a shipment of narcotics
 and alcohol from Lebanese territory. [@1] The department said the shipment was
 seized in an ambush before it reached its destination. [@2] The patrol arrested
 the smuggler and seized 24 kg of hashish and 113 bottles of smuggled alcohol.
-[@1]
+[@1,4]
 
 The statement named the detained man only by the initials Y. M. [@3] The hashish
 and the bottles were found in his possession, the department said. [@2] It
@@ -78,4 +85,3 @@ against him. [@3]
 The department announced the interception on its Telegram channel on Friday 25
 September 2026. [@1] It said officers had monitored the route the shipment would
 take before the patrol moved in. [@1]
-
