@@ -98,6 +98,11 @@ sources:
     publisher: Correio da Manhã
     date: 2026-11-07
     language: pt
+  - title: Furgão com mais de uma tonelada de haxixe abalroou carro da GNR
+    url: https://www.jn.pt/justica/artigo/furgao-com-mais-de-uma-tonelada-de-haxixe-abalroou-carro-da-gnr/18145581
+    publisher: Jornal de Notícias
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
@@ -122,6 +127,9 @@ open_questions:
   - The video page gives no separate operation date; 7 November 2026 is its publication date.
   - The page names only the Alentejo coast and gives no operation details beyond the headline summary.
   - The listed page image has no caption or credit establishing it shows this seizure, so no media is listed.
+  - Jornal de Notícias dates the ramming and arrests to the early hours of Thursday, between Zambujeira do Mar and São Teotónio, while the report's date is the 6 November publication date used for the operation as a whole.
+  - Jornal de Notícias gives the four detainees' nationalities as Senegalese, Spanish and Moroccan, a detail not given in the sources already cited by the report.
+  - Jornal de Notícias reports no injuries in the collision and no court outcome; its account stops at the arrests and the drug seizure.
 media:
   - kind: photo
     url: https://m.noticiasaominuto.com/pais/3079796/narcotrafico-4-detidos-e-1-1-toneladas-de-polen-de-haxixe-em-odemira
@@ -131,12 +139,12 @@ media:
 ---
 
 Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
-municipality of Odemira. [@1,4,5,9,11] They were suspected of trafficking more than a
+municipality of Odemira. [@1,4,5,9,11,13] They were suspected of trafficking more than a
 tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
 were to be brought before a judge for a first judicial interrogation and
 coercive measures. [@1]
 
-Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7,9,10,12] The
+Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7,9,10,12,13] The
 operation began after authorities spotted a suspicious high-speed vessel crewed
 by unidentified people whose presence near the Portuguese coast was unjustified.
 [@1] House searches led to the seizure of a car with a false number plate. [@1]
@@ -159,3 +167,5 @@ All four suspects were placed in pre-trial detention after a first judicial inte
 House searches also turned up a car with false number plates and various communications equipment, alongside the surveillance cameras. [@7,8]
 
 The criminal investigation continues under the PJ's National Unit to Combat Drug Trafficking (UNCTE) and the GNR's Coastal and Border Control Unit (UCCF), with the aim of establishing every branch of the trafficking network. [@11]
+
+The suspects rammed the GNR car pursuing them in the early hours of Thursday, between Zambujeira do Mar and São Teotónio, in the municipality of Odemira. [@13]
