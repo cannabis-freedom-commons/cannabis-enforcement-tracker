@@ -50,6 +50,11 @@ sources:
     publisher: Информационный медиа-портал POLISIA.KZ
     date: 2026-11-07
     language: ru
+  - title: Пьяного водителя с марихуаной задержали в Риддере
+    url: https://ru.qaz365.kz/zakon-i-poryadok/25241-pianogo-voditelia-s-marikhuanoi-zaderzhali-v-riddere/
+    publisher: Qaz365.kz
+    date: 2026-11-07
+    language: ru
 open_questions:
   - The article gives no separate date for the stop; 7 November 2026 is its publication date and is used as the incident date.
   - The weight is stated only as more than 35 grams, and no street value was published.
@@ -57,18 +62,18 @@ open_questions:
   - The driver is identified only by age and place of residence.
   - Only one account was found, the police media outlet's own report; no independent outlet coverage was located.
   - The page photo carries no caption establishing what it shows, so no photo is linked; only the embedded police video is listed.
+  - The Qaz365.kz account is a reprint of the police media centre's statement and adds no detail beyond it.
 ---
 
 Police in Ridder, in Kazakhstan's East Kazakhstan Region, stopped a Toyota
 Caldina during preventive patrol measures and detained its driver, a 34-year-old
-local resident. [@1] Officers thought the driver's condition unusual, and a
-medical examination confirmed he was under the influence of drugs. [@1] While
+local resident. [@1,2] Officers thought the driver's condition unusual, and a
+medical examination confirmed he was under the influence of drugs. [@1,2] While
 searching the car's interior they found a packet of brownish-green substance in
-the man's bag. [@1] Forensic testing identified the substance as marijuana
-weighing more than 35 grams. [@1]
+the man's bag. [@1,2] Forensic testing identified the substance as marijuana
+weighing more than 35 grams. [@1,2]
 
 A criminal case was opened over the finding, and the car was taken to a
-specialist impound lot. [@1] The report carried no charge, court outcome or
+specialist impound lot. [@1,2] The report carried no charge, court outcome or
 explanation from the driver, and police used it to warn that an intoxicated
-driver is a danger to everyone on the road. [@1]
-
+driver is a danger to everyone on the road. [@1,2]
