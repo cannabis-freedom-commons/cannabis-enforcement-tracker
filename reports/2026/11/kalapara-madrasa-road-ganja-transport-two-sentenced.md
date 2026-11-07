@@ -53,6 +53,11 @@ media:
     media_url: https://www.ajkerbangladesh.com.bd/wp-content/uploads/2026/11/Screenshots-20261107124800.png
     publisher: Ajker Bangladesh
     caption: The two men detained in the cannabis transport case standing with police officers at a riverbank near Kalapara, photographed before the mobile court ruling.
+  - kind: photo
+    url: https://www.eimattro.com/news/details/1794033937590/
+    media_url: https://api.eimattro.com/uploads/fcece673-b8f4-44c9-b61c-179414f08d06.jpg
+    publisher: এইমাত্র
+    caption: The page picture published with the account of the Kalapara cannabis-transport ruling; no credit or subject caption is given.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8d3701cc7a5eb4491ae7105ae09f37ac
@@ -68,6 +73,11 @@ sources:
     publisher: পটুয়াখালী টাইমস
     date: 2026-11-06
     language: bn
+  - title: কলাপাড়ায় গাঁজা ও অবৈধ বালু উত্তোলনে ৩ জনের কারাদণ্ড
+    url: https://www.eimattro.com/news/details/1794033937590/
+    publisher: এইমাত্র
+    date: 2026-11-07
+    language: bn
 open_questions:
   - No weight or quantity of cannabis was published, so no cannabis figure can be recorded.
   - The submitted article says the raid took place late at night on Thursday, while Patuakhali Times says the sentence was given at midday on Friday 6 November; 6 November 2026 is used as the incident date and the raid may have fallen late on 5 November.
@@ -77,6 +87,9 @@ open_questions:
   - The same articles report a separate conviction for illegal sand extraction, a different event left out of this report.
   - Only one photo of the detention was found; it is captioned as the Kalapara case but does not show the cannabis itself.
   - Both accounts appear to draw on the same local reporting and give no court record or appeal information.
+  - This account names one of the two men as Abubakkar and places him in Paschim Badurtali village of Tiakhali Union; the other accounts gave neither detail.
+  - This account leaves the fine as 'a financial fine' without a figure, while the other reports give 100 taka each.
+  - The article also records a separate sand-extraction fine of 10,000 taka for one man on the Tiakhali river, an offence that is not a cannabis matter and is left out of the report's figures.
 ---
 
 A mobile court in Kalapara, Patuakhali, sentenced two men to 21 days of rigorous
@@ -95,3 +108,4 @@ and illegal activity would continue. [@1]
 The ruling was given at midday on Friday 6 November, the day after the
 late-night raid, Patuakhali Times reported. [@2]
 
+The upazila administration reported the arrests and the mobile court's rulings. [@3] One of the two men was named in the account as Abubakkar, of Paschim Badurtali village in Tiakhali Union of Kalapara. [@3]
