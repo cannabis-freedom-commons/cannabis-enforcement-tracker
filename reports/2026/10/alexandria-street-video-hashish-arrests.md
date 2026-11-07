@@ -153,6 +153,11 @@ sources:
     publisher: دار الهلال
     date: 2026-11-07
     language: ar
+  - title: سقوط عاطلين بحوزتهما مخدر الحشيش في محافظة الإسكندرية
+    url: https://www.algomhor.com/508178
+    publisher: الجمهور الإخباري
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
   - Neither report gives the weight of the hashish found with the employee or with the supplier.
@@ -195,13 +200,15 @@ open_questions:
   - No weight is given for the hashish found with the two men, and no charges or court outcome are reported.
   - The page picture is captioned only "الواقعة" with no credit, so it is not established to show this seizure or the two men.
   - The Dar El Hilal account is undated apart from its 7 November publication time and is the only account read for this submission that describes both men as unemployed.
+  - The الجمهور الإخباري page gives no date for the arrest, only 30 October as the date the two said they committed the offence, and Dar El Hilal likewise publishes on 7 November without an arrest date.
+  - Neither page gives a weight for the hashish or names the two men, and neither reports charges or a court outcome.
 ---
 
 The case began with a social-media post, backed by a video, in which the person
 who published it complained about two men, one of them riding a motorcycle,
-using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,21] Egypt's Interior Ministry said its
+using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,21,22] Egypt's Interior Ministry said its
 security services identified and arrested the pair and seized the motorcycle,
-which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21] The two were a company employee and a
+which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22] The two were a company employee and a
 delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21]
 
 Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] Questioned, the two admitted the
@@ -210,7 +217,7 @@ obtained the hashish from an unemployed man with a criminal record living in the
 First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20]
 
 The ministry said no reports had been filed about the incident before the video
-spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21] The public prosecution has taken over the investigation.
+spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22] The public prosecution has taken over the investigation.
 [@2,3,4,7,8,9,10,13,16,17,18,20]
 
 The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20]
@@ -220,3 +227,5 @@ Alexandria prosecutors ordered the employee and the delivery worker held for fou
 The Montazah prosecution in Alexandria ordered the three accused held for four days pending investigation on charges of drug use and possession of hashish for use and trafficking. [@19]
 
 The two arrested men admitted committing the offence on 30 October and holding the drugs for both use and trafficking, the only account that reports an admission to trafficking by both. [@21]
+
+Both arrested men were found with hashish and two mobile phones. [@22]
