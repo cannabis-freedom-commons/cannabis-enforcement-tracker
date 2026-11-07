@@ -66,6 +66,11 @@ sources:
     publisher: Daily Naya Diganta
     date: 2026-11-06
     language: bn
+  - title: মতলবে ১৫ মামলার আসামি 'মেজর ডালিম'সহ পাঁচ মাদক কারবারি গ্রেফতার
+    url: https://www.chandpurkantha24.com/chandpur-district-news/79534/%E0%A6%AE%E0%A6%A4%E0%A6%B2%E0%A6%AC%E0%A7%87-%E0%A7%A7%E0%A7%AB-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%BF-%E0%A6%AE%E0%A7%87%E0%A6%9C%E0%A6%B0-%E0%A6%A1%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AE%E0%A6%B8%E0%A6%B9-%E0%A6%AA%E0%A6%BE%E0%A6%81%E0%A6%9A-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0
+    publisher: Chandpur Kantho
+    date: 2026-11-06
+    language: bn
 open_questions:
   - The article gives no weight or value for the 30 yaba tablets; they are not part of the cannabis figures.
   - The article does not say what the two men arrested in the Upadhi and Nalua areas were found with, so the 50 grams of ganja is reported only for the two arrested in Badarpur.
@@ -82,6 +87,8 @@ open_questions:
   - Naya Diganta describes five people as arrested drug traffickers while naming six people detained, including a third man held on a sentence warrant in the Badarpur raid; the existing report counts six arrested.
   - Naya Diganta gives 20 grams of ganja in the Badarpur raid, while Chandpur Times reported 30 grams for one of the two men held there, so the totals differ between accounts.
   - Naya Diganta does not say what the man held in the Upadhi raid was found with, and gives yaba only for the two men arrested in the Nairgaon area.
+  - Chandpur Kantho gives 30 grams of ganja for the Badarpur pair and 40 grams for the South Nalua arrest, totalling 70 grams, while the existing report records 50 grams of ganja; a single official total for the raids was not published.
+  - Chandpur Kantho's headline counts five arrested traffickers but its text names six people detained, including the convicted man held in Badarpur, matching a discrepancy already recorded from Naya Diganta.
 ---
 
 Police in Matlab Dakshin upazila, Chandpur, arrested six people in separate
@@ -97,7 +104,7 @@ November. [@1,2]
 In the Nairgaon area, police arrested the 30-year-old man known as Major Dalim
 with 30 yaba tablets and a warrant for execution of a court sentence (GR),
 together with his associate Saiful Islam. [@1] In the Badarpur area, police
-arrested two men, aged 25 and 21, together with the 50 grams of ganja. [@1,2] Two
+arrested two men, aged 25 and 21, together with the 50 grams of ganja. [@1,2,5] Two
 more men, aged 27 and 34, were arrested in separate raids in the Upadhi and
 Nalua areas. [@1,2]
 
@@ -105,4 +112,6 @@ Sub-Inspector Delwar Hossain of Matlab Dakshin police station said all six had
 been produced in court and that Dalim faces 15 cases. [@1] The officer said such
 police drives to eliminate drugs would continue. [@1]
 
-In the Badarpur raid, police arrested two men, aged 25 and 21, with 20 grams of ganja, and also detained a man convicted in another case. [@4] In a separate raid, police arrested a 34-year-old man from the South Nalua area of the municipality's ward 7 with 40 grams of ganja. [@4]
+In the Badarpur raid, police arrested two men, aged 25 and 21, with 20 grams of ganja, and also detained a man convicted in another case. [@4] In a separate raid, police arrested a 34-year-old man from the South Nalua area of the municipality's ward 7 with 40 grams of ganja. [@4,5]
+
+Chandpur Kantho reports that the raids ran from the night of Thursday 5 November 2026 to the morning of Friday 6 November 2026, and that the arrested were produced before a Chandpur court on the Friday. [@5]
