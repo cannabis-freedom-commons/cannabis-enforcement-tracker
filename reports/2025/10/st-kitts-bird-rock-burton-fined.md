@@ -54,24 +54,34 @@ sources:
     url: https://www.winnmediaskn.com/eli-burton-convicted-for-cannabis-related-offences
     publisher: WINNFM 98.9
     date: 2025-10-07
+  - title: ELI BURTON OF DOMINICA CHARGED WITH CANNABIS POSSESSION & IMPORTATION
+    url: https://www.winnmediaskn.com/eli-burton-of-dominica-charged-with-cannabis-possession-importation/
+    publisher: WINNFM 98.9
+    date: 2025-08-28
+  - title: Eli Burton Of Dominica Charged With Cannabis Possession & Importation
+    url: http://www.police.kn/press-releases/detail/575
+    publisher: Royal St. Christopher and Nevis Police Force
+    date: 2025-08-28
 open_questions:
   - The 2025 reports give no name or registry for Burton’s vessel, cannabis weight or cannabis-specific value.
   - The reports do not say how many other crew members were aboard or whether any were detained.
   - The police statement gives 12 months’ imprisonment in default but does not clarify whether the term applies once or separately to each fine.
   - The submitted page’s only image has no caption or credit establishing that it shows this event, so no media entry is included.
+  - No cannabis weight, value or vessel name was published in the charged statement or the WINNFM reprint.
+  - The submitted page's only image is a headshot named for Burton without a caption or credit, so it is not established as showing the search or the seized cannabis.
 ---
 
 On 25 August 2025, the Anti-Narcotics Unit (ANU) of the Royal St Christopher and
 Nevis Police Force responded to a suspected cannabis-importation report at the
 Deep-Water Port at Bird Rock, St Kitts; the vessel had originated from Dominica.
-[@1] A search of the vessel found packaged plant material believed to be
-cannabis, which was later confirmed as cannabis. [@1] Police detained Eli M.
-Burton, a crew member from Dominica, with the suspected contraband. [@1] On 26
+[@1,4] A search of the vessel found packaged plant material believed to be
+cannabis, which was later confirmed as cannabis. [@1,4] Police detained Eli M.
+Burton, a crew member from Dominica, with the suspected contraband. [@1,4] On 26
 August, the force charged Burton with cannabis importation and possession of
-cannabis with intent to supply. [@1] The St Kitts and Nevis Customs and Excise
+cannabis with intent to supply. [@1,5] The St Kitts and Nevis Customs and Excise
 Department added charges on 27 August over importing cannabis packaged to
 deceive customs officials and attempting to fraudulently evade customs
-concerning restricted goods. [@1]
+concerning restricted goods. [@1,4]
 
 On 6 October 2025, Magistrate Yasmine Clarke handed down Burton’s sentences at
 Basseterre Magistrate Court. [@2] Burton pleaded guilty to cannabis importation
@@ -79,4 +89,3 @@ and possession with intent to supply and was fined EC$5,000 on each count,
 EC$10,000 in all, payable immediately, with 12 months’ imprisonment in default.
 [@3] Burton was convicted and cautioned on both additional customs offences.
 [@2]
-
