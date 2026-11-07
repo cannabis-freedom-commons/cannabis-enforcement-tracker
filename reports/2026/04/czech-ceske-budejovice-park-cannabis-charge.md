@@ -34,12 +34,9 @@ data_sources:
 media:
   - kind: photo
     url: https://tydenikpolicie.cz/doutnik-prodaval-marihuanu-v-ceskobudejovickem-parku-prevazne-mladistvym/
+    media_url: https://tydenikpolicie.cz/wp-content/uploads/2026/07/ViewImage-6-3.jpg
     publisher: Týdeník Policie
-    caption: 'Police photographs of items found during the house search at the suspect''s home. Photo: Police of the Czech Republic'
-  - kind: photo
-    url: https://ceskobudejovicky.denik.cz/krimi/doutnik-skoncil-marihuanu-prodaval-primo-z-lavicky-hlavne-mladistvym/
-    publisher: Českobudějovický deník
-    caption: 'Police photographs of items found during the house search, published with the police''s consent. Photo: Police of the Czech Republic, via Českobudějovický deník'
+    caption: "Dried cannabis in a plastic tub among items found during the house search (Police of the Czech Republic via Týdeník Policie)."
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [ceske-budejovice, cannabis, park, juvenile-sales, doutnik]
@@ -63,6 +60,7 @@ open_questions:
   - Police give no weight or value for the cannabis seized at his home, and no court has ruled on the charge; the five-to-ten-year term is the penalty the charge carries, not a sentence.
   - The police statement describes buyers as "children" (děti) and "juvenile users" (mladiství), while Jihočeská televize says "minors" (nezletilí); the buyers' exact ages are not given.
   - Českobudějovický deník's article is partly behind a paywall, so only its opening section could be read.
+  - Českobudějovický deník published additional house-search photographs of the same case that did not show cannabis clearly enough for a separate media_url entry here.
 ---
 
 Detectives in České Budějovice caught a man in the act during a cannabis sale in

@@ -49,14 +49,14 @@ sources:
 media:
   - kind: photo
     url: https://www.politie.nl/nieuws/2026/maart/7/02-hennepkwekerij-opgerold-in-bedrijfshal-in-losser.html
-    archived: https://web.archive.org/web/20260307115558/https://www.politie.nl/nieuws/2026/maart/7/02-hennepkwekerij-opgerold-in-bedrijfshal-in-losser.html
+    media_url: https://www.politie.nl/binaries/content/gallery/politie/nieuws/2026/maart/02-on/cbac2237-2712-4477-a8f3-ef0df11c0788.jpg
     publisher: Politie
-    caption: The cannabis plants found inside the business hall in Losser
+    caption: "Rows of young cannabis plants under grow lights inside the Losser business hall (Politie)."
   - kind: photo
     url: https://112twente.nl/nieuws/2d7CaqLs/hennepkwekerij-opgerold-in-bedrijfshal-in-losser
-    archived: https://web.archive.org/web/20260307115101/https://112twente.nl/nieuws/2d7CaqLs/hennepkwekerij-opgerold-in-bedrijfshal-in-losser
+    media_url: https://112twente.nl/images/2flzt6PR/large.jpg
     publisher: 112Twente
-    caption: The business hall where the cannabis farm was found
+    caption: "Close-up of a cannabis plant from the Losser warehouse farm (112Twente)."
 ---
 
 Police entered a business hall on the Pol in Losser on the afternoon of 6 March 2026 and found a

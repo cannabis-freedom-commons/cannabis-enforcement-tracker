@@ -38,10 +38,10 @@ status: verified
 tags: [santiago-del-estero, la-banda, gendarmeria, plantation]
 media:
   - kind: photo
-    url: https://www.diariosintesis.com.ar/index.php/component/content/article/santiago-del-estero-desmantelan-plantacion-con-mas-de-1200-plantas-de-marihuana-y-detienen-a-un-hombre?catid=16
-    archived: https://web.archive.org/web/20260213091710/https://www.diariosintesis.com.ar/index.php/component/content/article/santiago-del-estero-desmantelan-plantacion-con-mas-de-1200-plantas-de-marihuana-y-detienen-a-un-hombre?catid=16
-    publisher: Diario SINTESIS
-    caption: Gendarmerie officers beside the uprooted cannabis plants at the finca in Monte Encantado.
+    url: https://www.argentina.gob.ar/noticias/santiago-del-estero-investigaron-allanaron-y-desmantelaron-plantacion-de-marihuana
+    media_url: https://www.argentina.gob.ar/sites/default/files/2026/02/santiago_del_estero-_plantacion_de_marihuana-_sistema_de_riego-02_0.jpeg
+    publisher: Argentina.gob.ar
+    caption: "A Gendarmerie officer among tall cannabis plants at the Monte Encantado plantation (Gendarmería Nacional Argentina)."
 open_questions:
   - The Gendarmerie release of 10 February says the searches took place "yesterday"; no other date is given.
   - The man detained was not named, and no charge or court outcome was reported.

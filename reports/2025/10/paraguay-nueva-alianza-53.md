@@ -22,14 +22,9 @@ figures:
 media:
   - kind: photo
     url: https://senad.gov.py/operacion-binacional-nueva-alianza-53-dejo-fuera-de-circulacion-casi-1-000-toneladas-de-marihuana-en-diez-dias/
-    archived: https://web.archive.org/web/20260509174134/https://senad.gov.py/operacion-binacional-nueva-alianza-53-dejo-fuera-de-circulacion-casi-1-000-toneladas-de-marihuana-en-diez-dias/
-    publisher: Senad
-    caption: Two agents cut cannabis plants in a cleared plot, a helicopter above the treeline
-  - kind: photo
-    url: https://www.hoy.com.py/nacionales/2025/10/24/eliminan-98-hectareas-de-marihuana-en-la-frontera
-    archived: https://web.archive.org/web/20260712215844/https://www.hoy.com.py/nacionales/2025/10/24/eliminan-98-hectareas-de-marihuana-en-la-frontera
-    publisher: Hoy (Paraguay)
-    caption: A pile of cannabis plants burns in a field, smoke rising over the crop
+    media_url: https://senad.gov.py/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-24-at-6.27.37-AM-700x450.jpeg
+    publisher: SENAD
+    caption: "Camouflaged personnel cutting cannabis plants during Operación Nueva Alianza 53 (SENAD)."
 created_by_model: unknown
 details:
   activity: [cultivation]
@@ -71,6 +66,8 @@ sources:
     publisher: G1
     date: 2025-10-31
     language: pt
+open_questions:
+  - Hoy / La Nación published a burn-pile photograph of the same border eradication without a separate direct media_url entry here.
 ---
 
 Paraguay's National Anti-Drug Secretariat (Senad) and Brazil's Federal Police closed the 53rd phase
