@@ -39,6 +39,7 @@ created_by_model: Meta Muse Spark (via Muse Code)
 tags: [rio-de-janeiro, mare, pm, record]
 open_questions:
   - The identity of the arrested man and any charges were not reported.
+  - CNN Brasil published a second exhibit photo of the same Maré seizure without a separate direct media_url entry here.
 sources:
   - title: 48 toneladas de maconha, PM do Rio faz maior apreensão de drogas do Brasil
     url: https://www.cnnbrasil.com.br/nacional/sudeste/rj/48-toneladas-de-maconha-pm-do-rio-faz-maior-apreensao-de-drogas-do-brasil/
@@ -52,13 +53,10 @@ sources:
     language: pt
 media:
   - kind: photo
-    url: https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/WhatsApp-Image-2026-04-08-at-09.34.25.jpeg
+    url: https://www.cnnbrasil.com.br/nacional/sudeste/rj/48-toneladas-de-maconha-pm-do-rio-faz-maior-apreensao-de-drogas-do-brasil/
+    media_url: https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/WhatsApp-Image-2026-04-08-at-09.34.25.jpeg
     publisher: CNN Brasil
-    caption: 'Seized marijuana tablets piled with rifles at the Military Police exhibit. Photo via CNN Brasil'
-  - kind: photo
-    url: https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/Whats_App_Image_2026_04_15_at_11_23_04_f299ea3de7.jpeg
-    publisher: CNN Brasil
-    caption: 'Civil Police officers overseeing the incineration of the Maré load. Photo: PCRJ via CNN Brasil'
+    caption: "Seized marijuana tablets piled with rifles at the Military Police exhibit. Photo via CNN Brasil"
 ---
 
 At least 48 tons of marijuana worth around R$50 million wholesale were seized

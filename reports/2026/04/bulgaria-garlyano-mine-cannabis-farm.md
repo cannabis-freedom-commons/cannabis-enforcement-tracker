@@ -79,27 +79,13 @@ sources:
     date: '2026-04-29'
 media:
   - kind: photo
-    url: https://dariknews.bg/regioni/kiustendil/razkriha-oranzheriia-za-kanabis-v-galerijna-mina-kraj-kiustendil-snimki-2453439
-    archived: https://web.archive.org/web/20260429031931/https://dariknews.bg/regioni/kiustendil/razkriha-oranzheriia-za-kanabis-v-galerijna-mina-kraj-kiustendil-snimki-2453439
-    publisher: Darik News
-    caption: The cannabis greenhouse inside the former mine, photographed by GDBOP
-  - kind: photo
-    url: https://www.flagman.bg/article/380501
-    archived: https://web.archive.org/web/20260429172544/https://www.flagman.bg/article/380501
-    publisher: Flagman
-    caption: The former lead-zinc mine near Garlyano
-  - kind: photo
-    url: https://www.internazionale.it/ultime-notizie-reuters/2026/04/29/bulgaria-uncovers-cannabis-farm-inside-former-zinc-mine
-    archived: https://web.archive.org/web/20260429142029/https://www.internazionale.it/ultime-notizie-reuters/2026/04/29/bulgaria-uncovers-cannabis-farm-inside-former-zinc-mine
-    publisher: Internazionale (Reuters)
-    caption: A Bulgarian Interior Ministry handout photo of the underground farm
-  - kind: photo
     url: https://www.straitstimes.com/world/europe/bulgaria-uncovers-cannabis-farm-inside-former-zinc-mine
     media_url: https://cassette.sphdigital.com.sg/image/straitstimes/72bf360811956a4089d3b563fb0186ea440f64937ded46fa503248eac522d7a7?w=1200
     publisher: Reuters / Bulgarian Interior Ministry handout via The Straits Times
     caption: Underground cannabis cultivation in a former mine near Kyustendil, released 29 April 2026.
 open_questions:
   - >-
+  - Darik News, Flagman and other outlets published further mine-greenhouse photos of the same Garlyano find without separate direct media_url entries here.
     Reuters and the briefing cited in Bulgarian media describe the seized drugs as about 70 kg in total
     without separating how much was cannabis; one charge mentioned 67.34 kg with intent to distribute but that
     detail was not opened in full here.

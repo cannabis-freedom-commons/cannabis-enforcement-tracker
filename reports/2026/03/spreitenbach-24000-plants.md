@@ -42,6 +42,7 @@ open_questions:
   - The police counted about 24,000 plants and about a tonne of cannabis products across the grow and three searches in Zurich. They did not split the figures.
   - The three men were handed to the Zurich prosecutor. No charge or sentence is reported.
   - The police release does not say the plants were destroyed.
+  - Additional Zurich police and SRF photos of the same Spreitenbach warehouse seizure remain without separate direct media_url entries here.
 sources:
   - title: "Zürich / Spreitenbach AG: 1 Tonne Cannabis sichergestellt"
     url: https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2026/03/260321f_indoor_anlage.html
@@ -55,17 +56,10 @@ sources:
     language: de
 media:
   - kind: photo
-    url: https://www.zh.ch/content/dam/zhweb/bilder-dokumente/footer/news/2026/03/bm1_1.jpg.zhweb-transform/original/bm1_1.1774102830792.jpeg
+    url: https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2026/03/260321f_indoor_anlage.html
+    media_url: https://www.zh.ch/content/dam/zhweb/bilder-dokumente/footer/news/2026/03/bm1_1.jpg.zhweb-transform/original/bm1_1.1774102830792.jpeg
     publisher: Kantonspolizei Zürich
-    caption: Boxes, clear tubs of plant material and black rubbish bags stacked in a bare concrete room. The police caption calls it a seizure from an indoor grow.
-  - kind: photo
-    url: https://www.zh.ch/content/dam/zhweb/bilder-dokumente/footer/news/2026/03/waffe.jpg
-    publisher: Kantonspolizei Zürich
-    caption: Three pistols, magazines, ammunition, a knuckleduster and a black ballistic vest laid out on a table.
-  - kind: photo
-    url: https://www.srf.ch/static/cms/images/960w/8ad0c5.jpg
-    publisher: SRF
-    caption: The same room of boxes, tubs and black bags, as published by SRF from the Zurich police photograph.
+    caption: "Boxes, clear tubs of plant material and black rubbish bags stacked after the Spreitenbach seizure (Kantonspolizei Zürich)."
 ---
 
 On Thursday 19 March 2026, Zurich cantonal police arrested three men after a raid on an indoor cannabis grow in Spreitenbach, in the canton of Aargau. [@1] A tip that a property there held such a grow had sent investigators to the town. [@1]

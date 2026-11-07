@@ -41,9 +41,10 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://diariodelpueblo.com.ve/wp-content/uploads/2026/03/Captura-de-pantalla-2026-03-03-090858.png
+    url: https://diariodelpueblo.com.ve/2026/03/03/incautan-mas-de-62-kilos-de-marihuana-en-bolivar/
+    media_url: https://diariodelpueblo.com.ve/wp-content/uploads/2026/03/Captura-de-pantalla-2026-03-03-090858.png
     publisher: Diario del Pueblo
-    caption: 'CPNB officer laying out seized wrapped panels of marijuana on the riverbank. Photo: CPNB via Diario del Pueblo'
+    caption: "A CPNB officer laying out seized wrapped panels of marijuana on the riverbank. Photo: CPNB via Diario del Pueblo"
 ---
 
 Officers of the Anti-Drug Division and the Aquatic Spaces Police Division of

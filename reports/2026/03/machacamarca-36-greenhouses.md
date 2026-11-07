@@ -37,6 +37,7 @@ open_questions:
   - No one was reported arrested. On 12 March the prosecutor said the owners were still being identified. On 16 March he said the landowners had been identified.
   - Visión 360 quotes him saying people threw sticks of dynamite at the officers. The accounts do not say whether anyone was hurt.
   - He also said police intelligence had found more greenhouses farther away. Those were not part of this operation.
+  - Vision 360 published additional greenhouse photos of the same Machacamarca find without a separate direct media_url entry here.
 sources:
   - title: Investigan hallazgo de 12 toneladas de plantaciones de marihuana
     url: https://elmundo.com.bo/investigan-hallazgo-de-12-toneladas-de-plantaciones-de-marihuana/
@@ -52,14 +53,10 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://elmundo.com.bo/wp-content/uploads/2026/03/viveros-marihuana.webp
-    archived: https://web.archive.org/web/20260313050241/https://elmundo.com.bo/wp-content/uploads/2026/03/viveros-marihuana.webp
+    url: https://elmundo.com.bo/investigan-hallazgo-de-12-toneladas-de-plantaciones-de-marihuana/
+    media_url: https://elmundo.com.bo/wp-content/uploads/2026/03/viveros-marihuana.webp
     publisher: El Mundo
-    caption: Fire burning among cannabis plants inside a greenhouse at night.
-  - kind: photo
-    url: https://vision360-s3.cdn.net.ar/s3i233/2026/03/vision360/images/02/51/22/2512251_44d2616ead78d92230e699fde3a29cd0b0c1e089efc6e1ea96b709748b7b9596/lg.webp?_v=v3-74
-    publisher: Visión 360
-    caption: Rows of long greenhouses on open highland at dusk. Visión 360 credits the prosecution service.
+    caption: "Fire burning among cannabis plants inside a greenhouse at night (El Mundo)."
 ---
 
 On the night of 11 March 2026, continuing into the early morning of the 12th,

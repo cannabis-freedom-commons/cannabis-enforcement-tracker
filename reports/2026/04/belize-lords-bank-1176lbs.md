@@ -46,9 +46,10 @@ sources:
     language: en
 media:
   - kind: photo
-    url: https://amandala.com.bz/news/wp-content/uploads/2026/04/29-bales-of-Cannabis-1.6-million-street-value.jpeg
+    url: https://amandala.com.bz/news/half-ton-busted-weed-valued-at-1-6-mil/
+    media_url: https://amandala.com.bz/news/wp-content/uploads/2026/04/29-bales-of-Cannabis-1.6-million-street-value.jpeg
     publisher: Amandala
-    caption: 'The 29 seized bags of cannabis with the recovered pistol and scale. Photo: Police via Amandala'
+    caption: "The 29 seized bags of cannabis with a recovered pistol and scale. Photo: Police via Amandala"
 ---
 
 Police are looking for one person of interest in their investigation of what

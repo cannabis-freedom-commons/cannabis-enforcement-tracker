@@ -34,9 +34,10 @@ data_sources:
   details.setting: [1, 2]
 media:
   - kind: photo
-    url: https://peopledaily.digital/wp-content/uploads/2026/05/image-120-500x324.png
+    url: https://peopledaily.digital/news/detectives-recover-huge-cannabis-stash-in-langata-raid
+    media_url: https://peopledaily.digital/wp-content/uploads/2026/05/image-120-500x324.png
     publisher: People Daily
-    caption: 'Seized sacks and a weighing scale. Photo: DCI via People Daily'
+    caption: "Seized green sacks and a weighing scale. Photo: DCI via People Daily"
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [packaging, rizla, manhunt]

@@ -49,6 +49,7 @@ open_questions:
   - Two people were remanded in custody and two were ordered to stay at home. No trial outcome is reported.
   - The street value of about 1 million euros, and the wholesale figure of about 450,000 euros, are the investigator's estimates.
   - The police said two pistols were seized. Photographs published with the reports show a pistol and a revolver.
+  - RTV Slovenija published additional grow-room photos of the same Goričko seizure without separate direct media_url entries here.
 sources:
   - title: Na Goričkem zasegli za približno milijon evrov konoplje
     url: https://www.rtvslo.si/crna-kronika/na-gorickem-zasegli-za-priblizno-milijon-evrov-konoplje/781589
@@ -63,48 +64,10 @@ sources:
     language: sl
 media:
   - kind: photo
-    url: https://img.rtvcdn.si/_up/upload/2026/05/08/67041447.jpg
-    archived: https://web.archive.org/web/20260508172514/https://img.rtvcdn.si/_up/upload/2026/05/08/67041447.jpg
+    url: https://www.rtvslo.si/crna-kronika/na-gorickem-zasegli-za-priblizno-milijon-evrov-konoplje/781589
+    media_url: https://img.rtvcdn.si/_up/upload/2026/05/08/67041447.jpg
     publisher: RTV Slovenija
-    caption: A room of flowering cannabis plants under fans. RTV Slovenija credits the Murska Sobota police directorate.
-  - kind: photo
-    url: https://img.rtvcdn.si/_up/upload/2026/05/08/67041443.jpg
-    publisher: RTV Slovenija
-    caption: Five gas cylinders against a wall, one marked with evidence tag 3. The police said firefighters removed 15 cylinders.
-  - kind: photo
-    url: https://img.rtvcdn.si/_up/upload/2026/05/08/67041444.jpg
-    publisher: RTV Slovenija
-    caption: A processing room with a mesh tumbler, buckets of plant material and evidence tag 4.
-  - kind: photo
-    url: https://img.rtvcdn.si/_up/upload/2026/05/08/67041445.jpg
-    archived: https://web.archive.org/web/20260508142656/https://img.rtvcdn.si/_up/upload/2026/05/08/67041445.jpg
-    publisher: RTV Slovenija
-    caption: Two black bags of plant material in a chest freezer, one marked with evidence tag 17.
-  - kind: photo
-    url: https://img.rtvcdn.si/_up/upload/2026/05/08/67041446.jpg
-    archived: https://web.archive.org/web/20260508172514/https://img.rtvcdn.si/_up/upload/2026/05/08/67041446.jpg
-    publisher: RTV Slovenija
-    caption: Stacked buckets and small pots of plant material, with evidence tag 8 on one lid.
-  - kind: photo
-    url: https://n1info.si/media/original_images/2026/5/8/1778243001_7.jpg
-    publisher: N1
-    caption: Flowering cannabis plants in pots on a pallet, with evidence tag 3. N1 credits the Murska Sobota police directorate.
-  - kind: photo
-    url: https://n1info.si/media/original_images/2026/5/8/1778245457_PU_Murska_Sobota_5.jpg
-    publisher: N1
-    caption: A black pistol and two magazines on a measuring scale. N1 credits the Murska Sobota police directorate.
-  - kind: photo
-    url: https://n1info.si/media/original_images/2026/5/8/1778245480_PU_Murska_Sobota_3.jpg
-    publisher: N1
-    caption: A revolver with a wooden grip, and an inset of a serial number. N1 credits the Murska Sobota police directorate.
-  - kind: photo
-    url: https://n1info.si/media/original_images/2026/5/8/1778245502_PU_Murska_Sobota_2.jpg
-    publisher: N1
-    caption: A sealed bag of cartridges on a measuring scale. N1 credits the Murska Sobota police directorate.
-  - kind: photo
-    url: https://n1info.si/media/original_images/2026/5/8/1778245524_PU_Mursk_Sobota_4.jpg
-    publisher: N1
-    caption: Rows of loose cartridges on a dark background. N1 credits the Murska Sobota police directorate.
+    caption: "A room of flowering cannabis plants under fans (RTV Slovenija / Murska Sobota police)."
 ---
 
 On the evening of 4 May 2026, criminal police entered a house in the Murska Sobota administrative unit on a court order and caught seven people packing cannabis. [@1] They held all seven. [@1] Searches continued the next day. [@1] Before they went in, firefighters removed 15 gas cylinders and an electrician checked the wiring. [@1]

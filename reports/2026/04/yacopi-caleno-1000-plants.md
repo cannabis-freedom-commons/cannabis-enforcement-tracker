@@ -55,9 +55,10 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://caracol.com.co/resizer/v2/G25I6KJ2GBG6XNHLF6LDCQCE2M.PNG?auth=b5db08ba3dd2ab58436535d6017b5f5a72116ce2c410d313070f5c51135c456e&quality=70&width=1200&height=675&smart=true
-    publisher: Caracol Radio
-    caption: A dense planting of leafy crops on a forested slope, the photograph Caracol published with the Yacopí operation.
+    url: https://caracol.com.co/2026/04/07/operativo-permitio-erradicar-2-hectareas-de-droga-en-yacopi-cundinamarca/
+    media_url: https://caracol.com.co/resizer/v2/G25I6KJ2GBG6XNHLF6LDCQCE2M.PNG?auth=b5db08ba3dd2ab58436535d6017b5f5a72116ce2c410d313070f5c51135c456e&quality=70&width=1200&height=675&smart=true
+    publisher: Caracol
+    caption: "A dense cannabis planting on a forested slope during the Yacopí operation (Caracol)."
 ---
 
 Troops of the 13th Brigade of the Colombian army eradicated illicit plantings
