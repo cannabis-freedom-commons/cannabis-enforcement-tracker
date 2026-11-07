@@ -66,12 +66,20 @@ sources:
     publisher: Jalgaon Live News
     date: 2026-11-06
     language: mr
+  - title: पिकांच्या आड गांजाची लागवड; जामनेरमध्ये ३.३५ लाखांचा गांजा जप्त
+    url: https://marathi.hindusthansamachar.in/Encyc/2026/11/6/PoliceChpastoryforjalgaon.php
+    publisher: Hindusthan Samachar Marathi
+    date: 2026-11-06
+    language: mr
 open_questions:
   - Only two Marathi outlets were found, and both reproduce the same police account of the crop and valuation.
   - Neither report gives the area of the cannabis crop or a count of plants; the only quantity is the weight of the uprooted plants.
   - 'No arrest was reported: the accused is named as a suspect who fled, so no arrested figure is recorded.'
   - Neither report says what happened next to the seized plants or whether the accused was later detained.
   - The reports do not say whether the crop was hidden among other crops; Jalgaon Live News says it was grown behind crops.
+  - No figure for the number of plants uprooted or the area of the cannabis plot was published in this account either.
+  - The report gives no separate date for the raid; its dateline is 6 November 2026 and the raid date of 5 November comes from other outlets.
+  - The photograph on the Hindusthan Samachar page is an uncaptioned Crime category image, not established to depict this raid, so no media entry is made from it.
 ---
 
 Jamner police raided a field in Maladbadi shivar, in Jalgaon district's Jamner
@@ -80,17 +88,16 @@ cannabis was being grown there. [@1] Police said the field held fresh, green
 ganja plants 7 to 8 feet tall carrying leaves, flowers and buds. [@1]
 
 Officers uprooted the plants and seized them; the material weighed 13 kg 430 g.
-[@1] Police valued the seized plants at ₹3,35,750 using a market rate of ₹25,000
-per kg. [@1] The suspect, farmer Anil Dagdu Patil of Maladbadi, fled the field
-when he saw the police party arriving. [@1]
+[@1,3] Police valued the seized plants at ₹3,35,750 using a market rate of ₹25,000
+per kg. [@1,3] The suspect, farmer Anil Dagdu Patil of Maladbadi, fled the field
+when he saw the police party arriving. [@1,3]
 
 He is accused of growing the cannabis illegally on his own land. [@2] Jamner
 police registered crime No. 552/2026 against him under sections 8(b) and 20(a)
 of the NDPS Act, the Narcotic Drugs and Psychotropic Substances Act, on the
-complaint of constable Rajesh Vilas Lahase. [@1] Inspector Nivrutti Borhade and
+complaint of constable Rajesh Vilas Lahase. [@1,3] Inspector Nivrutti Borhade and
 sub-inspector Krishna Solunke visited and inspected the site, and Solunke is
 continuing the investigation under Borhade's guidance. [@1] The cannabis was
-intercropped among crops in the field, Jalgaon Live News reported. [@2] Jalgaon
+intercropped among crops in the field, Jalgaon Live News reported. [@2,3] Jalgaon
 Live reported that police were searching for the suspect who fled, and that he
 had not been caught in the raid. [@2]
-
