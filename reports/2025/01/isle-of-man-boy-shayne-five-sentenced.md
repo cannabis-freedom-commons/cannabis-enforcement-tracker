@@ -71,6 +71,10 @@ sources:
     url: https://www.manxradio.com/news/isle-of-man-news/police-remain-fully-committed-to-disrupting-organised-crime-groups/
     publisher: Manx Radio
     date: 2025-01-26
+  - title: Four jailed for importing cannabis to Isle of Man on fishing boat
+    url: https://www.bbc.com/news/articles/c4gx6j910n0o
+    publisher: BBC News
+    date: 2025-01-23
 open_questions:
   - The five men were sentenced on 22 January 2025, which Isle of Man Today gives as "Wednesday"; the BBC report is dated 23 January 2025 and is the submitted page.
   - Isle of Man Today's summary of the hearing gives the shipment as 15kg and later as 15.5kg; the report uses the 15.5kg figure that police and the court gave for the holdall.
@@ -86,20 +90,20 @@ Five Isle of Man men were sentenced at the Court of General Gaol Delivery in
 Douglas on Wednesday 22 January 2025 after a plot to bring 15.5 kg of cannabis
 and 98 THC-laced vapes to the island on the fishing boat Boy Shayne. [@2] Jamie
 Smith, 37, described in court as the senior player and main organiser, was
-jailed for five years. [@2] Ashley Harrison, 36, was jailed for three years and
+jailed for five years. [@2,4] Ashley Harrison, 36, was jailed for three years and
 11 months, John Skillen, 44, for three years and nine months and Jordan Corkill
 for three years and six months. [@2] Jordan Halligan-Bunce, 21, who grounded the
 rigid inflatable boat after realising what he was carrying, was given a 21-month
 sentence suspended for two years. [@1]
 
 At about 21:45 GMT on 17 November 2023 police watched Skillen collect a holdall
-from Corkill's crew as the boat moored at Battery Pier in Douglas. [@2] The
+from Corkill's crew as the boat moored at Battery Pier in Douglas. [@2,4] The
 holdall held about 15.5 kg of cannabis that police valued at a £310,000 street
 value, along with 98 cannabis vapes worth a further £3,000. [@2] Smith had been
 in contact with Skillen, the boat's owner, for five weeks and offered him
 £2,000, and Skillen then asked his captain Corkill to skipper the trip. [@2] The
 plan was to land the drugs at Laxey Bay on a rigid inflatable boat owned by
-Harrison, but Halligan-Bunce ran it aground in Castletown. [@2]
+Harrison, but Halligan-Bunce ran it aground in Castletown. [@2,4]
 
 The Isle of Man Constabulary said the men were targeted as part of Operation
 Vineyard, which also saw David Alsop, Justin Fayle and Michael Ball jailed. [@3]
@@ -107,5 +111,4 @@ Detective Inspector Jamie Tomlinson of the Serious and Organised Crime Unit
 called it a very well-planned criminal enterprise using vessels at sea. [@3]
 Deemster Bernard Richmond told Harrison his role was a very important cog on the
 wheel and told Skillen and Corkill that once the operation began it became clear
-it was illegal. [@1]
-
+it was illegal. [@1,4]
