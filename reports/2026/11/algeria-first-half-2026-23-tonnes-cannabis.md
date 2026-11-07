@@ -49,6 +49,11 @@ sources:
     publisher: التلفزيون الجزائري
     date: 2026-11-07
     language: ar
+  - title: اجتثاث عصابات المخدرات وتجفيف مصـادر تمويلهـا..عــزم ثابــت
+    url: https://www.ech-chaab.com/new/2026/11/07/%D8%A7%D8%AC%D8%AA%D8%AB%D8%A7%D8%AB-%D8%B9%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D8%AC%D9%81%D9%8A%D9%81-%D9%85%D8%B5%D9%80%D8%A7%D8%AF%D8%B1/
+    publisher: يومية الشعب الجزائرية
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The total covers January to June 2026, but the accounts give no date for any individual seizure behind it; 7 November 2026 is the day the figures were announced and the publication date.
   - The accounts call the material cannabis or treated kif but give no split between resin and herbal cannabis, and no figure in kilograms for treated kif beyond the 23-tonne cannabis total.
@@ -56,6 +61,7 @@ open_questions:
   - The pregabalin, cocaine and ecstasy quantities are other substances and are not included in the cannabis figure.
   - Only the Algerian accounts were found; no ONLCDT statement page giving the tally could be opened.
   - The page photo carries only a file-name caption, so it is not listed as media.
+  - The article gives no date for the conference beyond saying the minister spoke "yesterday", and it publishes no seizure, arrest or sentence figures of its own; its only numbers are for strategy activities completed.
 ---
 
 Algeria's security services seized more than 23 tonnes of cannabis during the
@@ -74,7 +80,7 @@ approach and widening prevention, especially against the risks of driving under
 the influence of drugs and psychotropic substances. [@1] Algeria's Minister of
 Justice, accompanied by the Gendarmerie commander, opened the conference, which
 the ONLCDT organised with the Gendarmerie command in light of the traffic law
-and the national anti-drug strategy for 2025-2029. [@3]
+and the national anti-drug strategy for 2025-2029. [@3,4]
 
 Kour said the seized pregabalin exceeded the total seized in the whole of the
 previous year, and the 1,000 kg of cocaine amounted to more than 75 percent of
@@ -82,3 +88,4 @@ all cocaine recorded last year. [@2] The figures carry no breakdown by wilaya,
 seizure or security service, and no suspects, charges or investigations are
 attached to them. [@2]
 
+Tarek Kour said the interim evaluation of the strategy's first year showed 215 of 278 planned activities completed or under way, 77.3 percent. [@4] The minister said the strategy aims not only at the results of drug use but at its causes, dismantling its routes, networks and sources of funding. [@4]
