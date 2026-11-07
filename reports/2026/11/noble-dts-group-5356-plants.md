@@ -55,6 +55,10 @@ sources:
     url: https://hoodline.com/2026/11/noble-marijuana-bust-nets-thousands-of-plants-guns-and-one-arrest/
     publisher: Hoodline
     date: 2026-11-07
+  - title: Oklahoma Bureau of Narcotics agents seize 5,356 marijuana plants in Noble raid - News9.com
+    url: https://www.news9.com/oklahoma-city-news/oklahoma-obn-noble-marijuana-raid-seizure
+    publisher: News9.com
+    date: 2026-11-07
 open_questions:
   - The article does not say exactly what day in November 2026 was 'Wednesday'; the raid date is taken as Wednesday 4 November 2026.
   - The name, age, nationality and charges of the arrested person were not published, and no court outcome was reported.
@@ -63,22 +67,26 @@ open_questions:
   - Only one openable source was found for this event; the OBN and Cleveland County Sheriff's Office Facebook posts describe the same raid but could not be opened.
   - The page photo is an OBN image published with the article and is not individually captioned beyond the agency credit.
   - KOCO, as relayed in this account, reported 5,300 marijuana plants and over 142 pounds of processed cannabis at the same site, against the 5,356-plant and 142.6-pound figures used in the report; the discrepancy is unresolved.
+  - The article attributes its seizure figures to an Oklahoma Bureau of Narcotics Facebook post that was not opened; the figures match the existing report exactly.
+  - The page carries a photo captioned with this seizure, but its file path indicates a 2021 upload, so it was left out as a likely file image rather than a photo of this raid.
 ---
 
 One person was arrested when Oklahoma narcotics agents seized marijuana at a
-grow business in Noble, in Cleveland County, Oklahoma. [@1,2]
+grow business in Noble, in Cleveland County, Oklahoma. [@1,2,3]
 
 On Wednesday, 4 November 2026, Marijuana Enforcement Teams of the Oklahoma
 Bureau of Narcotics, the state drug agency known as OBN, executed a search
 warrant at DTS Group INC, a company in Noble. [@1] Officials said the raid was
 part of an investigation into black market marijuana cultivation and
-distribution. [@1]
+distribution. [@1,3]
 
 Agents seized 5,356 marijuana plants and 142.6 pounds (about 64.7 kg) of
-processed marijuana. [@1,2] They also seized two firearms. [@1,2]
+processed marijuana. [@1,2,3] They also seized two firearms. [@1,2,3]
 
 OBN said its Marijuana Enforcement Teams have seized more than 3 million illegal
 marijuana plants and over 300,000 pounds of processed marijuana, and made more
-than 450 arrests, since 2021. [@1,2]
+than 450 arrests, since 2021. [@1,2,3]
 
 The searched site was DTS Group INC near 180th Avenue and Blueberry Hill Way near Noble in Cleveland County. [@2] OBN was assisted by Immigration and Customs Enforcement and Homeland Security, and Cleveland County provided land and a site at county facilities for destroying the seized marijuana. [@2] OBN has not released the name of the person arrested in the Noble raid. [@2]
+
+The Cleveland County Sheriff’s Office and the Cleveland County District 2 Commissioner’s Office assisted with the operation, according to OBN. [@3] OBN said additional arrests are possible as the investigation continues. [@3] OBN established its Marijuana Enforcement Teams in 2021 to investigate domestic and international criminal organizations suspected of involvement in illegal marijuana trafficking, money laundering and fraud connected to Oklahoma’s medical marijuana program. [@3] According to OBN, the number of marijuana grow operations with active agency registrations has declined from a peak of approximately 8,400 in 2022 to 1,275. [@3]
