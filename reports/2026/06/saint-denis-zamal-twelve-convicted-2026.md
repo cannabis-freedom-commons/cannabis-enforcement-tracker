@@ -66,6 +66,11 @@ sources:
     publisher: Le Quotidien
     date: 2026-06-12
     language: fr
+  - title: 'ENQUÊTE. Cocaïne à La Réunion : une île aussi productrice et exportatrice de cannabis vers Maurice'
+    url: https://www.ouest-france.fr/region-la-reunion/enquete-cocaine-a-la-reunion-une-ile-aussi-productrice-et-exportatrice-de-cannabis-vers-maurice-1e1a4746-58e5-11f0-8b05-6b82fd3c3480
+    publisher: Ouest-France
+    date: 2025-08-03
+    language: fr
 open_questions:
   - The four-year term recorded here was raised on appeal on 14 October 2026 to seven years for de Boisvilliers and Laurent Mariaye and five years for Gaëtan Petitdemange; Guito Louise's four years were confirmed.
   - The 147 kg seized aboard l'Abyss is the only weighed quantity given; the total exported over the trafficking period is described only as several hundred kilos.
@@ -73,6 +78,11 @@ open_questions:
   - The court is recorded at Saint-Denis city, not a precise courthouse address.
   - The fines are the first-instance fines; the appeal coverage does not say whether they were changed.
   - Zinfos974 illustrated the hearing with an unrelated courthouse scene, so no event photo is listed.
+  - The Ouest-France page is a premium article truncated after its introduction; its later text could not be read, so any further figures it gives are not recorded.
+  - One account of an appeal hearing refers to the aborted transfer attempt on 4 April while Ouest-France and Zinfos974 place the arrest on 3 April; the 3 April date is used.
+  - 'Outlets differ on De Boisvilliers''s appeal sentence: Le Quotidien gives seven years, LINFO.re six years.'
+  - The feature also covers cocaine and synthetic drug seizures from mainland France; those are separate events left out here.
+  - 'Left out, as its quotation was not found in Zinfos974: Gendarmes launched the operation at the Sainte-Marie port shortly after 17:00, and the search of the boat found fifteen bags holding 147 kg of cannabis in total.'
 ---
 
 The Saint-Denis criminal court found all twelve defendants guilty of trafficking
@@ -99,10 +109,11 @@ De Boisvilliers admitted his involvement, said he had acted out of greed and
 carelessness, apologised to his family and former colleagues, and acknowledged
 using his fishing boat to transfer cannabis to Mauritian vessels off Réunion.
 [@1] Investigators seized 147 kg of zamal, the Réunion Creole word for cannabis,
-aboard l'Abyss when the former chief of staff was arrested. [@1] The network,
+aboard l'Abyss when the former chief of staff was arrested. [@1,3] The network,
 dismantled after nearly two years of investigation, was suspected of exporting
 several hundred kilos of Réunion cannabis to Mauritius, where it resells for
 several times its Réunion price. [@1] Le Quotidien reported that Laurent Mariaye
 was a repeat offender for identical offences in 2017, in the case of the
 Mauritian trafficker known as Franklin. [@2]
 
+Mauritius, described as Réunion's sister island, lies 230 km to the east. [@3]
