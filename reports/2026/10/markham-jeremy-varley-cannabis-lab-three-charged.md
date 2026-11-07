@@ -107,6 +107,10 @@ sources:
     publisher: 万维读者网 (Creaders)
     date: 2026-11-06
     language: zh
+  - title: Police dismantle clandestine drug lab in Markham after welfare check
+    url: https://www.villagereport.ca/village-picks/police-dismantle-clandestine-drug-lab-in-markham-after-welfare-check-12990551
+    publisher: Village Report
+    date: 2026-11-06
 open_questions:
   - The article gives no time of day for the 23 October visit; that is the date police state for the welfare call, while the charges and volumes were announced in the 6 November release.
   - Some of the seized edibles could be psilocybin edibles, but police list only psilocybin powder separately, so all 12,962 packages and 26 kilograms of loose edibles are counted as cannabis.
@@ -125,10 +129,13 @@ open_questions:
   - StratCann gives no location for the Markham residence beyond the city, and no arrest date separate from the 23 October welfare call.
   - UL Lawyers gives the drug total as nearly $640,000, in line with the police estimate of approximately C$639,000; the report uses the police figure.
   - The page's own note says its accompanying image is an AI-generated illustration rather than a photograph of the event, so no media entry is added.
+  - The page is a reprint of the York Regional Police release with no independent reporting, so it does not add facts the report lacks.
+  - The page's only image is a composite York Regional Police supplied graphic of production and distribution images, which could not be confirmed as distinct from the police handout photos already linked in the report, so no new media entry is added.
+  - The text gives a weight ("26 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 
 Two men and one woman from Markham were arrested after York Regional Police
-dismantled a clandestine drug lab at a home in the city. [@1,5] Officers went to a
+dismantled a clandestine drug lab at a home in the city. [@1,5,8] Officers went to a
 residence in the area of Jeremy Drive and Fred Varley Drive on 23 October 2026
 for a welfare check, and found evidence consistent with the production and
 distribution of controlled substances in a lab setting. [@2,6,7] The lab was
@@ -137,7 +144,7 @@ Emergency Services and York Region Paramedic Services. [@2,7]
 
 Investigators seized 12,962 packages of cannabis edibles, 209 grams of THC
 vaping cartridges, 26 kilograms of loose cannabis edibles and eight kilograms of
-dried cannabis. [@2,5,6,7] They also found 18 kilograms of psilocybin powder, a
+dried cannabis. [@2,5,6,7,8] They also found 18 kilograms of psilocybin powder, a
 psychedelic mushroom product rather than cannabis, so its weight is not included
 in the cannabis total. [@2] Ammunition, a conducted energy weapon and about
 C$100,000 in cash were seized at the residence. [@2]
