@@ -72,6 +72,11 @@ sources:
     url: https://www.stuff.co.nz/nz-news/361056187/cocaine-mdma-cash-and-3d-printed-gun-seized-canterbury-drug-operation
     publisher: Stuff
     date: 2026-11-07
+  - title: 新西兰破获大型贩毒案 查获大量毒品及逾50万纽币现金
+    url: https://news.skykiwi.com/na/zh/2026-11-07/554709.shtml
+    publisher: 天维网
+    date: 2026-11-07
+    language: zh
 open_questions:
   - The sources say the arrests were made "this week" without a precise day; the incident date is approximate.
   - The sources do not say where in Canterbury the search warrants were carried out, how many properties were searched, or how many charges each man faces.
@@ -84,19 +89,20 @@ open_questions:
   - Stuff gives no precise day for the search warrants beyond "this week".
   - Stuff does not say where in Canterbury the warrants were carried out, how many properties were searched, or how many charges each man faces, and reports no court outcome beyond the scheduled Christchurch District Court appearance.
   - The cannabis is reported only as a 3 kilogram weight, with no street value and no detail on its form or where it was found.
+  - The article gives no exact day for the arrests or searches beyond "this week", so the police release date of 7 November 2026 stands in for the incident date.
 ---
 
 Police and Customs investigators in Canterbury arrested four men aged between 27
-and 35 this week and remanded them in custody. [@2,5] The four were due to appear
+and 35 this week and remanded them in custody. [@2,5,7] The four were due to appear
 in the Christchurch District Court facing charges relating to the importation,
-possession for supply and supply of controlled drugs. [@1]
+possession for supply and supply of controlled drugs. [@1,7]
 
 The arrests followed a joint investigation by the Canterbury District Organised
 Crime Group and Customs, which intercepted multiple drug consignments at the New
 Zealand border before search warrants across Canterbury. [@2,5] Investigators
 seized three kilograms of cannabis along with 10 kilograms of cocaine, 24.5
 kilograms of MDMA, 10.6 kilograms of ketamine and 70 kilograms of
-pseudoephedrine. [@1,6]
+pseudoephedrine. [@1,6,7]
 
 Police named the operation Operation Magpie and said it targeted the
 importation, supply and distribution of illicit drugs in Canterbury and
