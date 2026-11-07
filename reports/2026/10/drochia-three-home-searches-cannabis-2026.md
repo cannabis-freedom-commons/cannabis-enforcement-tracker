@@ -40,6 +40,11 @@ sources:
     publisher: СП (Семидневная Панорама)
     date: 2026-10-26
     language: ru
+  - title: В Дрокии во время обысков изъяли наркотики и 200 литров контрафактного алкоголя
+    url: https://moldova1.md/p/88601/%D0%B2-%D0%B4%D1%80%D0%BE%D0%BA%D0%B8%D0%B8-%D0%B2%D0%BE-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F-%D0%BE%D0%B1%D1%8B%D1%81%D0%BA%D0%BE%D0%B2-%D0%B8%D0%B7%D1%8A%D1%8F%D0%BB%D0%B8-%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8-%D0%B8-200-%D0%BB%D0%B8%D1%82%D1%80%D0%BE%D0%B2-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D1%84%D0%B0%D0%BA%D1%82%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B0%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8F
+    publisher: Moldova 1
+    date: 2026-10-26
+    language: ru
 open_questions:
   - No weight or quantity was published for any of the drugs, so no cannabis kilograms or plant count can be recorded.
   - Neither report says anyone was detained or charged; the three residents are described only as suspects.
@@ -47,19 +52,21 @@ open_questions:
   - The reports do not say how much of the seizure was marijuana and how much was hashish.
   - The 200 litres of counterfeit alcohol is a separate, non-cannabis part of the same operation and is not included in any cannabis figure.
   - The page images are captioned only as a video capture and a police photo, which does not establish what they show, so no media entry is included.
+  - The crime investigation department is not further identified in the reports; it is not stated whether it is a Drochia district unit or a national one.
 ---
 
 Police in Drochia, in northern Moldova, searched the homes of three residents as
 part of operations against illegal drug trafficking and the illegal sale of
-alcohol. [@1] The three suspects are between 46 and 55 years old. [@1] Moldova's
+alcohol. [@1,3] The three suspects are between 46 and 55 years old. [@1,3] Moldova's
 General Police Inspectorate reported the searches on 26 October 2026. [@2]
 
-Officers found marijuana, hashish, mephedrone and cocaine in the houses. [@1]
+Officers found marijuana, hashish, mephedrone and cocaine in the houses. [@1,3]
 They also found about 200 litres of counterfeit alcohol, a separate matter from
 the drugs. [@1] All the substances found were sent for expert examination to
-establish their exact composition. [@1] The examination was also meant to
+establish their exact composition. [@1,3] The examination was also meant to
 establish the exact type and quantity of the drugs. [@2]
 
 Police said the investigation continued in order to establish all the
-circumstances of the case and identify everyone involved. [@1]
+circumstances of the case and identify everyone involved. [@1,3]
 
+The searches were carried out by officers of the crime investigation department, police said. [@3] Moldova's General Police Inspectorate, the national police body, reported the searches on 26 October 2026. [@2]
