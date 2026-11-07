@@ -48,6 +48,11 @@ media:
     media_url: https://www.mypunepulse.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-8.44.53-PM-e1793978683414-1024x1021.jpeg
     publisher: PUNE PULSE
     caption: 'Officers hold open a grey trolley bag showing the false cavity packed with black plastic-wrapped parcels, the concealment described in the case. Photo: PUNE PULSE (image circulated on WhatsApp, so its original photographer is not stated)'
+  - kind: photo
+    url: https://marathi.abplive.com/news/pune/pune-ganja-news-major-operation-at-pune-airport-ganja-cannabis-worth-rs-1-14-crore-seized-in-pune-1444778/amp
+    media_url: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/07/b628a5be9cc1de4598974b3f52974a951794037459237339_original.JPG?impolicy=abp_cdn&imwidth=470
+    publisher: ABP Majha
+    caption: Photo published with the ABP Majha report on the Pune airport seizure, captioned with the headline about ganja hidden in a special cavity in a trolley bag. Its original photographer and first source are not stated.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: eaa2460a92e227cc3624a3c568e663b9
@@ -89,6 +94,11 @@ sources:
     url: https://english.lokshahi.com/maharashtra/major-action-by-customs-at-pune-airport-ganja-cannabis-worth-rs-114-crore-seized-12791481
     publisher: Lokshahi English News
     date: 2026-11-07
+  - title: ट्रॉली बॅगच्या खास कप्प्यात गांजा लपवला, तरीही अधिकाऱ्यांनी शोधून काढला, पुणे विमानतळावर मोठी कारवाई, तब्बल 1 कोटी 14 लाख रुपयांचा गांजा जप्त
+    url: https://marathi.abplive.com/news/pune/pune-ganja-news-major-operation-at-pune-airport-ganja-cannabis-worth-rs-1-14-crore-seized-in-pune-1444778/amp
+    publisher: ABP Majha
+    date: 2026-11-07
+    language: mr
 open_questions:
   - The woman's name, age and precise home address were not published; only that she is a Mumbai resident.
   - Rs 1.14 crore is Customs' estimated illicit-market value, not an independently confirmed price.
@@ -117,11 +127,13 @@ open_questions:
   - The article gives no separate incident date; 7 November 2026 is its publication date, while the existing report dates the interception to the evening of 5 November 2026.
   - The article does not give the flight number, the woman's residence, the false-cavity concealment detail, the testing method or any court outcome.
   - The page image carries only the headline as its caption and no credit, so it is not treated as a confirmed picture of this seizure and no media entry is added.
+  - ABP Majha gives no name, age, home city, charge section beyond the NDPS Act, or court or remand outcome for the woman.
+  - The page photograph's original photographer and first publisher are not stated; ABP Majha may have republished another outlet's or an agency's image, so it is listed once here without a credit.
 ---
 
 Officers of the Air Intelligence Unit and Airport Batch of Pune Customs
 intercepted an Indian woman arriving from Bangkok at Pune International Airport
-on the evening of 5 November 2026. [@1,3,4,5,6,7,8] She had flown in on Air India Express
+on the evening of 5 November 2026. [@1,3,4,5,6,7,8,9] She had flown in on Air India Express
 flight IX-291 and was stopped on passenger profiling and suspicious scanning of
 her check-in baggage. [@1,3,8] The woman, a Mumbai resident, was arrested and
 further investigation was under way. [@1,2,8]
@@ -132,7 +144,7 @@ slab-shaped packets wrapped in three layers of vacuum-sealed black plastic. [@1,
 A Narcotic Drug Field Testing Kit confirmed the substance was marijuana, also
 known as ganja or hydroponic weed. [@1,5] Customs seized the consignment, weighing
 3.255 kilograms, under the NDPS Act, 1985, and estimated its illicit-market
-value at Rs 1.14 crore. [@1,4,7,8]
+value at Rs 1.14 crore. [@1,4,7,8,9]
 
 An official said it appeared she had been handed the bag containing the
 contraband by smugglers, and sources said she had travelled to Bangkok four days
@@ -140,6 +152,6 @@ before her arrival in Pune. [@2] Customs said the repeated seizures indicated a
 possible rise in demand for hydroponic weed in Pune and nearby cities, including
 ahead of Diwali. [@2]
 
-The packets held an orange-green dried powder with a strong pungent odour, and a testing machine identified it as high-grade hydroponic cannabis. [@3] Pune Customs is investigating who else took part in the smuggling and whom the cannabis was being brought for. [@3,4,5]
+The packets held an orange-green dried powder with a strong pungent odour, and a testing machine identified it as high-grade hydroponic cannabis. [@3] Pune Customs is investigating who else took part in the smuggling and whom the cannabis was being brought for. [@3,4,5,9]
 
 Pune Customs said it was investigating whom the ganja was being brought for, on whose instructions it was smuggled and whether anyone else was part of the network behind it. [@7]
