@@ -105,6 +105,11 @@ sources:
     publisher: दैनिक भास्कर
     date: 2026-11-07
     language: hi
+  - title: बिहार में 10 किलो नेपाली चरस जब्त, अंतरराष्ट्रीय बाजार में कीमत 10 करोड़, एक तस्कर गिरफ्तार
+    url: https://lalluram.com/muzaffarpur-dri-stf-seize-10-kg-nepali-hashish-worth-10-crore-smuggler-arrested/
+    publisher: Lalluram
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The incident date of 5 November 2026 is inferred because the reports published on 6 November 2026 say the Dumaria Ghat arrest happened on Thursday.
   - The same articles report a separate Purnia operation in which a woman was held with 61 grams of smack and a motorcycle; smack is not cannabis, so that seizure, vehicle and arrest are excluded from this cannabis report.
@@ -134,6 +139,9 @@ open_questions:
   - Dainik Bhaskar says the load was to travel by bus through Basti in Uttar Pradesh to Patan, while another account records multiple trains and a deliberate delay; both describe the same Nepal-to-Gujarat route.
   - The page gives no separate date for the interception; 5 November 2026 is the date carried by the existing report, while this page was published on 7 November 2026.
   - The page carries no photo of the seizure; its only image is a generic animated graphic used across the site, so no media entry is added.
+  - The page attributes the joint team to the DRI's Muzaffarpur unit and the STF and does not separately name the DRI's Patna unit recorded in the existing report.
+  - The page gives only its 7 November 2026 publication date and no separate date for the interception; the existing report dates it to 5 November 2026.
+  - 'The page carries no photo of the seizure: its only image is an uncaptioned headline thumbnail not established to show this consignment or the arrested man.'
 ---
 
 A joint team of the Bihar Police Special Task Force and the Directorate of
@@ -161,4 +169,6 @@ The STF said it is also verifying the arrested man's criminal history. [@3]
 
 The joint team that stopped the man in East Champaran and seized the 10 kg of charas was drawn from the Special Task Force and the DRI's Patna and Muzaffarpur units. [@11]
 
-The charas was said to have been brought from Nepal and was to be carried by bus to Gujarat, with the trafficker travelling through Basti in Uttar Pradesh towards Patan district. [@12] The arrested trafficker was identified as Rajesh Kumar Sahni, a resident of Bairiya in the Kesaraiya police station area of East Champaran. [@12]
+The charas was said to have been brought from Nepal and was to be carried by bus to Gujarat, with the trafficker travelling through Basti in Uttar Pradesh towards Patan district. [@12,13] The arrested trafficker was identified as Rajesh Kumar Sahni, a resident of Bairiya in the Kesaraiya police station area of East Champaran. [@12,13]
+
+Officers acted on an intelligence input and raided the area jointly, detaining the trafficker at Dumaria Ghat. [@13]
