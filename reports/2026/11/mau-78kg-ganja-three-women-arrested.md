@@ -70,6 +70,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-06
     language: hi
+  - title: 'Mau News: तीन अंतरप्रान्तीय महिला गांजा तस्कर चढ़ी पुलिस के हत्थे, Mau Hindi News - Hindustan'
+    url: https://www.livehindustan.com/uttar-pradesh/mau/story-mau-police-arrest-three-women-with-80-kg-of-cannabis-worth-15-lakh-201793986453527.html
+    publisher: हिंदुस्तान (Hindustan)
+    date: 2026-11-06
+    language: hi
 open_questions:
   - The Amar Ujala text does not give the number of trolley bags; Dainik Bhaskar reports four bags holding 28 packets, which is used for that detail.
   - Amar Ujala reports the weight as 78 kg, while Dainik Bhaskar describes it as about 78 kg; the reported figure of 78 kg is recorded.
@@ -79,13 +84,15 @@ open_questions:
   - The submitted page photo is captioned only as police giving information about the accused, so it is not established to show the seized bags themselves.
   - The video page does not restate the recovery location or the number of trolley bags and packets already recorded from other outlets.
   - No court outcome beyond judicial custody is reported.
+  - Hindustan reports the seized ganja as 80 kg valued at 15 lakh rupees, while the existing report records 78 kg from Amar Ujala and Dainik Bhaskar.
+  - Hindustan describes the three women as listed history-sheeters and says the city station officer was running a checking drive on the superintendent's orders; it gives no court stage beyond ongoing questioning, so judicial custody is not confirmed here.
 ---
 
 Mau Kotwali Nagar police and the SWAT team arrested three women cannabis
 smugglers near the selfie point by the railway overbridge at about 10:30 am on
-Friday. [@1,3] The women, residents of the AIIMS and Gayatri Nagar police areas of
+Friday. [@1,3,4] The women, residents of the AIIMS and Gayatri Nagar police areas of
 Gorakhpur district, were standing with trolley bags waiting for the bus to
-Gorakhpur. [@1] Additional Superintendent of Police Anoop Kumar said a tip-off
+Gorakhpur. [@1,4] Additional Superintendent of Police Anoop Kumar said a tip-off
 had warned that three women were waiting with a ganja consignment for the
 Gorakhpur bus. [@1] The women tried to move away when they saw the police, but
 officers with a woman sub-inspector and women constables caught them. [@1]
@@ -107,3 +114,5 @@ gathering information on other people linked to the smuggling network and on the
 source of the ganja supply. [@1]
 
 Amar Ujala's video report named all three arrested women and stated that all three lived in Gorakhpur district. [@3]
+
+Suman, 45, from Kuraghat under the AIIMS police station of Gorakhpur district, had been jailed before in a Gorakhpur ganja smuggling case and had also faced action under the Gangsters Act. [@4] The other two women were identified as Kusum, 25, of Gayatri Nagar, and Reena, 28, of Kuraghat, both under the AIIMS police station of Gorakhpur district. [@4] Police said the three women had been involved in ganja smuggling for a long time and that interrogating them had given officers important leads. [@4]
