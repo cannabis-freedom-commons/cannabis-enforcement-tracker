@@ -148,6 +148,11 @@ sources:
     publisher: Vietnam.vn (Báo Tiền Phong)
     date: 2026-11-06
     language: de
+  - title: Phát hiện hơn 25kg cần sa được hút chân không, vận chuyển qua sân bay Nội Bài
+    url: https://phapluatplus.baophapluat.vn/phat-hien-hon-25kg-can-sa-duoc-hut-chan-khong-van-chuyen-qua-san-bay-noi-bai.html
+    publisher: Pháp Luật Plus
+    date: 2026-11-07
+    language: vi
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -206,6 +211,11 @@ open_questions:
   - The page's only photo shows the heated-tobacco seizure, not the cannabis packages, so no media entry is added from it.
   - This German page describes the packages as yellow and white plastic, while the existing Vietnamese accounts describe them simply as nylon; neither says whether that means two colours or one package of each.
   - The page gives no name for the Spanish passenger and no account of the reported €4,000 payment from Cambodia, so it neither confirms nor contradicts those details.
+  - This account names the joint inspection as airport customs working with the Noi Bai airport border police and Hanoi's PC04 drug unit, without naming the customs supervision and anti-smuggling units listed in the Regional Customs Branch I account.
+  - The page gives the cannabis weight as about 25.4 kg and does not name the passenger or the reported payment for carrying the load, so it neither confirms nor contradicts those details.
+  - The page describes the herb as parts of the cannabis plant without a laboratory result confirming the species, and gives no charge, court outcome or estimated value.
+  - The page's only photo shows the separate heated-tobacco seizure of 405.5 TEREA sticks, not the cannabis packages, so no media entry is made from it.
+  - The page reports four heated-tobacco passengers flagged on 3, 9 and 17 October at gates 6 and 7 of Terminal 2 and does not say which gate the cannabis suitcase passed through.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
@@ -240,3 +250,5 @@ The Customs Department announced the Noi Bai seizures on the morning of 6 Novemb
 The page also says the cannabis was in the checked suitcase of a Spanish passenger and was transferred to the Hanoi City police drug crime investigation office. [@18]
 
 The page says the two packages were sealed in yellow and white plastic. [@19]
+
+The airport customs inspection at Noi Bai International Airport on 25 October 2026 was carried out together with the Noi Bai airport border police and PC04, the drug crime investigation office of the Hanoi City police. [@20] The Spanish passenger's checked baggage was flagged during screening as it was checked through from flight VN922 onto VN19 from Noi Bai to Charles de Gaulle airport in France. [@20] The two vacuum-sealed packages held dried flowers, leaves, stems and buds of the cannabis plant weighing about 25.4 kg in total and were wrapped in yellow-and-white nylon. [@20]
