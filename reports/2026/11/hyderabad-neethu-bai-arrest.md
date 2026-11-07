@@ -65,6 +65,11 @@ sources:
     publisher: Hyderabad Mail
     date: 2026-11-06
     language: en
+  - title: గంజాయి లేడీ డాన్ నీతూ భాయి అరెస్ట్ | Ganja lady don Neetu Bhai arrested Hyderabad
+    url: https://www.sakshi.com/telugu-news/crime/ganja-lady-don-neetu-bhai-arrested-hyderabad-2954541
+    publisher: Sakshi
+    date: 2026-11-07
+    language: te
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
@@ -76,13 +81,20 @@ open_questions:
   - Hyderabad Mail dates the trace to a Thursday tip-off but gives no day for the arrest itself; the report uses 5 November 2026 from earlier reporting.
   - The August 2023 case, with 23.4 kg of ganja, is not described with a date beyond the month or a case outcome.
   - Hyderabad Mail gives no attribution for its details of the 2021 preventive detention and the October 2022 release, which it says come from earlier reports.
+  - Sakshi gives no date for the arrest; 7 November 2026 is its publication date, and the report keeps 5 November from the earlier accounts.
+  - Sakshi says about 30 cases were registered against her, while The Hindu records 31; the report keeps the earlier figure.
+  - Sakshi's claim that the trade ran for nine years is its own characterisation and is not reconciled with police records dating her cases to 2018.
+  - An earlier Enforcement Directorate search in Hyderabad over her alleged illegal earnings and money laundering is mentioned only as background, with no date.
+  - 'Left out, as its quotation was not found in Sakshi: On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement (EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad.'
+  - 'Left out, as its quotation was not found in Sakshi: Neetu Bhai targeted software employees with her ganja trade.'
+  - Left out arrested, as its quotation was not found in Sakshi.
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
 (EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2]
 Bai had been absconding for more than a year. [@1] EAGLE personnel traced her to
 a hideout after a tip-off. [@1] Officers found no narcotic substances on her,
-though they seized ₹1 lakh in cash. [@1,2]
+though they seized ₹1 lakh in cash. [@1,2,4]
 
 Bai was linked to an alleged marijuana-trafficking network across Hyderabad and
 Cyberabad. [@1] Bai and her family members operated an organised distribution
@@ -100,3 +112,5 @@ consumers connected to the network and proceeds from trafficking. [@1]
 On 13 March 2024, police seized 22.6 kg of marijuana and ₹22.10 lakh in cash from her. [@2]
 
 EAGLE personnel traced her to a hideout following a tip-off on Thursday. [@3] An EAGLE officer said 63 consumers allegedly linked to her network had earlier been identified and referred for de-addiction. [@3] In August 2023, the Telangana State Anti-Narcotics Bureau and Golconda police arrested her in a case involving the seizure of 23.4 kg of ganja. [@3] Neethu Bai was detained under the Preventive Detention Act in 2021 and released from prison in October 2022. [@3]
+
+Sakshi reported that her ganja trade had continued for nine years. [@4]
