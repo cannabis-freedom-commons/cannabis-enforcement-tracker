@@ -46,6 +46,11 @@ sources:
     publisher: Do Took Media
     date: 2026-11-07
     language: hi
+  - title: नोएडा में पुलिस का बड़ा एक्शन, अवैध हथियार, शराब और गांजे के साथ एक महिला समेत चार आरोपी गिरफ्तार
+    url: https://royalbulletin.in/delhi-ncr/noida/four-smugglers-including-a-woman-arrested-with-illegal-weapons-liquor-and-ganja-in-noida/article-253046
+    publisher: रॉयल बुलेटिन
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The report repeats the time of the arrest but gives no further detail on the operation, and no second outlet's account of this Sector-71 arrest was found.
   - The source does not say whether the woman was selling ganja, where she obtained it or how it was meant to be used; the trafficking suspicion is the police's description of the arrest.
@@ -53,13 +58,14 @@ open_questions:
   - No charge sheet, remand order or court date was reported; the case is recorded as charged only because an FIR was registered.
   - The source gives no value for the ganja and no count of packets.
   - The page image is a generic illustration captioned only with the headline and is not confirmed to show this arrest, so no media entry is added.
+  - Royal Bulletin's same-day roundup places this arrest beside the Sector-71 underpass service road on a ganja trafficking charge, matching this report's location, but gives no case number or the woman's origin as recorded here.
 ---
 
 Sector-113 police station in Noida arrested a woman on 6 November 2026 on
-suspicion of ganja trafficking. [@1] She was held beside the service road of the
+suspicion of ganja trafficking. [@1,2] She was held beside the service road of the
 Sector-71 underpass, in Noida in Uttar Pradesh's Gautam Buddh Nagar district.
 [@1] Police said a search of her found 1 kg 500 g of illegal ganja, which
-officers seized. [@1]
+officers seized. [@1,2]
 
 Police identified the arrested woman as Rafsana, 25, a native of Kisamat
 Mukorari village in Dinhata police station area of Cooch Behar district, West
@@ -73,4 +79,3 @@ law, and began the required legal action against her. [@1] The same police
 statement also mentions prior case 441/2022 under sections 8 and 20 of the NDPS
 Act. [@1] Police said the campaign against drug trafficking and the illegal
 trade in the district would continue. [@1]
-

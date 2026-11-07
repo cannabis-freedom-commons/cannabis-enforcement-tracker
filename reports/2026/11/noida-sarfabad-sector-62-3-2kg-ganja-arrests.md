@@ -44,6 +44,11 @@ sources:
     publisher: Do Took Media
     date: 2026-11-07
     language: hi
+  - title: नोएडा में पुलिस का बड़ा एक्शन, अवैध हथियार, शराब और गांजे के साथ एक महिला समेत चार आरोपी गिरफ्तार
+    url: https://royalbulletin.in/delhi-ncr/noida/four-smugglers-including-a-woman-arrested-with-illegal-weapons-liquor-and-ganja-in-noida/article-253046
+    publisher: रॉयल बुलेटिन
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives the arrests as Friday evening and is published Saturday 7 November 2026, so 6 November 2026 is used as the incident date.
   - Only one accessible source for this event was found after searching in Hindi and English.
@@ -53,19 +58,20 @@ open_questions:
   - The article reports no value for the ganja and no remand, charge or court date.
   - The article makes no mention of a second accused or of Delhi as the source of the ganja, which the other account reports.
   - The page's single image carries only the headline and no credit establishing that it shows this seizure, so no media entry is added.
+  - Royal Bulletin's same-day Noida roundup, which carries the same two ganja seizures and the 3.2 kg total, places the woman's arrest beside the service road of the Sector-71 underpass rather than at the Sarfabad cremation ground, and groups the ganja with an unlicensed pistol and 110 bottles of country liquor found on two other men who had no cannabis.
 ---
 
 Sector-113 and Sector-58 station police in Noida arrested a woman and a youth
-with 3.2 kg of ganja. [@1] Police said both accused brought ganja from Delhi to
+with 3.2 kg of ganja. [@1,3] Police said both accused brought ganja from Delhi to
 sell in Noida. [@1] The woman was identified as 25-year-old Rafsana, a native of
 Cooch Behar in West Bengal who lives in the Sarfabad slums. [@1] The youth was
 identified as 26-year-old Lavkush, a resident of Khoda Colony in Ghaziabad,
 arrested near the Chhota D Park gate in Sector-62. [@1,2]
 
-Police recovered 1.5 kg of ganja from the woman. [@1] Police recovered 1.7 kg of
-ganja from Lavkush's bag. [@1] A Sector-113 team on evening patrol near the
+Police recovered 1.5 kg of ganja from the woman. [@1,3] Police recovered 1.7 kg of
+ganja from Lavkush's bag. [@1,3] A Sector-113 team on evening patrol near the
 cremation ground in Sarfabad caught the woman after she tried to run on seeing
-police. [@1]
+police. [@1,3]
 
 Police said the woman sold ganja in Sarfabad, while the youth supplied it to
 company employees, slum dwellers and factory areas. [@1] ADCP Abhay Kumar Mishra
