@@ -121,6 +121,11 @@ sources:
     publisher: Vietnam.vn (Báo Tiền Phong)
     date: 2026-11-06
     language: th
+  - title: 当局在内排机场查获超过25公斤大麻和数百支加热烟草棒。
+    url: https://www.vietnam.vn/zh-cn/bat-giu-hon-25-kg-can-sa-hang-tram-cay-thuoc-la-nung-nong-o-noi-bai
+    publisher: Vietnam.vn (Báo Tiền Phong)
+    date: 2026-11-06
+    language: zh
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -169,11 +174,13 @@ open_questions:
   - The Tiền Phong original names no destination inside France beyond Charles de Gaulle airport and no final consignee for the 25 kg.
   - The page gives no laboratory result confirming the dried herb was cannabis beyond the Customs Department's statement, no charge and no court outcome.
   - The four heated-tobacco passengers and the more than 400 TEREA sticks in the same announcement are a tobacco case left out of the cannabis report.
+  - This page says the four passengers were flagged at gates 6 and 7 of Terminal 2, while the existing report says the Spanish passenger's bag was flagged during screening without giving the terminal or gate; the page does not say which gate the suitcase passed through.
+  - The page's only photo shows the heated-tobacco seizure, not the cannabis packages, so no media entry is included from it.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
 were screening transit baggage at Noi Bai International Airport on 25 October
-2026 when they found a black checked suitcase. [@1,2,3,4,6,7,9] The suitcase was checked
+2026 when they found a black checked suitcase. [@1,2,3,4,6,7,9,16] The suitcase was checked
 through on a connecting itinerary and booked on flight VN19, which was due to
 leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@1,2,3,4,5,6,7,15] The airport
 task force identified the passenger, Jesus Sanchez Gomez, as the owner of the
@@ -186,14 +193,16 @@ carry the goods from Cambodia, through Vietnam, to France. [@1]
 
 Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
-investigation. [@1,2,3,5,6,7,10,14,15]
+investigation. [@1,2,3,5,6,7,10,14,15,16]
 
-The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,11,14]
+The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,11,14,16]
 
-The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,11,13,14] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
+The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,11,13,14,16] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
 
 The Spanish passenger's checked bag was flagged during screening, and the inspection was carried out jointly by airport customs, customs supervision and anti-smuggling units, airport police and the Hanoi PC04 drug unit. [@6,11,12]
 
 The Spanish passenger's suitcase was checked through from flight VN922 onto VN19, which was due to leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@8]
 
 The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@10,12,13,14,15] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11,13,14]
+
+The Customs Department announced the Noi Bai seizures on the morning of 6 November, and the same announcement reported more than 400 TEREA heated-tobacco sticks carried without declaration by passengers flagged in October. [@16] In October, customs officers flagged suspicious activity involving four passengers through operational measures, risk control and baggage X-ray image analysis at gates 6 and 7 of Terminal 2, the international passenger terminal. [@16]
