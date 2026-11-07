@@ -49,6 +49,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-06
     language: hi
+  - title: ललितग्राम में पुलिस की बड़ी कार्रवाई, घर से 19 किलो गांजा बरामद
+    url: https://vocaltv.in/crime/lalitgram-cannabis-seized-brphp/cid19499714.htm
+    publisher: Vocal TV
+    date: 2026-11-06
+    language: hi
 open_questions:
   - Hindusthan Samachar dates the tip-off to 5 November and was published on 6 November; neither account gives the date of the raid itself, so 6 November is used as the incident date.
   - Neither account says whether the two men named as suspects were detained or charges were filed against them; no court outcome was reported.
@@ -57,10 +62,12 @@ open_questions:
   - Neither account says where Mahadevapatti lies within Supaul district, so the coordinates are for Supaul town and the precision is district.
   - The submitted page's only photograph is captioned "Br" with no credit and is not established to show this seizure, so no media entry is included.
   - Prabhat Khabar's account closely follows the same police information as the agency report, so the two are not fully independent.
+  - The submitted Vocal TV text is the Hindusthan Samachar wire report republished verbatim, so it does not add an independent account of the raid.
+  - Vocal TV runs the story without an incident date beyond the wire's 5 November tip-off; the raid date remains unstated.
 ---
 
 Supaul district police raided a house in Mahadevapatti village in the Lalitgram
-police-station area and recovered 19 kilograms of ganja. [@1] Prabhat Khabar
+police-station area and recovered 19 kilograms of ganja. [@1,3] Prabhat Khabar
 reported that Lalitgram police acted on a secret tip and raided the house, then
 formally seized the ganja. [@2]
 
@@ -71,9 +78,8 @@ special team led by the Supaul sub-divisional police officer carried out the
 raid and search in the presence of a magistrate. [@1]
 
 Police seized the ganja and registered a first information report under the NDPS
-Act, India's narcotics law. [@1] Police said they had begun investigating the
-ganja's backward and forward links to identify others in the trade. [@1] Neither
+Act, India's narcotics law. [@1,3] Police said they had begun investigating the
+ganja's backward and forward links to identify others in the trade. [@1,3] Neither
 account reported that anyone was arrested in the raid, and Hindusthan Samachar
 said police were preparing to act to arrest others involved in the trafficking.
 [@1]
-
