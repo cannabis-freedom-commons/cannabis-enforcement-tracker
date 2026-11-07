@@ -66,6 +66,11 @@ sources:
     publisher: Інтернет-видання «Полтавщина»
     date: 2026-11-06
     language: uk
+  - title: 'Четверо чоловіків і понад 70 кг канабісу: на Полтавщині припинили діяльність групи з вирощування та збуту наркотиків'
+    url: https://np.pl.ua/2026/11/06/chetvero-cholovikiv-i-ponad-70-kh-kanabisu-na-poltavshchyni-prypynyly-diialnist-hrupy-z-vyroshchuvannia-ta-zbutu-narkotykiv/
+    publisher: Новини Полтавщини
+    date: 2026-11-06
+    language: uk
 open_questions:
   - The reports give no separate date for the searches or suspicion notices; 5 November 2026, the announcement and publication date, is used as the incident date.
   - The exact weight beyond more than 70 kg of cannabis was not published, so figures record 70 kg.
@@ -74,26 +79,30 @@ open_questions:
   - A brief mention of a detained 35-year-old Kremenchuk drug-sale suspect is a separate event left out of this report.
   - The submitted page gives no separate date for the searches, suspicion notices or custody decision; it is a follow-up account published on 6 November 2026, a day later than the first coverage.
   - The page's photos have no captions and could not be confirmed as showing this event, so none was linked.
+  - The page's two uncaptioned photos of cannabis are not established to show this group's plot or seizure, so none was linked.
+  - Left out arrested, as no supporting quotation was given.
+  - Left out charged, as no supporting quotation was given.
+  - Left out kg seized, as no supporting quotation was given.
 ---
 
 Police in the Poltava region exposed four men on suspicion of growing cannabis
-and selling cannabis. [@1] Three of the suspects were residents of Poltava
-region and one was a resident of Kirovohrad region. [@1] Investigators say the
-men were active from June to October 2026. [@1] The men grew cannabis plants on
-the household plot of one group member in Kremenchuk district. [@1]
+and selling cannabis. [@1,4] Three of the suspects were residents of Poltava
+region and one was a resident of Kirovohrad region. [@1,4] Investigators say the
+men were active from June to October 2026. [@1,4] The men grew cannabis plants on
+the household plot of one group member in Kremenchuk district. [@1,4]
 
 The group tended the bushes by watering, weeding and treating them with
-chemicals to make them grow faster. [@2] The harvested plants were taken to a
-garage used by one of the men. [@1] There the cannabis was dried, crushed and
-packed into polymer bags. [@1] The finished cannabis was sold directly to buyers
-hand to hand. [@1] Searches of the suspects' homes and cars seized more than 70
+chemicals to make them grow faster. [@2,4] The harvested plants were taken to a
+garage used by one of the men. [@1,4] There the cannabis was dried, crushed and
+packed into polymer bags. [@1,4] The finished cannabis was sold directly to buyers
+hand to hand. [@1,4] Searches of the suspects' homes and cars seized more than 70
 kilograms of cannabis plus electronic scales, packing materials and other
-evidence. [@1]
+evidence. [@1,4]
 
 All four group members were notified of suspicion according to their alleged
-roles. [@1] They face counts of repeated large-scale manufacture, storage and
+roles. [@1,4] They face counts of repeated large-scale manufacture, storage and
 transport of drugs for sale by a conspiring group, and of growing 50 or more
-cannabis plants by a conspiring group for sale. [@1] A court placed the suspects
-in custody at the investigators' request. [@1,3]
+cannabis plants by a conspiring group for sale. [@1,4] A court placed the suspects
+in custody at the investigators' request. [@1,3,4]
 
 The pre-trial investigation and operational support in the case are run by the regional police investigators together with the strategic investigations department, under the Poltava regional prosecutor's office. [@3]
