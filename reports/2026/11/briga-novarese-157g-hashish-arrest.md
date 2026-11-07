@@ -49,10 +49,16 @@ sources:
     publisher: Corriere di Novara
     date: 2026-11-05
     language: it
+  - title: 'Spaccio nei boschi di Briga Novarese: arrestato 23enne con hashish, cocaina ed eroina'
+    url: https://www.lavocedinovara.com/cronaca/spaccio-nei-boschi-di-briga-novarese-arrestato-23enne-con-hashish-cocaina-ed-eroina/
+    publisher: La Voce di Novara
+    date: 2026-11-06
+    language: it
 open_questions:
   - The hashish amount is approximate; the account gives about 157 grams rather than an exact weight.
   - Only one opened account of this arrest was located; no second account or direct Carabinieri statement was found.
   - No formal charge, custody ruling or later court outcome was reported.
+  - The hashish amount is approximate, about 157 grams rather than an exact weight.
 ---
 
 Italy's Carabinieri police arrested a 23-year-old man in the woods at Briga
@@ -64,11 +70,10 @@ operational and mobile radio unit. [@1] When the young man saw the Carabinieri,
 they stopped him and checked him. [@1]
 
 A search found about 157 grams (0.157 kg) of hashish, 14 grams of cocaine and 6
-grams of heroin, 177 grams in total. [@1] Officers also seized two precision
+grams of heroin, 177 grams in total. [@1,2] Officers also seized two precision
 scales and material used to package drug doses. [@1] They also seized two mobile
 phones and five power banks. [@1]
 
 Officers found €1,005 in cash, which they considered proceeds of drug dealing.
-[@1] After the formalities, the 23-year-old was transferred to Novara prison.
-[@1] He remained there at the disposal of judicial authorities. [@1]
-
+[@1,2] After the formalities, the 23-year-old was transferred to Novara prison.
+[@1,2] He remained there at the disposal of judicial authorities. [@1]
