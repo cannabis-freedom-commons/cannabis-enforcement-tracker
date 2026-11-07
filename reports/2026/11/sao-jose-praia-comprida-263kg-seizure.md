@@ -63,6 +63,11 @@ sources:
     publisher: SJ Agora
     date: 2026-11-06
     language: pt
+  - title: Dois homens são presos com 317 tabletes de maconha, cocaína e haxixe em SC
+    url: https://camboriu.news/dois-homens-sao-presos-com-317-tabletes-de-maconha-cocaina-e-haxixe-em-sc/
+    publisher: Camboriú News
+    date: 2026-11-06
+    language: pt
 open_questions:
   - No names or ages of the two arrested men were published.
   - No street value was given for the marijuana or the hashish.
@@ -71,6 +76,8 @@ open_questions:
   - The combined four-day figure of 735 kg includes the separate 472 kg Potecas seizure and is not counted as cannabis seized in this event.
   - The cocaine and the knife are part of the same case but are not counted as cannabis.
   - Left out activity, as its quotation was not found in Agora Floripa.
+  - The page photo is captioned only "maconha" with no credit and is not established to show this seizure, so no media entry is added.
+  - Camboriú News does not name the neighbourhood; the existing report places the searches in Praia Comprida.
 ---
 
 Civil Police officers of Santa Catarina arrested two men in flagrante on Friday
@@ -78,18 +85,18 @@ Civil Police officers of Santa Catarina arrested two men in flagrante on Friday
 Florianópolis, in an operation by the city's anti-drug unit, the Delegacia de
 Combate às Drogas (DECOD). [@3] After inquiries the officers located the two
 suspects and stopped them, and searches found drugs inside a vehicle and in a
-residence. [@1]
+residence. [@1,5]
 
-The marijuana seized came to about 263 kilograms, divided into 317 tablets. [@1,4]
+The marijuana seized came to about 263 kilograms, divided into 317 tablets. [@1,4,5]
 During a press conference the Civil Police had first reported more than 300
 kilograms, and the figure was revised after the final count and weighing. [@1]
 
 Officers also seized about 1 kilogram of hashish, 284 grams of cocaine, two
 mobile phones, two precision scales, a knife with drug residue, rolls of plastic
-film used to pack drugs and a car. [@2]
+film used to pack drugs and a car. [@2,5]
 
 The two men were taken to the DECOD station in São José, where the arrest in
-flagrante was recorded. [@3] The seizure came four days after another Civil
+flagrante was recorded. [@3,5] The seizure came four days after another Civil
 Police operation in the Potecas neighbourhood of the same municipality, where
 472 kilograms of marijuana were found at a residence and an 18-year-old was
 arrested. [@1,4] Together the two operations took the Civil Police's marijuana
