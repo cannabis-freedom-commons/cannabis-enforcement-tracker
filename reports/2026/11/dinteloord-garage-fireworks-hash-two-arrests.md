@@ -55,6 +55,11 @@ sources:
     publisher: Omroep Brabant
     date: 2026-11-07
     language: nl
+  - title: 'Grote vondst: politie vindt bijna 10.000 cobra''s in garagebox in Dinteloord'
+    url: https://www.telegraaf.nl/binnenland/grote-vondst-politie-vindt-bijna-10.000-cobras-in-garagebox-in-dinteloord/164232719.html
+    publisher: De Telegraaf
+    date: 2026-11-07
+    language: nl
 open_questions:
   - Only the police statement was found; no separate outlet reporting of this Dinteloord find was located.
   - The quantities are given as more than 90 grams of hemp and more than 800 grams of hash, not exact weights, so the cannabis total of about 891 grams is approximate.
@@ -63,24 +68,26 @@ open_questions:
   - The page photograph is captioned as Cobra fireworks from 2024 and is not established to show this seizure, so no media is linked.
   - The 250 pills are counted in neither cannabis figures nor any structured detail because the statement does not say what they contain.
   - The Omroep Brabant account gives the same approximate cannabis weights ('90 gram hennep', '800 gram hasj') without more precision, and repeats that no charges are stated.
+  - De Telegraaf gives the hash weight as '800 gram' without 'ruim', the same approximate figure as the other accounts, so the report's already approximate cannabis total is unaffected.
+  - The article does not say what the 250 pills contained or which charges the two men face.
 ---
 
 Police entered a garage box on the De Vriesstraat in Dinteloord on the evening
 of Wednesday 4 November 2026 and found a large quantity of heavy illegal
-fireworks. [@1,2] Officers arrested a 25-year-old man from Dinteloord that evening
+fireworks. [@1,2,3] Officers arrested a 25-year-old man from Dinteloord that evening
 and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2]
 The search followed a longer police investigation that began with a report about
 the possible storage and sale of illegal fireworks. [@1]
 
 Alongside the fireworks, officers found just over 90 grams of hemp and just over
-800 grams of hash in the garage box. [@1,2] Police also seized about 250 pills, an
-alarm pistol, expensive jewellery and a car. [@1,2] In total more than 750
+800 grams of hash in the garage box. [@1,2,3] Police also seized about 250 pills, an
+alarm pistol, expensive jewellery and a car. [@1,2,3] In total more than 750
 kilograms of fireworks were taken away, including almost 10,000 cobras, boxes of
 lawinepijlen (heavy rockets) and shells weighing several kilograms each;
 specialists removed them safely. [@1]
 
 Police said the fireworks held large amounts of explosive flash powder and that
 an explosion could set off a mass explosion affecting whole streets and
-residential districts. [@1] Police linked the case to their drive against
+residential districts. [@1,3] Police linked the case to their drive against
 illegal fireworks ahead of New Year; since 1 August 2026 possessing, buying and
 setting off fireworks is banned in the Netherlands. [@1]
