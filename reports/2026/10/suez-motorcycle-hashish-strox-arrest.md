@@ -20,6 +20,11 @@ media:
     media_url: https://media.gemini.media/img/large/2026/10/31/2026_10_31_23_1_49_559.webp
     publisher: مصراوي
     caption: The two arrested men, in a photo captioned "the two defendants" with the Masrawy report on the Suez arrests; no credit was given.
+  - kind: photo
+    url: https://ekhbary24.com/article/42091
+    media_url: https://media.elbalad.news/2026/10/large/7521046738006202610310947384738.jpg
+    publisher: إخباري 24 نيوز
+    caption: Police handout photo published with the account of the two men arrested over hashish and strox sales in Suez; the page gives no credit.
 details:
   activity: [trafficking]
   agency_types: [police]
@@ -84,6 +89,11 @@ sources:
     publisher: الأسبوع
     date: 2026-10-31
     language: ar
+  - title: ضبط مروجي الاستروكس والحشيش بالسويس
+    url: https://ekhbary24.com/article/42091
+    publisher: إخباري 24 نيوز
+    date: 2026-11-06
+    language: ar
 open_questions:
   - The reports give no separate date for the arrests; 31 October 2026, the day the accounts were published, is used as the incident date.
   - No weight or value was given for the strox or hashish seized.
@@ -99,6 +109,10 @@ open_questions:
   - Its listed photo uses the same direct image address already cited in the existing report, so no additional media entry is listed.
   - The submitted page gives no separate date for the arrests; 31 October 2026 is its publication date.
   - Its listed photo is not added because outlets republished the same police handout and a distinct photo could not be confirmed.
+  - The page gives no separate date for the arrests; 6 November 2026 is its publication date, and 31 October 2026 remains the incident date from earlier coverage.
+  - No weight or value is given for the hashish or strox seized, so no cannabis quantity can be recorded.
+  - The listed photo uses the same direct image address already reported for this case, so it is not counted as a new picture.
+  - The article relays the same Interior Ministry statement as the earlier accounts and adds no independent reporting.
 ---
 
 Egypt's Interior Ministry said its security services arrested two people accused
@@ -107,16 +121,18 @@ after a video documenting the incident circulated on social media. [@1,6,7,8,9] 
 video showed the pair on the motorcycle promoting drugs in one of the city's
 streets. [@2,6] The ministry said officers established the circumstances of the
 footage after it circulated online. [@3,5,6] Police said both had criminal records
-and lived in the Arba'een police station district. [@1,4,5,6,7,8]
+and lived in the Arba'een police station district. [@1,4,5,6,7,8,10]
 
 Officers identified the two people shown in the video and arrested them, the
-ministry said. [@3,5,6,9] The motorcycle used in the incident, which had no licence
+ministry said. [@3,5,6,9,10] The motorcycle used in the incident, which had no licence
 plates, was found with them, along with a quantity of the drugs strox and
-hashish. [@1,4,5,6,7,8,9]
+hashish. [@1,4,5,6,7,8,9,10]
 
 Police held the motorcycle and took the required legal measures, the ministry
 said. [@2,4,5,6]
 
-When questioned, the two admitted committing the offence and said they held the seized drugs for trafficking, the ministry said. [@4,6,7,9]
+When questioned, the two admitted committing the offence and said they held the seized drugs for trafficking, the ministry said. [@4,6,7,9,10]
 
 The Public Prosecution took over the investigation, the ministry said. [@5]
+
+The page also says the two men admitted the offence and that the legal measures against them were still under way. [@10]
