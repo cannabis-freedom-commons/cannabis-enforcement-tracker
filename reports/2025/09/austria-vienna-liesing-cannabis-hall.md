@@ -53,12 +53,21 @@ sources:
     publisher: Der Standard
     date: 2026-06-11
     language: de
+  - title: „Operation Psycho“ - Jurist baute „Gras“ um 4,5 Millionen Euro an
+    url: https://www.krone.at/4173157
+    publisher: Kronen Zeitung
+    date: 2026-06-11
+    language: de
 media:
   - kind: photo
     url: https://wien.orf.at/stories/3358039/
     archived: https://web.archive.org/web/20260910055649/https://wien.orf.at/stories/3358039/
     publisher: ORF Wien
     caption: The cannabis plantation inside the 3,200 sq m hall in Liesing
+open_questions:
+  - Only the Krone report names Hvar as the place of arrest and gives the 3.5 to 4 million euro profit estimate, the three rented storage rooms, the wholesale buyer's arrest and the test purchase that started the case; no second opened source corroborates them.
+  - Krone attributes the nickname "Psychonaut" to the 46-year-old, while ORF Wien describes it only as the nickname of a main suspect.
+  - Krone reports that about ten gardeners worked in the hall while nine were arrested; the number at large is not stated.
 ---
 
 Vienna police seized about a tonne of cannabis in a 3,200 sq m hall in Liesing that had been
@@ -79,3 +88,5 @@ The operation was code-named "Psycho", after a nickname used for one of the main
 investigators had been watching the group since 2024. [@1] The force described the plantation as
 highly professional and said the suspects had taken over the infrastructure of an earlier CBD
 business. [@1]
+
+The three suspected organisers, Austrian citizens aged 42, 46 and 55, had posed as investors in a CBD company in financial trouble and promised to keep producing only non-intoxicating CBD. [@3] A test purchase from a street dealer put police on the trail of the group. [@3] About ten men from Bosnia and Serbia were employed as "gardeners" tending the plants and were housed inside the hall. [@3] Three further storage rooms were rented elsewhere in Vienna for the sale. [@3] In the raid nine "gardeners" and two of the three directors were arrested. [@3] The 42-year-old suspected ringleader, a lawyer, was found on the Croatian holiday island of Hvar and extradited to Austria in February 2026. [@3] A wholesale buyer was arrested, and investigators must now trace the group's money flows; Krone said the ring may have made 3.5 to 4 million euros in profit over the years. [@3]
