@@ -68,6 +68,16 @@ sources:
     publisher: Anadolu Agency (الأناضول)
     date: 2026-11-06
     language: ar
+  - title: سورية تحبط محاولة تهريب مخدرات من لبنان
+    url: https://www.alaraby.co.uk/society/%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%A8%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86
+    publisher: العربي الجديد
+    date: 2026-11-06
+    language: ar
+  - title: ريف دمشق.. حرس الحدود يحبط تهريب شحنة مخدرات قادمة من لبنان
+    url: https://alikhbariah.com/%D8%B1%D9%8A%D9%81-%D8%AF%D9%85%D8%B4%D9%82-%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D9%8A%D8%AD%D8%A8%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%B4%D8%AD%D9%86%D8%A9-%D9%85%D8%AE/
+    publisher: الإخبارية
+    date: 2026-11-06
+    language: ar
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -76,21 +86,26 @@ open_questions:
   - The Janoubia report and the SANA report reproduce the same Defence Ministry statement, so there is no independent confirmation beyond the ministry's account.
   - Janoubia's lead picture is a generic site image with no caption, so it is not listed; the photographs come from SANA's page and are credited to SANA.
   - The Anadolu account adds no arrest, charge or new figure, and repeats the SANA statement already cited, so it does not independently confirm the official account.
+  - Al-Araby Al-Jadeed's lead picture is captioned as drugs seized in Syria on 20 May 2026, an earlier event, so it is not treated as showing this operation and no media is added.
+  - Al-Araby Al-Jadeed also recounts earlier, separate October 2026 seizures on the Syrian and Lebanese sides of the border; they belong to other reports and are not merged here.
+  - The Alekhbariah account reproduces the same Defence Ministry statement and the image on its page is credited to the outlet, adding no independent confirmation of the official figures.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
 Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
-the Sarghaya area of the Damascus countryside. [@1]
+the Sarghaya area of the Damascus countryside. [@1,4]
 
 The ministry said the smugglers opened fire on the Syrian force during the
-operation and that the force returned fire. [@1,3] The gunmen then fled towards
-Lebanese territory, the ministry said. [@2] The state news agency SANA reported
+operation and that the force returned fire. [@1,3,4] The gunmen then fled towards
+Lebanese territory, the ministry said. [@2,4] The state news agency SANA reported
 that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1,3] The seized items were
-referred to the competent authorities to complete legal procedures. [@1,3]
+confiscated, according to the ministry statement. [@1,3,4] The seized items were
+referred to the competent authorities to complete legal procedures. [@1,3,4]
 
 The Defence Ministry media office announced the operation on Friday 6 November
-2026, and SANA published the statement the same evening. [@2]
+2026, and SANA published the statement the same evening. [@2,5]
+
+Border guard units in the Syrian Arab Army seized 280 kilograms of hashish and 28,000 Captagon pills in the Sarghaya area of the Damascus countryside, the Defence Ministry's media office said. [@5]
