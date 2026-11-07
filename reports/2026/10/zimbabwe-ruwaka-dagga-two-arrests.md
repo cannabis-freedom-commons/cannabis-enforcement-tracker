@@ -27,14 +27,16 @@ details:
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
+  environment: [outdoor]
   products:
     - {product: flower}
-  setting: [home]
+  setting: [field]
 data_sources:
   details.activity: [3, 2]
   details.agency_types: [3, 2, 1, 5, 4]
   details.case_stage: [3, 2, 1, 5]
   details.date_precision: [3, 2, 1, 5]
+  details.environment: [1, 2, 3, 4, 5]
   details.products: [1, 2, 3, 5]
   details.setting: [3, 2, 1, 5]
   figures.arrested: [3, 2, 4]
@@ -72,8 +74,9 @@ sources:
 media:
   - kind: photo
     url: https://www.263chat.com/73-year-old-arrested-over-770-dagga-plants-hidden-in-maize-field/
+    media_url: https://www.263chat.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-9.45.33-PM.jpeg
     publisher: 263Chat
-    caption: The two handcuffed suspects with uprooted dagga plants and a police officer
+    caption: "The two handcuffed suspects with uprooted dagga plants and a police officer. Photo: 263Chat"
   - kind: photo
     url: https://www.heraldonline.co.zw/pair-nabbed-for-dagga-cultivation-in-chimanimani/
     media_url: https://www.heraldonline.co.zw/wp-content/uploads/2026/10/Dagga-1-copy.jpg

@@ -22,16 +22,22 @@ figures:
   kg_seized: 60000
 created_by_model: unknown
 details:
+  activity: [cultivation]
   agency_types: [military]
   case_stage: investigation
+  environment: [outdoor]
+  products: [{product: flower, kg: 60000}]
   setting: [field]
 data_sources:
+  details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.environment: [1]
+  details.products: [1, 2]
   details.setting: [1, 2]
   figures.hectares: [1, 2]
   figures.kg_seized: [1, 2]
-status: reported
+status: verified
 tags:
   - hermel
   - army
@@ -50,15 +56,26 @@ sources:
 media:
   - kind: photo
     url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-%D9%A1%D9%A8%D9%A0-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AC%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AD%D9%85%D8%B1-%E2%80%93-%D8%A7%D9%84%D9%87%D8%B1%D9%85%D9%84-%D9%88%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AF%D9%87%D9%85-%D9%81%D9%8A
+    media_url: https://www.lebarmy.gov.lb/sites/default/files/field/images/10_26/PNL26102026170338_01.jpg
     publisher: Lebanese Army
-    caption: Burning cannabis piles during the eradication operation (Lebanese Army photo).
+    caption: "Burning piles across a Hermel hillside during the eradication. Photo: Lebanese Army"
+  - kind: photo
+    url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-%D9%A1%D9%A8%D9%A0-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AC%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AD%D9%85%D8%B1-%E2%80%93-%D8%A7%D9%84%D9%87%D8%B1%D9%85%D9%84-%D9%88%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AF%D9%87%D9%85-%D9%81%D9%8A
+    media_url: https://www.lebarmy.gov.lb/sites/default/files/field/images/10_26/PNL26102026170338_02.jpg
+    publisher: Lebanese Army
+    caption: "Close view of cannabis piles on fire in the field. Photo: Lebanese Army"
+  - kind: photo
+    url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-%D9%A1%D9%A8%D9%A0-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AC%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AD%D9%85%D8%B1-%E2%80%93-%D8%A7%D9%84%D9%87%D8%B1%D9%85%D9%84-%D9%88%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AF%D9%87%D9%85-%D9%81%D9%8A
+    media_url: https://www.lebarmy.gov.lb/sites/default/files/field/images/10_26/PNL26102026170338_03.jpg
+    publisher: Lebanese Army
+    caption: "Soldiers emptying white sacks of dried cannabis onto a fire. Photo: Lebanese Army"
+  - kind: photo
+    url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D8%AA%D9%84%D9%81-%D8%AD%D9%88%D8%A7%D9%84%D9%8A-%D9%A1%D9%A8%D9%A0-%D8%AF%D9%86%D9%85%D9%8B%D8%A7-%D9%85%D9%86-%D8%AD%D8%B4%D9%8A%D8%B4%D8%A9-%D8%A7%D9%84%D9%83%D9%8A%D9%81-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%AC%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%AD%D9%85%D8%B1-%E2%80%93-%D8%A7%D9%84%D9%87%D8%B1%D9%85%D9%84-%D9%88%D9%8A%D9%86%D9%81%D8%B0-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%AF%D9%87%D9%85-%D9%81%D9%8A
+    media_url: https://www.lebarmy.gov.lb/sites/default/files/field/images/10_26/PNL26102026170338_04.jpg
+    publisher: Lebanese Army
+    caption: "Military vehicle and soldiers beside burning piles and white sacks in the Hermel field. Photo: Lebanese Army"
 open_questions:
-  - >-
-    The statement does not give the exact dates of the destruction operation or say what happened to the 60
-    tonnes seized.
-  - >-
-    The army source could not be reopened during duplicate consolidation; the earlier account and citations
-    are retained without a new full verification.
+  - The army statement does not give a multi-day schedule for the destruction or say what happened to the 60 tonnes after seizure.
 ---
 
 The Lebanese Army command's Directorate of Orientation announced on 26

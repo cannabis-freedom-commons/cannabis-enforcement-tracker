@@ -37,6 +37,7 @@ data_sources:
 status: verified
 open_questions:
   - The map marks Jahada ward 4; Ramchowk itself was not separately geolocated in the geographic sources checked.
+  - The opened accounts give the pickup plate as Pra 1-01-00 Cha 7422 while the published photo plate reads Cha 7491.
 sources:
   - title: 570 kg of marijuana seized from vegetable-laden vehicle in Morang
     url: https://english.onlinekhabar.com/570-kg-of-marijuana-seized.html
@@ -48,9 +49,15 @@ sources:
     date: 2026-10-26
 media:
   - kind: photo
+    url: https://english.onlinekhabar.com/570-kg-of-marijuana-seized.html
+    media_url: https://english.onlinekhabar.com/wp-content/uploads/2026/10/gaja-baramad-morang-1024x510-1.jpg
+    publisher: Online Khabar English
+    caption: "APF personnel with the impounded pickup and stacked marijuana packets. Photo: Online Khabar"
+  - kind: photo
     url: https://2daysbulletin.com/570-kg-of-marijuana-seized-from-vegetable-laden-vehicle-in-morang/
+    media_url: https://2daysbulletin.com/wp-content/uploads/2026/10/marijuna-cature-by-apf.jpg
     publisher: 2daysbulletin / APF
-    caption: APF personnel with the impounded pickup and stacked packets
+    caption: "APF personnel flanking the pickup and packet stacks at the post. Photo: 2daysbulletin"
 ---
 
 A team deployed from the Armed Police Force's Nocha Border Outpost recovered
