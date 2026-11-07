@@ -59,6 +59,11 @@ media:
     media_url: https://media-cdn.peacefmonline.com/photos/news/202611/6aed9b019adac1793956609.jpg
     publisher: Peace FM Online
     caption: Page picture of the Ada Estuary seizure, carried with the headline on the 117 sacks of suspected marijuana seized by the Ghana Navy; the image carries no caption or photo credit, so it is linked rather than treated as a cover.
+  - kind: photo
+    url: https://www.ghanaweb.com/GhanaHomePage/crime/Two-boats-carrying-4-7-tonnes-of-suspected-Indian-hemp-worth-over-1m-intercepted-at-Ada-2060123
+    media_url: https://cdn.ghanaweb.com/imagelib/pics/296/29601171.295.jpg
+    publisher: GhanaWeb
+    caption: Officers opening one of the wrapped packages after the Ghana Navy intercepted the consignment at the Ada Estuary on 5 November 2026; the photo carries no credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e2424b87990442e71eeded1964c8f35
@@ -112,6 +117,11 @@ sources:
     publisher: Peace FM Online
     date: 2026-11-06
     language: en
+  - title: Two boats carrying 4.7 tonnes of suspected Indian hemp worth over $1m intercepted at Ada
+    url: https://www.ghanaweb.com/GhanaHomePage/crime/Two-boats-carrying-4-7-tonnes-of-suspected-Indian-hemp-worth-over-1m-intercepted-at-Ada-2060123
+    publisher: GhanaWeb
+    date: 2026-11-06
+    language: en
 open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
   - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
@@ -139,17 +149,20 @@ open_questions:
   - The page is a programme preview with a single sentence on this seizure and gives no sack count, arrests, laboratory confirmation or seizure date beyond the fresh interception framing.
   - Peace FM Online gives the consignment as approximately 4.8 tonnes, while the Navy statement and several other outlets give 4.7 tonnes; the report keeps 4.7 tonnes.
   - The submitted gallery page carries only the headline and a photo caption; its article text was not available, so the GhanaWeb wording could not be checked against the story body.
+  - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates, and the sacks had not been confirmed as cannabis by laboratory testing when this account was published.
+  - The article was published on 6 November 2026 but describes the interception as taking place on 5 November 2026.
+  - GhanaWeb gives no identity of the boat operators and does not say whether the boats, outboard motors or fuel were retained.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
 Control Commission (NACOC) and National Security, intercepted two wooden boats
-at the Ada Estuary on Thursday 5 November 2026. [@2,3,4,6,7,8,9] The boats carried 117 sacks
+at the Ada Estuary on Thursday 5 November 2026. [@2,3,4,6,7,8,9,12] The boats carried 117 sacks
 of compressed dried leaves suspected to be Indian hemp, each sack holding more
-than 80 parcels. [@2,3,4,7,8] The occupants spotted the approaching naval patrol,
-abandoned both vessels and their cargo, and fled. [@1,3,4,6,7]
+than 80 parcels. [@2,3,4,7,8,12] The occupants spotted the approaching naval patrol,
+abandoned both vessels and their cargo, and fled. [@1,3,4,6,7,12]
 
 The Navy estimated the cargo at about 4.7 tonnes and put its street value at
-more than US$1 million. [@1,3,4,9,10] No one was arrested, and the sacks remain
+more than US$1 million. [@1,3,4,9,10,12] No one was arrested, and the sacks remain
 classified as suspected narcotics pending laboratory testing. [@2,7] Preliminary
 intelligence indicated the consignment was being prepared for export out of
 Ghana. [@2,3,7,8]
@@ -157,7 +170,7 @@ Ghana. [@2,3,7,8]
 The seized substances were handed to NACOC for forensic examination and further
 investigation. [@1,6] Naval Captain Festus Osei Brobbey, Director of Naval
 Operations, said a riverine detachment had been stationed to strengthen security
-on the Volta Lake and in surrounding communities. [@2,3,7,9] Kenneth Kofi Kabu Kanor,
+on the Volta Lake and in surrounding communities. [@2,3,7,9,12] Kenneth Kofi Kabu Kanor,
 the Ada East District Chief Executive and chairman of the District Security
 Committee (DISEC), urged residents not to let the Volta Lake become a transit
 route for drugs. [@2,3,7,8,9]
@@ -175,3 +188,5 @@ The items burned at the Bundase Military Training Camp on Thursday included 564.
 Director of Naval Operations Captain Festus Osei Brobbey commended residents for providing information that supports security efforts along the waterway. [@8] The Ada East District Chief Executive, Kenneth Kofi Kabu Kanor, urged residents to prevent the Volta Lake from being exploited as a corridor for drug trafficking. [@8]
 
 Peace FM Online reported that the abandoned boats were escorted to Ada Foah and searched at about 5:00 a.m. in the presence of NACOC officials. [@11] Peace FM Online reported that each of the 117 sacks contained more than 80 tightly packed parcels. [@11]
+
+The Ghana Navy's preliminary intelligence suggested the consignment was being transported out of Ghana to Nigeria. [@12]
