@@ -53,6 +53,11 @@ sources:
     publisher: The Crime Info
     date: 2026-11-04
     language: hi
+  - title: 'Bhopal news: 1 kg charas seized from a young man''s bag on a bus, Govindpura Police and NCB joint operation'
+    url: https://yashbharat.co.in/large-consignment-of-narcotics-seized-from-a-bus-in-bhopal-one-kilogram-of-charas-cannabis-resin-recovered-from-a-young-mans-bag-in-a-joint-operation-by-the-govindpura-police-and-the-ncb-the-s/
+    publisher: Yash Bharat
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article gives Wednesday evening as the interception time without a separate calendar date; 4 November 2026 is the publication date and is used as the incident date.
   - The English account spells the accused's first name as Sheezan and once as Shizan, while the Hindi account uses Shizan; Sheezan is used here.
@@ -65,17 +70,24 @@ open_questions:
   - The article gives no separate calendar date for the interception; 4 November 2026 is its publication date and is used as the incident date.
   - The only page image is captioned as a symbolic graphic design, which does not establish that it shows this seizure, so no media entry is included.
   - The same article also briefly describes separate Gautam Nagar and Nazirabad ganja arrests that belong to other reports and are left out here.
+  - The page's only still image has no caption or credit establishing that it shows this seizure, so no media entry is included for it.
+media:
+  - kind: video
+    url: https://yashbharat.co.in/large-consignment-of-narcotics-seized-from-a-bus-in-bhopal-one-kilogram-of-charas-cannabis-resin-recovered-from-a-young-mans-bag-in-a-joint-operation-by-the-govindpura-police-and-the-ncb-the-s/
+    media_url: https://yashbharat.co.in/wp-content/uploads/2026/11/VID-20261104-WA0076.mp4
+    publisher: Yash Bharat
+    caption: Video embedded in the report of the bus interception in Bhopal; the page gives no caption or credit.
 ---
 
 A joint team of Govindpura Police and the Narcotics Control Bureau arrested a
 young man travelling on a passenger bus with around one kilogram of hashish.
-[@1,3] On Wednesday evening the bus was stopped near Govindpura Police Station and
+[@1,3,4] On Wednesday evening the bus was stopped near Govindpura Police Station and
 the passengers were checked. [@1] The accused was identified as 25-year-old
 Sheezan Khan, a resident of Kerala. [@1] After the operation the accused was
 handed over to the NCB for further investigation and questioning. [@2]
 
-Officers found around one kilogram of hashish in his bag. [@1] Police estimated
-the seized hashish was worth around Rs 30 lakh in the international market. [@1]
+Officers found around one kilogram of hashish in his bag. [@1,4] Police estimated
+the seized hashish was worth around Rs 30 lakh in the international market. [@1,4]
 Preliminary investigation suggests he had hidden the hashish in his bag so that
 no one would suspect him during the journey. [@1]
 
@@ -84,10 +96,10 @@ narcotics were being smuggled on passenger buses. [@1] During that campaign
 police received information that a young man was travelling by passenger bus
 from Delhi to Hyderabad carrying hashish. [@1,3] Interrogation revealed that the
 accused had boarded a bus from Delhi and was travelling to Hyderabad carrying
-the narcotics. [@2] Govindpura TI Awadhesh Singh Tomar said the NCB team was
+the narcotics. [@2,4] Govindpura TI Awadhesh Singh Tomar said the NCB team was
 questioning the accused. [@1] Investigators are trying to establish where he
-obtained the hashish and to whom he was to deliver it in Hyderabad. [@1]
+obtained the hashish and to whom he was to deliver it in Hyderabad. [@1,4]
 Investigators are also examining whether the accused was linked to a large
-narcotics trafficking network or was supplying the hashish alone. [@1]
+narcotics trafficking network or was supplying the hashish alone. [@1,4]
 
 Officers took the accused off the bus at the ISBT with help from Govindpura police and found the charas in his rucksack. [@3] The account describes this as the fourth such interception at the ISBT within a month. [@3] The narcotics team took him into custody for questioning about his main supplier and left for Delhi with him. [@3]
