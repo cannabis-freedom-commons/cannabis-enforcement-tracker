@@ -67,6 +67,16 @@ sources:
     publisher: Tilannemedia
     date: 2026-11-06
     language: fi
+  - title: Poliisi paljasti laajan kannabiksen kasvatuksen Keski-Suomessa – takavarikoidun aineen arvo katukaupassa jopa 370 000 euroa
+    url: https://www.ksml.fi/paikalliset/9927186
+    publisher: Keskisuomalainen
+    date: 2026-11-04
+    language: fi
+  - title: Kamala luonto 7.11.2026
+    url: https://www.ksml.fi/teemat/9935598
+    publisher: Keskisuomalainen
+    date: 2026-11-07
+    language: fi
 open_questions:
   - No figure for the number of cannabis plants taken was published, and no split between the plants and the cannabis material within the more than 20 kilos is given.
   - The article gives no exact date for the searches; only summer 2026 is stated, so 6 November 2026, the publication date, is used as the incident date.
@@ -78,20 +88,22 @@ open_questions:
   - The Yle and Rikosuutiset accounts both reproduce the same Central Finland police statement, so they are not independent reporting.
   - The text gives a number of plants ("2026 found plants") but the figures have no plants_destroyed; check whether it belongs there.
   - The page image is a close-up of a police emblem, not a photo of this cultivation, so no media entry is included.
+  - Keskisuomalainen's article is paywalled after its opening paragraphs, so only its headline and first lines could be read; details of the investigation beyond the roughly one-year period and the up-to-370,000-euro street value remain behind the subscription.
+  - The submitted comic-strip page itself reports no cannabis event; it only links to a Keskisuomalainen news item dated 4 November 2026, whose own article page (ksml.fi/paikalliset/9927186) carries the headline quoted here.
 ---
 
 Police suspect five men from Central Finland of aggravated drug offences
 committed in 2025 and 2026, and say they found a large-scale cannabis
-cultivation. [@1] Officers arrested the suspects in summer 2026, and three of
+cultivation. [@1,6] Officers arrested the suspects in summer 2026, and three of
 them remain held on remand. [@1] At the same time police searched buildings
 controlled by the suspects and an industrial hall. [@1,4]
 
 The searches led police to seize cannabis plants and potent cannabis material
 weighing more than 20 kilograms in total. [@1] Police put the street value of
-the cannabis at about 240,000 to 370,000 euros. [@1] Detective chief inspector
+the cannabis at about 240,000 to 370,000 euros. [@1,5] Detective chief inspector
 Ari Rutanen, who led the investigation, said police believe at least two crops
 had been harvested before the searches. [@1] Police suspect the cultivation and
-sale lasted about a year. [@1] The growing took place on several properties in
+sale lasted about a year. [@1,5] The growing took place on several properties in
 Äänekoski, Viitasaari and Saarijärvi in Central Finland. [@1,4] Rutanen said the
 amount suggests the operation was professional and that cannabis was grown for
 sale as well. [@1] The growing used old residential properties in remote areas.
