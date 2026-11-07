@@ -42,8 +42,9 @@ tags: [navirai, prf, truck, rifles, paraguay-route]
 media:
   - kind: photo
     url: https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/30/prf-apreende-mais-de-6-toneladas-de-maconha-e-quatro-fuzis-escondidos-em-carga-de-sementes-na-br-163.ghtml
+    media_url: https://s2-g1.glbimg.com/P8MgRADMeZ2llISNq4V4pjbF0zQ=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/2/bB6Ru4TZqSOQMwvWtBJA/kmhhj-kjmnj-.png
     publisher: g1 (Polícia Rodoviária Federal)
-    caption: "Seized rifles and bales in the truck at the PRF post (PRF)."
+    caption: "PRF composite of seized rifles and marijuana bales on a seed truck at the Naviraí post (PRF via g1)."
 open_questions:
   - No second outlet could be opened for this seizure; the account below is the only one verified.
   - The investigation at the Federal Police in Naviraí was still open.

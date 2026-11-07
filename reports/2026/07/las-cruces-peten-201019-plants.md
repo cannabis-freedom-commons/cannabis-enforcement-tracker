@@ -56,10 +56,10 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://mingob.gob.gt/wp-content/uploads/2026/07/d063ee38-749a-44d1-ab3a-c5ca8839200a.jpeg
-    archived: https://web.archive.org/web/20260801104018/https://mingob.gob.gt/wp-content/uploads/2026/07/d063ee38-749a-44d1-ab3a-c5ca8839200a.jpeg
+    url: https://prensa.gob.gt/comunicado/fuerzas-de-seguridad-erradican-mas-de-200-mil-plantas-de-marihuana
+    media_url: https://mingob.gob.gt/wp-content/uploads/2026/07/d063ee38-749a-44d1-ab3a-c5ca8839200a.jpeg
     publisher: Ministerio de Gobernación
-    caption: An aerial view of uniformed people standing in a partly cleared field of tall cannabis plants.
+    caption: "Aerial view of uniformed personnel in a partly cleared field of tall cannabis plants (Ministerio de Gobernación)."
 ---
 
 The Guatemalan army, the public prosecutor's office and SGAIA, the

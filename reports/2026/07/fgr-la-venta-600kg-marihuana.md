@@ -22,8 +22,9 @@ figures:
 media:
   - kind: photo
     url: https://tabasco.quadratin.com.mx/justicia/vinculado-a-proceso-sujeto-detenido-con-600-kg-de-marihuana-en-la-venta
+    media_url: https://tabasco.quadratin.com.mx/wp-content/uploads/2026/07/FGR-marihuana-La-Venta-01.jpeg
     publisher: Quadratín Tabasco
-    caption: Prosecutor's (FGR) photos of the seized packages and the pickup truck, published with the report
+    caption: "FGR officers open metal containers of packaged marijuana from the La Venta seizure (Quadratín Tabasco / FGR)."
 created_by_model: alibaba-token-plan/qwen3.8-flash
 details:
   activity: [smuggling, trafficking]

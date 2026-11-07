@@ -32,8 +32,9 @@ data_sources:
 media:
   - kind: photo
     url: https://freedom.fr/coup-de-filet-a-bras-panon-156-kg-de-cannabis-saisis-sur-le-littoral-grace-a-la-vigilance-citoyenne/
+    media_url: https://freedom.fr/wp-content/uploads/2026/08/762404796_1756074365728090_739419794330011912_n.webp
     publisher: Free Dom
-    caption: The seized cannabis sacks and packages displayed in front of a gendarmerie 'Zéro Drogue' poster.
+    caption: "Seized cannabis sacks displayed before a Réunion gendarmerie Zéro Drogue banner (Free Dom)."
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [reunion, zamal, bras-panon, mauritius]

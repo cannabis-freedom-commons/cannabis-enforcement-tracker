@@ -21,9 +21,10 @@ figures:
   kg_seized: 0.967
 media:
   - kind: photo
-    url: https://cdn.anhor.uz/migrated/wp/360648/original.webp
+    url: https://anhor.uz/uzl/news/urganchda-shokoladga-yashirilgan-gashish/
+    media_url: https://cdn.anhor.uz/migrated/wp/360648/original.webp
     publisher: Anhor
-    caption: Hashish packets removed from chocolate wrappers in Khorezm. Still from SSS video via Anhor
+    caption: "Hashish packets removed from chocolate brownie wrappers in Khorezm (Anhor / SSS video still)."
 details:
   agency_types: [customs]
   case_stage: investigation

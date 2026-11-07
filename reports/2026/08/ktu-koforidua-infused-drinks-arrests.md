@@ -22,10 +22,6 @@ figures:
   arrested: 10
 media:
   - kind: photo
-    url: https://nukunya.com/wp-content/uploads/2026/08/NACOC-arrests-KTU-students.jpg
-    publisher: Nukunya
-    caption: 'Night stall selling palm wine at the KTU event; NACOC Ghana watermark. Photo: NACOC Ghana via Nukunya'
-  - kind: photo
     url: https://chale.news/cannabis-in-ice-cream-and-sobolo-10-held-at-ktu-student-party/
     media_url: https://images.chale.news/images/c6ac8dc86774d70c.jpg
     publisher: 'Chale News (photo: MyJoyOnline)'
@@ -62,6 +58,7 @@ open_questions:
   - The source of the cannabis used in the drinks and ice cream is unknown.
   - No weight or value for the seized cannabis and infused products was published.
   - >-
+  - Nukunya published a NACOC-watermarked night-stall photo of the same KTU operation without a separate direct media_url entry here.
     No formal charges had been announced in the opened reports; the suspects were assisting NACOC with
     investigations.
   - >-

@@ -33,12 +33,9 @@ data_sources:
 media:
   - kind: photo
     url: https://www.poskotasumatera.com/2026/08/kebun-jadi-lokasi-transaksi-ganja-tiga.html
+    media_url: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilQS7uWzsOHXa-ttVO3qV_Y48Pp4-ewbIlR7IYPg5dU77IVUN1iJZ363WvxAV-lIh0w0MFaAJOgxnWFKYcS6jzbHukJSWpb9D-Rdfux3PaZMEEtxHfnjUA9tY2A-mW2j1lXz1OMpa468Wt7MY9sGu8wgMfiVqM74rTzz1By3J0aKsvg_ORB0K7XR_d5bU/w1200-h630-p-k-no-nu/1000994123.jpg
     publisher: Poskota Sumatera
-    caption: The three arrested men with police officers and the seized cannabis parcels displayed on a table.
-  - kind: photo
-    url: https://www.waspada.id/berita/polres-agara-amankan-3-pelaku-dan-ganja-708-82-gram
-    publisher: Waspada.id
-    caption: 'The three suspects. Photo: Waspada/Seh Muhammad Amin'
+    caption: "Three arrested men with seized cannabis parcels displayed during booking (Poskota Sumatera)."
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [aceh, aceh-tenggara, ganja, arrest, seizure]
@@ -57,6 +54,7 @@ open_questions:
   - Poskota Sumatera's opening sentence dates the arrests to Saturday 29 August 2026, while its body and Waspada.id give Thursday 27 August 2026; the report uses 27 August.
   - The reports do not say whether the three men have been charged or when they will appear in court.
   - No street value was given for the 708.82 grams of cannabis.
+  - Waspada.id published additional suspect photos of the same Aceh Tenggara case without a separate direct media_url entry here.
 ---
 
 Three men were arrested in a resident's garden in Desa Makmur Jaya, Darul

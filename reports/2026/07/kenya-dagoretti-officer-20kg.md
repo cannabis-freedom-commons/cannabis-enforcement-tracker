@@ -20,9 +20,10 @@ figures:
   kg_seized: 20
 media:
   - kind: photo
-    url: https://peopledaily.digital/wp-content/uploads/2026/07/CANNABIS-BAG-500x532.jpg
+    url: https://www.the-star.co.ke/news/2026-07-24-cop-arrested-suspected-20kg-cannabis-recovered
+    media_url: https://peopledaily.digital/wp-content/uploads/2026/07/CANNABIS-BAG-500x532.jpg
     publisher: People Daily
-    caption: 'Six yellow-taped bales seized in the raid. Photo: NPS via People Daily'
+    caption: "Six yellow-taped bales seized in the raid. Photo: NPS via People Daily"
 details:
   agencies: [ke-nps]
   agency_types: [police]

@@ -27,9 +27,10 @@ data_sources:
   figures.kg_seized: [1, 2]
 media:
   - kind: photo
-    url: https://peopledaily.digital/wp-content/uploads/2026/07/dci-finds-2-500x425.jpg
+    url: https://capitalfm.africa/dci-busts-sh3-3mn-cannabis-haul-after-dramatic-highway-chase/
+    media_url: https://peopledaily.digital/wp-content/uploads/2026/07/dci-finds-2-500x425.jpg
     publisher: People Daily
-    caption: 'Sacks of seized cannabis in the car boot. Photo: DCI via People Daily'
+    caption: "Sacks of seized cannabis in the car boot. Photo: DCI via People Daily"
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [highway-chase, nissan-note, dci, nakuru]
