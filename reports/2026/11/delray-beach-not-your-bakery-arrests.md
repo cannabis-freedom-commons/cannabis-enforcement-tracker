@@ -1,19 +1,18 @@
 ---
 code: Q32R09
 added_at: "2026-11-04T04:16:42.18693Z"
-date: 2026-10-28
+date: 2026-11-07
 country: us/fl
 place: Delray Beach, Palm Beach County, Florida
 coordinates: [26.4615, -80.0728]
 precision: locality
 type: arrest
 also: [prosecution]
-title: 2 arrested in Delray Beach THC firm money-laundering case
-summary: >-
-  Palm Beach County deputies arrested Not Your Bakery executives Casey Anne Smith and Hassan Mohamed Soueid over alleged high-THC sales and laundering of about $33 million. Investigators say illicit proceeds bought about $2.7 million in Florida property, including a Boynton Beach home and a Pompano Beach condo.
+title: Not Your Bakery CEO held without bond in Delray Beach THC case
+summary: Michael Carey Ives, 33, the CEO of Delray Beach hemp company Not Your Bakery LLC, was arrested on 11 felony counts in the Palm Beach County Sheriff's Office THC case and held without bond on five money-laundering and fraud counts. Co-defendants Casey Anne Smith, Hassan Mohamed Soueid and Jonathan Enaldo Zelaya were already named in the same investigation.
 figures:
-  arrested: 2
-  charged: 2
+    arrested: 1
+    charged: 1
 media:
   - kind: photo
     url: https://therealdeal.com/miami/2026/10/29/drug-money-allegedly-paid-for-south-florida-real-estate/
@@ -21,16 +20,23 @@ media:
     publisher: The Real Deal
     caption: 'Hassan Soueid and Casey Ann Smith with 4950 Glenn Pine Lane and 1300 South Ocean Boulevard. Photo: Palm Beach County Sheriff''s Office, Google Maps, Getty via The Real Deal'
 details:
-  activity: [money]
-  case_stage: charged
-  products: [{product: flower}]
-  setting: [home]
+    activity: [sale, money]
+    case_stage: charged
+    products: [{product: flower}]
+    setting: [home]
+    agencies: [Palm Beach County Sheriff's Office]
+    agency_types: [police]
+    charges: ['money laundering over $100,000', 'conspiracy to commit organized fraud over $50,000', selling a Schedule I controlled substance]
 data_sources:
-  details.activity: [1, 2, 3]
-  details.case_stage: [1, 3]
-  details.products: [4, 2, 1]
-  details.setting: [2, 1]
-  figures.charged: [1, 3]
+    details.activity: [5]
+    details.case_stage: [5]
+    details.products: [4, 2, 1]
+    details.setting: [2, 1]
+    figures.charged: [5]
+    details.agencies: [5]
+    details.agency_types: [5]
+    details.charges: [5]
+    figures.arrested: [5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: de5285033fc519389eab7b196334504f
@@ -52,6 +58,10 @@ sources:
     url: https://bocapost.com/delray-beach-news/pompano-beach-man-charged-pbso-money-laundering-delray-beach-thc-company/
     publisher: Boca Post
     date: 2026-10-31
+  - title: NOT YOUR BAKERY CEO ARRESTED, HELD WITHOUT BOND IN THC PROBE
+    url: https://bocanewsnow.com/2026/11/07/not-your-bakery-ceo-arrested-held-without-bond-in-thc-probe/
+    publisher: BocaNewsNow.com
+    date: 2026-11-07
 open_questions:
   - The incident date uses Soueid's Oct. 28 booking, the latest arrest step; the submitted article was published Oct. 29 and gives no separate date for the investigation steps.
   - No cannabis weight was published for this arrest case, so no kilograms are recorded.
@@ -59,6 +69,9 @@ open_questions:
   - Dollar amounts of about $33 million in alleged laundering and about $2.7 million in property describe alleged financial proceeds, not a cannabis valuation, so no value is recorded.
   - Records reviewed did not show whether co-defendants Michael Carey Ives and Jonathan Enaldo Zelaya had been arrested.
   - One outlet calls the products highly concentrated marijuana while other accounts call them hemp-derived products with intoxicating THC above the hemp limit; the report uses the shared description of high-THC and THC products.
+  - The article gives no separate date for Ives' arrest or booking; 7 November 2026, its publication date and the date it says he was held, stands in for the incident date.
+  - No plea, court date or cannabis weight is reported for Ives' arrest.
+  - The 11 counts are listed as five money laundering, fraud and related counts held without bond plus six other counts; the article does not itemise all 11.
 ---
 
 Four people are suspects in the investigation. [@1] Hassan Mohamed Soueid and
@@ -93,3 +106,4 @@ Oklahoma and Texas and says the company repackaged hemp and THC products under
 its own brand before distributing them. [@2] The affidavit also lists Michael
 Carey Ives, 33, and Jonathan Enaldo Zelaya, 31, as co-defendants. [@4]
 
+Michael Carey Ives, 33, the CEO of Delray Beach hemp company Not Your Bakery LLC, faces 11 felony counts in the Palm Beach County Sheriff's Office case and was held without bond on five money-laundering and fraud counts. [@5] The charges against Ives include money laundering over $100,000, conspiracy to commit organized fraud over $50,000 and selling a Schedule I controlled substance. [@5] Ives was held without bond on five of the money laundering charges as of early Saturday, 7 November. [@5]
