@@ -63,6 +63,11 @@ sources:
     publisher: Diário de Coimbra
     date: 2026-11-06
     language: pt
+  - title: Detidos quatro suspeitos e apreendidas 1,1 toneladas de haxixe na costa alentejana
+    url: https://www.cmjornal.pt/portugal/detalhe/detidos-quatro-suspeitos-e-apreendidas-1-1-toneladas-de-haxixe-na-costa-alentejana
+    publisher: Correio da Manhã
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
@@ -98,3 +103,5 @@ international cooperation body against trafficking by sea. [@2]
 The four detainees are aged between 16 and 43 and are foreign nationals. [@3] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3]
 
 The operation was run by the PJ's National Unit to Combat Drug Trafficking (UNCTE) and the GNR's Coastal and Border Control Unit (UCCF). [@5] Police said the action followed the identification of a suspect high-value vessel crewed by several unidentified people whose presence near the Portuguese coast was unjustified. [@5]
+
+All four suspects were placed in pre-trial detention after a first judicial interrogation on Friday. [@6]
