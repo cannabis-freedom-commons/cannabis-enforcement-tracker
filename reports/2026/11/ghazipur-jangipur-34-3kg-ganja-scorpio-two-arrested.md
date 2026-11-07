@@ -52,11 +52,18 @@ sources:
     publisher: Purvanchal News
     date: 2026-11-07
     language: hi
+  - title: Two held in Ghazipur with 34kg ganja
+    url: https://timesofindia.indiatimes.com/city/varanasi/two-held-in-ghazipur-with-34kg-ganja/articleshow/135642658.cms
+    publisher: The Times of India
+    date: 2026-11-07
 open_questions:
   - The article gives no date for the check and arrests; 7 November 2026 is its publication date and is used as the incident date.
   - Only one opened account of this event was found, and no police statement or second outlet report could be located to confirm the weight and the vehicle.
   - No count of the ganja packets, no information on where the ganja was to be sold, and no charge sheet or court outcome were reported.
   - The place is recorded as Ghazipur district because the article names no village or road for the Arsadpur crossing beyond the Jangipur police station area.
+  - The Times of India gives no date beyond 'Saturday'; 7 November 2026 is its publication date and the existing report's incident date.
+  - The Times of India names the location as the Arsadpur tri-junction, while the earlier Hindi report called it the Arsadpur crossing; the two are treated as the same spot.
+  - The Times of India counts the seized vehicle only as an SUV and does not name a case number or charges.
 ---
 
 Jangipur station officer Om Prakash and sub-inspector Pannelal Yadav, with their
@@ -64,8 +71,8 @@ team, arrested two men during a check at the Arsadpur crossing in Ghazipur
 district. [@1]
 
 Officers seized 34 kg 300 g of illegal ganja from them, which police estimated
-to be worth 1,715,000 rupees. [@1] The two were travelling in a Scorpio, which
-police also took possession of. [@1]
+to be worth 1,715,000 rupees. [@1,2] The two were travelling in a Scorpio, which
+police also took possession of. [@1,2]
 
 Police said the two arrested men live in Gorakhpur district, at Mughalpura alias
 Muhammadabad village under Pipraich station and at Amrud Mandi, Rajghat, under
@@ -75,3 +82,4 @@ A case, number 238/26, was registered at Jangipur police station under section
 8/20 of the NDPS Act, India's Narcotic Drugs and Psychotropic Substances Act,
 and further legal proceedings were under way. [@1]
 
+Police said the SUV tried to evade the vehicle check and was chased and intercepted after a brief pursuit. [@2]
