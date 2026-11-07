@@ -87,6 +87,10 @@ sources:
     url: https://www.yahoo.com/news/articles/over-100-marijuana-plants-seized-155153247.html
     publisher: Yahoo News (KLFY Lafayette)
     date: 2026-11-06
+  - title: Over 100 marijuana plants seized in Evangeline Parish
+    url: https://www.yahoo.com/news/videos/over-100-marijuana-plants-seized-180837510.html
+    publisher: Yahoo News (KLFY Lafayette)
+    date: 2026-11-06
 open_questions:
   - The arrest date is not given; deputies arrested the man “later on”, after the 2 November search, so 2 November is the raid date and not necessarily the arrest date.
   - The 971 grams is described only as marijuana; no source separates plants from dried product or says what of the 132 plants was uprooted rather than taken.
@@ -105,7 +109,7 @@ open_questions:
 
 Deputies of the Evangeline Parish Sheriff’s Office searched a camper and three
 greenhouses at 1058 Vasseur Lane in Mamou on 2 November 2026, after a 10 October
-tip that a greenhouse there held a large amount of marijuana. [@1,2,3,5] The owner,
+tip that a greenhouse there held a large amount of marijuana. [@1,2,3,5,6] The owner,
 42-year-old Jimmy Lynn Wilson, was the sole resident of the camper and land and
 was not there during the search. [@1]
 
