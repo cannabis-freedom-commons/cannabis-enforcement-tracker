@@ -98,6 +98,10 @@ sources:
     publisher: Modern Ghana
     date: 2026-11-06
     language: en
+  - title: Newsfile to discuss Traffitech-GH fines, drug busts and Parliament's continued absence of Asante Akyem North MP - MyJoyOnline
+    url: https://www.myjoyonline.com/newsfile-to-discuss-traffitech-gh-fines-drug-busts-and-parliaments-continued-absence-of-asante-akyem-north-mp/
+    publisher: MyJoyOnline
+    date: 2026-11-06
 open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
   - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
@@ -121,6 +125,8 @@ open_questions:
   - The MyJoyOnline page photo has no caption or credit and its alt text reads only "Ada", so it cannot be established to show this seizure and no media entry is added.
   - Modern Ghana describes the consignment only as being transported out of Ghana and names no destination country, while 3News and MyJoyOnline report the boats were bound for Nigeria.
   - Modern Ghana reproduces the Navy's Facebook statement without additional independent reporting and gives no weight confirmed by laboratory testing.
+  - This preview gives approximately 4.8 tonnes while the existing report keeps 4.7 tonnes from the Navy statement and other outlets.
+  - The page is a programme preview with a single sentence on this seizure and gives no sack count, arrests, laboratory confirmation or seizure date beyond the fresh interception framing.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
@@ -131,7 +137,7 @@ than 80 parcels. [@2,3,4,7,8] The occupants spotted the approaching naval patrol
 abandoned both vessels and their cargo, and fled. [@1,3,4,6,7]
 
 The Navy estimated the cargo at about 4.7 tonnes and put its street value at
-more than US$1 million. [@1,3,4,9] No one was arrested, and the sacks remain
+more than US$1 million. [@1,3,4,9,10] No one was arrested, and the sacks remain
 classified as suspected narcotics pending laboratory testing. [@2,7] Preliminary
 intelligence indicated the consignment was being prepared for export out of
 Ghana. [@2,3,7]
@@ -150,7 +156,7 @@ March and 59 sacks found on 19 July. [@2]
 
 Ghana Navy personnel found the two wooden vessels concealed along the banks of the Volta Lake estuary at about 1:00 a.m., roughly 200 metres from the Talibet Bridge. [@4,5] Naval personnel searched the vessels at about 5:00 a.m. in the presence of officials from the Narcotics Control Commission, finding the 117 sacks. [@4,5] The individuals behind the shipment abandoned the boats and remain at large, and the Navy warned those financing or facilitating drug trafficking that operations would continue. [@4,5]
 
-According to the Navy account, the boats were in the preparatory stages of being used to transport the narcotics to Nigeria when they were intercepted. [@5,6]
+According to the Navy account, the boats were in the preparatory stages of being used to transport the narcotics to Nigeria when they were intercepted. [@5,6,10]
 
 The items burned at the Bundase Military Training Camp on Thursday included 564.39 kilogrammes of cannabis valued at US$112,878. [@7]
 
