@@ -58,6 +58,11 @@ sources:
     publisher: Daryo.uz
     date: 2026-11-05
     language: uz
+  - title: 'Совместный оперативный рейд в Шафиркане: из-под земли изъято 2,8 кг «марихуаны» (видео)'
+    url: https://zamin.uz/ru/obshchestvo/226520-sovmestnyy-operativnyy-reyd-v-shafirkane-iz-pod-zemli-izyato-2-8-kg-marikhuany-video.html
+    publisher: Zamin.uz
+    date: 2026-11-06
+    language: ru
 open_questions:
   - The articles give no separate date for the search; 5 November 2026 is Daryo's publication date and is used as the incident date.
   - No arrest, detention or charge against a named suspect was reported, so no arrested or charged figure is recorded; a criminal case was opened and the investigation continues.
@@ -65,19 +70,20 @@ open_questions:
   - No street value, plant count or number of people involved in distribution was published.
   - Zamin.uz says the marijuana was hidden 'by the owners' but identifies only one suspect whose home was searched; the number of people involved is unclear.
   - Daryo says it publishes two photos from the Customs Committee, but only one distinct image address could be recovered from its page markup.
+  - The Russian page names the district as Shafirkan (Шафирканский район) rather than the Shofirkon used in the existing report; the article numbers on both Zamin.uz language editions are the same, so this is treated as a transliteration difference for the same district.
+  - The Russian page carries a video tag in its headline but no playable video address could be recovered, so no video entry is added.
 ---
 
 Officers searched a home in Shofirkon district, Bukhara region, and found 2
-kilograms 875 grams of marijuana buried under the house foundation. [@1] The
+kilograms 875 grams of marijuana buried under the house foundation. [@1,3] The
 Customs Committee said the search was carried out before witnesses in the home
 of a citizen who had been placed under surveillance. [@2] The drugs had been dug
 into the underground part of the foundation. [@2]
 
 The operation was carried out jointly by the State Customs Committee, the State
-Security Service and the interior affairs agencies. [@1] The officers
+Security Service and the interior affairs agencies. [@1,3] The officers
 photographed the substance and seized it as physical evidence. [@1]
 
 Customs authorities opened a criminal case under articles of Uzbekistan's
-Criminal Code. [@1] Investigators are still trying to establish where the drug
+Criminal Code. [@1,3] Investigators are still trying to establish where the drug
 came from and who else may have been involved in distributing it. [@1]
-
