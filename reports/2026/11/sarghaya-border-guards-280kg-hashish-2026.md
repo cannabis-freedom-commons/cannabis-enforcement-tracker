@@ -88,6 +88,11 @@ sources:
     publisher: Lebanon Debate
     date: 2026-11-06
     language: ar
+  - title: من لبنان إلى سرغايا.. مطاردة نارية تنتهي بضبط أطنان المخدرات ومحاولة هروب فاشلة
+    url: https://www.almjhar.com/ar-sy/NewsView/2212/312000/%D9%85%D9%86_%D9%84%D8%A8%D9%86%D8%A7%D9%86_%D8%A5%D9%84%D9%89_%D8%B3%D8%B1%D8%BA%D8%A7%D9%8A%D8%A7_%D9%85%D8%B7%D8%A7%D8%B1%D8%AF%D8%A9_%D9%86%D8%A7%D8%B1%D9%8A%D8%A9_%D8%AA%D9%86%D8%AA%D9%87%D9%8A_%D8%A8%D8%B6%D8%A8%D8%B7_%D8%A3%D8%B7%D9%86%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA_%D9%88%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9_%D9%87%D8%B1%D9%88%D8%A8_%D9%81%D8%A7%D8%B4%D9%84%D8%A9.aspx
+    publisher: تحت المجهر
+    date: 2026-11-06
+    language: ar
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -108,16 +113,16 @@ open_questions:
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
 Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
-the Sarghaya area of the Damascus countryside. [@1,4,6,7]
+the Sarghaya area of the Damascus countryside. [@1,4,6,7,8]
 
 The ministry said the smugglers opened fire on the Syrian force during the
-operation and that the force returned fire. [@1,3,4,6,7] The gunmen then fled towards
-Lebanese territory, the ministry said. [@2,4,6,7] The state news agency SANA reported
+operation and that the force returned fire. [@1,3,4,6,7,8] The gunmen then fled towards
+Lebanese territory, the ministry said. [@2,4,6,7,8] The state news agency SANA reported
 that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1,3,4,6,7] The seized items were
+confiscated, according to the ministry statement. [@1,3,4,6,7,8] The seized items were
 referred to the competent authorities to complete legal procedures. [@1,3,4]
 
 The Defence Ministry media office announced the operation on Friday 6 November
