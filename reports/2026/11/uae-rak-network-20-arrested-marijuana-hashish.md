@@ -44,6 +44,11 @@ media:
     media_url: https://media.almashhad.com/storage/attachments/5555/1793959990800TztJbwebp-1793959990800_highres.webp
     publisher: قناة ومنصة المشهد
     caption: A table of the seized items from the 20-suspect network, captioned in Arabic as varied quantities of cocaine, crystal, marijuana, hashish and Spice; the page credits the image only to X (Twitter).
+  - kind: photo
+    url: https://sana.sy/international/2627742/
+    media_url: https://cdn.sananews.sy/2026/11/8011664.webp
+    publisher: الوكالة العربية السورية للأنباء – سانا
+    caption: The page's main picture, captioned with the headline about the UAE seizing an international drug-smuggling network of 20 people; the page carries the emblem of the UAE National Anti-Narcotics Agency rather than a scene of the seizure, and gives no credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 046f618050dae4ea03e407090bc5a422
@@ -101,6 +106,11 @@ sources:
     publisher: أخبار اليوم
     date: 2026-11-06
     language: ar
+  - title: الإمارات تضبط شبكة دولية لتهريب المخدرات تضم 20 شخصاً
+    url: https://sana.sy/international/2627742/
+    publisher: الوكالة العربية السورية للأنباء – سانا
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -116,27 +126,30 @@ open_questions:
   - The Iraqi agency's account attributes the announcement to the UAE Interior Ministry and credits the UAE state news agency WAM, and gives no date for the arrests or the interception itself.
   - The submitted page gives no separate weight or value for the marijuana or hashish; the more than 30 kg figure covers cocaine, crystal, marijuana, hashish and Spice together.
   - The page gives no date for the interception or arrests; 6 November 2026 is its publication date and stands in for the incident date.
+  - The article gives no separate weight or street value for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
+  - The article gives no date for the arrests or interception; 6 November 2026 is its publication and announcement date.
+  - The article attributes its details to the UAE state news agency WAM and adds no independent account.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
-6 November 2026. [@1,6,7,8,9,10,11] The suspects are described as holding Gulf, Arab, African
+6 November 2026. [@1,6,7,8,9,10,11,12] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
 link of the plan, from smuggling to preparation for dealing. [@1,6,10]
 
 Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
-surveillance, Shafaq News reported. [@4,5,8,10,11] The network planned to bring the drugs
+surveillance, Shafaq News reported. [@4,5,8,10,11,12] The network planned to bring the drugs
 in through a border area of Ras Al Khaimah and then distribute them around the
-country. [@1,8,9,10]
+country. [@1,8,9,10,12]
 
 The haul included marijuana and hashish among cocaine, crystal methamphetamine
 and Spice; the latter is a synthetic drug and is not counted as cannabis here.
-[@2,9,10,11] The operation also seized 200,000 Captagon pills and more than 30 kg of
-drugs in total, with no separate figure given for the cannabis. [@3,11]
+[@2,9,10,11,12] The operation also seized 200,000 Captagon pills and more than 30 kg of
+drugs in total, with no separate figure given for the cannabis. [@3,11,12]
 
 The National Anti-Narcotics Agency ran the operation with Ras Al Khaimah Police,
 Iraq's General Directorate for Narcotics and Psychotropic Substances and the
-Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10,11]
+Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10,11,12]
 The agency said the operation struck a blow at trafficking networks and called
 on the public to report suspicious activity. [@1]
