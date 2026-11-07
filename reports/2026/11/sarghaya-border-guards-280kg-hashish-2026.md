@@ -118,6 +118,11 @@ sources:
     publisher: Agence Arabe Syrienne de Presse – SANA
     date: 2026-11-07
     language: fr
+  - title: حرس الحدود السوري يحبط تهريب 280 كيلوغراماً من الحشيش و28 ألف حبة كبتاغون من لبنان
+    url: https://emirates24.net/international/0711/127967/
+    publisher: الإمارات 24
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -151,21 +156,23 @@ open_questions:
   - The UA.NEWS page gives no separate incident date beyond its 7 November 2026 publication time, and attributes the statement to border forces generally, crediting The National and SANA rather than naming the Defence Ministry.
   - The page is dated 7 November 2026 but attributes the announcement to Friday 6 November 2026, matching the existing report's account that the ministry announced the operation that day.
   - This French SANA edition reproduces the same Defence Ministry statement as the Arabic SANA page already cited, so it adds no independent confirmation of the official figures.
+  - The Emirates 24 account restates SANA's report of the Defence Ministry statement and adds no independent confirmation.
+  - The page's lead picture carries only the headline as its caption with no credit, so it is not established to show the Sarghaya operation and no media entry is added.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
 Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
-the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10,11]
+the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10,11,14]
 
 The ministry said the smugglers opened fire on the Syrian force during the
-operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12,13] The gunmen then fled towards
+operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12,13,14] The gunmen then fled towards
 Lebanese territory, the ministry said. [@2,4,6,7,8,9,11,12,13] The state news agency SANA reported
 that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13] The seized items were
-referred to the competent authorities to complete legal procedures. [@1,3,4,11,12,13]
+confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13,14] The seized items were
+referred to the competent authorities to complete legal procedures. [@1,3,4,11,12,13,14]
 
 The Defence Ministry media office announced the operation on Friday 6 November
 2026, and SANA published the statement the same evening. [@2,5]
@@ -177,3 +184,5 @@ The Defence Ministry said the confiscated items were referred to the competent a
 The account says the operation took place before dawn on Saturday 7 November 2026, the day of its publication. [@11]
 
 The UA.NEWS account, credited to The National, repeats the same hashish weight but gives no additional figure, arrest or court step. [@12]
+
+The page places the operation in the context of a roughly 375-kilometre Syrian-Lebanese border with mountainous terrain and valleys that it says eases smuggling. [@14] The page attributes the announcement to Friday, 6 November 2026, and carries an Emirates 24 publication time of 05:00 UAE time on Saturday 7 November 2026. [@14]
