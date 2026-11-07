@@ -66,6 +66,10 @@ sources:
     url: https://www.balkanweb.com/en/shkoder-sekuestrohen-rreth-77-kg-kanabis-arme-dhe-municione-ne-pranga-dy-vellezer-ne-kerkim-djali-i-njerit-prej-tyre/
     publisher: Balkanweb.com
     date: 2026-11-07
+  - title: Shkodra/ About 77 kg of cannabis, weapons and ammunition seized! Two brothers in handcuffs, son of one of them wanted – Balkanweb.com - News24
+    url: https://www.balkanweb.com/en/Shkoder%3A-Around-77-kg-of-cannabis--weapons-and-ammunition-seized--two-brothers-in-handcuffs--son-of-one-of-them-wanted/
+    publisher: Balkanweb.com
+    date: 2026-11-07
 open_questions:
   - The sources give no separate day for the searches and arrests; 7 November 2026 is the police announcement and publication date, used as the incident date.
   - The 77 kg figure is the police's rounded total; it consists of the 10 kg from the first home and about 66.8 kg from the second.
@@ -78,11 +82,12 @@ open_questions:
   - The accompanying page image is captioned as showing the seized cannabis and weapons, but its content could not be checked beyond that caption, so no separate photos are listed.
   - 'Left out, as its quotation was not found in Shqiptarja.com: Shkodër police arrested two brothers, aged 49 and 57, in the act as they closed the operation they coded Polinomi 2, a follow-up to the Polinomi operation staged days earlier in the same district.'
   - Balkanweb gives only its publication date of 7 November 2026; it states no separate day for the searches and arrests.
+  - This English page is Balkanweb's translation of its own Albanian article already cited, so it is not independent of the police statement.
 ---
 
 Officers searched the 49-year-old's home in Abat and found 10 kg of suspected
 cannabis sativa, while the search of the 57-year-old's home in Grudë e Re
-produced about 66.8 kg of the same drug packed in bags. [@1,5] The 57-year-old's
+produced about 66.8 kg of the same drug packed in bags. [@1,5,6] The 57-year-old's
 home search also turned up a pistol with loaded magazines, a pneumatic rifle,
 combat and hunting ammunition, weapon accessories, a metal baton, two two-way
 radios, an electronic scale and three optical devices. [@1]
@@ -92,7 +97,7 @@ earlier Polinomi operation. [@2] The 57-year-old's 24-year-old son was declared
 wanted, and police said work continues to catch him. [@2] The police said the
 operation followed four months of investigations using proactive methods by the
 Shkodër police directorate's narcotics sector, under the direction of the
-prosecutor's office. [@2]
+prosecutor's office. [@2,6]
 
 The procedural materials were sent to the prosecutor's office at the Court of
 First Instance of General Jurisdiction in Shkodër. [@4,5] Voxnews put the total at
