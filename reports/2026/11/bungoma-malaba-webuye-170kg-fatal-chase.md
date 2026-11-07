@@ -67,6 +67,15 @@ sources:
     url: https://www.tv47.digital/motorcyclist-killed-in-police-pursuit-as-162-bales-of-bhang-recovered-in-webuye-167818/
     publisher: TV47 Digital
     date: 2026-11-04
+  - title: Police recover narcotics worth Ksh5.1M in Bungoma, Busia crackdown
+    url: https://peopledaily.digital/news/police-recover-narcotics-worth-ksh5-1m-in-bungoma-busia-crackdown
+    publisher: People Daily
+    date: 2026-11-04
+  - title: Polisi wanasa mihadarati Bungoma na Busia
+    url: https://swahili.kbc.co.ke/polisi-wanasa-mihadarati-bungoma-na-busia/
+    publisher: KBC Swahili
+    date: 2026-11-04
+    language: sw
 open_questions:
   - The articles give no separate date for the ambush, chase and seizure; 4 November 2026 is the publication date and is used as the incident date.
   - The fleeing driver was not named and no arrest, charge or court outcome was reported.
@@ -76,6 +85,9 @@ open_questions:
   - The submitted page carries several seizure-related photos without captions or credits, so no depicted photo can be confirmed to show this seizure and no new media entry is added.
   - 'Left out, as its quotation was not found in TV47 Digital: The motorcyclist, identified as Muzungu Munialo, sustained fatal injuries in the collision.'
   - 'Left out, as its quotation was not found in TV47 Digital: Detectives also recovered an additional number plate, registration number KF2 8588, from the back seat, which investigators suspect was intended to conceal the vehicle''s identity.'
+  - No weight or street value was published for the two bales recovered in the Busia County motorcycle operation, so the 170.8 kg figure covers only the Bungoma vehicle haul.
+  - The source does not say whether the two bales from the motorcycle were cannabis, describing only green dry material suspected to be narcotics.
+  - The source gives no separate circumstances of the death of the motorcyclist in the chase, which other outlets reported.
 media:
   - kind: photo
     url: https://www.the-star.co.ke/news/2026-11-04-fatal-crash-exposes-sh51m-cannabis-haul-in-abandoned-suv
@@ -87,6 +99,11 @@ media:
     media_url: https://cdn.radioafrica.digital/image/2026/11/0b2a5f3d-aae5-4386-bf4e-5db8fc15574.webp
     publisher: The Star
     caption: The white Mazda CX-5 involved in the fatal crash on the Malaba-Webuye road.
+  - kind: photo
+    url: https://peopledaily.digital/news/police-recover-narcotics-worth-ksh5-1m-in-bungoma-busia-crackdown
+    media_url: https://peopledaily.digital/wp-content/uploads/2026/11/Narcotics-seized-in-Bungoma-and-Busia-e1793767425918-768x528.jpg
+    publisher: People Daily
+    caption: 'Part of the narcotics seized during the separate police operations in Bungoma and Busia counties on 3 November 2026, published by People Daily from the National Police Service account on X. Photo: @NPSOfficial_KE/X'
 ---
 
 The driver of a white Mazda CX-5 abandoned the vehicle and escaped after a
@@ -103,7 +120,7 @@ behind the suspected trafficking operation. [@1,4]
 
 A detailed search at the police station uncovered 162 bales of cannabis wrapped
 in yellow adhesive tape, weighing 170.8 kilogrammes with an estimated street
-value of Sh5,124,000. [@1] The 162 bales are separately described as cannabis
+value of Sh5,124,000. [@1,8] The 162 bales are separately described as cannabis
 wrapped in yellow cellotape with an estimated street value of 5,124,000
 shillings. [@2,3,4,5,6,7] Detectives also recovered an additional number plate,
 registration number KF2 8588, from the back seat, which investigators suspect
@@ -116,6 +133,8 @@ alongside DCI Webuye West officers, intercepted the white Mazda CX-5 suspected
 of transporting narcotic drugs. [@1,4] Detectives had laid an ambush along the
 Malaba-Webuye road following credible intelligence about the vehicle,
 registration number KDY 338F. [@1,3,5,7] When the Mazda approached, the driver
-reportedly spotted the detectives and sped off, triggering the chase. [@1,2,4,5,6,7] The
+reportedly spotted the detectives and sped off, triggering the chase. [@1,2,4,5,6,7,8] The
 Mazda was towed to a police station for a comprehensive examination before the
 cannabis was found. [@1,4]
+
+In a separate operation, police on patrol along the Bundokomi-Mundika road in Busia County stopped a motorcycle carrying two green sacks, and the rider abandoned it and escaped. [@8] A search there recovered two bales wrapped in yellow cellotape containing green dry material suspected to be narcotics, with no weight or street value disclosed. [@8] The abandoned vehicle and motorcycle, with the recovered substances, were handed over to the National Anti-Narcotics Investigations Bureau in Bungoma and Busia, and a manhunt was launched for the fleeing suspects. [@9]
