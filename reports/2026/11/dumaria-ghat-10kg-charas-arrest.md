@@ -110,6 +110,11 @@ sources:
     publisher: Lalluram
     date: 2026-11-07
     language: hi
+  - title: 'बिहार: प्रदेश में नशे की बड़ी खेप पकड़ी गई, बस से 10 किलो चरस बरामद; डीआरआई खंगाल रही नेटवर्क'
+    url: https://www.amarujala.com/bihar/muzaffarpur/muzaffarpur-bihar-news-dri-team-arrest-international-drugs-paidler-with-drugs-consignment-muzaffarpur-news-c-1-1-noi1376-4915142-2026-11-07
+    publisher: अमर उजाला
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The incident date of 5 November 2026 is inferred because the reports published on 6 November 2026 say the Dumaria Ghat arrest happened on Thursday.
   - The same articles report a separate Purnia operation in which a woman was held with 61 grams of smack and a motorcycle; smack is not cannabis, so that seizure, vehicle and arrest are excluded from this cannabis report.
@@ -142,13 +147,18 @@ open_questions:
   - The page attributes the joint team to the DRI's Muzaffarpur unit and the STF and does not separately name the DRI's Patna unit recorded in the existing report.
   - The page gives only its 7 November 2026 publication date and no separate date for the interception; the existing report dates it to 5 November 2026.
   - 'The page carries no photo of the seizure: its only image is an uncaptioned headline thumbnail not established to show this consignment or the arrested man.'
+  - The page gives no separate date for the bus interception, and 5 November 2026 is the date established with the existing report; this page was published on 7 November 2026.
+  - The page credits the operation to the DRI's Muzaffarpur unit alone, whereas the STF statement named in other accounts describes a joint STF and DRI operation with the DRI's Patna and Muzaffarpur units.
+  - The page gives the weight as about 10 kg rather than a measured packet total, and states no number of packets.
+  - The page's only image is an uncaptioned photograph published with the story; it is not established to show this consignment, so no media entry is added.
+  - The page names no charge section or case number beyond the arrest on trafficking suspicion, and gives no next court date.
 ---
 
 A joint team of the Bihar Police Special Task Force and the Directorate of
 Revenue Intelligence's Patna and Muzaffarpur units arrested Rajesh Sahni on
 Thursday in the Dumaria Ghat police station area of East Champaran district.
-[@1,4,6,7,8,9,10,12] Officers seized 10 kg of charas from him and valued the consignment at
-about Rs 10 crore. [@2,3,5,6,7,12] Officers also recovered a mobile phone and Rs 2,320 in
+[@1,4,6,7,8,9,10,12,14] Officers seized 10 kg of charas from him and valued the consignment at
+about Rs 10 crore. [@2,3,5,6,7,12,14] Officers also recovered a mobile phone and Rs 2,320 in
 cash from him. [@3,6] Sahni is a resident of East Champaran district, according to
 the STF account released on Friday. [@3]
 
@@ -172,3 +182,5 @@ The joint team that stopped the man in East Champaran and seized the 10 kg of ch
 The charas was said to have been brought from Nepal and was to be carried by bus to Gujarat, with the trafficker travelling through Basti in Uttar Pradesh towards Patan district. [@12,13] The arrested trafficker was identified as Rajesh Kumar Sahni, a resident of Bairiya in the Kesaraiya police station area of East Champaran. [@12,13]
 
 Officers acted on an intelligence input and raided the area jointly, detaining the trafficker at Dumaria Ghat. [@13]
+
+Sahni is a resident of Bairiya village in the Kesaraiya police station area of East Champaran district. [@14]
