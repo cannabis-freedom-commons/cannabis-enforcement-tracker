@@ -201,6 +201,11 @@ sources:
     publisher: My Marathi
     date: 2026-11-07
     language: mr
+  - title: 'Live Update : मुंबईतील लोकमान्य टिळक टर्मिनसवर प्रवाशांची मोठी गर्दी'
+    url: https://www.aaplamahanagar.com/maharashtra/live-update-maharashtra-weather-update-maharashtra-maharashtra-politics-maharashtra-political-news-breaking-news-mumbai-mumbai-news-cm-devendra-fadnavis-deputy-cm-eknath-shinde-deputy-cm-sunetra-pa-22/1025319/
+    publisher: Aapla Mahanagar
+    date: 2026-11-07
+    language: mr
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -259,6 +264,7 @@ open_questions:
   - The Economic Times item is a short video summary that gives no interception date, flight, arrest or court details, and no weight in grams beyond the 10.642 kg figure.
   - The video's cover image is a headline composite rather than a confirmed photograph of this seizure, so no media entry is added.
   - The item does not say which Customs office or officers carried out the interception.
+  - The live-update page lists the Pune airport seizure item without a separate date beyond its position in the 7 November 2026 roundup, so it is treated as a restatement of the 4 November seizure, not a second incident.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
@@ -275,7 +281,7 @@ vacuum-sealed black polythene to mask detection. [@2,8,10,11,12,22,23,24] On ope
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2,11,12,16,19,23] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20,21,23,25,27]
+crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20,21,23,25,27,30]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1,8,12,13,16,19,23] The passenger was arrested and
