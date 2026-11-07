@@ -48,6 +48,11 @@ media:
     media_url: https://image.hkhl.hk/f/1024p0/0x0/100/none/86faa3f4a6b828f320fb3d4f18822c7c/2026-11/299FC339CE01485485E32376B8845F84_O.jpg
     publisher: 星島頭條
     caption: 'Suspected cannabis buds found in the hand luggage of the 54-year-old arrested mainland woman, as released by Hong Kong Customs. Photo: Hong Kong Customs'
+  - kind: photo
+    url: https://news.rthk.hk/rthk/ch/component/k2/1876867-20261106.htm
+    media_url: https://newsstatic.rthk.hk/images/mfile_1876867_1_L_20261106195004.jpg
+    publisher: 香港電台 RTHK
+    caption: 'Suspected cannabis buds found in the hand luggage of one of the two arrested mainland women, as released by Hong Kong Customs. Photo: Government Information Services (政府新聞處)'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: c620dfb3a82b4e19fe4955dc28c9a089
@@ -77,6 +82,11 @@ sources:
     publisher: 商業電台 881903
     date: 2026-11-06
     language: zh
+  - title: 海關機場檢約140萬元懷疑大麻花　兩名內地女子被捕
+    url: https://news.rthk.hk/rthk/ch/component/k2/1876867-20261106.htm
+    publisher: 香港電台 RTHK
+    date: 2026-11-06
+    language: zh
 open_questions:
   - The weight is given as about 7 kg in total and about 3.5 kg for each woman; no exact figure was published.
   - The drug is described as suspected cannabis buds, with no laboratory confirmation reported.
@@ -88,14 +98,14 @@ open_questions:
 ---
 
 Hong Kong Customs arrested two mainland Chinese women, aged 50 and 54, at Hong
-Kong International Airport on 6 November 2026. [@1,4,5] Both women had arrived that
+Kong International Airport on 6 November 2026. [@1,4,5,6] Both women had arrived that
 day on flights from Bangkok, Thailand. [@1,4,5] During customs clearance, officers
 found about 3.5 kg of suspected cannabis buds in each woman's carry-on baggage,
-and arrested them on the spot. [@3,4,5] The two seizures together came to about 7 kg
+and arrested them on the spot. [@3,4,5,6] The two seizures together came to about 7 kg
 of suspected cannabis buds, which Customs estimated to be worth about HK$1.4
-million. [@2,4,5]
+million. [@2,4,5,6]
 
-Both cases were still under investigation, and no charge had been reported. [@1,4,5]
+Both cases were still under investigation, and no charge had been reported. [@1,4,5,6]
 Customs said it would keep selecting travellers from high-risk regions for
 clearance checks and step up enforcement against drug trafficking using
 intelligence analysis. [@2,4] Under the Dangerous Drugs Ordinance, trafficking in
