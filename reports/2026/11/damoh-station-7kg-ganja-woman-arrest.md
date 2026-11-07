@@ -48,6 +48,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-07
     language: hi
+  - title: दमोह रेलवे स्टेशन पर GRP का एक्शन, 7 किलो गांजे के साथ ओडिशा की महिला गिरफ्तार
+    url: https://www.mpbreakingnews.in/damoh/damoh-railway-station-woman-arrested-with-7kg-ganja-by-grp-938490
+    publisher: MP Breaking News
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives no separate date for the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - The ganja weight is given as about 7 kg, not an exact measured figure.
@@ -57,23 +62,25 @@ open_questions:
   - Only one source was found for this event; searches in Hindi and English produced no agency statement or second outlet account.
   - The children who travelled with her are not described as accused, and the article does not say who is caring for them.
   - The page's only picture shows GRP officers questioning a woman and is credited to Dainik Bhaskar; it is linked, not copied.
+  - No figure was published for the value of the ganja seized.
+  - The woman is not named, and no charge sheet or court outcome is reported yet.
+  - The article's only picture is a general nighttime railway scene captioned only with Damoh, not established to show this seizure, so no media entry is included.
 ---
 
 Government Railway Police officers from Sagar arrested a 40-year-old woman at
-Damoh railway station with about 7 kg of ganja, or cannabis. [@1] The woman had
+Damoh railway station with about 7 kg of ganja, or cannabis. [@1,2] The woman had
 brought the ganja from Baudh district in Odisha to sell in Madhya Pradesh, and
-she travelled with two children. [@1]
+she travelled with two children. [@1,2]
 
 Acting on a tip from an informer, the railway police cordoned off the station
 and searched her pitthu, a backpack carried on the back, where the ganja was
-found. [@1] She was to supply the ganja in Damoh, and after the search she was
-arrested and taken to the GRP police station. [@1] Police registered a case and
+found. [@1,2] She was to supply the ganja in Damoh, and after the search she was
+arrested and taken to the GRP police station. [@1,2] Police registered a case and
 began questioning her. [@1]
 
 In questioning the woman admitted that she had earlier sold ganja in Katni and
-other places in Madhya Pradesh. [@1] Police produced her before a court and took
+other places in Madhya Pradesh. [@1,2] Police produced her before a court and took
 her on remand, and are now seeking information on the smuggling network, its
-suppliers and other associates. [@1] GRP station in-charge H.L. Chaudhary said
+suppliers and other associates. [@1,2] GRP station in-charge H.L. Chaudhary said
 the woman had been taken on remand for questioning about the trafficking network
-and others involved in the ganja supply. [@1]
-
+and others involved in the ganja supply. [@1,2]
