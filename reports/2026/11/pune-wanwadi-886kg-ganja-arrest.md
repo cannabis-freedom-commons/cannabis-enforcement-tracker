@@ -47,6 +47,11 @@ sources:
     publisher: Pune Prime News
     date: 2026-11-07
     language: mr
+  - title: पुणे पोलिसांच्या अंमली पदार्थ विरोधी पथकाची मोठी कारवाई! फरार आरोपीसह अवैध दारू विक्रेता ताब्यात, ८.८६ किलो गांजा जप्त
+    url: https://puneprimenews.com/pune/pune-city/major-operation-by-the-pune-polices-anti-narcotics-cell-an-absconding-suspect-and-an-illegal-liquor-seller-taken-into-custody-8-86-kg-of-ganja-cannabis-seized/
+    publisher: Pune Prime News
+    date: 2026-11-07
+    language: mr
 open_questions:
   - Only Pune Prime News, a single local outlet, reported this operation; a police statement or second outlet could not be found.
   - The article gives no separate date for the Wanwadi trap; it says only that patrolling began on 3 November 2026, which is used as the incident date while 7 November 2026 is the publication date.
@@ -54,27 +59,27 @@ open_questions:
   - No case number, charge sections, custody decision or court outcome was published.
   - The operation also detained a man wanted in an earlier Wanwadi NDPS case and an illegal liquor seller in Kondhwa; the earlier drugs case is not detailed and the liquor arrest is a separate, non-cannabis matter.
   - The page images appear to be generic crime-desk illustrations with no captions or credits showing this seizure, and one dated August 2026, so no media entry is included.
+  - This second Pune Prime News page, published the same day as the report's cited article, gives the same operation but does not add a police statement or a second outlet; the search found none.
 ---
 
 Officers of anti-narcotics team 2 of the Pune city crime branch stopped a
 motorcycle at the New MHADA building in Gosavi Vasti, Wanwadi, and detained
-19-year-old Altaf alias Ayaz Akbar Shaikh of New MHADA colony, Hadapsar. [@1]
+19-year-old Altaf alias Ayaz Akbar Shaikh of New MHADA colony, Hadapsar. [@1,2]
 
 A search of his bag and the motorcycle's storage box found 8 kg 860 g of ganja,
-which police said was worth 4 lakh 43 thousand rupees. [@1] Police were
-registering a case at Wanwadi police station. [@1]
+which police said was worth 4 lakh 43 thousand rupees. [@1,2] Police were
+registering a case at Wanwadi police station. [@1,2]
 
 The team also detained Imran Tanveer Shaikh, 29, who police said had been on the
 run for about a year in a Narcotic Drugs and Psychotropic Substances Act case
-registered at Wanwadi police station, after a tip that he had come home. [@1]
+registered at Wanwadi police station, after a tip that he had come home. [@1,2]
 
 The same crime-branch operation detained Faiju Kadar Shaikh, 53, of Kamela,
 Kondhwa, after a raid on the illegal sale of country liquor under a pipal tree
 beside the Slater House wall in Kamela, Kondhwa, where police seized country
-liquor bottles valued at 8,110 rupees and cash. [@1]
+liquor bottles valued at 8,110 rupees and cash. [@1,2]
 
 The patrolling began on 3 November 2026 in the Kondhwa area under senior police
 inspector Jeevan Mane, with assistant police inspector Afroz Pathan leading the
 team, under additional commissioner Tejaswi Satpute, deputy commissioner Gauhar
-Hasan and assistant commissioner Shankar Khatke. [@1]
-
+Hasan and assistant commissioner Shankar Khatke. [@1,2]
