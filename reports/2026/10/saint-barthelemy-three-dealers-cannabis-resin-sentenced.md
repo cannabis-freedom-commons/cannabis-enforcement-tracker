@@ -54,6 +54,8 @@ open_questions:
   - Karib'Info calls the court the tribunal de proximité de Saint-Martin, while the other two outlets call it the criminal court of Saint-Martin and Saint-Barthélemy.
   - The submitted article says the three were in pre-trial detention for more than a month, while Le Pélican says the case was first adjourned on 16 September 2026 and the men had been held in Guadeloupe.
   - The three accounts give different drug totals and no separate street value for the cannabis resin was published.
+  - Le Journal de Saint-Barth says the 43-year-old collected bags after ferry arrivals from Saint-Martin and gave them to his landlord, while Le Pélican describes the older tenant as handling transport between the port of Gustavia and the home; the two accounts of the same leg differ in detail.
+  - The article gives the monthly rent of 3,500 euros but does not say whether it was actually paid or only offered.
 ---
 
 Three men aged 43, 37 and 21 were sentenced on 30 October 2026 by the
@@ -84,3 +86,4 @@ describes the case as directed by prosecutors from the Basse-Terre public
 prosecutor's detached Saint-Martin office, working with gendarmes of the
 Saint-Barthélemy autonomous territorial brigade. [@3]
 
+Le Journal de Saint-Barth reports that the 43-year-old was lodged by his 37-year-old co-defendant for a rent of 3,500 euros a month, dealt drugs both at home and at the island's sales points, and collected a bag after each ferry arrival from Saint-Martin to hand to the older tenant, who took part in the trade. [@1] The presiding judge told the 43-year-old, after he admitted to 'two or three things', that his statements were changing as the hearing went on. [@1]
