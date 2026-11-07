@@ -61,6 +61,11 @@ sources:
     url: https://timesofindia.indiatimes.com/city/pune/pune-airport-sees-second-major-hydroponic-weed-seizure-in-two-days-woman-held-with-3-255kg-of-substance-valued-at-rs-1-14-crore/articleshow/135619133.cms
     publisher: The Times of India
     date: 2026-11-07
+  - title: Pune Airport | बँकॉकहून आलेल्या महिलेकडून १.१४ कोटींचे हायड्रोपोनिक गांजा जप्त!
+    url: https://pudhari.news/maharashtra/pune/pune-airport-hydroponic-weed-seizure-ng81
+    publisher: Pudhari News
+    date: 2026-11-06
+    language: mr
 open_questions:
   - The woman's name, age and precise home address were not published; only that she is a Mumbai resident.
   - Rs 1.14 crore is Customs' estimated illicit-market value, not an independently confirmed price.
@@ -68,18 +73,23 @@ open_questions:
   - No charge sheet, custody order or court outcome was reported; the case was at the investigation stage.
   - Whether the woman knowingly carried the consignment is not established; an official only said it prima facie appeared she was handed the bag.
   - The page photo carries no credit and its original photographer is not stated.
+  - Pudhari describes the substance as a dried powder rather than the floral tops the existing report and other outlets describe, though both identify it as hydroponic cannabis.
+  - Pudhari dates the operation to the evening of Thursday 5 November but does not give a separate date for the arrest.
+  - Pudhari gives no name, age or charge section, and no court or remand outcome for the woman.
+  - The page photograph carries only the headline as its caption and no credit, so it is not treated as a confirmed picture of this seizure.
+  - The article's related-news list includes other separate Pune airport seizures, which are not part of this case.
 ---
 
 Officers of the Air Intelligence Unit and Airport Batch of Pune Customs
 intercepted an Indian woman arriving from Bangkok at Pune International Airport
-on the evening of 5 November 2026. [@1] She had flown in on Air India Express
+on the evening of 5 November 2026. [@1,3] She had flown in on Air India Express
 flight IX-291 and was stopped on passenger profiling and suspicious scanning of
-her check-in baggage. [@1] The woman, a Mumbai resident, was arrested and
+her check-in baggage. [@1,3] The woman, a Mumbai resident, was arrested and
 further investigation was under way. [@2]
 
 Officers searching her check-in trolley bag found specially fabricated false
 cavities behind the inner lining on both sides and recovered two rectangular
-slab-shaped packets wrapped in three layers of vacuum-sealed black plastic. [@1]
+slab-shaped packets wrapped in three layers of vacuum-sealed black plastic. [@1,3]
 A Narcotic Drug Field Testing Kit confirmed the substance was marijuana, also
 known as ganja or hydroponic weed. [@1] Customs seized the consignment, weighing
 3.255 kilograms, under the NDPS Act, 1985, and estimated its illicit-market
@@ -91,3 +101,4 @@ before her arrival in Pune. [@2] Customs said the repeated seizures indicated a
 possible rise in demand for hydroponic weed in Pune and nearby cities, including
 ahead of Diwali. [@2]
 
+The packets held an orange-green dried powder with a strong pungent odour, and a testing machine identified it as high-grade hydroponic cannabis. [@3] Pune Customs is investigating who else took part in the smuggling and whom the cannabis was being brought for. [@3]
