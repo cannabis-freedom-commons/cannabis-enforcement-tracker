@@ -42,11 +42,20 @@ sources:
     publisher: Dinamalar
     date: 2026-11-05
     language: ta
+  - title: 'கஞ்சா பறிமுதல்: 3 போ் கைது'
+    url: https://www.dinamani.com/all-editions/edition-villupuram/cuddalore/2026/Nov/06/ganja-seized-3-arrested
+    publisher: தினமணி
+    date: 2026-11-06
+    language: ta
 open_questions:
   - Only one source for this arrest was found after searching in Tamil.
   - No charges, court production or remand details were published.
   - The value of one lakh rupees is the police's own estimate for the 1.4 kg seized.
   - The page's lead image is captioned only as Latest Tamil News and the other images are unrelated sidebar thumbnails, so no media entry is included.
+  - Dinamani gives the ganja as about 1 kg 300 g while the report records Dinamalar's figure of 1.4 kg; the report keeps the 1.4 kg figure, and neither outlet explains the difference.
+  - Dinamani says the three were sent to judicial remand after the case was registered at Annamalai Nagar police station; Dinamalar reported no remand, and no charge sheet or later court step was published.
+  - Dinamani's only photo is an arrest illustration from its image library captioned கைது, not established to show this seizure, so no media entry is added.
+  - No street value was published by Dinamani; the one lakh rupees figure remains Dinamalar's police estimate.
 ---
 
 Chidambaram special-branch officers arrested three men they found standing
@@ -58,8 +67,9 @@ Deventhiran, 24, son of Sekar of Thachan Street in Kumaramangalam near
 NakkaravandanKudi, Chidambaram. [@1]
 
 Officers found the men had packed 1.4 kg of ganja, the local term for cannabis,
-for sale. [@1] Police valued the seized ganja at one lakh rupees. [@1] Annamalai
+for sale. [@1,2] Police valued the seized ganja at one lakh rupees. [@1] Annamalai
 Nagar police registered a case, arrested all three and seized the ganja. [@1]
 
 Officers are searching for two people who supplied the men with the ganja. [@1]
 
+Chidambaram special-branch officers under assistant inspector Suresh Murugan stopped the three youths at the Kadavacheri cremation ground during a surprise check on Thursday evening. [@2] Besides the ganja, Annamalai Nagar police seized a motorcycle from the three and sent them to judicial remand. [@2]
