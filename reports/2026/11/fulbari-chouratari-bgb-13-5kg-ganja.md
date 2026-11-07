@@ -78,7 +78,7 @@ Indian ganja in a special operation at Chouratari in Fulbari upazila, Kurigram,
 on the night of Thursday, 5 November 2026. [@1] The operation began at 8:10 pm,
 when a patrol from the Balarhat border outpost set up a sudden checkpoint on
 intelligence information under the battalion's ongoing “Operation Narcotics
-Strike”. [@1] No one was arrested: Probashir Diganta reported the cannabis was
+Strike”. [@1,2] No one was arrested: Probashir Diganta reported the cannabis was
 found abandoned, and none of the accounts names a detainee. [@3]
 
 BGB valued the seized cannabis at about Tk 47,250. [@2] BGB said it was
@@ -86,3 +86,4 @@ collecting information to identify the smugglers behind the consignment and that
 legal action against them was under way. [@1] The facts were announced in a
 press release from 15 BGB on Friday, 6 November. [@2]
 
+Lieutenant Colonel Mehedi Imam, commander of 15 BGB, said the force would firmly resist smuggling, drug trafficking, illegal entry and attempts to push people across the border. [@2] Mehedi Imam also said intelligence surveillance and patrols had been strengthened in sensitive border areas and that operations against smuggling and drugs would continue. [@2]
