@@ -25,6 +25,11 @@ media:
     media_url: https://www.mobtada.com/resize?src=uploads/images/2026/10/20261031_010828901_0_MkhtG1.jpg&w=750&h=450&zc=0&q=70
     publisher: مبتدا
     caption: 'Photo captioned "the accused" with the Mobtada report on the Alexandria street hashish arrests. Photo: مبتدا'
+  - kind: photo
+    url: https://darelhilal.com/News/3339163.aspx
+    media_url: https://darelhilal.com/Media/News/2026/11/7/2026-639296542196056533-605.jpg
+    publisher: دار الهلال
+    caption: Page picture of the case, captioned only "الواقعة" (the incident) with no credit; it is not established to show this seizure or the two men.
 details:
   activity: [trafficking, possession]
   agency_types: [police, prosecutor]
@@ -143,6 +148,11 @@ sources:
     publisher: إخباري 24 نيوز
     date: 2026-11-05
     language: ar
+  - title: ضبط عاطلين بالإسكندرية بحوزتهما مخدر الحشيش بعد تداول فيديو لترويجه وتعاطيه بأحد الشوارع
+    url: https://darelhilal.com/News/3339163.aspx
+    publisher: دار الهلال
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
   - Neither report gives the weight of the hashish found with the employee or with the supplier.
@@ -179,14 +189,20 @@ open_questions:
   - It says the motorcycle was identified and that its licences were valid, but it does not say the motorcycle was seized, unlike the existing report.
   - It gives no weight for the hashish and names none of the three men.
   - The page image is hosted on elbalad.news and is captioned only with the section and time, so it was not established as a photo of this seizure and was not added as media.
+  - دار الهلال describes both men as unemployed from the First Montazah police district, while the other accounts describe the two filmed as a company employee and a delivery worker, with the First Montazah man being their supplier.
+  - دار الهلال says both admitted holding hashish for use and for trafficking, while the other accounts say the two filmed admitted use only and the supplier admitted trafficking.
+  - The page gives 30 October as the date the two said they committed the offence but no date for their arrest; that date is used as the incident date after the existing report's publication-date basis.
+  - No weight is given for the hashish found with the two men, and no charges or court outcome are reported.
+  - The page picture is captioned only "الواقعة" with no credit, so it is not established to show this seizure or the two men.
+  - The Dar El Hilal account is undated apart from its 7 November publication time and is the only account read for this submission that describes both men as unemployed.
 ---
 
 The case began with a social-media post, backed by a video, in which the person
 who published it complained about two men, one of them riding a motorcycle,
-using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19] Egypt's Interior Ministry said its
+using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,21] Egypt's Interior Ministry said its
 security services identified and arrested the pair and seized the motorcycle,
-which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18] The two were a company employee and a
-delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20]
+which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21] The two were a company employee and a
+delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21]
 
 Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] Questioned, the two admitted the
 offence and said they held the drugs to use them. [@1,3,4,5,6,7,8,9,10,12,13,15,16,17,18,20] The employee said he had
@@ -194,7 +210,7 @@ obtained the hashish from an unemployed man with a criminal record living in the
 First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20]
 
 The ministry said no reports had been filed about the incident before the video
-spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18] The public prosecution has taken over the investigation.
+spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21] The public prosecution has taken over the investigation.
 [@2,3,4,7,8,9,10,13,16,17,18,20]
 
 The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20]
@@ -202,3 +218,5 @@ The unemployed man arrested as the supplier was found with hashish and admitted 
 Alexandria prosecutors ordered the employee and the delivery worker held for four days pending investigation and ordered the seized drugs held and sent to the chemical laboratory for examination. [@14]
 
 The Montazah prosecution in Alexandria ordered the three accused held for four days pending investigation on charges of drug use and possession of hashish for use and trafficking. [@19]
+
+The two arrested men admitted committing the offence on 30 October and holding the drugs for both use and trafficking, the only account that reports an admission to trafficking by both. [@21]
