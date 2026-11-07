@@ -15,7 +15,7 @@ figures:
   kg_seized: 6778.5
 details:
   activity: [trafficking]
-  agencies: [ng-ndlea]
+  agencies: [ng-ndlea, ca-rcmp]
   agency_types: [anti-narcotics]
   date_precision: exact
   products: [{product: flower, kg: 6778.5}]

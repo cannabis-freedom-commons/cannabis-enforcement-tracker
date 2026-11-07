@@ -16,7 +16,7 @@ figures:
   arrested: 10
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
-  agencies: [int-europol]
+  agencies: [int-europol, es-policia-nacional]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact

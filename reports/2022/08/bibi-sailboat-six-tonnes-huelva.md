@@ -30,7 +30,7 @@ media:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [smuggling, trafficking]
-  agencies: [es-vigilancia-aduanera]
+  agencies: [es-vigilancia-aduanera, gb-nca]
   agency_types: [customs]
   case_stage: investigation
   products:

@@ -15,7 +15,7 @@ figures:
   arrested: 1
   kg_seized: 4
 details:
-  agencies: [Chennai Customs, my-pdrm]
+  agencies: ["Chennai Customs", my-pdrm, in-ncb]
   agency_types: [customs, anti-narcotics]
   products:
     - {product: flower, kg: 4}

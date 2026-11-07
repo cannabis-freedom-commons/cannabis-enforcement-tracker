@@ -14,7 +14,7 @@ summary: >-
 figures:
   kg_seized: 4168
 details:
-  agencies: [Morocco's National Judicial Police Brigade (BNPJ), General Directorate for Territorial Surveillance (DGST)]
+  agencies: ["Morocco's National Judicial Police Brigade (BNPJ)", "General Directorate for Territorial Surveillance (DGST)", ma-dgsn]
   agency_types: [police]
   products:
     - {product: hashish, kg: 4168}

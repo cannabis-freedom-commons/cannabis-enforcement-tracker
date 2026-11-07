@@ -19,7 +19,7 @@ figures:
   kg_seized: 12000
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
-  agencies: [es-vigilancia-aduanera]
+  agencies: [es-vigilancia-aduanera, fr-douane]
   agency_types: [customs]
   case_stage: investigation
   date_precision: exact

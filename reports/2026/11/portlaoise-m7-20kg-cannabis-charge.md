@@ -19,7 +19,7 @@ figures:
     amount: 280000
     currency: EUR
 details:
-  agencies: [An Garda Síochána (Laois Drugs Unit and Laois Roads Policing Unit)]
+  agencies: [ie-garda]
   agency_types: [police, anti-narcotics]
   products:
     - {product: flower, kg: 20}
@@ -29,7 +29,7 @@ details:
   date_precision: exact
   region: Laois
 data_sources:
-  details.agencies: [3]
+  details.agencies: [1, 3]
   details.agency_types: [3]
   details.case_stage: [3]
   details.charges: [3]

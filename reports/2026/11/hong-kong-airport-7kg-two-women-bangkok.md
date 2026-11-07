@@ -18,7 +18,7 @@ figures:
     amount: 1400000
     currency: HKD
 details:
-  agencies: [Hong Kong Customs and Excise Department]
+  agencies: [hk-customs]
   agency_types: [customs]
   products:
     - {product: flower, kg: 7}

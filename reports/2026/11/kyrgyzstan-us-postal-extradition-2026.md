@@ -31,7 +31,7 @@ media:
     caption: 'Interior Ministry photo published with the report on the extradited suspect’s alleged parcels. Photo: Ministry of Internal Affairs'
 details:
   activity: [smuggling, trafficking]
-  agencies: [int-interpol]
+  agencies: [int-interpol, us-dea]
   agency_types: [police]
   products: [{product: flower}]
   route: {from: [us], to: [kg]}

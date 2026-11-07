@@ -18,7 +18,7 @@ figures:
     amount: 25000000
     currency: CLP
 details:
-  agencies: [Servicio Nacional de Aduanas, 'DIPOLMAR, Armada de Chile', 'OS-7, Carabineros de Chile', Fiscalía SACFI de Valparaíso]
+  agencies: ["Servicio Nacional de Aduanas", "DIPOLMAR, Armada de Chile", cl-carabineros, "Fiscalía SACFI de Valparaíso"]
   agency_types: [customs, coast-guard, police, prosecutor]
   products:
     - {product: oil, kg: 0.251}

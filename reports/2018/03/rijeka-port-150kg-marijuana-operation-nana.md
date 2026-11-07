@@ -16,7 +16,7 @@ figures:
   kg_seized: 150
 details:
   activity: [smuggling, trafficking]
-  agencies: [int-europol]
+  agencies: [int-europol, us-dea]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact

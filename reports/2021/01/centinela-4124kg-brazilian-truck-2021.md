@@ -15,7 +15,7 @@ figures:
   vehicles: 1
   kg_seized: 4124
 details:
-  agencies: [Gendarmería Nacional Argentina]
+  agencies: [ar-gna]
   agency_types: [gendarmerie]
   products:
     - {product: flower, kg: 4124}

@@ -19,7 +19,7 @@ figures:
   plants_destroyed: 1670
 details:
   activity: [cultivation]
-  agencies: [int-europol]
+  agencies: [int-europol, it-gdf]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact

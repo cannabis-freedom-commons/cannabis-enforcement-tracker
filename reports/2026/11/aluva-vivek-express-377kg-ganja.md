@@ -17,7 +17,7 @@ figures:
     amount: 1900000
     currency: INR
 details:
-  agencies: [Railway Protection Force]
+  agencies: ["Railway Protection Force", in-excise]
   agency_types: [police]
   products:
     - {product: flower, kg: 37.7}
@@ -29,7 +29,7 @@ details:
   region: Kerala
 data_sources:
   details.activity: [1]
-  details.agencies: [1]
+  details.agencies: [1, 5, 6, 7, 8, 9]
   details.agency_types: [1]
   details.case_stage: [1]
   details.charges: [1]

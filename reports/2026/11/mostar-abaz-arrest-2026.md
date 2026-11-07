@@ -16,7 +16,7 @@ figures:
   prison: 6 years
 details:
   activity: [trafficking]
-  agencies: [Herzegovina-Neretva Canton Ministry of the Interior (MUP HNK), Court of Bosnia and Herzegovina]
+  agencies: ["Herzegovina-Neretva Canton Ministry of the Interior (MUP HNK)", "Court of Bosnia and Herzegovina", int-interpol]
   agency_types: [police, court]
   date_precision: exact
   products:

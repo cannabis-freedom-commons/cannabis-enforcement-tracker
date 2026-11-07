@@ -20,7 +20,7 @@ figures:
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [trafficking, possession]
-  agencies: [es-guardia-civil, es-vigilancia-aduanera, int-europol]
+  agencies: [es-guardia-civil, es-vigilancia-aduanera, int-europol, fr-douane]
   agency_types: [gendarmerie, customs, police]
   case_stage: investigation
   products: [{product: hashish, kg: 1902}]

@@ -16,7 +16,7 @@ figures:
     amount: 1000000
     currency: BRL
 details:
-  agencies: [Força Integrada de Combate ao Crime Organizado (FICCO/SP), Tático Ostensivo Rodoviário (TOR)]
+  agencies: ["Força Integrada de Combate ao Crime Organizado (FICCO/SP)", "Tático Ostensivo Rodoviário (TOR)", br-pf]
   agency_types: [police]
   products:
     - {product: flower, kg: 549.6}
@@ -27,7 +27,7 @@ details:
   region: São Paulo
 data_sources:
   details.activity: [2]
-  details.agencies: [1]
+  details.agencies: [1, 2]
   details.agency_types: [1]
   details.case_stage: [2]
   details.products: [2]

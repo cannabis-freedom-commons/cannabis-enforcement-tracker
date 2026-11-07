@@ -18,7 +18,7 @@ figures:
   kg_seized: 1620
 details:
   activity: [trafficking, cultivation, sale]
-  agencies: [py-senad]
+  agencies: [py-senad, us-dea]
   agency_types: [anti-narcotics]
   case_stage: investigation
   environment: [outdoor]

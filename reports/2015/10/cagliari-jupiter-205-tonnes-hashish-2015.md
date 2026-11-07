@@ -20,7 +20,7 @@ figures:
   value: { amount: 200000000, currency: EUR }
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
-  agencies: [it-gdf, int-europol]
+  agencies: [it-gdf, int-europol, es-guardia-civil]
   agency_types: [customs, police]
   case_stage: investigation
   products:

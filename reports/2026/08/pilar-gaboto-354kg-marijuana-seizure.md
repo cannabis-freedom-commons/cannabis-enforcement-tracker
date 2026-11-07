@@ -14,7 +14,7 @@ figures:
   arrested: 0
   kg_seized: 354
 details:
-  agencies: [Prefectura Naval de Pilar, Fuerza de Tarea Conjunta (FTC) del Sur, Secretaría Nacional Antidrogas (SENAD)]
+  agencies: ["Prefectura Naval de Pilar", "Fuerza de Tarea Conjunta (FTC) del Sur", py-senad]
   agency_types: [coast-guard, military, anti-narcotics]
   date_precision: exact
   products:
