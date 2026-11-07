@@ -55,6 +55,11 @@ media:
     media_url: https://www.lenoticias.com.br/extranet/thumbnail/crop/850/Noticia/whatsapp_image_2026_11_06_at_19_1794006851174.55.42.jpeg
     publisher: Lê Notícias
     caption: 'Photo published with the BR-480 report showing the seized marijuana; the page carries no credit. Photo: Lê Notícias'
+  - kind: photo
+    url: https://clicrdc.com.br/seguranca-publica/mais-de-110-quilos-de-maconha-sao-encontrados-em-audi-paraguaio-na-br-480-em-chapeco/
+    media_url: https://files.clicrdc.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-07-at-08.50.42-768x1024-1.jpeg
+    publisher: ClicRDC
+    caption: 'PRF handout photo published with the report of the Audi marijuana seizure on the BR-480 in Chapecó. Foto: PRF'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bb21bdeedb4a001c8eb5e2ef1c56801a
@@ -85,6 +90,11 @@ sources:
     publisher: Caco da Rosa
     date: 2026-11-07
     language: pt
+  - title: Mais de 110 quilos de maconha são encontrados em Audi paraguaio na BR-480, em Chapecó
+    url: https://clicrdc.com.br/seguranca-publica/mais-de-110-quilos-de-maconha-sao-encontrados-em-audi-paraguaio-na-br-480-em-chapeco/
+    publisher: ClicRDC
+    date: 2026-11-07
+    language: pt
 open_questions:
   - The reported weight of 110.6 kg is an aggregate for the marijuana tablets found; no separate figure for packing or purity was published.
   - No charge has been formally filed and no court outcome was reported; the case was at the Federal Police station stage.
@@ -99,19 +109,23 @@ open_questions:
   - Caco da Rosa gives the location only as the BR-480 in Chapecó, so the exact point of the stop remains unrecorded.
   - Caco da Rosa does not say where the load was collected or where it was going.
   - The Caco da Rosa photo credited PRF/Divulgação appears to be the same PRF handout image as those linked from other outlets; its direct image address is now recorded in media.
+  - ClicRDC gives the same PRF account as the outlets already cited and does not say where the load was collected or where it was going.
+  - The ClicRDC photograph credited to the PRF may be the same handout already linked from other outlets, but its direct address differs from those recorded.
 ---
 
 Federal Highway Police (Polícia Rodoviária Federal, PRF) officers stopped an
 Audi with Paraguayan plates on the BR-480 in Chapecó, western Santa Catarina, on
-the afternoon of Friday 6 November 2026. [@1,4,5] Two Paraguayan men were travelling
+the afternoon of Friday 6 November 2026. [@1,4,5,6] Two Paraguayan men were travelling
 in the car. [@2] Officers said the occupants showed extreme nervousness, which
 led them to search the car in detail. [@1,3,5]
 
 In the boot and other compartments they found several tablets of marijuana
-weighing 110.6 kilograms, the figure the PRF reported. [@2,4,5] The two men were
+weighing 110.6 kilograms, the figure the PRF reported. [@2,4,5,6] The two men were
 arrested in the act (em flagrante, caught at the scene). [@1,4]
 
 Officers took them to the Federal Police station in Chapecó together with the
-car and the seized drug. [@2,3,4,5] They are to answer for the crime of international
+car and the seized drug. [@2,3,4,5,6] They are to answer for the crime of international
 drug trafficking. [@1,4,5] The accounts came from the PRF and were carried by local
 outlets in western Santa Catarina. [@2]
+
+ClicRDC publishes a PRF-credited photograph of the seized marijuana tablets found in the Audi. [@6]
