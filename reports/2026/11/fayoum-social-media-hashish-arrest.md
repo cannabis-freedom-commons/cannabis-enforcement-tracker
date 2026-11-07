@@ -44,6 +44,11 @@ media:
     media_url: https://cdn.dostor.org/media/img/large/2026/11/7/2026_11_7_14_59_45_843_2088.png
     publisher: جريدة الدستور
     caption: Al-Dostor page photo captioned "متهمين" (the accused), published with this Fayoum arrests report; no credit is given.
+  - kind: photo
+    url: http://www.sada-elarab.com/826095
+    media_url: http://www.sada-elarab.com/upload/photo/news/82/6/600x338o/95.jpg?q=2
+    publisher: صدى العرب
+    caption: Page picture published with the Fayoum arrests report, captioned only with the outlet's name and carrying no credit; it cannot be confirmed to show this arrest.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 41b519dbe5a8898640156738928fcede
@@ -69,6 +74,16 @@ sources:
     publisher: إقرأ نيوز
     date: 2026-11-07
     language: ar
+  - title: ضبط شخصين بالفيوم لإدارة صفحة على مواقع التواصل لترويج المخدرات مقابل مبالغ مالية
+    url: http://www.sada-elarab.com/826095
+    publisher: صدى العرب
+    date: 2026-11-07
+    language: ar
+  - title: ضبط شخصين بالفيوم يروجان لبيع المخدرات على مواقع التواصل
+    url: https://www.mobtada.com/crime/1667018/ضبط-شخصين-بالفيوم-يروجان-لبيع-المخدرات-على-مواقع-التواصل
+    publisher: مبتدا
+    date: 2026-11-07
+    language: ar
 open_questions:
   - No weight, value or packet count was published for the hashish found on either man, so no cannabis quantity can be recorded.
   - The article gives no date for the arrests; 7 November 2026 is its publication date and is used as the incident date.
@@ -81,23 +96,29 @@ open_questions:
   - Al-Dostor gives no weight, value or packet count for the hashish found on either man.
   - Al-Dostor's page photo is captioned only "متهمين" (the accused), with no credit, and cannot be confirmed to show this arrest rather than a recycled police handout.
   - Iqraa News relays the Interior Ministry statement and attaches its own fact-check label; it is not independent reporting on this arrest.
+  - Sad Al-Arab and Mobtada reproduce the same Interior Ministry statement as the accounts already cited, so they are not independent reporting.
+  - Mobtada's page photo is captioned only المتهمين (the accused) and is a generic police handout, so it is not linked here as a picture of this arrest.
+  - No weight, value or packet count for the hashish found on either man was published in these two accounts either.
+  - Mobtada gives no charge sheet or court outcome; the case remained with the investigation authorities.
 ---
 
 Security forces of the Fayoum Security Directorate arrested two men accused of
-running a social media page to promote drug sales for money. [@1,2,3]
+running a social media page to promote drug sales for money. [@1,2,3,5]
 
 The General Administration for Combating Information Technology Crimes, part of
 the communications and information technology sector, spotted the page together
-with the Public Security sector. [@1,2,3,4] Investigation identified the page's
+with the Public Security sector. [@1,2,3,4,5] Investigation identified the page's
 administrator as a worker living in Fayoum police centre's district, and
-officers found hashish and a mobile phone in his possession. [@1,2,3,4] Examination of
+officers found hashish and a mobile phone in his possession. [@1,2,3,4,5] Examination of
 the phone showed it held evidence confirming his criminal activity, police said.
 [@1]
 
 Faced with the findings the man confessed to running the page to promote drugs
 and identified a second man, unemployed and with prior criminal information,
-living within Second Fayoum police district, as his supplier. [@1,2,3,4] After legal
+living within Second Fayoum police district, as his supplier. [@1,2,3,4,5] After legal
 procedures were completed, officers arrested the second man and found hashish
 and a mobile phone with him. [@1,2,3,4] The second man confessed to holding the
-hashish with intent to traffic it. [@1,2,3,4] Police took the required legal measures
-against both men and notified the competent investigation authorities. [@1,2]
+hashish with intent to traffic it. [@1,2,3,4,5] Police took the required legal measures
+against both men and notified the competent investigation authorities. [@1,2,5]
+
+The second man was arrested after legal procedures were completed, according to Mobtada's account of the ministry statement. [@6]
