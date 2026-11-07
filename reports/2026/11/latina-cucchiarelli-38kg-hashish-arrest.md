@@ -58,6 +58,16 @@ sources:
     publisher: Lazio TV
     date: 2026-11-07
     language: it
+  - title: LATINA | Oltre 38 chili di hashish e quasi 15mila euro in contanti, arrestato un 25enne
+    url: https://www.mondoreale.it/2026/11/latina-oltre-38-chili-di-hashish-e-quasi-15mila-euro-in-contanti-arrestato-un-25enne/
+    publisher: Mondoreale
+    date: 2026-11-07
+    language: it
+  - title: Latina, in casa aveva 38 chili di hashish e quasi 15mila euro in contanti.
+    url: https://www.studio93.it/latina-in-casa-aveva-38-chili-di-hashish-e-quasi-15mila-euro-in-contanti
+    publisher: Radio Studio 93
+    date: 2026-11-07
+    language: it
 open_questions:
   - No date is given for the stop or the searches; 7 November 2026 is the publication date and is used as the incident date.
   - The hashish weight is given as about 38.3 kilograms and the 28 grams found at the stop as about 28 grams, so neither is an exact measured figure.
@@ -67,6 +77,8 @@ open_questions:
   - No validation hearing, plea or court outcome was reported; the man was under investigation at the time of publication.
   - Only one account could be opened; the Latina police headquarters page did not list the case, so the report rests on a single outlet.
   - The page picture shows only the headline with the 38-kilogram figure and is not established to depict the seizure itself.
+  - The hashish weight is given as about 38.3 kilograms, so it is not an exact measured figure.
+  - The seized hashish is not split between the amount found at the stop and the amount in the home.
 ---
 
 Police from the Squadra Mobile, the flying squad of the Latina police
@@ -74,15 +86,16 @@ headquarters, arrested a 25-year-old man after stopping him for a check in the
 Cucchiarelli district of Latina. [@1]
 
 The officers found three bags holding a total of about 28 grams of hashish and
-525 euros in cash on him. [@1]
+525 euros in cash on him. [@1,2]
 
 They then extended the search to the home the man uses, where they found further
 quantities of hashish, largely pressed into blocks, about 50 grams of marijuana
-and 14 grams of cocaine. [@1] In total the officers seized about 38.3 kilograms
+and 14 grams of cocaine. [@1,2] In total the officers seized about 38.3 kilograms
 of hashish, along with the marijuana and cocaine, a precision scale and 14,765
-euros in cash found partly during the check and partly in the home. [@1]
+euros in cash found partly during the check and partly in the home. [@1,2]
 
 The man is under investigation for possession of narcotics for the purpose of
 dealing and was taken to the Latina prison on the order of the Public
-Prosecutor's Office. [@1]
+Prosecutor's Office. [@1,2]
 
+Police made the arrest in the evening of Friday 6 November 2026. [@2] Police said the case is still at the preliminary investigation stage and the suspect's guilt can only be established by a final conviction. [@3]
