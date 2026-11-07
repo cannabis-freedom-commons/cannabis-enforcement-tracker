@@ -17,6 +17,7 @@ summary: >-
 figures:
   arrested: 4
 created_by_model: muse-code/muse-spark-1.3#xhigh
+
 details:
   activity: [trafficking]
   agencies: [ke-nps]
@@ -25,6 +26,8 @@ details:
   date_precision: exact
   products:
     - {product: edibles}
+  setting: [shop]
+
 data_sources:
   details.activity: [1, 2]
   details.agencies: [2]
@@ -33,6 +36,7 @@ data_sources:
   details.date_precision: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1, 2]
+  details.setting: [1, 2]
 status: verified
 tags: [bhang, nairobi, dci]
 open_questions:

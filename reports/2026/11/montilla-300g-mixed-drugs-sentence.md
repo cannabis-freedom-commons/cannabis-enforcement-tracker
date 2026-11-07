@@ -17,7 +17,9 @@ figures:
   fine:
     amount: 304.27
     currency: EUR
+
 details:
+  activity: [cultivation]
   agencies: [es-guardia-civil]
   agency_types: [gendarmerie]
   case_stage: sentenced
@@ -26,7 +28,9 @@ details:
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
+
 data_sources:
+  details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]

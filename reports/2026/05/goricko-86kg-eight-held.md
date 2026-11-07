@@ -20,14 +20,18 @@ figures:
     amount: 1000000
     currency: EUR
 created_by_model: spacexai/grok-4.7#medium
+
 details:
+  activity: [cultivation]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
   environment: [indoor]
   products: [{product: flower}]
   setting: [home]
+
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]

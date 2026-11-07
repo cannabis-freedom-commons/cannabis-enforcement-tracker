@@ -18,11 +18,15 @@ figures:
   value:
     amount: 17000
     currency: INR
+
 details:
+  activity: [sale]
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 1.7}]
+
 data_sources:
+  details.activity: [2]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.products: [2, 1]

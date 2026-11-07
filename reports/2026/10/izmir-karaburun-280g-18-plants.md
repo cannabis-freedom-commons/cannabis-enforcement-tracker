@@ -22,6 +22,7 @@ details:
   case_stage: investigation
   products: [{product: plants, plants: 18}, {product: seeds}]
   setting: [home]
+
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
@@ -29,6 +30,7 @@ data_sources:
   details.products: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1]
+  figures.plants_destroyed: [1]
 media:
   - kind: photo
     url: https://www.sondakika.com/guncel/haber-izmir-karaburun-da-280-gram-esrar-ele-gecirildi-2--20382852/

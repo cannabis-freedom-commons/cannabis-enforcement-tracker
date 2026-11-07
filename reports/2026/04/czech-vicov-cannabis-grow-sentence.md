@@ -16,13 +16,17 @@ figures:
   plants_destroyed: 400
   kg_seized: 7.5
   prison: 3 years, suspended for 5 years
+
 details:
+  activity: [sale]
   agency_types: [prosecutor, court]
   case_stage: sentenced
   products: [{product: flower, kg: 7.5}]
   sentence_types: [probation]
   setting: [home]
+
 data_sources:
+  details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]

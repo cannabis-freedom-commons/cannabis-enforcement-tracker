@@ -18,14 +18,18 @@ summary: >-
   northern New York operation.
 figures:
   kg_seized: 453.6
+
 details:
+  activity: [sale]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 453.6}]
   setting: [vehicle, home, building]
+
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]

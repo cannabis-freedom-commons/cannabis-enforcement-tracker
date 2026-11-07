@@ -16,14 +16,18 @@ summary: >-
 figures:
   prison: two life terms plus 20 years (commuted January 2021)
 created_by_model: muse-code/muse-spark-1.3#xhigh
+
 details:
+  activity: [money]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: sentenced
   date_precision: exact
   products: [{product: hashish}, {product: flower}]
   setting: [home, prison]
+
 data_sources:
+  details.activity: [1, 3]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 3]

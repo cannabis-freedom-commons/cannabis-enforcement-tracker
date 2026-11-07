@@ -22,6 +22,7 @@ details:
   products:
     - {product: hashish}
   setting: [home, prison]
+
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
@@ -30,6 +31,7 @@ data_sources:
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]
+  figures.plants_destroyed: [1, 2]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e4747fdf60d34e34e000be0aa8559369

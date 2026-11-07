@@ -15,14 +15,18 @@ summary: >-
 figures:
   charged: 1
   prison: 1 day (time served)
+
 details:
+  activity: [cultivation, sale]
   agency_types: [prosecutor]
   case_stage: sentenced
   date_precision: exact
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [home, prison]
+
 data_sources:
+  details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.date_precision: [1, 2, 3]

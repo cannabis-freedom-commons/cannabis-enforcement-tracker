@@ -26,6 +26,7 @@ details:
   environment: [outdoor]
   products: [{product: flower}]
   setting: [field, home]
+
 data_sources:
   details.activity: [2]
   details.agencies: [2]
@@ -35,6 +36,7 @@ data_sources:
   details.environment: [2]
   details.products: [1, 2]
   details.setting: [2, 1]
+  figures.arrested: [2]
 status: verified
 tags: [tain-district, indian-hemp]
 open_questions:

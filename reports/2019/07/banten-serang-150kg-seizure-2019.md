@@ -43,12 +43,15 @@ media:
     media_url: https://img.antarafoto.com/cache/1200x798/2019/07/31/pemusnahan-150-kg-ganja-l8gk-dom.jpg
     publisher: ANTARA Foto
     caption: 'A BNN officer lifts the charred packets after incineration in Serang. Photo: Asep Fathulrahman/ANTARA Foto'
+
 details:
   agencies: [id-bnn]
   agency_types: [anti-narcotics]
   date_precision: exact
   products:
     - {product: flower}
+  setting: [vehicle]
+
 data_sources:
   details.agencies: [1, 2, 3]
   details.agency_types: [1, 2, 3]
@@ -56,6 +59,7 @@ data_sources:
   details.products: [1, 2]
   figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2]
+  details.setting: [1, 2]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh
 tags: [bnn, ganja, banten]

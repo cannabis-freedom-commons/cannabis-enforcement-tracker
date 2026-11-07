@@ -19,14 +19,18 @@ figures:
   plants_destroyed: 2749
   kg_seized: 66.93
 created_by_model: muse-code/muse-spark-1.3#xhigh
+
 details:
+  activity: [money]
   agencies: [us-dea]
   agency_types: [anti-narcotics]
   case_stage: charged
   date_precision: exact
   products: [{product: flower, kg: 66.93}]
   setting: [home]
+
 data_sources:
+  details.activity: [1, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1, 2]

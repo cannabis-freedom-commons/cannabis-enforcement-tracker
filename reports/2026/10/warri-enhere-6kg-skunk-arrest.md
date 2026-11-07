@@ -25,6 +25,7 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
@@ -32,6 +33,7 @@ data_sources:
   details.date_precision: [1, 2]
   details.products: [1, 2]
   figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [warri, delta, ndlea, skunk]

@@ -12,17 +12,21 @@ summary: >-
   Three men were arrested at about 3 a.m. on 16 June 2020 trying to introduce suspected cannabis, a cellphone and other banned items into the Bordelais Correctional Facility in Dennery. They were held at the Dennery police station awaiting charges.
 figures:
   arrested: 3
+
 details:
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}]
+  setting: [prison]
+
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
   figures.arrested: [1]
+  details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: c301af0e1d0f4e67bfd949d954bae214

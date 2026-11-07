@@ -15,17 +15,21 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 0.56
+
 details:
   activity: [cultivation]
   agency_types: [police, prosecutor]
   case_stage: sentenced
+  environment: [wild]
   products: [{product: flower, kg: 0.56}, {product: plants}]
   sentence_types: [prison]
   setting: [prison]
+
 data_sources:
   details.activity: [3, 1, 2]
   details.agency_types: [2, 1, 3]
   details.case_stage: [1, 3, 2]
+  details.environment: [1]
   details.products: [1, 2, 3]
   details.sentence_types: [1, 3, 2]
   details.setting: [1, 3, 2]

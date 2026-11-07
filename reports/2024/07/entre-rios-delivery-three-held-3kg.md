@@ -14,13 +14,17 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 3
+
 details:
+  activity: [sale]
   agency_types: [police, prosecutor]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 3}]
   setting: [mail]
+
 data_sources:
+  details.activity: [3]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1, 3]

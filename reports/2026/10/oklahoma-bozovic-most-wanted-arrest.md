@@ -25,12 +25,15 @@ media:
     media_url: https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/c0691585-30b9-330e-becd-bad6accbae5f.m3u8?site=news&region=US&lang=en-US&devtype=desktop
     publisher: KFOR (via Yahoo News)
     caption: 'KFOR''s 18-second video report on the arrest, built around a ''Captured'' graphic of Mihailo Bozovic. Video: KFOR'
+
 details:
   activity: [trafficking]
   agency_types: [police]
   case_stage: investigation
   date_precision: exact
   products: [{product: flower}]
+  setting: [vehicle]
+
 data_sources:
   details.activity: [1, 3, 7]
   details.agency_types: [2, 4, 6, 7, 3, 1]
@@ -39,6 +42,7 @@ data_sources:
   details.products: [3, 7, 1]
   figures.arrested: [2, 4, 6, 7, 3, 1]
   figures.charged: [1, 7, 5, 3]
+  details.setting: [1, 7]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [oklahoma, most-wanted, trafficking, fugitive, illinois]
