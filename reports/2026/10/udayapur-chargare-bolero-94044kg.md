@@ -39,8 +39,9 @@ sources:
 media:
   - kind: photo
     url: https://thehimalayantimes.com/nepal/police-seize-over-1050-kg-marijuana-in-udayapur
+    media_url: https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/10/12/51467.jpg
     publisher: The Himalayan Times / Shyam Rai
-    caption: The abandoned Bolero with its stacked sacks (plate Ba 14 Cha 2255)
+    caption: "The abandoned Bolero with its stacked sacks (plate Ba 14 Cha 2255) at Beltar police. Photo: Shyam Rai"
 ---
 
 Around 2 AM on Monday, police on the Ranitaar-Beltar inner road at Chargare

@@ -60,17 +60,15 @@ sources:
     language: nl
 media:
   - kind: photo
-    url: https://www.monitor.co.ug/uganda/news/national/police-arrest-man-in-arua-city-with-over-1-000-blunts-of-suspected-marijuana-5643876
-    publisher: Daily Monitor
-    caption: Godfrey Eguma after his arrest at Link Bus Terminal
-  - kind: photo
     url: https://observer.ug/news/passenger-arrested-with-1000-marijuana-rolls-aboard-arua-bus/
+    media_url: https://observer.ug/wp-content/uploads/2026/10/Passenger-arrested-with-1000-sticks-of-marijuana.jpg
     publisher: The Observer
-    caption: The rolls of suspected marijuana recovered from the suspect's luggage
+    caption: "Godfrey Eguma with the seized rolls after the Link Bus Terminal arrest. Photo: The Observer"
   - kind: photo
     url: https://www.monitor.co.ug/uganda/news/national/police-arrest-man-in-arua-city-with-over-1-000-blunts-of-suspected-marijuana-5643876
+    media_url: https://www.monitor.co.ug/resource/blob/5643878/1e731955f9ab96103ec5bbf70b0555f1/latest05pix-data.jpg
     publisher: Daily Monitor
-    caption: Eguma paraded with the seized rolls at Arua police.
+    caption: "Eguma photographed with the same pile of rolls. Photo: Daily Monitor"
 also:
   - seizure
 open_questions:

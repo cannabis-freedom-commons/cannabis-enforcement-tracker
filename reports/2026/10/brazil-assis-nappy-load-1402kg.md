@@ -40,10 +40,16 @@ status: verified
 tags: [assis, sao-paulo, ficco, highway-police]
 media:
   - kind: photo
+    url: https://portaldenoticias.policiamilitar.sp.gov.br/maconha-entre-fraldas-soma-14-tonelada-e-motorista-e-preso-em-assis/
+    media_url: https://portaldenoticias.policiamilitar.sp.gov.br/wp-content/uploads/2026/10/Copia-de-Design-sem-nome-85-1024x640.png
+    publisher: Portal de Notícias da Polícia Militar do Estado de São Paulo
+    caption: "Blue-wrapped cannabis bricks among nappy boxes beside a PMESP highway patrol truck. Photo: PMESP"
+  - kind: photo
     url: https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/22/policia-apreende-maconha-escondida-em-carga-de-fraldas-em-assis.ghtml
     archived: https://web.archive.org/web/20261023181912/https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/22/policia-apreende-maconha-escondida-em-carga-de-fraldas-em-assis.ghtml
+    media_url: https://s2-g1.glbimg.com/ktN3Grr2JgrH9cAullN65i3Cgr8=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/A/XvZF4SSgCGrsV0lGAd6A/novo-projeto-2026-10-22t072138.574.png
     publisher: G1
-    caption: Boxes of cannabis found among the nappy load in Assis.
+    caption: "The same Assis load displayed beside the highway police truck. Photo: Polícia Militar Rodoviária / G1"
 open_questions:
   - The federal police statement gives 1,412.1 kg for the Assis load; the military highway police, which weighed it, reported 1,402.1 kg, the figure used here.
   - The same federal police statement reports a second seizure of 726.15 kg in São Paulo city the same day, with two men arrested; that is a separate event left out here.

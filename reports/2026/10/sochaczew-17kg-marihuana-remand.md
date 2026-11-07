@@ -36,8 +36,19 @@ data_sources:
 media:
   - kind: photo
     url: https://www.policja.pl/pol/aktualnosci/283243,Przewozil-17-kg-marihuany-Tymczasowy-areszt-dla-23-letniego-Sochaczewianina.html
+    media_url: https://www.policja.pl/dokumenty/zalaczniki/1/oryginal/1-485261.png
     publisher: Policja.pl (KWP Radom)
-    caption: The vacuum-sealed bags of cannabis seized by Sochaczew police, from the police release
+    caption: "Vacuum-sealed bags of cannabis laid out after the Dachowa stop. Photo: Policja Sochaczew"
+  - kind: photo
+    url: https://www.policja.pl/pol/aktualnosci/283243,Przewozil-17-kg-marihuany-Tymczasowy-areszt-dla-23-letniego-Sochaczewianina.html
+    media_url: https://www.policja.pl/dokumenty/zalaczniki/1/oryginal/1-485260.png
+    publisher: Policja.pl (KWP Radom)
+    caption: "The open boot and bag holding vacuum-sealed cannabis packages. Photo: Policja Sochaczew"
+  - kind: photo
+    url: https://www.policja.pl/pol/aktualnosci/283243,Przewozil-17-kg-marihuany-Tymczasowy-areszt-dla-23-letniego-Sochaczewianina.html
+    media_url: https://www.policja.pl/dokumenty/zalaczniki/1/oryginal/1-485263.jpg
+    publisher: Policja.pl (KWP Radom)
+    caption: "Plainclothes officers escorting the handcuffed suspect. Photo: Policja Sochaczew"
 created_by_model: alibaba-token-plan/qwen3.8-flash
 status: verified
 tags: [remand, road-stop, mazowieckie]
