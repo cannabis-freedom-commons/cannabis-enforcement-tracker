@@ -1,0 +1,61 @@
+---
+code: E9X47V
+added_at: "2026-11-07T06:04:59.376244Z"
+date: 2026-11-06
+country: cr
+place: San Rafael de Alajuela, Alajuela, Costa Rica
+coordinates: [9.9737, -84.2126]
+precision: district
+type: arrest
+also: [seizure, raid]
+title: Three held as police seize 100 marijuana packages after Alajuela chase
+summary: >-
+  A police chase in San Rafael de Alajuela ended with three people detained and 100 packages of marijuana seized by the Fuerza Pública and the Drug Control Police. The operation also turned up 340 more grams of drug, a firearm, a magazine and 26 rounds in a house.
+figures:
+  arrested: 3
+details:
+  products:
+    - {product: flower}
+  date_precision: publication
+  region: Alajuela
+data_sources:
+  details.products: [1]
+  figures.arrested: [1]
+media:
+  - kind: photo
+    url: https://www.nacion.com/sucesos/persecucion-en-alajuela-termina-con-tres-detenidos/VHP2IR7ZM5D3FJQUBNJFT755KE/story/
+    media_url: https://www.nacion.com/resizer/v2/KOJXAVCPTJBZ7LWBNXZHJCPD24.png?quality=65&auth=c2f5f4d114bea0d79834f1dbe4c7f08923b0cf90aefaeee3a6726a770a9dd75f&width=1440&height=810
+    publisher: La Nación
+    caption: 'Police display of 100 marijuana packages, 340 further grams of marijuana, a firearm, a magazine and 26 rounds of ammunition seized in San Rafael de Alajuela. Photo: MSP (Costa Rica''s Public Security Ministry)'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: ed9a827454f218fd8074aa5a254a474c
+sources:
+  - title: Persecución en Alajuela termina con tres detenidos y el decomiso de 100 paquetes de marihuana
+    url: https://www.nacion.com/sucesos/persecucion-en-alajuela-termina-con-tres-detenidos/VHP2IR7ZM5D3FJQUBNJFT755KE/story/
+    publisher: La Nación
+    date: 2026-11-06
+    language: es
+open_questions:
+  - Only the publication date is established from the captured text, so 6 November 2026 stands in as the incident date; the article body dates the chase to the night of 4 November and a house search to 5 November.
+  - No weight for the 100 packages was retained, so no cannabis kilograms are recorded; the article body gives about 565 grams per package, about 56.5 kg in total, plus 340 further grams.
+  - 'No charges, measures of restraint or court outcome were retained: the article says only that three people were detained.'
+  - Only one accessible account of this event was found after searching in Spanish; no Public Security Ministry statement or second outlet could be opened.
+  - The published photo is an MSP handout republished by La Nación, captioned as the seizure; its exact contents could not be inspected.
+  - Left out agency types, as its quotation was not found in La Nación.
+---
+
+A police chase in Alajuela ended with three people detained and the seizure of
+100 packages of marijuana. [@1] A driver who disobeyed a stop order set off the
+police operation, the article's summary line says. [@1] The operation allowed
+officers to locate drugs, a firearm and ammunition in a house, according to the
+article's summary line. [@1]
+
+The Fuerza Pública, Costa Rica's national police, and the Drug Control Police
+(PCD) seized the 100 packages of marijuana. [@1] The same operation also
+produced 340 additional grams of drug, a firearm, a magazine and 26 rounds of
+ammunition. [@1] The operation took place in San Rafael de Alajuela. [@1]
+
+The account came from the Public Security Ministry, which the newspaper credited
+as the source of the published picture. [@1]
+
