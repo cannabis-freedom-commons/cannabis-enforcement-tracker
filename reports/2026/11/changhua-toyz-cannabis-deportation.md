@@ -52,6 +52,11 @@ media:
     media_url: https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/03/35481016.jpg&M=1&s=Y&x=0&y=0&sw=1179&sh=647&exp=3600&nt=1&w=930
     publisher: 噓！星聞
     caption: 'Immigration officers escorting Liu Weijian (Toyz) from Changhua Prison for deportation. Photo: Changhua County task force, via 噓！星聞'
+  - kind: photo
+    url: https://kol.juksy.com/article/154275
+    media_url: https://assets.juksy.com/files/articles/154275/clipboard_1794031212_6aeebe6c7f680.jpg
+    publisher: JUKSY 街星
+    caption: An Instagram image credited to 篠崎泫＠IG, published with the account of her Hong Kong livestream with Toyz; it is not established as showing the enforcement operation.
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4faad24e27560989460f84543c9399be
@@ -422,6 +427,11 @@ sources:
     publisher: 三立娛樂星聞
     date: 2026-11-06
     language: zh
+  - title: Toyz 出獄首度合體篠崎泫直播！女友當場嗆聲傳奇怪訊息的女生：「我哪天發瘋全部說出來！」
+    url: https://kol.juksy.com/article/154275
+    publisher: JUKSY 街星
+    date: 2026-11-07
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -545,6 +555,10 @@ open_questions:
   - No new media entry is added because the page's images are Instagram screenshots and a headline repeat without credit establishing that they show the deportation escort.
   - The page calls 篠崎泫 Liu's wife, while other accounts cited in the existing report call her his girlfriend; the marriage wording is not added as a verified fact.
   - The page's claims about who ran Toyz's social-media accounts and the private messages describe social-media activity, not the enforcement operation, so no enforcement figures are added.
+  - The JUKSY page calls 篠崎泫 Toyz's girlfriend (女友) while the existing report calls her his wife, and the relationship label is not resolved here.
+  - The page dates the livestream only as 日前 (a few days ago); 6 November 2026 comes from other accounts cited in the existing report.
+  - The page gives no new figure for the cannabis trafficking case, and the social-media messages, letters and stock-market talk are personal matters rather than enforcement details.
+  - The page's photos are credited only to 篠崎泫's Instagram and are not established as showing the deportation, the cannabis case or the livestream itself, so they are not listed as event media.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
@@ -586,10 +600,12 @@ Officers from the immigration agency's Changhua County task force collected Liu 
 
 Officers from the immigration agency took Liu Weijian to Taichung Airport on 3 November for the forced expulsion, and he is barred from entering Taiwan for six years. [@64]
 
-Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69,70,72,73] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67]
+Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69,70,72,73,74] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67]
 
 Liu Weijian appeared by voice beside his girlfriend 篠崎泫 during a Hong Kong livestream on 6 November, drawing about 5,000 viewers instead of the few hundred the broadcast normally has. [@68] Immigration authorities said a marriage to a Taiwan resident would not by itself confer residence rights, and any application by a Hong Kong or Macao resident would still be reviewed under the relevant permit rules. [@68]
 
 The livestream drew more than 11,000 viewers, peaking at 13,000. [@69,72] Liu said he had not restarted his own channel because his computer and livestreaming equipment in Hong Kong were not ready and he wanted to rest a few days, and that he would restart once they were in place. [@69]
 
 The livestream drew about 13,000 viewers, up from the few hundred people who normally watch it. [@73] Toyz showed only half his face on camera, and 篠崎泫 held up a thick stack of the letters she had written to him in prison. [@73]
+
+The livestream audience rose to about 13,000 people. [@72]
