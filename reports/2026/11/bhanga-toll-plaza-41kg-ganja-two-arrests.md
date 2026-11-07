@@ -21,6 +21,11 @@ sources:
     publisher: The Daily Campus
     date: 2026-11-07
     language: bn
+  - title: ফরিদপুর ভাঙ্গা হইতে ১৪ লক্ষ টাকা মূল্যের ৪১ কেজি গাঁজা ও ২ লক্ষ টাকা মূল্যের উইনসেরেক্মস সিরাপ’সহ দুই মাদক ব্যবসায়ী গ্রেফতার
+    url: https://sorejominbarta.com/country/article/66348
+    publisher: সরেজমিনবার্তা
+    date: 2026-11-07
+    language: bn
 open_questions:
   - No figure was published for the plants behind the 41 kg of ganja or for where it was grown.
   - The two arrests were separate searches at separate checkposts, with cannabis found in only the first; they are reported together because one SRB-10 press release announced both.
@@ -33,18 +38,24 @@ open_questions:
   - 'Left out, as its quotation was not found in The Daily Campus: At 12:25 pm a team of Special Response Battalion-10, a Bangladesh police unit known by its Bengali initials SRB, set up a temporary checkpost beside the toll plaza, searched a covered van and found 41 kg of ganja, the dried cannabis widely sold in Bangladesh.'
   - 'Left out, as its quotation was not found in The Daily Campus: The seized drugs and the arrested men were handed to the police station with jurisdiction so that a case could be filed under the Narcotics Control Act.'
   - Left out kg seized, as its quotation was not found in The Daily Campus.
+  - The submitted page names the two arrested men and their home villages; the tracked report does not record suspect names or addresses, and they are not added here.
+  - The page gives 213,000 taka for the 71 bottles of Winsex syrup, written in words as two lakh thirteen thousand; the syrup is not cannabis, so its count and value are excluded from the cannabis figures.
+  - The page says both men were handed to the relevant police station and that legal proceedings were under way, giving no charge sheet, case number or court outcome.
+  - The page's single photo carries no caption or credit and is not established to show this seizure, so no media entry is added.
+  - Both the existing report and this page reproduce the same SRB-10 press release, so they are not independent reporting of the arrests.
 ---
 
-SRB-10 valued the 41 kg of ganja at about 1.23 million taka. [@1]
+SRB-10 valued the 41 kg of ganja at about 1.23 million taka. [@1,2]
 
 At 2:30 pm a second search, on the other side of the toll plaza, found 71
 bottles of Winsex, a codeine-based cough syrup sold unlawfully in Bangladesh,
-which is not cannabis. [@1] SRB-10 put the estimated market value of the drugs
-found in both searches at about 1.443 million taka. [@1] The arrests were
+which is not cannabis. [@1,2] SRB-10 put the estimated market value of the drugs
+found in both searches at about 1.443 million taka. [@1,2] The arrests were
 announced in a press release signed by Tapan Sarkar, an assistant police
 superintendent who is SRB-10's assistant director for media. [@1]
 
 SRB-10 said the arrested men had for a long time collected ganja and Winsex
 syrup from border areas and supplied them around Faridpur and elsewhere in the
-country. [@1]
+country. [@1,2]
 
+SRB-10 arrested two men described as active members of a drug ring, one in each of the two searches at the toll plaza. [@2] The man held with the ganja is 36 and lives in Pirojpur district. [@2] The man held with the syrup is 56 and lives in Munshiganj district. [@2] Officers seized 31,185 taka in cash and a phone from the man held with the ganja, and impounded the covered van used to carry the drugs. [@2] Officers recovered 900 taka and a phone from the man held with the syrup. [@2] The page says both men were handed to the police station with jurisdiction and that legal proceedings were under way. [@2]
