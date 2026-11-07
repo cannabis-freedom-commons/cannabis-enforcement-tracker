@@ -50,6 +50,16 @@ media:
     media_url: https://s1.tvp.pl/images2/a/2/6/uid_a26d77876bc14c9cb16c8f6cb75c9bd2_width_900_play_0_pos_0_gs_0_height_506.jpg
     publisher: TVP3 Kielce
     caption: Drugs secured at the property in Gmina Górno.
+  - kind: photo
+    url: https://informacje.wp.pl/wiadomosci/blisko-4-kg-narkotykow-na-posesji-w-gminie-gorno-19-latek-uslyszal-zarzut-7348130863786432a
+    media_url: https://v.wpimg.pl/NzMzYjAxYRssGC9ZbgNsDm9AewMoWmJYOFhjSG5BfUI1T2tSbh4nFigIPBouVikIOAo4HTFWPhZiGykDbg5_VSkTKhotGTdVKBc7DyVXfhl8Hj1ZJRljHHRDbkd1THwYYEI6CHZVLx95SW5Zchp-S3pPexc
+    publisher: WP Info
+    caption: Lead photo published with the Górno seizure report, captioned only 'Fot. Licencjodawca' (license holder photo), with no agency credit; it is not established to show the secured drugs.
+  - kind: photo
+    url: https://informacje.wp.pl/wiadomosci/blisko-4-kg-narkotykow-na-posesji-w-gminie-gorno-19-latek-uslyszal-zarzut-7348130863786432a
+    media_url: https://v.wpimg.pl/MjUwLmpwYgs0FTpeXwxvHndNbg4AHxIHNBovT1xVOEhvVWNfQUB8UmVYfVpJRHVcYkN_WkVAeUUBGD4YHjQMJxAlBSAxMAhHZkd8FUJCfUQ_BytPDQ
+    publisher: WP Info
+    caption: Second picture in the Górno report, uncaptioned and uncredited; it is not established to show this seizure.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7d4c1cad6e1341c705e37a5581a2870a
@@ -70,6 +80,11 @@ sources:
     publisher: WP Info
     date: 2026-11-05
     language: pl
+  - title: Blisko 4 kg narkotyków na posesji w gminie Górno. 19-latek usłyszał zarzut
+    url: https://informacje.wp.pl/wiadomosci/blisko-4-kg-narkotykow-na-posesji-w-gminie-gorno-19-latek-uslyszal-zarzut-7348130863786432a
+    publisher: WP Info
+    date: 2026-11-06
+    language: pl
 open_questions:
   - The sources say only that the search happened on Tuesday and were published on 5 November 2026; 3 November 2026 is used as the incident date with approximate precision.
   - All drug weights are described as preliminary estimates pending laboratory analysis, so the cannabis total may change.
@@ -81,16 +96,16 @@ open_questions:
 
 Officers from the anti-drug unit of the Kielce city police searched a property
 in Gorno commune on Tuesday to check suspicions that a young local resident
-possessed drugs. [@1,3] The 19-year-old resident was detained and charged with
+possessed drugs. [@1,3,4] The 19-year-old resident was detained and charged with
 possessing a significant quantity of intoxicants, which police say carries up to
 10 years in prison. [@2,3] A court imposed bail, a ban on leaving the country and
-an obligation to report to a police station twice a week. [@2,3]
+an obligation to report to a police station twice a week. [@2,3,4]
 
 Preliminary estimates indicate officers secured about 1.1 kg of marijuana, 1 kg
-of hashish and 46 grams of butter containing THC. [@2,3] Officers also found a
+of hashish and 46 grams of butter containing THC. [@2,3,4] Officers also found a
 non-fibre cannabis plant, an electronic scale and more than 5,000 zlotys in cash
 at the property. [@2] The same search also yielded about 1.7 kg of mephedrone, a
 synthetic drug that is not counted in this report's cannabis totals. [@1] The
 seized material was sent to a police laboratory for detailed testing to
 establish its exact composition, and police are checking whether the secured
-cash came from criminal activity. [@2,3]
+cash came from criminal activity. [@2,3,4]
