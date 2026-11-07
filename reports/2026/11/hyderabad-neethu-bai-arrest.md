@@ -29,6 +29,11 @@ media:
     media_url: https://hyderabadmail.com/wp-content/uploads/2026/11/EAGLE-Force-operation-leading-to-the-arrest-of-alleged-ganja-network-operator-Neethu-Bai-in-Hyderabad.jpg
     publisher: Hyderabad Mail
     caption: Lead image captioned “Eagle Force Operation Leading To The Arrest Of Alleged Ganja Network Operator Neethu Bai In Hyderabad”; no photo credit given.
+  - kind: photo
+    url: https://ntvtelugu.com/crime-stories/lady-don-neetu-bhai-arrested-1033293.html
+    media_url: https://images.ntvtelugu.com/wp-content/uploads/2026/11/neetu-bhai-arrested_V_jpg--1280x720-4g.webp?sw=1440&dsz=1280x720&iw=673&p=false&r=1
+    publisher: NTV Telugu
+    caption: Image used by NTV Telugu with its report on the arrest of alleged ganja distributor Neethu Bai; the page gives no separate caption or photo credit.
 details:
   activity: [trafficking]
   agencies: [in-excise, in-eagle]
@@ -70,6 +75,11 @@ sources:
     publisher: Sakshi
     date: 2026-11-07
     language: te
+  - title: 'Telangana Eagle Force : తొమ్మిదేళ్లుగా గుట్టుచప్పుడు కాకుండా గంజాయి దందా… లేడీ డాన్ నీతూ బాయి అరెస్ట్!'
+    url: https://ntvtelugu.com/crime-stories/lady-don-neetu-bhai-arrested-1033293.html
+    publisher: NTV Telugu
+    date: 2026-11-07
+    language: te
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
@@ -88,13 +98,19 @@ open_questions:
   - 'Left out, as its quotation was not found in Sakshi: On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement (EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad.'
   - 'Left out, as its quotation was not found in Sakshi: Neetu Bhai targeted software employees with her ganja trade.'
   - Left out arrested, as its quotation was not found in Sakshi.
+  - NTV Telugu gives Bai's age as 51, while the existing accounts give 48; the report keeps 48.
+  - NTV Telugu gives the cash seized at the arrest as ₹1,59,500, while The Hindu and NewsBytes give ₹1 lakh.
+  - NTV Telugu says she was arrested in an autorickshaw heading towards Mangalhat, while the existing accounts place the arrest in Asif Nagar; the two localities adjoin and the exact spot is not reconciled.
+  - NTV Telugu counts about 30 cases against Bai and her family since 2017, while The Hindu records 31 cases against Bai since 2018; the counts cover different periods and not necessarily the same people.
+  - NTV Telugu gives no total value for the buildings and other assets it says police identified, only their locations.
+  - NTV Telugu's only image carries no caption beyond the headline and no credit, so it cannot be confirmed to show the arrest.
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
-(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2]
+(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2,5]
 Bai had been absconding for more than a year. [@1] EAGLE personnel traced her to
 a hideout after a tip-off. [@1] Officers found no narcotic substances on her,
-though they seized ₹1 lakh in cash. [@1,2,4]
+though they seized ₹1 lakh in cash. [@1,2,4,5]
 
 Bai was linked to an alleged marijuana-trafficking network across Hyderabad and
 Cyberabad. [@1] Bai and her family members operated an organised distribution
@@ -114,3 +130,5 @@ On 13 March 2024, police seized 22.6 kg of marijuana and ₹22.10 lakh in cash f
 EAGLE personnel traced her to a hideout following a tip-off on Thursday. [@3] An EAGLE officer said 63 consumers allegedly linked to her network had earlier been identified and referred for de-addiction. [@3] In August 2023, the Telangana State Anti-Narcotics Bureau and Golconda police arrested her in a case involving the seizure of 23.4 kg of ganja. [@3] Neethu Bai was detained under the Preventive Detention Act in 2021 and released from prison in October 2022. [@3]
 
 Sakshi reported that her ganja trade had continued for nine years. [@4]
+
+NTV Telugu reported that she was produced before a court and sent to judicial remand. [@5] The page said her movements were tracked by the EAGLE technical team and that she was arrested from an autorickshaw heading towards Mangalhat, an adjoining locality. [@5] NTV Telugu put the cases against Bai and her family at about 30 since 2017, filed under the NDPS Act and the Excise Act across six police stations in Hyderabad and Cyberabad, with her absconding in 13 of them. [@5] It said she bought ganja wholesale, repackaged it into small packets and sold it around Nanakramguda, selecting areas where software engineers and hostel or rented-home students lived. [@5] NTV Telugu reported that police had identified two four-storey buildings in Langer House, one three-storey building in Gachibowli and extra structures at her Nanakramguda home as assets bought with ganja money, and had already frozen the bank accounts of Bai, her family and their Jayalakshmi Kirana and General Store. [@5] It said Cyberabad narcotics police had raided her Nanakramguda home in June 2026, seized ₹2.60 lakh in ganja sale proceeds and registered cases against about 50 customers caught there buying ganja. [@5]
