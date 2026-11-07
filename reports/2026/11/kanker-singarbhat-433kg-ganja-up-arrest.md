@@ -59,6 +59,11 @@ sources:
     publisher: NWNews24
     date: 2026-11-07
     language: hi
+  - title: कांकेर में गांजा तस्करी केस में आरोपी की गिरफ्तारी, दो करोड़ से ज्यादा गांजा हुआ था बरामद
+    url: https://www.etvbharat.com/hi/state/ganja-smuggling-case-accused-arrested-in-kanker-two-crore-ganja-recovered-cts26110704734
+    publisher: ETV Bharat News
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article does not date the interception or the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - Only one source, the submitted NWNews24 report, could be opened for this event, so the weights, packet count and valuations are not independently corroborated.
@@ -67,22 +72,25 @@ open_questions:
   - The article says the load was going to Haryana but names no receiving buyer there.
   - The seized Fortuner is valued at about Rs 25 lakh and the ganja at about Rs 2.23 crore; the article's total of about Rs 2.48 crore for all material matches these two rounded amounts, while the network's value is given as about Rs 3 crore.
   - The page picture carries no caption tying it to this seizure and no credit, so it is linked rather than treated as evidence of the haul.
+  - ETV Bharat writes the haul as about 450 quintals for the same Rs 2.23 crore value, against 433 kg in 90 packets in the existing report; the existing figures are retained.
+  - ETV Bharat dates the dump to a Wednesday morning but gives no date for the Uttar Pradesh arrest.
 ---
 
 Kanker district police in Chhattisgarh say they have broken up an interstate
 ganja smuggling network carrying consignments from Malkangiri in Odisha towards
-Haryana. [@1] Officers recovered 433 kg of ganja packed in 90 packets, which
-police valued at about Rs 2 crore 23 lakh. [@1] A Toyota Fortuner car said to
+Haryana. [@1,2] Officers recovered 433 kg of ganja packed in 90 packets, which
+police valued at about Rs 2 crore 23 lakh. [@1,2] A Toyota Fortuner car said to
 have been used in the smuggling, valued at about Rs 25 lakh, was also seized.
 [@1]
 
 The gang fled after dumping the load near Singarbhat when they saw a police
-check. [@1] Police arrested the fugitive accused, named in the report as
-Sukhpal, in Uttar Pradesh. [@1]
+check. [@1,2] Police arrested the fugitive accused, named in the report as
+Sukhpal, in Uttar Pradesh. [@1,2]
 
 Investigators said the accused kept changing vehicle registration numbers to
-move loads between states. [@1] Police put the total value of what was seized in
+move loads between states. [@1,2] Police put the total value of what was seized in
 the case at about Rs 2 crore 48 lakh. [@1] Police said the whole smuggling
 network is estimated to be worth about Rs 3 crore and are still looking for the
 other accused. [@1]
 
+Police traced the accused with the help of the cyber team. [@2] Police set up checkposts at 4 to 5 places. [@2] Police also seized the Haryana-passing vehicle used in the smuggling. [@2] So far one accused has been arrested. [@2]
