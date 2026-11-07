@@ -47,6 +47,11 @@ sources:
     publisher: Maliweb / Malijet (Tumblr archive)
     date: 2015-10-23
     language: fr
+  - title: 'Mauritanie : Saisie de cannabis en provenance du Mali'
+    url: https://bamada.net/mauritanie-saisie-de-cannabis-en-provenance-du-mali
+    publisher: Bamada.net
+    date: 2015-10-23
+    language: fr
 open_questions:
   - No arrest figure was published; the parcel's sender was unidentified and the report does not say whether the driver Zeini or anyone else was detained.
   - The report gives no details of where the Kouki Zemal crossing point lies or which border it serves, and no map could be opened to confirm the exact location.
@@ -68,9 +73,9 @@ officials to the crossing to negotiate letting the bus continue its route, and
 the mission included a security officer, according to sources. [@1]
 
 The sender of the parcel had not yet been identified, and the report names no
-one charged in the case. [@1,3]
+one charged in the case. [@1,3,4]
 
 The account was translated from Arabic by the Mauritanian news portal Cridem,
 which credits the Mauritanian outlet Elhourriya for the original report. [@1]
 
-The African Press Agency described a Wednesday-evening seizure of about 20 kg of chanvre indien at a frontier post with Mali. [@2] The African Press Agency said the drug was hidden in luggage aboard a private company's Nouakchott–Bamako bus. [@2] The bus driver told police he knew nothing about the parcel. [@2]
+The African Press Agency described a Wednesday-evening seizure of about 20 kg of chanvre indien at a frontier post with Mali. [@2,4] The African Press Agency said the drug was hidden in luggage aboard a private company's Nouakchott–Bamako bus. [@2] The bus driver told police he knew nothing about the parcel. [@2,4]
