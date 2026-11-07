@@ -44,8 +44,9 @@ media:
   - kind: photo
     url: https://www.daijiworld.com/news/newsDisplay?newsID=1331547
     archived: https://web.archive.org/web/20261015105439/https://www.daijiworld.com/news/newsDisplay?newsID=1331547
+    media_url: https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/ganja_151026_1.jpg
     publisher: Daijiworld
-    caption: The accused and the seized ganja
+    caption: "The accused and seized ganja on a blue tarp (Daijiworld)."
 ---
 
 Police seized more than 30 kg of ganja worth around Rs 50 lakh from a man

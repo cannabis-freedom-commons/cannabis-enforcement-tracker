@@ -40,6 +40,7 @@ tags: [nagpur, ncb, truck, odisha-network]
 media:
   - kind: photo
     url: https://www.dailyprabhat.com/ncb-mumbai-seizes-500-kg-ganja-concealed-among-steel-pipes-in-nagpur-arrests-three/
+    media_url: https://www.dailyprabhat.com/wp-content/uploads/2026/10/ANI-20261004160241-5yJoE6.jpg
     publisher: Daily Prabhat (NCB release via ANI)
     caption: "The three accused with the truck and stacked ganja packets (NCB)."
 open_questions:

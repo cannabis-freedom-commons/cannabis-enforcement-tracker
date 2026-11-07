@@ -47,8 +47,9 @@ sources:
 media:
   - kind: photo
     url: https://www.newindianexpress.com/states/odisha/2026/Oct/27/cannabis-plantations-spread-across-199-acre-destroyed-in-odishas-kandhamal-district
+    media_url: https://cf-images.assettype.com/newindianexpress/2026-10-26/b03quq3c/Cannabis-plantations-spread.jpg
     publisher: The New Indian Express
-    caption: Aerial view of the hillside cannabis plots destroyed in the drive
+    caption: "Aerial view of hillside cannabis plots in the Kandhamal drive (The New Indian Express)."
 ---
 
 A joint team of Kandhamal police, excise, revenue and forest officials

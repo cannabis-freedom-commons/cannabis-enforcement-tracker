@@ -51,8 +51,9 @@ media:
   - kind: photo
     url: https://www.orissapost.com/52000-cannabis-plants-destroyed-in-boudh/
     archived: https://web.archive.org/web/20261021123845/https://www.orissapost.com/52000-cannabis-plants-destroyed-in-boudh/
+    media_url: https://www.orissapost.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-093036.png
     publisher: OrissaPOST
-    caption: Officers supervising the destruction drive in the forest
+    caption: "Officers supervising the destruction drive in the forest (OrissaPOST)."
 ---
 
 Manamunda police destroyed around 52,000 illegally grown cannabis plants in

@@ -36,8 +36,9 @@ sources:
 media:
   - kind: photo
     url: https://face2news.com/news/48-9-kg-ganja-recovered-at-ferozepur-railway-station-two-arrested/
+    media_url: https://face2news.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-16.28.20.jpeg
     publisher: Face2News
-    caption: GRP officers with the two arrested men and the seized sack
+    caption: "GRP officers with the two arrested men and the seized sack (Face2News)."
 ---
 
 The Government Railway Police recovered 48.9 kg of ganja in two separate

@@ -42,6 +42,7 @@ tags: [ncb, rupnagar, charas, sentence, ndps]
 media:
   - kind: photo
     url: https://hiindia.com/ncb-secures-10-year-jail-term-for-three-drug-traffickers-caught-with-charas-in-car/
+    media_url: https://hiindia.com/wp-content/uploads/2026/10/202610263991929.jpeg
     publisher: IANS
     caption: "Custody photograph of one of the three convicted men (IANS via hi INDiA)."
 open_questions:

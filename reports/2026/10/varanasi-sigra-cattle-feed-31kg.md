@@ -41,8 +41,9 @@ sources:
 media:
   - kind: photo
     url: https://www.bhaskarenglish.in/local/uttar-pradesh/varanasi/news/varanasi-police-seize-cannabis-consignment-rajkishore-gaur-arrested-139367077.html
+    media_url: https://images.bhaskarassets.com/web2images/1884/2026/10/15/gifmagicsite-2026-10-15t090609836_1792035379.gif
     publisher: Bhaskar English
-    caption: Police unload sacks from the seized pickup at night
+    caption: "Police unload sacks from the seized pickup at night (Bhaskar English)."
 ---
 
 Acting on the police commissioner's festival-season drug crackdown orders

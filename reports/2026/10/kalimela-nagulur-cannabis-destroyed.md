@@ -43,8 +43,9 @@ sources:
 media:
   - kind: photo
     url: https://www.orissapost.com/2000-cannabis-plants-destroyed-one-held/
+    media_url: https://www.orissapost.com/wp-content/uploads/2026/10/KALIMELA-GANJA-.jpg
     publisher: OrissaPOST
-    caption: Police with uprooted cannabis plants at the forest plot near Nagulur
+    caption: "Police with uprooted cannabis plants at the forest plot near Nagulur (OrissaPOST)."
 ---
 
 Acting on information about illegal cultivation, a team led by Kalimela police
