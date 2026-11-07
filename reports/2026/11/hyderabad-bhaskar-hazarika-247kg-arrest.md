@@ -30,6 +30,11 @@ media:
     media_url: https://media.andhrajyothy.com/media/2026/20260822/arrest_64661cf382_v_jpg.webp
     publisher: Andhrajyothy
     caption: 'Photo illustrating the arrest of the gang accused of running a ganja supply network in Hyderabad. Photo: Andhrajyothy'
+  - kind: photo
+    url: https://cknewstv.in/2026/11/06/%E0%B0%B9%E0%B1%88%E0%B0%A6%E0%B0%B0%E0%B0%BE%E0%B0%AC%E0%B0%BE%E0%B0%A6%E0%B1%8D%E0%B0%B2%E0%B1%8B-%E0%B0%AD%E0%B0%BE%E0%B0%B0%E0%B1%80-%E0%B0%A1%E0%B1%8D%E0%B0%B0%E0%B0%97%E0%B1%8D%E0%B0%B8/
+    media_url: https://cknewstv.in/wp-content/uploads/2026/11/n732872497179393852108040e8f0ac8bec448fc6dcdb41e6c37e80a9c928a96cde8287e92331901429a5e5.jpg
+    publisher: CK News
+    caption: Police officers standing beside several men seated on the ground next to green sacks of marijuana laid out in rows; the page carries no caption or credit for the picture.
 details:
   activity: [trafficking]
   agencies: [in-eagle]
@@ -130,6 +135,11 @@ sources:
     publisher: NewsMeter
     date: 2026-11-06
     language: en
+  - title: హైదరాబాద్‌లో భారీ డ్రగ్స్ రాకెట్ గుట్టురట్టు..
+    url: https://cknewstv.in/2026/11/06/%E0%B0%B9%E0%B1%88%E0%B0%A6%E0%B0%B0%E0%B0%BE%E0%B0%AC%E0%B0%BE%E0%B0%A6%E0%B1%8D%E0%B0%B2%E0%B1%8B-%E0%B0%AD%E0%B0%BE%E0%B0%B0%E0%B1%80-%E0%B0%A1%E0%B1%8D%E0%B0%B0%E0%B0%97%E0%B1%8D%E0%B0%B8/
+    publisher: CK News
+    date: 2026-11-06
+    language: te
 open_questions:
   - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
   - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
@@ -195,12 +205,15 @@ open_questions:
   - The page's lead image is captioned only with the headline and cannot be confirmed to show this seizure, so no media entry is added.
   - Left out arrested, as no supporting quotation was given.
   - Left out kg seized, as no supporting quotation was given.
+  - CK News gives no separate date for the five arrests; 6 November 2026 is its publication date and the page describes the raid without a date.
+  - CK News says EAGLE Force STF, while other accounts describe a Special Task Force formed by EAGLE; the two unit descriptions are not reconciled.
+  - The page's photo has no caption or credit and is not confirmed to show this seizure, so no media entry is included.
 ---
 
-The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,9,10,12,13,14,16,17] EAGLE
+The EAGLE Force arrested Bhaskar Hazarika after a 60-day hunt. [@1,2,3,9,10,12,13,14,16,17,18] EAGLE
 director Sandeep Shandilya said Hazarika was arrested with four other members of
 an Assam-based gang. [@1] The EAGLE Force and Choutuppal Police operation seized
-24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,16] The five arrested were
+24.7 kg of marijuana and seven mobile phones. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,18] The five arrested were
 Hazarika, Babu Borah, Nirmal Hazarika, Pranajal Dutta and Akan Rajbanshi; all
 five were from Assam and lived in Prem Nagar, New Hafeezpet. [@1,9,14] Hazarika, 31,
 had worked as a security guard and delivery executive and operated couriers and
@@ -219,9 +232,9 @@ the drug for around ₹50,000 per kilogram. [@1,3,4,6,12] Investigators estimate
 kg moved through the supply chain, generating sales of nearly ₹1.8 crore in ten
 months. [@1,3,8,12,13,14] Police said Hazarika had other sources of supply. [@1]
 
-Police said three ganja cases had been registered against Hazarika in 2024, two at Madapoor police station and one at Gachibowli police station. [@2,3,16] Investigators found he resumed trafficking after being released on bail in those cases, officer said. [@2,4,16] Police found the gang bought ganja from suppliers in Odisha and sold it in Hyderabad. [@2,4,8,16]
+Police said three ganja cases had been registered against Hazarika in 2024, two at Madapoor police station and one at Gachibowli police station. [@2,3,16,18] Investigators found he resumed trafficking after being released on bail in those cases, officer said. [@2,4,16] Police found the gang bought ganja from suppliers in Odisha and sold it in Hyderabad. [@2,4,8,16]
 
-Police registered a case over the seizure at the Cyberabad Narcotics Police Station. [@4,7] The arrested men included Rapido driver Babu Bora, private employee Nirmal Hazarika and Uber driver Pranjal Datta. [@4] Hazarika collected payments both online and in cash. [@4]
+Police registered a case over the seizure at the Cyberabad Narcotics Police Station. [@4,7,18] The arrested men included Rapido driver Babu Bora, private employee Nirmal Hazarika and Uber driver Pranjal Datta. [@4] Hazarika collected payments both online and in cash. [@4]
 
 Police traced more than Rs 48 lakh in online payments made in 88 instalments to Odisha supplier Ashish Kumar. [@5]
 
