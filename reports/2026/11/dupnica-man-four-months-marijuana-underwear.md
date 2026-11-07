@@ -53,16 +53,27 @@ sources:
     publisher: Вяра News
     date: 2026-11-06
     language: bg
+  - title: 'Рецидив в изпитателния срок: Ефективен затвор за дупничанин, хванат с марихуана'
+    url: https://pirinsko.com/recidiv-v-izpitatelniq-srok-efektiven-zatvor-za-dupnichanin-hvanat-s-marihuana-194140/
+    publisher: Pirinsko.com
+    date: 2026-11-06
+    language: bg
+  - title: Пиян ученик, карал кола е осъден в Дупница, младеж влиза в затвора заради дрога
+    url: https://infomreja.bg/piyan-uchenik-karal-kola-e-osaden-v-dupnicza-mladezh-vliza-v-zatvora-zaradi-droga.html
+    publisher: Инфомрежа
+    date: 2026-11-06
+    language: bg
 open_questions:
   - Neither article states the exact date of the sentencing hearing; 6 November 2026, the publication date, is used as the incident date.
   - The defendant is identified only by initials, R.B., and his age, 25.
   - The earlier six-month term was imposed under case number 65/2025 of the Dupnitsa district court; no date for that sentence is reported.
   - No information was published on whether an appeal against the re-activation order was filed.
   - The pictures on both pages are illustrative and are not confirmed to show this case.
+  - The Infomreja article gives no case number for the earlier 2025 marijuana sentence, while Pirinsko.com attributes case number 65/2025 to it.
 ---
 
 Dupnitsa district court imposed a four-month prison term on a 25-year-old man
-who pleaded guilty to holding cannabis marijuana. [@1] The court approved an
+who pleaded guilty to holding cannabis marijuana. [@1,3] The court approved an
 agreement reached between the district prosecution, the defence and the accused.
 [@1] The charge covered a continuing offence in the town of Dupnitsa in the
 period from 2 August 2026 to 5 August 2026 inclusive. [@1]
@@ -76,8 +87,9 @@ grams, valued at 11.87 euros. [@2]
 The court ordered that time he had spent held under a detention measure be
 deducted from the term. [@1] The court also put into effect an earlier six-month
 prison sentence imposed on him for holding marijuana under case number 65/2025
-of the Dupnitsa district court. [@1] That order on the earlier sentence can be
+of the Dupnitsa district court. [@1,4] That order on the earlier sentence can be
 appealed or protested within 15 days before the Kyustendil district court. [@1]
 He held the substances without the permit required under the Narcotics and
 Precursors Control Act. [@1]
 
+The earlier six-month sentence was also set to be served under an initial general regime, and that order can be appealed or protested within 15 days before the Kyustendil district court. [@3]
