@@ -68,6 +68,11 @@ sources:
     publisher: Correio da Manhã
     date: 2026-11-06
     language: pt
+  - title: Quatro detidos em operação que apreendeu 1,1 toneladas de haxixe
+    url: https://bragatv.pt/quatro-detidos-em-operacao-que-apreendeu-11-toneladas-de-haxixe/
+    publisher: Braga TV
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
@@ -78,6 +83,8 @@ open_questions:
   - The Renascença page picture has no caption or credit establishing that it shows this seizure, so it is not listed as media.
   - The article gives no separate date for the operation, only that the detainees would appear in court 'today'; 6 November 2026 is its publication date.
   - The PJ statement page on policiajudiciaria.pt could not be opened, so it provides no corroborating quotation.
+  - Braga TV gives no separate date for the operation; 6 November 2026 is its publication date, and the tracker report dates the event the same way.
+  - The article's only picture is captioned as an illustrative image, so it is not established to show this seizure and none is listed as media.
 ---
 
 Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
@@ -86,7 +93,7 @@ tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
 were to be brought before a judge for a first judicial interrogation and
 coercive measures. [@1]
 
-Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5] The
+Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7] The
 operation began after authorities spotted a suspicious high-speed vessel crewed
 by unidentified people whose presence near the Portuguese coast was unjustified.
 [@1] House searches led to the seizure of a car with a false number plate. [@1]
@@ -95,13 +102,15 @@ movements and communications equipment. [@1]
 
 It was a joint operation by the PJ's National Unit to Combat Drug Trafficking
 and the GNR's Coastal and Border Control Unit, named Operation Barcas, against
-international trafficking by sea. [@1,4,5] The operation, called Barcas, ran over
+international trafficking by sea. [@1,4,5,7] The operation, called Barcas, ran over
 recent days with support from the Navy and the Air Force. [@2] It also had
 support from the Maritime Analysis and Operations Centre – Drugs, an
 international cooperation body against trafficking by sea. [@2]
 
-The four detainees are aged between 16 and 43 and are foreign nationals. [@3] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3]
+The four detainees are aged between 16 and 43 and are foreign nationals. [@3,7] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3,7]
 
 The operation was run by the PJ's National Unit to Combat Drug Trafficking (UNCTE) and the GNR's Coastal and Border Control Unit (UCCF). [@5] Police said the action followed the identification of a suspect high-value vessel crewed by several unidentified people whose presence near the Portuguese coast was unjustified. [@5]
 
 All four suspects were placed in pre-trial detention after a first judicial interrogation on Friday. [@6]
+
+House searches also turned up a car with false number plates and various communications equipment, alongside the surveillance cameras. [@7]
