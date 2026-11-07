@@ -127,6 +127,8 @@ open_questions:
   - No source states who placed the sacks on the train or where along the route they were loaded.
   - 'Left out, as its quotation was not found in Deepika: Deepika reported that the RPF Crime Intelligence Branch team of Thiruvananthapuram Inspector A.J. Jipin found the ganja when it checked the unclaimed sacks in the general coach.'
   - 'Left out, as its quotation was not found in Deshabhimani: Deshabhimani confirmed that the inspection of the Dibrugarh–Kanyakumari Express was carried out on Thursday after the train reached Aluva.'
+  - The Dailyhunt reprint gives no inspection date of its own; the 5 November 2026 date in the report comes from its other sources.
+  - 'Left out, as its quotation was not found in Deepika: The inspection was carried out by Thiruvananthapuram RPF Crime Intelligence Branch Inspector A. J. Jibin with ASIs Sijo Xavier and Vijayakumar, Head Constable Vipin and Constable Nikhil.'
 ---
 
 Railway Protection Force officers seized 37.7 kg of ganja from the
