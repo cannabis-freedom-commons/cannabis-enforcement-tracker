@@ -54,6 +54,11 @@ sources:
     publisher: The Quad-City Times
     date: 2026-07-14
     archived: https://web.archive.org/web/20260811034457id_/https://qctimes.com/news/local/crime-courts/article_1f53b653-d0ae-40da-9f2d-654d4d97deb5.html
+  - title: 'UPDATE: Two more people arrested in Scott County marijuana distribution case'
+    url: https://qctimes.com/news/local/crime-courts/article_1c16d993-1437-4c5f-8215-3db8244869a1.html
+    publisher: The Quad-City Times
+    date: 2026-07-16
+    archived: https://web.archive.org/web/20260718160155id_/https://qctimes.com/news/local/crime-courts/article_1c16d993-1437-4c5f-8215-3db8244869a1.html
 open_questions:
   - The article gives only its publication date of 20 July 2026 and no separate date for the arrests, charges or warrants; 20 July 2026 is used as the incident date.
   - The 14-pound figure is described as marijuana stored at Hinton's residence, not explicitly as seized.
@@ -64,10 +69,13 @@ open_questions:
   - The article's body is behind a subscriber paywall and was not readable in the captured page, so its arrest dates, bond amounts and seizure statements are not added; only the headline, standfirst, captions and date could be read.
   - The 14 July article refers to four people charged while the 20 July KWQC report the entry uses counts six charged women, the later step of the same case.
   - The article gives no total weight for the marijuana seized and no figure for the currency; the 14 pounds (6.35 kg) figure in the report comes from the KWQC account of Hinton's residence.
+  - The Quad-City Times update of 16 July 2026 does not give a separate arrest date beyond 'Thursday'; the publication date is used.
+  - The page body is encrypted behind a subscriber paywall in the archived capture, so the two newly arrested people's charges, bonds and any new seizure figures could not be read.
+  - The update's two arrests are already reflected in the existing report's total of six arrested and charged; no separate count of the arrests on 16 July is published in readable text.
 ---
 
 Six women face ongoing criminal conduct charges in Scott County over an alleged
-years-long conspiracy to ship California marijuana to the Quad Cities. [@1,2] They
+years-long conspiracy to ship California marijuana to the Quad Cities. [@1,2,3] They
 are charged with felony ongoing criminal conduct and influence enterprise. [@1]
 Julia Louise Hoskinson is 38 and lives in Bettendorf. [@1] Aliyah Renita Marie
 Hinton is 31 and lives in Pleasant Valley. [@1] Mariah D-yarea Anderson is 27
@@ -92,3 +100,5 @@ Court documents show multiple warrants were executed for money transactions in
 the case. [@1] The alleged operation bought marijuana in California and sold it
 in the Quad Cities area. [@1] All six women were released after posting
 cash-only bonds, according to court records. [@1]
+
+Two more people were arrested in Scott County for allegedly selling and distributing marijuana, bringing the case's arrested and charged totals to six. [@3]
