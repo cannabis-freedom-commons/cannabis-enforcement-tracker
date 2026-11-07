@@ -78,11 +78,11 @@ open_questions:
 ---
 
 Dholpur police arrested T. Srinivas, a ganja smuggler with a reward of 25,000
-rupees on his head, in the city of Nagpur in Maharashtra on 6 November. [@1] He
+rupees on his head, in the city of Nagpur in Maharashtra on 6 November. [@1,2] He
 had escaped from the Diholi police station lock-up on the night of 25 October
-2026 by breaking a window. [@1] He was in police custody in a case over 261 kg
+2026 by breaking a window. [@1,2] He was in police custody in a case over 261 kg
 110 g of ganja seized from a car on National Highway 44 near the Bagchauli Khar
-turn on 17 October. [@3]
+turn on 17 October. [@2,3]
 
 Station house officer Shaitan Singh said the Mania police station team and
 traffic police had searched the car and found the ganja in 11 plastic sacks.
@@ -102,4 +102,3 @@ Police said he is a hardened drug smuggler with trafficking cases registered
 against him in Rajasthan and several other states. [@1] He was being questioned
 about people who helped him during the escape and about the ganja network, and
 police said he would be produced in court after the investigation. [@1]
-
