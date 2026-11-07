@@ -71,6 +71,11 @@ sources:
     publisher: Diario Extra
     date: 2026-11-07
     language: es
+  - title: 'Persecución y allanamiento: así cayeron tres hombres con cargamento de droga en Alajuela'
+    url: https://www.amprensa.com/2026/11/persecucion-y-allanamiento-asi-cayeron-tres-hombres-con-cargamento-de-droga-en-alajuela
+    publisher: AM Prensa
+    date: 2026-11-06
+    language: es
 open_questions:
   - Only the publication date is established from the captured text, so 6 November 2026 stands in as the incident date; the article body dates the chase to the night of 4 November and a house search to 5 November.
   - No weight for the 100 packages was retained, so no cannabis kilograms are recorded; the article body gives about 565 grams per package, about 56.5 kg in total, plus 340 further grams.
@@ -85,18 +90,20 @@ open_questions:
   - Diario Extra publishes no total weight for the seizure, only about 565 grams per package plus 340 grams in bags; the report's open questions already note that no total kilograms are recorded.
   - No charge, measure of restraint or court outcome appears; only that the three were sent to the Public Prosecutor's Office.
   - The article credits five photos to the Ministry of Public Security (MSP) and one to a correspondent for the house raids, but captions do not establish which specific items each shows.
+  - AM Prensa names the three detainees only by surnames Zimmermann, Olivas and Araya, and does not give their sexes, unlike other accounts that describe Araya as a woman.
+  - AM Prensa reports no charges, measures of restraint or court outcome beyond that the three were remitted to the Public Prosecutor's Office to have their legal situation decided.
 ---
 
 A police chase in Alajuela ended with three people detained and the seizure of
-100 packages of marijuana. [@1] A driver who disobeyed a stop order set off the
+100 packages of marijuana. [@1,5] A driver who disobeyed a stop order set off the
 police operation, the article's summary line says. [@1,4] The operation allowed
 officers to locate drugs, a firearm and ammunition in a house, according to the
-article's summary line. [@1]
+article's summary line. [@1,5]
 
 The Fuerza Pública, Costa Rica's national police, and the Drug Control Police
-(PCD) seized the 100 packages of marijuana. [@1,4] The same operation also
+(PCD) seized the 100 packages of marijuana. [@1,4,5] The same operation also
 produced 340 additional grams of drug, a firearm, a magazine and 26 rounds of
-ammunition. [@1,4] The operation took place in San Rafael de Alajuela. [@1]
+ammunition. [@1,4,5] The operation took place in San Rafael de Alajuela. [@1]
 
 The account came from the Public Security Ministry, which the newspaper credited
 as the source of the published picture. [@1]
