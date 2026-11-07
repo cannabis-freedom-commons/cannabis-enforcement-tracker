@@ -53,6 +53,11 @@ sources:
     url: https://kashmirlife.net/two-arrested-with-1-5-kg-contraband-in-north-kashmir-460140/
     publisher: Kashmir Life
     date: 2026-11-07
+  - title: 'जम्मू-कश्मीर: बांदीपोरा में नशा तस्करी पर पुलिस का शिकंजा, 1.5 किलो चरस जैसे पदार्थ के साथ दो गिरफ्तार'
+    url: https://www.amarujala.com/jammu-and-kashmir/srinagar/1-5-kg-of-a-charas-like-substance-seized-in-bandipora-two-accused-arrested-2026-11-07
+    publisher: Amar Ujala
+    date: 2026-11-07
+    language: hi
 open_questions:
   - No laboratory confirmation that the substance was cannabis was published; police and outlets describe it only as a charas-like substance.
   - Police gave the weight only as approximately 1.5 kg, with no street value and no detail of how the substance was packed.
@@ -61,13 +66,16 @@ open_questions:
   - The outlets appear to reproduce the same police statement, and one account called the recovery a bhang-like substance, a different term from the charas-like description used elsewhere.
   - Coordinates are for Aragam village, not for the exact spot at Garoora Crossing.
   - 'Left out, as its quotation was not found in Kashmir Indepth: Police said they would keep up the drive against drug abuse and trafficking and asked the public to report drug-related activity.'
+  - Amar Ujala also calls the substance a charas-like substance and does not say whether a laboratory confirmed it as cannabis.
+  - The Hindi account gives the local place names Halwadi and Chapran for the two men's villages but no age or further identification.
+  - The page photo is a generic Jammu and Kashmir Police image credited to a photographer and dated 2024 in its address, so it is not established to show this seizure and no media entry is included.
 ---
 
 Police in Bandipora district arrested Rafaqat Ali Gojar, of Halwadi in Aragam,
 and Zakir Hussain Qureshi, of Chapran in Aragam, during a naka checking, a
-police checkpoint stop, at Garoora Crossing on Saturday 7 November 2026. [@1]
+police checkpoint stop, at Garoora Crossing on Saturday 7 November 2026. [@1,4]
 Police recovered approximately 1.5 kg of a charas-like substance from the two
-men, a police spokesperson said. [@1]
+men, a police spokesperson said. [@1,4]
 
 Police said the two were arrested on Saturday in Bandipora district and about
 1.5 kg of charas-like substance was seized from them. [@1] Kashmir Life put the
@@ -85,3 +93,4 @@ destination of the substance and to check for further links. [@1] Kashmir
 Indepth reported the same FIR, sections and recovery of approximately 1.5
 kilograms of a charas-like substance at Garoora Crossing. [@2]
 
+The two were stopped as suspects during the checkpoint check, which was part of a drive against drug trafficking, and the substance was found when they were searched. [@4] Police said they were investigating the source of the substance, where it was to be delivered and the role of others connected to the trafficking. [@4]
