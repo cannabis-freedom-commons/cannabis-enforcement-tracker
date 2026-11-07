@@ -62,6 +62,7 @@ open_questions:
   - The reports do not say where the vessel had sailed from before St Kitts.
   - The vessel's ownership and registry were not reported.
   - The reports also describe a 2022 drug seizure on a similarly named vessel at the same port, a separate event left out here.
+  - The existing report does not say where aboard the vessel the drugs were found or that the vessel had come from St Vincent; Village Voice News, reprinting St Vincent Times, says they were concealed in bags of dry coconut from St Vincent, which the police statement cited by the report does not confirm.
 ---
 
 Officers from the Royal St Christopher and Nevis Police Force, the St Kitts-Nevis Coast Guard and
@@ -76,3 +77,5 @@ and Tobago, were taken into custody to assist the investigation. [@1,2,3] The po
 whether they had been charged. [@1,3] The force said the investigation was ongoing. [@1,3] SKNVibes
 reported that the seizure raised questions about the vessel's history and whether St Kitts is a
 transhipment point for drugs. [@2]
+
+SKNVibes said the seizure raised questions about the vessel's ownership, registration and previous movements, and whether the Federation is a transhipment point for drugs. [@2]
