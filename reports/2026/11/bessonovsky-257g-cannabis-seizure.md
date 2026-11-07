@@ -68,6 +68,11 @@ sources:
     publisher: УМВД России по Пензенской области
     date: 2026-11-07
     language: ru
+  - title: В Бессоновском районе изъяли более 250 грамм конопли
+    url: https://projectorpnz.ru/news/2026360012/v-bessonovskom-rajone-izyali-bolee-250-gramm-konopli/
+    publisher: Пензенский прожектор
+    date: 2026-11-07
+    language: ru
 open_questions:
   - The reports give no date for the detention, the inspection or the seizure; 7 November 2026 is the publication date and is used as the incident date.
   - The cannabis weight is given as about 257 grams, not an exact measured figure.
@@ -81,21 +86,21 @@ open_questions:
 ---
 
 Police in Bessonovsky district, Penza Oblast, detained a 34-year-old local man
-suspected of involvement in the illegal circulation of drugs. [@2,3] Officers
+suspected of involvement in the illegal circulation of drugs. [@2,3,4] Officers
 received information that the man might be involved in the illegal circulation
 of banned substances, and their check confirmed it. [@1]
 
 While inspecting the grounds around his house, officers found plant matter,
-seized it and sent it for expert examination. [@2] The expert examination
+seized it and sent it for expert examination. [@2,4] The expert examination
 identified the seized material as the drug cannabis weighing about 257 grams.
-[@1]
+[@1,4]
 
 The man admitted guilt and said he had gathered the drug-containing plant in
-July 2026 not far from his own home in Bessonovsky district. [@1] He said he
+July 2026 not far from his own home in Bessonovsky district. [@1,4] He said he
 made a drug from the gathered raw material, which he intended to use himself.
-[@1]
+[@1,4]
 
 A criminal case was opened under part 2 of article 228 of the Russian Criminal
-Code, which carries a maximum of 10 years in prison. [@1]
+Code, which carries a maximum of 10 years in prison. [@1,4]
 
 The man was born in 1992, the Interior Ministry's post says, which is consistent with the age of 34 given in earlier reports. [@3]
