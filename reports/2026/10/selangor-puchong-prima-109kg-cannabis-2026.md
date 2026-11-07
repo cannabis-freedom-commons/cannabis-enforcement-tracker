@@ -45,6 +45,11 @@ media:
     media_url: https://assets.hmetro.com.my/images/articles/hm6sienn_1793960414.jpg
     publisher: Harian Metro
     caption: 'Narcotics Crime Investigation Department director Datuk Hussein Omar Khan at the police training centre in Kuala Lumpur announcing the syndicate operation and the separate 109.17 kg cannabis seizure. Photo: Amir Khalid / Harian Metro'
+  - kind: photo
+    url: https://www.bharian.com.my/amp/berita/nasional/2026/11/1702570/polis-lumpuhkan-dua-sindiket-rampas-dadah-bernilai-rm19-juta
+    media_url: https://assets.bharian.com.my/images/articles/lumpuh_1793954533.jpg
+    publisher: Berita Harian
+    caption: 'Narcotics Crime Investigation Department director Datuk Hussein Omar Khan and officers show part of the drugs seized in the two raids announced on 6 November 2026. Photo: Austin Camoens / Berita Harian'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7e9f2aac40b5f596e45ee44c6794f3ae
@@ -69,6 +74,11 @@ sources:
     url: https://newswav.com/article/police-drug-rings-target-financially-troubled-as-mules-A2611_LGzMmO
     publisher: The Sun Daily (via Newswav)
     date: 2026-11-06
+  - title: Polis lumpuhkan dua sindiket, rampas dadah bernilai RM19 juta
+    url: https://www.bharian.com.my/amp/berita/nasional/2026/11/1702570/polis-lumpuhkan-dua-sindiket-rampas-dadah-bernilai-rm19-juta
+    publisher: Berita Harian
+    date: 2026-11-06
+    language: ms
 open_questions:
   - Harian Metro and Astro Awani describe an operation 'around Selangor', while RTM places the raid in Puchong Prima; the report uses the more precise RTM locality.
   - The Sun Daily summarises the remand as under section 38B of the Dangerous Drugs Act 1952, while Bernama-based accounts say Section 39B; the report uses 39B as reported by the majority of the opened accounts.
@@ -77,13 +87,15 @@ open_questions:
   - RTM's figure of RM126,062 in vehicles and jewellery is given as the asset forfeiture under two operations, not this raid alone, so it is not recorded as a figure for this case.
   - No photo of the actual seizure was available; the only image on these pages shows the police director at the press conference.
   - 'Left out, as its quotation was not found in Harian Metro: In the raid, police also seized two cars, a motorcycle, three watches and various items of jewellery.'
+  - The submitted Berita Harian account gives only a combined 494.55 kg and RM19.59 million for both operations and names no drug type, so no cannabis figure can be drawn from it.
+  - The RM126,062 in vehicles and jewellery is given for both operations together, not for the Puchong Prima cannabis case alone.
 ---
 
 Police in Selangor seized 109.17 kg of cannabis and arrested one man in a raid
 on 30 October 2026. [@1] Narcotics Crime Investigation Department director Datuk
 Hussein Omar Khan announced the seizure on 6 November 2026, at a press
 conference reported by Bernama. [@2] The raid took place in Puchong Prima and
-was part of an operation named Op Eupeodes. [@3]
+was part of an operation named Op Eupeodes. [@3,5]
 
 The police valued the cannabis at RM327,600. [@3] Police stopped the load coming
 from the Kelantan border and also seized vehicles and jewellery. [@3]
@@ -97,3 +109,4 @@ Hussein announced the case at a press conference alongside a separate syndicate
 case in Brickfields, Kuala Lumpur, in which four people including a foreign
 mastermind were held over recruiting Malaysians as drug mules. [@4]
 
+Police also sought forfeiture of vehicles and jewellery worth RM126,062 under the two operations. [@3]
