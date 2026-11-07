@@ -60,6 +60,10 @@ sources:
     url: https://cnycentral.com/news/local/cayuga-guns-cigarettes-arrest
     publisher: CNY Central (WSTM)
     date: 2026-11-06
+  - title: Man arrested on weapons, cannabis charges in Collins
+    url: https://www.newportdispatch.com/2026/11/06/man-arrested-on-weapons-cannabis-charges-in-collins/
+    publisher: Newport Dispatch
+    date: 2026-11-06
 open_questions:
   - No cannabis weight, plant count or area was published for the October 2025 searches, so the cannabis quantities are unknown.
   - No cash amount was published, and the value of the cannabis was not stated.
@@ -68,17 +72,18 @@ open_questions:
   - The charges concern the searches generally; the reports do not say what cannabis was found at which location.
   - Photographs on the opened pages show the October 2025 raid or generic agency imagery, not the November 2026 traffic stop, so no media entry is included.
   - The CNY Central account gives no cannabis weight, plant count or value for the October 2025 seizures, leaving that question open.
+  - The Newport Dispatch account gives no cannabis weight, plant count, area or value for the October 2025 searches, so the cannabis quantities remain unknown.
 ---
 
 New York State Police arrested Daryll Jimerson, 56, of Lawtons on 2 November
 2026, the third operator of the Pipekeepers smoke shop in Montezuma to face
 charges from a cannabis, firearms and untaxed-cigarette investigation. [@1,5] A
-Cayuga County grand jury indicted him in May 2026 on 13 felony counts. [@4]
+Cayuga County grand jury indicted him in May 2026 on 13 felony counts. [@4,6]
 
 The counts are eight of third-degree criminal possession of a weapon, three of
 third-degree criminal possession of an assault weapon, first-degree criminal
 possession of cannabis and willfully possessing, transporting or selling 30,000
-or more unstamped cigarettes. [@4] The Erie County Sheriff's Office and a U.S.
+or more unstamped cigarettes. [@4,6] The Erie County Sheriff's Office and a U.S.
 Marshals task force stopped his vehicle on Versailles Plank Road in Collins,
 Erie County. [@1,2] Finger Lakes Daily News confirms State Police said Jimerson of
 Lawtons was arrested Monday during a traffic stop in Collins in Erie County.
@@ -96,3 +101,5 @@ Office of Cannabis Management along with the FBI, the Bureau of Alcohol,
 Tobacco, Firearms and Explosives and local law enforcement agencies. [@2,5]
 
 State Police said the searches also turned up currency. [@2]
+
+The Erie County Sheriff's Office and a U.S. Marshal Task Force that includes the Troop A Violent Felony Warrant squad made the stop. [@6]
