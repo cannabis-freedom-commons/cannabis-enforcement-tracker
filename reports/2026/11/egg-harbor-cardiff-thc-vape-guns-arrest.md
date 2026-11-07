@@ -51,6 +51,10 @@ sources:
     url: https://breakingac.com/atlantic-county/eht-teen/
     publisher: BreakingAC
     date: 2026-11-05
+  - title: Egg Harbor Township teen charged after police seize suspected THC vapes, firearms
+    url: https://shorelocalnews.com/egg-harbor-township-teen-charged-after-police-seize-suspected-thc-vapes-firearms/
+    publisher: Shore Local Newsmagazine
+    date: 2026-11-06
 open_questions:
   - Cannabis amounts were reported as more than a pound of flower and more than 2,000 grams of THC liquid; 2.454 kg is the minimum sum and the true total may be higher.
   - No cartridge count or separate oil weight beyond the 2,000-gram liquid figure was published.
@@ -61,8 +65,8 @@ open_questions:
 ---
 
 Egg Harbor Township police arrested 19-year-old Hebereli Mejia of the Cardiff
-section after a long-term narcotics investigation. [@1] He was lodged at the
-Atlantic County Justice Facility pending a detention hearing. [@1] He faces 40
+section after a long-term narcotics investigation. [@1,3] He was lodged at the
+Atlantic County Justice Facility pending a detention hearing. [@1,3] He faces 40
 counts for allegedly running a drug business out of his home and a storage
 facility. [@2] He appeared briefly in court by video on Thursday and learned his
 detention hearing would be Tuesday. [@2]
@@ -83,4 +87,3 @@ said he had been under surveillance for more than a year since September 2025.
 [@2] The township police were assisted by the Atlantic County Regional SWAT Team
 and the Prosecutor’s Office. [@1] Charges are accusations and he is presumed
 innocent until proven guilty. [@1]
-
