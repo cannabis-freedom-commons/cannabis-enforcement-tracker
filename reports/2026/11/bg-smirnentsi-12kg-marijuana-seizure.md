@@ -57,6 +57,10 @@ sources:
     publisher: Haskovo.Net (kardjali.bgvesti.net)
     date: 2026-11-06
     language: bg
+  - title: 48-годишен мъж е задържан за притежание на 12 кг марихуана
+    url: https://pik.bg/48-%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD-%D0%BC%D1%8A%D0%B6-%D0%B5-%D0%B7%D0%B0%D0%B4%D1%8A%D1%80%D0%B6%D0%B0%D0%BD-%D0%B7%D0%B0-%D0%BF%D1%80%D0%B8%D1%82%D0%B5%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-12-%D0%BA%D0%B3-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B0-news1362064.html
+    publisher: ПИК (PIK.bg)
+    language: bg
 open_questions:
   - The BHR headline gives the detained man's age as 48 but its text and the haskovo.net account give 46; the report uses 46.
   - Neither account gives the date of the raid; 6 November 2026 is the publication date of both, and the other operation mentioned took place on 5 November.
@@ -66,17 +70,19 @@ open_questions:
   - The Chelnik seizure of about 3 kg and the two detentions there are a separate event and are not counted in this report's figures.
   - The page gives no date for the Smirnentsi raid; 6 November 2026 is its publication date.
   - The page states no charge, measure of restraint or court outcome for the detained man.
+  - The PIK headline gives the man's age as 48, matching the BNR headline discrepancy already open in the report; its body text gives no age.
+  - The PIK page gives no separate date for the raid, so no new incident date is established beyond the publication dates already recorded.
 ---
 
 A 46-year-old man was detained in the village of Smirnentsi, near Harmanli in
 Haskovo region, after agents of Bulgaria's anti-organised-crime directorate,
-known by its Bulgarian initials GDBOP, searched a property he managed. [@1,3,4]
+known by its Bulgarian initials GDBOP, searched a property he managed. [@1,3,4,5]
 Inside a farm building on the property the agents found eight packages of
-marijuana. [@1,3] About 12 kilograms of marijuana were seized, the directorate
+marijuana. [@1,3,5] About 12 kilograms of marijuana were seized, the directorate
 announced on its official Facebook page. [@2,3,4]
 
 Prosecutors opened a pre-trial investigation under the supervision of the
-Haskovo district prosecutor's office. [@1,3] BHR reported the detainer as a
+Haskovo district prosecutor's office. [@1,3,5] BHR reported the detainer as a
 48-year-old in its headline but as a 46-year-old in the body. [@1]
 
 The Smirnentsi raid was part of two operations by the anti-mafia agents; the
