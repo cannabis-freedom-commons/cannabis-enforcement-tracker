@@ -75,6 +75,11 @@ sources:
     publisher: हिंदुस्तान (Hindustan)
     date: 2026-11-06
     language: hi
+  - title: 'Mau News: रांची से लाकर गोरखपुर में गांजा बेचने वाली तीन महिला तस्कर गिरफ्तार, 78 किलो गांजा बरामद'
+    url: https://www.amarujala.com/uttar-pradesh/mau/three-female-smugglers-arrested-for-bringing-cannabis-from-ranchi-to-sell-in-gorakhpur-78-kg-of-cannabis-seized-mau-news-c-295-1-mau1002-154681-2026-11-07
+    publisher: Amar Ujala
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The Amar Ujala text does not give the number of trolley bags; Dainik Bhaskar reports four bags holding 28 packets, which is used for that detail.
   - Amar Ujala reports the weight as 78 kg, while Dainik Bhaskar describes it as about 78 kg; the reported figure of 78 kg is recorded.
@@ -86,6 +91,7 @@ open_questions:
   - No court outcome beyond judicial custody is reported.
   - Hindustan reports the seized ganja as 80 kg valued at 15 lakh rupees, while the existing report records 78 kg from Amar Ujala and Dainik Bhaskar.
   - Hindustan describes the three women as listed history-sheeters and says the city station officer was running a checking drive on the superintendent's orders; it gives no court stage beyond ongoing questioning, so judicial custody is not confirmed here.
+  - This Amar Ujala page is dated 7 November 2026, a day after the arrest on Friday, 6 November, and describes the same brief without a fresh police statement.
 ---
 
 Mau Kotwali Nagar police and the SWAT team arrested three women cannabis
@@ -95,7 +101,7 @@ Gorakhpur district, were standing with trolley bags waiting for the bus to
 Gorakhpur. [@1,4] Additional Superintendent of Police Anoop Kumar said a tip-off
 had warned that three women were waiting with a ganja consignment for the
 Gorakhpur bus. [@1] The women tried to move away when they saw the police, but
-officers with a woman sub-inspector and women constables caught them. [@1]
+officers with a woman sub-inspector and women constables caught them. [@1,5]
 
 A search of the trolley bags found seven packets in each bag, holding a total of
 78 kg of ganja. [@1] Dainik Bhaskar reported that the ganja was carried in four
