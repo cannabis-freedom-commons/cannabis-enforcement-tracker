@@ -85,6 +85,11 @@ sources:
     publisher: Kabar Minang
     date: 2026-11-05
     language: id
+  - title: Polres Payakumbuh Sita 2,2 Kg Ganja dan 15,36 Gram Sabu
+    url: https://www.valoranews.com/berita/49032/polres-payakumbuh-sita-22-kg-ganja-dan-1536-gram-sabu
+    publisher: ValoraNews.com
+    date: 2026-11-06
+    language: id
 open_questions:
   - Only one accessible source for this event was found after searching in Indonesian and English, so no second outlet corroborates the account.
   - The article page carries a photograph with no caption or alt text establishing that it shows this seizure, so no media entry is included.
@@ -103,6 +108,8 @@ open_questions:
   - Police gave the cannabis total as 2,210 grams but separated it into 2 kg at the roadside and 210 grams at the house; no account says whether the weights are net or gross.
   - Kabar Minang says AS owned the drugs and was classed as bandar while FH only accompanied him, without saying what evidence supports that distinction.
   - No court stage beyond the Article 114(2) accusation is reported; the threatened prison term is given as 12 years in these accounts, differing from the report's 6-to-20-year description of the same charge.
+  - This page was published on 6 November 2026 but dates the arrest to Thursday early morning, consistent with the report's 5 November 2026 incident date.
+  - This account states the Article 114(2) charge carries a threatened penalty of 12 years' imprisonment, while the report describes a 6-year minimum and a 20-year or life maximum for the same charge.
 media:
   - kind: photo
     url: https://sakato.co.id/dramatis-polisi-bekuk-dua-pengedar-narkotika-lintas-provinsi-di-payakumbuh-ganja-2-kg-lebih-disita/
@@ -122,24 +129,24 @@ media:
 ---
 
 Payakumbuh's drug squad arrested two men, AS aged 32 and FH aged 26, on
-suspicion of narcotics abuse and illicit trafficking. [@1,2,3,6,8] The arrest, which
+suspicion of narcotics abuse and illicit trafficking. [@1,2,3,6,8,11] The arrest, which
 drew residents' attention, took place in the early hours of Thursday 5 November
 2026 on Jalan Jenderal Sudirman in Kelurahan Balai Janggo. [@1,2,3,6,9] Payakumbuh
 police chief AKBP Irwan Andeta, through drug squad head AKP Gusmanto, confirmed
 the arrests. [@1,2,4,9]
 
 An initial search at the scene found two large packets of dried cannabis and
-five packets of methamphetamine, known locally as sabu. [@1,2,3,6] Officers said
+five packets of methamphetamine, known locally as sabu. [@1,2,3,6,11] Officers said
 initial field questioning indicated the two had just collected the cannabis and
-methamphetamine in Pekanbaru city to distribute in Payakumbuh city. [@1,2,3] Police
+methamphetamine in Pekanbaru city to distribute in Payakumbuh city. [@1,2,3,11] Police
 then searched AS's house in Kelurahan Parit Rantang in Payakumbuh Barat, finding
 another medium packet of dried cannabis wrapped in brown tape, one small packet
-of dried cannabis, a digital scale and other supporting evidence. [@1,5,6] Gusmanto
+of dried cannabis, a digital scale and other supporting evidence. [@1,5,6,11] Gusmanto
 put the total seized cannabis at 2,210 grams and the methamphetamine at 15.36
-grams. [@1,2,3,6,8]
+grams. [@1,2,3,6,8,11]
 
 Investigators were still developing the case to uncover possible involvement of
-a wider trafficking network. [@1,2,3,6] The two men were accused under Article 114(2)
+a wider trafficking network. [@1,2,3,6,11] The two men were accused under Article 114(2)
 of Indonesia's 2009 Narcotics Law in conjunction with the 2023 Criminal Code,
 which carries a minimum of 6 years and a maximum of 20 years or life
 imprisonment. [@1,3]
