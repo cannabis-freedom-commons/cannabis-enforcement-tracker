@@ -39,6 +39,11 @@ sources:
     publisher: نيوز رووم
     date: 2026-11-07
     language: ar
+  - title: ضبط تاجر مخدرات بحوزته 135 فرش حشيش في المرج
+    url: https://mwlana.com/details/243578/
+    publisher: بوابة مولانا
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The article gives no separate date for the ambush and arrest; 7 November 2026 is its publication date and is used as the incident date.
   - No amount was given for the cash seized, so no value can be recorded.
@@ -67,3 +72,4 @@ Officers completed the required legal procedures and notified Cairo security
 chief Mohamed Youssef, who referred the case to the Public Prosecution to
 conduct the investigation. [@1]
 
+The seized hashish was 135 individual pieces, seized together with a mobile phone in addition to the shotgun, cartridges and cash. [@2]
