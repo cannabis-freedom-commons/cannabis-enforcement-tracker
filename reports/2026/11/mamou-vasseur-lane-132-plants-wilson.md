@@ -52,6 +52,16 @@ media:
     media_url: https://www.klfy.com/wp-content/uploads/sites/9/2026/11/132-Marijuana-Plants-1.jpg?resize=876,493
     publisher: KLFY
     caption: Marijuana plants seized in the Evangeline Parish investigation, as captioned on the page; the photo carries no credit.
+  - kind: photo
+    url: https://www.kalb.com/2026/11/06/major-marijuana-grow-operation-bust-mamou/
+    media_url: https://gray-kalb-prod.gtv-cdn.com/resizer/v2/KR5W46DJK5C47E5YFJ35IYD6EA.jpg?auth=a41f2cde0151721596ad90983653896078350e37052cf01ab3b659e91fef3afe&width=1300&height=992&smart=true
+    publisher: KALB
+    caption: 'Marijuana plants seized during the Evangeline Parish investigation. Photo: Evangeline Parish Sheriff’s Office'
+  - kind: photo
+    url: https://www.kalb.com/2026/11/06/major-marijuana-grow-operation-bust-mamou/
+    media_url: https://gray-kalb-prod.gtv-cdn.com/resizer/v2/6QCLBP7APRCNXCRZLLR67ZPUTE.jpg?auth=8dfabd131d574bcbdc6edadba1997fecc9fa1c4f71bacc4d48c4372a4095d9aa&width=1300&height=1697&smart=true
+    publisher: KALB
+    caption: 'Items seized in the Evangeline Parish investigation. Photo: Evangeline Parish Sheriff’s Office'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fb617c167fc658a418938559474ee709
@@ -65,6 +75,14 @@ sources:
     url: https://www.klfy.com/local/over-100-marijuana-plants-seized-in-evangeline-parish/
     publisher: KLFY.com
     date: 2026-11-06
+  - title: Major marijuana grow operation bust in Mamou
+    url: https://www.kalb.com/2026/11/06/major-marijuana-grow-operation-bust-mamou/
+    publisher: KALB
+    date: 2026-11-06
+  - title: Louisiana authorities seize over 100 marijuana plants; suspect arrested
+    url: https://www.myarklamiss.com/louisiana-news/louisiana-authorities-seize-over-100-marijuana-plants/
+    publisher: KTVE – myarklamiss.com
+    date: 2026-11-06
 open_questions:
   - The arrest date is not given; deputies arrested the man “later on”, after the 2 November search, so 2 November is the raid date and not necessarily the arrest date.
   - The 971 grams is described only as marijuana; no source separates plants from dried product or says what of the 132 plants was uprooted rather than taken.
@@ -74,11 +92,13 @@ open_questions:
   - No independent second account of the raid was found; the only source is KLFY’s report of the sheriff’s office statement.
   - An 'items seized during the investigation' photo appears on the page but its direct image address could not be recovered from the markup, so it is not linked as media.
   - No independent outlet coverage of the raid was found; both KLFY URLs carry the same sheriff's office account.
+  - KALB's sheriff's office figures are not reconciled with the $32,450 total drug value recorded in the report from KLFY's account of the same statement.
+  - The report does not say whether the 132 plants were taken as evidence or destroyed, so no separate plant seizure or destruction split is recorded.
 ---
 
 Deputies of the Evangeline Parish Sheriff’s Office searched a camper and three
 greenhouses at 1058 Vasseur Lane in Mamou on 2 November 2026, after a 10 October
-tip that a greenhouse there held a large amount of marijuana. [@1,2] The owner,
+tip that a greenhouse there held a large amount of marijuana. [@1,2,3] The owner,
 42-year-old Jimmy Lynn Wilson, was the sole resident of the camper and land and
 was not there during the search. [@1]
 
@@ -93,3 +113,5 @@ distribution or possession with intent to distribute marijuana, all felonies
 under Louisiana Revised Statute 40:966. [@1,2] Deputies also charged him with two
 counts of possessing a firearm in the presence of a controlled dangerous
 substance under Louisiana Revised Statute 14:95E. [@1,2]
+
+Agents carried out investigation and surveillance before obtaining the narcotics search warrant, and the sheriff’s office put the street value of the seized marijuana plants alone at about $132,000. [@3] The sheriff’s office valued the 45 kratom capsules separately at $50. [@3] The two rifles were a Remington Model 700 .270 and a Savage Model 19 .22 Long Rifle. [@4]
