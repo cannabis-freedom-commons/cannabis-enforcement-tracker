@@ -58,6 +58,11 @@ sources:
     publisher: Correio do Estado
     date: 2026-11-06
     language: pt
+  - title: PF faz operação contra grupo suspeito de tráfico após apreensão de 167 kg de maconha em Corumbá
+    url: https://folhams.com.br/2026/11/06/pf-operacao-apreensao-maconha-corumba-ms-sc/
+    publisher: Folha MS
+    date: 2026-11-06
+    language: pt
 open_questions:
   - No number of arrest warrants, arrests or people charged was published; the Diário Corumbaense reports warrants served but gives no count.
   - No seizure of marijuana or other drugs during the 6 November 2026 operation was reported, and no weight or value is recorded for it.
@@ -65,14 +70,15 @@ open_questions:
   - The report's place is given as two cities; the coordinates are those of Camboriú, one of the two cities where warrants were served.
   - The photographs on the cited pages are archive pictures of Federal Police vehicles or of the force generally, not images of this operation, so no media entry is included.
   - No charges, custody decisions or court outcome were reported; the investigation was continuing.
+  - Folha MS reports from the same Federal Police account as the other outlets and does not say whether anyone was arrested under the warrants.
 ---
 
 The Federal Police launched Operation Pinotus on Friday 6 November 2026 against
-a criminal organisation involved in drug trafficking and violent crime. [@2] The
+a criminal organisation involved in drug trafficking and violent crime. [@2,5] The
 investigation began after the seizure of about 167 kg of marijuana in Corumbá,
-on Mato Grosso do Sul's border with Bolivia, in September 2025. [@2] Officers
+on Mato Grosso do Sul's border with Bolivia, in September 2025. [@2,5] Officers
 served arrest warrants in Camboriú, Santa Catarina, and in Campo Grande, Mato
-Grosso do Sul, and carried out one search warrant in the state capital. [@2]
+Grosso do Sul, and carried out one search warrant in the state capital. [@2,5]
 
 Correio do Estado reported that federal officers carried out search warrants in
 Campo Grande and arrest warrants in Camboriú during the same operation. [@4]
@@ -89,4 +95,3 @@ they would clarify the extent of the group's activities. [@2]
 The operation's name comes from Pinotus, the scientific name of a dung beetle
 that rolls waste into balls and buries it, used here for the force's work of
 removing what is harmful to society. [@1]
-
