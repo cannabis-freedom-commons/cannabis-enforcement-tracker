@@ -54,6 +54,11 @@ media:
     media_url: https://cdn.modernghana.com/images/content/116202663608-23041q5dcw-116202661423-89333333011672254156567535411545927724070356n.jpg
     publisher: Modern Ghana
     caption: Sacks of suspected Indian hemp and the two wooden boats intercepted by the Ghana Navy at the Ada Estuary on 5 November 2026, published with the headline 'Navy intercepts 4.7 tonnes of suspected Indian hemp at Ada Estuary'.
+  - kind: photo
+    url: https://www.peacefmonline.com/article/408885-ghana-navy-intercepts-48-tonnes-of-suspected-marijuana-bound-for-nigeria
+    media_url: https://media-cdn.peacefmonline.com/photos/news/202611/6aed9b019adac1793956609.jpg
+    publisher: Peace FM Online
+    caption: Page picture of the Ada Estuary seizure, carried with the headline on the 117 sacks of suspected marijuana seized by the Ghana Navy; the image carries no caption or photo credit, so it is linked rather than treated as a cover.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6e2424b87990442e71eeded1964c8f35
@@ -102,6 +107,11 @@ sources:
     url: https://www.myjoyonline.com/newsfile-to-discuss-traffitech-gh-fines-drug-busts-and-parliaments-continued-absence-of-asante-akyem-north-mp/
     publisher: MyJoyOnline
     date: 2026-11-06
+  - title: Ghana Navy Intercepts 4.8 Tonnes Of Suspected Marijuana Bound For Nigeria
+    url: https://www.peacefmonline.com/article/408885-ghana-navy-intercepts-48-tonnes-of-suspected-marijuana-bound-for-nigeria
+    publisher: Peace FM Online
+    date: 2026-11-06
+    language: en
 open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
   - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
@@ -127,6 +137,7 @@ open_questions:
   - Modern Ghana reproduces the Navy's Facebook statement without additional independent reporting and gives no weight confirmed by laboratory testing.
   - This preview gives approximately 4.8 tonnes while the existing report keeps 4.7 tonnes from the Navy statement and other outlets.
   - The page is a programme preview with a single sentence on this seizure and gives no sack count, arrests, laboratory confirmation or seizure date beyond the fresh interception framing.
+  - Peace FM Online gives the consignment as approximately 4.8 tonnes, while the Navy statement and several other outlets give 4.7 tonnes; the report keeps 4.7 tonnes.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
@@ -161,3 +172,5 @@ According to the Navy account, the boats were in the preparatory stages of being
 The items burned at the Bundase Military Training Camp on Thursday included 564.39 kilogrammes of cannabis valued at US$112,878. [@7]
 
 Director of Naval Operations Captain Festus Osei Brobbey commended residents for providing information that supports security efforts along the waterway. [@8] The Ada East District Chief Executive, Kenneth Kofi Kabu Kanor, urged residents to prevent the Volta Lake from being exploited as a corridor for drug trafficking. [@8]
+
+Peace FM Online reported that the abandoned boats were escorted to Ada Foah and searched at about 5:00 a.m. in the presence of NACOC officials. [@11] Peace FM Online reported that each of the 117 sacks contained more than 80 tightly packed parcels. [@11]
