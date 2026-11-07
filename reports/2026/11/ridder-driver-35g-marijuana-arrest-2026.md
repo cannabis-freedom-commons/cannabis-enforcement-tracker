@@ -45,6 +45,11 @@ media:
     media_url: https://total.kz/storage/da/da6d6ca09ea071cb6baac4648bf8c004_resize_w_830_h_465.jpeg
     publisher: ИА Тотал Казахстан
     caption: 'Handout photo published with the Total.kz report on the Ridder traffic stop, credited to Polisia.kz. It shows a Kazakh police car at night and nothing specific to this stop. Photo: Polisia.kz'
+  - kind: video
+    url: https://yk.kz/news/kriminal/v-vko-voditel-v-narkoticheskom-opyanenii-vozil-v-mashine-marixuanu-452613.html
+    media_url: https://www.youtube.com/watch?v=YTNMh_1s8IQ
+    publisher: YK.KZ
+    caption: 'Police video of the Ridder traffic stop, credited by YK.KZ to the East Kazakhstan Region police department. Video: ДП ВКО'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dd43c4108587b12aaeebd4070849935f
@@ -65,6 +70,11 @@ sources:
     publisher: ИА Тотал Казахстан
     date: 2026-11-07
     language: ru
+  - title: В ВКО водитель в наркотическом опьянении возил в машине марихуану
+    url: https://yk.kz/news/kriminal/v-vko-voditel-v-narkoticheskom-opyanenii-vozil-v-mashine-marixuanu-452613.html
+    publisher: YK.KZ
+    date: 2026-11-07
+    language: ru
 open_questions:
   - The article gives no separate date for the stop; 7 November 2026 is its publication date and is used as the incident date.
   - The weight is stated only as more than 35 grams, and no street value was published.
@@ -75,17 +85,18 @@ open_questions:
   - The Qaz365.kz account is a reprint of the police media centre's statement and adds no detail beyond it.
   - Left out arrested, as no supporting quotation was given.
   - Left out kg seized, as no supporting quotation was given.
+  - YK.KZ credits its video to the East Kazakhstan Region police department; the page's own illustration is credited to pixabay.com and is not linked.
 ---
 
 Police in Ridder, in Kazakhstan's East Kazakhstan Region, stopped a Toyota
 Caldina during preventive patrol measures and detained its driver, a 34-year-old
-local resident. [@1,2,3] Officers thought the driver's condition unusual, and a
-medical examination confirmed he was under the influence of drugs. [@1,2,3] While
+local resident. [@1,2,3,4] Officers thought the driver's condition unusual, and a
+medical examination confirmed he was under the influence of drugs. [@1,2,3,4] While
 searching the car's interior they found a packet of brownish-green substance in
-the man's bag. [@1,2,3] Forensic testing identified the substance as marijuana
-weighing more than 35 grams. [@1,2,3]
+the man's bag. [@1,2,3,4] Forensic testing identified the substance as marijuana
+weighing more than 35 grams. [@1,2,3,4]
 
 A criminal case was opened over the finding, and the car was taken to a
-specialist impound lot. [@1,2,3] The report carried no charge, court outcome or
+specialist impound lot. [@1,2,3,4] The report carried no charge, court outcome or
 explanation from the driver, and police used it to warn that an intoxicated
 driver is a danger to everyone on the road. [@1,2]
