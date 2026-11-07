@@ -141,6 +141,11 @@ sources:
     publisher: خبرني
     date: 2026-11-06
     language: ar
+  - title: الإمارات تحبط مخططاً دولياً لتهريب المخدرات وتضبط 20 متهماً من جنسيات مختلفة
+    url: https://www.uaebarq.ae/ar/2026/11/06/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AD%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D8%A7%D9%8B-%D8%AF%D9%88%D9%84%D9%8A%D8%A7%D9%8B-%D9%84%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84/
+    publisher: برق الإمارات
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -170,29 +175,31 @@ open_questions:
   - No separate weight for the marijuana or hashish was published; the more than 30 kg figure covers cocaine, crystal, marijuana, hashish and Spice together.
   - The Khaberni page gives no date for the interception or the arrests; 6 November 2026 is the announcement and publication date.
   - The page's only picture is captioned with the headline about the 200,000 Captagon pills and 30 kg of drugs and is not established to show this seizure, so no media entry is added.
+  - The page gives no separate weight for the marijuana or hashish; the more than 30 kg figure covers cocaine, crystal, marijuana, hashish and Spice together.
+  - The page gives no date for the interception or arrests; 6 November 2026 is its publication date.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
-6 November 2026. [@1,6,7,8,9,10,11,12,13,15,16] The suspects are described as holding Gulf, Arab, African
+6 November 2026. [@1,6,7,8,9,10,11,12,13,15,16,18] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
 link of the plan, from smuggling to preparation for dealing. [@1,6,10,14]
 
 Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
-surveillance, Shafaq News reported. [@4,5,8,10,11,12,13,15,17] The network planned to bring the drugs
+surveillance, Shafaq News reported. [@4,5,8,10,11,12,13,15,17,18] The network planned to bring the drugs
 in through a border area of Ras Al Khaimah and then distribute them around the
-country. [@1,8,9,10,12,16,17]
+country. [@1,8,9,10,12,16,17,18]
 
 The haul included marijuana and hashish among cocaine, crystal methamphetamine
 and Spice; the latter is a synthetic drug and is not counted as cannabis here.
-[@2,9,10,11,12,13,16,17] The operation also seized 200,000 Captagon pills and more than 30 kg of
+[@2,9,10,11,12,13,16,17,18] The operation also seized 200,000 Captagon pills and more than 30 kg of
 drugs in total, with no separate figure given for the cannabis. [@3,11,12,17]
 
 The National Anti-Narcotics Agency ran the operation with Ras Al Khaimah Police,
 Iraq's General Directorate for Narcotics and Psychotropic Substances and the
 Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10,11,12]
 The agency said the operation struck a blow at trafficking networks and called
-on the public to report suspicious activity. [@1]
+on the public to report suspicious activity. [@1,18]
 
-The network's plan was uncovered after the UAE and Iraq exchanged intelligence, and the operation was run with the police forces of Ras Al Khaimah, Dubai, Sharjah and Ajman as well as Iraq's Interior Ministry narcotics directorate, under judicial coordination with the Federal Public Prosecution. [@15]
+The network's plan was uncovered after the UAE and Iraq exchanged intelligence, and the operation was run with the police forces of Ras Al Khaimah, Dubai, Sharjah and Ajman as well as Iraq's Interior Ministry narcotics directorate, under judicial coordination with the Federal Public Prosecution. [@15,18]
