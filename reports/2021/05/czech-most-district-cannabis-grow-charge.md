@@ -21,13 +21,10 @@ figures:
     currency: CZK
 media:
   - kind: photo
-    url: https://archiv.policie.gov.cz/clanek/policie-zabavila-pres-5-tisic-gramu-marihuany.aspx
-    publisher: Policie České republiky
-    caption: 'Police photographs of the seized marijuana, a grow box, cannabis plants and dried plant material. Photo: Police of the Czech Republic'
-  - kind: photo
     url: https://www.e-mostecko.cz/zpravy/most/156903-obrazem-policie-zabavila-v-dome-na-mostecku-marihuanu-za-pul-milionu-pestitele-obvinila-ze-zlocinu
-    publisher: e-Mostecko.cz
-    caption: Photographs of the seized marijuana published with the report.
+    media_url: https://e-deniky.cz/images/e-mostecko/Foto_2021/05_kveten/0505marihuana4.jpg
+    publisher: e-mostecko.cz
+    caption: "Bagged dried cannabis seized at the Mostecko house grow (Police of the Czech Republic via e-mostecko.cz)."
 details:
   activity: [cultivation, sale]
   agency_types: [police]
@@ -66,6 +63,7 @@ open_questions:
   - The black-market value is the police's estimate of more than half a million korunas, not a sale price.
   - The local report by e-Mostecko.cz largely repeats the police statement; no independently investigated account was found.
   - 'Left out, as its quotation was not found in Policie České republiky: If convicted, they face two to ten years in prison.'
+  - Policie ČR also published a case write-up of the same Mostecko seizure without a separate direct media_url entry here.
 ---
 
 Detectives from the Most police's Toxi team, a drug-crime unit, charged two men

@@ -32,13 +32,10 @@ data_sources:
   figures.kg_seized: [2, 1, 3]
 media:
   - kind: photo
-    url: https://news.coastguard.gov.lk/news/2022/09/13/202209141526/
-    publisher: Sri Lanka Coast Guard
-    caption: 'Photographs released with the Coast Guard statement on the interception of the dhow and trawler. Photo: Sri Lanka Coast Guard'
-  - kind: photo
     url: https://www.newsfirst.lk/2022/09/14/kerala-ganja-worth-rs-130-mn-sezied
+    media_url: "https://cdn.newsfirst.lk/english-uploads/2022/09/4 (10)-695959_850x460.jpg"
     publisher: News First
-    caption: 'The fishing boat at sea in the lead photograph of the News First report. Photo: News First'
+    caption: "Sacks of seized Kerala cannabis displayed on a Sri Lanka Navy vessel after the Kudiramalai interception (News First)."
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [kerala-cannabis, puttalam, smuggling, coast-guard, navy]
@@ -60,6 +57,7 @@ open_questions:
   - The Coast Guard gave the weight as 434.8 kg; News First and The Hindu reported about 434 kg.
   - News First reported a street value of over Rs 130 million in Sri Lankan rupees, while The Hindu gave ₹13 crore in Indian rupees; the currencies differ, so no single value is recorded.
   - The interception was 37 nautical miles off Kudiramalai Point; the coordinates mark the point, not the exact sea position.
+  - Sri Lanka Coast Guard published a related case notice without a separate direct media_url entry here.
 ---
 
 A special operation by the Sri Lanka Navy and the Sri Lanka Coast Guard

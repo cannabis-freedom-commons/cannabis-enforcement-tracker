@@ -15,10 +15,11 @@ figures:
   plants_destroyed: 298500
   hectares: 60.4
 media:
-  - kind: video
+  - kind: photo
     url: https://northeastlivetv.com/around-ne/tripura/tripuras-war-on-drugs-marijuana-cultivation-in-forest-lands-destroyed/
+    media_url: https://northeastlive.s3.amazonaws.com/media/uploads/2023/12/marijuana-web.png
     publisher: Northeast Live
-    caption: 'Sepahijala District Police video posted on 16 December 2023 of the destruction drive, embedded in the report. Video: Sepahijala District Police'
+    caption: "Personnel moving through a hillside cannabis plantation during the Tripura forest-land destruction (Northeast Live)."
 details:
   agencies: [in-ncb, in-bsf]
   agency_types: [anti-narcotics, border-guard]

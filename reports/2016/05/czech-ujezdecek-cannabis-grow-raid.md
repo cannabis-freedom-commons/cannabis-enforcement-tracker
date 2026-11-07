@@ -35,16 +35,9 @@ data_sources:
 media:
   - kind: photo
     url: https://teplicky.denik.cz/krimi/pestirna-konopi-v-ujezdecku/
+    media_url: https://teplicky.denik.cz/images/api/image/1366x910/341/341aa933-5579-4260-9844-fe0f2363ba97.jpeg
     publisher: Teplický deník
-    caption: 'Police photographs of the cannabis drying in the hidden room, the plants under lights, bags of harvested cannabis and the indoor grow in the rented hall. Photo: Police of the Czech Republic (PČR).'
-  - kind: video
-    url: https://teplicky.denik.cz/krimi/pestirna-konopi-v-ujezdecku/
-    publisher: Teplický deník
-    caption: 'Police video of the indoor cannabis grow found in the rented hall in Újezdeček. Source: Police of the Czech Republic (PČR).'
-  - kind: photo
-    url: https://www.zitteplice.cz/polciie-nahodou-objevila-pestirnu-konopi/
-    publisher: Žít Teplice
-    caption: A photograph of the cannabis grow found in the abandoned Újezdeček complex.
+    caption: "Harvested cannabis drying on a mesh rack with evidence marker 20 at the Újezdeček grow (Police of the Czech Republic via Teplický deník)."
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 tags: [cannabis-grow, teplice, ujezdecek, indoor-growing, theft]

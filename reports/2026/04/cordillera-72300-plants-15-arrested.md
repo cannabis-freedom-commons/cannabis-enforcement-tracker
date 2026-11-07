@@ -19,9 +19,10 @@ figures:
   hectares: 0.5
 media:
   - kind: photo
-    url: https://northluzon.politiko.com.ph/2026/04/22/p24-7m-worth-of-illegal-drugs-seized-15-arrested-in-cordillera-anti-drug-operations/daily-feed/
-    publisher: POLITIKO North Luzon
-    caption: Two camouflaged soldiers wearing face masks hold a banner in a field of cannabis plants during the Cordillera operation.
+    url: https://www.manilatimes.net/2026/04/21/regions/p247m-illegal-drugs-seized-15-nabbed-in-cordillera/2324165
+    media_url: https://manilatimes.net/manilatimes/uploads/images/2026/04/20/1020702.jpg
+    publisher: The Manila Times
+    caption: "Camouflaged personnel uprooting cannabis plants during the Cordillera operation (The Manila Times)."
 details:
   agencies: [ph-pdea]
   agency_types: [anti-narcotics]

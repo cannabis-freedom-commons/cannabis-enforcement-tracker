@@ -18,8 +18,9 @@ figures:
 media:
   - kind: photo
     url: https://uttarbangasambad.com/40-kg-of-marijuana-recovered-from-tenzing-norgay-bus-terminus-in-siliguri-4-arrested/
+    media_url: https://uttarbangasambad.com/wp-content/uploads/2025/05/gaja-1.gif
     publisher: Uttarbanga Sambad
-    caption: 'A composite image at the top of the article shows officers standing with the four arrested youths at the terminus, and the recovered bags of ganja laid out on tables. Photo: Uttarbanga Sambad.'
+    caption: "Wrapped cannabis bundles and a scale after the Tenzing Norgay Bus Terminus seizure in Siliguri (Uttarbanga Sambad)."
 details:
   activity: [possession]
   agency_types: [police]
