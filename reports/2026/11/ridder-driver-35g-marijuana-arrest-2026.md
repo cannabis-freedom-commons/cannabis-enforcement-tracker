@@ -1,0 +1,74 @@
+---
+code: P647HV
+added_at: "2026-11-07T08:28:27.49695Z"
+date: 2026-11-07
+country: kz
+place: Ridder, East Kazakhstan Region
+coordinates: [50.3441, 83.5129]
+precision: locality
+type: arrest
+also: [seizure, prosecution]
+title: Driver, 34, held in Ridder with 35 grams of marijuana in his car
+summary: >-
+  Police in Ridder, East Kazakhstan Region, stopped a 34-year-old local man's Toyota Caldina and a medical examination found him under the influence of drugs. A search of the car turned up a packet of marijuana weighing more than 35 grams, and a criminal case was opened.
+figures:
+  arrested: 1
+  kg_seized: 0.035
+details:
+  agencies: [полиция]
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 0.035}
+  activity: [possession]
+  setting: [vehicle]
+  case_stage: investigation
+  force: [none-reported]
+  region: East Kazakhstan Region
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.force: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+media:
+  - kind: video
+    url: https://polisia.kz/ru/p-yanogo-voditelya-s-marihuanoj-zaderzhali-v-riddere/
+    media_url: https://www.youtube.com/watch?v=CkxP_tv79vU
+    publisher: Polisia.kz
+    caption: 'Police video published with the report, titled in Kazakh "a driver who drove under the influence of drugs was detained in East Kazakhstan Region", with the Kazakh interior ministry media centre as channel. Video: Polisia.kz'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: dd43c4108587b12aaeebd4070849935f
+tags: [ridder, east-kazakhstan, marijuana, drug-driving, traffic-stop]
+sources:
+  - title: Пьяного водителя с марихуаной задержали в Риддере
+    url: https://polisia.kz/ru/p-yanogo-voditelya-s-marihuanoj-zaderzhali-v-riddere/
+    publisher: Информационный медиа-портал POLISIA.KZ
+    date: 2026-11-07
+    language: ru
+open_questions:
+  - The article gives no separate date for the stop; 7 November 2026 is its publication date and is used as the incident date.
+  - The weight is stated only as more than 35 grams, and no street value was published.
+  - The article names no charge, no article of the criminal code and no measure of restraint; the case was at the investigation stage.
+  - The driver is identified only by age and place of residence.
+  - Only one account was found, the police media outlet's own report; no independent outlet coverage was located.
+  - The page photo carries no caption establishing what it shows, so no photo is linked; only the embedded police video is listed.
+---
+
+Police in Ridder, in Kazakhstan's East Kazakhstan Region, stopped a Toyota
+Caldina during preventive patrol measures and detained its driver, a 34-year-old
+local resident. [@1] Officers thought the driver's condition unusual, and a
+medical examination confirmed he was under the influence of drugs. [@1] While
+searching the car's interior they found a packet of brownish-green substance in
+the man's bag. [@1] Forensic testing identified the substance as marijuana
+weighing more than 35 grams. [@1]
+
+A criminal case was opened over the finding, and the car was taken to a
+specialist impound lot. [@1] The report carried no charge, court outcome or
+explanation from the driver, and police used it to warn that an intoxicated
+driver is a danger to everyone on the road. [@1]
+
