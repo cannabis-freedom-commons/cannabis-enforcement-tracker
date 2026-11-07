@@ -82,6 +82,16 @@ sources:
     publisher: Yozgat Gazetesi
     date: 2026-11-07
     language: tr
+  - title: Adana'da iki adrese yapılan baskında 7 kilo 108 gram esrar bulundu
+    url: https://www.aksiyon.com.tr/adana-da-iki-adrese-yapilan-baskinda-7-kilo-108-gram-esrar-bulundu-390107
+    publisher: Aksiyon
+    date: 2026-11-07
+    language: tr
+  - title: Adana'da jandarma operasyonunda 7 kilo 108 gram esrar ele geçirildi
+    url: https://www.haberler.com/3-sayfa/adana-da-jandarma-operasyonunda-7-kilo-108-gram-esrar-ele-gecirildi-20404738-haberi/
+    publisher: Haberler.com
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports give no separate date for the raids; 7 November 2026 is the publication date and is used as the incident date.
   - No charge, court step, suspect name or estimated value of the cannabis was published; the investigation was said to be continuing.
@@ -96,13 +106,18 @@ open_questions:
   - The page photo is captioned only with the headline and has no photographer or agency credit, so whether it shows this seizure is not established and no media entry is added.
   - The page images carry only the headline as a caption and no photographer or agency credit, and they could not be distinguished from the Habertürk page image already listed, so no media entries are added.
   - Küçük Saat does not say how the two addresses related to each other or how the esrar was divided between them, and it gives no separate date for the raids.
+  - Aksiyon says both a judicial and an administrative investigation are continuing, while the accounts already cited in the report describe only an ongoing investigation without saying it has an administrative arm.
+  - Aksiyon gives no separate date for the raids; 7 November 2026 is its publication date, as in the existing report.
+  - Aksiyon reproduces the same İhlas Haber Ajansı account as the outlets already cited, so it is not independent reporting.
+  - The Aksiyon page carries a second photo captioned with the headline of the operation; no photographer or agency credit is stated, so no new media entry is added beyond the images already listed for this case.
+  - 'Left out, as its quotation was not found in Aksiyon: Both a judicial and an administrative investigation into the raid were said to be continuing, according to the Aksiyon account.'
 ---
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses
 identified in Seyhan, a central district of Adana province, in a continuing
-anti-smuggling and anti-drug campaign. [@1,4,5,6,7] Searches at the two addresses turned
+anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8] Searches at the two addresses turned
 up 7,108 grams of kubar esrar, a pressed form of cannabis known in Turkey as
-esrar. [@1,4,5,6,7] Gendarmes detained two suspects in the operation. [@1,4,5,6]
+esrar. [@1,4,5,6,7,9] Gendarmes detained two suspects in the operation. [@1,4,5,6,9]
 
 The investigation into the case was continuing. [@1,4,5,6] The gendarmerie command
 said its teams were continuing their work against smuggling and drugs. [@2] The
