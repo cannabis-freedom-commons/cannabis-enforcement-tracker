@@ -76,6 +76,11 @@ sources:
     publisher: 中評社
     date: 2026-11-06
     language: zh
+  - title: 日本一自卫队员因吸食大麻被开除
+    url: https://m.stnn.cc/detail/6aed718f8f9d2b19dd3d7b94.html
+    publisher: 星岛环球网 (stnn.cc)
+    date: 2026-11-06
+    language: zh
 open_questions:
   - No weight, form or value of the cannabis was published, so no cannabis quantity is recorded.
   - Sankei reports the soldier also used a type of synthetic drug; that substance is outside this tracker's scope and no quantities of any drug are given.
@@ -97,7 +102,7 @@ media:
 
 Japan's Ground Self-Defense Force dismissed a 19-year-old private second class
 at the Kaita garrison in Hiroshima Prefecture on 6 November 2026 over cannabis
-use. [@1,5,7] The dismissal was pronounced by the 46th Infantry Regiment, the unit
+use. [@1,5,7,8] The dismissal was pronounced by the 46th Infantry Regiment, the unit
 at the Kaita garrison in Kaita town, Hiroshima Prefecture, according to the
 Chugoku Shimbun. [@3,6]
 
@@ -108,9 +113,9 @@ broadcast report on the arrests said police suspected the three men of using
 cannabis at one of their homes between about May and August 2026. [@4] Sankei
 reported that neighbours complained about noise on the night of 29 August, that
 the soldier collapsed while officers questioned him and was taken to hospital,
-and that a drug test was positive. [@2] The Kaita police station arrested him in
+and that a drug test was positive. [@2,8] The Kaita police station arrested him in
 September on suspicion of violating the Narcotics and Psychotropics Control Law
-by use. [@2,7]
+by use. [@2,7,8]
 
 Asked about the matter in the garrison's hearing, the soldier said it was a
 momentary impulse and that he was deeply sorry. [@1] Colonel Manji Hyodo,
@@ -119,4 +124,4 @@ instruction to its members and work to prevent a repeat. [@1] The Chugoku
 Shimbun reported that the garrison said this was the first time one of its
 members had been arrested over a drug case. [@4]
 
-Neighbours called police about noise on the night of 29 August, according to the Kyodo account carried by Xinhua. [@7]
+Neighbours called police about noise on the night of 29 August, according to the Kyodo account carried by Xinhua. [@7,8]
