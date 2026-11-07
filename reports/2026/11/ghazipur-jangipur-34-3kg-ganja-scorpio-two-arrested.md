@@ -56,6 +56,11 @@ sources:
     url: https://timesofindia.indiatimes.com/city/varanasi/two-held-in-ghazipur-with-34kg-ganja/articleshow/135642658.cms
     publisher: The Times of India
     date: 2026-11-07
+  - title: Ghazipur News:स्कॉर्पियो से 34.300 किलोग्राम गांजा बरामद, दो तस्कर गिरफ्तार
+    url: https://www.amarujala.com/uttar-pradesh/ghazipur/34300-kg-of-cannabis-seized-from-a-scorpio-two-smugglers-arrested-ghazipur-news-c-313-1-svns1020-163553-2026-11-07
+    publisher: Amar Ujala
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives no date for the check and arrests; 7 November 2026 is its publication date and is used as the incident date.
   - Only one opened account of this event was found, and no police statement or second outlet report could be located to confirm the weight and the vehicle.
@@ -64,22 +69,26 @@ open_questions:
   - The Times of India gives no date beyond 'Saturday'; 7 November 2026 is its publication date and the existing report's incident date.
   - The Times of India names the location as the Arsadpur tri-junction, while the earlier Hindi report called it the Arsadpur crossing; the two are treated as the same spot.
   - The Times of India counts the seized vehicle only as an SUV and does not name a case number or charges.
+  - The Amar Ujala account says one of the two men already faced two earlier cases registered at Rajghat police station in Gorakhpur, one of them under the NDPS Act; it gives no case numbers or dates for them.
+  - Amar Ujala gives no packet count, no information on where the ganja came from or was to be sold, and no charge sheet or court outcome.
 ---
 
 Jangipur station officer Om Prakash and sub-inspector Pannelal Yadav, with their
 team, arrested two men during a check at the Arsadpur crossing in Ghazipur
-district. [@1]
+district. [@1,3]
 
 Officers seized 34 kg 300 g of illegal ganja from them, which police estimated
-to be worth 1,715,000 rupees. [@1,2] The two were travelling in a Scorpio, which
-police also took possession of. [@1,2]
+to be worth 1,715,000 rupees. [@1,2,3] The two were travelling in a Scorpio, which
+police also took possession of. [@1,2,3]
 
 Police said the two arrested men live in Gorakhpur district, at Mughalpura alias
 Muhammadabad village under Pipraich station and at Amrud Mandi, Rajghat, under
-Rajghat station. [@1]
+Rajghat station. [@1,3]
 
 A case, number 238/26, was registered at Jangipur police station under section
 8/20 of the NDPS Act, India's Narcotic Drugs and Psychotropic Substances Act,
-and further legal proceedings were under way. [@1]
+and further legal proceedings were under way. [@1,3]
 
 Police said the SUV tried to evade the vehicle check and was chased and intercepted after a brief pursuit. [@2]
+
+The report says one of the two arrested men had two earlier cases registered against him at Rajghat police station in Gorakhpur district, one of them under the NDPS Act. [@3]
