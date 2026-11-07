@@ -49,9 +49,10 @@ sources:
     language: nl
 media:
   - kind: photo
-    url: https://images.ad.nl/ZWM5MzJmZDE5ZGZjZWRmNjJmOTgvZGlvLzI3NTc3NDg1NC9mb2N1cy1hbmQtZmlsbC8wLjUwLzAuNTAvMTIwMC82MzA/dat-gebeurde-donderdag-in-een-bedrijfspand-aan-de-dolfijn-in-enkhuizen-na-meldingen-via-meld-misdaad-anoniem
+    url: https://www.ad.nl/enkhuizen/politie-ontmantelt-hennepkwekerij-met-280-planten-aan-dolfijn-in-enkhuizen~ad8e5c5d/
+    media_url: https://images.ad.nl/ZWM5MzJmZDE5ZGZjZWRmNjJmOTgvZGlvLzI3NTc3NDg1NC9mb2N1cy1hbmQtZmlsbC8wLjUwLzAuNTAvMTIwMC82MzA/dat-gebeurde-donderdag-in-een-bedrijfspand-aan-de-dolfijn-in-enkhuizen-na-meldingen-via-meld-misdaad-anoniem
     publisher: AD
-    caption: Cannabis plants under lamps and fans in a plastic-lined room. The AD credits the photograph to the police.
+    caption: "Cannabis plants under lamps and fans in a plastic-lined room. The AD credits the photograph to the police."
 ---
 
 On Thursday 9 July 2026 the North Holland drugs team of the police entered business premises on Dolfijn in Enkhuizen and dismantled a cannabis grow. [@1,2] The police published the account the next day and named Enkhuizen. [@1] The AD published the same account that afternoon. [@2]

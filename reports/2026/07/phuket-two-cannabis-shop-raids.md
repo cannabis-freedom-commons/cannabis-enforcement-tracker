@@ -37,19 +37,16 @@ media:
   - kind: photo
     url: https://thethaiger.com/news/phuket/two-phuket-cannabis-shops-caught-operating-despite-suspension
     archived: https://web.archive.org/web/20260720085739/https://thethaiger.com/news/phuket/two-phuket-cannabis-shops-caught-operating-despite-suspension
+    media_url: https://thethaiger.com/wp-content/uploads/2026/07/สำเนาของ-23-34-44-1.jpg
     publisher: The Thaiger
-    caption: Officials raid two Phuket cannabis shops that were operating under suspended licences (photos from PR Phuket)
-  - kind: photo
-    url: https://www.nationtv.tv/news/current-issue/378980112
-    archived: https://web.archive.org/web/20260801074627/https://www.nationtv.tv/news/current-issue/378980112
-    publisher: Nation TV
-    caption: Photos published with Nation TV's report of the raid on the Phuket cannabis shops
+    caption: "Officials at a Phuket cannabis shop counter during the suspended-licence raids (The Thaiger / PR Phuket)."
 created_by_model: alibaba-token-plan/qwen3.8-flash
 status: verified
 tags: [cannabis-shops, licence-suspension, interior-ministry]
 open_questions:
   - The reports do not give a number of arrested people or name the suspects.
   - The shops are not identified by name or exact address beyond the two districts.
+  - Nation TV published additional raid photos of the same Phuket shop enforcement without a separate direct media_url entry here.
 sources:
   - title: มท.2 บุกจับร้านกัญชาภูเก็ต-ยืนคำสั่งพักใบอนุญาตเย้ยกฎหมาย
     url: https://www.nationtv.tv/news/current-issue/378980112

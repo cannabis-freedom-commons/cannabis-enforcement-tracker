@@ -47,6 +47,7 @@ open_questions:
   - Cambio was published on 3 July 2026 and does not give a separate day for the seizure; 30 June remains the defence ministry announcement date used by the report.
   - Cambio names no arrests, detentions or court outcome for this seizure.
   - Cambio's photos are credited to the Peruvian defence ministry and appear to repeat the agency handout already cited, so no new distinct media is added.
+  - The Peruvian defence ministry published river-landing photos of the same Loreto operation without a separate cannabis-visible media_url entry here.
 sources:
   - title: Fuerzas Armadas de Perú y Colombia golpean al tráfico ilícito de drogas en Loreto e incautan más de 9 toneladas de cannabis sativa
     url: https://www.gob.pe/institucion/mindef/noticias/1412932-fuerzas-armadas-de-peru-y-colombia-golpean-al-trafico-ilicito-de-drogas-en-loreto-e-incautan-mas-de-9-toneladas-de-cannabis-sativa
@@ -70,13 +71,10 @@ sources:
     language: es
 media:
   - kind: photo
-    url: https://cdn.www.gob.pe/uploads/document/file/10225556/standard_1412932-732934699_1706797370556516_3185073151779497488_n.jpg
-    publisher: Ministerio de Defensa del Perú
-    caption: Peruvian Navy boats and soldiers at a river landing, the photograph the defence ministry published with this seizure.
-  - kind: photo
-    url: https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/06/30/6a446bd500d719131a0b0365.jpg
+    url: https://larepublica.pe/politica/2026/06/30/loreto-incautan-casi-10-toneladas-de-marihuana-en-operativo-conjunto-de-peru-y-colombia-narcotrafico
+    media_url: https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/06/30/6a446bd500d719131a0b0365.jpg
     publisher: La República
-    caption: Wrapped bales stacked inside a wooden room, the photograph La República published with the Callarú seizure.
+    caption: "Wrapped bales stacked inside a wooden room after the Callarú seizure (La República)."
 ---
 
 Peru's defence ministry said on 30 June 2026 that the armed forces of Peru and

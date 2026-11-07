@@ -45,10 +45,11 @@ sources:
     language: en
 media:
   - kind: photo
-    url: https://bnrnews.bg/api/media/668abab5-6a6a-467c-acf1-065efd19be08?Size=large
+    url: https://bnrnews.bg/en/post/482852/bulgaria-seizes-helicopter-marijuana-worth-2-million-euros-in-anti-drug-raid
     archived: https://web.archive.org/web/20261015105141/https://bnrnews.bg/api/media/668abab5-6a6a-467c-acf1-065efd19be08?Size=large
+    media_url: https://bnrnews.bg/api/media/668abab5-6a6a-467c-acf1-065efd19be08?Size=large
     publisher: BNR News
-    caption: 'GDBOP officer with seized vacuum-sealed marijuana in the Zimnitsa warehouse. Photo via BNR News'
+    caption: "GDBOP officer with seized vacuum-sealed marijuana in the Zimnitsa warehouse. Photo via BNR News"
 ---
 
 More than 250 kilograms of marijuana worth around €2 million and a helicopter

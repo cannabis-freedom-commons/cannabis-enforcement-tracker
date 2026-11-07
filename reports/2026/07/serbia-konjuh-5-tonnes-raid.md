@@ -33,19 +33,15 @@ data_sources:
   details.setting: [3, 5, 6, 4, 7]
 media:
   - kind: photo
-    url: https://srpske.rs/uploads/articles/konjuh-drug-squad-officers-letter-macut-15-removed-16x9.webp
-    publisher: Srpske Novine
-    caption: 'Seized boxes of marijuana stacked in the Konjuh yard. Photo: Serbian Interior Ministry via Vreme'
+    url: https://balkaninsight.com/2026/07/22/serbia-indicts-six-for-drug-trafficking-linked-to-north-macedonia/
+    media_url: https://srpske.rs/uploads/articles/konjuh-drug-squad-officers-letter-macut-15-removed-16x9.webp
+    publisher: Srpske Novine / Serbian Interior Ministry
+    caption: "Seized boxes of marijuana stacked in the Konjuh yard (Serbian Interior Ministry via Srpske Novine)."
   - kind: photo
-    url: https://balkaninsight.com/2026/07/22/serbia-indicts-six-for-drug-trafficking-linked-to-north-macedonia/bi/
+    url: https://balkaninsight.com/2026/07/22/serbia-indicts-six-for-drug-trafficking-linked-to-north-macedonia/
     media_url: https://balkaninsight.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-151830-1536x862.png
     publisher: Balkan Insight
-    caption: 'A box with marijuana seized by police in the village of Konjuh on January 29, 2026. Photo: Instagram/mupsrbije.'
-  - kind: photo
-    url: https://balkaninsight.com/2026/08/26/plea-deals-reveal-logistics-of-smuggling-macedonian-marijuana-into-serbia/bi/
-    media_url: https://balkaninsight.com/wp-content/uploads/2026/08/Konjuh-marijuana-Photo-by-Interior-Ministry-of-Serbia.jpg
-    publisher: Balkan Insight
-    caption: 'Police photos of the five tonnes of marijuana seized in Konjuh. Photo: Serbian Interior Ministry.'
+    caption: "A box with marijuana seized by police in Konjuh. Photo: Instagram/mupsrbije via Balkan Insight."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [krusevac, record]

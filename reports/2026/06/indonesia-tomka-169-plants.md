@@ -19,9 +19,10 @@ figures:
   plants_destroyed: 169
 media:
   - kind: photo
-    url: https://cdn.antaranews.com/cache/1200x800/2026/06/23/1002395483.jpg
+    url: https://www.antaranews.com/berita/5619641/satgas-yonif-753-atv-amankan-ladang-ganja-di-oksamol-pegubin
+    media_url: https://cdn.antaranews.com/cache/1200x800/2026/06/23/1002395483.jpg
     publisher: ANTARA
-    caption: 'Soldiers uprooting harvest-ready cannabis at Tomka. Photo: Kogabwilhan III via ANTARA'
+    caption: "Soldiers uprooting harvest-ready cannabis at Tomka. Photo: Kogabwilhan III via ANTARA"
 details:
   activity: [cultivation]
   agency_types: [military, police]

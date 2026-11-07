@@ -18,9 +18,10 @@ figures:
   kg_seized: 10000
 media:
   - kind: photo
-    url: https://24kgr2.bemint.pro/files/media/451/451854.jpeg
+    url: https://www.24.kg/reportazhi/378849_vtalasskom_rayone_unichtojili_10tonn_dikorastuschey_konopli/
+    media_url: https://24kgr2.bemint.pro/files/media/451/451854.jpeg
     publisher: 24.kg
-    caption: 'Officers watching a pile of wild cannabis burn in Talas. Photo: 24.kg'
+    caption: "Officers watching a pile of wild cannabis burn in Talas. Photo: 24.kg"
 details:
   activity: [trafficking]
   agency_types: [police]

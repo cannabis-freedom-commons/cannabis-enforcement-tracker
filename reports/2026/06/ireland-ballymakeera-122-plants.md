@@ -54,8 +54,9 @@ sources:
 media:
   - kind: photo
     url: https://www.radiokerry.ie/news/gardai-seize-almost-e118000-of-cannabis-at-grow-house-on-kerry-cork-border-486898
+    media_url: https://img.resized.co/radiokerry-ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltZy5yYWRpb2tlcnJ5LmllXFxcL3Byb2RcXFwvdXBsb2Fkc1xcXC9CYWxseW1ha2VlcmEtQmFpbGUtTWhpYy1JcmUtR3Jvdy1Ib3VzZS1Bbi1HYXJkYS1TaW9jaGFuYS5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LnJhZGlva2VycnkuaWVcXFwvaW1hZ2VzXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIwYWE3MTViMzIwYTc0NzNlMDRmNzFjMmUyYTM3YWU3MmIzZjk3MTBmIn0=/garda-seize-almost-118-000-of-cannabis-at-grow-house-on-kerry-border.jpg
     publisher: Radio Kerry
-    caption: The cannabis grow house found at Ballymakeera
+    caption: "Indoor cannabis plants with LED lights and support stakes at the Ballymakeera grow house (Radio Kerry / An Garda Síochána)."
 ---
 
 Gardaí found a cannabis grow house at a home in Ballymakeera, Co Cork, on 8 June 2026 and seized 122

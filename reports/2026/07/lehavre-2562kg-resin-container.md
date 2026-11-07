@@ -20,8 +20,9 @@ figures:
 media:
   - kind: photo
     url: http://www.douane.gouv.fr/actualites/saisie-de-25-tonnes-de-resine-de-cannabis-scellees-dans-des-caissons-metalliques
+    media_url: http://www.douane.gouv.fr/sites/default/files/uploads/images/2026-07/saisie-resine-cannabis_0.jpg
     publisher: Douane française
-    caption: Photo published with the customs announcement of the Le Havre resin seizure
+    caption: "A French customs officer cutting into sealed metal machinery used to hide resin at Le Havre (Douane française)."
 created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
 details:
   activity: [smuggling]
