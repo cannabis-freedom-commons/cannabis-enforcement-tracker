@@ -58,6 +58,11 @@ sources:
     publisher: O Penafidelense
     date: 2026-11-06
     language: pt
+  - title: Homem de 25 anos detido por tráfico de droga em Amarante com 100 doses de haxixe
+    url: https://novumcanal.pt/2026/11/homem-de-25-anos-detido-por-trafico-de-droga-em-amarante-com-100-doses-de-haxixe/
+    publisher: Novum Canal
+    date: 2026-11-06
+    language: pt
 open_questions:
   - No weight in grams or street value was published; the cannabis quantity is given only as 100 doses of hashish.
   - The sources do not say whether the two knives brought a separate weapons charge.
@@ -67,17 +72,16 @@ open_questions:
 
 GNR officers from the Amarante territorial post detained a 25-year-old man on
 suspicion of drug trafficking in the municipality of Amarante on 4 November
-2026. [@2] The arrest came during a patrol when officers approached a suspect in
-the street and found he was carrying an illicit substance. [@1] The search
-turned up 100 doses of hashish and two clasp knives. [@1]
+2026. [@2,5] The arrest came during a patrol when officers approached a suspect in
+the street and found he was carrying an illicit substance. [@1,5] The search
+turned up 100 doses of hashish and two clasp knives. [@1,5]
 
 Officers detained the man and formally made him an official suspect at the
 scene. [@1] The facts were reported to the Judicial Court of the Amarante
-district for any coercive measures to be applied. [@3]
+district for any coercive measures to be applied. [@3,5]
 
 The GNR's Porto territorial command said the Amarante post made the stop as part
 of a regular preventive patrol in the area. [@1] The GNR published its own
 account of the arrest, listing the same seizure of 100 doses of hashish and two
 knives. [@2] O Penafidelense reported that the GNR seized 100 doses of hashish
 and two clasp knives in the patrol. [@4]
-
