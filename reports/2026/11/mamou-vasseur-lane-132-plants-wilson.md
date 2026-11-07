@@ -61,6 +61,10 @@ sources:
     url: https://www.klfy.com/local/evangeline-parish/over-100-marijuana-plants-seized-in-evangeline-parish/
     publisher: KLFY.com
     date: 2026-11-06
+  - title: Over 100 marijuana plants seized in Evangeline Parish
+    url: https://www.klfy.com/local/over-100-marijuana-plants-seized-in-evangeline-parish/
+    publisher: KLFY.com
+    date: 2026-11-06
 open_questions:
   - The arrest date is not given; deputies arrested the man “later on”, after the 2 November search, so 2 November is the raid date and not necessarily the arrest date.
   - The 971 grams is described only as marijuana; no source separates plants from dried product or says what of the 132 plants was uprooted rather than taken.
@@ -68,23 +72,24 @@ open_questions:
   - The man’s booking and custody status, and any court date or outcome, were not reported; the case was at the charge stage.
   - The seized items photograph listed on the page could not be confirmed by a direct image address, so only the plants photo is linked.
   - No independent second account of the raid was found; the only source is KLFY’s report of the sheriff’s office statement.
+  - An 'items seized during the investigation' photo appears on the page but its direct image address could not be recovered from the markup, so it is not linked as media.
+  - No independent outlet coverage of the raid was found; both KLFY URLs carry the same sheriff's office account.
 ---
 
 Deputies of the Evangeline Parish Sheriff’s Office searched a camper and three
 greenhouses at 1058 Vasseur Lane in Mamou on 2 November 2026, after a 10 October
-tip that a greenhouse there held a large amount of marijuana. [@1] The owner,
+tip that a greenhouse there held a large amount of marijuana. [@1,2] The owner,
 42-year-old Jimmy Lynn Wilson, was the sole resident of the camper and land and
 was not there during the search. [@1]
 
-Deputies seized 132 marijuana plants and 971 grams of marijuana. [@1] They also
+Deputies seized 132 marijuana plants and 971 grams of marijuana. [@1,2] They also
 took two rifles, a Remington Model 700 .270 and a Savage Model 19 .22 Long
-Rifle, and 45 kratom capsules. [@1] The sheriff’s office put the street value of
-the drugs at about $32,450. [@1]
+Rifle, and 45 kratom capsules. [@1,2] The sheriff’s office put the street value of
+the drugs at about $32,450. [@1,2]
 
 Deputies later found and arrested Wilson and charged him with possession with
 intent to distribute marijuana and 132 counts of cultivation, production,
 distribution or possession with intent to distribute marijuana, all felonies
-under Louisiana Revised Statute 40:966. [@1] Deputies also charged him with two
+under Louisiana Revised Statute 40:966. [@1,2] Deputies also charged him with two
 counts of possessing a firearm in the presence of a controlled dangerous
-substance under Louisiana Revised Statute 14:95E. [@1]
-
+substance under Louisiana Revised Statute 14:95E. [@1,2]
