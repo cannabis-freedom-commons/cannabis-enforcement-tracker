@@ -47,6 +47,7 @@ open_questions:
   - Police said the rest of the planting would be eradicated on the morning of 15 October with the technical police. These reports do not say that work was done.
   - The other people who fled are not named, and no arrest is reported.
   - The Folha do Vale photo URL returned HTTP 520 when reopened, so that entry still lacks a direct media_url.
+  - Folha do Vale credited a Rondesp-MO display photo of the same Ibotirama case without a separate direct media_url entry here.
 sources:
   - title: Homem morre em confronto com policiais da Rondesp-MO durante ação em plantação com 2 mil pés de maconha em Ibotirama
     url: https://folhadovale.net/homem-morre-em-confronto-com-policiais-da-rondesp-mo-durante-acao-em-plantacao-com-2-mil-pes-de-maconha-em-ibotirama.html
@@ -59,10 +60,6 @@ sources:
     date: 2026-10-15
     language: pt
 media:
-  - kind: photo
-    url: https://folhadovale.net/homem-morre-em-confronto-com-policiais-da-rondesp-mo-durante-acao-em-plantacao-com-2-mil-pes-de-maconha-em-ibotirama.html
-    publisher: Folha do Vale
-    caption: "Cut cannabis plants piled beside a table holding two long guns, a pistol, cartridges, a camouflage uniform and scales, under a Civil Police banner. Folha do Vale credits Rondesp-MO."
   - kind: photo
     url: https://www.sudoestebahia.com/noticias/ibotirama/homem-morre-em-confronto-durante-acao-policial-em-area-com-plantacao-de-maconha-em-ibotirama/
     media_url: https://www.sudoestebahia.com/bc-imagens/noticias/1801-homem-morre-em-confronto-durante-acao-policial-em-area-com-plantacao-de-maconha-em-ibotirama.webp

@@ -21,14 +21,6 @@ media:
     media_url: https://www.fijivillage.com/news_images/20261003081320_media_6ac00ed96fff72_41424675.jpg
     publisher: Fijivillage
     caption: 'Uprooted marijuana plants loaded in a truck after the Nasuva farm clearance. Photo: Fiji Police Force'
-  - kind: photo
-    url: https://www.fijitimes.com.fj/11000-marijuana-plants-uprooted-in-nasuva/
-    publisher: The Fiji Times
-    caption: 'Police photo of marijuana plants uprooted in the North. Photo: Fiji Police'
-  - kind: photo
-    url: https://fijisun.com.fj/news/nation/owner-unknown-after-11000-suspected-marijuana-plants-uprooted
-    publisher: The Fiji Sun
-    caption: 'Police photo of the marijuana plants uprooted from the Nasuva farming area. Photo: Fiji Police Force'
 details:
   activity: [cultivation]
   agency_types: [police]
@@ -69,6 +61,7 @@ open_questions:
   - The first report placed the farm in Bua; on 8 October the same outlet reported it in the Nasuva area of Cakaudrove, and the other reports name only the Nasuva farming area. The map marks the Nasavusavu locality in Cakaudrove, not the exact farm.
   - The plants were described as 'believed to be marijuana' and sent for analysis; the count is 'more than 11,000', not a final figure.
   - No arrests or charges have been reported in connection with the farm; police said the owner had not been identified.
+  - The Fiji Times and Fiji Sun republished police photos of the same Nasuva clearance without separate direct media_url entries here.
 ---
 
 More than 11,000 plants believed to be marijuana were uprooted from a farming

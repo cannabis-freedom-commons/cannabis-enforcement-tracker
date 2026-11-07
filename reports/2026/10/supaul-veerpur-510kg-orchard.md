@@ -45,8 +45,9 @@ media:
   - kind: photo
     url: https://patnapress.com/supaul-ssb-seizes-510-kg-ganja-india-nepal-border-fatehpur/
     archived: https://web.archive.org/web/20261015121236/https://patnapress.com/supaul-ssb-seizes-510-kg-ganja-india-nepal-border-fatehpur/
+    media_url: https://patnapress.com/wp-content/uploads/2026/10/ganja.jpg
     publisher: Patna Press
-    caption: SSB personnel with the 13 recovered bundles at the border outpost orchard
+    caption: "SSB personnel with the recovered burlap bundles at the border outpost orchard (Patna Press)."
 ---
 
 Jawans of the 45th battalion's Fatehpur border post moved on a tip-off that

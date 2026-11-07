@@ -50,8 +50,9 @@ sources:
 media:
   - kind: photo
     url: https://www.theassamrising.com/tripura-joint-operation-seizes-327-kg-of-ganja-worth-rs-1-63-crore/
+    media_url: https://www.theassamrising.com/wp-content/uploads/2026/10/6ad05e9a62260-tripura-15032158-16x9-1.jpeg
     publisher: Assam Rising
-    caption: BSF, TSR and police personnel with the seven seized drums
+    caption: "BSF, TSR and police personnel with the seven seized drums (Assam Rising)."
 ---
 
 On specific intelligence, Sonamura Police Station with the 81st battalion of the

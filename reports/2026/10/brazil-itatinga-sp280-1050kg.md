@@ -56,11 +56,8 @@ media:
     media_url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/ficco-sp-apreende-mais-de-1-tonelada-de-maconha-e-prende-uma-pessoa-em-flagrante/whatsapp-image-2026-10-02-at-13-20-57.jpeg
     publisher: Polícia Federal
     caption: "Marijuana bricks stacked beside the white van at the Itatinga seizure (Polícia Federal)."
-  - kind: photo
-    url: https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/02/homem-e-preso-com-mais-de-1-tonelada-de-maconha-na-sp-280-em-itatinga.ghtml
-    archived: https://web.archive.org/web/20261003191118/https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/02/homem-e-preso-com-mais-de-1-tonelada-de-maconha-na-sp-280-em-itatinga.ghtml
-    publisher: G1
-    caption: The vehicle stopped on the SP-280, photographed by the Military Highway Police
+open_questions:
+  - G1 published a highway-stop photo of the same SP-280 seizure without a separate direct media_url entry here.
 ---
 
 Federal and highway police found 1,088 blocks of marijuana weighing 1,050.2 kg in a vehicle on the

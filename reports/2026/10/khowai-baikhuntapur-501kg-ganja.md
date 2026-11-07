@@ -19,8 +19,9 @@ figures:
 media:
   - kind: photo
     url: https://tripuratimes.com/ttimes/customs-assam-rifles-seize-ganja-worth-rs-2-50-cr-in-tripura-42471.html
+    media_url: https://tripuratimes.com/backOffice/NewsImages/customs-assam-rifles-seize-ganja-worth-rs-2-50-cr-in-tripura.jpg
     publisher: Tripura Times
-    caption: 'Assam Rifles personnel standing beside blue-wrapped packages and white sacks after the seizure in Tripura. Photo: Tripura Times'
+    caption: "Assam Rifles personnel standing beside blue-wrapped packages and white sacks after the seizure in Tripura. Photo: Tripura Times"
 details:
   activity: [smuggling, trafficking, cultivation, sale]
   agency_types: [customs, military, police]

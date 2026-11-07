@@ -42,8 +42,9 @@ sources:
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/illegal-drug-trade-in-sirohi-approx-3-tonnes-cultivation-of-cannabis-seized-rjs26101604794
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/16-10-2026/1200-675-27887565-thumbnail-16x9-siroghi.jpg
     publisher: ETV Bharat
-    caption: Officers walk through the seized ganja crop at Valoria
+    caption: "Officers walk through the seized ganja crop at Valoria (ETV Bharat)."
 ---
 
 Acting on a tip-off, teams under Sirohi superintendent Dr Ajeya Singh Rathore

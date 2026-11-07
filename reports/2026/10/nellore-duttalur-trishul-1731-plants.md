@@ -45,8 +45,9 @@ media:
   - kind: photo
     url: https://www.thehindu.com/news/national/andhra-pradesh/police-destroy-ganja-cultivation-six-held-in-nellore-district-of-andhra-pradesh/article71592366.ece
     archived: https://web.archive.org/web/20261016232944/https://www.thehindu.com/news/national/andhra-pradesh/police-destroy-ganja-cultivation-six-held-in-nellore-district-of-andhra-pradesh/article71592366.ece
+    media_url: https://th-i.thgim.com/public/incoming/t9pj5z/article71592913.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-16%20at%2018.07.54.jpeg
     publisher: The Hindu
-    caption: The superintendent and EAGLE officers setting seized plants on fire at Duttalur
+    caption: "The superintendent and EAGLE officers setting seized plants on fire at Duttalur (The Hindu)."
 ---
 
 Acting on a tip-off, Kavali sub-division police with an Armed Reserve party

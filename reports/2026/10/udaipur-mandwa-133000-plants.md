@@ -45,8 +45,9 @@ sources:
 media:
   - kind: photo
     url: https://firstindia.co.in/news/india/operation-ganjagaveshana-133-lakh-cannabis-plants-destroyed-in-udaipur-1791987529
+    media_url: https://storage.firstindia.co.in/public/news/October2026/179198752973.webp
     publisher: First India
-    caption: Uprooted plants burning during the Mandwa destruction
+    caption: "Uprooted plants burning during the Mandwa destruction (First India)."
 ---
 
 Under Operation Ganjagaveshana, the NCB's Jodhpur zonal unit with ANTF

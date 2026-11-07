@@ -38,6 +38,7 @@ status: verified
 tags: [bsf, tsr, drones]
 open_questions:
   - The map marks Dhanirampur locality; the sources do not give coordinates for the five forest plots.
+  - Tripura Star News published additional destroyed-plot photos of the same operation without separate direct media_url entries here.
 sources:
   - title: Sonamura PS, 81st BN BSF & 11th BN TSR Jointly Destroyed 5 Nos. Ganja Plots & Eliminating Nearly 7 Thousand Ganja Trees
     url: https://www.tripurastarnews.com/sonamura-ps-81st-bn-bsf-11th-bn-tsr-jointly-destroyed-5-nos-ganja-plots-eliminating-nearly-7-thousand-ganja-trees/
@@ -46,12 +47,9 @@ sources:
 media:
   - kind: photo
     url: https://www.tripurastarnews.com/sonamura-ps-81st-bn-bsf-11th-bn-tsr-jointly-destroyed-5-nos-ganja-plots-eliminating-nearly-7-thousand-ganja-trees/
+    media_url: https://www.tripurastarnews.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-12.39.47-PM.jpeg
     publisher: Tripura Star News
-    caption: Personnel uprooting cannabis plants during the Dhanirampur operation
-  - kind: photo
-    url: https://www.tripurastarnews.com/sonamura-ps-81st-bn-bsf-11th-bn-tsr-jointly-destroyed-5-nos-ganja-plots-eliminating-nearly-7-thousand-ganja-trees/
-    publisher: Tripura Star News
-    caption: Officers walking a destroyed plot in the forest area
+    caption: "BSF, TSR and police with uprooted plants after the Dhanirampur plot destruction (Tripura Star News)."
 ---
 
 On secret information, Sepahijala District Police with the 81st battalion of

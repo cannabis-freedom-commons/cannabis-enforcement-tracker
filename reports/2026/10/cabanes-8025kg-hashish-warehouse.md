@@ -26,11 +26,6 @@ media:
     media_url: https://france3-regions.franceinfo.fr/image/tu11Z9jqx1jfEgrKeuj3YQ0AiyE/930x620/regions/2026/10/09/6ac8c6828f1fc075477529.jpg
     publisher: France 3 Occitanie
     caption: "Warehouse stacks of labelled cardboard boxes from the Cabanes hashish seizure (France 3 / Mossos)."
-  - kind: photo
-    url: https://x.com/mossos/status/2108443780323930326
-    archived: https://web.archive.org/web/20261009114655/https://x.com/mossos/status/2108443780323930326
-    publisher: Mossos d'Esquadra (X)
-    caption: The Catalan police's own post on dismantling the drug storage point in Alt Empordà
 created_by_model: alibaba-token-plan/qwen3.8-max#xhigh
 details:
   activity: [trafficking]
@@ -60,6 +55,7 @@ open_questions:
   - France 3 reports the value as "plus de 16 millions d'euros" and Diario de Transporte as more than 16.2 million; this report uses the police's higher figure.
   - The June 2026 interception of about 2,400 kg of hashish in Viladecans that opened the investigation is a separate operation in the same case, left out here.
   - The investigation remains open and police do not rule out further arrests.
+  - The Mossos X post on the Alt Empordà store remains without a separate direct media_url entry here.
 sources:
   - title: Huit tonnes de résine de cannabis, saisie record à la frontière Franco-espagnole
     url: https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/huit-tonnes-de-resine-de-cannabis-saisie-record-a-la-frontiere-franco-espagnole-3430614.html
