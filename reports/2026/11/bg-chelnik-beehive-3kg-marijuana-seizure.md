@@ -70,6 +70,16 @@ sources:
     publisher: Радио и ТВ 999 (radio999bg.com)
     date: 2026-11-06
     language: bg
+  - title: ГДБОП арестува трима мъже за отглеждане и разпространение на канабис
+    url: https://www.xnews.bg/gdbop-arestuva-trima-mazhe-za-otglezhdane-i-razprostranenie-na-kanabis/
+    publisher: XNEWS
+    date: 2026-11-06
+    language: bg
+  - title: При акции на ГДБОП в Ямболско и Хасковско са открити 15 кг марихуана (Снимки)
+    url: https://www.24chasa.bg/bulgaria/article/23876784
+    publisher: 24 Часа
+    date: 2026-11-06
+    language: bg
 open_questions:
   - The report gives the date of the Chelnik operation as 5 November but not the time of day or whether the searches in the two regions were simultaneous.
   - The weight is reported as about 3 kilograms, not an exact measured figure.
@@ -82,13 +92,16 @@ open_questions:
   - The RMTV text does not say whether the Chelnik searches and the Smirnentsi search were simultaneous.
   - The item reproduces the anti-organised-crime directorate's announcement without adding a plants, area or value figure.
   - The original sentence places the beehive 'в имот в с. Челник, в пчелен кошер в двора', which was read as a beehive in the yard of the searched property, as other outlets describe it.
+  - Under Bulgarian practice the district prosecutor's office covers Haskovo region, while the provincial prosecutor's office covers Yambol region, and reports of the same statement vary between 'Районна прокуратура', 'Окъжна прокуратура' and 'регионална прокуратура' for Yambol; no single wording is confirmed.
+  - The GDBOP statement gives the figure for the two operations together as about 15 kg; this page gives only about 3 kg and about 12 kg separately, as the recorded reports do.
+  - The page's six photographs are captioned only with the headline and carry no credit; they are directorate handout images already linked from the existing reports, so no additional media entry is proposed.
 ---
 
 Two men were detained in a specialised operation by Bulgaria's
 anti-organised-crime directorate, known by its Bulgarian initials GDBOP, in the
 Yambol region on 5 November. [@1,3,4,5] About 3 kilograms of marijuana were found
 hidden in a beehive in the yard of a house in the Yambol village of Chelnik.
-[@1,3,4,5] During the search of the property in Chelnik, officers found the drug
+[@1,3,4,5,6,7] During the search of the property in Chelnik, officers found the drug
 divided into various packages and hidden in the beehive. [@1,3,4] The drug was found
 divided into various packages during a search of a yard in the village,
 according to Bulgarian National Radio. [@2]
