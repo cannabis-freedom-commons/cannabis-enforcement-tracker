@@ -40,6 +40,10 @@ tags: [benin, bante, cannabis]
 open_questions:
   - The reports count 1,031 balls in 11 sacks described as 100 kg each but do not give a net cannabis weight.
   - No later charge or court outcome was reported.
+  - Bénin Web TV gives no net weight for the cannabis; it describes 11 jute sacks of 100 kg each but does not state the weight of the cannabis itself.
+  - Bénin Web TV does not say whether the two men were charged or brought before a prosecutor after their police custody, nor any court outcome.
+  - Bénin Web TV embeds a YouTube video but its page text does not establish that the video shows this seizure, so no media entry is added.
+  - The Bénin Web TV page picture is captioned only as an illustration, so it is not treated as a photo of this seizure.
 sources:
   - title: "Bénin : 1 031 boules de chanvre indien saisies à Bantè, deux convoyeurs togolais arrêtés"
     url: https://africaho.bj/article/benin-1-031-boules-de-chanvre-indien-saisies-a-bante-deux-convoyeurs-togolais-arretes/
@@ -52,18 +56,25 @@ sources:
     publisher: Matin Libre
     date: 2026-10-13
     language: fr
+  - title: 'Bénin: saisie de 1 031 boules de chanvre indien après une course-poursuite à Bassila'
+    url: https://beninwebtv.bj/benin-saisie-de-1-031-boules-de-chanvre-indien-apres-une-course-poursuite-a-bassila/
+    publisher: Bénin Web TV
+    date: 2026-10-13
+    language: fr
 ---
 
 At about 1 a.m. on 11 October 2026, police in Bantè intercepted a Mazda
 minibus after officers in Bassila alerted them to a vehicle suspected of
 carrying 12-gauge ammunition. Two Togolese men were arrested after a pursuit.
-[@1,2]
+[@1,2,3]
 
 Police found 1,031 balls of cannabis concealed in 11 jute sacks beneath
 sawdust, wood shavings and tree bark. The reports describe each sack as
-weighing 100 kg but do not give a net weight for the cannabis. [@1,2]
+weighing 100 kg but do not give a net weight for the cannabis. [@1,2,3]
 
 One suspect reportedly said the load had been collected at Aworo, in Bassila,
 and was intended for Kétou in the Plateau Department. Police said the men
 would be presented to the public prosecutor; the sources report no later court
-outcome. [@1,2]
+outcome. [@1,2,3]
+
+Bénin Web TV reports that police were following a tip that the vehicle carried 12-gauge ammunition, not drugs, and that customs were not involved. [@3] According to Bénin Web TV, the two men were placed in garde à vue, police custody, and would face charges of transporting and trafficking psychotropic substances. [@3]
