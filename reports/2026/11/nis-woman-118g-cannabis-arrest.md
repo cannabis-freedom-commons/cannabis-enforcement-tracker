@@ -58,6 +58,11 @@ sources:
     publisher: Naslovi.net
     date: 2026-11-05
     language: sr
+  - title: 'UHAPŠENA DEVOJKA (21) U NIŠU: Policija joj na ulici pronašla marihuanu, kokain, tablete i skoro 100.000 dinara'
+    url: https://glasjuga.rs/uhapsena-devojka-21-u-nisu-policija-joj-na-ulici-pronasla-marihuanu-kokain-tablete-i-skoro-100-000-dinara/
+    publisher: Glas Juga
+    date: 2026-11-06
+    language: sr
 open_questions:
   - The articles give no separate date for the arrest, street check or flat search; 5 November 2026 is their publication date and is used as the incident date.
   - The 118 grams is described only as a substance suspected to be marijuana, and no laboratory confirmation was reported.
@@ -69,6 +74,7 @@ open_questions:
   - No charge, plea or court outcome was reported.
   - All four outlets repeat the Interior Ministry statement rather than adding independent reporting.
   - The page photo is a screenshot captioned only as Niš police, and it is not established to show this seizure, so no media entry is included.
+  - Glas Juga published this account on 6 November 2026, a day after the outlets already cited for the arrest, and gives no separate date for the street check or flat search.
 ---
 
 Police in Niš arrested a 21-year-old woman, identified only as M. J., on
@@ -77,14 +83,14 @@ circulation. [@1,5] She was arrested on the order of the Higher Public
 Prosecutor's Office in Niš, the city's higher prosecution office. [@2]
 
 During a check in the street officers found 118 grams of a substance suspected
-to be marijuana. [@1,5] The same check turned up a small amount of powder
+to be marijuana. [@1,5,6] The same check turned up a small amount of powder
 suspected to be cocaine and 17 tablets listed as psychoactive substances. [@3]
 She was carrying a precision scale and about 93,000 dinars and 150 euros, which
-police suspect came from selling narcotics. [@1,5] A search of her flat and other
-premises she uses found eight more psychoactive tablets. [@4]
+police suspect came from selling narcotics. [@1,5,6] A search of her flat and other
+premises she uses found eight more psychoactive tablets. [@4,6]
 
 The court ordered her held for up to 48 hours before she was to be taken to the
-competent prosecution service with a criminal complaint. [@2] The Niš police did
+competent prosecution service with a criminal complaint. [@2,6] The Niš police did
 not say which street the check took place on. [@2] Several Niš outlets carried
 the same police statement, and one headline counted the 17 tablets from the
 street and eight from the flat as 25. [@3]
