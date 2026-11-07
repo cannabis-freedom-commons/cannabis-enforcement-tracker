@@ -103,7 +103,7 @@ anti-smuggling and anti-drug campaign. [@1,4,5,6,7] Searches at the two addresse
 up 7,108 grams of kubar esrar, a pressed form of cannabis known in Turkey as
 esrar. [@1,4,5,6,7] Gendarmes detained two suspects in the operation. [@1,4,5,6]
 
-The investigation into the case was continuing. [@1,5,6] The gendarmerie command
+The investigation into the case was continuing. [@1,4,5,6] The gendarmerie command
 said its teams were continuing their work against smuggling and drugs. [@2] The
 agency account reported the haul as 7 kg 108 g of kubar esrar. [@2] The
 operation was carried out at two addresses designated in Seyhan district, and
