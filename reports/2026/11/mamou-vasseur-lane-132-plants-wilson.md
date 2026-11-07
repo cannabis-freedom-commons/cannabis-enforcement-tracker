@@ -108,6 +108,10 @@ sources:
     url: https://www.myarklamiss.com/video/over-100-marijuana-plants-seized-in-evangeline-parish/12345660/
     publisher: KTVE - myarklamiss.com
     date: 2026-11-06
+  - title: Over 100 marijuana plants seized in Evangeline Parish
+    url: https://www.cenlanow.com/news/state-news/over-100-marijuana-plants-seized-in-evangeline-parish/amp/
+    publisher: CenLANow.com (WNTZ-TV FOX 48), KLFY account
+    date: 2026-11-07
 open_questions:
   - The arrest date is not given; deputies arrested the man “later on”, after the 2 November search, so 2 November is the raid date and not necessarily the arrest date.
   - The 971 grams is described only as marijuana; no source separates plants from dried product or says what of the 132 plants was uprooted rather than taken.
@@ -129,11 +133,11 @@ open_questions:
 
 Deputies of the Evangeline Parish Sheriff’s Office searched a camper and three
 greenhouses at 1058 Vasseur Lane in Mamou on 2 November 2026, after a 10 October
-tip that a greenhouse there held a large amount of marijuana. [@1,2,3,5,6,8,9] The owner,
+tip that a greenhouse there held a large amount of marijuana. [@1,2,3,5,6,8,9,10] The owner,
 42-year-old Jimmy Lynn Wilson, was the sole resident of the camper and land and
 was not there during the search. [@1,8]
 
-Deputies seized 132 marijuana plants and 971 grams of marijuana. [@1,2,7,8] They also
+Deputies seized 132 marijuana plants and 971 grams of marijuana. [@1,2,7,8,10] They also
 took two rifles, a Remington Model 700 .270 and a Savage Model 19 .22 Long
 Rifle, and 45 kratom capsules. [@1,2,8] The sheriff’s office put the street value of
 the drugs at about $32,450. [@1,2,8]
