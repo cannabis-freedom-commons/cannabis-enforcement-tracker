@@ -61,6 +61,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-06
     language: hi
+  - title: खंडवा में कपास के खेत में उगा रखा था गांजा, पुलिस ने जब्त किए डेढ़ क्विंटल पौधे
+    url: https://www.naidunia.com/madhya-pradesh/khandwa-cannabis-was-being-grown-in-a-cotton-field-in-khandwa-8475319
+    publisher: Nai Dunia
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives the day as Friday but no separate date; 6 November 2026 is the Friday before its publication and is used as the incident date.
   - The article says police seized the plants but does not say whether they were uprooted and destroyed or kept as evidence after weighing.
@@ -72,12 +77,13 @@ open_questions:
 
 Pandhana police in Khandwa district, Madhya Pradesh, seized 80 ganja plants from
 a cotton field at Kokariya forest village and arrested a 38-year-old farmer.
-[@1] The ganja plants had been planted among the cotton crop. [@1] The raid was
+[@1,2] The ganja plants had been planted among the cotton crop. [@1] The raid was
 part of police action in Khandwa district against illegal cultivation of
 narcotic substances, and the farmer was booked under the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act, India's drug law. [@1]
 
 The seized plants weighed about 146 kilograms, given as 1 quintal 46 kilograms;
-a quintal is 100 kilograms. [@1] Police put the estimated value of the seized
-ganja at about 10 lakh rupees. [@1]
+a quintal is 100 kilograms. [@1,2] Police put the estimated value of the seized
+ganja at about 10 lakh rupees. [@1,2]
 
+The case was registered under sections 8 and 20 of the NDPS Act. [@2] Station house officer Rajkumar Rathore formed a police team and carried out the raid after a tip-off, and the operation was directed by Superintendent of Police Agam Jain and Additional Superintendent of Police Aditya Singhariya under DSP Durgesh Aarmo. [@2] The raid was carried out under the direction of Superintendent of Police Agam Jain and Additional Superintendent of Police Aditya Singhariya, with guidance from DSP Durgesh Aarmo. [@2]
