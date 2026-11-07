@@ -93,6 +93,11 @@ sources:
     publisher: la diaria
     date: 2026-08-24
     language: es
+  - title: La incautación de 17 kilos de droga en el ex Comcar podría destapar una red de corrupción
+    url: https://www.xn--lamaana-7za.uy/actualidad/la-incautacion-de-17-kilos-de-droga-en-el-ex-comcar-podria-destapar-una-red-de-corrupcion/
+    publisher: La Mañana
+    date: 2026-08-31
+    language: es
 open_questions:
   - The ministry announced the operation on 24 August 2026; the seizure itself is placed on the afternoon of Sunday 23 August 2026 by la diaria.
   - The Ministry of the Interior called the 2.320 kilos only a 'vegetable substance'; la diaria and later reporting describe it as marijuana, and that description is used.
@@ -101,11 +106,14 @@ open_questions:
   - la diaria quotes investigation sources putting the sale value at about US$300,000; this report uses the ministry's US$330,000 figure.
   - The marijuana's origin and how it was packed were not reported.
   - The Comcar complex is in Santiago Vázquez, on Montevideo's western edge; the map point is the prison's locality, not the exact spot where the drugs were found.
+  - La Mañana quotes investigation sources at about US$300,000 for the whole haul, alongside the ministry's US$330,000; the report keeps the ministry's figure.
+  - The article does not say how many people are detained or charged over the Unit 4 seizure, or whether the soldiers' refusal to provide the guard list has since been resolved.
+  - The article also reports a separate find on 27 August, when a Guardia Republicana scanner detected 5.3 kilos of drugs and 29 phones hidden in a water heater aboard an INR truck from the former women's Unit 5 in Colón; that is a different event and is not counted here.
 ---
 
 Investigators from the National Police's prison intelligence and analysis unit,
 the UIAP, suspect that drugs and other goods were being brought in for prisoners
-at Unit 4 of Uruguay's national rehabilitation institute, the INR. [@1,6] After
+at Unit 4 of Uruguay's national rehabilitation institute, the INR. [@1,6,7] After
 several months of investigation, UIAP officers carried out a search of the
 grounds and found the goods near one of the prison's modules. [@1]
 
@@ -118,9 +126,9 @@ NoticiasC21 reported that the operation took place in a module of Unit 4, the
 former Comcar. [@3] Police seized 2.320 kilos of marijuana, which the Ministry
 of the Interior described only as a vegetable substance. [@1,6] The operation also
 took 14.894 kilos of a yellowish substance and 353 grams of a white substance,
-substances identified in later reporting as cocaine paste and cocaine. [@2]
+substances identified in later reporting as cocaine paste and cocaine. [@2,7]
 Alongside the drugs, officers seized 38 mobile phones, 10 TV Box devices and 13
-routers. [@1]
+routers. [@1,7]
 
 The Ministry of the Interior valued all the drugs at US$330,000, or 13.3 million
 Uruguayan pesos. [@1] The ministry put the whole haul, other substances
@@ -130,7 +138,7 @@ camera footage reviewed and forensic police brought in. [@1]
 
 The drugs were about 20 metres from a military guard post, a fact the head of
 police investigations, Pablo Lotito, cited in saying police and military
-collusion with prisoners could not be ruled out. [@2] Narcotics prosecutor
+collusion with prisoners could not be ruled out. [@2,7] Narcotics prosecutor
 Rodrigo Morosoli took over the investigation into a criminal organisation
 operating inside and outside the prisons, and the army opened an administrative
 inquiry. [@2] The ministry said the operation formed part of the National
@@ -141,3 +149,5 @@ Unit 4, the former Comcar, and the haul as more than 17 kilos of drugs. [@4]
 Some two months later, on 7 October, the UIAP seized the phones of two soldiers
 from the prison's perimeter guard during six raids in Montevideo and Artigas.
 [@5]
+
+The INR's director, Ana Juanche, said it was presumable that a corruption network was involved, because drugs could not be getting in through prison visits. [@7] Narcotics prosecutor Rodrigo Morosoli asked, through the police, for the list of soldiers on the perimeter guard, and the military refused to give the police the information. [@7] Investigation sources put the sale value of everything seized at about US$300,000. [@7]
