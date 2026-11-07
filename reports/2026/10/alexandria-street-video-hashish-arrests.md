@@ -173,6 +173,11 @@ sources:
     publisher: الأخبار المسائى
     date: 2026-11-07
     language: ar
+  - title: القبض على شخصين بتهمة ترويج وتعاطي المخدرات بالإسكندرية
+    url: https://www.iqraa.news/202391/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D9%88%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%85/
+    publisher: إقرأ نيوز
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
   - Neither report gives the weight of the hashish found with the employee or with the supplier.
@@ -223,6 +228,10 @@ open_questions:
   - The page gives no weight for the hashish found with the two men and names neither of them.
   - The page says the matter was referred to the competent investigation authorities without naming the public prosecution, unlike some earlier accounts of this case.
   - The page picture is captioned only as the accused after arrest, with no credit, so it was not established as a distinct photo of this seizure and no media was added.
+  - Iqraa News describes both arrested men as unemployed and resident in the First Montazah police district, as do the Dar El Hilal and Masrawy accounts, while earlier accounts describe the filmed pair as a company employee and a delivery worker.
+  - The article gives 30 October as the date the two admitted committing the offence but no separate date for the arrest.
+  - No weight for the hashish, no charge and no court outcome are reported.
+  - The page picture is captioned only with the article headline and carries no credit, so it was not established to show this seizure and no media entry was added.
 ---
 
 The case began with a social-media post, backed by a video, in which the person
@@ -249,4 +258,4 @@ The Montazah prosecution in Alexandria ordered the three accused held for four d
 
 The two arrested men admitted committing the offence on 30 October and holding the drugs for both use and trafficking, the only account that reports an admission to trafficking by both. [@21,23]
 
-Both arrested men were found with hashish and two mobile phones. [@22,23]
+Both arrested men were found with hashish and two mobile phones. [@22,23,26]
