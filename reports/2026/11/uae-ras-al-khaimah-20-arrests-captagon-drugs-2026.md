@@ -76,6 +76,11 @@ sources:
     publisher: بوابة الزهراء
     date: 2026-11-06
     language: ar
+  - title: الإمارات تحبط تهريب 200 ألف قرص كبتاجون وتضبط شبكة دولية من 20 متهما
+    url: https://www.masrawy.com/news/news_publicaffairs/details/2026/11/6/3074750/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AD%D8%A8%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-200-%D8%A3%D9%84%D9%81-%D9%82%D8%B1%D8%B5-%D9%83%D8%A8%D8%AA%D8%A7%D8%AC%D9%88%D9%86-%D9%88%D8%AA%D8%B6%D8%A8%D8%B7-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AF%D9%88%D9%84%D9%8A%D8%A9-%D9%85%D9%86-20-%D9%85%D8%AA%D9%87%D9%85%D8%A7
+    publisher: مصراوي.كوم
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight is published for the marijuana or hashish, so no cannabis quantity can be recorded; the more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
   - No figure is published for how the Captagon pills, other drugs or cannabis are split by weight.
@@ -90,24 +95,28 @@ open_questions:
   - The page gives no date for the interception or the arrests; 6 November 2026 is its publication and announcement date.
   - The page attributes its account to the UAE state news agency and reports no charges or court stage.
   - The page's only images are its logo and unrelated story thumbnails, so no media entry is added.
+  - The Masrawy account reproduces the UAE state news agency WAM statement and gives no separate weight or value for the marijuana or hashish; the more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
+  - Neither the Masrawy page nor the existing report gives a date for the interception or the arrests; 6 November 2026 is the announcement and publication date.
+  - The page names no border crossing or border area in Ras Al Khaimah beyond the emirate, and reports no charges or court stage.
+  - The page's feature image is captioned only with the headline and is not established to show this seizure, so no media entry is added.
 ---
 
 Twenty defendants of Gulf, Arab, African and Asian nationalities face
-allegations of belonging to an international criminal network. [@2,5,7] The network
+allegations of belonging to an international criminal network. [@2,5,7,9] The network
 was allegedly trying to bring in 200,000 Captagon pills and more than 30
 kilograms of drugs through a border area of the emirate of Ras Al Khaimah for
-distribution inside the country. [@2,4,6]
+distribution inside the country. [@2,4,6,9]
 
 Alongside the Captagon pills, the haul included varied quantities of cocaine,
-crystal, marijuana, hashish and Spice, a synthetic drug. [@1,5,7,8] The operation
+crystal, marijuana, hashish and Spice, a synthetic drug. [@1,5,7,8,9] The operation
 began with intelligence exchanged between the UAE and Iraq that revealed a
 multinational network's plan to smuggle large quantities of drugs into the
-country. [@3,5] The authority worked with the Ras Al Khaimah Police General
+country. [@3,5,9] The authority worked with the Ras Al Khaimah Police General
 Headquarters, the General Directorate of Narcotics and Psychotropic Substances
 at the Iraqi Interior Ministry and the Federal Public Prosecution, which
-coordinated judicially. [@2,8]
+coordinated judicially. [@2,8,9]
 
 Security teams caught some members in the act of holding the drugs and trying to
-smuggle them, while the rest were arrested inside the country in ambushes. [@1,5]
+smuggle them, while the rest were arrested inside the country in ambushes. [@1,5,9]
 The authority said the operation struck smuggling and trafficking networks and
-that there is no place for drug traders on UAE soil. [@1]
+that there is no place for drug traders on UAE soil. [@1,9]
