@@ -104,6 +104,11 @@ sources:
     publisher: بوابة أخبار اليوم
     date: 2026-11-07
     language: ar
+  - title: الداخلية تضبط شخصين بتهمة ترويج الحشيش عبر صفحة إلكترونية بالفيوم
+    url: https://www.masrawy.com/news/news_cases/details/2026/11/7/3075086/%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%B9%D8%A8%D8%B1-%D8%B5%D9%81%D8%AD%D8%A9-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D9%88%D9%85
+    publisher: مصراوي.كوم
+    date: 2026-11-07
+    language: ar
 open_questions:
   - No weight, value or packet count was published for the hashish found on either man, so no cannabis quantity can be recorded.
   - The article gives no date for the arrests; 7 November 2026 is its publication date and is used as the incident date.
@@ -128,13 +133,13 @@ open_questions:
 ---
 
 Security forces of the Fayoum Security Directorate arrested two men accused of
-running a social media page to promote drug sales for money. [@1,2,3,5,9,10]
+running a social media page to promote drug sales for money. [@1,2,3,5,9,10,11]
 
 The General Administration for Combating Information Technology Crimes, part of
 the communications and information technology sector, spotted the page together
 with the Public Security sector. [@1,2,3,4,5,8,9,10] Investigation identified the page's
 administrator as a worker living in Fayoum police centre's district, and
-officers found hashish and a mobile phone in his possession. [@1,2,3,4,5,8,9,10] Examination of
+officers found hashish and a mobile phone in his possession. [@1,2,3,4,5,8,9,10,11] Examination of
 the phone showed it held evidence confirming his criminal activity, police said.
 [@1]
 
