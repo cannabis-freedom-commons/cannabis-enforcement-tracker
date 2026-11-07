@@ -109,6 +109,11 @@ sources:
     publisher: مصراوي.كوم
     date: 2026-11-07
     language: ar
+  - title: أحدهما يدير صفحة والآخر يمده بالحشيش.. ضبط شخصين بالفيوم لترويج المخدرات عبر مواقع التواصل
+    url: https://www.youlyou.com/88889
+    publisher: يوليو
+    date: 2026-11-07
+    language: ar
 open_questions:
   - No weight, value or packet count was published for the hashish found on either man, so no cannabis quantity can be recorded.
   - The article gives no date for the arrests; 7 November 2026 is its publication date and is used as the incident date.
@@ -130,26 +135,28 @@ open_questions:
   - Akhbar Al-Yom gives no weight, value or packet count for the hashish found on either man, so it adds no cannabis quantity to the recorded report.
   - Akhbar Al-Yom gives no date for the arrests; 7 November 2026 is its publication date and stands in for the incident date.
   - The page photo is captioned only المتهمان (the two accused) and carries no credit; it cannot be confirmed to show this arrest rather than a recycled police handout, so no media entry is added.
+  - Youlyou reproduces the same Interior Ministry statement as the accounts already cited and is not independent reporting on this arrest.
+  - Like the other accounts, Youlyou gives no weight, value or packet count for the hashish found on either man.
 ---
 
 Security forces of the Fayoum Security Directorate arrested two men accused of
-running a social media page to promote drug sales for money. [@1,2,3,5,9,10,11]
+running a social media page to promote drug sales for money. [@1,2,3,5,9,10,11,12]
 
 The General Administration for Combating Information Technology Crimes, part of
 the communications and information technology sector, spotted the page together
-with the Public Security sector. [@1,2,3,4,5,8,9,10] Investigation identified the page's
+with the Public Security sector. [@1,2,3,4,5,8,9,10,12] Investigation identified the page's
 administrator as a worker living in Fayoum police centre's district, and
-officers found hashish and a mobile phone in his possession. [@1,2,3,4,5,8,9,10,11] Examination of
+officers found hashish and a mobile phone in his possession. [@1,2,3,4,5,8,9,10,11,12] Examination of
 the phone showed it held evidence confirming his criminal activity, police said.
 [@1]
 
 Faced with the findings the man confessed to running the page to promote drugs
 and identified a second man, unemployed and with prior criminal information,
-living within Second Fayoum police district, as his supplier. [@1,2,3,4,5,8,9,10] After legal
+living within Second Fayoum police district, as his supplier. [@1,2,3,4,5,8,9,10,12] After legal
 procedures were completed, officers arrested the second man and found hashish
-and a mobile phone with him. [@1,2,3,4,9] The second man confessed to holding the
-hashish with intent to traffic it. [@1,2,3,4,5,9,10] Police took the required legal measures
-against both men and notified the competent investigation authorities. [@1,2,5,9]
+and a mobile phone with him. [@1,2,3,4,9,12] The second man confessed to holding the
+hashish with intent to traffic it. [@1,2,3,4,5,9,10,12] Police took the required legal measures
+against both men and notified the competent investigation authorities. [@1,2,5,9,12]
 
 The second man was arrested after legal procedures were completed, according to Mobtada's account of the ministry statement. [@6]
 
