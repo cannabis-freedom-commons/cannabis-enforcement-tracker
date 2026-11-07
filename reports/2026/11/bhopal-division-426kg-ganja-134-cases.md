@@ -54,6 +54,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-07
     language: hi
+  - title: भोपाल संभाग में नशे के खिलाफ बड़ी कार्रवाई, 426 किलो से ज्यादा गांजा बरामद
+    url: https://www.dainikjagranmpcg.com/state/madhya-pradesh/bhopal/major-action-against-drugs-in-bhopal-division-more-than-426/article-72663
+    publisher: दैनिक जागरण
+    date: 2026-11-07
+    language: hi
 open_questions:
   - Neither account gives a date for the individual operations or the period they cover; both were published on 7 November 2026, which is used as the incident date.
   - The Nai Dunia report labels its picture a file photo, so the image is linked rather than treated as a photo of this seizure.
@@ -61,18 +66,20 @@ open_questions:
   - No court outcome or value for the seized ganja was published.
   - Both accounts repeat the same briefing by the commissioner and give no separate departmental statement to check the figures.
   - Dainik Bhaskar says the 22 ganja plants were uprooted while Nai Dunia says they were recovered; the exact action is not clear.
+  - The report gives no date for the individual operations or the period they cover; 7 November 2026, its publication date, is not a stated incident date.
+  - Dainik Jagran's five district figures add up to 426.765 kg while it headlines 426.80 kg; the earlier reports use the more precise figures 241.106, 117.718, 42.411, 15.295 and 10.273 kg, which the report keeps.
 ---
 
 Police and related departments in the Bhopal division of Madhya Pradesh seized
 426.80 kg of ganja, the local word for cannabis, in a campaign against the
-illegal drug trade. [@1] Officers registered 134 cases under the NDPS Act,
-India's main drug law, and took action against 249 accused people. [@1]
+illegal drug trade. [@1,3] Officers registered 134 cases under the NDPS Act,
+India's main drug law, and took action against 249 accused people. [@1,3]
 Commissioner Karmaveer Sharma said the campaign was being run continuously in
 coordination with all the departments concerned. [@1]
 
 Rajgarh district accounted for the largest share, with 241.106 kg of ganja
-seized. [@1] Police seized 117.718 kg in Vidisha, 42.411 kg in Sehore, 15.295 kg
-in Raisen and 10.273 kg in Bhopal Rural. [@1] Officers also recovered 22 ganja
+seized. [@1,3] Police seized 117.718 kg in Vidisha, 42.411 kg in Sehore, 15.295 kg
+in Raisen and 10.273 kg in Bhopal Rural. [@1,3] Officers also recovered 22 ganja
 plants in Vidisha district. [@1]
 
 The commissioner said the actions against those involved in the illegal drug
@@ -84,10 +91,11 @@ division, Bhopal Rural, Sehore, Rajgarh, Vidisha and Raisen. [@2]
 Commissioner Sharma said the figure came from action in recent days. [@2]
 
 Dainik Bhaskar reported that the 22 ganja plants were uprooted in Vidisha
-district and seized. [@2]
+district and seized. [@2,3]
 
 The commissioner directed officials in all districts to run campaigns against
 the manufacture, sale and transport of drugs and illegal liquor. [@2] Sharma
 also ordered that anti-drug committees be formed in all schools, colleges,
 universities and hostels of the division. [@2]
 
+Dainik Jagran added the five district figures to 426.765 kg, the total it reports as about 426.80 kg. [@3]
