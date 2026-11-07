@@ -116,6 +116,11 @@ sources:
     publisher: nachrichten-heute.net
     date: 2026-11-05
     language: de
+  - title: 'ZOLL-F: Zollfahndung Frankfurt: Fünf illegale Cannabisplantagen ausgehoben, acht Festnahmen'
+    url: https://www.ad-hoc-news.de/polizeimeldungen/zoll-f-zollfahndung-frankfurt-fuenf-illegale-cannabisplantagen-ausgehoben-acht-festnahmen/70461655
+    publisher: AD HOC NEWS
+    date: 2026-11-05
+    language: de
 open_questions:
   - The 3 November 2026 incident date comes from the stated Tuesday raid day and the explicit 03.11.2026 date in the authorities' statement; 5 November 2026 is the publication date.
   - The plant count is reported as more than 2,300, so 2,300 is recorded as the stated minimum.
@@ -144,11 +149,11 @@ open_questions:
 ---
 
 Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating
-and dealing cannabis. [@1,4,7,8,9] The suspects allegedly used vacant buildings to
+and dealing cannabis. [@1,4,7,8,9,13] The suspects allegedly used vacant buildings to
 operate illegal plantations and sold the marijuana in the surrounding Greater
 Region and in France. [@1,3,4,9] The eight were brought before an investigating judge,
 who issued custody orders for all of them but suspended one under conditions,
-leaving seven in pretrial detention. [@1,4,7,8,9,10,11,12] The group comprised six Albanian
+leaving seven in pretrial detention. [@1,4,7,8,9,10,11,12,13] The group comprised six Albanian
 nationals, one German and one Italian, according to the authorities' statement.
 [@2,5,9]
 
@@ -160,7 +165,7 @@ Investigators also seized a tablet press, blank-firing and air weapons plus
 another possibly live firearm. [@2,5,9]
 
 French authorities carried out parallel searches in the Grand Est area at the
-same time and arrested 13 people. [@1,3,4,7,9,10,11,12] The Federal Criminal Police Office
+same time and arrested 13 people. [@1,3,4,7,9,10,11,12,13] The Federal Criminal Police Office
 crime-scene unit, the Saarbrücken main customs office and state police helped
 secure the plantations. [@2,9] The authorities said the investigations are still
 ongoing. [@2,3,4,5,9]
@@ -170,3 +175,5 @@ Investigators said the Jeckenbach site in Bad Kreuznach district held about 300 
 The submitted page gives hashish as "knapp ein Kilogramm" (just under one kilogram) while the agencies' release and the report state one kilogram; the report's cannabis total keeps the stated one kilogram. [@7] The SR page carries a 27-second SR information video on the raid whose direct stream address was not recoverable from the page, so no media entry is included for it. [@7]
 
 The five dismantled plantations comprised one in Saarlouis district, one in Saarpfalz-Kreis and three in Bad Kreuznach district in Rhineland-Palatinate. [@8]
+
+The investigation began with a customs check near Pirmasens in May 2026, when officers found about 20 kilograms of marijuana in a car boot and arrested a suspected participant. [@13]
