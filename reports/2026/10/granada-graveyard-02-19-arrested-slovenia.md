@@ -163,6 +163,11 @@ sources:
     publisher: Infocosta Tropical
     date: 2026-11-06
     language: es
+  - title: Cae una red que traficaba con marihuana a Eslovenia y poseía un arma de guerra
+    url: https://www.cope.es/emisoras/andalucia/granada-provincia/granada/noticias/cae-red-traficaba-marihuana-eslovenia-poseia-arma-guerra-20261106_3470103.html
+    publisher: COPE
+    date: 2026-11-06
+    language: es
 open_questions:
   - The Guardia Civil statement gives no breakdown of how much of the 181 kg of marijuana was bud and how much was plants, nor whether the 1,388 plants were seized or cut.
   - The three sources give the same figures, but no independent verification of the weights was published; all figures are the Guardia Civil's own.
@@ -178,31 +183,32 @@ open_questions:
   - The article repeats the Spanish authorities' figures without independent verification and gives no outcome beyond the remand of four suspects.
   - The Ahora Granada photos of the firearms and the cash reuse the Guardia Civil handout images already linked from the agency's own page, so no new media entry is added.
   - The Infocosta page is credited to the Guardia Civil as its source and repeats the agency's figures without independent verification.
+  - COPE's weapons photo is an Europa Press copy of the Guardia Civil handout already linked from the agency's own page.
 ---
 
 Spain's Guardia Civil said it had dismantled a criminal organisation that grew,
 bought and sold, transported and shipped marijuana to Slovenia, detaining 19
-people in operation Graveyard 02. [@2,4,5,8,9,10] Three of the 19 detainees are of
+people in operation Graveyard 02. [@2,4,5,8,9,10,12] Three of the 19 detainees are of
 Slovenian origin. [@1,4,5,7,9] The searches took place on 23 and 24 October 2026 at 12
-properties in Granada city, Almuñécar and Peligros. [@2,4,5,6,8,9,10] Investigators believe
+properties in Granada city, Almuñécar and Peligros. [@2,4,5,6,8,9,10,12] Investigators believe
 the organisation shipped the drugs to Slovenia and have not ruled out
 international links with other countries. [@2,5]
 
 Agents found marijuana plantations indoors, in rooms fitted out for cultivation
-and, in one case, in a pit dug underground, a zulo. [@2,4,10] The properties had
+and, in one case, in a pit dug underground, a zulo. [@2,4,10,12] The properties had
 illegal connections to the electricity grid to feed the plantations. [@1,5] The
 searches yielded 181 kilograms of marijuana, 1,388 cannabis plants and 805 grams
-of hashish. [@1,4,5,6,8,9,10] Officers also seized almost 35,000 euros in cash, gold pieces
+of hashish. [@1,4,5,6,8,9,10,12] Officers also seized almost 35,000 euros in cash, gold pieces
 valued at about 40,000 euros, six high-end vehicles, motorcycles and accounting
-records. [@2,5]
+records. [@2,5,12]
 
 The weapons seized were four short firearms, a repeating shotgun, ammunition and
 magazines, among them a Glock pistol modified to fire automatically, which the
-Guardia Civil treats as a weapon of war. [@2,5,9] The detainees were accused of drug
+Guardia Civil treats as a weapon of war. [@2,5,9,12] The detainees were accused of drug
 trafficking, belonging to a criminal organisation, illegal possession of
 firearms, illegal possession of weapons of war and money laundering. [@2] After
 appearing before the duty investigating court of the Granada court, four of them
-were remanded in custody. [@2,4,5,6,9,10,11] The investigation was run by the Guardia Civil's
+were remanded in custody. [@2,4,5,6,9,10,11,12] The investigation was run by the Guardia Civil's
 Organised Crime Judicial Police Unit in Granada, supported by the USECIC
 riot-control unit and units from other Andalusian commands. [@2] El Confidencial
 Digital, quoting the Guardia Civil, also reported the 19 detentions in operation
@@ -213,3 +219,5 @@ The operation drew on agents from different Granada companies with support from 
 Officers also seized gold pieces valued at about 40,000 euros. [@7]
 
 The investigation was run by the Guardia Civil's Organised Crime Judicial Police Unit in Granada, supported by the USECIC riot-control unit and units from other Andalusian commands, among them the Grupo de Acción Rápida, the Grupo de Reserva y Seguridad, patrols of the Armilla company and investigation teams from Almuñécar, Las Gabias and Armilla. [@11]
+
+Guardia Civil dog-handling teams from Granada, Almería, Huelva and Málaga took part in the searches, alongside the Granada riot-control unit and the rapid-action and reserve and security groups. [@12]
