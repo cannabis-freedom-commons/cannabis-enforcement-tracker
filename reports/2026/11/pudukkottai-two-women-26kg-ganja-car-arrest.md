@@ -64,10 +64,13 @@ open_questions:
   - 'Left out, as its quotation was not found in Daily Thanthi: Police registered a case and said they were working to find who drove the car and which key figures sit behind the inter-state ganja network.'
   - 'Left out, as its quotation was not found in Thinathulir: A second Tamil outlet, Thinathulir, reported the same 26 kg seizure and put its value at about ₹13 lakh.'
   - Left out case stage, as its quotation was not found in Daily Thanthi.
+  - The submitted page gives no separate time or exact spot for the car check beyond Pudukkottai district.
+  - The two women are identified only by given names, with no ages or occupations reported.
+  - No charges under a specific law section or court stage were reported beyond a registered case and an ongoing investigation.
 ---
 
 Two women were arrested in Pudukkottai district, Tamil Nadu, for smuggling 26 kg
-of ganja by car from Andhra Pradesh, according to Thanthi TV. [@1]
+of ganja by car from Andhra Pradesh, according to Thanthi TV. [@1,2]
 
 Police stopped a suspicious luxury car coming from Andhra Pradesh towards
 Pudukkottai on Friday 6 November 2026 and searched it. [@2] The ganja parcels
@@ -81,3 +84,4 @@ reports describe by those given names. [@2] Initial investigation indicated the
 two planned to distribute the bundles from Andhra Pradesh to local agents in
 Pudukkottai and the surrounding areas. [@2]
 
+Police registered a case and said they were working to find who drove the car and which key figures sit behind the inter-state ganja network. [@2]
