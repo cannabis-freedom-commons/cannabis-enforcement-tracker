@@ -71,6 +71,11 @@ sources:
     publisher: Buratha News
     date: 2026-11-06
     language: ar
+  - title: الإمارات تحبط تهريب 200 ألف قرص كبتاجون وتضبط شبكة دولية من 20 متهماً
+    url: https://zahraa.mr/1318/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AD%D8%A8%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-200-%D8%A3%D9%84%D9%81-%D9%82%D8%B1%D8%B5-%D9%83%D8%A8%D8%AA%D8%A7%D8%AC%D9%88%D9%86-%D9%88/
+    publisher: بوابة الزهراء
+    date: 2026-11-06
+    language: ar
 open_questions:
   - No separate weight is published for the marijuana or hashish, so no cannabis quantity can be recorded; the more than 30 kg covers cocaine, crystal, marijuana, hashish and Spice together.
   - No figure is published for how the Captagon pills, other drugs or cannabis are split by weight.
@@ -81,6 +86,10 @@ open_questions:
   - The article gives no date for the interception or arrests; 6 November 2026 is its publication date and stands in for the incident date.
   - The page gives no separate weight or value for the marijuana or hashish; the more than 30 kg figure covers cocaine, crystal, marijuana, hashish and Spice together.
   - The page names no border crossing or border area in Ras Al Khaimah beyond the emirate.
+  - The page gives no separate weight or street value for the marijuana or hashish; the more than 30 kg figure covers cocaine, crystal, marijuana, hashish and Spice together.
+  - The page gives no date for the interception or the arrests; 6 November 2026 is its publication and announcement date.
+  - The page attributes its account to the UAE state news agency and reports no charges or court stage.
+  - The page's only images are its logo and unrelated story thumbnails, so no media entry is added.
 ---
 
 Twenty defendants of Gulf, Arab, African and Asian nationalities face
@@ -90,13 +99,13 @@ kilograms of drugs through a border area of the emirate of Ras Al Khaimah for
 distribution inside the country. [@2,4,6]
 
 Alongside the Captagon pills, the haul included varied quantities of cocaine,
-crystal, marijuana, hashish and Spice, a synthetic drug. [@1,5,7] The operation
+crystal, marijuana, hashish and Spice, a synthetic drug. [@1,5,7,8] The operation
 began with intelligence exchanged between the UAE and Iraq that revealed a
 multinational network's plan to smuggle large quantities of drugs into the
 country. [@3,5] The authority worked with the Ras Al Khaimah Police General
 Headquarters, the General Directorate of Narcotics and Psychotropic Substances
 at the Iraqi Interior Ministry and the Federal Public Prosecution, which
-coordinated judicially. [@2]
+coordinated judicially. [@2,8]
 
 Security teams caught some members in the act of holding the drugs and trying to
 smuggle them, while the rest were arrested inside the country in ambushes. [@1,5]
