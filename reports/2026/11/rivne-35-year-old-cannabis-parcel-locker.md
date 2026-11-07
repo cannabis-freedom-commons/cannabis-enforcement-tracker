@@ -92,6 +92,11 @@ sources:
     publisher: 7 днів
     date: 2026-11-07
     language: uk
+  - title: У Рівному в чоловіка вилучили близько пів кілограма канабісу | Рівне Медіа
+    url: https://rivne.media/news/u-rivnomu-v-cholovika-viluchili-blizko-piv-kilohrama-kanabisu-136647
+    publisher: Рівне Медіа
+    date: 2026-11-07
+    language: uk
 open_questions:
   - The weight and value are given as approximate (about 500 grams, about 200,000 hryvnias), not measured figures.
   - The reports do not say what the postal delivery contained beyond the cannabis found on the man, who sent it, or whether the man is accused of receiving it for sale; the charge is possession without intent to sell.
@@ -103,23 +108,24 @@ open_questions:
   - No detention measure, formal charge sheet beyond the article 309 registration, or court outcome was reported; police said only that investigative actions were continuing.
   - The submitted page, ОГО.ua and the Rivne Oblast police Telegram channel reproduce the same police statement and the same handout photos, so they are not independent reporting.
   - The three photos on the submitted page carry no captions or credits and their content could not be checked, so it is not established what they show.
+  - The three images on the submitted page carry no captions or credits, so it is not established what they show and no media entry is added.
 ---
 
 Detectives of the Rivne Oblast police drug-crime unit stopped a 35-year-old
 Rivne resident near a parcel locker on Viacheslava Chornovola Street in Rivne
-shortly after 5 pm on 6 November, after he collected a postal delivery. [@1,4,6] The
+shortly after 5 pm on 6 November, after he collected a postal delivery. [@1,4,6,7] The
 stop was based on intelligence the officers already held, and they searched the
 man on the spot. [@2]
 
-In the search officers found and seized cannabis weighing about 500 grams. [@1,4,6]
+In the search officers found and seized cannabis weighing about 500 grams. [@1,4,6,7]
 Rivne Oblast police put the street value of the seized cannabis at about 200,000
-hryvnias (about 4,700 dollars). [@2,5,6]
+hryvnias (about 4,700 dollars). [@2,5,6,7]
 
 A pretrial investigation is under way into unlawful possession of drugs under
 part 1 of article 309 of Ukraine's Criminal Code, which covers acquiring and
-keeping drugs without intent to sell. [@1,6] Investigators were still working to
+keeping drugs without intent to sell. [@1,6,7] Investigators were still working to
 establish who else was involved in the circulation of the drugs, and the other
-circumstances of the offence. [@1,6]
+circumstances of the offence. [@1,6,7]
 
 The three accounts reproduced the same statement from the Rivne Oblast police.
 [@3]
