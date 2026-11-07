@@ -19,6 +19,16 @@ media:
     media_url: https://cdn.anhor.uz/gallery/b18024ab-58b7-44a7-a6e2-3a840c6ebcc4/v0/lg.webp
     publisher: Anhor.uz
     caption: 'State Security Service video still published with the report on the two Yashnabad flats searched and the substances seized there. Photo: State Security Service'
+  - kind: photo
+    url: https://daryo.uz/ru/2026/07/23/tashkent-arest-grazhdane-ukrainy-torgovlya-narkotik/
+    media_url: https://gocdn.daryo.uz/content/2026/07/23/1784789737754785987_1784787734736599046_Screenshot_16.jpg
+    publisher: Daryo.uz
+    caption: 'State Security Service photo published with the report on the two searched flats in Yashnabad district and the drugs found in them. Photo: СГБ (State Security Service)'
+  - kind: photo
+    url: https://daryo.uz/ru/2026/07/23/tashkent-arest-grazhdane-ukrainy-torgovlya-narkotik/
+    media_url: https://gocdn.daryo.uz/content/2026/07/23/1784789753953852863_1784787723873055148_narko.jpg
+    publisher: Daryo.uz
+    caption: 'State Security Service photo of the narcotics seized in the Yashnabad district case, published after the paragraph on the hashish, mephedrone and alpha-PVP haul. Photo: СГБ (State Security Service)'
 details:
   activity: [trafficking, sale]
   agency_types: [police]
@@ -62,6 +72,11 @@ sources:
     publisher: Anhor.uz
     date: 2026-07-23
     language: ru
+  - title: В Ташкенте арестовали граждан Украины, торговавших наркотиками
+    url: https://daryo.uz/ru/2026/07/23/tashkent-arest-grazhdane-ukrainy-torgovlya-narkotik/
+    publisher: Daryo.uz
+    date: 2026-07-23
+    language: ru
 open_questions:
   - 'No separable cannabis-only weight was published: 1 kg 945 grams mixes hashish with mephedrone and alpha-PVP, so no kilograms are recorded.'
   - The further 460 grams is described only as mephedrone and alpha-PVP and is excluded from cannabis figures.
@@ -74,6 +89,9 @@ open_questions:
   - No court outcome has been reported; all three were remanded and the investigation was continuing.
   - The submitted page's photograph reuses a file whose name carries a 13 June 2026 timestamp and is captioned only with the article title, so it is not linked as a picture of this seizure.
   - The text gives a weight ("1.945 kg") but the figures have no kg_seized; check whether it belongs there.
+  - Daryo gives no date for the searches or detention; 23 July 2026, the publication date, is used only to match the recorded event.
+  - The combined 1 kg 945 grams still cannot be separated into hashish and the synthetic drugs, so no cannabis weight is recorded.
+  - The accompanying State Security Service photographs are captioned only as СГБ and are not individually described in the text.
 ---
 
 Officers of the State Security Service's Tashkent directorate and the capital's
@@ -84,18 +102,17 @@ Uzbekistan on 12 June 2026. [@1] The three comprised two Ukrainian men and one
 Ukrainian woman. [@4]
 
 Officers checked two flats in Yashnabad district where the three were
-temporarily living. [@5] Inside the flats officers found hashish, mephedrone and
+temporarily living. [@5,6] Inside the flats officers found hashish, mephedrone and
 alpha-PVP divided into small batches for sale through hidden caches. [@5] The
 drugs were prepared for distribution in different districts of Tashkent through
 zakladki, hidden dead-drop caches. [@1] Forensic examination identified the
 seized substances as hashish, mephedrone and alpha-PVP, weighing 1 kg 945 grams
-in total. [@1] Officers also recovered a further 460 grams of mephedrone and
+in total. [@1,6] Officers also recovered a further 460 grams of mephedrone and
 alpha-PVP that the online shop's organizers had left in a cache for the three to
-pack and sell in Tashkent. [@3]
+pack and sell in Tashkent. [@3,6]
 
 A criminal case was opened under point a of part 6 of Article 273 of
 Uzbekistan's Criminal Code, and the three were placed in detention as a
-preventive measure. [@2] Investigative actions were still being carried out at
+preventive measure. [@2,6] Investigative actions were still being carried out at
 the time of reporting. [@2] The sanction for that charge is 15 to 20 years'
 imprisonment. [@3]
-
