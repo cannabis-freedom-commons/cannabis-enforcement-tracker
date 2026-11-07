@@ -196,6 +196,11 @@ sources:
     url: https://m.economictimes.com/news/short-videos/10-642-kg-hydroponic-cannabis-worth-3-72-crore-seized-at-pune-airport/amp_videoshow/135628475.cms
     publisher: The Economic Times
     date: 2026-11-07
+  - title: बँकॉकहून पुण्यात आलेल्या महिलेच्या बॅगेत सापडला १.१४ कोटींचा गांजा; पुणे विमानतळावर कस्टम्सची मोठी कारवाई!
+    url: https://mymarathi.net/mm-7106/
+    publisher: My Marathi
+    date: 2026-11-07
+    language: mr
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -265,7 +270,7 @@ of Pune Customs. [@2,3,12,15,20,23]
 
 Officers searching his check-in trolley bag found nine rectangular,
 silver-coloured packets labelled ‘Freeze Dried Monthong Durian’ hidden among
-noodle packets. [@1,8,11,12,14,15,16,17,18,19,21,22,23,24,25,26] Each packet was further lined with two layers of
+noodle packets. [@1,8,11,12,14,15,16,17,18,19,21,22,23,24,25,26,29] Each packet was further lined with two layers of
 vacuum-sealed black polythene to mask detection. [@2,8,10,11,12,22,23,24] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
