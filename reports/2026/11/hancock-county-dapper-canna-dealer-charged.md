@@ -67,6 +67,10 @@ sources:
     url: https://local12.com/news/nation-world/adam-king-hemp-dealer-faces-felony-marijuana-charges-hancock-county-farm-raid-seized-hundreds-plants-dapper-cincinnati-canna-dispensary-undercover-buys-tested-products-thc-exceeds-legal-limit-indiana-lawsuit-police-agencies
     publisher: WKRC
     date: 2026-11-06
+  - title: Smoke shop raid leads to felony charges against a local hemp dealer
+    url: https://fox59.com/video/smoke-shop-raid-leads-to-felony-charges-against-a-local-hemp-dealer/12342240/
+    publisher: Fox 59
+    date: 2026-11-05
 open_questions:
   - No precise plant number was published beyond hundreds of marijuana plants, so no plants_destroyed figure is recorded.
   - No cannabis weight, area, value or THC-test result was published for the farm plants or the shop products, so no kilogram or value figure is recorded.
@@ -80,12 +84,14 @@ open_questions:
   - WIBC gives no separate date for the late-October farm raid or the Wednesday initial hearing.
   - The WIBC page's copyright year appears as 2025 in its footer while the stated publication date is 5 November 2026; the publication date is used.
   - The page's only news photo is a generic hemp image credited to Sean Gallup/Getty Images, not a photo of this raid or seizure, so no media entry is listed.
+  - The submitted Fox 59 page is its video-center listing (video 12342240, aired 5 November 2026) and carries only the one-sentence description of the case; the station's full written article could not be opened because it returned an access error, so its text is corroborated through the WIBC and WKRC accounts opened here.
+  - The station's YouTube upload of the report, linked by WKRC, returned no openable content, so no video entry with a direct media address was added.
 ---
 
 Felony drug charges have been filed in Hancock County against a local hemp
-dealer who runs a dispensary in Fountain Square. [@1,2,3] The dealer was identified
+dealer who runs a dispensary in Fountain Square. [@1,2,3,5] The dealer was identified
 as Adam King, who faces two felony counts of dealing marijuana. [@1,3,4] King spoke
-out against the charges a day after he was released from jail. [@1] He spent
+out against the charges a day after he was released from jail. [@1,3] He spent
 nearly a week behind bars before being released on bond pending trial after an
 initial hearing on Wednesday. [@1,3,4]
 
