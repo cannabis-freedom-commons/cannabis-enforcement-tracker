@@ -123,6 +123,11 @@ sources:
     publisher: AD HOC NEWS
     date: 2026-11-05
     language: de
+  - title: 'Große Drogenrazzia im Saarland und in der Nordpfalz: Über 2.300 Cannabispflanzen entdeckt – acht Festnahmen'
+    url: https://www.sol.de/blaulicht-saarland/grosse-drogenrazzia-im-saarland-und-in-der-nordpfalz-ueber-2-300-cannabispflanzen-entdeckt-acht-festnahmen-re-2,799697.html
+    publisher: SOL.DE
+    date: 2026-11-06
+    language: de
 open_questions:
   - The 3 November 2026 incident date comes from the stated Tuesday raid day and the explicit 03.11.2026 date in the authorities' statement; 5 November 2026 is the publication date.
   - The plant count is reported as more than 2,300, so 2,300 is recorded as the stated minimum.
@@ -148,29 +153,31 @@ open_questions:
   - This roundup names only Saarland for the eleven addresses, while other reporting and the joint statement place them in Saarland and the Nordpfälzer Bergland.
   - The roundup gives no separate cannabis weight and its lead picture is a generic AFP cannabis-plant illustration, not a picture of this raid, so no figures or media change.
   - This reprint describes the hashish as just under one kilogram ("knapp 1 Kilogramm Haschisch") while the existing report records one kilogram from the authorities' release; the existing cannabis total is unchanged.
+  - The article names the shared announcement by the Saarbrücken prosecutor's office and the Frankfurt customs investigation office dated Thursday 5 November 2026 and the searches on the preceding Tuesday, which supports the report's 3 November incident date; 6 November 2026 is this page's publication date.
+  - The article gives the hashish as just under one kilogram while the report's cannabis total uses the stated one kilogram.
 ---
 
 Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating
-and dealing cannabis. [@1,4,7,8,9,13] The suspects allegedly used vacant buildings to
+and dealing cannabis. [@1,4,7,8,9,13,14] The suspects allegedly used vacant buildings to
 operate illegal plantations and sold the marijuana in the surrounding Greater
-Region and in France. [@1,3,4,9] The eight were brought before an investigating judge,
+Region and in France. [@1,3,4,9,14] The eight were brought before an investigating judge,
 who issued custody orders for all of them but suspended one under conditions,
-leaving seven in pretrial detention. [@1,4,7,8,9,10,11,12,13] The group comprised six Albanian
+leaving seven in pretrial detention. [@1,4,7,8,9,10,11,12,13,14] The group comprised six Albanian
 nationals, one German and one Italian, according to the authorities' statement.
 [@2,5,9]
 
 Officers searched eleven homes and business premises in Saarland and the
-Rhineland-Palatinate part of the Nordpfälzer Bergland. [@1,4,6,7,9,10,11,12] They seized 11.5
+Rhineland-Palatinate part of the Nordpfälzer Bergland. [@1,4,6,7,9,10,11,12,14] They seized 11.5
 kilograms of marijuana and one kilogram of hashish, together with 33 kilograms
 of amphetamine, 1.2 kilograms of MDMA and 500 grams of ecstasy tablets. [@1,4,6,7,8,9,12]
 Investigators also seized a tablet press, blank-firing and air weapons plus
-another possibly live firearm. [@2,5,9]
+another possibly live firearm. [@2,5,9,14]
 
 French authorities carried out parallel searches in the Grand Est area at the
-same time and arrested 13 people. [@1,3,4,7,9,10,11,12,13] The Federal Criminal Police Office
+same time and arrested 13 people. [@1,3,4,7,9,10,11,12,13,14] The Federal Criminal Police Office
 crime-scene unit, the Saarbrücken main customs office and state police helped
-secure the plantations. [@2,9] The authorities said the investigations are still
-ongoing. [@2,3,4,5,9]
+secure the plantations. [@2,9,14] The authorities said the investigations are still
+ongoing. [@2,3,4,5,9,14]
 
 Investigators said the Jeckenbach site in Bad Kreuznach district held about 300 plants. [@3] Prosecutors said the largest of the dismantled plantations was in Homburg in Saarland. [@3]
 
@@ -178,4 +185,4 @@ The submitted page gives hashish as "knapp ein Kilogramm" (just under one kilogr
 
 The five dismantled plantations comprised one in Saarlouis district, one in Saarpfalz-Kreis and three in Bad Kreuznach district in Rhineland-Palatinate. [@8]
 
-The investigation began with a customs check near Pirmasens in May 2026, when officers found about 20 kilograms of marijuana in a car boot and arrested a suspected participant. [@13]
+The investigation began with a customs check near Pirmasens in May 2026, when officers found about 20 kilograms of marijuana in a car boot and arrested a suspected participant. [@13,14]
