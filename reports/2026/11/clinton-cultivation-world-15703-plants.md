@@ -76,12 +76,18 @@ sources:
     url: https://hoodline.com/2026/11/clinton-marijuana-raid-nets-15-703-plants-four-taken-into-custody/
     publisher: Hoodline
     date: 2026-11-06
+  - title: More than 15,000 plants seized in Clinton marijuana bust
+    url: https://kfor.com/news/local/more-than-15000-plants-seized-in-clinton-marijuana-bust/amp/
+    publisher: KFOR.com Oklahoma City
+    date: 2026-11-06
 open_questions:
   - The name, age, nationality and charges of the person arrested were not published, and no court outcome was reported.
   - The three people handed to ICE were not identified, and it is not stated whether any of them was the arrested person.
   - KFOR put the number of people taken into custody at four, which fits one arrest plus three ICE transfers but is not confirmed by OBN.
   - No area in hectares, street value or number of plants destroyed versus taken as evidence was reported.
   - It is not stated whether the 114 pounds of processed marijuana were sealed retail product or bulk processed flower.
+  - KFOR places the property in Clinton; other coverage put the grow south of Clinton in Washita County, and the existing report keeps the Washita County location.
+  - KFOR gives no names or charges for the four people taken into custody, and no court outcome was reported.
 ---
 
 One person was arrested at a marijuana grow near Clinton, in Washita County,
@@ -89,15 +95,15 @@ Oklahoma, and three others were handed to U.S. Immigration and Customs
 Enforcement. [@1] On Thursday, 5 November 2026, Marijuana Enforcement Teams of
 the Oklahoma Bureau of Narcotics, the state drug agency known as OBN, served a
 search warrant at Cultivation World LLC as part of an investigation into illegal
-cultivation. [@1] The raid took place at 10,834 North 2248 Road, about 5.5 miles
+cultivation. [@1,4] The raid took place at 10,834 North 2248 Road, about 5.5 miles
 (8.9 km) south of Clinton. [@2]
 
 Agents seized 15,703 marijuana plants and 114 pounds (about 51.7 kg) of
-processed marijuana. [@1]
+processed marijuana. [@1,4]
 
 Investigators said they were looking at companies running on an OBN registration
 obtained by fraud through a straw ownership scheme, in which one person is used
-to conceal who really controls a business. [@1] The Penny News, citing OBN,
+to conceal who really controls a business. [@1,4] The Penny News, citing OBN,
 described the scheme as using an individual to conceal the true ownership of a
 business. [@2]
 
@@ -107,3 +113,4 @@ said its investigation continues. [@2] Hoodline reported that a KFOR account put
 the number of people taken into custody at four, which fits one arrest plus
 three ICE transfers. [@3]
 
+Four people were taken into custody in the bust. [@4]
