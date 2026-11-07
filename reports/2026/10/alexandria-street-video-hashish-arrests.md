@@ -30,6 +30,11 @@ media:
     media_url: https://darelhilal.com/Media/News/2026/11/7/2026-639296542196056533-605.jpg
     publisher: دار الهلال
     caption: Page picture of the case, captioned only "الواقعة" (the incident) with no credit; it is not established to show this seizure or the two men.
+  - kind: photo
+    url: https://gate.ahram.org.eg/News/5979996.aspx
+    media_url: https://gate.ahram.org.eg/Media/News/2026/11/7/19_2026-639296614381161169-116.jpeg
+    publisher: بوابة الأهرام
+    caption: Page photo captioned المتهمان (the two defendants) with the Al-Ahram report on the Alexandria street hashish arrests; it carries no credit.
 details:
   activity: [trafficking, possession]
   agency_types: [police, prosecutor]
@@ -178,6 +183,11 @@ sources:
     publisher: إقرأ نيوز
     date: 2026-11-07
     language: ar
+  - title: ضبط شخصين لترويج وتعاطي المخدرات في الشارع بالإسكندرية
+    url: https://gate.ahram.org.eg/News/5979996.aspx
+    publisher: بوابة الأهرام
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
   - Neither report gives the weight of the hashish found with the employee or with the supplier.
@@ -232,13 +242,17 @@ open_questions:
   - The article gives 30 October as the date the two admitted committing the offence but no separate date for the arrest.
   - No weight for the hashish, no charge and no court outcome are reported.
   - The page picture is captioned only with the article headline and carries no credit, so it was not established to show this seizure and no media entry was added.
+  - The Al-Ahram page gives 30 October as the date the two admitted committing the offence but no separate date for their arrest.
+  - It gives no weight for the hashish found with the two men, names neither of them, and reports no charge or court outcome.
+  - It describes both arrested men as unemployed residents of the First Montazah police district, as do several other later accounts, while earlier accounts describe the filmed pair as a company employee and a delivery worker.
+  - The page photo is captioned only المتهمان with no credit, so it is not certain it is a distinct image rather than a republished Interior Ministry handout already listed.
 ---
 
 The case began with a social-media post, backed by a video, in which the person
 who published it complained about two men, one of them riding a motorcycle,
 using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,21,22,25] Egypt's Interior Ministry said its
 security services identified and arrested the pair and seized the motorcycle,
-which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22,25] The two were a company employee and a
+which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22,25,27] The two were a company employee and a
 delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21,23]
 
 Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] Questioned, the two admitted the
@@ -247,8 +261,8 @@ obtained the hashish from an unemployed man with a criminal record living in the
 First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20]
 
 The ministry said no reports had been filed about the incident before the video
-spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22,25] The public prosecution has taken over the investigation.
-[@2,3,4,7,8,9,10,13,16,17,18,20,24]
+spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22,25,27] The public prosecution has taken over the investigation.
+[@2,3,4,7,8,9,10,13,16,17,18,20,24,27]
 
 The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20]
 
@@ -256,6 +270,6 @@ Alexandria prosecutors ordered the employee and the delivery worker held for fou
 
 The Montazah prosecution in Alexandria ordered the three accused held for four days pending investigation on charges of drug use and possession of hashish for use and trafficking. [@19]
 
-The two arrested men admitted committing the offence on 30 October and holding the drugs for both use and trafficking, the only account that reports an admission to trafficking by both. [@21,23]
+The two arrested men admitted committing the offence on 30 October and holding the drugs for both use and trafficking, the only account that reports an admission to trafficking by both. [@21,23,27]
 
-Both arrested men were found with hashish and two mobile phones. [@22,23,26]
+Both arrested men were found with hashish and two mobile phones. [@22,23,26,27]
