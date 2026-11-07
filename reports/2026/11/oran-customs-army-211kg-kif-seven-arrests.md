@@ -45,6 +45,11 @@ media:
     media_url: https://www.horizons.dz/wp-content/uploads/2026/11/Plus-de-211-kg-de-kif-traite-saisis-a-Oran.webp
     publisher: Horizons
     caption: Treated kif from the Oran operation, in the lead photograph published with the customs statement; no credit given.
+  - kind: photo
+    url: https://www.aps.dz/fr/algerie/societe/mw6ebq2u-plus-de-211-kg-de-kif-traite-saisis-et-sept-personnes-arretees
+    media_url: https://www.aps.dz/fr/_next/image?url=%2Ffr%2Fapi%2Fimage%2Farticle%2F0c59fb8a57f730b8c5ade1fd7d84d70c.jpg&w=1920&q=75
+    publisher: Algérie Presse Service
+    caption: Lead photograph published with the APS dispatch on the Oran customs seizure; it carries only the file-name caption "aps" and no credit, so it is not confirmed to show the seized kif.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 280ec07a8ef0127c189be1d8aa5aedfe
@@ -60,6 +65,11 @@ sources:
     publisher: الشروق أونلاين
     date: 2026-11-07
     language: ar
+  - title: Plus de 211 kg de kif traité saisis et sept personnes arrêtées
+    url: https://www.aps.dz/fr/algerie/societe/mw6ebq2u-plus-de-211-kg-de-kif-traite-saisis-et-sept-personnes-arretees
+    publisher: Algérie Presse Service
+    date: 2026-11-07
+    language: fr
 open_questions:
   - Neither report gives the day of the operation; 7 November 2026 is the publication date of both accounts and is used as the incident date.
   - The customs statement does not say where in Oran the seizure took place or how the treated kif was being carried.
@@ -68,24 +78,24 @@ open_questions:
   - Both accounts reproduce the same General Directorate of Customs statement, so they are not independent reporting; no statement page on the customs service's own site could be opened.
   - The lead photograph is published with the article, but no caption or credit establishes which seizure it shows.
   - Left out agencies, as its quotation was not found in الشروق أونلاين.
+  - The APS dispatch gives no separate date for the operation; 7 November 2026 is its publication date.
 ---
 
 Algeria's mobile customs brigade of the Oran extérieur divisional customs
 inspectorate, working with a detachment of the National People's Army (ANP),
-seized 211.066 kg of treated kif in Oran and arrested seven people. [@1] The
+seized 211.066 kg of treated kif in Oran and arrested seven people. [@1,3] The
 figures came in a statement from the General Directorate of Customs. [@1]
 
 The operation also recovered 320,000 dinars and 1,750 euros in cash, according
-to the customs statement. [@1] Officers seized five passenger cars and two
+to the customs statement. [@1,3] Officers seized five passenger cars and two
 motorcycles the suspects had used. [@1] The customs statement placed the seven
 suspects at the disposal of the justice system. [@1]
 
 After the usual procedures, the seven arrested people were brought before the
-public prosecutor at the Oran court to answer for the alleged offences. [@1]
+public prosecutor at the Oran court to answer for the alleged offences. [@1,3]
 Echorouk Online, Algeria's daily Echorouk, reported the same customs operation
 in Arabic, with 211.066 kg, seven arrests, five cars, two motorcycles, 320,000
 dinars and 1,750 euros. [@2]
 
 The customs service described the operation as part of its drive against
 smuggling in all its forms and organised crime. [@1]
-
