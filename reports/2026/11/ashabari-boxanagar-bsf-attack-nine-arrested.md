@@ -12,7 +12,7 @@ title: Nine arrested after BSF attacked during ganja seizure in Tripura
 summary: >-
   Tripura police arrested nine people after a mob attacked BSF personnel at Ashabari village in Sepahijala district, injuring three troopers. Police said the clash followed a BSF anti-smuggling action in which personnel recovered packets of ganja.
 figures:
-  arrested: 9
+    arrested: 18
 details:
   activity: [smuggling]
   agencies: [in-bsf]
@@ -24,15 +24,15 @@ details:
     - {product: flower}
   setting: [border, home]
 data_sources:
-  details.activity: [2, 4, 1, 5, 3, 6]
-  details.agencies: [1, 3, 4, 5]
-  details.agency_types: [1, 3, 4, 5]
-  details.case_stage: [2, 4, 5]
-  details.date_precision: [2, 4, 5]
-  details.force: [2, 4, 1, 5, 3]
-  details.products: [1, 3, 4]
-  details.setting: [5, 1, 3, 4, 2]
-  figures.arrested: [1, 3, 4, 5, 2]
+    details.activity: [2, 4, 1, 5, 3, 6]
+    details.agencies: [1, 3, 4, 5]
+    details.agency_types: [1, 3, 4, 5]
+    details.case_stage: [2, 4, 5]
+    details.date_precision: [2, 4, 5]
+    details.force: [2, 4, 1, 5, 3]
+    details.products: [1, 3, 4]
+    details.setting: [5, 1, 3, 4, 2]
+    figures.arrested: [7]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 39d81fccd51892dea10d0d03fcfcdda5
@@ -65,6 +65,10 @@ sources:
     url: https://telanganatoday.com/18-arrested-in-tripura-over-attack-on-bsf-personnel-near-bangladesh-border
     publisher: Telangana Today
     date: 2026-11-06
+  - title: 18 arrested in Tripura over attack on BSF personnel near Bangladesh border
+    url: https://www.cityairnews.com/content/18-arrested-in-tripura-over-attack-on-bsf-personnel-near-bangladesh-border
+    publisher: Cityairnews
+    date: 2026-11-06
 open_questions:
   - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
   - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
@@ -84,6 +88,8 @@ open_questions:
   - The article gives 18 arrests including three women, while the existing report records nine arrests and mentions an earlier account of ten, so the case count rose again after those publications.
   - The article places Ashabari under Kalamchaura police station, while the existing report places it under Boxanagar; the same village appears to be meant.
   - The eight new arrests are dated to Thursday night and early Friday morning, so the incident date is set to the 6 November publication date of this stage.
+  - The article does not say how many of the 18 arrested face the NDPS Act charge specifically, or whether any ganja was recovered in the BSF interception.
+  - No court outcome for the eight new arrests was reported beyond production before a Sepahijala court.
 ---
 
 Tripura police arrested nine people, including three women, for allegedly
@@ -114,4 +120,6 @@ The attack occurred at about 9 a.m. on 2 November while BSF personnel were on du
 
 The BSF complaint names 19 attackers, of whom ten had been arrested and nine remained fugitive with search operations and raids continuing. [@5] Police said the nine fugitives might cross the India-Bangladesh international border into Bangladesh, so Tripura police directed the BSF to maintain special vigilance on the border. [@5] BSF Tripura Frontier inspector general Princi Rani and Sepahijala superintendent Bijoy Debbarma visited the Ashabari border area on Tuesday with other officers and briefed chief minister Manik Saha. [@5] BSF, Tripura State Rifles and police held a joint flag march on Wednesday while tension continued in the area. [@5] BSF said its personnel showed restraint and did not use lethal weapons despite the attack. [@5]
 
-Police said the eight newly arrested people would be produced before a local court in Sepahijala district at the earliest. [@6] All 18 people arrested have been booked under the Narcotic Drugs and Psychotropic Substances Act, 1985, the Bharatiya Nyaya Sanhita, 2023, and the Prevention of Damage to Public Property Act, 1984. [@6] Chief Minister Manik Saha chaired a high-level meeting with senior security officials in Agartala on Thursday night to review the incident and the law and order situation, directing zero tolerance towards cross-border smuggling. [@6] One of the alleged attackers was injured in the incident. [@6] The attackers allegedly snatched a pump-action gun from one of the BSF personnel, not only attempted to do so. [@6]
+Police said the eight newly arrested people would be produced before a local court in Sepahijala district at the earliest. [@6,7] All 18 people arrested have been booked under the Narcotic Drugs and Psychotropic Substances Act, 1985, the Bharatiya Nyaya Sanhita, 2023, and the Prevention of Damage to Public Property Act, 1984. [@6,7] Chief Minister Manik Saha chaired a high-level meeting with senior security officials in Agartala on Thursday night to review the incident and the law and order situation, directing zero tolerance towards cross-border smuggling. [@6,7] One of the alleged attackers was injured in the incident. [@6,7] The attackers allegedly snatched a pump-action gun from one of the BSF personnel, not only attempted to do so. [@6]
+
+The attackers also allegedly snatched a pump-action gun from one of the BSF personnel and damaged a BSF vehicle. [@7] Eight more people were arrested over the attack in Sepahijala district on Thursday night and early Friday morning, taking the total held to 18, including three women. [@7]
