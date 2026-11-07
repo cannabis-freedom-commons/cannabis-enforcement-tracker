@@ -49,6 +49,10 @@ sources:
     url: https://www.hindustantimes.com/world/former-nepal-crown-prince-arrested-in-thailand-released/story-AXlUwa5fG0dWqnrB8mfUkL.html
     publisher: Hindustan Times
     date: 2014-07-15
+  - title: Nepal's ex-crown prince arrested in Thailand with marijuana
+    url: https://www.thenewsminute.com/news/nepals-ex-crown-prince-arrested-thailand-marijuana-18903
+    publisher: The News Minute
+    date: 2015-01-29
 open_questions:
   - NDTV reports 12 gm while Anadolu Agency reports over 10 grams; this report uses the specific 12-gram figure.
   - Hindustan Times says the hotel arrest happened on Friday while the embassy-police account gives the evening of 10 July 2014, which this report uses as the incident date.
@@ -60,18 +64,19 @@ open_questions:
 ---
 
 Paras Shah, Nepal's former crown prince, was arrested by Thai police on 10 July
-2014 with 12 grams of marijuana. [@1] Shah was 43 years old and was still in
+2014 with 12 grams of marijuana. [@1,4] Shah was 43 years old and was still in
 custody when the arrest was confirmed. [@1] He was arrested at Hotel Debit on
-the evening of 10 July with the contraband marijuana. [@1] Thai police informed
-the Nepal embassy in Bangkok about the arrest the same day it happened. [@1]
+the evening of 10 July with the contraband marijuana. [@1,4] Thai police informed
+the Nepal embassy in Bangkok about the arrest the same day it happened. [@1,4]
 
 A hotel staff member who found the drug in his room alerted the authorities.
 [@2] Another account described the seizure as two pouches of marijuana found on
 him at the hotel. [@3] Police charged Shah and presented him before a local
-criminal court. [@1] He was released from police custody on the Monday after the
+criminal court. [@1,4] He was released from police custody on the Monday after the
 arrest. [@3] By 16 July he was out on bail and awaiting trial. [@2]
 
 Bangkok police described it as his second arrest for possession and said he
 could face up to five years in jail. [@2] Nepal's embassy in Bangkok said it was
 monitoring the situation but had no further comment. [@2]
 
+Thai police did not say where Shah was being held. [@4]
