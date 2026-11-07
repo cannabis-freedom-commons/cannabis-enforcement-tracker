@@ -72,6 +72,10 @@ sources:
     url: https://nairobileo.co.ke/news/article/31331/court-slaps-man-with-ksh50-million-fine-for-trafficking-bhang
     publisher: Nairobi Leo
     date: 2026-11-07
+  - title: Narok Court Hands Pascal Chacha 50-Year Jail Term Over 47.3kg Bhang Trafficking
+    url: https://signstv.co.ke/narok-court-hands-pascal-chacha-50-year-jail-term-over-473kg-bhang-trafficking
+    publisher: Signs TV
+    date: 2026-11-07
 open_questions:
   - The ODPP statement gives no date for the sentencing; Capital FM's follow-up listing on the page puts the ruling on 6 November 2026, while 7 November 2026 is the publication date of both accounts.
   - The other people said to have trafficked the cannabis jointly with Chacha were not named or reported as charged in these accounts.
@@ -84,14 +88,14 @@ open_questions:
 
 A Narok court sentenced Pascal Chacha to a fine of Sh50 million or 50 years in
 prison in default after convicting him of trafficking 47.3 kilogrammes of bhang.
-[@1,3,4] The Office of the Director of Public Prosecutions said the conviction was
+[@1,3,4,5] The Office of the Director of Public Prosecutions said the conviction was
 secured at the Narok Law Courts and put the value of the cannabis at Sh1.4
 million. [@1,3]
 
 Prosecutors said Chacha, jointly with others, was found trafficking 47.3
 kilogrammes of cannabis on 10 February 2025 along the Narok-Suswa Road in
 Ntulele, Narok East Sub-County, Narok County. [@2,3,4] The cannabis was being
-carried in a public service vehicle matatu when Chacha was arrested. [@1,3] The
+carried in a public service vehicle matatu when Chacha was arrested. [@1,3,5] The
 ODPP said Chacha was charged under Section 4(a)(ii) of the Narcotic Drugs and
 Psychotropic Substances (Control) Amendment Act, 2022, the trafficking provision
 a Kenyan court applies to cannabis. [@2,3,4]
@@ -100,6 +104,6 @@ Chief Magistrate Hezron Nyaberi treated the quantity of bhang as a significant
 aggravating circumstance and said the sentence should deter others and protect
 the public from drug trafficking. [@1,3,4] The prosecution team was led by Assistant
 Director of Public Prosecutions Gitonga Murang'a, with Principal Prosecution
-Counsel James Kigo and Prosecution Counsel Leone Wandera. [@1] A plea bargain
+Counsel James Kigo and Prosecution Counsel Leone Wandera. [@1,5] A plea bargain
 secured the evidence of the matatu driver, who was then turned into a state
-witness. [@1,3,4]
+witness. [@1,3,4,5]
