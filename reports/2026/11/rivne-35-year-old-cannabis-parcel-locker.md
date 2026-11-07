@@ -47,6 +47,16 @@ media:
     media_url: https://rivne1.tv/pics2/2611/i177170.jpg
     publisher: Телеканал «Рівне 1»
     caption: 'Police handout photo published with the report on the cannabis seized from the 35-year-old man by a Rivne postal locker. Photo: Rivne Oblast police'
+  - kind: photo
+    url: https://polissia.news/u-rivnomu-v-cholovika-vyluchyly-blyzko-piv-kilograma-kanabisu/
+    media_url: https://cdn.polissia.news/wp-content/uploads/2026/11/image-85-1024x683.webp
+    publisher: Полісся News
+    caption: 'Second photo in the Polissia News account of the Rivne parcel-locker arrest; the page gives no caption or credit. Photo: Rivne Oblast police handout'
+  - kind: photo
+    url: https://polissia.news/u-rivnomu-v-cholovika-vyluchyly-blyzko-piv-kilograma-kanabisu/
+    media_url: https://cdn.polissia.news/wp-content/uploads/2026/11/image-86-1024x683.webp
+    publisher: Полісся News
+    caption: 'Third photo in the Polissia News account of the Rivne parcel-locker arrest; the page gives no caption or credit. Photo: Rivne Oblast police handout'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 54ec1ab8a3d00cae0de5bd56f55fadc6
@@ -67,23 +77,38 @@ sources:
     publisher: Рівне Онлайн
     date: 2026-11-07
     language: uk
+  - title: У Рівному в чоловіка вилучили близько пів кілограма канабісу
+    url: https://polissia.news/u-rivnomu-v-cholovika-vyluchyly-blyzko-piv-kilograma-kanabisu/
+    publisher: Полісся News
+    date: 2026-11-07
+    language: uk
+  - title: 'У Рівному чоловік отримав поштою пів кілограма канабісу: втрутилася поліція'
+    url: https://ogo.ua/u-rivnomu-cholovik-otrymav-poshtoyu-piv-kilograma-kanabisu-vtrutylasya-policziya/
+    publisher: ОГО.ua
+    date: 2026-11-07
+    language: uk
 open_questions:
   - The weight and value are given as approximate (about 500 grams, about 200,000 hryvnias), not measured figures.
   - The reports do not say what the postal delivery contained beyond the cannabis found on the man, who sent it, or whether the man is accused of receiving it for sale; the charge is possession without intent to sell.
   - No arrest, detention order or court outcome was reported; investigators said only that investigative actions were continuing.
   - No figure is given for the cannabis amount or the sender, if any, identified through the postal operator.
   - The three opened accounts reproduce the same Rivne Oblast police statement, and only one police handout photo could be confirmed with a direct image address.
+  - The weight and value are approximate (about 500 grams, about 200,000 hryvnias).
+  - The added accounts say the man was stopped while officers acted on information they already held, but they give no details of that information or of the postal delivery's contents.
+  - No detention measure, formal charge sheet beyond the article 309 registration, or court outcome was reported; police said only that investigative actions were continuing.
+  - The submitted page, ОГО.ua and the Rivne Oblast police Telegram channel reproduce the same police statement and the same handout photos, so they are not independent reporting.
+  - The three photos on the submitted page carry no captions or credits and their content could not be checked, so it is not established what they show.
 ---
 
 Detectives of the Rivne Oblast police drug-crime unit stopped a 35-year-old
 Rivne resident near a parcel locker on Viacheslava Chornovola Street in Rivne
-shortly after 5 pm on 6 November, after he collected a postal delivery. [@1] The
+shortly after 5 pm on 6 November, after he collected a postal delivery. [@1,4] The
 stop was based on intelligence the officers already held, and they searched the
 man on the spot. [@2]
 
-In the search officers found and seized cannabis weighing about 500 grams. [@1]
+In the search officers found and seized cannabis weighing about 500 grams. [@1,4]
 Rivne Oblast police put the street value of the seized cannabis at about 200,000
-hryvnias (about 4,700 dollars). [@2]
+hryvnias (about 4,700 dollars). [@2,5]
 
 A pretrial investigation is under way into unlawful possession of drugs under
 part 1 of article 309 of Ukraine's Criminal Code, which covers acquiring and
@@ -94,3 +119,4 @@ circumstances of the offence. [@1]
 The three accounts reproduced the same statement from the Rivne Oblast police.
 [@3]
 
+The officers stopped him while acting on information they already held, rather than on a check triggered by the parcel itself. [@5] On a superficial check the officers found the drug; police described it as cannabis according to preliminary data. [@5] Investigators were still establishing the possible involvement of other people in the illegal circulation of drugs, alongside all the circumstances of the case. [@5] The parcel-locker stop was announced by the police on 7 November. [@5]
