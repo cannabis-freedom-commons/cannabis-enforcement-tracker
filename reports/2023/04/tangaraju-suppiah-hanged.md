@@ -40,6 +40,8 @@ tags: [cnb, mandatory-death-penalty, conspiracy]
 open_questions:
   - The Central Narcotics Bureau's 22 April statement announced the hanging but the opened post-execution sources are news reports; no separate CNB execution notice was used.
   - Activists said Tangaraju lacked adequate Tamil interpretation at key stages; the bureau said he requested an interpreter only at trial, and the opened sources do not resolve that dispute.
+  - The report's precise figure of 1,017.9 grams comes from the bureau statement and the High Court judgment; Le Monde describes the amount only as "just over a kilogram".
+  - Le Monde's article sits behind a subscriber paywall after its third paragraph, so its later passages could not be read.
 sources:
   - title: "Tangaraju Suppiah: Singapore executes man for supplying cannabis"
     publisher: BBC News
@@ -56,10 +58,20 @@ sources:
     url: https://www.elitigation.sg/gd/s/2018_SGHC_279
     archived: https://web.archive.org/web/20250618182832/https://www.elitigation.sg/gd/s/2018_SGHC_279
     date: 2018-10-09
+  - title: Singapore man hanged over 1 kilo of cannabis
+    url: https://www.lemonde.fr/en/international/article/2023/04/27/justice-gets-tougher-in-singapore-where-man-hanged-over-1-kilo-of-cannabis_6024578_4.html
+    publisher: Le Monde.fr
+    date: 2023-04-27
+media:
+  - kind: photo
+    url: https://www.lemonde.fr/en/international/article/2023/04/27/justice-gets-tougher-in-singapore-where-man-hanged-over-1-kilo-of-cannabis_6024578_4.html
+    media_url: https://img.lemde.fr/2023/04/26/0/0/0/0/556/0/75/0/6ac4106_1682526811309-398635.jpg
+    publisher: Le Monde.fr
+    caption: 'The Singapore Prison Service pictured on 26 April 2023, the day Tangaraju Suppiah was executed. Photo: Lionel Ng / AP'
 ---
 
 Tangaraju s/o Suppiah, 46, was hanged at dawn on 26 April 2023 at Changi Prison despite clemency
-pleas from his family, activists and the United Nations. [@1] The Central Narcotics Bureau had
+pleas from his family, activists and the United Nations. [@1,4] The Central Narcotics Bureau had
 scheduled the capital sentence for that date after he was convicted of abetting the trafficking of
 1,017.9 grams of cannabis, more than twice the 500-gram threshold for a mandatory death sentence.
 [@2]
@@ -80,3 +92,5 @@ August 2019. [@2] A petition to the president failed, and a last-minute review a
 dismissed on 25 April 2023. [@1,2] His relatives collected his body outside the prison after the
 hanging. [@1] Singapore authorities said he had had a fair trial with legal counsel throughout.
 [@1,2]
+
+Singapore's anti-drug policy makes capital punishment almost mandatory above certain thresholds, 500 grams for cannabis and 15 grams for heroin, and judges cannot impose lighter sentences. [@4] Eleven people were hanged in Singapore in 2022, all for drug-related offences, after two years with no executions. [@4] In a statement from Bangkok on 26 April, Human Rights Watch's deputy Asia director Phil Robertson accused Singapore of being "completely out of step" with basic concepts of human rights, proportionality in criminal punishments and justice. [@4]
