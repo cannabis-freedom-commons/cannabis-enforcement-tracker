@@ -2,7 +2,7 @@
 added_at_source: git
 added_at: '2026-11-01T05:27:25.000Z'
 code: 16J09Z
-date: '2026-11-03'
+date: 2026-11-06
 country: id
 place: Gresik Regency, East Java
 coordinates:
@@ -10,17 +10,12 @@ coordinates:
   - 112.656
 precision: district
 type: prosecution
-also:
-  - seizure
-  - arrest
-title: 3.37-tonne Thai cannabis-bud case sent to Gresik court
-summary: >-
-  Indonesia's BNN seized 3.37 tonnes of Thai cannabis buds hidden in suitcases and latex cargo at a Gresik
-  warehouse in July 2026. The case files have been transferred to the Gresik District Court, which is
-  scheduling the first trial for the international smuggling network.
+also: [seizure, arrest]
+title: 3.37-tonne Gresik cannabis case reaches court; indictment reading postponed
+summary: Four defendants in Indonesia's 3.37-tonne Thai cannabis-bud smuggling case appeared at Gresik District Court, where the reading of the indictment was postponed. One defendant, a Chinese national, has filed a pretrial challenge in East Jakarta, and the panel said the main examination must wait for that ruling.
 figures:
-  arrested: 12
-  kg_seized: 3371.4
+    arrested: 12
+    kg_seized: 3371.4
 created_by_model: cursor/composer-2.5
 details:
   agencies: [id-bnn]
@@ -42,7 +37,7 @@ data_sources:
   details.setting: [3, 4, 5, 6]
   figures.arrested: [3, 4, 5, 6]
   figures.kg_seized: [1, 2, 3, 4, 5, 6]
-status: verified
+status: reported
 tags:
   - bnn
   - gresik
@@ -82,6 +77,13 @@ open_questions:
   - >-
     No new media entry is listed because the page's single captioned photo appears to republish the BNN
     seizure handout already recorded for the July seizure.
+  - The pretrial challenge is pending in the East Jakarta District Court; no ruling date or outcome is reported.
+  - detikJatim dates the hearing to Friday 6 November 2026, while memorandum.co.id and Klik Media Network date it to Thursday 5 November 2026.
+  - No outlet publishes the new hearing date.
+  - The prosecutor's remark that only four defendants were received does not account for the other eight people named as suspects in July 2026.
+  - Only one defendant's pretrial challenge is reported; the grounds of the challenge are not given.
+  - 'No photo of this court hearing could be linked: the page''s captioned images show the July seizure and an unrelated warehouse video.'
+  - 'Sidang Penyelundupan Ganja 3,37 Ton di PN Gresik Ditunda, Ini Alasannya! (Klik Media Network) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
 sources:
   - title: BNN RI gagalkan penyelundupan 3,37 ton kuncup bunga cannabinoid berkedok impor barang
     url: https://bnn.go.id/bnn-ri-gagalkan-penyelundupan-337-ton-kuncup-bunga-cannabinoid-berkedok-impor-barang/
@@ -111,6 +113,21 @@ sources:
     url: https://radargresik.jawapos.com/amp/hukum-dan-kriminal/2611030010/melibatkan-wna-asal-cina-empat-tersangka-kasus-337-ton-kuncup-ganja-cerme-bersiap-jalani-sidang
     publisher: Radar Gresik
     date: '2026-11-03'
+    language: id
+  - title: Sidang Ganja 3,37 Ton yang Diungkap Irjen Suyudi Ditunda, Ini Sebabnya
+    url: https://www.detik.com/jatim/hukum-dan-kriminal/d-8741474/sidang-ganja-3-37-ton-yang-diungkap-irjen-suyudi-ditunda-ini-sebabnya
+    publisher: detikJatim
+    date: 2026-11-06
+    language: id
+  - title: Sidang Penyelundupan Ganja 3,37 Ton di PN Gresik Ditunda, Ini Alasannya!
+    url: https://www.klikmedianetwork.com/hukum-kriminal/1947629497/sidang-penyelundupan-ganja-337-ton-di-pn-gresik-ditunda-ini-alasannya
+    publisher: Klik Media Network
+    date: 2026-11-05
+    language: id
+  - title: Sidang Kasus Peredaran 3,37 Ton Ganja di Gresik Ditunda, Terdakwa Ajukan Praperadilan
+    url: https://memorandum.disway.id/amp/174021/sidang-kasus-peredaran-337-ton-ganja-di-gresik-ditunda-terdakwa-ajukan-praperadilan
+    publisher: memorandum.co.id
+    date: 2026-11-05
     language: id
 media:
   - kind: photo
@@ -155,3 +172,5 @@ president's drug-eradication programme through inter-agency cooperation. [@3]
 The case files have been transferred to the Gresik District Court, which is now scheduling the first trial. [@5,6] Prosecutors said the transfer went directly to the Gresik court through the e-Berpadu integrated electronic case-file system on 3 November 2026. [@5,6] Those detained allegedly held different roles from drivers to other field actors, including a foreign national accused of controlling the smuggling network. [@5,6] The buds were allegedly smuggled by an international network disguised as imported goods through official customs, sent from Thailand via Malaysia into Indonesia. [@5,6]
 
 Four suspects were transferred for trial, identified by initials as Chinese national WJ and Indonesians AR, BT and M. [@6] The confirming prosecutor was Kasi Pidum Kejari Gresik Uwais Deffa I Qorni. [@6]
+
+The reading of the indictment due at Gresik District Court was postponed because one of the four defendants filed a pretrial challenge. [@7] At the first hearing the panel's chair Halim Ersin said the court could not begin the main examination of the case until the pretrial court ruled. [@7] Ersin said the delay followed Supreme Court circular letter (SEMA) No. 3 of 2026, and that the defendants' case files had been received. [@7] Gresik district prosecutor Uwais Deffa I Qorni said his office received only four defendants and would present the completed files at the indictment hearing. [@7] Klik Media Network reported that the hearing was adjourned for about two weeks. [@8] Two Gresik outlets dated the appearance at Gresik District Court to Thursday 5 November 2026. [@9]
