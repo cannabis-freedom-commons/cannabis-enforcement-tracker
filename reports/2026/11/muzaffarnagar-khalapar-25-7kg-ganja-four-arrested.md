@@ -82,6 +82,11 @@ sources:
     publisher: Hindustan (Live Hindustan)
     date: 2026-11-06
     language: hi
+  - title: त्योहारों में गांजा बेचकर कमाने निकले थे मोटा मुनाफा, मेरठ के हिस्ट्रीशीटर समेत चार तस्कर गिरफ्तार
+    url: https://hindi.dynamitenews.com/uttar-pradesh/muzaffarnagar-ganja-smuggling-khalapaar-police-meerut-criminals-ganja-seizure-drug-trafficking-ndps-act-drug-smuggling-news
+    publisher: Dynamite News Hindi
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The reports do not say whether the four accused were remanded to custody or released on bail.
   - Neither report gives the individual weight carried by each of the four men.
@@ -100,30 +105,34 @@ open_questions:
   - 'The submitted Amar Ujala article is a later version of the Amar Ujala story the report already cites: its closing paragraph attributes the Pauri sourcing without naming Harish in the sentence about the supplier, while Hindustan names him.'
   - Hindustan's claim that the accused were caught smuggling drugs in Uttarakhand a few days earlier is a single-outlet assertion with no date, place or case reference.
   - Hindustan gives the consignment as 25 kg in its main text, rounded from the 25 kg 700 g carried in the four bags.
+  - The article gives no separate date for the check and arrests; 6 November 2026, the day before its publication date of 7 November, is used as the incident date, as in the existing report.
+  - The article gives the police case only as one under the NDPS Act and does not state the sections, case number or whether a chargesheet had been filed.
+  - The article reports that the history-sheeted accused Anwar also faces dacoity cases, while the account already cited in the tracker lists robbery, gangster, Arms Act and assault cases; the tracker keeps its existing wording.
+  - The page photo is captioned only with the article headline, carries no credit and is not established to show the seized ganja or the scene, so no media entry is taken from it.
 ---
 
 Police in Muzaffarnagar's Khala Par station area arrested four men from Meerut
 on suspicion of smuggling ganja, a traditional Indian cannabis preparation, on 6
-November 2026. [@1,3,4,5] The four arrested men come from Sindhawali village on Rohta
-Road, in the Kankarkhera police station area of Meerut district. [@1,4,5]
+November 2026. [@1,3,4,5,7] The four arrested men come from Sindhawali village on Rohta
+Road, in the Kankarkhera police station area of Meerut district. [@1,4,5,7]
 
 Sub-inspector Asgar Ali's team stopped them at about 1:15 pm on the lane behind
 Sharden School, on the way from Meerut Road towards Garhabagh, after they turned
-back at the sight of the police patrol. [@1,4] The men each carried a bag, and
+back at the sight of the police patrol. [@1,4,7] The men each carried a bag, and
 police say the four bags together held 25 kg 700 grams of ganja. [@1,4,6] Police
 also seized four mobile phones of different companies from the four arrested
-men. [@1,6] Police had the ganja weighed and put its estimated value at 385,500
-rupees. [@1,4]
+men. [@1,6,7] Police had the ganja weighed and put its estimated value at 385,500
+rupees. [@1,4,7]
 
 Police registered case 195/2026 at Khala Par station under sections 8/20 of the
-NDPS Act and began taking the four before a court. [@1] Assistant superintendent
+NDPS Act and began taking the four before a court. [@1,7] Assistant superintendent
 of police and city circle officer Siddharth K. Mishra told reporters the arrests
 came in a district campaign against drug smugglers run on the orders of senior
 superintendent of police Suraj Kumar Rai. [@1]
 
 The accused told police during questioning that they had bought the ganja from a
 man named Harish in Uttarakhand, and that they brought larger consignments when
-demand rose around the festival season. [@1] Amar Ujala reported that Harish was
+demand rose around the festival season. [@1,7] Amar Ujala reported that Harish was
 known to bring the ganja from the hills of Pauri and that the smugglers sold it
 in small packets, and that the supplier left the scene. [@2,6] Police said one of
 the four, Anwar, is on the Meerut police's history sheet at Kankarkhera station,
