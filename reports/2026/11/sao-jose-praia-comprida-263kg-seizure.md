@@ -68,6 +68,11 @@ sources:
     publisher: Camboriú News
     date: 2026-11-06
     language: pt
+  - title: Polícia Civil apreende 263 quilos de maconha e prende dois suspeitos em São José
+    url: https://nopontosc.com.br/2026/11/06/policia-civil-apreende-263-quilos-de-maconha-e-prende-dois-suspeitos-em-sao-jose/
+    publisher: NoPontoSC
+    date: 2026-11-06
+    language: pt
 open_questions:
   - No names or ages of the two arrested men were published.
   - No street value was given for the marijuana or the hashish.
@@ -78,25 +83,28 @@ open_questions:
   - Left out activity, as its quotation was not found in Agora Floripa.
   - The page photo is captioned only "maconha" with no credit and is not established to show this seizure, so no media entry is added.
   - Camboriú News does not name the neighbourhood; the existing report places the searches in Praia Comprida.
+  - NoPontoSC says only the municipality of São José and does not name the Praia Comprida neighbourhood where the searches took place.
+  - NoPontoSC does not report the initial figure of more than 300 kg that the Civil Police later revised to about 263 kg.
+  - The new page carries one handout-style image with no caption or credit, so it is not established to show this seizure and no media entry is added.
 ---
 
 Civil Police officers of Santa Catarina arrested two men in flagrante on Friday
 6 November 2026 in the Praia Comprida neighbourhood of São José, in Greater
 Florianópolis, in an operation by the city's anti-drug unit, the Delegacia de
-Combate às Drogas (DECOD). [@3] After inquiries the officers located the two
+Combate às Drogas (DECOD). [@3,5] After inquiries the officers located the two
 suspects and stopped them, and searches found drugs inside a vehicle and in a
-residence. [@1,5]
+residence. [@1,5,6]
 
-The marijuana seized came to about 263 kilograms, divided into 317 tablets. [@1,4,5]
+The marijuana seized came to about 263 kilograms, divided into 317 tablets. [@1,4,5,6]
 During a press conference the Civil Police had first reported more than 300
 kilograms, and the figure was revised after the final count and weighing. [@1]
 
 Officers also seized about 1 kilogram of hashish, 284 grams of cocaine, two
 mobile phones, two precision scales, a knife with drug residue, rolls of plastic
-film used to pack drugs and a car. [@2,5]
+film used to pack drugs and a car. [@2,5,6]
 
 The two men were taken to the DECOD station in São José, where the arrest in
-flagrante was recorded. [@3,5] The seizure came four days after another Civil
+flagrante was recorded. [@3,5,6] The seizure came four days after another Civil
 Police operation in the Potecas neighbourhood of the same municipality, where
 472 kilograms of marijuana were found at a residence and an 18-year-old was
 arrested. [@1,4] Together the two operations took the Civil Police's marijuana
