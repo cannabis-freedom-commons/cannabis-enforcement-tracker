@@ -15,10 +15,12 @@ created_by_model: unknown
 details:
   agency_types: [customs]
   case_stage: charged
+  route: {from: [th], to: [hk]}
   setting: [street]
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 cfi_id: hong-kong-record-cannabis-seizure-2026

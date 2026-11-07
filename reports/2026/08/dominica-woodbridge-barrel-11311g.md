@@ -23,6 +23,7 @@ details:
   case_stage: charged
   date_precision: exact
   products: [{product: flower, kg: 11.399}]
+  route: {from: [ca], to: [dm]}
   setting: [port]
 data_sources:
   details.activity: [1, 2, 3]
@@ -30,6 +31,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1, 3]
   figures.arrested: [1, 2]
 status: verified

@@ -22,6 +22,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 1443}]
+  route: {from: [py], to: [br]}
   setting: [vehicle]
 data_sources:
   details.agencies: [1, 2]
@@ -29,6 +30,7 @@ data_sources:
   details.case_stage: [2, 1]
   details.date_precision: [2, 1]
   details.products: [2, 1]
+  details.route: [1, 2]
   details.setting: [2, 1]
   figures.kg_seized: [1, 2]
 status: verified

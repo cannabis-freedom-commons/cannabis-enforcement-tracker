@@ -28,6 +28,7 @@ details:
   case_stage: charged
   products:
     - {product: flower}
+  route: {from: [ca], to: [ph]}
   setting: [home, building]
 data_sources:
   details.activity: [1, 3, 2]
@@ -35,6 +36,7 @@ data_sources:
   details.agency_types: [1, 2, 3, 4, 5]
   details.case_stage: [3, 2, 1]
   details.products: [1, 3]
+  details.route: [1]
   details.setting: [1, 2, 3, 4, 5]
   figures.kg_seized: [1, 2, 3, 4, 5]
 status: verified

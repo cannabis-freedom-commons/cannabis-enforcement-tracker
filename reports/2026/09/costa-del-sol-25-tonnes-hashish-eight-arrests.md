@@ -42,12 +42,14 @@ details:
   case_stage: charged
   products:
     - {product: hashish}
+  route: {from: [es], to: [fr]}
   setting: [home]
 data_sources:
   details.activity: [2, 4, 5, 7, 9, 10]
   details.agency_types: [2, 4, 5, 7, 9, 10]
   details.case_stage: [2, 16, 8, 17, 1, 3]
   details.products: [1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+  details.route: [12]
   details.setting: [1, 5, 6, 7, 8, 9]
   figures.arrested: [2, 4, 5, 7, 9, 10]
   figures.kg_seized: [1, 5, 6, 7, 8, 9]

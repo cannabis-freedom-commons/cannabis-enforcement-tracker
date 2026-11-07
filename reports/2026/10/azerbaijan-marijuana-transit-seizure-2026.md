@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   activity: [trafficking]
   agency_types: [customs]
+  route: {from: [ir], to: [ru], crossing: Azerbaijan}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
+  details.route: [1]
 status: verified
 cfi_id: azerbaijan-marijuana-transit-seizure-2026
 sources:

@@ -17,6 +17,7 @@ details:
   agency_types: [customs]
   case_stage: investigation
   products: [{product: flower}]
+  route: {from: [us], to: [nl]}
   setting: [port]
 data_sources:
   details.activity: [2, 3, 1]
@@ -24,6 +25,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [2, 3]
   details.products: [2, 3]
+  details.route: [2, 3]
   details.setting: [2, 3]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

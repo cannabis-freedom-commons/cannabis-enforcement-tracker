@@ -22,6 +22,7 @@ details:
   agency_types: [customs, police]
   case_stage: charged
   date_precision: exact
+  route: {from: [dk], to: [gl]}
   setting: [airport]
   products:
     - {product: hashish}
@@ -31,6 +32,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.route: [2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

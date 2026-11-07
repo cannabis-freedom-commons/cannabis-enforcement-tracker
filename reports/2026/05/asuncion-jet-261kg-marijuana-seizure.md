@@ -30,6 +30,7 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 261.6}]
+  route: {from: [us], to: [br], crossing: Paraguay}
   setting: [airport, prison]
 data_sources:
   details.activity: [1, 4, 3]
@@ -38,6 +39,7 @@ data_sources:
   details.case_stage: [1, 4, 3]
   details.date_precision: [1, 3, 4]
   details.products: [1, 4, 3]
+  details.route: [1]
   details.setting: [1, 3, 4, 2]
   figures.arrested: [3, 4]
   figures.kg_seized: [1, 4, 3]

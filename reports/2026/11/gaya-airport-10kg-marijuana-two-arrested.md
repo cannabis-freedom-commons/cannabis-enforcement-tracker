@@ -20,12 +20,14 @@ details:
   case_stage: investigation
   products:
     - {product: flower}
+  route: {from: [th], to: [in]}
   setting: [airport]
 data_sources:
   details.activity: [1, 9, 12, 4, 6, 10]
   details.agency_types: [1, 2, 5, 6, 8, 9]
   details.case_stage: [1, 2, 5, 6, 8, 9]
   details.products: [1, 2, 4, 5, 6, 7]
+  details.route: [1, 2]
   details.setting: [1, 2, 5, 6, 8, 9]
   figures.arrested: [1, 2, 5, 6, 8, 9]
   figures.kg_seized: [1, 3, 4, 7, 2, 5]

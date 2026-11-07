@@ -16,11 +16,13 @@ details:
   agency_types: [police]
   case_stage: investigation
   products: [{product: flower, kg: 15.876}]
+  route: {from: [uy], to: [ch], crossing: "Dominican Republic"}
   setting: [airport, vehicle]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 media:

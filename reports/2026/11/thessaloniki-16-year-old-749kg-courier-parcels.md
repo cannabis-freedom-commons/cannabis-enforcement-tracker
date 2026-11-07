@@ -25,6 +25,7 @@ details:
   agency_types: [police, prosecutor]
   case_stage: investigation
   environment: [indoor]
+  route: {from: [us], to: [gr]}
   setting: [mail]
   products:
     - {product: flower}
@@ -34,6 +35,7 @@ data_sources:
   details.case_stage: [1, 3, 5, 7, 8, 9]
   details.environment: [2, 4, 5, 6, 7, 8]
   details.products: [1, 3, 5, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+  details.route: [11]
   details.setting: [1, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
   figures.kg_seized: [1, 3, 5, 6, 9, 12]
 status: verified

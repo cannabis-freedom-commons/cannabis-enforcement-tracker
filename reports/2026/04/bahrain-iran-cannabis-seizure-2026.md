@@ -16,11 +16,13 @@ details:
   activity: [smuggling]
   agency_types: [prosecutor]
   case_stage: investigation
+  route: {from: [ir], to: [bh]}
   setting: [vehicle]
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 cfi_id: bahrain-iran-cannabis-seizure-2026

@@ -27,6 +27,7 @@ details:
   date_precision: exact
   products: [{product: flower}]
   sentence_types: [prison, fine, community-service]
+  route: {from: [ca], to: [ng]}
   setting: [airport]
 data_sources:
   details.activity: [1]
@@ -35,6 +36,7 @@ data_sources:
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.route: [1]
   details.sentence_types: [1, 2]
   details.setting: [1]
 status: verified

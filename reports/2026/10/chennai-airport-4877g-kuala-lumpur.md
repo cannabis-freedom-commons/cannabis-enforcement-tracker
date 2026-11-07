@@ -23,6 +23,7 @@ details:
   agency_types: [customs]
   case_stage: investigation
   products: [{product: flower, kg: 4.877}]
+  route: {from: [my], to: [in]}
   setting: [airport]
   environment: [indoor]
 data_sources:
@@ -31,6 +32,7 @@ data_sources:
   details.case_stage: [1, 3, 4, 5, 6, 7]
   details.environment: [1, 5, 8]
   details.products: [1, 5, 8, 2, 3, 11]
+  details.route: [1]
   details.setting: [1, 3, 4, 5, 6, 7, 8, 9, 10, 13]
   figures.arrested: [1, 3, 4, 5, 6, 7]
   figures.kg_seized: [1, 5, 8, 2, 3, 11]

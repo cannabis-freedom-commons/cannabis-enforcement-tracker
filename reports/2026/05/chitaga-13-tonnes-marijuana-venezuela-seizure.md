@@ -21,6 +21,7 @@ details:
   agency_types: [anti-narcotics, police, prosecutor]
   products:
     - {product: flower, kg: 1300}
+  route: {from: [co], to: [ve]}
   setting: [vehicle]
   case_stage: investigation
   date_precision: publication
@@ -31,6 +32,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1, 2]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

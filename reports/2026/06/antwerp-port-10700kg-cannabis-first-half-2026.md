@@ -15,6 +15,7 @@ figures:
 details:
   agency_types: [customs]
   case_stage: investigation
+  route: {from: [ca], to: [be]}
   setting: [port]
   products:
     - {product: hashish}
@@ -22,6 +23,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified
