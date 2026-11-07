@@ -65,12 +65,14 @@ details:
   case_stage: investigation
   products:
     - {product: hashish}
+  route: {from: [us/ca], to: [br], crossing: Uruguay}
   setting: [airport, mail]
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 3, 2]
   details.products: [1, 2, 3]
+  details.route: [1, 2]
   details.setting: [1, 3]
   figures.arrested: [1]
   figures.charged: [1, 2]

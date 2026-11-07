@@ -28,6 +28,7 @@ details:
   case_stage: investigation
   date_precision: exact
   region: Andalusia
+  route: {from: [ma], to: [es]}
   setting: [border, vehicle, home]
 data_sources:
   details.activity: [2]
@@ -36,6 +37,7 @@ data_sources:
   details.case_stage: [2]
   details.charges: [2]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [2, 1]
   figures.arrested: [1, 2]
   figures.cash: [1, 2]

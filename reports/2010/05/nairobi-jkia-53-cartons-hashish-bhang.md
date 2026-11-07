@@ -19,6 +19,7 @@ details:
   agency_types: [anti-narcotics, police]
   case_stage: investigation
   date_precision: exact
+  route: {from: [za], to: [ke]}
   setting: [airport]
   products:
     - {product: hashish}
@@ -28,6 +29,7 @@ data_sources:
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

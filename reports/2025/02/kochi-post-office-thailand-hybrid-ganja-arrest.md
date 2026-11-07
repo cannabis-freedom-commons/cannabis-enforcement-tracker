@@ -24,6 +24,7 @@ details:
   products:
     - {product: flower, kg: 1.04}
   activity: [smuggling, possession, sale]
+  route: {from: [th], to: [in]}
   setting: [mail]
   environment: [indoor]
   case_stage: investigation
@@ -38,6 +39,7 @@ data_sources:
   details.environment: [1]
   details.force: [1]
   details.products: [2]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]

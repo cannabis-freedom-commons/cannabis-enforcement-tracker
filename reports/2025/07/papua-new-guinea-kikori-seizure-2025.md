@@ -15,11 +15,13 @@ details:
   agency_types: [police]
   case_stage: sentenced
   date_precision: exact
+  route: {from: [pg], to: [au]}
   setting: [prison]
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 cfi_id: papua-new-guinea-kikori-seizure-2025

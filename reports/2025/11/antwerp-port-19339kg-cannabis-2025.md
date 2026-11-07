@@ -20,12 +20,14 @@ details:
   agency_types: [customs]
   case_stage: investigation
   products: [{product: flower, kg: 19339}]
+  route: {from: [ca], to: [be]}
   setting: [port]
 data_sources:
   details.activity: [1, 4]
   details.agency_types: [1, 4, 5, 2, 3]
   details.case_stage: [1, 4, 5]
   details.products: [1, 4, 5, 2, 3]
+  details.route: [1]
   details.setting: [1, 4]
   figures.kg_seized: [1, 4]
 status: verified

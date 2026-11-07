@@ -51,12 +51,14 @@ details:
   agency_types: [gendarmerie]
   case_stage: investigation
   products: [{product: flower, kg: 848.4}]
+  route: {from: [co], to: [do], crossing: "San Antonio, Chile"}
   setting: [port, vehicle]
 data_sources:
   details.agencies: [1, 4]
   details.agency_types: [1, 4]
   details.case_stage: [1, 4, 2]
   details.products: [1, 4, 2, 3]
+  details.route: [1, 2]
   details.setting: [1, 4, 2, 3]
   figures.kg_seized: [1, 4, 2]
   figures.value: [2, 1, 4]

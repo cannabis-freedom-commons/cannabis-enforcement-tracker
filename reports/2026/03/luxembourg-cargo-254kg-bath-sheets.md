@@ -25,12 +25,14 @@ details:
   case_stage: investigation
   date_precision: exact
   products: [{product: flower, kg: 253.77}]
+  route: {from: [us], to: [fr], crossing: Luxembourg}
 data_sources:
   details.activity: [1, 2, 3, 4]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 2, 3, 4]
   details.date_precision: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
+  details.route: [1, 2, 3, 4]
   figures.kg_seized: [1, 2, 3, 4]
   figures.value: [1, 2, 4, 3]
 status: verified

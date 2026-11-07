@@ -21,12 +21,14 @@ details:
   agency_types: [military, anti-narcotics, police]
   case_stage: investigation
   products: [{product: flower, kg: 1564}]
+  route: {from: [co], to: [ec]}
   setting: [vehicle]
 data_sources:
   details.activity: [3, 4, 2]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [3, 4, 2]
   details.products: [1, 2, 3, 4]
+  details.route: [4]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1]
   figures.value: [4, 2]

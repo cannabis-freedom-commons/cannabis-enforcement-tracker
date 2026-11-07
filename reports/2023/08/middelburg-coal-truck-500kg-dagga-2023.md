@@ -24,6 +24,7 @@ details:
   products:
     - {product: flower, kg: 500}
   activity: [smuggling, trafficking]
+  route: {from: [sz], to: [za]}
   setting: [vehicle]
   charges: [dagga trafficking]
   case_stage: charged
@@ -36,6 +37,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]
