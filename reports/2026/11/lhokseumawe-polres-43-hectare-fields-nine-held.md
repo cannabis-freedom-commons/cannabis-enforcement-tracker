@@ -66,6 +66,11 @@ sources:
     publisher: Liputanesia
     date: 2026-11-06
     language: id
+  - title: Polres Lhokseumawe Ungkap 6 Kasus Narkoba, Sita 41 Vape dan 40,3 Kg Ganja
+    url: https://mediaaceh.co/2026/11/06/polres-lhokseumawe-ungkap-6-kasus-narkoba-sita-41-vape-dan-403-kg-ganja/
+    publisher: MEDIAACEH.CO
+    date: 2026-11-06
+    language: id
 open_questions:
   - RRI and earlier reporting list four people detained in the 27 October Sawang phase with one later released, while this press conference says only three suspects were held there.
   - The submitted page spells the sites Alue Garot and Alue Ie Mudek, differing from Cot Mancang, Alue Garot and Alue Le Mudek in other accounts.
@@ -85,7 +90,7 @@ media:
 
 Lhokseumawe police presented nine detainees and about 40.3 kilograms of dried
 cannabis at a press conference at the Lhokseumawe police headquarters on 5
-November 2026. [@1,3,4] The nine detainees were eight men and one woman, held over
+November 2026. [@1,3,4,5] The nine detainees were eight men and one woman, held over
 narcotics cases spread across Banda Sakti, Muara Dua and Sawang district. [@1,4]
 
 Two ganja cases accounted for 40,312.128 grams of dried cannabis, the only
