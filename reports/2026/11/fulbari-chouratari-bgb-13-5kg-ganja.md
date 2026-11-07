@@ -63,6 +63,11 @@ sources:
     publisher: Probashir Diganta
     date: 2026-11-06
     language: bn
+  - title: ফুলবাড়ীতে বিজিবির অভিযানে ভারতীয় গাঁজা জব্দ
+    url: https://shironam.com/news/indian-cannabis-seized-in-bgb-raid-in-fulbari
+    publisher: Shironam
+    date: 2026-11-06
+    language: bn
 open_questions:
   - The reports give no figure for the number of packets or sacks the cannabis was packed in.
   - BGB gave no details of how the cannabis crossed the border or who carried it, and named no suspects.
@@ -75,13 +80,13 @@ open_questions:
 
 Border Guard Bangladesh's Lalmonirhat Battalion (15 BGB) seized 13 kg 500 g of
 Indian ganja in a special operation at Chouratari in Fulbari upazila, Kurigram,
-on the night of Thursday, 5 November 2026. [@1] The operation began at 8:10 pm,
+on the night of Thursday, 5 November 2026. [@1,4] The operation began at 8:10 pm,
 when a patrol from the Balarhat border outpost set up a sudden checkpoint on
 intelligence information under the battalion's ongoing “Operation Narcotics
 Strike”. [@1,2] No one was arrested: Probashir Diganta reported the cannabis was
 found abandoned, and none of the accounts names a detainee. [@3]
 
-BGB valued the seized cannabis at about Tk 47,250. [@2] BGB said it was
+BGB valued the seized cannabis at about Tk 47,250. [@2,4] BGB said it was
 collecting information to identify the smugglers behind the consignment and that
 legal action against them was under way. [@1] The facts were announced in a
 press release from 15 BGB on Friday, 6 November. [@2]
