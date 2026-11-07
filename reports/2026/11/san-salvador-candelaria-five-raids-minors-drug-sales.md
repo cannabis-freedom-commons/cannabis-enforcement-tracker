@@ -74,6 +74,11 @@ sources:
     publisher: El Diario de Hoy
     date: 2026-11-06
     language: es
+  - title: Capturados por obligar a menores a distribuir droga en San Salvador
+    url: https://www.laprensagrafica.com/elsalvador/capturados-por-obligar-a-menores-a-distribuir-droga-en-san-salvador-20261106-0044.html
+    publisher: La Prensa Gráfica
+    date: 2026-11-06
+    language: es
 open_questions:
   - The sources describe the seized material only as "porciones de droga" (portions of drugs); none states the substance or weight, so no cannabis kilograms can be recorded and the drug may not be cannabis.
   - The FGR statement lists three charges for both detainees, while El Diario de Hoy adds trafficking in persons "in the form of forced labour" and lists four offences.
@@ -85,6 +90,7 @@ open_questions:
   - The FGR's own statement was seen only as quoted by the two newspapers; the PNC website refused access.
   - 'Left out, as its quotation was not found in Diario El Mundo: In Vásquez Garay''s house, police said they seized cash, four mobile phones, a grinder and a tablet.'
   - Left out setting, as its quotation was not found in Diario El Mundo.
+  - La Prensa Gráfica places the detentions in the barrio Santa Anita, while the earlier accounts described San Salvador Centro and the barrio Candelaria; the sources do not reconcile the locations.
 ---
 
 El Salvador's Attorney General's Office (FGR) and National Civil Police (PNC)
@@ -110,3 +116,4 @@ courts. [@1] According to El Diario de Hoy, both will be brought before court,
 and the FGR is still investigating whether there are more suspects or more
 children affected. [@3]
 
+La Prensa Gráfica reported that the detentions were carried out on the morning of Friday 6 November in the barrio Santa Anita, in San Salvador. [@4]

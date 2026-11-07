@@ -59,6 +59,11 @@ sources:
     publisher: Diario El Mundo
     date: 2026-11-06
     language: es
+  - title: PNC detiene a otro hombre por transportar marihuana y cocaína, esta vez en Santa Tecla
+    url: https://diario.elmundo.sv/nacionales/pnc-detiene-a-otro-hombre-por-transportar-marihuana-y-cocaina-esta-vez-en-santa-tecla
+    publisher: Diario El Mundo
+    date: 2026-11-06
+    language: es
 open_questions:
   - The sources do not give the amount of marijuana or money seized, or the name of the university.
   - It is not established whether the detainee is a student, employee or visitor of the institution.
@@ -88,3 +93,4 @@ arrest was made inside the grounds of a university in the San Salvador district,
 the police said. [@2] The detainee was to be placed at the disposal of the
 courts for possession and holding with intent to traffic. [@2]
 
+According to El Mundo, the university arrest came earlier the same morning as two other marijuana arrests in the capital, at a home in Santa Tecla and in the case of the couple accused of using minors. [@3]
