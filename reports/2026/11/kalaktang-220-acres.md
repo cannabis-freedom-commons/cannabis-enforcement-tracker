@@ -2,18 +2,14 @@
 added_at_source: git
 added_at: "2026-10-30T17:58:25.000Z"
 code: A08EF6
-date: 2026-10-27
+date: 2026-11-03
 country: in
 place: Kalaktang subdivision, West Kameng, Arunachal Pradesh
 coordinates: [27.106, 92.116]
 precision: locality
 type: eradication
 title: At least 220 acres of cannabis destroyed around Kalaktang
-summary: >-
-  A two-day joint drive that began on 26 October 2026 destroyed cannabis on at
-  least 220 acres in Kalaktang subdivision, West Kameng. Authorities put about
-  15,000 kg on 50 acres at Boha and about 51,000 kg on 170 acres at Angkaling and
-  R Pam. No cultivators were reported arrested.
+summary: A joint NCB-led drive in Kalaktang subdivision, West Kameng, ran from 26 October to 3 November 2026 and cleared about 458 acres of cannabis cultivation, destroying more than 1.37 lakh kg of plants. No cultivators were reported arrested.
 figures:
   hectares: 89
   kg_seized: 66000
@@ -131,6 +127,10 @@ sources:
     publisher: Lokal Tamil
     date: 2026-11-07
     language: ta
+  - title: NCB, security forces destroy over 1.37 lakh kg of cannabis plants across 458 acres in Arunachal
+    url: https://www.easternmirrornagaland.com/ncb-security-forces-destroy-over-137-lakh-kg-of-cannabis-plants-across-458-acres-in-arunachal
+    publisher: Eastern Mirror
+    date: 2026-11-07
 media:
   - kind: photo
     url: https://www.arunachaltimes.in/article/illicit-cannabis-cultivation-destroyed
@@ -196,6 +196,8 @@ open_questions:
   - The page gives no count of individual plants, no arrests, charges or court outcome for the drive.
   - The page also mentions an NCB drive over about 592 acres in Parvati Valley, Kullu, and about 30 acres at Kandhamal under Mission Zero Cannabis Cultivation; these are separate events not recorded here.
   - Aryan Age gives a summary account with no plant weight or count of individual plants, and its vague references to insurgent funding are not supported by the opened page text.
+  - The Eastern Mirror page is an IANS republication of the same NCB press release carried by other outlets, so it is not an independent observation of the fields.
+  - The page gives no count of individual cannabis plants, no arrests, charges or court outcome for the drive.
 ---
 
 District police, the Narcotics Control Board, the Sashastra Seema Bal, the Central Reserve Police Force and the district administration destroyed illicit cannabis on at least 220 acres (about 89 hectares) in Kalaktang subdivision of West Kameng district. [@1,2,18,21] The two-day drive began on Monday 26 October 2026. [@1,2] Bomdila deputy superintendent of police Sashi Dore led it, under superintendent Dr D. W. Thongon and deputy commissioner Dr Dilip Kumar. [@1]
@@ -206,7 +208,7 @@ The completed first phase covered about 458 acres in Kalaktang subdivision, up f
 
 Joint teams destroyed more than 1.37 lakh kg (about 137 tonnes) of cannabis plants, grown mainly on community land, during the first phase of the drive. [@5,6,12,13,14,16,18,20,21]
 
-A total of 118 personnel and workers took part in the joint drive. [@8,9,13] The NCB named the additional districts of Lohit, Lower Dibang Valley and Tirap, and both cannabis and opium poppy cultivation, when describing the areas it plans to operate in. [@8]
+A total of 118 personnel and workers took part in the joint drive. [@8,9,13,22] The NCB named the additional districts of Lohit, Lower Dibang Valley and Tirap, and both cannabis and opium poppy cultivation, when describing the areas it plans to operate in. [@8]
 
 The NCB placed the drive under its Vision Document on Narcotics Control (2026–2029), which calls for mapping cultivation hotspots and synchronised crop destruction by central, state and district agencies under a whole-of-government approach. [@9,18] The NCB said further joint drives would target illicit cannabis and opium poppy sites in Lohit, Lower Dibang Valley, Dibang Valley, Namsai, Anjaw, Tirap, Changlang and Longding districts. [@9]
 
