@@ -102,6 +102,11 @@ sources:
     publisher: Sabotorii
     date: 2026-11-05
     language: ro
+  - title: Destinatarul coletului cu canabis, cutia de aproape opt kilograme fiind ridicată de la Motru, după gratii pentru 30 de zile
+    url: https://www.tvsud.ro/destinatarul-coletului-cu-canabis-cutia-de-aproape-opt-kilograme-fiind-ridicata-de-la-motru-dupa-gratii-pentru-30-de-zile.html
+    publisher: TV SUD
+    date: 2026-11-06
+    language: ro
 open_questions:
   - Only one accessible account of this event could be opened; the DIICOT and IPJ Gorj statements were not reachable and searches found no second outlet reporting it.
   - No court decision on the two preventive-arrest requests had been reported when the article was published.
@@ -126,6 +131,8 @@ open_questions:
   - Neither newly opened page reports a street value, the exact type or purity of the cannabis, or any charge sheet.
   - The submitted page credits only the Romanian Police for its lead image and does not show whether the still depicts this parcel or the 32-year-old, so no media entry is supported.
   - 'Left out, as its quotation was not found in AGERPRES: A 32-year-old man was caught in the act in Motru on 4 November 2026 as he was about to take possession of a parcel sent from abroad.'
+  - The page attributes the account to the DIICOT Gorj prosecutors and the Gorj organised-crime police, but gives no date for the judge's ruling beyond 'yesterday', i.e. 5 November 2026.
+  - The page does not name the two men, state where in Motru the parcel was taken over, or give a street value for the 7.8 kg.
 media:
   - kind: video
     url: https://www.gorjonline.ro/video-captura-de-78-kilograme-de-canabis-la-motru-un-barbat-a-fost-prins-cand-ridica-drogurile-ascunse-intr-un-colet-cu-alimente/
@@ -186,4 +193,4 @@ judgment. [@1]
 
 A 32-year-old man was caught in the act in Motru on 4 November 2026 as he allegedly took possession of a parcel containing 7.8 kg of cannabis meant for sale. [@4] The plant material was packed in eight vacuum-sealed bags and hidden among sweets, juices, canned food, oil bottles and cold cuts. [@4]
 
-A judge of the Gorj Tribunal ordered both men held in preventive arrest for 30 days, the 34-year-old in absentia, the county police said. [@6,8,9] The same ruling was reported the next day by a second Gorj outlet, which said the man sending the parcel from Spain was also placed under preventive arrest in absentia. [@7]
+A judge of the Gorj Tribunal ordered both men held in preventive arrest for 30 days, the 34-year-old in absentia, the county police said. [@6,8,9,13] The same ruling was reported the next day by a second Gorj outlet, which said the man sending the parcel from Spain was also placed under preventive arrest in absentia. [@7]
