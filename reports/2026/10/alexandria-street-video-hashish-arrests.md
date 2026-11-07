@@ -158,6 +158,16 @@ sources:
     publisher: الجمهور الإخباري
     date: 2026-11-07
     language: ar
+  - title: ضبط شخصين ظهرا في فيديو أثناء تعاطي المخدرات بالمنتزه
+    url: https://www.masrawy.com/news/news_cases/details/2026/11/7/3074955/%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%B8%D9%87%D8%B1%D8%A7-%D9%81%D9%8A-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%B2%D9%87
+    publisher: مصراوي.كوم
+    date: 2026-11-07
+    language: ar
+  - title: ضبط عاطلين بالإسكندرية بحوزتهما الحشيش بعد ظهورهما في فيديو لترويج وتعاطي المخدرات بالشارع
+    url: https://www.vetogate.com/5765803
+    publisher: فيتو
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
   - Neither report gives the weight of the hashish found with the employee or with the supplier.
@@ -202,6 +212,8 @@ open_questions:
   - The Dar El Hilal account is undated apart from its 7 November publication time and is the only account read for this submission that describes both men as unemployed.
   - The الجمهور الإخباري page gives no date for the arrest, only 30 October as the date the two said they committed the offence, and Dar El Hilal likewise publishes on 7 November without an arrest date.
   - Neither page gives a weight for the hashish or names the two men, and neither reports charges or a court outcome.
+  - Masrawy, like the earlier Dar El Hilal and Iqraa News accounts, describes both arrested men as unemployed and living in the First Montazah police district, while other accounts describe the filmed pair as a company employee and a delivery worker, with the First Montazah man their supplier.
+  - Masrawy gives no weight for the hashish, no separate date for the arrest apart from the 30 October offence date, and no charge or court outcome.
 ---
 
 The case began with a social-media post, backed by a video, in which the person
@@ -209,7 +221,7 @@ who published it complained about two men, one of them riding a motorcycle,
 using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,21,22] Egypt's Interior Ministry said its
 security services identified and arrested the pair and seized the motorcycle,
 which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22] The two were a company employee and a
-delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21]
+delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21,23]
 
 Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] Questioned, the two admitted the
 offence and said they held the drugs to use them. [@1,3,4,5,6,7,8,9,10,12,13,15,16,17,18,20] The employee said he had
@@ -218,7 +230,7 @@ First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,
 
 The ministry said no reports had been filed about the incident before the video
 spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22] The public prosecution has taken over the investigation.
-[@2,3,4,7,8,9,10,13,16,17,18,20]
+[@2,3,4,7,8,9,10,13,16,17,18,20,24]
 
 The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20]
 
@@ -226,6 +238,6 @@ Alexandria prosecutors ordered the employee and the delivery worker held for fou
 
 The Montazah prosecution in Alexandria ordered the three accused held for four days pending investigation on charges of drug use and possession of hashish for use and trafficking. [@19]
 
-The two arrested men admitted committing the offence on 30 October and holding the drugs for both use and trafficking, the only account that reports an admission to trafficking by both. [@21]
+The two arrested men admitted committing the offence on 30 October and holding the drugs for both use and trafficking, the only account that reports an admission to trafficking by both. [@21,23]
 
 Both arrested men were found with hashish and two mobile phones. [@22]
