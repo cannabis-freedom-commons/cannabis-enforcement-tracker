@@ -57,12 +57,18 @@ sources:
     publisher: Latina Tu
     date: 2026-11-06
     language: it
+  - title: 'Sezze, fermato su uno scooter senza targa: in casa marijuana e mille semi di cannabis, arrestato 69enne'
+    url: https://www.latinaquotidiano.it/sezze-fermato-su-uno-scooter/
+    publisher: Latina Quotidiano
+    date: 2026-11-07
+    language: it
 open_questions:
   - The reports give the date only as the afternoon of the previous day; 5 November 2026 is calculated from the 6 November publication date.
   - The marijuana weight is given only as approximately 110 grams and the seeds only as almost 1,000, so neither is an exact figure.
   - No validation-hearing result or later court outcome is reported.
   - Both accounts reproduce the same Carabinieri statement and carry the same handout photo, so they are not independent.
   - No value estimate for the marijuana was published.
+  - Latina Quotidiano gives no event date; 5 November 2026 in the existing report is calculated from the earlier outlets' 6 November publication, and this page was published on 7 November.
 ---
 
 Carabinieri from the Sezze station arrested a 69-year-old local man on the spot
@@ -83,3 +89,4 @@ causing offence. [@2] He was taken to the security cells of the Latina
 provincial Carabinieri command to await a validation hearing under the
 fast-track procedure, at the disposal of the judiciary. [@1]
 
+He was already known to the police, the account adds. [@3] The marijuana is to be analysed in a laboratory on the instructions of the Latina public prosecutor's office. [@3]
