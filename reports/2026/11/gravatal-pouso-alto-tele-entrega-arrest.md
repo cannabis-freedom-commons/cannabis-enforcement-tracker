@@ -59,6 +59,11 @@ sources:
     publisher: Reporter Sul
     date: 2026-11-05
     language: pt
+  - title: PM registra 126 ocorrências e duas prisões por tráfico na região de Tubarão
+    url: https://www.notisul.com.br/pm-registra-126-ocorrencias-e-duas-prisoes-por-trafico-na-regiao-de-tubarao/?amp=1
+    publisher: Notisul
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The 18.1 grams in the tube includes its packaging, so the recorded 1,096.9 grams may slightly overstate the drug weight.
   - No charges, custody hearing or court outcome were reported; both accounts end with the man taken to the Civil Police station.
@@ -81,3 +86,5 @@ cocaine and five ecstasy tablets, which are not counted in the cannabis total.
 The man was taken with all the seized substances to the Civil Police station for
 legal procedures. [@2,3] The vehicle used to transport the drugs was also seized
 and left at the disposal of the police authority and the courts. [@2,3]
+
+The arrest was one of three relevant occurrences in the Military Police's regional roundup covering the 24 hours from 7 am on Wednesday 4 to 7 am on Thursday 5 November 2026. [@4]
