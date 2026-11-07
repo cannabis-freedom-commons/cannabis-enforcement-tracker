@@ -50,6 +50,11 @@ sources:
     publisher: Questura di Varese, Polizia di Stato
     date: 2026-11-06
     language: it
+  - title: 'Controlli antidroga tra Malnate e Varese: arrestato un uomo con hashish e cocaina'
+    url: https://www.varese7press.it/2026/11/06/controlli-antidroga-tra-malnate-e-varese-arrestato-un-uomo-con-hashish-e-cocaina/
+    publisher: Varese7Press
+    date: 2026-11-06
+    language: it
 open_questions:
   - The accounts give no separate day for the stop and arrest; 6 November 2026 is the publication date of both and is used as the incident date.
   - The hashish weight of about 98 grams is a gross weight for one block; how much cocaine was found is not stated.
@@ -64,16 +69,17 @@ State police in Varese arrested a man accused of possessing drugs for sale after
 finding him with hashish and cocaine during a routine territorial patrol. [@1]
 Flying Squad investigators spotted a suspicious car travelling from Malnate
 towards Varese and called in the Volanti patrol units for a coordinated
-operation that blocked it in viale Belforte. [@1] During checks on the car and
+operation that blocked it in viale Belforte. [@1,3] During checks on the car and
 the driver, officers found a block of hashish with a gross weight of about 98
-grams. [@1] A personal search then turned up wrappers containing cocaine, cash
-treated as proceeds of drug dealing, and a mobile phone. [@1]
+grams. [@1,3] A personal search then turned up wrappers containing cocaine, cash
+treated as proceeds of drug dealing, and a mobile phone. [@1,3]
 
 After routine checks at the Varese police headquarters, he was arrested on the
-judicial authority's orders and taken to Miogni prison. [@1] The Varese police
+judicial authority's orders and taken to Miogni prison. [@1,3] The Varese police
 headquarters said its Flying Squad officers noticed the car coming from Malnate
 and asked the Volanti patrols to set up a coordinated stop in viale Belforte.
 [@2] The police statement gives the same hashish weight of about 98 grams gross
 and describes the other finds as wrappers containing cocaine, cash and a mobile
 phone. [@2]
 
+The stop was carried out under special territorial-control services aimed at tackling drug dealing. [@3]
