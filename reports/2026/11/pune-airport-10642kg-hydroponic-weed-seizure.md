@@ -175,6 +175,10 @@ sources:
     publisher: Aapla Mahanagar
     date: 2026-11-05
     language: mr
+  - title: Pune Customs seizes ₹3.72 cr hydroponic weed at airport
+    url: https://inshorts.com/en/amp_news/pune-customs-seizes--3-72-cr-hydroponic-weed-at-airport-1793942028637
+    publisher: Inshorts
+    date: 2026-11-06
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -222,10 +226,12 @@ open_questions:
   - The article gives the weight as 10.642 kg in one place and about 10.6 kg in another.
   - The article gives the weight as 10.6 kg, the rounded form of the 10.642 kg Customs figure the existing report uses.
   - Urban Acres attributes the account to Lokmat – Pune and gives Dheeraj More's role only as 'of the Customs Department', without the deputy commissioner rank the existing report cites.
+  - The Inshorts summary gives no date for the interception, the arrest or the remand hearing; 6 November 2026 is its publication date.
+  - The summary credits Hindustan Times but is a condensed rewrite, so it is not an independent account of the seizure.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
-arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18,19,20,21,23,24] The passenger had
+arriving from Bangkok on the evening of 4 November 2026. [@2,8,10,11,12,14,15,16,18,19,20,21,23,24,25] The passenger had
 arrived on Air India Express flight IX-291 and was stopped after passenger
 profiling and suspicious scanning of his check-in baggage. [@2,3,7,8,12,13,14,15,22,23] The interception
 was carried out by officers of the Air Intelligence Unit and the Airport Batch
@@ -233,17 +239,17 @@ of Pune Customs. [@2,3,12,15,20,23]
 
 Officers searching his check-in trolley bag found nine rectangular,
 silver-coloured packets labelled ‘Freeze Dried Monthong Durian’ hidden among
-noodle packets. [@1,8,11,12,14,15,16,17,18,19,21,22,23,24] Each packet was further lined with two layers of
+noodle packets. [@1,8,11,12,14,15,16,17,18,19,21,22,23,24,25] Each packet was further lined with two layers of
 vacuum-sealed black polythene to mask detection. [@2,8,10,11,12,22,23,24] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2,11,12,16,19,23] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20,21,23]
+crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20,21,23,25]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1,8,12,13,16,19,23] The passenger was arrested and
 produced before a judicial magistrate, who granted him judicial custody till 18
-November. [@2,4,6,8,9,10,11,12,14,15,16,18,21,23,24] Further investigation is under way to bust the illicit syndicate
+November. [@2,4,6,8,9,10,11,12,14,15,16,18,21,23,24,25] Further investigation is under way to bust the illicit syndicate
 involved in the smuggling attempt. [@3,4,18]
 
 The arrested flyer was 45 years old. [@4]
