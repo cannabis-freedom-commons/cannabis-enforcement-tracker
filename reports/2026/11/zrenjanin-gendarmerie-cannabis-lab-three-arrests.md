@@ -110,6 +110,11 @@ sources:
     publisher: Insajder
     date: 2026-11-07
     language: sr
+  - title: Заплијењено 7,5 килограма марихуане, ухапшена три лица, међу њима и припадник Жандармерије
+    url: https://www.rtrs.tv/vijesti/vijest.php?id=666834
+    publisher: RTRS
+    date: 2026-11-07
+    language: sr
 open_questions:
   - No date is given for the search or the arrests; 7 November 2026 is the date of the police statement and of publication, and is used as the incident date.
   - The material was described as plants resembling Indian hemp and dried material suspected to be marijuana; no laboratory confirmation was reported.
@@ -132,17 +137,18 @@ open_questions:
   - Insajder credits the text to Tanjug and reproduces the same Police Administration Zrenjanin statement as the outlets already cited, so it is not independent reporting of the arrest.
   - The article mentions a separate cannabis-growing laboratory discovered in Smederevska Palanka the previous day; that is a different event and is not covered here.
   - 'The page photo is captioned only ''Hapšenje, policija / Foto: Insajder'' and is the same stock image used on other Insajder pages, so it is not confirmed to show this laboratory or seizure and is not listed as media.'
+  - The RTRS page shows a Serbia police handout photo captioned only as Police of Serbia, with no caption confirming it depicts this laboratory or seizure, so no media entry is added.
 ---
 
 Police in Zrenjanin, with the Higher Public Prosecutor's Office in the city,
 arrested three people on suspicion of unauthorised production and sale of
 narcotics. [@1,4,6,7,8,9,10,11] One of the three, identified as Ž. G., is a Gendarmerie member
-and is 43, while the other two are 64 and 63. [@2,5,7]
+and is 43, while the other two are 64 and 63. [@2,5,7,12]
 
 Officers searched the flat and other premises the suspects use and found an
-illegal indoor cannabis-growing laboratory. [@1,4,8,11] During the search police seized
+illegal indoor cannabis-growing laboratory. [@1,4,8,11,12] During the search police seized
 81 plants resembling Indian hemp, about 7.5 kilograms of dried plant material
-suspected to be marijuana and scales for weighing. [@1,5,6,7,8,9,10,11] The account came from a
+suspected to be marijuana and scales for weighing. [@1,5,6,7,8,9,10,11,12] The account came from a
 statement by the Police Administration for Zrenjanin, which also said officers
 seized equipment used to grow the drug. [@2,5]
 
@@ -150,6 +156,6 @@ Blic reported that the police searched a flat and that the three suspects were
 held for 48 hours before being taken to the prosecutor with a criminal
 complaint. [@3] By order of the Higher Public Prosecutor's Office the three were
 held for up to 48 hours and were to be brought to the prosecutor with a criminal
-complaint. [@1,5,6,9,10,11] The police announcement said the investigation should establish
+complaint. [@1,5,6,9,10,11,12] The police announcement said the investigation should establish
 the circumstances of the case and any role each suspect had in the
 cannabis-growing operation. [@2]
