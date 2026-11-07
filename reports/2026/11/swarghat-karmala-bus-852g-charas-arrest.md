@@ -51,6 +51,11 @@ sources:
     publisher: Punjabi Jagran
     date: 2026-11-05
     language: pa
+  - title: बस में सफर कर रहे आरोपी से चरस बरामद
+    url: https://www.divyahimachal.com/2026/11/%E0%A4%AC%E0%A4%B8-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B8%E0%A4%AB%E0%A4%B0-%E0%A4%95%E0%A4%B0-%E0%A4%B0%E0%A4%B9%E0%A5%87-%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%AA%E0%A5%80-%E0%A4%B8%E0%A5%87-%E0%A4%9A/
+    publisher: Divya Himachal
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The Amar Ujala article gives no separate date for the roadblock and was published on 5 November 2026; 3 November 2026 from the second account is used as the incident date.
   - No court outcome, custody status or further charges beyond the NDPS case were reported.
@@ -78,3 +83,5 @@ Bilaspur Superintendent of Police Abhishek Dhiman said investigators are tracing
 the source and supply chain of the seized charas. [@1] Police are examining
 backward and forward linkages to identify other people linked to the
 trafficking. [@1,3] Police said further action in the case is under way. [@2]
+
+Police arrested the young man from Haryana with the charas, and a case was registered against him at Swarghat police station under the NDPS Act. [@4]
