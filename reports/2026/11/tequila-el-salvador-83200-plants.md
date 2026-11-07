@@ -65,6 +65,11 @@ sources:
     publisher: Notisistema
     date: 2026-11-06
     language: es
+  - title: Destruyen más de 83 mil plantas de marihuana en Tequila
+    url: https://www.notisistema.com/noticias/destruyen-mas-de-83-mil-plantas-de-marihuana-en-tequila/
+    publisher: Notisistema
+    date: 2026-11-06
+    language: es
 open_questions:
   - No figure for the area of the plot or its estimated value was published.
   - The FGR release gives no exact day of the patrol; 6 November 2026 is the date of the outlets' accounts and publication.
@@ -91,3 +96,4 @@ investigation continued in order to clarify the circumstances of the planting
 and to identify those responsible. [@2] The detailed account cites FGR official
 release DPE/5056/2026 as the source of the circumstances. [@2]
 
+The regional-control prosecution unit of the federal Attorney General's Office will continue the investigation to determine where the crop came from and to identify possible responsible people. [@5]
