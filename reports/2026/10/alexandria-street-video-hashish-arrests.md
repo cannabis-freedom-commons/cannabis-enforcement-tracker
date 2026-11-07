@@ -203,6 +203,11 @@ sources:
     publisher: نيوز رووم
     date: 2026-11-07
     language: ar
+  - title: ضبط شخصين بحوزتهما مخدر الحشيش بتهمة الترويج والاتجار في الإسكندرية | قضية رأي عام
+    url: https://www.publicopinioncase.com/98074
+    publisher: قضية رأي عام
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
   - Neither report gives the weight of the hashish found with the employee or with the supplier.
@@ -265,14 +270,17 @@ open_questions:
   - The News Room page gives no weight for the hashish found with the two men and names neither of them.
   - The page gives 30 October only as the date the two men said they committed the offence, and no separate date for the arrest.
   - The page picture is captioned only المتهمان with no credit, so it is not certain it is a distinct image rather than a republished handout already listed from other outlets.
+  - The submitted page, like the Masrawy account, gives no weight for the hashish found with the two men and no value estimate.
+  - The page gives 30 October only as the date the two men said they committed the offence, and no separate date for their arrest.
+  - The page's single picture is captioned only المتهمان with no credit and appears to be the same handout already listed from other outlets, so no separate media entry is added.
 ---
 
 The case began with a social-media post, backed by a video, in which the person
 who published it complained about two men, one of them riding a motorcycle,
 using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,21,22,25] Egypt's Interior Ministry said its
 security services identified and arrested the pair and seized the motorcycle,
-which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22,25,27] The two were a company employee and a
-delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21,23]
+which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22,25,27,30] The two were a company employee and a
+delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21,23,30]
 
 Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20] Questioned, the two admitted the
 offence and said they held the drugs to use them. [@1,3,4,5,6,7,8,9,10,12,13,15,16,17,18,20] The employee said he had
@@ -280,7 +288,7 @@ obtained the hashish from an unemployed man with a criminal record living in the
 First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20]
 
 The ministry said no reports had been filed about the incident before the video
-spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22,25,27,28,29] The public prosecution has taken over the investigation.
+spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22,23,25,27,28,29] The public prosecution has taken over the investigation.
 [@2,3,4,7,8,9,10,13,16,17,18,20,24,27,28]
 
 The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20]
