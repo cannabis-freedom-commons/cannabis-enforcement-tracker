@@ -58,6 +58,10 @@ sources:
     url: https://www.southafricandaily.co.za/news/suspect-arrested-after-high-speed-chase-as-police-seize-240kg-of-dagga-in-sinoville
     publisher: South African Daily
     date: 2026-11-07
+  - title: A suspect was arrested and 240 kilograms of dagga, with an estimated street value of R960 000-00 were seized following a high-speed pursuit
+    url: https://www.arrivealive.co.za/news.aspx?i=79092&page=a-suspect-was-arrested-and-240-kilograms-of-dagga-with-an-estimated-street-value-of-r960-000-00-were-seized-following-a-high-speed-pursuit&s=0
+    publisher: Arrive Alive
+    date: 2026-11-07
 open_questions:
   - The report does not name the suspect or give their age, sex or nationality.
   - The court where the suspect was to appear on 9 November 2026 and any outcome after that date were not reported in the opened source.
@@ -66,23 +70,22 @@ open_questions:
 
 SAPS members on crime-prevention patrol spotted a blue Volkswagen Tiguan trying
 to enter the Kolonnade Shopping Centre in Sinoville while the entrance gate was
-still closed at about 05:15 on 7 November 2026. [@1] The driver turned around
+still closed at about 05:15 on 7 November 2026. [@1,2] The driver turned around
 and sped away along Sefako Makgatho Drive after noticing the police vehicle.
 [@1] Officers activated blue lights and a siren, but the driver allegedly
 ignored them and kept driving at high speed. [@1] Proshield Security personnel
 joined the pursuit after assistance was requested over the Sinoville Community
 Policing Forum radio network. [@1] The chase ended when the vehicle was stopped
-in the Bon Accord area along the R101. [@1]
+in the Bon Accord area along the R101. [@1,2]
 
 A search of the vehicle found several bags of dagga weighing a combined 240kg.
-[@1] Police put the dagga's estimated street value at R960,000. [@1] The number
+[@1,2] Police put the dagga's estimated street value at R960,000. [@1] The number
 plates on the Tiguan did not match it and were instead registered to a Toyota
 Hilux. [@1] The driver was arrested and faces charges of dealing in and
-possession of dagga. [@1] The vehicle was confiscated and booked into police
+possession of dagga. [@1,2] The vehicle was confiscated and booked into police
 custody as allegedly used in the commission of a crime. [@1]
 
 The suspect was expected to appear before court on Monday, 9 November 2026. [@1]
 Tshwane District Commissioner Major General Samuel Thine commended the SAPS
 members and Proshield Security personnel for their swift response and
 cooperation. [@1]
-
