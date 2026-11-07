@@ -1,0 +1,76 @@
+---
+code: DD1BCE
+added_at: "2026-11-07T03:37:38.97749Z"
+date: 2026-11-06
+country: pt
+place: Porto das Barcas, São Teotónio, Odemira
+coordinates: [37.555, -8.793]
+precision: locality
+type: seizure
+also: [arrest]
+title: Four held with 1.1 tonnes of hashish off Odemira
+summary: >-
+  Four foreign nationals aged 16 to 43 were arrested at Porto das Barcas, São Teotónio, after police intercepted about 1.1 tonnes of hashish pollen moved by fast boat. The joint PJ-GNR Operation Barcas also seized a car with false plates, surveillance cameras and communications gear in house searches.
+figures:
+  arrested: 4
+  kg_seized: 1100
+details:
+  agencies: [pt-pj, pt-gnr]
+  agency_types: [police, anti-narcotics, border-guard]
+  products:
+    - {product: hashish, kg: 1100}
+  activity: [trafficking, smuggling]
+  setting: [port]
+  case_stage: investigation
+  date_precision: publication
+  region: Beja
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: f98e25b24adf2ff4c6fb9d2de1748dec
+tags: [odemira, hashish, operation-barcas]
+sources:
+  - title: PJ detém quatro pessoas por tráfico de mais de uma tonelada de haxixe por lancha em Odemira
+    url: https://www.dn.pt/sociedade/pj-detm-quatro-pessoas-por-trfico-de-mais-de-uma-tonelada-de-haxixe-por-lancha-em-odemira
+    publisher: Diário de Notícias
+    date: 2026-11-06
+    language: pt
+  - title: Quatro detidos e 1,1 toneladas de haxixe apreendidas no litoral de Odemira
+    url: https://alentejo.sulinformacao.pt/2026/11/quatro-detidos-e-11-toneladas-de-haxixe-apreendidas-no-litoral-de-odemira/
+    publisher: Sul Informação
+    date: 2026-11-06
+    language: pt
+open_questions:
+  - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
+  - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
+  - The judicial outcome after the first interrogation was not reported in the cited sources.
+---
+
+Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
+municipality of Odemira. [@1] They were suspected of trafficking more than a
+tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
+were to be brought before a judge for a first judicial interrogation and
+coercive measures. [@1]
+
+Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1] The
+operation began after authorities spotted a suspicious high-speed vessel crewed
+by unidentified people whose presence near the Portuguese coast was unjustified.
+[@1] House searches led to the seizure of a car with a false number plate. [@1]
+Officers also seized video-surveillance cameras placed to monitor police
+movements and communications equipment. [@1]
+
+It was a joint operation by the PJ's National Unit to Combat Drug Trafficking
+and the GNR's Coastal and Border Control Unit, named Operation Barcas, against
+international trafficking by sea. [@1] The operation, called Barcas, ran over
+recent days with support from the Navy and the Air Force. [@2] It also had
+support from the Maritime Analysis and Operations Centre – Drugs, an
+international cooperation body against trafficking by sea. [@2]
+
