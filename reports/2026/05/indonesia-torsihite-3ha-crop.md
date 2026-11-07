@@ -33,9 +33,10 @@ data_sources:
   figures.plants_destroyed: [1]
 media:
   - kind: photo
-    url: https://awsimages.detik.net.id/api/wm/2026/05/31/polisi-menemukan-ladang-ganja-seluas-3-hektare-di-madina-foto-dok-polres-madina-1780223214874_169.jpeg
-    publisher: Detik
-    caption: 'Police team with uprooted plants on Tor Sihite. Photo: Polres Mandailing Natal via Detik'
+    url: https://www.detik.com/sumut/hukum-dan-kriminal/d-8512253/polisi-temukan-3-hektare-ladang-ganja-di-madina
+    media_url: https://awsimages.detik.net.id/api/wm/2026/05/31/polisi-menemukan-ladang-ganja-seluas-3-hektare-di-madina-foto-dok-polres-madina-1780223214874_169.jpeg
+    publisher: Detik Sumut
+    caption: "Police and partners with uprooted cannabis plants at the Torsihite field under Operasi Antik Toba (Polres Madina via Detik)."
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [cultivation, hillside, trek]

@@ -42,8 +42,9 @@ sources:
 media:
   - kind: photo
     url: https://macronorte.pe/2026/09/23/pnp-erradica-32-500-plantones-de-marihuana-y-decomisa-mas-de-621-kilos-en-chugay/
-    publisher: Macronorte
-    caption: Police photographs of the eradicated plants and seized sacks in Chugay
+    media_url: https://macronorte.pe/wp-content/uploads/2026/09/1-154.jpg
+    publisher: Macro Norte
+    caption: "Sealed marijuana bales displayed before DIRANDRO officers after the Chugay eradication (Macro Norte / PNP)."
 ---
 
 The National Police eradicated and burned 32,500 marijuana seedlings in Yacopampa, Chugay district,

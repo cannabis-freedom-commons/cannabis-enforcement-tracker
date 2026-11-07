@@ -14,10 +14,11 @@ summary: >-
 figures:
   plants_destroyed: 200000
 media:
-  - kind: video
-    url: https://m.qlwb.com.cn/videoDetail/27805408.html
-    publisher: 齐鲁晚报·齐鲁壹点
-    caption: 'Xinjiang Television video report on the joint clearance of 200,000 wild cannabis plants around Baiyanghe in Midong District. Video: Xinjiang Television'
+  - kind: photo
+    url: https://k.sina.com.cn/article_5787187353_v158f178990200259by.html
+    media_url: http://n.sinaimg.cn/sinakd20260701s/200/w1080h720/20260701/c87c-028ae76dcecbfc0102b5785649837e81.jpg
+    publisher: 新浪网
+    caption: "An officer uprooting wild cannabis during the Midong District clearance (Xinjiang Television via Sina)."
 details:
   activity: [cultivation]
   agency_types: [police]
@@ -66,6 +67,7 @@ open_questions:
   - No report gives the area cleared in hectares or the weight of the plants.
   - The count is given both as 200,000 plants and as “more than 200,000”; this report uses 200,000.
   - 'Left out, as its quotation was not found in 齐鲁晚报·齐鲁壹点: Police, agriculture and other district departments carried out the clearance, Xinjiang Television reported.'
+  - 齐鲁晚报 published a Xinjiang Television video of the same Midong clearance without a separate direct media_url entry here.
 ---
 
 Officers from the Midong District public security sub-bureau's narcotics brigade

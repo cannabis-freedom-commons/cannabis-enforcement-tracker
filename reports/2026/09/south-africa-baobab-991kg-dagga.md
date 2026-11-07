@@ -20,9 +20,10 @@ figures:
   kg_seized: 991.5
 media:
   - kind: photo
-    url: https://bnknews.co.za/assets/cache/images/6aae472d4c185-dagga-seizure-beitbridge_1200_977799bb114eacf20b5817237e92a830.webp
+    url: https://bnknews.co.za/story/two-tanzanian-nationals-arrested-after-r15-million-dagga-haul-at-baobab-tollgate-in-limpopo
+    media_url: https://bnknews.co.za/assets/cache/images/6aae472d4c185-dagga-seizure-beitbridge_1200_977799bb114eacf20b5817237e92a830.webp
     publisher: BNK News
-    caption: 'Stacked dagga bales seized in the operation. Photo: SAPS via BNK News'
+    caption: "Wrapped dagga bundles stacked outside a SARS Customs post after the Baobab Tollgate interception (BNK News)."
 details:
   activity: [sale]
   agencies: [za-saps]

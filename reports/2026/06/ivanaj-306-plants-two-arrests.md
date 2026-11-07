@@ -42,6 +42,7 @@ open_questions:
   - No weight and no area are given.
   - The photograph shows officers walking a person along a track. It does not name him.
   - The image on the ATSH page could not be opened, so it is not listed.
+  - Euronews Albania published an escort photograph of the same Malësi e Madhe arrests without a separate cannabis-field media_url entry here.
 sources:
   - title: Policia asgjëson 306 bimë kanabis në Malësi të Madhe
     url: https://ata.gov.al/2026/06/20/policia-asgjeson-306-bime-kanabis-ne-malesi-te-madhe/
@@ -55,9 +56,10 @@ sources:
     language: sq
 media:
   - kind: photo
-    url: https://euronews.al/wp-content/uploads/2026/06/Capture-26.jpg
-    publisher: Euronews Albania
-    caption: Officers in Policia vests walk a person along a track. The still is labelled Malësi e Madhe.
+    url: https://ata.gov.al/2026/06/20/policia-asgjeson-306-bime-kanabis-ne-malesi-te-madhe/
+    media_url: https://ata.gov.al/wp-content/uploads/2026/06/gg-1.png
+    publisher: ATA
+    caption: "A person among cannabis plants in Malësi e Madhe in an Albanian State Police photograph (Policia e Shtetit via ATA)."
 ---
 
 On 20 June 2026 the Malësi e Madhe police commissariat finished an operation it called Flagranca in the village of Ivanaj. [@1,2] The Albanian Telegraphic Agency published the police account that day from Tirana. [@1] Euronews Albania published the same account the same afternoon. [@2]

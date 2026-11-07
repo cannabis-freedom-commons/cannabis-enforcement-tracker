@@ -38,8 +38,9 @@ tags: [ndlea, adamawa, army, plantation]
 media:
   - kind: photo
     url: https://dateline.ng/ndlea-destroys-cannabis-farm-seizes-428kg-in-adamawa/
+    media_url: https://dateline.ng/wp-content/uploads/2026/10/FB_IMG_1791339144805.jpg
     publisher: Dateline Nigeria
-    caption: "The 30 bags of seized cannabis with the suspect's exhibit board (NDLEA via Dateline Nigeria)."
+    caption: "NDLEA Michika Area Command exhibit board and bagged cannabis sativa from the Adamawa seizure (Dateline Nigeria / NDLEA)."
 open_questions:
   - The targeted suspect had not been caught; surveillance to apprehend him was continuing.
   - >-
