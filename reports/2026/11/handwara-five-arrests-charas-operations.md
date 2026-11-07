@@ -51,6 +51,11 @@ sources:
     url: https://kashmirlife.net/five-arrested-in-three-separate-drug-related-operations-in-north-kashmir-police-459958/
     publisher: Kashmir Life
     date: 2026-11-06
+  - title: Srinagar News:नशा तस्करी के खिलाफ कार्रवाई, पांच गिरफ्तार
+    url: https://www.amarujala.com/jammu-and-kashmir/srinagar/srinagar-five-arrested-drug-smuggling-handwara-srinagar-news-c-264-1-sr11006-118078-2026-11-07
+    publisher: Amar Ujala
+    date: 2026-11-07
+    language: hi
 open_questions:
   - No weight, value or packaging detail was published for any of the three seizures, so no cannabis quantity is recorded.
   - The article gives a Handwara Nov 06 dateline and 6 November 2026 publication date with no separate time for the checks; 6 November 2026 is used as the incident date.
@@ -61,10 +66,13 @@ open_questions:
   - The article gives no date for the three checks; 6 November 2026, its publication time, is the only date reported.
   - Daily Excelsior and Kashmir Reader put the day's total at seven arrests across Handwara and Anantnag, adding two Anantnag cases that are recorded in separate reports and excluded here.
   - The page's only picture is a 2015 file image of a prison, not of this event, so no photo is linked.
+  - Amar Ujala calls the Wanigam recovery bhang while the police statement published in English called it a cannabis (Khashkhash)-like substance; no forensic confirmation of the substance is reported.
+  - The Amar Ujala page gives no date for the three checks; 7 November 2026 is its publication date and it does not change the report's 6 November date.
+  - Amar Ujala's page picture is a Srinagar file image dated November 2021, not a picture of these arrests, so no media is linked from it.
 ---
 
 Handwara police arrested five suspects in three separate checkpoint operations
-run by Kralgund police station and Chogul police post. [@1,2] At Khanu Babagund,
+run by Kralgund police station and Chogul police post. [@1,2,3] At Khanu Babagund,
 officers held Abid Hussain Mir of Tarathpora and Rouf Mushtaq Bhat of Khanu
 during naka checking. [@1] Charas-like substance and charas powder-like
 substance were recovered from the pair's possession. [@1] At Wanigam Crossing,
@@ -86,3 +94,5 @@ appealed for public cooperation to safeguard society, particularly the youth.
 [@1]
 
 Police registered FIR No. 275/2026 under Sections 8, 20 and 29 of the NDPS Act at Police Station Handwara over the Watyen seizure. [@2]
+
+Amar Ujala's Hindi account describes the substance recovered from the Wanigam Crossing suspect as bhang, where the English police statement called it a cannabis (Khashkhash)-like substance. [@3]
