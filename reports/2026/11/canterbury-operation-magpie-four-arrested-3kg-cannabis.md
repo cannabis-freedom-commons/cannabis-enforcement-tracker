@@ -64,6 +64,10 @@ sources:
     url: https://www.odt.co.nz/canterbury/christchurch/massive-canterbury-bust-500k-in-cash-millions-in-drugs-seized-nams57b4
     publisher: Otago Daily Times
     date: 2026-11-06
+  - title: 'Canterbury drug bust: Four men arrested after cocaine, MDMA, 3D gun haul'
+    url: https://www.nzherald.co.nz/nz/canterbury-drug-bust-four-men-arrested-after-cocaine-mdma-3d-gun-haul/I6MU4FQUIZFOFP2G5L5MU3IJMQ/
+    publisher: NZ Herald
+    date: 2026-11-07
 open_questions:
   - The sources say the arrests were made "this week" without a precise day; the incident date is approximate.
   - The sources do not say where in Canterbury the search warrants were carried out, how many properties were searched, or how many charges each man faces.
@@ -72,16 +76,17 @@ open_questions:
   - The published photos are captioned only as drugs, cash and other items seized in Operation Magpie; individual photos are not identified.
   - 'Left out, as its quotation was not found in New Zealand Police: Police also listed 6800 ecstasy tablets, 4600 LSD tabs and 550 grams of methamphetamine, and said 3 kilograms of cannabis was among the drugs seized.'
   - 'Left out, as its quotation was not found in New Zealand Police: Officers also seized more than $500,000 in cash, a 3D-printed firearm and pill-pressing equipment for making ecstasy tablets.'
+  - The Herald article's text after its opening lines sits behind a subscription prompt, so no further details from it could be read.
 ---
 
 Police and Customs investigators in Canterbury arrested four men aged between 27
-and 35 this week and remanded them in custody. [@2] The four were due to appear
+and 35 this week and remanded them in custody. [@2,5] The four were due to appear
 in the Christchurch District Court facing charges relating to the importation,
 possession for supply and supply of controlled drugs. [@1]
 
 The arrests followed a joint investigation by the Canterbury District Organised
 Crime Group and Customs, which intercepted multiple drug consignments at the New
-Zealand border before search warrants across Canterbury. [@2] Investigators
+Zealand border before search warrants across Canterbury. [@2,5] Investigators
 seized three kilograms of cannabis along with 10 kilograms of cocaine, 24.5
 kilograms of MDMA, 10.6 kilograms of ketamine and 70 kilograms of
 pseudoephedrine. [@1]
@@ -93,4 +98,3 @@ intelligence sharing and coordinated enforcement between police and Customs let
 them identify, disrupt and dismantle the offending. [@2] Customs Acting
 Investigations manager Nigel Barnes said the range of drugs intercepted showed
 the persistence and increasingly brazen nature of the activity. [@3]
-
