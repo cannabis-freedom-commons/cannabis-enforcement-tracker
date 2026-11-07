@@ -56,6 +56,10 @@ sources:
     url: https://www.straitstimes.com/life/entertainment/former-btob-member-ilhoon-sentenced-to-two-years-for-marijuana-use
     publisher: The Straits Times
     date: 2021-06-10
+  - title: Ex-BTOB member gets 2-year prison term for marijuana use
+    url: https://en.yna.co.kr/view/AEN20210610006900315
+    publisher: Yonhap News Agency
+    date: 2021-06-10
 open_questions:
   - The two opened accounts give Jung's age as 27 and 26 respectively, so no age is recorded in the report.
   - The Korea Times reports seven accomplices received 1 1/2 to two years while the Straits Times adds a possible suspended sentence; the report uses the shared 18-month to two-year range.
@@ -66,14 +70,14 @@ open_questions:
 ---
 
 Jung Il-hoon, former member of K-pop boy band BTOB, was sentenced by a local
-court Thursday to two years in prison for habitually smoking marijuana. [@1] The
+court Thursday to two years in prison for habitually smoking marijuana. [@1,3] The
 Seoul Central District Court ordered Jung to be taken into custody immediately
-after sentencing. [@1] The judge deemed it necessary to arrest him in court
+after sentencing. [@1,3] The judge deemed it necessary to arrest him in court
 because he was considered a flight risk. [@2] Seven accomplices indicted for
 drug offences together with Jung were also sentenced to prison terms ranging
-from 18 months to two years. [@1] Jung admitted the charges and appealed for
+from 18 months to two years. [@1,3] Jung admitted the charges and appealed for
 mercy after prosecutors demanded a four-year prison sentence and forfeiture of
-133 million won. [@1]
+133 million won. [@1,3]
 
 He was indicted without detention in April on charges of smoking marijuana worth
 133 million won bought from an acquaintance on 161 occasions between July 2016
@@ -86,7 +90,8 @@ using marijuana on 161 occasions. [@2]
 
 The court said the defendants used sophisticated tactics including
 communications through the dark web and cryptocurrency-based payments to cover
-up the offences. [@1] Jung and an accomplice surnamed Park played leading roles
-and committed the largest number of offences. [@1] He had left the seven-member
+up the offences. [@1,3] Jung and an accomplice surnamed Park played leading roles
+and committed the largest number of offences. [@1,3] He had left the seven-member
 boy band in December after the allegations came to light. [@2]
 
+The court said Jung and his accomplice deserve due punishment for their habitual use of marijuana. [@3] The agency's account gives Jung's age as 27 at the time of sentencing. [@3]
