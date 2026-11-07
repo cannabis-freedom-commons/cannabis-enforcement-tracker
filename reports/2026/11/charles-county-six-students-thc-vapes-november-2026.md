@@ -25,15 +25,20 @@ sources:
     url: https://www.dcnewsnow.com/news/local-news/maryland/charles-county/thc-vapes-seized-from-charles-county-elementary-middle-and-high-school-students/
     publisher: DC News Now
     date: 2026-11-06
+  - title: THC vapes seized from several Charles County students
+    url: https://www.dcnewsnow.com/video/thc-vapes-seized-from-several-charles-county-students/12346447/
+    publisher: DC News Now
+    date: 2026-11-06
 open_questions:
   - No count of the vaping devices seized and no weight or THC content was published, so no cannabis quantity is recorded.
   - The article gives no separate date for the investigation's start; 2 November 2026, the first reported seizure date, is used as the incident date.
   - The sheriff's office had not published its own release for these November seizures when the accounts were checked, so only one opened source supports the event.
   - The article does not say what citation or suspension Charles County Public Schools issued, or whether any guardian or supplier was investigated.
+  - The submitted page carries only a short description and no school names, ages or device count; those details rest on DC News Now's longer article, which could not be reopened (403).
 ---
 
 The Charles County Sheriff's Office said an investigation was under way after
-vapes containing THC were seized from several students within one week. [@1] On
+vapes containing THC were seized from several students within one week. [@1,2] On
 Nov. 2, a 14-year-old Davis Middle School student and an 8-year-old Barnhart
 Elementary School student were found with THC vaping devices. [@1]
 
@@ -45,4 +50,3 @@ with a THC vape. [@1]
 Deputies said law enforcement cannot charge the students under Maryland state
 law because of their ages, but Charles County Public Schools would issue
 citations and disciplinary actions. [@1]
-
