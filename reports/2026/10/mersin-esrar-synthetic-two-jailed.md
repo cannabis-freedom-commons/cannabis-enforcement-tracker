@@ -69,6 +69,21 @@ sources:
     publisher: Yeni Şafak
     date: 2026-10-31
     language: tr
+  - title: Mersin'deki narkotik operasyonlarında 48 kilogram esrar ele geçirildi! 4 tutuklama - Mersin Haberleri
+    url: https://www.sabah.com.tr/mersin/2026/11/06/mersindeki-narkotik-operasyonlarinda-48-kilogram-esrar-ele-gecirildi-4-tutuklama
+    publisher: Sabah
+    date: 2026-11-06
+    language: tr
+  - title: 'Mersin’de 48 kilo esrar ele geçirildi: 4 tutuklama'
+    url: https://www.iha.com.tr/mersin-haberleri/mersinde-48-kilo-esrar-ele-gecirildi-4-tutuklama-512004204
+    publisher: İHA
+    date: 2026-11-06
+    language: tr
+  - title: Mersin'de uyuşturucu operasyonunda 4 tutuklama
+    url: https://www.mardinlife.com/gundem/mersin-de-uyusturucu-operasyonunda-4-tutuklama
+    publisher: Mardin Life
+    date: 2026-11-06
+    language: tr
 open_questions:
   - No separate date was given for the operation or the court hearing; 31 October 2026 is the publication date of the earliest account, so both happened on or before that evening.
   - No weight, plant count or estimated value was published for the synthetic drugs or the esrar; the accounts say only that 'a quantity' of esrar was found.
@@ -83,6 +98,9 @@ open_questions:
   - The page gives no weight, plant count or value for the synthetic drugs or the esrar, saying only that a quantity of esrar was found, so no cannabis figure can be added.
   - Details in the existing report such as preparation for sale, physical surveillance, heavy security, the duty court and drug-trafficking charges come from its other accounts and are not stated on this page.
   - The page carries one image captioned only with the article title and no credit; its content cannot be verified as showing this seizure, so it is not listed as media.
+  - The 6 November accounts do not name the districts or neighbourhoods searched, and they do not say how much of the 48 kilograms was found in the vehicle and how much at the home.
+  - The street value of the 48 kilograms of esrar was not published.
+  - No trial date or final sentence beyond pre-trial detention was reported.
 ---
 
 Anti-narcotics police in Mersin detained H.Y. and M.E. in an investigation run
@@ -98,3 +116,5 @@ the Turkish name for cannabis. [@1,4,5,6] After questioning at police headquarte
 the two were brought to court under heavy security. [@3] A duty court ordered
 tutuklama, pre-trial detention, on drug-trafficking charges and sent both to
 prison. [@3,4,6]
+
+Police in Mersin detained five suspected street drug dealers and a court jailed four of them on 6 November 2026. [@7] Officers found 48 kilograms of esrar, the Turkish name for cannabis, in the vehicle used by one suspect and in that suspect's home, and about 1.5 kilograms of methamphetamine in another suspect's vehicle. [@7] İHA reported that police caught the suspects in two numbered-plate vehicles and seized about 1.5 kilograms of methamphetamine and 48 kilograms of esrar in the vehicles and at their addresses. [@8] Searches of the other three suspects found 14.40 grams of synthetic cannabinoid (bonzai), cocaine, ammonia, a precision scale and 120 lira. [@9] Of the five suspects brought to court, four were ordered held in pre-trial detention and the fifth was released under judicial supervision. [@9]
