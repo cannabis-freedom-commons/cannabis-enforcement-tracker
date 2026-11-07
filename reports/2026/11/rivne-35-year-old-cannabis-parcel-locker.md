@@ -87,6 +87,11 @@ sources:
     publisher: ОГО.ua
     date: 2026-11-07
     language: uk
+  - title: У Рівному у чоловіка вилучили близько пів кілограма канабісу
+    url: https://7dniv.rv.ua/suspilstvo/kryminal/rivne-vyluchyly-500-hramiv-kanabisu/
+    publisher: 7 днів
+    date: 2026-11-07
+    language: uk
 open_questions:
   - The weight and value are given as approximate (about 500 grams, about 200,000 hryvnias), not measured figures.
   - The reports do not say what the postal delivery contained beyond the cannabis found on the man, who sent it, or whether the man is accused of receiving it for sale; the charge is possession without intent to sell.
@@ -102,19 +107,19 @@ open_questions:
 
 Detectives of the Rivne Oblast police drug-crime unit stopped a 35-year-old
 Rivne resident near a parcel locker on Viacheslava Chornovola Street in Rivne
-shortly after 5 pm on 6 November, after he collected a postal delivery. [@1,4] The
+shortly after 5 pm on 6 November, after he collected a postal delivery. [@1,4,6] The
 stop was based on intelligence the officers already held, and they searched the
 man on the spot. [@2]
 
-In the search officers found and seized cannabis weighing about 500 grams. [@1,4]
+In the search officers found and seized cannabis weighing about 500 grams. [@1,4,6]
 Rivne Oblast police put the street value of the seized cannabis at about 200,000
-hryvnias (about 4,700 dollars). [@2,5]
+hryvnias (about 4,700 dollars). [@2,5,6]
 
 A pretrial investigation is under way into unlawful possession of drugs under
 part 1 of article 309 of Ukraine's Criminal Code, which covers acquiring and
-keeping drugs without intent to sell. [@1] Investigators were still working to
+keeping drugs without intent to sell. [@1,6] Investigators were still working to
 establish who else was involved in the circulation of the drugs, and the other
-circumstances of the offence. [@1]
+circumstances of the offence. [@1,6]
 
 The three accounts reproduced the same statement from the Rivne Oblast police.
 [@3]
