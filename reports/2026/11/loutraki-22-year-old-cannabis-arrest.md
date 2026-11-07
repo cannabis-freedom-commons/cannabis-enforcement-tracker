@@ -46,22 +46,30 @@ sources:
     publisher: Πελοποννησιακό Πρακτορείο Ειδήσεων
     date: 2026-11-04
     language: el
+  - title: 'Λουτράκι: Συνελήφθη νεαρός με τρίφτη κάνναβη'
+    url: https://www.loutrakiblog.gr/2026/11/07/loutraki-synelifthi-nearos-me-trifti-kannavi/
+    publisher: loutrakiblog
+    date: 2026-11-07
+    language: el
 open_questions:
   - No weight was published for the seized cannabis, described only as a small amount, so no kilograms can be recorded.
   - The exact location within Loutraki was not named.
   - No charge, custody decision or court outcome was reported; the preliminary investigation was still under way.
   - Only one accessible source for this event was found after searching in Greek.
   - The page image carries no caption or descriptive alt text establishing that it shows this seizure, so no media entry is included.
+  - The page image is a generic police photograph dated July 2026 with no caption describing this seizure, so it is not listed as media.
+  - Loutraki Blog reproduces the same Corinthia police statement as the outlets already cited and gives no weight, charge or court outcome, so it is not independent reporting.
+  - The article calls the suspect only a 22-year-old and does not repeat that he is Greek or give other identifying details.
 ---
 
 Officers of the E1 Crime Prevention and Mediation Group of Corinthia arrested a
-22-year-old Greek man in Loutraki. [@1,3] The arrest happened in the afternoon of
-3 November 2026. [@1,2,3]
+22-year-old Greek man in Loutraki. [@1,3,4] The arrest happened in the afternoon of
+3 November 2026. [@1,2,3,4]
 
 Police said the man possessed a small amount of cannabis and a cannabis grinder.
-[@1,2,3] Officers seized both the cannabis and the grinder. [@1,2,3] No weight was
+[@1,2,3,4] Officers seized both the cannabis and the grinder. [@1,2,3,4] No weight was
 published for the cannabis, which was described only as a small amount. [@1]
 
 The preliminary investigation is being handled by the Loutraki Police
-Department. [@1,2,3] The account names no other suspects and reports no charges or
+Department. [@1,2,3,4] The account names no other suspects and reports no charges or
 court outcome. [@1]
