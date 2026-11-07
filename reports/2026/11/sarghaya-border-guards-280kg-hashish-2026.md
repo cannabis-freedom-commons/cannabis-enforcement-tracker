@@ -126,6 +126,8 @@ open_questions:
   - This page attributes the statement to the Syrian Interior Ministry, carried by the Defence Ministry's media and communication directorate, rather than to the Defence Ministry alone.
   - Like the accounts already cited, it reproduces the ministry statement, so it adds a republication rather than independent confirmation.
   - The page gives no arrests, value or plant count, and its lead picture carries only the headline as a caption with no credit, so no media is recorded.
+  - The Al-Araby Al-Jadeed lead picture is captioned as drugs seized in Syria on 20 May 2026, an earlier event, so it does not show the Sarghaya operation.
+  - The article reproduces the Defence Ministry statement and also recounts separate October 2026 seizures on the Syrian and Lebanese sides of the border that are not part of this event.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
@@ -147,4 +149,4 @@ The Defence Ministry media office announced the operation on Friday 6 November
 
 Border guard units in the Syrian Arab Army seized 280 kilograms of hashish and 28,000 Captagon pills in the Sarghaya area of the Damascus countryside, the Defence Ministry's media office said. [@5]
 
-The Defence Ministry said the confiscated items were referred to the competent authorities to complete legal procedures. [@7]
+The Defence Ministry said the confiscated items were referred to the competent authorities to complete legal procedures. [@4,7]
