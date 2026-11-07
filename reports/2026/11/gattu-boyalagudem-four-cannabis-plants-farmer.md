@@ -43,6 +43,11 @@ media:
     media_url: https://cdn.prabhanews.com/wp-content/uploads/2026/11/07211442/13-17.jpg
     publisher: Andhra Prabha
     caption: Lead image published with Andhra Prabha's report on four cannabis plants seized from a field at Boyalagudem; the page gives no caption or credit, so it cannot be confirmed to show the field or the plants.
+  - kind: photo
+    url: https://www.hmtvlive.com/telugu-news/mahaboobnagar/ganja-plants-seized-in-boyalagudem-si-kalyan-210415
+    media_url: https://assets.hmtvlive.com/h-upload/2026/11/07/485930-gattu-.webp
+    publisher: HMTV
+    caption: Lead picture on HMTV's report of the Boyalagudem ganja seizure; its alt text is only "Gattu" and it carries no caption or credit, so whether it shows the field or the four plants is not established.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f13ed644d3bbe53bc42319627c127a56
@@ -53,6 +58,11 @@ sources:
     publisher: Andhra Prabha
     date: 2026-11-07
     language: te
+  - title: 'Gattu: బోయలగుడెం శివారులో గంజాయి మొక్కల స్వాధీనం: ఎస్సై కళ్యాణ్ కుమార్'
+    url: https://www.hmtvlive.com/telugu-news/mahaboobnagar/ganja-plants-seized-in-boyalagudem-si-kalyan-210415
+    publisher: HMTV
+    date: 2026-11-07
+    language: te
 open_questions:
   - No figure for the weight or value of the four plants or the area they covered was published.
   - The farmer's charge, arrest, custody status and any court step are not stated; the article says he was taken into custody and being questioned, so he is recorded as detained and no charges are recorded.
@@ -60,15 +70,16 @@ open_questions:
   - Only one account of this raid could be opened; no separate police statement or second outlet account was found.
   - The page's lead image carries no descriptive caption or credit, so whether it shows the field or the plants is not established.
   - 'An earlier, separate case at the same village is recorded: in September 2025 Gadwal police seized nine cannabis plants from a leased field at Boyalagudem and arrested a farmer from Thottinonidoddi; it is a different event and not covered by this report.'
+  - HMTV gives no date beyond Saturday and is published on 7 November 2026, so it does not independently fix the raid date.
+  - No charge section, plant weight or field area is given in this second account either.
 ---
 
 Gattu police searched a field at the edge of Boyalagudem village in Jogulamba
-Gadwal district on Saturday and found four cannabis plants growing there. [@1]
+Gadwal district on Saturday and found four cannabis plants growing there. [@1,2]
 The plants were in a field belonging to Govindu, a farmer from Lingapuram
-village. [@1] Police took the four plants into custody and registered a case
-against the farmer. [@1]
+village. [@1,2] Police took the four plants into custody and registered a case
+against the farmer. [@1,2]
 
 Gattu sub-inspector Kalyan Kumar said the farmer had been taken into custody and
-was being questioned. [@1] The sub-inspector warned that anyone committing such
-offences in the mandal would face severe legal action. [@1]
-
+was being questioned. [@1,2] The sub-inspector warned that anyone committing such
+offences in the mandal would face severe legal action. [@1,2]
