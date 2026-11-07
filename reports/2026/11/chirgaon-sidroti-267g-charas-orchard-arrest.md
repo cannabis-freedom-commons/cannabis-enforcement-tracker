@@ -43,27 +43,40 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-07
     language: hi
+  - title: नेपाली युवक 267 ग्राम चरस के साथ गिरफ्तार
+    url: https://vocaltv.in/crime/crime-charas-seized-arrestphp/cid19503265.htm
+    publisher: Vocal TV
+    date: 2026-11-07
+    language: hi
+  - title: चिड़गांव में 267 ग्राम चरस के साथ नेपाली मूल का व्यक्ति गिरफ्तार
+    url: https://a4applenews.com/himachal-pradesh/136938.htm
+    publisher: Apple News
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives no separate date for the raid; 7 November 2026 is its publication date and is used as the incident date.
   - The weight is reported as approximate (about 267 grams), not an exact measured figure.
   - No court outcome was reported; the accused was still to be produced in court and the investigation was continuing.
   - Only one accessible source for this event was found after searching in Hindi and English.
   - The page photo is captioned as a symbolic crime image and is not established to show this seizure, so no media entry is included.
+  - Vocal TV and Apple News say police issued the information on Saturday, and both give 5 November 2026 as the arrest date, while the report's existing incident date is the 7 November publication date.
+  - The two new outlets say the search was made on a tip-off and describe the recovery as 267 grams of charas, while the existing report records the weight as approximate.
 ---
 
 Chirgaon police arrested a 30-year-old man of Nepali origin who worked as a
 caretaker in an orchard. [@1] The man was identified as Arjun (30), a resident
-of Rolpa, Nepal, who was employed as the caretaker of that orchard. [@1]
+of Rolpa, Nepal, who was employed as the caretaker of that orchard. [@1,2]
 
 The search and seizure took place at a shelter in an orchard at Sidroti near
 Jakhi in Shimla district, Himachal Pradesh, during a campaign against the
-illegal drug trade. [@1] Police said they had received a tip-off that narcotics
-were being kept in the orchard shelter at Sidroti. [@1] Acting on that
+illegal drug trade. [@1,2] Police said they had received a tip-off that narcotics
+were being kept in the orchard shelter at Sidroti. [@1,2] Acting on that
 information, a police team reached the spot and searched the shelter. [@1] In
 the presence of independent witnesses, officers recovered about 267 grams of
-charas from a box inside the shelter. [@1]
+charas from a box inside the shelter. [@1,2]
 
 Police registered a case against the accused under Section 20 of the NDPS Act at
-Chirgaon police station. [@1] The accused was to be produced in court, and
+Chirgaon police station. [@1,2] The accused was to be produced in court, and
 police were continuing their investigation of the case. [@1]
 
+Police arrested him on 5 November 2026. [@2] The case was registered at Chirgaon police station as FIR number 116/2026 dated 5 November 2026. [@3]
