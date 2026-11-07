@@ -55,6 +55,11 @@ sources:
     publisher: NewsPoint.bg
     date: 2026-11-06
     language: bg
+  - title: Иззеха в Пловдив над 800 грама наркотици, предназначени за разпространение чрез електронни приложения за комуникация - Горещите новини на Подбалкана
+    url: https://www.pbnovini.com/gradat/2026/izzeha-v-plovdiv-nad-800-grama-narkotitsi-prednaznacheni-za-razprostranenie-chrez-elektronni-prilozheniya-za-komunikatsiya/
+    publisher: Горещите новини на Подбалкана
+    date: 2026-11-06
+    language: bg
 open_questions:
   - The 650 grams of marijuana come from the expert examination; the overall figure for all three substances is reported as close to 800 grams by Plovdiv Online and as more than 800 grams by Darik News and BNT.
   - The reports do not say whether anyone was charged or whether a court imposed a measure of restraint; the accounts say only that a pre-trial investigation continues.
@@ -62,23 +67,24 @@ open_questions:
   - The submitted page's lead image is a general police photograph the outlet used earlier (its alt text refers to children going to school), not a picture of this seizure, so no photo of the event is listed.
   - Left out arrested, as its quotation was not found in Darik News.
   - NewsPoint gives the combined figure as about 810 grams while the existing report notes other outlets describing the haul as close to 800 grams or more than 800 grams.
+  - Podbalkana repeats the official wording that over 800 grams of drugs were seized, while its own breakdown of 650 grams of marijuana, 120 grams of amphetamine and 40 grams of methamphetamine amounts to about 810 grams.
 ---
 
 Officers of Plovdiv's Sixth Police District detained a 29-year-old man during an
 operation in the city and found marijuana, amphetamine and methamphetamine on
 him and at his home. [@1,4] The police check took place on 5 November 2026 by a
 petrol station on Tsarigradsko shose Blvd in Plovdiv. [@2] The man ran from the
-officers when they tried to check him and resisted when he was detained. [@1] A
+officers when they tried to check him and resisted when he was detained. [@1,5] A
 search of his person found seven vacuum-sealed packets of green plant material.
-[@2]
+[@2,5]
 
 A search of his home turned up more packets of suspicious material, an
 electronic scale and two grinders. [@1] An expert examination found that the
 seized substances were about 650 grams of marijuana, 120 grams of amphetamine
-and 40 grams of methamphetamine. [@1]
+and 40 grams of methamphetamine. [@1,5]
 
 On initial information the man organised the sale of the drugs through
-communication apps, which he used to contact potential buyers. [@3] A pre-trial
+communication apps, which he used to contact potential buyers. [@3,5] A pre-trial
 investigation was opened and work to document the crime continued under the
 supervision of the District Prosecutor's Office in Plovdiv. [@3]
 
