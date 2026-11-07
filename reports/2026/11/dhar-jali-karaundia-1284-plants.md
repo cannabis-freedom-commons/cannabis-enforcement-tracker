@@ -89,6 +89,11 @@ sources:
     publisher: Nai Dunia
     date: 2026-11-06
     language: hi
+  - title: 'MP News: धार पुलिस अवैध गांजा खेती पर की कार्रवाई, डेढ़ करोड़ का 969 किलो गांजे के 1,284 पौधे जप्त'
+    url: https://www.bhaskarhindi.com/city/bhopal/dhar-police-take-action-against-illegal-cannabis-cultivation-1284-cannabis-plantsweighing-969-kg-and-valued-at-15-croreseized-1388410
+    publisher: Dainik Bhaskar Hindi
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives no separate date for the two raids; 5 November 2026 is its publication date and is used as the incident date.
   - No names or ages of the two arrested growers were published.
@@ -109,6 +114,7 @@ open_questions:
   - The Vocal TV page photo carries no caption beyond the headline and no credit, so it is not established that it shows either of the two fields.
   - The Nai Dunia report does not give a separate date for either raid; 5 November 2026 is the incident date already used, while the article was published on 6 November 2026.
   - The article gives no court outcome beyond registration of cases under the NDPS Act.
+  - The article gives no separate date for either raid; 7 November 2026 is its publication date, while the existing report uses 5 November 2026.
 ---
 
 Dhar police carried out two raids against illegal cannabis cultivation in Dhar
@@ -117,15 +123,15 @@ Sachin Sharma. [@1,2,3] Officers arrested two growers accused of cultivating
 cannabis illegally in the two actions. [@1,2,3,6] Officers seized a total of 1,284
 green cannabis plants, known locally as ganja, weighing 969.335 kg in the two
 actions. [@1,2,3,4,6,7] Police valued the total seizure at 1 crore 57 lakh 12 thousand
-rupees. [@1,2,3,4,6,7]
+rupees. [@1,2,3,4,6,7,9]
 
 Tanda police raided Jali village and seized 1,134 green cannabis plants from the
-accused grower's cotton field. [@1,2,6,7] Police said the Jali plants weighed 518.335
+accused grower's cotton field. [@1,2,6,7,9] Police said the Jali plants weighed 518.335
 kg and put their estimated market value at about 1 crore 3 lakh rupees. [@1,2,6]
 Police arrested the Jali accused and registered a case against him at Tanda
-police station under the Narcotic Drugs and Psychotropic Substances Act. [@1,2] In
+police station under the Narcotic Drugs and Psychotropic Substances Act. [@1,2,9] In
 the second action, the Umarban outpost of Manawar police raided Karaundia Khurd
-village and seized 150 cannabis plants from the accused grower's field. [@1,2,6,7] The
+village and seized 150 cannabis plants from the accused grower's field. [@1,2,6,7,9] The
 Karaundia Khurd plants had been grown among cotton and tuar, the local name for
 pigeon pea, and police said they weighed 451 kg with an estimated value of 54
 lakh 12 thousand rupees. [@1,2,5,6] Police arrested the second accused and took legal
