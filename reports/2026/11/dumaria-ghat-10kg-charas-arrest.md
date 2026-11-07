@@ -91,6 +91,10 @@ sources:
     publisher: गांडीव लाइव
     date: 2026-11-06
     language: hi
+  - title: Charas worth Rs10 cr seized, one held in Muzaffarpur
+    url: https://timesofindia.indiatimes.com/city/patna/charas-worth-rs10-cr-seized-one-held-in-muzaffarpur/articleshow/135613557.cms
+    publisher: The Times of India
+    date: 2026-11-06
 open_questions:
   - The incident date of 5 November 2026 is inferred because the reports published on 6 November 2026 say the Dumaria Ghat arrest happened on Thursday.
   - The same articles report a separate Purnia operation in which a woman was held with 61 grams of smack and a motorcycle; smack is not cannabis, so that seizure, vehicle and arrest are excluded from this cannabis report.
@@ -107,12 +111,15 @@ open_questions:
   - The page's only image is a composite of the seized packets and the arrested man published without a credit line, and its representative status could not be established, so no media entry is included.
   - The page capitalises the accused's name as Rajesh Sahni without further identification; no case number or next court step is given.
   - The Gandiv Live page carries the same AI-experienced place spelling Dumariya Ghat and describes the arrest as reported by the STF on Friday without naming the DRI's Patna or Muzaffarpur units separately.
+  - The page is datelined Patna and places the bus interception at Dumariaghat without stating a district, while the existing report records it in East Champaran district.
+  - The article names no suspect, and describes the joint team as the DRI's Muzaffarpur regional unit with the Bihar STF, without the Patna unit named in other accounts.
+  - The page's only image is labelled as a representational image, so no media entry is included.
 ---
 
 A joint team of the Bihar Police Special Task Force and the Directorate of
 Revenue Intelligence's Patna and Muzaffarpur units arrested Rajesh Sahni on
 Thursday in the Dumaria Ghat police station area of East Champaran district.
-[@1,4,6,7,8,9] Officers seized 10 kg of charas from him and valued the consignment at
+[@1,4,6,7,8,9,10] Officers seized 10 kg of charas from him and valued the consignment at
 about Rs 10 crore. [@2,5,6,7] Officers also recovered a mobile phone and Rs 2,320 in
 cash from him. [@3,6] Sahni is a resident of East Champaran district, according to
 the STF account released on Friday. [@3]
@@ -122,8 +129,10 @@ The STF said Sahni was allegedly part of an international drug-trafficking gang.
 traffickers in Uttar Pradesh, Punjab, Haryana, Gujarat and Maharashtra. [@1,6,7,8,9] The
 seized consignment was to be delivered to Patan district in Gujarat. [@2,6,7,9]
 
-The STF said further investigation in the case is continuing. [@1,8] The criminal
+The STF said further investigation in the case is continuing. [@1,8,10] The criminal
 history of the arrested accused is being verified. [@1,8] Legal proceedings in the
 case have been started. [@1]
 
 The DRI's Muzaffarpur regional unit made the recovery after stopping a bus in the Dumaria Ghat area and seizing a consignment of charas, a cannabis resin. [@7] The arrested man was carrying about 10 kg of charas in a backpack, and investigators said public buses were used to avoid the attention of security agencies. [@7] Officers took him to the DRI's zonal office at Imlichatti in Muzaffarpur and questioned him for several hours about his methods and his Nepali suppliers. [@7] The DRI produced him before a court on Friday, which ordered him to judicial custody in jail. [@7]
+
+According to an STF statement, the syndicate planned to move the consignment through multiple trains and deliberately delay its movement to evade detection, and the load was scheduled to travel onwards on 5 November. [@10] Acting on a tip about a suspected carrier travelling by bus, the team intercepted the bus at Dumariaghat and arrested him. [@10] Police sources said the syndicate moved the charas from Nepal to Patan in Gujarat via Basti in Uttar Pradesh. [@10]
