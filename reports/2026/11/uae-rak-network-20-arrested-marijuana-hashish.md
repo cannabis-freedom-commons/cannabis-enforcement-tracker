@@ -196,6 +196,11 @@ sources:
     publisher: بوابة الزهراء
     date: 2026-11-07
     language: ar
+  - title: അന്താരാഷ്ട്ര മയക്കുമരുന്ന് കടത്ത് സംഘം പിടിയിൽ; പിടിച്ചെടുത്തത് വിവിധതരം നിരോധിത മയക്കുമരുന്നുകൾ
+    url: https://www.madhyamam.com/amp/gulf-news/uae/international-drug-smuggling-ring-busted-20-arrested-in-uae-1569944
+    publisher: Madhyamam
+    date: 2026-11-07
+    language: ml
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -253,24 +258,27 @@ open_questions:
   - The page's only image is a 400-pixel feature picture carrying the headline as its alt text, with no caption or credit, and it is not established to show this seizure, so no media entry is added.
   - The Zahraa page gives no separate weight or street value for the marijuana or hashish; the more than 30 kg figure covers cocaine, crystal, marijuana, hashish and Spice together.
   - The Zahraa page names no border crossing in Ras Al Khaimah and gives no date for the interception or the arrests; 6 November 2026 is the announcement and its publication date.
+  - Madhyamam gives no separate weight or street value for the marijuana or hashish; its figure of more than 30 kg covers cocaine, crystal methamphetamine, marijuana, hashish and Spice together.
+  - The Malayalam page gives no date for the interception or the arrests; 7 November 2026 is its publication date, while the announcement was published on 6 November 2026, the date the existing report uses.
+  - No charges or court stage are reported in this account.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
 6 November 2026. [@1,6,7,8,9,10,11,12,13,15,16,18,19,20,21,22,24,25,26] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
-link of the plan, from smuggling to preparation for dealing. [@1,6,10,14,24]
+link of the plan, from smuggling to preparation for dealing. [@1,6,10,14,24,27]
 
 Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
 surveillance, Shafaq News reported. [@4,5,8,10,11,12,13,15,17,18,21,22,24,25] The network planned to bring the drugs
 in through a border area of Ras Al Khaimah and then distribute them around the
-country. [@1,8,9,10,12,16,17,18,19,20,21,22,23,24]
+country. [@1,8,9,10,12,16,17,18,19,20,21,22,23,24,27]
 
 The haul included marijuana and hashish among cocaine, crystal methamphetamine
 and Spice; the latter is a synthetic drug and is not counted as cannabis here.
-[@2,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25,26] The operation also seized 200,000 Captagon pills and more than 30 kg of
-drugs in total, with no separate figure given for the cannabis. [@3,11,12,17,19,20,24]
+[@2,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25,26,27] The operation also seized 200,000 Captagon pills and more than 30 kg of
+drugs in total, with no separate figure given for the cannabis. [@3,11,12,17,19,20,24,27]
 
 The National Anti-Narcotics Agency ran the operation with Ras Al Khaimah Police,
 Iraq's General Directorate for Narcotics and Psychotropic Substances and the
