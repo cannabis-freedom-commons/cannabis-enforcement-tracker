@@ -63,6 +63,11 @@ sources:
     publisher: الوكالة العربية السورية للأنباء (سانا)
     date: 2026-11-06
     language: ar
+  - title: سوريا تحبط تهريب 280 كيلوغرام حشيش و28 ألف حبة كبتاغون من لبنان
+    url: https://aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D8%AD%D8%A8%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-280-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%8828-%D8%A3%D9%84%D9%81-%D8%AD%D8%A8%D8%A9-%D9%83%D8%A8%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%85%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86/4114714
+    publisher: Anadolu Agency (الأناضول)
+    date: 2026-11-06
+    language: ar
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -70,6 +75,7 @@ open_questions:
   - The 28,000 Captagon pills are a separate non-cannabis drug and are not counted in the cannabis figures.
   - The Janoubia report and the SANA report reproduce the same Defence Ministry statement, so there is no independent confirmation beyond the ministry's account.
   - Janoubia's lead picture is a generic site image with no caption, so it is not listed; the photographs come from SANA's page and are credited to SANA.
+  - The Anadolu account adds no arrest, charge or new figure, and repeats the SANA statement already cited, so it does not independently confirm the official account.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
@@ -77,15 +83,14 @@ Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
 the Sarghaya area of the Damascus countryside. [@1]
 
 The ministry said the smugglers opened fire on the Syrian force during the
-operation and that the force returned fire. [@1] The gunmen then fled towards
+operation and that the force returned fire. [@1,3] The gunmen then fled towards
 Lebanese territory, the ministry said. [@2] The state news agency SANA reported
 that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1] The seized items were
-referred to the competent authorities to complete legal procedures. [@1]
+confiscated, according to the ministry statement. [@1,3] The seized items were
+referred to the competent authorities to complete legal procedures. [@1,3]
 
 The Defence Ministry media office announced the operation on Friday 6 November
 2026, and SANA published the statement the same evening. [@2]
-
