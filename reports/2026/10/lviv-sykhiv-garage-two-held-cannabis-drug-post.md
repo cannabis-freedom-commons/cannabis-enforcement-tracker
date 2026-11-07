@@ -109,6 +109,11 @@ sources:
     publisher: Високий Замок
     date: 2026-11-06
     language: uk
+  - title: У Львові викрили двох наркозбувачів із гаражем-складом на Сихові
+    url: https://golossokal.com.ua/podii/u-lvovi-vykryly-dvoh-narkozbuvachiv-iz-garazhem-skladom-na-syhovi.html
+    publisher: Голос Сокальщини - Sokal Voice
+    date: 2026-11-06
+    language: uk
 open_questions:
   - The accounts give 7 October as the detention date but no date for the searches or the suspicion notices.
   - The 1.73 kg cannabis total is the sum of the reported parts, more than 500 g, 1.2 kg and 30 g, the first of which is only an approximate minimum.
@@ -119,6 +124,8 @@ open_questions:
   - No court outcome is reported; both suspects are held in custody while the pretrial investigation continues.
   - The submitted page's photo has no caption or credit establishing that it shows this event; the Leopolis.news photos published with the prosecutor's statement are uncaptioned beyond labels such as the detention and the seized substances.
   - Високий Замок describes the 1,200 g of cannabis as the total seized, without the separate car find of more than 500 g and the 30 g in intercepted parcels that the prosecutor's breakdown gives; the report keeps its own 1.73 kg sum.
+  - The account says the men were paid into a crypto wallet according to preliminary findings, but gives no amount or wallet details.
+  - The account describes the payment channel but not the shop or network the men worked for.
 ---
 
 Police in Lviv detained two men suspected of selling drugs and psychotropic
@@ -159,3 +166,5 @@ working to identify possible accomplices and supply channels. [@1] Officers
 searched the men's homes, the cars they used and the rented garage. [@2]
 
 Officers detained the 32-year-old in the act of posting another batch of parcels of amphetamine and PVP, and detained his 40-year-old accomplice the same day. [@4]
+
+According to preliminary findings, the men took payment into a crypto wallet. [@5]
