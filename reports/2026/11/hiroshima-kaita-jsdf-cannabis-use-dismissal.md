@@ -71,6 +71,11 @@ sources:
     publisher: TSS-TV テレビ新広島
     date: 2026-11-06
     language: ja
+  - title: 日本一自衛隊員因吸食大麻被開除
+    url: http://www.crntt.com/doc/7_0_107252479_1_1106152051.html
+    publisher: 中評社
+    date: 2026-11-06
+    language: zh
 open_questions:
   - No weight, form or value of the cannabis was published, so no cannabis quantity is recorded.
   - Sankei reports the soldier also used a type of synthetic drug; that substance is outside this tracker's scope and no quantities of any drug are given.
@@ -81,11 +86,18 @@ open_questions:
   - The Chinese account says only that the soldier was dismissed over cannabis and other drugs and gives no weight or form of the drug, so the report's open question on cannabis quantity remains.
   - The Sohu page credits Xinhua and cites Kyodo, so it is a wire reprint rather than independent reporting of the garrison's statement.
   - The TSS page shows a 7 November 2026 posting date although the dismissal took effect on 6 November; the report keeps 6 November as the incident date.
+  - The Chinese account is a Xinhua reprint of a Kyodo report and identifies the drugs only as cannabis and other drugs, without weights or forms.
+media:
+  - kind: photo
+    url: http://www.crntt.com/doc/7_0_107252479_1_1106152051.html
+    media_url: https://hkpic.crntt.com/upload/202611/6/107252482.jpg
+    publisher: 中評社
+    caption: Uncaptioned photo published with the Chinese account of the Kaita garrison dismissal; it is not established to show this case.
 ---
 
 Japan's Ground Self-Defense Force dismissed a 19-year-old private second class
 at the Kaita garrison in Hiroshima Prefecture on 6 November 2026 over cannabis
-use. [@1,5] The dismissal was pronounced by the 46th Infantry Regiment, the unit
+use. [@1,5,7] The dismissal was pronounced by the 46th Infantry Regiment, the unit
 at the Kaita garrison in Kaita town, Hiroshima Prefecture, according to the
 Chugoku Shimbun. [@3,6]
 
@@ -98,7 +110,7 @@ reported that neighbours complained about noise on the night of 29 August, that
 the soldier collapsed while officers questioned him and was taken to hospital,
 and that a drug test was positive. [@2] The Kaita police station arrested him in
 September on suspicion of violating the Narcotics and Psychotropics Control Law
-by use. [@2]
+by use. [@2,7]
 
 Asked about the matter in the garrison's hearing, the soldier said it was a
 momentary impulse and that he was deeply sorry. [@1] Colonel Manji Hyodo,
@@ -106,3 +118,5 @@ commander of the 46th Infantry Regiment, said the force would tighten
 instruction to its members and work to prevent a repeat. [@1] The Chugoku
 Shimbun reported that the garrison said this was the first time one of its
 members had been arrested over a drug case. [@4]
+
+Neighbours called police about noise on the night of 29 August, according to the Kyodo account carried by Xinhua. [@7]
