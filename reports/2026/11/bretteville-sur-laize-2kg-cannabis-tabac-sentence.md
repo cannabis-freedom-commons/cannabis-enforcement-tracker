@@ -62,11 +62,18 @@ sources:
     publisher: Ouest-France (Caen.maville.com)
     date: 2026-11-06
     language: fr
+  - title: 'Plus de 2 kg de cannabis et 4 140 € retrouvés à son domicile : un trafiquant de Bretteville-sur-Laize a été condamné'
+    url: https://www.ouest-france.fr/normandie/bretteville-sur-laize-14680/plus-de-2-kg-de-cannabis-et-4-140-euros-retrouves-a-son-domicile-un-trafiquant-de-bretteville-sur-laize-a-ete-condamne-3d10c820-d9d4-11f1-81f5-8e32b0872d76
+    publisher: Ouest-France.fr
+    date: 2026-11-06
+    language: fr
 open_questions:
   - Only the first two paragraphs of the article were readable; the sentence the Caen court imposed, any fine or confiscation order, and the tobacco quantities behind the smuggling charge were not published in the accessible text.
   - The article gives no separate date for the arrest or custody; 31 October 2026 is the date stated for the search and 4 November 2026 for the conviction.
   - The cannabis weight is given only as "more than two kilos" of resin and herb together, with no split between the two products.
   - The caption credits the photo to Stéphane Messager but does not say whether it shows the seized cannabis, the search or the gendarmes at the house.
+  - The article gives no details of the September 2026 investigation that preceded the search, and the tobacco quantities behind the smuggling charge remain unpublished.
+  - How the six-month firm term and the suspended probationary term combine into a total enforceable sentence is not spelled out in the accessible text.
 ---
 
 A 39-year-old man from Bretteville-sur-Laize, in the Calvados department of
@@ -79,3 +86,4 @@ house. [@1] The search also turned up €4,140 in cash. [@1] The sentencing
 hearing at the Caen judicial court, the Calvados court of first instance,
 followed the search by four days. [@1]
 
+The man, judged under a plea agreement procedure (comparution sur reconnaissance préalable de culpabilité), was given one year in prison, six months of it suspended, a two-year suspended term with probation and obligations of care and work, and a €4,000 fine. [@2]
