@@ -66,16 +66,23 @@ sources:
     publisher: Báo Công An Nhân Dân (via Báo Mới)
     date: 2026-11-07
     language: vi
+  - title: Khoảnh khắc bắt phạm nhân cuối cùng trốn Trại giam A2 trong căn nhà hoang
+    url: https://2sao.vn/khoanh-khac-bat-pham-nhan-cuoi-cung-tron-trai-giam-a2-trong-can-nha-hoang-5137638.html
+    publisher: 2Sao.vn
+    date: 2026-11-07
+    language: vi
 open_questions:
   - No new court step for the recaptured inmate is reported; he is back in custody with no new charge stated.
   - The reports give no weight or description of the drug in the trafficking case behind his 2025 sentence, so no cannabis quantity is recorded.
   - The three earlier arrests are described briefly, from accounts that report them as part of the same manhunt rather than as separate operations.
   - The hiding-place description comes from the Ministry of Public Security newspaper, republished on Báo Mới; the other outlets say only that he was caught in the Cây Cày forest area.
+  - This source describes the hiding place as an abandoned house in Suối Cau, while the existing report also cites an account that he hid in a concrete well shaft in the forested hills of the same village.
+  - This source gives no weight or description of the drug behind Tinh's 20-year trafficking sentence, so no cannabis quantity can be recorded.
 ---
 
 On the afternoon of 7 November, officers of Khánh Hòa province and the Ministry
 of Public Security arrested Hồ Văn Tình, the last of four inmates who had
-escaped from A2 Prison. [@1] Tình was serving a 20-year prison sentence for
+escaped from A2 Prison. [@1,5] Tình was serving a 20-year prison sentence for
 murder and for illegal drug trafficking and was a specially wanted fugitive.
 [@1]
 
@@ -88,7 +95,7 @@ Cày forest in Suối Cau village and neighbouring areas and set checkpoints on 
 roads into the area. [@1]
 
 Officers of the ministry's investigative units and Khánh Hòa police mobilised
-hundreds of officers and soldiers to find Tình. [@1] Before escaping, Tình had
+hundreds of officers and soldiers to find Tình. [@1,5] Before escaping, Tình had
 stabbed and seriously injured two police officers who came to arrest him in a
 drug case. [@2] In January 2025 the Gia Lai provincial court sentenced him to 20
 years in prison for murder and illegal drug trafficking. [@4]
@@ -102,3 +109,4 @@ trafficking, was arrested on 28 October. [@3] Lữ Văn Toàn, serving 20 years 
 murder, was caught before dawn on 3 November in the mountains of Bắc Khánh Vĩnh
 commune. [@3]
 
+Hồ Văn Tình was born in 2002 and lives in Gia Lai province. [@5] At the time he was caught, Tình was hiding in an abandoned house in Suối Cau village, Bắc Khánh Vĩnh commune, Khánh Hòa province. [@5] The hiding place lies in forest and mountain terrain about 20 km by road from A2 Prison in Diên Lâm commune. [@5]
