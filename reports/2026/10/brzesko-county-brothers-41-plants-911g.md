@@ -85,6 +85,11 @@ sources:
     publisher: Onet
     date: 2026-11-01
     language: pl
+  - title: Plantacja konopi ukryta na budowie domu. Bracia trafili do aresztu
+    url: https://lovekrakow.pl/gallery/74873/2
+    publisher: LoveKraków.pl
+    date: 2026-10-30
+    language: pl
 open_questions:
   - The 232 grams of mephedrone were left out of the cannabis weight because the tracker counts only cannabis.
   - The reports give 693 grams for the marijuana at the construction site while also describing it as almost 700 grams; the report uses 693 grams plus 218 grams, totalling 911 grams (0.911 kg).
@@ -94,7 +99,7 @@ open_questions:
 
 On 14 October 2026, officers from the Kraków provincial and municipal anti-drug
 units detained a 31-year-old man from Brzesko County on suspicion of drug
-dealing. [@2] Officers also detained his 30-year-old brother after 218 grams of
+dealing. [@2,4] Officers also detained his 30-year-old brother after 218 grams of
 marijuana found at the 31-year-old's residence was claimed by the younger
 brother. [@1,3] On 15 October 2026, the Brzesko District Court placed both men in
 pre-trial custody for three months. [@2,3] The 30-year-old was charged with
