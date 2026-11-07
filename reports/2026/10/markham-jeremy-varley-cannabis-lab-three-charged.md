@@ -111,6 +111,10 @@ sources:
     url: https://www.villagereport.ca/village-picks/police-dismantle-clandestine-drug-lab-in-markham-after-welfare-check-12990551
     publisher: Village Report
     date: 2026-11-06
+  - title: York Police uncover illegal drug lab in Markham, three people charged
+    url: https://redfm.ca/en-ca/toronto/news-articles/york-police-uncover-illegal-drug-lab-in-markham-three-people-charged
+    publisher: RED FM Toronto
+    date: 2026-11-06
 open_questions:
   - The article gives no time of day for the 23 October visit; that is the date police state for the welfare call, while the charges and volumes were announced in the 6 November release.
   - Some of the seized edibles could be psilocybin edibles, but police list only psilocybin powder separately, so all 12,962 packages and 26 kilograms of loose edibles are counted as cannabis.
@@ -132,6 +136,9 @@ open_questions:
   - The page is a reprint of the York Regional Police release with no independent reporting, so it does not add facts the report lacks.
   - The page's only image is a composite York Regional Police supplied graphic of production and distribution images, which could not be confirmed as distinct from the police handout photos already linked in the report, so no new media entry is added.
   - The text gives a weight ("26 kg") but the figures have no kg_seized; check whether it belongs there.
+  - RED FM names two of the accused as Joseph Li and Michelle Li and the third as Yuan Lin, the same spelling it uses for one accused while CityNews gave Yuan Li; the police spelling of the third accused's surname and given name remains unconfirmed.
+  - RED FM states that the charges have not yet been proven in court, which confirms only that no trial outcome had been reported when it published.
+  - The page's photo is captioned with the story headline and carries no credit, so it cannot be confirmed as a distinct photo of this raid and no media entry is added.
 ---
 
 Two men and one woman from Markham were arrested after York Regional Police
@@ -155,9 +162,11 @@ illegal substances. [@3]
 
 Investigators learned the drugs produced at the home were sold mainly online
 under the name Buddha Boys, through illegitimate websites that mailed or
-delivered the orders. [@1,5,6,7]
+delivered the orders. [@1,5,6,7,9]
 
 The Toronto Sun placed the home in the Jeremy and Fred Varley drives area, near
 Warden and 16th avenues. [@4]
 
 Ammonition, a conducted energy weapon and about C$100,000 in cash were seized at the residence. [@5]
+
+RED FM gives the accused as Joseph Li, 41, Yuan Lin, 39, and Michelle Li, 39, all of Markham, and states that the charges have not yet been proven in court. [@9]
