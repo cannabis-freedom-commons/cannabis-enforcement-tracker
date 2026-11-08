@@ -119,6 +119,11 @@ sources:
     publisher: مدار الساعة
     date: 2026-11-08
     language: ar
+  - title: القبض على 28 تاجرا ومروجا وضبط كميات كبيرةة من المخدرات خلال 15 قضية نوعية
+    url: https://www.sarahanews.net/1403731-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-28-%D8%AA%D8%A7%D8%AC%D8%B1%D8%A7-%D9%88%D9%85%D8%B1%D9%88%D8%AC%D8%A7-%D9%88%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A/
+    publisher: صراحة نيوز
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -162,6 +167,8 @@ open_questions:
   - The Ammon News English text puts the further Amman seizure at 25 slabs of hashish and 2.6 kilograms of marijuana, matching the English Petra release but not itemised against the Arabic statement, so the cannabis amounts cannot be matched case by case.
   - The page carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
   - The page shows one image captioned only with the story headline and no credit identifying what it depicts, so no media entry is added.
+  - Saraha News reproduces the same Public Security Directorate statement as the report's other sources, so it corroborates rather than independently reports the roundup.
+  - The page gives no separate date for the raids; 8 November 2026 is its publication date and the casework is described as running over the preceding days.
 media:
   - kind: photo
     url: https://a5r5br.net/jordan/local-news/8453952-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-28-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%81%D9%8A-15-%D9%82%D8%B6%D9%8A%D8%A9
@@ -172,16 +179,16 @@ media:
 
 Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
 officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16]
+and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17]
 
 In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
-capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6,11,13,15,16]
+capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6,11,13,15,16,17]
 Two active pushers in the capital were arrested with 20 blocks of hashish. [@1,5,11]
 Three pushers were arrested after a raid with five blocks of hashish and 1,500
 pills. [@1,5,11] South of Amman, officers raided a tent that three people used to
 trade, store and push drugs, arresting all three and seizing 2 kilograms of
 marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
-methamphetamine. [@1,3,4,5,6,7,11,12,13,15,16] Officers arrested three people in the last Amman case with
+methamphetamine. [@1,3,4,5,6,7,11,12,13,15,16,17] Officers arrested three people in the last Amman case with
 2,600 grams of marijuana. [@1,5,6,7,8,11,14,15,16] In the second Amman case three people were raided
 inside a flat they used to store drugs for sale, and officers seized 6,000 pills
 and a quantity of hashish. [@1,5,13,15] In a farm south of the capital officers arrested
