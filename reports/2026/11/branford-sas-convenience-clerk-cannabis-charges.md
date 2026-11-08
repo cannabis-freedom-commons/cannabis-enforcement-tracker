@@ -73,6 +73,10 @@ sources:
     url: https://www.msn.com/en-us/news/other/branford-smoke-shop-raided-after-tip-about-sales-to-minors-6-5-pounds-of-cannabis-seized-police/ar-AA2h1UZP
     publisher: CT Insider
     date: 2026-11-08
+  - title: 'Branford smoke shop raided after tip about sales to minors; 6.5 pounds of cannabis seized: Police'
+    url: https://www.ctinsider.com/news/article/branford-smoke-shop-cannabis-seizure-22519783.php
+    publisher: CT Insider
+    date: 2026-11-08
 open_questions:
   - The article gives no date for the inspection or the clerk's arrest; 8 November 2026 is its publication date and is used as the incident date.
   - The seizure weights are police approximations in pounds and include a combined category of concentrates and vape products, so no separate concentrate weight is recorded.
@@ -91,19 +95,20 @@ open_questions:
   - The WTNH/MSN copy gives the cannabis flower as more than 1 pound, while the report records 1.1 pounds (1.078 lb) from the Patch container-by-container account.
   - The submitted page is an MSN syndication of the WTNH story and its original WTNH address is already a cited source in the Branford report, so it is not an independent account.
   - Its page image is a portrait of the clerk at an MSN image address with no caption confirming the scene, so no separate media entry is added.
+  - This account gives the seizure as more than 6.5 pounds of cannabis, while the existing report records about 7 pounds from detailed outlet breakdowns; the report total is retained.
 ---
 
 A 33-year-old clerk at SAS Convenience Store on East Main Street in Branford,
 Connecticut, was charged with drug offences after police and state regulators
 seized cannabis products from a business not licensed to sell them. [@1,3,4]
 Branford police said they inspected the store after a resident reported that
-minors were buying marijuana products there. [@1,2,3,4,5] The business had previously
-traded under the name ASA Smoke Shop. [@1,3,5]
+minors were buying marijuana products there. [@1,2,3,4,5,6] The business had previously
+traded under the name ASA Smoke Shop. [@1,3,5,6]
 
 Police identified the clerk as Salah Kannane of Branford and charged him with
 possession of a controlled substance, operating a drug factory and three counts
-of sale of cannabis. [@1,2,4,5] He was released after posting a 50,000-dollar bond and
-is due in court on 17 November, the Branford Police Department said. [@1,2,4]
+of sale of cannabis. [@1,2,4,5,6] He was released after posting a 50,000-dollar bond and
+is due in court on 17 November, the Branford Police Department said. [@1,2,4,6]
 
 Detectives and agents from the Cannabis Control Division of the state Department
 of Consumer Protection seized about 1.5 pounds (0.68 kg) of cannabis edibles,
@@ -122,3 +127,5 @@ owner over alleged illegal drug sales there. [@1,3,4]
 The edibles weighed 1.5125 pounds in total and came in 17 containers of 100 mg THC each, 12 containers of 200 mg THC each and 8 containers of 1,000 mg THC each. [@3] The concentrates and vape products weighed 4.2125 pounds in total and came as 155 individual units. [@3] The cannabis flower weighed 1.078 pounds in total and came in 91 containers. [@3] Police said that in numerous instances they learned of illegal sales after a minor bought cannabis products at the store and a parent later found the products in the child's possession. [@3]
 
 Authorities said the business is not licensed by the state to sell marijuana or cannabis products. [@2]
+
+Alongside edibles, concentrates for vape products and flower, officers found two packages of kratom. [@6]
