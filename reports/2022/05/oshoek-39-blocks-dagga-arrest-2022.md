@@ -70,6 +70,10 @@ sources:
     url: https://truckandfreight.co.za/suspect-due-to-appear-in-court-for-dealing-in-dagga-and-for-possession-of-an-unlicensed-firearm/
     publisher: Truck and Freight
     date: 2022-05-05
+  - title: 'PICS: Bid to smuggle R1 million dagga into South Africa gets armed man arrested, vehicle seized'
+    url: https://iol.co.za/news/2022-05-05-pics-bid-to-smuggle-r1-million-dagga-into-south-africa-gets-armed-man-arrested-vehicle-seized/
+    publisher: IOL
+    date: 2022-05-05
 open_questions:
   - No weight was published for the 39 blocks of dagga, so no cannabis weight in kilograms can be recorded.
   - The suspect's name was not published.
@@ -83,12 +87,12 @@ Mpumalanga police arrested a 31-year-old man on 4 May 2022 after stopping his
 vehicle at Sector One along the Oshoek borderline. [@3] Officers on routine
 patrol duties had spotted the suspicious Toyota Hilux bakkie before stopping and
 searching it. [@1] Inside the bakkie they found 39 blocks of dagga, as well as a
-firearm in the driver's possession for which he produced no licence. [@1] He was
+firearm in the driver's possession for which he produced no licence. [@1,4] He was
 arrested on charges of dealing in dagga and possession of an unlicensed firearm.
 [@1]
 
 Police confiscated the dagga, which they valued at R1.2 million, together with
-the vehicle. [@1] The suspect was due to appear before the Eerstehoek
+the vehicle. [@1,4] The suspect was due to appear before the Eerstehoek
 Magistrate's Court on 5 May 2022. [@2] Mpumalanga police spokesperson Colonel
 Donald Mdhluli gave the account of the patrol, seizure and arrest. [@1]
 
@@ -96,4 +100,3 @@ The Mercury described the case as an attempt to bring dagga worth more than R1
 million into South Africa from the Kingdom of eSwatini. [@2] Provincial
 commissioner Lieutenant-General Semakaleng Manamela praised the Oshoek officers
 for ensuring the swift arrest of the suspect. [@3]
-
