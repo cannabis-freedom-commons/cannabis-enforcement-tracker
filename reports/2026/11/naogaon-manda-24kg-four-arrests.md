@@ -77,6 +77,10 @@ sources:
     publisher: Dhaka Mail
     date: 2026-11-01
     language: bn
+  - title: 'নওগাঁয় গাঁজা-চোর চক্রের সদস্যসহ গ্রেফতার ৬ Source: Dhaka Mail | Shironam থেকে'
+    url: https://shironam.com/news/6-arrested-in-naogaon-including-members-of-cannabis-and-van-theft-rings
+    publisher: Shironam
+    language: bn
 open_questions:
   - The cannabis raids ran from Saturday night through 8:30 a.m. Sunday; the report is dated to the 1 November press briefing that announced them.
   - No charges, court outcome, drug value or independent weighing was reported.
@@ -94,11 +98,14 @@ open_questions:
   - No charges, court outcome or drug value is given in this account.
   - This account gives no separate calendar date for the night raids; 1 November 2026 is the press-briefing and publication date used as the incident date.
   - The page carries a photo with the raid headline as its caption, but its visible content could not be verified from the text capture, so no media entry is added.
+  - The captured page is a short summary that gives no separate raid date; 1 November 2026 is the press-briefing date established by the existing report's fuller accounts.
+  - The page's image has an empty caption and credit, so whether it shows this seizure could not be established and no media entry is added.
+  - The same briefing's two van-theft arrests and 517 recovered mobile phones are separate non-cannabis events left out of the cannabis report.
 ---
 
 Naogaon District Detective Branch (DB) police arrested four alleged drug traders
 in separate raids across Manda, Sadar and Badalgachhi upazilas, sub-districts of
-Naogaon District. [@1,2,3,4,5,6] The four were identified as Arif Hossain, 30, of
+Naogaon District. [@1,2,3,4,5,6,8] The four were identified as Arif Hossain, 30, of
 Raghunathpur in Manda, Mosharraf, 33, of Sherpur Kuralipara in Mohadevpur, and
 brothers Shilong, 23, and Arafat, 23, of Badalgachhi. [@1,3] Superintendent of
 Police Mohammad Tarikul Islam announced the arrests at a press briefing at his
