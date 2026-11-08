@@ -94,6 +94,11 @@ sources:
     publisher: REFORMA
     date: 2026-11-07
     language: es
+  - title: Caen 4 con cocaína y marihuana - Quadratín México
+    url: https://mexico.quadratin.com.mx/caen-4-con-cerca-de-3-mil-envoltorios-de-cocaina-y-15-kilos-de-marihuana/
+    publisher: Quadratín México
+    date: 2026-11-07
+    language: es
 open_questions:
   - No weight is given for the roughly 3,000 suspected cocaine wrappers, so only the marijuana weight is counted and no combined drug total is used.
   - The sources give full surnames only as Guzmán or “N”; the minor is not named.
@@ -103,19 +108,19 @@ open_questions:
 ---
 
 Mexico City citizen-security officers detained four alleged members of La Unión
-Tepito in colonia Morelos in Venustiano Carranza. [@1,4,5,6,7,8,9] The detainees were a
+Tepito in colonia Morelos in Venustiano Carranza. [@1,4,5,6,7,8,9,10] The detainees were a
 24-year-old man, women aged 54 and 24, and a 16-year-old girl. [@2,6,8] The
 detainees were identified as Pedro “N”, Jovita “N” and Jessica “N”, plus the
 16-year-old girl, allegedly linked to the group's street-level drug dealing.
-[@3]
+[@3,10]
 
 Officers spotted a man handling a bag with drugs at the streets Carpintería and
 Mineros. [@1] The man ran into a tenement in the same area after noticing the
 police. [@1] Officers entered the common area and saw three more people handling
 other wrappers. [@1] Officers seized about 3,000 paper wrappers containing
-suspected cocaine. [@1] Officers also seized 25 transparent plastic bags holding
+suspected cocaine. [@1,10] Officers also seized 25 transparent plastic bags holding
 about 15 kilograms of apparent marijuana, plus eight mobile phones of different
-brands and models. [@1,4,9]
+brands and models. [@1,4,9,10]
 
 The four were told their constitutional rights and taken with what was seized to
 the Public Prosecutor's agent, who will open the investigation file and decide
