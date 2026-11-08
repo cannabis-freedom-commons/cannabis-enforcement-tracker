@@ -47,6 +47,10 @@ sources:
     url: https://www.dailyexcelsior.com/9-drug-peddlers-arrested-2/
     publisher: Daily Excelsior
     date: 2026-11-08
+  - title: 'Seven drug peddlers arrested in separate anti-narcotics operations across Kashmir: Police | KNO'
+    url: https://www.kashmirnewsobserver.com/top-stories/seven-drug-peddlers-arrested-in-separate-anti-narcotics-operations-across-kashmir-police-kno-207951
+    publisher: Kashmir News Observer
+    date: 2026-11-07
 open_questions:
   - The operations bear no separate date; 7 November 2026 is the publication date and the day officials said they spoke, so it is used as the incident date.
   - The Baramulla recovery is described only as a bhang-like substance, and the Anantnag and Handwara recoveries as charas or a charas-like substance; no laboratory confirmation is reported.
@@ -63,29 +67,30 @@ open_questions:
   - Daily Excelsior gives no weights for the Anantnag charas and heroin or the Handwara charas, and describes the Baramulla recovery only as a bhang-like substance.
   - The Anantnag portion of the roundup names the same five suspects held the day before, so it may re-report operations carried out on 6 November.
   - No laboratory confirmation of the substances and no court outcomes are reported.
+  - The KNO page's lead image has no caption or credit confirming it shows this operation, so it is not listed as media.
 ---
 
 Police arrested Ubair Ahmad Mochi of Kalantara Bala after stopping a Sumo
 passenger vehicle (JK05N-9646) at Cheradari during naka checking, a police
 checkpoint, and found two polythene packets of a bhang-like substance weighing
-about 822 grams in his bag. [@1] The vehicle was travelling from Baramulla
-towards Chandoosa. [@1] Police called a magistrate and independent witnesses to
+about 822 grams in his bag. [@1,4] The vehicle was travelling from Baramulla
+towards Chandoosa. [@1,4] Police called a magistrate and independent witnesses to
 the spot and completed the seizure proceedings under the prescribed procedure.
-[@1]
+[@1,4]
 
 Three other men stopped in the Anantnag district, Reyaz Ahmad Mir at Sangam,
 Zubair Sultan Reshi at Marhama and Rayees Ahmad Khan at DK Pora, were found with
-heroin or charas. [@1] Two further operations by Police Post Dialgam arrested
+heroin or charas. [@1,4] Two further operations by Police Post Dialgam arrested
 Yawar Ahmad Gani and Ubaid Manzoor Doobi, both residents of Fathepora, with
-charas recovered in personal searches. [@1] In Handwara, police stopped a tipper
+charas recovered in personal searches. [@1,4] In Handwara, police stopped a tipper
 (JK05B-5479) at Batagund and found a charas-like substance hidden in its
-dashboard. [@1] The tipper's driver, Irshad Ahmad Dar of Shanoo Langate, was
-arrested. [@1]
+dashboard. [@1,4] The tipper's driver, Irshad Ahmad Dar of Shanoo Langate, was
+arrested. [@1,4]
 
 All seven accused were taken into custody and police said further investigation
-into the cases was under way. [@1] Police said they would keep up the crackdown
+into the cases was under way. [@1,4] Police said they would keep up the crackdown
 on drug trafficking and asked the public to help in the fight against drugs.
-[@1]
+[@1,4]
 
 At Cheradari, police intercepted a passenger Sumo bearing registration No. JK05N-9646 travelling from Baramulla towards Chandoosa. [@2] At Batagund, police intercepted a tipper bearing registration No. JK05B-5479 with the charas-like substance concealed inside the dashboard. [@2] After the Baramulla recovery, the magistrate and independent witnesses were called to the spot and seizure proceedings were completed under the prescribed legal procedure. [@2]
 
