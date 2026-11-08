@@ -46,6 +46,11 @@ sources:
     publisher: Info976
     date: 2023-06-09
     language: fr
+  - title: Trente kilogrammes de résine de cannabis saisis à l’aéroport de Dzaoudzi
+    url: https://www.mayottehebdo.com/actualite/breves/trente-kilogrammes-de-resine-de-cannabis-saisis-a-laeroport-de-dzaoudzi/
+    publisher: Mayotte Hebdo
+    date: 2023-06-12
+    language: fr
 open_questions:
   - The two accounts differ slightly on the weight, 30 kilos in Mayotte La 1ère and 30,180 grams in Info976; the report uses Info976's figure of 30.18 kg and keeps the 30-kilo description in the text.
   - No arrest, charge, trial or court outcome was reported; the investigation was opened to find the owners of the suitcases.
@@ -53,19 +58,21 @@ open_questions:
   - The 2022 figure of 43.5 kg is Mayotte customs' total for the year and is not counted as part of this seizure.
   - The earlier airport cases mentioned (6 kilos of resin in a suitcase in November 2022, 20 kilos in April 2022, and 16 kilos posted from Le Mans in February 2023) are separate cases and are excluded from these figures.
   - The page's picture is a 2021 stock image of cannabis resin, not a photo of this seizure, so no media is linked.
+  - The page carries a photo whose caption is only the article slug; without a descriptive caption or credit it cannot be verified as showing this seizure, so no media is linked.
+  - The brief says the owners were not found but names no arrest; later case steps remain as stated in the existing report.
 ---
 
 Customs officers at Marcel Henry airport in Pamandzi found two suitcases left
 unclaimed on the arrivals belt after the last passengers of a flight from Paris
-Charles de Gaulle collected their bags on Saturday 3 June 2023. [@1] An X-ray
+Charles de Gaulle collected their bags on Saturday 3 June 2023. [@1,3] An X-ray
 scan showed suspicious images, and when the cases were opened they held nothing
-but slabs of cannabis resin. [@1] The 300 slabs weighed 30 kilos, a weight
+but slabs of cannabis resin. [@1,3] The 300 slabs weighed 30 kilos, a weight
 customs gave more exactly as 30,180 grams, and customs valued the load at 65,000
-euros on the national market. [@2]
+euros on the national market. [@2,3]
 
 The two suitcases were handed to the judicial investigation service of the
 police on the instructions of the public prosecutor's office, which opened an
-investigation, including to identify the owners of the baggage. [@2] No one had
+investigation, including to identify the owners of the baggage. [@2,3] No one had
 been arrested or charged in the case when the seizure was reported. [@1]
 
 The haul alone equalled 70 per cent of all the cannabis resin seized by
@@ -74,4 +81,3 @@ for Mayotte, where cannabis resin had been found at the airport before. [@1] In
 November 2022 a 19-year-old was sentenced to 18 months in prison and a
 3,000-euro fine after 6 kilos of resin were found in his suitcase at the
 island's airport. [@1]
-
