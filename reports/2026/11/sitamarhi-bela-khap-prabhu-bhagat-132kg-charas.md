@@ -59,6 +59,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-02
     language: hi
+  - title: 'सीतामढ़ी-हाजत से फरार 25 हजार का इनामी गैंगस्टर अरेस्ट:  4 महीने बाद STF-पुलिस ने पकड़ा, 1.3KG चरस बरामद - Sitamarhi News'
+    url: https://www.bhaskar.com/amp/local/bihar/sitamarhi/news/sitamarhi-gangster-arrested-stf-police-charas-seized-139571917.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-02
+    language: hi
 open_questions:
   - The raid happened on Sunday night / midnight of 1-2 November 2026; 2 November is used as the incident date while the first report calls it Sunday night.
   - The seizure is given as 1.320 kg in one report and rounded to 1.3 kg in the other; the report uses 1.320 kg.
@@ -73,10 +78,15 @@ open_questions:
   - Details in the existing report about the Bihar STF midnight tip, Jagdar-Parwaha road vehicle checks, bike seizure, NDPS case No. 287/26 and 12 prior cases come from the second source and are not in this opened capture.
   - The opened capture preserves only the headline and metadata description, not the full article body, so name Prabhu Bhagat, Bela Khap location and case details are matched from the existing report rather than this capture.
   - The page carries a news video and thumbnail image, but the capture does not establish that they show the arrest or seizure, so no media entry is added.
+  - The Dainik Bhaskar text gives the night of 1 November for the arrest, while the existing report dates it to the night of 1-2 November after the midnight STF tip.
+  - The amount is given as about 1.3 kilograms of a substance described as like charas, against 1.320 kilograms in the Prabhat Khabar account used in the report's figures.
+  - Dainik Bhaskar names the arrest spot as Bela Chhap Mor, written बेला छाप मोड़, while other accounts give Bela Khap.
+  - The page's single photo carries no caption or credit, so it is not listed as media.
+  - The standard page's readable text capture contains only the headline and paywall notice; the article body is available as text on the AMP version of the same page, which is the cited source for the new details.
 ---
 
 Parihar police arrested Rs 25,000-reward wanted criminal Prabhu Bhagat at Bela
-Khap village on Sunday night. [@1,3,4] Bihar STF told Parihar station chief Pankaj
+Khap village on Sunday night. [@1,3,4,5] Bihar STF told Parihar station chief Pankaj
 Kumar Yadav around midnight of 1-2 November that Bhagat would travel the
 Jagdar-Parwaha road toward Sitamarhi, after which police started vehicle checks
 near Bela Khap crossing. [@2] Officers encircled and caught Bhagat as he arrived
@@ -88,3 +98,5 @@ narcotics law. [@2]
 Police say Bhagat faces 12 criminal cases across Parsauni, Sitamarhi Town, Riga,
 Bathnaha and Parihar stations for robbery, dacoity, murder, Arms Act and NDPS
 Act offences, including the escape case. [@2]
+
+A joint team of the Bihar STF and Sitamarhi district police held him near Bela Chhap Mor on a tip-off in the middle of the night of 1 November. [@5] Police recovered from him about 1.3 kilograms of a narcotic substance like charas and a motorcycle. [@5] Parihar police had first arrested Bhagat with charas during a vehicle check on 28 June 2026. [@5] On the morning of 29 June he escaped from the lockup toilet by breaking the glass of a ventilator. [@5] Three night watchmen, called chowkidars, were suspended for negligence during that escape, and an inquiry was ordered. [@5] Police headquarters had announced a Rs 25,000 reward for his arrest. [@5] Bhagat is from Madanpur village in the Parsauni police station area. [@5] Additional Superintendent of Police Ashish Anand said further legal action was under way. [@5]
