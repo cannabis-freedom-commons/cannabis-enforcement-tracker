@@ -232,6 +232,11 @@ sources:
     publisher: Ajans Türk Haber
     date: '2026-11-02'
     language: tr
+  - title: Pendik otoyolunda nefes kesen takip! Kamyonet kasasından 336 kilo uyuşturucu çıktı
+    url: https://www.gzt.com/gundem/istanbulda-uyusturucu-operasyonu-336-kilo-skunk-ele-gecirildi-4274766
+    publisher: GZT
+    date: 2026-11-02
+    language: tr
 open_questions:
   - >-
     The exact day of the operation is inferred as 1 November 2026 from both reports' wording that it occurred
@@ -413,7 +418,7 @@ open_questions:
     van, driver initials and 336 kg 550 g seizure identify the same case.
 ---
 
-Istanbul police detained a driver after seizing 336.55 kilograms of skunk from a van in Pendik. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32]
+Istanbul police detained a driver after seizing 336.55 kilograms of skunk from a van in Pendik. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33]
 
 Istanbul narcotics police stopped a closed-box van on a highway in Pendik and
 detained its driver, identified only by the initials Ü.A. [@1,3,8,9,11,15,16,19,20,22] Officers took
