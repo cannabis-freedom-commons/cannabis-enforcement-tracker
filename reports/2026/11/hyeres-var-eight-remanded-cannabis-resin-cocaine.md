@@ -63,6 +63,16 @@ sources:
     publisher: Var Actu
     date: 2026-11-06
     language: fr
+  - title: 'Var : Armes automatiques, cocaïne et vêtements de luxe… Un trafic de drogue démantelé à Hyères'
+    url: https://fr.news.yahoo.com/sport/var-armes-automatiques-coca%C3%AFne-v%C3%AAtements-135858895.html
+    publisher: Yahoo! Actualités (20 Minutes)
+    date: 2026-11-08
+    language: fr
+  - title: 'Hyères : Cocaïne, armes de poing et 35 600 euros saisis, huit trafiquants présumés écroués'
+    url: https://actu17.fr/faits-divers/hyeres-cocaine-armes-de-poing-et-35-600-euros-saisis-huit-trafiquants-presumes-ecroues.html
+    publisher: Actu17
+    date: 2026-11-07
+    language: fr
 open_questions:
   - The Nice-Matin account gives no date for the raids; 3 November 2026 comes from Var Actu.
   - Var Actu reports a judicial investigation opened in March 2026, while Nice-Matin says the Toulon prosecutor opened one after the May 2025 discovery.
@@ -75,15 +85,15 @@ open_questions:
 Eight people were remanded in custody on Thursday 5 and Friday 6 November 2026
 after being placed under formal investigation in Toulon over a drug-trafficking
 network centred on Hyères, the public prosecutor of Toulon, Raphaël Balland,
-announced. [@1] The investigating judge accused them of taking part in the
+announced. [@1,3] The investigating judge accused them of taking part in the
 trafficking; they are presumed innocent until a court rules. [@2] The raids were
 carried out on Tuesday 3 November 2026 in Hyères, Solliès-Pont, La Farlède and
 La Londe-les-Maures, with the help of the RAID, the national police intervention
-unit. [@2] Eight people were detained in the operation, all of them later placed
+unit. [@2,4] Eight people were detained in the operation, all of them later placed
 in pre-trial detention. [@2]
 
 The searches that followed the raids turned up 5.5 kg of cocaine, 7.7 kg of
-cannabis resin and 1 kg of cannabis herb, the prosecutor's office said. [@1]
+cannabis resin and 1 kg of cannabis herb, the prosecutor's office said. [@1,3]
 Officers also seized €35,600 in cash, two semi-automatic pistols, large
 quantities of ammunition, packaging material for drugs, vehicles and some luxury
 clothing. [@1]
@@ -99,3 +109,4 @@ judicial police, and the Toulon prosecutor's office opened a judicial
 investigation in March 2026. [@2] The case is continuing before an investigating
 judge at the Toulon judicial court. [@1]
 
+The seizures in the case amounted to more than 14 kg of drugs, along with two handguns and €35,600 in cash. [@4] The eight suspects lived in Hyères, Solliès-Pont, La Farlède and La Londe-les-Maures. [@3]
