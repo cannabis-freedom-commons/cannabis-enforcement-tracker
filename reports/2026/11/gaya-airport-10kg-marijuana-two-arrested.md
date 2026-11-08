@@ -101,6 +101,11 @@ sources:
     publisher: News24 Hindi
     date: 2026-11-05
     language: hi
+  - title: बैग में मिला 10 करोड़ का गांजा, थाईलैंड से गयाजी एयरपोर्ट पहुंची पंजाब की दो महिला गिरफ्तार
+    url: https://www.etvbharat.com/hi/state/two-punjab-women-arrested-at-gayaji-airport-with-ganja-worth-10-crore-brs26110501269
+    publisher: ETV Bharat
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The reported Rs 10 crore international-market valuation was explicitly described as not officially confirmed, so no value is recorded.
   - No charges, custody ruling or court outcome were reported; the customs investigation was still under way.
@@ -134,6 +139,7 @@ open_questions:
   - Al-Estad says the women were caught on their arrival on Wednesday, which is consistent with the recorded 4 November 2026 date but gives no time for the arrest.
   - The News24 account does not name the two women or report charges, custody orders or a court outcome.
   - The News24 account gives no separate seizure day beyond a Wednesday-morning arrival from Thailand; 4 November 2026 is retained from the existing report.
+  - The ETV Bharat account says the pair was flown to Patna for further proceedings but does not say which agency took them or what charges, if any, were filed.
 ---
 
 Customs officers at Gaya International Airport arrested two women from Punjab
@@ -164,3 +170,5 @@ Customs officials said both women arrived from Chiang Mai International Airport 
 Officials said the women's permanent addresses in Punjab were still being verified. [@6,10,13]
 
 The Times of India reports that the accused were produced before the court of the chief judicial magistrate on Thursday, the day after the seizure. [@12] An official said security and intelligence agencies had stepped up surveillance at Gaya airport after the seizure to curb smuggling of narcotics, gold and foreign currency. [@12] Authorities said legal proceedings were under way and that they were still assessing the value of the seized consignment. [@12]
+
+Airport director Awadhesh Kumar said the women were kept overnight in the airport guest house under CISF guard because questioning and legal formalities had taken most of the day, and that they would be taken to Patna the next day. [@15]
