@@ -65,6 +65,11 @@ media:
       The page's feature image, captioned as the seizing of an international network accused of
       smuggling Captagon and drugs into the UAE; the page gives no credit and the picture is not
       established to show this seizure.
+  - kind: photo
+    url: https://www.middle-east-online.com/en/uae-and-iraq-carry-out-joint-operation-against-drug-smuggling-network
+    media_url: https://www.middle-east-online.com/sites/default/files/2026-11/UAE.jpeg
+    publisher: MEO (Middle East Online)
+    caption: Seized Captagon pills and other narcotics displayed after the UAE operation conducted with Iraqi authorities' assistance; the page gives no photo credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 046f618050dae4ea03e407090bc5a422
@@ -241,6 +246,10 @@ sources:
     publisher: Lovin Dubai
     date: 2026-11-07
     language: ar
+  - title: UAE and Iraq carry out joint operation against drug-smuggling network
+    url: https://www.middle-east-online.com/en/uae-and-iraq-carry-out-joint-operation-against-drug-smuggling-network
+    publisher: MEO (Middle East Online)
+    date: 2026-11-06
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -310,11 +319,13 @@ open_questions:
   - The page calls Spice simply التوابل (spice) and attributes no quantities by substance; it reports no charges or court stage.
   - The page's lead image has no caption and no credit, so it is not established to show this seizure and no media entry is added.
   - The page lists four emirates as the operation's area — Dubai, Sharjah, Ras Al Khaimah and Ajman — without saying where individuals were arrested.
+  - MEO attributes its account to the UAE National Drug Enforcement Authority, the name it uses for the federal anti-narcotics body, and adds no independent figures or separate cannabis weight.
+  - MEO does not say where the suspects who were not caught at the border were arrested.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
-6 November 2026. [@1,6,7,8,9,10,11,12,13,15,16,18,19,20,21,22,24,25,26,29,30,31,32,33,35] The suspects are described as holding Gulf, Arab, African
+6 November 2026. [@1,6,7,8,9,10,11,12,13,15,16,18,19,20,21,22,24,25,26,29,30,31,32,33,35,36] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
 link of the plan, from smuggling to preparation for dealing. [@1,2,6,10,14,24,27,34,35]
 
@@ -322,16 +333,16 @@ Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
 surveillance, Shafaq News reported. [@4,5,8,10,11,12,13,15,17,18,21,22,24,25,34] The network planned to bring the drugs
 in through a border area of Ras Al Khaimah and then distribute them around the
-country. [@1,8,9,10,12,16,17,18,19,20,21,22,23,24,27,28,29,30,31,32,34,35]
+country. [@1,8,9,10,12,16,17,18,19,20,21,22,23,24,27,28,29,30,31,32,34,35,36]
 
 The haul included marijuana and hashish among cocaine, crystal methamphetamine
 and Spice; the latter is a synthetic drug and is not counted as cannabis here.
 [@2,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25,26,27,29,31,32,33,34,35] The operation also seized 200,000 Captagon pills and more than 30 kg of
-drugs in total, with no separate figure given for the cannabis. [@3,11,12,17,19,20,24,27,29,30,34]
+drugs in total, with no separate figure given for the cannabis. [@3,11,12,17,19,20,24,27,29,30,34,36]
 
 The National Anti-Narcotics Agency ran the operation with Ras Al Khaimah Police,
 Iraq's General Directorate for Narcotics and Psychotropic Substances and the
-Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10,11,12,20,23,24,25,29,34]
+Federal Public Prosecution, after the UAE and Iraq exchanged intelligence. [@2,8,9,10,11,12,20,23,24,25,29,34,36]
 The agency said the operation struck a blow at trafficking networks and called
 on the public to report suspicious activity. [@1,18,20,24,34]
 
