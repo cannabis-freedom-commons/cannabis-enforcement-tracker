@@ -42,6 +42,11 @@ media:
     media_url: https://doiszsroym.erbvr.com/vms/5/13/62/51362bc5-8c69-4815-afd9-c55b26e7f793/51362bc5-8c69-4815-afd9-c55b26e7f793_1080p_800k.mp4
     publisher: Sabah
     caption: Sabah's 55-second video report on the Adana gendarmerie operation seizing 7 kg 108 g of kubar esrar in Seyhan; the file is hosted from Sabah's video delivery server and carries no separate credit.
+  - kind: photo
+    url: https://www.cukurovametropol.com.tr/seyhanda-jandarmadan-uyusturucu-operasyonu-7-kilo-esrar-bulundu
+    media_url: https://cukurovametropolcomtr.teimg.com/crop/1280x720/cukurovametropol-com-tr/uploads/2026/11/jandarmadan-uyusturucu-operasyonu-7-kilo-108-gram-esrar-ele-gecirildi.jpg
+    publisher: Çukurova Metropol
+    caption: The page image published with the Çukurova Metropol report on the Adana gendarmerie operation, captioned only with the headline of the raid in which 7 kg 108 g of kubar esrar was seized; it has no stated photographer or agency credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0c606ee066e430424f5e68dadfd89294
@@ -122,6 +127,11 @@ sources:
     publisher: Aksiyon
     date: 2026-11-07
     language: tr
+  - title: 'Seyhan''da Jandarmadan Uyuşturucu Operasyonu: 7 Kilo Esrar Bulundu'
+    url: https://www.cukurovametropol.com.tr/seyhanda-jandarmadan-uyusturucu-operasyonu-7-kilo-esrar-bulundu
+    publisher: Çukurova Metropol
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports give no separate date for the raids; 7 November 2026 is the publication date and is used as the incident date.
   - No charge, court step, suspect name or estimated value of the cannabis was published; the investigation was said to be continuing.
@@ -152,15 +162,18 @@ open_questions:
   - İlkhaber Gazetesi credits the text to İHA and reproduces the same agency account as the outlets already cited, so it is not independent reporting.
   - The İlkhaber page gives no separate date for the raids; 7 November 2026 is its publication date and the date of the reported statement.
   - The İlkhaber page image is captioned only with the headline and carries no photographer or agency credit, so whether it shows this seizure is not established and no media entry is added.
+  - The Çukurova Metropol page gives no separate date for the raids; 7 November 2026 is its publication date and the date of the agency dispatch, as in the existing report.
+  - 'The page credits İHA ("Kaynak: İHA") and reproduces the same agency account already cited, so it is not independent reporting.'
+  - The page image is captioned only with the headline and carries no photographer or agency credit, so whether it shows this seizure is not established.
 ---
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses
 identified in Seyhan, a central district of Adana province, in a continuing
-anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8,10,11,12,13,14,15] Searches at the two addresses turned
+anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8,10,11,12,13,14,15,16] Searches at the two addresses turned
 up 7,108 grams of kubar esrar, a pressed form of cannabis known in Turkey as
-esrar. [@1,4,5,6,7,9,10,11,12,13,14,15] Gendarmes detained two suspects in the operation. [@1,4,5,6,9,10,11,12,13,14,15]
+esrar. [@1,4,5,6,7,9,10,11,12,13,14,15,16] Gendarmes detained two suspects in the operation. [@1,4,5,6,9,10,11,12,13,14,15,16]
 
-The investigation into the case was continuing. [@1,4,5,6,10,11,13,14] The gendarmerie command
+The investigation into the case was continuing. [@1,4,5,6,10,11,13,14,16] The gendarmerie command
 said its teams were continuing their work against smuggling and drugs. [@2] The
 agency account reported the haul as 7 kg 108 g of kubar esrar. [@2] The
 operation was carried out at two addresses designated in Seyhan district, and
@@ -169,3 +182,5 @@ two suspects were taken into custody in it. [@3]
 Gendarmes raided two addresses identified in Seyhan district in simultaneous operations. [@5]
 
 The two suspects were taken to the Adana Provincial Gendarmerie Command for questioning, and a wide-ranging investigation into the case was said to be continuing. [@12] Gendarmes carried out the simultaneous raids on the two addresses after intelligence work and physical surveillance of premises where drugs were said to be kept and sold. [@12]
+
+The seized drugs were confiscated. [@16]
