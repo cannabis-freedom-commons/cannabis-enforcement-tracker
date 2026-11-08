@@ -54,6 +54,11 @@ sources:
     publisher: Sangbad Pratidin
     date: 2026-11-08
     language: bn
+  - title: চিনির বস্তায় ঠাসা কেজি কেজি গাঁজা! ঘরের মেঝে খুঁড়তেই চক্ষু চড়কগাছ পুলিশের, ঝাড়গ্রামে গ্রেপ্তার ১
+    url: https://www.sangbadpratidin.in/app/bengal/three-sacks-of-ganja-recovered-from-under-the-floor-of-a-house-in-jhargram-one-arrested/pid/1419787/
+    publisher: Sangbad Pratidin
+    date: 2026-11-08
+    language: bn
 open_questions:
   - The article is dated 8 November 2026, a Sunday, and says the raid happened on Saturday night; 7 November 2026 is used as the incident date.
   - No valuation of the seized ganja was published.
@@ -64,6 +69,9 @@ open_questions:
   - The page labels its illustration as an AI image, so no photo of this event can be listed from this source.
   - Sangbad Pratidin, like the Anandabazar report already cited, describes the search as happening on Saturday night without giving a calendar date; 7 November 2026 stands in for the incident date.
   - The article also recounts other recent Jhargram recoveries, including 374 g at Binpur, 36 kg on the Kharagpur-Chichira highway and 3 kg at Baita in Lalgarh; those are separate events left out here.
+  - Sangbad Pratidin dates the earlier Binpur recovery and the 36 kg Khargpur-Chichira national highway haul to Friday and Wednesday nights without calendar dates; those are separate events left out here.
+  - The same Sangbad Pratidin article reports a further recent Lalgarh Baitha case in which a woman was arrested with 3 kg of ganja, which is a different event covered by its own report.
+  - Several of this page's Bengali sentences describing the search, the buried sacks, the weight and the SDPO's statement could not be matched by the service's quotation check, so only the campaign sentence is attached as a citation; the page is otherwise the same account as the Anandabazar report already cited.
 ---
 
 Police in Jhargram searched the house of Biswajit Sheel in Chandipur village in
@@ -86,6 +94,6 @@ People in the area are used to ganja being recovered from searches of stopped
 trucks, buses, cars and motorbikes. [@1] Many cannot recall a recent case of
 sack upon sack of ganja being found stored under the earth inside a house. [@1]
 At the district police's initiative an anti-drug campaign is being run across
-Jhargram. [@1]
+Jhargram. [@1,3]
 
 The house was a very plain thatched dwelling with uneven brick walls, a temporary shack of a roof and an earthen floor. [@2]
