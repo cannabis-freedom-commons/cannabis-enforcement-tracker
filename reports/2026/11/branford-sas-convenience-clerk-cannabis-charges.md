@@ -84,6 +84,9 @@ open_questions:
   - Patch reports the cannabis categories as pounds and counts of containers and units, with concentrates and vape products combined, so no separate concentrate weight can be derived.
   - The submitted page is an MSN syndication of the WFSB story and repeats its wording without additional reporting; it gives no new details or answers to the report's open questions.
   - The syndicated page shows a portrait image of the clerk but no direct image address for it could be confirmed from the captured page.
+  - The WTNH/MSN copy gives the cannabis flower as more than 1 pound, while the report records 1.1 pounds (1.078 lb) from the Patch container-by-container account.
+  - The submitted page is an MSN syndication of the WTNH story and its original WTNH address is already a cited source in the Branford report, so it is not an independent account.
+  - Its page image is a portrait of the clerk at an MSN image address with no caption confirming the scene, so no separate media entry is added.
 ---
 
 A 33-year-old clerk at SAS Convenience Store on East Main Street in Branford,
@@ -113,3 +116,5 @@ sales at the store, and that they had previously arrested store clerks and the
 owner over alleged illegal drug sales there. [@1,3,4]
 
 The edibles weighed 1.5125 pounds in total and came in 17 containers of 100 mg THC each, 12 containers of 200 mg THC each and 8 containers of 1,000 mg THC each. [@3] The concentrates and vape products weighed 4.2125 pounds in total and came as 155 individual units. [@3] The cannabis flower weighed 1.078 pounds in total and came in 91 containers. [@3] Police said that in numerous instances they learned of illegal sales after a minor bought cannabis products at the store and a parent later found the products in the child's possession. [@3]
+
+Authorities said the business is not licensed by the state to sell marijuana or cannabis products. [@2]
