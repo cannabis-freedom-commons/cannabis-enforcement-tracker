@@ -5023,6 +5023,7 @@
 "https://www.juruaemtempo.com.br/wp-content/uploads/2026/10/0014587.webp":{"status":"ok","sha256":"22f1abfe618a513274a233a65de4422abbca7fa6814a1e8bb917e960cd3a3497","width":923,"height":474,"type":"image/webp","thumbhash":"WecNFIJvlnh4mGh3h4jfe/19hg==","bytes":22694,"fetched":"2026-11-06T02:40:14.267Z","via":"download"},
 "https://www.kalbela.com/assets/news_photos/2026/10/30/image_344360_1793339902.png":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-06T02:39:03.831Z"},
 "https://www.kalbela.com/assets/news_photos/2026/10/30/image_344364_1793340451.webp":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-06T02:40:00.326Z"},
+"https://www.kalbela.com/assets/news_photos/2026/11/04/image_346318_1793804095.webp":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-08T18:20:04.705Z"},
 "https://www.kalbela.com/assets/news_photos/2026/11/06/image_346878_1793934038.webp":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-06T10:31:48.555Z"},
 "https://www.kalbela.com/assets/news_photos/2026/11/06/image_347062_1793980700.webp":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-07T00:38:23.692Z"},
 "https://www.kalersomaj.com/media/imgAll/2024October/04-20261108105459.jpg":{"status":"ok","sha256":"fe653a6b48a228be40a4f12d00ecbd8ee39cdf6366248ba97a7171bf9c658e93","width":725,"height":400,"type":"image/jpeg","thumbhash":"4OcJDIJqdsSKmXiEdl9wQCAGVQ==","bytes":119268,"fetched":"2026-11-08T11:53:49.242Z","via":"service"},
