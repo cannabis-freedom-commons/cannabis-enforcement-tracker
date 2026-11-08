@@ -66,7 +66,7 @@ sources:
     date: 2026-02-22
 ---
 
-Officers of the Trinidad and Tobago Police Service seized 109 packets of cannabis weighing 57.42 kilograms from two apartment buildings in the Reform Phase 4 Residential Development in Gasparillo on 21 February 2026. [@1,2] Police estimated its street value at TT$6,316,200 and described the cannabis as high-grade Colombian. [@1,2]
+Officers of the Trinidad and Tobago Police Service seized 109 packets of cannabis weighing 57.42 kilograms from two apartment buildings in the Reform Phase 4 Residential Development in Gasparillo on 21 February 2026. [@1,2,3] Police estimated its street value at TT$6,316,200 and described the cannabis as high-grade Colombian. [@1,2]
 
 The search followed intelligence that a shipment had recently been imported from South America and was being stored in Gasparillo; further intelligence identified two premises in the development. [@1,2,3] Officers carried out surveillance at both locations, then executed search warrants with support from the Southern Division Task Force. [@1,2]
 
@@ -75,3 +75,5 @@ The drugs and TT$119,900 and US$146 in cash were concealed inside one of the apa
 The police service said the operation was part of its work against the importation, storage and distribution of illegal narcotics and involved coordination between divisions. [@1]
 
 The Jamaica Observer, reporting the police statement for the Caribbean Media Corporation, said officers carried out the search at two apartment buildings and that the TTPS said arrests were imminent. [@4] The police service said the seizure showed the importance of coordination between divisions in dismantling organised criminal networks. [@4]
+
+The Guardian reported that police received information that a shipment of narcotics had been imported from South America and was being stored at a location in Gasparillo. [@3] Coordination was established with the Southern Division Task Force before officers executed the search warrants at the two apartment buildings. [@3]
