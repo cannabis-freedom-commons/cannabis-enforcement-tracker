@@ -65,6 +65,11 @@ sources:
     publisher: CataniaToday
     date: 2026-11-08
     language: it
+  - title: Spacciava hashish da casa, arrestato 18enne a Bronte
+    url: https://www.freepressonline.it/2026/11/08/spacciava-hashish-da-casa-arrestato-18enne-a-bronte/
+    publisher: Free Press Online
+    date: 2026-11-08
+    language: it
 open_questions:
   - The articles give no separate date for the raid; 8 November 2026 is the publication date and is used as the incident date.
   - Only the 22 grams recovered behind the mirror is stated as a weight; the 20 doses in the shoulder bag and the three doses held by the buyers are not weighed, so the total hashish seized cannot be stated.
@@ -86,23 +91,23 @@ to be tested in court. [@1]
 
 Officers had watched a steady stream of young people entering and leaving the
 building where he lived, day and night, and set up discreet observation posts at
-a distance. [@1] When two customers knocked and were let in, the Carabinieri
+a distance. [@1,4] When two customers knocked and were let in, the Carabinieri
 went through the door they had left open and found the two visitors and the
 pusher inside. [@1] The 18-year-old was carrying a shoulder bag with 20 doses of
 hashish, and each of the two visitors had one dose in a pocket, packaged just
-like his, probably bought moments earlier. [@1]
+like his, probably bought moments earlier. [@1,4]
 
 The search of the flat turned up another 22 grams of hashish hidden behind a
 mirror in the bedroom and, in a kitchen drawer, packaging material, a precision
 scale, a flick knife 18.5 cm long (blade 8.5 cm) and two grinders coated with
-drug residue. [@1] During the operation a 38-year-old man turned up at the flat,
+drug residue. [@1,4] During the operation a 38-year-old man turned up at the flat,
 apparently unaware the officers were there and reportedly intending to buy
-drugs, and he was found with two doses of hashish in his trouser pocket. [@1]
+drugs, and he was found with two doses of hashish in his trouser pocket. [@1,4]
 
 On the order of the judicial authority the 18-year-old was placed under house
 arrest, while the three buyers, including the 38-year-old, were reported to the
 prefecture, the provincial office that handles drug-use measures such as
-driving-licence withdrawal, rather than arrested. [@1] The seized drugs were
+driving-licence withdrawal, rather than arrested. [@1,4] The seized drugs were
 sent to the Carabinieri LASS laboratory in Catania, which analyses narcotics,
 for further technical checks ordered by the judicial authority. [@1,3] A second
 Catania outlet published the same Carabinieri account of the arrest, the seizure
