@@ -41,6 +41,10 @@ open_questions:
   - All reports relay the same Ministry of Internal Affairs statement and are not independent of each other.
   - The ministry's total of about 120 kg includes raw materials for drug production; the itemized marijuana seizures add up to 117 kg.
   - The value of the seized drugs, the names of the six detainees and their exact places of detention were not published.
+  - The Turkish page renders the Merke district village as Karasu and the district as Merken, and the railway as Shu – Tatti; the names are transliterations of the Kazakh names.
+  - The Turkish account says the 25 kg seized at Turksib station were cannabis plants, while the Russian accounts say cannabis-containing plants; no split between plant material and dried drug was published.
+  - AIRPress says three of the six detainees had earlier drug-offence records, while the ministry accounts name records for the Karasu suspect and two of the three Shu suspects.
+  - No court outcome, drug valuation or identities of the six detainees were published.
 sources:
   - title: Схроны с марихуаной на 120 кг обнаружили в Жамбылской области
     url: https://www.inform.kz/ru/shroni-smarihuanoy-na120-kgobnaruzhili-vzhambilskoy-oblasti-03898e42
@@ -55,6 +59,21 @@ sources:
   - title: 120 kg of cannabis drugs seized in southern Kazakhstan
     url: https://infohub.kz/en/article/kazakhstan-zhambyl-120kg-cannabis-drugs-seized
     publisher: infohub.kz
+  - title: Kazakistan'ın güneyinde 120 kg esrar ele geçirildi
+    url: https://infohub.kz/tr/article/kazakistan-jambil-uyusturucu-esrar-gozalti
+    publisher: infohub.kz
+    date: 2026-09-16
+    language: tr
+  - title: 'Наркосхроны нашли в Жамбылской области: изъято 120 кг наркотиков'
+    url: https://24.kz/ru/news/incidents/792329-narkoskhrony-nashli-v-zhambylskoj-oblasti-izyato-120-kg-narkotikov
+    publisher: 24KZ
+    date: 2026-09-16
+    language: ru
+  - title: Тайники с 120 кг марихуаны вскрыли в Жамбылской области
+    url: https://airpress.kz/social/zhambylskaya-oblast-tajniki-marihuana-120-kg/
+    publisher: AIRPress
+    date: 2026-09-16
+    language: ru
 media:
   - kind: photo
     url: https://www.inform.kz/ru/shroni-smarihuanoy-na120-kgobnaruzhili-vzhambilskoy-oblasti-03898e42
@@ -70,7 +89,7 @@ media:
 
 Six people were detained and about 120 kg of marijuana and raw material for
 drug production was taken from three hidden caches in Kazakhstan's Zhambyl
-region, the Ministry of Internal Affairs announced on 16 September 2026. [@1,2,3]
+region, the Ministry of Internal Affairs announced on 16 September 2026. [@1,2,3,4]
 
 Near the village of Karasu in Merke district, officers caught a local resident
 red-handed as he pulled 20 kg of marijuana from an underground cache; the
@@ -78,12 +97,14 @@ ministry said he had been convicted several times before for selling drugs.
 [@1,2,3] In Shu district, three local residents were detained while digging up
 a cache near one of the region's plants; the five sacks of dried marijuana
 inside weighed 72 kg, and two of the three had previously faced criminal
-liability for drug trafficking. [@1,2,3] At Turksib station on the Chu–Tatti
+liability for drug trafficking. [@1,2,3,5] At Turksib station on the Chu–Tatti
 railway section, two more local residents were detained and 25 kg of
-cannabis-containing plants were seized from them. [@1,2,3]
+cannabis-containing plants were seized from them. [@1,2,3,5]
 
 Pre-trial investigations were opened against all six for possession of drugs
 on an especially large scale, and the detainees were placed in a temporary
 holding facility. [@1,2,3] The operations ran under Operation Karasora 2026,
 which the ministry said is closing transit channels for cannabis-group drugs
 from the country's southern regions. [@1,2,3]
+
+The three detainees from the Shu cache had all previously been held liable for drug offences, the ministry said. [@6] The operations take place within Operation Qarasora-2026, the republic-wide police drive covering the Shu Valley, an area of more than 60,000 hectares, and the foothill zones of the southern regions. [@6]
