@@ -102,6 +102,11 @@ sources:
     publisher: रॉयल बुलेटिन
     date: 2026-11-08
     language: hi
+  - title: मेरठ के चार तस्कर मुजफ्फरनगर में 25 किलो गांजे के साथ गिरफ्तार,
+    url: https://news1india.in/states/uttar-pradesh/muzaffarnagar-ganja-smuggling-four-arrested-25-kg-cannabis-meerut/287822/
+    publisher: News1India
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The reports do not say whether the four accused were remanded to custody or released on bail.
   - Neither report gives the individual weight carried by each of the four men.
@@ -131,6 +136,12 @@ open_questions:
   - Dynamite News says a case was registered at Khala Par station under the NDPS Act and the four were produced in court, without stating whether they were remanded or released on bail.
   - None of the three pages opened for this update reports a chargesheet, plea or court outcome beyond production before a magistrate.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police had the ganja weighed and put its estimated value at 385,500 rupees.'
+  - No separate date is given for the raid or arrests; 6 November 2026, the day before publication, is used as the incident date, as in the existing report.
+  - The page gives no NDPS section numbers, case number or chargesheet status, and no plea or further court outcome beyond production and judicial remand.
+  - No ages are published for the four arrested men.
+  - The page rounds the seizure to 25 kg and the value to about 4 lakh rupees, against the 25 kg 700 g and 385,500 rupees already recorded.
+  - The page photo carries no caption text and no credit and is not established to show this seizure, so no media entry is taken from it.
+  - The article is a single local-outlet account that appears to draw on the same Muzaffarnagar police briefing as the reports already cited; no police statement page was opened.
 ---
 
 Police in Muzaffarnagar's Khala Par station area arrested four men from Meerut
@@ -168,3 +179,5 @@ The Janbhawna Times account says the four men were taking the ganja to sell it f
 Hindustan states the recovered ganja is valued at about four lakh rupees. [@6] Hindustan reports that police filed the chargesheet against all four accused. [@6] According to Hindustan, the four men collected ganja from a supplier in Uttarakhand and supplied it in both Meerut and Muzaffarnagar. [@6] Hindustan also states that the accused were caught smuggling illegal drugs in Uttarakhand a few days before this arrest. [@6]
 
 The four arrested men include a man on Meerut's history sheet, and criminal cases are registered against the others at different police stations. [@8]
+
+The four were produced in court and sent to jail in judicial custody. [@10] Police also seized four Android mobile phones from the four arrested men. [@10] Police also said the four had previously been jailed in Uttarakhand under the NDPS Act. [@10] Special teams were formed to arrest the alleged main supplier Harish, who was still at large. [@10]
