@@ -62,6 +62,11 @@ sources:
     publisher: Gargalianoionline.gr
     date: 2026-11-07
     language: el
+  - title: 'Αργολίδα: Συνελήφθη με ένταλμα για εμπορία ανθρώπων'
+    url: https://www.anagnostis.org/2026/11/07/argolida-synelifthi-me-entalma-gia-eboria-anthropon/
+    publisher: anagnostis.org
+    date: 2026-11-07
+    language: el
 open_questions:
   - The nine people held on drug charges are counted as charged because police said they would be taken to the local prosecutors; no formal charges or court outcome were reported.
   - The Messinia amount of cannabis is described only as a very small quantity, so it adds nothing to the 14.27 gram total from Argolida and Corinthia.
@@ -75,22 +80,24 @@ open_questions:
 ---
 
 Police in Argolida, Arcadia, Corinthia and Messinia arrested 21 people during a
-sweep that ran from 3 to 6 November 2026. [@1,4] Nine of the 21 arrests were on
+sweep that ran from 3 to 6 November 2026. [@1,4,5] Nine of the 21 arrests were on
 drug charges: two in Argolida, three in Corinthia and three in Messinia, all of
 them Greek nationals. [@1] Police also brought 38 people in for questioning and
-checked 588 people and 417 vehicles. [@1,4]
+checked 588 people and 417 vehicles. [@1,4,5]
 
-Officers seized 5.87 grams of cannabis in Argolida. [@1] In Corinthia they
+Officers seized 5.87 grams of cannabis in Argolida. [@1,5] In Corinthia they
 seized 8.4 grams of cannabis along with 24.48 grams of heroin, a small amount of
-cocaine, three scales, one mobile phone, one vehicle and 950 euros in cash. [@1]
-A small amount of cannabis was also seized in Messinia. [@1,4]
+cocaine, three scales, one mobile phone, one vehicle and 950 euros in cash. [@1,5]
+A small amount of cannabis was also seized in Messinia. [@1,4,5]
 
 The sweep was organised by the police directorates of the four regional units
 under the operational planning of the General Regional Police Directorate of the
 Peloponnese. [@2] The suspects were to be taken to the local public prosecutors.
-[@1,4] Among the other arrests in the same sweep were three people in Arcadia for
+[@1,4,5] Among the other arrests in the same sweep were three people in Arcadia for
 electricity theft, one for dangerous driving, an Argolida man wanted on a
 Nauplio investigating judge's warrant for human trafficking and three foreign
 nationals living in the country illegally. [@3]
 
 The fourth person arrested in Messinia was held for neglecting supervision of a minor rather than a drug offence. [@4]
+
+The Argolida warrant was issued by the Nauplio investigating judge for aggravated human trafficking and dangerous bodily harm. [@5]
