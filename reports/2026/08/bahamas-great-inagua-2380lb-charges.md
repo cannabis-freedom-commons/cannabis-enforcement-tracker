@@ -69,6 +69,10 @@ sources:
     publisher: The Nassau Guardian
     date: 2026-07-28
     archived: https://web.archive.org/web/20260729102913id_/https://www.thenassauguardian.com/news/5-9m-marijuana-bust/article_2cb09fb6-4d66-4f85-844a-d88c14073129.html
+  - title: Florida Coast Guard seizes 2,400 pounds of suspected marijuana near Bahamas
+    url: https://cbs12.com/news/local/florida-coast-guard-seizes-2400-pounds-of-suspected-marijuana-near-bahamas-bahamas-drug-bust-bahamas-great-inagua-caribbean-drug-trafficking-maritime-drug-trafficking-illegal-drugs-narcotics-seizure-28-million-marijuana-2400-pounds-marijuana
+    publisher: CBS12
+    date: 2026-08-03
 media:
   - kind: photo
     url: https://www.stripes.com/branches/coast_guard/2026-07-28/coast-guard-seizes-marijuana-bahamas-22389248.html
@@ -98,12 +102,12 @@ media:
     caption: 'The intercepted go-fast boat arriving with a large amount of suspected marijuana estimated at $5.9m and three detained Bahamian men after the joint operation with the US Coast Guard and the RBDF. Photo: Shawn Hanna'
 ---
 
-Three Bahamian men were charged with drug offences after the U.S. Coast Guard and the Royal Bahamas Defence Force seized 97 bales of cannabis from their vessel about 80 miles southwest of Great Inagua on 25 July 2026. [@1,2,4] The Coast Guard put the haul at about 2,380 pounds (1,080 kilograms); the Nassau Guardian reported a wholesale street value of $5.9 million. [@1,2,3,5]
+Three Bahamian men were charged with drug offences after the U.S. Coast Guard and the Royal Bahamas Defence Force seized 97 bales of cannabis from their vessel about 80 miles southwest of Great Inagua on 25 July 2026. [@1,2,4,6] The Coast Guard put the haul at about 2,380 pounds (1,080 kilograms); the Nassau Guardian reported a wholesale street value of $5.9 million. [@1,2,3,5]
 
 Dwight Newbold, 55, Corderro McBride, 35, and Kendall Thomas, 46, were arraigned before Senior Magistrate Raquel Whymms on charges of drug possession with intent to supply, drug importation, and conspiracy to possess and import the drug. [@1] Whymms denied them bail after a prosecutor objected, and a trial was set for December. [@1] They remained in custody unless the Supreme Court granted bail. [@1]
 
 ## The interception
 
-The Coast Guard said the crew of the cutter Charles Sexton boarded the suspected drug-smuggling vessel on behalf of the defence force. [@1,2,3,4] The three men aboard were handed to the Royal Bahamas Defence Force for prosecution, and the narcotics were held there. [@2,3] The Coast Guard estimated the marijuana's value at $2.8 million. [@2,3]
+The Coast Guard said the crew of the cutter Charles Sexton boarded the suspected drug-smuggling vessel on behalf of the defence force. [@1,2,3,4,6] The three men aboard were handed to the Royal Bahamas Defence Force for prosecution, and the narcotics were held there. [@2,3,6] The Coast Guard estimated the marijuana's value at $2.8 million. [@2,3,6]
 
-Lt. Peter Fager, commanding officer of the Charles Sexton, said the interception showed the strength of the partnership and the shared commitment to combating transnational organised crime in the region. [@2,3]
+Lt. Peter Fager, commanding officer of the Charles Sexton, said the interception showed the strength of the partnership and the shared commitment to combating transnational organised crime in the region. [@2,3,6]
