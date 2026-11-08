@@ -107,6 +107,11 @@ sources:
     publisher: Mauritius Broadcasting Corporation
     date: 2026-10-29
     language: fr
+  - title: 'Yacht «Dreamer» : Le trafiquant présumé transféré à la prison de Melrose'
+    url: https://lexpress.mu/s/le-trafiquant-presume-transfere-a-la-prison-de-melrose-564469
+    publisher: L'Express
+    date: 2026-11-07
+    language: fr
 media:
   - kind: photo
     url: https://defimedia.info/importation-de-15-tonne-de-cannabis-le-constable-rungilal-de-la-ncg-soupconne-detre-de-meche-avec
@@ -162,6 +167,11 @@ open_questions:
   - The new accounts report 38,000 euros plus 900 US dollars, while the existing report records 38,900 euros with the same 28,330 Thai baht and 1,865 Singapore dollar amounts, leaving the correct euro total unclear.
   - The new accounts date the joint ADSU and Maritime Intelligence Cell boarding and search to 21 October, while the existing account describes a search on 23 October off Baie-du-Tombeau, which may reflect separate boardings.
   - The accounts do not establish whether the three men named as suspected participants in the boat transfer were arrested or charged.
+  - L'Express does not name the suspected Mauritian trafficker transferred to Melrose; report of the transfer also appears in a subscriber-only Le Mauricien article, whose full text could not be read.
+  - The same account reports a possible cannabis supplier living in Thailand and holding interests in a farm where the plant would be grown, but says investigators had not verified this.
+  - Investigators were examining possible cryptocurrency payments on platforms such as Binance and use of the informal hawala transfer system, but the article says they had yet to establish whether hawala was used in this case.
+  - The account names Brian Foo Kin Lew Tin Wah, Terminal Officer at Cargo Handling Corporation Ltd, whose homes in Cité Roche-Bois and Calodyne were searched, and a National Coast Guard officer it spells both Bagboot and Pydegadu, but does not give the officers' surnames consistently or their charges.
+  - The article gives no weight for the cannabis said to have been delivered and states no new arrest or charge in this step.
 ---
 
 The Anti Drug and Smuggling Unit, with the National Coast Guard's Maritime
@@ -200,3 +210,5 @@ Mauritian authorities could ask Interpol and their British and Thai counterparts
 On 3 November the Supreme Court granted the Financial Crimes Commission a civil attachment order seizing the Thai yacht Dreamer and the foreign currency found aboard, with the vessel to stay immobilised at Port-Louis until further order. [@10] The 38,000 euros and 900 US dollars will go to the FCC seizure accounts at SBM Bank (Mauritius) Ltd, while the 28,330 Thai baht and 1,865 Singapore dollars will be kept in a safe at the same bank. [@10] The Dreamer will stay under the custody of the Commissioner of Police, be maintained in good condition in port and may not leave Port-Louis without fresh judicial authorisation. [@10] The order followed an ex parte application filed by the FCC on 30 October under the Financial Crimes Commission Act 2023 for a Civil Attachment Order over the yacht and funds found during a joint Anti-Drug and Smuggling Unit and Maritime Intelligence Cell search on 21 October. [@10] The Supreme Court on 3 November 2026 ordered civil seizure of the Thai-flagged yacht DREAMER and money found aboard during the 21 October police operation. [@11] Officers found 38,000 euros, 900 US dollars, 28,330 Thai baht and 1,865 Singapore dollars aboard the yacht. [@11] The yacht, now moored at Port-Louis Harbour, will stay under the Commissioner of Police, with euro and dollar sums deposited in FCC civil and criminal seizure accounts and other currencies kept in a safe at the same bank. [@11]
 
 A two-engine speedboat was seized and moored under National Coast Guard surveillance in the north of Mauritius. [@12] According to the boat's owner, it had been under the responsibility of Roche-Bois resident Jeremie Kurth Lindley Louis for about three years. [@12] Investigators suspected Jeremie Kurth Lindley Louis, Kailash Seebaluck and Jean Personne Sando Vletino Thomas of joining the Dreamer off Fosse aux Requins near Round Island in the early hours of 20 October. [@12] The three men were suspected of participating in the transfer of the missing cargo from the Thai yacht. [@12] MBC reported that police said the Dreamer's captain first cited an engine problem, then said he had delivered several sports bags containing cannabis to unknown people on 20 October. [@13]
+
+In Mauritius, one suspected trafficker at the centre of the inquiry was first held at Beau-Bassin prison and was then transferred to the prison at Melrose. [@14]
