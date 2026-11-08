@@ -85,6 +85,11 @@ sources:
     publisher: Corriere Etneo
     date: 2026-11-08
     language: it
+  - title: Bronte arrestato giovanissimo per droga | sequestrate decine di dosi di hashish e strumenti per lo spaccio
+    url: https://www.zazoom.it/2026-11-08/bronte-arrestato-giovanissimo-per-droga-sequestrate-decine-di-dosi-di-hashish-e-strumenti-per-lo-spaccio/19901835/
+    publisher: Zazoom Social News
+    date: 2026-11-08
+    language: it
 open_questions:
   - The articles give no separate date for the raid; 8 November 2026 is the publication date and is used as the incident date.
   - Only the 22 grams recovered behind the mirror is stated as a weight; the 20 doses in the shoulder bag and the three doses held by the buyers are not weighed, so the total hashish seized cannot be stated.
@@ -102,9 +107,9 @@ open_questions:
 ---
 
 Carabinieri from the Bronte station, part of the Catania provincial command,
-arrested an 18-year-old of Romanian origin who lives in the town. [@1,3,5] He is
+arrested an 18-year-old of Romanian origin who lives in the town. [@1,3,5,8] He is
 suspected of producing, trafficking and possessing drugs, a case that still has
-to be tested in court. [@1]
+to be tested in court. [@1,8]
 
 Officers had watched a steady stream of young people entering and leaving the
 building where he lived, day and night, and set up discreet observation posts at
