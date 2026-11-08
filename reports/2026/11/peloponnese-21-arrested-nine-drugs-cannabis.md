@@ -72,6 +72,11 @@ sources:
     publisher: Εφημερίδα Ημέρα, Ζάκυνθος
     date: 2026-11-05
     language: el
+  - title: 'Πελοπόννησος: Ευρείες αστυνομικές επιχειρήσεις για την εγκληματικότητα: 21 συλλήψεις και κατασχέσεις ναρκωτικών'
+    url: https://pieria24.gr/peloponnisos-eyreies-astynomikes-epicheiriseis-gia-tin-egklimatikotita-21-syllipseis-kai-katascheseis-narkotikon/
+    publisher: Pieria24
+    date: 2026-11-07
+    language: el
 open_questions:
   - The nine people held on drug charges are counted as charged because police said they would be taken to the local prosecutors; no formal charges or court outcome were reported.
   - The Messinia amount of cannabis is described only as a very small quantity, so it adds nothing to the 14.27 gram total from Argolida and Corinthia.
@@ -85,13 +90,16 @@ open_questions:
   - No weight was published for either Zakynthos quantity of cannabis, which the police described only as a small quantity of raw cannabis.
   - The location of each Zakynthos arrest is given only as the island; no town or district was named.
   - Neither Zakynthos account names the prosecutor's office that received the two men or reports formal charges or a court outcome.
+  - The article gives no separate cannabis weight, so the existing 14.27 gram cannabis total is unchanged.
+  - The page carries two photos with the same headline as caption and no credit, so neither is confirmed to show this sweep and no media entry is added.
+  - The article says it was created with the site's AI mechanism and fully assembled by automated software, so figures are used only where they match the existing police-statement account.
 ---
 
 Police in Argolida, Arcadia, Corinthia and Messinia arrested 21 people during a
-sweep that ran from 3 to 6 November 2026. [@1,4,5,6] Nine of the 21 arrests were on
+sweep that ran from 3 to 6 November 2026. [@1,4,5,6,7] Nine of the 21 arrests were on
 drug charges: two in Argolida, three in Corinthia and three in Messinia, all of
 them Greek nationals. [@1] Police also brought 38 people in for questioning and
-checked 588 people and 417 vehicles. [@1,4,5]
+checked 588 people and 417 vehicles. [@1,4,5,7]
 
 Officers seized 5.87 grams of cannabis in Argolida. [@1,5] In Corinthia they
 seized 8.4 grams of cannabis along with 24.48 grams of heroin, a small amount of
@@ -109,3 +117,5 @@ nationals living in the country illegally. [@3]
 The fourth person arrested in Messinia was held for neglecting supervision of a minor rather than a drug offence. [@4]
 
 The Argolida warrant was issued by the Nauplio investigating judge for aggravated human trafficking and dangerous bodily harm. [@5]
+
+Officers also confirmed 217 violations during the sweep. [@7] Officers also solved three cases of theft and attempted theft. [@7]
