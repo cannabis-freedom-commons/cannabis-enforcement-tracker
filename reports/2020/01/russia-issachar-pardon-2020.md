@@ -46,15 +46,29 @@ sources:
     url: https://sellines.com/digest/2020/01/31/russia-pardons-us-israeli-national-jailed-on-drug-charges.html
     publisher: SELLINES
     date: 2020-01-31
+  - title: 'Naama Issachar: US-Israeli woman released from Russian prison'
+    url: https://www.bbc.com/news/world-europe-51301827
+    publisher: BBC News
+    date: 2020-01-30
 open_questions:
   - Some outlets describe the 9 grams as hashish rather than marijuana; this report uses cannabis for the seized amount.
   - The exact date of the April 2019 arrest was not stated in these sources.
+  - Israeli media reports that the Alexander Courtyard ownership move and the Burkov extradition were linked to Issachar's release are allegations, not confirmed terms of the pardon.
+  - The BBC gives no exact date for the April 2019 arrest.
+media:
+  - kind: photo
+    url: https://www.bbc.com/news/world-europe-51301827
+    media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/16346/production/_110705909_mediaitem110705906.jpg.webp
+    publisher: BBC News
+    caption: Naama Issachar and her mother Yaffa greeted in Moscow by Israeli Prime Minister Benjamin Netanyahu and his wife, hours after Issachar's release.
 ---
 
 Naama Issachar, 26, a dual Israeli-American citizen living in Israel, was changing planes in Moscow
 in April 2019 on her way from India to Israel when border guards found 9 grams of cannabis in her
-checked luggage. [@1,2,3] She admitted possessing it but denied smuggling; on 11 October 2019 a
+checked luggage. [@1,2,3,4] She admitted possessing it but denied smuggling; on 11 October 2019 a
 Russian court convicted her of drug smuggling and sentenced her to seven and a half years in
 prison. [@1] After months of Israeli appeals for clemency, President Vladimir Putin signed her
 pardon on 29 January 2020, and she was released the next day and flew to Tel Aviv with Prime
-Minister Benjamin Netanyahu. [@2,3]
+Minister Benjamin Netanyahu. [@2,3,4]
+
+After her release, Issachar and her mother Yaffa were greeted in Moscow by Benjamin Netanyahu, and she flew to Israel on the prime minister's plane. [@4] Her mother said: "Finally, thank God, thanks to everyone." [@4] Israeli media reported that the Israeli government was willing to give up ownership of the Alexander Courtyard in Jerusalem's Old City as a goodwill gesture ahead of her release. [@4] Her case gained attention in Israel, where local media accused Moscow of using it to press Israel over the jailed Russian hacker Aleksey Burkov, who was extradited to the US in November 2019. [@4]
