@@ -67,31 +67,39 @@ sources:
     publisher: APAnews
     date: 2026-11-07
     language: fr
+  - title: 比勒陀利亚北部警方追车查获240公斤大麻，司机被捕
+    url: https://www.52hrtt.com/sln/n/w/info/A1793604363614
+    publisher: 华人头条-南非 (52hrtt.com)
+    date: 2026-11-08
+    language: zh
 open_questions:
   - The report does not name the suspect or give their age, sex or nationality.
   - The court where the suspect was to appear on 9 November 2026 and any outcome after that date were not reported in the opened source.
   - Only one opened outlet account, attributed throughout to the police, supports this report; the underlying SAPS statement was not separately opened.
   - This APA account states that SAPS gave no weight or total quantity for the suspected cannabis seized, while the existing report records 240kg and R960,000 from the earlier outlets; the existing figures remain supported only by those earlier sources.
+  - The submitted Chinese account is a Chinese-language summary of the same SAPS statement as the earlier English coverage, not independent reporting; it names no source for its figures.
+  - The account does not say where the vehicle was stopped and does not name the suspect, court or charges beyond dealing in and possession of dagga.
+  - The page's photograph is credited to no photographer or agency and has no caption, so it is not confirmed to show this seizure.
 ---
 
 SAPS members on crime-prevention patrol spotted a blue Volkswagen Tiguan trying
 to enter the Kolonnade Shopping Centre in Sinoville while the entrance gate was
-still closed at about 05:15 on 7 November 2026. [@1,2,3] The driver turned around
+still closed at about 05:15 on 7 November 2026. [@1,2,3,4] The driver turned around
 and sped away along Sefako Makgatho Drive after noticing the police vehicle.
-[@1,3] Officers activated blue lights and a siren, but the driver allegedly
+[@1,3,4] Officers activated blue lights and a siren, but the driver allegedly
 ignored them and kept driving at high speed. [@1,3] Proshield Security personnel
 joined the pursuit after assistance was requested over the Sinoville Community
-Policing Forum radio network. [@1,3] The chase ended when the vehicle was stopped
+Policing Forum radio network. [@1,3,4] The chase ended when the vehicle was stopped
 in the Bon Accord area along the R101. [@1,2,3]
 
 A search of the vehicle found several bags of dagga weighing a combined 240kg.
-[@1,2] Police put the dagga's estimated street value at R960,000. [@1] The number
+[@1,2,4] Police put the dagga's estimated street value at R960,000. [@1,4] The number
 plates on the Tiguan did not match it and were instead registered to a Toyota
 Hilux. [@1,3] The driver was arrested and faces charges of dealing in and
-possession of dagga. [@1,2,3] The vehicle was confiscated and booked into police
-custody as allegedly used in the commission of a crime. [@1]
+possession of dagga. [@1,2,3,4] The vehicle was confiscated and booked into police
+custody as allegedly used in the commission of a crime. [@1,4]
 
-The suspect was expected to appear before court on Monday, 9 November 2026. [@1]
+The suspect was expected to appear before court on Monday, 9 November 2026. [@1,4]
 Tshwane District Commissioner Major General Samuel Thine commended the SAPS
 members and Proshield Security personnel for their swift response and
 cooperation. [@1]
