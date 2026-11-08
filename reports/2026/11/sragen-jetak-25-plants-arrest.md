@@ -105,6 +105,11 @@ sources:
     publisher: iNews.id
     date: 2026-11-07
     language: id
+  - title: Polisi Ungkap Kebun Ganja Tersembunyi di Sidoharjo Sragen, 29 Tanaman Disita
+    url: https://sragen.inews.id/read/727961/polisi-ungkap-kebun-ganja-tersembunyi-di-sidoharjo-sragen-29-tanaman-disita
+    publisher: iNewsSragen.id
+    date: 2026-11-04
+    language: id
 open_questions:
   - The article gives no separate arrest date; 4 November 2026 is the publication and police display date used as the incident date.
   - Only one accessible source for this event was found; no second account confirming the arrest could be opened.
@@ -132,6 +137,9 @@ open_questions:
   - This account gives no separate search or arrest date beyond its 7 November 2026 publication; the recorded 24 October 2026 search and 4 November 2026 display dates come from earlier accounts.
   - This account names only Sidoharjo district and does not name Jetak village or the Dukuh Jetak Tani address recorded from earlier accounts.
   - The page's photo of the displayed 29 plants appears to show the same Sragen police display already listed from other outlets, so no new media entry is added.
+  - This outlet's fuller article text gives slightly different figure details from those already recorded, so the earlier figures are retained.
+  - This account gives no separate search or arrest date, only the 4 November 2026 press conference, so the recorded 24 October 2026 search date is unchanged.
+  - The page's photo of officers displaying the seized plants appears to show the same Sragen police display already listed from other outlets, so no new media entry is added.
 ---
 
 Police in Sragen detained a man from Jetak village in Sidoharjo after finding 25
@@ -144,7 +152,7 @@ law. [@1,3,5,6] Under that charge, police said he faces the most severe penalty 
 death. [@1,3,5,6]
 
 Police said they seized from BW at least 25 cannabis stalks and four cannabis
-seedlings plus 15.8 grams of dried cannabis. [@1,2,3,4,6,8] Police displayed the seized 25
+seedlings plus 15.8 grams of dried cannabis. [@1,2,3,4,6,8,9] Police displayed the seized 25
 plants at Sragen police headquarters on 4 November 2026 together with the
 seedlings and dried cannabis. [@1]
 
@@ -156,7 +164,7 @@ cannabis seeds in a small basin. [@1,2,5,7] After receiving the seeds, he plante
 around his house. [@1,4] The plants were four to five months old and were intended
 for New Year celebrations. [@1,5,6]
 
-Police searched the suspect's house at Dukuh Jetak Tani RT 1 RW 4, Jetak Village, Sidoharjo, Sragen on Saturday 24 October 2026 at 20.30 after receiving information from the public. [@2,8] The suspect grew the plants in used mineral-water gallon containers in an alley between his house and his neighbour's house that was closed at the front so it could not be seen, accessible only through the suspect's house window. [@2,5,7,8] Police calculated the 25 seized cannabis plants as weighing 5 kg with a sale value reaching Rp 250 million. [@2] The suspect was charged under Article 114 paragraph (2) of the 2009 Narcotics Law or alternatively Article 111 paragraph (2), carrying a maximum penalty of death, life imprisonment and a maximum of 20 years. [@2]
+Police searched the suspect's house at Dukuh Jetak Tani RT 1 RW 4, Jetak Village, Sidoharjo, Sragen on Saturday 24 October 2026 at 20.30 after receiving information from the public. [@2,8] The suspect grew the plants in used mineral-water gallon containers in an alley between his house and his neighbour's house that was closed at the front so it could not be seen, accessible only through the suspect's house window. [@2,5,7,8,9] Police calculated the 25 seized cannabis plants as weighing 5 kg with a sale value reaching Rp 250 million. [@2] The suspect was charged under Article 114 paragraph (2) of the 2009 Narcotics Law or alternatively Article 111 paragraph (2), carrying a maximum penalty of death, life imprisonment and a maximum of 20 years. [@2]
 
 Police described the Sragen cannabis-plant case as the first such case uncovered in Sragen. [@3,5,7] Police said BW consumed cannabis leaves every day in the morning and evening. [@3,5]
 
