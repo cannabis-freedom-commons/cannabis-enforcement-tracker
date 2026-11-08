@@ -50,10 +50,16 @@ sources:
     url: https://radiojamaicanewsonline.com/local/three-jamaicans-sentenced-ranging-from-2-to-3-years-for-ganja-trafficking-in-cayman
     publisher: Radio Jamaica News
     date: 2018-03-28
+  - title: Three arrested for ganja importation
+    url: https://www.caymancompass.com/2017/10/01/three-arrested-for-ganja-importation/
+    publisher: Cayman Compass
+    date: 2017-10-01
 open_questions:
   - The sentencing is described as occurring on Monday in sources published on 27 and 28 March 2018; 26 March is inferred as the sentencing date.
   - No market value for the ganja was published.
   - The Cayman Compass page's available image is identified as a courthouse and does not show the landing, canoe or ganja, so no event media is included.
+  - The early report says the Joint Marine Unit and Air Operations responded just after midnight, while the later sentencing account describes two patrolling officers seeing the unloading around 11:30 p.m.; the reports do not reconcile which units first observed the landing.
+  - The submitted page's only listed image is a file photo of George Town Police Station, not the landing, vessel or packages, so no event media is included.
 ---
 
 Three men were sentenced on Monday to prison terms ranging from two and a half
@@ -64,9 +70,9 @@ Cayman Islands on the night of 28 September 2017. [@1]
 
 Crown counsel Kenneth Ferguson said two officers patrolling near San Sebastian
 along South Sound saw the men unloading packages from a Jamaican canoe onto
-shore around 11:30 p.m. [@1] After the officers called for assistance, the three
+shore around 11:30 p.m. [@1,3] After the officers called for assistance, the three
 fled in different directions while a police helicopter monitored the area and
-other officers secured the packages. [@1] Around 3 a.m., officers saw the men
+other officers secured the packages. [@1,3] Around 3 a.m., officers saw the men
 walking along South Sound Road, wet, barefoot and dressed in shorts and shirts,
 and arrested them near Walkers Road. [@1] Johnson said the canoe was his and
 that all three had taken turns steering it, while Pillarchie said he had stowed
@@ -82,3 +88,4 @@ aggravating, raised the starting point to 54 months and imposed 36 months after
 the guilty-plea discount. [@1] The magistrate ordered the ganja destroyed and
 the canoe forfeited to the Crown. [@1]
 
+The three men remained in police custody on Sunday. [@3]
