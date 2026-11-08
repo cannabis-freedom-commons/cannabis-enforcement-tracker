@@ -59,6 +59,16 @@ sources:
     publisher: القدس العربي
     date: 2026-11-08
     language: ar
+  - title: قائد الدرك الوطني يكشف أرقاما ثقيلة عن المخدرات في الجزائر
+    url: https://www.awras.com/%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D9%83-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%8A%D9%83%D8%B4%D9%81-%D8%A3%D8%B1%D9%82%D8%A7%D9%85%D8%A7-%D8%AB%D9%82%D9%8A%D9%84%D8%A9-%D8%B9%D9%86/
+    publisher: أوراس
+    date: 2026-11-08
+    language: ar
+  - title: قائد الدرك الوطني يحذر..
+    url: https://www.elkhabar.com/nation/%D9%82%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D9%83-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%8A%D8%AD%D8%B0%D8%B1-276058
+    publisher: الخبر
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The 11-tonne kif figure is given as approximate (قرابة 11 طنا); the 27,270 kg cannabis total is the sum of that rounded figure and 16,270 kg of cannabis herb.
   - No date is given for any individual seizure; 7 November 2026 is the publication and announcement date and is used as the incident date for this 10-month tally.
@@ -77,6 +87,12 @@ open_questions:
   - Arrest and detention figures differ slightly from the existing report (25,200 versus 25,218 arrested; 5,224 versus 5,264 placed in detention); the existing figures are unchanged.
   - Cannabis figures are given here as rounded amounts of more than 4,000 shrubs and 16,000 cannabis plants, against 4,162 shrubs and 16,270 kg of herb in the existing report.
   - Cocaine and psychotropic-tablet totals differ (337 kg versus 837 kg of cocaine; more than 13 million versus more than 13.6 million pregabalin plus other tablets) and are non-cannabis figures left out of tracker totals.
+  - The Awras account describes the tally as covering the first 10 months of 2026 and says the speech was given "yesterday, Saturday", while Elkhabar describes the same speech as covering the first nine months; the existing report's figures and incident date are unchanged.
+  - The Awras account gives 4,160 cannabis shrubs against 4,162 in the existing report, and rounds the processed kif to about 11 tonnes.
+  - The Awras account's arrest and detention figures (25,218 arrested, 5,264 detained) agree with the existing report, while Elkhabar gives about 25,200 and 5,224.
+  - Cocaine, pregabalin and ecstasy quantities in these accounts are not cannabis and are left out of the tracker figures.
+  - The Awras page carries only a portrait of Gendarmerie commander Ali Seydan, not a photo of the seizure, so no media entry is added.
+  - One account's roadside figures (154 positives from 9,167 tests; 161 fatal and 144 injury accidents) match the existing report, while Elkhabar gives 152 positives from 167 tests and 162 traffic cases.
 ---
 
 National Gendarmerie commander Maj. Gen. Ali Seydan said in Algiers that drugs
@@ -84,17 +100,19 @@ and psychotropic substances had become a multidimensional security challenge
 affecting public health, road safety and economic and social security. [@1,3]
 Seydan spoke alongside Justice Minister Lotfi Boujemaa at the opening of a
 national forum on the dimensions of drug use under traffic law 26-09, held at
-the National Army Club in Beni Messous. [@1,3] Gendarmerie units arrested 25,218
+the National Army Club in Beni Messous. [@1,3,5] Gendarmerie units arrested 25,218
 people in the same effort, with 5,264 placed in detention, and dismantled 186
-networks specialising in drug trafficking. [@1,2,3,4]
+networks specialising in drug trafficking. [@1,2,3,4,5]
 
 During the first 10 months of 2026 the units seized about 11 tonnes of processed
-kif. [@1,2,3,4] In the same period they seized 16,270 kilograms of cannabis herb and
-4,162 cannabis shrubs. [@1,2,3,4] The same haul included 837 kilograms of cocaine,
+kif. [@1,2,3,4,5] In the same period they seized 16,270 kilograms of cannabis herb and
+4,162 cannabis shrubs. [@1,2,3,4,5] The same haul included 837 kilograms of cocaine,
 more than 13.6 million pregabalin tablets, 59,937 ecstasy tablets and 1,021,879
 other psychotropic tablets, which are not counted as cannabis. [@1]
 
 Seydan described drugs as a cross-border strategic threat in which organised
 crime overlaps with illicit financial interests. [@1] In 2026 roadside screening
 recorded 154 positive results from 9,167 tests, while drivers under the
-influence caused 161 fatal and 144 injury accidents. [@1,3]
+influence caused 161 fatal and 144 injury accidents. [@1,3,5]
+
+Seydan said the figures cover the Gendarmerie's own operations and do not include the results of other security services. [@6]
