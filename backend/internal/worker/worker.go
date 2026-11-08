@@ -618,6 +618,14 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if err = w.Store.DB.QueryRowContext(ctx, "SELECT id FROM submissions WHERE case_id=? ORDER BY created_at, id LIMIT 1", j.Ref).Scan(&result.Submission); err != nil {
 			return err
 		}
+		// a picture whose caption admits it is generic (file, stock, not known to show the event) is
+		// left out; only this submission's new media is checked
+		if len(result.Media) > 0 {
+			var stock []string
+			if result.Media, stock = research.DropStockMedia(result.Media); len(stock) > 0 {
+				slog.Info("generic photos left out", "case", j.Ref, "count", len(stock))
+			}
+		}
 		// the same photo republished by several outlets is shown once
 		if len(result.Media) > 0 {
 			fetch := w.FetchImage

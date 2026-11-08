@@ -564,7 +564,10 @@ PHOTO / VIDEO RESEARCH (BEST EFFORT; MEDIA IS OPTIONAL):
 Actively look for relevant event photos and videos when researching each report,
 including dedicated searches beyond the original news sources where useful.
 Try local-language searches, official agency galleries and historical archives.
-Only include media verified as depicting the actual event, not generic stock imagery.
+Only include media verified as depicting the actual event, not generic stock imagery
+(gavel, handcuffs, bars, police sign or car, city/section banner, cartoon, drugs from
+another story; see docs/WRITING.md §7 for the signs). If a caption would have to say a
+picture is not known to show the event, leave the picture out.
 Follow docs/WRITING.md §7 for media URLs, captions, publishers and licensing.
 If suitable media cannot be found or verified, continue and publish the report
 WITHOUT photos or videos. Never invent media, use unrelated pictures, or reject

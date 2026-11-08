@@ -182,6 +182,11 @@ Write it as docs/WRITING.md and the add-report skill say, like the examples:
   .webp, .gif, .avif) with webfetch: the tool reads text only and refuses every image, and you
   cannot see pictures. Judge a photo by its caption, its credit and the article text around it;
   on another cited page, by the captions and alt text in the page you opened.
+  Leave out generic stand-in pictures (gavel, handcuffs, bars, police sign or car, city or section
+  banner, cartoon, drugs from another story): signs are a caption that only repeats the headline or
+  outlet name, a "file"/"archive"/"illustrative" label, an address naming a city, section or video
+  thumbnail, or an upload folder years before the event (docs/WRITING.md §7). If your caption would
+  have to say a picture is not known to show the event, omit it: the service drops such captions.
 - sources: the title and publisher as published, the source's publication date, and its language
   (two letters) if not English.
 

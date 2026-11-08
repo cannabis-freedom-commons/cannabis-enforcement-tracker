@@ -163,6 +163,17 @@ copied** to this site.
   each photo's size and placeholder in `src/data/media.json` and makes its thumbnail; the original is not kept.
 - Never publish a newspaper's photo, a stock photo, or a picture of a different event or of a building
   sign. A photo must show *this* event.
+- **Leave out generic pictures.** Many outlets put a stand-in picture on every crime story: a judge's
+  gavel, handcuffs, prison bars, a police sign or car, a prosecutor's folder, a city or section
+  banner ("Adana Haberleri", "Jhansi"), a cartoon or AI drawing, a picture of drugs from another
+  story. Signs of one: the caption only repeats the headline or the outlet's name; the outlet calls it
+  a file, archive, symbolic or illustrative picture; the image address names a city, a section or a
+  video thumbnail (`local-news/adana-960x540`, `maxresdefault`), or its upload folder is years older
+  than the event. Keep such a picture only when its caption or the article ties it to this event
+  (police handout of the seizure, the accused, the place). If the caption would have to say the
+  picture is not known to show the event, leave it out instead of describing the doubt: the
+  submission service drops new photos with such captions automatically. Photos already in reports
+  are not removed by this rule.
 - **Archive the pages.** Pages disappear, and they are the evidence. After writing a report, run
   `node scripts/archive-sources.mjs <slug>` to add the Wayback Machine's copy of each source and
   media page as `archived:` (`--save` asks it to save pages it lacks).
