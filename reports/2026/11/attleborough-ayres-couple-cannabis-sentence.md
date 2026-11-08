@@ -357,6 +357,10 @@ sources:
     url: https://www.msn.com/en-gb/news/other/husband-turned-1m-home-into-cannabis-farm-after-he-started-using-drug-to-self-medicate-his-cancer/ar-AA2gUpeh
     publisher: Daily Mail (via MSN)
     date: 2026-11-06
+  - title: Married couple in their 70s who grew £46,000 of cannabis sentenced
+    url: https://www.msn.com/en-gb/news/other/married-couple-in-their-70s-who-grew-46000-of-cannabis-sentenced/ar-AA2gQqmC
+    publisher: The Independent (via MSN)
+    date: 2026-11-05
 open_questions:
   - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
   - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
@@ -436,7 +440,7 @@ Police photographs of the couple's home show over a dozen cannabis plants cramme
 
 The Daily Mail reports that Ayres, listed as a director of multiple companies, told the court through his barrister that he had first used CBD oil, a legal product in the UK, before turning to cannabis after his cancer returned in 2023. [@53] Recorder John Hardy said the operation Ayres developed after "health difficulties" "hid behind a veneer of respectability". [@53]
 
-The couple, of the Attleborough hamlet Burgh Common, were both arrested after the search on May 20 last year. [@55,59]
+The couple, of the Attleborough hamlet Burgh Common, were both arrested after the search on May 20 last year. [@55,59,67]
 
 Norfolk Constabulary said the couple were sentenced at Norfolk Crown Court on Thursday 5 November 2026. [@58,59]
 
