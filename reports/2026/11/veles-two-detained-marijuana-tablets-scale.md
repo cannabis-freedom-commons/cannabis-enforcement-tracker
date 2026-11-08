@@ -30,6 +30,10 @@ sources:
     url: https://mvr.gov.mk/en-GB/odnosi-so-javnost/novosti/liseni-od-sloboda-dvajca-velesani-pronajdeni-marixuana-tableti-i-digitalna-vaga
     publisher: Ministry of Interior of the Republic of North Macedonia
     date: 2026-11-08
+  - title: Two people arrested in Veles, marijuana, tablets and a digital scale seized - Albeu.com
+    url: https://albeu.com/english/two-people-arrested-in-veles-marijuana-tablets-and-a-digital-scale-seized/1093311/
+    publisher: Albeu.com
+    date: 2026-11-08
 open_questions:
   - No weight was published for the marijuana and no quantity for the tablets, so neither is recorded as a figure.
   - Only the ministry's own statement was found; no local-language outlet account or second source for the Veles detention could be opened.
@@ -41,13 +45,12 @@ open_questions:
 ---
 
 Police officers from the Veles Police Department detained two men from Veles,
-aged 36 and 26, at 10:30 PM on 6 November 2026. [@1] Marijuana, tablets and a
+aged 36 and 26, at 10:30 PM on 6 November 2026. [@1,2] Marijuana, tablets and a
 digital scale were found and seized near the two men, having been left there
-earlier by one of them. [@1]
+earlier by one of them. [@1,2]
 
 On 7 November 2026 police searched the home of the 36-year-old under an order
-from the Basic Court of Veles and seized money found there. [@1] Both men were
-held at the police station and the public prosecutor was informed. [@1] The
+from the Basic Court of Veles and seized money found there. [@1,2] Both men were
+held at the police station and the public prosecutor was informed. [@1,2] The
 ministry said a report would be submitted to the prosecutor once the case was
-fully documented. [@1]
-
+fully documented. [@1,2]
