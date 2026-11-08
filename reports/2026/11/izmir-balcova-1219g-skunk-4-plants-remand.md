@@ -103,6 +103,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-08
     language: tr
+  - title: İzmir'de bir eve baskın! Şüpheli tutuklandı
+    url: https://egetelgraf.com/izmirde-bir-eve-baskin-supheli-tutuklandi
+    publisher: Ege Telgraf
+    date: 2026-11-08
+    language: tr
 open_questions:
   - The accounts give the raid date only as the previous day; 7 November 2026 is estimated from the 8 November 2026 publication date.
   - No weight or value was published for the 4 rooted plants, and no value was given for the seized skunk.
@@ -130,15 +135,19 @@ open_questions:
   - This Haberler version publishes a different page photo from the Haberler.com copy already cited; the image carries only the headline as its caption, so it is not confirmed to show this seizure and is not listed as media.
   - This account calls the four rooted plants kenevir bitkisi rather than skunk plants and does not mention the grinder reported in other accounts.
   - This page gives no separate date for the raid; only its 8 November 2026 publication time is shown.
+  - Ege Telgraf credits the text to the Anadolu Agency and names no date for the raid; only its 8 November 2026 publication time is shown, so the 7 November 2026 incident date remains an estimate.
+  - This account calls the 1 kg 219 g a banned substance without naming it skunk, as the DHA dispatch already cited in the report does.
+  - The page gives no charge, plea or trial date for K.A.
+  - The page's image is captioned only with the headline and carries no credit identifying what it depicts, so it is not listed as media.
 ---
 
 İzmir provincial gendarmerie teams determined that a suspect identified only as
 K.A. was illegally growing cannabis with a climate-control method in his home in
-Fevzi Çakmak Mahallesi, Balçova. [@1,3,4,5,6,7,8,9,10,11] Officers raided that address the previous
+Fevzi Çakmak Mahallesi, Balçova. [@1,3,4,5,6,7,8,9,10,11,12] Officers raided that address the previous
 day. [@1,5,6,8] K.A. was taken into custody and, after gendarmerie processing, was
-referred to the courthouse and remanded in custody. [@1,3,4,5,6,7,8,10,11]
+referred to the courthouse and remanded in custody. [@1,3,4,5,6,7,8,10,11,12]
 
-The search of the home seized 1 kilo 219 grams of skunk. [@1,3,4,5,7,8,9,10,11] Officers also
+The search of the home seized 1 kilo 219 grams of skunk. [@1,3,4,5,7,8,9,10,11,12] Officers also
 seized 4 rooted skunk plants. [@1,3,4,5,7,8,10,11] Officers also seized one drug-grinding device
 and various climate-control materials. [@1,3,4,5,8]
 
