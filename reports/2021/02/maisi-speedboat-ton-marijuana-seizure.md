@@ -46,28 +46,34 @@ sources:
     url: https://oncubanews.com/en/cuba/cuba-boat-carrying-almost-a-ton-of-marijuana-captured
     publisher: OnCuba News
     date: 2021-02-15
+  - title: Cuba captura una lancha con casi una tonelada de marihuana
+    url: https://www.14ymedio.com/cuba/cuba-captura-lancha-marihuana_1_1046080.html
+    publisher: 14ymedio
+    date: 2021-02-15
+    language: es
 open_questions:
   - The articles give no separate date for the interception; 14 February 2021 is the dateline and publication date used as the incident date.
   - The sources give only around one tonne with no precise kilogram figure, so 1,000 kilograms is an approximate conversion.
   - The names, ages and legal status of the three Bahamian crew members and any charges or court outcome were not reported.
   - Both accessible accounts relay the same Cuban official account via state media; no independent account was opened.
   - The article's reference to three tonnes seized through November 2020 is a national cumulative total left out of this report.
+  - This account attributes the route and second-boat/fourth-operation tallies to a Cubadebate note relaying state media, while the existing report attributes the tally to Prensa Latina and the route to OnCuba News; the underlying figures match.
+  - The only pictured item on the page illustrates 2019 customs seizures of 21 kilos, not this interception, so no event photo is added.
 ---
 
 Cuba's Border Guard Troops captured a speedboat carrying around a tonne of
-marijuana off the island's eastern coast. [@1] The boat's three crew members
+marijuana off the island's eastern coast. [@1,3] The boat's three crew members
 were Bahamians detained in waters near the municipality of Maisí in eastern
-Guantánamo province. [@1]
+Guantánamo province. [@1,3]
 
 A television news report placed the interception eight miles northeast of Punta
 del Fraile. [@1] The official account said the international trafficking
 operation intended to move the shipment through the narrow Windward Passage
 between Cuba and Hispaniola toward the Bahamas and onward to the United States
-market. [@2]
+market. [@2,3]
 
 Prensa Latina described the case as the second drug speedboat captured in that
 area in recent months and the fourth major marijuana-trafficking operation
-thwarted in the Windward Passage by Cuban authorities since May. [@1] Cuba
+thwarted in the Windward Passage by Cuban authorities since May. [@1,3] Cuba
 maintains an official zero-tolerance policy toward attempts to use its air and
-maritime space for the illegal drug trade. [@2]
-
+maritime space for the illegal drug trade. [@2,3]
