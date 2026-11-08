@@ -61,6 +61,11 @@ sources:
     publisher: Questura di Bolzano, Polizia di Stato
     date: 2026-11-06
     language: it
+  - title: 'Polizist in Bozen niedergeschlagen: 19-Jähriger festgenommen'
+    url: https://www.unsertirol24.com/2026/11/06/polizist-in-bozen-niedergeschlagen-19-jaehriger-festgenommen/
+    publisher: UnserTirol24
+    date: 2026-11-06
+    language: de
 open_questions:
   - The date of the checks comes from the police statement, which says officers acted over the last two days and gives the total for 'yesterday'; 5 November 2026 is used as the incident date, the day before the statement of 6 November.
   - No weight is given for the dose of hashish found on the 21-year-old, so it is not included in the cannabis weight.
@@ -71,14 +76,14 @@ open_questions:
 ---
 
 Police in Bolzano reported a 21-year-old Tunisian man with a police record after
-finding him with a dose of hashish during checks at Berloffa Park. [@2] The same
+finding him with a dose of hashish during checks at Berloffa Park. [@2,3] The same
 checks found a bag holding 20 grams of marijuana, ready to be sold, which
-officers seized from persons unknown, according to the police. [@2] A
+officers seized from persons unknown, according to the police. [@2,3] A
 19-year-old Tunisian asylum seeker was arrested and taken to the Bolzano prison
-on charges of resisting a public official and assaulting a police officer. [@2]
+on charges of resisting a public official and assaulting a police officer. [@2,3]
 Two 29-year-old Moroccan men were reported at liberty on charges of resisting a
-public official after the fight in the old town. [@2] The officer who was
-punched needed treatment expected to last seven days. [@1]
+public official after the fight in the old town. [@2,3] The officer who was
+punched needed treatment expected to last seven days. [@1,3]
 
 Bolzano police chief Giuseppe Ferrari ordered the checks to increase the visible
 presence of officers in sensitive districts and to act against crime. [@1] State
@@ -86,4 +91,3 @@ police patrols were joined by crime-prevention units, the Carabinieri, the
 finance police with a drug-sniffing dog unit and the municipal police. [@1]
 Officers checked people and vehicles and carried out inspections at businesses,
 and on 5 November alone they identified 214 people and checked 40 vehicles. [@2]
-
