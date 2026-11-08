@@ -47,6 +47,16 @@ sources:
     publisher: Salzburger Nachrichten
     date: 2026-11-08
     language: de
+  - title: Verkehrssicherheitskontrollen
+    url: https://www.polizei.gv.at/sbg/presse/aussendungen/pressec3ce.html?prid=4a326266305471424576343d&pro=0
+    publisher: Polizei Salzburg
+    date: 2026-11-08
+    language: de
+  - title: 'Unglaubliche Bilanz: Polizei stoppte sechs Drogenlenker in einer Nacht'
+    url: https://www.5min.at/salzburg/5202611082044/unglaubliche-bilanz-polizei-stoppte-sechs-drogenlenker-in-einer-nacht/
+    publisher: 5 Minuten
+    date: 2026-11-08
+    language: de
 open_questions:
   - The police describe the controls as taking place on Saturday and Sunday, so 7 November 2026 is used as the incident date, with the series running into 8 November.
   - The account gives the total of six drivers stopped but does not say how many were affected by cannabis alone; the cannabis-related stops are those in the city of Salzburg where the test reacted to cannabis.
@@ -58,12 +68,14 @@ open_questions:
   - The figure of six refers to drivers stopped, not people detained; no arrest or custody was reported.
   - The Salzburger Nachrichten places the Thalgau driver's positive result in a sentence reading "Sein Alkotest schlug positiv auf Kokain an", apparently a misprint for the drug test.
   - The Salzburger Nachrichten reports the same total of six stops but does not say whether the e-scooter rider's licence was among the five taken.
+  - The submitted 5 Minuten text place the stops only in the city area of Salzburg and in the municipal area of Thalgau, and do not name the Leogang driver or the Aigner Straße and Erzherzog-Eugen-Straße locations given by the police statement.
+  - The article's headline picture is a 2023 montage of a police car and drugs labelled as stock material, so no media entry is added.
 ---
 
 Between Saturday 7 and Sunday 8 November 2026, Salzburg police stopped six
 drivers under the influence of drugs in the city of Salzburg, in Thalgau in
-Flachgau and in Leogang in Pinzgau. [@1,2] Officers seized the driving licences of
-five of the six drivers on the spot. [@1] A civil patrol at a routine check in
+Flachgau and in Leogang in Pinzgau. [@1,2,3] Officers seized the driving licences of
+five of the six drivers on the spot. [@1,4] A civil patrol at a routine check in
 the Aigner Straße in the city of Salzburg stopped a 20-year-old car driver on
 Saturday; his alcohol test was clear, but the drug test reacted to cannabis.
 [@1] The 20-year-old admitted he had smoked joints before driving, a police
@@ -89,3 +101,5 @@ through unsafe driving, tested positive for cocaine, refused the medical
 examination and had his licence taken on the spot. [@1]
 
 The Salzburger Nachrichten reports that all five drivers whose driving licences were taken lost them. [@2]
+
+The radio station 5 Minuten added that a 25-year-old driver in Thalgau tested positive for cocaine and lost his licence. [@4]
