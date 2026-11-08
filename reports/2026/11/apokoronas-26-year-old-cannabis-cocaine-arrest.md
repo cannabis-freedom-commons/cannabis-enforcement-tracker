@@ -109,6 +109,11 @@ sources:
     publisher: Cretalive
     date: 2026-11-07
     language: el
+  - title: 'Κρήτη: Πάνω από ένα κιλό κοκαΐνης σε «καβάτζες» 26χρονου - 14 πακέτα και 15.500 ευρώ!'
+    url: https://iraklionews.gr/437893-kriti-pano-apo-ena-kilo-kokainis-se-kavatzes-26chronou-14-paketa-kai-15-500-evro/
+    publisher: IraklioNews
+    date: 2026-11-07
+    language: el
 open_questions:
   - The exact village in the Municipality of Apokoronas is not named, so district coordinates are used.
   - The sources call the cannabis only 'kannavi' without saying whether it is herbal or resin, or whether it was for sale.
@@ -128,6 +133,8 @@ open_questions:
   - The Newshub page gives no separate time for the searches beyond the morning of 7 November 2026 in its reproduction of the police announcement.
   - Newshub and Rethemnos Live reproduce the same Chania police statement as the accounts already cited, so they are not independent reporting of the arrest.
   - Cretalive reproduces the same Chania police announcement as the accounts already cited, so it is not independent reporting of the arrest.
+  - IraklioNews reproduces the same Chania police statement as the accounts already cited, so it is not independent reporting of the arrest.
+  - The page gives no village within the Municipality of Apokoronas and no separate time for the searches beyond the morning of 7 November 2026.
 ---
 
 Police in the Municipality of Apokoronas, Chania, on Crete arrested a
@@ -137,7 +144,7 @@ in places the 26-year-old used as storage points, which the accounts call
 kavatzas, a Greek term for a hiding place or stash. [@2,10]
 
 The searches found and seized 96.8 grams of cannabis, which is the only cannabis
-quantity the accounts give. [@1,5,6,7,9] Police also seized 1 kilo and 173.1 grams of
+quantity the accounts give. [@1,5,6,7,9,12] Police also seized 1 kilo and 173.1 grams of
 cocaine in 14 improvised packages, a quantity that is not counted as cannabis
 here. [@1,5,6] Officers seized 15,500 euros that police said came from criminal
 activity. [@1,4] The accounts also list a weighing scale, three mobile phones and
