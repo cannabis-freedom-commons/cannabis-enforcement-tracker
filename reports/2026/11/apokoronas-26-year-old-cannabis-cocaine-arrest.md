@@ -119,6 +119,11 @@ sources:
     publisher: Μαλεβιζιώτης
     date: 2026-11-07
     language: el
+  - title: 'Χανιά: Την Πέμπτη απολογείται ο 26χρονος που συνελήφθη με πάνω από 1 κιλό κοκαΐνης'
+    url: https://www.cretalive.gr/kriti/hania-tin-pempti-apologeitai-o-26hronos-poy-synelifthi-me-pano-apo-1-kilo-kokainis
+    publisher: Cretalive
+    date: 2026-11-08
+    language: el
 open_questions:
   - The exact village in the Municipality of Apokoronas is not named, so district coordinates are used.
   - The sources call the cannabis only 'kannavi' without saying whether it is herbal or resin, or whether it was for sale.
@@ -143,6 +148,9 @@ open_questions:
   - Maleviziotis.gr calls the 96.8 grams only kannavi, without saying whether it was herbal cannabis or resin, and gives no street value for it.
   - Maleviziotis.gr reproduces the same Chania police announcement as the accounts already cited, so it is not independent reporting of the arrest.
   - The page's lead photo shows police handout material without a credit or caption identifying which items it depicts, so it was not added as a new photo of the event.
+  - Cretalive gives no date for the Thursday defence statement; 12 November 2026 is the first Thursday after the Sunday appearance.
+  - The page does not name the judge or court, or say whether the 26-year-old was held in custody while awaiting his statement.
+  - No independent outlet reporting the 8 November appearance was found; Cretalive's own 7 November report reproduces the same Chania police statement, so the remand rests on a single newsroom item.
 ---
 
 Police in the Municipality of Apokoronas, Chania, on Crete arrested a
@@ -165,3 +173,5 @@ Chania drug enforcement department. [@1,6]
 The cannabis the man was found with was raw cannabis, the herb rather than resin. [@8] The searches were made at a secluded house in the community of Nipos, in the Municipality of Apokoronas, which police said was used to store and distribute drugs. [@8,9] A drug-detection dog took part in the search of the house. [@8,9] Police said the man was suspected of receiving, holding and passing on quantities of cocaine and cannabis, possibly with unknown associates still being sought. [@8]
 
 Rethemnos Live, reproducing the same Chania police announcement, describes the arrested 26-year-old as an ethnic Greek national (ημεδαπός). [@1]
+
+The man was led before the judicial authorities on Sunday 8 November 2026, the day after his arrest. [@14] He asked for and was granted a postponement to make his defence statement on Thursday. [@14] The police investigation into the case continued while he awaited his appearance. [@14]
