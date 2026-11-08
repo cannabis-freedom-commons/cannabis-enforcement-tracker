@@ -112,6 +112,11 @@ sources:
     publisher: L'Express
     date: 2026-11-07
     language: fr
+  - title: 'Affaire Dreamer : Les rôles présumés se dessinent, la cargaison reste introuvable'
+    url: https://defimedia.info/affaire-dreamer-les-roles-presumes-se-dessinent-la-cargaison-reste-introuvable
+    publisher: Le Dimanche / L'Hebdo (Defimedia)
+    date: 2026-11-08
+    language: fr
 media:
   - kind: photo
     url: https://defimedia.info/importation-de-15-tonne-de-cannabis-le-constable-rungilal-de-la-ncg-soupconne-detre-de-meche-avec
@@ -203,7 +208,7 @@ The captain's phone contained images and videos of cannabis cargo, and investiga
 
 L'Express reported that investigators were checking information that a Mauritian who grew up in England and returned to the island in 2021 had built a cannabis and hashish traffic, first through couriers by air. [@6] The newspaper said his move to Thailand in 2023 was a central element of the lead, and that information being checked pointed to three yacht arrivals in Mauritius in 2026 carrying cannabis, cocaine and hashish, each of several hundred kilos. [@6]
 
-The weekend arrest brought the number of people detained in the Dreamer investigation to 18. [@7,9,10] Bryan Fu Kin Lew Tin Wah, a port-zone employee, was arrested on Saturday as the 18th suspect on suspicion of driving three men in the early hours of 20 October. [@7] He was presented before the justice on Sunday 1 November on a provisional conspiracy charge and returned to police detention. [@8] Investigators describe a Mauritian holding British nationality, identified only as Nishal, as the suspected brain and sponsor of the Thailand-Mauritius cannabis network. [@7,9] Nishal is subject to an Arrest on Arrival order issued by the Passport and Immigration Office at Plaisance airport. [@7] The roughly 1.5 tonnes of Thai cannabis said to have been brought on the Dreamer had still not been found. [@7,9]
+The weekend arrest brought the number of people detained in the Dreamer investigation to 18. [@7,9,10,15] Bryan Fu Kin Lew Tin Wah, a port-zone employee, was arrested on Saturday as the 18th suspect on suspicion of driving three men in the early hours of 20 October. [@7] He was presented before the justice on Sunday 1 November on a provisional conspiracy charge and returned to police detention. [@8] Investigators describe a Mauritian holding British nationality, identified only as Nishal, as the suspected brain and sponsor of the Thailand-Mauritius cannabis network. [@7,9] Nishal is subject to an Arrest on Arrival order issued by the Passport and Immigration Office at Plaisance airport. [@7] The roughly 1.5 tonnes of Thai cannabis said to have been brought on the Dreamer had still not been found. [@7,9]
 
 Mauritian authorities could ask Interpol and their British and Thai counterparts through the Central Barracks and the Attorney General's office to trace Nishal. [@9] Nishal had been arrested by ADSU in 2012 after a seizure of 20.48 grams of cannabis and later settled in Great Britain. [@9] Established abroad, Nishal is said to lead a particularly luxurious lifestyle in Thailand, where he also runs a nightclub. [@9]
 
@@ -212,3 +217,5 @@ On 3 November the Supreme Court granted the Financial Crimes Commission a civil 
 A two-engine speedboat was seized and moored under National Coast Guard surveillance in the north of Mauritius. [@12] According to the boat's owner, it had been under the responsibility of Roche-Bois resident Jeremie Kurth Lindley Louis for about three years. [@12] Investigators suspected Jeremie Kurth Lindley Louis, Kailash Seebaluck and Jean Personne Sando Vletino Thomas of joining the Dreamer off Fosse aux Requins near Round Island in the early hours of 20 October. [@12] The three men were suspected of participating in the transfer of the missing cargo from the Thai yacht. [@12] MBC reported that police said the Dreamer's captain first cited an engine problem, then said he had delivered several sports bags containing cannabis to unknown people on 20 October. [@13]
 
 In Mauritius, one suspected trafficker at the centre of the inquiry was first held at Beau-Bassin prison and was then transferred to the prison at Melrose. [@14]
+
+Nineteen suspects had been arrested in the Dreamer investigation, including seven crew members, two Thais who arrived by air and two National Coast Guard officers. [@15]
