@@ -55,6 +55,10 @@ sources:
     url: https://www.thenigerianvoice.com/news/376279/ndlea-arrests-woman-who-came-to-nigeria-for-crusade-with-87.html
     publisher: Nigerian Voice
     date: 2026-11-08
+  - title: Ugandan Woman Arrested With 87 Cocaine Wraps Hidden In Private Part At Lagos Airport
+    url: https://platformtimes.com.ng/ugandan-woman-arrested-with-87-cocaine-wraps-hidden-in-private-part-at-lagos-airport/
+    publisher: Platform Times
+    date: 2026-11-08
 open_questions:
   - The reports name no suspect, arrest, charge or court outcome in connection with the 46 blocks.
   - The agency gives the location only as courier companies in Lagos; no individual company or district is named.
@@ -62,11 +66,13 @@ open_questions:
   - The reports do not say how the weight was divided between the two cartons or who the sender and recipient were.
   - The same roundup reports other cannabis seizures in Lagos, Ondo, Ekiti, Edo, Taraba, Enugu and Delta states and a shipment with 1.20 kg of cannabis alongside synthetic-cannabis chemicals; those are separate events left out of this report.
   - The page's only image shows the woman arrested with cocaine, an unrelated case, so no media entry is added.
+  - Platform Times reproduces the same NDLEA statement already cited in this report and adds no independent reporting, arrest or court outcome for the 46 blocks.
+  - The page's only photograph shows the woman arrested with cocaine, an unrelated case, so no media entry is added.
 ---
 
 Operatives of the National Drug Law Enforcement Agency (NDLEA), Nigeria's
 anti-narcotics agency, intercepted 46 blocks of cannabis weighing 22.2 kilograms
-at courier companies in Lagos on Tuesday 3 November 2026. [@2,4] The drug was
+at courier companies in Lagos on Tuesday 3 November 2026. [@2,4,5] The drug was
 packed in two cartons and was bound for the United Kingdom. [@1] Channels
 Television, reporting the agency's account, placed the interception at courier
 companies in Lagos and said the consignment was destined for the United Kingdom.
