@@ -80,6 +80,11 @@ sources:
     publisher: نبأ الأردن
     date: 2026-11-08
     language: ar
+  - title: مكافحة المخدرات تتعامل مع 15 قضية نوعية تضبط خلالها كميات كبيرة من المواد المخدرة
+    url: http://ammannet.net/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-15-%D9%82%D8%B6%D9%8A%D8%A9-%D9%86%D9%88%D8%B9%D9%8A%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%AE%D9%84%D8%A7%D9%84%D9%87%D8%A7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A9
+    publisher: موقع عمان نت
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -104,11 +109,13 @@ open_questions:
   - The English Petra text carries the same Public Security Directorate statement as the report's Arabic sources, so it corroborates rather than independently reports the roundup.
   - Nabaa Jordan carries the same Public Security Directorate statement as the outlets already cited, so it corroborates rather than independently reports the roundup.
   - The page shows one news image captioned only with the story headline and no credit identifying what it depicts, so it is not listed as media.
+  - Amman Net is a copy of the same Public Security Directorate statement as the report's other sources, so it corroborates rather than independently reports the roundup.
+  - The page shows one uncaptioned image filed under a drugs keyword and no credit identifying what it depicts, so no media entry is added.
 ---
 
 Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
 officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8]
+and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8,9]
 
 In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
 capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6]
