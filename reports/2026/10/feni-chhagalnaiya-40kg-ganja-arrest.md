@@ -83,6 +83,11 @@ sources:
     publisher: Jagonews24.com
     date: 2026-10-30
     language: bn
+  - title: ফেনীতে অভিনব কায়দায় বসতবাড়িতে মাদকের আস্তানা | Boishakhi Online
+    url: https://www.boishakhionline.com/crime/173520
+    publisher: Boishakhi Online
+    date: 2026-10-31
+    language: bn
 open_questions:
   - The Jagonews24 article body never loaded, so that page was not quoted.
   - Daily Best News spells the village Uttar Adharmamik and times the raid at about 4:05 pm; the Bangla report says উত্তর আধারমানিক at about 4 pm, which this account follows for the place name.
@@ -92,25 +97,27 @@ open_questions:
   - This account times the raid at 4:05 pm, while the existing report follows another Bangla account timing it at about 4 pm.
   - The page carries a photo captioned only with the headline, without credit or description establishing that it shows this seizure, so no media entry is included.
   - Jagonews24 times the raid at 4:05 pm, while the report's main account gives about 4 pm; another cited account already gives 4:05 pm.
+  - This account dates the raid to the dawn of 31 October, while the existing report dates it to the afternoon of 30 October; the publication date is 31 October 2026.
+  - This account garbles the arrested man's patronymic, so his age, full name and parentage continue to rest on the earlier sources.
 ---
 
 Anwar Hossain, 40, son of the late Siraj Uddin, was arrested after SRB-7,
 Chattogram (Feni Camp) raided a house in Chhagalnaiya upazila of Feni and seized
-40 kilograms of ganja. [@1,3,5,7] The unit's operational team searched the house on
+40 kilograms of ganja. [@1,3,5,7,8] The unit's operational team searched the house on
 Friday, 30 October 2026, at about 4 pm, in Uttar Adharmanik village of
-Radhanagar union. [@1,6,7] He was taken from that house, and the report identifies
+Radhanagar union. [@1,6,7,8] He was taken from that house, and the report identifies
 him as the son of the late Siraj Uddin. [@1] Daily Best News, citing the same
 SRB operation, put the time at about 4:05 pm and spelled the village Uttar
 Adharmamik. [@2]
 
 Officers searched a stair room next to the roof and recovered and seized 40
-kilograms of ganja. [@1,4,5,6,7] SRB sources estimated the market value at about 4 lakh
-taka, or 400,000 Bangladeshi taka. [@1,2,5,6,7] The English report described the same
+kilograms of ganja. [@1,4,5,6,7,8] SRB sources estimated the market value at about 4 lakh
+taka, or 400,000 Bangladeshi taka. [@1,2,5,6,7,8] The English report described the same
 consignment as illicit hemp hidden in that rooftop staircase room. [@2] SRB
 officials there also put the estimated value at around BDT 4 lakh. [@2]
 
 SRB said the next legal steps for the arrested man and the seized drugs were
-still being arranged. [@1,5,6,7] Daily Best News reported that SRB was preparing a
+still being arranged. [@1,5,6,7,8] Daily Best News reported that SRB was preparing a
 case under the Narcotics Control Act and intended to hand Anwar Hossain and the
 evidence to the relevant police station. [@2]
 
