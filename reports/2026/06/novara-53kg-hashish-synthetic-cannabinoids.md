@@ -80,6 +80,11 @@ sources:
     publisher: Giornale La Voce
     date: 2026-11-05
     language: it
+  - title: 'Novara, 53 chili di hashish nascondevano sostanze sintetiche: scatta l’allarme'
+    url: https://notiziaoggi.it/novarese/novara-hashish-cannabinoidi-sintetici-sequestro/
+    publisher: Notizia Oggi.it
+    date: 2026-11-08
+    language: it
 open_questions:
   - The sources give no exact date in June 2026 for the road check and arrest; 30 June 2026 is a placeholder inside the month stated and must be treated as approximate.
   - No court outcome or charge detail was reported for the arrested man; the November briefing covered laboratory findings, not the case's progress.
@@ -94,6 +99,9 @@ open_questions:
   - The RaiNews page displays a photograph credited to Guardia di Finanza Novara that is not added here because it could not be confirmed as distinct from the seizure photographs already listed in the report.
   - 'Left out, as its quotation was not found in RaiNews: Forensic analysis later found five different cannabinoids inside the seized substance, four fully synthetic and one semi-synthetic.'
   - 'Left out, as its quotation was not found in RaiNews: The hashish contained four substances in the structural-analogue class derived from indazole-3-carboxamide and a semi-synthetic cannabinoid identified as H4-CBD, derived from cannabidiol.'
+  - This page dates the briefing to 'giovedì 5 ottobre' (a Thursday, 5 October), while the other accounts date it 5 November 2026; the existing report keeps 5 November.
+  - The page says the operation also seized cocaine and marijuana alongside the hashish, but gives no separate weights, so they cannot be quantified.
+  - The page carries no dated caption identifying the seizure photo, so no media entry is added for it.
 ---
 
 Financial police in Novara stopped a car during a road check in June 2026 and
@@ -103,7 +111,7 @@ operation, presented at the Novara prosecution office, began with that road
 check. [@4]
 
 Forensic analysis later found five different cannabinoids inside the seized
-substance, four fully synthetic and one semi-synthetic. [@1,7] All five compounds
+substance, four fully synthetic and one semi-synthetic. [@1,7,8] All five compounds
 fall under Table I of Italy's consolidated narcotics law, the Testo unico sugli
 stupefacenti. [@1] The investigation was coordinated by Silvia Baglivo, the
 acting chief prosecutor of Novara. [@3,7]
@@ -116,3 +124,5 @@ receptors as THC but can produce stronger and less predictable effects than
 traditional cannabis. [@3]
 
 Part of the material was in brown slabs outwardly indistinguishable from traditional hashish, while other samples had a gummy or crystalline consistency. [@6,7]
+
+The four synthetic compounds belong to the structural-analogue class derived from indazole-3-carboxamide, and the fifth is H4-CBD, a semi-synthetic cannabinoid derived from cannabidiol. [@8] Prosecutors said the synthetic cannabinoids act on the same brain receptors as THC but can produce stronger and less predictable effects, including tachycardia, panic attacks and, in the most serious cases, cardiovascular complications up to heart attack. [@8]
