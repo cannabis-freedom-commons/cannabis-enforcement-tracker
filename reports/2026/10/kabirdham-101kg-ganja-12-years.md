@@ -52,16 +52,22 @@ sources:
     publisher: United News of Asia
     date: 2026-10-31
     language: hi
+  - title: गांजा तस्करी में 3 को 12-12 साल की सजा
+    url: https://www.bhaskar.com/local/chhattisgarh/kabirdham/news/three-sentenced-to-12-years-each-for-ganja-smuggling-dbp-139553170.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-01
+    language: hi
 open_questions:
   - Neither report gives the date of the verdict; 31 October 2026 is the publication date of the earlier report.
   - No market value was reported for the 101.070 kg of ganja.
   - The reports do not say whether the three men were in custody or on bail when sentenced.
   - No photograph of the hearing, the accused or the seized ganja was published; Amar Ujala's picture shows the district court entrance.
+  - The submitted Dainik Bhaskar capture ends mid-sentence behind a paywall, so only its opening sentencing summary could be checked in that capture.
 ---
 
 A special NDPS court in Kabirdham, Chhattisgarh, sentenced three men to 12 years
-of rigorous imprisonment each in a ganja trafficking case. [@1] The three were
-Sanwariya Verma, Hokam Singh Sondhiya and Kumer Singh. [@2] The court fined each
+of rigorous imprisonment each in a ganja trafficking case. [@1,3] The three were
+Sanwariya Verma, Hokam Singh Sondhiya and Kumer Singh. [@1,2] The court fined each
 of them ₹1 lakh. [@1] Each would serve an additional year of rigorous
 imprisonment if the fine was not paid. [@1]
 
@@ -74,4 +80,3 @@ evidence from the scene and the seizure. [@1] The court convicted the three men
 after finding the charges proved on the prosecution's evidence. [@1] Police said
 the conviction followed their action against drug trafficking and strong
 evidence gathering. [@1]
-
