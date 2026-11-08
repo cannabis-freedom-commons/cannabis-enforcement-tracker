@@ -206,6 +206,11 @@ sources:
     publisher: Dailyhunt (Aapla Mahanagar)
     date: 2026-11-07
     language: mr
+  - title: “நூடுல்ஸ் பாக்கெட்டுக்குள்ள ரூ.3.72 கோடி கஞ்சாவா….?” நவம்பர் 18 வரை சிறை சர்வதேச போதைப்பொருள் நெட்வொர்க்கை உடைத்த அதிகாரிகள்…. வெளிநாட்டு போதைப்பொருள் கடத்தல் வழக்கில் பயணி கைது….!!
+    url: https://www.seithisolai.com/%E0%AE%A8%E0%AF%82%E0%AE%9F%E0%AF%81%E0%AE%B2%E0%AF%8D%E0%AE%B8%E0%AF%8D-%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%86%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95/
+    publisher: Seithi Solai
+    date: 2026-11-06
+    language: ta
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -268,6 +273,7 @@ open_questions:
   - The feed entry carries no date of its own beyond its position in the 7 November 2026 roundup and gives no airport terminal, Customs unit, quantity in grams or court detail, so it adds no new facts beyond the substance name, weight and value already recorded.
   - The page mixes the Beed LPG blast, the Pune airport seizure and other unrelated Marathi news briefs; only the Pune airport seizure component is treated as cannabis evidence.
   - The page's only image illustrates the Beed gas explosion and is not a picture of the seizure, so no media entry is added.
+  - The Tamil page describes the cannabis as carried in the passenger's luggage and says nothing about a flight number, the Air Intelligence Unit, the field testing kit or the drug's packaging layers beyond the nine durian-labelled packets, so those details still come only from the other accounts already cited.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
@@ -279,7 +285,7 @@ of Pune Customs. [@2,3,12,15,20,23]
 
 Officers searching his check-in trolley bag found nine rectangular,
 silver-coloured packets labelled ‘Freeze Dried Monthong Durian’ hidden among
-noodle packets. [@1,8,11,12,14,15,16,17,18,19,21,22,23,24,25,26,29] Each packet was further lined with two layers of
+noodle packets. [@1,8,11,12,14,15,16,17,18,19,21,22,23,24,25,26,29,32] Each packet was further lined with two layers of
 vacuum-sealed black polythene to mask detection. [@2,8,10,11,12,22,23,24] On opening, the packets
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
