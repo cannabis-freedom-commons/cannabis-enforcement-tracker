@@ -46,6 +46,11 @@ sources:
     publisher: G1
     date: 2026-05-08
     language: pt
+  - title: Incautan 14 toneladas de marihuana en la frontera con Brasil | Canal N
+    url: https://canaln.pe/peru/incautan-14-toneladas-marihuana-frontera-brasil-n491923
+    publisher: Canal N
+    date: 2026-05-10
+    language: es
 open_questions:
   - The sources give no count of arrests, charges, suspects or people detained in connection with the seizure.
   - The ministry first reported about eight tonnes of marijuana on 6 May; Brazil's military later confirmed about 14 tonnes after the load was transported to Tabatinga and reweighed, and the report uses the later figure.
@@ -55,21 +60,27 @@ open_questions:
   - The exact spot on the Yavarí river where the load was found was not named; coordinates are for Mariscal Ramón Castilla province.
   - No photo or video address for the seized load could be confirmed from an opened page; the submitted Facebook thumbnail is a video still, so no media entry is included.
   - 'Left out, as its quotation was not found in Exitosa Noticias: Exitosa Noticias, a Peruvian radio and television outlet, reported the operation on the Amazon triple border as a powerful blow to drug trafficking.'
+  - The article gives no separate date for the raid; 10 May 2026 is its publication date and stands in for the event.
+  - The article names no arrests, charges or suspects.
+  - The article says Colombian forces also coordinated, while the existing report records only Peruvian and Brazilian forces.
+  - The claimed Ecuador origin and intended transit to Brazil and Europe is a single fiscal-investigation account and is not otherwise corroborated.
+  - The article gives the international value only as millions of dollars with no specific figure.
 ---
 
 Peruvian police and armed forces working with Brazilian troops seized a large
 marijuana consignment on the banks of the Yavarí river, in Peru's Loreto region,
 as part of a joint operation against drug trafficking in the Amazon triple
-border area. [@1] Peru's defence ministry said about eight tonnes of marijuana
+border area. [@1,3] Peru's defence ministry said about eight tonnes of marijuana
 were taken on 6 May, the second day of the operation. [@1] The marijuana was
 found on the banks of the Javari, the river marking this stretch of the
 Brazil-Peru border, on Peruvian territory. [@2]
 
 Brazilian and Peruvian forces later put the haul at about 14 tonnes of
-skunk-type marijuana. [@2] Soldiers also reported finding four .22 rifles, a
+skunk-type marijuana. [@2,3] Soldiers also reported finding four .22 rifles, a
 5.56 mm Micro Galil rifle, a 9 mm Micro Uzi submachine gun, ammunition and
-ballistic vests with the load. [@2]
+ballistic vests with the load. [@2,3]
 
 Peruvian officers also destroyed a large drug laboratory and illegal camps
 during the operation, according to the defence ministry. [@1]
 
+The dismantled production camps were located at Quebrada Zacambú and the community of Limones. [@3] The camps had advanced infrastructure for drying and pressing creepy-type marijuana. [@3] A Brazilian Navy vessel moved the 14 tonnes to the headquarters for custody after the official weighing was completed. [@3] After binational protocols, the whole consignment was to be repatriated to Peru for final incineration under Dirandro surveillance. [@3]
