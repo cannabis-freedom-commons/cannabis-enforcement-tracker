@@ -94,6 +94,11 @@ sources:
     publisher: Vocal TV
     date: 2026-11-08
     language: hi
+  - title: कांकेर में 450 किलो गांजा छोड़कर फरार हुआ तस्कर यूपी से गिरफ्तार, कार जब्त
+    url: https://rajexpress.com/chhattisgarh-news/kanker-ganja-smuggling-accused-arrested-uttar-pradesh-fortuner-seized
+    publisher: Raj Express
+    date: 2026-11-08
+    language: hi
 open_questions:
   - The article does not date the interception or the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - Only one source, the submitted NWNews24 report, could be opened for this event, so the weights, packet count and valuations are not independently corroborated.
@@ -118,12 +123,15 @@ open_questions:
   - Vocal TV names no Odisha district for the purchase and no place or date within Uttar Pradesh for the arrest; it says only that the accused was brought to Kanker on Sunday 8 November.
   - This account says the fake plates were from Odisha, Maharashtra and Haryana, while an earlier source cited by the existing report named only Odisha and Haryana; the set of states is unresolved.
   - The page picture carries only the headline as its caption and no credit, so it cannot be confirmed to show this seizure.
+  - Raj Express puts the haul at about 450 kg and ETV Bharat's text gives about 450 quintals, while Nai Dunia records 447.720 kg and the report keeps 433 kg from the first account.
+  - Raj Express dates the dump of the packets to a Wednesday morning without giving a calendar date, and gives no date or place in Uttar Pradesh for the arrest.
+  - Raj Express calls the seized car by its Haryana registration only and does not name the make, while other accounts describe a Toyota Fortuner.
 ---
 
 Kanker district police in Chhattisgarh say they have broken up an interstate
 ganja smuggling network carrying consignments from Malkangiri in Odisha towards
 Haryana. [@1,2,3,6] Officers recovered 433 kg of ganja packed in 90 packets, which
-police valued at about Rs 2 crore 23 lakh. [@1,2,3,5] A Toyota Fortuner car said to
+police valued at about Rs 2 crore 23 lakh. [@1,2,3,5,7] A Toyota Fortuner car said to
 have been used in the smuggling, valued at about Rs 25 lakh, was also seized.
 [@1,3]
 
@@ -137,10 +145,12 @@ the case at about Rs 2 crore 48 lakh. [@1,3,5] Police said the whole smuggling
 network is estimated to be worth about Rs 3 crore and are still looking for the
 other accused. [@1,3]
 
-Police traced the accused with the help of the cyber team. [@2,6] Police set up checkposts at 4 to 5 places. [@2] Police also seized the Haryana-passing vehicle used in the smuggling. [@2,6] So far one accused has been arrested. [@2,6]
+Police traced the accused with the help of the cyber team. [@2,6,7] Police set up checkposts at 4 to 5 places. [@2,7] Police also seized the Haryana-passing vehicle used in the smuggling. [@2,6,7] So far one accused has been arrested. [@2,6,7]
 
 The accused kept 6 fake number plates in the Fortuner for the Odisha-to-Haryana supply run. [@4]
 
 Police and the cyber cell checked footage from more than 300 CCTV cameras to trace the accused. [@5] The plates the accused used were from Odisha, Maharashtra and Haryana. [@5] The accused was produced in court on 7 November. [@5]
 
 Police said a tip on 4 November said ganja was being brought in a Fortuner from Odisha via Keshkal towards Kanker. [@6] The brown-taped packets were found in the forest and hill area near the Shiva temple at Singarbhat village's rice-mill quarter and were counted and weighed in front of witnesses. [@6] Additional superintendent of police Yogesh Sahu said the six plates carried numbers from Odisha, Maharashtra and Haryana and were used to dodge police checks. [@6]
+
+Raj Express attributes the account of the arrest, the car and the spare number plates to Yogesh Sahu, additional superintendent of police in Kanker. [@7]
