@@ -131,15 +131,17 @@ open_questions:
   - The page gives no separate date for the stop; 8 November 2026 is its publication date and the report uses 6 November from the police statement.
   - The three photos on the page carry no captions or credits in the page markup, so it is not established that they show this seizure and no media entry is added from this page.
   - The magazine-style page reproduces the Rivne Oblast police release, so it is not independent reporting on the event.
+  - ОГО.ua says the drugs were found while a parcel received through a parcel locker was being checked, which suggests officers acted on the delivery itself, while the same paragraph says they acted on information they already held; the report keeps both readings open.
+  - The photo on the ОГО.ua page has no caption or credit and the markup gives it empty alt text, so beyond its position between the paragraphs on the seizure and its value it is not established what it shows.
 ---
 
 Detectives of the Rivne Oblast police drug-crime unit stopped a 35-year-old
 Rivne resident near a parcel locker on Viacheslava Chornovola Street in Rivne
-shortly after 5 pm on 6 November, after he collected a postal delivery. [@1,4,6,7,8,9,10] The
+shortly after 5 pm on 6 November, after he collected a postal delivery. [@1,4,5,6,7,8,9,10] The
 stop was based on intelligence the officers already held, and they searched the
-man on the spot. [@2]
+man on the spot. [@2,5]
 
-In the search officers found and seized cannabis weighing about 500 grams. [@1,4,6,7,8,9,10]
+In the search officers found and seized cannabis weighing about 500 grams. [@1,4,5,6,7,8,9,10]
 Rivne Oblast police put the street value of the seized cannabis at about 200,000
 hryvnias (about 4,700 dollars). [@2,4,5,6,7,8,9,10]
 
@@ -147,7 +149,7 @@ A pretrial investigation is under way into unlawful possession of drugs under
 part 1 of article 309 of Ukraine's Criminal Code, which covers acquiring and
 keeping drugs without intent to sell. [@1,4,6,7,8,9,10] Investigators were still working to
 establish who else was involved in the circulation of the drugs, and the other
-circumstances of the offence. [@1,6,7,9,10]
+circumstances of the offence. [@1,5,6,7,9,10]
 
 The three accounts reproduced the same statement from the Rivne Oblast police.
 [@3]
@@ -155,3 +157,5 @@ The three accounts reproduced the same statement from the Rivne Oblast police.
 The officers stopped him while acting on information they already held, rather than on a check triggered by the parcel itself. [@5] On a superficial check the officers found the drug; police described it as cannabis according to preliminary data. [@5] Investigators were still establishing the possible involvement of other people in the illegal circulation of drugs, alongside all the circumstances of the case. [@5] The parcel-locker stop was announced by the police on 7 November. [@5]
 
 За даними поліції Рівненщини, чоловіка зупинили вчора близько 17 години біля поштомату, а вилучена речовина за попередніми даними є канабісом. [@3]
+
+ОГО.ua, whose headline says the man received the cannabis by post, reports that the drugs were found during a check of a parcel he had collected through the parcel locker. [@5] The Rivne Oblast police made the stop public on 7 November, the day after it happened. [@5] ОГО.ua put the black-market value of the seized drugs at about 200,000 hryvnias, the same figure other accounts attributed to police. [@5]
