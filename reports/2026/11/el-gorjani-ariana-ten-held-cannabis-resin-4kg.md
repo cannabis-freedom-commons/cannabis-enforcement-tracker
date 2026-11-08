@@ -74,6 +74,11 @@ sources:
     publisher: Tuniscope
     date: 2026-11-07
     language: ar
+  - title: 'Ariana et Tunis : deux réseaux de trafic de drogue démantelés, 10 arrestations'
+    url: https://directinfo.webmanagercenter.com/2026/11/07/ariana-et-tunis-deux-reseaux-de-trafic-de-drogue-demanteles-10-arrestations/
+    publisher: Directinfo
+    date: 2026-11-07
+    language: fr
 open_questions:
   - The first operation was carried out the day before publication and the Ariana operation the day before that, so 6 November 2026 is used as the incident date for the report, with 7 November as the publication date.
   - The cocaine capsules are excluded from cannabis figures, and no weight was given for the cocaine.
@@ -87,20 +92,25 @@ open_questions:
   - Tuniscope gives 4 November 2026 for the first operation and 6 November 2026 for the Ariana operation, matching Radio Diwan FM and resolving part of the earlier open question about which day each happened.
   - Tuniscope says 38 plates of cannabis weighing about 4 kg but does not say whether the plates are pressed resin or herbal cannabis.
   - The page's only picture is a generic handcuffs stock photo with a red overlay, not confirmed to show this seizure, so it is not listed as media.
+  - The Directinfo account is a French-language rendering of the same security-source briefing carried by the Arabic outlets, so it is not independent reporting of the raids.
+  - Directinfo says the suspects were placed in garde à vue after consulting the Public Prosecution; it gives no further court step or outcome.
+  - The page's lead image is a 2015 cocaine stock photograph from the outlet's library, not a picture of this seizure, so no media entry is added.
 ---
 
 Officers of the anti-drug sub-directorate at the El Gorjani judicial police
 directorate broke up an international criminal network of foreign nationals and
-Tunisians and arrested seven people in it. [@1,2,3] The first operation also seized
-31 capsules of cocaine, two cars and a sum of money. [@1,2,3]
+Tunisians and arrested seven people in it. [@1,2,3,4] The first operation also seized
+31 capsules of cocaine, two cars and a sum of money. [@1,2,3,4]
 
 The same police unit dismantled a drug-trafficking cell in the Ariana area the
 next day, arrested three people, two of them already wanted, and held 38 plates
-of cannabis weighing about 4 kg. [@1,2,3]
+of cannabis weighing about 4 kg. [@1,2,3,4]
 
 The Public Prosecution ordered the suspects held in custody on drugs and
-money-laundering offences. [@1,2,3]
+money-laundering offences. [@1,2,3,4]
 
-Officers seized 23,000 dinars in cash in that first operation. [@2,3] The first operation was carried out on 4 November 2026. [@2,3]
+Officers seized 23,000 dinars in cash in that first operation. [@2,3,4] The first operation was carried out on 4 November 2026. [@2,3,4]
 
-Two of the three were already wanted by police, one of them sentenced to ten years in prison, and officers seized a car in the Ariana operation. [@3] The Ariana operation was carried out on 6 November 2026. [@3]
+Two of the three were already wanted by police, one of them sentenced to ten years in prison, and officers seized a car in the Ariana operation. [@3,4] The Ariana operation was carried out on 6 November 2026. [@3,4]
+
+Directinfo describes the 38 plates seized in the Ariana operation explicitly as cannabis resin weighing about 4 kg, and says a vehicle was seized there. [@4]
