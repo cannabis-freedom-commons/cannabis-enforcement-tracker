@@ -58,6 +58,16 @@ sources:
     publisher: La Jornada Hidalgo
     date: 2026-11-07
     language: es
+  - title: Decomisan 231 dosis de droga y detienen a tres personas en Tezontepec y Tlahuelilpan
+    url: https://www.eluniversalhidalgo.com.mx/seguridad/decomisan-231-dosis-de-droga-y-detienen-a-tres-personas-en-tezontepec-y-tlahuelilpan/
+    publisher: El Universal Hidalgo
+    date: 2026-11-07
+    language: es
+  - title: Detienen a tres por narcomenudeo durante operativos en dos municipios de Hidalgo
+    url: https://www.milenio.com/policia/detienen-a-tres-por-narcomenudeo-en-dos-operativos-en-hidalgo
+    publisher: Milenio
+    date: 2026-11-07
+    language: es
 open_questions:
   - No weight or street value was given for the marijuana, only doses, so no kilograms are recorded.
   - The substances were described as similar to marijuana and methamphetamine; no laboratory confirmation or forensic result was reported.
@@ -66,22 +76,23 @@ open_questions:
   - The sources do not say whether the two properties are connected to one another or to the detainees.
   - Only uncredited 'Especial' illustrations were published; the photo of officers in front of an 'Inmueble asegurado' sign is listed, but no caption confirms which municipality it shows.
   - Neither opened report reproduces a full Sedena or Guardia Nacional statement, so both draw on the same official account from the I Military Region and 18/a Military Zone.
+  - The El Universal Hidalgo and Milenio lead images are credited only as Especial/Cortesía with no caption confirming they show these properties or seizures, so no media entry is added.
 ---
 
 Three people were arrested in Tezontepec de Aldama during an operation by army,
 National Guard and Hidalgo state security forces that also included a second
-action in Tlahuelilpan. [@1] The two actions were carried out on Thursday 5
+action in Tlahuelilpan. [@1,3] The two actions were carried out on Thursday 5
 November 2026 under two technical investigation orders, according to the
 commands of the I Military Region and the 18/a Military Zone. [@1] The Mexican
 Army, the National Guard and Hidalgo security forces took part. [@1]
 
 In Tezontepec de Aldama officers found 53 doses of green herb similar to
-marijuana and 28 doses of a substance similar to methamphetamine. [@1] The three
+marijuana and 28 doses of a substance similar to methamphetamine. [@1,4] The three
 arrests were made in Tezontepec de Aldama. [@1] Officers also seized two
 motorcycles and the property where the Tezontepec action took place. [@1]
 
 In Tlahuelilpan the forces secured another property and 150 doses, 107 of green
-herb similar to marijuana and 43 of a substance similar to methamphetamine. [@1]
+herb similar to marijuana and 43 of a substance similar to methamphetamine. [@1,4]
 Together the two actions yielded 160 doses of suspected marijuana, 71 of
 possible methamphetamine, two properties and two motorcycles. [@1] La Jornada
 Hidalgo reported the same totals, including two properties and two motorcycles
@@ -89,8 +100,7 @@ secured under the two investigation orders. [@2]
 
 The three detainees and the seized items were placed at the disposal of the
 federal prosecutor's office, the Fiscalía General de la República, in Pachuca
-for expert tests and the continuing investigation. [@1] The prosecutors' tests
+for expert tests and the continuing investigation. [@1,4] The prosecutors' tests
 are to establish the composition of the substances, first described only by
 their physical characteristics, and the possible participation of the detainees.
 [@1]
-
