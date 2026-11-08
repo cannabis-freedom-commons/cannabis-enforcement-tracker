@@ -74,6 +74,10 @@ sources:
     url: https://cw34.com/news/local/gallery/port-st-lucie-police-traffic-stop-leads-to-nearly-9-pounds-of-marijuana-seizure-1450-cash-packaged-for-distribution-intent-to-sell-?photo=1
     publisher: WTVX
     date: 2026-10-30
+  - title: Port St. Lucie man arrested after officers spot marijuana in plain view
+    url: https://www.msn.com/en-us/news/other/port-st-lucie-man-arrested-after-officers-spot-marijuana-in-plain-view/ar-AA2gqVta
+    publisher: WPBF West Palm Beach
+    date: 2026-10-30
 open_questions:
   - Police gave no street value for the marijuana; the $1,450 in the reports is cash found in the vehicle, not a valuation.
   - No court date, plea or outcome was reported after Torres was released on bail.
@@ -84,6 +88,7 @@ open_questions:
   - This gallery frame shares the same generic caption as the other CBS12 images and does not say what the photograph itself shows, so it was not added as a distinct picture.
   - The page's only image is a stock crime-scene-tape photo credited to Aleksei Urussov/Gorodenkoff via stock.adobe.com, not a photo of this seizure, so no media entry is added.
   - The WQCS wording of the first charge is possession of a controlled substance with intent to sell, manufacture or deliver marijuana, while the existing report phrases it as possession of marijuana with intent to sell, manufacture or deliver; the substance and conduct described are the same.
+  - The submitted MSN mirror shows only the opening paragraphs of the WPBF article; the rest sits behind a 'Continue reading' control, so no further detail could be drawn from it.
 ---
 
 The driver, Samuel Torres, 27, of Port St. Lucie, was arrested and charged with
@@ -91,12 +96,12 @@ possession of marijuana with intent to sell, manufacture or deliver, and
 possession of drug paraphernalia for retail sale, police said. [@1,4,6] The
 investigation began on 28 October 2026, when officers looking for a vehicle
 linked to a reported domestic disturbance stopped him near Southwest Rice Avenue
-and Southwest Chartwell Street. [@1,4,6] He was taken to the St. Lucie County Jail
+and Southwest Chartwell Street. [@1,4,6,8] He was taken to the St. Lucie County Jail
 and released the next day on a $22,500 bail, according to the jail’s website.
 [@2]
 
 Police said officers saw suspected marijuana inside the vehicle and called in
-the department’s Special Investigations Unit. [@1,4,6] Detectives found multiple
+the department’s Special Investigations Unit. [@1,4,6,8] Detectives found multiple
 vacuum-sealed and individually packaged bags, as well as loose suspected
 marijuana in the seats and floorboard, and investigators said the marijuana had
 been packaged for distribution. [@1,4,6] The traffic stop led to the seizure of
