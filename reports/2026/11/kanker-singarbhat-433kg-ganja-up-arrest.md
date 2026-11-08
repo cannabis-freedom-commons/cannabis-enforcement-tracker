@@ -54,6 +54,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/07/3f351a76-1540-4a67-a441-b01374d668b3_1794055899530.jpg
     publisher: Dainik Bhaskar
     caption: 'The Fortuner car said to have been used for the ganja smuggling (publisher caption: इसी कार से गांजे की तस्करी हो रही थी). No credit given.'
+  - kind: photo
+    url: https://vocaltv.in/chhattisgarh/abscoundin-accused-in-cannabis-arrestedphp/cid19506178.htm
+    media_url: https://vocaltv.in/static/c1e/client/111914/migrated_original/be8402e80945154337afb31ebe0951d3.jpg
+    publisher: Vocal TV
+    caption: Page picture published with the report on the Kanker ganja arrest, captioned only with the headline 447 किलो गांजा हुआ था बरामद; no credit and no caption confirming what it shows.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: abd2c7095fbd5383aa0786ca9ab46e0a
@@ -84,6 +89,11 @@ sources:
     publisher: Nai Dunia
     date: 2026-11-08
     language: hi
+  - title: गांजा तस्करी का फरार एक आरोपित गिरफ्तार, 447 किलो गांजा हुआ था बरामद
+    url: https://vocaltv.in/chhattisgarh/abscoundin-accused-in-cannabis-arrestedphp/cid19506178.htm
+    publisher: Vocal TV
+    date: 2026-11-08
+    language: hi
 open_questions:
   - The article does not date the interception or the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - Only one source, the submitted NWNews24 report, could be opened for this event, so the weights, packet count and valuations are not independently corroborated.
@@ -104,18 +114,22 @@ open_questions:
   - Nai Dunia reports only that the accused was produced in court on 7 November, without naming the court, the charge sections or any custody order.
   - Nai Dunia does not say whether the Rs 2 crore 23 lakh 50 thousand and Rs 2 crore 48 lakh 60 thousand valuations are police estimates.
   - The page photo carries only the headline as its caption and no credit, so it cannot be confirmed to show this seizure and is not added as media.
+  - Vocal TV gives the haul as 447.720 kg in 90 packets, while the existing report's figures come from an account that put it at 433 kg in 90 packets; the difference is unresolved, so no weight is offered here.
+  - Vocal TV names no Odisha district for the purchase and no place or date within Uttar Pradesh for the arrest; it says only that the accused was brought to Kanker on Sunday 8 November.
+  - This account says the fake plates were from Odisha, Maharashtra and Haryana, while an earlier source cited by the existing report named only Odisha and Haryana; the set of states is unresolved.
+  - The page picture carries only the headline as its caption and no credit, so it cannot be confirmed to show this seizure.
 ---
 
 Kanker district police in Chhattisgarh say they have broken up an interstate
 ganja smuggling network carrying consignments from Malkangiri in Odisha towards
-Haryana. [@1,2,3] Officers recovered 433 kg of ganja packed in 90 packets, which
+Haryana. [@1,2,3,6] Officers recovered 433 kg of ganja packed in 90 packets, which
 police valued at about Rs 2 crore 23 lakh. [@1,2,3,5] A Toyota Fortuner car said to
 have been used in the smuggling, valued at about Rs 25 lakh, was also seized.
 [@1,3]
 
 The gang fled after dumping the load near Singarbhat when they saw a police
 check. [@1,2,3,5] Police arrested the fugitive accused, named in the report as
-Sukhpal, in Uttar Pradesh. [@1,2,3,4,5]
+Sukhpal, in Uttar Pradesh. [@1,2,3,4,5,6]
 
 Investigators said the accused kept changing vehicle registration numbers to
 move loads between states. [@1,2,3,5] Police put the total value of what was seized in
@@ -123,8 +137,10 @@ the case at about Rs 2 crore 48 lakh. [@1,3,5] Police said the whole smuggling
 network is estimated to be worth about Rs 3 crore and are still looking for the
 other accused. [@1,3]
 
-Police traced the accused with the help of the cyber team. [@2] Police set up checkposts at 4 to 5 places. [@2] Police also seized the Haryana-passing vehicle used in the smuggling. [@2] So far one accused has been arrested. [@2]
+Police traced the accused with the help of the cyber team. [@2,6] Police set up checkposts at 4 to 5 places. [@2] Police also seized the Haryana-passing vehicle used in the smuggling. [@2,6] So far one accused has been arrested. [@2,6]
 
 The accused kept 6 fake number plates in the Fortuner for the Odisha-to-Haryana supply run. [@4]
 
 Police and the cyber cell checked footage from more than 300 CCTV cameras to trace the accused. [@5] The plates the accused used were from Odisha, Maharashtra and Haryana. [@5] The accused was produced in court on 7 November. [@5]
+
+Police said a tip on 4 November said ganja was being brought in a Fortuner from Odisha via Keshkal towards Kanker. [@6] The brown-taped packets were found in the forest and hill area near the Shiva temple at Singarbhat village's rice-mill quarter and were counted and weighed in front of witnesses. [@6] Additional superintendent of police Yogesh Sahu said the six plates carried numbers from Odisha, Maharashtra and Haryana and were used to dodge police checks. [@6]
