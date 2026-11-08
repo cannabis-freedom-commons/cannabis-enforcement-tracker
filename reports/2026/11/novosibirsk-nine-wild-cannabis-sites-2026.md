@@ -35,6 +35,11 @@ sources:
     publisher: Siberian Interregional Directorate of Rosselkhoznadzor
     date: 2026-11-05
     language: ru
+  - title: 'Трава у дома: Россельхознадзор обнаружил девять участков дикорастущей конопли на новосибирских сельхозугодьях - МК Новосибирск'
+    url: https://novos.mk.ru/social/2026/11/08/trava-u-doma-rosselkhoznadzor-obnaruzhil-devyat-uchastkov-dikorastushhey-konopli-na-novosibirskikh-polyakh.html
+    publisher: Moskovsky Komsomolets Novosibirsk
+    date: 2026-11-08
+    language: ru
 open_questions:
   - The incident date uses the agency publication date of 5 November 2026; the finds occurred throughout 2026, with one inspection in September, and exact dates for the other sites were not given.
   - The sources order destruction and notify the Interior Ministry but do not confirm that the 2,699 square metres were destroyed, so the recorded area is the area found.
@@ -47,25 +52,25 @@ open_questions:
   - Left out setting, as its quotation was not found in Om1.ru.
   - Left out hectares, as its quotation was not found in Om1.ru.
   - Left out sites, as its quotation was not found in Om1.ru.
+  - The MK article gives almost 2,700 square metres while the existing report records 2,699 square metres from the Rosselkhoznadzor statement; the report's precise figure is retained.
 ---
 
 In 2026, specialists of the Siberian interregional directorate of
 Rosselkhoznadzor found nine wild cannabis sites on farmland in Novosibirsk
-Oblast. [@2] The sites lay in the Barabinsky, Iskitimsky, Kolyvansky,
-Novosibirsky and Ordynsky districts. [@2] Together they covered 2,699 square
+Oblast. [@2,3] The sites lay in the Barabinsky, Iskitimsky, Kolyvansky,
+Novosibirsky and Ordynsky districts. [@2,3] Together they covered 2,699 square
 metres. [@2]
 
 The plants grew both as separate patches and among other weeds on the farmland.
-[@2] One of the largest finds came in September 2026 in the Iskitimsky district
+[@2,3] One of the largest finds came in September 2026 in the Iskitimsky district
 after residents complained about farmland overgrown with weeds including wild
-cannabis. [@2] An inspector found weed cannabis (Cannabis ruderalis) growing on
+cannabis. [@2,3] An inspector found weed cannabis (Cannabis ruderalis) growing on
 three adjacent plots there. [@2] The cannabis on those plots covered at least
 1,615 square metres. [@2] The result was recorded with the Inspector mobile app.
 [@2]
 
 Landholders were warned to eliminate the wild cannabis and bring the land back
-into agricultural use. [@2] Information on the finds was sent to the Interior
-Ministry for action within its remit. [@2] The watchdog reminded owners that
+into agricultural use. [@2,3] Information on the finds was sent to the Interior
+Ministry for action within its remit. [@2,3] The watchdog reminded owners that
 overgrowth threatens fertility and that weed and drug-containing vegetation must
 be found and destroyed in time. [@1]
-
