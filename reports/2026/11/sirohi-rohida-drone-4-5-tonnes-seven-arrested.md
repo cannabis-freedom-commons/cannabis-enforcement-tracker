@@ -36,11 +36,6 @@ data_sources:
   figures.arrested: [2]
   figures.kg_seized: [2]
 media:
-  - kind: photo
-    url: https://rajasthan.ndtv.in/videos/sirohi-discovery-of-cannabis-cultivation-in-hills-reported-in-top-breaking-news-1187381
-    media_url: https://c.ndtvimg.com/dmx-images/video/images/vod/medium/2026-11/1187381_maxresdefault.jpg?downsize=1600:900
-    publisher: NDTV Rajasthan
-    caption: Still image published as the thumbnail of NDTV Rajasthan's video on the Sirohi cannabis cultivation raids; the page gives no credit.
   - kind: video
     url: https://rajasthan.ndtv.in/videos/sirohi-discovery-of-cannabis-cultivation-in-hills-reported-in-top-breaking-news-1187381
     media_url: https://ndtvod.pc.cdn.bitgravity.com/23372/ndtv/web_sirohi_596960_334475_5000.mp4

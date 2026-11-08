@@ -32,11 +32,6 @@ data_sources:
   figures.arrested: [1]
   figures.kg_seized: [1]
 media:
-  - kind: photo
-    url: https://yerel-haberler.haberturk.com/adana-haberleri/jandarmadan-uyusturucu-operasyonu-7-kilo-108-gram-esrar-ele-gecirildi-119515168
-    media_url: https://im.haberturk.com/assets/laravel/images/common/local-news/adana-960x540.jpg
-    publisher: Habertürk Yerel Haberler
-    caption: The page image captioned with the headline of the Adana gendarmerie seizure; it has no stated photographer or agency credit.
   - kind: video
     url: https://www.sabah.com.tr/video/yasam/jandarmadan-uyusturucu-operasyonu-7-kilo-108-gram-esrar-ele-gecirildi-video
     media_url: https://doiszsroym.erbvr.com/vms/5/13/62/51362bc5-8c69-4815-afd9-c55b26e7f793/51362bc5-8c69-4815-afd9-c55b26e7f793_1080p_800k.mp4

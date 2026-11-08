@@ -35,12 +35,6 @@ data_sources:
   details.products: [2]
   details.setting: [2]
   figures.arrested: [2]
-media:
-  - kind: photo
-    url: https://www.schwarzwaelder-bote.de/baden-wuerttemberg/mutmasslicher-drogenhandel-15-kilo-kokain-und-waffen-bei-razzien-sichergestellt-79675373.html
-    media_url: https://cdn.schwarzwaelder-bote.de/2026/11/06/edc6a61e-1282-4bd9-98e6-89abccd008cc.jpg?crop=2048%2C1152%2C0%2C107&width=1200&format=webp&token=3d9c9ce58b2d0b6c614ec8c88d6dd15ba52856474c592c95abdb8d8dd2590d85
-    publisher: Schwarzwälder Bote
-    caption: 'Photo published with the report of the raids in the Ostalbkreis, captioned as weapons and cocaine seized in a raid in Aalen. Photo: Marijan Murat/dpa'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: abd4792b8c766027f4cc611224241270

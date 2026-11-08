@@ -47,12 +47,6 @@ data_sources:
   figures.kg_seized: [1]
   figures.prison: [1]
   figures.sentenced: [1]
-media:
-  - kind: photo
-    url: https://www.amarujala.com/uttar-pradesh/jhansi/charas-smuggler-sentenced-to-three-months-and-five-days-in-prison-jhansi-news-c-11-jhs1019-912477-2026-11-07
-    media_url: https://staticimg.amarujala.com/assets/images/2021/10/18/jhansi_1634557409.jpeg?w=674&dpr=2.0&q=80
-    publisher: Amar Ujala
-    caption: Page picture captioned only 'Charas smuggler sentenced to three months and five days in prison'; its address is dated 2021 and it is not established to show this case, so it is linked rather than used as a cover photo.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 532444e859f292eb57ef88dbca2141bf

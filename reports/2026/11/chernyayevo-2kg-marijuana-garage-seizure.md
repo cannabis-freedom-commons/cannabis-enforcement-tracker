@@ -39,12 +39,6 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://www.dvnovosti.ru/incidents/2026/11/06/199118/
-    media_url: https://cdn.dvhab.ru/news/1793941068383_default
-    publisher: DVnovosti
-    caption: Police photo captioned with the Khabarovsk Krai Interior Ministry report of the 2.1 kg marijuana seizure in Chernyayevo; no separate credit is given.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 33db5e481693520b1f276f85d338ea61

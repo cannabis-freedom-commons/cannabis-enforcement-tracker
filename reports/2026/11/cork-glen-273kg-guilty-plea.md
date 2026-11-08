@@ -39,12 +39,6 @@ data_sources:
   figures.charged: [2]
   figures.kg_seized: [2]
   figures.value: [1]
-media:
-  - kind: photo
-    url: https://www.irishexaminer.com/news/courtandcrime/arid-41934423.html
-    media_url: https://www.irishexaminer.com/cms_media/module_img/10569/5284830_3_org_982f225f-b802-447f-9477-d1880e0cd035.jpg.jpg
-    publisher: Irish Examiner
-    caption: 'The cannabis discovered during a Garda search of a car in The Glen, Cork. Photo: Irish Examiner'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 01ceb8f9196b851858a402732cd2a8ca

@@ -27,12 +27,6 @@ data_sources:
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
-media:
-  - kind: photo
-    url: https://www.livehindustan.com/bihar/samastipur/story-shivajinagar-police-seize-smack-cannabis-and-256-litres-of-liquor-201794070644664.amp.html
-    media_url: https://www.livehindustan.com/lh-img/smart/img/2025/10/17/640x360/Frame_263_1760661767192_1760661774465.png
-    publisher: Live Hindustan
-    caption: Hero picture on the report, captioned as a Samastipur news picture of the grocery shopkeeper arrested with 61 grams of smack and ganja; it carries no credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 21746851b8f0ba6756db0478da46ca70

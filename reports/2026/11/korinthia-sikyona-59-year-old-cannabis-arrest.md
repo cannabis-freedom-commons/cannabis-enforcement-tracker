@@ -29,12 +29,6 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   figures.arrested: [1]
-media:
-  - kind: photo
-    url: https://korinthostv.gr/article/korinthia-synelifthi-59chronos-gia-katochi-kannavis
-    media_url: https://korinthostv.gr/uploads/display/54d1a5ff3355c941da2d667b3737ae831cd62cc3caf21f17ddd94efafeca83cd.webp
-    publisher: KorinthosTV
-    caption: Picture published with the KorinthosTV report of the arrest of a 59-year-old man in the Municipality of Sikyona; the page gives no caption or credit for it.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b77e76fe73848d729684d4831b205876

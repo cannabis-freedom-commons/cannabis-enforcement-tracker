@@ -37,17 +37,6 @@ data_sources:
   details.setting: [2]
   figures.arrested: [2]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://penzaobzor.ru/news/2026390212/v-bessonovskom-rajone-izyali-svyshe-250-gramm-konopli/
-    media_url: https://penzaobzor.ru/wp-content/uploads/2026/09/Policiya8-9.jpg
-    publisher: Пенза-Обзор
-    caption: 'Page picture published with the account of the seizure in Bessonovsky district. Photo: Press service of the Russian Interior Ministry for Penza Oblast'
-  - kind: photo
-    url: https://riapo.ru/penza/kriminal/u-zhitelya-bessonovskogo-rajona-izyali-krupnuyu-partiyu-narkotikov
-    media_url: https://riapo.ru/upload/qsryztfd1xspxqpbvohxgp-3dbd3mq1j.jpg
-    publisher: РИА Пензенской области
-    caption: 'Photo published by RIA Penza Oblast with its report on the case. Photo: Press service of the Russian Interior Ministry for Penza Oblast'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 618d960c6e18ab1adb975617ec2ea51f

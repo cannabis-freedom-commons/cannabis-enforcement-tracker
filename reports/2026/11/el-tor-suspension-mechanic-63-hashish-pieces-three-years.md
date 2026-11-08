@@ -49,11 +49,6 @@ data_sources:
   figures.sentenced: [1]
 media:
   - kind: photo
-    url: https://www.elwatannews.com/news/details/8392565
-    media_url: https://media.elwatannews.com/media/img/Large/2026/11/8/2026_11_8_14_34_10_176.jpg
-    publisher: الوطن
-    caption: Picture published with the report of the sentence; its caption only repeats the headline and it is not confirmed to show the defendant, the workshop or the seized hashish.
-  - kind: photo
     url: https://www.gamahir.com/35869
     media_url: https://www.gamahir.com/img/26/11/08/35869-17941411256092029.webp
     publisher: جريدة جماهير

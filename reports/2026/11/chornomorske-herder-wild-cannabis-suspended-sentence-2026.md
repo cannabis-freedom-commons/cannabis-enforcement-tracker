@@ -45,12 +45,6 @@ data_sources:
   figures.convicted: [1]
   figures.prison: [3]
   figures.sentenced: [3]
-media:
-  - kind: photo
-    url: https://crimea.mk.ru/social/2026/11/06/v-chernomorskom-rayone-osudili-muzhchinu-za-sorvannyy-kust-konopli.html
-    media_url: https://static.mk.ru/upload/entities/2026/11/06/16/articles/detailPicture/c6/6f/63/6c/8c5ef1884a798d57fbb13f1e424f3098.jpg
-    publisher: МК в Крыму
-    caption: 'Photo published with the report on the verdict, credited to the press service of the prosecutor''s office of Crimea. Photo: пресс-служба прокуратуры Крыма'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a84ec713b5b8db259c79fbc4c3f8a89

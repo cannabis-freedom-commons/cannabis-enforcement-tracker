@@ -38,12 +38,6 @@ data_sources:
   figures.arrested: [1]
   figures.cash: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://kimskashmir.com/drug-peddler-arrested-in-shopian-charas-like-substance-%E2%82%B931500-cash-seized/
-    media_url: https://kimskashmir.com/wp-content/uploads/2026/10/IMG_8316.jpeg
-    publisher: Kashmir Independent Media Service
-    caption: The lead image published with the Shopian arrest report, captioned only with the headline 'Shopian drug peddler arrested'.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 47848aaf5ab7d99d2b097f0db59cfd41

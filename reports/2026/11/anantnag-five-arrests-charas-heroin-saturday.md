@@ -31,12 +31,6 @@ data_sources:
   details.charges: [1]
   details.products: [1]
   figures.arrested: [1]
-media:
-  - kind: photo
-    url: https://kimskashmir.com/five-alleged-drug-peddlers-arrested-in-separate-anantnag-operations-heroin-charas-recovered/
-    media_url: https://kimskashmir.com/wp-content/uploads/2026/11/IMG_8395.jpeg
-    publisher: Kashmir Independent Media Service
-    caption: Lead image on the KIMS page for the five Anantnag arrests, showing hands gripping prison bars; it carries no caption or credit identifying the suspects.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 705cf852d77195c8eaab45178dabfbf3

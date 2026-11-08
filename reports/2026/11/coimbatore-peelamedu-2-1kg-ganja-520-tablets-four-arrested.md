@@ -33,12 +33,6 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/cannabis-and-drug-trafficking-4-people-arrested-520-tablets-seized/4370259
-    media_url: https://images.dinamalar.com/data/large_2025/Tamil_News_lrg_437025920261107172750.jpg
-    publisher: Dinamalar
-    caption: The page's own picture, captioned only 'Latest Tamil News' and carrying no credit; it is not established to show this seizure.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9702047f5b6254d7b48b10ffe334e852

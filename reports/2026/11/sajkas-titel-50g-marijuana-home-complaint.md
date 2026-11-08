@@ -35,12 +35,6 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://www.novosti.rs/c/hronika/hapsenja-i-istraga/1668718/kuci-drzao-50-grama-marihuane-krivicna-prijava-osumnnjicenom-sajkasa-drzanje-droge
-    media_url: https://www.novosti.rs/data/images/2026-08-31/737813_screenshot-2026-08-31-183231_f.jpg?ts=1793973943
-    publisher: Novosti
-    caption: 'Police handout photo published with the Novosti report on the Šajkaš search, credited to Novosti/MUP; it carries no separate caption describing the seized items. Photo: Novosti/MUP'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dcaefb8a8878562b49c8d6e20a18608e

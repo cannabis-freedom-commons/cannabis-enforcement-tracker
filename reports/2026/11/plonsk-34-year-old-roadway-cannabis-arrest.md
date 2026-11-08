@@ -32,12 +32,6 @@ data_sources:
   details.force: [4]
   details.setting: [2]
   figures.arrested: [2]
-media:
-  - kind: photo
-    url: https://informacje.wp.pl/wiadomosci/wchodzil-prosto-pod-nadjezdzajace-auta-policjanci-odkryli-cos-jeszcze-7348182509509088a
-    media_url: https://v.wpimg.pl/NmIzODFmYQwoGDl3aRZsGWtAbS0vT2JPPFh1ZmlcfF15Anlzc0IoBCUfPSE2AmAKOw8_JTEdYB0lVS40L0I4XGYeJjc2AS8UZh8iJiMJYV94G3d0dl5_QChKeXRrWStYcFd3JyJbY14sH3kmdVV_C3BLfmY7
-    publisher: WP Info / TuStolica.pl
-    caption: 'Police handout photo published with the account of the Płońsk intervention. Source credit on the page: policja.gov.pl'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: da35b5b14f52679fd9c55f8c539d8e9f
