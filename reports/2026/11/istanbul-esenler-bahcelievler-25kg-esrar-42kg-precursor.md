@@ -100,6 +100,11 @@ sources:
     publisher: Kelkit Gazetesi
     date: 2026-11-07
     language: tr
+  - title: İstanbul Bahçelievler ve Esenler'de Uyuşturucu Operasyonlarında 4 Ton Ham Madde Ele Geçirildi
+    url: https://www.mersinhaber.com/haber-istanbul-bahcelievler-ve-esenlerde-uyusturucu-operasyonlarinda-4-ton-ham-madde-ele-gecirildi/839896
+    publisher: Mersin Haber
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports say the raids took place within 24 hours before the 7 November 2026 publication and give no calendar date, so 7 November 2026 is used as an approximate incident date.
   - The weight of esrar found in the vehicle in Esenler and in the home in Bahçelievler is not broken down; only a combined 25 kilos 90 grams is given.
@@ -126,16 +131,21 @@ open_questions:
   - Kelkit credits the text to DHA, the same agency whose account the report already cites, so it is not independent reporting of the raids.
   - The page gives no calendar date for the two raids, only the 7 November 2026 publication date already used in the report as an approximate incident date.
   - The page says the two suspects would be referred to court (sevk edileceği öğrenildi), while the Anadolu copy already cited in the report said they had been sent; the custody outcome remains as the report records it.
+  - Mersin Haber credits İHA agency copy and reproduces the same İstanbul police statement already cited, so it is not independent reporting of the raids.
+  - Mersin Haber says the two suspects were still to be sent to court after police processing (adliyeye sevk edilmeleri bekleniyor), while other accounts already cited in the report said they had been sent; the report keeps both accounts.
+  - Mersin Haber's headline gives 4 tonnes 200 kilograms of raw material, which is the police estimate of synthetic cannabinoid production potential from the A-M 2201 chemical, not a cannabis quantity, and is excluded from cannabis figures.
+  - The page image carries only the story headline as its caption and is not established to show this seizure, so no media entry is added.
+  - The page gives no calendar date for the two raids beyond the 7 November 2026 publication date already used as an approximate incident date.
 ---
 
 Istanbul police narcotics officers detained two suspects in two separate
 operations in the Esenler and Bahçelievler districts of Istanbul within 24
 hours. [@1,5,6,7,8,9,10,11] Officers searched a vehicle in Esenler and a home in Bahçelievler.
-[@1,6,7,8,11]
+[@1,6,7,8,11,13]
 
 The searches found 25 kilos 90 grams of esrar, the Turkish name for cannabis.
-[@1,6,7,8,9,10,11] The same searches found 42 kilograms of a chemical the provincial police
-called A-M 2201. [@2] Istanbul's provincial police said the A-M 2201 would have
+[@1,6,7,8,9,10,11,13] The same searches found 42 kilograms of a chemical the provincial police
+called A-M 2201. [@2,13] Istanbul's provincial police said the A-M 2201 would have
 been enough to make 4 tonnes 200 kilograms of synthetic cannabinoid, and that
 the material was stopped before it could be used for production. [@1,7]
 
@@ -150,3 +160,5 @@ kilograms of chemical and the 25 kilos 90 grams of esrar in searches of the
 vehicle and the house. [@4]
 
 The searches of the vehicle in Esenler and the home in Bahçelievler were carried out at the same time. [@12] Officers searched both the vehicle and the identified address in detail. [@12] The agency report said the two suspects would be referred to court once police processing was completed. [@12]
+
+Mersin Haber says the suspects were still to be sent to court after police processing. [@13]
