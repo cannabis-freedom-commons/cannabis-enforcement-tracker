@@ -39,6 +39,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-04
     language: hi
+  - title: 'Sohagpur Crime: Dharmendra Soni Arrested With Drugs And Ganja'
+    url: https://www.bhaskar.com/local/mp/shahdol/news/sohagpur-dharmendra-soni-arrested-drugs-ganja-seized-139598138.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives no separate date for the raid and arrest, so 4 November 2026, the publication date, is used as the incident date.
   - The 1,548 tablets are reported only as intoxicating tablets without a stated composition, so only the 270 grams of ganja is recorded as cannabis.
@@ -46,6 +51,8 @@ open_questions:
   - No charges or court outcome were reported; police said the source of the tablets and possible accomplices are under investigation.
   - Only one accessible source for this event was found after searching in Hindi and English.
   - The page photo is captioned as the Sohagpur police station and does not show the seizure itself, so no media entry is included.
+  - Dainik Bhaskar, like Amar Ujala, gives no separate date for the raid; 4 November 2026 is used from the source's publication date.
+  - The 1,548 tablets are described only as intoxicating tablets of unstated composition, so only the 270 grams of ganja is counted as cannabis.
 ---
 
 Sohagpur police arrested 28-year-old Dharmendra Soni, also called Goli or Mausi,
@@ -53,13 +60,13 @@ at Pathariya Tola in Sohagpur in Shahdol district. [@1] Police described Soni,
 the son of Suresh Soni, as an alleged dealer in intoxicating substances. [@1]
 The team acted after an informant said a young man was standing on the road in
 front of his house in Pathariya Tola, Ward No. 2, selling intoxicating tablets.
-[@1] Officers reached the spot, cordoned it off, detained the suspect and found
+[@1,2] Officers reached the spot, cordoned it off, detained the suspect and found
 intoxicating tablets on him during a personal search. [@1]
 
 Police then questioned him and searched his house, finding a stockpile of
 tablets in one room. [@1] Police said they seized a total of 1,548 intoxicating
 tablets and 270 grams of ganja, the local term for cannabis, in the house
-search. [@1] Police put the market value of all the seized intoxicants together
+search. [@1,2] Police put the market value of all the seized intoxicants together
 at more than 200,000 rupees. [@1]
 
 The operation was part of continuing police action against the illegal drug
@@ -70,3 +77,4 @@ the operation. [@1] Police said they are now investigating where the large
 quantity of tablets came from and whether others were involved in the trade.
 [@1]
 
+Dainik Bhaskar's headline reports that police are now investigating the supply network behind the seized material. [@2]
