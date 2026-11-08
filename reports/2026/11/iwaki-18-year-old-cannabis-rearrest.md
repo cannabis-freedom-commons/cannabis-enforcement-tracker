@@ -56,6 +56,11 @@ sources:
     publisher: 福島中央テレビニュース (news.jp)
     date: 2026-11-05
     language: ja
+  - title: 大麻所持で逮捕の18歳少年を再逮捕 別の日にも所持か 福島
+    url: https://www.msn.com/ja-jp/news/other/%E5%A4%A7%E9%BA%BB%E6%89%80%E6%8C%81%E3%81%A7%E9%80%AE%E6%8D%95%E3%81%AE18%E6%AD%B3%E5%B0%91%E5%B9%B4%E3%82%92%E5%86%8D%E9%80%AE%E6%8D%95-%E5%88%A5%E3%81%AE%E6%97%A5%E3%81%AB%E3%82%82%E6%89%80%E6%8C%81%E3%81%8B-%E7%A6%8F%E5%B3%B6/ar-AA2gMQG6
+    publisher: MSN / 福島中央テレビNEWS（FCT）
+    date: 2026-11-05
+    language: ja
 open_questions:
   - No weight or number of cannabis items was published for either possession date, so only the arrest is recorded as a figure.
   - The 16 October red-handed arrest was reported separately, on 16 October 2026, by the same broadcaster; only its headline, visible on the syndicated page, could be opened for this case, and it does not state the date of the earlier possession.
@@ -66,18 +71,19 @@ open_questions:
   - 'Left out, as its quotation was not found in ぐるっと会津（福島中央テレビ（FCT））: Police said the earlier arrest, reported on 16 October, came after a stop-and-question in a car park, where officers found a bag of cannabis in his car.'
   - The submitted Excite page shows only the headline, publication date and a truncated snippet, with the full text on an external page; the full account was corroborated through the linked mirror of the same broadcaster report.
   - The page's truncated teaser also displays a separate headline about a suspected stimulant-drug arrest of a 78-year-old man, a different event left out here.
+  - The MSN copy is a syndication of the same Fukushima Central Television (FCT) report already cited, so it is not an independent account and adds no new details.
 ---
 
 Iwaki Higashi police said they re-arrested an 18-year-old office worker who
-lives in Iwaki City on suspicion of possessing cannabis. [@1,3,5] The re-arrest, on
+lives in Iwaki City on suspicion of possessing cannabis. [@1,3,5,6] The re-arrest, on
 the morning of 5 November 2026 in Iwaki, Fukushima Prefecture, was for
-possessing cannabis at a building in the city on 10 September. [@1] The youth
+possessing cannabis at a building in the city on 10 September. [@1,6] The youth
 had already been arrested red-handed on 16 October 2026 on suspicion of
-possessing cannabis on a different day. [@1,3,4]
+possessing cannabis on a different day. [@1,3,4,6]
 
 Police said further investigation flushed out the 10 September possession, and
 they re-arrested him on 5 November. [@1,3,5] The youth admits the allegation, police
-said. [@1,3,5]
+said. [@1,3,5,6]
 
 Iwaki Higashi police are investigating how he obtained the cannabis and the
 wider circumstances of the case. [@1,3] The two arrests are being handled by Iwaki
