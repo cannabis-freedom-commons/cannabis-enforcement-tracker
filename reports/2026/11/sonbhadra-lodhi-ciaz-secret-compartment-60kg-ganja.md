@@ -74,6 +74,11 @@ sources:
     publisher: Swatantra Prabhat
     date: 2026-11-05
     language: hi
+  - title: 'Sonbhadra News : ऑपरेशन शुद्धि के तहत बड़ी कार्रवाई, 60.5 किलो गांजा के साथ दो तस्कर गिरफ्तार - Janpad News Live'
+    url: https://janpadnewslive.com/news/sonbhadra-news-major-action-under-operation-shuddhi-two-smugglers-arrested-with-60-5-kg-ganja-20261105-20766
+    publisher: Janpad News Live
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Only the date of the stop (the night of Wednesday 4 November 2026) is fixed; the reports do not say exactly when the two men were sent to court.
   - Police valued the consignment at 'about Rs 30 lakh', an approximation, not an exact figure.
@@ -87,19 +92,22 @@ open_questions:
   - The submitted article puts the arrest on the night of 4 November but gives no court date and no remand outcome.
   - No source identifies who built the secret cabin or who was to buy the cannabis in Shahjahanpur.
   - The page picture is captioned as the Ciaz with the hidden cabin but gives no credit and is not shown to be an agency handout, so it is linked rather than treated as a cover.
+  - The article gives no separate incident date; 4 November 2026 is used because it describes the arrest as happening on Wednesday night at about 8:45 and was published on 5 November 2026.
+  - The page carries one image labelled only news-img with no caption confirming it shows this seizure, so no media entry is listed.
+  - The article does not state where the consignment came from or where it was to be sold, unlike other reports on the same seizure that name Sambalpur and Shahjahanpur.
 ---
 
 Police in Sonbhadra district, Uttar Pradesh, arrested two men from Shahjahanpur
-district and seized 60.5 kg of ganja, or cannabis, from their car. [@1,5] The men
+district and seized 60.5 kg of ganja, or cannabis, from their car. [@1,5,6] The men
 were identified as Seebu Ali, 24, of Brahmanan village in the Allaganj police
 station area of Shahjahanpur district, and Satyam Yadav, 21, of Laisna village
-in the Jalalabad police station area of the same district. [@2] Police said the
+in the Jalalabad police station area of the same district. [@2,6] Police said the
 officers stopped the car near the TVS warehouse in Lodhi village, in the
-Robertsganj police station area. [@3,5] The checks were made during Operation
-Shuddhi, a state police drive against drug trafficking. [@1]
+Robertsganj police station area. [@3,5,6] The checks were made during Operation
+Shuddhi, a state police drive against drug trafficking. [@1,6]
 
-Police valued the cannabis at about Rs 30 lakh. [@2,5] Officers found the cannabis
-in 43 packets packed into three plastic sacks. [@2,5] The two told police they had
+Police valued the cannabis at about Rs 30 lakh. [@2,5,6] Officers found the cannabis
+in 43 packets packed into three plastic sacks. [@2,5,6] The two told police they had
 collected the cannabis in Sambalpur, Odisha, and were taking it to Shahjahanpur
 to sell. [@1]
 
@@ -107,6 +115,8 @@ Officers sent both men to court and seized the car used to carry the cannabis.
 [@1]
 
 An officer said the police check followed a tip at about 8:45 pm on Wednesday
-night. [@4]
+night. [@4,6]
 
-Deputy superintendent of police Mevik Taak disclosed the case at a press conference in the Churk police lines auditorium on Thursday. [@4] Police said the two men hid the ganja in the car's secret cabin so that road checks would not reveal it. [@4]
+Deputy superintendent of police Mevik Taak disclosed the case at a press conference in the Churk police lines auditorium on Thursday. [@4] Police said the two men hid the ganja in the car's secret cabin so that road checks would not reveal it. [@4,6]
+
+At Robertsganj police station, case number 892/2026 was registered under sections 8/20/27A/29/60/61 of the NDPS Act and further legal action was being taken. [@6]
