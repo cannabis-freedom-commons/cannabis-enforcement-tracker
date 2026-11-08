@@ -64,6 +64,10 @@ sources:
     publisher: Suryaa News
     date: 2026-11-04
     language: te
+  - title: Bihar reports massive drug haul, seizes 46,549 kg ganja, 150 kg heroin till Oct 27
+    url: https://www.msn.com/en-in/news/other/bihar-reports-massive-drug-haul-seizes-46549-kg-ganja-150-kg-heroin-till-oct-27/ar-AA2gJmpr
+    publisher: MSN (Press Trust of India)
+    date: 2026-11-04
 open_questions:
   - The incident date uses the 27 October 2026 cutoff for the 2026 figures, not the 4 November 2026 publication and review-meeting date.
   - The 6,104 arrests and 4,232 cases cover all NDPS drugs, with no separate cannabis-only arrest total published.
@@ -82,10 +86,12 @@ open_questions:
   - The page's main image is a generic PTI thumbnail with no caption or credit establishing that it shows this seizure, so no media entry is included.
   - The Suryaa account rounds the totals as about 46,549 kg of ganja and 150 kg of heroin, against the precise 46,549.95 kg and 149.696 kg already stored; the stored precise figures are retained.
   - The page's only listed image is captioned with the story title and carries no credit establishing that it shows this seizure, so no media entry is included.
+  - The PTI/MSN page shows the ganja total as over 46,549 kg, while the stored report has the more precise 46,549.95 kg from other outlets; the stored figure is retained.
+  - The page's only embedded image is a transparent one-pixel placeholder, so no photo of this seizure can be linked from it.
 ---
 
 Bihar police registered 4,232 cases under the NDPS Act, India's narcotics law,
-and arrested 6,104 accused between the start of 2026 and 27 October 2026. [@1,2,3,4,5]
+and arrested 6,104 accused between the start of 2026 and 27 October 2026. [@1,2,3,4,5,7]
 The 2026 figures were presented at a high-level review meeting chaired by Chief
 Secretary Pratyaya Amrit on 4 November 2026. [@1] The prohibition and state
 narcotics-control bureau presented the statewide enforcement account at that
@@ -93,8 +99,8 @@ meeting. [@1] By comparison, police recorded 2,583 cases and 3,562 arrests in
 all of 2025. [@1,2]
 
 Police said they seized 46,549.95 kg of ganja, the cannabis component recorded
-here, by 27 October. [@1,2,3,4,5,6] Araria led the district figures with 10,573 kg of
-ganja recovered. [@1,4,5] Supaul and Madhubani followed with 8,813 kg and 4,483 kg
+here, by 27 October. [@1,2,3,4,5,6,7] Araria led the district figures with 10,573 kg of
+ganja recovered. [@1,4,5,7] Supaul and Madhubani followed with 8,813 kg and 4,483 kg
 of ganja respectively. [@1,4,5] The same drive also recovered 149.696 kg of heroin,
 brown sugar and smack, alongside large numbers of pills, injections and codeine
 syrup bottles, which are not counted as cannabis. [@1,3,6] Police also reported
