@@ -40,28 +40,46 @@ sources:
     publisher: Voria.gr
     date: 2026-11-07
     language: el
+  - title: 'Θεσσαλονίκη - Παύλου Μελά: Επτά συλλήψεις σε αστυνομική επιχείρηση για την παραβατικότητα ανηλίκων'
+    url: https://www.xalkidikipolitiki.com/thessaloniki-pavlou-mela-epta-syllipseis-se-astynomiki-epicheirisi-gia-tin-paravatikotita-anilikon/
+    publisher: Xalkidiki Politiki
+    date: 2026-11-08
+    language: el
+  - title: 'Δήμος Παύλου Μελά: Επτά συλλήψεις και κατάσχεση κάνναβης σε ελέγχους για παραβατικότητα ανηλίκων'
+    url: https://www.emakedonia.gr/dimos-payloy-mela-epta-syllipseis-kai-kataschesi-kannavis-se-elegchoys-gia-paravatikotita-anilikon-832721
+    publisher: eMakedonia
+    date: 2026-11-07
+    language: el
+  - title: 'Δήμος Παύλου Μελά: Ειδική επιχειρησιακή δράση για την πρόληψη παραβατικότητας ανηλίκων και κατανάλωσης αλκοόλ'
+    url: https://pieria24.gr/dimos-payloy-mela-eidiki-epicheirisiaki-drasi-gia-tin-prolipsi-paravatikotitas-anilikon-kai-katanalosis-alkool/
+    publisher: Pieria24.gr
+    date: 2026-11-07
+    language: el
 open_questions:
   - No weight, form or packaging for the seized cannabis was published, so no cannabis quantity is recorded.
   - The report gives no names or exact ages; only six adults and one minor are counted.
   - No charges beyond violation of the addictive-substances law, and no court outcome, were reported.
   - Only one accessible source for this event was found after searching in Greek and English.
+  - eMakedonia and the submitted page reproduce the same Hellenic Police announcement, so they corroborate rather than independently verify its figures.
+  - Pieria24 states that its text was produced by an automated AI system, so it is used only for the attribution of the operation's design to the Sub-directorate for the Protection of Minors.
 ---
 
 Thessaloniki police carried out a special overnight operation from the evening
 of 6 November into the early hours of 7 November 2026 in parks, squares, sports
 facilities and school complexes in Pavlos Melas municipality to prevent juvenile
-delinquency and deter alcohol consumption by minors. [@1] Officers from the
+delinquency and deter alcohol consumption by minors. [@1,2] Officers from the
 Thessaloniki directorates for crime prosecution and detection, police, aliens
 and immediate action assisted in the operation. [@1] Officers checked 77 people
 in total, 71 of them minors, as well as eight health-interest shops during the
-operation. [@1] Police arrested six adults and one minor for violating the law
-on addictive substances. [@1] Police seized quantities of cannabis during the
-checks. [@1]
+operation. [@1,3] Police arrested six adults and one minor for violating the law
+on addictive substances. [@1,2] Police seized quantities of cannabis during the
+checks. [@1,4]
 
 According to the Hellenic Police, the purpose was to collect information and map
 the movements of minors who may be involved in delinquency incidents. [@1] The
 police said a further aim was to deter alcohol consumption by minors. [@1] The
 information collected will be assessed and used to design targeted actions in
 areas where juvenile delinquency incidents accumulate, according to the police.
-[@1]
+[@1,2]
 
+The operation was designed by the Sub-directorate for the Protection of Minors of the Thessaloniki Directorate for Crime Prosecution and Detection, according to the Hellenic Police announcement. [@4]
