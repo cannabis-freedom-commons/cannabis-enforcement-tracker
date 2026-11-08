@@ -60,6 +60,10 @@ sources:
   - title: Afghan police seize over 180 kg of illegal drugs, arrest four traffickers
     url: https://www.thehansindia.com/news/international/afghan-police-seize-over-180-kg-of-illegal-drugs-arrest-four-traffickers-1140398
     publisher: The Hans India
+  - title: Afghan Police Seize Over 180 Kg Drugs, Four Arrested in Takhar
+    url: https://www.lokmattimes.com/international/afghan-police-seize-over-180-kg-drugs-four-arrested-in-takhar-a001-w02/
+    publisher: Lokmat Times
+    date: 2026-11-08
 open_questions:
   - The event date rests on the police spokesman's statement that the operation was carried out on Saturday; both reports were published on Sunday 8 November 2026.
   - The hashish weight of 40 kilograms is the spokesman's figure; the page does not say whether a laboratory confirmed the substance.
@@ -73,14 +77,14 @@ open_questions:
 
 Counter-narcotics police in Afghanistan's northern Takhar province stopped a car
 in the provincial capital, Taluqan, and arrested the four people who were using
-it to take the load to an unknown destination. [@1,3] The Takhar provincial police
+it to take the load to an unknown destination. [@1,3,4] The Takhar provincial police
 spokesman, Naqibullah Masroor, said the counter-narcotics teams carried out the
 operation on Saturday, 7 November 2026. [@1,3]
 
 Police said they seized 143 kilograms of opium together with the cannabis, and
-that both were hidden in compartments built into the car. [@1,3] The cannabis in
+that both were hidden in compartments built into the car. [@1,3,4] The cannabis in
 the shipment was 40 kilograms of hashish, which police count within a stated
-total of more than 180 kilograms of drugs. [@2,3] The four detained suspects were
+total of more than 180 kilograms of drugs. [@2,3,4] The four detained suspects were
 held as suspected drug traffickers; no charge or court outcome was reported.
 [@1]
 
