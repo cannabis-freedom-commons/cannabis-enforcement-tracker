@@ -74,6 +74,11 @@ sources:
     publisher: News18 Marathi
     date: 2026-11-05
     language: mr
+  - title: 'पुणे : कॉस्मेटिक ज्वेलरी दुकानाच्या आड गांजा, हुक्का फ्लेवर अन् ई-सिगारेटची विक्री; पोलिसांकडून 22 वर्षीय तरुणीला अटक'
+    url: https://www.instagram.com/p/DfWVNvKjdhw/
+    publisher: Policenama
+    date: 2026-11-06
+    language: mr
 open_questions:
   - Only one accessible source was found for this event after searching in English; no second outlet or agency statement could be opened.
   - The incident date of 3 November 2026 is the raid night stated in the report; 4 November 2026 is the publication date.
@@ -101,22 +106,26 @@ open_questions:
   - The page's four images are an untitled header collage and uncaptioned WhatsApp photographs with no credit or description linking them to this raid, so no media entry could be supported.
   - This account says the woman was arrested while the existing report records that one outlet said she was served a notice to appear, so custodial detention remains unclear.
   - The page's only listed image is captioned as an AI Generated Image and does not show the seizure, so no media entry is added.
+  - This post gives no separate raid date; 3 November 2026 is the raid night already recorded in the existing report, while 6 November 2026 is this post's inferred publication date from its 2-days-ago label.
+  - The Rs 2,17,100 total covers ganja, hookah flavour and e-cigarettes together, so no cannabis-only value can be recorded.
+  - This post says the woman was arrested, while the existing report notes that Pune Mirror said she was served a notice to appear, so custodial detention remains unclear.
+  - The page's listed images carry only generic accessibility captions and November grid dates that do not establish they show this seizure, so no media entry is added.
 ---
 
 Airport police booked a 22-year-old woman for allegedly selling banned
 e-cigarettes, hookah flavours and ganja from a cosmetic jewellery shop in Viman
-Nagar. [@1,3,5,6,7] The raid was conducted on Tuesday night, 3 November, and police
+Nagar. [@1,3,5,6,7,8] The raid was conducted on Tuesday night, 3 November, and police
 seized contraband and other materials worth Rs 2.17 lakh from the shop and a
 motorcycle parked outside it. [@1,5] The accused was identified as Abhilasha
 Pankaj Ahirrao, a Viman Nagar resident operating Cloud Cartel at Shop No. 9,
-Lunkad Dreamland. [@1,2,7] PSI Nitin Rathod of Airport police station told Pune
+Lunkad Dreamland. [@1,2,7,8] PSI Nitin Rathod of Airport police station told Pune
 Times Mirror that police received information about the illegal sale of
 e-cigarettes and hookah flavours on the night of 3 November. [@1] Rathod said
 Ahirrao was facing financial difficulties and had started selling the products,
 and that police seized the goods and served her a notice to appear for further
 investigation. [@1]
 
-Police recovered 130 grams of ganja during the operation. [@1,2,4,5,6,7] During the search
+Police recovered 130 grams of ganja during the operation. [@1,2,4,5,6,7,8] During the search
 police recovered Elf Bar, iJet Pop and Yuto Beyonder e-cigarettes, hookah
 flavours, two hookah pots and a small weighing scale. [@1] The seizure also
 included 130 grams of ganja, a mobile phone, an electric motorcycle and Rs
@@ -127,10 +136,10 @@ other equipment allegedly used in the business. [@1] The total value of the
 seized material including the electric motorcycle and mobile phone was estimated
 at Rs 2,17,100. [@1,6] Airport police registered a case against Ahirrao under
 Sections 8(a) and 20(b)(ii)(A) of the NDPS Act, 1985 and provisions of vaping
-and tobacco laws. [@1,2,3]
+and tobacco laws. [@1,2,3,8]
 
 Ahirrao had earlier operated a shop in Deccan which she shut last month before
-starting Cloud Cartel in Viman Nagar. [@1,2,3,5,6] Investigators suspect she took orders
+starting Cloud Cartel in Viman Nagar. [@1,2,3,5,6,8] Investigators suspect she took orders
 over the phone and sold prohibited products targeting customers in the
 surrounding area with several IT companies and educational institutions. [@1,2,3,4]
 Police said further investigation is under way to ascertain the source of the
