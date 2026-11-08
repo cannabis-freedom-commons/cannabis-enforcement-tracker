@@ -68,16 +68,25 @@ sources:
     publisher: El Universal
     date: 2026-05-16
     language: es
+  - title: 'Operativo conjunto de Colombia y Perú incautó casi una tonelada de marihuana en Amazonas: pertenecía a los Comandos de Frontera'
+    url: https://www.infobae.com/colombia/2026/03/18/fuerza-aerea-de-colombia-incauto-casi-una-tonelada-de-marihuana-en-amazonas-pertenecia-a-los-comandos-de-frontera/
+    publisher: Infobae
+    date: 2026-03-18
+    language: es
 open_questions:
   - No arrests, named suspects, charges or court outcome were reported; the crew fled into the jungle.
   - Colombia's account describes a Yamaha 200 motor while Peru's joint-command account describes a 150 HP Brazilian motor on the seized craft.
   - The reports name the site as Brazo Yahuma, the Yahuma tributary and the Callarú River near the Yahuma community, so a shared riverine-border description is used.
   - No drug valuation, package count or crew size was published.
   - 'Left out, as its quotation was not found in Comando Conjunto de las Fuerzas Armadas: The interception happened around 01:45 on 13 March as the boat tried to cross the Callarú River near the Yahuma native community in Loreto.'
+  - The Infobae page gives only its 18 March 2026 publication date and no separate day for the interception; the existing report dates the interception to 13 March 2026 from the Peruvian joint-command account.
+  - Infobae names no arrests, crew size, package count or drug valuation for the Brazo Yahuma interception.
+  - The page's three Yahuma/Amazonas photos are credited to the Armada de Colombia and appear to repeat the agency handout already cited in the existing report, so no separate media entry is added.
+  - Later passages about 1.6 tonnes on the Garzón-Neiva road, 240 kilos between Pereira and Manizales and 720 kilos in Villavicencio describe different operations left out here.
 ---
 
 Colombian and Peruvian authorities seized 884 kilograms of marijuana from a boat
-intercepted at Brazo Yahuma on the Amazon border. [@1] The crew abandoned the
+intercepted at Brazo Yahuma on the Amazon border. [@1,5] The crew abandoned the
 boat and fled into the jungle when security forces closed in, and no arrests
 were reported. [@3]
 
@@ -86,16 +95,16 @@ HP motor used to move drugs on Amazon rivers. [@3] Colombia's Aerospace Force
 described the same interception as a boat with a Yamaha 200 motor carrying 884
 kilograms for movement through strategic Amazon river corridors. [@2]
 Authorities preliminarily linked the load to the GAO E-48 Comandos de Frontera.
-[@2]
+[@2,5]
 
 The Colombian account says intelligence came from its Grupo Aéreo del Amazonas
 and joined the Navy, naval intelligence, Army Jungle Brigade 26, anti-narcotics
-police and Peruvian Army units. [@2] The Peruvian operation was carried out by
+police and Peruvian Army units. [@2,5] The Peruvian operation was carried out by
 the 35th Jungle Brigade and DIRANDRO with prosecutors and Iquitos customs
 officers to preserve custody of the drugs. [@3] An anti-drugs prosecutor was
 flown by Peruvian Army helicopter from Iquitos to DIRANDRO facilities in
 Caballococha for the official weighing and verification. [@3] Authorities
 presented the seizure as part of Plan Ayacucho Plus to weaken the logistics and
-finances of transnational drug trafficking in the Amazon. [@2]
+finances of transnational drug trafficking in the Amazon. [@2,5]
 
 The Army also linked the Comandos de Frontera to the control of drug-trafficking routes in the border region with Ecuador. [@4]
