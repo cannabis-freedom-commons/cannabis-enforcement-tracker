@@ -61,6 +61,10 @@ open_questions:
   - Only the explicit arrest of the other occupant is counted; Kelly handed himself in and was remanded, and cocaine quantities are excluded from cannabis figures.
   - 'Left out, as its quotation was not found in Isle of Man Today: The parcel contained 1,986 grams of cannabis valued at £39,732 and 512.94 grams of cocaine valued at £51,294.'
   - 'Left out, as its quotation was not found in Manx Radio: The 58 wraps weighed 58.4 grams and were worth £1,168.'
+  - The BBC values the contents at more than £50,000 and then again at nearly £40,000, both times calling it cannabis; the existing report established that the higher figure is the cocaine value, and the BBC's second figure matches the £39,732 parcel cannabis value.
+  - The BBC gives the defence advocate's drug-debt figure as £15,000 to £20,000, while the existing report records Kelly telling police of a debt between £10,000 and £20,000.
+  - The BBC gives no separate date for the sentencing hearing; 16 June 2025 is its publication date.
+  - The BBC photo captions identify Lewis Kelly, but the existing report lists no media for this case; the two submitted images are portrait and sentencing-photo assets rather than depictions of the parcels or the wraps.
 ---
 
 A man who had cocaine and cannabis sent through the post while sofa-surfing was
@@ -89,3 +93,4 @@ other occupant after finding phone searches about parcel deliveries from the
 United Kingdom to the island. [@1] The cocaine purity of between 82 and 84
 percent was described as extremely high. [@2]
 
+His defence advocate said he had built up a drug debt of between £15,000 and £20,000 and had thought the package would only contain cannabis. [@1] The deemster said Kelly may have been "duped" by those sending the drugs to the island, but that did not earn any sympathy from him. [@1] Douglas Courthouse was told the parcel was addressed to an address on Bircham Avenue in Ramsey and was sent from Manchester. [@1]
