@@ -46,6 +46,10 @@ sources:
     url: https://www.nabamart.com/2026/08/90-kg-of-hashish-details-of-first-major.html
     publisher: Nabamart
     date: 2026-08-15
+  - title: Iraq Dismantles International Drug Trafficking Network in Territorial Waters
+    url: https://www.kurdistan24.net/en/story/932620/iraq-dismantles-international-drug-trafficking-network-in-territorial-waters
+    publisher: Kurdistan24
+    date: 2026-08-15
 open_questions:
   - The ministry announcement is dated 15 August 2026 but gives no separate date for the interception, so the report uses the announcement date.
   - The three suspects are not named, and the foreign national's country is not given.
@@ -59,12 +63,12 @@ Iraq's interior ministry announced that the General Directorate of Narcotics Aff
 dismantled an international drug smuggling network in what it called the first operation in
 the depths of Iraqi territorial waters. [@1,2] Three suspects, including one foreign
 national, were arrested, and 90 kg of hashish was seized along with two boats used for
-smuggling. [@1,2]
+smuggling. [@1,2,3]
 
 Anti-narcotics teams set off from the Umm Qasr naval base after several days of
-surveillance, on a round trip that took 16 hours to reach the target. [@1,2] The operation
+surveillance, on a round trip that took 16 hours to reach the target. [@1,2,3] The operation
 ran under the General Directorate of Narcotics Affairs together with the Military
-Intelligence Directorate and the Naval Forces Command. [@1] The ministry placed the target
+Intelligence Directorate and the Naval Forces Command. [@1,3] The ministry placed the target
 in waters adjacent to a neighbouring country, which it did not name. [@2]
 
 The announcement came as Baghdad pressed a wider anti-drug campaign: the ministry had
