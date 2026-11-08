@@ -57,6 +57,11 @@ sources:
     publisher: WP Wiadomości
     date: 2026-11-07
     language: pl
+  - title: Warszawa. Zamiast dokumentów podał do kontroli zawiniątko z marihuaną | TVN Warszawa
+    url: https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-zamiast-dokumentow-podal-do-kontroli-zawiniatko-z-marihuana-st9327780
+    publisher: TVN Warszawa
+    date: 2026-11-07
+    language: pl
 open_questions:
   - No weight or quantity for the seized packet of marijuana was reported.
   - No charge, court outcome or release decision was reported; further proceedings were only planned after the man sobered up.
@@ -65,19 +70,18 @@ open_questions:
 
 During a routine night patrol of Praga-Południe, municipal guards noticed a man
 on Sulejkowska Street staggering on the pavement who at one point leaned
-helplessly against a lamppost. [@1] The guards approached to help him and
+helplessly against a lamppost. [@1,4] The guards approached to help him and
 smelled a strong odour of alcohol, then asked him to show documents to establish
-where he lived. [@1]
+where he lived. [@1,4]
 
 While looking for his wallet, the 43-year-old instead pulled a packet of
-brown-green dried material from his pocket and handed it to the guards. [@1] The
+brown-green dried material from his pocket and handed it to the guards. [@1,4] The
 patrol was carried out by officers of the 7th Area Unit covering Praga-Południe.
 [@3] The guards called police, whose officers tested the secured substance with
-a drug tester, which confirmed it was marijuana. [@1]
+a drug tester, which confirmed it was marijuana. [@1,4]
 
 A sobriety test showed the detained man had over three permille of alcohol in
-his system. [@1] The 43-year-old was taken to a police detention room, where he
+his system. [@1,4] The 43-year-old was taken to a police detention room, where he
 spent the night, with further proceedings for possession of narcotics planned
-after he sobered up completely. [@1] The municipal guard said its officers
+after he sobered up completely. [@1,4] The municipal guard said its officers
 handed the man and the packet over to police for checking. [@2]
-
