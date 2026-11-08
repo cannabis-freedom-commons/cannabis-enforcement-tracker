@@ -54,6 +54,11 @@ sources:
     publisher: DM News
     date: 2026-11-07
     language: el
+  - title: 19χρονος συνελήφθη στο Βραχάτι για κάνναβη - Ημερησία Κορίνθου
+    url: https://hmerisiakorinthou.gr/19%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%82-%CF%83%CF%85%CE%BD%CE%B5%CE%BB%CE%AE%CF%86%CE%B8%CE%B7-%CF%83%CF%84%CE%BF-%CE%B2%CF%81%CE%B1%CF%87%CE%AC%CF%84%CE%B9-%CE%B3%CE%B9%CE%B1-%CE%BA%CE%AC%CE%BD%CE%BD/
+    publisher: Ημερησία Κορίνθου
+    date: 2026-11-07
+    language: el
 open_questions:
   - No weight was published for the loose cannabis or the cigarette, so no cannabis quantity is recorded.
   - The article gives no charge sheet, custody decision or court outcome; the preliminary investigation was still under way.
@@ -65,12 +70,12 @@ open_questions:
 
 Officers of the A3 unit of the Corinthia Crime Prevention and Suppression Group,
 known by its Greek initials OPKE, arrested a 19-year-old in the Vrachati area on
-the morning of Saturday 7 November 2026. [@1,2] Police said the officers spotted
+the morning of Saturday 7 November 2026. [@1,2,3] Police said the officers spotted
 him during a check. [@1]
 
 The check found that he was carrying a small quantity of cannabis and a
-cigarette containing cannabis, and the substances were seized. [@1,2] The
+cigarette containing cannabis, and the substances were seized. [@1,2,3] The
 19-year-old was arrested for breaching the drug legislation. [@1]
 
 The Velo-Vocha police station is conducting the preliminary investigation into
-the case. [@1,2]
+the case. [@1,2,3]
