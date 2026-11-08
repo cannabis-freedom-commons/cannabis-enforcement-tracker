@@ -55,6 +55,11 @@ sources:
     publisher: Ouest-France (Quimper.maville.com)
     date: 2026-11-06
     language: fr
+  - title: Un demi-kilo de cocaïne, trois kilos de cannabis et une arme de poing dans la maison de famille de ce trentenaire breton
+    url: https://www.ouest-france.fr/societe/justice/un-demi-kilo-de-cocaine-trois-kilos-de-cannabis-et-une-arme-de-poing-dans-la-maison-de-famille-de-ce-trentenaire-breton-494a5f90-da0e-11f1-a45f-49114163a350
+    publisher: Ouest-France.fr
+    date: 2026-11-06
+    language: fr
 open_questions:
   - Only the opening paragraphs and a quote from the defendant were readable behind the subscriber paywall; the charges, the court that ruled, and any fine or confiscation were not published.
   - The article does not say whether the three kilos were cannabis herb or resin, so the product is recorded as flower only as the generic dried cannabis category.
@@ -64,18 +69,19 @@ open_questions:
   - Whether the year in prison is firm or partly suspended, and whether an appeal was lodged, was not reported.
   - 'No usable photo of this event was published: the only image is captioned as an illustration, so no media entry is included.'
   - Only one accessible source for this case was found; the Ouest-France.fr version returned an access error.
+  - The rest of the article is behind a subscriber paywall, so the court detail beyond the tribunal de Quimper hearing and any fine or confiscation could not be read in this capture.
+  - The page's only image is captioned as an illustration, so no event photo can be added.
 ---
 
 A young father who lives with his family near Carhaix, in Finistère, was
-sentenced on Friday 6 November 2026 to one year in prison. [@1] The sentence
+sentenced on Friday 6 November 2026 to one year in prison. [@1,2] The sentence
 followed a search of his home by gendarmes of the Carhaix brigade on Monday 2
-November 2026. [@1]
+November 2026. [@1,2]
 
 The search turned up half a kilogram of cocaine, three kilograms of cannabis and
-a handgun, which the gendarmes valued at more than €60,000. [@1]
+a handgun, which the gendarmes valued at more than €60,000. [@1,2]
 
 In court he said he was going through financial trouble and that a man he had
 met while in a youth home offered him €200 to store goods at his house. [@1] He
 said he did not know the exact contents of the goods, but knew they were drugs.
 [@1]
-
