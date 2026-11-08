@@ -173,6 +173,11 @@ sources:
     publisher: Báo và Phát thanh Truyền hình Hà Nội
     date: 2026-11-06
     language: vi
+  - title: Bắt giữ hơn 25 kg cần sa, hàng trăm cây thuốc lá nung nóng ở Nội Bài
+    url: https://kenh14.vn/bat-giu-hon-25-kg-can-sa-hang-tram-cay-thuoc-la-nung-nong-o-noi-bai-215261106163817017.chn
+    publisher: Kenh14.vn
+    date: 2026-11-06
+    language: vi
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -243,24 +248,29 @@ open_questions:
   - The page gives no name for the Spanish passenger, no account of the reported EUR 4,000 payment from Cambodia, and no charge or court outcome, so the earlier account of those details is neither confirmed nor contradicted here.
   - The more than 400 TEREA heated-tobacco sticks in the same announcement are a separate tobacco case left out of the cannabis report.
   - The page's five submitted images have captions naming other Hà Nội stories and none is confirmed to show this seizure, so only the embedded video is listed as media.
+  - The account rounds the cannabis weight to more than 25 kg rather than the 25.4 kg given by the Customs Department in the existing report; the existing figure is retained.
+  - The page gives no name for the Spanish passenger and no account of the reported EUR 4,000 payment for carrying the load from Cambodia, so it neither confirms nor contradicts those details.
+  - The page gives no laboratory result confirming the dried herb was cannabis, and no charge or court outcome.
+  - The more than 400 TEREA heated-tobacco sticks and the four passengers in the same announcement are a separate tobacco case left out of the cannabis report.
+  - The page places the inspection in the transit baggage screening area but names no gate and no flight number.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
 were screening transit baggage at Noi Bai International Airport on 25 October
 2026 when they found a black checked suitcase. [@1,2,3,4,6,7,9,16] The suitcase was checked
 through on a connecting itinerary and booked on flight VN19, which was due to
-leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@1,2,3,4,5,6,7,15] The airport
+leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@1,2,3,4,5,6,7,15,24] The airport
 task force identified the passenger, Jesus Sanchez Gomez, as the owner of the
 checked bag. [@1]
 
 Inside the suitcase were two packages measuring about 40 by 70 cm, holding dried
-herb believed to be cannabis and weighing about 25.4 kg in total. [@1,2,3,5,6,7,9,10,15,18]
+herb believed to be cannabis and weighing about 25.4 kg in total. [@1,2,3,5,6,7,9,10,15,18,24]
 Questioned by the task force, Gomez admitted that he had been paid €4,000 to
 carry the goods from Cambodia, through Vietnam, to France. [@1]
 
 Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
-investigation. [@1,2,3,5,6,7,10,14,15,16,17,18,19,21]
+investigation. [@1,2,3,5,6,7,10,14,15,16,17,18,19,21,24]
 
 The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,11,14,16,17]
 
@@ -270,12 +280,12 @@ The Spanish passenger's checked bag was flagged during screening, and the inspec
 
 The Spanish passenger's suitcase was checked through from flight VN922 onto VN19, which was due to leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@2,8,17,18]
 
-The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@2,10,12,13,14,15] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11,13,14]
+The evening transit inspection on 25 October was carried out by customs officers together with border police and other professional units. [@2,10,12,13,14,15,24] The Customs Department announced the two airport cases on the morning of 6 November 2026. [@11,13,14]
 
 The Customs Department announced the Noi Bai seizures on the morning of 6 November, and the same announcement reported more than 400 TEREA heated-tobacco sticks carried without declaration by passengers flagged in October. [@16,18,21] In October, customs officers flagged suspicious activity involving four passengers through operational measures, risk control and baggage X-ray image analysis at gates 6 and 7 of Terminal 2, the international passenger terminal. [@16]
 
 The page also says the cannabis was in the checked suitcase of a Spanish passenger and was transferred to the Hanoi City police drug crime investigation office. [@18,23]
 
-The page says the two packages were sealed in yellow and white plastic. [@19]
+The page says the two packages were sealed in yellow and white plastic. [@19,24]
 
 The airport customs inspection at Noi Bai International Airport on 25 October 2026 was carried out together with the Noi Bai airport border police and PC04, the drug crime investigation office of the Hanoi City police. [@20] The Spanish passenger's checked baggage was flagged during screening as it was checked through from flight VN922 onto VN19 from Noi Bai to Charles de Gaulle airport in France. [@20] The two vacuum-sealed packages held dried flowers, leaves, stems and buds of the cannabis plant weighing about 25.4 kg in total and were wrapped in yellow-and-white nylon. [@20]
