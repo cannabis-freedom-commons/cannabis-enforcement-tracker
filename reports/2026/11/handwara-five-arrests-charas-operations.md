@@ -60,6 +60,10 @@ sources:
     url: https://brighterkashmir.com/seven-drug-peddlers-arrested-in-six-operations
     publisher: Brighter Kashmir
     date: 2026-11-07
+  - title: 7 drug-peddlers arrested in Handwara, Anantnag
+    url: https://www.dailyexcelsior.com/7-drug-peddlers-arrested-in-handwara-anantnag/amp/
+    publisher: Daily Excelsior
+    date: 2026-11-07
 open_questions:
   - No weight, value or packaging detail was published for any of the three seizures, so no cannabis quantity is recorded.
   - The article gives a Handwara Nov 06 dateline and 6 November 2026 publication date with no separate time for the checks; 6 November 2026 is used as the incident date.
@@ -74,20 +78,25 @@ open_questions:
   - The Amar Ujala page gives no date for the three checks; 7 November 2026 is its publication date and it does not change the report's 6 November date.
   - Amar Ujala's page picture is a Srinagar file image dated November 2021, not a picture of these arrests, so no media is linked from it.
   - Daily Excelsior drops the -like qualifier used in Brighter Kashmir, calling the recoveries charas and charas powder and a cannabis (Khashkhash); no forensic confirmation is reported in either account.
+  - Daily Excelsior drops the -like qualifier used in the existing Handwara report, calling the recoveries charas and charas powder and a cannabis (Khashkhash) with no forensic confirmation reported.
+  - Daily Excelsior spells the Watyen suspects Mohammad Jahangir Sadeeqi and Mohammad Haseemu Din where the existing report uses Mohd. Jahangir Sadeeqi and Mohd. Haseemu Din.
+  - The article's two Anantnag arrests at Tulkhan Crossing and Dooru belong to anantnag-bijbehara-dooru-two-arrests-charas, which already cites this Daily Excelsior article, so they are not added to the Handwara report.
+  - No weight is given for any Handwara seizure, so no cannabis quantity can be added from this source.
+  - The page lists four images with only a featuredImage label and no captions or credits establishing they show this event, so no media entry is included.
 ---
 
 Handwara police arrested five suspects in three separate checkpoint operations
 run by Kralgund police station and Chogul police post. [@1,2,3] At Khanu Babagund,
 officers held Abid Hussain Mir of Tarathpora and Rouf Mushtaq Bhat of Khanu
-during naka checking. [@1,4] Charas-like substance and charas powder-like
+during naka checking. [@1,4,5] Charas-like substance and charas powder-like
 substance were recovered from the pair's possession. [@1,4] At Wanigam Crossing,
 officers held Danish Parvaiz Parra of Budra Bala and recovered a cannabis
-(Khashkhash)-like substance from him. [@1]
+(Khashkhash)-like substance from him. [@1,5]
 
 At Watyen, in Chogul's jurisdiction, police intercepted a motorcycle bearing
-registration number PB08CQ-8150 travelling from Sopore towards Kupwara. [@1,4]
+registration number PB08CQ-8150 travelling from Sopore towards Kupwara. [@1,4,5]
 Officers held Mohd. Jahangir Sadeeqi and Mohd. Haseemu Din, both Bihar
-residents, and recovered a charas-like substance during the check. [@1,4] Police
+residents, and recovered a charas-like substance during the check. [@1,4,5] Police
 registered FIR No. 78/2026 under Sections 8/20-29 of the NDPS Act at Kralgund
 over the Khanu Babagund seizure. [@1] Police registered FIR No. 79/2026 under
 Section 8/15 of the NDPS Act at Kralgund over the Wanigam seizure. [@1] Police
