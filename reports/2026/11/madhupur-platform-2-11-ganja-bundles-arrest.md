@@ -47,6 +47,11 @@ media:
     media_url: https://www.jagranimages.com/images/2026/11/07/template/image/Odisha-Man-Arrested-1794076043284_v.webp
     publisher: Dainik Jagran
     caption: Hero image published with the report of the arrest at Madhupur railway station; it has no caption or credit on the page.
+  - kind: video
+    url: https://www.bhaskar.com/local/jharkhand/deoghar/video/madhupur-railway-station-rpf-arrest-youth-ganja-seizure-139620178.html?type=video
+    media_url: https://videos.bhaskarassets.com/2026/11/07/41157c39-8366-43c1-8f43-bce295328404_1794033921592/mp4/v360.mp4
+    publisher: Dainik Bhaskar
+    caption: 'Dainik Bhaskar video report, headed with the headline of the Madhupur station ganja seizure, published on the event''s story on 7 November 2026. Video: Dainik Bhaskar'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 43e6894012b0ff8eb9ee5c36a54ae89e
@@ -77,6 +82,11 @@ sources:
     publisher: Dainik Jagran
     date: 2026-11-07
     language: hi
+  - title: मधुपुर स्टेशन पर 12.50 लाख रुपए का गांजा बरामद:एक युवक गिरफ्तार, प्लेटफॉर्म नंबर 2 पर आरपीएफ ने की कार्रवाई
+    url: https://www.bhaskar.com/local/jharkhand/deoghar/video/madhupur-railway-station-rpf-arrest-youth-ganja-seizure-139620178.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-11-07
+    language: hi
 open_questions:
   - No weight in kilograms was published, only a count of 11 bundles, so no cannabis weight can be recorded.
   - The article's later paragraphs, which appear to name the suspect, his age and village, the night-time timing and the investigation status, sit behind a paywall and were not part of the captured text, so they are left out of the report.
@@ -95,13 +105,14 @@ open_questions:
   - Dainik Jagran gives no weight for the ganja, only that it was in 11 packets; the earlier Kashish News account put it at about 25 kg.
   - The article's publication date of 7 November 2026 is the only date; as in the existing report, the event is taken as the night before, but Jagran does not say when the arrest happened.
   - The page image is a generic hero picture with no caption or credit and is not established to show this seizure.
+  - The video page's article text did not load in the capture, leaving only the headline; facts beyond the headline were checked on the text version of the same Dainik Bhaskar article, while quotations here come from the captured video page.
 ---
 
 A joint team of the Railway Protection Force stopped and searched a young man on
 platform no. 2 of Madhupur railway station after his movements appeared
-suspicious. [@1,3,5] The team arrested him with 11 bundles of ganja. [@1,3,4,5]
+suspicious. [@1,3,5] The team arrested him with 11 bundles of ganja. [@1,3,4,5,6]
 
-Dainik Bhaskar puts the value of the seized ganja at about ₹12.50 lakh. [@1,3,5] Two
+Dainik Bhaskar puts the value of the seized ganja at about ₹12.50 lakh. [@1,3,5,6] Two
 accounts say the man was arrested with ganja on the platform of Madhupur railway
 station. [@2]
 
