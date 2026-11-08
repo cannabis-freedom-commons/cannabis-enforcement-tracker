@@ -39,6 +39,11 @@ media:
     media_url: https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/ssc-detuvo-a-cuatro-integrantes-de-la-union-tepito-le-decomisa-15-kilogramos-de-mariguana-y-cocaina/ssc-detuvo-a-cuatro-integrantes-de-la-union-tepito-le-decomisa-15-kilogramos-de-mariguana-y-cocaina_2e9c6fa7-6c81-45fe-981f-07e5b06742d3_medialjnimgndimage=fullsize
     publisher: La Jornada
     caption: 'Three women, one a minor, and a man, alleged members of La Unión Tepito, captured inside a tenement in colonia Morelos where they handled drugs. Photo: SSC CDMX'
+  - kind: photo
+    url: https://www.reforma.com/caen-4-de-la-union-tepito-con-3-mil-dosis-de-droga/ar3310283
+    media_url: https://iphonegr.reforma.com/libre/online07/imagetransformer2/ImageTransformer.aspx?img=https://img.gruporeforma.com/imagenes/960x640/7/317/6316311.jpg&imagencompleta=1
+    publisher: REFORMA
+    caption: 'Photo captioned as the 25 plastic bags with about 15 kilograms of marijuana found by officers. Photo: Especial (REFORMA)'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6936cafb2dab82ef0cdc3fbb66788856
@@ -84,6 +89,11 @@ sources:
     publisher: Grupo Milenio
     date: 2026-11-07
     language: es
+  - title: Caen 4 de la Unión Tepito con 3 mil dosis de droga
+    url: https://www.reforma.com/caen-4-de-la-union-tepito-con-3-mil-dosis-de-droga/ar3310283
+    publisher: REFORMA
+    date: 2026-11-07
+    language: es
 open_questions:
   - No weight is given for the roughly 3,000 suspected cocaine wrappers, so only the marijuana weight is counted and no combined drug total is used.
   - The sources give full surnames only as Guzmán or “N”; the minor is not named.
@@ -93,7 +103,7 @@ open_questions:
 ---
 
 Mexico City citizen-security officers detained four alleged members of La Unión
-Tepito in colonia Morelos in Venustiano Carranza. [@1,4,5,6,7,8] The detainees were a
+Tepito in colonia Morelos in Venustiano Carranza. [@1,4,5,6,7,8,9] The detainees were a
 24-year-old man, women aged 54 and 24, and a 16-year-old girl. [@2,6,8] The
 detainees were identified as Pedro “N”, Jovita “N” and Jessica “N”, plus the
 16-year-old girl, allegedly linked to the group's street-level drug dealing.
@@ -105,7 +115,7 @@ police. [@1] Officers entered the common area and saw three more people handling
 other wrappers. [@1] Officers seized about 3,000 paper wrappers containing
 suspected cocaine. [@1] Officers also seized 25 transparent plastic bags holding
 about 15 kilograms of apparent marijuana, plus eight mobile phones of different
-brands and models. [@1,4]
+brands and models. [@1,4,9]
 
 The four were told their constitutional rights and taken with what was seized to
 the Public Prosecutor's agent, who will open the investigation file and decide
