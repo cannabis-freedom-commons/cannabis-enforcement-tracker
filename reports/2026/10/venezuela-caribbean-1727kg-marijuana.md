@@ -61,15 +61,27 @@ sources:
     publisher: Correo del Caroní
     date: 2026-10-17
     language: es
+  - title: Venezuela, con apoyo de Francia, incauta dos mil 900 kilos de drogas
+    url: https://www.prensa-latina.cu/2026/10/17/venezuela-con-apoyo-de-francia-incauta-dos-mil-900-kilos-de-drogas/
+    publisher: Prensa Latina
+    date: 2026-10-17
+    language: es
+  - title: Viceministro Oliver Blanco informó que Venezuela y Francia incautaron 2,9 toneladas de droga en operación conjunta
+    url: https://noticiasvenevision.com/noticias/politica/viceministro-oliver-blanco-informo-que-venezuela-y-francia-incautaron-29-toneladas-de-droga-en-operacion-conjunta
+    publisher: Noticias Venevisión
+    date: 2026-10-16
+    language: es
 open_questions:
   - The four people arrested are not named, and no exact position at sea is given.
   - El Nacional’s picture is labelled an archive image, so no photo of this seizure is listed here.
   - The same seizure included 1,173.50 kg of cocaine, which is outside this report’s cannabis weight.
   - The Correo del Caroní page carries a photo credited only via social media with no caption establishing that it shows this seizure, so no media entry is included.
+  - El Universal's Facebook video gives only the rounded 2.9 tonnes of cocaine and marijuana together and does not separate the marijuana weight, which comes from the interior ministry statement as reported by Prensa Latina.
+  - The video does not say where in the Caribbean the boat was stopped or name the four detained people.
 ---
 
 Venezuela’s Ministry of Interior, Justice and Peace said four people were arrested in a maritime
-interdiction in the Caribbean. [@1,2,5] The Bolivarian National Guard’s special anti-drug unit UEA-45
+interdiction in the Caribbean. [@1,2,5,6] The Bolivarian National Guard’s special anti-drug unit UEA-45
 La Guaira, coastguard units of the Bolivarian Navy and the French navy took part. [@2,5] Radio
 Nacional de Venezuela published the ministry’s account on 16 October 2026. [@1]
 
@@ -85,4 +97,4 @@ for legal proceedings. [@3,4] They describe three October operations in which Fr
 6.9 tonnes of cocaine and 1.7 tonnes of marijuana in total, with the Venezuelan boat's 166 bales
 holding both drugs. [@3,4]
 
-Deputy Minister Oliver Blanco confirmed the seized drugs were cocaine and marijuana and said the operation complied with international law. [@5]
+Deputy Minister Oliver Blanco confirmed the seized drugs were cocaine and marijuana and said the operation complied with international law. [@5,7]
