@@ -45,6 +45,9 @@ sources:
     url: https://www.stokesentinel.co.uk/news/stoke-on-trent-news/police-smash-way-stoke-trent-11228785
     publisher: The Sentinel
     date: 2026-11-05
+  - title: Police smash way into Stoke-on-Trent house in cannabis factory bust
+    url: https://www.msn.com/en-gb/news/other/police-smash-way-into-stoke-on-trent-house-in-cannabis-factory-bust/ar-AA2gONMH
+    publisher: MSN
 open_questions:
   - The account gives the plant count as both 80 plants found and more than 80 plants seized, so 80 is recorded as the stated figure.
   - No cannabis weight, valuation, growing equipment or cultivation scale beyond the plant count was published.
@@ -53,11 +56,11 @@ open_questions:
 ---
 
 A 42-year-old Stoke-on-Trent man was arrested on suspicion of cultivating
-cannabis, a class B controlled drug. [@1] Staffordshire Police forced entry to a
+cannabis, a class B controlled drug. [@1,2] Staffordshire Police forced entry to a
 house in Normacot on 4 November 2026 after receiving information that cannabis
-was being grown there. [@1] The raided house on Buccleuch Road in Stoke-on-Trent
+was being grown there. [@1,2] The raided house on Buccleuch Road in Stoke-on-Trent
 held a cannabis factory that officers entered by forcing their way inside. [@1]
-Officers said 80 cannabis plants were found at the Buccleuch Road grow. [@1]
+Officers said 80 cannabis plants were found at the Buccleuch Road grow. [@1,2]
 Police reported seizing more than 80 cannabis plants in the operation. [@1] The
 arrested man remained in custody for questioning. [@1]
 
@@ -68,4 +71,3 @@ the issues that matter most to residents. [@1] Neighbours had spotted marked
 police vehicles on the terrace street on the previous afternoon, with a patrol
 car and forensic van still at the scene the next day. [@1] Police asked
 witnesses to call 101 quoting incident 528 of November 4. [@1]
-
