@@ -51,25 +51,32 @@ sources:
     publisher: PressAfrik
     date: 2025-01-20
     language: fr
+  - title: 'Sénégal : saisie de 82 kg de chanvre indien et plusieurs arrestations ; voici les faits'
+    url: https://yop.l-frii.com/senegal-saisie-de-82-kg-de-chanvre-indien-et-plusieurs-arrestations-voici-les-faits/
+    publisher: YOP L-FRII
+    date: 2025-01-21
+    language: fr
 open_questions:
   - The five suspects were placed in police custody, but no charges, court referral or outcome were reported.
   - No estimate of the value of the 82.5 kg was published.
   - The separate landing of drugs on Mbao beach in the night of 29 to 30 December 2024 is a different event and is left out of this report.
   - The places are written Almadies 2 in APA and Almadie 2 in PressAfrik; the report uses Almadies 2.
   - The submitted page's photo is captioned only with the article headline and carries no credit, so it is linked as possible illustration rather than established as a picture of this seizure.
+  - This account gives no details of a Suzuki Vitara vehicle or seven mobile phones, and no link to the December 2024 Mbao beach landing reported by other outlets.
+  - The page photo is credited only as an APA News illustration image and is not established as a picture of this seizure, so no media entry is included.
 ---
 
 The operational division of Senegal's Central Office for the Repression of
 Illicit Drug Trafficking (OCRTIS), the national anti-drug office, detained five
-people suspected of drug trafficking in the capital. [@1] The five were arrested
+people suspected of drug trafficking in the capital. [@1,3] The five were arrested
 at Almadies 2 and Keur Massar in the night of 19 January 2025, between 5 a.m.
-and 6 a.m. [@1] The five were I. Yatassaye, M. A. Sané, A. T. Diop, A. Ndiaye
-and M. Sall, according to the national police statement. [@1] All five were
+and 6 a.m. [@1,3] The five were I. Yatassaye, M. A. Sané, A. T. Diop, A. Ndiaye
+and M. Sall, according to the national police statement. [@1,3] All five were
 placed in garde à vue, police custody, and their cases were to go before the
-courts. [@2]
+courts. [@2,3]
 
 Officers seized two parcels of chanvre indien, the French term for Indian hemp
-or cannabis, with a total weight of 82.5 kg. [@1] The same operation also netted
+or cannabis, with a total weight of 82.5 kg. [@1,3] The same operation also netted
 a Suzuki Vitara 4x4 vehicle and seven mobile phones. [@2] The drugs and the
 other items were provisionally held at the agency's headquarters to be sealed as
 evidence. [@1]
@@ -80,3 +87,4 @@ known as Ada, who had taken part in landing drugs seized on the night of 29 to
 further series of arrests in its fight against drug trafficking in the capital.
 [@1]
 
+Police said they would continue their search to dismantle the trafficking network. [@3]
