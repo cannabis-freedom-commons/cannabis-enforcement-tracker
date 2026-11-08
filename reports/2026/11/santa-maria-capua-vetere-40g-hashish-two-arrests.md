@@ -60,27 +60,32 @@ sources:
     publisher: NotiziaE Caserta
     date: 2026-11-07
     language: it
+  - title: Giro di spaccio di hashish, 2 arresti
+    url: https://edizionecaserta.net/2026/11/07/giro-di-spaccio-di-hashish-2-arresti/
+    publisher: Edizione Caserta
+    date: 2026-11-07
+    language: it
 open_questions:
   - The 40 grams of hashish and the 1,000 euros are stated as approximate figures.
   - The two accounts do not give the exact time of the arrest beyond CasertaFocus's evening of 6 November and NotiziaE Caserta's date of 6 November 2026.
   - The men are not named and their ages are not given; no custody decision, charge filing or court step was reported, so the case is recorded at the investigation stage.
   - No street or official value was published for the hashish; the 1,000 euros is seized cash, not a valuation of the drug.
   - The CasertaFocus page carries a stock archive photo of an arrest, credited in its file name to a different 2024 case, so no media entry is listed; the Telegolfo and NotiziaE Caserta pages do not caption their pictures either.
+  - The page lists one image with no caption or credit identifying it as this operation, so no media entry is added.
 ---
 
 Police in Santa Maria Capua Vetere arrested two men on the evening of 6 November
 2026 on suspicion of possessing drugs for sale and attempting to supply them.
-[@1] Officers of the town's State Police station, working with a Squadra Volante
+[@1,4] Officers of the town's State Police station, working with a Squadra Volante
 patrol car, had identified an apparent drug handover in a peripheral part of the
-city after intelligence work. [@1] The squad interrupted the exchange and
-stopped the two men in the act of committing the offence. [@2] NotiziaE Caserta
+city after intelligence work. [@1,4] The squad interrupted the exchange and
+stopped the two men in the act of committing the offence. [@2,4] NotiziaE Caserta
 dates the operation to 6 November 2026. [@3]
 
 Personal, vehicle and house searches then turned up about 40 grams of hashish
 already divided into doses ready for sale and about 1,000 euros in cash, which
-police suspect is proceeds of the drug trade. [@1] Officers also seized several
+police suspect is proceeds of the drug trade. [@1,4] Officers also seized several
 mobile phones that kept receiving calls and messages thought to be drug orders,
-along with handwritten notes police link to the trade's accounts. [@1]
+along with handwritten notes police link to the trade's accounts. [@1,4]
 Telegolfo, in the Gulf of Gaeta area of the same region, published the same
 station statement with the same figures. [@2]
-
