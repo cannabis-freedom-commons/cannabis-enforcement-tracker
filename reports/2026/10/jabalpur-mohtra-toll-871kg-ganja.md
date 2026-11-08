@@ -351,6 +351,11 @@ sources:
     publisher: NDTV MP Chhattisgarh
     date: 2026-11-02
     language: hi
+  - title: 'सिहोरा; कंटेनर से डेढ़ करोड़ का 8.5 क्विंटल गांजा जब्त: NH-30 पर ड्राइवर और क्लीनर गिरफ्तार; 28 बोरियों में मिला भरा था'
+    url: https://www.bhaskar.com/local/mp/jabalpur/sihora/news/sihora-nh30-marijuana-seizure-police-arrest-driver-cleaner-139547650.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
   - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
@@ -448,10 +453,13 @@ open_questions:
   - The submitted page carries one image whose caption is only the file name 20261102180841 4CdTBz6J with no credit, so it could not be confirmed to show this seizure and no media entry is added.
   - The NDTV page gives no weight, precise value, arrest count or agency detail beyond its headline; 2 November 2026 is its publication date while the existing report dates the interception to 31 October 2026.
   - The page thumbnail carries no caption or credit, so it could not be confirmed to show this seizure and no media entry is added.
+  - This page reports about 8.5 quintals while the existing report records 871 kg 95 g; the existing precise figure is retained.
+  - This page values the consignment at about Rs 1.5 crore while the existing report records about Rs 4.35 crore; the existing figure is retained.
+  - The page gives Friday late night as the time and 31 October 2026 is its publication date; the existing report's around 2 am on 31 October 2026 is retained.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
-driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22,26,31,32,34,38,39,41,42,43,47,48,50] The operation was
+driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22,26,31,32,34,38,39,41,42,43,47,48,50,51] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1,36,37,41,49] The two were identified as 45-year-old Dharamveer
@@ -459,13 +467,13 @@ Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South
 Dinajpur, West Bengal. [@1,4,7,9,12,13,22,23,24,25,26,27,29,33,35,36,38,41,42,43,46,49]
 
 Officers found 28 sacks concealed among 412 paint cans inside the container.
-[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36,38,39,40,41,42,45,46,47,48,49,50] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
+[@1,2,4,7,9,10,12,13,16,17,19,22,23,24,25,26,27,28,31,33,35,36,38,39,40,41,42,45,46,47,48,49,50,51] The sacks contained packets of cannabis wrapped in khaki-coloured tape.
 [@1,12,16,19,24,26,31,39,40,47,48] The cannabis weighed 871 kg 95 g, and police put its market value at ₹4
 crore 35 lakh 55 thousand, or about ₹4.35 crore. [@1,4,6,9,11,16,19,22,23,25,26,28,31,35,36,37,38,39,40,41,46,47,48,49] The container had a
 Nagaland registration number, police said. [@2]
 
 A police team patrolling National Highway 30 in the Gosalpur police station area
-noticed the container speeding near the Muskhara turn. [@1,32,38,41,42] Police followed the
+noticed the container speeding near the Muskhara turn. [@1,32,38,41,42,51] Police followed the
 vehicle and intercepted it after setting up a blockade near the Mohtra toll
 plaza. [@1,16,19,22,24,25,27,29,31,34,35,36,38,39,40,41,42,45,46,47,49] The driver and the other man tried to flee but were caught, police
 said. [@2,10,12,19,27,31,33,39,40,41,42,45] The Uttar Pradesh Narcotics Wing team from Jhansi had been tracking
