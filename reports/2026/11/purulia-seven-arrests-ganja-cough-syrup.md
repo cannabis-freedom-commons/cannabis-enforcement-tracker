@@ -27,6 +27,11 @@ sources:
     publisher: anandabazar.com
     date: 2026-11-06
     language: bn
+  - title: গত তিন বছরে যা হয়নি, তা করে দেখাল পুরুলিয়া পুলিশ! উদ্ধার ১৫২ লিটার নিষিদ্ধ কাশির সিরাপ
+    url: https://puruliamirror.com/news/purulia-police-did-something-that-hasnt-been-done-in-the-last-three-years-152-liters-of-banned-cough-syrup-recovered
+    publisher: Purulia Mirror
+    date: 2026-11-06
+    language: bn
 open_questions:
   - The article gives no separate date for the arrests; 6 November 2026, the publication date, is used as the incident date.
   - No weight or number of packets was published for the ganja seized, so no cannabis weight is recorded, and the ganja cannot be separated from the syrup seizure by place.
@@ -37,6 +42,11 @@ open_questions:
   - The seven are named but no ages were given.
   - Only the Anandabazar page could be opened; searches in Bengali and English found no second full report of the roundup.
   - The photo published with the article is captioned only as a representative image and is not established to show this raid, so it is linked rather than used as a cover.
+  - Purulia Mirror gives the ganja as an approximate range of about three to three and a half kilograms seized in two separate incidents, with no exact weight or per-case split published.
+  - Purulia Mirror says seven separate cases were filed, one fewer station area than the six Anandabazar lists because it counts two cases at Purulia Mufassal; the total is seven either way but the station list differs slightly (Anandabazar lists Purulia Sadar, Purulia Mirror lists Purulia Town).
+  - Purulia Mirror names some of those held differently, describing Bablu alias Sheikh Alfazuddin and adding that Abha Rani Devi and her granddaughter Dolon were detained, while Anandabazar names Sheikh Zakir alias Kota and Priyanka Das; the accounts may refer to different people or to the same people under other names.
+  - 'Left out, as its quotation was not found in Purulia Mirror: The seven arrests were made across seven separate cases, with one case each at the Hura, Arsha, Purulia Town, Tamna and Joypur police stations and two at Purulia Mufassal police station.'
+  - 'Left out, as its quotation was not found in Purulia Mirror: About three to three and a half kilograms of ganja was seized in two separate incidents during the roundup, Purulia Mirror reported.'
 ---
 
 Purulia district police arrested seven people in separate raids against drug
@@ -49,3 +59,4 @@ Raj said most of the banned cough syrup recovered in the raids came from the
 Purulia Mufassal police station area. [@1] The superintendent said traffickers
 of the banned syrup never carried more than small quantities at a time. [@1]
 
+The seized cough syrup amounted to 152 litres in more than 1,200 bottles, the outlet reported. [@2]
