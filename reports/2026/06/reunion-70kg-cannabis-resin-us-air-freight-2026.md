@@ -56,6 +56,11 @@ sources:
     publisher: LINFO.re
     date: 2026-07-04
     language: fr
+  - title: 'Plus de 70 kg de résine de cannabis saisis à La Réunion : six personnes interpellées'
+    url: https://www.clicanoo.re/article/faits-divers/2026/07/06/plus-de-70-kg-de-resine-de-cannabis-saisis-a-la-reunion-six-personnes-interpellees
+    publisher: Clicanoo
+    date: 2026-07-06
+    language: fr
 open_questions:
   - Réunion La 1ère says five people were presented to the investigating judge on 3 July (one under judicial supervision, four in pre-trial detention), while LINFO.re describes one suspect under supervision and five others in detention, implying six presented; this report records only the six arrests and leaves the number formally charged open.
   - The 200 grams of cocaine and the seized cash and vehicles are not cannabis figures; the cocaine weight is excluded from kg_seized and no vehicle count is recorded because the sources say only several vehicles.
@@ -63,6 +68,7 @@ open_questions:
   - No names, ages beyond the initial 26-year-old suspect, or later court outcome were reported.
   - 'Left out, as its quotation was not found in LINFO.re: The preliminary inquiry had opened in early May 2026.'
   - 'Left out, as its quotation was not found in LINFO.re: The investigation became a formal judicial inquiry on 18 June 2026.'
+  - Clicanoo says more than 70 kg while LINFO.re and the report give 70 kg in total; the report's 70 kg figure is retained.
 ---
 
 Gendarmes of the Saint-Denis research section say they dismantled a
@@ -73,10 +79,10 @@ Investigators learned on 29 June of the imminent arrival of a parcel from the
 United States. [@2] The parcel came from the United States by air freight and
 was isolated by customs officers, who found 13 bags containing bars of cannabis
 resin. [@1] The resin weighed 70 kg in total, which the authorities valued at
-more than 1.7 million euros for resale. [@1] Six people were arrested, four near
+more than 1.7 million euros for resale. [@1,3] Six people were arrested, four near
 the airport area and two on the public road, with support from the GIGN
 gendarmerie intervention branch. [@2] Searches at their homes recovered 17,000
-euros in cash, 200 grams of cocaine and several vehicles. [@1]
+euros in cash, 200 grams of cocaine and several vehicles. [@1,2]
 
 On 30 June a judicial operation under an investigating judge mobilised about
 fifty gendarmes. [@2]
@@ -86,5 +92,4 @@ Réunion La 1ère. [@1] Of those presented, one was placed under judicial
 supervision and the other four in pre-trial detention. [@1] LINFO.re reports the
 five other suspects were placed in pre-trial detention after a hearing before
 the liberty and detention judge. [@2] Investigations are continuing to identify
-all the branches of the suspected importation network. [@2]
-
+all the branches of the suspected importation network. [@2,3]
