@@ -87,6 +87,11 @@ sources:
     url: https://www.moroccoworldnews.com/2026/11/345442/algeria-again-claims-seizure-of-cannabis-smuggled-from-morocco/
     publisher: Morocco World News
     date: 2026-11-08
+  - title: Algerijnse politie schrijft drugsvangst opnieuw toe aan Marokko
+    url: https://nieuws.marokko.nl/118950/algerijnse-politie-schrijft-drugsvangst-opnieuw-toe-aan-marokko/
+    publisher: Marokko Nieuws
+    date: 2026-11-08
+    language: nl
 open_questions:
   - None of the accounts gives the day or days of the operations; 7 November 2026 is the publication date and is used as the incident date.
   - No breakdown of the 205 kg, the 28 arrests or the ten networks by wilaya or operation was published, and the statement does not say where each network was dismantled.
@@ -107,13 +112,16 @@ open_questions:
   - The page reproduces the same DGSN statement as the sources already cited in the report, so it is not independent reporting of the seizure.
   - The Béchar incidents the page recalls for context are separate events, recorded elsewhere, and are not part of this report.
   - The page photo is captioned only with the story headline and does not confirm what it depicts, so no media entry is added.
+  - The submitted page gives no separate date for the operations; 8 November 2026 is its publication date and is not used as the incident date.
+  - The page uses the Dutch term hasj for the seized resin and gives only the rounded 205 kilo figure, with no wilaya breakdown, vehicles or cash totals.
+  - The page image is a stand-in whose only alternative text repeats the headline, so no media entry is added.
 ---
 
 Algeria's national police dismantled ten criminal networks specialising in drug
 trafficking in the west of the country and arrested 28 people, the Directorate
-General of National Security (DGSN) said. [@1,3,4,5,6,7] The operations, run in succession
+General of National Security (DGSN) said. [@1,3,4,5,6,7,8] The operations, run in succession
 by the national police's operational teams, seized 205 kg of treated kif —
-processed cannabis resin — that came from Morocco. [@1,3,4,5,6,7]
+processed cannabis resin — that came from Morocco. [@1,3,4,5,6,7,8]
 
 The teams carried out the operations in the wilayas of Tlemcen, Naâma, Oran and
 Béchar, under the supervision of the territorial public prosecutors, according
@@ -129,3 +137,5 @@ Ennahar Online carried the same statement in Arabic, adding that the networks'
 activity extended to other wilayas of the country. [@2]
 
 Morocco World News described the Algerian statement as one of a series of similar Algerian claims attributing cannabis seizures to Morocco, and recalled earlier Algerian army accounts of killing Moroccan nationals in Béchar province over alleged kif smuggling. [@7]
+
+The statement names Morocco as the country of origin but gives no substantiation for that assertion. [@8] Algeria's state news agency distributed the announcement on the basis of a police statement. [@8]
