@@ -72,6 +72,11 @@ sources:
     publisher: Diario1
     date: 2026-07-10
     language: es
+  - title: Dos capturados por transportar droga valorada en más de $19,000
+    url: https://www.laprensagrafica.com/elsalvador/dos-capturados-en-el-salvador-por-transportar-droga-valorada-en-mas-de-19000-20260711-0021.html
+    publisher: La Prensa Gráfica
+    date: 2026-07-11
+    language: es
 open_questions:
   - No weight in kilograms was published for the nine large and six medium portions or the 28 additional packages, so only the minister's $19,768 valuation can be recorded.
   - The articles give no town, department, road or neighbourhood for the vehicle stop or for the house where the pair was staying, so the place is recorded as El Salvador with country-centre coordinates.
@@ -80,14 +85,15 @@ open_questions:
   - Diario1 gives no exact date and calls the arrest a Friday capture, while the other accounts date it to 9 July 2026, a Thursday.
   - The 2.5 tonnes of marijuana and 1,200 arrests cited for January to July 2026 are national statistics, not this case, and are excluded.
   - All four accounts repeat the Security Ministry and minister's social-media version; no statement from the detainees was published and no ministry news page for the case was opened.
+  - La Prensa Gráfica spells the second detainee's name Katherine Johana Ramos, while the existing report follows the Katherine Yohana Ramos spelling of its other sources.
 ---
 
 El Salvador's National Civil Police arrested José Fernando Barillas Chinchilla
 and Katherine Yohana Ramos in flagrante on 9 July 2026 as they travelled in a
-vehicle carrying marijuana. [@3] The vehicle held nine large portions and six
+vehicle carrying marijuana. [@3,5] The vehicle held nine large portions and six
 medium ones. [@2] Security Minister Gustavo Villatoro estimated the marijuana at
-$19,768. [@1] After the arrests and the publication of the pair's photographs,
-citizens reported more marijuana at the house where they were staying. [@4]
+$19,768. [@1,5] After the arrests and the publication of the pair's photographs,
+citizens reported more marijuana at the house where they were staying. [@4,5]
 
 Police then searched the house with a K9 dog unit and seized 28 more packages of
 marijuana. [@3] The house search also turned up two mobile phones and $805 in
@@ -100,4 +106,3 @@ would not allow this poison in the country and was fighting the problem with all
 firmness, whatever the quantity involved. [@1] In his account of the operation,
 Villatoro wrote that the drug business would not be tolerated by sea, by air or
 on Salvadoran soil. [@2]
-
