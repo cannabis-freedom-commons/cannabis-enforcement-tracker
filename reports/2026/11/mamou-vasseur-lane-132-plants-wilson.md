@@ -133,6 +133,10 @@ open_questions:
   - The submitted page is a video item whose only text is a one-sentence caption; its direct video address could not be recovered from the page markup, so no media link is given.
   - The KTVE item carries only a one-sentence caption and no arrests, figures or charges; its video was not transcribed, so no detail from the footage is recorded.
   - KTVE's description says over 100 marijuana plants, fewer than the 132 plants the sheriff's office statement counted.
+  - No figure for an area, hectare or weight of the 132 plants in an uprooted-to-taken split was given; the 971 grams remains unseparated from the plants.
+  - The page reports the sheriff's office street value of the plants alone at about $132,000 and of the kratom at $50, which does not match the $32,450 total reported by KLFY from the same statement.
+  - The booking photograph of Wilson has no caption or credit beyond his name; the Evangeline Parish Sheriff's Office is inferred as its publisher from the statement it accompanies.
+  - No court date, plea or outcome was reported; the case was at the charge stage.
 ---
 
 Deputies of the Evangeline Parish Sheriff’s Office searched a camper and three
