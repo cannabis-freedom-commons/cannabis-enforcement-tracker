@@ -94,6 +94,11 @@ sources:
     publisher: Bursa Hakimiyet
     date: 2026-11-06
     language: tr
+  - title: Mersin'de Uyuşturucu Operasyonu! 48 Kilo Esrar ve 1,5 Kilo Metamfetamin Ele Geçirildi
+    url: https://www.mersinportal.com/mersinde-uyusturucu-operasyonu-48-kilo-esrar-ve-15-kilo-metamfetamin-ele-gecirildi
+    publisher: Mersin Portal
+    date: 2026-11-06
+    language: tr
 open_questions:
   - No separate date was given for the operation or the court hearing; 31 October 2026 is the publication date of the earliest account, so both happened on or before that evening.
   - No weight, plant count or estimated value was published for the synthetic drugs or the esrar; the accounts say only that 'a quantity' of esrar was found.
@@ -119,6 +124,12 @@ open_questions:
   - The full plates 33 BFY 04 and 03 VD 202 come from Sabah's account only; İHA and the submitted page give just the two-digit province codes 33 and 03.
   - No street, district or neighbourhood is named for any of the searches, only Mersin province; no value estimate, charge wording or trial date was published.
   - The submitted page's own image is a headline graphic with no caption identifying the seizure, so media is listed from the İHA agency page instead, whose two photos carry no caption beyond the headline.
+  - The submitted page gives 19 jailed during the week as the provincial total and does not give the four-of-five detention split, which comes from the İHA account.
+  - The submitted page places the whole 48 kilograms in Y.E.A.'s vehicle, while Sabah also reports it at that suspect's address, so the two accounts differ.
+  - Neither account names a district or neighbourhood for any search, only Mersin province.
+  - 'Left out, as its quotation was not found in İHA (İhlas Haber Ajansı): Police in Mersin detained five suspected street drug dealers and a court jailed four of them on 6 November 2026.'
+  - Left out charged, as its quotation was not found in İHA (İhlas Haber Ajansı).
+  - Left out arrested, as its only supporting source is not cited by the report's text.
 ---
 
 Anti-narcotics police in Mersin detained H.Y. and M.E. in an investigation run
@@ -135,8 +146,10 @@ the two were brought to court under heavy security. [@3] A duty court ordered
 tutuklama, pre-trial detention, on drug-trafficking charges and sent both to
 prison. [@3,4,6]
 
-Police in Mersin detained five suspected street drug dealers and a court jailed four of them on 6 November 2026. [@7,9,10] Officers found 48 kilograms of esrar, the Turkish name for cannabis, in the vehicle used by one suspect and in that suspect's home, and about 1.5 kilograms of methamphetamine in another suspect's vehicle. [@7,10] İHA reported that police caught the suspects in two numbered-plate vehicles and seized about 1.5 kilograms of methamphetamine and 48 kilograms of esrar in the vehicles and at their addresses. [@8,11] Searches of the other three suspects found 14.40 grams of synthetic cannabinoid (bonzai), cocaine, ammonia, a precision scale and 120 lira. [@9] Of the five suspects brought to court, four were ordered held in pre-trial detention and the fifth was released under judicial supervision. [@9,11]
+Police in Mersin detained five suspected street drug dealers and a court jailed four of them on 6 November 2026. [@7,9,10] Officers found 48 kilograms of esrar, the Turkish name for cannabis, in the vehicle used by one suspect and in that suspect's home, and about 1.5 kilograms of methamphetamine in another suspect's vehicle. [@7,10,12] İHA reported that police caught the suspects in two numbered-plate vehicles and seized about 1.5 kilograms of methamphetamine and 48 kilograms of esrar in the vehicles and at their addresses. [@8,11] Searches of the other three suspects found 14.40 grams of synthetic cannabinoid (bonzai), cocaine, ammonia, a precision scale and 120 lira. [@9] Of the five suspects brought to court, four were ordered held in pre-trial detention and the fifth was released under judicial supervision. [@9,11]
 
 İHA reported that the Mersin provincial police directorate's anti-narcotics branch targeted people trading drugs and street-level dealers known as torbacı. [@8]
 
 Sabah gives the plates of the two cars as 33 BFY 04, used by Z.S.A., and 03 VD 202, used by Y.E.A., and places the 48 kilograms in Y.E.A.'s vehicle. [@7] Sabah reports that police also detained S.B., A.A. and B.K., described as torbacı street dealers, as the investigation widened. [@7]
+
+The submitted account places the whole 48 kilograms in Y.E.A.'s vehicle, while Sabah reports it in that suspect's vehicle and address. [@12] The Mersin chief public prosecutor's office said proceedings had been opened against the suspect S.B. under article 188 of the Turkish Penal Code, which covers the manufacture and trade of narcotics. [@12]
