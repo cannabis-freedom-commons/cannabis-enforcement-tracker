@@ -55,6 +55,11 @@ sources:
     publisher: Rthess
     date: 2026-11-06
     language: el
+  - title: 'Θεσσαλονίκη: Συνελήφθη 33χρονος για διακίνηση ναρκωτικών'
+    url: https://www.xalkidikipolitiki.com/thessaloniki-synelifthi-33chronos-gia-diakinisi-narkotikon/
+    publisher: Xalkidiki Politiki
+    date: 2026-11-07
+    language: el
 open_questions:
   - Neither account gives a weight for the cannabis found in chocolate form on the suspect, so no cannabis quantity beyond the 11.22 grams seized at home can be recorded.
   - No cash amount was published, so the money seized is not recorded as a figure.
@@ -62,19 +67,21 @@ open_questions:
   - 'The accounts differ on the cocaine packaging: the submitted page and Today Press count 15 nylon packages, while Rthess says two.'
   - No street value, charge sheet or court outcome was reported; the case file was still going to the prosecutor.
   - 'No photo of this seizure is included: the submitted page''s lead image is captioned only with the headline and shows handcuffs, and no opened page captions a picture of this seizure.'
+  - The new source labels 06-11-2026 as Thursday morning, while the existing report dates the early-hours arrest to Friday 6 November 2026.
+  - The page's image carries only a generic filename caption and is not shown to depict this seizure, so no media is added.
 ---
 
 Police arrested a 33-year-old man in central Thessaloniki in the early hours of
-Friday 6 November 2026 during checks targeting drug trafficking. [@1] According
+Friday 6 November 2026 during checks targeting drug trafficking. [@1,4] According
 to police, the man threw 15 nylon packages holding 14.71 grams of cocaine on the
 ground and then tried to flee, but officers restrained him and searched him
-further. [@1] The officers who approached him were from OPKE, the Greek police's
+further. [@1,4] The officers who approached him were from OPKE, the Greek police's
 crime-prevention and suppression unit. [@2]
 
 A search of his person found an improvised package of unprocessed cannabis in
 chocolate form, along with a sum of money that the authorities linked to drug
-trafficking. [@1] A search of his home in Evosmos, a western suburb of
-Thessaloniki, found and seized a further 11.22 grams of cannabis. [@1] Rthess
+trafficking. [@1,4] A search of his home in Evosmos, a western suburb of
+Thessaloniki, found and seized a further 11.22 grams of cannabis. [@1,4] Rthess
 also reported that police seized 11.22 grams of cannabis at his home in the
 Evosmos area of Thessaloniki. [@3]
 
@@ -82,5 +89,4 @@ The suspect was taken to the White Tower department, where the drug case file
 was drawn up, and then referred to the prosecutor's office. [@2] Officers of the
 White Tower crime-investigation department filed the case against the
 33-year-old and said he was expected to be taken to the competent prosecutor.
-[@1]
-
+[@1,4]
