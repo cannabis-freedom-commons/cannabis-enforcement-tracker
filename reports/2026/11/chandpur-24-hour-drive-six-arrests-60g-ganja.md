@@ -61,6 +61,11 @@ sources:
     publisher: Ajker Patrika
     date: 2026-11-08
     language: bn
+  - title: চাঁদপুরে ২৪ ঘণ্টায় ৪৪ আসামি গ্রেপ্তার, ২৫ কিশোর গ্যাং সদস্য আটক
+    url: https://thedailycampus.com/crime-and-discipline/281042
+    publisher: The Daily Campus
+    date: 2026-11-08
+    language: bn
 open_questions:
   - The incident date of 7 November 2026 is the raid date stated in the text; 8 November 2026 is the article's publication date.
   - Yaba is a methamphetamine tablet and is excluded from cannabis figures; 60 grams is the whole ganja weight given.
@@ -93,7 +98,7 @@ released at night by the media cell of the superintendent of police's office.
 [@1,2,4] The drive was run on the instructions of Superintendent Md Mizanur Rahman
 to control law and order and curb crime. [@1]
 
-In the anti-drug part, six people were arrested. [@1,4,5] Haimchar police held one
+In the anti-drug part, six people were arrested. [@1,4,5,6] Haimchar police held one
 person with 2 yaba pieces, Faridganj police held 2 people with 2 yaba pieces,
 Matlab Uttar police held 1 person with 20 grams of ganja, and Shahrasti police
 held 2 people with 40 grams of ganja. [@1,2,3,5] In total police reported recovering
@@ -101,7 +106,9 @@ held 2 people with 40 grams of ganja. [@1,2,3,5] In total police reported recove
 
 Additional Superintendent Nadia Nur said 24 of the detained teenagers were
 handed to their families on bond after checks, and legal action was taken
-against one. [@1,2,4,5] She said legal action was taken against the arrested Awami
+against one. [@1,2,4,5,6] She said legal action was taken against the arrested Awami
 League members and drug suspects and that such drives would continue. [@1,4]
 
-In total police reported recovering 60 grams of ganja and 4 yaba pieces in the drive. [@5] Chandpur police media cell released the figures on Sunday morning from the superintendent's office. [@5]
+In total police reported recovering 60 grams of ganja and 4 yaba pieces in the drive. [@5,6] Chandpur police media cell released the figures on Sunday morning from the superintendent's office. [@5]
+
+The figures were given in a press statement sent by Chandpur district police on Sunday 8 November. [@6] The 24-hour drive ran on Saturday 7 November in the areas of the district's police stations, on the instructions of Superintendent Md Mizanur Rahman. [@6] Chandpur Sadar Model police station arrested 12 Awami League leaders and activists, Faridganj 8, Matlab Dakshin 2, Matlab Uttar 4, Hajiganj 4, Shahrasti 2 and Kachua 6. [@6] The anti-teen-gang drive detained 3 teenagers at Chandpur Sadar Model station, 4 at Haimchar, 5 at Faridganj, 4 at Matlab Dakshin, 4 at Hajiganj and 5 at Kachua. [@6] Additional Superintendent of Police (Administration and Finance) Nadira Nur confirmed the figures. [@6]
