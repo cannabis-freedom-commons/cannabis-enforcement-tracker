@@ -117,13 +117,14 @@ open_questions:
   - The page's only photo is labelled as an archive photo of a Guardia Civil agent by a vehicle, so no event photo from this outlet is listed as media.
   - La Razón rounds the drug weights to 7.8 kg of hashish and 1.7 kg of marijuana; the report keeps the precise 7.843 kg and 1.771 kg figures from the earlier sources.
   - ABC rounds the amounts to more than 7 kg of hashish and almost 2 kg of marijuana and gives no separate weight figure beyond those approximations; the report keeps the precise 7.843 kg and 1.771 kg from the earlier sources.
+  - El Mundo was already among the report's cited sources, so this submission mainly confirms those sentences rather than adding a new account; the outlet's handout photo of the seized cash appears to be the same Guardia Civil image already linked from MiraCorredor.
 ---
 
 The Guardia Civil, Spain's military-status national police force, said it had
 broken up a criminal organisation trafficking cannabis in Villanueva de la
 Cañada and Brunete, two towns in the Community of Madrid. [@1,3,4,5,6] Investigators
 gathered indications of drug-trafficking activity in both municipalities before
-the operation, the force said in a statement issued on Saturday. [@1] Officers
+the operation, the force said in a statement issued on Saturday. [@1,6] Officers
 then searched two premises: the home in Brunete where the alleged leaders of the
 organisation lived, and a commercial unit (local) in Villanueva de la Cañada.
 [@1,3,4,5,6]
@@ -136,4 +137,4 @@ five vehicles were allegedly linked to the criminal activity. [@2,5]
 Six people were detained as suspected perpetrators of offences against public
 health through drug trafficking, membership of a criminal organisation and money
 laundering. [@1,3,4,6] The six arrested people, whose names and ages were not
-published, have been handed over to the courts. [@1,5]
+published, have been handed over to the courts. [@1,5,6]
