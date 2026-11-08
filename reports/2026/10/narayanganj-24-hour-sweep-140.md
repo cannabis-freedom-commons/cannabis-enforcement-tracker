@@ -57,6 +57,11 @@ sources:
     publisher: Narayanganj Times
     date: 2026-10-30
     language: bn
+  - title: পুলিশের বিশেষ অভিযানে মাদকসেবী-কারবারিসহ গ্রেপ্তার ১৪০
+    url: https://www.pressnarayanganj24.net/city/news/47314
+    publisher: Press Narayanganj
+    date: 2026-10-30
+    language: bn
 open_questions:
   - Narayanganj Post dates the arrests to Thursday 29 October, while Kaler Kantho reported the results on Friday 30 October for the preceding 24 hours; the report uses 29 October.
   - No charges, court appearances or case numbers were reported for the 140 people arrested.
@@ -76,20 +81,22 @@ media:
 ---
 
 Police in Narayanganj district arrested 140 people in a 24-hour special drive.
-[@1,2,3,4,5] Additional superintendent of police (crime and operations) Tareq Al Mehdi
-announced the results on Friday morning. [@1,2,3] Of the 140, police counted 13 drug
+[@1,2,3,4,5,6] Additional superintendent of police (crime and operations) Tareq Al Mehdi
+announced the results on Friday morning. [@1,2,3,6] Of the 140, police counted 13 drug
 traffickers and 88 drug users, along with 19 people wanted on arrest warrants,
 14 defendants in regular cases, one thief, four held under other sections and
-one member of a banned organisation. [@1,2,4,5]
+one member of a banned organisation. [@1,2,4,5,6]
 
 Fatullah Model police station made 66 of the arrests, including 52 drug users.
 [@1,2,4] Siddhirganj police arrested 25 people and seized 61 bottles of Skaf, 45
 bottles of Fyradil and 270 yaba tablets. [@1,2,4,5] Bandar police arrested seven
-people and seized the 100 grams of cannabis. [@1,2,4,5] In all, police reported
+people and seized the 100 grams of cannabis. [@1,2,4,5,6] In all, police reported
 seizing 295 yaba tablets, 61 bottles of Skaf, 45 bottles of Fyradil, 63 cans of
-beer and 100 grams (0.1 kg) of cannabis. [@1,3,4,5]
+beer and 100 grams (0.1 kg) of cannabis. [@1,3,4,5,6]
 
 Tareq Al Mehdi said officers arrested people involved in various crimes and
 recovered yaba, cannabis and other drugs during the drive. [@1,2,3]
 
 Narayanganj Sadar Model police station arrested nine people, including six drug users, one person wanted on a warrant and two defendants in regular cases, police said. [@3] Rupganj police arrested 13 people and seized 25 yaba tablets, police said. [@4,5]
+
+Sonargaon police arrested 13 people, including 11 drug users, one thief and one person wanted on a warrant. [@6] Araihazar police arrested seven people, including three drug users, three people wanted on warrants and one defendant in a regular case. [@6]
