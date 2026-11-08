@@ -57,6 +57,10 @@ sources:
     url: https://wgxa.tv/news/local/operation-community-shield-nets-5-arrests-10-guns-marijuana-and-ecstasy-in-bibb-county-deambrose-butler-christan-jessica-person-kenterrious-coker-sr-melvin-dunlap-jr-purchase-possession-manufacture-distribution-or-sale-of-marijuana-two-counts-of-pos
     publisher: WGXA
     date: 2026-11-05
+  - title: 'Bibb County deputies seize 10 guns, marijuana and ecstasy during five search warrants: release'
+    url: https://www.msn.com/en-us/news/other/bibb-county-deputies-seize-10-guns-marijuana-and-ecstasy-during-five-search-warrants-release/ar-AA2h1g5i
+    publisher: WMAZ-TV Macon (via MSN)
+    date: 2026-11-08
 open_questions:
   - The total marijuana weight is not published; 1.137 kg is calculated from 346 g, 458 g, about 1.8 pounds and about 20 bags of about 3.5 g stated for individual residences, so it understates the total because two residences have no marijuana figure.
   - No street value for the marijuana was published.
@@ -64,13 +68,16 @@ open_questions:
   - No court outcome or bond information was published, and the charges remain allegations.
   - Both accounts rely on the Bibb County Sheriff's Office release, which was not opened directly on the agency's own site.
   - The 41NBC page photo is captioned only Shooting and appears to be a generic image, so it is not listed as media showing this operation.
+  - This account gives more than 800 grams of marijuana at the 800 block of A Street, while the existing report records separate 346-gram and 458-gram amounts from other coverage of the same release.
+  - The full 13WMAZ original returned an access error and only its MSN syndication could be read.
+  - The account text ends after the second residence, so the report's details on the other three addresses come from other outlets.
 ---
 
 Bibb County sheriff's deputies arrested five people on 4 November 2026 during
 Operation Community Shield, an operation against illegal drugs and weapons in
-Macon. [@1] The sheriff's office's Special Investigations Unit, with the Gang
+Macon. [@1,3] The sheriff's office's Special Investigations Unit, with the Gang
 Unit and SWAT Team, carried out five search warrants on Wednesday, 4 November.
-[@1] Investigators said they recovered marijuana, ecstasy, firearms, digital
+[@1,3] Investigators said they recovered marijuana, ecstasy, firearms, digital
 scales and drug packaging materials from several homes. [@1]
 
 Deambrose Butler, 33, was arrested at a home in the 900 block of A Street after
@@ -108,3 +115,4 @@ Bibb County Sheriff David Davis said the operations send a message that the
 office will not allow drug trafficking and the violence it often brings to take
 root in the community. [@1]
 
+Deputies seized more than 800 grams of marijuana at the 800 block of A Street, which they believed was partly packaged for distribution. [@3]
