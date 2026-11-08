@@ -135,6 +135,11 @@ sources:
     publisher: Снага Југа
     date: 2026-11-07
     language: sr
+  - title: Policija u Zrenjaninu otkrila laboratoriju za uzgoj marihuane, među uhapšenima i pripadnik Žandarmerije
+    url: https://insajder.net/vesti/policija-u-zrenjaninu-otkrila-laboratoriju-za-uzgoj-marihuane-medu-uhapsenima-i-pripadnik-zandarmerije
+    publisher: Insajder
+    date: 2026-11-07
+    language: sr
 open_questions:
   - No date is given for the search or the arrests; 7 November 2026 is the date of the police statement and of publication, and is used as the incident date.
   - The material was described as plants resembling Indian hemp and dried material suspected to be marijuana; no laboratory confirmation was reported.
@@ -169,13 +174,13 @@ open_questions:
 
 Police in Zrenjanin, with the Higher Public Prosecutor's Office in the city,
 arrested three people on suspicion of unauthorised production and sale of
-narcotics. [@1,4,6,7,8,9,10,11,13,14] One of the three, identified as Ž. G., is a Gendarmerie member
+narcotics. [@1,4,6,7,8,9,10,11,13,14,16] One of the three, identified as Ž. G., is a Gendarmerie member
 and is 43, while the other two are 64 and 63. [@2,5,7,12,13,15]
 
 Officers searched the flat and other premises the suspects use and found an
 illegal indoor cannabis-growing laboratory. [@1,4,8,11,12,15] During the search police seized
 81 plants resembling Indian hemp, about 7.5 kilograms of dried plant material
-suspected to be marijuana and scales for weighing. [@1,5,6,7,8,9,10,11,12,13,14,15] The account came from a
+suspected to be marijuana and scales for weighing. [@1,5,6,7,8,9,10,11,12,13,14,15,16] The account came from a
 statement by the Police Administration for Zrenjanin, which also said officers
 seized equipment used to grow the drug. [@2,5,15]
 
@@ -183,6 +188,6 @@ Blic reported that the police searched a flat and that the three suspects were
 held for 48 hours before being taken to the prosecutor with a criminal
 complaint. [@3] By order of the Higher Public Prosecutor's Office the three were
 held for up to 48 hours and were to be brought to the prosecutor with a criminal
-complaint. [@1,5,6,9,10,11,12,13,14] The police announcement said the investigation should establish
+complaint. [@1,5,6,9,10,11,12,13,14,16] The police announcement said the investigation should establish
 the circumstances of the case and any role each suspect had in the
 cannabis-growing operation. [@2]
