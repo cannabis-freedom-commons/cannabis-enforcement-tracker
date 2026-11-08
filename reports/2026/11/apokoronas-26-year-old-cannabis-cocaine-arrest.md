@@ -79,6 +79,11 @@ sources:
     publisher: 2810.gr
     date: 2026-11-07
     language: el
+  - title: 'Χανιά: Συνελήφθη 26χρονος για ναρκωτικά – Κατασχέθηκαν κοκαΐνη, κάνναβη και 15.500 ευρώ'
+    url: https://pieria24.gr/chania-synelifthi-26chronos-gia-narkotika-kataschethikan-kokaini-kannavi-kai-15-500-eyro/
+    publisher: Pieria24
+    date: 2026-11-07
+    language: el
 open_questions:
   - The exact village in the Municipality of Apokoronas is not named, so district coordinates are used.
   - The sources call the cannabis only 'kannavi' without saying whether it is herbal or resin, or whether it was for sale.
@@ -93,17 +98,17 @@ open_questions:
 
 Police in the Municipality of Apokoronas, Chania, on Crete arrested a
 26-year-old Greek man on the morning of 7 November 2026 after searches of his
-home and of storage places he used. [@1,4] The searches were made in the house and
+home and of storage places he used. [@1,4,6] The searches were made in the house and
 in places the 26-year-old used as storage points, which the accounts call
 kavatzas, a Greek term for a hiding place or stash. [@2]
 
 The searches found and seized 96.8 grams of cannabis, which is the only cannabis
-quantity the accounts give. [@1,5] Police also seized 1 kilo and 173.1 grams of
+quantity the accounts give. [@1,5,6] Police also seized 1 kilo and 173.1 grams of
 cocaine in 14 improvised packages, a quantity that is not counted as cannabis
-here. [@1,5] Officers seized 15,500 euros that police said came from criminal
+here. [@1,5,6] Officers seized 15,500 euros that police said came from criminal
 activity. [@1,4] The accounts also list a weighing scale, three mobile phones and
 a private car seized as a means of facilitating the alleged crime. [@1]
 
 The man was arrested for offences under the drug laws and was to be taken before
 the competent prosecutor. [@3] The preliminary investigation continued at the
-Chania drug enforcement department. [@1]
+Chania drug enforcement department. [@1,6]
