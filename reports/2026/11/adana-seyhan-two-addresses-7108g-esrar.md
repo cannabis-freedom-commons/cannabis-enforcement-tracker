@@ -132,6 +132,11 @@ sources:
     publisher: Çukurova Metropol
     date: 2026-11-07
     language: tr
+  - title: Adana'da Jandarma Tarafından Düzenlenen Operasyonda Çok Sayıda Esrar Ele Geçirildi
+    url: https://kayserigurhaber.com/haber/adanada-jandarma-tarafindan-duzenlenen-operasyonda-cok-sayida-esrar-ele-gecirildi-962759
+    publisher: Kayseri Gürhaber
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports give no separate date for the raids; 7 November 2026 is the publication date and is used as the incident date.
   - No charge, court step, suspect name or estimated value of the cannabis was published; the investigation was said to be continuing.
@@ -165,15 +170,19 @@ open_questions:
   - The Çukurova Metropol page gives no separate date for the raids; 7 November 2026 is its publication date and the date of the agency dispatch, as in the existing report.
   - 'The page credits İHA ("Kaynak: İHA") and reproduces the same agency account already cited, so it is not independent reporting.'
   - The page image is captioned only with the headline and carries no photographer or agency credit, so whether it shows this seizure is not established.
+  - Kayseri Gürhaber gives no separate date for the raids; 7 November 2026 is its publication date and the date of the account, as in the existing report.
+  - Kayseri Gürhaber reproduces the same İhlas Haber Ajansı account as the outlets already cited, so it is not independent reporting.
+  - Kayseri Gürhaber describes the suspects as people suspected of drug trafficking and adds that the seized material was undergoing examination and testing, which the existing report's cited accounts did not state.
+  - The Kayseri Gürhaber page image is captioned only with the headline and carries no photographer or agency credit, so whether it shows this seizure is not established and no media entry is added.
 ---
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses
 identified in Seyhan, a central district of Adana province, in a continuing
-anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8,10,11,12,13,14,15,16] Searches at the two addresses turned
+anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8,10,11,12,13,14,15,16,17] Searches at the two addresses turned
 up 7,108 grams of kubar esrar, a pressed form of cannabis known in Turkey as
-esrar. [@1,4,5,6,7,9,10,11,12,13,14,15,16] Gendarmes detained two suspects in the operation. [@1,4,5,6,9,10,11,12,13,14,15,16]
+esrar. [@1,4,5,6,7,9,10,11,12,13,14,15,16,17] Gendarmes detained two suspects in the operation. [@1,4,5,6,9,10,11,12,13,14,15,16,17]
 
-The investigation into the case was continuing. [@1,4,5,6,10,11,13,14,16] The gendarmerie command
+The investigation into the case was continuing. [@1,4,5,6,10,11,13,14,16,17] The gendarmerie command
 said its teams were continuing their work against smuggling and drugs. [@2] The
 agency account reported the haul as 7 kg 108 g of kubar esrar. [@2] The
 operation was carried out at two addresses designated in Seyhan district, and
