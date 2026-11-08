@@ -31,6 +31,11 @@ media:
     media_url: https://imgs.etvbharat.com/etvbharat/prod-images/04-11-2026/cg-knr-03-ganja-av-cg10054_04112026190025_0411f_1793799025_24.jpg
     publisher: ETV Bharat
     caption: 'Large consignment of ganja recovered in Kanker. Photo: ETV Bharat'
+  - kind: photo
+    url: https://www.bhaskar.com/local/chhattisgarh/kanker/news/kanker-ganja-seizure-gadiya-pahar-police-raid-smugglers-abscond-139591195.html
+    media_url: https://images.bhaskarassets.com/web2images/521/2026/11/04/778bf82b-e64d-4cf1-abe3-ea1f1a3f0066_1793789393681.jpg
+    publisher: Dainik Bhaskar
+    caption: Stacked rectangles of ganja wrapped in tape and sacking, published with the Kanker ganja seizure report under the caption that police identified two vehicles and a car driver. The page gives no credit.
 details:
   activity: [smuggling, trafficking]
   agency_types: [police]
@@ -124,6 +129,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-05
     language: hi
+  - title: 'कांकेर में तस्कर 70 पैकेट गांजा फेंककर भागे: गढ़िया पहाड़ में 2 क्विंटल 80 kg गांजा मिला, कीमत करोड़ों में, पुलिस जाँच में जुटी'
+    url: https://www.bhaskar.com/local/chhattisgarh/kanker/news/kanker-ganja-seizure-gadiya-pahar-police-raid-smugglers-abscond-139591195.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -174,13 +184,15 @@ open_questions:
   - Neither roundup gives the Kanker valuation, which continues to rest on the report's earlier sources.
   - Amar Ujala values the haul only vaguely in crores of rupees and gives no exact figure, so it does not resolve the valuation already recorded from other accounts.
   - This page writes 70 बोरी (bags/sacks) while the Kanker report records 70 packets; whether the packets were packed inside the sacks remains unresolved.
+  - This account puts the haul's value only vaguely in crores of rupees, while the report records about Rs 1.5 crore from other outlets; no exact figure is added.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore.'
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
 condition near National Highway-30 in Kanker. [@1,8,9,11] The seizure occurred on 4
 November 2026. [@1] Police reached the foot of the hill after local people
 alerted them to sacks lying there in a suspicious condition. [@1] Officers found
-ganja packed inside 15 sacks at the foot of the hill. [@1] No smugglers were
+ganja packed inside 15 sacks at the foot of the hill. [@1,16] No smugglers were
 caught at the spot, and police suspect they abandoned the sacks and fled to
 avoid action or arrest. [@1,2,3,4,5,7,11,12]
 
