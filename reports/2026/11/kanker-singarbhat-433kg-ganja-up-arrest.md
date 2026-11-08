@@ -99,6 +99,11 @@ sources:
     publisher: Raj Express
     date: 2026-11-08
     language: hi
+  - title: कांकेर में 2.23 करोड़ की गांजा तस्करी, हरियाणा से आरोपी गिरफ्तार
+    url: https://jantaserishta.com/local/chhattisgarh/cannabis-worth-223-crore-smuggled-in-kanker-accused-arrested-from-haryana-4919689
+    publisher: Janta Se Rishta
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article does not date the interception or the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - Only one source, the submitted NWNews24 report, could be opened for this event, so the weights, packet count and valuations are not independently corroborated.
@@ -154,3 +159,5 @@ Police and the cyber cell checked footage from more than 300 CCTV cameras to tra
 Police said a tip on 4 November said ganja was being brought in a Fortuner from Odisha via Keshkal towards Kanker. [@6] The brown-taped packets were found in the forest and hill area near the Shiva temple at Singarbhat village's rice-mill quarter and were counted and weighed in front of witnesses. [@6] Additional superintendent of police Yogesh Sahu said the six plates carried numbers from Odisha, Maharashtra and Haryana and were used to dodge police checks. [@6]
 
 Raj Express attributes the account of the arrest, the car and the spare number plates to Yogesh Sahu, additional superintendent of police in Kanker. [@7]
+
+A 30-year-old man, Sukhpal alias Sukkha, was arrested in Fatehabad district of Haryana in connection with the ganja worth about Rs 2.23 crore found below Singarbhat hill near Kanker town. [@8]
