@@ -182,6 +182,11 @@ sources:
     publisher: V6 Velugu
     date: 2026-11-08
     language: te
+  - title: 'Cannabis : గంజాయి ‘క్వీన్’ నిత్తూ దొరికింది'
+    url: https://vaartha.com/national/queen-of-ganja-nittu-has-been-caught/802278/
+    publisher: Vaartha
+    date: 2026-11-08
+    language: te
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
@@ -271,10 +276,18 @@ open_questions:
   - V6 Velugu says 13 cases are registered against her, without saying whether that is the total or only the cases in which she was absconding.
   - V6 Velugu gives no charge, remand decision or court outcome after the arrest and no weight or value of ganja seized at it.
   - The V6 Velugu photo is captioned only with the headline 'Ganja lady don Neetu Bai arrested' and carries no credit, so it cannot be confirmed to show the arrest itself.
+  - Vaartha gives no date for the arrest; 8 November 2026 is its publication date, and the arrest date recorded from The Hindu, 5 November 2026, is kept.
+  - Vaartha dates the cases against her to 2020-2026, unlike the records dating them from 2018 in the report's opening; the report keeps its existing count and date range.
+  - Vaartha gives no age, arrest location, cash figure, charges or court outcome for the arrest.
+  - Vaartha does not say whether the Andhra Pradesh-Odisha border procurement allegation goes beyond the supply chain already described in the report.
+  - Vaartha does not name the grocery shop as the family-run Jayalakshmi Kirana and General Store named in other accounts, so the two shops may or may not be the same.
+  - The two Vaartha images, the lead picture and a second picture in the body, carry no caption beyond the headline and no credit, so they cannot be confirmed to show the arrest or a seizure.
+  - The article's statement that police are targeting sales to youth, students and employees describes general enforcement policy and is not a separate enforcement event.
+  - 'Left out, as its quotation was not found in Vaartha: Bai was linked to an alleged marijuana-trafficking network across Hyderabad and Cyberabad.'
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
-(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2,5,6,7,12,17,20]
+(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2,5,6,7,12,17,20,25]
 Bai had been absconding for more than a year. [@1,20] EAGLE personnel traced her to
 a hideout after a tip-off. [@1] Officers found no narcotic substances on her,
 though they seized ₹1 lakh in cash. [@1,2,4,5,10]
@@ -289,7 +302,7 @@ earlier and sent for de-addiction. [@1]
 Police records listed 31 cases against Bai dating back to 2018, including
 offences under the Narcotic Drugs and Psychotropic Substances Act and the
 Telangana Excise Act, registered across Hyderabad, Cyberabad and other parts of
-Telangana. [@1,2] EAGLE was expected to question Bai about the supply chain,
+Telangana. [@1,2,25] EAGLE was expected to question Bai about the supply chain,
 consumers connected to the network and proceeds from trafficking. [@1,10]
 
 On 13 March 2024, police seized 22.6 kg of marijuana and ₹22.10 lakh in cash from her. [@2]
@@ -325,3 +338,5 @@ During questioning she reportedly told police that ganja trafficking was the fam
 The Telangana EAGLE Force arrested Kalapathi Nithu Bai, a woman allegedly involved in a ganja trafficking network operating in Nanakramguda for nine years. [@23] More than 30 ganja-related cases have been registered against her at various police stations, and she was arrested in 17 cases and subsequently released on bail. [@23] She was wanted in 13 ganja cases and had allegedly evaded arrest for several months. [@23] In October 2023, Gachibowli police raided her house and seized 7.5 kg of ganja and ₹5 lakh in cash. [@23] In 2023, Golconda police arrested her son and seized 22 kg of ganja from his car, and subsequent searches at properties linked to the family resulted in the seizure of ₹40 lakh in cash. [@23] EAGLE Force officials said 12 cases had been registered against her family in the past two years. [@23]
 
 After the arrest she was handed over to the Cyberabad Narcotics Police Station. [@24]
+
+According to police, she appeared to run an ordinary grocery shop but used it as cover for the ganja trade. [@25] Initial questioning indicated she built up substantial assets by expanding the illegal trade. [@25] A full investigation is under way and police expect the arrest to bring to light other people and network details behind the ganja supply. [@25]
