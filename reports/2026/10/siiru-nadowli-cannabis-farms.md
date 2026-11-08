@@ -80,6 +80,10 @@ sources:
     url: https://www.graphic.com.gh/news/general-news/nacoc-immigration-destroy-cannabis-gardens-in-nadowli-district.html
     publisher: Graphic Online
     date: '2026-10-31'
+  - title: NACOC destroys cannabis gardens in Nadowli District
+    url: https://ghanaiantimes.com.gh/nacoc-destroys-cannabis-gardens-in-nadowli-district/
+    publisher: Ghanaian Times
+    date: 2026-11-05
 open_questions:
   - No figure for the number of farms, plants, area or weight destroyed was published.
   - >-
@@ -95,23 +99,25 @@ open_questions:
     operation.
   - Siiru is not mapped precisely in the available gazetteer; the map pin marks the Nadowli-Kaleo district.
   - The news accounts repeat the same NACOC statement rather than independent reporting.
+  - The Ghanaian Times article is dated 5 November 2026 and gives no separate operation date; the existing report dates the operation to the 31 October 2026 NACOC statement.
+  - The page carries an image file (image-13) but no caption or credit confirms it shows this Siiru operation, so no media entry is added.
 ---
 
 The Upper West Regional Command of the Narcotics Control Commission (NACOC) and
 the Ghana Immigration Service destroyed several cannabis farms in a joint
-operation in the Nadowli District, Upper West Region. [@2,4] It took the team to
+operation in the Nadowli District, Upper West Region. [@2,4,5] It took the team to
 plantations at Siiru, a community near the Black Volta, where some plants had
 already been harvested and others were nearing maturity. [@1]
 
 Further inspections uncovered cannabis growing in unfinished buildings, in front
-of residential properties and alongside maize farms. [@1] The team found
+of residential properties and alongside maize farms. [@1,5] The team found
 cultivation spread across different parts of the community. [@2] The officers
-destroyed the plants by burning them. [@2]
+destroyed the plants by burning them. [@2,5]
 
 After the operation, the team spoke to residents about the dangers and legal
-consequences of cannabis cultivation and substance abuse. [@1] It urged
+consequences of cannabis cultivation and substance abuse. [@1,5] It urged
 community members to support law enforcement agencies by providing information
 and cooperating with efforts against illegal drug activity. [@1]
 
 
-The Commission said intelligence from Ghana Immigration Service officers led the team to the gardens. [@3]
+The Commission said intelligence from Ghana Immigration Service officers led the team to the gardens. [@3,5]
