@@ -86,6 +86,11 @@ sources:
     url: https://www.socialnews.xyz/2026/11/07/woman-among-three-more-arrested-in-attack-on-bsf-personnel-near-tripura-border-lead/
     publisher: Social News XYZ
     date: 2026-11-07
+  - title: One Woman Involved In Attack On Bsf Jawans In Tripura Arrested
+    url: https://www.newsdanka.com/crime/one-woman-involved-in-attack-on-bsf-jawans-in-tripura-arrested/211696/amp/
+    publisher: Newsdanka Post Marathi
+    date: 2026-11-08
+    language: mr
 open_questions:
   - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
   - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
@@ -120,6 +125,8 @@ open_questions:
   - No charge under a specific section and no court outcome for the two newly detained main accused is reported.
   - The article credits the story to IANS and reproduces the same police account as other outlets, so it is not independent reporting.
   - The page's only image carries just the story headline as its caption with no credit or event-specific detail, so it is not established to show the attack or the arrests and no media entry is added.
+  - The account gives the woman's remand until 13 November but no outcome for the other newly arrested accused beyond being handed to Kalamchaura police station.
+  - The report names a villager, Hefzur Rahman, as the person whose alleged beating by BSF personnel villagers say triggered the protest; the BSF and police accounts in other sources describe the sequence differently.
 ---
 
 Tripura police arrested nine people, including three women, for allegedly
@@ -154,8 +161,10 @@ Police said the eight newly arrested people would be produced before a local cou
 
 The attackers also allegedly snatched a pump-action gun from one of the BSF personnel and damaged a BSF vehicle. [@7] Eight more people were arrested over the attack in Sepahijala district on Thursday night and early Friday morning, taking the total held to 18, including three women. [@7,8]
 
-A middle-aged woman, Hasina Khatun, was arrested at Kalapania in Sepahijala district on 7 November over the 2 November attack at Ashabari village, taking the number held to 19, police said. [@8,10] Police said an intensive search operation launched after the 2 November attack was still under way to catch the remaining accused. [@8,10] Police and the BSF were jointly searching suspected locations, including residences and shops, to catch the accused and seize contraband. [@8,10] The 2 November interception was of a group alleged to be smuggling ganja across the India-Bangladesh border, after which a mob of around 50 men and women attacked the BSF personnel. [@8,10] Chief Minister Manik Saha held a series of meetings with senior security officials to review the incident and the state's law and order situation. [@8]
+A middle-aged woman, Hasina Khatun, was arrested at Kalapania in Sepahijala district on 7 November over the 2 November attack at Ashabari village, taking the number held to 19, police said. [@8,10,12] Police said an intensive search operation launched after the 2 November attack was still under way to catch the remaining accused. [@8,10] Police and the BSF were jointly searching suspected locations, including residences and shops, to catch the accused and seize contraband. [@8,10] The 2 November interception was of a group alleged to be smuggling ganja across the India-Bangladesh border, after which a mob of around 50 men and women attacked the BSF personnel. [@8,10,12] Chief Minister Manik Saha held a series of meetings with senior security officials to review the incident and the state's law and order situation. [@8]
 
-Three more people, including a woman, were arrested over the 2 November attack, taking the number of accused held in the case to 21, four of them women, Sepahijala district police said on 7 November. [@9] Two of the main accused, who BSF footage showed snatching a service rifle and beating personnel with a stick, were taken into custody on 7 November and handed to Kalamchaura police station. [@9] All 21 accused have been booked under the Narcotic Drugs and Psychotropic Substances Act, the Bharatiya Nyaya Sanhita and the Prevention of Damage to Public Property Act. [@9]
+Three more people, including a woman, were arrested over the 2 November attack, taking the number of accused held in the case to 21, four of them women, Sepahijala district police said on 7 November. [@9,12] Two of the main accused, who BSF footage showed snatching a service rifle and beating personnel with a stick, were taken into custody on 7 November and handed to Kalamchaura police station. [@9] All 21 accused have been booked under the Narcotic Drugs and Psychotropic Substances Act, the Bharatiya Nyaya Sanhita and the Prevention of Damage to Public Property Act. [@9]
 
-Two of the main accused, named by police as Rabiul Hossain and Mahabul Hossain, were detained by the BSF on 7 November and later handed over to Kalamchaura police station during the night. [@11] Investigators said video footage purportedly shows Rabiul snatching the service rifle of a BSF jawan during the attack and Mahabul assaulting BSF personnel with a stick. [@11]
+Two of the main accused, named by police as Rabiul Hossain and Mahabul Hossain, were detained by the BSF on 7 November and later handed over to Kalamchaura police station during the night. [@11,12] Investigators said video footage purportedly shows Rabiul snatching the service rifle of a BSF jawan during the attack and Mahabul assaulting BSF personnel with a stick. [@11]
+
+The arrest of the woman on 7 November was made after her identification from video footage, and she was remanded to police custody until 13 November. [@12] Local residents alleged the clash began after BSF personnel took away a villager, Hefzur Rahman, and beat him, fracturing his foot, after which angry villagers blocked the Ashabari-Rahimpur road in protest. [@12]
