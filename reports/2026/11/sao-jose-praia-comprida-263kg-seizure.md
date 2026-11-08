@@ -78,6 +78,11 @@ sources:
     publisher: SCTODODIA
     date: 2026-11-07
     language: pt
+  - title: Dois homens são presos com 263 kg de maconha em São José
+    url: https://www.lenoticias.com.br/noticia/39793/dois-homens-sao-presos-com-263-kg-de-maconha-em-sao-jose
+    publisher: Lê Notícias
+    date: 2026-11-07
+    language: pt
 open_questions:
   - No names or ages of the two arrested men were published.
   - No street value was given for the marijuana or the hashish.
@@ -96,6 +101,9 @@ open_questions:
   - The two arrested men are not named and no ages are given.
   - The page does not say how much of the marijuana was in the vehicle and how much in the residence, or where the residence is.
   - The cocaine, the knife and the packing material are part of the same case but are not counted as cannabis.
+  - The submitted page does not name the Praia Comprida neighbourhood, so it does not independently confirm where in São José the searches took place.
+  - The page gives no names or ages for the two arrested men, and no court outcome beyond the arrest in flagrante.
+  - The page does not say how much of the marijuana was found in the vehicle and how much in the residence.
 ---
 
 Civil Police officers of Santa Catarina arrested two men in flagrante on Friday
@@ -105,7 +113,7 @@ Combate às Drogas (DECOD). [@3,5] After inquiries the officers located the two
 suspects and stopped them, and searches found drugs inside a vehicle and in a
 residence. [@1,5,6,7]
 
-The marijuana seized came to about 263 kilograms, divided into 317 tablets. [@1,4,5,6,7]
+The marijuana seized came to about 263 kilograms, divided into 317 tablets. [@1,4,5,6,7,8]
 During a press conference the Civil Police had first reported more than 300
 kilograms, and the figure was revised after the final count and weighing. [@1]
 
@@ -114,7 +122,7 @@ mobile phones, two precision scales, a knife with drug residue, rolls of plastic
 film used to pack drugs and a car. [@2,5,6]
 
 The two men were taken to the DECOD station in São José, where the arrest in
-flagrante was recorded. [@3,5,6,7] The seizure came four days after another Civil
+flagrante was recorded. [@3,5,6,7,8] The seizure came four days after another Civil
 Police operation in the Potecas neighbourhood of the same municipality, where
 472 kilograms of marijuana were found at a residence and an 18-year-old was
 arrested. [@1,4] Together the two operations took the Civil Police's marijuana
