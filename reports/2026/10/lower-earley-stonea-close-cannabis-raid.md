@@ -35,6 +35,10 @@ sources:
     url: https://www.readingchronicle.co.uk/news/26683986.police-find-cannabis-raid-house-lower-earley/
     publisher: Reading Chronicle
     date: 2026-10-30
+  - title: Police raid Earley house after cannabis discovered
+    url: https://www.msn.com/en-gb/news/other/police-raid-earley-house-after-cannabis-discovered/ar-AA2gpvJY
+    publisher: Reading Chronicle (via MSN)
+    date: 2026-10-30
 open_questions:
   - No figure for the amount of cannabis found, the number of plants or the value was published; officers said they could not confirm the amount.
   - The report does not say whether the cannabis was seized or destroyed.
@@ -43,21 +47,23 @@ open_questions:
   - Only the Reading Chronicle reported the raid; no separate Thames Valley Police statement or second independent account was found.
   - The address was given only as Stonea Close, with no house number or description of the property.
   - The only picture with the report is a Google Maps image of the street, not of the raid or the cannabis, so no media link is listed.
+  - The submission is the same Reading Chronicle article republished through MSN, not an independent second account, so it does not independently corroborate the raid.
+  - The page displays the item as published about a week before the capture and carries no police statement page of its own.
+  - Left out arrested, as no supporting quotation was given.
 ---
 
 Thames Valley Police were called to a house in Stonea Close, Lower Earley, at
 about 2.48pm on Wednesday 28 October. [@1] Officers attended the residential
 address and found cannabis inside the property. [@1] No one was arrested, and
-the force said enquiries were ongoing. [@1] A resident who witnessed the raid
-said they suspected the property was being used as a cannabis farm. [@1]
+the force said enquiries were ongoing. [@1,2] A resident who witnessed the raid
+said they suspected the property was being used as a cannabis farm. [@1,2]
 Officers have not confirmed that. [@1]
 
 Police said they could not confirm the amount of cannabis found at the property
-because their investigation remains ongoing. [@1] A Thames Valley Police
+because their investigation remains ongoing. [@1,2] A Thames Valley Police
 spokesperson said officers were called to Stonea Close, Lower Earley, 'to a
-report of drugs offences at a property'. [@1] The spokesperson added that
+report of drugs offences at a property'. [@1,2] The spokesperson added that
 officers located drugs within the property and that no arrests had been made at
 that time. [@1] The force asked anyone with information to call 101 or make an
 online report via the Thames Valley Police website. [@1] It asked them to quote
 reference 43260564177. [@1]
-
