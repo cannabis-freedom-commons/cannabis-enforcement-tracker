@@ -80,6 +80,11 @@ sources:
     publisher: Habererk
     date: 2026-11-07
     language: tr
+  - title: 'İstanbul’da İki Ayrı Uyuşturucu Operasyonu: 42 Kilogram A-M 2201 ve Esrar Ele Geçirildi'
+    url: https://tekha.com.tr/istanbulda-iki-ayri-uyusturucu-operasyonu-42-kilogram-a-m-2201-ve-esrar-ele-gecirildi
+    publisher: TEKHA Türkiye’nin Habercisi
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports say the raids took place within 24 hours before the 7 November 2026 publication and give no calendar date, so 7 November 2026 is used as an approximate incident date.
   - The weight of esrar found in the vehicle in Esenler and in the home in Bahçelievler is not broken down; only a combined 25 kilos 90 grams is given.
@@ -96,15 +101,17 @@ open_questions:
   - The DHA page picture is captioned with the headline only, so it is not established to show this seizure and no media entry is added.
   - This İHA page says the two suspects were to be sent to court after police processing, while the Anadolu copy already cited in the report said they had been sent; the custody outcome remains as recorded in the existing report.
   - The page picture is captioned only with the headline and is not established to show this seizure, so no media entry is added.
+  - Tekha says the two suspects would be sent to court (sevk edileceği öğrenildi), while other accounts already cited in the report said they had been sent; the custody outcome remains as recorded.
+  - The Tekha page picture carries only the headline as its caption and is not established to show this seizure, so no media entry is added.
 ---
 
 Istanbul police narcotics officers detained two suspects in two separate
 operations in the Esenler and Bahçelievler districts of Istanbul within 24
-hours. [@1,5,6,7,8] Officers searched a vehicle in Esenler and a home in Bahçelievler.
+hours. [@1,5,6,7,8,9] Officers searched a vehicle in Esenler and a home in Bahçelievler.
 [@1,6,7,8]
 
 The searches found 25 kilos 90 grams of esrar, the Turkish name for cannabis.
-[@1,6,7,8] The same searches found 42 kilograms of a chemical the provincial police
+[@1,6,7,8,9] The same searches found 42 kilograms of a chemical the provincial police
 called A-M 2201. [@2] Istanbul's provincial police said the A-M 2201 would have
 been enough to make 4 tonnes 200 kilograms of synthetic cannabinoid, and that
 the material was stopped before it could be used for production. [@1,7]
@@ -112,7 +119,7 @@ the material was stopped before it could be used for production. [@1,7]
 Istanbul police said they ran the two operations to stop drug production and
 trade, block street sales and catch those involved. [@1] Police opened
 proceedings against the two suspects for manufacturing and trading narcotic or
-stimulant substances. [@2,5] The state news agency Anadolu reported that both
+stimulant substances. [@2,5,9] The state news agency Anadolu reported that both
 suspects were sent to court after processing at the police station. [@3]
 
 Canlı Gaste, carrying the Anadolu copy, reported that officers seized the 42
