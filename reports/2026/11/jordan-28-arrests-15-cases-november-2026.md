@@ -139,6 +139,11 @@ sources:
     publisher: جو 24
     date: 2026-11-08
     language: ar
+  - title: 'مكافحة المخدرات: 15 قضية نوعية والقبض على 28 تاجراً ومروجاً'
+    url: https://factjo.com/news/152240
+    publisher: الحقيقة الدولية
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -199,16 +204,16 @@ media:
 
 Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
 officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20]
+and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21]
 
 In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
-capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6,11,13,15,16,17,18,19,20]
+capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6,11,13,15,16,17,18,19,20,21]
 Two active pushers in the capital were arrested with 20 blocks of hashish. [@1,5,11,18]
 Three pushers were arrested after a raid with five blocks of hashish and 1,500
 pills. [@1,5,11] South of Amman, officers raided a tent that three people used to
 trade, store and push drugs, arresting all three and seizing 2 kilograms of
 marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
-methamphetamine. [@1,3,4,5,6,7,11,12,13,15,16,17,18,19,20] Officers arrested three people in the last Amman case with
+methamphetamine. [@1,3,4,5,6,7,11,12,13,15,16,17,18,19,20,21] Officers arrested three people in the last Amman case with
 2,600 grams of marijuana. [@1,5,6,7,8,11,14,15,16,18,19] In the second Amman case three people were raided
 inside a flat they used to store drugs for sale, and officers seized 6,000 pills
 and a quantity of hashish. [@1,5,13,15] In a farm south of the capital officers arrested
