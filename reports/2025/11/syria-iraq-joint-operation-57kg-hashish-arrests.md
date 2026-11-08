@@ -69,6 +69,8 @@ open_questions:
   - No precise seizure location within Syria was published, so the place is recorded as Syria at country precision.
   - No separate date for the interception was published beyond the 30 November 2025 announcement; that date is used as the incident date.
   - No names, charges or court outcome for the two suspects were reported.
+  - The three-year breakdown announced by the ministry on 25 November 2025 belongs to a separate announcement and is not part of this raid.
+  - The article gives no separate date for the raid itself; the existing report uses 30 November 2025, the date of the Syrian announcement.
 ---
 
 The Syrian Narcotics Directorate, working with Iraq's drugs directorate, foiled
@@ -83,8 +85,8 @@ deployed into Syrian territory. [@2] Iraq's Interior Ministry described those
 held as two international drug traffickers carrying 57 kilograms of hashish they
 planned to bring into Iraqi territory. [@2] Iraq's Interior Ministry likewise
 said two suspects were arrested in an operation in Syria as part of security and
-intelligence cooperation between the two countries. [@3] Those suspects were
-planning to smuggle hashish into Iraqi territory. [@3]
+intelligence cooperation between the two countries. [@2,3] Those suspects were
+planning to smuggle hashish into Iraqi territory. [@2,3]
 
 Syria's Interior Ministry presented the operation as reflecting growing regional
 coordination against cross-border criminal networks. [@1] The Syrian account
@@ -92,3 +94,4 @@ said the Narcotics Directorate, with Internal Security Forces, had intensified
 its campaign against trafficking that it said expanded under the deposed regime
 through production, domestic distribution and export to neighbours. [@1]
 
+Iraqi ministry spokesperson Col. Abbas al-Bahadli said Iraq has carried out 40 operations outside the country and now maintains 33 liaison points with regional and international partners. [@2]
