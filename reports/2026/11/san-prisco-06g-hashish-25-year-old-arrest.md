@@ -46,6 +46,11 @@ sources:
     publisher: Polizia di Stato
     date: 2026-11-07
     language: it
+  - title: 'San Prisco, arrestato 25enne per spaccio: sequestrate 54 dosi di cocaina e hashish'
+    url: https://radiocasertatv.it/san-prisco-arrestato-25enne-per-spaccio-sequestrate-54-dosi-di-cocaina-e-hashish/
+    publisher: Radio Caserta TV
+    date: 2026-11-07
+    language: it
 open_questions:
   - The incident date of 6 November 2026 is inferred from both sources' 'yesterday afternoon' relative to their 7 November 2026 publication dates.
   - Only the 0.6 grams of hashish is counted in kg_seized; the 22.3 grams of cocaine and the 54 doses, described as cocaine, are excluded as non-cannabis.
@@ -55,18 +60,17 @@ open_questions:
 
 On the afternoon of 6 November 2026, officers of the Squadra Mobile arrested a
 25-year-old Albanian man in San Prisco on suspicion of possessing drugs for
-sale. [@1] The operation followed a period of monitoring during which officers
+sale. [@1,3] The operation followed a period of monitoring during which officers
 had observed several drug handovers. [@1] The arrested man is an Albanian
 citizen aged 25, held as allegedly responsible for possessing drugs for sale.
 [@2]
 
 After the checks, officers found the young man in possession of 54 doses of
 drugs. [@1] Police state that the seizure amounted to 22.3 grams of cocaine in
-total, plus a separate 0.6 grams of hashish. [@2] The 0.6 grams was hashish, the
+total, plus a separate 0.6 grams of hashish. [@2,3] The 0.6 grams was hashish, the
 cannabis component of the seizure, while the 22.3 grams was cocaine and is not
 counted as cannabis. [@1]
 
 After completing the formalities, officers took the 25-year-old to the prison in
-Santa Maria Capua Vetere. [@1] He remains there at the disposal of the judicial
+Santa Maria Capua Vetere. [@1,3] He remains there at the disposal of the judicial
 authority. [@2]
-
