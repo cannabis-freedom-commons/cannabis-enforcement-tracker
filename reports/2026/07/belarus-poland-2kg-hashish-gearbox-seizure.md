@@ -63,6 +63,11 @@ sources:
     publisher: Гродно Плюс
     date: 2026-07-11
     language: ru
+  - title: Сотрудники таможни изъяли около 2 кг гашиша, который везли из Польши в коробке передач
+    url: https://belta.by/society/view/sotrudniki-tamozhni-izjjali-okolo-2-kg-gashisha-kotoryj-vezli-iz-polshi-v-korobke-peredach-790797-2026/
+    publisher: БЕЛТА
+    date: 2026-07-11
+    language: ru
 open_questions:
   - No separate date for the interception is given; 11 July 2026 is the publication date and is used as the incident date.
   - The weight is stated only as about 2 kg, so the exact weighed quantity is not known.
@@ -75,19 +80,18 @@ open_questions:
 ---
 
 Officers of Belarus's Operational Customs seized about 2 kg of hashish brought
-into the country from Poland. [@1] The hashish had been hidden inside a gearbox
-housing. [@1] The couriers said they had taken the box from an unknown person in
+into the country from Poland. [@1,5] The hashish had been hidden inside a gearbox
+housing. [@1,5] The couriers said they had taken the box from an unknown person in
 the neighbouring country who asked them to pass goods for personal use to a man
-in Minsk, and claimed they did not know it contained drugs. [@2] Sputnik
+in Minsk, and claimed they did not know it contained drugs. [@2,5] Sputnik
 described the concealment as the casing of a gearbox for a motorcycle. [@3]
 Grodno Plus said the detainees claimed they did not know the contents and that
 the goods were for a man in Minsk. [@4]
 
 Investigators established that the intended recipients of the consignment were
-two minors. [@1] A criminal case was opened against one of the people who
+two minors. [@1,5] A criminal case was opened against one of the people who
 brought in the hashish under part 2 of article 328-1 of Belarus's Criminal Code.
-[@1] The article carries up to 10 years' imprisonment. [@1]
+[@1,5] The article carries up to 10 years' imprisonment. [@1]
 
 Operational Customs said further measures and urgent investigative actions were
 under way to identify all members of a transnational criminal group. [@1]
-
