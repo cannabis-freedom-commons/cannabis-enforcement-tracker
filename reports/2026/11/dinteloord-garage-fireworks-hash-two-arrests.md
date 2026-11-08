@@ -75,6 +75,11 @@ sources:
     publisher: Omroep Brabant
     date: 2026-11-08
     language: nl
+  - title: 'Dinteloord ontsnapt aan explosie door illegale vuurwerkopslag: burgemeester roept inwoners op waakzaam te blijven'
+    url: https://www.ed.nl/brabant/dinteloord-ontsnapt-aan-explosie-door-illegale-vuurwerkopslag-burgemeester-roept-inwoners-op-waakzaam-te-blijven~a09e1ab1/
+    publisher: ED.nl
+    date: 2026-11-08
+    language: nl
 open_questions:
   - Only the police statement was found; no separate outlet reporting of this Dinteloord find was located.
   - The quantities are given as more than 90 grams of hemp and more than 800 grams of hash, not exact weights, so the cannabis total of about 891 grams is approximate.
@@ -95,14 +100,14 @@ open_questions:
 
 Police entered a garage box on the De Vriesstraat in Dinteloord on the evening
 of Wednesday 4 November 2026 and found a large quantity of heavy illegal
-fireworks. [@1,2,3,4] Officers arrested a 25-year-old man from Dinteloord that evening
-and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2,4,5,6]
+fireworks. [@1,2,3,4,7] Officers arrested a 25-year-old man from Dinteloord that evening
+and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2,4,5,6,7]
 The search followed a longer police investigation that began with a report about
 the possible storage and sale of illegal fireworks. [@1,4,5]
 
 Alongside the fireworks, officers found just over 90 grams of hemp and just over
-800 grams of hash in the garage box. [@1,2,3,4,5,6] Police also seized about 250 pills, an
-alarm pistol, expensive jewellery and a car. [@1,2,3,4,6] In total more than 750
+800 grams of hash in the garage box. [@1,2,3,4,5,6,7] Police also seized about 250 pills, an
+alarm pistol, expensive jewellery and a car. [@1,2,3,4,6,7] In total more than 750
 kilograms of fireworks were taken away, including almost 10,000 cobras, boxes of
 lawinepijlen (heavy rockets) and shells weighing several kilograms each;
 specialists removed them safely. [@1,4]
