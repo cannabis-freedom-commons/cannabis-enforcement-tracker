@@ -48,6 +48,10 @@ sources:
     url: https://thenewsmill.com/2026/11/tripura-bsf-attack-linked-to-anti-smuggling-drive-police/
     publisher: The News Mill
     date: 2026-11-08
+  - title: Intensified anti-smuggling operations behind attack on BSF team in Tripura Official
+    url: https://www.theweek.in/wire-updates/national/2026/11/08/intensified-anti-smuggling-operations-behind-attack-on-bsf-team-in-tripura-official.html
+    publisher: The Week
+    date: 2026-11-08
 open_questions:
   - The 1.5 crore plant count covers a period of about a year and no separate date is given for any individual operation.
   - No area, weight or independent audit of the destroyed plants was reported; the count and the Rs 1,000 crore loss estimate are the police officer's figures.
@@ -59,21 +63,23 @@ open_questions:
   - Left out arrested, as its quotation was not found in ThePrint.
   - The News Mill's only image is a 2021 file photograph of BSF personnel captioned only "Representational Image", so it is not established to show this campaign and no media entry is added.
   - The News Mill credits the story to its own newsdesk but reproduces the same PTI interview with the Sepahijala superintendent as India Today NE, so the two outlets are not independent reporting.
+  - The PTI copy repeats the same police briefing as the India Today NE report already cited, so it is not an independent account of the figures.
+  - The page carries only a PTI preview thumbnail image with no event detail, so no media entry is added.
 ---
 
 Joint teams of Tripura police, Tripura State Rifles and the Border Security
 Force destroyed at least 1.5 crore ganja plants in Sonamura subdivision over the
 past year, Sepahijala superintendent of police Bijoy Debbarma said on 8 November
-2026. [@1,2] Debbarma estimated that the destruction cost those running the
-illegal trade 1 billion rupees (Rs 1,000 crore). [@1,2] Security agencies also
-seized smuggled goods worth several crores of rupees during the period. [@1,2]
+2026. [@1,2,3] Debbarma estimated that the destruction cost those running the
+illegal trade 1 billion rupees (Rs 1,000 crore). [@1,2,3] Security agencies also
+seized smuggled goods worth several crores of rupees during the period. [@1,2,3]
 
 He attributed the assault to losses suffered by smuggling syndicates because of
-the intensified crackdown. [@1,2]
+the intensified crackdown. [@1,2,3]
 
 Sepahijala district shares about 99 km of boundary with Bangladesh, nearly 99
-per cent of it fenced. [@1] About 300 families live outside the barbed-wire
+per cent of it fenced. [@1,3] About 300 families live outside the barbed-wire
 fencing, where an India-Bangladesh agreement barring permanent structures within
-150 yards of the zero line leaves room for smuggling. [@1]
+150 yards of the zero line leaves room for smuggling. [@1,3]
 
 BSF personnel intercepted an alleged smuggling attempt along the international border in Ashabari on 2 November, after which the force came under attack. [@1]
