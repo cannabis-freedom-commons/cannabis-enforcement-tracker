@@ -62,6 +62,10 @@ sources:
   - title: Oklahoma Bureau of Narcotics shuts down illegal marijuana grow operation in Noble
     url: https://www.msn.com/en-us/news/other/oklahoma-bureau-of-narcotics-shuts-down-illegal-marijuana-grow-operation-in-noble/ar-AA2gWaEX
     publisher: KOCO Oklahoma City
+  - title: 'Officials: OBN agents seize more than 5,000 marijuana plants in Noble investigation'
+    url: https://www.msn.com/en-us/news/other/officials-obn-agents-seize-more-than-5000-marijuana-plants-in-noble-investigation/ar-AA2gUXO4
+    publisher: MSN (KOKH Oklahoma City)
+    date: 2026-11-06
 open_questions:
   - The article does not say exactly what day in November 2026 was 'Wednesday'; the raid date is taken as Wednesday 4 November 2026.
   - The name, age, nationality and charges of the arrested person were not published, and no court outcome was reported.
@@ -76,6 +80,7 @@ open_questions:
   - This source does not name the site as DTS Group INC, name the arrested person, or report firearms, charges or a court outcome.
   - Wednesday in this source is read as 4 November 2026, the raid date in the existing report; no separate calendar date is given.
   - The MSN page mirrors the KOCO article by Jason Burger and carries an image slot with no retrievable caption or alt text confirming it shows this raid, so no media entry is added.
+  - The MSN page is a republication of the same KOKH Fox 25 account already cited in the existing report; its article date is read from the original publication date.
 ---
 
 One person was arrested when Oklahoma narcotics agents seized marijuana at a
@@ -83,12 +88,12 @@ grow business in Noble, in Cleveland County, Oklahoma. [@1,2,3,4]
 
 On Wednesday, 4 November 2026, Marijuana Enforcement Teams of the Oklahoma
 Bureau of Narcotics, the state drug agency known as OBN, executed a search
-warrant at DTS Group INC, a company in Noble. [@1] Officials said the raid was
+warrant at DTS Group INC, a company in Noble. [@1,5] Officials said the raid was
 part of an investigation into black market marijuana cultivation and
-distribution. [@1,3]
+distribution. [@1,3,5]
 
 Agents seized 5,356 marijuana plants and 142.6 pounds (about 64.7 kg) of
-processed marijuana. [@1,2,3] They also seized two firearms. [@1,2,3]
+processed marijuana. [@1,2,3,5] They also seized two firearms. [@1,2,3,5]
 
 OBN said its Marijuana Enforcement Teams have seized more than 3 million illegal
 marijuana plants and over 300,000 pounds of processed marijuana, and made more
