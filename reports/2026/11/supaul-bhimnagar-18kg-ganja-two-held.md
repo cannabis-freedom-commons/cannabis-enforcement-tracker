@@ -50,6 +50,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-04
     language: hi
+  - title: सुपौल में 18 KG गांजे के साथ 2 आरोपी गिरफ्तार:दोनों खगड़िया के रहने वाले; गांजे की कीमत 7.20 लाख रुपए, तस्करी में इस्तेमाल बाइक जब्त
+    url: https://www.bhaskar.com/local/bihar/supaul/news/supaul-police-arrest-two-drug-smugglers-ganja-seized-khagaria-139591919.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article says the interception happened on Wednesday and was published on Wednesday 4 November 2026, with no separate time given, so the publication date is used as the incident date.
   - No charges, custody ruling or court outcome beyond registration of a case and further legal action were reported.
@@ -57,6 +62,8 @@ open_questions:
   - The page carries photos and a video, but their captions and alt text do not identify what they show, so no media entry is included.
   - The new account places the interception at Raghunathpur Ward No. 4, while the existing report places it near the Baratpur-Kataiya border; the existing place is retained.
   - Nepal as the consignment's origin is reported only as the tip-off that prompted the operation; the actual source, destination and wider network remain under investigation.
+  - The page's remaining body text, including the 720,000-rupee valuation and the Baratpur-Kataiya interception, sits behind the outlet's app paywall and was not part of the readable capture.
+  - The page carries two uncaptioned photos with no description of what they show, so no media entry is added from it.
 media:
   - kind: photo
     url: https://www.prabhatkhabar.com/state/bihar/supaul/bhimnagar-police-arrest-two-cannabis-smugglers
@@ -66,14 +73,14 @@ media:
 ---
 
 Bhimnagar police in Supaul district arrested two alleged smugglers with 18
-kilograms of ganja on Wednesday. [@1,2] The two men were identified as Amarjit
+kilograms of ganja on Wednesday. [@1,2,3] The two men were identified as Amarjit
 Kumar and Mithun Kumar, both residents of Khagaria district. [@1,2] Officers
 chased the two motorcycle riders after a tip about ganja smuggling and
 surrounded them near the Baratpur-Kataiya border. [@1,2]
 
 Police said they had received a secret tip that ganja was being smuggled by
 motorcycle. [@1] A search of the pair recovered 18 kilograms of ganja, which
-police seized along with the Yamaha motorcycle used for smuggling. [@1,2] Police
+police seized along with the Yamaha motorcycle used for smuggling. [@1,2,3] Police
 estimated the seized ganja's value at about 720,000 rupees, at 40,000 rupees per
 kilogram. [@1]
 
