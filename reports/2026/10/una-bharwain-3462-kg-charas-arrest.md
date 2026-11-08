@@ -42,6 +42,11 @@ media:
     media_url: https://staticimg.amarujala.com/assets/images/2021/12/03/una_1638529668.jpeg?w=674&dpr=2.0&q=80
     publisher: Amar Ujala
     caption: Photo captioned as the 3.462 kg of charas seized from two youths on a motorcycle at Bharwain
+  - kind: photo
+    url: https://www.bhaskar.com/local/himachal/una/amb/news/una-siu-action-drug-bust-charas-seizure-arrest-139557682.html
+    media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/01/e621c5e5-4170-4109-a54b-adca6a444b2e_1793514475316.jpg
+    publisher: Dainik Bhaskar
+    caption: 'Photo captioned as the accused in the smuggling case with the Una Special Investigation Unit team that arrested them. Photo: Dainik Bhaskar'
 details:
   activity: [trafficking]
   agency_types: [police]
@@ -123,6 +128,11 @@ sources:
     url: https://jeevanutsahnews.in/hi/news/una-police-charas-seizure-bharwain/?language_id=1
     publisher: Jeevan Utsah Media
     date: '2026-11-03'
+  - title: Una Drug Bust | SIU Action Against Narcotics, 2 Arrested With Charas
+    url: https://www.bhaskar.com/local/himachal/una/amb/news/una-siu-action-drug-bust-charas-seizure-arrest-139557682.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-01
+    language: hi
 open_questions:
   - >-
     Punjab Kesari gives the second suspect's name as Rahul Bhatol and quotes a deputy superintendent saying a
@@ -153,6 +163,9 @@ open_questions:
     The page carries a lead photo captioned with the headline, but the caption and credit do not establish
     that it shows this seizure, so no media entry is added.
   - The submitted source spells the first accused's village as Marwari while the existing report uses Marwadi.
+  - Dainik Bhaskar gives no separate date for the stop or the arrests; 1 November 2026 is its publication date.
+  - The submitted page names the district as Una but the place only as Bharwai, and the account is a brief summary that does not name the two accused.
+  - Dainik Bhaskar's photo caption identifies only the accused and the SIU team, with no visible confirmation of the seized charas or weighing scale.
 ---
 
 Una police arrested two men and seized 3.462 kilograms of charas in Bharwain. [@1,2,3,4,5,6,7,8,9,10]
@@ -162,10 +175,10 @@ October 2026, Una district police said. [@2,4,5,7] Police identified them as
 Chandramohan Sharma, of Ward 1 in Marwari, and Rahul, of Babehar, both in Tehsil
 Ghanari of Una district. [@1,4,5] Sharma, who was riding, carried a shoulder bag
 with 3.462 kg of charas, a cannabis resin, and a digital weighing scale, police
-said. [@1,4,5,6,7]
+said. [@1,4,5,6,7,11]
 
 Both men were arrested. [@1,4,5,6,7] A case was registered against them under the
-Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@1,4,5] Una Superintendent
+Narcotic Drugs and Psychotropic Substances (NDPS) Act. [@1,4,5,11] Una Superintendent
 of Police Sachin Hiremath said the district force was running a special campaign
 under a zero-tolerance policy on drugs. [@1] Deputy Superintendent of Police
 Anil Patiyal of Amb said the two were in custody and a third suspect was
@@ -183,3 +196,5 @@ Police said a third youth who fled on seeing them is from the Dhaliyara area, is
 Police identified the two as 35-year-old [@8,9,10] Chandramohan Sharma of Marwadi and 23-year-old Rahul Bhatol of Babehad, both in [@8,9,10] Ghanari tehsil of Una district. [@8,9,10]
 
 Acting on the tip, the team set up a blockade near Shiv [@8,9,10] temple at Bharwain and intercepted the motorcycle at about 11:10 pm. [@8,9,10]
+
+Both accused were produced in court and sent to five days of police remand, Amar Ujala reported on 3 November 2026. [@8]
