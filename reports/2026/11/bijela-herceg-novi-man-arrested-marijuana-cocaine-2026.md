@@ -55,6 +55,11 @@ sources:
     publisher: RTHN
     date: 2026-11-07
     language: sr
+  - title: 'Pokušao da proguta kesicu kokaina kada ga je zaustavila policija: Uhapšen muškarac iz Herceg Novog'
+    url: https://direktno.rs/vesti/region/748560/herceg-novi-hapsenje.html
+    publisher: Direktno
+    date: 2026-11-07
+    language: sr
 open_questions:
   - The article gives no separate date for the control and arrest; 7 November 2026 is its publication date and is used as the incident date.
   - No separate weight or count is given for the marijuana, only several PVC packages of cocaine and marijuana together, so no cannabis kilograms are recorded and cocaine and tablet quantities are left out as out of scope.
@@ -72,18 +77,18 @@ media:
 
 Officers of the Herceg Novi Security Department arrested 30-year-old D.T. from
 Herceg Novi in Bijela after finding cocaine, marijuana and tablets suspected to
-be intended for street sale. [@1,2] During the police control in the Bijela
+be intended for street sale. [@1,2,5] During the police control in the Bijela
 settlement, D.T. tried to swallow a PVC bag containing cocaine, but officers
 stopped him. [@1,4]
 
 After he was taken to the Herceg Novi Security Department premises, a detailed
 search found and seized several PVC packages of cocaine and marijuana and
 tablets of different types suspected to be intended for further street sale.
-[@1,4] Police also seized a mobile telephone from him. [@1]
+[@1,4,5] Police also seized a mobile telephone from him. [@1,5]
 
 After gathering information and completing the criminal processing, police
 informed the senior state prosecutor at the Higher State Prosecutor's Office in
-Podgorica about the event. [@1] The prosecutor qualified the event as the
+Podgorica about the event. [@1,5] The prosecutor qualified the event as the
 criminal offence of unauthorised production, possession and placing into
 circulation of narcotic drugs and ordered that D.T. be deprived of liberty. [@1,2,4]
 
