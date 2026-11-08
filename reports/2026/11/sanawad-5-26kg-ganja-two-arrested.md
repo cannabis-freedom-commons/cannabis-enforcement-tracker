@@ -48,6 +48,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-03
     language: hi
+  - title: बाइक से कर रहे थे गांजा तस्करी, 2 पकड़ाए; 1.58 लाख का गांजा जब्त
+    url: https://www.bhaskar.com/local/mp/khargone/sanavad/news/two-arrested-for-smuggling-marijuana-on-a-motorcycle-marijuana-worth-rs-158-lakh-seized-dbp-139585993.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The article says the arrest happened on Tuesday; 3 November 2026 is the publication date and is used as the incident date.
   - The free part of the page gives no details of the stop, the charges or the suspects beyond the two arrests; the rest is behind the outlet's app paywall.
@@ -56,6 +61,9 @@ open_questions:
   - Only Dainik Bhaskar could be opened for this event; no second outlet or police statement was found.
   - The page's lead photo has no caption or credit, so what exactly it depicts is not stated.
   - Whether the two men were charged or only detained for investigation is not stated in the free text, so no charges are recorded.
+  - The article's free text gives no names, exact weight, charges or court steps; the rest is behind the outlet's app paywall.
+  - The report's 5.26 kg weight and 3 November date come from the other Dainik Bhaskar page, not from this one.
+  - This page is published in the Sanawad edition while the earlier page is filed under Khargone news; both describe the same two arrests on a motorcycle with ganja worth Rs 1.58 lakh.
 ---
 
 Sanawad police arrested two men from Khargone with 5 kg 260 g of ganja on
@@ -63,3 +71,4 @@ Tuesday. [@1] Police put the value of the ganja at Rs 1.58 lakh. [@1] Officers
 also seized the Honda Shine motorcycle, which police said was used to move the
 ganja. [@1]
 
+Police in Sanawad arrested two men for smuggling ganja during a vehicle check in front of a college on the Khargone road. [@2] The two were carrying the ganja in a bag on a motorcycle. [@2] On seeing the police they tried to turn back, but officers surrounded and caught them. [@2]
