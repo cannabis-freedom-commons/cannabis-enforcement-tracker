@@ -44,6 +44,11 @@ media:
     media_url: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/07/c5661146f482d62eab6dacd4f2c94aa317940609567221409_original.jpg?impolicy=abp_cdn&imwidth=470
     publisher: ABP Desam
     caption: 'Split image used by ABP Desam with its report: on the left a woman seated beside bundles of currency notes, on the right blue plastic bags of what appears to be dried cannabis and cardboard-wrapped blocks. The page gives no separate caption or credit.'
+  - kind: photo
+    url: https://www.v6velugu.com/ganja-queen-neetu-bai-arrested-by-eagle-force-in-hyderabad-after-nine-years-of-drug-trafficking%C2%A0
+    media_url: https://static.v6velugu.com/uploads/2026/11/ganja-queen-neetu-bai-arrested-by-eagle-force-in-hyderabad-after-nine-years-of-drug-trafficking_nthqalgYCW.jpg
+    publisher: V6 Velugu
+    caption: Photo published with V6 Velugu's report under the caption 'Ganja lady don Neetu Bai arrested'. No credit is given, and the caption does not state what the picture itself depicts.
 details:
   activity: [trafficking]
   agencies: [in-excise, in-eagle]
@@ -172,6 +177,11 @@ sources:
     publisher: Hyderabad Mail
     date: 2026-11-08
     language: en
+  - title: గంజాయి లేడీ డాన్ నీతూబాయి అరెస్ట్
+    url: https://www.v6velugu.com/ganja-queen-neetu-bai-arrested-by-eagle-force-in-hyderabad-after-nine-years-of-drug-trafficking%C2%A0
+    publisher: V6 Velugu
+    date: 2026-11-08
+    language: te
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
@@ -256,6 +266,11 @@ open_questions:
   - Hyderabad Mail says she evaded arrest for several months, while earlier cited accounts describe more than a year.
   - Hyderabad Mail gives no age for Bai and no day for the arrest beyond Friday night.
   - Hyderabad Mail says she was arrested in 17 cases previously, without listing them or saying whether they overlap the cases already recorded.
+  - V6 Velugu gives no day for the arrest beyond Friday, but its first paragraph says the EAGLE director's office announced it on Saturday, and it was published on 8 November 2026; read together that points to 6 November 2026, while the existing report opens with 5 November.
+  - V6 Velugu gives no age for Neetu Bai and places her home in Nanakramguda, while the existing report opens with her age as 48 and gives the arrest in Asif Nagar.
+  - V6 Velugu says 13 cases are registered against her, without saying whether that is the total or only the cases in which she was absconding.
+  - V6 Velugu gives no charge, remand decision or court outcome after the arrest and no weight or value of ganja seized at it.
+  - The V6 Velugu photo is captioned only with the headline 'Ganja lady don Neetu Bai arrested' and carries no credit, so it cannot be confirmed to show the arrest itself.
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
@@ -283,9 +298,9 @@ EAGLE personnel traced her to a hideout following a tip-off on Thursday. [@3] An
 
 Sakshi reported that her ganja trade had continued for nine years. [@4,11]
 
-NTV Telugu reported that she was produced before a court and sent to judicial remand. [@5,10,12] The page said her movements were tracked by the EAGLE technical team and that she was arrested from an autorickshaw heading towards Mangalhat, an adjoining locality. [@5,10] NTV Telugu put the cases against Bai and her family at about 30 since 2017, filed under the NDPS Act and the Excise Act across six police stations in Hyderabad and Cyberabad, with her absconding in 13 of them. [@5,11,19] It said she bought ganja wholesale, repackaged it into small packets and sold it around Nanakramguda, selecting areas where software engineers and hostel or rented-home students lived. [@5] NTV Telugu reported that police had identified two four-storey buildings in Langer House, one three-storey building in Gachibowli and extra structures at her Nanakramguda home as assets bought with ganja money, and had already frozen the bank accounts of Bai, her family and their Jayalakshmi Kirana and General Store. [@5,19] It said Cyberabad narcotics police had raided her Nanakramguda home in June 2026, seized ₹2.60 lakh in ganja sale proceeds and registered cases against about 50 customers caught there buying ganja. [@5,10,12]
+NTV Telugu reported that she was produced before a court and sent to judicial remand. [@5,10,12] The page said her movements were tracked by the EAGLE technical team and that she was arrested from an autorickshaw heading towards Mangalhat, an adjoining locality. [@5,10,24] NTV Telugu put the cases against Bai and her family at about 30 since 2017, filed under the NDPS Act and the Excise Act across six police stations in Hyderabad and Cyberabad, with her absconding in 13 of them. [@5,11,19] It said she bought ganja wholesale, repackaged it into small packets and sold it around Nanakramguda, selecting areas where software engineers and hostel or rented-home students lived. [@5] NTV Telugu reported that police had identified two four-storey buildings in Langer House, one three-storey building in Gachibowli and extra structures at her Nanakramguda home as assets bought with ganja money, and had already frozen the bank accounts of Bai, her family and their Jayalakshmi Kirana and General Store. [@5,19] It said Cyberabad narcotics police had raided her Nanakramguda home in June 2026, seized ₹2.60 lakh in ganja sale proceeds and registered cases against about 50 customers caught there buying ganja. [@5,10,12]
 
-The Hyderabad Narcotics Police Station, working with the EAGLE Force Technical Team, arrested Neethu Bai on 6 November 2026 while she was travelling towards Mangalhat in an autorickshaw, and she was remanded to judicial custody. [@6,15] Police seized ₹1.59 lakh in cash and a mobile phone from her possession. [@6,8,12,15,19,21] The 30 cases were registered at police stations and Excise units including Serilingampally, Dhoolpet, Narayanguda, Golconda, Gachibowli and the Cyberabad Narcotics Police Station. [@6,8,9] Police said she avoided using a mobile phone and moved between Nanakramguda, Gachibowli and Langerhouz to evade arrest. [@6,9,15,22] Investigators are examining two G+3 buildings in Langerhouz, a G+2 building in Gachibowli and additional construction at her Nanakramguda residence, and earlier froze the bank accounts of the accused, some family members and their family-run Jayalakshmi Kirana and General Store. [@6,9,10,13,22] The Cyberabad Narcotics Police Station of the EAGLE Force is continuing its investigation to identify other suppliers and associates in the network. [@6,11,16]
+The Hyderabad Narcotics Police Station, working with the EAGLE Force Technical Team, arrested Neethu Bai on 6 November 2026 while she was travelling towards Mangalhat in an autorickshaw, and she was remanded to judicial custody. [@6,15] Police seized ₹1.59 lakh in cash and a mobile phone from her possession. [@6,8,12,15,19,21,24] The 30 cases were registered at police stations and Excise units including Serilingampally, Dhoolpet, Narayanguda, Golconda, Gachibowli and the Cyberabad Narcotics Police Station. [@6,8,9] Police said she avoided using a mobile phone and moved between Nanakramguda, Gachibowli and Langerhouz to evade arrest. [@6,9,15,22] Investigators are examining two G+3 buildings in Langerhouz, a G+2 building in Gachibowli and additional construction at her Nanakramguda residence, and earlier froze the bank accounts of the accused, some family members and their family-run Jayalakshmi Kirana and General Store. [@6,9,10,13,22] The Cyberabad Narcotics Police Station of the EAGLE Force is continuing its investigation to identify other suppliers and associates in the network. [@6,11,16]
 
 Telangana Today reported that the Hyderabad Narcotics Police Station team, working with the EAGLE Force Technical Team, arrested Kalapathi Nithu Bai, 51, on Friday while she travelled in an autorickshaw towards Mangalhat. [@7] Sandeep Shandilya, Director of the EAGLE Force, said around 30 cases under the NDPS Act and the Prohibition and Excise Act were registered against her and her family members between 2017 and 2026, and that she was absconding in 13 of them. [@7,22] Officials said she had been arrested and sent to judicial custody several times but allegedly resumed the trade after securing bail, shifting between Nanakramguda, Gachibowli and Langar Houz and avoiding a mobile phone. [@7] In August 2023, Golconda police apprehended her son while he allegedly transported 22 kg of ganja, and searches of properties linked to the family led to the seizure of around Rs 40 lakh in cash. [@7,21] Gachibowli police seized 7.5 kg of ganja and Rs 5 lakh in October 2023, and another operation in March 2024 yielded 22 kg of ganja and Rs 22 lakh. [@7,21] Police said the financial investigation brought two buildings at Langar Houz, a building at Gachibowli and additional construction at her Nanakramguda residence under scrutiny. [@7]
 
@@ -308,3 +323,5 @@ The Enforcement Directorate entered the case in September and searched three of 
 During questioning she reportedly told police that ganja trafficking was the family's only source of income and that they continued it despite several cases against her and her family. [@22] In June 2024 the Gachibowli police invoked the Preventive Detention Act against her, she challenged it in the High Court, the order was revoked and she was released on bail, and an EAGLE official said the Act would be invoked against her again. [@22]
 
 The Telangana EAGLE Force arrested Kalapathi Nithu Bai, a woman allegedly involved in a ganja trafficking network operating in Nanakramguda for nine years. [@23] More than 30 ganja-related cases have been registered against her at various police stations, and she was arrested in 17 cases and subsequently released on bail. [@23] She was wanted in 13 ganja cases and had allegedly evaded arrest for several months. [@23] In October 2023, Gachibowli police raided her house and seized 7.5 kg of ganja and ₹5 lakh in cash. [@23] In 2023, Golconda police arrested her son and seized 22 kg of ganja from his car, and subsequent searches at properties linked to the family resulted in the seizure of ₹40 lakh in cash. [@23] EAGLE Force officials said 12 cases had been registered against her family in the past two years. [@23]
+
+After the arrest she was handed over to the Cyberabad Narcotics Police Station. [@24]
