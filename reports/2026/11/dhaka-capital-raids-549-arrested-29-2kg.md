@@ -41,16 +41,24 @@ sources:
     publisher: Jugantor
     date: 2026-11-03
     language: bn
+  - title: রাজধানীতে পুলিশের সাঁড়াশি অভিযান,২৪ ঘণ্টায় গ্রেফতার ৫৪৯,মামলা ৫৭
+    url: https://sokalerkhobor24.com/others/post/13806
+    publisher: সকালের খবর ২৪ ডটকম
+    date: 2026-11-03
+    language: bn
 open_questions:
   - The 549 arrests and 57 cases cover the whole 24-hour sweep across all alleged offences; how many were linked specifically to cannabis was not stated.
   - Yaba, phensedyl, cocktail, petrol, phone and cash figures are mentioned only to explain the mixed sweep and are excluded from cannabis figures; no combined weight is counted as cannabis.
   - No names, charges or court outcomes for those arrested were reported.
   - The incident date of 2 November 2026 is the operation date stated in both reports published on 3 November 2026.
   - The DMP News and Jugantor page images carry only the headline as caption with no credit establishing that they show this seizure, so no media entry is listed.
+  - The Sokalerkhobor24 body text says 62 cases were filed in the same sweep, while its headline and the DMP News statement give 57; the portal's figure is not used.
+  - Sokalerkhobor24 dates the police briefing to Tuesday 3 November and gives no separate date for the raids, while the DMP News statement says the operations were carried out on Monday 2 November.
+  - The portal's page image is described as received over Facebook and carries no credit or caption identifying a scene, so no media entry is added for it.
 ---
 
 Dhaka Metropolitan Police (DMP), the police force for the capital, arrested 549
-people and filed 57 cases during raids across Dhaka over a 24-hour period. [@1]
+people and filed 57 cases during raids across Dhaka over a 24-hour period. [@1,3]
 Ramna accounted for 30 arrests, Lalbagh for 46, Wari for 66, Motijheel for 51,
 Tejgaon for 75, Mirpur for 152, Gulshan for 69 and Uttara for 56, with four more
 by the Detective Branch. [@2] The arrests were made during operations in
@@ -58,7 +66,7 @@ different police-station areas of Dhaka on Monday 2 November. [@1] Police said
 further legal action against those arrested was under way. [@2]
 
 During the same operations, police seized 29 kilograms and 200 grams (29.2
-kilograms) of ganja, the local term for cannabis. [@1] The sweep also yielded
+kilograms) of ganja, the local term for cannabis. [@1,3] The sweep also yielded
 128 yaba tablets and 19 bottles of phensedyl, alongside parts of two exploded
 cocktails, two litres of petrol, eight mobile phones and 36,380 taka in cash.
 [@2] Police also rescued one victim during the raids. [@1]
@@ -66,4 +74,3 @@ cocktails, two litres of petrol, eight mobile phones and 36,380 taka in cash.
 These are police counts in which the cannabis was recorded separately from the
 other drugs seized. [@1] The sweep was part of DMP's regular operations in the
 capital. [@2]
-
