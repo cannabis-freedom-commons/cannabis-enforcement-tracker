@@ -1,43 +1,42 @@
 ---
 code: BKQAFC
 added_at: "2026-11-06T03:20:06.055198Z"
-date: 2026-11-04
+date: 2026-11-07
 country: gr
 place: Ilia, western Peloponnese
 coordinates: [37.6749, 21.4444]
 precision: district
-type: arrest
-also: [seizure]
+type: prosecution
+also: [seizure, arrest]
 title: Man arrested in Ilia with 5.5 kg cannabis and 13 plants
-summary: >-
-  Police in Ilia arrested a man after searching his house and the grounds of a disused shop he kept, seizing 13 cannabis plants up to 4.5 metres tall and 5.506 kg of cannabis. The suspect was to be led before the Ilia prosecutor in Amaliada on cultivation, possession and weapons charges.
+summary: Police in Ilia arrested a man in Andravida with 13 cannabis plants and more than 5.5 kg of cannabis. After appearing before the Amaliada investigator and prosecutor, he was released under a travel ban with regular police check-ins.
 figures:
-  arrested: 1
-  plants_destroyed: 13
-  kg_seized: 5.506
+    arrested: 1
+    plants_destroyed: 13
+    kg_seized: 5.506
 details:
-  agencies: [Ilida Crime Investigation and Clearance Department]
-  agency_types: [police]
-  products:
-    - {product: flower, kg: 5.506}
-    - {product: plants, plants: 13}
-  activity: [cultivation, possession]
-  setting: [home, shop]
-  charges: [cultivation and possession of narcotics, violation of weapons legislation]
-  case_stage: investigation
-  date_precision: exact
-  region: Elis
+    agencies: [Ilida Crime Investigation and Clearance Department]
+    agency_types: [police]
+    products:
+        - {product: flower, kg: 5.506}
+        - {product: plants, plants: 13}
+    activity: [cultivation, possession]
+    setting: [home, shop]
+    charges: [cultivation and possession of narcotics, violation of weapons legislation]
+    case_stage: charged
+    date_precision: publication
+    region: Elis
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.charges: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
-  figures.plants_destroyed: [1]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [5]
+    details.charges: [1]
+    details.products: [1]
+    details.setting: [1]
+    figures.arrested: [5]
+    figures.kg_seized: [5]
+    figures.plants_destroyed: [5]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: e65c505ac5d7b5f624236e267f86dc9a
@@ -63,6 +62,11 @@ sources:
     publisher: PatrisNews
     date: 2026-11-05
     language: el
+  - title: 'Ηλεία: Ελεύθερος με περιοριστικούς όρους αφέθηκε ο άνδρας που συνελήφθη στην Ανδραβίδα για καλλιέργεια και κατοχή ναρκωτικών'
+    url: https://iliaweb.gr/ileia-eleytheros-me-perioristikoys-oroys-afethike-meta-tin-apologia-toy-enopion-tis-anakritrias-kai-tis-eisaggeleos-amaliadas-o-andras-poy-synelifthi-stin-andravida-gia-kalliergeia-kai-katochi-narko/
+    publisher: Iliaweb
+    date: 2026-11-07
+    language: el
 open_questions:
   - The incident date is the 4 November 2026 operation date given by the second account; the submitted page gives only its 5 November 2026 publication date.
   - No village or more precise location within Ilia was named, so coordinates mark the district centre.
@@ -72,6 +76,8 @@ open_questions:
   - The Pelop.gr page image repeats the headline with no credit establishing that it shows this seizure, so no media entry is included from that source.
   - Pelop.gr states that the police announcement did not say whether the seized cannabis was intended for trafficking.
   - PatrisNews gives the freshly harvested quantity only as 5.5 kilograms, while police and the other accounts give 5 kilograms and 500 grams plus 6 grams of dried cannabis; the existing report keeps the precise police split.
+  - The article gives no separate date for the appearance and release; 7 November 2026 is its publication date and is used for the latest step.
+  - The page's single image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Officers of the Ilida Crime Investigation and Clearance Department arrested a
@@ -93,3 +99,5 @@ prosecutor at the parallel seat in Amaliada for the relevant charges to be
 brought. [@1]
 
 The Pelop.gr account says the operation formed part of the police operations under way in the area against drug cultivation and possession. [@2] Pelop.gr reports that the police announcement does not specify the exact part of Ilia where the searches took place, or whether the seized quantity was intended for trafficking. [@2] PatrisNews gives the quantity as 5.5 kilograms of freshly harvested cannabis, without the extra 500 grams, plus the further 6 grams of dried cannabis and the 13 partly harvested plants up to 4.5 metres tall. [@4] PatrisNews describes the seized metal folding baton as a glop, a telescopic baton. [@4]
+
+The man arrested in Andravida for cultivating and possessing cannabis was released with restrictive conditions after giving his statement before the Amaliada investigating judge and prosecutor. [@5] The conditions imposed were a ban on leaving the country and an obligation to report regularly to the local police station. [@5]
