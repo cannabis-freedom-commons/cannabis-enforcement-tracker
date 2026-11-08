@@ -93,6 +93,11 @@ sources:
     publisher: LatinaToday
     date: 2026-11-07
     language: it
+  - title: 'Oltre 38 chili di hashish e quasi 15mila euro in contanti: arrestato un 25enne a Latina - news-24.it'
+    url: https://www.news-24.it/oltre-38-chili-di-hashish-e-quasi-15mila-euro-in-contanti-arrestato-un-25enne-a-latina/
+    publisher: news-24.it
+    date: 2026-11-07
+    language: it
 open_questions:
   - No date is given for the stop or the searches; 7 November 2026 is the publication date and is used as the incident date.
   - The hashish weight is given as about 38.3 kilograms and the 28 grams found at the stop as about 28 grams, so neither is an exact measured figure.
@@ -111,26 +116,27 @@ open_questions:
   - The page carries one image file but gives no caption or credit confirming it shows this seizure, so no media entry is added.
   - The 14 grams of cocaine are mentioned only to explain the mixed seizure and are not counted as cannabis.
   - This account reports 525 euros found on the man and a separate 14,765 euros found in the home, while the existing report describes 14,765 euros in cash found partly during the check and partly in the home.
+  - The page's only image is filed as 'mobile 2' with no caption or credit confirming it shows this seizure, so no media entry is added.
 ---
 
 Police from the Squadra Mobile, the flying squad of the Latina police
 headquarters, arrested a 25-year-old man after stopping him for a check in the
-Cucchiarelli district of Latina. [@1,4]
+Cucchiarelli district of Latina. [@1,4,9]
 
 The officers found three bags holding a total of about 28 grams of hashish and
-525 euros in cash on him. [@1,2,4,7,8]
+525 euros in cash on him. [@1,2,4,7,8,9]
 
 They then extended the search to the home the man uses, where they found further
 quantities of hashish, largely pressed into blocks, about 50 grams of marijuana
-and 14 grams of cocaine. [@1,2,5,7,8] In total the officers seized about 38.3 kilograms
+and 14 grams of cocaine. [@1,2,5,7,8,9] In total the officers seized about 38.3 kilograms
 of hashish, along with the marijuana and cocaine, a precision scale and 14,765
-euros in cash found partly during the check and partly in the home. [@1,2,4,5,7]
+euros in cash found partly during the check and partly in the home. [@1,2,4,5,7,9]
 
 The man is under investigation for possession of narcotics for the purpose of
 dealing and was taken to the Latina prison on the order of the Public
-Prosecutor's Office. [@1,2,4,5]
+Prosecutor's Office. [@1,2,4,5,9]
 
-Police made the arrest in the evening of Friday 6 November 2026. [@2] Police said the case is still at the preliminary investigation stage and the suspect's guilt can only be established by a final conviction. [@3]
+Police made the arrest in the evening of Friday 6 November 2026. [@2,9] Police said the case is still at the preliminary investigation stage and the suspect's guilt can only be established by a final conviction. [@3]
 
 Police made the arrest in the evening of Friday 6 November 2026, during operations to prevent and counter drug dealing. [@4]
 
