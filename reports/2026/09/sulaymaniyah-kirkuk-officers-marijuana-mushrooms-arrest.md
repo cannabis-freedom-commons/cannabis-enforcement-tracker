@@ -37,6 +37,11 @@ media:
     media_url: https://media.shafaq.com/media/arcella/1788418282437.webp
     publisher: Shafaq News
     caption: The lead image published with the Shafaq News story, captioned only with the headline about the 3 kg narcotics seizure in Al-Sulaymaniyah; the article gives no photo credit and does not state that it shows the seized marijuana.
+  - kind: photo
+    url: https://ina.iq/en/security/51714-3-kg-of-hallucinogenic-mushrooms-marijuana-seized-in-sulaymaniyah.html
+    media_url: https://ina.iq/uploads/posts/2026-09/0e810f80c0_1788420852.jpg
+    publisher: Iraqi News Agency (INA)
+    caption: Lead image published by the Iraqi News Agency with its report on the Sulaymaniyah seizure of 1 kg of magic mushrooms and 2 kg of marijuana. No photo credit is given.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d04c35aa1c2ea502c8ef6209f4866c80
@@ -51,21 +56,27 @@ sources:
     publisher: الأمصار
     date: 2026-09-03
     language: ar
+  - title: 3 kg of Hallucinogenic Mushrooms, Marijuana Seized in Sulaymaniyah
+    url: https://ina.iq/en/security/51714-3-kg-of-hallucinogenic-mushrooms-marijuana-seized-in-sulaymaniyah.html
+    publisher: Iraqi News Agency (INA)
+    date: 2026-09-03
 open_questions:
   - No district, town or address within Al-Sulaymaniyah province is named for the arrest, so coordinates are for the province capital and the precision is locality.
   - The reports give no date for the arrest beyond the ministry statement issued on Thursday, 3 September 2026, which is used as the incident date.
   - The marijuana's form, packaging and any estimated value were not reported, and the 2 kilograms is a stated weight with no laboratory confirmation described.
   - No charge, prosecutor referral, detention order or court outcome was reported for the arrested man, whose name, age and nationality were not given.
   - The Shafaq News page gives no photo credit and does not say whether its lead image shows this seizure.
+  - The INA page gives no photo credit and does not state that its lead image shows the seized marijuana and mushrooms.
+  - The INA account names the Kirkuk body as the Directorate of Narcotics Affairs rather than Directorate of Narcotics Control, as in the other accounts.
 ---
 
 Iraqi security forces arrested a suspected drug dealer in Al-Sulaymaniyah
 province and seized three kilograms of narcotics from him, the Interior
 Ministry's Directorate of Narcotics Control said on Thursday, 3 September 2026.
-[@1] The haul included 2 kilograms of marijuana and 1 kilogram of magic
-mushrooms, the hallucinogenic fungus the ministry calls “magic mushroom”. [@1]
+[@1,3] The haul included 2 kilograms of marijuana and 1 kilogram of magic
+mushrooms, the hallucinogenic fungus the ministry calls “magic mushroom”. [@1,3]
 Kirkuk narcotics officers carried out the operation in coordination with the
-Al-Sulaymaniyah anti-narcotics directorate. [@1] The Kirkuk narcotics
+Al-Sulaymaniyah anti-narcotics directorate. [@1,3] The Kirkuk narcotics
 directorate said its teams acted on intelligence, arrested one trafficker and
 displayed the 1 kilogram of magic mushrooms alongside 2 kilograms of marijuana
 in Al-Sulaymaniyah province. [@2]
@@ -78,4 +89,3 @@ including 59 international groups, and confiscated more than 1,977 kilograms of
 narcotics, according to the Interior Ministry. [@1] During the same period,
 Iraqi courts recorded 3,553 drug-related convictions, including 58 death
 sentences and 236 life terms. [@1]
-
