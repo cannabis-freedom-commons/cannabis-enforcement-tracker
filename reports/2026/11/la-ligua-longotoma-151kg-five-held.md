@@ -68,6 +68,11 @@ sources:
     publisher: Epicentro Chile
     date: 2026-11-04
     language: es
+  - title: 'Video: Operativo antidrogas deja cinco detenidos y 151 kilos de marihuana incautados en La Ligua'
+    url: https://www.emol.com/noticias/Nacional/2026/11/04/1216097/droga-los-andes-detenidos.html
+    publisher: Emol
+    date: 2026-11-05
+    language: es
 open_questions:
   - The articles give only their publication date of 3 November 2026 and no separate date for the operation, so the report uses the publication date as the incident date
   - No charges, court hearing or other judicial outcome were reported
@@ -89,30 +94,40 @@ open_questions:
   - The article gives no separate date for the procedure; its publication date of 4 November 2026 does not establish when the operation took place.
   - No charges, detention-control outcome or court result beyond referral to the Los Andes prosecutor's office for control and formalisation was reported.
   - The only page image is a Carabineros file picture without a caption tying it to this seizure, so no media entry is added.
+  - Emol gives no separate date for the operation; its publication date of 5 November 2026 does not establish when the procedure took place.
+  - The Emol page photo is captioned as a reference file picture credited to Archivo El Mercurio and is not treated as showing this seizure.
+  - Emol says three detainees had criminal records without pending cases and two had none, which conflicts with the report's statement that all five had police records.
 media:
   - kind: photo
     url: https://www.panoramanoticioso.cl/incautan-151-kilos-de-marihuana-en-longotoma-de-la-ligua/
     media_url: https://www.panoramanoticioso.cl/wp-content/uploads/2026/11/Laligua-150kilos-1024x576.png
     publisher: Panorama Noticioso
     caption: 'Photo of the 151-kilo seizure in Longotoma, La Ligua. Photo: Carabineros región de Valparaíso'
+  - kind: video
+    url: https://www.emol.com/noticias/Nacional/2026/11/04/1216097/droga-los-andes-detenidos.html
+    media_url: https://videosetv.ecn.cl/EMOLTV_V2_20261104113352234_480p.mp4
+    publisher: Emol
+    caption: Video of the police procedure published by Emol under the heading 'Revisa el momento' (see the moment), with a still of the operation shown at the start.
 ---
 
 Carabineros detained five adults, all with police records, in an anti-drug
 operation at kilometre 163 of Route 5 Norte at Longotoma in the commune of La
-Ligua. [@1,2,3,4,5,7] Officers seized 151 kilos of processed marijuana in the operation.
-[@1,3,4,5,6,7] Officers acting on intelligence work intercepted a pickup truck carrying
-the drugs and driven by one of the detainees. [@1,2,3,5,6,7] In follow-up steps, officers
+Ligua. [@1,2,3,4,5,7,8] Officers seized 151 kilos of processed marijuana in the operation.
+[@1,3,4,5,6,7,8] Officers acting on intelligence work intercepted a pickup truck carrying
+the drugs and driven by one of the detainees. [@1,2,3,5,6,7,8] In follow-up steps, officers
 detained four other people travelling in two vehicles who allegedly provided
 surveillance to facilitate the drug transfer, and seized nearly 1 million pesos
-in cash. [@1,2,3,4,5,6,7]
+in cash. [@1,2,3,4,5,6,7,8]
 
 The operation was led by the OS7 section, in coordination with the Los Andes
 Prosecutor's Office and with support from the Centauro Squadron of the Aconcagua
-Prefecture. [@1,2,3,4,5,6,7] Petorca provincial presidential delegate Andrés Soza said drug
+Prefecture. [@1,2,3,4,5,6,7,8] Petorca provincial presidential delegate Andrés Soza said drug
 seizures on the province's routes had increased during 2026 thanks to
 intelligence work and police work, and said the government backed the work to
 break up gangs affecting residents' quality of life. [@1,3]
 
 The police procedure took place at about 10 in the morning on Saturday 31 October. [@4] The five detainees were placed at the disposition of the justice system for their detention control and formalization. [@4,7]
 
-Police seized $987,000 in cash during the procedure. [@6] Police also seized nine cell phones, two portable communication devices and three vehicles, none of which had a theft report. [@6,7] The five detainees were Chilean men aged 21 to 43. [@6,7]
+Police seized $987,000 in cash during the procedure. [@6,8] Police also seized nine cell phones, two portable communication devices and three vehicles, none of which had a theft report. [@6,7,8] The five detainees were Chilean men aged 21 to 43. [@6,7,8]
+
+Three of the detainees had criminal records with no cases currently open, while the other two had no records. [@8]
