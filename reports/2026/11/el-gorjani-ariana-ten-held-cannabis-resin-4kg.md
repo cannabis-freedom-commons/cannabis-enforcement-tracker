@@ -79,6 +79,11 @@ sources:
     publisher: Directinfo
     date: 2026-11-07
     language: fr
+  - title: 'Stupéfiants : un réseau criminel composé d’étrangers et de Tunisiens démantelé'
+    url: https://realites.com.tn/fr/stupefiants-un-reseau-criminel-compose-detrangers-et-de-tunisiens-demantele/
+    publisher: Réalités Magazine
+    date: 2026-11-07
+    language: fr
 open_questions:
   - The first operation was carried out the day before publication and the Ariana operation the day before that, so 6 November 2026 is used as the incident date for the report, with 7 November as the publication date.
   - The cocaine capsules are excluded from cannabis figures, and no weight was given for the cocaine.
@@ -95,19 +100,23 @@ open_questions:
   - The Directinfo account is a French-language rendering of the same security-source briefing carried by the Arabic outlets, so it is not independent reporting of the raids.
   - Directinfo says the suspects were placed in garde à vue after consulting the Public Prosecution; it gives no further court step or outcome.
   - The page's lead image is a 2015 cocaine stock photograph from the outlet's library, not a picture of this seizure, so no media entry is added.
+  - The Réalités article credits Mosaïque FM, so it is not independent reporting of the two operations; it reproduces the same security-source briefing already cited in the report.
+  - Réalités says the first operation, two days before its 7 November publication, concerned the sale of cocaine; it gives no place for those seven arrests.
+  - Réalités gives no amount for the money seized in the first operation and no street value for the cannabis or cocaine, and does not say whether the 38 plates are pressed resin or herbal cannabis.
+  - Réalités places the Ariana operation the day before publication but does not give a calendar date for either operation.
 ---
 
 Officers of the anti-drug sub-directorate at the El Gorjani judicial police
 directorate broke up an international criminal network of foreign nationals and
-Tunisians and arrested seven people in it. [@1,2,3,4] The first operation also seized
-31 capsules of cocaine, two cars and a sum of money. [@1,2,3,4]
+Tunisians and arrested seven people in it. [@1,2,3,4,5] The first operation also seized
+31 capsules of cocaine, two cars and a sum of money. [@1,2,3,4,5]
 
 The same police unit dismantled a drug-trafficking cell in the Ariana area the
 next day, arrested three people, two of them already wanted, and held 38 plates
-of cannabis weighing about 4 kg. [@1,2,3,4]
+of cannabis weighing about 4 kg. [@1,2,3,4,5]
 
 The Public Prosecution ordered the suspects held in custody on drugs and
-money-laundering offences. [@1,2,3,4]
+money-laundering offences. [@1,2,3,4,5]
 
 Officers seized 23,000 dinars in cash in that first operation. [@2,3,4] The first operation was carried out on 4 November 2026. [@2,3,4]
 
