@@ -58,6 +58,11 @@ sources:
     publisher: Dnipro Today
     date: 2026-11-06
     language: uk
+  - title: У Дніпрі в оселі 45-річної жінки знайшли коноплі, канабіс і саморобний пістолет
+    url: https://regionews.ua/ukr/news/dnepropetrovshchina/1793979399-u-dnipri-v-oseli-45-richnoyi-zhinki-znayshli-konopli-kanabis-i-samorobniy-pistolet
+    publisher: RegioNews
+    date: 2026-11-06
+    language: uk
 open_questions:
   - The search is dated only as late September; the incident date shown is an estimate for that search, since no exact day was published.
   - No figure was published for the number of cannabis bushes or the weight of cannabis in the containers, so no quantity is recorded.
@@ -68,21 +73,21 @@ open_questions:
   - 'Left out, as its quotation was not found in Головне управління Національної поліції в Дніпропетровській області: Detectives of Dnipro police district department No. 2 searched the home of a 45-year-old local woman in late September 2026.'
   - Left out agencies, as its quotation was not found in Головне управління Національної поліції в Дніпропетровській області.
   - Left out agency types, as its quotation was not found in Головне управління Національної поліції в Дніпропетровській області.
+  - The submitted page carries a police handout photo of the seizure, which appears to be the same image already listed from the D1 report, so no additional media entry is added.
 ---
 
 On the grounds of her household police found and seized cannabis bushes, which
-an expert examination found to belong to plants of the genus Cannabis. [@1] A
-further search of the house turned up containers holding cannabis. [@1]
+an expert examination found to belong to plants of the genus Cannabis. [@1,4] A
+further search of the house turned up containers holding cannabis. [@1,4]
 
 Officers also seized a pistol from her home, which an examination confirmed was
-a gas pistol converted into a homemade firearm. [@1] Investigators notified the
+a gas pistol converted into a homemade firearm. [@1,4] Investigators notified the
 woman of suspicion under three articles: part 1 of article 310, illegal sowing
 or cultivation of cannabis in an amount of ten to fifty plants; part 1 of
 article 309, illegal storage of narcotics without intent to sell; and part 1 of
-article 263, illegal storage of a firearm without a permit. [@2]
+article 263, illegal storage of a firearm without a permit. [@2,4]
 
 Under article 62 of Ukraine's Constitution, she is presumed innocent until her
 guilt is proved in the lawful procedure and established by a court conviction.
 [@2] Procedural steps in the case were continuing when the accounts were
 published. [@3]
-
