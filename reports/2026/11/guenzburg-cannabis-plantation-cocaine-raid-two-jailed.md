@@ -64,6 +64,11 @@ sources:
     publisher: Presse Augsburg
     date: 2026-11-06
     language: de
+  - title: 'Handel mit Drogen im großen Stil? Große Razzia im Landkreis Günzburg: Polizei nimmt zwei Männer fest'
+    url: https://www.msn.com/de-de/nachrichten/other/handel-mit-drogen-im-gro%C3%9Fen-stil-gro%C3%9Fe-razzia-im-landkreis-g%C3%BCnzburg-polizei-nimmt-zwei-m%C3%A4nner-fest/ar-AA2gTUKl
+    publisher: Augsburger Allgemeine
+    date: 2026-11-06
+    language: de
 open_questions:
   - The article gives Wednesday as the raid day and was published on Friday 6 November 2026, so 4 November 2026 is used as the incident date.
   - No number of cannabis plants and no cannabis weight was published, so no plant or kilogram figure is recorded.
@@ -73,25 +78,28 @@ open_questions:
   - All three outlets carry the identical dpa account of the police statement, so only one independent account exists.
   - The only published image is a labelled symbol photo, so no event photo is listed.
   - The submitted BNN page is paywalled so only its title and introductory summary could be read; the raid details are corroborated by the accessible dpa copies and the police-statement report.
+  - The MSN page carries a preview image with no accessible caption tying it to this raid, so no event photo is listed.
 ---
 
 Police in Landkreis Günzburg are investigating seven people aged between 18 and
-34 on suspicion of dealing in narcotics. [@1,4] Officers arrested two of the seven
+34 on suspicion of dealing in narcotics. [@1,4,7] Officers arrested two of the seven
 and brought them before an investigating judge, who issued arrest warrants for
 both. [@2] Both suspects are now being held in pretrial detention, according to
 a police statement. [@1] Police said the investigations into the suspected
 narcotics trafficking are continuing. [@3]
 
 On Wednesday officers searched several flats in Landkreis Günzburg, as well as
-flats in the city of Augsburg and in Göppingen in Baden-Württemberg. [@1,4] The
+flats in the city of Augsburg and in Göppingen in Baden-Württemberg. [@1,4,7] The
 searches were part of an investigation into suspected narcotics trafficking.
 [@1] In the raid against the suspected drug dealers, police in Landkreis
 Günzburg seized a cannabis plantation together with cocaine and weapons. [@2]
 
 According to the police account, officers found an illegal cannabis grow
-facility during the searches. [@1,5] They also seized more than 100 grams of
-cocaine and a smaller quantity of amphetamine. [@1] The officers also
+facility during the searches. [@1,5,7] They also seized more than 100 grams of
+cocaine and a smaller quantity of amphetamine. [@1,7] The officers also
 confiscated brass knuckles, a blank-firing gun and several thousand euros in
 cash. [@1]
 
-The seven suspects are German nationals, comprising five men and two women. [@6] The two arrested men, aged 20 and 29, were brought before Memmingen Local Court on 5 November 2026. [@6]
+The seven suspects are German nationals, comprising five men and two women. [@6] The two arrested men, aged 20 and 29, were brought before Memmingen Local Court on 5 November 2026. [@6,7]
+
+Officers also seized several mobile phones and data storage devices. [@7] Officers were supported during the searches by officers from the Schwaben Nord and Ulm police headquarters. [@7] Further investigations are led by the Neu-Ulm criminal police under the direction of the Memmingen public prosecutor's office. [@7]
