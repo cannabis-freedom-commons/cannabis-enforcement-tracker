@@ -12,11 +12,11 @@ title: 35-year-old held with 500 g of cannabis at a Rivne parcel locker
 summary: >-
   Police in Rivne stopped a 35-year-old man as he collected a postal delivery at a parcel locker on Viacheslava Chornovola Street on 6 November and seized about 500 grams of cannabis, valued at about 200,000 hryvnias. A pretrial investigation is under way under part 1 of article 309 of Ukraine's Criminal Code for unlawful possession of drugs.
 figures:
-  arrested: 1
-  kg_seized: 0.5
-  value:
-    amount: 200000
-    currency: UAH
+    arrested: 1
+    kg_seized: 0.5
+    value:
+        amount: 200000
+        currency: UAH
 details:
   agencies: [Національна поліція України (Рівне Oblast police drug-crime unit)]
   agency_types: [police, anti-narcotics]
@@ -30,17 +30,17 @@ details:
   date_precision: exact
   region: Rivne Oblast
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.charges: [1]
-  details.force: [1]
-  details.products: [1]
-  details.setting: [1, 2]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
-  figures.value: [2]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [1]
+    details.charges: [1]
+    details.force: [1]
+    details.products: [1]
+    details.setting: [1, 2]
+    figures.arrested: [10]
+    figures.kg_seized: [10]
+    figures.value: [10]
 media:
   - kind: photo
     url: https://rivne1.tv/news/177170-u-rivnomu-v-cholovika-viluchili-blizko-piv-kilohrama-kanabisu-foto
@@ -107,6 +107,11 @@ sources:
     publisher: Магнолія-ТВ
     date: 2026-11-08
     language: uk
+  - title: У Рівному поліцейські біля поштомату затримали чоловіка з партією наркотиків
+    url: https://magnolia-tv.com/en/node/155558
+    publisher: Магнолія-ТВ
+    date: 2026-11-08
+    language: uk
 open_questions:
   - The weight and value are given as approximate (about 500 grams, about 200,000 hryvnias), not measured figures.
   - The reports do not say what the postal delivery contained beyond the cannabis found on the man, who sent it, or whether the man is accused of receiving it for sale; the charge is possession without intent to sell.
@@ -123,23 +128,26 @@ open_questions:
   - The three photos on the Magnolia-TV page carry no captions or credits, so it is not established that they show this seizure, and no media entry is added from that page.
   - The three images on the submitted page have empty alt text and no captions or credits in the page markup, so it is not established that they show this seizure; the first image, which heads the article, is not added as a media entry for that reason.
   - Polissia News reproduces the Rivne Oblast police statement, so it is not independent reporting on the event.
+  - The page gives no separate date for the stop; 8 November 2026 is its publication date and the report uses 6 November from the police statement.
+  - The three photos on the page carry no captions or credits in the page markup, so it is not established that they show this seizure and no media entry is added from this page.
+  - The magazine-style page reproduces the Rivne Oblast police release, so it is not independent reporting on the event.
 ---
 
 Detectives of the Rivne Oblast police drug-crime unit stopped a 35-year-old
 Rivne resident near a parcel locker on Viacheslava Chornovola Street in Rivne
-shortly after 5 pm on 6 November, after he collected a postal delivery. [@1,4,6,7,8,9] The
+shortly after 5 pm on 6 November, after he collected a postal delivery. [@1,4,6,7,8,9,10] The
 stop was based on intelligence the officers already held, and they searched the
 man on the spot. [@2]
 
-In the search officers found and seized cannabis weighing about 500 grams. [@1,4,6,7,8,9]
+In the search officers found and seized cannabis weighing about 500 grams. [@1,4,6,7,8,9,10]
 Rivne Oblast police put the street value of the seized cannabis at about 200,000
-hryvnias (about 4,700 dollars). [@2,4,5,6,7,8,9]
+hryvnias (about 4,700 dollars). [@2,4,5,6,7,8,9,10]
 
 A pretrial investigation is under way into unlawful possession of drugs under
 part 1 of article 309 of Ukraine's Criminal Code, which covers acquiring and
-keeping drugs without intent to sell. [@1,4,6,7,8,9] Investigators were still working to
+keeping drugs without intent to sell. [@1,4,6,7,8,9,10] Investigators were still working to
 establish who else was involved in the circulation of the drugs, and the other
-circumstances of the offence. [@1,6,7,9]
+circumstances of the offence. [@1,6,7,9,10]
 
 The three accounts reproduced the same statement from the Rivne Oblast police.
 [@3]
