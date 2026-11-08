@@ -49,6 +49,11 @@ sources:
     publisher: Sylhetview24.com
     date: 2026-11-08
     language: bn
+  - title: মাধবপুরে ৩৬ কেজি গাঁজা উদ্ধার, আটক ১
+    url: https://sylhetvoice24.com/news/100003194
+    publisher: সিলেট ভয়েস
+    date: 2026-11-08
+    language: bn
 open_questions:
   - The incident falls in the night from Saturday 7 November to Sunday 8 November; both accounts date the raid to Sunday 8 November.
   - No street value for the 36 kg of ganja was published.
@@ -59,18 +64,21 @@ open_questions:
   - The submitted page's images carry no caption or credit, so none is listed as media.
   - Coordinates are for Madhabpur Upazila rather than the exact pond bank in Krishnapur village.
   - A third outlet headline matching this event could not be opened because the page refused access, so it is not cited.
+  - The Sylhet Voice account dates the raid to around 2 a.m. on Saturday night, which falls in the early hours of Sunday 8 November; the existing report gives 2:05 a.m. on 8 November, and the exact minutes differ between accounts.
+  - The Sylhet Voice account says a case under the Narcotics Control Act had been filed and the man and ganja already handed to Madhabpur police station, while at least one account already cited says the filing was still under way; the case-document stage differs between accounts.
+  - The submitted page's image is captioned only with the headline and carries no credit confirming it shows the seized ganja, so no media entry is added.
 ---
 
 The operation took place at 2:05 a.m. on Sunday 8 November at a pond bank in
-Krishnapur village of Bahra Union, Madhabpur Upazila, Habiganj. [@1] Special
+Krishnapur village of Bahra Union, Madhabpur Upazila, Habiganj. [@1,3] Special
 Response Battalion (SRB)-9, a police battalion, arrested 26-year-old Ujjal Mia
-with 36 kg of ganja in Madhabpur, Habiganj. [@1] The SRB-9 team from the
+with 36 kg of ganja in Madhabpur, Habiganj. [@1,3] The SRB-9 team from the
 Shayestaganj camp carried out the raid after receiving confidential information,
 and when two men tried to flee with two plastic sacks, one was detained. [@1]
 One of the men carrying plastic sacks was detained and the other dropped a sack
 and escaped. [@1]
 
-Officers searched both sacks and recovered 36 kg of ganja. [@1] The arrested man
+Officers searched both sacks and recovered 36 kg of ganja. [@1,3] The arrested man
 is the son of Mahdar Ali of Krishnapur village, and in initial questioning he
 said he and the escaped accomplice had collected the ganja from a border area of
 Habiganj and kept it to sell. [@1] The Sylhetview24 account names him as Md
@@ -82,4 +90,3 @@ under the Narcotics Control Act, after which the man and the ganja were handed
 to Madhabpur police station, and that the campaign against drugs would continue.
 [@1] Dhaka Today's correspondent for Madhabpur, Habiganj, reported the arrest,
 and the outlet published it on 8 November 2026. [@1]
-
