@@ -86,6 +86,11 @@ sources:
     publisher: Banglanews24
     date: 2026-10-30
     language: bn
+  - title: বোয়ালিয়ায় বিপুল পরিমান গাঁজাসহ গ্রেফতার মাদক কারবারি প্রিভেল
+    url: https://rajshahirsomoy.com/19827
+    publisher: Rajshahir Somoy
+    date: 2026-10-30
+    language: bn
 open_questions:
   - Only the Daily Karatoa says a case was filed; the other accounts describe the handover to Boalia police without giving details of the case or next legal steps.
   - No charge, case number or court date was published.
@@ -107,6 +112,9 @@ open_questions:
   - This account does not mention two mobile phones, a tip-off, a health check or a case filing described in other sources already cited on the report.
   - The page image is captioned only as a collected photo, with nothing confirming it shows this seizure, so no media entry is added.
   - This account also reports the 28 kg seizure at SR Parcel Services on the night of 29 October 2026 and the handover to Boalia police, but those sentences were not added because their Bengali wording could not be matched by the quotation check.
+  - This account gives the arrest time as about 8:30 pm on 29 October, matching the existing report's other sources.
+  - This account does not mention the two mobile phones, the tip-off or the preliminary health check described in other sources already cited on the report.
+  - The page gives no court order, charge section or case number beyond the statement that a case was filed under the Narcotics Control Law.
 ---
 
 Police arrested a man at a parcel service office in Rajshahi's Boalia thana area
@@ -122,3 +130,5 @@ The sender and origin of the parcel were not disclosed. [@2]
 The tip said a dealer was waiting at SR Parcel Services Limited, under Boalia Model Thana, to collect illegal drugs, and an SRB team arrested Md. Prevel Islam there. [@4,6] Officers seized two mobile phones with the 28 kg of cannabis, in the presence of neutral witnesses. [@4,6] After a preliminary health check, he was handed to the relevant police station with the recovered evidence and a case was filed. [@4,6] Last News BD names the arresting unit as CPSC, SRB-5, Rajshahi, and the arrested man as Md. Prevel Islam, 28, son of Nazmul Haque of Rasunchak in Shibganj thana, Chapainawabganj. [@4]
 
 SRB-5 announced the arrest in a press release on Friday morning. [@5,7] SRB-5 said Prevel was later handed to Boalia police station with the cannabis. [@5,7]
+
+SRB-5 said it announced the arrest in a press release sent from its Rajshahi headquarters on the morning of Friday 30 October. [@9] Police sent him to jail through court on Friday morning. [@9]
