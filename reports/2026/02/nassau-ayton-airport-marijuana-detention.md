@@ -1,0 +1,62 @@
+---
+code: ARXV6Q
+added_at: "2026-11-08T23:21:41.660385Z"
+date: 2026-02-17
+country: bs
+place: Lynden Pindling International Airport, Bahamas
+coordinates: [25.039, -77.467]
+precision: exact
+type: arrest
+title: Lakers center Deandre Ayton detained over cannabis at Bahamas airport
+summary: >-
+  Los Angeles Lakers center Deandre Ayton was detained and quickly released at Lynden Pindling International Airport on suspicion of possessing a small amount of marijuana. His lawyer said the drug was in someone else's bag and that Ayton was never arrested or charged.
+figures:
+  arrested: 1
+details:
+  agencies: [Royal Bahamas Police Force]
+  agency_types: [police]
+  activity: [possession]
+  setting: [airport]
+  case_stage: investigation
+  date_precision: exact
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: d7febad41900169c0b5f43d81aede746
+tags: [bahamas, nassau, airport]
+sources:
+  - title: Lakers center Deandre Ayton detained, released at Bahamas airport over suspected marijuana possession - Yahoo Sports
+    url: https://sports.yahoo.com/nba/article/lakers-center-deandre-ayton-detained-released-at-bahamas-airport-over-suspected-marijuana-possession-041115950.html
+    publisher: Yahoo Sports
+    date: 2026-02-18
+open_questions:
+  - No weight was published beyond a small and very small amount of suspected marijuana, so no cannabis weight is recorded.
+  - The incident date of 17 February 2026 is the Tuesday before the article's Wednesday 18 February 2026 publication date.
+  - The police account that Ayton was searched and found with marijuana conflicts with his lawyer's account that the marijuana was in someone else's bag and that Ayton was never arrested or charged; the report records the detention and notes the dispute.
+  - Only one opened account, relaying Reuters and TMZ reporting, could be used; no second independent account was found.
+  - The map point is the airport rather than the exact spot of the search within the airport.
+---
+
+Los Angeles Lakers center Deandre Ayton was detained and quickly released on
+Tuesday at Lynden Pindling International Airport on suspicion of possessing a
+small amount of marijuana. [@1] He would have been returning to the United
+States from his native Bahamas as the All-Star break neared its end. [@1] The
+central division of the Royal Bahamas Police Force initially said he was
+searched after being spotted smoking marijuana at the airport. [@1]
+
+Reuters reported he was found with the drug, which remains illegal in the
+Bahamas. [@1] His lawyer Devard Francis said the suspected marijuana was
+actually in someone else's bag and that Ayton was never arrested or charged.
+[@1] Francis said investigators saw that the very small amount of marijuana was
+not in Ayton's bag, completed their investigation and released him
+expeditiously. [@1] Ayton, a former No. 1 overall pick, is in his first season
+with the Lakers after signing a two-year deal worth 16.6 million dollars. [@1]
+He entered the All-Star break averaging 13.2 points on 67.5 percent shooting
+with a team-high 8.5 rebounds per game. [@1]
+
