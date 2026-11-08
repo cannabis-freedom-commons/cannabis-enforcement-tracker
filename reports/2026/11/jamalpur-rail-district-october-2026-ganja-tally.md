@@ -35,6 +35,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-05
     language: hi
+  - title: अक्टूबर में रेल पुलिस ने 48 आरोपी गिरफ्तार किए:जमालपुर में 205.435 लीटर शराब और 43.258 किलो गांजा जब्त किया; ऑपरेशन मुस्कान में 32 मोबाइल भी लौटाए
+    url: https://www.bhaskar.com/local/bihar/munger/jamalpur/video/jamalpur-rail-police-liquor-ganja-seized-operation-muskan-mobile-139602358.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The article gives no date for the ganja seizure; 5 November 2026, its publication date, stands in for the incident date.
   - The 43.258 kg of ganja and its single arrest are a monthly total for the rail district, and the article does not say at which railway station or in which case they were recorded.
@@ -45,12 +50,14 @@ open_questions:
   - Under Operation Muskan, the state campaign to return recovered phones, 32 lost and stolen mobile phones were given back to their owners; that is not a cannabis matter and is left out.
   - Only one account of this meeting could be opened; no police statement or second outlet was found.
   - The article carries two photographs with no captions or credits, and neither is identified as showing the seized ganja, so no media entry is added.
+  - This capture is the video version of the story and contains only the headline; an article body behind the same story identifier gives further detail that is not part of this opened source.
 ---
 
 Railway police in the Rail district Jamalpur in Bihar arrested 48 accused during
-October 2026. [@1] Officers in the Rail district Jamalpur in Bihar seized 43.258
+October 2026. [@1,2] Officers in the Rail district Jamalpur in Bihar seized 43.258
 kg of ganja, the Hindi term for cannabis, during October 2026. [@1]
 
 The figures were presented at a monthly review meeting chaired by the Rail
 Superintendent of Police, Vidyasagar. [@1]
 
+Railway police in Jamalpur, in Bihar's Munger district, reported seizing 43.258 kg of ganja. [@2]
