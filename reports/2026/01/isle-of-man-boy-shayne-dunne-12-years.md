@@ -58,6 +58,10 @@ sources:
     url: https://www.manxradio.com/news/isle-of-man-news/drug-trafficker-jailed-for-twelve-years/
     publisher: Manx Radio
     date: 2026-01-14
+  - title: Isle of Man police vow to bring UK criminals to justice
+    url: https://www.bbc.com/news/articles/c8rmy5z5y27o
+    publisher: BBC News
+    date: 2026-01-15
 open_questions:
   - The accounts give no separate date for the sentencing hearing; 13 January 2026 is the BBC's publication date and Isle of Man Today says Dunne appeared "on Tuesday", while Manx Radio's report is dated 14 January 2026.
   - The BBC reports the cannabis plot as up to £309,000 and 98 vapes laced with THC, while Isle of Man Today reports 15.5 kg worth £300,000 and 100 vapes; the report uses Isle of Man Today's weight and value.
@@ -71,12 +75,13 @@ open_questions:
   - 'Left out, as its quotation was not found in Isle of Man Today: The operation brought in 15.5 kg of cannabis worth £300,000 and 100 vapes laced with a cannabis derivative.'
   - 'Left out, as its quotation was not found in Isle of Man Today: Police bugged the hotel room of another gang member, Jamie Smith, from where he was directing events from the island.'
   - 'Left out, as its quotation was not found in Manx Radio: His conviction followed two simultaneous investigations, Operation Vineyard and Operation Bobcat, run by the Isle of Man Constabulary''s Serious and Organised Crime Unit.'
+  - The page photograph is a portrait of Dunne rather than the seizure, raid or court event, so no event media is added.
 ---
 
-Liam Dunne, 39, of Liverpool, was jailed for 12 years. [@2] He appeared before
+Liam Dunne, 39, of Liverpool, was jailed for 12 years. [@2,4] He appeared before
 the Court of General Gaol Delivery in Douglas. [@2] He had pleaded guilty to
 being concerned in importing heroin, cannabis and tetrahydrocannabinol (THC) and
-to participating in a criminal organisation. [@1] Deemster Graeme Cook imposed
+to participating in a criminal organisation. [@1,4] Deemster Graeme Cook imposed
 six years for the heroin offence, four years for the cannabis offence and two
 years for the criminal organisation, to run consecutively, with a further year
 for the THC offence to run concurrently. [@2] The deemster told Dunne he made
@@ -92,7 +97,7 @@ were exchanged. [@2]
 Dunne was arrested on 17 August 2025 as he returned to the UK from Spain, where
 he had been living for eight months. [@1] Police described him as a pivotal link
 within the supply chain trafficking Class A and B drugs into the island
-throughout 2023. [@3]
+throughout 2023. [@3,4]
 
 Shaun Milligan was jailed for 11 years in February 2024, along with Frank
 Harrison, who received seven years, after a parcel of heroin was addressed to
@@ -101,3 +106,4 @@ Harrison. [@1] Dunne received £139,000 in illicit bank transfers between Januar
 advocate, Ian Kermode, said Dunne was a father of four who had worked as a sign
 writer and had no previous convictions for drug offences. [@2]
 
+Det Insp Jamie Tomlinson said police will not hesitate to secure arrest warrants, work alongside UK law enforcement partners, and bring UK offenders to the island to face justice. [@4]
