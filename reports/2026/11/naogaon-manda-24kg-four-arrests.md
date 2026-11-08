@@ -91,6 +91,11 @@ sources:
     publisher: Agrajatra Pratidin
     date: 2026-11-01
     language: bn
+  - title: নওগাঁয় গাঁজা-চোর চক্রের সদস্যসহ গ্রেপ্তার ৬, উদ্ধার ৫১৭ মোবাইল | STAR NEWS
+    url: https://starnews.com.bd/country/27959/6-arrested-in-naogaon-including-members-of-a-gang-involved-in-cannabis-related-theft-517-mobile-phones-recovered.html
+    publisher: Star News
+    date: 2026-11-01
+    language: bn
 open_questions:
   - The cannabis raids ran from Saturday night through 8:30 a.m. Sunday; the report is dated to the 1 November press briefing that announced them.
   - No charges, court outcome, drug value or independent weighing was reported.
@@ -116,23 +121,24 @@ open_questions:
   - The page lists eight images with empty captions and credits, so none could be confirmed to show this seizure and no media entry is added.
   - This account dates the Manda search to 5 a.m. on 1 November and the Badalgachhi search to 10 a.m., while the existing report dates the raids from Saturday night through 8:30 a.m. Sunday; the shared 20 kg plus 2 kg plus 2 kg breakdown is used.
   - The page carries a photo whose caption repeats the raid headline with no credit, so its visible content could not be verified from the text capture and no media entry is added.
+  - The page carries a photo captioned only with the raid headline, so its visible content could not be confirmed to show this seizure and no media entry is added.
 ---
 
 Naogaon District Detective Branch (DB) police arrested four alleged drug traders
 in separate raids across Manda, Sadar and Badalgachhi upazilas, sub-districts of
-Naogaon District. [@1,2,3,4,5,6,8,9,10] The four were identified as Arif Hossain, 30, of
+Naogaon District. [@1,2,3,4,5,6,8,9,10,11] The four were identified as Arif Hossain, 30, of
 Raghunathpur in Manda, Mosharraf, 33, of Sherpur Kuralipara in Mohadevpur, and
 brothers Shilong, 23, and Arafat, 23, of Badalgachhi. [@1,3,10] Superintendent of
 Police Mohammad Tarikul Islam announced the arrests at a press briefing at his
-Naogaon office on Sunday, 1 November. [@1,3,4,5,6,7]
+Naogaon office on Sunday, 1 November. [@1,3,4,5,6,7,11]
 
 Acting on a tip about a large stock stored for sale in Manda, officers raided
 Arif Hossain's house in Raghunathpur village late Saturday night and recovered
-20 kg of ganja from a steel trunk. [@1,2,3,4,5,6,7,10] Information from Arif led officers to a
+20 kg of ganja from a steel trunk. [@1,2,3,4,5,6,7,10,11] Information from Arif led officers to a
 rented house in Naogaon Sadar, where they arrested Mosharraf and recovered
-another 2 kg kept under a bed. [@1,9,10] Information from Mosharraf then led to
+another 2 kg kept under a bed. [@1,9,10,11] Information from Mosharraf then led to
 Badalgachhi, where police arrested Shilong and Arafat and recovered a further 2
-kg from them. [@1,3,4,5,6,9]
+kg from them. [@1,3,4,5,6,9,11]
 
 The cannabis raids ran from Saturday into 8:30 a.m. Sunday and were carried out
 by a Detective Branch team on the superintendent's orders. [@1] Police said
