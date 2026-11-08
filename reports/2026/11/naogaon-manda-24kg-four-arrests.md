@@ -101,6 +101,11 @@ sources:
     publisher: NTV Online
     date: 2026-11-01
     language: bn
+  - title: নওগাঁয় গাজা-চোর চক্রের ৬ সদস্য গ্রেফতার
+    url: https://sarabangla.net/bangladesh/post-1215095/
+    publisher: Sarabangla
+    date: 2026-11-01
+    language: bn
 open_questions:
   - The cannabis raids ran from Saturday night through 8:30 a.m. Sunday; the report is dated to the 1 November press briefing that announced them.
   - No charges, court outcome, drug value or independent weighing was reported.
@@ -131,6 +136,10 @@ open_questions:
   - Sorejomin Barta places the Badalgachhi search at about 10 a.m. and names the Sadar house as rented by Faruk Hossain in the Kumaigari area and the Badalgachhi village as Nihinpur; these details are not in the other opened accounts.
   - Sorejomin Barta says the 20 kg was recovered from five packets of 4 kg each; NTV gives only the total.
   - The submitted page photo is captioned as Superintendent Mohammad Tarikul Islam speaking at the press briefing, credited to NTV, and does not show the seized ganja, so no media entry is added.
+  - Sarabangla dates the Manda raid to the night and gives the press briefing as Sunday midday; it gives no separate calendar date for each search.
+  - The article's headline counts six arrests, which is four ganja suspects plus two van-theft suspects; only four are counted here.
+  - The three page images have empty captions and credits in the page markup, so none could be confirmed to show this seizure and no media entry is added.
+  - The text gives a weight ("24 kg") but the figures have no kg_seized; check whether it belongs there.
 ---
 
 Naogaon District Detective Branch (DB) police arrested four alleged drug traders
@@ -143,7 +152,7 @@ Naogaon office on Sunday, 1 November. [@1,3,4,5,6,7,11,12]
 
 Acting on a tip about a large stock stored for sale in Manda, officers raided
 Arif Hossain's house in Raghunathpur village late Saturday night and recovered
-20 kg of ganja from a steel trunk. [@1,2,3,4,5,6,7,10,11,12] Information from Arif led officers to a
+20 kg of ganja from a steel trunk. [@1,2,3,4,5,6,7,10,11,12,13] Information from Arif led officers to a
 rented house in Naogaon Sadar, where they arrested Mosharraf and recovered
 another 2 kg kept under a bed. [@1,9,10,11,12] Information from Mosharraf then led to
 Badalgachhi, where police arrested Shilong and Arafat and recovered a further 2
