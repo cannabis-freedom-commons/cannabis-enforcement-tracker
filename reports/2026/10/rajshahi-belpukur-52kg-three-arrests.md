@@ -90,6 +90,11 @@ sources:
     publisher: Agrajatra Pratidin
     date: 2026-10-31
     language: bn
+  - title: নাটোর-রাজশাহী মহাসড়কে ৫২ কেজি গাঁজাসহ গ্রেফতার ৩
+    url: https://www.lastnewsbd.com/news-details/PST37780
+    publisher: Lastnewsbd
+    date: 2026-10-31
+    language: bn
 open_questions:
   - Ajker Patrika gives the arrest time as about 10 pm, while Rajshahir Somoy gives about 11:15 pm; both place it at Belpukur roundabout on Friday, 30 October.
   - Rajshahir Somoy says the men were sent to jail through court on Saturday morning; neither account gives a subsequent case outcome or court-order details.
@@ -106,18 +111,21 @@ open_questions:
   - The page's lead image has empty alt text and no caption or credit, so it cannot be confirmed to show this seizure and no media entry is added.
   - This account gives the interception time as 10:10 pm on 30 October, matching the existing report's other sources and differing from Rajshahir Somoy's about 11:15 pm already noted in the existing report.
   - The Agrajatra Pratidin lead photograph is captioned only with the article title and carries no credit, so it cannot be confirmed to show this seizure and no media entry is added.
+  - This account gives Jamal Mia's age as 37, while the existing report names him as 27 from its earlier sources.
+  - This account gives the tip time as around 10:15 on Friday, matching the existing report's 10 p.m. accounts and differing from Rajshahir Somoy's about 11:15 p.m. already noted there.
+  - The page's only image is captioned generically as collected with no credit confirming it shows this seizure, so no media entry is added.
 ---
 
 SRB-5 arrested three men at Belpukur roundabout in Rajshahi on Friday, 30
-October 2026. [@2,5,6,7,8] The arrested men were Rifat Hossain, 36, Ibrahim Khan, 40,
-and Jamal Mia, 27, from localities in Moulvibazar district. [@1,4,5,6,7,8] Officers
-recovered 52 kg of cannabis concealed inside the pickup. [@1,3,4,5,6,7,8]
+October 2026. [@2,5,6,7,8,9] The arrested men were Rifat Hossain, 36, Ibrahim Khan, 40,
+and Jamal Mia, 27, from localities in Moulvibazar district. [@1,4,5,6,7,8,9] Officers
+recovered 52 kg of cannabis concealed inside the pickup. [@1,3,4,5,6,7,8,9]
 
 They also seized the pickup and three mobile phones, and SRB estimated the
-cannabis's market value at 2.08 million taka (20 lakh 80 thousand taka). [@2,3,4,5,6,7,8]
+cannabis's market value at 2.08 million taka (20 lakh 80 thousand taka). [@2,3,4,5,6,7,8,9]
 SRB-5 said it set up a highway checkpoint after receiving confidential
 information that a large cannabis consignment was coming to Rajshahi from the
-Sylhet or Moulvibazar area. [@1,8] According to the SRB account, the driver
+Sylhet or Moulvibazar area. [@1,8,9] According to the SRB account, the driver
 ignored the signal to stop, and the team halted the pickup about half a
 kilometre farther on. [@1,8] The men were handed to police with the seized
 evidence, and a case under the Narcotics Control Act was filed against them.
