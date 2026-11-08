@@ -133,6 +133,11 @@ sources:
     publisher: IMLebanon
     date: 2026-11-08
     language: ar
+  - title: 'Sarghaya : Damas annonce une saisie de drogue'
+    url: https://libnanews.com/sarghaya-damas-annonce-une-saisie-de-drogue/
+    publisher: Libnanews
+    date: 2026-11-08
+    language: fr
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -172,20 +177,22 @@ open_questions:
   - The page's only picture is a site image captioned with the headline, so it does not add media for the operation.
   - This account attributes the 280 kg hashish and 28,000 Captagon pill figures to an Internal Security Forces statement, while the existing report attributes the seizure statement to the Defence Ministry media office.
   - The page's only image is a generic Lebanon-Syria border photo with no caption linking it to the Sarghaya operation, so no media entry is added.
+  - The Libnanews page states its lead photograph is a June 2021 FSI archive photo that does not show the Sarghaya operation, so no media entry is added.
+  - The 28,000 Captagon pills are a separate non-cannabis drug and are not counted in cannabis figures.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
 Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
-the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10,11,14,16]
+the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10,11,14,16,17]
 
 The ministry said the smugglers opened fire on the Syrian force during the
 operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12,13,14,15,16] The gunmen then fled towards
-Lebanese territory, the ministry said. [@2,4,6,7,8,9,11,12,13,15,16] The state news agency SANA reported
+Lebanese territory, the ministry said. [@2,4,6,7,8,9,11,12,13,15,16,17] The state news agency SANA reported
 that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13,14,16] The seized items were
+confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13,14,16,17] The seized items were
 referred to the competent authorities to complete legal procedures. [@1,3,4,11,12,13,14,15]
 
 The Defence Ministry media office announced the operation on Friday 6 November
