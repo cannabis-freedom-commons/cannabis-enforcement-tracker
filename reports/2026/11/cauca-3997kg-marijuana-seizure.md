@@ -83,6 +83,11 @@ sources:
     publisher: Diario Avance
     date: 2026-11-08
     language: es
+  - title: Incautan cerca de cuatro toneladas de marihuana en el suroeste de Colombia - Mundo - ABC Color
+    url: https://www.abc.com.py/internacionales/2026/11/07/incautan-cerca-de-cuatro-toneladas-de-marihuana-en-el-suroeste-de-colombia/
+    publisher: ABC Color
+    date: 2026-11-07
+    language: es
 open_questions:
   - No municipality or separate date for the operation was published; 7 November 2026 is the EFE dispatch and announcement date and stands in for the event date.
   - The names, charges and judicial outcome for the two captured people were not reported.
@@ -98,18 +103,18 @@ open_questions:
 ---
 
 Colombian authorities seized 3,997 kilograms of marijuana in an operation in the
-department of Cauca in southwestern Colombia. [@1,3,4,5,6,7,8,9] The marijuana was reportedly
-to be sent to Peru and Chile. [@1,3,4,5,6,7] President Abelardo de la Espriella announced
+department of Cauca in southwestern Colombia. [@1,3,4,5,6,7,8,9,10] The marijuana was reportedly
+to be sent to Peru and Chile. [@1,3,4,5,6,7,10] President Abelardo de la Espriella announced
 the seizure in Cauca, the capture of two people and the immobilisation of three
-vehicles. [@1,3,4,8] Two people were captured and three vehicles were immobilised in
+vehicles. [@1,3,4,8,10] Two people were captured and three vehicles were immobilised in
 the operation. [@2,3,5,6,7,9]
 
 The find came after an operation by the National Police against structures
 dedicated to drug trafficking. [@2] Among the seized material were 1,186
 packages of creepy-type marijuana allegedly destined for illegal markets in Peru
-and Chile. [@1,3,4,5,6,8,9] Authorities also seized 4,542 litres of chemical substances, 100
+and Chile. [@1,3,4,5,6,8,9,10] Authorities also seized 4,542 litres of chemical substances, 100
 containers of caustic soda, 36 scales and other supplies used in clandestine
-laboratories for processing narcotics. [@1,3,4,6,7,8,9]
+laboratories for processing narcotics. [@1,3,4,6,7,8,9,10]
 
 De la Espriella said each seized shipment means fewer resources to finance
 terrorism, buy weapons and sow violence in the regions. [@1,3,8] The EMC dissidence,
