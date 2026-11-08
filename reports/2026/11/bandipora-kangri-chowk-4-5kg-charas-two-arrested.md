@@ -58,6 +58,10 @@ sources:
     url: https://theprint.in/india/four-arrested-over-6-kg-of-charas-like-substance-seized-in-j-ks-bandipora/3093171/
     publisher: ThePrint
     date: 2026-11-07
+  - title: Police arrest 14 in multiple drug crackdowns; contraband seized
+    url: https://kashmirreader.com/2026/11/08/police-arrest-14-in-multiple-drug-crackdowns-contraband-seized/
+    publisher: Kashmir Reader
+    date: 2026-11-08
 open_questions:
   - The day's two Bandipora cases together were reported as approximately 6.5 kg; the Kangri Chowk recovery is given only as a range of approximately 4–5 kg, so the Kangri weight cannot be stated exactly.
   - No laboratory confirmation that the substance was cannabis was published; police describe it only as a charas-like substance.
@@ -71,6 +75,11 @@ open_questions:
   - Daily Excelsior does not repeat the FIR numbers for the two cases that the earlier accounts gave.
   - The Print account, carried by the PTI news service, puts the Kangri Chowk recovery at approximately 4.5 kg, matching Daily Excelsior rather than the 4–5 kg range given in the district police post.
   - 'Left out, as its quotation was not found in ThePrint: Police registered two separate cases and said they were investigating further links and the source and intended destination of the substance.'
+  - Kashmir Reader does not say who its 14 arrests are counted against or when each operation took place; 8 November 2026 is the article's own date and is not established as the day of the arrests.
+  - The page reports operations in five districts but lists only parts of each case and gives no FIR for most of them, so the 14 cannot be reconciled case by case with the individual reports.
+  - The page gives no combined weight and describes the Baramulla recovery only as about 822 grams of a bhang-like substance, so no cannabis total for the roundup is recorded.
+  - None of the substances is reported as laboratory-confirmed cannabis.
+  - Only this one account of the combined roundup was found; searches returned no other outlet carrying the same 14-arrest text.
 ---
 
 Police in Bandipora district arrested four people in two separate narcotics
@@ -97,3 +106,5 @@ cases to establish where the substance came from, where it was going and who
 else was involved in the trade. [@1]
 
 Police gave the Kangri Chowk recovery as approximately 4.5 kg where the existing account recorded a 4–5 kg range. [@3] Police registered two separate cases and said they were investigating further links and the source and intended destination of the substance. [@3]
+
+Police said the 14 arrests were made in five districts of Jammu and Kashmir: Bandipora, Anantnag, Baramulla, Handwara and Shopian. [@5] Across the five districts police reported the recovery of charas-like substances, heroin, a bhang-like substance and ₹31,500 in cash. [@5] The Bandipora police registered FIR No. 181/2026 under sections 8, 20 and 29 of the NDPS Act, the Narcotic Drugs and Psychotropic Substances Act, at Police Station Bandipora. [@5] Police said investigations in all the cases were under way to trace the source and intended destination of the seized substances and identify further links. [@5] Police urged the public to report suspected drug-related activity to law enforcement agencies. [@5]
