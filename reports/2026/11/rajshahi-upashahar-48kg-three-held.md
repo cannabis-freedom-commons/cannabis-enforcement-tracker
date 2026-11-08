@@ -101,6 +101,11 @@ sources:
     publisher: দ্য নিউজ ২৪
     date: 2026-11-02
     language: bn
+  - title: নগরীতে পুলিশের অভিযানে ৪৮ কেজি গাঁজা উদ্ধার, গ্রেপ্তার ২
+    url: https://pkagoj.com/articles/637606
+    publisher: Pkagoj
+    date: 2026-11-02
+    language: bn
 open_questions:
   - Only the Amader Shomoy account of this event could be opened; no second outlet or agency statement was found.
   - The detentions are reported as detention and questioning, and whether formal arrests, charges or a court outcome followed is not reported.
@@ -129,6 +134,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Ajker Darpon: The second account names the two arrested men as 27-year-old Sajib of Bagdhani and 20-year-old Rayhan of Palpur Dharampur and places the raid at Holding No. 49 in Sector-2.'
   - 'Left out, as its quotation was not found in Ajker Darpon: Officers also seized two mobile phones used for drug sales, and Biplab Ali with two to three other suspects fled on seeing the police.'
   - The News 24 page's lead image has no descriptive caption, so whether it shows this seizure could not be established and no media entry is added.
+  - The submitted page carries a lead photograph whose caption only repeats the headline, so whether it shows this 48 kg seizure could not be established and no media entry is added.
 ---
 
 Boalia Model Police detained three people in Rajshahi, including the
@@ -153,8 +159,8 @@ station, but police gave no detailed explanation of his suspected link to the
 consignment. [@1] Attempts to reach Rajshahi Metropolitan Police Additional
 Commissioner Gaziur Rahman by phone for comment were unsuccessful. [@1]
 
-Police filed a case under the Narcotics Control Act at Boalia police station against the two arrested men and the absconders. [@2,4,5,7,8,10] The two arrested men were sent to jail through the court on Monday morning, while operations to arrest the absconders continue. [@2,4,7,8,10,11] Officers also seized two mobile phones used for drug sales, and Biplab Ali with two to three other suspects fled on seeing the police. [@2,4,5,8,11] The second account names the two arrested men as 27-year-old Sajib of Bagdhani and 20-year-old Rayhan of Palpur Dharampur and places the raid at Holding No. 49 in Sector-2. [@3,4,8,11]
+Police filed a case under the Narcotics Control Act at Boalia police station against the two arrested men and the absconders. [@2,4,5,7,8,10,12] The two arrested men were sent to jail through the court on Monday morning, while operations to arrest the absconders continue. [@2,4,7,8,10,11] Officers also seized two mobile phones used for drug sales, and Biplab Ali with two to three other suspects fled on seeing the police. [@2,4,5,8,11,12] The second account names the two arrested men as 27-year-old Sajib of Bagdhani and 20-year-old Rayhan of Palpur Dharampur and places the raid at Holding No. 49 in Sector-2. [@3,4,8,11,12]
 
 Police said the arrested men are professional drug dealers who had long operated across Rajshahi city in collusion, and that Sajib already faces a Narcotics Control Act case at Natore Sadar police station. [@4,8,10] The arrested men are Md. Sajib (27), son of Md. Abdur Razzaq of Bagdhani village in Paba, and Md. Raihan (20), son of Md. Habibur Rahman of Palpur Dharampur village in Godagari, while the named absconder is 39-year-old Md. Biplab Ali, son of Md. Saidur Rahman of Lakshmipur Dingadoba in Rajpara. [@4,5,7,8,11]
 
-The new account attributes the operation to members of the Rajshahi Metropolitan Police's Upashahar police outpost. [@8,11]
+The new account attributes the operation to members of the Rajshahi Metropolitan Police's Upashahar police outpost. [@8,11,12]
