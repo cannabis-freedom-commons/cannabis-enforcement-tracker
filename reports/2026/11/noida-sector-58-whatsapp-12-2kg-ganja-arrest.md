@@ -139,6 +139,10 @@ open_questions:
   - The Times of India says the arrests were made on Wednesday, which matches 4 November 2026 but is stated indirectly rather than as a date.
   - This account gives no separate date for Manish Kumar Jha's arrest near ESI Colony in Sector 56.
   - No court outcome beyond the arrests and questioning was reported.
+  - The submitted Chetna Manch page's article body could not be quoted after capture, so it is listed as a source for the case without supplying any facts.
+  - ETV Bharat places both arrests near Radisson Cut in Sector-57 on the night of 4 November, while the existing report records Sumit Raghav's arrest at Medicine Cut and Manish Kumar Jha's later arrest near ESI Colony in Sector-56; the existing wording is kept.
+  - This account gives 36 years for Sumit Raghav and 33 for Manish Kumar Jha, matching the existing report.
+  - No court outcome beyond registration of case 385/26 under sections 8/20 of the NDPS Act was reported for this step.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335
@@ -182,7 +186,7 @@ from Manish. [@1,3,6,7,8] Police also seized a Splendor motorcycle, two mobile p
 and 42 printed packets used for packing the ganja. [@1,3,9,13]
 
 The accused packed ganja in 25 to 30 gram packets placed inside packets bearing
-online delivery companies' names to avoid suspicion during delivery. [@1,8,9,13] Police
+online delivery companies' names to avoid suspicion during delivery. [@1,2,8,9,13] Police
 said Manish works as a technical engineer. [@1,4,7,8,12] Questioning also named another
 associate, Amit, who is already jailed in Guwahati, Assam, in a
 ganja-trafficking case. [@1,3,8,13] Police registered case number 385/26 under sections
@@ -204,3 +208,5 @@ Police said the man worked as a technical engineer at Delhi airport and had ganj
 Police arrested the technical engineer and his associate together on Wednesday night. [@11] Sumit told police he received 200 to 250 rupees for each delivery. [@11] Police said they found no criminal history for either of the two arrested men. [@11] Police said other people were involved in moving ganja from northeastern states to Delhi-NCR and that teams were working to trace them. [@11]
 
 The small packets were allegedly prepared in advance before distribution. [@12] Police are examining the seized mobile phones to identify other people connected to the network. [@12]
+
+ETV Bharat reports that the printed packets found in Sumit Raghav's bag bore the words Amazon-in. [@2] DCP Noida Preeti Yadav told reporters that Manish Kumar Jha was the mastermind of the network. [@2] ETV Bharat reports police as saying both men were arrested near Radisson Cut in Sector-57 on the night of 4 November 2026. [@2]
