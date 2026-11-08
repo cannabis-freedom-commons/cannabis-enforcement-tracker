@@ -32,6 +32,11 @@ sources:
     publisher: Chattogram Pratidin
     date: 2026-11-08
     language: bn
+  - title: গাঁজাসহ রোহিঙ্গা মা-ছেলে গ্রেফতার
+    url: https://www.newszonebd.com/news/99352/%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%AE%E0%A6%BE-%E0%A6%9B%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0
+    publisher: Newszonebd
+    date: 2026-11-09
+    language: bn
 open_questions:
   - No second published account of the 8 November arrest was found; the SRB-7 media site had not posted the release and the battalion's Facebook post could not be opened.
   - The only account reproduces the SRB-7 press release, so the account, the 15 kg figure and the 150,000 taka valuation are the battalion's own.
@@ -51,6 +56,8 @@ open_questions:
   - The page photo is captioned only 'রোহিঙ্গা' (Rohingya) and carries no credit confirming it shows the arrested pair or the seized ganja, so no media entry is listed.
   - The article names no charges, no case filing and no remand or court appearance.
   - This account also reports that the two tried to flee with two shoulder bags on the Chattogram-bound side of the Baroiyarhat Bazar road, that the 15 kg was wrapped in three bundles, and that the pair and the ganja were handed to Jorarganj police station; those Bengali passages did not pass the quotation check in this session, so they were left out.
+  - Newszonebd carries no byline beyond a news desk and reproduces the SRB-7 release, so it gives no independent confirmation of the account, the 15 kg figure or the valuation.
+  - The report states that the pair carried two shoulder bags and that the 15 kg was wrapped in three bundles; no other account confirms those details.
 ---
 
 Officers of SRB-7, Chattogram detained two Rohingya residents of a registered
@@ -59,4 +66,6 @@ Mirsharai, on the morning of Sunday 8 November 2026. [@1]
 
 The release put the street value of the ganja at 150,000 taka. [@1,2]
 
-In preliminary questioning the two said they had long bought ganja cheaply in border areas of Feni and Chattogram and sold it at higher prices to traffickers and users in Cox's Bazar. [@2]
+In preliminary questioning the two said they had long bought ganja cheaply in border areas of Feni and Chattogram and sold it at higher prices to traffickers and users in Cox's Bazar. [@2,3]
+
+SRB-7 put the estimated market value of the seized ganja at 150,000 taka. [@3]
