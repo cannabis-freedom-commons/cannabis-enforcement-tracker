@@ -63,6 +63,11 @@ sources:
     publisher: PriamurMedia
     date: 2026-11-07
     language: ru
+  - title: Амурчанин с коноплей в чужом авто пытался скрыться от полиции, но угодил в ДТП
+    url: https://worldinform.ru/articles/id-amurchanin-s-konoplei-v-chuzhom-avto-pytalsja-skrytsja-ot-policii-no-ugodil-v-dtp.html
+    publisher: The World Inform
+    date: 2026-11-07
+    language: ru
 open_questions:
   - Only the night of 31 August is given for the collection and the crash; the report gives no separate date for the arrest or the confession the next day.
   - The weight is stated as more than 4.5 kilograms, so 4.5 kg is used as a floor figure.
@@ -74,11 +79,11 @@ open_questions:
 
 Investigators in Svobodnensky district, Amur Oblast, finished their inquiry into
 a 38-year-old resident of the settlement of Orliny and sent his case to court.
-[@1] The Amur Oblast interior ministry said the man was driving a borrowed
+[@1,4] The Amur Oblast interior ministry said the man was driving a borrowed
 Toyota Mark II in the night of 31 August when he passed a pond near the village
 of Novoivanovka. [@1] Police said he spotted wild-growing cannabis by the
 roadside and gathered it for his own use, putting the plants in the boot to dry
-at home. [@1]
+at home. [@1,4]
 
 Seeing a traffic police patrol car with its lights on, he tried to flee, lost
 control, slid into a ditch, abandoned the car and ran home. [@1] Officers of the
@@ -88,10 +93,9 @@ the passport he had left behind. [@1]
 
 The man came to the police voluntarily the next day and made a written
 confession, and examination identified the seized material as marijuana weighing
-more than 4.5 kilograms, a large quantity under Russian law. [@1] He admitted
+more than 4.5 kilograms, a large quantity under Russian law. [@1,4] He admitted
 guilt and repented during the inquiry, was placed under a written undertaking
 not to leave his place of residence, and the case file was sent to court. [@1]
 He is being prosecuted under part 2 of article 228 of the Criminal Code, which
 covers unlawful storage of drugs on a large scale. [@2] PriamurMedia reported
 that the man had previously faced criminal liability. [@3]
-
