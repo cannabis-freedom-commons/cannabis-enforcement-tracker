@@ -57,19 +57,25 @@ sources:
     url: https://abc7.com/post/george-retes-army-veteran-detained-ventura-county-immigration-raid-sues-federal-government/18621900/
     publisher: ABC7 Los Angeles (KABC)
     date: 2026-02-20
+  - title: Immigration agents release Army veteran detained during Camarillo farm raid
+    url: https://www.cbsnews.com/losangeles/news/immigration-agents-release-army-veteran-detained-during-camarillo-farm-raid/
+    publisher: CBS News Los Angeles
+    date: 2025-07-16
 open_questions:
   - 'Retes'' age differs between accounts: a Southern California News Group caption called him a 20-year-old from Ventura, while other reporting describes an Iraq veteran and father.'
   - 'Whether any charge was ever filed is contested: Retes and his lawyers say none was, while Homeland Security says CBP arrested him for assault; no charging document was published in the opened sources.'
   - The number of people detained differs between accounts, with Courthouse News reporting about 319 and Southern California News Group reporting about 200 immigrant arrests during the raid; the report uses Courthouse News' figure.
   - The individual federal officers sued are unnamed, and no court had ruled on the claims when the lawsuit was reported.
   - No date is given for the video the lawyers cite as refuting Homeland Security's version.
+  - This CBS News account gives Retes' age as 25, while the existing report notes a Southern California News Group caption calling him 20; neither is resolved.
+  - CBS reports more than 300 immigrants arrested across the Camarillo farm and another facility in Carpinteria, while the existing report uses the 319 figure; the page gives no breakdown between the two sites.
 ---
 
 George Retes Jr., a U.S. citizen and Iraq combat veteran who worked as a
 security guard at a licensed cannabis farm near Camarillo, sued U.S. Immigration
 and Customs Enforcement and other federal agencies on 18 February 2026 over his
 arrest during the farm's July 2025 raid, and said he was held for three days
-without seeing a judge or being charged. [@1] Retes said in the complaint that
+without seeing a judge or being charged. [@1,6] Retes said in the complaint that
 on 10 July 2025 he drove to his shift at the farm and found the road blocked by
 U.S. agents. [@1] According to the lawsuit, some officers ordered him to leave
 while others ordered him out of his car, then officers engulfed his vehicle in
@@ -106,3 +112,4 @@ Security's account. [@1] Retes told reporters outside the federal courthouse in
 Los Angeles that he was pursuing the case out of principle rather than anger.
 [@5]
 
+CBS News reported that Retes, 25, served in the Army for four years and deployed to Iraq, and was released after the detention. [@6]
