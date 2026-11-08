@@ -42,6 +42,9 @@ open_questions:
   - Thai sources name the owner as Moshe; Khaosod English on 20 March gives his age as 31 but not his surname.
   - Khaosod reports this was a second raid after a January 2026 nominee investigation and 60-day licence suspension; Siam News focuses on the March operation only.
   - The exact weight of each extract type (kief, hash, moonrock) was not itemised in the sources opened.
+  - Ynetnews reports the arrest of the Israeli owner only, while the existing report records five arrests including four Thai nominees; the difference may reflect Ynetnews focusing on the Israeli national.
+  - Ynetnews gives the seizure as more than 29 kilograms of cannabis extracts, while the existing report gives 29.84 kg from Khaosod English; the figures are consistent but the precise measured total comes from the earlier sources.
+  - The raid occurred on a Friday before the 16 March publication date, understood to be 13 March 2026 in line with the existing report; Ynetnews does not give the calendar date of the raid.
 sources:
   - title: ป.ป.ส. ทลายเครือข่ายต่างชาติลักลอบผลิตสารสกัดกัญชาความเข้มข้นสูง ยึดทรัพย์ 3 ล้านบาท
     url: https://www.siamnews.com/news/crime/40651
@@ -54,6 +57,10 @@ sources:
     archived: https://web.archive.org/web/20260321113028/https://www.khaosodenglish.com/news/2026/03/20/krabi-police-seize-drugs-cache-of-weapons/
     publisher: Khaosod English
     date: 2026-03-20
+  - title: Israeli man arrested in raid on cannabis production plant in Thailand
+    url: https://www.ynetnews.com/article/bjxqygi5ze
+    publisher: Ynetnews
+    date: 2026-03-16
 media:
   - kind: photo
     url: https://www.khaosodenglish.com/news/2026/03/20/krabi-police-seize-drugs-cache-of-weapons/
@@ -61,21 +68,28 @@ media:
     media_url: https://www.khaosodenglish.com/wp-content/uploads/2026/03/Krabi-police-seize-drugs-cache-of-weapons.jpg
     publisher: Khaosod English
     caption: Seized drugs and weapons displayed at a Krabi press conference including cannabis extracts from the March raids.
+  - kind: photo
+    url: https://www.ynetnews.com/article/bjxqygi5ze
+    media_url: https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/03/16/BkYnMdScWl/BkYnMdScWl_0_0_1280_720_0_x-large.jpg
+    publisher: Ynetnews
+    caption: 'Police raid on the cannabis production plant in Krabi. Photo: Krabi Police'
 ---
 
 Thailand's Office of the Narcotics Control Board Region 8, with Krabi provincial police, tourist
 police, forensic officers and public health staff, searched a cannabis farm in Krabi province on
-12 and 13 March 2026. [@1,2] At Cannazon Co. in Sai Thai subdistrict they detained an Israeli
+12 and 13 March 2026. [@1,2,3] At Cannazon Co. in Sai Thai subdistrict they detained an Israeli
 owner identified as Moshe and four Thai shareholders accused of acting as nominees, and charged
 them over extracts whose laboratory THC readings reached 77%, far above the 0.2% threshold that
 makes concentrates Category 5 narcotics. [@1,2]
 
 On 13 March officers returned and seized additional extracts including kief, hash and moonrock,
-then froze assets and bank accounts worth about 3 million baht. [@1] Khaosod English, summarising
+then froze assets and bank accounts worth about 3 million baht. [@1,3] Khaosod English, summarising
 a later briefing, said the premises had been raided before in January over nominee shareholding and
 a suspended sales licence, and that investigators believed the operator had resumed after bail,
-selling extracts for 250–500 baht per gram locally and online. [@2] That report put the cannabis
-extract seized in the wider March crackdown at 29.84 kg. [@2]
+selling extracts for 250–500 baht per gram locally and online. [@2,3] That report put the cannabis
+extract seized in the wider March crackdown at 29.84 kg. [@2,3]
 
 Five people were arrested in the Cannazon action covered here; the sources opened give no further
 court outcomes. [@1,2]
+
+The Israeli business owner arrested in the raid was 31 years old. [@3]
