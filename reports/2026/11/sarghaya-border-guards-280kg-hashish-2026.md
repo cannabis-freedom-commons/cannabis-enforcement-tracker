@@ -138,6 +138,10 @@ sources:
     publisher: Libnanews
     date: 2026-11-08
     language: fr
+  - title: Syria reports seizure of 280 kg of hashish and 28,000 Captagon pills — The National
+    url: https://ua.news/en/dovkolo-svitu/u-siriyi-zaiavili-pro-viluchennia-280-kg-gashishu-ta-28-tisiach-pigulok-kaptagonu-the-national
+    publisher: UA.NEWS
+    date: 2026-11-07
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -179,6 +183,10 @@ open_questions:
   - The page's only image is a generic Lebanon-Syria border photo with no caption linking it to the Sarghaya operation, so no media entry is added.
   - The Libnanews page states its lead photograph is a June 2021 FSI archive photo that does not show the Sarghaya operation, so no media entry is added.
   - The 28,000 Captagon pills are a separate non-cannabis drug and are not counted in cannabis figures.
+  - The UA.NEWS page carries only its 7 November 2026 publication time and no separate incident date; the existing report dates the announcement to Friday 6 November 2026.
+  - The page's only picture is a site image captioned with the headline and credited to no one, so it is not established to show the Sarghaya operation and no media entry is added.
+  - The page reproduces The National's account of the SANA statement, so it adds a further republication rather than independent confirmation of the official figures.
+  - The article also recounts earlier, separate seizures at Jisr al-Qamar and Jdeidet Yabous, which belong to other reports and are not merged here.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
@@ -186,14 +194,14 @@ Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
 the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10,11,14,16,17]
 
 The ministry said the smugglers opened fire on the Syrian force during the
-operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12,13,14,15,16] The gunmen then fled towards
+operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12,13,14,15,16,18] The gunmen then fled towards
 Lebanese territory, the ministry said. [@2,4,6,7,8,9,11,12,13,15,16,17] The state news agency SANA reported
 that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13,14,16,17] The seized items were
-referred to the competent authorities to complete legal procedures. [@1,3,4,11,12,13,14,15]
+confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13,14,16,17,18] The seized items were
+referred to the competent authorities to complete legal procedures. [@1,3,4,11,12,13,14,15,18]
 
 The Defence Ministry media office announced the operation on Friday 6 November
 2026, and SANA published the statement the same evening. [@2,5]
