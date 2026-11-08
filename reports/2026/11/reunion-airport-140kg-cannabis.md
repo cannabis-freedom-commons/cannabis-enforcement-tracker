@@ -78,6 +78,11 @@ sources:
     publisher: Réunion La 1ère
     date: 2026-09-21
     language: fr
+  - title: 'Aéroport Roland Garros : une mule arrêtée avec 17kg de cocaïne et 35 kg de résine de cannabis'
+    url: https://www.linfo.re/la-reunion/faits-divers/aeroport-roland-garros-une-mule-arretee-avec-35-kg-de-resine-de-cannabis-et-17kg-de-cocaine
+    publisher: LINFO.re
+    date: 2026-09-11
+    language: fr
 open_questions:
   - The sources do not say whether the British woman or the Guianese man was charged, tried or sentenced.
   - The customs page is dated 15 September 2026, while Imaz Press dates the communiqué to 21 September 2026; the seizure dates of 9 and 10 September are consistent across sources.
@@ -90,6 +95,9 @@ open_questions:
   - The new account dates the sentencing hearing to 28 October 2026, while the existing report uses the 3 November 2026 publication date as the incident date.
   - The reported 2,389,200-euro total covers cannabis resin and cocaine together, so no cannabis-only value can be recorded.
   - The page's only image is captioned as the Saint-Denis judicial court building and is not shown to depict the seizure, so no media entry is included.
+  - LINFO.re gives the cannabis resin as 35 kg and the cocaine as 17 kg, while Imaz Press and the existing report give 37 kg and 15 kg; the existing figures are kept and the difference noted.
+  - LINFO.re does not say whether this traveller was the man later sentenced to five years in October 2026; the matching date, Paris origin and record description suggest the same case, and the existing report records that sentence.
+  - The submitted page's only image is captioned as an airport drug mule picture and is not established to show this seizure, so no media entry is included from it.
 media:
   - kind: photo
     url: https://www.lequotidien.re/article/faits-divers/2026/11/03/sur-le-top-10-vous-etes-numero-1
@@ -126,9 +134,9 @@ Less than 24 hours earlier, officers intercepted 17 kg of Thai cannabis herb on
 a British woman who had flown via Chennai. [@1,9] She was placed in police custody
 at the Saint-Denis territorial judicial police service. [@4] On 10 September a
 young man from French Guiana arriving from Paris was arrested at Roland-Garros
-airport with more than 50 kg of drugs. [@5,6,7] He was carrying 37 kg of cannabis
+airport with more than 50 kg of drugs. [@5,6,7,10] He was carrying 37 kg of cannabis
 resin and 15 kg of cocaine. [@5,6,7,9] The authorities called the haul the largest
-seizure ever made from a passenger in Réunion. [@5,7]
+seizure ever made from a passenger in Réunion. [@5,7,10]
 
 Le Quotidien put the Thai cannabis total at nearly 157 kg, the 140 kg cargo haul
 plus the 17 kg courier seizure. [@3] The week's haul also included 37 kg of
@@ -141,3 +149,5 @@ statement with the phrase « Pa ter là ! », which it translated as 'not here'.
 The prosecutor requested six years in prison, continued detention and a five-year ban from Réunion. [@6,7] The court found Justin M. guilty and sentenced him to five years in prison, with continued detention and a five-year ban from staying in Réunion. [@6,7]
 
 The seized drugs were given a combined estimated total of 2,389,200 euros, with a 4,800-euro business-class ticket and a promised 8,000-euro payment. [@7] The hearing placed the sentencing on 28 October 2026. [@7] Thai customs officers intercepted him at departure for Réunion, confiscated the goods and let him continue, for an operation in which he said he was to receive 9,000 euros. [@7]
+
+The prefect of Réunion, Patrice Latron, said about fifty mules had been arrested on the island over the previous year and that the trend had not weakened. [@10] He said travellers were now arriving from almost every destination served by the island's airlines, especially from Thailand, which he described as having liberalised cannabis use. [@10]
