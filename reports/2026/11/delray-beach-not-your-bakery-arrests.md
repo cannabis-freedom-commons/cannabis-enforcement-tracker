@@ -78,6 +78,8 @@ open_questions:
   - The 11 counts are listed as five money laundering, fraud and related counts held without bond plus six other counts; the article does not itemise all 11.
   - The article says only that Ives was arrested on Friday; 6 November 2026 is used for that date, while the existing report keeps its 7 November incident date based on BocaNewsNow's account and publication.
   - The article gives only that Ives was arrested on Friday; no separate date is given for the arrest, and the existing report dates the incident to 7 November based on BocaNewsNow's account.
+  - The CBS12 gallery page gives no separate date for Ives' arrest; it says only that he was arrested Friday, and 6 November 2026 is inferred from the 8 November publication date.
+  - The gallery captions show a photo credited to the Palm Beach County Sheriff's Office and WPEC and two company screenshots, but the arrests photo cannot be identified as Ives from its caption alone.
 ---
 
 Four people are suspects in the investigation. [@1] Hassan Mohamed Soueid and
@@ -117,3 +119,5 @@ Michael Carey Ives, 33, the CEO of Delray Beach hemp company Not Your Bakery LLC
 Investigators allege Not Your Bakery generated more than $32 million in criminal proceeds during 2024 and 2025 while reporting significantly less revenue to the state. [@6] Financial records showed about $4.2 million transferred from Not Your Bakery to Carey Ives LLC, which Ives owns, plus nearly $969,000 paid directly to him. [@6] The investigation began in 2024 after deputies intercepted shipments containing high-potency THC products, and undercover purchases and laboratory tests showed products with THC above Florida's legal hemp limit, investigators said. [@6]
 
 Ives and co-defendant Casey Anne Smith bought a $1.2 million Boynton Beach home in 2024, according to the affidavit. [@6] Investigators also identified a $340,000 property interest in Briny Breezes and a $369,000 property purchase in Costa Rica. [@6] Investigators cited a January 2025 text in which Ives claimed the business had generated $2 million in sales in a single month. [@6]
+
+According to the Palm Beach County Sheriff's Office probable-cause affidavit, Ives faces 11 charges, including using a communication device to facilitate a felony. [@6] Investigators alleged the money helped fund a lavish lifestyle including real estate, vehicles and a boat. [@6] In a January 2025 text cited in the affidavit, Ives wrote "Who knew we could pick up the phone and sell weed nationwide one day lol". [@6]
