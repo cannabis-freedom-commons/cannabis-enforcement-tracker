@@ -41,6 +41,11 @@ sources:
     publisher: এইমাত্র (Eimattro)
     date: 2026-11-08
     language: bn
+  - title: জয়পুরহাটে মাদকবিরোধী অভিযানে বিপুল পরিমাণ ইয়াবা ও গাঁজাসহ গ্রেপ্তার ১
+    url: https://rajshahirsomoy.com/20151
+    publisher: Rajshahir Somoy
+    date: 2026-11-08
+    language: bn
 open_questions:
   - Only one accessible source for this raid was found after searching in Bengali and English; no second outlet or separate police statement could be opened.
   - The 7,579 yaba tablets and 99 bottles of Phensedyl syrup are not cannabis and are excluded from the cannabis figures; only the 4 kg 200 g of ganja is recorded.
@@ -48,6 +53,10 @@ open_questions:
   - No charge sheet, case number, court date or court outcome was reported; the suspect was handed to police for further legal action.
   - The page's lead photo carries no credit and no caption beyond the headline, so it is not established to show this seizure and no media entry is included.
   - The yaba figure is printed with a space splitting the number and is read as 7,579 tablets.
+  - The submitted page names the raiding unit as Rab-5, CPC-3, Joypurhat camp and gives a 5:50 am start on 7 November, while the Eimattro account attributes the raid to SRB-5 in the evening; the two accounts do not agree on the unit's name or the time.
+  - The submitted page does not itself say a case was filed; that wording comes from the Eimattro account of the same raid.
+  - The submitted page and the Eimattro account spell the syrup name and the suspect's family village differently, so the report keeps the Sardarpara place both accounts name for the raid.
+  - 'Left out, as its quotation was not found in এইমাত্র (Eimattro): An Eimattro report of the same raid said a case was filed against him at the police station under the Narcotics Control Act.'
 ---
 
 Special Response Battalion-5 arrested a man described as a known drug trader in
@@ -61,3 +70,4 @@ the Sardarpara area of Joypurhat municipality. [@1] SRB-5's media cell in
 Rajshahi confirmed the raid in a press release sent at midday on Sunday 8
 November. [@1]
 
+Officers seized a motorcycle, a laptop and three mobile phones as well as the drugs, in the same raid. [@2] The drugs and other items were seized in the presence of neutral witnesses according to procedure. [@2] The arrested man and the seized items were handed to Joypurhat Sadar police station for further legal action. [@2]
