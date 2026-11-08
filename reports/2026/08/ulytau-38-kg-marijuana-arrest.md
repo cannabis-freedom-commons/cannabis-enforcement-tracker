@@ -52,23 +52,30 @@ sources:
     publisher: Polisia.kz
     date: 2026-08-25
     language: ru
+  - title: 38 кг марихуаны изъяли у подозреваемого в области Ұлытау
+    url: https://www.inform.kz/ru/38-kg-marihuani-izyali-u-podozrevaemogo-v-oblasti-ulitau-585855b9
+    publisher: Kazinform
+    date: 2026-08-26
+    language: ru
 open_questions:
   - No separate date for the detention and search was published; 25 August 2026 is the publication date of both sources and is used as the incident date.
   - The exact settlement or place of the detention and search within Ulytau Region was not reported.
   - No court outcome was reported; charges and the suspect's identity were not published and the pre-trial investigation was still under way.
+  - The new item was published on 26 August 2026, one day after the two sources already cited in the report, and gives no separate date for the detention and search; 25 August 2026 remains the incident date.
+  - The new item attributes its account to Polisia.kz, the agency source already cited in the report, so it is not independent reporting.
+  - The page shows a photo credited to Polisia.kz; the report already lists the Polisia.kz handout photo of the seizure, so no new media entry is added to avoid duplicating the same agency handout.
 ---
 
 Officers of the anti-drug unit of the Ulytau Region police department detained a
-local resident suspected of involvement in drug trafficking. [@1] The detained
-suspect was placed in a temporary detention facility. [@1]
+local resident suspected of involvement in drug trafficking. [@1,3] The detained
+suspect was placed in a temporary detention facility. [@1,3]
 
-During a search, officers seized 38 kg of marijuana. [@1] Officers also found a
-double-barreled shotgun and ammunition during the same search. [@1]
+During a search, officers seized 38 kg of marijuana. [@1,3] Officers also found a
+double-barreled shotgun and ammunition during the same search. [@1,3]
 
 The operation was carried out as part of the national anti-drug operation
-Karasora-2026. [@2] According to preliminary police information, the drugs had
+Karasora-2026. [@2,3] According to preliminary police information, the drugs had
 been brought to Ulytau Region from the southern regions of the country for
-subsequent sale. [@1] A pre-trial investigation is under way to establish the
+subsequent sale. [@1,3] A pre-trial investigation is under way to establish the
 source of the consignment, its transport routes and other people who may have
-been involved. [@1]
-
+been involved. [@1,3]
