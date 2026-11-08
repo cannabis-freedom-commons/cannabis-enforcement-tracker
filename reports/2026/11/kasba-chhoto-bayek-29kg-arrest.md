@@ -66,6 +66,11 @@ sources:
     publisher: Daily Jaijaidin
     date: '2026-11-04'
     language: bn
+  - title: কসবায় ২৯ কেজি গাঁজাসহ একজন গ্রেপ্তার
+    url: https://bn.thefinancialpostbd.com/news/18902
+    publisher: The Daily Financial Post
+    date: 2026-11-04
+    language: bn
 open_questions:
   - Only one accessible source for this event was found after searching in Bengali and English.
   - No estimated value of the seized ganja was published.
@@ -80,6 +85,8 @@ open_questions:
   - >-
     The submitted page carries an image file, but its caption and credit do not establish that it shows this
     seizure, so no media entry is included.
+  - The Financial Post does not state the case number or any court outcome beyond confirmation that a Narcotics Control Act case was filed.
+  - The page photo is captioned only as a collected image with no credit and is not confirmed to show this seizure, so it is not listed as media.
 ---
 
 Kasba police arrested Jamal Mia after recovering 29 kilograms of ganja from his house in Chhoto Bayek Madhyapara. [@1,2,3,4]
@@ -87,12 +94,12 @@ Kasba police arrested Jamal Mia after recovering 29 kilograms of ganja from his 
 Kasba police arrested one man, Md. Jamal Mia, after recovering 29 kg of ganja in
 an anti-drug operation. [@2,4] Mia is from Chhoto Bayek Madhyapara village and is
 the son of the late Tajul Islam. [@2,4] A second account gives his age as 48 and
-names his late parents. [@3]
+names his late parents. [@3,5]
 
 The operation took place at around 4:30am on Wednesday, 4 November, in the
 Chhoto Bayek Madhyapara area of Bayek Union. [@2,4] Acting on secret information,
 officers searched Jamal Mia's dwelling house and found 29 kg of ganja in his
-possession. [@3] Police prepared a seizure list before witnesses present and
+possession. [@3,5] Police prepared a seizure list before witnesses present and
 seized the drug through legal process. [@3] The police team was led by
 Sub-Inspector Md. Abdur Rahim of Kasba Police Station. [@3,4]
 
