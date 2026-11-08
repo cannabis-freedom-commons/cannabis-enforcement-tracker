@@ -48,6 +48,9 @@ open_questions:
   - Prensa Latina says three tonnes of marijuana were held at the San Jose site and more than three tonnes in Canelones, which together would exceed its own stated 4,500 kg total, so no site breakdown is added as a new figure.
   - Infobae gives the cannabis seizure as 'más de 4.500 kilos' in its lead and 4.434 kilos in its body, while the report keeps the Interior Ministry's 4,433.65 kg.
   - Infobae describes the laboratory site as a chacra near Juan Soler but does not state which of the four searched properties the Canelones ones were.
+  - 'The la diaria article is paywalled: only its opening paragraphs and a fragment citing the convicted person''s hemp company in Florida were readable, so the reported link between that industrial hemp business and the illegal hashish production could not be verified in full.'
+  - la diaria reports 4,500 kilos of plant material, the rounded figure the Interior Ministry and other outlets also used initially; the report keeps the final official count of 4,433.65 kg.
+  - Teledoce describes the detainees' explanation as their own account, and no report says whether investigators accepted it.
 sources:
   - title: Incautan más de 4.400 kilos de droga y desmantelan laboratorio de procesamiento de hachís
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/incautan-4400-kilos-droga-desmantelan-laboratorio-procesamiento-hachis
@@ -68,6 +71,16 @@ sources:
     url: https://www.infobae.com/america/america-latina/2025/12/10/desmantelan-en-uruguay-laboratorio-que-producia-hachis-para-vender-en-brasil-e-incautan-4400-kilos-de-marihuana/
     publisher: Infobae
     date: 2025-12-10
+    language: es
+  - title: Incautación de hachís develó proceso de producción en Uruguay para exportación
+    url: https://ladiaria.com.uy/justicia/articulo/2025/12/incautacion-de-hachis-develo-proceso-de-produccion-en-uruguay-para-exportacion/
+    publisher: la diaria
+    date: 2025-12-13
+    language: es
+  - title: Policía incautó más de 4,4 toneladas de cannabis en allanamientos en San José y Canelones
+    url: https://www.teledoce.com/telemundo/policiales/policia-incauto-mas-de-44-toneladas-de-cannabis-en-allanamientos-en-san-jose-y-canelones
+    publisher: Teledoce
+    date: 2025-12-09
     language: es
 media:
   - kind: photo
@@ -98,12 +111,12 @@ media:
 ---
 
 Uruguay's Operation Midas ended on 7 December 2025 with four search warrants at a chacra near Juan
-Soler in San José and three rural properties in Canelones. [@1,2,3,4] Police seized 4,433.65 kg of
+Soler in San José and three rural properties in Canelones. [@1,2,3,4,5] Police seized 4,433.65 kg of
 cannabis material and 46.52 kg of hashish resin from a clandestine processing laboratory, along
-with vehicles, steel towers and dry-ice packaging used in production. [@1,2,3,4]
+with vehicles, steel towers and dry-ice packaging used in production. [@1,2,3,4,6]
 
 Two Uruguayans and two Brazilians were detained; prosecutors said the hashish was destined for
-Brazil's illegal market. [@1,2,3,4] On 9 December the Interior Ministry reported abbreviated sentences:
+Brazil's illegal market. [@1,2,3,4,6] On 9 December the Interior Ministry reported abbreviated sentences:
 one Brazilian received three years in prison for aggravated conspiracy, production and importing
 drugs; another Brazilian two years for conspiracy and production; and two others 24 and 18 months on
 probation with partial house arrest and community work. [@1,2,3,4]
@@ -114,3 +127,5 @@ imports through the Chuy border used for hashish production inputs. [@1,2,3,4]
 ---
 
 The Brazilian detainee who supervised production was studying biochemistry, Julio Sena, head of investigations at the National Police, said at a press conference on 9 December. [@4] Sena said investigators had found no indication so far linking Operation Midas to earlier hashish hauls, including 750 kg seized in three June operations thought to involve Brazil's First Capital Command. [@4]
+
+At the Juan Soler site police took 1,194.39 kg of marijuana in various forms and 46.52 kg of a viscous brown substance identified as cannabis resin, and in Canelones 3,192.74 kg of plant material. [@6] The four people detained at Juan Soler said they were making cannabis oil for purportedly therapeutic use rather than hashish, but had no state authorization. [@6] The presence of butane gas led investigators to the site and suggested the resin was extracted on the property rather than imported ready-made. [@6]
