@@ -162,6 +162,11 @@ sources:
     publisher: Thestival
     date: 2026-11-05
     language: el
+  - title: 'Θεσσαλονίκη: Δύο δέματα με περισσότερα από 7 κιλά skunk είχαν παραλήπτη ανήλικο | ΣΚΑΪ'
+    url: https://www.skai.gr/news/greece/thessaloniki-dyo-demata-me-perissotera-apo-7-kila-skunk-eixan-paralipti-aniliko
+    publisher: Skai.gr
+    date: 2026-11-04
+    language: el
 open_questions:
   - The reports date the arrest to Tuesday and yesterday morning relative to 4 November, taken as 3 November 2026; no separate incident time was stated.
   - The reports name only Thessaloniki, with no street address or courier-branch location for the arrest or storage rooms.
@@ -207,10 +212,10 @@ open_questions:
 ---
 
 Police in Thessaloniki arrested a 16-year-old foreign boy after he collected a
-mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16,17,18,19,20,21,22,23,24] He is accused of violating drugs and
+mailed parcel containing cannabis. [@1,3,5,6,9,12,14,16,17,18,19,20,21,22,23,24,25] He is accused of violating drugs and
 foreigners legislation. [@1,3,8,14,22] Officers also arrested the boy's mother for
 neglecting his supervision, then released her on a prosecutor's verbal order.
-[@2,4,5,6,7,8,9,12,13,14,15,16,18,19,20,22,23,24] Police said the boy had previously faced similar offences and will be taken
+[@2,4,5,6,7,8,9,12,13,14,15,16,18,19,20,22,23,24,25] Police said the boy had previously faced similar offences and will be taken
 to the competent prosecutor. [@1,3,5,6,7,8,9,12,13,14,17,18,19,20,21,22,23]
 
 A controlled-delivery parcel held four nylon packs of hydroponic skunk weighing
