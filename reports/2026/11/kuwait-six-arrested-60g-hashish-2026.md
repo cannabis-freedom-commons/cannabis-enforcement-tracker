@@ -87,6 +87,11 @@ sources:
     publisher: Al Rai
     date: 2026-11-08
     language: ar
+  - title: ضبط 6 متهمين في 4 قضايا بحوزتهم مواد مخدرة للاتجار والتعاطي - جريدة الجريدة الكويتية
+    url: https://www.aljarida.com/article/149970
+    publisher: جريدة الجريدة الكويتية
+    date: 2026-11-08
+    language: ar
 open_questions:
   - The articles give no separate date for the arrests; 1 November 2026 is the publication date.
   - Alseyassah reports two sensitive scales while Arab Times reports one precision scale; the report uses neither figure for a disputed count.
@@ -99,22 +104,24 @@ open_questions:
   - The Madhyamam page image is captioned only with the general headline and is not established to show this seizure, so no media entry is included.
   - The Kuwait News item was published on Sunday 8 November 2026 and says only that the ministry issued the statement "today"; no separate date for the arrests was given, consistent with the earlier coverage.
   - The submitted page is dated 8 November 2026 while the existing report dates the same ministry statement to 1 November 2026; the identical seizure figures indicate republication rather than a new operation, and no separate date for the arrests was given.
+  - Aljarida dates this page 8 November 2026 while the report dates the same ministry statement to 1 November 2026; the identical seizure figures show republication, and the page gives no separate date for the arrests.
+  - The page's two photographs carry no caption or credit identifying what they show, so they are not listed as media.
 ---
 
 Kuwait's General Department for Drug Control arrested six suspects in four
 separate drug cases involving narcotics and psychotropic substances for alleged
-trafficking and use. [@1,3,4,5,6,8,9] The Interior Ministry said the arrests were part of
+trafficking and use. [@1,3,4,5,6,8,9,10] The Interior Ministry said the arrests were part of
 ongoing security efforts against drugs and those involved in them. [@2] The
 suspects and the seized items were referred to the competent authorities for
-legal action. [@1,3,4,5,7,8,9]
+legal action. [@1,3,4,5,7,8,9,10]
 
 Officers seized 60 grams of hashish, the only cannabis product named in the
-haul. [@1,3,4,5,6,8,9] The same operations also seized 410 grams of shabu, identified by
+haul. [@1,3,4,5,6,8,9,10] The same operations also seized 410 grams of shabu, identified by
 Arab Times as methamphetamine, and 175 sheets of paper soaked in liquid
-chemical, which are not counted as cannabis here. [@2] The chemical sheets were
+chemical, which are not counted as cannabis here. [@2,10] The chemical sheets were
 listed separately from the hashish, with Arab Times reporting 175 sheets of
 paper soaked in a chemical liquid alongside 60 grams of hashish. [@2]
 
 Officers also seized 540 Kuwaiti dinars described as proceeds of drug sales and
-precision scales. [@2] Alseyassah reported two sensitive scales while Arab Times
+precision scales. [@2,10] Alseyassah reported two sensitive scales while Arab Times
 reported one precision weighing scale. [@1]
