@@ -77,6 +77,11 @@ sources:
     publisher: Pieria24
     date: 2026-11-07
     language: el
+  - title: '"Σκούπα" της ΕΛ.ΑΣ. στην Πελοπόννησο με 21 συλλήψεις'
+    url: https://www.policenet.gr/article/skoypa-tis-elas-stin-peloponniso-me-21-syllipseis
+    publisher: PoliceNET of Greece
+    date: 2026-11-08
+    language: el
 open_questions:
   - The nine people held on drug charges are counted as charged because police said they would be taken to the local prosecutors; no formal charges or court outcome were reported.
   - The Messinia amount of cannabis is described only as a very small quantity, so it adds nothing to the 14.27 gram total from Argolida and Corinthia.
@@ -93,15 +98,17 @@ open_questions:
   - The article gives no separate cannabis weight, so the existing 14.27 gram cannabis total is unchanged.
   - The page carries two photos with the same headline as caption and no credit, so neither is confirmed to show this sweep and no media entry is added.
   - The article says it was created with the site's AI mechanism and fully assembled by automated software, so figures are used only where they match the existing police-statement account.
+  - The police statement itself is now cited, but it gives no names, ages or nationalities for the drug suspects beyond their status as Greek or foreign nationals.
+  - The statement gives no date for the individual arrests within the 3–6 November 2026 span of the operations.
 ---
 
 Police in Argolida, Arcadia, Corinthia and Messinia arrested 21 people during a
 sweep that ran from 3 to 6 November 2026. [@1,4,5,6,7] Nine of the 21 arrests were on
 drug charges: two in Argolida, three in Corinthia and three in Messinia, all of
-them Greek nationals. [@1] Police also brought 38 people in for questioning and
-checked 588 people and 417 vehicles. [@1,4,5,7]
+them Greek nationals. [@1,8] Police also brought 38 people in for questioning and
+checked 588 people and 417 vehicles. [@1,4,5,7,8]
 
-Officers seized 5.87 grams of cannabis in Argolida. [@1,5] In Corinthia they
+Officers seized 5.87 grams of cannabis in Argolida. [@1,5,8] In Corinthia they
 seized 8.4 grams of cannabis along with 24.48 grams of heroin, a small amount of
 cocaine, three scales, one mobile phone, one vehicle and 950 euros in cash. [@1,5]
 A small amount of cannabis was also seized in Messinia. [@1,4,5]
