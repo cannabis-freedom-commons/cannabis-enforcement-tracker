@@ -406,6 +406,7 @@ open_questions:
   - The page restates the 5.7 kg weight as dry cannabis without a measured weight and gives no separate value for the dried cannabis alone.
   - The Daily Mail names Norwich Crown Court, matching the report, while several PA syndications of the same hearing name Norfolk Crown Court; the two names remain unresolved in the report's open questions.
   - The Daily Mail does not give the individual sentences, which the report records as three and a half years for Mark Ayres and nine months suspended for Marion Ayres.
+  - The Daily Mail's own account says the sentencing was at Norwich Crown Court, matching the report, while several Press Association syndications of the same hearing name Norfolk Crown Court.
 ---
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown
@@ -444,4 +445,4 @@ The couple, of the Attleborough hamlet Burgh Common, were both arrested after th
 
 Norfolk Constabulary said the couple were sentenced at Norfolk Crown Court on Thursday 5 November 2026. [@58,59]
 
-The 71-year-old, who was listed as the director of multiple companies, then started to sell the drug to others. [@66] He used the former gym in his home to grow cannabis when the disease returned five years later. [@66]
+The 71-year-old, who was listed as the director of multiple companies, then started to sell the drug to others. [@53,66] He used the former gym in his home to grow cannabis when the disease returned five years later. [@66]
