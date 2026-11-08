@@ -32,33 +32,39 @@ sources:
     publisher: 海关发布 via 腾讯新闻
     date: 2026-11-04
     language: zh
+  - title: 1支燃烧过半熄灭的自制卷烟_大麻烟_旅客_植物
+    url: https://www.sohu.com/a/1098696564_121106908
+    publisher: 搜狐网
+    date: 2026-11-08
+    language: zh
 open_questions:
   - The article gives no separate date for the interception; 4 November 2026 is its publication date and is used as the incident date.
   - No arrests, charges or court outcome were reported beyond transfer to the customs anti-smuggling department.
   - The identities of the woman and her two companions were not published beyond the description of a woman in white, and any further action against the companions is unclear.
   - Only one accessible source for this event was found after searching in Chinese and English.
   - The page's content image has only the generic caption 图片 and its embedded video has only a generic player poster caption, so neither is established to show this seizure and no media entry is included.
+  - The submitted page was published on 8 November 2026, four days after the existing report's 4 November 2026 source, and gives no separate interception date beyond近日 and当日.
+  - The page's embedded images carry only generic captions and cannot be established to show this seizure, so no media entry is included.
 ---
 
 Luohu Customs made the seizure in its passenger inbound channel, where officers
-found one cannabis cigarette with a net weight of 0.32 grams. [@1] Officers were
+found one cannabis cigarette with a net weight of 0.32 grams. [@1,2] Officers were
 supervising inbound travelers when a woman in white and two fellow travelers
-entered the customs supervision zone without making voluntary declarations. [@1]
+entered the customs supervision zone without making voluntary declarations. [@1,2]
 The woman repeatedly adjusted her shoulder bag as she walked, which officers
 viewed as abnormal behaviour. [@1] Officers intercepted all three for
 inspection, and when the woman opened her backpack officers smelled a strong
 suspected cannabis odour. [@1] A further search found one half-burned,
-extinguished homemade rolled cigarette inside a candy box in her backpack. [@1]
+extinguished homemade rolled cigarette inside a candy box in her backpack. [@1,2]
 
 A field test showed the cigarette's tobacco was positive for
 tetrahydrocannabinol (THC). [@1] A professional appraisal later found
 tetrahydrocannabinol in the cigarette and confirmed it as cannabis, with a net
 weight of 0.32 grams. [@1] The case was transferred to the customs
-anti-smuggling department for handling. [@1]
+anti-smuggling department for handling. [@1,2]
 
 Customs noted that Chinese law lists cannabis among narcotic drugs alongside
 opium, heroin, methamphetamine, morphine and cocaine and other addictive
 narcotic and psychotropic substances under state control. [@1] It added that
 smuggling, trafficking, transporting or manufacturing narcotics in any quantity
 incurs criminal liability and punishment. [@1]
-
