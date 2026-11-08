@@ -134,6 +134,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-04
     language: hi
+  - title: 'CG ब्रेकिंग : 2 करोड़ का गांजा लावारिस हालत में मिला, तस्करों ने TI को कार से कुचलने की कोशिश, कचरे के ढेर में गांजे की बोरियां फेंककर हुए फरार'
+    url: https://nayabharat.live/cg-breaking-rs-2-crore-ganja-found-in-unclaimed-condition-smugglers-tried-to-crush-ti-with-a-car-dumped-ganja-bags-in-garbage-dump-and-fled/
+    publisher: Naya Bharat Live
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -186,6 +191,10 @@ open_questions:
   - This page writes 70 बोरी (bags/sacks) while the Kanker report records 70 packets; whether the packets were packed inside the sacks remains unresolved.
   - This account puts the haul's value only vaguely in crores of rupees, while the report records about Rs 1.5 crore from other outlets; no exact figure is added.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore.'
+  - This Naya Bharat Live account puts the haul at more than 400 kg of ganja worth more than Rs 2 crore, between the 280 kg and about Rs 1.5 crore reported by other outlets and the 433 kg and Rs 2.23 crore recorded for the later arrest in the case; the difference is unresolved.
+  - The page gives no separate date for the interception or the recovery; 5 November 2026 is its publication date and stands in for the incident date.
+  - The page carries one image, derr.webp, with an empty alt text and no caption or credit tying it to this seizure, so no media entry is added.
+  - The account says Kanker police recovered the sacks on information from villagers, while other accounts cited by the report credit a police informer; the two accounts of the tip are not reconciled.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -212,11 +221,11 @@ The smugglers dumped all 70 packets in bushes by the roadside late at night afte
 
 Keshkal police were chasing the smugglers when Kanker police set up its cordon. [@5]
 
-Smugglers fleeing a police interception late on Tuesday night drove a car at Ritesh Mishra, the station house officer of Keshkal police station, and the car brushed his foot as it passed, injuring his thumb. [@6,8] Police chased the vehicles for about 30 kilometres from Keshkal towards Kanker. [@6,8] Police tried to stop a Toyota Fortuner bringing ganja from Odisha and a pilot Tata Winger accompanying it, and the driver of a Nexon then drove at the station house officer. [@6] Keshkal police later stopped and searched a suspicious vehicle that was returning and released it after finding nothing. [@6] Kanker superintendent of police Nikhil Rakhecha said police had found leads on the vehicles and suspects used in the smuggling and had sent separate teams to arrest them. [@6,8]
+Smugglers fleeing a police interception late on Tuesday night drove a car at Ritesh Mishra, the station house officer of Keshkal police station, and the car brushed his foot as it passed, injuring his thumb. [@6,8,17] Police chased the vehicles for about 30 kilometres from Keshkal towards Kanker. [@6,8,17] Police tried to stop a Toyota Fortuner bringing ganja from Odisha and a pilot Tata Winger accompanying it, and the driver of a Nexon then drove at the station house officer. [@6] Keshkal police later stopped and searched a suspicious vehicle that was returning and released it after finding nothing. [@6] Kanker superintendent of police Nikhil Rakhecha said police had found leads on the vehicles and suspects used in the smuggling and had sent separate teams to arrest them. [@6,8,17]
 
 Police packed the seized ganja into three vehicles and took it to their police station. [@7,11] Police are also trying to identify the consignment's main buyer and the wider network. [@7,11] Several police teams were raiding suspected hideouts in the search for the gang. [@7]
 
-The sacks had been dumped in a garbage heap near a rice mill below Gadia Pahad in Singarbhat. [@6,8] With construction work continuing on the Raipur-Visakhapatnam expressway, smugglers from Odisha were using the old Keshkal-Kanker routes as a new corridor. [@6,8]
+The sacks had been dumped in a garbage heap near a rice mill below Gadia Pahad in Singarbhat. [@6,8] With construction work continuing on the Raipur-Visakhapatnam expressway, smugglers from Odisha were using the old Keshkal-Kanker routes as a new corridor. [@6,8,17]
 
 Ganja worth crores of rupees was found in Kanker, and the smugglers fled. [@9]
 
