@@ -72,6 +72,10 @@ sources:
   - title: More than 1,000 marijuana plants seized during raid in McAlester
     url: https://www.msn.com/en-us/news/other/more-than-1-000-marijuana-plants-seized-during-raid-in-mcalester/ar-AA2gL4uA
     publisher: MSN / News On 6 Tulsa
+  - title: OBN agents seize 1,000 marijuana plants from illegal grow
+    url: https://www.msn.com/en-us/news/other/obn-agents-seize-1-000-marijuana-plants-from-illegal-grow/ar-AA2gL4A9
+    publisher: MSN / KOKH
+    date: 2026-11-04
 open_questions:
   - The article gives no separate date for the search, so 4 November 2026, its publication date, is used as the incident date.
   - The arrested person was not named, and no custody status, formal charges or court outcome were reported.
@@ -85,16 +89,18 @@ open_questions:
   - Oklahoma | mcalesternews.com (McAlester News-Capital) could not be opened again to check its quotations (The browser page answered HTTP 451.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
   - The submitted page is an MSN syndication of the KOKH article, so its text is not independent of the KOKH copy the existing report already cites.
   - The MSN copy gives no calendar date for the search, only a relative age of the story, so it does not settle which day the warrant was served.
+  - The submitted page is an MSN syndication of the KOKH article, so it is not an independent account and adds no new facts beyond the original it reprints.
+  - The MSN copy carries no calendar date for the search, so it does not independently settle the incident date used by the existing report.
 ---
 
 Oklahoma Bureau of Narcotics agents arrested one person during a search at a
-property in McAlester, Oklahoma. [@1,2,3,5,6] Agents served a search warrant at the
+property in McAlester, Oklahoma. [@1,2,3,5,6,7] Agents served a search warrant at the
 property as part of an ongoing investigation into the illegal cultivation of
 marijuana. [@1,2,3,5,6] The property stands just west of Lake McAlester. [@1] The
 arrested person was held on a complaint of aggravated manufacturing of a
 controlled substance. [@1,2,3,5,6]
 
-Investigators seized 1,006 marijuana plants at the property. [@1,2,3,5,6] The Bureau
+Investigators seized 1,006 marijuana plants at the property. [@1,2,3,5,6,7] The Bureau
 described the result as more than 1,000 marijuana plants seized during the
 McAlester search. [@1,2]
 
@@ -105,7 +111,7 @@ stated basis for the enforcement action. [@1] The investigation was continuing
 at the time of publication, and the Bureau said additional arrests were
 possible. [@1,2,3,5,6]
 
-The search occurred in the 600 block of W. Pasture Rd. in McAlester. [@2]
+The search occurred in the 600 block of W. Pasture Rd. in McAlester. [@2,7]
 
 The search warrant was served on Tuesday, 3 November 2026, the day before the account was published. [@2,3]
 
