@@ -52,30 +52,36 @@ sources:
     url: https://krcrtv.com/news/local/siskiyou-county-cracks-down-on-illegal-marijuana-products-over-2000-plants-seized
     publisher: KRCR
     date: 2025-11-25
+  - title: I-5 corridor in Shasta, Siskiyou counties home to big marijuana busts
+    url: https://www.redding.com/story/news/2025/12/15/i-5-corridor-in-shasta-siskiyou-counties-home-to-big-marijuana-busts/87586009007/
+    publisher: Redding Record Searchlight
+    date: 2025-12-15
 open_questions:
   - The exact date of the second stop is not given beyond a few days before Nov. 23, 2025, so Nov. 23 stands in for the combined event.
   - The 1,429-pound figure is reported as over 1,429 pounds, so the kilogram figure is a minimum conversion.
   - No court outcome, formal charges or value estimate were reported.
   - Only one opened source was found; the sheriff's own statement was not opened separately.
   - The page carries a second screenshot image with no caption tying it to the seizures, so it is omitted.
+  - This account dates both stops only to Thanksgiving week and does not give the Nov. 23 date used in the existing report.
+  - This account says the Grenada driver's marijuana came from the Mount Shasta area, while the existing report says Shasta Vista area.
+  - The same article also mentions separate summer seizures of more than 2,500 pounds in May, 1,030 pounds in June and 3,969 pounds at Dunsmuir in July, which are different events left out here.
 ---
 
 The Siskiyou County Sheriff's Office conducted multiple traffic stops that
 resulted in the seizure of illegal marijuana products. [@1] On Nov. 23, 2025, a
 sheriff's deputy stopped a Penske rental box truck for a lighting violation near
-Grenada. [@1] A probable cause search of the Penske truck found 62 trash bags of
-illegal marijuana products weighing over 1,429 pounds. [@1] The sheriff's office
+Grenada. [@1,2] A probable cause search of the Penske truck found 62 trash bags of
+illegal marijuana products weighing over 1,429 pounds. [@1,2] The sheriff's office
 identified the Penske driver as 43-year-old Thibault Charvy of Willits, who said
 the marijuana product had come from the Shasta Vista area. [@1] Charvy was
 arrested for transportation and possession of marijuana for sale and booked in
-the Siskiyou County Jail. [@1]
+the Siskiyou County Jail. [@1,2]
 
 A few days earlier, another deputy pulled over a Home Depot box truck for
-expired registration near the Mount Shasta area. [@1] Deputies identified that
+expired registration near the Mount Shasta area. [@1,2] Deputies identified that
 driver as 46-year-old Qinghai Tan of San Lorenzo, who said he was driving to
 Seattle and transporting illegal items. [@1] When Tan opened the rear door, the
 deputy found 28 boxes of illegal juvenile marijuana plants totaling 2,184
-plants. [@1] Tan had no transportation permits or required paperwork to
+plants. [@1,2] Tan had no transportation permits or required paperwork to
 transport marijuana. [@1] Tan was arrested and cited for the transportation of
-marijuana for sale. [@1]
-
+marijuana for sale. [@1,2]
