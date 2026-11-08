@@ -56,6 +56,11 @@ sources:
     publisher: وكالة الأنباء الأردنية (بترا)
     date: 2026-11-08
     language: ar
+  - title: شقق ومزارع وخيام وتنك سري .. 15 ضربة أمنية تطيح بـ 28 تاجرًا ومروجًا للمخدرات في الأردن - صور
+    url: https://www.sarayanews.com/article/1119701/%D8%B4%D9%82%D9%82-%D9%88%D9%85%D8%B2%D8%A7%D8%B1%D8%B9-%D9%88%D8%AE%D9%8A%D8%A7%D9%85-%D9%88%D8%AA%D9%86%D9%83-%D8%B3%D8%B1%D9%8A-15-%D8%B6%D8%B1%D8%A8%D8%A9-%D8%A3%D9%85%D9%86%D9%8A%D8%A9
+    publisher: وكالة أنباء سرايا الإخبارية
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -67,11 +72,13 @@ open_questions:
   - The submitted page, Petra and Khaberni all carry the same Public Security Directorate statement, so the Petra release corroborates the text but is not independent reporting of it.
   - The submitted page shows two uncaptioned photographs of unknown origin and no Petra photo of this round was found, so no media entry is added.
   - The statement gives no exact date for the raids; 8 November 2026, the date of the Petra release and of publication, stands in for the incident date.
+  - The Saraya page shows a single news image captioned only with the story headline and no credit naming what it depicts, so no media entry was added.
+  - Saraya reproduces the same Public Security Directorate statement as the outlets already cited, so it is not independent reporting of the raids.
 ---
 
 Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
 officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1,3]
+and dealers and seizing large quantities of drugs. [@1,3,4]
 
 In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
 capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1]
@@ -80,7 +87,7 @@ Three pushers were arrested after a raid with five blocks of hashish and 1,500
 pills. [@1] South of Amman, officers raided a tent that three people used to
 trade, store and push drugs, arresting all three and seizing 2 kilograms of
 marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
-methamphetamine. [@1,3] Officers arrested three people in the last Amman case with
+methamphetamine. [@1,3,4] Officers arrested three people in the last Amman case with
 2,600 grams of marijuana. [@1] In the second Amman case three people were raided
 inside a flat they used to store drugs for sale, and officers seized 6,000 pills
 and a quantity of hashish. [@1] In a farm south of the capital officers arrested
@@ -89,7 +96,7 @@ a firearm. [@1]
 
 In the Central Badia, officers seized 20 blocks of hashish from two arrested
 people in the first case and 15 blocks of hashish from two pushers in a vehicle
-in the second. [@1] In Irbid Governorate officers raided a pusher and seized six
+in the second. [@1,4] In Irbid Governorate officers raided a pusher and seized six
 blocks of hashish from him, and seized 200 grams of crystal methamphetamine from
 another pusher in the second case. [@1] A pusher was arrested in Ma'an
 Governorate with seven blocks of hashish. [@1] In Zarqa Governorate officers
