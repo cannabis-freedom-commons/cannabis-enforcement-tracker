@@ -58,32 +58,38 @@ sources:
     publisher: O Dia
     date: 2026-11-05
     language: pt
+  - title: PM encontra 66 pés de maconha em estufa durante operação no morro
+    url: https://www.folhadedourados.com.br/pm-encontra-66-pes-de-maconha-em-estufa-durante-operacao-no-morro/
+    publisher: Folha de Dourados
+    date: 2026-11-07
+    language: pt
 open_questions:
   - No weight for the 66 plants or size of the greenhouse was published.
   - No arrests, charges or court outcome were reported beyond the case being sent to the 19th Precinct for investigation.
   - The reports give no names of suspects or growers linked to the greenhouse.
+  - The Folha de Dourados text is credited to R7 and reproduces the same military police statement as the R7 report already cited, so it is not independent reporting.
+  - The page photo is a police handout that also appears on the R7 copy already listed, so it is not added as a separate media entry.
 ---
 
 Military police seized 66 cannabis plants from a clandestine greenhouse on Rua
-Glicia in Morro do Cruz during an operation on Wednesday 4 November 2026. [@1] A
+Glicia in Morro do Cruz during an operation on Wednesday 4 November 2026. [@1,4] A
 second account confirms the seizure of 66 cannabis plants in the clandestine
 greenhouse on Rua Glicia in Morro do Cruz, Andarai. [@2] A third account also
 reports 66 cannabis plants seized from the greenhouse on Rua Glicia in Morro do
 Cruz. [@3]
 
 Agents from the Borel UPP, the proximity policing unit, led the action with
-support from BOPE, the special police operations battalion. [@1] The operation
+support from BOPE, the special police operations battalion. [@1,4] The operation
 also included teams from the Coordenadoria de Policia de Proximidade alongside
 the Borel UPP and BOPE. [@2] The operation also deployed teams in the Borel and
-Casa Branca communities in Tijuca and in Morro do Cruz in Andarai. [@1] The
+Casa Branca communities in Tijuca and in Morro do Cruz in Andarai. [@1,4] The
 military police said the offensive aimed to disrupt criminal groups, combat
-vehicle theft and locate fugitives from justice. [@1]
+vehicle theft and locate fugitives from justice. [@1,4]
 
 During the incursions, officers searched for weapons, illicit materials and
 suspects involved in criminal activity. [@1] During the operation, four
 municipal schools suspended in-person activities for security reasons, according
 to the municipal education department. [@2] The occurrence was sent to the 19th
 Police Precinct in Tijuca, which was responsible for the investigation
-procedures. [@1] Up to the last update, there was no information on arrests
+procedures. [@1,4] Up to the last update, there was no information on arrests
 linked to the seizure. [@2]
-
