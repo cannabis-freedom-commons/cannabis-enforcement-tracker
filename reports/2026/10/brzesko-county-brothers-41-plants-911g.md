@@ -90,6 +90,11 @@ sources:
     publisher: LoveKraków.pl
     date: 2026-10-30
     language: pl
+  - title: Budował dom, za zamaskowanymi drzwiami ukrywał plantację. W akcji krakowscy policjanci - Puls Krakowa
+    url: https://pulskrakowa.pl/budowal-dom-za-zamaskowanymi-drzwiami-ukrywal-plantacje-w-akcji-krakowscy-policjanci/
+    publisher: Puls Krakowa
+    date: 2026-11-07
+    language: pl
 open_questions:
   - The 232 grams of mephedrone were left out of the cannabis weight because the tracker counts only cannabis.
   - The reports give 693 grams for the marijuana at the construction site while also describing it as almost 700 grams; the report uses 693 grams plus 218 grams, totalling 911 grams (0.911 kg).
@@ -99,21 +104,21 @@ open_questions:
 
 On 14 October 2026, officers from the Kraków provincial and municipal anti-drug
 units detained a 31-year-old man from Brzesko County on suspicion of drug
-dealing. [@2,4] Officers also detained his 30-year-old brother after 218 grams of
+dealing. [@2,4,5] Officers also detained his 30-year-old brother after 218 grams of
 marijuana found at the 31-year-old's residence was claimed by the younger
-brother. [@1,3] On 15 October 2026, the Brzesko District Court placed both men in
-pre-trial custody for three months. [@2,3] The 30-year-old was charged with
+brother. [@1,3,5] On 15 October 2026, the Brzesko District Court placed both men in
+pre-trial custody for three months. [@2,3,5] The 30-year-old was charged with
 possessing significant amounts of narcotics, while the 31-year-old faces charges
 of possessing significant amounts of narcotics and psychotropic substances and
 of growing cannabis capable of yielding significant amounts of herb. [@1]
 
 The 31-year-old kept drugs at the construction site of his detached house, where
 officers searching a large tool shed found a specially partitioned room hidden
-behind camouflaged doors. [@2,3] Inside, police secured 41 non-fibre cannabis
+behind camouflaged doors. [@2,3,5] Inside, police secured 41 non-fibre cannabis
 plants, the Polish legal term for drug-type cannabis, plus growing equipment
 including LED lamps, irrigation, air circulation and carbon filters in an
-insulated, sealed room. [@1,3] In the house under construction they found 693
+insulated, sealed room. [@1,3,5] In the house under construction they found 693
 grams of marijuana and 232 grams of mephedrone, plus a heat sealer, foils,
-electronic scales and herb grinders used for portioning drugs. [@2] The
+electronic scales and herb grinders used for portioning drugs. [@2,5] The
 investigation is being run by the Kraków provincial police anti-drug unit under
 the supervision of the Brzesko District Prosecutor's Office. [@1]
