@@ -75,6 +75,11 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-07
     language: tr
+  - title: İstanbul'da 67 kilo uyuşturucu ele geçirildi
+    url: https://www.habererk.com/haber/istanbul-da-67-kilo-uyusturucu-ele-gecirildi_360237/
+    publisher: Habererk
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports say the raids took place within 24 hours before the 7 November 2026 publication and give no calendar date, so 7 November 2026 is used as an approximate incident date.
   - The weight of esrar found in the vehicle in Esenler and in the home in Bahçelievler is not broken down; only a combined 25 kilos 90 grams is given.
@@ -90,15 +95,16 @@ open_questions:
   - DHA says the suspects would be sent to court (sevk edilecek), while other accounts already cited in the report said they had been sent.
   - The DHA page picture is captioned with the headline only, so it is not established to show this seizure and no media entry is added.
   - This İHA page says the two suspects were to be sent to court after police processing, while the Anadolu copy already cited in the report said they had been sent; the custody outcome remains as recorded in the existing report.
+  - The page picture is captioned only with the headline and is not established to show this seizure, so no media entry is added.
 ---
 
 Istanbul police narcotics officers detained two suspects in two separate
 operations in the Esenler and Bahçelievler districts of Istanbul within 24
-hours. [@1,5,6,7] Officers searched a vehicle in Esenler and a home in Bahçelievler.
-[@1,6,7]
+hours. [@1,5,6,7,8] Officers searched a vehicle in Esenler and a home in Bahçelievler.
+[@1,6,7,8]
 
 The searches found 25 kilos 90 grams of esrar, the Turkish name for cannabis.
-[@1,6,7] The same searches found 42 kilograms of a chemical the provincial police
+[@1,6,7,8] The same searches found 42 kilograms of a chemical the provincial police
 called A-M 2201. [@2] Istanbul's provincial police said the A-M 2201 would have
 been enough to make 4 tonnes 200 kilograms of synthetic cannabinoid, and that
 the material was stopped before it could be used for production. [@1,7]
