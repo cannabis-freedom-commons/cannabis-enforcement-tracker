@@ -75,6 +75,11 @@ sources:
     publisher: Suara Empat Lawang
     date: 2026-11-01
     language: id
+  - title: Kabur Saat Dihentikan Polisi, Pria di Empat Lawang Ternyata Bawa Ganja
+    url: https://www.detik.com/sumbagsel/hukum-dan-kriminal/d-8742920/kabur-saat-dihentikan-polisi-pria-di-empat-lawang-ternyata-bawa-ganja
+    publisher: detikSumbagsel
+    date: 2026-11-08
+    language: id
 open_questions:
   - Both accounts reproduce the same Empat Lawang police statement and give no full name or age for the suspect.
   - The source says the cannabis was 600 grams gross (bruto), so the net weight was not published.
@@ -91,11 +96,14 @@ open_questions:
   - No court outcome or formal indictment was reported; the case was at the investigation stage.
   - The 1 November release describes the suspect as taken at a hut (pondok) near the patrol site, while the 7 November report places the arrest at a house in Desa Muara Semah.
   - The weight is given only as approximately 1 kilogram, and no value estimate was published.
+  - The article gives no separate date for the patrol; 8 November 2026 is its publication date and 1 November 2026 is retained from the existing report.
+  - The charge is truncated in this article as Pasal 114 ayat (1) atau Pasal 1, so the full charge is retained from the existing report.
+  - The article does not say what happened to the second rider who fled with Z.
 ---
 
 Police in Empat Lawang regency, South Sumatra, detained a man identified only as
 Z on suspicion of a cannabis offence and seized a sack of dried cannabis leaves
-weighing 600 grams gross. [@1,3]
+weighing 600 grams gross. [@1,3,6]
 
 The case began at about 00:30 on Sunday 1 November 2026 at the neighbourhood
 watch post in Desa Seleman Ulu, Muara Pinang district. [@1,3] Muara Pinang police
@@ -105,14 +113,14 @@ neighbourhood-watch scheme, with residents when they saw a black Yamaha NMAX
 motorcycle carrying two men behaving suspiciously. [@1] The two men fled on
 foot, leaving the motorcycle, and officers and residents who searched it found
 the sack of cannabis plus 23 small empty clear plastic clips and a blue lighter.
-[@1]
+[@1,6]
 
 Following information from residents, narcotics detectives from Empat Lawang
 district police with Muara Pinang officers detained Z at a house in Desa Muara
-Semah, also in Muara Pinang district. [@2,3] Police said Z admitted involvement in
+Semah, also in Muara Pinang district. [@2,3,6] Police said Z admitted involvement in
 the case and tested positive for drugs in a urine test, and he was held with the
 evidence at Empat Lawang district police headquarters for further investigation.
-[@2]
+[@2,6]
 
 He was accused under article 114 paragraph 1 or article 111 paragraph 1 of the
 2009 Narcotics Law, read with the 2026 criminal-law adjustment law, and
@@ -123,3 +131,5 @@ pressing trafficking networks and asked residents to report suspicious activity.
 [@2]
 
 He was detained at a hut in Desa Muara Semah, Muara Pinang district, and police also found 23 small empty plastic clips in his trouser pocket. [@4] Empat Lawang police spokesperson Iptu Ariyanto said the suspect admitted involvement in the cannabis case and tested positive for drugs in a urine test, and that he and the evidence were held by the narcotics unit for further investigation. [@4] The first man, Z alias TZ, 39, a resident of Desa Muara Pinang Baru, told police the motorcycle and the cannabis belonged to him and that he had fetched them from the house of his friend Z alias Gogak, the second rider who fled. [@5] Police listed the evidence as the black Yamaha NMAX motorcycle, the sack of dried leaves believed to be cannabis weighing about 1 kilogram, a black T-shirt, a long-sleeved black sweater, a pair of grey sandals and 23 empty clips. [@5] In that 1 November account the suspect was accused under article 114 paragraph 2 of the 2009 Narcotics Law or article 609 paragraph 2(a) of the 2023 Criminal Code, as adjusted by the 2026 sentencing law, and the second rider's identity had been established while he remained at large. [@5]
+
+The abandoned motorcycle was a Yamaha NMAX with plate number BG-6895-SD. [@6]
