@@ -70,6 +70,11 @@ sources:
     publisher: elEconomista.es
     date: 2026-11-05
     language: es
+  - title: Investigan a los padres de un bebé intoxicado con cannabis en La Rioja
+    url: https://www.antena3.com/noticias/sociedad/investigan-padres-bebe-intoxicado-cannabis-rioja_202611056aec7a3a9a31a65adcd0b290.html
+    publisher: Antena 3 Noticias
+    date: 2026-11-05
+    language: es
 open_questions:
   - The article gives no separate date for the hospital admission or the investigation, so 5 November 2026 is the publication date used as the incident date.
   - No cannabis weight, seizure, plant count, cultivation site or laboratory amount was reported.
@@ -82,29 +87,32 @@ open_questions:
   - COPE, like the other outlets, reproduces the Guardia Civil account and adds no independent confirmation or new figures.
   - The submitted OKDiario account describes a 24-year-old man and a 22-year-old woman, reversing the ages given as a 22-year-old man and a 24-year-old woman in the existing report and the Heraldo account; the report's ages are retained.
   - The Heraldo article recalls a separate case of a ten-month-old baby who tested positive in Calatayud, a different event left out here.
+  - Antena 3 is the only retained new source; the El Mundo account opened for comparison reproduces the same Guardia Civil statement and could not be captured, so it is not cited.
+  - Antena 3 gives no separate date for the hospital admission or the start of the investigation; 5 November 2026 is its publication date and the date of the Guardia Civil statement.
+  - Antena 3's only picture is a file photo of a Guardia Civil car from 4 October 2026 credited to Europa Press, not the case, so no media entry is added.
 ---
 
 Guardia Civil officers in La Rioja investigated a 22-year-old man and a
 24-year-old woman as presumed perpetrators of serious negligent injury and
 breach of parental duties after their 14-month-old son suffered cannabis
-intoxication. [@1,2,3,4,5,6,8,9] The two people under investigation are the child's mother and
+intoxication. [@1,2,3,4,5,6,8,9,10] The two people under investigation are the child's mother and
 father. [@1,4]
 
 The case began when emergency health protocols were activated for the child's
-hospital admission in the autonomous community. [@1,4,7] The baby showed pronounced
+hospital admission in the autonomous community. [@1,4,7,10] The baby showed pronounced
 listlessness and drowsiness, prompting medical tests to determine the cause.
-[@1] Toxicology tests confirmed cannabis in the infant's body, establishing
-intoxication with the drug. [@1,4,5,7] The child remained hospitalised with a moderate
+[@1,10] Toxicology tests confirmed cannabis in the infant's body, establishing
+intoxication with the drug. [@1,4,5,7,10] The child remained hospitalised with a moderate
 prognosis. [@1,4,7] The parents told investigators the intoxication may have
 happened accidentally when the baby inhaled smoke in a public park where others
-were allegedly using cannabis nearby. [@1,2,4,5,7,9] Investigators found nothing to
+were allegedly using cannabis nearby. [@1,2,4,5,7,9,10] Investigators found nothing to
 corroborate that account or reasonably explain how the intoxication occurred.
-[@1,4,5,7,8,9] Officers therefore proceeded to investigate both parents for alleged
+[@1,4,5,7,8,9,10] Officers therefore proceeded to investigate both parents for alleged
 involvement in the cited offences. [@1]
 
 Child-protection protocols were activated alongside the police inquiry, placing
 the baby under provisional guardianship and custody of social services pending
-protective measures and liability decisions. [@1,2,4,5,7,8,9] The Guardia Civil said any act
+protective measures and liability decisions. [@1,2,4,5,7,8,9,10] The Guardia Civil said any act
 or omission endangering a minor's physical integrity, health or welfare can have
 legal consequences and will be investigated. [@1] The force said it would
 release no further information about the case or the locality where it happened
