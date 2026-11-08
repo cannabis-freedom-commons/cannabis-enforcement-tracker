@@ -51,6 +51,11 @@ sources:
     publisher: hallelife.de
     date: 2026-11-06
     language: de
+  - title: Polizei durchsucht Wohnungen und sichert Drogen
+    url: https://www.welt.de/regionales/sachsen-anhalt/article6aedb486a389bc337cfc7d03/polizei-durchsucht-wohnungen-und-sichert-drogen.html
+    publisher: DIE WELT
+    date: 2026-11-06
+    language: de
 open_questions:
   - The raid dates of 4 and 5 November 2026 are inferred from the 6 November articles saying the searches happened on Wednesday and Thursday; no separate incident date is stated.
   - The cannabis weight is approximate (around two kilograms), not an exact laboratory weight.
@@ -59,17 +64,19 @@ open_questions:
   - No cash amount was published, so no value is recorded.
   - The submitted page's photo has no caption or credit and appears to be an older generic police image, and the second outlet uses a placeholder image, so no media entry is included.
   - No charges or trial outcome beyond the detention order were reported yet.
+  - The WELT page, credited to dpa-infocom, reproduces the police account also carried by the outlets already cited and adds no independent reporting.
+  - The page's only picture is credited to Marijan Murat/dpa and labelled a symbolic image, so it is not confirmed to show this operation and is not listed as media.
 ---
 
 Investigators carried out a series of searches in Halle (Saale), Saalekreis,
-Burgenlandkreis and Anhalt-Bitterfeld, covering ten properties in total. [@1]
+Burgenlandkreis and Anhalt-Bitterfeld, covering ten properties in total. [@1,3]
 The investigation targets eight suspects accused of large-scale illegal drug
-trafficking. [@1] Officers arrested a 33-year-old man from Guinea-Bissau during
+trafficking. [@1,3] Officers arrested a 33-year-old man from Guinea-Bissau during
 the operation. [@1] A judge issued a detention order and the man was taken to
-prison. [@1] The seven other suspects, German nationals aged 24 to 54, remain
+prison. [@1,3] The seven other suspects, German nationals aged 24 to 54, remain
 under investigation. [@1]
 
-Officers seized about two kilograms of cannabis. [@1] They also seized 330 grams
+Officers seized about two kilograms of cannabis. [@1,3] They also seized 330 grams
 of cocaine, 140 grams of heroin and about 70 grams of methamphetamine. [@1]
 Officers also found precision scales, cash, mobile phones, a firearm and
 ammunition. [@2]
@@ -77,4 +84,3 @@ ammunition. [@2]
 Halle detectives led the operation with support from central police services and
 riot police. [@2] Prosecutors and detectives are now analysing the seized
 evidence, phone data and traces. [@1]
-
