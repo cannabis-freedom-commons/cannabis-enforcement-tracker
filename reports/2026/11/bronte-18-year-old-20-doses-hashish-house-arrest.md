@@ -60,6 +60,11 @@ sources:
     publisher: CataniaOggi
     date: 2026-11-08
     language: it
+  - title: Carabinieri notano un continuo via vai di giovani, arrestato un 18enne che spacciava a casa
+    url: https://www.cataniatoday.it/cronaca/bronte-arrestato-18enne-hashish-carabinieri.html
+    publisher: CataniaToday
+    date: 2026-11-08
+    language: it
 open_questions:
   - The articles give no separate date for the raid; 8 November 2026 is the publication date and is used as the incident date.
   - Only the 22 grams recovered behind the mirror is stated as a weight; the 20 doses in the shoulder bag and the three doses held by the buyers are not weighed, so the total hashish seized cannot be stated.
@@ -68,10 +73,14 @@ open_questions:
   - The seized material is described as hashish and was still to be analysed by the Carabinieri laboratory, so the substance was not yet confirmed.
   - No court hearing, charge filing or outcome beyond the house-arrest order was reported.
   - The submitted page and the CataniaOggi report carry the same Carabinieri handout photo; only the GrandangoloAgrigento copy's direct image address was confirmed, so one photo is listed.
+  - CataniaToday gives no separate date for the raid; 8 November 2026 is its publication date and is used as the incident date.
+  - The 20 doses in the shoulder bag and the doses held by the buyers are not weighed, so the total hashish seized cannot be stated.
+  - Only the 22 grams recovered behind the mirror is given as a weight, and the substance was still to be analysed by the Carabinieri laboratory.
+  - The CataniaToday lead photo has no caption or stated credit and is not confirmed to show the seizure or the search, so no media entry is added.
 ---
 
 Carabinieri from the Bronte station, part of the Catania provincial command,
-arrested an 18-year-old of Romanian origin who lives in the town. [@1] He is
+arrested an 18-year-old of Romanian origin who lives in the town. [@1,3] He is
 suspected of producing, trafficking and possessing drugs, a case that still has
 to be tested in court. [@1]
 
@@ -95,8 +104,9 @@ arrest, while the three buyers, including the 38-year-old, were reported to the
 prefecture, the provincial office that handles drug-use measures such as
 driving-licence withdrawal, rather than arrested. [@1] The seized drugs were
 sent to the Carabinieri LASS laboratory in Catania, which analyses narcotics,
-for further technical checks ordered by the judicial authority. [@1] A second
+for further technical checks ordered by the judicial authority. [@1,3] A second
 Catania outlet published the same Carabinieri account of the arrest, the seizure
 and the house arrest, attributing the reconstruction to the Catania provincial
 command. [@2]
 
+The 18-year-old was arrested in flagrante delicto and, on the order of the judicial authority, placed under house arrest. [@3]
