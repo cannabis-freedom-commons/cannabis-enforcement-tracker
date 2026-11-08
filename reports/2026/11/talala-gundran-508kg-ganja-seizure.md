@@ -43,6 +43,11 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-08
     language: gu
+  - title: તાલાલાના ગુંદરણ ગામમાંથી 5.08 કિલો ગાંજો ઝડપાયો:2.54 લાખ રૂપિયાનો ગાંજો જપ્ત કરાયો, 45 વર્ષીય શખ્સની અટકાયત
+    url: https://www.divyabhaskar.co.in/local/gujarat/gir-somnath/talala/video/talala-gundran-ganja-seized-police-raid-shamdaldas-gondaliya-139632879.html?type=video
+    publisher: Divya Bhaskar
+    date: 2026-11-08
+    language: gu
 open_questions:
   - The article gives no date for the raid; 8 November 2026 is its publication date and is used as the incident date.
   - The man's age is given as 45; the article names him but the report describes him by age only.
@@ -55,10 +60,9 @@ open_questions:
 ---
 
 Police seized 5.08 kg of ganja from Gundran village in Talala taluka, Gir
-Somnath district, Gujarat. [@1] Officers detained a 45-year-old man from the
+Somnath district, Gujarat. [@1,2] Officers detained a 45-year-old man from the
 village. [@1] Police valued the seized ganja at about Rs 2.54 lakh. [@1]
 Officers raided a house near the Ram Mandir in the village on a tip-off. [@1]
 
 Police announced the detention in Gir Somnath district and said they seized the
 ganja and took legal action. [@1]
-
