@@ -89,6 +89,11 @@ sources:
     publisher: La Tercera
     date: 2026-08-11
     language: es
+  - title: 'Bolivia: incautaron más de 86 kilos de marihuana en un micro contratado por el San Pablo'
+    url: https://www.lavoz.com.ar/mundo/bolivia-incautaron-86-kilos-marihuana-micro-contratado-san-pablo_0_KzAJQ1PAcT.html
+    publisher: La Voz
+    date: 2026-08-11
+    language: es
 open_questions:
   - Only one accessible source, Mediotiempo, was found for this event; it says it relied on Brazilian media reports with no named agency on the record.
   - No arrest, detainee or suspect was named or counted, so the report cannot describe anyone as held over the load.
@@ -115,13 +120,14 @@ open_questions:
   - La Tercera does not name the three detained people, state their role in the bus company, or report any charge, prosecutor or court step in the case.
   - La Tercera attributes the account to the Brazilian journalist Gabriel Sá and names no Bolivian police, prosecutor or company statement as its direct source.
   - The article gives no time of day for the inspection at the Locotal check post.
+  - La Voz reports 86.5 kilograms while the existing report records about 86 kilos; the difference is treated as rounding rather than a separate seizure.
 ---
 
 Bolivian authorities inspected a bus in Cochabamba on Tuesday 11 August 2026 and
 found about 86 kilos of marijuana hidden inside it, according to Mediotiempo.
-[@1,2,6,7,9] The bus belonged to the company Buses Cosmos and had been hired to carry
+[@1,2,6,7,9,10] The bus belonged to the company Buses Cosmos and had been hired to carry
 the São Paulo FC squad during its visit to Bolivia for a Copa Sudamericana match
-against Bolívar, the outlet reported, citing Brazilian media. [@1,2,5,7,9] The discovery
+against Bolívar, the outlet reported, citing Brazilian media. [@1,2,5,7,9,10] The discovery
 came before the bus reached the team members, and the authorities seized the
 drug after finding it concealed in the vehicle, Mediotiempo reported. [@1,7]
 
@@ -135,13 +141,13 @@ lessen the effect of the altitude before facing Bolívar. [@1,2]
 Authorities were still investigating where the marijuana came from and who was
 responsible for transporting it, Mediotiempo reported. [@1,7]
 
-The three drivers responsible for the bus, which was heading to Santa Cruz de la Sierra where the squad was staying, were detained. [@2,3,5,6,8,9] Officers found four bags containing the drug inside the vehicle. [@2,3,5,6,8,9] Buses Cosmos said in a statement that all responsibility lay with the drivers and that it provided another vehicle for the team. [@2,3,4,5,8,9] The Brazilian delegation had not used that bus and learned what happened through local news, having been taken from the airport to the hotel on the night of 10 August in another bus from the same company without incident. [@2,5,8]
+The three drivers responsible for the bus, which was heading to Santa Cruz de la Sierra where the squad was staying, were detained. [@2,3,5,6,8,9,10] Officers found four bags containing the drug inside the vehicle. [@2,3,5,6,8,9,10] Buses Cosmos said in a statement that all responsibility lay with the drivers and that it provided another vehicle for the team. [@2,3,4,5,8,9,10] The Brazilian delegation had not used that bus and learned what happened through local news, having been taken from the airport to the hotel on the night of 10 August in another bus from the same company without incident. [@2,5,8]
 
 El Comercio, citing the Brazilian outlet Universo Online, reported that the coach was stopped near Cochabamba on 9 August 2026. [@3] The coach was still carrying the São Paulo team's insignia when officers stopped it. [@3] The stop came two days before the Copa Sudamericana match against Bolívar, which was scheduled for 11 August, and the delegation was not on the bus. [@3]
 
 El micro involucrado realizaba habitualmente el recorrido entre Santa Cruz de la Sierra y Cochabamba y había partido desde esta última ciudad rumbo al lugar donde se encontraba alojado el equipo brasileño. [@4] De acuerdo con la compañía, la Policía boliviana avanzó con la investigación y las personas involucradas fueron detenidas. [@4]
 
-The interception was carried out by UMOPAR, the Mobile Police Unit for Rural Areas, in the Cochabamba area. [@5,8,9]
+The interception was carried out by UMOPAR, the Mobile Police Unit for Rural Areas, in the Cochabamba area. [@5,8,9,10]
 
 The check took place in the Locotal area, on the road connecting Cochabamba with Santa Cruz. [@8]
 
