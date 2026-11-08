@@ -111,6 +111,11 @@ sources:
     publisher: La Razón
     date: 2026-11-08
     language: es
+  - title: Detenidas 22 personas e intervenidas más de 13.000 plantas de marihuana y 3,3 kilos de cocaína rosa en Granada
+    url: https://www.msn.com/es-es/noticias/espana/detenidas-22-personas-e-intervenidas-m%C3%A1s-de-13000-plantas-de-marihuana-y-33-kilos-de-coca%C3%ADna-rosa-en-granada/ar-AA2gZXoE
+    publisher: El Confidencial (via MSN)
+    date: 2026-11-08
+    language: es
 open_questions:
   - Bud weight is reported as more than 24 kilos, so the recorded cannabis total of 25.613 kg is a stated minimum combining 24 kg of buds and 1.613 kg of hashish.
   - The Loja seizure is written as 11.605 kilos; it is read as 11.605 kg, consistent with the reported total of more than 24 kilos of buds.
@@ -130,18 +135,21 @@ open_questions:
   - La Razón reports 3,328 grams of pink cocaine for the Pulianas address alone, consistent with the province-wide figure recorded elsewhere but not independently confirmed by a second Pulianas account.
   - The submitted page was read through MSN's republication of the La Razón article; the La Razón page itself was not opened.
   - No charges or court outcomes beyond the open investigations are reported.
+  - The opened page is El Confidencial's republication on MSN and credits the text to Europa Press, so it is not independent reporting of the Guardia Civil's figures.
+  - The standfirst on the page refers to warehouses and a network sending drugs outside the province, but the captured article body does not describe them, so they are not recorded.
+  - The page shows one lead image slot but no caption tying it to a specific seizure, so no new media entry is added.
 ---
 
 Granada's Guardia Civil carried out a special operation between 3 and 5 November
-against drug cultivation, storage and sale across the province. [@1,2,3,5,6] Officers
-arrested 22 people during the three-day operation. [@1,2,3,5,6,9] The action was part of
+against drug cultivation, storage and sale across the province. [@1,2,3,5,6,10] Officers
+arrested 22 people during the three-day operation. [@1,2,3,5,6,9,10] The action was part of
 the provincial command's Servicio de Alto Impacto against drug trafficking and
-related crime. [@1]
+related crime. [@1,10]
 
 Across 13 police operations and 33 searches, officers seized 13,165 marijuana
 plants, more than 24 kilos of marijuana buds, 1,613 grams of hashish, 3,328
-grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5,6,7,8,9] They also recovered an air
-rifle, ammunition and 19,831 euros in cash. [@1,8] In Pulianas, two people were
+grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5,6,7,8,9,10] They also recovered an air
+rifle, ammunition and 19,831 euros in cash. [@1,8,10] In Pulianas, two people were
 detained with 3,328 grams of pink cocaine and 4,506 grams of vacuum-packed
 marijuana buds. [@1,9] In Loja, five people were detained in three searches of
 storage and preparation premises, with 11.605 kilos of marijuana buds and 19,831
