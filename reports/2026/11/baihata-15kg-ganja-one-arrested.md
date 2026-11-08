@@ -50,6 +50,10 @@ sources:
     url: https://www.lokmattimes.com/national/assam-police-seize-over-15-kg-ganja-one-arrested-in-kamrup-drug-bust-a001-w02/
     publisher: Lokmat Times
     date: 2026-11-08
+  - title: Assam Police seize over 15 kg of ganja, arrest one
+    url: https://www.socialnews.xyz/2026/11/08/assam-police-seize-over-15-kg-of-ganja-arrest-one/
+    publisher: Social News XYZ
+    date: 2026-11-08
 open_questions:
   - The accounts give no separate date for the interception, so the publication date of 8 November 2026 is used as the incident date.
   - No charges, court outcome or custody details were reported beyond that further legal action was being initiated.
@@ -57,18 +61,21 @@ open_questions:
   - The pages carry an image under the same headline, but its caption and credit do not confirm that it shows this seizure, so no media entry is listed.
   - The Lokmat Times copy states it was refined by artificial intelligence without human editorial review and reproduces the same IANS agency text already cited, so it is corroboration rather than independent reporting.
   - The same page describes separate methamphetamine seizures in Cachar district, different events involving synthetic drugs, left out of this cannabis report.
+  - The submitted page is a reprint of the same IANS report already cited through The Hawk and hi INDiA, so it is not independent reporting of the seizure.
+  - The page gives no separate date for the interception; 8 November 2026 is its publication date and the date of the police account.
+  - The page carries one image under the same headline without a caption or credit, so it is not confirmed to show this seizure and no media link is listed.
 ---
 
 Police in Assam's Baihata seized over 15 kilograms of suspected cannabis,
 locally known as ganja, and apprehended one individual in connection with the
 haul. [@1,3] Baihata Police intercepted a vehicle during 'naka' checking based on
-specific input about the transportation of drugs through the area. [@1,3] The
+specific input about the transportation of drugs through the area. [@1,3,4] The
 apprehended individual was identified by police as Ridip Kumar, a resident of
-Assam's Kamrup district. [@1,3]
+Assam's Kamrup district. [@1,3,4]
 
 A search of the intercepted vehicle led to the recovery and seizure of suspected
 cannabis that had been packed in three separate packets. [@1] Police recorded
-the weight of the recovered suspected cannabis as 15.049 kilograms. [@1,3] Police
+the weight of the recovered suspected cannabis as 15.049 kilograms. [@1,3,4] Police
 said one person was apprehended at the scene in connection with the recovery of
 the three packets. [@1]
 
