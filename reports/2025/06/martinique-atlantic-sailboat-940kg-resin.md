@@ -63,6 +63,11 @@ sources:
     url: https://maoc.eu/940-kg-of-cannabis-resin-seized-by-the-french-navy-off-guyana/
     publisher: Maritime Analysis and Operations Centre – Narcotics (MAOC-N)
     date: 2025-06-25
+  - title: EN IMAGES. Près d'une tonne de résine de cannabis saisie par les Forces armées aux Antilles
+    url: https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/en-images-pres-dune-tonne-de-resine-de-cannabis-saisie-par-les-forces-armees-aux-antilles-1040547.php
+    publisher: France-Antilles Guadeloupe
+    date: 2025-06-23
+    language: fr
 open_questions:
   - The outlet describes the intercepted ship as a go-fast in the Caribbean zone, while the agency statement and MAOC-N describe a Portuguese-flagged sailing vessel in the Atlantic off Guyana; the report uses the agency account.
   - Martinique La 1ère gives the night of 4 to 5 June as the operation's timing, the agency statement and MAOC-N give Friday 6 June; the report uses 6 June.
@@ -71,10 +76,11 @@ open_questions:
   - No nationality, age, identity, charges or court outcome for the detained people was published.
   - Newspaper photos on France-Antilles are captioned as the recovery of a tonne of drugs by the patrol vessel Confiance on 11 June 2025 and do not establish that they show this interception, so no media entry is included for them.
   - 'Left out, as its quotation was not found in Martinique La 1ère: The operation belonged to Carib Royale, a French anti-trafficking campaign at sea.'
+  - The page's four photos are all captioned as a recovery of a tonne of drugs by the patrol vessel Confiance on 11 June 2025, so they do not establish that they show the 6 June interception and no media entry is included.
 ---
 
 A French Navy vessel intercepted a sailing ship and found 24 bales of cannabis
-resin weighing 940.7 kg aboard. [@2] Four people were detained after the
+resin weighing 940.7 kg aboard. [@2,5] Four people were detained after the
 interception and handed to the judicial authorities for prosecution. [@1] RCI
 reported that those arrested were taken back to Fort-de-France, where the local
 OFAST branch, France's anti-narcotics office, was put in charge of the
@@ -83,8 +89,8 @@ investigation. [@3]
 The MAOC-N, a European maritime anti-narcotics centre, said the ship flew the
 Portuguese flag. [@4] The interception happened on Friday 6 June in the Atlantic
 Ocean, French Antilles forces said, and the ship was escorted to Fort-de-France.
-[@2] The French navy boarded under Article 17 of the UN drug-trafficking
-convention, and tests on the cargo were positive for cannabis. [@2]
+[@2,5] The French navy boarded under Article 17 of the UN drug-trafficking
+convention, and tests on the cargo were positive for cannabis. [@2,5]
 
 Martinique La 1ère, which described the ship as a go-fast, said the operation
 was run by the French forces in the Antilles with the OFAST and the legal
@@ -93,5 +99,4 @@ interception took place in international waters off the coast of Guyana and that
 intelligence came from several countries through its framework, with Spanish and
 Portuguese authorities cooperating. [@4] With this seizure, drugs intercepted by
 the French Antilles forces in 2025 passed 14 tonnes, a figure covering all
-narcotics, not cannabis alone. [@2]
-
+narcotics, not cannabis alone. [@2,5]
