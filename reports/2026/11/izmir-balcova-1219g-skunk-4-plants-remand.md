@@ -1,0 +1,83 @@
+---
+code: Z8QESF
+added_at: "2026-11-08T11:33:24.218127Z"
+date: 2026-11-07
+country: tr
+place: Fevzi Çakmak Mahallesi, Balçova, İzmir
+coordinates: [38.3928, 27.0755]
+precision: district
+type: arrest
+also: [seizure, prosecution]
+title: Man remanded after 1.2 kg skunk, 4 plants found in Balçova home
+summary: >-
+  İzmir gendarmerie searched a flat in Fevzi Çakmak Mahallesi, Balçova, where a suspect identified only as K.A. was growing cannabis using an air-conditioning setup, and seized 1 kg 219 g of skunk, 4 skunk plants, a grinder and climate-control equipment. K.A. was detained and then remanded in custody.
+figures:
+  arrested: 1
+  plants_destroyed: 4
+  kg_seized: 1.219
+details:
+  agencies: [tr-jandarma]
+  agency_types: [gendarmerie]
+  products:
+    - {product: flower, kg: 1.219}
+    - {product: plants, plants: 4}
+  activity: [cultivation, possession]
+  date_precision: approximate
+  region: İzmir
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.products: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+  figures.plants_destroyed: [1]
+media:
+  - kind: photo
+    url: https://www.cumhuriyet.com.tr/turkiye/evinde-iklimlendirme-yontemiyle-kenevir-yetistirdi-tutuklandi-2554385
+    media_url: https://media.cumhuriyet.com.tr/Archive/e27db9c0-1cf6-41ad-bb7a-561cf01e71c0.jpg
+    publisher: Cumhuriyet
+    caption: Photo published with the Cumhuriyet report on the Balçova home search and seizure; no caption or credit identifies what it depicts.
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: f2dfee7277b8c3ed1bfb86c0f057bbd2
+tags: [izmir, balcova, skunk, jandarma, indoor-grow]
+sources:
+  - title: 'Evinde ''iklimlendirme'' yöntemiyle kenevir yetiştirdi: Tutuklandı'
+    url: https://www.cumhuriyet.com.tr/turkiye/evinde-iklimlendirme-yontemiyle-kenevir-yetistirdi-tutuklandi-2554385
+    publisher: Cumhuriyet
+    date: 2026-11-08
+    language: tr
+  - title: İzmir Balçova'da iklimlendirme yöntemiyle kenevir yetiştiren şüpheli tutuklandı
+    url: https://www.haberler.com/amp/izmir-balcova-da-iklimlendirme-yontemiyle-kenevir-20407039-haberi
+    publisher: Haberler.com
+    date: 2026-11-08
+    language: tr
+open_questions:
+  - The accounts give the raid date only as the previous day; 7 November 2026 is estimated from the 8 November 2026 publication date.
+  - No weight or value was published for the 4 rooted plants, and no value was given for the seized skunk.
+  - The suspect is identified only by the initials K.A.; no charges, plea or trial date were reported.
+  - The drug and the plants are described as skunk, the Turkish media term for high-potency cannabis; no laboratory confirmation was reported.
+  - The accounts opened all reproduce the same DHA dispatch, so they are not independent reporting.
+  - The page photo carries no caption or credit identifying what it depicts, so it is not confirmed to show this seizure.
+  - No figure for the number of climate-control devices or for the room used to grow the plants was published.
+  - 'Left out, as its quotation was not found in Son Kale İzmir: Son Kale İzmir carried the same İzmir provincial gendarmerie account of the search of K.A.''s flat in Balçova and the remand.'
+  - Left out setting, as its quotation was not found in Son Kale İzmir.
+  - Left out case stage, as its only supporting source is not cited by the report's text.
+  - Left out environment, as its only supporting source is not cited by the report's text.
+---
+
+İzmir provincial gendarmerie teams determined that a suspect identified only as
+K.A. was illegally growing cannabis with a climate-control method in his home in
+Fevzi Çakmak Mahallesi, Balçova. [@1] Officers raided that address the previous
+day. [@1] K.A. was taken into custody and, after gendarmerie processing, was
+referred to the courthouse and remanded in custody. [@1]
+
+The search of the home seized 1 kilo 219 grams of skunk. [@1] Officers also
+seized 4 rooted skunk plants. [@1] Officers also seized one drug-grinding device
+and various climate-control materials. [@1]
+
+The gendarmerie said the work was part of its effort to prevent drug
+manufacturing and trafficking. [@1] The accounts describe both the harvested
+drug and the plants as skunk. [@2]
+
