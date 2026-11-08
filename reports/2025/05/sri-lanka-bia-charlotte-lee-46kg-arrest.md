@@ -66,6 +66,10 @@ sources:
     url: https://www.theguardian.com/world/2025/may/18/foreign-office-supporting-british-woman-after-reports-of-drug-smuggling-arrest-in-sri-lanka
     publisher: The Guardian
     date: 2025-05-18
+  - title: Release of British woman jailed in Sri Lanka on drugs offences could take months, lawyer says
+    url: https://www.independent.co.uk/asia/south-asia/charlotte-lee-may-jail-kush-drug-sri-lanka-thailand-b2764200.html
+    publisher: The Independent
+    date: 2025-06-05
 open_questions:
   - The submitted article gives no exact arrest date beyond earlier this month; 12 May 2025 is used from the second BBC account, while Newswire dates the Customs arrest to 13 May.
   - The submitted BBC reports 46 kg while Newswire reports 46.6 kg of Kush; this report uses 46 kg and records no separate laboratory weight.
@@ -74,14 +78,16 @@ open_questions:
   - No cannabis-only street value was published in the opened sources, so no value is recorded.
   - The Guardian calls the haul 'the cannabis strain kush' but then describes kush as 'a synthetic mixture of cannabis, fentanyl, tramadol and formaldehyde' linked to West Africa; the existing report follows the opened BBC text identifying the seizure as cannabis.
   - The Guardian dates detention only to 'Monday' (12 May 2025 given its 18 May publication); the exact 12 May date is taken from the existing report's second BBC account.
+  - The Independent calls the haul synthetic cannabis, or kush, and values it at £1.2m, while also describing it as 46kg of cannabis; only the cannabis weight already recorded is corroborated and no value is added.
+  - The Independent lists the next hearing as 13 June, while the existing report records a later next appearance on 13 July and remand until 3 September; the sequence between those dates is not resolved in this source.
 ---
 
 Charlotte May Lee, 21, from south London, was arrested after authorities
 allegedly found 46 kg of cannabis in her suitcases on arrival from Thailand.
-[@1,4] The former flight attendant told the BBC she had travelled from Bangkok to
+[@1,4,5] The former flight attendant told the BBC she had travelled from Bangkok to
 Colombo to renew her Thai visa. [@1] Ms Lee has not yet been charged, denies
 knowing about the drugs, and could face up to 25 years if found guilty. [@1] She
-is being held in a prison in Negombo, a city just north of the capital. [@1] She
+is being held in a prison in Negombo, a city just north of the capital. [@1,5] She
 shares a cell with five other women and sleeps on a thin mattress on the
 concrete floor using her clothes as a pillow. [@1]
 
@@ -90,13 +96,13 @@ her alleged offences continues. [@1] Authorities wheeled a large brown box
 containing the alleged cannabis found in her luggage into court. [@1] The
 narcotics division of the Sri Lanka police told the court they intend to file an
 update on the investigation. [@1] Her lawyer Sampath Perera asked whether the
-alleged drugs had been examined to confirm they were an illegal substance. [@1]
+alleged drugs had been examined to confirm they were an illegal substance. [@1,5]
 The magistrate ordered the material to be tested with a report submitted as soon
 as possible. [@1]
 
 Perera said the next step is a bail application for Lee which could take three
-months. [@1] Under Sri Lankan law people being held on remand must appear before
-a judge every 14 days. [@1] She is held on suspicion of possession and smuggling
+months. [@1,5] Under Sri Lankan law people being held on remand must appear before
+a judge every 14 days. [@1,5] She is held on suspicion of possession and smuggling
 with her next appearance on 13 July. [@1] A senior Customs Narcotics Control
 Unit officer said the find at Bandaranaike Airport was the largest kush seizure
 in the airport's history. [@2] Authorities said bags stuffed with drugs were
@@ -106,3 +112,5 @@ the British national female suspect remain in remand custody until September 3.
 [@3]
 
 The Foreign, Commonwealth and Development Office said it was supporting a British woman arrested in Sri Lanka and was in contact with her family and the local authorities. [@4]
+
+Her next hearing was listed for 13 June. [@5] She had not yet been allowed e-visits including video calls with family and friends. [@5]
