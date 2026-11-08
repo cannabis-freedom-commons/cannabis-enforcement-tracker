@@ -188,6 +188,11 @@ sources:
     publisher: Headliner.nl / Crime-Nieuws.nl
     date: 2026-11-08
     language: nl
+  - title: Desarticulada en Granada una organización criminal que enviaba marihuana a Eslovenia con 19 detenidos
+    url: https://www.msn.com/es-es/noticias/otras/desarticulada-en-granada-una-organizaci%C3%B3n-criminal-que-enviaba-marihuana-a-eslovenia-con-19-detenidos/ar-AA2gSRvT
+    publisher: 20minutos
+    date: 2026-11-06
+    language: es
 open_questions:
   - The Guardia Civil statement gives no breakdown of how much of the 181 kg of marijuana was bud and how much was plants, nor whether the 1,388 plants were seized or cut.
   - The three sources give the same figures, but no independent verification of the weights was published; all figures are the Guardia Civil's own.
@@ -213,12 +218,14 @@ open_questions:
   - Its page photos are Guardia Civil handout images already listed from the agency's own page, so no separate media entry is added.
   - The Headliner.nl page is an aggregator reprint of a Crime-Nieuws.nl text and describes the cannabis as 181 kilograms of dried cannabis plus 805 grams of hashish, which the existing report records as 181 kg of marijuana and 0.805 kg of hashish.
   - The page gives no new detail on the role of the three Slovenian detainees or on whether any of them is among the four remanded suspects.
+  - The opened capture contains only the opening lines and the heading 'Doce registros en Granada y su provincia'; it gives no drug quantities, seizure towns beyond Granada province, or raid dates beyond the operation name.
+  - The capture gives only the publication context ('2 dia(s)' with a 2026-11-08 page render); the incident date of 23-24 October 2026 is taken from the existing report's agency sources.
 ---
 
 Spain's Guardia Civil said it had dismantled a criminal organisation that grew,
 bought and sold, transported and shipped marijuana to Slovenia, detaining 19
-people in operation Graveyard 02. [@2,4,5,8,9,10,12,13,15,16] Three of the 19 detainees are of
-Slovenian origin. [@1,4,5,7,9,13,14,15] The searches took place on 23 and 24 October 2026 at 12
+people in operation Graveyard 02. [@2,4,5,8,9,10,12,13,15,16,17] Three of the 19 detainees are of
+Slovenian origin. [@1,4,5,7,9,13,14,15,17] The searches took place on 23 and 24 October 2026 at 12
 properties in Granada city, Almuñécar and Peligros. [@2,4,5,6,8,9,10,12,13,14,15] Investigators believe
 the organisation shipped the drugs to Slovenia and have not ruled out
 international links with other countries. [@2,5,14]
@@ -237,7 +244,7 @@ Guardia Civil treats as a weapon of war. [@2,5,9,12,14] The detainees were accus
 trafficking, belonging to a criminal organisation, illegal possession of
 firearms, illegal possession of weapons of war and money laundering. [@2,14] After
 appearing before the duty investigating court of the Granada court, four of them
-were remanded in custody. [@2,4,5,6,9,10,11,12,15] The investigation was run by the Guardia Civil's
+were remanded in custody. [@2,4,5,6,9,10,11,12,15,17] The investigation was run by the Guardia Civil's
 Organised Crime Judicial Police Unit in Granada, supported by the USECIC
 riot-control unit and units from other Andalusian commands. [@2] El Confidencial
 Digital, quoting the Guardia Civil, also reported the 19 detentions in operation
