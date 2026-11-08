@@ -47,14 +47,21 @@ sources:
     url: https://www.cnb.gov.sg/mediaroom/news/execution-of-a-convicted-drug-importer---16-april-2026/
     publisher: Central Narcotics Bureau
     date: 2026-04-16
+  - title: 'Singapore: Halt Imminent Execution for Cannabis Trafficking'
+    url: https://www.hrw.org/news/2026/04/15/singapore-halt-imminent-execution-for-cannabis-trafficking
+    publisher: Human Rights Watch
+    date: 2026-04-14
+open_questions:
+  - This source was published before the scheduled 16 April 2026 execution and does not itself confirm the execution was carried out; the existing report establishes that later step through the Central Narcotics Bureau.
+  - No event photo is listed because the only image on the page is a 2018 private family photo of Omar with his daughter, not the seizure, raid or execution itself.
 ---
 
 Singapore executed Omar bin Yacob Bamadhaj, 46, on 16 April 2026 for importing 1,009 grams of
 cannabis. [@1] Under the Misuse of Drugs Act, importing more than 500 grams carries a mandatory death
-sentence. [@1] The court classified him as a courier who had only transported the drugs. [@1] A
+sentence. [@1] The court classified him as a courier who had only transported the drugs. [@1,3] A
 courier can escape death only if prosecutors certify that he gave "substantive assistance" against
 trafficking networks; no such certificate was issued, so the judge had no other sentence to give.
-[@1] His appeals were dismissed. [@1]
+[@1] His appeals were dismissed. [@1,3]
 
 ## His family
 
@@ -71,7 +78,7 @@ The Central Narcotics Bureau says Omar entered Singapore from Malaysia by car at
 
 The day before the execution, Human Rights Watch, Amnesty International, the Capital Punishment
 Justice Project and the Anti-Death Penalty Asia Network asked Singapore to halt it and to commute
-death sentences for drug offences. [@1] The European Union, Norway, Switzerland and the United
+death sentences for drug offences. [@1,3] The European Union, Norway, Switzerland and the United
 Kingdom made the same call, saying there is no conclusive evidence that the death penalty deters drug
 crime. [@1]
 
@@ -81,3 +88,5 @@ Singapore carried out 15 executions for drug offences in 2025, and 8 by April 20
 2025, drug cases made up between 88 and 100 per cent of all executions in the country. [@1] In August
 2025 the president granted clemency in a capital drug case for the first time since 1998, to a man
 convicted over methamphetamine. [@1]
+
+On April 2, 2026, Omar’s family received a notice from the Singapore Prison Service that he would be executed two weeks later. [@3] His wife wrote to President Tharman Shanmugaratnam on April 12 appealing for clemency. [@3]
