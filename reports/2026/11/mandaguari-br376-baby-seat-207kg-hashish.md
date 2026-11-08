@@ -79,24 +79,31 @@ sources:
     publisher: aRede
     date: 2026-11-07
     language: pt
+  - title: PRF apreende 20,7 quilos de haxixe escondidos em cadeirinha de bebê no Paraná
+    url: https://paiquerefm.com.br/prf-apreende-207-quilos-de-haxixe-escondidos-em-cadeirinha-de-bebe-no-parana/
+    publisher: Paiquerê FM News
+    date: 2026-11-08
+    language: pt
 open_questions:
   - The reports do not give the vehicle's origin, destination or route, or the identities or ages of the four arrested people beyond one being the baby's mother.
   - No court outcome beyond the flagrante arrest and referral to the Mandaguari Civil Police station was reported.
   - This G1 account rounds the seizure to about 20 kilograms, while the report records the precise 20.7 kg given by the other outlets; the reported figure is unchanged.
   - aRede credits its text to TNOnline, and both reproduce the same PRF statement already cited in the report, so it is not independent reporting.
   - This account gives no age for the child and does not say which of the four arrested people are the women or what their relationship to the child is.
+  - Paiquerê's text credits the PRF and reproduces the same police statement as the outlets already cited, so it is not independent reporting of the seizure.
+  - 'The Paiquerê photo is credited only as Foto: PRF, with no caption stating which part of the seizure it shows.'
 ---
 
 Federal Highway Police officers stopped a Ford/Ka at km 201 of BR-376 in
-Mandaguari on the morning of 7 November 2026 at about 09h45. [@1,5,6] During a
+Mandaguari on the morning of 7 November 2026 at about 09h45. [@1,5,6,7] During a
 detailed search, officers found hashish tablets hidden inside the structure of
 the baby car seat carrying a child. [@1,4,6] Officers also found hashish concealed
 in luggage compartments in the car. [@1,4,6]
 
 Part of the drug was carried attached to the bodies of two women travelling in
 the vehicle. [@1,4,5,6] Police seized a total of 20.7 kg of hashish in the operation.
-[@1,5,6] Four occupants were arrested in flagrante for drug trafficking and
-association for trafficking. [@1,4,6] The four arrested were two women and two men,
+[@1,5,6,7] Four occupants were arrested in flagrante for drug trafficking and
+association for trafficking. [@1,4,6,7] The four arrested were two women and two men,
 and a 45-day-old baby who was in the car was placed in the care of the municipal
 Child Protection Council. [@2,4,6]
 
@@ -104,3 +111,5 @@ One of the detained women is the baby's mother. [@2,4] The vehicle, the drug and
 the detainees were taken to the Mandaguari Civil Police station for the formal
 procedures. [@1,4,6] The baby who owned the car seat was 45 days old and was inside
 the car at the time. [@3]
+
+The stop on BR-376 in Mandaguari was carried out by officers of the PRF operational unit based there. [@7]
