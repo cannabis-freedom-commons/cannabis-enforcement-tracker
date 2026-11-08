@@ -38,6 +38,11 @@ open_questions:
   - The number of arrested members and any charges were not reported.
   - 'Left out, as its quotation was not found in Alwihda Info: The network bought its goods in a neighbouring country, moved them to the capital by public transport or private vehicle, stored them and sold to customers — with part of the cannabis destined for dealers at gold-mining sites including Boromo and Poura, Zantene, Sabce, Mogre and Bittou.'
   - 'Left out, as its quotation was not found in Koaci: The Anti-Drug Unit of the Directorate of Judicial Police seized nearly 86 kg of cannabis along with adulterated beverages, contraband cigarettes and psychotropic packets; motorcycles, cash and other goods were also recovered in the arrests.'
+  - The Anadolu dispatch gives no separate date for the arrests or the seizure; 29 September 2026 is the date it was reported from official sources.
+  - The police did not name, and Anadolu did not report, the neighbouring country the drugs were supplied from.
+  - The number of people arrested, their charges and any court step are not reported.
+  - Anadolu's 86 kg figure repeats the police statement as stated ('près de 86 kilogrammes'), so it is not an independent measurement.
+  - Anadolu does not itself name the Directorate of Judicial Police; it credits only the National Police anti-drug unit, which the existing report's other sources identify as the DPJ unit.
 sources:
   - title: "86 kg of cannabis seized: Police crack down on a trafficking network in Ouagadougou"
     url: https://nouvellesafrique.com/en/86-kg-of-cannabis-seized%3B-police-crack-down-on-a-trafficking-network-in-Ouagadougou/
@@ -64,19 +69,26 @@ sources:
     publisher: Koaci
     date: 2026-09-29
     language: fr
+  - title: 'Burkina Faso : saisie de près de 86 kg de cannabis à Ouagadougou'
+    url: https://www.aa.com.tr/fr/afrique/burkina-faso-saisie-de-pr%C3%A8s-de-86-kg-de-cannabis-%C3%A0-ouagadougou/4073019
+    publisher: Anadolu Agency
+    date: 2026-09-29
+    language: fr
 ---
 
 The National Police announced on Tuesday 29 September 2026 the
 dismantling of a suspected network trafficking and selling drugs in
-Ouagadougou. [@1,3,5] [@2]
+Ouagadougou. [@1,3,5,6] [@2]
 
 The Anti-Drug Unit of the Directorate of Judicial Police seized nearly 86
 kg of cannabis along with adulterated beverages, contraband cigarettes
 and psychotropic packets; motorcycles, cash and other goods were also
-recovered in the arrests. [@1,3] [@2] The network bought its goods in a
+recovered in the arrests. [@1,3,6] [@2] The network bought its goods in a
 neighbouring country, moved them to the capital by public transport or
 private vehicle, stored them and sold to customers — with part of the
 cannabis destined for dealers at gold-mining sites including Boromo and
 Poura, Zantene, Sabce, Mogre and Bittou. [@1] [@2]
 
 Burkina Faso's regional judicial police for the Koulsé region carried out a seizure operation that took 575.15 kg of chanvre indien, the French term used for cannabis, off the market in Kaya and Ouagadougou. [@4]
+
+The group bought the drugs in a neighbouring country that the police did not name, then moved the goods to the capital in public-transport or private vehicles. [@6] In Ouagadougou the goods were stored and then sold or redistributed to customers, with part destined for resellers and wholesalers at gold-mining sites inside the country. [@6]
