@@ -65,6 +65,11 @@ sources:
     publisher: 47NEWS（長崎新聞）
     date: 2026-11-07
     language: ja
+  - title: 大麻所持の疑いでダンス講師の男（25）を逮捕…乗用車のトランク内から発見 大浦署など
+    url: https://www.msn.com/ja-jp/news/other/%E5%A4%A7%E9%BA%BB%E6%89%80%E6%8C%81%E3%81%AE%E7%96%91%E3%81%84%E3%81%A7%E3%83%80%E3%83%B3%E3%82%B9%E8%AC%9B%E5%B8%AB%E3%81%AE%E7%94%B7-25-%E3%82%92%E9%80%AE%E6%8D%95-%E4%B9%97%E7%94%A8%E8%BB%8A%E3%81%AE%E3%83%88%E3%83%A9%E3%83%B3%E3%82%AF%E5%86%85%E3%81%8B%E3%82%89%E7%99%BA%E8%A6%8B-%E5%A4%A7%E6%B5%A6%E7%BD%B2%E3%81%AA%E3%81%A9/ar-AA2gVNGV
+    publisher: 長崎新聞（MSN）
+    date: 2026-11-07
+    language: ja
 open_questions:
   - The sources do not say whether the man was charged or released; police were still investigating the supply route.
   - No street value was published for the 0.2 grams of dried cannabis.
@@ -79,6 +84,7 @@ open_questions:
   - 'The article of 7 November 2026 gives no office or court outcome: it does not say whether the man was charged, indicted or released.'
   - The sources still do not name the exact street in Oura-machi where the car was stopped.
   - The Nagasaki Shimbun account places the dried cannabis in the trunk, while NBC Nagasaki Broadcasting reported finding it in the bag of the man in the passenger seat; the reports may describe different points in the stop.
+  - The Nagasaki Shimbun places the dried cannabis in the car's trunk, while NBC Nagasaki Broadcasting reported finding it in the bag of the man in the passenger seat.
 ---
 
 Nagasaki police arrested the 25-year-old dance instructor at about 8:45 a.m. on
@@ -98,6 +104,6 @@ himself. [@2,3] Police said they would investigate how he obtained the dried
 cannabis. [@2] The arrest was reported on 6 November 2026, more than a week
 after it took place. [@1]
 
-The car was on a city road in Oura-machi, Nagasaki City, and an officer on patrol stopped it for traffic guidance, finding the dried cannabis in its trunk. [@3,4]
+The car was on a city road in Oura-machi, Nagasaki City, and an officer on patrol stopped it for traffic guidance, finding the dried cannabis in its trunk. [@3,4,6]
 
-The car was parked on a city road in Oura-machi, Nagasaki City, and traffic guidance brought it to a stop at about 7:45 p.m. on 18 October. [@3] The man admitted the allegation, telling police he had the cannabis to smoke himself, and the police station was looking into whether he used it and where he obtained it. [@3]
+The car was parked on a city road in Oura-machi, Nagasaki City, and traffic guidance brought it to a stop at about 7:45 p.m. on 18 October. [@3,6] The man admitted the allegation, telling police he had the cannabis to smoke himself, and the police station was looking into whether he used it and where he obtained it. [@3,6]
