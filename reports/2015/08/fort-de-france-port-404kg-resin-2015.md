@@ -59,6 +59,11 @@ sources:
     publisher: franceinfo
     date: 2015-08-06
     language: fr
+  - title: 'La Martinique : l''étonnant parcours de 400 kg de cannabis normand'
+    url: https://www.europe1.fr/faits-divers/la-martinique-letonnant-parcours-de-400-kg-de-cannabis-normand-2500453
+    publisher: Europe 1
+    date: 2015-08-06
+    language: fr
 open_questions:
   - Neither the customs statement nor the three reports says what followed the investigation; the prosecutor said at publication that there had been no interpellations and that inquiries were continuing in Martinique and mainland France.
   - The value is customs' estimate of "more than 2.4 million euros" for the shipment; no exact figure or laboratory weight breakdown was published.
@@ -68,6 +73,8 @@ open_questions:
   - The 166.5 tonnes of resin seized nationally in 2014, the 800,000 euros in cash found at the airport since July and the separate Guadeloupe and Martinique cash seizures are context from the customs statement, not part of this event, so they are excluded from the figures.
   - The France-Antilles gallery carries no individual captions, only the credit "Photos Douane française et R.L.", so only the lead picture is listed and the remaining pictures are not described.
   - No video of the operation was found on a cited page, so no video entry is included.
+  - Europe 1 rounds the total to 400 kg in its headline but gives 404 kg in its text, matching the existing report's 404 kg figure.
+  - Europe 1 gives the seizure day only as Monday and names no arrests or seizure value; Monday was 3 August 2015 given its 6 August 2015 publication date.
 ---
 
 Customs officers and judicial police searched a commercial vessel from Europe
@@ -77,9 +84,9 @@ agents took part, including several customs detector-dog teams, and the check
 covered all of the more than 600 cars due for import into Martinique. [@1] After
 several hours of checks the agents found thirteen "valises marocaines" —
 Moroccan-style hashish blocks — of about 30 kg each lying on the floor at the
-back of a utility van. [@1]
+back of a utility van. [@1,4]
 
-The resin weighed 404 kilos in total and was seized immediately. [@1] Customs
+The resin weighed 404 kilos in total and was seized immediately. [@1,4] Customs
 put the market value of the shipment at more than 2.4 million euros. [@1]
 Customs called it the largest cannabis resin seizure ever made in the whole of
 the French Antilles. [@1] France-Antilles reported that the resin had been
@@ -90,7 +97,7 @@ million euros, and attributed the record claim to customs. [@3]
 
 The operation was prepared by the OCRTIS, France's central office against
 illicit drug trafficking, and the DNRED, the customs intelligence and
-investigation directorate, as reinforced checks on commercial freight. [@1] On
+investigation directorate, as reinforced checks on commercial freight. [@1,4] On
 the instructions of the Fort-de-France prosecutor, the investigation, followed
 by the specialised interregional court (JIRS), was assigned to the OCRTIS
 Caribbean branch. [@1] RCI reported that the drugs were in bags, almost "thrown"
@@ -107,3 +114,4 @@ serves as currency in exchange for cocaine. [@2] He said two kilos of resin,
 relatively cheap in mainland France, buy one kilo of cocaine that is then resold
 at retail in France at an enormous profit. [@2]
 
+The van holding the resin was a Mercedes utility vehicle. [@4] In mainland France, about 8 kg of cannabis resin is needed to obtain 1 kg of cocaine. [@4]
