@@ -43,25 +43,30 @@ sources:
     publisher: Guadeloupe La 1ère
     date: 2015-04-24
     language: fr
+  - title: 'GUADELOUPE : 500 pieds de cannabis saisis'
+    url: https://www.lepelican-journal.com/GUADELOUPE-500-pieds-de-cannabis-saisis/
+    publisher: Le Pélican
+    date: 2015-04-24
+    language: fr
 open_questions:
   - No weight, cultivated area or street value was published for the 500 plants.
   - The sources give no split between the plants in the garden and those in the small nearby building, and no detail on their size or maturity.
   - No court outcome after the October 2015 criminal-court summons was reported in these articles.
   - The resident's name and the outcome of his police custody ruling were not published.
   - 'Neither page shows a photo of this seizure: RCI uses a generic site image and La 1ère an unattributed illustration captioned irandaily, so no media entry is included.'
+  - This account does not name the Lohéac neighbourhood given in the existing report; the match rests on Sainte-Rose, the 53-year-old unemployed man, the 500 plants and the same units.
 ---
 
 Gendarmes seized 500 cannabis plants from the home of a resident of Lohéac, in
 Sainte-Rose, Guadeloupe. [@1] The resident was a 53-year-old man without a job.
-[@1] He was arrested and placed in police custody in the morning. [@2]
+[@1,3] He was arrested and placed in police custody in the morning. [@2]
 
 Gendarmes of the Sainte-Rose brigade had kept him under surveillance on
 suspicion that he was growing cannabis at his home. [@2] All the plants were
-found at his home, in the garden among other places. [@1] The search found the
+found at his home, in the garden among other places. [@1,3] The search found the
 plants in the garden and in a small nearby building. [@2] The arrest and search
 mobilised an intervention unit and a dog team alongside the Sainte-Rose
-gendarmes. [@1]
+gendarmes. [@1,3]
 
 After police custody he was summoned to appear before the criminal court in
-October. [@2] He was to answer an alleged drug-trafficking charge. [@2]
-
+October. [@2] He was to answer an alleged drug-trafficking charge. [@2,3]
