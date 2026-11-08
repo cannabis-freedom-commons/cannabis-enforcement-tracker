@@ -78,6 +78,11 @@ sources:
     url: https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/08/five-held-for-bid-to-implicate-man-by-planting-ganja-in-sivaganga
     publisher: The New Indian Express
     date: 2026-11-08
+  - title: 'கடந்த காலங்களில் கஞ்சா விற்பவர்களை தேடி பிடித்து வந்த காவல்துறை தவெக ஆட்சியில் கஞ்சா வைப்பு துறையாக மாறி உள்ளது: திமுக கடும் தாக்கு'
+    url: https://www.dinakaran.com/news/tvk-administration-possession-ganja-department-claims-dmk/
+    publisher: Dinakaran
+    date: 2026-11-08
+    language: ta
 open_questions:
   - The Hindu gives no separate date for the placement of the packet or the five arrests; 5 November 2026 is used, taken from The Times of India, which says the packet was planted on 5 November, and from Dinamalar, which dates it to 5 November.
   - No weight, quantity or value of the ganja was published, so no cannabis weight is recorded.
@@ -105,6 +110,13 @@ open_questions:
   - The police account says the material was found near Rajkumar's residence, while other accounts describe a search of his shop.
   - The page carries a single lead image whose caption does not describe the scene, so its subject cannot be confirmed.
   - No court outcome beyond the remand is reported.
+  - The statement gives no date for the shop search or the alleged planting, no weight of the ganja and no names of the officers it accuses.
+  - The statement names both Singampunari and Thirukalappatti for the trader; the target report keeps the more specific Thirukalappatti locality.
+  - The DMK's separate reference to an alleged Rs 1,000 crore methamphetamine case against a TVK functionary is not a cannabis matter and is left out of the report's cannabis account.
+  - No police or state government response to the statement was published in the opened sources.
+  - The statement gives no count of people arrested, so nothing is added to the target report's figure of five.
+  - The only images on the Dinakaran page are a stock caterpillar banner and an uncaptioned featured image not confirmed to show the shop or the search, so no media entry is added.
+  - Dinamalar and News7 Tamil reproduce the same connected X post as the submitted page, so they are not independent accounts of the case.
 media:
   - kind: photo
     url: https://timesofindia.indiatimes.com/city/madurai/5-held-for-planting-ganja-to-frame-social-activist/articleshow/135642833.cms
@@ -148,8 +160,10 @@ further investigation was under way, and denied that police were involved. [@2]
 
 Arappor Iyakkam, an anti-corruption group that filed the statement, demanded that the police officers responsible be immediately charged with ganja trafficking and jailed. [@4] The group said Rajkumar escaped only because the shop had CCTV, and that otherwise he would have spent several years in prison. [@4] The group said the case raises the question of how many prisoners are in genuine ganja cases and how many have been pushed into false ones like this. [@4] Arappor Iyakkam said that transferring or suspending the officer would signal that police ganja trafficking is routine, and demanded an inquiry into a bribe the officer took from the bar operator. [@4]
 
-The DMK party said it stands firmly with the trader harmed by police planting ganja at his shop over his campaign against a TASMAC outlet, and demanded that the officers involved face departmental action and a criminal case. [@5,6,7] In a post on X on 7 November 2026, the DMK demanded that Chief Minister Vijay apologise to the trader affected by the planting. [@5,6,7]
+The DMK party said it stands firmly with the trader harmed by police planting ganja at his shop over his campaign against a TASMAC outlet, and demanded that the officers involved face departmental action and a criminal case. [@5,6,7,11] In a post on X on 7 November 2026, the DMK demanded that Chief Minister Vijay apologise to the trader affected by the planting. [@5,6,7]
 
 The DMK's head office said the police, which it said once hunted cannabis sellers, had become a department that stores cannabis, and said the force was used against the trader who campaigned against a TASMAC outlet instead of against a TVK functionary it accuses of trafficking 1,000 crore rupees of methamphetamine, while the Chief Minister tells students that drugs are fun. [@7] The Hindu reported that officers from the Sivaganga prohibition enforcement wing recovered the packet from a nearby drainage ditch, and that it held ganja and gutka, a chewing tobacco. [@1] The Hindu reported that villagers had petitioned repeatedly against the liquor shop and its attached bar, blockaded the road on November 4 demanding its closure, and were then promised by officials that it would be relocated within ten days. [@1]
 
 The four adults were remanded to judicial custody, while the 17-year-old was produced before the Juvenile Justice Board and sent to an observation home. [@8,9,10] Police said Periya Chokkanathan, who had an earlier enmity with Rajkumar, bought 5 grams of ganja from Sundar and 750 grams of banned tobacco from Jayamoorthy, and arranged with Rajapandi and the boy to place them near a canal opposite Rajkumar's grocery shop. [@8,9,10] A case was registered under the Narcotic Drugs and Psychotropic Substances Act, the Cigarettes and Other Tobacco Products Act and the Bharatiya Nyaya Sanhita. [@8]
+
+The statement called Vijay, the Chief Minister responsible for the police, a "dummy" chief minister in demanding that he apologise to the trader. [@11] The DMK gave the place as Thirukalappatti in Tiruppattur, Sivaganga district, and said police hid ganja at the shop and then tried to arrest the trader. [@11] The party said a force that once hunted cannabis sellers had become, under the TVK government, a department that plants ganja. [@11] It said the government was letting criminals off while trying to jail members of the public. [@11] The party contrasted the case with an alleged Rs 1,000 crore methamphetamine trafficking matter involving a TVK functionary whom it said police had not arrested. [@11] The party also accused the Chief Minister of telling students that drugs are "a fun". [@11]
