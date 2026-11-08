@@ -47,6 +47,11 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-08
     language: tr
+  - title: Gürbulak'ta yolcu otobüsünde 1 milyon 647 bin liralık uyuşturucu ele geçirildi
+    url: https://yerel-haberler.haberturk.com/agri-haberleri/gurbulakta-yolcu-otobusunde-1-milyon-647-bin-liralik-uyusturucu-ele-gecirildi-119516240
+    publisher: Habertürk Yerel Haberler
+    date: 2026-11-08
+    language: tr
 open_questions:
   - No arrests or detentions are named in either account; the governorship says only that judicial proceedings continue.
   - Neither account says whether any passenger or the driver was identified, questioned or taken into custody, or what charges are being considered.
@@ -54,22 +59,23 @@ open_questions:
   - The value of about 1,647,000 lira is an official street-value estimate for 2026 and is not an exact market price.
   - Sabah and İhlas Haber Ajansı publish the same statement and figures, so they are not independent accounts; no customs administration or court statement was opened.
   - The page photo is captioned only with the article headline and no credit identifies it as the seized material or the bus, so no media entry is added.
+  - Habertürk labels the text as an uncorrected İhlas Haber Ajansı feed item and does not name the authority that issued the statement, so it is not independent of the accounts already cited.
+  - The Habertürk page photo is captioned only with the article headline and credited to no one, so it is not added as media.
 ---
 
 Officers at the Gürbulak border crossing in Doğubayazıt, Ağrı, sent a bus
 arriving from Iran for X-ray screening under risk analysis on 8 November 2026.
-[@1] The scan showed suspicious density in some passenger seats, so the bus was
+[@1,3] The scan showed suspicious density in some passenger seats, so the bus was
 searched in detail. [@1]
 
 In metal compartments under the seat cushions, hidden with special fittings and
 wrapped in black bags, officers found 1 kg 830 g of esrar, the Turkish term for
-cannabis. [@1] Authorities put the cannabis's market value at about 1,647,000
-Turkish lira on 2026 figures. [@1]
+cannabis. [@1,3] Authorities put the cannabis's market value at about 1,647,000
+Turkish lira on 2026 figures. [@1,3]
 
 The account came in a statement by the Doğubayazıt district governorship, which
-said judicial proceedings in the case were continuing. [@1] The governorship
+said judicial proceedings in the case were continuing. [@1,3] The governorship
 said customs inspections at the Gürbulak customs area would continue as part of
 the fight against drug smuggling. [@1] The news agency İhlas Haber Ajansı
 carried the same findings: a passenger bus from Iran, the hidden compartments
 and 1 kg 830 g of esrar worth about 1,647,000 lira. [@2]
-
