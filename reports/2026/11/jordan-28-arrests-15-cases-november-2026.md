@@ -61,6 +61,11 @@ sources:
     publisher: وكالة أنباء سرايا الإخبارية
     date: 2026-11-08
     language: ar
+  - title: القبض على 28 تاجرا ومروجا وضبط كميات كبيرة من المخدرات خلال 15 قضية نوعية
+    url: https://almamlakatv.com/ar/news/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-28-%D8%AA%D8%A7%D8%AC%D8%B1%D8%A7-%D9%88%D9%85%D8%B1%D9%88%D8%AC%D8%A7-%D9%88%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AE%D9%84%D8%A7%D9%84-15-%D9%82%D8%B6%D9%8A%D8%A9-%D9%86%D9%88%D8%B9%D9%8A%D8%A9
+    publisher: قناة المملكة
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -74,36 +79,39 @@ open_questions:
   - The statement gives no exact date for the raids; 8 November 2026, the date of the Petra release and of publication, stands in for the incident date.
   - The Saraya page shows a single news image captioned only with the story headline and no credit naming what it depicts, so no media entry was added.
   - Saraya reproduces the same Public Security Directorate statement as the outlets already cited, so it is not independent reporting of the raids.
+  - The Al Mamlaka page gives only its creation time of 8 November 2026 without a separate date for the raids, so 8 November stands in for the incident date.
+  - Al Mamlaka carries the same Public Security Directorate statement as the outlets already cited in the report, so it corroborates rather than independently reports the roundup.
+  - The page's lead photograph is captioned only as a gate belonging to the Public Security Directorate and does not show the raids or seizures, so it is not listed as media.
 ---
 
 Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
 officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1,3,4]
+and dealers and seizing large quantities of drugs. [@1,3,4,5]
 
 In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
-capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1]
-Two active pushers in the capital were arrested with 20 blocks of hashish. [@1]
+capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5]
+Two active pushers in the capital were arrested with 20 blocks of hashish. [@1,5]
 Three pushers were arrested after a raid with five blocks of hashish and 1,500
-pills. [@1] South of Amman, officers raided a tent that three people used to
+pills. [@1,5] South of Amman, officers raided a tent that three people used to
 trade, store and push drugs, arresting all three and seizing 2 kilograms of
 marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
-methamphetamine. [@1,3,4] Officers arrested three people in the last Amman case with
-2,600 grams of marijuana. [@1] In the second Amman case three people were raided
+methamphetamine. [@1,3,4,5] Officers arrested three people in the last Amman case with
+2,600 grams of marijuana. [@1,5] In the second Amman case three people were raided
 inside a flat they used to store drugs for sale, and officers seized 6,000 pills
-and a quantity of hashish. [@1] In a farm south of the capital officers arrested
+and a quantity of hashish. [@1,5] In a farm south of the capital officers arrested
 two pushers with 200 grams of crystal methamphetamine, 200 grams of cocaine and
-a firearm. [@1]
+a firearm. [@1,5]
 
 In the Central Badia, officers seized 20 blocks of hashish from two arrested
 people in the first case and 15 blocks of hashish from two pushers in a vehicle
-in the second. [@1,4] In Irbid Governorate officers raided a pusher and seized six
+in the second. [@1,4,5] In Irbid Governorate officers raided a pusher and seized six
 blocks of hashish from him, and seized 200 grams of crystal methamphetamine from
-another pusher in the second case. [@1] A pusher was arrested in Ma'an
-Governorate with seven blocks of hashish. [@1] In Zarqa Governorate officers
+another pusher in the second case. [@1,5] A pusher was arrested in Ma'an
+Governorate with seven blocks of hashish. [@1,5] In Zarqa Governorate officers
 arrested a suspected drug smuggler who was preparing a quantity of pills to
-smuggle to a neighbouring country, and seized 4,000 pills from him. [@1] In the
+smuggle to a neighbouring country, and seized 4,000 pills from him. [@1,5] In the
 last case officers arrested one person and seized the vehicle he had, in which
-an extra tank had been fitted holding 18 litres of liquid amphetamine. [@1]
+an extra tank had been fitted holding 18 litres of liquid amphetamine. [@1,5]
 
 Khaberni carried the same anti-narcotics statement, counting 28 arrests in 15
 cases, on the same day. [@2] The hashish blocks and marijuana grams are the
