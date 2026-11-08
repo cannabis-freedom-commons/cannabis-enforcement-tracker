@@ -83,13 +83,16 @@ open_questions:
   - No image on the opened page could be verified as showing this seizure from the text, so no media entry is added.
   - The CDLLife account spells the MSDPS commissioner's surname as Bo Lucky while the existing report uses Bo Luckey.
   - The page's two images are captioned only MSDPS and do not establish what they depict, so no media entry is added.
+  - The WJTV page was opened through its MSN republication and shows the story as 5 days old; it gives no separate time for the stop beyond the date 29 October 2026.
+  - The article calls the second man Befikadu Belayneh, matching the report's body text, while other coverage gives his name in a different order.
+  - 'Left out, as its quotation was not found in WJTV: The operation was conducted by the Mississippi Bureau of Narcotics, the Mississippi Department of Public Safety Interdiction Team, the Rankin County Sheriff''s Department and the Madison Police Department.'
 ---
 
 Officers arrested driver Yohannes Haile and co-driver Befikadu Belayneh after
 stopping their tractor-trailer on Interstate 20 in Rankin County. [@1,3,5,6,8] Both men
 were charged with aggravated trafficking of cocaine and trafficking of
 marijuana. [@1,3,4,6,8] Both were taken to the Rankin County Detention Center, and both
-suspects are presumed innocent unless proven guilty in court. [@1]
+suspects are presumed innocent unless proven guilty in court. [@1,3]
 
 Officers found approximately 204 pounds of cocaine and 1,959 pounds of
 marijuana, about 888.6 kg, in the 18-wheeler. [@1,3,4,5,6,7,8] The seizure occurred
@@ -101,5 +104,5 @@ Belayneh Kassa Befikadu, 42, of Clarkston, Georgia. [@2,8]
 
 Mississippi Department of Public Safety Commissioner Bo Luckey said the seizure
 demonstrated the impact of strong partnerships between local and state law
-enforcement agencies in disrupting drug transportation. [@1,6] Authorities did not
+enforcement agencies in disrupting drug transportation. [@1,3,6] Authorities did not
 release details about the origin or intended destination of the drugs. [@1]
