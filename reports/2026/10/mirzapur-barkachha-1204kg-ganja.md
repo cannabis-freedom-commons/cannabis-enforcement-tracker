@@ -147,6 +147,11 @@ sources:
     url: https://timesofindia.indiatimes.com/city/varanasi/1204-kg-ganja-worth-rs-6-cr-seized-2-interstate-smugglers-held/articleshow/135410894.cms
     publisher: The Times of India
     date: 2026-11-01
+  - title: 'मीरजापुर में 1204 किलो गांजे के साथ दो तस्कर गिरफ्तार: कीमत करीब 6 करोड़ रुपए; ट्रक, 3 मोबाइल और 1900 रुपए भी मिले'
+    url: https://www.bhaskar.com/local/uttar-pradesh/mirzapur/amoi/news/mirzapur-police-drug-bust-ganja-smugglers-arrested-truck-seized-139548966.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - 'Reports differ on the value: Bharat Samachar put it at ₹4–5 crore, while Dainik Bhaskar, Amar Ujala and Dynamite News reported about ₹6 crore, the figure used here.'
   - No court appearance, charge sheet or outcome was reported; police said the two men were being produced in court to be sent to jail.
@@ -171,6 +176,9 @@ open_questions:
   - 'Left out, as its quotation was not found in Hindustan: City police officer Yogendra Singh gave the details at a press conference at the police lines.'
   - This account says the arrests happened on Saturday, while the existing report dates the check to the evening of 30 October 2026; 1 November 2026 is this article's publication date.
   - This account does not mention coconuts as concealment, the Chhitampur turn, or the truck's full registration number, so it corroborates the 1,204 kg quantity but not those details.
+  - This capture's readable text does not mention coconuts or coconut sacks as concealment, so it corroborates the 1,204 kg quantity but not that concealment detail.
+  - This capture's readable text gives no truck registration number, route, names, ages, case number or NDPS sections, so those details rest on the existing report's other sources.
+  - The page's only photo carries no caption or credit confirming it shows this seizure, so no media entry is added.
 ---
 
 Kotwali Dehat police in Uttar Pradesh's Mirzapur district arrested two truck
@@ -179,8 +187,8 @@ from Madhya Pradesh's Mauganj district. [@3,6,13,15] The arrests came during a v
 check near Chhitampur turn at Barkachha Khurd on the evening of 30 October 2026,
 mounted after a tip-off. [@3,9,15] Officers stopped truck MP 09 HH 8908 during the
 check. [@3,4,13] A search found 1,204 kg of ganja, the Hindi word for cannabis,
-hidden under sacks of coconuts. [@1,3,7,8,9,12,14,15] Police valued the consignment at about ₹6
-crore, or 60 million rupees. [@4,6,8,9,10,11,12,13,14,15] Bharat Samachar put the value at ₹4–5 crore.
+hidden under sacks of coconuts. [@1,3,7,8,9,12,14,15,16] Police valued the consignment at about ₹6
+crore, or 60 million rupees. [@4,6,8,9,10,11,12,13,14,15,16] Bharat Samachar put the value at ₹4–5 crore.
 [@1]
 
 City police officer Yogendra Singh gave the details at a press conference at the
@@ -188,10 +196,10 @@ police lines. [@2,8,9] Police said the consignment had come from Odisha. [@4,5,6
 meant for supply in Mirzapur, Prayagraj, Varanasi and nearby districts. [@4,5,6,8,9,10,13,14,15] A
 case was registered against both men under the Narcotic Drugs and Psychotropic
 Substances (NDPS) Act at Kotwali Dehat police station, and they were being
-produced in court to be sent to jail. [@4] The truck was seized too. [@3,5,6,8,9,10,14]
+produced in court to be sent to jail. [@4] The truck was seized too. [@3,5,6,8,9,10,14,16]
 
 Officers also found three mobile phones and ₹1,900 in cash, according to Amar
-Ujala. [@2,9,15] Police said they were checking the men's criminal records and
+Ujala. [@2,9,15,16] Police said they were checking the men's criminal records and
 looking for others in the network. [@4]
 
 Both men told police during questioning that they split the proceeds of the trafficking between them. [@6,8,9]
