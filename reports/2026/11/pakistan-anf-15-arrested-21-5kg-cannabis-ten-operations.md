@@ -44,6 +44,17 @@ sources:
     url: https://www.dailyindependent.com.pk/2026/11/07/anf-arrests-15-suspects-in-10-nationwide-operations-recovers-over-50kg-of-narcotics/
     publisher: Daily Independent
     date: 2026-11-07
+  - title: ANF Seizes 50.702kg Of Drugs In 10 Operations, Arrests 15 Suspects - UrduPoint
+    url: https://www.urdupoint.com/en/pakistan/anf-seizes-50702kg-drugs-in-10-operations-ac-2285899.html
+    publisher: UrduPoint
+    date: 2026-11-07
+  - title: ANF seizes 50.702kg drugs in 10 operations across country, 15 suspects arrested
+    url: https://www.app.com.pk/national/anf-seizes-50-702kg-drugs-in-10-operations-across-country-15-suspects-arrested/
+    publisher: Associated Press of Pakistan
+    date: 2026-11-07
+  - title: ANF seizes 50.702kg drugs in 10 operations across country, 15 suspects arrested
+    url: https://sadaesach.com/en/anf-seizes-50-702kg-drugs-in-10-operations-across-country-15-suspects-arrested/
+    publisher: Sada-e-Sach
 open_questions:
   - The article gives no separate dates for the ten operations; 7 November 2026 is both its dateline and publication date and is used as the incident date.
   - The cannabis figure of 21.5 kg is the sum of the stated seizures (500 grams of cannabis in Islamabad, 2.4 kg plus 18 kg plus 3.6 kg plus 1.2 kg of hashish); the source states only the 50.702 kg combined narcotics total.
@@ -55,14 +66,16 @@ open_questions:
   - The page carries a lead image and a gallery of WhatsApp-style pictures with empty captions and alt text, so whether they show these seizures could not be established and no media entry is added.
   - No agency statement or second outlet reporting these ten operations could be opened.
   - The article does not say how the 15 arrests are distributed across the ten operations, and the locations listed account for fewer than ten separate places.
+  - The cannabis breakdown stated here sums to about 25.7 kg (500 grams of weed plus 2.4 kg plus 18 kg plus 3.6 kg plus 1.2 kg of hashish), while the existing report records 21.5 kg; the 50.702 kg combined total, 10 operations and 15 arrests match.
+  - The UrduPoint page carries a lead image whose alt text is only the headline; with no caption or credit establishing it shows these seizures, no media entry is added.
 ---
 
 The Anti-Narcotics Force arrested 15 suspected drug traffickers in 10 operations
-in cities across Pakistan. [@1] An ANF spokesperson said the operations targeted
+in cities across Pakistan. [@1,2,3,4] An ANF spokesperson said the operations targeted
 international trafficking networks, domestic distribution points and
 inter-provincial smuggling routes. [@1] The agency put the total haul at 50.702
 kilogrammes of narcotics, including heroin, hashish, opium, ice and cannabis.
-[@1]
+[@1,2]
 
 In DHA Phase II, Islamabad, officers recovered 500 grams of cannabis from a
 suspect. [@1] Near Humrahi Bus Stop on GT Road in Rawalpindi, officers seized
@@ -85,5 +98,4 @@ heroin concealed in leather welding gloves from a parcel bound for the United
 Kingdom. [@1]
 
 Cases were registered against the arrested suspects under the Control of
-Narcotic Substances Act, 1997, and further investigation was under way. [@1]
-
+Narcotic Substances Act, 1997, and further investigation was under way. [@1,2]
