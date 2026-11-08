@@ -81,6 +81,11 @@ sources:
     url: https://www.newsinc24.com/news/378-arrested-drugs-worth-rs-64-cr-seized-in-bengal-anti-narcotics-drive
     publisher: Newsinc24
     date: 2026-11-08
+  - title: மேற்கு வங்கத்தில் ரூ. 64 கோடி மதிப்பிலான போதைப்பொருள்கள் பறிமுதல்; 378 பேர் கைது| 378 arrested, drugs worth Rs 64 crore seized in week-long anti-narcotics drive in Bengal
+    url: https://www.dinamani.com/amp/story/india/2026/Nov/08/378-arrested-drugs-worth-rs-64-crore-seized-in-week-long-anti-narcotics-drive-in-bengal
+    publisher: Dinamani
+    date: 2026-11-08
+    language: ta
 open_questions:
   - No date is given for individual raids; 7 November 2026 is the date of the announcement and the last day of the drive, and is used as the incident date.
   - The 10,000 kg is the chief minister's estimate of the yield of the 300 bighas of ganja destroyed, not a weighed amount.
@@ -103,6 +108,8 @@ open_questions:
   - Newsinc24 states properties worth Rs 21 crore were attached, again inconsistent with the Rs 1 crore in its quoted post.
   - The Statesman headline value of Rs 64 crore covers all narcotics seized in the drive, not ganja alone.
   - 'The Statesman''s only image is captioned ''Photo: ANI/Representative'', so it is not listed as media for this event.'
+  - Dinamani describes the destroyed amount as about 10,000 kg of ganja plants and gives no area figure, so it does not confirm the 300 bighas reported elsewhere; the tracker keeps its existing area figure.
+  - Dinamani's Rs 64 crore figure covers all narcotics seized in the drive, not ganja alone.
 media:
   - kind: photo
     url: https://www.theweek.in/news/india/2026/11/08/west-bengal-drug-mafia-crackdown-cm-adhikari-confirms-378-arrests-shares-video-of-police-action.html
@@ -113,7 +120,7 @@ media:
 
 West Bengal police arrested 378 people in 212 cases registered under the
 Narcotic Drugs and Psychotropic Substances (NDPS) Act during a statewide special
-drive against drug trafficking and illicit cultivation. [@1,3,6,8] Chief Minister
+drive against drug trafficking and illicit cultivation. [@1,3,6,8,9] Chief Minister
 Suvendu Adhikari announced the results on 7 November 2026, the last day of the
 drive, in a post on social media. [@2,3,6] Officers destroyed illegal ganja
 cultivation spread over 300 bighas of land, a form of cannabis grown for its
@@ -125,7 +132,7 @@ Police valued the narcotics seized in the drive at about Rs 64 crore, a figure
 that covered heroin, brown sugar, morphine, yaba tablets and codeine-based cough
 syrup as well as cannabis, not only ganja. [@1,6,7] Police attached property worth
 Rs 1 crore and began 68 financial investigations against 110 accused people.
-[@1,3] The drive also included 215 public awareness campaigns, and Adhikari linked
+[@1,3,9] The drive also included 215 public awareness campaigns, and Adhikari linked
 it to the central government's Nasha Mukt Bharat Abhiyan, its campaign for a
 drug-free India. [@1]
 
@@ -135,4 +142,4 @@ drug-free. [@1,3,8]
 
 The chief minister's post listed 215 public awareness campaigns during the drive. [@4] The chief minister's post gave the destroyed ganja cultivation as 300 bighas (99.17 acres), with an estimated yield of 10,000 kg. [@5] The chief minister said agencies seized Rs 17 lakh in cash and disposed of narcotic substances worth around Rs 101 crore during the period. [@5]
 
-The drive ran across the whole state for one week, from 31 October to 7 November. [@6,7]
+The drive ran across the whole state for one week, from 31 October to 7 November. [@6,7,9]
