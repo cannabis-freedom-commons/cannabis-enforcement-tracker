@@ -43,6 +43,10 @@ sources:
     url: https://brighterkashmir.com/seven-drug-peddlers-arrested-in-jk
     publisher: Brighter Kashmir
     date: 2026-11-08
+  - title: 9 drug peddlers arrested
+    url: https://www.dailyexcelsior.com/9-drug-peddlers-arrested-2/
+    publisher: Daily Excelsior
+    date: 2026-11-08
 open_questions:
   - The operations bear no separate date; 7 November 2026 is the publication date and the day officials said they spoke, so it is used as the incident date.
   - The Baramulla recovery is described only as a bhang-like substance, and the Anantnag and Handwara recoveries as charas or a charas-like substance; no laboratory confirmation is reported.
@@ -55,6 +59,10 @@ open_questions:
   - 7 November 2026 is the dateline in the text; 8 November 2026 is the source publication date.
   - Only one accessible account of this roundup was opened, so no second outlet confirms the vehicle numbers.
   - The page image carries no caption confirming it shows this seizure, so no media entry is added.
+  - This article is a nine-arrest roundup; its Bandipora, Anantnag and Shopian components are recorded in separate reports and are not part of this one.
+  - Daily Excelsior gives no weights for the Anantnag charas and heroin or the Handwara charas, and describes the Baramulla recovery only as a bhang-like substance.
+  - The Anantnag portion of the roundup names the same five suspects held the day before, so it may re-report operations carried out on 6 November.
+  - No laboratory confirmation of the substances and no court outcomes are reported.
 ---
 
 Police arrested Ubair Ahmad Mochi of Kalantara Bala after stopping a Sumo
@@ -80,3 +88,5 @@ on drug trafficking and asked the public to help in the fight against drugs.
 [@1]
 
 At Cheradari, police intercepted a passenger Sumo bearing registration No. JK05N-9646 travelling from Baramulla towards Chandoosa. [@2] At Batagund, police intercepted a tipper bearing registration No. JK05B-5479 with the charas-like substance concealed inside the dashboard. [@2] After the Baramulla recovery, the magistrate and independent witnesses were called to the spot and seizure proceedings were completed under the prescribed legal procedure. [@2]
+
+Daily Excelsior reported nine alleged drug peddlers arrested in multiple operations across Bandipora, Anantnag, Baramulla, Handwara and Shopian districts of Jammu and Kashmir on 7 November 2026, with heroin, charas and other suspected narcotic substances recovered. [@3]
