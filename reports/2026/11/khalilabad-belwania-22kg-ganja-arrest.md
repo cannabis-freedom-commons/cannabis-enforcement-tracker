@@ -57,6 +57,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-03
     language: hi
+  - title: '22.400 किलो गांजे के साथ दो तस्कर गिरफ्तार: उड़ीसा से गांजा लाकर पीपीगंज में बेचने जा रहे थे; बाइक और दो मोबाइल फोन मिले'
+    url: https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/kahlilabad/news/santkabirnagar-police-arrest-two-smugglers-ganja-seized-dhaurhara-139581185.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-03
+    language: hi
 open_questions:
   - No street value for the 22.400 kg of ganja was published.
   - The report gives no case number, NDPS sections, or charge or court outcome for the two accused.
@@ -77,7 +82,7 @@ trafficking and sales. [@1] Police said the drive was conducted under the
 direction of Sant Kabir Nagar Superintendent of Police Sandeep Kumar Meena. [@1]
 
 Officers recovered 22.400 kg of illegal ganja from their possession, along with
-one motorcycle used in the offence and two Android mobile phones. [@1,2,3]
+one motorcycle used in the offence and two Android mobile phones. [@1,2,3,4]
 
 During questioning the accused said the ganja had been supplied to them by a man
 who gets ganja from Odisha. [@1,2] They said they were taking the ganja to PPganj
