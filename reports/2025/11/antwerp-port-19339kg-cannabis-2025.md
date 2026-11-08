@@ -41,6 +41,9 @@ open_questions:
   - Two Belgian-customs photos of February containers via fireplace briquettes and gutted jukeboxes lack a year and weights, so they cannot be tied to the 2025 annual total, and no media entry is added.
   - The RTL page carries a BELGA-credited photo without a descriptive caption, so it cannot be confirmed to show this seizure event and no media entry is added.
   - The RTBF feature puts the 2025 all-borders cannabis total at more than 27 tonnes, a wider scope than the Antwerp-only 19,339 kg total in this report.
+  - Radio-Canada gives only the full-year 2025 total for Antwerp and does not date any individual seizure, so the report's date remains the one already used for the yearly total.
+  - The 21 tonnes are attributed to Canadian-origin cannabis only; it is not stated whether other cannabis intercepted at Antwerp in 2025 is included.
+  - The page's 21-tonne figure is Canadian-origin cannabis, while the report's separate 19,339 kg figure covered 13 operations between January and early November 2025; this source does not reconcile the two totals.
 sources:
   - title: Nearly 20 tonnes of marijuana seized at Port of Antwerp in 2025
     url: https://eumorningpost.com/news/4969-nearly-20-tonnes-of-marijuana-seized-at-port-of-antwerp-in-2025
@@ -66,6 +69,11 @@ sources:
     publisher: RTBF Actus
     date: 2025-11-28
     language: fr
+  - title: Des quantités record de cannabis canadiens saisies en Europe | En bref | Radio-Canada
+    url: https://ici.radio-canada.ca/en-bref/90-17647/pot-hash-canada-belgique-clandestin
+    publisher: Radio-Canada
+    date: 2026-10-28
+    language: fr
 ---
 
 Belgian customs intercepted 19,339 kg of cannabis at the Port of Antwerp
@@ -74,7 +82,7 @@ seized in all of 2024. [@1,4] Officers made the seizures across 13 operations,
 four of them involving hauls of more than three tonnes each; twelve of the
 shipments came from Canada and one from Thailand. [@1,4,5] Customs figures later
 put the full-year 2025 marijuana total at 21 tonnes, alongside nearly 55
-tonnes of cocaine. [@2,3]
+tonnes of cocaine. [@2,3,6]
 
 Finance spokesman Francis Adyns said most shipments arrive by sea through
 Antwerp, largely from Canada, but also by air cargo, courier and postal
@@ -83,3 +91,5 @@ Colman linked the flow to overproduction in countries that legalised cannabis
 for their domestic markets, with surplus diverted into international
 trafficking. [@1] Canada, the United States and Thailand have legalised
 cannabis to varying degrees, but only for domestic markets. [@1,4]
+
+Belgian authorities recorded a marked rise in smuggling of the drug since Canada legalised cannabis in 2018. [@6] Once inside Europe, the cannabis can be sold for nearly 10 times its price, depending on the location, since cannabis remains illegal in most European Union countries. [@6] Customs found the shipments hidden in a container of a family's personal effects, in gutted bran crates fitted out inside, and in vacuum-packed, labelled bags sent by sea. [@6] Only 1 to 2 per cent of containers at Antwerp are inspected, using sniffer dogs, scanners, artificial intelligence or staff intuition. [@6] The port handles 13.5 million containers a year. [@6] Belgium appointed Ine Van Wymersch as commissioner in charge of the fight against drugs, and she asked Canada for closer cooperation on the problem she called glocal. [@6] Europol said the profitability of North American cannabis, due to its high potency and low production cost, combined with European demand, "guarantees that this illicit trade will probably persist". [@6]
