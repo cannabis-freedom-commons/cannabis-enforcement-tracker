@@ -59,6 +59,16 @@ sources:
     publisher: La Audiencia
     date: 2026-11-07
     language: es
+  - title: Detienen a integrantes de la Unión Tepito por narcomenudeo en la CDMX
+    url: https://lasillarota.com/metropoli/2026/11/7/detienen-a-integrantes-de-la-union-tepito-por-narcomenudeo-en-la-cdmx-536460.html
+    publisher: La Silla Rota
+    date: 2026-11-07
+    language: es
+  - title: Caen cuatro presuntos integrantes de "La Unión Tepito"
+    url: https://www.informador.mx/mexico/golpear-a-la-union-tepito-caen-cuatro-presuntos-integrantes-con-3-mil-dosis-de-cocaina-y-15-kg-de-marihuana-en-la-morelos-20261107-0065.html
+    publisher: El Informador
+    date: 2026-11-07
+    language: es
 open_questions:
   - No weight is given for the roughly 3,000 suspected cocaine wrappers, so only the marijuana weight is counted and no combined drug total is used.
   - The sources give full surnames only as Guzmán or “N”; the minor is not named.
@@ -66,7 +76,7 @@ open_questions:
 ---
 
 Mexico City citizen-security officers detained four alleged members of La Unión
-Tepito in colonia Morelos in Venustiano Carranza. [@1] The detainees were a
+Tepito in colonia Morelos in Venustiano Carranza. [@1,4,5] The detainees were a
 24-year-old man, women aged 54 and 24, and a 16-year-old girl. [@2] The
 detainees were identified as Pedro “N”, Jovita “N” and Jessica “N”, plus the
 16-year-old girl, allegedly linked to the group's street-level drug dealing.
@@ -78,11 +88,10 @@ police. [@1] Officers entered the common area and saw three more people handling
 other wrappers. [@1] Officers seized about 3,000 paper wrappers containing
 suspected cocaine. [@1] Officers also seized 25 transparent plastic bags holding
 about 15 kilograms of apparent marijuana, plus eight mobile phones of different
-brands and models. [@1]
+brands and models. [@1,4]
 
 The four were told their constitutional rights and taken with what was seized to
 the Public Prosecutor's agent, who will open the investigation file and decide
 their legal situation. [@2] A data cross-check showed the 24-year-old had two
 2025 admissions to Mexico City's prison system for health crimes in the form of
 street-level drug dealing. [@3]
-
