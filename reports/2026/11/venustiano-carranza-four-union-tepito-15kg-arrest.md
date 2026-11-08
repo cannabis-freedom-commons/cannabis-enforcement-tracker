@@ -69,6 +69,11 @@ sources:
     publisher: El Informador
     date: 2026-11-07
     language: es
+  - title: Detienen a cuatro personas con 3 mil dosis de cocaína y 15 kilos de marihuana en la Morelos
+    url: https://www.diariodemexico.com/mi-ciudad/detienen-cuatro-personas-con-3-mil-dosis-cocaina-15-kilos-marihuana-en-morelos
+    publisher: Diario de México
+    date: 2026-11-07
+    language: es
 open_questions:
   - No weight is given for the roughly 3,000 suspected cocaine wrappers, so only the marijuana weight is counted and no combined drug total is used.
   - The sources give full surnames only as Guzmán or “N”; the minor is not named.
@@ -76,8 +81,8 @@ open_questions:
 ---
 
 Mexico City citizen-security officers detained four alleged members of La Unión
-Tepito in colonia Morelos in Venustiano Carranza. [@1,4,5] The detainees were a
-24-year-old man, women aged 54 and 24, and a 16-year-old girl. [@2] The
+Tepito in colonia Morelos in Venustiano Carranza. [@1,4,5,6] The detainees were a
+24-year-old man, women aged 54 and 24, and a 16-year-old girl. [@2,6] The
 detainees were identified as Pedro “N”, Jovita “N” and Jessica “N”, plus the
 16-year-old girl, allegedly linked to the group's street-level drug dealing.
 [@3]
