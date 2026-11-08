@@ -49,6 +49,11 @@ sources:
     publisher: Diario Extra
     date: 2026-10-31
     language: es
+  - title: 'Operativo Halloween saldrá a las calles como todos los años: Fuerza Pública decomisó armas y droga la primera noche'
+    url: https://culturacr.net/operativo-halloween-saldra-a-las-calles/
+    publisher: Culturacr.net
+    date: 2026-10-31
+    language: es
 open_questions:
   - The Ministry of Public Security did not give the amounts of marijuana, cocaine or crack seized in Grecia or Palmares.
   - The reports did not name the man detained in Grecia, say whether he was charged, or describe his court situation.
@@ -60,8 +65,8 @@ open_questions:
 
 Costa Rica's Fuerza Pública, the national police, detained a man in Grecia,
 Alajuela, who was allegedly carrying marijuana, cocaine and crack, along with
-cash. [@2] In Palmares, officers seized marijuana, cocaine and crack, a
-less-lethal weapon and ₡655,000 (Costa Rican colones) in cash. [@1]
+cash. [@2,3] In Palmares, officers seized marijuana, cocaine and crack, a
+less-lethal weapon and ₡655,000 (Costa Rican colones) in cash. [@1,3]
 
 The operation deployed 1,500 officers from 17:00 on Friday. [@1] The force
 announced increased controls at cemeteries, bars, temples and commercial sites
@@ -72,4 +77,3 @@ the operation running until Sunday 1 November, with reinforced vigilance at
 sites where crowds were expected. [@1] Raúl Rivera, director general of the
 Fuerza Pública, said in a video message that the force had deployed a major
 operation to keep order during the celebrations. [@1]
-
