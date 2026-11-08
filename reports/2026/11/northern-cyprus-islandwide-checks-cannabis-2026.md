@@ -50,6 +50,11 @@ sources:
     publisher: Haber Kıbrıs
     date: 2026-11-08
     language: tr
+  - title: 'Ülke genelinde 7 ayrı uyuşturucu operasyonu: Yüzlerce gram madde ele geçirildi, 9 kişi tutuklandı'
+    url: https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n619172-ulke-genelinde-7-ayri-uyusturucu-operasyonu-yuzlerce-gram-madde-ele-gecirildi-9-kisi-tutuklandi
+    publisher: Kıbrıs Postası
+    date: 2026-11-08
+    language: tr
 open_questions:
   - The cannabis was described as hint keneviri believed to be drugs, with joints and grinders described as believed to contain drugs or residue; no laboratory confirmation was reported.
   - The 600 grams of synthetic cannabinoid seized in Lefkoşa is excluded from cannabis figures under scope rules; only the separately stated 26.5 grams of cannabis from that operation is counted.
@@ -59,6 +64,12 @@ open_questions:
   - Only one outlet account could be opened, so the police account is not independently corroborated.
   - The published photo is presented with the inspections report generally and is not confirmed to show the cannabis seizures themselves.
   - 'Left out, as its quotation was not found in Haber Kıbrıs: The wider inspections also led to 18 people being detained for staying without residence permission despite having no legal status in the country.'
+  - Kıbrıs Postası gives the Lefkoşa cannabis as 26 grams, while the existing report, from Haber Kıbrıs, gives 26.5 grams.
+  - The submitted account separately reports 3 grams of cannabis in one Famagusta search and 110 grams in another, alongside cannabis found in a traffic stop, so the 113-gram Famagusta figure in the existing report cannot be checked against it.
+  - The account repeats the same police statement as the outlet already cited and is not independent reporting.
+  - No charges or court outcomes were reported for the nine people arrested.
+  - The page's only in-article images are uncaptioned and not confirmed to show the operations or the seizures, so none is listed as media.
+  - 'Left out, as its quotation was not found in Kıbrıs Postası: Police said investigations into the seven cases were continuing.'
 ---
 
 Police carried out simultaneous public-order and traffic inspections in Lefkoşa,
@@ -71,12 +82,11 @@ synthetic cannabinoid. [@1] Four people were arrested in connection with the
 Lefkoşa operations. [@1]
 
 Officers also found a tobacco-mixed joint believed to contain drugs and a
-grinder believed to carry drug residue in those operations. [@1] In Gazimağusa,
+grinder believed to carry drug residue in those operations. [@1,2] In Gazimağusa,
 searches of a vehicle, a home and persons found 113 grams of cannabis along with
 four burnt joints believed to contain drugs, paper, a grinder and an illegally
-held hand detector. [@1] Three people were arrested in connection with the
+held hand detector. [@1,2] Three people were arrested in connection with the
 Gazimağusa searches. [@1] In İskele, searches of two people and the residence
 where they stayed found a total of 38 grams of cannabis with a tobacco-mixed
-burnt joint believed to contain drugs, a tray and four joint butts. [@1] Two
+burnt joint believed to contain drugs, a tray and four joint butts. [@1,2] Two
 people were arrested in connection with the İskele searches. [@1]
-
