@@ -65,6 +65,11 @@ sources:
     publisher: Living Cesenatico
     date: 2026-11-05
     language: it
+  - title: 'Maxi sequestro di droga tra Ravenna e Cervia: 19 chili di stupefacenti, una pistola e tre arresti'
+    url: https://www.ravennawebtv.it/maxi-sequestro-di-droga-tra-ravenna-e-cervia-19-chili-di-stupefacenti-una-pistola-e-tre-arresti/
+    publisher: Ravenna Web Tv
+    date: 2026-11-04
+    language: it
 open_questions:
   - Only one accessible account of this event was opened; searches found no second outlet or agency statement to corroborate it.
   - The 19 kg total is reported as approximate, split as about nine kilograms in Ravenna and about ten kilograms in Cervia, with no exact laboratory weight published.
@@ -77,30 +82,32 @@ open_questions:
   - The new account reports the cash seized from the two Ravenna suspects as 3,000 euros, while the existing report records 3,015 euros from earlier sources.
   - The new article dated 5 November 2026 gives no separate operation or validation dates, reporting only that the Cervia search occurred the same afternoon, so the existing operation and validation dates rest on earlier sources.
   - The page lists one image captioned only 'polizia' with no caption tying it to this seizure, so no media entry is added.
+  - The Ravenna Web Tv account reproduces the Ravenna police statement already cited in this report, so it is not independent reporting.
+  - Ravenna Web Tv dates the published account 4 November 2026 and gives the operation date as 2 November, the same dates the report already uses.
 ---
 
 State police carried out two operations on the afternoon of 2 November 2026
 between Ravenna and Cervia, arresting two 21- and 22-year-old men from Ravenna
-and a 24-year-old from Cervia. [@1,3,6] Officers first stopped the two Ravenna men,
-both with clean records, while they were travelling in a car. [@1,2] On the
+and a 24-year-old from Cervia. [@1,3,6,7] Officers first stopped the two Ravenna men,
+both with clean records, while they were travelling in a car. [@1,2,7] On the
 morning of 4 November the preliminary-investigations judge in Ravenna validated
 all three arrests, keeping the 24-year-old from Cervia in jail and placing the
-two from Ravenna under house arrest with electronic bracelets. [@1,2,4,5,6]
+two from Ravenna under house arrest with electronic bracelets. [@1,2,4,5,6,7]
 
 In the car officers found a bag containing almost seven kilograms of hashish and
-marijuana. [@1,2,3,5,6] Later searches in the two young men's homes brought the Ravenna
-total to about nine kilograms. [@1,2,3,5] In Cervia officers found about ten kilograms
-of hashish and marijuana in the 24-year-old's home. [@1,2,3,5] The two operations
-together yielded about 19 kilograms of hashish and marijuana. [@1,2,3,5,6] Officers also
+marijuana. [@1,2,3,5,6,7] Later searches in the two young men's homes brought the Ravenna
+total to about nine kilograms. [@1,2,3,5,7] In Cervia officers found about ten kilograms
+of hashish and marijuana in the 24-year-old's home. [@1,2,3,5,7] The two operations
+together yielded about 19 kilograms of hashish and marijuana. [@1,2,3,5,6,7] Officers also
 seized packaging material, mobile phones, precision electronic scales and 3,015
-euros in cash believed to come from dealing. [@1,2] The Cervia search also turned
+euros in cash believed to come from dealing. [@1,2,7] The Cervia search also turned
 up 29 vials of codeine-based syrup and about 1.6 kilograms of THC-containing
-edible biscuits that tested positive in a presumptive narcotest. [@1] Officers
+edible biscuits that tested positive in a presumptive narcotest. [@1,7] Officers
 also seized a concealed Beretta model 1934 semi-automatic pistol in 9mm Short
-with six rounds already loaded plus 25 more rounds. [@1,2,4,5]
+with six rounds already loaded plus 25 more rounds. [@1,2,4,5,7]
 
 The operations were run jointly by the specialist anti-drug units of the two
-Romagna Mobile Squads. [@1,2,3] Investigators said checks into the pistol's origin
-were still under way. [@1,2]
+Romagna Mobile Squads. [@1,2,3,7] Investigators said checks into the pistol's origin
+were still under way. [@1,2,7]
 
 The two men from Ravenna are defended by lawyers Carlo Benini and Carlotta Benini. [@5]
