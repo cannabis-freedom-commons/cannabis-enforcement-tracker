@@ -73,11 +73,15 @@ open_questions:
   - The packet of material with a specific smell is still reported without a weight or laboratory confirmation, so no cannabis weight is recorded.
   - The article gives no separate date for the search and detention; 8 November 2026 is its publication date.
   - The page labels its illustration as an AI-enhanced video still, so no media entry is added.
+  - The Astana TV page uses the same city police department statement as the sources already cited and gives no separate date for the search and detention; 8 November 2026 is its publication date.
+  - The page identifies its illustration as an AI-enhanced video still ("Кадр из видео/улучшен ИИ"), so no direct video or photo address is confirmed to show the raid and no media entry is added.
+  - The page reports "около сотни" (about a hundred) bushes in the lead but 93 potted plants in the body; the body figure is used.
+  - 'Left out, as its quotation was not found in Телеканал «Астана»: The occupants lived in a temporary outbuilding while the main premises were used to grow the plants.'
 ---
 
 Police in Almaty shut down a drug plantation set up in a rented house. [@1]
 Operatives found the marijuana plantation in a rented house in the city's
-Turksib district. [@1,2] The occupants lived in a temporary outbuilding while the
+Turksib district. [@1,2,3] The occupants lived in a temporary outbuilding while the
 main premises were used to grow the plants. [@1,2,3]
 
 During the search, police found 93 potted plants with the characteristic smell
