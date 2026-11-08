@@ -39,16 +39,24 @@ sources:
     url: https://fijiglobalnews.com/fiji-man-sentenced-to-five-years-for-cannabis-cultivation-and-drug-possession/
     publisher: Fiji Global News
     date: 2026-09-18
+  - title: Grower jailed for cannabis
+    url: https://www.fijitimes.com.fj/grower-jailed-for-cannabis/
+    publisher: The Fiji Times
+    date: 2026-09-19
 open_questions:
   - Only one source for this sentence could be found.
   - The article names no court and gives no sentence date; 18 September is its publication date.
   - The reported weight of 13.050 grams for 26 plants is preserved as published though it seems implausibly low.
+  - The Fiji Times says Delasau was sentenced 'last week' relative to its 19 September 2026 publication, so the exact sentencing date remains open.
+  - The only image on the submitted page is a generic stock gavel photo, so no event photo is listed.
 ---
 
-Sivaniolo Delasau of Tavua was sentenced to five years and eleven months in prison for cultivating cannabis and possessing illicit drugs, with a non-parole period of four years. [@1] He was convicted of cultivating 26 cannabis plants, reported as weighing 13.050 grams, and of possessing more than 114 grams of dried cannabis leaves and plant material. [@1] He must serve at least four years before parole eligibility. [@1]
+Sivaniolo Delasau of Tavua was sentenced to five years and eleven months in prison for cultivating cannabis and possessing illicit drugs, with a non-parole period of four years. [@1,2] He was convicted of cultivating 26 cannabis plants, reported as weighing 13.050 grams, and of possessing more than 114 grams of dried cannabis leaves and plant material. [@1,2] He must serve at least four years before parole eligibility. [@1]
 
-Delasau had told police he grew the plants for commercial purposes and intended to sell the cannabis in Ba. [@1] He received an additional 30 days' imprisonment for the possession charge, to run concurrently with the cultivation sentence. [@1]
+Delasau had told police he grew the plants for commercial purposes and intended to sell the cannabis in Ba. [@1,2] He received an additional 30 days' imprisonment for the possession charge, to run concurrently with the cultivation sentence. [@1,2]
 
 ## Destruction order
 
-The court ordered the seized cannabis destroyed within 30 days, with a destruction report to be filed with the court. [@1]
+The court ordered the seized cannabis destroyed within 30 days, with a destruction report to be filed with the court. [@1,2]
+
+Magistrate Timoci Qalinauci imposed the sentence after Delasau pleaded guilty to unlawful possession and cultivation of illicit drugs. [@2]
