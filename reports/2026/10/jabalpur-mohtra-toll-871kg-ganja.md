@@ -456,10 +456,18 @@ open_questions:
   - This page reports about 8.5 quintals while the existing report records 871 kg 95 g; the existing precise figure is retained.
   - This page values the consignment at about Rs 1.5 crore while the existing report records about Rs 4.35 crore; the existing figure is retained.
   - The page gives Friday late night as the time and 31 October 2026 is its publication date; the existing report's around 2 am on 31 October 2026 is retained.
+  - The submitted Yash Bharat page could not be used as evidence because the capture resolves to the homepage and contains no article text about the seizure.
+  - Dainik Bhaskar and Amar Ujala report 29 sacks in a truck valued at about Rs 1.30 crore, while the existing report records 28 sacks concealed among 412 paint cans valued at Rs 4,35,55,000; the existing figures are retained.
+  - The Times of India gives the weight as 871.95 kg, apparently a decimal slip for 871 kg 95 g recorded in the existing report.
+  - Amar Ujala places the interception near Muskura Mor on NH-30 in the Gosalpur area while the existing report records a blockade near the Mohtra toll plaza.
+  - Dainik Bhaskar spells the second accused Vikram Karamakar while the existing report uses Vikram Karmakar; both describe a resident of Dinajpur, West Bengal.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The two were identified as 45-year-old Dharamveer Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South Dinajpur, West Bengal.'
+  - Left out arrested, as no supporting quotation was given.
+  - Left out kg seized, as no supporting quotation was given.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container
-driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22,26,31,32,34,38,39,41,42,43,47,48,50,51] The operation was
+driver, and seized a large consignment of cannabis. [@1,6,9,10,16,17,19,20,22,26,31,32,34,38,39,41,42,43,44,47,48,50,51] The operation was
 carried out around 2 am on Saturday 31 October 2026 by a joint team of the
 Jabalpur Crime Branch and Gosalpur police, with help from the Narcotics Wing in
 Jhansi, Uttar Pradesh. [@1,36,37,41,49] The two were identified as 45-year-old Dharamveer
