@@ -101,6 +101,11 @@ sources:
     publisher: Diario ABC
     date: 2026-11-08
     language: es
+  - title: '22 detenidos, 3 kilos de coca rosa y 13.000 plantas de marihuana: gran golpe a la droga en varios pueblos de Granada'
+    url: https://www.ideal.es/granada/detenidos-kilos-coca-rosa-13000-plantas-marihuana-20261108113910-nt.html
+    publisher: Ideal
+    date: 2026-11-08
+    language: es
 open_questions:
   - Bud weight is reported as more than 24 kilos, so the recorded cannabis total of 25.613 kg is a stated minimum combining 24 kg of buds and 1.613 kg of hashish.
   - The Loja seizure is written as 11.605 kilos; it is read as 11.605 kg, consistent with the reported total of more than 24 kilos of buds.
@@ -113,6 +118,9 @@ open_questions:
   - The page lead photo is captioned as Guardia Civil officers in Montefrio, Granada, credited to EFE/Miguel Angel Molina, without tying it to a specific seizure in this sweep, so no media entry is added.
   - ABC attributes the entire Loja cash seizure and the whole Pulianas hashish-free find to the Alto Impacto sweep, matching the totals already recorded; it does not attribute findings to particular suspects beyond those named.
   - ABC describes the Loja figure as 11,605 kilos of buds, the reading already used for the recorded 11.605 kg.
+  - Ideal does not say how many of the 22 arrested have been formally charged or report any court outcome.
+  - Ideal lists the plant figures as 'intervenidas' (seized), consistent with the tracked plants_destroyed total, which counts seized plants.
+  - The Ideal lead photo is captioned only with the operation's headline totals and credited to Ideal, without identifying a scene distinct from the Guardia Civil plantation handouts already listed, so no media entry is added.
 ---
 
 Granada's Guardia Civil carried out a special operation between 3 and 5 November
@@ -123,8 +131,8 @@ related crime. [@1]
 
 Across 13 police operations and 33 searches, officers seized 13,165 marijuana
 plants, more than 24 kilos of marijuana buds, 1,613 grams of hashish, 3,328
-grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5,6,7] They also recovered an air
-rifle, ammunition and 19,831 euros in cash. [@1] In Pulianas, two people were
+grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5,6,7,8] They also recovered an air
+rifle, ammunition and 19,831 euros in cash. [@1,8] In Pulianas, two people were
 detained with 3,328 grams of pink cocaine and 4,506 grams of vacuum-packed
 marijuana buds. [@1] In Loja, five people were detained in three searches of
 storage and preparation premises, with 11.605 kilos of marijuana buds and 19,831
@@ -132,21 +140,23 @@ euros seized, while three more arrests remained pending. [@1,3] On the third day
 searches in Illora, Obeilar and Tocon yielded 1,062 marijuana plants. [@1] In
 Pinos Puente's Las Flores neighbourhood, seven searches yielded 2,379 marijuana
 plants and a 9mm short cartridge. [@1] In Caniles officers found four large
-plants weighing 14.4 kilos, and 151 more plants were seized in Alhendin. [@1] In
+plants weighing 14.4 kilos, and 151 more plants were seized in Alhendin. [@1,4] In
 the first two days officers confiscated 9,569 marijuana plants, including 53 in
 Salobrena, 521 in Cajar and 1,702 in Pinos Puente. [@1] They also seized 165
 plants and 4,200 grams of buds in Calicasas, and found 1,427 plants, 4,815 grams
-of marijuana and an air rifle in Moraleda de Zafayona. [@1] In Atarfe and
+of marijuana and an air rifle in Moraleda de Zafayona. [@1,4] In Atarfe and
 Alhendin, seven searches yielded 5,701 marijuana plants, 1,613 grams of hashish,
-34 grams of cocaine and 75 grams of dried buds. [@1]
+34 grams of cocaine and 75 grams of dried buds. [@1,8]
 
 The Loja investigation remained open, with three more people pending arrest,
-including two Dutch nationals. [@1] Officers found several indoor grows
+including two Dutch nationals. [@1,8] Officers found several indoor grows
 illegally connected to the electricity grid, creating a safety risk for
 buildings and occupants. [@1]
 
-At least 11 more people were under investigation for alleged offences against public health, electricity fraud and document forgery. [@3,5,7] The Loja investigation was described as a network storing, transporting and distributing large marijuana consignments to other parts of Spain and abroad. [@4]
+At least 11 more people were under investigation for alleged offences against public health, electricity fraud and document forgery. [@3,5,7,8] The Loja investigation was described as a network storing, transporting and distributing large marijuana consignments to other parts of Spain and abroad. [@4]
 
 One detained person was investigated for using Italian documents while subject to an Italian-issued Schengen entry ban. [@5]
 
 The operations were carried out by investigation units of the Granada command, including the ROCA teams, crime-scene inspection teams and the Alto Impacto operational group, supported in the searches by the command's citizen-security unit (USECIC). [@7]
+
+The two men detained in Pulianas were held by officers of the investigation area of the Guardia Civil's station in Maracena. [@8] The two Pulianas detainees' unit and the Loja group were described as follows: the Loja operation was run by the Alto Impacto operational group based in Durcal. [@8]
