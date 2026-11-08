@@ -63,6 +63,11 @@ sources:
     publisher: Bangladesh Pratidin
     date: '2026-11-02'
     language: bn
+  - title: চৌদ্দগ্রামে ১১১ কেজি গাঁজা ও বিদেশি মদসহ গ্রেপ্তার ৪
+    url: https://rajshahirsomoy.com/19938
+    publisher: Rajshahir Somoy
+    date: 2026-11-02
+    language: bn
 open_questions:
   - >-
     The accounts conflict on the incident date: BD24Live prints Sunday 1 October, while Agrajatra
@@ -86,6 +91,10 @@ open_questions:
     An earlier update recorded different suspect spellings, ages and agency attribution, but the
     Agrajatra page reopened for this audit agrees with BD24Live on Md Azam Ali (40), Md Dablu (40)
     and the joint SRB-7/SRB-11 team.
+  - This page dates the raids to Monday 2 November, while the report retains 1 November as a Sunday; the conflict over the date is unchanged and the month correction remains unconfirmed.
+  - The page names the driver as Md Azam Ali (40) and the second man as Md Dablu (40) without the Chapainawabganj addresses given by other accounts.
+  - The page's account of the separate Bijoykara Bazar auto-rickshaw stop that yielded 54 bottles of foreign liquor is already described in the existing report and is not added again.
+  - The sentence about the cargo-truck search and the officer's statement about legal steps could not be matched verbatim against the opened capture during checking, so those details rest on the report's existing sources.
 media:
   - kind: photo
     url: https://www.agrajatrapratidin.com/country/news/28564
@@ -108,7 +117,7 @@ Chapainawabganj district. [@1]
 Officers recovered a total of 111 kg of ganja, the local term for cannabis, from
 the rear part of the cargo truck. [@1,2,4] Officers seized the cargo truck used to
 transport the drugs. [@1] The authorities put the estimated value of the seized
-cannabis at 1,110,000 taka. [@1]
+cannabis at 1,110,000 taka. [@1,5]
 
 Further legal action over the arrested accused and the seized drugs was pending.
 [@1,3] The same article also describes a separate CNG auto-rickshaw stop that
