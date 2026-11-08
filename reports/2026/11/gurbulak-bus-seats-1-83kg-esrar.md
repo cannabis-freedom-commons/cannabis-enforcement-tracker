@@ -57,6 +57,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-08
     language: tr
+  - title: 'Sınır kapısında x-ray ile tespit: yolcu otobüsünde 1,83 kilo esrar ele geçirildi'
+    url: https://www.haberport.com/haber/sinir-kapisinda-x-ray-ile-tespit-yolcu-otobusunde-183-kilo-esrar-ele-gecirildi/65108
+    publisher: Haberport
+    date: 2026-11-08
+    language: tr
 open_questions:
   - No arrests or detentions are named in either account; the governorship says only that judicial proceedings continue.
   - Neither account says whether any passenger or the driver was identified, questioned or taken into custody, or what charges are being considered.
@@ -68,17 +73,19 @@ open_questions:
   - The Habertürk page photo is captioned only with the article headline and credited to no one, so it is not added as media.
   - This page reproduces the İhlas Haber Ajansı feed text and is not an independent account of the seizure.
   - It names no authority as the source of the statement, unlike the governorship attribution recorded in other accounts of this event.
+  - Haberport attributes the account to Gürbulak Gümrük Sahası (customs area) officials, while the existing sources cite the Doğubayazıt district governorship; both describe the same seizure and figures.
+  - The Haberport page's only photo is captioned with the article headline and a recap of the seizure, with no credit and no confirmation that it shows the bus or the seized material.
 ---
 
 Officers at the Gürbulak border crossing in Doğubayazıt, Ağrı, sent a bus
 arriving from Iran for X-ray screening under risk analysis on 8 November 2026.
-[@1,3,4] The scan showed suspicious density in some passenger seats, so the bus was
-searched in detail. [@1,4]
+[@1,3,4,5] The scan showed suspicious density in some passenger seats, so the bus was
+searched in detail. [@1,4,5]
 
 In metal compartments under the seat cushions, hidden with special fittings and
 wrapped in black bags, officers found 1 kg 830 g of esrar, the Turkish term for
-cannabis. [@1,3,4] Authorities put the cannabis's market value at about 1,647,000
-Turkish lira on 2026 figures. [@1,3,4]
+cannabis. [@1,3,4,5] Authorities put the cannabis's market value at about 1,647,000
+Turkish lira on 2026 figures. [@1,3,4,5]
 
 The account came in a statement by the Doğubayazıt district governorship, which
 said judicial proceedings in the case were continuing. [@1,3,4] The governorship
