@@ -53,6 +53,11 @@ sources:
     publisher: موقع في الجامعة
     date: 2026-11-08
     language: ar
+  - title: ضبط 31 سائقا بحافلات مدرسية يتعاطون مخدري الحشيش والترامادول وإحالتهم إلى النيابة
+    url: https://gate.ahram.org.eg/News/5980487.aspx
+    publisher: بوابة الأهرام
+    date: 2026-11-08
+    language: ar
 open_questions:
   - No date is given for the tests or the referrals; 8 November 2026 is when the fund's results were published and is used as the incident date.
   - No governorate breakdown, driver names or school names were published.
@@ -61,29 +66,31 @@ open_questions:
   - The submitted page's image is a composite with Arabic text matching the headline, not a photograph of the screening, so it is not listed as media.
   - Filgamaa carries headline and photo links to a separate report on 162 campaigns and 14 drivers, a different round not covered here.
   - Of the 31 positive samples only the 28 hashish cases are cannabis; the three tramadol cases are recorded in the text, not as a cannabis figure.
+  - Ahram Gate reproduces the fund's statement, like the other outlets, so it is not an independent account of the individual cases.
+  - The article carries a composite picture with Arabic text matching the headline rather than a photograph of the screening, so no media is listed.
+  - No date is given for the individual tests or referrals; 8 November 2026 is the publication date of the results and is used as the incident date.
 ---
 
 Egypt's Fund for Combating and Treatment of Addiction referred 31 school-bus
 drivers to the public prosecution on a charge of driving under the influence
-after tests showed they had used drugs. [@1] The drivers were caught in early
+after tests showed they had used drugs. [@1,4] The drivers were caught in early
 screening campaigns run during the first two months of the 2026/2027 school
-year. [@1]
+year. [@1,4]
 
 Of the 31 positive samples, 28 were for hashish and three were for tramadol, a
-prescription opioid. [@1] The fund said it coordinated with the education
-ministry to dismiss any of the drivers found to be working at schools. [@1]
+prescription opioid. [@1,4] The fund said it coordinated with the education
+ministry to dismiss any of the drivers found to be working at schools. [@1,4]
 
-The tests covered 4,510 drivers in several governorates. [@1] The campaigns
+The tests covered 4,510 drivers in several governorates. [@1,4] The campaigns
 involved the General Directorate of Drug Control, the General Traffic
 Directorate, the General Secretariat for Mental Health at the health ministry
-and the Central Security Department at the education ministry. [@1]
+and the Central Security Department at the education ministry. [@1,4]
 
 Parents who suspect a driver can call the fund's 16023 hotline, and the fund
 said reported cases would bring immediate surprise checks. [@1]
 
 The fund's director Amr Othman received a report on the results of the
-campaigns, Dar Al-Maaref reported. [@2]
+campaigns, Dar Al-Maaref reported. [@2,4]
 
 The fund said the testing would continue throughout the school year and expand
-to other governorates. [@3]
-
+to other governorates. [@3,4]
