@@ -48,6 +48,11 @@ sources:
     publisher: Infoseekニュース
     date: 2026-11-04
     language: ja
+  - title: 自宅で大麻を所持した疑い 無職の男(67)を逮捕 岡山県警
+    url: https://www.msn.com/ja-jp/news/other/%E8%87%AA%E5%AE%85%E3%81%A7%E5%A4%A7%E9%BA%BB%E3%82%92%E6%89%80%E6%8C%81%E3%81%97%E3%81%9F%E7%96%91%E3%81%84-%E7%84%A1%E8%81%B7%E3%81%AE%E7%94%B7-67-%E3%82%92%E9%80%AE%E6%8D%95-%E5%B2%A1%E5%B1%B1%E7%9C%8C%E8%AD%A6/ar-AA2gIGLw
+    publisher: MSN
+    date: 2026-11-04
+    language: ja
 open_questions:
   - No weight was published for the single cannabis cigarette, so no kilograms are recorded.
   - The garden plant was described only as resembling cannabis, with no count or confirmed identification, so no plants are recorded and cultivation remains suspected rather than charged.
@@ -65,7 +70,7 @@ Higashi-ku, Okayama city, on 4 November on suspicion of violating the Narcotics
 and Psychotropics Control Act. [@2,3] The reports identify the Okayama Higashi
 Police Station as the authority announcing the arrest. [@1] Officers allege that
 at about 9:40 a.m. on 4 November the man possessed one cannabis cigarette,
-termed daima-tabako, at his home. [@1,3]
+termed daima-tabako, at his home. [@1,3,4]
 
 Police said they acted after receiving information on 5 October that someone was
 growing cannabis in a garden. [@1,3] Following that tip, officers searched the
@@ -73,6 +78,6 @@ man’s home on 4 November and found one cannabis cigarette, which led them to
 arrest him. [@2]
 
 During questioning the man admitted the allegation, telling police that it was
-correct. [@1,3] Officers also found a plant resembling cannabis in the garden of
+correct. [@1,3,4] Officers also found a plant resembling cannabis in the garden of
 the residence. [@1,3] Police are investigating the garden find on suspicion that
 the man had been cultivating cannabis. [@1,3]
