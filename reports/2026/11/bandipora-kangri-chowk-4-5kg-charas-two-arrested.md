@@ -54,6 +54,10 @@ sources:
     url: https://www.dailyexcelsior.com/two-arrested-with-1-5-kg-charas-like-substance-in-jks-bandipora/
     publisher: Daily Excelsior
     date: 2026-11-07
+  - title: Four arrested, over 6 kg of charas-like substance seized in J-K’s Bandipora
+    url: https://theprint.in/india/four-arrested-over-6-kg-of-charas-like-substance-seized-in-j-ks-bandipora/3093171/
+    publisher: ThePrint
+    date: 2026-11-07
 open_questions:
   - The day's two Bandipora cases together were reported as approximately 6.5 kg; the Kangri Chowk recovery is given only as a range of approximately 4–5 kg, so the Kangri weight cannot be stated exactly.
   - No laboratory confirmation that the substance was cannabis was published; police describe it only as a charas-like substance.
@@ -65,11 +69,13 @@ open_questions:
   - 'Left out, as its quotation was not found in District Police, Bandipora (X): The district police announced the arrests in the afternoon of 6 November 2026, the day before the roundup was published.'
   - Daily Excelsior puts the Kangri Chowk recovery at approximately 4.5 kg and the day's total at over six kg, where the KIMS account gave a 4–5 kg range and 6.5 kg in all.
   - Daily Excelsior does not repeat the FIR numbers for the two cases that the earlier accounts gave.
+  - The Print account, carried by the PTI news service, puts the Kangri Chowk recovery at approximately 4.5 kg, matching Daily Excelsior rather than the 4–5 kg range given in the district police post.
+  - 'Left out, as its quotation was not found in ThePrint: Police registered two separate cases and said they were investigating further links and the source and intended destination of the substance.'
 ---
 
 Police in Bandipora district arrested four people in two separate narcotics
 cases, one at Kangri Chowk and one at Garoora Crossing, and recovered
-approximately 6.5 kg of a charas-like substance between them. [@1,3]
+approximately 6.5 kg of a charas-like substance between them. [@1,3,4]
 
 At Kangri Chowk, officers stopped Irfan Ahmad Chopan, a resident of Bagh in
 Bandipora, and Imran Ahmad Sheikh, a resident of Sheikh Mohalla in Bandipora,
