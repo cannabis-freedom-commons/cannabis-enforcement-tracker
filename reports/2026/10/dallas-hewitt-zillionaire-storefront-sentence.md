@@ -56,16 +56,18 @@ open_questions:
   - The sources do not say whether Hewitt will appeal or where he will serve the sentence.
   - The other Operation Blue Laces defendants were sentenced separately; those sentencings are not covered here.
   - 'Left out, as its quotation was not found in The Dallas Morning News: A federal jury had convicted Hewitt in April 2026 of drug trafficking, conspiracy and firearms offences.'
+  - The article gives no total weight for the marijuana sold or seized beyond the weekly 200 to 300 pounds estimate, and no separate figure for the marijuana found at the storefront or his home.
+  - The article does not say whether Hewitt will appeal or where he will serve the sentence.
 ---
 
 Jamarian Hewitt, 39, a Dallas member of the Four-Deuce Oakland Crips, was
-sentenced to more than 37 years in federal prison for drug and gun charges. [@1]
+sentenced to more than 37 years in federal prison for drug and gun charges. [@1,2]
 The sentence was imposed on 28 October 2026. [@1] U.S. District Judge Brantley
 Starr set the term at 447 months. [@2]
 
 Investigators said Hewitt used a storefront called "Exotic Pop South Dallas" to
 sell cocaine, meth, codeine, prescription drugs and marijuana marketed as
-"Zillionaire Marijuana" daily. [@1] The shop was at 3401 S. Malcolm X Blvd. [@2]
+"Zillionaire Marijuana" daily. [@1,2] The shop was at 3401 S. Malcolm X Blvd. [@2]
 Trial evidence showed he sold 200 to 300 pounds (about 91 to 136 kg) of
 marijuana a week from the business. [@2] A search of the storefront turned up
 about a kilogram of methamphetamine, marijuana, prescription pills and multiple
@@ -82,3 +84,4 @@ Tarrant counties and out on bond in Dallas County while the conspiracy ran. [@2]
 lawlessness that this defendant and his gang helped create," said U.S. Attorney
 Ryan Raybould. [@1]
 
+Jamarian Hewitt, a member of the Four-Deuce Oakland Crips, was sentenced to 447 months in prison by U.S. District Judge Brantley Starr after a federal jury convicted him in April of drug trafficking, conspiracy and firearms offences. [@2]
