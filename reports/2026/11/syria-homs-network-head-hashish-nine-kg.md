@@ -95,6 +95,11 @@ sources:
     publisher: الجزيرة نت
     date: 2026-11-07
     language: ar
+  - title: حصاد الأخبار من شبكة شام الإخبارية | السبت 7 تشرين الثاني 2026
+    url: https://shaam.org/in-depth/%D8%AD%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D9%86-%D8%B4%D8%A8%D9%83%D8%A9-%D8%B4%D8%A7%D9%85-%D8%A7%D9%84%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A3%D9%88-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA-7-%D8%AA%D8%B4%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-2026
+    publisher: شبكة شام الإخبارية
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The article gives no date for the arrest itself; 7 November 2026 is its publication date and is used as the incident date.
   - The exact place of the arrest within Homs Governorate is not named.
@@ -118,16 +123,20 @@ open_questions:
   - The page gives no separate date for the Homs arrest itself; 7 November 2026 is its publication date, as already recorded.
   - Captagon, crystal and pharmaceutical pill amounts in the same article are separate non-cannabis drugs and are not counted as cannabis.
   - The page's lead photo is credited to the anti-narcotics administration with a caption about the ambush arrest, but its content is not confirmed to show the seized drugs, so no media entry is added.
+  - The roundup gives no separate date for the Homs arrest; 7 November 2026 is the publication date, as already recorded.
+  - The item describes the earlier 200,000-pill smuggling attempt as a previous security operation without dating it, and the pills are Captagon, a separate substance not counted as cannabis.
+  - The roundup attributes the operation to the Interior Ministry rather than naming the anti-narcotics directorate the earlier account cites; both appear to describe the same agency.
+  - The page's image is captioned only with the roundup title and is not confirmed to show this seizure, so no media entry is added.
 ---
 
 Syria's anti-narcotics directorate announced the arrest of a man identified by
 the initials G.Sh., described as the head of a drug trafficking network whose
 two members were arrested in May. [@1,3,4,5,6,10] He was found with 9 kilograms of hashish
-and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6,9,10]
+and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6,9,10,11]
 
 The directorate said its Homs branch made the arrest, continuing an operation it
 carried out on 5 May 2026 that broke up an attempt to smuggle 200,000 Captagon
-pills from Lebanon and led to two arrests. [@1,3,4,5,7] The two May detainees were the
+pills from Lebanon and led to two arrests. [@1,3,4,5,7,11] The two May detainees were the
 two members of the network, in an operation whose pills came from Lebanon. [@2]
 Units kept tracking the rest of those involved and the network's branches, the
 directorate said. [@1,9]
