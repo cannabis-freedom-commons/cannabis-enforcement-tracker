@@ -56,6 +56,11 @@ sources:
     publisher: আমার সংবাদ
     date: 2026-11-08
     language: bn
+  - title: চাঁদপুরে এক দিনে আওয়ামী লীগের ৩৮ নেতা-কর্মীসহ গ্রেপ্তার ৪৪
+    url: https://www.ajkerpatrika.com/amp/bangladesh/ajp6bi0h2xwhg
+    publisher: Ajker Patrika
+    date: 2026-11-08
+    language: bn
 open_questions:
   - The incident date of 7 November 2026 is the raid date stated in the text; 8 November 2026 is the article's publication date.
   - Yaba is a methamphetamine tablet and is excluded from cannabis figures; 60 grams is the whole ganja weight given.
@@ -72,24 +77,31 @@ open_questions:
   - The account reports 25 teenagers detained in the anti-teen-gang part, while the report's existing accounts put that figure at 19 for the drive of 24 hours to 6 November.
   - Amar Sangbad gives 4 yaba pieces in total, against 6 pieces in other accounts of this drive; yaba is a methamphetamine tablet and does not affect the cannabis figures.
   - Amar Sangbad gives 44 total arrests without separating the 38 Awami League arrests from the 6 drug arrests that other accounts of this drive state.
+  - Ajker Patrika attributes five drug arrests by station but gives six drug suspects in the 44 total, so the station split does not add up to six.
+  - Ajker Patrika reports four yaba pieces in total, where other accounts of this drive gave six; yaba is a methamphetamine tablet and does not affect the cannabis figures.
+  - Ajker Patrika says the figures were released on Sunday morning by the media cell, while other accounts describe a release on the night of 7 November; both may describe the same briefing.
+  - No names, charges or court outcomes for the drug suspects are reported.
+  - The page's only picture shows the Chandpur superintendent of police's office and is captioned as such, not the seizures, so no media entry is added.
 ---
 
 Chandpur district police arrested 44 people in a 24-hour drive, including 38
-Awami League leaders and activists and 6 drug suspects. [@1,2] Officers also
-detained 25 teenagers in an anti-teen-gang drive. [@1]
+Awami League leaders and activists and 6 drug suspects. [@1,2,5] Officers also
+detained 25 teenagers in an anti-teen-gang drive. [@1,5]
 
 The raids ran across the district on Saturday 7 November, and the figures were
 released at night by the media cell of the superintendent of police's office.
 [@1,2,4] The drive was run on the instructions of Superintendent Md Mizanur Rahman
 to control law and order and curb crime. [@1]
 
-In the anti-drug part, six people were arrested. [@1,4] Haimchar police held one
+In the anti-drug part, six people were arrested. [@1,4,5] Haimchar police held one
 person with 2 yaba pieces, Faridganj police held 2 people with 2 yaba pieces,
 Matlab Uttar police held 1 person with 20 grams of ganja, and Shahrasti police
-held 2 people with 40 grams of ganja. [@1,2,3] In total police reported recovering
+held 2 people with 40 grams of ganja. [@1,2,3,5] In total police reported recovering
 60 grams of ganja and 6 yaba pieces in the drive. [@1,2,4]
 
 Additional Superintendent Nadia Nur said 24 of the detained teenagers were
 handed to their families on bond after checks, and legal action was taken
-against one. [@1,2,4] She said legal action was taken against the arrested Awami
+against one. [@1,2,4,5] She said legal action was taken against the arrested Awami
 League members and drug suspects and that such drives would continue. [@1,4]
+
+In total police reported recovering 60 grams of ganja and 4 yaba pieces in the drive. [@5] Chandpur police media cell released the figures on Sunday morning from the superintendent's office. [@5]
