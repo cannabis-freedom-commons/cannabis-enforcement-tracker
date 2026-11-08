@@ -76,6 +76,11 @@ sources:
     publisher: Diario Extra
     date: 2026-11-05
     language: es
+  - title: Detenidos dos ecuatorianos con más de dos toneladas de marihuana en aguas de Costa Rica
+    url: https://www.nacion.com/sucesos/detenidos-dos-ecuatorianos-con-mas-de-dos/O4A7LGQ5U5HFZJEZC3R7H55FRY/story/
+    publisher: La Nación
+    date: 2026-11-05
+    language: es
 open_questions:
   - No charges, preventive-detention ruling or court outcome were reported; the Public Ministry was still deciding the men's legal situation.
   - The weight is an estimate based on packages of about one kilogram each, not a published weighing result.
@@ -86,6 +91,8 @@ open_questions:
   - No photo of the two detainees or of the seized packages on land could be matched to this event from the opened pages.
   - 'Left out, as its quotation was not found in Diario Extra: They also found 11 fuel drums and other items recorded in the investigation.'
   - The Caro Quintero name and Colombian-flag marking are packaging marks reported by Diario Extra; no authority has said the shipment belongs to any group linked to him.
+  - La Nación says the operation began on Tuesday and ended on Wednesday without giving dates; the existing report dates it 3–4 November 2026.
+  - The eleven fuel drums are given as a count only, without a published volume of fuel.
 ---
 
 Costa Rica's National Coast Guard detained two Ecuadorian men aboard a 38-foot
@@ -113,3 +120,5 @@ authorities had not published an official monetary valuation of the marijuana or
 determined where the boat sailed from and where it was headed. [@3]
 
 The seized marijuana was packed in a rectangular block with Colombia's flag and the legend “Made in Colombia. Lo mejor de Caro Quintero”. [@5] The seized packages bore the image and reference to Mexican trafficker Rafael Caro Quintero. [@5]
+
+Officers also seized eleven fuel drums from the boat. [@6]
