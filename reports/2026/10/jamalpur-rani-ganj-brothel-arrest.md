@@ -61,6 +61,11 @@ sources:
     publisher: Ajker Desh
     date: 2026-10-30
     language: bn
+  - title: জামালপুর যৌনপল্লীতে ছদ্মবেশে পুলিশের অভিযান, সাড়ে ৬ কেজি গাঁজাসহ গ্রেপ্তার-২
+    url: https://cniasia.news/post-details/201291
+    publisher: CNI (Creative News International)
+    date: 2026-10-30
+    language: bn
 open_questions:
   - Jago Bangla's opening paragraph describes the raid as taking place at night, while its police account and Banglar Alo News give the time as 5:35 pm.
   - Banglar Alo News says the pair were taken to jail at about 10 am on 30 October; Jago Bangla says noon.
@@ -71,31 +76,34 @@ open_questions:
   - Barta24's lead photograph is credited only to Barta24 and captioned with the headline; it appears to be the same police photograph of the seized cannabis already linked from Banglar Alo News, so it is not listed again.
   - Ajker Desh, like Banglar Alo News, says the pair were sent to jail at about 10 am on 30 October; the report already notes that Jago Bangla says noon.
   - The page’s lead image has no caption or credit, so it was not added; it may be the same police photograph of the seized cannabis already linked from Banglar Alo News.
+  - CNI reproduces the same Jamalpur Sadar police account as the Bengali outlets already cited, so it is not independent reporting of the raid.
+  - CNI, like Jago Bangla, describes the raid as taking place at night in one sentence and at 5:35 pm in its police account.
+  - 'The CNI lead photo is captioned only ''ছবিঃ সিএনআই'' (Photo: CNI) with no description of what it shows, so no media entry is added; it may be the same police photograph of the seized cannabis already linked from Banglar Alo News.'
 ---
 
 Police in Jamalpur arrested Israfil, 20, and Sufia Begum, 40, and seized 6.5 kg
 of cannabis in an undercover operation in the Rani Ganj brothel area of Jamalpur
-municipality. [@1,3,4] The operation took place at about 5:35 pm on Thursday 29
-October 2026. [@1,4] Israfil is the son of Dudu Mia of Pathalia Uttarpara in
+municipality. [@1,3,4,5] The operation took place at about 5:35 pm on Thursday 29
+October 2026. [@1,4,5] Israfil is the son of Dudu Mia of Pathalia Uttarpara in
 Jamalpur Sadar upazila, a sub-district, and Sufia Begum the daughter of Lal Mia
 of Malancha in Melandah upazila. [@1,4] Police put the market value of the seized
-cannabis at about 195,000 taka (1 lakh 95 thousand). [@1,4] A case was filed
-against both under the Narcotics Control Act. [@2,4] They were sent to jail
-through court on 30 October. [@2,4]
+cannabis at about 195,000 taka (1 lakh 95 thousand). [@1,4,5] A case was filed
+against both under the Narcotics Control Act. [@2,4,5] They were sent to jail
+through court on 30 October. [@2,4,5]
 
 Jamalpur Sadar police said they had acted on a tip-off that cannabis was being
 sold in the brothel area. [@1] Sub-inspector Asaduzzaman entered the area by
 rickshaw posing as a buyer, the officer said. [@2,4] A man asked him whether he
-wanted 'product or a woman', he said. [@1] He said he wanted cannabis, paid, and
+wanted 'product or a woman', he said. [@1,5] He said he wanted cannabis, paid, and
 was handed a packet of it; he then signalled officers already in position, who
 detained the man. [@1] In the search, officers found 2 kg of cannabis in a blue
 polythene bag and 4.5 kg wrapped in poster paper in 740 small packets (puriya)
-in a red plastic bucket. [@2,4] They also seized a digital scale used for weighing
-cannabis and 2,050 taka in cash from drug sales. [@2,4]
+in a red plastic bucket. [@2,4,5] They also seized a digital scale used for weighing
+cannabis and 2,050 taka in cash from drug sales. [@2,4,5]
 
 Officer-in-charge Nazmus Sakib said nobody linked to drugs would be spared and
 asked Jamalpur residents to help police with information. [@2] Additional
 superintendent of police (crime and operations) Yahia Al Mamun said the district
 police were taking a hard line against drugs. [@1]
 
-The raid took place in a room of house No. 6 in the brothel area. [@3]
+The raid took place in a room of house No. 6 in the brothel area. [@3,5]
