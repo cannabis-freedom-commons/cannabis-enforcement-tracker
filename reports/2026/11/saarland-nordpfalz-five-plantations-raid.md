@@ -153,6 +153,11 @@ sources:
     publisher: tagesschau.de
     date: 2026-11-05
     language: de
+  - title: 'Cannabisplantage in Jeckenbach: Razzia im Kreis Bad Kreuznach'
+    url: https://www.antenne-kh.de/cannabisplantage-in-jeckenbach-razzia-im-kreis-bad-kreuznach.html
+    publisher: Antenne Bad Kreuznach
+    date: 2026-11-06
+    language: de
 open_questions:
   - The 3 November 2026 incident date comes from the stated Tuesday raid day and the explicit 03.11.2026 date in the authorities' statement; 5 November 2026 is the publication date.
   - The plant count is reported as more than 2,300, so 2,300 is recorded as the stated minimum.
@@ -193,7 +198,7 @@ and dealing cannabis. [@1,4,7,8,9,13,14] The suspects allegedly used vacant buil
 operate illegal plantations and sold the marijuana in the surrounding Greater
 Region and in France. [@1,3,4,9,14] The eight were brought before an investigating judge,
 who issued custody orders for all of them but suspended one under conditions,
-leaving seven in pretrial detention. [@1,4,7,8,9,10,11,12,13,14] The group comprised six Albanian
+leaving seven in pretrial detention. [@1,4,7,8,9,10,11,12,13,14,20] The group comprised six Albanian
 nationals, one German and one Italian, according to the authorities' statement.
 [@2,5,9]
 
@@ -210,7 +215,7 @@ crime-scene unit, the Saarbrücken main customs office and state police helped
 secure the plantations. [@2,9,14] The authorities said the investigations are still
 ongoing. [@2,3,4,5,9,14]
 
-Investigators said the Jeckenbach site in Bad Kreuznach district held about 300 plants. [@3] Prosecutors said the largest of the dismantled plantations was in Homburg in Saarland. [@3]
+Investigators said the Jeckenbach site in Bad Kreuznach district held about 300 plants. [@3,20] Prosecutors said the largest of the dismantled plantations was in Homburg in Saarland. [@3]
 
 The submitted page gives hashish as "knapp ein Kilogramm" (just under one kilogram) while the agencies' release and the report state one kilogram; the report's cannabis total keeps the stated one kilogram. [@7] The SR page carries a 27-second SR information video on the raid whose direct stream address was not recoverable from the page, so no media entry is included for it. [@7]
 
@@ -218,6 +223,6 @@ The five dismantled plantations comprised one in Saarlouis district, one in Saar
 
 The investigation began with a customs check near Pirmasens in May 2026, when officers found about 20 kilograms of marijuana in a car boot and arrested a suspected participant. [@13,14]
 
-Shortly after 6.30 am on the Tuesday, police cars, customs vehicles and an ambulance drove through Jeckenbach, and armed officers of the customs investigation office and police stormed a residential house. [@15] In the house they found an illegal cannabis plantation with between 200 and 300 plants. [@15] The operation in Jeckenbach was part of a larger raid in the Nordpfälzer Bergland and Saarland that found five plantations with more than 2,300 plants and arrested eight suspects. [@16] The Saarbrücken prosecutors' office said about 300 plants were found in Jeckenbach. [@17]
+Shortly after 6.30 am on the Tuesday, police cars, customs vehicles and an ambulance drove through Jeckenbach, and armed officers of the customs investigation office and police stormed a residential house. [@15] In the house they found an illegal cannabis plantation with between 200 and 300 plants. [@15] The operation in Jeckenbach was part of a larger raid in the Nordpfälzer Bergland and Saarland that found five plantations with more than 2,300 plants and arrested eight suspects. [@16,20] The Saarbrücken prosecutors' office said about 300 plants were found in Jeckenbach. [@17]
 
 Nancy's prosecutors and an investigating judge, working with the German authorities, were investigating an Albanian criminal group based in Germany and specialising in drug trafficking, including cannabis. [@18] The French raids took place in Nancy, Custines, Maxéville, Essey-lès-Nancy, Frouard and Vandœuvre-lès-Nancy. [@18] Eleven of the 13 people arrested in and around Nancy were brought before the magistrates at the city's court complex. [@18,19] More than 30 kg of drugs were seized in and around Nancy. [@18]
