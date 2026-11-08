@@ -76,6 +76,11 @@ sources:
     publisher: Spirit News
     date: 2026-11-06
     language: id
+  - title: Polres Lhokseumawe Bongkar 6 Kasus Narkoba, Sita 40 Kg Ganja, 216 Gram Sabu dan 41 Vape
+    url: https://dialeksis.com/polkum/polres-lhokseumawe-bongkar-6-kasus-narkoba-sita-40-kg-ganja-216-gram-sabu-dan-41-vape/
+    publisher: DIALEKSIS
+    date: 2026-11-08
+    language: id
 open_questions:
   - RRI and earlier reporting list four people detained in the 27 October Sawang phase with one later released, while this press conference says only three suspects were held there.
   - The submitted page spells the sites Alue Garot and Alue Ie Mudek, differing from Cot Mancang, Alue Garot and Alue Le Mudek in other accounts.
@@ -86,6 +91,9 @@ open_questions:
   - The new account gives the village only as Desa Teupin Rusep and does not say whether the Sawang fields were destroyed or only measured in these disclosures.
   - The same article reports three methamphetamine cases and a vape case, which are separate events left out of this cannabis record.
   - The six cases, including three methamphetamine cases and one vape case, are not broken down by disclosure date within the 9 October to 4 November 2026 window.
+  - Other outlets and BNNP Aceh reporting give four men held after the 27 October Teupin Rusep operation and describe it as an eradication with plants burned, while this account gives three suspects and does not say whether the fields were destroyed or only measured.
+  - The 41 vapes are described only as suspected to contain narcotic substances, so they are not counted as a cannabis product.
+  - Three methamphetamine cases (216.18 grams) and the vape case in this disclosure are separate events left out of this cannabis record.
 media:
   - kind: photo
     url: https://liputanesia.com/polres-lhokseumawe/polisi-bongkar-enam-kasus-narkoba-40-kg-ganja-dan-216-gram-sabu-disita
@@ -97,15 +105,15 @@ media:
 Lhokseumawe police presented nine detainees and about 40.3 kilograms of dried
 cannabis at a press conference at the Lhokseumawe police headquarters on 5
 November 2026. [@1,3,4,5,6] The nine detainees were eight men and one woman, held over
-narcotics cases spread across Banda Sakti, Muara Dua and Sawang district. [@1,4]
+narcotics cases spread across Banda Sakti, Muara Dua and Sawang district. [@1,4,7]
 
 Two ganja cases accounted for 40,312.128 grams of dried cannabis, the only
 cannabis weight the press conference reported. [@1,3,4,6] On 27 October 2026 officers
 found a cannabis field of 18 hectares in Desa Teupin Rusep, Sawang, North Aceh,
 and detained three suspects who were still being questioned about their
-involvement. [@1,4,6] Between 30 and 31 October 2026 officers found three more
+involvement. [@1,4,6,7] Between 30 and 31 October 2026 officers found three more
 cannabis sites at Dusun Alue Garot, Dusun Alue Ie Mudek and Desa Teupin Rusep in
-Sawang with a combined area of about 25 hectares. [@1,3,4,6] No one had been
+Sawang with a combined area of about 25 hectares. [@1,3,4,6,7] No one had been
 identified for the three late-October sites, which police said were still under
 investigation. [@1,4] RRI put the cannabis fields found in the series of
 disclosures at about 43 hectares in total. [@2,4] RRI reported that the 27 October
@@ -121,4 +129,4 @@ would give no room to people damaging the younger generation through drugs. [@1,
 
 The three suspects held after the 27 October find in Desa Teupin Rusep, Sawang, were still being questioned about their involvement. [@3]
 
-Police said the six cases had been disclosed over the period from 9 October to 4 November 2026. [@6]
+Police said the six cases had been disclosed over the period from 9 October to 4 November 2026. [@6,7]
