@@ -114,6 +114,11 @@ sources:
     publisher: RGH NEWS
     date: 2026-11-06
     language: hi
+  - title: 'कांकेर:पुलिस की घेराबंदी से तस्करों में मची खलबली, गढ़िया पहाड़ के पास 280 किलो गांजा छोड़कर भागे आरोपी - Kanker: Police Encirclement Causes Panic Among Smugglers; Suspects Flee After Abandoning 280 Kg - Amar Ujala Hindi News Live'
+    url: https://www.amarujala.com/chhattisgarh/kanker-police-encirclement-causes-panic-among-smugglers-suspects-flee-after-abandoning-280-kg-2026-11-04
+    publisher: Amar Ujala
+    date: 2026-11-04
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -162,6 +167,7 @@ open_questions:
   - The Bansal account gives no weight, value or suspect detail for the Kanker recovery and calls the containers bags rather than packets.
   - Rgh News and Bansal News give 70 bags and no weight for the Kanker recovery, so the 15-sack versus 70-bag difference remains unresolved and no kilograms are added.
   - Neither roundup gives the Kanker valuation, which continues to rest on the report's earlier sources.
+  - Amar Ujala values the haul only vaguely in crores of rupees and gives no exact figure, so it does not resolve the valuation already recorded from other accounts.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -182,9 +188,9 @@ Officers are also trying to identify the people behind the smuggling. [@1]
 Police said the exact value and other trafficking details would be revealed only
 after the investigation is complete. [@1]
 
-The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3,4,5,7,12] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2,4,5,7]
+The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3,4,5,7,12] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2,4,5,7,14]
 
-The smugglers dumped all 70 packets in bushes by the roadside late at night after sensing the blockade. [@4] Sub-divisional police officer Harish Patil is named as the source for the vehicle and driver identification. [@4,5]
+The smugglers dumped all 70 packets in bushes by the roadside late at night after sensing the blockade. [@4,14] Sub-divisional police officer Harish Patil is named as the source for the vehicle and driver identification. [@4,5,14]
 
 Keshkal police were chasing the smugglers when Kanker police set up its cordon. [@5]
 
