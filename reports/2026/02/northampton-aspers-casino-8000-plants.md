@@ -95,6 +95,10 @@ sources:
     url: https://uk.news.yahoo.com/jackpot-3-2m-cannabis-farm-104703466.html
     publisher: Yahoo News UK
     date: 2026-11-04
+  - title: Former casino housing £3.2m cannabis farm now up for sale
+    url: https://www.msn.com/en-ie/money/general/former-casino-housing-3-2m-cannabis-farm-now-up-for-sale/ar-AA2gOjHV
+    publisher: MSN
+    date: 2026-11-05
 open_questions:
   - 'Plant numbers and floors differ: later reports say just under or almost 8,000 plants across three floors, while the sentencing report says more than 7,000 and the BBC raid-day report says thousands across four floors; 8,000 is used as the final count.'
   - The surname is spelled Piparas in two reports and Pipiras in the sentencing report and a related charging report.
@@ -130,4 +134,4 @@ would be an organised crime group behind it. [@2] No further arrests or charges
 have been made. [@1,2] In October 2026 police said the investigation had been
 closed, although it could be reopened if new evidence came to light. [@1,4]
 
-A year after the raid, the 42,216 sq ft former casino site was put on the market, with agents saying it could become a hotel, offices, shops, flats or student accommodation. [@5]
+A year after the raid, the 42,216 sq ft former casino site was put on the market, with agents saying it could become a hotel, offices, shops, flats or student accommodation. [@5,6]
