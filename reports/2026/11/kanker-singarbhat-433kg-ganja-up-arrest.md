@@ -49,6 +49,11 @@ media:
     media_url: https://nwnews24.com/wp-content/uploads/2026/11/image362.webp
     publisher: NWNews24
     caption: The page picture published with the Kanker ganja seizure report; it carries no credit and no caption confirming what it shows.
+  - kind: photo
+    url: https://www.bhaskar.com/local/chhattisgarh/kanker/news/kanker-ganja-smuggling-arrest-up-cctv-footage-fortuner-car-139627745.html
+    media_url: https://images.bhaskarassets.com/web2images/521/2026/11/07/3f351a76-1540-4a67-a441-b01374d668b3_1794055899530.jpg
+    publisher: Dainik Bhaskar
+    caption: 'The Fortuner car said to have been used for the ganja smuggling (publisher caption: इसी कार से गांजे की तस्करी हो रही थी). No credit given.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: abd2c7095fbd5383aa0786ca9ab46e0a
@@ -69,6 +74,11 @@ sources:
     publisher: Naya Bharat Live
     date: 2026-11-07
     language: hi
+  - title: 'ढाई करोड़ की गांजा तस्करी का आरोपी UP से अरेस्ट: फॉर्च्यूनर में रखता था 6 फर्जी नंबर प्लेट, ओडिशा से हरियाणा सप्लाई करता था - Kanker News'
+    url: https://www.bhaskar.com/local/chhattisgarh/kanker/news/kanker-ganja-smuggling-arrest-up-cctv-footage-fortuner-car-139627745.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-08
+    language: hi
 open_questions:
   - The article does not date the interception or the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - Only one source, the submitted NWNews24 report, could be opened for this event, so the weights, packet count and valuations are not independently corroborated.
@@ -82,6 +92,8 @@ open_questions:
   - The page gives no separate date for the interception or the Uttar Pradesh arrest; 7 November 2026 is the publication date used for the event.
   - The Naya Bharat Live text largely reproduces the NWNews24 report and does not state whose valuation the Rs 2.23 crore, Rs 2.48 crore, Rs 3 crore and Rs 25 lakh figures are.
   - The page's page picture, taju.webp, has no caption or credit tying it to this seizure, so it is not listed as media.
+  - This Bhaskar account gives the haul as 447 kg, against 433 kg in 90 packets in the existing report; the existing figures are retained and the difference is unresolved.
+  - The opened text capture is truncated behind an app paywall, so dates of the 4 November interception and the Uttar Pradesh arrest, the CCTV and court details visible in the page markup could not be quoted from the captured text and are not added.
 ---
 
 Kanker district police in Chhattisgarh say they have broken up an interstate
@@ -93,7 +105,7 @@ have been used in the smuggling, valued at about Rs 25 lakh, was also seized.
 
 The gang fled after dumping the load near Singarbhat when they saw a police
 check. [@1,2,3] Police arrested the fugitive accused, named in the report as
-Sukhpal, in Uttar Pradesh. [@1,2,3]
+Sukhpal, in Uttar Pradesh. [@1,2,3,4]
 
 Investigators said the accused kept changing vehicle registration numbers to
 move loads between states. [@1,2,3] Police put the total value of what was seized in
@@ -102,3 +114,5 @@ network is estimated to be worth about Rs 3 crore and are still looking for the
 other accused. [@1,3]
 
 Police traced the accused with the help of the cyber team. [@2] Police set up checkposts at 4 to 5 places. [@2] Police also seized the Haryana-passing vehicle used in the smuggling. [@2] So far one accused has been arrested. [@2]
+
+The accused kept 6 fake number plates in the Fortuner for the Odisha-to-Haryana supply run. [@4]
