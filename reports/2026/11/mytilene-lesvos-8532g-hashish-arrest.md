@@ -58,6 +58,11 @@ sources:
     publisher: LesvosPost.com
     date: 2026-11-08
     language: el
+  - title: 39χρονος συνελήφθη με 8,5 κιλά κάνναβης στη Μυτιλήνη
+    url: https://lesvosvoice.gr/2026/11/08/39xronos-sunelifthi-me-8misi-kila-kannavis/
+    publisher: LesvosVoice.gr
+    date: 2026-11-08
+    language: el
 open_questions:
   - No charge sheet, prosecutor decision, detention order or court outcome was reported; the case file was the only step published.
   - The cannabis is described only as unprocessed cannabis (hashish); no cannabis resin product or THC analysis is reported.
@@ -68,28 +73,30 @@ open_questions:
   - 'Left out, as its quotation was not found in StoNisi.gr: The cannabis taken from the truck, the Mytilene house and the Plomari house comes to about 8.532 kilograms, a total StoNisi calculated from the police statement and which excludes the residues.'
   - Left out kg seized, as its quotation was not found in StoNisi.gr.
   - Left out sites, as its only supporting source is not cited by the report's text.
+  - The page carries no text beyond the police release and does not name the district of the main house search, so it neither confirms nor rules out the Halikas location given by LesvosPost.
+  - The LesvosVoice photo file is published without a caption or credit and appears to be the same Hellenic Police handout of the seized packages already listed from Lesvosnews.net; the picture is therefore not added as a second media entry rather than confirmed as a distinct photo.
 ---
 
 Drug officers in Mytilene arrested a 39-year-old Greek man on Saturday 7
 November 2026 on suspicion of possessing and trafficking narcotic substances and
-of breaking the weapons laws. [@1,2]
+of breaking the weapons laws. [@1,2,3]
 
 Officers stopped him as he drove a light truck on the Mytilene–Kalloni road and
 found a nylon package holding about 1,035 grams of unprocessed cannabis, called
-hashish in the official statement, in a space inside the vehicle. [@1] A search
+hashish in the official statement, in a space inside the vehicle. [@1,3] A search
 of the house where he lives in the wider Mytilene area, carried out in the
 presence of a judicial officer, found seven more nylon packages of cannabis
-weighing a total of 7,493 grams and ten packages with cannabis residues. [@1] In
+weighing a total of 7,493 grams and ten packages with cannabis residues. [@1,3] In
 a second house in the wider Plomari area, officers seized about 4 grams of
-cannabis and a precision electronic scale. [@1]
+cannabis and a precision electronic scale. [@1,3]
 
 Officers also seized a knife and a mobile phone the man had with him when they
 found him, and the light truck, which police describe as the means used to
-commit the offences. [@1,2] Police said their investigation indicated he held the
+commit the offences. [@1,2,3] Police said their investigation indicated he held the
 drugs in order to supply them to third parties for money, and a criminal case
-file was opened against him. [@1] The investigation was carried out by the Drug
+file was opened against him. [@1,3] The investigation was carried out by the Drug
 Prosecution Department of the Mytilene Subdivision for Prosecution and Clearance
-of Crimes. [@1]
+of Crimes. [@1,3]
 
 LesvosPost placed the main search at Halikas, a district of Mytilene, a location
 the police statement does not name. [@2]
