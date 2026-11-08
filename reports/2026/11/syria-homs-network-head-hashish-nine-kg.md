@@ -90,6 +90,11 @@ sources:
     publisher: İlke Haber Ajansı (İLKHA)
     date: 2026-11-07
     language: tr
+  - title: سوريا.. توقيف متزعم شبكة تهريب للمخدرات في حمص وتنفيذ 157 عملية خلال شهر
+    url: https://www.aljazeera.net/news/2026/11/7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B2%D8%B9%D9%85-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%84%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
+    publisher: الجزيرة نت
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The article gives no date for the arrest itself; 7 November 2026 is its publication date and is used as the incident date.
   - The exact place of the arrest within Homs Governorate is not named.
@@ -110,12 +115,15 @@ open_questions:
   - Although served under an /english/ address, the opened page text is in Turkish.
   - The page presents the earlier 200,000-pills-from-Lebanon operation as taking place today alongside this arrest, while the existing report dates that earlier step to 5 May 2026; this account follows the existing record.
   - The opened page's lead image is captioned only with the story headline and is not confirmed to show this seizure, so no media entry is added.
+  - The page gives no separate date for the Homs arrest itself; 7 November 2026 is its publication date, as already recorded.
+  - Captagon, crystal and pharmaceutical pill amounts in the same article are separate non-cannabis drugs and are not counted as cannabis.
+  - The page's lead photo is credited to the anti-narcotics administration with a caption about the ambush arrest, but its content is not confirmed to show the seized drugs, so no media entry is added.
 ---
 
 Syria's anti-narcotics directorate announced the arrest of a man identified by
 the initials G.Sh., described as the head of a drug trafficking network whose
-two members were arrested in May. [@1,3,4,5,6] He was found with 9 kilograms of hashish
-and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6,9]
+two members were arrested in May. [@1,3,4,5,6,10] He was found with 9 kilograms of hashish
+and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6,9,10]
 
 The directorate said its Homs branch made the arrest, continuing an operation it
 carried out on 5 May 2026 that broke up an attempt to smuggle 200,000 Captagon
@@ -125,7 +133,7 @@ Units kept tracking the rest of those involved and the network's branches, the
 directorate said. [@1,9]
 
 The directorate said the seized items were confiscated and the detainee was sent
-to the competent judiciary. [@1,3,4,5,6,9]
+to the competent judiciary. [@1,3,4,5,6,9,10]
 
 The ringleader was identified through security follow-up and arrested in a well-planned ambush. [@5]
 

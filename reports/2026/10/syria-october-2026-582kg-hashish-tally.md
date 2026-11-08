@@ -94,6 +94,11 @@ sources:
     publisher: صحيفة العروبة
     date: 2026-11-07
     language: ar
+  - title: سوريا.. توقيف متزعم شبكة تهريب للمخدرات في حمص وتنفيذ 157 عملية خلال شهر
+    url: https://www.aljazeera.net/news/2026/11/7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B2%D8%B9%D9%85-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%84%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
+    publisher: الجزيرة نت
+    date: 2026-11-07
+    language: ar
 open_questions:
   - >-
     The tally covers the whole of October 2026 and was announced on 1 November 2026; 31 October is used as the
@@ -155,10 +160,10 @@ Syria's Interior Ministry anti-narcotics directorate announced that it carried
 out security operations and dismantled smuggling networks during October 2026 as
 part of efforts to limit drug trafficking and promotion. [@9] It said officers
 conducted 157 security operations and dismantled 30 domestic drug-trafficking
-networks in that month. [@9,10,11]
+networks in that month. [@9,10,11,12]
 
 It said those October operations seized 582 kilograms of hashish, the cannabis
-resin tracked here. [@9,10] It summarized that cannabis result as more than half a
+resin tracked here. [@9,10,12] It summarized that cannabis result as more than half a
 tonne of hashish. [@9] The same monthly tally also listed 4.3 million captagon
 pills, more than 28,000 narcotic medical pills and 7 kilograms of crystal meth,
 which are recorded only to explain the mixed seizure and are excluded from the

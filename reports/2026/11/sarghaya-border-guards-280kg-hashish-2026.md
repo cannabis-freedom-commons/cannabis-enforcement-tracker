@@ -142,6 +142,11 @@ sources:
     url: https://ua.news/en/dovkolo-svitu/u-siriyi-zaiavili-pro-viluchennia-280-kg-gashishu-ta-28-tisiach-pigulok-kaptagonu-the-national
     publisher: UA.NEWS
     date: 2026-11-07
+  - title: سوريا.. توقيف متزعم شبكة تهريب للمخدرات في حمص وتنفيذ 157 عملية خلال شهر
+    url: https://www.aljazeera.net/news/2026/11/7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B2%D8%B9%D9%85-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%84%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
+    publisher: الجزيرة نت
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -194,13 +199,13 @@ Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
 the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10,11,14,16,17]
 
 The ministry said the smugglers opened fire on the Syrian force during the
-operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12,13,14,15,16,18] The gunmen then fled towards
+operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12,13,14,15,16,18,19] The gunmen then fled towards
 Lebanese territory, the ministry said. [@2,4,6,7,8,9,11,12,13,15,16,17] The state news agency SANA reported
 that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13,14,16,17,18] The seized items were
+confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13,14,16,17,18,19] The seized items were
 referred to the competent authorities to complete legal procedures. [@1,3,4,11,12,13,14,15,18]
 
 The Defence Ministry media office announced the operation on Friday 6 November

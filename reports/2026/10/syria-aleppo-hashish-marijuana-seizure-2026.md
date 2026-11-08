@@ -65,6 +65,11 @@ sources:
     publisher: تحت المجهر
     date: 2026-10-31
     language: ar
+  - title: سوريا.. توقيف متزعم شبكة تهريب للمخدرات في حمص وتنفيذ 157 عملية خلال شهر
+    url: https://www.aljazeera.net/news/2026/11/7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D9%85%D8%AA%D8%B2%D8%B9%D9%85-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%84%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA
+    publisher: الجزيرة نت
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The operations' exact date is not given; 31 October 2026 is the publication date of the article and agency post.
   - The department reports arrests but does not give their number or identify the detainees.
@@ -85,7 +90,7 @@ outcomes. [@1]
 
 The reported seizure included 9.571 kilograms of hashish and 21 grams of
 marijuana; converting 21 grams to 0.021 kilograms gives a combined cannabis
-weight of 9.592 kilograms. [@1,3,4,5,6] The same list included 51,000 Captagon pills and
+weight of 9.592 kilograms. [@1,3,4,5,6,7] The same list included 51,000 Captagon pills and
 5,430 pregabalin pills as well as a military handgun, separate items from the
 hashish and marijuana quantities. [@1] The agency said those arrested were
 referred to the competent authorities to complete investigations and take the
