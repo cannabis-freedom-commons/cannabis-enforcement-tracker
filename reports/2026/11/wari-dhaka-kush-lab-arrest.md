@@ -52,29 +52,36 @@ sources:
     url: https://timessquire.com/us-citizen-arrested-over-wari-kush-cultivation-lab/
     publisher: Times Squire
     date: 2026-11-02
+  - title: যুক্তরাষ্ট্রে বসে ঢাকায় কুশ ল্যাব পরিচালনার অভিযোগ, যুবক গ্রেপ্তার
+    url: https://www.kalerkantho.com/online/dhaka/2026/11/01/1761346
+    publisher: Kaler Kantho
+    date: 2026-11-01
+    language: bn
 open_questions:
   - The Times Squire account reprints The Business Standard report and adds no independent reporting.
   - No weight was published for the cultivated plants or freshly harvested Kush found in the earlier lab raid.
   - The earlier lab raid at the same residence is undated in these accounts.
   - No outcome was reported for the woman and the caretaker arrested in the earlier courier case, or for the remand the DNC said it would seek.
   - The 10 yaba tablets are methamphetamine, not cannabis, and are excluded from the cannabis figures above.
+  - This account calls Kush an unconventional synthetic drug, while the existing report treats it as high-potency cannabis; the 100 g of ganja and the cultivated plants support the cannabis component recorded here.
+  - The page's lead photo could not be verified as showing this event from its caption, so no media entry is included.
 ---
 
 A US citizen accused of operating a remote-controlled Kush cultivation laboratory
 in Dhaka's Wari from California was arrested by the Department of Narcotics
-Control, the DNC, on 1 November 2026. [@1,2] Intelligence officers arrested
+Control, the DNC, on 1 November 2026. [@1,2,3] Intelligence officers arrested
 Tausif Hasan, 22, at his residence on Rankin Street in Wari at around 9am,
 recovering 10 yaba tablets, 100 grammes of cannabis and equipment used to
-consume the drugs. [@1,2]
+consume the drugs. [@1,2,3]
 
 Yaba is a methamphetamine-based tablet, not cannabis; the cannabis component of
 this mixed case stands separately supported at 100 grammes, and the yaba is
 excluded from the figures above. [@1,2] A subsequent drug test detected both
-methamphetamine and cannabinoids in his blood. [@1,2]
+methamphetamine and cannabinoids in his blood. [@1,2,3]
 
 The DNC's Dhaka intelligence deputy director, Mehedi Hasan, confirmed the
 arrest and said a case had been filed against Tausif under the Narcotics Control
-Act at Wari Police Station for possessing the recovered drugs. [@1,2] The DNC is
+Act at Wari Police Station for possessing the recovered drugs. [@1,2,3] The DNC is
 also processing his arrest in the earlier Kush laboratory case and plans to seek
 remand for interrogation. [@1,2] During preliminary questioning, Tausif admitted
 supplying yaba and Kush to various drug dealers in Dhaka. [@1,2]
@@ -86,7 +93,7 @@ for cultivating Kush, the DNC's term for high-potency cannabis. [@1,2] The raid
 yielded Kush seeds brought from California, cultivated plants, freshly harvested
 Kush, cultivation equipment, shisha-smoking accessories and foreign liquor, with
 several pots of Kush plants inside a temperature-controlled rooftop room built
-with tin sheets and foil paper. [@1,2]
+with tin sheets and foil paper. [@1,2,3]
 
 Investigators found that Tausif had learned Kush cultivation techniques while
 living in California before returning to Bangladesh and setting up the
