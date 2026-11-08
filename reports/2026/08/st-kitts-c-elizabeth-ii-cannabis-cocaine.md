@@ -37,6 +37,11 @@ media:
     media_url: https://caribbeanpulse.org/wp-content/uploads/2026/08/MV-C-Elizabeth-.jpeg.webp
     publisher: Caribbean Pulse
     caption: The C-Elizabeth II at St Kitts, in a photo published with Caribbean Pulse's report on the search.
+  - kind: photo
+    url: https://www.stvincenttimes.com/vessel-drugs-in-coconut-stvincent-detained-st-kitts-mv-c-elizabeth/
+    media_url: https://www.stvincenttimes.com/wp-content/uploads/2026/08/elizabeth-c-860x478.avif
+    publisher: St Vincent Times
+    caption: The MV C Elizabeth.
 status: verified
 created_by_model: command-code/deepseek-v4.1-flash#max
 tags: [st-kitts, basseterre, port, vessel, coast-guard]
@@ -55,6 +60,10 @@ sources:
     publisher: Caribbean Pulse
     date: 2026-08-18
     language: en
+  - title: Vessel with drugs from St Vincent detained in St Kitts
+    url: https://www.stvincenttimes.com/vessel-drugs-in-coconut-stvincent-detained-st-kitts-mv-c-elizabeth/
+    publisher: St Vincent Times
+    date: 2026-08-16
 open_questions:
   - No individual names or nationalities were published; the force named only the three countries.
   - No charges were announced.
@@ -63,19 +72,24 @@ open_questions:
   - The vessel's ownership and registry were not reported.
   - The reports also describe a 2022 drug seizure on a similarly named vessel at the same port, a separate event left out here.
   - The existing report does not say where aboard the vessel the drugs were found or that the vessel had come from St Vincent; Village Voice News, reprinting St Vincent Times, says they were concealed in bags of dry coconut from St Vincent, which the police statement cited by the report does not confirm.
+  - The new source reports one package of cocaine without a weight, while the existing report records one kilogram of cocaine from police sources.
+  - The concealment in bags of dry coconut from St Vincent is reported only by St Vincent Times; the police statement cited by the existing report does not confirm it.
+  - The article also recounts an October 4, 2022 seizure of 800 kg of cocaine and cannabis aboard a similarly named vessel at the same port, a separate earlier event left out of this report.
 ---
 
 Officers from the Royal St Christopher and Nevis Police Force, the St Kitts-Nevis Coast Guard and
 the Customs and Excise Department searched the cargo vessel C-Elizabeth II after it docked at
-St Kitts at about 9 a.m. on 10 August 2026. [@1,2,3] The search included the customs K9 unit and
+St Kitts at about 9 a.m. on 10 August 2026. [@1,2,3,4] The search included the customs K9 unit and
 the police Anti-Narcotics Unit. [@1,2] It found vegetable material later confirmed as cannabis
 weighing 12.515 pounds (about 5.68 kg) and one kilogram of cocaine. [@1,2,3] The police Crime Scene
 Unit processed the scene and the drugs were taken into custody. [@1,3]
 
 The captain and six crew members, nationals of Grenada, St Vincent and the Grenadines, and Trinidad
-and Tobago, were taken into custody to assist the investigation. [@1,2,3] The police did not say
-whether they had been charged. [@1,3] The force said the investigation was ongoing. [@1,3] SKNVibes
+and Tobago, were taken into custody to assist the investigation. [@1,2,3,4] The police did not say
+whether they had been charged. [@1,3] The force said the investigation was ongoing. [@1,3,4] SKNVibes
 reported that the seizure raised questions about the vessel's history and whether St Kitts is a
 transhipment point for drugs. [@2]
 
 SKNVibes said the seizure raised questions about the vessel's ownership, registration and previous movements, and whether the Federation is a transhipment point for drugs. [@2]
+
+The drugs were concealed in bags of dry coconut that had come from St. Vincent. [@4]
