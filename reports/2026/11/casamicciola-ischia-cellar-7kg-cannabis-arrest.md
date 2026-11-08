@@ -87,15 +87,15 @@ open_questions:
 ---
 
 Police in Casamicciola Terme on the island of Ischia arrested a 27-year-old man
-already known to police on suspicion of possessing drugs for sale. [@1] Officers
+already known to police on suspicion of possessing drugs for sale. [@1,5] Officers
 of the Ischia police station, led by deputy commissioner Daria Alfieri, stopped
 him on the evening of Saturday 7 November as he came out of a small cellar, a
-cantinola, in the La Rita area. [@1]
+cantinola, in the La Rita area. [@1,5]
 
 The search of his person found a packet of about seven grams of cocaine and 170
 euros in cash. [@1] Police then searched the cellar and seized about one
 kilogram of cocaine, 315 grams of marijuana and more than seven kilograms of
-hashish. [@1] Officers also found two precision scales, two knives with blades
+hashish. [@1,5] Officers also found two precision scales, two knives with blades
 soaked in drug substance, a vacuum-packing machine and other material for
 preparing doses. [@1] Investigators cited the weighing and packing equipment and
 the size of the haul when they accused him of possessing drugs for sale. [@1]
@@ -113,4 +113,3 @@ The arrest followed an ordinary patrol of the territory, and police described
 the seizure as a significant one for the island. [@1] The Ischia force said the
 operation was part of its prevention work against drug dealing on the island.
 [@4]
-
