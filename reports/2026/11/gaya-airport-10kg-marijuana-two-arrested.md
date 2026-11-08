@@ -96,6 +96,11 @@ sources:
     publisher: الاستاد الاخباري
     date: 2026-11-05
     language: ar
+  - title: एयरपोर्ट पर एक्स-रे ने खोली पोल, चार बैग से निकला 10 करोड़ का गांजा; गया एयरपोर्ट पर दो महिलाएं गिरफ्तार
+    url: https://hindi.news24online.com/state/bihar/gaya-international-airport-drug-smuggling-10-kg-marijuana-seized-two-punjab-women-arrested-thailand/1841366/
+    publisher: News24 Hindi
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The reported Rs 10 crore international-market valuation was explicitly described as not officially confirmed, so no value is recorded.
   - No charges, custody ruling or court outcome were reported; the customs investigation was still under way.
@@ -127,21 +132,23 @@ open_questions:
   - The Times of India page image is a handcuffs file picture and is not established to show this seizure, so no media entry is added.
   - The Al-Estad account gives no value beyond the approximate Rs 100 million international-market estimate, which the existing report treats as unconfirmed, and it reports no charges or custody ruling.
   - Al-Estad says the women were caught on their arrival on Wednesday, which is consistent with the recorded 4 November 2026 date but gives no time for the arrest.
+  - The News24 account does not name the two women or report charges, custody orders or a court outcome.
+  - The News24 account gives no separate seizure day beyond a Wednesday-morning arrival from Thailand; 4 November 2026 is retained from the existing report.
 ---
 
 Customs officers at Gaya International Airport arrested two women from Punjab
-after they arrived from Thailand. [@1,2,5,6,8,9,10,11,12,13] The women were identified as Simranjit
+after they arrived from Thailand. [@1,2,5,6,8,9,10,11,12,13,14] The women were identified as Simranjit
 and Kulwinder, both reported as Punjab residents. [@1,7,10,12] They arrived on a Thai
 Airways flight from Thailand at around 11.45 am and were detained after security
 staff reportedly noticed suspicious contents during baggage screening. [@1,3] They
 were questioned for about eight hours before being formally arrested. [@1,3,4,7]
 
 Officers allegedly recovered about 10 kg of marijuana from four separate bags
-belonging to the pair. [@1,2,5,6,7,11,13] The bags were examined more closely after Central
+belonging to the pair. [@1,2,5,6,7,11,13,14] The bags were examined more closely after Central
 Industrial Security Force personnel and other security staff flagged something
 suspicious during routine screening. [@1,2,5,6] The consignment was reported to be
 worth about Rs 10 crore on the international market, although that valuation was
-not officially confirmed. [@1,2,6]
+not officially confirmed. [@1,2,6,14]
 
 Airport sources said six people had travelled to Thailand about four days before
 the seizure. [@1,6,7,9,10,11] The two women arrived back at Gaya with the suspected
