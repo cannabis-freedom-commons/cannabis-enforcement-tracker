@@ -83,6 +83,11 @@ sources:
     publisher: Aaj Ka Sach
     date: 2026-11-01
     language: hi
+  - title: मां-बेटे और पत्नी मिलकर कर रहे थे नशे का धंधा:मुरादाबाद पुलिस ने 14 किलो चरस और स्मैक के साथ तीनों को गिरफ्तार किया
+    url: https://www.bhaskar.com/local/uttar-pradesh/moradabad/news/moradabad-police-arrest-family-drug-racket-charas-smack-seized-139551318.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - Amar Ujala reported 4.50 kg of charas; this report uses 4.375 kg, the figure in the Hindusthan Samachar wire copy and Dainik Jagran.
   - The wire copy says the three were arrested during a police check, while Amar Ujala and Dainik Jagran describe a morning raid on their house; the report follows the raid account.
@@ -105,14 +110,16 @@ open_questions:
   - This account gives no separate raid date; its page carries only a 2 November 2026 site header, while the Hindi corroboration is dated 1 November 2026 and the existing report dates the raid 31 October 2026.
   - The page lists one lead image with no caption or credit establishing that it shows this seizure, so no media entry is made.
   - “மகனுக்கு அம்மாவும் மனைவியும் பார்ட்னர்களா?” கஞ்சா, சரஸ், ஸ்மாக் என குடும்பமே சேர்ந்து நடத்திய கடத்தல்! ரூ.4 லட்சம் போதைப்பொருள்… யக்ஷ் செயலி மூலம் சிக்கிய மூவர்…! – Seithi Solai (Seithi Solai) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
+  - Dainik Bhaskar gives 14.59 kilograms of charas, while the existing report uses 4.375 kg; the two figures correspond to the same weight in kilograms and tolas, and the other cited outlets use one or the other.
+  - The passage on the NDPS Act case, the court production and the jailing of the three appears on the page behind its app paywall and could not be read in full from the captured text, so this account is cited only for the arrests, quantities and questioning.
 ---
 
 Majhola police in Moradabad, Uttar Pradesh, arrested a man, his wife and his
 mother on Saturday 31 October 2026 on allegations of trafficking charas and
-smack. [@1,4,5,6] Police named them as Kanta Prasad, his wife Kavita Saini and his
+smack. [@1,4,5,6,9] Police named them as Kanta Prasad, his wife Kavita Saini and his
 mother Rani Saini, residents of Jayantipur Neta Colony in the Majhola police
 station area. [@1,5,7] Officers recovered 4.375 kg of charas, a hand-made cannabis
-resin, and 14.59 g of smack, a form of heroin, police said. [@1,5] They also found
+resin, and 14.59 g of smack, a form of heroin, police said. [@1,5,9] They also found
 33,600 rupees in cash and two mobile phones. [@1,5]
 
 The arrests came in a raid on the family's house on Saturday morning by a
@@ -130,3 +137,5 @@ and smack together for a long time and lived on the money it brought. [@1]
 Police registered a first information report (FIR), the document that starts a
 criminal case in India, against all three under the NDPS Act, India's main
 anti-drug law. [@2,6,8] All three were produced in court and sent to jail. [@2]
+
+In questioning, the three said they had joined the trade together out of greed for good profit. [@9]
