@@ -2,19 +2,19 @@
 added_at_source: git
 added_at: "2026-11-02T02:12:29.000Z"
 code: 6E9X20
-date: 2026-11-01
+date: 2026-11-08
 country: mx
 place: San Vicente Tancuayalab, San Luis Potosí, Mexico
 coordinates: [21.718, -98.587]
 precision: locality
-type: arrest
-also: [seizure]
-title: Two held in San Vicente Tancuayalab with 758.3 g of marijuana
-summary: >-
-  State civil-guard officers and soldiers detained Francisco “N”, 27, and Esmeralda “N”, 26, in the centre of San Vicente Tancuayalab, San Luis Potosí, in an operation reported on 1 November 2026. Officers seized 100 bags of marijuana weighing 758.3 grams and 84 marijuana cigarettes, along with other drugs, phones and a motorcycle.
+type: prosecution
+also: [seizure, arrest]
+title: Two bound over in San Vicente Tancuayalab with 758 g of marijuana
+summary: Francisco “N” and Esmeralda “N” were bound over by a federal judge for alleged possession of drugs with intent to sell after officers found 100 bags of marijuana and other drugs in a backpack in San Vicente Tancuayalab. The judge ruled the detention lawful, ordered official pretrial detention for both and set a two-month complementary investigation period.
 figures:
-  arrested: 2
-  kg_seized: 0.7583
+    arrested: 2
+    kg_seized: 0.7583
+    charged: 2
 media:
   - kind: photo
     url: https://www.reporteindigo.com/nacional/caen-dos-presuntos-objetivos-prioritarios-en-san-vicente-les-aseguran-675-unidades-de-droga-20261101-0039.html
@@ -28,11 +28,13 @@ details:
   products:
     - {product: flower}
 data_sources:
-  details.activity: [1, 5, 7, 2, 6, 8]
-  details.agency_types: [1, 2, 5, 6, 7]
-  details.case_stage: [1, 2, 5, 6, 7]
-  details.products: [1, 2, 5, 6, 7, 8]
-  figures.kg_seized: [1, 5, 7, 2, 6, 8]
+    details.activity: [1, 5, 7, 2, 6, 8]
+    details.agency_types: [1, 2, 5, 6, 7]
+    details.case_stage: [1, 2, 5, 6, 7]
+    details.products: [1, 2, 5, 6, 7, 8]
+    figures.kg_seized: [1, 5, 7, 2, 6, 8]
+    figures.arrested: [9]
+    figures.charged: [9]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max
 submission: 7982770c590f9f8683ed29e754f8169b
@@ -78,6 +80,11 @@ sources:
     publisher: Telediario
     date: 2026-11-01
     language: es
+  - title: Vinculan a dos por posesión de droga en San Vicente
+    url: https://pulsoslp.com.mx/seguridad/vinculan-a-dos-por-posesion-de-droga-en-san-vicente/2105445
+    publisher: Pulso Diario San Luis
+    date: 2026-11-08
+    language: es
 open_questions:
   - The reports give no separate date for the operation; 1 November 2026 is the publication date of the earliest opened account.
   - No weight was given for the 84 marijuana cigarettes, so the 758.3 g figure covers the 100 bags only.
@@ -86,6 +93,9 @@ open_questions:
   - All opened accounts repeat the same state security bulletin; no independent witness or defence account was found.
   - The submitted page was published on 2 November 2026 while the existing report is dated to 1 November 2026 accounts; neither gives a separate date for the operation itself.
   - The page carries an image file but provides no caption or credit establishing that it shows this seizure, so no media entry is added.
+  - The article gives no separate date for the initial hearing; 8 November 2026 is its publication date and is used for the prosecution step.
+  - The prosecution account rounds the marijuana weight to 758 grams, compared with 758.3 grams in the arrest accounts; the earlier precise figure is preserved.
+  - The page image caption only repeats the headline and does not confirm what it depicts, so no media entry is added.
 ---
 
 Officers of San Luis Potosí's State Civil Guard (GCE), working with the army,
@@ -95,8 +105,8 @@ intelligence information. [@1,5,7] Investigators said they were linked to drug
 distribution and halconeo, or lookout work, at sales points in Tamuín, San
 Vicente Tancuayalab and Tanquián de Escobedo. [@1]
 
-Officers seized 100 bags of marijuana weighing 758.3 grams. [@1,2,5,6,7,8] They also found
-42 packages holding 84 marijuana cigarettes. [@1,2,6,7] With them were a portable
+Officers seized 100 bags of marijuana weighing 758.3 grams. [@1,2,5,6,7,8,9] They also found
+42 packages holding 84 marijuana cigarettes. [@1,2,6,7,9] With them were a portable
 radio, two mobile phones and the motorcycle the pair were riding. [@2,8] The rest
 of the haul was 401 doses of cristal, 40 doses of piedra and 50 doses of a
 substance with cocaine characteristics. [@2,8] Pulso SLP said the official
@@ -111,3 +121,5 @@ disposal of the competent authorities, which are to continue the investigation
 and determine their legal situation. [@4]
 
 The operation was a ground operation with air support. [@8]
+
+A federal judge bound Francisco “N” and Esmeralda “N” over for alleged possession of drugs with intent to sell. [@9] The judge ruled the detention lawful and ordered official pretrial detention for both defendants. [@9] The judge set a two-month period for the complementary investigation. [@9] Officers had seen the pair riding a motorcycle without plates on Mariano Matamoros street in Colonia Mirador in San Vicente Tancuayalab. [@9]
