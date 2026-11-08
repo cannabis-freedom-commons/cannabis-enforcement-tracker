@@ -60,28 +60,33 @@ sources:
     publisher: Birigui Notícias
     date: 2026-11-08
     language: pt
+  - title: Homem é preso com 700 gramas de cocaína e porções de maconha
+    url: https://sampi.net.br/ovale/noticias/3017109/aracatuba/2026/11/homem-e-preso-com-700-gramas-de-cocaina-e-porcoes-de-maconha
+    publisher: Sampi
+    date: 2026-11-07
+    language: pt
 open_questions:
   - Both the 100-gram cannabis weight and the 700-gram cocaine weight are reported as approximate or estimated, not exact laboratory measurements.
   - The sources do not give the arrested man's name, age or criminal record.
   - No formal charge wording, custody hearing result or court outcome beyond remaining at the disposal of the courts was reported.
   - The second outlet page carries the edition date of 8 November 2026 with a relative timestamp; 7 November 2026 is used as the incident date from the dated account naming Saturday the 7th.
   - Only the submitted page's disclosure photo is listed; the second outlet's image could not be confirmed as a distinct photo of this seizure.
+  - The Sampi copies across regional editions carry the same text and are not independent reporting, so they do not add a second account of the event.
 ---
 
 Military Police arrested a man in flagrante on suspicion of drug trafficking in
 the early hours of 7 November 2026 in the Jardim Tóquio neighbourhood of
-Penápolis, São Paulo. [@1] The operation followed information that drugs were
-possibly being sold from a residence in the neighbourhood. [@1] Officers carried
+Penápolis, São Paulo. [@1,3] The operation followed information that drugs were
+possibly being sold from a residence in the neighbourhood. [@1,3] Officers carried
 out inquiries and approached the property. [@1]
 
 Inside, officers found 32 portions of cocaine totalling about 700 grams. [@1]
 They also found 14 portions of maconha, the Portuguese word for marijuana, with
-an estimated weight of 100 grams. [@1] Police also seized R$654 in cash, a
-mobile phone and materials police said were used to pack and wrap drugs. [@1]
+an estimated weight of 100 grams. [@1,3] Police also seized R$654 in cash, a
+mobile phone and materials police said were used to pack and wrap drugs. [@1,3]
 
 The case was taken to the duty police station, where the judicial authority
-confirmed the flagrante arrest for drug trafficking. [@1] The man remained in
+confirmed the flagrante arrest for drug trafficking. [@1,3] The man remained in
 custody at the disposal of the courts. [@1] His wife, who was present as a
-witness, was heard and released. [@1] The Civil Police investigation was
+witness, was heard and released. [@1,3] The Civil Police investigation was
 expected to continue under standard procedures. [@2]
-
