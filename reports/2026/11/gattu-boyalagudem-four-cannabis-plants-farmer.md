@@ -48,6 +48,11 @@ media:
     media_url: https://assets.hmtvlive.com/h-upload/2026/11/07/485930-gattu-.webp
     publisher: HMTV
     caption: Lead picture on HMTV's report of the Boyalagudem ganja seizure; its alt text is only "Gattu" and it carries no caption or credit, so whether it shows the field or the four plants is not established.
+  - kind: photo
+    url: https://www.eenadu.net/telugu-news/districts/mahbubnagar-news/532/126203186
+    media_url: https://assets.eenadu.net/article_img/mbn0711269a.webp
+    publisher: EENADU
+    caption: 'Police destroying a cannabis plant during the Boyalagudem seizure. Photo: Eenadu.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f13ed644d3bbe53bc42319627c127a56
@@ -68,6 +73,11 @@ sources:
     publisher: Disha Daily (దిశ)
     date: 2026-11-07
     language: te
+  - title: పత్తిచేలో గంజాయి సాగు.. ఒకరి అరెస్టు | general
+    url: https://www.eenadu.net/telugu-news/districts/mahbubnagar-news/532/126203186
+    publisher: EENADU
+    date: 2026-11-08
+    language: te
 open_questions:
   - No figure for the weight or value of the four plants or the area they covered was published.
   - The farmer's charge, arrest, custody status and any court step are not stated; the article says he was taken into custody and being questioned, so he is recorded as detained and no charges are recorded.
@@ -81,14 +91,17 @@ open_questions:
   - Disha Daily gives no weight, value or area for the four plants and no charge section named against the farmer.
   - Disha Daily gives no day beyond Saturday; 7 November 2026 is its publication date and the preceding Saturday.
   - The picture on the Disha Daily page carries only the headline as its caption and no credit, so it cannot be confirmed to show the field or the plants; the report's existing media entries are unchanged.
+  - The Eenadu page gives no separate raid date; 8 November 2026 is its publication date, while the existing report dates the Saturday raid to 7 November 2026.
 ---
 
 Gattu police searched a field at the edge of Boyalagudem village in Jogulamba
-Gadwal district on Saturday and found four cannabis plants growing there. [@1,2,3]
+Gadwal district on Saturday and found four cannabis plants growing there. [@1,2,3,4]
 The plants were in a field belonging to Govindu, a farmer from Lingapuram
-village. [@1,2] Police took the four plants into custody and registered a case
+village. [@1,2,4] Police took the four plants into custody and registered a case
 against the farmer. [@1,2,3]
 
 Gattu sub-inspector Kalyan Kumar said the farmer had been taken into custody and
-was being questioned. [@1,2,3] The sub-inspector warned that anyone committing such
+was being questioned. [@1,2,3,4] The sub-inspector warned that anyone committing such
 offences in the mandal would face severe legal action. [@1,2,3]
+
+The farmer had grown the cannabis as an intercrop in a seed-cotton field on two acres to avoid suspicion, and police raided on reliable information. [@4]
