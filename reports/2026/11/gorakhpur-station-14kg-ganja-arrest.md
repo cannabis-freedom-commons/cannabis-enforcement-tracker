@@ -56,6 +56,11 @@ sources:
     publisher: inextlive
     date: 2026-11-04
     language: hi
+  - title: 'गोरखपुर रेलवे स्टेशन पर 2 बैग गांजा पकड़ाया: RPF, GRP और CIB ने तस्कर को दबोचा; दिवाली से पहले बेचने का प्लान था'
+    url: https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/gorakhpur-railway-station-ganja-seizure-rpf-grp-arrest-139584998.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-04
+    language: hi
 open_questions:
   - Only one source could be opened for this event; a second account could not be searched because the search quota was exhausted.
   - The article gives 3 November 2026 as both the operation day and its publication date; no separate time of day is given.
@@ -63,13 +68,16 @@ open_questions:
   - No court outcome beyond handing the accused to GRP Gorakhpur under the NDPS Act is reported.
   - The new source is dated 4 November 2026 and describes the operation as on Monday, while the existing report dates the interception to 3 November 2026; the incident date is kept as 3 November 2026.
   - The lead photo from the new page was not added as media because it could not be established whether it is distinct from the already-cited Jagran handout photo of the same seizure.
+  - Dainik Bhaskar's page is partly behind an app and premium-login prompt, so its opening passage was readable but the full body could not be checked word for word.
+  - The article names 3 November 2026 for the interception but gives no time of day.
+  - The Bhaskar page appears to carry the same photo of the seized ganja as the existing report's sources, so no separate media entry is added.
 ---
 
 A joint Railway Protection Force, Crime Intelligence Branch and Government
 Railway Police team arrested an alleged trafficker with 14.2 kilograms of ganja
 at Gorakhpur railway station in Uttar Pradesh. [@1,2] The interception happened on
 3 November 2026 at the eastern end of platform number 2, where the joint team
-was watching and checking suspects after a tip-off. [@1] Officers searching the
+was watching and checking suspects after a tip-off. [@1,3] Officers searching the
 suspect recovered a total of 14.2 kilograms of ganja packed in three packets
 inside two backpacks. [@1,2] The arrested man was identified as 29-year-old Prem
 Shankar Sahni, a resident of Bhagirathpur Jutemill village under Kalyanpur
@@ -86,3 +94,5 @@ continuous surveillance and campaigns are under way to prevent smuggling and
 other criminal activity. [@1]
 
 GRP Gorakhpur registered a case against the accused and sent him to jail. [@2]
+
+Dainik Bhaskar reported that the arrested man planned to sell the ganja before Diwali, the Hindu festival of lights. [@3]
