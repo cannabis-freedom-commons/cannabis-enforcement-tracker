@@ -64,6 +64,11 @@ sources:
     publisher: G1
     date: 2026-11-07
     language: pt
+  - title: PRF apreende 20,7 kg de haxixe escondidos em cadeirinha de bebê na BR-376 - Jornal Noroeste
+    url: https://jornalnoroeste.com/2026/11/07/prf-apreende-207-kg-de-haxixe-escondidos-em-cadeirinha-de-bebe-na-br-376/
+    publisher: Jornal Noroeste
+    date: 2026-11-07
+    language: pt
 open_questions:
   - The reports do not give the vehicle's origin, destination or route, or the identities or ages of the four arrested people beyond one being the baby's mother.
   - No court outcome beyond the flagrante arrest and referral to the Mandaguari Civil Police station was reported.
@@ -71,14 +76,14 @@ open_questions:
 ---
 
 Federal Highway Police officers stopped a Ford/Ka at km 201 of BR-376 in
-Mandaguari on the morning of 7 November 2026 at about 09h45. [@1] During a
+Mandaguari on the morning of 7 November 2026 at about 09h45. [@1,5] During a
 detailed search, officers found hashish tablets hidden inside the structure of
 the baby car seat carrying a child. [@1,4] Officers also found hashish concealed
 in luggage compartments in the car. [@1,4]
 
 Part of the drug was carried attached to the bodies of two women travelling in
-the vehicle. [@1,4] Police seized a total of 20.7 kg of hashish in the operation.
-[@1] Four occupants were arrested in flagrante for drug trafficking and
+the vehicle. [@1,4,5] Police seized a total of 20.7 kg of hashish in the operation.
+[@1,5] Four occupants were arrested in flagrante for drug trafficking and
 association for trafficking. [@1,4] The four arrested were two women and two men,
 and a 45-day-old baby who was in the car was placed in the care of the municipal
 Child Protection Council. [@2,4]
