@@ -63,6 +63,11 @@ sources:
     publisher: Diario El Mundo
     date: 2026-10-07
     language: es
+  - title: Guatemalteco es detenido en El Salvador señalado de trasportar cocaína y marihuana - La Hora
+    url: https://lahora.gt/nacionales/ypena/2026/10/07/guatemalteco-es-detenido-en-el-salvador-senalado-de-trasportar-cocaina-y-marihuana-now/
+    publisher: La Hora
+    date: 2026-10-07
+    language: es
 open_questions:
   - The articles give no separate date for the seizure; 7 October 2026 is the detention and report date used as the incident date.
   - No seizure location more precise than El Salvador was published, so country-centre coordinates are used.
@@ -74,16 +79,16 @@ open_questions:
 
 Authorities in El Salvador detained Luis Carlos M. A., a Guatemalan citizen who
 was transporting marijuana and cocaine in a cargo vehicle with Guatemalan
-plates. [@1] The detainee was identified as Luis Carlos Morales Aldana, a
+plates. [@1,3] The detainee was identified as Luis Carlos Morales Aldana, a
 Guatemalan national found with 63 kilos of marijuana, 2.5 kilos of cocaine and
 six boxes of cigarettes. [@2] He will be processed for international
-trafficking, merchandise smuggling and unlawful association. [@2]
+trafficking, merchandise smuggling and unlawful association. [@2,3]
 
 The procedure seized 63 kilos of marijuana distributed in three bundles with 108
 large portions, besides the cocaine and cigarettes. [@1] The contents were
 distributed in bundles of different sizes, with three bundles holding 108 large
 marijuana portions and four bundles holding 33 cocaine portions. [@2] The drugs
-were hidden with special paper intended to make detection harder. [@1] Material
+were hidden with special paper intended to make detection harder. [@1,3] Material
 released by the minister indicates the man tried to hide the illicit goods
 behind packages of toilet paper. [@1]
 
@@ -92,3 +97,4 @@ seizure recorded so far in land-transport mode in the country. [@1] Villatoro
 declared that the country is not a bridge for drug trafficking or any other
 illicit activity. [@1]
 
+The operation was conducted by agents of the National Civil Police of El Salvador. [@3]
