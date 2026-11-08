@@ -68,6 +68,11 @@ sources:
     publisher: Rajshahir Somoy
     date: 2026-11-02
     language: bn
+  - title: কুমিল্লায় এসআরবির জোড়া অভিযান, ১১১ কেজি গাঁজা ও ৫৪ বোতল বিদেশি মদসহ আটক ৪।
+    url: https://newsnow24.com/videos/9y8iNH4fBUU
+    publisher: NewsNow24
+    date: 2026-11-02
+    language: bn
 open_questions:
   - >-
     The accounts conflict on the incident date: BD24Live prints Sunday 1 October, while Agrajatra
@@ -95,6 +100,10 @@ open_questions:
   - The page names the driver as Md Azam Ali (40) and the second man as Md Dablu (40) without the Chapainawabganj addresses given by other accounts.
   - The page's account of the separate Bijoykara Bazar auto-rickshaw stop that yielded 54 bottles of foreign liquor is already described in the existing report and is not added again.
   - The sentence about the cargo-truck search and the officer's statement about legal steps could not be matched verbatim against the opened capture during checking, so those details rest on the report's existing sources.
+  - Only the headline and an embedded video were published on the submitted page; it gives no place within Cumilla district, no date for the raids, no suspect details and no charges, and it adds no facts beyond the figures already in this report.
+  - The page does not state which of the two interceptions the video footage depicts.
+  - The headline's "jora abhiyan" (twin raids) matches the report's two interceptions, but the video's own content could not be viewed, so it is not cited for any detail of the footage.
+  - The 54 bottles of foreign liquor stay outside the cannabis figures; the page gives no weight or value for them.
 media:
   - kind: photo
     url: https://www.agrajatrapratidin.com/country/news/28564
@@ -115,11 +124,11 @@ detained driver Md Azam Ali (40) and Md Dablu (40), both of Shibganj in
 Chapainawabganj district. [@1]
 
 Officers recovered a total of 111 kg of ganja, the local term for cannabis, from
-the rear part of the cargo truck. [@1,2,4] Officers seized the cargo truck used to
+the rear part of the cargo truck. [@1,2,4,6] Officers seized the cargo truck used to
 transport the drugs. [@1] The authorities put the estimated value of the seized
 cannabis at 1,110,000 taka. [@1,5]
 
 Further legal action over the arrested accused and the seized drugs was pending.
 [@1,3] The same article also describes a separate CNG auto-rickshaw stop that
 yielded 54 bottles of foreign liquor, which is not counted in this cannabis
-report. [@1]
+report. [@1,6]
