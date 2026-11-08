@@ -96,6 +96,9 @@ open_questions:
   - The NOS page photo is captioned as a Cobra 6 at a police fireworks demonstration, not this seizure, so it is not added as media.
   - This follow-up gives the cannabis weights as exactly 90 grams of hemp and 800 grams of hash, while the existing report records them as just over those amounts from the police statement; the approximate total is unaffected.
   - This article dates the find only to 'this week' with a Saturday police message, while the existing report dates the search to the evening of 4 November 2026 from the police statement.
+  - The article's only photo is credited to the police but its caption does not say whether it shows the Dinteloord garage box, so no media entry is added.
+  - The article gives the cannabis weights as 90 grams of hemp and 800 grams of hash, while the police statement cited in the report says just over those amounts; the approximate total is unaffected.
+  - The article dates the find only to 'this week' with a police message on Saturday, and repeats that no charges are stated.
 ---
 
 Police entered a garage box on the De Vriesstraat in Dinteloord on the evening
@@ -117,3 +120,5 @@ an explosion could set off a mass explosion affecting whole streets and
 residential districts. [@1,3] Police linked the case to their drive against
 illegal fireworks ahead of New Year; since 1 August 2026 possessing, buying and
 setting off fireworks is banned in the Netherlands. [@1]
+
+Mayor Ruud van den Belt of Steenbergen called the find very worrying and said the municipality had escaped with a fright. [@6]
