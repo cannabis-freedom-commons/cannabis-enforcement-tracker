@@ -76,6 +76,11 @@ sources:
     publisher: Italien News
     date: 2026-11-06
     language: de
+  - title: 'Bozen: 19-Jähriger schlägt Polizist mit Faust ins Gesicht'
+    url: https://www.stol.it/artikel/chronik/bozen-19-jaehriger-schlaegt-polizist-mit-faust-ins-gesicht
+    publisher: stol.it
+    date: 2026-11-06
+    language: de
 open_questions:
   - The date of the checks comes from the police statement, which says officers acted over the last two days and gives the total for 'yesterday'; 5 November 2026 is used as the incident date, the day before the statement of 6 November.
   - No weight is given for the dose of hashish found on the 21-year-old, so it is not included in the cannabis weight.
@@ -86,23 +91,28 @@ open_questions:
   - The German edition is the same Questura statement as the Italian version already cited, so it adds a citation and one detail rather than independent confirmation of the figures.
   - The statement does not say whether the 20-year-old Tunisian taken to the CPR in Rome had any cannabis on him; his check is part of the same operation but not a drug offence.
   - This German-language page does not state that the 20 grams were packaged for sale, a detail present in the police statement already cited by the report.
+  - The stol.it page gives no separate weight for the dose of hashish found on the 21-year-old, which is consistent with the report's existing open question.
+  - The page does not say whether the three men reported on unrelated charges are counted among the seven people already reported, so those figures are left unchanged.
+  - The article does not give a figure for how many people were involved in the checks beyond the 214 identified, and puts that total for the checks as a whole rather than for a named day.
 ---
 
 Police in Bolzano reported a 21-year-old Tunisian man with a police record after
-finding him with a dose of hashish during checks at Berloffa Park. [@2,3,4,5] The same
+finding him with a dose of hashish during checks at Berloffa Park. [@2,3,4,5,6] The same
 checks found a bag holding 20 grams of marijuana, ready to be sold, which
-officers seized from persons unknown, according to the police. [@2,3,4,5] A
+officers seized from persons unknown, according to the police. [@2,3,4,5,6] A
 19-year-old Tunisian asylum seeker was arrested and taken to the Bolzano prison
-on charges of resisting a public official and assaulting a police officer. [@2,3,5]
+on charges of resisting a public official and assaulting a police officer. [@2,3,5,6]
 Two 29-year-old Moroccan men were reported at liberty on charges of resisting a
-public official after the fight in the old town. [@2,3,5] The officer who was
-punched needed treatment expected to last seven days. [@1,3,5]
+public official after the fight in the old town. [@2,3,5,6] The officer who was
+punched needed treatment expected to last seven days. [@1,3,5,6]
 
 Bolzano police chief Giuseppe Ferrari ordered the checks to increase the visible
 presence of officers in sensitive districts and to act against crime. [@1] State
 police patrols were joined by crime-prevention units, the Carabinieri, the
-finance police with a drug-sniffing dog unit and the municipal police. [@1]
+finance police with a drug-sniffing dog unit and the municipal police. [@1,6]
 Officers checked people and vehicles and carried out inspections at businesses,
 and on 5 November alone they identified 214 people and checked 40 vehicles. [@2]
 
 Officers of the Brenner police station checked a 20-year-old Tunisian man with prior convictions on an international train entering Italy and the police chief ordered his expulsion to the CPR centre in Rome. [@4]
+
+During the checks officers also reported a 33-year-old Italian for attempted shoplifting, a 26-year-old Tunisian for breaking into a warehouse in Bolzano's industrial zone and a 27-year-old Moroccan for threatening a security guard. [@6]
