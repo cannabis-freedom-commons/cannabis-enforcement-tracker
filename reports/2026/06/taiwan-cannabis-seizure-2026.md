@@ -94,6 +94,11 @@ sources:
     publisher: 蕃新聞
     date: 2026-11-05
     language: zh
+  - title: 118海巡節表揚典禮 管碧玲：今年已查獲12噸毒品走私
+    url: https://tw.news.yahoo.com/118%E6%B5%B7%E5%B7%A1%E7%AF%80%E8%A1%A8%E6%8F%9A%E5%85%B8%E7%A6%AE-%E7%AE%A1%E7%A2%A7%E7%8E%B2-%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9F%A5%E7%8D%B212%E5%99%B8%E6%AF%92%E5%93%81%E8%B5%B0%E7%A7%81-082739475.html
+    publisher: Yahoo News (自由時報)
+    date: 2026-11-05
+    language: zh
 open_questions:
   - The 5 November speech gives a year-to-date drug total of 12,901.6 kg without separating cannabis, so it is not recorded as a cannabis figure.
   - The 3-tonne figure covers two drug cases found during a 50-day maritime lockdown roundup and is not attributed to the Rueifang case.
@@ -118,12 +123,16 @@ open_questions:
   - The written premier speech text renders the operation's name as 隆炁專案, while spoken coverage has called it 隆氣專案; the report keeps the written form.
   - The 12,901.6 kg drug total on the page covers all drugs for the year and is not separated by substance, so it is not recorded as a cannabis figure.
   - The page describes the ten-year case as an inland record and gives no place, arrest count or court stage beyond the 3 June date and the 766.09 kg weight.
+  - The submitted page gives the year-to-date drug total as a rounded 12 tonnes, while the council report recorded elsewhere puts it at 12,901.6 kg; the page still does not break the total down by substance.
+  - The page calls the ten-year case a smuggling case and gives no date, place, weight, arrest count or court stage for it beyond the minister's speech line.
 ---
 
 Coast guard and police officers stopped a truck in New Taipei's Rueifang district early on 3 June 2026 and found 1,309 packages holding 766.09 kg of dried cannabis flower, along with amphetamine and mixed drugs. The coast guard valued the haul at about NT$1.62 billion and said it was its largest cannabis seizure in ten years; seven people were arrested and prosecutors indicted them on 24 August. The announcement was made on 5 October. [@1,2,13]
 
-At the award ceremony on 5 November 2026 the minister again described the case as the largest cannabis seizure in Taiwan in the past ten years. [@2,3,4,5,6,7,8] She put the coast guard's year-to-date drug seizures at 12,901.6 kg, a total not separated by substance. [@2,3,7,9] She said that during a maritime lockdown the service had broken two drug cases and seized more than 3 tonnes of drugs, alongside two illegal border-crossing cases and more than 20 wanted fugitives. [@2]
+At the award ceremony on 5 November 2026 the minister again described the case as the largest cannabis seizure in Taiwan in the past ten years. [@2,3,4,5,6,7,8,14] She put the coast guard's year-to-date drug seizures at 12,901.6 kg, a total not separated by substance. [@2,3,7,9,14] She said that during a maritime lockdown the service had broken two drug cases and seized more than 3 tonnes of drugs, alongside two illegal border-crossing cases and more than 20 wanted fugitives. [@2]
 
 Coast guard officers and police made the cannabis seizure on 3 June 2026, the date the service's report records. [@7,8,12]
 
 The cabinet's account of the same council report gives the cannabis haul as a rounded 766 kg, the inland record the premier described. [@10] At a 5 October news conference on the same bust the premier said the operation seized 814.68 kg of drugs, of which more than 766 kg was cannabis. [@11] The premier placed the seizure on 3 June, Taiwan's Opium Suppression Movement Day, in 隆炁專案 (Operation Longqi), directed by the Keelung District Prosecutors' Office and run by the coast guard's Keelung Enforcement Team. [@11]
+
+海洋委員會海巡署今日下午舉辦「118海巡節表揚典禮」，共有20位模範海巡人員、7個模範海巡的基層單位受表揚。 [@14]
