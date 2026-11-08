@@ -77,6 +77,7 @@ open_questions:
   - No plea, court date or cannabis weight is reported for Ives' arrest.
   - The 11 counts are listed as five money laundering, fraud and related counts held without bond plus six other counts; the article does not itemise all 11.
   - The article says only that Ives was arrested on Friday; 6 November 2026 is used for that date, while the existing report keeps its 7 November incident date based on BocaNewsNow's account and publication.
+  - The article gives only that Ives was arrested on Friday; no separate date is given for the arrest, and the existing report dates the incident to 7 November based on BocaNewsNow's account.
 ---
 
 Four people are suspects in the investigation. [@1] Hassan Mohamed Soueid and
@@ -114,3 +115,5 @@ Carey Ives, 33, and Jonathan Enaldo Zelaya, 31, as co-defendants. [@4]
 Michael Carey Ives, 33, the CEO of Delray Beach hemp company Not Your Bakery LLC, faces 11 felony counts in the Palm Beach County Sheriff's Office case and was held without bond on five money-laundering and fraud counts. [@5,6] The charges against Ives include money laundering over $100,000, conspiracy to commit organized fraud over $50,000 and selling a Schedule I controlled substance. [@5] Ives was held without bond on five of the money laundering charges as of early Saturday, 7 November. [@5]
 
 Investigators allege Not Your Bakery generated more than $32 million in criminal proceeds during 2024 and 2025 while reporting significantly less revenue to the state. [@6] Financial records showed about $4.2 million transferred from Not Your Bakery to Carey Ives LLC, which Ives owns, plus nearly $969,000 paid directly to him. [@6] The investigation began in 2024 after deputies intercepted shipments containing high-potency THC products, and undercover purchases and laboratory tests showed products with THC above Florida's legal hemp limit, investigators said. [@6]
+
+Ives and co-defendant Casey Anne Smith bought a $1.2 million Boynton Beach home in 2024, according to the affidavit. [@6] Investigators also identified a $340,000 property interest in Briny Breezes and a $369,000 property purchase in Costa Rica. [@6] Investigators cited a January 2025 text in which Ives claimed the business had generated $2 million in sales in a single month. [@6]
