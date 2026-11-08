@@ -62,6 +62,11 @@ sources:
     publisher: RagusaH24
     date: 2026-11-08
     language: it
+  - title: 'Cani antidroga a Catania scoprono deposito di droga: arresto'
+    url: https://www.ilmoderatore.it/cani-antidroga-catania-deposito-droga-garage-arresto/
+    publisher: Il Moderatore
+    date: 2026-11-08
+    language: it
 open_questions:
   - The accounts give no date for the patrol, the search or the validation hearing; 7 November 2026 is used as the incident date because the reports were published on 8 November and describe the validation as already held.
   - The material is described as hashish and marijuana without a laboratory confirmation report.
@@ -73,14 +78,14 @@ open_questions:
 ---
 
 Catania police arrested a 30-year-old man from the city after finding drugs and
-drug-packaging material in a garage he had rented. [@1] Officers of the Flying
+drug-packaging material in a garage he had rented. [@1,4] Officers of the Flying
 Squad and the dog unit of the general prevention and public rescue office were
 patrolling near via Pietra dell'Ova when the drug dogs Briska, Rex and Ares
-signalled insistently at a garage. [@1] The 30-year-old arrived within minutes
+signalled insistently at a garage. [@1,4] The 30-year-old arrived within minutes
 and opened the lock-up, and officers searched it. [@2]
 
 The dogs led their handlers to a sack in a corner of the garage holding 214
-grams of hashish and 96 grams of marijuana. [@1] Officers also recovered a pair
+grams of hashish and 96 grams of marijuana. [@1,4] Officers also recovered a pair
 of scissors still soaked in the drug and seized the drugs. [@1] Corriere Etneo,
 which identified the place as via Pietra dell'Ova, reported that the man had
 taken the lock-up on rent as an unsuspected base for storing the drug and
@@ -91,9 +96,8 @@ sostanze stupefacenti ai fini di spaccio). [@3] After the duty prosecutor was
 informed, he was held in the police headquarters security cells pending a
 fast-track (direttissima) hearing. [@2] The judge validated the arrest and
 ordered him to report to the judicial police for his area as a precautionary
-measure. [@1] The accounts came from a Catania police statement published by the
+measure. [@1,4] The accounts came from a Catania police statement published by the
 Sicilian outlets, which repeat the presumption of innocence until a final
 conviction. [@2] RagusaH24 describes the find as the work of State Police
 officers in Catania during a territory-control service aimed at curbing drug
 dealing. [@3]
-
