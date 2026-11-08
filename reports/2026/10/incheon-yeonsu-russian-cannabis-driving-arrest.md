@@ -83,6 +83,11 @@ sources:
     publisher: MSN (Newsis)
     date: 2026-11-03
     language: ko
+  - title: 대마 양성 반응 나온 불법체류자...인천서 마약 운전 혐의 검거
+    url: https://www.msn.com/ko-kr/news/other/%EB%8C%80%EB%A7%88-%EC%96%91%EC%84%B1-%EB%B0%98%EC%9D%98-%EB%82%98%EC%98%A8-%EB%B6%88%EB%B2%95%EC%B2%B4%EB%A5%98%EC%9E%90-%EC%9D%B8%EC%B2%9C%EC%84%9C-%EB%A7%88%EC%95%BD-%EC%9A%B4%EC%A0%84-%ED%98%90%EC%9D%98-%EA%B2%80%EA%B1%B0/ar-AA2gDjso
+    publisher: MSN (아주경제)
+    date: 2026-11-03
+    language: ko
 open_questions:
   - No quantity or weight of cannabis was reported, so no cannabis seizure figure is given.
   - The precise road or spot in Yeonsu District where the driving and arrest occurred was not specified.
@@ -105,17 +110,18 @@ open_questions:
   - The News1 page's only listed image is a designer graphic credited to Kim Jiyoung and does not depict this arrest, so no media entry is added.
   - The page carries one image captioned 인천에서 대마초를 복용한 상태로 운전한 불법체류 외국인이 경찰에 검거됐다 and credited to 연합뉴스, which does not establish that it depicts this arrest, so no media entry is included.
   - This account quotes a police officer as saying A had not driven while under the influence of drugs, which conflicts with the driving allegation in the Yonhap-based accounts already cited by the report.
+  - The MSN page republishes the same 아주경제 text already cited by the existing report, so no independent new detail is added beyond corroboration.
 ---
 
 Incheon’s Yeonsu Police Station detained a Russian man in his 40s, identified as
 A, on cannabis and immigration-violation charges and handed him over to
-immigration authorities. [@1,3,7,8,9,10,11] He is accused of driving on a road in Yeonsu
-District, Incheon, on 28 October after using cannabis. [@1,3,5,7,9,10] Police began
+immigration authorities. [@1,3,7,8,9,10,11,12] He is accused of driving on a road in Yeonsu
+District, Incheon, on 28 October after using cannabis. [@1,3,5,7,9,10,12] Police began
 tracking the vehicle after receiving a drug-use report at about 2:40 p.m. that
-day and detained him about three hours later. [@1,3,5,7,8,9,10]
+day and detained him about three hours later. [@1,3,5,7,8,9,10,12]
 
 A preliminary urine drug test collected by police returned a positive reaction
-for cannabis. [@1,3,4,6,7,8,9,10] While checking his identity through his driver’s licence,
+for cannabis. [@1,3,4,6,7,8,9,10,12] While checking his identity through his driver’s licence,
 officers found that his permitted period of stay had expired and that he was
 staying illegally. [@1,3,9,10] Police applied for a detention warrant, but the
 prosecution office did not seek the warrant and asked for further investigation
