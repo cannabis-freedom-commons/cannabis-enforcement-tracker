@@ -49,6 +49,21 @@ sources:
     publisher: ZuidWest Update
     date: 2026-11-07
     language: nl
+  - title: Politie vindt bijna 10.000 cobra's, lawinepijlen en shells in garagebox in Dinteloord en arresteert twee mannen
+    url: https://www.bndestem.nl/112-nieuws-steenbergen/politie-vindt-bijna-10-000-cobras-lawinepijlen-en-shells-in-garagebox-in-dinteloord-en-arresteert-twee-mannen~a6015ca0/
+    publisher: BN DeStem
+    date: 2026-11-07
+    language: nl
+  - title: Ruim 750 kilo illegaal vuurwerk in beslag genomen in Dinteloord, twee verdachten aangehouden
+    url: https://www.politie.nl/nieuws/2026/november/7/08-ruim-750-kilo-illegaal-vuurwerk-in-beslag-genomen-in-dinteloord-twee-verdachten-aangehouden.html
+    publisher: Politie
+    date: 2026-11-07
+    language: nl
+  - title: Politie vindt tienduizend stuks illegaal vuurwerk in garagebox in Dinteloord
+    url: https://nos.nl/artikel/2638452-politie-vindt-tienduizend-stuks-illegaal-vuurwerk-in-garagebox-in-dinteloord
+    publisher: NOS Nieuws
+    date: 2026-11-07
+    language: nl
 open_questions:
   - Only one accessible source was found; web search returned no second report of the Dinteloord seizure for corroboration.
   - No separate calendar date is given for the seizure; Wednesday evening and Friday evening arrests with a Saturday 7 November 2026 police report point to 4 and 6 November 2026, so 6 November is used as the incident date with an approximate 4-6 November period.
@@ -60,6 +75,7 @@ open_questions:
   - The nominated candidate nl-demen-underground-grow could not be opened because tracker_find_reports and tracker_get_report were unavailable and no reports index was present; distinction could not be verified by quotation and requires a reviewer check.
   - The cannabis weights are given as minima ('ruim 90 gram hennep, ruim 800 gram hash'), so the recorded 90 grams and 800 grams are approximate lower bounds.
   - The submitted page's only image shows a police uniform detail and is not confirmed to show the Dinteloord seizure, so no media entry is added.
+  - The police statement dates the second arrest to the evening of Friday 6 November 2026, which supports the 4-6 November period recorded in this report.
 ---
 
 Police found almost 10,000 cobras in a garage box on De Vriesstraat in
@@ -68,13 +84,15 @@ fireworks. [@1,2] Officers also found boxes with avalanche fireworks and kilos o
 heavy shells. [@1] The investigation had been running for some time after a
 report about possible storage of and trade in illegal fireworks. [@1,2] A
 25-year-old man from Dinteloord was arrested on Wednesday evening and a
-42-year-old man from Steenbergen was arrested on Friday evening. [@1,2]
+42-year-old man from Steenbergen was arrested on Friday evening. [@1,2,4]
 
 Officers seized more than 750 kilos of heavy illegal fireworks, along with
 expensive jewellery and a car. [@1] Officers also found an alarm pistol, 90
-grams of weed, 800 grams of hashish and more than 250 pills. [@1,2] The seized
+grams of weed, 800 grams of hashish and more than 250 pills. [@1,2,3] The seized
 fireworks contained large amounts of explosive flash powder, which police said
 could have disastrous consequences for surrounding streets if it exploded. [@1]
 
 Specialists removed the fireworks. [@1] Police reported on Saturday that two
 people had been arrested. [@1]
+
+NOS reported the find was in a garage box in a residential neighbourhood of Dinteloord, a village in North Brabant. [@5]

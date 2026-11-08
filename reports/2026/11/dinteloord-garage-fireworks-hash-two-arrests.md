@@ -106,6 +106,9 @@ open_questions:
   - The article dates the find only to 'this week' with a police message on Saturday, and repeats that no charges are stated.
   - The Kijk op Steenbergen copy describes the drugs only as 'drugs' without naming hash or hemp or giving weights, so it corroborates the find but adds no cannabis quantity.
   - The page's lead photo carries no caption or credit identifying what it depicts, so no media entry is added.
+  - The submitted BN DeStem page identifies the first arrest only as on the Wednesday evening and the second on the Friday evening; 4 November 2026 for the search comes from the police statement already cited in the report.
+  - The page gives no charges, custody decision or court outcome for the two arrested men.
+  - The page photo captioned 'Garageboxen aan De Vriesstraat' shows the garage boxes at that street, not the seized cannabis, so it is not listed as media for this cannabis report.
 ---
 
 Police entered a garage box on the De Vriesstraat in Dinteloord on the evening
@@ -129,3 +132,5 @@ illegal fireworks ahead of New Year; since 1 August 2026 possessing, buying and
 setting off fireworks is banned in the Netherlands. [@1]
 
 Mayor Ruud van den Belt of Steenbergen called the find very worrying and said the municipality had escaped with a fright. [@6]
+
+NOS reported that the find was in a garage box in a residential neighbourhood of Dinteloord, a village in North Brabant, without naming the street. [@5]
