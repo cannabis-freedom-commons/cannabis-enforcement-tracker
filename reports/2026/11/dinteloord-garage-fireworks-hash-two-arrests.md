@@ -80,6 +80,11 @@ sources:
     publisher: ED.nl
     date: 2026-11-08
     language: nl
+  - title: Politie neemt illegaal vuurwerk in beslag in Dinteloord, twee verdachten aangehouden
+    url: https://www.kijkopsteenbergen.nl/nieuws/algemeen/35587/politie-neemt-illegaal-vuurwerk-in-beslag-in-dinteloord-twee-
+    publisher: Kijk op Steenbergen
+    date: 2026-11-07
+    language: nl
 open_questions:
   - Only the police statement was found; no separate outlet reporting of this Dinteloord find was located.
   - The quantities are given as more than 90 grams of hemp and more than 800 grams of hash, not exact weights, so the cannabis total of about 891 grams is approximate.
@@ -99,14 +104,16 @@ open_questions:
   - The article's only photo is credited to the police but its caption does not say whether it shows the Dinteloord garage box, so no media entry is added.
   - The article gives the cannabis weights as 90 grams of hemp and 800 grams of hash, while the police statement cited in the report says just over those amounts; the approximate total is unaffected.
   - The article dates the find only to 'this week' with a police message on Saturday, and repeats that no charges are stated.
+  - The Kijk op Steenbergen copy describes the drugs only as 'drugs' without naming hash or hemp or giving weights, so it corroborates the find but adds no cannabis quantity.
+  - The page's lead photo carries no caption or credit identifying what it depicts, so no media entry is added.
 ---
 
 Police entered a garage box on the De Vriesstraat in Dinteloord on the evening
 of Wednesday 4 November 2026 and found a large quantity of heavy illegal
-fireworks. [@1,2,3,4,7] Officers arrested a 25-year-old man from Dinteloord that evening
-and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2,4,5,6,7]
+fireworks. [@1,2,3,4,7,8] Officers arrested a 25-year-old man from Dinteloord that evening
+and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2,4,5,6,7,8]
 The search followed a longer police investigation that began with a report about
-the possible storage and sale of illegal fireworks. [@1,4,5]
+the possible storage and sale of illegal fireworks. [@1,4,5,8]
 
 Alongside the fireworks, officers found just over 90 grams of hemp and just over
 800 grams of hash in the garage box. [@1,2,3,4,5,6,7] Police also seized about 250 pills, an
