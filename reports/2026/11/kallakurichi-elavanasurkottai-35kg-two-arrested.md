@@ -64,6 +64,10 @@ open_questions:
   - Dinamani names the accused as V. Rishi Vishnu, aged 23, and M. Akash, 19; other Tamil accounts give Rishi's age as 24, so his age differs.
   - Dinamani places the check on the Chennai–Salem national highway and dates the seizure to Sunday, 1 November, while Dinamalar places it on the Thirukkovilur–Asanur road at night and dates the check to 31 October.
   - 'சரக்கு வாகனத்தில் 34 கிலோ கஞ்சா கடத்தல்: மதுரையைச் சோ்ந்த இருவா் கைது (தினமணி) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.'
+  - Dinamani gives the suspects' ages as 23 and 19, while Daily Thanthi gives Rishi's age as 24; the report keeps the Daily Thanthi ages and notes the difference.
+  - Dinamani dates the check to Sunday 1 November on the Chennai–Salem national highway, while Dinamalar dates it to the night of 31 October on the Thirukkovilur–Asanur road.
+  - Dinamani says the pair were smuggling the ganja from Madurai for sale, without stating Andhra Pradesh as the origin that Daily Thanthi and Dinamalar give.
+  - 'சரக்கு வாகனத்தில் 34 கிலோ கஞ்சா கடத்தல்: மதுரையைச் சோ்ந்த இருவா் கைது (தினமணி) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
 ---
 
 A police team led by Inspector Saraswathi was on patrol duty at Elavanasurkottai
