@@ -396,6 +396,8 @@ open_questions:
   - This PA syndication places the sentencing at Norfolk Crown Court on Thursday 5 November, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
   - This PA syndication gives the sentencing court as Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
   - The page restates the 5.7 kg weight as dry cannabis without a measured weight and gives no separate value for the dried cannabis alone.
+  - The Daily Mail names Norwich Crown Court, matching the report, while several PA syndications of the same hearing name Norfolk Crown Court; the two names remain unresolved in the report's open questions.
+  - The Daily Mail does not give the individual sentences, which the report records as three and a half years for Mark Ayres and nine months suspended for Marion Ayres.
 ---
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown
