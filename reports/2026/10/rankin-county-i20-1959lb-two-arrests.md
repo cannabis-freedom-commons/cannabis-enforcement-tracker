@@ -68,6 +68,10 @@ sources:
     url: https://cdllife.com/2026/co-drivers-arrested-after-i-20-traffic-stop-on-18-wheeler-ends-with-seizure-of-2100-pounds-of-drugs/
     publisher: CDLLife
     date: 2026-11-03
+  - title: Rankin County traffic stop on I-20 nets massive cocaine and marijuana seizure
+    url: https://www.msn.com/en-us/news/other/rankin-county-traffic-stop-on-i-20-nets-massive-cocaine-and-marijuana-seizure/ar-AA2gEW8m
+    publisher: WAPT Jackson
+    date: 2026-11-03
 open_questions:
   - The approximately 204 pounds of cocaine reported alongside the marijuana is excluded from the cannabis figures under the mixed-event substance scope.
   - The combined more-than-2,100-pound total includes cocaine and is not used as a cannabis figure; only the separately stated 1,959 pounds of marijuana is counted.
@@ -86,16 +90,18 @@ open_questions:
   - The WJTV page was opened through its MSN republication and shows the story as 5 days old; it gives no separate time for the stop beyond the date 29 October 2026.
   - The article calls the second man Befikadu Belayneh, matching the report's body text, while other coverage gives his name in a different order.
   - 'Left out, as its quotation was not found in WJTV: The operation was conducted by the Mississippi Bureau of Narcotics, the Mississippi Department of Public Safety Interdiction Team, the Rankin County Sheriff''s Department and the Madison Police Department.'
+  - This account gives the marijuana as nearly 1,960 pounds, a rounding that differs slightly from the 1,959 pounds and about 888.6 kg used in the existing report.
+  - The story appears on MSN with the WAPT Jackson byline and no visible publication date; the source date here comes from the page metadata and is treated as approximate.
 ---
 
 Officers arrested driver Yohannes Haile and co-driver Befikadu Belayneh after
-stopping their tractor-trailer on Interstate 20 in Rankin County. [@1,3,5,6,8] Both men
+stopping their tractor-trailer on Interstate 20 in Rankin County. [@1,3,5,6,8,9] Both men
 were charged with aggravated trafficking of cocaine and trafficking of
-marijuana. [@1,3,4,6,8] Both were taken to the Rankin County Detention Center, and both
-suspects are presumed innocent unless proven guilty in court. [@1,3]
+marijuana. [@1,3,4,6,8,9] Both were taken to the Rankin County Detention Center, and both
+suspects are presumed innocent unless proven guilty in court. [@1,3,9]
 
 Officers found approximately 204 pounds of cocaine and 1,959 pounds of
-marijuana, about 888.6 kg, in the 18-wheeler. [@1,3,4,5,6,7,8] The seizure occurred
+marijuana, about 888.6 kg, in the 18-wheeler. [@1,3,4,5,6,7,8,9] The seizure occurred
 Thursday, Oct. 29, during a joint operation involving the Mississippi Bureau of
 Narcotics, the Department of Public Safety Interdiction Team, the Rankin County
 Sheriff’s Department and the Madison Police Department. [@1,3,4,5,6,7,8] The second account
