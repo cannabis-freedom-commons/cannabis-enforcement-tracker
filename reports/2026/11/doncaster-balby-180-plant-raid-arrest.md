@@ -45,6 +45,10 @@ sources:
     url: https://www.doncasterfreepress.co.uk/news/man-arrested-as-police-raid-doncaster-cannabis-factory-9328372
     publisher: Doncaster Free Press
     date: 2026-11-03
+  - title: Man arrested as police raid Doncaster cannabis factory
+    url: https://www.msn.com/en-gb/news/other/man-arrested-as-police-raid-doncaster-cannabis-factory/ar-AA2gGGut
+    publisher: MSN / Doncaster Free Press
+    date: 2026-11-03
 open_questions:
   - Only one accessible source for this event was found after searching for a second account
   - The plant figure is approximate, stated as approximately 180 plants
@@ -53,7 +57,7 @@ open_questions:
 ---
 
 South Yorkshire Police executed a warrant at a property on St John's Road in
-Doncaster at 8.40am on Tuesday 3 November. [@1] Officers descended on the
+Doncaster at 8.40am on Tuesday 3 November. [@1,2] Officers descended on the
 property in Balby shortly before 9am that morning. [@1] A 41-year-old man was
 arrested at the property on suspicion of production of cannabis. [@1] He
 remained in police custody following the arrest. [@1]
@@ -63,4 +67,3 @@ The raid was reported as the seizure of dozens of cannabis plants from a
 Doncaster house. [@1] Police kept a scene on at the property during the day to
 allow officers to dismantle the cultivation. [@1] The details were attributed to
 a South Yorkshire Police spokesperson. [@1]
-
