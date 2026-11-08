@@ -51,6 +51,11 @@ sources:
     publisher: ঢাকা মেইল
     date: 2026-11-08
     language: bn
+  - title: চাঁদপুরে পুলিশের অভিযানে গ্রেপ্তার ৪৪
+    url: https://www.amarsangbad.com/amp/country/news/364182
+    publisher: আমার সংবাদ
+    date: 2026-11-08
+    language: bn
 open_questions:
   - The incident date of 7 November 2026 is the raid date stated in the text; 8 November 2026 is the article's publication date.
   - Yaba is a methamphetamine tablet and is excluded from cannabis figures; 60 grams is the whole ganja weight given.
@@ -65,6 +70,8 @@ open_questions:
   - The account says police recovered 60 grams of ganja and 4 yaba pieces, while other accounts of this drive put the yaba total at 6 pieces.
   - The account gives 8 November as the morning the figures were released, the same day the article was published, while other accounts described a release on the night of 7 November.
   - The account reports 25 teenagers detained in the anti-teen-gang part, while the report's existing accounts put that figure at 19 for the drive of 24 hours to 6 November.
+  - Amar Sangbad gives 4 yaba pieces in total, against 6 pieces in other accounts of this drive; yaba is a methamphetamine tablet and does not affect the cannabis figures.
+  - Amar Sangbad gives 44 total arrests without separating the 38 Awami League arrests from the 6 drug arrests that other accounts of this drive state.
 ---
 
 Chandpur district police arrested 44 people in a 24-hour drive, including 38
@@ -73,16 +80,16 @@ detained 25 teenagers in an anti-teen-gang drive. [@1]
 
 The raids ran across the district on Saturday 7 November, and the figures were
 released at night by the media cell of the superintendent of police's office.
-[@1,2] The drive was run on the instructions of Superintendent Md Mizanur Rahman
+[@1,2,4] The drive was run on the instructions of Superintendent Md Mizanur Rahman
 to control law and order and curb crime. [@1]
 
-In the anti-drug part, six people were arrested. [@1] Haimchar police held one
+In the anti-drug part, six people were arrested. [@1,4] Haimchar police held one
 person with 2 yaba pieces, Faridganj police held 2 people with 2 yaba pieces,
 Matlab Uttar police held 1 person with 20 grams of ganja, and Shahrasti police
 held 2 people with 40 grams of ganja. [@1,2,3] In total police reported recovering
-60 grams of ganja and 6 yaba pieces in the drive. [@1,2]
+60 grams of ganja and 6 yaba pieces in the drive. [@1,2,4]
 
 Additional Superintendent Nadia Nur said 24 of the detained teenagers were
 handed to their families on bond after checks, and legal action was taken
-against one. [@1,2] She said legal action was taken against the arrested Awami
-League members and drug suspects and that such drives would continue. [@1]
+against one. [@1,2,4] She said legal action was taken against the arrested Awami
+League members and drug suspects and that such drives would continue. [@1,4]
