@@ -86,6 +86,11 @@ sources:
     publisher: Dhaka Today
     date: 2026-11-01
     language: bn
+  - title: নওগাঁয় ২৪ কেজি গাঁজাসহ ৪ মাদক কারবারি গ্রেফতার
+    url: https://www.agrajatrapratidin.com/country/news/28438
+    publisher: Agrajatra Pratidin
+    date: 2026-11-01
+    language: bn
 open_questions:
   - The cannabis raids ran from Saturday night through 8:30 a.m. Sunday; the report is dated to the 1 November press briefing that announced them.
   - No charges, court outcome, drug value or independent weighing was reported.
@@ -109,21 +114,23 @@ open_questions:
   - This account describes the drug raids as running overnight Sunday and starting at 5 a.m. Sunday in Manda, while the existing report dates them from Saturday night into 8:30 a.m. Sunday; the shared 20 kg plus 2 kg plus 2 kg breakdown is used.
   - The same article also reports 80 recovered mobile phones and a van-theft arrest with two suspects, separate non-cannabis events left out of the cannabis report.
   - The page lists eight images with empty captions and credits, so none could be confirmed to show this seizure and no media entry is added.
+  - This account dates the Manda search to 5 a.m. on 1 November and the Badalgachhi search to 10 a.m., while the existing report dates the raids from Saturday night through 8:30 a.m. Sunday; the shared 20 kg plus 2 kg plus 2 kg breakdown is used.
+  - The page carries a photo whose caption repeats the raid headline with no credit, so its visible content could not be verified from the text capture and no media entry is added.
 ---
 
 Naogaon District Detective Branch (DB) police arrested four alleged drug traders
 in separate raids across Manda, Sadar and Badalgachhi upazilas, sub-districts of
-Naogaon District. [@1,2,3,4,5,6,8,9] The four were identified as Arif Hossain, 30, of
+Naogaon District. [@1,2,3,4,5,6,8,9,10] The four were identified as Arif Hossain, 30, of
 Raghunathpur in Manda, Mosharraf, 33, of Sherpur Kuralipara in Mohadevpur, and
-brothers Shilong, 23, and Arafat, 23, of Badalgachhi. [@1,3] Superintendent of
+brothers Shilong, 23, and Arafat, 23, of Badalgachhi. [@1,3,10] Superintendent of
 Police Mohammad Tarikul Islam announced the arrests at a press briefing at his
 Naogaon office on Sunday, 1 November. [@1,3,4,5,6,7]
 
 Acting on a tip about a large stock stored for sale in Manda, officers raided
 Arif Hossain's house in Raghunathpur village late Saturday night and recovered
-20 kg of ganja from a steel trunk. [@1,2,3,4,5,6,7] Information from Arif led officers to a
+20 kg of ganja from a steel trunk. [@1,2,3,4,5,6,7,10] Information from Arif led officers to a
 rented house in Naogaon Sadar, where they arrested Mosharraf and recovered
-another 2 kg kept under a bed. [@1,9] Information from Mosharraf then led to
+another 2 kg kept under a bed. [@1,9,10] Information from Mosharraf then led to
 Badalgachhi, where police arrested Shilong and Arafat and recovered a further 2
 kg from them. [@1,3,4,5,6,9]
 
@@ -131,4 +138,4 @@ The cannabis raids ran from Saturday into 8:30 a.m. Sunday and were carried out
 by a Detective Branch team on the superintendent's orders. [@1] Police said
 district anti-drug drives of this kind would continue. [@1]
 
-Cases have been filed against the four arrested men at the relevant police stations under the Narcotics Control Act. [@2,9]
+Cases have been filed against the four arrested men at the relevant police stations under the Narcotics Control Act. [@2,9,10]
