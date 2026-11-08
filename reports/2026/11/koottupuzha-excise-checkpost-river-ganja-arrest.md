@@ -104,6 +104,11 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-08
     language: ml
+  - title: Man jumps into river with cannabis during Kannur vehicle check; two-hour hunt ends in arrest; sub-inspector injured
+    url: https://www.sathyamonline.com/news/news-keralam/kannur-12792872
+    publisher: Sathyam Online
+    date: 2026-11-08
+    language: ml
 open_questions:
   - Neither account gives a calendar date for the event beyond 'today'; 7 November 2026 is the publication date of both and is used as the incident date.
   - Only Mathrubhumi gives a ganja weight, 10 grams; the submitted TrueVision page says only that ganja was found.
@@ -140,7 +145,7 @@ account names check post sub-inspector Jose P. Jose, highway police
 sub-inspector Sadanandan, the excise team and local residents as those who
 caught him. [@1]
 
-A search found 10 grams of ganja on him, which officers seized. [@2] Mathrubhumi
+A search found 10 grams of ganja on him, which officers seized. [@2,3] Mathrubhumi
 gives the man's home as Markkarkkandi in Kannur, while the submitted page says
 Thayyil. [@2]
 
@@ -153,3 +158,5 @@ The search of the bag he left behind yielded 90 grams of ganja, which excise off
 The bus was a Karnataka state transport (KSRTC) coach, and the man was 25. [@6]
 
 The man caught at Koottupuzha after jumping into the river with cannabis was Alishan Fayiz, 25, from Markkarkkandi in Kannur district. [@7] He was overpowered after an effort lasting about two hours. [@7] The incident happened at about 11 a.m. on Saturday, 7 November. [@7] Sub-inspector Jose P. Jose of Karikkottakkari was injured in the hand during the attempt to catch him. [@7] About 90 grams of cannabis was found in the bag he left on the bridge, a figure ETV Bharat and Thejas News both report. [@7] He has another criminal case at Valapattanam police station, the report says. [@7] Ward member K. A. Shaji said the accused should receive the maximum punishment. [@7] The operation was led by Irrikkur sub-inspector N. A. Sadanandan, additional sub-inspectors K. Shaji, Saju and Pratheesh, and an excise team under the excise circle inspector, with local residents led by Payam panchayat member Anto Padinjarekkara joining the rescue. [@7]
+
+Sathyam Online reports that excise recovered 90 grams of ganja from the bag he left on the bridge. [@8] The Sathyam account says further cases are registered against him at Valapattanam police station. [@8] Sathyam Online places the check at about 11 a.m. on Saturday, when excise officers were inspecting a Karnataka state transport bus from Virajpet to Kannur near the Koottupuzha bridge. [@8]
