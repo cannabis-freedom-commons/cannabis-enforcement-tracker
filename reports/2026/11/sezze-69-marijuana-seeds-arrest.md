@@ -1,41 +1,40 @@
 ---
 code: XMN5X7
 added_at: "2026-11-07T05:19:10.791546Z"
-date: 2026-11-05
+date: 2026-11-08
 country: it
 place: Sezze, Latina, Lazio
 coordinates: [41.503, 13.062]
 precision: locality
 type: arrest
-also: [raid, seizure]
+also: [raid, seizure, prosecution]
 title: 69-year-old arrested in Sezze with 110 g of marijuana and 1,000 seeds
-summary: >-
-  Carabinieri in Sezze arrested a 69-year-old local man after stopping him on a moped without a plate and finding a folding knife on him, then searching his home. The search found about 110 grams of marijuana and almost 1,000 cannabis seeds; he is accused of possessing the drug to deal and reported for carrying a prohibited weapon.
+summary: Carabinieri in Sezze arrested a 69-year-old local man after stopping him on a moped without a plate and finding a folding knife, then finding about 110 grams of marijuana and almost 1,000 cannabis seeds at his home. A judge later validated the arrest, ordered no precautionary measure so he was released, and adjourned the fast-track trial to 24 November.
 figures:
-  arrested: 1
-  kg_seized: 0.11
+    arrested: 1
+    kg_seized: 0.11
 details:
-  agencies: [it-carabinieri]
-  agency_types: [gendarmerie]
-  products:
-    - {product: flower, kg: 0.11}
-    - {product: seeds, plants: 1000}
-  activity: [possession]
-  setting: [street, home]
-  charges: [detenzione ai fini di spaccio di sostanze stupefacenti, detenzione illegale di oggetti atti ad offendere]
-  case_stage: investigation
-  date_precision: exact
-  region: Lazio
+    agencies: [it-carabinieri]
+    agency_types: [gendarmerie]
+    products:
+        - {product: flower, kg: 0.11}
+        - {product: seeds, plants: 1000}
+    activity: [possession]
+    setting: [street, home]
+    charges: [detenzione ai fini di spaccio di sostanze stupefacenti, detenzione illegale di oggetti atti ad offendere]
+    case_stage: charged
+    date_precision: publication
+    region: Lazio
 data_sources:
-  details.activity: [2]
-  details.agencies: [1]
-  details.agency_types: [2]
-  details.case_stage: [2]
-  details.charges: [2]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [2]
-  figures.kg_seized: [1]
+    details.activity: [2]
+    details.agencies: [1]
+    details.agency_types: [2]
+    details.case_stage: [8]
+    details.charges: [2]
+    details.products: [1]
+    details.setting: [1]
+    figures.arrested: [8]
+    figures.kg_seized: [8]
 media:
   - kind: photo
     url: https://www.latinaoggi.eu/news/home/323926/sezze-in-casa-marijuana-e-mille-semi-di-canapa-arrestato-69enne.html
@@ -87,6 +86,11 @@ sources:
     publisher: Telegolfo
     date: 2026-11-06
     language: it
+  - title: '100 GRAMMI DI MARIJUANA E MILLE SEMI DI CANAPA: SCARCERATO 69ENNE DI SEZZE'
+    url: https://latinatu.it/100-grammi-di-marijuana-e-mille-semi-di-canapa-scarcerato-69enne-di-sezze/
+    publisher: Latina Tu
+    date: 2026-11-08
+    language: it
 open_questions:
   - The reports give the date only as the afternoon of the previous day; 5 November 2026 is calculated from the 6 November publication date.
   - The marijuana weight is given only as approximately 110 grams and the seeds only as almost 1,000, so neither is an exact figure.
@@ -99,16 +103,18 @@ open_questions:
   - Mondoreale reproduces the same Carabinieri statement as the outlets already cited and carries no photo of the event, only a site logo image, so it is not independent reporting.
   - Lazio TV reproduces the same Carabinieri statement and carries a handout photo of the seizure, so it is not independent reporting.
   - This account words the knife allegation both as carrying weapons or objects capable of offence and as illegal possession of objects capable of offence, so the exact charge wording stays unclear.
+  - The article gives no separate date for the validation hearing; 8 November 2026 is its publication date used as the date of this update.
+  - The outcome of the trial adjourned to 24 November is not yet known.
 ---
 
 Carabinieri from the Sezze station arrested a 69-year-old local man on the spot
-for possessing drugs with intent to deal. [@2,5] Officers stopped him during an
+for possessing drugs with intent to deal. [@2,5,8] Officers stopped him during an
 ordinary territorial control patrol while he rode a moped that had no number
 plate and while he lacked driving and registration documents. [@1,4,5] The further
 check found he was carrying a folding knife of a prohibited type. [@1,4,7]
 
 A search of his home turned up about 110 grams of marijuana, kept in a bag and
-in several plastic containers. [@1,4,5,6] Officers also found almost 1,000 seeds of
+in several plastic containers. [@1,4,5,6,8] Officers also found almost 1,000 seeds of
 Indian hemp in the house. [@1,5,7] The drug and the knife were seized and are to be
 sent for laboratory analysis on the instructions of the Latina public
 prosecutor's office. [@2,5] The moped was placed under administrative seizure.
@@ -120,3 +126,5 @@ provincial Carabinieri command to await a validation hearing under the
 fast-track procedure, at the disposal of the judiciary. [@1,4,5,6,7]
 
 He was already known to the police, the account adds. [@3,5] The marijuana is to be analysed in a laboratory on the instructions of the Latina public prosecutor's office. [@3]
+
+Single judge Valentina Mongillo of the Latina court validated the arrest at the end of the first fast-track hearing step and adjourned the trial to 24 November to grant defence time, with the man assisted by lawyer Emanuele Ceccano. [@8] No precautionary measure was imposed and the 69-year-old was released. [@8]
