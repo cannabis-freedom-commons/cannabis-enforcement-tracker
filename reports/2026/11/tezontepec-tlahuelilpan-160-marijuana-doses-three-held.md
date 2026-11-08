@@ -43,6 +43,11 @@ media:
     media_url: https://img.lasillarota.com/y_yvLP441D84-1ZW9ALT5kP0lvHb5vQEg_A665QD2eY/rs:fit:1280:0:0/q:65/aHR0cHM6Ly9hc3NldHMubGFzaWxsYXJvdGEuY29tL2ltZy8xNzk0MDcxNzQ4ODE5LTh5enRnNS5qcGc
     publisher: La Silla Rota
     caption: 'Officers in vests and helmets stand in front of a sign reading ''Inmueble asegurado'' (secured property) at night. Photo: Especial'
+  - kind: photo
+    url: https://www.effeta.info/ejercito-guardia-nacional-detienen-tres-decomisan-droga-hidalgo/
+    media_url: https://www.effeta.info/blog/wp-content/uploads/2026/11/guardia-nacional-ejercito-detienen-tres-decomisan.webp
+    publisher: Effetá
+    caption: Composite of officers in Guardia Nacional and police vests at night, bagged doses laid out on a table and a secured-property notice, published with the report on the two Hidalgo raids. No photo credit given.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a2e1aa66db8beb2d6f6f8cd6531322e4
@@ -73,6 +78,11 @@ sources:
     publisher: Reporte Índigo
     date: 2026-11-08
     language: es
+  - title: Ejército y Guardia Nacional detienen a tres y decomisan droga en Hidalgo
+    url: https://www.effeta.info/ejercito-guardia-nacional-detienen-tres-decomisan-droga-hidalgo/
+    publisher: Effetá
+    date: 2026-11-08
+    language: es
 open_questions:
   - No weight or street value was given for the marijuana, only doses, so no kilograms are recorded.
   - The substances were described as similar to marijuana and methamphetamine; no laboratory confirmation or forensic result was reported.
@@ -85,6 +95,8 @@ open_questions:
   - The article calls the Pachuca prosecutor's office the Procuraduría General de Justicia in its lead and the Fiscalía General de la República later in the text; the later detail matches what the report already records.
   - The seized material is described only as substances with characteristics similar to marijuana and methamphetamine, with no laboratory confirmation reported.
   - The page images are captioned only with the operation title, and no caption says which municipality or which property they show.
+  - The Effetá account gives no weight for the marijuana, only doses, so no kilograms are added to the report.
+  - The Effetá lead photo is a composite captioned only with a summary of the two operations; it does not say which municipality or property each part depicts.
 ---
 
 Three people were arrested in Tezontepec de Aldama during an operation by army,
@@ -114,3 +126,5 @@ their physical characteristics, and the possible participation of the detainees.
 [@1]
 
 The army commands' statement also cited administration-wide totals, including 137,629 kilograms of marijuana, 138,294 kilograms of methamphetamine, 57,988 people detained and 53,438 vehicles. [@5]
+
+Effetá reported that the two searches in Tezontepec de Aldama and Tlahuelilpan yielded 160 doses of suspected marijuana and 71 of a substance similar to methamphetamine. [@6] Effetá attributes the account to a statement from the commands of the I Military Region and the 18/a Military Zone, which framed the two searches in the National Public Security Strategy. [@6] Effetá places all three arrests and the seizure of a property and two motorcycles in Tezontepec de Aldama. [@6] In Tlahuelilpan no people were reported detained. [@6] In Tlahuelilpan the forces secured a separate property and 150 doses of substances with characteristics similar to drugs. [@6] The military authorities said the detainees and the seized evidence were handed to the Fiscalía General de la República office in Pachuca. [@6] The federal office will continue the investigation and expert proceedings to establish the nature of the seized substances and the legal situation of those involved. [@6]
