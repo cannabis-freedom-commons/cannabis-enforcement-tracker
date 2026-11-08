@@ -55,6 +55,11 @@ sources:
     url: https://vancouversun.com/news/man-whose-mission-home-was-forfeited-to-government-owes-300000-for-storage-of-belongings
     publisher: Vancouver Sun
     date: 2026-11-07
+  - title: BC男子房被沒收12年 欠30萬倉儲費
+    url: https://www.westca.com/News/article/sid=1257817/BC%E7%94%B7%E5%AD%90%E6%88%BF%E8%A2%AB%E6%B2%A1%E6%94%B612%E5%B9%B4_%E6%AC%A030%E8%90%AC%E5%80%89%E5%84%B2%E8%B2%BB/lang=tchinese.html
+    publisher: 加西網
+    date: 2026-11-07
+    language: zh
 open_questions:
   - The costs ruling is described only as this week; 7 November 2026 is the publication date and is used as the incident date.
   - No cannabis weight, plant count or cultivated area was published, so no cannabis quantity is recorded.
@@ -65,12 +70,14 @@ open_questions:
   - The tracker tools were unavailable in this read-only harness, so current reports could not be opened; the York/Markham candidates relate to an embedded related-reading teaser about an Ontario lab, distinct by place, people and agency from this Mission case.
   - Only the Postmedia account via Vancouver Sun and Yahoo plus the Sing Tao summary could be opened; the Vancouver Sun original is paywalled but its full text was recovered.
   - 'Left out, as its quotation was not found in Vancouver Sun: Krist had refused to take the belongings back or have them destroyed because he believed doing so would weaken his claim that the province lost or destroyed his gold and silver.'
+  - The 加西網 piece says the items were valued at about 2.3 million dollars when removed and more than 9 million dollars at market prices, but that is a claim by Krist about non-cannabis gold and silver and is not recorded as a cannabis figure.
+  - The page carries one photo but no caption or credit identifying what it shows, so no media entry is added.
 ---
 
 BC Supreme Court Justice John Bilawich ordered former owner John Krist to pay
 $299,850.16 to the province for storage of belongings removed from his forfeited
-Mission house. [@1] The province had kept those belongings in three shipping
-containers since 2012, building up the storage bill. [@1] The forfeiture office
+Mission house. [@1,3] The province had kept those belongings in three shipping
+containers since 2012, building up the storage bill. [@1,3] The forfeiture office
 said it was required to keep the items in case they were needed as evidence in
 the damages lawsuit. [@2]
 
@@ -83,15 +90,16 @@ against him. [@2] He was acquitted in 2023. [@2] In his own 2015 lawsuit Krist
 said belongings moved from the house by the government to three shipping
 containers in 2012 included 1,620 ounces of gold and 2,500 ounces of silver.
 [@2] He said the precious metals had disappeared. [@2] He also said stamp and
-coin collections and a Dodge Aries car were missing. [@1] After 2015 he did
+coin collections and a Dodge Aries car were missing. [@1,3] After 2015 he did
 nothing to advance the case except one updated filing in 2018. [@1] The lawsuit
-was tossed out in 2024 for want of prosecution. [@2]
+was tossed out in 2024 for want of prosecution. [@2,3]
 
 In 2024 the court held Krist had abandoned the stored belongings and the
 province could sell them to pay down his debt and court costs. [@2] At the
 recent costs hearing Krist accepted some costs but opposed the forfeiture office
 storage estimate of 566,000 dollars. [@1] After about 18,000 dollars recovered
-from sales, the province demand fell to 548,000 dollars. [@1] Bilawich found
+from sales, the province demand fell to 548,000 dollars. [@1,3] Bilawich found
 3,000 dollars a month reasonable and, after deducting sale proceeds, ordered
 Krist to pay $299,850.16. [@1]
 
+Krist said he had refused to take the belongings back or have them destroyed because he feared it would weaken his lawsuit over the gold and silver. [@3]
