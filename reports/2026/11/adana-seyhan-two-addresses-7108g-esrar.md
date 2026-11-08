@@ -102,6 +102,11 @@ sources:
     publisher: DMC Haber
     date: 2026-11-07
     language: tr
+  - title: 'Seyhan''da Zehir Operasyonu: Kilo Kilo Esrar Ele Geçirildi! 2 Şüpheli Gözaltında'
+    url: https://www.5ocakgazetesi.com/seyhanda-zehir-operasyonu-kilo-kilo-esrar-ele-gecirildi-2-supheli-gozaltinda
+    publisher: 5 Ocak Gazetesi
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports give no separate date for the raids; 7 November 2026 is the publication date and is used as the incident date.
   - No charge, court step, suspect name or estimated value of the cannabis was published; the investigation was said to be continuing.
@@ -126,13 +131,15 @@ open_questions:
   - The article gives no separate date for the raids; 7 November 2026 is its publication date, as in the existing report.
   - The page credits İHA and reproduces the same agency account already cited, so it is not independent reporting.
   - The page image is captioned only with the headline and carries no photographer or agency credit, so whether it shows this seizure is not established and no media entry is added.
+  - The 5 Ocak Gazetesi page gives no separate date for the raids; 7 November 2026 is its publication date, as in the existing report.
+  - The page credits its text to a newsroom (Haber Merkezi) with an editor byline and reproduces the same gendarmerie account as the İhlas Haber Ajansı text already cited, so it is not independent reporting.
 ---
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses
 identified in Seyhan, a central district of Adana province, in a continuing
-anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8,10,11] Searches at the two addresses turned
+anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8,10,11,12] Searches at the two addresses turned
 up 7,108 grams of kubar esrar, a pressed form of cannabis known in Turkey as
-esrar. [@1,4,5,6,7,9,10,11] Gendarmes detained two suspects in the operation. [@1,4,5,6,9,10,11]
+esrar. [@1,4,5,6,7,9,10,11,12] Gendarmes detained two suspects in the operation. [@1,4,5,6,9,10,11,12]
 
 The investigation into the case was continuing. [@1,4,5,6,10,11] The gendarmerie command
 said its teams were continuing their work against smuggling and drugs. [@2] The
@@ -141,3 +148,5 @@ operation was carried out at two addresses designated in Seyhan district, and
 two suspects were taken into custody in it. [@3]
 
 Gendarmes raided two addresses identified in Seyhan district in simultaneous operations. [@5]
+
+The two suspects were taken to the Adana Provincial Gendarmerie Command for questioning, and a wide-ranging investigation into the case was said to be continuing. [@12] Gendarmes carried out the simultaneous raids on the two addresses after intelligence work and physical surveillance of premises where drugs were said to be kept and sold. [@12]
