@@ -58,6 +58,11 @@ sources:
     url: https://www.luxtimes.lu/luxembourg/luxembourg-customs-seize-600kg-of-marijuana-at-airport/109415177.html
     publisher: Luxembourg Times
     date: 2025-12-02
+  - title: Près de 600 kg de cannabis saisis au centre de fret de l’aéroport du Findel
+    url: https://www.virgule.lu/luxembourg/pres-de-600-kg-de-cannabis-saisis-au-centre-de-fret-de-laeroport-du-findel/109223314.html
+    publisher: Virgule
+    date: 2025-12-01
+    language: fr
 open_questions:
   - Only one source for this event could be opened and no second accessible account was found.
   - The weight is approximate at about 600 kg from 903 bags of 600 to 700 grams each, with no exact laboratory weight published.
@@ -68,27 +73,28 @@ open_questions:
   - This corroborating account dates the seizure as 4 août dernier without a year; 2025 is inferred from its 1 December 2025 publication and the 17 November 2025 hearing it reports.
   - The page carries one image captioned about the cotton-duvet consignment with no credit, which does not by itself establish that it shows this seizure, so no media entry is added.
   - This account dates the discovery to 7 August, while the existing report dates the seizure to 4 August 2025 and the controlled delivery to the Netherlands to 7 August 2025.
+  - The Virgule caption credits the picture to the judicial administration without describing what it shows, so it may be a handout photo of the consignment rather than a view of the seized bags.
 ---
 
 Luxembourg customs officers made a major marijuana seizure at the cargo centre
 of Luxembourg-Findel Airport on 4 August 2025. [@1,2,3] A routine inspection flagged
 freight documents for a three-pallet cargo from a United States cargo plane as
-inconsistent. [@1,2] The documents declared the consignment as cotton duvets for a
-Dutch company. [@1,2,3] Suspicious officers scanned the consignment and found its
+inconsistent. [@1,2,4] The documents declared the consignment as cotton duvets for a
+Dutch company. [@1,2,3,4] Suspicious officers scanned the consignment and found its
 contents did not match the declaration. [@1,2,3]
 
 Opening the parcels revealed 903 vacuum-sealed bags of marijuana instead of
-duvets. [@1,2,3] Each bag held 600 to 700 grams, bringing the total to about 600 kg.
-[@1,2] Toxicological tests confirmed it was good-quality cannabis, according to
-the Luxembourg prosecutor. [@1,3]
+duvets. [@1,2,3,4] Each bag held 600 to 700 grams, bringing the total to about 600 kg.
+[@1,2,4] Toxicological tests confirmed it was good-quality cannabis, according to
+the Luxembourg prosecutor. [@1,3,4]
 
 Police supported customs after being informed, documenting the seizure and
 preparing further operations. [@1,2] The prosecutor ordered the seizure, and
 because the load was not for the domestic market a joint operation with Eurojust
 and the Belgian and Dutch authorities was organised. [@1,2] On 7 August 2025 the
 pallets were delivered under surveillance to the planned address in the
-Netherlands. [@1] The person tasked with collecting the drugs was arrested
-red-handed by Dutch police and detained. [@1,2,3] Dutch authorities took over
+Netherlands. [@1,4] The person tasked with collecting the drugs was arrested
+red-handed by Dutch police and detained. [@1,2,3,4] Dutch authorities took over
 prosecution, the investigation continues and a first hearing was held on 17
-November 2025 before a Dutch criminal court. [@1,2] The case was only made public
-on 1 December to avoid compromising foreign investigations. [@1,2]
+November 2025 before a Dutch criminal court. [@1,2,4] The case was only made public
+on 1 December to avoid compromising foreign investigations. [@1,2,4]
