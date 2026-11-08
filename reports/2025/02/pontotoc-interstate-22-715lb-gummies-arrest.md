@@ -55,6 +55,10 @@ sources:
     url: https://www.wlox.com/2025/02/25/over-715-pounds-marijuana-infused-gummies-discovered-during-traffic-stop-pontotoc-county/
     publisher: WLOX
     date: 2025-02-24
+  - title: Jamaican national arrested in Mississippi with over 715 pounds of marijuana
+    url: https://www.caribbeannationalweekly.com/posts/jamaican-national-arrested-in-mississippi-with-over-715-pounds-of-marijuana
+    publisher: Caribbean National Weekly
+    date: 2025-03-01
 open_questions:
   - The individual gummy count of over 26,500 is reported alongside the 440-pound combined gummy weight; no cannabis-only weight for the gummies is given.
   - No charge sheet or court record was published; the sources report only an arrest for trafficking a controlled substance and give no later court outcome.
@@ -71,17 +75,16 @@ during the daytime on Sunday, 23 February 2025, near Sherman in Pontotoc County,
 and was carried out by the sheriff's office criminal investigation division's
 narcotics unit. [@2]
 
-Officers seized more than 715 pounds of marijuana, or about 324 kg. [@1] They
+Officers seized more than 715 pounds of marijuana, or about 324 kg. [@1,3] They
 also seized over 26,500 marijuana-infused gummies, which together weighed 440
 pounds, about 200 kg. [@1]
 
 Jermaine Barrett, reportedly a Jamaican national living in Nevada on a work
 visa, was arrested for trafficking a controlled substance. [@1] Police estimated
-the value of the drugs at $2 million. [@1]
+the value of the drugs at $2 million. [@1,3]
 
 Investigators believed the drugs were being moved from California to North
-Carolina. [@1] The sheriff's department announced the seizure on Monday 24
+Carolina. [@1,3] The sheriff's department announced the seizure on Monday 24
 February and gave no further information at the time. [@2] No additional
 information had been released by the sheriff's department when the reports were
-published. [@1]
-
+published. [@1,3]
