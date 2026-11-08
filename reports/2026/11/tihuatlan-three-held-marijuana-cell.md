@@ -25,6 +25,11 @@ sources:
     publisher: Vanguardia de Veracruz
     date: 2026-11-06
     language: es
+  - title: Detenidos en Tihuatlán tres presuntos integrantes de una célula delictiva
+    url: https://forocoatza.com/noticias-locales/detenidos-en-tihuatlan-tres-presuntos-integrantes-de-una-celula-delictiva/
+    publisher: Foro Coatza
+    date: 2026-11-07
+    language: es
 open_questions:
   - The page dates the operations only as Wednesday and Thursday; 5 November 2026 is used as the incident date and 4 November as the first day.
   - No weight was given for the two bags of marijuana, so the cannabis quantity is not recorded; the 40 doses of cristal are not cannabis and are excluded.
@@ -37,15 +42,15 @@ open_questions:
 ---
 
 Authorities detained two men and one woman in Tihuatlán, in northern Veracruz,
-described as suspected members of a criminal cell. [@1] During the intervention
+described as suspected members of a criminal cell. [@1,2] During the intervention
 officers seized two small bags of marijuana from them, along with 40 doses of
-cristal, mobile phones and a vehicle. [@1]
+cristal, mobile phones and a vehicle. [@1,2]
 
 The three, the marijuana and the other seized items were placed at the disposal
 of the competent authorities. [@1] The detentions were part of coordinated
 operations across Veracruz on Wednesday and Thursday that produced 28 arrests
 altogether, involving the state Public Security Secretariat, the Navy, the
-Defence Ministry, the state prosecutor's office and municipal police. [@1]
+Defence Ministry, the state prosecutor's office and municipal police. [@1,2]
 
 The operations took in several municipalities, including Manlio Fabio
 Altamirano, where officers found and rescued a man who may have been held
@@ -58,4 +63,3 @@ possession and seized 63 doses and a bag of marijuana with them, alongside
 crystal, two handguns and ammunition. [@1] In searches supporting the state
 prosecutor's office in Coscomatepec and Cosoleacaque, seven people were detained
 and one dose of marijuana was seized alongside crystal doses and firearms. [@1]
-
