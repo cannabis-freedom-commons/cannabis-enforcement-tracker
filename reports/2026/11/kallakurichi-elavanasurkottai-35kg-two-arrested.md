@@ -36,7 +36,7 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
-status: verified
+status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 56445c14fc3c9c1a537eddffe7f340c0
 tags: [kallakurichi, ulundurpet, ganja, mini-lorry]
@@ -46,25 +46,40 @@ sources:
     publisher: Daily Thanthi
     date: 2026-11-01
     language: ta
+  - title: 'சரக்கு வாகனத்தில் 34 கிலோ கஞ்சா கடத்தல்: மதுரையைச் சோ்ந்த இருவா் கைது'
+    url: https://www.dinamani.com/all-editions/edition-villupuram/villupuram/2026/Nov/01/%E0%AE%9A%E0%AE%B0%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81-%E0%AE%B5%E0%AE%BE%E0%AE%95%E0%AE%A9%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-34-%E0%AE%95%E0%AE%BF%E0%AE%B2%E0%AF%8B-%E0%AE%95%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AE%A4%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%AF%E0%AF%88%E0%AE%9A%E0%AF%8D-%E0%AE%9A%E0%AF%87%E0%AE%BE%E0%AE%A8%E0%AF%8D%E0%AE%A4-%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AF%8D-%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%81
+    publisher: தினமணி
+    date: 2026-11-01
+    language: ta
+  - title: 'கூரியர் வாகனத்தில் கஞ்சா கடத்தல் 2 பேர் கைது: 34 கிலோ பறிமுதல்'
+    url: https://www.dinamalar.com/news/tamil-nadu-district-news-kallakurichi/cannabis-smuggling-in-courier-vehicle-2-people-arrested-34-kg-seized/4364805
+    publisher: தினமலர்
+    date: 2026-11-01
+    language: ta
 open_questions:
   - The article gives only its publication date of 1 November 2026 and no separate day for the patrol, interception and arrests.
   - Only one source for this event could be opened; no agency statement or second outlet account was found.
   - No charges, court proceedings or case outcome were reported.
+  - Dinamani gives 34 kg for the Sunday seizure, while Dinamalar, the Tamil Nadu Police's own post and the earlier Daily Thanthi report give 35 kg; the police post values the haul at ₹17 lakh.
+  - Dinamani names the accused as V. Rishi Vishnu, aged 23, and M. Akash, 19; other Tamil accounts give Rishi's age as 24, so his age differs.
+  - Dinamani places the check on the Chennai–Salem national highway and dates the seizure to Sunday, 1 November, while Dinamalar places it on the Thirukkovilur–Asanur road at night and dates the check to 31 October.
+  - 'சரக்கு வாகனத்தில் 34 கிலோ கஞ்சா கடத்தல்: மதுரையைச் சோ்ந்த இருவா் கைது (தினமணி) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.'
 ---
 
 A police team led by Inspector Saraswathi was on patrol duty at Elavanasurkottai
 near Ulundurpet in Kallakurichi district when it intercepted the mini lorry.
-[@1] Officers stopped the passing mini lorry for a check and found 35 kilograms
-of ganja packets concealed inside it. [@1] The two youths travelling in the
+[@1,2] Officers stopped the passing mini lorry for a check and found 35 kilograms
+of ganja packets concealed inside it. [@1,2] The two youths travelling in the
 lorry gave contradictory answers during initial questioning, so police took them
 to the station for detailed interrogation. [@1] The two men were identified as
 24-year-old Rishi, son of Vijayakumar, and 19-year-old Akash, son of Malaisamy,
-both from the Thirupparankundram area of Madurai. [@1] Police arrested Rishi and
+both from the Thirupparankundram area of Madurai. [@1,2] Police arrested Rishi and
 Akash and seized both the mini lorry used for smuggling and the 35 kilograms of
-ganja. [@1]
+ganja. [@1,2]
 
 Questioning revealed that the pair had bought the 35 kilograms of ganja in
 Andhra Pradesh and were smuggling it to Madurai for sale when police caught
-them. [@1] Rishi, one of those arrested, had completed a diploma in mechanical
+them. [@1,2] Rishi, one of those arrested, had completed a diploma in mechanical
 studies. [@1]
 
+Dinamalar reported that the vehicle check took place on the night of 31 October on the Thirukkovilur–Asanur road after a tip-off that ganja was being brought into the area. [@3] The intercepted vehicle was an Ashok Leyland Dost courier van, Dinamalar reported. [@3]
