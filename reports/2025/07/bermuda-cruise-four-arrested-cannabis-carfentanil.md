@@ -41,6 +41,11 @@ sources:
     url: https://www.cbsnews.com/news/us-cruise-passengers-bermuda-arrested-drugs
     publisher: CBS News
     date: 2025-07-23
+  - title: Bermuda arrests US cuise passengers for drug possession
+    url: https://www.wbaltv.com/article/bermuda-cruise-passengers-drug-arrest/65493025
+    publisher: WBAL
+    date: 2025-07-23
+    archived: https://web.archive.org/web/20250724164052id_/https://www.wbaltv.com/article/bermuda-cruise-passengers-drug-arrest/65493025
 open_questions:
   - No weight, count or volume was published for the cannabis, THC gummies or vape pens, so no kilograms can be recorded.
   - The combined carfentanil quantity is not counted as cannabis and no separate cannabis-only value was published.
@@ -52,21 +57,20 @@ open_questions:
 ---
 
 Four United States citizens travelling aboard a Carnival cruise ship were
-arrested in Bermuda for alleged drug possession. [@1] The ship's security staff
+arrested in Bermuda for alleged drug possession. [@1,4] The ship's security staff
 intervened after detecting suspicious behaviour among the passengers and held
-them. [@1] The travellers, who were not named, remained in police custody with
+them. [@1,4] The travellers, who were not named, remained in police custody with
 charges expected to follow. [@2]
 
 Police said the guests were detained for holding a significant quantity of
 illegal drugs and paraphernalia believed intended for distribution on the
 island. [@2] The alleged items included multiple compressed cannabis packages,
-vape pens and suspected THC gummies, alongside a package of carfentanil. [@2]
+vape pens and suspected THC gummies, alongside a package of carfentanil. [@2,4]
 Police described the synthetic opioid carfentanil as about 100 times more potent
-than fentanyl and used to tranquilize elephants. [@3]
+than fentanyl and used to tranquilize elephants. [@3,4]
 
 The four faced controlled-substance possession allegations and could face severe
 penalties under Bermuda law. [@1] Acting Detective Superintendent Derricka Burns
 said the seizure may have prevented a potential tragedy, noting that even tiny
-amounts of carfentanil can be deadly. [@1] The investigation continued while
+amounts of carfentanil can be deadly. [@1,4] The investigation continued while
 authorities determined the legal fate of the accused. [@1]
-
