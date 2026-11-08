@@ -51,6 +51,11 @@ sources:
     publisher: रॉयल बुलेटिन
     date: 2026-11-07
     language: hi
+  - title: गांजे की खेप लेकर निकली महिला तस्कर पुलिस के जाल में फंसी
+    url: https://www.thejbt.com/india/delhi/woman-drug-smuggler-arrested-with-marijuana-consignment-by-police-news-321406
+    publisher: Janbhawna Times
+    date: 2026-11-08
+    language: hi
 open_questions:
   - The report repeats the time of the arrest but gives no further detail on the operation, and no second outlet's account of this Sector-71 arrest was found.
   - The source does not say whether the woman was selling ganja, where she obtained it or how it was meant to be used; the trafficking suspicion is the police's description of the arrest.
@@ -59,6 +64,9 @@ open_questions:
   - The source gives no value for the ganja and no count of packets.
   - The page image is a generic illustration captioned only with the headline and is not confirmed to show this arrest, so no media entry is added.
   - Royal Bulletin's same-day roundup places this arrest beside the Sector-71 underpass service road on a ganja trafficking charge, matching this report's location, but gives no case number or the woman's origin as recorded here.
+  - Amar Ujala dates the woman's arrest to Friday evening, 6 November, and places it near the Sarfabad cremation ground rather than at the Sector-71 underpass service road named in the police statement and this report.
+  - The article says cases 441/2022 and 496/2026 are both registered against the woman, while the police statement is unclear whether the 2022 case concerns her.
+  - 'The page photo is a generic drug-smuggling illustration captioned only with the headline and credited ''Courtesy: JBT/ Pankaj Rai'', and is not established to show this arrest, so no media entry is taken from it.'
 ---
 
 Sector-113 police station in Noida arrested a woman on 6 November 2026 on
@@ -79,3 +87,5 @@ law, and began the required legal action against her. [@1] The same police
 statement also mentions prior case 441/2022 under sections 8 and 20 of the NDPS
 Act. [@1] Police said the campaign against drug trafficking and the illegal
 trade in the district would continue. [@1]
+
+The article states that case 441/2022, also registered under sections 8/20 of the NDPS Act, is on record against the woman at Sector-113 station. [@3] The team laid a cordon near the service road of the Sector-71 underpass after a local intelligence tip before stopping and searching the woman there. [@3]
