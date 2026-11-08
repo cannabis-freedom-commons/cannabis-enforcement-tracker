@@ -47,6 +47,8 @@ open_questions:
   - No figure for the number of plants, the weight of cannabis or extracts, or a value estimate was published for this raid.
   - No plea, charge sheet or court dates were published for the four arrested Thais or for the Israeli owner.
   - The Ynetnews gallery pictures are credited only to Krabi Police and their captions only repeat the headline, so the pictures are listed as raid photos without confirming which room each shows.
+  - The opened capture exposes only the headline, subheading and a generic Israel farm photo caption; detailed raid paragraphs visible in page markup could not be quoted from the readable-text capture, so dates, company and owner names rely on the existing report.
+  - The page photo shows workers at a farm in central Israel, not the Krabi raid, so no media entry is added.
 sources:
   - title: Krabi raids Israeli-run cannabis farm using Thai nominees
     url: https://www.khaosodenglish.com/news/2026/01/21/krabi-raids-israeli-run-cannabis-farm-using-thai-nominees/
@@ -71,6 +73,10 @@ sources:
     url: https://www.ynetnews.com/article/rjzpct1l11g
     publisher: Ynetnews
     date: 2026-01-22
+  - title: Israeli citizen arrested in Thailand for operating illegal cannabis farm
+    url: https://www.jpost.com/international/article-884360
+    publisher: The Jerusalem Post
+    date: 2026-01-24
 media:
   - kind: photo
     url: https://www.ynetnews.com/article/rjzpct1l11g
@@ -96,11 +102,11 @@ media:
 
 On 21 January 2026 at about 09:30, Krabi's governor and provincial police chief led roughly 50
 officers from police, immigration, business development, public health and labour agencies to
-Cannazon Co. Ltd. in Sai Thai, Mueang Krabi district, under Krabi Provincial Court warrants. [@1,2]
+Cannazon Co. Ltd. in Sai Thai, Mueang Krabi district, under Krabi Provincial Court warrants. [@1,2,6]
 
 They detained the owner, Israeli national Mose Yamin, whom authorities accused of using Thai
 nominee shareholders to conceal foreign control of a restricted business under Thailand's Foreign
-Business Act. [@1,2]
+Business Act. [@1,2,6]
 
 Inside they found an indoor cannabis facility with controlled irrigation, lighting and temperature,
 processing equipment, alleged online sales and tourist visits, on-site consumption and cannabis
