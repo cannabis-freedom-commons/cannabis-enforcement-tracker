@@ -54,6 +54,10 @@ sources:
     url: https://dailypost.ng/2026/11/08/ugandan-woman-in-nigeria-for-crusade-arrested-with-87-cocaine-wraps-in-private-part/
     publisher: Daily Post Nigeria
     date: 2026-11-08
+  - title: Woman who hid 87 wraps of cocaine in private part arrested at Lagos airport - ThePointNG
+    url: https://www.thepointng.com/woman-who-hid-87-wraps-of-cocaine-in-private-part-arrested-at-lagos-airport/
+    publisher: The Point Ng
+    date: 2026-11-08
 open_questions:
   - Whether the freight agent and the caterer were charged or remained in custody was not reported.
   - The sources do not say whether the named friend Taiwo Anuoluwapo Olusegun was arrested or questioned.
@@ -65,16 +69,16 @@ open_questions:
 
 On Wednesday 4 November 2026, NDLEA operatives at the import shed of the airport
 in Lagos intercepted 32 parcels of Loud, a strain of cannabis, weighing 16.15
-kilograms. [@1,4] The parcels were concealed inside two wooden sofas in a
+kilograms. [@1,4,5] The parcels were concealed inside two wooden sofas in a
 consolidated cargo that arrived from Houston, Texas, United States aboard a
-Turkish Airlines flight. [@2] Punch, citing the agency, also reported the
+Turkish Airlines flight. [@2,5] Punch, citing the agency, also reported the
 interception of 32 parcels of Loud weighing 16.15 kilogrammes concealed in two
 wooden sofas in a cargo shipment from Houston, United States. [@3]
 
 Freight agent Ibrahim Abdulwaheed Adewale, who came forward to clear the
-consignment, was taken into custody. [@1,4] In a follow-up operation on Friday 6
+consignment, was taken into custody. [@1,4,5] In a follow-up operation on Friday 6
 November 2026, 34-year-old caterer Adeoye Sarafa Ojo from Ibadan, Oyo state, was
-arrested when he walked in to collect the package. [@1,4] Adeoye claimed he was
-sent by a friend, Taiwo Anuoluwapo Olusegun. [@1,4] The NDLEA statement also
+arrested when he walked in to collect the package. [@1,4,5] Adeoye claimed he was
+sent by a friend, Taiwo Anuoluwapo Olusegun. [@1,4,5] The NDLEA statement also
 records the 6 November follow-up arrest of the 34-year-old caterer from Ibadan
 who came to collect the package. [@2]
