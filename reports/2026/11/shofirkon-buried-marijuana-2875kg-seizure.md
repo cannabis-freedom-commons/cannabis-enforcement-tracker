@@ -44,6 +44,11 @@ media:
     media_url: https://zamin.uz/uploads/posts/2026-11/07a9107e26_2026-11-06-130413.webp
     publisher: Zamin.uz
     caption: Page picture for the Shofirkon report headlined with 2.8 kg of marijuana found underground; the photo carries no credit.
+  - kind: photo
+    url: https://www.uzdaily.uz/ru/v-bukharskoi-oblasti-nashli-tainik-s-29-kg-marikhuany/
+    media_url: https://www.uzdaily.uz/media/filer_public_thumbnails/filer_public/dc/dd/dcddd2cb-2001-4b8f-8470-27ff08b033ad/narkotik1905_20260613102118.webp__1200x800_crop_subsampling-2.webp
+    publisher: UzDaily.uz
+    caption: 'Photo published with the report on the marijuana stash found under a house foundation in Shofirkon district. Photo: State Security Service of Uzbekistan'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4aa8cf23a5b00a47d1cbe4943fdf2804
@@ -63,6 +68,15 @@ sources:
     publisher: Zamin.uz
     date: 2026-11-06
     language: ru
+  - title: В Бухарской области нашли тайник с 2,9 кг марихуаны
+    url: https://www.uzdaily.uz/ru/v-bukharskoi-oblasti-nashli-tainik-s-29-kg-marikhuany/
+    publisher: UzDaily.uz
+    date: 2026-11-07
+    language: ru
+  - title: 2.9 Kg of Marijuana Found Hidden Under House in Bukhara
+    url: https://www.uzdaily.uz/en/29-kg-of-marijuana-found-hidden-under-house-in-bukhara/
+    publisher: UzDaily.uz
+    date: 2026-11-07
 open_questions:
   - The articles give no separate date for the search; 5 November 2026 is Daryo's publication date and is used as the incident date.
   - No arrest, detention or charge against a named suspect was reported, so no arrested or charged figure is recorded; a criminal case was opened and the investigation continues.
@@ -72,18 +86,21 @@ open_questions:
   - Daryo says it publishes two photos from the Customs Committee, but only one distinct image address could be recovered from its page markup.
   - The Russian page names the district as Shafirkan (Шафирканский район) rather than the Shofirkon used in the existing report; the article numbers on both Zamin.uz language editions are the same, so this is treated as a transliteration difference for the same district.
   - The Russian page carries a video tag in its headline but no playable video address could be recovered, so no video entry is added.
+  - UzDaily gives no separate date for the search; 7 November 2026 is its publication date, while the existing report uses 5 November from Daryo.uz.
 ---
 
 Officers searched a home in Shofirkon district, Bukhara region, and found 2
-kilograms 875 grams of marijuana buried under the house foundation. [@1,3] The
+kilograms 875 grams of marijuana buried under the house foundation. [@1,3,4] The
 Customs Committee said the search was carried out before witnesses in the home
-of a citizen who had been placed under surveillance. [@2] The drugs had been dug
+of a citizen who had been placed under surveillance. [@2,5] The drugs had been dug
 into the underground part of the foundation. [@2]
 
 The operation was carried out jointly by the State Customs Committee, the State
-Security Service and the interior affairs agencies. [@1,3] The officers
+Security Service and the interior affairs agencies. [@1,3,4] The officers
 photographed the substance and seized it as physical evidence. [@1]
 
 Customs authorities opened a criminal case under articles of Uzbekistan's
-Criminal Code. [@1,3] Investigators are still trying to establish where the drug
+Criminal Code. [@1,3,4] Investigators are still trying to establish where the drug
 came from and who else may have been involved in distributing it. [@1]
+
+UzDaily reports that the raid was carried out by the regional customs department's anti-smuggling unit with the State Security Service and internal affairs bodies, acting on previously obtained intelligence. [@4]
