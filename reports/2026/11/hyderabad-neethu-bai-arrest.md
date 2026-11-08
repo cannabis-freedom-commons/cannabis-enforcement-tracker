@@ -192,6 +192,10 @@ sources:
     publisher: ETV Bharat
     date: 2026-11-07
     language: te
+  - title: Woman ganja peddler absconding in 13 cases arrested in Hyderabad
+    url: https://www.msn.com/en-in/news/other/woman-ganja-peddler-absconding-in-13-cases-arrested-in-hyderabad/ar-AA2gXmku
+    publisher: MSN / PTI
+    date: 2026-11-07
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
@@ -293,10 +297,12 @@ open_questions:
   - ETV Bharat counts 20 cases from 2017 to 2024 and about 30 NDPS and excise cases against Bai and her family, while the existing report records 31 cases since 2018; the different periods and persons covered are not reconciled.
   - ETV Bharat says 47 buyers were detained in the June raid on her Nanakramguda home, while the existing report describes about 50 customers.
   - ETV Bharat says 16 bank accounts held Rs 1.53 crore when she was arrested in 2023 and that about Rs 2 crore of immovable property was attached under the NDPS Act; it gives no date for those steps beyond 2023.
+  - The submitted MSN copy of the PTI text gives no age, arrest location, cash figure or court date; the Rediff copy of the same PTI text adds the 6 November 2026 apprehension date, the Rs 1.59 lakh cash and one mobile phone seized and the autorickshaw towards Mangalhat.
+  - 'Left out, as its quotation was not found in Rediff.com: At the arrest, police seized Rs 1.59 lakh in cash and one mobile phone from her.'
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
-(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2,5,6,7,12,17,20,25]
+(EAGLE) arrested 48-year-old Kalapathi Neethu Bai in Asif Nagar, Hyderabad. [@1,2,5,6,7,12,17,20,25,27]
 Bai had been absconding for more than a year. [@1,20] EAGLE personnel traced her to
 a hideout after a tip-off. [@1] Officers found no narcotic substances on her,
 though they seized ₹1 lakh in cash. [@1,2,4,5,10]
@@ -351,3 +357,5 @@ After the arrest she was handed over to the Cyberabad Narcotics Police Station. 
 According to police, she appeared to run an ordinary grocery shop but used it as cover for the ganja trade. [@25] Initial questioning indicated she built up substantial assets by expanding the illegal trade. [@25] A full investigation is under way and police expect the arrest to bring to light other people and network details behind the ganja supply. [@25]
 
 From 2017 to 2024, 20 cases were registered against Neethu Bai. [@26]
+
+EAGLE Force said its technical team tracked her although she avoided using a mobile phone, and caught her travelling in an autorickshaw towards Mangalhat. [@15]
