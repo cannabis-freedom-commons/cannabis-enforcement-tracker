@@ -100,6 +100,16 @@ sources:
     publisher: Gazeta de Rio Preto
     date: 2026-11-05
     language: pt
+  - title: Operação policial apreende centenas de tabletes de maconha em Ouroeste
+    url: https://oextra.net/56747/operacao-policial-apreende-centenas-de-tabletes-de-maconha-em-ouroeste
+    publisher: OExtra.net
+    date: 2026-11-04
+    language: pt
+  - title: Polícia apreende mais de meia tonelada de maconha em carro abandonado em canavial de Ouroeste
+    url: https://alvorada95fm.com.br/2026/11/4/policia-apreende-mais-de-meia-tonelada-de-maconha-em-carro-abandonado-em-canavial-de-ouroeste
+    publisher: Alvorada 95.3 FM
+    date: 2026-11-04
+    language: pt
 open_questions:
   - The opened accounts do not specify the exact spot in the cane field, such as the road or kilometre marker.
   - No suspect was named and no arrest, charge or court outcome was reported; the investigation was still under way.
@@ -114,24 +124,28 @@ open_questions:
   - This account gives only more than half a tonne rather than a precise weight, so the 549.6 kg figure still rests on the Federal Police count.
   - This account credits the FICCO as a branch of the Public Ministry; the Federal Police's own statement lists federal and Sao Paulo state agencies instead.
   - This account also names canine teams of the 9th BAEP, the 16th Interior Police Battalion and the Minas Gerais military police as participants, matching the existing report's sentence, but its wording did not pass the capture quotation check and no new citation was attached for it.
+  - The Federal Police weighed the load at 549.6 kg, while OExtra.net reported only a count of 628 cannabis tablets without a weight and Alvorada 95.3 FM combined the 628 tablets with the 549.6 kg figure.
+  - Police said the documents allowed an initial identification of the driver, but neither account says whether a suspect was identified, detained or charged.
 ---
 
 Highway officers found a car abandoned in a sugarcane field beside a highway in
 Ouroeste, São Paulo, on Wednesday 4 November 2026. [@1,5,7,8,9] During the inspection,
 officers found hundreds of cannabis tablets hidden in the vehicle, in the trunk
-and on the back seat. [@1,6,7,8,9] The Federal Police weighed the load at 549.6 kg of
+and on the back seat. [@1,6,7,8,9,10] The Federal Police weighed the load at 549.6 kg of
 maconha in the Ouroeste region. [@2] São Paulo public-security authorities
 estimated the seizure caused more than R$1 million in losses to organised crime.
 [@1,5,6,7]
 
 The operation was led by the Tático Ostensivo Rodoviário with the FICCO task
-force and the Public Ministry. [@1,7,8,9] Canine teams from the 9th BAEP, officers of
+force and the Public Ministry. [@1,7,8,9,10] Canine teams from the 9th BAEP, officers of
 the 16th Interior Police Battalion and the Minas Gerais military police also
 took part. [@1,6,7,8]
 
 Officers searched the surrounding area, but no one was found to take
-responsibility for the car and the driver was not located. [@1,7,8,9] The vehicle and
+responsibility for the car and the driver was not located. [@1,7,8,9,11] The vehicle and
 the drugs were taken to the Federal Police station in Jales, which continues to
-investigate to identify those responsible for the transport. [@2,7,9]
+investigate to identify those responsible for the transport. [@2,7,9,10]
 
-The vehicle was a rented car, and the rental documents were left inside it. [@3] The car was found near kilometre 188 of the SP-463 highway in Ouroeste. [@4]
+The vehicle was a rented car, and the rental documents were left inside it. [@3] The car was found near kilometre 188 of the SP-463 highway in Ouroeste. [@4,10]
+
+Personal documents left inside the car gave police an initial identification of the driver, who ran into the vegetation before officers arrived. [@10]
