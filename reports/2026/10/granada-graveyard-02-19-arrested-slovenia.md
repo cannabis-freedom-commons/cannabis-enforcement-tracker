@@ -183,6 +183,11 @@ sources:
     publisher: OBALAplus
     date: 2026-11-08
     language: sl
+  - title: Ondergrondse wietkwekerij en omgebouwde Glock ontdekt bij oprollen internationale drugsbende
+    url: https://crime.headliner.nl/item/ondergrondse-wietkwekerij-en-omgebouwde-glock-ontdekt-bij-oprollen-internationale-drugsbende-crimenieuws-32526
+    publisher: Headliner.nl / Crime-Nieuws.nl
+    date: 2026-11-08
+    language: nl
 open_questions:
   - The Guardia Civil statement gives no breakdown of how much of the 181 kg of marijuana was bud and how much was plants, nor whether the 1,388 plants were seized or cut.
   - The three sources give the same figures, but no independent verification of the weights was published; all figures are the Guardia Civil's own.
@@ -206,11 +211,13 @@ open_questions:
   - The Slovenian portal does not say whether any of the four remanded suspects are the three Slovenians detained, nor what role the three had in the network.
   - It repeats the Spanish authorities' figures without independent verification and gives no Slovenian court or police step linked to the case.
   - Its page photos are Guardia Civil handout images already listed from the agency's own page, so no separate media entry is added.
+  - The Headliner.nl page is an aggregator reprint of a Crime-Nieuws.nl text and describes the cannabis as 181 kilograms of dried cannabis plus 805 grams of hashish, which the existing report records as 181 kg of marijuana and 0.805 kg of hashish.
+  - The page gives no new detail on the role of the three Slovenian detainees or on whether any of them is among the four remanded suspects.
 ---
 
 Spain's Guardia Civil said it had dismantled a criminal organisation that grew,
 bought and sold, transported and shipped marijuana to Slovenia, detaining 19
-people in operation Graveyard 02. [@2,4,5,8,9,10,12,13,15] Three of the 19 detainees are of
+people in operation Graveyard 02. [@2,4,5,8,9,10,12,13,15,16] Three of the 19 detainees are of
 Slovenian origin. [@1,4,5,7,9,13,14,15] The searches took place on 23 and 24 October 2026 at 12
 properties in Granada city, Almuñécar and Peligros. [@2,4,5,6,8,9,10,12,13,14,15] Investigators believe
 the organisation shipped the drugs to Slovenia and have not ruled out
@@ -220,7 +227,7 @@ Agents found marijuana plantations indoors, in rooms fitted out for cultivation
 and, in one case, in a pit dug underground, a zulo. [@2,4,10,12] The properties had
 illegal connections to the electricity grid to feed the plantations. [@1,5] The
 searches yielded 181 kilograms of marijuana, 1,388 cannabis plants and 805 grams
-of hashish. [@1,4,5,6,8,9,10,12,13,14,15] Officers also seized almost 35,000 euros in cash, gold pieces
+of hashish. [@1,4,5,6,8,9,10,12,13,14,15,16] Officers also seized almost 35,000 euros in cash, gold pieces
 valued at about 40,000 euros, six high-end vehicles, motorcycles and accounting
 records. [@2,5,12,13]
 
