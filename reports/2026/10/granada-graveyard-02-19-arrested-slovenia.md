@@ -173,6 +173,11 @@ sources:
     publisher: Maribor24
     date: 2026-11-06
     language: sl
+  - title: V Španiji razbili združbo, ki je v Slovenijo prevažala marihuano. Med aretiranimi tudi Slovenci
+    url: https://n1info.si/novice/svet/v-spaniji-razbili-zdruzbo-ki-je-v-slovenijo-prevazala-marihuano-med-aretiranimi-tudi-slovenci/
+    publisher: N1
+    date: 2026-11-08
+    language: sl
 open_questions:
   - The Guardia Civil statement gives no breakdown of how much of the 181 kg of marijuana was bud and how much was plants, nor whether the 1,388 plants were seized or cut.
   - The three sources give the same figures, but no independent verification of the weights was published; all figures are the Guardia Civil's own.
@@ -190,29 +195,32 @@ open_questions:
   - The Infocosta page is credited to the Guardia Civil as its source and repeats the agency's figures without independent verification.
   - COPE's weapons photo is an Europa Press copy of the Guardia Civil handout already linked from the agency's own page.
   - Maribor24 attributes its account to portal 24ur rather than to the Guardia Civil statement directly, so its figures repeat the authorities' account without independent verification.
+  - N1 spells the second search town as Almuñacar while the existing report uses Almuñécar; the place is the same Almuñécar in Granada.
+  - N1 repeats the Spanish police figures without independent verification and gives no operation name; Graveyard 02 comes from the existing report's agency sources.
+  - N1 reports the court ordered detention for four suspects but does not say which court or whether any are the Slovenian-origin detainees.
 ---
 
 Spain's Guardia Civil said it had dismantled a criminal organisation that grew,
 bought and sold, transported and shipped marijuana to Slovenia, detaining 19
 people in operation Graveyard 02. [@2,4,5,8,9,10,12,13] Three of the 19 detainees are of
-Slovenian origin. [@1,4,5,7,9,13] The searches took place on 23 and 24 October 2026 at 12
-properties in Granada city, Almuñécar and Peligros. [@2,4,5,6,8,9,10,12,13] Investigators believe
+Slovenian origin. [@1,4,5,7,9,13,14] The searches took place on 23 and 24 October 2026 at 12
+properties in Granada city, Almuñécar and Peligros. [@2,4,5,6,8,9,10,12,13,14] Investigators believe
 the organisation shipped the drugs to Slovenia and have not ruled out
-international links with other countries. [@2,5]
+international links with other countries. [@2,5,14]
 
 Agents found marijuana plantations indoors, in rooms fitted out for cultivation
 and, in one case, in a pit dug underground, a zulo. [@2,4,10,12] The properties had
 illegal connections to the electricity grid to feed the plantations. [@1,5] The
 searches yielded 181 kilograms of marijuana, 1,388 cannabis plants and 805 grams
-of hashish. [@1,4,5,6,8,9,10,12,13] Officers also seized almost 35,000 euros in cash, gold pieces
+of hashish. [@1,4,5,6,8,9,10,12,13,14] Officers also seized almost 35,000 euros in cash, gold pieces
 valued at about 40,000 euros, six high-end vehicles, motorcycles and accounting
 records. [@2,5,12,13]
 
 The weapons seized were four short firearms, a repeating shotgun, ammunition and
 magazines, among them a Glock pistol modified to fire automatically, which the
-Guardia Civil treats as a weapon of war. [@2,5,9,12] The detainees were accused of drug
+Guardia Civil treats as a weapon of war. [@2,5,9,12,14] The detainees were accused of drug
 trafficking, belonging to a criminal organisation, illegal possession of
-firearms, illegal possession of weapons of war and money laundering. [@2] After
+firearms, illegal possession of weapons of war and money laundering. [@2,14] After
 appearing before the duty investigating court of the Granada court, four of them
 were remanded in custody. [@2,4,5,6,9,10,11,12] The investigation was run by the Guardia Civil's
 Organised Crime Judicial Police Unit in Granada, supported by the USECIC
