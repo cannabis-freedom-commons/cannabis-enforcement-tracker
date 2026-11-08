@@ -72,11 +72,14 @@ open_questions:
   - Infobae names the Mexican detainee as 35-year-old Dacelis “N”, while the existing report names 34-year-old Erick Neftalí Medina García wanted on United States cocaine-conspiracy charges, so it is unclear whether they are the same person or different detainees.
   - The same Infobae article also reports separate extortion arrests, a Santa Lucía Cotzumalguapa marijuana seizure from Marta “N” and a Barrio 18 intervention in Moyuta, which belong to other events and are left out here.
   - The CR Hoy page carries an AFP photo captioned as military actions to repel crime in Guatemala, which does not establish that it shows this plantation or seizure, so no media entry is included.
+  - AFP gives no names for the four detainees and no date beyond 'this Saturday'.
+  - AFP gives no weight for any marijuana product seized, so no kilograms can be added.
+  - The Grupo Animal copy reproduces the AFP text, but its article paragraphs appear only in the page markup; the quotations are taken from the same dispatch as published by CR Hoy.
 ---
 
 Guatemalan security forces captured alleged members of a drug-trafficking
 organization in Las Cruces, including 34-year-old Mexican national Erick Neftalí
-Medina García. [@1] Guatemalan authorities said Medina García is wanted by the
+Medina García. [@1,3] Guatemalan authorities said Medina García is wanted by the
 United States District Court for the Southern District of New York on cocaine
 conspiracy charges involving intended importation into the United States. [@1]
 Police described his detention as the PNC's second detention for extradition
@@ -90,4 +93,4 @@ hundreds of live cartridges. [@1,2,3] Authorities located and eradicated more th
 430,000 marijuana plants, whose value was estimated at 20.9 million dollars.
 [@1,2,3]
 
-The four detainees were three Guatemalans aged 28, 28 and 26 and a 35-year-old Mexican national. [@2]
+The four detainees were three Guatemalans aged 28, 28 and 26 and a 35-year-old Mexican national. [@2,3]
