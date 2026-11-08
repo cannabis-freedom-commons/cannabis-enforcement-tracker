@@ -55,6 +55,11 @@ sources:
     publisher: France-Antilles
     date: 2016-10-05
     language: fr
+  - title: Cocaïne et cannabis saisis au large de la Martinique
+    url: https://www.martinique.franceantilles.fr/actualite/faitsdivers/cocaine-et-cannabis-saisis-au-large-de-la-martinique-264805.php
+    publisher: France-Antilles Martinique
+    date: 2016-10-05
+    language: fr
 open_questions:
   - No number of people aboard the go-fast or the fishing vessel was published, and no arrests, charges or court outcome were reported; the crew was handed to the Venezuelan coast guard for its judicial proceedings, whose result is unknown.
   - The 55 kg of cocaine and the seized cash belong to the same mixed seizure but are excluded from cannabis figures; no separate cannabis valuation was published.
@@ -65,8 +70,8 @@ open_questions:
 In the night of 2 October 2016, the French Navy surveillance frigate Germinal
 intercepted a go-fast suspected of drug trafficking about forty nautical miles
 west of the island of Dominica, after a rendezvous at sea with a fishing vessel.
-[@2] Chased by the frigate and its Panther helicopter, the go-fast threw several
-bales into the sea before fleeing. [@2] The fishing vessel was identified as
+[@2,4] Chased by the frigate and its Panther helicopter, the go-fast threw several
+bales into the sea before fleeing. [@2,4] The fishing vessel was identified as
 Venezuelan, and with the agreement of the French prosecutor and the Venezuelan
 authorities, the Germinal's boarding team inspected it and found a large sum of
 money. [@1] At the request of the Venezuelan authorities, the fishing vessel,
@@ -85,4 +90,3 @@ France-Venezuela cooperation against maritime drug trafficking. [@2] The
 operation brought the 2016 total to nearly 3.68 tonnes of drugs intercepted at
 sea by the joint action of all state services in the Antilles maritime zone.
 [@2]
-
