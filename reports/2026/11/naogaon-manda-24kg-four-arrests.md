@@ -57,6 +57,11 @@ sources:
     publisher: NewsNow24
     date: 2026-11-01
     language: bn
+  - title: 'নওগাঁয় গাঁজা-চোর চক্রের সদস্যসহ গ্রেপ্তার ৬: উদ্ধার ৫১৭ মোবাইল'
+    url: https://www.somoyerkonthosor.com/post/2026/11/01/6ae6fe8e18734
+    publisher: Somoyer Konthosor
+    date: 2026-11-01
+    language: bn
 open_questions:
   - The cannabis raids ran from Saturday night through 8:30 a.m. Sunday; the report is dated to the 1 November press briefing that announced them.
   - No charges, court outcome, drug value or independent weighing was reported.
@@ -71,19 +76,19 @@ open_questions:
 
 Naogaon District Detective Branch (DB) police arrested four alleged drug traders
 in separate raids across Manda, Sadar and Badalgachhi upazilas, sub-districts of
-Naogaon District. [@1,2,3] The four were identified as Arif Hossain, 30, of
+Naogaon District. [@1,2,3,4] The four were identified as Arif Hossain, 30, of
 Raghunathpur in Manda, Mosharraf, 33, of Sherpur Kuralipara in Mohadevpur, and
 brothers Shilong, 23, and Arafat, 23, of Badalgachhi. [@1,3] Superintendent of
 Police Mohammad Tarikul Islam announced the arrests at a press briefing at his
-Naogaon office on Sunday, 1 November. [@1,3]
+Naogaon office on Sunday, 1 November. [@1,3,4]
 
 Acting on a tip about a large stock stored for sale in Manda, officers raided
 Arif Hossain's house in Raghunathpur village late Saturday night and recovered
-20 kg of ganja from a steel trunk. [@1,2,3] Information from Arif led officers to a
+20 kg of ganja from a steel trunk. [@1,2,3,4] Information from Arif led officers to a
 rented house in Naogaon Sadar, where they arrested Mosharraf and recovered
 another 2 kg kept under a bed. [@1] Information from Mosharraf then led to
 Badalgachhi, where police arrested Shilong and Arafat and recovered a further 2
-kg from them. [@1,3]
+kg from them. [@1,3,4]
 
 The cannabis raids ran from Saturday into 8:30 a.m. Sunday and were carried out
 by a Detective Branch team on the superintendent's orders. [@1] Police said
