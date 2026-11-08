@@ -80,6 +80,7 @@ open_questions:
   - The KOKH gallery shows three OBN photographs of the seizure, which appear to be the same handout images carried by other outlets; the direct addresses are recorded here but the pictures were not inspected.
   - The McAlester News-Capital item OBN works illegal marijuana operation in McAlester could not be opened, so no facts from it are used.
   - Oklahoma | mcalesternews.com (McAlester News-Capital) could not be opened again to check its quotations (The browser page answered HTTP 451.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
+  - The submitted page is an MSN syndication of the KOKH article, so its text is not independent of the KOKH copy the existing report already cites.
 ---
 
 Oklahoma Bureau of Narcotics agents arrested one person during a search at a
@@ -102,6 +103,6 @@ possible. [@1,2,3,5]
 
 The search occurred in the 600 block of W. Pasture Rd. in McAlester. [@2]
 
-The search warrant was served on Tuesday, 3 November 2026, the day before the account was published. [@3]
+The search warrant was served on Tuesday, 3 November 2026, the day before the account was published. [@2,3]
 
 Oklahoma Bureau of Narcotics public information officer Mark Woodward said the bureau's investigation found marijuana grown at the McAlester property without an OMMA license or an OBN registration. [@2,5] The McAlester News-Capital listed a report on the same operation, headlined OBN works illegal marijuana operation in McAlester, among its Oklahoma news on 4 November 2026. [@4]
