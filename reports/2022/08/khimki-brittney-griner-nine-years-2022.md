@@ -63,6 +63,10 @@ sources:
     url: https://en.wikipedia.org/wiki/Brittney_Griner
     publisher: Wikipedia
     date: 2026-10-20
+  - title: WNBA star Brittney Griner released from Russian custody in a high-profile prisoner swap between the U.S. and Moscow
+    url: https://www.nbcnews.com/politics/politics-news/wnba-star-brittney-griner-released-russian-custody-high-profile-prison-rcna60683
+    publisher: NBC News
+    date: 2022-12-08
 open_questions:
   - No exact weight for the cannabis oil was published in the opened sources; Wikipedia says only 'less than a gram', so no kg figure is recorded.
   - The submitted page names only 'a Russian airport'; the airport was Sheremetyevo according to Wikipedia, and the case was heard at the Khimki Court, which is the recorded place.
@@ -73,7 +77,7 @@ open_questions:
 
 American basketball player Brittney Griner was detained by Russian customs at an
 airport on 17 February 2022 after officials said her luggage held vape
-cartridges containing cannabis oil. [@1] Customs officers at Sheremetyevo
+cartridges containing cannabis oil. [@1,4] Customs officers at Sheremetyevo
 International Airport outside Moscow found less than a gram of hash oil in the
 cartridges. [@3] Her lawyers said she used cannabis for medical reasons, and she
 said she had been prescribed medicinal cannabis in Arizona. [@3] Her trial began
@@ -89,6 +93,7 @@ any laws here. [@2]
 
 In October 2022 a Russian court rejected her appeal. [@1] On 8 December 2022 she
 was released in a prisoner exchange for the Russian arms dealer Viktor Bout, who
-was serving a 25-year sentence in a US federal prison. [@1] Before the sentence,
+was serving a 25-year sentence in a US federal prison. [@1,4] Before the sentence,
 the US State Department said Griner was being wrongfully detained. [@3]
 
+The prisoner trade took place in the United Arab Emirates. [@4]
