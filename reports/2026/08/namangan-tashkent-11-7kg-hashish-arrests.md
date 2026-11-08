@@ -43,6 +43,11 @@ sources:
     publisher: Repost.uz
     date: 2026-08-01
     language: ru
+  - title: В Наманганской и Ташкентской областях изъяли почти 12 кг гашиша
+    url: https://www.uzdaily.uz/ru/v-namanganskoi-i-tashkentskoi-oblastiakh-iziali-pochti-12-kg-gashisha/
+    publisher: UzDaily.uz
+    date: 2026-08-02
+    language: ru
 open_questions:
   - The article gives no separate date for the operation or the arrests; 1 August 2026 is its publication date and is used as the incident date.
   - Only four detainees are clearly established, the Namangan dealer and the two Andijan residents, while the two arrested drug buyers' treatment is not stated separately.
@@ -52,6 +57,10 @@ open_questions:
   - The Bekabad location indicates Tashkent region, but the precise place of the 977-gram pickup and arrest is not named.
   - Only one accessible source, the state security service statement as reported by Repost.uz, could be found for this event.
   - The page photo is credited only to the security service and its subject is not described, so it is not established as showing a specific part of this operation.
+  - UzDaily says the drugs were illegally brought in from a neighbouring state but does not name the country, so the origin of the hashish remains open.
+  - UzDaily repeats the same security-service statement as Repost.uz, so it is not independent reporting and gives no charges or court outcome.
+  - The article gives no separate date for the operation or arrests; 2 August 2026 is its publication date.
+  - The page photo is credited only as UzDaily, with a caption repeating the headline and an unrelated file name, so no separate media entry is added.
 ---
 
 Security service officers in Namangan stopped a Nexia car and found 944 grams of
@@ -72,3 +81,4 @@ hashish in total. [@1]
 Criminal cases were opened over both, and investigative actions were under way.
 [@1]
 
+Officers of the State Security Service, the Interior Ministry and the customs service ran a joint multi-stage operation that intercepted attempts to distribute a large consignment of drugs illegally brought into Uzbekistan from a neighbouring state. [@2] The two operations together yielded 11 kilograms 722 grams of hashish, the figure the report treats as its total. [@2] The Bekabad suspect was born in 1985, the two Andijan residents in 1987 and 1998, and the Namangan dealer who sold the 944 grams was born in 1982. [@2] The Nexia passenger was born in 1978. [@2]
