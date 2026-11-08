@@ -67,6 +67,16 @@ sources:
     publisher: Iliaweb
     date: 2026-11-07
     language: el
+  - title: Ελεύθερος με περιοριστικούς όρους ο άνδρας που συνελήφθη με 5,5 κιλά κάνναβης και 13 δενδρύλλια
+    url: https://ilia.news/%CE%B5%CE%BB%CE%B5%CF%8D%CE%B8%CE%B5%CF%81%CE%BF%CF%82-%CE%BC%CE%B5-%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CF%8D%CF%82-%CF%8C%CF%81%CE%BF%CF%85%CF%82-%CE%BF-%CE%AC/
+    publisher: Ilia.news
+    date: 2026-11-07
+    language: el
+  - title: 'Ηλεία : Ελεύθερος για τα 5,5 κιλά χασίς και τα 13 δεντρύλλια'
+    url: https://www.ilidakampos.gr/index.php/politiki-ellada/79306-ileia-eleytheros-gia-ta-5-5-kila-xasis-kai-ta-13-dentryllia
+    publisher: Ήλιδα Κάμπος News
+    date: 2026-11-07
+    language: el
 open_questions:
   - The incident date is the 4 November 2026 operation date given by the second account; the submitted page gives only its 5 November 2026 publication date.
   - No village or more precise location within Ilia was named, so coordinates mark the district centre.
@@ -78,6 +88,9 @@ open_questions:
   - PatrisNews gives the freshly harvested quantity only as 5.5 kilograms, while police and the other accounts give 5 kilograms and 500 grams plus 6 grams of dried cannabis; the existing report keeps the precise police split.
   - The article gives no separate date for the appearance and release; 7 November 2026 is its publication date and is used for the latest step.
   - The page's single image carries no caption or credit establishing that it shows this seizure, so no media entry is included.
+  - The exact hour of release is given only as midday on Saturday 7 November.
+  - The two accounts give the same statement-based details but do not say when the case will next come to court.
+  - The Ilia.news page image is a photograph filed in a 2017 upload folder and captioned only with the headline, so it is not established as showing this case and is not listed as media.
 ---
 
 Officers of the Ilida Crime Investigation and Clearance Department arrested a
@@ -86,7 +99,7 @@ narcotics and for violating weapons legislation. [@1,3] The case was solved afte
 police acted on information that had come to the attention of the authorities.
 [@1] Officers carried out a surprise search of the accused man's house and the
 surrounding area of a disused food-interest shop he kept. [@1] The police
-operation took place at midday on Wednesday 4 November 2026. [@2]
+operation took place at midday on Wednesday 4 November 2026. [@2,6]
 
 During the searches officers found and seized 13 cannabis seedlings that were up
 to 4.5 metres tall and had been partly harvested. [@1,3] Officers also seized 5
@@ -100,4 +113,6 @@ brought. [@1]
 
 The Pelop.gr account says the operation formed part of the police operations under way in the area against drug cultivation and possession. [@2] Pelop.gr reports that the police announcement does not specify the exact part of Ilia where the searches took place, or whether the seized quantity was intended for trafficking. [@2] PatrisNews gives the quantity as 5.5 kilograms of freshly harvested cannabis, without the extra 500 grams, plus the further 6 grams of dried cannabis and the 13 partly harvested plants up to 4.5 metres tall. [@4] PatrisNews describes the seized metal folding baton as a glop, a telescopic baton. [@4]
 
-The man arrested in Andravida for cultivating and possessing cannabis was released with restrictive conditions after giving his statement before the Amaliada investigating judge and prosecutor. [@5] The conditions imposed were a ban on leaving the country and an obligation to report regularly to the local police station. [@5]
+The man arrested in Andravida for cultivating and possessing cannabis was released with restrictive conditions after giving his statement before the Amaliada investigating judge and prosecutor. [@5,6] The conditions imposed were a ban on leaving the country and an obligation to report regularly to the local police station. [@5,6]
+
+The hearing began at 10 a.m. and ended in the early afternoon, and the judge decided not to remand him in custody. [@6] A second local outlet also reports that he was released at midday on Saturday after his statement to the Amaliada prosecutor and investigating judge, a hearing that lasted from 10 a.m. into the early afternoon. [@7]
