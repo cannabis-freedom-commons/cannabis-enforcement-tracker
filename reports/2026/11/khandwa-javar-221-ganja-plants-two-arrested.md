@@ -72,6 +72,11 @@ sources:
     publisher: Nai Dunia
     date: 2026-11-05
     language: hi
+  - title: 'खंडवा में दो किसानों के खेतों से मिला गांजा: फसल के बीच छिपाकर लगाए थे 221 पौधे, पुलिस ने दोनों को पकड़ा'
+    url: https://www.bhaskar.com/local/mp/khandwa/news/khandwa-police-arrest-farmers-ganja-cultivation-illegal-crops-139577928.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-03
+    language: hi
 open_questions:
   - The article gives only its publication date of 3 November 2026 and no separate date for the raid, so the report uses the publication date as the incident date
   - Only one source reporting this event could be opened
@@ -84,16 +89,23 @@ open_questions:
   - Patrika gives the second field's weight as 1 quintal 700 grams, or 100.7 kg, matching the Times of India's 100.7 kg against the 100.339 kg figure already recorded, so the exact laboratory weight remains uncertain.
   - Patrika gives no total weight and no weight for the 110-plant first field, so the recorded 295.700 kg total and 195.361 kg first-field weight still rest on the earlier outlet.
   - Nai Dunia gives the two Javar fields' plant weights as 195.361 kg for the 110-plant field and 100.700 kg for the 111-plant field, totalling 295.700 kg, and puts the first field's value at about 19.54 lakh rupees; this matches the total weight already recorded but not the earlier about 100.339 kg figure for the second field.
+  - Dainik Bhaskar gives no weight, area or rupee value for the seized plants, no names and no separate raid date; 3 November 2026 is its publication date.
+  - No court outcome beyond the registration of a case was reported.
 media:
   - kind: photo
     url: https://www.patrika.com/khandwa-news/jawar-police-seize-221-cannabis-plants-worth-rs-29-57-lakh-in-cotton-field-21029286
     media_url: https://cms.patrika.com/wp-content/uploads/2026/11/ganja.webp
     publisher: Patrika News
     caption: Javar police team with ganja seized from the fields.
+  - kind: photo
+    url: https://www.bhaskar.com/local/mp/khandwa/news/khandwa-police-arrest-farmers-ganja-cultivation-illegal-crops-139577928.html
+    media_url: https://images.bhaskarassets.com/thumb/730x0/web2images/521/2026/11/03/gifmagic_site_-_2026-11-03t124131_078_1793689903496.gif
+    publisher: Dainik Bhaskar
+    caption: 'Photo published with the report on the Javar ganja fields, captioned that police caught ganja cultivation in a field. Photo: Dainik Bhaskar'
 ---
 
 Javar police raided two separate fields in Debri Falya Kaisun village and found
-ganja being grown illegally. [@1,3] Police said they acted after an informer
+ganja being grown illegally. [@1,3,8] Police said they acted after an informer
 reported that two farmers in the village were growing ganja. [@1,2,3] Police
 searched the field near the house of Dariyavsingh, son of Savarn Ningwal, aged
 48. [@1,3] Police arrested the owner of that first field. [@1] Police searched the
@@ -102,9 +114,9 @@ field owner Bhuru alias Rajesh. [@1] Police registered cases against both men
 and started an investigation. [@1,2,3]
 
 Officers uprooted and seized a total of 221 green ganja plants with a combined
-weight of 295.700 kilograms. [@1,2,5,6] Police put the estimated value of the seized
+weight of 295.700 kilograms. [@1,2,5,6,8] Police put the estimated value of the seized
 plants at 29 lakh 57 thousand rupees. [@1,3,4,5,6] The plants were growing among cotton
-and tuar crops in both fields. [@1,2,3] The first field yielded about 110 plants
+and tuar crops in both fields. [@1,2,3,8] The first field yielded about 110 plants
 weighing 195.361 kilograms. [@1,2] The second field yielded 111 plants weighing
 about 100.339 kilograms. [@1]
 
