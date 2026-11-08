@@ -56,6 +56,15 @@ sources:
     url: https://ommcomnews.com/odisha-news/kalimela-police-seize-1325-kg-ganja-worth-rs-66-25-lakh/
     publisher: OMMCOM News
     date: 2026-11-07
+  - title: Kalimela cops seize 1,325 kg ganja
+    url: https://www.magzter.com/stories/newspaper/The-Pioneer-Bhubaneswar/KALIMELA-COPS-SEIZE-1325-KG-GANJA
+    publisher: The Pioneer Bhubaneswar
+    date: 2026-11-08
+  - title: ପୁଲିସକୁ ଦେଖି ଫେରାର ଗଞ୍ଜେଇ ବେପାରୀ, ୧୩୨୫ କେଜି ଗଞ୍ଜେଇ ଜବତ
+    url: https://www.prameyanews7.com/kalimela-police-seize-1325-kg-ganja-malkangiri
+    publisher: PrameyaNews7
+    date: 2026-11-07
+    language: or
 open_questions:
   - The article gives no date for the raid; 7 November 2026 is its publication date and is used as the incident date.
   - Only one accessible source was found; an Odia-language report on fmbharat.com could not be opened and is not used.
@@ -64,10 +73,11 @@ open_questions:
   - That ganja traffickers from outside the state are involved is police suspicion, not an established fact.
   - The village Gagrimetla has no coordinates; the map point is Kalimela town, hence district precision.
   - The page image has no caption or credit and is not confirmed to show this seizure, so it is linked rather than treated as a cover.
+  - The submission's incident date of 7 November 2026 is taken from the existing report and the PrameyaNews7 publication date; neither opened article gives the raid's own date.
 ---
 
 Kalimela police seized 1,325 kg of illicit ganja worth an estimated 66.25 lakh
-rupees in a raid near Gagrimetla forest in Odisha's Malkangiri district. [@1]
+rupees in a raid near Gagrimetla forest in Odisha's Malkangiri district. [@1,2]
 The suspected trader fled before officers reached the spot, reportedly after
 receiving prior information about the raid. [@1] No arrest was reported in the
 case. [@1]
@@ -83,3 +93,4 @@ pointed to ganja traffickers from outside the state. [@1] Efforts were under way
 to identify those involved and to trace the source of the contraband and the
 network behind the trafficking. [@1]
 
+Kalimela police station registered the case as Case No. 279 dated 5 November 2026 under Section 20(b)(ii)(C) of the Narcotic Drugs and Psychotropic Substances Act, a detail not given in the earlier accounts of the seizure. [@3]
