@@ -92,6 +92,11 @@ sources:
     publisher: Haberler.com
     date: 2026-11-07
     language: tr
+  - title: 'Adana Seyhan’da Uyuşturucu Operasyonu: 2 Gözaltı'
+    url: https://gazette.com.tr/Haber/adana/adanada-jandarmadan-uyusturucu-operasyonu-7-kilo-esrar-ele-gecirildi-128537
+    publisher: Gazette
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports give no separate date for the raids; 7 November 2026 is the publication date and is used as the incident date.
   - No charge, court step, suspect name or estimated value of the cannabis was published; the investigation was said to be continuing.
@@ -111,15 +116,17 @@ open_questions:
   - Aksiyon reproduces the same İhlas Haber Ajansı account as the outlets already cited, so it is not independent reporting.
   - The Aksiyon page carries a second photo captioned with the headline of the operation; no photographer or agency credit is stated, so no new media entry is added beyond the images already listed for this case.
   - 'Left out, as its quotation was not found in Aksiyon: Both a judicial and an administrative investigation into the raid were said to be continuing, according to the Aksiyon account.'
+  - The Gazette page gives no separate date for the raids; 7 November 2026 is its publication date, as in the existing report.
+  - The Gazette page image is captioned only with the headline and carries no photographer or agency credit, so whether it shows this seizure is not established and no media entry is added.
 ---
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses
 identified in Seyhan, a central district of Adana province, in a continuing
-anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8] Searches at the two addresses turned
+anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8,10] Searches at the two addresses turned
 up 7,108 grams of kubar esrar, a pressed form of cannabis known in Turkey as
-esrar. [@1,4,5,6,7,9] Gendarmes detained two suspects in the operation. [@1,4,5,6,9]
+esrar. [@1,4,5,6,7,9,10] Gendarmes detained two suspects in the operation. [@1,4,5,6,9,10]
 
-The investigation into the case was continuing. [@1,4,5,6] The gendarmerie command
+The investigation into the case was continuing. [@1,4,5,6,10] The gendarmerie command
 said its teams were continuing their work against smuggling and drugs. [@2] The
 agency account reported the haul as 7 kg 108 g of kubar esrar. [@2] The
 operation was carried out at two addresses designated in Seyhan district, and
