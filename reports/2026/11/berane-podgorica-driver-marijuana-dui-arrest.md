@@ -39,6 +39,11 @@ sources:
     url: https://en.vijesti.me/amp/835285/UP-police-in-Berane-arrested-a-Podgorica-resident-for-failing-to-stop-at-a-stop-sign-and-driving-under-the-influence-of-marijuana
     publisher: Vijesti
     date: 2026-11-07
+  - title: 'Беранска полиција ухапсила Подгоричанина: Осумњичен да је возио дрогиран, није се зауставио на знак стоп'
+    url: https://www.in4s.net/beranska-policija-uhapsila-podgoricanina-osumnjicen-da-je-vozio-drogiran-nije-se-zaustavio-na-znak-stop/
+    publisher: ИН4С
+    date: 2026-11-07
+    language: sr
 open_questions:
   - The article gives no separate date for the stop, the medical test or the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - No cannabis weight or seizure in the vehicle was reported, only the medical finding of driving under the influence of marijuana, so no quantity is recorded.
@@ -47,16 +52,15 @@ open_questions:
 ---
 
 Police officers in Berane arrested driver AP, a 30-year-old resident of
-Podgorica, after he failed to stop his vehicle at a stop sign. [@1] The Police
+Podgorica, after he failed to stop his vehicle at a stop sign. [@1,2] The Police
 Directorate, known by its initials UP, announced the arrest and identified the
 driver only by his initials AP. [@1]
 
 In a post on the social network X, the Directorate said testing of the driver
 was carried out at a medical institution. [@1] That medical testing determined
 that he had been driving under the influence of marijuana at the time he was
-stopped. [@1]
+stopped. [@1,2]
 
 Police said a misdemeanor report has been filed against AP with the Misdemeanor
-Court in connection with the driving offence. [@1] The published identification
+Court in connection with the driving offence. [@1,2] The published identification
 gives only his initials AP, his age as 30 and his home city as Podgorica. [@1]
-
