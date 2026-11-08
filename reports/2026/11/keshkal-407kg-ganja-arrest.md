@@ -87,6 +87,11 @@ sources:
     publisher: RGH NEWS
     date: 2026-11-06
     language: hi
+  - title: 'Bastar City News : केशकाल में दो करोड़ का गांजा बरामद'
+    url: https://lalluram.com/bastar-city-news-ganja-worth-two-crore-rupees-seized-in-keshkal-festive-shopping-hit-by-traffic-disruptions/
+    publisher: Lalluram
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The exact stopping point within Keshkal was not reported.
   - The origin and intended destination of the XUV consignment were not reported.
@@ -102,6 +107,8 @@ open_questions:
   - The Bansal account gives no vehicle model, seizure value, NDPS section or court detail for the Keshkal recovery, which continue to rest on earlier sources.
   - Rgh News and Bansal News give 407 kg 910 g for the Keshkal recovery, matching the existing report's figure; neither gives the vehicle, the valuation or the NDPS section for that case, so those continue to rest on earlier sources.
   - The two roundups place the Keshkal action a day before the 5 November Jagdalpur interception, consistent with the report's 3 November date but giving no calendar date of their own.
+  - Lalluram gives no Keshkal sub-locality where the car was stopped, no vehicle registration number matching OD-10-V-7053, and no details of the wider smuggling network it says police were acting against.
+  - Lalluram's teaser photograph is not captioned as showing this seizure, so no media entry is added from it.
 ---
 
 On 3 November, Keshkal police stopped a silver Mahindra XUV-500 bearing
@@ -110,15 +117,15 @@ involved a Rajasthan youth arrested with 407 kg of ganja. [@1,2,5,7] The driver
 identified himself during questioning as 31-year-old Deepak Kumar Mali of
 Nathukhedi in Pratapgarh district, Rajasthan. [@2] Police registered a case
 against him under Section 20(b) of the NDPS Act and arrested him. [@2,3] He was
-produced in court and sent to judicial remand. [@2,3,5]
+produced in court and sent to judicial remand. [@2,3,5,9]
 
 Officers found 78 packets wrapped in brown tape behind the driver's seat and in
 the dickey. [@2,3,5,6] Officers recovered 407 kg 910 g of ganja from the car, which
-police valued at Rs 2,03,95,500. [@2,4,7,8] Police also found an extra number plate
+police valued at Rs 2,03,95,500. [@2,4,7,8,9] Police also found an extra number plate
 reading RJ-23-UB-8472 hidden in the car's dashboard. [@2] A Redmi mobile phone
 and Rs 1,100 in cash were also recovered from the accused. [@2,5] Police seized
 the ganja, car, mobile phone and other items together worth Rs 2,18,96,600 in
-total. [@2,3]
+total. [@2,3,9]
 
 The action was part of a district drive against ganja and liquor smuggling on
 the orders of superintendent of police Pankaj Chandra. [@2,3] Keshkal station
@@ -128,3 +135,5 @@ Netam and Sanjay Bisen and other personnel took part. [@2] Police said the
 smuggling network is under investigation. [@2,4]
 
 A Rajasthan youth was arrested in the Keshkal case, reported alongside the 5 November Jagdalpur actions. [@8]
+
+The seized Mahindra XUV-500 carrying the consignment had an Odisha registration number. [@9] Lalluram framed the case as a Rajasthan suspect using an Odisha-registered vehicle. [@9]
