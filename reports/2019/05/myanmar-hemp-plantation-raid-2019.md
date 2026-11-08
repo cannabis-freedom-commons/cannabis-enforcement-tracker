@@ -64,6 +64,10 @@ sources:
     url: https://myanmarmix.com/en/articles/american-two-myanmar-to-remain-in-jail-over-contested-plantation
     publisher: Myanmar Mix
     date: 2019-05-08
+  - title: American Man Arrested After Photos of His 8-Hectare Weed Farm in Myanmar Went Viral
+    url: https://www.vice.com/en/article/american-man-arrested-after-photos-of-his-8-hectare-weed-farm-in-myanmar-went-viral/
+    publisher: VICE
+    date: 2019-04-26
 also: [raid]
 open_questions:
   - The article states the potential penalties the charges carry, from five years to death; no sentence has been given at this step.
@@ -72,6 +76,8 @@ open_questions:
   - The text gives a number of plants ("349,300 plants") but the figures have no plants_destroyed; check whether it belongs there.
   - The submitted Seattle Times capture returned only the headline, date, photo captions and wire-service boilerplate; the article body was recovered from the identical AP text republished by KSL and summarized by Myanmar Mix.
   - Sources spell the township Ngazun and Ngunzun; the existing report uses Ngunzun.
+  - Vice says the arrests happened on a Wednesday before its 26 April 2019 publication, implying 24 April, while the existing report refers to 23 April arrests.
+  - Vice spells the American's middle name as Fredric while the existing report uses Frederic.
 ---
 
 Police raided a 20-acre plantation on an industrial estate in Ngunzun township, Mandalay region, and arrested the American entrepreneur John Frederic Todoroki and two Myanmar employees. Six days later the region's chief minister said his government had allowed the firm to grow fibre plants for one year. Todoroki was released on medical bail in July 2019 and reportedly left the country. On 10 March 2020 the Myingyan District Court sentenced Shein Latt, a supervisor who had installed the irrigation, to 20 years for growing prohibited cannabis plants; the case against the translator was dismissed. [@1,2] Shein Latt's lawyer said his client had done nothing wrong and would appeal. [@2]
@@ -79,3 +85,5 @@ Police raided a 20-acre plantation on an industrial estate in Ngunzun township, 
 At a hearing on 21 May 2019 the Ngunzun township court formally charged John Frederic Todoroki, Shein Latt and Shun Lei Myat Noe with drug-law violations concerning marijuana, which carry penalties from five years in prison to death. [@3] Thein Than Oo said there was nothing stealthy about the project and that any action against the company should have been taken administratively rather than under the drug laws. [@3] Todoroki was charged with violating five sections of the drugs and narcotics law covering possession, sale and trafficking, and the court set the next hearing for 4 June. [@3] His lawyer said Todoroki, 63, had lost considerable weight in detention and feared for his health in the heat. [@3]
 
 On 7 May 2019 Todoroki was escorted by police for a court hearing in Ngazun Township, Mandalay region, on his arrest for operating a marijuana plantation. [@4] On 7 May 2019 a court allowed police to detain Todoroki and his two co-workers for two more weeks while they were investigated. [@5] Todoroki and two Myanmar co-workers appeared in court in Mandalay region's Myingyan district for the first time since their 23 April arrests and could face penalties of up to 10 years' imprisonment. [@5] The raided plantation was in Myotha Industrial Park, about 60 kilometres west of Mandalay in Ngunzun township, Myingyan district. [@6]
+
+Police reported finding nearly 350,000 marijuana plants, some up to two metres tall, along with 380 kilograms of seeds and 270 kilograms of marijuana at the eight-hectare site. [@7] Authorities were searching for another American, Alexander Skemp Todoroki, who was still at large. [@7] Myanmar police arrested an American and two Myanmar citizens after photos on Facebook tipped them off to a huge weed farm near Mandalay. [@7]
