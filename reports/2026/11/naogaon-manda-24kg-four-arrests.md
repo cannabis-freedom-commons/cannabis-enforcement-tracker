@@ -72,6 +72,11 @@ sources:
     publisher: Dhaka Post
     date: 2026-11-01
     language: bn
+  - title: নওগাঁয় গাঁজা-চোর চক্রের সদস্যসহ গ্রেফতার ৬
+    url: https://dhakamail.com/amp/country/340175
+    publisher: Dhaka Mail
+    date: 2026-11-01
+    language: bn
 open_questions:
   - The cannabis raids ran from Saturday night through 8:30 a.m. Sunday; the report is dated to the 1 November press briefing that announced them.
   - No charges, court outcome, drug value or independent weighing was reported.
@@ -87,6 +92,8 @@ open_questions:
   - The page lists images with empty captions and credits, so none could be confirmed to show this seizure and no media entry is added.
   - The same briefing also reports two van-theft arrests and 517 recovered mobile phones, separate non-cannabis events left out of the cannabis report.
   - No charges, court outcome or drug value is given in this account.
+  - This account gives no separate calendar date for the night raids; 1 November 2026 is the press-briefing and publication date used as the incident date.
+  - The page carries a photo with the raid headline as its caption, but its visible content could not be verified from the text capture, so no media entry is added.
 ---
 
 Naogaon District Detective Branch (DB) police arrested four alleged drug traders
@@ -95,11 +102,11 @@ Naogaon District. [@1,2,3,4,5,6] The four were identified as Arif Hossain, 30, o
 Raghunathpur in Manda, Mosharraf, 33, of Sherpur Kuralipara in Mohadevpur, and
 brothers Shilong, 23, and Arafat, 23, of Badalgachhi. [@1,3] Superintendent of
 Police Mohammad Tarikul Islam announced the arrests at a press briefing at his
-Naogaon office on Sunday, 1 November. [@1,3,4,5,6]
+Naogaon office on Sunday, 1 November. [@1,3,4,5,6,7]
 
 Acting on a tip about a large stock stored for sale in Manda, officers raided
 Arif Hossain's house in Raghunathpur village late Saturday night and recovered
-20 kg of ganja from a steel trunk. [@1,2,3,4,5,6] Information from Arif led officers to a
+20 kg of ganja from a steel trunk. [@1,2,3,4,5,6,7] Information from Arif led officers to a
 rented house in Naogaon Sadar, where they arrested Mosharraf and recovered
 another 2 kg kept under a bed. [@1] Information from Mosharraf then led to
 Badalgachhi, where police arrested Shilong and Arafat and recovered a further 2
