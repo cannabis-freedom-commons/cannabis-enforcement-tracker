@@ -52,6 +52,11 @@ sources:
     publisher: Mediawala
     date: 2026-11-04
     language: hi
+  - title: 'कपास की फसल के बीच उगाया जा रहा था गांजा: रतलाम पुलिस ने जब्त किये 1.20 लाख के पौधे; आरोपियों की तलाश जारी'
+    url: https://www.bhaskar.com/local/mp/ratlam/news/ratlam-police-bust-ganja-cultivation-cotton-fields-raoti-139597050.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No separate raid date was published, so 4 November 2026 is the article's publication date used as the incident date.
   - No arrest, questioning outcome or court result was reported; the linked landholder was described as absconding and others were still being identified.
@@ -60,13 +65,15 @@ open_questions:
   - The Mediawala page carries two images with generic captions that do not establish they show this seizure, so no new media entry is added.
   - 'Left out, as its quotation was not found in Mediawala: Police said preliminary information linked the field to Rangilibai, wife of Jai Singh Bhabhar.'
   - 'Left out, as its quotation was not found in Mediawala: Police had all nine plants uprooted and seized in accordance with procedure.'
+  - Dainik Bhaskar's opened text is cut off after the raid description, so its full account of the weight, value and the person linked to the field could not be read; the 1.20 lakh figure for the plants appears only in its headline.
+  - Dainik Bhaskar gives no separate raid date; its 5 November 2026 publication date is the only date available.
 ---
 
 Ratlam police exposed illegal cannabis cultivation in the Rawti police-station
 area of Ratlam district in Madhya Pradesh. [@1,2] The plants were growing on
-private land in Sangla ka Mal village among a cotton crop. [@1,2] Police said
+private land in Sangla ka Mal village among a cotton crop. [@1,2,3] Police said
 preliminary information linked the field to Rangilibai, wife of Jai Singh
-Bhabhar. [@1] Police described the landholder as absconding. [@1] Police said
+Bhabhar. [@1] Police described the landholder as absconding. [@1,3] Police said
 those found responsible would be made accused on the basis of evidence. [@1]
 Police said they were gathering information on other people active behind the
 cultivation and its network. [@1]
