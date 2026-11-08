@@ -55,27 +55,33 @@ sources:
     url: https://m.rediff.com/amp/news/report/passenger-held-at-bengaluru-airport-with-hydroponic-ganja/20261102.htm
     publisher: Rediff
     date: 2026-11-02
+  - title: Passenger held at Bengaluru airport with hydroponic ganja worth Rs 5.23 cr
+    url: https://www.msn.com/en-in/news/other/passenger-held-at-bengaluru-airport-with-hydroponic-ganja-worth-rs-523-cr/ar-AA2gACGQ
+    publisher: MSN
+    date: 2026-11-02
 open_questions:
   - The reports do not name the passenger or give age, sex, nationality or flight details.
   - No court outcome beyond the reported arrest was published.
   - The only page image is labelled as an AI-generated representational image, so no media entry is added.
   - The second outlet republishes the same PTI account and adds no independent detail.
+  - The MSN page, like the earlier copies, is a syndicated version of the same PTI wire text rather than an independent account; the direct Bengaluru Customs post on X was not opened.
+  - The MSN page displays no photograph of the seizure, only a generic page image, so no media is listed.
 ---
 
 On 1 November 2026, Bengaluru Customs officers intercepted at Kempegowda
 International Airport in Bengaluru a passenger who had arrived from Bangkok.
-[@1,3] Officials said on Monday that the passenger who arrived from Bangkok was
+[@1,3,4] Officials said on Monday that the passenger who arrived from Bangkok was
 held at Kempegowda International Airport with hydroponic ganja valued at Rs 5.23
 crore. [@2]
 
 During the interception on 1 November, officers seized 14.940 kg of hydroponic
-ganja, which Bengaluru Customs valued at Rs 5.23 crore. [@1,3] The seized drug was
+ganja, which Bengaluru Customs valued at Rs 5.23 crore. [@1,3,4] The seized drug was
 concealed in vacuum-sealed packets containing green-coloured chunks that were
-hidden inside a bag belonging to the passenger. [@1,3]
+hidden inside a bag belonging to the passenger. [@1,3,4]
 
 Bengaluru Customs announced the case in a post on social media platform X,
 stating that the Bangkok passenger was intercepted on 1 November and that the
 vacuum-sealed packets with green-coloured chunks were found hidden inside a bag.
-[@1] Officials said the seizure led to an arrest under the NDPS Act. [@2,3] The
+[@1,4] Officials said the seizure led to an arrest under the NDPS Act. [@2,3,4] The
 reports identify Bengaluru Customs as the intercepting agency and Kempegowda
-International Airport as the place of the seizure. [@1]
+International Airport as the place of the seizure. [@1,4]
