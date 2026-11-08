@@ -61,6 +61,11 @@ sources:
     publisher: ABC Noticias
     date: 2026-11-04
     language: es
+  - title: Vinculan a proceso a 3 influencers por promover productos de cannabis en Hermosillo; deben acudir semanalmente al juzgado
+    url: https://www.eluniversal.com.mx/estados/vinculan-a-proceso-a-3-influencers-por-promover-productos-de-cannabis-en-hermosillo-deben-acudir-semanalmente-al-juzgado/
+    publisher: El Universal
+    date: 2026-11-03
+    language: es
 open_questions:
   - No weight or count for the displayed cannabis products was published, so no kilograms can be recorded.
   - The amounts of the individual financial guarantees were not published.
@@ -74,21 +79,22 @@ open_questions:
   - The page also embeds a video file with no caption establishing that it shows this event, so no video entry is added.
   - The ABC article was published on 4 November 2026 and gives no separate hearing date, consistent with the existing report's use of 3 November 2026 as the incident date.
   - The ABC page carries a photo captioned as the detained influencers and attributed to the Sonora prosecution, but it cannot be established as distinct from the agency handout already listed, so no media entry is added.
+  - El Universal names the three accused only by first name and initial, without birth years, and gives no weight, count or value for the cannabis products shown.
 ---
 
 A control judge bound three Hermosillo influencers over for trial for apología
 of a crime and of a vice after they shared an August Facebook video exhibiting
-and promoting Olympos marijuana products. [@1,3,4] The accused are 20-year-old Azlán
+and promoting Olympos marijuana products. [@1,3,4,6] The accused are 20-year-old Azlán
 N, 29-year-old Julián N known as El Pelón Bajavión, and 22-year-old Eduardo
 Antonio N known as El Doble Carne. [@2,3,4,5] The judge ordered weekly appearances
 before the court, an individual financial guarantee, a ban on leaving Sonora
 without permission, and a temporary halt to promoting the brand under
-investigation. [@2,3,4,5] Azlán remains in justified preventive detention for two
+investigation. [@2,3,4,5,6] Azlán remains in justified preventive detention for two
 other criminal cases while all three face precautionary measures in this
 prosecution. [@1]
 
 At the initial hearing prosecutors presented more than 15 items of evidence to
-support the charge. [@2,5] The case concerns a recording shared publicly on
+support the charge. [@2,5,6] The case concerns a recording shared publicly on
 Facebook on 29 August in which the three allegedly expressed approval of
 cannabis-derived substances. [@2] In the footage they allegedly showed and
 shared branded products including electronic cigarettes, concentrates, extracts
