@@ -78,6 +78,11 @@ sources:
     publisher: QuiComo
     date: 2026-11-06
     language: it
+  - title: Lombardia maxi blitz antidroga nei boschi di Milano Como e Varese | sequestrati un kalashnikov pistole hashish e cocaina
+    url: https://www.zazoom.it/2026-11-07/lombardia-maxi-blitz-antidroga-nei-boschi-di-milano-como-e-varese-sequestrati-un-kalashnikov-pistole-hashish-e-cocaina/19897870/
+    publisher: Zazoom Social News
+    date: 2026-11-07
+    language: it
 open_questions:
   - No weight or street value was published for the hashish, or for the cocaine seized, so no cannabis quantity is recorded.
   - The cocaine and hashish are described together only as large or unspecified quantities, so no combined total is given.
@@ -87,6 +92,8 @@ open_questions:
   - The submitted Il Giornale d'Italia page carries an operation video but no direct video address could be recovered from it; the QuiComo video page is listed instead.
   - A first news alert reported the operation as still under way, and the final count of people detained is eight.
   - 'Left out, as its quotation was not found in La Prealpina: La Prealpina reported that the eight detained are Moroccan nationals aged between 22 and 45, and that they are due to be questioned by the investigating judge in the following days.'
+  - The Zazoom page gives no weight for the hashish or cocaine and no number of people arrested, so no quantity or arrest figure can be added from it.
+  - The page attributes its account to ilgiornaleditalia.it, whose original article the existing report already cites.
 ---
 
 Carabinieri arrested eight people at dawn on Friday in a blitz against drug
@@ -98,11 +105,11 @@ in Corsico, outside Milan. [@2]
 
 Searches of two wooded areas at Pogliano Milanese and Arluno turned up an AK47
 Kalashnikov rifle similar to the one fired in Parabiago, other weapons including
-pistols, ammunition, cash, phones and quantities of hashish and cocaine. [@1]
+pistols, ammunition, cash, phones and quantities of hashish and cocaine. [@1,7]
 The operation was ordered by Milan's district anti-mafia directorate (DDA) in an
 investigation into hashish and cocaine trafficking that police say produced
 shootings, attempted murders and kidnappings between rival dealer groups of
-mainly Moroccan origin. [@4]
+mainly Moroccan origin. [@4,7]
 
 Some of those detained are accused of the armed raid on the night of 15 October
 at Villapia di Parabiago, where, according to the arrest decree signed by
@@ -124,4 +131,3 @@ August. [@2]
 The Carabinieri released footage of the operation showing patrols filmed from
 above, the GIS raid on the Limido Comasco flat and the weapons, ammunition and
 drugs seized in the woods. [@6]
-
