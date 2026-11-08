@@ -60,6 +60,11 @@ sources:
     publisher: Direktno
     date: 2026-11-07
     language: sr
+  - title: 'POKUŠAO DA PROGUTA KESICU KOKAINA KADA GA JE ZAUSTAVILA POLICIJA: Uhapšen muškarac (30) iz Herceg Novog, kod njega nađeni i marihuana i tablete'
+    url: https://www.kurir.rs/amp/10156246/herceg-novi-uhapsen-muskarac-kokain-marihuana-tablete
+    publisher: Kurir
+    date: 2026-11-08
+    language: sr
 open_questions:
   - The article gives no separate date for the control and arrest; 7 November 2026 is its publication date and is used as the incident date.
   - No separate weight or count is given for the marijuana, only several PVC packages of cocaine and marijuana together, so no cannabis kilograms are recorded and cocaine and tablet quantities are left out as out of scope.
@@ -67,6 +72,7 @@ open_questions:
   - Only one account of this arrest, citing the Police Administration, could be opened; no second independent source was found.
   - No event photo is listed; the submitted page's only captured image is a site globe graphic.
   - 'Left out, as its quotation was not found in Vijesti: The Police Directorate said officers in the Bijela neighbourhood stopped D.T. and that he tried to swallow the PVC bag of cocaine, which officers prevented him from doing.'
+  - Kurir is dated 8 November 2026, one day after the existing report's 7 November 2026 sources; it gives no separate incident date, so the difference is treated as publication timing for the same Bijela control and arrest.
 media:
   - kind: photo
     url: https://en.vijesti.me/news-b/black-chronicle/835275/up-arrested-Novljanin--cocaine--marijuana-and-pills-found-on-him--tried-to-swallow-a-bag-of-cocaine
@@ -77,19 +83,19 @@ media:
 
 Officers of the Herceg Novi Security Department arrested 30-year-old D.T. from
 Herceg Novi in Bijela after finding cocaine, marijuana and tablets suspected to
-be intended for street sale. [@1,2,5] During the police control in the Bijela
+be intended for street sale. [@1,2,5,6] During the police control in the Bijela
 settlement, D.T. tried to swallow a PVC bag containing cocaine, but officers
-stopped him. [@1,4]
+stopped him. [@1,4,6]
 
 After he was taken to the Herceg Novi Security Department premises, a detailed
 search found and seized several PVC packages of cocaine and marijuana and
 tablets of different types suspected to be intended for further street sale.
-[@1,4,5] Police also seized a mobile telephone from him. [@1,5]
+[@1,4,5,6] Police also seized a mobile telephone from him. [@1,5,6]
 
 After gathering information and completing the criminal processing, police
 informed the senior state prosecutor at the Higher State Prosecutor's Office in
 Podgorica about the event. [@1,5] The prosecutor qualified the event as the
 criminal offence of unauthorised production, possession and placing into
-circulation of narcotic drugs and ordered that D.T. be deprived of liberty. [@1,2,4]
+circulation of narcotic drugs and ordered that D.T. be deprived of liberty. [@1,2,4,6]
 
 The packages of cocaine and marijuana were found and seized in a detailed search of D.T. at the premises of the Herceg Novi Security Department, after he was brought there. [@3]
