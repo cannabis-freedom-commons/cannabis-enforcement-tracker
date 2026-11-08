@@ -66,6 +66,11 @@ sources:
     publisher: UnserTirol24
     date: 2026-11-06
     language: de
+  - title: Staatspolizei verhaftet einen Mann in Bozen, zeigt sieben weitere Personen an und bringt einen ausländischen Staatsangehörigen ohne Aufenthaltstitel in ein Abschiebezentrum (CPR).
+    url: https://questure.poliziadistato.it/de/Bolzano/articolo/18036aedc687adc6c920372182
+    publisher: Questura di Bolzano, Polizia di Stato
+    date: 2026-11-06
+    language: de
 open_questions:
   - The date of the checks comes from the police statement, which says officers acted over the last two days and gives the total for 'yesterday'; 5 November 2026 is used as the incident date, the day before the statement of 6 November.
   - No weight is given for the dose of hashish found on the 21-year-old, so it is not included in the cannabis weight.
@@ -73,12 +78,14 @@ open_questions:
   - It is not stated whether the 21-year-old with the hashish is among the seven people reported in the Südtirol News account.
   - No court outcome was reported for the arrested 19-year-old or for the reported men; the case was at the investigation stage.
   - The only photo on the submitted page is a stock picture of an unrelated car crash, so no media from that page is listed; the police statement's own photograph is listed instead.
+  - The German edition is the same Questura statement as the Italian version already cited, so it adds a citation and one detail rather than independent confirmation of the figures.
+  - The statement does not say whether the 20-year-old Tunisian taken to the CPR in Rome had any cannabis on him; his check is part of the same operation but not a drug offence.
 ---
 
 Police in Bolzano reported a 21-year-old Tunisian man with a police record after
-finding him with a dose of hashish during checks at Berloffa Park. [@2,3] The same
+finding him with a dose of hashish during checks at Berloffa Park. [@2,3,4] The same
 checks found a bag holding 20 grams of marijuana, ready to be sold, which
-officers seized from persons unknown, according to the police. [@2,3] A
+officers seized from persons unknown, according to the police. [@2,3,4] A
 19-year-old Tunisian asylum seeker was arrested and taken to the Bolzano prison
 on charges of resisting a public official and assaulting a police officer. [@2,3]
 Two 29-year-old Moroccan men were reported at liberty on charges of resisting a
@@ -91,3 +98,5 @@ police patrols were joined by crime-prevention units, the Carabinieri, the
 finance police with a drug-sniffing dog unit and the municipal police. [@1]
 Officers checked people and vehicles and carried out inspections at businesses,
 and on 5 November alone they identified 214 people and checked 40 vehicles. [@2]
+
+Officers of the Brenner police station checked a 20-year-old Tunisian man with prior convictions on an international train entering Italy and the police chief ordered his expulsion to the CPR centre in Rome. [@4]
