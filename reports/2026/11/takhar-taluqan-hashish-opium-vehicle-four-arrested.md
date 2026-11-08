@@ -43,6 +43,11 @@ media:
     media_url: https://ilkha.com/img/NewsGallery/2026/11/8/574557/FeaturedImage/ef902557-6d83-4dfd-93e0-bc486d4a7bad.jpeg
     publisher: İlkha Haber Ajansı
     caption: 'Lead picture published with the İLKHA report headlined ''''Afghan police seize more than 180 kilograms of drugs'''', which covers the Takhar hashish seizure. Photo: İLKHA'
+  - kind: photo
+    url: https://wishavwarta.in/police-seized-over-180-kg-of-narcotics/
+    media_url: https://wishavwarta.in/wp-content/uploads/2026/11/39ccffc529d4aef15512a1869a426a6c-1.jpg
+    publisher: Wishav Warta
+    caption: Lead picture published with the Punjabi-language report on the Takhar seizure, captioned with the headline 'Police seized more than 180 kg of narcotics; 4 traffickers arrested'; no credit or caption identifies what it depicts.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6f5adc825eeff9ba50a40b818c8ed581
@@ -64,6 +69,11 @@ sources:
     url: https://www.lokmattimes.com/international/afghan-police-seize-over-180-kg-drugs-four-arrested-in-takhar-a001-w02/
     publisher: Lokmat Times
     date: 2026-11-08
+  - title: ਪੁਲਿਸ ਨੇ 180 ਕਿਲੋ ਤੋਂ ਵੱਧ ਨਸ਼ੀਲੇ ਪਦਾਰਥ ਕੀਤੇ ਜ਼ਬਤ ; 4 ਤਸਕਰਾਂ ਨੂੰ ਗ੍ਰਿਫਤਾਰ
+    url: https://wishavwarta.in/police-seized-over-180-kg-of-narcotics/
+    publisher: Wishav Warta
+    date: 2026-11-08
+    language: pa
 open_questions:
   - The event date rests on the police spokesman's statement that the operation was carried out on Saturday; both reports were published on Sunday 8 November 2026.
   - The hashish weight of 40 kilograms is the spokesman's figure; the page does not say whether a laboratory confirmed the substance.
@@ -73,19 +83,25 @@ open_questions:
   - The İLKHA page is a Turkish agency's Arabic-language edition translating the provincial police statement, so it is not independent reporting; Xinhua's dispatch carries the same spokesman's account.
   - The page's only photo is a stock-style lead image carried in the agency's featured-image address; no caption identifies what it depicts, so no claim is made about its content.
   - The same page also describes a 32 kg methamphetamine seizure in Herat, dismantling of eight heroin laboratories in Ghor, and a burning of nearly one tonne of drugs in Farah; those are different events left out of this report.
+  - The Punjabi report says the suspects were handed to judicial authorities and case files lodged, but places this inside a passage attributed to a provincial police spokesman named Maulvi Abdul Rahman Badri, who in the same text is quoted on the separate Ghor laboratory raid; the statement is not clearly tied to the Takhar arrests.
+  - The Punjabi text adds a closing paragraph about a cross-country anti-drug campaign and another arrest attributed to a spokesman whose name does not resolve in the text, so no charge or court outcome for the four Takhar detainees can be confirmed from it.
+  - The Punjabi page also repeats the separate 32 kg Herat methamphetamine seizure and the Ghor laboratory raid; those figures are left out because they are different events and methamphetamine is not cannabis.
+  - The page's lead photo is captioned only with the headline and carries no credit confirming what it depicts, so it is listed as a media link without a claim about its content.
 ---
 
 Counter-narcotics police in Afghanistan's northern Takhar province stopped a car
 in the provincial capital, Taluqan, and arrested the four people who were using
-it to take the load to an unknown destination. [@1,3,4] The Takhar provincial police
+it to take the load to an unknown destination. [@1,3,4,5] The Takhar provincial police
 spokesman, Naqibullah Masroor, said the counter-narcotics teams carried out the
 operation on Saturday, 7 November 2026. [@1,3]
 
 Police said they seized 143 kilograms of opium together with the cannabis, and
-that both were hidden in compartments built into the car. [@1,3,4] The cannabis in
+that both were hidden in compartments built into the car. [@1,3,4,5] The cannabis in
 the shipment was 40 kilograms of hashish, which police count within a stated
-total of more than 180 kilograms of drugs. [@2,3,4] The four detained suspects were
+total of more than 180 kilograms of drugs. [@2,3,4,5] The four detained suspects were
 held as suspected drug traffickers; no charge or court outcome was reported.
 [@1]
 
 Masroor gave the details on Sunday, the day after the operation. [@2,3]
+
+The Punjabi-language report, carried by the Indian Punjabi news agency Wishav Warta, attributes the operation to counter-narcotics police and gives Naqibullah Masroor as the Takhar provincial police spokesman. [@5] The report says the suspects were taken into custody, handed to judicial authorities and case files lodged for further legal action. [@5]
