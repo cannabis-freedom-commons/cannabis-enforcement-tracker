@@ -176,6 +176,9 @@ open_questions:
   - The page carries the deputy regent's remarks of 7 November 2026 about the 31 October 2026 destruction and gives no new operation date, area or plant count beyond the five hectares and about 150,000 plants already recorded.
   - The page pairs five hectares at Rao-Rao Dolok, Tambangan with the Tor Sihite name used elsewhere, which may be the same site under two names.
   - The page photo carries no caption or credit and appears to be the police handout already linked from other outlets, so no media entry is added.
+  - The page gives no separate calendar date for the destruction itself beyond the deputy regent's remarks in Panyabungan on Saturday (7/11/2026); 31 October 2026 from earlier accounts is retained.
+  - The page names no growers, arrests, suspects or charges for the Tor Sihite plots.
+  - The page's single image carries only the article headline as caption with no credit identifying its content, so no media entry is added; it appears to repeat the agency handout already covered.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -452,6 +455,11 @@ sources:
     publisher: Madina Pos
     date: 2026-11-07
     language: id
+  - title: Wabup Madina Atika Angkat Jempol untuk Kapolri, Ladang Ganja Seluas 5 Hektare di Tor Sihite Dibakar
+    url: https://www.sumut24.co/news/288196/wabup-madina-atika-angkat-jempol-untuk-kapolri-ladang-ganja-seluas-5-hektare-di-tor-sihite-dibakar/
+    publisher: Sumut24.co
+    date: 2026-11-08
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -544,7 +552,7 @@ Tampubolon said each cannabis plant found at the site weighed almost 2 ons, abou
 
 Tampubolon said BNNP Sumut had identified the owners of the fields and was pursuing them. [@7,23] He said the huts around the plots were empty when officers arrived. [@7]
 
-The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33,34,35,36,37,39,40,41,42,44,46,48,49] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26,43] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
+The plots were in Rao-Rao Dolok village, Tambangan district, in the Tor Sihite hills of Mandailing Natal regency. [@8,11,13,14,16,17,18,19,21,22,24,26,27,29,32,33,34,35,36,37,39,40,41,42,44,46,48,49,56] A BNN team was sent to investigate the site on 29 October 2026 and found the two plots during that check. [@9,10,13,21,26,43] BNNP Sumut said the destruction was part of the national police chief's 100-day programme to break the drug supply chain at its production sources. [@8,17]
 
 North Sumatra police drug director Kombes Pol Andy Arisandi led the operation with BNN North Sumatra enforcement and intelligence head Kombes Pol Josua Tampubolon; among the units taking part were the army's Kotanopan subdistrict command (Koramil 14 Kotanopan), the Madina public order agency (Satpol PP) and forest police (Polhut). [@10] BNN North Sumatra said it would keep investigating for other cannabis fields in the area. [@10,21]
 
@@ -552,7 +560,7 @@ The five-hectare fields sat at 1,117 metres above sea level. [@19,32,34,36,37] T
 
 The investigation team reached the two plots through community gardens and the Tor Sihite hill forest after about six hours on foot. [@22]
 
-Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27,28,29,35,36,39,40,41,43,44,46,47,48,50,51,52] The joint team walked about nine hours to reach the fields. [@24,28,29,31,34,39,52] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24,29,39,40,43]
+Of the roughly 150,000 plants found, 149,980 were uprooted and burned on the spot and 20 were kept as evidence. [@24,27,28,29,35,36,39,40,41,43,44,46,47,48,50,51,52,56] The joint team walked about nine hours to reach the fields. [@24,28,29,31,34,39,52] The team arrived at about 14.00 WIB and then combed an area estimated at five hectares. [@24,29,39,40,43]
 
 The team finished the destruction at 16.00 WIB and returned to the assembly point at 21.00 WIB. [@26,35]
 
@@ -572,10 +580,10 @@ Officers who swept the field found no one they suspected of owning or managing i
 
 At provincial police headquarters on 5 November 2026, provincial police public relations chief Kombes Pol. Ferry Walintukan said the force was ordered to leave no room for drug trafficking in North Sumatra, including crackdowns on any planting, production or distribution of drugs. [@49]
 
-The operation drew on the North Sumatra police drug directorate, BNN North Sumatra, Madina police and the Madina public order agency (Satpol PP). [@52]
+The operation drew on the North Sumatra police drug directorate, BNN North Sumatra, Madina police and the Madina public order agency (Satpol PP). [@52,56]
 
 The Mandailing Natal police drug unit followed up the public information with the North Sumatra police drug directorate before the wider joint team was formed. [@53]
 
 The tip that started the operation went to the Mandailing Natal police drug unit, Satresnarkoba Polres Mandailing Natal, which coordinated with the North Sumatra police drug directorate before other agencies joined the joint operation. [@54]
 
-In Panyabungan on 7 November 2026, Mandailing Natal deputy regent Atika Azmi Utammi Nasution said she hoped the destruction operations would continue, so the government's effort to move residents to other crops could be realised faster. [@55]
+In Panyabungan on 7 November 2026, Mandailing Natal deputy regent Atika Azmi Utammi Nasution said she hoped the destruction operations would continue, so the government's effort to move residents to other crops could be realised faster. [@55,56]
