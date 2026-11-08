@@ -467,6 +467,11 @@ sources:
     publisher: ENN台灣電報
     date: 2026-11-08
     language: zh
+  - title: Toyz販毒入獄2年半終獲假釋！從電競世界冠軍淪階下囚 遭遣返香港始末曝光 - 鏡週刊 Mirror Media
+    url: https://www.mirrormedia.mg/external/mirrordaily_96310
+    publisher: 鏡週刊 Mirror Media
+    date: 2026-11-07
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -612,6 +617,11 @@ open_questions:
   - The livestream's roughly 13,000 concurrent viewers describe entertainment activity, not the enforcement operation, so they are not recorded as figures.
   - The page's photos are Threads and livestream screenshots of the couple, not images of the deportation or the cannabis case, so no media entries are added.
   - The deportation day is given only as (3)日; 3 November 2026 comes from the existing report and the surrounding 3 November 2026 accounts.
+  - The page is a preview that breaks off after the 2021 arrest paragraph and links to a fuller article, so it gives no new detail on the cartridges, the trial or the sentence dates.
+  - The page dates the arrest to September 2021 in Taichung, consistent with the existing report, but names no quantity of cartridges.
+  - No media entry is added because the page's only image is an Instagram screenshot captioned as Toyz in prison, not established as showing the enforcement operation.
+  - The page calls 篠崎泫 Liu's wife while other accounts cited in the existing report call her his girlfriend; the relationship label is left as the existing report states it.
+  - This account describes his imprisonment as 2 years 6 months while the existing report records a 4-year-2-month sentence served in part before parole.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
@@ -625,7 +635,7 @@ supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
-second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32,33,35,37,38,39,43,44,45,48,49,50,51,52,54,57,59,60,61,62,65,66,68] Investigators traced him after
+second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32,33,35,37,38,39,43,44,45,48,49,50,51,52,54,57,59,60,61,62,65,66,68,82] Investigators traced him after
 police seized up to 200 cannabis cartridges from dealers in 2021, then
 prosecuted him for selling second-level drugs and the court imposed the combined
 term. [@1,6,33,36]
@@ -645,7 +655,7 @@ On 1 November, influencer Gino Jingyou (Zhuang Kaibo) posted a video confirming 
 
 Liu Weijian left prison alone, with his wife not accompanying him and no friends waiting outside the prison. [@36] He remained taciturn and calm on the way to the airport. [@36]
 
-The 2021 cannabis-vape-cartridge sale was in Taichung. [@38,55]
+The 2021 cannabis-vape-cartridge sale was in Taichung. [@38,55,82]
 
 In 2020 Liu formed a trafficking group with friends and bought 500 cannabis vape cartridges containing tetrahydrocannabinol for NT$600,000 for resale through subordinates. [@47]
 
