@@ -99,12 +99,20 @@ sources:
     publisher: Quadratín México
     date: 2026-11-07
     language: es
+  - title: Detienen a cuatro presuntos integrantes de célula delictiva en Venustiano Carranza; aseguran casi 3 mil dosis de posible cocaína y 15 kilos de marihuana
+    url: https://libertad-oaxaca.info/detienen-a-cuatro-presuntos-integrantes-de-celula-delictiva-en-venustiano-carranza-aseguran-casi-3-mil-dosis-de-posible-cocaina-y-15-kilos-de-marihuana/
+    publisher: Libertad Oaxaca
+    date: 2026-11-08
+    language: es
 open_questions:
   - No weight is given for the roughly 3,000 suspected cocaine wrappers, so only the marijuana weight is counted and no combined drug total is used.
   - The sources give full surnames only as Guzmán or “N”; the minor is not named.
   - No charges or court outcome are reported beyond presentation to the Public Prosecutor's agent.
   - The captured readable text gives only the headline and summary; details such as the 15 kg marijuana weight, the 3,000 suspected cocaine wrappers and the eight phones come from the existing report's earlier sources.
   - The captured Milenio text names the group only as a criminal cell and does not name La Unión Tepito in the captured lines; the group name rests on the existing report's other outlets.
+  - The Libertad Oaxaca account of this detention, published on 8 November 2026, describes the detainees' group only as a criminal cell and does not name La Unión Tepito, so the group affiliation rests on the existing report's earlier sources.
+  - The Libertad Oaxaca page reproduces the same Secretariat of Citizen Security statement as the outlets already cited, so it is not independent reporting of the arrest and gives no fresh figure for the plants, kilograms or area involved.
+  - The page carries no photograph of the detention or the seizure, and its only images are a video embed thumbnail and a site banner, so no media entry is added for this source.
 ---
 
 Mexico City citizen-security officers detained four alleged members of La Unión
@@ -112,7 +120,7 @@ Tepito in colonia Morelos in Venustiano Carranza. [@1,4,5,6,7,8,9,10] The detain
 24-year-old man, women aged 54 and 24, and a 16-year-old girl. [@2,6,8] The
 detainees were identified as Pedro “N”, Jovita “N” and Jessica “N”, plus the
 16-year-old girl, allegedly linked to the group's street-level drug dealing.
-[@3,10]
+[@3,10,11]
 
 Officers spotted a man handling a bag with drugs at the streets Carpintería and
 Mineros. [@1] The man ran into a tenement in the same area after noticing the
@@ -120,10 +128,12 @@ police. [@1] Officers entered the common area and saw three more people handling
 other wrappers. [@1] Officers seized about 3,000 paper wrappers containing
 suspected cocaine. [@1,10] Officers also seized 25 transparent plastic bags holding
 about 15 kilograms of apparent marijuana, plus eight mobile phones of different
-brands and models. [@1,4,9,10]
+brands and models. [@1,4,9,10,11]
 
 The four were told their constitutional rights and taken with what was seized to
 the Public Prosecutor's agent, who will open the investigation file and decide
 their legal situation. [@2,7] A data cross-check showed the 24-year-old had two
 2025 admissions to Mexico City's prison system for health crimes in the form of
 street-level drug dealing. [@3,8]
+
+The detainees were to be placed at the disposal of the ministerial authority, which would decide their legal situation, and the outlet notes they are presumed innocent until a judicial sentence. [@11]
