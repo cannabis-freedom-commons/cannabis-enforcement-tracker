@@ -61,6 +61,16 @@ media:
     media_url: https://reform.news/wp-content/uploads/2025/11/photo_2025-11-21_12-23-58.jpg
     publisher: Reform.news
     caption: 'Photograph from the Belarusian customs service''s own publication on the hashish found in the truck''s hidden compartments. Photo: t.me/customs_bel'
+  - kind: photo
+    url: https://www.customs.gov.by/news/belorusskie-tamozhenniki-presekli-vvoz-iz-evrosoyuza-dlya-dalneyshey-realizatsii-na-territorii-belar/
+    media_url: https://www.customs.gov.by/upload/resize_cache/iblock/b28/1700_1135_273f073bcb5eafcd0170050e0e787c090/yj1mzi3tgym1zp292z3u8l1juasrifq0.jpg
+    publisher: State Customs Committee of the Republic of Belarus
+    caption: 'Customs handout photo published with the committee''s release on the hashish smuggling attempt stopped by Belarusian and Russian customs officers. Photo: State Customs Committee of Belarus'
+  - kind: photo
+    url: https://www.customs.gov.by/news/belorusskie-tamozhenniki-presekli-vvoz-iz-evrosoyuza-dlya-dalneyshey-realizatsii-na-territorii-belar/
+    media_url: https://www.customs.gov.by/upload/resize_cache/iblock/422/1700_1135_273f073bcb5eafcd0170050e0e787c090/ql7xhle3hfxnbc9ye6co1qykspkqr4fi.jpg
+    publisher: State Customs Committee of the Republic of Belarus
+    caption: 'Customs handout photo published with the committee''s release on the hashish hidden in the Polish truck''s semi-trailer. Photo: State Customs Committee of Belarus'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 02e77c1c7843fa4db132e91134214435
@@ -81,6 +91,11 @@ sources:
     publisher: Reform.news
     date: 2025-11-21
     language: ru
+  - title: Белорусские таможенники пресекли ввоз из Евросоюза для дальнейшей реализации на территории Беларуси и России порядка 136 кг гашиша
+    url: https://www.customs.gov.by/news/belorusskie-tamozhenniki-presekli-vvoz-iz-evrosoyuza-dlya-dalneyshey-realizatsii-na-territorii-belar/
+    publisher: State Customs Committee of the Republic of Belarus
+    date: 2025-11-21
+    language: ru
 open_questions:
   - The reports give no separate date for the inspection, the finds or the detentions; 21 November 2025 is the publication date of the statements and is used as the incident date.
   - The accounts do not say exactly how many people were detained in Belarus and how many in Russia, nor when each arrest took place during the joint operation.
@@ -90,33 +105,37 @@ open_questions:
   - No court outcome was reported; the case stage is based on the criminal cases opened in November 2025.
   - BelTA and the two opened outlets relay the customs committee's statement, so the accounts are not fully independent.
   - The State Customs Committee's own news page shown in search results could not be opened and is not cited.
+  - The article gives no separate date for the inspection or the detentions; 21 November 2025 is its publication date.
+  - It does not say how many of the eight were detained in Belarus and how many in Russia, or when during the joint operation.
+  - It gives no street value and no weight per briquette.
 ---
 
 Belarusian customs officers stopped about 136 kg of hashish entering the country
-from the European Union, the State Customs Committee said. [@1] The drugs were
+from the European Union, the State Customs Committee said. [@1,4] The drugs were
 intended for distribution in Belarus and Russia. [@1] Eight people involved in
 the scheme were detained, including the customers behind the shipment. [@1]
 Those detained were Belarusians and Russians acting in prior conspiracy,
 arrested with their Russian counterparts in operations on the territory of both
-countries, Pozirk reported. [@2]
+countries, Pozirk reported. [@2,4]
 
 The truck, operated by a Polish haulier carrying alcohol, came into Belarus
 through the Kozlovichi border crossing with 320 briquettes of pressed hashish
 hidden in specially built compartments. [@1] The truck entered through the
 Kozlovichi border crossing. [@1] Brest customs officers sent it for scanning
 with an inspection system, and the scan showed an unusual dark patch in the
-lower area of a semi-trailer registered in Latvia. [@1] Dismantling exposed
+lower area of a semi-trailer registered in Latvia. [@1,4] Dismantling exposed
 hidden compartments built into the floor of the trailer's tool boxes, and
 forensic experts of the Brest Region State Forensic Examination Committee
-confirmed the contents were hashish. [@1]
+confirmed the contents were hashish. [@1,4]
 
 Brest Customs opened a criminal case against the group under part 2 of article
 328-1 of the Belarusian Criminal Code, which covers moving narcotics across the
-customs border of the Eurasian Economic Union and Belarus. [@1] Russian
+customs border of the Eurasian Economic Union and Belarus. [@1,4] Russian
 authorities opened separate cases against some of the participants under
 conspiracy and drug-trafficking provisions of the Russian Criminal Code. [@1]
 The suspects could face up to 20 years in prison; Pozirk describes that as the
 penalty the case carries, not a sentence. [@2] Reform.news reported the detained
 Belarusians and Russians were aged between 37 and 40, while the customs
-committee gave the range as 30 to 37. [@3]
+committee gave the range as 30 to 37. [@3,4]
 
+The detentions came from joint operational-search measures conducted with Russian customs officers on the territory of the two countries. [@4]
