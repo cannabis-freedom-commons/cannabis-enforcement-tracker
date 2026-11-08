@@ -42,6 +42,11 @@ sources:
     publisher: SALZBURG24
     date: 2026-11-08
     language: de
+  - title: E-Scooter-Fahrer erklärt Polizei, dass er Cannabis zum Einschlafen brauche
+    url: https://www.sn.at/salzburg/chronik/e-scooter-fahrer-erklaert-polizei-dass-er-cannabis-zum-einschlafen-brauche-art-682803
+    publisher: Salzburger Nachrichten
+    date: 2026-11-08
+    language: de
 open_questions:
   - The police describe the controls as taking place on Saturday and Sunday, so 7 November 2026 is used as the incident date, with the series running into 8 November.
   - The account gives the total of six drivers stopped but does not say how many were affected by cannabis alone; the cannabis-related stops are those in the city of Salzburg where the test reacted to cannabis.
@@ -51,20 +56,22 @@ open_questions:
   - The account reproduces a Salzburg police statement; no police press release and no second outlet for this series of stops could be opened.
   - The page's only photo is credited to APA/Barbara Gindl and labelled SYMBOLBILD (symbol image), not confirmed to show these stops, so no media entry is added.
   - The figure of six refers to drivers stopped, not people detained; no arrest or custody was reported.
+  - The Salzburger Nachrichten places the Thalgau driver's positive result in a sentence reading "Sein Alkotest schlug positiv auf Kokain an", apparently a misprint for the drug test.
+  - The Salzburger Nachrichten reports the same total of six stops but does not say whether the e-scooter rider's licence was among the five taken.
 ---
 
 Between Saturday 7 and Sunday 8 November 2026, Salzburg police stopped six
 drivers under the influence of drugs in the city of Salzburg, in Thalgau in
-Flachgau and in Leogang in Pinzgau. [@1] Officers seized the driving licences of
+Flachgau and in Leogang in Pinzgau. [@1,2] Officers seized the driving licences of
 five of the six drivers on the spot. [@1] A civil patrol at a routine check in
 the Aigner Straße in the city of Salzburg stopped a 20-year-old car driver on
 Saturday; his alcohol test was clear, but the drug test reacted to cannabis.
 [@1] The 20-year-old admitted he had smoked joints before driving, a police
-medical officer found him unfit to drive, and officers took his licence. [@1]
+medical officer found him unfit to drive, and officers took his licence. [@1,2]
 
 That evening officers stopped a 24-year-old Salzburger on an e-scooter in the
 Erzherzog-Eugen-Straße; he said he used cannabis daily as a sleep aid, and his
-quick test reacted to cannabis and cocaine. [@1] The 24-year-old refused the
+quick test reacted to cannabis and cocaine. [@1,2] The 24-year-old refused the
 medical examination and was stopped from continuing. [@1] A 21-year-old holding
 a probationary licence drew attention through risky driving in the city area and
 tested positive for cocaine. [@1] Early on Sunday officers stopped a 38-year-old
@@ -81,3 +88,4 @@ the medical officer's finding. [@1] In Thalgau a 25-year-old drew attention
 through unsafe driving, tested positive for cocaine, refused the medical
 examination and had his licence taken on the spot. [@1]
 
+The Salzburger Nachrichten reports that all five drivers whose driving licences were taken lost them. [@2]
