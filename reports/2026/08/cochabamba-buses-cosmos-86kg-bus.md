@@ -99,6 +99,11 @@ sources:
     publisher: CNN Brasil
     date: 2026-08-11
     language: pt
+  - title: Decomisan marihuana en autobús que debía trasladar al Sao Paulo
+    url: https://www.tudn.com/futbol/decomisan-marihuana-en-autobus-que-debia-trasladar-al-sao-paulo
+    publisher: TUDN
+    date: 2026-08-12
+    language: es
 open_questions:
   - Only one accessible source, Mediotiempo, was found for this event; it says it relied on Brazilian media reports with no named agency on the record.
   - No arrest, detainee or suspect was named or counted, so the report cannot describe anyone as held over the load.
@@ -130,13 +135,17 @@ open_questions:
   - CNN Brasil gives 86.5 kilos while the existing report records about 86 kilos; the difference is treated as rounding rather than a separate seizure.
   - The page's only image shows the Hernando Siles stadium credited to Conmebol, not the bus or the drugs, so no media entry is added.
   - No detainee names, seizing agency, or court outcome beyond detention at the disposal of Bolivian justice were published.
+  - TUDN gives 86.5 kilograms while the existing report's first source recorded about 86 kilos; the difference is treated as rounding, not a separate seizure.
+  - TUDN says the bus was stopped in the vicinity of Cochabamba and does not give the Locotal control post, a date for the stop or the number of people detained.
+  - TUDN attributes nothing to a Bolivian police, prosecutor or bus-company statement and names no agency that carried out the search.
+  - TUDN says the São Paulo squad used a second bus cleared by police for airport-hotel transfers in Santa Cruz de la Sierra before flying to La Paz, while other accounts describe the replacement coach as going back to the airport and the team travelling separately by plane.
 ---
 
 Bolivian authorities inspected a bus in Cochabamba on Tuesday 11 August 2026 and
 found about 86 kilos of marijuana hidden inside it, according to Mediotiempo.
 [@1,2,6,7,9,10,11] The bus belonged to the company Buses Cosmos and had been hired to carry
 the São Paulo FC squad during its visit to Bolivia for a Copa Sudamericana match
-against Bolívar, the outlet reported, citing Brazilian media. [@1,2,5,7,9,10,11] The discovery
+against Bolívar, the outlet reported, citing Brazilian media. [@1,2,5,7,9,10,11,12] The discovery
 came before the bus reached the team members, and the authorities seized the
 drug after finding it concealed in the vehicle, Mediotiempo reported. [@1,7]
 
@@ -162,4 +171,6 @@ The check took place in the Locotal area, on the road connecting Cochabamba with
 
 The check took place at the Locotal control post in the Cochabamba area, according to an account citing the Brazilian journalist Gabriel Sá. [@9] The São Paulo squad did not use the coach involved in the operation and had no contact with the people detained over the load. [@9]
 
-The information was first published by the Bolivian outlet Red Uno. [@11]
+The information was first published by the Bolivian outlet Red Uno. [@11,12]
+
+TUDN reported that Bolivian police seized 86.5 kilograms of marijuana from the coach. [@12]
