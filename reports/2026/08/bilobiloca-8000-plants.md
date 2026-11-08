@@ -40,6 +40,10 @@ sources:
     url: https://fijisun.com.fj/news/nation/no-suspects-after-8000-marijuana-plants-seized
     publisher: Fiji Sun
     date: 2026-08-12
+  - title: Nearly 8,000 marijuana plants seized in Northern Division raid
+    url: https://www.fijitimes.com.fj/nearly-8000-marijuana-plants-seized-in-northern-division-raid/
+    publisher: The Fiji Times
+    date: 2026-08-05
 media:
   - kind: photo
     url: https://fijisun.com.fj/news/nation/drone-community-tip-off-lead-to-8000-marijuana-plant-bust
@@ -53,6 +57,6 @@ open_questions:
   - The map point marks the Northern Division rather than the farming area's exact location.
 ---
 
-Fiji Police said a community tip led to a raid at the Bilobiloca farming area in the Northern Division, where a drone confirmed the cultivation site. [@1]
+Fiji Police said a community tip led to a raid at the Bilobiloca farming area in the Northern Division, where a drone confirmed the cultivation site. [@1,3]
 
-Close to 8,000 plants believed to be marijuana were seized. [@1] The Fiji Sun reported a week later that no suspects had been identified or arrested and that the investigation continued. [@2]
+Close to 8,000 plants believed to be marijuana were seized. [@1,3] The Fiji Sun reported a week later that no suspects had been identified or arrested and that the investigation continued. [@2]
