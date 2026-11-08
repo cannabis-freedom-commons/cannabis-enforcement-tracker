@@ -90,7 +90,7 @@ kg) of marijuana during the traffic stop. [@1,2,3,4,5,6] Krajekian was arrested 
 charged with maintaining a vehicle for the use, storage or sale of a controlled
 substance. [@1,2] He was also charged with possession with intent to sell or
 deliver marijuana, possession of a Schedule VI controlled substance and
-marijuana paraphernalia possession. [@1,3] Further charges included carrying a
+marijuana paraphernalia possession. [@1,2,3] Further charges included carrying a
 concealed weapon, speeding and possession or manufacture of fraudulent IDs. [@1]
 
 Krajekian was taken to Albemarle District Jail and held on a $10,500 secured
