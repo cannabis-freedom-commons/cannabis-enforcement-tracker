@@ -77,6 +77,8 @@ open_questions:
   - Its only image is an uncaptioned, uncredited upload under the headline, so no media link is added.
   - The page's later paragraphs describe separate Assam Rifles methamphetamine seizures in Cachar district, involving synthetic drugs, which are left out of this cannabis report.
   - The page carries one image under the same headline with no credit and a caption that repeats the headline, so it is not confirmed to show this seizure and no media entry is listed.
+  - The page carries one uncaptioned, uncredited image slot under the same headline, so it is not confirmed to show this seizure and no media link is listed.
+  - The page's later paragraphs describe a separate Assam Rifles and Assam Police seizure of 1.363 kg of methamphetamine tablets worth about Rs 3.49 crore in Cachar district, a different event involving synthetic drugs and left out of this cannabis report.
 ---
 
 Police in Assam's Baihata seized over 15 kilograms of suspected cannabis,
@@ -88,13 +90,13 @@ Assam's Kamrup district. [@1,3,4,5,6]
 
 A search of the intercepted vehicle led to the recovery and seizure of suspected
 cannabis that had been packed in three separate packets. [@1,6] Police recorded
-the weight of the recovered suspected cannabis as 15.049 kilograms. [@1,3,4,5] Police
+the weight of the recovered suspected cannabis as 15.049 kilograms. [@1,3,4,5,6] Police
 said one person was apprehended at the scene in connection with the recovery of
 the three packets. [@1]
 
 The enforcement action was reported from Baihata, with the account datelined
 Guwahati in Assam. [@2,5] Police said further legal action against the apprehended
-person was being initiated following the seizure and apprehension. [@1,3,5]
+person was being initiated following the seizure and apprehension. [@1,3,5,6]
 Officials described the recovered material as suspected cannabis, presenting
 both the drug identity and the weight as police findings rather than
 court-tested results. [@1]
