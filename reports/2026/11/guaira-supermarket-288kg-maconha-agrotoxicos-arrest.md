@@ -58,6 +58,21 @@ sources:
     publisher: Campo Grande News
     date: 2026-11-08
     language: pt
+  - title: Motorista é preso com R$ 5,7 milhões em agrotóxicos e maconha
+    url: https://midiamax.com.br/policia/2026/motorista-preso-r-57-milhoes-agrotoxicos-maconha/
+    publisher: Jornal Midiamax
+    date: 2026-11-08
+    language: pt
+  - title: Operação na fronteira apreende R$ 5,7 milhões em drogas e agrotóxicos
+    url: https://www.jd1noticias.com/policia/2026/11/08/operacao-na-fronteira-apreende-r-57-milhoes-em-drogas-e-agrotoxicos.html
+    publisher: JD1 Notícias
+    date: 2026-11-08
+    language: pt
+  - title: Operação tem apoio de MS e apreende R$ 5,7 milhões em drogas e agrotóxicos
+    url: https://correiodoestado.com.br/cidades/2026/11/08/operacao-tem-apoio-de-ms-e-apreende-r-57-milhoes-em-drogas-e-agrotoxicos.html
+    publisher: Correio do Estado
+    date: 2026-11-08
+    language: pt
 open_questions:
   - Only one accessible source was found for this event, so no second account confirms the details.
   - The suspect was not identified by name or age, and no charge, custody decision or court outcome beyond referral to the Federal Police in Guaíra was reported.
@@ -65,19 +80,24 @@ open_questions:
   - The 150 kg of pesticides is a non-cannabis component of the same load and is excluded from the cannabis weight; only the 288 kg of marijuana is recorded as kg_seized.
   - One person involved fled when police arrived; it is not known whether that person was later identified or arrested.
   - No laboratory confirmation of the marijuana was reported.
+  - The pesticide weight, about 150 kg, is not a cannabis figure and stays out of the cannabis weight; the R$5,703,641 total covers marijuana, pesticides and the car together.
+  - Correio do Estado and JD1 Notícias say the vehicle was being handed to another driver while the existing report, following Campo Grande News, says the man was handing the loaded vehicle to another person; both describe the same car park handover and the sources do not settle who was taking over.
+  - JD1 Notícias lists the Federal Police and the Guaíra municipal guard among the teams in the action, while Midiamax names only the Receita Federal customs office and BPFRON; Correio do Estado attributes both to the Dourados News portal rather than to an agency statement.
+  - The Passeio and Correio do Estado images are the same Receita Federal handout as the Campo Grande News photo of the agents, and only the Midiamax addresses could be confirmed directly; no separate photo of the marijuana itself was found.
+  - No name, age, charge, custody decision or court outcome beyond referral to the Federal Police in Guaíra was reported.
 ---
 
 A man whose identity was not disclosed was arrested on the morning of Sunday 8
 November 2026 in Guaíra, Paraná, after leaving Mundo Novo, Mato Grosso do Sul.
-[@1] He was carrying 288 kg of marijuana and 150 kg of illegal pesticides, which
-the Receita Federal valued together with the load at R$5.7 million. [@1] He was
+[@1,2] He was carrying 288 kg of marijuana and 150 kg of illegal pesticides, which
+the Receita Federal valued together with the load at R$5.7 million. [@1,2] He was
 caught in Guaíra as he was handing the loaded vehicle to another person in the
 car park of a supermarket. [@1]
 
 According to the Receita Federal, the seizure followed an exchange of
 information between its Mundo Novo customs office and the Border Police
 Battalion, known as BPFRON, after the man showed suspicious movement near the
-Ponte Ayrton Senna bridge linking Mundo Novo and Guaíra. [@1] Security-force
+Ponte Ayrton Senna bridge linking Mundo Novo and Guaíra. [@1,2] Security-force
 teams were then tasked with monitoring the vehicle and checking the situation to
 prevent a possible escape. [@1] The car was found in the car park of a
 supermarket in Guaíra as it was being handed over to another driver, and one of
@@ -88,3 +108,4 @@ compartment of a Jeep Renegade, and the vehicle was also seized. [@1] The car
 and the drug were taken to the Federal Police in Guaíra, while the pesticide was
 sent to the Receita Federal inspectorate. [@1]
 
+JD1 Notícias valued the seized vehicle alone at about R$100,000. [@3] JD1 Notícias and Correio do Estado both also name the Federal Police and the Guaíra municipal guard, Guarda Municipal, among the teams in the integrated action. [@4] JD1 Notícias, which credits the Dourados News portal, writes that the operation began with intelligence work on a vehicle possibly used to carry illicit goods. [@3]
