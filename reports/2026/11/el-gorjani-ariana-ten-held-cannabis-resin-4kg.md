@@ -84,6 +84,11 @@ sources:
     publisher: Réalités Magazine
     date: 2026-11-07
     language: fr
+  - title: تفكيك شبكة دولية للكوكايين في تونس وإيقاف 10 أشخاص
+    url: https://www.tuniscope.com/ar/article/444209/actu-arabe/arabe/arrestation-352518
+    publisher: Tuniscope
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The first operation was carried out the day before publication and the Ariana operation the day before that, so 6 November 2026 is used as the incident date for the report, with 7 November as the publication date.
   - The cocaine capsules are excluded from cannabis figures, and no weight was given for the cocaine.
@@ -104,16 +109,18 @@ open_questions:
   - Réalités says the first operation, two days before its 7 November publication, concerned the sale of cocaine; it gives no place for those seven arrests.
   - Réalités gives no amount for the money seized in the first operation and no street value for the cannabis or cocaine, and does not say whether the 38 plates are pressed resin or herbal cannabis.
   - Réalités places the Ariana operation the day before publication but does not give a calendar date for either operation.
+  - Tuniscope gives no street value for the cannabis or cocaine and no amount seized in the second (Ariana) operation beyond the cannabis plates and one car.
+  - Tuniscope describes the plates as cannabis material (القنب الهندي) weighing about 4 kg without saying whether they are pressed resin or herbal cannabis.
 ---
 
 Officers of the anti-drug sub-directorate at the El Gorjani judicial police
 directorate broke up an international criminal network of foreign nationals and
-Tunisians and arrested seven people in it. [@1,2,3,4,5] The first operation also seized
+Tunisians and arrested seven people in it. [@1,2,3,4,5,6] The first operation also seized
 31 capsules of cocaine, two cars and a sum of money. [@1,2,3,4,5]
 
 The same police unit dismantled a drug-trafficking cell in the Ariana area the
 next day, arrested three people, two of them already wanted, and held 38 plates
-of cannabis weighing about 4 kg. [@1,2,3,4,5]
+of cannabis weighing about 4 kg. [@1,2,3,4,5,6]
 
 The Public Prosecution ordered the suspects held in custody on drugs and
 money-laundering offences. [@1,2,3,4,5]
