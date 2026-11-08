@@ -128,6 +128,11 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-07
     language: ru
+  - title: “امتعاض إيراني” يرفع درجة الخطر القادم إلى سوريا عبر الحدود
+    url: https://www.imlebanon.org/2026/11/08/leb-syria7656544/
+    publisher: IMLebanon
+    date: 2026-11-08
+    language: ar
 open_questions:
   - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
   - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
@@ -165,20 +170,22 @@ open_questions:
   - The page's lead picture carries only the headline as its caption with no credit, so it is not established to show the Sarghaya operation and no media entry is added.
   - The page gives no separate incident date beyond its 7 November 2026 publication time and attributes the statement to border forces generally, crediting The National and SANA rather than naming the Defence Ministry.
   - The page's only picture is a site image captioned with the headline, so it does not add media for the operation.
+  - This account attributes the 280 kg hashish and 28,000 Captagon pill figures to an Internal Security Forces statement, while the existing report attributes the seizure statement to the Defence Ministry media office.
+  - The page's only image is a generic Lebanon-Syria border photo with no caption linking it to the Sarghaya operation, so no media entry is added.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab
 Army foiled an attempt to smuggle drugs from Lebanese territory into Syria in
-the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10,11,14]
+the Sarghaya area of the Damascus countryside. [@1,4,6,7,8,9,10,11,14,16]
 
 The ministry said the smugglers opened fire on the Syrian force during the
-operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12,13,14,15] The gunmen then fled towards
-Lebanese territory, the ministry said. [@2,4,6,7,8,9,11,12,13,15] The state news agency SANA reported
+operation and that the force returned fire. [@1,3,4,6,7,8,9,11,12,13,14,15,16] The gunmen then fled towards
+Lebanese territory, the ministry said. [@2,4,6,7,8,9,11,12,13,15,16] The state news agency SANA reported
 that border guard units of the Syrian Arab Army foiled the attempt at the
 Sarghaya area of Rif Dimashq. [@2]
 
 The operation ended with 280 kilograms of hashish and 28,000 Captagon pills
-confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13,14] The seized items were
+confiscated, according to the ministry statement. [@1,3,4,6,7,8,9,10,11,12,13,14,16] The seized items were
 referred to the competent authorities to complete legal procedures. [@1,3,4,11,12,13,14,15]
 
 The Defence Ministry media office announced the operation on Friday 6 November
