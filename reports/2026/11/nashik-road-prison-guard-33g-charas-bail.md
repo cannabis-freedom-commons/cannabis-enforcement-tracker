@@ -71,6 +71,11 @@ sources:
     publisher: Loksatta
     date: 2026-11-08
     language: mr
+  - title: 'Nashik Crime News : ​२३ कोटींच्या सुरक्षा कवचात चरसचा सुळसुळाट; नाशिकरोड कारागृहातील प्रकाराने यंत्रणेसमोर प्रश्नचिन्ह!'
+    url: https://deshdoot.com/nashik-crime-news-incident-at-nashik-road-jail-raises-questions-about-the-system/
+    publisher: Deshdoot
+    date: 2026-11-08
+    language: mr
 open_questions:
   - The Times of India reports the charas taped to the guard's thighs, while Prahaar and Deshdoot describe it hidden at his private parts; the reports agree on the 33 grams but differ on the exact place it was concealed.
   - Only The Times of India reports the bail; the two Marathi accounts stop at the registration of the case and name no court outcome.
@@ -81,6 +86,9 @@ open_questions:
   - Loksatta gives no date for when the guard was caught; the recorded incident date comes from The Times of India.
   - Loksatta names no bail or court outcome and no charges, so the bail recorded from The Times of India is uncorroborated here.
   - Loksatta says only that investigators are looking into which gangster sent the guard, with no arrest of anyone else reported.
+  - Deshdoot gives no date for when the guard was caught, only that it happened 'two days ago' before its 8 November 2026 publication.
+  - Deshdoot repeats that the charas was hidden at the guard's private parts, which the existing report records; the Times of India's account of taping to the thighs remains uncorroborated here.
+  - Deshdoot's photograph is captioned only 'jail images' and the page does not say when it was taken, so no photo is added.
 ---
 
 A guard at Nashik Road Central Prison in Maharashtra was caught on 4 November
@@ -104,4 +112,6 @@ The reports called for the Inspector General of Prisons, Dr Suhas Warke, to
 order a special inspection of the jail and action against any staff found
 responsible. [@1]
 
-The guard hid the charas in his private parts. [@4] Police seized 33 grams of charas from him, and the reports say the prison already has intensive searchlight poles and baggage scanners at its entrances. [@4]
+The guard hid the charas in his private parts. [@4,5] Police seized 33 grams of charas from him, and the reports say the prison already has intensive searchlight poles and baggage scanners at its entrances. [@4]
+
+Maharashtra's home department released 23.37 crore rupees for 389 highmast poles and 37 baggage scanners for the state's jails. [@5]
