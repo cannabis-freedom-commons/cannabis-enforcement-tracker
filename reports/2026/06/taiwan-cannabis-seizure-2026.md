@@ -84,6 +84,11 @@ sources:
     publisher: 僑新聞OCAC NEWS
     date: 2026-10-06
     language: zh
+  - title: 海巡節前夕海委會向行政院專案報告 「海巡在，主權就在！」全力守護藍色國土 | 蕃新聞
+    url: https://n.yam.com/Article/20261105875456
+    publisher: 蕃新聞
+    date: 2026-11-05
+    language: zh
 open_questions:
   - The 5 November speech gives a year-to-date drug total of 12,901.6 kg without separating cannabis, so it is not recorded as a cannabis figure.
   - The 3-tonne figure covers two drug cases found during a 50-day maritime lockdown roundup and is not attributed to the Rueifang case.
@@ -112,6 +117,6 @@ Coast guard and police officers stopped a truck in New Taipei's Rueifang distric
 
 At the award ceremony on 5 November 2026 the minister again described the case as the largest cannabis seizure in Taiwan in the past ten years. [@2,3,4,5,6,7,8] She put the coast guard's year-to-date drug seizures at 12,901.6 kg, a total not separated by substance. [@2,3,7,9] She said that during a maritime lockdown the service had broken two drug cases and seized more than 3 tonnes of drugs, alongside two illegal border-crossing cases and more than 20 wanted fugitives. [@2]
 
-Coast guard officers and police made the cannabis seizure on 3 June 2026, the date the service's report records. [@7,8]
+Coast guard officers and police made the cannabis seizure on 3 June 2026, the date the service's report records. [@7,8,12]
 
 The cabinet's account of the same council report gives the cannabis haul as a rounded 766 kg, the inland record the premier described. [@10] At a 5 October news conference on the same bust the premier said the operation seized 814.68 kg of drugs, of which more than 766 kg was cannabis. [@11] The premier placed the seizure on 3 June, Taiwan's Opium Suppression Movement Day, in 隆炁專案 (Operation Longqi), directed by the Keelung District Prosecutors' Office and run by the coast guard's Keelung Enforcement Team. [@11]
