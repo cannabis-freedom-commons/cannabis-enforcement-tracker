@@ -81,6 +81,11 @@ sources:
     url: https://shironam.com/news/6-arrested-in-naogaon-including-members-of-cannabis-and-van-theft-rings
     publisher: Shironam
     language: bn
+  - title: নওগাঁয় ৮০টি হারানো মুঠোফোন উদ্ধার, ভ্যান উদ্ধারসহ গ্রেপ্তার ৬
+    url: https://www.dhakatoday.com/news/92747/%E0%A6%A8%E0%A6%93%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A7%9F-%E0%A7%AE%E0%A7%A6%E0%A6%9F%E0%A6%BF-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%AE%E0%A7%81%E0%A6%A0%E0%A7%8B%E0%A6%AB%E0%A7%8B%E0%A6%A8-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0,-%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%AC
+    publisher: Dhaka Today
+    date: 2026-11-01
+    language: bn
 open_questions:
   - The cannabis raids ran from Saturday night through 8:30 a.m. Sunday; the report is dated to the 1 November press briefing that announced them.
   - No charges, court outcome, drug value or independent weighing was reported.
@@ -101,11 +106,14 @@ open_questions:
   - The captured page is a short summary that gives no separate raid date; 1 November 2026 is the press-briefing date established by the existing report's fuller accounts.
   - The page's image has an empty caption and credit, so whether it shows this seizure could not be established and no media entry is added.
   - The same briefing's two van-theft arrests and 517 recovered mobile phones are separate non-cannabis events left out of the cannabis report.
+  - This account describes the drug raids as running overnight Sunday and starting at 5 a.m. Sunday in Manda, while the existing report dates them from Saturday night into 8:30 a.m. Sunday; the shared 20 kg plus 2 kg plus 2 kg breakdown is used.
+  - The same article also reports 80 recovered mobile phones and a van-theft arrest with two suspects, separate non-cannabis events left out of the cannabis report.
+  - The page lists eight images with empty captions and credits, so none could be confirmed to show this seizure and no media entry is added.
 ---
 
 Naogaon District Detective Branch (DB) police arrested four alleged drug traders
 in separate raids across Manda, Sadar and Badalgachhi upazilas, sub-districts of
-Naogaon District. [@1,2,3,4,5,6,8] The four were identified as Arif Hossain, 30, of
+Naogaon District. [@1,2,3,4,5,6,8,9] The four were identified as Arif Hossain, 30, of
 Raghunathpur in Manda, Mosharraf, 33, of Sherpur Kuralipara in Mohadevpur, and
 brothers Shilong, 23, and Arafat, 23, of Badalgachhi. [@1,3] Superintendent of
 Police Mohammad Tarikul Islam announced the arrests at a press briefing at his
@@ -115,12 +123,12 @@ Acting on a tip about a large stock stored for sale in Manda, officers raided
 Arif Hossain's house in Raghunathpur village late Saturday night and recovered
 20 kg of ganja from a steel trunk. [@1,2,3,4,5,6,7] Information from Arif led officers to a
 rented house in Naogaon Sadar, where they arrested Mosharraf and recovered
-another 2 kg kept under a bed. [@1] Information from Mosharraf then led to
+another 2 kg kept under a bed. [@1,9] Information from Mosharraf then led to
 Badalgachhi, where police arrested Shilong and Arafat and recovered a further 2
-kg from them. [@1,3,4,5,6]
+kg from them. [@1,3,4,5,6,9]
 
 The cannabis raids ran from Saturday into 8:30 a.m. Sunday and were carried out
 by a Detective Branch team on the superintendent's orders. [@1] Police said
 district anti-drug drives of this kind would continue. [@1]
 
-Cases have been filed against the four arrested men at the relevant police stations under the Narcotics Control Act. [@2]
+Cases have been filed against the four arrested men at the relevant police stations under the Narcotics Control Act. [@2,9]
