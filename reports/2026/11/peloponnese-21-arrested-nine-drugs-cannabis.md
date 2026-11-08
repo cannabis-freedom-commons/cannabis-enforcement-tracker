@@ -67,6 +67,11 @@ sources:
     publisher: anagnostis.org
     date: 2026-11-07
     language: el
+  - title: Ζάκυνθος | Συλλήψεις για περιπτώσεις κατοχής ναρκωτικών
+    url: https://www.imerazante.gr/2026/11/05/405695
+    publisher: Εφημερίδα Ημέρα, Ζάκυνθος
+    date: 2026-11-05
+    language: el
 open_questions:
   - The nine people held on drug charges are counted as charged because police said they would be taken to the local prosecutors; no formal charges or court outcome were reported.
   - The Messinia amount of cannabis is described only as a very small quantity, so it adds nothing to the 14.27 gram total from Argolida and Corinthia.
@@ -77,10 +82,13 @@ open_questions:
   - The page's only picture is a stock image of a police arrest (Depositphotos), not a photo of this sweep, so no media entry is included.
   - The amount of cannabis seized in Messinia is described only as a small quantity, so no weight can be added.
   - The article gives no names, ages or other identifiers for the four people arrested in Messinia.
+  - No weight was published for either Zakynthos quantity of cannabis, which the police described only as a small quantity of raw cannabis.
+  - The location of each Zakynthos arrest is given only as the island; no town or district was named.
+  - Neither Zakynthos account names the prosecutor's office that received the two men or reports formal charges or a court outcome.
 ---
 
 Police in Argolida, Arcadia, Corinthia and Messinia arrested 21 people during a
-sweep that ran from 3 to 6 November 2026. [@1,4,5] Nine of the 21 arrests were on
+sweep that ran from 3 to 6 November 2026. [@1,4,5,6] Nine of the 21 arrests were on
 drug charges: two in Argolida, three in Corinthia and three in Messinia, all of
 them Greek nationals. [@1] Police also brought 38 people in for questioning and
 checked 588 people and 417 vehicles. [@1,4,5]
