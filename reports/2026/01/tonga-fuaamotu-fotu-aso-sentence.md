@@ -42,16 +42,21 @@ tags: [fuaamotu, cultivation]
 open_questions:
   - The court judgment is the only account found; no press coverage could be opened.
   - Whether the discharged third count related to suspected methamphetamine is not stated beyond the tip police received.
+  - The article body beyond the summary line could not be read because premium content requires a subscription, so no further details beyond the plants, weights, sentence and place could be checked.
 sources:
   - title: Rex v Mekiloni Fotu Aso [2026] TOSC Sentence (CR 170 of 2025, 21 January 2026)
     url: https://ago.gov.to/cms/judgements/supreme-court-criminal/category/244-cr-2026.html?download=2997:rex-v-mekiloni-fotu-aso-cr-170-25-tosc-sentence
     publisher: Attorney General's Office, Tonga (Supreme Court of Tonga)
     date: 2026-01-21
     language: en
+  - title: Father of six jailed for cannabis cultivation at Fua’amotu | Matangi Tonga
+    url: https://matangitonga.to/2026/02/12/father-six-jailed-cannabis-cultivation-fua-amotu
+    publisher: Matangi Tonga
+    date: 2026-02-12
 ---
 
 Police searched Mekiloni Fotu Aso's home at Fua'amotu about 6.30 a.m. on 14 July 2025 on reliable information that cannabis and methamphetamine were stored there. [@1] With his cooperation, officers uprooted cannabis plants he admitted owning and found green leaves around the residence plus utensils. [@1]
 
-He pleaded guilty on 11 November 2025 to cultivating 63 cannabis plants weighing 427.95 grams, possessing 266.08 grams of cannabis, and unlawfully possessing utensils; the Crown discharged a third count to which he had pleaded not guilty. [@1]
+He pleaded guilty on 11 November 2025 to cultivating 63 cannabis plants weighing 427.95 grams, possessing 266.08 grams of cannabis, and unlawfully possessing utensils; the Crown discharged a third count to which he had pleaded not guilty. [@1,2]
 
-On 21 January 2026 the Lord Chief Justice held that Aso's role was that of a supplier distributing and selling cannabis in the community. [@1] Starting at three years for cultivation, reduced for the early plea and cooperation, the court imposed 18 months in prison with the final six months suspended for two years on conditions including probation and a drug-awareness course, with the other counts concurrent. [@1] The drugs and utensils were ordered destroyed, while $390 in seized cash was returned to his wife, with whom he has six children. [@1]
+On 21 January 2026 the Lord Chief Justice held that Aso's role was that of a supplier distributing and selling cannabis in the community. [@1] Starting at three years for cultivation, reduced for the early plea and cooperation, the court imposed 18 months in prison with the final six months suspended for two years on conditions including probation and a drug-awareness course, with the other counts concurrent. [@1,2] The drugs and utensils were ordered destroyed, while $390 in seized cash was returned to his wife, with whom he has six children. [@1]
