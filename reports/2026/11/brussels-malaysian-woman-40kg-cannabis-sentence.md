@@ -66,6 +66,11 @@ sources:
     publisher: BruxellesToday
     date: 2026-11-05
     language: fr
+  - title: 'Vrouw (40) reist met 40 kilo cannabis in bagage: “Onbekende sprak haar aan”'
+    url: https://www.hln.be/zaventem/vrouw-40-reist-met-40-kilo-cannabis-in-bagage-onbekende-sprak-haar-aan~a99660f4/
+    publisher: HLN
+    date: 2026-11-05
+    language: nl
 open_questions:
   - Neither account gives the woman's name or exact age, only that she is in her forties and from Malaysia.
   - Neither account says whether the 40 kg was herbal cannabis or another cannabis product; it is recorded as herbal cannabis from the sources' word cannabis.
@@ -77,10 +82,10 @@ open_questions:
 ---
 
 A woman from Malaysia arrived at Brussels Airport in Zaventem from Bangkok on
-7 April 2026. [@1,2] Customs arrested her there. [@2] The Brussels criminal court
+7 April 2026. [@1,2,3] Customs arrested her there. [@2] The Brussels criminal court
 sentenced her on Thursday 5 November 2026 to 40 months in prison for drug
-trafficking. [@1,2] Customs found 20 packages weighing 40 kilograms in the
-traveller's two suitcases. [@1]
+trafficking. [@1,2,3] Customs found 20 packages weighing 40 kilograms in the
+traveller's two suitcases. [@1,3]
 
 The prosecutor said she claimed an unknown man had approached her before
 departure and asked her to carry the two suitcases for payment on arrival in
