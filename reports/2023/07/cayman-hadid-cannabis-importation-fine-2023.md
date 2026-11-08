@@ -50,28 +50,32 @@ sources:
     url: https://www.bbc.com/news/world-us-canada-66244822
     publisher: BBC News
     date: 2023-07-19
+  - title: 'Gigi Hadid arrested, released in Cayman Islands for marijuana: ''All''s well that ends well'''
+    url: https://www.usatoday.com/story/entertainment/celebrities/2023/07/18/gigi-hadid-arrested-marijuana-cayman-islands/70424776007/
+    publisher: USA TODAY
+    date: 2023-07-18
 open_questions:
   - No weight or street value was published for the marijuana; the agency described it only as a small amount, seemingly for personal consumption.
   - The BBC does not name the airport or terminal where the private jet arrived, so the place is given at island level.
   - The fine was 1,000 Cayman Islands dollars, which the BBC equates with $1,200 and £920; the structured figure records the local currency amount.
   - The case was not reported until 19 July 2023, eight days after the arrival and the court appearance.
   - Only one opened source, the BBC page, covers this event; local Cayman accounts were not accessible.
+  - USA Today attributes the account of the July 12 court appearance and fine to a Customs & Border Control statement and court documents, while also citing a Judicial Administration confirmation that the fines were paid; the existing report cites a detention-centre and bail detail from Cayman Marl Road that this source does not mention.
 ---
 
 American model Gigi Hadid, 28, and her friend Leah McCarthy were detained in the
 Cayman Islands after their luggage was searched when they arrived on a private
-jet for a holiday on 10 July 2023. [@1] The Cayman Islands Customs and Border
+jet for a holiday on 10 July 2023. [@1,2] The Cayman Islands Customs and Border
 Control said the two were arrested for "the importation of marijuana and
-importation of utensils used for the consumption of marijuana". [@1] The agency
-said it was a small amount, seemingly for personal consumption. [@1]
+importation of utensils used for the consumption of marijuana". [@1,2] The agency
+said it was a small amount, seemingly for personal consumption. [@1,2]
 
 They were taken to a detention centre and released on bail, the local newspaper
 Cayman Marl Road reported. [@1] The pair appeared in the Cayman Islands summary
 court two days later, where they were fined 1,000 Cayman Islands dollars
 ($1,200; £920). [@1] They pleaded guilty in court and paid the fine, but no
-conviction was recorded. [@1]
+conviction was recorded. [@1,2]
 
 Hadid's representative said the marijuana was purchased legally in New York
 "with a medical license", and that medical use has also been legal in Grand
-Cayman since 2017. [@1]
-
+Cayman since 2017. [@1,2]
