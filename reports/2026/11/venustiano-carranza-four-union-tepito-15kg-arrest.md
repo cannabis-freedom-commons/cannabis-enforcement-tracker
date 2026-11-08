@@ -79,16 +79,22 @@ sources:
     publisher: El Universal
     date: 2026-11-07
     language: es
+  - title: Detienen a 4 en la Morelos; aseguran cocaína y 15 kilos de mariguana
+    url: https://www.milenio.com/policia/detenidos-colonia-morelos-cdmx-aseguran-droga-cocaina-mariguana
+    publisher: Grupo Milenio
+    date: 2026-11-07
+    language: es
 open_questions:
   - No weight is given for the roughly 3,000 suspected cocaine wrappers, so only the marijuana weight is counted and no combined drug total is used.
   - The sources give full surnames only as Guzmán or “N”; the minor is not named.
   - No charges or court outcome are reported beyond presentation to the Public Prosecutor's agent.
   - The captured readable text gives only the headline and summary; details such as the 15 kg marijuana weight, the 3,000 suspected cocaine wrappers and the eight phones come from the existing report's earlier sources.
+  - The captured Milenio text names the group only as a criminal cell and does not name La Unión Tepito in the captured lines; the group name rests on the existing report's other outlets.
 ---
 
 Mexico City citizen-security officers detained four alleged members of La Unión
-Tepito in colonia Morelos in Venustiano Carranza. [@1,4,5,6,7] The detainees were a
-24-year-old man, women aged 54 and 24, and a 16-year-old girl. [@2,6] The
+Tepito in colonia Morelos in Venustiano Carranza. [@1,4,5,6,7,8] The detainees were a
+24-year-old man, women aged 54 and 24, and a 16-year-old girl. [@2,6,8] The
 detainees were identified as Pedro “N”, Jovita “N” and Jessica “N”, plus the
 16-year-old girl, allegedly linked to the group's street-level drug dealing.
 [@3]
@@ -105,4 +111,4 @@ The four were told their constitutional rights and taken with what was seized to
 the Public Prosecutor's agent, who will open the investigation file and decide
 their legal situation. [@2,7] A data cross-check showed the 24-year-old had two
 2025 admissions to Mexico City's prison system for health crimes in the form of
-street-level drug dealing. [@3]
+street-level drug dealing. [@3,8]
