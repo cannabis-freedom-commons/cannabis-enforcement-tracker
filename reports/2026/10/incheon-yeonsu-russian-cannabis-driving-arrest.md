@@ -78,6 +78,11 @@ sources:
     publisher: 중부일보
     date: 2026-11-03
     language: ko
+  - title: 인천서 대마 흡입 혐의 40대 러시아인 검거
+    url: https://www.msn.com/ko-kr/news/other/%EC%9D%B8%EC%B2%9C%EC%84%9C-%EB%8C%80%EB%A7%88-%ED%9D%A1%EC%9E%85-%ED%98%90%EC%9D%98-40%EB%8C%80-%EB%9F%AC%EC%8B%9C%EC%95%84%EC%9D%B8-%EA%B2%80%EA%B1%B0/ar-AA2gCUhZ
+    publisher: MSN (Newsis)
+    date: 2026-11-03
+    language: ko
 open_questions:
   - No quantity or weight of cannabis was reported, so no cannabis seizure figure is given.
   - The precise road or spot in Yeonsu District where the driving and arrest occurred was not specified.
@@ -99,11 +104,12 @@ open_questions:
   - This account says officers located the vehicle he was driving when arresting him but does not state the impaired-driving allegation recorded in the existing report.
   - The News1 page's only listed image is a designer graphic credited to Kim Jiyoung and does not depict this arrest, so no media entry is added.
   - The page carries one image captioned 인천에서 대마초를 복용한 상태로 운전한 불법체류 외국인이 경찰에 검거됐다 and credited to 연합뉴스, which does not establish that it depicts this arrest, so no media entry is included.
+  - This account quotes a police officer as saying A had not driven while under the influence of drugs, which conflicts with the driving allegation in the Yonhap-based accounts already cited by the report.
 ---
 
 Incheon’s Yeonsu Police Station detained a Russian man in his 40s, identified as
 A, on cannabis and immigration-violation charges and handed him over to
-immigration authorities. [@1,3,7,8,9,10] He is accused of driving on a road in Yeonsu
+immigration authorities. [@1,3,7,8,9,10,11] He is accused of driving on a road in Yeonsu
 District, Incheon, on 28 October after using cannabis. [@1,3,5,7,9,10] Police began
 tracking the vehicle after receiving a drug-use report at about 2:40 p.m. that
 day and detained him about three hours later. [@1,3,5,7,8,9,10]
@@ -119,6 +125,6 @@ Forensic Service to confirm the suspected drug use accurately. [@1,3,4,5,6,9,10]
 Police announced the detention on 3 November. [@1,4] After the arrest, he was
 handed over to immigration authorities. [@2,4,6,8]
 
-Police detained A at about 5:30 p.m. on 28 October in Okryeon-dong, Yeonsu-gu, after receiving a drug-use report that day. [@4,6]
+Police detained A at about 5:30 p.m. on 28 October in Okryeon-dong, Yeonsu-gu, after receiving a drug-use report that day. [@4,6,11]
 
 The Joongboo account specifies the alleged driving took place on a four-lane road in Yeonsu District. [@10] Police said they would also investigate how A obtained the cannabis. [@10]
