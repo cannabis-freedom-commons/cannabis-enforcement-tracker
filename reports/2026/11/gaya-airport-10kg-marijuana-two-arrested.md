@@ -140,6 +140,9 @@ open_questions:
   - The News24 account does not name the two women or report charges, custody orders or a court outcome.
   - The News24 account gives no separate seizure day beyond a Wednesday-morning arrival from Thailand; 4 November 2026 is retained from the existing report.
   - The ETV Bharat account says the pair was flown to Patna for further proceedings but does not say which agency took them or what charges, if any, were filed.
+  - The Hindustan Times gives the departure city as Chiang Mai, while the Times of India names Bangkok; this account agrees with the other Hindi-language sources on Chiang Mai.
+  - The Rs 10 crore international-market valuation is described as approximate and has not been officially confirmed, so no value is recorded.
+  - Security staff suspected 'suspicious items' before the search; the article does not say whether the bags were opened on site or whether the women were charged.
 ---
 
 Customs officers at Gaya International Airport arrested two women from Punjab
@@ -172,3 +175,5 @@ Officials said the women's permanent addresses in Punjab were still being verifi
 The Times of India reports that the accused were produced before the court of the chief judicial magistrate on Thursday, the day after the seizure. [@12] An official said security and intelligence agencies had stepped up surveillance at Gaya airport after the seizure to curb smuggling of narcotics, gold and foreign currency. [@12] Authorities said legal proceedings were under way and that they were still assessing the value of the seized consignment. [@12]
 
 Airport director Awadhesh Kumar said the women were kept overnight in the airport guest house under CISF guard because questioning and legal formalities had taken most of the day, and that they would be taken to Patna the next day. [@15]
+
+Hindustan Times says the women arrived from Chiang Mai International Airport on a Thai Airways flight, while the Times of India account names Bangkok as the departure city. [@6] The Hindustan Times page carries only a picture labelled as a representative file photo. [@6]
