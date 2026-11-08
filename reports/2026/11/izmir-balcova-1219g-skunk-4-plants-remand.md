@@ -88,6 +88,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-08
     language: tr
+  - title: İzmir’de Evinde Yasa Dışı Kenevir Yetiştiren Şüpheli Tutuklandı
+    url: https://tekha.com.tr/izmirde-evinde-yasa-disi-kenevir-yetistiren-supheli-tutuklandi
+    publisher: TEKHA Türkiye’nin Habercisi
+    date: 2026-11-08
+    language: tr
 open_questions:
   - The accounts give the raid date only as the previous day; 7 November 2026 is estimated from the 8 November 2026 publication date.
   - No weight or value was published for the 4 rooted plants, and no value was given for the seized skunk.
@@ -110,15 +115,16 @@ open_questions:
   - The submitted page address given in the request ends in "balcovada-belediye-baskan-vekili-selahattin-yi-7620864", a July 2026 Milliyet story on the election of a Balçova deputy mayor; the opened article text, title and canonical address are the DHA dispatch on the Balçova cannabis search, which is used here.
   - Anadolu Agency credits the dispatch to correspondent Metin Aydemir, while the accounts already cited attribute it to DHA; both carry the same İzmir provincial gendarmerie account.
   - The Hürriyet page gives no separate date for the raid; only the 8 November 2026 publication time is shown.
+  - Tekha carries the same İzmir provincial gendarmerie account as the DHA dispatch already cited, so it is not independent reporting.
 ---
 
 İzmir provincial gendarmerie teams determined that a suspect identified only as
 K.A. was illegally growing cannabis with a climate-control method in his home in
-Fevzi Çakmak Mahallesi, Balçova. [@1,3,4,5,6,7,8] Officers raided that address the previous
+Fevzi Çakmak Mahallesi, Balçova. [@1,3,4,5,6,7,8,9] Officers raided that address the previous
 day. [@1,5,6,8] K.A. was taken into custody and, after gendarmerie processing, was
 referred to the courthouse and remanded in custody. [@1,3,4,5,6,7,8]
 
-The search of the home seized 1 kilo 219 grams of skunk. [@1,3,4,5,7,8] Officers also
+The search of the home seized 1 kilo 219 grams of skunk. [@1,3,4,5,7,8,9] Officers also
 seized 4 rooted skunk plants. [@1,3,4,5,7,8] Officers also seized one drug-grinding device
 and various climate-control materials. [@1,3,4,5,8]
 
