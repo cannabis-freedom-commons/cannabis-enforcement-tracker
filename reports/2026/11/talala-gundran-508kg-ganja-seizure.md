@@ -57,6 +57,11 @@ open_questions:
   - The page photographs carry no captions or credits and could not be confirmed to show this seizure, so no media entry is added.
   - The value of about Rs 2.54 lakh is the outlet's stated valuation of the ganja, not a documented market rate.
   - The article also states that the man smoked ganja in a chillum and sold it in small quantities and that a case was registered at Talala police station under sections 8(C) and 20(b)(ii)B of the NDPS Act; only its summary paragraph could be read in full in the opened capture, so those details are left out of the text.
+  - The charge and cultivation details come from the same Divya Bhaskar account, not from an independent outlet or an official statement.
+  - No count of the plants police said the man grew was reported, so no plants or area figure is recorded.
+  - 'Left out, as its quotation was not found in Divya Bhaskar: Officers raided a house near the Ram Mandir in the village on a tip-off.'
+  - 'Left out, as its quotation was not found in Divya Bhaskar: Police said the detained man, a labourer, grew cannabis plants, smoked ganja in a chillum and sold it in small quantities.'
+  - 'Left out, as its quotation was not found in Divya Bhaskar: A case was registered at Talala police station against the accused under sections 8(C) and 20(b)(ii)B of the NDPS Act, India''s Narcotic Drugs and Psychotropic Substances Act.'
 ---
 
 Police seized 5.08 kg of ganja from Gundran village in Talala taluka, Gir
