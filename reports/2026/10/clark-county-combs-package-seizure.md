@@ -61,6 +61,10 @@ sources:
     url: https://www.newsbreak.com/the-winchester-sun-1672960/4977076992088-clark-county-sheriff-s-office-plays-active-role-in-the-arrest-of-suspect-charged-with-drug-trafficking-and-cultivation
     publisher: The Winchester Sun
     date: 2026-10-30
+  - title: Kentucky woman arrested after 37 lbs. of packaged marijuana delivered to home
+    url: https://www.yahoo.com/news/videos/kentucky-woman-arrested-37-lbs-135050018.html
+    publisher: Yahoo News (WLEX)
+    date: 2026-10-31
 open_questions:
   - The reports do not say whether the 136 pounds (61.7 kg) of marijuana seized includes the 37-pound (16.8 kg) mailed package.
   - No court date, plea, lawyer or outcome is reported.
@@ -73,14 +77,16 @@ open_questions:
   - WKYT says only that the arrest was on Thursday and does not give the calendar date.
   - The WKYT page has an embedded video player, but no recoverable video address and no captioned photo of the seizure.
   - The LEX 18 capture has no readable transcript or event-specific video; its headline is the only event-specific text.
+  - The submitted Yahoo/WLEX page is a 31-second video with no readable article text or transcript, so it corroborates the arrest and the 37-pound package only through its headline.
+  - No direct address for the WLEX video stream could be recovered from the submitted page, so no video link is listed.
 ---
 
 Clark County deputies arrested Kristina Combs on Thursday 29 October 2026 after
 she signed for a 37-pound (16.8 kg) package of marijuana delivered to her home.
 [@2,3,4] The package had been intercepted by Lexington police and was addressed to
-the home in Clark County, Kentucky. [@1,5] Officers from the Gateway Area Drug
+the home in Clark County, Kentucky. [@1,2,5] Officers from the Gateway Area Drug
 Task Force, the Clark County Sheriff's Office and Mount Sterling police
-delivered it themselves, and Combs signed for it. [@1,3] Officers then executed a
+delivered it themselves, and Combs signed for it. [@1,2,3] Officers then executed a
 search warrant at the address. [@1,3,5] She was charged with trafficking marijuana,
 cultivation of marijuana and trafficking a hallucinogen. [@1,3,5]
 
@@ -95,3 +101,5 @@ and ATF special agents, and works in the Appalachia High Intensity Drug
 Trafficking Area. [@1]
 
 The Clark County Sheriff's Office said Lexington police alerted it after the package was intercepted in Fayette County. [@3]
+
+WLEX also published a video item headlined "Kentucky woman arrested after 37 lbs. of packaged marijuana delivered to home" about the same arrest. [@6]
