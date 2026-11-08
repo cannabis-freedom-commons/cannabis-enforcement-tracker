@@ -462,6 +462,11 @@ sources:
     publisher: 三立娛樂星聞
     date: 2026-11-07
     language: zh
+  - title: 香港籍網紅Toyz涉販賣大麻菸彈 受刑假釋出獄遭驅逐出境
+    url: https://enn.tw/804494/
+    publisher: ENN台灣電報
+    date: 2026-11-08
+    language: zh
 open_questions:
   - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
   - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
@@ -606,16 +611,17 @@ open_questions:
   - The submitted page shows a prison-visit embrace photo during the livestream but gives no date for when it was taken.
   - The livestream's roughly 13,000 concurrent viewers describe entertainment activity, not the enforcement operation, so they are not recorded as figures.
   - The page's photos are Threads and livestream screenshots of the couple, not images of the deportation or the cannabis case, so no media entries are added.
+  - The deportation day is given only as (3)日; 3 November 2026 comes from the existing report and the surrounding 3 November 2026 accounts.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
-[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47,48,49,52,54,62] Prosecutors ordered deportation in place of protective supervision after
+[@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47,48,49,52,54,62,81] Prosecutors ordered deportation in place of protective supervision after
 the Taichung branch of the Taiwan High Court granted parole with protective
-supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33,36,37,38,42,45,46,47,48,49,50,52,54,55,63,64,71]
+supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,30,32,33,36,37,38,42,45,46,47,48,49,50,52,54,55,63,64,71,81]
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
