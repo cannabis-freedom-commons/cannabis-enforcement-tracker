@@ -51,6 +51,11 @@ sources:
     publisher: CNNBS.nl
     date: 2026-11-05
     language: nl
+  - title: 'Hennepkwekerij met 187 planten ontdekt in woning Almere Haven: stroom illegaal afgetapt'
+    url: https://drimble.nl/dossiers/crime/108499590/hennepkwekerij-met-187-planten-ontdekt-in-woning-almere-haven-stroom-illegaal-afgetapt.html
+    publisher: Drimble.nl
+    date: 2026-11-05
+    language: nl
 open_questions:
   - The article says the nursery was found on a Monday and was published on Wednesday 4 November 2026, so Monday is taken as 2 November 2026.
   - No arrests, named suspects or charges were reported; the specialist hemp team's investigation was still under way.
@@ -59,19 +64,20 @@ open_questions:
   - The new account says police found the nursery on a Tuesday, while the existing report dates the find to Monday 2 November 2026; the incident weekday therefore remains unresolved.
   - The new account says more than 187 plants (ruim 187 hennepplanten), while the existing report records 187 young plants, so the exact count and growth stage remain imprecise.
   - The submitted page carries a photo file with no caption, credit or alt text confirming it shows this nursery, so no media entry can be supported from the opened evidence.
+  - Drimble states that a specialised hemp team is investigating ('Een gespecialiseerd hennepteam onderzoekt...'), but the sentence is cut off.
 ---
 
 On Monday, police officers found a cannabis nursery inside a house in Almere
 Haven, in the city of Almere. [@1] Officers of the force's specialist hemp team,
 the police unit for cannabis cultivation, started an investigation into the
-people behind that nursery. [@1,2]
+people behind that nursery. [@1,2,4]
 
 That house was specifically identified as a dwelling on the Hofmark in Almere
 Haven. [@1,2,3] Inside that dwelling, the officers counted a total of 187 young
-cannabis plants growing there as part of the nursery operation. [@1,2,3] The
+cannabis plants growing there as part of the nursery operation. [@1,2,3,4] The
 officers also observed that the electricity for the nursery was being tapped
-illegally at the property. [@1,2] Following the discovery, the entire nursery
-installation was dismantled and all of the plants were destroyed. [@1]
+illegally at the property. [@1,2,4] Following the discovery, the entire nursery
+installation was dismantled and all of the plants were destroyed. [@1,4]
 
 According to a local neighbourhood officer, the police had previously received
 information indicating that something was going on inside that particular house
