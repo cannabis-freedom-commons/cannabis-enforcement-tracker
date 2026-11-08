@@ -74,6 +74,10 @@ sources:
     publisher: Dinamani
     date: 2026-11-08
     language: ta
+  - title: Five held for bid to implicate man by planting ganja in Sivaganga
+    url: https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/08/five-held-for-bid-to-implicate-man-by-planting-ganja-in-sivaganga
+    publisher: The New Indian Express
+    date: 2026-11-08
 open_questions:
   - The Hindu gives no separate date for the placement of the packet or the five arrests; 5 November 2026 is used, taken from The Times of India, which says the packet was planted on 5 November, and from Dinamalar, which dates it to 5 November.
   - No weight, quantity or value of the ganja was published, so no cannabis weight is recorded.
@@ -111,7 +115,7 @@ media:
 
 Five people were arrested near Tiruppattur for allegedly planting a packet of
 ganja at the grocery shop of Rajkumar, an activist who had campaigned against a
-local liquor outlet, to frame him. [@1,8] According to CCTV footage reviewed by
+local liquor outlet, to frame him. [@1,8,10] According to CCTV footage reviewed by
 Rajkumar, two men posed as customers and dropped the packet at his shop, and two
 plainclothes prohibition officers arrived in a private vehicle about five
 minutes later. [@1,4]
@@ -148,4 +152,4 @@ The DMK party said it stands firmly with the trader harmed by police planting ga
 
 The DMK's head office said the police, which it said once hunted cannabis sellers, had become a department that stores cannabis, and said the force was used against the trader who campaigned against a TASMAC outlet instead of against a TVK functionary it accuses of trafficking 1,000 crore rupees of methamphetamine, while the Chief Minister tells students that drugs are fun. [@7] The Hindu reported that officers from the Sivaganga prohibition enforcement wing recovered the packet from a nearby drainage ditch, and that it held ganja and gutka, a chewing tobacco. [@1] The Hindu reported that villagers had petitioned repeatedly against the liquor shop and its attached bar, blockaded the road on November 4 demanding its closure, and were then promised by officials that it would be relocated within ten days. [@1]
 
-The four adults were remanded to judicial custody, while the 17-year-old was produced before the Juvenile Justice Board and sent to an observation home. [@8,9] Police said Periya Chokkanathan, who had an earlier enmity with Rajkumar, bought 5 grams of ganja from Sundar and 750 grams of banned tobacco from Jayamoorthy, and arranged with Rajapandi and the boy to place them near a canal opposite Rajkumar's grocery shop. [@8,9] A case was registered under the Narcotic Drugs and Psychotropic Substances Act, the Cigarettes and Other Tobacco Products Act and the Bharatiya Nyaya Sanhita. [@8]
+The four adults were remanded to judicial custody, while the 17-year-old was produced before the Juvenile Justice Board and sent to an observation home. [@8,9,10] Police said Periya Chokkanathan, who had an earlier enmity with Rajkumar, bought 5 grams of ganja from Sundar and 750 grams of banned tobacco from Jayamoorthy, and arranged with Rajapandi and the boy to place them near a canal opposite Rajkumar's grocery shop. [@8,9,10] A case was registered under the Narcotic Drugs and Psychotropic Substances Act, the Cigarettes and Other Tobacco Products Act and the Bharatiya Nyaya Sanhita. [@8]
