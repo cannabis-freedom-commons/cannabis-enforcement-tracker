@@ -35,6 +35,10 @@ sources:
     url: https://queencitynewsfeed.com/news/2026-11-04/authorities-seize-more-than-1000-pounds-of-illegal-thc-kratom-products-in-metro-raids/
     publisher: Queen City Newsfeed
     date: 2026-11-04
+  - title: Kratom, THC products seized in Madison, R'land raids
+    url: https://www.onlinemadison.com/news/multi-agency-sweep-executes-14-warrants-across-madison-rankin-and-hinds-counties-a335d6b6
+    publisher: Madison County Journal
+    date: 2026-11-04
 open_questions:
   - Officials did not say how many people were arrested or name any suspect, so no arrest count is recorded.
   - No charges were announced against any person or business, and the investigation was ongoing with more arrests expected.
@@ -44,24 +48,26 @@ open_questions:
   - The article names the Madison police chief only by initials, M.E. Waldrop, and gives no full name.
   - The article says the raids happened Monday, 2 November 2026, but was published on 4 November and gives no time for the warrants.
   - The page's images have no captions or credits identifying them as showing the raids, so no media entry is drawn from them.
+  - This account names the Madison police chief as Gene Waldrop, while the existing report names M.E. Waldrop, leaving the full name unresolved.
+  - The page's only listed image is captioned as AI-generated police lights and does not show the raids, so no media entry is added from this source.
 ---
 
 Police served search warrants at 14 locations across the Jackson metro area on
-Monday 2 November 2026, the Mississippi Department of Public Safety said. [@1]
+Monday 2 November 2026, the Mississippi Department of Public Safety said. [@1,2]
 Agents and officers served the warrants in Madison, Rankin and Hinds counties as
 part of Operation Preferred Purp, a six-month investigation that included
-undercover buys. [@1] Officials did not say how many people had been arrested,
-and said more arrests were expected. [@1]
+undercover buys. [@1,2] Officials did not say how many people had been arrested,
+and said more arrests were expected. [@1,2]
 
 Agents seized more than 800 pounds of THC products that were packaged and sold
-as legal goods in stores across Mississippi. [@1] Investigators said some of the
+as legal goods in stores across Mississippi. [@1,2] Investigators said some of the
 products were headed to other states to be resold. [@1] Agents also seized more
 than 200 pounds of products labeled as kratom, which officials believe contain
 drugs banned under federal law, including MGM-15, MGM-16 and mitragynine
-pseudoindoxyl. [@1] The kratom-labeled weight is a separate substance group and
+pseudoindoxyl. [@1,2] The kratom-labeled weight is a separate substance group and
 is not counted in the THC-product figure. [@1] The seized products will be
 turned over to the U.S. Drug Enforcement Administration and Homeland Security
-Investigations for further investigation. [@1]
+Investigations for further investigation. [@1,2]
 
 Rankin County Sheriff Bryan Bailey said the products were a danger to teenagers
 and young adults. [@1] Public Safety Commissioner Bo Luckey said the operation
@@ -73,3 +79,4 @@ Office, the Commercial Transportation Enforcement Division, the Mississippi
 Bureau of Homeland Security, the Mississippi Bureau of Investigation, Capitol
 Police, Homeland Security Investigations and the DEA. [@1]
 
+Chief Bryan Myers confirmed no seizures or arrests were made in Ridgeland. [@2]
