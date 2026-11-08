@@ -33,23 +33,28 @@ sources:
     url: https://www.herefordtimes.com/news/26691033.leominster-woman-guilty-heroin-cannabis-destroyed/
     publisher: Hereford Times
     date: 2026-11-08
+  - title: Leominster woman guilty and heroin and cannabis destroyed
+    url: https://www.ledburyreporter.co.uk/news/26705801.leominster-woman-guilty-heroin-cannabis-destroyed/
+    publisher: Ledbury Reporter
+    date: 2026-11-08
 open_questions:
   - No weight or quantity was given for the cannabis, so no kilograms can be recorded.
   - The 80-pound fine, 85 pounds in costs and 32-pound surcharge were imposed for the heroin offence, and no separate penalty was imposed for cannabis, so no fine is recorded as a cannabis figure.
   - The report uses October 30, 2026, the date of the guilty pleas and sentence, as the incident date; the possession was on July 21, 2026.
   - Only one accessible account of this case was found after searching in English.
   - The page image is captioned as a Pexels stock photo and does not show this event, so no media entry is included.
+  - The page image is captioned as a Pexels stock picture and does not show this event, so no media entry is added.
+  - This Ledbury Reporter page and the Hereford Times page already cited carry the same story and byline, so they are one account published by two sister titles, not independent reporting.
 ---
 
 Jesscia Soffe, 46, of New Street in Leominster, appeared before magistrates
-charged with possession of a Class A drug and possession of a Class B drug. [@1]
+charged with possession of a Class A drug and possession of a Class B drug. [@1,2]
 On July 21, 2026, she was found in possession of diamorphine, commonly known as
 heroin, and cannabis in Leominster, Herefordshire. [@1] She indicated guilty
-pleas to both charges on October 30, 2026. [@1]
+pleas to both charges on October 30, 2026. [@1,2]
 
 For the heroin offence, magistrates ordered the forfeiture and destruction of
 the diamorphine and imposed a fine of 80 pounds, plus 85 pounds in Crown
 Prosecution Service costs and a 32-pound victim surcharge. [@1] For the cannabis
 offence, the court ordered the forfeiture and destruction of the drug and
-imposed no separate penalty after taking the guilty plea into account. [@1]
-
+imposed no separate penalty after taking the guilty plea into account. [@1,2]
