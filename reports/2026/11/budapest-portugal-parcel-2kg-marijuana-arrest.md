@@ -67,6 +67,11 @@ sources:
     publisher: Infostart.hu
     date: 2026-11-08
     language: hu
+  - title: Drogot rejtett a ruhacsomag
+    url: https://10.kerulet.ittlakunk.hu/bunesetek/261108/drogot-rejtett-a-ruhacsomag
+    publisher: ittlakunk.hu
+    date: 2026-11-08
+    language: hu
 open_questions:
   - The marijuana weight is stated only as more than 2 kilograms, so figures record the stated lower bound of 2 kg.
   - The reported value of more than 15 million forints covers all seized drugs together, so it is kept in the text and omitted from cannabis value figures.
@@ -101,24 +106,24 @@ media:
 ---
 
 Budapest police identified the recipient of a parcel sent from Portugal to
-Hungary as a 34-year-old Chinese man. [@1,2,4] On the morning of 2 November officers
-caught him in his car in Budapest's District X. [@1,2,4] A 25-year-old Vietnamese
+Hungary as a 34-year-old Chinese man. [@1,2,4,6] On the morning of 2 November officers
+caught him in his car in Budapest's District X. [@1,2,4,6] A 25-year-old Vietnamese
 man was also in the car, and a court had already been seeking him over an
-earlier offence. [@1,3,4] Investigators detained both men. [@1,3,4] Rapid drug tests on
+earlier offence. [@1,3,4,6] Investigators detained both men. [@1,3,4] Rapid drug tests on
 the two men were both positive, indicating cocaine in one of them and
-amphetamine in the other. [@1,2,4] Both men were questioned on suspicion of the
+amphetamine in the other. [@1,2,4,6] Both men were questioned on suspicion of the
 felony of drug trafficking and then taken into custody, and the court ordered
-their detention at the police's request. [@1,2,4,5]
+their detention at the police's request. [@1,2,4,5,6]
 
 The parcel had been stopped at a Budapest control on 28 October after being
-declared only with the Portuguese word “roupas”, meaning clothing. [@1,2,4,5] Inside,
+declared only with the Portuguese word “roupas”, meaning clothing. [@1,2,4,5,6] Inside,
 the authorities found more than 2 kilograms of green plant material that rapid
-testing and a preliminary expert examination identified as marijuana. [@1,3,4]
+testing and a preliminary expert examination identified as marijuana. [@1,3,4,6]
 Police then searched the Chinese man's car and flat, seizing more than 100 grams
 of white powder that rapid testing indicated was cocaine, along with tablets and
-pink powder whose exact composition the police statement did not report. [@1,2,4]
+pink powder whose exact composition the police statement did not report. [@1,2,4,6]
 Police estimated the total black-market value of all the seized drugs at more
-than 15 million forints. [@1,2,4]
+than 15 million forints. [@1,2,4,6]
 
 The cannabis travelled by parcel post from Portugal to Hungary. [@1,3,4]
 
