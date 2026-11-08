@@ -80,6 +80,11 @@ sources:
     publisher: 365info.kz
     date: 2026-11-08
     language: ru
+  - title: Пьяного водителя с марихуаной задержали в Риддере
+    url: https://kazlenta.kz/123000-pyanogo-voditelya-s-marihuanoy-zaderzhali-v-riddere.html
+    publisher: Лента новостей Казахстана - Kazlenta.kz
+    date: 2026-11-07
+    language: ru
 open_questions:
   - The article gives no separate date for the stop; 7 November 2026 is its publication date and is used as the incident date.
   - The weight is stated only as more than 35 grams, and no street value was published.
@@ -93,17 +98,19 @@ open_questions:
   - YK.KZ credits its video to the East Kazakhstan Region police department; the page's own illustration is credited to pixabay.com and is not linked.
   - The 365info.kz page carries a publication timestamp of 8 November 2026, a day after the existing report's 7 November 2026 date; neither page gives a separate date for the stop itself.
   - The page carries two photos credited to Polisia.kz whose captions repeat only the article title, so their exact depicted content was not established and no photo is linked.
+  - Kazlenta.kz gives no separate date for the stop; 7 November 2026 is its own publication date, matching the existing report's incident date.
+  - The Kazlenta.kz page is a reprint of the Polisia.kz statement in the same wording and adds no facts, charge or court outcome.
 ---
 
 Police in Ridder, in Kazakhstan's East Kazakhstan Region, stopped a Toyota
 Caldina during preventive patrol measures and detained its driver, a 34-year-old
-local resident. [@1,2,3,4,5] Officers thought the driver's condition unusual, and a
+local resident. [@1,2,3,4,5,6] Officers thought the driver's condition unusual, and a
 medical examination confirmed he was under the influence of drugs. [@1,2,3,4,5] While
 searching the car's interior they found a packet of brownish-green substance in
 the man's bag. [@1,2,3,4,5] Forensic testing identified the substance as marijuana
-weighing more than 35 grams. [@1,2,3,4,5]
+weighing more than 35 grams. [@1,2,3,4,5,6]
 
 A criminal case was opened over the finding, and the car was taken to a
-specialist impound lot. [@1,2,3,4,5] The report carried no charge, court outcome or
+specialist impound lot. [@1,2,3,4,5,6] The report carried no charge, court outcome or
 explanation from the driver, and police used it to warn that an intoxicated
 driver is a danger to everyone on the road. [@1,2]
