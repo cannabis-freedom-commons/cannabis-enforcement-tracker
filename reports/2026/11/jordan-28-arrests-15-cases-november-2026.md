@@ -75,6 +75,11 @@ sources:
     url: https://petra.gov.jo/en/news/police-arrest-28-in-nationwide-drug-crackdown-foil-smuggling-attempts
     publisher: The Jordan News Agency (Petra)
     date: 2026-11-08
+  - title: ضربة أمنية لتجار المخدرات.. الإطاحة بـ28 تاجراً ومروجاً في 15 قضية نوعية
+    url: https://nabaajordan.com/articles/512918
+    publisher: نبأ الأردن
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -97,11 +102,13 @@ open_questions:
   - The English Petra release puts the further Amman hashish seizure at 25 slabs, while other accounts of the same roundup give no slab count or weight for that seizure.
   - The English release gives no separate date for the raids, stating only that they ran over the preceding days; 8 November 2026 is its publication date and stands in for the incident date.
   - The English Petra text carries the same Public Security Directorate statement as the report's Arabic sources, so it corroborates rather than independently reports the roundup.
+  - Nabaa Jordan carries the same Public Security Directorate statement as the outlets already cited, so it corroborates rather than independently reports the roundup.
+  - The page shows one news image captioned only with the story headline and no credit identifying what it depicts, so it is not listed as media.
 ---
 
 Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
 officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7]
+and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8]
 
 In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
 capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6]
@@ -111,7 +118,7 @@ pills. [@1,5] South of Amman, officers raided a tent that three people used to
 trade, store and push drugs, arresting all three and seizing 2 kilograms of
 marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
 methamphetamine. [@1,3,4,5,6,7] Officers arrested three people in the last Amman case with
-2,600 grams of marijuana. [@1,5,6,7] In the second Amman case three people were raided
+2,600 grams of marijuana. [@1,5,6,7,8] In the second Amman case three people were raided
 inside a flat they used to store drugs for sale, and officers seized 6,000 pills
 and a quantity of hashish. [@1,5] In a farm south of the capital officers arrested
 two pushers with 200 grams of crystal methamphetamine, 200 grams of cocaine and
