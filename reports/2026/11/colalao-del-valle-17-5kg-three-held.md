@@ -53,31 +53,38 @@ sources:
     publisher: Enterate Noticias
     date: 2026-11-06
     language: es
+  - title: Tres catamarqueños fueron detenidos en Tucumán con 17,5 kilos de marihuana
+    url: https://www.launion.digital/policiales/tres-catamarquenos-fueron-detenidos-tucuman-175-kilos-marihuana-n245874
+    publisher: La Unión Digital
+    date: 2026-11-06
+    language: es
 open_questions:
   - The report gives no calendar date, only that the check happened "este jueves" (this Thursday); the article was published on 6 November 2026, so Thursday 5 November 2026 is used.
   - Tucumán police did not state a weight per package, location of origin or destination of the load, which investigators were still trying to establish.
   - No street value, charges sheet or court outcome beyond the incommunicado detention and seizures was published.
   - Only one account of this event could be opened; searches found no second outlet reporting or police statement.
   - The page photo is captioned only "colalao marihuana" and is not established to show this exact seizure, so it is linked rather than used as a cover.
+  - The new account says the weight exceeded 17.5 kilos and gives no street value; the existing report keeps 17.5 kilos.
+  - The page picture carries only the credit 'Foto gentileza La Gaceta' with no caption confirming it shows this seizure, so no media entry is added.
+  - The article gives no separate calendar date beyond 'este jueves'; Thursday 5 November 2026, consistent with the existing report and the publication date, is used.
 ---
 
 Tucumán provincial police detained three men who live in Catamarca province
 carrying 17.5 kilos of marijuana hidden inside a vehicle at the Colalao del
-Valle border post. [@1] The check took place on Thursday at a control post on
+Valle border post. [@1,2] The check took place on Thursday at a control post on
 the border trace under Operativo Lapacho, a standing provincial operation, and
-officers stopped a Ford EcoSport carrying the three suspects. [@1]
+officers stopped a Ford EcoSport carrying the three suspects. [@1,2]
 
 After asking for the vehicle's documents and searching it before witnesses,
 officers found two black travel bags holding 16 rectangular packages wrapped in
-yellow tape. [@1] Police said the find kept the load out of local distribution
+yellow tape. [@1,2] Police said the find kept the load out of local distribution
 networks. [@1]
 
 The Federal Court No. 2 of Tucumán was notified and ordered chemists of the
 Didrop, the provincial drug police directorate for the west of the province, to
 run field confirmation tests. [@1] The court ordered the three men held
 incommunicado and the preventive seizure of the EcoSport and of four mobile
-phones found in the cabin. [@1] The case was filed for alleged infringement of
+phones found in the cabin. [@1,2] The case was filed for alleged infringement of
 National Narcotics Law No. 23,737, Argentina's drug law, while investigators
 analyse the phone lines to establish where the load came from and where it was
-going. [@1]
-
+going. [@1,2]
