@@ -71,6 +71,11 @@ sources:
     publisher: Ajker Patrika
     date: 2026-11-02
     language: bn
+  - title: মেহেরপুরের দুই সীমান্তে ভারতীয় মালামাল উদ্ধার
+    url: https://nagorik.com/278951/
+    publisher: NAGORIK TV
+    date: 2026-11-02
+    language: bn
 open_questions:
   - The drives occurred overnight around 2:00 a.m., with the Bengali source attributing them to the night of 1 November and the English source splitting them between Saturday and Sunday around 2:00 a.m.; 1 November 2026 is used as the incident date.
   - No arrests, detentions, names or court outcomes were reported; all seizures were described as unclaimed.
@@ -81,12 +86,13 @@ open_questions:
   - Ajker Patrika places both drives on the night of Sunday 1 November, while the tracker's English source split them between Saturday and Sunday around 2:00 a.m.
   - Ajker Patrika publishes no value estimate for the drugs and names no arrests or detentions.
   - The page's image caption credits the photo only as collected, with no photographer or agency named.
+  - The NAGORIK TV report describes the drives as taking place at dawn on Monday 2 November, while the report's existing sources date the cannabis recovery to about 2:00 a.m. Saturday and the syrup and liquor recovery to about 2:00 a.m. Sunday; 1 November remains the recorded incident date.
 ---
 
 Border Guard Bangladesh's Kushtia Battalion (47 BGB) carried out separate
-anti-drug and anti-smuggling drives on the Meherpur border. [@1,3] All of the
+anti-drug and anti-smuggling drives on the Meherpur border. [@1,3,6] All of the
 recovered drugs were found unclaimed, and no suspects were reported detained in
-these drives. [@1,3,5]
+these drives. [@1,3,5,6]
 
 A Dhola Border Outpost patrol recovered 18 kg of unclaimed Indian hemp at Dholar
 Math, which BGB valued at Tk 63,000. [@1,3,5] The same cannabis recovery is
