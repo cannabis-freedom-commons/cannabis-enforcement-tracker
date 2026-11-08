@@ -39,12 +39,6 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://ru.apa.az/proisshestvie/sgb-zaderzala-v-bilyasuvare-lic-zanimavsixsya-kontrabandoi-narkotikov-s-pomoshhyu-drona-682508
-    media_url: https://ru.apa.az/storage/news/2026/november/05/big/6aec42c2d0dd26aec42c2d0dd317938684826aec42c2d0dd06aec42c2d0dd1.webp
-    publisher: APA
-    caption: Picture published with APA's report on the State Security Service operation in Bilasuvar District; the outlet gives no credit and the caption only repeats the headline, so it is not established to show the seized drugs.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b027d854464030b903892875b1a0f337

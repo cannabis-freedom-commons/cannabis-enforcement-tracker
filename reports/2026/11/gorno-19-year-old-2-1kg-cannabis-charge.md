@@ -55,11 +55,6 @@ media:
     media_url: https://v.wpimg.pl/NzMzYjAxYRssGC9ZbgNsDm9AewMoWmJYOFhjSG5BfUI1T2tSbh4nFigIPBouVikIOAo4HTFWPhZiGykDbg5_VSkTKhotGTdVKBc7DyVXfhl8Hj1ZJRljHHRDbkd1THwYYEI6CHZVLx95SW5Zchp-S3pPexc
     publisher: WP Info
     caption: Lead photo published with the Górno seizure report, captioned only 'Fot. Licencjodawca' (license holder photo), with no agency credit; it is not established to show the secured drugs.
-  - kind: photo
-    url: https://informacje.wp.pl/wiadomosci/blisko-4-kg-narkotykow-na-posesji-w-gminie-gorno-19-latek-uslyszal-zarzut-7348130863786432a
-    media_url: https://v.wpimg.pl/MjUwLmpwYgs0FTpeXwxvHndNbg4AHxIHNBovT1xVOEhvVWNfQUB8UmVYfVpJRHVcYkN_WkVAeUUBGD4YHjQMJxAlBSAxMAhHZkd8FUJCfUQ_BytPDQ
-    publisher: WP Info
-    caption: Second picture in the Górno report, uncaptioned and uncredited; it is not established to show this seizure.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 7d4c1cad6e1341c705e37a5581a2870a

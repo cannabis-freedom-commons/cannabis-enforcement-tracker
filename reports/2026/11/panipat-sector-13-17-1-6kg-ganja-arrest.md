@@ -39,12 +39,6 @@ data_sources:
   figures.arrested: [1]
   figures.charged: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://www.amarujala.com/haryana/panipat/anc-raid-in-samalkha-accused-arrested-with-160-kg-of-cannabis-in-sector-13-17-panipat-news-c-244-1-pnp1001-167269-2026-11-07
-    media_url: https://staticimg.amarujala.com/assets/images/2021/10/20/panipat_1634712371.jpeg?w=674&dpr=2.0&q=80
-    publisher: Amar Ujala
-    caption: The page picture used for the Panipat cannabis arrest report; it is a general Panipat image, not established to show this seizure.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a088f31b5c0604b575508625403eab60

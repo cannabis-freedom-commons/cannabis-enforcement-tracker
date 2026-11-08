@@ -33,12 +33,6 @@ data_sources:
   details.setting: [1]
   figures.plants_destroyed: [1]
   figures.sites: [1]
-media:
-  - kind: photo
-    url: https://www.bta.bg/bg/news/bulgaria/1222502-politsai-ot-gorna-oryahovitsa-izzeha-12-rasteniya-ot-roda-na-konopa-ot-selski-im
-    media_url: https://www.bta.bg/upload/11387379/20250704_101020.jpg?l=1000&original=
-    publisher: БТА
-    caption: 'The page picture carrying the headline about the Paisiy find; it is credited to the BTA Veliko Tarnovo correspondent as an archive image, so it is not confirmed to show this property or these plants. Photo: Николай Венков / БТА (archive)'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2dab399d78c9c14d9acf941949ececb1

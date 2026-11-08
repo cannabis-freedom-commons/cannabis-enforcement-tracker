@@ -35,11 +35,6 @@ media:
     media_url: https://statics.cedscdn.it/photos/PANORAMA_HIGH/2026/11/07/9875719_07190809_image.jpg
     publisher: Corriere Adriatico
     caption: Photograph captioned only "Le indagini svolte dalla polizia" and published with the Corriere Adriatico account of the arrest; neither caption nor credit states which scene it depicts.
-  - kind: photo
-    url: https://www.centropagina.it/pesaro/cronaca-hashish-contanti-sotto-materasso-tunisino-arrestato/
-    media_url: https://www.centropagina.it/wp-content/uploads/2026/08/poliziapesaro-1280x720.jpg
-    publisher: CentroPagina
-    caption: Police photograph published with the CentroPagina account of the arrest; the file dates from August 2026 and the page gives no caption or credit, so it is not confirmed to show this seizure.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 61ee412131fc29446e9502a7678570ad

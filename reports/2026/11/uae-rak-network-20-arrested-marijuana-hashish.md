@@ -65,11 +65,6 @@ media:
       The page's feature image, captioned as the seizing of an international network accused of
       smuggling Captagon and drugs into the UAE; the page gives no credit and the picture is not
       established to show this seizure.
-  - kind: photo
-    url: https://russianemirates.com/news/uae-news/v-oae-zaderzhali-chlenov-mezhdunarodnogo-narkokartelya/
-    media_url: https://russianemirates.com/assets/thumbnails/38/384d967355665f9242740bdc507a1d90.jpg.webp
-    publisher: Русские Эмираты
-    caption: The page's main picture, captioned as the UAE and Kuwait breaking up an international drug cartel; the page gives no credit. It is not established to show this seizure.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 046f618050dae4ea03e407090bc5a422

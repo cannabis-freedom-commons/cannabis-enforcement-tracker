@@ -29,11 +29,6 @@ media:
     publisher: Policenama (Instagram)
     caption: 'Policenama''s Instagram clip on the Pune airport seizure of hydroponic ganja from a Bangkok passenger; only its cover frame is available as an address. Video: Policenama'
   - kind: photo
-    url: https://deshdoot.com/hydroponic-cannabis-worth-rs-3-72-crore-seized/
-    media_url: https://deshdoot.com/wp-content/uploads/2026/11/ganja-5-nov-26-696x392.webp
-    publisher: Deshdoot
-    caption: 'Photo captioned ''ganja 5 nov 26'' used to illustrate the Deshdoot report on the hydroponic ganja seized at Pune airport. Photo: Deshdoot'
-  - kind: photo
     url: https://www.mid-day.com/news/india-news/article/une-customs-bust-novel-drug-smuggling-method-seize-10-6-kg-of-ganja-from-bangkok-passenger-23658759
     media_url: https://images.mid-day.com/images/images/2026/nov/napps_1793940762394_d.jpg
     publisher: Mid-Day

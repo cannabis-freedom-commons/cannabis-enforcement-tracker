@@ -48,12 +48,6 @@ data_sources:
   figures.kg_seized: [1, 2]
   figures.plants_destroyed: [1]
   figures.value: [1]
-media:
-  - kind: photo
-    url: https://www.kathimerini.gr/society/564339058/fthiotida-entopistike-megali-fyteia-kannavis-me-pano-apo-4-600-dendryllia-treis-syllipseis/
-    media_url: https://www.kathimerini.gr/wp-content/uploads/2026/07/swm-4969088-1-2-1-1200x630.jpg
-    publisher: Η Καθημερινή
-    caption: 'Police handout photo published with the Fthiotida plantation announcement; the paper labels it a file photo (Φωτ. αρχείου: ΙΝΤΙΜΕ) and it is not established to show this plot.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1ab4c3d15f45b9cd052188fb2ad0de58

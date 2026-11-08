@@ -28,12 +28,6 @@ data_sources:
   details.products: [3, 2, 1]
   details.setting: [1, 3, 2]
   figures.arrested: [1, 2]
-media:
-  - kind: photo
-    url: https://kapitalis.com/tunisie/2025/01/07/trafic-de-cannabis-de-cocaine-un-dealer-arrete-a-la-marsa/
-    media_url: https://kapitalis.com/tunisie/wp-content/uploads/2024/05/arrestation-DGSN-1160x560.jpg
-    publisher: Kapitalis
-    caption: 'Kapitalis article image for the La Marsa arrest report, titled "arrestation DGSN" and stored under a 2024 file path; it appears to be a file picture of a police arrest rather than a photograph of this operation. Photo: Kapitalis'
 status: reported
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 61af5e861b0ed371bc2b6c4a93436fb7

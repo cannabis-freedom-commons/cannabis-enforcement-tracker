@@ -37,12 +37,6 @@ data_sources:
   details.setting: [1]
   figures.charged: [1]
   figures.kg_seized: [1]
-media:
-  - kind: photo
-    url: https://portamur.ru/news/detail/amurchanin-s-konopley-v-chujom-avto-pyitalsya-skryitsya-ot-politsii-no-ugodil-v-dtp/
-    media_url: https://portamur.ru/upload/iblock/adc/27nmrgn1swqmwv91srljia73p9kzpsbp/politsiya_.jpg
-    publisher: Порт Амур
-    caption: 'Police archive photo published with the account of the abandoned car and the marijuana found in its boot. Photo: УМВД России по Амурской области'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cb496d06e4a1912126cad6b2a463ef3a

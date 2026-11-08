@@ -39,12 +39,6 @@ data_sources:
   details.setting: [1]
   figures.charged: [1]
   figures.prison: [1]
-media:
-  - kind: photo
-    url: https://www.oxfordmail.co.uk/news/26706789.oxford---albanian-man-sentenced-dangerous-driving-busy-road/
-    media_url: https://www.oxfordmail.co.uk/resources/images/20935251.jpg?type=mds-article-962
-    publisher: Oxford Mail
-    caption: 'Abingdon Road in Oxford, where the man was seen driving, shown in a stock photograph. Photo: Matthew Evans'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 09a89be72780e7f6a67e76415a529f3e

@@ -43,12 +43,6 @@ data_sources:
   figures.charged: [1]
   figures.prison: [1]
   figures.value: [1]
-media:
-  - kind: photo
-    url: https://www.bbc.com/news/world-europe-isle-of-man-58565249
-    media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/C728/production/_114548905_postalheadquarters.jpg.webp
-    publisher: BBC News
-    caption: 'The Isle of Man Post Office headquarters building, used to illustrate the report; staff at the Spring Valley sorting office identified the parcel. Photo: BBC News'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4451c8e714d24f90ffd22371f215ac6d

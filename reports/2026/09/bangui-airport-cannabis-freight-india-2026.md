@@ -32,12 +32,6 @@ data_sources:
   details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
-media:
-  - kind: photo
-    url: https://corbeaunews-centrafrique.org/trafic-de-drogue-a-laeroport-de-bangui-le-dossier-du-cannabis-retrouve-sur-un-vol-ethiopian-airlines-au-coeur-de-nouvelles-revelations/
-    media_url: https://pub-60c91a8283464ff6bb67f86d052ab093.r2.dev/2026/09/un-avion-de-kenya-airways-sur-le-tarmac-de-l-aeroport-international-de-bangui-m-poko-avec-des-bus-d-embarquement-a-proximite-photo-cnc-696x464.webp
-    publisher: Corbeau News Centrafrique
-    caption: 'Tarmac and boarding buses at Bangui M''Poko International Airport, used to illustrate the report on the cannabis freight case. Photo: CNC'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: bd530103a9b0d87dd81e821e470d1fb5

@@ -35,12 +35,6 @@ data_sources:
   details.setting: [1]
   figures.arrested: [1]
   figures.cash: [1]
-media:
-  - kind: photo
-    url: https://www.ouest-france.fr/societe/justice/niort-1270-en-liquide-et-un-peu-de-resine-de-cannabis-sur-lui-il-attendra-en-prison-d-etre-juge-2e26b3b4-c225-11eb-b272-500c49682f10
-    media_url: https://media.ouest-france.fr/v1/pictures/MjAyMTA2YjRhZDI3ZTM3YzE2YTJiMDRiN2Q2OWU4MDBjZjhmMzM?width=1260&height=708&focuspoint=50%2C50&cropresize=1&client_id=bpeditorial&sign=97d42cdd03822cb3d542930e1ff87efa17627d7614d28c70fcaadc646d70b4f9
-    publisher: Courrier de l'Ouest
-    caption: 'Archive picture used to illustrate the remand of the man charged in this Niort case; the caption does not state that the man pictured is the accused. Photo: Archives CO – Marie Delage'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6dbdd2bc8b0cca442acf9c8e8c67d532

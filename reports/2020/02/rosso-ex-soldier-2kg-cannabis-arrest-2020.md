@@ -26,12 +26,6 @@ data_sources:
   details.setting: [2, 1, 5]
   figures.arrested: [2, 1, 5]
   figures.kg_seized: [2]
-media:
-  - kind: photo
-    url: https://www.leral.net/Chanvre-indien-Un-ancien-militaire-senegalais-arrete-avec-2-kg-en-Mauritanie_a269276.html
-    media_url: https://www.leral.net/photo/art/default/42405882-35366338.jpg?v=1580677896
-    publisher: Leral.net
-    caption: Photo used by Leral.net with its report on the arrest of a former Senegalese soldier with 2 kg of chanvre indien in Mauritania; the page gives no caption, credit or photographer, so it is not established that the picture shows this arrest.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 820ec86dcf26b22f7a88b4dbd1d62f7b

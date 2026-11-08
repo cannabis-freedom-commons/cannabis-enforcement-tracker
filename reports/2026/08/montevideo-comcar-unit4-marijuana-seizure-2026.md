@@ -53,11 +53,6 @@ media:
     media_url: https://www.gub.uy/ministerio-interior/sites/ministerio-interior/files/styles/documento/public/imagenes/noticias/UIAP%203.jpg?itok=HVoiCoIC
     publisher: Ministerio del Interior
     caption: 'Another of the ministry''s gallery photos of what was seized at Unit 4 of the INR. Photo: Ministerio del Interior'
-  - kind: photo
-    url: https://ladiaria.com.uy/justicia/articulo/2026/8/se-incautaron-17-kilos-de-droga-en-el-ex-comcar/
-    media_url: https://ladiaria.com.uy/media/photologue/photos/cache/RS233634_20240809MQ_1229-lpr_1200w.webp
-    publisher: la diaria
-    caption: 'Archive photo of the former Comcar prison from August 2024, used to illustrate the Unit 4 seizure. Photo: Mara Quintero'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: af74f7e256bbfea9530f69df3875523b

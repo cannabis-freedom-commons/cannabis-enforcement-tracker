@@ -60,12 +60,6 @@ open_questions:
   - The page photo is captioned as an illustration and shows the man concerned, not the roadside check.
   - The submitted page attributes the stop to Ouest-France; Ouest-France's own article could not be opened, so it is cited here only from its search-result headline and the Autonews account.
   - The Autonews page illustration is credited to the Landes national police's Facebook page and is captioned only as an illustration; it does not show this stop.
-media:
-  - kind: photo
-    url: https://www.autonews.fr/buzz/un-homme-traque-par-la-justice-positif-au-cannabis-et-au-volant-a-1-h-du-matin-le-scenario-ideal-pour-finir-en-garde-a-vue-150305
-    media_url: https://img5.autodeclics.com/6/2026/11/photo_article/150305/392922/1200-L-un-homme-traqu-par-la-justice-positif-au-cannabis-et-au-volant-1-h-du-matin-le-scnario-idal-pour-finir-en-garde-vue.jpg
-    publisher: Autonews
-    caption: The Autonews page presents this photograph only as an illustration, credited to the Landes national police's Facebook page; it does not show the Vannes roadside check.
 ---
 
 Police in Vannes stopped a car on the boulevard de la Paix at about 1 am on 6
