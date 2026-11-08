@@ -54,23 +54,28 @@ sources:
     publisher: Coneme
     date: 2026-11-07
     language: es
+  - title: Condenan hasta a 22 años de prisión a tres hombres detenidos con armas y droga en Jalisco
+    url: https://libertad-oaxaca.info/condenan-hasta-a-22-anos-de-prision-a-tres-hombres-detenidos-con-armas-y-droga-en-jalisco/
+    publisher: Libertad Oaxaca
+    date: 2026-11-07
+    language: es
 open_questions:
   - No weight or other quantity was published for the marijuana seized with the weapons.
   - 7 November 2026 is the publication date of both reports; no separate date for the sentencing hearing was given.
   - The reports name no arresting authority for the July 2019 detention; only the Federal Prosecutor, the Federal Public Ministry and the Trial Court are named for the prosecution stage.
+  - This account attributes the sentence to the FGR and the Trial Court but names no witness or evidence detail beyond the Federal Public Ministry's presentation of proof.
 ---
 
 Three men detained in Jalisco with weapons and drugs were sentenced to up to 22
 years in prison. [@1] The Federal Attorney General's Office obtained convictions
 against the three men for federal firearms and explosives offences, crimes
-against health and criminal association. [@2] The three men had been detained in
+against health and criminal association. [@2,3] The three men had been detained in
 July 2019 near Colonia Aguilitas in the municipality of Jesús María, Jalisco,
-where officers secured the weapons, cartridges and marijuana. [@2]
+where officers secured the weapons, cartridges and marijuana. [@2,3]
 
 At the arrest officers seized four long guns, a handgun, magazines, more than
-230 usable cartridges and marijuana. [@2]
+230 usable cartridges and marijuana. [@2,3]
 
 Federal prosecutors presented evidence that led the court to convict the three
 men after an oral trial. [@2] The trial court gave Heriberto N 22 years and 10
-months in prison and Victor N and Gerardo N 19 years and 10 months each. [@2]
-
+months in prison and Victor N and Gerardo N 19 years and 10 months each. [@2,3]
