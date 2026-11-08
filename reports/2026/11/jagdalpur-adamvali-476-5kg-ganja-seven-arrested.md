@@ -159,6 +159,11 @@ sources:
     publisher: News18 Hindi
     date: 2026-11-06
     language: hi
+  - title: 476 किलो अवैध गांजा के साथ तीन नाबालिक सहित सात आरोपित हिरासत में
+    url: https://vocaltv.in/chhattisgarh/07-accused-including-03-minorphp/cid19495677.htm
+    publisher: Vocal TV
+    date: 2026-11-05
+    language: hi
 open_questions:
   - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
   - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
@@ -212,10 +217,13 @@ open_questions:
   - The Rgh News page carries a single uncaptioned image with no credit, so it is not shown to depict this seizure and no media entry is added.
   - The page's combined total of 884 kg 410 g across the Jagdalpur, Keshkal and Kanker actions leaves no weighed contribution from the Kanker recovery, whose sacks were never weighed in the reports available.
   - This account rounds the seizure to 476 kg while the report retains the more precise 476.5 kg from earlier sources.
+  - This page cites NDPS Act section 20(b)ii(C), while the existing report retains section 20(b)(iii)(C) from earlier sources.
+  - The page rounds the value to about 2.38 crore rupees, while the existing report uses the more precise 2,38,25,000 rupees from earlier sources.
+  - The page carries one image captioned only with the headline and no credit, so it is not shown to depict this interception and no media entry is added.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in
-Jagdalpur on 5 November 2026. [@2,4,5,6,7,8,10,11,13,14,16,17,18] Three of the seven arrested are minors, while
+Jagdalpur on 5 November 2026. [@2,4,5,6,7,8,10,11,13,14,16,17,18,21] Three of the seven arrested are minors, while
 four are named as Bhagwan Pangi, 25, Ghansi Khilo, 21, Rohini Gallauri, 27, and
 Chitrasen Gallauri, 22. [@2,7,8,13,15,16,18] All seven come from Kantamadi village in the
 Korkonda police station area of Malkangiri district, Odisha. [@2,13,16,18] Haribhoomi
@@ -229,7 +237,7 @@ then stopped the pickup when its occupants tried to flee. [@2,9,13] The pickup h
 450 packets of ganja hidden in 15 sacks. [@2,5,7,10,16,18] Police valued the cannabis at 2
 crore, 38 lakh, 25 thousand rupees (about 23.8 million rupees). [@2,7,8,13,15,16,17,18] Besides the
 cannabis, officers seized a pickup, a motorcycle, six old touchscreen mobile
-phones and 1,500 rupees in cash. [@2,5,9,13,16,18]
+phones and 1,500 rupees in cash. [@2,5,9,13,16,18,21]
 
 Additional Superintendent of Police Sukhnandan Rathore said a case was
 registered under section 20(b)(iii)(C) of the NDPS Act, India's Narcotic Drugs
@@ -250,7 +258,7 @@ Police are examining who registered and used the seized vehicles and are
 questioning the accused to trace suppliers in Odisha and intended buyers in
 Uttar Pradesh. [@1,4,11,17]
 
-The intercepted white pickup bore registration number CG 17 KL 0411. [@8,13,18] The seized escort motorcycle bore registration number OD 30 B 6256. [@8] The four adult accused were produced before the special NDPS court in Jagdalpur on judicial remand, while the juvenile-justice procedure was followed for the three children. [@8,10,13,18]
+The intercepted white pickup bore registration number CG 17 KL 0411. [@8,13,18,21] The seized escort motorcycle bore registration number OD 30 B 6256. [@8] The four adult accused were produced before the special NDPS court in Jagdalpur on judicial remand, while the juvenile-justice procedure was followed for the three children. [@8,10,13,18]
 
 The team that made the interception acted under Bastar superintendent of police Shalabh Kumar Sinha, with Additional Superintendent Sukhnandan Singh Rathore, city superintendent Anshika Jain, deputy superintendent Chandrahas Sinha and station in-charge Tameshwar Chauhan. [@9] The suspects had no valid documents for transporting the ganja, police said. [@7,9,13] The six seized mobile phones were estimated to be worth about 60,000 rupees. [@9]
 
