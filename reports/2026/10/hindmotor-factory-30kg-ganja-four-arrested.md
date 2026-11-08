@@ -70,6 +70,11 @@ sources:
     publisher: Aaro Ananda
     date: 2026-10-29
     language: bn
+  - title: 'Large quantity of cannabis seized: Major success for Chandannagar Police Commissionerate ahead of Kali Puja four arrested'
+    url: https://www.aajkaal.in/west-bengal/large-quantity-of-cannabis-seized-major-success-for-chandannagar-police-commissionerate-ahead-of-kali-puja-four-arrested-518843
+    publisher: Aajkaal
+    date: 2026-10-31
+    language: bn
 open_questions:
   - The articles date the raid only as Thursday night; 29 October 2026 is the calendar date before the Friday 30 October publications.
   - TheWall says the four had already been sent to court on Friday, while Onkar Bangla, published the same day, said they would be produced and that police would seek custody. No later court outcome is reported.
@@ -79,6 +84,7 @@ open_questions:
   - This account, like Onkar Bangla, says the four were to be produced in court on Friday and that police would seek custody; it does not confirm TheWall's report that they had already been sent to court.
   - This account says five bags full of ganja were recovered and that the exact quantity was still being examined, so it does not confirm the reported 30 kg figure or the eleven-bag packing detail.
   - This account gives no names, origins or court outcome for the four arrested people and says where they came from and interrogation were still being examined.
+  - Whether the Bengali packing phrase means one school bag plus ten shoulder bags or ten bags in total is ambiguous in translation; the existing report follows the eleven-bag reading.
 media:
   - kind: photo
     url: https://www.aaroananda.com/story/latest-news/breaking-news/massive-cannabis-seized-from-closed-hindmotor-factory-four-arrested/11026328
@@ -92,25 +98,27 @@ factory at Hindmotor, a neighbourhood of Uttarpara in Hooghly district, West
 Bengal. [@1,6] Officers said they found the men standing in near-total darkness
 with several bags and detained them at once. [@1] The four are Pintu Basak,
 Laltu Hazra, Rajkumar Mistri and Shubham Mukherjee, who police said live in
-Chandannagar and Bhadreswar. [@1,4,5]
+Chandannagar and Bhadreswar. [@1,4,5,7]
 
 Acting on a confidential tip, the detective department of the Chandannagar
 Police Commissionerate and Uttarpara police station searched the disused plant,
 identified as the former Hindustan Motors factory. [@3] They recovered about 30
 kilograms of cannabis, called ganja locally, packed in a school bag and ten
-shoulder bags. [@1,2] Deputy Commissioner of Police for Serampore, Arnab Biswas,
+shoulder bags. [@1,2,7] Deputy Commissioner of Police for Serampore, Arnab Biswas,
 said a case had been registered under the NDPS Act, India's main narcotics law.
 [@1] TheWall reported that the four were sent to court on Friday. [@1] Onkar
 Bangla, published the same day, said they were to be produced in court that day
 and that police would seek custody for further questioning. [@2]
 
 Investigators said the cannabis had been carried by train from Odisha for sale
-in the Chandannagar commissionerate area. [@1,4] A handover of the bags at
+in the Chandannagar commissionerate area. [@1,4,7] A handover of the bags at
 Hindmotor was planned, and police said they stopped it before it happened. [@1]
 They put the market value of the seized ganja at about 2.5 lakh rupees, roughly
-250,000 rupees. [@1,4] Biswas said officers were still checking who else was
+250,000 rupees. [@1,4,7] Biswas said officers were still checking who else was
 involved in the trade and whether the arrested men had earlier criminal records.
 [@1] Chandannagar police called the seizure a major success ahead of Kali Puja
 and Jagaddhatri Puja. [@1,4]
 
 Senior police officers were present at the scene. [@6]
+
+The four were produced in court on Friday and the request for police custody was granted. [@7]
