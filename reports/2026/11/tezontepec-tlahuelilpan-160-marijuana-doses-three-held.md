@@ -68,6 +68,11 @@ sources:
     publisher: Milenio
     date: 2026-11-07
     language: es
+  - title: 'Operativo federal en Hidalgo: detienen a tres personas y aseguran droga en dos municipios'
+    url: https://www.reporteindigo.com/estados/operativo-federal-en-hidalgo-detienen-a-tres-personas-y-aseguran-droga-en-dos-municipios-20261108-0021.html
+    publisher: Reporte Índigo
+    date: 2026-11-08
+    language: es
 open_questions:
   - No weight or street value was given for the marijuana, only doses, so no kilograms are recorded.
   - The substances were described as similar to marijuana and methamphetamine; no laboratory confirmation or forensic result was reported.
@@ -77,6 +82,9 @@ open_questions:
   - Only uncredited 'Especial' illustrations were published; the photo of officers in front of an 'Inmueble asegurado' sign is listed, but no caption confirms which municipality it shows.
   - Neither opened report reproduces a full Sedena or Guardia Nacional statement, so both draw on the same official account from the I Military Region and 18/a Military Zone.
   - The El Universal Hidalgo and Milenio lead images are credited only as Especial/Cortesía with no caption confirming they show these properties or seizures, so no media entry is added.
+  - The article calls the Pachuca prosecutor's office the Procuraduría General de Justicia in its lead and the Fiscalía General de la República later in the text; the later detail matches what the report already records.
+  - The seized material is described only as substances with characteristics similar to marijuana and methamphetamine, with no laboratory confirmation reported.
+  - The page images are captioned only with the operation title, and no caption says which municipality or which property they show.
 ---
 
 Three people were arrested in Tezontepec de Aldama during an operation by army,
@@ -100,7 +108,9 @@ secured under the two investigation orders. [@2]
 
 The three detainees and the seized items were placed at the disposal of the
 federal prosecutor's office, the Fiscalía General de la República, in Pachuca
-for expert tests and the continuing investigation. [@1,4] The prosecutors' tests
+for expert tests and the continuing investigation. [@1,4,5] The prosecutors' tests
 are to establish the composition of the substances, first described only by
 their physical characteristics, and the possible participation of the detainees.
 [@1]
+
+The army commands' statement also cited administration-wide totals, including 137,629 kilograms of marijuana, 138,294 kilograms of methamphetamine, 57,988 people detained and 53,438 vehicles. [@5]
