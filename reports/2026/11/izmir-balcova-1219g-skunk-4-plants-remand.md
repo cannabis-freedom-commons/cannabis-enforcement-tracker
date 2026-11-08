@@ -139,6 +139,8 @@ open_questions:
   - This account calls the 1 kg 219 g a banned substance without naming it skunk, as the DHA dispatch already cited in the report does.
   - The page gives no charge, plea or trial date for K.A.
   - The page's image is captioned only with the headline and carries no credit identifying what it depicts, so it is not listed as media.
+  - The Son Dakika page gives no separate date for the gendarmerie raid; 8 November 2026 is its publication time, so the report's estimated 7 November 2026 incident date is unchanged.
+  - The page credits the Anadolu Agency and carries no caption confirming any photo of the search; its only images are the Son Dakika logo and mobile-app banners, so no media entry is added.
 ---
 
 İzmir provincial gendarmerie teams determined that a suspect identified only as
