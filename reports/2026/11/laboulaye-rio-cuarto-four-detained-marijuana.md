@@ -46,6 +46,21 @@ sources:
     publisher: FM Libre 93.7Mhz
     date: 2026-11-04
     language: es
+  - title: Desarticularon una banda narco familiar en Córdoba y secuestraron casi 250 dosis de drogas
+    url: https://www.infobae.com/sociedad/policiales/2026/11/05/desarticularon-una-banda-narco-familiar-en-cordoba-y-secuestraron-casi-250-dosis-de-drogas/
+    publisher: Infobae
+    date: 2026-11-05
+    language: es
+  - title: 'LABOULAYE – RÍO CUARTO: FPA DESMANTELÓ UNA ORGANIZACIÓN NARCO E INCAUTÓ DROGAS Y ARMAS DE FUEGO. CUATRO DETENIDOS'
+    url: https://www.mpfcordoba.gob.ar/laboulaye-rio-cuarto-fpa-desmantelo-una-organizacion-narco-e-incauto-drogas-y-armas-de-fuego-cuatro-detenidos
+    publisher: Ministerio Público Fiscal de Córdoba
+    date: 2026-11-04
+    language: es
+  - title: Cayó “La Banda de los Primos”, familia narco que vendía drogas con un kiosco como fachada en Córdoba
+    url: https://eldoce.tv/actualidad/2026/11/04/cayo-la-banda-de-los-primos-familia-narco-que-vendia-drogas-con-un-kiosco-como-fachada-en-cordoba/
+    publisher: ElDoce.tv
+    date: 2026-11-04
+    language: es
 open_questions:
   - No weight was published for the 93 marijuana doses, only doses, so no kilograms can be recorded.
   - The 1,987 cannabis seeds have no figure field and are not counted as plants or weight.
@@ -54,12 +69,15 @@ open_questions:
   - The reports give no separate date for the raids; 4 November 2026 is the publication date and is used as the incident date.
   - The detainees were not named and no charges, custody ruling or court outcome beyond transfer to the judiciary were reported.
   - The pages carry seizure photos without captions establishing that they show this seizure, so no media entry is included.
+  - The Infobae article also recounts a separate earlier Laboulaye barrio Norte case involving 309 cocaine doses and delivery sales by a couple and two cousins, which is a different event left out here.
+  - 'No media entry is added: the Infobae lead image is captioned about a different Córdoba gang led by a mother and her children, and the prosecution page images are uncaptioned WhatsApp files that do not identify what they show.'
+  - 'Left out, as its quotation was not found in ElDoce.tv: ElDoce calls the group “La Banda de los Primos”.'
 ---
 
 Córdoba's Fuerza Policial Antinarcotráfico (FPA), the province's anti-drug
 police, detained four adult men in an operation against alleged drug selling in
-southern Córdoba. [@1] The detainees, two brothers and two cousins, were accused
-of forming a family organisation moving drugs for sale. [@1] Three men were
+southern Córdoba. [@1,3] The detainees, two brothers and two cousins, were accused
+of forming a family organisation moving drugs for sale. [@1,3] Three men were
 detained in Laboulaye and the fourth was arrested in Río Cuarto with Córdoba
 police help on the prosecutor's orders. [@2] The four men and all seized items
 were placed at the disposal of the judiciary under National Drug Law 23.737,
@@ -69,12 +87,11 @@ The case began with anonymous calls to the drug-complaint line 0800-888-8080 and
 led to four house searches, three in Laboulaye and one in Río Cuarto. [@2] In
 the searches officers seized 93 doses of marijuana, two cannabis plants and
 1,987 cannabis seeds as the cannabis component, alongside 138 doses of cocaine.
-[@1] Officers also seized four firearms, two precision scales, 1,721,800 pesos,
+[@1,3] Officers also seized four firearms, two precision scales, 1,721,800 pesos,
 an unspecified amount of US dollars, a car and equipment for indoor cannabis
-cultivation. [@1]
+cultivation. [@1,4]
 
 Investigators said the alleged sales ran from a central kiosco, a small shop
 used as a street-level drug sale point, and two houses opposite it half a block
 from a school in Laboulaye. [@1] Investigators alleged the group brought drugs
-from Río Cuarto to Laboulaye and General Levalle for distribution and sale. [@2]
-
+from Río Cuarto to Laboulaye and General Levalle for distribution and sale. [@2,5]
