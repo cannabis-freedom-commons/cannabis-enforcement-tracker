@@ -50,6 +50,10 @@ sources:
     url: https://www.kurdistan24.net/en/story/932620/iraq-dismantles-international-drug-trafficking-network-in-territorial-waters
     publisher: Kurdistan24
     date: 2026-08-15
+  - title: First Iraqi deep-water drug raid busts international network
+    url: https://shafaq.com/en/Security/First-Iraqi-deep-water-drug-raid-busts-international-network
+    publisher: Shafaq News
+    date: 2026-08-15
 open_questions:
   - The ministry announcement is dated 15 August 2026 but gives no separate date for the interception, so the report uses the announcement date.
   - The three suspects are not named, and the foreign national's country is not given.
@@ -57,19 +61,21 @@ open_questions:
   - The ministry places the target in waters adjacent to a neighbouring country it does not name, and says nothing about where the boats came from or were headed.
   - The New Region's published image is an AFP file photo and Nabamart's is an illustration; no verifiable photograph of this seizure was found.
   - Both accounts retell a single Interior Ministry statement, so no independent account of the interception could be opened.
+  - The article dates the ministry announcement to Saturday and gives no separate date for the interception; 15 August 2026 stands in for the incident date.
+  - The lead picture is captioned only with the headline and carries no credit, so it is not established to show this seizure and no media entry is added.
 ---
 
 Iraq's interior ministry announced that the General Directorate of Narcotics Affairs had
 dismantled an international drug smuggling network in what it called the first operation in
 the depths of Iraqi territorial waters. [@1,2] Three suspects, including one foreign
 national, were arrested, and 90 kg of hashish was seized along with two boats used for
-smuggling. [@1,2,3]
+smuggling. [@1,2,3,4]
 
 Anti-narcotics teams set off from the Umm Qasr naval base after several days of
-surveillance, on a round trip that took 16 hours to reach the target. [@1,2,3] The operation
+surveillance, on a round trip that took 16 hours to reach the target. [@1,2,3,4] The operation
 ran under the General Directorate of Narcotics Affairs together with the Military
 Intelligence Directorate and the Naval Forces Command. [@1,3] The ministry placed the target
-in waters adjacent to a neighbouring country, which it did not name. [@2]
+in waters adjacent to a neighbouring country, which it did not name. [@2,4]
 
 The announcement came as Baghdad pressed a wider anti-drug campaign: the ministry had
 reported seizing more than a tonne and a half of narcotics since the start of 2026. [@1]
