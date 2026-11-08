@@ -78,6 +78,11 @@ sources:
     publisher: Antofagasta Al Día
     date: 2026-11-05
     language: es
+  - title: Fiscalía y Carabineros incautan más de dos toneladas de marihuana. Cargamento, avaluado en $12.400 millones, estaba oculto un camión
+    url: https://elamerica.cl/2026/11/06/fiscalia-y-carabineros-incautan-mas-de-dos-toneladas-de-marihuana-cargamento-avaluado-en-12-400-millones-estaba-oculto-un-camion/
+    publisher: Diario El America
+    date: 2026-11-06
+    language: es
 open_questions:
   - Neither the driver's name nor his nationality was published, and no charges or court ruling were reported beyond the extended detention.
   - The regional figures (133 tonnes since October 2023, 62 tonnes of marijuana in 2026) cover all seizures in Antofagasta and are not part of this event's figures.
@@ -85,6 +90,10 @@ open_questions:
   - The prosecutor's office page cited by Veredictum could not be opened, and all three opened accounts draw on the same prosecutor's office and Carabineros statement rather than independent reporting.
   - Antofagasta Al Día reports the detention extension to 6 November, while Emol and Veredictum give no detention ruling.
   - Neither the Veredictum page nor the other accounts say whether the driver was formalised or charged after 6 November.
+  - El America.cl reproduces the same prosecutor's office and Carabineros account as the outlets already cited in this report, so it is not independent reporting of the seizure.
+  - The El America.cl page carries only an uncaptioned image titled droga.jpg with no credit, so it is not confirmed to show this seizure and no media entry is added.
+  - The same roundup mentions a separate Antofagasta cocaine seizure of 344 kilograms and a Tocopilla marijuana seizure of 13 kilograms; those are different events and are left out here.
+  - El America.cl says the regional prosecutor described a judge who ruled the same day; the report does not state what that ruling was.
 ---
 
 Carabineros officers at the Alemania checkpoint (Retén Alemania) on Route 5
@@ -92,16 +101,16 @@ Norte in Taltal stopped a three-quarter truck heading south around 6:30 in the
 morning on Tuesday 3 November 2026 and found marijuana in its cargo area. [@1]
 Un total de 2.066 kilos de marihuana incautaron efectivos de Carabineros y la
 Fiscalía de Taltal durante un procedimiento realizado el martes 3 de noviembre
-en la Ruta 5 Norte, en la Región de Antofagasta. [@2] The officers found 98
+en la Ruta 5 Norte, en la Región de Antofagasta. [@2,4] The officers found 98
 sacks holding 1,133 packages of the substance and told the duty prosecutor, who
-sent Carabineros' OS7 anti-drug unit to the scene. [@2]
+sent Carabineros' OS7 anti-drug unit to the scene. [@2,4]
 
 Field tests confirmed the substance was marijuana, and the driver was detained.
-[@1] By order of the prosecutor's office the driver's detention was extended
+[@1,4] By order of the prosecutor's office the driver's detention was extended
 until 6 November, according to the local outlet Antofagasta Al Día. [@3]
 
 Carabineros valued the load at 12.4 billion pesos on the illicit market,
-equivalent to about 4.1 million doses. [@1] The regional prosecutor for
+equivalent to about 4.1 million doses. [@1,4] The regional prosecutor for
 Antofagasta, Juan Castro Bekios, said the result came from a chain of duties in
 which "nobody is the protagonist; everyone is indispensable". [@1] The regional
 prosecutor confirmed that the investigation was continuing. [@1] General
@@ -112,4 +121,3 @@ arrests were expected soon. [@2]
 The prosecutor's office said the region had recorded 133 tonnes of drug seizures
 between 10 October 2023 and 4 November 2026, with 62 tonnes of marijuana seized
 in 2026 alone. [@1]
-
