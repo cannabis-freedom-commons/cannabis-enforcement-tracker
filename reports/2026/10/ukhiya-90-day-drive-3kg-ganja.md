@@ -42,6 +42,11 @@ sources:
     publisher: Protidiner Kagoj
     date: 2026-11-03
     language: bn
+  - title: উখিয়ায় তিন মাসে গ্রেপ্তার ৬০৪, উদ্ধার ৩ লাখ ৩১ হাজার ইয়াবা
+    url: https://www.alokitobangladesh.com/country-news/356309/%E0%A6%89%E0%A6%96%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%AC%E0%A7%A6%E0%A7%AA-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0-%E0%A7%A9-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A7%A9%E0%A7%A7-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE
+    publisher: আলোকিত বাংলাদেশ
+    date: 2026-11-02
+    language: bn
 open_questions:
   - The arrest totals of 604 held, including 61 drug traders, cover all offences and all drugs and cannot be attributed to cannabis, so no arrested figure is recorded.
   - The 331,868 yaba tablets and 118.5 litres of cholai liquor are not cannabis and are excluded from the cannabis figures.
@@ -50,6 +55,7 @@ open_questions:
   - 'No verified photo of the seizure could be listed: the submitted page lead image could not be verified from its caption, and the second page labels its image as an AI illustration rather than an actual photograph.'
   - 'Left out, as its quotation was not found in Amar Sangbad: Police also rescued 17 kidnapping victims across 14 cases and 46 missing people traced through general diaries in the same period.'
   - 'Left out, as its quotation was not found in Amar Sangbad: The anti-narcotics part of the drive seized 331,868 yaba tablets, 118.5 litres of locally made cholai liquor and 3 kg of ganja.'
+  - The account adds no names, charges or court outcome specific to the 3 kg ganja seizure.
 ---
 
 Police arrested 604 people in various criminal cases in Ukhiya, Cox's Bazar,
@@ -75,3 +81,5 @@ cases were filed at Ukhiya Police Station during the 90-day period, of which 257
 were disposed of. [@1,2]
 
 Police said 2 people were arrested under section 54 and 12 under section 151 of the Code of Criminal Procedure and 2 under section 290 of the Penal Code. [@2]
+
+Officer-in-Charge Md Atikur Rahman Majumder took charge of Ukhiya Police Station on 9 July 2026. [@3] The officer said Ukhiya Police Station had been freed of middlemen, known locally as dalal, on the instructions of the district police superintendent. [@3]
