@@ -69,6 +69,11 @@ sources:
     url: https://thedocument.net/en/article/two-drug-dealers-arrested-with-14kg-of-cannabis-pickup-in-munshiganj
     publisher: The Document
     date: 2026-11-02
+  - title: মুন্সীগঞ্জে ১৪ কেজি গাঁজাসহ দুই কারবারি গ্রেফতার
+    url: https://www.bd-pratidin.com/country/2026/11/02/1320623
+    publisher: Bangladesh Pratidin
+    date: 2026-11-02
+    language: bn
 open_questions:
   - Only one accessible source for this event was found, so no second account confirms the figures.
   - No court outcome was reported; police said legal proceedings were under way at the time of publication.
@@ -79,23 +84,24 @@ open_questions:
   - 'Left out, as its quotation was not found in Shironam: Detective Branch police in Munshiganj arrested two alleged drug traders in a late-night operation at Muktarpur and seized the pickup van used to carry drugs.'
   - The NewsNow24 page carries a photo captioned only with the headline, which does not establish that it shows this seizure, so no media entry is added.
   - The Dhaka Today page provides no caption or credit establishing that its main image shows this seizure, so no media entry is added.
+  - The page's main photo caption repeats the headline and does not establish that it shows this seizure, so no media entry is added.
 ---
 
 Detective Branch police in Munshiganj arrested two alleged drug traders in a
 late-night operation at Muktarpur and seized the pickup van used to carry drugs.
-[@1,3,4] The arrested men were identified as 23-year-old Enamul Haque and
+[@1,3,4,6] The arrested men were identified as 23-year-old Enamul Haque and
 22-year-old Md Shahin Hasan, both from the Purba Para area of Brahmanpara in
-Cumilla. [@1,3,4] Officers detained them at about 2 a.m. on Monday, 2 November, in
-front of Asia Mill on Muktarpur road in Munshiganj Sadar. [@1,3,4]
+Cumilla. [@1,3,4,6] Officers detained them at about 2 a.m. on Monday, 2 November, in
+front of Asia Mill on Muktarpur road in Munshiganj Sadar. [@1,3,4,6]
 
 The team recovered a total of 14 kg of ganja from the two detainees, packed in
-three packets wrapped in khaki-coloured scotch tape. [@1,3,4] Police also seized a
+three packets wrapped in khaki-coloured scotch tape. [@1,3,4,6] Police also seized a
 navy-blue pickup van with registration Cumilla-Na-11-0774, allegedly used to
-transport the drugs. [@1,3,4]
+transport the drugs. [@1,3,4,6]
 
 The raid was carried out by a Munshiganj district Detective Branch team led by
 OC Ishtiaq Ashfaq, with SI Kamrul Hasan and ASI Dipak Kumar, on secret
 information, according to district police superintendent Menhazul Alam. [@1,3,5]
-Police said legal proceedings against the two arrested men were under way. [@1,2,3,4]
+Police said legal proceedings against the two arrested men were under way. [@1,2,3,4,6]
 
 The three bundles weighed 5 kg, 5 kg and 4 kg. [@5] Enamul Haque is the son of Md Idon Mia and Shahin Hasan is the son of Md Shah Alam, and both live in Ward 6, Brahmanpara Purbapara under Brahmanpara Police Station in Cumilla district. [@5]
