@@ -45,6 +45,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-05
     language: hi
+  - title: छह थानों की पुलिस ने मिलकर पकड़े 9 तस्कर, 16 किलो से ज्यादा गांजा बरामद
+    url: https://www.aajtak.in/uttar-pradesh/story/kaushambi-police-arrested-9-ganja-smugglers-seized-16-758-kg-ganja-lclcn-strc-2688448-2026-11-04
+    publisher: Aaj Tak
+    date: 2026-11-04
+    language: hi
 open_questions:
   - The incident date is given only as Tuesday in reports published on 4 November 2026, so 3 November 2026 is used as the incident date.
   - The outlets differ on some names and station assignments, including the alias of Sunil Pal and the placement of Anupam Kumar Mishra, Anurag Tripathi, Devesh Tripathi and Shivam Kesarwani, so only the shared totals are treated as firm.
@@ -56,16 +61,20 @@ open_questions:
   - The Amar Ujala account published on 5 November 2026 gives no separate date for the checking drive.
   - The page image uses a file path dated 2021 and is captioned only with the seizure total, so it is not established to show this drive and no media entry is added.
   - Amar Ujala names two of the arrested men, Anurag Tripathi and Shivam Kesarwani, as having a criminal history without saying what it involved.
+  - Aaj Tak gives no calendar date for the checking drive and, unlike the earlier accounts, does not say it took place on Tuesday.
+  - Whether the court appearance of the nine accused led to remand or bail is not reported.
+  - Aaj Tak says the drive was before Diwali but gives no date for it, so 3 November 2026 remains the incident date from the Tuesday accounts.
+  - Aaj Tak lists the accused as Suraj Maurya, Sunil Pal, Vijay Maurya, Anupam Kumar Mishra, Anurag Tripathi, Rahul Kumar Pandey, Devesh Tripathi, Shivam Kesarwani and Nitesh Kumar, but does not assign each name to a police station.
 ---
 
 Kaushambi police arrested nine people in a district-wide checking drive under
-Operation Savera against illegal drugs. [@1,2] The arrests took place on Tuesday
+Operation Savera against illegal drugs. [@1,2,3] The arrests took place on Tuesday
 at separate locations under six police-station areas. [@1] Police registered six
 cases under the NDPS Act, India's narcotics law, and said legal proceedings
 against the accused were completed. [@1]
 
 Officers seized a total of 16 kilos 758 grams of ganja from the nine accused.
-[@1,2] Manjhanpur police arrested Suraj Maurya with 1.296 kilos, Sarai Akil police
+[@1,2,3] Manjhanpur police arrested Suraj Maurya with 1.296 kilos, Sarai Akil police
 caught two accused with a total of four kilos, and Charwa police arrested one
 accused with 1.300 kilos. [@1,2] Sandipan Ghat police arrested one accused with
 1.065 kilos, while Kokhraj police caught two accused with the largest amount,
@@ -77,3 +86,5 @@ Lucknow under the guidance of Superintendent of Police Satyanarayan Prajapat.
 Kokhraj police stations took part in the checking at different places. [@1]
 
 According to police, the arrested men Anurag Tripathi and Shivam Kesarwani were found to have a criminal history. [@2]
+
+The drive was carried out in the days before Diwali. [@3] Police registered NDPS Act cases against all the accused and were producing them before a court. [@3]
