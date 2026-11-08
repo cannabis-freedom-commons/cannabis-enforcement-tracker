@@ -100,11 +100,15 @@ sources:
     url: https://vreme.com/en/svet/severna-makedonija-zaplenjena-marihuana/
     publisher: Vreme
     date: 2026-02-06
+  - title: Smuggling Busts Further Taint North Macedonia's Legal Cannabis Industry
+    url: https://balkaninsight.com/2026/04/17/smuggling-busts-further-taint-north-macedonias-legal-cannabis-industry/bi/
+    publisher: Balkan Insight
+    date: 2026-04-17
 ---
 
 Serbian police seized five tons of marijuana, the biggest such catch in the
 country so far, after raiding a small agricultural and trade company in the
-village of Konjuh in central Serbia on Thursday, January 29, 2026. [@1,3,5,7][@2]
+village of Konjuh in central Serbia on Thursday, January 29, 2026. [@1,3,5,7,10][@2]
 
 Interior Minister Ivica Dacic said late Thursday that two people had been
 arrested while one suspect remained at large. [@1] Police also seized four

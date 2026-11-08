@@ -72,6 +72,10 @@ sources:
     url: https://vreme.com/en/svet/severna-makedonija-zaplenjena-marihuana/
     publisher: Vreme
     date: 2026-02-06
+  - title: Smuggling Busts Further Taint North Macedonia's Legal Cannabis Industry
+    url: https://balkaninsight.com/2026/04/17/smuggling-busts-further-taint-north-macedonias-legal-cannabis-industry/bi/
+    publisher: Balkan Insight
+    date: 2026-04-17
 open_questions:
   - The published total is "more than 40 tons" of flowers and biomass; the 1,300 bottles of cannabis oil seized near Skopje are counted separately from that weight.
   - The Interior Ministry disclosed no arrests or named suspects and said the nationwide operation was continuing, so the total may have grown after 7 February.
@@ -94,11 +98,13 @@ open_questions:
   - Vreme and N1 report ten tons seized at the former OHIS complex in Skopje, while the existing report records nine tons at a factory near Skopje; it is unclear whether the difference reflects rounding, an early count or a changed tally.
   - Vreme's co-owner initials DS and the ownership change it describes come from the Serbian Central Register as reported by Vreme, not from a Macedonian registry document.
   - Vreme says Alfafarm DOO Skopje was registered for growing herbs and medicinal plants for pharmaceutical purposes; the existing report describes the raided Skopje business as an ALAFARM GROUP factory, and whether these are the same registered entity is not directly confirmed.
+  - The investigation gives only the month of February for the North Macedonia confiscation, not separate raid dates, and phrases the amounts as roughly nine tons and more than 1,300 bottles, while the existing report records nine tons and 1,300 bottles.
+  - The same investigation describes the January 2026 five-ton seizure near Krusevac, Serbia, which the existing North Macedonia report expressly leaves out as a separate event covered by the Serbia Konjuh report.
 ---
 
 ## Record raids on licensed growers
 
-Police in North Macedonia seized more than 40 tons of cannabis in a nationwide operation against companies licensed to grow cannabis for medical use. [@1,2,3,4,5,7,10] Interior Ministry spokesman Goce Andreevski said the operation began on 5 February 2026 and was continuing. [@1,10] In a factory raid near Skopje officers took nine tons of marijuana and 1,300 bottles of cannabis oil. [@1,4,7] Another 31 tons of marijuana and biomass for oil production were seized in the east of the country. [@1,4,7,8,10] Investigation sources put the split at about ten tons around Skopje and 30 tons in facilities in the Strumica region. [@2,3,6]
+Police in North Macedonia seized more than 40 tons of cannabis in a nationwide operation against companies licensed to grow cannabis for medical use. [@1,2,3,4,5,7,10] Interior Ministry spokesman Goce Andreevski said the operation began on 5 February 2026 and was continuing. [@1,10] In a factory raid near Skopje officers took nine tons of marijuana and 1,300 bottles of cannabis oil. [@1,4,7,11] Another 31 tons of marijuana and biomass for oil production were seized in the east of the country. [@1,4,7,8,10] Investigation sources put the split at about ten tons around Skopje and 30 tons in facilities in the Strumica region. [@2,3,6]
 
 The searches were carried out by the police with the Organized Crime Prosecutor's Office over suspected irregularities at the licensed companies. [@2,3,7] Investigators suspect licensed producers diverted large quantities to the black market instead of legal pharmaceutical channels. [@1,4,5,9,10] Andreevski said the raided Skopje firm showed large gaps between the cannabis it recorded as held, produced, bought and sold. [@1,4,7] The firms and the people involved were not officially named. [@1]
 
