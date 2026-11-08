@@ -58,6 +58,11 @@ sources:
     publisher: صدى العرب
     date: 2026-11-07
     language: ar
+  - title: ضبط شخصين بتهمة ترويج وتعاطي المخدرات في الإسكندرية - اخبار مصر لحظة بلحظة
+    url: https://news.egydreampro.com/%D8%B6%D8%A8%D8%B7-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D9%88%D8%AA%D8%B9%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA/
+    publisher: اخبار مصر لحظة بلحظة
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The sources give no separate date for the arrests; 7 November 2026, when the ministry statement was republished, is used and the men said the filmed offence took place on 30 October.
   - No weight or street value was published for the hashish found with the two men, so no cannabis quantity or value is recorded.
@@ -68,13 +73,14 @@ open_questions:
   - The Sada El Arab page, like the Masrawy account, gives no weight for the hashish found with the two men and no value estimate.
   - The page gives 30 October only as the date the two men said they committed the offence, and no separate date for their arrest.
   - The page's single picture is captioned only with the outlet's name and carries no credit, so it was not established to show this seizure and no media entry is added.
+  - The page's single picture is captioned only with the headline and carries no credit, so it was not established to show this arrest and no media entry is added.
 ---
 
 Security services identified two men from a video on social media in which its
 publisher complained that they were selling and using drugs on a street in
-Alexandria Governorate, and arrested them. [@1,4] Both arrested men are unemployed
-and live in the First Montazah police district in eastern Alexandria. [@1] A
-quantity of hashish and two mobile phones were found with the two men. [@1] A
+Alexandria Governorate, and arrested them. [@1,4,5] Both arrested men are unemployed
+and live in the First Montazah police district in eastern Alexandria. [@1,5] A
+quantity of hashish and two mobile phones were found with the two men. [@1,5] A
 Masrawy account of the Interior Ministry statement gives the same two arrests in
 the First Montazah district and the same hashish and two phones found with them.
 [@2]
@@ -82,7 +88,7 @@ the First Montazah district and the same hashish and two phones found with them.
 The Interior Ministry said no formal complaints had been filed about the
 incident before its security services acted on the video. [@1] Questioned, the
 two admitted the offence as shown in the video and said it happened on 30
-October. [@1] Both admitted holding drugs both for their own use and for sale,
+October. [@1,5] Both admitted holding drugs both for their own use and for sale,
 and the public prosecution opened an investigation. [@1] The Masrawy account
 also reports that both admitted holding the drugs for use and for trafficking
 and that the public prosecution took over the investigation. [@2]
