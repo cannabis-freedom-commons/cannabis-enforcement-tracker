@@ -547,7 +547,7 @@ LOG_LEVEL=debug
 ```
 
 The built-in set (`DefaultGoogleNewsQueries` in `backend/internal/harvest/google_news_queries.go`) has
-278 queries: 92 language/edition searches and 186 searches naming individual countries or territories.
+293 queries: 107 language/edition searches and 186 searches naming individual countries or territories.
 It searches India in English, Hindi, Bengali, Marathi, Tamil, Telugu, Malayalam,
 Gujarati and Punjabi; Bangladesh in Bengali; Pakistan in English; Kenya, Nigeria and southern
 Africa in English, including regional terms such as bhang, dagga, mbanje and matekoane; Morocco
@@ -569,6 +569,18 @@ Central Asia and the Caucasus, the Balkans and European microstates, Central Ame
 Caribbean, and Pacific island states and territories. Each place gets its own query rather than
 sharing a result window with a whole region. Regions and language searches are interleaved so
 coverage starts across regions on the first scan, including after a restart.
+
+Fifteen eradication searches (November 2026) look for crops and plants destroyed in the field,
+which reports describe without seizure or arrest words: English, Indian English, Latin American
+Spanish and Brazilian Portuguese eradication terms; wild cannabis destroyed in Russia and Central
+Asia; Indonesian *ladang ganja* plus Aceh and North Sumatra districts; Baalbek-Hermel in Arabic;
+and place-named searches for Sri Lanka (English and Tamil districts), Nepal (Tarai districts),
+Paraguay (Amambay, Canindeyú, SENAD), Uruguay (departments), mainland Southeast Asia and
+Bangladesh, and the Caribbean, Guyana, Belize and Papua New Guinea. Each found reports the tracker
+had not seen in a live probe. The English, Pacific, southern African and Latin American country
+groups also include eradication terms. Uruguay, Paraguay, Bolivia, Ecuador, Guatemala and Honduras
+editions redirect to US Latin American Spanish; Nepal, Sri Lanka, Albania, Laos, Cambodia and
+Myanmar redirect to US English, so their places are named in the query.
 
 Queries pair cannabis names, resin/oil forms, local synonyms and common inflections with seizure,
 arrest, raid, cultivation/eradication, prosecution, conviction and punishment terms where practical.
@@ -593,8 +605,8 @@ assuming working Persian, Pashto, Burmese, Khmer or North Korean editions. Regio
 search locales, not strict event-country filters, and do not guarantee coverage of every country.
 
 Each scan runs the next `HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN` queries in rotation (1–50), paced a
-second apart. With 278 default queries and 8 per scan, 35 scans visit the whole set, roughly
-70 minutes plus scan time (at most about 4.5 hours at the default interval, jitter and five-minute
+second apart. With 293 default queries and 8 per scan, 37 scans visit the whole set, roughly
+75 minutes plus scan time (at most about 4.6 hours at the default interval, jitter and five-minute
 scan deadline).
 Language/edition searches retain the one-day lookback; country-targeted searches use seven days
 to accommodate sparse reporting and delayed indexing. Both exceed the default full-rotation time.
@@ -653,13 +665,17 @@ HARVEST_BING_NEWS_QUERIES_PER_SCAN=5
 HARVEST_BING_NEWS_QUERIES=[en-US] cannabis seized|[zh-HK] 大麻 查获
 ```
 
-The 56 built-in queries cover English markets (US, UK, Ireland, Canada, Australia, New Zealand,
+The 71 built-in queries cover English markets (US, UK, Ireland, Canada, Australia, New Zealand,
 India, the Philippines, Malaysia, Indonesia, South Africa, Nigeria, Kenya), French (France,
 Belgium, Canada), Spanish (Spain, Mexico, Argentina, Colombia, Chile), Portuguese (Brazil,
 Portugal), German (Germany, Austria, Switzerland), Dutch, Italian, Polish, Swedish, Norwegian,
 Danish, Finnish, Turkish, Russian, Arabic (Saudi Arabia, Egypt), Japanese, Korean, Chinese,
 Indonesian, Thai and Vietnamese, plus English searches naming China, Iran, North Korea and the
-Caribbean. Every market returned a feed with recent items in a November 2026 probe.
+Caribbean. Fifteen more search for eradication (marijuana eradication, cannabis cultivation
+destroyed, *ladang ganja*, *plantío*, *pés de maconha*, wild cannabis in Russian), Sri Lanka,
+Nepal, Guyana and Jamaica, and use the Paraguay, Bolivia, Peru and Honduras markets, which return
+local publishers (Sri Lanka and Nepal have no market of their own). Every market returned a feed
+with recent items in a November 2026 probe.
 Both Chinese searches use the `zh-HK` RSS market while retaining their Simplified or Traditional
 Chinese keywords. Bing redirects `zh-CN` news requests to its HTML homepage; existing custom
 `[zh-CN]` queries are normalized to `zh-HK`, also recorded as their market in logs and provenance.

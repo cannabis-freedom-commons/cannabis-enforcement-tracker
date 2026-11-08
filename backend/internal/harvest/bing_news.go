@@ -108,6 +108,23 @@ var DefaultBingNewsQueries = []BingNewsQuery{
 	{"id-ID", "ganja ditangkap"},
 	{"th-TH", "กัญชา จับกุม"},
 	{"vi-VN", "cần sa bắt giữ"},
+	// Eradication and countries without a local Bing market (Sri Lanka, Nepal fall back
+	// to other markets; es-PY, es-BO, es-PE and es-HN return local publishers).
+	{"en-US", "marijuana eradication"},
+	{"en-IN", "cannabis cultivation destroyed"},
+	{"en-IN", "Sri Lanka cannabis"},
+	{"en-IN", "Nepal ganja"},
+	{"id-ID", "ladang ganja"},
+	{"id-ID", "ganja dimusnahkan"},
+	{"es-MX", "plantío marihuana"},
+	{"pt-BR", "pés de maconha"},
+	{"ru-RU", "дикорастущей конопли"},
+	{"es-PY", "marihuana"},
+	{"es-BO", "marihuana"},
+	{"es-PE", "marihuana"},
+	{"es-HN", "marihuana"},
+	{"en-US", "Guyana cannabis"},
+	{"en-US", "Jamaica ganja"},
 }
 
 type BingNews struct {

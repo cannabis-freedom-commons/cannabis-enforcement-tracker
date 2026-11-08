@@ -113,6 +113,25 @@ var googleNewsLanguageQueries = []GoogleNewsQuery{
 	{"NA:en", `(cannabis OR dagga OR marijuana OR "cannabis plants") (Nampol OR police OR arrested OR seized OR court OR sentenced) when:1d`},
 	{"BW:en", `(dagga OR cannabis OR marijuana) (police OR BPS OR arrested OR seized OR court OR jailed OR sentenced) when:1d`},
 	{"SN:fr", `(chanvre OR "chanvre indien" OR yamba OR cannabis OR haschich OR "kush") (saisie OR saisi OR arrêté OR interpellé OR démantelé OR OCRTIS OR condamné OR Douane) when:1d`},
+	// Eradication: crops and plants destroyed in the field. These reports rarely use the
+	// seizure/arrest words above, and countries without a Google edition of their own
+	// (Sri Lanka, Nepal, Uruguay, Paraguay redirect to US/IN editions) need their place
+	// names. Each query found reports the tracker had not seen in a November 2026 probe.
+	{"US:en", `(cannabis OR marijuana OR ganja OR "Indian hemp") (eradication OR eradicated OR "plants destroyed" OR "plantation destroyed" OR "acres of" OR "hectares of" OR "set ablaze") when:1d`},
+	{"IN:en", `(ganja OR cannabis OR marijuana) (cultivation OR plantation OR acres OR plants) (destroyed OR uprooted OR eradicated OR "set on fire" OR burnt) when:1d`},
+	{"US:es-419", `(marihuana OR mariguana) (erradicación OR erradican OR erradicaron OR "plantas de marihuana" OR plantíos OR plantaciones OR hectáreas) (destruyen OR destruyeron OR incineraron OR erradicadas OR quemaron OR destrucción) when:1d`},
+	{"BR:pt-419", `("pés de maconha" OR "plantação de maconha" OR "plantações de maconha" OR "roça de maconha" OR "plantio de maconha") (erradicados OR erradicação OR destruídos OR incinerados OR erradicou OR erradica OR localizada) when:1d`},
+	{"RU:ru", `(дикорастущей OR дикорастущая OR дикорастущую OR "очаги конопли" OR "очагов конопли" OR "посевы конопли") (уничтожено OR уничтожили OR гектаров OR гектара OR "Мак") when:7d`},
+	{"ID:id", `("ladang ganja" OR "pohon ganja" OR "batang ganja" OR "tanaman ganja") (musnahkan OR dimusnahkan OR pemusnahan OR dibakar OR dicabut OR hektare OR ditemukan) when:1d`},
+	{"ID:id", `(Aceh OR "Gayo Lues" OR "Aceh Besar" OR "Aceh Utara" OR Bireuen OR "Nagan Raya" OR Pidie OR Mandailing OR Madina) ganja when:1d`},
+	{"LB:ar", `(حشيشة OR الحشيشة OR "حشيشة الكيف" OR "القنب الهندي") (البقاع OR بعلبك OR الهرمل) when:7d`},
+	{"IN:en", `("Sri Lanka" OR "Sri Lankan" OR Colombo OR Moneragala OR Monaragala OR Ampara OR Wellawaya OR Buttala OR Hambantota OR Anuradhapura) (ganja OR cannabis OR "Kerala ganja" OR "Kerala cannabis") when:7d`},
+	{"IN:ta", `(கஞ்சா) (இலங்கை OR யாழ்ப்பாணம் OR மன்னார் OR வவுனியா OR மட்டக்களப்பு OR திருகோணமலை OR "கேரள கஞ்சா") when:7d`},
+	{"IN:en", `(Nepal OR Nepali OR Kathmandu OR Makwanpur OR Bara OR Parsa OR Rautahat OR Sarlahi OR Sindhuli OR Dhading OR Birgunj) (ganja OR marijuana OR cannabis OR hashish OR charas) (seized OR destroyed OR arrested OR cultivation OR police OR court OR uprooted) when:7d`},
+	{"US:es-419", `(Paraguay OR paraguayo OR Amambay OR Canindeyú OR "Pedro Juan Caballero" OR "Capitán Bado" OR SENAD) (marihuana OR "plantaciones de marihuana" OR "hectáreas de marihuana" OR erradicación) when:7d`},
+	{"US:es-419", `(Uruguay OR uruguayo OR uruguaya OR Montevideo OR Canelones OR Maldonado OR Rivera OR Salto OR Paysandú OR Artigas OR Tacuarembó) (marihuana OR cannabis OR "plantas de marihuana" OR faso) (incautaron OR incautación OR allanamiento OR detenido OR detenidos OR imputado OR formalizado OR plantación OR plantas OR condenado OR procesado OR aprehendido OR "Brigada Antidrogas") when:7d`},
+	{"US:en", `(Laos OR Lao OR Myanmar OR Cambodia OR Thailand OR Bangladesh) (cannabis OR marijuana OR ganja) (plants OR plantation OR cultivation OR hectares OR acres) (destroyed OR uprooted OR eradicated OR burned OR seized) when:7d`},
+	{"US:en", `(Jamaica OR "St Vincent" OR "Saint Vincent" OR Grenada OR Dominica OR "Saint Lucia" OR "St Lucia" OR Guyana OR Belize OR "Papua New Guinea") (ganja OR marijuana OR cannabis) (field OR fields OR plants OR plantation OR acres OR eradication) (destroyed OR uprooted OR eradicated OR burned OR "set ablaze") when:7d`},
 }
 
 // Country names are query terms, not assumed Google editions. A separate query
@@ -131,7 +150,7 @@ var googleNewsCountryGroups = []googleNewsCountryGroup{
 		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR convicted OR sentenced OR jailed`,
 		[]string{"Ghana", "Uganda", "Tanzania", "Rwanda", "Burundi", "Ethiopia", "Somalia", "Somaliland", `"South Sudan"`, "Sudan", "Liberia", `"Sierra Leone"`, "Gambia", "Seychelles", "Mauritius"}},
 	{"ZA:en", `cannabis OR marijuana OR dagga OR chamba OR mbanje OR matekoane OR suruma`,
-		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR convicted OR sentenced OR jailed`,
+		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR eradicated OR eradication OR convicted OR sentenced OR jailed`,
 		[]string{"Malawi", "Zambia", "Zimbabwe", "Botswana", "Namibia", "Lesotho", `Eswatini OR Swaziland`}},
 	{"FR:fr", `cannabis OR haschich OR haschisch OR hachich OR "chanvre indien" OR yamba OR diamba OR rongony OR zamal`,
 		`saisie OR saisi OR saisis OR interpellé OR interpellés OR arrêté OR condamné OR détruit OR démantelé OR prison`,
@@ -143,7 +162,7 @@ var googleNewsCountryGroups = []googleNewsCountryGroup{
 		`ضبط OR حجز OR القبض OR توقيف OR إتلاف OR مصادرة OR سجن OR إعدام`,
 		[]string{"الأردن", `فلسطين OR غزة`, "سوريا", "العراق", "الكويت", "البحرين", "قطر", "الإمارات", `عمان OR عُمان`, "اليمن", "ليبيا", "الجزائر", "تونس", "المغرب", "موريتانيا", "السودان"}},
 	{"IN:en", `cannabis OR marijuana OR ganja OR charas OR charras OR hashish OR "Kerala ganja"`,
-		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR convicted OR sentenced OR jailed OR executed`,
+		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR eradicated OR plantation OR cultivation OR convicted OR sentenced OR jailed OR executed`,
 		[]string{"Nepal", `"Sri Lanka"`, "Bhutan", "Maldives", "Afghanistan", "Iran", "Iraq", "Jordan", "Israel"}},
 	// Native editions for these languages are not assumed; explicit English fallbacks.
 	{"SG:en", `cannabis OR marijuana OR marihuana OR ganja OR hashish`,
@@ -162,13 +181,13 @@ var googleNewsCountryGroups = []googleNewsCountryGroup{
 		`saisie OR saisi OR saisis OR interpellé OR arrêté OR condamné OR perquisition OR prison OR détruit`,
 		[]string{`Belgique OR belge`, "Luxembourg", "Haïti", "Guadeloupe", "Martinique", "Guyane", `"Polynésie française" OR Tahiti`, `"Nouvelle-Calédonie"`}},
 	{"MX:es-419", `marihuana OR mariguana OR cannabis OR hachís OR mota OR "cannabis sativa"`,
-		`incautan OR incautación OR incautaron OR decomiso OR decomisaron OR detenidos OR capturados OR erradicación OR plantación OR plantío OR condenado OR sentenciado`,
+		`incautan OR incautación OR incautaron OR decomiso OR decomisaron OR detenidos OR capturados OR erradicación OR erradican OR destruyen OR destruyeron OR plantación OR plantío OR condenado OR sentenciado`,
 		[]string{"Guatemala", "Honduras", `"El Salvador"`, "Nicaragua", `"Costa Rica"`, "Panamá", "Cuba", `"República Dominicana"`, `"Puerto Rico"`, "Colombia", "Venezuela", "Ecuador", "Perú", "Bolivia", "Paraguay", "Uruguay", "Argentina", "Chile", `"Guinea Ecuatorial"`}},
 	{"US:en", `cannabis OR marijuana OR marihuana OR ganja OR hashish OR hemp`,
-		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR charged OR convicted OR sentenced OR jailed`,
+		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR eradicated OR eradication OR charged OR convicted OR sentenced OR jailed`,
 		[]string{"Jamaica", "Belize", `"Trinidad and Tobago"`, "Barbados", "Bahamas", "Bermuda", "Grenada", "Dominica", `"Saint Lucia" OR "St Lucia"`, `"Saint Vincent" OR "St Vincent"`, `"Saint Kitts" OR "St Kitts"`, "Antigua", "Guyana", "Suriname", `"Cayman Islands"`, `"British Virgin Islands"`, `"US Virgin Islands" OR "U.S. Virgin Islands"`, `"Turks and Caicos"`, "Aruba", `Curaçao OR Curacao`}},
 	{"AU:en", `cannabis OR marijuana OR marihuana OR ganja OR "Indian hemp"`,
-		`seized OR arrested OR raid OR uprooted OR destroyed OR charged OR convicted OR sentenced OR jailed`,
+		`seized OR arrested OR raid OR uprooted OR destroyed OR eradicated OR eradication OR charged OR convicted OR sentenced OR jailed`,
 		[]string{"Fiji", "Samoa", "Tonga", "Kiribati", "Vanuatu", `"Papua New Guinea" OR PNG`, `"Solomon Islands"`, "Palau", "Nauru", "Tuvalu", "Micronesia", `"Marshall Islands"`, `"Cook Islands"`, "Niue", `"Northern Mariana Islands"`, "Guam"}},
 }
 

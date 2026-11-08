@@ -211,6 +211,18 @@ func TestGoogleDefaultsReachSparseCountriesAndRegionalNames(t *testing.T) {
 			t.Fatal("missing cannabis vocabulary", term)
 		}
 	}
+	// Eradication reports name the crop and the field, not a seizure or arrest; countries
+	// without their own edition are found through place names.
+	for _, term := range []string{"eradicated", "erradicación", "pés de maconha", "ladang ganja", "дикорастущей", "بعلبك",
+		"Monaragala", "யாழ்ப்பாணம்", "Rautahat", "Amambay", "Rivera", "Guyana"} {
+		found := false
+		for _, q := range DefaultGoogleNewsQueries {
+			found = found || strings.Contains(q.Query, term)
+		}
+		if !found {
+			t.Fatal("missing eradication or place coverage", term)
+		}
+	}
 	// Geographic reach should start on the first scan, including after a restart.
 	first := (GoogleNews{Queries: DefaultGoogleNewsQueries, QueriesPerScan: 12}).batch(0)
 	for _, ed := range []string{"CA:en", "CA:fr", "AU:en", "NZ:en", "IE:en", "AR:es-419", "CO:es-419", "CL:es-419", "PE:es-419", "VE:es-419", "CU:es-419", "AT:de", "CH:de", "CH:fr", "BE:fr", "BE:nl", "EE:et", "MY:en", "AE:ar", "GH:en", "UG:en", "TZ:en", "ZW:en", "ET:en", "NA:en", "BW:en", "SN:fr"} {
