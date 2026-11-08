@@ -46,6 +46,10 @@ sources:
     url: https://hometownfamilyradio.com/news/creighton-man-sentenced-to-more-than-20-years-for-drug-and-gun-charges-for-crimes-in-central-and-western-nebraska
     publisher: Coyote Country
     date: 2026-11-02
+  - title: Creighton Man Sentenced to More Than 20 Years for Drug and Gun Charges
+    url: https://www.vannuysnewspress.com/creighton-man-sentenced-to-more-than-20-years-for-drug-and-gun-charges/
+    publisher: Van Nuys News Press
+    date: 2026-11-07
 open_questions:
   - No precise marijuana or THC weight was published, only multiple pounds and pounds, so no cannabis kilograms are recorded.
   - Methamphetamine, cocaine and psilocybin quantities are mentioned only to explain the mixed conspiracy and are excluded from cannabis figures.
@@ -53,25 +57,27 @@ open_questions:
   - Baller was scheduled for sentencing on 3 December 2026, after the opened reports, so that outcome remains unknown.
   - The submitted page's only listed image is generic stock captioned Calendars and the second page offered no event photo, so no media entry is included.
   - Both opened accounts derive from the U.S. Attorney announcement and no separate court judgment was opened.
+  - The new account gives only pounds of marijuana and THC products without a precise weight, so no cannabis kilograms can be recorded.
+  - The page's only listed image has no caption identifying the event, so no media entry is included.
 ---
 
 Samuel Rosberg, 25, of Creighton, Nebraska, was sentenced on 29 October 2026 in
 federal court in Lincoln, Nebraska, by United States District Judge Susan Bazis
 to 248 months in prison for conspiracy to distribute controlled substances and a
-firearm count in furtherance of drug trafficking. [@2] He will begin a five-year
+firearm count in furtherance of drug trafficking. [@2,3] He will begin a five-year
 term of supervised release after his release from prison. [@1] Co-defendant
 Drake Baller pleaded guilty to conspiracy and a firearm count and is scheduled
-for sentencing on 3 December 2026 before Bazis. [@2]
+for sentencing on 3 December 2026 before Bazis. [@2,3]
 
 Prosecutors said Rosberg and his co-defendants distributed and possessed with
 intent to distribute at least 71 grams of actual methamphetamine, at least one
 kilogram of methamphetamine mixture and at least five kilograms of cocaine,
 alongside multiple pounds of marijuana and THC products and psilocybin
-mushrooms. [@1] Rosberg supplied Baller with methamphetamine, cocaine and THC
+mushrooms. [@1,3] Rosberg supplied Baller with methamphetamine, cocaine and THC
 products to sell, and law enforcement monitored two controlled buys from Baller
 in Kearney in March 2025. [@1] On 3 June 2025 officers executed a search warrant
 at Rosberg’s home and seized more than 20 firearms, including revolvers,
-pistols, shotguns and rifles with accessories and ammunition. [@1]
+pistols, shotguns and rifles with accessories and ammunition. [@1,3]
 
 United States Attorney Lesley Woods said drug dealers too often protect their
 trade with illegal firearms and called the result a commendable outcome by the
@@ -80,4 +86,3 @@ community. [@1] The TRIDENT and CODE task forces cover a 22-county area in
 west-central and southwest Nebraska and include local police and sheriff’s
 offices, the Nebraska State Patrol, the FBI and Homeland Security
 Investigations. [@1]
-
