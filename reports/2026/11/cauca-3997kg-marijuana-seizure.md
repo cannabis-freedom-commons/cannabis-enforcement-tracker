@@ -63,6 +63,11 @@ sources:
     publisher: Diario Libre
     date: 2026-11-07
     language: es
+  - title: Incautan cerca de cuatro toneladas de marihuana en el Cauca que tendrían como destino Perú y Chile
+    url: https://www.vanguardia.com/colombia/2026/11/07/incautan-cerca-de-cuatro-toneladas-de-marihuana-en-el-cauca-que-tendrian-como-destino-peru-y-chile/
+    publisher: Vanguardia
+    date: 2026-11-07
+    language: es
 open_questions:
   - No municipality or separate date for the operation was published; 7 November 2026 is the EFE dispatch and announcement date and stands in for the event date.
   - The names, charges and judicial outcome for the two captured people were not reported.
@@ -70,21 +75,22 @@ open_questions:
   - 'No event photo could be listed: the submitted page offers only a logo image, and no direct event-photo address was recoverable from the corroborating page.'
   - The submitted page carries one photo whose caption is only the headline, with no credit, so it is not established to show this seizure and no media entry is listed.
   - The page's only image is explicitly labelled as an archive photo of an earlier 7-tonne seizure, so no event photo can be listed as media.
+  - The page carries a photo captioned about the seized marijuana, but with no credit or confirmation that it shows this Cauca seizure, so no media entry is added.
 ---
 
 Colombian authorities seized 3,997 kilograms of marijuana in an operation in the
-department of Cauca in southwestern Colombia. [@1,3,4,5] The marijuana was reportedly
-to be sent to Peru and Chile. [@1,3,4,5] President Abelardo de la Espriella announced
+department of Cauca in southwestern Colombia. [@1,3,4,5,6] The marijuana was reportedly
+to be sent to Peru and Chile. [@1,3,4,5,6] President Abelardo de la Espriella announced
 the seizure in Cauca, the capture of two people and the immobilisation of three
 vehicles. [@1,3,4] Two people were captured and three vehicles were immobilised in
-the operation. [@2,3,5]
+the operation. [@2,3,5,6]
 
 The find came after an operation by the National Police against structures
 dedicated to drug trafficking. [@2] Among the seized material were 1,186
 packages of creepy-type marijuana allegedly destined for illegal markets in Peru
-and Chile. [@1,3,4,5] Authorities also seized 4,542 litres of chemical substances, 100
+and Chile. [@1,3,4,5,6] Authorities also seized 4,542 litres of chemical substances, 100
 containers of caustic soda, 36 scales and other supplies used in clandestine
-laboratories for processing narcotics. [@1,3,4]
+laboratories for processing narcotics. [@1,3,4,6]
 
 De la Espriella said each seized shipment means fewer resources to finance
 terrorism, buy weapons and sow violence in the regions. [@1,3] The EMC dissidence,
