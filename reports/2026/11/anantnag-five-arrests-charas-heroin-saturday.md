@@ -51,6 +51,10 @@ sources:
     publisher: Rozana Spokesman
     date: 2026-11-07
     language: pa
+  - title: Police Arrest Five Drug Peddlers in Multiple Operations in Anantnag
+    url: https://thekashmirhorizon.com/2026/11/07/police-arrest-five-drug-peddlers-in-multiple-operations-in-anantnag/
+    publisher: The Kashmir Horizon
+    date: 2026-11-07
 open_questions:
   - No weight, quantity, street value or case value was published for any of the heroin or charas recoveries, so no cannabis weight can be recorded.
   - The article gives no separate date for the operations; 7 November 2026 is its publication date and is also the day officials said they spoke.
@@ -61,17 +65,17 @@ open_questions:
 ---
 
 Police arrested five alleged drug peddlers in separate operations in Anantnag
-district, Jammu and Kashmir, and recovered heroin and charas from them. [@1,2] The
+district, Jammu and Kashmir, and recovered heroin and charas from them. [@1,2,3] The
 arrests were made by police posts at Sangam, DK Pora and Dialgam as part of a
 continuing crackdown on drug trafficking. [@1]
 
 A police party at Sangam apprehended Reyaz Ahmad Mir, a resident of Khelen
-Litter, and recovered heroin from him. [@1,2] In a separate operation at Marhama,
+Litter, and recovered heroin from him. [@1,2,3] In a separate operation at Marhama,
 Zubair Sultan Reshi, a resident of Sether Sangam, was arrested with charas. [@1,2]
 Police Post DK Pora apprehended Rayees Ahmad Khan, a resident of Damhal, and
 recovered charas from him. [@1,2] In two further operations, police arrested Yawar
 Ahmad Gani and Ubaid Manzoor Doobi, both residents of Fathepora, and recovered
-charas from them. [@1,2]
+charas from them. [@1,2,3]
 
 FIR Nos. 408/2026 and 409/2026 were registered at Police Station Anantnag under
 relevant sections of the NDPS Act, and further investigation was under way. [@1,2]
