@@ -49,11 +49,22 @@ sources:
     url: https://radiojamaicanewsonline.com/local/two-jamaicans-sentenced-to-prison-for-importing-ganja-to-cayman
     publisher: Radio Jamaica News Online
     date: 2019-06-14
+  - title: Three charged in 810 lbs of ganja case in court
+    url: https://www.caymancompass.com/2019/04/11/three-charged-in-810-lbs-of-ganja-case-in-court/
+    publisher: Cayman Compass
+    date: 2019-04-11
 open_questions:
   - The incident date uses the 12 June 2019 sentencing publication date; the interception occurred on 18 March 2019 and no separate sentencing date beyond Wednesday is stated.
   - The kilogram total combines 810 pounds of ganja, 2.1 pounds of resin and 1.29 grammes of oil; the CI$939,000 value covers only the ganja.
   - No court outcome for Dalton Alphonso Wright is reported in the opened sources beyond his scheduled 20 June appearance.
   - The submitted page image shows only the courthouse in George Town and does not depict this seizure, so no media entry is included.
+  - The April report says Watson faces the reckless-act and imitation-firearm charges, while the existing sentencing report attributes those firearm allegations to Dalton Alphonso Wright; the report uses the existing attribution and the new source is added only for the shared seizure facts.
+media:
+  - kind: photo
+    url: https://www.caymancompass.com/2019/04/11/three-charged-in-810-lbs-of-ganja-case-in-court/
+    media_url: https://caymancompass.s3.amazonaws.com/wp-content/uploads/2019/04/25035324/Ganja-on-boat.jpg
+    publisher: Cayman Compass
+    caption: 'Hundreds of pounds of ganja seized at sea in the March 18 operation. Photo: RCIPS'
 ---
 
 Two Jamaican nationals received prison sentences for their roles in importing
@@ -66,9 +77,9 @@ sentenced to 30 months while Campbell received 28 months for importing more than
 800 pounds of ganja. [@2]
 
 The pair and a third co-conspirator, Dalton Alphonso Wright, were apprehended on
-18 March on a boat located 11.5 nautical miles away from Grand Cayman. [@1]
+18 March on a boat located 11.5 nautical miles away from Grand Cayman. [@1,3]
 During a brief chase, Watson and Campbell were seen throwing packages overboard
-which were later determined to contain ganja. [@1] Police recovered 810 pounds
+which were later determined to contain ganja. [@1,3] Police recovered 810 pounds
 of ganja (about 367.4 kg), 1.29 grammes of cannabis oil and 2.1 pounds of
 cannabis resin (about 0.95 kg) once the vessel was stopped. [@1] Crown counsel
 Darlene Oko said the street value of the ganja was CI$939,000, but neither
@@ -85,3 +96,4 @@ to appear in court on 20 June on the importation charges plus possession of an
 imitation firearm with intent and reckless and negligent acts after allegedly
 brandishing a firearm at officers and ramming their boat. [@1]
 
+The seized packages were first weighed at 900 pounds before completed drug certificates amended the charge weight to 810 pounds of ganja. [@3]
