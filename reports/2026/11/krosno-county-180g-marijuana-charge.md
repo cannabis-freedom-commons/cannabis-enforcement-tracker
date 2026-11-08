@@ -87,6 +87,11 @@ sources:
     publisher: Rzeszów24.info
     date: 2026-11-05
     language: pl
+  - title: Ponad 180 gramów marihuany w domu 33-latka. Mężczyzna został zatrzymany
+    url: https://rzeszow.tvp.pl/96315535/ponad-180-gramow-marihuany-w-domu-33-latka-mezczyzna-zostal-zatrzymany
+    publisher: TVP Rzeszów
+    date: 2026-11-05
+    language: pl
 open_questions:
   - Police said officers visited the home during the preceding week but gave no exact day; 5 November 2026, the publication date, is used as the incident date.
   - The home was identified only as being in Krosno County; no town or village was named, and the Krosno County centre coordinates stand in for it.
@@ -101,7 +106,7 @@ open_questions:
 ---
 
 Police found more than 180 grams of marijuana and an electronic scale in the
-home of a 33-year-old Krosno County resident, whom they detained. [@1,4,6,7] Criminal
+home of a 33-year-old Krosno County resident, whom they detained. [@1,4,6,7,9] Criminal
 investigators from the District Police Headquarters in Strzyżów suspected that
 the resident possessed prohibited substances. [@2,3,7] Officers went to his home
 during the previous week to verify their suspicions and prevent the substances
@@ -111,11 +116,11 @@ at his home. [@2,3] An initial test identified the material as marijuana, with t
 seized amount exceeding 180 grams. [@2,3,7]
 
 The man was taken to a police detention facility after the search. [@2,4,6] After
-questioning, he was charged with possessing narcotic drugs. [@2,5,7] Officers from
+questioning, he was charged with possessing narcotic drugs. [@2,5,7,9] Officers from
 the investigation-and-detection department gathered evidence and sent the case
 materials to the Strzyżów District Prosecutor’s Office. [@2,6] A prosecutor placed
-him under police supervision. [@2,6,7] Police said the possession offense carries a
-possible prison term of up to three years. [@2,7]
+him under police supervision. [@2,6,7,9] Police said the possession offense carries a
+possible prison term of up to three years. [@2,7,9]
 
 The court will decide on the man's criminal responsibility. [@5]
 
