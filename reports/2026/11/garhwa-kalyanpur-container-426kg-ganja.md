@@ -43,6 +43,11 @@ media:
     media_url: https://www.jagranimages.com/images/2026/11/08/template/image/Garwa-police-1794143668978_v.webp
     publisher: Dainik Jagran
     caption: 'गांजा बरामद कंटेनर — the container from which Garhwa police recovered the ganja packets. Photo: Dainik Jagran'
+  - kind: photo
+    url: https://www.prabhatkhabar.com/state/jharkhand/garhwa/426-kg-ganja-seized-container-secret-compartment
+    media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/08/1794146536213/sizes/08gar_m_10_08112026_32-63b0d4-webp.webp
+    publisher: Prabhat Khabar
+    caption: 'बरामद गांजा — the ganja recovered from the container, in the photo published with the Prabhat Khabar report. Photo: Prabhat Khabar Network'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9152309c8c9c67de39777accf46f0193
@@ -58,6 +63,11 @@ sources:
     publisher: Kashish News
     date: 2026-11-08
     language: hi
+  - title: गढ़वा के कल्याणपुर ओवरब्रिज के पास खड़े कंटेनर से मिला 426 किलो गांजा
+    url: https://www.prabhatkhabar.com/state/jharkhand/garhwa/426-kg-ganja-seized-container-secret-compartment
+    publisher: Prabhat Khabar
+    date: 2026-11-08
+    language: hi
 open_questions:
   - The article gives no separate date for the recovery; 8 November 2026 is its publication date and is used as the incident date.
   - The total is presented as 426 packets of about one kilogram each, so the 426 kg figure is the police's own calculation rather than a measured weight.
@@ -68,25 +78,30 @@ open_questions:
   - The single page photo is credited to the outlet, and its caption identifies it only as the ganja recovered from the container, so it is listed as media without a copy.
   - Kashish News values the 426 kilograms at about one crore rupees, a figure the existing report does not carry; the submitted page gives no sum beyond that estimate.
   - Kashish News calls the vehicle a truck while Dainik Jagran described a container taken to Garhwa police station and cut open; the accounts agree on place, quantity, lead officer and investigation status.
+  - Prabhat Khabar gives no separate date for the recovery; 8 November 2026 is its publication date, as in the existing report.
+  - The outlets share the same police account and the same 426-packet, about-one-kilogram-each basis for the total, so it is still the police's own calculation rather than a measured weight.
+  - The page photo is credited only to Prabhat Khabar Network, and its alt text mentions a press briefing by the sub-divisional police officer, so it is not confirmed to show only the recovered ganja.
 ---
 
 Garhwa police in Jharkhand recovered 426 kilograms of ganja from a container
-parked beside the road near the Kalyanpur overbridge. [@1,2] The superintendent of
+parked beside the road near the Kalyanpur overbridge. [@1,2,3] The superintendent of
 police acted on a tip and sent a special raiding team led by Garhwa
 sub-divisional police officer Dillu Lohra, with station house officer Sunil
-Kumar Tiwari and other officers. [@1] The team found the container standing
+Kumar Tiwari and other officers. [@1,3] The team found the container standing
 empty at the roadside, and a search for the driver produced no trace of him.
 [@1]
 
 Behind the driver's cabin officers found a specially built box-like hidden
-structure that was being used to carry narcotics concealed. [@1] The container
+structure that was being used to carry narcotics concealed. [@1,3] The container
 was taken to Garhwa police station, where officers cut the hidden box open with
-a cutter machine and found 426 packets of ganja wrapped in plastic bags. [@1]
+a cutter machine and found 426 packets of ganja wrapped in plastic bags. [@1,3]
 Each packet weighed about one kilogram, giving the police's total of 426
-kilograms of ganja. [@1]
+kilograms of ganja. [@1,3]
 
 Lohra said Garhwa police were running a continuing campaign against the illegal
 narcotics trade and smuggling. [@1,2] Police said further investigation was under
 way to establish the ganja's source and destination, the involvement of the
-vehicle's owner and driver, and the wider network. [@1,2] No one was arrested when
-the ganja was recovered, and the police account names no suspect. [@1,2]
+vehicle's owner and driver, and the wider network. [@1,2,3] No one was arrested when
+the ganja was recovered, and the police account names no suspect. [@1,2,3]
+
+The container carrying the ganja bore the Uttar Pradesh registration number UP21BN7171, and Garhwa superintendent of police Ashutosh Shekhar received the tip that led to the search. [@3]
