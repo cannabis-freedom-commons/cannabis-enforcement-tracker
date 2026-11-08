@@ -109,6 +109,11 @@ sources:
     publisher: RGH NEWS
     date: 2026-11-07
     language: hi
+  - title: गांजा तस्करी का फरार एक आरोपित गिरफ्तार, 447 किलो गांजा हुआ था बरामद
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/8/ABSCOUNDIN-ACCUSED-IN-CANNABIS-ARRESTED.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-08
+    language: hi
 open_questions:
   - The article does not date the interception or the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - Only one source, the submitted NWNews24 report, could be opened for this event, so the weights, packet count and valuations are not independently corroborated.
@@ -138,6 +143,9 @@ open_questions:
   - Raj Express calls the seized car by its Haryana registration only and does not name the make, while other accounts describe a Toyota Fortuner.
   - Dainik Bhaskar dates the arrest to 7 November, the same day police recovered the load, while other accounts describe a search of several days; the earlier report's account of the arrest date is retained.
   - RGH News repeats the combined valuation of the consignment at about Rs 2.23 crore; the different weights already recorded in the report (433 kg, 447.720 kg, about 450 kg) remain unresolved.
+  - This account gives the haul as 447.720 kg in 90 packets, against 433 kg in 90 packets in the existing report; the existing figures are retained and the difference is unresolved.
+  - This page appears to be the original of the Vocal TV reprint already cited by the existing report, so it is not an independent corroboration of the weights and valuations.
+  - The page picture carries only the headline as its caption and no credit, so it cannot be confirmed to show this seizure and no media entry is added.
 ---
 
 Kanker district police in Chhattisgarh say they have broken up an interstate
@@ -148,8 +156,8 @@ have been used in the smuggling, valued at about Rs 25 lakh, was also seized.
 [@1,3]
 
 The gang fled after dumping the load near Singarbhat when they saw a police
-check. [@1,2,3,5] Police arrested the fugitive accused, named in the report as
-Sukhpal, in Uttar Pradesh. [@1,2,3,4,5,6,9]
+check. [@1,2,3,5,10] Police arrested the fugitive accused, named in the report as
+Sukhpal, in Uttar Pradesh. [@1,2,3,4,5,6,9,10]
 
 Investigators said the accused kept changing vehicle registration numbers to
 move loads between states. [@1,2,3,5] Police put the total value of what was seized in
@@ -161,12 +169,14 @@ Police traced the accused with the help of the cyber team. [@2,6,7] Police set u
 
 The accused kept 6 fake number plates in the Fortuner for the Odisha-to-Haryana supply run. [@4]
 
-Police and the cyber cell checked footage from more than 300 CCTV cameras to trace the accused. [@5] The plates the accused used were from Odisha, Maharashtra and Haryana. [@5] The accused was produced in court on 7 November. [@5]
+Police and the cyber cell checked footage from more than 300 CCTV cameras to trace the accused. [@5,10] The plates the accused used were from Odisha, Maharashtra and Haryana. [@5,10] The accused was produced in court on 7 November. [@5]
 
-Police said a tip on 4 November said ganja was being brought in a Fortuner from Odisha via Keshkal towards Kanker. [@6] The brown-taped packets were found in the forest and hill area near the Shiva temple at Singarbhat village's rice-mill quarter and were counted and weighed in front of witnesses. [@6] Additional superintendent of police Yogesh Sahu said the six plates carried numbers from Odisha, Maharashtra and Haryana and were used to dodge police checks. [@6]
+Police said a tip on 4 November said ganja was being brought in a Fortuner from Odisha via Keshkal towards Kanker. [@6,10] The brown-taped packets were found in the forest and hill area near the Shiva temple at Singarbhat village's rice-mill quarter and were counted and weighed in front of witnesses. [@6,10] Additional superintendent of police Yogesh Sahu said the six plates carried numbers from Odisha, Maharashtra and Haryana and were used to dodge police checks. [@6]
 
 Raj Express attributes the account of the arrest, the car and the spare number plates to Yogesh Sahu, additional superintendent of police in Kanker. [@7]
 
 A 30-year-old man, Sukhpal alias Sukkha, was arrested in Fatehabad district of Haryana in connection with the ganja worth about Rs 2.23 crore found below Singarbhat hill near Kanker town. [@8]
 
 Police said the accused was arrested on 7 November and produced in court, where he was sent to judicial remand, and that a case was registered against him under the NDPS Act. [@4] Prison numbers for the case are unavailable; the report records no sentence. [@9]
+
+Police first blockaded the Garhpichwari Chowk bypass road and later set up blockades at Makdi Pulia and Gyani Chowk. [@10] The driver kept changing his location and switching off his mobile phone while evading the cordon. [@10] Police brought the accused to Kanker on Sunday 8 November after arresting him in Uttar Pradesh. [@10] Police also checked cameras at toll posts, petrol pumps and main intersections. [@10]
