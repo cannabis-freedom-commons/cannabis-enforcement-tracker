@@ -60,26 +60,33 @@ sources:
     publisher: GrandangoloAgrigento
     date: 2026-11-05
     language: it
+  - title: 'In casa con 100 grammi di hashish, tentò fuga sui balconi: condannato 29enne'
+    url: https://www.canicattiweb.com/2026/11/08/in-casa-con-100-grammi-di-hashish-tento-fuga-sui-balconi-condannato-29enne/
+    publisher: Canicatti Web Notizie
+    date: 2026-11-08
+    language: it
 open_questions:
   - The reports give no separate date for the search or the sentencing hearing; 5 November 2026 is the publication date and is used as the incident date.
   - The hashish weight is given only as almost or just under 100 grams, not an exact weight, and is recorded as 0.1 kg.
   - The pages give no value for the seized hashish and no fine amount was reported.
   - The submitted page carries a generic stock picture of hashish that its empty caption does not tie to this seizure, so no photo is listed as showing the event.
+  - The Canicattì Web Notizie page gives no separate date for the sentencing hearing; 5 November 2026 is the incident date from earlier coverage and this page was published on 8 November 2026.
+  - The page describes the escape as jumping across balconies without naming Sambuca, while another outlet places the jump on the balcony of a neighbouring building in Sambuca.
+  - The page carries an uncaptioned generic stock picture of a courtroom and a man in handcuffs, with no credit tying it to this case, so no photo is listed.
 ---
 
 A court in Sciacca sentenced 29-year-old Francesco Sabella of Menfi to one year
-in prison. [@1] He was convicted of possessing drugs for dealing and of
-resisting a public official. [@2] The judge found the drug offence to be of
+in prison. [@1,3] He was convicted of possessing drugs for dealing and of
+resisting a public official. [@2,3] The judge found the drug offence to be of
 minor gravity and suspended the prison term on condition that he do a year of
-work in a public facility. [@1]
+work in a public facility. [@1,3]
 
-The case began with a search by officers of the Sciacca police station. [@1] The
-officers found almost 100 grams of hashish in his possession. [@1] When the
+The case began with a search by officers of the Sciacca police station. [@1,3] The
+officers found almost 100 grams of hashish in his possession. [@1,3] When the
 officers found the drug, he tried to avoid the check by fleeing across the
-balconies of the building. [@1] The flight lasted only briefly before the
+balconies of the building. [@1,3] The flight lasted only briefly before the
 officers reached him and stopped him. [@1]
 
 A second local outlet reports the same hearing and says police found the accused
 with just under 100 grams of hashish before he jumped between balconies and was
 caught. [@2]
-
