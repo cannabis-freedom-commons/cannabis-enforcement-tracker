@@ -104,6 +104,11 @@ sources:
     publisher: Newshub.gr
     date: 2026-11-07
     language: el
+  - title: 'Χανιά: Μεγάλες ποσότητες ναρκωτικών έκρυβαν οι "καβάτζες" 26χρονου'
+    url: https://www.cretalive.gr/kriti/hania-megales-posotites-narkotikon-ekryban-oi-kabatzes-26hronoy
+    publisher: Cretalive
+    date: 2026-11-07
+    language: el
 open_questions:
   - The exact village in the Municipality of Apokoronas is not named, so district coordinates are used.
   - The sources call the cannabis only 'kannavi' without saying whether it is herbal or resin, or whether it was for sale.
@@ -122,11 +127,12 @@ open_questions:
   - The three photos on the Newshub page are the same police handout images already linked from Nea Kriti and are not added again.
   - The Newshub page gives no separate time for the searches beyond the morning of 7 November 2026 in its reproduction of the police announcement.
   - Newshub and Rethemnos Live reproduce the same Chania police statement as the accounts already cited, so they are not independent reporting of the arrest.
+  - Cretalive reproduces the same Chania police announcement as the accounts already cited, so it is not independent reporting of the arrest.
 ---
 
 Police in the Municipality of Apokoronas, Chania, on Crete arrested a
 26-year-old Greek man on the morning of 7 November 2026 after searches of his
-home and of storage places he used. [@1,4,6,9] The searches were made in the house and
+home and of storage places he used. [@1,4,6,9,11] The searches were made in the house and
 in places the 26-year-old used as storage points, which the accounts call
 kavatzas, a Greek term for a hiding place or stash. [@2,10]
 
@@ -138,7 +144,7 @@ activity. [@1,4] The accounts also list a weighing scale, three mobile phones an
 a private car seized as a means of facilitating the alleged crime. [@1]
 
 The man was arrested for offences under the drug laws and was to be taken before
-the competent prosecutor. [@3] The preliminary investigation continued at the
+the competent prosecutor. [@3,11] The preliminary investigation continued at the
 Chania drug enforcement department. [@1,6]
 
 The cannabis the man was found with was raw cannabis, the herb rather than resin. [@8] The searches were made at a secluded house in the community of Nipos, in the Municipality of Apokoronas, which police said was used to store and distribute drugs. [@8,9] A drug-detection dog took part in the search of the house. [@8,9] Police said the man was suspected of receiving, holding and passing on quantities of cocaine and cannabis, possibly with unknown associates still being sought. [@8]
