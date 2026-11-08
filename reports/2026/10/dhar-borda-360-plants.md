@@ -58,6 +58,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-10-29
     language: hi
+  - title: 'धार में खेत से गांजे के 360 पौधे जब्त: एक आरोपी गिरफ्तार; 43 लाख का 433.70 किलो पकड़ा'
+    url: https://www.bhaskar.com/local/mp/dhar/manawar/news/dhar-police-seize-marijuana-plants-arrest-accused-ganja-raid-139526959.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-29
+    language: hi
 open_questions:
   - The article dates the informer’s tip to 28 October 2026 and says police searched after checking it, but it does not give a separate date for the raid itself.
   - No court outcome, charge sections, or field area was published.
@@ -69,7 +74,7 @@ open_questions:
 
 Police in the Gandhwani station area of Dhar district, Madhya Pradesh, raided a
 field in Borda village after an informer said cannabis was being grown illegally
-among cotton and pigeon pea, known locally as tuvar. [@1] A trusted informer
+among cotton and pigeon pea, known locally as tuvar. [@1,3] A trusted informer
 gave that tip on 28 October 2026, after police had been receiving reports of
 illegal cannabis cultivation in fields under the Jeerabad outpost and Gandhwani
 police station. [@1]
@@ -77,10 +82,12 @@ police station. [@1]
 After checking the tip, the team searched the fields and recovered 360 green
 cannabis plants, ganja in local usage, from the cotton field of Magarsingh, son
 of Dhansingh Bilwal. [@1,2] Police said the plants weighed 433.70 kilograms in
-all, seized them, and put their estimated price at 43 lakh rupees. [@1,2] Officers
+all, seized them, and put their estimated price at 43 lakh rupees. [@1,2,3] Officers
 arrested 45-year-old Magarsingh Bilwal, the field owner, and registered a case.
 [@1]
 
 The action was led by station in-charge Pradeep Khanna, with Jeerabad outpost
 in-charge sub-inspector Manish Kumar Choudhary, head constable Sukhram Chauhan,
 other constables and a soldier named Parvat. [@1]
+
+The page reports that police arrested one suspect in the case. [@3]
