@@ -118,6 +118,11 @@ sources:
     publisher: Zazoom Social News
     date: 2026-11-07
     language: it
+  - title: 'Latina, tre bustine nel giubbotto e oltre 38 chili di hashish in casa: arrestato un 25enne'
+    url: https://www.latinaquotidiano.it/latina-tre-bustine-nel-giubbotto-e-oltre-38-chili-di-hashish-in-casa-arrestato-un-25enne/
+    publisher: Latina Quotidiano
+    date: 2026-11-08
+    language: it
 open_questions:
   - No date is given for the stop or the searches; 7 November 2026 is the publication date and is used as the incident date.
   - The hashish weight is given as about 38.3 kilograms and the 28 grams found at the stop as about 28 grams, so neither is an exact measured figure.
@@ -140,11 +145,12 @@ open_questions:
   - The submitted page gives only the publication date of 7 November 2026; the evening of 6 November operation date is established by the already-cited Latina outlets.
   - The page's only image reuses the Latina Oggi 'mobile_2' file with no caption or credit confirming it shows this seizure, so no media entry is added.
   - The Zazoom page states only the 525 euros found on the man and gives no total for the cash found in the home.
+  - The submitted page states that the 14,765 euros were found partly during the check and partly in the home, and does not separate the 525 euros found on the man from that total.
 ---
 
 Police from the Squadra Mobile, the flying squad of the Latina police
 headquarters, arrested a 25-year-old man after stopping him for a check in the
-Cucchiarelli district of Latina. [@1,4,9,11,12,13]
+Cucchiarelli district of Latina. [@1,4,9,11,12,13,14]
 
 The officers found three bags holding a total of about 28 grams of hashish and
 525 euros in cash on him. [@1,2,4,7,8,9,10,12,13]
@@ -159,8 +165,8 @@ The man is under investigation for possession of narcotics for the purpose of
 dealing and was taken to the Latina prison on the order of the Public
 Prosecutor's Office. [@1,2,4,5,9,10,12]
 
-Police made the arrest in the evening of Friday 6 November 2026. [@2,9] Police said the case is still at the preliminary investigation stage and the suspect's guilt can only be established by a final conviction. [@3]
+Police made the arrest in the evening of Friday 6 November 2026. [@2,9] Police said the case is still at the preliminary investigation stage and the suspect's guilt can only be established by a final conviction. [@3,14]
 
-Police made the arrest in the evening of Friday 6 November 2026, during operations to prevent and counter drug dealing. [@4,10,12]
+Police made the arrest in the evening of Friday 6 November 2026, during operations to prevent and counter drug dealing. [@4,10,12,14]
 
 The three sachets holding the about 28 grams of hashish were found in the young man's jacket, Latina News reported. [@6]
