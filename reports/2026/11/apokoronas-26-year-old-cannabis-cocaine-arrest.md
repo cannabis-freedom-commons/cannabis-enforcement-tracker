@@ -99,6 +99,11 @@ sources:
     publisher: Πρώτο Θέμα
     date: 2026-11-07
     language: el
+  - title: 'Αποκόρωνας Χανίων: Στο δόκανο της ΕΛΑΣ 26χρονος με πάνω από ένα κιλό κοκαΐνης (Φωτο)'
+    url: https://www.newshub.gr/el/kriti/apokoronas-chanion-sto-dokano-tis-elas-26chronos-me-pano-apo-ena-kilo-kokainis-foto
+    publisher: Newshub.gr
+    date: 2026-11-07
+    language: el
 open_questions:
   - The exact village in the Municipality of Apokoronas is not named, so district coordinates are used.
   - The sources call the cannabis only 'kannavi' without saying whether it is herbal or resin, or whether it was for sale.
@@ -114,13 +119,16 @@ open_questions:
   - Newpost and ApokoronasLife also reproduce the same Chania police statement, so they are not independent reporting of the arrest.
   - The two photos on the ApokoronasLife page are the same police handout images as those already linked from Nea Kriti and are not added again.
   - 'Χανιά: Συνελήφθη 26χρονος με ένα κιλό κοκαϊνη και 15.000 ευρώ (ΝΕΟΙ ΟΡΙΖΟΝΤΕΣ) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.'
+  - The three photos on the Newshub page are the same police handout images already linked from Nea Kriti and are not added again.
+  - The Newshub page gives no separate time for the searches beyond the morning of 7 November 2026 in its reproduction of the police announcement.
+  - Newshub and Rethemnos Live reproduce the same Chania police statement as the accounts already cited, so they are not independent reporting of the arrest.
 ---
 
 Police in the Municipality of Apokoronas, Chania, on Crete arrested a
 26-year-old Greek man on the morning of 7 November 2026 after searches of his
 home and of storage places he used. [@1,4,6,9] The searches were made in the house and
 in places the 26-year-old used as storage points, which the accounts call
-kavatzas, a Greek term for a hiding place or stash. [@2]
+kavatzas, a Greek term for a hiding place or stash. [@2,10]
 
 The searches found and seized 96.8 grams of cannabis, which is the only cannabis
 quantity the accounts give. [@1,5,6,7,9] Police also seized 1 kilo and 173.1 grams of
@@ -134,3 +142,5 @@ the competent prosecutor. [@3] The preliminary investigation continued at the
 Chania drug enforcement department. [@1,6]
 
 The cannabis the man was found with was raw cannabis, the herb rather than resin. [@8] The searches were made at a secluded house in the community of Nipos, in the Municipality of Apokoronas, which police said was used to store and distribute drugs. [@8,9] A drug-detection dog took part in the search of the house. [@8,9] Police said the man was suspected of receiving, holding and passing on quantities of cocaine and cannabis, possibly with unknown associates still being sought. [@8]
+
+Rethemnos Live, reproducing the same Chania police announcement, describes the arrested 26-year-old as an ethnic Greek national (ημεδαπός). [@1]
