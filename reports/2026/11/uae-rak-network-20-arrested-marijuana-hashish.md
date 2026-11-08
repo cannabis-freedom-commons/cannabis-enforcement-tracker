@@ -241,6 +241,11 @@ sources:
     publisher: Anadolu Ajansı (الأناضول)
     date: 2026-11-06
     language: ar
+  - title: الإمارات تعتقل 20 مشتبهًا بهم حاولوا تهريب 200,000 حبة وأكثر من 30 كجم من المخدرات
+    url: https://lovin.co/dubai/ar/news-ar/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-20-%D9%85%D8%B4%D8%AA%D8%A8%D9%87%D9%8B%D8%A7-%D8%A8%D9%87%D9%85-%D8%AD%D8%A7%D9%88%D9%84%D9%88%D8%A7-%D8%AA%D9%87%D8%B1/
+    publisher: Lovin Dubai
+    date: 2026-11-07
+    language: ar
 open_questions:
   - No separate weight or street value was published for the marijuana or hashish; the more than 30 kg figure covers all the non-Captagon drugs together.
   - The sources give no date for the arrests or the interception; 6 November 2026 is the announcement and publication date and stands in for the incident date.
@@ -305,23 +310,28 @@ open_questions:
   - The Russian translation describes the arrests outside the border as coordinated raids across different regions of the UAE, where the English and Arabic accounts the report cites describe ambushes and surveillance.
   - The page attributes its account to Khaleej Times and adds no separate cannabis weight, date of the arrests or court stage.
   - The submitted page's feature image is captioned only with the headline and is not established to show this seizure, so no media entry is added.
+  - The Lovin Dubai page gives no separate weight or value for the marijuana or hashish; its more than 30 kg figure covers cocaine, crystal meth, marijuana, hashish and Spice together.
+  - The page gives no date for the interception or the arrests; 7 November 2026 is its publication date, while the announcement was made on 6 November 2026, the date the existing report uses.
+  - The page calls Spice simply التوابل (spice) and attributes no quantities by substance; it reports no charges or court stage.
+  - The page's lead image has no caption and no credit, so it is not established to show this seizure and no media entry is added.
+  - The page lists four emirates as the operation's area — Dubai, Sharjah, Ras Al Khaimah and Ajman — without saying where individuals were arrested.
 ---
 
 Emirati security services arrested 20 suspects accused of belonging to a
 multinational criminal network, the National Anti-Narcotics Agency announced on
-6 November 2026. [@1,6,7,8,9,10,11,12,13,15,16,18,19,20,21,22,24,25,26,29,30,31,32,33] The suspects are described as holding Gulf, Arab, African
+6 November 2026. [@1,6,7,8,9,10,11,12,13,15,16,18,19,20,21,22,24,25,26,29,30,31,32,33,35] The suspects are described as holding Gulf, Arab, African
 and Asian nationalities, and they were held in an operation meant to break every
-link of the plan, from smuggling to preparation for dealing. [@1,2,6,10,14,24,27,34]
+link of the plan, from smuggling to preparation for dealing. [@1,2,6,10,14,24,27,34,35]
 
 Officers caught some suspects while they carried the drugs and tried to smuggle
 them, and the remaining suspects were arrested inside the UAE in ambushes and
 surveillance, Shafaq News reported. [@4,5,8,10,11,12,13,15,17,18,21,22,24,25,34] The network planned to bring the drugs
 in through a border area of Ras Al Khaimah and then distribute them around the
-country. [@1,8,9,10,12,16,17,18,19,20,21,22,23,24,27,28,29,30,31,32,34]
+country. [@1,8,9,10,12,16,17,18,19,20,21,22,23,24,27,28,29,30,31,32,34,35]
 
 The haul included marijuana and hashish among cocaine, crystal methamphetamine
 and Spice; the latter is a synthetic drug and is not counted as cannabis here.
-[@2,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25,26,27,29,31,32,33,34] The operation also seized 200,000 Captagon pills and more than 30 kg of
+[@2,9,10,11,12,13,16,17,18,19,20,21,22,23,24,25,26,27,29,31,32,33,34,35] The operation also seized 200,000 Captagon pills and more than 30 kg of
 drugs in total, with no separate figure given for the cannabis. [@3,11,12,17,19,20,24,27,29,30,34]
 
 The National Anti-Narcotics Agency ran the operation with Ras Al Khaimah Police,
