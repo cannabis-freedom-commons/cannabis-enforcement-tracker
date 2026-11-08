@@ -167,6 +167,11 @@ sources:
     url: https://www.newindianexpress.com/cities/hyderabad/2026/Nov/08/hyderabad-ganja-queen-faces-30-cases
     publisher: The New Indian Express
     date: 2026-11-08
+  - title: EAGLE Force arrests woman wanted in 13 ganja cases
+    url: https://hyderabadmail.com/hyderabad-eagle-force-arrests-kalapathi-nithu-bai-ganja-cases/
+    publisher: Hyderabad Mail
+    date: 2026-11-08
+    language: en
 open_questions:
   - No cannabis was found during the arrest; the ₹1 lakh seized was cash, so no cannabis weight or cannabis-specific value is recorded.
   - The report does not identify which of Bai’s listed cases or pending warrants led to the arrest.
@@ -247,6 +252,10 @@ open_questions:
   - 'Left out, as its quotation was not found in Andhrajyothy: Investigators are examining two G+3 buildings in Langerhouz, a G+2 building in Gachibowli and additional construction at her Nanakramguda residence, and earlier froze the bank accounts of the accused, some family members and their family-run Jayalakshmi Kirana and General Store.'
   - The page gives no case number or dates beyond June 2024 for the Preventive Detention order it says was revoked.
   - The page names her son and daughter among the family members facing cases but gives no breakdown of cases against the daughter.
+  - Hyderabad Mail dates the search of Bai's Nanakramguda house to June 2025, while earlier cited accounts date it to June 2026.
+  - Hyderabad Mail says she evaded arrest for several months, while earlier cited accounts describe more than a year.
+  - Hyderabad Mail gives no age for Bai and no day for the arrest beyond Friday night.
+  - Hyderabad Mail says she was arrested in 17 cases previously, without listing them or saying whether they overlap the cases already recorded.
 ---
 
 On 5 November 2026, Telangana’s Elite Action Group for Drug Law Enforcement
@@ -297,3 +306,5 @@ Manatelangana reported the police arrest of 51-year-old Kalapathi Neethu Bai of 
 The Enforcement Directorate entered the case in September and searched three of her dens, collecting some evidence. [@20] Police demolished her kirana shop and sheet shed built by encroaching on the road. [@20]
 
 During questioning she reportedly told police that ganja trafficking was the family's only source of income and that they continued it despite several cases against her and her family. [@22] In June 2024 the Gachibowli police invoked the Preventive Detention Act against her, she challenged it in the High Court, the order was revoked and she was released on bail, and an EAGLE official said the Act would be invoked against her again. [@22]
+
+The Telangana EAGLE Force arrested Kalapathi Nithu Bai, a woman allegedly involved in a ganja trafficking network operating in Nanakramguda for nine years. [@23] More than 30 ganja-related cases have been registered against her at various police stations, and she was arrested in 17 cases and subsequently released on bail. [@23] She was wanted in 13 ganja cases and had allegedly evaded arrest for several months. [@23] In October 2023, Gachibowli police raided her house and seized 7.5 kg of ganja and ₹5 lakh in cash. [@23] In 2023, Golconda police arrested her son and seized 22 kg of ganja from his car, and subsequent searches at properties linked to the family resulted in the seizure of ₹40 lakh in cash. [@23] EAGLE Force officials said 12 cases had been registered against her family in the past two years. [@23]
