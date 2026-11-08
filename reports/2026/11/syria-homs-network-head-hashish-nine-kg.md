@@ -85,6 +85,11 @@ sources:
     publisher: İşçi Haber
     date: 2026-11-07
     language: tr
+  - title: 'Suriye’de uyuşturucu operasyonu: 120 bin captagon hapı ve 9 kilo esrar ele geçirildi'
+    url: https://ilkha.com/english/guncel/suriye-de-uyusturucu-operasyonu-120-bin-captagon-hapi-ve-9-kilo-esrar-ele-gecirildi-574402
+    publisher: İlke Haber Ajansı (İLKHA)
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The article gives no date for the arrest itself; 7 November 2026 is its publication date and is used as the incident date.
   - The exact place of the arrest within Homs Governorate is not named.
@@ -102,22 +107,25 @@ open_questions:
   - The page photo is captioned only with the story headline and is not confirmed to show this seizure, so no media entry is added.
   - İşçi Haber reproduces the Interior Ministry anti-narcotics statement in Turkish and credits no agency; it carries no independent reporting.
   - The page states that the 200,000 Captagon pills came from Lebanon and were found in the same operation, while the tracker records that Lebanon shipment as a separate May 2026 step; the submitted page states no date for either.
+  - Although served under an /english/ address, the opened page text is in Turkish.
+  - The page presents the earlier 200,000-pills-from-Lebanon operation as taking place today alongside this arrest, while the existing report dates that earlier step to 5 May 2026; this account follows the existing record.
+  - The opened page's lead image is captioned only with the story headline and is not confirmed to show this seizure, so no media entry is added.
 ---
 
 Syria's anti-narcotics directorate announced the arrest of a man identified by
 the initials G.Sh., described as the head of a drug trafficking network whose
 two members were arrested in May. [@1,3,4,5,6] He was found with 9 kilograms of hashish
-and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6]
+and 120,000 Captagon pills, the directorate said. [@1,3,4,5,6,9]
 
 The directorate said its Homs branch made the arrest, continuing an operation it
 carried out on 5 May 2026 that broke up an attempt to smuggle 200,000 Captagon
 pills from Lebanon and led to two arrests. [@1,3,4,5,7] The two May detainees were the
 two members of the network, in an operation whose pills came from Lebanon. [@2]
 Units kept tracking the rest of those involved and the network's branches, the
-directorate said. [@1]
+directorate said. [@1,9]
 
 The directorate said the seized items were confiscated and the detainee was sent
-to the competent judiciary. [@1,3,4,5,6]
+to the competent judiciary. [@1,3,4,5,6,9]
 
 The ringleader was identified through security follow-up and arrested in a well-planned ambush. [@5]
 
