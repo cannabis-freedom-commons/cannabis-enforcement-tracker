@@ -153,6 +153,10 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-06
     language: hi
+  - title: 'UP-Nepal border: Two arrested with 123 kg ganja worth Rs 60 lakh; Nepal national held with heroin'
+    url: https://www.msn.com/en-in/news/other/up-nepal-border-two-arrested-with-123-kg-ganja-worth-rs-60-lakh-nepal-national-held-with-heroin/ar-AA2gPQEi
+    publisher: MSN
+    date: 2026-11-05
 open_questions:
   - Only one report of the interception could be opened, and the page is partly closed by Dainik Bhaskar's app paywall after its opening paragraphs.
   - The reports give no date for the stop; 5 November 2026 is the article's publication date and is used as the incident date.
@@ -200,6 +204,7 @@ open_questions:
   - The page places the stop near Nauabari, alongside Lohrauli, Naubari and Nautanwari in other accounts, so the precise spot remains unresolved.
   - The page lists one image which reuses a 17 October 2025 file address and carries only the headline as caption, with no credit establishing that it shows this seizure, so no media entry is added.
   - The page names Thuthibari station house officer Amit Kumar Singh as leading the police team, while other accounts credit Circle Officer Nichlaul Ravindra Kumar Singh with leading the operation, so the chain of command is not fully consistent.
+  - The opened text mentions a second, separate heroin operation involving a 19-year-old Nepal national but gives no quantity or place details for it in the captured lines, so it is left out of this cannabis report.
 ---
 
 Police in the Thuthibari police-station area of Maharajganj district, on the
@@ -213,7 +218,7 @@ Amar Ujala reported that a police team acting on a tip-off from an informer thre
 
 Police stopped Scorpio number UP32 LB 9957 and found the ganja in red bags inside it. [@4] Officers weighed the ganja on an electronic scale at the scene at about one-and-a-quarter quintals. [@4]
 
-Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9,11,13,14,15,16,17,20] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9,10,11,14,15,16,17,19,20] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9,11,13,15,17,19,20] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10,11,15,16] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9,11,14,15] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9,11,13,15,17,20] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8,19]
+Officers seized 122.975 kg of ganja from the Scorpio and took the vehicle into custody. [@9,11,13,14,15,16,17,20,21] The arrested pair were identified as 49-year-old Naimun Nisha alias Jahantara of Chainpatti village and 50-year-old Rajendra Gaur alias Ravindra of Azad Nagar, both in Kushinagar district. [@9,10,11,14,15,16,17,19,20,21] Thuthibari police acted jointly with ATS units from Siddharthnagar and Gorakhpur near Naubari village after a tip-off, under Superintendent of Police Shakti Mohan Avasthy. [@9,11,13,15,17,19,20,21] Police put the international-market value of the seized ganja at about Rs 60 lakh. [@10,11,15,16,21] Police registered a case at Thuthibari police station under Sections 8, 20 and 29 of the NDPS Act and produced the accused before a court. [@9,11,14,15,21] Gaur already faced NDPS cases from 2020 in Kushinagar and 2023 in Basti district. [@9,11,13,15,17,20] Investigators said the consignment had been brought from Nepal and was to be taken via Kushinagar to Bihar. [@8,19]
 
 A case was registered against both accused at Thuthibari police station under the NDPS Act, and both were being produced in court. [@10,12] The vehicle stopped near the village was reported as a car, not a Scorpio. [@12]
 
