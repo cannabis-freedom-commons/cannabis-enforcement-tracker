@@ -57,6 +57,11 @@ sources:
     publisher: flynews.gr
     date: 2026-11-07
     language: el
+  - title: Τέσσερις συλλήψεις στη Μεσσηνία για ναρκωτικά και παραμέληση εποπτείας ανηλίκου
+    url: https://www.gargalianoionline.gr/tesseris-syllipseis-sti-messinia-gia-narkotika-kai-paramelisi-epopteias-anilikoy/
+    publisher: Gargalianoionline.gr
+    date: 2026-11-07
+    language: el
 open_questions:
   - The nine people held on drug charges are counted as charged because police said they would be taken to the local prosecutors; no formal charges or court outcome were reported.
   - The Messinia amount of cannabis is described only as a very small quantity, so it adds nothing to the 14.27 gram total from Argolida and Corinthia.
@@ -65,24 +70,27 @@ open_questions:
   - The three accounts reproduce the same Peloponnese police statement and are not independent reporting.
   - No names, ages or nationalities beyond Greek or foreign national status were published for the drug suspects.
   - The page's only picture is a stock image of a police arrest (Depositphotos), not a photo of this sweep, so no media entry is included.
+  - The amount of cannabis seized in Messinia is described only as a small quantity, so no weight can be added.
+  - The article gives no names, ages or other identifiers for the four people arrested in Messinia.
 ---
 
 Police in Argolida, Arcadia, Corinthia and Messinia arrested 21 people during a
-sweep that ran from 3 to 6 November 2026. [@1] Nine of the 21 arrests were on
+sweep that ran from 3 to 6 November 2026. [@1,4] Nine of the 21 arrests were on
 drug charges: two in Argolida, three in Corinthia and three in Messinia, all of
 them Greek nationals. [@1] Police also brought 38 people in for questioning and
-checked 588 people and 417 vehicles. [@1]
+checked 588 people and 417 vehicles. [@1,4]
 
 Officers seized 5.87 grams of cannabis in Argolida. [@1] In Corinthia they
 seized 8.4 grams of cannabis along with 24.48 grams of heroin, a small amount of
 cocaine, three scales, one mobile phone, one vehicle and 950 euros in cash. [@1]
-A small amount of cannabis was also seized in Messinia. [@1]
+A small amount of cannabis was also seized in Messinia. [@1,4]
 
 The sweep was organised by the police directorates of the four regional units
 under the operational planning of the General Regional Police Directorate of the
 Peloponnese. [@2] The suspects were to be taken to the local public prosecutors.
-[@1] Among the other arrests in the same sweep were three people in Arcadia for
+[@1,4] Among the other arrests in the same sweep were three people in Arcadia for
 electricity theft, one for dangerous driving, an Argolida man wanted on a
 Nauplio investigating judge's warrant for human trafficking and three foreign
 nationals living in the country illegally. [@3]
 
+The fourth person arrested in Messinia was held for neglecting supervision of a minor rather than a drug offence. [@4]
