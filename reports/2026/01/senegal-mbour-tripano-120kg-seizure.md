@@ -43,6 +43,11 @@ sources:
     publisher: Seneweb
     date: 2026-01-31
     language: fr
+  - title: 'Afrique de l’Ouest : le narcotrafic étend ses routes et diversifie ses marchés'
+    url: https://fr.apanews.net/news/afrique-de-louest-le-narcotrafic-etend-ses-routes-et-diversifie-ses-marches/
+    publisher: APAnews - Agence de Presse Africaine
+    date: 2026-10-21
+    language: fr
 open_questions:
   - No arrests, charges or court outcome were reported; police said investigations to identify the owners and crew were continuing.
   - No value, origin or intended destination was published for the 120 kg consignment.
@@ -52,7 +57,7 @@ open_questions:
 
 On Friday 30 January 2026 the urban security unit of Mbour's central police
 station seized 120 kilograms of chanvre indien, the French term Senegalese
-police use for cannabis, on Tripano beach in Mbour, Thiès region. [@1] Police
+police use for cannabis, on Tripano beach in Mbour, Thiès region. [@1,3] Police
 presented the haul as a hard blow to drug trafficking. [@1] Police said officers
 acted on operational intelligence that prohibited goods were about to be landed
 by pirogue, a motorised fishing canoe, on Tripano beach. [@2]
@@ -67,4 +72,3 @@ Officers took the seized cannabis to the police station premises for the needs
 of the judicial procedure. [@2] Police said investigations were continuing
 actively to identify and arrest the owners of the consignment and the members of
 the boat's crew, so no arrests were reported. [@2]
-
