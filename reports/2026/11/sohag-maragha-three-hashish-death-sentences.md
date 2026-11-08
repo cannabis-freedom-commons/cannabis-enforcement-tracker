@@ -75,6 +75,11 @@ sources:
     publisher: بوابة الدولة
     date: 2026-11-04
     language: ar
+  - title: الإعدام شنقًا لـ3 متهمين بتجارة المخدرات بعد ضبط 280 قطعة حشيش بسوهاج
+    url: https://ahlmasrnews.com/news/local-news/13502419/%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D8%B4%D9%86%D9%82%D8%A7-%D9%84%D9%803-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%B6%D8%A8%D8%B7-280-%D9%82%D8%B7%D8%B9%D8%A9-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A8%D8%B3%D9%88%D9%87%D8%A7%D8%AC
+    publisher: أهل مصر
+    date: 2026-11-04
+    language: ar
 open_questions:
   - No weight, quantity or valuation of the hashish was published, so no cannabis weight is recorded.
   - The article gives no separate sentencing date beyond its 4 November 2026 publication timestamp, so that date is used as the incident date.
@@ -87,10 +92,11 @@ open_questions:
   - The page image repeats the headline and is not established to show this hearing, so no media entry is included.
   - The submitted page's only image is captioned as an archival image and is not shown to depict this hearing, so no media entry is included.
   - The page's only image is captioned only as a court and is not established to show this hearing, so no media entry is included.
+  - The Ahl Masr account names the bench as Hamdi Abdel Aziz with Hisham Hassan El-Gamal and Ramy Mohamed Samir, while the existing report names Mohy Abu Kreisha and Amr Makki alongside Hamdi Abdel Aziz; which composition is correct is unresolved.
 ---
 
 Sohag Criminal Court sentenced three defendants to death by hanging for hashish
-trafficking in Maragha district. [@1,2,4,5,6,8] The court convicted them of possessing
+trafficking in Maragha district. [@1,2,4,5,6,8,9] The court convicted them of possessing
 hashish with intent to traffic and of holding a scalpel without lawful
 justification. [@1,2,4,5,6] It also ordered the three to pay the case expenses and
 confiscated the seized items. [@1,2,4,5,6]
@@ -108,3 +114,5 @@ Amin. [@1,3,7]
 After investigations ended, the Public Prosecution referred the case to the
 Sohag Criminal Court, which heard it and imposed the three death sentences. [@1,2,4,7,8]
 The court issued this ruling on 4 November 2026. [@1]
+
+The three defendants were named as Mohamed Ismail Abdellah Mohamed, Mohamed Mohamed Farghali Ahmed and Essam Ismail Abdellah Mohamed, all from El-Ghanayem centre in Assiut Governorate. [@9] The chemical laboratory report found the seized hashish comprised 80 pieces, 150 pieces and 50 pieces, totalling 280 pieces, plus a plastic sack bearing traces of the drug. [@9] The case was numbered 16693 of 2025 for Maragha and 3346 of 2025 for North Sohag, and anti-narcotics officers seized the defendants after prosecution permission to arrest and search the first defendant. [@9] After hearing the case, the court referred the defendants' papers to the Grand Mufti for the religious opinion on execution by hanging. [@9]
