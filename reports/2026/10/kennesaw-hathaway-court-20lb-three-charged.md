@@ -42,6 +42,11 @@ sources:
     url: https://www.newsbreak.com/marietta-daily-journal-561232/4959231838252-3-charged-after-cobb-drug-investigation-uncovers-20-pounds-of-marijuana
     publisher: Marietta Daily Journal
     date: 2026-10-21
+  - title: 3 charged after Cobb drug investigation uncovers 20 pounds of marijuana
+    url: https://www.mdjonline.com/news/police_fire/3-charged-after-cobb-drug-investigation-uncovers-20-pounds-of-marijuana/article_2b7c446d-8433-46e9-8dc5-acf959f05af0.html
+    publisher: Marietta Daily Journal
+    date: 2026-10-21
+    archived: https://web.archive.org/web/20261027151058id_/https://www.mdjonline.com/news/police_fire/3-charged-after-cobb-drug-investigation-uncovers-20-pounds-of-marijuana/article_2b7c446d-8433-46e9-8dc5-acf959f05af0.html
 open_questions:
   - The submitted WSB-TV page returned an Error 451 geo-block in its supplied capture, so this report relies on a Yahoo reprint of the WSB-TV report and a Newsbreak reprint of the Marietta Daily Journal report.
   - Itemized weights of 3.4, 3.9, 14.9 and about 2 pounds sum to more than the stated total of over 20 pounds; the report uses the stated total of 20 pounds, converted to 9.07 kg.
@@ -50,13 +55,15 @@ open_questions:
   - No photo could be verified as showing this search or seizure, so no media entry is listed.
   - 'Left out, as its quotation was not found in Marietta Daily Journal: Inside, agents found suitcases of marijuana in the dining and living rooms and another 14.9 pounds in a bedroom identified as Hughes''s, with court records describing over 20 pounds of marijuana found in the home.'
   - The submitted WSB-TV capture contains only an Error 451 geo-block and no article text, so the match relies on its URL and title and the accessible Yahoo reprint of the same WSB-TV report.
+  - The supplied Wayback capture exposes only the lead paragraph, photo captions and tags; the remainder of the article is behind a subscription block, so the address, search date, weights, charges and case details in the existing report are not checked against this capture.
+  - The capture gives no separate raid date, so the incident date of Oct. 14 is retained from the existing report's other sourcing.
 ---
 
 Cobb narcotics agents searched a home at 4286 Hathaway Court near Kennesaw on
-Oct. 14 after a three-month investigation. [@2] Ashton Paul Hughes, 27, of
+Oct. 14 after a three-month investigation. [@2,3] Ashton Paul Hughes, 27, of
 Stockbridge, Miliana Bilavarn, 20, of Atlanta, and Nathaniel Mark Bush, 29, of
 Kennesaw each received drug charges after suitcases full of marijuana were found
-in the home they were staying at. [@2] Investigators stopped Hughes after he
+in the home they were staying at. [@2,3] Investigators stopped Hughes after he
 drove away from the home, then searched the house. [@1] Bilavarn and Bush were
 found together in another bedroom with about two pounds of packaged marijuana
 next to the bed. [@1]
