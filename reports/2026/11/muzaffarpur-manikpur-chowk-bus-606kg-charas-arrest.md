@@ -61,6 +61,11 @@ sources:
     publisher: Navbharat Times
     date: 2026-11-07
     language: hi
+  - title: नेपाल से बिहार के रास्ते पुणे जा रही 6 करोड़ की चरस जब्त
+    url: https://www.bhaskar.com/local/bihar/patna/news/charas-worth-rs-6-crore-seized-while-being-transported-from-nepal-to-pune-via-bihar-dbp-139626025.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-08
+    language: hi
 open_questions:
   - Only one article, drawing on a DRI press release, was found for this interception; the DRI's own statement could not be opened.
   - No similar figure of charas was reported separately, so the seized weight is the packet total as stated.
@@ -70,16 +75,20 @@ open_questions:
   - The image is captioned as DRI officials displaying seized charas packets but carries no credit line, so it is linked rather than copied.
   - This source gives no separate date for the Muzaffarpur interception; 7 November 2026 is its publication date, while the event date follows the existing report.
   - The article's account of 52.58 grams of heroin and Rs 19,48,012 in cash seized from three people in Kudra, Kaimur is a separate non-cannabis enforcement event and is excluded here.
+  - The opened Bhaskar capture is truncated by an app paywall; only the opening lines and headline were readable.
+  - The capture gives no separate event date; 5 November 2026 is the interception date from the existing report, while 8 November 2026 is this source's publication date.
+  - The visible portion does not state the 12-packet count, the bus registration number, or the NDPS Act charge recorded in the existing report.
+  - This 6.060 kg Manikpur Chowk seizure is distinct from the separate 10 kg charas seizure at Dumaria Ghat reported on the same dates.
 ---
 
 Officers of the Directorate of Revenue Intelligence in Patna intercepted a bus
 at Manikpur Chowk in Muzaffarpur on 5 November 2026 and arrested one person.
-[@1] A search of one passenger's bag found 12 packets holding 6.060 kg of
+[@1,3] A search of one passenger's bag found 12 packets holding 6.060 kg of
 charas, a cannabis resin, which the DRI valued at Rs 6.060 crore in the illicit
-market. [@1,2]
+market. [@1,2,3]
 
 The DRI said its team acted on intelligence about a network allegedly smuggling
-high-quality charas from Nepal for delivery in Pune, Maharashtra. [@1,2] The
+high-quality charas from Nepal for delivery in Pune, Maharashtra. [@1,2,3] The
 arrested passenger allegedly told investigators the resin came from Nepal and
 was headed to Pune, moving through Hajipur before a train to Maharashtra. [@1]
 The DRI's account, issued on 6 November, said the consignment was meant to
