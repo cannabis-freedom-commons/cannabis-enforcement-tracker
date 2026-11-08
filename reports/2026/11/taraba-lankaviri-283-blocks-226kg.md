@@ -40,23 +40,27 @@ sources:
     url: https://apexnewsexclusive.com/2026/11/ndlea-arrests-ugandan-woman-with-cocaine-concealed-in-private-parts-uncovers-multi-billion-naira-drug-cartels/
     publisher: Apex News Exclusive
     date: 2026-11-08
+  - title: Ugandan woman in Nigeria for crusade arrested with 87 cocaine wraps in private part
+    url: https://www.ndlea.gov.ng/blog/ugandan-woman-in-nigeria-for-crusade-arrested-with-87-cocaine-wraps-in-private-part
+    publisher: National Drug Law Enforcement Agency
+    date: 2026-11-08
 open_questions:
   - The article gives no separate date for the Taraba checkpoint arrests, saying only they occurred within two days; 8 November 2026, the publication date, stands in for the incident date.
   - No charges, court dates or outcomes for the three suspects were reported.
   - The same article also reports cocaine, Tapentadol, tramadol, synthetic-cannabis chemicals and other cannabis seizures in Lagos, Ondo, Ekiti, Edo, Enugu and Delta, which are separate events left out of this report.
   - Only one source could be opened for the Taraba figures; no independent second report was found.
   - No media entry is added because the page's images carry no captions or credits tying them to the Taraba seizure.
+  - The NDLEA statement dates the Taraba arrests to Thursday 5 and Friday 6 November 2026, while the report uses the 8 November publication date; the exact operation dates are newly supported here.
 ---
 
 Three suspects were arrested within two days at the agency's checkpoint in
 Lankaviri, Yorro Local Government Area, with 283 blocks of compressed cannabis
-weighing 226.255 kg. [@1] Officers of the National Drug Law Enforcement Agency
+weighing 226.255 kg. [@1,2] Officers of the National Drug Law Enforcement Agency
 recovered the 283 blocks from the three suspects at the checkpoint. [@1] Ibrahim
 Abdullahi, 45, was found with 156 blocks weighing 149.275 kg, Kabiru Usman, 25,
 with 80 blocks weighing 40.07 kg, and Babangida Babayo, 32, with 47 blocks
-weighing 36.91 kg. [@1]
+weighing 36.91 kg. [@1,2]
 
 NDLEA chairman Brig. Gen. Buba Marwa commended personnel of the agency's
 commands in Lagos, Ondo, Ekiti, Edo, Delta, Taraba and Enugu for the arrests and
 seizures. [@1]
-
