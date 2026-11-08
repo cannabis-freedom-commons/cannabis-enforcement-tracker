@@ -66,6 +66,11 @@ sources:
     publisher: Deshdoot
     date: 2026-11-06
     language: mr
+  - title: नाशिकरोड कारागृहातील रक्षकाकडूनच चरस तस्करी, तुरुंग रक्षक जाळ्यात
+    url: https://www.loksatta.com/nashik/nashik-road-jail-guard-caught-smuggling-charas-in-private-parts-nashik-crime-news-sap-05-6236758/
+    publisher: Loksatta
+    date: 2026-11-08
+    language: mr
 open_questions:
   - The Times of India reports the charas taped to the guard's thighs, while Prahaar and Deshdoot describe it hidden at his private parts; the reports agree on the 33 grams but differ on the exact place it was concealed.
   - Only The Times of India reports the bail; the two Marathi accounts stop at the registration of the case and name no court outcome.
@@ -73,11 +78,14 @@ open_questions:
   - Prahaar's photo is captioned as Nashik Road Central Prison but the report does not say when it was taken or whether it shows this event.
   - 'Left out, as its quotation was not found in Deshdoot: Police seized 33 grams of charas from the guard.'
   - Left out products, as its quotation was not found in Deshdoot.
+  - Loksatta gives no date for when the guard was caught; the recorded incident date comes from The Times of India.
+  - Loksatta names no bail or court outcome and no charges, so the bail recorded from The Times of India is uncorroborated here.
+  - Loksatta says only that investigators are looking into which gangster sent the guard, with no arrest of anyone else reported.
 ---
 
 A guard at Nashik Road Central Prison in Maharashtra was caught on 4 November
 2026 hiding 33 grams of charas on his body during the routine search for staff
-entering the jail. [@1] Police said the guard had taped the charas to his body
+entering the jail. [@1,4] Police said the guard had taped the charas to his body
 and intended to take it inside to sell to inmates. [@1] Another prison guard,
 Narayan Jaysing Rajput, frisked him and filed the complaint, and Nashik Road
 police registered a case at Nashik Road police station. [@2] The case was
@@ -96,3 +104,4 @@ The reports called for the Inspector General of Prisons, Dr Suhas Warke, to
 order a special inspection of the jail and action against any staff found
 responsible. [@1]
 
+The guard hid the charas in his private parts. [@4] Police seized 33 grams of charas from him, and the reports say the prison already has intensive searchlight poles and baggage scanners at its entrances. [@4]
