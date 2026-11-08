@@ -54,16 +54,22 @@ sources:
     publisher: Radio Valle Viejo
     date: 2026-11-06
     language: es
+  - title: Secuestraron marihuana y más de 72 ansiolíticos en Catamarca
+    url: https://inforama.com.ar/actualidad/2026/11/07/secuestraron-marihuana-y-mas-de-72-ansioliticos-en-catamarca/
+    publisher: Diario Inforama - Catamarca
+    date: 2026-11-07
+    language: es
 open_questions:
   - No weight was published for the seized marijuana, which is described only as doses, several plastic wrappers and a homemade cigarette, so no cannabis weight is recorded.
   - 'The two outlets date the raid series differently: El Esquiú, published 8 November 2026, places the raids between Friday and the previous day, while Radio Valle Viejo, dated 6 November 2026, says between the previous day and that day; 7 November 2026 is used as the incident date with an approximate range of 6-7 November.'
   - No names, ages beyond adulthood, pleas or court outcome were reported; the four were awaiting appointment of defence counsel and formal questioning before the federal courts.
   - The more than 72 anxiolytic tablets are a non-cannabis seizure and are not counted in cannabis figures; no combined drug weight was stated.
+  - Inforama gives no date for the raids and attributes the figure of more than 72 anxiolytic tablets to the police report; the pills are a non-cannabis seizure and are not counted in cannabis figures.
 ---
 
 Four adults, men and women, were detained and placed at the disposal of the
 federal justice system after a series of simultaneous raids in the Capital and
-Valle Viejo. [@1] After the home searches, officers detained and held
+Valle Viejo. [@1,3] After the home searches, officers detained and held
 incommunicado the four adults and took them to police facilities pending
 appointment of defence counsel and formal questioning before the federal courts.
 [@1]
@@ -89,5 +95,6 @@ prior investigation that identified the homes where illicit substances were
 stored and sold. [@1] The raids were led by the Dangerous Drugs Directorate of
 the provincial police with tactical support from its Intelligence and
 Investigations Division and investigators from the Judicial Investigations
-Department. [@1]
+Department. [@1,3]
 
+The measures were carried out under directives of the federal court handling the case, and the four detainees remained at the disposal of the court, which issued the corresponding measures. [@3]
