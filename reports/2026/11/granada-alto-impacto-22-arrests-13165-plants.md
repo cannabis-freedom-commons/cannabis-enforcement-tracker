@@ -81,6 +81,11 @@ sources:
     publisher: Granada Es Noticia
     date: 2026-11-08
     language: es
+  - title: Detenidas 22 personas e intervenidas más de 13.000 plantas de marihuana y 3,3 kilos de cocaína rosa en Granada
+    url: https://www.elconfidencial.com/espana/2026-11-08/guardia-civil-granada-detenidos-marihuana-1tna-1tps_4461224/
+    publisher: El Confidencial
+    date: 2026-11-08
+    language: es
 open_questions:
   - Bud weight is reported as more than 24 kilos, so the recorded cannabis total of 25.613 kg is a stated minimum combining 24 kg of buds and 1.613 kg of hashish.
   - The Loja seizure is written as 11.605 kilos; it is read as 11.605 kg, consistent with the reported total of more than 24 kilos of buds.
@@ -90,17 +95,18 @@ open_questions:
   - Only one source could be opened; no second account or Guardia Civil statement confirming the totals was found.
   - The Guardia Civil describes the balance as provisional and says further arrests are not ruled out.
   - 'Cannabis weights differ slightly between accounts: Granada Hoy gives 4,506 grams of buds from Pulianas while the recorded Loja figure of 11.605 kilos keeps the total at a stated minimum.'
+  - The page lead photo is captioned as Guardia Civil officers in Montefrio, Granada, credited to EFE/Miguel Angel Molina, without tying it to a specific seizure in this sweep, so no media entry is added.
 ---
 
 Granada's Guardia Civil carried out a special operation between 3 and 5 November
-against drug cultivation, storage and sale across the province. [@1,2,3] Officers
-arrested 22 people during the three-day operation. [@1,2,3] The action was part of
+against drug cultivation, storage and sale across the province. [@1,2,3,5] Officers
+arrested 22 people during the three-day operation. [@1,2,3,5] The action was part of
 the provincial command's Servicio de Alto Impacto against drug trafficking and
 related crime. [@1]
 
 Across 13 police operations and 33 searches, officers seized 13,165 marijuana
 plants, more than 24 kilos of marijuana buds, 1,613 grams of hashish, 3,328
-grams of pink cocaine and 34 grams of cocaine. [@1,2,3] They also recovered an air
+grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5] They also recovered an air
 rifle, ammunition and 19,831 euros in cash. [@1] In Pulianas, two people were
 detained with 3,328 grams of pink cocaine and 4,506 grams of vacuum-packed
 marijuana buds. [@1] In Loja, five people were detained in three searches of
@@ -122,4 +128,6 @@ including two Dutch nationals. [@1] Officers found several indoor grows
 illegally connected to the electricity grid, creating a safety risk for
 buildings and occupants. [@1]
 
-At least 11 more people were under investigation for alleged offences against public health, electricity fraud and document forgery. [@3] The Loja investigation was described as a network storing, transporting and distributing large marijuana consignments to other parts of Spain and abroad. [@4]
+At least 11 more people were under investigation for alleged offences against public health, electricity fraud and document forgery. [@3,5] The Loja investigation was described as a network storing, transporting and distributing large marijuana consignments to other parts of Spain and abroad. [@4]
+
+One detained person was investigated for using Italian documents while subject to an Italian-issued Schengen entry ban. [@5]
