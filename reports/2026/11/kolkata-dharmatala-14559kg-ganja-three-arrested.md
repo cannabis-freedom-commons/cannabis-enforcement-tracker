@@ -86,6 +86,11 @@ sources:
     publisher: Bhaskar Hindi
     date: 2026-11-05
     language: hi
+  - title: Kolkata Police Narcotic Cell arrests three Murshidabad men near Esplanade bus stand with over 14 kg ganja brought from Odisha dgtl
+    url: https://www.anandabazar.com/west-bengal/kolkata/kolkata-police-narcotic-cell-arrests-three-murshidabad-men-near-esplanade-bus-stand-with-over-14-kg-ganja-brought-from-odisha-dgtl/cid/1724278
+    publisher: Anandabazar
+    date: 2026-11-05
+    language: bn
 open_questions:
   - The raid fell on Wednesday and the case was registered on Thursday; 4 November 2026 is used as the incident date, derived from the 5 November 2026 publication date.
   - No value was published for the seized ganja.
@@ -95,24 +100,27 @@ open_questions:
   - The Bengali article's photo is captioned as a representative image (প্রতীকী ছবি) and is not a picture of this seizure, so no media entry is added.
   - This source says one of the detained men is from Murshidabad and the other two are from Odisha, while the existing report identifies all three as Murshidabad residents.
   - This source describes the arresting officers as Kolkata Police STF detectives, while the existing report attributes the raid to the Narcotics Cell of the Detective Department.
+  - The article gives the arrest as Wednesday and the case registration and court production as Thursday without dates; 4 November 2026, already used in the report, is consistent with the 5 November publication.
+  - The article gives no weight breakdown, value or forensic confirmation for the 14.559 kg consignment.
+  - The page's only real image is captioned as a representative picture and the second is a placeholder, so no photo of this seizure could be added.
 ---
 
 Kolkata Police's Narcotics Cell arrested three people and seized ganja during a
-raid near the Dharmatala bus stand in central Kolkata. [@1,4,8] Acting on specific
+raid near the Dharmatala bus stand in central Kolkata. [@1,4,8,9] Acting on specific
 intelligence, officers raided the Maidan police station area on Wednesday and
 caught the three suspects near the PWD Site Office (South Division) next to the
-bus stand. [@1,4,8] Police identified the three as Abdul Haque, 48, Anju Sheikh, 32,
-and Attabur Sheikh, 27, all residents of Murshidabad district. [@2,8]
+bus stand. [@1,4,8,9] Police identified the three as Abdul Haque, 48, Anju Sheikh, 32,
+and Attabur Sheikh, 27, all residents of Murshidabad district. [@2,8,9]
 
 A total of 14.559 kg of ganja was recovered from the joint custody of the three,
-videographed before witnesses and gazetted officers. [@1,4,5,8] A case was registered
+videographed before witnesses and gazetted officers. [@1,4,5,8,9] A case was registered
 at Maidan police station under sections 20(B)(2)(B) and 29 of the Narcotic Drugs
 and Psychotropic Substances Act, 1985, on a complaint by a Narcotics Cell
-sub-inspector. [@1,4] All three were produced in court on Thursday. [@1]
+sub-inspector. [@1,4,9] All three were produced in court on Thursday. [@1,9]
 
 In initial questioning, investigators learned the three had brought a large
 quantity of ganja from Narla in Kalahandi district, Odisha, intending to sell it
-to drug dealers in and around Kolkata. [@1,8] Detectives are investigating who
+to drug dealers in and around Kolkata. [@1,8,9] Detectives are investigating who
 else is involved in the ring and whether the three had already been in touch
 with other members of the gang. [@2]
 
@@ -123,3 +131,5 @@ The Maidan police station complaint was filed by Narcotic Cell sub-inspector Pra
 The three accused were to be produced before the Alipore court on Thursday. [@6]
 
 The accused appeared to carry rice sacks, but ganja was hidden inside the sacks. [@7] Opening the sacks and breaking a sand-cement casting revealed a special tanker wrapped in aluminium plate and tied with wire, which held packets of ganja. [@7]
+
+Investigators said they were examining who else was involved in the trafficking ring. [@9]
