@@ -77,6 +77,7 @@ open_questions:
   - The opened accounts do not say whether the 1,818 kg, the 242 kg and the cannabis destroyed on the one-hectare plantation are counted separately, so the report keeps their sum, 2,060 kg.
   - The report does not say whether the 36-year-old suspect was arrested at Uso or at the Board Forest farm, and no charges or court date were reported.
   - No plant count or value is given for the Board Forest farm or for the 148 bags.
+  - The NDLEA statement gives 6 November 2026 for both the Odofin Road raid and the Board Forest farm raid, which answers the report's open question about the date of the operations.
 ---
 
 NDLEA operatives raided Odofin Road in Uso, Ondo State, and recovered 1,818 kg
