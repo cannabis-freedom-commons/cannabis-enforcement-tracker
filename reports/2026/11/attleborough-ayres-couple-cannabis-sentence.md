@@ -420,6 +420,7 @@ open_questions:
   - The Daily Mail does not give the individual sentences, which the report records as three and a half years for Mark Ayres and nine months suspended for Marion Ayres.
   - The Daily Mail's own account says the sentencing was at Norwich Crown Court, matching the report, while several Press Association syndications of the same hearing name Norfolk Crown Court.
   - The opened capture ends before the article's sections on the plants, the property's value and the diagnosis, so those parts of this account could not be checked; the article's own publication page could not be opened.
+  - The Daily Mail does not give the date of the eight-plant phase, saying only that the operation expanded to 25 plants by the time of the May 2025 arrest.
 ---
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown
@@ -459,3 +460,5 @@ The couple, of the Attleborough hamlet Burgh Common, were both arrested after th
 Norfolk Constabulary said the couple were sentenced at Norfolk Crown Court on Thursday 5 November 2026. [@58,59]
 
 The 71-year-old, who was listed as the director of multiple companies, then started to sell the drug to others. [@53,66] He used the former gym in his home to grow cannabis when the disease returned five years later. [@66]
+
+Jailing Mr Ayres, Recorder John Hardy said the couple had led 'blameless lives' and 'should have been looking forward to the golden years of retirement'. [@53] Mitigating for the couple, the barrister Andrew Oliver said that after his 2018 cancer diagnosis Mr Ayres 'undertook a great deal of research relating to the medicinal benefits of cannabis'. [@53] The defence barrister said in court that the operation started with eight plants and had expanded to 25 by the time of the arrest. [@53]
