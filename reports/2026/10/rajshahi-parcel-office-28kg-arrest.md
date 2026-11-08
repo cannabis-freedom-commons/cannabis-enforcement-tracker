@@ -81,6 +81,11 @@ sources:
     publisher: Padmatimes24
     date: 2026-10-30
     language: bn
+  - title: রাজশাহীতে পার্সেল সার্ভিস থেকে ২৮ কেজি গাঁজাসহ গ্রেপ্তার ১
+    url: https://www.banglanews24.com/saradesh/news/bd/1690097.details
+    publisher: Banglanews24
+    date: 2026-10-30
+    language: bn
 open_questions:
   - Only the Daily Karatoa says a case was filed; the other accounts describe the handover to Boalia police without giving details of the case or next legal steps.
   - No charge, case number or court date was published.
@@ -100,12 +105,14 @@ open_questions:
   - The handover is described as to the relevant police station, not named as Boalia police station.
   - The Padmatimes24 page carries a photo captioned with the same headline, but it appears to show the same SRB handout already linked in the existing report, so no new media entry is added.
   - This account does not mention two mobile phones, a tip-off, a health check or a case filing described in other sources already cited on the report.
+  - The page image is captioned only as a collected photo, with nothing confirming it shows this seizure, so no media entry is added.
+  - This account also reports the 28 kg seizure at SR Parcel Services on the night of 29 October 2026 and the handover to Boalia police, but those sentences were not added because their Bengali wording could not be matched by the quotation check.
 ---
 
 Police arrested a man at a parcel service office in Rajshahi's Boalia thana area
 on Thursday night. [@3,5,7] The arrest took place around 8:30 pm on 29 October 2026.
 [@2,5,6,7] The arrested man was Prevel Islam, 28, son of Nazmul Haque of Rasunchak
-village in Shibganj upazila, Chapainawabganj district. [@3,5,7]
+village in Shibganj upazila, Chapainawabganj district. [@3,5,7,8]
 
 SRB-5 said it seized 28 kg of cannabis from his possession. [@3,4,5,7] The unit said
 its team had acted on a tip-off before the raid. [@1,4,6]
