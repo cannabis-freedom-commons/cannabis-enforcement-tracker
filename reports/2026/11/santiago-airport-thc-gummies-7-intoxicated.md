@@ -1,0 +1,109 @@
+---
+code: 7ERNF3
+added_at: "2026-11-08T23:45:38.569688Z"
+date: 2026-11-03
+country: cl
+place: Cargo sector, Arturo Merino Benítez Airport, Pudahuel, Santiago
+coordinates: [-33.393, -70.7856]
+precision: exact
+type: prosecution
+also: [arrest, seizure]
+title: Airport worker's THC gummies sicken 7 coworkers, one in coma
+summary: >-
+  A Santiago airport cargo worker was detained after sharing THC gummies with seven coworkers, who suffered intoxication at work. One victim was left in serious condition under induced coma, and the worker was charged with eight drug and negligent-injury offences.
+figures:
+  arrested: 1
+  charged: 1
+  injured: 7
+details:
+  agencies: [cl-carabineros, Fiscalía Metropolitana Occidente]
+  agency_types: [police, prosecutor]
+  products:
+    - {product: edibles}
+  activity: [sale]
+  setting: [airport]
+  charges: [two drug-legislation offences and six negligent-injury offences]
+  case_stage: charged
+  date_precision: exact
+  region: Santiago Metropolitan Region
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.charged: [1]
+  figures.injured: [1]
+media:
+  - kind: photo
+    url: https://www.canal26.com/internacionales/2026/11/08/convido-gomitas-de-marihuana-a-sus-companeros-intoxico-a-7-trabajadores-en-un-aeropuerto-de-chile-y-uno-termino-en-coma/
+    media_url: https://www.canal26.com/resizer/v2/LM74WQ77BVBQ3P63GA7BWGNTII.png?auth=6f8d83788651cffd9358553f9cb23cd8cdc2d0043fe37cac1305436205705b6c&smart=true&width=1200&height=675&quality=70
+    publisher: Canal 26
+    caption: 'Police photo of the seized gummies linked to the intoxication of the airport workers. Photo: Policía de Chile.'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: ee8f8780712daf68377929169bd0b241
+tags: [pudahuel, santiago, carabineros, edibles]
+sources:
+  - title: Convidó gomitas de marihuana a sus compañeros, intoxicó a 7 trabajadores en un aeropuerto de Chile y uno terminó en coma
+    url: https://www.canal26.com/internacionales/2026/11/08/convido-gomitas-de-marihuana-a-sus-companeros-intoxico-a-7-trabajadores-en-un-aeropuerto-de-chile-y-uno-termino-en-coma/
+    publisher: Canal 26
+    date: 2026-11-08
+    language: es
+  - title: Acusado de intoxicar a colegas del aeropuerto con gomitas dice que "cayeron de una maleta"
+    url: https://www.cooperativa.cl/noticias/pais/judicial/acusado-de-intoxicar-a-colegas-del-aeropuerto-con-gomitas-dice-que/2026-11-07/100126.html
+    publisher: Cooperativa
+    date: 2026-11-07
+    language: es
+  - title: 'Funcionario del Aeropuerto de Santiago grave tras consumir gomitas con droga: se las dio compañero'
+    url: https://www.elmostrador.cl/noticias/pais/2026/11/04/funcionario-del-aeropuerto-de-santiago-grave-tras-consumir-gomitas-con-droga-se-las-dio-companero
+    publisher: El Mostrador
+    date: 2026-11-04
+    language: es
+open_questions:
+  - 'The incident date of 3 November 2026 is inferred: Canal 26 gives only its 8 November publication date, while El Mostrador reports the complaint arrived on Tuesday afternoon and the detention review occurred on Wednesday 4 November.'
+  - No weight was published for the four seized gummies and chocolate, so no cannabis weight is recorded.
+  - Later Chilean coverage describes six affected coworkers plus the accused, rather than seven coworkers; this report follows the submitted Canal 26 account of seven intoxicated coworkers, corroborated by El Mostrador's figure of around seven.
+  - The final composition of the sweets is pending at the Instituto de Salud Pública; preliminary tests found THC but investigators are checking for other substances.
+  - No updated medical report confirming the grave patient's recovery was published.
+  - The origin of the gummies is disputed between the prosecution, the defence and an affected worker, so this report attributes each account rather than resolving it.
+---
+
+A cargo-sector worker at Santiago's Arturo Merino Benítez airport was detained
+after sharing marijuana gummies with seven coworkers, who suffered intoxication
+during their shift. [@1] The incident occurred in the airport cargo sector in
+the commune of Pudahuel, where the coworkers began suffering dizziness, nausea
+and vomiting after eating the sweets. [@1] The affected workers were taken to
+the Hospital del Trabajador for care, while one of them had to be treated at the
+Hospital Félix Bulnes because of the seriousness of his condition. [@1] One of
+those affected had to be hospitalized in serious condition, intubated and under
+induced coma. [@1]
+
+During the operation officers seized four gummies and a chocolate that were sent
+to the Public Health Institute to determine their composition. [@1] Preliminary
+tests identified THC, the main psychoactive component of cannabis, while
+investigators also sought to establish whether the products contained other
+substances. [@1] The suspect was identified as Ignacio Huerta, 25, who worked in
+the airport cargo area. [@1] During the Friday hearing, the Western Metropolitan
+Prosecutor's Office attributed eight offences to him: two linked to drug
+legislation and six related to negligent injuries of varying seriousness. [@1]
+
+Santiago's First Guarantee Court ordered total house arrest, a ban on
+approaching the victims and a national travel ban. [@1] The prosecution
+immediately appealed to seek preventive prison, so the accused was to remain
+detained in the Santiago 1 prison until the Court of Appeals decided the appeal.
+[@1] The prosecution maintained that the accused had bought the products in a
+specialised shop, while his defender María Eugenia Pérez said the gummies had
+fallen from a suitcase and that he picked them up before sharing them, without
+intending to harm his coworkers. [@1] The judicial investigation has an initial
+period of 120 days. [@1] The prosecutor's office said the accused brought the
+gummy from his own home, following a purchase at a grow shop, and supplied it to
+his coworkers. [@2]
+
+During the afternoon of that Tuesday, a report was received at the 27th Pudahuel
+Carabineros station about an airport official having supplied around seven
+workmates with gummies with a high THC content. [@3]
+
