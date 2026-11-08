@@ -50,11 +50,17 @@ sources:
     url: https://www.bbc.com/news/world-europe-51301827
     publisher: BBC News
     date: 2020-01-30
+  - title: Putin Pardons U.S.-Israeli Woman Jailed In Russia On Drug Charges
+    url: https://www.rferl.org/a/putin-pardons-us-israeli-woman-jailed-in-russia-on-drug-charges/30405672.html
+    publisher: RadioFreeEurope/RadioLiberty (RFE/RL)
+    date: 2020-01-29
 open_questions:
   - Some outlets describe the 9 grams as hashish rather than marijuana; this report uses cannabis for the seized amount.
   - The exact date of the April 2019 arrest was not stated in these sources.
   - Israeli media reports that the Alexander Courtyard ownership move and the Burkov extradition were linked to Issachar's release are allegations, not confirmed terms of the pardon.
   - The BBC gives no exact date for the April 2019 arrest.
+  - This account says police found 9 grams of marijuana, while the existing report notes that some outlets described the amount as hashish.
+  - The account gives no exact date for the April 2019 airport detention.
 media:
   - kind: photo
     url: https://www.bbc.com/news/world-europe-51301827
@@ -69,6 +75,8 @@ checked luggage. [@1,2,3,4] She admitted possessing it but denied smuggling; on 
 Russian court convicted her of drug smuggling and sentenced her to seven and a half years in
 prison. [@1] After months of Israeli appeals for clemency, President Vladimir Putin signed her
 pardon on 29 January 2020, and she was released the next day and flew to Tel Aviv with Prime
-Minister Benjamin Netanyahu. [@2,3,4]
+Minister Benjamin Netanyahu. [@2,3,4,5]
 
 After her release, Issachar and her mother Yaffa were greeted in Moscow by Benjamin Netanyahu, and she flew to Israel on the prime minister's plane. [@4] Her mother said: "Finally, thank God, thanks to everyone." [@4] Israeli media reported that the Israeli government was willing to give up ownership of the Alexander Courtyard in Jerusalem's Old City as a goodwill gesture ahead of her release. [@4] Her case gained attention in Israel, where local media accused Moscow of using it to press Israel over the jailed Russian hacker Aleksey Burkov, who was extradited to the US in November 2019. [@4]
+
+Putin met Issachar's mother in Israel on 23 January 2020, with Israeli Prime Minister Benjamin Netanyahu also attending, and told her that her daughter "will be okay". [@5] Israeli Prime Minister Benjamin Netanyahu, due to meet Putin in Moscow on 30 January 2020, welcomed the pardon and thanked him for it. [@5]
