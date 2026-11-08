@@ -89,6 +89,11 @@ sources:
     publisher: Amar Sangbad
     date: 2026-11-01
     language: bn
+  - title: দ্রুতগতির প্রাইভেট কার দেখে সন্দেহ, ধাওয়া করে মিলল ৪০ কেজি গাঁজা - NewsNow24
+    url: https://newsnow24.com/chattogram/pumLcKa73g
+    publisher: NewsNow24
+    date: 2026-11-01
+    language: bn
 open_questions:
   - No estimated value for the 40 kg of ganja was published.
   - No court outcome beyond the first appearance on 1 November was reported.
@@ -112,9 +117,9 @@ Officers also seized the car, Dhaka Metro-Kha-11-7209. [@1,4,5,7]
 
 Police and local witnesses said a car heading for Ramgarh was speeding along the
 Jaliapara road when locals became suspicious and informed the Hafchhari police
-outpost. [@1,4,6] Officers chased the car and stopped it at Nakapa Bazar. [@2,4,6,7]
-Nakapa lies in Patachhara Union of Ramgarh upazila. [@3,4,6] An agitated crowd
-smashed the car's front window before the search. [@1,4,6,7]
+outpost. [@1,4,6] Officers chased the car and stopped it at Nakapa Bazar. [@2,4,6,7,8]
+Nakapa lies in Patachhara Union of Ramgarh upazila. [@3,4,6,8] An agitated crowd
+smashed the car's front window before the search. [@1,4,6,7,8]
 
 Inside, officers found the ganja wrapped in 80 packets and packed into two
 sacks. [@1,4,5,6,7] Ramgarh police station Officer-in-Charge Md Nazir Alam said police
@@ -123,4 +128,4 @@ A case was filed under the Narcotics Control Act, and he was sent to
 Khagrachhari court. [@1,4,5] He was presented before the court on Sunday 1 November.
 [@3]
 
-The driver was slightly injured when the crowd smashed the car window. [@6] Police are questioning the driver to identify the main supplier and destination, and a case under the Narcotics Control Act was being processed at Ramgarh police station. [@6,7]
+The driver was slightly injured when the crowd smashed the car window. [@6,8] Police are questioning the driver to identify the main supplier and destination, and a case under the Narcotics Control Act was being processed at Ramgarh police station. [@6,7,8]
