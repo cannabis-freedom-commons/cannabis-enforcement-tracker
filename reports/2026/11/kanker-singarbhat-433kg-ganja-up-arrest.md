@@ -79,6 +79,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-08
     language: hi
+  - title: कांकेर पुलिस ने 300 CCTV खंगाल मथुरा से दबोचा अंतरराज्यीय तस्कर, ढाई करोड़ का गांजा जब्त
+    url: https://www.naidunia.com/chhattisgarh/kanker-kanker-police-after-scouring-300-cctv-feeds-they-apprehended-interstate-smuggler-in-mathura-seized-cannabis-worth-2-crore-rupees-8475489
+    publisher: Nai Dunia
+    date: 2026-11-08
+    language: hi
 open_questions:
   - The article does not date the interception or the arrest; 7 November 2026 is its publication date and is used as the incident date.
   - Only one source, the submitted NWNews24 report, could be opened for this event, so the weights, packet count and valuations are not independently corroborated.
@@ -94,25 +99,32 @@ open_questions:
   - The page's page picture, taju.webp, has no caption or credit tying it to this seizure, so it is not listed as media.
   - This Bhaskar account gives the haul as 447 kg, against 433 kg in 90 packets in the existing report; the existing figures are retained and the difference is unresolved.
   - The opened text capture is truncated behind an app paywall, so dates of the 4 November interception and the Uttar Pradesh arrest, the CCTV and court details visible in the page markup could not be quoted from the captured text and are not added.
+  - Nai Dunia gives the haul as 447.720 kg in 90 packets, while the existing report uses 433 kg; the report's figure is retained and the difference remains unresolved.
+  - Nai Dunia does not date the Mathura arrest beyond saying it followed a 48-hour search, so when the arrest happened is still open.
+  - Nai Dunia reports only that the accused was produced in court on 7 November, without naming the court, the charge sections or any custody order.
+  - Nai Dunia does not say whether the Rs 2 crore 23 lakh 50 thousand and Rs 2 crore 48 lakh 60 thousand valuations are police estimates.
+  - The page photo carries only the headline as its caption and no credit, so it cannot be confirmed to show this seizure and is not added as media.
 ---
 
 Kanker district police in Chhattisgarh say they have broken up an interstate
 ganja smuggling network carrying consignments from Malkangiri in Odisha towards
 Haryana. [@1,2,3] Officers recovered 433 kg of ganja packed in 90 packets, which
-police valued at about Rs 2 crore 23 lakh. [@1,2,3] A Toyota Fortuner car said to
+police valued at about Rs 2 crore 23 lakh. [@1,2,3,5] A Toyota Fortuner car said to
 have been used in the smuggling, valued at about Rs 25 lakh, was also seized.
 [@1,3]
 
 The gang fled after dumping the load near Singarbhat when they saw a police
-check. [@1,2,3] Police arrested the fugitive accused, named in the report as
-Sukhpal, in Uttar Pradesh. [@1,2,3,4]
+check. [@1,2,3,5] Police arrested the fugitive accused, named in the report as
+Sukhpal, in Uttar Pradesh. [@1,2,3,4,5]
 
 Investigators said the accused kept changing vehicle registration numbers to
-move loads between states. [@1,2,3] Police put the total value of what was seized in
-the case at about Rs 2 crore 48 lakh. [@1,3] Police said the whole smuggling
+move loads between states. [@1,2,3,5] Police put the total value of what was seized in
+the case at about Rs 2 crore 48 lakh. [@1,3,5] Police said the whole smuggling
 network is estimated to be worth about Rs 3 crore and are still looking for the
 other accused. [@1,3]
 
 Police traced the accused with the help of the cyber team. [@2] Police set up checkposts at 4 to 5 places. [@2] Police also seized the Haryana-passing vehicle used in the smuggling. [@2] So far one accused has been arrested. [@2]
 
 The accused kept 6 fake number plates in the Fortuner for the Odisha-to-Haryana supply run. [@4]
+
+Police and the cyber cell checked footage from more than 300 CCTV cameras to trace the accused. [@5] The plates the accused used were from Odisha, Maharashtra and Haryana. [@5] The accused was produced in court on 7 November. [@5]
