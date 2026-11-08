@@ -161,6 +161,10 @@ sources:
     url: https://www.filipinoreporters.com/post/american-nabbed-as-naia-luggage-check-yields-17-46-kilos-of-suspected-kush
     publisher: Filipino Reporters
     date: '2026-10-30'
+  - title: American bearing ‘kush’ intercepted
+    url: https://www.pressreader.com/philippines/daily-tribune-philippines/20261031/281706916689315
+    publisher: Daily Tribune (Philippines)
+    date: 2026-10-31
 open_questions:
   - >-
     Both opened sources are Daily Tribune reports of the same event; no independent statement from PDEA or
@@ -263,15 +267,15 @@ Airport (NAIA) Terminal 3 after authorities intercepted about 17.46 kilograms of
 high-grade marijuana in his luggage, the Philippine Drug Enforcement Agency
 (PDEA) reported. [@1,2,3,4,7,9,12,13] The suspect, identified only by the alias “Henry,” had
 arrived from Bangkok, Thailand, and was intercepted at the airport's customs
-secondary inspection area on Thursday 29 October. [@2] The interception happened
+secondary inspection area on Thursday 29 October. [@2,19] The interception happened
 around 8:35 p.m. [@1,2]
 
 During secondary screening, customs and anti-narcotics personnel found 15
 vacuum-sealed transparent plastic pouches of dried leaves suspected to be
 marijuana kush, hidden inside aluminum pouches and other packaging materials
-across two checked bags. [@1] The pouches contained about 17,464 grams, PDEA
+across two checked bags. [@1,19] The pouches contained about 17,464 grams, PDEA
 said. [@2,15] PDEA estimated the street value of the confiscated drugs at P17.46
-million. [@1] The contraband was inventoried at the scene in the presence of
+million. [@1,19] The contraband was inventoried at the scene in the presence of
 required witnesses before being transferred to the PDEA Laboratory Service for
 forensic examination. [@1]
 
@@ -281,7 +285,7 @@ Aviation Security Group, the Airport Police Department, the PNP Drug Enforcement
 Group, the National Bureau of Investigation, the Bureau of Immigration and the
 Office for Transportation Security. [@1,2] The suspect remains in custody and
 faces formal charges for violating Republic Act 9165, the Comprehensive
-Dangerous Drugs Act of 2002. [@1,7]
+Dangerous Drugs Act of 2002. [@1,7,19]
 
 The Philippine Star, citing Rudy Santos, said authorities valued the kush at over P17 million. [@4]
 
