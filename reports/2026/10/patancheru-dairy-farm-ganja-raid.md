@@ -116,6 +116,11 @@ sources:
     url: https://newsmeter.in/crime/hyderabad-dairy-farm-turns-ganja-hub-60-customers-allegedly-visit-every-sunday-778508
     publisher: NewsMeter
     date: '2026-11-01'
+  - title: అవగాహనతోనే సైబర్‌ నేరాలకు చెక్‌ | Telangana Cybercrime Cases Drop 20 Percent 260 Crore Frozen
+    url: https://www.andhrajyothy.com/2026/telangana/hyderabad/telangana-cybercrime-cases-drop-20-percent-260-crore-frozen-1572645.html
+    publisher: Andhrajyothy
+    date: 2026-11-02
+    language: te
 open_questions:
   - Only one source for this event could be found.
   - >-
@@ -175,6 +180,7 @@ open_questions:
   - >-
     The NewsMeter lead photo uses the article headline as its caption and does not establish that it shows
     this seizure, so no media entry is included.
+  - The page says the joint arrest happened on Sunday with a 1 November Hyderabad dateline, while the existing report dates the raid to 31 October 2026.
 ---
 
 EAGLE Force and Patancheru police apprehended six people and seized 1.15 kilograms of ganja at a Kardanoor dairy farm. [@1,2,3,4,5,6,7,8,9,10]
@@ -184,7 +190,7 @@ village, Patancheru, on 31 October 2026 and held two interstate ganja peddlers.
 [@4,5,6,7,8,9,10] The two were Sanchit Roy, 50, a farm worker, and Mahesh Kumar, 32, a guard
 at the parking yard opposite, both natives of Bihar. [@3,9,10]
 
-Officers seized 1.150 kg of ganja at the dairy farm. [@2,5,6,7,8,9,10] Police said the pair
+Officers seized 1.150 kg of ganja at the dairy farm. [@2,5,6,7,8,9,10,11] Police said the pair
 bought ganja at Rs 20,000 per kg, packed it into five-gram sachets and sold each
 for Rs 300. [@3,9,10] Investigators said they procured one to two kg two or three
 times a week. [@3,9] Police said 20 to 30 consumers approached daily, rising to 50
@@ -197,4 +203,4 @@ investigation continued. [@3,5,9]
 
 Police valued the seized ganja at about Rs 57,000. [@7,8,9,10]
 
-A case was registered at Patancheru Police Station as Crime No. 1439/2026 under Sections 8(c) read with 20(b)(ii)(B) and 27(b) of the NDPS Act. [@10] Police also identified around 10 other consumers allegedly linked to the operation. [@10] The dairy farm owner visited the premises for a few hours in the early morning. [@10]
+A case was registered at Patancheru Police Station as Crime No. 1439/2026 under Sections 8(c) read with 20(b)(ii)(B) and 27(b) of the NDPS Act. [@10] Police also identified around 10 other consumers allegedly linked to the operation. [@10,11] The dairy farm owner visited the premises for a few hours in the early morning. [@10]
