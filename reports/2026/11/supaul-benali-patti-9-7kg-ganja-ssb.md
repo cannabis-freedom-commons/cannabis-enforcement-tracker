@@ -65,6 +65,7 @@ open_questions:
   - The page image carries no caption or credit confirming what it shows, so it is listed as media without a claimed scene.
   - The Prabhat Khabar account gives no patrol time; the 7:40 am timing in the existing report comes from its earlier sources.
   - No arrest, street value, NDPS case number or court outcome is reported in this account.
+  - The Hindi account gives no patrol time; it says only that the patrol took place on Sunday.
 ---
 
 Soldiers of the 45th Battalion of the Sashastra Seema Bal, posted at Birpur,
