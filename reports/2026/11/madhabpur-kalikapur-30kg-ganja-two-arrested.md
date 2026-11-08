@@ -59,6 +59,11 @@ sources:
     publisher: Habiganj Express
     date: 2026-11-06
     language: bn
+  - title: মাধবপুরে কভার ভ্যান থেকে ৩০ কেজি গাঁজা উদ্ধার, গ্রেপ্তার ২
+    url: https://www.dhakatoday.com/news/93172/%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%AC%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%95%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A7%A9%E0%A7%A6-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BE%E0%A6%B0,-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A8
+    publisher: Dhaka Today
+    date: 2026-11-05
+    language: bn
 open_questions:
   - The operation is described as occurring in the early hours of Thursday; 5 November 2026, the publication date, is used as the incident date.
   - The account does not state whether a formal case was filed, what charges were brought or whether the men appeared in court.
@@ -67,12 +72,14 @@ open_questions:
   - The Habiganj Express account is the only opened source stating that a formal case was filed and that the covered van was seized.
   - The article does not say what quantity was carried beyond 30 kg of ganja, nor whether the two men were produced before a court.
   - The page's only photo carries no caption or credit beyond a WhatsApp-style file name, so its content is not established in detail.
+  - The article writes the unit as SRB-9 rather than RAB-9; it is read as RAB-9 because the CPC-3 Shayestaganj camp, commander name and operation match the existing RAB-9 account.
+  - The article says the arrest was at 2:55 on the night of Thursday 5 November, so the early hours straddle 5-6 November; 5 November 2026 is retained as the incident date for consistency with the existing report.
 ---
 
 RAB-9 arrested two men it described as drug traders in a raid on a covered van
 at Kalikapur village, Madhabpur Upazila, Habiganj, in the early hours of
-Thursday. [@1] The covered van was on the Dhaka–Sylhet highway, beside the main
-gate of Kansai Nerolac Paints (Bangladesh) Limited. [@1,2] The operation followed
+Thursday. [@1,3] The covered van was on the Dhaka–Sylhet highway, beside the main
+gate of Kansai Nerolac Paints (Bangladesh) Limited. [@1,2,3] The operation followed
 confidential information and was conducted by an operational team from RAB-9's
 CPC-3 at its Shayestaganj camp. [@1]
 
@@ -83,7 +90,9 @@ was from the home of Haji Bashir Ahmed in the Subarnachar police-station area of
 Noakhali. [@1]
 
 RAB-9 said officers recovered the cannabis after the two men made their
-confessions to the team. [@1] The seized cannabis weighed 30 kilograms and was
+confessions to the team. [@1,3] The seized cannabis weighed 30 kilograms and was
 wrapped in blue polythene. [@1]
 
-A formal case was filed against the two arrested men under the Narcotics Control Act, and they and the seized evidence were then handed over to Madhabpur police station. [@2] RAB-9 also seized the covered van the men used to transport the drugs. [@2] RAB-9 additional superintendent of police and media officer K.M. Shahidul Islam Sohag said the force's operations against drugs would continue under a zero-tolerance policy. [@2]
+A formal case was filed against the two arrested men under the Narcotics Control Act, and they and the seized evidence were then handed over to Madhabpur police station. [@2,3] RAB-9 also seized the covered van the men used to transport the drugs. [@2] RAB-9 additional superintendent of police and media officer K.M. Shahidul Islam Sohag said the force's operations against drugs would continue under a zero-tolerance policy. [@2]
+
+The two men tried to flee on seeing the law-enforcement team before officers detained them. [@3] In initial questioning the men said they had collected the cannabis from a border area of Habiganj and were carrying it in the cover van to sell in different parts of the country. [@3]
