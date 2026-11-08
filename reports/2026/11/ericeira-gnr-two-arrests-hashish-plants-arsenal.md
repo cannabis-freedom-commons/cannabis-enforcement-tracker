@@ -70,6 +70,11 @@ sources:
     publisher: Jornal de Mafra
     date: 2026-11-07
     language: pt
+  - title: Dois detidos por tráfico na Ericeira. GNR apreendeu droga e armas - Notícias ao Minuto
+    url: https://www.noticiasaominuto.com/pais/3080263/dois-detido-por-trafico-na-ericeira-gnr-apreendeu-droga-e-armas
+    publisher: Notícias ao Minuto
+    date: 2026-11-07
+    language: pt
 open_questions:
   - No weight was given for the 206 hashish doses, so no cannabis weight is recorded.
   - The 484 grams of solid substance is not counted as cannabis because its composition awaited laboratory analysis.
@@ -79,14 +84,14 @@ open_questions:
 ---
 
 GNR officers detained two men aged 51 and 55 in Ericeira, Mafra, on 5 November
-2026 on suspicion of drug trafficking. [@1,3] The operation was led by the Mafra
+2026 on suspicion of drug trafficking. [@1,3,4] The operation was led by the Mafra
 Criminal Investigation Unit after an investigation lasting about six months.
 [@1] According to the GNR, the suspects distributed and sold drugs to consumers
 and other traffickers in Ericeira and Encarnação in Mafra and in Torres Vedras.
 [@1,3]
 
 Officers executed two home search warrants and seven non-home search warrants
-during the operation. [@1,3] The searches seized 9,225 euros in cash, 206 doses of
+during the operation. [@1,3,4] The searches seized 9,225 euros in cash, 206 doses of
 hashish, four cannabis plants, two doses of cocaine and 484 grams of a solid
 substance awaiting laboratory analysis. [@1] Officers also seized 375 rounds of
 ammunition of various calibres, two carbines, a loaded 9 mm pistol, a revolver,
@@ -95,8 +100,8 @@ extendable baton. [@1] The GNR also seized four precision scales, three mobile
 phones and a vacuum-packing machine. [@1]
 
 Both detainees were made formal suspects and appeared for a first judicial
-interrogation at the Sintra court. [@1] The court ordered preventive detention
-for one man and weekly reporting for the other. [@1,3] Diário de Notícias
+interrogation at the Sintra court. [@1,4] The court ordered preventive detention
+for one man and weekly reporting for the other. [@1,3,4] Diário de Notícias
 independently confirmed the same 5 November Ericeira operation, ages, GNR unit
 and trafficking allegation. [@2]
 
