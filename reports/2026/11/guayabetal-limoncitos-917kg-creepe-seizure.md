@@ -37,6 +37,11 @@ media:
     media_url: https://imagenes2.eltiempo.com/files/image_1200_535/uploads/2026/11/04/6aeb21bf075f0.jpeg
     publisher: El Tiempo
     caption: 'Police photo of the marijuana distributed in 500 packages inside the pickup. Photo: Policía Metropolitana de Bogotá'
+  - kind: photo
+    url: https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-casi-una-tonelada-de-marihuana-en-la-via-bogota-villavicencio-avaluada-en-2-178-millones-3598492
+    media_url: https://imagenes2.eltiempo.com/files/image_1200_535/files/fp/uploads/2026/11/04/6aeb9abb11e13.r_d.642-535-9375.jpeg
+    publisher: El Tiempo
+    caption: 'Packages of marijuana from the Guayabetal seizure, captioned ''La marihuana incautada''. Photo: Cortesía'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 04f20911a325674adac71f4a18149657
@@ -62,6 +67,11 @@ sources:
     publisher: Diario del Norte
     date: 2026-11-04
     language: es
+  - title: Incautan casi una tonelada de marihuana en la vía Bogotá–Villavicencio avaluada en $2.178 millones
+    url: https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/incautan-casi-una-tonelada-de-marihuana-en-la-via-bogota-villavicencio-avaluada-en-2-178-millones-3598492
+    publisher: El Tiempo
+    date: 2026-11-04
+    language: es
 open_questions:
   - The articles give no separate date for the roadside procedure; 4 November 2026 is the publication date of both outlets and is used as the incident date.
   - The suspect was described only as a man; no name, age or nationality was published.
@@ -71,13 +81,15 @@ open_questions:
   - '''Kamikaze'' is named as the transport modality but neither article explains what the term means beyond moving the load by road.'
   - Coordinates are for the Guayabetal town centre; the precise Limoncitos checkpoint was not mapped.
   - The Diario del Norte page image carries no caption or credit linking it to this seizure, so no media entry is added.
+  - The article gives no separate date for the roadside control; 4 November 2026 is its publication date and is used as the incident date.
+  - The article spells the product 'creepy' while other accounts cited in the report write 'creepe'; the report keeps the earlier spelling.
 ---
 
 Traffic police arrested a man in flagrante at Limoncitos, Guayabetal, on the
 Bogotá–Villavicencio road while he was transporting 917 kilograms of creepe-type
-marijuana. [@1,3,4] The arrest occurred during a Transit and Transport Police
+marijuana. [@1,3,4,5] The arrest occurred during a Transit and Transport Police
 inspection in the sector of Limoncitos, jurisdiction of Guayabetal municipality,
-Cundinamarca. [@2,3,4] The detainee, the pickup and the seized drug were placed at
+Cundinamarca. [@2,3,4,5] The detainee, the pickup and the seized drug were placed at
 the disposal of the competent authorities for the judicial process. [@1,3,4]
 
 Officers inspecting the pickup during registration and control activities found
