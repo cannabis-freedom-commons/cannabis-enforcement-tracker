@@ -68,6 +68,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-06
     language: tr
+  - title: 'Çumra’da Uyuşturucu Operasyonu: 2 Kilo 226 Gram Esrar Ele Geçirildi!'
+    url: https://www.konyapostasi.com.tr/konya-haberleri/cumrada-uyusturucu-operasyonu-2-kilo-226-gram-esrar-ele-gecirildi/785628
+    publisher: Konya Postası Gazetesi
+    date: 2026-11-06
+    language: tr
 open_questions:
   - The sources give no separate date for the search or the remand hearing; 6 November 2026 is the shared publication date and is used as the incident date.
   - No street value, packaging or weight breakdown of the cannabis was published.
@@ -76,18 +81,20 @@ open_questions:
   - The Hürriyet account is bylined to the Demirören news agency and the İhlas text is repeated by Habertürk, so the outlets restate police or agency accounts rather than independent reporting.
   - The Son Dakika page is a reprint of the İhlas Haber Ajansı text already cited by the existing report, not independent reporting.
   - Its single photo repeats the police display of the cannabis, scale and pistol already linked from Konhaber, so no second media entry was added.
+  - The Konya Postası account is not billed to a news agency and describes the same police statement, so it is another outlet's version rather than independent reporting.
+  - The page's only picture is captioned solely with the headline and carries no credit, so it is not confirmed to show this seizure and no media entry is added.
 ---
 
 Police in Çumra district of Konya detained a suspect and found 2 kg 226 g of
-esrar, the Turkish name for cannabis, during a search of a residence. [@1,4] The
+esrar, the Turkish name for cannabis, during a search of a residence. [@1,4,5] The
 police said one suspect was detained, that he was referred to the judicial
 authorities on the offence of drug trafficking, and that the court remanded him
-in custody and sent him to prison. [@1]
+in custody and sent him to prison. [@1,5]
 
 Teams of the Çumra district police directorate and Konya's narcotics branch
-worked together on the operation. [@1] Besides the cannabis, the search of the
+worked together on the operation. [@1,5] Besides the cannabis, the search of the
 residence turned up one precision scale, one unlicensed pistol, one magazine and
-three cartridges. [@1] The Demirören news agency reported that police acted
+three cartridges. [@1,5] The Demirören news agency reported that police acted
 after receiving information that one person was trafficking drugs, at an address
 they had identified beforehand. [@2]
 
