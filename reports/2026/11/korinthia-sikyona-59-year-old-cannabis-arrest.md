@@ -50,6 +50,11 @@ sources:
     publisher: KorinthosTV
     date: 2026-11-07
     language: el
+  - title: 'Δήμος Σικυωνίων: Συνελήφθη 59χρονος για κατοχή κάνναβης'
+    url: https://www.loutrakiblog.gr/2026/11/07/dimos-sikyonion-synelifthi-59xronos-gia-katoxi-ka/
+    publisher: loutrakiblog
+    date: 2026-11-07
+    language: el
 open_questions:
   - No weight was published for the cannabis, described only as a small quantity, so no kilograms or value can be recorded.
   - The source names only a local community of the Municipality of Sikyona, not the village, so the coordinates are those of the municipality centre and precision is district.
@@ -61,16 +66,15 @@ open_questions:
 ---
 
 Officers of the motorcycle patrol unit (DI.AS.) of the Sikyona police station
-arrested a 59-year-old Greek man at midday on 6 November 2026. [@1] The arrest
+arrested a 59-year-old Greek man at midday on 6 November 2026. [@1,3] The arrest
 took place in a local community of the Municipality of Sikyona in Corinthia, not
-at a named village or street. [@1]
+at a named village or street. [@1,3]
 
 Police found the man carrying a small quantity of cannabis during a check,
-according to the police announcement. [@2] Officers seized the cannabis and
+according to the police announcement. [@2,3] Officers seized the cannabis and
 arrested the man for violating drug legislation. [@2]
 
 The Sikyona police station is conducting the preliminary investigation into the
-case. [@1] The regional outlet Hmerisia Korinthou reported it as another
+case. [@1,3] The regional outlet Hmerisia Korinthou reported it as another
 cannabis-possession arrest in Corinthia, involving both young and older people,
 men and women. [@1]
-
