@@ -70,6 +70,11 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-04
     language: ar
+  - title: الإعدام شنقا لـ3 متهمين بالاتجار في الحشيش بسوهاج
+    url: https://www.aldawlanews.com/1387504
+    publisher: بوابة الدولة
+    date: 2026-11-04
+    language: ar
 open_questions:
   - No weight, quantity or valuation of the hashish was published, so no cannabis weight is recorded.
   - The article gives no separate sentencing date beyond its 4 November 2026 publication timestamp, so that date is used as the incident date.
@@ -81,10 +86,11 @@ open_questions:
   - The El Balad page image is labeled only as an archival image and no event photo establishing this hearing was recovered, so no media entry is included.
   - The page image repeats the headline and is not established to show this hearing, so no media entry is included.
   - The submitted page's only image is captioned as an archival image and is not shown to depict this hearing, so no media entry is included.
+  - The page's only image is captioned only as a court and is not established to show this hearing, so no media entry is included.
 ---
 
 Sohag Criminal Court sentenced three defendants to death by hanging for hashish
-trafficking in Maragha district. [@1,2,4,5,6] The court convicted them of possessing
+trafficking in Maragha district. [@1,2,4,5,6,8] The court convicted them of possessing
 hashish with intent to traffic and of holding a scalpel without lawful
 justification. [@1,2,4,5,6] It also ordered the three to pay the case expenses and
 confiscated the seized items. [@1,2,4,5,6]
@@ -100,5 +106,5 @@ Aziz with Mohy Abu Kreisha and Amr Makki, with clerks Taha Hussein and Maged
 Amin. [@1,3,7]
 
 After investigations ended, the Public Prosecution referred the case to the
-Sohag Criminal Court, which heard it and imposed the three death sentences. [@1,2,4,7]
+Sohag Criminal Court, which heard it and imposed the three death sentences. [@1,2,4,7,8]
 The court issued this ruling on 4 November 2026. [@1]
