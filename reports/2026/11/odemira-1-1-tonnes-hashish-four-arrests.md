@@ -118,6 +118,11 @@ sources:
     publisher: Rádio Pax
     date: 2026-11-06
     language: pt
+  - title: Operação “Barcas” apreende 1,1 toneladas de haxixe e leva à detenção de quatro suspeitos
+    url: https://sapo.pt/artigo/operacao-barcas-apreende-1-1-toneladas-de-haxixe-e-leva-a-detencao-de-quatro-suspeitos-6af0db76013ef6a6906dcc57
+    publisher: SAPO / Diário do Distrito
+    date: 2026-11-08
+    language: pt
 open_questions:
   - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
   - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
@@ -151,6 +156,9 @@ open_questions:
   - The page gives no date for the operation itself, only that it ran over recent days and that the detainees would face a first judicial interrogation on Friday 6 November 2026, its publication date.
   - The submitted page's first image is a generic Judicial Police institutional picture uploaded in 2025 and its second is a photograph for an unrelated acorn-week story, so no media entry is added.
   - Rádio Pax gives no separate date for the police action beyond saying it ran over recent days and that the four suspects were to appear in court that day; 6 November 2026 is its publication date.
+  - The SAPO page was published on 8 November 2026, two days after the existing report's date; it gives no separate date for the operation itself, only that it was carried out 'nos últimos dias'.
+  - 'The page image carries only the credit ''Fonte: PJ'' with no caption describing the scene, so it is not clearly linked to this seizure.'
+  - The page does not report the outcome of the first judicial interrogation, which other coverage recorded as pre-trial detention.
 media:
   - kind: photo
     url: https://m.noticiasaominuto.com/pais/3079796/narcotrafico-4-detidos-e-1-1-toneladas-de-polen-de-haxixe-em-odemira
@@ -160,26 +168,26 @@ media:
 ---
 
 Four foreign nationals were detained at Porto das Barcas, São Teotónio, in the
-municipality of Odemira. [@1,4,5,9,11,13,15,16] They were suspected of trafficking more than a
+municipality of Odemira. [@1,4,5,9,11,13,15,16,17] They were suspected of trafficking more than a
 tonne of hashish by fast boat. [@1] The four detainees, aged between 16 and 43,
 were to be brought before a judge for a first judicial interrogation and
 coercive measures. [@1]
 
-Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7,9,10,12,13,14,16] The
+Officers seized about 1.1 tonnes of hashish pollen in the operation. [@1,3,4,5,7,9,10,12,13,14,16,17] The
 operation began after authorities spotted a suspicious high-speed vessel crewed
 by unidentified people whose presence near the Portuguese coast was unjustified.
-[@1] House searches led to the seizure of a car with a false number plate. [@1,16]
+[@1,17] House searches led to the seizure of a car with a false number plate. [@1,16,17]
 Officers also seized video-surveillance cameras placed to monitor police
 movements and communications equipment. [@1,15]
 
 It was a joint operation by the PJ's National Unit to Combat Drug Trafficking
 and the GNR's Coastal and Border Control Unit, named Operation Barcas, against
-international trafficking by sea. [@1,4,5,7] The operation, called Barcas, ran over
+international trafficking by sea. [@1,4,5,7,17] The operation, called Barcas, ran over
 recent days with support from the Navy and the Air Force. [@2,9,16] It also had
 support from the Maritime Analysis and Operations Centre – Drugs, an
-international cooperation body against trafficking by sea. [@2,9,10,16]
+international cooperation body against trafficking by sea. [@2,9,10,16,17]
 
-The four detainees are aged between 16 and 43 and are foreign nationals. [@3,7,12,14,16] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3,7]
+The four detainees are aged between 16 and 43 and are foreign nationals. [@3,7,12,14,16,17] The Judicial Police said the four would be brought before a judge on Friday for a first judicial interrogation to decide coercive measures. [@3] House searches also found video-surveillance cameras placed strategically to follow police movements, the police said. [@3,7]
 
 The operation was run by the PJ's National Unit to Combat Drug Trafficking (UNCTE) and the GNR's Coastal and Border Control Unit (UCCF). [@5] Police said the action followed the identification of a suspect high-value vessel crewed by several unidentified people whose presence near the Portuguese coast was unjustified. [@5]
 
