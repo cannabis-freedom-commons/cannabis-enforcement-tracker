@@ -59,6 +59,11 @@ media:
     media_url: https://okcfox.com/resources/media2/16x9/852/400/0x20/80/dcb04461-a4e2-4648-80aa-62e3845475e1-MarijuanabustOBN.jpg
     publisher: KOKH Fox 25
     caption: 'Fourth OBN photo of the marijuana bust near Clinton. Photo: OBN'
+  - kind: photo
+    url: https://www.msn.com/en-us/news/other/more-than-15-000-plants-seized-in-clinton-marijuana-bust/ar-AA2gU3P0
+    media_url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gUvjD.img?w=755&h=665&m=4&q=63
+    publisher: MSN (KFOR Oklahoma City)
+    caption: Lead image published with KFOR's report on the Clinton marijuana bust.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 2fe008f61fb8bb48ccb4d87e4149759e
@@ -88,6 +93,10 @@ sources:
     url: https://www.msn.com/en-us/news/other/obn-15000-marijuana-plants-seized-from-illegal-straw-ownership-marijuana-grow/ar-AA2gU8GR
     publisher: MSN (KOKH Oklahoma City)
     date: 2026-11-06
+  - title: More than 15,000 plants seized in Clinton marijuana bust
+    url: https://www.msn.com/en-us/news/other/more-than-15-000-plants-seized-in-clinton-marijuana-bust/ar-AA2gU3P0
+    publisher: MSN (KFOR Oklahoma City)
+    date: 2026-11-06
 open_questions:
   - The name, age, nationality and charges of the person arrested were not published, and no court outcome was reported.
   - The three people handed to ICE were not identified, and it is not stated whether any of them was the arrested person.
@@ -96,6 +105,7 @@ open_questions:
   - It is not stated whether the 114 pounds of processed marijuana were sealed retail product or bulk processed flower.
   - KFOR places the property in Clinton; other coverage put the grow south of Clinton in Washita County, and the existing report keeps the Washita County location.
   - KFOR gives no names or charges for the four people taken into custody, and no court outcome was reported.
+  - KFOR says OBN served the warrant at a property ‘in Clinton’, while other coverage places the grow south of Clinton in Washita County.
 ---
 
 One person was arrested at a marijuana grow near Clinton, in Washita County,
@@ -121,4 +131,4 @@ said its investigation continues. [@2] Hoodline reported that a KFOR account put
 the number of people taken into custody at four, which fits one arrest plus
 three ICE transfers. [@3]
 
-Four people were taken into custody in the bust. [@4,5]
+Four people were taken into custody in the bust. [@4,5,7]
