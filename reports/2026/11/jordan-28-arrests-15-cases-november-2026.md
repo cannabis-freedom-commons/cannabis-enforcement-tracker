@@ -95,6 +95,11 @@ sources:
     publisher: إذاعة حسنى
     date: 2026-11-08
     language: ar
+  - title: '#عاجل الأردن.. ضبط كميات كبيرة من المخدرات وتوقيف 28 شخصاً في 15 قضية'
+    url: https://www.jordanzad.com/index.php?id=773248&page=article
+    publisher: زاد الاردن الاخباري - أخبار الأردن
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -125,6 +130,8 @@ open_questions:
   - The English Petra release groups further Amman seizures as 25 slabs of hashish, 4,500 pills, half a kilogram of crystal methamphetamine and 2.6 kilograms of marijuana, while the Arabic statement lists the hashish and the marijuana separately, so the cannabis figures cannot be matched case by case between the two versions.
   - The submitted Husna FM page carries the same Public Security Directorate statement as the Petra release, so it corroborates the existing report rather than independently reporting the raids.
   - Husna FM gives no separate date for the raids; the article is dated 8 November 2026 and says the casework ran over the preceding days.
+  - The Zad Al Urdun page gives no separate date or place for the raids; it is an aggregator copy carrying the same Public Security Directorate statement as Khaberni and the Petra release, so it corroborates rather than independently reports the roundup.
+  - The page shows one uncaptioned thumbnail, used as the Open Graph image without a credit identifying what it depicts, and one advertisement image, so no media entry is added.
 media:
   - kind: photo
     url: https://a5r5br.net/jordan/local-news/8453952-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-28-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%81%D9%8A-15-%D9%82%D8%B6%D9%8A%D8%A9
@@ -144,7 +151,7 @@ Three pushers were arrested after a raid with five blocks of hashish and 1,500
 pills. [@1,5,11] South of Amman, officers raided a tent that three people used to
 trade, store and push drugs, arresting all three and seizing 2 kilograms of
 marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
-methamphetamine. [@1,3,4,5,6,7,11] Officers arrested three people in the last Amman case with
+methamphetamine. [@1,3,4,5,6,7,11,12] Officers arrested three people in the last Amman case with
 2,600 grams of marijuana. [@1,5,6,7,8,11] In the second Amman case three people were raided
 inside a flat they used to store drugs for sale, and officers seized 6,000 pills
 and a quantity of hashish. [@1,5] In a farm south of the capital officers arrested
@@ -170,4 +177,4 @@ cannabis figures. [@1,11]
 
 The English release puts the further Amman hashish seizure at 25 slabs, without giving a weight. [@7]
 
-The Petra release says the cannabis and other drugs were seized in 15 cases, eight of them in Amman and seven in other governorates, carried out over recent days against trafficking, distribution and smuggling. [@7]
+The Petra release says the cannabis and other drugs were seized in 15 cases, eight of them in Amman and seven in other governorates, carried out over recent days against trafficking, distribution and smuggling. [@7,12]
