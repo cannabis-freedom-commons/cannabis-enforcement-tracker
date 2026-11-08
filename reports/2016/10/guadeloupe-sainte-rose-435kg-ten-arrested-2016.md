@@ -61,6 +61,11 @@ sources:
     publisher: RCI
     date: 2019-01-30
     language: fr
+  - title: 'DROGUES. Guadeloupe: une demi-tonne de cannabis saisie'
+    url: https://www.ledauphine.com/france-monde/2016/10/15/guadeloupe-une-demi-tonne-de-cannabis-saisie
+    publisher: Le Dauphiné Libéré
+    date: 2016-10-15
+    language: fr
 open_questions:
   - OCRTIS put the load at 435 kg and RCI later reported 438 kg; this report uses the 435 kg figure given by the anti-narcotics office and Le Parisien.
   - RCI says the four vehicles carried nine men and two women, eleven people in all, while Le Parisien and France-Antilles report ten arrests.
@@ -73,14 +78,14 @@ open_questions:
 Anti-narcotics officers of the OCRTIS, France's central office against illicit
 drug trafficking, and the GIPN police intervention group stopped a convoy of
 four vehicles between Sainte-Rose and the approaches to Deshaies in Guadeloupe.
-[@1] The vehicles had just taken their cargo from a boat from the island of
-Saint Vincent. [@1]
+[@1,4] The vehicles had just taken their cargo from a boat from the island of
+Saint Vincent. [@1,4]
 
-OCRTIS said the cannabis herb was packed in several bales totalling 435 kg. [@1]
+OCRTIS said the cannabis herb was packed in several bales totalling 435 kg. [@1,4]
 Ten people were detained and placed in police custody at the Guadeloupe judicial
-police (DIPJ) headquarters. [@1] After their custody they were brought before a
+police (DIPJ) headquarters. [@1,4] After their custody they were brought before a
 judge in Fort-de-France, Martinique, placed under formal investigation and
-jailed. [@1] France-Antilles reported that the ten members of the network were
+jailed. [@1,4] France-Antilles reported that the ten members of the network were
 aged 25 to 41. [@2] A pistol was also seized, France-Antilles reported. [@2]
 
 RCI later reported that four vehicles carrying nine men and two women were
@@ -96,4 +101,3 @@ seizures. [@1]
 
 At the end of January 2019, 21 people went on trial before the JIRS in
 Fort-de-France over the wider network known as the Wildting case. [@3]
-
