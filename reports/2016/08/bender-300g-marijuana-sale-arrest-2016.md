@@ -42,6 +42,11 @@ sources:
     publisher: Transdnestrinform
     date: 2016-08-23
     language: ru
+  - title: В Бендерах задержан распространитель марихуаны
+    url: https://www.novostipmr.com/ru/content/v-benderakh-zaderzhan-rasprostranitel-marikhuany
+    publisher: Новости Приднестровья
+    date: 2016-08-23
+    language: ru
 open_questions:
   - The article gives no separate date for the detention; 23 August 2016 is the publication and reporting date used as the incident date
   - The reported amount was approximate, about 300 grams, so 0.3 kg is an approximate figure
@@ -50,11 +55,12 @@ open_questions:
   - Both accounts repeat the Interior Ministry press-service version; no independent account was found
   - The Novosti PMR page carries an image without caption or credit that cannot be established to show this seizure, so no media entry is included
   - 'Left out, as its quotation was not found in Transdnestrinform: The ministry''s press service said the bureau officers carried out the detention after the months of operational work.'
+  - The Novosti PMR page carries one photograph with no caption or credit, so it could not be established as showing this seizure and is not linked as media.
 ---
 
 Officers of the Bureau for Combating Illicit Drug Trafficking of the Main
 Criminal Investigation Department of the Interior Ministry of Transnistria
-detained a suspected marijuana distributor in the city of Bender. [@1] The
+detained a suspected marijuana distributor in the city of Bender. [@1,3] The
 detained man was a 20-year-old resident of Bender who was stopped immediately
 after completing the sale. [@1] Officers caught him red-handed when he sold
 about 300 grams of marijuana to a client, an episode the ministry's press
@@ -68,4 +74,3 @@ committed by the suspect in connection with marijuana distribution. [@1]
 
 Investigators opened a separate criminal case for each of the three documented
 unlawful acts. [@2]
-
