@@ -56,6 +56,11 @@ sources:
     publisher: La Dépêche du Midi
     date: 2026-10-29
     language: fr
+  - title: 'Trois tonnes de drogue acheminées : six suspects interpellés'
+    url: https://www.cnews.fr/faits-divers/2026-10-30/trois-tonnes-de-drogue-acheminees-depuis-lespagne-six-trafiquants
+    publisher: CNEWS
+    date: 2026-10-30
+    language: fr
 open_questions:
   - La Dépêche du Midi reported a larger haul of about 30 kg of drugs in France and 20 kg in Spain, while Actu17's detailed prosecutor figures total about 34 kg across both countries; this report uses the detailed figures.
   - Actu17 and Actu.fr date the shipments to December 2024-February 2026, while La Dépêche du Midi describes the network as having operated for two years.
@@ -64,26 +69,28 @@ open_questions:
   - No photograph of the arrests was published; the images on the three articles are stock or archive illustrations, apart from the Toulouse prosecutor's seizure photos.
   - 'Left out, as its quotation was not found in Actu.fr: The arrests took place on 26 October 2026.'
   - 'Left out, as its quotation was not found in Actu.fr: They estimate it sent about three tonnes of cannabis that way between December 2024 and February 2026.'
+  - CNEWS gives rounded French seizures of about 20 kg of herbal cannabis, 6 kg of resin and about 10,000 euros, while the report uses detailed prosecutor figures of 20.314 kg, 6.085 kg and 10,365 euros.
+  - CNEWS calls the roughly three tonnes imported between December 2024 and February 2026 drogue from a network dealing in cannabis in particular, while the existing report records it as cannabis on the basis of its earlier sources.
 ---
 
 Six people were arrested in France and Spain in an investigation into a
-cannabis-trafficking network. [@1] Five of them — four men and one woman — were
+cannabis-trafficking network. [@1,3] Five of them — four men and one woman — were
 detained in France, mainly in Toulouse and its region, and one in a town in
 western France. [@2] A 32-year-old Frenchman was arrested the same day in the
 Catalan seaside town of Lloret de Mar. [@2] The five held in France were brought
-before a Toulouse examining magistrate on 29 October. [@1] The prosecutor
-requested their indictment and pre-trial detention. [@1] A further suspect, who
+before a Toulouse examining magistrate on 29 October. [@1,3] The prosecutor
+requested their indictment and pre-trial detention. [@1,3] A further suspect, who
 lives in Spain, remains at large, the Toulouse prosecutor said. [@1]
 
 Searches in France produced 20.314 kg of herbal cannabis, 6.085 kg of cannabis
 resin and €10,365, as well as packaging materials and indoor growing equipment.
-[@1] At the suspect's homes in Spain, police seized 7.6 kg of herbal cannabis,
+[@1,3] At the suspect's homes in Spain, police seized 7.6 kg of herbal cannabis,
 €12,240 and several category A and B weapons and ammunition. [@1]
 
 The case began in May 2025, when police arrested a man at his home in Toulouse
 and found cannabis, €20,190 in cash, Mondial Relay labels and cans of expanding
 foam used to hide the smell of drugs in parcels. [@1] Investigators say the
-network was run from Spain by three people. [@1] It sold cannabis through a
+network was run from Spain by three people. [@1,3] It sold cannabis through a
 Telegram channel and temporary dealing points in Occitanie, and sent parcels
 through the French parcel service Mondial Relay to France, Italy, Belgium and
 Poland. [@1]
@@ -92,4 +99,3 @@ The five suspects in France admitted roles as couriers, stash-house keepers,
 known in French as nourrices, parcel packers or managers of the Telegram
 account. [@1] Prosecutors said all five had criminal records and some were
 repeat offenders. [@1]
-
