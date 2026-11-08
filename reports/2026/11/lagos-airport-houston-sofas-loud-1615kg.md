@@ -87,7 +87,7 @@ open_questions:
 
 On Wednesday 4 November 2026, NDLEA operatives at the import shed of the airport
 in Lagos intercepted 32 parcels of Loud, a strain of cannabis, weighing 16.15
-kilograms. [@1,4,5,6] The parcels were concealed inside two wooden sofas in a
+kilograms. [@1,4,5,6,8] The parcels were concealed inside two wooden sofas in a
 consolidated cargo that arrived from Houston, Texas, United States aboard a
 Turkish Airlines flight. [@2,5] Punch, citing the agency, also reported the
 interception of 32 parcels of Loud weighing 16.15 kilogrammes concealed in two
