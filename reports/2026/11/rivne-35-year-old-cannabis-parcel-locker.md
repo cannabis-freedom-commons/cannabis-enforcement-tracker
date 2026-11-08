@@ -121,6 +121,8 @@ open_questions:
   - The three images on the submitted page carry no captions or credits, so it is not established what they show and no media entry is added.
   - Рівне Онлайн посилається на телеграм-канал поліції Рівненщини (t.me/NPU_Rivne/45209), тобто відтворює те саме відомче повідомлення, що й інші видання.
   - The three photos on the Magnolia-TV page carry no captions or credits, so it is not established that they show this seizure, and no media entry is added from that page.
+  - The three images on the submitted page have empty alt text and no captions or credits in the page markup, so it is not established that they show this seizure; the first image, which heads the article, is not added as a media entry for that reason.
+  - Polissia News reproduces the Rivne Oblast police statement, so it is not independent reporting on the event.
 ---
 
 Detectives of the Rivne Oblast police drug-crime unit stopped a 35-year-old
@@ -131,11 +133,11 @@ man on the spot. [@2]
 
 In the search officers found and seized cannabis weighing about 500 grams. [@1,4,6,7,8,9]
 Rivne Oblast police put the street value of the seized cannabis at about 200,000
-hryvnias (about 4,700 dollars). [@2,5,6,7,8,9]
+hryvnias (about 4,700 dollars). [@2,4,5,6,7,8,9]
 
 A pretrial investigation is under way into unlawful possession of drugs under
 part 1 of article 309 of Ukraine's Criminal Code, which covers acquiring and
-keeping drugs without intent to sell. [@1,6,7,8,9] Investigators were still working to
+keeping drugs without intent to sell. [@1,4,6,7,8,9] Investigators were still working to
 establish who else was involved in the circulation of the drugs, and the other
 circumstances of the offence. [@1,6,7,9]
 
