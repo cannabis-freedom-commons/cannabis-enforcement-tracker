@@ -70,6 +70,21 @@ sources:
     publisher: Free Press Online
     date: 2026-11-08
     language: it
+  - title: 'Bronte, arrestato giovanissimo per droga: sequestrate decine di dosi di hashish e strumenti per lo spaccio'
+    url: https://www.dayitalianews.com/bronte-arrestato-giovanissimo-droga/
+    publisher: Dayitalianews
+    date: 2026-11-08
+    language: it
+  - title: 'Bronte (CT), centrale dello spaccio in casa: diciottenne arrestato in flagranza dai carabinieri'
+    url: https://ilsicilia.it/bronte-ct-centrale-dello-spaccio-in-casa-diciottenne-arrestato-in-flagranza-dai-carabinieri/
+    publisher: ilSicilia
+    date: 2026-11-08
+    language: it
+  - title: 'Bronte, sospetti per il via vai di notte nel palazzo: 18enne arrestato per spaccio'
+    url: https://www.corrieretneo.it/2026/11/08/bronte-sospetti-per-il-via-vai-di-notte-nel-palazzo-18enne-arrestato-per-spaccio/
+    publisher: Corriere Etneo
+    date: 2026-11-08
+    language: it
 open_questions:
   - The articles give no separate date for the raid; 8 November 2026 is the publication date and is used as the incident date.
   - Only the 22 grams recovered behind the mirror is stated as a weight; the 20 doses in the shoulder bag and the three doses held by the buyers are not weighed, so the total hashish seized cannot be stated.
@@ -82,10 +97,12 @@ open_questions:
   - The 20 doses in the shoulder bag and the doses held by the buyers are not weighed, so the total hashish seized cannot be stated.
   - Only the 22 grams recovered behind the mirror is given as a weight, and the substance was still to be analysed by the Carabinieri laboratory.
   - The CataniaToday lead photo has no caption or stated credit and is not confirmed to show the seizure or the search, so no media entry is added.
+  - The Dayitalianews, Corriere Etneo and ilSicilia pages reproduce the same Carabinieri statement as the outlets already cited, so they are not independent reporting.
+  - None of the three accounts gives a separate date for the raid; 8 November 2026 is the publication date.
 ---
 
 Carabinieri from the Bronte station, part of the Catania provincial command,
-arrested an 18-year-old of Romanian origin who lives in the town. [@1,3] He is
+arrested an 18-year-old of Romanian origin who lives in the town. [@1,3,5] He is
 suspected of producing, trafficking and possessing drugs, a case that still has
 to be tested in court. [@1]
 
@@ -95,7 +112,7 @@ a distance. [@1,4] When two customers knocked and were let in, the Carabinieri
 went through the door they had left open and found the two visitors and the
 pusher inside. [@1] The 18-year-old was carrying a shoulder bag with 20 doses of
 hashish, and each of the two visitors had one dose in a pocket, packaged just
-like his, probably bought moments earlier. [@1,4]
+like his, probably bought moments earlier. [@1,4,5]
 
 The search of the flat turned up another 22 grams of hashish hidden behind a
 mirror in the bedroom and, in a kitchen drawer, packaging material, a precision
@@ -115,3 +132,5 @@ and the house arrest, attributing the reconstruction to the Catania provincial
 command. [@2]
 
 The 18-year-old was arrested in flagrante delicto and, on the order of the judicial authority, placed under house arrest. [@3]
+
+The three buyers, including the 38-year-old, were reported to the prefecture as drug users rather than arrested. [@6] A further account describes the same operation as a raid staged during a sale, with another 22 grams of hashish found behind a mirror. [@7]
