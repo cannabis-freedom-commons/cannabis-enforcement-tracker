@@ -76,6 +76,11 @@ sources:
     publisher: NAGORIK TV
     date: 2026-11-02
     language: bn
+  - title: দৌলতপুরে বিজিবির অভিযানে ভারতীয় মাদকদ্রব্য উদ্ধার
+    url: https://www.ajkalerkhobor.net/news/208398
+    publisher: Daily Ajkalerkhobor (আজকালের খবর)
+    date: 2026-11-02
+    language: bn
 open_questions:
   - The drives occurred overnight around 2:00 a.m., with the Bengali source attributing them to the night of 1 November and the English source splitting them between Saturday and Sunday around 2:00 a.m.; 1 November 2026 is used as the incident date.
   - No arrests, detentions, names or court outcomes were reported; all seizures were described as unclaimed.
@@ -87,22 +92,24 @@ open_questions:
   - Ajker Patrika publishes no value estimate for the drugs and names no arrests or detentions.
   - The page's image caption credits the photo only as collected, with no photographer or agency named.
   - The NAGORIK TV report describes the drives as taking place at dawn on Monday 2 November, while the report's existing sources date the cannabis recovery to about 2:00 a.m. Saturday and the syrup and liquor recovery to about 2:00 a.m. Sunday; 1 November remains the recorded incident date.
+  - This outlet names the Kushtia district sub-district as Daulatpur, while the existing report and its sources place the same Dholar Math and Mathurapur Refugeepara recoveries on the Meherpur border; the location discrepancy is unresolved.
+  - The article times the hemp recovery at about 8:00 p.m. on Sunday 1 November and the syrup and liquor recovery at about 12:20 a.m. on Monday 2 November, later than the approximately 2 a.m. and Saturday timing given in the tracker's UNB source.
 ---
 
 Border Guard Bangladesh's Kushtia Battalion (47 BGB) carried out separate
 anti-drug and anti-smuggling drives on the Meherpur border. [@1,3,6] All of the
 recovered drugs were found unclaimed, and no suspects were reported detained in
-these drives. [@1,3,5,6]
+these drives. [@1,3,5,6,7]
 
 A Dhola Border Outpost patrol recovered 18 kg of unclaimed Indian hemp at Dholar
-Math, which BGB valued at Tk 63,000. [@1,3,5] The same cannabis recovery is
+Math, which BGB valued at Tk 63,000. [@1,3,5,7] The same cannabis recovery is
 described as 18 kg of unclaimed Indian hemp found at Dholar Math around 2:00
 a.m. and valued at Tk 63,000. [@2] In the other drive, a Kazipur Border Outpost
 patrol recovered 75 bottles of Fairdeal syrup and 56 bottles of Indian liquor
-from Mathurapur Refugeepara field, with a seizure value of Tk 1.14 lakh. [@1,3,5]
+from Mathurapur Refugeepara field, with a seizure value of Tk 1.14 lakh. [@1,3,5,7]
 That second recovery is likewise reported as 75 bottles of syrup and 56 bottles
 of liquor worth Tk 1.14 lakh from Mathurapur Refugeepara field. [@2] Together
-the recovered narcotics were given a total estimated value of Tk 1.77 lakh. [@2,4]
+the recovered narcotics were given a total estimated value of Tk 1.77 lakh. [@2,4,7]
 
 The seizures were announced in a press release sent by the Kushtia Battalion (47
 BGB) on the afternoon of 2 November. [@1,5] Battalion commander Lt. Col. Rashed
@@ -110,3 +117,5 @@ Kamal Roni confirmed the seizures and said BGB would maintain its uncompromising
 stance and intelligence surveillance against drug smuggling for a safe border.
 [@2] BGB said its strict position and regular operations to secure the border
 and prevent drug smuggling would continue. [@1]
+
+The article dates the hemp recovery at Dholar field to about 8:00 p.m. on Sunday 1 November, the night before the 2 November announcement; UNB dated the same recovery to about 2:00 a.m. Saturday. [@7] It gives the time of the second drive at the Mathurapur Refugeepara field as about 12:20 a.m. on Monday 2 November. [@7] BGB said its officers would remain alert and active against drug trafficking and smuggling across the border, and that regular operations and intelligence surveillance would continue to strengthen border security and build a drug-free society. [@7]
