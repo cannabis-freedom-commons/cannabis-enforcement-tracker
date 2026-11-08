@@ -42,6 +42,11 @@ media:
     media_url: https://images.metroimg.com/2026/11/image00002-1-3x2-1.jpg
     publisher: Metrópoles
     caption: 'Photo credited only to the Military Police of the Federal District (PMDF) and published with the report on the raid on the drinks distributor in Ceilândia. Photo: PMDF'
+  - kind: photo
+    url: https://jornaldebrasilia.com.br/brasilia/homem-e-preso-com-haxixe-cocaina-e-maconha-em-distribuidora-de-ceilandia/
+    media_url: https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/11/08174850/WhatsApp-Image-2026-11-08-at-17.42.17.jpeg
+    publisher: Jornal de Brasília
+    caption: 'Photo credited only to the Military Police of the Federal District (PMDF) and published with the report on the arrest at the drinks distributor on QNN 7, Ceilândia Norte. Photo: PMDF'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fe4ea1be48ad076fa63224b2639100ed
@@ -52,11 +57,20 @@ sources:
     publisher: Metrópoles
     date: 2026-11-08
     language: pt
+  - title: Homem é preso com haxixe, cocaína e maconha em distribuidora de Ceilândia
+    url: https://jornaldebrasilia.com.br/brasilia/homem-e-preso-com-haxixe-cocaina-e-maconha-em-distribuidora-de-ceilandia/
+    publisher: Jornal de Brasília
+    date: 2026-11-08
+    language: pt
 open_questions:
   - The article gives no weight for the marijuana portions or the dry piece and no street value; only the cash found, about 3,036 reais, is a figure.
   - The report does not say whether the 17-year-old was arrested or treated only as a user, nor what charge the 20-year-old faces.
   - Only one accessible source was found for this event; a copy on Yaconews repeated the Metrópoles report but returned an access error.
   - The accompanying photo is credited only to the PMDF and its caption only repeats the headline, so it is listed as a link without confirming what it depicts.
+  - The Jornal de Brasília gives 6,578 reais in cash and lists 58 portions of hashish, 16 of cocaine and 10 of marijuana, while the Metrópoles account already cited gives about 3,036 reais and crack, ice and a dry piece without the portion counts.
+  - The Jornal de Brasília puts the arrest on the night of Saturday 7 November 2026, while Metrópoles reported it took place in the early hours of Sunday 8 November.
+  - The Jornal de Brasília describes the portion found on the teenager as hashish; Metrópoles said the 17-year-old was found with a portion of marijuana.
+  - The Jornal de Brasília page carries a photo credited only to the PMDF with no caption beyond the credit, so it is listed as a link without confirming what it depicts.
 ---
 
 Military police arrested a 20-year-old man in the early hours of Sunday 8
@@ -76,3 +90,4 @@ Officers also found receipts of financial transactions. [@1] The owner of the
 distributor was taken to the 15th Police Station and the teenager to the Child
 and Adolescent Police Station II (DCA II). [@1]
 
+The Jornal de Brasília put the raid on the night of Saturday 7 November 2026. [@2] Officers of the 10th Battalion found 58 portions of hashish, 16 of cocaine and 10 of marijuana, a larger piece of hashish, a precision scale, packaging, a mobile phone and 6,578 reais in cash, the Jornal de Brasília reported. [@2] A teenager who had just left the business was stopped nearby carrying a portion of hashish and told the officers he had bought it at the distributor. [@2] The man tried to walk to the back of the shop and discard objects when officers arrived, but was intercepted and later went to the 15th Police Station, where the flagrante was formalised. [@2]
