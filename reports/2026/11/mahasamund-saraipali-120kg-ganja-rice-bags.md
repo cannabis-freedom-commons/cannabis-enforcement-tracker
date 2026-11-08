@@ -78,6 +78,11 @@ sources:
     publisher: Janta Se Rishta
     date: 2026-11-04
     language: hi
+  - title: 'Major Drug Bust in Chhattisgarh: Over 120 Kilograms of Marijuana Seized, Two Arrested'
+    url: https://www.newspointapp.com/english/india/major-drug-bust-in-chhattisgarh-over-120-kilograms-of-marijuana-seized-two-arrested-dailykiran/articleshow/14504820c0710226f2385ec549a9b4bc3fc34ab2
+    publisher: Newspoint / Daily Kiran
+    date: 2026-11-03
+    language: en
 open_questions:
   - The article gives no separate date for the interception; 3 November 2026 is its dateline and publication timestamp and is used as the incident date.
   - Only one accessible source for this event was opened after searching; no second account could be added.
@@ -94,6 +99,7 @@ open_questions:
   - The page image is captioned only with the headline text and carries no credit establishing that it shows this seizure, so no media entry is included.
   - This account says the consignment was being taken toward north India, while the existing report says toward Raipur, so the destination wording differs.
   - The page image is captioned only with the headline and carries no credit establishing that it shows this seizure, so no media entry is included.
+  - The Daily Kiran English account, the Navbharat Times copy and the Haribhoomi report all reproduce the same Mahasamund police information, so they are not independent of each other.
 media:
   - kind: photo
     url: https://www.haribhoomi.com/state-local/chhattishgarh/news/mahasamund-ganja-smuggling-operation-nishchay-drug-trafficking-ndps-act-120580
@@ -103,26 +109,26 @@ media:
 ---
 
 Mahasamund police arrested two alleged smugglers from Uttar Pradesh with ganja
-hidden in a container truck. [@1,2,3,4,6,7,8] The men identified themselves as Amandeep, 27,
-and Lallu Yadav, 24, both residents of Jaunpur district. [@1,2,3,4,5,7,8] The Anti-Narcotic
+hidden in a container truck. [@1,2,3,4,6,7,8,9] The men identified themselves as Amandeep, 27,
+and Lallu Yadav, 24, both residents of Jaunpur district. [@1,2,3,4,5,7,8,9] The Anti-Narcotic
 Task Force and Saraipali police stopped the suspect container at the Khamharpali
 RTO barrier after a tip that a large ganja consignment was being taken from
-Odisha through Chhattisgarh toward Raipur. [@1,2,3,5,6,7,8] Police registered a case at
+Odisha through Chhattisgarh toward Raipur. [@1,2,3,5,6,7,8,9] Police registered a case at
 Saraipali police station under Section 20(b) of the NDPS Act and sent both
-accused to judicial remand. [@1,2,3,4,5,6,8]
+accused to judicial remand. [@1,2,3,4,5,6,8,9]
 
 Officers searching the container found 117 packets concealed in four bags among
 about 300 rice bags. [@1,2,3,4,5,6,8] The search recovered 120.960 kilograms of ganja, which
 police estimated to be worth Rs 6,048,000. [@1,3,4,5,6,7,8] Police put the ganja's value at
 about Rs 60.48 lakh and said the total seizure together with the container and
-other goods exceeded Rs 1 crore. [@1,3,5,8] Besides the drug, officers seized the
+other goods exceeded Rs 1 crore. [@1,3,5,8,9] Besides the drug, officers seized the
 container vehicle valued at about Rs 30 lakh and two mobile phones from the
-accused. [@1,3,5,6,8]
+accused. [@1,3,5,6,8,9]
 
 Police said the seizure was made in Mahasamund district under Operation
-Nishchay. [@1,3,4,8] Police said investigation into forward and backward links was
+Nishchay. [@1,3,4,6,8] Police said investigation into forward and backward links was
 continuing to trace the supply chain, source, destination and financial network.
-[@1,3,5,6]
+[@1,3,5,6,9]
 
 The container allegedly used for the smuggling bore registration number WB 19 L 3059. [@4,7,8]
 
