@@ -82,6 +82,11 @@ sources:
     publisher: Secretaría de Seguridad Honduras
     date: 2026-09-11
     language: es
+  - title: '#LoÚltimo | Dos detenidos y 500 paquetes de marihuana tras operación de impacto en Olancho.'
+    url: https://www.facebook.com/PoliciaNacionaldeHonduras/posts/lo%C3%BAltimo-dos-detenidos-y-500-paquetes-de-marihuana-tras-operaci%C3%B3n-de-impacto-en-/1412279754428330/
+    publisher: Policía Nacional de Honduras
+    date: 2026-09-11
+    language: es
 open_questions:
   - The outlets give no separate date for the operation beyond 'in the last hours' and their 11 September 2026 publication; 11 September is used, while the National Police posted the account on 12 September.
   - The 498 pounds (about 226 kg) is a preliminary police weight for a load still described as suspected marijuana, not a laboratory measurement.
@@ -90,6 +95,9 @@ open_questions:
   - No charge sheet, formal charge, measure of restraint or court outcome for the two detainees was reported.
   - The minor's legal status under Honduras's juvenile justice procedure was not reported.
   - The National Police's four Facebook photos carry no captions and their automatic alt text does not establish what each shows, so they are linked as the police's own images of the operation rather than described.
+  - This post rounds the load to 500 packages and gives no weight; the existing report keeps the detailed 498-pound and 249 double-package figures from other outlets.
+  - This post spells the origin as 'San Estaban'; the existing report uses San Esteban.
+  - The page carries four images without captions, so no media entry is added.
 ---
 
 Agents of Honduras's National Anti-Drug Police Directorate (DNPA) seized 498
@@ -98,12 +106,12 @@ during an operation in the early hours before 11 September 2026. [@2] The load
 was hidden in a car and packed in 10 bales holding 249 double packages, which
 police weighed at a total of 498 pounds (about 226 kg). [@2] Officers detained
 two people who were travelling in the car carrying the load: a 27-year-old man
-and a 17-year-old minor. [@2] The car used to move the substance was also
+and a 17-year-old minor. [@2,6] The car used to move the substance was also
 confiscated and stayed under the authorities' custody as part of the
 investigation. [@2]
 
 National Police investigators said the two were travelling with the marijuana
-from San Esteban, Olancho, toward Tegucigalpa. [@1] The Security Secretariat
+from San Esteban, Olancho, toward Tegucigalpa. [@1,6] The Security Secretariat
 said police intelligence placed the pair on the road from San Esteban toward
 Tegucigalpa. [@5] The seized substance was still described as suspected
 marijuana and was to undergo laboratory analysis to confirm scientifically that
@@ -114,4 +122,3 @@ procedure established by law and to determine their possible responsibility for
 moving the load. [@3] Investigations continued to establish where the load came
 from and where it was going. [@4] The National Police announced the case under
 its #LoMásRelevante round-up as an impact operation in Olancho. [@1]
-
