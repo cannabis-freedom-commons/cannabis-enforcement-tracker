@@ -54,6 +54,11 @@ sources:
     publisher: Los Tiempos
     date: 2026-11-06
     language: es
+  - title: 'Oviedo: Las maletas contenían marihuana químicamente alterada'
+    url: https://larazon.bo/nacional/2026/11/06/oviedo-las-maletas-contenian-marihuana-quimicamente-alterada/
+    publisher: La Razón
+    date: 2026-11-06
+    language: es
 open_questions:
   - The article does not date the January search that seized the 70 kilograms; 6 November 2026 is the publication date of the minister's press conference and is used as the incident date.
   - No figure for the weight of the marijuana in the more than 30 suitcases was published; only the 70 kilograms found in the January search is counted.
@@ -64,11 +69,13 @@ open_questions:
   - Oviedo called the marijuana chemically altered and called the group a narco-structure, but no laboratory result, chemical composition or weight for the suitcase contents was published.
   - No charges, arrests or court step tied specifically to this cannabis seizure were reported; Mariaca and Saucedo are detained or at large in the wider case.
   - The page photo shows the minister at an earlier press appearance and does not depict the suitcases or the seizure, so it is not listed as media.
+  - This account gives no weight for the marijuana said to have been in the 31 suitcases, so the existing figure of 70 kilograms from the January search stands.
+  - The page photo shows the minister giving investigation details and does not depict the suitcases, the airport, or any seizure, so no media entry is added.
 ---
 
 Bolivia's interior minister, Marco Antonio Oviedo, said the more than 30
 suitcases flown into the country from the United States in November 2025 carried
-chemically altered marijuana that would fetch a high price in Brazil. [@1] After
+chemically altered marijuana that would fetch a high price in Brazil. [@1,4] After
 nearly a year, the authorities say they still do not know what became of the
 drug once it entered Bolivia. [@1]
 
@@ -91,14 +98,15 @@ kilograms of marijuana were seized. [@1]
 
 Oviedo named Mariaca and Saucedo the main authors of the operation, saying
 Mariaca organised the flight and financed the contents of the suitcases while
-Saucedo provided protection to those involved. [@1] The minister said there was
+Saucedo provided protection to those involved. [@1,4] The minister said there was
 still no information on how the marijuana was sold and that the investigation
 now rests with the Public Ministry and the courts. [@1]
 
 Oviedo also said a third person, prosecutor Delmy Guzmán, intervened when police
-tried to search the airport depot where the suitcases were left. [@2] According
+tried to search the airport depot where the suitcases were left. [@2,4] According
 to Oviedo, former deputy Laura Rojas and former judge Hebert Zeballos collected
-the suitcases the next day through a company belonging to Zeballos. [@2] Mariaca
+the suitcases the next day through a company belonging to Zeballos. [@2,4] Mariaca
 is held in preventive detention in Cantumarca prison while Saucedo has left
 Bolivia and his whereabouts are unknown. [@3]
 
+Vice-Minister of the Interior Peter Maldonado said Juan Carlos Espinoza Vaca, described as an alleged frontman for the organization, died while detained in Palmasola prison. [@4] Maldonado said doubts remain about the circumstances of that death and announced an investigation to clarify the cause and determine whether there are linked responsibilities. [@4]
