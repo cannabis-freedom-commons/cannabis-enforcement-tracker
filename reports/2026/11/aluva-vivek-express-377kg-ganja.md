@@ -129,6 +129,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Deshabhimani: Deshabhimani confirmed that the inspection of the Dibrugarh–Kanyakumari Express was carried out on Thursday after the train reached Aluva.'
   - The Dailyhunt reprint gives no inspection date of its own; the 5 November 2026 date in the report comes from its other sources.
   - 'Left out, as its quotation was not found in Deepika: The inspection was carried out by Thiruvananthapuram RPF Crime Intelligence Branch Inspector A. J. Jibin with ASIs Sijo Xavier and Vijayakumar, Head Constable Vipin and Constable Nikhil.'
+  - The submitted MSN copy shows the article only as "2d" old; the NDTV page date of 6 November 2026 comes from its publication metadata, and no separate time for the inspection was published.
 ---
 
 Railway Protection Force officers seized 37.7 kg of ganja from the
@@ -163,3 +164,5 @@ The RPF said checks at stations and on trains would be tightened for the Deepava
 NDTV published a photo captioned as the contraband seized by the Railway Protection Force, credited to NDTV. [@7]
 
 Deepika reported that the ganja was packed in boxes surrounded with jaggery blocks that were stacked in the sacks. [@10]
+
+NDTV named Senior Divisional Security Commissioner Mohammed Haneef and Thiruvananthapuram Inspector Jipin AJ as the officers under whose authority the RPF Crime Intelligence Branch team made the seizure. [@7]
