@@ -56,12 +56,18 @@ sources:
     publisher: Bangla Edition
     date: 2026-11-02
     language: bn
+  - title: কুষ্টিয়া সীমান্তে ১৮ কেজি গাঁজাসহ মাদকদ্রব্য উদ্ধার
+    url: https://www.bd-pratidin.com/country/2026/11/02/1320638
+    publisher: বাংলাদেশ প্রতিদিন
+    date: 2026-11-02
+    language: bn
 open_questions:
   - The drives occurred overnight around 2:00 a.m., with the Bengali source attributing them to the night of 1 November and the English source splitting them between Saturday and Sunday around 2:00 a.m.; 1 November 2026 is used as the incident date.
   - No arrests, detentions, names or court outcomes were reported; all seizures were described as unclaimed.
   - Syrup and liquor bottle counts and their Tk 1.14 lakh value are mentioned only to explain the mixed seizure and are excluded from cannabis figures; the Tk 1.77 lakh combined total is likewise excluded, with only the separately stated Tk 63,000 cannabis value recorded.
   - Only the submitted article's lead photo with a matching event caption is listed as media; unrelated sidebar photos on the same page are omitted.
   - The page carries a photo credited only as Bangla Edition with the same headline as caption; the caption does not confirm it shows the seized drugs, so no media entry is added.
+  - The outlet dates the cannabis recovery to the night of Saturday (31 October) and the syrup and liquor recovery to the following night (Sunday, 1 November).
 ---
 
 Border Guard Bangladesh's Kushtia Battalion (47 BGB) carried out separate
@@ -77,7 +83,7 @@ patrol recovered 75 bottles of Fairdeal syrup and 56 bottles of Indian liquor
 from Mathurapur Refugeepara field, with a seizure value of Tk 1.14 lakh. [@1,3]
 That second recovery is likewise reported as 75 bottles of syrup and 56 bottles
 of liquor worth Tk 1.14 lakh from Mathurapur Refugeepara field. [@2] Together
-the recovered narcotics were given a total estimated value of Tk 1.77 lakh. [@2]
+the recovered narcotics were given a total estimated value of Tk 1.77 lakh. [@2,4]
 
 The seizures were announced in a press release sent by the Kushtia Battalion (47
 BGB) on the afternoon of 2 November. [@1] Battalion commander Lt. Col. Rashed
