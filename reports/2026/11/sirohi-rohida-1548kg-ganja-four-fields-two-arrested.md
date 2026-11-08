@@ -64,6 +64,11 @@ sources:
     publisher: Pali Sirohi Online News by Pintu Agarwal
     date: 2026-11-06
     language: hi
+  - title: सिरोही:मक्के की फसल की आड़ में उगा रहे थे गांजा, चार खेतों से 1.5 टन से ज्यादा पौधे जब्त; दो गिरफ्तार
+    url: https://www.amarujala.com/rajasthan/sirohi-ganja-seized-maize-fields-one-crore-two-accused-arrested-2026-11-08
+    publisher: Amar Ujala
+    date: 2026-11-08
+    language: hi
 open_questions:
   - The article gives no separate date for the raid; 6 November 2026 is its publication date and is used as the incident date.
   - No count of the plants seized in the four fields was published, only their combined weight of 1,548.484 kg.
@@ -74,18 +79,22 @@ open_questions:
   - Pali Sirohi Online names the cover crops as maize, castor and varayali, while ETV Bharat reported maize and other crops; the difference is noted rather than reconciled.
   - Neither account gives a separate date for the raid; 6 November 2026 is the publication date of both pages.
   - 'Left out, as its quotation was not found in ETV Bharat: Officers searched four separate fields in the Rohida police station area and seized 1,548.484 kg of green ganja plants in total.'
+  - Amar Ujala names the two arrested men in full (Mukesh Kumar, 25, and Saniya alias Sunil, 19); the existing report keeps only their ages.
+  - Amar Ujala describes the seized material as more than 1.5 tonnes of ganja plants and says police uprooted and seized the plants, without giving a plant count, a field area or a split between seized and destroyed plants.
+  - 'The names of the two suspects differ slightly between outlets: Amar Ujala gives Saniya alias Sunil while ETV Bharat gave Sunil alias Suniyaram; no reconciliation was published.'
+  - Amar Ujala's page image is a stock photo credited to ANI, not a picture of this raid, so it is not listed as media.
 ---
 
 Sirohi police arrested a 25-year-old man and a 19-year-old man, both residents
 of Kedar Padar in the Rohida police station area, over illegally grown ganja.
-[@1,2] Police registered four cases under the NDPS Act and began investigating
+[@1,2,3] Police registered four cases under the NDPS Act and began investigating
 other aspects linked to the fields and the people behind the cultivation and its
 network. [@1]
 
 Officers searched four separate fields in the Rohida police station area and
 seized 1,548.484 kg of green ganja plants in total. [@1] The plants were found
 growing illegally among maize and other crops in the hilly terrain. [@1,2] Police
-put the estimated value of the seized ganja at more than one crore rupees. [@1,2]
+put the estimated value of the seized ganja at more than one crore rupees. [@1,2,3]
 The raid followed a tip-off, with the team led by the Rohida station officer
 under the supervision of additional superintendent Narendra Kumar and circle
 officer Rahul Meena, on the instructions of superintendent Dr Ajeya Singh
@@ -96,3 +105,5 @@ the cultivation, smuggling and trade of illegal drugs that includes special
 surveillance of remote hilly areas. [@1] He said no one involved in the drug
 trade would be spared and that intensive searches would continue across the
 district. [@1]
+
+Police teams from the Pindwara and Rohida stations carried out the raids on the four fields jointly under Operation Trinetra, according to Amar Ujala. [@3]
