@@ -124,6 +124,11 @@ sources:
     publisher: Львівська обласна прокуратура
     date: 2026-11-06
     language: uk
+  - title: У Львові викрили наркоторговців із товаром на 2 мільйони гривень
+    url: https://varta1.com.ua/amp/news/u-lvovi-vykryly-narkotorhovtsiv-iz-tovarom-na-2-milyony-hryven_414956.html
+    publisher: Варта 1
+    date: 2026-11-06
+    language: uk
 open_questions:
   - The accounts give 7 October as the detention date but no date for the searches or the suspicion notices.
   - The 1.73 kg cannabis total is the sum of the reported parts, more than 500 g, 1.2 kg and 30 g, the first of which is only an approximate minimum.
@@ -137,6 +142,7 @@ open_questions:
   - The account says the men were paid into a crypto wallet according to preliminary findings, but gives no amount or wallet details.
   - The account describes the payment channel but not the shop or network the men worked for.
   - 'Left out, as its quotation was not found in Кримінал (kriminal.net.ua): According to preliminary findings, the men took payment into a crypto wallet.'
+  - The Varta1 article gives no separate date for the detentions; 6 November 2026 is its publication date, while the existing report dates the detentions to 7 October from other accounts.
 ---
 
 Police in Lviv detained two men suspected of selling drugs and psychotropic
@@ -144,7 +150,7 @@ substances across Ukraine, a 40-year-old Lviv resident and a 32-year-old man
 from Lviv district. [@1,6] The two worked as so-called senders for one of
 Ukraine's online drug shops, receiving large consignments, dividing them into
 smaller doses and posting them to buyers in various regions. [@1,6] They rented a
-garage in Lviv's Sykhiv district to store and pack the drugs. [@1,7] The younger
+garage in Lviv's Sykhiv district to store and pack the drugs. [@1,7,8] The younger
 accomplice is a resident of Davydov, Leopolis.news reports. [@3]
 
 On 7 October officers detained the 32-year-old at a parcel locker in Lviv as he
@@ -160,7 +166,7 @@ Officers also intercepted postal parcels bound for customers in Chernivtsi,
 Cherkasy and Kharkiv oblasts, 30 g of cannabis among the contents. [@1] The Lviv
 regional prosecutor's office and Lviv region police put the black-market value
 of the whole haul, drugs and psychotropics together, at more than 2 million
-hryvnias. [@1]
+hryvnias. [@1,8]
 
 Both men were notified of suspicion of acquiring, storing for sale and selling
 narcotics and psychotropics in especially large amounts by a group acting in
@@ -169,11 +175,11 @@ of property. [@1] The prosecutor's account puts the total PVP seized at 52 times
 the especially-large threshold and the amphetamine at almost 36 times it, but
 gives no such comparison for the cannabis. [@3] Prosecutors documented 12
 parcels sent to different regions of Ukraine whose recipients never received
-them because officers seized them. [@3] The pretrial investigation is run by the
+them because officers seized them. [@3,8] The pretrial investigation is run by the
 second district police department of Lviv district, and both suspects are held
 in custody without the right to bail. [@3] Both men are held in custody without
 the right to bail, and the pretrial investigation continues, with officers
-working to identify possible accomplices and supply channels. [@1] Officers
+working to identify possible accomplices and supply channels. [@1,8] Officers
 searched the men's homes, the cars they used and the rented garage. [@2]
 
 Officers detained the 32-year-old in the act of posting another batch of parcels of amphetamine and PVP, and detained his 40-year-old accomplice the same day. [@4]
