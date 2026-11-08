@@ -51,6 +51,11 @@ sources:
     publisher: Onliner
     date: 2021-01-29
     language: ru
+  - title: 'Тима Белорусских: на популярного певца, поддержавшего протесты в Беларуси, завели дело по наркотической статье'
+    url: https://www.bbc.com/russian/features-55859359
+    publisher: BBC News Русская служба
+    date: 2021-01-29
+    language: ru
 open_questions:
   - BBC reports Krivetsky received two and a half years while BelTA reports two years for both men; this report records only the undisputed two-year term for Morozov in figures.
   - The 1.9609 grams is the total hashish the pair were accused of acquiring, including the portion consumed in the gaming club; only the remaining 0.4 grams seized from Morozov is recorded as kg_seized, and the amphetamine is excluded as a non-cannabis substance.
@@ -60,6 +65,7 @@ open_questions:
   - 'Left out, as its quotation was not found in BBC News Русская служба: Home chemistry is the colloquial term for restriction of freedom served at home under police supervision.'
   - The 0.4 grams is the weight of the hashish found on the singer at the club, not the 1.9609 grams the pair were later accused of buying; the arrest-stage figure is the one recorded.
   - The Insider attributes the claim that the singer promised to withdraw support for the protests in exchange for a reduced seized weight and lighter measure to the Mash Telegram channel; no official source confirms it.
+  - The submitted page's single image is a portrait credited to ANTON NOVODEREZHKIN/TASS and does not show the seizure, raid or court, so no media entry is added.
 ---
 
 Moscow District Court in Minsk sentenced 22-year-old singer Timofey Morozov,
@@ -78,11 +84,11 @@ and used part of it in a Minsk gaming club before police found the remainder.
 [@2] The charge sheet listed 1.9609 grams of hashish and 0.0375 grams of
 amphetamine covering purchase, use, transport and storage. [@2] The case was
 charged under part 1 of article 328 of Belarus Criminal Code, which carried up
-to five years in prison. [@1]
+to five years in prison. [@1,4]
 
 The two said they bought the drugs online through dead drops. [@1] In August
 2020 Morozov had publicly supported Belarusians who protested after the
-presidential election. [@1] Early media claims that Belorusskikh had been
-detained with several kilograms of hashish were false. [@1]
+presidential election. [@1,4] Early media claims that Belorusskikh had been
+detained with several kilograms of hashish were false. [@1,4]
 
-Police detained Morozov on the night of 6 January in a gaming club in Minsk, which Onliner reports as the location the Investigative Committee gave. [@3] The head of the Investigative Committee's Minsk directorate said urgent investigative steps were taken and chemical and forensic-genetic examinations were assigned to the State Committee of Forensic Examinations. [@3]
+Police detained Morozov on the night of 6 January in a gaming club in Minsk, which Onliner reports as the location the Investigative Committee gave. [@3,4] The head of the Investigative Committee's Minsk directorate said urgent investigative steps were taken and chemical and forensic-genetic examinations were assigned to the State Committee of Forensic Examinations. [@3]
