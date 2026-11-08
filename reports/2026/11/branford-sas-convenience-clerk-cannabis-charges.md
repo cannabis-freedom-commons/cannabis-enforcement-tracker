@@ -58,6 +58,10 @@ sources:
     url: https://www.wfsb.com/2026/11/08/branford-store-clerk-charged-after-illegal-drug-seizure/
     publisher: WFSB
     date: 2026-11-08
+  - title: Branford police seize illegal cannabis products, arrest convenience store clerk
+    url: https://www.wtnh.com/news/connecticut/new-haven/branford-police-seize-illegal-cannabis-products-arrest-convenience-store-clerk/
+    publisher: WTNH News 8
+    date: 2026-11-08
 open_questions:
   - The article gives no date for the inspection or the clerk's arrest; 8 November 2026 is its publication date and is used as the incident date.
   - The seizure weights are police approximations in pounds and include a combined category of concentrates and vape products, so no separate concentrate weight is recorded.
@@ -66,31 +70,32 @@ open_questions:
   - No plea, court outcome or outcome of the previous arrests of clerks and the owner was reported.
   - Only the WFSB account could be opened; no Branford police release or second outlet report of this event was found.
   - The page credits its only photograph to the Branford Police Department, and the image shows the clerk's face; it is listed as a booking-style handout photo.
+  - WTNH gives the flower seizure as more than 1 pound, while the report records 1.1 pounds from the earlier account.
+  - The article gives no separate date for the inspection or the arrest; 8 November 2026 is its publication date.
 ---
 
 A 33-year-old clerk at SAS Convenience Store on East Main Street in Branford,
 Connecticut, was charged with drug offences after police and state regulators
 seized cannabis products from a business not licensed to sell them. [@1]
 Branford police said they inspected the store after a resident reported that
-minors were buying marijuana products there. [@1] The business had previously
+minors were buying marijuana products there. [@1,2] The business had previously
 traded under the name ASA Smoke Shop. [@1]
 
 Police identified the clerk as Salah Kannane of Branford and charged him with
 possession of a controlled substance, operating a drug factory and three counts
-of sale of cannabis. [@1] He was released after posting a 50,000-dollar bond and
-is due in court on 17 November, the Branford Police Department said. [@1]
+of sale of cannabis. [@1,2] He was released after posting a 50,000-dollar bond and
+is due in court on 17 November, the Branford Police Department said. [@1,2]
 
 Detectives and agents from the Cannabis Control Division of the state Department
 of Consumer Protection seized about 1.5 pounds (0.68 kg) of cannabis edibles,
 4.2 pounds (1.9 kg) of concentrates and vape products and 1.1 pounds (0.5 kg) of
-cannabis flower, according to police. [@1] Investigators also found packages of
+cannabis flower, according to police. [@1,2] Investigators also found packages of
 kratom, which police described as a Schedule 1 controlled substance in this
 investigation. [@1] Police said they found scales, packing materials and a BB
 gun at the store, and that the products were consistent with a drug factory.
-[@1] It was the second time a BB gun resembling a handgun had been found at the
+[@1,2] It was the second time a BB gun resembling a handgun had been found at the
 location, police said. [@1]
 
 Branford police said this was the fifth time they had found illegal cannabis
 sales at the store, and that they had previously arrested store clerks and the
 owner over alleged illegal drug sales there. [@1]
-
