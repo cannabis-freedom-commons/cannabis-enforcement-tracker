@@ -88,6 +88,10 @@ sources:
     url: https://gallinews.com/bathroom-mirror-ke-frame-mein-chhupaya-7-85-kg-hashish-seized-mumbai-mein-consignee-arrest/
     publisher: Gallinews India
     date: 2026-11-05
+  - title: DRI uncovers hashish smuggling bid, recovers drugs hidden in mirror
+    url: https://www.mid-day.com/text-shots/mumbai-drug-bust-dri-seizes-7-85-kg-hashish-concealed-in-bathroom-mirror-frame-in-mumbai-one-arrested-23658480
+    publisher: Mid-Day
+    date: 2026-11-05
 open_questions:
   - No separate date for the interception and seizure was given; 2 November 2026 is the stated arrest date and is used as the incident date, while 4 November 2026 is the publication date.
   - The name, age and gender of the arrested recipient were not published.
@@ -103,6 +107,7 @@ open_questions:
   - The roundup page gives only the headline totals and no separate place, agency detail or arrest date; the incident date and Mumbai terminal attribution rely on the existing report and the linked full article.
   - The Gallinews page gives no separate date for the interception and seizure; 2 November remains the stated arrest date used as the incident date.
   - The Gallinews lead image is uncaptioned and its publisher is unstated, so it is not established to show this seizure and is not listed as event media.
+  - The Mid-Day Text Shots item is a summary and carries no separate place, interception date or charge details; it gives neither the arrest date nor the terminal where the parcel was examined.
 ---
 
 The Directorate of Revenue Intelligence's Mumbai Zonal Unit busted an
@@ -115,7 +120,7 @@ network, identify other people involved and establish domestic and international
 linkages. [@1,5,6,8]
 
 Acting on specific intelligence, officers uncovered the operation and seized
-7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2,3,7,8]
+7.85 kg of hashish concealed inside a wooden-framed bathroom mirror. [@1,2,3,7,8,9]
 Officers intercepted and examined the suspicious courier consignment at the
 International Courier Terminal in Mumbai. [@1,2,3] The package had been declared as
 a framed bathroom wall mirror. [@1,2] During detailed inspection, officers
