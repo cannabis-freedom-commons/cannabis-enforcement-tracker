@@ -66,6 +66,10 @@ sources:
     url: https://brighterkashmir.com/four-drug-peddlers-arrested-in-anantnag-handwara
     publisher: Brighter Kashmir
     date: 2026-11-09
+  - title: 5 drug peddlers arrested
+    url: https://thekashmirimages.com/2026/11/09/5-drug-peddlers-arrested-9/
+    publisher: Kashmir Images
+    date: 2026-11-09
 open_questions:
   - The article gives no separate date for the two interceptions; 8 November 2026 is its publication and dateline date and the day police spoke, and is used as the incident date.
   - The heroin weight is stated as approximate and the 6.15 grams of charas is a police field figure with no reported laboratory confirmation.
@@ -81,25 +85,32 @@ open_questions:
   - The article gives no time of day for the checks; 8 November 2026 is its dateline and publication date.
   - Brighter Kashmir gives no weight for the charas-like substance recovered at Champora Crossing, so that recovery adds no cannabis quantity to the report.
   - The page's lead image has no caption or credit and does not establish that it shows these arrests, so no media entry is added.
+  - The article is published on 9 November 2026 but says police acted on Sunday, so 8 November 2026 is used as the incident date.
+  - The Sangam recovery is called cannabis here while the existing report calls it charas; the 6.15-gram figure is the same.
+  - No weight is given for the cannabis-like substance recovered from Mohammad Ashraf Bhat at Champora Crossing.
+  - No FIR numbers, custody decisions, charges or court outcomes are given for the five detentions.
+  - The page image is labelled as a representational photo and its caption refers to Budgam, so it is not listed as showing this event.
 ---
 
 Police arrested three alleged drug peddlers in two separate incidents in
 Anantnag district and recovered heroin and charas from them. [@1,2,4] A Mattan
 police team intercepted a motorcycle at Gopalpora Crossing during naka checking
-and apprehended the two people travelling on it. [@1,2,4,5] The two riders were
+and apprehended the two people travelling on it. [@1,2,4,5,6] The two riders were
 identified as Ubaid Ahmed Khan and Yawar Sultan, both residents of Gopalpora.
-[@1,3,4] Police allegedly found around 14 grams of heroin on the pair, seven grams
+[@1,3,4,6] Police allegedly found around 14 grams of heroin on the pair, seven grams
 from each man. [@1]
 
 Police registered a case under Sections 8 and 21 of the NDPS Act at Mattan
 police station and began an investigation. [@1,4] In the second incident, a Police
 Post Sangam team intercepted a vehicle travelling from Jammu towards Srinagar at
-Sangam Chowk. [@1,2,4,5] The driver was identified as Waseem Bashir Bhat, a resident
-of Lal Chowk in Srinagar. [@1,3] Police allegedly found the driver in possession
+Sangam Chowk. [@1,2,4,5,6] The driver was identified as Waseem Bashir Bhat, a resident
+of Lal Chowk in Srinagar. [@1,3,6] Police allegedly found the driver in possession
 of 6.15 grams of charas. [@1,4]
 
 Police registered a case under relevant provisions of law over the charas
 recovery. [@1] Police said efforts to curb drug trafficking would be intensified
 and appealed to the public to help eliminate the drug menace. [@1]
 
-In Handwara, police stopped a man at Champora Crossing, in the area of Vilgam police station, and found a charas-like substance on him. [@2,4,5] The man was identified as Mohammad Ashraf Bhat, a resident of Redi Chowkibal in Kupwara district. [@3] Police registered FIR No. 73/2026 under Section 8/20 of the NDPS Act at Vilgam police station and said the arrest was made to trace the case's forward and backward linkages. [@3,4,5]
+In Handwara, police stopped a man at Champora Crossing, in the area of Vilgam police station, and found a charas-like substance on him. [@2,4,5,6] The man was identified as Mohammad Ashraf Bhat, a resident of Redi Chowkibal in Kupwara district. [@3,6] Police registered FIR No. 73/2026 under Section 8/20 of the NDPS Act at Vilgam police station and said the arrest was made to trace the case's forward and backward linkages. [@3,4,5]
+
+In Awantipora, police apprehended Bhat Kaif, a resident of Lethpora, near Barsoo after 130 grams of cannabis powder was recovered from his possession. [@6]
