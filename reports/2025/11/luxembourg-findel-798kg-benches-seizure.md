@@ -79,6 +79,11 @@ sources:
     publisher: Le Quotidien
     date: 2025-12-10
     language: fr
+  - title: 'Saisie impressionnante au Findel: Près de 800 kg de cannabis cachés dans... des banquettes - RTL Infos'
+    url: https://infos.rtl.lu/news/luxembourg/les-banquettes-cachaient-pres-de-800-kg-de-cannabis-1899396077
+    publisher: RTL Infos
+    date: 2025-12-10
+    language: fr
 open_questions:
   - No arrests, suspects, charges or court outcomes were reported; Luxembourg asked foreign authorities to take over prosecution.
   - The other European country to which the delivery was redirected was not named, to avoid compromising investigations.
@@ -102,23 +107,23 @@ open_questions:
 
 On 13 November 2025 customs officers at Luxembourg-Findel Airport's cargo centre
 checked an air-freight shipment from the United States that had been flagged as
-suspicious. [@1,3,4,5,6] Shipping documents declared it as 3,063 kg of “Furniture, Deck
+suspicious. [@1,3,4,5,6,8] Shipping documents declared it as 3,063 kg of “Furniture, Deck
 chair, Sofa Stool” for a Belgian company, made up of twelve pallets each holding
-about twelve cardboard boxes wrapped in black plastic film. [@1,3,4,6,7] A scan showed
+about twelve cardboard boxes wrapped in black plastic film. [@1,3,4,6,7,8] A scan showed
 the insides of the benches were filled with packets, and officers opening the
-crates found 170 vacuum-sealed packs. [@1,2,3,4,5,7]
+crates found 170 vacuum-sealed packs. [@1,2,3,4,5,7,8]
 
 A rapid test identified the contents as cannabis, with the 170 packs holding
-798.84 kg described as good quality, and the goods were seized. [@1,2,4,5] The
+798.84 kg described as good quality, and the goods were seized. [@1,2,4,5,8] The
 operation was run by the customs administration with the judicial police
 narcotics section and the Luxembourg prosecutor, which ordered the seizure. [@2,5,7]
 
 As the shipment was not for the domestic market, the authorities organised a
 joint operation with Belgium and delivered the pallets under surveillance to the
-planned Belgian address. [@2,3,4] Investigators then found Belgium was only a
+planned Belgian address. [@2,3,4,8] Investigators then found Belgium was only a
 transit country because the organisers had redirected the delivery to another
-European country, which was not named. [@2,3,4,7] Luxembourg reported the case and
+European country, which was not named. [@2,3,4,7,8] Luxembourg reported the case and
 asked the foreign authorities to take over criminal proceedings, and no arrests
-were announced in the accounts. [@2,3,4]
+were announced in the accounts. [@2,3,4,8]
 
 Le Quotidien reported that 798.4 kilos of cannabis were found on 13 November at the Cargo freight centre of Luxembourg-Findel Airport, quoting a prosecutor's statement in which the haul was described as a new record seizure for the Customs and Excise administration. [@7]
