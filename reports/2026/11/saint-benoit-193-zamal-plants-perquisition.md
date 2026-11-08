@@ -66,6 +66,11 @@ sources:
     publisher: Imaz Press Réunion
     date: 2026-11-05
     language: fr
+  - title: À Saint-Benoît, les gendarmes découvrent 193 pieds de cannabis
+    url: https://www.pandore-gendarmerie.org/a-saint-benoit-les-gendarmes-decouvrent-193-pieds-de-cannabis/
+    publisher: Le Pandore et la Gendarmerie
+    date: 2026-11-07
+    language: fr
 open_questions:
   - Neither outlet gives a weight for the dried cannabis, so no kilogram figure is recorded.
   - Neither account gives a separate date for the search; both articles are dated 5 November 2026, which is used as the incident date.
@@ -85,14 +90,14 @@ open_questions:
 ---
 
 Gendarmes searched a property in Saint-Benoît, on the French island of Réunion,
-acting in an inquiry into violence with a weapon. [@1,3,4] The search uncovered an
+acting in an inquiry into violence with a weapon. [@1,3,4,5] The search uncovered an
 installation set up to produce narcotics. [@1] Officers found 193 cannabis
-plants spread over three spaces specially fitted out for growing them. [@1,2,3,4] The
+plants spread over three spaces specially fitted out for growing them. [@1,2,3,4,5] The
 find also included dried cannabis and various pieces of equipment, notably
 ventilation equipment. [@1,3,4] The discovery gave a new dimension to the inquiry,
 which had initially been opened over the armed violence. [@1] After the search,
 the person concerned was placed in garde à vue, French police custody, on
-suspicion of several offences under the drug law. [@1,3,4] Réunion outlets call the
+suspicion of several offences under the drug law. [@1,3,4,5] Réunion outlets call the
 plant zamal, the local term for cannabis. [@2]
 
 The gendarmerie said the man had been placed in custody for several suspected
@@ -112,3 +117,5 @@ years in prison and a 7.5-million-euro fine. [@1]
 The operation is one of the gendarmerie's actions on Réunion against
 drug-related offences, and investigators are to establish where the production
 was destined. [@1]
+
+The gendarmerie's communication, also relayed by Imaz Press, did not specify what judicial steps followed. [@5]
