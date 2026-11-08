@@ -361,6 +361,10 @@ sources:
     url: https://www.msn.com/en-gb/news/other/married-couple-in-their-70s-who-grew-46000-of-cannabis-sentenced/ar-AA2gQqmC
     publisher: The Independent (via MSN)
     date: 2026-11-05
+  - title: Cancer patient jailed after turning £1 million home into cannabis farm
+    url: https://www.msn.com/en-us/news/other/cancer-patient-jailed-after-turning-1-million-home-into-cannabis-farm/ar-AA2h0672
+    publisher: Men's Journal (via MSN)
+    date: 2026-11-08
 open_questions:
   - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
   - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
@@ -407,12 +411,13 @@ open_questions:
   - The Daily Mail names Norwich Crown Court, matching the report, while several PA syndications of the same hearing name Norfolk Crown Court; the two names remain unresolved in the report's open questions.
   - The Daily Mail does not give the individual sentences, which the report records as three and a half years for Mark Ayres and nine months suspended for Marion Ayres.
   - The Daily Mail's own account says the sentencing was at Norwich Crown Court, matching the report, while several Press Association syndications of the same hearing name Norfolk Crown Court.
+  - The opened capture ends before the article's sections on the plants, the property's value and the diagnosis, so those parts of this account could not be checked; the article's own publication page could not be opened.
 ---
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown
 Court for their involvement in producing cannabis at their home in Burgh Common,
 near Attleborough in Norfolk. [@1,4,5,7,11,18,19,21,22,24,25,27,30,31,33,38,39,40,41,43,44,45,46,48,50,51,52,53,54,57,58,61,63] Marion Ayres was given nine months in prison,
-suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58,60,61,62,63,64,65]
+suspended for 12 months; Mark Ayres was jailed for three and a half years. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,35,36,37,38,39,40,42,43,44,45,46,47,48,49,50,52,53,54,55,56,57,58,60,61,62,63,64,65,68]
 Mark Ayres had pleaded guilty to producing cannabis and to possessing cannabis
 with intent to supply, while Marion Ayres admitted producing cannabis. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,23,25,26,27,29,30,33,34,35,37,38,39,40,43,46,47,48,50,51,53,55,56,58,61,62,63,64]
 
