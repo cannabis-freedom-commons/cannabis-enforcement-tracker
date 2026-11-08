@@ -59,26 +59,31 @@ sources:
     publisher: Maringá Post
     date: 2026-11-07
     language: pt
+  - title: PRF encontra haxixe escondido em cadeirinha de bebê, no Paraná
+    url: https://g1.globo.com/google/amp/pr/norte-noroeste/noticia/2026/11/07/prf-revista-carro-de-familia-e-encontra-droga-escondida-em-cadeirinha-de-bebe-e-junto-ao-corpo-da-mae-crianca-de-45-dias-estava-no-veiculo-no-pr.ghtml
+    publisher: G1
+    date: 2026-11-07
+    language: pt
 open_questions:
   - The reports do not give the vehicle's origin, destination or route, or the identities or ages of the four arrested people beyond one being the baby's mother.
   - No court outcome beyond the flagrante arrest and referral to the Mandaguari Civil Police station was reported.
+  - This G1 account rounds the seizure to about 20 kilograms, while the report records the precise 20.7 kg given by the other outlets; the reported figure is unchanged.
 ---
 
 Federal Highway Police officers stopped a Ford/Ka at km 201 of BR-376 in
 Mandaguari on the morning of 7 November 2026 at about 09h45. [@1] During a
 detailed search, officers found hashish tablets hidden inside the structure of
-the baby car seat carrying a child. [@1] Officers also found hashish concealed
-in luggage compartments in the car. [@1]
+the baby car seat carrying a child. [@1,4] Officers also found hashish concealed
+in luggage compartments in the car. [@1,4]
 
 Part of the drug was carried attached to the bodies of two women travelling in
-the vehicle. [@1] Police seized a total of 20.7 kg of hashish in the operation.
+the vehicle. [@1,4] Police seized a total of 20.7 kg of hashish in the operation.
 [@1] Four occupants were arrested in flagrante for drug trafficking and
-association for trafficking. [@1] The four arrested were two women and two men,
+association for trafficking. [@1,4] The four arrested were two women and two men,
 and a 45-day-old baby who was in the car was placed in the care of the municipal
-Child Protection Council. [@2]
+Child Protection Council. [@2,4]
 
-One of the detained women is the baby's mother. [@2] The vehicle, the drug and
+One of the detained women is the baby's mother. [@2,4] The vehicle, the drug and
 the detainees were taken to the Mandaguari Civil Police station for the formal
-procedures. [@1] The baby who owned the car seat was 45 days old and was inside
+procedures. [@1,4] The baby who owned the car seat was 45 days old and was inside
 the car at the time. [@3]
-
