@@ -50,6 +50,11 @@ sources:
     publisher: CdM (Cafe del Montenegro)
     date: 2026-11-07
     language: sr
+  - title: Ухапшен Новљанин, пронађени кокаин, марихуана и таблете намијењени уличној продаји - РТХН
+    url: https://rthn.me/uhap%C5%A1en-novljanin-prona%C4%91eni-kokain-marihuana-i-tablete-namijenjeni-uli%C4%8Dnoj-prodaji/
+    publisher: RTHN
+    date: 2026-11-07
+    language: sr
 open_questions:
   - The article gives no separate date for the control and arrest; 7 November 2026 is its publication date and is used as the incident date.
   - No separate weight or count is given for the marijuana, only several PVC packages of cocaine and marijuana together, so no cannabis kilograms are recorded and cocaine and tablet quantities are left out as out of scope.
@@ -69,17 +74,17 @@ Officers of the Herceg Novi Security Department arrested 30-year-old D.T. from
 Herceg Novi in Bijela after finding cocaine, marijuana and tablets suspected to
 be intended for street sale. [@1,2] During the police control in the Bijela
 settlement, D.T. tried to swallow a PVC bag containing cocaine, but officers
-stopped him. [@1]
+stopped him. [@1,4]
 
 After he was taken to the Herceg Novi Security Department premises, a detailed
 search found and seized several PVC packages of cocaine and marijuana and
 tablets of different types suspected to be intended for further street sale.
-[@1] Police also seized a mobile telephone from him. [@1]
+[@1,4] Police also seized a mobile telephone from him. [@1]
 
 After gathering information and completing the criminal processing, police
 informed the senior state prosecutor at the Higher State Prosecutor's Office in
 Podgorica about the event. [@1] The prosecutor qualified the event as the
 criminal offence of unauthorised production, possession and placing into
-circulation of narcotic drugs and ordered that D.T. be deprived of liberty. [@1,2]
+circulation of narcotic drugs and ordered that D.T. be deprived of liberty. [@1,2,4]
 
 The packages of cocaine and marijuana were found and seized in a detailed search of D.T. at the premises of the Herceg Novi Security Department, after he was brought there. [@3]
