@@ -46,6 +46,8 @@ open_questions:
   - Two defendants received probation-style terms of 24 and 18 months rather than prison; the headline figure reflects the longest penitentiary term.
   - Prensa Latina rounds the seizure to 4,500 kg of marijuana and 45 kg of hashish, while the existing report uses the Interior Ministry's precise 4,433.65 kg of cannabis material and 46.52 kg of hashish; the rounded figures are used here only as corroboration.
   - Prensa Latina says three tonnes of marijuana were held at the San Jose site and more than three tonnes in Canelones, which together would exceed its own stated 4,500 kg total, so no site breakdown is added as a new figure.
+  - Infobae gives the cannabis seizure as 'más de 4.500 kilos' in its lead and 4.434 kilos in its body, while the report keeps the Interior Ministry's 4,433.65 kg.
+  - Infobae describes the laboratory site as a chacra near Juan Soler but does not state which of the four searched properties the Canelones ones were.
 sources:
   - title: Incautan más de 4.400 kilos de droga y desmantelan laboratorio de procesamiento de hachís
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/incautan-4400-kilos-droga-desmantelan-laboratorio-procesamiento-hachis
@@ -62,6 +64,11 @@ sources:
     publisher: Prensa Latina
     date: 2025-12-10
     language: es
+  - title: Desmantelan en Uruguay laboratorio que producía hachís para vender en Brasil e incautan 4.400 kilos de marihuana
+    url: https://www.infobae.com/america/america-latina/2025/12/10/desmantelan-en-uruguay-laboratorio-que-producia-hachis-para-vender-en-brasil-e-incautan-4400-kilos-de-marihuana/
+    publisher: Infobae
+    date: 2025-12-10
+    language: es
 media:
   - kind: photo
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/incautan-4400-kilos-droga-desmantelan-laboratorio-procesamiento-hachis
@@ -73,20 +80,37 @@ media:
     media_url: https://media.elobservador.com.uy/p/1bd1c9bac15e0c063bd0fa9923620ae4/adjuntos/362/imagenes/100/699/0100699201/1200x675/smart/whatsapp-image-2025-12-09-at-51523-pm.jpeg
     publisher: El Observador
     caption: Seized cannabis from Operation Midas, photo circulated at the December press briefing.
+  - kind: photo
+    url: https://www.infobae.com/america/america-latina/2025/12/10/desmantelan-en-uruguay-laboratorio-que-producia-hachis-para-vender-en-brasil-e-incautan-4400-kilos-de-marihuana/
+    media_url: https://www.infobae.com/resizer/v2/MD2YMY525RHX3P3OKRJTEGGN2Y.jpeg?auth=ec53d2c9189c9138e367c3dd0045c51ded848712324c271c8a3f00c1d1697fc8&smart=true&width=350&height=249&quality=85
+    publisher: Infobae
+    caption: 'The site where the hashish laboratory dismantled in Uruguay operated, in a handout published with the Interior Ministry photos. Photo: Ministerio del Interior'
+  - kind: photo
+    url: https://www.infobae.com/america/america-latina/2025/12/10/desmantelan-en-uruguay-laboratorio-que-producia-hachis-para-vender-en-brasil-e-incautan-4400-kilos-de-marihuana/
+    media_url: https://www.infobae.com/resizer/v2/KXYGFLMXXBAKXN3RSNJMQK2DQU.jpeg?auth=4cacdc24465528c1c95f6852dfabd239db826f7b01ab4c8dc80d05069dffe25b&smart=true&width=350&height=233&quality=85
+    publisher: Infobae
+    caption: 'The 4,400 kg of marijuana and 47 kg of hashish seized in Uruguay, in an Interior Ministry handout. Photo: Ministerio del Interior'
+  - kind: photo
+    url: https://www.infobae.com/america/america-latina/2025/12/10/desmantelan-en-uruguay-laboratorio-que-producia-hachis-para-vender-en-brasil-e-incautan-4400-kilos-de-marihuana/
+    media_url: https://www.infobae.com/resizer/v2/AU3NUHOC5ZCTHDFK5WCBWGHPVY.jpeg?auth=7add342b1771fc5ead914b22c1baa5bdb8654bb0b5a4dffc0eeb03d76dee410d&smart=true&width=350&height=233&quality=85
+    publisher: Infobae
+    caption: 'Objects seized in the Operation Midas laboratory raids, laid out at the press briefing. Photo: Ministerio del Interior'
 ---
 
 Uruguay's Operation Midas ended on 7 December 2025 with four search warrants at a chacra near Juan
-Soler in San José and three rural properties in Canelones. [@1,2,3] Police seized 4,433.65 kg of
+Soler in San José and three rural properties in Canelones. [@1,2,3,4] Police seized 4,433.65 kg of
 cannabis material and 46.52 kg of hashish resin from a clandestine processing laboratory, along
-with vehicles, steel towers and dry-ice packaging used in production. [@1,2,3]
+with vehicles, steel towers and dry-ice packaging used in production. [@1,2,3,4]
 
 Two Uruguayans and two Brazilians were detained; prosecutors said the hashish was destined for
-Brazil's illegal market. [@1,2,3] On 9 December the Interior Ministry reported abbreviated sentences:
+Brazil's illegal market. [@1,2,3,4] On 9 December the Interior Ministry reported abbreviated sentences:
 one Brazilian received three years in prison for aggravated conspiracy, production and importing
 drugs; another Brazilian two years for conspiracy and production; and two others 24 and 18 months on
-probation with partial house arrest and community work. [@1,2,3]
+probation with partial house arrest and community work. [@1,2,3,4]
 
 Investigators had opened the case on 22 May 2025 after Rocha anti-drug police traced irregular
-imports through the Chuy border used for hashish production inputs. [@1,2,3]
+imports through the Chuy border used for hashish production inputs. [@1,2,3,4]
 
 ---
+
+The Brazilian detainee who supervised production was studying biochemistry, Julio Sena, head of investigations at the National Police, said at a press conference on 9 December. [@4] Sena said investigators had found no indication so far linking Operation Midas to earlier hashish hauls, including 750 kg seized in three June operations thought to involve Brazil's First Capital Command. [@4]
