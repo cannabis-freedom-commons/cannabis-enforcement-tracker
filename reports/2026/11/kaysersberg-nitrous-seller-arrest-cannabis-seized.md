@@ -41,6 +41,11 @@ sources:
     publisher: France 3 Grand Est
     date: 2025-12-30
     language: fr
+  - title: 'Kaysersberg Vignoble. Accident sous protoxyde : le vendeur interpellé, du cannabis saisi'
+    url: https://www.lalsace.fr/faits-divers-justice/2026/11/07/accident-sous-protoxyde-le-vendeur-interpelle-du-cannabis-saisi
+    publisher: L'Alsace
+    date: 2026-11-07
+    language: fr
 open_questions:
   - No accessible passage gives the quantity or form of the cannabis seized.
   - No accessible passage gives the exact date of the arrest; 7 November 2026 is the publication date used as the incident date.
@@ -51,9 +56,9 @@ open_questions:
 
 Investigators arrested the nitrous-oxide seller connected to a serious night
 crash at Kaysersberg Vignoble and seized cannabis during the same operation.
-[@1] The earlier crash left two people injured, including one seriously, during
-the night of 30 December at Kaysersberg. [@1] Four young people had been
-travelling in the Peugeot 206 SW involved in the crash. [@1]
+[@1,3] The earlier crash left two people injured, including one seriously, during
+the night of 30 December at Kaysersberg. [@1,3] Four young people had been
+travelling in the Peugeot 206 SW involved in the crash. [@1,3]
 
 Four young people aged 17 to 23 were travelling in a Peugeot 206 toward Colmar
 when the 19-year-old driver lost control. [@2] The Peugeot lost its engine block
@@ -65,4 +70,3 @@ emergency. [@2] Both were transported by SMUR to Pasteur hospital in Colmar.
 The gendarmerie investigation was to determine whether speed alone caused the
 crash or whether substances consumed by the young people, at least the driver,
 caused the loss of control. [@2]
-
