@@ -49,6 +49,11 @@ sources:
     publisher: Portal Cantagalo
     date: 2026-11-07
     language: pt
+  - title: Motorista é preso após colisão traseira na Avenida Assunção, em Cascavel; Condutor estava embriagado e com maconha no veículo
+    url: https://sot.inf.br/noticia/61540/motorista-e-preso-apos-colisao-traseira-na-avenida-assuncao-em-cascavel-condutor-estava-embriagado-e-com-maconha-no-veiculo
+    publisher: SOT
+    date: 2026-11-07
+    language: pt
 open_questions:
   - The substance is described only as analogous to maconha, with no laboratory confirmation reported.
   - The report does not say whether the cannabis led to a separate drug charge or whether the arrest rested on the drunk-driving result.
@@ -59,19 +64,18 @@ open_questions:
 ---
 
 Military police arrested a 44-year-old man on the night of Friday 6 November
-2026 after a traffic accident on Avenida Assunção in central Cascavel. [@1]
+2026 after a traffic accident on Avenida Assunção in central Cascavel. [@1,2]
 PPTRAN, the military police traffic unit, had been called to attend a rear-end
 collision, and one of the drivers was trying to leave the scene when officers
 stopped him. [@1] During the stop the man showed visible signs of drunkenness,
 including the smell of alcohol and difficulty walking. [@1]
 
 A search of the vehicle found 16 grams of a substance described as analogous to
-maconha, as cannabis is known in Brazil. [@1] A breathalyser test then recorded
+maconha, as cannabis is known in Brazil. [@1,2] A breathalyser test then recorded
 0.94 mg/L of alcohol per litre of alveolar air, a level the report says
-constitutes a traffic crime. [@1] The man was arrested and taken to the Police
-Station for the applicable legal measures. [@1]
+constitutes a traffic crime. [@1,2] The man was arrested and taken to the Police
+Station for the applicable legal measures. [@1,2]
 
 Police also recorded administrative fines linked to a driver's lack of a
 Carteira Nacional de Habilitação (CNH), Brazil's national driver's licence, and
-to pending vehicle licensing issues. [@1]
-
+to pending vehicle licensing issues. [@1,2]
