@@ -35,6 +35,11 @@ media:
     media_url: https://statics.cedscdn.it/photos/PANORAMA_HIGH/2026/11/07/9875719_07190809_image.jpg
     publisher: Corriere Adriatico
     caption: Photograph captioned only "Le indagini svolte dalla polizia" and published with the Corriere Adriatico account of the arrest; neither caption nor credit states which scene it depicts.
+  - kind: photo
+    url: https://www.centropagina.it/pesaro/cronaca-hashish-contanti-sotto-materasso-tunisino-arrestato/
+    media_url: https://www.centropagina.it/wp-content/uploads/2026/08/poliziapesaro-1280x720.jpg
+    publisher: CentroPagina
+    caption: Police photograph published with the CentroPagina account of the arrest; the file dates from August 2026 and the page gives no caption or credit, so it is not confirmed to show this seizure.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 61ee412131fc29446e9502a7678570ad
@@ -50,6 +55,11 @@ sources:
     publisher: Corriere Adriatico
     date: 2026-11-08
     language: it
+  - title: 'Pesaro, 130 grammi di hashish e tanti contanti sotto il materasso: 32enne tunisino arrestato'
+    url: https://www.centropagina.it/pesaro/cronaca-hashish-contanti-sotto-materasso-tunisino-arrestato/
+    publisher: CentroPagina
+    date: 2026-11-08
+    language: it
 open_questions:
   - The sources give no separate date for the arrest; Il Resto del Carlino says it happened on Friday evening and the papers were published on Sunday 8 November, so 6 November 2026 is used as the incident date.
   - Il Resto del Carlino describes the hashish as about a hectogram, while Corriere Adriatico reports 130 grams gross including a 100-gram block; the second source's figure is used for the seized weight.
@@ -57,11 +67,15 @@ open_questions:
   - 'The two reports differ on the earlier detention: the hotel partner says Carabinieri found about 2,000 euros in the room safe about a month and a half earlier, while Corriere Adriatico places the earlier arrest in July in the Molaroni park area with 2,300 euros and cocaine, and reports a suspended eight-month sentence from it.'
   - No prison term is recorded for the six-month sentence beyond the statement that the earlier eight-month term was suspended, so the exact total to be served is not clear.
   - Only two accounts were found, both from local outlets, and neither reproduces a police or court statement; the man is identified only by age and nationality.
+  - CentroPagina gives no separate date for the hotel check, arrest or plea hearing; it places the earlier arrest in July, and the record keeps 6 November 2026 as the incident date.
+  - CentroPagina writes that 5,485 euros were confiscated but later says "addio 5000 euro".
+  - CentroPagina gives no weight, value or description for the cocaine seized in July, and no separate charge list for the plea hearing.
+  - CentroPagina is a fourth local account of an event already carried by two outlets; it credits the case to the flying squad and gives no police or court statement, and its page photo is a police picture filed in August 2026 with no caption, so it is not confirmed to show this seizure.
 ---
 
 Officers of the Pesaro flying squad went to a seaside accommodation building
 after a report of stolen earphones and checked some of the guests at the
-entrance. [@2] One of those guests, a 32-year-old Tunisian man, had nothing to
+entrance. [@2,3] One of those guests, a 32-year-old Tunisian man, had nothing to
 do with the theft but panicked and threw a package on the ground. [@2]
 
 The package was a block of hashish with a gross weight of 130 grams, including a
@@ -79,7 +93,7 @@ added to an earlier one. [@2] The judge gave him six months in prison, added to
 a previous conviction of eight months whose prison term was suspended. [@2] In
 July the same man had been arrested in the Molaroni park area, where Carabinieri
 seized 4.5 grams of cocaine, a precision scale, packaging material and 2,300
-euros in cash. [@2]
+euros in cash. [@2,3]
 
 The hotel is the Elvezia in Pesaro, where about 60 people still live and where
 the prefect, Emanuela Saveria Greco, has confirmed an eviction will be carried
@@ -87,4 +101,3 @@ out on 17 November after four postponements. [@1] A partner in the company that
 runs the hotel said the man came back to the building after the arrest was
 confirmed, and that Carabinieri had already stopped him about a month and a half
 earlier, finding about 2,000 euros in the room safe. [@1]
-
