@@ -67,6 +67,11 @@ sources:
     publisher: Il Moderatore
     date: 2026-11-08
     language: it
+  - title: 'Catania, garage trasformato in deposito della droga: arrestato 30enne'
+    url: https://www.freepressonline.it/2026/11/08/catania-garage-trasformato-in-deposito-della-droga-arrestato-30enne/
+    publisher: Free Press Online
+    date: 2026-11-08
+    language: it
 open_questions:
   - The accounts give no date for the patrol, the search or the validation hearing; 7 November 2026 is used as the incident date because the reports were published on 8 November and describe the validation as already held.
   - The material is described as hashish and marijuana without a laboratory confirmation report.
@@ -78,7 +83,7 @@ open_questions:
 ---
 
 Catania police arrested a 30-year-old man from the city after finding drugs and
-drug-packaging material in a garage he had rented. [@1,4] Officers of the Flying
+drug-packaging material in a garage he had rented. [@1,4,5] Officers of the Flying
 Squad and the dog unit of the general prevention and public rescue office were
 patrolling near via Pietra dell'Ova when the drug dogs Briska, Rex and Ares
 signalled insistently at a garage. [@1,4] The 30-year-old arrived within minutes
