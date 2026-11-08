@@ -64,6 +64,11 @@ sources:
     publisher: EL DEBER
     date: 2026-11-05
     language: es
+  - title: Zeballos afirma que las 31 maletas contenían marihuana y apunta a Mariaca
+    url: https://larazon.bo/nacional/2026/11/05/zeballos-afirma-que-las-31-maletas-contenian-marihuana-y-apunta-a-mariaca/
+    publisher: La Razón
+    date: 2026-11-05
+    language: es
 open_questions:
   - The article does not date the January search that seized the 70 kilograms; 6 November 2026 is the publication date of the minister's press conference and is used as the incident date.
   - No figure for the weight of the marijuana in the more than 30 suitcases was published; only the 70 kilograms found in the January search is counted.
@@ -77,6 +82,8 @@ open_questions:
   - This account gives no weight for the marijuana said to have been in the 31 suitcases, so the existing figure of 70 kilograms from the January search stands.
   - The page photo shows the minister giving investigation details and does not depict the suitcases, the airport, or any seizure, so no media entry is added.
   - Zeballos's accusations against Mariaca and Saucedo still had to be contrasted and verified by the Fiscalía.
+  - Zeballos's statements are his version of events and still need to be contrasted by the investigating authorities.
+  - The page photo shows Hebert Zeballos and does not depict the suitcases, the airport, or any seizure, so no media entry is added.
 ---
 
 Bolivia's interior minister, Marco Antonio Oviedo, said the more than 30
@@ -95,7 +102,7 @@ The former deputy Laura Rojas, an accused in the case, said in an expanded
 statement that the owner of the suitcases was Supreme Court president Romer
 Saucedo, known as El Alemán. [@1,5] The former judge Hebert Zeballos then said the
 suitcases held high-concentration marijuana produced in California and had the
-protection of the then attorney general Roger Mariaca. [@1,5]
+protection of the then attorney general Roger Mariaca. [@1,5,6]
 
 The suitcases were taken to property belonging to Zeballos, where their trail
 was lost. [@1] When prosecutors took up the case in January, the property was
