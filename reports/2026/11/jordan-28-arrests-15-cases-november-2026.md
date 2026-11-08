@@ -51,6 +51,11 @@ sources:
     publisher: خبرني
     date: 2026-11-08
     language: ar
+  - title: مكافحة المخدرات تتعامل مع 15 قضية تلقي القبض خلالها على 28 تاجراً ومروجاً
+    url: https://petra.gov.jo/ar/news/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-15-%D9%82%D8%B6%D9%8A%D8%A9-%D8%AA%D9%84%D9%82%D9%8A-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%AE%D9%84%D8%A7%D9%84%D9%87%D8%A7-%D8%B9%D9%84%D9%89-28-%D8%AA%D8%A7%D8%AC%D8%B1%D8%A7-%D9%88%D9%85%D8%B1%D9%88%D8%AC%D8%A7
+    publisher: وكالة الأنباء الأردنية (بترا)
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -58,11 +63,15 @@ open_questions:
   - No value estimate, names, charges or court outcome were published.
   - The pills, crystal methamphetamine, cocaine and 18 litres of liquid amphetamine belong to other enforcement actions reported in the same roundup and are not counted as cannabis.
   - The reported 28 arrests are not itemised case by case, and some listed cases do not state an arrest count explicitly, so the breakdown by case is incomplete.
+  - The reported hashish is counted only in bars, and the 4.6 kilograms covers marijuana alone; hashish weight, value, charges and any court outcome remain unpublished.
+  - The submitted page, Petra and Khaberni all carry the same Public Security Directorate statement, so the Petra release corroborates the text but is not independent reporting of it.
+  - The submitted page shows two uncaptioned photographs of unknown origin and no Petra photo of this round was found, so no media entry is added.
+  - The statement gives no exact date for the raids; 8 November 2026, the date of the Petra release and of publication, stands in for the incident date.
 ---
 
 Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
 officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1]
+and dealers and seizing large quantities of drugs. [@1,3]
 
 In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
 capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1]
@@ -71,7 +80,7 @@ Three pushers were arrested after a raid with five blocks of hashish and 1,500
 pills. [@1] South of Amman, officers raided a tent that three people used to
 trade, store and push drugs, arresting all three and seizing 2 kilograms of
 marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
-methamphetamine. [@1] Officers arrested three people in the last Amman case with
+methamphetamine. [@1,3] Officers arrested three people in the last Amman case with
 2,600 grams of marijuana. [@1] In the second Amman case three people were raided
 inside a flat they used to store drugs for sale, and officers seized 6,000 pills
 and a quantity of hashish. [@1] In a farm south of the capital officers arrested
@@ -94,4 +103,3 @@ cases, on the same day. [@2] The hashish blocks and marijuana grams are the
 cannabis seizures counted here; the pills, crystal methamphetamine, cocaine and
 liquid amphetamine were seized in the same cases and are left out of the
 cannabis figures. [@1]
-
