@@ -55,6 +55,19 @@ sources:
     url: https://theprint.in/india/378-arrested-drugs-worth-rs-64-crore-seized-in-week-long-anti-narcotics-drive-in-bengal-cm/3093432/
     publisher: ThePrint
     date: 2026-11-07
+  - title: 'ബംഗാളിൽ ലഹരിവിരുദ്ധ പട്രോളിംഗ് ശക്തം: പരിശോധനയിൽ 378 പേർ അറസ്റ്റിൽ, 64 കോടിയുടെ ലഹരിവസ്തുക്കൾ പിടിച്ചെടുത്തു | West Bengal Anti Narcotics Drive'
+    url: https://timeskerala.com/national/west-bengal-anti-narcotics-drive-378-arrested-drugs-worth-64-crore-seized/
+    publisher: Times Kerala
+    date: 2026-11-08
+    language: ml
+  - title: 'West Bengal drug mafia crackdown: CM Adhikari confirms 378 arrests, shares video of police action'
+    url: https://www.theweek.in/news/india/2026/11/08/west-bengal-drug-mafia-crackdown-cm-adhikari-confirms-378-arrests-shares-video-of-police-action.html
+    publisher: The Week
+    date: 2026-11-08
+  - title: 378 arrested, drugs worth Rs 64 crore seized in week-long anti-narcotics drive in Bengal
+    url: https://www.tribuneindia.com/news/india/378-arrested-drugs-worth-rs-64-crore-seized-in-week-long-anti-narcotics-drive-in-bengal/
+    publisher: The Tribune
+    date: 2026-11-08
 open_questions:
   - No date is given for individual raids; 7 November 2026 is the date of the announcement and the last day of the drive, and is used as the incident date.
   - The 10,000 kg is the chief minister's estimate of the yield of the 300 bighas of ganja destroyed, not a weighed amount.
@@ -69,27 +82,36 @@ open_questions:
   - The submitted Rediff page's only image is flagged on the page as AI-generated and for representation only, so no media entry is added.
   - ThePrint reproduces the same PTI text as the submitted page, so the two accounts are not independent reporting.
   - The text gives a weight ("10,000 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The Bengali-language Indian Express account describes the destroyed cultivation as about 300 acres (প্রায় ৩০০ একর জমি) rather than 300 bighas; the report keeps the chief minister's wording, 300 bighas, which the English-language PTI account converts to 99.17 acres.
+  - The Times Kerala page's own image carries only the alt text 'West Bengal Anti Narcotics Drive' with no caption or credit identifying what it shows, so it is not listed as media.
+media:
+  - kind: photo
+    url: https://www.theweek.in/news/india/2026/11/08/west-bengal-drug-mafia-crackdown-cm-adhikari-confirms-378-arrests-shares-video-of-police-action.html
+    media_url: https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/11/8/wb-police.jpg?w=1248&h=650
+    publisher: The Week
+    caption: 'Police photograph of illicit marijuana cultivation destroyed during the West Bengal drive, published with the chief minister''s post on X. Photo: X / The Week'
 ---
 
 West Bengal police arrested 378 people in 212 cases registered under the
 Narcotic Drugs and Psychotropic Substances (NDPS) Act during a statewide special
-drive against drug trafficking and illicit cultivation. [@1] Chief Minister
+drive against drug trafficking and illicit cultivation. [@1,3] Chief Minister
 Suvendu Adhikari announced the results on 7 November 2026, the last day of the
-drive, in a post on social media. [@2] Officers destroyed illegal ganja
+drive, in a post on social media. [@2,3] Officers destroyed illegal ganja
 cultivation spread over 300 bighas of land, a form of cannabis grown for its
-flowers and leaves. [@1] Law enforcement agencies also seized Rs 17 lakh in cash
+flowers and leaves. [@1,3] Law enforcement agencies also seized Rs 17 lakh in cash
 and disposed of seized narcotic substances worth around Rs 101 crore during the
-period. [@1]
+period. [@1,3]
 
 Police valued the narcotics seized in the drive at about Rs 64 crore, a figure
 that covered heroin, brown sugar, morphine, yaba tablets and codeine-based cough
 syrup as well as cannabis, not only ganja. [@1] Police attached property worth
 Rs 1 crore and began 68 financial investigations against 110 accused people.
-[@1] The drive also included 215 public awareness campaigns, and Adhikari linked
+[@1,3] The drive also included 215 public awareness campaigns, and Adhikari linked
 it to the central government's Nasha Mukt Bharat Abhiyan, its campaign for a
 drug-free India. [@1]
 
 Adhikari said his government maintains a zero-tolerance policy against illicit
 narcotics, and commended his police personnel for their work keeping West Bengal
-drug-free. [@1]
+drug-free. [@1,3]
 
+The chief minister's post listed 215 public awareness campaigns during the drive. [@4] The chief minister's post gave the destroyed ganja cultivation as 300 bighas (99.17 acres), with an estimated yield of 10,000 kg. [@5] The chief minister said agencies seized Rs 17 lakh in cash and disposed of narcotic substances worth around Rs 101 crore during the period. [@5]
