@@ -52,6 +52,11 @@ sources:
     publisher: الأمانة العامة لمجلس وزراء الداخلية العرب
     date: 2026-11-08
     language: ar
+  - title: המשטרה עצרה שני חשודים בהחזקת סמים בטובאס ובחברון
+    url: https://yaffaps.com/he/page-141073.html
+    publisher: شبكة يافا الإخبارية (Yaffa News Network)
+    date: 2026-11-08
+    language: he
 open_questions:
   - No weight or quantity was published for either seizure, so no cannabis weight figure is recorded.
   - The material was described only as suspected cannabis in Tubas and suspected marijuana in Hebron, with no laboratory confirmation reported.
@@ -65,12 +70,12 @@ open_questions:
 
 Palestinian police arrested two suspects on Sunday 8 November 2026 on suspicion
 of holding material believed to be drugs, one in Tubas governorate and one in
-Hebron governorate. [@1]
+Hebron governorate. [@1,3]
 
 In Tubas, the anti-narcotics branch arrested one person and found material
-suspected to be cannabis in his possession. [@1] In Hebron, the anti-narcotics
+suspected to be cannabis in his possession. [@1,3] In Hebron, the anti-narcotics
 branch arrested a suspect for possessing and promoting drugs and found material
-suspected to be marijuana with him shortly before he was to sell it. [@1]
+suspected to be marijuana with him shortly before he was to sell it. [@1,3]
 
 Police said both suspects were held in custody so that they and the seized
 material could be referred to the competent authority for legal action against
@@ -79,4 +84,3 @@ carried by the General Secretariat of the Council of Arab Interior Ministers in
 its daily security news on 8 November 2026. [@2] The General Secretariat's copy
 attributes the account to the Interior Ministry and gives the two seizures in
 the same terms, without a weight for either. [@2]
-
