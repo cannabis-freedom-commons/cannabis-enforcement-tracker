@@ -91,6 +91,10 @@ sources:
     url: https://discover.swns.com/2026/11/former-casino-housing-3-2m-cannabis-farm-now-up-for-sale/
     publisher: SWNS
     date: 2026-11-05
+  - title: Jackpot! £3.2m cannabis farm in former casino now for sale
+    url: https://uk.news.yahoo.com/jackpot-3-2m-cannabis-farm-104703466.html
+    publisher: Yahoo News UK
+    date: 2026-11-04
 open_questions:
   - 'Plant numbers and floors differ: later reports say just under or almost 8,000 plants across three floors, while the sentencing report says more than 7,000 and the BBC raid-day report says thousands across four floors; 8,000 is used as the final count.'
   - The surname is spelled Piparas in two reports and Pipiras in the sentencing report and a related charging report.
@@ -100,6 +104,8 @@ open_questions:
   - The November 2026 article's main image shows the former casino building offered for sale and is not listed as raid evidence; listed photos show the plants and forced entry from the BBC raid coverage.
   - 'Left out, as its quotation was not found in BBC News: On the day of the raid police described finding thousands of plants across four floors.'
   - The page is labelled as video, but its opened markup exposes no event video or playable video address, so no video is linked.
+  - The Yahoo page gives the plant count as 7,971 across multiple floors while police accounts cited in the report describe just under 8,000 across three floors; the report keeps 8,000 as the working total.
+  - The Yahoo page carries a short video player but its opened markup exposes no playable video address, so no video is linked.
 ---
 
 Mantas Piparas, 36, gave himself up as police forced their way into the former
@@ -112,14 +118,16 @@ ordered to pay a £228 surcharge. [@3] The judge ordered the cannabis and
 production equipment to be forfeited and destroyed. [@3]
 
 Officers found just under 8,000 cannabis plants across three floors of the
-former casino. [@2] The plants were at different stages of growth in a vast and
+former casino. [@2,5] The plants were at different stages of growth in a vast and
 highly organised operation. [@2] Police valued the grow at up to £3.2 million.
 [@2] The raid followed intelligence from members of the public. [@1] The
 building had been heavily secured, with doors bricked up and rooms reinforced
 with steel. [@1] Officers used chainsaws and specialist equipment to gain entry.
-[@1]
+[@1,5]
 
 Police said a production on this scale involved a lot of organisation and there
 would be an organised crime group behind it. [@2] No further arrests or charges
 have been made. [@1,2] In October 2026 police said the investigation had been
 closed, although it could be reopened if new evidence came to light. [@1,4]
+
+A year after the raid, the 42,216 sq ft former casino site was put on the market, with agents saying it could become a hotel, offices, shops, flats or student accommodation. [@5]
