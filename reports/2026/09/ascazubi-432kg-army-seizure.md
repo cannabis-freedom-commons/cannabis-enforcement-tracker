@@ -48,6 +48,8 @@ open_questions:
   - The army's 1.5 million dollar figure is its estimate of the loss to trafficking structures.
   - Sources say the load was presumed to be linked to Los Lobos; no court finding is reported.
   - EFE and El Comercio give the weight only as approximately 500 kg; the 432.45 kg in the report comes from Extra's operational report, and the discrepancy remains unresolved.
+  - Latinus cites EFE and gives the location only as the province of Pichincha, without naming Ascázubi.
+  - The Latinus page image is a Shutterstock illustrative picture, not a photograph of this seizure.
 sources:
   - title: Ejército intercepta cargamento de marihuana valorado en 1,5 millones de dólares, en Cayambe
     url: https://www.extra.ec/noticia/quito/ejercito-intercepta-cargamento-marihuana-valorado-1-5-millones-dolares-cayambe-162153.html
@@ -74,6 +76,16 @@ sources:
   - title: Fuerzas Armadas decomisan 500 kilos de marihuana en Pichincha vinculados a Los Lobos
     url: https://www.elcomercio.com/actualidad/seguridad/fuerzas-armadas-decomisan-kilos-marihuana-pichincha-vinculados-los-lobos/
     publisher: El Comercio
+    date: 2026-09-07
+    language: es
+  - title: Incautan media tonelada de marihuana en Ecuador ligada a la banda criminal de "Los Lobos"
+    url: https://latinus.us/latam/2026/9/7/incautan-media-tonelada-de-marihuana-en-ecuador-ligada-a-la-banda-criminal-de-los-lobos-176143.html
+    publisher: LatinUS
+    date: 2026-09-07
+    language: es
+  - title: 'Golpe al narco: Incautan media tonelada de marihuana de ''Los Lobos'' y dos toneladas de cocaína que iban a Suecia'
+    url: https://www.vistazo.com/seguridad/2026-09-07-narco-incautan-marihuana-cocaina-contenedor-ED11210422
+    publisher: Vistazo
     date: 2026-09-07
     language: es
 media:
@@ -118,4 +130,6 @@ toward Santo Domingo, Babahoyo and Guayaquil. [@1,2] The army said the load was 
 linked to the organised crime group Los Lobos. [@1,2] The pickup and the packages were handed to
 the competent authorities. [@1,2]
 
-Las Fuerzas Armadas de Ecuador incautaron aproximadamente 500 kilogramos de marihuana presuntamente vinculados a la banda criminal Los Lobos durante una operación realizada en la provincia andina de Pichincha, cuya capital es Quito, según informó este lunes la institución. [@3] El operativo, ejecutado por el Ejército ecuatoriano, permitió localizar el cargamento de droga y retener una camioneta que presuntamente era utilizada para su traslado. [@4] Durante la intervención no hubo personas detenidas, según detallaron las Fuerzas Armadas. [@4] El operativo se realizó en Ascázubi, Pichincha, sector en el límite entre los cantones Cayambe y Quito. [@5] El conductor abandonó el vehículo y huyó del lugar cuando advirtió la presencia de los militares, por lo que el operativo no dejó personas detenidas. [@5] Los militares decomisaron la marihuana y retuvieron el vehículo que estaría relacionado con el traslado de la carga. [@5] Según el análisis militar, el cargamento presuntamente tendría su origen en los departamentos colombianos de Cauca y Nariño y habría ingresado a Ecuador por el sector fronterizo La Pintada–Julio Andrade. [@5] Las Fuerzas Armadas estimaron que la incautación supone una afectación económica de aproximadamente 1,5 millones de dólares, cifra que podría aumentar significativamente en mercados internacionales. [@4] Las evidencias, incluido el cargamento y el vehículo, quedaron a órdenes de las autoridades competentes. [@5]
+Las Fuerzas Armadas de Ecuador incautaron aproximadamente 500 kilogramos de marihuana presuntamente vinculados a la banda criminal Los Lobos durante una operación realizada en la provincia andina de Pichincha, cuya capital es Quito, según informó este lunes la institución. [@3] El operativo, ejecutado por el Ejército ecuatoriano, permitió localizar el cargamento de droga y retener una camioneta que presuntamente era utilizada para su traslado. [@4] Durante la intervención no hubo personas detenidas, según detallaron las Fuerzas Armadas. [@4,6] El operativo se realizó en Ascázubi, Pichincha, sector en el límite entre los cantones Cayambe y Quito. [@5] El conductor abandonó el vehículo y huyó del lugar cuando advirtió la presencia de los militares, por lo que el operativo no dejó personas detenidas. [@5] Los militares decomisaron la marihuana y retuvieron el vehículo que estaría relacionado con el traslado de la carga. [@5] Según el análisis militar, el cargamento presuntamente tendría su origen en los departamentos colombianos de Cauca y Nariño y habría ingresado a Ecuador por el sector fronterizo La Pintada–Julio Andrade. [@5] Las Fuerzas Armadas estimaron que la incautación supone una afectación económica de aproximadamente 1,5 millones de dólares, cifra que podría aumentar significativamente en mercados internacionales. [@4] Las evidencias, incluido el cargamento y el vehículo, quedaron a órdenes de las autoridades competentes. [@5]
+
+Las Fuerzas Armadas, por su parte, comunicaron la incautación de aproximadamente 500 kilogramos de marihuana en la parroquia Ascázubi, en Pichincha. [@7] Las Fuerzas Armadas estimaron que la incautación representa una afectación económica de aproximadamente USD 1,5 millones en el mercado ecuatoriano. [@7]
