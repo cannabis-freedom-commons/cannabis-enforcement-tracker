@@ -47,6 +47,11 @@ sources:
     url: https://www.investing.com/news/world-news/libya-seizes-nearly-1-million-of-hashish-in-east-4943973
     publisher: Reuters via Investing.com
     date: '2026-10-12'
+  - title: 'Libye : près de 400 kg de résine de cannabis saisis dans l’est du pays'
+    url: https://www.trtafrika.com/francais/article/ddda7c2f04e5
+    publisher: TRT Afrika
+    date: 2026-10-13
+    language: fr
 place: An agricultural area southeast of Tobruk
 coordinates:
   - 32.077
@@ -92,8 +97,8 @@ open_questions:
     Middle East Online and the Reuters dispatch on Investing.com.
 ---
 
-Libya's eastern authorities seized about 400 kilograms of hashish at a house in an agricultural area southeast of Tobruk on Saturday 10 October 2026, and arrested suspects. [@1,2,3] Ahmed al-Mismari, information and documentation officer at the anti-drugs agency, told Reuters the load had been smuggled across the border with Egypt and was meant for sale and distribution inside Libya. [@1,2,3]
+Libya's eastern authorities seized about 400 kilograms of hashish at a house in an agricultural area southeast of Tobruk on Saturday 10 October 2026, and arrested suspects. [@1,2,3,4] Ahmed al-Mismari, information and documentation officer at the anti-drugs agency, told Reuters the load had been smuggled across the border with Egypt and was meant for sale and distribution inside Libya. [@1,2,3,4]
 
-Officials put the hashish at about 6 million dinars, which Reuters converted to about 934,000 dollars. [@1,2,3] The number of detainees was not confirmed. They were from Libya and Egypt. [@1,2,3] Pictures the agency posted showed a large quantity of hashish in gold and black patterned packages marked with symbols, including a horse and the year 2026. [@1,2,3]
+Officials put the hashish at about 6 million dinars, which Reuters converted to about 934,000 dollars. [@1,2,3,4] The number of detainees was not confirmed. They were from Libya and Egypt. [@1,2,3] Pictures the agency posted showed a large quantity of hashish in gold and black patterned packages marked with symbols, including a horse and the year 2026. [@1,2,3,4]
 
 The accounts locate the house only in farmland southeast of Tobruk and do not name a village. [@1,3] They give no confirmed number of detainees or a court outcome, describing the investigation as preliminary. [@1,3]
