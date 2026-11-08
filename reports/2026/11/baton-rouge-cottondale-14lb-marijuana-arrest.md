@@ -41,6 +41,10 @@ sources:
     url: https://www.wbrz.com/news/baton-rouge-police-raid-2-businesses-arrest-man-on-drug-and-assault-charges/
     publisher: WBRZ
     date: 2026-11-04
+  - title: Man arrested, 14 pounds of marijuana, cocaine, guns seized in Baton Rouge
+    url: https://www.yahoo.com/news/articles/man-arrested-14-pounds-marijuana-173347362.html
+    publisher: Yahoo News
+    date: 2026-11-04
 open_questions:
   - The article published on 4 November 2026 says Presley was located On Tuesday, taken to be 3 November 2026, and gives no separate calendar date for the search warrants.
   - It is unclear whether the prepackaged marijuana is part of the reported 14 pounds or an additional amount, so only 14 pounds is recorded as the cannabis weight.
@@ -53,7 +57,7 @@ open_questions:
 ---
 
 On 3 November 2026, the U.S. Marshals Service Fugitive Task Force located Elvin
-Presley in a business on Cottondale Drive in Baton Rouge. [@1] Presley was
+Presley in a business on Cottondale Drive in Baton Rouge. [@1,2] Presley was
 wanted on an active Baton Rouge Police Department Major Assaults Division
 warrant for alleged abuse, aggravated assault, domestic abuse battery,
 strangulation and serious bodily injury. [@1] Detectives arrested Presley at the
@@ -64,9 +68,10 @@ aggravated assault and domestic abuse battery. [@1] Presley has a criminal
 history that includes many battery and assault charges. [@1]
 
 After the arrest, detectives executed search warrants for two businesses along
-the street. [@1] During those searches, officers found 14 pounds (about 6.35 kg)
-of marijuana and prepackaged marijuana. [@1] Officers also found cocaine,
-multiple guns, digital scales and body armor in the same searches. [@1] The
+the street. [@1,2] During those searches, officers found 14 pounds (about 6.35 kg)
+of marijuana and prepackaged marijuana. [@1,2] Officers also found cocaine,
+multiple guns, digital scales and body armor in the same searches. [@1,2] The
 searches were carried out by the Baton Rouge Police Department in Baton Rouge.
 [@1]
 
+Elvin Presley is 40 years old. [@2] Presley was booked into the East Baton Rouge Parish Prison. [@2] Presley had been given no bond as of Wednesday, Nov. 4. [@2]
