@@ -59,6 +59,11 @@ sources:
     publisher: La Razón
     date: 2026-11-06
     language: es
+  - title: Zeballos afirma que las 32 maletas tenían marihuana y acusa a Mariaca de dar protección
+    url: https://eldeber.com.bo/santa-cruz/zeballos-revela-32-maletas-tenian-marihuana-acusa-mariaca-dar-proteccion_1793916156
+    publisher: EL DEBER
+    date: 2026-11-05
+    language: es
 open_questions:
   - The article does not date the January search that seized the 70 kilograms; 6 November 2026 is the publication date of the minister's press conference and is used as the incident date.
   - No figure for the weight of the marijuana in the more than 30 suitcases was published; only the 70 kilograms found in the January search is counted.
@@ -71,6 +76,7 @@ open_questions:
   - The page photo shows the minister at an earlier press appearance and does not depict the suitcases or the seizure, so it is not listed as media.
   - This account gives no weight for the marijuana said to have been in the 31 suitcases, so the existing figure of 70 kilograms from the January search stands.
   - The page photo shows the minister giving investigation details and does not depict the suitcases, the airport, or any seizure, so no media entry is added.
+  - Zeballos's accusations against Mariaca and Saucedo still had to be contrasted and verified by the Fiscalía.
 ---
 
 Bolivia's interior minister, Marco Antonio Oviedo, said the more than 30
@@ -87,9 +93,9 @@ as diplomatic baggage. [@1]
 
 The former deputy Laura Rojas, an accused in the case, said in an expanded
 statement that the owner of the suitcases was Supreme Court president Romer
-Saucedo, known as El Alemán. [@1] The former judge Hebert Zeballos then said the
+Saucedo, known as El Alemán. [@1,5] The former judge Hebert Zeballos then said the
 suitcases held high-concentration marijuana produced in California and had the
-protection of the then attorney general Roger Mariaca. [@1]
+protection of the then attorney general Roger Mariaca. [@1,5]
 
 The suitcases were taken to property belonging to Zeballos, where their trail
 was lost. [@1] When prosecutors took up the case in January, the property was
@@ -110,3 +116,5 @@ is held in preventive detention in Cantumarca prison while Saucedo has left
 Bolivia and his whereabouts are unknown. [@3]
 
 Vice-Minister of the Interior Peter Maldonado said Juan Carlos Espinoza Vaca, described as an alleged frontman for the organization, died while detained in Palmasola prison. [@4] Maldonado said doubts remain about the circumstances of that death and announced an investigation to clarify the cause and determine whether there are linked responsibilities. [@4]
+
+Zeballos said he did not know that the owner was Romer Saucedo and that he doubted Rojas's version because the person he spoke to told him the suitcases had Mariaca's protection. [@5]
