@@ -95,6 +95,11 @@ sources:
     publisher: En Son Dakika
     date: 2026-11-07
     language: tr
+  - title: 'İstanbul’da 2 Ayrı Narkotik Operasyonu: Toplam 67 Kilo Uyuşturucu Ele Geçirildi'
+    url: https://www.kelkitgazetesi.com/istanbulda-2-ayri-narkotik-operasyonu-toplam-67-kilo-uyusturucu-ele-gecirildi
+    publisher: Kelkit Gazetesi
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports say the raids took place within 24 hours before the 7 November 2026 publication and give no calendar date, so 7 November 2026 is used as an approximate incident date.
   - The weight of esrar found in the vehicle in Esenler and in the home in Bahçelievler is not broken down; only a combined 25 kilos 90 grams is given.
@@ -118,6 +123,9 @@ open_questions:
   - The submitted page gives no calendar date for the two raids, only the 7 November 2026 publication date already used in the existing report as an approximate incident date.
   - The page describes the 42 kilograms of chemical only as usable in producing 4 tonnes 200 grams of synthetic drug, without naming it, which does not resolve the existing report's question about what A-M 2201 is.
   - The page image is a generic headline placeholder and is not established to show this seizure, so no media entry is added.
+  - Kelkit credits the text to DHA, the same agency whose account the report already cites, so it is not independent reporting of the raids.
+  - The page gives no calendar date for the two raids, only the 7 November 2026 publication date already used in the report as an approximate incident date.
+  - The page says the two suspects would be referred to court (sevk edileceği öğrenildi), while the Anadolu copy already cited in the report said they had been sent; the custody outcome remains as the report records it.
 ---
 
 Istanbul police narcotics officers detained two suspects in two separate
@@ -140,3 +148,5 @@ suspects were sent to court after processing at the police station. [@3]
 Canlı Gaste, carrying the Anadolu copy, reported that officers seized the 42
 kilograms of chemical and the 25 kilos 90 grams of esrar in searches of the
 vehicle and the house. [@4]
+
+The searches of the vehicle in Esenler and the home in Bahçelievler were carried out at the same time. [@12] Officers searched both the vehicle and the identified address in detail. [@12] The agency report said the two suspects would be referred to court once police processing was completed. [@12]
