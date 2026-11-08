@@ -53,6 +53,11 @@ sources:
     publisher: Horizons
     date: 2026-11-08
     language: fr
+  - title: 'Chéraga : Un important réseau de dealers démantelé'
+    url: https://lapatrienews.dz/cheraga-un-important-reseau-de-dealers-demantele/
+    publisher: La patrie news
+    date: 2026-11-08
+    language: fr
 open_questions:
   - No separate date is given for the raid or arrests; 8 November 2026 is the article's publication date and is used as the incident date.
   - The 190 g of cocaine seized in the same operation is not counted in cannabis figures; only the separately stated kif weight is recorded as cannabis.
@@ -60,16 +65,20 @@ open_questions:
   - No identities, detailed charges, pleas or court outcome for the four suspects were reported.
   - Only one source, reproducing the Algiers security communication unit's account, could be opened.
   - The page image carries no caption or credit beyond alt text identifying it as treated kif, so its precise depiction of this seizure is not confirmed.
+  - La patrie news says the DGSN statement, with a video, was issued 'ce samedi' while the page is dated Sunday 8 November 2026 and gives no separate day for the raid or the past week's arrests.
+  - The article says the DGSN statement came with a video, but no accessible video address was found in the page markup, so no media entry is added.
+  - La patrie news and Horizons both reproduce the same Algiers security communication unit statement, so they are not independent accounts of the seizure.
+  - The page photo is captioned only with the article headline and carries no credit identifying what it depicts.
 ---
 
 The mobile judicial-police brigade for the Chéraga administrative district
 arrested four people, including a woman, on suspicion of belonging to an
-organised criminal network specialising in drug trafficking. [@1] The
+organised criminal network specialising in drug trafficking. [@1,2] The
 intervention was carried out under the supervision of the territorially
 competent prosecution after intelligence about the criminal group's alleged
 drug-trafficking activity. [@1] After the investigation procedures, the suspects
 were brought before the public prosecutor at the Bir Mourad Raïs court under a
-criminal-procedure file. [@1]
+criminal-procedure file. [@1,2]
 
 According to the Algiers wilaya security communication unit, officers seized 7
 kg and 6 g of treated kif and 190 g of cocaine in Chéraga. [@1] During the same
@@ -81,3 +90,4 @@ The services concerned identified and arrested the four suspects following
 investigations, and the account attributes the seizure figures to the Algiers
 security authorities rather than an independent weighing. [@1]
 
+The arrests and seizures were made during the past week, the outlet reported. [@2]
