@@ -69,6 +69,11 @@ sources:
     publisher: Folha MS
     date: 2026-11-07
     language: pt
+  - title: PM apreende 98 quilos de maconha em casa após suspeito fugir para área de mata
+    url: https://diarionline.com.br/index.php?id=159966&s=noticia
+    publisher: Diário Corumbaense
+    date: 2026-11-07
+    language: pt
 open_questions:
   - 'No arrest was reported: the suspect escaped and was not identified.'
   - The article gives no breakdown of the 98 kg between the two bags found in the yard and the amount inside the house.
@@ -82,19 +87,19 @@ open_questions:
 
 Military police in Corumbá seized 98 kg of marijuana on the night of Friday 6
 November, in the Alameda Piratininga area of the city, in Mato Grosso do Sul.
-[@1,2,3] Officers of the Rádio Patrulha, a round-the-clock patrol unit, were looking
+[@1,2,3,4] Officers of the Rádio Patrulha, a round-the-clock patrol unit, were looking
 for one of the people involved in a brawl in the neighbouring Cristo Redentor
 neighbourhood when they saw a man acting suspiciously. [@1,3] The man ran off on
 foot, forced the door of a house open and escaped into a stretch of woods behind
-the property. [@1,2]
+the property. [@1,2,4]
 
 Searching the route he took, police found two bags loaded with marijuana tablets
-in the back yard and more of the drug inside the house. [@1,2,3] Officers also took
-a mobile phone and a credit card machine from the property. [@1,2,3] The owner of
+in the back yard and more of the drug inside the house. [@1,2,3,4] Officers also took
+a mobile phone and a credit card machine from the property. [@1,2,3,4] The owner of
 the house told police she had rented it to a man known only by a nickname and
 said she did not know about any illegal activity there. [@1,2,3] She was taken to
 the police station as a witness to give a statement, while the drug was sent to
-the Federal Police in Corumbá. [@1,2]
+the Federal Police in Corumbá. [@1,2,4]
 
 The suspect remained at large and police said the investigation was continuing
 to identify him. [@1,2] No one was arrested over the seizure. [@1]
