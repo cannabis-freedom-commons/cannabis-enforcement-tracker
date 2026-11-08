@@ -57,6 +57,9 @@ sources:
     url: https://english.news.cn/asiapacific/20261108/d3015fcc7a144f0f9d02d29402d72e94/c.html
     publisher: Xinhua
     date: 2026-11-08
+  - title: Afghan police seize over 180 kg of illegal drugs, arrest four traffickers
+    url: https://www.thehansindia.com/news/international/afghan-police-seize-over-180-kg-of-illegal-drugs-arrest-four-traffickers-1140398
+    publisher: The Hans India
 open_questions:
   - The event date rests on the police spokesman's statement that the operation was carried out on Saturday; both reports were published on Sunday 8 November 2026.
   - The hashish weight of 40 kilograms is the spokesman's figure; the page does not say whether a laboratory confirmed the substance.
@@ -65,20 +68,20 @@ open_questions:
   - A separate operation seized 32 kilograms of methamphetamine and arrested two people in Herat province; that is a different event and its figures are left out of this report.
   - The İLKHA page is a Turkish agency's Arabic-language edition translating the provincial police statement, so it is not independent reporting; Xinhua's dispatch carries the same spokesman's account.
   - The page's only photo is a stock-style lead image carried in the agency's featured-image address; no caption identifies what it depicts, so no claim is made about its content.
+  - The same page also describes a 32 kg methamphetamine seizure in Herat, dismantling of eight heroin laboratories in Ghor, and a burning of nearly one tonne of drugs in Farah; those are different events left out of this report.
 ---
 
 Counter-narcotics police in Afghanistan's northern Takhar province stopped a car
 in the provincial capital, Taluqan, and arrested the four people who were using
-it to take the load to an unknown destination. [@1] The Takhar provincial police
+it to take the load to an unknown destination. [@1,3] The Takhar provincial police
 spokesman, Naqibullah Masroor, said the counter-narcotics teams carried out the
-operation on Saturday, 7 November 2026. [@1]
+operation on Saturday, 7 November 2026. [@1,3]
 
 Police said they seized 143 kilograms of opium together with the cannabis, and
-that both were hidden in compartments built into the car. [@1] The cannabis in
+that both were hidden in compartments built into the car. [@1,3] The cannabis in
 the shipment was 40 kilograms of hashish, which police count within a stated
-total of more than 180 kilograms of drugs. [@2] The four detained suspects were
+total of more than 180 kilograms of drugs. [@2,3] The four detained suspects were
 held as suspected drug traffickers; no charge or court outcome was reported.
 [@1]
 
-Masroor gave the details on Sunday, the day after the operation. [@2]
-
+Masroor gave the details on Sunday, the day after the operation. [@2,3]
