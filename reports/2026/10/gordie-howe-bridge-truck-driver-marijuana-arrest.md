@@ -47,6 +47,10 @@ sources:
     url: https://cdllife.com/2026/u-s-truck-driver-arrested-at-detroit-border-crossing-with-gun-and-marijuana-cbp-says/
     publisher: CDLLife
     date: 2026-11-04
+  - title: U.S. Customs And Border Protection Confiscates American Driver’s Legal Item At Gordie Howe Bridge Due To Confusing Federal Policy
+    url: https://www.thetravel.com/us-customs-and-border-protection-confiscates-american-drivers-legal-item-at-gordie-howe-bridge-due-to-confusing-federal-policy/
+    publisher: TheTravel
+    date: 2026-11-07
 open_questions:
   - No weight or quantity for the marijuana was published, so no kilograms can be recorded.
   - No description of the firearm beyond a gun was published, and it is excluded from cannabis figures.
@@ -54,11 +58,13 @@ open_questions:
   - No charges or court outcome were reported after the driver was turned over to the Detroit Police Department.
   - Only one accessible source for this event was found after searching; no agency statement or second account could be opened.
   - The CDLLife page carries an image captioned only as CBP, which does not establish that it shows this seizure, so no media entry is included.
+  - TheTravel's image description does not say whether the vape cartridge and cannabis container were both seized from this driver, so the exact cannabis product remains unclear.
+  - The article gives no weight or plant count for the marijuana.
 ---
 
 Officers with U.S. Customs and Border Protection say they seized a gun and
 marijuana from a commercial truck driver attempting to enter Canada at the
-Gordie Howe International Bridge last week. [@1,2] According to the agency, the
+Gordie Howe International Bridge last week. [@1,2,3] According to the agency, the
 seizure took place Oct. 27 and involved a Canada-bound commercial truck driver.
 [@1,2]
 
@@ -67,6 +73,6 @@ discovered the firearm and marijuana. [@1] The man was later turned over to the
 Detroit Police Department. [@1,2]
 
 The seized items were photographed at the Gordie Howe International Bridge on
-Oct. 27, 2026. [@1] No other details were released. [@1]
+Oct. 27, 2026. [@1,3] No other details were released. [@1]
 
 CBP Director of Field Operations Marty C. Raybon said that a U.S. citizen operating a commercial truck approached the facility seeking entry into Canada. [@2]
