@@ -53,6 +53,11 @@ sources:
     publisher: Lokaal Nieuws
     date: 2026-10-08
     language: nl
+  - title: Twintigers blijven in de cel na vondst van handgranaat en 28 kilogram drugs in hotelkamer
+    url: https://www.nieuwsblad.be/regio/west-vlaanderen/regio-brugge/brugge/twintigers-blijven-in-de-cel-na-vondst-van-handgranaat-en-28-kilogram-drugs-in-hotelkamer/164204018.html
+    publisher: Nieuwsblad
+    date: 2026-11-06
+    language: nl
 open_questions:
   - The submitted PZC article is behind a login and only its headline, timestamp and photo caption were captured, so its account of a later council-chamber ruling could not be read.
   - The council chamber was due to rule on the men's continued detention on 9 October 2026, and search results indicate the detention was extended, but no article describing that hearing could be opened, so the outcome is not stated in the text.
@@ -61,14 +66,15 @@ open_questions:
   - The hand grenade and its disposal by DOVO are part of this event but are not cannabis quantities.
   - No trial date or sentence has been reported, and the two men are identified only by age.
   - The only picture on an opened page is a symbolic courthouse image not showing this event, so no media entry is added.
+  - The submitted Nieuwsblad article body is paywalled and was not captured, so the November council-chamber ruling details (which suspect was held a further month, electronic monitoring and prosecution appeal) cannot be verified from the opened source.
 ---
 
 Bruges police detectives arrested two 23-year-old men as they left Hotel Sleep &
 Go in Sint-Michiels, a district of Bruges, on the evening of Monday 5 October
-2026. [@1] The two were caught after information reached the Bruges police zone
+2026. [@1,4] The two were caught after information reached the Bruges police zone
 and officers followed the suspects' movements. [@1]
 
-A search of two hotel rooms found 28.2 kg of cannabis. [@2] Bruges police valued
+A search of two hotel rooms found 28.2 kg of cannabis. [@2,4] Bruges police valued
 the cannabis at 282,000 euros on the street. [@1] The army bomb disposal service
 DOVO came to the hotel to make the grenade safe, and police also seized a car.
 [@3]
@@ -85,3 +91,4 @@ chamber, the court that rules on pre-trial detention, on Friday 9 October 2026.
 [@3] The Bruges police zone continues the investigation under the Bruges
 investigating judge. [@1]
 
+The two young men remain in custody. [@4]
