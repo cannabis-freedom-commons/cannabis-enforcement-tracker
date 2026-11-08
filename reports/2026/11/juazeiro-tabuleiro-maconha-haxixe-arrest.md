@@ -49,24 +49,30 @@ sources:
     publisher: Bahia Notícias
     date: 2026-11-07
     language: pt
+  - title: Suspeito por tráfico de drogas é preso pela PM em Juazeiro com maconha e haxixe apreendidos
+    url: https://primeirojornal.com.br/2026/11/pm-prende-suspeito-por-trafico-de-drogas-e-apreende-maconha-e-haxixe-em-juazeiro/
+    publisher: PrimeiroJornal
+    date: 2026-11-07
+    language: pt
 open_questions:
   - No weight was published for the marijuana or hashish, only six large packages and three bags, so no kilogram figure is recorded.
   - The suspect was not named and no age, charge filing or court outcome was reported.
   - Neither page carried a captioned photo confirmed to show this seizure, so no media entry is added.
+  - PrimeiroJornal credits the text to Bahia Notícias, so this is a republished account of the same police statement, not independent reporting on the arrest.
+  - The submitted page uses a shared partnership image that does not name or show this seizure, so it is not recorded as media.
 ---
 
 Military police officers of the 75th CIPM arrested a man in flagrante on the
-night of Friday 6 November 2026 in the Tabuleiro neighbourhood of Juazeiro. [@1]
+night of Friday 6 November 2026 in the Tabuleiro neighbourhood of Juazeiro. [@1,3]
 The arrest took place during patrols under Operation Cacador while the team was
 intensifying ostensive patrolling in the area. [@1] Officers said they
 approached the suspect after receiving anonymous reports about a drug-selling
-spot, a boca de fumo, in the area. [@1]
+spot, a boca de fumo, in the area. [@1,3]
 
 During the search officers found six large packages of marijuana, three bags
-containing hashish, three precision scales and R$381 in cash. [@1] Bahia
+containing hashish, three precision scales and R$381 in cash. [@1,3] Bahia
 Noticias independently gave the same seizure count of six large marijuana
 packages, three bags with hashish, three precision scales and R$381. [@2]
 
 The man and all the seized material were taken to the Juazeiro Civil Police
-station, where the flagrante arrest was recorded. [@1]
-
+station, where the flagrante arrest was recorded. [@1,3]
