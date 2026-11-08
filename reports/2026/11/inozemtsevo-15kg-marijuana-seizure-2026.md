@@ -74,6 +74,10 @@ sources:
     publisher: Prospect
     date: 2026-11-05
     language: ru
+  - title: В Железноводске у местного жителя изъяли более 1,5 кг наркотиков
+    url: https://vechorka.ru/news/law/v-zheleznovodske-u-mestnogo-zhitelya-izyali-bolee-15-kg-narkotikov
+    publisher: Вечерний Ставрополь
+    language: ru
 open_questions:
   - No separate search date was published; 5 November 2026 is the publication date used as the incident date.
   - The total was reported only as exceeding 1.5 kg, with approximate components of about 300 grams, more than 1 kg and about 310 grams, so 1.5 kg is recorded as the minimum.
@@ -81,20 +85,22 @@ open_questions:
   - Only the opening of a criminal case for illegal acquisition and storage was reported; no court outcome or custody status beyond delivery to the police station is known.
   - No separate search date was published; 5 November 2026 is the publication date used as the incident date in the existing report.
   - The total was reported only as exceeding 1.5 kg, with approximate components of about 300 grams, more than 1 kg and 310 grams.
+  - The page dates the item only as 5 November with no year; 5 November 2026 is used because the capture, images and matching reports place it then.
+  - The page's only event photo is credited as archive material from the Stavropol regional Interior Ministry press service, so it is not confirmed to show this search or seizure and no media entry is added.
 ---
 
 Zheleznovodsk police established that a 53-year-old resident of the settlement
-of Inozemtsevo was illegally storing narcotic substances. [@1,5] Zheleznovodsk
+of Inozemtsevo was illegally storing narcotic substances. [@1,5,8] Zheleznovodsk
 officers suspected the man of illegal drug storage and found plastic buckets and
 paper wraps with contraband in his home during the search. [@4,5,7] The man was
 taken to the police station after the search. [@1] He told officers that he had
-kept the drug for his own personal use. [@2,5,7]
+kept the drug for his own personal use. [@2,5,7,8]
 
 Forensic examination found that part of the seizure was about 300 grams of
 cannabis parts, alongside more than a kilogram of ready marijuana and about 310
 grams discovered in the outbuilding. [@3,5,6,7] Experts confirmed that the seized
 material was cannabis parts and marijuana with a combined weight of more than
-1.5 kg. [@1] The regional Interior Ministry reported that officers seized 1.5 kg
+1.5 kg. [@1,8] The regional Interior Ministry reported that officers seized 1.5 kg
 of marijuana from the 53-year-old local resident in Inozemtsevo and said he
 faces criminal liability. [@2]
 
