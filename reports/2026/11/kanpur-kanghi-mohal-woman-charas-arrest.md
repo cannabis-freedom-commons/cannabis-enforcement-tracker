@@ -103,6 +103,10 @@ sources:
     publisher: News18 Gujarati
     date: 2026-11-05
     language: gu
+  - title: 3.131 किलो चरस के साथ महिला गिरफ्तार, चार पैकेट बरामद
+    url: https://www.youthindiatoday.com/articles/3131-57629111
+    publisher: Youth India 24 News
+    language: hi
 open_questions:
   - The article states three kilograms of charas in its opening sentence but later says 1.5 kilograms was recovered from the bag, so no cannabis weight is recorded.
   - The article says the arrest happened late on Tuesday night and was published on 4 November 2026, so 3 November 2026 is used as the incident date.
@@ -131,10 +135,13 @@ open_questions:
   - The Gujarati report gives no court outcome and no charge sheet; it says only that police were still raiding to find her associates.
   - Left out arrested, as no supporting quotation was given.
   - Left out value, as no supporting quotation was given.
+  - The article gives no separate date for the raid; 5 November 2026 is its publication date, while the existing report dates the late-night arrest to 3 November 2026.
+  - The article consistently reports 3.131 kg in four packets and does not resolve the earlier difference between about 3 kg and 1.5 kg in the Amar Ujala account.
+  - The page image is labelled only with the article headline and carries no credit establishing it shows this seizure, so no media entry is listed.
 ---
 
 Bajaria police arrested Shabnam Begum, also called Chacha, near her house in
-Kanghi Mohal late on Tuesday night. [@1,3,6] She is a resident of Kanghi Mohal in
+Kanghi Mohal late on Tuesday night. [@1,3,6,10] She is a resident of Kanghi Mohal in
 Kanpur. [@1,3,4] Women police helped surround her near her house after a precise
 late-night tip. [@1,2,6]
 
@@ -149,12 +156,14 @@ Khatola. [@1,3,6] Riyaz had earlier been sent to jail for allegedly selling char
 while carrying an illegal pistol and had not been released. [@1,2,6] Police said
 Shabnam took over his charas-selling business after he went to jail. [@1,2,3,4,6,7,8]
 Besides selling, she also smuggled charas, police said. [@1,6] Women police were
-questioning her to trace her associates. [@1,3,6]
+questioning her to trace her associates. [@1,3,6,10]
 
 The joint Bajaria police and Crime Branch team raided Shabnam's tea shop after an informant tip at about 11 pm on Tuesday night. [@3,5,8] Officers recovered about 3 kg of charas from a bag kept in the shop. [@3,5] The shop allegedly operated as a front for selling both charas and ganja. [@3,5] Riyaz ran a tea shop in Chaman Ganj which Shabnam frequented before they lived together and ran the shop together. [@3] ACP Seesamau Anand Ojha said Shabnam was being questioned about other people involved in the business. [@3,5]
 
 Police said she also used the names Nasreen, Bano and Guddi. [@4] A joint Bajaria police and Crime Branch team led by DCP Central Atul Srivastava carried out the raid. [@4] More than 15 police personnel took part, including women police to complete the legal procedure for the house search. [@4] Officers found the charas in envelopes kept in different parts of the house. [@4]
 
-Dainik Jagran reported that the charas weighed 3.131 kg and was recovered in four black-polythene packets hidden behind an empty cylinder inside Shabnam's home. [@7]
+Dainik Jagran reported that the charas weighed 3.131 kg and was recovered in four black-polythene packets hidden behind an empty cylinder inside Shabnam's home. [@7,10]
 
 Police said Shabnam had charas brought from Nepal through Said, a close associate of Riyaz, and used other associates such as Sharafat to deliver it to schools, colleges and various parts of the city. [@9] Police said that during questioning Shabnam admitted she was using the proceeds of the trade to collect money to pay for Riyaz's bail. [@9] Police Commissioner Raghuveer Lal said various police teams were raiding continuously to catch the associates who supplied Shabnam with charas from Nepal and distributed it in the city. [@9]
+
+Shabnam Begum was about 44 years old. [@10] Police registered a case under sections 8/20 of the NDPS Act and were preparing to produce her in court. [@10]
