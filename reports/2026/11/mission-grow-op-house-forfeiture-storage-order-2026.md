@@ -79,7 +79,7 @@ $299,850.16 to the province for storage of belongings removed from his forfeited
 Mission house. [@1,3] The province had kept those belongings in three shipping
 containers since 2012, building up the storage bill. [@1,3] The forfeiture office
 said it was required to keep the items in case they were needed as evidence in
-the damages lawsuit. [@2]
+the damages lawsuit. [@1,2]
 
 The dispute goes back to 2011, when the province brought a civil forfeiture case
 over the Mission house against Krist's former wife and others with an interest
@@ -103,3 +103,5 @@ from sales, the province demand fell to 548,000 dollars. [@1,3] Bilawich found
 Krist to pay $299,850.16. [@1]
 
 Krist said he had refused to take the belongings back or have them destroyed because he feared it would weaken his lawsuit over the gold and silver. [@3]
+
+The county began holding the items in three shipping containers from 2012. [@1]
