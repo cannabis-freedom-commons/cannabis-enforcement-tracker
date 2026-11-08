@@ -69,6 +69,10 @@ sources:
   - title: Branford store clerk charged after illegal drug seizure
     url: https://www.msn.com/en-us/news/other/branford-store-clerk-charged-after-illegal-drug-seizure/ar-AA2h0NE0
     publisher: MSN
+  - title: 'Branford smoke shop raided after tip about sales to minors; 6.5 pounds of cannabis seized: Police'
+    url: https://www.msn.com/en-us/news/other/branford-smoke-shop-raided-after-tip-about-sales-to-minors-6-5-pounds-of-cannabis-seized-police/ar-AA2h1UZP
+    publisher: CT Insider
+    date: 2026-11-08
 open_questions:
   - The article gives no date for the inspection or the clerk's arrest; 8 November 2026 is its publication date and is used as the incident date.
   - The seizure weights are police approximations in pounds and include a combined category of concentrates and vape products, so no separate concentrate weight is recorded.
@@ -93,18 +97,18 @@ A 33-year-old clerk at SAS Convenience Store on East Main Street in Branford,
 Connecticut, was charged with drug offences after police and state regulators
 seized cannabis products from a business not licensed to sell them. [@1,3,4]
 Branford police said they inspected the store after a resident reported that
-minors were buying marijuana products there. [@1,2,3,4] The business had previously
-traded under the name ASA Smoke Shop. [@1,3]
+minors were buying marijuana products there. [@1,2,3,4,5] The business had previously
+traded under the name ASA Smoke Shop. [@1,3,5]
 
 Police identified the clerk as Salah Kannane of Branford and charged him with
 possession of a controlled substance, operating a drug factory and three counts
-of sale of cannabis. [@1,2,4] He was released after posting a 50,000-dollar bond and
+of sale of cannabis. [@1,2,4,5] He was released after posting a 50,000-dollar bond and
 is due in court on 17 November, the Branford Police Department said. [@1,2,4]
 
 Detectives and agents from the Cannabis Control Division of the state Department
 of Consumer Protection seized about 1.5 pounds (0.68 kg) of cannabis edibles,
 4.2 pounds (1.9 kg) of concentrates and vape products and 1.1 pounds (0.5 kg) of
-cannabis flower, according to police. [@1,2,3,4] Investigators also found packages of
+cannabis flower, according to police. [@1,2,3,4,5] Investigators also found packages of
 kratom, which police described as a Schedule 1 controlled substance in this
 investigation. [@1] Police said they found scales, packing materials and a BB
 gun at the store, and that the products were consistent with a drug factory.
