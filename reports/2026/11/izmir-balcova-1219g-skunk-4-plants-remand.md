@@ -38,6 +38,11 @@ media:
     media_url: https://media.cumhuriyet.com.tr/Archive/e27db9c0-1cf6-41ad-bb7a-561cf01e71c0.jpg
     publisher: Cumhuriyet
     caption: Photo published with the Cumhuriyet report on the Balçova home search and seizure; no caption or credit identifies what it depicts.
+  - kind: photo
+    url: https://www.habererk.com/haber/evinde-kenevir-yetistiren-supheli-tutuklandi_360326/
+    media_url: https://img.habererk.com/manset/2026/11/evinde-kenevir-yetistiren-supheli-tutuklandi-1794131453.webp
+    publisher: Habererk
+    caption: DHA handout photo published with the Habererk report on the Balçova home search; no caption or credit identifies what it depicts.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f2dfee7277b8c3ed1bfb86c0f057bbd2
@@ -53,6 +58,11 @@ sources:
     publisher: Haberler.com
     date: 2026-11-08
     language: tr
+  - title: Evinde kenevir yetiştiren şüpheli tutuklandı
+    url: https://www.habererk.com/haber/evinde-kenevir-yetistiren-supheli-tutuklandi_360326/
+    publisher: Habererk
+    date: 2026-11-08
+    language: tr
 open_questions:
   - The accounts give the raid date only as the previous day; 7 November 2026 is estimated from the 8 November 2026 publication date.
   - No weight or value was published for the 4 rooted plants, and no value was given for the seized skunk.
@@ -65,19 +75,21 @@ open_questions:
   - Left out setting, as its quotation was not found in Son Kale İzmir.
   - Left out case stage, as its only supporting source is not cited by the report's text.
   - Left out environment, as its only supporting source is not cited by the report's text.
+  - Habererk reproduces the DHA dispatch, the same text carried by the Cumhuriyet and Haberler.com accounts already cited, so it is not independent reporting.
+  - The page gives no separate date for the raid; 7 November 2026 remains an estimate from the 8 November 2026 publication date.
+  - The photo published with the report has no caption or credit beyond the DHA agency mark, so it is not confirmed to show this seizure.
 ---
 
 İzmir provincial gendarmerie teams determined that a suspect identified only as
 K.A. was illegally growing cannabis with a climate-control method in his home in
-Fevzi Çakmak Mahallesi, Balçova. [@1] Officers raided that address the previous
+Fevzi Çakmak Mahallesi, Balçova. [@1,3] Officers raided that address the previous
 day. [@1] K.A. was taken into custody and, after gendarmerie processing, was
-referred to the courthouse and remanded in custody. [@1]
+referred to the courthouse and remanded in custody. [@1,3]
 
-The search of the home seized 1 kilo 219 grams of skunk. [@1] Officers also
-seized 4 rooted skunk plants. [@1] Officers also seized one drug-grinding device
-and various climate-control materials. [@1]
+The search of the home seized 1 kilo 219 grams of skunk. [@1,3] Officers also
+seized 4 rooted skunk plants. [@1,3] Officers also seized one drug-grinding device
+and various climate-control materials. [@1,3]
 
 The gendarmerie said the work was part of its effort to prevent drug
-manufacturing and trafficking. [@1] The accounts describe both the harvested
+manufacturing and trafficking. [@1,3] The accounts describe both the harvested
 drug and the plants as skunk. [@2]
-
