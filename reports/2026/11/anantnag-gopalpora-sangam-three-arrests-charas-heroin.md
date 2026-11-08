@@ -62,6 +62,10 @@ sources:
     url: https://www.greaterkashmir.com/jammu-kashmir/four-alleged-drug-peddlers-arrested-in-j-ks-anantnag-kupwara-12793754
     publisher: Greater Kashmir
     date: 2026-11-08
+  - title: Four drug peddlers arrested in Anantnag, Handwara
+    url: https://brighterkashmir.com/four-drug-peddlers-arrested-in-anantnag-handwara
+    publisher: Brighter Kashmir
+    date: 2026-11-09
 open_questions:
   - The article gives no separate date for the two interceptions; 8 November 2026 is its publication and dateline date and the day police spoke, and is used as the incident date.
   - The heroin weight is stated as approximate and the 6.15 grams of charas is a police field figure with no reported laboratory confirmation.
@@ -75,12 +79,14 @@ open_questions:
   - Greater Kashmir names the three suspects without their residences, while the existing report gives the two Gopalpora riders as residents of Gopalpora and the Handwara suspect as a resident of Redi Chowkibal from other outlets.
   - The Handwara charas-like substance is still unweighed in this account, so it adds nothing to the 6.15 grams of charas recorded for the Sangam Chowk recovery.
   - The article gives no time of day for the checks; 8 November 2026 is its dateline and publication date.
+  - Brighter Kashmir gives no weight for the charas-like substance recovered at Champora Crossing, so that recovery adds no cannabis quantity to the report.
+  - The page's lead image has no caption or credit and does not establish that it shows these arrests, so no media entry is added.
 ---
 
 Police arrested three alleged drug peddlers in two separate incidents in
 Anantnag district and recovered heroin and charas from them. [@1,2,4] A Mattan
 police team intercepted a motorcycle at Gopalpora Crossing during naka checking
-and apprehended the two people travelling on it. [@1,2,4] The two riders were
+and apprehended the two people travelling on it. [@1,2,4,5] The two riders were
 identified as Ubaid Ahmed Khan and Yawar Sultan, both residents of Gopalpora.
 [@1,3,4] Police allegedly found around 14 grams of heroin on the pair, seven grams
 from each man. [@1]
@@ -88,7 +94,7 @@ from each man. [@1]
 Police registered a case under Sections 8 and 21 of the NDPS Act at Mattan
 police station and began an investigation. [@1,4] In the second incident, a Police
 Post Sangam team intercepted a vehicle travelling from Jammu towards Srinagar at
-Sangam Chowk. [@1,2,4] The driver was identified as Waseem Bashir Bhat, a resident
+Sangam Chowk. [@1,2,4,5] The driver was identified as Waseem Bashir Bhat, a resident
 of Lal Chowk in Srinagar. [@1,3] Police allegedly found the driver in possession
 of 6.15 grams of charas. [@1,4]
 
@@ -96,4 +102,4 @@ Police registered a case under relevant provisions of law over the charas
 recovery. [@1] Police said efforts to curb drug trafficking would be intensified
 and appealed to the public to help eliminate the drug menace. [@1]
 
-In Handwara, police stopped a man at Champora Crossing, in the area of Vilgam police station, and found a charas-like substance on him. [@2,4] The man was identified as Mohammad Ashraf Bhat, a resident of Redi Chowkibal in Kupwara district. [@3] Police registered FIR No. 73/2026 under Section 8/20 of the NDPS Act at Vilgam police station and said the arrest was made to trace the case's forward and backward linkages. [@3,4]
+In Handwara, police stopped a man at Champora Crossing, in the area of Vilgam police station, and found a charas-like substance on him. [@2,4,5] The man was identified as Mohammad Ashraf Bhat, a resident of Redi Chowkibal in Kupwara district. [@3] Police registered FIR No. 73/2026 under Section 8/20 of the NDPS Act at Vilgam police station and said the arrest was made to trace the case's forward and backward linkages. [@3,4,5]
