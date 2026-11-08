@@ -59,6 +59,11 @@ sources:
     publisher: IBC24
     date: 2026-11-04
     language: hi
+  - title: 'బిహార్‌లో భారీ డ్రగ్స్ వేట: 46 వేల కిలోల గంజాయి సీజ్'
+    url: https://www.suryaa.com/amp/national/bihar-reports-massive-drug-seizures-46549-kg-ganja-150-kg-heroin-till-october-27
+    publisher: Suryaa News
+    date: 2026-11-04
+    language: te
 open_questions:
   - The incident date uses the 27 October 2026 cutoff for the 2026 figures, not the 4 November 2026 publication and review-meeting date.
   - The 6,104 arrests and 4,232 cases cover all NDPS drugs, with no separate cannabis-only arrest total published.
@@ -75,6 +80,8 @@ open_questions:
   - The Kashish News page's only listed image is captioned with the story title and carries no credit establishing that it shows this seizure, so no media entry is included.
   - The IBC24 account rounds the ganja total as over 46,549 kg, against the precise 46,549.95 kg already stored; the stored precise figure is retained.
   - The page's main image is a generic PTI thumbnail with no caption or credit establishing that it shows this seizure, so no media entry is included.
+  - The Suryaa account rounds the totals as about 46,549 kg of ganja and 150 kg of heroin, against the precise 46,549.95 kg and 149.696 kg already stored; the stored precise figures are retained.
+  - The page's only listed image is captioned with the story title and carries no credit establishing that it shows this seizure, so no media entry is included.
 ---
 
 Bihar police registered 4,232 cases under the NDPS Act, India's narcotics law,
@@ -86,11 +93,11 @@ meeting. [@1] By comparison, police recorded 2,583 cases and 3,562 arrests in
 all of 2025. [@1,2]
 
 Police said they seized 46,549.95 kg of ganja, the cannabis component recorded
-here, by 27 October. [@1,2,3,4,5] Araria led the district figures with 10,573 kg of
+here, by 27 October. [@1,2,3,4,5,6] Araria led the district figures with 10,573 kg of
 ganja recovered. [@1,4,5] Supaul and Madhubani followed with 8,813 kg and 4,483 kg
 of ganja respectively. [@1,4,5] The same drive also recovered 149.696 kg of heroin,
 brown sugar and smack, alongside large numbers of pills, injections and codeine
-syrup bottles, which are not counted as cannabis. [@1,3] Police also reported
+syrup bottles, which are not counted as cannabis. [@1,3,6] Police also reported
 1,156,380 pills and capsules, 492,870 injections and 511,988 bottles of codeine
 cough syrup seized. [@1] Police said destruction of seized narcotics rose about
 10.1 times over 2025 to reach 25,247 kg in 2026, a combined-drugs total not
@@ -107,3 +114,5 @@ ordered drug-free zones within 500 metres of educational institutions. [@1,2,5]
 In heroin seizures, Patna and Purnea recorded the highest figures. [@2,3] Of the 512.235 acres of illicit opium crops destroyed, 508.755 acres were in Gayaji district. [@2]
 
 From 2023 to 27 October 2026, the state recorded a total of 11,347 cases and arrested 13,543 accused. [@4] In heroin seizures, Patna with 24.1 kg and Purnea with 20 kg recorded the highest district figures. [@4,5] Authorities received 132 proposals under the PIT-NDPS Act, of which 3 detention orders issued by the Home Department have been served. [@4] Financial investigation of illegally acquired property was under way against 417 accused in 231 commercial-quantity cases. [@4]
+
+Checks focused on suspicious vehicles entering through the Nepal international border and the West Bengal, Jharkhand and Uttar Pradesh border routes. [@6]
