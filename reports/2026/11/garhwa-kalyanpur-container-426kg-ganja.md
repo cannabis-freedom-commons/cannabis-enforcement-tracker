@@ -53,6 +53,11 @@ sources:
     publisher: Dainik Jagran
     date: 2026-11-08
     language: hi
+  - title: गढ़वा में ट्रक से एक करोड़ का गांजा बरामद, 426 किलो नशीला पदार्थ जब्त; पुलिस की बड़ी कार्रवाई
+    url: https://kashishnews.com/news/garhwa-me-truck-se-ek-karor-ke-ganja-bramad-426-kilo-nashila-padarth-jabt-polive-ki-badi-karrvai-782221
+    publisher: Kashish News
+    date: 2026-11-08
+    language: hi
 open_questions:
   - The article gives no separate date for the recovery; 8 November 2026 is its publication date and is used as the incident date.
   - The total is presented as 426 packets of about one kilogram each, so the 426 kg figure is the police's own calculation rather than a measured weight.
@@ -61,10 +66,12 @@ open_questions:
   - The article does not say who the ganja belonged to, where it came from or where it was heading.
   - No second account of this event could be opened, and the police department's own statement was not found, so the report rests on the Dainik Jagran article.
   - The single page photo is credited to the outlet, and its caption identifies it only as the ganja recovered from the container, so it is listed as media without a copy.
+  - Kashish News values the 426 kilograms at about one crore rupees, a figure the existing report does not carry; the submitted page gives no sum beyond that estimate.
+  - Kashish News calls the vehicle a truck while Dainik Jagran described a container taken to Garhwa police station and cut open; the accounts agree on place, quantity, lead officer and investigation status.
 ---
 
 Garhwa police in Jharkhand recovered 426 kilograms of ganja from a container
-parked beside the road near the Kalyanpur overbridge. [@1] The superintendent of
+parked beside the road near the Kalyanpur overbridge. [@1,2] The superintendent of
 police acted on a tip and sent a special raiding team led by Garhwa
 sub-divisional police officer Dillu Lohra, with station house officer Sunil
 Kumar Tiwari and other officers. [@1] The team found the container standing
@@ -79,8 +86,7 @@ Each packet weighed about one kilogram, giving the police's total of 426
 kilograms of ganja. [@1]
 
 Lohra said Garhwa police were running a continuing campaign against the illegal
-narcotics trade and smuggling. [@1] Police said further investigation was under
+narcotics trade and smuggling. [@1,2] Police said further investigation was under
 way to establish the ganja's source and destination, the involvement of the
-vehicle's owner and driver, and the wider network. [@1] No one was arrested when
-the ganja was recovered, and the police account names no suspect. [@1]
-
+vehicle's owner and driver, and the wider network. [@1,2] No one was arrested when
+the ganja was recovered, and the police account names no suspect. [@1,2]
