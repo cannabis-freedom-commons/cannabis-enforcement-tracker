@@ -57,6 +57,11 @@ sources:
     publisher: 5 Minuten
     date: 2026-11-08
     language: de
+  - title: Sechs Drogenlenker wurden am Wochenende gestoppt
+    url: https://www.krone.at/4368082
+    publisher: Kronen Zeitung
+    date: 2026-11-08
+    language: de
 open_questions:
   - The police describe the controls as taking place on Saturday and Sunday, so 7 November 2026 is used as the incident date, with the series running into 8 November.
   - The account gives the total of six drivers stopped but does not say how many were affected by cannabis alone; the cannabis-related stops are those in the city of Salzburg where the test reacted to cannabis.
@@ -70,32 +75,35 @@ open_questions:
   - The Salzburger Nachrichten reports the same total of six stops but does not say whether the e-scooter rider's licence was among the five taken.
   - The submitted 5 Minuten text place the stops only in the city area of Salzburg and in the municipal area of Thalgau, and do not name the Leogang driver or the Aigner Straße and Erzherzog-Eugen-Straße locations given by the police statement.
   - The article's headline picture is a 2023 montage of a police car and drugs labelled as stock material, so no media entry is added.
+  - The Krone article gives only the weekend and Saturday/late Saturday/early Sunday timing; 7 November 2026 is retained from the existing report for the series running 7-8 November.
+  - The Krone article says the car drivers had to hand over their driving licences, while the existing report records five of the six licences seized on the spot; the discrepancy is left open.
+  - The Krone page photo is labelled Symbolbild (symbol image) and is not confirmed to show these stops, so no media entry is added.
 ---
 
 Between Saturday 7 and Sunday 8 November 2026, Salzburg police stopped six
 drivers under the influence of drugs in the city of Salzburg, in Thalgau in
-Flachgau and in Leogang in Pinzgau. [@1,2,3] Officers seized the driving licences of
+Flachgau and in Leogang in Pinzgau. [@1,2,3,5] Officers seized the driving licences of
 five of the six drivers on the spot. [@1,4] A civil patrol at a routine check in
 the Aigner Straße in the city of Salzburg stopped a 20-year-old car driver on
 Saturday; his alcohol test was clear, but the drug test reacted to cannabis.
 [@1] The 20-year-old admitted he had smoked joints before driving, a police
-medical officer found him unfit to drive, and officers took his licence. [@1,2]
+medical officer found him unfit to drive, and officers took his licence. [@1,2,5]
 
 That evening officers stopped a 24-year-old Salzburger on an e-scooter in the
 Erzherzog-Eugen-Straße; he said he used cannabis daily as a sleep aid, and his
-quick test reacted to cannabis and cocaine. [@1,2] The 24-year-old refused the
+quick test reacted to cannabis and cocaine. [@1,2,5] The 24-year-old refused the
 medical examination and was stopped from continuing. [@1] A 21-year-old holding
 a probationary licence drew attention through risky driving in the city area and
-tested positive for cocaine. [@1] Early on Sunday officers stopped a 38-year-old
+tested positive for cocaine. [@1,5] Early on Sunday officers stopped a 38-year-old
 car driver on the Ignaz-Harrer-Straße who admitted he had taken cocaine shortly
-before, and his test reacted to cocaine and cannabis. [@1] After the medical
+before, and his test reacted to cocaine and cannabis. [@1,5] After the medical
 officer's finding, the 38-year-old lost his licence and left his car standing.
 [@1]
 
 On the Hochkönig Straße (B164) in the municipality of Leogang, late on Saturday
 evening, police stopped a 35-year-old Hungarian driver who admitted taking
 crystal meth, and his drug test reacted to opiates and amphetamines while no
-alcohol was involved. [@1] The Leogang driver lost his licence immediately after
+alcohol was involved. [@1,5] The Leogang driver lost his licence immediately after
 the medical officer's finding. [@1] In Thalgau a 25-year-old drew attention
 through unsafe driving, tested positive for cocaine, refused the medical
 examination and had his licence taken on the spot. [@1]
@@ -103,3 +111,5 @@ examination and had his licence taken on the spot. [@1]
 The Salzburger Nachrichten reports that all five drivers whose driving licences were taken lost them. [@2]
 
 The radio station 5 Minuten added that a 25-year-old driver in Thalgau tested positive for cocaine and lost his licence. [@4]
+
+All six men were reported and were not allowed to continue driving. [@5] The 24-year-old e-scooter rider was already known to the police. [@5]
