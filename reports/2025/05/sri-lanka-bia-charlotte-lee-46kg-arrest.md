@@ -62,17 +62,23 @@ sources:
     url: https://www.newswire.lk/2025/08/20/lawyer-warned-for-making-video-call-on-behalf-of-foreign-client
     publisher: Newswire
     date: 2025-08-20
+  - title: Foreign office supporting British woman after reports of drug-smuggling arrest in Sri Lanka
+    url: https://www.theguardian.com/world/2025/may/18/foreign-office-supporting-british-woman-after-reports-of-drug-smuggling-arrest-in-sri-lanka
+    publisher: The Guardian
+    date: 2025-05-18
 open_questions:
   - The submitted article gives no exact arrest date beyond earlier this month; 12 May 2025 is used from the second BBC account, while Newswire dates the Customs arrest to 13 May.
   - The submitted BBC reports 46 kg while Newswire reports 46.6 kg of Kush; this report uses 46 kg and records no separate laboratory weight.
   - Some outlets call the haul kush and one linked the name to a different synthetic drug, but the opened BBC text identifies it as cannabis; the lawyer requested testing and the magistrate ordered it, with no result reported.
   - No charge had been laid at the time of the May reports and no bail outcome was reported; an August hearing extended remand to 3 September.
   - No cannabis-only street value was published in the opened sources, so no value is recorded.
+  - The Guardian calls the haul 'the cannabis strain kush' but then describes kush as 'a synthetic mixture of cannabis, fentanyl, tramadol and formaldehyde' linked to West Africa; the existing report follows the opened BBC text identifying the seizure as cannabis.
+  - The Guardian dates detention only to 'Monday' (12 May 2025 given its 18 May publication); the exact 12 May date is taken from the existing report's second BBC account.
 ---
 
 Charlotte May Lee, 21, from south London, was arrested after authorities
 allegedly found 46 kg of cannabis in her suitcases on arrival from Thailand.
-[@1] The former flight attendant told the BBC she had travelled from Bangkok to
+[@1,4] The former flight attendant told the BBC she had travelled from Bangkok to
 Colombo to renew her Thai visa. [@1] Ms Lee has not yet been charged, denies
 knowing about the drugs, and could face up to 25 years if found guilty. [@1] She
 is being held in a prison in Negombo, a city just north of the capital. [@1] She
@@ -94,8 +100,9 @@ a judge every 14 days. [@1] She is held on suspicion of possession and smuggling
 with her next appearance on 13 July. [@1] A senior Customs Narcotics Control
 Unit officer said the find at Bandaranaike Airport was the largest kush seizure
 in the airport's history. [@2] Authorities said bags stuffed with drugs were
-found in two large suitcases. [@2] She was arrested on 12 May after arriving
+found in two large suitcases. [@2,4] She was arrested on 12 May after arriving
 from Bangkok without rechecking her luggage. [@2] The Magistrate ordered that
 the British national female suspect remain in remand custody until September 3.
 [@3]
 
+The Foreign, Commonwealth and Development Office said it was supporting a British woman arrested in Sri Lanka and was in contact with her family and the local authorities. [@4]
