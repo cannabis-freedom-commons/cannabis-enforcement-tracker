@@ -70,6 +70,11 @@ sources:
     publisher: 長崎新聞（MSN）
     date: 2026-11-07
     language: ja
+  - title: 大麻所持の疑いでダンス講師の男(25)を逮捕...乗用車のトランク内から発見 大浦署など
+    url: https://www.oricon.co.jp/article/3430065/
+    publisher: ORICON NEWS
+    date: 2026-11-07
+    language: ja
 open_questions:
   - The sources do not say whether the man was charged or released; police were still investigating the supply route.
   - No street value was published for the 0.2 grams of dried cannabis.
@@ -85,12 +90,13 @@ open_questions:
   - The sources still do not name the exact street in Oura-machi where the car was stopped.
   - The Nagasaki Shimbun account places the dried cannabis in the trunk, while NBC Nagasaki Broadcasting reported finding it in the bag of the man in the passenger seat; the reports may describe different points in the stop.
   - The Nagasaki Shimbun places the dried cannabis in the car's trunk, while NBC Nagasaki Broadcasting reported finding it in the bag of the man in the passenger seat.
+  - The submitted Oricon capture holds only the headline and opening teaser with a link to read the rest on an external site, so the full Nagasaki Shimbun wording, including any weight or trunk detail, could not be quoted from this capture.
 ---
 
 Nagasaki police arrested the 25-year-old dance instructor at about 8:45 a.m. on
 27 October 2026 on suspicion of violating the Narcotics and Psychotropics
 Control Law by possessing dried cannabis. [@2,3,5] He was 25 years old and worked as
-a dance instructor, living in Kiba 1-chome in Omura City. [@2] Police say he
+a dance instructor, living in Kiba 1-chome in Omura City. [@2,7] Police say he
 possessed 0.2 grams of dried cannabis on 18 October 2026 inside a car stopped on
 a street in Nagasaki City. [@2,3]
 
