@@ -62,6 +62,11 @@ sources:
     publisher: Kontroll
     date: 2026-11-06
     language: hu
+  - title: '15 milliós fogás: elkapták a rendőrök a csomagküldéssel próbálkozó drogkereskedőket'
+    url: https://infostart.hu/belfold/2026/11/08/15-millio-fogas-elkaptak-a-rendorok-a-csomagkuldessel-probalkozo-drogkereskedoket
+    publisher: Infostart.hu
+    date: 2026-11-08
+    language: hu
 open_questions:
   - The marijuana weight is stated only as more than 2 kilograms, so figures record the stated lower bound of 2 kg.
   - The reported value of more than 15 million forints covers all seized drugs together, so it is kept in the text and omitted from cannabis value figures.
@@ -75,6 +80,8 @@ open_questions:
   - The Zsaruhírek account describes the 25-year-old companion in the car as a Chinese man, while the Budapest Police Headquarters statement calls him a Vietnamese man, as does the Index report; the report keeps the police version.
   - The reports give no total weight for the cocaine, tablets and pink powder beyond more than 100 grams of white powder, and no cannabis-specific value.
   - The Kontroll account gives more than 2 kilograms for the marijuana and attributes the more than 15 million forint value to the marijuana, while the police statement reported by the other sources puts the parcel's plant material at more than 2 kg but the 15 million forint figure on all seized drugs together; the existing report keeps the police version.
+  - The Infostart headline and lead say the parcel of marijuana was worth more than 15 million forints, while the Budapest Police Headquarters statement as reported by the outlets already cited gives that figure for all seized drugs together; the report keeps the police version.
+  - Infostart says the search of the Chinese man's car and flat found more than 100 grams of cocaine and tablets, and does not mention the pink powder that the police statement described.
 media:
   - kind: video
     url: https://zsaruhirek.hu/bunugyek/kabitoszer/2026/11/06/ruh-zat-helyett-tobb-kilogramm-kabitoszert-rejtett-a-portugaliabol-erkezett-csomag/
@@ -101,10 +108,10 @@ earlier offence. [@1,3,4] Investigators detained both men. [@1,3,4] Rapid drug t
 the two men were both positive, indicating cocaine in one of them and
 amphetamine in the other. [@1,2,4] Both men were questioned on suspicion of the
 felony of drug trafficking and then taken into custody, and the court ordered
-their detention at the police's request. [@1,2,4]
+their detention at the police's request. [@1,2,4,5]
 
 The parcel had been stopped at a Budapest control on 28 October after being
-declared only with the Portuguese word “roupas”, meaning clothing. [@1,2,4] Inside,
+declared only with the Portuguese word “roupas”, meaning clothing. [@1,2,4,5] Inside,
 the authorities found more than 2 kilograms of green plant material that rapid
 testing and a preliminary expert examination identified as marijuana. [@1,3,4]
 Police then searched the Chinese man's car and flat, seizing more than 100 grams
