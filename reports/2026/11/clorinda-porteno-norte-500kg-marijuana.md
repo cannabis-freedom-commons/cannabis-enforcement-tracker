@@ -64,6 +64,11 @@ sources:
     publisher: Diario Formosa
     date: 2026-11-08
     language: es
+  - title: El aporte de los vecinos y las tareas de inteligencia permitieron llegar hasta una vivienda donde secuestraron la droga
+    url: https://www.instagram.com/p/DfdkO1pFsPE/
+    publisher: agenfornoticias
+    date: 2026-11-07
+    language: es
 open_questions:
   - The 500 kilograms is described as approximately 500 kilograms after weighing, not an exact measured figure.
   - No arrest was reported; the police release says the investigation continues to establish who is responsible.
@@ -75,11 +80,13 @@ open_questions:
   - All three accessible accounts reproduce the same provincial police release, so they are not independent reporting.
   - The Diario Exprés photo is captioned only with the story headline and gives no credit, so it is not confirmed to show this seizure.
   - The provincial page carries four further uncaptioned photos that were not listed individually; what they depict is not stated.
+  - The Instagram photos' captions do not confirm they show this seizure, so no media entry is listed.
+  - The post gives no separate event date beyond its 7 November 2026 publication; the incident date follows the existing report.
 ---
 
 Officers of Unidad Regional Tres, the Formosa provincial police command based in
 Clorinda, searched a house on Santiago Derqui street in the Porteño Norte
-neighbourhood and seized about 500 kilograms of marijuana. [@1]
+neighbourhood and seized about 500 kilograms of marijuana. [@1,4]
 
 The case began in the early hours of Friday when neighbours reported a motorised
 cargo cart, a motocarga, speeding through internal streets of the neighbourhood
@@ -94,7 +101,7 @@ material. [@2] The load was moved to the Unidad Regional Tres headquarters,
 where field tests were positive for marijuana and weighing put the total at
 about 500 kilograms. [@2] Police estimated the load was more than 1,400,000
 doses destined for consumers. [@2] Diario Exprés put the value of the drug at
-more than 1,850,000 pesos, without saying whose estimate it is. [@1] The federal
+more than 1,850,000 pesos, without saying whose estimate it is. [@1,4] The federal
 courts were notified of the seizure and officers of the Scientific Police and
 the General Directorate of Dangerous Drugs took part. [@2]
 
@@ -102,4 +109,3 @@ Police said the investigation was continuing to establish where the drug came
 from, identify those responsible and find possible links to other storage and
 distribution points. [@1] None of the three accounts reported an arrest in the
 case. [@3]
-
