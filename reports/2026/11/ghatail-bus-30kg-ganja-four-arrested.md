@@ -58,6 +58,11 @@ sources:
     publisher: NAGORIK TV
     date: 2026-11-04
     language: bn
+  - title: ঘাটাইলে এসআরবির অভিযানে গাঁজাসহ চার মাদক কারবারি গ্রেপ্তার
+    url: https://www.agrajatrapratidin.com/crime/news/28706
+    publisher: Agrajatra Pratidin
+    date: 2026-11-04
+    language: bn
 open_questions:
   - The checkpoint took place on Tuesday night and was announced on 4 November 2026; 3 November 2026 is used as the incident date.
   - No value, weight beyond the 30 kg of ganja, or court outcome beyond the case filed at Ghatail Police Station was reported.
@@ -70,17 +75,20 @@ open_questions:
   - The page names the bus Akand Express (আকন্দ এক্সপ্রেস), a spelling variant of the Akanda Express named in the report.
   - The press release is attributed to SRB-14 media officer Nadia Farzana, whereas the existing report credits the announcement to SRB-14 Company 3 commander Md Shamsur Rahman.
   - The page's lead image is captioned only 'tangail' and does not establish that it shows this seizure, so no media entry is added.
+  - The page gives the arrest time as about 10:05 pm on 3 November, while other accounts describe the checkpoint only as Tuesday night.
+  - The page's lead image repeats the headline as its caption and does not establish that it shows this seizure, so no media entry is added.
+  - A Kalbela report of the same SRB-14 press release could not be opened for this check and is not cited.
 ---
 
 Officers of Special Response Battalion-14 arrested four suspected drug traders
-after searching a long-distance passenger bus in Ghatail, Tangail. [@1,2,3,4] The
+after searching a long-distance passenger bus in Ghatail, Tangail. [@1,2,3,4,5] The
 detainees were named as 25-year-old Sakibul Hasan Roni and 30-year-old Md Raihan
 Uddin of Habiganj, 38-year-old Sonia of Narayanganj and 28-year-old Bonna Akter
 of Pirojpur. [@1,2,3,4] An SRB member filed a case against them at Ghatail Police
 Station, and officers handed the four over to Ghatail police. [@1,3]
 
 Officers said they recovered 30 kg of ganja, wrapped in polythene and hidden
-inside three travel bags kept in the bus luggage box. [@1,2,3,4] The bus, the
+inside three travel bags kept in the bus luggage box. [@1,2,3,4,5] The bus, the
 Mymensingh-to-Panchagarh Akanda Express, was stopped at a special checkpoint set
 up in front of the Kadamtali LPG filling station on Tuesday night, when
 suspicious passengers were taken off and searched closely. [@1,2,3] Officers also
@@ -92,3 +100,5 @@ collected illegal ganja from border areas and other parts of the country while
 posing as passengers and supplied it to different regions. [@1,3,4]
 
 The checkpoint in front of the Kadamtali LPG filling station was set up on a tip-off, and officers stopped the Mymensingh-bound bus and took passengers off to search them. [@4] The announcement was a press release signed by SRB-14 media officer Nadia Farzana, issued at noon on Wednesday, 4 November. [@4]
+
+The checkpoint in front of the Kadamtali LPG filling station was set up on a tip-off, and officers were searching different vehicles on the road. [@5]
