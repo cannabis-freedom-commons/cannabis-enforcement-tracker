@@ -59,6 +59,21 @@ sources:
     publisher: TgPadova
     date: 2026-11-04
     language: it
+  - title: 'Marijuana contaminata con droghe sintetiche: scatta il sequestro'
+    url: https://ilgiornalepopolare.it/marijuana-contaminata-con-droghe-sintetiche-scatta-il-sequestro/
+    publisher: POP - Il Giornale Popolare
+    date: 2026-11-04
+    language: it
+  - title: Padova, aspettava 12 chili di marijuana "adulterata" ma il pacco glielo consegna la guardia di finanza
+    url: https://www.tgcom24.mediaset.it/cronaca/padova-marijuana-adulterata-consegna-guardia-di-finanza_118577541-202602k.shtml
+    publisher: Tgcom24
+    date: 2026-11-04
+    language: it
+  - title: 'Marijuana con cannabinoidi sintetici: se ne fa spedire 12 chili dalla Repubblica Ceca, ma il corriere arriva insieme alla guardia di finanza'
+    url: https://www.ilgazzettino.it/nordest/padova/marijuana_12_chili_spedizione_repubblica_ceca_corriere_finanza-9868260.html
+    publisher: Il Gazzettino
+    date: 2026-11-04
+    language: it
 open_questions:
   - No separate date for the checks, controlled delivery or home search was published; 4 November 2026 is the publication date used as the incident date.
   - The 12 kg parcel quantity is excluded from cannabis figures because tests showed low THC with MDMB-4en-PINACA and the plant base described as a vehicle for synthetic drugs.
@@ -70,28 +85,34 @@ open_questions:
   - The La Piazza Web page carries a photo captioned for this seizure without a stated credit, which does not by itself establish that it shows this seizure, so no media entry is added.
   - 'Left out, as its quotation was not found in Nordest24: Officers then ran a controlled delivery, letting the parcel reach its recipient, a resident of the lower Padua area who acknowledged and collected it and was searched in flagrante.'
   - 'Left out, as its quotation was not found in Nordest24: The Guardia di Finanza describes this as a dangerous evolution in which plant bases are used to carry undeclared synthetic drugs, warning that low-THC products can conceal highly dangerous substances.'
+  - Tgcom24 gives the estimate of more than 100,000 euros for the 12 kg parcel without saying whose valuation it is; the figure is not stored in the structured value field.
+  - Only Tgcom24 and Il Gazzettino state new details here; the other accounts, including GrNet, Il Mattino di Padova and the submitted page, reproduce the same Guardia di Finanza press note.
+  - The GrNet page publishes two uncaptioned Guardia di Finanza handout stills and labels one a video of the statement, but nothing in the page confirms what the images depict.
+  - 'Left out, as its quotation was not found in Tgcom24: Tgcom24 put the estimated market value of the 12 kg parcel at more than 100,000 euros.'
 ---
 
 Padua provincial Guardia di Finanza officers, coordinated by the local
 prosecutor, reported a Padua man as the recipient of a 12 kg shipment of
-marijuana described as laced with latest-generation synthetic cannabinoids. [@1,3,4,5]
+marijuana described as laced with latest-generation synthetic cannabinoids. [@1,3,4,5,6]
 The case is in the preliminary-investigation phase and the suspect must be
-presumed not guilty until any final conviction. [@1,4] Investigators traced the
+presumed not guilty until any final conviction. [@1,4,7] Investigators traced the
 case to checks on foreign parcels at a shipping company, where dog units
 signalled a suspect parcel from the Czech Republic that was opened with judicial
-authorisation to reveal 12 kg of marijuana. [@1,3,4,5] Officers then ran a controlled
+authorisation to reveal 12 kg of marijuana. [@1,3,4,5,6] Officers then ran a controlled
 delivery, letting the parcel reach its recipient, a resident of the lower Padua
-area who acknowledged and collected it and was searched in flagrante. [@1,3,5]
+area who acknowledged and collected it and was searched in flagrante. [@1,3,5,6]
 
 At the suspect's home officers seized 155 grams of hashish and 85 grams of
 marijuana, with two precision scales and a handwritten agenda recording money
-exchanges that in the prosecution hypothesis point to dealing. [@2,3,4,5] Initial
+exchanges that in the prosecution hypothesis point to dealing. [@2,3,4,5,6] Initial
 tests on the parcel material showed low THC, but deeper forensic toxicology
 tests in Padua found MDMB-4en-PINACA, a highly potent synthetic cannabinoid, so
-the 12 kg bulk quantity is not counted in the cannabis total recorded here. [@1,3,5]
+the 12 kg bulk quantity is not counted in the cannabis total recorded here. [@1,3,5,6]
 
 The Guardia di Finanza describes this as a dangerous evolution in which plant
 bases are used to carry undeclared synthetic drugs, warning that low-THC
-products can conceal highly dangerous substances. [@1,5] The command says its 2026
+products can conceal highly dangerous substances. [@1,5,6] The command says its 2026
 operations in this sector had already led to seizures of more than 400 kg of
 narcotics. [@1,3,5]
+
+The parcel was delivered to the suspect's flat in a village of the Basso Padovano, the lower-Padua plain south of the city. [@8]
