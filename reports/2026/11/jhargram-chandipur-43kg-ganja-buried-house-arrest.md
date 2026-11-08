@@ -59,6 +59,10 @@ sources:
     publisher: Sangbad Pratidin
     date: 2026-11-08
     language: bn
+  - title: Huge quantities of marijuana and other narcotics substances recovered from two places in Bengal; two held
+    url: https://www.socialnews.xyz/2026/11/08/huge-quantities-of-marijuana-and-other-narcotics-substances-recovered-from-two-places-in-bengal-two-held/
+    publisher: SocialNews.XYZ
+    date: 2026-11-08
 open_questions:
   - The article is dated 8 November 2026, a Sunday, and says the raid happened on Saturday night; 7 November 2026 is used as the incident date.
   - No valuation of the seized ganja was published.
@@ -72,10 +76,13 @@ open_questions:
   - Sangbad Pratidin dates the earlier Binpur recovery and the 36 kg Khargpur-Chichira national highway haul to Friday and Wednesday nights without calendar dates; those are separate events left out here.
   - The same Sangbad Pratidin article reports a further recent Lalgarh Baitha case in which a woman was arrested with 3 kg of ganja, which is a different event covered by its own report.
   - Several of this page's Bengali sentences describing the search, the buried sacks, the weight and the SDPO's statement could not be matched by the service's quotation check, so only the campaign sentence is attached as a citation; the page is otherwise the same account as the Anandabazar report already cited.
+  - This account puts the raid early on Sunday 8 November 2026, while the reports already cited describe a search on Saturday night; the earlier incident date of 7 November 2026 is kept.
+  - The account names the householder Biswajit Shil, transliterated as Biswajit Sheel in the reports already cited, and the officer as SDPO Rishabhraj Dev rather than Rishabhraj Deb.
+  - No independent agency statement on the Jhargram search was opened; this page is an IANS wire text republished by SocialNews.XYZ, so it does not add a separate police source.
 ---
 
 Police in Jhargram searched the house of Biswajit Sheel in Chandipur village in
-the Shalboni area of Jhargram police station. [@1] Acting on a secret tip-off,
+the Shalboni area of Jhargram police station. [@1,4] Acting on a secret tip-off,
 officers raided the house on Saturday night. [@1] After searching the house
 thoroughly they found nothing at first. [@1] The soil of the room's floor made
 police suspicious. [@1] They then began digging up the earth. [@1] After digging
@@ -83,12 +90,12 @@ only a short distance, police reached three sacks. [@1] They pulled the sacks
 out from under the soil, and when they opened them kilo upon kilo of ganja
 spilled out. [@1]
 
-Police said the three sacks together held 43 kg 222 g of ganja. [@1] The sacks
-of ganja were seized. [@1] The operation was carried out on Saturday night in
+Police said the three sacks together held 43 kg 222 g of ganja. [@1,4] The sacks
+of ganja were seized. [@1,4] The operation was carried out on Saturday night in
 the presence of Jhargram police station inspector-in-charge Udayshankar Ghosh
 and Jhargram block joint BDO Souvik Pramanik. [@1] Jhargram SDPO Rishabhraj Deb
 said Biswajit was arrested under sections of the NDPS Act, India's
-anti-narcotics law. [@1]
+anti-narcotics law. [@1,4]
 
 People in the area are used to ganja being recovered from searches of stopped
 trucks, buses, cars and motorbikes. [@1] Many cannot recall a recent case of
@@ -97,3 +104,5 @@ At the district police's initiative an anti-drug campaign is being run across
 Jhargram. [@1,3]
 
 The house was a very plain thatched dwelling with uneven brick walls, a temporary shack of a roof and an earthen floor. [@2]
+
+The search took place early in the morning, and the account came from an officer of Jhargram police station and the Jhargram sub-divisional police officer. [@4] The same account puts the raid and the recovery on Sunday 8 November 2026, saying the house search happened early that morning. [@4]
