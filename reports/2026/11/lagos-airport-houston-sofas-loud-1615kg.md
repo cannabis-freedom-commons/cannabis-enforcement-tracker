@@ -70,6 +70,10 @@ sources:
     url: https://www.ndlea.gov.ng/blog/ugandan-woman-in-nigeria-for-crusade-arrested-with-87-cocaine-wraps-in-private-part
     publisher: National Drug Law Enforcement Agency
     date: 2026-11-08
+  - title: NDLEA Arrests Woman Who Came To Nigeria For Crusade With 87 Cocaine Wraps
+    url: https://www.thenigerianvoice.com/news/376279/ndlea-arrests-woman-who-came-to-nigeria-for-crusade-with-87.html
+    publisher: Nigerian Voice
+    date: 2026-11-08
 open_questions:
   - Whether the freight agent and the caterer were charged or remained in custody was not reported.
   - The sources do not say whether the named friend Taiwo Anuoluwapo Olusegun was arrested or questioned.
@@ -96,7 +100,7 @@ wooden sofas in a cargo shipment from Houston, United States. [@3,7]
 Freight agent Ibrahim Abdulwaheed Adewale, who came forward to clear the
 consignment, was taken into custody. [@1,4,5,6,7] In a follow-up operation on Friday 6
 November 2026, 34-year-old caterer Adeoye Sarafa Ojo from Ibadan, Oyo state, was
-arrested when he walked in to collect the package. [@1,4,5,8] Adeoye claimed he was
+arrested when he walked in to collect the package. [@1,4,5,8,9] Adeoye claimed he was
 sent by a friend, Taiwo Anuoluwapo Olusegun. [@1,4,5,7] The NDLEA statement also
 records the 6 November follow-up arrest of the 34-year-old caterer from Ibadan
 who came to collect the package. [@2]
