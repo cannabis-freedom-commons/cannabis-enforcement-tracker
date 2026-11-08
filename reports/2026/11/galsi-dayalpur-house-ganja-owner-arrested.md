@@ -49,20 +49,26 @@ sources:
     publisher: Ei Samay
     date: 2026-11-02
     language: bn
+  - title: দয়ালপুরে উদ্ধার ২কেজির বেশি গাঁজা, গ্রেপ্তার মালিক
+    url: https://eisamay.com/samay-shorts/galsi-dayalpur-house-cannabis-seized-owner-arrested/200561643.cms
+    publisher: Ei Samay
+    date: 2026-11-02
+    language: bn
 open_questions:
   - The only date in the account is the day of the week (Monday); no separate day is given, so 2 November 2026, the publication date, is used as the incident date.
   - Only one accessible source for the event was found; searches in Bengali turned up only social-media posts of the same story, which could not be opened.
   - The account does not say whether a case was registered, under which law, or whether the arrested owner was produced in court.
   - No value for the seized ganja and no information on where it came from was published.
   - 'The page picture is credited only as photo: Ei Samay and no caption confirms it shows this seizure.'
+  - The submitted desktop page and the AMP page cited in the report are the same Ei Samay article, so they are not independent accounts of the raid.
+  - Only two of the report's sentences are mapped to the new citation here; the remaining Bengali sentences contain characters that could not be quoted verbatim in this run.
 ---
 
 Police searched a two-storey house in Dayalpur village, in the Galsi police
 station area of Purba Bardhaman district, West Bengal, and recovered 2 kg 204 g
-of ganja. [@1] Officers acted on a tip-off and carried out the search at about 3
+of ganja. [@1,2] Officers acted on a tip-off and carried out the search at about 3
 pm on Monday. [@1]
 
 The ganja was found in two polythene-wrapped packets in the corner of an
-upper-floor room. [@1] Police arrested the owner of the house, Sheikh Atiyar
+upper-floor room. [@1,2] Police arrested the owner of the house, Sheikh Atiyar
 Rahman, over the find. [@1] The seizure caused a stir in the area. [@1]
-
