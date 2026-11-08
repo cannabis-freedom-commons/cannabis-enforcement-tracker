@@ -206,6 +206,11 @@ sources:
     publisher: Aapla Mahanagar
     date: 2026-11-07
     language: mr
+  - title: 'Live Update : बीड - गेवराईतील संजय नगर भागात गॅसच्या टाक्यांचा स्फोट'
+    url: https://m.dailyhunt.in/news/india/marathi/aapla+mahanagar-epaper-mymaha/live+update+bid+masnoj-jarange-patil-vaibhav-chavhanachya-kutumbiyanchya-bhetila-newsid-n733027360
+    publisher: Dailyhunt (Aapla Mahanagar)
+    date: 2026-11-07
+    language: mr
 open_questions:
   - The passenger's name, age and residence were not published.
   - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
@@ -265,6 +270,9 @@ open_questions:
   - The video's cover image is a headline composite rather than a confirmed photograph of this seizure, so no media entry is added.
   - The item does not say which Customs office or officers carried out the interception.
   - The live-update page lists the Pune airport seizure item without a separate date beyond its position in the 7 November 2026 roundup, so it is treated as a restatement of the 4 November seizure, not a second incident.
+  - The feed entry carries no date of its own beyond its position in the 7 November 2026 roundup and gives no airport terminal, Customs unit, quantity in grams or court detail, so it adds no new facts beyond the substance name, weight and value already recorded.
+  - The page mixes the Beed LPG blast, the Pune airport seizure and other unrelated Marathi news briefs; only the Pune airport seizure component is treated as cannabis evidence.
+  - The page's only image illustrates the Beed gas explosion and is not a picture of the seizure, so no media entry is added.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national
@@ -281,7 +289,7 @@ vacuum-sealed black polythene to mask detection. [@2,8,10,11,12,22,23,24] On ope
 held yellowish-green dried floral tops emitting a strong pungent odour, which a
 narcotic-drug field testing kit confirmed as marijuana/ganja hydroponic weed.
 [@2,11,12,16,19,23] The consignment weighed 10.642 kilograms, which Customs valued at Rs 3.72
-crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20,21,23,25,27,30]
+crore. [@2,4,5,7,8,9,10,11,12,14,15,16,17,18,19,20,21,23,25,27,30,31]
 
 Customs seized the weed along with its packing materials under the Narcotic
 Drugs and Psychotropic Substances Act, 1985. [@1,8,12,13,16,19,23] The passenger was arrested and
