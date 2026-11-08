@@ -139,6 +139,11 @@ sources:
     publisher: RethNea.gr - Ρεθεμνιώτικα Νέα
     date: 2026-11-07
     language: el
+  - title: 'Χανιά: Την Πέμπτη απολογείται ο 26χρονος που συνελήφθη με πάνω από 1 κιλό κοκαΐνης'
+    url: https://fonimaleviziou.gr/2026/11/08/chania-tin-pebti-apologeitai-o-26chronos-pou-synelifthi-me-pano-apo-1-kilo-kokainis/
+    publisher: Φωνή Μαλεβιζίου
+    date: 2026-11-08
+    language: el
 open_questions:
   - The exact village in the Municipality of Apokoronas is not named, so district coordinates are used.
   - The sources call the cannabis only 'kannavi' without saying whether it is herbal or resin, or whether it was for sale.
@@ -173,19 +178,21 @@ open_questions:
   - Documento News gives the arrest as in an area of the Municipality of Apokoronas but, unlike Πρώτο Θέμα, does not name Nipos.
   - Πρώτο Θέμα lists the handwritten note among the seized items but does not say whether it was found at the house or at one of the storage places.
   - 'Left out, as its quotation was not found in Documento News: Police in the Municipality of Apokoronas, Chania, on Crete arrested a 26-year-old Greek man on the morning of 7 November 2026 after searches of his home and of storage places he used.'
+  - The page gives no exact date for the Thursday defence statement; it reproduces the same information already recorded from Cretalive and zarpanews.gr.
+  - The outlet credits cretalive.gr as its source and reproduces the same Chania police announcement, so it is not an independent account of the raid.
 ---
 
 Police in the Municipality of Apokoronas, Chania, on Crete arrested a
 26-year-old Greek man on the morning of 7 November 2026 after searches of his
 home and of storage places he used. [@1,4,6,9,11] The searches were made in the house and
 in places the 26-year-old used as storage points, which the accounts call
-kavatzas, a Greek term for a hiding place or stash. [@2,10,13,17]
+kavatzas, a Greek term for a hiding place or stash. [@2,10,13,17,18]
 
 The searches found and seized 96.8 grams of cannabis, which is the only cannabis
-quantity the accounts give. [@1,5,6,7,9,12,13,15,17] Police also seized 1 kilo and 173.1 grams of
+quantity the accounts give. [@1,5,6,7,9,12,13,15,17,18] Police also seized 1 kilo and 173.1 grams of
 cocaine in 14 improvised packages, a quantity that is not counted as cannabis
 here. [@1,5,6] Officers seized 15,500 euros that police said came from criminal
-activity. [@1,4] The accounts also list a weighing scale, three mobile phones and
+activity. [@1,4,18] The accounts also list a weighing scale, three mobile phones and
 a private car seized as a means of facilitating the alleged crime. [@1]
 
 The man was arrested for offences under the drug laws and was to be taken before
@@ -196,7 +203,7 @@ The cannabis the man was found with was raw cannabis, the herb rather than resin
 
 Rethemnos Live, reproducing the same Chania police announcement, describes the arrested 26-year-old as an ethnic Greek national (ημεδαπός). [@1]
 
-The man was led before the judicial authorities on Sunday 8 November 2026, the day after his arrest. [@14,16] He asked for and was granted a postponement to make his defence statement on Thursday. [@14,15] The police investigation into the case continued while he awaited his appearance. [@14,15]
+The man was led before the judicial authorities on Sunday 8 November 2026, the day after his arrest. [@14,16,18] He asked for and was granted a postponement to make his defence statement on Thursday. [@14,15,18] The police investigation into the case continued while he awaited his appearance. [@14,15]
 
 According to information from zarpanews.gr, the 26-year-old was to appear before the Chania investigating judge (ανακριτής, the judge who leads the pretrial inquiry) on Thursday to give his statement. [@15] Before the operation the police of the Chania sub-directorate for the detection and investigation of crimes (Ασφάλεια) had followed the young man's movements by car, and no other people were identified during the surveillance. [@15] During the surveillance no other people connected with his movements were identified. [@15]
 
