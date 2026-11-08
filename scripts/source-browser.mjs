@@ -128,7 +128,52 @@ export function extractSourcePage() {
     // In that case, the body is safer than an unrelated article card.
     ...(headline ? [document.body] : articles), document.body];
   const content = candidates.find(element => (element?.innerText || "").trim().length >= 200) || document.body;
-  const text = (content?.innerText || "").trim();
+  let text = (content?.innerText || "").trim();
+  // Web-component sites (MSN, for example) render the article inside open shadow roots, which
+  // innerText and the HTML clone never see. When the light DOM has too little text or no headline
+  // matching the title (only a cookie banner, say), read the rendered composed tree instead,
+  // anchored to the visible headline: MSN stacks the next stories of an endless feed under the
+  // article, so the whole body would mix in other events.
+  if (text.length < 200 || !(headline && headlineScore(headline))) {
+    const block = /^(address|article|aside|blockquote|body|br|dd|div|dl|dt|figcaption|figure|footer|h[1-6]|header|hr|li|main|ol|p|pre|section|table|tr|ul)$/;
+    const composedText = root => {
+      const parts = [];
+      const walk = node => {
+        if (node.nodeType === Node.TEXT_NODE) { parts.push(node.data); return; }
+        if (node.nodeType === Node.DOCUMENT_FRAGMENT_NODE) { node.childNodes.forEach(walk); return; }
+        if (node.nodeType !== Node.ELEMENT_NODE || /^(script|style|noscript|template|svg)$/.test(node.localName)) return;
+        if (node.checkVisibility && !node.checkVisibility({ visibilityProperty: true })) return;
+        if (node.localName === "slot") { const assigned = node.assignedNodes({ flatten: true }); (assigned.length ? assigned : [...node.childNodes]).forEach(walk); return; }
+        const isBlock = block.test(node.localName);
+        if (isBlock) parts.push("\n");
+        // a host renders its shadow tree; its own children appear only through that tree's slots
+        (node.shadowRoot ? node.shadowRoot.childNodes : node.childNodes).forEach(walk);
+        if (isBlock) parts.push("\n");
+      };
+      walk(root);
+      return parts.join("").replace(/[ \t\r\f\v ]+/g, " ").replace(/ ?\n[\s]*/g, "\n").trim();
+    };
+    const deep = [];
+    const collect = root => { for (const element of root.querySelectorAll("*")) { deep.push(element); if (element.shadowRoot) collect(element.shadowRoot); } };
+    collect(document);
+    if (deep.some(element => element.shadowRoot)) {
+      const parent = element => element.parentElement || element.getRootNode()?.host || null;
+      const shown = element => element.getClientRects().length && !element.closest(unrelated);
+      const deepHeadline = deep.filter(element => element.localName === "h1" && shown(element)).sort((a, b) => headlineScore(b) - headlineScore(a))[0];
+      let found = "";
+      // the smallest container around the headline that holds the article, not just its byline
+      for (let element = deepHeadline && headlineScore(deepHeadline) ? deepHeadline : null; element && !found; element = parent(element)) {
+        const candidate = composedText(element);
+        if (candidate.length >= 500) found = candidate;
+      }
+      if (!found && text.length < 200) {
+        const largest = deep.filter(element => /^(article|main)$/.test(element.localName) && shown(element)).map(composedText).sort((a, b) => b.length - a.length)[0] || "";
+        found = largest.length >= 200 ? largest : composedText(document.body);
+      }
+      // a headline-anchored article beats unanchored light-DOM text of any length
+      if (found.length >= 200 && (deepHeadline && headlineScore(deepHeadline) || found.length > text.length)) text = found;
+    }
+  }
   const clone = document.documentElement.cloneNode(true);
   clone.querySelectorAll("script, style, noscript, svg").forEach(element => element.remove());
   return { text, content: "<!doctype html>\n" + clone.outerHTML, metadata, height: document.documentElement.scrollHeight };

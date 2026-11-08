@@ -31,6 +31,37 @@ test("source extraction follows the story rather than the first article preview 
   } finally { await browser.close(); }
 });
 
+test("source extraction reads articles rendered in shadow DOM without the next feed story", { skip: !browserAvailable }, async () => {
+  const browser = await chromium.launch({ channel: "chromium", headless: true });
+  try {
+    const page = await browser.newPage();
+    const story = "Investigators searched several flats and found an illegal cannabis grow and weapons. ".repeat(6);
+    const next = "An unrelated story about a football match follows in the endless feed. ".repeat(10);
+    const banner = "We and our partners use cookies to store and access personal data on your device. ".repeat(4);
+    // MSN-like: the headline sits in one component, the body in a nested article component, and
+    // the next story is appended below; only a cookie dialog is in the light DOM.
+    await page.setContent(`<html><head><title>Big cannabis raid in the district</title></head><body>
+      <div id="banner"><h1>Your privacy</h1><p>${banner}</p></div><feed-page></feed-page></body></html>`);
+    await page.evaluate(([story, next]) => {
+      const attach = (host, html) => { host.attachShadow({ mode: "open" }).innerHTML = html; return host.shadowRoot; };
+      const feed = attach(document.querySelector("feed-page"), `<div class="story" id="one"><views-header></views-header><article-body></article-body></div><div class="story" id="two"><views-header></views-header><article-body></article-body></div>`);
+      attach(feed.querySelector("#one views-header"), "<h1>Big cannabis raid in the district</h1><span>2 days ago</span>");
+      attach(feed.querySelector("#one article-body"), `<article><slot></slot><p>${story}</p><p hidden>Paywalled detail</p></article>`);
+      attach(feed.querySelector("#two views-header"), "<h1>Football result</h1>");
+      attach(feed.querySelector("#two article-body"), `<article><p>${next}</p></article>`);
+    }, [story, next]);
+    const result = await page.evaluate(extractSourcePage);
+    assert.ok(result.text.includes("Big cannabis raid in the district"), result.text);
+    assert.ok(result.text.includes(story.trim()), result.text);
+    assert.ok(!result.text.includes("endless feed"), "mixed in the next feed story");
+    assert.ok(!result.text.includes("cookies"), "kept the cookie banner instead of the article");
+    assert.ok(!result.text.includes("Paywalled detail"), "hidden shadow content became evidence");
+    // with the banner refused, as in a real capture
+    await page.evaluate(() => document.querySelector("#banner").remove());
+    assert.ok((await page.evaluate(extractSourcePage)).text.includes(story.trim()));
+  } finally { await browser.close(); }
+});
+
 test("Playwright captures JavaScript text, SEO metadata, redirects and screenshots through the proxy", { skip: !browserAvailable, timeout: 45000 }, async () => {
   const dir = await fs.mkdtemp(path.join(os.tmpdir(), "tracker-source-fixture-"));
   const requests = [];
