@@ -47,6 +47,11 @@ sources:
     url: https://sandesh.com/gujarat/news/ahmedabad/188-ndps-cases-in-10-months-286-arrested-drugs-worth-42-crore-seized
     publisher: Sandesh
     language: gu
+  - title: Drugs worth Rs 42 crore seized from Ahmedabad in 10 months
+    url: https://www.divyabhaskar.co.in/local/gujarat/ahmedabad/news/drugs-worth-rs-42-crore-seized-from-ahmedabad-in-10-months-dbp-139606886.html
+    publisher: Divya Bhaskar
+    date: 2026-11-06
+    language: gu
 open_questions:
   - The article gives no separate date for the tally; 6 November 2026 is its publication date and is used as the incident date.
   - The Rs 42 crore valuation, the 286 arrests and the 188 cases cover all narcotics, not cannabis alone, and no cannabis-only share was published.
@@ -55,12 +60,14 @@ open_questions:
   - The separate lines on the SOG's Rs 7 crore hybrid ganja case, the joint operation with Surat crime branch, Gujarat police's Rs 3,000 crore statewide seizure and the supply-point descriptions are background from the same article and are not counted in this report's figures.
   - No charges, convictions or court outcomes for the 188 cases were reported.
   - The submitted page's lead photograph carries only a headline caption and no credit, so no media entry was added.
+  - The preview text of this page carries only the aggregate ten-month tally and does not state the period's start or end month.
+  - No cannabis-only weight, plant count or number of cannabis cases was visible on this page, so the tally remains unseparated from other narcotics.
 ---
 
 Ahmedabad city police registered 188 cases under the Narcotic Drugs and
 Psychotropic Substances Act, India's main narcotics law, in the first ten months
-of 2026 and arrested 286 people in them. [@1] Police valued the drugs seized
-across those cases at more than Rs 42 crore. [@2] Local police stations, the
+of 2026 and arrested 286 people in them. [@1,3] Police valued the drugs seized
+across those cases at more than Rs 42 crore. [@2,3] Local police stations, the
 crime branch, the Special Operations Group and the anti-narcotics cells carried
 out the action together. [@1] The city's NDPS caseload was 240 per cent higher
 than in 2025, when 55 cases were registered, 90 people arrested and property
@@ -77,4 +84,3 @@ area. [@1]
 
 Police said rehabilitation work was under way for more than 200 people who use
 drugs, alongside 102 awareness programmes held this year. [@1]
-
