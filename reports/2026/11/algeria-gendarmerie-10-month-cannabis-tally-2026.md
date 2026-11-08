@@ -54,6 +54,11 @@ sources:
     publisher: جريدة النصر الإلكترونية
     date: 2026-11-07
     language: ar
+  - title: 'مسؤول عسكري جزائري: المخدرات تسببت في سجن أكثر من 5 آلاف شخص خلال 9 أشهر'
+    url: https://www.alquds.co.uk/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D8%A8%D8%A8%D8%AA-%D9%81%D9%8A-%D8%B3/
+    publisher: القدس العربي
+    date: 2026-11-08
+    language: ar
 open_questions:
   - The 11-tonne kif figure is given as approximate (قرابة 11 طنا); the 27,270 kg cannabis total is the sum of that rounded figure and 16,270 kg of cannabis herb.
   - No date is given for any individual seizure; 7 November 2026 is the publication and announcement date and is used as the incident date for this 10-month tally.
@@ -69,6 +74,9 @@ open_questions:
   - Cocaine and psychotropic-tablet totals differ (337 kg versus 837 kg of cocaine; more than 13 million versus more than 13.6 million pregabalin plus other tablets) and are non-cannabis figures left out of the tracker totals.
   - Road-screening figures differ (167 tests with 152 positives and 162 traffic cases here, against 9,167 tests with 154 positives and 161 fatal plus 144 injury accidents in the existing report).
   - The submitted page lists only an unc captioned placeholder gif image with no event photo, so no media entry is added.
+  - Arrest and detention figures differ slightly from the existing report (25,200 versus 25,218 arrested; 5,224 versus 5,264 placed in detention); the existing figures are unchanged.
+  - Cannabis figures are given here as rounded amounts of more than 4,000 shrubs and 16,000 cannabis plants, against 4,162 shrubs and 16,270 kg of herb in the existing report.
+  - Cocaine and psychotropic-tablet totals differ (337 kg versus 837 kg of cocaine; more than 13 million versus more than 13.6 million pregabalin plus other tablets) and are non-cannabis figures left out of tracker totals.
 ---
 
 National Gendarmerie commander Maj. Gen. Ali Seydan said in Algiers that drugs
@@ -78,11 +86,11 @@ Seydan spoke alongside Justice Minister Lotfi Boujemaa at the opening of a
 national forum on the dimensions of drug use under traffic law 26-09, held at
 the National Army Club in Beni Messous. [@1,3] Gendarmerie units arrested 25,218
 people in the same effort, with 5,264 placed in detention, and dismantled 186
-networks specialising in drug trafficking. [@1,2,3]
+networks specialising in drug trafficking. [@1,2,3,4]
 
 During the first 10 months of 2026 the units seized about 11 tonnes of processed
-kif. [@1,2,3] In the same period they seized 16,270 kilograms of cannabis herb and
-4,162 cannabis shrubs. [@1,2,3] The same haul included 837 kilograms of cocaine,
+kif. [@1,2,3,4] In the same period they seized 16,270 kilograms of cannabis herb and
+4,162 cannabis shrubs. [@1,2,3,4] The same haul included 837 kilograms of cocaine,
 more than 13.6 million pregabalin tablets, 59,937 ecstasy tablets and 1,021,879
 other psychotropic tablets, which are not counted as cannabis. [@1]
 
