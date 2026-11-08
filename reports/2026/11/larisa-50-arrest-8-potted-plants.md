@@ -70,6 +70,11 @@ sources:
     publisher: Pieria24
     date: 2026-11-06
     language: el
+  - title: Είχε στο σπίτι του 8 δενδρύλλια κάνναβης έως 3,3μ. - Fonografos.net
+    url: https://fonografos.net/eiche-sto-spiti-tou-8-dendryllia-kannavis-eos-33m/
+    publisher: Fonografos.net
+    date: 2026-11-07
+    language: el
 open_questions:
   - No separate charge is named beyond the drugs and weapons laws, and no court outcome was reported after the trip to the prosecutor.
   - The reports do not say whether the 116 grams and the plants were intended for sale; only cultivation and possession are recorded.
@@ -78,21 +83,23 @@ open_questions:
   - The photo is published with the report but not separately captioned, so it is not established beyond doubt that it shows these plants and not an earlier seizure.
   - The release date of 6 November 2026 is inferred from the article's wording that he was released yesterday at midday, published on 7 November 2026.
   - The article gives no further detail on conditions of release, charges filed, or a future trial date.
+  - The page explicitly dates the arrest to 5 November 2026 but describes the house search as yesterday midday, which would be 6 November relative to its 7 November publication date; the existing report's 5 November date is retained.
+  - The page carries a photo image but gives no caption or credit identifying what it shows, so no media entry is made.
 ---
 
 Police arrested a 50-year-old Greek man at midday on 5 November 2026 in Larisa
-and opened a case against him under the drugs and weapons laws. [@1,4] Officers of
+and opened a case against him under the drugs and weapons laws. [@1,4,5] Officers of
 the Larisa drugs squad, acting on information gathered with police from the Agia
-police station, searched his home that day. [@1]
+police station, searched his home that day. [@1,5]
 
 In the house they found eight cannabis plants between 1.5 and 3.3 metres tall,
-each in its own pot, and uprooted them. [@1,3,4] They also seized two packages
-holding 116 grams of raw cannabis. [@1,4] Two further items were taken: a
-precision scale and 13 firearm cartridges. [@1,4]
+each in its own pot, and uprooted them. [@1,3,4,5] They also seized two packages
+holding 116 grams of raw cannabis. [@1,4,5] Two further items were taken: a
+precision scale and 13 firearm cartridges. [@1,4,5]
 
 The arrested man was taken to the prosecutor at the Larisa court of first
 instance, while the drugs squad of the Larisa crime investigation subdivision
-carried out the preliminary inquiry. [@1,4] A second Larisa outlet, ERT News,
+carried out the preliminary inquiry. [@1,4,5] A second Larisa outlet, ERT News,
 reported the same search and the same quantities the following morning. [@2]
 
 The 50-year-old man from Larissa was released at midday on 6 November 2026 after giving his apology statement to the investigating judge. [@3]
