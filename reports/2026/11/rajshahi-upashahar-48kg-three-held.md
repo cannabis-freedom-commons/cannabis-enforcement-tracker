@@ -86,6 +86,11 @@ sources:
     publisher: Daily Bangladesh Alo
     date: 2026-11-02
     language: bn
+  - title: উপশহরের নির্মাণাধীন ভবনে মিলল ৪৮ কেজি গাঁজা, আটক ৩
+    url: https://pkagoj.com/articles/637583
+    publisher: Pkagoj
+    date: 2026-11-02
+    language: bn
 open_questions:
   - Only the Amader Shomoy account of this event could be opened; no second outlet or agency statement was found.
   - The detentions are reported as detention and questioning, and whether formal arrests, charges or a court outcome followed is not reported.
@@ -109,11 +114,12 @@ open_questions:
   - 'The page''s lead photograph is captioned only as Photo: NewsG24 with no descriptive caption, so whether it shows this seizure could not be established and no media entry is added.'
   - The Ajker Bangladesh page carries a lead photograph whose caption only repeats the headline, so whether it shows this 48 kg seizure could not be established and no media entry is added.
   - The Daily Bangladesh Alo page carries a lead photograph whose caption only repeats the headline, so whether it shows this 48 kg seizure could not be established and no media entry is added.
+  - The page's lead photograph caption only repeats the headline, so whether it shows this 48 kg seizure could not be established and no media entry is added.
 ---
 
 Boalia Model Police detained three people in Rajshahi, including the
 construction firm's site engineer, after recovering 48 kg of ganja from a
-workers' room. [@1,6] The raid took place at about 3:30 pm on Sunday, 1 November,
+workers' room. [@1,6,9] The raid took place at about 3:30 pm on Sunday, 1 November,
 in a workers' tin-shed room in a Sarkar Builders under-construction building in
 Upashahar Sector 2. [@1,2,5,6,7] Police named the detained men as 24-year-old Sohir
 Islam of Bagdhani, 20-year-old Rayhan of Palpur Dharampur, and another Rayhan of
@@ -121,9 +127,9 @@ Chanduria who worked as Sarkar Builders' site engineer. [@1]
 
 Officers said they acted on secret information and broke the lock after those
 inside first refused to open the door for a search. [@1,6] Inside, officers found
-12 packets holding a total of 48 kg of ganja in two sacks. [@1,5,6] Police said the
+12 packets holding a total of 48 kg of ganja in two sacks. [@1,5,6,9] Police said the
 consignment had arrived by truck in three sacks, with one sack already sold and
-the remaining two intended to be moved elsewhere. [@1,6]
+the remaining two intended to be moved elsewhere. [@1,6,9]
 
 The three were taken to Boalia Model Police Station for questioning, with police
 saying further legal steps would follow after investigation and interrogation.
