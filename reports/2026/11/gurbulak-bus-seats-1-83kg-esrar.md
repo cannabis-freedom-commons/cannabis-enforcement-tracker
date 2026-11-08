@@ -62,6 +62,11 @@ sources:
     publisher: Haberport
     date: 2026-11-08
     language: tr
+  - title: 'Gürbulak sınır kapısında otobüste uyuşturucu baskını: 1.6 milyon lira değerinde esrar ele geçirildi'
+    url: https://www.haber365.com/haber/gurbulak-sinir-kapisinda-otobuste-uyusturucu-baskini-16-milyon-lira-degerinde-esrar-ele-gecirildi-480870
+    publisher: Haber365
+    date: 2026-11-08
+    language: tr
 open_questions:
   - No arrests or detentions are named in either account; the governorship says only that judicial proceedings continue.
   - Neither account says whether any passenger or the driver was identified, questioned or taken into custody, or what charges are being considered.
@@ -75,21 +80,33 @@ open_questions:
   - It names no authority as the source of the statement, unlike the governorship attribution recorded in other accounts of this event.
   - Haberport attributes the account to Gürbulak Gümrük Sahası (customs area) officials, while the existing sources cite the Doğubayazıt district governorship; both describe the same seizure and figures.
   - The Haberport page's only photo is captioned with the article headline and a recap of the seizure, with no credit and no confirmation that it shows the bus or the seized material.
+  - No arrests or detentions are reported; the text says only that judicial proceedings continue.
+  - The page names no authority as the source of the statement and repeats the figures published across Turkish outlets, so it is not an independent account.
+  - The headline rounds the value to '1.6 milyon lira' while the body gives about 1,647,000 lira; the body figure is used.
+  - The page's lead photo is captioned only with the headline and its alt text repeats the headline, so it is not added as media.
+media:
+  - kind: photo
+    url: https://www.haber365.com/haber/gurbulak-sinir-kapisinda-otobuste-uyusturucu-baskini-16-milyon-lira-degerinde-esrar-ele-gecirildi-480870
+    media_url: https://cdn.haber365.com/uploads/1280/images/news/fc5ea7ed-75f0-4a65-a81a-bb41ece51af1.jpg
+    publisher: Haber365
+    caption: 'Photo captioned with the finding at the Gürbulak border gate: 1 kg 830 g of esrar hidden in metal compartments under the seats of a bus entering from Iran. Photo: Haber365'
 ---
 
 Officers at the Gürbulak border crossing in Doğubayazıt, Ağrı, sent a bus
 arriving from Iran for X-ray screening under risk analysis on 8 November 2026.
-[@1,3,4,5] The scan showed suspicious density in some passenger seats, so the bus was
+[@1,3,4,5,6] The scan showed suspicious density in some passenger seats, so the bus was
 searched in detail. [@1,4,5]
 
 In metal compartments under the seat cushions, hidden with special fittings and
 wrapped in black bags, officers found 1 kg 830 g of esrar, the Turkish term for
-cannabis. [@1,3,4,5] Authorities put the cannabis's market value at about 1,647,000
+cannabis. [@1,3,4,5,6] Authorities put the cannabis's market value at about 1,647,000
 Turkish lira on 2026 figures. [@1,3,4,5]
 
 The account came in a statement by the Doğubayazıt district governorship, which
 said judicial proceedings in the case were continuing. [@1,3,4] The governorship
 said customs inspections at the Gürbulak customs area would continue as part of
-the fight against drug smuggling. [@1] The news agency İhlas Haber Ajansı
+the fight against drug smuggling. [@1,6] The news agency İhlas Haber Ajansı
 carried the same findings: a passenger bus from Iran, the hidden compartments
 and 1 kg 830 g of esrar worth about 1,647,000 lira. [@2]
+
+The article adds that the hiding place was detected with special equipment, and that the search was of a passenger bus that had entered Turkey from Iran. [@6]
