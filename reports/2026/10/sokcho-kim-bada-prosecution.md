@@ -46,15 +46,20 @@ sources:
     publisher: StarNews Korea
     date: 2026-10-28
     language: zh
+  - title: 'Marijuana recidivist Kim Ba-da: 3-year prison term sought a month after comeback announcement ... I''m deeply remorseful [full story]'
+    url: https://www.msn.com/en-xl/news/other/marijuana-recidivist-kim-ba-da-3-year-prison-term-sought-a-month-after-comeback-announcement-im-deeply-remorseful-full-story/ar-AA2ghRjB
+    publisher: Sports Chosun (via MSN)
+    date: 2026-10-29
 open_questions:
   - Sentencing is scheduled for 25 November 2026 at 2 p.m.; no outcome has been reported in the opened sources.
   - Neither opened English account states a weight for the cannabis Kim possessed or smoked.
   - The opened accounts do not give the Sokcho court case number.
   - This Chinese machine-translated version renders the arrest timing as “上月3月”, ambiguous on its own, so the March 2026 dating continues to rest on the existing English accounts.
   - The page image is captioned as a portrait of singer Kim Bada and is not established to show the hearing or seizure, so no media entry is included.
+  - This account names the presiding judge, Joo Cheol-hyeon, which the earlier sources did not.
 ---
 
-Kim Bada, the former vocalist of the rock band Sinawe, faced a final hearing on 28 October 2026 before Criminal Division 1 at the Sokcho Branch of the Chuncheon District Court on charges of violating the Narcotics Control Act for cannabis. [@1,2] Prosecutors sought a three-year prison term, forfeiture of seized items and an additional collection of 500,000 won. [@1,2,3] The court set sentencing for 2 p.m. on 25 November. [@1,2]
+Kim Bada, the former vocalist of the rock band Sinawe, faced a final hearing on 28 October 2026 before Criminal Division 1 at the Sokcho Branch of the Chuncheon District Court on charges of violating the Narcotics Control Act for cannabis. [@1,2,4] Prosecutors sought a three-year prison term, forfeiture of seized items and an additional collection of 500,000 won. [@1,2,3,4] The court set sentencing for 2 p.m. on 25 November. [@1,2]
 
 Police arrested the 54-year-old singer, whose legal name is Kim Jung-nam, in March 2026 on suspicion of possessing and smoking cannabis in downtown Sokcho on 8 March. [@1,2] The court rejected a detention warrant at the time, finding insufficient risk of flight or destruction of evidence. [@2,3] Kim admitted all the charges during police questioning. [@1]
 
