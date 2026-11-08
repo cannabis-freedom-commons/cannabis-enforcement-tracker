@@ -117,6 +117,11 @@ sources:
     publisher: İlkahber_Gazetesi
     date: 2026-11-07
     language: tr
+  - title: Adana'da iki adrese yapılan baskında 7 kilo 108 gram esrar bulundu
+    url: https://www.aksiyon.com.tr/adana-da-iki-adrese-yapilan-baskinda-7-kilo-108-gram-esrar-bulundu-390107/amp
+    publisher: Aksiyon
+    date: 2026-11-07
+    language: tr
 open_questions:
   - The reports give no separate date for the raids; 7 November 2026 is the publication date and is used as the incident date.
   - No charge, court step, suspect name or estimated value of the cannabis was published; the investigation was said to be continuing.
@@ -151,9 +156,9 @@ open_questions:
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses
 identified in Seyhan, a central district of Adana province, in a continuing
-anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8,10,11,12,13,14] Searches at the two addresses turned
+anti-smuggling and anti-drug campaign. [@1,4,5,6,7,8,10,11,12,13,14,15] Searches at the two addresses turned
 up 7,108 grams of kubar esrar, a pressed form of cannabis known in Turkey as
-esrar. [@1,4,5,6,7,9,10,11,12,13,14] Gendarmes detained two suspects in the operation. [@1,4,5,6,9,10,11,12,13,14]
+esrar. [@1,4,5,6,7,9,10,11,12,13,14,15] Gendarmes detained two suspects in the operation. [@1,4,5,6,9,10,11,12,13,14,15]
 
 The investigation into the case was continuing. [@1,4,5,6,10,11,13,14] The gendarmerie command
 said its teams were continuing their work against smuggling and drugs. [@2] The
