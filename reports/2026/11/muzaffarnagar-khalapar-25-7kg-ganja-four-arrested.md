@@ -47,6 +47,11 @@ media:
     media_url: https://royalbulletin.in/media-webp/1200/2026-11/tmp8vi1o5zj.webp
     publisher: Royal Bulletin
     caption: Page picture captioned with this arrest in Khala Par over more than 25 kg of ganja; the page gives no credit for the photo.
+  - kind: photo
+    url: https://royalbulletin.in/muzaffarnagar/4-drug-smugglers-including-history-sheeter-from-meerut-arrested-in/article-253125
+    media_url: https://royalbulletin.in/media-webp/1200/2026-11/ppp.jpg
+    publisher: Royal Bulletin
+    caption: Page picture captioned with this arrest in Khala Par over 25 kg of ganja worth about 4 lakh rupees; the page carries no credit for the photo.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ed0de189aea3e2e4b459e924fc91ed28
@@ -92,6 +97,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-07
     language: hi
+  - title: 'मुजफ्फरनगर में मेरठ के हिस्ट्रीशीटर समेत 4 नशा तस्कर गिरफ्तार: उत्तराखंड से जुड़ा नेटवर्क, 4 लाख का 25 किलो गांजा जब्त'
+    url: https://royalbulletin.in/muzaffarnagar/4-drug-smugglers-including-history-sheeter-from-meerut-arrested-in/article-253125
+    publisher: रॉयल बुलेटिन
+    date: 2026-11-08
+    language: hi
 open_questions:
   - The reports do not say whether the four accused were remanded to custody or released on bail.
   - Neither report gives the individual weight carried by each of the four men.
@@ -114,17 +124,24 @@ open_questions:
   - The article gives the police case only as one under the NDPS Act and does not state the sections, case number or whether a chargesheet had been filed.
   - The article reports that the history-sheeted accused Anwar also faces dacoity cases, while the account already cited in the tracker lists robbery, gangster, Arms Act and assault cases; the tracker keeps its existing wording.
   - The page photo is captioned only with the article headline, carries no credit and is not established to show the seized ganja or the scene, so no media entry is taken from it.
+  - The submitted page is a fresh Royal Bulletin write-up published on 8 November 2026, two days after the event, and rounds the seizure to 25 kg and the value to about 4 lakh rupees; the report keeps the more specific 25 kg 700 g and 385,500 rupees.
+  - The Royal Bulletin page says the accused each named the Uttarakhand supplier Harish in questioning, while it gives no ages, no history-sheet number and no case number, unlike earlier accounts.
+  - The submitted page photo carries no credit and no caption of its own, so it is linked rather than treated as established agency evidence.
+  - Dainik Bhaskar's detailed paragraphs about the questioning sit behind its app paywall; only the opening paragraphs before the paywall were readable.
+  - Dynamite News says a case was registered at Khala Par station under the NDPS Act and the four were produced in court, without stating whether they were remanded or released on bail.
+  - None of the three pages opened for this update reports a chargesheet, plea or court outcome beyond production before a magistrate.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: Police had the ganja weighed and put its estimated value at 385,500 rupees.'
 ---
 
 Police in Muzaffarnagar's Khala Par station area arrested four men from Meerut
 on suspicion of smuggling ganja, a traditional Indian cannabis preparation, on 6
 November 2026. [@1,3,4,5,7,8] The four arrested men come from Sindhawali village on Rohta
-Road, in the Kankarkhera police station area of Meerut district. [@1,4,5,7]
+Road, in the Kankarkhera police station area of Meerut district. [@1,4,5,7,9]
 
 Sub-inspector Asgar Ali's team stopped them at about 1:15 pm on the lane behind
 Sharden School, on the way from Meerut Road towards Garhabagh, after they turned
 back at the sight of the police patrol. [@1,4,7] The men each carried a bag, and
-police say the four bags together held 25 kg 700 grams of ganja. [@1,4,6] Police
+police say the four bags together held 25 kg 700 grams of ganja. [@1,4,6,7] Police
 also seized four mobile phones of different companies from the four arrested
 men. [@1,6,7] Police had the ganja weighed and put its estimated value at 385,500
 rupees. [@1,4,7,8]
