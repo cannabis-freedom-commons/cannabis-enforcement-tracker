@@ -114,6 +114,16 @@ sources:
     publisher: Голос Сокальщини - Sokal Voice
     date: 2026-11-06
     language: uk
+  - title: 'Криптовалюта, гараж і поштові посилки: у Львові викрили наркомережу з оборотом понад 2 млн гривень'
+    url: https://kriminal.net.ua/news/18329kriptovalyuta-garazh-poshtov-posilki-u-lvov-vikrili-narkomerezhu-z-oborotom-ponad-2-mln-griven.html
+    publisher: Кримінал (kriminal.net.ua)
+    date: 2026-11-08
+    language: uk
+  - title: 'Гараж-склад на Сихові і понад 3 кг заборонених речовин при обшуках: у Львові викрили наркозбувачів із «товаром» на мільйони'
+    url: https://lviv.gp.gov.ua/ua/news.html?_m=publications&_t=rec&id=434604
+    publisher: Львівська обласна прокуратура
+    date: 2026-11-06
+    language: uk
 open_questions:
   - The accounts give 7 October as the detention date but no date for the searches or the suspicion notices.
   - The 1.73 kg cannabis total is the sum of the reported parts, more than 500 g, 1.2 kg and 30 g, the first of which is only an approximate minimum.
@@ -126,14 +136,15 @@ open_questions:
   - Високий Замок describes the 1,200 g of cannabis as the total seized, without the separate car find of more than 500 g and the 30 g in intercepted parcels that the prosecutor's breakdown gives; the report keeps its own 1.73 kg sum.
   - The account says the men were paid into a crypto wallet according to preliminary findings, but gives no amount or wallet details.
   - The account describes the payment channel but not the shop or network the men worked for.
+  - 'Left out, as its quotation was not found in Кримінал (kriminal.net.ua): According to preliminary findings, the men took payment into a crypto wallet.'
 ---
 
 Police in Lviv detained two men suspected of selling drugs and psychotropic
 substances across Ukraine, a 40-year-old Lviv resident and a 32-year-old man
-from Lviv district. [@1] The two worked as so-called senders for one of
+from Lviv district. [@1,6] The two worked as so-called senders for one of
 Ukraine's online drug shops, receiving large consignments, dividing them into
-smaller doses and posting them to buyers in various regions. [@1] They rented a
-garage in Lviv's Sykhiv district to store and pack the drugs. [@1] The younger
+smaller doses and posting them to buyers in various regions. [@1,6] They rented a
+garage in Lviv's Sykhiv district to store and pack the drugs. [@1,7] The younger
 accomplice is a resident of Davydov, Leopolis.news reports. [@3]
 
 On 7 October officers detained the 32-year-old at a parcel locker in Lviv as he
