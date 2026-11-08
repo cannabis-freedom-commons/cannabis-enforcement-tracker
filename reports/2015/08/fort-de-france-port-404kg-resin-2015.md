@@ -64,6 +64,11 @@ sources:
     publisher: Europe 1
     date: 2015-08-06
     language: fr
+  - title: 'Saisie record de résine de cannabis en Martinique : la drogue venait du Havre'
+    url: https://www.infonormandie.com/Saisie-record-de-resine-de-cannabis-en-Martinique-la-drogue-venait-du-Havre_a9377.html
+    publisher: InfoNormandie
+    date: 2015-08-06
+    language: fr
 open_questions:
   - Neither the customs statement nor the three reports says what followed the investigation; the prosecutor said at publication that there had been no interpellations and that inquiries were continuing in Martinique and mainland France.
   - The value is customs' estimate of "more than 2.4 million euros" for the shipment; no exact figure or laboratory weight breakdown was published.
@@ -75,21 +80,22 @@ open_questions:
   - No video of the operation was found on a cited page, so no video entry is included.
   - Europe 1 rounds the total to 400 kg in its headline but gives 404 kg in its text, matching the existing report's 404 kg figure.
   - Europe 1 gives the seizure day only as Monday and names no arrests or seizure value; Monday was 3 August 2015 given its 6 August 2015 publication date.
+  - InfoNormandie says the commercial vessel came directly from the port of Le Havre, while the existing report's main narrative follows the customs statement wording that the vessel came from Europe; the Le Havre origin is already recorded in the existing report through France-Antilles.
 ---
 
 Customs officers and judicial police searched a commercial vessel from Europe
 carrying several thousand vehicles for the Caribbean when it docked at the port
 of Fort-de-France on the morning of Monday 3 August 2015. [@1] About twenty
 agents took part, including several customs detector-dog teams, and the check
-covered all of the more than 600 cars due for import into Martinique. [@1] After
+covered all of the more than 600 cars due for import into Martinique. [@1,5] After
 several hours of checks the agents found thirteen "valises marocaines" —
 Moroccan-style hashish blocks — of about 30 kg each lying on the floor at the
-back of a utility van. [@1,4]
+back of a utility van. [@1,4,5]
 
-The resin weighed 404 kilos in total and was seized immediately. [@1,4] Customs
-put the market value of the shipment at more than 2.4 million euros. [@1]
+The resin weighed 404 kilos in total and was seized immediately. [@1,4,5] Customs
+put the market value of the shipment at more than 2.4 million euros. [@1,5]
 Customs called it the largest cannabis resin seizure ever made in the whole of
-the French Antilles. [@1] France-Antilles reported that the resin had been
+the French Antilles. [@1,5] France-Antilles reported that the resin had been
 loaded into a new vehicle at the port of Le Havre and found at Fort-de-France,
 and that more than 800,000 euros in cash had also been found on passengers at
 the airport since July. [@1] franceinfo gave the same value, more than 2.4
