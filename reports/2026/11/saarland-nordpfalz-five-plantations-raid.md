@@ -191,6 +191,7 @@ open_questions:
   - The 30 kg seized in and around Nancy is described only as drugs, without a breakdown by substance, so it cannot be counted as cannabis and is left out of the report's figures.
   - Neither the French nor the German accounts give a cannabis weight or plant count for the French searches.
   - The 13 French arrests are counted separately from the report's eight German arrests; the two accounts together give 21 arrests in the simultaneous operation.
+  - The joint release reproduced here states the cash as about 22,000 euros and the hashish as just under one kilogram, so the report's one-kilogram hashish figure still differs from this account.
 ---
 
 Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating
@@ -226,3 +227,5 @@ The investigation began with a customs check near Pirmasens in May 2026, when of
 Shortly after 6.30 am on the Tuesday, police cars, customs vehicles and an ambulance drove through Jeckenbach, and armed officers of the customs investigation office and police stormed a residential house. [@15] In the house they found an illegal cannabis plantation with between 200 and 300 plants. [@15] The operation in Jeckenbach was part of a larger raid in the Nordpfälzer Bergland and Saarland that found five plantations with more than 2,300 plants and arrested eight suspects. [@16,20] The Saarbrücken prosecutors' office said about 300 plants were found in Jeckenbach. [@17]
 
 Nancy's prosecutors and an investigating judge, working with the German authorities, were investigating an Albanian criminal group based in Germany and specialising in drug trafficking, including cannabis. [@18] The French raids took place in Nancy, Custines, Maxéville, Essey-lès-Nancy, Frouard and Vandœuvre-lès-Nancy. [@18] Eleven of the 13 people arrested in and around Nancy were brought before the magistrates at the city's court complex. [@18,19] More than 30 kg of drugs were seized in and around Nancy. [@18]
+
+Officers also secured about 22,000 euros in cash. [@14] The customs investigation office said it had been investigating the group since spring 2026 on behalf of the Saarbrücken prosecutor's office. [@2]
