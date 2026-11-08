@@ -52,6 +52,9 @@ sources:
     url: https://arcwestmichigan.com/news/local/five-arrested-after-branch-county-chase-stolen-marijuana-found-east-chicago-street-vans-drive-emmett-township-police-sturgis-crime
     publisher: ARC West Michigan (WWMT News Channel 3)
     date: 2026-11-06
+  - title: Five arrested after Branch County chase, stolen marijuana found
+    url: https://www.msn.com/en-us/news/other/five-arrested-after-branch-county-chase-stolen-marijuana-found/ar-AA2gTXrj
+    publisher: MSN
 open_questions:
   - No weight or value for the marijuana was published; the accounts call it a "substantial" amount.
   - The description says the car stopped near woods behind a residence and that the chase reached Emmett Township, but the addresses are not given, so no more precise stopping place is recorded.
@@ -63,9 +66,9 @@ open_questions:
 
 Five people were arrested after a vehicle chase in Branch County, Michigan,
 early on Thursday 5 November 2026, and deputies found marijuana reported to be
-stolen in the car. [@1,3,4] A Branch County Sheriff's Office deputy tried to stop
+stolen in the car. [@1,3,4,5] A Branch County Sheriff's Office deputy tried to stop
 the car for speeding on East Chicago Street near Vans Drive in Coldwater at
-about 2:15 a.m., and the driver failed to stop. [@1,3,4]
+about 2:15 a.m., and the driver failed to stop. [@1,3,4,5]
 
 The pursuit went north on I-69 before the car left the highway onto secondary
 roads, with the driver disregarding stop signs and other traffic control
@@ -75,10 +78,10 @@ and turned down a dead-end road. [@1,4] The car crossed into Emmett Township and
 drove through a residential yard before stopping near woods behind a house. [@2]
 
 The five occupants, including the driver, ran on foot into the woods and were
-all found and taken into custody. [@1,3,4] The five were taken to the Branch County
+all found and taken into custody. [@1,3,4,5] The five were taken to the Branch County
 Jail, where WOOD was told they remained in custody on Friday morning. [@2,3]
 Deputies found a "substantial" amount of marijuana in the car during the
-investigation, which had been reported stolen. [@2,3,4] The sheriff's office did not
+investigation, which had been reported stolen. [@2,3,4,5] The sheriff's office did not
 say where the marijuana was reported stolen from, and officers from several
 agencies were investigating whether the five were linked to other offences. [@2,3]
 The Branch County Sheriff's Office said it was assisted by Michigan State Police
