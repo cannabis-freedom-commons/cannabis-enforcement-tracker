@@ -73,6 +73,11 @@ sources:
     publisher: Haberton
     date: 2026-11-08
     language: tr
+  - title: Evinde yasa dışı kenevir yetiştiren şüpheli tutuklandı - İzmir Balçova Haberleri
+    url: https://www.milliyet.com.tr/yerel-haberler/izmir/balcova/evinde-yasa-disi-kenevir-yetistiren-supheli-tut-7696684
+    publisher: Milliyet
+    date: 2026-11-08
+    language: tr
 open_questions:
   - The accounts give the raid date only as the previous day; 7 November 2026 is estimated from the 8 November 2026 publication date.
   - No weight or value was published for the 4 rooted plants, and no value was given for the seized skunk.
@@ -89,13 +94,17 @@ open_questions:
   - The page gives no separate date for the raid; 7 November 2026 remains an estimate from the 8 November 2026 publication date.
   - The photo published with the report has no caption or credit beyond the DHA agency mark, so it is not confirmed to show this seizure.
   - The Haberton page photo carries only the article headline as caption with no credit identifying what it depicts, so it is not confirmed to show this seizure.
+  - Milliyet credits the dispatch to a DHA correspondent and carries the same İzmir provincial gendarmerie account as the outlets already cited, so it is not independent reporting.
+  - The Milliyet page gives no separate date for the raid beyond "the previous day"; 7 November 2026 remains an estimate from the 8 November 2026 publication date.
+  - The Milliyet page photo is captioned only with the article headline and carries no credit identifying what it depicts, so it is not confirmed to show this seizure.
+  - The submitted page address given in the request ends in "balcovada-belediye-baskan-vekili-selahattin-yi-7620864", a July 2026 Milliyet story on the election of a Balçova deputy mayor; the opened article text, title and canonical address are the DHA dispatch on the Balçova cannabis search, which is used here.
 ---
 
 İzmir provincial gendarmerie teams determined that a suspect identified only as
 K.A. was illegally growing cannabis with a climate-control method in his home in
-Fevzi Çakmak Mahallesi, Balçova. [@1,3,4,5] Officers raided that address the previous
-day. [@1,5] K.A. was taken into custody and, after gendarmerie processing, was
-referred to the courthouse and remanded in custody. [@1,3,4,5]
+Fevzi Çakmak Mahallesi, Balçova. [@1,3,4,5,6] Officers raided that address the previous
+day. [@1,5,6] K.A. was taken into custody and, after gendarmerie processing, was
+referred to the courthouse and remanded in custody. [@1,3,4,5,6]
 
 The search of the home seized 1 kilo 219 grams of skunk. [@1,3,4,5] Officers also
 seized 4 rooted skunk plants. [@1,3,4,5] Officers also seized one drug-grinding device
