@@ -80,6 +80,11 @@ sources:
     publisher: nWloclawek.pl
     date: 2026-11-05
     language: pl
+  - title: Przegląd tygodnia z 8.11.2026 we Włocławku. Najważniejsze wydarzenia od 1.11 do 7.11.2026. Sprawdź, czy nie minęło Cię nic ważnego
+    url: https://wloclawek.naszemiasto.pl/przeglad-tygodnia-z-8-11-2026-we-wloclawku-najwazniejsze-wydarzenia-od-1-11-do-7-11-2026-sprawdz-czy-nie-minelo-cie-nic-waznego/ar/c1p1-29508321
+    publisher: Włocławek Nasze Miasto
+    date: 2026-11-08
+    language: pl
 open_questions:
   - 'No precise laboratory weight was reported: the figures are "over 405 g" of marijuana and "over 290 g" of mephedrone, so the cannabis figure uses the stated lower bound.'
   - The reports do not say whether the 27-year-old has been formally charged yet; police said he was still to hear the possession charge.
@@ -89,10 +94,12 @@ open_questions:
   - The police statement's three photos carry no descriptive captions, so only one is listed and it cannot be confirmed which items it shows.
   - Radio PIK reports that over 400 g of marijuana was found in the flat, while the Włocławek police statement gives more than 405 g; the report keeps 405 g.
   - The page shows a three-photo gallery, but only the lead image had a supplied direct address, so only that police photo is listed; it is captioned only as a Włocławek city police picture and it is not confirmed which seized items it shows.
+  - 'The roundup gives no independent detail: it repeats the earlier article''s combined figure of almost 700 grams of mephedrone and marijuana, which cannot be split and stays out of the cannabis figure.'
+  - The roundup's images are its own generic illustrations for a weekly press review, not photos of the Włocławek search, so no media are listed.
 ---
 
 Włocławek criminal police searched a 27-year-old resident's flat on Tuesday 3
-November 2026 and found drugs. [@1,4,5,7] The man was already wanted under an order to
+November 2026 and found drugs. [@1,4,5,7,8] The man was already wanted under an order to
 take him to prison to serve a six-month sentence for an earlier drug offence.
 [@1,4,5,6,7] He was placed in prison, and police said he will soon also be charged with
 possessing a significant quantity of drugs, an offence carrying up to 10 years.
