@@ -41,23 +41,40 @@ sources:
     publisher: ITV Patagonia
     date: 2026-11-04
     language: es
+  - title: Dos detenidos por transportar marihuana dosificada al interior de un taxi en Punta Arenas
+    url: https://laprensaaustral.cl/2026/11/04/dos-detenidos-por-transportar-marihuana-dosificada-al-interior-de-un-taxi-en-punta-arenas/
+    publisher: La Prensa Austral
+    date: 2026-11-04
+    language: es
+  - title: Detienen a dos personas en Punta Arenas tras fiscalización a taxi donde transportaban marihuana dosificada
+    url: https://radiomagallanes.cl/detienen-a-dos-personas-en-punta-arenas-tras-fiscalizacion-a-taxi-donde-transportaban-marihuana-dosificada/
+    publisher: Radio Magallanes
+    date: 2026-11-05
+    language: es
+  - title: Detienen a conductor de taxi y acompañante por microtráfico tras control policial
+    url: https://www.elpinguino.com/policial/detienen-a-conductor-de-taxi-y-acompanante-por-microtrafico-tras-control-policial
+    publisher: El Pingüino
+    date: 2026-11-04
+    language: es
 open_questions:
   - Only one accessible source for this event was found after searching in Spanish.
   - The 60-day investigation was still under way, so no trial outcome or sentence was reported.
   - The seized cash and mobile phones are described only to explain the event and cannot be recorded in cannabis figures.
   - The page carries a photo without a caption establishing that it shows this seizure, so no media entry is included.
   - The reported identification rests on field tests positive for THC, with no laboratory confirmation reported.
+  - La Prensa Austral says the procedure happened during the afternoon of 3 November, while ITV Patagonia, the source of the existing report, puts the stop at about 20:30 that night.
+  - La Prensa Austral gives 47 grams and 300 milligrams of marijuana, while the prosecutor's attribution in ITV Patagonia totals 46.3 grams; the 47.3 gram figure is the seizure figure used by several outlets.
 ---
 
 Carabineros detained two men in Punta Arenas during the night of Tuesday 3
-November 2026 in a procedure that led to microtrafficking charges. [@1] The two
+November 2026 in a procedure that led to microtrafficking charges. [@1,2] The two
 men were identified as driver Marcos Cárdenas Ferrada and passenger Nicolás
 Aravena Barría. [@1] Both were formalized, Chile's formal charging step, for
 small-quantity drug trafficking under article 4 of Law 20.000, the drugs law.
-[@1]
+[@1,2]
 
 Officers stopped a basic taxi on Avenida Ignacio Carrera Pinto in front of the
-San Ignacio condominium at about 20:30 after noticing a strong smell. [@1] A
+San Ignacio condominium at about 20:30 after noticing a strong smell. [@1,2] A
 search of the passenger found two ziploc bags with plant material described as
 similar to marijuana, plus 3,000 pesos in cash and a mobile phone. [@1] A search
 of the vehicle found a metal container behind the driver's seat with six more
@@ -74,3 +91,4 @@ fortnightly signing and regional arraigo, meaning both men must sign every two
 weeks and remain in the region. [@1] The Guarantee Court set a 60-day period for
 the investigation. [@1]
 
+The submitted account was published by La Prensa Austral, which reports the seizure as 47 grams and 300 milligrams of marijuana. [@2] Radio Magallanes independently reported the same seizure of 47 grams and 300 milligrams of marijuana, 306,700 pesos in cash and two mobile phones from the taxi's driver and passenger. [@3] El Pingüino reported that the First Guarantee Court rejected the prosecutor's request for overnight house arrest and instead imposed regional arraigo and fortnightly signing at the Primera Comisaría for a 60-day investigation. [@4]
