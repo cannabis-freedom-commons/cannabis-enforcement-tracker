@@ -66,6 +66,10 @@ sources:
     url: https://www.intelregion.com/news/ndlea-arrests-ugandan-woman-on-a-prayer-visit-with-cocaine
     publisher: Intel Region
     date: 2026-11-08
+  - title: Ugandan woman in Nigeria for crusade arrested with 87 cocaine wraps in private part
+    url: https://www.ndlea.gov.ng/blog/ugandan-woman-in-nigeria-for-crusade-arrested-with-87-cocaine-wraps-in-private-part
+    publisher: National Drug Law Enforcement Agency
+    date: 2026-11-08
 open_questions:
   - Whether the freight agent and the caterer were charged or remained in custody was not reported.
   - The sources do not say whether the named friend Taiwo Anuoluwapo Olusegun was arrested or questioned.
@@ -78,6 +82,7 @@ open_questions:
   - The same roundup's Ondo 1,818 kg, Taraba 226.255 kg, Edo 201 kg and UK-linked cannabis figures belong to their own existing reports and are not merged here.
   - The headline arrest involving 87 wraps of cocaine weighing 1.15kg is not cannabis and is left out of cannabis figures.
   - The page also reports opioids, tramadol, pregabalin, diazepam, codeine and synthetic-cannabis chemicals; those quantities are not cannabis figures and are left out.
+  - The NDLEA statement confirms the 4 November interception and the 6 November follow-up arrest, corroborating the dates and figures already in the report.
 ---
 
 On Wednesday 4 November 2026, NDLEA operatives at the import shed of the airport
@@ -91,7 +96,7 @@ wooden sofas in a cargo shipment from Houston, United States. [@3,7]
 Freight agent Ibrahim Abdulwaheed Adewale, who came forward to clear the
 consignment, was taken into custody. [@1,4,5,6,7] In a follow-up operation on Friday 6
 November 2026, 34-year-old caterer Adeoye Sarafa Ojo from Ibadan, Oyo state, was
-arrested when he walked in to collect the package. [@1,4,5] Adeoye claimed he was
+arrested when he walked in to collect the package. [@1,4,5,8] Adeoye claimed he was
 sent by a friend, Taiwo Anuoluwapo Olusegun. [@1,4,5,7] The NDLEA statement also
 records the 6 November follow-up arrest of the 34-year-old caterer from Ibadan
 who came to collect the package. [@2]
