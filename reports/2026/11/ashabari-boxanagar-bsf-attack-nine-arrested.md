@@ -91,6 +91,10 @@ sources:
     publisher: Newsdanka Post Marathi
     date: 2026-11-08
     language: mr
+  - title: Tripura cops arrest 8 from border village after BSF jawans ‘attacked with iron rods, bamboo sticks’
+    url: https://theprint.in/india/tripura-cops-arrest-8-from-border-village-after-bsf-jawans-attacked-with-iron-rods-bamboo-sticks/3088992/
+    publisher: ThePrint
+    date: 2026-11-03
 open_questions:
   - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
   - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
@@ -127,6 +131,9 @@ open_questions:
   - The page's only image carries just the story headline as its caption with no credit or event-specific detail, so it is not established to show the attack or the arrests and no media entry is added.
   - The account gives the woman's remand until 13 November but no outcome for the other newly arrested accused beyond being handed to Kalamchaura police station.
   - The report names a villager, Hefzur Rahman, as the person whose alleged beating by BSF personnel villagers say triggered the protest; the BSF and police accounts in other sources describe the sequence differently.
+  - ThePrint reports eight arrests against an FIR naming 19 people, while the existing report's text is built on nine, ten and later 18, 19 and 21 arrests; the new figures are the count at the time of the 3 November publication, not the total held.
+  - ThePrint gives 19 people booked, while a Sepahijala police account cited in the existing report speaks of 21 accused booked, so the total named in the case differs between sources.
+  - The page's later passages beyond the captured text, including the FIR account of the attack and the claim about ganja smuggling, were not available for checking, so they are not recorded here.
 ---
 
 Tripura police arrested nine people, including three women, for allegedly
@@ -168,3 +175,5 @@ Three more people, including a woman, were arrested over the 2 November attack, 
 Two of the main accused, named by police as Rabiul Hossain and Mahabul Hossain, were detained by the BSF on 7 November and later handed over to Kalamchaura police station during the night. [@11,12] Investigators said video footage purportedly shows Rabiul snatching the service rifle of a BSF jawan during the attack and Mahabul assaulting BSF personnel with a stick. [@11]
 
 The arrest of the woman on 7 November was made after her identification from video footage, and she was remanded to police custody until 13 November. [@12] Local residents alleged the clash began after BSF personnel took away a villager, Hefzur Rahman, and beat him, fracturing his foot, after which angry villagers blocked the Ashabari-Rahimpur road in protest. [@12]
+
+The BSF complained that the attack was revenge for its attempts to catch people involved in cross-border drug trade. [@13] The BSF column was moving through Boxanagar in Sipahijala district, about 200 metres from the Bangladesh border, when the incident took place on Monday. [@13] An FIR was registered at Kalamchowra police station on the day of the attack, followed by the arrests. [@13] At least 19 people were booked on the BSF complaint, which also alleged that the accused snatched a constable's service weapon and struck him with intent to murder. [@13]
