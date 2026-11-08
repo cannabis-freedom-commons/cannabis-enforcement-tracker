@@ -58,6 +58,11 @@ sources:
     publisher: EL HERALDO (Agencia EFE)
     date: 2026-10-11
     language: es
+  - title: Tres colombianos fueron capturados en Carchi mientras custodiaban transporte de droga
+    url: https://www.lahora.com.ec/seguridad/tres-personas-de-nacionalidad-colombiana-capturadas-en-carchi-mientras-custodiaban-transporte-de-droga-20261011-0007.html
+    publisher: LA HORA
+    date: 2026-10-11
+    language: es
 media:
   - kind: photo
     url: https://www.eluniverso.com/politica/seguridad/decomiso-de-mas-de-300-kilos-de-marihuana-y-tres-detenidos-durante-operativo-policial-en-carchi-nota/
@@ -84,6 +89,9 @@ open_questions:
   - No court outcome is reported.
   - The US and European valuations are police estimates and do not, on their own, show that the load was bound for those markets.
   - EFE dates the story 11 October 2026 and says police announced the stop 'este sábado', while the operation itself took place on Friday 9 October; the incident date stays 9 October.
+  - La Hora writes '303, 07 gramos de marihuana incautados', repeating the unit typo in the El Universo body text; its headline context, the 300 wraps, the 606,014-dose count and the valuations show about 303 kilograms, as the existing report records.
+  - La Hora's two police-handout photos (the three detainees with the vehicle and packages, and the seized evidence) appear to show the same seizure already pictured in the report, so no separate media entry is added.
+  - La Hora gives no court outcome; the case remains at the seizure and apprehension stage.
 ---
 
 On the night of 9 October 2026, anti-drug investigators of the Carchi police subzone stopped a car
@@ -91,17 +99,17 @@ and two motorcycles in the rural parish of Piartal, Montúfar. [@2,3] Javier Cob
 anti-drug chief, said three men on the motorcycles appeared to be escorting the car and warning of
 checkpoints, and that officers chased all three vehicles before arresting the men in the act. [@2]
 El Universo named them Milton M., Rolando R. and Yeferson F., all Colombian. [@2] Primicias likewise
-reported three Colombian nationals held. [@1,3]
+reported three Colombian nationals held. [@1,3,4]
 
 Inside the car police found marijuana in bulk, in 300 plastic wraps, weighing 303.007 grams. [@1,2]
-The National Police said that was 606,014 doses on the national market. [@1,3] They valued it at
+The National Police said that was 606,014 doses on the national market. [@1,3,4] They valued it at
 234,830.43 US dollars in Ecuador, about 2.74 million dollars on the United States market and about
-1.95 million euros in Europe. [@1,2,3] Those foreign figures are police estimates. [@2] Officers also
+1.95 million euros in Europe. [@1,2,3,4] Those foreign figures are police estimates. [@2] Officers also
 kept the car, which they said had been reported stolen in Quito, two motorcycles and two phones.
 [@1,2]
 
 Cobos said police believed the load was to be stored in Carchi in the early hours and then moved
 toward other provinces in vehicles with hidden compartments, using minor roads. [@2] The National
 Police placed the stop in its operational strategy 3D and in an action called Cero Impunidad,
-Encuentro 148. [@1,2] Primicias noted that large-scale trafficking can carry up to 26 years under
+Encuentro 148. [@1,2,4] Primicias noted that large-scale trafficking can carry up to 26 years under
 the criminal code. [@1] No sentence is reported.
