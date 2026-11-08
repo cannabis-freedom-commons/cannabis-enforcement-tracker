@@ -83,6 +83,11 @@ sources:
     publisher: الأهرام اوتو
     date: 2026-11-08
     language: ar
+  - title: ضبط 31 سائق حافلات مدرسية بتهمة تعاطي الحشيش والترامادول خلال شهرين
+    url: https://shbabbek.com/show/287374
+    publisher: شبابيك
+    date: 2026-11-08
+    language: ar
 open_questions:
   - No date is given for the tests or the referrals; 8 November 2026 is when the fund's results were published and is used as the incident date.
   - No governorate breakdown, driver names or school names were published.
@@ -99,28 +104,31 @@ open_questions:
   - The article's lead image is dated June 2025 and carries a generic caption about early drug detection, so it is not a photo of this screening round and no media entry is added.
   - Al-Sabah Al-Arabi reproduces the fund's statement, like the outlets already cited, so it is not an independent account of the individual cases.
   - The article gives no date for the individual tests or referrals; 8 November 2026 is its publication date and the date of the fund's statement.
+  - Shababbek reproduces the fund's statement, like the outlets already cited, so it is not an independent account of the individual cases.
 ---
 
 Egypt's Fund for Combating and Treatment of Addiction referred 31 school-bus
 drivers to the public prosecution on a charge of driving under the influence
-after tests showed they had used drugs. [@1,4,5,7,8,9] The drivers were caught in early
+after tests showed they had used drugs. [@1,4,5,7,8,9,10] The drivers were caught in early
 screening campaigns run during the first two months of the 2026/2027 school
 year. [@1,4,5,8,9]
 
 Of the 31 positive samples, 28 were for hashish and three were for tramadol, a
-prescription opioid. [@1,4,5,6,7,8,9] The fund said it coordinated with the education
+prescription opioid. [@1,4,5,6,7,8,9,10] The fund said it coordinated with the education
 ministry to dismiss any of the drivers found to be working at schools. [@1,4,7,8]
 
-The tests covered 4,510 drivers in several governorates. [@1,4,5,6,7,8,9] The campaigns
+The tests covered 4,510 drivers in several governorates. [@1,4,5,6,7,8,9,10] The campaigns
 involved the General Directorate of Drug Control, the General Traffic
 Directorate, the General Secretariat for Mental Health at the health ministry
 and the Central Security Department at the education ministry. [@1,4]
 
 Parents who suspect a driver can call the fund's 16023 hotline, and the fund
-said reported cases would bring immediate surprise checks. [@1]
+said reported cases would bring immediate surprise checks. [@1,10]
 
 The fund's director Amr Othman received a report on the results of the
 campaigns, Dar Al-Maaref reported. [@2,4]
 
 The fund said the testing would continue throughout the school year and expand
 to other governorates. [@3,4,7]
+
+The fund also listed signs families could watch for, including red eyes, dark rings under them, unusually aggressive behaviour, unsteadiness, driving abnormally fast or slow, and difficulty judging distances. [@10]
