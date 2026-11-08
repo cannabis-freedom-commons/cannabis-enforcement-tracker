@@ -43,6 +43,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-07
     language: hi
+  - title: 'Samastipur News: किराना दुकान से 61 ग्राम स्मैक व गांजा के साथ दुकानदार गिरफ्तार'
+    url: https://www.livehindustan.com/bihar/samastipur/story-shivajinagar-police-seize-smack-cannabis-and-256-litres-of-liquor-201794070644664.html
+    publisher: Live Hindustan
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The page gives no date for the raid; 7 November 2026 is its publication date and is used as the incident date.
   - No weight was published for the ganja, the other intoxicating substances or the ganja-filled cigarettes, so only the 61 grams of smack is stated as a quantity.
@@ -52,13 +57,15 @@ open_questions:
   - Only this Live Hindustan page could be opened; no agency statement or second outlet account was found.
   - The hero image is dated 2025 and captioned only with the story headline, so it is linked as a media entry rather than shown as a cover of this raid.
   - The report is an automatically published print story, which gives it the same short, non-byline bureau format as other district crime briefs.
+  - The page gives no date for the raid beyond saying it happened on Friday night; 7 November 2026 is its publication date.
 ---
 
 Police in Samastipur's Shivajinagar police station area raided a grocery shop at
 Dumra Chowk and recovered smack, ganja, other intoxicating substances and
 cigarettes stuffed with ganja. [@1] The shopkeeper was arrested and sent to
-jail. [@1]
+jail. [@1,2]
 
 Police said the 61 grams of smack and the ganja were seized from the grocery
-shop. [@1]
+shop. [@1,2]
 
+The search found 22 grams of ganja, 20 cigarettes filled with ganja and five grams of a brown intoxicating substance under the shop's wooden counter, alongside the 61 grams of smack. [@2] The station house officer said the raid followed a tip-off and was allowed by the Rosra sub-divisional officer, who deputed a block development officer as the empowered magistrate to witness the search. [@2] The shopkeeper tried to run when he saw the police and was caught after a chase. [@2] All the intoxicating substances were weighed in the presence of the magistrate and formally seized. [@2]
