@@ -64,6 +64,10 @@ sources:
     url: https://www.yorkshirepost.co.uk/news/crime/18-year-old-charged-after-ps48500-of-cannabis-plants-found-during-hull-raid-9336527
     publisher: Yorkshire Post
     date: 2026-11-07
+  - title: Man charged after cannabis plants worth an estimated £48,500 found in Hull
+    url: https://www.hellorayo.co.uk/greatest-hits/east-yorkshire-north-lincolnshire/news/hull-man-charged-cannabis-plants-hall-road
+    publisher: Greatest Hits Radio (East Yorkshire and Northern Lincolnshire)
+    date: 2026-11-06
 open_questions:
   - No count of the plants seized and no weight was published, so only the police's £48,500 estimate is recorded.
   - Humberside Police's own statement of the warrant could not be opened, so only one outlet's account of the Hall Road raid is used.
@@ -75,11 +79,13 @@ open_questions:
 ---
 
 An 18-year-old man was charged after a Misuse of Drugs Act warrant was executed
-at an address on Hall Road in Hull. [@1,2] The warrant was executed on the morning
-of Thursday 5 November 2026. [@1,2] Officers forced entry to the address and found
-a large quantity of cannabis plants, which they seized. [@1,2]
+at an address on Hall Road in Hull. [@1,2,3] The warrant was executed on the morning
+of Thursday 5 November 2026. [@1,2,3] Officers forced entry to the address and found
+a large quantity of cannabis plants, which they seized. [@1,2,3]
 
-Police estimated the plants' value at £48,500. [@1,2] Aldi Pecmarkaj, 18, of Hall
+Police estimated the plants' value at £48,500. [@1,2,3] Aldi Pecmarkaj, 18, of Hall
 Road in Hull, was charged with production of class B drugs. [@1,2] He was remanded
 to appear at Hull Magistrates Court on the morning of Friday 6 November 2026.
 [@1]
+
+He was charged with production of class B drugs under the Misuse of Drugs Act. [@3]
