@@ -48,19 +48,66 @@ func ParseBingNewsQuery(raw string) (BingNewsQuery, error) {
 
 // Keep searches short: Bing RSS returned empty feeds for compound Boolean queries
 // in live testing, while simple cannabis/action searches returned publisher URLs.
+// Every market below returned a feed with recent items in a November 2026 probe.
+const MaxBingNewsQueries = 100
+
 var DefaultBingNewsQueries = []BingNewsQuery{
 	{"en-US", "cannabis seized"},
 	{"en-US", "marijuana arrested"},
 	{"en-US", "cannabis sentenced"},
+	{"en-US", "illegal marijuana grow"},
 	{"en-GB", "cannabis raid"},
+	{"en-GB", "cannabis factory"},
+	{"en-IE", "cannabis seized"},
+	{"en-CA", "cannabis seized"},
+	{"fr-CA", "cannabis saisie"},
+	{"en-AU", "cannabis seized"},
+	{"en-NZ", "cannabis police"},
 	{"en-IN", "ganja seized"},
+	{"en-PH", "marijuana arrested"},
+	{"en-MY", "ganja seized"},
+	{"en-ID", "marijuana arrested"},
+	{"en-ZA", "dagga arrested"},
+	{"en-NG", "NDLEA cannabis"},
+	{"en-KE", "bhang police"},
 	{"en-US", "China cannabis seized"},
 	{"en-US", "Iran hashish"},
 	{"en-US", `"North Korea" marijuana`},
+	{"en-US", "Caribbean marijuana seized"},
+	{"es-ES", "marihuana incautan"},
+	{"es-ES", "hachís Guardia Civil"},
+	{"es-MX", "marihuana aseguran"},
+	{"es-AR", "marihuana secuestro"},
+	{"es-CO", "marihuana incautan"},
+	{"es-CL", "marihuana detenidos"},
+	{"pt-BR", "maconha apreendida"},
+	{"pt-PT", "haxixe apreendido"},
+	{"fr-FR", "cannabis saisie"},
+	{"fr-BE", "cannabis saisie"},
+	{"nl-BE", "cannabis aangehouden"},
+	{"nl-NL", "hennepkwekerij"},
+	{"de-DE", "Cannabis sichergestellt"},
+	{"de-AT", "Cannabis sichergestellt"},
+	{"de-CH", "Cannabis Polizei"},
+	{"it-IT", "marijuana sequestro"},
+	{"pl-PL", "marihuana zatrzymali"},
+	{"sv-SE", "cannabis gripen"},
+	{"nb-NO", "hasj beslag"},
+	{"da-DK", "hash politi"},
+	{"fi-FI", "kannabis poliisi"},
+	{"tr-TR", "esrar ele geçirildi"},
+	{"ru-RU", "гашиш изъяли"},
+	{"ru-RU", "марихуана задержали"},
+	{"ar-SA", "حشيش ضبط"},
+	{"ar-EG", "حشيش ضبط"},
+	{"ja-JP", "大麻 逮捕"},
+	{"ko-KR", "대마 검거"},
 	{"zh-HK", "大麻 查获"},
 	{"zh-HK", "大麻 檢獲"},
-	{"ru-RU", "гашиш изъяли"},
-	{"ar-SA", "حشيش ضبط"},
+	{"zh-TW", "大麻 查獲"},
+	{"id-ID", "ganja ditangkap"},
+	{"th-TH", "กัญชา จับกุม"},
+	{"vi-VN", "cần sa bắt giữ"},
 }
 
 type BingNews struct {
@@ -68,9 +115,13 @@ type BingNews struct {
 	Queries                     []BingNewsQuery
 	Interval                    time.Duration
 	MaxArticles, QueriesPerScan int
+	QueueTarget                 int // hold new articles back while this many research jobs wait (0 = off)
 	client                      *http.Client
 }
-type BingNewsStats struct{ Found, Queued, Known, Unresolved, Skipped int }
+type BingNewsStats struct {
+	Found, Queued, Known, Unresolved, Skipped int
+	Deferred                                  bool // the research queue was full; the batch is retried next scan
+}
 type bingItem struct {
 	Link      string `xml:"link"`
 	Published string `xml:"pubDate"`
@@ -159,6 +210,15 @@ func (g BingNews) scan(ctx context.Context, queries []BingNewsQuery) (stats Bing
 	if max <= 0 {
 		max = 10
 	}
+	room, err := queueRoom(ctx, g.Store, g.QueueTarget)
+	if err != nil {
+		return stats, err
+	}
+	if room == 0 {
+		stats.Deferred = true
+		return stats, nil
+	}
+	max = min(max, room)
 	results := make([][]bingItem, len(queries))
 	paced := false
 	for i, q := range queries {
@@ -241,12 +301,13 @@ func (g BingNews) batch(n int) []BingNewsQuery {
 func (g BingNews) Run(ctx context.Context) {
 	interval := g.Interval
 	if interval <= 0 {
-		interval = 5 * time.Minute
+		interval = 3 * time.Minute
 	}
-	slog.Info("Bing News discovery enabled", "interval", interval.String(), "queries", len(g.Queries), "queries_per_scan", len(g.batch(0)), "max_new_articles", g.MaxArticles)
-	timer := time.NewTimer(time.Second)
+	slog.Info("Bing News discovery enabled", "interval", interval.String(), "queries", len(g.Queries), "queries_per_scan", len(g.batch(0)), "max_new_articles", g.MaxArticles, "queue_target", g.QueueTarget)
+	// Start offset from Google News so the two providers do not admit in the same minute.
+	timer := time.NewTimer(min(30*time.Second, interval/4))
 	defer timer.Stop()
-	for n := 0; ; n++ {
+	for n := 0; ; {
 		select {
 		case <-ctx.Done():
 			return
@@ -258,8 +319,14 @@ func (g BingNews) Run(ctx context.Context) {
 			if err != nil && ctx.Err() == nil {
 				slog.Warn("Bing News scan interrupted", "error", err)
 			}
-			slog.Info("Bing News scan complete", "found", stats.Found, "queued", stats.Queued, "known", stats.Known, "unresolved", stats.Unresolved, "skipped", stats.Skipped, "duration", time.Since(started).String(), "next_scan_in", interval.String())
-			timer.Reset(interval)
+			next := jitter(interval)
+			if stats.Deferred {
+				slog.Info("Bing News scan deferred; research queue full", "queue_target", g.QueueTarget, "next_scan_in", next.String())
+			} else {
+				n++
+				slog.Info("Bing News scan complete", "found", stats.Found, "queued", stats.Queued, "known", stats.Known, "unresolved", stats.Unresolved, "skipped", stats.Skipped, "duration", time.Since(started).String(), "next_scan_in", next.String())
+			}
+			timer.Reset(next)
 		}
 	}
 }

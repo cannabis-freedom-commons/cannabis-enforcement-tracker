@@ -32,6 +32,7 @@ type Config struct {
 	GoogleNewsQueriesPerScan                                                    int
 	GoogleNewsInterval                                                          time.Duration
 	GoogleNewsMaxArticles                                                       int
+	HarvestQueueTarget                                                          int // waiting research jobs before discovery holds back; -1 = automatic
 	Addr, Database, PublicURL, RepoPath, Workspaces, IngestToken                string
 	Origins, Relays, RSSFeeds, GDELTQueries, TrustedProxies                     []string
 	GatewaySecret, BotSecret                                                    string
@@ -67,15 +68,15 @@ func Load() (Config, error) {
 	if discoveryErr != nil {
 		return c, errors.New("invalid HARVEST_GOOGLE_NEWS_ENABLED")
 	}
-	c.GoogleNewsInterval, discoveryErr = time.ParseDuration(env("HARVEST_GOOGLE_NEWS_INTERVAL", "5m"))
+	c.GoogleNewsInterval, discoveryErr = time.ParseDuration(env("HARVEST_GOOGLE_NEWS_INTERVAL", "2m"))
 	if discoveryErr != nil || c.GoogleNewsInterval < time.Minute || c.GoogleNewsInterval > 24*time.Hour {
 		return c, errors.New("HARVEST_GOOGLE_NEWS_INTERVAL must be between 1m and 24h")
 	}
-	c.GoogleNewsMaxArticles, discoveryErr = strconv.Atoi(env("HARVEST_GOOGLE_NEWS_MAX_ARTICLES", "25"))
+	c.GoogleNewsMaxArticles, discoveryErr = strconv.Atoi(env("HARVEST_GOOGLE_NEWS_MAX_ARTICLES", "4"))
 	if discoveryErr != nil || c.GoogleNewsMaxArticles < 1 || c.GoogleNewsMaxArticles > 100 {
 		return c, errors.New("HARVEST_GOOGLE_NEWS_MAX_ARTICLES must be 1 to 100")
 	}
-	c.GoogleNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN", "12"))
+	c.GoogleNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN", "5"))
 	if discoveryErr != nil || c.GoogleNewsQueriesPerScan < 1 || c.GoogleNewsQueriesPerScan > 50 {
 		return c, errors.New("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN must be 1 to 50")
 	}
@@ -98,15 +99,15 @@ func Load() (Config, error) {
 	if discoveryErr != nil {
 		return c, errors.New("invalid HARVEST_BING_NEWS_ENABLED")
 	}
-	c.BingNewsInterval, discoveryErr = time.ParseDuration(env("HARVEST_BING_NEWS_INTERVAL", "5m"))
+	c.BingNewsInterval, discoveryErr = time.ParseDuration(env("HARVEST_BING_NEWS_INTERVAL", "3m"))
 	if discoveryErr != nil || c.BingNewsInterval < time.Minute || c.BingNewsInterval > 24*time.Hour {
 		return c, errors.New("HARVEST_BING_NEWS_INTERVAL must be between 1m and 24h")
 	}
-	c.BingNewsMaxArticles, discoveryErr = strconv.Atoi(env("HARVEST_BING_NEWS_MAX_ARTICLES", "10"))
+	c.BingNewsMaxArticles, discoveryErr = strconv.Atoi(env("HARVEST_BING_NEWS_MAX_ARTICLES", "3"))
 	if discoveryErr != nil || c.BingNewsMaxArticles < 1 || c.BingNewsMaxArticles > 100 {
 		return c, errors.New("HARVEST_BING_NEWS_MAX_ARTICLES must be 1 to 100")
 	}
-	c.BingNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_BING_NEWS_QUERIES_PER_SCAN", "4"))
+	c.BingNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_BING_NEWS_QUERIES_PER_SCAN", "3"))
 	if discoveryErr != nil || c.BingNewsQueriesPerScan < 1 || c.BingNewsQueriesPerScan > 50 {
 		return c, errors.New("HARVEST_BING_NEWS_QUERIES_PER_SCAN must be 1 to 50")
 	}
@@ -122,8 +123,12 @@ func Load() (Config, error) {
 			c.BingNewsQueries = append(c.BingNewsQueries, query)
 		}
 	}
-	if len(c.BingNewsQueries) > 50 {
-		return c, errors.New("at most 50 Bing News queries")
+	if len(c.BingNewsQueries) > harvest.MaxBingNewsQueries {
+		return c, fmt.Errorf("at most %d Bing News queries", harvest.MaxBingNewsQueries)
+	}
+	c.HarvestQueueTarget, discoveryErr = strconv.Atoi(env("HARVEST_QUEUE_TARGET", "-1"))
+	if discoveryErr != nil || c.HarvestQueueTarget < -1 || c.HarvestQueueTarget > 1000 {
+		return c, errors.New("HARVEST_QUEUE_TARGET must be -1 (automatic), 0 (off) or up to 1000")
 	}
 	c.SourceBrowser = env("SOURCE_BROWSER", "true") == "true"
 	c.DevControls = env("DEV_CONTROLS", "false") == "true"
@@ -290,6 +295,15 @@ func (c Config) Agents() []ResearchAgent {
 		return nil
 	}
 	return []ResearchAgent{{Model: c.ResearchModel, MaxWorkers: max(1, c.WorkerConcurrency)}}
+}
+
+// QueueTarget is how many research jobs may wait before news discovery holds new
+// articles back. Automatic: two per worker, so workers never idle between scans.
+func (c Config) QueueTarget() int {
+	if c.HarvestQueueTarget >= 0 {
+		return c.HarvestQueueTarget
+	}
+	return max(4, 2*c.MaxWorkers())
 }
 func (c Config) MaxWorkers() int {
 	if len(c.ResearchAgents) == 0 {

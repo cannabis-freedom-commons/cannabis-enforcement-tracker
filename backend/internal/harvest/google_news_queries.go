@@ -3,7 +3,7 @@ package harvest
 import "fmt"
 
 // MaxGoogleNewsQueries bounds the complete rotation, independently of the per-scan budget.
-const MaxGoogleNewsQueries = 250
+const MaxGoogleNewsQueries = 400
 
 // googleNewsLanguageQueries pairs cannabis terms with enforcement actions in each
 // language. Editions are checked against live RSS responses: unsupported languages
@@ -81,6 +81,38 @@ var googleNewsLanguageQueries = []GoogleNewsQuery{
 	{"GB:en", `(weed OR pot OR ganja OR sinsemilla OR sensimilla) (police OR customs OR court) (seized OR arrested OR raided OR charged OR sentenced OR jailed) when:1d`},
 	{"US:en", `("hash oil" OR "THC oil" OR "THC gummies" OR "THC edibles" OR "THC vapes" OR "THC cartridges" OR "cannabis edibles" OR "cannabis concentrate" OR "CBD flower") (seized OR arrested OR raid OR charged OR convicted OR sentenced) when:1d`},
 	{"BR:pt-419", `(cannabis OR canábis OR canabis OR maconha OR haxixe OR prensado OR "flor de cannabis") (apreensão OR apreendida OR apreendidos OR preso OR presos OR condenado) when:1d`},
+	// Native editions probed live in November 2026 (each kept its own ceid). Cameroon,
+	// Côte d'Ivoire, Morocco and Tunisia redirect to FR/EG; Nepal, Sri Lanka, Croatia,
+	// Iran and Kazakhstan to US/RU; Denmark to Norway, so those stay country groups below.
+	{"US:en", `("illegal grow" OR "illegal marijuana grow" OR "marijuana grow" OR "cannabis grow" OR "unlicensed dispensary" OR "illegal dispensary") (raid OR seized OR arrested OR charged OR plants OR sentenced) when:1d`},
+	{"CA:en", `(cannabis OR marijuana OR "magic mushrooms" OR hashish OR "illegal dispensary") (seized OR arrested OR charged OR raid OR "search warrant" OR sentenced OR convicted) when:1d`},
+	{"CA:fr", `(cannabis OR marijuana OR haschich OR "plants de cannabis") (saisie OR saisi OR arrêté OR arrestation OR perquisition OR accusé OR condamné OR démantèlement) when:1d`},
+	{"GB:en", `(cannabis OR "cannabis factory" OR "cannabis farm" OR skunk) (police OR raid OR seized OR arrested OR charged OR jailed OR sentenced) when:1d`},
+	{"IE:en", `(cannabis OR "cannabis herb" OR "cannabis resin" OR "grow house") (Gardaí OR seized OR seizure OR arrested OR charged OR court OR jailed OR sentenced) when:1d`},
+	{"AU:en", `(cannabis OR marijuana OR "hydroponic" OR "cannabis crop") (police OR seized OR arrested OR charged OR raid OR "drug operation" OR court OR jailed OR sentenced) when:1d`},
+	{"NZ:en", `(cannabis OR marijuana OR "cannabis plants" OR "drug operation") (police OR seized OR arrested OR charged OR raid OR court OR jailed OR sentenced) when:1d`},
+	{"AR:es-419", `(marihuana OR cannabis OR "plantas de marihuana" OR porro) (secuestro OR secuestraron OR detenido OR detenidos OR allanamiento OR incautaron OR condenado) when:1d`},
+	{"CO:es-419", `(marihuana OR cannabis OR cripa OR creepy OR "cultivos de marihuana") (incautan OR incautación OR capturado OR capturados OR decomiso OR erradicación OR condenado) when:1d`},
+	{"CL:es-419", `(marihuana OR cannabis OR "plantas de cannabis" OR cripy) (incautan OR incautación OR detenidos OR decomiso OR "OS7" OR PDI OR condenado OR formalizado) when:1d`},
+	{"PE:es-419", `(marihuana OR cannabis OR "cannabis sativa" OR "hierba") (incautan OR decomiso OR detenidos OR intervenidos OR erradicación OR sentenciado OR condenado) when:1d`},
+	{"VE:es-419", `(marihuana OR cannabis OR "cripy") (incautan OR incautaron OR detenidos OR aprehendidos OR decomiso OR "FANB" OR condenado) when:1d`},
+	{"CU:es-419", `(marihuana OR cannabis OR "picadura de marihuana") (ocupan OR ocupada OR incautan OR detenidos OR Aduana OR sancionado OR condenado OR "tribunal") when:1d`},
+	{"AT:de", `(Cannabis OR Marihuana OR Haschisch OR Cannabisplantage OR Hanfplantage) (sichergestellt OR beschlagnahmt OR festgenommen OR angezeigt OR verurteilt OR Razzia) when:1d`},
+	{"CH:de", `(Cannabis OR Marihuana OR Haschisch OR Hanf OR Hanfanlage OR Indooranlage) (sichergestellt OR beschlagnahmt OR festgenommen OR verhaftet OR verurteilt OR Kantonspolizei) when:1d`},
+	{"CH:fr", `(cannabis OR haschich OR marijuana OR chanvre) (saisie OR saisi OR interpellé OR arrêté OR condamné OR "police cantonale") when:1d`},
+	{"BE:fr", `(cannabis OR haschich OR "plantation de cannabis" OR marijuana) (saisie OR saisi OR interpellé OR arrêté OR démantelé OR perquisition OR condamné) when:1d`},
+	{"BE:nl", `(cannabis OR wiet OR hasj OR cannabisplantage OR "cannabisplantage") ("in beslag" OR opgepakt OR aangehouden OR opgerold OR veroordeeld OR huiszoeking) when:1d`},
+	{"EE:et", `(kanep OR kanepit OR kanepi OR marihuaana OR hašiš) (politsei OR kinni OR konfiskeeris OR süüdi OR vangi OR kasvandus OR kohus) when:7d`},
+	{"MY:en", `(ganja OR cannabis OR marijuana OR "cannabis oil") (seized OR arrested OR remanded OR charged OR sentenced OR "death sentence" OR whipping) when:1d`},
+	{"AE:ar", `(حشيش OR الحشيش OR "القنب الهندي" OR ماريجوانا OR "مواد مخدرة") (ضبط OR القبض OR إحباط OR تهريب OR سجن OR إعدام OR مصادرة) when:1d`},
+	{"GH:en", `(marijuana OR cannabis OR "Indian hemp" OR wee) (NACOC OR arrested OR seized OR destroyed OR court OR jailed OR sentenced) when:1d`},
+	{"UG:en", `(marijuana OR cannabis OR bhang OR enjaga OR njaga) (arrested OR seized OR destroyed OR court OR jailed OR sentenced) when:1d`},
+	{"TZ:en", `(bhang OR marijuana OR cannabis OR bangi) (DCEA OR arrested OR seized OR destroyed OR court OR jailed OR sentenced) when:1d`},
+	{"ZW:en", `(mbanje OR marijuana OR cannabis OR dagga OR "Indian hemp") (ZRP OR arrested OR seized OR court OR jailed OR sentenced) when:1d`},
+	{"ET:en", `(cannabis OR marijuana OR hashish OR "Indian hemp") (Ethiopia OR Ethiopian OR "Addis Ababa") (seized OR arrested OR police OR court OR sentenced) when:7d`},
+	{"NA:en", `(cannabis OR dagga OR marijuana OR "cannabis plants") (Nampol OR police OR arrested OR seized OR court OR sentenced) when:1d`},
+	{"BW:en", `(dagga OR cannabis OR marijuana) (police OR BPS OR arrested OR seized OR court OR jailed OR sentenced) when:1d`},
+	{"SN:fr", `(chanvre OR "chanvre indien" OR yamba OR cannabis OR haschich OR "kush") (saisie OR saisi OR arrêté OR interpellé OR démantelé OR OCRTIS OR condamné OR Douane) when:1d`},
 }
 
 // Country names are query terms, not assumed Google editions. A separate query
@@ -103,7 +135,7 @@ var googleNewsCountryGroups = []googleNewsCountryGroup{
 		[]string{"Malawi", "Zambia", "Zimbabwe", "Botswana", "Namibia", "Lesotho", `Eswatini OR Swaziland`}},
 	{"FR:fr", `cannabis OR haschich OR haschisch OR hachich OR "chanvre indien" OR yamba OR diamba OR rongony OR zamal`,
 		`saisie OR saisi OR saisis OR interpellé OR interpellés OR arrêté OR condamné OR détruit OR démantelé OR prison`,
-		[]string{"Sénégal", "Guinée", `"Guinée-Bissau"`, `"Côte d'Ivoire" OR ivoirien`, "Mali", "Niger", "Tchad", "Bénin", "Togo", "Cameroun", "Gabon", `"République du Congo" OR "Congo-Brazzaville"`, `"République démocratique du Congo" OR RDC OR "Congo-Kinshasa"`, `"Burkina Faso"`, `Centrafrique OR "République centrafricaine"`, "Djibouti", "Comores", "Madagascar", `"La Réunion"`, "Mauritanie", "Algérie", "Tunisie"}},
+		[]string{"Sénégal", "Guinée", `"Guinée-Bissau"`, `"Côte d'Ivoire" OR ivoirien`, "Mali", "Niger", "Tchad", "Bénin", "Togo", "Cameroun", "Gabon", `"République du Congo" OR "Congo-Brazzaville"`, `"République démocratique du Congo" OR RDC OR "Congo-Kinshasa"`, `"Burkina Faso"`, `Centrafrique OR "République centrafricaine"`, `"Guinée équatoriale"`, "Djibouti", "Comores", "Madagascar", `"La Réunion"`, "Mauritanie", "Algérie", "Tunisie"}},
 	{"PT:pt-150", `cannabis OR canábis OR canabis OR maconha OR haxixe OR liamba OR diamba OR suruma OR soruma`,
 		`apreensão OR apreendida OR apreendido OR apreendidos OR detido OR detidos OR preso OR condenado OR destruída OR plantação`,
 		[]string{"Angola", `Moçambique OR Mozambique`, `"Cabo Verde"`, `"Guiné-Bissau"`, `"São Tomé"`, `"Timor-Leste"`}},
@@ -112,7 +144,7 @@ var googleNewsCountryGroups = []googleNewsCountryGroup{
 		[]string{"الأردن", `فلسطين OR غزة`, "سوريا", "العراق", "الكويت", "البحرين", "قطر", "الإمارات", `عمان OR عُمان`, "اليمن", "ليبيا", "الجزائر", "تونس", "المغرب", "موريتانيا", "السودان"}},
 	{"IN:en", `cannabis OR marijuana OR ganja OR charas OR charras OR hashish OR "Kerala ganja"`,
 		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR convicted OR sentenced OR jailed OR executed`,
-		[]string{"Nepal", `"Sri Lanka"`, "Bhutan", "Maldives", "Afghanistan", "Iran"}},
+		[]string{"Nepal", `"Sri Lanka"`, "Bhutan", "Maldives", "Afghanistan", "Iran", "Iraq", "Jordan", "Israel"}},
 	// Native editions for these languages are not assumed; explicit English fallbacks.
 	{"SG:en", `cannabis OR marijuana OR marihuana OR ganja OR hashish`,
 		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR convicted OR sentenced OR jailed OR executed OR hanged`,
@@ -125,13 +157,13 @@ var googleNewsCountryGroups = []googleNewsCountryGroup{
 		[]string{"Albania", "Kosovo", `"North Macedonia"`, "Montenegro", `"Bosnia and Herzegovina" OR Bosnia`, "Croatia", "Estonia", "Denmark", "Iceland", "Malta", "Cyprus", `"Northern Cyprus"`, "Luxembourg", "Liechtenstein", "Andorra", "Monaco", `"San Marino"`, `"Faroe Islands"`, "Greenland", `"Isle of Man"`, "Jersey", "Guernsey", "Gibraltar"}},
 	{"DE:de", `Cannabis OR Marihuana OR Haschisch OR Hanf OR Cannabispflanzen`,
 		`beschlagnahmt OR sichergestellt OR festgenommen OR verurteilt OR Razzia OR Plantage`,
-		[]string{`Österreich OR österreichisch`, `Schweiz OR Schweizer`, "Liechtenstein"}},
+		[]string{`Österreich OR österreichisch`, `Schweiz OR Schweizer`, "Liechtenstein", `"Südtirol" OR Bozen`}},
 	{"FR:fr", `cannabis OR haschich OR haschisch OR "résine de cannabis" OR zamal OR pakalolo`,
 		`saisie OR saisi OR saisis OR interpellé OR arrêté OR condamné OR perquisition OR prison OR détruit`,
 		[]string{`Belgique OR belge`, "Luxembourg", "Haïti", "Guadeloupe", "Martinique", "Guyane", `"Polynésie française" OR Tahiti`, `"Nouvelle-Calédonie"`}},
 	{"MX:es-419", `marihuana OR mariguana OR cannabis OR hachís OR mota OR "cannabis sativa"`,
 		`incautan OR incautación OR incautaron OR decomiso OR decomisaron OR detenidos OR capturados OR erradicación OR plantación OR plantío OR condenado OR sentenciado`,
-		[]string{"Guatemala", "Honduras", `"El Salvador"`, "Nicaragua", `"Costa Rica"`, "Panamá", "Cuba", `"República Dominicana"`, `"Puerto Rico"`, "Colombia", "Venezuela", "Ecuador", "Perú", "Bolivia", "Paraguay", "Uruguay", "Argentina", "Chile"}},
+		[]string{"Guatemala", "Honduras", `"El Salvador"`, "Nicaragua", `"Costa Rica"`, "Panamá", "Cuba", `"República Dominicana"`, `"Puerto Rico"`, "Colombia", "Venezuela", "Ecuador", "Perú", "Bolivia", "Paraguay", "Uruguay", "Argentina", "Chile", `"Guinea Ecuatorial"`}},
 	{"US:en", `cannabis OR marijuana OR marihuana OR ganja OR hashish OR hemp`,
 		`seized OR recovered OR arrested OR raid OR uprooted OR destroyed OR charged OR convicted OR sentenced OR jailed`,
 		[]string{"Jamaica", "Belize", `"Trinidad and Tobago"`, "Barbados", "Bahamas", "Bermuda", "Grenada", "Dominica", `"Saint Lucia" OR "St Lucia"`, `"Saint Vincent" OR "St Vincent"`, `"Saint Kitts" OR "St Kitts"`, "Antigua", "Guyana", "Suriname", `"Cayman Islands"`, `"British Virgin Islands"`, `"US Virgin Islands" OR "U.S. Virgin Islands"`, `"Turks and Caicos"`, "Aruba", `Curaçao OR Curacao`}},

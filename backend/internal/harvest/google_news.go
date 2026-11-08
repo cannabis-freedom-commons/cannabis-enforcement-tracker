@@ -78,10 +78,15 @@ type GoogleNews struct {
 	// QueriesPerScan rotates through the queries, this many per scan (0 = all). Searches
 	// use one-day or seven-day lookbacks; the default rotation stays within both.
 	QueriesPerScan int
-	client         *http.Client // tests inject a transport; production always uses safeurl's pinned transport
+	// QueueTarget holds new articles back while this many research jobs already wait (0 = off).
+	QueueTarget int
+	client      *http.Client // tests inject a transport; production always uses safeurl's pinned transport
 }
 
-type GoogleNewsStats struct{ Found, Queued, Known, Unresolved int }
+type GoogleNewsStats struct {
+	Found, Queued, Known, Unresolved int
+	Deferred                         bool // the research queue was full; the batch is retried next scan
+}
 
 func (g GoogleNews) request(ctx context.Context, raw string, form url.Values) ([]byte, string, error) {
 	normalized, err := safeurl.Normalize(raw)
@@ -238,6 +243,15 @@ func (g GoogleNews) scan(ctx context.Context, queries []GoogleNewsQuery) (stats 
 	if max <= 0 {
 		max = 25
 	}
+	room, err := queueRoom(ctx, g.Store, g.QueueTarget)
+	if err != nil {
+		return stats, err
+	}
+	if room == 0 {
+		stats.Deferred = true
+		return stats, nil
+	}
+	max = min(max, room)
 	paced := false
 	results := make([][]string, len(queries))
 	for i, query := range queries {
@@ -345,12 +359,12 @@ func (g GoogleNews) batch(n int) []GoogleNewsQuery {
 func (g GoogleNews) Run(ctx context.Context) {
 	interval := g.Interval
 	if interval <= 0 {
-		interval = 5 * time.Minute
+		interval = 2 * time.Minute
 	}
-	slog.Info("Google News discovery enabled", "interval", interval.String(), "queries", len(g.Queries), "queries_per_scan", len(g.batch(0)), "max_new_articles", g.MaxArticles)
+	slog.Info("Google News discovery enabled", "interval", interval.String(), "queries", len(g.Queries), "queries_per_scan", len(g.batch(0)), "max_new_articles", g.MaxArticles, "queue_target", g.QueueTarget)
 	timer := time.NewTimer(time.Second)
 	defer timer.Stop()
-	for n := 0; ; n++ {
+	for n := 0; ; {
 		select {
 		case <-ctx.Done():
 			slog.Info("Google News discovery stopped")
@@ -363,8 +377,15 @@ func (g GoogleNews) Run(ctx context.Context) {
 			if err != nil && ctx.Err() == nil {
 				slog.Warn("Google News scan interrupted", "error", err)
 			}
-			slog.Info("Google News scan complete", "found", stats.Found, "queued", stats.Queued, "known", stats.Known, "unresolved", stats.Unresolved, "duration", time.Since(started).String(), "next_scan_in", interval.String())
-			timer.Reset(interval)
+			next := jitter(interval)
+			if stats.Deferred {
+				// Keep the rotation position: these queries run once the queue has room.
+				slog.Info("Google News scan deferred; research queue full", "queue_target", g.QueueTarget, "next_scan_in", next.String())
+			} else {
+				n++
+				slog.Info("Google News scan complete", "found", stats.Found, "queued", stats.Queued, "known", stats.Known, "unresolved", stats.Unresolved, "duration", time.Since(started).String(), "next_scan_in", next.String())
+			}
+			timer.Reset(next)
 		}
 	}
 }

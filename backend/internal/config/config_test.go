@@ -75,7 +75,7 @@ func TestResearchModelComesFromEnvironment(t *testing.T) {
 func TestGoogleNewsConfiguration(t *testing.T) {
 	defaults(t)
 	c, err := Load()
-	if err != nil || !c.GoogleNewsEnabled || c.GoogleNewsInterval != 5*time.Minute || c.GoogleNewsMaxArticles != 25 || c.GoogleNewsQueriesPerScan != 12 {
+	if err != nil || !c.GoogleNewsEnabled || c.GoogleNewsInterval != 2*time.Minute || c.GoogleNewsMaxArticles != 4 || c.GoogleNewsQueriesPerScan != 5 {
 		t.Fatal(c, err)
 	}
 	t.Setenv("HARVEST_GOOGLE_NEWS_ENABLED", "false")
@@ -137,7 +137,7 @@ func TestJobLogRetention(t *testing.T) {
 func TestBingNewsConfiguration(t *testing.T) {
 	defaults(t)
 	c, err := Load()
-	if err != nil || !c.BingNewsEnabled || c.BingNewsInterval != 5*time.Minute || c.BingNewsMaxArticles != 10 || c.BingNewsQueriesPerScan != 4 {
+	if err != nil || !c.BingNewsEnabled || c.BingNewsInterval != 3*time.Minute || c.BingNewsMaxArticles != 3 || c.BingNewsQueriesPerScan != 3 {
 		t.Fatal(c, err)
 	}
 	t.Setenv("HARVEST_BING_NEWS_ENABLED", "false")
@@ -151,7 +151,7 @@ func TestBingNewsConfiguration(t *testing.T) {
 		"HARVEST_BING_NEWS_INTERVAL":         {"0s", "25h", "bad"},
 		"HARVEST_BING_NEWS_MAX_ARTICLES":     {"0", "101", "bad"},
 		"HARVEST_BING_NEWS_QUERIES_PER_SCAN": {"0", "51", "bad"},
-		"HARVEST_BING_NEWS_QUERIES":          {"[zh-cn] 大麻", strings.Repeat("a", 1001), strings.Repeat("cannabis|", 51)},
+		"HARVEST_BING_NEWS_QUERIES":          {"[zh-cn] 大麻", strings.Repeat("a", 1001), strings.Repeat("cannabis|", harvest.MaxBingNewsQueries+1)},
 	} {
 		for _, value := range values {
 			t.Run(key+"/"+value[:min(20, len(value))], func(t *testing.T) {
@@ -179,6 +179,29 @@ func TestResearchAgentsConfiguration(t *testing.T) {
 		t.Setenv("RESEARCH_AGENTS", raw)
 		if _, err := Load(); err == nil {
 			t.Fatalf("accepted %s", raw)
+		}
+	}
+}
+
+func TestHarvestQueueTarget(t *testing.T) {
+	defaults(t)
+	t.Setenv("WORKER_CONCURRENCY", "3")
+	c, err := Load()
+	if err != nil || c.HarvestQueueTarget != -1 || c.QueueTarget() != 2*c.MaxWorkers() {
+		t.Fatal("automatic queue target", c.QueueTarget(), c.MaxWorkers(), err)
+	}
+	t.Setenv("HARVEST_QUEUE_TARGET", "0")
+	if c, err = Load(); err != nil || c.QueueTarget() != 0 {
+		t.Fatal("backpressure cannot be disabled", c.QueueTarget(), err)
+	}
+	t.Setenv("HARVEST_QUEUE_TARGET", "30")
+	if c, err = Load(); err != nil || c.QueueTarget() != 30 {
+		t.Fatal(c.QueueTarget(), err)
+	}
+	for _, bad := range []string{"-2", "1001", "many"} {
+		t.Setenv("HARVEST_QUEUE_TARGET", bad)
+		if _, err := Load(); err == nil {
+			t.Fatal("invalid queue target accepted", bad)
 		}
 	}
 }

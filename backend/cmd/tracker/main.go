@@ -220,7 +220,7 @@ func run() error {
 				collectors.Add(1)
 				go func() {
 					defer collectors.Done()
-					(harvest.GoogleNews{Store: s, Queries: queries, Interval: c.GoogleNewsInterval, MaxArticles: c.GoogleNewsMaxArticles, QueriesPerScan: c.GoogleNewsQueriesPerScan}).Run(ctx)
+					(harvest.GoogleNews{Store: s, Queries: queries, Interval: c.GoogleNewsInterval, MaxArticles: c.GoogleNewsMaxArticles, QueriesPerScan: c.GoogleNewsQueriesPerScan, QueueTarget: c.QueueTarget()}).Run(ctx)
 				}()
 			}
 			if c.BingNewsEnabled {
@@ -231,7 +231,7 @@ func run() error {
 				collectors.Add(1)
 				go func() {
 					defer collectors.Done()
-					(harvest.BingNews{Store: s, Queries: queries, Interval: c.BingNewsInterval, MaxArticles: c.BingNewsMaxArticles, QueriesPerScan: c.BingNewsQueriesPerScan}).Run(ctx)
+					(harvest.BingNews{Store: s, Queries: queries, Interval: c.BingNewsInterval, MaxArticles: c.BingNewsMaxArticles, QueriesPerScan: c.BingNewsQueriesPerScan, QueueTarget: c.QueueTarget()}).Run(ctx)
 				}()
 			}
 			collectors.Wait()

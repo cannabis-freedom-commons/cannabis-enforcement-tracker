@@ -213,6 +213,15 @@ func TestGoogleDefaultsReachSparseCountriesAndRegionalNames(t *testing.T) {
 	}
 	// Geographic reach should start on the first scan, including after a restart.
 	first := (GoogleNews{Queries: DefaultGoogleNewsQueries, QueriesPerScan: 12}).batch(0)
+	for _, ed := range []string{"CA:en", "CA:fr", "AU:en", "NZ:en", "IE:en", "AR:es-419", "CO:es-419", "CL:es-419", "PE:es-419", "VE:es-419", "CU:es-419", "AT:de", "CH:de", "CH:fr", "BE:fr", "BE:nl", "EE:et", "MY:en", "AE:ar", "GH:en", "UG:en", "TZ:en", "ZW:en", "ET:en", "NA:en", "BW:en", "SN:fr"} {
+		found := false
+		for _, q := range DefaultGoogleNewsQueries {
+			found = found || q.Edition == ed
+		}
+		if !found {
+			t.Fatal("missing native edition", ed)
+		}
+	}
 	editions := map[string]bool{}
 	for _, q := range first {
 		editions[q.Edition] = true
@@ -331,7 +340,7 @@ func TestGoogleNewsLiveFeeds(t *testing.T) {
 }
 
 func TestGoogleDefaultRotationCoversAllQueries(t *testing.T) {
-	g := GoogleNews{Queries: DefaultGoogleNewsQueries, QueriesPerScan: 12}
+	g := GoogleNews{Queries: DefaultGoogleNewsQueries, QueriesPerScan: 5}
 	seen := map[GoogleNewsQuery]bool{}
 	scans := (len(g.Queries) + g.QueriesPerScan - 1) / g.QueriesPerScan
 	for n := range scans {
@@ -346,8 +355,13 @@ func TestGoogleDefaultRotationCoversAllQueries(t *testing.T) {
 	if len(seen) != len(g.Queries) {
 		t.Fatal("rotation omitted queries", len(seen), len(g.Queries))
 	}
-	if time.Duration(scans)*(5*time.Minute+5*time.Minute) >= 24*time.Hour {
-		t.Fatal("default rotation exceeds query lookback")
+	// Worst case per scan: the 2m interval plus 20% jitter plus the 5m scan timeout.
+	worst := time.Duration(scans) * (2*time.Minute*6/5 + 5*time.Minute)
+	if worst >= 24*time.Hour {
+		t.Fatal("default rotation exceeds query lookback", worst)
 	}
-	t.Logf("%d queries rotate in %d scans (at most %s at defaults)", len(g.Queries), scans, time.Duration(scans)*10*time.Minute)
+	if len(g.Queries) > MaxGoogleNewsQueries {
+		t.Fatal("defaults exceed the query bound", len(g.Queries))
+	}
+	t.Logf("%d queries rotate in %d scans (at most %s at defaults)", len(g.Queries), scans, worst)
 }

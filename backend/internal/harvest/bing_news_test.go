@@ -125,7 +125,7 @@ func TestBingQueriesAndFeeds(t *testing.T) {
 		t.Fatal(q, err)
 	}
 	g := BingNews{Queries: DefaultBingNewsQueries, QueriesPerScan: 4}
-	if g.batch(0)[0] != g.Queries[0] || g.batch(1)[0] != g.Queries[4] || g.batch(2)[0] != g.Queries[8] || g.batch(3)[0] != g.Queries[0] {
+	if g.batch(0)[0] != g.Queries[0] || g.batch(1)[0] != g.Queries[4] || g.batch(2)[0] != g.Queries[8] || g.batch(len(g.Queries))[0] != g.Queries[0] {
 		t.Fatal("query rotation failed")
 	}
 	for _, body := range []string{"<html>challenge</html>", "not XML", "<feed/>", "<rss><channel>" + strings.Repeat("<item/>", 251) + "</channel></rss>"} {
