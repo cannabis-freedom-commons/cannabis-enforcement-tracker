@@ -62,6 +62,10 @@ sources:
     url: https://www.wtnh.com/news/connecticut/new-haven/branford-police-seize-illegal-cannabis-products-arrest-convenience-store-clerk/
     publisher: WTNH News 8
     date: 2026-11-08
+  - title: 'Store Clerk Arrested, Illegal Cannabis Products Seized: Branford Police'
+    url: https://patch.com/connecticut/branford/store-clerk-arrested-illegal-cannabis-products-seized-branford-police
+    publisher: Branford, CT Patch
+    date: 2026-11-08
 open_questions:
   - The article gives no date for the inspection or the clerk's arrest; 8 November 2026 is its publication date and is used as the incident date.
   - The seizure weights are police approximations in pounds and include a combined category of concentrates and vape products, so no separate concentrate weight is recorded.
@@ -72,14 +76,17 @@ open_questions:
   - The page credits its only photograph to the Branford Police Department, and the image shows the clerk's face; it is listed as a booking-style handout photo.
   - WTNH gives the flower seizure as more than 1 pound, while the report records 1.1 pounds from the earlier account.
   - The article gives no separate date for the inspection or the arrest; 8 November 2026 is its publication date.
+  - The article gives no separate date for the inspection or the arrest; 8 November 2026 is its publication date and is used as the incident date.
+  - Patch gives no court appearance date for the clerk; the recorded 17 November date rests on other outlets.
+  - Patch reports the cannabis categories as pounds and counts of containers and units, with concentrates and vape products combined, so no separate concentrate weight can be derived.
 ---
 
 A 33-year-old clerk at SAS Convenience Store on East Main Street in Branford,
 Connecticut, was charged with drug offences after police and state regulators
-seized cannabis products from a business not licensed to sell them. [@1]
+seized cannabis products from a business not licensed to sell them. [@1,3]
 Branford police said they inspected the store after a resident reported that
-minors were buying marijuana products there. [@1,2] The business had previously
-traded under the name ASA Smoke Shop. [@1]
+minors were buying marijuana products there. [@1,2,3] The business had previously
+traded under the name ASA Smoke Shop. [@1,3]
 
 Police identified the clerk as Salah Kannane of Branford and charged him with
 possession of a controlled substance, operating a drug factory and three counts
@@ -89,13 +96,15 @@ is due in court on 17 November, the Branford Police Department said. [@1,2]
 Detectives and agents from the Cannabis Control Division of the state Department
 of Consumer Protection seized about 1.5 pounds (0.68 kg) of cannabis edibles,
 4.2 pounds (1.9 kg) of concentrates and vape products and 1.1 pounds (0.5 kg) of
-cannabis flower, according to police. [@1,2] Investigators also found packages of
+cannabis flower, according to police. [@1,2,3] Investigators also found packages of
 kratom, which police described as a Schedule 1 controlled substance in this
 investigation. [@1] Police said they found scales, packing materials and a BB
 gun at the store, and that the products were consistent with a drug factory.
-[@1,2] It was the second time a BB gun resembling a handgun had been found at the
-location, police said. [@1]
+[@1,2,3] It was the second time a BB gun resembling a handgun had been found at the
+location, police said. [@1,3]
 
 Branford police said this was the fifth time they had found illegal cannabis
 sales at the store, and that they had previously arrested store clerks and the
-owner over alleged illegal drug sales there. [@1]
+owner over alleged illegal drug sales there. [@1,3]
+
+The edibles weighed 1.5125 pounds in total and came in 17 containers of 100 mg THC each, 12 containers of 200 mg THC each and 8 containers of 1,000 mg THC each. [@3] The concentrates and vape products weighed 4.2125 pounds in total and came as 155 individual units. [@3] The cannabis flower weighed 1.078 pounds in total and came in 91 containers. [@3] Police said that in numerous instances they learned of illegal sales after a minor bought cannabis products at the store and a parent later found the products in the child's possession. [@3]
