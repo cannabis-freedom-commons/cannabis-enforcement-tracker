@@ -62,28 +62,34 @@ sources:
     publisher: France-Antilles Guadeloupe
     date: 2026-05-29
     language: fr
+  - title: 'Cocaïne, cannabis, téléphones, armes artisanales : importante saisie lors d’une fouille au centre pénitentiaire de Baie-Mahault'
+    url: https://la1ere.franceinfo.fr/guadeloupe/cocaine-cannabis-telephones-armes-artisanales-importante-saisie-lors-d-une-fouille-au-centre-penitentiaire-de-baie-mahault-1705138.html
+    publisher: Guadeloupe La 1ère
+    date: 2026-05-28
+    language: fr
 open_questions:
   - No arrests, charges or court outcome were reported from the search; France-Antilles says only that the Pointe-à-Pitre and Basse-Terre prosecutors were informed and that inquiries into the 15 May stabbing were under way.
   - No value for the seized cannabis was published.
   - The RCI page's address mentions 12 kilos of cocaine, which matches neither its headline nor its text; the report follows the article text, where cocaine appears only as 21 grams.
   - The 1.26 kg cannabis total adds two stated quantities, 1.2 kg of herb and 56 g of resin, rather than reproducing a single published weight.
   - The page photos come from RCI and the gendarmerie without a published licence, so they are linked here, not copied.
+  - The page photo shows a prison corridor credited to Hélène Valenzuela / AFP and is not established to show this search or its haul, so no media entry is listed.
 ---
 
 About 200 prison staff and gendarmes searched the centre pénitentiaire de
 Baie-Mahault, the prison at Baie-Mahault in Guadeloupe, on Friday 22 May 2026, a
 week after a detainee was wounded with a bladed weapon inside the prison on 15
-May. [@1] The operation mobilised 110 prison administration staff, including
+May. [@1,4] The operation mobilised 110 prison administration staff, including
 specialist intervention teams from the Basse-Terre remand centre and the Ducos
 prison in Martinique. [@1] The gendarmerie committed 90 personnel, among them a
 mobile gendarmerie squadron, 15 departmental gendarmes from the Baie-Mahault
 brigade, units of the Pointe-à-Pitre company and a dog team. [@2]
 
-Officers searched 40 cells and checked 153 detainees. [@2] They seized 1.2 kg of
+Officers searched 40 cells and checked 153 detainees. [@2,4] They seized 1.2 kg of
 cannabis herb and 56 grams of cannabis resin, which total about 1.26 kg of
-cannabis. [@2] France-Antilles listed the cannabis as 1.2 kg of herb plus 56 g
+cannabis. [@2,4] France-Antilles listed the cannabis as 1.2 kg of herb plus 56 g
 of resin. [@3] The search also turned up 21 grams of cocaine, recorded
-separately and left out of the cannabis figures. [@1] Officers also seized 75
+separately and left out of the cannabis figures. [@1,4] Officers also seized 75
 mobile phones, a flick knife, a ceramic knife, 20 handmade spike weapons and
 four pairs of scissors. [@2]
 
@@ -98,4 +104,3 @@ official capacity, and said the Pointe-à-Pitre and Basse-Terre prosecutors had
 been informed. [@3] The regional prison service direction said operations of
 this kind would be repeated without warning to deter detainees from keeping
 prohibited objects. [@3]
-
