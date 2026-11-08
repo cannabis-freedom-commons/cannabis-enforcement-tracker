@@ -116,6 +116,8 @@ open_questions:
   - BERITA Mediacorp's report is a Malay translation of the same CNB statement carried by CNA and adds no independent account of the arrest.
   - The report again gives no charge or court outcome for the 64-year-old, only that drug investigations were ongoing and he was referred to police over the assault.
   - The S$55,000 estimate still covers cannabis and Ice together and cannot be attributed to the cannabis alone.
+  - Stomp reproduces the same Central Narcotics Bureau media release as the accounts already cited in the report, so it is not independent reporting of the arrest.
+  - Stomp gives no charge or court outcome for the 64-year-old, only that investigations into his drug activities were ongoing and that he was referred to police over the assault.
 ---
 
 Central Narcotics Bureau officers arrested a 64-year-old Singaporean man on
@@ -136,7 +138,7 @@ for further investigation of voluntarily causing hurt and of using criminal
 force to deter public servants from their duties. [@1,5,7,8] The bureau said its
 investigation into the man's drug activities was still under way. [@2,3,6,7,8]
 
-The bureau said the drugs seized were worth more than S$55,000 and that the cannabis and Ice could feed the addiction of 320 abusers for a week. [@3,7,8] All three officers were taken down. [@4]
+The bureau said the drugs seized were worth more than S$55,000 and that the cannabis and Ice could feed the addiction of 320 abusers for a week. [@1,3,7,8] All three officers were taken down. [@4]
 
 The three affected officers were reported to be well after treatment including infectious-disease checks. [@7] The bureau said it would give its full support to officers injured in the line of duty. [@7]
 
