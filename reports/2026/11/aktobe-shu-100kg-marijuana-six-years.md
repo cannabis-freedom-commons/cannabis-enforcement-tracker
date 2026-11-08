@@ -66,6 +66,11 @@ sources:
     publisher: Azattyq Rýhy
     date: 2026-11-08
     language: ru
+  - title: 'Казахстанец нашел мешки с марихуаной и решил подзаработать: чем все закончилось'
+    url: https://mail.kz/ru/news/kz-news/kazahstanec-nashel-meshki-s-marihuanoi-i-reshil-podzarabotat-chem-vse-zakonchilos
+    publisher: Mail.KZ
+    date: 2026-11-08
+    language: ru
 open_questions:
   - The article gives no date for the arrest, the trial or the sentencing; 8 November 2026 is its publication date and stands in for the incident date.
   - The court is named only as a specialised court in Aktobe, and it is not stated whether the six-year term was handed down at first instance or whether it can be appealed.
@@ -80,20 +85,25 @@ open_questions:
   - The page's only image is captioned as an illustrative stock photo from om-saratov.ru and does not show this event.
   - Azattyq Rýhy credits the Aktobe outlet Diapazon and reproduces its account, so it is not independent reporting of the sentence.
   - The page's only image is an istockphoto stock illustration and does not show this event, so no media is listed.
+  - Mail.KZ credits Zakon.kz and the Diapazon newspaper and reproduces Diapazon's text, so it is not independent reporting of the sentence.
+  - The article gives no date for the arrest, trial or sentencing; 8 November 2026 is its publication date and is used as the incident date.
+  - The article gives no Criminal Code article, plea, appeal prospects or confiscation details.
+  - The page's only image is captioned as a pixabay stock photo and does not show this event, so no media link is listed.
+  - The page also reports a separate 2 November 2026 Almaty mephedrone laboratory bust, a different event not covered here.
 ---
 
 A court in Aktobe sentenced a 43-year-old man from the town of Shu to six years
-in prison for storing and selling marijuana. [@1,2,3] He had tried to sell 100
-kilograms of marijuana in Aktobe for 13 million tenge. [@1,2,3] The buyer was a KNB
+in prison for storing and selling marijuana. [@1,2,3,4] He had tried to sell 100
+kilograms of marijuana in Aktobe for 13 million tenge. [@1,2,3,4] The buyer was a KNB
 officer working undercover; the KNB is Kazakhstan's national security service.
-[@1,2,3] He was tried at a specialised court in Aktobe. [@1,2,3]
+[@1,2,3,4] He was tried at a specialised court in Aktobe. [@1,2,3]
 
 In court he said he found the bags of drugs along the Aktobe-Atyrau highway when
 he got out of his car to relieve himself, and returned the next day to move them
-to a car service station in Aktobe. [@1,2,3] He told the court he recognised the
+to a car service station in Aktobe. [@1,2,3,4] He told the court he recognised the
 smell, feared criminal liability, but came back to earn money and pay off debts,
-and said he committed the crime alone. [@1,2,3]
+and said he committed the crime alone. [@1,2,3,4]
 
 A man called Ruslan agreed to buy the marijuana at 130,000 tenge per kilogram,
 13 million tenge for the whole batch, and the man was detained after showing him
-the goods. [@1,2,3]
+the goods. [@1,2,3,4]
