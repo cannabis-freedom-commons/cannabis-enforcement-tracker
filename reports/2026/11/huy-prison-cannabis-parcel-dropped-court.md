@@ -37,6 +37,11 @@ sources:
     publisher: L'Avenir
     date: 2026-11-06
     language: fr
+  - title: '11 affaires judiciaires insolites en Wallonie: Nicolas Ullens condamné à 12 ans, un doigt d''honneur en plein procès et une bodycam décisive (vidéo) - L''Avenir'
+    url: https://www.lavenir.net/actu/2026/11/08/11-affaires-judiciaires-insolites-en-wallonie-nicolas-ullens-condamne-a-12-ans-un-doigt-dhonneur-en-plein-proces-et-une-bodycam-decisive-video-MH33KX4KPZFLPLLLKJHJWWBQ5A/
+    publisher: L'Avenir
+    date: 2026-11-08
+    language: fr
 open_questions:
   - The article gives no date for the walk or the parcel drop; 6 November 2026, the publication date, stands in for it.
   - No weight or value is given for the parcel of cannabis, so no quantity is recorded.
@@ -47,22 +52,21 @@ open_questions:
 
 A 38-year-old man detained at Huy prison appeared before the Huy criminal court
 accused of picking up a parcel of cannabis thrown over the prison walls during
-his daily walk in the yard. [@1] He said that when he saw the parcels falling
+his daily walk in the yard. [@1,2] He said that when he saw the parcels falling
 from the sky he took one and hid it as best he could. [@1] He said he carried
 the parcel with him to a visit so that guards would not find it in their search,
 and was caught with it. [@1]
 
 The defendant had been convicted several times before, including for theft, and
 has been dependent on several kinds of drugs for many years. [@1] He told the
-court that drugs come over the prison walls every day. [@1] After a spell in
+court that drugs come over the prison walls every day. [@1,2] After a spell in
 Saint-Hubert prison he told the judge he wanted to turn his life around and said
 he had begun steps to do so, including a horticulture course in prison. [@1]
 
 His lawyer asked for a community service sentence, which he argued would help
-his client reintegrate into society, and the deputy prosecutor agreed. [@1] The
-court is due to give its judgment on 3 December. [@1] The man said he had
+his client reintegrate into society, and the deputy prosecutor agreed. [@1,2] The
+court is due to give its judgment on 3 December. [@1,2] The man said he had
 stopped using cocaine and now smokes only tobacco, and that he wants housing
 when he leaves prison to live with his four children. [@1] If the judge chooses
 community service, he could be released within a few months of another sentence
 after applying for an electronic bracelet. [@1]
-
