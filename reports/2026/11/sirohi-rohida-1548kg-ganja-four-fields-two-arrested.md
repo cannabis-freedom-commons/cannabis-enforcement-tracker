@@ -69,6 +69,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-08
     language: hi
+  - title: रोहिड़ा में 1 करोड़ से अधिक का गांजा पकड़ा, 1548 किलो पौधे जब्त
+    url: https://www.bhaskar.com/local/rajasthan/sirohi/news/ganja-worth-over-rs-1-crore-seized-in-rohida-1548-kg-plants-confiscated-dbp-139615810.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-07
+    language: hi
 open_questions:
   - The article gives no separate date for the raid; 6 November 2026 is its publication date and is used as the incident date.
   - No count of the plants seized in the four fields was published, only their combined weight of 1,548.484 kg.
@@ -83,6 +88,8 @@ open_questions:
   - Amar Ujala describes the seized material as more than 1.5 tonnes of ganja plants and says police uprooted and seized the plants, without giving a plant count, a field area or a split between seized and destroyed plants.
   - 'The names of the two suspects differ slightly between outlets: Amar Ujala gives Saniya alias Sunil while ETV Bharat gave Sunil alias Suniyaram; no reconciliation was published.'
   - Amar Ujala's page image is a stock photo credited to ANI, not a picture of this raid, so it is not listed as media.
+  - Only the opening paragraph and headline of the Dainik Bhaskar page were readable; the rest of the article was behind an app paywall, so its figures for plants, fields and arrests could not be checked here.
+  - The page's readable text gives no separate date for the raid and no mention of Operation Trinetra or the arrested men's names.
 ---
 
 Sirohi police arrested a 25-year-old man and a 19-year-old man, both residents
@@ -93,7 +100,7 @@ network. [@1]
 
 Officers searched four separate fields in the Rohida police station area and
 seized 1,548.484 kg of green ganja plants in total. [@1] The plants were found
-growing illegally among maize and other crops in the hilly terrain. [@1,2] Police
+growing illegally among maize and other crops in the hilly terrain. [@1,2,4] Police
 put the estimated value of the seized ganja at more than one crore rupees. [@1,2,3]
 The raid followed a tip-off, with the team led by the Rohida station officer
 under the supervision of additional superintendent Narendra Kumar and circle
