@@ -71,6 +71,11 @@ sources:
     publisher: Hradecká Drbna
     date: 2026-11-07
     language: cs
+  - title: Královéhradečtí kriminalisté obvinili muže kvůli distribuci drog
+    url: https://tydenikpolicie.cz/kralovehradecti-kriminaliste-obvinili-muze-kvuli-distribuci-drog/
+    publisher: Týdeník Policie
+    date: 2026-11-08
+    language: cs
 open_questions:
   - The articles give no separate date for the police check or the detention; 6 November 2026 is the publication date of both reports and is used as the incident date.
   - No weight, amount or street value was published for the marijuana or any other drug, so no cannabis quantity or valuation is recorded.
@@ -87,6 +92,9 @@ open_questions:
   - The two police photographs show cash from the seizure rather than the cannabis itself.
   - Drbna gives no separate date for the police check beyond early November; 7 November 2026 is its publication date.
   - Drbna confirms that marijuana was among the substances but publishes no cannabis weight, item count or street value.
+  - Týdeník Policie republishes the regional police statement and gives no separate date for the check beyond early November, so it does not resolve the date question.
+  - The outlet publishes no weight, item count or street value for the marijuana or the other drugs.
+  - Its single photo shows seized banknotes credited to Policie ČR and is not added again because it is the same police handout already linked from the official police statement.
 ---
 
 A routine police patrol check in Hradec Králové in early November 2026 ended
@@ -99,10 +107,10 @@ A subsequent expert examination confirmed that the man was holding part of the
 substances for further distribution. [@2,3] Královéhradecští criminal
 investigators charged him with the especially serious offence of unlawful
 production and other handling of narcotic and psychotropic substances and
-poisons under section 283 of the criminal code. [@1,3,4] The offence carries a
+poisons under section 283 of the criminal code. [@1,3,4,5] The offence carries a
 maximum of ten years in prison. [@1,3]
 
 The man had been convicted by courts repeatedly before, part of that record for
 drug crime, and was at the time of his detention in the probation period of a
 conditional release from prison, according to police spokesperson Martina
-Jandová. [@2] He is now prosecuted in custody. [@2,3,4]
+Jandová. [@2,5] He is now prosecuted in custody. [@2,3,4,5]
