@@ -76,6 +76,10 @@ sources:
     url: https://www.msn.com/en-us/news/other/obn-agents-seize-1-000-marijuana-plants-from-illegal-grow/ar-AA2gL4A9
     publisher: MSN / KOKH
     date: 2026-11-04
+  - title: One arrested, more than 1,000 plants seized in McAlester marijuana bust
+    url: https://www.msn.com/en-us/news/other/one-arrested-more-than-1-000-plants-seized-in-mcalester-marijuana-bust/ar-AA2gLccK
+    publisher: MSN / KFOR.com Oklahoma City
+    date: 2026-11-04
 open_questions:
   - The article gives no separate date for the search, so 4 November 2026, its publication date, is used as the incident date.
   - The arrested person was not named, and no custody status, formal charges or court outcome were reported.
@@ -94,25 +98,25 @@ open_questions:
 ---
 
 Oklahoma Bureau of Narcotics agents arrested one person during a search at a
-property in McAlester, Oklahoma. [@1,2,3,5,6,7] Agents served a search warrant at the
+property in McAlester, Oklahoma. [@1,2,3,5,6,7,8] Agents served a search warrant at the
 property as part of an ongoing investigation into the illegal cultivation of
-marijuana. [@1,2,3,5,6] The property stands just west of Lake McAlester. [@1] The
+marijuana. [@1,2,3,5,6,8] The property stands just west of Lake McAlester. [@1] The
 arrested person was held on a complaint of aggravated manufacturing of a
-controlled substance. [@1,2,3,5,6]
+controlled substance. [@1,2,3,5,6,8]
 
-Investigators seized 1,006 marijuana plants at the property. [@1,2,3,5,6,7] The Bureau
+Investigators seized 1,006 marijuana plants at the property. [@1,2,3,5,6,7,8] The Bureau
 described the result as more than 1,000 marijuana plants seized during the
 McAlester search. [@1,2]
 
 The Bureau said agents determined the marijuana was being grown without a
 license from the Oklahoma Medical Marijuana Authority, or OMMA, or registration
-with the Bureau of Narcotics. [@1,2,3,6] Unlicensed cultivation was therefore the
+with the Bureau of Narcotics. [@1,2,3,6,8] Unlicensed cultivation was therefore the
 stated basis for the enforcement action. [@1] The investigation was continuing
 at the time of publication, and the Bureau said additional arrests were
 possible. [@1,2,3,5,6]
 
 The search occurred in the 600 block of W. Pasture Rd. in McAlester. [@2,7]
 
-The search warrant was served on Tuesday, 3 November 2026, the day before the account was published. [@2,3]
+The search warrant was served on Tuesday, 3 November 2026, the day before the account was published. [@2,3,8]
 
 Oklahoma Bureau of Narcotics public information officer Mark Woodward said the bureau's investigation found marijuana grown at the McAlester property without an OMMA license or an OBN registration. [@2,5] The McAlester News-Capital listed a report on the same operation, headlined OBN works illegal marijuana operation in McAlester, among its Oklahoma news on 4 November 2026. [@4]
