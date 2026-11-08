@@ -57,6 +57,11 @@ sources:
     publisher: Kaler Kantho
     date: 2026-11-01
     language: bn
+  - title: ক্যালিফোর্নিয়ায় বসে রিমোট কন্ট্রোলে চলতো কুশ ল্যাব, সেই তৌসিফ গ্রেপ্তার
+    url: https://www.dhakapost.com/national/494666
+    publisher: Dhaka Post
+    date: 2026-11-01
+    language: bn
 open_questions:
   - The Times Squire account reprints The Business Standard report and adds no independent reporting.
   - No weight was published for the cultivated plants or freshly harvested Kush found in the earlier lab raid.
@@ -65,14 +70,15 @@ open_questions:
   - The 10 yaba tablets are methamphetamine, not cannabis, and are excluded from the cannabis figures above.
   - This account calls Kush an unconventional synthetic drug, while the existing report treats it as high-potency cannabis; the 100 g of ganja and the cultivated plants support the cannabis component recorded here.
   - The page's lead photo could not be verified as showing this event from its caption, so no media entry is included.
+  - The Dhaka Post times the arrest operation between 8:30am and 9am, while the existing report says around 9am.
 ---
 
 A US citizen accused of operating a remote-controlled Kush cultivation laboratory
 in Dhaka's Wari from California was arrested by the Department of Narcotics
-Control, the DNC, on 1 November 2026. [@1,2,3] Intelligence officers arrested
+Control, the DNC, on 1 November 2026. [@1,2,3,4] Intelligence officers arrested
 Tausif Hasan, 22, at his residence on Rankin Street in Wari at around 9am,
 recovering 10 yaba tablets, 100 grammes of cannabis and equipment used to
-consume the drugs. [@1,2,3]
+consume the drugs. [@1,2,3,4]
 
 Yaba is a methamphetamine-based tablet, not cannabis; the cannabis component of
 this mixed case stands separately supported at 100 grammes, and the yaba is
@@ -93,7 +99,7 @@ for cultivating Kush, the DNC's term for high-potency cannabis. [@1,2] The raid
 yielded Kush seeds brought from California, cultivated plants, freshly harvested
 Kush, cultivation equipment, shisha-smoking accessories and foreign liquor, with
 several pots of Kush plants inside a temperature-controlled rooftop room built
-with tin sheets and foil paper. [@1,2,3]
+with tin sheets and foil paper. [@1,2,3,4]
 
 Investigators found that Tausif had learned Kush cultivation techniques while
 living in California before returning to Bangladesh and setting up the
@@ -103,3 +109,5 @@ identity, the woman allegedly tried to send 32 yaba tablets to the United States
 through a courier service; the DNC seized the consignment and arrested her and
 Tausif's house caretaker, in a case filed with Tongi West Police Station naming
 Tausif as a fugitive accused. [@1,2]
+
+The arrest operation was carried out between 8:30am and 9am by a team of the DNC divisional intelligence office in Dhaka. [@4]
