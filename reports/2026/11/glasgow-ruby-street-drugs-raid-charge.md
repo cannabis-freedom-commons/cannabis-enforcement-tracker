@@ -60,6 +60,10 @@ sources:
     url: https://news.stv.tv/west-central/man-charged-after-drugs-and-cash-seized-from-property-in-glasgow
     publisher: STV News
     date: '2026-11-02'
+  - title: Police recover £9k worth of cocaine, cannabis and MDMA in drugs bust in Glasgow's east end
+    url: https://www.msn.com/en-gb/news/other/police-recover-9k-worth-of-cocaine-cannabis-and-mdma-in-drugs-bust-in-glasgow-s-east-end/ar-AA2gBrFn
+    publisher: Glasgow Live
+    date: 2026-11-02
 open_questions:
   - >-
     No separate weight or value was published for the cannabis portion, and the £9,200 figure covers cocaine,
@@ -82,12 +86,12 @@ Police Scotland arrested and charged a 26-year-old man after recovering cannabis
 
 Police in Glasgow arrested and charged a 26-year-old man following a police bust
 in the city. [@1] The 26-year-old man is due to appear at Glasgow Sheriff Court
-on Tuesday, 3 November. [@1]
+on Tuesday, 3 November. [@1,5]
 
 Officers executed a search warrant and raided an address on Ruby Street on
-Sunday, 1 November. [@1] The Ruby Street raid recovered cocaine, cannabis and
-MDMA along with a five-figure sum of cash. [@1] Police gave the seized cocaine,
-cannabis and MDMA an estimated combined street value of around £9,200. [@1] The
+Sunday, 1 November. [@1,5] The Ruby Street raid recovered cocaine, cannabis and
+MDMA along with a five-figure sum of cash. [@1,5] Police gave the seized cocaine,
+cannabis and MDMA an estimated combined street value of around £9,200. [@1,5] The
 combined £9,200 valuation covers all three seized drugs together, not cannabis
 alone. [@1]
 
