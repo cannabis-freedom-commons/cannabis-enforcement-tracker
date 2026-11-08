@@ -60,6 +60,11 @@ sources:
     publisher: Ouest-France.fr
     date: 2026-11-06
     language: fr
+  - title: Un demi-kilo de cocaïne, trois kilos de cannabis et une arme de poing dans la maison de famille de ce trentenaire breton
+    url: https://quimper.maville.com/actu/actudet_-un-demi-kilo-de-cocaine-trois-kilos-de-cannabis-et-une-arme-de-poing-dans-la-maison-de-famille-de-ce-trentenaire-breton_dep-7559441_actu.Htm
+    publisher: Ouest-France (Quimper.maville.com)
+    date: 2026-11-06
+    language: fr
 open_questions:
   - Only the opening paragraphs and a quote from the defendant were readable behind the subscriber paywall; the charges, the court that ruled, and any fine or confiscation were not published.
   - The article does not say whether the three kilos were cannabis herb or resin, so the product is recorded as flower only as the generic dried cannabis category.
@@ -71,17 +76,18 @@ open_questions:
   - Only one accessible source for this case was found; the Ouest-France.fr version returned an access error.
   - The rest of the article is behind a subscriber paywall, so the court detail beyond the tribunal de Quimper hearing and any fine or confiscation could not be read in this capture.
   - The page's only image is captioned as an illustration, so no event photo can be added.
+  - This page is a paginated variant of the maville.com URL already cited and the underlying journalism is the same Ouest-France story, so it adds no independent confirmation.
 ---
 
 A young father who lives with his family near Carhaix, in Finistère, was
-sentenced on Friday 6 November 2026 to one year in prison. [@1,2] The sentence
+sentenced on Friday 6 November 2026 to one year in prison. [@1,2,3] The sentence
 followed a search of his home by gendarmes of the Carhaix brigade on Monday 2
 November 2026. [@1,2]
 
 The search turned up half a kilogram of cocaine, three kilograms of cannabis and
-a handgun, which the gendarmes valued at more than €60,000. [@1,2]
+a handgun, which the gendarmes valued at more than €60,000. [@1,2,3]
 
 In court he said he was going through financial trouble and that a man he had
-met while in a youth home offered him €200 to store goods at his house. [@1] He
+met while in a youth home offered him €200 to store goods at his house. [@1,3] He
 said he did not know the exact contents of the goods, but knew they were drugs.
-[@1]
+[@1,3]
