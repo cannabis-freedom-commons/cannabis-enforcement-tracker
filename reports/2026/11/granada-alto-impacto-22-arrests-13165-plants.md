@@ -56,6 +56,11 @@ media:
     media_url: https://static.grupojoly.com/clip/01d15e5e-b06e-4099-bb83-9fbd3e59b361_source-aspect-ratio_1600w_0.jpg
     publisher: Granada Hoy
     caption: 'Guardia Civil handout photo released with the operation''s results. Photo: Guardia Civil / R. G., via Granada Hoy'
+  - kind: photo
+    url: https://www.abc.es/espana/andalucia/granada/guardia-civil-detiene-personas-13000-plantas-marihuana-20261108111519-nts.html
+    media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/08/marihuana1-R1uuy3G3lgDy5ai25qozW9N-1200x840@diario_abc.jpg
+    publisher: Diario ABC
+    caption: 'A Guardia Civil officer in the illegal plantation found in the province of Granada, in the photo published with ABC''s account of the operation. Photo: Guardia Civil (G.C.)'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 05e062c25e9998b09ab897239d0d89a4
@@ -91,6 +96,11 @@ sources:
     publisher: Moncloa
     date: 2026-11-08
     language: es
+  - title: La Guardia Civil detiene a 22 personas con más de 13.000 plantas de marihuana en Granada
+    url: https://www.abc.es/espana/andalucia/granada/guardia-civil-detiene-personas-13000-plantas-marihuana-20261108111519-nts.html
+    publisher: Diario ABC
+    date: 2026-11-08
+    language: es
 open_questions:
   - Bud weight is reported as more than 24 kilos, so the recorded cannabis total of 25.613 kg is a stated minimum combining 24 kg of buds and 1.613 kg of hashish.
   - The Loja seizure is written as 11.605 kilos; it is read as 11.605 kg, consistent with the reported total of more than 24 kilos of buds.
@@ -101,6 +111,8 @@ open_questions:
   - The Guardia Civil describes the balance as provisional and says further arrests are not ruled out.
   - 'Cannabis weights differ slightly between accounts: Granada Hoy gives 4,506 grams of buds from Pulianas while the recorded Loja figure of 11.605 kilos keeps the total at a stated minimum.'
   - The page lead photo is captioned as Guardia Civil officers in Montefrio, Granada, credited to EFE/Miguel Angel Molina, without tying it to a specific seizure in this sweep, so no media entry is added.
+  - ABC attributes the entire Loja cash seizure and the whole Pulianas hashish-free find to the Alto Impacto sweep, matching the totals already recorded; it does not attribute findings to particular suspects beyond those named.
+  - ABC describes the Loja figure as 11,605 kilos of buds, the reading already used for the recorded 11.605 kg.
 ---
 
 Granada's Guardia Civil carried out a special operation between 3 and 5 November
@@ -111,7 +123,7 @@ related crime. [@1]
 
 Across 13 police operations and 33 searches, officers seized 13,165 marijuana
 plants, more than 24 kilos of marijuana buds, 1,613 grams of hashish, 3,328
-grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5,6] They also recovered an air
+grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5,6,7] They also recovered an air
 rifle, ammunition and 19,831 euros in cash. [@1] In Pulianas, two people were
 detained with 3,328 grams of pink cocaine and 4,506 grams of vacuum-packed
 marijuana buds. [@1] In Loja, five people were detained in three searches of
@@ -133,6 +145,8 @@ including two Dutch nationals. [@1] Officers found several indoor grows
 illegally connected to the electricity grid, creating a safety risk for
 buildings and occupants. [@1]
 
-At least 11 more people were under investigation for alleged offences against public health, electricity fraud and document forgery. [@3,5] The Loja investigation was described as a network storing, transporting and distributing large marijuana consignments to other parts of Spain and abroad. [@4]
+At least 11 more people were under investigation for alleged offences against public health, electricity fraud and document forgery. [@3,5,7] The Loja investigation was described as a network storing, transporting and distributing large marijuana consignments to other parts of Spain and abroad. [@4]
 
 One detained person was investigated for using Italian documents while subject to an Italian-issued Schengen entry ban. [@5]
+
+The operations were carried out by investigation units of the Granada command, including the ROCA teams, crime-scene inspection teams and the Alto Impacto operational group, supported in the searches by the command's citizen-security unit (USECIC). [@7]

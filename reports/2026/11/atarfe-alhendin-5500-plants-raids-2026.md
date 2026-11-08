@@ -45,6 +45,11 @@ sources:
     publisher: Granada Hoy
     date: 2026-11-07
     language: es
+  - title: La Guardia Civil detiene a 22 personas con más de 13.000 plantas de marihuana en Granada
+    url: https://www.abc.es/espana/andalucia/granada/guardia-civil-detiene-personas-13000-plantas-marihuana-20261108111519-nts.html
+    publisher: Diario ABC
+    date: 2026-11-08
+    language: es
 open_questions:
   - No exact plant count beyond “more than 5,500” was published, so 5,500 is recorded as the stated minimum.
   - No weights were published for the hashish and cocaine found, so no cannabis weight by product is recorded.
@@ -53,6 +58,7 @@ open_questions:
   - Only one source could be opened; no second account or Guardia Civil statement confirming the totals was found.
   - The page image is captioned as being from another operation against illegal cultivation, so it is not listed as media for this event.
   - The article recalls a separate October BHO cannabis-extract laboratory dismantled in Atarfe; that different event is left out here.
+  - A province-wide Guardia Civil balance published by ABC on 8 November gives an exact figure of 5,701 plants for the seven Atarfe and Alhendín searches, plus 1,613 grams of hashish, 34 grams of cocaine and 75 grams of dried buds; the earlier count of more than 5,500 plants is retained as the Granada Hoy account.
 ---
 
 Guardia Civil units entered several homes in Atarfe and Alhendín to pursue
@@ -65,9 +71,10 @@ plants inside the homes in different stages of flowering. [@1] They also found
 various quantities of hashish and cocaine. [@1]
 
 The searches took place during the previous Wednesday in Atarfe and Alhendín.
-[@1] Operational groups from different points of the province took part,
+[@1,2] Operational groups from different points of the province took part,
 including officers from Motril. [@1] The Granada Guardia Civil command confirmed
 the operation but did not state the exact number of people under investigation.
 [@1] The report notes that such grows can involve related offences such as
 electricity fraud. [@1]
 
+Officers also found various quantities of hashish and cocaine. [@2]
