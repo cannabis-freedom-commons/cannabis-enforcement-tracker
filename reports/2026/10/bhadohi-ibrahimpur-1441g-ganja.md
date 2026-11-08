@@ -44,6 +44,11 @@ sources:
     publisher: Bharat Kranti News
     date: 2026-10-31
     language: hi
+  - title: Bhadohi Ganja Seizure | Two Arrested in Gyanpur and Gopiganj
+    url: https://www.bhaskar.com/local/uttar-pradesh/bhadohi/news/bhadohi-police-arrest-ganja-smugglers-gyanpur-gopiganj-139544510.html
+    publisher: Dainik Bhaskar
+    date: 2026-10-31
+    language: hi
 open_questions:
   - The article dates the arrest only to Friday; 30 October 2026 is taken from its publication in the early hours of 31 October.
   - No court date, charge sheet or plea was reported, and the account ends with the accused being sent to jail.
@@ -55,11 +60,12 @@ open_questions:
   - The same pages report a separate Gopiganj arrest of Chandrashekhar Saroj with 460 g of ganja, which is a different event left out of this report.
   - The Bhaskar page image has no caption or credit establishing that it shows this seizure, so no media entry is included.
   - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said officers also recovered 220 rupees in cash and a mobile phone from Yadav.'
+  - The opened capture shows only the headline and summary; names and case details are behind an app paywall, so this source corroborates only the Gyanpur quantity.
 ---
 
 Kotwali police in Bhadohi district, Uttar Pradesh, arrested a man named as
 Amarjeet Yadav near Ibrahimpur village on Friday 30 October 2026. [@1,2] The bag
-he was carrying held 1 kg 441 g of ganja, the Hindi term for cannabis. [@1,2]
+he was carrying held 1 kg 441 g of ganja, the Hindi term for cannabis. [@1,2,3]
 Inspector in charge Ram Sarikh Gautam said police acted on a tip-off from an
 informer. [@1,2]
 
