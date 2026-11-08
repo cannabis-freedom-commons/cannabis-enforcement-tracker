@@ -30,6 +30,10 @@ sources:
     url: https://www.livelaw.in/high-court/tripura-high-court/tripura-high-court-nonproduction-malkhana-register-vitiate-ndps-conviction-557764
     publisher: Live Law
     date: 2026-11-08
+  - title: 'Non-Production Of Malkhana Register Alone Cannot Vitiate NDPS Conviction: Tripura High Court Upholds 10-Year Jail Term In 987 Kg Ganja Case'
+    url: https://www.livelaw.in/amp/high-court/tripura-high-court/tripura-high-court-nonproduction-malkhana-register-vitiate-ndps-conviction-557764
+    publisher: Live Law
+    date: 2026-11-08
 open_questions:
   - The 987 kg weight is given as approximate in the judgment summary.
   - An estimated street value of the consignment was not published.
@@ -41,14 +45,14 @@ open_questions:
 
 The Tripura High Court dismissed the appeal of a truck driver convicted over 89
 packets of ganja weighing about 987 kg seized near Churaibari Police Station,
-upholding his 10-year rigorous imprisonment and Rs 1 lakh fine. [@1] The
+upholding his 10-year rigorous imprisonment and Rs 1 lakh fine. [@1,2] The
 Division Bench of Justice Dr. T. Amarnath Goud and Justice Biswajit Palit
 delivered the decision on 13 October 2026 in Crl.A.(J) No.43 of 2025, Shri
 Dharjya Kumar Jamatia v. State of Tripura. [@1]
 
 Police intercepted a 14-wheeler truck near Churaibari Police Station in Tripura
 on 6 September 2021 and recovered 89 packets of ganja weighing approximately 987
-kg from it. [@1] He was travelling in the truck as its driver; he was charged
+kg from it. [@1,2] He was travelling in the truck as its driver; he was charged
 under Sections 20(c) and 29 of the NDPS Act after investigation. [@1] The
 Special Judge (NDPS), North Tripura, convicted him under Section 20(b)(ii)(C) of
 the NDPS Act and sentenced him to 10 years of rigorous imprisonment and a fine
@@ -63,4 +67,3 @@ Laboratory report that confirmed ganja in the samples received in properly
 sealed condition. [@1] It also held that non-compliance with Section 57 of the
 NDPS Act would not vitiate the conviction, since the appellant showed no
 prejudice from it. [@1]
-
