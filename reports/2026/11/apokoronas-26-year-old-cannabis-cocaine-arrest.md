@@ -114,6 +114,11 @@ sources:
     publisher: IraklioNews
     date: 2026-11-07
     language: el
+  - title: 26χρονος έκρυβε την κοκαΐνη σε κουτιά ζαχαροπλαστείου και τα 15.500 ευρώ σε παιδικούς κουμπαράδες!
+    url: https://maleviziotis.gr/2026/11/07/26chronos-ekryve-tin-kokaini-se-koutia-zacharoplasteiou-kai-ta-15-500-evro-se-paidikous-koubarades/
+    publisher: Μαλεβιζιώτης
+    date: 2026-11-07
+    language: el
 open_questions:
   - The exact village in the Municipality of Apokoronas is not named, so district coordinates are used.
   - The sources call the cannabis only 'kannavi' without saying whether it is herbal or resin, or whether it was for sale.
@@ -135,23 +140,26 @@ open_questions:
   - Cretalive reproduces the same Chania police announcement as the accounts already cited, so it is not independent reporting of the arrest.
   - IraklioNews reproduces the same Chania police statement as the accounts already cited, so it is not independent reporting of the arrest.
   - The page gives no village within the Municipality of Apokoronas and no separate time for the searches beyond the morning of 7 November 2026.
+  - Maleviziotis.gr calls the 96.8 grams only kannavi, without saying whether it was herbal cannabis or resin, and gives no street value for it.
+  - Maleviziotis.gr reproduces the same Chania police announcement as the accounts already cited, so it is not independent reporting of the arrest.
+  - The page's lead photo shows police handout material without a credit or caption identifying which items it depicts, so it was not added as a new photo of the event.
 ---
 
 Police in the Municipality of Apokoronas, Chania, on Crete arrested a
 26-year-old Greek man on the morning of 7 November 2026 after searches of his
 home and of storage places he used. [@1,4,6,9,11] The searches were made in the house and
 in places the 26-year-old used as storage points, which the accounts call
-kavatzas, a Greek term for a hiding place or stash. [@2,10]
+kavatzas, a Greek term for a hiding place or stash. [@2,10,13]
 
 The searches found and seized 96.8 grams of cannabis, which is the only cannabis
-quantity the accounts give. [@1,5,6,7,9,12] Police also seized 1 kilo and 173.1 grams of
+quantity the accounts give. [@1,5,6,7,9,12,13] Police also seized 1 kilo and 173.1 grams of
 cocaine in 14 improvised packages, a quantity that is not counted as cannabis
 here. [@1,5,6] Officers seized 15,500 euros that police said came from criminal
 activity. [@1,4] The accounts also list a weighing scale, three mobile phones and
 a private car seized as a means of facilitating the alleged crime. [@1]
 
 The man was arrested for offences under the drug laws and was to be taken before
-the competent prosecutor. [@3,11] The preliminary investigation continued at the
+the competent prosecutor. [@3,11,13] The preliminary investigation continued at the
 Chania drug enforcement department. [@1,6]
 
 The cannabis the man was found with was raw cannabis, the herb rather than resin. [@8] The searches were made at a secluded house in the community of Nipos, in the Municipality of Apokoronas, which police said was used to store and distribute drugs. [@8,9] A drug-detection dog took part in the search of the house. [@8,9] Police said the man was suspected of receiving, holding and passing on quantities of cocaine and cannabis, possibly with unknown associates still being sought. [@8]
