@@ -135,6 +135,11 @@ open_questions:
   - 'Left out, as its quotation was not found in Ajker Darpon: Officers also seized two mobile phones used for drug sales, and Biplab Ali with two to three other suspects fled on seeing the police.'
   - The News 24 page's lead image has no descriptive caption, so whether it shows this seizure could not be established and no media entry is added.
   - The submitted page carries a lead photograph whose caption only repeats the headline, so whether it shows this 48 kg seizure could not be established and no media entry is added.
+  - The submitted page and the Sonar Desh report attribute the raid to about 3:15 pm on Sunday 1 November, while the submitted page also gives the weekday as Monday; other accounts give about 3:30 pm on Sunday, which the existing report keeps.
+  - The submitted page names the Bagdhani suspect as Md Sajib, 27, consistent with the later accounts, while the earliest account in the existing report named him as 24-year-old Sohir Islam, and whether these are the same person is unresolved.
+  - The submitted page and Sonar Desh describe a tin-shed house on a plot, where the existing report's first account described a Sarkar Builders under-construction building, and the two descriptions are not reconciled.
+  - The submitted page says the arrested men were sent to jail through the court without giving the day, while Rajshahir Somoy and the existing report say Monday morning.
+  - Both the submitted page and Sonar Desh report the seizure of a case under the Narcotics Control Act and of two mobile phones, but their wording could not be matched character for character against the captures or embeddings, so those details are not added as sentences in this submission.
 ---
 
 Boalia Model Police detained three people in Rajshahi, including the
@@ -164,3 +169,5 @@ Police filed a case under the Narcotics Control Act at Boalia police station aga
 Police said the arrested men are professional drug dealers who had long operated across Rajshahi city in collusion, and that Sajib already faces a Narcotics Control Act case at Natore Sadar police station. [@4,8,10] The arrested men are Md. Sajib (27), son of Md. Abdur Razzaq of Bagdhani village in Paba, and Md. Raihan (20), son of Md. Habibur Rahman of Palpur Dharampur village in Godagari, while the named absconder is 39-year-old Md. Biplab Ali, son of Md. Saidur Rahman of Lakshmipur Dingadoba in Rajpara. [@4,5,7,8,11]
 
 The new account attributes the operation to members of the Rajshahi Metropolitan Police's Upashahar police outpost. [@8,11,12]
+
+Rajshahir Somoy reports the arrest of two men with a large quantity of ganja in the city's Upashahar area, a further account of the same raid. [@2] Rajshahi Metropolitan Police spokesman and Deputy Commissioner (Sadar) Gaziur Rahman confirmed the account on Monday afternoon, the Rajshahir Somoy report says. [@2]
