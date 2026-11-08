@@ -54,6 +54,21 @@ sources:
     publisher: The Bangkok Insight
     date: 2026-11-06
     language: th
+  - title: ร้านกัญชา 12,279 แห่ง ต้องจับตา รัฐสั่งตรวจเข้ม ฝ่าฝืนเสี่ยงพักใบอนุญาต
+    url: https://www.msn.com/th-th/news/other/ar-AA2gZRE7
+    publisher: ไทยนิวส์ (thainewsonline)
+    date: 2026-11-08
+    language: th
+  - title: ลุยสอบเข้ม 'ร้านกัญชา' ทั่วไทย ฝ่าฝืนสั่งปิด 30-90 วัน ผิดซ้ำถอนใบอนุญาต
+    url: https://www.thaipost.net/general-news/1102826
+    publisher: Thai Post
+    date: 2026-11-06
+    language: th
+  - title: รัฐบาลลุยตรวจเข้มร้านกัญชา ย้ำคุมการใช้เพื่อการแพทย์ ไม่หนุนใช้เพื่อสันทนาการ
+    url: https://www.thairath.co.th/news/politic/2970798
+    publisher: Thairath
+    date: 2026-11-06
+    language: th
 open_questions:
   - The article gives no date for the press conference; 6 November 2026 is the date the text attributes to the spokesperson's remarks and is used as the incident date, while Hfocus dates a related briefing to 3 November 2026.
   - No figure was published for how many shops have been inspected, suspended or revoked, or how many operators were arrested or prosecuted, so no such figures are recorded.
@@ -67,21 +82,21 @@ open_questions:
 
 Thailand's Department of Thai Traditional and Alternative Medicine is inspecting
 licensed cannabis shops nationwide and has signalled suspensions for those
-breaching licence conditions. [@1]
+breaching licence conditions. [@1,5]
 
 Deputy government spokesperson Ploythalay Laksameesaengchan said 12,279 cannabis
 shops held licences at the time, down from the 18,433 the Public Health Ministry
-counted as operating in 2025. [@2] Bangkok has the most with 1,726 shops,
+counted as operating in 2025. [@2,6] Bangkok has the most with 1,726 shops,
 followed by Phuket with 1,046, Chon Buri with 900, Surat Thani with 717 and
 Chiang Mai with 482. [@1]
 
 Operators caught selling cannabis without a prescription, advertising, offering
 promotions, allowing smoking on the premises, selling online or failing to file
-required reports face licence suspensions of 30 or 90 days. [@1] A shop
+required reports face licence suspensions of 30 or 90 days. [@1,7] A shop
 suspended and caught committing the same offence a second time can have its
-licence revoked. [@2] Sixty-six appeals against suspension or revocation orders
+licence revoked. [@2,6] Sixty-six appeals against suspension or revocation orders
 were filed in 2026: 31 from Bangkok, 15 from Phuket, seven from Si Sa Ket, six
-from Surat Thani, two from Chon Buri and five from other provinces. [@1]
+from Surat Thani, two from Chon Buri and five from other provinces. [@1,7]
 
 Ploythalay said the subcommittee on appeals would review the facts and law
 before passing cases to the committee protecting Thai traditional medicine
@@ -95,3 +110,4 @@ kept cannabis legal but moved to a medical-first framework after decriminalising
 it in 2022, which officials describe as continuing the crackdown on recreational
 use. [@2]
 
+Thai Post and Thai Rath date the spokesperson's remarks to 6 November 2026. [@6]
