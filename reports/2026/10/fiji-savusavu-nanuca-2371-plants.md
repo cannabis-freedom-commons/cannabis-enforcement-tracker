@@ -37,10 +37,15 @@ status: verified
 tags: [savusavu]
 open_questions:
   - The map marks Savusavu town; Nanuca was not separately geolocated in the geographic sources checked.
+  - The FBC News page carries a supplied image with no caption tying it to this raid, so no event photo is linked from this source.
 sources:
   - title: 38-year-old farmer arrested after 2,371 suspected marijuana plants uprooted in Savusavu
     url: https://www.fijivillage.com/fashion/38-year-old-farmer-arrested-after-2-371-suspected-marijuana-plants-uprooted-in-savusavu-bf1610/
     publisher: fijivillage
+    date: 2026-10-20
+  - title: Farmer arrested after Marijuana find
+    url: https://www.fbcnews.com.fj/news/ffarmer-arrested-after-marijuana-find/
+    publisher: FBC News
     date: 2026-10-20
 media:
   - kind: photo
@@ -58,6 +63,6 @@ media:
 A Northern Division police operation team uprooted 1,351 suspected marijuana
 plants, 5 to 35 centimetres tall, from a first farm along the Naruwai farming
 area in Nanuca, Savusavu, and a further 1,020 plants, 5 centimetres to 3 metres
-tall, from a second farm. [@1] The 2,371 plants were allegedly being grown by a
+tall, from a second farm. [@1,2] The 2,371 plants were allegedly being grown by a
 38-year-old farmer from Drekeniwai Village, who was arrested in connection with
-the cultivation. [@1] Police investigations continue. [@1]
+the cultivation. [@1,2] Police investigations continue. [@1,2]
