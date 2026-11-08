@@ -64,6 +64,11 @@ sources:
     publisher: InfoOggi
     date: 2026-11-08
     language: it
+  - title: 'Trovato con quasi 7 kg di hashish e cocaina: arrestato 25enne a Torino'
+    url: https://www.quotidianopiemontese.it/2026/11/08/trovato-con-quasi-7-kg-di-hashish-e-cocaina-arrestato-25enne-a-torino/
+    publisher: Quotidiano Piemontese
+    date: 2026-11-08
+    language: it
 open_questions:
   - The police headquarters statement says the arrest took place "nei giorni scorsi" (in recent days); 8 November 2026, the date of the statement and of the submitted article, is used as the incident date.
   - The report counts 20 hashish blocks weighing over 2 kg on the man plus about 5 kg found in one flat, giving 7.056 kg as a minimum total; both components are stated as approximations or lower bounds, not exact laboratory weights.
@@ -78,6 +83,8 @@ open_questions:
   - The InfoOggi capsule gives no value estimate for the hashish, and the 56 g of cocaine is not counted in cannabis figures.
   - The outlet repeats the police account without a separate date or time for the stop; 8 November 2026 is its publication date.
   - The rough figure of almost 7 kg combines hashish and cocaine; only the separately stated hashish weights are used as the cannabis figure.
+  - The page publishes an image at droga-torino-polizia.png with no caption or credit confirming it shows this seizure, so no media entry is added.
+  - The article gives no separate date for the stop; 8 November 2026 is its publication date and is used as the incident date, matching the existing report.
 ---
 
 State police in Turin arrested a 25-year-old Moroccan man on suspicion of
@@ -86,9 +93,9 @@ judicial authority's order. [@2,6]
 
 A personal search found 14 round and 6 rectangular blocks of hashish weighing
 more than 2 kg in total, and two sets of keys to two separate flats in the area.
-[@2,5,6] In one of the flats officers found and seized about 5 kg of hashish in
+[@2,5,6,7] In one of the flats officers found and seized about 5 kg of hashish in
 blocks, 56 grams of pure cocaine hidden in a chest in the living room, and 2,370
-euros in cash. [@2,5,6] The police statement describes the cash as proceeds of the
+euros in cash. [@2,5,6,7] The police statement describes the cash as proceeds of the
 illicit activity. [@2]
 
 The man was not legally resident in Italy and was arrested for drug possession
@@ -104,4 +111,4 @@ of 5 kg of hashish, 56 grams of cocaine and 2,370 euros in cash. [@4]
 The Turin police headquarters said the case is at the preliminary investigation
 stage and the suspect is presumed innocent until a final judgment. [@2]
 
-Officers of the Barriera Milano police station, on territorial patrol, saw him arrive on an electric scooter heading for Via Fossata and stopped him as he was handing drugs to other people. [@6]
+Officers of the Barriera Milano police station, on territorial patrol, saw him arrive on an electric scooter heading for Via Fossata and stopped him as he was handing drugs to other people. [@6,7]
