@@ -538,8 +538,8 @@ about two minutes (±20% jitter) after each completed scan, independently of RSS
 ```dotenv
 HARVEST_GOOGLE_NEWS_ENABLED=true
 HARVEST_GOOGLE_NEWS_INTERVAL=2m
-HARVEST_GOOGLE_NEWS_MAX_ARTICLES=4
-HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN=5
+HARVEST_GOOGLE_NEWS_MAX_ARTICLES=15
+HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN=8
 # Optional pipe-separated queries; blank uses the built-in multilingual set. Prefix a query
 # with its Google News edition (ceid, country:language); without one, US English is used.
 HARVEST_GOOGLE_NEWS_QUERIES=[IN:hi] (गांजा OR चरस) (जब्त OR गिरफ्तार) when:1d|[CZ:cs] konopí policie when:1d
@@ -593,26 +593,26 @@ assuming working Persian, Pashto, Burmese, Khmer or North Korean editions. Regio
 search locales, not strict event-country filters, and do not guarantee coverage of every country.
 
 Each scan runs the next `HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN` queries in rotation (1–50), paced a
-second apart. With 278 default queries and 5 per scan, 56 scans visit the whole set, roughly
-two hours plus scan time (at most about seven hours at the default interval, jitter and five-minute
+second apart. With 278 default queries and 8 per scan, 35 scans visit the whole set, roughly
+70 minutes plus scan time (at most about 4.5 hours at the default interval, jitter and five-minute
 scan deadline).
 Language/edition searches retain the one-day lookback; country-targeted searches use seven days
 to accommodate sparse reporting and delayed indexing. Both exceed the default full-rotation time.
 The larger set does not increase the per-scan request or admission budgets. New candidates are
 taken round-robin across that scan's queries, so a busy edition cannot
-use up the per-scan budget of 1–100 new URLs (default 4). At most 400 configured queries, each at
+use up the per-scan budget of 1–100 new URLs (default 15). At most 400 configured queries, each at
 most 1000 characters. Custom queries replace the built-in set. This is candidate discovery, not
 exhaustive worldwide coverage or a relevance verdict: AI research decides from opened articles
 which ones become reports. Each queued candidate records its edition and query in its provenance.
 Restart the backend after changing the defaults or configuration.
 
-Discovery feeds research as a steady trickle rather than bursts. Small, frequent scans replace
-large, rare ones, and both providers also apply backpressure: before searching, a scan counts the
+Discovery keeps research busy without bursts: frequent scans admit as much as the queue can take
+(up to 15 Google and 8 Bing articles per scan), and both providers also apply backpressure: before searching, a scan counts the
 research jobs still waiting (`queued`) and admits at most `HARVEST_QUEUE_TARGET` minus that number.
 When the queue is already at the target the scan is skipped without searching and its rotation
 position is kept, so the same queries run once the queue has room; held-back candidates were never
 recorded as seen and come back in later scans while their lookback still returns them. The default
-`-1` sets the target automatically to twice the total research workers (at least 4); `0` turns
+`-1` sets the target automatically to four times the total research workers (at least 8); `0` turns
 backpressure off; values up to 1000 are accepted. User and Nostr submissions are never held back.
 
 ```dotenv
@@ -647,8 +647,8 @@ is needed; this uses the public RSS search, not Microsoft's retired Bing Search 
 ```dotenv
 HARVEST_BING_NEWS_ENABLED=true
 HARVEST_BING_NEWS_INTERVAL=3m
-HARVEST_BING_NEWS_MAX_ARTICLES=3
-HARVEST_BING_NEWS_QUERIES_PER_SCAN=3
+HARVEST_BING_NEWS_MAX_ARTICLES=8
+HARVEST_BING_NEWS_QUERIES_PER_SCAN=5
 # Optional pipe-separated queries; blank uses the built-in set. Default market: en-US.
 HARVEST_BING_NEWS_QUERIES=[en-US] cannabis seized|[zh-HK] 大麻 查获
 ```
@@ -663,8 +663,8 @@ Caribbean. Every market returned a feed with recent items in a November 2026 pro
 Both Chinese searches use the `zh-HK` RSS market while retaining their Simplified or Traditional
 Chinese keywords. Bing redirects `zh-CN` news requests to its HTML homepage; existing custom
 `[zh-CN]` queries are normalized to `zh-HK`, also recorded as their market in logs and provenance.
-Markets guide search results, not the event's location; coverage is best effort. Three queries
-rotate per scan, so every default query runs roughly every hour plus scan time. Custom queries replace
+Markets guide search results, not the event's location; coverage is best effort. Five queries
+rotate per scan, so every default query runs roughly every 35 minutes plus scan time. Custom queries replace
 the defaults. Short keyword queries work better than compound Boolean expressions in live testing.
 Bounds: 1–50 queries per scan, at most 100 configured queries of at most
 1000 characters, intervals from 1 minute to 24 hours, and 1–100 new URLs per scan.

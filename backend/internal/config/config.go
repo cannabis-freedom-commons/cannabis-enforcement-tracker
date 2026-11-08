@@ -72,11 +72,11 @@ func Load() (Config, error) {
 	if discoveryErr != nil || c.GoogleNewsInterval < time.Minute || c.GoogleNewsInterval > 24*time.Hour {
 		return c, errors.New("HARVEST_GOOGLE_NEWS_INTERVAL must be between 1m and 24h")
 	}
-	c.GoogleNewsMaxArticles, discoveryErr = strconv.Atoi(env("HARVEST_GOOGLE_NEWS_MAX_ARTICLES", "4"))
+	c.GoogleNewsMaxArticles, discoveryErr = strconv.Atoi(env("HARVEST_GOOGLE_NEWS_MAX_ARTICLES", "15"))
 	if discoveryErr != nil || c.GoogleNewsMaxArticles < 1 || c.GoogleNewsMaxArticles > 100 {
 		return c, errors.New("HARVEST_GOOGLE_NEWS_MAX_ARTICLES must be 1 to 100")
 	}
-	c.GoogleNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN", "5"))
+	c.GoogleNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN", "8"))
 	if discoveryErr != nil || c.GoogleNewsQueriesPerScan < 1 || c.GoogleNewsQueriesPerScan > 50 {
 		return c, errors.New("HARVEST_GOOGLE_NEWS_QUERIES_PER_SCAN must be 1 to 50")
 	}
@@ -103,11 +103,11 @@ func Load() (Config, error) {
 	if discoveryErr != nil || c.BingNewsInterval < time.Minute || c.BingNewsInterval > 24*time.Hour {
 		return c, errors.New("HARVEST_BING_NEWS_INTERVAL must be between 1m and 24h")
 	}
-	c.BingNewsMaxArticles, discoveryErr = strconv.Atoi(env("HARVEST_BING_NEWS_MAX_ARTICLES", "3"))
+	c.BingNewsMaxArticles, discoveryErr = strconv.Atoi(env("HARVEST_BING_NEWS_MAX_ARTICLES", "8"))
 	if discoveryErr != nil || c.BingNewsMaxArticles < 1 || c.BingNewsMaxArticles > 100 {
 		return c, errors.New("HARVEST_BING_NEWS_MAX_ARTICLES must be 1 to 100")
 	}
-	c.BingNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_BING_NEWS_QUERIES_PER_SCAN", "3"))
+	c.BingNewsQueriesPerScan, discoveryErr = strconv.Atoi(env("HARVEST_BING_NEWS_QUERIES_PER_SCAN", "5"))
 	if discoveryErr != nil || c.BingNewsQueriesPerScan < 1 || c.BingNewsQueriesPerScan > 50 {
 		return c, errors.New("HARVEST_BING_NEWS_QUERIES_PER_SCAN must be 1 to 50")
 	}
@@ -298,12 +298,12 @@ func (c Config) Agents() []ResearchAgent {
 }
 
 // QueueTarget is how many research jobs may wait before news discovery holds new
-// articles back. Automatic: two per worker, so workers never idle between scans.
+// articles back. Automatic: four per worker, so workers always have work ready.
 func (c Config) QueueTarget() int {
 	if c.HarvestQueueTarget >= 0 {
 		return c.HarvestQueueTarget
 	}
-	return max(4, 2*c.MaxWorkers())
+	return max(8, 4*c.MaxWorkers())
 }
 func (c Config) MaxWorkers() int {
 	if len(c.ResearchAgents) == 0 {

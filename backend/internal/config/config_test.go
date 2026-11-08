@@ -75,7 +75,7 @@ func TestResearchModelComesFromEnvironment(t *testing.T) {
 func TestGoogleNewsConfiguration(t *testing.T) {
 	defaults(t)
 	c, err := Load()
-	if err != nil || !c.GoogleNewsEnabled || c.GoogleNewsInterval != 2*time.Minute || c.GoogleNewsMaxArticles != 4 || c.GoogleNewsQueriesPerScan != 5 {
+	if err != nil || !c.GoogleNewsEnabled || c.GoogleNewsInterval != 2*time.Minute || c.GoogleNewsMaxArticles != 15 || c.GoogleNewsQueriesPerScan != 8 {
 		t.Fatal(c, err)
 	}
 	t.Setenv("HARVEST_GOOGLE_NEWS_ENABLED", "false")
@@ -137,7 +137,7 @@ func TestJobLogRetention(t *testing.T) {
 func TestBingNewsConfiguration(t *testing.T) {
 	defaults(t)
 	c, err := Load()
-	if err != nil || !c.BingNewsEnabled || c.BingNewsInterval != 3*time.Minute || c.BingNewsMaxArticles != 3 || c.BingNewsQueriesPerScan != 3 {
+	if err != nil || !c.BingNewsEnabled || c.BingNewsInterval != 3*time.Minute || c.BingNewsMaxArticles != 8 || c.BingNewsQueriesPerScan != 5 {
 		t.Fatal(c, err)
 	}
 	t.Setenv("HARVEST_BING_NEWS_ENABLED", "false")
@@ -187,7 +187,7 @@ func TestHarvestQueueTarget(t *testing.T) {
 	defaults(t)
 	t.Setenv("WORKER_CONCURRENCY", "3")
 	c, err := Load()
-	if err != nil || c.HarvestQueueTarget != -1 || c.QueueTarget() != 2*c.MaxWorkers() {
+	if err != nil || c.HarvestQueueTarget != -1 || c.QueueTarget() != 4*c.MaxWorkers() {
 		t.Fatal("automatic queue target", c.QueueTarget(), c.MaxWorkers(), err)
 	}
 	t.Setenv("HARVEST_QUEUE_TARGET", "0")

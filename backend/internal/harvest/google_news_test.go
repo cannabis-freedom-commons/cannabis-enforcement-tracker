@@ -340,7 +340,7 @@ func TestGoogleNewsLiveFeeds(t *testing.T) {
 }
 
 func TestGoogleDefaultRotationCoversAllQueries(t *testing.T) {
-	g := GoogleNews{Queries: DefaultGoogleNewsQueries, QueriesPerScan: 5}
+	g := GoogleNews{Queries: DefaultGoogleNewsQueries, QueriesPerScan: 8}
 	seen := map[GoogleNewsQuery]bool{}
 	scans := (len(g.Queries) + g.QueriesPerScan - 1) / g.QueriesPerScan
 	for n := range scans {
