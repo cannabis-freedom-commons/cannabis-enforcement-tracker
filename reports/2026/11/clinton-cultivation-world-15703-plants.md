@@ -84,6 +84,10 @@ sources:
     url: https://www.yahoo.com/news/us/articles/more-15-000-plants-seized-165230026.html
     publisher: Yahoo News (KFOR Oklahoma City)
     date: 2026-11-06
+  - title: 'OBN: 15,000 marijuana plants seized from illegal ''straw ownership'' marijuana grow'
+    url: https://www.msn.com/en-us/news/other/obn-15000-marijuana-plants-seized-from-illegal-straw-ownership-marijuana-grow/ar-AA2gU8GR
+    publisher: MSN (KOKH Oklahoma City)
+    date: 2026-11-06
 open_questions:
   - The name, age, nationality and charges of the person arrested were not published, and no court outcome was reported.
   - The three people handed to ICE were not identified, and it is not stated whether any of them was the arrested person.
@@ -96,18 +100,18 @@ open_questions:
 
 One person was arrested at a marijuana grow near Clinton, in Washita County,
 Oklahoma, and three others were handed to U.S. Immigration and Customs
-Enforcement. [@1] On Thursday, 5 November 2026, Marijuana Enforcement Teams of
+Enforcement. [@1,6] On Thursday, 5 November 2026, Marijuana Enforcement Teams of
 the Oklahoma Bureau of Narcotics, the state drug agency known as OBN, served a
 search warrant at Cultivation World LLC as part of an investigation into illegal
-cultivation. [@1,4] The raid took place at 10,834 North 2248 Road, about 5.5 miles
+cultivation. [@1,4,6] The raid took place at 10,834 North 2248 Road, about 5.5 miles
 (8.9 km) south of Clinton. [@2]
 
 Agents seized 15,703 marijuana plants and 114 pounds (about 51.7 kg) of
-processed marijuana. [@1,4]
+processed marijuana. [@1,4,6]
 
 Investigators said they were looking at companies running on an OBN registration
 obtained by fraud through a straw ownership scheme, in which one person is used
-to conceal who really controls a business. [@1,4] The Penny News, citing OBN,
+to conceal who really controls a business. [@1,4,6] The Penny News, citing OBN,
 described the scheme as using an individual to conceal the true ownership of a
 business. [@2]
 
