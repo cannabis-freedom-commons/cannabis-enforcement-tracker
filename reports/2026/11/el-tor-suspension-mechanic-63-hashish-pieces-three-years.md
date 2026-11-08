@@ -73,6 +73,11 @@ sources:
     publisher: سيناء الإخبارية
     date: 2026-11-08
     language: ar
+  - title: السجن المشدد 3 سنوات وغرامة 50 ألف جنيه لتاجر حشيش بجنوب سيناء
+    url: https://www.alnaharegypt.com/1203734
+    publisher: النهار
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Sources give no weight for the 63 hashish pieces, so no kilogram figure is recorded.
   - 19 June and 20 June 2026 are both given; the submitted account says the information arrived on 20 June 2026, when the police arrested him.
@@ -84,25 +89,30 @@ open_questions:
   - The El Watan and Gamahir pictures carry no caption confirming that they show this seizure.
   - 'Left out, as its quotation was not found in جريدة جماهير: He admitted during interrogation that he held the drugs for sale and a criminal record check showed he had previously been accused in seven cases involving unlicensed weapons or drug trafficking.'
   - 'Left out, as its quotation was not found in جريدة جماهير: The incident was recorded as complaint 1066 of 2026 for El Tor misdemeanours and the case was registered with the South Sinai Criminal Court as number 907 of 2026.'
+  - Al-Nahar gives the defendant's home district as El Qarshi Second, Tanta, and dates the security information to 20 June 2026, the same date the other accounts give.
+  - Al-Nahar gives no weight for the 63 hashish pieces, no street value and no name of the police unit that made the arrest.
+  - Like the other accounts, Al-Nahar appears to reproduce a prosecution briefing, so it is not independent reporting of the verdict.
+  - The page photo is a webp published above the headline with no caption confirming that it shows this seizure, so it is not added as a media link.
 ---
 
 The South Sinai Criminal Court, sitting in El Tor, sentenced a 43-year-old
 car-suspension mechanic who worked in the industrial zone of El Tor to three
 years of aggravated imprisonment and a 50,000 Egyptian pound fine for drug
-trafficking. [@1] The verdict was issued on Sunday 8 November 2026 by a panel
+trafficking. [@1,4] The verdict was issued on Sunday 8 November 2026 by a panel
 headed by Counsellor Dr Magdy Salama Mahmoud, with Counsellors Sherine Mohamed
-Fawz al-Din, Ali Hassan Hosni and Dr Ahmed Abdel Sattar Ahmed. [@1]
+Fawz al-Din, Ali Hassan Hosni and Dr Ahmed Abdel Sattar Ahmed. [@1,4]
 
 The court convicted him of trafficking hashish, the cannabis resin sold in
 Egypt, and his sentence was aggravated imprisonment. [@2] Police acted on
 information received on 20 June 2026 that he was selling drugs from his workshop
 in the El Tor industrial zone, and set up an ambush as he handed drugs to a
-customer. [@2] Officers found 63 pieces of hashish and a cutting knife on him
-when they searched him. [@1] Gamahir reported that officers also seized 230
+customer. [@2,4] Officers found 63 pieces of hashish and a cutting knife on him
+when they searched him. [@1,4] Gamahir reported that officers also seized 230
 Egyptian pounds and a mobile phone, and that the man said the money came from an
 earlier sale, the knife was for cutting the drug into retail portions and the
-phone was for contacting customers. [@2]
+phone was for contacting customers. [@2,4]
 
 Sinai News described the case as going back to the previous June and the 20 June
 2026 date for it. [@3]
 
+Al-Nahar gives the defendant's home district as El Qarshi Second in Tanta, the city where the seven earlier cases were filed. [@4] The arrest was recorded as complaint 1066 of 2026 for El Tor misdemeanours, the Public Prosecution ordered him detained pending investigation, and the case was registered as number 907 of 2026 with the South Sinai Criminal Court. [@4] Officers obtained the prosecution's permission and set the ambush after learning that he was preparing to hand a quantity of drugs to a customer. [@4]
