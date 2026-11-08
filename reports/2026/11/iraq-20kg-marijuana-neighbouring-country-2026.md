@@ -120,6 +120,8 @@ open_questions:
   - The Ashourland header image has no caption or credit establishing that it shows this seizure, so no media entry is added.
   - The Sky News Arabia article and the submitted reprint give no separate date for the 20 kg marijuana seizure or the name of the country where it happened; 2 November 2026 is their publication date.
   - The header image on both pages shows Iraqi drug pills in a police display and has no caption establishing that it depicts this marijuana seizure, so it is not recorded as media.
+  - The belbalady.net capture holds only the headline and a teaser; the article body was not in the opened page, so quotations come from the Sky News Arabia and Iraqi News Agency accounts of the same statement.
+  - The neighbouring country where the 20 kg of marijuana was seized and the dates of the operations remain unnamed and unspecified.
 ---
 
 Iraq's General Directorate for Narcotics and Psychotropic Substances director
@@ -139,7 +141,7 @@ in Libya on entirely Iraqi intelligence surveillance and seized 1,200,000 pills
 belonging to a criminal network operating from Chad. [@1,3,5,7,8,9,10,13] Separately, he said
 recent operations included 20 kilograms of marijuana seized in one neighbouring
 country after the directorate sent specialist teams to coordinate with the local
-authorities and carry out the necessary security measures. [@1,3,4,6,7,8,9,10,11,12,14] The English
+authorities and carry out the necessary security measures. [@1,3,4,6,7,8,9,10,11,12,13,14] The English
 account confirms the 20 kilograms of marijuana seized in a neighboring country
 after specialized teams were sent, noting that Zarkani did not name the country.
 [@2]
