@@ -59,6 +59,11 @@ media:
     media_url: https://www.twentyfournews.com/wp-content/uploads/2026/11/Kannur-cannabis-arrest.jpg
     publisher: Twentyfournews.com
     caption: Page picture published with the account of the young man caught at the Koottupuzha vehicle check after jumping into the river; the page carries no caption text or credit.
+  - kind: photo
+    url: https://www.etvbharat.com/ml/state/youth-arrested-carrying-cannabis-caught-after-jumping-into-river-kannur-kls26110801797
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/08-11-2026/1200-675-28065310-thumbnail-16x9-koottupuzha.jpg
+    publisher: ETV Bharat
+    caption: The accused being overpowered by police at Koottupuzha after jumping into the river with cannabis; page picture captioned ETV Bharat, with no agency credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 6a90bf8225d26f0017882c995ecd1f0c
@@ -94,6 +99,11 @@ sources:
     publisher: Twentyfournews.com
     date: 2026-11-07
     language: ml
+  - title: വാഹന പരിശോധനയ്ക്കിടെ കഞ്ചാവുമായി യുവാവ് പുഴയിൽ ചാടി; അതിസാഹസിമായി പിടികൂടി പൊലീസ്
+    url: https://www.etvbharat.com/ml/state/youth-arrested-carrying-cannabis-caught-after-jumping-into-river-kannur-kls26110801797
+    publisher: ETV Bharat
+    date: 2026-11-08
+    language: ml
 open_questions:
   - Neither account gives a calendar date for the event beyond 'today'; 7 November 2026 is the publication date of both and is used as the incident date.
   - Only Mathrubhumi gives a ganja weight, 10 grams; the submitted TrueVision page says only that ganja was found.
@@ -109,6 +119,10 @@ open_questions:
   - Thejas News gives the man's home as Markkarkkandi and does not give his name, so the identification rests on the check post, date and circumstances.
   - The page attributes to excise a suspicion that the man also carried MDMA, destroyed when he jumped; no quantity is given and none is counted as cannabis.
   - The page picture carries no caption or credit, so it cannot be confirmed to show this incident beyond the story it is published with.
+  - 'The accounts still conflict on the cannabis weight: ETV Bharat and Thejas News say about 90 grams from the bag left on the bridge, while Mathrubhumi says 10 grams; the existing report keeps Mathrubhumi''s 10 grams.'
+  - The report gives no excise case number, charge or court outcome; the account ends with the man being questioned and further details being gathered.
+  - ETV Bharat's Markkarkkandi home village supports the Mathrubhumi and Thejas News form over the 'Thayyil' wording on the TrueVision page.
+  - Aside from the time and the name, the ETV Bharat account repeats the same district excise and police information as the earlier Malayalam reports and is not clearly independent reporting.
 ---
 
 Excise officers inspecting vehicles at the Koottupuzha check post in Kannur
@@ -137,3 +151,5 @@ Sub-inspector Jose P. Jose of Karikkottakkari was injured in the hand while offi
 The search of the bag he left behind yielded 90 grams of ganja, which excise officers seized. [@5,6] The excise account says he already had cases at Valapattanam police station in Kannur district. [@5]
 
 The bus was a Karnataka state transport (KSRTC) coach, and the man was 25. [@6]
+
+The man caught at Koottupuzha after jumping into the river with cannabis was Alishan Fayiz, 25, from Markkarkkandi in Kannur district. [@7] He was overpowered after an effort lasting about two hours. [@7] The incident happened at about 11 a.m. on Saturday, 7 November. [@7] Sub-inspector Jose P. Jose of Karikkottakkari was injured in the hand during the attempt to catch him. [@7] About 90 grams of cannabis was found in the bag he left on the bridge, a figure ETV Bharat and Thejas News both report. [@7] He has another criminal case at Valapattanam police station, the report says. [@7] Ward member K. A. Shaji said the accused should receive the maximum punishment. [@7] The operation was led by Irrikkur sub-inspector N. A. Sadanandan, additional sub-inspectors K. Shaji, Saju and Pratheesh, and an excise team under the excise circle inspector, with local residents led by Payam panchayat member Anto Padinjarekkara joining the rescue. [@7]
