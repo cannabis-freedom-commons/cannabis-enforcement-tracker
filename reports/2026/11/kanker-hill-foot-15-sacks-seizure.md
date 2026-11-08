@@ -36,6 +36,11 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/04/778bf82b-e64d-4cf1-abe3-ea1f1a3f0066_1793789393681.jpg
     publisher: Dainik Bhaskar
     caption: Stacked rectangles of ganja wrapped in tape and sacking, published with the Kanker ganja seizure report under the caption that police identified two vehicles and a car driver. The page gives no credit.
+  - kind: photo
+    url: https://www.bhaskar.com/local/chhattisgarh/bastar/keshkal/news/chhattisgarh-kanker-keshkal-ganja-seizure-smugglers-police-raid-139596648.html
+    media_url: https://images.bhaskarassets.com/web2images/521/2026/11/04/dbgifmagic__86_1793795718832.gif
+    publisher: Dainik Bhaskar
+    caption: 'Sacks of ganja recovered near Garhiya hill, published under the caption ''Police recovered 70 ganja sacks in an unclaimed condition''. Photo: Dainik Bhaskar'
 details:
   activity: [smuggling, trafficking]
   agency_types: [police]
@@ -139,6 +144,11 @@ sources:
     publisher: Naya Bharat Live
     date: 2026-11-05
     language: hi
+  - title: 'छत्तीसगढ़ में साढ़े 3 करोड़ का गांजा पकड़ाया: पहाड़ के पास बोरियां फेंककर भागे तस्कर, कार की डिक्की में छिपाकर ले जा रहे थे'
+    url: https://www.bhaskar.com/local/chhattisgarh/bastar/keshkal/news/chhattisgarh-kanker-keshkal-ganja-seizure-smugglers-police-raid-139596648.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
   - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
@@ -195,6 +205,10 @@ open_questions:
   - The page gives no separate date for the interception or the recovery; 5 November 2026 is its publication date and stands in for the incident date.
   - The page carries one image, derr.webp, with an empty alt text and no caption or credit tying it to this seizure, so no media entry is added.
   - The account says Kanker police recovered the sacks on information from villagers, while other accounts cited by the report credit a police informer; the two accounts of the tip are not reconciled.
+  - The page gives a combined figure of about Rs 3.54 crore for the Kanker and Keshkal recoveries together, while its own sections value the Kanker ganja at about Rs 1.5 crore and the Keshkal load at about Rs 2.04 crore; the combined total is not recorded as either event's value.
+  - This page carries the same story as the outlet's AMP version already cited by both reports, so it is not independent corroboration of the two recoveries.
+  - The roundup reports no arrest, charge or court step in the Kanker recovery, where the smugglers remain unidentified.
+  - The page's lead image and some section images have no caption or credit tying them to a specific seizure, so only the one captioned image of the recovered Kanker sacks is listed.
 ---
 
 Kanker police seized a large consignment of ganja found in an unclaimed
@@ -215,7 +229,7 @@ Officers are also trying to identify the people behind the smuggling. [@1]
 Police said the exact value and other trafficking details would be revealed only
 after the investigation is complete. [@1]
 
-The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3,4,5,7,12,15] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2,4,5,7,14,15]
+The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore. [@2,3,4,5,7,12,15,18] Police said the smugglers had come from Odisha via Vishrampuri and Keshkal, that Keshkal police had alerted Kanker police, and that two vehicles and a car driver used in the smuggling were identified. [@2,4,5,7,14,15]
 
 The smugglers dumped all 70 packets in bushes by the roadside late at night after sensing the blockade. [@4,14] Sub-divisional police officer Harish Patil is named as the source for the vehicle and driver identification. [@4,5,14,15]
 
@@ -234,3 +248,5 @@ The haul came a day after Keshkal police seized 407 kg of ganja. [@10] Grand New
 This account says police reached the spot after an informer gave them precise information, and then found several bags of ganja there. [@7,11] The smugglers tried to hide the load from the police cordon and changed their route, dumping it on the way before fleeing under cover of darkness. [@7,11] Police said the consignment was brought from neighbouring Odisha by road to be sold in Chhattisgarh, while officers kept running checks along the route. [@7,11] Police officers said the fleeing accused would soon be identified and sent to jail and the smuggling network would be exposed. [@7]
 
 Police recovered 70 bags of ganja near Gadhia hill in Kanker, and the smugglers fled on seeing police, leaving the load behind. [@13]
+
+Police in Kanker and Keshkal seized ganja worth about Rs 3.54 crore in two separate operations. [@18]

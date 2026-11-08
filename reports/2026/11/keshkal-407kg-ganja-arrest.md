@@ -97,6 +97,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-05
     language: hi
+  - title: 'छत्तीसगढ़ में साढ़े 3 करोड़ का गांजा पकड़ाया: पहाड़ के पास बोरियां फेंककर भागे तस्कर, कार की डिक्की में छिपाकर ले जा रहे थे'
+    url: https://www.bhaskar.com/local/chhattisgarh/bastar/keshkal/news/chhattisgarh-kanker-keshkal-ganja-seizure-smugglers-police-raid-139596648.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-05
+    language: hi
 open_questions:
   - The exact stopping point within Keshkal was not reported.
   - The origin and intended destination of the XUV consignment were not reported.
@@ -144,3 +149,5 @@ smuggling network is under investigation. [@2,4]
 A Rajasthan youth was arrested in the Keshkal case, reported alongside the 5 November Jagdalpur actions. [@8]
 
 The seized Mahindra XUV-500 carrying the consignment had an Odisha registration number. [@9] Lalluram framed the case as a Rajasthan suspect using an Odisha-registered vehicle. [@9]
+
+The Keshkal car recovery was one of two separate operations in Kanker and Keshkal through which police seized ganja worth about Rs 3.54 crore in total. [@11]
