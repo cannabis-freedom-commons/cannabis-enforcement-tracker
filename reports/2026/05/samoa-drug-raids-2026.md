@@ -29,6 +29,14 @@ sources:
     url: >-
       https://samoaglobalnews.com/police-update-on-drug-raids-55-arrests-over-the-last-4-months-aged-between-16-and-53-years/
     locator: 20 raids; 55 charged; meth, marijuana plants and joints, firearms.
+  - title: PACNEWS THREE, 28 MAY 2026
+    url: https://islandsbusiness.com/pacnews/pacnews-three-28-may-2026/
+    publisher: Islands Business
+    date: 2026-05-28
+open_questions:
+  - The bulletin gives no cannabis quantity beyond mentioning marijuana plants among the seized items.
 ---
 
 The acting police commissioner said 20 raids between January and May 2026 led to 55 charges, including 12 women aged 18–47 and 43 men aged 16–53. Seizures included just over 100 g of methamphetamine, marijuana plants and joints, and firearms. The figures cover all drugs. [@1]
+
+Those charged came from villages including Fasitoo Uta, Leone, Salelologa, Leauvaa, Afega, Moamoa, Nu’u Fou and Vaitele-Uta. [@2] The seized items shown at the press conference also included drug utensils and prescribed bottles containing drugs confiscated at the border. [@2]

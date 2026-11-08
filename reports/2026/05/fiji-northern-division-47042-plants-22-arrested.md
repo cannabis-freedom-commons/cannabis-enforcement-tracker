@@ -44,6 +44,10 @@ sources:
     url: https://fijisun.com.fj/news/nation/over-47000-marijuana-plants-seized-in-northern-raid
     publisher: Fiji Sun
     date: 2026-05-26
+  - title: PACNEWS THREE, 28 MAY 2026
+    url: https://islandsbusiness.com/pacnews/pacnews-three-28-may-2026/
+    publisher: Islands Business
+    date: 2026-05-28
 open_questions:
   - The article gives no separate dates for the farm seizures; 26 May 2026, the date of the ministerial statement and publication, is used as the incident date.
   - No locations for the 93 farms, and no plant weight, area, value or laboratory confirmation were published.
@@ -51,10 +55,12 @@ open_questions:
   - The 68 arrests in the Central and Eastern divisions involved methamphetamine, other illicit drugs and proceeds of crime and are excluded from the cannabis figures.
   - The submitted page image shows the minister and is a portrait of an official, so no media entry is added.
   - Only one source for this statement could be opened; no second account confirming these totals was found.
+  - This account rounds the seizure to more than 47,000 plants and gives no farm count, so the precise 47,042-plant and 93-farm totals rest on the earlier Fiji Sun account.
+  - No event photo is available on the submitted page; its listed images are advertisements.
 ---
 
 More than 47,000 marijuana plants were seized in Fiji's Northern Division during
-joint police and military operations against illicit drugs. [@1] A joint
+joint police and military operations against illicit drugs. [@1,2] A joint
 operation by the Fiji Police Force and the Republic of Fiji Military Forces
 seized the plants from 93 farms in the Northern Division. [@1] A joint Fiji
 Police Force and Republic of Fiji Military Forces operation seized a total of
@@ -62,13 +68,12 @@ Police Force and Republic of Fiji Military Forces operation seized a total of
 arrested. [@1]
 
 Minister for Policing and Communications Ioane Naivalurua revealed the figures
-while delivering a ministerial statement in Parliament. [@1] The statement was
+while delivering a ministerial statement in Parliament. [@1,2] The statement was
 reported on 26 May 2026. [@1] Naivalurua presented the seizure as part of
 developments under the National Joint Enforcement Centre. [@1]
 
 Separately, Naivalurua said 68 people had been arrested in the Central and
 Eastern divisions for possession of methamphetamine, other illicit drugs and
-proceeds of crime during roadblocks and other searches. [@1] Naivalurua assured
+proceeds of crime during roadblocks and other searches. [@1,2] Naivalurua assured
 that the Fiji Police Force remained fully in control of ongoing intelligence-led
 operations against illicit drug networks and transnational organised crime. [@1]
-
