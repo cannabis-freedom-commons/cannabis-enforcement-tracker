@@ -65,6 +65,11 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-07
     language: ar
+  - title: 'كان بحوزته مسدس : القبض على شخص مفتّش عنه من أجل ترويج المخدرات وتبييض الأموال'
+    url: https://hakaekonline.com/%d9%83%d8%a7%d9%86-%d8%a8%d8%ad%d9%88%d8%b2%d8%aa%d9%87-%d9%85%d8%b3%d8%af%d8%b3-%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d9%85%d8%ac%d8%b1%d9%85-%d9%85%d9%81%d8%aa%d9%91%d8%b4-%d8%b9%d9%86%d9%87-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%aa%d8%b1%d9%88%d9%8a%d8%ac-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa-%d9%88%d8%aa%d8%a8%d9%8a%d9%8a%d8%b6-%d8%a7%d9%84%d8%a3%d9%85%d9%88%d8%a7%d9%84/
+    publisher: Hakaekonline | حقائق اون لاين
+    date: 2026-11-07
+    language: ar
 open_questions:
   - The 500 kg of cannabis resin, about 5,000 slabs, the pistol and the money belong to an earlier drug case behind the warrants; the source does not say when or where that seizure happened or whether this man was present.
   - Only the arrest on Saturday 7 November 2026 is dated; the article says the arrest happened today and 7 November is also its publication date.
@@ -79,19 +84,22 @@ open_questions:
   - Babnet publishes the TAP text with an auto-generated photo address that carries no caption or credit identifying the arrest, so no media entry is added for it.
   - The Mosaique FM page is dated 7 November 2026 and marks the text with the TAP agency's initials, but it does not say when the arrest happened beyond "today", so the exact time of the detention is not published.
   - Mosaique FM describes the 500 kg only as cannabis (القنب الهندي), without the resin wording used in the earlier account, so the product description remains as previously reported.
+  - This account describes the 500 kg only as cannabis (مخدر القنب الهندي), without the resin wording used in the existing report, so the product description remains as previously reported.
+  - No separate date for the arrest is given; 7 November 2026 is the article's publication date.
+  - The page lists one image filename with no caption or credit confirming it shows this arrest, so no media entry is added.
 ---
 
 The Nabeul regional anti-drug brigade arrested a suspect wanted on four search
 warrants in Marazga, part of the Hammamet delegation, a security source told the
-TAP news agency. [@1,2,4,5] The four warrants were issued over drug trafficking, money
-laundering, possessing a firearm without a licence and forgery. [@1,2,4,5] The source
+TAP news agency. [@1,2,4,5,6] The four warrants were issued over drug trafficking, money
+laundering, possessing a firearm without a licence and forgery. [@1,2,4,5,6] The source
 said the suspect was arrested after officers traced his new residence in
 Marazga, where he had taken refuge after fleeing his home in the La Marsa suburb
-of the capital. [@1,2,4,5]
+of the capital. [@1,2,4,5,6]
 
 The case data showed he was involved in a drug case in which officers seized 500
 kg of cannabis resin, about 5,000 slabs, as well as a pistol and a significant
-sum of money. [@1,2,4,5]
+sum of money. [@1,2,4,5,6]
 
 The National Radio of Tunisia published a second account of the same arrest on 7 November, attributing the security source's statement to the TAP agency. [@3]
 
