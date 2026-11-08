@@ -52,31 +52,37 @@ sources:
     publisher: GulfHindi
     date: 2026-11-08
     language: hi
+  - title: 'Watch Video: सीमा पार 9.7 किलो गांजा जब्त, तस्कर भागा नेपाल'
+    url: https://www.prabhatkhabar.com/state/bihar/supaul/india-nepal-border-ganja-seizure
+    publisher: Prabhat Khabar
+    date: 2026-11-08
+    language: hi
 open_questions:
   - No one was arrested; the man who dropped the sack escaped into Nepal and was not identified.
   - The weight is given as about 9.7 kg, not an exact measured figure.
   - No street value was stated, and no NDPS case number or court outcome was reported.
   - Only the SSB account, carried by the submitted report and a GulfHindi paraphrase, could be opened; no independent police statement was found.
   - The page image carries no caption or credit confirming what it shows, so it is listed as media without a claimed scene.
+  - The Prabhat Khabar account gives no patrol time; the 7:40 am timing in the existing report comes from its earlier sources.
+  - No arrest, street value, NDPS case number or court outcome is reported in this account.
 ---
 
 Soldiers of the 45th Battalion of the Sashastra Seema Bal, posted at Birpur,
 seized about 9.7 kg of ganja in a patrol on the India-Nepal border in Supaul
-district, Bihar. [@1]
+district, Bihar. [@1,3]
 
 On Sunday, 8 November, at about 7:40 am, the operation party of the Benali Patti
 border post was on a routine patrol near Benali Patti village and border pillar
-number 201. [@1] The soldiers saw a man carrying a sack entering Indian
+number 201. [@1,3] The soldiers saw a man carrying a sack entering Indian
 territory from Nepal in a hurry and chased him when his movements looked
 suspicious. [@1] Seeing the soldiers coming, the man dropped the sack at the
-spot and ran back into Nepal; the account names no arrest. [@1]
+spot and ran back into Nepal; the account names no arrest. [@1,3]
 
 A search of the abandoned sack found about 9.7 kg of ganja. [@2] SSB completed
 the paperwork for the seizure and handed the ganja to Birpur police station in
-Supaul district for further legal action. [@1] The operation was led by
-assistant sub-inspector (general duty) T. Sewang Morup with other troops. [@2]
+Supaul district for further legal action. [@1,3] The operation was led by
+assistant sub-inspector (general duty) T. Sewang Morup with other troops. [@2,3]
 
 Gaurav Singh, commandant of the 45th Battalion SSB at Birpur, said the force was
 fully committed to curbing drug smuggling and other illegal activity in the
 border areas. [@1]
-
