@@ -59,6 +59,10 @@ sources:
     publisher: Jagarantripura.com
     date: 2026-11-08
     language: bn
+  - title: Assam police seize over 15 kg of suspected cannabis in Baihata, one arrested
+    url: https://www.indiatodayne.in/assam/story/assam-police-seize-over-15-kg-of-suspected-cannabis-in-baihata-one-arrested-1472867-2026-11-08
+    publisher: India Today NE
+    date: 2026-11-08
 open_questions:
   - The accounts give no separate date for the interception, so the publication date of 8 November 2026 is used as the incident date.
   - No charges, court outcome or custody details were reported beyond that further legal action was being initiated.
@@ -72,17 +76,18 @@ open_questions:
   - The submitted Bengali page is another IANS reprint of the same agency text already cited through The Hawk, hi INDiA, Lokmat Times and Social News XYZ, so it corroborates but is not independent reporting.
   - Its only image is an uncaptioned, uncredited upload under the headline, so no media link is added.
   - The page's later paragraphs describe separate Assam Rifles methamphetamine seizures in Cachar district, involving synthetic drugs, which are left out of this cannabis report.
+  - The page carries one image under the same headline with no credit and a caption that repeats the headline, so it is not confirmed to show this seizure and no media entry is listed.
 ---
 
 Police in Assam's Baihata seized over 15 kilograms of suspected cannabis,
 locally known as ganja, and apprehended one individual in connection with the
-haul. [@1,3,5] Baihata Police intercepted a vehicle during 'naka' checking based on
-specific input about the transportation of drugs through the area. [@1,3,4,5] The
+haul. [@1,3,5,6] Baihata Police intercepted a vehicle during 'naka' checking based on
+specific input about the transportation of drugs through the area. [@1,3,4,5,6] The
 apprehended individual was identified by police as Ridip Kumar, a resident of
-Assam's Kamrup district. [@1,3,4,5]
+Assam's Kamrup district. [@1,3,4,5,6]
 
 A search of the intercepted vehicle led to the recovery and seizure of suspected
-cannabis that had been packed in three separate packets. [@1] Police recorded
+cannabis that had been packed in three separate packets. [@1,6] Police recorded
 the weight of the recovered suspected cannabis as 15.049 kilograms. [@1,3,4,5] Police
 said one person was apprehended at the scene in connection with the recovery of
 the three packets. [@1]
