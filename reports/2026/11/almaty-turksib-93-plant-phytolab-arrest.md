@@ -58,6 +58,11 @@ sources:
     publisher: Kursiv Media Казахстан
     date: 2026-11-08
     language: ru
+  - title: Алматинец арендовал дом под марихуану, а семью поселил во времянке
+    url: https://astanatv.kz/ru/news/182743/
+    publisher: Телеканал «Астана»
+    date: 2026-11-08
+    language: ru
 open_questions:
   - No separate date for the search and detention is given; 7 November 2026 is the article's publication date and is used as the incident date.
   - The packet of material with a specific smell is reported without a weight or laboratory confirmation, so no cannabis weight is recorded.
@@ -66,18 +71,20 @@ open_questions:
   - No second independent account of this Turksib-district plantation could be found.
   - Kursiv was opened on 8 November 2026 and gives no separate date for the search and detention, so it is not clear whether the police announcement came on 7 November, as the report's earlier source gave, or on 8 November.
   - The packet of material with a specific smell is still reported without a weight or laboratory confirmation, so no cannabis weight is recorded.
+  - The article gives no separate date for the search and detention; 8 November 2026 is its publication date.
+  - The page labels its illustration as an AI-enhanced video still, so no media entry is added.
 ---
 
 Police in Almaty shut down a drug plantation set up in a rented house. [@1]
 Operatives found the marijuana plantation in a rented house in the city's
 Turksib district. [@1,2] The occupants lived in a temporary outbuilding while the
-main premises were used to grow the plants. [@1,2]
+main premises were used to grow the plants. [@1,2,3]
 
 During the search, police found 93 potted plants with the characteristic smell
-of marijuana and a packet of material with a specific smell. [@1,2] A 28-year-old
-man was detained during the operational measures. [@1,2] The suspect was arrested
-and a criminal case was opened over the discovery. [@1,2]
+of marijuana and a packet of material with a specific smell. [@1,2,3] A 28-year-old
+man was detained during the operational measures. [@1,2,3] The suspect was arrested
+and a criminal case was opened over the discovery. [@1,2,3]
 
 NUR.KZ reported the discovery citing the city police department. [@1]
 Investigators still have to establish possible distribution channels, who
-organized the plantation and for whom the product was intended. [@1,2]
+organized the plantation and for whom the product was intended. [@1,2,3]
