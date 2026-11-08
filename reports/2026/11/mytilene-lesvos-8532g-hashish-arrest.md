@@ -72,7 +72,7 @@ open_questions:
 
 Drug officers in Mytilene arrested a 39-year-old Greek man on Saturday 7
 November 2026 on suspicion of possessing and trafficking narcotic substances and
-of breaking the weapons laws. [@1]
+of breaking the weapons laws. [@1,2]
 
 Officers stopped him as he drove a light truck on the Mytilene–Kalloni road and
 found a nylon package holding about 1,035 grams of unprocessed cannabis, called
@@ -85,7 +85,7 @@ cannabis and a precision electronic scale. [@1]
 
 Officers also seized a knife and a mobile phone the man had with him when they
 found him, and the light truck, which police describe as the means used to
-commit the offences. [@1] Police said their investigation indicated he held the
+commit the offences. [@1,2] Police said their investigation indicated he held the
 drugs in order to supply them to third parties for money, and a criminal case
 file was opened against him. [@1] The investigation was carried out by the Drug
 Prosecution Department of the Mytilene Subdivision for Prosecution and Clearance
@@ -93,4 +93,3 @@ of Crimes. [@1]
 
 LesvosPost placed the main search at Halikas, a district of Mytilene, a location
 the police statement does not name. [@2]
-
