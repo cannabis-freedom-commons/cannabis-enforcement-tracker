@@ -63,6 +63,10 @@ sources:
     url: https://www.socialnews.xyz/2026/11/08/huge-quantities-of-marijuana-and-other-narcotics-substances-recovered-from-two-places-in-bengal-two-held/
     publisher: SocialNews.XYZ
     date: 2026-11-08
+  - title: West Bengal police seize 43 Kg marijuana, heroin worth Rs 37 lac; two arrested
+    url: https://www.daijiworld.com/news/newsDisplay?newsID=1334769
+    publisher: Daijiworld.com
+    date: 2026-11-08
 open_questions:
   - The article is dated 8 November 2026, a Sunday, and says the raid happened on Saturday night; 7 November 2026 is used as the incident date.
   - No valuation of the seized ganja was published.
@@ -84,18 +88,18 @@ open_questions:
 Police in Jhargram searched the house of Biswajit Sheel in Chandipur village in
 the Shalboni area of Jhargram police station. [@1,4] Acting on a secret tip-off,
 officers raided the house on Saturday night. [@1] After searching the house
-thoroughly they found nothing at first. [@1] The soil of the room's floor made
-police suspicious. [@1] They then began digging up the earth. [@1] After digging
+thoroughly they found nothing at first. [@1,5] The soil of the room's floor made
+police suspicious. [@1,5] They then began digging up the earth. [@1] After digging
 only a short distance, police reached three sacks. [@1] They pulled the sacks
 out from under the soil, and when they opened them kilo upon kilo of ganja
-spilled out. [@1]
+spilled out. [@1,5]
 
-Police said the three sacks together held 43 kg 222 g of ganja. [@1,4] The sacks
+Police said the three sacks together held 43 kg 222 g of ganja. [@1,4,5] The sacks
 of ganja were seized. [@1,4] The operation was carried out on Saturday night in
 the presence of Jhargram police station inspector-in-charge Udayshankar Ghosh
 and Jhargram block joint BDO Souvik Pramanik. [@1] Jhargram SDPO Rishabhraj Deb
 said Biswajit was arrested under sections of the NDPS Act, India's
-anti-narcotics law. [@1,4]
+anti-narcotics law. [@1,4,5]
 
 People in the area are used to ganja being recovered from searches of stopped
 trucks, buses, cars and motorbikes. [@1] Many cannot recall a recent case of
@@ -106,3 +110,5 @@ Jhargram. [@1,3]
 The house was a very plain thatched dwelling with uneven brick walls, a temporary shack of a roof and an earthen floor. [@2]
 
 The search took place early in the morning, and the account came from an officer of Jhargram police station and the Jhargram sub-divisional police officer. [@4] The same account puts the raid and the recovery on Sunday 8 November 2026, saying the house search happened early that morning. [@4]
+
+In a separate operation, state police arrested Muhammad Mahfuz Alam at Lalgola in Murshidabad district on Sunday and recovered 324 g of heroin from his possession, and also seized his mobile phone and motorcycle. [@5]
