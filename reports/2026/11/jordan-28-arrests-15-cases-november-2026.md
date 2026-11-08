@@ -66,6 +66,11 @@ sources:
     publisher: قناة المملكة
     date: 2026-11-08
     language: ar
+  - title: الأمن العام يعلن تفاصيل 15 قضية مخدرات وضبط 28 شخصًا
+    url: https://www.alwakeelnews.com/Section_1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-15-%D9%82%D8%B6%D9%8A%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%B6%D8%A8%D8%B7-28-%D8%B4%D8%AE%D8%B5%D8%A7_797861
+    publisher: الوكيل الإخباري
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -82,21 +87,24 @@ open_questions:
   - The Al Mamlaka page gives only its creation time of 8 November 2026 without a separate date for the raids, so 8 November stands in for the incident date.
   - Al Mamlaka carries the same Public Security Directorate statement as the outlets already cited in the report, so it corroborates rather than independently reports the roundup.
   - The page's lead photograph is captioned only as a gate belonging to the Public Security Directorate and does not show the raids or seizures, so it is not listed as media.
+  - Al Wakeel News carries the same Public Security Directorate statement as the outlets already cited in the report, so it corroborates the text and its figures but is not independent reporting of the raids.
+  - The submitted page gives no separate date for the raids; the article is dated 8 November 2026 and says the casework ran over the preceding days.
+  - The page shows one thumbnail image captioned only with the story headline and no credit identifying what it depicts, so no media entry is added.
 ---
 
 Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
 officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1,3,4,5]
+and dealers and seizing large quantities of drugs. [@1,3,4,5,6]
 
 In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
-capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5]
+capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6]
 Two active pushers in the capital were arrested with 20 blocks of hashish. [@1,5]
 Three pushers were arrested after a raid with five blocks of hashish and 1,500
 pills. [@1,5] South of Amman, officers raided a tent that three people used to
 trade, store and push drugs, arresting all three and seizing 2 kilograms of
 marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
-methamphetamine. [@1,3,4,5] Officers arrested three people in the last Amman case with
-2,600 grams of marijuana. [@1,5] In the second Amman case three people were raided
+methamphetamine. [@1,3,4,5,6] Officers arrested three people in the last Amman case with
+2,600 grams of marijuana. [@1,5,6] In the second Amman case three people were raided
 inside a flat they used to store drugs for sale, and officers seized 6,000 pills
 and a quantity of hashish. [@1,5] In a farm south of the capital officers arrested
 two pushers with 200 grams of crystal methamphetamine, 200 grams of cocaine and
