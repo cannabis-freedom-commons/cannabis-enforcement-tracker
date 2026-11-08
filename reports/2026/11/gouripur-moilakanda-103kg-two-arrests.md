@@ -44,24 +44,39 @@ sources:
     publisher: Boishakhi Online
     date: 2026-11-02
     language: bn
+  - title: গৌরীপুরে এসআরবির অভিযানে গাঁজাসহ দুই মাদক ব্যবসায়ী গ্রেপ্তার
+    url: https://www.agrajatrapratidin.com/crime/news/28522
+    publisher: agrajatrapratidin.com
+    date: 2026-11-02
+    language: bn
 open_questions:
   - Only one outlet's account of the raid could be found; no agency statement or second outlet was available.
   - The report does not say what the two seized mobile phones contained or whether the court granted bail or remand.
   - This account describes the raid as happening at noon on 1 November, while the existing report says afternoon; the shared supported description uses the existing wording.
+  - The new account gives the raid time as about 2:25 pm, while the existing report describes it as the afternoon.
+  - The new account describes both men as residents of Mymensingh district, while the existing report says they are of the same village.
+media:
+  - kind: photo
+    url: https://www.agrajatrapratidin.com/crime/news/28522
+    media_url: https://www.agrajatrapratidin.com/media/imgAll/2026November/WhatsApp-Image-2026-11-02-at-114348-AM-2611020549.jpeg
+    publisher: agrajatrapratidin.com
+    caption: Photo published with the report on the SRB operation in Gouripur in which two drug dealers were arrested with cannabis.
 ---
 
 A specialized team of the Crime Prevention and Special Cell of Special Response
 Battalion 14, Mymensingh, raided the home of Dulal Chandra Banik in Paschim
 Moilakanda village of Gouripur's Moilakanda Union on the afternoon of 1
-November 2026, acting on a tip-off. [@1,2] Officers arrested Banik, 55, and Md
-Hatim Mia, 42, of the same village. [@1,2]
+November 2026, acting on a tip-off. [@1,2,3] Officers arrested Banik, 55, and Md
+Hatim Mia, 42, of the same village. [@1,2,3]
 
 Guided by information from the suspects and in front of witnesses, the team
 recovered 103.5 kilograms of cannabis stored in six plastic sacks, along with
-two mobile phones used for drug trafficking. [@1,2] Preliminary questioning
+two mobile phones used for drug trafficking. [@1,2,3] Preliminary questioning
 found the pair had stored the cannabis to sell it. [@1,2]
 
 The suspects and the seized cannabis and phones were handed to Gouripur Police
-Station, where a case was registered under the Narcotics Control Act. [@1,2]
+Station, where a case was registered under the Narcotics Control Act. [@1,2,3]
 Station chief Habibur Rahman confirmed the handover and said the two were
 produced before the court. [@1,2]
+
+The raid took place at about 2:25 pm on Sunday 1 November in a tin-shed room at Poddarpara Bonik Bari in Moilakanda Union under Gouripur police station. [@3]
