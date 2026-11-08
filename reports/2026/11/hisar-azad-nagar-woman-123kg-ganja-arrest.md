@@ -52,21 +52,28 @@ sources:
     publisher: Ground Zero News
     date: 2026-11-07
     language: hi
+  - title: 1.2 किलो गांजा व ढाई लाख नकदी बरामद
+    url: https://www.bhaskar.com/local/haryana/hisar/news/12-kg-of-ganja-and-rs-25-lakh-cash-recovered-dbp-139627229.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-08
+    language: hi
 open_questions:
   - No separate date is given for the arrest; 7 November 2026, the date of the first report and the submitted URL, is used as the incident date, while Amar Ujala published on 8 November 2026.
   - The submitted page image carries a 2021 file path and is not confirmed to show this seizure, so no media entry is listed.
   - The reports allege a second woman associate sold ganja with the accused, but give no name and report no second arrest.
   - No court outcome beyond the planned production and remand request was reported.
+  - The opened capture is truncated behind a paywall/login wall, so the accused's name, the cash description and any case or court details could not be read in this source.
+  - No separate incident date is given; 7 November 2026 from the existing report is retained while this source published on 8 November 2026.
 ---
 
 Hisar's Anti-Narcotic Cell arrested a woman named Rinku on 33 Foota Road in Azad
-Nagar, Hisar. [@1] Rinku is originally from Baranga village in Darbhanga
+Nagar, Hisar. [@1,3] Rinku is originally from Baranga village in Darbhanga
 district, Bihar, and was living in Vijay Vihar Colony on 33 Foota Road. [@1]
 Ground Zero News identified her as Rinku, wife of Rahul. [@2] Police said they
 acted on a tip that she sold ganja from her home together with another woman
 associate. [@1]
 
-Officers seized 1 kilo 230 grams of ganja from her possession. [@1] They also
+Officers seized 1 kilo 230 grams of ganja from her possession. [@1,3] They also
 seized Rs 2,49,300 in cash, which police described as drug money. [@2] The team
 detained and searched her with the help of a woman police officer while on
 patrol led by investigating officer Jagdish Kumar. [@1]
@@ -75,4 +82,3 @@ Police registered a case against her at Azad Nagar police station under section
 20(b)(II)(b)/61/85 of the NDPS Act. [@2] Police said she would be produced in
 court and taken on remand to trace the supply source and identify others
 involved in the trade. [@1]
-
