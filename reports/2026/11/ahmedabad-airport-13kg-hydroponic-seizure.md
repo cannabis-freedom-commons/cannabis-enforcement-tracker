@@ -293,6 +293,7 @@ open_questions:
   - The page lists one image captioned about the AIU action and 14 packets with no credit or event detail establishing that it shows this seizure, so no media entry is listed.
   - The Sandesh page lists images captioned only as Ahmedabad Airport Customs Procedure and numbered 20, 19, 18, 17 and 16 with no credit or event detail, so whether they show this seizure cannot be established and no media entry is included.
   - The Sandesh account describes the haul only as worth crores of rupees in the international market without stating the approximately Rs 13 crore figure used in the report.
+  - 'Left out, as its quotation was not found in Divya Bhaskar: Both passengers who arrived on the flight from Bangkok had a total of 14 vacuum-sealed packets in their bags.'
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a
