@@ -214,6 +214,7 @@
 "https://assets.ecuavisa.com/__export/1775177221564/sites/ecuavisa/img/2026/04/02/blurred-frame_-11-.jpg_1103262774.jpg":{"status":"ok","sha256":"a8cd3e1aed142df762e32c4a9e44843df07e8907092f46b1648c3993c013bc58","width":1200,"height":675,"type":"image/webp","thumbhash":"USgGFIIj9WXOQHp3clzjoDc/+g==","bytes":43812,"fetched":"2026-11-08T03:02:11.404Z","via":"service"},
 "https://assets.eenadu.net/article_img/01112026similiguda650a.webp":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-06T02:38:46.616Z"},
 "https://assets.eenadu.net/article_img/051126kmm-1a.webp":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-06T05:39:49.235Z"},
+"https://assets.eenadu.net/article_img/0811-koraput-A.webp":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-08T06:49:17.327Z"},
 "https://assets.eenadu.net/article_img/mbn0711269a.webp":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-08T01:00:27.024Z"},
 "https://assets.eenadu.net/article_multiple_images/126197242_448301026a.webp":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-06T02:40:03.209Z"},
 "https://assets.guernseypress.com/7140f19b-45ab-4550-832b-e373ce9f5f03?width=1200&height=630":{"status":"ok","sha256":"d03849d75c85c849f0b128377f33a42b3fe00bb80ece44900fce9c10463400a0","width":1200,"height":630,"type":"image/jpeg","thumbhash":"nAgGFII0C5lUp4iGV2tgiQZnnA==","bytes":153030,"fetched":"2026-11-06T02:41:48.820Z","via":"archive"},
