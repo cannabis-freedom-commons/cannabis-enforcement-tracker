@@ -46,6 +46,11 @@ media:
     media_url: https://images.rr.pt/pj39136d47_base.jpg
     publisher: Renascença
     caption: Photograph published with Renascença's report on the Olhão seizure; its file name suggests the Judicial Police as source, and the page gives no visible caption or credit line.
+  - kind: photo
+    url: https://www.cmjornal.pt/portugal/detalhe/um-detido-e-4-5-toneladas-de-haxixe-apreendidas-em-olhao
+    media_url: https://cdn.cmjornal.pt/images/2026-10/img_932x621uu2026-10-31-11-04-06-2318427.jpg
+    publisher: Correio da Manhã
+    caption: 'Video frame published with the report on the Olhão seizure, captioned Polícia Judiciária. Photo: Frame CMTV'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4a062e6b0242fb2c620ef79d52b50918
@@ -80,6 +85,11 @@ sources:
     publisher: RTP Notícias
     date: 2026-11-09
     language: pt
+  - title: Um detido e 4,5 toneladas de haxixe apreendidas em Olhão
+    url: https://www.cmjornal.pt/portugal/detalhe/um-detido-e-4-5-toneladas-de-haxixe-apreendidas-em-olhao
+    publisher: Correio da Manhã
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No date is given for the operation or the arrest; 9 November 2026 is the publication date of the accounts and stands in for the incident date.
   - The weight is given as approximately 4.5 tonnes and the bale count as about 100, not exact measured figures.
@@ -96,14 +106,16 @@ open_questions:
   - RTP gives no separate date for the operation or the arrest; 9 November 2026 is its publication date.
   - RTP reproduces the Judicial Police statement, so it does not independently corroborate the police version.
   - The RTP page's lead image carries no caption or credit and is not confirmed to show the seizure, so no media entry is added.
+  - The Correio da Manhã account, credited to Lusa, says a Judicial Police source placed the operation on Saturday, but gives no exact calendar date for it.
+  - The Correio da Manhã picture is captioned only 'Polícia Judiciária' and credited to a CMTV video frame; the caption does not say what it shows.
 ---
 
 Judicial police in Olhão arrested a 38-year-old man on suspicion of drug
-trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5,6]
+trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5,6,7]
 The bales weighed about 4.5 tonnes in total. [@1,4,5]
 
 The van was hidden on a rural property and investigators believe the hashish was
-brought ashore by sea through the channels of the Ria Formosa. [@1,4] Detectives
+brought ashore by sea through the channels of the Ria Formosa. [@1,4,7] Detectives
 identified the load inside the stolen goods vehicle while investigating the
 activity of a criminal group, which police say had the guarding of the drug in
 hand. [@3] Notícias ao Minuto described the stolen goods van as holding the
@@ -113,10 +125,12 @@ The suspect, who police say has previous records, was to appear before a judge
 for a first judicial hearing that would decide any preventive measures. [@1,4] The
 investigation continues in order to establish the full extent of the criminal
 activity, and the inquiry is directed by the Public Prosecutor's Office (DIAP)
-in Faro. [@3,4] The seizure adds to a series of major hashish trafficking cases
+in Faro. [@3,4,7] The seizure adds to a series of major hashish trafficking cases
 along the Algarve coast, where waterways are regularly used by organised groups
 bringing drugs ashore from North Africa. [@1]
 
-The operation was run by the Judicial Police's Southern Directorate with the collaboration of the Republican National Guard (GNR). [@4] The detained man's role, police say, was to guard the drug. [@4]
+The operation was run by the Judicial Police's Southern Directorate with the collaboration of the Republican National Guard (GNR). [@4,7] The detained man's role, police say, was to guard the drug. [@4]
 
-The suspect was tasked with guarding the drug, which was inside the vehicle hidden on a property in the rural area of Olhão. [@5] The Judicial Police announced the arrest on Monday, 9 November. [@5] No preventive measures had yet been decided and the investigation was continuing. [@5]
+The suspect was tasked with guarding the drug, which was inside the vehicle hidden on a property in the rural area of Olhão. [@5,7] The Judicial Police announced the arrest on Monday, 9 November. [@5] No preventive measures had yet been decided and the investigation was continuing. [@5]
+
+A Judicial Police source said the operation took place on Saturday. [@7]
