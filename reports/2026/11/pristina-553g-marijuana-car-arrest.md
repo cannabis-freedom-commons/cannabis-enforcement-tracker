@@ -52,6 +52,11 @@ sources:
     publisher: Gazeta Online Reporteri.net
     date: 2026-11-09
     language: sr
+  - title: Plus d'un demi-kilo de marijuana a été trouvé dans une voiture, une personne a été arrêtée à Pristina
+    url: https://reporteri.net/fr/nouvelles/Plus-d%27un-demi-kilo-de-marijuana-a-%C3%A9t%C3%A9-trouv%C3%A9-dans-une-voiture--une-personne-a-%C3%A9t%C3%A9-arr%C3%AAt%C3%A9e-%C3%A0-Pristina/
+    publisher: Gazeta Online Reporteri.net
+    date: 2026-11-09
+    language: fr
 open_questions:
   - The 0.553 kilograms is described only as a substance suspected to be marijuana; no laboratory confirmation was published.
   - The article does not say what the search of the home and surrounding facilities found.
@@ -60,14 +65,20 @@ open_questions:
   - The page's only photo is an uncaptioned, uncredited image file named for the Kosovo Police, which cannot be established to show this seizure, so no media entry is listed.
   - The German edition likewise describes the material only as a substance suspected to be marijuana, with no laboratory confirmation published.
   - The German article again gives no charge, age or court outcome, and does not say what the search of the home and surrounding buildings found.
+  - The French edition likewise describes the material only as a substance suspected to be marijuana, with no laboratory confirmation published.
+  - The French article does not say what the search of the home and surrounding premises found, nor the suspect's charge, age or any court outcome.
+  - Only the Kosovo Police 24-hour report appears to underlie all editions of this outlet's coverage; no independent second account was opened.
+  - 'Left out, as its quotation was not found in Gazeta Online Reporteri.net: A man was arrested in Pristina after police found and seized about 0.553 kilograms of a substance suspected to be marijuana during a search of his vehicle.'
+  - Left out arrested, as no supporting quotation was given.
+  - Left out kg seized, as no supporting quotation was given.
 ---
 
 A man was arrested in Pristina after police found and seized about 0.553
 kilograms of a substance suspected to be marijuana during a search of his
 vehicle. [@1,2,3] Kosovo Police's 24-hour incident report put the search at around
-20:20 on Sunday, 8 November 2026. [@1,2,3]
+20:20 on Sunday, 8 November 2026. [@1,2,3,4]
 
 In consultation with a prosecutor, police also searched the suspect's home and
-surrounding facilities. [@1,2,3] The suspect's car was seized as material evidence.
-[@1,2,3] After the interview, the prosecutor ordered that the suspect be taken into
-custody. [@1,2,3]
+surrounding facilities. [@1,2,3,4] The suspect's car was seized as material evidence.
+[@1,2,3,4] After the interview, the prosecutor ordered that the suspect be taken into
+custody. [@1,2,3,4]
