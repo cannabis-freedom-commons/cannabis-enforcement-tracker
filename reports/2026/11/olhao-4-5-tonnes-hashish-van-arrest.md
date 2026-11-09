@@ -70,6 +70,11 @@ sources:
     publisher: Renascença
     date: 2026-11-09
     language: pt
+  - title: Homem detido com 4,5 toneladas de haxixe escondidas em Olhão
+    url: https://www.sulinformacao.pt/2026/11/homem-detido-com-45-toneladas-de-haxixe-escondidas-em-olhao/
+    publisher: Sul Informação
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No date is given for the operation or the arrest; 9 November 2026 is the publication date of the accounts and stands in for the incident date.
   - The weight is given as approximately 4.5 tonnes and the bale count as about 100, not exact measured figures.
@@ -81,11 +86,13 @@ open_questions:
   - Central Press repeats the release's wording that the suspect 'foi identificado tinha por missão a guarda', a garbled sentence; the guarding role is taken from the clearer Notícias ao Minuto and Portugal Resident accounts.
   - 'Left out, as its quotation was not found in Notícias ao Minuto: The Judicial Police''s Southern Directorate ran the operation, with the collaboration of the Republican National Guard (GNR).'
   - Left out agencies, as its quotation was not found in Notícias ao Minuto.
+  - The Sul Informação account repeats the same Judicial Police statement as the accounts already cited, so it does not independently corroborate the police version.
+  - 'The submitted page''s two images are unrelated to this seizure: a 2025 Judicial Police building photo used for other news and an outlet banner, so no media entry is added.'
 ---
 
 Judicial police in Olhão arrested a 38-year-old man on suspicion of drug
-trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4]
-The bales weighed about 4.5 tonnes in total. [@1,4]
+trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5]
+The bales weighed about 4.5 tonnes in total. [@1,4,5]
 
 The van was hidden on a rural property and investigators believe the hashish was
 brought ashore by sea through the channels of the Ria Formosa. [@1,4] Detectives
@@ -103,3 +110,5 @@ along the Algarve coast, where waterways are regularly used by organised groups
 bringing drugs ashore from North Africa. [@1]
 
 The operation was run by the Judicial Police's Southern Directorate with the collaboration of the Republican National Guard (GNR). [@4] The detained man's role, police say, was to guard the drug. [@4]
+
+The suspect was tasked with guarding the drug, which was inside the vehicle hidden on a property in the rural area of Olhão. [@5] The Judicial Police announced the arrest on Monday, 9 November. [@5] No preventive measures had yet been decided and the investigation was continuing. [@5]
