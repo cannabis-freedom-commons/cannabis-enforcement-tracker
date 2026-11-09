@@ -54,6 +54,11 @@ sources:
     publisher: Alkalima Online
     date: 2026-11-08
     language: ar
+  - title: الجيش يوسّع حملاته الأمنية في مناطق لبنانية عدّة... توقيف 28 شخصًا بينهم مطلوب بتفخيخ سيارة
+    url: https://www.thisislebanon.com/lebanon/797454/
+    publisher: هنا لبنان
+    date: 2026-11-08
+    language: ar
 open_questions:
   - No weight or measured quantity was given for the hashish seized at the al-Sufri checkpoint.
   - No separate date was given for the raids and checkpoints; 8 November 2026 is the publication date of the reports and of the army statement and is used as the incident date.
@@ -62,21 +67,24 @@ open_questions:
   - 'No usable event photo could be listed: the submitted page image only repeats the headline, and the Annahar images are explicitly labelled archive photos.'
   - This Arabic account renders the hashish detainee's initials as (م.ق.), while the existing report's French source gives M.K.; the existing report already records this initials discrepancy as an open question.
   - No weight or measured quantity was given for the hashish seized at the al-Safri checkpoint.
+  - This Arabic account renders the hashish detainee's initials as (م.ق.), while the existing report's French source gives M.K.; only initials were published.
+  - No weight or measured quantity was given for the hashish seized at the al-Sufri checkpoint in this account.
+  - No separate date was given for the raids and checkpoints; 8 November 2026 is the publication date and is used as the incident date.
 ---
 
 Lebanese army units detained 28 people in raids and temporary checkpoints
-carried out across several Lebanese regions. [@1,3,4] The army said the sweep was
+carried out across several Lebanese regions. [@1,3,4,5] The army said the sweep was
 aimed at pursuing troublemakers and combating human smuggling. [@1,3,4]
 
 The measures included raids after armed incidents in Laylaki–Baabda, Fnaydeq and
 Akkar al-Atiqa and checks at checkpoints including Ras Baalbek and Deir Ammar.
 [@1] At the al-Sufri checkpoint in Baalbek, soldiers arrested a citizen
 identified only as M.K. for shooting and seized a quantity of hashish found in
-his possession. [@1,3,4] The Arabic army statement calls the seized drug hashish du
+his possession. [@1,3,4,5] The Arabic army statement calls the seized drug hashish du
 kif, meaning cannabis resin. [@2]
 
 The same sweep also produced the arrest of a Syrian wanted over an earlier car
-bombing in Ain al-Hilweh camp. [@1] The army said the seized items were handed
+bombing in Ain al-Hilweh camp. [@1,5] The army said the seized items were handed
 over and questioning of the detainees began under the supervision of the
-competent judicial authority. [@1,3] The army said efforts were continuing to
+competent judicial authority. [@1,3,5] The army said efforts were continuing to
 arrest others involved in the shooting incidents. [@1]
