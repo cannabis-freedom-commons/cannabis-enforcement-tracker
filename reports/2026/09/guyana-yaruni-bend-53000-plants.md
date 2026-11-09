@@ -48,6 +48,10 @@ sources:
     url: https://ignitenews.com/2026/09/11/police-destroy-53000-cannabis-plants-valued-at-22-million-in-linden/
     publisher: Ignite News
     date: 2026-09-11
+  - title: Police destroy 53,000 cannabis plants in Linden eradication exercise - News Room Guyana
+    url: https://newsroom.gy/2026/09/11/police-destroy-53000-cannabis-plants-in-linden-eradication-exercise/
+    publisher: News Room Guyana
+    date: 2026-09-11
 media:
   - kind: photo
     url: https://ignitenews.com/2026/09/11/police-destroy-53000-cannabis-plants-valued-at-22-million-in-linden/
@@ -59,12 +63,14 @@ open_questions:
 ---
 
 Police destroyed about 53,000 cannabis plants on two farms at Yaruni Bend, Linden, in the Upper
-Demerara River area on 10 September 2026. [@1,2] The farms covered a combined eight acres (about
+Demerara River area on 10 September 2026. [@1,2,3] The farms covered a combined eight acres (about
 3.24 hectares), and the plants were between two and six feet tall. [@1,2]
 
-The eradication exercise ran from 05:30 to 16:36. [@1] Officers also found two makeshift camps and
+The eradication exercise ran from 05:30 to 16:36. [@1,3] Officers also found two makeshift camps and
 two drying areas holding a combined 10 pounds (about 4.5 kg) of dried cannabis; the plants, camps
-and drying areas were destroyed by fire. [@1,2]
+and drying areas were destroyed by fire. [@1,2,3]
 
-No arrests were made and investigations continue. [@1,2] The Guyana Police Force put the value of
-the destroyed narcotics at GY$22,038,728. [@1]
+No arrests were made and investigations continue. [@1,2,3] The Guyana Police Force put the value of
+the destroyed narcotics at GY$22,038,728. [@1,3]
+
+The operation was led by a Gazetted Officer. [@3]
