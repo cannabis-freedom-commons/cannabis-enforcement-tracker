@@ -87,6 +87,10 @@ sources:
     url: https://www.standard.co.uk/news/london/woman-south-london-arrested-sri-lanka-cocaine-smuggling-b1228395.html
     publisher: The Standard
     date: 2025-05-19
+  - title: Ex-flight attendant allegedly caught with 101 pounds of synthetic drug in her suitcases at Sri Lanka airport, reports say
+    url: https://www.cbsnews.com/news/ex-flight-attendant-drug-kush-suitcases-sri-lanka-reports-say/
+    publisher: CBS News
+    date: 2025-05-27
 open_questions:
   - The submitted article gives no exact arrest date beyond earlier this month; 12 May 2025 is used from the second BBC account, while Newswire dates the Customs arrest to 13 May.
   - The submitted BBC reports 46 kg while Newswire reports 46.6 kg of Kush; this report uses 46 kg and records no separate laboratory weight.
@@ -106,11 +110,13 @@ open_questions:
   - The page image is a composite captioned as showing Lee's travel from Thailand to Sri Lanka and credited to Sri Lanka Police; it is listed once here.
   - The Standard rounds the haul's value to £1.5 million and attributes it to unnamed sources close to the investigation, while other opened accounts put it at £1.2 million; the existing report records no value.
   - The Standard gives no arrest date beyond 'Monday' relative to its 19 May 2025 publication; the exact 12 May date comes from another account.
+  - CBS News describes kush as a synthetic drug containing powerful opioids, while the existing report follows other opened accounts identifying the seizure as cannabis; the same substance question is already open there.
+  - CBS News reports two kush arrests in the same week at Kankesanthurai on 16 May and Colombo airport on 18 May; no other opened source covers those cases and they are not part of this report's incident.
 ---
 
 Charlotte May Lee, 21, from south London, was arrested after authorities
 allegedly found 46 kg of cannabis in her suitcases on arrival from Thailand.
-[@1,4,5,6,8] The former flight attendant told the BBC she had travelled from Bangkok to
+[@1,4,5,6,8,9] The former flight attendant told the BBC she had travelled from Bangkok to
 Colombo to renew her Thai visa. [@1] Ms Lee has not yet been charged, denies
 knowing about the drugs, and could face up to 25 years if found guilty. [@1] She
 is being held in a prison in Negombo, a city just north of the capital. [@1,5] She
@@ -146,3 +152,5 @@ The Guardian reports that Lee flew alone from Bangkok's Suvarnabhumi airport, as
 Arriving at the Negombo Magistrates Court on Friday, Lee wore a white dress, was accompanied by two police officers and the court heard that critical evidence, including forensic analysis, had not yet been submitted. [@7] Lee had not been formally indicted, and the Attorney General's department will file charges in the High Court only after all reports, including the forensic analysis, have been submitted in court. [@7] Lee's lawyer Sampath Perera told ITV News that she was "not emotionally perfect" but was trying her "very best" given the circumstances, and that her family was being "very supportive" and "cooperative" while in "big pain" over her arrest. [@7] Perera said he had not heard from the Foreign Office about support for Lee and did not know whether her family had been in contact with the British government. [@7] ITV News reported that customs described the haul allegedly found in Lee's luggage as its largest drug seizure to date and valued it at £1.2 million. [@7]
 
 Sources close to the investigation estimated the haul's street value at about 460 million Sri Lankan rupees (roughly £1.5 million), reportedly destined for high-end local buyers. [@8]
+
+A 33-year-old Indian man was arrested at the northern seaport of Kankesanthurai on 16 May carrying four kilograms of kush. [@9]
