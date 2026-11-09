@@ -80,10 +80,15 @@ sources:
     url: https://www.africanews.com/2025/10/03/mugabes-son-arrested-with-cannabis-faces-court-in-zimbabwe/
     publisher: Africanews
     date: 2025-10-03
+  - title: Robert Mugabe Junior granted bail after being found with dagga in car
+    url: https://www.news24.com/world/africa/robert-mugabe-junior-granted-bail-after-being-found-with-dagga-in-car-20251003-0948
+    publisher: News24
+    date: 2025-10-03
 open_questions:
   - 'Accounts differ on the weight of cannabis: the police charge sheet cited 2 g and the lawyer said 0.02 g; the figures use the police weight of 2 g.'
   - The Club of Mozambique and BBC accounts give no separate date for the October arrest beyond 'Wednesday'; it is given as 1 October 2025 in the text only as the Wednesday before the 2 October appearance.
   - No outcome is reported for the five alleged syndicate members arrested with Mugabe, or for the ecstasy pills found with them.
+  - News24's article body could not be read past its subscriber prompt; only its opening paragraph and summary text were usable, so the bail conditions it mentions are not recorded.
 ---
 
 Robert Mugabe Jnr, 33, pleaded guilty to unlawful possession of drugs at the
@@ -113,3 +118,5 @@ carrying three other people, with only 0.02 g of cannabis found. [@4,6] The 13
 November ruling followed a warrant and missed hearing in a case that had drawn
 attention because Mugabe is the son of Zimbabwe's late president Robert Mugabe.
 [@4]
+
+Robert Mugabe Junior, 33, was arrested on Wednesday, 1 October 2025, after he was stopped and searched by officers who spotted him driving into oncoming traffic. [@7]
