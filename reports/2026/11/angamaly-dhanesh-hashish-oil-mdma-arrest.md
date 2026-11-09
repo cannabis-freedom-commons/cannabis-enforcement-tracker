@@ -53,6 +53,11 @@ sources:
     url: https://www.rediff.com/news/report/main-accused-in-bengaluru-kerala-mdma-smuggling-arrested/20261109.htm
     publisher: Rediff.com
     date: 2026-11-09
+  - title: '''ഡാനി''യെന്ന് വിളിപ്പേര്, മൈസൂരിൽ വാഴത്തോട്ടം: വാഴക്കുല ലോഡുകളിൽ കേരളത്തിലേക്ക് ലഹരി കടത്തിയ പ്രധാന പ്രതി പിടിയിൽ'
+    url: https://timeskerala.com/kerala/aluva-mdma-seizure-police-arrest-danny-who-smuggled-drugs-hidden-in-banana-truck-loads/
+    publisher: Times Kerala
+    date: 2026-11-09
+    language: ml
 open_questions:
   - Neither account gives a date for the arrest beyond 'Monday'; 9 November 2026, the publication date, is used as the incident date.
   - The hashish oil is described only as seized hashish oil, with no laboratory confirmation or street value reported.
@@ -60,6 +65,9 @@ open_questions:
   - No charge, charge sheet, remand order or court appearance is reported for Dhanesh.
   - The earlier Aluva lodge arrest of Harikrishnan with 185 grams of MDMA and the Thoppumpady arrest of Shinu Sebastian with seven grams are separate arrests reported as MDMA-only, so they are not counted as cannabis arrests in this report.
   - Rediff.com publishes the PTI text, which restates the police statement also reported by ETV Bharat; the two are not fully independent.
+  - Times Kerala gives no separate arrest date, and its own text does not say where the arrest took place; Angamaly is taken from the other accounts of the same arrest cited here.
+  - This account repeats the same police briefing as ETV Bharat and Metro Vaartha and is not independent confirmation.
+  - The page's only picture is a stand-in image captioned 'Aluva MDMA Seizure' with no caption tying it to this arrest, so no media entry is added.
 ---
 
 Police arrested Dhanesh S Nair, 31, known as Danny, the alleged main accused of
@@ -89,3 +97,4 @@ broken the main supply line bringing drugs to Kerala from the Bengaluru-Mysuru
 area. [@1] Police said the investigation is continuing to find more members of
 the gang. [@1]
 
+Times Kerala reports that nendran plantain bunches from his Mysore plantation were trucked every day to markets across Kerala, with drugs hidden inside those loads. [@3]
