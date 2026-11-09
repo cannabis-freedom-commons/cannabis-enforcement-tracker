@@ -42,21 +42,27 @@ sources:
     url: https://reporteri.net/en/NEWS/Over-half-a-kilogram-of-marijuana-was-found-in-a-car--a-person-was-arrested-in-Pristina/
     publisher: Gazeta Online Reporteri.net
     date: 2026-11-09
+  - title: In einem Auto wurde über ein halbes Kilogramm Marihuana gefunden, eine Person wurde in Pristina festgenommen.
+    url: https://reporteri.net/de/Botschaft/In-einem-Auto-wurde-%C3%BCber-ein-halbes-Kilogramm-Marihuana-gefunden--eine-Person-wurde-in-Pristina-festgenommen./
+    publisher: Gazeta Online Reporteri.net
+    date: 2026-11-09
+    language: de
 open_questions:
   - The 0.553 kilograms is described only as a substance suspected to be marijuana; no laboratory confirmation was published.
   - The article does not say what the search of the home and surrounding facilities found.
   - Only one source could be opened; it reproduces the police 24-hour report, and no independent second account was found.
   - No charge, age or other identifier for the suspect, and no court outcome, was reported.
   - The page's only photo is an uncaptioned, uncredited image file named for the Kosovo Police, which cannot be established to show this seizure, so no media entry is listed.
+  - The German edition likewise describes the material only as a substance suspected to be marijuana, with no laboratory confirmation published.
+  - The German article again gives no charge, age or court outcome, and does not say what the search of the home and surrounding buildings found.
 ---
 
 A man was arrested in Pristina after police found and seized about 0.553
 kilograms of a substance suspected to be marijuana during a search of his
-vehicle. [@1] Kosovo Police's 24-hour incident report put the search at around
-20:20 on Sunday, 8 November 2026. [@1]
+vehicle. [@1,2] Kosovo Police's 24-hour incident report put the search at around
+20:20 on Sunday, 8 November 2026. [@1,2]
 
 In consultation with a prosecutor, police also searched the suspect's home and
-surrounding facilities. [@1] The suspect's car was seized as material evidence.
-[@1] After the interview, the prosecutor ordered that the suspect be taken into
-custody. [@1]
-
+surrounding facilities. [@1,2] The suspect's car was seized as material evidence.
+[@1,2] After the interview, the prosecutor ordered that the suspect be taken into
+custody. [@1,2]
