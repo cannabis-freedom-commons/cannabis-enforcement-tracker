@@ -39,6 +39,8 @@ tags: [acre, brasileia, chico-mendes-reserve, civil-police, cannabis-eradication
 open_questions:
   - The sources do not publish coordinates for the remote field; the map pin marks the Brasiléia municipality.
   - Police reported no arrests directly connected to the plantation, and no later case outcome is available in these reports.
+  - G1 confirms two suspects fled into the forest but does not add a weight for the seized sample or name either man.
+  - G1 names the delegated investigator but does not report any arrest, charge or later court step.
 sources:
   - title: Polícia Civil encontra cerca de 2 mil pés de maconha dentro da Reserva Chico Mendes no Acre
     url: https://agazetadoacre.com/2026/09/noticias/policia/policia-civil-encontra-cerca-de-2-mil-pes-de-maconha-dentro-da-reserva-chico-mendes-no-acre/
@@ -54,6 +56,11 @@ sources:
   - title: Polícia encontra 2 mil pés de maconha escondida na Resex Chico Mendes
     url: https://contilnetnoticias.com.br/destaque/policia-encontra-2-mil-pes-de-maconha-escondida-na-reserva-chico-mendes/
     publisher: ContilNet
+    date: 2026-09-24
+    language: pt
+  - title: Dois mil pés de maconha são destruídos em floresta no Acre; VÍDEO
+    url: https://g1.globo.com/ac/acre/noticia/2026/09/24/video-dois-mil-pes-de-maconha-sao-destruidos-em-reserva-ambiental-no-acre.ghtml
+    publisher: G1
     date: 2026-09-24
     language: pt
 media:
@@ -80,13 +87,14 @@ media:
     media_url: https://portalacre.com.br/wp-content/uploads/2026/09/Maconha-Resex-3.jpeg
     publisher: Portal Acre
     caption: Civil police officers pose beside plants removed from the reserve field.
-
 ---
 
-Police found and destroyed about 2,000 cannabis plants inside the Chico Mendes Extractive Reserve on 23 September. [@1,2,3] The site was in rural Brasiléia, near the kilometre 59 access from BR-317 toward the Transacreana. [@1,2,3]
+Police found and destroyed about 2,000 cannabis plants inside the Chico Mendes Extractive Reserve on 23 September. [@1,2,3,4] The site was in rural Brasiléia, near the kilometre 59 access from BR-317 toward the Transacreana. [@1,2,3]
 
 Most of the plants were about 50 centimetres tall, and officers collected samples for forensic analysis before burning the crop. [@1,2] A Gazeta reported that officers kept watch at the site overnight on 22 September before police from Brasiléia and Assis Brasil joined the operation the next day. [@1]
 
 Police said their investigation began in July after they received information that a criminal faction planned to establish a cannabis field in the reserve. [@1,2] Investigators estimated that about one hectare of native forest had been cleared to prepare the cultivation area. [@1,2,3] They were also examining a nearby residence as a possible storage point and investigating whether the location was part of a route to Rio Branco. [@1,2]
 
 ContilNet reported that two men watering the plants fled into the forest when officers arrived. [@3] A Gazeta said no one was arrested directly in connection with the plantation and that police were still working to identify those involved. [@1]
+
+Acre Civil Police delegate Erick Maciel said investigators found the plantation after an inquiry into a knife attempted homicide recorded on ramal 59 in rural Brasiléia. [@4] The site lay about 54 kilometres along a ramal from the BR-317 toward Assis Brasil and roughly an hour's walk inside the forest, with the seedlings about 50 centimetres tall. [@4] Investigators suspect settlers and smallholders from the reserve were recruited to help grow the crop and that people from other states were arriving to organise it. [@4]
