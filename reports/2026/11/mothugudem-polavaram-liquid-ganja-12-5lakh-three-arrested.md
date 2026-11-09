@@ -64,6 +64,11 @@ sources:
     publisher: HMTV
     date: 2026-11-09
     language: te
+  - title: ద్రవరూప గంజాయి స్వాధీనం.. ముగ్గురి అరెస్ట్‌
+    url: https://www.eenadu.net/telugu-news/districts/polavaram-news/720/126203582
+    publisher: Eenadu
+    date: 2026-11-09
+    language: te
 open_questions:
   - The article gives no weight for the liquid ganja, only a value of about Rs 12.5 lakh.
   - The article gives no date for the check or the arrests; 9 November 2026 is its publication date and stands in for the incident date.
@@ -76,6 +81,12 @@ open_questions:
   - HMTV gives no separate date for the interception; 9 November 2026 is its publication date, the same day the earlier report used as the incident date.
   - HMTV says the consignment came from Telerai village in Malkangiri district, Odisha, but does not say where on the route the police stopped it.
   - No charging sections, remand or court outcome are reported for the three arrested people.
+  - Eenadu gives no weight for the liquid ganja, only the value of Rs 12.50 lakh.
+  - Eenadu does not say which police unit or station carried out the check at the Mothugudem bus stop.
+  - Eenadu gives the day (Monday) and evening time but no calendar date; 9 November 2026 is its publication date and is used as the incident date.
+  - Eenadu does not give the three suspects' names, ages or the precise districts in Odisha and Uttar Pradesh they come from.
+  - Eenadu describes the product only as liquid ganja (ద్రవరూప గంజాయి), with no testing or weight reported.
+  - The page image is captioned only with the story headline and has no credit or caption identifying what it shows, so it is not listed as media.
 ---
 
 Police in the Mothugudem area of Polavaram district seized a large quantity of
@@ -86,10 +97,12 @@ identified and seized liquid ganja worth about 1.25 million rupees. [@1] The
 consignment was being moved secretly because of heavy demand in the inter-state
 market for the banned liquid ganja, and officers stopped it. [@1]
 
-Police arrested three people suspected of transporting the ganja. [@1] Officers
+Police arrested three people suspected of transporting the ganja. [@1,3] Officers
 also seized the equipment used to move the consignment along with the ganja
 taken from the three. [@1] Police registered a case against the three under the
 relevant laws. [@1] Officers said they were investigating who organised the haul
 and how far the network extends. [@1]
 
 Mothugudem police seized 1 kg of liquid ganja worth Rs 12.50 lakh that they said was being moved from Odisha to Uttar Pradesh. [@2] Police said the consignment had come from Telerai village in Malkangiri district, Odisha. [@2] Mothugudem sub-inspector Abdul Nasir Hussain led the raid with his staff after police received specific information about the movement. [@2]
+
+Eenadu reports that the three were stopped at the Mothugudem bus stop in Chinturu mandal and identified as belonging to Odisha and Uttar Pradesh. [@3]
