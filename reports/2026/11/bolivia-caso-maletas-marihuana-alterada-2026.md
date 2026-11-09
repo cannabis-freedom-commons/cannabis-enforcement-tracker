@@ -74,6 +74,11 @@ sources:
     publisher: El País Tarija
     date: 2026-11-07
     language: es
+  - title: 'Caso maletas: Oviedo afirma que contenían “marihuana alterada” y señala a Saucedo y Mariaca por pagar el traslado'
+    url: https://www.eldia.com.bo/2026-11-06/pais/caso-maletas-oviedo-afirma-que-contenian-marihuana-alterada-y-senala-a-saucedo-y-mariaca-por-pagar-el-traslado.html
+    publisher: El Día
+    date: 2026-11-06
+    language: es
 open_questions:
   - The article does not date the January search that seized the 70 kilograms; 6 November 2026 is the publication date of the minister's press conference and is used as the incident date.
   - No figure for the weight of the marijuana in the more than 30 suitcases was published; only the 70 kilograms found in the January search is counted.
@@ -89,11 +94,12 @@ open_questions:
   - Zeballos's accusations against Mariaca and Saucedo still had to be contrasted and verified by the Fiscalía.
   - Zeballos's statements are his version of events and still need to be contrasted by the investigating authorities.
   - The page photo shows Hebert Zeballos and does not depict the suitcases, the airport, or any seizure, so no media entry is added.
+  - The page carries a photo of Government Minister Marco Antonio Oviedo described as a composition; it does not depict the suitcases, the airport or any seizure, so no media entry is added.
 ---
 
 Bolivia's interior minister, Marco Antonio Oviedo, said the more than 30
 suitcases flown into the country from the United States in November 2025 carried
-chemically altered marijuana that would fetch a high price in Brazil. [@1,4,7] After
+chemically altered marijuana that would fetch a high price in Brazil. [@1,4,7,8] After
 nearly a year, the authorities say they still do not know what became of the
 drug once it entered Bolivia. [@1]
 
@@ -105,9 +111,9 @@ as diplomatic baggage. [@1]
 
 The former deputy Laura Rojas, an accused in the case, said in an expanded
 statement that the owner of the suitcases was Supreme Court president Romer
-Saucedo, known as El Alemán. [@1,5] The former judge Hebert Zeballos then said the
+Saucedo, known as El Alemán. [@1,5,8] The former judge Hebert Zeballos then said the
 suitcases held high-concentration marijuana produced in California and had the
-protection of the then attorney general Roger Mariaca. [@1,5,6]
+protection of the then attorney general Roger Mariaca. [@1,5,6,8]
 
 The suitcases were taken to property belonging to Zeballos, where their trail
 was lost. [@1] When prosecutors took up the case in January, the property was
@@ -125,7 +131,7 @@ tried to search the airport depot where the suitcases were left. [@2,4] Accordin
 to Oviedo, former deputy Laura Rojas and former judge Hebert Zeballos collected
 the suitcases the next day through a company belonging to Zeballos. [@2,4] Mariaca
 is held in preventive detention in Cantumarca prison while Saucedo has left
-Bolivia and his whereabouts are unknown. [@3]
+Bolivia and his whereabouts are unknown. [@3,8]
 
 Vice-Minister of the Interior Peter Maldonado said Juan Carlos Espinoza Vaca, described as an alleged frontman for the organization, died while detained in Palmasola prison. [@4,7] Maldonado said doubts remain about the circumstances of that death and announced an investigation to clarify the cause and determine whether there are linked responsibilities. [@4,7]
 
