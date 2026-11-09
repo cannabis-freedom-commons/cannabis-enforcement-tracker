@@ -46,29 +46,37 @@ sources:
     url: https://www.rediff.com/news/report/441-kg-ganja-seized-in-jharkhand-four-arrested/20261109.htm
     publisher: Rediff.com
     date: 2026-11-09
+  - title: 441 kg of ganja worth Rs 2.2 crore seized in Jharkhand, 4 arrested
+    url: https://www.msn.com/en-in/news/other/441-kg-of-ganja-worth-rs-2-2-crore-seized-in-jharkhand-4-arrested/ar-AA2h2rg9
+    publisher: MSN / Press Trust of India
+    date: 2026-11-09
+    language: en
 open_questions:
   - The submitted page is a roundup of two separate operations with different dates and no single incident; 7 November 2026, the night of the Tatisilway arrest, is used as the incident date, while the Garhwa recovery was on 8 November.
   - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
   - The page names no single place, so the state of Jharkhand and its centre coordinates are given.
   - The page's only image is labelled as an AI-generated representation, so no media entry is made.
   - Four arrests in the headline cover only the Tatisilway case; the Garhwa police account names no arrest.
+  - The Garhwa value in this PTI account, about 2.13 crore rupees, is higher than the about one crore rupees reported by ETV Bharat for the same 426 kg seizure.
+  - The Garhwa case was described as under investigation, with no arrest reported because no one was in the vehicle.
 ---
 
 Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
 was seized in two separate operations in Jharkhand, officials said on 9 November
-2026. [@1]
+2026. [@1,2]
 
 In Garhwa district, police found 426 kg of ganja, valued at about 2.13 crore
 rupees, in a container truck parked near the Kalyanpur overbridge, and no one
-was arrested because the vehicle was empty. [@1]
+was arrested because the vehicle was empty. [@1,2]
 
 The Railway Protection Force arrested four interstate peddlers with 15 kg of
 ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway
 station on the night of 7 November, with the contraband valued at about 7.5 lakh
-rupees. [@1] Police said the four were taking the ganja from Balangir in Odisha
+rupees. [@1,2] Police said the four were taking the ganja from Balangir in Odisha
 to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi
 Government Railway Police. [@1]
 
 Police registered cases under the Narcotic Drugs and Psychotropic Substances
 Act, India's main anti-drug law, in both matters. [@1]
 
+Garhwa superintendent of police Ashutosh Shekhar said the 426 kg was wrapped in 426 plastic packets of one kilogram each and hidden in a secret chamber of the truck, and that the case was registered under the Narcotic Drugs and Psychotropic Substances Act. [@2]
