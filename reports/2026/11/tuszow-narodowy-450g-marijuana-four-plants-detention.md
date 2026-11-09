@@ -74,6 +74,11 @@ sources:
     publisher: WP Info
     date: 2026-11-09
     language: pl
+  - title: Mieszkaniec Tuszowa Narodowego miał w domu blisko pół kg suszu roślinnego oraz 4 krzewy konopi
+    url: https://www.mielec.tv/artykul/9023,mieszkaniec-tuszowa-narodowego-mial-w-domu-blisko-pol-kg-suszu-roslinnego-oraz-4-krzewy-konopi
+    publisher: mielec.tv
+    date: 2026-11-09
+    language: pl
 open_questions:
   - The sources give no separate date for the search and arrest; 9 November 2026 is the publication date of the police statement and is used as the incident date.
   - The 450 grams is described as dried plant material identified as marijuana by initial tests; no laboratory confirmation or street value was reported.
@@ -86,18 +91,18 @@ open_questions:
 ---
 
 Criminal investigators from the Mielec district police headquarters established
-that a resident of Tuszów Narodowy might be holding banned substances. [@1,4]
+that a resident of Tuszów Narodowy might be holding banned substances. [@1,4,5]
 Officers went to the address and found the 40-year-old man there, and their
 suspicions were confirmed. [@1,4] In the search police seized 450 grams of dried
-plant material and four cannabis plants other than fibre hemp. [@1,4] Initial
-tests confirmed that the dried material was marijuana. [@1] The man was detained
+plant material and four cannabis plants other than fibre hemp. [@1,4,5] Initial
+tests confirmed that the dried material was marijuana. [@1,5] The man was detained
 and taken to a police detention room. [@2,4] The material was found during a
 search of his home in Tuszów Narodowy in Mielec County. [@2]
 
 Police from the Mielec district police headquarters charged the 40-year-old with
-possessing significant quantities of narcotic substances. [@1,4] He admitted the
+possessing significant quantities of narcotic substances. [@1,4,5] He admitted the
 charge and gave explanations. [@1,4] The court granted the prosecutor's request
-and ordered three months of pre-trial detention. [@1,4] The prosecutor asked the
+and ordered three months of pre-trial detention. [@1,4,5] The prosecutor asked the
 court for pre-trial detention and the court agreed. [@2]
 
 The case is still under investigation, and he faces criminal liability for
