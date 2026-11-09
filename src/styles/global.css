@@ -87,21 +87,9 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .svc-total { display: inline-flex; align-items: center; gap: 6px; height: 26px; padding: 0 6px; border-radius: var(--r); font: 500 12px var(--mono); font-variant-numeric: tabular-nums; color: var(--text-2); }
 .svc-total:hover { background: var(--surface); text-decoration: none; color: var(--text); }
 .svc-total svg { width: 15px; height: 15px; flex: none; }
-.svc-status { display: inline-flex; align-items: center; gap: 6px; height: 26px; padding: 0 6px; margin-left: -4px; border-radius: var(--r); font: 500 12px var(--mono); font-variant-numeric: tabular-nums; color: var(--text-2); }
-.svc-status:hover { background: var(--surface); text-decoration: none; color: var(--text); }
-/* a cog: silver when idle, green and turning while requests are worked on, amber when AI is off,
-   red when the service does not answer; then the number being worked on, and the queue's length */
-.svc-cog { width: 15px; height: 15px; flex: none; color: var(--muted); }
-.svc-status[data-state="online"] .svc-cog { color: #a8a69e; }
-.svc-status[data-state="working"] .svc-cog { color: #3fb36b; animation: svc-turn 2.4s linear infinite; }
-.svc-status[data-state="paused"] .svc-cog { color: #d9a43c; }
-.svc-status[data-state="offline"] .svc-cog { color: #d6545a; }
-.svc-status[data-state="checking"] .svc-cog { opacity: .4; }
-@keyframes svc-turn { to { transform: rotate(360deg); } }
-@media (prefers-reduced-motion: reduce) { .svc-status[data-state="working"] .svc-cog { animation: none; } }
-.svc-queue { display: inline-flex; align-items: center; gap: 3px; margin-left: 4px; color: var(--muted); }
-.svc-queue[hidden] { display: none; }
-.svc-queue-icon { width: 13px; height: 13px; }
+.build-age { color: var(--muted); white-space: nowrap; }
+.svc-total:hover .build-age { color: var(--text-2); }
+@media (max-width: 1100px) { .build-age { display: none; } }
 @media (max-width: 1350px) { .cfi-link-long { display: none; } .cfi-link-short { display: inline; } }
 .refresh-reports { padding: 5px 9px; border: 1px solid var(--border); border-radius: var(--r); background: var(--surface); color: var(--text-2); font: inherit; font-size: 12px; cursor: pointer; }
 .refresh-reports:hover { color: var(--text); }

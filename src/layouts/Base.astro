@@ -1,7 +1,6 @@
 ---
 import "../styles/global.css";
 import { reports } from "../lib/reports.js";
-import { submissionsAPI as api } from "../lib/submissions-config.js";
 import { build } from "../lib/build-info.js";
 // SEO props: `image` (a path or URL; the site card otherwise) with `imageAlt`, `noindex` for working
 // views and empty pages, `published`/`modified` (ISO times) for articles, `jsonLd` (one object or a list).
@@ -88,13 +87,13 @@ const builtLabel = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "sh
         <span class="cfi-link-long">Cannabis Freedom Index</span><span class="cfi-link-short">CFI</span> ↗
       </a>
       <span class="svc-counters">
-      <a class="svc-total" href={`${base}changelog/`} title={`${reports.length.toLocaleString("en-GB")} committed reports — changelog`} aria-label={`${reports.length.toLocaleString("en-GB")} committed reports, open changelog`} aria-current={here.startsWith("/changelog") ? "page" : undefined}>
+      <a class="svc-total" href={`${base}changelog/`} title={`${reports.length.toLocaleString("en-GB")} reports · this version built ${builtLabel} UTC — changelog`} aria-current={here.startsWith("/changelog") ? "page" : undefined}>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 3H6a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8zM14 3v5h5M8 14l2.5 2.5L16 11"/></svg>
-        <span>{reports.length.toLocaleString("en-GB")}</span>
+        <span>{reports.length.toLocaleString("en-GB")}<span class="sr-only"> reports</span></span>
+        {/* when this version of the site was built: the browser turns it into "3 hours ago" */}
+        <span class="build-age"><span aria-hidden="true">·</span> updated <time datetime={build.built_at} data-relative>{builtLabel} UTC</time></span>
       </a>
       <a class="new-reports" id="new-reports" href={`${base}reports/?new=1`} hidden><span class="new-dot" aria-hidden="true"></span><span class="new-count"></span> new</a>
-      {/* the submissions service: a dot for whether it answers, and how many requests it is working on */}
-      {api && <a class="svc-status" id="svc-status" href={`${base}submissions/`} data-api={api} data-state="checking" title="Checking the submissions service…" aria-label="Submissions service: checking"><svg class="svc-cog" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="6.5"/><circle cx="12" cy="12" r="2.2"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/></svg><span class="svc-count" hidden></span><span class="svc-queue" hidden><svg class="svc-queue-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12M6 21h12M7.5 3v3.5L12 12l-4.5 5.5V21M16.5 3v3.5L12 12l4.5 5.5V21"/></svg><span class="svc-queue-count"></span></span></a>}
       </span>
       {import.meta.env.DEV && <button type="button" class="refresh-reports" id="refresh-reports" data-url={`${base}__dev/refresh-reports`} title="Load current reports and Git history">Refresh reports</button>}
       <nav class="nav">
@@ -112,65 +111,23 @@ const builtLabel = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "sh
         <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
       </button>
     </header>
-    {api && <script>
-      // The header's service dot. It holds the same WebSocket as the submissions list
-      // (/v1/submissions/stream): while it is open the service is online, and each change it announces
-      // re-reads the counts from /v1/status. Without a socket it falls back to asking every 20 seconds.
-      const box = document.getElementById("svc-status");
-      if (box) {
-        const api = (box.dataset.api || "").replace(/\/$/, "");
-        const count = box.querySelector<HTMLElement>(".svc-count")!;
-        const queue = box.querySelector<HTMLElement>(".svc-queue")!, queueCount = box.querySelector<HTMLElement>(".svc-queue-count")!;
-        // the cog turns while requests are worked on, with their number; the queue's length beside it
-        const show = (state: string, title: string, n = 0, queued = 0) => {
-          box.dataset.state = state; box.title = title; box.setAttribute("aria-label", `Submissions service: ${title}`);
-          count.hidden = n < 1; count.textContent = String(n);
-          queue.hidden = queued < 1; queueCount.textContent = String(queued);
-        };
-        const plural = (n: number, word: string) => `${n} ${word}${n === 1 ? "" : "s"}`;
-        let socket: WebSocket | null = null, live = false, failures = 0, retry = 0, poll = 0, pending = 0;
-        const counts = async () => {
-          try {
-            const r = await fetch(`${api}/v1/status`, { credentials: "omit", cache: "no-store" });
-            if (r.status === 404) { show("online", "Online (this backend is older and gives no counts; restart it)"); return; }
-            if (!r.ok) throw new Error(String(r.status));
-            const v = await r.json();
-            const waiting = v.queued ? `, ${v.queued} queued` : "";
-            if (!v.processing) show("paused", `Online, AI processing is off${v.reason ? `: ${v.reason}` : ""}${waiting}`, v.running, v.queued);
-            else if (v.running) show("working", `Online, working on ${plural(v.running, "request")}${waiting}`, v.running, v.queued);
-            else show("online", `Online, idle${waiting}`, 0, v.queued);
-          } catch { if (!live) show("offline", "Offline: the submissions service does not answer"); }
-        };
-        // changes come every second while requests run: re-read the counts at most every 5 seconds
-        let lastCounts = 0;
-        const soon = () => {
-          if (pending) return;
-          pending = window.setTimeout(() => { pending = 0; lastCounts = Date.now(); counts(); }, Math.max(300, 5000 - (Date.now() - lastCounts)));
-        };
-        // every 20 seconds as long as the tab is visible: the counts, even if the socket says nothing
-        const tick = () => { clearTimeout(poll); if (document.hidden) return; counts(); poll = window.setTimeout(tick, 20000); };
-        const connect = () => {
-          if (socket || document.hidden || !window.WebSocket) return;
-          try {
-            const url = new URL(`${api}/v1/submissions/stream`, location.href); url.protocol = url.protocol === "https:" ? "wss:" : "ws:";
-            const current = new WebSocket(url); socket = current;
-            current.onmessage = (e) => {
-              try { if (JSON.parse(e.data).type === "submissions_changed") { live = true; failures = 0; soon(); } } catch { /* unknown message */ }
-            };
-            current.onclose = () => {
-              if (socket !== current) return;
-              socket = null; live = false; counts();
-              if (!document.hidden) { clearTimeout(retry); retry = window.setTimeout(connect, Math.min(30000, 1000 * 2 ** Math.min(failures++, 5))); }
-            };
-          } catch { socket = null; }
-        };
-        document.addEventListener("visibilitychange", () => {
-          if (document.hidden) { socket?.close(); socket = null; live = false; clearTimeout(poll); clearTimeout(retry); }
-          else { connect(); tick(); }
-        });
-        connect(); tick();
-      }
-    </script>}
+    <script>
+      // "3 hours ago" for every <time data-relative>, kept current while the page is open
+      const relative = new Intl.RelativeTimeFormat("en", { numeric: "auto" });
+      const ago = (date: Date) => {
+        const seconds = (date.getTime() - Date.now()) / 1000;
+        for (const [unit, size] of [["year", 31536000], ["month", 2592000], ["week", 604800], ["day", 86400], ["hour", 3600], ["minute", 60]] as const) {
+          if (Math.abs(seconds) >= size) return relative.format(Math.round(seconds / size), unit);
+        }
+        return "just now";
+      };
+      const update = () => document.querySelectorAll<HTMLTimeElement>("time[data-relative]").forEach((t) => {
+        const date = new Date(t.dateTime);
+        if (!Number.isNaN(date.getTime())) t.textContent = ago(date);
+      });
+      update();
+      setInterval(update, 60000);
+    </script>
     <main class:list={[app ? "app" : "page", { wide }]}>
       <slot />
     </main>
