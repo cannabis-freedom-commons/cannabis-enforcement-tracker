@@ -59,6 +59,11 @@ sources:
     publisher: CataniaToday
     date: 2026-11-09
     language: it
+  - title: 'Catania, in auto con oltre un kg di cocaina e marijuana: 39enne arrestato nel quartiere San Giorgio'
+    url: https://www.corrieretneo.it/2026/11/09/catania-in-auto-con-oltre-un-kg-di-cocaina-e-marijuana-39enne-arrestato-nel-quartiere-san-giorgio/
+    publisher: Corriere Etneo
+    date: 2026-11-09
+    language: it
 open_questions:
   - The accounts give no separate date for the stop and arrest; 9 November 2026 is their publication date and is used as the incident date.
   - The marijuana is described only as marijuana, with no laboratory confirmation reported.
@@ -71,19 +76,18 @@ open_questions:
 
 Carabinieri from the investigative unit of the Catania provincial command
 arrested a 39-year-old man from Catania in the San Giorgio district on suspicion
-of possessing drugs for sale. [@1] Officers noticed him driving a small car in
+of possessing drugs for sale. [@1,4] Officers noticed him driving a small car in
 via dei Platani and, suspicious of his behaviour while watching him, followed
-him discreetly before stopping the vehicle. [@1]
+him discreetly before stopping the vehicle. [@1,4]
 
 A search of the man and the car found 8 grams of marijuana in a shoulder bag
-left on the seat. [@1] A block of cocaine weighing more than 1.2 kilograms was
-hidden in the bonnet panel, and the drugs were seized. [@1]
+left on the seat. [@1,4] A block of cocaine weighing more than 1.2 kilograms was
+hidden in the bonnet panel, and the drugs were seized. [@1,4]
 
 He was placed in pre-trial detention in prison at the disposal of the judicial
-authorities. [@1]
+authorities. [@1,4]
 
 MeridioNews reported that the arrested man had previous convictions. [@2]
 
 CataniaToday put the total amount of drugs in the car at about 1.5 kilograms,
 roughly the cocaine and marijuana together. [@3]
-
