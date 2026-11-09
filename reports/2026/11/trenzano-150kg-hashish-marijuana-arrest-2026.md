@@ -64,6 +64,11 @@ sources:
     publisher: BresciaToday
     date: 2026-11-09
     language: it
+  - title: 'Traffico di droga: 25enne arrestato con 90 chili di hashish'
+    url: https://www.gazzettadellevalli.it/cronaca/traffico-di-droga-25enne-arrestato-con-90-chili-di-518954
+    publisher: Gazzetta delle Valli
+    date: 2026-11-09
+    language: it
 open_questions:
   - The accounts say the operation took place nei giorni scorsi (in recent days) before 9 November 2026, so the incident date is approximate.
   - Bresciaoggi gives the hashish and marijuana amounts as 90 kg and 60 kg; Giornale di Brescia and BresciaToday give the same split but describe the quantities as approximate.
@@ -71,11 +76,12 @@ open_questions:
   - The 1.5 million euro retail value is BresciaToday's own estimate based on average national prices in the first half of 2025, not a police valuation, so it is not recorded as a figure.
   - No exact address in Trenzano is given; the coordinates are for the town centre.
   - No police statement on the Questura's own site was found for this arrest; the three accounts are local outlet reporting.
+  - Gazzetta delle Valli reports that investigators first gathered information through the Youpol app near a house in Trenzano; the accounts already cited do not all state that the tip came through Youpol.
 ---
 
 Brescia police's Mobile Squad arrested a 25-year-old Albanian man with no
 criminal record who was living regularly in Italy, at a house in Trenzano in the
-Province of Brescia. [@1] Investigators acted on reports sent through Youpol,
+Province of Brescia. [@1,4] Investigators acted on reports sent through Youpol,
 the State Police's official app, about a house in Trenzano. [@1] Officers saw
 him unloading large bags from his car, and during the check he admitted straight
 away that he had drugs. [@1]
@@ -98,3 +104,4 @@ and issued an order for him to leave Italy, to be followed by expulsion. [@1]
 BresciaToday estimated that at average Italian retail prices in the first half
 of 2025 the load could have brought in about 1.5 million euros. [@3]
 
+Brescia police chief Paolo Sartori said the arrest had removed a particularly dangerous figure from organised crime in the province, and called drug dealing and drug use there anything but occasional. [@4]
