@@ -24,7 +24,9 @@ services:
       REPO_PATH: /repo
       REPO_SYNC: "true"
       RESEARCH_MODE: remote
-      TRUSTED_PROXY_CIDRS: 172.30.40.0/24
+      # the web server in front reaches the port through Docker's bridge, from a private address;
+      # the port is bound to 127.0.0.1, so nothing else can
+      TRUSTED_PROXY_CIDRS: ${TRUSTED_PROXY_CIDRS:-10.0.0.0/8,172.16.0.0/12,192.168.0.0/16}
       GIT_CONFIG_COUNT: "1"
       GIT_CONFIG_KEY_0: safe.directory
       GIT_CONFIG_VALUE_0: /repo
@@ -36,10 +38,3 @@ services:
     # for the web server in front of it (tracker-api.cannabisfreedom.fyi → 127.0.0.1:7706)
     ports:
       - "127.0.0.1:7706:8080"
-    networks: [tracker]
-
-networks:
-  tracker:
-    ipam:
-      config:
-        - subnet: 172.30.40.0/24
