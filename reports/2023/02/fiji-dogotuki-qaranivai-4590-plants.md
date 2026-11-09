@@ -52,6 +52,10 @@ sources:
     url: https://www.fijivillage.com/news/More-than-4000-plants-believed-to-be-marijuana-discovered-and-seized-from-a-farm-in-Vanua-Levu-584frx/
     publisher: Fijivillage
     date: 2023-02-12
+  - title: Police seized 4000-plus marijuana plants; farmer arrested in raid
+    url: https://www.fijitimes.com.fj/police-seized-4000-plus-marijuana-plants-farmer-arrested-in-raid/
+    publisher: The Fiji Times
+    date: 2023-02-12
 open_questions:
   - The Fiji Sun headline and first paragraph said more than 4,000 plants, while the police officer quoted in the same article and the other reports put the figure at more than 4,590; this report uses the police figure.
   - The reports date the raid only as 'last Friday' or 'Friday'; with publication dates of 12 and 13 February 2023, it is taken as Friday 10 February 2023.
@@ -61,12 +65,12 @@ open_questions:
 ---
 
 A 23-year-old farmer from Vusavio, Dogotuki, was arrested on Friday 10 February
-2023 after police raided his farm. [@1] The farm was at Qaranivai in Dogotuki, a
-district on Fiji's northern island of Vanua Levu. [@3] Officers from the Labasa
+2023 after police raided his farm. [@1,4] The farm was at Qaranivai in Dogotuki, a
+district on Fiji's northern island of Vanua Levu. [@3,4] Officers from the Labasa
 Taskforce and the Criminal Intelligence Unit carried out the raid, Chief
-Operations Officer Acting Assistant Commissioner of Police Livai Driu said. [@1]
+Operations Officer Acting Assistant Commissioner of Police Livai Driu said. [@1,4]
 Police said more than 4,590 plants believed to be marijuana were discovered and
-seized on the farm. [@1]
+seized on the farm. [@1,4]
 
 Driu said more arrests were also made in the Northern Division that week for
 drug-related offences. [@2] He said the divisional task forces would continue to
@@ -75,4 +79,3 @@ raids with other stakeholders reflected the momentum of the efforts underway in
 addressing the illicit trade. [@3] The plants were found on the suspect's farm
 at Qaranivai in Dogotuki, and police said they were discovered and seized during
 the raid. [@1]
-
