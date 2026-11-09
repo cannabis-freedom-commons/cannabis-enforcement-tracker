@@ -95,6 +95,10 @@ sources:
     url: https://www.daijiworld.com/index.php/news/newsDisplay?newsID=1334769
     publisher: Daijiworld.com
     date: 2026-11-08
+  - title: Bengal seizes drugs worth Rs 64 crore, arrests 378 in week-long crackdown
+    url: https://timesofindia.indiatimes.com/city/kolkata/bengal-seizes-drugs-worth-rs-64-crore-arrests-378-in-week-long-crackdown/articleshow/135660067.cms
+    publisher: The Times of India
+    date: 2026-11-08
 open_questions:
   - No date is given for individual raids; 7 November 2026 is the date of the announcement and the last day of the drive, and is used as the incident date.
   - The 10,000 kg is the chief minister's estimate of the yield of the 300 bighas of ganja destroyed, not a weighed amount.
@@ -121,6 +125,8 @@ open_questions:
   - Dinamani's Rs 64 crore figure covers all narcotics seized in the drive, not ganja alone.
   - Dinamalar reports the cleared ganja cultivation as 99 acres and does not use the 300 bighas figure carried by the chief minister's post; 99.17 acres is the acreage equivalent of 300 bighas, so the two accounts describe the same area in different units.
   - Dinamalar gives no figure for the quantity of ganja seized during the drive or for the Rs 17 lakh in cash, and states no separate total for cannabis among the Rs 64 crore of seized narcotics.
+  - The Times of India account gives no district- or case-level breakdown of the 378 arrests or the 212 NDPS cases, and no separate cannabis-only weight or value.
+  - The Times of India page's lead image carries only the headline as its caption and credit, so it is not listed as an independent photo of this event.
 media:
   - kind: photo
     url: https://www.theweek.in/news/india/2026/11/08/west-bengal-drug-mafia-crackdown-cm-adhikari-confirms-378-arrests-shares-video-of-police-action.html
@@ -131,11 +137,11 @@ media:
 
 West Bengal police arrested 378 people in 212 cases registered under the
 Narcotic Drugs and Psychotropic Substances (NDPS) Act during a statewide special
-drive against drug trafficking and illicit cultivation. [@1,3,6,8,9,10,11] Chief Minister
+drive against drug trafficking and illicit cultivation. [@1,3,6,8,9,10,11,12] Chief Minister
 Suvendu Adhikari announced the results on 7 November 2026, the last day of the
 drive, in a post on social media. [@2,3,6] Officers destroyed illegal ganja
 cultivation spread over 300 bighas of land, a form of cannabis grown for its
-flowers and leaves. [@1,3,6,8,10] Law enforcement agencies also seized Rs 17 lakh in cash
+flowers and leaves. [@1,3,6,8,10,12] Law enforcement agencies also seized Rs 17 lakh in cash
 and disposed of seized narcotic substances worth around Rs 101 crore during the
 period. [@1,3,8,10,11]
 
