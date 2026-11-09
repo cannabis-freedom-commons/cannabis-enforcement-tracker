@@ -84,6 +84,10 @@ sources:
     url: https://www.msn.com/en-gb/news/other/cornwall-woman-sentenced-for-her-role-in-138-million-cannabis-airport-plot/ar-AA2h5eQC
     publisher: MSN / Falmouth Packet
     date: 2026-11-09
+  - title: Jamal Clarke caught in £13.8m cannabis smuggling operation
+    url: https://www.london-now.co.uk/news/26713818.jamal-clarke-caught-13-8m-cannabis-smuggling-operation/
+    publisher: London Now
+    date: 2026-11-09
 media:
   - kind: photo
     url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
@@ -106,10 +110,11 @@ open_questions:
   - Hits Radio says Nelson was sentenced alongside four other gang members, while the existing report records only Jamal Clarke as the other defendant sentenced that day; the discrepancy is unexplained.
   - The article was published on 9 November 2026 and says only that the hearing was "on Monday"; the date is taken as 9 November 2026.
   - This copy of the Falmouth Packet article was read on MSN; the original report cites the article at falmouthpacket.co.uk.
+  - London Now reports the hearing only as "today (November 9)" and calls the arrival "August 2024" without a day.
 ---
 
 On 22 October 2026, Birmingham Crown Court sentenced five members of a drug-smuggling gang that
-tried to import cannabis worth £13.8 million through Birmingham Airport. [@1] Gideon Oluwasetemi
+tried to import cannabis worth £13.8 million through Birmingham Airport. [@1,10] Gideon Oluwasetemi
 Olumoyegun, 26, and Ryan Boachie, 32, were each jailed for 24 months; Claire McCullough, 36, got 24
 months plus two consecutive months for assaulting a shop worker; Jaden Ramen, 23, was sentenced to 32
 months; and Paige Crisp, 25, to 30 months. [@1,2] Crisp and Ramen were convicted on 19 August after a
@@ -117,21 +122,21 @@ four-week trial, while the others had pleaded guilty. [@2] Two more members, Tas
 Clarke, are due to be sentenced on 30 October. [@1,2]
 
 Border Force officers arrested the eleven-strong group in August 2024, when they found 460 kg of
-cannabis packed into 22 suitcases arriving from Thailand via Paris Charles de Gaulle. [@1,8] Each
+cannabis packed into 22 suitcases arriving from Thailand via Paris Charles de Gaulle. [@1,8,10] Each
 courier carried two suitcases holding about 20 kg of vacuum-packed cannabis under a thin layer of
 clothing, luggage so heavy they paid excess baggage charges at Bangkok airport. [@1,2,3] Eight of the
 bags held Apple AirTags connected to the same Apple ID, and intelligence linking the passengers to
 others on connecting flights into Birmingham led officers to fully staff the nothing-to-declare
-channel, where the drugs were found. [@1,2,7]
+channel, where the drugs were found. [@1,2,7,10]
 
 Four other couriers in the same conspiracy were sentenced on 21 September: Bradley Lloyd to four
 years, Nathan Vitorino and Lewis Ross to two years and eight months each, and Carsten Kyei to two
 and a half years. [@1,2] Senior investigating officer Paul Boniface said the convictions should warn
-others that smuggling is not worth the risk, and thanked Border Force for finding the drugs. [@1,2]
+others that smuggling is not worth the risk, and thanked Border Force for finding the drugs. [@1,2,10]
 NCA figures show 801 cannabis couriers caught arriving by plane in 2024, 976 in 2025, and 600 more
 arrested between January and June 2026. [@1,2,7]
 
-Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4,5,7,8,9] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4,6,7,9] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
+Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4,5,7,8,9,10] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4,6,7,9,10] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
 
 Paige Crisp, 25, from Broomhall, near Worcester, was convicted on 19 August 2026 with two other couriers following a four-week trial at Birmingham Crown Court. [@7]
 
