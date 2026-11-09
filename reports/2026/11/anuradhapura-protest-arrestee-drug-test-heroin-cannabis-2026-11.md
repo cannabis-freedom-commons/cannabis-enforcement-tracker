@@ -51,6 +51,11 @@ sources:
     url: https://english.gossiplankanews.com/2026/11/kassapa-theros-sak-pimba-daham-prasad.html
     publisher: Gossip Lanka News
     date: 2026-11-09
+  - title: அநுராதபுரம் சத்தியாக்கிரகப் போராட்டத்தில் ஒருவர் போதைபொருள் பாவனை உறுதி
+    url: https://ibctamil.com/article/anuradhapura-protest-drugs-sri-lanka-1794216350
+    publisher: IBC Tamil
+    date: 2026-11-09
+    language: ta
 open_questions:
   - The sources do not say when the medical test was carried out; 9 November 2026 is the publication date of the reports and is used as the incident date.
   - No quantity of cannabis or heroin was reported, and no cannabis was said to have been seized, so no weight figure is recorded.
@@ -64,10 +69,13 @@ open_questions:
   - Gossip Lanka News also reports two officers were injured and admitted to Anuradhapura Teaching Hospital, which is not recorded in the existing report.
   - Hiru News identifies the arrested man by name and nickname; the identifier is not stored in this report.
   - Left out arrested, as no supporting quotation was given.
+  - IBC Tamil gives no date for the medical test or the arrests; 9 November 2026 is its publication date, already used as the incident date.
+  - The outlet names the arrested man as Palathura Rangiriyalage Prasad Suchantha Jayasiri, known as "Daham Prasad"; the identifier is not stored, and its naming conflicts with the remand reporting in another outlet.
+  - No cannabis or heroin quantity is stated, so no weight figure can be added.
 ---
 
 A man arrested during the sit-in at the sacred city in Anuradhapura has been
-found to have used both heroin and cannabis, according to investigations. [@1]
+found to have used both heroin and cannabis, according to investigations. [@1,5]
 He was arrested on the charge of obstructing police duties while he was with the
 monk Balangoda Kassapa Thero at the Ruwanwelisaya temple grounds. [@1,3] A man
 arrested on charges of obstructing police duties during a protest at the
@@ -75,7 +83,7 @@ Anuradhapura Sacred City has been found to have used heroin and cannabis,
 according to investigations. [@2]
 
 Two civilians were arrested in connection with the confrontation between police
-and Buddhist monks near the Ruwanweli Maha Seya stupa. [@2,3] The two were among
+and Buddhist monks near the Ruwanweli Maha Seya stupa. [@2,3,5] The two were among
 those detained after police tried to remove the monks taking part in a
 satyagraha, a non-violent sit-in, against the proposed Anuradhapura Sacred City
 Development Plan and the civilians supporting them from the site. [@2,3] The
