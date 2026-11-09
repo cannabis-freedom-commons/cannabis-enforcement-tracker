@@ -14,9 +14,11 @@ summary: >-
 created_by_model: unknown
 details:
   date_precision: exact
+  route: {from: [th, ca], to: [om]}
   setting: [mail]
 data_sources:
   details.date_precision: [1, 2, 3, 4]
+  details.route: [3, 4]
   details.setting: [1, 2, 3, 4]
 status: verified
 cfi_id: oman-postal-cannabis-2026

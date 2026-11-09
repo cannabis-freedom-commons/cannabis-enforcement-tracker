@@ -25,6 +25,7 @@ details:
     - {product: flower, kg: 27}
   activity: [smuggling, trafficking]
   setting: [border]
+  route: {from: [mo], to: [hk], crossing: Hong Kong-Zhuhai-Macao Bridge Hong Kong Port}
   charges: [trafficking in a dangerous drug]
   case_stage: charged
   date_precision: exact
@@ -36,6 +37,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

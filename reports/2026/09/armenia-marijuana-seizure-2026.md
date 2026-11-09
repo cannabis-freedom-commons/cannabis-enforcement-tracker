@@ -16,11 +16,13 @@ details:
   activity: [smuggling]
   agency_types: [court]
   products: [{product: flower}]
+  route: {from: [ir], to: [am]}
   setting: [vehicle]
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.route: [2]
   details.setting: [1]
 status: verified
 cfi_id: armenia-marijuana-seizure-2026
@@ -46,6 +48,6 @@ open_questions:
   - The sources give September 29 as the pickup near Nrnadzor but no separate date for the Meghri interception; September 29 is retained as the incident date.
 ---
 
-The National Security Service stopped two Armenian citizens and an Iranian citizen with 69.3 kg of marijuana near Meghri, after they picked up the load from a cache near Nrnadzor. The case was opened under the aggravated sale and smuggling articles, and a court ordered the two Armenians held. It was one of the largest cannabis seizures reported in Armenia in 2026, alongside a 14.2 kg truck load and a 6 kg handover in Yerevan. [@1]
+The National Security Service stopped two Armenian citizens and an Iranian citizen with 69.3 kg of marijuana near Meghri, after they picked up the load from a cache near Nrnadzor. The case was opened under the aggravated sale and smuggling articles, and a court ordered the two Armenians held. It was one of the largest cannabis seizures reported in Armenia in 2026, alongside a 14.2 kg truck load and a 6 kg handover in Yerevan. [@1] The service said the marijuana had been smuggled into Armenia from Iran. [@2]
 
 The suspects N.H. and V.T. were detained in the Meghri community after NSS officers intercepted their Mercedes-Benz ML as they headed toward Yerevan. [@2] On September 29 the two men allegedly collected the shipment from a hiding place near Nrnadzor village close to the Armenian-Iranian border. [@2] A total of 69.3 kilograms of marijuana was found and seized from their vehicle during procedural actions. [@2] The Syunik Regional Investigative Department opened proceedings under Criminal Code Articles 393(3)(2), 399(3)(2) and 46-399(3)(2). [@3]

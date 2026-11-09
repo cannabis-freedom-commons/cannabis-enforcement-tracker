@@ -26,12 +26,14 @@ details:
   agency_types: [police]
   date_precision: exact
   setting: [border]
+  route: {from: [np], to: [in]}
   products:
     - {product: flower}
 data_sources:
   details.agency_types: [1, 2, 3]
   details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.route: [1, 3]
   details.setting: [1, 2, 3]
 status: verified
 tags: [ganja, siraha, armed-police-force, border]

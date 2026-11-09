@@ -20,12 +20,14 @@ details:
   agency_types: [customs, police, prosecutor, court]
   case_stage: sentenced
   products: [{product: hashish, kg: 194}, {product: flower}]
+  route: {from: [th], to: [nl]}
   sentence_types: [prison]
   setting: [airport, prison]
 data_sources:
   details.agency_types: [1, 8, 9, 5, 7, 3]
   details.case_stage: [1, 9, 6, 7]
   details.products: [5, 6, 7, 9, 3, 1]
+  details.route: [1, 8, 9]
   details.sentence_types: [1, 2, 9, 6, 7]
   details.setting: [1, 9, 4, 5, 6, 7]
   figures.prison: [1, 9, 6, 7, 2]

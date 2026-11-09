@@ -29,12 +29,14 @@ details:
   date_precision: exact
   products:
     - {product: hashish}
+  route: {from: [np], to: [in], crossing: Sonauli}
   setting: [home]
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 2, 3]
   details.date_precision: [2, 1, 3]
   details.products: [1, 2, 3]
+  details.route: [1]
   details.setting: [1, 3, 2]
   figures.kg_seized: [1, 3, 2]
 status: verified

@@ -22,6 +22,7 @@ details:
   agency_types: [police]
   case_stage: sentenced
   products: [{product: flower, kg: 3.92095}]
+  route: {from: [gb], to: [im]}
   sentence_types: [prison]
   setting: [vehicle, prison]
 data_sources:
@@ -29,6 +30,7 @@ data_sources:
   details.agency_types: [2, 3, 6]
   details.case_stage: [1, 2, 6, 4, 5, 3]
   details.products: [1, 4, 5, 6, 2, 3]
+  details.route: [2]
   details.sentence_types: [1, 4, 5, 6, 2, 3]
   details.setting: [1, 4, 5, 6, 2, 3]
   figures.charged: [2, 3, 4]

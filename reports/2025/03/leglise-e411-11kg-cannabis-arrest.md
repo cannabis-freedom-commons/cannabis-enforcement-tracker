@@ -25,12 +25,14 @@ details:
   agency_types: [police]
   date_precision: exact
   products: [{product: flower, kg: 11}]
+  route: {from: [be], to: [lu]}
   setting: [border]
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 3]
   details.setting: [1]
   figures.kg_seized: [1, 2]
 status: verified

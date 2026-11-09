@@ -32,6 +32,7 @@ details:
   case_stage: investigation
   environment: [indoor]
   products: [{product: hashish, kg: 34}, {product: flower}]
+  route: {from: [es], to: [fr, it, be, pl]}
   setting: [home, mail]
 data_sources:
   details.activity: [1]
@@ -39,6 +40,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.environment: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1, 2]
 status: verified

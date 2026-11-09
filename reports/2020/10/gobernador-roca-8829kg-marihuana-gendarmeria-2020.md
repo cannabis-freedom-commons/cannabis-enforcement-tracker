@@ -20,7 +20,10 @@ figures:
   cash:
     amount: 1000000
     currency: ARS
+details:
+  route: {from: [py], to: [ar]}
 data_sources:
+  details.route: [2]
   figures.arrested: [1]
   figures.cash: [2]
   figures.kg_seized: [1]

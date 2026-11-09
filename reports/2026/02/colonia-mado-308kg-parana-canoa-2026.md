@@ -19,6 +19,7 @@ details:
   products:
     - {product: flower, kg: 308.4}
   setting: [border]
+  route: {from: [py], to: [ar]}
   case_stage: investigation
   date_precision: approximate
   region: Misiones
@@ -28,6 +29,7 @@ data_sources:
   details.agency_types: [2]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 media:

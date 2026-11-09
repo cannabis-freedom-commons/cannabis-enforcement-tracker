@@ -25,6 +25,7 @@ details:
   agency_types: [police, court]
   case_stage: sentenced
   products: [{product: flower, kg: 1.15251}]
+  route: {from: [in], to: [mv]}
   sentence_types: [prison, fine]
   setting: [home, prison]
 data_sources:
@@ -32,6 +33,7 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1, 2]
+  details.route: [2]
   details.sentence_types: [1, 2]
   details.setting: [1]
   figures.fine: [1]
