@@ -38,6 +38,11 @@ sources:
     publisher: مصراوي.كوم
     date: 2026-11-09
     language: ar
+  - title: ضبط 104 آلاف مخالفة مرورية وكشف 50 حالة تعاطي للمواد المخدرة خلال 24 ساعة
+    url: https://www.almasryalyoum.com/news/details/4405519
+    publisher: المصري اليوم
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The article names no substance in the 45 positive tests, so it is not established that any of them involved cannabis.
   - The article gives no separate date for the tests; 9 November 2026 is its publication date and is used as the incident date.
@@ -45,19 +50,20 @@ open_questions:
   - The article combines several unrelated roundups in one statement, including currency-trading cases worth about 4 million Egyptian pounds and 16 tonnes of flour seized in bakery checks; those are separate matters and are left out.
   - The submitted page's only picture is a stock traffic-campaign image from July 2026 captioned only 'الحملات المرورية', so no media entry is added.
   - No second outlet reporting this particular day's round could be opened; the Egyptian Interior Ministry's own statement was not found.
+  - The Al-Masry Al-Youm account likewise names no substance in the 45 or five positive tests, so it does not show that any of them involved cannabis.
+  - The report body dates the intake of 10 wanted people and two vehicles to the Regional Ring Road campaign, while this article lists those figures in a separate sentence after the 152-driver check; the existing wording is left unchanged.
 ---
 
 Egypt's Interior Ministry said its General Traffic Directorate tested 1,094
-drivers in 24 hours and 45 tested positive for drug use. [@1] A parallel
+drivers in 24 hours and 45 tested positive for drug use. [@1,2] A parallel
 campaign on work zones along the Regional Ring Road tested 152 drivers and found
-five positive for drug use. [@1] Those checks took place at work zones on the
+five positive for drug use. [@1,2] Those checks took place at work zones on the
 Regional Ring Road, the ring road that runs around the edge of Greater Cairo.
 [@1]
 
 The nationwide traffic campaigns recorded 104,292 violations in the same 24
 hours, including driving without a licence, speeding and using a mobile phone at
-the wheel. [@1] The Regional Ring Road campaign recorded 452 violations, and
+the wheel. [@1,2] The Regional Ring Road campaign recorded 452 violations, and
 officers detained 10 people wanted under 13 court rulings and held two vehicles
-for traffic offences. [@1] The ministry said the required legal measures had
-been taken in the recorded cases. [@1]
-
+for traffic offences. [@1,2] The ministry said the required legal measures had
+been taken in the recorded cases. [@1,2]
