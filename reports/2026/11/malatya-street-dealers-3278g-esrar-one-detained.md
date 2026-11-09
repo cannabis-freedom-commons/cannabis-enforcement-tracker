@@ -58,6 +58,16 @@ sources:
     publisher: Haber365
     date: 2026-11-09
     language: tr
+  - title: Malatya'da sokak satıcılarına operasyon
+    url: https://www.iha.com.tr/malatya-haberleri/malatyada-sokak-saticilarina-operasyon-513634918
+    publisher: İhlas Haber Ajansı
+    date: 2026-11-09
+    language: tr
+  - title: 'Malatya''da sokak satıcılarına operasyon: Bir gözaltı'
+    url: https://www.bitlishaber13.net/malatyada-sokak-saticilarina-operasyon-bir-gozalti
+    publisher: Bitlis Haber
+    date: 2026-11-09
+    language: tr
 open_questions:
   - Only one account of this operation was found; it is an agency dispatch published by Malatya Haber and was not corroborated by a second opened source.
   - No neighbourhood, address or specific street within Malatya was named for the operation.
@@ -72,16 +82,19 @@ open_questions:
   - Haber365 says the suspect was caught red-handed ('suçüstü yakalama'), which the report does not state.
   - No neighbourhood within Malatya, weight breakdown, value, charge or court date is given.
   - The page's two images are captioned only with the headline and carry no credit, so neither is confirmed to show this seizure and no media entry was added.
+  - Bitlis Haber and İhlas Haber Ajansı give no separate date for the raid; 9 November 2026 is the publication date, and 8 November 2026 remains the incident date from the account the report already cites.
 ---
 
 Malatya provincial police directorate teams detained one suspect in an operation
 against street-level drug dealers on 8 November 2026. [@1,4] The operation seized
-3,278 grams of esrar, the Turkish name for cannabis. [@1] The suspect was caught
-and taken into custody as someone assessed to be linked to drug dealing. [@1]
+3,278 grams of esrar, the Turkish name for cannabis. [@1,6] The suspect was caught
+and taken into custody as someone assessed to be linked to drug dealing. [@1,6]
 
 The provincial police directorate said its teams were continuing work to prevent
 drug trafficking and block the activity of street sellers across the city. [@1]
 The police said operations against drug trafficking and street sellers across
 Malatya province would continue. [@1]
 
-Searches of the suspect's person and his address produced the 3 kg 278 g of esrar. [@2,3,4] The operation was carried out by teams of the provincial police directorate's narcotics branch, after physical and technical surveillance of street sellers. [@2,4]
+Searches of the suspect's person and his address produced the 3 kg 278 g of esrar. [@2,3,4,6] The operation was carried out by teams of the provincial police directorate's narcotics branch, after physical and technical surveillance of street sellers. [@2,4]
+
+The operation was carried out by teams of the Malatya provincial police directorate's anti-narcotics branch, the Narkotik Suçlarla Mücadele Şube Müdürlüğü. [@5]
