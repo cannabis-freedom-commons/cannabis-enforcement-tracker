@@ -92,6 +92,10 @@ sources:
     url: https://iol.co.za/news/crime-and-courts/2025-10-03-robert-mugabe-junior-drove-against-oncoming-traffic-behind-bars-for-drug-possession/
     publisher: IOL
     date: 2025-10-03
+  - title: Robert Mugabe Jr. Arrested In Harare For Drug Possession
+    url: https://www.arise.tv/robert-mugabe-jr-arrested-in-harare-for-drug-possession/
+    publisher: Arise News
+    date: 2025-10-02
 open_questions:
   - 'Accounts differ on the weight of cannabis: the police charge sheet cited 2 g and the lawyer said 0.02 g; the figures use the police weight of 2 g.'
   - The Club of Mozambique and BBC accounts give no separate date for the October arrest beyond 'Wednesday'; it is given as 1 October 2025 in the text only as the Wednesday before the 2 October appearance.
@@ -101,6 +105,8 @@ open_questions:
   - The IOL report does not say when the bail hearing took place or whether bail was granted; it was published on 3 October with Mugabe still in custody.
   - IOL places the stop on a "Tuesday night", while other accounts say he was arrested on Wednesday morning, 1 October 2025; the dates differ by a day.
   - IOL describes a silver Honda Fit, while the BBC's account of the court documents describes the car only as black in relation to the sling bag.
+  - Arise News says police found cannabis and cocaine in his possession; the existing report records only dagga and does not mention cocaine, so whether the seizure involved cocaine is unclear.
+  - Arise News says police detained him on Wednesday without giving a date beyond its 2 October 2025 publication date, consistent with the 1 October arrest date in the existing report.
 ---
 
 Robert Mugabe Jnr, 33, pleaded guilty to unlawful possession of drugs at the
@@ -119,7 +125,7 @@ the southern African name for cannabis. [@1]
 Mugabe was arrested in October and later released on $300 bail, and a warrant
 issued after he missed a routine remand date was cancelled before the trial.
 [@3] He had first appeared in court on 2 October and was remanded in custody
-pending a bail ruling. [@5,6,8] He was released on Friday after paying bail of $300.
+pending a bail ruling. [@5,6,8,10] He was released on Friday after paying bail of $300.
 [@4] At that first appearance police said five people in a "syndicate linked to
 him" had also been arrested and that they found 25 sachets of marijuana and six
 ecstasy pills. [@4,6]
@@ -131,7 +137,7 @@ November ruling followed a warrant and missed hearing in a case that had drawn
 attention because Mugabe is the son of Zimbabwe's late president Robert Mugabe.
 [@4]
 
-Robert Mugabe Junior, 33, was arrested on Wednesday, 1 October 2025, after he was stopped and searched by officers who spotted him driving into oncoming traffic. [@7]
+Robert Mugabe Junior, 33, was arrested on Wednesday, 1 October 2025, after he was stopped and searched by officers who spotted him driving into oncoming traffic. [@7,10]
 
 One of former Zimbabwean President Robert Mugabe's sons has been detained on drug possession charges, with the police saying he is part of a syndicate of illegal substance peddlers. [@8]
 
