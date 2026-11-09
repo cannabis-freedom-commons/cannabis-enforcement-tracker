@@ -50,6 +50,11 @@ media:
     media_url: https://cache.pressmailing.net/thumbnail/story_hires/7b585784-95c4-4ae2-838a-dc56b987f5c4/Bild2.JPEG.jpg
     publisher: Presseportal / Hauptzollamt Regensburg
     caption: 'Customs photo captioned ''Sichergestellte Cannabispflanzen'' (seized cannabis plants). Photo: Hauptzollamt Regensburg'
+  - kind: photo
+    url: https://www.regensburger-nachrichten.de/panorama/100736-1-230-cannabissetzlinge-auf-der-a3-sichergestellt
+    media_url: https://www.regensburger-nachrichten.de/a_media/content/2026/11/panorama/2026_11_09-1-230-cannabissetzlinge-auf-der-a3-sichergestellt/1-230-cannabissetzlinge-auf-der-a3-sichergestellt_1920x1080.jpg
+    publisher: Regensburger Nachrichten
+    caption: 'Customs handout photo captioned Cannabissetzlinge, published with the Regensburger Nachrichten account of the A3 seizure. Photo: Hauptzollamt Regensburg / Kamerafoto'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b1794f7d68669772a969a6ef7071f566
@@ -60,6 +65,11 @@ sources:
     publisher: Presseportal / Hauptzollamt Regensburg
     date: 2026-11-09
     language: de
+  - title: 1.230 Cannabissetzlinge auf der A3 sichergestellt
+    url: https://www.regensburger-nachrichten.de/panorama/100736-1-230-cannabissetzlinge-auf-der-a3-sichergestellt
+    publisher: Regensburger Nachrichten
+    date: 2026-11-09
+    language: de
 open_questions:
   - Customs does not state the driver's or passenger's nationality, only that their van was Slovak-registered and had carried the parcels from Austria.
   - 'The release recommends no arrest: the two men were allowed to continue their journey, and no detention, charges before a court or outcome is reported.'
@@ -68,11 +78,13 @@ open_questions:
   - No independent media account of this check was accessible, so the report rests on the customs office's release and its two handout photographs.
   - The release does not give the exact place of the check beyond 'on the A3 near Hunderdorf', so the coordinates of Hunderdorf are used with district precision.
   - The plants were seized rather than destroyed; destruction is not reported in this release.
+  - The Regensburger Nachrichten version credits the text to Hauptzollamt Regensburg / RNRed and reproduces the customs release already cited, so it is not independent reporting.
+  - The page does not give the nationality of the two men, only that the van was Slovak-registered and had come from Austria.
 ---
 
 Customs officers of the Furth im Wald traffic control unit of the Regensburg
 main customs office seized 1,230 cannabis plants on the A3 near Hunderdorf on 2
-November 2026. [@1] Customs opened criminal proceedings against the van's driver
+November 2026. [@1,2] Customs opened criminal proceedings against the van's driver
 and his passenger on suspicion of the prohibited import of cannabis. [@1] The
 plants had been carried from Austria into Germany in a small van. [@1]
 
@@ -94,3 +106,4 @@ the Regensburg public prosecutor's office for further assessment. [@1] Customs
 said the import of seedlings into Germany is prohibited even from another EU
 state and regardless of the number of plants. [@1]
 
+Customs said a cutting (Steckling), a young plant or shoot without flowers or fruit, counts under the Cannabis Consumption Act as propagation material and not as cannabis. [@2] Once a cutting is planted and grows on as an independent plant it becomes a seedling (Setzling), which counts as a cannabis plant. [@2] The customs office said the label used in an online shop, an order or on a parcel does not decide the classification; the plant's actual stage of development does. [@2] Customs noted that the import ban applies to seedlings and independent plants even from another EU state and regardless of the number of plants, and that the rules letting adults grow up to three plants at home do not permit ordering plants from abroad. [@2] Customs is entitled to check consignments moved from other EU states to Germany because bans and restrictions remain for certain goods despite the free movement of goods within the European Union. [@2]
