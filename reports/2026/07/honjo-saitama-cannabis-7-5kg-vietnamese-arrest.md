@@ -52,6 +52,11 @@ sources:
     publisher: FNNプライムオンライン
     date: 2026-11-09
     language: ja
+  - title: MDMAなど営利譲渡疑いで男を再逮捕　ベトナム人麻薬密売グループか　警察は覚醒剤など時価１億5000万円相当の麻薬を押収
+    url: https://newsdig.tbs.co.jp/articles/mbs/3072500?display=1
+    publisher: MBSニュース
+    date: 2026-11-09
+    language: ja
 open_questions:
   - The page gives the man's age as 31 in the lead and 32 in the third paragraph; both are reported.
   - No exact date is given for the arrest or for the July 2026 raid in Honjo; July 2026 is used as the incident date and 9 November 2026 is the date of publication.
@@ -66,7 +71,7 @@ open_questions:
 
 Hyogo prefectural police in western Japan arrested a Vietnamese man of no fixed
 address and no occupation, reported as 31 and as 32 years old, on suspicion of
-violating the Narcotics and Psychotropics Control Act. [@1,3] Police suspect the
+violating the Narcotics and Psychotropics Control Act. [@1,3,5] Police suspect the
 man delivered ketamine and MDMA for profit to a man living in Amagasaki, Hyogo
 Prefecture, in late April 2026, sending the drugs from Gunma Prefecture or its
 vicinity. [@1,4]
@@ -87,3 +92,5 @@ said "I will keep silent" to investigators and has not answered questions. [@1,4
 A photograph published with the Kansai Television account is captioned "Seized
 drugs etc. (Kasai police station, Hyogo)", placing the display of the drugs to
 reporters at Kasai police station. [@2]
+
+MBS put the street value of the drugs seized in the July 2026 raid at about 150 million yen. [@5]
