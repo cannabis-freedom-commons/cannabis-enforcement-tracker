@@ -266,6 +266,7 @@ const sections = [["overview", "Overview"], ["time", "Over time"], ["calendar", 
       <>
         <h3>Smuggling routes</h3>
         <ol class="hbars compact">{routes.map((r) => <li><a class="hb-label" href={reportsWith({ from: r.from, to: r.to })}>{flagOf(r.from)} {countryName(r.from)} → {flagOf(r.to)} {countryName(r.to)}</a><span class="hb-track"><i style={`width:${(r.count / routes[0].count) * 100}%`}></i></span><span class="hb-num">{fmt(r.count)}</span></li>)}</ol>
+        <p class="chart-note"><a href={`${base}routes/`}>All routes on a map →</a></p>
       </>
     )}
   </section>

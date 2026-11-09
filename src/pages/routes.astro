@@ -1,0 +1,94 @@
+---
+// Smuggling routes: the reports that name where the cannabis came from and where it was going, as
+// lines on a map. Each line is a corridor (one country to another), as thick as its reports or its
+// kilograms; dots run along it in the direction of travel, coloured by what was carried. A year
+// range, a play button and two filters narrow it; a line or a country opens its reports in the panel.
+// The records are small enough to go into the page itself (src/lib/routes.js).
+import Base from "../layouts/Base.astro";
+import { reports } from "../lib/reports.js";
+import { centreOf, MAP_STYLES } from "../lib/map.js";
+import { countryName, flagOf } from "../lib/countries.js";
+import { fmt } from "../lib/stats.js";
+import { formatWeight } from "../lib/figures.js";
+import { routeRecords, routeNodes, corridors, MODES, PRODUCTS } from "../lib/routes.js";
+import "../styles/routes.css";
+
+const base = import.meta.env.BASE_URL;
+const records = routeRecords(reports);
+const nodes = routeNodes(records, { centreOf, countryName, flagOf });
+const { lines, domestic } = corridors(records, nodes);
+const years = records.map((r) => r.y);
+const first = Math.min(...years), last = Math.max(...years);
+const places = new Set(lines.flatMap((c) => [c.from, c.to]));
+const kg = records.reduce((n, r) => n + (r.kg ?? 0), 0);
+const busiest = lines[0];
+const perYear = Array.from({ length: last - first + 1 }, (_, i) => records.filter((r) => r.y === first + i).length);
+const data = { records, nodes, first, last, perYear, styles: MAP_STYLES, base, products: PRODUCTS, modes: MODES.map(([id, label]) => [id, label]) };
+const description = `${fmt(records.length)} cannabis smuggling cases on a map: ${fmt(lines.length)} routes between ${fmt(places.size)} countries, from the reports of the Cannabis Enforcement Tracker.`;
+---
+<Base title="Smuggling routes" description={description} wide>
+  <h1>Smuggling routes</h1>
+  <p class="lead">Where the cannabis in the reports came from and where it was going. {fmt(records.length)} reports name a route; each line joins the two countries, and the dots move the way the cannabis did. These are the cases the sources describe, not a measure of all trafficking.</p>
+
+  <div class="tiles routes-tiles" data-no-glossary>
+    <div class="tile"><div class="big">{fmt(records.length)}</div><div class="label">reports with a route</div></div>
+    <div class="tile"><div class="big">{fmt(lines.length)}</div><div class="label">routes between countries</div></div>
+    <div class="tile"><div class="big">{fmt(places.size)}</div><div class="label">countries on them</div></div>
+    <div class="tile"><div class="big">{formatWeight(kg, 3)}</div><div class="label">seized on these routes</div></div>
+    {busiest && <div class="tile"><div class="big">{nodes[busiest.from].fl}→{nodes[busiest.to].fl}</div><div class="label">busiest: {nodes[busiest.from].n} to {nodes[busiest.to].n}</div></div>}
+  </div>
+
+  <div class="routes" id="routes">
+    <div class="routes-controls">
+      <div class="routes-years">
+        <button type="button" class="routes-play" data-play aria-label="Play the years one by one" title="Play the years one by one"><span aria-hidden="true">▶</span></button>
+        <div class="routes-range">
+          <div class="routes-hist" aria-hidden="true">{perYear.map((n) => <i style={`height:${Math.max(n ? 6 : 0, (Math.sqrt(n) / Math.sqrt(Math.max(...perYear))) * 100)}%`}></i>)}</div>
+          <input type="range" min={first} max={last} value={first} step="1" data-year="from" aria-label="From year" />
+          <input type="range" min={first} max={last} value={last} step="1" data-year="to" aria-label="To year" />
+        </div>
+        <output class="routes-span" data-span>{first}–{last}</output>
+      </div>
+      <div class="routes-filters">
+        <label>Line width
+          <select data-metric><option value="reports">Reports</option><option value="kg">Kilograms seized</option></select>
+        </label>
+        <label>Cannabis
+          <select data-product><option value="">All</option>{PRODUCTS.filter(([id]) => id).map(([id, label]) => <option value={id}>{label}</option>)}</select>
+        </label>
+        <label>Travelled
+          <select data-mode><option value="">Any way</option>{MODES.map(([id, label]) => <option value={id}>{label}</option>)}</select>
+        </label>
+        <button type="button" class="routes-full" data-full aria-pressed="false" title="Full screen (F)">
+          <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M2 6V2h4M10 2h4v4M14 10v4h-4M6 14H2v-4" /></svg><span>Full screen</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="routes-stage">
+      <div class="routes-map" data-routes-map role="region" aria-label="Map of smuggling routes">
+        <div class="routes-key" data-no-glossary>
+          <span><i class="key-node send"></i>mostly sends</span>
+          <span><i class="key-node receive"></i>mostly receives</span>
+          {PRODUCTS.map(([, label, color]) => <span><i class="key-dot" style={`--c:${color}`}></i>{label}</span>)}
+        </div>
+        <p class="routes-empty" data-empty hidden>No routes match these years and filters.</p>
+      </div>
+      <aside class="routes-panel" data-panel aria-live="polite"></aside>
+    </div>
+  </div>
+
+  {domestic.length > 0 && <section class="routes-domestic">
+    <h2>Within one country</h2>
+    <p class="muted">Routes inside a country (from one state or region to another, or to a border) are counted here, not drawn.</p>
+    <ul>{domestic.slice(0, 12).map((c) => <li><a href={`${base}reports/?${new URLSearchParams({ from: c.from, to: c.to })}`}>{flagOf(c.from)} {countryName(c.from)}</a> <span class="muted">{fmt(c.reports)} {c.reports === 1 ? "report" : "reports"}</span></li>)}</ul>
+  </section>}
+
+  <p class="muted routes-note">A report counts on every route it names: one with two destinations is on both lines, with its kilograms. Lines start and end in the middle of each country, not at the real crossing. Data: each report's <code>details.route</code> in the <a href={`${base}api/reports.json`}>JSON</a>.</p>
+
+  <script type="application/json" id="routes-data" set:html={JSON.stringify(data).replace(/</g, "\\u003c")}></script>
+</Base>
+
+<script>
+  import "../scripts/routes-map.js";
+</script>

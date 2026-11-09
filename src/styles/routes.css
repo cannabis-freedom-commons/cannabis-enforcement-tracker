@@ -1,0 +1,119 @@
+/* The Routes page (src/pages/routes.astro, src/scripts/routes-map.js) */
+.routes-tiles { grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); }
+.routes-tiles .label { text-transform: none; letter-spacing: 0; font-size: 12px; }
+
+.routes { --from: 0; --to: 1; --amber: #e9b25f; margin: 8px 0 28px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); }
+:root[data-theme="light"] .routes { --amber: #b46a12; }
+
+/* the years and filters above the map */
+.routes-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 28px; padding: 12px 16px; border-bottom: 1px solid var(--border); }
+.routes-years { display: flex; align-items: center; gap: 12px; flex: 1 1 380px; min-width: 0; }
+.routes-play { flex: none; width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--border); background: var(--surface-2); color: var(--text); font-size: 11px; cursor: pointer; display: grid; place-items: center; }
+.routes-play:hover, .routes-play.on { border-color: var(--amber); color: var(--amber); }
+.routes-span { flex: none; min-width: 84px; font: 15px var(--mono); color: var(--text); text-align: right; }
+
+/* two range inputs over one track, above a small histogram of the reports per year */
+.routes-range { position: relative; flex: 1; min-width: 0; height: 40px; }
+.routes-hist { position: absolute; inset: 2px 9px 16px; display: flex; align-items: flex-end; gap: 2px; }
+.routes-hist i { flex: 1; background: var(--border); border-radius: 1px 1px 0 0; }
+.routes-range::before { content: ""; position: absolute; left: 9px; right: 9px; bottom: 14px; height: 3px; background: var(--border); border-radius: 2px; }
+.routes-range::after { content: ""; position: absolute; bottom: 14px; height: 3px; border-radius: 2px; background: var(--amber);
+  left: calc(9px + (100% - 18px) * var(--from)); right: calc(9px + (100% - 18px) * (1 - var(--to))); }
+.routes-range input { position: absolute; left: 0; right: 0; bottom: 6px; width: 100%; margin: 0; height: 18px; background: none; pointer-events: none; appearance: none; -webkit-appearance: none; z-index: 1; }
+.routes-range input::-webkit-slider-runnable-track { background: none; height: 18px; }
+.routes-range input::-moz-range-track { background: none; }
+.routes-range input::-webkit-slider-thumb { -webkit-appearance: none; pointer-events: auto; width: 16px; height: 16px; margin-top: 1px; border-radius: 50%; background: var(--bg); border: 2px solid var(--amber); cursor: grab; }
+.routes-range input::-moz-range-thumb { pointer-events: auto; width: 12px; height: 12px; border-radius: 50%; background: var(--bg); border: 2px solid var(--amber); cursor: grab; }
+.routes-range input:focus-visible::-webkit-slider-thumb { outline: 2px solid var(--text); outline-offset: 2px; }
+
+.routes-filters { display: flex; flex-wrap: wrap; gap: 10px 16px; }
+.routes-filters label { display: grid; gap: 3px; font: 10.5px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.routes-filters select { font: 13px Inter, system-ui, sans-serif; text-transform: none; letter-spacing: 0; color: var(--text); background: var(--surface-2); border: 1px solid var(--border); border-radius: var(--r); padding: 5px 8px; min-width: 120px; }
+
+.routes-full { align-self: end; display: inline-flex; align-items: center; gap: 7px; height: 31px; padding: 0 11px; border: 1px solid var(--border); border-radius: var(--r); background: var(--surface-2); color: var(--text); font: 13px Inter, system-ui, sans-serif; cursor: pointer; }
+.routes-full:hover, .routes-full[aria-pressed="true"] { border-color: var(--amber); color: var(--amber); }
+.routes-full svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 1.6; }
+.routes-full[aria-pressed="true"] svg { transform: rotate(180deg); }
+
+/* full screen: the view fills the window, the map takes all the height the controls leave */
+.routes.full { position: fixed; inset: 0; z-index: 200; margin: 0; border: 0; border-radius: 0; display: flex; flex-direction: column; }
+.routes.full .routes-stage { flex: 1; min-height: 0; }
+.routes.full .routes-map { min-height: 0; height: 100%; }
+.routes.full .routes-panel { max-height: none; height: 100%; }
+:root.routes-full-page { overflow: hidden; }
+@media (max-width: 900px) {
+  .routes.full .routes-stage { grid-template-rows: minmax(0, 1fr) 38%; }
+  .routes.full .routes-panel { overflow-y: auto; }
+}
+@media (max-width: 640px) { .routes-full span { display: none; } .routes-full { padding: 0 9px; } }
+
+/* the map and the panel beside it */
+.routes-stage { display: grid; grid-template-columns: minmax(0, 1fr) 330px; min-height: 600px; }
+.routes-map { position: relative; min-height: 600px; background: var(--sea); }
+.routes-panel { border-left: 1px solid var(--border); padding: 16px 18px 20px; max-height: 600px; overflow-y: auto; font-size: 13.5px; }
+@media (max-width: 900px) {
+  .routes-stage { grid-template-columns: 1fr; }
+  .routes-map { min-height: 440px; }
+  .routes-panel { border-left: 0; border-top: 1px solid var(--border); max-height: none; }
+  .routes-key { max-width: calc(100% - 64px); gap: 2px 10px; padding: 5px 8px; font-size: 10.5px; }
+}
+@media (max-width: 640px) {
+  .routes-filters { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)) auto; width: 100%; }
+  .routes-filters select { min-width: 0; width: 100%; }
+  .routes-controls { padding: 12px; }
+}
+
+.routes-key { position: absolute; left: 10px; top: 10px; z-index: 2; display: flex; flex-wrap: wrap; gap: 4px 12px; max-width: calc(100% - 120px); padding: 7px 10px; background: color-mix(in srgb, var(--surface) 88%, transparent); border: 1px solid var(--border); border-radius: var(--r); font-size: 11.5px; color: var(--text-2); }
+.routes-key span { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+.key-node { width: 10px; height: 10px; border-radius: 50%; }
+.key-node.send { background: #e9a04a; }
+.key-node.receive { background: #6fa8e8; }
+:root[data-theme="light"] .key-node.send { background: #c7721a; }
+:root[data-theme="light"] .key-node.receive { background: #2f65a3; }
+.key-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--c); }
+.routes-empty { position: absolute; inset: 0; z-index: 2; display: grid; place-items: center; margin: 0; color: var(--text-2); pointer-events: none; }
+.routes-empty[hidden] { display: none; }
+
+.routes-tip .maplibregl-popup-content { display: grid; gap: 2px; padding: 9px 11px; background: var(--surface-2); color: var(--text); border: 1px solid var(--border); border-radius: var(--r); box-shadow: var(--shadow); font: 12.5px/1.4 Inter, system-ui, sans-serif; }
+.routes-tip .maplibregl-popup-tip { display: none; }
+.routes-tip .fl, .routes-panel .fl { margin-right: 4px; }
+
+/* the panel */
+.routes-panel h2 { font-size: 26px; margin: 2px 0 8px; line-height: 1.15; }
+.routes-panel h3 { font: 10.5px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 18px 0 6px; }
+.routes-panel .arrow { color: var(--amber); }
+.rp-kicker { margin: 0; font: 11px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--amber); }
+.rp-sum, .rp-hint { color: var(--text-2); margin: 0 0 12px; }
+.rp-hint { margin-top: 14px; font-size: 12.5px; color: var(--muted); }
+.rp-list, .rp-reports, .rp-counts { list-style: none; margin: 0; padding: 0; }
+.rp-row { display: grid; grid-template-columns: minmax(0, 1fr) 56px auto; align-items: center; gap: 10px; width: 100%; padding: 5px 6px; margin: 0 -6px; background: none; border: 0; border-radius: var(--r); color: var(--text); font: inherit; text-align: left; cursor: pointer; }
+.rp-row:hover, .rp-row:focus-visible { background: var(--surface-2); }
+.rp-name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.rp-bar { height: 5px; background: var(--surface-2); border-radius: 3px; overflow: hidden; }
+.rp-bar i { display: block; height: 100%; background: var(--amber); border-radius: 3px; }
+.rp-num { font: 12px var(--mono); color: var(--text-2); min-width: 3ch; text-align: right; }
+.rp-back, .rp-link { background: none; border: 0; padding: 0; color: var(--cite); font: inherit; cursor: pointer; text-align: left; }
+.rp-back { font-size: 12.5px; margin-bottom: 10px; }
+.rp-back:hover, .rp-link:hover { text-decoration: underline; }
+.rp-facts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; margin: 10px 0 14px; background: var(--border); border: 1px solid var(--border); border-radius: var(--r); overflow: hidden; }
+.rp-facts div { background: var(--surface); padding: 8px 10px; }
+.rp-facts dt { font: 10px var(--mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.rp-facts dd { margin: 2px 0 0; font: 22px/1.1 var(--display); }
+.rp-years { display: flex; align-items: flex-end; gap: 1px; height: 38px; }
+.rp-years i { flex: 1; background: var(--border); border-radius: 1px 1px 0 0; }
+.rp-years i.in { background: var(--amber); }
+.rp-years-axis { display: flex; justify-content: space-between; font: 10px var(--mono); color: var(--muted); margin-top: 3px; }
+.rp-counts li { display: flex; justify-content: space-between; gap: 10px; padding: 3px 0; border-bottom: 1px dashed var(--border); color: var(--text-2); }
+.rp-counts b { font: 12px var(--mono); color: var(--text); }
+.rp-crossings { margin: 0; color: var(--text-2); }
+.rp-reports li { display: grid; grid-template-columns: 1fr auto; gap: 8px; padding: 7px 0; border-bottom: 1px solid var(--border); }
+.rp-reports a { color: var(--text); text-decoration: none; line-height: 1.35; }
+.rp-reports a:hover { text-decoration: underline; }
+.rp-reports time { display: block; font: 11px var(--mono); color: var(--muted); margin-bottom: 2px; }
+.rp-kg { font: 11.5px var(--mono); color: var(--amber); white-space: nowrap; padding-top: 16px; }
+.rp-more { display: inline-block; margin-top: 10px; color: var(--cite); }
+.rp-also { margin: 12px 0 0; color: var(--text-2); font-size: 12.5px; }
+
+.routes-domestic ul { list-style: none; padding: 0; margin: 10px 0 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 4px 20px; }
+.routes-domestic li { display: flex; justify-content: space-between; gap: 10px; padding: 5px 0; border-bottom: 1px solid var(--border); }
+.routes-note { font-size: 13px; margin-top: 24px; }
