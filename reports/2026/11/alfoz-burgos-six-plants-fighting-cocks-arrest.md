@@ -106,6 +106,11 @@ sources:
     publisher: Diario de Castilla y León
     date: 2026-11-09
     language: es
+  - title: Ocho gallos mutilados y 22 kilos de marihuana destapan dos presuntos delitos en una finca de Burgos
+    url: https://www.lavozdemedinadigital.com/2026/11/ocho-gallos-mutilados-y-22-kilos-de-marihuana-destapan-dos-presuntos-delitos-en-una-finca-de-burgos/
+    publisher: La Voz de Medina
+    date: 2026-11-09
+    language: es
 open_questions:
   - The accounts give no date for the inspection or the arrest; 9 November 2026 is the publication date of the Guardia Civil statement and is used as the incident date.
   - The municipality is named only as a village in the Alfoz de Burgos district, so the coordinates mark the district and not the plot.
@@ -121,11 +126,13 @@ open_questions:
   - The two photos are captioned as the seized cocks and plants but credited only as Guardia Civil.
   - This account, credited to Ical and published by Diario de Castilla y León, repeats the Guardia Civil statement already cited and adds no arrests, charges or court outcome beyond it.
   - The 22 kilograms is described as the fresh green weight of the whole plants, not dried cannabis, and no dried weight is given.
+  - La Voz de Medina does not name the municipality where the plot lay, nor the exact date of the inspection or arrest; 9 November 2026 is its publication date.
+  - The outlet says the Guardia Civil has not confirmed that cockfights were held on the property, and it reports no later court situation for the detainee.
 ---
 
 Guardia Civil officers arrested a 24-year-old man in a municipality of the Alfoz
 de Burgos, the district around the city of Burgos, and placed him at the
-disposal of the courts. [@1,5] He is suspected of a crime against public health
+disposal of the courts. [@1,5,6] He is suspected of a crime against public health
 through drug trafficking in the form of cultivation, and of ill-treatment of a
 domestic animal for mutilating eight Spanish fighting-breed cocks without
 veterinary justification. [@1,4] The Guardia Civil said the investigation began
@@ -136,14 +143,14 @@ Officers from Seprona, the Guardia Civil's nature-protection service, and from
 the judicial police of the Burgos command carried out a joint on-site
 inspection. [@2,5] In the greenhouses on the property they found six Cannabis
 sativa plants in an advanced stage of growth and more than two metres tall,
-which weighed 22 kilograms green. [@2,4,5] Burgosconecta reported that the plants
+which weighed 22 kilograms green. [@2,4,5,6] Burgosconecta reported that the plants
 grew directly in the ground, appeared to be tended, and were seized during the
 inspection. [@3,4]
 
 The eight cocks were found with their combs and wattles completely shaved off,
 and a later expert report by Seprona's environmental forensics group confirmed
 the mutilation had been carried out without veterinary justification by
-unqualified people. [@2,4] Officers also recorded administrative breaches: the
+unqualified people. [@2,4,6] Officers also recorded administrative breaches: the
 owner had no legal register for a poultry holding and kept several dogs without
 the required vaccination or deworming. [@2] They found birdlime, an adhesive
 used to trap birds, which is a prohibited means of catching game. [@1,5]
