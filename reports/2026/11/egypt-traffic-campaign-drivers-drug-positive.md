@@ -53,6 +53,11 @@ sources:
     publisher: جريدة الدستور
     date: 2026-11-09
     language: ar
+  - title: ضبط 106 ألف مخالفة مرورية خلال 24 ساعة
+    url: https://ekhbary24.com/article/46861
+    publisher: إخباري 24 نيوز
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The article names no substance in the 45 positive tests, so it is not established that any of them involved cannabis.
   - The article gives no separate date for the tests; 9 November 2026 is its publication date and is used as the incident date.
@@ -64,6 +69,12 @@ open_questions:
   - The report body dates the intake of 10 wanted people and two vehicles to the Regional Ring Road campaign, while this article lists those figures in a separate sentence after the 152-driver check; the existing wording is left unchanged.
   - The Al-Osboa account names no substance in the 45 or five positive tests, so it does not show that any of them involved cannabis.
   - The Dostor account names no substance in the 45 or five positive tests, so it does not show that any of them involved cannabis.
+  - This page gives nationwide totals of 106,705 violations, 1,061 drivers tested and 38 positive samples, against 104,292 violations, 1,094 drivers and 45 positives in the outlets already cited; the later total could not be confirmed from the ministry's own statement.
+  - It reports 10 positive tests among 171 Regional Ring Road drivers, where the earlier accounts report five positives, so the earlier figure of five is left unchanged and the discrepancy is unresolved.
+  - It says the Regional Ring Road campaign recorded 565 violations and that officers detained five people wanted under eight court rulings and held three vehicles, while the earlier accounts give 452 violations, 10 wanted people under 13 rulings and two vehicles.
+  - The page names no substance in any of the positive tests, so it does not show that any of them involved cannabis.
+  - The article gives no separate date for the checks; 9 November 2026 is its publication date and is used as the incident date.
+  - Its only picture is a stock traffic-campaign image whose file address dates from July 2025, captioned only with the section and time, so it is not listed as media of this event.
 ---
 
 Egypt's Interior Ministry said its General Traffic Directorate tested 1,094
@@ -79,3 +90,5 @@ the wheel. [@1,2,3] The Regional Ring Road campaign recorded 452 violations, and
 officers detained 10 people wanted under 13 court rulings and held two vehicles
 for traffic offences. [@1,2,3,4] The ministry said the required legal measures had
 been taken in the recorded cases. [@1,2,3]
+
+Egypt's Interior Ministry said its traffic campaigns tested 1,061 drivers in 24 hours and 38 tested positive for drug use. [@5] In the same 24 hours the ministry recorded 106,705 traffic violations nationwide, including driving without a licence, speeding, parking at random, using a mobile phone at the wheel and breaching licence conditions. [@5] A parallel campaign in work zones along the Regional Ring Road recorded 565 violations, tested 171 drivers and found 10 positive for drug use. [@5] The same campaign detained five people wanted under eight court rulings and held three vehicles for traffic offences. [@5] This account adds that legal measures were taken against all the recorded violations and seizures, rather than only the traffic violations of the Ring Road campaign. [@5]
