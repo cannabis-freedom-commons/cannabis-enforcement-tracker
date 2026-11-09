@@ -48,6 +48,10 @@ sources:
     url: https://www.crimevoice.com/2024/08/08/authorities-bust-underground-cannabis-grow-in-kern-county/
     publisher: Crime Voice
     date: 2024-08-08
+  - title: 'Massive illegal grow-op busted: 17,650 plants seized, three Chinese nationals arrested'
+    url: https://bakersfieldnow.com/news/local/massive-illegal-grow-op-busted-17000-plants-seized-three-chinese-nationals-arrested-kern-county-sheriffs-office-high-intensity-drug-trafficking-area-task-force-boron-california
+    publisher: KBAK (BakersfieldNow)
+    date: 2024-08-07
 media:
   - kind: photo
     url: https://cslea.com/2024/08/cdfw-wardens-assist-kcso-with-search-of-underground-illegal-marijuana-grow-operations/
@@ -64,20 +68,25 @@ media:
     media_url: https://cslea.com/wp-content/uploads/2024/08/kern-underground-4.jpg
     publisher: CSLEA (Kern County Sheriff's Office / CDFW)
     caption: Rows of potted cannabis plants under grow lights in the underground operation
+  - kind: photo
+    url: https://bakersfieldnow.com/news/local/massive-illegal-grow-op-busted-17000-plants-seized-three-chinese-nationals-arrested-kern-county-sheriffs-office-high-intensity-drug-trafficking-area-task-force-boron-california
+    media_url: https://bakersfieldnow.com/resources/media2/16x9/2048/800/0x192/80/d4ce2d2e-818f-4ab7-90b9-6fe032082036-boron1.jpg
+    publisher: KBAK/BakersfieldNow (Kern County Sheriff's Office)
+    caption: 'Kern County Sheriff''s Office photo released with the raid, showing the underground cannabis grow near Boron where three people were arrested. Photo: KCSO'
 ---
 
 At about 8:30 a.m. on 6 August 2024, the Kern County Sheriff's Office, its High
 Intensity Drug Trafficking Area task force, California Department of Fish and Wildlife
 wardens, the state's illicit-cannabis eradication task force and county probation
 officers served a search warrant on an underground cannabis grow discovered in the
-desert north of Boron. [@1,2] Two suspects tried to flee the buried operation and were
+desert north of Boron. [@1,2,3] Two suspects tried to flee the buried operation and were
 quickly caught. [@1,2]
 
 The grow consisted of numerous buried shipping containers fitted with sophisticated
 electrical, ventilation and cooling systems running off a large diesel-powered
 commercial generator. [@1,2] Officers eradicated 17,650 cannabis plants from the
 underground rooms and seized about 1,069 pounds (about 485 kilogrammes) of processed
-cannabis. [@2]
+cannabis. [@2,3]
 
 Three men found running the grow, Qingxue Zhang, 57, Siyun Cao, 32, and Xiyyu Zou, 53,
 all described as from China, were arrested and booked into the Lerdo Justice Facility
