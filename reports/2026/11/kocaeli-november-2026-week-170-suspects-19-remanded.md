@@ -62,6 +62,11 @@ sources:
     publisher: Kocaeli İl Emniyet Müdürlüğü
     date: 2026-11-09
     language: tr
+  - title: Kocaeli’de uyuşturucu operasyonlarında 143 şüpheli yakalandı
+    url: https://www.msn.com/tr-tr/haber/turkiye/kocaeli-de-uyu%C5%9Fturucu-operasyonlar%C4%B1nda-143-%C5%9F%C3%BCpheli-yakaland%C4%B1/ar-AA2h3YFt
+    publisher: MSN / İHA (İhlas Haber Ajansı)
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The 8 November 2026 end of the stated 2-8 November period is used as the incident date; 9 November 2026 is the publication date of the accounts.
   - The 170 suspects processed and 19 remands cover a mixed-drug week and the reports do not say how many relate specifically to cannabis.
@@ -105,6 +110,5 @@ The provincial police directorate said its narcotics units caught 143 suspects
 in the past week and seized 1 kilogram 327 grams of esrar, 618 grams of
 synthetic cannabinoid, 230 grams of assorted drugs, 6,915 synthetic
 pharmaceutical items, 2 handguns, 268 cartridges, 5 precision scales and 48,095
-lira. [@3] The authorities said the police and gendarmerie fight against drugs
+lira. [@3,4] The authorities said the police and gendarmerie fight against drugs
 across the province would continue with determination. [@1]
-
