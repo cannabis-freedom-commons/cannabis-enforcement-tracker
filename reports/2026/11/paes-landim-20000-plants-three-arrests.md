@@ -93,6 +93,11 @@ sources:
     publisher: G1
     date: 2026-11-05
     language: pt
+  - title: PF destrói 20 mil pés de maconha e prende três em operação no interior do PI
+    url: https://cidadeverde.com/cidades/465827/pf-destroi-20-mil-pes-de-maconha-e-prende-tres-em-operacao-no-interior-do-pi
+    publisher: CidadeVerde.com
+    date: 2026-11-04
+    language: pt
 open_questions:
   - Agência Gov names the rural zone of Paes Landim, in southern Piauí, while the Federal Police's own statement names the rural zone of Simplício Mendes; the report uses the submitted account's place and cannot say which municipality is correct.
   - No area in hectares was published for the four cultivation plots.
@@ -105,17 +110,20 @@ open_questions:
   - The page names no identities or charges for the three detainees and gives no later court step.
   - The video page provides only its title as usable text; no article body, arrest count, operation date, plot count or video transcript could be captured, so the operation date and arrests rely on the existing report.
   - The page thumbnail at https://s01.video.glbimg.com/x720/15161520.jpg has no caption or credit confirming it shows this burning, so no media entry is made.
+  - The submitted article places the operation in the rural zone of Simplicio Mendes near Paes Landim, while the existing report places it in the rural zone of Paes Landim; which municipality is correct remains unresolved, as already noted in the report.
+  - The submitted article's photos are credited as Reproducao / PF and appear to republish the same Federal Police handout already covered, so no new media entry is made.
+  - The submitted article gives no identities, charges or later court outcome for the three detainees.
 ---
 
 The Federal Police eradicated about 20,000 cannabis plants and arrested three
 people on Wednesday 4 November 2026 in the rural zone of Paes Landim, in
-southern Piauí. [@1,4,5,6] The operation was run from the Federal Police's Picos base
+southern Piauí. [@1,4,5,6,7] The operation was run from the Federal Police's Picos base
 in Piauí. [@1]
 
-During the operation the teams found four plots used to grow the drug. [@1,3,4,5] The
+During the operation the teams found four plots used to grow the drug. [@1,3,4,5,7] The
 Federal Police estimated the potential production of the plots at about four
-tonnes of cannabis. [@1,3,4,5] Officers also found irrigation machinery, fertilisers,
-cultivation tools and a structure for raising seedlings at the sites. [@1,3,4,5]
+tonnes of cannabis. [@1,3,4,5,7] Officers also found irrigation machinery, fertilisers,
+cultivation tools and a structure for raising seedlings at the sites. [@1,3,4,5,7]
 
 The Federal Police's own statement gives the location as the rural zone of
 Simplício Mendes rather than Paes Landim. [@2]
