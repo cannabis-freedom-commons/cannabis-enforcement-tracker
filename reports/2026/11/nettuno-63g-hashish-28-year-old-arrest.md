@@ -61,6 +61,11 @@ sources:
     publisher: Il Giornale dei Castelli Romani
     date: 2026-11-09
     language: it
+  - title: 'Nettuno, fermato con hashish in auto: arrestato 28enne residente a Lariano'
+    url: https://www.castellinotizie.it/2026/11/09/nettuno-fermato-con-hashish-in-auto-arrestato-28enne-residente-a-lariano/
+    publisher: Castelli Notizie
+    date: 2026-11-09
+    language: it
 open_questions:
   - The article was published on 9 November 2026 and says the stop happened the previous morning, so 8 November 2026 is used as the incident date.
   - The 60 grams in the car is described as approximate, so the 63-gram total combining it with the 3 grams at home is approximate.
@@ -71,6 +76,7 @@ open_questions:
   - The Mondoreale article gives no separate date for the stop, saying only it happened 'nei giorni scorsi' (in recent days), so the existing report's approximate incident date is retained.
   - The page's only image is a generic illustration stored in a 2021 upload folder, so no media entry is added.
   - The Adnkronos-sourced article gives no date for the stop beyond its 9 November 2026 publication date.
+  - The Castelli Notizie page's only image is captioned generically as 'Generico novembre 2026', so no media entry is added from it.
 ---
 
 Carabinieri stopped a vehicle in via Padre Liberati in Nettuno during a targeted
@@ -78,16 +84,16 @@ check. [@1,2] The driver was a 28-year-old of Romanian origin living in Lariano
 who was already known to police for specific offences. [@1,2,3] Investigators
 consider him seriously suspected of possession of drugs for sale. [@1,2] He was
 taken to the Velletri prison and remains at the disposal of the judicial
-authority. [@1,2,3]
+authority. [@1,2,3,4]
 
 Hidden in the car, officers found a block of hashish alongside several
-ready-portioned wraps, weighing about 60 grams in total. [@1,2] Officers also
+ready-portioned wraps, weighing about 60 grams in total. [@1,2,4] Officers also
 found cash in the car considered proceeds of dealing. [@1,2] A search of his home
 found another 3 grams of hashish, a precision electronic scale and packaging
-material, with scissors still bearing visible hashish residue. [@1,2]
+material, with scissors still bearing visible hashish residue. [@1,2,4]
 
 The stop was carried out by the Radiomobile unit of the N.O.R. during a targeted
-check. [@1,2] Officers ordered the driver to stop after his behaviour aroused
+check. [@1,2,4] Officers ordered the driver to stop after his behaviour aroused
 suspicion and searched first the driver and then the car interior. [@1] The
 arrest came amid intensive checks by the Anzio company on the Roman coast using
 roadblocks, searches and monitoring of sensitive points. [@1]
