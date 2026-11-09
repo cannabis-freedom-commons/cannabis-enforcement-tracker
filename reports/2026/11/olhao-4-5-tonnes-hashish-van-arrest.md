@@ -75,6 +75,11 @@ sources:
     publisher: Sul Informação
     date: 2026-11-09
     language: pt
+  - title: PJ apreende mais de quatro toneladas de haxixe
+    url: https://www.rtp.pt/noticias/pais/pj-apreende-mais-de-quatro-toneladas-de-haxixe_n1777856
+    publisher: RTP Notícias
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No date is given for the operation or the arrest; 9 November 2026 is the publication date of the accounts and stands in for the incident date.
   - The weight is given as approximately 4.5 tonnes and the bale count as about 100, not exact measured figures.
@@ -88,10 +93,13 @@ open_questions:
   - Left out agencies, as its quotation was not found in Notícias ao Minuto.
   - The Sul Informação account repeats the same Judicial Police statement as the accounts already cited, so it does not independently corroborate the police version.
   - 'The submitted page''s two images are unrelated to this seizure: a 2025 Judicial Police building photo used for other news and an outlet banner, so no media entry is added.'
+  - RTP gives no separate date for the operation or the arrest; 9 November 2026 is its publication date.
+  - RTP reproduces the Judicial Police statement, so it does not independently corroborate the police version.
+  - The RTP page's lead image carries no caption or credit and is not confirmed to show the seizure, so no media entry is added.
 ---
 
 Judicial police in Olhão arrested a 38-year-old man on suspicion of drug
-trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5]
+trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5,6]
 The bales weighed about 4.5 tonnes in total. [@1,4,5]
 
 The van was hidden on a rural property and investigators believe the hashish was
