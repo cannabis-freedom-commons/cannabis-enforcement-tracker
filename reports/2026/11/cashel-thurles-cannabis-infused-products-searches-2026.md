@@ -30,6 +30,10 @@ sources:
     url: https://www.ireland-live.ie/mid-west/tipperary-live/a-large-quantity-of-suspected-cannabis-infused-products-seized-in-tipperary-9340494
     publisher: Ireland Live
     date: 2026-11-09
+  - title: Large Seizure Of Suspected Cannabis Products Following Searches In Thurles And Cashel, Co. Tipperary.
+    url: https://www.thurles.info/2026/11/09/large-seizure-of-suspected-cannabis-products-following-searches-in-thurles-and-cashel-co-tipperary/
+    publisher: Thurles Information
+    date: 2026-11-09
 open_questions:
   - No weight, street value or item count for the suspected cannabis-infused products was published; the source says only that the haul was large.
   - The source reports no arrests, charges or suspects, and no suspected offence was named.
@@ -39,12 +43,14 @@ open_questions:
   - The Ireland Live copy gives no weight, value or item count for the suspected cannabis-infused products and no arrests, charges or suspected offence.
   - The total number of premises searched and the split between business and residential properties are not given.
   - The searches are dated only by the Tipperary Garda Facebook post on Monday, 9 November 2026; the operation may have begun earlier.
+  - The Thurles Information account calls the products cannabis vapes, edibles and other cannabis-related merchandise but, like the earlier reports, gives no weight, item count or value for the haul.
+  - The Thurles Information account uses the word reportedly, presents no figures, source or named agency statement for the operation, and much of the article discusses cannabis products generally.
 ---
 
 Customs officers and gardaí seized a large quantity of suspected
 cannabis-infused products in a joint search operation in two County Tipperary
-towns. [@1] Gardaí said the searches were carried out on a number of business
-and residential properties in Thurles and Cashel. [@1,2]
+towns. [@1,3] Gardaí said the searches were carried out on a number of business
+and residential properties in Thurles and Cashel. [@1,2,3]
 
 Photographs of the haul were posted on the Tipperary Garda Facebook page on the
 afternoon of Monday, 9 November 2026. [@1,2]
