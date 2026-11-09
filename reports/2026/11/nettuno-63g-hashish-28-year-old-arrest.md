@@ -66,6 +66,11 @@ sources:
     publisher: Castelli Notizie
     date: 2026-11-09
     language: it
+  - title: Detenzione e spaccio di hashish, 28enne arrestato dai carabinieri nella zona del Santuario a Nettuno
+    url: https://ilgranchio.it/2026/11/09/detenzione-e-spaccio-di-hashish-28enne-arrestato-dai-carabinieri-nella-zona-del-santuario-a-nettuno/
+    publisher: Il Granchio
+    date: 2026-11-09
+    language: it
 open_questions:
   - The article was published on 9 November 2026 and says the stop happened the previous morning, so 8 November 2026 is used as the incident date.
   - The 60 grams in the car is described as approximate, so the 63-gram total combining it with the 3 grams at home is approximate.
@@ -77,11 +82,12 @@ open_questions:
   - The page's only image is a generic illustration stored in a 2021 upload folder, so no media entry is added.
   - The Adnkronos-sourced article gives no date for the stop beyond its 9 November 2026 publication date.
   - The Castelli Notizie page's only image is captioned generically as 'Generico novembre 2026', so no media entry is added from it.
+  - Il Granchio says the stop happened on Sunday morning and was published on 9 November 2026; it gives no date for the home search.
 ---
 
 Carabinieri stopped a vehicle in via Padre Liberati in Nettuno during a targeted
 check. [@1,2] The driver was a 28-year-old of Romanian origin living in Lariano
-who was already known to police for specific offences. [@1,2,3] Investigators
+who was already known to police for specific offences. [@1,2,3,5] Investigators
 consider him seriously suspected of possession of drugs for sale. [@1,2] He was
 taken to the Velletri prison and remains at the disposal of the judicial
 authority. [@1,2,3,4]
