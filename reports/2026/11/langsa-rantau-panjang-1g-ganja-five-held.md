@@ -61,6 +61,11 @@ sources:
     publisher: datariau.com
     date: 2026-11-08
     language: id
+  - title: Satresnarkoba Polres Langsa Ungkap Kasus Etomidate, 167,72 Gram Sabu Bersama 5 Tersangka Diamankan
+    url: https://www.waspada.id/berita/satresnarkoba-polres-langsa-ungkap-kasus-etomidate-167-72-gram-sabu-bersama-5-tersangka-diamankan
+    publisher: Waspada.id
+    date: 2026-11-08
+    language: id
 open_questions:
   - Only one opened source covers this case; a second account on AJNN was found in search results but its page returned an access error and could not be read.
   - The ganja weight is the police's own statement, with no laboratory confirmation or breakdown of the 1.10 grams reported.
@@ -72,13 +77,14 @@ open_questions:
   - The datariau and Indonesiaglobal accounts reproduce the same Langsa police statement, so they are not independent of each other or of the outlet already cited.
   - The datariau page gives no weight for the total methamphetamine and etomidate finds beyond the individual case figures, and those substances remain outside the cannabis count.
   - The datariau photograph shows seized narcotics in general and does not separately show the 1.10 grams of ganja.
+  - Waspada.id reproduces the same Langsa police statement as the accounts already cited, so it is not independent reporting of the arrests or the ganja seizure.
 ---
 
 The Langsa city police drug unit arrested five suspects in five narcotics cases
 between 31 October and 5 November 2026, of which one case involved both
 methamphetamine and ganja. [@1,2] The only cannabis in the five cases was 1.10
 grams of ganja, which police said was seized on 1 November 2026 from a suspected
-dealer. [@1,2]
+dealer. [@1,2,3]
 
 The suspect was detained in Gampong Rantau Panjang, Rantau Selamat district,
 East Aceh regency, a gampong being an Acehnese village. [@1,2] Police classed the
