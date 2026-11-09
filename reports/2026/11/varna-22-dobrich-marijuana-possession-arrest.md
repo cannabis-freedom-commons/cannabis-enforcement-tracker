@@ -62,15 +62,16 @@ open_questions:
   - The suspect's name was not published and no court outcome was reported.
   - The submitted page, Новини Варна and Добрич Онлайн all reproduce the same Varna police statement, so the accounts are not independent.
   - The page picture has no caption or credit confirming what it shows, so it may be a generic image rather than a photo of the arrest.
+  - Новини Варна reproduces the same Varna police press release as the report's other sources, so it is not an independent account.
+  - The article gives no weight or value for the marijuana and names no charge beyond the fast-track proceeding.
 ---
 
 A 22-year-old man from Dobrich was taken into police custody in Varna for up to
-24 hours on Saturday, 7 November 2026. [@3] The Varna regional police
+24 hours on Saturday, 7 November 2026. [@2,3] The Varna regional police
 directorate said the man was already known to police. [@3] Officers of the
 municipal police checked him and found he was carrying a dry green herb-like
-substance, marijuana. [@3] Новини Варна reported the detention in Varna was
+substance, marijuana. [@2,3] Новини Варна reported the detention in Varna was
 carried out on Saturday after the marijuana was found on him. [@2]
 
 Police opened a fast-track proceeding, a sped-up Bulgarian investigation for
-clear-cut offences, over the case. [@1]
-
+clear-cut offences, over the case. [@1,2]
