@@ -41,20 +41,26 @@ sources:
     url: https://www.greaterbelize.com/customs-siblings-charged-for-abetment-in-151-pound-marijuana-bust
     publisher: Greater Belize Media
     date: 2025-10-02
+  - title: Customs Siblings Charged for Abetment in 151-Pound Marijuana Bust
+    url: https://www.greaterbelize.com/customs-siblings-charged-for-abetment-in-151-pound-marijuana-bust/
+    publisher: Greater Belize Media
+    date: 2025-10-02
 open_questions:
   - The exact date the parcel was seized is given only as early April 2025; October 2, 2025 is the arraignment date.
   - The cannabis street value is described only as several hundreds of thousands of dollars, so no value figure is recorded.
   - No plea or trial outcome is reported in the two opened October accounts.
   - The submitted page carries a photo captioned Public officers awardees, which does not show this event, so no media entry is included.
   - Other outlets spell the siblings names Sheryl and Atlee/Athlee and the sister as Cheryl Castillo-Moreno; this report uses the Amandala spelling.
+  - No plea or trial outcome for the two officers is reported in this account.
+  - The page's featured image is a composite grid graphic titled with the headline, not a verifiable photograph of the seizure or the court appearance, so no media entry is added.
 ---
 
 Two Customs officers, siblings Atlee and Cheryl Castillo, were arraigned in the
 Belize City Magistrate Court on the morning of October 2, 2025. [@1] They were
-charged with abetment to importation of marijuana. [@2] Attorney Dickie Bradley
+charged with abetment to importation of marijuana. [@2,3] Attorney Dickie Bradley
 represented the siblings when they appeared, as Director of Public Prosecutions
 Cheryl Lynn Vidal read out the charges. [@1] The court granted each of them
-$20,000 bail on condition that they surrender all travel documents. [@1]
+$20,000 bail on condition that they surrender all travel documents. [@1,3]
 
 The parcel containing 68.69 kilograms of cannabis arrived in Belize in early
 April. [@1] It arrived as part of a consolidated group of packages from the
@@ -70,11 +76,10 @@ Customs compound and then diverting when she took the call. [@1] The examining
 officer then gave the police a statement about what he found, while the female
 suspect began reporting sick and unable to work. [@1] The package was declared
 as bath and body products but contained tightly sealed bags of high-grade
-cannabis. [@2]
+cannabis. [@2,3]
 
 The Customs Department pursued the investigation for five months. [@1]
 Investigators did not know how many officers were involved or how long the
 smuggling had been in operation. [@1] The cannabis was reported to be very high
 grade, which could fetch several hundreds of thousands of dollars through street
 sales. [@1]
-
