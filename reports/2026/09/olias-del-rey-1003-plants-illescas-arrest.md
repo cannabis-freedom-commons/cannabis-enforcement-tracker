@@ -46,6 +46,11 @@ media:
     media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/09/marihuana%20olias-Rr48D53Rl8L3Qm4JQQPvILO-1200x840@diario_abc.jpg
     publisher: Diario ABC
     caption: 'Police handout photo of the 1,003 cannabis plants and the buds seized in the Olías del Rey industrial unit. Photo: Policía Nacional'
+  - kind: photo
+    url: https://toledodiario.es/la-policia-nacional-desmantela-una-plantacion-de-marihuana-en-olias-del-rey-con-mas-de-1-000-plantas/
+    media_url: https://toledodiario.es/wp-content/uploads/2026/10/Mejorando-Olias-del-Rey.jpg
+    publisher: ToledoDiario
+    caption: 'Lead photo captioned as the National Police operation against the Olías del Rey cannabis plantation. Photo: Policía Nacional'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a12b71b5c30c1e0a70f1dc64dcb024a2
@@ -81,6 +86,11 @@ sources:
     publisher: Castilla-La Mancha 24 (CLM24)
     date: 2026-11-09
     language: es
+  - title: La Policía Nacional desmantela una plantación de marihuana en Olías del Rey con más de 1.000 plantas
+    url: https://toledodiario.es/la-policia-nacional-desmantela-una-plantacion-de-marihuana-en-olias-del-rey-con-mas-de-1-000-plantas/
+    publisher: ToledoDiario
+    date: 2026-11-09
+    language: es
 open_questions:
   - 'The reports give only the months of the police steps: the investigation began in August 2026, the warehouse search took place in September and the arrest in October; 15 September is used only to place the search mid-month.'
   - No exact day for the search, the arrest or the investigation start was published.
@@ -89,12 +99,13 @@ open_questions:
   - No charges, court appearance or custody decision after the arrest was reported.
   - ABC gives the buds as nearly 100 kilograms, against the 100 grams previously read from ENCLM; the sources do not reconcile the two and the report keeps the earlier figure pending a police statement.
   - CLM24 says about 100 kilograms of buds were removed, matching ABC but not ENCLM, whose 100 grams the report still uses; the two figures remain unreconciled.
+  - 'Only the months are given for the police steps: the investigation began in August 2026, the warehouse search was in September and the arrest in October, so no exact day is published.'
 ---
 
 Spain's National Police dismantled a cannabis plantation in the industrial
 estate of Olías del Rey, Toledo province, and arrested the man accused of
-running it in the nearby town of Illescas. [@1,4,5,6] He was held on suspicion of drug
-trafficking and of defrauding the electricity supply. [@1,4,5] The National Police
+running it in the nearby town of Illescas. [@1,4,5,6,7] He was held on suspicion of drug
+trafficking and of defrauding the electricity supply. [@1,4,5,7] The National Police
 said the arrest took place in Illescas. [@2]
 
 Officers began the investigation in August after information pointed to a
