@@ -75,6 +75,11 @@ sources:
     publisher: الوكيل الإخباري
     date: 2026-11-09
     language: ar
+  - title: المنطقة العسكرية الشرقية تحبط محاولة تهريب مواد مخدرة بواسطة بالونات موجّهة
+    url: https://johinanews.com/article/296024
+    publisher: جهينة نيوز
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The sources describe only "drugs" (المواد المخدرة) and give no substance; whether any of the cargo was cannabis is not established.
   - No weight, number of balloons or street value was published.
@@ -94,14 +99,17 @@ open_questions:
   - The Al Wakeel page describes only drugs (المواد المخدرة) and gives no substance, weight, balloon count or arrests, so it does not establish that any of the cargo was cannabis.
   - Al Wakeel carries the same army statement as the report's existing sources, so it corroborates rather than independently reports the interception.
   - The page shows one image captioned only with the armed forces name and has no credit identifying what it depicts, so it is not added as media.
+  - The Johina News page describes only "drugs" (المواد المخدرة) and names no substance, weight, balloon count, arrests or border of origin, so it does not establish that any of the cargo was cannabis.
+  - Johina News carries the same armed forces statement as the report's existing sources, so it corroborates rather than independently reports the interception.
+  - The page shows one image whose caption is only the headline and carries no credit identifying the photographer or agency, so it is not added as media.
 ---
 
 Jordan's Eastern Military Region foiled an attempt to smuggle a large quantity
-of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3,6,7,8,9,11]
+of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3,6,7,8,9,11,12]
 Border guard units spotted the balloons, brought them down inside Jordanian
-territory and seized the drugs they carried. [@1,3,7,9,11] The border guards acted with
+territory and seized the drugs they carried. [@1,3,7,9,11,12] The border guards acted with
 security and military bodies and the Anti-Narcotics Department, and the seized
-material was handed to the competent authorities for legal action. [@1,3,7,9,11]
+material was handed to the competent authorities for legal action. [@1,3,7,9,11,12]
 
 The Jordan Armed Forces said they would keep confronting infiltration and
 smuggling attempts whatever their methods in order to protect the kingdom's
