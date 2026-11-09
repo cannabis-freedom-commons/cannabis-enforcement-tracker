@@ -82,6 +82,11 @@ sources:
     publisher: 20 minutes
     date: 2021-03-06
     language: fr
+  - title: Saisie de 17 tonnes de cannabis à Niamey
+    url: https://www.voaafrique.com/a/saisie-de-17-tonnes-de-cannabis-%C3%A0-niamey/5804129.html
+    publisher: VOA Afrique
+    date: 2021-03-06
+    language: fr
 open_questions:
   - The identities of the thirteen people arrested and any court outcomes were not reported in the opened sources.
   - A later analysis reported contacts saying part of the haul leaked back to traffickers, which the anti-drug office denied, saying the resin was incinerated on 24 April 2021; the opened sources do not resolve this dispute.
@@ -101,6 +106,10 @@ open_questions:
   - A report added on 8 November 2026 is the same AFP dispatch already carried by lematin.ch; it is not independent reporting.
   - The existing report's value figure of about $37 million is replaced here by the 20 billion CFA francs (about 34 million euros) the article states, which converts to about $36 million at early-2021 rates.
   - The only image on this page is captioned as an illustration, so it is not evidence of this seizure.
+  - The VOA Afrique page is the AFP dispatch also carried by lematin.ch and 20 minutes, so it is not independent reporting of the seizure.
+  - This account attributes the first-from-Lebanon statement to Interior Minister Alkache Alhada at a press presentation, while existing sentences attribute it to agency spokesman Adili Toro.
+  - This account says the thirteen suspects were arrested and committed to custody (écrouées) but does not say where each was held and gives no identities or court outcomes.
+  - This account names an Indian company as the shipping intermediary for the Lebanon-to-Lomé leg, a detail not in the existing sentences.
 media:
   - kind: photo
     url: https://www.lsi-africa.com/fr/actualite-africaine/niger-saisie-cannabis-.html
@@ -109,16 +118,18 @@ media:
     caption: 'Press photograph accompanying the report on the 17-tonne cannabis resin seizure in Niamey. Photo: Nicolas Tucat'
 ---
 
-Nigerien police seized a record 17 metric tons of cannabis resin from warehouses in the capital Niamey on 2 March 2021. [@1,2,4,5,6,7,8] The national anti-drug trafficking agency valued the haul at about $37 million and called it the largest cannabis seizure in Niger's history. [@1,2,5]
+Nigerien police seized a record 17 metric tons of cannabis resin from warehouses in the capital Niamey on 2 March 2021. [@1,2,4,5,6,7,8,9] The national anti-drug trafficking agency valued the haul at about $37 million and called it the largest cannabis seizure in Niger's history. [@1,2,5]
 
 The resin had originated in Lebanon, the first drug shipment known to have come from there, according to agency spokesman Adili Toro. [@2,4] It had passed through the Togolese port of Lomé before being trucked north more than 1,000 kilometres and across two border crossings to Niamey. [@2,4,7] The traffickers had planned to move it onward in trucks to Libya via the desert town of Agadez, a hub for smuggling goods and migrants across the Sahara. [@2,4,6,7,8]
 
-Police arrested eleven Nigeriens and two Algerians in Niamey and Agadez. [@2,4,6,7,8] Interpol, which confirmed the bust in May, said the seizure came out of March and April enforcement operations run with customs and police from 41 countries, during which traffickers were moving larger loads to work around COVID-19 travel restrictions. [@1,5]
+Police arrested eleven Nigeriens and two Algerians in Niamey and Agadez. [@2,4,6,7,8,9] Interpol, which confirmed the bust in May, said the seizure came out of March and April enforcement operations run with customs and police from 41 countries, during which traffickers were moving larger loads to work around COVID-19 travel restrictions. [@1,5]
 
 A later analysis reported claims from its contacts that part of the shipment was reacquired by trafficking networks after the seizure, which the anti-drug office denied, saying the resin was incinerated on 24 April 2021 in the presence of the interior and justice ministers. [@3]
 
 The drugs left Beirut in a container carried by an Indian company to the port of Lomé, where they were loaded onto a Beninese-registered truck bound for Niamey. [@4,6,8] The drugs were packed in fruit cartons and were to be repackaged in a purpose-built and equipped warehouse in Niamey’s Plateau quarter. [@4]
 
-The resin was brought to Niamey concealed in a Beninese-registered tanker presented as carrying hydrocarbons. [@7] The resin was packed in watertight packaging, with each of thousands of small packets bearing a specific recipient's name. [@7]
+The resin was brought to Niamey concealed in a Beninese-registered tanker presented as carrying hydrocarbons. [@7,9] The resin was packed in watertight packaging, with each of thousands of small packets bearing a specific recipient's name. [@7,9]
 
-Interior Minister Alkache Alhada told a press presentation that nearly 20 billion CFA francs of resin had been seized in a Niamey warehouse. [@8] The drugs are valued at 20 billion CFA francs, which the article put at more than 34 million euros. [@8] The material was seized on 2 March in a district on the outskirts of Niamey. [@8]
+Interior Minister Alkache Alhada told a press presentation that nearly 20 billion CFA francs of resin had been seized in a Niamey warehouse. [@8] The drugs are valued at 20 billion CFA francs, which the article put at more than 34 million euros. [@8,9] The material was seized on 2 March in a district on the outskirts of Niamey. [@8,9]
+
+The shipment travelled from Lebanon to the Togolese port of Lomé through an Indian company. [@9]
