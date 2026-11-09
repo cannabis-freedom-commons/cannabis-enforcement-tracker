@@ -74,6 +74,11 @@ sources:
     publisher: রাত দিন নিউজ (Ratdin News)
     date: 2026-11-09
     language: bn
+  - title: যশোরে ৩৮ কেজি গাঁজাসহ গ্রেপ্তার ২, একজনের কারাদণ্ড
+    url: https://www.banglanews24.com/saradesh/news/bd/1692327.details
+    publisher: Banglanews24
+    date: 2026-11-09
+    language: bn
 open_questions:
   - The main report gives four people arrested overall, but only two cannabis cases; the other two detainees were held with 110 yaba tablets (a methamphetamine pill) by the district detective branch, and their count and tablets are not included in the cannabis figures.
   - The 38 kg and 50 g figures sum to 38.05 kg, while the leads describe the haul as 38 kg 50 g (38.5 kg) in total; the report uses the stated total of 38.5 kg.
@@ -84,22 +89,24 @@ open_questions:
   - The article photo on the submitted page has no caption and is not confirmed to show the seized ganja or the suspects, so it is listed as a link without a claim about its content.
   - Ratdin News gives no court venue or magistrate detail for the 38 kg regular case beyond the Kotwali Model police station case record.
   - Left out activity, as its quotation was not found in রাত দিন নিউজ (Ratdin News).
+  - Banglanews24 gives the first drive's suspect an age of 35 and says the ganja was recovered from his house; it does not say how the 38 kg and 50 g were weighed separately at each site.
+  - Banglanews24 credits the Ghop Uttarpara search to sub-inspector Shahriar and the Kazipara Kathaltala prosecution to sub-inspector Rafiza Khatun, the first account read to name the second drive's prosecuting officer.
 ---
 
 Bangladesh's Department of Narcotics Control seized 38 kg 50 g of cannabis,
 known in Bangladesh as ganja, in two separate drives in Jashore on Monday 9
-November 2026. [@1] In the first drive, officers searched the second-floor room
-of a two-storey house at Ghop Uttarpara and found 38 kg of ganja there. [@1] The
+November 2026. [@1,4] In the first drive, officers searched the second-floor room
+of a two-storey house at Ghop Uttarpara and found 38 kg of ganja there. [@1,4] The
 department said the Ghop drive ran from 11:00 to 11:50 am and the room searched
 was in the suspect's possession. [@3] A sub-inspector of the department filed a
 regular case under the Narcotics Control Act at Kotwali Model police station
-over that seizure. [@1]
+over that seizure. [@1,4]
 
 In a second drive the same day, officers detained a 26-year-old at Kazipara
 Kathaltala with 50 g of ganja. [@1] The second drive was carried out around 2:30
-pm. [@2] A mobile court run by executive magistrate Tawmid Hasan sentenced him
+pm. [@2,4] A mobile court run by executive magistrate Tawmid Hasan sentenced him
 to 14 days of simple imprisonment and a 200-taka fine, and had him sent to jail.
-[@2] The prosecution at the mobile court was conducted by a sub-inspector of the
+[@2,4] The prosecution at the mobile court was conducted by a sub-inspector of the
 narcotics department. [@3]
 
 The same report counts four people detained in Jashore that weekend, because
@@ -108,3 +115,4 @@ tablets, a methamphetamine pill, on the night of 8 November. [@1] Those two,
 picked up in Jashore municipality ward 7 and in Narendrapur union, were sent to
 court on 9 November. [@1]
 
+জেলা প্রশাসনের নির্বাহী ম্যাজিস্ট্রেট তাওমীদ হাসান ভ্রাম্যমাণ আদালত পরিচালনা করেন। [@4] সোমবার (৯ নভেম্বর) সকালে যশোর সদর উপজেলার কচুয়া ইউনিয়নের ঘোপ উত্তরপাড়ায় অভিযান চালানো হয়। [@4] এ সময় ওই এলাকার আলতাফ বিশ্বাসের ছেলে বাবলু হোসেনকে (৩৫) আটক করা হয়। [@4]
