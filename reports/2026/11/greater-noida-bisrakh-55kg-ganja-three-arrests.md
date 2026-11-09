@@ -83,6 +83,11 @@ sources:
     publisher: Dainik Bhaskar Hindi
     date: 2026-11-09
     language: hi
+  - title: '55 लाख का गांजा पकड़ा, टेलीग्राम एप से करते बुकिंग: नोएडा में बन रही बिल्डिंग से पकड़े गए तीन आरोपी, 55 किलो गांजा और कार जब्त'
+    url: https://www.bhaskar.com/local/uttar-pradesh/gautambudh-nagar/news/noida-bisrakh-police-arrest-ganja-smugglers-seize-car-139638358.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-09
+    language: hi
 open_questions:
   - Both opened pages carry the same IANS text, so the account rests on a single agency statement and no independent outlet reporting of the arrest was found.
   - Police describe a 2024 NDPS case against one of the three, Wasim, in Hapur district, but its outcome is not reported.
@@ -101,6 +106,9 @@ open_questions:
   - The page gives no remand, charge sheet or court outcome; the case stays at the investigation stage.
   - Dainik Bhaskar states that the page was auto-published from a news agency feed without editing, so it reproduces agency copy rather than independent reporting.
   - The submitted page's single image is a thumbnail carrying only the headline as its caption, with no credit, and it is not established to show this seizure.
+  - Dainik Bhaskar names the seized vehicle as a Hyundai Accent, while the existing report's outlets described it as a Hyundai Aura.
+  - Dainik Bhaskar gives no remand, charge sheet or court outcome; the case stays at the investigation stage.
+  - The page's two images carry no caption, credit or alt text and are not established to show this seizure, so no media entry is added.
 ---
 
 Police in Gautam Buddh Nagar district arrested three men accused of smuggling
@@ -111,7 +119,7 @@ carried out on input from local intelligence and beat policing, the police
 account said. [@2,6,7]
 
 Police seized 55 kg 124 g of ganja from them, which they estimated to be worth
-about ₹55 lakh. [@2,3,4,5,6,7] Officers also recovered a Hyundai Aura car used to supply
+about ₹55 lakh. [@2,3,4,5,6,7,8] Officers also recovered a Hyundai Aura car used to supply
 the drug and three mobile phones. [@1,5,7]
 
 According to the police account, the men bought ganja cheaply in Odisha and
@@ -129,3 +137,5 @@ was supplied. [@1,6,7]
 Police said the men had been running the operation for the past two years, taking bookings through the Telegram app. [@3]
 
 Bisrakh police station registered the case, numbered 846/2026, under sections 8 and 20 of the NDPS Act. [@6]
+
+The seized car is a Hyundai Accent. [@8]
