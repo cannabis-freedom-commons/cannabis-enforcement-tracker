@@ -57,6 +57,11 @@ sources:
     publisher: Lokmat
     date: 2026-11-09
     language: mr
+  - title: कॉलेज तरुणांना अमली पदार्थ विक्री? छत्रपती संभाजीनगरमध्ये 22 वर्षीय तरुणीला अटक
+    url: https://www.instagram.com/p/Dfhx3sMjGJY/
+    publisher: Policenama (Instagram)
+    date: 2026-11-09
+    language: mr
 open_questions:
   - The article gives no separate date for the arrest; 2026-11-09 is the source's publication date and stands in for the event.
   - The captured page is truncated behind an app paywall, so the sentence beginning about the Mukundwadi police station and any further case details could not be read.
@@ -67,18 +72,21 @@ open_questions:
   - Neither account gives a separate date for the arrest; 2026-11-09 is the publication date and stands in for the event.
   - The accounts do not say who the woman's supplier was, what charges were filed, or how the case ended.
   - The reported worth of 46,500 rupees covers the ganja and cash together; no separate cash amount was published.
+  - The Policenama post calls the seized material only "अमली पदार्थ" (narcotics) without naming ganja; the ganja identification and weight rest on the existing Divya Marathi and Lokmat sources.
+  - The Instagram caption gives no separate date or time for the arrest beyond the 9 November 2026 posting date.
+  - The post's attached images carry only generic automated captions and could not be tied to this seizure, so no photo from it is linked.
 ---
 
 In Chhatrapati Sambhajinagar, an anti-narcotics squad caught a 22-year-old woman
-accused of selling ganja to college youth. [@1,2] She allegedly drew youth into
+accused of selling ganja to college youth. [@1,2,4] She allegedly drew youth into
 ganja use through social media. [@1,2]
 
 She was caught near a school in the Rajnagar area of Mukundwadi. [@1,2,3] Officers
 seized 918 grams of ganja from her. [@1,3]
 
 The seized ganja and cash together were recorded as case property worth a total
-of 46,500 rupees. [@1,3]
+of 46,500 rupees. [@1,3,4]
 
-The squad acted on a tip that a woman would come to Rajnagar to sell ganja. [@2] The crime branch is now investigating who supplied her with the ganja and who heads the supply chain. [@2]
+The squad acted on a tip that a woman would come to Rajnagar to sell ganja. [@2,4] The crime branch is now investigating who supplied her with the ganja and who heads the supply chain. [@2]
 
 A case under the anti-drugs (NDPS) law was registered against her at Mukundwadi police station. [@3]
