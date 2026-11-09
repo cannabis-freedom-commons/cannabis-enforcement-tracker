@@ -88,6 +88,11 @@ sources:
     publisher: شبابيك
     date: 2026-11-08
     language: ar
+  - title: 'صندوق مكافحة الإدمان: ضبط 31 سائق حافلات مدرسية يتعاطون المخدرات وإحالتهم للنيابة - أصول مصر'
+    url: https://www.osoulmisrmagazine.com/452091
+    publisher: أصول مصر
+    date: 2026-11-08
+    language: ar
 open_questions:
   - No date is given for the tests or the referrals; 8 November 2026 is when the fund's results were published and is used as the incident date.
   - No governorate breakdown, driver names or school names were published.
@@ -109,15 +114,15 @@ open_questions:
 
 Egypt's Fund for Combating and Treatment of Addiction referred 31 school-bus
 drivers to the public prosecution on a charge of driving under the influence
-after tests showed they had used drugs. [@1,4,5,7,8,9,10] The drivers were caught in early
+after tests showed they had used drugs. [@1,4,5,7,8,9,10,11] The drivers were caught in early
 screening campaigns run during the first two months of the 2026/2027 school
-year. [@1,4,5,8,9]
+year. [@1,4,5,8,9,11]
 
 Of the 31 positive samples, 28 were for hashish and three were for tramadol, a
-prescription opioid. [@1,4,5,6,7,8,9,10] The fund said it coordinated with the education
+prescription opioid. [@1,4,5,6,7,8,9,10,11] The fund said it coordinated with the education
 ministry to dismiss any of the drivers found to be working at schools. [@1,4,7,8]
 
-The tests covered 4,510 drivers in several governorates. [@1,4,5,6,7,8,9,10] The campaigns
+The tests covered 4,510 drivers in several governorates. [@1,4,5,6,7,8,9,10,11] The campaigns
 involved the General Directorate of Drug Control, the General Traffic
 Directorate, the General Secretariat for Mental Health at the health ministry
 and the Central Security Department at the education ministry. [@1,4]
