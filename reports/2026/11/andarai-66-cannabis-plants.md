@@ -63,6 +63,11 @@ sources:
     publisher: Folha de Dourados
     date: 2026-11-07
     language: pt
+  - title: PM apreende 66 pés de maconha em estufa clandestina no Andaraí | Rede MRio
+    url: https://redemrio.com.br/pm-apreende-66-pes-de-maconha-em-estufa-clandestina-no-andarai/
+    publisher: Rede MRio
+    date: 2026-11-05
+    language: pt
 open_questions:
   - No weight for the 66 plants or size of the greenhouse was published.
   - No arrests, charges or court outcome were reported beyond the case being sent to the 19th Precinct for investigation.
@@ -72,7 +77,7 @@ open_questions:
 ---
 
 Military police seized 66 cannabis plants from a clandestine greenhouse on Rua
-Glicia in Morro do Cruz during an operation on Wednesday 4 November 2026. [@1,4] A
+Glicia in Morro do Cruz during an operation on Wednesday 4 November 2026. [@1,4,5] A
 second account confirms the seizure of 66 cannabis plants in the clandestine
 greenhouse on Rua Glicia in Morro do Cruz, Andarai. [@2] A third account also
 reports 66 cannabis plants seized from the greenhouse on Rua Glicia in Morro do
@@ -89,7 +94,7 @@ vehicle theft and locate fugitives from justice. [@1,4]
 During the incursions, officers searched for weapons, illicit materials and
 suspects involved in criminal activity. [@1] During the operation, four
 municipal schools suspended in-person activities for security reasons, according
-to the municipal education department. [@2] The occurrence was sent to the 19th
+to the municipal education department. [@2,5] The occurrence was sent to the 19th
 Police Precinct in Tijuca, which was responsible for the investigation
 procedures. [@1,4] Up to the last update, there was no information on arrests
-linked to the seizure. [@2]
+linked to the seizure. [@2,5]
