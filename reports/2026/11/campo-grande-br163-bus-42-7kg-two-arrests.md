@@ -104,3 +104,4 @@ seized items. [@1] The regional outlet said the material was weighed at Denar,
 the specialised anti-narcotics police station, and that investigators would
 check for links between the two seizures and for other participants. [@2]
 
+The arrest was made by the Força Tática of the 6th Independent Military Police Company. [@1]
