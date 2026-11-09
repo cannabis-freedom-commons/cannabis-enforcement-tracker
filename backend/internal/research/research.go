@@ -825,9 +825,19 @@ func (f *Figures) node() *yaml.Node {
 	return m
 }
 
+// RunLog records research runs and their public transcript: the store when research runs in the
+// backend, the backend's worker API when it runs on a separate worker.
+type RunLog interface {
+	StartRun(ctx context.Context, id, model, runner string) error
+	EndRun(ctx context.Context, id, status, outcome string) error
+	AddAIEvent(ctx context.Context, cid, run, role, kind, text string) error
+	UpdateRun(ctx context.Context, id string, u store.RunUpdate) error
+	FeedChanged(ctx context.Context)
+}
+
 type Runner struct {
 	Config config.Config
-	Store  *store.Store
+	Store  RunLog
 	// A publication race needs a new event-identity decision, not a new source crawl.
 	PreviousResult   *Result
 	PreviousEvidence []safeurl.Evidence
@@ -1043,7 +1053,7 @@ func (s *Session) Correct(ctx context.Context, run, problem string) (result Resu
 	if err := r.Store.StartRun(ctx, run, r.Config.ResearchModel, r.Config.ResearchRunner); err != nil {
 		return Result{}, err
 	}
-	if _, err := r.Store.DB.ExecContext(ctx, "UPDATE research_runs SET context_mode=? WHERE id=?", r.contextMode(), run); err != nil {
+	if err := r.Store.UpdateRun(ctx, run, store.RunUpdate{ContextMode: ptr(r.contextMode())}); err != nil {
 		return Result{}, err
 	}
 	if err := r.Store.AddAIEvent(ctx, s.cid, run, "user", "request", "The answer did not pass the service checks. Correct it in the same session using the sources already read: "+problem); err != nil {
@@ -1075,7 +1085,7 @@ func (r Runner) Resume(ctx context.Context, cid, dir, run string) (result Result
 		r.abandon(cid, run)
 		return Result{}, nil, err
 	}
-	if _, err := r.Store.DB.ExecContext(ctx, "UPDATE research_runs SET workspace=?,context_mode=? WHERE id=?", dir, r.contextMode(), run); err != nil {
+	if err := r.Store.UpdateRun(ctx, run, store.RunUpdate{Workspace: ptr(dir), ContextMode: ptr(r.contextMode())}); err != nil {
 		r.abandon(cid, run)
 		return Result{}, nil, err
 	}
@@ -1103,7 +1113,7 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 		}
 	}()
 
-	_, err := r.Store.DB.ExecContext(ctx, "UPDATE research_runs SET workspace=? WHERE id=?", dir, run)
+	err := r.Store.UpdateRun(ctx, run, store.RunUpdate{Workspace: ptr(dir)})
 	if err != nil {
 		return Result{}, nil, err
 	}
@@ -1282,7 +1292,7 @@ func (r Runner) Start(ctx context.Context, cid, dir, run string, e safeurl.Evide
 		files[".opencode/agents/enforcement-researcher.md"] = agent
 		r.prompt = inlineContext(request, files, e, text)
 	}
-	if _, err = r.Store.DB.ExecContext(ctx, "UPDATE research_runs SET context_mode=? WHERE id=?", r.contextMode(), run); err != nil {
+	if err = r.Store.UpdateRun(ctx, run, store.RunUpdate{ContextMode: ptr(r.contextMode())}); err != nil {
 		return Result{}, nil, err
 	}
 	files["opencode.json"] = r.modelConfig()
@@ -1813,3 +1823,5 @@ func (r Runner) RestoreCheckout(ctx context.Context, cid, dir string) error {
 	}
 	return nil
 }
+
+func ptr[T any](v T) *T { return &v }

@@ -6,7 +6,6 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
-	"time"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
@@ -28,8 +27,7 @@ func (w *Worker) loadSourceDirect(ctx context.Context, cid, raw string) (safeurl
 	evidence, err := safeurl.FetchRendered(ctx, raw, dir, filepath.Join(w.Config.RepoPath, "scripts/source-browser.mjs"))
 	if evidence.Rendered {
 		evidence.CaptureID = capture
-		_, dbErr := w.Store.DB.ExecContext(ctx, "INSERT INTO source_captures(id,case_id,url,artifact_dir,created_at) VALUES(?,?,?,?,?)", capture, cid, evidence.URL, evidence.ArtifactDir, time.Now().Unix())
-		if dbErr != nil {
+		if dbErr := w.backend().RecordCapture(ctx, cid, evidence); dbErr != nil {
 			return evidence, dbErr
 		}
 	}

@@ -286,7 +286,7 @@ func logExcerpt(value string, limit int) string {
 	return value
 }
 
-func checkAgents(ctx context.Context, c config.Config, s *store.Store, health *research.Health) {
+func checkAgents(ctx context.Context, c config.Config, s research.RunLog, health *research.Health) {
 	var wg sync.WaitGroup
 	for _, agent := range c.Agents() {
 		wg.Add(1)

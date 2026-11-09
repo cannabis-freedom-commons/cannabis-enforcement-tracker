@@ -140,7 +140,11 @@ func (w *Worker) requeueCoverageReview(ctx context.Context, j store.Job, content
 // A malformed result or unmatched merge target gets one correction attempt with saved
 // evidence. The service still runs all schema, quotation, merge and publication checks.
 func (w *Worker) requeueResearchReview(ctx context.Context, j store.Job, content []byte, problem string) error {
-	tx, err := w.Store.DB.BeginTx(ctx, nil)
+	return w.backend().RequeueReview(ctx, j, content, problem)
+}
+
+func (b Local) RequeueReview(ctx context.Context, j store.Job, content []byte, problem string) error {
+	tx, err := b.DB.BeginTx(ctx, nil)
 	if err != nil {
 		return err
 	}

@@ -52,7 +52,7 @@ type executionEvent struct {
 }
 type eventWriter struct {
 	ctx              context.Context
-	store            *store.Store
+	store            RunLog
 	cid, run, secret string
 	dir              string // the job's workspace: its host path never reaches the public chat
 	buffer           []byte
@@ -331,7 +331,7 @@ func (w *eventWriter) handle(line []byte) error {
 		session = e.Part.SessionID
 	}
 	if sessionPattern.MatchString(session) {
-		if _, err := w.store.DB.ExecContext(w.ctx, "UPDATE research_runs SET session_id=? WHERE id=? AND session_id<>?", session, w.run, session); err != nil {
+		if err := w.store.UpdateRun(w.ctx, w.run, store.RunUpdate{SessionID: &session}); err != nil {
 			return err
 		}
 	}
@@ -339,7 +339,7 @@ func (w *eventWriter) handle(line []byte) error {
 	if e.Type == "step_finish" {
 		if e.Part.Tokens.Input >= 0 && e.Part.Tokens.Output >= 0 && e.Part.Tokens.Input < 20000000 && e.Part.Tokens.Output < 20000000 && !math.IsNaN(e.Part.Cost) && e.Part.Cost >= 0 && e.Part.Cost < 1000 {
 			t := e.Part.Tokens
-			if _, err := w.store.DB.ExecContext(w.ctx, "UPDATE research_runs SET input_tokens=input_tokens+?,output_tokens=output_tokens+?,reasoning_tokens=reasoning_tokens+?,cache_read_tokens=cache_read_tokens+?,cache_write_tokens=cache_write_tokens+?,cost_usd=cost_usd+?,tokens_backfilled=1 WHERE id=?", t.Input, t.Output, max(0, t.Reasoning), max(0, t.Cache.Read), max(0, t.Cache.Write), e.Part.Cost, w.run); err != nil {
+			if err := w.store.UpdateRun(w.ctx, w.run, store.RunUpdate{Usage: &store.RunUsage{Input: t.Input, Output: t.Output, Reasoning: t.Reasoning, CacheRead: t.Cache.Read, CacheWrite: t.Cache.Write, Cost: e.Part.Cost}}); err != nil {
 				return err
 			}
 			w.steps++

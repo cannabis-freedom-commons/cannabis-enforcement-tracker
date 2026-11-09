@@ -133,3 +133,51 @@ func (s *Store) aiActivity(ctx context.Context, submissionID string, after int64
 	return out, nil
 }
 func IsMissingAI(err error) bool { return errors.Is(err, sql.ErrNoRows) }
+
+// RunUsage is one model step's token use and cost, added to its run.
+type RunUsage struct {
+	Input, Output, Reasoning, CacheRead, CacheWrite int64
+	Cost                                            float64
+}
+
+// RunUpdate changes a research run's details; nil fields stay as they are.
+type RunUpdate struct {
+	Model, Runner, Status, Workspace, ContextMode, SessionID *string
+	Usage                                                    *RunUsage
+}
+
+// UpdateRun records what a research run learned about itself: its workspace, starting-context
+// mode, OpenCode session and the tokens each step used.
+func (s *Store) UpdateRun(ctx context.Context, id string, u RunUpdate) error {
+	set := func(column string, v *string) error {
+		if v == nil {
+			return nil
+		}
+		_, err := s.DB.ExecContext(ctx, "UPDATE research_runs SET "+column+"=? WHERE id=?", *v, id)
+		return err
+	}
+	for _, f := range []struct {
+		column string
+		v      *string
+	}{{"model", u.Model}, {"runner", u.Runner}, {"status", u.Status}, {"workspace", u.Workspace}, {"context_mode", u.ContextMode}} {
+		if err := set(f.column, f.v); err != nil {
+			return err
+		}
+	}
+	if u.SessionID != nil {
+		if _, err := s.DB.ExecContext(ctx, "UPDATE research_runs SET session_id=? WHERE id=? AND session_id<>?", *u.SessionID, id, *u.SessionID); err != nil {
+			return err
+		}
+	}
+	if t := u.Usage; t != nil {
+		if _, err := s.DB.ExecContext(ctx, "UPDATE research_runs SET input_tokens=input_tokens+?,output_tokens=output_tokens+?,reasoning_tokens=reasoning_tokens+?,cache_read_tokens=cache_read_tokens+?,cache_write_tokens=cache_write_tokens+?,cost_usd=cost_usd+?,tokens_backfilled=1 WHERE id=?", t.Input, t.Output, max(0, t.Reasoning), max(0, t.CacheRead), max(0, t.CacheWrite), t.Cost, id); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+// FeedChanged tells open request pages to refresh (the agents' health changed, for example).
+func (s *Store) FeedChanged(ctx context.Context) {
+	_, _ = s.DB.ExecContext(ctx, "UPDATE submission_feed_version SET version=version+1 WHERE singleton=1")
+}

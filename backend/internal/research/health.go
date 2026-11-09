@@ -265,6 +265,6 @@ func (r Runner) Check(ctx context.Context, h *Health) {
 	}
 	h.Set(state)
 	if r.Store != nil {
-		_, _ = r.Store.DB.ExecContext(ctx, "UPDATE submission_feed_version SET version=version+1 WHERE singleton=1")
+		r.Store.FeedChanged(ctx)
 	}
 }

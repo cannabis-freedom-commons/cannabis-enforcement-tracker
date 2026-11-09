@@ -55,17 +55,12 @@ func (w *Worker) commonTitleWords(ctx context.Context) map[string]bool {
 	if titleWords.common != nil && time.Since(titleWords.at) < 10*time.Minute {
 		return titleWords.common
 	}
-	rows, err := w.Store.Reader().QueryContext(ctx, "SELECT source_check FROM cases WHERE updated_at>? AND source_check<>''", time.Now().Add(-72*time.Hour).Unix())
+	checks, err := w.backend().RecentSourceChecks(ctx)
 	if err != nil {
 		return titleWords.common
 	}
-	defer rows.Close()
 	frequency, n := map[string]int{}, 0
-	for rows.Next() {
-		var raw string
-		if rows.Scan(&raw) != nil {
-			continue
-		}
+	for _, raw := range checks {
 		n++
 		for word := range research.StoryTokens(sourceHeadline(raw)) {
 			frequency[word]++
@@ -151,25 +146,15 @@ func (w *Worker) relatedRunning(ctx context.Context, cid, headline string) (stri
 	if len(mine) < 3 {
 		return "", nil
 	}
-	rows, err := w.Store.Reader().QueryContext(ctx, `SELECT c.id, c.source_check FROM cases c
-    WHERE c.id<>? AND c.source_check<>'' AND c.status IN ('researching','verifying','drafted','publishing')
-    AND EXISTS(SELECT 1 FROM jobs j WHERE j.ref=c.id AND ((j.kind='research' AND j.status='running' AND j.lease_until>?) OR j.kind='publish'))`, cid, time.Now().Unix())
+	checks, err := w.backend().ResearchingSourceChecks(ctx, cid)
 	if err != nil {
 		return "", err
 	}
-	defer rows.Close()
 	var related []string
-	for rows.Next() {
-		var other, raw string
-		if err := rows.Scan(&other, &raw); err != nil {
-			return "", err
-		}
+	for other, raw := range checks {
 		if relatedStory(mine, w.storyWords(ctx, sourceHeadline(raw))) {
 			related = append(related, other)
 		}
-	}
-	if err := rows.Err(); err != nil {
-		return "", err
 	}
 	sort.Strings(related)
 	if len(related) == 0 {
@@ -181,8 +166,12 @@ func (w *Worker) relatedRunning(ctx context.Context, cid, headline string) (stri
 // holdBack puts the job back for a few minutes without counting it as an attempt, and says why on
 // the request; it stops holding after maxHolds times.
 func (w *Worker) holdBack(ctx context.Context, j store.Job, other string) (bool, error) {
+	return w.backend().HoldBack(ctx, j, other)
+}
+
+func (b Local) HoldBack(ctx context.Context, j store.Job, other string) (bool, error) {
 	var holds int
-	if err := w.Store.DB.QueryRowContext(ctx, `SELECT count(*) FROM submission_history h JOIN submissions s ON s.id=h.submission_id
+	if err := b.DB.QueryRowContext(ctx, `SELECT count(*) FROM submission_history h JOIN submissions s ON s.id=h.submission_id
     WHERE s.case_id=? AND h.explanation LIKE 'Waiting for a related submission%' AND s.rowid=(SELECT min(rowid) FROM submissions WHERE case_id=?)`, j.Ref, j.Ref).Scan(&holds); err != nil {
 		return false, err
 	}
@@ -190,10 +179,10 @@ func (w *Worker) holdBack(ctx context.Context, j store.Job, other string) (bool,
 		return false, nil
 	}
 	var receipt string
-	if err := w.Store.DB.QueryRowContext(ctx, "SELECT id FROM submissions WHERE case_id=? ORDER BY created_at, rowid LIMIT 1", other).Scan(&receipt); err != nil && !errors.Is(err, sql.ErrNoRows) {
+	if err := b.DB.QueryRowContext(ctx, "SELECT id FROM submissions WHERE case_id=? ORDER BY created_at, rowid LIMIT 1", other).Scan(&receipt); err != nil && !errors.Is(err, sql.ErrNoRows) {
 		return false, err
 	}
-	tx, err := w.Store.DB.BeginTx(ctx, nil)
+	tx, err := b.DB.BeginTx(ctx, nil)
 	if err != nil {
 		return false, err
 	}

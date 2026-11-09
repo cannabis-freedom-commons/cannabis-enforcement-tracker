@@ -35,7 +35,7 @@ func TestOverlapReasonKeepsModelAssessmentAndPublicLinks(t *testing.T) {
 	assessment := `{"explanation":"The article supports a new report.","decision_title":"A supported sentencing event"}`
 	s.SetCaseOutput(ctx, b.CaseID, map[string]string{"ai_result": assessment})
 	w := Worker{Store: s}
-	if err = w.rejectSourceOverlap(ctx, b.CaseID, a.CaseID, "https://news.example/shared", research.Validation{Passed: true}); err != nil {
+	if err = w.backend().RejectSourceOverlap(ctx, b.CaseID, a.CaseID, "https://news.example/shared", research.Validation{Passed: true}); err != nil {
 		t.Fatal(err)
 	}
 	got, err := s.Get(ctx, current)
@@ -76,17 +76,17 @@ func TestSourceOfACaseWithoutAReportPassesOn(t *testing.T) {
 	w := Worker{Store: s}
 	shared := "https://news.example/shared"
 	// a queued case recorded the source first: it holds nothing, so the next case takes the source
-	if owner, err := w.claimSource(ctx, ids[0], shared, shared, "d"); err != nil || owner != ids[0] {
+	if owner, err := w.backend().ClaimSource(ctx, ids[0], shared, shared, "d"); err != nil || owner != ids[0] {
 		t.Fatal(owner, err)
 	}
-	if owner, err := w.claimSource(ctx, ids[1], shared, shared, "d"); err != nil || owner != ids[1] {
+	if owner, err := w.backend().ClaimSource(ctx, ids[1], shared, shared, "d"); err != nil || owner != ids[1] {
 		t.Fatal("a queued case blocked the source", owner, err)
 	}
 	// a case that made a report from it keeps it
 	if _, err = s.DB.Exec("UPDATE cases SET status='committed',report_slug='a-report' WHERE id=?", ids[1]); err != nil {
 		t.Fatal(err)
 	}
-	if owner, err := w.claimSource(ctx, ids[2], shared, shared, "d"); err != nil || owner != ids[1] {
+	if owner, err := w.backend().ClaimSource(ctx, ids[2], shared, shared, "d"); err != nil || owner != ids[1] {
 		t.Fatal("a committed case lost its source", owner, err)
 	}
 }

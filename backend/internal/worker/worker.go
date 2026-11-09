@@ -22,13 +22,24 @@ import (
 )
 
 type Worker struct {
-	Store  *store.Store
+	// Store is the database of the backend process; a separate worker has none and reaches the
+	// backend through Backend instead.
+	Store   *store.Store
+	Backend Backend
 	Config config.Config
 	Nostr  *nostr.Service
 	Health *research.Health
 	// FetchImage downloads a photo for the duplicate check; tests replace it
 	FetchImage      func(context.Context, string) ([]byte, error)
 	observeResearch func(error)
+}
+
+// backend is how research reaches the database: Backend when set, else the store.
+func (w *Worker) backend() Backend {
+	if w.Backend != nil {
+		return w.Backend
+	}
+	return Local{w.Store}
 }
 
 func (w *Worker) Run(parent context.Context) {
@@ -55,7 +66,7 @@ func (w *Worker) Run(parent context.Context) {
 	pool := newAgentPool(w.Config, w.Health)
 	var wg sync.WaitGroup
 	if !w.Config.Demo && len(pool.agents) > 0 {
-		wg.Go(func() { pool.recoverAgents(ctx, w.Config, w.Store) })
+		wg.Go(func() { pool.recoverAgents(ctx, w.Config, w.backend()) })
 	}
 	// job storage: build leftovers and finished requests' workspaces are cleaned up
 	wg.Add(1)
@@ -201,33 +212,28 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 	if j.Kind == "publish" {
 		return w.publish(ctx, j)
 	}
-	var publicationQueued int
-	if err := w.Store.DB.QueryRowContext(ctx, "SELECT count(*) FROM jobs WHERE kind='publish' AND ref=?", j.Ref).Scan(&publicationQueued); err != nil {
+	db := w.backend()
+	u, status, publicationQueued, err := db.CaseSource(ctx, j.Ref)
+	if err != nil {
 		return err
 	}
-	if publicationQueued > 0 {
+	if publicationQueued {
 		return nil
-	}
-
-	var u, status, pr string
-	if err := w.Store.DB.QueryRowContext(ctx, "SELECT canonical_url,status,pr_url FROM cases WHERE id=?", j.Ref).Scan(&u, &status, &pr); err != nil {
-		return err
 	}
 	if store.Terminal(status) {
 		return nil
 	}
 	if w.Config.Demo {
 		for _, state := range []string{"fetching", "classifying", "researching"} {
-			if err := w.Store.Transition(ctx, j.Ref, state, "Demonstration worker: no source research or publication has occurred.", "", ""); err != nil {
+			if err := db.Transition(ctx, j.Ref, state, "Demonstration worker: no source research or publication has occurred.", "", ""); err != nil {
 				return err
 			}
 		}
-		return w.Store.Transition(ctx, j.Ref, w.uncertainOutcome(), "Demonstration complete. No AI research or publication occurred.", "", "")
+		return db.Transition(ctx, j.Ref, w.uncertainOutcome(), "Demonstration complete. No AI research or publication occurred.", "", "")
 	}
 	var checkpoint researchCheckpoint
-	var saved string
-	err := w.Store.DB.QueryRowContext(ctx, "SELECT payload FROM research_checkpoints WHERE case_id=?", j.Ref).Scan(&saved)
-	if err != nil && !errors.Is(err, sql.ErrNoRows) {
+	saved, err := db.Checkpoint(ctx, j.Ref)
+	if err != nil {
 		return err
 	}
 	var result research.Result
@@ -237,7 +243,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 	var session *research.Session
 	defer func() { session.Close() }()
 	var baseEvidence []safeurl.Evidence
-	if err == nil {
+	if saved != "" {
 		if err = json.Unmarshal([]byte(saved), &checkpoint); err != nil {
 			return fmt.Errorf("invalid research checkpoint: %w", err)
 		}
@@ -283,7 +289,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		initial.ArtifactDir = checkpoint.ArtifactDir
 		// Build in a fresh trusted snapshot: the previous checkout may have been
 		// interrupted after writing/moving the draft, or the site may have changed.
-		dir, err = (research.Runner{Config: w.Config, Store: w.Store}).Snapshot(ctx, j.Ref)
+		dir, err = (research.Runner{Config: w.Config, Store: db}).Snapshot(ctx, j.Ref)
 		if err != nil {
 			return err
 		}
@@ -307,11 +313,11 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 				for _, source := range r.Sources {
 					known, err := safeurl.Normalize(source.URL)
 					if err == nil && known == u {
-						return w.Store.Transition(ctx, j.Ref, "duplicate", "This source is already cited in an existing report.", r.Slug, "")
+						return db.Transition(ctx, j.Ref, "duplicate", "This source is already cited in an existing report.", r.Slug, "")
 					}
 				}
 			}
-			if err = w.Store.Transition(ctx, j.Ref, "fetching", "Opening the submitted source.", "", ""); err != nil {
+			if err = db.Transition(ctx, j.Ref, "fetching", "Opening the submitted source.", "", ""); err != nil {
 				return err
 			}
 			initial, err = w.loadSource(ctx, j.Ref, u)
@@ -320,10 +326,10 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			}
 			sourceCheck, _ := safeurl.Check(initial)
 			if b, e := json.Marshal(sourceCheck); e == nil && (initial.Content != "" || initial.Rendered || initial.BrowserWarning != "") {
-				_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"source_check": string(b)})
+				_ = db.SetCaseOutput(ctx, j.Ref, map[string]string{"source_check": string(b)})
 			}
 			if errors.Is(err, safeurl.ErrUnsafeDestination) {
-				return w.Store.Transition(ctx, j.Ref, "insufficient_evidence", "The source destination is not permitted for public research.", "", "")
+				return db.Transition(ctx, j.Ref, "insufficient_evidence", "The source destination is not permitted for public research.", "", "")
 			}
 			if captureStorageError(err) {
 				return err // retry local storage failures rather than blaming the source
@@ -331,18 +337,18 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			// The source check: the submitted page itself must load, be readable and be about cannabis before
 			// any AI research. A report rests on the source that was sent, not on whatever else can be found.
 			if err != nil {
-				return w.Store.Transition(ctx, j.Ref, "source_unavailable", "The submitted page could not be loaded: "+err.Error()+". Send a link that opens without a login or paywall, or another report of the same event.", "", "")
+				return db.Transition(ctx, j.Ref, "source_unavailable", "The submitted page could not be loaded: "+err.Error()+". Send a link that opens without a login or paywall, or another report of the same event.", "", "")
 			}
 			check, err := safeurl.Check(initial)
 			if b, jerr := json.Marshal(check); jerr == nil {
-				_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"source_check": string(b)})
+				_ = db.SetCaseOutput(ctx, j.Ref, map[string]string{"source_check": string(b)})
 			}
 			if err != nil {
-				return w.Store.Transition(ctx, j.Ref, "source_unavailable", "The submitted page loaded, but "+err.Error()+". Send a link to a page with the article text.", "", "")
+				return db.Transition(ctx, j.Ref, "source_unavailable", "The submitted page loaded, but "+err.Error()+". Send a link to a page with the article text.", "", "")
 			}
 			// Vocabulary is an advisory hint, not a complete classifier of every language.
 			// OpenCode determines relevance from the opened article even when no term matched.
-			if err = w.Store.Transition(ctx, j.Ref, "classifying", check.Describe(), "", ""); err != nil {
+			if err = db.Transition(ctx, j.Ref, "classifying", check.Describe(), "", ""); err != nil {
 				return err
 			}
 			// the same story already being researched from another source: wait for it (related_hold.go)
@@ -362,11 +368,12 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 				}
 			}
 		}
-		run, err := w.Store.Reserve(ctx, j.Ref, "", w.Config.RunCents, w.Config.DailyCents)
+		run, err := db.Reserve(ctx, j.Ref, w.Config.RunCents, w.Config.DailyCents)
 		if err != nil {
 			return err
 		}
-		if _, err = w.Store.DB.ExecContext(ctx, "UPDATE research_runs SET model=?,runner=?,status='preparing' WHERE id=?", w.Config.ResearchModel, w.Config.ResearchRunner, run); err != nil {
+		preparing := "preparing"
+		if err = db.UpdateRun(ctx, run, store.RunUpdate{Model: &w.Config.ResearchModel, Runner: &w.Config.ResearchRunner, Status: &preparing}); err != nil {
 			return err
 		}
 		invoked := false
@@ -374,11 +381,11 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			if !invoked {
 				end, cancel := context.WithTimeout(context.Background(), 5*time.Second)
 				defer cancel()
-				_ = w.Store.EndRun(end, run, "failed", "")
-				_ = w.Store.AddAIEvent(end, j.Ref, run, "system", "error", "The research workspace could not be prepared. The worker will retry automatically.")
+				_ = db.EndRun(end, run, "failed", "")
+				_ = db.AddAIEvent(end, j.Ref, run, "system", "error", "The research workspace could not be prepared. The worker will retry automatically.")
 			}
 		}()
-		runner := research.Runner{Config: w.Config, Store: w.Store, ContextMode: research.ContextModeFor(w.Config.ResearchContext, j.Ref)}
+		runner := research.Runner{Config: w.Config, Store: db, ContextMode: research.ContextModeFor(w.Config.ResearchContext, j.Ref)}
 		if checkpoint.ReviewCoverage {
 			runner.PreviousResult = &checkpoint.Result
 			runner.PreviousEvidence = checkpoint.Evidence
@@ -405,7 +412,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		if resumed != "" {
 			explanation = "The research was interrupted. OpenCode is continuing the same research session from where it stopped."
 		}
-		if err = w.Store.Transition(ctx, j.Ref, "researching", explanation, "", ""); err != nil {
+		if err = db.Transition(ctx, j.Ref, "researching", explanation, "", ""); err != nil {
 			return err
 		}
 		// The index and original Markdown must describe the same snapshot. Fetching
@@ -441,7 +448,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		}
 		baseEvidence = checkpoint.Evidence
 		checkpoint = researchCheckpoint{Result: result, Initial: initial, Evidence: append(append([]safeurl.Evidence(nil), baseEvidence...), research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: initial.ArtifactDir, Coverage: eventCoverage(reports, result), AliasDigest: aliasDigest, AddedAt: checkpoint.AddedAt, Code: checkpoint.Code, RepairAttempts: checkpoint.RepairAttempts}
-		if _, err = w.Store.DB.ExecContext(ctx, "INSERT INTO research_checkpoints(case_id,payload,created_at) VALUES(?,?,?) ON CONFLICT(case_id) DO UPDATE SET payload=excluded.payload,created_at=excluded.created_at", j.Ref, store.JSON(checkpoint), time.Now().Unix()); err != nil {
+		if err = db.SaveCheckpoint(ctx, j.Ref, store.JSON(checkpoint)); err != nil {
 			return err
 		}
 	}
@@ -450,7 +457,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 	for {
 		result.CleanPresentation()
 		// the answer is public: the request page shows it as a report, whatever happens to it next
-		_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": "", "draft_markdown": ""})
+		_ = db.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": "", "draft_markdown": ""})
 		b, err := os.ReadFile(filepath.Join(w.Config.RepoPath, "src/data/countries.json"))
 		if err != nil {
 			return err
@@ -487,12 +494,12 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 				}
 				return w.requeueResearchReview(ctx, j, nil, problem)
 			}
-			return w.Store.Transition(ctx, j.Ref, "failed", "The AI result did not pass validation ("+err.Error()+") and cannot be published automatically.", "", "")
+			return db.Transition(ctx, j.Ref, "failed", "The AI result did not pass validation ("+err.Error()+") and cannot be published automatically.", "", "")
 		}
 		// Scope decisions do not draft facts. They must not fail quotation checks for
 		// having no quotations, or download corroborating pages unnecessarily.
 		if !result.Drafts() {
-			if err = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"validation": ""}); err != nil {
+			if err = db.SetCaseOutput(ctx, j.Ref, map[string]string{"validation": ""}); err != nil {
 				return err
 			}
 			outcome := result.Outcome
@@ -511,10 +518,10 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 					}
 				}
 				if matched == "" {
-					return w.Store.Transition(ctx, j.Ref, "failed", "The proposed duplicate names a report that is no longer available. Restart to check the current coverage.", "", "")
+					return db.Transition(ctx, j.Ref, "failed", "The proposed duplicate names a report that is no longer available. Restart to check the current coverage.", "", "")
 				}
 			}
-			return w.Store.Transition(ctx, j.Ref, outcome, result.Explanation, matched, "")
+			return db.Transition(ctx, j.Ref, outcome, result.Explanation, matched, "")
 		}
 		if result.Outcome == "new_event" {
 			current, err := Coverage(w.Config.RepoPath)
@@ -535,16 +542,16 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 
 		// a blocked extra source or a missing quotation is noted and worked around; only a really bad
 		// answer (nothing confirmed, or most quotations missing) stops here
-		if err = w.Store.Transition(ctx, j.Ref, "verifying", "Checking every quotation against saved source captures; opening sources not already captured.", "", ""); err != nil {
+		if err = db.Transition(ctx, j.Ref, "verifying", "Checking every quotation against saved source captures; opening sources not already captured.", "", ""); err != nil {
 			return err
 		}
 		confirmed, evidence, check, err := result.Confirm(ctx, initial, func(ctx context.Context, u string) (safeurl.Evidence, error) { return w.loadSource(ctx, j.Ref, u) }, checkpoint.Evidence...)
 		if ctx.Err() != nil {
 			return ctx.Err()
 		}
-		_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"validation": store.JSON(check)})
+		_ = db.SetCaseOutput(ctx, j.Ref, map[string]string{"validation": store.JSON(check)})
 		if err != nil {
-			return w.Store.Transition(ctx, j.Ref, w.uncertainOutcome(), "The facts could not be confirmed in the sources ("+err.Error()+").", "", "")
+			return db.Transition(ctx, j.Ref, w.uncertainOutcome(), "The facts could not be confirmed in the sources ("+err.Error()+").", "", "")
 		}
 		result = confirmed
 		if result.Outcome == "new_event" {
@@ -567,10 +574,10 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 					}
 					return w.requeueResearchReview(ctx, j, nil, problem)
 				}
-				return w.Store.Transition(ctx, j.Ref, "failed", "The proposed new report could not establish a supported distinction from existing coverage after automatic review. No new report was published.", "", "")
+				return db.Transition(ctx, j.Ref, "failed", "The proposed new report could not establish a supported distinction from existing coverage after automatic review. No new report was published.", "", "")
 			}
 		}
-		_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result)})
+		_ = db.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result)})
 		if err = research.SaveEvidence(dir, evidence); err != nil {
 			return err
 		}
@@ -602,20 +609,20 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 		}
 		for _, e := range evidence {
 			sum := sha256.Sum256([]byte(e.Content))
-			sourceCase, err := w.claimSource(ctx, j.Ref, e.URL, e.FinalURL, hex.EncodeToString(sum[:]))
+			sourceCase, err := db.ClaimSource(ctx, j.Ref, e.URL, e.FinalURL, hex.EncodeToString(sum[:]))
 			if err != nil {
 				return err
 			}
 			if sourceCase != j.Ref && !known[e.URL] && !known[e.FinalURL] {
-				return w.rejectSourceOverlap(ctx, j.Ref, sourceCase, e.URL, check)
+				return db.RejectSourceOverlap(ctx, j.Ref, sourceCase, e.URL, check)
 			}
 		}
-		if err = w.Store.Transition(ctx, j.Ref, "drafted", "A cited draft is being checked against the repository rules.", "", ""); err != nil {
+		if err = db.Transition(ctx, j.Ref, "drafted", "A cited draft is being checked against the repository rules.", "", ""); err != nil {
 			return err
 		}
 		// a new report keeps the submission it came from (the first one for this case), for reference;
 		// updates of existing reports keep theirs
-		if err = w.Store.DB.QueryRowContext(ctx, "SELECT id FROM submissions WHERE case_id=? ORDER BY created_at, id LIMIT 1", j.Ref).Scan(&result.Submission); err != nil {
+		if result.Submission, err = db.FirstSubmission(ctx, j.Ref); err != nil {
 			return err
 		}
 		// a picture whose caption admits it is generic (file, stock, not known to show the event) is
@@ -650,7 +657,7 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			return ctx.Err()
 		}
 		if errors.Is(err, research.ErrUnchanged) {
-			return w.Store.Transition(ctx, j.Ref, "duplicate", "The existing report already cites these sources, so nothing was added.", result.ExistingReport, "")
+			return db.Transition(ctx, j.Ref, "duplicate", "The existing report already cites these sources, so nothing was added.", result.ExistingReport, "")
 		}
 		if err != nil {
 			if errors.Is(err, research.ErrMergeTarget) && checkpoint.RepairAttempts < 1 {
@@ -665,9 +672,9 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			}
 			var build *research.BuildError
 			if errors.As(err, &build) {
-				return w.Store.Transition(ctx, j.Ref, "failed", "The AI's draft did not pass the report check:\n\n"+build.Detail+"\n\nRestart to research and draft it again.", "", "")
+				return db.Transition(ctx, j.Ref, "failed", "The AI's draft did not pass the report check:\n\n"+build.Detail+"\n\nRestart to research and draft it again.", "", "")
 			}
-			return w.Store.Transition(ctx, j.Ref, "failed", "The draft could not be prepared for the report build ("+err.Error()+"). Restart to try again.", "", "")
+			return db.Transition(ctx, j.Ref, "failed", "The draft could not be prepared for the report build ("+err.Error()+"). Restart to try again.", "", "")
 		}
 		// the request page lists the reports this run changes: keep only the updates that change something
 		applied := map[string]bool{}
@@ -684,18 +691,10 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 			}
 		}
 		result.Updates = kept
-		_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": draft.Path, "draft_markdown": draft.Content})
+		_ = db.SetCaseOutput(ctx, j.Ref, map[string]string{"ai_result": store.JSON(result), "draft_path": draft.Path, "draft_markdown": draft.Content})
 		digest := sha256.Sum256([]byte(draft.Content))
 		payload := draftJob{Dir: dir, Rel: draft.Path, PreviousRel: draft.PreviousPath, Slug: draft.Slug, Title: draft.Title, Digest: hex.EncodeToString(digest[:]), SourceOnly: result.Outcome == "additional_source", Updates: updates, Coverage: checkpoint.Coverage, AliasDigest: checkpoint.AliasDigest, IdentityResult: &result}
-		tx, err := w.Store.DB.BeginTx(ctx, nil)
-		if err != nil {
-			return err
-		}
-		defer tx.Rollback()
-		if err = store.Enqueue(tx, "jobs", "publish", j.Ref, store.JSON(payload), time.Now().Unix()); err != nil {
-			return err
-		}
-		return tx.Commit()
+		return db.QueuePublish(ctx, j, payload)
 	}
 }
 
@@ -705,18 +704,20 @@ func (w *Worker) process(ctx context.Context, j store.Job) error {
 func (w *Worker) correctInSession(ctx context.Context, j store.Job, session *research.Session, checkpoint *researchCheckpoint, problem, dir string, baseEvidence []safeurl.Evidence) (research.Result, error) {
 	checkpoint.ReviewCoverage, checkpoint.ReviewProblem = true, problem
 	checkpoint.RepairAttempts++
-	if _, err := w.Store.DB.ExecContext(ctx, "UPDATE research_checkpoints SET payload=? WHERE case_id=?", store.JSON(*checkpoint), j.Ref); err != nil {
+	db := w.backend()
+	if err := db.SaveCheckpoint(ctx, j.Ref, store.JSON(*checkpoint)); err != nil {
 		return research.Result{}, err
 	}
-	_ = w.Store.SetCaseOutput(ctx, j.Ref, map[string]string{"draft_path": "", "draft_markdown": ""})
-	if err := w.Store.Transition(ctx, j.Ref, "researching", "The proposed result needs a correction. OpenCode is fixing it in the same research session; all evidence and report checks still apply.", "", ""); err != nil {
+	_ = db.SetCaseOutput(ctx, j.Ref, map[string]string{"draft_path": "", "draft_markdown": ""})
+	if err := db.Transition(ctx, j.Ref, "researching", "The proposed result needs a correction. OpenCode is fixing it in the same research session; all evidence and report checks still apply.", "", ""); err != nil {
 		return research.Result{}, err
 	}
-	run, err := w.Store.Reserve(ctx, j.Ref, dir, w.Config.RunCents, w.Config.DailyCents)
+	run, err := db.Reserve(ctx, j.Ref, w.Config.RunCents, w.Config.DailyCents)
 	if err != nil {
 		return research.Result{}, err
 	}
-	if _, err = w.Store.DB.ExecContext(ctx, "UPDATE research_runs SET model=?,runner=?,status='preparing' WHERE id=?", w.Config.ResearchModel, w.Config.ResearchRunner, run); err != nil {
+	preparing := "preparing"
+	if err = db.UpdateRun(ctx, run, store.RunUpdate{Model: &w.Config.ResearchModel, Runner: &w.Config.ResearchRunner, Status: &preparing, Workspace: &dir}); err != nil {
 		return research.Result{}, err
 	}
 	result, err := session.Correct(ctx, run, problem)
@@ -742,7 +743,7 @@ func (w *Worker) correctInSession(ctx context.Context, j store.Job, session *res
 		return research.Result{}, err
 	}
 	*checkpoint = researchCheckpoint{Result: result, Initial: checkpoint.Initial, Evidence: append(append([]safeurl.Evidence(nil), baseEvidence...), research.ReadToolEvidence(dir)...), Dir: dir, Model: result.CreatedByModel, ArtifactDir: checkpoint.ArtifactDir, Coverage: eventCoverage(reports, result), AliasDigest: aliasDigest, AddedAt: addedAt, Code: code, RepairAttempts: checkpoint.RepairAttempts}
-	if _, err = w.Store.DB.ExecContext(ctx, "UPDATE research_checkpoints SET payload=? WHERE case_id=?", store.JSON(*checkpoint), j.Ref); err != nil {
+	if err = db.SaveCheckpoint(ctx, j.Ref, store.JSON(*checkpoint)); err != nil {
 		return research.Result{}, err
 	}
 	return result, nil
@@ -865,59 +866,10 @@ func (w *Worker) publish(ctx context.Context, j store.Job) error {
 	return w.Store.Transition(ctx, j.Ref, "committed", explanation, d.Slug, "")
 }
 
-func (w *Worker) uncertainOutcome() string { return "insufficient_evidence" }
+// uncertainStatus is where a submission ends when its facts cannot be established.
+const uncertainStatus = "insufficient_evidence"
 
-// holdsSources: the case statuses that keep their sources, as they make or made a report from them.
-// A case that is only queued, still researching, stopped or rejected holds none.
-var holdsSources = map[string]bool{"verifying": true, "drafted": true, "publishing": true, "committed": true, "published": true}
-
-// claimSource records that this case uses a source and returns the case that holds it: this one, or
-// another case that holds it (holdsSources). A source recorded by a case that does not hold it
-// (queued, failed, rejected) passes to this case rather than blocking it.
-func (w *Worker) claimSource(ctx context.Context, cid, url, finalURL, digest string) (string, error) {
-	var err error
-	if url, err = safeurl.Normalize(url); err != nil {
-		return "", err
-	}
-	if finalURL == "" {
-		finalURL = url
-	}
-	if finalURL, err = safeurl.Normalize(finalURL); err != nil {
-		return "", err
-	}
-	tx, err := w.Store.DB.BeginTx(ctx, nil)
-	if err != nil {
-		return "", err
-	}
-	defer tx.Rollback()
-	// Distinct submitted URLs can redirect to the same article. Check both sides
-	// before recording a new claim so an active/published owner cannot be bypassed.
-	var aliasOwner string
-	err = tx.QueryRowContext(ctx, `SELECT s.case_id FROM source_urls s JOIN cases c ON c.id=s.case_id
- WHERE (s.url IN (?,?) OR s.final_url IN (?,?)) AND s.case_id<>?
- AND c.status IN ('verifying','drafted','publishing','committed','published')
- ORDER BY s.fetched_at,s.case_id LIMIT 1`, url, finalURL, url, finalURL, cid).Scan(&aliasOwner)
-	if err == nil {
-		return aliasOwner, tx.Commit()
-	}
-	if !errors.Is(err, sql.ErrNoRows) {
-		return "", err
-	}
-	if _, err = tx.ExecContext(ctx, "INSERT INTO source_urls(url,case_id,final_url,digest,fetched_at) VALUES(?,?,?,?,?) ON CONFLICT(url) DO UPDATE SET final_url=excluded.final_url,digest=excluded.digest,fetched_at=excluded.fetched_at", url, cid, finalURL, digest, time.Now().Unix()); err != nil {
-		return "", err
-	}
-	var owner, status string
-	if err = tx.QueryRowContext(ctx, "SELECT s.case_id,coalesce(c.status,'') FROM source_urls s LEFT JOIN cases c ON c.id=s.case_id WHERE s.url=?", url).Scan(&owner, &status); err != nil {
-		return "", err
-	}
-	if owner != cid && !holdsSources[status] {
-		if _, err = tx.ExecContext(ctx, "UPDATE source_urls SET case_id=? WHERE url=? AND case_id=?", cid, url, owner); err != nil {
-			return "", err
-		}
-		owner = cid
-	}
-	return owner, tx.Commit()
-}
+func (w *Worker) uncertainOutcome() string { return uncertainStatus }
 
 // waitingToRetry shows a request whose attempt failed or was interrupted, and whose job waits to run
 // again, as queued: it is not researching while nothing works on it. Budget and configuration

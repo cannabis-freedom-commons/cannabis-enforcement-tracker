@@ -241,15 +241,15 @@ func TestRedirectedSourceAliasesKeepOneOwner(t *testing.T) {
 	w := Worker{Store: s}
 	shared := "https://outlet.example/canonical-article"
 	s.Transition(ctx, cases[0], "verifying", "Checking the first source.", "", "")
-	if owner, err := w.claimSource(ctx, cases[0], "https://outlet.example/old-path", shared, "first"); err != nil || owner != cases[0] {
+	if owner, err := w.backend().ClaimSource(ctx, cases[0], "https://outlet.example/old-path", shared, "first"); err != nil || owner != cases[0] {
 		t.Fatal(owner, err)
 	}
 	s.Transition(ctx, cases[1], "verifying", "Checking the second source.", "", "")
-	if owner, err := w.claimSource(ctx, cases[1], "https://outlet.example/other-path", shared+"?utm_source=bing", "second"); err != nil || owner != cases[0] {
+	if owner, err := w.backend().ClaimSource(ctx, cases[1], "https://outlet.example/other-path", shared+"?utm_source=bing", "second"); err != nil || owner != cases[0] {
 		t.Fatal("redirect alias bypassed the active owner", owner, err)
 	}
 	s.Transition(ctx, cases[0], "failed", "The first proposal did not validate.", "", "")
-	if owner, err := w.claimSource(ctx, cases[1], "https://outlet.example/other-path", shared, "second"); err != nil || owner != cases[1] {
+	if owner, err := w.backend().ClaimSource(ctx, cases[1], "https://outlet.example/other-path", shared, "second"); err != nil || owner != cases[1] {
 		t.Fatal("failed owner blocked a valid retry", owner, err)
 	}
 }

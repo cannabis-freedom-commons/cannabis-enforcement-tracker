@@ -108,7 +108,7 @@ func (p *agentPool) finishProbe(i int, ready bool, now time.Time) {
 	}
 }
 
-func (p *agentPool) recoverAgents(ctx context.Context, c config.Config, s *store.Store) {
+func (p *agentPool) recoverAgents(ctx context.Context, c config.Config, s research.RunLog) {
 	ticker := time.NewTicker(2 * time.Second)
 	defer ticker.Stop()
 	var probes sync.WaitGroup
