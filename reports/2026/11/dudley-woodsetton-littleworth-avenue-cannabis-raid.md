@@ -29,26 +29,30 @@ sources:
     url: https://x.com/DudleyNorthWMP/status/2119440091437232238
     publisher: Dudley North Police, West Midlands Police
     date: 2026-11-08
+  - title: Inside Dudley cannabis farm busted by police
+    url: https://uk.news.yahoo.com/inside-dudley-cannabis-farm-busted-130035511.html
+    publisher: Yahoo News UK
+    date: 2026-11-09
 open_questions:
   - Neither account states how many cannabis plants were found, their weight or any estimated value, so no quantity is recorded.
   - The property is described only as an address on Littleworth Avenue; it is not stated whether it is a house, flat or other building, or how the plants were grown.
   - No one was arrested, and no charge, court step or outcome has been reported.
   - The address is given as Woodsetton, Dudley; Woodsetton lies near the Dudley and Sedgley boundary, and the coordinates are those of the Woodsetton area rather than the property itself.
   - Only Birmingham Live and the neighbourhood team's own social media post were opened; no separate police press statement for the warrant was found.
+  - The Yahoo News UK page is a syndicated copy of the Birmingham Live article by Kelly Ashmore, published on 9 November 2026, and was not the version cited in the original report.
 ---
 
 West Midlands Police's Dudley North Neighbourhood Team carried out a drugs
-warrant at an address in Woodsetton, Dudley, on Friday 6 November 2026. [@1]
+warrant at an address in Woodsetton, Dudley, on Friday 6 November 2026. [@1,3]
 Officers found what the force described as a substantial amount of cannabis
-plants spread across two rooms of a property on Littleworth Avenue. [@1] The
+plants spread across two rooms of a property on Littleworth Avenue. [@1,3] The
 force said it obtained the warrant after numerous reports of suspicious activity
 at the address. [@1]
 
 No arrests were made and West Midlands Police said the investigation was
-continuing. [@1] Police asked anyone with information to call 101 or use the
+continuing. [@1,3] Police asked anyone with information to call 101 or use the
 force's live chat, quoting incident number 2857 of 6 November. [@1] PCSO Olivia
 Berry told residents through West Midlands Police's WMNow messaging service on
-the afternoon of Sunday 8 November that the operation had been successful. [@1]
+the afternoon of Sunday 8 November that the operation had been successful. [@1,3]
 The force's Dudley North account posted on X that officers entering the property
 found a substantial amount of cannabis plants in two of the rooms. [@2]
-
