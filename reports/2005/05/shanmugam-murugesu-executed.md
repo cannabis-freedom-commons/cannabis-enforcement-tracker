@@ -24,6 +24,7 @@ details:
   products: [{product: flower, kg: 1.0298}]
   sentence_types: [death]
   setting: [border, prison]
+  route: {from: [my], to: [sg], crossing: Tuas Checkpoint}
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 3, 2]
@@ -31,6 +32,7 @@ data_sources:
   details.products: [1, 3, 2]
   details.sentence_types: [1, 3]
   details.setting: [1, 3]
+  details.route: [3]
 status: verified
 created_by_model: cursor/composer-2.5
 tags: [cnb, mandatory-death-penalty, tuas]

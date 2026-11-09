@@ -34,6 +34,7 @@ details:
   environment: [outdoor]
   sentence_types: [prison]
   setting: [border]
+  route: {from: [br], to: [uy]}
   products:
     - {product: flower}
 data_sources:
@@ -44,6 +45,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [3, 1]
   details.setting: [1, 2]
+  details.route: [1, 3]
   figures.prison: [3, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

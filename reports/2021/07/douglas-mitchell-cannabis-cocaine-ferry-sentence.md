@@ -24,6 +24,7 @@ details:
   activity: [smuggling, possession]
   products: [{product: flower}]
   setting: [port, vehicle]
+  route: {from: [gb], to: [im]}
   charges: [importing drugs, possession of drugs]
   case_stage: sentenced
   sentence_types: [prison]
@@ -40,6 +41,7 @@ data_sources:
   details.products: [2, 1]
   details.sentence_types: [1]
   details.setting: [2]
+  details.route: [1, 2]
   figures.arrested: [2]
   figures.charged: [2]
   figures.prison: [1]

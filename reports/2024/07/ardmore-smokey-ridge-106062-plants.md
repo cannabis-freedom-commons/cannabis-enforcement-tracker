@@ -22,6 +22,7 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 508.02}]
   setting: [vehicle]
+  route: {from: [us/ok], to: [us/ny, us/il, us/fl]}
 data_sources:
   details.activity: [3, 1]
   details.agency_types: [3, 1, 2]
@@ -29,6 +30,7 @@ data_sources:
   details.date_precision: [3, 1]
   details.products: [3, 1, 2]
   details.setting: [1, 2]
+  details.route: [2]
   figures.kg_seized: [3, 1, 2]
   figures.plants_destroyed: [3]
 media:

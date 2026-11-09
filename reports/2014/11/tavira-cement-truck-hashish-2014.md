@@ -26,6 +26,7 @@ details:
   products:
     - {product: hashish}
   setting: [vehicle]
+  route: {from: [es], to: [pt], crossing: Guadiana International Bridge}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
@@ -33,6 +34,7 @@ data_sources:
   details.date_precision: [1]
   details.products: [1]
   details.setting: [1]
+  details.route: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified

@@ -23,6 +23,7 @@ details:
   case_stage: investigation
   date_precision: exact
   setting: [airport]
+  route: {from: [dk], to: [gl]}
   products:
     - {product: hashish}
 data_sources:
@@ -31,6 +32,7 @@ data_sources:
   details.date_precision: [1]
   details.products: [2]
   details.setting: [1]
+  details.route: [2]
   figures.arrested: [1, 2]
 status: verified
 created_by_model: opencode-go/deepseek-v4.1-flash#max
