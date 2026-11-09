@@ -69,6 +69,11 @@ sources:
     publisher: الخبر
     date: 2026-11-07
     language: ar
+  - title: Algeria triệt phá 186 đường dây ma túy, bắt giữ hơn 25.000 người
+    url: https://www.msn.com/vi-vn/news/other/algeria-tri%E1%BB%87t-ph%C3%A1-186-%C4%91%C6%B0%E1%BB%9Dng-d%C3%A2y-ma-t%C3%BAy-b%E1%BA%AFt-gi%E1%BB%AF-h%C6%A1n-25000-ng%C6%B0%E1%BB%9Di/ar-AA2h2zqW
+    publisher: VietnamPlus (via MSN)
+    date: 2026-11-09
+    language: vi
 open_questions:
   - The 11-tonne kif figure is given as approximate (قرابة 11 طنا); the 27,270 kg cannabis total is the sum of that rounded figure and 16,270 kg of cannabis herb.
   - No date is given for any individual seizure; 7 November 2026 is the publication and announcement date and is used as the incident date for this 10-month tally.
@@ -93,6 +98,9 @@ open_questions:
   - Cocaine, pregabalin and ecstasy quantities in these accounts are not cannabis and are left out of the tracker figures.
   - The Awras page carries only a portrait of Gendarmerie commander Ali Seydan, not a photo of the seizure, so no media entry is added.
   - One account's roadside figures (154 positives from 9,167 tests; 161 fatal and 144 injury accidents) match the existing report, while Elkhabar gives 152 positives from 167 tests and 162 traffic cases.
+  - The Constantine figure of nearly 200 kg is described only as drugs and stimulants, so it is not counted as cannabis.
+  - The Oran and Algiers operation dates are not given; the Algiers operation with 33 arrests and 176 kg of resin appears to be the same November 2026 Algiers raid already recorded with 176 kg of treated kif and 33 arrests.
+  - The Vietnamese account does not report the roadside screening or road-crash figures of the existing report.
 ---
 
 National Gendarmerie commander Maj. Gen. Ali Seydan said in Algiers that drugs
@@ -102,13 +110,13 @@ Seydan spoke alongside Justice Minister Lotfi Boujemaa at the opening of a
 national forum on the dimensions of drug use under traffic law 26-09, held at
 the National Army Club in Beni Messous. [@1,3,5] Gendarmerie units arrested 25,218
 people in the same effort, with 5,264 placed in detention, and dismantled 186
-networks specialising in drug trafficking. [@1,2,3,4,5]
+networks specialising in drug trafficking. [@1,2,3,4,5,7]
 
 During the first 10 months of 2026 the units seized about 11 tonnes of processed
-kif. [@1,2,3,4,5] In the same period they seized 16,270 kilograms of cannabis herb and
-4,162 cannabis shrubs. [@1,2,3,4,5] The same haul included 837 kilograms of cocaine,
+kif. [@1,2,3,4,5,7] In the same period they seized 16,270 kilograms of cannabis herb and
+4,162 cannabis shrubs. [@1,2,3,4,5,7] The same haul included 837 kilograms of cocaine,
 more than 13.6 million pregabalin tablets, 59,937 ecstasy tablets and 1,021,879
-other psychotropic tablets, which are not counted as cannabis. [@1]
+other psychotropic tablets, which are not counted as cannabis. [@1,7]
 
 Seydan described drugs as a cross-border strategic threat in which organised
 crime overlaps with illicit financial interests. [@1] In 2026 roadside screening
@@ -116,3 +124,5 @@ recorded 154 positive results from 9,167 tests, while drivers under the
 influence caused 161 fatal and 144 injury accidents. [@1,3,5]
 
 Seydan said the figures cover the Gendarmerie's own operations and do not include the results of other security services. [@6]
+
+At Oran, officers found two organised international criminal networks, seized 96 kg of cocaine and arrested 12 people. [@7] At Algiers, an operation against a cross-border network arrested 33 people and seized more than 1 million psychotropic tablets, 30 kg of cocaine and 176 kg of cannabis resin. [@7] At Constantine, customs working with the army found nearly 200 kg of drugs and stimulants hidden in a garage. [@7] General Ali Sidane warned that trafficking networks are using digital technology and encrypted messaging apps to widen their operations and hide their routes. [@7]
