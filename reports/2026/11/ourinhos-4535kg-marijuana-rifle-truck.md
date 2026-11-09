@@ -62,6 +62,11 @@ sources:
     url: https://www.vozdovale.com.br/mais-de-45-toneladas-de-maconha-e-fuzil-sao-apreendidos-em-caminhao-na-operacao-impacto/
     publisher: Voz do Vale
     language: pt
+  - title: Motorista é preso com 5,1 mil tabletes de maconha e fuzil em Ourinhos
+    url: https://marilianoticia.com.br/policia/motorista-e-preso-com-51-mil-tabletes-de-maconha-e-fuzil-em-ourinhos/
+    publisher: Marília Notícia
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No charge or court decision was reported beyond the driver's arrest in flagrante and detention at the Federal Police station in Marília.
   - The driver's name, age, route and the origin or destination of the load were not published.
@@ -69,25 +74,28 @@ open_questions:
   - The article places the stop in Ourinhos but names no road or kilometre.
   - Voz do Vale describes the seizure as having happened 'na tarde desta semana' rather than naming Sunday, and carries no publication date; the Sunday date comes from the other two outlets.
   - The three accounts reproduce the same highway police account, so they are not independent reporting of the arrest.
+  - The article gives the stop as about 15:30 on the Raposo Tavares (SP-270) in Ourinhos but names no kilometre.
+  - The two highway-police handout photos on the page show the seized drugs and rifle, but their relation to the photo already linked in the report could not be checked, so no media entry is added.
 ---
 
 Highway police arrested a man in Ourinhos, São Paulo state, on the afternoon of
 Sunday 8 November 2026 after finding more than 4.5 tonnes of cannabis and a
-rifle in the truck he was driving. [@1] The stop was made at about 15:25 by
+rifle in the truck he was driving. [@1,4] The stop was made at about 15:25 by
 teams of the Tático Ostensivo Rodoviário (TOR), the military highway police's
 overt patrol unit, during Operação Impacto. [@1] Officers searched a Volvo FH
 460 truck pulling a trailer loaded with bags of meat-and-bone meal. [@1]
 
 Hidden under the legal cargo they found 5,100 tablets of cannabis weighing 4,535
-kilograms. [@1] A rifle of calibre 7.62 with no identifiable make, model or
-origin was found in the same place. [@1] The case was presented at the Federal
+kilograms. [@1,4] A rifle of calibre 7.62 with no identifiable make, model or
+origin was found in the same place. [@1,4] The case was presented at the Federal
 Police station in Marília, and the driver, who has a criminal record, remained
-in custody. [@1] The operation was carried out jointly with the São Paulo and
+in custody. [@1,4] The operation was carried out jointly with the São Paulo and
 Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO),
 an integrated anti-organised-crime task force. [@2] The driver was held at the
 disposal of the courts. [@3]
 
 According to the highway police, the seizure caused an estimated loss of 9.1
-million reais to drug trafficking. [@1] The drug and the weapon were seized and
+million reais to drug trafficking. [@1,4] The drug and the weapon were seized and
 were to undergo forensic examination. [@3]
 
+The stop was made at about 15:30 on the Raposo Tavares highway (SP-270) in Ourinhos, during Operação Impacto, by a Tático Ostensivo Rodoviário team working with the FICCO units of São Paulo and Paraná. [@4]
