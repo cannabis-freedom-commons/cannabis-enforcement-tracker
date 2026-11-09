@@ -81,6 +81,11 @@ sources:
     publisher: Stadindex.nl
     date: 2026-11-09
     language: nl
+  - title: Bestuurder onder invloed van cannabis en cocaïne aangehouden in Eindhoven
+    url: https://drimble.nl/regio/noord-brabant/eindhoven/108544017/bestuurder-onder-invloed-van-cannabis-en-cocaine-aangehouden-in-eindhoven.html
+    publisher: Drimble
+    date: 2026-11-09
+    language: nl
 open_questions:
   - The driver's age, sex and identity were not published; the article uses only 'die' and 'de bestuurder'.
   - No quantity of cannabis or cocaine was reported; nothing was said to be seized except the car, and the cannabis finding rests on the odour and the results of a drug test.
@@ -97,15 +102,16 @@ open_questions:
   - The AD.nl page carries the same car photo credited to Marechaussee Brabant Oost as the Eindhovens Dagblad and Omroep Brabant versions, so no additional photo is added.
   - Stadindex.nl republishes the Eindhovens Dagblad and Omroep Brabant items rather than adding independent reporting, and gives no quantity of cannabis or cocaine and no charge or court step.
   - The page carries an Eindhovens Dagblad photo credit and an image address for the seized car that is already linked from the existing report, so no new media entry is added.
+  - The Drimble page carries no article body; it reproduces only the headline and credits AD | Helmond, so it adds no facts beyond the existing account.
 ---
 
 Police arrested a driver in Eindhoven on Sunday evening after a check showed the
-person had been driving under the influence of cannabis and cocaine. [@1,2,3,5,6]
+person had been driving under the influence of cannabis and cocaine. [@1,2,3,5,6,7]
 Officers decided to check the vehicle after they smelled a strong smell of
 cannabis (wietgeur). [@1,4,5]
 
 The car was seen at about 22:45 at the spottersplaats, a plane-watching spot
-near Eindhoven Airport. [@1,5] When the vehicle drove in front of the police car,
+near Eindhoven Airport. [@1,4,5] When the vehicle drove in front of the police car,
 officers smelled the strong cannabis odour again and pulled the driver over for
 a check. [@1,5] During the check the smell was found to come clearly from the car,
 and a drug test showed the driver had used cannabis and cocaine. [@1,3,4,5] The
