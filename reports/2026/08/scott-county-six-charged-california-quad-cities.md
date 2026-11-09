@@ -2,33 +2,32 @@
 added_at_source: git
 added_at: "2026-11-02T18:14:58.000Z"
 code: N3B84V
-date: 2026-07-20
+date: 2026-08-10
 country: us/ia
 place: Scott County, Iowa
 coordinates: [41.5236, -90.5776]
 precision: district
-type: prosecution
-also: [arrest, seizure]
-title: Six women charged in California-to-Quad Cities marijuana case
-summary: >-
-  Six women were charged in Scott County, Iowa, with felony ongoing criminal conduct over an alleged years-long conspiracy to buy marijuana in California and sell it in the Quad Cities. Court records allege parcel shipments, money transfers, stored marijuana and seized cash, and say all six were released on cash-only bonds.
+type: arrest
+also: [seizure, prosecution]
+title: Eight of nine alleged conspirators arrested in Scott County marijuana case
+summary: Eight of the nine alleged conspirators in the Scott County marijuana case are now in custody, and Davenport police hold a warrant for the ninth, a woman accused of selling and distributing marijuana.
 figures:
-  arrested: 6
-  charged: 6
-  kg_seized: 6.35
+    arrested: 8
+    charged: 6
+    kg_seized: 6.35
 details:
   agency_types: [police]
   case_stage: charged
   products: [{product: flower, kg: 6.35}]
   setting: [home]
 data_sources:
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.charged: [1]
-  figures.kg_seized: [1]
+    details.agency_types: [1]
+    details.case_stage: [1]
+    details.products: [1]
+    details.setting: [1]
+    figures.arrested: [4]
+    figures.charged: [1]
+    figures.kg_seized: [1]
 media:
   - kind: photo
     url: https://www.kwqc.com/2026/07/20/6-women-charged-california-to-quad-cities-marijuana-enterprise/
@@ -59,6 +58,11 @@ sources:
     publisher: The Quad-City Times
     date: 2026-07-16
     archived: https://web.archive.org/web/20260718160155id_/https://qctimes.com/news/local/crime-courts/article_1c16d993-1437-4c5f-8215-3db8244869a1.html
+  - title: Woman wanted in Scott County marijuana conspiracy, eight of nine alleged conspirators arrested
+    url: https://qctimes.com/news/local/crime-courts/article_e514253a-4945-430d-9732-85d0914d2921.html
+    publisher: The Quad-City Times
+    date: 2026-08-10
+    archived: https://web.archive.org/web/20260817230124id_/https://qctimes.com/news/local/crime-courts/article_e514253a-4945-430d-9732-85d0914d2921.html
 open_questions:
   - The article gives only its publication date of 20 July 2026 and no separate date for the arrests, charges or warrants; 20 July 2026 is used as the incident date.
   - The 14-pound figure is described as marijuana stored at Hinton's residence, not explicitly as seized.
@@ -72,6 +76,9 @@ open_questions:
   - The Quad-City Times update of 16 July 2026 does not give a separate arrest date beyond 'Thursday'; the publication date is used.
   - The page body is encrypted behind a subscriber paywall in the archived capture, so the two newly arrested people's charges, bonds and any new seizure figures could not be read.
   - The update's two arrests are already reflected in the existing report's total of six arrested and charged; no separate count of the arrests on 16 July is published in readable text.
+  - The article says only that the warrant was issued 'last month', so July 2026 is given as its approximate date.
+  - The article body is encrypted behind a subscriber paywall in the captured page, so the wanted woman's charge, bond and any court dates for the eight arrested people could not be read.
+  - No date is given for the arrests beyond the report's publication date of 10 August 2026, which stands in for the incident date.
 ---
 
 Six women face ongoing criminal conduct charges in Scott County over an alleged
@@ -102,3 +109,5 @@ in the Quad Cities area. [@1] All six women were released after posting
 cash-only bonds, according to court records. [@1]
 
 Two more people were arrested in Scott County for allegedly selling and distributing marijuana, bringing the case's arrested and charged totals to six. [@3]
+
+Eight of the nine alleged conspirators in the case have been arrested. [@4] Davenport police issued a warrant in July 2026 for the ninth alleged conspirator, a woman accused of selling and distributing marijuana. [@4]
