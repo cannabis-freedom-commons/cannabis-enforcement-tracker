@@ -37,6 +37,11 @@ media:
     media_url: https://uploads.folhabv.com.br/2026/11/WhatsApp-Image-2026-11-09-at-17.54.13.jpeg
     publisher: Folha BV
     caption: 'Image published with the report on the arrest in central Boa Vista, credited only as PCRR, the Roraima Civil Police. Photo: PCRR'
+  - kind: photo
+    url: https://roraima1.com.br/investigado-por-trafico-internacional-de-drogas-e-preso-em-boa-vista-apos-apreensao-de-33-kg-de-skunk/
+    media_url: https://roraima1.com.br/wp-content/uploads/2026/11/IMG-20261109-WA0062-696x679.jpg
+    publisher: Roraima 1
+    caption: 'Photo published with the report on the arrest in central Boa Vista, credited as Foto: Polícia Civil.'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dd3ba24992afe24f82ee2a3c1e5758e7
@@ -52,12 +57,19 @@ sources:
     publisher: Araguaia Notícia
     date: 2024-07-19
     language: pt
+  - title: Investigado por tráfico internacional de drogas é preso em Boa Vista após apreensão de 33 kg de skunk
+    url: https://roraima1.com.br/investigado-por-trafico-internacional-de-drogas-e-preso-em-boa-vista-apos-apreensao-de-33-kg-de-skunk/
+    publisher: Roraima 1
+    date: 2026-11-09
+    language: pt
 open_questions:
   - 'The two accounts give different weights for the 2024 load: Folha BV says about 33.65 kilograms, while Araguaia Notícia, reporting the PRF statement at the time, gives about 33.55 kilograms. The report uses 33.65 kg, the figure in the account of this arrest and detention warrant.'
   - Folha BV gives no charges, plea, conviction or sentence; the man was arrested on a preventive warrant and was awaiting a custody hearing.
   - The account identifies the man only by initials, and the 2024 reports give no names for the three men arrested at the roadside.
   - The Bolivia origin and the route through Porto Velho are described as indications in the case file, not as established facts.
   - The page photo is credited only as PCRR, the Roraima civil police, with no caption saying what it depicts.
+  - The source gives no charges, plea, conviction or sentence; the man was arrested on a preventive warrant and was awaiting a custody hearing.
+  - The account identifies the man only by age, and the 2024 roadside reports give no names for the three men arrested at the scene.
 ---
 
 Civil police in Roraima arrested a 26-year-old man in the centre of Boa Vista on
@@ -86,3 +98,4 @@ corpus appeal in October 2024 and restored the preventive arrests, reissuing the
 warrants. [@1] The man was due to appear at a custody hearing on Tuesday 10
 November. [@1]
 
+The drug was hidden inside a sound box fitted on the pickup's load bed, and three men were arrested at the scene, among them the man held in Boa Vista. [@3]
