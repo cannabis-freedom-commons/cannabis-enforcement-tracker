@@ -113,6 +113,11 @@ sources:
     publisher: CW+ Noticias
     date: 2026-11-09
     language: es
+  - title: Caen cargamentos de marihuana en el Cauca que tenían como destino Perú y Chile
+    url: https://www.semana.com/nacion/cali/articulo/caen-cargamentos-de-marihuana-en-el-cauca-que-tenian-como-destino-peru-y-chile/202613/
+    publisher: Semana
+    date: 2026-11-09
+    language: es
 open_questions:
   - No municipality or separate date for the operation was published; 7 November 2026 is the EFE dispatch and announcement date and stands in for the event date.
   - The names, charges and judicial outcome for the two captured people were not reported.
@@ -145,18 +150,18 @@ department of Cauca in southwestern Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14] 
 to be sent to Peru and Chile. [@1,3,4,5,6,7,10,11,12,14] President Abelardo de la Espriella announced
 the seizure in Cauca, the capture of two people and the immobilisation of three
 vehicles. [@1,3,4,8,10,12,14] Two people were captured and three vehicles were immobilised in
-the operation. [@2,3,5,6,7,9,11,13,15]
+the operation. [@2,3,5,6,7,9,11,13,15,16]
 
 The find came after an operation by the National Police against structures
-dedicated to drug trafficking. [@2] Among the seized material were 1,186
+dedicated to drug trafficking. [@2,16] Among the seized material were 1,186
 packages of creepy-type marijuana allegedly destined for illegal markets in Peru
 and Chile. [@1,3,4,5,6,8,9,10,11,12,13,14] Authorities also seized 4,542 litres of chemical substances, 100
 containers of caustic soda, 36 scales and other supplies used in clandestine
 laboratories for processing narcotics. [@1,3,4,6,7,8,9,10,11,12,13,14]
 
 De la Espriella said each seized shipment means fewer resources to finance
-terrorism, buy weapons and sow violence in the regions. [@1,3,8,14] The EMC dissidence,
+terrorism, buy weapons and sow violence in the regions. [@1,3,8,14,16] The EMC dissidence,
 the ELN guerrilla and other armed groups fighting for territorial control are
 present in Cauca. [@1,3,8,14]
 
-The National Police said the three procedures took place in the Río Blanco sector of Popayán, in the municipality of Jambaló and in Mondomo, a corregimiento of Santander de Quilichao. [@15] In Mondomo, on the Panamericana highway, police arrested one person, immobilised a truck and seized about 4,542 litres of chemicals, 100 containers of caustic soda and 36 scales. [@15] The Police estimated the economic impact of the three operations at 3,883 million pesos, of which about 800 million corresponds to the chemicals, caustic soda and scales seized in Mondomo, and did not break down the rest. [@15] The Police gave no identification of the affected criminal structures or of the two people arrested. [@15]
+The National Police said the three procedures took place in the Río Blanco sector of Popayán, in the municipality of Jambaló and in Mondomo, a corregimiento of Santander de Quilichao. [@15,16] In Mondomo, on the Panamericana highway, police arrested one person, immobilised a truck and seized about 4,542 litres of chemicals, 100 containers of caustic soda and 36 scales. [@15,16] The Police estimated the economic impact of the three operations at 3,883 million pesos, of which about 800 million corresponds to the chemicals, caustic soda and scales seized in Mondomo, and did not break down the rest. [@15] The Police gave no identification of the affected criminal structures or of the two people arrested. [@15]
