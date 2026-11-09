@@ -144,6 +144,11 @@ sources:
     publisher: الحقيقة الدولية
     date: 2026-11-08
     language: ar
+  - title: مكافحة المخدرات تتعامل مع ١٥ قضية نوعية
+    url: https://sawaleif.com/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D9%A1%D9%A5-%D9%82%D8%B6%D9%8A%D8%A9-%D9%86%D9%88%D8%B9%D9%8A-1120390/
+    publisher: سواليف
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -204,16 +209,16 @@ media:
 
 Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
 officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21]
+and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22]
 
 In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
-capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6,11,13,15,16,17,18,19,20,21]
+capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6,11,13,15,16,17,18,19,20,21,22]
 Two active pushers in the capital were arrested with 20 blocks of hashish. [@1,5,11,18]
 Three pushers were arrested after a raid with five blocks of hashish and 1,500
 pills. [@1,5,11] South of Amman, officers raided a tent that three people used to
 trade, store and push drugs, arresting all three and seizing 2 kilograms of
 marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
-methamphetamine. [@1,3,4,5,6,7,11,12,13,15,16,17,18,19,20,21] Officers arrested three people in the last Amman case with
+methamphetamine. [@1,3,4,5,6,7,11,12,13,15,16,17,18,19,20,21,22] Officers arrested three people in the last Amman case with
 2,600 grams of marijuana. [@1,5,6,7,8,11,14,15,16,18,19] In the second Amman case three people were raided
 inside a flat they used to store drugs for sale, and officers seized 6,000 pills
 and a quantity of hashish. [@1,5,13,15] In a farm south of the capital officers arrested
@@ -222,7 +227,7 @@ a firearm. [@1,5,11]
 
 In the Central Badia, officers seized 20 blocks of hashish from two arrested
 people in the first case and 15 blocks of hashish from two pushers in a vehicle
-in the second. [@1,4,5,7,11,13,14,15,18,19,20] In Irbid Governorate officers raided a pusher and seized six
+in the second. [@1,4,5,7,11,13,14,15,18,19,20,22] In Irbid Governorate officers raided a pusher and seized six
 blocks of hashish from him, and seized 200 grams of crystal methamphetamine from
 another pusher in the second case. [@1,5,11,15] A pusher was arrested in Ma'an
 Governorate with seven blocks of hashish. [@1,5,11,15,18] In Zarqa Governorate officers
@@ -240,3 +245,5 @@ cannabis figures. [@1,11]
 The English release puts the further Amman hashish seizure at 25 slabs, without giving a weight. [@7]
 
 The Petra release says the cannabis and other drugs were seized in 15 cases, eight of them in Amman and seven in other governorates, carried out over recent days against trafficking, distribution and smuggling. [@7,12,15]
+
+The Arabic statement counts eight cases in the capital and describes the others as two in the Central Badia, two in Irbid Governorate, one in Ma'an Governorate, one in Zarqa Governorate and a final case involving 18 litres of liquid amphetamine found in an extra tank fitted inside a vehicle. [@22]
