@@ -56,11 +56,18 @@ sources:
     publisher: VOV.VN
     date: 2026-11-08
     language: vi
+  - title: Khám xét khẩn cấp nơi ở, công an tạm giữ Trần Tuấn Anh SN 1999
+    url: https://soha.vn/kham-xet-khan-cap-noi-o-tam-giu-hinh-su-tran-tuan-anh-sn-1999-198261108225750067.htm
+    publisher: Soha
+    date: 2026-11-09
+    language: vi
 open_questions:
   - No separate date is given for the street stop or the home search; 8 November 2026 is the article's publication date and is used as the incident date.
   - No court outcome beyond criminal detention for investigation was reported.
   - Only one accessible source for this event was found after searching in Vietnamese and English.
   - The page photos are credited to no one; the captions identify the suspects and exhibits but do not confirm the seizure location.
+  - The submitted page was republished from Đời sống Pháp luật and repeats the same Hanoi police statement as the VOV account, so it is not independent reporting.
+  - The page gives 29 October 2026 as the date of the arrest but no date for the emergency home search, which may have been carried out later the same day or afterwards.
 ---
 
 Hanoi police said officers of Co Do commune had detected and detained two people
@@ -83,3 +90,4 @@ mobile phone. [@1]
 Police presented the case as a result of a year-end peak campaign against drug
 crime in late 2026. [@1]
 
+Hanoi police said two people were detained over illegal drug trading, with more than 57 grams of cannabis seized, after Cổ Đô commune police made the arrest on 29 October 2026. [@2]
