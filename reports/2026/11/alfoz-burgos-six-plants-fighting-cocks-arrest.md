@@ -119,6 +119,8 @@ open_questions:
   - This outlet credits the account to Ical and its text follows the Guardia Civil statement, so it is not independent reporting.
   - The account gives no separate date for the inspection or the arrest; 9 November 2026 is its publication date.
   - The two photos are captioned as the seized cocks and plants but credited only as Guardia Civil.
+  - This account, credited to Ical and published by Diario de Castilla y León, repeats the Guardia Civil statement already cited and adds no arrests, charges or court outcome beyond it.
+  - The 22 kilograms is described as the fresh green weight of the whole plants, not dried cannabis, and no dried weight is given.
 ---
 
 Guardia Civil officers arrested a 24-year-old man in a municipality of the Alfoz
@@ -152,3 +154,5 @@ case file to the courts of the provincial capital, Burgos. [@1,4,5]
 The owner had no legal register for a poultry holding and kept dogs without the required vaccination or deworming. [@4]
 
 The fenced plot also held a vegetable garden, sheds and greenhouses which, according to sources at the Government Sub-delegation, appeared to conceal an undetermined number of marijuana plants. [@5]
+
+The Cannabis sativa plants found on the property weighed more than 22 kilograms green, the weight of the whole plant freshly cut including stems, roots, large leaves and moisture. [@5]
