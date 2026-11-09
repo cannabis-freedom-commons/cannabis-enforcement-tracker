@@ -2,7 +2,7 @@
 added_at_source: git
 added_at: "2026-10-29T00:21:02.000Z"
 code: HYYXDD
-date: 2026-10-22
+date: 2026-11-09
 country: gb
 place: Birmingham Crown Court
 coordinates: [52.484, -1.894]
@@ -15,31 +15,35 @@ summary: >-
   £13.8 million, were found vacuum-packed in 22 suitcases in August 2024 after Apple AirTags
   linked the couriers to one account.
 figures:
-  kg_seized: 460
-  value: { amount: 13800000, currency: GBP }
+    kg_seized: 460
+    value:
+        amount: 13800000
+        currency: GBP
 created_by_model: unknown
 details:
-  activity: [smuggling]
-  agencies: [gb-nca, gb-border-force]
-  agency_types: [police, customs]
-  case_stage: sentenced
-  date_precision: exact
-  products: [{product: flower, kg: 460}]
-  sentence_types: [prison]
-  setting: [airport, prison]
-  route: {from: [th], to: [gb], crossing: Paris Charles de Gaulle}
+    activity: [smuggling]
+    agencies: [gb-nca, gb-border-force]
+    agency_types: [police, customs]
+    case_stage: sentenced
+    date_precision: exact
+    products:
+        - {product: flower, kg: 460}
+    sentence_types: [prison]
+    setting: [airport, prison]
+    route: {from: [th], to: [gb], crossing: Paris Charles de Gaulle Airport}
+    region: West Midlands
 data_sources:
-  details.activity: [1, 2]
-  details.agencies: [1, 2]
-  details.agency_types: [1, 2]
-  details.case_stage: [1, 2]
-  details.date_precision: [1]
-  details.products: [1, 2]
-  details.route: [1, 2]
-  details.sentence_types: [1, 2]
-  details.setting: [1, 2]
-  figures.kg_seized: [2, 1]
-  figures.value: [1]
+    details.activity: [3]
+    details.agencies: [3]
+    details.agency_types: [3]
+    details.case_stage: [3]
+    details.date_precision: [1]
+    details.products: [3]
+    details.route: [3]
+    details.sentence_types: [3]
+    details.setting: [3]
+    figures.kg_seized: [3]
+    figures.value: [3]
 status: verified
 tags: [couriers, trafficking]
 sources:
@@ -52,6 +56,26 @@ sources:
     url: https://www.whatsonsolihull.com/pound14m-cannabis-smuggling-plot-at-birmingham-airport-undone-by-airtags
     publisher: What's On Solihull
     date: 2026-10-22
+  - title: Cornwall woman sentenced over £13.8m cannabis import plot
+    url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
+    publisher: Falmouth Packet
+    date: 2026-11-09
+media:
+  - kind: photo
+    url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
+    media_url: https://www.falmouthpacket.co.uk/resources/images/21692425.jpg?type=mds-article-962
+    publisher: Falmouth Packet
+    caption: 'The cannabis seized from the 22 suitcases at Birmingham Airport, laid out for an exhibit photo published with the Falmouth Packet account. Photo: NCA'
+  - kind: photo
+    url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
+    media_url: https://www.falmouthpacket.co.uk/resources/images/21692426.jpg?type=mds-article-962
+    publisher: Falmouth Packet
+    caption: 'Custody photo of Tasia Nelson, 22, of Newquay, published as the lead image of the sentencing report. Photo: NCA'
+open_questions:
+  - The Falmouth Packet gives the hearing as "today (Monday, November 9)", while the earlier NCA text had said the two would be sentenced on 30 October; 9 November 2026 is used.
+  - The Falmouth Packet's account of who was convicted at trial and who pleaded guilty repeats paragraphs; the NCA update gives the cleaner account that Nelson was convicted on 19 August and Clarke pleaded guilty at an earlier hearing.
+  - The court's reasoning for suspending Nelson's 30-month term is not reported in either account.
+  - No figure for the amount of cannabis attributable to the final two couriers alone is given; the 460 kg is the gang's total seizure.
 ---
 
 On 22 October 2026, Birmingham Crown Court sentenced five members of a drug-smuggling gang that
@@ -65,7 +89,7 @@ Clarke, are due to be sentenced on 30 October. [@1,2]
 Border Force officers arrested the eleven-strong group in August 2024, when they found 460 kg of
 cannabis packed into 22 suitcases arriving from Thailand via Paris Charles de Gaulle. [@1] Each
 courier carried two suitcases holding about 20 kg of vacuum-packed cannabis under a thin layer of
-clothing, luggage so heavy they paid excess baggage charges at Bangkok airport. [@1,2] Eight of the
+clothing, luggage so heavy they paid excess baggage charges at Bangkok airport. [@1,2,3] Eight of the
 bags held Apple AirTags connected to the same Apple ID, and intelligence linking the passengers to
 others on connecting flights into Birmingham led officers to fully staff the nothing-to-declare
 channel, where the drugs were found. [@1,2]
@@ -76,3 +100,5 @@ and a half years. [@1,2] Senior investigating officer Paul Boniface said the con
 others that smuggling is not worth the risk, and thanked Border Force for finding the drugs. [@1,2]
 NCA figures show 801 cannabis couriers caught arriving by plane in 2024, 976 in 2025, and 600 more
 arrested between January and June 2026. [@1,2]
+
+Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
