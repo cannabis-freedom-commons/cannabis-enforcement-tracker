@@ -89,6 +89,11 @@ sources:
     publisher: vietnam.vn (VietnamPlus)
     date: 2026-11-09
     language: nl
+  - title: Algeria triệt phá 186 đường dây ma túy, bắt giữ hơn 25.000 người
+    url: https://baohatinh.vn/algeria-triet-pha-186-duong-day-ma-tuy-bat-giu-hon-25000-nguoi-post320047.html
+    publisher: Báo Hà Tĩnh
+    date: 2026-11-09
+    language: vi
 open_questions:
   - The 11-tonne kif figure is given as approximate (قرابة 11 طنا); the 27,270 kg cannabis total is the sum of that rounded figure and 16,270 kg of cannabis herb.
   - No date is given for any individual seizure; 7 November 2026 is the publication and announcement date and is used as the incident date for this 10-month tally.
@@ -122,16 +127,17 @@ open_questions:
   - The Vietnamese agency's account says commander Ali Sidane gave the figures at a seminar or press conference in Algiers, while the existing report places the announcement at a national forum on drugs and traffic law at the National Army Club in Beni Messous, Algiers.
   - This account does not report the roadside screening or road-crash figures of the existing report.
   - The submitted page's lead image is a VietnamPlus photo captioned as a view of the city of Oran, not of the tally, so no media entry is added.
+  - This outlet adds no new cannabis detail beyond the existing report's sentences; its Algiers network passage (33 arrests and 176 kg of resin) also repeats the separately recorded Algiers operation.
 ---
 
 National Gendarmerie commander Maj. Gen. Ali Seydan said in Algiers that drugs
 and psychotropic substances had become a multidimensional security challenge
-affecting public health, road safety and economic and social security. [@1,3]
+affecting public health, road safety and economic and social security. [@1,3,11]
 Seydan spoke alongside Justice Minister Lotfi Boujemaa at the opening of a
 national forum on the dimensions of drug use under traffic law 26-09, held at
 the National Army Club in Beni Messous. [@1,3,5] Gendarmerie units arrested 25,218
 people in the same effort, with 5,264 placed in detention, and dismantled 186
-networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10]
+networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11]
 
 During the first 10 months of 2026 the units seized about 11 tonnes of processed
 kif. [@1,2,3,4,5,7,9,10] In the same period they seized 16,270 kilograms of cannabis herb and
@@ -148,4 +154,4 @@ Seydan said the figures cover the Gendarmerie's own operations and do not includ
 
 At Oran, officers found two organised international criminal networks, seized 96 kg of cocaine and arrested 12 people. [@7,8] At Algiers, an operation against a cross-border network arrested 33 people and seized more than 1 million psychotropic tablets, 30 kg of cocaine and 176 kg of cannabis resin. [@7,9] At Constantine, customs working with the army found nearly 200 kg of drugs and stimulants hidden in a garage. [@7,8,10] General Ali Sidane warned that trafficking networks are using digital technology and encrypted messaging apps to widen their operations and hide their routes. [@7,10]
 
-The Vietnamese news agency's Algiers correspondent reported that 5,264 of those arrested had been placed in pre-trial detention. [@8] In the south, traffickers hide cocaine inside the parts of refrigerated trucks and deliver it to northern provinces, and some networks use modified vehicles to conceal drugs and move them between several locations. [@8]
+The Vietnamese news agency's Algiers correspondent reported that 5,264 of those arrested had been placed in pre-trial detention. [@8,11] In the south, traffickers hide cocaine inside the parts of refrigerated trucks and deliver it to northern provinces, and some networks use modified vehicles to conceal drugs and move them between several locations. [@8]
