@@ -67,6 +67,16 @@ sources:
     publisher: au Webポータル（共同通信VIDEO）
     date: 2026-11-09
     language: ja
+  - title: MDMAなど営利譲渡疑いで男を再逮捕　ベトナム人麻薬密売グループか　警察は覚醒剤など時価１億5000万円相当の麻薬を押収
+    url: https://news.infoseek.co.jp/article/mbs_3072500/
+    publisher: Infoseekニュース
+    date: 2026-11-09
+    language: ja
+  - title: 約1億5千万相当のケタミンやMDMAを営利譲渡疑い ベトナム国籍の男を再逮捕
+    url: https://www.sun-tv.co.jp/suntvnews/news/2026/11/09/97776/
+    publisher: サンテレビニュース
+    date: 2026-11-09
+    language: ja
 open_questions:
   - The page gives the man's age as 31 in the lead and 32 in the third paragraph; both are reported.
   - No exact date is given for the arrest or for the July 2026 raid in Honjo; July 2026 is used as the incident date and 9 November 2026 is the date of publication.
@@ -80,6 +90,9 @@ open_questions:
   - Kyodo gives no exact day for the July raid and calls the site a house (住宅); 1 July remains the incident date standing in for the month.
   - Kyodo names the drugs found as stimulants, dried cannabis and others but gives no total weight for the non-cannabis drugs.
   - The au Web Portal page shows only the opening of the Kyodo bulletin before linking out, so its wording beyond the first line was checked against the fuller 47NEWS text of the same Kyodo dispatch.
+  - MBS gives the delivery period as April to May 2026 and the payment as about 120,000 yen, while Sun Television says the profitable delivery happened in April 2026; the accounts differ on the timing.
+  - No cannabis was involved in the re-arrest charge itself, which concerns ketamine and MDMA only; the cannabis figures come from the earlier July 2026 Saitama raid already recorded in the report.
+  - No exact re-arrest date is given; the reports of 9 November 2026 give only the month-period of the alleged deliveries.
 ---
 
 Hyogo prefectural police in western Japan arrested a Vietnamese man of no fixed
@@ -87,7 +100,7 @@ address and no occupation, reported as 31 and as 32 years old, on suspicion of
 violating the Narcotics and Psychotropics Control Act. [@1,3,5] Police suspect the
 man delivered ketamine and MDMA for profit to a man living in Amagasaki, Hyogo
 Prefecture, in late April 2026, sending the drugs from Gunma Prefecture or its
-vicinity. [@1,4]
+vicinity. [@1,4,8]
 
 According to police, the group put drugs in Letter Pack envelopes, a flat-rate
 Japan Post mailer, and sent them nationwide from Hokkaido to Okinawa, and also
@@ -97,15 +110,15 @@ Prefecture, and seized a large quantity of drugs. [@1,4]
 
 The seizure included about 2 kg of stimulants worth about 104 million yen at
 street prices and about 7.5 kg of cannabis worth about 37 million yen, alongside
-ketamine, cocaine and MDMA valued together at about 150 million yen. [@1,4,6] Police
+ketamine, cocaine and MDMA valued together at about 150 million yen. [@1,4,6,8] Police
 valued the whole haul at more than 290 million yen at street prices and
 displayed it to reporters. [@1,3,6] Police regard the arrested man as one member of
 the trafficking group and are investigating its operations. [@1,3,6] The man has
-said "I will keep silent" to investigators and has not answered questions. [@1,4]
+said "I will keep silent" to investigators and has not answered questions. [@1,4,8]
 A photograph published with the Kansai Television account is captioned "Seized
 drugs etc. (Kasai police station, Hyogo)", placing the display of the drugs to
 reporters at Kasai police station. [@2]
 
 MBS put the street value of the drugs seized in the July 2026 raid at about 150 million yen. [@5]
 
-The man had already been indicted for offences including violating the Immigration Control Act. [@6] The re-arrest warrant alleges that between April and May he sent small amounts of MDMA and ketamine for profit to a man in Hyogo Prefecture. [@6] The bulletin reports the police announcement that the drugs were found and seized at a house in Honjo, Saitama Prefecture, in July. [@7]
+The man had already been indicted for offences including violating the Immigration Control Act. [@6] The re-arrest warrant alleges that between April and May he sent small amounts of MDMA and ketamine for profit to a man in Hyogo Prefecture. [@6] The bulletin reports the police announcement that the drugs were found and seized at a house in Honjo, Saitama Prefecture, in July. [@7,9]
