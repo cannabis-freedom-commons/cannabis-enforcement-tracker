@@ -14,7 +14,7 @@ const base = import.meta.env.BASE_URL;
 const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { label: v.label, color: v.color }]));
 const countries = Object.fromEntries(countryList.map((c) => [c.id, c.name]));
 ---
-<Base title="Submission" description="Follow a submitted source from intake to research, validation and a report commit." wide>
+<Base title="Submission" description="Follow a submitted source from intake to research, validation and a report commit." wide noindex>
   <div class="sx sx-detail" data-submission-status data-api={api} data-base={base} data-types={JSON.stringify(types)} data-countries={JSON.stringify(countries)}>
     <nav class="sx-crumbs"><a href={`${base}submissions/`}>Submissions</a> <span aria-hidden="true">/</span> <span id="crumb-id">Request</span></nav>
     <p id="status-message" class="sx-message" role="status" aria-live="polite">{api ? "Loading the submission…" : "Submission status is not available yet."}</p>

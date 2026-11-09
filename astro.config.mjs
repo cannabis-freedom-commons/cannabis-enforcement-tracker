@@ -4,6 +4,7 @@ import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { defineConfig } from "astro/config";
 import { reportsDev, devWatchIgnored } from "./scripts/lib/reports-dev.mjs";
+import { sitemap } from "./scripts/lib/sitemap.mjs";
 import { markdownGlossary } from "./src/lib/glossary.js";
 import { unified } from "@astrojs/markdown-remark";
 
@@ -118,7 +119,7 @@ export default defineConfig({
   ]),
   site: process.env.SITE || "https://tracker.cannabisfreedom.fyi",
   base,
-  integrations: [reportsDev()],
+  integrations: [reportsDev(), sitemap()],
   vite: {
     server: {
       // the Go backend's code and job storage, and reports with their photo manifest: refreshed only

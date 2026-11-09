@@ -12,7 +12,7 @@ const base = import.meta.env.BASE_URL;
 const types = Object.fromEntries(Object.entries(TYPES).map(([k, v]) => [k, { label: v.label, color: v.color }]));
 const countries = Object.fromEntries(countryList.map((c) => [c.id, c.name]));
 ---
-<Base title="Draft report" description="A draft report prepared from a submitted source, before review and publication." wide>
+<Base title="Draft report" description="A draft report prepared from a submitted source, before review and publication." wide noindex>
   <div class="draft-page" data-draft data-api={api} data-base={base} data-types={JSON.stringify(types)} data-countries={JSON.stringify(countries)} data-styles={JSON.stringify(MAP_STYLES)}>
     <aside class="draft-banner" id="draft-banner">
       <strong>Draft, not published.</strong>

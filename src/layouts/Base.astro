@@ -3,10 +3,21 @@ import "../styles/global.css";
 import { reports } from "../lib/reports.js";
 import { submissionsAPI as api } from "../lib/submissions-config.js";
 import { build } from "../lib/build-info.js";
-const { title, description = "An open record of cannabis eradication, seizures, raids, arrests, prosecutions and sentences around the world.", wide = false, app = false, ogType = "website" } = Astro.props;
+// SEO props: `image` (a path or URL; the site card otherwise) with `imageAlt`, `noindex` for working
+// views and empty pages, `published`/`modified` (ISO times) for articles, `jsonLd` (one object or a list).
+const { title, description = "An open record of cannabis eradication, seizures, raids, arrests, prosecutions and sentences around the world.", wide = false, app = false, ogType = "website",
+  image, imageAlt, imageWidth, imageHeight, noindex = false, published, modified, jsonLd } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const fullTitle = title ? `${title} · Cannabis Enforcement Tracker` : "Cannabis Enforcement Tracker";
+const SITE_NAME = "Cannabis Enforcement Tracker";
+const fullTitle = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME}: cannabis eradication, seizures, arrests and sentences worldwide`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
+// the share card: the page's own picture, else the site card (public/og.png, 1200×630)
+const ogImage = new URL(image ?? `${base}og.png`, Astro.site).href;
+const ogImageAlt = image ? imageAlt : "Cannabis Enforcement Tracker: a sourced world record of cannabis enforcement";
+const [ogWidth, ogHeight] = image ? [imageWidth, imageHeight] : [1200, 630];
+// search snippets are plain text of reasonable length; the full description stays for share cards
+const snippet = description.length > 300 ? description.slice(0, 297).replace(/\s+\S*$/, "") + "…" : description;
+const structured = [jsonLd].flat().filter(Boolean);
 const here = Astro.url.pathname.replace(base, "/");
 const REPO = "https://github.com/burningtree/cannabis-freedom-index-tracker";
 const builtLabel = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit", timeZone: "UTC" }).format(new Date(build.built_at));
@@ -17,12 +28,28 @@ const builtLabel = new Intl.DateTimeFormat("en-GB", { day: "numeric", month: "sh
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={snippet} />
+    <meta name="robots" content={noindex ? "noindex, follow" : "index, follow, max-image-preview:large, max-snippet:-1"} />
     <link rel="canonical" href={canonical} />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content="en_GB" />
     <meta property="og:type" content={ogType} />
-    <meta property="og:title" content={fullTitle} />
+    <meta property="og:title" content={title ?? fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    {ogWidth && <meta property="og:image:width" content={String(ogWidth)} />}
+    {ogHeight && <meta property="og:image:height" content={String(ogHeight)} />}
+    {ogImageAlt && <meta property="og:image:alt" content={ogImageAlt} />}
+    {published && <meta property="article:published_time" content={published} />}
+    {modified && <meta property="article:modified_time" content={modified} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title ?? fullTitle} />
+    <meta name="twitter:description" content={snippet} />
+    <meta name="twitter:image" content={ogImage} />
+    {ogImageAlt && <meta name="twitter:image:alt" content={ogImageAlt} />}
+    <link rel="sitemap" type="application/xml" href={`${base}sitemap.xml`} />
+    {structured.map((data) => <script type="application/ld+json" is:inline set:html={JSON.stringify(data).replace(/</g, "\\u003c")} />)}
     <slot name="head" />
     <meta name="theme-color" content="#0c0c0b" />
     {/* this build, for the update check and the "new since your last visit" marks (scripts/site-updates.js) */}

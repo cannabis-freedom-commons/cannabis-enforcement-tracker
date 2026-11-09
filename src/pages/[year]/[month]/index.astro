@@ -14,7 +14,7 @@ const all = [...byMonth.keys()].sort();
 const prev = all[all.indexOf(key) - 1], next = all[all.indexOf(key) + 1];
 const byType = Object.entries(countByType(list)).filter(([, n]) => n).sort((a, b) => b[1] - a[1]);
 ---
-<Base title={monthName(key)} description={`${list.length} sourced reports of cannabis enforcement in ${monthName(key)}.`}>
+<Base title={`Cannabis enforcement in ${monthName(key)}`} description={`${list.length.toLocaleString("en-GB")} sourced reports of cannabis enforcement in ${monthName(key)}.`}>
   <nav class="crumbs"><a href={`${base}reports/`}>Reports</a> / <a href={`${base}${year}/`}>{year}</a></nav>
   <h1>{monthName(key)}</h1>
   <p class="lead">{list.length.toLocaleString("en-GB")} {list.length === 1 ? "report" : "reports"}. {byType.map(([t, n]) => `${TYPES[t].plural} ${n}`).join(" · ")}</p>

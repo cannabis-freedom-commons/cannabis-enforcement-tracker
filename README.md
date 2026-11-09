@@ -37,6 +37,7 @@ production builds always load the latest reports.
 | `/agency/`, `/agency/<id>/` | The agencies of the registry (`src/data/agencies.json`) with how many reports name each; one agency's reports and totals |
 | `/changelog/` | Paginated commit history: reports added, edited, deleted and renamed, report descriptions, countries, categories and changed fields, plus a timeline of report changes; refreshed at build time |
 | `/feed.xml` | RSS feed of the 50 newest reports |
+| `/sitemap.xml`, `/robots.txt` | Written after the build from the pages it produced (`scripts/lib/sitemap.mjs`): every page except redirects and pages marked `noindex` |
 | `/about/` | What a report is, the types and statuses |
 | `/api/…` | JSON, see below |
 
@@ -241,7 +242,17 @@ npm run build
 ```
 
 `npm run build` runs the tests first and writes the site to `dist/`. Set `SITE` and `BASE_PATH` to
-build for another address. The changelog requires a Git checkout with full history (`git fetch --unshallow` for a shallow clone); partial history is labeled on the page. In development, the changelog checks Git HEAD once per second, clears cached history and refreshes an open changelog after a commit or branch switch. Restart an already-running dev server once after installing this change. `npm run dev` starts a local dev server.
+build for another address.
+
+Search and sharing: every page has a canonical URL, a description, Open Graph and Twitter card
+tags and a robots directive (`src/layouts/Base.astro`). Report pages add `Article` and
+`BreadcrumbList` structured data with the place, sources and added/updated times; the home page
+adds `WebSite`, `Organization` and `Dataset`. Working views (submissions, drafts, 404), countries
+and agencies without reports and changelog pages after the first are `noindex, follow` and stay
+out of the sitemap. Pages without a cover picture share `public/og.png`, drawn by
+`node scripts/og-card.mjs`.
+
+The changelog requires a Git checkout with full history (`git fetch --unshallow` for a shallow clone); partial history is labeled on the page. In development, the changelog checks Git HEAD once per second, clears cached history and refreshes an open changelog after a commit or branch switch. Restart an already-running dev server once after installing this change. `npm run dev` starts a local dev server.
 
 ## JSON API
 

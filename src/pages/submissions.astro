@@ -12,7 +12,7 @@ const base = import.meta.env.BASE_URL;
 const npub = import.meta.env.PUBLIC_NOSTR_BOT_NPUB || "";
 const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boolean);
 ---
-<Base title="Submissions" description="Every source sent to the tracker: what is being researched, what was published and why the rest was not." wide>
+<Base title="Submissions" description="Every source sent to the tracker: what is being researched, what was published and why the rest was not." wide noindex>
   <div class="sx" data-submission-register data-submissions data-api={api} data-base={base}>
     <header class="sx-head">
       <div>

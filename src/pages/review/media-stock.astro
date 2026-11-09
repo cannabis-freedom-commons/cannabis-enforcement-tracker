@@ -13,8 +13,7 @@ const counts = {
   soft: candidates.filter((c) => c.strength === "soft").length,
 };
 ---
-<Base title="Media review · stock / AI" description="Internal review of caption-flagged stock, illustration and AI media." wide>
-  <meta slot="head" name="robots" content="noindex, nofollow" />
+<Base title="Media review · stock / AI" description="Internal review of caption-flagged stock, illustration and AI media." wide noindex>
   <div class="mr" data-media-review data-base={base}>
     <script type="application/json" id="mr-data" set:html={JSON.stringify(candidates).replace(/</g, "\\u003c")} />
     <header class="mr-head">

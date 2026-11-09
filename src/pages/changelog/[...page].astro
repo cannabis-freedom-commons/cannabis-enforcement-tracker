@@ -27,7 +27,7 @@ const labels = { added: "Added", edited: "Edited", deleted: "Deleted", renamed: 
 const symbols = { added: "+", edited: "~", deleted: "−", renamed: "→" };
 const dateLabel = (value) => new Date(value).toLocaleString("en-GB", { dateStyle: "long", timeStyle: "short", timeZone: "UTC" });
 ---
-<Base title={number === 1 ? "Changelog" : `Changelog · Page ${number}`} description="Commit history of the tracker: reports added, edited, deleted and renamed, with descriptions of the changes.">
+<Base title={number === 1 ? "Changelog" : `Changelog · Page ${number}`} description="Commit history of the tracker: reports added, edited, deleted and renamed, with descriptions of the changes." noindex={number > 1}>
   <h1>Changelog</h1>
   <p class="lead">Report additions, edits and other changes to the tracker. Newest first.</p>
   <p class="history-note">Updated each build · Commit times in UTC · Counts include repeated changes to a report.</p>

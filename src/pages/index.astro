@@ -10,8 +10,42 @@ import { reports, countriesWithReports, totals } from "../lib/reports.js";
 const t = totals(reports);
 const fmt = (n) => n.toLocaleString("en-GB");
 const base = import.meta.env.BASE_URL;
+const site = new URL(base, Astro.site).href;
+const description = `A sourced world record of cannabis enforcement: ${fmt(t.reports)} reports of eradication, seizures, raids, arrests, prosecutions, sentences and executions in ${countriesWithReports().length} countries and states, on a map.`;
+const jsonLd = [{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": `${site}#website`,
+  name: "Cannabis Enforcement Tracker",
+  url: site,
+  description,
+  inLanguage: "en",
+  publisher: { "@id": `${site}#organization` },
+}, {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": `${site}#organization`,
+  name: "Cannabis Enforcement Tracker",
+  url: site,
+  logo: new URL(`${base}og.png`, Astro.site).href,
+  sameAs: ["https://github.com/burningtree/cannabis-freedom-index-tracker"],
+  parentOrganization: { "@type": "Organization", name: "Cannabis Freedom Index", url: "https://cannabisfreedom.fyi/" },
+}, {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  name: "Cannabis Enforcement Tracker reports",
+  description,
+  url: site,
+  license: "https://creativecommons.org/licenses/by/4.0/", // report texts and data (README.md, Licence)
+  creator: { "@id": `${site}#organization` },
+  isAccessibleForFree: true,
+  distribution: [
+    { "@type": "DataDownload", encodingFormat: "application/json", contentUrl: new URL(`${base}api/reports.json`, Astro.site).href },
+    { "@type": "DataDownload", encodingFormat: "application/rss+xml", contentUrl: new URL(`${base}feed.xml`, Astro.site).href },
+  ],
+}];
 ---
-<Base app>
+<Base app description={description} jsonLd={jsonLd}>
   <div class="home">
     <h1 class="sr-only">Cannabis Enforcement Tracker: the map of reports</h1>
     <div class="home-map">

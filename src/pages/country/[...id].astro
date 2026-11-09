@@ -29,8 +29,14 @@ const figures = [
   ["Cannabis seized", t.kg_seized, formatWeight(t.kg_seized, 6), formatWeight(t.kg_seized)], ["Deaths", t.deaths],
 ].filter(([, v]) => v > 0);
 const hasCfi = Boolean(cfiOf(id));
+const crumbs = [["Countries", `${base}country/`], ...(c.parent ? [[countryName(c.parent), `${base}country/${c.parent}/`]] : []), [name, Astro.url.pathname]];
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: crumbs.map(([n, href], i) => ({ "@type": "ListItem", position: i + 1, name: n, item: new URL(href, Astro.site).href })),
+};
 ---
-<Base title={`${name}: cannabis enforcement`} description={`${list.length} sourced reports of cannabis eradication, seizures, raids, arrests and sentences in ${name}.`} wide>
+<Base title={`${name}: cannabis enforcement`} description={list.length ? `${fmt(list.length)} sourced ${list.length === 1 ? "report" : "reports"} of cannabis eradication, seizures, raids, arrests and sentences in ${name}, on a map and by year.` : `No cannabis enforcement reports from ${name} yet.`} wide noindex={list.length === 0} jsonLd={jsonLd}>
   <nav class="crumbs"><a href={`${base}country/`}>Countries</a>{c.parent && <> / <a href={`${base}country/${c.parent}/`}>{countryName(c.parent)}</a></>}</nav>
   <link slot="head" rel="alternate" type="application/rss+xml" href={`${base}feed/${id}.xml`} title={`${name}: new reports (RSS)`} />
   <div class="reports-heading">

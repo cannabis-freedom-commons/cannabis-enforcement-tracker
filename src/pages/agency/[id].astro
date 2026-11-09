@@ -19,7 +19,7 @@ const fmt = (n) => n.toLocaleString("en-GB");
 const typeLabel = vocabularies.agency_type.find((x) => x.id === agency.type)?.label ?? agency.type;
 const figures = [["People arrested", t.arrested], ["Plants destroyed", t.plants_destroyed], ["Cannabis seized", t.kg_seized, formatWeight(t.kg_seized, 6)]].filter(([, v]) => v > 0);
 ---
-<Base title={agency.name} description={`${fmt(list.length)} cannabis enforcement reports naming ${agency.name}.`}>
+<Base title={`${agency.name}: cannabis enforcement reports`} noindex={list.length === 0} description={`${fmt(list.length)} cannabis enforcement reports naming ${agency.name}.`}>
   <nav class="crumbs" aria-label="Breadcrumb"><a href={`${base}agency/`}>Agencies</a>{agency.country && <> / <a href={`${base}country/${agency.country}/`}>{countryName(agency.country)}</a></>}</nav>
   <h1>{agency.name}</h1>
   <p class="lead">{agency.country ? <>{flagOf(agency.country)} {countryName(agency.country)}</> : "International"} · {typeLabel} · {fmt(list.length)} {list.length === 1 ? "report" : "reports"}</p>

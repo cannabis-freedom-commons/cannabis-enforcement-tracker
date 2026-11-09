@@ -14,7 +14,7 @@ const max = Math.max(1, ...bars.map((b) => b.count));
 const byType = Object.entries(countByType(all)).filter(([, n]) => n).sort((a, b) => b[1] - a[1]);
 const i = years.indexOf(year);
 ---
-<Base title={`${year}`} description={`${all.length} sourced reports of cannabis enforcement in ${year}, month by month.`} wide>
+<Base title={`Cannabis enforcement in ${year}`} description={`${all.length.toLocaleString("en-GB")} sourced reports of cannabis enforcement in ${year}, month by month.`} wide>
   <nav class="crumbs"><a href={`${base}reports/`}>Reports</a> / By date</nav>
   <h1>{year}</h1>
   <p class="lead">{all.length.toLocaleString("en-GB")} reports. {byType.map(([t, n]) => `${TYPES[t].plural} ${n}`).join(" · ")}</p>

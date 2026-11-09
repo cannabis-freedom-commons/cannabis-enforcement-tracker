@@ -8,7 +8,7 @@ import CfiWidget from "../../components/CfiWidget.astro";
 import ReportItem from "../../components/ReportItem.astro";
 import { reports, related, formatDate, isoDate, reportHistory } from "../../lib/reports.js";
 import { TYPES, STATUS, PRECISION_INFO } from "../../lib/types.js";
-import { flagOf } from "../../lib/countries.js";
+import { flagOf, countryName } from "../../lib/countries.js";
 import { landraceAt } from "../../lib/landrace.js";
 import { relative } from "node:path";
 import AddedAt from "../../components/AddedAt.astro";
@@ -64,19 +64,49 @@ const mapLinks = r.coordinates ? [
 ] : [];
 // the place and its country, the country left out when the place already ends with it
 const where = r.place?.endsWith(r.countryName) ? r.place : [r.place, r.countryName].filter(Boolean).join(" · ");
+// structured data for search: the report as an article about a place, with its sources and the
+// breadcrumb the page shows
+const site = new URL(base, Astro.site).href;
+const pageUrl = new URL(Astro.url.pathname, Astro.site).href;
+const tracker = { "@type": "Organization", "@id": `${site}#organization`, name: "Cannabis Enforcement Tracker", url: site };
+const jsonLd = [{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": `${pageUrl}#article`,
+  headline: r.title.length > 110 ? r.title.slice(0, 107).replace(/\s+\S*$/, "") + "…" : r.title,
+  name: r.title,
+  description: r.summary,
+  url: pageUrl,
+  mainEntityOfPage: pageUrl,
+  identifier: `CET-${r.code}`,
+  inLanguage: "en",
+  articleSection: [r.typeLabel, ...(r.also ?? []).map((type) => TYPES[type].label)],
+  ...(r.added_at ? { datePublished: r.added_at, dateModified: r.updated_at ?? r.added_at } : {}),
+  ...(r.cover ? { image: new URL(r.cover.image.src, Astro.site).href } : {}),
+  author: tracker,
+  publisher: tracker,
+  isPartOf: { "@type": "WebSite", "@id": `${site}#website`, name: "Cannabis Enforcement Tracker", url: site },
+  contentLocation: {
+    "@type": "Place",
+    name: where,
+    address: { "@type": "PostalAddress", addressCountry: r.parent ? countryName(r.parent) : r.countryName, ...(r.parent ? { addressRegion: r.countryName } : {}), ...(r.place ? { addressLocality: r.place } : {}) },
+    ...(close && r.coordinates ? { geo: { "@type": "GeoCoordinates", latitude: lat, longitude: lon } } : {}),
+  },
+  citation: cited.filter((s) => s.url).map((s) => ({ "@type": "CreativeWork", name: s.title, url: s.url, publisher: { "@type": "Organization", name: s.publisher } })),
+}, {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Reports", item: new URL(`${base}reports/`, Astro.site).href },
+    { "@type": "ListItem", position: 2, name: r.countryName, item: new URL(`${base}country/${r.country}/`, Astro.site).href },
+    { "@type": "ListItem", position: 3, name: r.title, item: pageUrl },
+  ],
+}];
 ---
-<Base title={r.title} description={r.summary} ogType="article" wide>
+<Base title={r.title} description={r.summary} ogType="article" wide
+  image={r.cover?.image.src} imageAlt={r.cover?.alt} imageWidth={r.cover?.image.width} imageHeight={r.cover?.image.height}
+  published={r.added_at ?? undefined} modified={r.updated_at ?? r.added_at ?? undefined} jsonLd={jsonLd}>
   <meta slot="head" name="cet-report" content={r.id} />
-  <script slot="head" type="application/ld+json" is:inline set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: r.title,
-    description: r.summary,
-    url: new URL(Astro.url.pathname, Astro.site).href,
-    inLanguage: "en",
-    articleSection: [r.typeLabel, ...(r.also ?? []).map((type) => TYPES[type].label)],
-    publisher: { "@type": "Organization", name: "Cannabis Enforcement Tracker" },
-  }).replace(/</g, "\\u003c")} />
   <nav class="crumbs" aria-label="Breadcrumb"><a href={`${base}reports/`}>Reports</a> / <a href={`${base}country/${r.country}/`}>{r.countryName}</a></nav>
   {/* on a wide screen the map and the law sit in a column beside the text; narrower, under it */}
   <div class="report-layout">
