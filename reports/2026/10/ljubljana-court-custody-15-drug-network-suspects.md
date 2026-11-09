@@ -43,6 +43,11 @@ sources:
     publisher: N1
     date: 2026-10-09
     language: sl
+  - title: Sodišče podaljšalo pripore v primeru mednarodne kriminalne združbe
+    url: https://tv3m.si/article/sodisce-podaljsalo-pripore-v-primeru-mednarodne-kriminalne-zdruzbe
+    publisher: TV3
+    date: 2026-11-09
+    language: sl
 open_questions:
   - The court's account came through the STA news agency; the sources do not say which of the defendants the November extension covers or exactly how many.
   - The 51 kilograms of cannabis is police data published on 6-8 October; the November report does not revise it.
@@ -51,6 +56,7 @@ open_questions:
   - The suspects are identified only by the countries where they lived; no personal details were published.
   - The text gives a weight ("51 kilograms") but the figures have no kg_seized; check whether it belongs there.
   - Left out arrested, as its quotation was not found in Regional Obala.
+  - TV3 credits the text to the STA news agency, the same agency behind the November decision account the existing report already cites, so it is not independent reporting of the court's decision.
 ---
 
 Ljubljana District Court held a custody hearing for 15 suspects in a four-year
@@ -59,10 +65,10 @@ international drug investigation and ordered pre-trial detention for 13 of them.
 13 were detained over the danger of reoffending and of absconding, and nine over
 the danger of reoffending, the court told the STA news agency. [@3] In November
 2026 the court extended pre-trial detention by two months for most defendants
-and replaced detention with house arrest for one. [@1]
+and replaced detention with house arrest for one. [@1,4]
 
 Police had searched 41 addresses across Slovenia and arrested 34 suspects, 15 of
-whom were brought before an investigating judge. [@1] The investigation lasted
+whom were brought before an investigating judge. [@1,4] The investigation lasted
 four years and targeted a criminal group operating in several European
 countries, whose members lived in Slovenia, Croatia, Bosnia and Herzegovina,
 Spain and the Netherlands. [@2] Police said they had looked into more than 60
@@ -72,4 +78,3 @@ In Slovenia, police said they had seized 51 kilograms of cannabis, part of a
 haul in that country that also included 15 kilograms of amphetamine, firearms
 and 88,000 euros in cash. [@1] Police valued the drugs seized in all the
 countries involved at more than 37 million euros on the market. [@1]
-
