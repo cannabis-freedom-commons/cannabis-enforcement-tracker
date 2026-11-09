@@ -183,6 +183,9 @@ open_questions:
   - This account gives the approach as 7.5 hours on foot, arriving about 14.00 WIB, while the existing report's main account says about seven hours one way and 14 hours round trip; other accounts already in the report say eight or nine hours.
   - This account gives plant height as about one to 1.5 metres, while the existing report describes the plants as about one to two metres tall.
   - The page's main photo carries only the article headline as its caption and no credit, and it appears to republish the provincial police handout already covered from other outlets, so no media entry is added.
+  - The RRI page gives no date of its own for the destruction beyond the deputy regent's remarks in Panyabungan on Saturday 7 November 2026; 31 October 2026 from the eradication accounts is retained.
+  - The RRI page pairs the five hectares in Tambangan district with the Tor Sihite name only in a later paragraph and names no village, so the site identification rests on the earlier accounts.
+  - The page photo is credited only as a Diskominfo Madina handout captioned as the five-hectare destruction in Tambangan district and appears to repeat the agency imagery already covered, so no new media entry is added.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -474,6 +477,11 @@ sources:
     publisher: Harian Dialog
     date: 2026-11-08
     language: id
+  - title: Wabup Madina Apresiasi Atensi Polri Memusnahkan Ladang Ganja
+    url: https://rri.co.id/sibolga/berita-lain/2881171/wabup-madina-apresiasi-atensi-polri-memusnahkan-ladang-ganja
+    publisher: RRI.co.id
+    date: 2026-11-09
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -603,3 +611,5 @@ The tip that started the operation went to the Mandailing Natal police drug unit
 In Panyabungan on 7 November 2026, Mandailing Natal deputy regent Atika Azmi Utammi Nasution said she hoped the destruction operations would continue, so the government's effort to move residents to other crops could be realised faster. [@55,56,57]
 
 Officers uprooted and burned 149,980 of the plants on site and kept 20 stalks as evidence. [@58] The crop was five to six months old and stood about one to 1.5 metres tall. [@58] Provincial police spokesman Kombes Pol Ferry Walintukan said investigators were still questioning witnesses and sending the evidence to the provincial police forensic laboratory, and that police were hunting those responsible for the field. [@58] The find was part of the 2026 Narkoba Law Enforcement Operation (Gakkum), carried out by North Sumatra police with the National Narcotics Agency, the military, the public order agency and residents. [@58]
+
+The five-hectare fields destroyed in Tambangan district, Mandailing Natal, were cleared by a joint team of police, army personnel, the regency narcotics agency BNNK, the civil-service police unit Satpol PP and local residents. [@59] At least 150,000 cannabis plants were burned at the Tor Sihite site. [@59]
