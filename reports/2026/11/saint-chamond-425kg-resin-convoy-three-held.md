@@ -61,27 +61,33 @@ sources:
     publisher: ICI Saint-Étienne Loire (Radio France)
     date: 2026-11-09
     language: fr
+  - title: 'Narcotrafic : 425 kilos de résine de cannabis saisis à Saint-Chamond'
+    url: https://www.leprogres.fr/faits-divers-justice/2026/11/09/narcotrafic-425-kilos-de-resine-de-cannabis-saisis-a-saint-chamond
+    publisher: Le Progrès
+    date: 2026-11-09
+    language: fr
 open_questions:
   - The amount of cash seized in the searches was not published.
   - The reports do not say when a trial might take place or what sentences the three men could face.
   - The convoy was followed from Perpignan, but the articles do not identify the exact border crossing from Spain.
   - 'Left out, as its quotation was not found in Radio Scoop: The two men in the convoy and the man at whose home the load was to be delivered were arrested as the drugs were being unloaded, with the support of the GIGN, the gendarmerie''s intervention unit, from Orange.'
   - 'Left out, as its quotation was not found in Radio Scoop: The Saint-Étienne prosecutor''s office put the street resale value of the resin at several million euros.'
+  - Le Progrès publishes only an illustration photo captioned as such ("Photo d'illustration"), so no media entry is added for this source.
+  - Le Progrès does not state the exact amount of cash seized, nor the date on which the three were brought before the court (6 November is taken from the report's earlier sources).
 ---
 
 Three men aged between 28 and 45 were arrested in Saint-Chamond, in the Loire
-department, in the late morning of Monday 2 November 2026. [@1]
+department, in the late morning of Monday 2 November 2026. [@1,4]
 
 Gendarmes of the Lyon research section had opened a preliminary investigation at
 the end of August 2026 into an organisation suspected of importing cannabis
-resin. [@2] The convoy's two cars had loaded 425 kg of cannabis resin in
+resin. [@2,4] The convoy's two cars had loaded 425 kg of cannabis resin in
 Perpignan, after the drug had come from Spain, and were heading for the
-Saint-Étienne and Lyon markets. [@3]
+Saint-Étienne and Lyon markets. [@3,4]
 
 Searches found 425 kg of cannabis resin and cash, whose amount was not stated.
-[@2] The three suspects, from Saint-Chamond, Annonay in Ardèche and Vénissieux
+[@2,4] The three suspects, from Saint-Chamond, Annonay in Ardèche and Vénissieux
 in the Rhône, were brought before the Saint-Étienne court on 6 November and
-placed in pre-trial detention. [@2] They were charged and placed in pre-trial
+placed in pre-trial detention. [@2,4] They were charged and placed in pre-trial
 detention in a judicial investigation opened for acquiring, transporting,
-importing, possessing, offering and supplying narcotics. [@3]
-
+importing, possessing, offering and supplying narcotics. [@3,4]
