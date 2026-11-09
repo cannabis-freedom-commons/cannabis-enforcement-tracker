@@ -23,6 +23,11 @@ media:
     media_url: https://www.cataniatoday.it/~media/horizontal-hi/52133851061950/fiumefreddo-di-sicilia-il-cane-king-fiuta-eroina-e-hashish-arrestato-un-54enne.jpg
     publisher: CataniaToday
     caption: 'Photo published with the report of the Carabinieri search in Fiumefreddo di Sicilia, on a page headlined on the drug dog King sniffing out heroin and hashish; no caption or credit identifies the photographer. Photo: CataniaToday'
+  - kind: photo
+    url: https://newsicilia.it/catania/cronaca/fiumefreddo-di-sicilia-il-cane-antidroga-king-fiuta-eroina-hashish-e-marijuana-in-camera-da-letto-arrestato-54enne/1123417/
+    media_url: https://newsicilia.it/wp-content/uploads/2026/11/Foto-Fiumefreddo-di-Sicilia-1-CT-e1794219590799.jpg
+    publisher: NewSicilia
+    caption: 'Photo published with the NewSicilia report of the Carabinieri search at Fiumefreddo di Sicilia, on a page headlined on the drug dog King finding heroin, hashish and marijuana in a bedroom; no caption or credit identifies the photographer. Photo: NewSicilia'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 66c8eceba101f2003dcfe91011d92b13
@@ -33,6 +38,11 @@ sources:
     publisher: CataniaToday
     date: 2026-11-09
     language: it
+  - title: 'Fiumefreddo di Sicilia, il cane antidroga King fiuta eroina, hashish e marijuana in camera da letto: arrestato 54enne'
+    url: https://newsicilia.it/catania/cronaca/fiumefreddo-di-sicilia-il-cane-antidroga-king-fiuta-eroina-hashish-e-marijuana-in-camera-da-letto-arrestato-54enne/1123417/
+    publisher: NewSicilia
+    date: 2026-11-09
+    language: it
 open_questions:
   - No date or time is given for the search; 9 November 2026 is the article's publication date and is used as the incident date.
   - The article gives amounts as grams, with hashish as "almost 3 grams" and marijuana as 1.50 grams; the combined 4.5 grams is a sum of these reported amounts.
@@ -40,23 +50,26 @@ open_questions:
   - The man is identified only by his age, and no plea, charge before a judge or court outcome was reported.
   - Only one accessible source for this event was found.
   - The page's single image carries no caption or credit confirming what it depicts, so it is listed only as the page's photo of the report.
+  - NewSicilia reproduces the same Carabinieri account as previously cited outlets, so it is not independent reporting of the arrest.
+  - No street value estimate was published in this account, and no plea, charge before a judge or court outcome was reported.
 ---
 
 Carabinieri arrested a 54-year-old local man in Fiumefreddo di Sicilia, in the
-province of Catania, on suspicion of possessing drugs for sale. [@1] The search
+province of Catania, on suspicion of possessing drugs for sale. [@1,2] The search
 was carried out by officers of the Fiumefreddo di Sicilia station with
 colleagues from the Calatabiano station, the Giarre Radiomobile unit and the
-Carabinieri dog unit from Nicolosi. [@1]
+Carabinieri dog unit from Nicolosi. [@1,2]
 
 The man was already serving a probation order to social services (affidamento in
-prova ai servizi sociali) for earlier offences. [@1] During the search of his
+prova ai servizi sociali) for earlier offences. [@1,2] During the search of his
 flat the drug dog King led officers straight to the bedroom, where three bags on
 the dresser held 10 grams of heroin, almost 3 grams of hashish and 1.50 grams of
-marijuana. [@1] A ready-to-use marijuana and tobacco joint was found on the
+marijuana. [@1,2] A ready-to-use marijuana and tobacco joint was found on the
 bedside table. [@1] Officers also seized a working precision scale and pieces of
-cellophane judged suitable for packing the drugs into doses. [@1] The drugs will
+cellophane judged suitable for packing the drugs into doses. [@1,2] The drugs will
 go to the competent laboratory for qualitative and quantitative tests to
-establish their exact nature and characteristics, the Carabinieri said. [@1]
+establish their exact nature and characteristics, the Carabinieri said. [@1,2]
 After the operation the man was arrested and placed at the disposal of the
-judicial authorities. [@1]
+judicial authorities. [@1,2]
 
+The three bags of heroin, hashish and marijuana were hidden on the dresser (il comò), while the ready-to-use marijuana and tobacco joint lay on the bedside table (il comodino). [@2]
