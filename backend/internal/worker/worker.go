@@ -26,9 +26,9 @@ type Worker struct {
 	// backend through Backend instead.
 	Store   *store.Store
 	Backend Backend
-	Config config.Config
-	Nostr  *nostr.Service
-	Health *research.Health
+	Config  config.Config
+	Nostr   *nostr.Service
+	Health  *research.Health
 	// FetchImage downloads a photo for the duplicate check; tests replace it
 	FetchImage      func(context.Context, string) ([]byte, error)
 	observeResearch func(error)
@@ -62,11 +62,19 @@ func (w *Worker) Run(parent context.Context) {
 		go func() { defer close(outboxDone); w.outbox(ctx) }()
 	}
 	// Research loops share one random allocator with independent per-agent limits.
+	// With remote workers (RESEARCH_MODE=remote) the backend researches nothing itself.
 	loops := w.Config.MaxWorkers()
+	if w.Config.Remote() {
+		loops = 0
+	}
 	pool := newAgentPool(w.Config, w.Health)
 	var wg sync.WaitGroup
-	if !w.Config.Demo && len(pool.agents) > 0 {
-		wg.Go(func() { pool.recoverAgents(ctx, w.Config, w.backend()) })
+	if !w.Config.Demo && !w.Config.Remote() && len(pool.agents) > 0 {
+		var log research.RunLog
+		if w.Store != nil {
+			log = Local{w.Store}
+		}
+		wg.Go(func() { pool.recoverAgents(ctx, w.Config, log) })
 	}
 	// job storage: build leftovers and finished requests' workspaces are cleaned up
 	wg.Add(1)
@@ -80,6 +88,44 @@ func (w *Worker) Run(parent context.Context) {
 	wg.Add(1)
 	go func() { defer wg.Done(); w.jobs(ctx, "publish", nil) }()
 	wg.Wait()
+}
+
+// finishJob ends a job after an attempt: the lease is released (to retry later when err is set),
+// a request out of retries is marked failed, and the case's workspaces and screenshots are tidied
+// (clean: the workspaces are on this machine). A job replaced by a review or held back is already
+// back in the queue. The backend calls this for remote workers' jobs too.
+func (w *Worker) finishJob(ctx context.Context, j store.Job, err error, clean bool) {
+	if errors.Is(err, errCoverageRequeued) || errors.Is(err, errHeldBack) {
+		// The fenced job was atomically replaced by a research review, or put back to wait
+		// for a related submission.
+		return
+	}
+	if err != nil && !errors.Is(err, store.ErrBudget) && !errors.Is(err, store.ErrConfiguration) && !errors.Is(err, store.ErrInterrupted) {
+		// Private operator diagnostics, never part of the public AI transcript.
+		slog.Error("job processing failed", "job", j.ID, "kind", j.Kind, "case", j.Ref, "attempt", j.Attempts, "error", err)
+	}
+	if err != nil && j.Attempts >= 8 && !errors.Is(err, store.ErrInterrupted) && !errors.Is(err, store.ErrBudget) && !errors.Is(err, store.ErrConfiguration) && !errors.Is(err, store.ErrResearchAgent) {
+		_ = w.Store.Transition(ctx, j.Ref, "failed", "Processing exhausted its retry budget. Restart this submission on localhost to try again.", "", "")
+	}
+	finishCtx, finishCancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer finishCancel()
+	finishErr := w.Store.Finish(finishCtx, "jobs", j, err)
+	if finishErr == nil && err != nil {
+		w.waitingToRetry(finishCtx, j, err)
+	}
+	if finishErr == nil && clean {
+		if cleanupErr := w.cleanWorkspaces(finishCtx, j.Ref); cleanupErr != nil && finishCtx.Err() == nil {
+			slog.Warn("completed job workspace cleanup incomplete", "error", cleanupErr)
+		}
+	}
+	if finishErr == nil {
+		if archiveErr := w.archiveScreenshots(ctx, j.Ref); archiveErr != nil && ctx.Err() == nil {
+			slog.Warn("completed case screenshot archival incomplete", "error", archiveErr)
+		}
+	}
+	if finishErr != nil {
+		slog.Error("job completion failed", "job", j.ID)
+	}
 }
 
 // jobs claims and processes queued jobs (of one kind when kind is set) one after another until the
@@ -122,40 +168,10 @@ func (w *Worker) jobs(ctx context.Context, kind string, pool *agentPool) {
 			release()
 			close(stop)
 			cancel()
-			if errors.Is(err, errCoverageRequeued) || errors.Is(err, errHeldBack) {
-				// The fenced job was atomically replaced by a research review, or put back to wait
-				// for a related submission.
-				continue
-			}
-			if err != nil && !errors.Is(err, store.ErrBudget) && !errors.Is(err, store.ErrConfiguration) && !errors.Is(err, store.ErrInterrupted) {
-				// Private operator diagnostics, never part of the public AI transcript.
-				slog.Error("job processing failed", "job", j.ID, "kind", j.Kind, "case", j.Ref, "attempt", j.Attempts, "error", err)
-			}
-			if ctx.Err() != nil {
+			if ctx.Err() != nil && !errors.Is(err, errCoverageRequeued) && !errors.Is(err, errHeldBack) {
 				err = store.ErrInterrupted
 			}
-			if err != nil && j.Attempts >= 8 && !errors.Is(err, store.ErrInterrupted) && !errors.Is(err, store.ErrBudget) && !errors.Is(err, store.ErrConfiguration) && !errors.Is(err, store.ErrResearchAgent) {
-				_ = w.Store.Transition(ctx, j.Ref, "failed", "Processing exhausted its retry budget. Restart this submission on localhost to try again.", "", "")
-			}
-			finishCtx, finishCancel := context.WithTimeout(context.Background(), 5*time.Second)
-			finishErr := w.Store.Finish(finishCtx, "jobs", j, err)
-			if finishErr == nil && err != nil {
-				w.waitingToRetry(finishCtx, j, err)
-			}
-			if finishErr == nil {
-				if cleanupErr := w.cleanWorkspaces(finishCtx, j.Ref); cleanupErr != nil && finishCtx.Err() == nil {
-					slog.Warn("completed job workspace cleanup incomplete", "error", cleanupErr)
-				}
-			}
-			finishCancel()
-			if finishErr == nil {
-				if archiveErr := w.archiveScreenshots(ctx, j.Ref); archiveErr != nil && ctx.Err() == nil {
-					slog.Warn("completed case screenshot archival incomplete", "error", archiveErr)
-				}
-			}
-			if finishErr != nil {
-				slog.Error("job completion failed", "job", j.ID)
-			}
+			w.finishJob(ctx, j, err, true)
 
 		}
 	}
@@ -771,6 +787,13 @@ type draftJob struct {
 	Coverage                                   map[string]string // reports seen by the model, retained through recovery
 	AliasDigest                                string            `json:",omitempty"`
 	IdentityResult                             *research.Result  `json:",omitempty"`
+	// A draft a remote worker uploaded (Uploaded): the git blobs its changed reports started from
+	// (in place of Dir's own git history), and its photos, downloaded by the worker into MediaDir
+	// (in Dir; "" when there were none).
+	Uploaded   bool              `json:",omitempty"`
+	BaseBlobs  map[string]string `json:",omitempty"`
+	MediaDir   string            `json:",omitempty"`
+	MediaError string            `json:",omitempty"`
 }
 
 // fileJob is another existing report a run changes, checked like the main draft.
@@ -822,7 +845,13 @@ func (w *Worker) publish(ctx context.Context, j store.Job) error {
 	for _, u := range d.Updates {
 		rels = append(rels, u.Rel)
 	}
-	media, mediaErr := prepareMedia(ctx, w.Config.RepoPath, d.Dir, rels)
+	var media *mediaBatch
+	var mediaErr error
+	if d.Uploaded {
+		media, mediaErr = uploadedMedia(d)
+	} else {
+		media, mediaErr = prepareMedia(ctx, w.Config.RepoPath, d.Dir, rels)
+	}
 	defer media.Close()
 	sha, mediaNote, err := commitReportWithMedia(ctx, w.Config.RepoPath, j.Ref, d, media)
 	if err != nil {

@@ -53,6 +53,12 @@ type Config struct {
 	RunCents, DailyCents                                                        int
 	GitHubAppID, GitHubInstallationID, GitHubKeyFile, GitHubRepo, WebhookSecret string
 	Demo                                                                        bool
+	// ResearchMode "local" runs research in the backend process; "remote" leaves it to separate
+	// workers (cmd/tracker-worker) that connect with one of WorkerTokens (docs/WORKERS.md).
+	ResearchMode string
+	WorkerTokens map[string]string // token → worker name
+	// A worker's own settings: the backend it works for and its token.
+	TrackerURL, WorkerToken string
 }
 
 func env(k, d string) string {
@@ -279,8 +285,30 @@ func Load() (Config, error) {
 	if c.IngestToken != "" && len(c.IngestToken) < 32 {
 		return c, errors.New("ingest token must be at least 32 characters")
 	}
+	c.ResearchMode = env("RESEARCH_MODE", "local")
+	if c.ResearchMode != "local" && c.ResearchMode != "remote" {
+		return c, errors.New("RESEARCH_MODE must be local or remote")
+	}
+	if raw := os.Getenv("WORKER_TOKENS"); raw != "" {
+		c.WorkerTokens = map[string]string{}
+		for _, entry := range strings.Split(raw, ",") {
+			name, token, ok := strings.Cut(strings.TrimSpace(entry), ":")
+			if !ok || !regexp.MustCompile(`^[a-z0-9][a-z0-9-]{0,31}$`).MatchString(name) || len(token) < 32 {
+				return c, errors.New("WORKER_TOKENS must be name:token pairs, each token at least 32 characters")
+			}
+			c.WorkerTokens[token] = name
+		}
+	}
+	if c.ResearchMode == "remote" && len(c.WorkerTokens) == 0 {
+		return c, errors.New("RESEARCH_MODE=remote needs WORKER_TOKENS")
+	}
+	c.TrackerURL = strings.TrimRight(os.Getenv("TRACKER_URL"), "/")
+	c.WorkerToken = os.Getenv("WORKER_TOKEN")
 	return c, nil
 }
+
+// Remote says research runs on separate workers, not in this process.
+func (c Config) Remote() bool { return c.ResearchMode == "remote" }
 
 func (c Config) ResearchEnabled() bool {
 	return len(c.Agents()) > 0 && (c.ResearchRunner == "local" || (c.ResearchImage != "" && c.ResearchKey != ""))

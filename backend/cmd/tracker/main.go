@@ -168,7 +168,7 @@ func run() error {
 		return s.Restart(ctx, *retry)
 	}
 
-	if err := s.Recover(ctx); err != nil {
+	if err := s.RecoverKeeping(ctx, c.Remote()); err != nil {
 		return fmt.Errorf("recover interrupted processing: %w", err)
 	}
 	if c.DailyCents == 0 {
@@ -183,8 +183,19 @@ func run() error {
 	}
 	health := research.NewAgentHealth(c.Agents())
 	w := worker.Worker{Store: s, Config: c, Health: health}
+	// with RESEARCH_MODE=remote, separate workers do the research (docs/WORKERS.md)
+	var workers *worker.API
+	if c.Remote() {
+		health = research.NewHealth()
+		w.Health = health
+		workers = &worker.API{Worker: &w, Health: health}
+		go workers.Watch(ctx)
+		slog.Info("research is left to remote workers", "workers", len(c.WorkerTokens))
+	}
 	checkDone := make(chan struct{})
-	if !c.Demo && c.ResearchEnabled() {
+	if c.Remote() {
+		close(checkDone)
+	} else if !c.Demo && c.ResearchEnabled() {
 		go func() {
 			defer close(checkDone)
 			checkAgents(ctx, c, s, health)
@@ -242,7 +253,16 @@ func run() error {
 
 	done := make(chan struct{})
 	go func() { defer close(done); w.Run(ctx) }()
-	server := &http.Server{BaseContext: func(net.Listener) context.Context { return ctx }, Addr: c.Addr, Handler: (&api.Server{Store: s, Config: c, Health: health}).Handler(), ReadHeaderTimeout: 5 * time.Second, ReadTimeout: 15 * time.Second, WriteTimeout: 30 * time.Second, IdleTimeout: 60 * time.Second, MaxHeaderBytes: 16384}
+	apiServer := &api.Server{Store: s, Config: c, Health: health}
+	handler := apiServer.Handler()
+	if workers != nil {
+		apiServer.RemoteAgents = workers.Agents
+		mux := http.NewServeMux()
+		mux.Handle("/worker/", workers.Handler())
+		mux.Handle("/", handler)
+		handler = mux
+	}
+	server := &http.Server{BaseContext: func(net.Listener) context.Context { return ctx }, Addr: c.Addr, Handler: handler, ReadHeaderTimeout: 5 * time.Second, ReadTimeout: 15 * time.Second, WriteTimeout: 30 * time.Second, IdleTimeout: 60 * time.Second, MaxHeaderBytes: 16384}
 	shutdownDone := make(chan struct{})
 	go func() {
 		defer close(shutdownDone)

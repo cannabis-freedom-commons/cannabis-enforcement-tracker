@@ -31,7 +31,16 @@ func LockWorker(database string) (*os.File, error) {
 
 // Recover is called only under the exclusive process lock, before workers start.
 // Preserve checkpoints, publication intents, reservations and outbox payloads.
-func (s *Store) Recover(ctx context.Context) error {
+func (s *Store) Recover(ctx context.Context) error { return s.RecoverKeeping(ctx, false) }
+
+// RecoverKeeping is Recover; with remote set, research jobs leased to separate workers keep their
+// leases (and their runs go on): a backend restart does not stop the workers' research. A lease
+// that runs out while the backend is down is taken again as usual.
+func (s *Store) RecoverKeeping(ctx context.Context, remote bool) error {
+	research := ""
+	if remote {
+		research = " AND kind<>'research'"
+	}
 	tx, err := s.DB.BeginTx(ctx, nil)
 	if err != nil {
 		return err
@@ -39,15 +48,19 @@ func (s *Store) Recover(ctx context.Context) error {
 	defer tx.Rollback()
 	now := time.Now().Unix()
 	for _, table := range []string{"jobs", "outbox"} {
-		if _, err = tx.ExecContext(ctx, "UPDATE "+table+" SET status='queued',available_at=?,lease_until=0,lease_token='',attempts=max(0,attempts-1),error_code='server_interrupted' WHERE status='running'", now); err != nil {
+		keep := ""
+		if table == "jobs" {
+			keep = research
+		}
+		if _, err = tx.ExecContext(ctx, "UPDATE "+table+" SET status='queued',available_at=?,lease_until=0,lease_token='',attempts=max(0,attempts-1),error_code='server_interrupted' WHERE status='running'"+keep, now); err != nil {
 			return err
 		}
 	}
 	if _, err = tx.ExecContext(ctx, `INSERT INTO ai_events(case_id,run_id,role,kind,text,created_at)
- SELECT case_id,id,'system','message','The server stopped during this AI run. Processing will recover automatically; earlier activity and usage are retained.',? FROM research_runs WHERE status IN ('starting','preparing','running')`, now); err != nil {
+ SELECT case_id,id,'system','message','The server stopped during this AI run. Processing will recover automatically; earlier activity and usage are retained.',? FROM research_runs WHERE status IN ('starting','preparing','running')`+remoteRuns(remote), now); err != nil {
 		return err
 	}
-	if _, err = tx.ExecContext(ctx, "UPDATE research_runs SET status='interrupted',finished_at=? WHERE status IN ('starting','preparing','running')", now); err != nil {
+	if _, err = tx.ExecContext(ctx, "UPDATE research_runs SET status='interrupted',finished_at=? WHERE status IN ('starting','preparing','running')"+remoteRuns(remote), now); err != nil {
 		return err
 	}
 	// Repair orphaned intermediate cases as well as leases. A durable publish intent wins
@@ -72,4 +85,12 @@ func (s *Store) Recover(ctx context.Context) error {
 		return err
 	}
 	return tx.Commit()
+}
+
+// remoteRuns leaves out the runs of research jobs still leased to a worker.
+func remoteRuns(remote bool) string {
+	if !remote {
+		return ""
+	}
+	return " AND NOT EXISTS(SELECT 1 FROM jobs j WHERE j.ref=research_runs.case_id AND j.kind='research' AND j.status='running')"
 }

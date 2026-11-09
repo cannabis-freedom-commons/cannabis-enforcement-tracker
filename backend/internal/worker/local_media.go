@@ -326,3 +326,67 @@ func lastLine(out []byte, err error) string {
 	}
 	return err.Error()
 }
+
+// mediaFile is the manifest of photos a worker downloaded for a draft, in the draft's MediaDir.
+const mediaFile = "media.json"
+
+// uploadedMedia is the batch of photos a remote worker downloaded with its draft (see
+// prepareMedia), or the error it had downloading them.
+func uploadedMedia(d draftJob) (*mediaBatch, error) {
+	if d.MediaError != "" {
+		return nil, errors.New(d.MediaError)
+	}
+	if d.MediaDir == "" {
+		return nil, nil
+	}
+	dir := filepath.Join(d.Dir, d.MediaDir)
+	b, err := os.ReadFile(filepath.Join(dir, mediaFile))
+	if err != nil {
+		return nil, err
+	}
+	batch := &mediaBatch{tmp: dir, input: filepath.Join(dir, "input.json")}
+	if err = json.Unmarshal(b, &batch.items); err != nil {
+		return nil, err
+	}
+	for i, it := range batch.items {
+		if it.File == "" {
+			continue
+		}
+		if strings.ContainsAny(it.File, "/\\") || it.File == "." || it.File == ".." {
+			return nil, errors.New("invalid media file name")
+		}
+		batch.items[i].File = filepath.Join(dir, it.File)
+	}
+	data, _ := json.Marshal(batch.items)
+	if err = os.WriteFile(batch.input, data, 0600); err != nil {
+		return nil, err
+	}
+	return batch, nil
+}
+
+// pack copies the batch's files into dir with media.json naming them, for upload with a draft.
+func (b *mediaBatch) pack(dir string) error {
+	if err := os.MkdirAll(dir, 0700); err != nil {
+		return err
+	}
+	items := append([]mediaItem(nil), b.items...)
+	for i, it := range items {
+		if it.File == "" {
+			continue
+		}
+		name := filepath.Base(it.File)
+		data, err := os.ReadFile(it.File)
+		if err != nil {
+			return err
+		}
+		if err = os.WriteFile(filepath.Join(dir, name), data, 0600); err != nil {
+			return err
+		}
+		items[i].File = name
+	}
+	data, err := json.Marshal(items)
+	if err != nil {
+		return err
+	}
+	return os.WriteFile(filepath.Join(dir, mediaFile), data, 0600)
+}

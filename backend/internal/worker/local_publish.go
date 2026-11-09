@@ -137,6 +137,13 @@ func commitReportWithMedia(ctx context.Context, repo, cid string, d draftJob, me
 		bases = append(bases, u.Rel)
 	}
 	for _, basePath := range bases {
+		if d.Uploaded {
+			current, e := git("rev-parse", "HEAD:"+basePath)
+			if e != nil || d.BaseBlobs[basePath] == "" || strings.TrimSpace(string(current)) != d.BaseBlobs[basePath] {
+				return "", "", &coverageChanged{country: "an existing report"}
+			}
+			continue
+		}
 		baseCmd := exec.CommandContext(ctx, "git", "show", "HEAD:"+basePath)
 		baseCmd.Dir = d.Dir
 		base, e := baseCmd.Output()

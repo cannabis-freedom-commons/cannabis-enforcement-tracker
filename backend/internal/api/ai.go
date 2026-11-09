@@ -50,6 +50,26 @@ func (s *Server) processingInfo(ctx context.Context) ProcessingInfo {
 	if c.PlanUSD > 0 && c.PlanAllowanceUSD > 0 {
 		p.Plan = &Plan{PriceUSD: c.PlanUSD, AllowanceUSD: c.PlanAllowanceUSD}
 	}
+	if c.Remote() && s.RemoteAgents != nil {
+		agents, runner := s.RemoteAgents()
+		p.Agents, p.Model, p.Runner, p.MaxRunning, p.Enabled = agents, "", "OpenCode on research workers", 0, len(agents) > 0
+		if runner != "" {
+			p.Runner = "OpenCode (" + runner + ", on research workers)"
+		}
+		models := []string{}
+		for _, a := range agents {
+			models = append(models, a.Model)
+			p.MaxRunning += a.MaxWorkers
+		}
+		p.Model = strings.Join(models, ", ")
+		if s.Health != nil {
+			snapshot := s.Health.Snapshot()
+			p.Startup = &snapshot
+			p.Enabled = p.Enabled && snapshot.Status == "ready"
+			p.Reason = snapshot.Message
+		}
+		return p
+	}
 	if c.Demo {
 		p.Mode = "demo"
 		p.Enabled = true

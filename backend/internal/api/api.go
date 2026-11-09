@@ -59,8 +59,10 @@ func (l *Limiter) Allow(key string, limit int) bool {
 }
 
 type Server struct {
-	Store         *store.Store
-	Health        *research.Health
+	Store  *store.Store
+	Health *research.Health
+	// RemoteAgents lists the research agents of connected workers (RESEARCH_MODE=remote).
+	RemoteAgents  func() ([]config.ResearchAgent, string)
 	Config        config.Config
 	Limit         Limiter
 	streamMu      sync.Mutex

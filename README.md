@@ -433,6 +433,10 @@ live request table. `/submit/` redirects to `/submissions/`. AI-created reports 
 Updates preserve the original creator. Open questions are saved in report front matter
 and shown beneath its sources. Local failed submissions have a restart control; no GitHub App is needed.
 
+Research can also run on separate machines: with `RESEARCH_MODE=remote` the backend keeps the
+database, intake, harvesting and publishing, and research workers (`cmd/tracker-worker`, for example
+at home) take the jobs, open the pages and run the AI. See [docs/WORKERS.md](docs/WORKERS.md).
+
 See [docs/NOSTR-SUBMISSIONS.md](docs/NOSTR-SUBMISSIONS.md) for setup, HTTP contracts, deployment,
 privacy, backups, research isolation and rollout requirements. Use `backend/config.example.env`
 for private service configuration and `.env.example` for public-only Astro build settings.
