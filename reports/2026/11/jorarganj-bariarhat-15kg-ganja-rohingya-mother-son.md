@@ -37,6 +37,11 @@ sources:
     publisher: Newszonebd
     date: 2026-11-09
     language: bn
+  - title: চট্টগ্রামের বারইয়ারহাটে ১৫ কেজি গাঁজাসহ দুই রোহিঙ্গা আটক
+    url: https://rajshahirsomoy.com/20170
+    publisher: Rajshahir Somoy
+    date: 2026-11-09
+    language: bn
 open_questions:
   - No second published account of the 8 November arrest was found; the SRB-7 media site had not posted the release and the battalion's Facebook post could not be opened.
   - The only account reproduces the SRB-7 press release, so the account, the 15 kg figure and the 150,000 taka valuation are the battalion's own.
@@ -58,14 +63,19 @@ open_questions:
   - This account also reports that the two tried to flee with two shoulder bags on the Chattogram-bound side of the Baroiyarhat Bazar road, that the 15 kg was wrapped in three bundles, and that the pair and the ganja were handed to Jorarganj police station; those Bengali passages did not pass the quotation check in this session, so they were left out.
   - Newszonebd carries no byline beyond a news desk and reproduces the SRB-7 release, so it gives no independent confirmation of the account, the 15 kg figure or the valuation.
   - The report states that the pair carried two shoulder bags and that the 15 kg was wrapped in three bundles; no other account confirms those details.
+  - Rajshahir Somoy reproduces the same SRB-7 release as the accounts already cited, so it gives no independent confirmation of the account, the 15 kg figure or the 150,000 taka valuation.
+  - The article names no charges, case filing or court appearance date.
+  - The page photo is captioned only with the headline, and its caption and credit do not confirm it shows the two detainees or the seized ganja, so no media entry is added.
 ---
 
 Officers of SRB-7, Chattogram detained two Rohingya residents of a registered
 camp in Ukhiya with 15 kilograms of ganja during a drive in Jorarganj,
-Mirsharai, on the morning of Sunday 8 November 2026. [@1]
+Mirsharai, on the morning of Sunday 8 November 2026. [@1,4]
 
-The release put the street value of the ganja at 150,000 taka. [@1,2]
+The release put the street value of the ganja at 150,000 taka. [@1,2,4]
 
 In preliminary questioning the two said they had long bought ganja cheaply in border areas of Feni and Chattogram and sold it at higher prices to traffickers and users in Cox's Bazar. [@2,3]
 
 SRB-7 put the estimated market value of the seized ganja at 150,000 taka. [@3]
+
+The operation took place at about 8:25 am on Sunday 8 November 2026 on the Chattogram-bound side of the Dhaka-Chattogram highway at Bariyarhat Bazar. [@4] The two were waiting for a vehicle to take the ganja from Bariyarhat Bazar to Cox's Bazar. [@4] The 15 kg of ganja was packed in three bundles wrapped in polythene and tape inside two shoulder bags. [@4]
