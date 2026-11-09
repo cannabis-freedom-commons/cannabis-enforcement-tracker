@@ -79,6 +79,11 @@ sources:
     publisher: Warta.in (Wartawan Investigasi)
     date: 2026-11-09
     language: id
+  - title: Polres Jember sita 1 kg sabu dan 26 pohon ganja dari 49 tersangka
+    url: https://jatim.antaranews.com/berita/1117215/polres-jember-sita-1-kg-sabu-dan-26-pohon-ganja-dari-49-tersangka
+    publisher: ANTARA News Jawa Timur
+    date: 2026-11-09
+    language: id
 open_questions:
   - No second account of the 9 November 2026 press conference could be opened; the report rests on the SMN News article alone.
   - The 53 suspects cover all 44 cases; no cannabis-only arrest, charge or suspect count was published.
@@ -98,16 +103,20 @@ open_questions:
   - Warta.in names the conference venue as Aula Rupatama Mapolres Jember, consistent with the recorded place.
   - The page gives no weight for the 26 living plants and does not say whether they were taken away or destroyed.
   - The page's only image is an uncaptioned file named IMG_20261109_204921 showing the press conference, so no new media entry is added.
+  - ANTARA reports 40 narcotics cases and 49 suspects (46 men, three women, four repeat offenders) while the report's headline figures are 44 cases and 53 suspects; the higher totals include four dangerous-drug cases and their suspects.
+  - ANTARA states the 26 plants were grown in a pot by one suspect but does not say where or whether they were taken away or destroyed, and gives no weight for them.
+  - ANTARA cites up to 20 years, life or death for methamphetamine over 5 grams but gives no charge or penalty for the cannabis suspects.
+  - The only photo on the ANTARA page shows the Jember police press conference, including the police chief, and does not show the cannabis.
 ---
 
 Police in Jember regency, East Java, said they uncovered 44 narcotics and
 dangerous-drug cases between October and 8 November 2026 and detained 53
-suspects, five of them repeat offenders. [@1,2,5,6] Jember police chief AKBP Alaiddin
+suspects, five of them repeat offenders. [@1,2,5,6,7] Jember police chief AKBP Alaiddin
 announced the results at a press conference at the police headquarters on Monday
 9 November 2026. [@1,3,5,6]
 
 The cannabis evidence in the haul was 23.26 grams of dried ganja and 26 cannabis
-plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2,5,6] A cannabis
+plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2,5,6,7] A cannabis
 case began with the arrest of CY in Jubung village, Sukorambi subdistrict,
 holding 8.72 grams of dried ganja, which led officers to MTA in Kebonsari,
 Sumbersari. [@1,5] The inquiry then extended to Situbondo regency, where police
@@ -127,3 +136,5 @@ and a Rp5 billion fine under the 2023 Health Law. [@1,3,6]
 Police said JW admitted growing the cannabis for his own use as a user but also passed part of the crop in limited supply to people in his social circle. [@4,5] The 775.29 grams of methamphetamine were found in BSG's rented house at Perumahan Nazira Residence, Kelurahan Bintoro, Patrang, with BSG held after a positive urine test and a suspect identified as DN named as the alleged owner and still at large. [@4]
 
 Officers also seized dried ganja and two ready-to-roll ganja cigarettes along with the 26 living potted plants when they moved against JW in Situbondo regency. [@5] Seblang.com counted the sweep as 40 narcotics cases and 49 suspects, 46 men and three women, four of them repeat offenders. [@5]
+
+Jember police chief Alaiddin called the two dozen potted cannabis plants one of the most notable pieces of evidence in the networks uncovered around Jember. [@7]
