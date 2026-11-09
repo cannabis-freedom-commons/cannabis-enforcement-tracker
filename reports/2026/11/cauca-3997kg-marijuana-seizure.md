@@ -108,6 +108,11 @@ sources:
     publisher: SWI swissinfo.ch / Agencia EFE
     date: 2026-11-07
     language: es
+  - title: Policía incauta 3.997 kilos de marihuana y captura a dos personas en el Cauca
+    url: https://cwmas.com.co/nacion/2026/11/09/marihuana-cauca-tres-operativos-policia/
+    publisher: CW+ Noticias
+    date: 2026-11-09
+    language: es
 open_questions:
   - No municipality or separate date for the operation was published; 7 November 2026 is the EFE dispatch and announcement date and stands in for the event date.
   - The names, charges and judicial outcome for the two captured people were not reported.
@@ -122,6 +127,17 @@ open_questions:
   - The submitted page carries one photo captioned only 'droga col' with no credit, so it is not established to show this seizure and no media entry is listed.
   - The EFE dispatch gives no municipality for the operation; 7 November 2026 is the date of the dispatch and the president's announcement, not a separately stated operation date.
   - The EFE dispatch in this Swissinfo edition gives the arrest and vehicle figures through the president's statement only and names no municipality for the operation.
+  - The CW+ Noticias page names the three sites but gives no separate date for each procedure; 7 November 2026 is the date of the president's announcement.
+  - The police report does not break down the 3,997 kilograms by site, and CW+ gives only the combined total.
+  - The 3,883 million peso impact is a police estimate that includes chemicals, caustic soda, scales and other supplies, not a marijuana street value alone.
+  - No names, charges or court outcome for the two arrested people were published.
+  - 'Left out, as its quotation was not found in El País: Among the seized material were 1,186 packages of creepy-type marijuana allegedly destined for illegal markets in Peru and Chile.'
+media:
+  - kind: photo
+    url: https://cwmas.com.co/nacion/2026/11/09/marihuana-cauca-tres-operativos-policia/
+    media_url: https://cwmas.com.co/wp-content/uploads/2026/11/marihuana-cauca-incautacion-policia-popayan-1.webp
+    publisher: CW+ Noticias
+    caption: 'Police handout photo of marijuana packages and a truck from the Cauca procedures, published with the CW+ Noticias account. Photo: Policía Nacional'
 ---
 
 Colombian authorities seized 3,997 kilograms of marijuana in an operation in the
@@ -129,7 +145,7 @@ department of Cauca in southwestern Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14] 
 to be sent to Peru and Chile. [@1,3,4,5,6,7,10,11,12,14] President Abelardo de la Espriella announced
 the seizure in Cauca, the capture of two people and the immobilisation of three
 vehicles. [@1,3,4,8,10,12,14] Two people were captured and three vehicles were immobilised in
-the operation. [@2,3,5,6,7,9,11,13]
+the operation. [@2,3,5,6,7,9,11,13,15]
 
 The find came after an operation by the National Police against structures
 dedicated to drug trafficking. [@2] Among the seized material were 1,186
@@ -142,3 +158,5 @@ De la Espriella said each seized shipment means fewer resources to finance
 terrorism, buy weapons and sow violence in the regions. [@1,3,8,14] The EMC dissidence,
 the ELN guerrilla and other armed groups fighting for territorial control are
 present in Cauca. [@1,3,8,14]
+
+The National Police said the three procedures took place in the Río Blanco sector of Popayán, in the municipality of Jambaló and in Mondomo, a corregimiento of Santander de Quilichao. [@15] In Mondomo, on the Panamericana highway, police arrested one person, immobilised a truck and seized about 4,542 litres of chemicals, 100 containers of caustic soda and 36 scales. [@15] The Police estimated the economic impact of the three operations at 3,883 million pesos, of which about 800 million corresponds to the chemicals, caustic soda and scales seized in Mondomo, and did not break down the rest. [@15] The Police gave no identification of the affected criminal structures or of the two people arrested. [@15]
