@@ -61,6 +61,11 @@ sources:
     publisher: Al Qabas (via MSN)
     date: 2026-11-09
     language: ar
+  - title: '«الجمارك»: ضبط 5,650 كيلوغراماً من مادة يُشتبه بأنها ماريجوانا قادمة من جنوب أفريقيا'
+    url: https://sarmad.com/352357/
+    publisher: Sarmad (via KUNA)
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The source gives no separate date for the inspection; 9 November 2026 is its publication date and stands in for the incident date.
   - The substance is described as suspected marijuana, called herbal hashish in Arabic; no laboratory confirmation was reported.
@@ -76,15 +81,15 @@ open_questions:
 ---
 
 Kuwait's Air Cargo Customs Department said its inspection and deposit control
-inspectors seized two parcels that arrived from South Africa. [@1,2,3,4] The parcels
+inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5] The parcels
 carried a substance suspected to be marijuana, described as herbal hashish,
-weighing 5.650 kilograms in total. [@1,2,3,4]
+weighing 5.650 kilograms in total. [@1,2,3,4,5]
 
 The parcels had been declared as ceiling lamps, and the inspectors found the
-suspected substance inside them after searching. [@1,2,3,4] After the seizure, the
+suspected substance inside them after searching. [@1,2,3,4,5] After the seizure, the
 customs search and investigation department coordinated with the Interior
 Ministry's General Department for Drug Control to complete the legal procedures
-for the seized parcels. [@1,2,3,4]
+for the seized parcels. [@1,2,3,4,5]
 
 The General Directorate of Customs said it would keep blocking drug-smuggling
 attempts through customs posts and working with security agencies. [@1]
