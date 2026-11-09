@@ -74,6 +74,11 @@ sources:
     publisher: الحدث 24
     date: 2026-11-02
     language: ar
+  - title: El presunto autor del homicidio de Imad podría ser condenado a hasta 15 años de prisión
+    url: https://es.le360.ma/sociedad/el-presunto-autor-del-homicidio-de-imad-podria-ser-condenado-a-hasta-15-anos-de-prision_OX4CJKSX6RGCNF3X4XRTR3E26E/
+    publisher: Le360
+    date: 2026-11-08
+    language: es
 open_questions:
   - The 5 grams of cocaine and the vehicle reported alongside the drugs are not cannabis and are excluded from the cannabis figure.
   - No street value for the seized cannabis was published.
@@ -97,11 +102,11 @@ was released provisionally with charges after both appeared before the court.
 release with charges for the second man. [@3,6]
 
 During the operation officers seized two suitcases containing 16 kilograms of
-hashish in tablets and 2 kilograms of marijuana. [@1,4,5,6] Police say the 26-year-old
+hashish in tablets and 2 kilograms of marijuana. [@1,4,5,6,7] Police say the 26-year-old
 had allegedly tried to help the suspect evade justice and to hide an important
 quantity of drugs from the flat where the suspect lived in order to leave the
 city. [@2] Officers also seized two simulated firearms and 17 bladed weapons of
-different types during the home intervention. [@1,5,6] Officers also reported 5
+different types during the home intervention. [@1,5,6,7] Officers also reported 5
 grams of cocaine and a vehicle, which are excluded from the cannabis total
 above. [@3,6] Police later recovered a machete that the examined evidence suggests
 could have been the weapon used in the killing. [@3,6]
