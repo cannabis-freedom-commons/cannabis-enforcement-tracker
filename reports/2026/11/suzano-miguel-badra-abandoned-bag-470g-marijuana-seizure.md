@@ -45,6 +45,11 @@ sources:
     url: https://portaldenoticias.policiamilitar.sp.gov.br/sacola-abandonada-com-porcoes-de-cocaina-crack-e-maconha-e-apreendida-pela-pm-em-suzano/
     publisher: PMESP
     date: 2026-11-07
+  - title: Sacola abandonada com porções de cocaína, crack e maconha é apreendida pela PM em Suzano
+    url: https://www.diariodesuzano.com.br/policia/2026/11/09/sacola-abandonada-com-porcoes-de-cocaina-crack-e-maconha-e-apreendida-pela-pm-em-suzano.html
+    publisher: Diário de Suzano
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No arrest, charge or court outcome was reported; the man seen in the alley fled and was not located.
   - Cocaine, crack and poppers were excluded from cannabis figures; only the separately stated 470 grams of marijuana is recorded as cannabis, and the combined 760-gram total is not attributed to cannabis.
@@ -55,17 +60,16 @@ open_questions:
 
 Officers of the 32nd Metropolitan Military Police Battalion were patrolling
 around 3 a.m. in an area of the Miguel Badra neighbourhood known for drug
-trafficking. [@1] Upon entering an alley, the officers saw a man at the end of
+trafficking. [@1,2] Upon entering an alley, the officers saw a man at the end of
 the street, and he ran as soon as he noticed the patrol car. [@1] The man was
-not located. [@1]
+not located. [@1,2]
 
 In the search of the location, officers found a plastic bag thrown on the ground
 containing approximately 470 grams of marijuana alongside 159 grams of crack and
-138 grams of cocaine. [@1] Next to the bag were a cell phone and R$110 in cash.
-[@1] The drugs, money and phone were taken to the Central Police Station in
-Suzano, where the seizure was officially recorded. [@1]
+138 grams of cocaine. [@1,2] Next to the bag were a cell phone and R$110 in cash.
+[@1,2] The drugs, money and phone were taken to the Central Police Station in
+Suzano, where the seizure was officially recorded. [@1,2]
 
 The seizure happened in the early hours of Saturday 7 November 2026 in the
 Miguel Badra neighbourhood of Suzano, Greater Sao Paulo, with the bag holding
-more than 760 grams of drugs in total. [@1]
-
+more than 760 grams of drugs in total. [@1,2]
