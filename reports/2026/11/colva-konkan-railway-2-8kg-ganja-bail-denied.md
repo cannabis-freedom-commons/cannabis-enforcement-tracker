@@ -44,6 +44,10 @@ sources:
     url: https://timesofindia.indiatimes.com/city/goa/odisha-man-denied-bail-in-2-8kg-ganja-case/articleshow/135691929.cms
     publisher: The Times of India
     date: 2026-11-10
+  - title: Odisha man denied bail in 2.8kg ganja case
+    url: https://timesofindia.indiatimes.com/city/goa/odisha-man-denied-bail-in-2-8kg-ganja-case/amp_articleshow/135691929.cms
+    publisher: The Times of India
+    date: 2026-11-10
 open_questions:
   - The article gives no date for the bail order; 10 November 2026 is its publication date and stands in for the event's date.
   - The substance is described only as suspected ganja, with no laboratory confirmation reported.
@@ -55,17 +59,16 @@ open_questions:
 ---
 
 Additional Sessions Judge Sudhir S. Shirgaonkar in Colva, Goa, denied bail to a
-29-year-old Odisha native arrested by the Konkan Railway Police. [@1] Police
-arrested the man, Deepak Ray, on 24 October 2026. [@1] He was accused of
-possessing 2.8kg of suspected ganja, a term used in India for cannabis. [@1] The
+29-year-old Odisha native arrested by the Konkan Railway Police. [@1,2] Police
+arrested the man, Deepak Ray, on 24 October 2026. [@1,2] He was accused of
+possessing 2.8kg of suspected ganja, a term used in India for cannabis. [@1,2] The
 Times of India said police valued the substance at approximately Rs 2.8 lakh.
-[@1]
+[@1,2]
 
 Judge Shirgaonkar observed that narcotic substances adversely affect the health
 and well-being of consumers and have long-lasting repercussions on their
-families and, ultimately, on society at large. [@1] The court noted that the
-circulation of prohibited substances is driven by monetary gains. [@1] It held
+families and, ultimately, on society at large. [@1,2] The court noted that the
+circulation of prohibited substances is driven by monetary gains. [@1,2] It held
 that cases involving narcotic substances must therefore be examined from two
 perspectives: the impact on public health and the flow of money generated
-through the illegal drug trade. [@1]
-
+through the illegal drug trade. [@1,2]
