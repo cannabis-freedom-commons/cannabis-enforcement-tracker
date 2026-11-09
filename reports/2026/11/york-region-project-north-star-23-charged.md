@@ -137,6 +137,10 @@ sources:
     publisher: 温哥华港湾 (BCbay), 转载 NewmarketToday.ca
     date: 2026-11-05
     language: zh
+  - title: London cannabis grow operation dismantled in $7.5M drug investigation | CBC News
+    url: https://www.cbc.ca/news/canada/london/london-cannabis-grow-operation-dismantled-in-7-5m-drug-investigation-9.7411027
+    publisher: CBC News
+    date: 2026-11-05
 open_questions:
   - Weights were reported as more than the stated pounds, so the kilogram total is a lower-bound conversion.
   - No weight was published for the infused edibles, so they are excluded from the cannabis weight.
@@ -198,11 +202,13 @@ open_questions:
   - The page names the two Ailsa Craig accused only by age and does not give their names or the court dates, so it cannot confirm them against the full York police charge list.
   - The CTV page gives no weight for the infused edibles, no plant count or area for the London grow operation, and no total number of charges laid.
   - The page lists the search-warrant locations as Markham, Scarborough, Vaughan, Burlington, Milton, London and Ailsa Craig in its body but gives no separate figure for the number of searches.
+  - CBC headlines that no one charged is from London and lists the accused as from Toronto, Markham, Ailsa Craig, Milton, Vaughan and Burlington; it does not resolve the existing report's note that two London-area residents are among those charged.
+  - The CBC photo of the grow operation is credited to York Regional Police and appears to be the same police handout already linked in the report, so no new media entry is added.
 ---
 
 York Regional Police have charged 23 people and are searching for another
 suspect after an investigation into an alleged cannabis trafficking operation
-that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14,15,16,17,18,19] The
+that stretched across Ontario and parts of North America and Europe. [@1,3,4,6,7,8,10,11,12,13,14,15,16,17,18,19,20] The
 man still wanted is Zongyu Zhu, 26, of Markham, who faces charges of conspiracy
 to commit an indictable offence and possession for the purpose of distributing.
 [@1,3,4,5,6,7,12,13,14,15,16,19]
@@ -213,7 +219,7 @@ small quantities of ketamine and cocaine. [@1,3,4,5,6,7,8,11,12,13,14,16,17,18,1
 with high-capacity magazines and more than $250,000 in Canadian currency. [@1,3,4,8,13,14,15,16,17,19]
 Two Ford pickup trucks were also seized, one of which police allege had been
 re-vinned. [@1,3,4,8,11,13,16,19] Police estimated the cannabis taken from the London grow
-operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19] York police put the
+operation alone was worth approximately $4.8 million. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,19,20] York police put the
 value of all drugs seized in the project at more than $7.5 million. [@2,4,5,16]
 
 The investigation was dubbed Project North Star and was launched in February
@@ -222,13 +228,13 @@ partnership with the Ontario Provincial Police Provincial Joint Forces Cannabis
 Enforcement Team, the Canada Border Services Agency and the London Police
 Service. [@2,6,8,9,10,11,12,16,17,19] Investigators allege the group sourced cannabis from several
 locations across Ontario, including a large-scale illegal grow operation in
-London, before distributing it through the underground market. [@1,2,3,4,5,16,19] Police say
+London, before distributing it through the underground market. [@1,2,3,4,5,16,19,20] Police say
 the group also operated an online illicit dispensary and shipped cannabis to
 destinations across North America and parts of Europe using commercial parcel
 delivery services. [@1,3,8,13,16,17,19] Search warrants were executed between July and September
 at properties in Markham, Scarborough, Vaughan, Burlington, Milton, London and
-the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13,14,16,17,18,19] The investigation shut down the illicit
-cannabis dispensary and dismantled the illicit grow operation in London. [@2,4,10,11,16]
+the rural community of Ailsa Craig. [@1,3,4,5,6,8,10,11,12,13,14,16,17,18,19,20] The investigation shut down the illicit
+cannabis dispensary and dismantled the illicit grow operation in London. [@2,4,10,11,16,20]
 
 The 23 people face a total of 90 charges. [@5]
 
