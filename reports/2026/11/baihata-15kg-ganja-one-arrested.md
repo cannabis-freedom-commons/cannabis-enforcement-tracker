@@ -63,6 +63,10 @@ sources:
     url: https://www.indiatodayne.in/assam/story/assam-police-seize-over-15-kg-of-suspected-cannabis-in-baihata-one-arrested-1472867-2026-11-08
     publisher: India Today NE
     date: 2026-11-08
+  - title: Assam Police seize over15 kg of ganja, arrest one
+    url: https://nagalandpost.com/assam-police-seize-over15-kg-of-ganja-arrest-one/
+    publisher: Nagaland Post
+    date: 2026-11-09
 open_questions:
   - The accounts give no separate date for the interception, so the publication date of 8 November 2026 is used as the incident date.
   - No charges, court outcome or custody details were reported beyond that further legal action was being initiated.
@@ -79,24 +83,33 @@ open_questions:
   - The page carries one image under the same headline with no credit and a caption that repeats the headline, so it is not confirmed to show this seizure and no media entry is listed.
   - The page carries one uncaptioned, uncredited image slot under the same headline, so it is not confirmed to show this seizure and no media link is listed.
   - The page's later paragraphs describe a separate Assam Rifles and Assam Police seizure of 1.363 kg of methamphetamine tablets worth about Rs 3.49 crore in Cachar district, a different event involving synthetic drugs and left out of this cannabis report.
+  - The Nagaland Post copy is another reprint of the same IANS report already cited in this account, so it corroborates but is not independent reporting.
+  - The page carries no separate date for the interception; 8 November 2026 is the dateline of the agency report, while the page itself is dated 9 November 2026.
+  - The photo caption does not name a photographer or credit an agency.
+media:
+  - kind: photo
+    url: https://nagalandpost.com/assam-police-seize-over15-kg-of-ganja-arrest-one/
+    media_url: https://nagalandpost.com/wp-content/uploads/2026/11/Police-in-Assams-Baihata-pose-with-the-accused-and-seized-ganja_result.webp
+    publisher: Nagaland Post
+    caption: Police in Baihata with the accused and the seized ganja after the interception of a vehicle carrying three packets of suspected cannabis.
 ---
 
 Police in Assam's Baihata seized over 15 kilograms of suspected cannabis,
 locally known as ganja, and apprehended one individual in connection with the
-haul. [@1,3,5,6] Baihata Police intercepted a vehicle during 'naka' checking based on
-specific input about the transportation of drugs through the area. [@1,3,4,5,6] The
+haul. [@1,3,5,6,7] Baihata Police intercepted a vehicle during 'naka' checking based on
+specific input about the transportation of drugs through the area. [@1,3,4,5,6,7] The
 apprehended individual was identified by police as Ridip Kumar, a resident of
 Assam's Kamrup district. [@1,3,4,5,6]
 
 A search of the intercepted vehicle led to the recovery and seizure of suspected
-cannabis that had been packed in three separate packets. [@1,6] Police recorded
+cannabis that had been packed in three separate packets. [@1,6,7] Police recorded
 the weight of the recovered suspected cannabis as 15.049 kilograms. [@1,3,4,5,6] Police
 said one person was apprehended at the scene in connection with the recovery of
 the three packets. [@1]
 
 The enforcement action was reported from Baihata, with the account datelined
 Guwahati in Assam. [@2,5] Police said further legal action against the apprehended
-person was being initiated following the seizure and apprehension. [@1,3,5,6]
+person was being initiated following the seizure and apprehension. [@1,3,5,6,7]
 Officials described the recovered material as suspected cannabis, presenting
 both the drug identity and the weight as police findings rather than
 court-tested results. [@1]
