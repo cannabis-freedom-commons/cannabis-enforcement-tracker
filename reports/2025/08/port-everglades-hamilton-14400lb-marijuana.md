@@ -64,6 +64,10 @@ sources:
     publisher: El Nuevo Herald
     date: 2025-08-26
     language: es
+  - title: The Coast Guard just dumped nearly 40 tons of drugs worth nearly half a billion dollars onto a dock in Florida
+    url: https://fortune.com/2025/08/26/coast-guard-drug-seizures-port-everglades-florida-cocaine-marijuana/
+    publisher: Fortune
+    date: 2025-08-26
 open_questions:
   - The $473 million valuation covers cocaine and marijuana together and cannot be separated into a marijuana-only value, so it is kept in the text and omitted from figures.
   - The cocaine quantity and its 23 million lethal doses are mentioned only as context and are excluded from cannabis figures.
@@ -78,19 +82,19 @@ open_questions:
 ---
 
 The crew of the U.S. Coast Guard Cutter Hamilton offloaded seized narcotics at
-Port Everglades, Florida, on Monday 25 August 2025. [@2,4] CBS Miami reported the
+Port Everglades, Florida, on Monday 25 August 2025. [@2,4,5] CBS Miami reported the
 drugs were brought to port by the Coast Guard Cutter Hamilton after 19
 interdictions in the Eastern Pacific Ocean and the Caribbean Sea. [@3] The
 interdicted vessels were stopped off Ecuador's Galapagos Islands and off the
-coasts of Venezuela, Mexico, the Dominican Republic, Jamaica and Aruba. [@1,4]
+coasts of Venezuela, Mexico, the Dominican Republic, Jamaica and Aruba. [@1,4,5]
 
 Capt. John B. McWhite said his crew interdicted 11 go-fast vessels and detained
 34 suspected drug traffickers. [@2] Telemundo reported that 34 suspected
 traffickers were held but that the authorities did not state how many suspects
-were detained in all the interdictions together. [@1] Hamilton's crew offloaded
+were detained in all the interdictions together. [@1,5] Hamilton's crew offloaded
 about 14,400 pounds of bulk marijuana, roughly 6,532 kg, alongside 61,740 pounds
-of cocaine. [@3,4] The Coast Guard valued the cocaine and marijuana together at
-$473 million, a combined figure that is not a marijuana-only estimate. [@2,4]
+of cocaine. [@3,4,5] The Coast Guard valued the cocaine and marijuana together at
+$473 million, a combined figure that is not a marijuana-only estimate. [@2,4,5]
 
 Rear Adm. Adam Chamie said the cocaine alone amounted to 23 million potentially
 lethal doses, enough to give the entire population of Florida a fatal overdose.
