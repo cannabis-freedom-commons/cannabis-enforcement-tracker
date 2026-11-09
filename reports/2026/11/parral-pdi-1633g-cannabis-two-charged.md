@@ -53,6 +53,11 @@ sources:
     publisher: Linares en Línea
     date: 2026-11-09
     language: es
+  - title: 'PDI saca de circulación puntos de venta de drogas en Parral: dos detenidos y más de 1,6 kilos de cannabis decomisados'
+    url: https://seranoticia.cl/2026/11/09/pdi-saca-de-circulacion-puntos-de-venta-de-drogas-en-parral-dos-detenidos-y-mas-de-16-kilos-de-cannabis-decomisados/
+    publisher: Será Noticia
+    date: 2026-11-09
+    language: es
 open_questions:
   - The article gives no separate date for the searches or arrests; 9 November 2026 is its publication date and is used as the incident date.
   - No figure for the value of the seized cannabis was published.
@@ -61,21 +66,28 @@ open_questions:
   - The 3.82 grams of cocaína base is a different drug and is excluded from the cannabis figures; no combined drug total is recorded.
   - The page's only image is an advertisement thumbnail for a university, not a picture of the raid, so no media entry is added.
   - The man's and woman's ages, the exact premises searched and any later court outcome were not reported.
+  - The Será Noticia page carries a photo with no caption or credit; it is linked to this report only because it is the image published with the article.
+  - The article gives no separate date for the searches or arrests; 9 November 2026 is its publication date.
+media:
+  - kind: photo
+    url: https://seranoticia.cl/2026/11/09/pdi-saca-de-circulacion-puntos-de-venta-de-drogas-en-parral-dos-detenidos-y-mas-de-16-kilos-de-cannabis-decomisados/
+    media_url: https://seranoticia.cl/wp-content/uploads/2026/11/EVI1.jpg
+    publisher: Será Noticia
+    caption: Photo published with the report on the PDI searches of three Parral properties and the seizure of 1.63 kg of cannabis, published without a caption or credit.
 ---
 
 Detectives of the Modelo Territorial Cero (MT-0) team of the Brigada de
 Investigación Criminal in Parral arrested a man and a woman, both adults, in the
-commune of Parral. [@1] The arrests followed judicial search orders carried out
-at three properties in the commune. [@1] According to the PDI, the investigation
+commune of Parral. [@1,2] The arrests followed judicial search orders carried out
+at three properties in the commune. [@1,2] According to the PDI, the investigation
 established that drugs were being sold at those properties. [@1]
 
-During the searches detectives seized 1,632.59 grams of cannabis. [@1] Officers
+During the searches detectives seized 1,632.59 grams of cannabis. [@1,2] Officers
 also seized 3.82 grams of dosed cocaína base, 489,000 pesos in cash and a mobile
-phone; the cocaine is not part of the cannabis figures. [@1]
+phone; the cocaine is not part of the cannabis figures. [@1,2]
 
 The Fiscalía de Parral charged the man with drug trafficking and requested his
-pre-trial detention, which the court granted. [@1] The woman was charged with
+pre-trial detention, which the court granted. [@1,2] The woman was charged with
 microtráfico, small-scale drug dealing, and placed under precautionary measures
-to ensure she attends the proceedings. [@1] The court set a five-month
-investigation period. [@1]
-
+to ensure she attends the proceedings. [@1,2] The court set a five-month
+investigation period. [@1,2]
