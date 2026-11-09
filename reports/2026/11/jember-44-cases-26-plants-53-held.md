@@ -64,6 +64,11 @@ sources:
     publisher: Crime Hunter News
     date: 2026-11-08
     language: id
+  - title: Polres Jember Sita 1 Kg Sabu dan 26 Batang Pohon Ganja
+    url: https://bangsapedia.com/posts/polres-jember-sita-1-kg-sabu-dan-26-batang-pohon-ganja
+    publisher: Bangsapedia.com
+    date: 2026-11-09
+    language: id
 open_questions:
   - No second account of the 9 November 2026 press conference could be opened; the report rests on the SMN News article alone.
   - The 53 suspects cover all 44 cases; no cannabis-only arrest, charge or suspect count was published.
@@ -73,6 +78,10 @@ open_questions:
   - The row of the 44 cases, 1,035.47 grams of sabu and the dangerous-drug pills are other substances and are not counted as cannabis.
   - The only photo on the page shows the police press conference rather than the seized cannabis.
   - Kiss FM reports 40 narcotics cases and 49 suspects while the existing report carries 44 cases and 53 suspects; the higher figures include four dangerous-drug cases. Another account opened for this update, Crime Hunter News, repeats the 44 and 53.
+  - Bangsapedia reports 40 narcotics cases and 49 suspects (46 men, three women) for the narcotics offences, leaving the 44-case and 53-suspect totals to include four dangerous-drug cases and four male suspects.
+  - Bangsapedia places the 26 potted cannabis plants with JW in Situbondo, while separate reporting describes them as found in a rented house in Panji Permai, Mimbaan, Situbondo; the submitted page does not name that place.
+  - Bangsapedia names Jalan Buleleng Jaya, Desa Jukung, Sukorambi as the street where CY was detained, whereas another account places the arrest at Jalan Brawijaya, Desa Jubung.
+  - The submitted page gives no weight for the 26 living plants and does not say whether they were taken away or left in place.
 ---
 
 Police in Jember regency, East Java, said they uncovered 44 narcotics and
@@ -98,3 +107,5 @@ and that they dealt in dangerous drugs without a permit or prescription. [@1,3]
 Narcotics suspects face up to 20 years in prison and a Rp10 billion fine under
 the 2009 Narcotics Law, while the dangerous-drug suspects face up to 12 years
 and a Rp5 billion fine under the 2023 Health Law. [@1,3]
+
+Police said JW admitted growing the cannabis for his own use as a user but also passed part of the crop in limited supply to people in his social circle. [@4] The 775.29 grams of methamphetamine were found in BSG's rented house at Perumahan Nazira Residence, Kelurahan Bintoro, Patrang, with BSG held after a positive urine test and a suspect identified as DN named as the alleged owner and still at large. [@4]
