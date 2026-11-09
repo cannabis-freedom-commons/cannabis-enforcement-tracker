@@ -50,11 +50,17 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-09
     language: hi
+  - title: ओडिशा से गांजा लाकर आगरा में सप्लाई की तैयारी:36 किलो गांजे के साथ तीन तस्कर गिरफ्तार
+    url: https://www.bhaskar.com/local/uttar-pradesh/agra/belanganj-jeevani-mandi-market/news/agra-police-arrest-smugglers-ganja-seized-chhatta-news-139635393.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-09
+    language: hi
 open_questions:
   - Only one accessible source was found for this event; no agency statement or second outlet account could be opened.
   - The Rs 25 lakh figure is reported as the value in the international market without saying who estimated it.
   - No court production, trial or sentence was reported, and the buyer Vijay was still being sought when the article was published.
   - The page's lead image carries no caption or credit confirming that it shows this seizure, so no media entry is included.
+  - The opened text of this shorter Bhaskar version names no police station, exact date of arrest or accused, so the match rests on the three arrests, the 36 kg and the Rs 25 lakh estimate.
 ---
 
 The checking drive was carried out on the police commissioner's directions
@@ -65,9 +71,9 @@ nervous. [@1] The three were searched in the presence of the Assistant
 Commissioner of Police for Chhatta, and ganja was recovered from them. [@1]
 
 Chhatta police in Agra arrested three members of an interstate gang that
-trafficked ganja into the city. [@1] Police seized 36 kg of ganja from their
-possession. [@1] The seized ganja was reported to be worth about Rs 25 lakh.
-[@1] Police also seized three mobile phones and Rs 490 in cash. [@1] The three
+trafficked ganja into the city. [@1,2] Police seized 36 kg of ganja from their
+possession. [@1,2] The seized ganja was reported to be worth about Rs 25 lakh.
+[@1,2] Police also seized three mobile phones and Rs 490 in cash. [@1] The three
 were taken into custody and a case was registered against them at Chhatta police
 station under the NDPS Act. [@1]
 
@@ -79,4 +85,3 @@ Prakash Nagar, Etmad-daula, Vivek of Bulandshahr, and Satyam Gupta of Rewa,
 Madhya Pradesh. [@1] They used to bring cheap ganja from Odisha and sell it at
 higher prices in Agra and nearby districts. [@1] Police are now gathering
 information about other members of the gang and its buyers. [@1]
-
