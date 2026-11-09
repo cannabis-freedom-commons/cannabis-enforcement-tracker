@@ -102,6 +102,11 @@ sources:
     publisher: آخر خبر
     date: 2026-11-02
     language: ar
+  - title: معلومات استخبارية عراقية تطيح بشبكات تهريب مخدرات خارج الحدود
+    url: https://www.alkalimaonline.com/news.aspx?id=958393
+    publisher: Al Kalima Online
+    date: 2026-11-02
+    language: ar
 open_questions:
   - The country where the 20 kg of marijuana was seized was not named, and no separate date for that seizure was given; 2 November 2026 is the publication date of both reports.
   - The period over which the seven-country operations and the about-nine-ton total were accumulated was not given.
@@ -125,26 +130,29 @@ open_questions:
   - The reprint gives no separate date for the 20 kg marijuana seizure or for the seven-country operations; its own timestamp is 2 November 2026, the same day as the Iraqi News Agency original.
   - The reprint reproduces the Iraqi News Agency text, so it is not independent reporting of the seizures.
   - The page carries one uncaptioned header image, so nothing establishes that it shows these seizures and no media entry is added.
+  - The Al Kalima page reproduces the Sky News Arabia report of the directorate statement, and carries a Sky News Arabia byline, so it is not independent reporting.
+  - The reprint names neither the neighbouring country where the 20 kg of marijuana was seized nor the period of the seven-country operations, and gives no separate date; 2 November 2026 is its own publication date.
+  - The page's header image has no caption establishing that it shows these seizures, so no media entry is added.
 ---
 
 Iraq's General Directorate for Narcotics and Psychotropic Substances director
 general, Lt. Gen. Ahmed Salih al-Zarkani, told the Iraqi News Agency that Iraqi
 intelligence supported joint anti-drug operations with agencies in seven Arab
-and regional states. [@1,3,8,9,11,12] He named those states as Kuwait, Iran, Syria, Lebanon,
+and regional states. [@1,3,8,9,11,12,15] He named those states as Kuwait, Iran, Syria, Lebanon,
 Saudi Arabia, Egypt and Libya, saying precise Iraqi intelligence helped track
-international smuggling networks and seize large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,12] An
+international smuggling networks and seize large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,12,15] An
 English account describes the same announcement as Iraqi intelligence leading to
 the seizure of about 9 metric tons of drugs in joint operations in seven
 countries, from Kuwait and Iran to Libya. [@2]
 
 Zarkani put the total seized outside Iraqi territory at about nine tons,
 comprising Captagon, crystal meth and hashish, without giving the period over
-which the operations occurred. [@1,3,4,6,9,10,11,13,14] He said the latest operation was carried out
+which the operations occurred. [@1,3,4,6,9,10,11,13,14,15] He said the latest operation was carried out
 in Libya on entirely Iraqi intelligence surveillance and seized 1,200,000 pills
-belonging to a criminal network operating from Chad. [@1,3,5,7,8,9,10,13] Separately, he said
+belonging to a criminal network operating from Chad. [@1,3,5,7,8,9,10,13,15] Separately, he said
 recent operations included 20 kilograms of marijuana seized in one neighbouring
 country after the directorate sent specialist teams to coordinate with the local
-authorities and carry out the necessary security measures. [@1,3,4,6,7,8,9,10,11,12,13,14] The English
+authorities and carry out the necessary security measures. [@1,3,4,6,7,8,9,10,11,12,13,14,15] The English
 account confirms the 20 kilograms of marijuana seized in a neighboring country
 after specialized teams were sent, noting that Zarkani did not name the country.
 [@2]
@@ -155,3 +163,5 @@ Iraq's borders rather than pursuing their activity only inside the country. [@1]
 He added that the United Nations Office on Drugs and Crime followed and studied
 the Iraqi experience in Vienna, and that Iraq placed third among 140 states and
 200 organizations at the police summit held in Dubai in May 2025. [@1,5]
+
+Zarkani said counter-narcotics work depended on building trust and exchanging information with other states, and on developing technical and field capabilities to carry out pre-emptive operations before the drugs reach markets. [@15]
