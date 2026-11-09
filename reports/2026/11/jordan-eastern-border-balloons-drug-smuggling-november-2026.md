@@ -55,6 +55,11 @@ sources:
     publisher: الأنباط
     date: 2026-11-09
     language: ar
+  - title: أهم الأخبار العربية والعالمية حتى الظهيرة.. ماركو روبيو حذر ترامب من علاقة رئيس إنفيديا بجاسوسة صينية.. اليونان تنتشل 12 جثة على متن قارب يقل مهاجرين.. الأردن يحبط محاولة تهريب مواد مخدرة بواسطة بالونات موجهة
+    url: https://www.youm7.com/story/2026/11/9/%D8%A3%D9%87%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%B8%D9%87%D9%8A%D8%B1%D8%A9-%D9%85%D8%A7%D8%B1%D9%83%D9%88-%D8%B1%D9%88%D8%A8%D9%8A%D9%88-%D8%AD%D8%B0%D8%B1-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8/7611561
+    publisher: اليوم السابع (Youm7)
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The sources describe only "drugs" (المواد المخدرة) and give no substance; whether any of the cargo was cannabis is not established.
   - No weight, number of balloons or street value was published.
@@ -68,10 +73,11 @@ open_questions:
   - The Al-Anbat page describes only drugs (المواد المخدرة) and gives no substance, weight, balloon count or arrests, so it adds no cannabis quantities.
   - Al-Anbat carries the same army statement as the sources already cited, so it corroborates rather than independently reports the interception.
   - Al-Anbat's page image is captioned only with the headline and carries no credit identifying the photographer or agency, so it is not added as media.
+  - Youm7's midday news roundup describes only "drugs" (المواد المخدرة) and names no substance, weight, balloon count, arrests or border of origin, so it adds no cannabis quantity and does not establish that any of the cargo was cannabis.
 ---
 
 Jordan's Eastern Military Region foiled an attempt to smuggle a large quantity
-of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3,6,7]
+of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3,6,7,8]
 Border guard units spotted the balloons, brought them down inside Jordanian
 territory and seized the drugs they carried. [@1,3,7] The border guards acted with
 security and military bodies and the Anti-Narcotics Department, and the seized
