@@ -53,6 +53,10 @@ sources:
     url: https://pointville.ag/55-pounds-of-cannabis-seized-at-ports-of-entry/
     publisher: Pointville
     date: 2023-03-17
+  - title: 55 pounds of marijuana seized
+    url: https://antigua.news/2023/03/16/55-pounds-of-marijuana-seized
+    publisher: Antigua News
+    date: 2023-03-16
 open_questions:
   - No arrests were reported; two men were said to be assisting investigations, and no charges or court outcome followed in the sources.
   - The airport haul is given as 20 pounds with a street value of $120,000, which is inconsistent with the $230,000 attached to the larger 35-pound port haul; only the port value is recorded.
@@ -66,13 +70,13 @@ open_questions:
 
 The Police Narcotics and Customs Departments seized 55 pounds (about 25 kg) of
 cannabis at the Deep Water Harbour and the V.C. Bird International Airport on
-Wednesday 15 March 2023. [@1] Two separate joint operations at the Deep Water
+Wednesday 15 March 2023. [@1,4] Two separate joint operations at the Deep Water
 Harbour found 35 pounds of cannabis in two separate shipments, which the
-authorities estimated at a combined $230,000. [@1]
+authorities estimated at a combined $230,000. [@1,4]
 
 A similar operation at the airport found another 20 pounds with a stated street
-value of $120,000. [@1] The cannabis was taken to the police station and two men
-were assisting with the investigations. [@1]
+value of $120,000. [@1,4] The cannabis was taken to the police station and two men
+were assisting with the investigations. [@1,4]
 
 Police spokesman Inspector Frankie Thomas said the haul amounted to 55 pounds of
 cannabis and that the Royal Police Force of Antigua and Barbuda and the Customs
@@ -82,4 +86,3 @@ seaport and 20 pounds at the airport, giving the same values of $230,000 and
 $120,000. [@3] Antigua News Room published the same account of the two joint
 operations at the Deep Water Harbour, the airport find and the two men assisting
 the investigations. [@2]
-
