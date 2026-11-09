@@ -40,6 +40,7 @@ open_questions:
   - The address is given as Woodsetton, Dudley; Woodsetton lies near the Dudley and Sedgley boundary, and the coordinates are those of the Woodsetton area rather than the property itself.
   - Only Birmingham Live and the neighbourhood team's own social media post were opened; no separate police press statement for the warrant was found.
   - The Yahoo News UK page is a syndicated copy of the Birmingham Live article by Kelly Ashmore, published on 9 November 2026, and was not the version cited in the original report.
+  - The version opened was the AMP page of the same Birmingham Live article; it reproduces the neighbourhood team's WMNow alert and gives no plant count, weight, value, arrest or charge.
 ---
 
 West Midlands Police's Dudley North Neighbourhood Team carried out a drugs
