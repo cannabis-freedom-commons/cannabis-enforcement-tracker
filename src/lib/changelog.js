@@ -5,7 +5,7 @@ import { createHash } from "node:crypto";
 import { load } from "js-yaml";
 import { gitCache, readBlobs } from "./git-blobs.js";
 
-export const repositoryURL = "https://github.com/burningtree/cannabis-freedom-index-tracker";
+export const repositoryURL = "https://github.com/cannabis-freedom-commons/cet";
 const isReport = (path) => path.startsWith("reports/") && path.endsWith(".md");
 const slugOf = (path) => path.split("/").at(-1).replace(/\.md$/, "");
 const git = (args, options = {}) => execFileSync("git", args, { maxBuffer: 128 * 1024 * 1024, ...options });
