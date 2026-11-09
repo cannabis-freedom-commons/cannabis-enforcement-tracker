@@ -70,6 +70,8 @@ open_questions:
   - GMA News reports two glass tubes with residue recovered along with the cartridge, but does not state their weight or contents and they are not counted in the figures.
   - The reported weight of about one gram is an approximation, and the P1,700 street value is PDEA's own estimate.
   - The Daily Tribune page links to a separate October 2026 Matnog Port shabu case against a Malaysian tourist, a different event not covered here.
+  - Bombo Radyo does not say whether the laboratory examination had produced results confirming the liquid contained cannabis.
+  - 'Left out, as its quotation was not found in Bombo Radyo: Bombo Radyo reported the seized liquid was to undergo laboratory examination to establish its composition.'
 ---
 
 A 20-year-old man from Quezon City was arrested at Matnog Port in Matnog,
@@ -90,4 +92,3 @@ Bikol likewise reported about one gram of the suspected drug valued at P1,700, a
 cartridge with yellow liquid and two glass tubes with residue. [@3] Bombo Radyo
 said the Philippine Ports Authority and partner agencies were continuing to
 tighten security at seaports against illegal drugs and other contraband. [@2]
-
