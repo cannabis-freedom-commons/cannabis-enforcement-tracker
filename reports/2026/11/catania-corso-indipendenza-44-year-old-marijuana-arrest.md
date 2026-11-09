@@ -66,6 +66,11 @@ sources:
     publisher: Free Press Online
     date: 2026-11-09
     language: it
+  - title: 'Arrestato in corso Indipendenza mentre attende i clienti in strada: in tasca marijuana, cocaina e crack'
+    url: https://www.lasicilia.it/news/cronaca/3088724/arrestato-in-corso-indipendenza-mentre-attende-i-clienti-in-strada-in-tasca-marijuana-cocaina-e-crack.html
+    publisher: La Sicilia
+    date: 2026-11-09
+    language: it
 open_questions:
   - The articles give no separate date for the stop and arrest; 8 November 2026 is inferred from the 9 November publication date.
   - No court outcome was reported beyond the arrest.
@@ -74,10 +79,11 @@ open_questions:
   - The page photo is a police handout captioned only with the headline wording, so its exact content is not established beyond its link to this police operation.
   - Free Press Online gives no separate date for the stop; 8 November 2026 is inferred from the 9 November publication date, as in the existing report.
   - The page carries the same police handout photo already linked in the report, so no new media entry is added.
+  - La Sicilia, like the earlier coverage, gives no separate date for the stop; 9 November 2026 is its publication date.
 ---
 
 State police arrested a 44-year-old man from Catania on suspicion of possession
-of narcotics for sale. [@1,4] Officers of the Falchi, the Mobile Squad unit of
+of narcotics for sale. [@1,4,5] Officers of the Falchi, the Mobile Squad unit of
 Catania police headquarters that targets widespread crime, stopped him in corso
 Indipendenza during patrols of the city's neighbourhoods. [@1,4] According to the
 police account, the man was waiting in the street for a customer to make a drug
