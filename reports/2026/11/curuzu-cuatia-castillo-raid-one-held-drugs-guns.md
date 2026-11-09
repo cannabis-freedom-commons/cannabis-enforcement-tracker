@@ -43,6 +43,11 @@ sources:
     publisher: Noticias del Paraná
     date: 2026-11-09
     language: es
+  - title: Secuestraron cocaína, marihuana y armas tras un allanamiento en Corrientes
+    url: https://flipr.com.ar/corrientes/corrientes-corrientes/ellitoralcorrientes/secuestraron-cocaina-marihuana-y-armas-tras-un-allanamiento-en-corrientes/
+    publisher: Flipr.news
+    date: 2026-11-09
+    language: es
 open_questions:
   - No weight, dose count, cash amount or firearm details were published, so no cannabis quantity can be recorded.
   - The article gives no separate date for the raid beyond reporting it on Sunday 8 November 2026; 8 November is used as the incident date.
@@ -55,7 +60,7 @@ open_questions:
 A 21-year-old was apprehended in the same operation, and police said he had an
 outstanding capture request. [@1] The young man and all the seized items were
 placed at the disposal of the courts and taken to the First Police Station of
-Curuzú Cuatiá, where proceedings were continuing. [@1]
+Curuzú Cuatiá, where proceedings were continuing. [@1,2]
 
 Corrientes police said they seized cocaine, marijuana and two firearms during
 the raid in Curuzú Cuatiá. [@1] During the search officers found a whitish
@@ -65,5 +70,5 @@ seized two firearms, a mobile phone, cash and other items to be added to the
 investigation. [@1]
 
 The raid was carried out at a house on Calle Castillo 700 in Curuzú Cuatiá under
-a judicial order. [@1,2] Corrientes police announced the operation on Sunday 8
+a judicial order. [@1,2,3] Corrientes police announced the operation on Sunday 8
 November 2026. [@1]
