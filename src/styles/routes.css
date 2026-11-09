@@ -35,7 +35,7 @@
 .routes-full svg { width: 14px; height: 14px; fill: none; stroke: currentColor; stroke-width: 1.6; }
 .routes-full[aria-pressed="true"] svg { transform: rotate(180deg); }
 
-/* full screen: the view fills the window, the map takes all the height the controls leave */
+/* full page: the view fills the window, the map takes all the height the controls leave */
 .routes.full { position: fixed; inset: 0; z-index: 200; margin: 0; border: 0; border-radius: 0; display: flex; flex-direction: column; }
 .routes.full .routes-stage { flex: 1; min-height: 0; }
 .routes.full .routes-map { min-height: 0; height: 100%; }

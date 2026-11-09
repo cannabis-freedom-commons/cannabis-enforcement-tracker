@@ -293,7 +293,8 @@ function start() {
   });
   panel.addEventListener("pointerover", (e) => { const t = e.target.closest("[data-line]"); state.hover = t?.dataset.line ?? null; paintState(); });
   panel.addEventListener("pointerleave", () => { state.hover = null; paintState(); });
-  addEventListener("keydown", (e) => { if (e.key === "Escape" && state.pick) choose(null); });
+  // Esc lets go of the picked route or country first, and only then leaves full page
+  addEventListener("keydown", (e) => { if (e.key === "Escape" && state.pick) { choose(null); e.stopImmediatePropagation(); } });
 
   // ---- the controls ----
   const setYears = (which) => {
@@ -320,30 +321,22 @@ function start() {
     }, 750);
   });
 
-  // ---- full screen: the whole view (years, filters, map and panel), not only the map. The browser's
-  // own full screen where it has one; otherwise (iPhone Safari) the view just covers the page.
+  // ---- full page: the whole view (years, filters, map and panel) covers the page, inside the
+  // browser window; the button or Esc brings the page back
   const fullBtn = $("[data-full]");
   const isFull = () => root.classList.contains("full");
   function setFull(on) {
     root.classList.toggle("full", on);
     document.documentElement.classList.toggle("routes-full-page", on);
     fullBtn.setAttribute("aria-pressed", String(on));
-    fullBtn.lastElementChild.textContent = on ? "Exit full screen" : "Full screen";
+    fullBtn.lastElementChild.textContent = on ? "Exit full page" : "Full page";
+    fullBtn.title = on ? "Back to the page (Esc)" : "Fill the window (F)";
     requestAnimationFrame(() => map.resize());
   }
-  fullBtn.addEventListener("click", async () => {
-    if (isFull()) {
-      if (document.fullscreenElement) await document.exitFullscreen().catch(() => {});
-      setFull(false);
-      return;
-    }
-    setFull(true);
-    if (root.requestFullscreen) await root.requestFullscreen().catch(() => {});
-  });
-  document.addEventListener("fullscreenchange", () => { if (!document.fullscreenElement && isFull()) setFull(false); });
+  fullBtn.addEventListener("click", () => setFull(!isFull()));
   addEventListener("keydown", (e) => {
-    if (e.key === "Escape" && isFull() && !document.fullscreenElement && !state.pick) setFull(false);
-    if ((e.key === "f" || e.key === "F") && !e.metaKey && !e.ctrlKey && !e.altKey && !e.target.closest?.("input,select,textarea")) fullBtn.click();
+    if (e.key === "Escape" && isFull() && !state.pick) setFull(false);
+    if ((e.key === "f" || e.key === "F") && !e.metaKey && !e.ctrlKey && !e.altKey && !e.target.closest?.("input,select,textarea")) setFull(!isFull());
   });
 
   // ---- the map's own pointer ----
