@@ -48,6 +48,11 @@ media:
     media_url: https://www.lrt.lt/img/2026/11/09/2534342-708270-1287x836.jpg
     publisher: LRT
     caption: 'Police photo published with the LRT report on the operation and the 130 kg cannabis seizure. Photo: Police (Policijos nuotr.)'
+  - kind: photo
+    url: https://www.delfi.lt/naujienos/kriminalai/vilniaus-apskrityje-smugis-narkotiku-platintojams-perimta-130-kg-kanapiu-ir-kristalu-siunta-120331181
+    media_url: https://images.delfi.lt/media-api-image-cropper/v1/a06f9a0f-1dc6-4ad2-9f56-02caa7fff169.jpg?noup&w=1287&h=858
+    publisher: Delfi
+    caption: 'Second image from the Vilnius county police gallery published with the Delfi report on the 130 kg cannabis seizure, captioned ''Vilniaus kriminalistai konfiskavo 130 kg narkotikų''. Photo: Vilniaus AVPK (Vilnius County Police Headquarters)'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9fc4be3ae210e315bf9a7d2089c2a2e3
@@ -63,6 +68,11 @@ sources:
     publisher: Respublika.lt
     date: 2026-11-09
     language: lt
+  - title: 'Vilniaus apskrityje – smūgis narkotikų platintojams: perimta 130 kg kanapių ir „kristalų“ siunta'
+    url: https://www.delfi.lt/naujienos/kriminalai/vilniaus-apskrityje-smugis-narkotiku-platintojams-perimta-130-kg-kanapiu-ir-kristalu-siunta-120331181
+    publisher: Delfi
+    date: 2026-11-09
+    language: lt
 open_questions:
   - The sources give “about 130 kilograms” of cannabis rather than a measured weight, and do not say whether it was dried flower or another cannabis product.
   - No exact date is given for the searches and detentions; the operation is dated to 3 November 2026 in the police statement, while the accounts were published on 9 November.
@@ -71,26 +81,30 @@ open_questions:
   - The three suspects are not named and no charges or court outcome beyond pre-trial detention are reported.
   - The 3.5 kilograms of 3-CMC is not cannabis and is excluded from the figures; the sources do not say how the cannabis was packaged or where each lot was found.
   - The five other photos in the Respublika.lt gallery could not be linked individually because their image addresses were not present in the opened page markup.
+  - The Delfi page gives no measured weight for the cannabis, only about 130 kilograms, and does not say whether it was dried flower or another cannabis product.
+  - Delfi carries no information on the suspects' identities, their pleas or any court outcome beyond the pre-trial detention already recorded.
+  - The Delfi captions for the police gallery do not say which premises or cache each photo depicts; only one of the two images on the page is listed as media.
 ---
 
 Officers of the organised-crime unit of the Vilnius county police struck a
 shadow drug-distribution network on 3 November, Vilnius county police said on
 Monday. [@2] After searches in Vilnius and Šiauliai, three people suspected of
 unlawful possession of a very large quantity of narcotic and psychotropic
-substances were detained. [@1]
+substances were detained. [@1,3]
 
 Police said they took about 130 kilograms of cannabis, one of the largest
-cannabis consignments in Lithuania's history. [@1] The searches also turned up
+cannabis consignments in Lithuania's history. [@1,3] The searches also turned up
 about 3.5 kilograms of the psychotropic substance 3-chloromethcathinone, known
 as 3-CMC or “crystal”, and a combat firearm with ammunition, which are not
-cannabis. [@1] The substances were hidden in cars and homes and in pre-prepared
+cannabis. [@1,3] The substances were hidden in cars and homes and in pre-prepared
 caches in wooded areas, where drug handovers are suspected to have taken place.
-[@1]
+[@1,3]
 
-A court ordered the strictest measure for all three, detention in custody. [@1]
+A court ordered the strictest measure for all three, detention in custody. [@1,3]
 The pre-trial investigation concerns unlawful possession of a very large
 quantity of narcotic or psychotropic substances and unlawful possession of
 firearms and ammunition. [@1] The suspects face a prison term of 10 to 15 years
 if convicted. [@1] A prosecutor of the organised crime and corruption division
 of the Vilnius Regional Prosecutor's Office is leading the investigation. [@1]
 
+The operation took place on 3 November 2026. [@3]
