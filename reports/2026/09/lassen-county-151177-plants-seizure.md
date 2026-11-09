@@ -55,6 +55,10 @@ sources:
     url: https://www.kolotv.com/2026/09/23/more-than-151000-marijuana-plants-seized-lassen-county-operation
     publisher: KOLO TV
     date: 2026-09-23
+  - title: 'PHOTOS: Lassen County seizes over 151,000 marijuana plants from illegal grow sites'
+    url: https://krcrtv.com/news/local/multiagency-marijuana-raids-in-lassen-county-net-151177-plants-19973-pounds-and-11-guns
+    publisher: KRCR
+    date: 2026-09-22
 open_questions:
   - No arrests, charges or suspect identities were reported; detectives were still working to identify and prosecute those responsible.
   - 11 September 2026 is the end of the second stated operation week of Sept. 7-11 and is used as the incident date; the operation was announced on 22 September 2026.
@@ -66,8 +70,8 @@ In June 2026 the Lassen County Sheriff’s Office and Lassen County Code
 Enforcement began investigating suspected illegal marijuana cultivation in
 northern Lassen County. [@1] Aerial surveillance later confirmed marijuana was
 actively being grown at locations not licensed by California or Lassen County.
-[@1] During operations from Aug. 17-21 and Sept. 7-11, authorities executed
-search warrants on 47 separate parcels. [@2] The operations drew on county Code
+[@1,3] During operations from Aug. 17-21 and Sept. 7-11, authorities executed
+search warrants on 47 separate parcels. [@2,3] The operations drew on county Code
 Enforcement, Environmental Health and the Road Department with the California
 Department of Justice’s Eradication and Prevention of Illicit Cannabis program
 and the Bureau of Land Management. [@1]
@@ -75,10 +79,9 @@ and the Bureau of Land Management. [@1]
 Deputies said they seized approximately 151,177 marijuana plants, 19,973 pounds
 (about 9,060 kilograms) of processed marijuana and 11 firearms. [@2]
 Investigators also reported thousands of pounds of garbage and hazardous
-pesticides at the sites. [@1] Authorities said many operations were illegally
+pesticides at the sites. [@1,3] Authorities said many operations were illegally
 diverting and polluting water from nearby streams. [@1]
 
 The investigation remained ongoing as detectives worked to identify and
 prosecute those responsible. [@1] Property owners of record will be taxed based
-on the size of the illegal grows, according to the sheriff’s office. [@2]
-
+on the size of the illegal grows, according to the sheriff’s office. [@2,3]
