@@ -50,6 +50,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-09
     language: tr
+  - title: 'Antalya''da 6 İlçede Dev Operasyon: Kaçak Tütün ve Uyuşturucu Ele Geçirildi'
+    url: https://www.akdenizgercek.com.tr/antalya/antalyada-6-ilcede-dev-operasyon-kacak-tutun-ve-uyusturucu-ele-gecirildi/388941
+    publisher: Akdeniz Gerçek
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The article gives no calendar date for the searches; 9 November 2026 is its publication date and is used here as the incident date.
   - No names, ages or nationalities of the seven suspects were published, and no charges or case outcome were reported beyond the jailing of one suspect.
@@ -60,12 +65,14 @@ open_questions:
   - Only one opened account of the operation was found, credited to İHA, so no independent confirmation was available.
   - The page image is the outlet's watermark placeholder and is not established to show this seizure, so no media entry is added.
   - The submitted Son Dakika page reproduces the same İHA text as the Mersin Haber account already cited, so the two are not independent reporting of the operation.
+  - The article gives no calendar date for the searches; 9 November 2026 is its publication date.
+  - The tobacco operation is a separate non-cannabis component of the wider drive and is not counted in the cannabis figures.
 ---
 
 Gendarmes searched the homes of seven suspects in the districts of Döşemealtı,
-Aksu and Alanya in Antalya province. [@1,2] The searches were carried out on the
+Aksu and Alanya in Antalya province. [@1,2,3] The searches were carried out on the
 instructions of the Antalya and Alanya public prosecutor's offices. [@1]
-Officers seized 2 kilos 123 grams of esrar, the Turkish name for cannabis. [@1,2]
+Officers seized 2 kilos 123 grams of esrar, the Turkish name for cannabis. [@1,2,3]
 
 The same searches found 3 grams of cocaine. [@1,2] The searches also found 232
 pills of the synthetic drug Gerica and 63 other synthetic drug pills. [@1,2]
@@ -73,4 +80,6 @@ Officers seized a precision scale, two unlicensed handguns and 30 cartridges.
 [@1] Police also seized money described as proceeds of crime. [@1,2]
 
 One suspect was arrested and jailed by the court he was brought before; no
-charges were reported. [@1,2]
+charges were reported. [@1,2,3]
+
+The cannabis searches were part of a wider operation in six Antalya districts that also targeted smuggled tobacco in Kepez, Alanya and Gazipaşa. [@3] The tobacco searches were coordinated by the Antalya, Alanya and Gazipaşa public prosecutor's offices. [@3]
