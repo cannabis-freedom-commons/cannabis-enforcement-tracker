@@ -58,6 +58,10 @@ sources:
     url: https://www.sabcnews.com/sabcnews/five-suspects-nabbed-following-dagga-lab-bust-in-de-deur/
     publisher: SABC News
     date: 2026-08-28
+  - title: Five arrested as Gauteng police uncover R1 million hydroponic dagga lab
+    url: https://iol.co.za/news/crime-and-courts/2026-08-28-five-arrested-as-gauteng-police-uncover-r1-million-hydroponic-dagga-lab/
+    publisher: IOL
+    date: 2026-08-28
 open_questions:
   - No weight, plant count or area figure for the hydroponic dagga was published; only the approximate R1-million value was given.
   - No separate date for the raid was published; 28 August 2026 is the article's publication date and stands in for the incident date.
@@ -65,19 +69,23 @@ open_questions:
   - Only one source could be opened; no police statement or second outlet account was found.
   - The two firearms were reported alongside the dagga but are not a cannabis figure and do not affect the cannabis valuation.
   - The SABC report says the dagga was worth more than R1 million, while the existing report records approximately R1-million; the existing figure is unchanged.
+  - IOL values the laboratory at more than R1 million, while the existing report records approximately R1-million.
+  - The same article also describes a separate Limpopo seizure of 130 bags of dagga worth about R11 million, a different event left out here.
 ---
 
 Gauteng police raided a property in De Deur in the Sedibeng District that had
 been converted into a hydroponic dagga laboratory. [@1] Five foreign nationals
-were arrested at the property during the police operation. [@1,2] Two of the five
+were arrested at the property during the police operation. [@1,2,3] Two of the five
 people arrested were Jamaican nationals. [@1] The other people arrested were
 from Malawi and Lesotho. [@1]
 
 Police found and seized hydroponic dagga valued at approximately R1-million at
-the property. [@1,2] Officers also seized two firearms at the property alongside
+the property. [@1,2,3] Officers also seized two firearms at the property alongside
 the dagga. [@1]
 
 The five arrested people were expected to appear before the Meyerton Magistrates
-Court shortly after the raid. [@1,2]
+Court shortly after the raid. [@1,2,3]
 
-The five comprised two Jamaican nationals, two Malawian nationals and one Lesotho national. [@2] Police recovered a 303 rifle and a 9mm Glock pistol during the operation. [@2] The suspects face charges relating to contravention of Sections 3 and 5(b) of the Drug Trafficking Act 140 of 1992. [@2] Two of the five suspects face additional charges of possession of unlicensed firearms and ammunition. [@2]
+The five comprised two Jamaican nationals, two Malawian nationals and one Lesotho national. [@2,3] Police recovered a 303 rifle and a 9mm Glock pistol during the operation. [@2,3] The suspects face charges relating to contravention of Sections 3 and 5(b) of the Drug Trafficking Act 140 of 1992. [@2,3] Two of the five suspects face additional charges of possession of unlicensed firearms and ammunition. [@2,3]
+
+The five were arrested on Thursday, August 27, following an intelligence-driven operation in De Deur, Sedibeng District. [@3] The operation was conducted by Gauteng Counter-Intelligence Narcotics, Gauteng Organised Crime, West Rand K9, the Forensic Science Laboratory, National Cybercrime and private security companies. [@3]
