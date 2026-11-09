@@ -78,6 +78,11 @@ sources:
     publisher: AlphaTV
     date: 2026-11-09
     language: el
+  - title: 'Λέσβος: Σύλληψη 39χρονου για διακίνηση ναρκωτικών – Κατασχέθηκαν πάνω από 8,5 κιλά ακατέργαστης κάνναβης'
+    url: https://www.focusfm.gr/lesvos-syllipsi-39chronoy-gia-diakinisi-narkotikon-kataschethikan-pano-apo-85-kila-akatergastis-kannavis/
+    publisher: Focus FM 103.6
+    date: 2026-11-09
+    language: el
 open_questions:
   - No charge sheet, prosecutor decision, detention order or court outcome was reported; the case file was the only step published.
   - The cannabis is described only as unprocessed cannabis (hashish); no cannabis resin product or THC analysis is reported.
@@ -99,11 +104,14 @@ open_questions:
   - AlphaTV reproduces the same Hellenic Police press release as the outlets already cited, so it is not independent reporting of the case.
   - AlphaTV gives no date for the arrest beyond the 'Saturday' in its text, with a 9 November 2026 publication date, consistent with 7 November.
   - The AlphaTV image carries only a generic Hellenic Police photo credit and repeats the headline in its alt text, so no media entry is added.
+  - Focus FM reproduces the Hellenic Police press release, like the outlets already cited, so it is not independent reporting of the case.
+  - The Focus FM photo file is the same Hellenic Police handout of the seized packages already listed from Lesvosnews.net, so it is not added as a second media entry.
+  - The page gives no date for the arrest beyond its 9 November 2026 publication date, and reports no prosecutor decision or court outcome.
 ---
 
 Drug officers in Mytilene arrested a 39-year-old Greek man on Saturday 7
 November 2026 on suspicion of possessing and trafficking narcotic substances and
-of breaking the weapons laws. [@1,2,3,4,5]
+of breaking the weapons laws. [@1,2,3,4,5,7]
 
 Officers stopped him as he drove a light truck on the Mytilene–Kalloni road and
 found a nylon package holding about 1,035 grams of unprocessed cannabis, called
@@ -112,7 +120,7 @@ of the house where he lives in the wider Mytilene area, carried out in the
 presence of a judicial officer, found seven more nylon packages of cannabis
 weighing a total of 7,493 grams and ten packages with cannabis residues. [@1,3,4,5] In
 a second house in the wider Plomari area, officers seized about 4 grams of
-cannabis and a precision electronic scale. [@1,3,4,5]
+cannabis and a precision electronic scale. [@1,3,4,5,7]
 
 Officers also seized a knife and a mobile phone the man had with him when they
 found him, and the light truck, which police describe as the means used to
