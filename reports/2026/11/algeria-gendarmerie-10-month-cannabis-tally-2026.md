@@ -94,6 +94,11 @@ sources:
     publisher: Báo Hà Tĩnh
     date: 2026-11-09
     language: vi
+  - title: アルジェリアは186の麻薬密売組織を摘発し、2万5000人以上を逮捕した。
+    url: https://www.vietnam.vn/ja/algeria-triet-pha-186-duong-day-ma-tuy-bat-giu-hon-25-000-nguoi
+    publisher: Vietnam.vn / VietnamPlus
+    date: 2026-11-09
+    language: ja
 open_questions:
   - The 11-tonne kif figure is given as approximate (قرابة 11 طنا); the 27,270 kg cannabis total is the sum of that rounded figure and 16,270 kg of cannabis herb.
   - No date is given for any individual seizure; 7 November 2026 is the publication and announcement date and is used as the incident date for this 10-month tally.
@@ -128,6 +133,8 @@ open_questions:
   - This account does not report the roadside screening or road-crash figures of the existing report.
   - The submitted page's lead image is a VietnamPlus photo captioned as a view of the city of Oran, not of the tally, so no media entry is added.
   - This outlet adds no new cannabis detail beyond the existing report's sentences; its Algiers network passage (33 arrests and 176 kg of resin) also repeats the separately recorded Algiers operation.
+  - This Japanese translation says the announcement was made at a meeting in the capital Algiers, while the existing report says it was made at a national forum at the National Army Club in Beni Messous, Algiers; the venue does not change the event.
+  - The Japanese text describes the haul as the first ten months of 2026, matching the existing report; it gives no date for when the tally was announced beyond the 9 November 2026 publication date.
 ---
 
 National Gendarmerie commander Maj. Gen. Ali Seydan said in Algiers that drugs
@@ -137,11 +144,11 @@ Seydan spoke alongside Justice Minister Lotfi Boujemaa at the opening of a
 national forum on the dimensions of drug use under traffic law 26-09, held at
 the National Army Club in Beni Messous. [@1,3,5] Gendarmerie units arrested 25,218
 people in the same effort, with 5,264 placed in detention, and dismantled 186
-networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11]
+networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11,12]
 
 During the first 10 months of 2026 the units seized about 11 tonnes of processed
-kif. [@1,2,3,4,5,7,9,10] In the same period they seized 16,270 kilograms of cannabis herb and
-4,162 cannabis shrubs. [@1,2,3,4,5,7,9,10] The same haul included 837 kilograms of cocaine,
+kif. [@1,2,3,4,5,7,9,10,12] In the same period they seized 16,270 kilograms of cannabis herb and
+4,162 cannabis shrubs. [@1,2,3,4,5,7,9,10,12] The same haul included 837 kilograms of cocaine,
 more than 13.6 million pregabalin tablets, 59,937 ecstasy tablets and 1,021,879
 other psychotropic tablets, which are not counted as cannabis. [@1,7]
 
