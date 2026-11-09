@@ -67,6 +67,11 @@ sources:
     publisher: Tips
     date: 2026-11-09
     language: de
+  - title: Dealer fand in Süchtigem einen willigen Helfer
+    url: https://www.krone.at/4368711
+    publisher: Kronen Zeitung
+    date: 2026-11-09
+    language: de
 open_questions:
   - The sources give no date for the house searches or the arrests; 9 November 2026 is the date of the police statement and of publication, and stands in for the incident date.
   - The 3 kilograms of cannabis herb is the amount investigators attribute to the 50-year-old as sold, not a quantity seized; no cannabis weight taken in the searches was published.
@@ -76,24 +81,28 @@ open_questions:
   - The reports do not say whether the cocaine and cannabis were analysed or confirmed in a laboratory.
   - All opened accounts reproduce the same Upper Austrian police press release, so they are a single source rather than independent verification.
   - The submitted MSN page's only illustration is a 2024 Canva stock montage of a police car and assorted drugs, and the ORF page carries a 2023 police-car file photo, so neither shows this event and no media is listed.
+  - The Krone article gives no date for the house searches or the arrests; 9 November 2026 is the publication date and the date of the police statement.
+  - No cannabis weight actually seized in the searches was published; the 3,000 grams of Cannabiskraut is the amount investigators attribute to the 50-year-old as dealt.
+  - The Krone report does not say what evidence was secured in the searches or whether the cannabis was laboratory-confirmed.
+  - The Krone page's only picture is a symbolic illustration captioned about the pair's alleged cocaine and marijuana dealing and credited to P. Huber, not confirmed to show this event, so no media is added.
 ---
 
 A 23-year-old from the Ried district and a 50-year-old Hungarian national were
 arrested and held in pre-trial detention over the sale of cocaine and cannabis
-in Upper Austria and Salzburg. [@1] The investigation was run for several months
+in Upper Austria and Salzburg. [@1,6] The investigation was run for several months
 by the drug unit of the coordinated criminal investigation service in Ried
 (Suchtgiftgruppe des Koordinierten Kriminaldienstes Ried). [@2] The Ried public
 prosecutor ordered house searches at both suspects' premises with court
 approval; the 23-year-old was arrested on that order and the 50-year-old was
-arrested after the search. [@2] Both men were taken to the Ried prison and
+arrested after the search. [@2,6] Both men were taken to the Ried prison and
 pre-trial detention was imposed on both. [@2] Both suspects confessed to the
 main allegations during questioning, ORF reported. [@3]
 
 Investigators attribute to the 50-year-old the sale of about 3,000 grams of
-cannabis herb (Cannabiskraut) alongside about 2,000 grams of cocaine. [@1]
+cannabis herb (Cannabiskraut) alongside about 2,000 grams of cocaine. [@1,6]
 Police say he had been dealing in cocaine and cannabis for profit since 2022,
 buying the cocaine mainly from suppliers in Upper Austria and the marijuana from
-a woman living in Salzburg, with the handovers in Salzburg. [@2] The drugs were
+a woman living in Salzburg, with the handovers in Salzburg. [@2,6] The drugs were
 then sold mainly in the districts of Ried and Grieskirchen. [@2] The younger man
 had been a cocaine buyer of the 50-year-old and from October 2025 sold on with
 him, using his own acquaintances while the older man handled supply and
@@ -101,8 +110,8 @@ organisation. [@2] The 23-year-old partly admitted selling about 640 grams of
 the cocaine, some of it together with the 50-year-old. [@1]
 
 Investigators identified about 55 people who had bought drugs from the pair.
-[@1] The inquiry also led to the arrest of the woman in Salzburg suspected of
-supplying the marijuana, and pre-trial detention was imposed on her too. [@2]
+[@1,3] The inquiry also led to the arrest of the woman in Salzburg suspected of
+supplying the marijuana, and pre-trial detention was imposed on her too. [@2,6]
 The Oberösterreichische Nachrichten reported that the Salzburg supplier is a
 50-year-old woman. [@4] The case produced evidence of further, partly unrelated
 drug offences in several Upper Austrian districts, leading to additional
@@ -110,3 +119,4 @@ proceedings and several more suspects arrested, some also held in pre-trial
 detention. [@2] Police in Ried told the regional outlet Tips that the pair
 widened their circle of customers and expanded the trade. [@5]
 
+During the house searches police secured further items of evidence, ORF reported. [@3]
