@@ -46,6 +46,11 @@ sources:
     publisher: Инфомрежа
     date: 2026-11-09
     language: bg
+  - title: 'Арести, побои и кражби в Пиринско: Задигнаха над 900 евро в Благоевград, двама шофираха пияни'
+    url: https://pirinsko.com/aresti-poboi-i-krajbi-v-pirinsko-zadignaha-nad-900-evro-v-blagoevgrad-dvama-shofiraha-piqni-194325/
+    publisher: ПИРИНСКО - НОВИНИ ОТ ЮГОЗАПАДНА БЪЛГАРИЯ
+    date: 2026-11-09
+    language: bg
 open_questions:
   - The weight is given as about 1.7 grams, an approximate initial figure, not a measured amount.
   - The accounts do not say whether the man was held under a formal detention order or what charges, if any, followed.
@@ -53,14 +58,13 @@ open_questions:
 ---
 
 Police detained a 29-year-old man from Blagoevgrad after officers found a
-cigarette box containing about 1.7 grams of marijuana on him. [@1] The check
+cigarette box containing about 1.7 grams of marijuana on him. [@1,3] The check
 took place at about 20:00 on 6 November in the area of Peyo Yavorov Street in
-Blagoevgrad. [@2]
+Blagoevgrad. [@2,3]
 
 The box held a green herbal mass that tested positive for marijuana, with
 initial data putting the quantity at about 1.7 grams of cannabis. [@2]
 
-Blagoevgrad's district prosecution service was notified of the case. [@1] Police
+Blagoevgrad's district prosecution service was notified of the case. [@1,3] Police
 said work to establish and document all the facts and circumstances of the case
 was continuing. [@2]
-
