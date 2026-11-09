@@ -43,6 +43,9 @@ open_questions:
   - The plants are described as seized. The reports do not say they were destroyed.
   - A cocaine and coca-paste seizure in Artigas and Salto the previous week is a different investigation, left out here.
   - Further aerial ministry photos of the same clearing remain without separate media_url entries after consolidation.
+  - Teledoce numbers the operation "Manantiales" in its headline and "Manantiales" in the text; the Interior Ministry and the existing report call it Manantial.
+  - Teledoce reports only short and long firearms, without the shotgun and pistol details of the ministry statement.
+  - Teledoce does not repeat the six-search count, the 4.732 kg of plant material or the vehicles seized.
 sources:
   - title: Operación Manantial logra la desarticulación de grupo delictivo dedicado a la plantación de marihuana en Rivera
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/operacion-manantial-logra-desarticulacion-grupo-delictivo-dedicado-plantacion
@@ -60,6 +63,11 @@ sources:
     date: 2026-09-09
     language: es
     archived: https://web.archive.org/web/20260912002743id_/https://www.telenoche.com.uy/sociedad/desarticularon-un-grupo-que-plantaba-marihuana-un-campo-rivera-incautaron-355-plantas-y-hay-tres-detenidos-n5404498
+  - title: 'Operación Manantiales: incautaron 355 plantas de marihuana y armas en un campo de Rivera'
+    url: https://www.teledoce.com/telemundo/policiales/operacion-manantiales-incautaron-355-plantas-de-marihuana-y-armas-en-un-campo-de-rivera/
+    publisher: Teledoce
+    date: 2026-09-09
+    language: es
 media:
   - kind: photo
     url: https://www.gub.uy/ministerio-interior/comunicacion/noticias/operacion-manantial-logra-desarticulacion-grupo-delictivo-dedicado-plantacion
@@ -78,10 +86,10 @@ media:
     caption: "Rows of young plants under white mesh, with the sheeting pulled aside (Ministerio del Interior)."
 ---
 
-On the morning of Wednesday 9 September 2026, police arrested three people in Rivera and seized 355 cannabis plants. [@1,3] A 24-year-old man had no criminal record. [@1,3] A 32-year-old man and a 61-year-old woman did. [@1,3]
+On the morning of Wednesday 9 September 2026, police arrested three people in Rivera and seized 355 cannabis plants. [@1,3,4] A 24-year-old man had no criminal record. [@1,3] A 32-year-old man and a 61-year-old woman did. [@1,3]
 
 The raids were Operation Manantial, run by the national police investigations directorate through its northern region in Rivera. [@1] The special operations directorate, the police aviation directorate and the rural security brigade of the Rivera police took part, under a semi-specialised prosecutor in Rivera. [@1] Investigators had concluded that the people they were following had a large cannabis planting in a rural part of the department. [@1] They carried out six searches in the city of Rivera and in the countryside. [@1,3]
 
-Officers seized 355 cannabis plants and five nylon bags of plant material weighing 4.732 kg in all. [@1,3] They also took a shotgun, a pistol with its numbers filed off, a chumbera, two pickup trucks and a motorcycle. [@1,3] From the growing site they took a gas cylinder, a thermometer, a machete, three mobile phones, soil fertiliser, 110 black pots and three bags of soil. [@1,3] A judge ordered the three held and brought to the prosecutor that afternoon. [@1]
+Officers seized 355 cannabis plants and five nylon bags of plant material weighing 4.732 kg in all. [@1,3,4] They also took a shotgun, a pistol with its numbers filed off, a chumbera, two pickup trucks and a motorcycle. [@1,3] From the growing site they took a gas cylinder, a thermometer, a machete, three mobile phones, soil fertiliser, 110 black pots and three bags of soil. [@1,3] A judge ordered the three held and brought to the prosecutor that afternoon. [@1]
 
-El Observador reported the same seizures and the same three people the next day, from the Interior Ministry. [@2] National police chief José Manuel Azambuya said the operation was in the same strategic line as a cocaine and coca-paste seizure in Artigas and Salto the week before, and that the two inquiries were separate. [@2]
+El Observador reported the same seizures and the same three people the next day, from the Interior Ministry. [@2,4] National police chief José Manuel Azambuya said the operation was in the same strategic line as a cocaine and coca-paste seizure in Artigas and Salto the week before, and that the two inquiries were separate. [@2]
