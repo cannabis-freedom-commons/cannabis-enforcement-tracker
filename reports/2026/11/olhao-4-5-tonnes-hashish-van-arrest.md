@@ -129,6 +129,11 @@ sources:
     publisher: Huelva Hoy
     date: 2026-11-09
     language: es
+  - title: Detenido en Portugal con 4,5 toneladas de hachís en un vehículo robado
+    url: https://narcodiario.com/2026/11/detenido-en-portugal-con-45-toneladas-de-hachis-en-un-vehiculo-robado/
+    publisher: Narcodiario
+    date: 2026-11-09
+    language: es
 open_questions:
   - No date is given for the operation or the arrest; 9 November 2026 is the publication date of the accounts and stands in for the incident date.
   - The weight is given as approximately 4.5 tonnes and the bale count as about 100, not exact measured figures.
@@ -166,6 +171,11 @@ open_questions:
   - Huelva Hoy gives no separate date for the operation or the arrest; 9 November 2026 is its publication date.
   - Huelva Hoy reproduces the same Judicial Police statement as the Portuguese outlets already cited, so it does not independently corroborate the police version.
   - The page's two article images are a Judicial Police photograph of a detained man and a Judicial Police photograph, both reused from other coverage with no indication that they show this seizure, so no media entry is added.
+  - The Narcodiario article body is behind a subscriber paywall; only its headline, standfirst and opening line could be read, so its remainder was not used.
+  - Narcodiario places Olhão 'cerca de Huelva', describing proximity to the Spanish province rather than a precise location; the tracker report follows the Portuguese accounts placing the property in the rural area of Olhão.
+  - The submitted page's only article image carries no caption or credit line and its file name is Portuguese-related, so no media entry is added.
+  - The Observador account reproduces the same Judicial Police statement as the Portuguese outlets already cited, so it does not independently corroborate the police version.
+  - 'Left out, as its quotation was not found in Observador: The arrest was made after the Judicial Police and the GNR found 4.5 tonnes of hashish in a stolen vehicle.'
 ---
 
 Judicial police in Olhão arrested a 38-year-old man on suspicion of drug
@@ -187,7 +197,7 @@ in Faro. [@3,4,7,8,10] The seizure adds to a series of major hashish trafficking
 along the Algarve coast, where waterways are regularly used by organised groups
 bringing drugs ashore from North Africa. [@1]
 
-The operation was run by the Judicial Police's Southern Directorate with the collaboration of the Republican National Guard (GNR). [@4,7,10,11,13] The detained man's role, police say, was to guard the drug. [@4,11]
+The operation was run by the Judicial Police's Southern Directorate with the collaboration of the Republican National Guard (GNR). [@4,7,10,11,13,15] The detained man's role, police say, was to guard the drug. [@4,11]
 
 The suspect was tasked with guarding the drug, which was inside the vehicle hidden on a property in the rural area of Olhão. [@5,7,13,14] The Judicial Police announced the arrest on Monday, 9 November. [@5] No preventive measures had yet been decided and the investigation was continuing. [@5]
 
