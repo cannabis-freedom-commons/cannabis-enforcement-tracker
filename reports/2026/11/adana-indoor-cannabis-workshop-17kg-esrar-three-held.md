@@ -97,6 +97,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-09
     language: tr
+  - title: 'Adana''da uyuşturucu imalathanesine operasyon: 3 gözaltı'
+    url: https://www.gazeterize.com/adanada-uyusturucu-imalathanesine-operasyon-3-gozalti
+    publisher: Gazete Rize
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -109,22 +114,24 @@ open_questions:
   - Son Dakika credits the text to ANKA and reproduces the same Interior Ministry statement as the outlets already cited in this report, so it is not independent reporting of the raid.
   - The Son Dakika photo is captioned only with the story headline and carries no credit; it is not confirmed to show the workshop, the seized esrar or the operation itself.
   - The Son Dakika video page was not opened separately; only the page's embedded video file address and headline were read.
+  - Gazete Rize credits the text to the İHA news agency and reproduces the same gendarmerie account as the outlets already cited, so it corroborates rather than independently reporting the raid.
+  - The Gazete Rize photo is captioned only with the story headline and carries no credit identifying what it depicts, so it is not added as a separate media entry.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,5] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,5,6] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2]
+the air-conditioning system and various materials. [@2,6]
 
 The three suspects were taken into custody, and the ministry named no further
 court step. [@2]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2]
+anti-narcotics department and the Adana chief public prosecutor's office. [@2,6]
 TRT Haber reported that the three suspects were held in gözaltı, the police
 custody in which a person is questioned while prosecutors decide on charges or
 release. [@3]
