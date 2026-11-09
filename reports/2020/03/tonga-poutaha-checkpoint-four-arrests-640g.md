@@ -44,10 +44,20 @@ sources:
     url: https://kanivatonga.co.nz/2020/04/covid-19-operation-four-arrested-with-illicit-drugs/
     publisher: Kaniva Tonga
     date: 2020-04-01
+  - title: Dealer who sold cannabis from home jailed
+    url: https://matangitonga.to/print/25336
+    publisher: Matangi Tonga
+    date: 2020-11-10
+  - title: Jail time for cannabis seized at checkpoint
+    url: https://matangitonga.to/print/25294
+    publisher: Matangi Tonga
+    date: 2020-11-04
 open_questions:
   - The Kaniva Tonga account says the three men stopped at the checkpoint were 'all from Tofoa aged 28 and 23', which does not give three consistent ages; the report therefore does not state individual ages.
   - The amount of cash seized with the 474.31 grams of cannabis at the Tofoa residence was not stated.
   - No charges, full identities, or court outcome were reported in the opened sources.
+  - The Poutaha report's 474.31-gram figure for the cannabis found at the Tofoa residence does not match the 400.37 grams in the Supreme Court's account of the same search; the difference is not explained by any opened source.
+  - The Poutaha report places the house search at the residence of the arrested men and reports a woman arrested there, while the Supreme Court account says the home searched belonged to Totau and that he was arrested after admitting the cannabis was his.
 ---
 
 While enforcing the National Lockdown Order, police and His Majesty's Armed
@@ -70,3 +80,4 @@ criminal activity. [@2] Acting Deputy Commissioner Tevita Vailea said police
 would continue to target those who sought to profit from supplying and
 distributing illicit drugs during the national lockdown. [@2]
 
+One of the three checkpoint arrests produced a Supreme Court sentence: Sosiua Totau, 25, was jailed for two years on 6 November 2020 for possessing 400.37 grams of cannabis found when police searched his Tofoa home. [@3] The co-driver at the checkpoint, Likamani Fa'aoso, was sentenced on 30 October 2020 to 16 months' imprisonment, with the final eight months suspended, for possessing the 165.37 grams found in the vehicle. [@4]
