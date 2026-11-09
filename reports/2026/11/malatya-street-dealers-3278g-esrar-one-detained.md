@@ -43,12 +43,20 @@ sources:
     publisher: Malatya Haber
     date: 2026-11-09
     language: tr
+  - title: Malatya'da sokak satıcılarına yönelik operasyonda 3 kilo 278 gram esrar ele geçirildi
+    url: https://www.haberler.com/3-sayfa/malatya-da-sokak-saticilarina-yonelik-operasyonda-20411667-haberi/
+    publisher: Haberler.com
+    date: 2026-11-09
+    language: tr
 open_questions:
   - Only one account of this operation was found; it is an agency dispatch published by Malatya Haber and was not corroborated by a second opened source.
   - No neighbourhood, address or specific street within Malatya was named for the operation.
   - No weight breakdown, estimated street value, charge, court date or outcome for the single suspect was reported.
   - The reports do not say whether the esrar was found on the suspect, in a vehicle or at an address.
   - The page's article image is the site's generic placeholder captioned only with the headline, so no photo of the seizure could be confirmed and none is listed.
+  - Haberler.com does not give the operation date; 8 November 2026 comes from the account the existing report cites, and 9 November 2026 is the publication date.
+  - The Haberler.com page image is captioned only with the headline and carries no credit, so it is not confirmed to show this seizure and no media entry was added.
+  - The Haberler.com account is an İhlas Haber Ajansı dispatch. A second Malatya Güncel İLKHA page covering the same operation was read but could not be quoted against the saved capture, so it contributes no separate fact.
 ---
 
 Malatya provincial police directorate teams detained one suspect in an operation
@@ -61,3 +69,4 @@ drug trafficking and block the activity of street sellers across the city. [@1]
 The police said operations against drug trafficking and street sellers across
 Malatya province would continue. [@1]
 
+Searches of the suspect's person and his address produced the 3 kg 278 g of esrar. [@2] The operation was carried out by teams of the provincial police directorate's narcotics branch, after physical and technical surveillance of street sellers. [@2]
