@@ -65,6 +65,11 @@ sources:
     publisher: Newsbangla24
     date: 2026-11-09
     language: bn
+  - title: হাতিয়ায় কোস্ট গার্ডের অভিযানে ৪ কেজি গাঁজাসহ মাদক কারবারি আটক
+    url: https://channels.com.bd/news/district-news/57cd-20261109
+    publisher: চ্যানেল এস | Channel S
+    date: 2026-11-09
+    language: bn
 open_questions:
   - Only NAGORIK TV's account, reproducing a Coast Guard press statement, could be opened; no separate outlet or Coast Guard page reporting this raid was found.
   - The report gives no weight or value estimate for the seized speedboat and does not say whether it was returned, held or handed to police.
@@ -75,13 +80,15 @@ open_questions:
   - The Daily Adin reproduces the same Coast Guard press statement as the NAGORIK TV report already cited, so the two accounts are not independent.
   - The Daily Adin report does not mention the seizure of the speedboat recorded in the existing report, and does not say whether any charges were filed or the boat was held.
   - The Newsbangla24 report reproduces the same Coast Guard media statement as the other accounts and names no separate source, so it is not independent corroboration.
+  - Channel S reproduces the same Coast Guard media statement as the accounts already cited, so it is not independent corroboration.
+  - The Channel S page image is stored as a generic site template file and its alt text only repeats the headline, so no caption establishes that it shows the seized ganja or the speedboat and it is not listed as media.
 ---
 
 Coast Guard officers arrested a man they described as a drug trafficker and
 seized 4 kg of ganja from him in Noakhali's Hatiya upazila on Monday 9 November
 2026. [@1,2] A Coast Guard team from Hatiya station searched a suspicious
 speedboat near Chairman Ghat in the upazila during the operation and made the
-arrest on board, acting on a tip-off. [@1,2,3] The Coast Guard also seized the
+arrest on board, acting on a tip-off. [@1,2,3,4] The Coast Guard also seized the
 speedboat, which it said was used to move the drugs. [@1]
 
 The Coast Guard valued the seized ganja at about 160,000 taka. [@1,2,3] Lieutenant
@@ -95,3 +102,5 @@ action. [@1,2,3] The Coast Guard said it would continue such operations to prote
 the country's young people and curb the spread of drugs. [@1,2,3]
 
 The Coast Guard team carried out the raid at about 1:30 pm on Monday 9 November 2026. [@3]
+
+The raid took place at about 1:30 pm on Monday 9 November 2026 in the area next to Chairman Ghat, under Hatiya police station. [@4]
