@@ -50,21 +50,28 @@ sources:
     publisher: Radio Diez
     date: 2026-11-09
     language: es
+  - title: Capturan a un hombre con 70 dosis de marihuana en el municip
+    url: http://diariodelcauca.com.co/noticias/capturan-a-un-hombre-con-70-dosis-de-marihuana-en-el-municipio
+    publisher: Diario del Cauca
+    date: 2026-11-09
+    language: es
 open_questions:
   - The accounts give no separate date for the arrest; 9 November 2026, the publication dates of both articles, is used as the incident date.
   - No weight in grams was published for the 70 doses, so no kilogram figure is recorded.
   - Diario del Sur gives the man's name as a purported identification while Radio Diez gives only his age; no charges filed or court ruling were reported.
   - Diario del Sur is part of the same Grupo Editorial Central network as other recent Colombian titles, and Radio Diez repeats the same police statement, so the two accounts are not independent.
   - The page's only picture is a cover image credited to Grupo Editorial Central with a caption repeating the headline, so no media entry is included.
+  - Diario del Cauca belongs to the same Grupo Editorial Central network as Diario del Sur, so the two accounts are not independent.
+  - The article gives no separate date for the arrest; 9 November 2026, its publication date, is used as the incident date.
 ---
 
 National Police officers arrested a 26-year-old man caught in the act in the
-barrio Nacional of Piendamó, Cauca. [@1] The operation was carried out by the
+barrio Nacional of Piendamó, Cauca. [@1,3] The operation was carried out by the
 National Police's Criminal Investigation Section (SIJIN) as part of control and
-intervention work in different parts of the town. [@1] Officers found 70 doses
-of marijuana on the man and seized them. [@1] The arrest was on suspicion of
+intervention work in different parts of the town. [@1,3] Officers found 70 doses
+of marijuana on the man and seized them. [@1,3] The arrest was on suspicion of
 trafficking, manufacturing or carrying narcotics, an offence in Colombia's
-Criminal Code. [@1]
+Criminal Code. [@1,3]
 
 The man was taken with the seized material to the Attorney General's Office
 (Fiscalía General de la Nación) for judicial proceedings. [@2] The police
@@ -74,4 +81,3 @@ respecting due process and the presumption of innocence. [@1]
 The police said the arrest was part of operations in the municipality against
 local drug trafficking, and that patrols continue in Piendamó's neighbourhoods
 to find distribution points. [@1]
-
