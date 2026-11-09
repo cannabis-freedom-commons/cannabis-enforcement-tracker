@@ -3,6 +3,9 @@
 // while), so they load from the header's "Refresh reports" button instead, with the reports:
 // report files, their cover images, and the photo manifest each "Add photo thumbnails" commit
 // rewrites (src/data/media.json, imported by src/lib/reports.js).
+// the loader's sync count (report-loader.mjs), shared in the process
+const SYNCS = Symbol.for("tracker.reportSyncs");
+
 export function devWatchIgnored(reportsDirectory) {
   return ["**/backend/**", "**/.cache/**", "**/src/assets/reports/**", "**/src/data/media.json", "**/.git/**", `${reportsDirectory}/**`];
 }
@@ -29,7 +32,15 @@ export function reportsDev() {
           }
           try {
             pending ??= (async () => {
+              // Astro returns without syncing while its content configuration reloads (each refresh
+              // invalidates every module, so it does after one): ask again until the loader ran
+              const before = globalThis[SYNCS] ?? 0, deadline = Date.now() + 60000;
               await refreshContent({ loaders: ["tracker-reports"] });
+              while ((globalThis[SYNCS] ?? 0) === before) {
+                if (Date.now() > deadline) throw new Error("the content configuration did not finish loading");
+                await new Promise((resolve) => setTimeout(resolve, 250));
+                await refreshContent({ loaders: ["tracker-reports"] });
+              }
               // Invalidate computed indexes, Git history and Astro's static path cache
               // after the content store is persisted. The requesting browser reloads.
               for (const environment of Object.values(server.environments)) {

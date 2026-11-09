@@ -10,17 +10,22 @@ import { pathToFileURL } from "node:url";
 import { codeOf } from "../src/lib/code.js";
 
 // Exercise manual refresh against Astro's real content store, route cache and HMR socket.
-test("dev reports and commits stay quiet until manual refresh; code still hot reloads", { timeout: 60000 }, async () => {
+// npm test runs every test file at once: Astro's first, cold compile of a page can then take far
+// longer than the few seconds it takes alone, so each wait has a minute and the test five.
+test("dev reports and commits stay quiet until manual refresh; code still hot reloads", { timeout: 300000 }, async () => {
   const root = mkdtempSync(join(tmpdir(), "tracker-changelog-dev-"));
   const git = (...args) => execFileSync("git", args, { cwd: root, stdio: "pipe" });
   let child, socket, logs = "";
-  const until = async (action) => {
-    for (let i = 0; i < 150; i++) {
+  // waits for action to return something, polling while Astro starts or reloads; a wait is
+  // limited in time, not in tries, as one try can take seconds under load
+  const until = async (action, what = action.toString()) => {
+    const deadline = Date.now() + 60000;
+    while (Date.now() < deadline) {
       if (child.exitCode !== null) throw new Error(`Astro exited: ${logs}`);
       try { const value = await action(); if (value) return value; } catch { /* startup/reload in progress */ }
       await delay(100);
     }
-    throw new Error(`Timed out waiting for dev changelog: ${logs}`);
+    throw new Error(`Timed out waiting for ${what}: ${logs}`);
   };
   try {
     mkdirSync(join(root, "src/pages/changelog"), { recursive: true });
@@ -65,7 +70,7 @@ export function getStaticPaths() {
     const record = (chunk) => { logs += chunk.toString(); };
     child.stdout.on("data", record); child.stderr.on("data", record);
     const address = await until(() => logs.match(/http:\/\/127\.0\.0\.1:\d+/)?.[0]);
-    const read = async (path) => { const response = await fetch(address + path); return { status: response.status, text: await response.text() }; };
+    const read = async (path) => { const response = await fetch(address + path, { signal: AbortSignal.timeout(30000) }); return { status: response.status, text: await response.text() }; };
     await until(async () => (await read("/changelog/")).text.includes("<h1>Initial history</h1>"));
     assert.equal((await read("/changelog/2/")).status, 404);
     await until(async () => (await read("/api/index.json")).text.includes("Initial report"));
