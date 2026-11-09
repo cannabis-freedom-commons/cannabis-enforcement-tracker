@@ -58,6 +58,10 @@ sources:
     url: https://stluciatimes.com/177076/2026/01/over-1300-cannabis-plants-destroyed-as-two-laborie-men-charged/
     publisher: St. Lucia Times
     date: 2026-01-13
+  - title: Police crackdown sparks fresh calls for decriminalisation of cannabis
+    url: https://stluciatimes.com/177142/2026/01/police-crackdown-sparks-fresh-calls-for-decriminalisation-of-cannabis/
+    publisher: St. Lucia Times
+    date: 2026-01-15
 open_questions:
   - No area in hectares for the six plantations was published.
   - The Black News page is a reprint of a St. Lucia Times article; the original page was not opened.
@@ -72,4 +76,6 @@ Leroy Willie was arrested and charged with possession of a controlled drug, poss
 
 ## Reaction
 
-The Herbal Cooperative, which represents the island's emerging cannabis industry, called on the government for updates on decriminalisation after the crackdown that destroyed more than 1,300 plants and led to the two arrests. [@2]
+The Herbal Cooperative, which represents the island's emerging cannabis industry, called on the government for updates on decriminalisation after the crackdown that destroyed more than 1,300 plants and led to the two arrests. [@2,4]
+
+At a police press conference on 15 January 2026, Assistant Commissioner of Police Luke Defreitas said officers will continue to crack down on cannabis use as long as it remains illegal, and that no cannabis farmers were legally registered on the island. [@4]
