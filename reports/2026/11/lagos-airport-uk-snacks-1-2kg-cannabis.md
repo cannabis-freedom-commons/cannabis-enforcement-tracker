@@ -50,6 +50,10 @@ sources:
     url: https://www.ndlea.gov.ng/blog/ugandan-woman-in-nigeria-for-crusade-arrested-with-87-cocaine-wraps-in-private-part
     publisher: National Drug Law Enforcement Agency
     date: 2026-11-08
+  - title: NDLEA arrests Ugandan woman with 87 cocaine wraps concealed in private part, intercepts drugs worth billions
+    url: https://www.wionews.com/world/ugandan-woman-arrested-cocaine-lagos-airport-ndlea-1794209697270/amp
+    publisher: Wion
+    date: 2026-11-09
 open_questions:
   - No newspaper report was found for the snack-cargo interception; the account rests on the NDLEA statement and Nigerian Voice's copy of it.
   - The statement does not say whether the 1.20 kg of cannabis was weighed separately from the seven parcels of synthetic-cannabis chemicals, and those chemical weights, including 28.65 kg in total, are left out of cannabis figures.
@@ -80,5 +84,4 @@ plastic bottles of mostly liquid substances weighing 16.25 kilogrammes. [@1]
 The agency put the total recovered from the operation at 1.20 kilogrammes of
 cannabis and 28.65 kilogrammes of chemicals allegedly intended for synthetic
 cannabis production, and it presented the case as the dismantling of a syndicate
-importing the chemicals. [@1]
-
+importing the chemicals. [@1,3]

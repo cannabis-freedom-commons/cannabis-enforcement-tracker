@@ -44,6 +44,10 @@ sources:
     url: https://ng.headtopics.com/news/ndlea-seizes-cocaine-and-tapentadol-at-lagos-airport-89663344
     publisher: Head Topics (Channels Television)
     date: 2026-11-08
+  - title: NDLEA arrests Ugandan woman with 87 cocaine wraps concealed in private part, intercepts drugs worth billions
+    url: https://www.wionews.com/world/ugandan-woman-arrested-cocaine-lagos-airport-ndlea-1794209697270/amp
+    publisher: Wion
+    date: 2026-11-09
 open_questions:
   - The roundup gives no date for the Auchi-Ibillo Road car seizure or the Benin City drug-joint raid; 8 November 2026, the publication date, stands in for the incident date.
   - The roundup does not say whether anyone was arrested, charged or tried over the 201 kg seized in the car.
@@ -72,3 +76,4 @@ United Kingdom. [@1] Separately, officers raided a cannabis farm in Board
 Forest, destroying a one-hectare plantation and recovering 242 kg of cannabis.
 [@1]
 
+NDLEA operatives intercepted a Volkswagen Golf saloon car loaded with 19 bags of cannabis weighing 201 kilograms along the Auchi-Ibillo Road in Akoko-Edo Local Government Area on Friday, November 6, 2026. [@2] The operation led to the arrest of the driver, 39-year-old Abdulmumid Isah, and a passenger, 25-year-old Danako Godwin. [@2]

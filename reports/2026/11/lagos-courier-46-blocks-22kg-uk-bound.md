@@ -59,6 +59,10 @@ sources:
     url: https://platformtimes.com.ng/ugandan-woman-arrested-with-87-cocaine-wraps-hidden-in-private-part-at-lagos-airport/
     publisher: Platform Times
     date: 2026-11-08
+  - title: NDLEA arrests Ugandan woman with 87 cocaine wraps concealed in private part, intercepts drugs worth billions
+    url: https://www.wionews.com/world/ugandan-woman-arrested-cocaine-lagos-airport-ndlea-1794209697270/amp
+    publisher: Wion
+    date: 2026-11-09
 open_questions:
   - The reports name no suspect, arrest, charge or court outcome in connection with the 46 blocks.
   - The agency gives the location only as courier companies in Lagos; no individual company or district is named.
@@ -72,7 +76,7 @@ open_questions:
 
 Operatives of the National Drug Law Enforcement Agency (NDLEA), Nigeria's
 anti-narcotics agency, intercepted 46 blocks of cannabis weighing 22.2 kilograms
-at courier companies in Lagos on Tuesday 3 November 2026. [@2,4,5] The drug was
+at courier companies in Lagos on Tuesday 3 November 2026. [@2,4,5,6] The drug was
 packed in two cartons and was bound for the United Kingdom. [@1] Channels
 Television, reporting the agency's account, placed the interception at courier
 companies in Lagos and said the consignment was destined for the United Kingdom.

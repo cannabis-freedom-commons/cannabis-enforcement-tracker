@@ -44,6 +44,10 @@ sources:
     url: https://www.ndlea.gov.ng/blog/ugandan-woman-in-nigeria-for-crusade-arrested-with-87-cocaine-wraps-in-private-part
     publisher: National Drug Law Enforcement Agency
     date: 2026-11-08
+  - title: NDLEA arrests Ugandan woman with 87 cocaine wraps concealed in private part, intercepts drugs worth billions
+    url: https://www.wionews.com/world/ugandan-woman-arrested-cocaine-lagos-airport-ndlea-1794209697270/amp
+    publisher: Wion
+    date: 2026-11-09
 open_questions:
   - The article gives no separate date for the Taraba checkpoint arrests, saying only they occurred within two days; 8 November 2026, the publication date, stands in for the incident date.
   - No charges, court dates or outcomes for the three suspects were reported.
@@ -64,3 +68,5 @@ weighing 36.91 kg. [@1,2]
 NDLEA chairman Brig. Gen. Buba Marwa commended personnel of the agency's
 commands in Lagos, Ondo, Ekiti, Edo, Delta, Taraba and Enugu for the arrests and
 seizures. [@1]
+
+The NDLEA statement dates the first Taraba arrests to Thursday 5 November 2026, when 45-year-old Ibrahim Abdullahi was held with 156 blocks weighing 149.275 kilograms and 25-year-old Kabiru Usman with 80 blocks weighing 40.07 kilograms. [@3] On Friday 6 November 2026, 32-year-old Babangida Babayo was arrested with 47 blocks weighing 36.91 kilograms. [@3]
