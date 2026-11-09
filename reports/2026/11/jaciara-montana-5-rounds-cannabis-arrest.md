@@ -53,6 +53,11 @@ sources:
     publisher: Olhar Direto
     date: 2026-11-08
     language: pt
+  - title: Motorista de Onix é preso com munições e maconha após passageiro fugir
+    url: https://www.folhamax.com/policia/motorista-de-onix-e-preso-com-municoes-e-maconha-apos-passageiro-fugir/580936
+    publisher: Folha Max
+    date: 2026-11-08
+    language: pt
 open_questions:
   - No weight was published for the seized maconha portion, so no kilogram figure is recorded.
   - The fleeing passenger was not identified and had not been located when the police report was closed.
@@ -61,7 +66,7 @@ open_questions:
 
 Military Police arrested a 32-year-old driver in Jaciara in the early hours of 8
 November 2026 after finding five intact 9mm rounds and a portion of maconha in a
-bag in the bed of the red Chevrolet Montana he was driving. [@1]
+bag in the bed of the red Chevrolet Montana he was driving. [@1,3]
 
 Intelligence from the 28th Battalion local intelligence agency said a white
 Chevrolet Onix and the red Montana were travelling from Cuiabá toward Jaciara
@@ -88,3 +93,4 @@ as alleged illegal possession or carrying of a restricted-use firearm and
 illicit drug use. [@2] The passenger who fled had not been located when the
 police report was closed. [@2]
 
+He said he knew the passenger who fled and that both lived in the same neighbourhood. [@3] Questioned, the driver said he would exercise his right to remain silent and made no further statements. [@3]
