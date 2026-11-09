@@ -47,6 +47,11 @@ sources:
     publisher: Gazeta Online Reporteri.net
     date: 2026-11-09
     language: de
+  - title: Више од пола килограма марихуане пронађено у аутомобилу, једна особа ухапшена у Приштини
+    url: https://reporteri.net/sr/%D0%B2%D0%B5%D1%81%D1%82%D0%B8/%D0%92%D0%B8%D1%88%D0%B5-%D0%BE%D0%B4-%D0%BF%D0%BE%D0%BB%D0%B0-%D0%BA%D0%B8%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B5-%D0%BF%D1%80%D0%BE%D0%BD%D0%B0%D1%92%D0%B5%D0%BD%D0%BE-%D1%83-%D0%B0%D1%83%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%83--%D1%98%D0%B5%D0%B4%D0%BD%D0%B0-%D0%BE%D1%81%D0%BE%D0%B1%D0%B0-%D1%83%D1%85%D0%B0%D0%BF%D1%88%D0%B5%D0%BD%D0%B0-%D1%83-%D0%9F%D1%80%D0%B8%D1%88%D1%82%D0%B8%D0%BD%D0%B8/
+    publisher: Gazeta Online Reporteri.net
+    date: 2026-11-09
+    language: sr
 open_questions:
   - The 0.553 kilograms is described only as a substance suspected to be marijuana; no laboratory confirmation was published.
   - The article does not say what the search of the home and surrounding facilities found.
@@ -59,10 +64,10 @@ open_questions:
 
 A man was arrested in Pristina after police found and seized about 0.553
 kilograms of a substance suspected to be marijuana during a search of his
-vehicle. [@1,2] Kosovo Police's 24-hour incident report put the search at around
-20:20 on Sunday, 8 November 2026. [@1,2]
+vehicle. [@1,2,3] Kosovo Police's 24-hour incident report put the search at around
+20:20 on Sunday, 8 November 2026. [@1,2,3]
 
 In consultation with a prosecutor, police also searched the suspect's home and
-surrounding facilities. [@1,2] The suspect's car was seized as material evidence.
-[@1,2] After the interview, the prosecutor ordered that the suspect be taken into
-custody. [@1,2]
+surrounding facilities. [@1,2,3] The suspect's car was seized as material evidence.
+[@1,2,3] After the interview, the prosecutor ordered that the suspect be taken into
+custody. [@1,2,3]
