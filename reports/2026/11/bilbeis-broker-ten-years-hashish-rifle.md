@@ -63,6 +63,11 @@ sources:
     publisher: بوابة الأهرام
     date: 2026-11-09
     language: ar
+  - title: السجن المشدد 10 سنوات وغرامة 50 ألف جنيه لسمسار يتاجر في المخدرات بالشرقية
+    url: https://www.youm7.com/story/2026/11/9/%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%AF%D8%AF-10-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D8%BA%D8%B1%D8%A7%D9%85%D8%A9-50-%D8%A3%D9%84%D9%81-%D8%AC%D9%86%D9%8A%D9%87-%D9%84%D8%B3%D9%85%D8%B3%D8%A7%D8%B1-%D9%8A%D8%AA%D8%A7%D8%AC%D8%B1/7612115
+    publisher: اليوم السابع
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No weight was published for the 20 pieces of hashish, so no cannabis weight is recorded.
   - No separate hearing date is given; 9 November 2026 is the publication date of both accounts and is used as the sentencing date for the ruling reported as delivered in the session that day.
@@ -71,15 +76,17 @@ open_questions:
   - No appeal or challenge to the ruling was reported, so the sentence is recorded as given at first instance by the appeals circuit.
   - The submitted page's picture is captioned only with the headline and the Al-Masry Al-Youm picture shows the Zagazig courthouse, so neither is confirmed to show this defendant or seizure and no media entry is added.
   - The Al-Ahram account gives no weight for the 20 pieces of hashish.
+  - Al-Masry Al-Youm gives the case as No. 27703 of 2025, while Al-Youm Al-Sabea gives 27703 of 2026 for the Bilbeis felony and 5117 of 2025 for the South Zagazig registration.
+  - The picture on this page is captioned only with the headline and is not confirmed to show this defendant or the seizure, so no media entry is added.
 ---
 
 The second appeals circuit of Zagazig Criminal Court jailed a broker for 10
 years and fined him 50,000 Egyptian pounds for possessing hashish for sale and
-for holding an automatic rifle and ammunition without a licence. [@1] The man
+for holding an automatic rifle and ammunition without a licence. [@1,4] The man
 was 40 years old, worked as a broker (simsar, a middleman who finds buyers) and
-lived in Bilbeis markaz. [@2] The panel was headed by Counsellor Sami Abdel
+lived in Bilbeis markaz. [@2,4] The panel was headed by Counsellor Sami Abdel
 Halim Ghoneim, with Counsellors Ahmed Sweilem Mohamed, Hazem Bashir Ahmed and
-Osama Mohamed Abdel Hadi as members. [@1]
+Osama Mohamed Abdel Hadi as members. [@1,4]
 
 The case was filed as No. 27703 of 2025, Bilbeis markaz felony, registered as
 No. 5117 of 2025 at South Zagazig, and the arrest dated to December 2025. [@2]
@@ -96,3 +103,5 @@ Sharqia Security Directorate's drug unit, and the Public Prosecution referred
 the man to the criminal court in custody. [@1]
 
 The Al-Ahram account describes the rifle's ammunition as 10 rounds hidden with the rapid-fire automatic rifle under the driver's seat. [@3] A chemical laboratory report classed the seized material near schedule 1 of the narcotics law. [@3]
+
+The Bilbeis felony case is No. 27703 of 2026, registered as No. 5117 of 2025 at South Zagazig. [@4]
