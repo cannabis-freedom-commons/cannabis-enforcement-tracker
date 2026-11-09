@@ -69,6 +69,11 @@ sources:
     publisher: Gazzetta delle Valli
     date: 2026-11-09
     language: it
+  - title: 'Aveva 150 chili di sostanze stupefacenti: arrestato un 25enne a Trenzano'
+    url: https://primabrescia.it/cronaca/aveva-150-chili-di-sostanze-stupefacenti-arrestato-un-25enne-a-trenzano/
+    publisher: Prima Brescia
+    date: 2026-11-09
+    language: it
 open_questions:
   - The accounts say the operation took place nei giorni scorsi (in recent days) before 9 November 2026, so the incident date is approximate.
   - Bresciaoggi gives the hashish and marijuana amounts as 90 kg and 60 kg; Giornale di Brescia and BresciaToday give the same split but describe the quantities as approximate.
@@ -77,31 +82,34 @@ open_questions:
   - No exact address in Trenzano is given; the coordinates are for the town centre.
   - No police statement on the Questura's own site was found for this arrest; the three accounts are local outlet reporting.
   - Gazzetta delle Valli reports that investigators first gathered information through the Youpol app near a house in Trenzano; the accounts already cited do not all state that the tip came through Youpol.
+  - Prima Brescia, like the other accounts, gives no separate date for the arrest and does not say the operation took place on the publication day, 9 November 2026, which is used as the incident date.
 ---
 
 Brescia police's Mobile Squad arrested a 25-year-old Albanian man with no
 criminal record who was living regularly in Italy, at a house in Trenzano in the
-Province of Brescia. [@1,4] Investigators acted on reports sent through Youpol,
-the State Police's official app, about a house in Trenzano. [@1] Officers saw
+Province of Brescia. [@1,4,5] Investigators acted on reports sent through Youpol,
+the State Police's official app, about a house in Trenzano. [@1,5] Officers saw
 him unloading large bags from his car, and during the check he admitted straight
-away that he had drugs. [@1]
+away that he had drugs. [@1,5]
 
 Police seized 90 kilograms of hashish and 60 kilograms of marijuana, part hidden
-in the bags he was unloading and the rest kept in a wardrobe in the flat. [@1]
+in the bags he was unloading and the rest kept in a wardrobe in the flat. [@1,5]
 According to Giornale di Brescia, the flat had been turned into a drug warehouse
-with equipment for storing and packing it for later sale. [@2] Officers seized
+with equipment for storing and packing it for later sale. [@2,5] Officers seized
 seven refrigerated storage pits, two professional vacuum-packing machines, two
 professional scales, packing material, adhesive rolls used to mark the different
-kinds of drug, and a frequency detector for finding hidden microphones. [@1]
+kinds of drug, and a frequency detector for finding hidden microphones. [@1,5]
 Under a pillow on the bed police found a Beretta 7.65-calibre semi-automatic
 pistol with its serial number filed off, with several dozen rounds hidden in the
-garage. [@2] Police also seized the car used to carry the bags of drugs. [@2]
+garage. [@2,5] Police also seized the car used to carry the bags of drugs. [@2,5]
 
 He was arrested for possession of drugs for sale and illegal possession of
-firearms. [@1] On the prosecutor's orders he was taken to Brescia prison after
-the checks. [@3] Brescia police chief Paolo Sartori revoked his residence permit
-and issued an order for him to leave Italy, to be followed by expulsion. [@1]
+firearms. [@1,5] On the prosecutor's orders he was taken to Brescia prison after
+the checks. [@3,5] Brescia police chief Paolo Sartori revoked his residence permit
+and issued an order for him to leave Italy, to be followed by expulsion. [@1,5]
 BresciaToday estimated that at average Italian retail prices in the first half
 of 2025 the load could have brought in about 1.5 million euros. [@3]
 
-Brescia police chief Paolo Sartori said the arrest had removed a particularly dangerous figure from organised crime in the province, and called drug dealing and drug use there anything but occasional. [@4]
+Brescia police chief Paolo Sartori said the arrest had removed a particularly dangerous figure from organised crime in the province, and called drug dealing and drug use there anything but occasional. [@4,5]
+
+Sartori said the expulsion would take place with him escorted back to his country of origin once he is released from prison. [@5]
