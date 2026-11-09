@@ -41,6 +41,7 @@ open_questions:
   - Prosecutors had not filed formal charges against the three men in custody as of 24 July; the warrants describe what investigators told a judge.
   - The accounts do not say how many plants were growing at the Rifle Range Road site or who owned the land.
   - The writing agent's runtime did not disclose its model identifier, so the creator is recorded as unknown.
+  - The CBS account gives no count of plants at the grow and no figure for its size.
 sources:
   - title: 'Covelo woman fatally shot at illegal marijuana grow; multiple suspects believed involved'
     url: https://mendovoice.com/2026/07/covelo-woman-fatally-shot-at-illegal-marijuana-grow-multiple-suspects-believed-involved/
@@ -50,6 +51,10 @@ sources:
   - title: 'Father and Son Arrested in Killing of Covelo Mom; Teenage Brother Still Sought'
     url: https://www.mendolocal.news/father-and-son-arrested-in-covelo-homicide/
     publisher: MendoLocal.News
+    date: 2026-07-24
+  - title: Arrests made in murder at illegal Northern California cannabis grow, deputies say
+    url: https://www.cbsnews.com/sanfrancisco/news/mendocino-county-covelo-illegal-cannabis-grow-murder-josepha-littlewolf-basurto-arrests/
+    publisher: CBS San Francisco
     date: 2026-07-24
 ---
 
@@ -69,7 +74,7 @@ he was charged with accessory after the fact. [@2]
 
 Garcia-Acosta and his father were found together in Adelanto on 17 July with help
 from the San Bernardino County Sheriff's Office, and were booked into the Mendocino
-County jail on 21 July. [@2] The 17-year-old was still being sought. [@2]
+County jail on 21 July. [@2,3] The 17-year-old was still being sought. [@2,3]
 
 Jesus Hernandez Sosa, 35, of Covelo, was arrested on 10 July on felony marijuana
 charges, including cultivation with illegal water diversion, but was released on
@@ -80,3 +85,5 @@ County Superior Courthouse in Ukiah on 23 July. [@2]
 
 Basurto was a mother of four children between the ages of 4 and 13, her family said,
 and a horse trainer and California Native powwow dancer. [@2]
+
+Elias Garcia-Acosta was booked on suspicion of homicide and held without bail, and his father was booked on suspicion of being an accessory after the fact and held on $350,000 bail. [@3] A vehicle linked to Jesus Sosa was traced to the Ukiah area, and he was arrested without incident at the Mendocino County Superior Courthouse on 23 July. [@3]
