@@ -48,6 +48,11 @@ sources:
     publisher: Bariloche2000
     date: 2026-11-08
     language: es
+  - title: Cuatro hombres demorados y secuestraron cocaína y cannabis en un control policial
+    url: https://www.anbariloche.com.ar/amp/noticias/2026/11/08/122298-cuatro-hombres-demorados-y-secuestraron-cocaina-y-cannabis-en-un-control-policial
+    publisher: ANBariloche
+    date: 2026-11-08
+    language: es
 open_questions:
   - Only one outlet account could be opened, so no independent corroboration was available.
   - The 1.01 grams of cocaine found in the same search is excluded from cannabis figures under the mixed-event rule.
@@ -56,18 +61,17 @@ open_questions:
 
 Police from the Nahuel Huapi detachment stopped a Volkswagen Virtus carrying
 four adult men at kilometre 2056 of National Route 40 on 7 November 2026 during
-a vehicle and identity check. [@1] During the check the officers called in
+a vehicle and identity check. [@1,2] During the check the officers called in
 National Gendarmerie specialists and road-safety personnel. [@1]
 
 With the prosecutor's office involved, officers carried out a voluntary
-inspection of the occupants' belongings with a drug-detection dog. [@1] The
+inspection of the occupants' belongings with a drug-detection dog. [@1,2] The
 search found four wrappers holding green plant material and another wrapper
-holding white powder. [@1] Gendarmerie field tests were positive for cannabis
+holding white powder. [@1,2] Gendarmerie field tests were positive for cannabis
 and cocaine hydrochloride, and the weighing set the cannabis at 23.32 grams and
-the cocaine at 1.01 grams, which were seized under chain of custody. [@1]
+the cocaine at 1.01 grams, which were seized under chain of custody. [@1,2]
 
 By order of the prosecutor, the four men were held and taken to Police Station
-28 in Villa La Angostura for further proceedings. [@1] Two of the men were made
+28 in Villa La Angostura for further proceedings. [@1,2] Two of the men were made
 subject to notification of the proceedings, while the other two were transferred
 for identification. [@1]
-
