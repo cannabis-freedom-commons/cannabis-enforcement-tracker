@@ -44,6 +44,8 @@ open_questions:
   - Only Malawi Voice reported the bail hearing and the next appearance; the other outlets stopped at the arrest.
   - No outcome after the first court appearance was reported.
   - The weight is the police figure; no test result confirming the substance was published.
+  - Nyasa Times gives no date of its own for the roadblock; 7 August 2026 is its publication date, while other outlets date the interception to the night of 6 August.
+  - Nyasa Times does not report the bail hearing at which Chirwa was released.
 sources:
   - title: RAS CHIKOMENI ARRESTED AT JENDA ROADBLOCK FOR POSSESSING ILLEGAL CHAMBA
     url: https://www.malawivoice.com/2026/08/07/ras-chikomeni-arrested-at-jenda-roadblock-for-possessing-illegal-chamba/
@@ -61,20 +63,26 @@ sources:
     url: https://www.malawivoice.com/2026/08/12/cannabis-authority-board-member-ras-chikomeni-due-back-in-court/
     publisher: Malawi Voice
     date: 2026-08-12
+  - title: Cannabis regulator Ras Chikomeni arrested with nearly 20kg of chamba in embarrassing twist
+    url: https://www.nyasatimes.com/cannabis-regulator-ras-chikomeni-arrested-with-nearly-20kg-of-chamba-in-embarrassing-twist/
+    publisher: Nyasa Times
+    date: 2026-08-07
 ---
 
 David Chikomeni Chirwa, 49, a board member of Malawi's Cannabis Regulatory
 Authority, was arrested with Storm Kandodo, 45, at the Jenda police roadblock in
-Mzimba district on the night of 6 August 2026. [@1,2] The two were travelling from
+Mzimba district on the night of 6 August 2026. [@1,2,5] The two were travelling from
 Lilongwe to Mzuzu in a Toyota Sienta, registration BW 2336, when officers searched
-the vehicle and found 19.2 kg of cannabis sativa. [@3] Neither could produce a
+the vehicle and found 19.2 kg of cannabis sativa. [@3,5] Neither could produce a
 permit to possess or transport it. [@1] Police seized the cannabis. [@2]
 
 Jenda police spokesperson Sub-Inspector Gladwell Simwaka said the two would be
-charged with being found in possession of cannabis sativa without a permit. [@1]
+charged with being found in possession of cannabis sativa without a permit. [@1,5]
 Chirwa appeared in court on Friday 7 August and was granted bail, and he and
 Kandodo are due to appear again. [@4]
 
 Chirwa, a Rastafarian known as Ras Chikomeni, sought the presidency in 2020 but did
 not make the ballot, and was appointed to the cannabis board after the Democratic
 Progressive Party's victory in the 2025 election. [@2]
+
+Kandodo, 45, comes from Mpulula Village under Traditional Authority Nsamala in Balaka District. [@5]
