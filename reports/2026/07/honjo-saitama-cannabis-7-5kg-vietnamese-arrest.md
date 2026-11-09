@@ -112,6 +112,11 @@ sources:
     publisher: 産経ニュース（Infoseekニュース配信）
     date: 2026-11-09
     language: ja
+  - title: 覚醒剤や大麻など1億5000万円相当押収　郵便で全国に販売か　ベトナム国籍の１人逮捕
+    url: https://topics.smt.docomo.ne.jp/amp/article/abcnews/region/abcnews-63503
+    publisher: ABC NEWS 関西ニュース, via dメニューニュース (NTTドコモ)
+    date: 2026-11-09
+    language: ja
 open_questions:
   - The page gives the man's age as 31 in the lead and 32 in the third paragraph; both are reported.
   - No exact date is given for the arrest or for the July 2026 raid in Honjo; July 2026 is used as the incident date and 9 November 2026 is the date of publication.
@@ -161,7 +166,7 @@ ketamine, cocaine and MDMA valued together at about 150 million yen. [@1,4,6,8,1
 valued the whole haul at more than 290 million yen at street prices and
 displayed it to reporters. [@1,3,6] Police regard the arrested man as one member of
 the trafficking group and are investigating its operations. [@1,3,6] The man has
-said "I will keep silent" to investigators and has not answered questions. [@1,4,8]
+said "I will keep silent" to investigators and has not answered questions. [@1,4,8,16]
 A photograph published with the Kansai Television account is captioned "Seized
 drugs etc. (Kasai police station, Hyogo)", placing the display of the drugs to
 reporters at Kasai police station. [@2]
@@ -172,8 +177,8 @@ The man had already been indicted for offences including violating the Immigrati
 
 Police suspect he was a courier who passed drugs to dealers and customers on the group leader's orders, working in a group of seven or eight that moved between bases in Saitama, Gunma and other prefectures. [@10] He had been arrested in July 2026 for allegedly possessing cannabis plants at a house in Honjo. [@10] Police say about 100,000 yen was deposited into the man's bank account from a Vietnamese bank once a week. [@10] MBS reported that the ketamine and MDMA were mailed to a man in Amagasaki and handed over for about 120,000 yen. [@11]
 
-Hyogo prefectural police re-arrested one man on 9 November 2026 on suspicion of mailing narcotics including ketamine to a man in Amagasaki and transferring them to him. [@12,14]
+Hyogo prefectural police re-arrested one man on 9 November 2026 on suspicion of mailing narcotics including ketamine to a man in Amagasaki and transferring them to him. [@12,14,16]
 
-Police believe the group mailed drugs nationwide using the postal service, and are working to establish the full extent of the operation. [@13]
+Police believe the group mailed drugs nationwide using the postal service, and are working to establish the full extent of the operation. [@13,16]
 
 The investigators were the international investigation division of Hyogo prefectural police with Kasai police station and other units. [@15] Investigators treated the earlier robbery case as the start of the case: a man among four Vietnamese nationals arrested over an August 2025 robbery and assault in Kasai city showed a drug reaction, and following his supplier led police to the Honjo house. [@15]
