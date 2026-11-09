@@ -85,6 +85,10 @@ sources:
     url: https://www.militarytimes.com/news/your-military/2026/07/30/coast-guard-seizes-2380-pounds-of-marijuana-near-bahamas/
     publisher: Military Times
     date: 2026-07-30
+  - title: US Coast Guard, partners seize nearly $3m in marijuana in Caribbean
+    url: https://www.bairdmaritime.com/security/incidents/piracy/us-coast-guard-partners-seize-nearly-3m-in-marijuana-in-caribbean
+    publisher: Baird Maritime
+    date: 2026-07-28
 media:
   - kind: photo
     url: https://www.stripes.com/branches/coast_guard/2026-07-28/coast-guard-seizes-marijuana-bahamas-22389248.html
@@ -119,13 +123,13 @@ media:
     caption: 'Seized marijuana bales on the deck of Coast Guard Cutter Charles Sexton on 25 July 2026. Photo: U.S. Coast Guard'
 ---
 
-Three Bahamian men were charged with drug offences after the U.S. Coast Guard and the Royal Bahamas Defence Force seized 97 bales of cannabis from their vessel about 80 miles southwest of Great Inagua on 25 July 2026. [@1,2,4,6,7,8] The Coast Guard put the haul at about 2,380 pounds (1,080 kilograms); the Nassau Guardian reported a wholesale street value of $5.9 million. [@1,2,3,5,7,8]
+Three Bahamian men were charged with drug offences after the U.S. Coast Guard and the Royal Bahamas Defence Force seized 97 bales of cannabis from their vessel about 80 miles southwest of Great Inagua on 25 July 2026. [@1,2,4,6,7,8] The Coast Guard put the haul at about 2,380 pounds (1,080 kilograms); the Nassau Guardian reported a wholesale street value of $5.9 million. [@1,2,3,5,7,8,9]
 
 Dwight Newbold, 55, Corderro McBride, 35, and Kendall Thomas, 46, were arraigned before Senior Magistrate Raquel Whymms on charges of drug possession with intent to supply, drug importation, and conspiracy to possess and import the drug. [@1] Whymms denied them bail after a prosecutor objected, and a trial was set for December. [@1] They remained in custody unless the Supreme Court granted bail. [@1]
 
 ## The interception
 
-The Coast Guard said the crew of the cutter Charles Sexton boarded the suspected drug-smuggling vessel on behalf of the defence force. [@1,2,3,4,6] The three men aboard were handed to the Royal Bahamas Defence Force for prosecution, and the narcotics were held there. [@2,3,6,7] The Coast Guard estimated the marijuana's value at $2.8 million. [@2,3,6,7]
+The Coast Guard said the crew of the cutter Charles Sexton boarded the suspected drug-smuggling vessel on behalf of the defence force. [@1,2,3,4,6] The three men aboard were handed to the Royal Bahamas Defence Force for prosecution, and the narcotics were held there. [@2,3,6,7,9] The Coast Guard estimated the marijuana's value at $2.8 million. [@2,3,6,7]
 
 Lt. Peter Fager, commanding officer of the Charles Sexton, said the interception showed the strength of the partnership and the shared commitment to combating transnational organised crime in the region. [@2,3,6]
 
