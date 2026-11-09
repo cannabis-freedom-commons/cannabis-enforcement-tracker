@@ -63,6 +63,11 @@ sources:
     publisher: RegioNews
     date: 2026-11-06
     language: uk
+  - title: 'Наркоплантація на подвір’ї та перероблений пістолет вдома: у Дніпрі жінці загрожує відповідальність відразу за трьома статтями'
+    url: https://d1.ua/narkoplantatsiya-na-podvir-yi-ta-pereroblenyj-pistolet-vdoma-u-dnipri-zhintsi-zagrozhuye-vidpovidalnist-vidrazu-za-troma-stattyamy
+    publisher: Телеканал D1
+    date: 2026-11-09
+    language: uk
 open_questions:
   - The search is dated only as late September; the incident date shown is an estimate for that search, since no exact day was published.
   - No figure was published for the number of cannabis bushes or the weight of cannabis in the containers, so no quantity is recorded.
@@ -74,18 +79,20 @@ open_questions:
   - Left out agencies, as its quotation was not found in Головне управління Національної поліції в Дніпропетровській області.
   - Left out agency types, as its quotation was not found in Головне управління Національної поліції в Дніпропетровській області.
   - The submitted page carries a police handout photo of the seizure, which appears to be the same image already listed from the D1 report, so no additional media entry is added.
+  - This D1 article gives no incident date beyond the late-September search and no quantities, so it adds no figures to the existing report.
+  - The page photo is a police handout published without a caption; the caption given describes it as the D1 report’s picture of the seizure.
 ---
 
 On the grounds of her household police found and seized cannabis bushes, which
-an expert examination found to belong to plants of the genus Cannabis. [@1,4] A
-further search of the house turned up containers holding cannabis. [@1,4]
+an expert examination found to belong to plants of the genus Cannabis. [@1,4,5] A
+further search of the house turned up containers holding cannabis. [@1,4,5]
 
 Officers also seized a pistol from her home, which an examination confirmed was
-a gas pistol converted into a homemade firearm. [@1,4] Investigators notified the
+a gas pistol converted into a homemade firearm. [@1,4,5] Investigators notified the
 woman of suspicion under three articles: part 1 of article 310, illegal sowing
 or cultivation of cannabis in an amount of ten to fifty plants; part 1 of
 article 309, illegal storage of narcotics without intent to sell; and part 1 of
-article 263, illegal storage of a firearm without a permit. [@2,4]
+article 263, illegal storage of a firearm without a permit. [@2,4,5]
 
 Under article 62 of Ukraine's Constitution, she is presumed innocent until her
 guilt is proved in the lawful procedure and established by a court conviction.
