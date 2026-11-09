@@ -67,29 +67,37 @@ sources:
     publisher: Taktá No AR
     date: 2026-11-09
     language: pt
+  - title: PRF encontra 7,5 kg de haxixe escondidos em ônibus na Bahia
+    url: https://atarde.com.br/policia/prf-encontra-75-kg-de-haxixe-escondidos-em-onibus-na-bahia-1408923
+    publisher: A TARDE
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The weight is given as approximately 7.3 kilograms ("quase 7,3 quilos"), not an exact measured figure.
   - The 146,000 reais is the PRF's own valuation method estimate, not a sale price.
   - No court appearance, charges filed or outcome was reported beyond the formalisation of the arrest at the civil police station.
   - Neither source names the passenger or says how many people were on the bus.
   - The PRF page carries a second handout photo of the packages, but only a relative image address could be recovered for it, so it is not listed as media.
+  - A TARDE gives the hashish weight as about 7.5 kilograms ("Cerca de 7,5 Kg"), while the PRF's own statement and the other accounts give about 7.3 kilograms; the report keeps 7.3 kilograms.
 ---
 
 Federal highway police stopped an interstate passenger bus at their post on
 BR-116 in Vitória da Conquista, in south-west Bahia, shortly before midday on
-Sunday 8 November. [@1] The bus was running the Rio de Janeiro to Natal line,
-and the check began at about 11:40. [@2,3] Searching the luggage hold, officers
-noticed a strong smell of marijuana and traced it to a black backpack. [@1]
+Sunday 8 November. [@1,4] The bus was running the Rio de Janeiro to Natal line,
+and the check began at about 11:40. [@2,3,4] Searching the luggage hold, officers
+noticed a strong smell of marijuana and traced it to a black backpack. [@1,4]
 
 Inside were seven packages of hashish weighing almost 7.3 kilograms, which the
-police seized. [@2,3] The officers identified the passenger who owned the backpack
-and asked him to get off the bus to explain. [@2] He told them he had spent four
+police seized. [@2,3,4] The officers identified the passenger who owned the backpack
+and asked him to get off the bus to explain. [@2,4] He told them he had spent four
 days on holiday in Rio de Janeiro and said he had previous records for drug
-trafficking and for using counterfeit currency. [@1,3]
+trafficking and for using counterfeit currency. [@1,3,4]
 
 Using the highway police's own valuation method for seizures, the load was
 estimated at almost 146,000 reais, described as financial damage to criminal
 organisations. [@2,3] Because the police treated the case as drug trafficking, the
 passenger and the hashish were taken to the Integrated Public Security District
 of the Civil Police in Vitória da Conquista so that the arrest could be
-formalised. [@2]
+formalised. [@2,4]
+
+The hashish was to be sent for forensic examination. [@4]
