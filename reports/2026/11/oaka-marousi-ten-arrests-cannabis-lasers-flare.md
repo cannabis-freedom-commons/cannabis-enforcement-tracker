@@ -53,6 +53,11 @@ sources:
     publisher: Ηλεία Live (ilialive.gr)
     date: 2026-11-06
     language: el
+  - title: Δέκα συλλήψεις στο ΟΑΚΑ για κάνναβη, λέιζερ και καπνογόνο
+    url: https://www.syneidisi.com/%ce%b4%ce%ad%ce%ba%ce%b1-%cf%83%cf%85%ce%bb%ce%bb%ce%ae%cf%88%ce%b5%ce%b9%cf%82-%cf%83%cf%84%ce%bf-%ce%bf%ce%b1%ce%ba%ce%b1-%ce%b3%ce%b9%ce%b1-%ce%ba%ce%ac%ce%bd%ce%bd%ce%b1%ce%b2%ce%b7-%ce%bb%ce%ad/
+    publisher: ΣΥΝΕΙΔΗΣΗ (Syneidisi.com)
+    date: 2026-11-09
+    language: el
 open_questions:
   - The police statement on astynomia.gr could not be opened (the page returned an access error), so the account rests on news reports of the same announcement.
   - No weight was given for the cannabis, only that the quantities were small, so no kilogram figure is recorded.
@@ -61,12 +66,16 @@ open_questions:
   - No court outcome was reported; the case files had only been sent to the public prosecutor when the reports were published.
   - The submitted page's lead image is an AI-generated illustration, not a photograph of the checks, so no media entry is included.
   - The agency photograph published with the Dnews report shows a police scene and is not established to depict these arrests, so it is not linked.
+  - This outlet gives no weight for the cannabis and, unlike the earlier reports, does not say how many of the ten were held over cannabis.
+  - The lead image is a stock police-car picture captioned to Agios Dimitrios, not the OAKA checks, so it is not linked.
+  - No charges or court step are reported; the outlet says only that possible charges would be announced later.
+  - Left out arrested, as no supporting quotation was given.
 ---
 
 Police arrested ten people at the OAKA sports complex in Marousi during checks
-held for a football match on the night of Thursday 5 November 2026. [@1] Those
+held for a football match on the night of Thursday 5 November 2026. [@1,4] Those
 arrested were aged from 17 to 33, and the checks formed part of the measures for
-holding the match smoothly and preventing sports violence. [@1]
+holding the match smoothly and preventing sports violence. [@1,4]
 
 Checks carried out outside the stadium before kick-off found seven of those
 arrested carrying small quantities of cannabis. [@3] Seven of those arrested
@@ -80,4 +89,3 @@ Northeastern Attica and the OAKA police station opened cases for breaking, as
 applicable, the laws on drugs, on fireworks and flares, on weapons, and on
 violence at sports venues. [@1] The case files were sent to the competent public
 prosecutor. [@1]
-
