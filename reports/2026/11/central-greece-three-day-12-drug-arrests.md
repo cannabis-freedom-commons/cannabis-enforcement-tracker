@@ -62,6 +62,11 @@ sources:
     publisher: E-Sterea.gr
     date: 2026-11-09
     language: el
+  - title: 'Στερεά Ελλάδα: 12 συλλήψεις για ναρκωτικά μέσα σε τρεις ημέρες'
+    url: https://iparnassos.gr/2026/11/sterea-ellada-12-syllipseis-gia-narkotika-mesa-se-treis-imeres/
+    publisher: iparnassos
+    date: 2026-11-09
+    language: el
 open_questions:
   - No date is given for the three-day period; 9 November 2026 is the publication date and stands in for the incident date.
   - No weight or amount was published for the raw cannabis or the cocaine, so no cannabis weight is recorded.
@@ -71,12 +76,14 @@ open_questions:
   - The submitted page's lead image and the images in the other accounts are generic police pictures with no caption tying them to this roundup, so no media entry is included.
   - A separate April 2026 Central Greece police roundup also reported twelve drug arrests and the same county-level structure, so a later police statement may correct or repeat part of this account.
   - 12 συλλήψεις για ναρκωτικά και 28 παραβάσεις για μη χρήση κράνους στη Στερεά Ελλάδα (Asopichos.gr) could not be opened again to check its quotations (the browser could not load the submitted public page; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.
+  - The iparnassos.gr and LamiaNow.gr texts both reproduce the same Central Greece police statement as the outlets already cited, so they are not independent reporting of the arrests.
+  - The submitted page's two images are generic police photos with no caption tying them to this roundup, so no media entry is added.
 ---
 
 Greek police arrested twelve people over the last three days in the Central
 Greece region during systematic anti-drug checks. [@1] According to the Hellenic
 Police, nine of those arrested were Greek nationals and three were foreign
-nationals. [@1] The twelve arrests came in eleven separate cases. [@1]
+nationals. [@1,5] The twelve arrests came in eleven separate cases. [@1]
 
 Four of the arrests were in Boeotia, made by officers of the B1 OPKE of the
 Thebes crime investigation and detection department, the unit Hellenic Police
@@ -97,3 +104,4 @@ Police Directorate of Central Greece said the checks would continue, with
 emphasis on protecting the public and young people. [@1] Asopichos.gr reported
 that the cocaine and cannabis were seized in the eleven separate cases. [@3]
 
+The Fokida arrests were made by officers of the A OPKE of the Amfissa-Delphi crime unit, the Fokida mobile police unit and the B OEPTA of the Amfissa-Delphi traffic police. [@5] The twelve arrests came in eleven separate cases, and the LamiaNow.gr account says the Fokida pair were found by the mobile police unit working with the traffic police. [@2]
