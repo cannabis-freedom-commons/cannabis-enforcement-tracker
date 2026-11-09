@@ -57,6 +57,11 @@ sources:
     publisher: La Presse de Tunisie
     date: 2026-11-09
     language: fr
+  - title: 'Tunis : Un réseau de trafic de drogues démantelé'
+    url: https://www.mosaiquefm.net/fr/national-tunisie/1536188/tunis-un-reseau-de-trafic-de-drogues-demantele
+    publisher: Mosaique FM
+    date: 2026-11-09
+    language: fr
 open_questions:
   - No date is given for the operation; 9 November 2026 is the publication date and stands in for the incident date.
   - No weight, plant count or value was published for the cannabis; the cocaine weight is not included in the cannabis figure.
@@ -69,17 +74,25 @@ open_questions:
   - The article gives no separate date for the operation; 9 November 2026 is its publication date.
   - No weight or value was published for the cannabis (zatla), so no separate cannabis quantity can be added; the 100-gram figure is cocaine.
   - The page's only listed image uses a generic June 2025 upload filename with only the headline as caption and no credit, so it is omitted as not shown to depict this seizure.
+  - The French Mosaique FM page gives no weight, plant count or value for the cannabis (zatla) and no date for the operation beyond its own 9 November 2026 publication date.
+  - The French page's only image is captioned 'Garde nationale' with no credit and nothing confirming it shows this operation or seizure.
+media:
+  - kind: photo
+    url: https://www.mosaiquefm.net/fr/national-tunisie/1536188/tunis-un-reseau-de-trafic-de-drogues-demantele
+    media_url: https://content.mosaiquefm.net/uploads/content/large/1794214150.webp
+    publisher: Mosaique FM
+    caption: Photo published with the Mosaique FM report and captioned only 'Garde nationale' (National Guard).
 ---
 
 The National Guard's Research and Inspection Brigade in Tunis, working with the
 second central intelligence brigade after an intelligence and field
 investigation, dismantled a drug network suspected of ties to another group.
 [@1,3] Officers arrested three suspected members of the network, including a
-group-sports coach, and put a fourth person on a wanted list. [@1,2,3]
+group-sports coach, and put a fourth person on a wanted list. [@1,2,3,4]
 
 The operation seized about 100 grams of cocaine, an unspecified quantity of
 cannabis, known locally as zatla, about 100,000 dinars in cash and two cars
-suspected of being used to move the network's members. [@1,2,3]
+suspected of being used to move the network's members. [@1,2,3,4]
 
 After being informed, the public prosecutor authorised the legal measures
 required against the suspects. [@1,2,3]
