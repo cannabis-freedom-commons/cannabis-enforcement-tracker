@@ -48,6 +48,10 @@ sources:
     url: https://antiguanewsroom.com/almost-100-pounds-of-cannabis-seized-at-deep-water-harbour/
     publisher: Antigua News Room
     date: 2023-05-15
+  - title: Almost 100 Pounds of Cannabis Seized at Deep Water Harbour
+    url: https://antigua.news/2023/05/15/almost-100-pounds-of-cannabis-seized-at-deep-water-harbour
+    publisher: Antigua News
+    date: 2023-05-15
 open_questions:
   - The article names no arrests, suspects or charges, and no court outcome followed in these accounts.
   - No shipment origin, carrier, owner or addressee of the barrels was reported.
@@ -58,13 +62,12 @@ open_questions:
 ---
 
 Police and customs officers carried out a joint drug operation at Deep Water
-Harbour, Antigua's main seaport, on Monday 15 May. [@1] In the two barrels they
-found 97 sealed packages of cannabis. [@2]
+Harbour, Antigua's main seaport, on Monday 15 May. [@1,3] In the two barrels they
+found 97 sealed packages of cannabis. [@2,3]
 
 The cannabis weighed 97 pounds, close to 100 pounds, and was given an estimated
-value of $582,000. [@1]
+value of $582,000. [@1,3]
 
 The account gives no arrests and says further investigations into the matter are
-ongoing. [@1] Antigua News Room carried the same account on the same day, with
+ongoing. [@1,3] Antigua News Room carried the same account on the same day, with
 the same barrel count, weight and value. [@2]
-
