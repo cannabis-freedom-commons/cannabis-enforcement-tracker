@@ -50,24 +50,29 @@ sources:
     url: https://youthere1.weebly.com/home/over-136-million-worth-of-cannabis-seized-in-secluded-inlet-in-maracas
     publisher: Youthere1
     date: 2025-04-04
+  - title: Major marijuana bust in Trinidad
+    url: https://www.surinametimes.com/artikel/major-marijuana-bust-in-trinidad
+    publisher: Times of Suriname
+    date: 2025-04-06
 open_questions:
   - No arrests, named suspects, charges or court outcome were reported.
   - The reports give the operation date of 4 April 2025 but not the date the consignment was imported from South America.
   - The TT$136,404,546 figure is the police-estimated street value, not an independently confirmed sale price.
   - Both opened accounts reproduce the TTPS account; no independent or agency-original page beyond the police statement was opened.
   - 'Left out, as its quotation was not found in Youthere1: Acting Commissioner Junior Benjamin said the seizure showed the service''s commitment to protecting the nation from transnational criminal networks and to working with local, regional and international partners.'
+  - The Times of Suriname published the account on 6 April 2025, crediting the Jamaica Observer, and gives no further figures such as the weight of the cannabis or any arrests.
 ---
 
 A specialist unit of the Trinidad and Tobago Police Service joined the Trinidad
 and Tobago Coast Guard and Northern Division officers in an intelligence-led
 operation on Friday 4 April 2025 that seized over $136 million worth of cannabis
-along a secluded inlet on the Maracas coast. [@2] A specialist unit of the
+along a secluded inlet on the Maracas coast. [@2,3] A specialist unit of the
 Trinidad and Tobago Police Service joined the Trinidad and Tobago Coast Guard
 and Northern Division officers in an intelligence-led operation on Friday 4
 April 2025 that seized over $136 million worth of cannabis along a secluded
 inlet on the Maracas coast. [@1] The operation began that morning after a
 confidential source told the unit that a known drug-trafficking network had
-recently imported a substantial narcotics consignment from South America. [@2]
+recently imported a substantial narcotics consignment from South America. [@2,3]
 Police said the drugs were stashed in a remote, sea-accessible spot in the
 Maracas area pending transshipment to other regional territories. [@2]
 
@@ -84,3 +89,4 @@ Deputy Commissioner Suzette Martin called the result proof of the effectiveness
 of intelligence-led policing against organized crime and narcotics trafficking.
 [@2] Investigations were continuing. [@2]
 
+Acting Commissioner of Police Junior Benjamin said the seizure showed the service's commitment to protecting the nation from transnational criminal networks. [@3]
