@@ -67,25 +67,30 @@ sources:
     publisher: DATTA TV
     date: 2026-11-08
     language: pt
+  - title: Passageiro é preso com mais de 13 quilos de maconha durante fiscalização em ônibus
+    url: https://www.radiocluberza.com.br/noticia.aspx?t=passageiro-e-preso-com-mais-de-13-quilos-de-maconha-durante-fiscalizacao-em-onibus
+    publisher: Rádio Clube de Realeza
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The bus's route, origin and destination were not reported, and the arrest location within Ampére was not specified, so the smuggling direction is unknown.
   - Only one source, DATTA TV, says the approach was made in the morning.
   - The man's name was not released, and no charge filing, custody decision or court outcome was reported.
   - The R$ 26,000 figure is the BPFRON's own estimate of the trafficking loss and is not a market valuation supported by other evidence.
   - All three opened accounts reproduce the same BPFRON statement, so they are not independent reporting of the arrest.
+  - Rádio Clube is another reprint of the same BPFRON statement credited to PP News, so it is not independent reporting of the arrest.
 ---
 
 Military police from the Paraná Border Police Battalion arrested a 24-year-old
-man on an interstate bus in Ampére, in the Sudoeste region of Paraná. [@1] The
+man on an interstate bus in Ampére, in the Sudoeste region of Paraná. [@1,4] The
 stop took place on Saturday 7 November 2026 during the Operação Protetor de
 Fronteiras, a border protection operation. [@2] It happened in the morning,
 according to DATTA TV. [@3]
 
 Officers searching the vehicle found 19 tablets of pressed marijuana in the
-passenger's luggage, weighing 13.3 kilograms in total. [@1] The man was arrested
+passenger's luggage, weighing 13.3 kilograms in total. [@1,4] The man was arrested
 in the act for drug trafficking and taken with the drug to the Civil Police
-station in Santo Antônio do Sudoeste. [@1]
+station in Santo Antônio do Sudoeste. [@1,4]
 
 The BPFRON estimated the seizure caused R$ 26,000 in losses to drug trafficking.
-[@1]
-
+[@1,4]
