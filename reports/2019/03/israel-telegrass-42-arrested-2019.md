@@ -45,6 +45,11 @@ sources:
     url: https://www.ynetnews.com/articles/0,7340,L-5477470,00.html
     publisher: Ynetnews
     date: 2019-03-12
+  - title: Israeli police bust mass marijuana trafficking ring, sending Telegrass up in smoke
+    url: https://www.i24news.tv/en/news/israel/196914-190312-israeli-police-bust-mass-marijuana-ring-sending-telegrass-up-in-smoke
+    publisher: i24NEWS
+    date: 2019-03-12
+    language: en
 open_questions:
   - Police gave no overall weight of cannabis seized, no plant count and no number of homes and offices beyond "dozens", so only the arrest count is recorded in figures.
   - The CTech article describes the investigation as months long while a July 2019 CTech account describes it as a two-year operation; the report uses the March 2019 wording.
@@ -53,12 +58,16 @@ open_questions:
   - The CTech page's only image is a generic Telegram illustration credited to Russia Beyond, not a picture of the arrests or seizures, so no media entry is added.
   - The submitted article counts the network's users as tens of thousands, while Reuters reported over 100,000 members in Israel; the report attributes the larger figure to Reuters.
   - The article notes that Prime Minister Benjamin Netanyahu said the day before that he was considering legalising recreational cannabis; that is separate political context, not part of this enforcement event.
+  - i24NEWS gives the network 200,000 to 250,000 users, while the earlier report cites Reuters' figure of more than 100,000 members in Israel.
+  - The article says Silver founded Telegrass in March 2017 and gives no date beyond "early Tuesday" for his arrest in Ukraine.
+  - The report's existing figure of 42 arrested and the four-country sweep match this account, so no figure change is proposed.
+  - The only image on the i24NEWS page is a 2012 file photo of a security guard at a medical cannabis farm, not this operation, so no media entry is added.
 ---
 
 Israel Police said it arrested 42 people suspected of holding top management
 positions in the Telegrass cannabis distribution network, which operated on the
-encrypted messaging app Telegram. [@1] The 42 arrests were carried out in
-Israel, the United States, Ukraine and Germany, police said. [@1] The head of
+encrypted messaging app Telegram. [@1,3] The 42 arrests were carried out in
+Israel, the United States, Ukraine and Germany, police said. [@1,3] The head of
 the network was among those detained and was arrested during a visit to Ukraine,
 Reuters reported. [@2] Police said the suspects included the network's head,
 three deputies and other administrators. [@2]
@@ -85,3 +94,4 @@ sought to extend the suspects' detention at the Nazareth and Rishon Lezion
 Magistrates' Courts, and lawyers for the suspects said their clients denied
 involvement. [@2]
 
+Police designated the ring "Crime Organization 420" and published its organizational chart. [@3] The network's founder, Amos Dov Silver, a dual Israeli-US citizen who had been living abroad, was arrested in Ukraine. [@3] Israeli Chief Superintendent Avi Maiberg, who runs the police cyber-crime unit leading the investigation, said officers saw the number of dealers jump from hundreds to thousands. [@3] Maiberg said the suspects dealt not only in marijuana but also ecstasy, LSD, cocaine and other dangerous substances. [@3]
