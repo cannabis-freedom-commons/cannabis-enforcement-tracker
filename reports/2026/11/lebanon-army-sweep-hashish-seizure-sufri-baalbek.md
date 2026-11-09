@@ -59,6 +59,16 @@ sources:
     publisher: هنا لبنان
     date: 2026-11-08
     language: ar
+  - title: الجيش ينفّذ تدابير أمنية في عدد من المناطق في البقاع والشمال وجبل لبنان ويوقف 3 مواطنين و25 سوريًّا ويضبط أسلحة وذخائر حربية
+    url: https://www.elnashra.com/news/show/1808286/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D9%86%D9%81%D9%91%D8%B0-%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%B9%D8%AF%D8%AF-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D8%A8%D9%82%D8%A7%D8%B9-%D9%88%D8%A7%D9%84%D8%B4%D9%85%D8%A7
+    publisher: Elnashra News
+    date: 2026-11-08
+    language: ar
+  - title: الجيش ينفّذ تدابير أمنية في عدد من المناطق في البقاع والشمال وجبل لبنان ويوقف 3 مواطنين و25 سوريًّا ويضبط أسلحة وذخائر حربية
+    url: https://www.lebarmy.gov.lb/ar/content/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%8A%D9%86%D9%81%D9%91%D8%B0-%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D9%82%D8%A7%D8%B9-%D9%88%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D9%88%D8%AC%D8%A8%D9%84-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D9%8A%D9%88%D9%82%D9%81-3-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%8825
+    publisher: Lebanese Army (lebarmy.gov.lb)
+    date: 2026-11-08
+    language: ar
 open_questions:
   - No weight or measured quantity was given for the hashish seized at the al-Sufri checkpoint.
   - No separate date was given for the raids and checkpoints; 8 November 2026 is the publication date of the reports and of the army statement and is used as the incident date.
@@ -70,21 +80,25 @@ open_questions:
   - This Arabic account renders the hashish detainee's initials as (م.ق.), while the existing report's French source gives M.K.; only initials were published.
   - No weight or measured quantity was given for the hashish seized at the al-Sufri checkpoint in this account.
   - No separate date was given for the raids and checkpoints; 8 November 2026 is the publication date and is used as the incident date.
+  - No weight or measured quantity for the seized hashish was published in this account.
+  - No separate date is given for the checkpoints; 8 November 2026 is the date of the army statement and of publication.
+  - Only the detainee's initials (م.ق.) were published, and this account gives no charge, plea or court outcome beyond questioning under the competent judicial authority.
+  - The submitted page carries a headline image characteristic of Elnashra's standard article headers and a photo attached to an unrelated opinion piece, neither confirmed to show this event, so no media entry is added.
 ---
 
 Lebanese army units detained 28 people in raids and temporary checkpoints
-carried out across several Lebanese regions. [@1,3,4,5] The army said the sweep was
-aimed at pursuing troublemakers and combating human smuggling. [@1,3,4]
+carried out across several Lebanese regions. [@1,3,4,5,6] The army said the sweep was
+aimed at pursuing troublemakers and combating human smuggling. [@1,3,4,7]
 
 The measures included raids after armed incidents in Laylaki–Baabda, Fnaydeq and
 Akkar al-Atiqa and checks at checkpoints including Ras Baalbek and Deir Ammar.
 [@1] At the al-Sufri checkpoint in Baalbek, soldiers arrested a citizen
 identified only as M.K. for shooting and seized a quantity of hashish found in
-his possession. [@1,3,4,5] The Arabic army statement calls the seized drug hashish du
+his possession. [@1,3,4,5,7] The Arabic army statement calls the seized drug hashish du
 kif, meaning cannabis resin. [@2]
 
 The same sweep also produced the arrest of a Syrian wanted over an earlier car
 bombing in Ain al-Hilweh camp. [@1,5] The army said the seized items were handed
 over and questioning of the detainees began under the supervision of the
-competent judicial authority. [@1,3,5] The army said efforts were continuing to
+competent judicial authority. [@1,3,5,7] The army said efforts were continuing to
 arrest others involved in the shooting incidents. [@1]
