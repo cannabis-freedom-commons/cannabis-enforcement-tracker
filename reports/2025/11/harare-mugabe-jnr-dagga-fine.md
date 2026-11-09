@@ -84,11 +84,16 @@ sources:
     url: https://www.news24.com/world/africa/robert-mugabe-junior-granted-bail-after-being-found-with-dagga-in-car-20251003-0948
     publisher: News24
     date: 2025-10-03
+  - title: Mugabe’s son Robert Jnr arrested, charged with drug possession
+    url: https://www.theeastafrican.co.ke/tea/news/southern-africa/mugabe-son-robert-jnr-arrested-charged-with-drug-possession-5215864
+    publisher: The EastAfrican
+    date: 2025-10-03
 open_questions:
   - 'Accounts differ on the weight of cannabis: the police charge sheet cited 2 g and the lawyer said 0.02 g; the figures use the police weight of 2 g.'
   - The Club of Mozambique and BBC accounts give no separate date for the October arrest beyond 'Wednesday'; it is given as 1 October 2025 in the text only as the Wednesday before the 2 October appearance.
   - No outcome is reported for the five alleged syndicate members arrested with Mugabe, or for the ecstasy pills found with them.
   - News24's article body could not be read past its subscriber prompt; only its opening paragraph and summary text were usable, so the bail conditions it mentions are not recorded.
+  - The EastAfrican gives no weight for the drugs found and no details of the charges, and says only that the arrest came the day before the Thursday appearance.
 ---
 
 Robert Mugabe Jnr, 33, pleaded guilty to unlawful possession of drugs at the
@@ -107,7 +112,7 @@ the southern African name for cannabis. [@1]
 Mugabe was arrested in October and later released on $300 bail, and a warrant
 issued after he missed a routine remand date was cancelled before the trial.
 [@3] He had first appeared in court on 2 October and was remanded in custody
-pending a bail ruling. [@5,6] He was released on Friday after paying bail of $300.
+pending a bail ruling. [@5,6,8] He was released on Friday after paying bail of $300.
 [@4] At that first appearance police said five people in a "syndicate linked to
 him" had also been arrested and that they found 25 sachets of marijuana and six
 ecstasy pills. [@4,6]
@@ -120,3 +125,5 @@ attention because Mugabe is the son of Zimbabwe's late president Robert Mugabe.
 [@4]
 
 Robert Mugabe Junior, 33, was arrested on Wednesday, 1 October 2025, after he was stopped and searched by officers who spotted him driving into oncoming traffic. [@7]
+
+One of former Zimbabwean President Robert Mugabe's sons has been detained on drug possession charges, with the police saying he is part of a syndicate of illegal substance peddlers. [@8]
