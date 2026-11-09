@@ -52,6 +52,11 @@ sources:
     publisher: المصدر تونس
     date: 2026-11-09
     language: ar
+  - title: '100 mille dinars, cocaïne, cannabis, voitures saisies : un entraîneur sportif et deux complices interpellés à Tunis'
+    url: https://www.lapresse.tn/2026/11/09/100-mille-dinars-cocaine-cannabis-voitures-saisies-un-entraineur-sportif-et-deux-complices-interpelles-a-tunis/
+    publisher: La Presse de Tunisie
+    date: 2026-11-09
+    language: fr
 open_questions:
   - No date is given for the operation; 9 November 2026 is the publication date and stands in for the incident date.
   - No weight, plant count or value was published for the cannabis; the cocaine weight is not included in the cannabis figure.
@@ -61,17 +66,20 @@ open_questions:
   - Only one accessible account was found; searches in Arabic and English surfaced no second outlet or National Guard statement.
   - The page's only image is captioned with a truncated headline and no credit, with nothing confirming it shows this operation or seizure, so no media entry is included.
   - This page describes the network as linked to a group of supporters of an unnamed sports club, while the existing report describes it as suspected of ties to another group; the difference is attributed to different versions of the same account.
+  - The article gives no separate date for the operation; 9 November 2026 is its publication date.
+  - No weight or value was published for the cannabis (zatla), so no separate cannabis quantity can be added; the 100-gram figure is cocaine.
+  - The page's only listed image uses a generic June 2025 upload filename with only the headline as caption and no credit, so it is omitted as not shown to depict this seizure.
 ---
 
 The National Guard's Research and Inspection Brigade in Tunis, working with the
 second central intelligence brigade after an intelligence and field
 investigation, dismantled a drug network suspected of ties to another group.
-[@1] Officers arrested three suspected members of the network, including a
-group-sports coach, and put a fourth person on a wanted list. [@1,2]
+[@1,3] Officers arrested three suspected members of the network, including a
+group-sports coach, and put a fourth person on a wanted list. [@1,2,3]
 
 The operation seized about 100 grams of cocaine, an unspecified quantity of
 cannabis, known locally as zatla, about 100,000 dinars in cash and two cars
-suspected of being used to move the network's members. [@1,2]
+suspected of being used to move the network's members. [@1,2,3]
 
 After being informed, the public prosecutor authorised the legal measures
-required against the suspects. [@1,2]
+required against the suspects. [@1,2,3]
