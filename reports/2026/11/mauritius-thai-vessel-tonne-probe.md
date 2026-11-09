@@ -2,7 +2,7 @@
 added_at_source: git
 added_at: "2026-10-29T02:33:10.000Z"
 code: HM4N3A
-date: 2026-11-01
+date: 2026-11-09
 country: mu
 place: Off Baie-du-Tombeau
 coordinates: [-20.119, 57.499]
@@ -20,25 +20,26 @@ figures:
         currency: MUR
 created_by_model: unknown
 details:
-  activity: [smuggling, trafficking]
-  agencies: [int-interpol]
-  agency_types: [police]
-  case_stage: charged
-  date_precision: exact
-  products: [{product: hashish, kg: 1500}]
-  setting: [port]
-  route: {from: [th], to: [mu]}
+    activity: [trafficking, smuggling]
+    agencies: [Anti-Drug and Smuggling Unit (ADSU), National Coast Guard (NCG)]
+    agency_types: [anti-narcotics, police]
+    case_stage: charged
+    date_precision: exact
+    products: [{product: hashish, kg: 1500}]
+    setting: [port]
+    route: {from: [th], to: [mu]}
 data_sources:
-  details.activity: [1, 10, 11, 2, 4, 5]
-  details.agencies: [9]
-  details.agency_types: [9]
-  details.case_stage: [4, 3, 2, 5]
-  details.date_precision: [7, 9, 10, 8]
-  details.products: [1, 2, 5, 6, 7, 9]
-  details.route: [1, 7, 9]
-  details.setting: [1, 2, 3, 7, 10, 11, 12]
-  figures.charged: [3, 2, 4, 5]
-  figures.kg_seized: [1, 2, 7, 9]
+    details.activity: [16]
+    details.agencies: [16]
+    details.agency_types: [16]
+    details.case_stage: [16]
+    details.date_precision: [7, 9, 10, 8]
+    details.products: [1, 2, 5, 6, 7, 9]
+    details.route: [16]
+    details.setting: [16]
+    figures.charged: [3, 2, 4, 5]
+    figures.kg_seized: [16]
+    figures.arrested: [16]
 status: reported
 tags: [maritime, thailand-route, coast-guard]
 sources:
@@ -117,6 +118,11 @@ sources:
     publisher: Le Dimanche / L'Hebdo (Defimedia)
     date: 2026-11-08
     language: fr
+  - title: 'Trafic de cannabis à bord du Dreamer : le dénommé Nishal D. considéré comme la clé du réseau'
+    url: https://defimedia.info/trafic-de-cannabis-bord-du-dreamer-le-denomme-nishal-d-considere-comme-la-cle-du-reseau
+    publisher: Defimedia
+    date: 2026-11-09
+    language: fr
 media:
   - kind: photo
     url: https://defimedia.info/importation-de-15-tonne-de-cannabis-le-constable-rungilal-de-la-ncg-soupconne-detre-de-meche-avec
@@ -177,6 +183,8 @@ open_questions:
   - Investigators were examining possible cryptocurrency payments on platforms such as Binance and use of the informal hawala transfer system, but the article says they had yet to establish whether hawala was used in this case.
   - The account names Brian Foo Kin Lew Tin Wah, Terminal Officer at Cargo Handling Corporation Ltd, whose homes in Cité Roche-Bois and Calodyne were searched, and a National Coast Guard officer it spells both Bagboot and Pydegadu, but does not give the officers' surnames consistently or their charges.
   - The article gives no weight for the cannabis said to have been delivered and states no new arrest or charge in this step.
+  - The article describes the suspected role of Nishal D. and the three men near île Ronde as under investigation, not as charges.
+  - The article does not state what offence the two coast guard officers are charged with.
 ---
 
 The Anti Drug and Smuggling Unit, with the National Coast Guard's Maritime
@@ -208,14 +216,16 @@ The captain's phone contained images and videos of cannabis cargo, and investiga
 
 L'Express reported that investigators were checking information that a Mauritian who grew up in England and returned to the island in 2021 had built a cannabis and hashish traffic, first through couriers by air. [@6] The newspaper said his move to Thailand in 2023 was a central element of the lead, and that information being checked pointed to three yacht arrivals in Mauritius in 2026 carrying cannabis, cocaine and hashish, each of several hundred kilos. [@6]
 
-The weekend arrest brought the number of people detained in the Dreamer investigation to 18. [@7,9,10,15] Bryan Fu Kin Lew Tin Wah, a port-zone employee, was arrested on Saturday as the 18th suspect on suspicion of driving three men in the early hours of 20 October. [@7] He was presented before the justice on Sunday 1 November on a provisional conspiracy charge and returned to police detention. [@8] Investigators describe a Mauritian holding British nationality, identified only as Nishal, as the suspected brain and sponsor of the Thailand-Mauritius cannabis network. [@7,9] Nishal is subject to an Arrest on Arrival order issued by the Passport and Immigration Office at Plaisance airport. [@7] The roughly 1.5 tonnes of Thai cannabis said to have been brought on the Dreamer had still not been found. [@7,9]
+The weekend arrest brought the number of people detained in the Dreamer investigation to 18. [@7,9,10,15,16] Bryan Fu Kin Lew Tin Wah, a port-zone employee, was arrested on Saturday as the 18th suspect on suspicion of driving three men in the early hours of 20 October. [@7] He was presented before the justice on Sunday 1 November on a provisional conspiracy charge and returned to police detention. [@8,16] Investigators describe a Mauritian holding British nationality, identified only as Nishal, as the suspected brain and sponsor of the Thailand-Mauritius cannabis network. [@7,9] Nishal is subject to an Arrest on Arrival order issued by the Passport and Immigration Office at Plaisance airport. [@7] The roughly 1.5 tonnes of Thai cannabis said to have been brought on the Dreamer had still not been found. [@7,9,16]
 
 Mauritian authorities could ask Interpol and their British and Thai counterparts through the Central Barracks and the Attorney General's office to trace Nishal. [@9] Nishal had been arrested by ADSU in 2012 after a seizure of 20.48 grams of cannabis and later settled in Great Britain. [@9] Established abroad, Nishal is said to lead a particularly luxurious lifestyle in Thailand, where he also runs a nightclub. [@9]
 
 On 3 November the Supreme Court granted the Financial Crimes Commission a civil attachment order seizing the Thai yacht Dreamer and the foreign currency found aboard, with the vessel to stay immobilised at Port-Louis until further order. [@10] The 38,000 euros and 900 US dollars will go to the FCC seizure accounts at SBM Bank (Mauritius) Ltd, while the 28,330 Thai baht and 1,865 Singapore dollars will be kept in a safe at the same bank. [@10] The Dreamer will stay under the custody of the Commissioner of Police, be maintained in good condition in port and may not leave Port-Louis without fresh judicial authorisation. [@10] The order followed an ex parte application filed by the FCC on 30 October under the Financial Crimes Commission Act 2023 for a Civil Attachment Order over the yacht and funds found during a joint Anti-Drug and Smuggling Unit and Maritime Intelligence Cell search on 21 October. [@10] The Supreme Court on 3 November 2026 ordered civil seizure of the Thai-flagged yacht DREAMER and money found aboard during the 21 October police operation. [@11] Officers found 38,000 euros, 900 US dollars, 28,330 Thai baht and 1,865 Singapore dollars aboard the yacht. [@11] The yacht, now moored at Port-Louis Harbour, will stay under the Commissioner of Police, with euro and dollar sums deposited in FCC civil and criminal seizure accounts and other currencies kept in a safe at the same bank. [@11]
 
-A two-engine speedboat was seized and moored under National Coast Guard surveillance in the north of Mauritius. [@12] According to the boat's owner, it had been under the responsibility of Roche-Bois resident Jeremie Kurth Lindley Louis for about three years. [@12] Investigators suspected Jeremie Kurth Lindley Louis, Kailash Seebaluck and Jean Personne Sando Vletino Thomas of joining the Dreamer off Fosse aux Requins near Round Island in the early hours of 20 October. [@12] The three men were suspected of participating in the transfer of the missing cargo from the Thai yacht. [@12] MBC reported that police said the Dreamer's captain first cited an engine problem, then said he had delivered several sports bags containing cannabis to unknown people on 20 October. [@13]
+A two-engine speedboat was seized and moored under National Coast Guard surveillance in the north of Mauritius. [@12] According to the boat's owner, it had been under the responsibility of Roche-Bois resident Jeremie Kurth Lindley Louis for about three years. [@12] Investigators suspected Jeremie Kurth Lindley Louis, Kailash Seebaluck and Jean Personne Sando Vletino Thomas of joining the Dreamer off Fosse aux Requins near Round Island in the early hours of 20 October. [@12,16] The three men were suspected of participating in the transfer of the missing cargo from the Thai yacht. [@12] MBC reported that police said the Dreamer's captain first cited an engine problem, then said he had delivered several sports bags containing cannabis to unknown people on 20 October. [@13]
 
 In Mauritius, one suspected trafficker at the centre of the inquiry was first held at Beau-Bassin prison and was then transferred to the prison at Melrose. [@14]
 
 Nineteen suspects had been arrested in the Dreamer investigation, including seven crew members, two Thais who arrived by air and two National Coast Guard officers. [@15]
+
+Investigators suspect Nishal, a Mauritian who also holds British nationality, orchestrated the shipment of the cannabis cargo from Thailand and used intermediaries for his transactions in a strategy of triangular communication. [@16] In the east, Roy Dan Dussoye and Marie Kate Stéphanie Hermance were arrested after 792 grams of cannabis, valued at Rs 1.4 million, were seized in a villa at Trou-d'Eau-Douce. [@16] Constable Kevin Rangilal, 27, assigned to the coast guard Operations Room, and Bhavish Dhruv Bhunjun, 29, are suspected of passing confidential information to the Dreamer's captain. [@16]
