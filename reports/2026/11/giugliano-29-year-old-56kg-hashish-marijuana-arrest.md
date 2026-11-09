@@ -50,6 +50,11 @@ media:
     media_url: https://dimages2.corriereobjects.it/uploads/2026/11/09/6af17cbb9a631.jpeg
     publisher: Corriere della Sera
     caption: Photo published with the Corriere della Sera report on the Giugliano search, carrying no caption or credit beyond the story headline.
+  - kind: photo
+    url: https://www.rainews.it/tgr/campania/articoli/2026/11/giugliano-in-campania-hashish-frozen-svapo-illegali-e-unauto-clonata-arrestato-29enne-8fd951f2-a613-443c-ae3e-bc5c5bb1f5ab.html
+    media_url: https://www.rainews.it/cropgd/1440x813/dl/img/2026/11/9/1794206744374_carabinieiri_napoli.jpg
+    publisher: RaiNews
+    caption: 'Photo published with the RaiNews TGR Campania report on the Giugliano search, captioned only with the story headline. Photo: RaiNews'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 69243a0194e58c340f059c3e972b3e2b
@@ -79,6 +84,11 @@ sources:
     publisher: Corriere della Sera
     date: 2026-11-09
     language: it
+  - title: 'Giugliano in Campania: hashish frozen, svapo illegali e un’auto clonata. Arrestato 29enne'
+    url: https://www.rainews.it/tgr/campania/articoli/2026/11/giugliano-in-campania-hashish-frozen-svapo-illegali-e-unauto-clonata-arrestato-29enne-8fd951f2-a613-443c-ae3e-bc5c5bb1f5ab.html
+    publisher: RaiNews
+    date: 2026-11-09
+    language: it
 open_questions:
   - Only one source for the event could be opened; the submitted page is an automatically translated English version of an Il Mattino article.
   - The article gives no date or time for the search; 9 November 2026 is its publication date and is used as the incident date.
@@ -96,13 +106,16 @@ open_questions:
   - The Spanish page is an automatically translated Il Mattino article, as its own closing note says, so it repeats the outlet's account rather than providing independent reporting.
   - The page's single photo carries only the Italian story headline as its caption, with no credit naming who took it or confirming exactly which items it shows.
   - Corriere della Sera and Il Mattino describe the same Carabinieri account, so the Corriere article is not independent reporting of the raid.
+  - RaiNews, like the other accounts, gives no separate date for the search; 9 November 2026 is its publication date.
+  - RaiNews repeats the Carabinieri account, so it is not independent reporting of the raid.
+  - RaiNews gives no separate weight for the marijuana vapes and no value estimate for the drugs.
 ---
 
 Officers of the operational unit of the Carabinieri company in Giugliano in
 Campania raided the home of a 29-year-old man, already known to law enforcement.
-[@1,3,4] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
-of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5] In
-the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5]
+[@1,3,4,6] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
+of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5,6] In
+the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5,6]
 
 The haul included marijuana vapes that had arrived from California, where the
 account says they are legal, in colourful packaging featuring characters from
@@ -111,7 +124,7 @@ switchblade and several vacuum-packing machines. [@1,4,5] In the garage police f
 a Range Rover Sport worth 150,000 euros whose plates and chassis number had been
 cloned from another vehicle, and seized it for investigation. [@1,5]
 
-The 29-year-old was arrested and taken to prison. [@1,2,3,4,5] He is charged with
+The 29-year-old was arrested and taken to prison. [@1,2,3,4,5,6] He is charged with
 illegal possession of narcotics, unlawful possession of weapons and receiving
 stolen goods. [@1,4,5]
 
