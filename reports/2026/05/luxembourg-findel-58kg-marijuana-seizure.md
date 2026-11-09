@@ -56,6 +56,11 @@ sources:
     url: https://www.luxtimes.lu/luxembourg/customs-seize-58kg-of-marijuana-at-luxembourg-airport-cargo-centre/153509265.html
     publisher: Luxembourg Times
     date: 2026-05-27
+  - title: 'Cargaison suspecte au Cargo Center : Des kilos de marijuana découverts dans des banquettes'
+    url: https://infos.rtl.lu/news/luxembourg/des-kilos-de-marijuana-decouverts-dans-des-banquettes-2015443163
+    publisher: RTL Infos
+    date: 2026-05-27
+    language: fr
 open_questions:
   - The article gives no separate date for the seizure itself; 27 May 2026 is the disclosure and publication date used as the incident date.
   - No arrest, suspect, charge, value or court outcome was reported.
@@ -70,13 +75,13 @@ Customs officers at Luxembourg Airport's Findel Cargo Center intercepted a
 shipment of marijuana. [@1,2,3] The Luxembourg prosecutor disclosed the seizure on
 Wednesday 27 May, saying the Cargo Center had been the scene of a new drug
 seizure. [@1] Officers had flagged a suspicious cargo arriving from Singapore
-and bound for onward transport to Milan. [@1,2,3]
+and bound for onward transport to Milan. [@1,2,3,4]
 
 Officers carried out an in-depth check of the transported vehicles and inspected
 several rear benches. [@1,2] The inspected rear benches weighed 235 kg in total.
-[@1,2] Technical analyses and the opening of the checked parts revealed narcotics
-carefully hidden inside the benches. [@1,2,3] The total seizure amounted to 58 kg of
-marijuana. [@1,2,3]
+[@1,2,4] Technical analyses and the opening of the checked parts revealed narcotics
+carefully hidden inside the benches. [@1,2,3,4] The total seizure amounted to 58 kg of
+marijuana. [@1,2,3,4]
 
 The prosecutor said the criminal networks involved use increasingly
 sophisticated concealment to evade checks and feed particularly lucrative
