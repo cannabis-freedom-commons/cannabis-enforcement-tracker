@@ -53,6 +53,11 @@ sources:
     publisher: KPP w Wołominie
     date: 2026-11-09
     language: pl
+  - title: 'Wołomin: 39-latek usłyszał zarzuty. W jego domu znaleziono narkotyki'
+    url: https://informacje.wp.pl/wiadomosci/39-latek-uslyszal-zarzuty-w-jego-domu-znaleziono-narkotyki-7349074608880064a
+    publisher: WP Info (WP Kreator, partner text by TuStolica.pl)
+    date: 2026-11-09
+    language: pl
 open_questions:
   - The marijuana weight is given only as more than 3 grams, and the police describe it as an initial finding with no laboratory confirmation reported.
   - The man is identified only as a 39-year-old resident of Stare Lipiny.
@@ -61,17 +66,20 @@ open_questions:
   - Only the district police's own statement was found; no independent outlet reporting the search was located.
   - The photo published with the police statement carries no caption, so it cannot be confirmed to show this seizure.
   - The article does not say whether the man was held in detention or released after being charged.
+  - The WP Info page is a partner republication of a TuStolica.pl text drawing on the same Wołomin police statement, so it is not independent reporting on the search.
+  - The page refers to the man as previously recorded for various criminal cases but gives no details of the convictions.
 ---
 
 Detectives from the Wołomin County Police Headquarters searched a home in Stare
-Lipiny on 2 November 2026 and detained a 39-year-old man found there. [@1]
+Lipiny on 2 November 2026 and detained a 39-year-old man found there. [@1,2]
 Officers found a light-coloured crystallised substance and a bag of dried plant
 material during the search. [@1] Initial findings identified the substances as
-more than 29 grams of mephedrone and more than 3 grams of marijuana. [@1] Police
+more than 29 grams of mephedrone and more than 3 grams of marijuana. [@1,2] Police
 also seized cash and mobile phones that may be evidence in the case. [@1]
 
 The man was charged with possession of psychotropic substances and narcotic
-drugs under article 62 of the Act on Counteracting Drug Addiction. [@1] Police
+drugs under article 62 of the Act on Counteracting Drug Addiction. [@1,2] Police
 said the offence carries a prison term of up to three years. [@1] The court will
 decide on the sentence. [@1]
 
+The man was previously recorded as having a criminal record in connection with various criminal cases. [@2]
