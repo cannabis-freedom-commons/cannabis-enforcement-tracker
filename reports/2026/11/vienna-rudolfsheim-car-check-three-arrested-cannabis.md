@@ -60,11 +60,14 @@ open_questions:
   - The 165 grams of cocaine is outside the tracker's cannabis scope and is not counted as a cannabis figure.
   - The Nachrichten.jetzt account credits the Vienna police statement and is a reprint of the same release rather than independent reporting.
   - The submitted 5 Minuten page carries only a stock photograph labelled Symbolfoto, and the Nachrichten.jetzt page uses an AI-generated illustration, so no image of the event is listed.
+  - The cash amount of 130 euros, given only by austria.com and not by the Vienna police release, was not added to the existing report.
+  - The cannabis weight and form remain unstated.
+  - No charges, remand decision or court outcome were reported.
 ---
 
 Vienna police stopped a car with Romanian plates in the Sechshauser Straße in
 the 15th district at about 20:30 on 8 November 2026 during a routine patrol.
-[@3] Officers from the Albert-Schweitzer-Gasse police station noticed a strong
+[@2,3] Officers from the Albert-Schweitzer-Gasse police station noticed a strong
 cannabis smell from inside the car and found two of its three occupants
 conspicuously nervous and without identity documents. [@2]
 
@@ -77,9 +80,8 @@ denominations typical of the drug scene and a precision scale in a bag. [@2]
 Because none of the three occupants would take responsibility for the cocaine,
 all three were arrested on suspicion of drug trafficking (Suchtgifthandel). [@2]
 The three suspects were the 21-year-old Romanian driver, a 34-year-old Algerian
-man and a 31-year-old Romanian woman. [@3] The driver appeared to be under the
+man and a 31-year-old Romanian woman. [@2,3] The driver appeared to be under the
 influence of drugs, refused a medical examination and had his driving licence
-taken away on the spot. [@1] The three suspects were taken to police custody and
+taken away on the spot. [@1,2] The three suspects were taken to police custody and
 the Vienna criminal investigation office's West branch took over further
-inquiries. [@1]
-
+inquiries. [@1,2]
