@@ -26,19 +26,25 @@ sources:
     url: https://www.tipperarylive.ie/news/a-large-quantity-of-suspected-cannabis-infused-products-seized-in-tipperary-9340490
     publisher: Tipperary Live
     date: 2026-11-09
+  - title: A large quantity of suspected cannabis infused products seized in Tipperary
+    url: https://www.ireland-live.ie/mid-west/tipperary-live/a-large-quantity-of-suspected-cannabis-infused-products-seized-in-tipperary-9340494
+    publisher: Ireland Live
+    date: 2026-11-09
 open_questions:
   - No weight, street value or item count for the suspected cannabis-infused products was published; the source says only that the haul was large.
   - The source reports no arrests, charges or suspects, and no suspected offence was named.
   - The Garda statement or a Tipperary Garda Facebook post giving further detail could not be opened; only one accessible account of this event was found.
   - The total number of premises searched and the split between business and residential properties were not given.
   - The searches are dated only by the Facebook post on Monday, 9 November 2026; the operation may have begun earlier.
+  - The Ireland Live copy gives no weight, value or item count for the suspected cannabis-infused products and no arrests, charges or suspected offence.
+  - The total number of premises searched and the split between business and residential properties are not given.
+  - The searches are dated only by the Tipperary Garda Facebook post on Monday, 9 November 2026; the operation may have begun earlier.
 ---
 
 Customs officers and gardaí seized a large quantity of suspected
 cannabis-infused products in a joint search operation in two County Tipperary
 towns. [@1] Gardaí said the searches were carried out on a number of business
-and residential properties in Thurles and Cashel. [@1]
+and residential properties in Thurles and Cashel. [@1,2]
 
 Photographs of the haul were posted on the Tipperary Garda Facebook page on the
-afternoon of Monday, 9 November 2026. [@1]
-
+afternoon of Monday, 9 November 2026. [@1,2]
