@@ -56,6 +56,11 @@ sources:
     publisher: Europa Press
     date: 2026-11-09
     language: es
+  - title: Policía Nacional desmantela una plantación de marihuana con 1.000 plantas en Olías del Rey (Toledo)
+    url: https://www.msn.com/es-es/noticias/other/polic%C3%ADa-nacional-desmantela-una-plantaci%C3%B3n-de-marihuana-con-1-000-plantas-en-ol%C3%ADas-del-rey-toledo/ar-AA2h3mfw
+    publisher: MSN / Europa Press
+    date: 2026-11-09
+    language: es
 open_questions:
   - 'The reports give only the months of the police steps: the investigation began in August 2026, the warehouse search took place in September and the arrest in October; 15 September is used only to place the search mid-month.'
   - No exact day for the search, the arrest or the investigation start was published.
@@ -72,7 +77,7 @@ said the arrest took place in Illescas. [@2]
 
 Officers began the investigation in August after information pointed to a
 cannabis crop somewhere in the industrial estate of Olías del Rey. [@1] They
-searched the warehouse in September and seized 1,003 cannabis plants. [@1] About
+searched the warehouse in September and seized 1,003 cannabis plants. [@1,3] About
 100 grams of cannabis buds were also taken out of the illegal market. [@1]
 Nobody was inside the unit during the search, and the investigation continued
 until the suspect was identified. [@1]
@@ -80,5 +85,4 @@ until the suspect was identified. [@1]
 Those running the crop had built a sealed, climate-controlled partition of
 plasterboard inside the industrial building to optimise plant growth. [@1]
 Police also found an illegal hook-up to the public power grid, used to avoid the
-cost of the large amount of electricity the plantation demanded. [@1]
-
+cost of the large amount of electricity the plantation demanded. [@1,3]
