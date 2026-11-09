@@ -84,6 +84,11 @@ sources:
     publisher: Antalya Son Haber
     date: 2026-11-05
     language: tr
+  - title: 'Kumluca''da uyuşturucu operasyonu: 2 kilo esrar bulundu'
+    url: https://www.saraymedya.com/haber/kumluca-da-uyusturucu-operasyonu-2-kilo-esrar-bulundu_322345/
+    publisher: Saray Medya
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The reports give only the publication date of 5 November 2026 and no separate date for the house search, so that date is used as the incident date.
   - No neighbourhood or village inside Kumluca district is named in the opened accounts, so the place is recorded at district level.
@@ -103,8 +108,8 @@ open_questions:
 
 Antalya provincial gendarmerie teams carried out the operation in Kumluca
 district on the instructions of the Kumluca Chief Public Prosecutor's Office.
-[@1,3,4,6,7] Officers searched the home of a suspect identified only by the initials
-E.B. [@1,3,4,5,6,7]
+[@1,3,4,6,7,8] Officers searched the home of a suspect identified only by the initials
+E.B. [@1,3,4,5,6,7,8]
 
 The search found 2 kilos 450 grams of kubar esrar, the term the sources use for
 harvested cannabis. [@1,3,4,5,6,7] Officers also seized two Hint keneviri cannabis plants
@@ -115,6 +120,6 @@ the cannabis figures. [@1,3,4,5,6,7]
 The İhlas News Agency (İHA) account matches the DHA report, with the same
 suspect initials, address search and quantities. [@2]
 
-Judicial proceedings were started against the suspect over the raid. [@3,5,6,7]
+Judicial proceedings were started against the suspect over the raid. [@3,5,6,7,8]
 
 Antalya'nın Kumluca ilçesinde düzenlenen uyuşturucu operasyonunda 2 kilo 450 gram kubar esrar, 2 kök Hint keneviri ve çeşitli mühimmat ele geçirildi. [@6]
