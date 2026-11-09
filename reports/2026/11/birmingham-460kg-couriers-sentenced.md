@@ -76,6 +76,10 @@ sources:
     url: https://www.worcesternews.co.uk/news/26713165.birmingham-airport-drugs-smuggling-gang-sentenced/
     publisher: Worcester News
     date: 2026-11-09
+  - title: Cornwall woman avoids jail for role in £13.8million drug import plot
+    url: https://www.hellorayo.co.uk/hits-radio/cornwall/news/tasia-nelson-suspended-sentence
+    publisher: Hits Radio (Cornwall)
+    date: 2026-11-09
 media:
   - kind: photo
     url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
@@ -95,6 +99,8 @@ open_questions:
   - Birmingham Live gives Clarke's address as The Mile End in Walthamstow and Nelson's as Cheviot Road in Newquay; the report keeps only the towns.
   - The Worcester News says two other couriers were convicted with Paige Crisp at the August trial, while the NCA update cited in the existing report says Jamal Clarke pleaded guilty at an earlier hearing.
   - The court's reasons for suspending Tasia Nelson's 30-month term are not given.
+  - Hits Radio says Nelson was sentenced alongside four other gang members, while the existing report records only Jamal Clarke as the other defendant sentenced that day; the discrepancy is unexplained.
+  - The article was published on 9 November 2026 and says only that the hearing was "on Monday"; the date is taken as 9 November 2026.
 ---
 
 On 22 October 2026, Birmingham Crown Court sentenced five members of a drug-smuggling gang that
@@ -106,7 +112,7 @@ four-week trial, while the others had pleaded guilty. [@2] Two more members, Tas
 Clarke, are due to be sentenced on 30 October. [@1,2]
 
 Border Force officers arrested the eleven-strong group in August 2024, when they found 460 kg of
-cannabis packed into 22 suitcases arriving from Thailand via Paris Charles de Gaulle. [@1] Each
+cannabis packed into 22 suitcases arriving from Thailand via Paris Charles de Gaulle. [@1,8] Each
 courier carried two suitcases holding about 20 kg of vacuum-packed cannabis under a thin layer of
 clothing, luggage so heavy they paid excess baggage charges at Bangkok airport. [@1,2,3] Eight of the
 bags held Apple AirTags connected to the same Apple ID, and intelligence linking the passengers to
@@ -120,6 +126,8 @@ others that smuggling is not worth the risk, and thanked Border Force for findin
 NCA figures show 801 cannabis couriers caught arriving by plane in 2024, 976 in 2025, and 600 more
 arrested between January and June 2026. [@1,2,7]
 
-Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4,5,7] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4,6,7] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
+Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4,5,7,8] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4,6,7] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
 
 Paige Crisp, 25, from Broomhall, near Worcester, was convicted on 19 August 2026 with two other couriers following a four-week trial at Birmingham Crown Court. [@7]
+
+Tasia Nelson was sentenced alongside four other gang members after being convicted of importing class B drugs from Thailand in suitcases packed with cannabis. [@8]
