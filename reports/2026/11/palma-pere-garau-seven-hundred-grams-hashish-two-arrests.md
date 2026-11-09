@@ -55,6 +55,11 @@ sources:
     publisher: Diario de Marratxí
     date: 2026-11-09
     language: es
+  - title: Dos detenidos en Palma tras ser sorprendidos con 700 gramos de hachís en el coche
+    url: https://www.ultimahora.es/sucesos/ultimas/2026/11/09/2746323/dos-detenidos-palma-tras-ser-sorprendidos-700-gramos-hachis-coche.html
+    publisher: Ultima Hora
+    date: 2026-11-09
+    language: es
 open_questions:
   - The article gives only 'the past Wednesday' for the stop; 4 November 2026 is used as the incident date, and 9 November is the publication date.
   - No police statement or second outlet for this event could be opened, so the account rests on this single local report.
@@ -62,25 +67,26 @@ open_questions:
   - The article does not state which of the two men carried the cash, nor any prosecutor's or court decision on custody.
   - The child's age and their relationship to the two men are not reported.
   - The page image has no caption or credit, so it cannot be confirmed to show this seizure; it is linked rather than treated as an agency handout.
+  - The picture published with the Ultima Hora report carries no credit.
+  - The hour of the stop is given as about 16:30 on 'el pasado miércoles' (last Wednesday); the article was published on Monday 9 November, so the Wednesday is 4 November, the date used here.
 ---
 
 National Police officers in Palma arrested two Spanish men as suspected authors
-of a drug-trafficking offence and a road-safety offence. [@1] The events took
+of a drug-trafficking offence and a road-safety offence. [@1,2] The events took
 place at about 16:30 on Wednesday, when a Citizen Attention Group patrol saw a
 car in the Pere Garau neighbourhood make an exchange of something with a
-pedestrian. [@1]
+pedestrian. [@1,2]
 
 Two men were in the front seats and a young child was in the back seat when
-officers stopped the car. [@1] Under the front right seat, officers found
-several packages of hashish weighing a total of 700 grams. [@1] They also found
+officers stopped the car. [@1,2] Under the front right seat, officers found
+several packages of hashish weighing a total of 700 grams. [@1,2] They also found
 more than 600 euros in various notes in the left trouser pocket of one of the
-men. [@1]
+men. [@1,2]
 
 The driver had no driving licence, and the car had no compulsory insurance or
-roadworthiness inspection. [@1] The two men were arrested as suspected authors
+roadworthiness inspection. [@1,2] The two men were arrested as suspected authors
 of a drug-trafficking offence, and the driver was additionally accused of a
-road-safety offence. [@1]
+road-safety offence. [@1,2]
 
 A relative of the child was called to take custody of the child, and the car was
-towed to the municipal depot. [@1]
-
+towed to the municipal depot. [@1,2]
