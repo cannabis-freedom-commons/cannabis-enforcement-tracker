@@ -46,6 +46,11 @@ media:
     media_url: https://ncnews.com.br/app/uploads/2026/11/trafico-drogas-goias-jpg-960x540.webp
     publisher: NC News
     caption: 'Photo published with the NC News report of the BR-153 stop in Jaraguá and captioned as the PRF handout for the case. Photo: Divulgação/PRF'
+  - kind: photo
+    url: https://www.gynnoticias.com.br/policia/prf-apreende-184-kg-de-maconha-escondidos-em-carro-na-br-153/5654
+    media_url: https://cdn.gynnoticias.com.br/storage/webdisco/2026/11/09/560x420/4a2f49fa4cec5ebaee0b431877ad16fd.jpeg
+    publisher: GYN Noticias
+    caption: 'PRF photo published with the report of the BR-153 stop in Jaraguá, captioned as the 18.4 kg marijuana seizure. Photo: PRFGO'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 654edd459126167c433ed0e1c6f4b8b0
@@ -81,6 +86,11 @@ sources:
     publisher: NC News
     date: 2026-11-09
     language: pt
+  - title: PRF apreende 18,4 kg de maconha escondidos em carro na BR-153
+    url: https://www.gynnoticias.com.br/policia/prf-apreende-184-kg-de-maconha-escondidos-em-carro-na-br-153/5654
+    publisher: GYN Noticias
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The article gives no exact kilometre marker, no name, age or home town of the driver, and no charge, custody decision or court step.
   - The weight of 18.4 kilograms comes from the PRF statement reproduced by the outlet; no exact scale reading or laboratory confirmation of the substance was published.
@@ -100,25 +110,28 @@ open_questions:
   - The amount of cash seized is still not given, and no court step, charge or custody decision is reported.
   - Tribuna do Planalto reproduces the PRF account without a scale reading or laboratory confirmation of the substance, and does not give the amount of cash seized or any charge, custody decision or court step.
   - NC News also describes the drug as 18.4 kilograms without a published scale reading or laboratory confirmation of the substance.
+  - The operation name Operação Conatus IX – Fase 3 appears only in this account; the other outlets' reports of the same stop did not name it.
 ---
 
 Federal Highway Police officers arrested a man on suspicion of drug trafficking
 on the BR-153 at Jaraguá, in central Goiás, late on the afternoon of Sunday 8
-November 2026. [@1,2,3,4,5,6] Officers found 18.4 kilograms of marijuana hidden under the
-spare tyre of the car he was driving, the PRF said. [@1,2,5,6]
+November 2026. [@1,2,3,4,5,6,7] Officers found 18.4 kilograms of marijuana hidden under the
+spare tyre of the car he was driving, the PRF said. [@1,2,5,6,7]
 
-The driver of a GM Astra was stopped during a routine check. [@1,5,6] According to
+The driver of a GM Astra was stopped during a routine check. [@1,5,6,7] According to
 the PRF, he showed nervousness and gave contradictory information about his
 route. [@1] During the search of the vehicle, officers found the tablets of the
 drug in the boot. [@1]
 
 The corporation said the driver told officers he had left Nova Glória and was
-heading for Anápolis. [@1,3,5,6] Questioned about the drug, he claimed the substance
-was for "personal use". [@1,3,6]
+heading for Anápolis. [@1,3,5,6,7] Questioned about the drug, he claimed the substance
+was for "personal use". [@1,3,6,7]
 
-The suspect was taken to the Civil Police station in Jaraguá. [@1,3,4,6] The PRF also
-seized the car, two mobile phones and an amount of money. [@1,2,3,5,6]
+The suspect was taken to the Civil Police station in Jaraguá. [@1,3,4,6,7] The PRF also
+seized the car, two mobile phones and an amount of money. [@1,2,3,5,6,7]
 
 The man already had a criminal record for illegal possession of a firearm, according to the police. [@2,3,4,5,6]
 
 Officers found several tablets of marijuana hidden in the boot, under the spare tyre, during a detailed search of the vehicle, the same page describing both the tablets in the boot and the space under the spare tyre. [@4]
+
+The stop in Jaraguá was carried out during Operation Conatus IX, Phase 3, a highway police crackdown on drug trafficking. [@7]
