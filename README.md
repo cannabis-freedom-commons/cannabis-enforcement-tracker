@@ -397,11 +397,12 @@ the build time and the size of the main pages and files. With 5,000 reports: abo
 
 ## Deployment
 
-`.github/workflows/deploy.yml` checks `main` every 30 minutes, at minutes 7 and 37 of each hour (UTC).
-It runs the tests, builds and publishes to GitHub Pages only when the commit differs from the last
-successful deployment workflow run. Unchanged commits skip the tests, build and deployment; failed
-builds or deployments are retried at the next scheduled check. **Run workflow** on `main` forces an
-immediate test, build and deployment, even for an unchanged commit. A test failure stops deployment.
+`.github/workflows/deploy.yml` tests, builds and publishes `main` to GitHub Pages on every push to
+it: the backend's batches of reports (every 30 minutes, docs/DEPLOY.md) and people's commits.
+Changes only to `backend/`, `deploy/` or `compose.yaml` do not build. One deployment runs at a
+time; of the pushes during it only the newest waits. **Run workflow** on `main` builds and deploys
+now, for example after a configuration change. A test failure stops deployment; the next push or
+**Run workflow** tries again.
 GitHub schedules can be delayed during busy periods. To set it up once:
 
 1. Push the repository to GitHub.

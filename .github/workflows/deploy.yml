@@ -1,9 +1,12 @@
 name: Deploy to GitHub Pages
 
 on:
-  schedule:
-    # Every 30 minutes, away from the busy start of the hour.
-    - cron: '13,43 * * * *'
+  # every push to main: the backend's publication batches (backend/internal/worker/batch.go) and
+  # people's commits; changes that cannot change the site wait for the next build
+  push:
+    branches: [main]
+    paths-ignore: ['backend/**', 'deploy/**', 'compose.yaml', '.github/workflows/backend.yml']
+  # Run workflow: build and deploy main now, also after a configuration change
   workflow_dispatch:
 
 # Let the workflow publish to Pages using GitHub's own token.
@@ -12,47 +15,15 @@ permissions:
   pages: write
   id-token: write
 
-# One deployment at a time; let a running deployment finish.
+# One deployment at a time; a running one finishes, and of the pushes that come meanwhile only the
+# newest waits, so a burst of pushes builds at most twice.
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
-  changes:
-    if: github.ref == 'refs/heads/main'
-    runs-on: ubuntu-24.04
-    permissions:
-      actions: read
-    outputs:
-      changed: ${{ steps.check.outputs.changed }}
-    steps:
-      - name: Check for commits since the last successful deployment
-        id: check
-        shell: bash
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          # A manual run can redeploy the same commit, including after a configuration change.
-          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-
-          # Successful no-change runs have the same SHA as the preceding deployment.
-          # Failed/cancelled builds and deployments never advance this checkpoint.
-          deployed_sha="$(gh api \
-            "repos/$GITHUB_REPOSITORY/actions/workflows/deploy.yml/runs?branch=main&status=success&per_page=1" \
-            --jq '.workflow_runs[0].head_sha // empty')"
-          if [[ "$GITHUB_SHA" == "$deployed_sha" ]]; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No new commits; skipping tests, build and deployment."
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
-
   build:
-    needs: changes
-    if: needs.changes.outputs.changed == 'true'
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v7

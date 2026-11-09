@@ -2,8 +2,8 @@ package worker
 
 // Publication in batches (PUBLISH_BRANCH): each validated report is committed to the publish branch
 // and pushed there, so workers see it at once. Every PUBLISH_INTERVAL, at PUBLISH_OFFSET on the
-// clock (30m and 5m: :05 and :35, just before the site is built at :13 and :43), the branch,
-// rebased onto main, is pushed to main in one fast-forward, so
+// clock (30m and 0: :00 and :30), the branch, rebased onto main, is pushed to main in one
+// fast-forward (the push starts the site's build, .github/workflows/deploy.yml), so
 // main gets the reports' own commits and no merge commit; with nothing new, nothing is pushed. The
 // reports are then deploying, and published once the live site's /version.json names a commit
 // that contains them (the site is rebuilt on its own schedule).
@@ -204,7 +204,7 @@ func (w *Worker) mergeBatch(ctx context.Context) error {
 		if _, err := w.Store.DB.ExecContext(ctx, "UPDATE local_publications SET commit_sha=?,batch_id=? WHERE case_id=?", sha, batch, cid); err != nil {
 			return err
 		}
-		why := "The report went to main" + others + " (" + sha[:12] + "). It appears on the site with its next build (every 30 minutes, at :13 and :43)."
+		why := "The report went to main" + others + " (" + sha[:12] + "). The site is rebuilt after the push and has it in a few minutes."
 		if err := w.Store.Transition(ctx, cid, "deploying", why, "", ""); err != nil {
 			slog.Warn("batch case not moved to deploying", "case", cid, "error", err)
 		}
@@ -311,7 +311,7 @@ func (w *Worker) watchDeploys(ctx context.Context) error {
 			}
 		}
 		if p.status == "committed" {
-			if err := w.Store.Transition(ctx, p.cid, "deploying", "The report is on main ("+p.sha[:12]+"). It appears on the site with its next build (every 30 minutes, at :13 and :43).", "", ""); err != nil {
+			if err := w.Store.Transition(ctx, p.cid, "deploying", "The report is on main ("+p.sha[:12]+"). The site is rebuilt after the push and has it in a few minutes.", "", ""); err != nil {
 				slog.Warn("case not moved to deploying", "case", p.cid, "error", err)
 				continue
 			}

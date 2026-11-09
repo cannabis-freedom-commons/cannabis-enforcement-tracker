@@ -11,14 +11,6 @@ if (box) {
     const m = Math.round(Math.abs(seconds) / 60);
     return m < 1 ? "less than a minute" : m < 90 ? `${m} min` : `${Math.round(m / 60)} h`;
   };
-  // the site is built at :13 and :43 (.github/workflows/deploy.yml)
-  const nextBuild = (from) => {
-    const d = new Date(from * 1000);
-    for (let i = 0; i < 120; i++, d.setUTCMinutes(d.getUTCMinutes() + 1)) {
-      if (d.getUTCMinutes() === 13 || d.getUTCMinutes() === 43) { d.setUTCSeconds(0, 0); return d.getTime() / 1000; }
-    }
-    return from;
-  };
   let data = null, poll = 0;
   const render = () => {
     const p = data?.publication;
@@ -33,13 +25,12 @@ if (box) {
       const at = p.next_batch_at;
       $("next").textContent = p.waiting > 0 ? `Next batch at ${clock(at)}, in ${minutes(at - now)}` : `Next batch at ${clock(at)}`;
     } else $("next").textContent = "Each report goes to main at once";
-    const build = nextBuild(now);
     const run = p.deploy_run, link = $("run");
     const building = run && run.status !== "completed";
     // the site's build on GitHub: the one running now, or the last one
     $("build").textContent = building && run.includes_batch
       ? `The site is being built with them (started ${clock(run.started_at)})`
-      : `Next site build about ${clock(build)}, in ${minutes(build - now)}`;
+      : p.deploying > 0 ? "The site build starts after the push to main" : "Each push to main rebuilds the site";
     if (run?.url) {
       link.hidden = false; link.href = run.url;
       link.dataset.state = building ? "running" : run.conclusion || "";
@@ -57,7 +48,7 @@ if (box) {
       $("last").textContent = "No batch yet";
     }
     $("note").textContent = p.batched
-      ? `Reports are committed to the ${p.branch} branch and go to main together every ${minutes(p.interval_seconds)}, shortly before the site is rebuilt. A report is published once the site has it.`
+      ? `Reports are committed to the ${p.branch} branch and go to main together every ${minutes(p.interval_seconds)}; each push to main rebuilds the site. A report is published once the site has it.`
       : "Each report is pushed to main when it is committed, and published once the site has been rebuilt.";
   };
   const load = async () => {

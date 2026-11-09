@@ -23,7 +23,7 @@ services:
       # this checkout: reports are committed here and pushed to origin, which it follows
       REPO_PATH: /repo
       REPO_SYNC: "true"
-      # reports wait on this branch and go to main together every 30 minutes, at :05 and :35
+      # reports wait on this branch and go to main together every 30 minutes, at :00 and :30
       # (PUBLISH_INTERVAL, PUBLISH_OFFSET); workers research against it (docs/DEPLOY.md)
       PUBLISH_BRANCH: submissions
       RESEARCH_MODE: remote

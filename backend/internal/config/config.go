@@ -68,7 +68,7 @@ type Config struct {
 	// goes to main in one push (worker/batch.go). Blank: each report is pushed to main at once.
 	PublishBranch   string
 	PublishInterval time.Duration
-	PublishOffset   time.Duration // batches at this offset into each interval (30m and 5m: :05 and :35)
+	PublishOffset   time.Duration // batches at this offset into each interval (30m and 0: :00 and :30)
 	// RepoFollow (a worker): its REPO_PATH is a clone of its own, reset before each job to this
 	// branch of origin (the backend's PUBLISH_BRANCH, with the reports waiting to go to main), or to
 	// main while the branch does not exist. Blank: the clone is only fast-forwarded.
@@ -327,8 +327,8 @@ func Load() (Config, error) {
 	if c.PublishInterval, err = time.ParseDuration(env("PUBLISH_INTERVAL", "30m")); err != nil || c.PublishInterval < time.Minute || c.PublishInterval > 24*time.Hour {
 		return c, errors.New("PUBLISH_INTERVAL must be between 1m and 24h")
 	}
-	// just before the site's builds at :13 and :43 (.github/workflows/deploy.yml)
-	if c.PublishOffset, err = time.ParseDuration(env("PUBLISH_OFFSET", "5m")); err != nil || c.PublishOffset < 0 || c.PublishOffset >= c.PublishInterval {
+	// where in each interval a batch goes (the site builds on every push to main)
+	if c.PublishOffset, err = time.ParseDuration(env("PUBLISH_OFFSET", "0")); err != nil || c.PublishOffset < 0 || c.PublishOffset >= c.PublishInterval {
 		return c, errors.New("PUBLISH_OFFSET must be at least 0 and less than PUBLISH_INTERVAL")
 	}
 	c.RepoFollow = os.Getenv("REPO_FOLLOW")

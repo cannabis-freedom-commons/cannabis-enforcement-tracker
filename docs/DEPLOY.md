@@ -313,10 +313,10 @@ A validated report goes through three statuses on its request page:
 
 1. **Waiting to publish** (`committed`): committed to the `submissions` branch and pushed there.
    Workers research against that branch, so nothing is researched twice meanwhile.
-2. **Deploying**: the branch went to `main`. Every 30 minutes, at :05 and :35, the backend rebases
+2. **Deploying**: the branch went to `main`. Every 30 minutes, at :00 and :30, the backend rebases
    the branch onto `main` and pushes it as a fast-forward: `main` gets the reports' own commits
    and no merge commit. With no new reports, nothing is pushed.
-3. **Published**: the site is rebuilt at :13 and :43 (`.github/workflows/deploy.yml`). Every minute
+3. **Published**: each push to `main` builds the site (`.github/workflows/deploy.yml`). Every minute
    the backend reads the live `/version.json`; once the deployed commit contains a report, it is
    published, and Nostr submitters get their reply with the report's link.
 

@@ -38,8 +38,8 @@ export const isRunning = (status) => statusMeta(status).tone === "running";
 // what an outcome means for the person who sent the source, beside the worker's own explanation
 export const OUTCOME_HELP = {
   budget_wait: "This request is waiting for the daily AI budget to reset. No new research run has started.",
-  committed: "A cited report was written and committed. It goes to the site with the next batch (every 30 minutes) and is published once the site is rebuilt.",
-  deploying: "The report is on main and appears on the site with its next build (every 30 minutes, at :13 and :43).",
+  committed: "A cited report was written and committed. It goes to main with the next batch (every 30 minutes) and is published once the site is rebuilt.",
+  deploying: "The report is on main; the site is being rebuilt with it and has it in a few minutes.",
   published: "A cited report was written and published from this source.",
   duplicate: "The tracker already has a report on this event, so no new one was made.",
   routed_to_cfi: "This is about a change in the law, not an enforcement event, so it belongs in the Cannabis Freedom Index history.",
