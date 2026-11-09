@@ -115,6 +115,11 @@ sources:
     publisher: Haber Olsun
     date: 2026-11-07
     language: tr
+  - title: ضبط 67 كغ مخدرات في إسطنبول وتوقيف شخصين - وكالة نيو ترك بوست الاخبارية
+    url: https://newturkpost.com/news/133802-%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D9%88%D8%B6%D8%A8%D8%B7-67-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84
+    publisher: وكالة نيو ترك بوست الاخبارية
+    date: 2026-11-08
+    language: ar
 open_questions:
   - The reports say the raids took place within 24 hours before the 7 November 2026 publication and give no calendar date, so 7 November 2026 is used as an approximate incident date.
   - The weight of esrar found in the vehicle in Esenler and in the home in Bahçelievler is not broken down; only a combined 25 kilos 90 grams is given.
@@ -153,23 +158,25 @@ open_questions:
   - The page gives no calendar date for the two raids beyond its 7 November 2026 publication date, already used as an approximate incident date in the existing report.
   - The page says the two suspects would be sent to court (sevk edileceği öğrenildi), while other accounts already cited said they had been sent; the custody outcome remains as recorded.
   - The page credits İSTANBUL / TEKHA and reproduces the same TEKHA account already cited in the existing report, so it is not independent reporting.
+  - The page image caption repeats only the headline, so it is not established to show this seizure and no media entry is added.
+  - The page credits DHA and reproduces the same police account already cited, so it is not independent reporting, and it gives no calendar date for the raids beyond the 7 November 2026 DHA date already used as an approximate incident date.
 ---
 
 Istanbul police narcotics officers detained two suspects in two separate
 operations in the Esenler and Bahçelievler districts of Istanbul within 24
-hours. [@1,5,6,7,8,9,10,11,14,15] Officers searched a vehicle in Esenler and a home in Bahçelievler.
-[@1,6,7,8,11,13,14,15]
+hours. [@1,5,6,7,8,9,10,11,14,15,16] Officers searched a vehicle in Esenler and a home in Bahçelievler.
+[@1,6,7,8,11,13,14,15,16]
 
 The searches found 25 kilos 90 grams of esrar, the Turkish name for cannabis.
-[@1,6,7,8,9,10,11,13,14,15] The same searches found 42 kilograms of a chemical the provincial police
-called A-M 2201. [@2,13,14,15] Istanbul's provincial police said the A-M 2201 would have
+[@1,6,7,8,9,10,11,13,14,15,16] The same searches found 42 kilograms of a chemical the provincial police
+called A-M 2201. [@2,13,14,15,16] Istanbul's provincial police said the A-M 2201 would have
 been enough to make 4 tonnes 200 kilograms of synthetic cannabinoid, and that
 the material was stopped before it could be used for production. [@1,7]
 
 Istanbul police said they ran the two operations to stop drug production and
 trade, block street sales and catch those involved. [@1] Police opened
 proceedings against the two suspects for manufacturing and trading narcotic or
-stimulant substances. [@2,5,9,11] The state news agency Anadolu reported that both
+stimulant substances. [@2,5,9,11,16] The state news agency Anadolu reported that both
 suspects were sent to court after processing at the police station. [@3]
 
 Canlı Gaste, carrying the Anadolu copy, reported that officers seized the 42
