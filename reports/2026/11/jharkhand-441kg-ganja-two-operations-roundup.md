@@ -76,6 +76,10 @@ open_questions:
   - The Hindi account dates the Garhwa search to Sunday and the train arrest to Saturday night, matching the PTI roundup, while the Tatisilway case was registered on 8 November 2026, so the incident date of the roundup report is kept as 7 November.
   - The page's only image is labelled in Hindi as an AI-generated symbolic picture, so it does not show the event and no media entry is made.
   - The Hindustan Times page carries the same automated PTI feed text as the other outlets already cited and states that it was generated from an agency feed without modifications, so it is a reprint rather than independent reporting.
+  - The opened ThePrint text carries the full PTI roundup, where the roundup report notes earlier that ThePrint gave only the Garhwa part; the full text matches the Rediff and Live Hindustan copies of the same wire item.
+  - The Rediff and Live Hindustan pages state the Tatisilway arrest happened on Saturday night and the Garhwa search on Sunday, consistent with the roundup report's 7 November incident date.
+  - 'Left out, as its quotation was not found in ThePrint / Press Trust of India: The Railway Protection Force arrested four interstate peddlers with 15 kg of ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway station on the night of 7 November, with the contraband valued at about 7.5 lakh rupees.'
+  - 'Left out, as its quotation was not found in ThePrint / Press Trust of India: Police said the four were taking the ganja from Balangir in Odisha to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi Government Railway Police.'
 ---
 
 Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
