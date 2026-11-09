@@ -76,6 +76,11 @@ sources:
     publisher: SAPO (Diário de Notícias da Madeira)
     date: 2026-11-09
     language: pt
+  - title: Homem de 63 anos detido em Machico por tráfico de droga
+    url: https://madeira.rtp.pt/sociedade/homem-de-63-anos-detido-em-machico-por-trafico-de-droga/
+    publisher: RTP Madeira
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The article published 9 November 2026 says the street sale happened on the previous Friday, taken as 6 November 2026; no separate exact incident date was given.
   - No weight was given for the hashish doses, so no cannabis weight is recorded.
@@ -92,21 +97,25 @@ open_questions:
   - The article says the arrest happened on the previous Friday without giving a calendar date; 6 November 2026 is used, as in the existing report.
   - The page states 870 hashish doses in total but gives no weight, so no cannabis kilogram figure is recorded.
   - The two Bloom doses are not counted as cannabis because their composition is not stated; the PSP's general warning about synthetic substances does not identify them.
+  - The RTP Madeira page says only that more than 840 hashish doses were seized at the house, while the PSP statements carried by Dnoticias and JM Madeira give 28 doses found on the suspect and 842 at the house; the detailed figures are used.
+  - Left out arrested, as no supporting quotation was given.
 ---
 
 A 63-year-old man was caught by PSP in Machico, Madeira, during a drug sale on
-the previous Friday. [@1,3,5] PSP officers had seen the man selling drugs to another
+the previous Friday. [@1,3,5,6] PSP officers had seen the man selling drugs to another
 person, and after stopping and searching both found the buyer with one dose of
-hashish and one of liamba while the suspect carried 28 more hashish doses. [@1,3,4]
+hashish and one of liamba while the suspect carried 28 more hashish doses. [@1,3,4,6]
 
 A search of the suspect's house found another 842 hashish doses and two Bloom
 doses, plus 940 euros in cash and materials used to prepare and package doses.
-[@1,3,4]
+[@1,3,4,6]
 
 The man, born and living in Machico, had previous convictions for similar
-crimes. [@1,3,4,5] He was released for health reasons under a term of identity and
+crimes. [@1,3,4,5,6] He was released for health reasons under a term of identity and
 residence and ordered to appear in court the next Monday. [@1,3,4,5]
 
-The Regional Command of Madeira of the PSP said the Criminal Investigation Squad of the Machico Police Division detected the drug transaction. [@2,5]
+The Regional Command of Madeira of the PSP said the Criminal Investigation Squad of the Machico Police Division detected the drug transaction. [@2,3,5]
 
-The buyer was carrying one dose of hashish and one dose of liamba, a Portuguese word for herbal cannabis. [@5]
+The buyer was carrying one dose of hashish and one dose of liamba, a Portuguese word for herbal cannabis. [@3,5]
+
+Separately from the house search, the suspect had 28 hashish doses when detained and the buyer had one dose of hashish and one of liamba. [@3] The detention was carried out by the Criminal Investigation Squad of the Machico Police Division, which identified the buyer. [@6]
