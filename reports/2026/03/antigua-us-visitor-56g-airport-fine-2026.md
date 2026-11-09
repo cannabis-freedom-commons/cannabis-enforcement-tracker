@@ -69,6 +69,11 @@ sources:
     url: https://www.caribbeannationalweekly.com/posts/us-man-fined-ec1000-for-cannabis-possession-at-vc-bird-airport
     publisher: Caribbean National Weekly
     date: 2026-03-13
+  - title: US national arrested at airport for possession of cannabis - Antigua Observer Newspaper
+    url: https://antiguaobserver.com/us-national-arrested-at-airport-for-possession-of-cannabis/
+    publisher: Antigua Observer Newspaper
+    date: 2026-03-09
+    archived: https://web.archive.org/web/20260311163924id_/https://antiguaobserver.com/us-national-arrested-at-airport-for-possession-of-cannabis/
 open_questions:
   - The report is dated 11 March 2026, the morning Saloum appeared before the Chief Magistrate according to the 11 March 2026 report; the arrest occurred on 7 March 2026.
   - Antigua outlets write the fine as $1,000; the Caribbean National Weekly clarifies it as EC$1,000, recorded here as XCD.
@@ -85,19 +90,18 @@ prison, and ordered the cannabis confiscated. [@4]
 
 Officers from the Narcotics Department, the K-9 Unit and the Customs Enforcement
 Unit were conducting a coordinated operation at the airport around 4:30 p.m.
-when a trained drug-detection dog signalled interest in Saloum's suitcase. [@2]
+when a trained drug-detection dog signalled interest in Saloum's suitcase. [@2,5]
 Saloum had just arrived aboard United Airlines Flight 2020 from Pennsylvania.
-[@1] A search of the suitcase uncovered 23 pre-wrapped cannabis joints and a
-blue zip-lock bag containing vegetable material resembling cannabis. [@1]
+[@1,5] A search of the suitcase uncovered 23 pre-wrapped cannabis joints and a
+blue zip-lock bag containing vegetable material resembling cannabis. [@1,5]
 Authorities confirmed the substances weighed 56 grams, which police valued at
-EC$560. [@1]
+EC$560. [@1,5]
 
 The Royal Police Force of Antigua and Barbuda says it continues to strengthen
 drug interdiction at ports of entry and reminds travellers that importation and
-possession remain serious offences. [@1] The court was told Saloum holds a
+possession remain serious offences. [@1,5] The court was told Saloum holds a
 United States medical cannabis card, which he uses to manage anxiety and back
 pain. [@3] The court was told the card carries no legal standing in Antigua and
 Barbuda. [@3] At sentencing the magistrate placed the offence in a lower
 category with no aggravating factors and weighed his cooperation, previous good
 character and medical card as mitigation. [@4]
-
