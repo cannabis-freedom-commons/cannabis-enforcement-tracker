@@ -39,6 +39,11 @@ sources:
     publisher: Dinamalar
     date: 2026-11-04
     language: ta
+  - title: '10 கிலோ கஞ்சா பறிமுதல்: 2 போ் கைது'
+    url: https://www.dinamani.com/thiruvallur/2026/Nov/09/10-kg-of-ganja-seized-2-arrested
+    publisher: தினமணி (Dinamani)
+    date: 2026-11-09
+    language: ta
 open_questions:
   - The article dates the arrest to today 4 November 2026 but says the tollgate stop was yesterday, so 4 November 2026 is used as the incident date.
   - No charges, custody remand or court outcome beyond the arrest were reported.
@@ -47,21 +52,25 @@ open_questions:
   - No photo of this seizure was published because the page images are unrelated sidebar thumbnails, so no media entry is included.
   - The 8 kg Chengalpattu seizure linked as related reading is a separate event left out here.
   - 'Left out, as its quotation was not found in Dinamalar: Officers on surveillance duty at the Cholavaram tollgate area stopped the pair after finding them moving about suspiciously and questioned them.'
+  - Dinamani dates the interception only by its publication date, 9 November 2026, so the 4 November date comes from the earlier Dinamalar account.
+  - Dinamani gives no weight other than 10 kg and no value for the drug.
+  - Dinamani does not say whether the men were remanded in custody or charged under the NDPS Act.
 ---
 
 Prohibition enforcement police in the Minjur area arrested two men on 4 November
 2026 for allegedly smuggling 10 kg of cannabis from Andhra Pradesh into Tamil
-Nadu. [@1] One of the men was identified as 21-year-old Indrajith of Sadapalayam
+Nadu. [@1,2] One of the men was identified as 21-year-old Indrajith of Sadapalayam
 in Cuddalore district. [@1] The other was identified as 19-year-old Vishwa of
 Vanniyapuram. [@1]
 
 A search of the bags they were carrying found packets containing 10 kg of ganja.
-[@1] Officers then arrested both men and seized the ganja packets. [@1]
+[@1,2] Officers then arrested both men and seized the ganja packets. [@1]
 Investigators said the load had been smuggled from the Rayavada area of Andhra
-Pradesh. [@1] Police said the consignment was intended for sale in Cuddalore
+Pradesh. [@1,2] Police said the consignment was intended for sale in Cuddalore
 district. [@1]
 
 The Red Hills prohibition enforcement unit said it had intensified monitoring to
 block cannabis smuggling from Andhra Pradesh and northern states. [@1] The case
 was reported from Minjur on 4 November 2026. [@1]
 
+Dinamani places the elder of the two men's home in Sadappalayam in Cuddalore district and the 19-year-old's home in Salakkarai village in Viluppuram district. [@2]
