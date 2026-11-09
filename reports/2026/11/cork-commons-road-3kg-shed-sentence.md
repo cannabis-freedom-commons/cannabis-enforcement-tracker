@@ -52,6 +52,10 @@ sources:
     url: https://www.echolive.ie/corknews/arid-41935419.html
     publisher: EchoLive
     date: 2026-11-09
+  - title: Cork drug addict jailed for storing €56k of cannabis in garden shed
+    url: https://www.irishexaminer.com/news/courtandcrime/arid-41935434.html
+    publisher: Irish Examiner
+    date: 2026-11-09
 open_questions:
   - Only one source, the EchoLive court report by Liam Heylin, could be opened; no second outlet's account was found and the court's own record is not published.
   - The three kilograms is described as cannabis valued at €56,000; the report does not say whether this was herbal cannabis or resin.
@@ -60,27 +64,30 @@ open_questions:
   - The address given for the offence is Commons Road in Cork city, while the defendant's home is on Rathpeacon Road; the report does not say who owned the Commons Road house beyond calling her the owner.
   - No arrest date is given; 27 February 2025 is the date of the offence and 9 November 2026 is the publication date of the sentencing report, which stands in for the sentence date.
   - The page image is an iStock stock photograph of cannabis, not the shed or the seizure, so no media entry is included.
+  - The submitted Irish Examiner page is by the same court reporter, Liam Heylin, as the EchoLive account already cited, so it corroborates rather than independently reports the hearing.
+  - Neither account says whether the three kilos were herbal cannabis or resin.
+  - No appeal is reported, and the page does not say when or whether O'Callaghan was arrested.
+  - The page photograph is an iStock stock image of cannabis captioned as a file picture, not the shed or the seizure, so no media entry is added.
 ---
 
 Shaun O'Callaghan, of 196 Rathpeacon Road, Cork, was jailed for three years
 after admitting he had cannabis for sale or supply. [@1] Detective Garda Michael
 Abernethy told the sentencing hearing that O'Callaghan admitted possessing
 cannabis for sale or supply at an address on Commons Road, Cork, on February 27,
-2025, when its value exceeded €13,000. [@1] Gardaí with a warrant searched the
+2025, when its value exceeded €13,000. [@1,2] Gardaí with a warrant searched the
 house where the accused was living and found three kilos of cannabis, valued at
 €56,000, in a large black plastic bag in a shed at the rear of the house. [@1]
 
 Judge Helen Boyle set a headline sentence of seven and a half years, reduced it
 to five for the guilty plea, and suspended the last two years to encourage his
 rehabilitation. [@1] The judge said she could depart from the 10-year minimum
-sentence that the €13,000 value threshold would otherwise attract. [@1] Boyle
+sentence that the €13,000 value threshold would otherwise attract. [@1,2] Boyle
 said O'Callaghan had five convictions for having drugs for sale or supply and
-that his life had been destroyed by drugs. [@1] The judge told the defendant he
+that his life had been destroyed by drugs. [@1,2] The judge told the defendant he
 brought danger to the owner's home by storing cannabis at the house without her
-knowing. [@1]
+knowing. [@1,2]
 
 Defence senior counsel Donal O'Sullivan said O'Callaghan had addiction problems
 at the time and had since attended Tabor Lodge and Coolmine and was actively
 engaged in treatment. [@1] The judge said the 33-year-old had not dealt with
-issues related to grief and that relapse was the big risk factor for him. [@1]
-
+issues related to grief and that relapse was the big risk factor for him. [@1,2]
