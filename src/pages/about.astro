@@ -1,28 +1,114 @@
 ---
+// What the tracker is, how a report gets here (news search → reading → AI research → checks →
+// publication), what counts, and how to use, correct and add to the data.
 import Base from "../layouts/Base.astro";
 import { TYPES, STATUS } from "../lib/types.js";
+import { reports, countriesWithReports, countByType, years } from "../lib/reports.js";
 const base = import.meta.env.BASE_URL;
+const fmt = (n) => n.toLocaleString("en-GB");
+const REPO = "https://github.com/cannabis-freedom-commons/cet";
+const byType = countByType(reports);
+const byStatus = Object.fromEntries(Object.keys(STATUS).map((s) => [s, reports.filter((r) => r.status === s).length]));
+const sources = reports.reduce((n, r) => n + r.sources.length, 0);
+const places = countriesWithReports().length;
+const first = Math.min(...years);
+const steps = [
+  ["Find", "Searches run around the clock on Google News, Bing News and other news aggregators, in more than 40 languages, and name the places of countries that have no news edition of their own. Anyone can also send a link."],
+  ["Read", "Each article is opened in a real browser, and its text and a screenshot are kept. When a page is gone or blocked, an archived copy is used."],
+  ["Research", "An AI agent reads the article, looks for other accounts of the same event and checks whether the tracker already has it. It writes a new report, adds the source to an existing one, or turns the article down and says why."],
+  ["Check", "Every fact must be backed by a quotation found in a source that was opened. Facts without one are dropped; a report whose facts all pass is marked verified."],
+  ["Publish", "The report goes on the site with its sources. It keeps a permanent code, and every later change to it is recorded."],
+];
+const sections = [["how", "How it works"], ["scope", "What counts"], ["report", "A report"], ["figures", "Figures"], ["data", "Data"], ["help", "Help"]];
 ---
-<Base title="About" description="What the Cannabis Enforcement Tracker records, and how.">
+<Base title="About" description={`How the Cannabis Enforcement Tracker works: news searches in many languages, AI research and quotation checks behind ${fmt(reports.length)} sourced reports of cannabis eradication, seizures, raids, arrests and sentences.`}>
   <h1>About the tracker</h1>
+  <p class="lead">An open record of what the prohibition of cannabis does in practice: fields destroyed, homes and shops raided,
+    people arrested, tried, jailed and executed. It shows the human, economic and cultural cost that the text of a law does not.</p>
+
+  <dl class="about-facts">
+    <div><dt>Reports</dt><dd>{fmt(reports.length)}</dd></div>
+    <div><dt>Countries and states</dt><dd>{fmt(places)}</dd></div>
+    <div><dt>Sources cited</dt><dd>{fmt(sources)}</dd></div>
+    <div><dt>Since</dt><dd>{first}</dd></div>
+  </dl>
+
+  <nav class="about-nav" aria-label="On this page">{sections.map(([id, label]) => <a href={`#${id}`}>{label}</a>)}</nav>
+
   <div class="prose">
-    <p>The Cannabis Enforcement Tracker is an open record of what the prohibition of cannabis does in practice:
-      fields destroyed, homes and shops raided, people arrested, tried, jailed and executed. It counts the human,
-      economic and cultural cost that a law's text does not show.</p>
-    <p>It is a companion to the <a href="https://cannabisfreedom.fyi/">Cannabis Freedom Index</a>, which scores what
-      each country's laws allow. Country ids are the same, so each report links to the law behind it.</p>
-    <h2>What a report is</h2>
-    <p>One event or one campaign, told plainly: what happened, to whom, and what it cost. Every sentence rests on
-      a source that was opened and read, cited in the text. A report without a source is refused by the build.</p>
-    <h2>Types</h2>
-    <ul>{Object.values(TYPES).map((t) => <li><span class="type" style={`--c:${t.color}`}>{t.label}</span> {t.help}</li>)}</ul>
-    <h2>Status</h2>
-    <ul>{Object.entries(STATUS).map(([k, v]) => <li><b>{k}</b>: {v}</li>)}</ul>
-    <h2>Figures</h2>
-    <p>Numbers are what the sources state, often the authorities' own. Values of seized cannabis are official
-      estimates and usually high. Totals on this site add up only the reports in it.</p>
-    <h2>Data</h2>
-    <p>All reports as JSON: <a href={`${base}api/reports.json`}>/api/reports.json</a>; one country:
-      <code>/api/country/&lt;id&gt;.json</code>. The source files are YAML front matter and Markdown, one per report.</p>
+    <p>It is a companion to the <a href="https://cannabisfreedom.fyi/">Cannabis Freedom Index</a>, which scores what each
+      country's laws allow. Every report links to the law in force where and when it happened.</p>
+
+    <h2 id="how">How it works</h2>
+    <p>Most reports are found, read and written automatically, and anyone can correct them afterwards.</p>
+  </div>
+  <ol class="about-steps">
+    {steps.map(([name, text], i) => <li><span class="step-n">{i + 1}</span><div><b>{name}</b><p>{text}</p></div></li>)}
+  </ol>
+  <div class="prose">
+    <p>The AI does not decide what is true; the checks do. A report states only what its sources state, and every
+      sentence links to them. Articles about something else, about synthetic drugs, or that cannot be backed up are
+      turned down, and the reason is kept. The <a href={`${base}submissions/`}>submissions page</a> shows every article
+      sent in, including the ones that did not become reports.</p>
+
+    <h2 id="scope">What counts</h2>
+    <p>Enforcement against cannabis since 2000, anywhere in the world: one event or one campaign, such as a raid,
+      a field destroyed, a trial or a sentence. Changes in the law, landmark court cases and national statistics
+      belong to the <a href="https://cannabisfreedom.fyi/">Cannabis Freedom Index</a>. Synthetic cannabinoids are not
+      cannabis and are left out, and so are the other drugs in a mixed seizure.</p>
+    <ul class="about-types">
+      {Object.entries(TYPES).map(([id, t]) => <li><span class="type" style={`--c:${t.color}`}>{t.label}</span><span>{t.help}</span><span class="num muted">{fmt(byType[id] ?? 0)}</span></li>)}
+    </ul>
+
+    <h2 id="report">What a report is</h2>
+    <p>One event, told plainly: what happened, where, to whom and what it cost, with the figures the sources give.
+      Every sentence carries its sources; point at a sentence to see them. Open questions, such as a missing verdict
+      or sources that disagree, are listed on the report rather than smoothed over. Each report has a short code
+      (<code>CET-…</code>) that never changes.</p>
+    <ul class="about-status">
+      {Object.entries(STATUS).map(([k, v]) => <li><span class:list={["status", k]}>{k}</span><span>{v}</span><span class="num muted">{fmt(byStatus[k])}</span></li>)}
+    </ul>
+
+    <h2 id="figures">Figures</h2>
+    <p>Numbers are the ones the sources give, often the authorities' own. Values of seized cannabis are official
+      estimates and usually high. Totals on this site add up only the reports in it, which is far from all
+      enforcement: most of it is never reported, and much that is reported has not been found yet.</p>
+
+    <h2 id="data">Data</h2>
+    <p>Everything is open. Report texts and data are under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> and
+      the code under the MIT licence; pictures keep their own licences.</p>
+    <ul>
+      <li>All reports: <a href={`${base}api/reports.json`}>/api/reports.json</a>; one country: <code>/api/country/&lt;id&gt;.json</code></li>
+      <li>New reports by RSS: <a href={`${base}feed.xml`}>all of them</a>, or the feed on each country's page</li>
+      <li>Every change: the <a href={`${base}changelog/`}>changelog</a>. The source files, one Markdown file per report, are on <a href={REPO}>GitHub</a></li>
+    </ul>
+
+    <h2 id="help">Help</h2>
+    <p>Know of an event that is missing? <a href={`${base}submissions/`}>Send a link</a> to a news article or an official
+      statement, and it goes through the same steps. Found a mistake? <a href={`${REPO}/issues`}>Open an issue</a> with the
+      report's code and a source.</p>
   </div>
 </Base>
+
+<style>
+  .about-facts, .about-steps { max-width: 68ch; font-size: 16.5px; }
+  .about-facts { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 26px 0 0; background: var(--border); border: 1px solid var(--border); border-radius: var(--r); overflow: hidden; }
+  .about-facts div { background: var(--surface); padding: 14px 16px; }
+  .about-facts dt { font-size: 12.5px; color: var(--muted); }
+  .about-facts dd { margin: 2px 0 0; font: 26px/1.1 var(--display); font-variant-numeric: tabular-nums; }
+  .about-nav { display: flex; flex-wrap: wrap; gap: 6px; margin: 18px 0 8px; }
+  .about-nav a { padding: 5px 11px; border: 1px solid var(--border); border-radius: 999px; font-size: 13px; color: var(--text-2); text-decoration: none; background: var(--surface); }
+  .about-nav a:hover { color: var(--text); border-color: var(--text-2); }
+  .prose h2 { scroll-margin-top: 16px; }
+  .about-steps { list-style: none; margin: 18px 0 20px; padding: 0; display: grid; gap: 10px; max-width: 68ch; }
+  .about-steps li { display: grid; grid-template-columns: 32px 1fr; gap: 14px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); }
+  .about-steps .step-n { display: grid; place-items: center; width: 32px; height: 32px; border-radius: var(--r); background: var(--accent); color: var(--accent-ink); font: 600 14px var(--mono); }
+  .about-steps b { font-family: var(--display); font-weight: 400; font-size: 21px; }
+  .about-steps p { margin: 2px 0 0; color: var(--text-2); font-size: 15.5px; line-height: 1.6; }
+  .about-types, .about-status { list-style: none; padding: 0; margin: 14px 0; border-top: 1px solid var(--border); }
+  .about-types li, .about-status li { display: grid; grid-template-columns: 9.5em 1fr auto; gap: 12px; align-items: baseline; padding: 7px 0; border-bottom: 1px solid var(--border); font-size: 15px; line-height: 1.5; }
+  @media (max-width: 640px) {
+    .about-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .about-types li, .about-status li { grid-template-columns: 7.5em 1fr auto; gap: 8px; }
+  }
+</style>
