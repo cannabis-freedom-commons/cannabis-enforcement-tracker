@@ -52,6 +52,11 @@ sources:
     publisher: АСН24
     date: 2026-11-06
     language: ru
+  - title: В Амурской области бронетехника перемолола гектар дикой конопли (видео)
+    url: https://www.amur.life/news/2026/11/06/v-amurskoy-oblasti-bronetehnika-peremolola-gektar-dikoy-konopli
+    publisher: AMUR.LIFE
+    date: 2026-11-06
+    language: ru
 open_questions:
   - The reports give no separate date for the field work; 6 November 2026 is the publication date of both accounts.
   - No plant count, drug weight, arrests or court outcome were reported.
@@ -59,14 +64,14 @@ open_questions:
 ---
 
 Police officers and military security officials eliminated a wild-cannabis site
-in Vostochny settlement in Oktyabrsky district of Amur Oblast. [@1] The reports
+in Vostochny settlement in Oktyabrsky district of Amur Oblast. [@1,3] The reports
 describe the plants as wild-growing cannabis rather than a planted crop. [@1]
-The narcotic-containing plants covered one hectare. [@1] Because the thickets
+The narcotic-containing plants covered one hectare. [@1,3] Because the thickets
 covered a large area, armoured vehicles were brought in to destroy them, the
-Amur Oblast police said. [@1]
+Amur Oblast police said. [@1,3]
 
 The clearance was carried out during the preventive operation Priamurye without
-drugs. [@1] It was the security forces' second such outing that autumn. [@1] In
+drugs. [@1,3] It was the security forces' second such outing that autumn. [@1] In
 September, a similar operation near the village of Yekaterinoslavka mechanically
 destroyed three hectares of narcotic-containing vegetation. [@1] The second
 account identifies the unit as drug-control officers of the Oktyabrsky
@@ -74,7 +79,6 @@ intermunicipal police department acting jointly with military security
 officials. [@2]
 
 Police said heavy vehicles can treat large areas quickly and rule out regrowth
-because the plants are ground up together with their root systems. [@1] The
+because the plants are ground up together with their root systems. [@1,3] The
 raids aim to deprive illegal plant-based drug production of its raw-material
 base and improve the district's drug situation. [@1]
-
