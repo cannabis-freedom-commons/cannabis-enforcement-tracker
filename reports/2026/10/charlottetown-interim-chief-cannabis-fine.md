@@ -42,21 +42,29 @@ sources:
     url: https://www.cbc.ca/news/canada/prince-edward-island/pei-charlottetown-interim-police-chief-cannabis-fine-9.7401788
     publisher: CBC News
     date: 2026-10-29
+  - title: Charlottetown's interim police chief fined $200 for buying unauthorized First Nations cannabis
+    url: https://www.saltwire.com/prince-edward-island/charlottetown-interim-police-chief-fined-for-buying-unauthorized-first-nations-cannabis
+    publisher: The Guardian (SaltWire)
+    date: 2026-11-09
 open_questions:
   - The article gives no exact day for the July fine, only that it came about a year after the July 2025 purchase and in July shortly after MacDougall became interim chief; 29 October 2026 is the publication date and is used as the incident date.
   - No quantity or weight of the cannabis product purchased was published.
   - No court location, hearing date, or ticket number beyond the court records and guilty plea was reported.
   - A second independent account of the fine could not be opened, so this report rests on the single CBC account.
   - The page's images show MacDougall in an interview setting rather than the purchase or enforcement itself, so no media entry is included.
+  - The Guardian gives no date for the ticket or the fine and does not mention July 2025, the date used in the existing report; its 9 November 2026 publication date is not the incident date.
+  - The Guardian does not say whether MacDougall faced any workplace discipline; the city declined to comment on personnel matters.
+  - No quantity or weight of the cannabis products purchased is given, and the article describes purchases without naming a specific product (the existing report records flower).
+  - The Guardian places the store in Scotchfort, while the existing report places it on Abegweit First Nation; Scotchfort is a community of Abegweit First Nation, and both descriptions are retained.
 ---
 
 Charlottetown interim police chief Darren MacDougall was fined under Prince
 Edward Island's Cannabis Control Act for buying cannabis product from an
-unregulated store. [@1] In July 2025 he bought cannabis product from an
+unregulated store. [@1,2] In July 2025 he bought cannabis product from an
 unregulated store on Abegweit First Nation while the store was under
-investigation by the RCMP. [@1] About a year later court records show the RCMP
+investigation by the RCMP. [@1,2] About a year later court records show the RCMP
 fined him $200 under the provincial Act, and he pleaded guilty and paid the
-fine. [@1] The fine came in July shortly after he became interim chief, and he
+fine. [@1,2] The fine came in July shortly after he became interim chief, and he
 said he informed city officials immediately. [@1]
 
 MacDougall said he stopped at Mniku Trading Post while driving east to play golf
@@ -77,3 +85,4 @@ a permanent police chief for more than a year. [@1] MacDougall, a member of
 Charlottetown police for three decades, said he has interviewed for the
 permanent job and wants it. [@1]
 
+MacDougall named Mniku Trading Post in Scotchfort as the store where he bought the cannabis. [@2] MacDougall said he exercised poor judgment and sincerely apologizes. [@2] The city's human resources department declined to discuss individual personnel matters when asked whether MacDougall faced discipline, citing individual privacy and confidentiality. [@2] The P.E.I. government's cannabis policy webpage says provincial law restricts sales to the P.E.I. Cannabis Management Corporation through its P.E.I. Cannabis stores and online store. [@2]
