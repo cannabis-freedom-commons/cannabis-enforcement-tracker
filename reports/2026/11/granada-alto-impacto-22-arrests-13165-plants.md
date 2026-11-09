@@ -136,6 +136,11 @@ sources:
     publisher: Costa Digital
     date: 2026-11-09
     language: es
+  - title: Sucesos.- Detenidas 22 personas e intervenidas más de 13.000 plantas de marihuana y 3,3 kilos de cocaína rosa
+    url: https://www.msn.com/es-es/noticias/otras/sucesos-detenidas-22-personas-e-intervenidas-m%C3%A1s-de-13000-plantas-de-marihuana-y-33-kilos-de-coca%C3%ADna-rosa/ar-AA2gZDUp
+    publisher: Europa Press (via MSN)
+    date: 2026-11-08
+    language: es
 open_questions:
   - Bud weight is reported as more than 24 kilos, so the recorded cannabis total of 25.613 kg is a stated minimum combining 24 kg of buds and 1.613 kg of hashish.
   - The Loja seizure is written as 11.605 kilos; it is read as 11.605 kg, consistent with the reported total of more than 24 kilos of buds.
@@ -163,20 +168,21 @@ open_questions:
   - The submitted page is Europa Press's text republished by MSN and credits the same Guardia Civil statement already cited, so it is not independent reporting of the figures.
   - The MSN page's lead image has no caption tying it to a specific seizure, so no new media entry is added for it.
   - The submitted page is Moncloa's text republished by MSN and credits the same Comandancia de Granada statement already used in the report, so it is not an independent account of the figures.
+  - The page gives no publication date beyond a relative timestamp ('1 día(s)'), so 8 November 2026 is taken from the page metadata.
 ---
 
 Granada's Guardia Civil carried out a special operation between 3 and 5 November
 against drug cultivation, storage and sale across the province. [@1,2,3,5,6,10,11] Officers
-arrested 22 people during the three-day operation. [@1,2,3,5,6,9,10,11,12] The action was part of
+arrested 22 people during the three-day operation. [@1,2,3,5,6,9,10,11,12,15] The action was part of
 the provincial command's Servicio de Alto Impacto against drug trafficking and
-related crime. [@1,10,12]
+related crime. [@1,10,12,15]
 
 Across 13 police operations and 33 searches, officers seized 13,165 marijuana
 plants, more than 24 kilos of marijuana buds, 1,613 grams of hashish, 3,328
-grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5,6,7,8,9,10,11,12,13] They also recovered an air
-rifle, ammunition and 19,831 euros in cash. [@1,8,10,12] In Pulianas, two people were
+grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5,6,7,8,9,10,11,12,13,15] They also recovered an air
+rifle, ammunition and 19,831 euros in cash. [@1,8,10,12,15] In Pulianas, two people were
 detained with 3,328 grams of pink cocaine and 4,506 grams of vacuum-packed
-marijuana buds. [@1,9,12] In Loja, five people were detained in three searches of
+marijuana buds. [@1,9,12,15] In Loja, five people were detained in three searches of
 storage and preparation premises, with 11.605 kilos of marijuana buds and 19,831
 euros seized, while three more arrests remained pending. [@1,3] On the third day,
 searches in Illora, Obeilar and Tocon yielded 1,062 marijuana plants. [@1] In
@@ -195,9 +201,9 @@ including two Dutch nationals. [@1,8,14] Officers found several indoor grows
 illegally connected to the electricity grid, creating a safety risk for
 buildings and occupants. [@1]
 
-At least 11 more people were under investigation for alleged offences against public health, electricity fraud and document forgery. [@3,5,7,8,9,12,14] The Loja investigation was described as a network storing, transporting and distributing large marijuana consignments to other parts of Spain and abroad. [@4]
+At least 11 more people were under investigation for alleged offences against public health, electricity fraud and document forgery. [@3,5,7,8,9,12,14,15] The Loja investigation was described as a network storing, transporting and distributing large marijuana consignments to other parts of Spain and abroad. [@4]
 
-One detained person was investigated for using Italian documents while subject to an Italian-issued Schengen entry ban. [@5,9,12,14]
+One detained person was investigated for using Italian documents while subject to an Italian-issued Schengen entry ban. [@5,9,12,14,15]
 
 The operations were carried out by investigation units of the Granada command, including the ROCA teams, crime-scene inspection teams and the Alto Impacto operational group, supported in the searches by the command's citizen-security unit (USECIC). [@7]
 
@@ -207,4 +213,4 @@ The Correo de Andalucía account, written by Rafa Aranda, gives the figures as r
 
 The Granada command's Alto Impacto service ran 13 police operations on 3, 4 and 5 November, the three days of the sweep. [@13]
 
-The Guardia Civil described the balance as provisional: 22 people detained and at least 11 under investigation, with further arrests not ruled out. [@14]
+The Guardia Civil described the balance as provisional: 22 people detained and at least 11 under investigation, with further arrests not ruled out. [@14,15]
