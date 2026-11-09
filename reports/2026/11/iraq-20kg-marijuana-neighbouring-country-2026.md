@@ -122,6 +122,9 @@ open_questions:
   - The header image on both pages shows Iraqi drug pills in a police display and has no caption establishing that it depicts this marijuana seizure, so it is not recorded as media.
   - The belbalady.net capture holds only the headline and a teaser; the article body was not in the opened page, so quotations come from the Sky News Arabia and Iraqi News Agency accounts of the same statement.
   - The neighbouring country where the 20 kg of marijuana was seized and the dates of the operations remain unnamed and unspecified.
+  - The reprint gives no separate date for the 20 kg marijuana seizure or for the seven-country operations; its own timestamp is 2 November 2026, the same day as the Iraqi News Agency original.
+  - The reprint reproduces the Iraqi News Agency text, so it is not independent reporting of the seizures.
+  - The page carries one uncaptioned header image, so nothing establishes that it shows these seizures and no media entry is added.
 ---
 
 Iraq's General Directorate for Narcotics and Psychotropic Substances director
