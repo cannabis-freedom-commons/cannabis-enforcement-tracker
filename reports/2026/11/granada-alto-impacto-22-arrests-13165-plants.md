@@ -131,6 +131,11 @@ sources:
     publisher: Moncloa (via MSN)
     date: 2026-11-08
     language: es
+  - title: La Guardia Civil detiene a 22 personas e interviene más de 13.000 plantas de marihuana y 3,3 kilos de cocaína rosa
+    url: https://costadigital.es/la-guardia-civil-detiene-a-22-personas-e-interviene-mas-de-13-000-plantas-de-marihuana-y-33-kilos-de-cocaina-rosa/
+    publisher: Costa Digital
+    date: 2026-11-09
+    language: es
 open_questions:
   - Bud weight is reported as more than 24 kilos, so the recorded cannabis total of 25.613 kg is a stated minimum combining 24 kg of buds and 1.613 kg of hashish.
   - The Loja seizure is written as 11.605 kilos; it is read as 11.605 kg, consistent with the reported total of more than 24 kilos of buds.
@@ -186,13 +191,13 @@ Alhendin, seven searches yielded 5,701 marijuana plants, 1,613 grams of hashish,
 34 grams of cocaine and 75 grams of dried buds. [@1,8]
 
 The Loja investigation remained open, with three more people pending arrest,
-including two Dutch nationals. [@1,8] Officers found several indoor grows
+including two Dutch nationals. [@1,8,14] Officers found several indoor grows
 illegally connected to the electricity grid, creating a safety risk for
 buildings and occupants. [@1]
 
-At least 11 more people were under investigation for alleged offences against public health, electricity fraud and document forgery. [@3,5,7,8,9,12] The Loja investigation was described as a network storing, transporting and distributing large marijuana consignments to other parts of Spain and abroad. [@4]
+At least 11 more people were under investigation for alleged offences against public health, electricity fraud and document forgery. [@3,5,7,8,9,12,14] The Loja investigation was described as a network storing, transporting and distributing large marijuana consignments to other parts of Spain and abroad. [@4]
 
-One detained person was investigated for using Italian documents while subject to an Italian-issued Schengen entry ban. [@5,9,12]
+One detained person was investigated for using Italian documents while subject to an Italian-issued Schengen entry ban. [@5,9,12,14]
 
 The operations were carried out by investigation units of the Granada command, including the ROCA teams, crime-scene inspection teams and the Alto Impacto operational group, supported in the searches by the command's citizen-security unit (USECIC). [@7]
 
@@ -201,3 +206,5 @@ The two men detained in Pulianas were held by officers of the investigation area
 The Correo de Andalucía account, written by Rafa Aranda, gives the figures as reported by Europa Press. [@11]
 
 The Granada command's Alto Impacto service ran 13 police operations on 3, 4 and 5 November, the three days of the sweep. [@13]
+
+The Guardia Civil described the balance as provisional: 22 people detained and at least 11 under investigation, with further arrests not ruled out. [@14]
