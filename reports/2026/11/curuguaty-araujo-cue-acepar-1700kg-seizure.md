@@ -32,6 +32,11 @@ media:
     media_url: https://statics.elnacional.com.py/2026/11/crop/6ae8660d0341a__990x520.webp
     publisher: El Nacional
     caption: Photo captioned 'Persecución y balacera', credited only as 'Gentileza', published with the report on the pursuit and the abandoned marijuana load.
+  - kind: photo
+    url: https://www.hoy.com.py/nacionales/2026/11/02/tras-persecucion-abandonan-1700-kilos-de-marihuana-en-canindeyu
+    media_url: https://www.lanacion.com.py/resizer/v2/PDY2G5GOIZHCRGINHIFWLRNNYM.jpg?auth=c035ca12bd86f1e5c4398414e9cd54bb4fcac42d00083b22158b3aa4c3088c86&width=760&height=420&smart=true
+    publisher: Diario HOY
+    caption: 'The seized load of pressed marijuana from the pursuit near Araujo Cué. Page caption: ''La carga incautada''.'
 details:
   activity: [trafficking]
   agency_types: [police]
@@ -64,29 +69,38 @@ sources:
     publisher: El Nacional
     date: 2026-11-02
     language: es
+  - title: Tras persecución, abandonan 1.700 kilos de marihuana en Canindeyú
+    url: https://www.hoy.com.py/nacionales/2026/11/02/tras-persecucion-abandonan-1700-kilos-de-marihuana-en-canindeyu
+    publisher: Diario HOY
+    date: 2026-11-02
+    language: es
 open_questions:
   - The articles give only the publication date of 2 November 2026 and no separate day for the pursuit and seizure.
   - La Tribuna reports 162 packages while Última Hora reports 152 packages with the “Tropado para nunca” inscription; the report uses the weights, on which both agree.
   - No occupant was identified or detained, and no court outcome is reported.
   - El Nacional captions its photo only 'Persecución y balacera' with the credit 'Gentileza' (courtesy), so it is not stated who took it or whether it shows the seized load or the pursuit itself.
   - El Nacional describes the episode as a 'balacera' (shootout) in its photo caption, while the earlier reports describe officers firing intimidating shots.
+  - The Diario HOY photo captioned only 'La carga incautada' gives no credit, so it is not stated who took it.
+  - Diario HOY gives 1,700 kilos as a rounded total that matches the 1,699.9 kg already recorded; its 3 kg skunk figure is reported separately and is not added to that total again.
 ---
 
 Agents of the Specialized Department Against Drug Trafficking and Related
 Crimes, Canindeyú divisional unit, Section No. 1 Curuguaty, carried out an
 operation under the SUMAR anti-drug action plan on a rural road on the boundary
 between Araujo Cué and Acepar. [@1] During the operation, after a pursuit, the
-occupants abandoned a white Toyota Hilux with plate WHFS 499. [@1,3] Antinarcotics
+occupants abandoned a white Toyota Hilux with plate WHFS 499. [@1,3,4] Antinarcotics
 officers fired intimidating shots, forcing the occupants to leave the vehicle
 and flee on foot into a wooded zone. [@2] No one was detained in the procedure.
 [@1]
 
 Officers seized 162 packages of suspected pressed marijuana weighing 1,696.9
 kilograms, plus 3 kilograms of suspected skunk-type marijuana, along with the
-vehicle. [@1,3] Última Hora described the load as 152 packages stamped with
+vehicle. [@1,3,4] Última Hora described the load as 152 packages stamped with
 “Tropado para nunca” alongside Paraguayan and Brazilian flags. [@2] Police put
-the estimated economic loss at G. 516,400,000. [@1] All proceedings and the
+the estimated economic loss at G. 516,400,000. [@1,4] All proceedings and the
 seized evidence were placed at the disposal of the competent authorities. [@1]
 
 Investigators are working to determine the load’s origin and possible links to
 criminal networks trafficking drugs in Paraguay and Brazil. [@2]
+
+Anti-drug prosecutor Juan Bentas led the procedure. [@4] The prosecutor of the Specialised Anti-Trafficking Unit in Curuguaty ordered the seizure of the vehicle and the load found. [@4]
