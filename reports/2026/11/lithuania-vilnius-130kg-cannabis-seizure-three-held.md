@@ -58,6 +58,16 @@ media:
     media_url: https://tv3cdn.lv/thumbnails/1920x1920x1/2026/11/fbbc-6af1b9232b6a9-scaled.jpg
     publisher: tv3.lv
     caption: 'First of nine images in the tv3.lv gallery accompanying its report on the 130 kg cannabis seizure, after the Latvian article: the substances and firearm recovered, credited to the Vilnius county police. Photo: Viļņas apgabala Galvenās policijas pārvalde (Vilnius County Police Headquarters)'
+  - kind: video
+    url: https://vilniaus.diena.lt/naujienos/vilnius/nusikaltimai-ir-nelaimes/smugis-lietuvos-narkomafijai-konfiskuota-130-kg-kanapiu-ir-kristalu-siunta-1782404
+    media_url: https://www.youtube.com/embed/3Oyg4l7noNw
+    publisher: Diena.lt
+    caption: 'Police video embedded in the Diena.lt report on the Vilnius county police operation and the seized cannabis, 3-CMC and firearm. Credit: Lithuanian Police (Lietuvos policijos nuotr.)'
+  - kind: photo
+    url: https://vilniaus.diena.lt/naujienos/vilnius/nusikaltimai-ir-nelaimes/smugis-lietuvos-narkomafijai-konfiskuota-130-kg-kanapiu-ir-kristalu-siunta-1782404
+    media_url: https://administravimas.diena.lt/sites/default/files-sync/styles/image_default_gallery/public/2026-11/BeFunky-collage%20%283%29_1.jpg?v=4b913ee0043baf826794
+    publisher: Diena.lt
+    caption: 'Lead image of the ten-photo police gallery on the Diena.lt report on the 130 kg cannabis seizure. Photo: Lietuvos policijos nuotr. (Lithuanian Police)'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9fc4be3ae210e315bf9a7d2089c2a2e3
@@ -83,6 +93,11 @@ sources:
     publisher: tv3.lv
     date: 2026-11-09
     language: lv
+  - title: 'Smūgis Lietuvos narkomafijai: konfiskuota 130 kg kanapių ir „kristalų“ siunta'
+    url: https://vilniaus.diena.lt/naujienos/vilnius/nusikaltimai-ir-nelaimes/smugis-lietuvos-narkomafijai-konfiskuota-130-kg-kanapiu-ir-kristalu-siunta-1782404
+    publisher: Diena.lt
+    date: 2026-11-09
+    language: lt
 open_questions:
   - The sources give “about 130 kilograms” of cannabis rather than a measured weight, and do not say whether it was dried flower or another cannabis product.
   - No exact date is given for the searches and detentions; the operation is dated to 3 November 2026 in the police statement, while the accounts were published on 9 November.
@@ -97,13 +112,16 @@ open_questions:
   - The tv3.lv article cites the Lithuanian outlet Lrytas and adds no independent reporting beyond the police statement.
   - tv3.lv gives only about 130 kilograms of cannabis and does not say whether it was dried flower or another product.
   - The page shows nine police gallery images, credited to the Vilnius county police headquarters, but captions do not say which premises, vehicle or forest cache each one depicts; only the first is listed as media.
+  - The embedded video is a YouTube-hosted police clip whose own footage and narration were not opened; only the embed address was found in the page.
+  - The ten-image gallery is credited only to the Lithuanian Police, with no captions saying which vehicle, home or forest cache each photo shows.
+  - The article dates the operation only to “last week” and gives no separate date for the searches; 3 November 2026 is already recorded from other accounts of the police statement.
 ---
 
 Officers of the organised-crime unit of the Vilnius county police struck a
 shadow drug-distribution network on 3 November, Vilnius county police said on
 Monday. [@2] After searches in Vilnius and Šiauliai, three people suspected of
 unlawful possession of a very large quantity of narcotic and psychotropic
-substances were detained. [@1,3,4]
+substances were detained. [@1,3,4,5]
 
 Police said they took about 130 kilograms of cannabis, one of the largest
 cannabis consignments in Lithuania's history. [@1,3,4] The searches also turned up
