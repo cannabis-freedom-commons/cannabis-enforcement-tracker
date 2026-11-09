@@ -248,7 +248,20 @@ Counters from the database (`_total` from submissions, runs, commits) count ever
 start of the tracker. Counters of HTTP requests and worker jobs start again when the backend or
 the worker restarts. Grafana's `increase()` and `rate()` handle both.
 
-Useful panels:
+### Grafana dashboard
+
+`deploy/grafana/cet-dashboard.json` is a ready dashboard with these figures: an overview (research
+ready, workers online, queue and oldest wait, reports, cost, failed runs, budget, dead jobs), the
+queue and intake, research (outcomes, runs, cost and tokens by model, run times, budget), the
+workers (a table of each worker, running jobs against ready slots, finished jobs by result, agents)
+and the backend (API traffic, errors, response times, memory, database size).
+
+In Grafana: Dashboards → New → Import, upload the file, and pick your Prometheus data source in
+the "Prometheus" selector at the top. Or provision it from that folder like any dashboard file. Its
+counters over a range use the selected time range (`$__range`), so "Reports committed" says how
+many were committed in the last 7 days when the range is 7 days.
+
+The queries behind it, for panels of your own:
 
 - Reports committed per day: `increase(tracker_reports_committed_total[1d])`
 - Submissions per hour by origin: `sum by (origin) (increase(tracker_submissions_total[1h]))`
