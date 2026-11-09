@@ -91,6 +91,11 @@ sources:
     publisher: ToledoDiario
     date: 2026-11-09
     language: es
+  - title: 'Más de 1.000 plantas de marihuana y un enganche ilegal de luz: detenido en Castilla-La Mancha'
+    url: https://www.eldigitaldealbacete.com/2026/11/09/mas-de-1-000-plantas-de-marihuana-y-un-enganche-ilegal-de-luz-detenido-en-castilla-la-mancha/
+    publisher: El Digital de Albacete
+    date: 2026-11-09
+    language: es
 open_questions:
   - 'The reports give only the months of the police steps: the investigation began in August 2026, the warehouse search took place in September and the arrest in October; 15 September is used only to place the search mid-month.'
   - No exact day for the search, the arrest or the investigation start was published.
@@ -100,28 +105,31 @@ open_questions:
   - ABC gives the buds as nearly 100 kilograms, against the 100 grams previously read from ENCLM; the sources do not reconcile the two and the report keeps the earlier figure pending a police statement.
   - CLM24 says about 100 kilograms of buds were removed, matching ABC but not ENCLM, whose 100 grams the report still uses; the two figures remain unreconciled.
   - 'Only the months are given for the police steps: the investigation began in August 2026, the warehouse search was in September and the arrest in October, so no exact day is published.'
+  - The page gives only the months of the police steps (investigation in August, search in September, arrest in October), so it supplies no exact days to replace the existing report's estimated date for the search.
 ---
 
 Spain's National Police dismantled a cannabis plantation in the industrial
 estate of Olías del Rey, Toledo province, and arrested the man accused of
 running it in the nearby town of Illescas. [@1,4,5,6,7] He was held on suspicion of drug
-trafficking and of defrauding the electricity supply. [@1,4,5,7] The National Police
-said the arrest took place in Illescas. [@2]
+trafficking and of defrauding the electricity supply. [@1,4,5,7,8] The National Police
+said the arrest took place in Illescas. [@2,8]
 
 Officers began the investigation in August after information pointed to a
-cannabis crop somewhere in the industrial estate of Olías del Rey. [@1,5] They
-searched the warehouse in September and seized 1,003 cannabis plants. [@1,3,4,5] About
+cannabis crop somewhere in the industrial estate of Olías del Rey. [@1,5,8] They
+searched the warehouse in September and seized 1,003 cannabis plants. [@1,3,4,5,8] About
 100 grams of cannabis buds were also taken out of the illegal market. [@1,6]
 Nobody was inside the unit during the search, and the investigation continued
-until the suspect was identified. [@1,5]
+until the suspect was identified. [@1,5,8]
 
 Those running the crop had built a sealed, climate-controlled partition of
-plasterboard inside the industrial building to optimise plant growth. [@1,5,6]
+plasterboard inside the industrial building to optimise plant growth. [@1,5,6,8]
 Police also found an illegal hook-up to the public power grid, used to avoid the
-cost of the large amount of electricity the plantation demanded. [@1,3,5,6]
+cost of the large amount of electricity the plantation demanded. [@1,3,5,6,8]
 
 ABC reports that officers found nearly 100 kilograms of cannabis buds already prepared for distribution in the illicit market. [@4] Nobody connected with the crop was inside the industrial unit when officers searched it, and the investigation stayed open to identify those responsible. [@4]
 
-The suspect was identified and arrested in Illescas in October, the police month given for that step. [@5]
+The suspect was identified and arrested in Illescas in October, the police month given for that step. [@5,8]
 
 Officers searched the warehouse in September and seized the 1,003 plants, then identified and arrested the suspect in October, the Toledo provincial police station said. [@6]
+
+The National Police announced the Olías del Rey seizure in a press release. [@8]
