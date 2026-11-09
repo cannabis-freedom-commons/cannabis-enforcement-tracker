@@ -131,19 +131,19 @@ open_questions:
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,5,6,7] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
-three suspects were running a narcotics production and trading operation. [@2,7]
+three suspects were running a narcotics production and trading operation. [@2,4,7]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,6,7]
+the air-conditioning system and various materials. [@2,4,6,7]
 
 The three suspects were taken into custody, and the ministry named no further
 court step. [@2]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2,6,7]
+anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7]
 TRT Haber reported that the three suspects were held in gözaltı, the police
 custody in which a person is questioned while prosecutors decide on charges or
 release. [@3]
