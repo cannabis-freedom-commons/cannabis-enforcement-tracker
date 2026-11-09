@@ -57,6 +57,11 @@ sources:
     publisher: إقرأ نيوز
     date: 2026-11-04
     language: ar
+  - title: السجن المشدد 6 سنوات لـ4 متهمين بتجارة المخدرات في سوهاج
+    url: https://ekhbary24.com/article/46994
+    publisher: إخباري 24 نيوز
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No weight was published for the hashish portion, so no cannabis quantity is recorded and the shabu and methamphetamine are excluded from cannabis figures.
   - The article gives no separate date for the sentence hearing; 4 November 2026 is its publication date and is used as the incident date.
@@ -66,13 +71,14 @@ open_questions:
   - Only one accessible source for this event was found after searching in Arabic.
   - The page photo is captioned only with the headline and is not established to show this arrest, seizure or hearing, so no media entry is included.
   - No appeal or further court outcome was reported.
+  - This report was published on 9 November 2026, five days after the earlier coverage; the sentence hearing date itself is still not stated.
 ---
 
 The Sohag Criminal Court sentenced four defendants to six years of rigorous
 imprisonment for drug trafficking in Al-Balina markaz in Sohag Governorate. [@1,2,3]
-The court fined each of the four defendants 100,000 Egyptian pounds. [@1,2,3] The
+The court fined each of the four defendants 100,000 Egyptian pounds. [@1,2,3,4] The
 trafficking conviction covered shabu, methamphetamine essence and hashish, with
-hashish as the cannabis component recorded here. [@1,2,3]
+hashish as the cannabis component recorded here. [@1,2,3,4]
 
 The case dates to 2026, when investigations by detectives at the Balina station
 indicated that the four men were trading and promoting drugs in the district.
@@ -82,6 +88,6 @@ checks confirmed information received from a secret source, security forces
 arrested the defendants with a quantity of drugs prepared for sale. [@1,2,3]
 
 When confronted, the defendants admitted that they possessed the drugs for the
-purpose of trafficking. [@1,2] Authorities then completed the required legal
+purpose of trafficking. [@1,2,4] Authorities then completed the required legal
 procedures and referred the case to the criminal court, which issued the
 sentence. [@1,2]
