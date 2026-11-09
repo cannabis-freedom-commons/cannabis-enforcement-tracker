@@ -9,8 +9,8 @@ machine (`npm run worker`, see [WORKERS.md](WORKERS.md)).
 the public base images. The container:
 
 - keeps its database and job storage in `backend/data/` of the clone;
-- commits new reports into the clone itself and pushes them to GitHub with your SSH key
-  (`~/.ssh`, mounted read-only);
+- commits new reports into the clone itself and pushes them to GitHub with a deploy key
+  (your `~/.ssh`, mounted read-only);
 - keeps the clone level with GitHub: it pulls before each commit and every five minutes
   (`REPO_SYNC`), so other people's pushes never block its own;
 - listens on `127.0.0.1:7706` for the web server in front of it, which serves HTTPS;
@@ -25,20 +25,45 @@ and add your user to the `docker` group (`sudo usermod -aG docker $USER`, then l
 Point DNS for `tracker-api.cannabisfreedom.fyi` (an A record, and AAAA if the server has IPv6) at
 the server.
 
-Put your SSH key on the server, add its public key to your GitHub account, and check it once.
-This also adds github.com to `~/.ssh/known_hosts`, which the container needs:
+The backend pushes with a deploy key: an SSH key that may write to this one repository. Make it
+on the server, as the user who will own the clone, without a passphrase (the container cannot
+type one):
 
 ```bash
-ssh -T git@github.com
+ssh-keygen -t ed25519 -N "" -C "cet-backend" -f ~/.ssh/cet_deploy
 ```
+
+Add `~/.ssh/cet_deploy.pub` to the repository on GitHub (Settings → Deploy keys → Add deploy key)
+and tick **Allow write access**. Then give it a host name of its own in `~/.ssh/config`, so other
+GitHub keys on the machine are left alone:
+
+```
+Host github-cet
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/cet_deploy
+  IdentitiesOnly yes
+```
+
+Check it once. This also adds github.com to `~/.ssh/known_hosts`, which the container needs:
+
+```bash
+ssh -T github-cet
+```
+
+The container runs as the same user, with home `/home/tracker`, and `~/.ssh` is mounted there
+read-only. So the same config, key and known_hosts work inside it.
 
 ## 2. Clone the repository
 
-Clone it over SSH, so pushes use the key:
+Clone it through that host name, so pushes use the deploy key:
 
 ```bash
 sudo mkdir -p /corn/cannabis-freedom-commons && sudo chown $USER: /corn/cannabis-freedom-commons
-git clone git@github.com:cannabis-freedom-commons/cet.git /corn/cannabis-freedom-commons/cet
+```
+
+```bash
+git clone git@github-cet:cannabis-freedom-commons/cet.git /corn/cannabis-freedom-commons/cet
 ```
 
 ```bash
@@ -49,7 +74,8 @@ cd /corn/cannabis-freedom-commons/cet
 
 Two files in the clone hold the settings. Both are ignored by git.
 
-`.env` is for compose itself: whose files the container writes as.
+`.env` is for compose itself: the user the container runs as, so its files and commits are yours
+(after changing it, rebuild with `docker compose up -d --build`).
 
 ```bash
 printf 'TRACKER_UID=%s\nTRACKER_GID=%s\n' "$(id -u)" "$(id -g)" > .env

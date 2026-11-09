@@ -19,8 +19,14 @@ RUN cd /tmp && npm install --prefix / --no-save --no-package-lock --no-audit --n
       $(node -p 'const p=require("/tmp/package-lock.json").packages; ["sharp","js-yaml","thumbhash"].map(n=>n+"@"+p["node_modules/"+n].version).join(" ")') \
  && npm cache clean --force && rm /tmp/package-lock.json
 COPY --from=build /tracker /usr/local/bin/tracker
-# The container runs as the owner of the checkout (compose.yaml); this home holds their SSH key.
-RUN mkdir -p /home/tracker && chmod 1777 /home/tracker
+# The container runs as the owner of the checkout (their ids from .env), so its commits and data
+# stay theirs. ssh finds its config, key and known_hosts through this user's home, where compose
+# mounts their ~/.ssh.
+ARG TRACKER_UID=1000
+ARG TRACKER_GID=1000
+RUN userdel node && (getent group "$TRACKER_GID" >/dev/null || groupadd -g "$TRACKER_GID" tracker) \
+ && useradd -o -u "$TRACKER_UID" -g "$TRACKER_GID" -d /home/tracker -m -s /bin/sh tracker
+USER tracker
 ENV HOME=/home/tracker
 EXPOSE 8080
 ENTRYPOINT ["tracker"]

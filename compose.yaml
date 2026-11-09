@@ -8,11 +8,13 @@ services:
     build:
       context: .
       dockerfile: deploy/backend.Dockerfile
+      # the owner of this checkout (.env), so the reports it commits and its data stay theirs
+      args:
+        TRACKER_UID: ${TRACKER_UID:-1000}
+        TRACKER_GID: ${TRACKER_GID:-1000}
     restart: unless-stopped
     init: true
     stop_grace_period: 30s
-    # the owner of this checkout, so the reports it commits and its data stay theirs (.env)
-    user: "${TRACKER_UID:-1000}:${TRACKER_GID:-1000}"
     env_file: .env.backend
     environment:
       HTTP_ADDR: 0.0.0.0:8080
@@ -29,7 +31,7 @@ services:
     volumes:
       - .:/repo
       - ./backend/data:/data
-      # the key the checkout pushes with, and its known_hosts
+      # the owner's SSH config, deploy key and known_hosts, for pushing
       - ${SSH_DIR:-${HOME}/.ssh}:/home/tracker/.ssh:ro
     # for the web server in front of it (tracker-api.cannabisfreedom.fyi → 127.0.0.1:7706)
     ports:
