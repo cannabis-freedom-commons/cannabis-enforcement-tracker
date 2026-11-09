@@ -40,10 +40,14 @@ export function timelineTooltip(box, types) {
     tooltip.append(line("span", button.getAttribute("aria-pressed") === "true" ? "Selected · click again to clear" : `Click to filter this ${button.dataset.period}`, "timeline-tooltip-hint"));
     tooltip.hidden = false;
     button.setAttribute("aria-describedby", tooltip.id);
-    const bar = button.getBoundingClientRect(), tip = tooltip.getBoundingClientRect();
+    // under the whole chart, lined up with the bar, so it covers neither the bars nor the page
+    // above them; above the chart when the window has no room below it
+    const bar = button.getBoundingClientRect(), chart = box.getBoundingClientRect(), tip = tooltip.getBoundingClientRect();
     const left = Math.max(12, Math.min(window.innerWidth - tip.width - 12, bar.left + bar.width / 2 - tip.width / 2));
-    const above = bar.top - tip.height - 10;
-    const top = Math.max(12, Math.min(window.innerHeight - tip.height - 12, above >= 12 ? above : bar.bottom + 10));
+    // the year labels may hang below the bars' box
+    const labels = box.querySelector(".months-axis")?.getBoundingClientRect();
+    const below = Math.max(chart.bottom, labels?.bottom ?? 0) + 10, above = chart.top - tip.height - 10;
+    const top = below + tip.height <= window.innerHeight - 12 || above < 12 ? Math.min(below, window.innerHeight - tip.height - 12) : above;
     tooltip.style.left = `${left}px`;
     tooltip.style.top = `${top}px`;
   };
