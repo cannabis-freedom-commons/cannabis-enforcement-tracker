@@ -76,6 +76,7 @@ details:
         - {product: flower}
     activity: [smuggling, trafficking]
     setting: [airport]
+    route: {from: [gb], to: [mu]}
     charges: [perverting the course of justice]
     case_stage: charged
 data_sources:
@@ -85,6 +86,7 @@ data_sources:
     details.charges: [6]
     details.products: [3]
     details.setting: [3]
+    details.route: [1, 2]
     figures.arrested: [3]
     figures.charged: [3]
     figures.kg_seized: [1, 2]

@@ -14,10 +14,12 @@ details:
   agency_types: [anti-narcotics, prosecutor]
   products: [{product: flower}]
   setting: [airport, vehicle, mail]
+  route: {from: [us/fl], to: [do]}
 data_sources:
   details.agency_types: [1]
   details.products: [1]
   details.setting: [1]
+  details.route: [1]
 media:
   - kind: photo
     url: https://www.infobae.com/republica-dominicana/2026/09/20/autoridades-dominicanas-incautaron-11-paquetes-de-presunta-marihuana-oculta-en-un-mueble-enviado-desde-miami/

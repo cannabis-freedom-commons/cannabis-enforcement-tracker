@@ -24,6 +24,7 @@ details:
   products:
     - {product: hashish}
   setting: [vehicle, home, mail]
+  route: {from: [fr], to: [be]}
 data_sources:
   details.activity: [3]
   details.agency_types: [1, 3]
@@ -31,6 +32,7 @@ data_sources:
   details.date_precision: [3]
   details.products: [1]
   details.setting: [3, 1, 2]
+  details.route: [1]
   figures.arrested: [2, 1, 3]
   figures.kg_seized: [2, 1]
 status: verified

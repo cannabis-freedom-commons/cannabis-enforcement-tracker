@@ -13,7 +13,10 @@ summary: >-
   Incheon prosecutors indicted an 18-year-old woman without detention on 18 October 2019, accusing her of smuggling liquid cannabis cartridges and other drugs into Incheon International Airport on a flight from Honolulu. A court had refused a detention warrant, and the case went to Incheon District Court with no hearing date set.
 figures:
   charged: 1
+details:
+  route: {from: [us], to: [kr]}
 data_sources:
+  details.route: [2]
   figures.charged: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -26,6 +26,7 @@ details:
     - {product: flower, kg: 54}
   activity: [smuggling, trafficking, sale, money]
   setting: [vehicle, port, mail]
+  route: {from: [gb], to: [im]}
   period: {start: 2022-02-01, end: 2022-10-31}
   date_precision: publication
   region: Isle of Man
@@ -36,6 +37,7 @@ data_sources:
   details.period: [1]
   details.products: [1]
   details.setting: [1]
+  details.route: [1]
   figures.arrested: [1]
   figures.convicted: [1]
   figures.kg_seized: [1]

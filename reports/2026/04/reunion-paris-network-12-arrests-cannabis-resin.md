@@ -32,6 +32,7 @@ details:
   products:
     - {product: hashish}
   setting: [airport, prison]
+  route: {from: [fr], to: [re]}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
@@ -39,6 +40,7 @@ data_sources:
   details.date_precision: [1, 2]
   details.products: [1]
   details.setting: [1, 2]
+  details.route: [1, 2]
   figures.arrested: [1, 2]
   figures.charged: [1, 2]
   figures.kg_seized: [1, 2]

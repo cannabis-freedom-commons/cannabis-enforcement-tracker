@@ -24,6 +24,7 @@ details:
     - {product: flower, kg: 0.03276}
   activity: [smuggling]
   setting: [airport]
+  route: {from: [us/ny], to: [bz]}
   charges: [importation of a controlled drug]
   case_stage: sentenced
   sentence_types: [fine]
@@ -37,6 +38,7 @@ data_sources:
   details.charges: [2]
   details.products: [1]
   details.sentence_types: [1]
+  details.route: [2]
   details.setting: [2]
   figures.arrested: [3]
   figures.charged: [2]

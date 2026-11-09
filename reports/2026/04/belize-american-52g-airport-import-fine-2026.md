@@ -23,6 +23,7 @@ details:
   products:
     - {product: flower, kg: 0.052}
   setting: [airport]
+  route: {from: [us/ga], to: [bz]}
   case_stage: sentenced
   sentence_types: [fine]
   date_precision: exact
@@ -34,6 +35,7 @@ data_sources:
   details.products: [2]
   details.sentence_types: [2]
   details.setting: [1]
+  details.route: [2]
   figures.arrested: [2]
   figures.fine: [2]
   figures.kg_seized: [2]

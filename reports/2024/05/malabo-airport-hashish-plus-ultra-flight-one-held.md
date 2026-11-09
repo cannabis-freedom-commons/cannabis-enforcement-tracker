@@ -20,6 +20,7 @@ details:
     - {product: hashish}
   activity: [smuggling]
   setting: [airport]
+  route: {from: [es], to: [gq]}
   case_stage: investigation
   date_precision: approximate
   region: Bioko Norte
@@ -30,6 +31,7 @@ data_sources:
   details.case_stage: [1]
   details.products: [1]
   details.setting: [1]
+  details.route: [1]
   figures.arrested: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh

@@ -30,6 +30,7 @@ details:
     - {product: flower, kg: 20}
   activity: [smuggling, trafficking, money]
   setting: [airport]
+  route: {from: [fr], to: [re]}
   charges: [trafic de stupéfiants, blanchiment, association de malfaiteurs]
   case_stage: sentenced
   sentence_types: [prison, suspended]
@@ -45,6 +46,7 @@ data_sources:
   details.products: [1]
   details.sentence_types: [1]
   details.setting: [1]
+  details.route: [1]
   figures.arrested: [1]
   figures.charged: [1]
   figures.fine: [1]

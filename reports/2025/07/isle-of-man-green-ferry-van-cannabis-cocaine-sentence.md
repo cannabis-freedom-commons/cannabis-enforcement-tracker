@@ -26,6 +26,7 @@ details:
   products: [{product: flower, kg: 0.5223}]
   sentence_types: [prison, probation]
   setting: [vehicle, home, prison]
+  route: {from: [gb], to: [im]}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
@@ -33,6 +34,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
+  details.route: [1]
   figures.arrested: [1]
   figures.prison: [1, 2]
   figures.value: [1]

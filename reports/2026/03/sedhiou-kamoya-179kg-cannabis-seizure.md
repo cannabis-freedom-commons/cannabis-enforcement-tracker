@@ -21,6 +21,7 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 179}]
   setting: [mail]
+  route: {from: [sn], to: [gw]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 3, 2]
@@ -28,6 +29,7 @@ data_sources:
   details.date_precision: [1]
   details.products: [1, 3, 2]
   details.setting: [1, 2, 3]
+  details.route: [1, 3]
   figures.arrested: [1, 3, 2]
   figures.kg_seized: [1, 3, 2]
 status: verified
