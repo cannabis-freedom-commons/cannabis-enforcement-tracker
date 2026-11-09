@@ -52,6 +52,9 @@ Index (country ids are the CFI's).
   indexes in `src/lib/reports.js` and `/api/index.json`. Check with `node scripts/load-test.mjs`.
 - Check with `npm run build` (runs `npm test` first) and read the HTML in `dist/`. Don't start dev
   servers unless needed.
+- For UI work, build only the pages you changed: `npm run build:pages -- / api/index.json` (add
+  `--no-test` to skip the tests) writes them to `.cache/page-review/` in seconds instead of minutes.
+  Before deploying, or after changing data, routing or shared links, run the full `npm run build`.
 - Others may work here at the same time: check `git status` and commit only your own files.
 
 ## Submission service
