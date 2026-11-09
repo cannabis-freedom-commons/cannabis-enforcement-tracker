@@ -41,6 +41,11 @@ media:
     media_url: https://www.portugalresident.com/wp-content/uploads/2026/11/PJ-11.jpg
     publisher: Portugal Resident
     caption: 'Lead photograph published with the report on the Olhão seizure, whose file name carries the Judicial Police credit. Photo: Polícia Judiciária'
+  - kind: photo
+    url: https://rr.pt/noticia/amp/pais/2026/11/09/pj-apreende-45-toneladas-de-haxixe-em-olhao-homem-detido-em-flagrante/492765/
+    media_url: https://images.rr.pt/pj39136d47_base.jpg
+    publisher: Renascença
+    caption: Photograph published with Renascença's report on the Olhão seizure; its file name suggests the Judicial Police as source, and the page gives no visible caption or credit line.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4a062e6b0242fb2c620ef79d52b50918
@@ -60,6 +65,11 @@ sources:
     publisher: Central Press
     date: 2026-11-09
     language: pt
+  - title: PJ apreende 4,5 toneladas de haxixe em Olhão. Homem detido em flagrante
+    url: https://rr.pt/noticia/amp/pais/2026/11/09/pj-apreende-45-toneladas-de-haxixe-em-olhao-homem-detido-em-flagrante/492765/
+    publisher: Renascença
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No date is given for the operation or the arrest; 9 November 2026 is the publication date of the accounts and stands in for the incident date.
   - The weight is given as approximately 4.5 tonnes and the bale count as about 100, not exact measured figures.
@@ -74,21 +84,22 @@ open_questions:
 ---
 
 Judicial police in Olhão arrested a 38-year-old man on suspicion of drug
-trafficking after finding about 100 bales of hashish in a stolen goods van. [@1]
-The bales weighed about 4.5 tonnes in total. [@1]
+trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4]
+The bales weighed about 4.5 tonnes in total. [@1,4]
 
 The van was hidden on a rural property and investigators believe the hashish was
-brought ashore by sea through the channels of the Ria Formosa. [@1] Detectives
+brought ashore by sea through the channels of the Ria Formosa. [@1,4] Detectives
 identified the load inside the stolen goods vehicle while investigating the
 activity of a criminal group, which police say had the guarding of the drug in
 hand. [@3] Notícias ao Minuto described the stolen goods van as holding the
 illicit load. [@2]
 
 The suspect, who police say has previous records, was to appear before a judge
-for a first judicial hearing that would decide any preventive measures. [@1] The
+for a first judicial hearing that would decide any preventive measures. [@1,4] The
 investigation continues in order to establish the full extent of the criminal
 activity, and the inquiry is directed by the Public Prosecutor's Office (DIAP)
-in Faro. [@3] The seizure adds to a series of major hashish trafficking cases
+in Faro. [@3,4] The seizure adds to a series of major hashish trafficking cases
 along the Algarve coast, where waterways are regularly used by organised groups
 bringing drugs ashore from North Africa. [@1]
 
+The operation was run by the Judicial Police's Southern Directorate with the collaboration of the Republican National Guard (GNR). [@4] The detained man's role, police say, was to guard the drug. [@4]
