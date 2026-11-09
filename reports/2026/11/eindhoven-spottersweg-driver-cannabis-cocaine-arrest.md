@@ -56,6 +56,11 @@ sources:
     publisher: Drimble
     date: 2026-11-09
     language: nl
+  - title: Bestuurder onder invloed van cannabis en cocaïne aangehouden in Eindhoven
+    url: https://www.bd.nl/eindhoven/bestuurder-onder-invloed-van-cannabis-en-cocaine-aangehouden-in-eindhoven~ae5b4221/
+    publisher: Brabants Dagblad
+    date: 2026-11-09
+    language: nl
 open_questions:
   - The driver's age, sex and identity were not published; the article uses only 'die' and 'de bestuurder'.
   - No quantity of cannabis or cocaine was reported; nothing was said to be seized except the car, and the cannabis finding rests on the odour and the results of a drug test.
@@ -65,10 +70,12 @@ open_questions:
   - Only one accessible article was found, syndicated by DPG Media to AD; a Drimble page is a stub linking back to the same AD text.
   - The article gives no exact address for the spottersplaats beyond the Spottersweg near Eindhoven Airport, so the coordinates are those of the nearby airport area.
   - The Drimble page is a headline-only aggregator entry that links to the same AD article the existing report cites, so it adds no independent reporting.
+  - The driver's age, sex and identity are still not published.
+  - No quantity of cannabis was reported; the finding rests on the smell and the drug-test result.
 ---
 
 Police arrested a driver in Eindhoven on Sunday evening after a check showed the
-person had been driving under the influence of cannabis and cocaine. [@1,2]
+person had been driving under the influence of cannabis and cocaine. [@1,2,3]
 Officers decided to check the vehicle after they smelled a strong smell of
 cannabis (wietgeur). [@1]
 
@@ -76,10 +83,12 @@ The car was seen at about 22:45 at the spottersplaats, a plane-watching spot
 near Eindhoven Airport. [@1] When the vehicle drove in front of the police car,
 officers smelled the strong cannabis odour again and pulled the driver over for
 a check. [@1] During the check the smell was found to come clearly from the car,
-and a drug test showed the driver had used cannabis and cocaine. [@1] The
+and a drug test showed the driver had used cannabis and cocaine. [@1,3] The
 vehicle also turned out not to be registered correctly, so it was not allowed on
 the public road. [@1]
 
 The driver was arrested and the car was seized. [@1] An official report
-(proces-verbaal) is being drawn up for driving under the influence. [@1] The
+(proces-verbaal) is being drawn up for driving under the influence. [@1,3] The
 car's owner has been given two weeks to register the vehicle correctly. [@1]
+
+The stop was made by the Marechaussee, the Dutch royal military police, who pulled the driver over after smelling a strong cannabis odour coming from the car. [@3]
