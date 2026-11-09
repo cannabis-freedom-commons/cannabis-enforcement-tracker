@@ -233,6 +233,9 @@ const LEAFLETS = [[0, 62, 0], [-27, 54, 1], [27, 54, 1], [-56, 42, 2], [56, 42, 
       addAccuracy();
       addLandrace();
       await addMask();
+      // other views of this map (the home page's routes) add their layers after these, on every new basemap
+      (box as any).__map = map;
+      box.dispatchEvent(new CustomEvent("map:built", { detail: map, bubbles: true }));
     }
 
     // a country page: everything but the country greyed out and its border highlighted, under the

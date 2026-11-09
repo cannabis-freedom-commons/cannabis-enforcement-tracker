@@ -5,6 +5,9 @@ import Base from "../layouts/Base.astro";
 import WorldMap from "../components/WorldMap.astro";
 import FilterBar from "../components/FilterBar.astro";
 import ReportBrowser from "../components/ReportBrowser.astro";
+import RoutesPane from "../components/RoutesPane.astro";
+import RoutesBar from "../components/RoutesBar.astro";
+import "../styles/routes.css";
 import { reports, countriesWithReports, totals } from "../lib/reports.js";
 
 const t = totals(reports);
@@ -50,9 +53,18 @@ const jsonLd = [{
     <h1 class="sr-only">Cannabis Enforcement Tracker: the map of reports</h1>
     <div class="home-map">
       <WorldMap hash label="World map of enforcement reports" />
+      {/* two views of the same map: the reports (the default) and the smuggling routes (?view=routes),
+          chosen before the page is drawn so the other view never flashes; src/scripts/routes-view.js */}
+      <script is:inline>if (new URLSearchParams(location.search).get("view") === "routes") document.documentElement.dataset.homeView = "routes";</script>
+      <div class="view-switch" role="group" aria-label="What the map shows">
+        <button type="button" data-view="reports" aria-pressed="true">Reports</button>
+        <button type="button" data-view="routes" aria-pressed="false">Smuggling routes</button>
+      </div>
       <FilterBar />
+      <RoutesBar />
     </div>
-    <aside class="home-pane" aria-label="Reports">
+    <aside class="home-pane" aria-label="Reports and routes">
+      <RoutesPane />
       <ReportBrowser compact mapFilters />
       <footer class="pane-foot">
         <p>Fields burned, homes raided, people arrested, jailed and executed: a sourced record of what
@@ -63,3 +75,7 @@ const jsonLd = [{
     </aside>
   </div>
 </Base>
+
+<script>
+  import "../scripts/routes-view.js";
+</script>

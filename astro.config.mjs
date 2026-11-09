@@ -120,6 +120,8 @@ export default defineConfig({
   redirects: Object.fromEntries([
     ...Object.entries(reportAliases.slugs).map(([slug, target]) => [`/report/${slug}/`, { destination: `${base}report/${target}/`, status: 301 }]),
     ...Object.entries(reportAliases.codes).map(([code, target]) => [`/r/${code}/`, { destination: `${base}report/${target}/`, status: 301 }]),
+    // the Routes page became a view of the home page's map
+    ["/routes/", { destination: `${base}?view=routes`, status: 301 }],
   ]),
   site: process.env.SITE || "https://tracker.cannabisfreedom.fyi",
   base,

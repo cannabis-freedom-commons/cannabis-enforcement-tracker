@@ -1,0 +1,53 @@
+---
+// The Routes view's controls over the home page's map, where the reports' are (FilterBar): at the
+// top what the lines measure, what was carried and how it travelled; at the bottom, in place of the
+// reports' timeline, the routes' own: a column per year stacked by what was carried, a range of
+// years dragged across it (or one year clicked), a play button that replays the years one by one,
+// and the key. src/scripts/routes-view.js runs them.
+import { MODES, PRODUCTS } from "../lib/routes.js";
+import { routeYears } from "../lib/routes-years.js";
+const { first, last, perYear } = routeYears();
+// a square-root scale, so the early years with a handful of routes still show next to the latest
+const top = Math.sqrt(Math.max(1, ...perYear.map((y) => y.total)));
+const n = perYear.length;
+const every = n > 20 ? 5 : n > 10 ? 2 : 1;
+---
+<div class="routes-bar" id="routes-bar" role="search" aria-label="Filter routes">
+  <label>Line width
+    <select data-metric><option value="reports">Reports</option><option value="kg">Kilograms</option></select>
+  </label>
+  <label>Cannabis
+    <select data-product><option value="">All</option>{PRODUCTS.filter(([id]) => id).map(([id, label]) => <option value={id}>{label}</option>)}</select>
+  </label>
+  <label>Travelled
+    <select data-mode><option value="">Any way</option>{MODES.map(([id, label]) => <option value={id}>{label}</option>)}</select>
+  </label>
+</div>
+
+<div class="routes-timeline" id="routes-timeline" style={`--n:${n}`}>
+  <div class="rt-head">
+    <button type="button" class="routes-play" data-play aria-label="Replay the years one by one" title="Replay the years one by one"><span aria-hidden="true">▶</span></button>
+    <output class="routes-span" data-span>{first}–{last}</output>
+    <div class="rt-key" data-no-glossary>
+      {PRODUCTS.map(([, label, color]) => <span><i class="key-dot" style={`--c:${color}`}></i>{label}</span>)}
+      <span><i class="key-node send"></i>mostly sends</span>
+      <span><i class="key-node receive"></i>mostly receives</span>
+    </div>
+  </div>
+  <div class="rt-chart">
+    <div class="rt-cols">
+      {perYear.map((y) => { const h = (Math.sqrt(y.total) / top) * 100; return (
+        <button type="button" class="rt-col" data-year={y.year} aria-label={`${y.year}: ${y.total} reports with a route`} title={`${y.year}: ${y.total} ${y.total === 1 ? "report" : "reports"}`}>
+          <span class="rt-stack" style={`height:${y.total ? Math.max(4, h) : 0}%`}>
+            {y.products.map((k, i) => k > 0 && <i style={`flex-grow:${k};background:${PRODUCTS[i][2]}`}></i>)}
+          </span>
+        </button>
+      ); })}
+    </div>
+    <div class="rt-range">
+      <input type="range" min={first} max={last} value={first} step="1" data-year="from" aria-label="From year" />
+      <input type="range" min={first} max={last} value={last} step="1" data-year="to" aria-label="To year" />
+    </div>
+    <div class="rt-axis" aria-hidden="true">{perYear.map((y, i) => <span>{(i % every === 0 || i === n - 1) && (i === n - 1 || n - 1 - i >= every / 2) ? y.year : ""}</span>)}</div>
+  </div>
+</div>

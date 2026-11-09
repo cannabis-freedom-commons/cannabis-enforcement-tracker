@@ -1,0 +1,20 @@
+---
+// The home page's Routes view, in the pane beside the map: totals for what the years and filters
+// over the map (RoutesBar) let through, and the panel (the busiest routes; a route's reports; a
+// country's routes in and out). Markup only: src/scripts/routes-view.js fills it.
+import { routeYears } from "../lib/routes-years.js";
+const { first, last } = routeYears();
+---
+<section class="routes-pane" id="routes-pane" data-first={first} data-last={last} aria-label="Smuggling routes">
+  <div class="rv-head">
+    <p class="rv-lead">Where the cannabis in the reports came from and where it was going: each line joins two countries, and the dots move the way the cannabis did. Only the cases the sources describe.</p>
+    <dl class="rv-tiles" data-tiles data-no-glossary>
+      <div><dt>reports</dt><dd data-t="reports">–</dd></div>
+      <div><dt>routes</dt><dd data-t="routes">–</dd></div>
+      <div><dt>countries</dt><dd data-t="places">–</dd></div>
+      <div><dt>seized</dt><dd data-t="kg">–</dd></div>
+    </dl>
+  </div>
+  <div class="routes-panel" data-panel aria-live="polite"><p class="muted">Loading the routes…</p></div>
+  <p class="muted routes-note">A report counts on every route it names; lines start and end in the middle of each country, not at the real crossing. Routes inside one country are counted, not drawn. Data: each report's <code>details.route</code>.</p>
+</section>
