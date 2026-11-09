@@ -59,6 +59,11 @@ sources:
     publisher: X / Abelardo De La Espriella
     date: 2026-11-09
     language: es
+  - title: 'Colombie : échec d’une tentative de contrer la contrebande de cocaïne'
+    url: https://www.nessma.tv/fr/internationale/actu/colombie-echec-dune-tentative-de-contrer-la-contrebande-de-cocaine/598898
+    publisher: Nessma
+    date: 2026-11-09
+    language: fr
 open_questions:
   - No date is given for the seizure; 9 November 2026 is when the president announced it and when the outlets published, and stands in for the incident date.
   - No weight breakdown, package count or street value for the Chinchiná marijuana was published.
@@ -66,6 +71,10 @@ open_questions:
   - The submitted page and Diario La Libertad both restate the president's announcement, so they are not independent accounts of the seizure.
   - The 878-kilogram figure covers both operations and is not used as the report's cannabis figure; the cocaine seized at Cartagena is a separate event left out of this report.
   - The single photo on the submitted page is captioned only 'Redes Sociales' (social media), with no credit or caption stating what it shows, so no media entry is added.
+  - The Nessma page adds no independent detail on the Chinchiná seizure; like the existing report it restates the president's announcement.
+  - The French text gives no operation name for the Cartagena cocaine find, which the Spanish report calls Estrategia Esmeralda.
+  - The page's single photo is the headline illustration for the story and is not captioned as showing this seizure, so no media entry is added.
+  - Neither account gives a separate date for the seizure; 9 November 2026 is when the president announced it and when the outlets published.
 ---
 
 Colombian police intercepted a vehicle in the urban area of Chinchiná, Caldas,
@@ -75,9 +84,10 @@ Officers also immobilised the vehicle, whose identification systems had been
 altered. [@2]
 
 In his own statement the president said the marijuana had left the department of
-Cauca bound for Medellín. [@3] President Abelardo de la Espriella announced the
+Cauca bound for Medellín. [@3,4] President Abelardo de la Espriella announced the
 Chinchiná seizure and a second operation at the port of Cartagena. [@1]
 
 The government presented the two hauls as 878 kilograms in total, of which 520
 were marijuana and 358 cocaine. [@1]
 
+For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2]
