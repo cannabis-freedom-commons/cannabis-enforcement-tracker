@@ -5,9 +5,7 @@ import (
 	"errors"
 	"log/slog"
 	"os"
-	"os/exec"
 	"path/filepath"
-	"strings"
 	"sync"
 	"time"
 
@@ -92,7 +90,7 @@ func (w *Worker) remoteJobs(ctx context.Context, c *Client, pool *agentPool) {
 			continue
 		}
 		slog.Info("research job taken", "job", j.ID, "case", j.Ref, "attempt", j.Attempts, "model", selected.Config.ResearchModel)
-		if err := syncRepo(ctx, w.Config.RepoPath); err != nil {
+		if err := syncRepo(ctx, w.Config.RepoPath, w.Config.RepoFollow); err != nil {
 			slog.Warn("the reports clone could not be updated; researching with what it has", "error", err)
 		}
 		selected.Backend = c.Job(j)
@@ -159,19 +157,24 @@ func remoteHeartbeat(ctx context.Context, c *Client, j store.Job, stop <-chan st
 
 var repoSync sync.Mutex
 
-// syncRepo fast-forwards the worker's clone of the reports repository, so research sees the
-// reports published since the last job.
-func syncRepo(ctx context.Context, repo string) error {
+// syncRepo brings the worker's clone of the reports repository up to date before a job, so research
+// sees every report: with follow set, the clone is the worker's own and is reset to that branch of
+// origin (the reports waiting to go to main included), or to main while it does not exist;
+// otherwise it is fast-forwarded.
+func syncRepo(ctx context.Context, repo, follow string) error {
 	repoSync.Lock()
 	defer repoSync.Unlock()
-	pullCtx, cancel := context.WithTimeout(ctx, 2*time.Minute)
-	defer cancel()
-	cmd := exec.CommandContext(pullCtx, "git", "pull", "--ff-only", "--quiet")
-	cmd.Dir = repo
-	if out, err := cmd.CombinedOutput(); err != nil {
-		return errors.New(strings.TrimSpace(string(out)) + ": " + err.Error())
+	if follow == "" {
+		return gitQuiet(ctx, repo, 2*time.Minute, "pull", "--ff-only", "--quiet")
 	}
-	return nil
+	if err := gitQuiet(ctx, repo, 2*time.Minute, "fetch", "--quiet", "--prune", "origin"); err != nil {
+		return err
+	}
+	ref := "origin/" + follow
+	if _, err := gitOutput(ctx, repo, "rev-parse", "--verify", "--quiet", "refs/remotes/"+ref); err != nil {
+		ref = "origin/" + mainBranch
+	}
+	return gitQuiet(ctx, repo, time.Minute, "reset", "--quiet", "--hard", ref)
 }
 
 // cleanCase removes a case's workspaces and captures from this worker once its job ended: the

@@ -33,6 +33,17 @@ const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boo
       <div><strong id="register-commit-rate">—</strong><span>Committed / min</span><small>Last 60 minutes</small></div>
     </section>
 
+    {/* committed reports on their way to the site: filled by src/scripts/submissions-publication.js */}
+    {api && <section class="sx-publication" id="register-publication" data-api={api} aria-labelledby="publication-title" aria-live="polite" hidden>
+      <h2 id="publication-title">Publication</h2>
+      <div class="sx-publication-steps">
+        <div data-step="waiting"><strong data-pub="waiting">—</strong><span>Waiting for the next batch</span><small data-pub="next">—</small></div>
+        <div data-step="deploying"><strong data-pub="deploying">—</strong><span>On main, deploying</span><small data-pub="build">—</small></div>
+        <div data-step="last"><strong data-pub="last-reports">—</strong><span>Last batch</span><small data-pub="last">—</small></div>
+      </div>
+      <p class="sx-publication-note" data-pub="note"></p>
+    </section>}
+
     {api && <section class="sx-activity" data-submission-activity data-api={api} data-state="loading" aria-labelledby="activity-title">
       <div class="sx-activity-head">
         <h2 id="activity-title">Activity</h2>
@@ -142,5 +153,5 @@ const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boo
     </details>}
     <noscript><p>JavaScript is needed to send sources and load submissions.</p></noscript>
   </div>
-  <script>import "../scripts/submissions-table.js"; import "../scripts/submissions.js"; import "../scripts/submissions-activity.js";</script>
+  <script>import "../scripts/submissions-table.js"; import "../scripts/submissions.js"; import "../scripts/submissions-activity.js"; import "../scripts/submissions-publication.js";</script>
 </Base>

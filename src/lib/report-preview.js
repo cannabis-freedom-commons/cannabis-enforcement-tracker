@@ -3,7 +3,8 @@ import { load, JSON_SCHEMA } from "js-yaml";
 import reportAliases from "./report-aliases.js";
 
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
-const SAVED = new Set(["committed", "published", "duplicate"]);
+// reports on the site; a committed or deploying one is shown from its draft until it is published
+const SAVED = new Set(["published", "duplicate"]);
 
 export function savedReportPath(v, base = "/") {
   return SAVED.has(v?.status) && SLUG.test(v.report_slug || "") ? `${base}report/${reportAliases.slugs[v.report_slug] || v.report_slug}/` : null;

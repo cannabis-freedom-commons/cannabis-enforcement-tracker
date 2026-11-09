@@ -9,10 +9,11 @@ machine (`npm run worker`, see [WORKERS.md](WORKERS.md)).
 the public base images. The container:
 
 - keeps its database and job storage in `backend/data/` of the clone;
-- commits new reports into the clone itself and pushes them to GitHub with a deploy key
-  (your `~/.ssh`, mounted read-only);
-- keeps the clone level with GitHub: it pulls before each commit and every five minutes
-  (`REPO_SYNC`), so other people's pushes never block its own;
+- commits new reports into the clone itself, on the `submissions` branch, and pushes them to
+  GitHub with a deploy key (your `~/.ssh`, mounted read-only); every 30 minutes they go to `main`
+  together (see "Publication" below);
+- keeps the clone level with GitHub: it rebases onto `main` before each commit and every five
+  minutes (`REPO_SYNC`), so other people's pushes never block its own;
 - listens on `127.0.0.1:7706` for the web server in front of it, which serves HTTPS;
 - harvests Google News, Bing News and the other feeds, and answers Nostr if configured;
 - does no research itself (`RESEARCH_MODE=remote`).
@@ -188,8 +189,11 @@ npm run worker
 ```
 
 It uses the same research settings as `backend-dev`: `RESEARCH_AGENTS`, the local OpenCode runner
-and its saved credentials. It fast-forwards this checkout before each job. Set `WORKER_REPO_PATH`
-to give it a clone of its own instead. `npm run worker -- -check-ai` tests the models and exits.
+and its saved credentials. It researches against a clone of its own, `backend/data/worker-repo`
+(made the first time; `WORKER_REPO_PATH` for another place), which it resets before each job to
+the `submissions` branch, so it sees the reports still waiting to go to `main` and does not
+research them again. Your checkout is never touched. `npm run worker -- -check-ai` tests the
+models and exits.
 The status on the request pages says "Research workers: home" once it is connected.
 
 ## 8. Point the site at it
@@ -303,9 +307,28 @@ The queries behind it, for panels of your own:
 - Workers busy: `sum(tracker_worker_running_jobs) / sum(tracker_worker_agent_slots * on(worker, model) tracker_worker_agent_ready)`
 - Alert when no worker is connected: `max(tracker_worker_up) < 1` for 10 minutes
 
+## Publication
+
+A validated report goes through three statuses on its request page:
+
+1. **Waiting to publish** (`committed`): committed to the `submissions` branch and pushed there.
+   Workers research against that branch, so nothing is researched twice meanwhile.
+2. **Deploying**: the branch went to `main`. Every 30 minutes, at :05 and :35, the backend rebases
+   the branch onto `main` and pushes it as a fast-forward: `main` gets the reports' own commits
+   and no merge commit. With no new reports, nothing is pushed.
+3. **Published**: the site is rebuilt at :13 and :43 (`.github/workflows/deploy.yml`). Every minute
+   the backend reads the live `/version.json`; once the deployed commit contains a report, it is
+   published, and Nostr submitters get their reply with the report's link.
+
+`/submissions/` shows how many reports wait for the next batch and when it goes, how many are
+deploying, and the last batch. `PUBLISH_INTERVAL` and `PUBLISH_OFFSET` in `.env.backend` change the
+timing. Do not commit on the `submissions` branch by hand: the backend rebases and force-pushes it.
+
 ## Updating
 
-The backend pulls new reports itself. For new backend code, rebuild from the updated clone:
+The backend keeps the clone up to date itself (it is on the `submissions` branch, rebased onto
+`main` every few minutes). For new backend code, rebuild once the backend has pulled it, or pull
+first (`git pull` rebases here, so it never makes a merge commit):
 
 ```bash
 git pull && docker compose up -d --build

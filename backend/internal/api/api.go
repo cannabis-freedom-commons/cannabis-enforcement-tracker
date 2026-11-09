@@ -213,8 +213,9 @@ func (s *Server) get(w http.ResponseWriter, r *http.Request) {
 		problem(w, 503, "Status unavailable.")
 		return
 	}
-	// the report's commit on GitHub, linked whether it has been pushed yet or not
-	if regexp.MustCompile(`^[0-9a-f]{40}$`).MatchString(v.CommitSHA) {
+	// the report's commit on GitHub; with batches only once it is on main, as it is rebased onto
+	// main until then and its id changes
+	if regexp.MustCompile(`^[0-9a-f]{40}$`).MatchString(v.CommitSHA) && (s.Config.PublishBranch == "" || v.Status != "committed") {
 		v.CommitURL = "https://github.com/" + s.Config.GitHubRepo + "/commit/" + v.CommitSHA
 	}
 	write(w, 200, v)

@@ -4,7 +4,7 @@
 import { STATUS_LABELS } from "./submission-receipts.js";
 
 // the pipeline, in order; a request moves left to right and ends in one outcome
-export const STAGES = ["Queued", "Source check", "Research", "Validate", "Commit", "Outcome"];
+export const STAGES = ["Queued", "Source check", "Research", "Validate", "Publish", "Outcome"];
 
 // tone: running (still being worked on), done (published), covered (already in the tracker or
 // sent to the CFI), declined (not published, with a reason), attention (a person has to look), failed
@@ -19,9 +19,10 @@ const META = {
   drafted: { stage: 3, tone: "running", label: "Drafted" },
   awaiting_review: { stage: 3, tone: "running", label: "Awaiting review" },
   publishing: { stage: 4, tone: "running", label: "Publishing" },
+  // committed: waiting for the next batch to main; deploying: on main, waiting for the site's build
+  committed: { stage: 4, tone: "running", label: "Waiting to publish" },
   merged: { stage: 4, tone: "running", label: "Deploying" },
   deploying: { stage: 4, tone: "running", label: "Deploying" },
-  committed: { stage: 5, tone: "done", label: "Committed" },
   published: { stage: 5, tone: "done", label: "Published" },
   duplicate: { stage: 5, tone: "covered", label: "Already covered" },
   routed_to_cfi: { stage: 5, tone: "covered", label: "Routed to the CFI" },
@@ -37,7 +38,8 @@ export const isRunning = (status) => statusMeta(status).tone === "running";
 // what an outcome means for the person who sent the source, beside the worker's own explanation
 export const OUTCOME_HELP = {
   budget_wait: "This request is waiting for the daily AI budget to reset. No new research run has started.",
-  committed: "The validated report was committed to the local repository. Pushing and deployment are separate.",
+  committed: "A cited report was written and committed. It goes to the site with the next batch (every 30 minutes) and is published once the site is rebuilt.",
+  deploying: "The report is on main and appears on the site with its next build (every 30 minutes, at :13 and :43).",
   published: "A cited report was written and published from this source.",
   duplicate: "The tracker already has a report on this event, so no new one was made.",
   routed_to_cfi: "This is about a change in the law, not an enforcement event, so it belongs in the Cannabis Freedom Index history.",
@@ -53,7 +55,8 @@ export const FILTERS = [
   ["", "All"],
   ["researching", "Researching"],
   ["queued", "Queued"],
-  ["committed", "Committed"],
+  ["committed", "Waiting to publish"],
+  ["deploying", "Deploying"],
   ["published", "Published"],
   ["duplicate", "Already covered"],
   ["insufficient_evidence", "Unable to verify"],

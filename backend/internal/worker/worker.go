@@ -91,6 +91,9 @@ func (w *Worker) Run(parent context.Context) {
 	if w.Config.RepoSync {
 		wg.Go(func() { syncLoop(ctx, w.Config.RepoPath) })
 	}
+	if w.Config.AutoPush && !w.Config.Demo {
+		wg.Go(func() { w.publicationLoop(ctx) })
+	}
 	wg.Wait()
 }
 
@@ -885,7 +888,18 @@ func (w *Worker) publish(ctx context.Context, j store.Job) error {
 	} else if mediaNote != "" {
 		explanation += " " + mediaNote
 	}
-	if w.Config.AutoPush {
+	if w.Config.AutoPush && w.Config.PublishBranch != "" {
+		// waits on the publish branch for the next batch to main (batch.go); its commit id changes
+		// with each rebase onto main until then, so it is not named
+		explanation = strings.Replace(explanation, " ("+sha[:12]+")", "", 1)
+		explanation = strings.Replace(explanation, "committed to the local repository", "committed for publication", 1)
+		next := w.Config.NextBatch(time.Now()).UTC().Format("15:04")
+		if err := pushBranch(ctx, w.Config.RepoPath, w.Config.PublishBranch); err != nil {
+			explanation += " It goes to the site with the next batch, at " + next + " UTC (the " + w.Config.PublishBranch + " branch could not be pushed now: " + err.Error() + ")."
+		} else {
+			explanation += " It waits on the " + w.Config.PublishBranch + " branch and goes to the site with the next batch, at " + next + " UTC."
+		}
+	} else if w.Config.AutoPush {
 		// the commit goes to GitHub straight away, so its link works; a failed push leaves the
 		// commit in place and says so
 		if err := pushRepo(ctx, w.Config.RepoPath, w.Config.RepoSync); err != nil {

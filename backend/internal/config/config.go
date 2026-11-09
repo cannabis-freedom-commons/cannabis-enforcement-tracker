@@ -63,6 +63,15 @@ type Config struct {
 	// A worker's own settings: the backend it works for and its token.
 	TrackerURL, WorkerToken string
 	MetricsToken            string // bearer token of GET /metrics (INGEST_TOKEN when blank)
+	// PublishBranch, when set, is where reports are committed; every PublishInterval the branch
+	// goes to main in one push (worker/batch.go). Blank: each report is pushed to main at once.
+	PublishBranch   string
+	PublishInterval time.Duration
+	PublishOffset   time.Duration // batches at this offset into each interval (30m and 5m: :05 and :35)
+	// RepoFollow (a worker): its REPO_PATH is a clone of its own, reset before each job to this
+	// branch of origin (the backend's PUBLISH_BRANCH, with the reports waiting to go to main), or to
+	// main while the branch does not exist. Blank: the clone is only fast-forwarded.
+	RepoFollow string
 }
 
 func env(k, d string) string {
@@ -310,6 +319,21 @@ func Load() (Config, error) {
 	if c.ResearchMode == "remote" && len(c.WorkerTokens) == 0 {
 		return c, errors.New("RESEARCH_MODE=remote needs WORKER_TOKENS")
 	}
+	c.PublishBranch = os.Getenv("PUBLISH_BRANCH")
+	if c.PublishBranch != "" && (!regexp.MustCompile(`^[a-z0-9][a-z0-9/_-]{0,62}$`).MatchString(c.PublishBranch) || c.PublishBranch == "main") {
+		return c, errors.New("PUBLISH_BRANCH must be a branch name other than main")
+	}
+	if c.PublishInterval, err = time.ParseDuration(env("PUBLISH_INTERVAL", "30m")); err != nil || c.PublishInterval < time.Minute || c.PublishInterval > 24*time.Hour {
+		return c, errors.New("PUBLISH_INTERVAL must be between 1m and 24h")
+	}
+	// just before the site's builds at :13 and :43 (.github/workflows/deploy.yml)
+	if c.PublishOffset, err = time.ParseDuration(env("PUBLISH_OFFSET", "5m")); err != nil || c.PublishOffset < 0 || c.PublishOffset >= c.PublishInterval {
+		return c, errors.New("PUBLISH_OFFSET must be at least 0 and less than PUBLISH_INTERVAL")
+	}
+	c.RepoFollow = os.Getenv("REPO_FOLLOW")
+	if c.RepoFollow != "" && !regexp.MustCompile(`^[a-z0-9][a-z0-9/_-]{0,62}$`).MatchString(c.RepoFollow) {
+		return c, errors.New("invalid REPO_FOLLOW branch")
+	}
 	c.MetricsToken = os.Getenv("METRICS_TOKEN")
 	if c.MetricsToken != "" && len(c.MetricsToken) < 32 {
 		return c, errors.New("METRICS_TOKEN must be at least 32 characters")
@@ -317,6 +341,12 @@ func Load() (Config, error) {
 	c.TrackerURL = strings.TrimRight(os.Getenv("TRACKER_URL"), "/")
 	c.WorkerToken = os.Getenv("WORKER_TOKEN")
 	return c, nil
+}
+
+// NextBatch is when the next publication batch goes to main: the next time at PublishOffset into
+// a PublishInterval.
+func (c Config) NextBatch(now time.Time) time.Time {
+	return now.Add(-c.PublishOffset).Truncate(c.PublishInterval).Add(c.PublishInterval + c.PublishOffset)
 }
 
 // Remote says research runs on separate workers, not in this process.

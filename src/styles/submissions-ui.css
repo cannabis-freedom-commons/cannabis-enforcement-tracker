@@ -363,3 +363,15 @@
 .sx-activity-tokens { margin-left: auto; }
 .sx-activity-tip [data-key="tokens"] i { display: none; }
 @media (max-width: 650px) { .sx-activity-tokens { margin-left: 0; } }
+/* publication: committed reports on their way to the site (submissions-publication.js) */
+.sx-publication { margin:0 0 1.5rem; padding:1rem 1.25rem; border:1px solid var(--border,#dcd8cb); border-radius:12px; }
+.sx-publication[hidden] { display:none; }
+.sx-publication h2 { margin:0 0 .75rem; font-size:1rem; }
+.sx-publication-steps { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1rem; }
+.sx-publication-steps > div { display:flex; flex-direction:column; gap:.15rem; padding-left:.75rem; border-left:3px solid var(--border,#dcd8cb); }
+.sx-publication-steps > div[data-active="true"] { border-left-color:#d9a43c; }
+.sx-publication-steps > div[data-step="last"] { border-left-color:#3fb36b; }
+.sx-publication-steps strong { font:600 1.5rem/1.2 var(--font-mono,monospace); }
+.sx-publication-steps small { opacity:.7; font-size:.8rem; }
+.sx-publication-note { margin:.85rem 0 0; font-size:.8rem; opacity:.65; }
+@media(max-width:650px) { .sx-publication-steps { grid-template-columns:1fr; gap:.75rem; } }

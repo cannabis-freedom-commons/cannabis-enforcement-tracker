@@ -6,17 +6,18 @@ import reportAliases from "../src/lib/report-aliases.js";
 const selected = { kind: "photo", url: "https://news.example/article", media_url: "https://news.example/selected.jpg" };
 const stale = { ...selected, media_url: "https://news.example/stale.jpg" };
 
-test("saved previews resolve the actual report for committed, published and duplicate submissions", () => {
-  for (const status of ["committed", "published", "duplicate"]) {
+test("saved previews resolve the report on the site for published and duplicate submissions", () => {
+  for (const status of ["published", "duplicate"]) {
     assert.equal(savedReportPath({ status, report_slug: "saved-report" }, "/tracker/"), "/tracker/report/saved-report/");
   }
-  for (const status of ["drafted", "publishing", "failed"]) assert.equal(savedReportPath({ status, report_slug: "saved-report" }), null);
-  for (const slug of ["../secret", "https://elsewhere.example", "", "saved/report"]) assert.equal(savedReportPath({ status: "committed", report_slug: slug }), null);
+  // committed and deploying reports are not on the site yet: their draft is shown
+  for (const status of ["drafted", "publishing", "committed", "deploying", "failed"]) assert.equal(savedReportPath({ status, report_slug: "saved-report" }), null);
+  for (const slug of ["../secret", "https://elsewhere.example", "", "saved/report"]) assert.equal(savedReportPath({ status: "published", report_slug: slug }), null);
 });
 
 test("saved submission links follow every consolidated report to its surviving URL", () => {
   for (const [retired, canonical] of Object.entries(reportAliases.slugs)) {
-    for (const status of ["committed", "published", "duplicate"]) {
+    for (const status of ["published", "duplicate"]) {
       assert.equal(savedReportPath({ status, report_slug: retired }, "/tracker/"), `/tracker/report/${canonical}/`);
     }
   }

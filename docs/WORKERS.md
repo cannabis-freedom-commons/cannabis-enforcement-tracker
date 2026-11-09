@@ -60,8 +60,9 @@ raw logs, screenshot archiving and clean-up work as for local research.
 
 ### Coverage
 
-A worker keeps its own clone of the reports repository (`REPO_PATH`) and fast-forwards it before
-each job, so research sees the reports published since. Its draft (`upload/draft`) carries the git
+A worker keeps its own clone of the reports repository (`REPO_PATH`) and resets it before each job
+to the backend's publish branch (`REPO_FOLLOW=submissions`), so research sees the reports published
+since and those still waiting to go to `main`. Its draft (`upload/draft`) carries the git
 blob each changed report started from. Under its publication lock the backend compares these with
 its own `HEAD`: a report changed meanwhile sends the draft back for a review against current
 coverage, exactly as when two local jobs race. A new report goes through the usual coverage check.

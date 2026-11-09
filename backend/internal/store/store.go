@@ -258,7 +258,7 @@ func (s *Store) Accept(ctx context.Context, in Intake) (string, error) {
 			return "", err
 		}
 	}
-	if Terminal(status) && (in.Origin == "nostr" || in.Gateway) {
+	if Terminal(status) && status != "committed" && (in.Origin == "nostr" || in.Gateway) {
 		if err = Enqueue(tx, "outbox", "resolution", id+":"+status, "{}", now); err != nil {
 			return "", err
 		}
@@ -357,14 +357,16 @@ func (s *Store) Transition(ctx context.Context, cid, status, explanation, slug, 
 	}
 	if status == "published" {
 		var report, proposal string
-		if err = tx.QueryRowContext(ctx, "SELECT report_slug,pr_url FROM cases WHERE id=?", cid).Scan(&report, &proposal); err != nil {
+		var local int
+		if err = tx.QueryRowContext(ctx, "SELECT report_slug,pr_url,(SELECT count(*) FROM local_publications WHERE case_id=?) FROM cases WHERE id=?", cid, cid).Scan(&report, &proposal, &local); err != nil {
 			return err
 		}
-		if prev != "deploying" || report == "" || proposal == "" {
+		if prev != "deploying" || report == "" || (proposal == "" && local == 0) {
 			return errors.New("publication prerequisites missing")
 		}
 	}
-	if prev == "published" || prev == "committed" {
+	// A committed report goes on only to the site: on main (deploying), then live (published).
+	if prev == "published" || (prev == "committed" && status != "deploying") {
 		return errors.New("published case is immutable")
 	}
 	_, err = tx.ExecContext(ctx, "UPDATE cases SET status=?,explanation=?,report_slug=CASE WHEN ?='' THEN report_slug ELSE ? END,pr_url=CASE WHEN ?='' THEN pr_url ELSE ? END,updated_at=? WHERE id=?", status, explanation, slug, slug, pr, pr, now, cid)
@@ -375,7 +377,8 @@ func (s *Store) Transition(ctx context.Context, cid, status, explanation, slug, 
 	if err != nil {
 		return err
 	}
-	if Terminal(status) {
+	// Nostr hears the outcome; a committed report only once it is on the site, with its link.
+	if Terminal(status) && status != "committed" {
 		rows, err := tx.Query("SELECT id FROM submissions WHERE case_id=? AND (origin='nostr' OR gateway_event_id<>'' OR id IN (SELECT ref FROM outbox WHERE kind='gateway'))", cid)
 		if err != nil {
 			return err

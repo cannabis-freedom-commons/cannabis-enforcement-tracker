@@ -66,7 +66,7 @@ function initialize(root) {
     const state = el("span", undefined, "sx-row-state");
     const label = el("span", undefined, "sx-row-label"); label.append(el("i", undefined, "sx-dot"), document.createTextNode(meta.label));
     const progress = el("span", undefined, "sx-row-progress");
-    const lastStage = meta.stage === 5 && !["committed", "published", "duplicate", "routed_to_cfi"].includes(v.status) && v.last_stage ? statusMeta(v.last_stage).stage : meta.stage;
+    const lastStage = meta.stage === 5 && !["published", "duplicate", "routed_to_cfi"].includes(v.status) && v.last_stage ? statusMeta(v.last_stage).stage : meta.stage;
     progress.setAttribute("role", "progressbar"); progress.setAttribute("aria-label", "Processing stage");
     progress.setAttribute("aria-valuemin", "0"); progress.setAttribute("aria-valuemax", "5"); progress.setAttribute("aria-valuenow", String(lastStage));
     progress.setAttribute("aria-valuetext", meta.label); progress.title = `${STAGES[lastStage]} · ${meta.label}${v.resume_at ? ` · resumes ${fullTime(v.resume_at)}` : ""}`;

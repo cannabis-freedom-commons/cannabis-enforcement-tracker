@@ -37,7 +37,8 @@ test("preview photos follow prepared media and saved report edits, with a workin
     assert.equal(await page.locator('img[src*="source/image"], img[src*="research-only"], img[src*="stale"]').count(), 0);
     await page.evaluate(v => window.draw({ ...v, draft_markdown: "---\nmedia: []\n---\nReport." }), prepared);
     assert.equal(await page.locator("main img").count(), 0);
-    const committed = { ...prepared, status: "committed", report_slug: "saved-report" };
+    // a published report is drawn from its page on the site
+    const committed = { ...prepared, status: "published", report_slug: "saved-report" };
     await page.evaluate(v => window.draw(v), committed);
     await page.getByText("current saved title", { exact: true }).waitFor();
     assert.equal(await page.locator("main h1").count(), 0);

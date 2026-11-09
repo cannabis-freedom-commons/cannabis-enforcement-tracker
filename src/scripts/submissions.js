@@ -29,7 +29,7 @@ function initialize(root) {
       const heading = node("h3"); const source = safeHTTP(v.url); heading.append(source ? link(v.url, source) : node("span", v.url)); el.append(heading);
       el.append(node("p", v.explanation));
       if (v.note) el.append(node("p", `Public note: ${v.note}`, "hint"));
-      if (["committed", "published", "duplicate"].includes(v.status) && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(v.report_slug || "")) el.append(link(v.status === "published" || v.status === "duplicate" ? "Read report →" : "Related report →", `${base}report/${v.report_slug}/`));
+      if (["published", "duplicate"].includes(v.status) && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(v.report_slug || "")) el.append(link("Read report →", `${base}report/${v.report_slug}/`));
       if (v.pr_url && /^https:\/\/github\.com\/[^/]+\/[^/]+\/pull\/\d+$/.test(v.pr_url)) { const p = node("p"); p.append(link("Review proposal on GitHub ↗", v.pr_url)); el.append(p); }
       for (const [key, label] of [["nostr_event_id", "Submission on Nostr ↗"], ["reply_event_id", "Resolution on Nostr ↗"]]) {
         if (/^[a-f0-9]{64}$/.test(v[key] || "")) { const p = node("p"); p.append(link(label, `https://njump.me/${v[key]}`)); el.append(p); }

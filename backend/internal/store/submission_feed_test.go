@@ -207,7 +207,7 @@ func TestCommitRateUsesRecentPublicationsAcrossFiltersAndReceipts(t *testing.T) 
 		if err != nil {
 			t.Fatal(err)
 		}
-		if _, err = s.DB.Exec("INSERT INTO local_publications VALUES(?,?,?,?)", v.CaseID, "sha", "reports/example.md", now-age); err != nil {
+		if _, err = s.DB.Exec("INSERT INTO local_publications(case_id,commit_sha,report_path,created_at) VALUES(?,?,?,?)", v.CaseID, "sha", "reports/example.md", now-age); err != nil {
 			t.Fatal(err)
 		}
 		legacyReceipt(t, s, id)

@@ -45,7 +45,8 @@ function hero(box, v, run) {
   // what came out of it, at hand on the right: the report, its preview, its commit on GitHub
   const base = document.querySelector("[data-submission-status]")?.dataset.base ?? "/";
   const actions = el("div", undefined, "sx-hero-actions");
-  if (SLUG.test(v.report_slug || "") && ["committed", "published", "duplicate"].includes(v.status)) actions.append(link(v.status === "duplicate" ? "Existing report →" : "Report →", `${base}report/${v.report_slug}/`, "sx-chip sx-chip-primary"));
+  // the report's own page exists once it is on the site
+  if (SLUG.test(v.report_slug || "") && ["published", "duplicate"].includes(v.status)) actions.append(link(v.status === "duplicate" ? "Existing report →" : "Report →", `${base}report/${v.report_slug}/`, "sx-chip sx-chip-primary"));
   if (readResult(v)) actions.append(link("Preview", `${base}draft/?id=${v.id}`, "sx-chip"));
   if (/^https:\/\/github\.com\/[^/]+\/[^/]+\/commit\/[0-9a-f]{40}$/.test(v.commit_url || "")) { const c = link(`Commit ${v.commit_sha.slice(0, 7)} ↗`, v.commit_url, "sx-chip sx-chip-mono"); c.title = "The report's commit on GitHub"; actions.append(c); }
   if (actions.childElementCount) top.append(actions);
@@ -97,7 +98,7 @@ function output(box, v) {
   const base = root?.dataset.base ?? "/";
   box.replaceChildren(el("h2", "Outcome"));
   const items = el("div", undefined, "sx-out-items");
-  if (SLUG.test(v.report_slug || "") && ["committed", "published", "duplicate"].includes(v.status)) items.append(link(v.status === "committed" ? "Read the committed report →" : v.status === "published" ? "Read the published report →" : "Read the existing report →", `${base}report/${v.report_slug}/`, "sx-btn sx-btn-primary"));
+  if (SLUG.test(v.report_slug || "") && ["published", "duplicate"].includes(v.status)) items.append(link(v.status === "published" ? "Read the published report →" : "Read the existing report →", `${base}report/${v.report_slug}/`, "sx-btn sx-btn-primary"));
   if (readResult(v) || savedReportPath(v, base)) items.append(link("Preview as a report →", `${base}draft/?id=${v.id}`, `sx-btn${items.childElementCount ? "" : " sx-btn-primary"}`));
   if (PR.test(v.pr_url || "")) items.append(link("Proposal on GitHub ↗", v.pr_url, "sx-btn"));
   if (/^[a-f0-9]{64}$/.test(v.reply_event_id || "")) items.append(link("Reply on Nostr ↗", `https://njump.me/${v.reply_event_id}`, "sx-btn"));
@@ -116,7 +117,7 @@ function output(box, v) {
 function changed(v, base) {
   const reports = changedReports(v);
   if (!reports.length) return [];
-  const done = ["committed", "published"].includes(v.status), running = isRunning(v.status);
+  const done = ["committed", "deploying", "published"].includes(v.status), running = isRunning(v.status) && !done;
   const wrap = el("div", undefined, "sx-changed");
   wrap.append(el("h3", done ? "Existing reports changed" : running ? "Existing reports this will change" : "Existing reports it would have changed (not changed)"));
   const list = el("ul", undefined, "sx-why-links");
@@ -196,7 +197,7 @@ function sourceCheck(box, v, { api, local }) {
     if (k?.consent && k.consent !== "none found") kept.push(`cookie dialog ${k.consent}`);
     box.append(el("p", [c.rendered ? "Loaded with Playwright · JavaScript rendered" : "Loaded with HTTP", ...kept].join(" · "), "sx-muted"));
     if (c.browser_warning) box.append(el("p", c.browser_warning, "sx-muted"));
-    if (local && c.screenshot) {
+    if (c.screenshot) {
       const captureKey = c.capture_id || `${v.id}:${c.title}:${c.chars}`;
       const figure = previousScreenshot?.dataset.capture === captureKey ? previousScreenshot : el("figure", undefined, "sx-source-screenshot");
       if (!figure.childElementCount) {
