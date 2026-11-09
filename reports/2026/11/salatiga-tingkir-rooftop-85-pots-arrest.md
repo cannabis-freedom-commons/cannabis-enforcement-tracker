@@ -115,6 +115,11 @@ sources:
     publisher: detikJateng
     date: 2026-11-06
     language: id
+  - title: 85 pot ganja diamankan Polres Salatiga dari tangan pria paruh baya, biji ganja ikut disita
+    url: https://www.msn.com/id-id/berita/other/85-pot-ganja-diamankan-polres-salatiga-dari-tangan-pria-paruh-baya-biji-ganja-ikut-disita/ar-AA2gZjmJ
+    publisher: MSN
+    date: 2026-11-08
+    language: id
 open_questions:
   - No weight was published for the dried cannabis found alongside the 85 pots, so no kilogram figure is recorded.
   - The articles give the number of pots (85) but no count of individual plants, and no area.
@@ -138,15 +143,17 @@ open_questions:
   - detikJateng does not say whether the plants were on the roof or elsewhere in the occupied house, while earlier accounts described a rooftop grow.
   - detikJateng gives no count of individual plants behind the 85 pots and no court outcome or formal charge beyond police naming the article.
   - detikJateng's passage on the suspect's own-use admission could not be matched against the capture, so it was left out as a corroborating sentence.
+  - The MSN page is a republication of Tribunnews reporting; its byline names Muhammad Renald Shiftanto and the canonical link points to Tribunnews.
+  - The capture gives the article's relative age as 22 hours and metadata places publication on 8 November 2026; the incident date of 5 November 2026 is taken from the existing report.
 ---
 
 Police from the narcotics unit at Salatiga district police arrested a
 59-year-old man who was growing cannabis on the roof of his house in Kelurahan
 Tingkir Tengah, Kecamatan Tingkir, Kota Salatiga, on Thursday 5 November 2026.
-[@1,4,5,6,8] Officers searched the house's rooftop area and found cannabis plants at
+[@1,4,5,6,8,9] Officers searched the house's rooftop area and found cannabis plants at
 every stage of growth, from seeds and small seedlings to bushy plants that
 appeared ready for harvest, along with dried cannabis. [@1] Police counted 85
-pots of cannabis plants as the total evidence taken in the raid. [@1,4,5,6,8]
+pots of cannabis plants as the total evidence taken in the raid. [@1,4,5,6,8,9]
 
 The suspect was taken with all the evidence to the Salatiga police narcotics
 unit office for questioning. [@2,8] Salatiga narcotics chief AKP Joko Iskandar
@@ -164,8 +171,8 @@ narcotics, Indonesia's drug law. [@1]
 Other Indonesian outlets reported the same arrest of the 59-year-old held over
 dozens of potted cannabis plants on his rooftop. [@3]
 
-Alongside the 85 pots, police seized 7.01 grams of cannabis seeds and 15.48 grams of dried cannabis. [@4,6,8] Police said the suspect faces Article 111 paragraph (2) of Law Number 35 of 2009 on Narcotics in conjunction with Law Number 1 of 2026 on Criminal Penalty Adjustment. [@4,8] The man told investigators he kept cannabis plants, leaves and dried seeds at his house as a supply for his own consumption. [@4]
+Alongside the 85 pots, police seized 7.01 grams of cannabis seeds and 15.48 grams of dried cannabis. [@4,6,8,9] Police said the suspect faces Article 111 paragraph (2) of Law Number 35 of 2009 on Narcotics in conjunction with Law Number 1 of 2026 on Criminal Penalty Adjustment. [@4,8] The man told investigators he kept cannabis plants, leaves and dried seeds at his house as a supply for his own consumption. [@4,9]
 
 The occupied house was in Perumahan Mekar Elok, Tingkir Tengah, Tingkir, Kota Salatiga. [@5,6]
 
-Salatiga police chief AKBP Afrito Marbaro announced the arrest and said one suspect was held in the case. [@4] The man lived in Perumahan Mekar Elok housing estate in Kelurahan Tingkir Tengah, Kecamatan Tingkir, Kota Salatiga. [@4] The officers who acted were from Satresnarkoba, the narcotics unit of Salatiga district police. [@7]
+Salatiga police chief AKBP Afrito Marbaro announced the arrest and said one suspect was held in the case. [@4,9] The man lived in Perumahan Mekar Elok housing estate in Kelurahan Tingkir Tengah, Kecamatan Tingkir, Kota Salatiga. [@4] The officers who acted were from Satresnarkoba, the narcotics unit of Salatiga district police. [@7]
