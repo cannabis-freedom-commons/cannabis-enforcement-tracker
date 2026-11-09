@@ -3,6 +3,7 @@ import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { defineConfig } from "astro/config";
+import { loadEnv } from "vite";
 import { reportsDev, devWatchIgnored } from "./scripts/lib/reports-dev.mjs";
 import { sitemap } from "./scripts/lib/sitemap.mjs";
 import { markdownGlossary } from "./src/lib/glossary.js";
@@ -18,6 +19,9 @@ const glossaryRevision = createHash("sha256")
   .digest("hex");
 
 const base = (process.env.BASE_PATH || "").replace(/\/+$/, "") + "/";
+// The backend the dev server's /__submissions proxy forwards to: the local one, or the server's
+// (SUBMISSIONS_DEV_API=https://tracker-api.cannabisfreedom.fyi in .env).
+const submissionsDevAPI = loadEnv("development", process.cwd(), "").SUBMISSIONS_DEV_API || "http://127.0.0.1:8080";
 const reportsDirectory = resolve(process.env.REPORTS_DIR || "./reports").replaceAll("\\", "/");
 
 // Links in a report's text: one that leaves the site opens in a new tab and is marked `ext`;
@@ -127,7 +131,7 @@ export default defineConfig({
       watch: { ignored: devWatchIgnored(reportsDirectory) },
       proxy: {
         "/__submissions": {
-          target: "http://127.0.0.1:8080",
+          target: submissionsDevAPI,
           changeOrigin: true,
           ws: true,
           rewrite: (path) => path.replace(/^\/__submissions/, ""),
