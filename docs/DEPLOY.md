@@ -81,6 +81,13 @@ Two files in the clone hold the settings. Both are ignored by git.
 printf 'TRACKER_UID=%s\nTRACKER_GID=%s\n' "$(id -u)" "$(id -g)" > .env
 ```
 
+If you run Docker as root but the clone and SSH key are another user's (say `tree`), name that
+user and their `.ssh` instead. ssh refuses keys owned by someone else:
+
+```bash
+printf 'TRACKER_UID=%s\nTRACKER_GID=%s\nSSH_DIR=/home/tree/.ssh\n' "$(id -u tree)" "$(id -g tree)" > .env
+```
+
 `.env.backend` holds the backend's own settings:
 
 ```bash
