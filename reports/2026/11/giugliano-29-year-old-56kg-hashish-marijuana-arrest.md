@@ -59,6 +59,11 @@ sources:
     publisher: Telegolfo
     date: 2026-11-09
     language: it
+  - title: Saisie spectaculaire de drogues et de voitures de luxe à Giugliano
+    url: https://www.ilmattino.it/fr/saisie_spectaculaire_de_drogues_et_de_voitures_de_luxe_a_giugliano-9878690.html
+    publisher: Il Mattino
+    date: 2026-11-09
+    language: fr
 open_questions:
   - Only one source for the event could be opened; the submitted page is an automatically translated English version of an Il Mattino article.
   - The article gives no date or time for the search; 9 November 2026 is its publication date and is used as the incident date.
@@ -72,12 +77,13 @@ open_questions:
   - Telegolfo says the seized drugs arrived in a parcel from the United States, while Il Mattino describes the vapes as arriving from California with the package landing from overseas; the two are consistent but neither states a precise origin or route.
   - The Telegolfo page shows only a 384-pixel thumbnail captioned with the story headline, with no credit or caption confirming it depicts the seizure, so no media entry is added.
   - The text gives a weight ("1.639 kilograms") but the figures have no kg_seized; check whether it belongs there.
+  - The French page is an automatically translated Il Mattino article (the page itself says "Cet article est traduit automatiquement"), so it repeats the outlet's own account rather than providing independent reporting.
 ---
 
 Officers of the operational unit of the Carabinieri company in Giugliano in
 Campania raided the home of a 29-year-old man, already known to law enforcement.
-[@1] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
-of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2] In
+[@1,3] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
+of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3] In
 the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2]
 
 The haul included marijuana vapes that had arrived from California, where the
@@ -87,7 +93,7 @@ switchblade and several vacuum-packing machines. [@1] In the garage police found
 a Range Rover Sport worth 150,000 euros whose plates and chassis number had been
 cloned from another vehicle, and seized it for investigation. [@1]
 
-The 29-year-old was arrested and taken to prison. [@1,2] He is charged with
+The 29-year-old was arrested and taken to prison. [@1,2,3] He is charged with
 illegal possession of narcotics, unlawful possession of weapons and receiving
 stolen goods. [@1]
 
