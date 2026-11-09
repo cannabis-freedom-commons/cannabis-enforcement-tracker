@@ -24,12 +24,14 @@ details:
   case_stage: investigation
   date_precision: exact
   region: Castilla-La Mancha
+  route: {from: [ma], to: [es, nl, fr, be, gb]}
 data_sources:
   details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]
   details.products: [2]
+  details.route: [2]
   details.setting: [2]
   figures.arrested: [2]
   figures.kg_seized: [2]

@@ -24,6 +24,7 @@ details:
   force: [none-reported]
   date_precision: publication
   region: Kuwait
+  route: {from: [za], to: [kw]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -31,6 +32,7 @@ data_sources:
   details.case_stage: [1]
   details.force: [1]
   details.products: [1]
+  details.route: [1, 2]
   details.setting: [1]
   figures.kg_seized: [1]
   figures.sites: [1]

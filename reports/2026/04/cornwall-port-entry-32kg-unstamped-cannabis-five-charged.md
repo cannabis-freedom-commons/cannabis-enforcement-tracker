@@ -32,6 +32,7 @@ details:
   date_precision: exact
   products: [{product: edibles, kg: 32.3}]
   setting: [border]
+  route: {from: [us], to: [ca/on], crossing: Cornwall}
 data_sources:
   details.activity: [2]
   details.agencies: [1, 2]
@@ -39,6 +40,7 @@ data_sources:
   details.case_stage: [2]
   details.date_precision: [2, 1]
   details.products: [2]
+  details.route: [2]
   details.setting: [2]
   figures.charged: [2]
   figures.kg_seized: [2]

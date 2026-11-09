@@ -26,11 +26,13 @@ details:
   setting: [airport, home]
   date_precision: exact
   region: Macau
+  route: {from: [th], to: [mo]}
 data_sources:
   details.activity: [1, 3]
   details.agencies: [1]
   details.agency_types: [1, 2, 3]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

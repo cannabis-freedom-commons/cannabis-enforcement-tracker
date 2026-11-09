@@ -22,12 +22,14 @@ details:
   products:
     - {product: hashish}
   setting: [border]
+  route: {from: [fr], to: [lu], crossing: Rodange}
 data_sources:
   details.activity: [1]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.date_precision: [1]
   details.products: [1]
+  details.route: [2]
   details.setting: [2, 1]
   figures.arrested: [1, 2]
   figures.kg_seized: [1]

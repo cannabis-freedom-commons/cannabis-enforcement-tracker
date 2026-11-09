@@ -23,12 +23,14 @@ details:
   case_stage: investigation
   date_precision: exact
   region: Paraná
+  route: {from: [py], to: [br]}
 data_sources:
   details.activity: [1]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 media:

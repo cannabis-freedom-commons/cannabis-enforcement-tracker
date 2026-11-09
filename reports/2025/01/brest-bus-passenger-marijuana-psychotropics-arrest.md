@@ -22,12 +22,14 @@ details:
   case_stage: investigation
   date_precision: publication
   region: Brest Region
+  route: {from: [pl], to: [by], crossing: Brest}
 data_sources:
   details.activity: [2]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [2]
   details.charges: [2]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
 status: verified

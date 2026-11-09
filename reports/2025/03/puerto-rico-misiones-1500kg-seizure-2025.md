@@ -20,10 +20,12 @@ details:
   case_stage: investigation
   products: [{product: flower, kg: 1500}]
   setting: [vehicle]
+  route: {from: [py], to: [ar]}
 data_sources:
   details.agency_types: [1, 3, 2]
   details.case_stage: [1, 3]
   details.products: [1, 3, 2]
+  details.route: [1, 3]
   details.setting: [1, 3, 2]
   figures.kg_seized: [1, 3, 2]
 status: verified

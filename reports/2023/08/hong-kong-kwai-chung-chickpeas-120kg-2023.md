@@ -26,12 +26,14 @@ details:
   products: [{product: flower, kg: 120}]
   sentence_types: [life]
   setting: [home, prison]
+  route: {from: [ca], to: [hk]}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

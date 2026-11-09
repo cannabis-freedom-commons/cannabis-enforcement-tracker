@@ -30,12 +30,14 @@ details:
   case_stage: charged
   date_precision: exact
   region: La Réunion
+  route: {from: [us], to: [re]}
 data_sources:
   details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1, 2]
   details.setting: [1]
   figures.arrested: [2]
   figures.cash: [2]

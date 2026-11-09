@@ -33,6 +33,7 @@ details:
   sentence_types: [prison]
   period: {start: 2011-01-08, end: 2011-02-15}
   region: Bermuda
+  route: {from: [jm], to: [bm]}
 data_sources:
   details.activity: [1]
   details.agencies: [3, 5]
@@ -41,6 +42,7 @@ data_sources:
   details.charges: [1]
   details.period: [4]
   details.products: [1, 3]
+  details.route: [5]
   details.sentence_types: [4]
   details.setting: [4]
   figures.arrested: [3]

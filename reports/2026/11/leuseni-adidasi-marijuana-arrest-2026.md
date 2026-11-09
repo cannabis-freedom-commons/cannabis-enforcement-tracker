@@ -23,12 +23,14 @@ details:
   case_stage: investigation
   date_precision: exact
   region: Hîncești district
+  route: {from: [md], to: [de], crossing: Leușeni}
 data_sources:
   details.activity: [1]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [2, 6]
   details.setting: [2]
   figures.arrested: [1]
 media:

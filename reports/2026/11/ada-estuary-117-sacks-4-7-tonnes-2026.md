@@ -26,6 +26,7 @@ details:
   environment: [outdoor]
   case_stage: investigation
   setting: [mail]
+  route: {from: [gh], to: [ng]}
 data_sources:
   details.activity: [2]
   details.agencies: [2]
@@ -34,6 +35,7 @@ data_sources:
   details.date_precision: [2, 3, 4, 6, 1]
   details.environment: [2]
   details.products: [2]
+  details.route: [12, 15]
   details.setting: [2, 3, 4, 6, 1]
   figures.arrested: [2]
   figures.kg_seized: [1]

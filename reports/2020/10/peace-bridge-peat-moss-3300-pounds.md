@@ -28,6 +28,7 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 1517}]
   setting: [vehicle]
+  route: {from: [ca], to: [us], crossing: Peace Bridge}
 data_sources:
   details.activity: [1, 2, 3]
   details.agencies: [1, 2]
@@ -35,6 +36,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.date_precision: [3, 4]
   details.products: [1, 2, 3]
+  details.route: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.charged: [1, 2]

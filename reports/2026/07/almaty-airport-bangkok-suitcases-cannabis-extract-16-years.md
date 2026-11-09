@@ -28,6 +28,7 @@ details:
   sentence_types: [prison]
   date_precision: publication
   region: Almaty
+  route: {from: [th], to: [kz]}
 data_sources:
   details.activity: [2]
   details.agencies: [2]
@@ -35,6 +36,7 @@ data_sources:
   details.case_stage: [2]
   details.charges: [2]
   details.products: [2]
+  details.route: [2]
   details.sentence_types: [2]
   details.setting: [2]
   figures.charged: [2]

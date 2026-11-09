@@ -15,9 +15,11 @@ details:
   agency_types: [customs]
   products: [{product: seeds}]
   setting: [border]
+  route: {from: [be], to: [md]}
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 cfi_id: moldova-costesti-seed-seizure-2026

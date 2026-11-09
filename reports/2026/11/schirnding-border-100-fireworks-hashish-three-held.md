@@ -24,6 +24,7 @@ details:
   case_stage: investigation
   date_precision: exact
   region: Bavaria
+  route: {from: [cz], to: [de], crossing: Schirnding}
 data_sources:
   details.activity: [2]
   details.agencies: [1]
@@ -31,6 +32,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]
+  details.route: [1, 2]
   details.setting: [1]
   figures.arrested: [2]
 status: verified

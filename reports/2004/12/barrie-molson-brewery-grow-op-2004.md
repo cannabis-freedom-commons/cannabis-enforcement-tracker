@@ -31,6 +31,7 @@ details:
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [vehicle, home, building]
+  route: {from: [ca/on], to: [us]}
 data_sources:
   details.activity: [1, 2, 4, 3]
   details.agencies: [1, 3]
@@ -39,6 +40,7 @@ data_sources:
   details.date_precision: [1, 2, 4]
   details.environment: [1, 3, 2]
   details.products: [1, 3, 2, 4]
+  details.route: [1, 2]
   details.sentence_types: [1, 2, 4]
   details.setting: [1, 2, 4]
   figures.charged: [1, 2, 4]

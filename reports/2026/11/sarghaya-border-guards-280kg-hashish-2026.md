@@ -23,6 +23,7 @@ details:
   force: [shots-fired]
   date_precision: exact
   region: Rif Dimashq
+  route: {from: [lb], to: [sy], crossing: Sarghaya}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -30,6 +31,7 @@ data_sources:
   details.case_stage: [1]
   details.force: [1]
   details.products: [1]
+  details.route: [1, 4, 6, 7, 8, 9, 10, 11, 14, 16, 17]
   details.setting: [1]
   figures.kg_seized: [1]
 media:

@@ -32,6 +32,7 @@ details:
   sentence_types: [prison]
   date_precision: publication
   region: Isle of Man
+  route: {from: [us], to: [im]}
 data_sources:
   details.activity: [1]
   details.agencies: [2]
@@ -39,6 +40,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [2]
   details.products: [2]
+  details.route: [1]
   details.sentence_types: [2]
   details.setting: [2]
   figures.arrested: [1]

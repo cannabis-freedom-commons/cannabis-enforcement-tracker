@@ -21,11 +21,13 @@ details:
   products:
     - {product: hashish}
   setting: [vehicle]
+  route: {from: [ma], to: [mr]}
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1]
+  details.route: [1]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

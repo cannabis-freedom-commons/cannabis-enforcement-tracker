@@ -21,11 +21,13 @@ details:
   setting: [mail]
   products:
     - {product: hashish}
+  route: {from: [us], to: [sn]}
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [1, 3]
   details.case_stage: [1]
   details.products: [2]
+  details.route: [1, 2]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]

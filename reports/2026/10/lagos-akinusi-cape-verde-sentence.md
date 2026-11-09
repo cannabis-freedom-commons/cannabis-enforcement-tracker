@@ -27,12 +27,14 @@ details:
   products: [{product: flower, kg: 1.1}]
   sentence_types: [prison]
   setting: [airport, prison]
+  route: {from: [ng], to: [cv]}
 data_sources:
   details.activity: [1]
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.route: [2]
   details.sentence_types: [1]
   details.setting: [2, 1]
   figures.fine: [1, 2]

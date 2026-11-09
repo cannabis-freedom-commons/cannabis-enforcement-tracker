@@ -26,12 +26,14 @@ details:
   environment: [indoor]
   products: [{product: flower}]
   setting: [home]
+  route: {from: [ca/on], to: [us]}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.environment: [1]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.charged: [1, 2]
