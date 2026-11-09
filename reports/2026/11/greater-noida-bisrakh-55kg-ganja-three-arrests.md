@@ -73,6 +73,11 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-09
     language: hi
+  - title: 'Greater Noida News: ग्रेटर नोएडा में 55 लाख के गांजे के साथ 3 तस्कर गिरफ्तार, Telegram और Online Parcel से चलाते थे नशे का नेटवर्क, 55 किलो गांजा बरामद'
+    url: https://www.raftartoday.com/greater-noida-news-3-smugglers-arrested-with-ganja-worth-rs-55-lakh-in-greater-noida-used-to-run-a-drug-network-from-telegram-and-online-parcel-55-kg-ganja-recovered
+    publisher: Raftar Today
+    date: 2026-11-09
+    language: hi
 open_questions:
   - Both opened pages carry the same IANS text, so the account rests on a single agency statement and no independent outlet reporting of the arrest was found.
   - Police describe a 2024 NDPS case against one of the three, Wasim, in Hapur district, but its outcome is not reported.
@@ -86,29 +91,34 @@ open_questions:
   - Live Hindustan gives the same 55 kg 124 g and ₹55 lakh figures as the outlets already cited in the report, so it restates the police account rather than adding an independent figure.
   - The earlier Hapur case is given only as a 2024 case number with NDPS sections; its outcome remains unreported.
   - The page's lead image carries only the headline as its caption with no credit, so no media entry is added.
+  - The page's two images are published without a credit and are not confirmed to show this seizure, so no media entry is added.
+  - The page repeats the earlier Hapur district NDPS case against Wasim but gives its number as 649/2024 with sections 8/20/29/37; its outcome remains unreported.
+  - The page gives no remand, charge sheet or court outcome; the case stays at the investigation stage.
 ---
 
 Police in Gautam Buddh Nagar district arrested three men accused of smuggling
 ganja on 9 November 2026, in a joint operation by the SWAT team and Bisrakh
-police station. [@1,3,5] The three were arrested at an under-construction building
-on Golden Grand Road in Bisrakh, in Greater Noida. [@2,3,4,5] The operation was
+police station. [@1,3,5,6] The three were arrested at an under-construction building
+on Golden Grand Road in Bisrakh, in Greater Noida. [@2,3,4,5,6] The operation was
 carried out on input from local intelligence and beat policing, the police
-account said. [@2]
+account said. [@2,6]
 
 Police seized 55 kg 124 g of ganja from them, which they estimated to be worth
-about ₹55 lakh. [@2,3,4,5] Officers also recovered a Hyundai Aura car used to supply
+about ₹55 lakh. [@2,3,4,5,6] Officers also recovered a Hyundai Aura car used to supply
 the drug and three mobile phones. [@1,5]
 
 According to the police account, the men bought ganja cheaply in Odisha and
-other areas and packed it in e-commerce parcels to conceal it. [@2,4] Police said
+other areas and packed it in e-commerce parcels to conceal it. [@2,4,6] Police said
 they delivered ganja door to door on demand through the Telegram messaging app
-and online parcel services, as well as by car. [@2,3,4]
+and online parcel services, as well as by car. [@2,3,4,6]
 
 Bisrakh police station registered a case under the Narcotic Drugs and
-Psychotropic Substances (NDPS) Act, India's main anti-drug law. [@2,4,5] Police said
+Psychotropic Substances (NDPS) Act, India's main anti-drug law. [@2,4,5,6] Police said
 one of the arrested men, Wasim, was previously booked in 2024 in an NDPS case at
-Garhmukteshwar police station in Hapur district. [@2,3,5] Investigators were working
+Garhmukteshwar police station in Hapur district. [@2,3,5,6] Investigators were working
 to establish how many other people are linked to the network and where the ganja
-was supplied. [@1]
+was supplied. [@1,6]
 
 Police said the men had been running the operation for the past two years, taking bookings through the Telegram app. [@3]
+
+Bisrakh police station registered the case, numbered 846/2026, under sections 8 and 20 of the NDPS Act. [@6]
