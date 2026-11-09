@@ -97,6 +97,11 @@ sources:
     publisher: Drimble
     date: 2026-11-08
     language: nl
+  - title: 'DGSN : saisie de plus de deux quintaux de kif traité en provenance du Maroc'
+    url: http://news.radioalgerie.dz/fr/node/98411
+    publisher: Radio Algérienne
+    date: 2026-11-07
+    language: fr
 open_questions:
   - None of the accounts gives the day or days of the operations; 7 November 2026 is the publication date and is used as the incident date.
   - No breakdown of the 205 kg, the 28 arrests or the ten networks by wilaya or operation was published, and the statement does not say where each network was dismantled.
@@ -123,23 +128,27 @@ open_questions:
   - The page gives no separate date for the successive operations; 8 November 2026 is its publication date, while the existing report uses 7 November 2026 from the DGSN statement.
   - The page gives only the rounded 205 kg figure and the totals of 28 arrests and ten networks, with no wilaya breakdown, vehicles, cash or court details.
   - The page image caption only repeats the headline and carries no credit confirming what it shows, so no media entry is added.
+  - The Radio Algérienne page reproduces the same DGSN statement as the sources already cited and is not independent reporting of the seizure.
+  - The page says the recovered sum exceeded one billion centimes without its own fuller figure; the existing report records more than 1.3 billion centimes from other accounts of the same statement.
+  - The page gives no weight figure other than 205 kg and no breakdown by wilaya or operation, and gives no charges or court dates.
+  - The page image is captioned only "الامن" (security) and does not confirm what it depicts, so no media entry is added.
 ---
 
 Algeria's national police dismantled ten criminal networks specialising in drug
 trafficking in the west of the country and arrested 28 people, the Directorate
-General of National Security (DGSN) said. [@1,3,4,5,6,7,8,9] The operations, run in succession
+General of National Security (DGSN) said. [@1,3,4,5,6,7,8,9,10] The operations, run in succession
 by the national police's operational teams, seized 205 kg of treated kif —
-processed cannabis resin — that came from Morocco. [@1,3,4,5,6,7,8,9]
+processed cannabis resin — that came from Morocco. [@1,3,4,5,6,7,8,9,10]
 
 The teams carried out the operations in the wilayas of Tlemcen, Naâma, Oran and
 Béchar, under the supervision of the territorial public prosecutors, according
-to the DGSN statement. [@1,3,4,6] Investigators seized 13 tourist vehicles and two
-motorcycles used for these activities. [@1,3,4,6] They also recovered more than 1
+to the DGSN statement. [@1,3,4,6,10] Investigators seized 13 tourist vehicles and two
+motorcycles used for these activities. [@1,3,4,6,10] They also recovered more than 1
 billion and 300 million centimes — more than 13 million dinars — which the
-statement described as the proceeds of these illicit activities. [@1,4,6]
+statement described as the proceeds of these illicit activities. [@1,4,6,10]
 
 At the end of the investigation the suspects were brought before the public
-prosecutors at the courts of Oran, Naâma, Tlemcen and Béchar. [@1,3,4,6]
+prosecutors at the courts of Oran, Naâma, Tlemcen and Béchar. [@1,3,4,6,10]
 
 Ennahar Online carried the same statement in Arabic, adding that the networks'
 activity extended to other wilayas of the country. [@2]
