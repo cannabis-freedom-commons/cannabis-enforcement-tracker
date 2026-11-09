@@ -65,6 +65,11 @@ sources:
     publisher: Fana News (اتحاد وكالات الأنباء العربية)
     date: 2026-11-09
     language: ar
+  - title: الجيش الأردني يعلن إحباط محاولة تهريب كمية كبيرة من المواد المخدرة
+    url: https://www.fananews.com/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8/
+    publisher: Fana News
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The sources describe only "drugs" (المواد المخدرة) and give no substance; whether any of the cargo was cannabis is not established.
   - No weight, number of balloons or street value was published.
@@ -99,6 +104,6 @@ Jo24. [@2]
 It said the balloons were heading towards Jordanian territory when they were
 spotted. [@2,4]
 
-The Qatari news agency account put the balloons at two different locations on the border before they were brought down. [@5] Petra's Arabic statement says the border guard units that brought the balloons down acted within their own area of responsibility. [@4]
+The Qatari news agency account put the balloons at two different locations on the border before they were brought down. [@5,10] Petra's Arabic statement says the border guard units that brought the balloons down acted within their own area of responsibility. [@4]
 
 The army statement says the balloons were detected as they were heading towards Jordanian territory. [@7]
