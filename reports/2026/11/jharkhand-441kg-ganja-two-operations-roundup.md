@@ -55,6 +55,11 @@ sources:
     url: https://theprint.in/india/441-kg-of-ganja-worth-rs-2-2-crore-seized-in-jharkhand-4-arrested/3093935/
     publisher: ThePrint / Press Trust of India
     date: 2026-11-09
+  - title: झारखंड में 2 करोड़ का गांजा पकड़ा गया, ट्रक के गुप्त तहखाने में छिपाई थी 426 किलो की खेप
+    url: https://www.livehindustan.com/jharkhand/2-crore-worth-of-ganja-seized-in-jharkhand-426-kg-consignment-found-hidden-in-secret-compartment-of-truck-201794204731303.html
+    publisher: Live Hindustan
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The submitted page is a roundup of two separate operations with different dates and no single incident; 7 November 2026, the night of the Tatisilway arrest, is used as the incident date, while the Garhwa recovery was on 8 November.
   - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
@@ -64,11 +69,13 @@ open_questions:
   - The Garhwa value in this PTI account, about 2.13 crore rupees, is higher than the about one crore rupees reported by ETV Bharat for the same 426 kg seizure.
   - The Garhwa case was described as under investigation, with no arrest reported because no one was in the vehicle.
   - The opened ThePrint text reproduces only the Garhwa part of the PTI roundup; the Tatisilway arrest details come from the other sources cited in the existing report and are not restated here.
+  - The Hindi account dates the Garhwa search to Sunday and the train arrest to Saturday night, matching the PTI roundup, while the Tatisilway case was registered on 8 November 2026, so the incident date of the roundup report is kept as 7 November.
+  - The page's only image is labelled in Hindi as an AI-generated symbolic picture, so it does not show the event and no media entry is made.
 ---
 
 Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
 was seized in two separate operations in Jharkhand, officials said on 9 November
-2026. [@1,2,3]
+2026. [@1,2,3,4]
 
 In Garhwa district, police found 426 kg of ganja, valued at about 2.13 crore
 rupees, in a container truck parked near the Kalyanpur overbridge, and no one
