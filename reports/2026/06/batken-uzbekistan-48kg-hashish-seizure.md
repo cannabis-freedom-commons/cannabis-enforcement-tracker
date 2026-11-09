@@ -53,12 +53,20 @@ sources:
     url: https://english.news.cn/20260604/8cebb01456004c46812aff4dfb4076a3/c.html
     publisher: Xinhua
     date: 2026-06-04
+  - title: 'В Кыргызстане изъяли 34 килограмма наркотиков: их доставляли в Узбекистан'
+    url: https://24.kg/proisshestvija/376368_vkyirgyizstane_izyyali_34kilogramma_narkotikov_ihdostavlyali_vuzbekistan_/
+    publisher: 24.kg
+    date: 2026-06-03
+    language: ru
 open_questions:
   - The articles give no separate date for the raids and seizures; 3 June 2026 is their publication date and is used as the incident date.
   - A forensic chemical examination of the 34 kg 448 g seized in Kyrgyzstan had been ordered but its result was not reported, so the cannabis total relies on the police description of the consignment as hashish.
   - The 1 kg of opium seized in Uzbekistan is mentioned only to explain the mixed event and is excluded from cannabis figures.
   - No locality in Uzbekistan was named for the 14 kg hashish seizure and second detention, so coordinates are for Batken region, the most precise named place.
   - Additional photos on the 24.kg page carry no captions establishing that they show this seizure, so only the UzDaily photo is listed.
+  - The 24.kg Russian page names the second suspect as Х.Т.Т., a citizen born in 1995, while UzDaily and 24.kg's English edition call him Kh.T., aged 31; the existing report uses the 31-year-old reading.
+  - The criminal-code article for the case, article 282, is reported by the Kyrgyz side for the Kyrgyz suspect only; no charge was stated for the suspect detained in Uzbekistan.
+  - The 24.kg page gives no separate date for the detention, the searches or the Uzbek seizure; 3 June 2026 is its publication date.
 ---
 
 Law enforcement officers from two countries dismantled an international drug
@@ -73,7 +81,7 @@ A search of the detained man and his car found three packages with a distinctive
 odor weighing about 3 kg. [@1] A later search of his residence found 31 more
 similar packages weighing 31 kg 398 g, bringing the seizure in Kyrgyzstan to 34
 kg 448 g. [@1] In follow-up operations in Uzbekistan, interior-ministry officers
-seized 14 kg of hashish and 1 kg of opium. [@1] The Kyrgyz account describes the
+seized 14 kg of hashish and 1 kg of opium. [@1,4] The Kyrgyz account describes the
 Batken seizure as drugs intended for trafficking onward to Uzbekistan. [@2]
 Xinhua reported that more than 34 kg of suspected drugs were seized in Batken
 region in southwestern Kyrgyzstan during the special operation. [@3]
@@ -84,3 +92,4 @@ exact composition of the Batken seizure. [@3] Authorities said they were working
 to establish all the circumstances and identify other possible members of the
 network. [@1]
 
+Kyrgyzstan's Interior Ministry said the criminal case was being investigated under article 282 of the Criminal Code, which covers illegal production and distribution of narcotic substances. [@4]
