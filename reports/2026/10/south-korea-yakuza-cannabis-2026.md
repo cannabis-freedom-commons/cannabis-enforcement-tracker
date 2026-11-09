@@ -48,6 +48,10 @@ open_questions:
   - The Chosun account says some cannabis was distributed domestically, while the existing report notes the cannabis was seized before it was sold and no profit was made.
   - The Chosun account names the defendant as Kim and calls him a Kudokai member, while the existing report identifies him only as A, a Korean resident of Japan and former yakuza member.
   - The Chosun account describes the co-conspirators only as Vietnamese drug-selling organization members and does not place them in Ho Chi Minh City as the existing report does.
+  - The Japanese accounts give the defendant's full Korean name, Kim Jong-bok, while the existing report identifies him as A, aged 53; Korean outlets name him only as A, so the identification is not confirmed.
+  - South Korean outlets put the retail estimate at about 95.4 billion won, which Japanese television rendered as 110 billion yen; the yen figure is a conversion, not an official valuation in yen.
+  - The submitted ABEMA article describes the man as having fled from Kitakyushu to South Korea after an earlier case, quoting a former Fukuoka police chief; only its first page could be read, and no Japanese court or prosecution source for that history was found.
+  - The 8 October date of the judgment comes from the Japanese television report and Korean coverage; the ABEMA article says only that the sentence came in October.
 sources:
   - title: "'127만명 분' 대마 밀수한 야쿠자 징역 10년…역대 최대 규모"
     url: https://www.yna.co.kr/view/AKR20261008136700061?section=society%2Fall
@@ -70,6 +74,11 @@ sources:
     url: https://www.chosun.com/english/national-en/2026/10/08/H7Z477QAZNBHNFCN275HPONLKI/
     publisher: The Chosun Daily
     date: 2026-10-08
+  - title: 韓国で工藤会系組員に懲役10年　大麻110億円相当を“密輸”日本への再輸出も計画か
+    url: https://news.tv-asahi.co.jp/news_international/articles/000538871.html
+    publisher: テレビ朝日ニュース
+    date: 2026-10-08
+    language: ja
 media:
   - kind: photo
     url: https://www.newsis.com/view/NISX20261008_0003819304
@@ -103,3 +112,5 @@ the facts, helping the investigation, and not having led the whole import, and n
 was seized before it was sold and that no profit was made. [@1]
 
 The cannabis was packaged in 610 bags. [@4] The Chosun account names the defendant as Kim, 53, and identifies his group as the Kudokai. [@4] The earlier 2016 case also involved a pistol and 19 live rounds imported from Japan. [@4]
+
+On 8 October 2026 the Suwon District Court sentenced a Kudokai member in his fifties, described as a Korean resident of Japan, to 10 years in prison for importing the cannabis. [@5] About 636 kilograms of cannabis, valued at 110 billion yen at retail, was found in March in a container on a ship that had left Thailand, at Incheon Port. [@5] Investigators believe the group tried to open Korea as a new drug market because narcotics sell for more there than in Southeast Asia. [@5] Part of the load was to be re-exported from South Korea to Japan. [@5]
