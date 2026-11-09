@@ -56,15 +56,20 @@ sources:
     url: https://spaininter.com/en/news/94-tons-of-hashish-seized-in-spain
     publisher: SpainInter
     language: en
+  - title: В Испании изъяли 25 тонн гашиша на €50 млн
+    url: https://lurer.com/article/592249/ru
+    publisher: Lurer.com
+    date: 2024-04-26
+    language: ru
 ---
 
 Spain's Customs Surveillance Service and the Civil Guard seized nearly 25,000 kg
-of hashish from a lorry at the port of Algeciras on 26 April 2024. [@1,2] The
+of hashish from a lorry at the port of Algeciras on 26 April 2024. [@1,2,3] The
 operation was a joint action by the Tax Agency's customs arm and the Civil
 Guard. [@1,2]
 
 The lorry had arrived from Morocco and was documented as carrying melons bound
-for Perpignan in France. [@1,2] Officers flagged it in the port's domestic
+for Perpignan in France. [@1,2,3] Officers flagged it in the port's domestic
 transport area after a canine-unit officer's drug-detection dog marked it as
 suspicious. [@1,2] Inside the trailer they found 22 wooden compartments packed
 with bales of hashish alongside only a small quantity of the declared melons.
@@ -72,7 +77,7 @@ with bales of hashish alongside only a small quantity of the declared melons.
 
 The agency said the haul could have fetched about 50 million euros and called
 it the largest seizure of hashish in road transport since a 48-tonne seizure at
-Algeciras in 2015. [@1,2]
+Algeciras in 2015. [@1,2,3]
 
 The lorry driver was arrested on suspicion of an offence against public health
-and brought before the judicial authorities. [@1,2]
+and brought before the judicial authorities. [@1,2,3]
