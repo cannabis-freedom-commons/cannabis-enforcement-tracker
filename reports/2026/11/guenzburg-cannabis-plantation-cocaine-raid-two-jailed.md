@@ -74,6 +74,11 @@ sources:
     publisher: Südwest Presse
     date: 2026-11-09
     language: de
+  - title: Drogen-Razzia im Landkreis Günzburg
+    url: https://www.fantasy.de/news/drogen-razzia-im-landkreis-guenzburg
+    publisher: Radio Fantasy
+    date: 2026-11-09
+    language: de
 open_questions:
   - The article gives Wednesday as the raid day and was published on Friday 6 November 2026, so 4 November 2026 is used as the incident date.
   - No number of cannabis plants and no cannabis weight was published, so no plant or kilogram figure is recorded.
@@ -91,17 +96,17 @@ open_questions:
 ---
 
 Police in Landkreis Günzburg are investigating seven people aged between 18 and
-34 on suspicion of dealing in narcotics. [@1,4,7,8] Officers arrested two of the seven
+34 on suspicion of dealing in narcotics. [@1,4,7,8,9] Officers arrested two of the seven
 and brought them before an investigating judge, who issued arrest warrants for
 both. [@2,8] Both suspects are now being held in pretrial detention, according to
 a police statement. [@1] Police said the investigations into the suspected
 narcotics trafficking are continuing. [@3]
 
 On Wednesday officers searched several flats in Landkreis Günzburg, as well as
-flats in the city of Augsburg and in Göppingen in Baden-Württemberg. [@1,4,7,8] The
+flats in the city of Augsburg and in Göppingen in Baden-Württemberg. [@1,4,7,8,9] The
 searches were part of an investigation into suspected narcotics trafficking.
 [@1] In the raid against the suspected drug dealers, police in Landkreis
-Günzburg seized a cannabis plantation together with cocaine and weapons. [@2,8]
+Günzburg seized a cannabis plantation together with cocaine and weapons. [@2,8,9]
 
 According to the police account, officers found an illegal cannabis grow
 facility during the searches. [@1,5,7,8] They also seized more than 100 grams of
