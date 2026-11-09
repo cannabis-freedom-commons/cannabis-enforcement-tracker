@@ -104,6 +104,11 @@ sources:
     publisher: TUDN
     date: 2026-08-12
     language: es
+  - title: 'Sao Paulo: Incautaron 86 kilos de marihuana en bus del club brasileño previo a partido ante Bolívar por Copa Sudamericana'
+    url: https://www.americatv.com.pe/deportes/futbol-mundial/sao-paulo-incautaron-86-kilos-marihuana-bus-club-brasileno-previo-partido-ante-bolivar-copa-sudamericana-n455896
+    publisher: América Deportes
+    date: 2026-08-12
+    language: es
 open_questions:
   - Only one accessible source, Mediotiempo, was found for this event; it says it relied on Brazilian media reports with no named agency on the record.
   - No arrest, detainee or suspect was named or counted, so the report cannot describe anyone as held over the load.
@@ -139,6 +144,10 @@ open_questions:
   - TUDN says the bus was stopped in the vicinity of Cochabamba and does not give the Locotal control post, a date for the stop or the number of people detained.
   - TUDN attributes nothing to a Bolivian police, prosecutor or bus-company statement and names no agency that carried out the search.
   - TUDN says the São Paulo squad used a second bus cleared by police for airport-hotel transfers in Santa Cruz de la Sierra before flying to La Paz, while other accounts describe the replacement coach as going back to the airport and the team travelling separately by plane.
+  - América Deportes gives the weight as almost 87 kilos ("casi 87 kilos") and its headline gives 86 kilos, while the existing report records about 86 kilos.
+  - América Deportes dates the check only as "this start of the week"; 12 August 2026 is its publication date.
+  - América Deportes does not name the bus company, does not say who the three detainees were, and reports no charge or court step.
+  - América Deportes names no Bolivian agency statement and relies on the Brazilian journalist Gabriel Sá.
 ---
 
 Bolivian authorities inspected a bus in Cochabamba on Tuesday 11 August 2026 and
@@ -159,7 +168,7 @@ lessen the effect of the altitude before facing Bolívar. [@1,2]
 Authorities were still investigating where the marijuana came from and who was
 responsible for transporting it, Mediotiempo reported. [@1,7]
 
-The three drivers responsible for the bus, which was heading to Santa Cruz de la Sierra where the squad was staying, were detained. [@2,3,5,6,8,9,10,11] Officers found four bags containing the drug inside the vehicle. [@2,3,5,6,8,9,10] Buses Cosmos said in a statement that all responsibility lay with the drivers and that it provided another vehicle for the team. [@2,3,4,5,8,9,10,11] The Brazilian delegation had not used that bus and learned what happened through local news, having been taken from the airport to the hotel on the night of 10 August in another bus from the same company without incident. [@2,5,8,11]
+The three drivers responsible for the bus, which was heading to Santa Cruz de la Sierra where the squad was staying, were detained. [@2,3,5,6,8,9,10,11,13] Officers found four bags containing the drug inside the vehicle. [@2,3,5,6,8,9,10] Buses Cosmos said in a statement that all responsibility lay with the drivers and that it provided another vehicle for the team. [@2,3,4,5,8,9,10,11] The Brazilian delegation had not used that bus and learned what happened through local news, having been taken from the airport to the hotel on the night of 10 August in another bus from the same company without incident. [@2,5,8,11]
 
 El Comercio, citing the Brazilian outlet Universo Online, reported that the coach was stopped near Cochabamba on 9 August 2026. [@3] The coach was still carrying the São Paulo team's insignia when officers stopped it. [@3] The stop came two days before the Copa Sudamericana match against Bolívar, which was scheduled for 11 August, and the delegation was not on the bus. [@3]
 
@@ -167,10 +176,12 @@ El micro involucrado realizaba habitualmente el recorrido entre Santa Cruz de la
 
 The interception was carried out by UMOPAR, the Mobile Police Unit for Rural Areas, in the Cochabamba area. [@5,8,9,10]
 
-The check took place in the Locotal area, on the road connecting Cochabamba with Santa Cruz. [@8,11]
+The check took place in the Locotal area, on the road connecting Cochabamba with Santa Cruz. [@8,11,13]
 
 The check took place at the Locotal control post in the Cochabamba area, according to an account citing the Brazilian journalist Gabriel Sá. [@9] The São Paulo squad did not use the coach involved in the operation and had no contact with the people detained over the load. [@9]
 
 The information was first published by the Bolivian outlet Red Uno. [@11,12]
 
 TUDN reported that Bolivian police seized 86.5 kilograms of marijuana from the coach. [@12]
+
+América Deportes attributes its account of the check to the Brazilian journalist Gabriel Sá. [@13]
