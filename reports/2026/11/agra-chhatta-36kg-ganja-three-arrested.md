@@ -65,6 +65,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-09
     language: hi
+  - title: 'बड़ी खबरें: दिवाली की रात कई जगह अग्निकांड, दो पक्षों में टकराव के बाद फायरिंग-पथराव; तीन गांजा तस्कर दबोचे'
+    url: https://www.amarujala.com/uttar-pradesh/agra/fire-incidents-occurred-in-several-places-on-diwali-clash-between-two-groups-led-to-gunfire-and-stone-pelting-2026-11-09
+    publisher: Amar Ujala
+    date: 2026-11-09
+    language: hi
 open_questions:
   - Only one accessible source was found for this event; no agency statement or second outlet account could be opened.
   - The Rs 25 lakh figure is reported as the value in the international market without saying who estimated it.
@@ -77,6 +82,10 @@ open_questions:
   - The page's photo is captioned only with the headline and credited to Samvad News Agency; it is not confirmed as showing the seized consignment.
   - Amar Ujala describes the Rs 25 lakh figure as the estimated international value without saying who estimated it, so the open question on that estimate remains.
   - The page is a video item and its lead image is captioned only with the headline; it is not confirmed as showing this seizure.
+  - 'The report''s open question that only one accessible source was found is no longer accurate: Dainik Bhaskar, two Amar Ujala articles and an Amar Ujala video item have all been opened for this arrest, which now rests on two outlets.'
+  - Amar Ujala describes the Rs 25 lakh as the estimated international-market value without naming who estimated it.
+  - 'Left out, as its quotation was not found in Amar Ujala: On questioning, the accused said they had brought the ganja from the Dedh Bazaar bus stand area of Brahmapur in Odisha.'
+  - 'Left out, as its quotation was not found in Amar Ujala: The arrest team was led by the Chhatta station house officer and included four sub-inspectors and two head constables.'
 media:
   - kind: photo
     url: https://www.amarujala.com/uttar-pradesh/agra/agra-interstate-ganja-smuggling-racket-busted-2026-11-09
@@ -93,7 +102,7 @@ nervous. [@1] The three were searched in the presence of the Assistant
 Commissioner of Police for Chhatta, and ganja was recovered from them. [@1,3]
 
 Chhatta police in Agra arrested three members of an interstate gang that
-trafficked ganja into the city. [@1,2] Police seized 36 kg of ganja from their
+trafficked ganja into the city. [@1,2,3] Police seized 36 kg of ganja from their
 possession. [@1,2,3,4] The seized ganja was reported to be worth about Rs 25 lakh.
 [@1,2,3] Police also seized three mobile phones and Rs 490 in cash. [@1,3] The three
 were taken into custody and a case was registered against them at Chhatta police
@@ -111,3 +120,5 @@ information about other members of the gang and its buyers. [@1]
 A case was registered at Chhatta police station as crime number 160 of 2026 under sections 8 and 20 of the NDPS Act. [@3]
 
 Chhatta police carried out the operation on 8 November 2026. [@4]
+
+Amar Ujala's Diwali night roundup of other news in the Braj region also reported the arrest of three ganja smugglers in Agra. [@5]
