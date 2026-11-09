@@ -193,6 +193,11 @@ sources:
     publisher: 20minutos
     date: 2026-11-06
     language: es
+  - title: 'V Španiji razbili kriminalno združbo, ki je drogo pošiljala v Slovenijo: med aretiranimi tudi trije Slovenci'
+    url: https://www.lokalec.si/v-spaniji-razbili-kriminalno-zdruzbo-ki-je-drogo-posiljala-v-slovenijo-med-aretiranimi-tudi-trije-slovenci/
+    publisher: Lokalec.si
+    date: 2026-11-09
+    language: sl
 open_questions:
   - The Guardia Civil statement gives no breakdown of how much of the 181 kg of marijuana was bud and how much was plants, nor whether the 1,388 plants were seized or cut.
   - The three sources give the same figures, but no independent verification of the weights was published; all figures are the Guardia Civil's own.
@@ -220,12 +225,16 @@ open_questions:
   - The page gives no new detail on the role of the three Slovenian detainees or on whether any of them is among the four remanded suspects.
   - The opened capture contains only the opening lines and the heading 'Doce registros en Granada y su provincia'; it gives no drug quantities, seizure towns beyond Granada province, or raid dates beyond the operation name.
   - The capture gives only the publication context ('2 dia(s)' with a 2026-11-08 page render); the incident date of 23-24 October 2026 is taken from the existing report's agency sources.
+  - Lokalec.si attributes its account to the Slovenian outlet N1 rather than to the Guardia Civil statement directly, so it is not independent reporting.
+  - The article does not name the Guardia Civil as the acting force or give the operation name Graveyard 02.
+  - The article does not say whether any of the four remanded suspects are among the three detainees of Slovenian origin, nor what role the Slovenians had in the network.
+  - The submitted page's lead picture is captioned as a symbolic Pixabay image, so no media entry is added.
 ---
 
 Spain's Guardia Civil said it had dismantled a criminal organisation that grew,
 bought and sold, transported and shipped marijuana to Slovenia, detaining 19
 people in operation Graveyard 02. [@2,4,5,8,9,10,12,13,15,16,17] Three of the 19 detainees are of
-Slovenian origin. [@1,4,5,7,9,13,14,15,17] The searches took place on 23 and 24 October 2026 at 12
+Slovenian origin. [@1,4,5,7,9,13,14,15,17,18] The searches took place on 23 and 24 October 2026 at 12
 properties in Granada city, Almuñécar and Peligros. [@2,4,5,6,8,9,10,12,13,14,15] Investigators believe
 the organisation shipped the drugs to Slovenia and have not ruled out
 international links with other countries. [@2,5,14]
