@@ -47,25 +47,32 @@ sources:
     url: https://antiguaherald.com/articles/2026/05/30/all-saints-man-arrested-as-police-seize-cannabis-in-multi-area-drug-operations.html
     publisher: The Antiguan Herald
     date: 2026-05-30
+  - title: Man arrested for cannabis possession - Antigua Observer Newspaper
+    url: https://antiguaobserver.com/man-arrested-for-cannabis-possession/
+    publisher: Antigua Observer Newspaper
+    date: 2026-06-01
+    archived: https://web.archive.org/web/20260602042149id_/https://antiguaobserver.com/man-arrested-for-cannabis-possession/
 open_questions:
   - The approximately one-pound seizure is approximate, so the combined 0.558 kg total is approximate and uses 1 lb as 0.4536 kg plus 104.1 g.
   - The sources describe a 34-year-old arrested and separately refer to another male resident found with 104.1 grams who was arrested; it is unclear whether these are the same person or two people, and a single arrest is recorded as stated in the STRATCOM release.
   - No name, charge outcome or court result was reported, and the man was described as held pending further investigation.
   - 'No photo showing this All Saints and Liberta sweep could be listed: the submitted page image captions an airport seizure of over 13 pounds, the Herald reuses that airport image, and the News Room image is a generic marijuana placeholder.'
+  - The Observer attributes the 104.1 grams to the same 34-year-old suspect, so it remains unclear whether the approximately one-pound property seizure and the 104.1 grams involve the same person or two people, as already noted in the report.
+  - 'No photo from this sweep can be listed: the only image supplied with the submitted page is a generic handcuffs picture that does not show the All Saints and Liberta operations.'
 ---
 
 Coordinated drug enforcement operations were conducted in All Saints and Liberta
-on Friday, 29 May 2026. [@1] The operations were carried out by officers
+on Friday, 29 May 2026. [@1,4] The operations were carried out by officers
 attached to the Narcotics Department of the Royal Police Force of Antigua and
-Barbuda with support from the K-9 Unit. [@1] A 34-year-old man from All Saints
-was arrested on suspicion of unlawful possession of cannabis. [@2] The arrested
+Barbuda with support from the K-9 Unit. [@1,4] A 34-year-old man from All Saints
+was arrested on suspicion of unlawful possession of cannabis. [@2,4] The arrested
 man and the seized substances were taken to Police Headquarters pending further
-investigation. [@2]
+investigation. [@2,4]
 
 During an All Saints operation, a police K-9 alerted officers to illegal drugs
 on a property. [@1] A search of the property led to the discovery of
 approximately one pound of cannabis, which was seized for further investigation.
-[@3] In a separate incident in the same sweep, officers found another All Saints
+[@3,4] In a separate incident in the same sweep, officers found another All Saints
 resident in possession of 104.1 grams of cannabis. [@1] That man was immediately
 arrested and transported to Police Headquarters with the seized cannabis. [@1]
 
@@ -73,4 +80,3 @@ Officers also carried out additional checks in Liberta as part of broader
 efforts to target drug distribution networks. [@1] The Royal Police Force of
 Antigua and Barbuda said it remains committed to sustained enforcement to reduce
 the availability of illegal narcotics and enhance public safety. [@1]
-
