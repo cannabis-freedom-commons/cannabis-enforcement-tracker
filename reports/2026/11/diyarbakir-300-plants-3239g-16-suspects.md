@@ -78,6 +78,16 @@ sources:
     publisher: Son Dakika
     date: 2026-11-09
     language: tr
+  - title: 'Diyarbakır''da kenevir ve esrara büyük darbe: 16 şüpheli gözaltında'
+    url: https://www.aksiyon.com.tr/diyarbakir-da-kenevir-ve-esrara-buyuk-darbe-16-supheli-gozaltinda-391465
+    publisher: Aksiyon
+    date: 2026-11-09
+    language: tr
+  - title: Diyarbakır genelinde düzenlenen uyuşturucu operasyonlarında 16 kişi yakalandı
+    url: https://www.amedtv.com/diyarbakir/diyarbakir-genelinde-duzenlenen-uyusturucu-operasyonlarinda-16-kisi-yakalandi/416059
+    publisher: Amed TV
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The reports give only the publication date of 9 November 2026 and no separate date for the operations; DHA says they took place over the previous week.
   - The İlke account says only that legal action was taken against 16 suspects, while DHA and Habertürk say the 16 were detained.
@@ -94,16 +104,20 @@ open_questions:
   - The Son TV text says legal action was taken against 16 suspects without saying how many were detained, while the existing report records 16 arrested from other accounts.
   - The Son TV totals combine the narcotics sweep with a wanted-persons operation (105 arrested on warrants) and a smuggling operation (31 suspects and 17 incidents); those are about other crimes and are excluded from this report's cannabis figures.
   - The page's lead image has no caption or credit identifying what it depicts, so no media entry is added.
+  - Aksiyon gives no separate date for the operations; 9 November 2026 is its publication date and the day of the announcement.
+  - Aksiyon and Amed TV reproduce the same gendarmerie announcement as the accounts already cited, so they are not independent reporting of the operations.
+  - Aksiyon says procedures for the detained suspects continue and the evidence was prepared for referral to the judicial authorities, without saying whether any of the 16 was charged or remanded.
+  - Aksiyon's lead image is captioned only with the headline and is a 1200 px upload slugged with the story title, so it is not confirmed to show this seizure and no media entry is added.
 ---
 
 Diyarbakır gendarmerie teams ran operations against people accused of selling,
 transporting and using drugs in the city centre and its districts, and 18
 incidents occurred. [@1,4] Legal proceedings were opened against 16 suspects
-linked to those incidents. [@1,4,5,8]
+linked to those incidents. [@1,4,5,8,9]
 
 The gendarmerie said it seized 300 kenevir/skunk roots and 3 kilograms 239 grams
-of esrar. [@1,4,5,8] The operations were coordinated by the provincial gendarmerie's
-anti-narcotics branch and covered the city centre and the districts. [@3,5,8]
+of esrar. [@1,4,5,8,9] The operations were coordinated by the provincial gendarmerie's
+anti-narcotics branch and covered the city centre and the districts. [@3,5,8,9]
 
 The DHA account said the 16 suspects were detained and that the operations took
 place over the previous week. [@2] The reports name no suspect, do not say
@@ -113,3 +127,5 @@ day of publication, 9 November 2026. [@2]
 The operation was announced by the Diyarbakır governor's office. [@5] The İHA account reported the 16 suspects were detained, the same figure recorded here as arrested. [@6,8]
 
 The figures came from three separate press statements published by the Diyarbakır governor's office on 9 November 2026. [@7]
+
+The teams moved simultaneously in the city centre and the districts. [@10] The gendarmerie recorded the seized material for destruction. [@10]
