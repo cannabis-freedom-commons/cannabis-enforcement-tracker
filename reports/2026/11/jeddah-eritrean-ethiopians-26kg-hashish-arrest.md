@@ -53,17 +53,25 @@ sources:
     url: https://english.ajel.sa/saudi-arabia/8ehvguv54
     publisher: Ajel English
     date: 2026-11-09
+  - title: القبض على إريتري و10 إثيوبيين في جدة بتهمة ترويج 26 كيلوجرامًا من الحشيش المخدر
+    url: https://www.alestad.com/152459/%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%A5%D8%B1%D9%8A%D8%AA%D8%B1%D9%8A-%D9%8810-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%AC%D8%AF%D8%A9-%D8%A8%D8%AA%D9%87/
+    publisher: الاستاد الاخباري
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The article gives no separate date for the arrests; 9 November 2026 is its publication date and is used as the incident date.
   - The six residents other than the Eritrean are not given a nationality.
   - No value, names, ages or court outcome were published; the suspects were only referred to the Public Prosecution.
   - Only one outlet and its English edition were found; both are the same publisher's account.
+  - Al-Estad al-Akhbari gives the material only as "المخدرات" (drugs) in its body text; the hashish identification comes from its headline, which names 26 kilograms of cannabis hashish.
+  - The page gives no date for the arrests; 9 November 2026 is its publication date.
+  - This outlet does not separate residents from violators of the border security law, unlike the account already cited in the report.
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control arrested an Eritrean
 resident, six other residents and four Ethiopian violators of the border
-security law in Jeddah governorate. [@1] The directorate accused the 11 people
-of promoting 26 kilograms of hashish. [@1]
+security law in Jeddah governorate. [@1,3] The directorate accused the 11 people
+of promoting 26 kilograms of hashish. [@1,3]
 
 The suspects were stopped, the regulatory measures were taken against them and
 they were referred to the Public Prosecution. [@1] Ajel English reported the
@@ -73,4 +81,3 @@ kilograms of hashish. [@2]
 The directorate asked citizens and residents to report information on drug
 smuggling or promotion to its hotline, 995, or by email, and said all reports
 would be kept confidential. [@1]
-
