@@ -36,6 +36,20 @@ sources:
     publisher: إذاعة حسنى
     date: 2026-11-09
     language: ar
+  - title: المنطقة العسكرية الشرقية تحبط محاولة تهريب مواد مخدرة
+    url: https://petra.gov.jo/ar/news/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%AA%D8%AD%D8%A8%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AE%D8%AF%D8%B1%D8%A9%20-1
+    publisher: وكالة الأنباء الأردنية (بترا)
+    date: 2026-11-09
+    language: ar
+  - title: الجيش الأردني يعلن إحباط محاولة تهريب كمية كبيرة من المواد المخدرة
+    url: https://al-sharq.com/article/09/11/2026/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A9
+    publisher: جريدة الشرق (QNA)
+    date: 2026-11-09
+    language: ar
+  - title: Border Guards Foil Drug Smuggling Attempt Using Balloons
+    url: https://petra.gov.jo/en/news/border-guards-foil-drug-smuggling-attempt-using-balloons
+    publisher: The Jordan News Agency (Petra)
+    date: 2026-11-09
 open_questions:
   - The sources describe only "drugs" (المواد المخدرة) and give no substance; whether any of the cargo was cannabis is not established.
   - No weight, number of balloons or street value was published.
@@ -45,10 +59,11 @@ open_questions:
   - Husna FM reports the same army statement as the outlets already cited and gives no substance, weight, balloon count or arrests, and does not say whether any of the cargo was cannabis.
   - Husna FM's page image is captioned only with the incident and date and carries no credit identifying the photographer or agency, so it is not added as media.
   - Husna FM's related-articles box lists separate Anti-Narcotics Department cases from 29 October to 8 November 2026; they are different events and are not covered here.
+  - QNA says the balloons were detected at two different border locations, while the Petra statement describes a single interception and names no site; the two accounts are not reconciled.
 ---
 
 Jordan's Eastern Military Region foiled an attempt to smuggle a large quantity
-of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3]
+of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3,6]
 Border guard units spotted the balloons, brought them down inside Jordanian
 territory and seized the drugs they carried. [@1,3] The border guards acted with
 security and military bodies and the Anti-Narcotics Department, and the seized
@@ -61,4 +76,6 @@ interception took place on Monday, 9 November 2026, matching the day given by
 Jo24. [@2]
 
 It said the balloons were heading towards Jordanian territory when they were
-spotted. [@2]
+spotted. [@2,4]
+
+The Qatari news agency account put the balloons at two different locations on the border before they were brought down. [@5] Petra's Arabic statement says the border guard units that brought the balloons down acted within their own area of responsibility. [@4]
