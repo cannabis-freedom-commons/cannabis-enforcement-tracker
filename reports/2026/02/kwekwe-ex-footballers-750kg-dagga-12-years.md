@@ -72,6 +72,10 @@ sources:
     url: https://iol.co.za/the-star/news/2025-10-08-a-former-kaizer-chiefs-player-is-accused-of-drug-trafficking-in-zimbabwe/
     publisher: IOL / The Star
     date: 2025-10-08
+  - title: Why was ex-Kaizer Chiefs star Abbas Amidu denied bail in Zimbabwe?
+    url: https://iol.co.za/news/crime-and-courts/2025-10-09-why-was-ex-kaizer-chiefs-star-abbas-amidu-denied-bail-in-zimbabwe/
+    publisher: IOL
+    date: 2025-10-09
 open_questions:
   - Later court reporting described the haul as 780 kg worth about US$78,000, against the police figure of 750 kg worth USD 75,000 used here; the police figure is used because it is the official seizure account.
   - One later court account dates the interception to 4 October 2025 while the police statement gives 3 October 2025; the police date is used.
@@ -79,6 +83,7 @@ open_questions:
   - The sentencing court is not named in the opened sources; only the 24 February 2026 sentencing date is reported.
   - The arrest report also mentions a separate arrest of Prosper Mphofu with 60 kg of dagga at Trabablas Interchange; that is a different event left out here.
   - This article's opening paragraph gives the haul as 780 kg, while the Zimbabwe Republic Police statement quoted further down gives 750 kg; the report uses the police figure.
+  - No source says when the bail hearing took place, whether the court gave reasons for refusing bail, or what it considered, other than that the pair would remain in custody pending trial.
 ---
 
 Former Kaizer Chiefs and Black Leopards forward Abbas Amidu was sentenced to 12
@@ -88,7 +93,7 @@ former footballer Kudzai Mhlanga, also known as Reuben Mhlanga, were convicted
 of dealing in dangerous drugs, namely dagga. [@2] Amidu, listed by authorities
 under the name Tumai Matsika, had been denied bail after his arrest when the
 State opposed release, calling him a flight risk while investigations continued.
-[@1]
+[@1,5]
 
 Police apprehended the pair, aged 29 and 41, on 3 October 2025 along the
 Kwekwe-Kadoma Highway in a silver Honda Shuttle, registration AGP 6776. [@3]
@@ -102,3 +107,5 @@ the arrest, conviction and sentencing together, saying the two appeared in court
 on 24 February 2026 and were each sentenced to 12 years' imprisonment. [@1]
 
 The arrests followed a tip-off, after which detectives intercepted Amidu and Mhlanga just outside Kwekwe. [@4] The two are suspected of being part of a larger drug trafficking syndicate operating across several provinces in Zimbabwe. [@4]
+
+The bail hearing was held in the Kwekwe Magistrates' Court, the same court where they later faced the dagga charge. [@5] Police alleged that Amidu used multiple aliases and had pending cases in Epworth and Harare under different identities to evade detection. [@5]
