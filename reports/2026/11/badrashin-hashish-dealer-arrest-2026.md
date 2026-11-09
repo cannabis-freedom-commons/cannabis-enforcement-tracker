@@ -39,6 +39,11 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-09
     language: ar
+  - title: سقوط تاجر حشيش في البدرشين.. ضبط كمية كبيرة من المخدرات ومبلغ مالي
+    url: https://www.awanmasr.com/%D8%B3%D9%82%D9%88%D8%B7-%D8%AA%D8%A7%D8%AC%D8%B1-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AF%D8%B1%D8%B4%D9%8A%D9%86-%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A9-%D9%83%D8%A8/
+    publisher: اوان مصر
+    date: 2026-11-10
+    language: ar
 open_questions:
   - No weight or number of pieces of hashish was published, so no cannabis quantity is recorded.
   - The amount of cash seized was not stated.
@@ -47,17 +52,18 @@ open_questions:
   - No court outcome beyond the prosecution starting its investigation was reported.
   - Only one accessible source for this event was found after searching in Arabic; no agency statement or second outlet account was available.
   - The page image is dated 2022 and captioned only as an archive security-campaign photo, so no media entry is included.
+  - The Awan Masr article is dated 10 November 2026 and gives no separate date for the arrest; it appears to be a follow-up account of the 9 November detention but the interval is not stated.
+  - The article's tag line names a different drug alongside hashish, but its text describes only hashish; no other substance or quantity is reported.
 ---
 
 Detectives of the Giza Security Directorate arrested a suspected hashish dealer
 in Badrashin, south of Giza, before he could distribute the drug to his
-customers. [@1] Police at Badrashin police station received information that an
+customers. [@1,2] Police at Badrashin police station received information that an
 unemployed man was trafficking narcotics in the station's area. [@1] After
 verifying the information and locating him, officers detained the suspect under
 legal procedures. [@1]
 
 He was found with a large quantity of hashish prepared for sale, cash described
-as proceeds of sale, and a mobile phone used to contact customers. [@1] Police
+as proceeds of sale, and a mobile phone used to contact customers. [@1,2] Police
 filed a report on the arrest and referred the case to the competent prosecution,
-which began its investigation. [@1]
-
+which began its investigation. [@1,2]
