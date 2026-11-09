@@ -73,6 +73,11 @@ sources:
     publisher: deJurnal.com
     date: 2026-11-09
     language: id
+  - title: Kejari Purwakarta Musnahkan Sabu, Ganja, dan 16.465 Butir Obat Keras, Wabup Abang Ijo Apresiasi
+    url: https://pijarnusa.com/kejari-purwakarta-musnahkan-sabu-ganja-dan-16-465-butir-obat-keras-wabup-abang-ijo-apresiasi/
+    publisher: Pijar Nusa Media
+    date: 2026-11-09
+    language: id
 open_questions:
   - No breakdown is given of how many of the 61 cases involved cannabis, or what sentences the underlying cases received.
   - The reports do not name any defendants or give the original seizure dates and places for the cannabis evidence.
@@ -82,6 +87,9 @@ open_questions:
   - The articles give no breakdown of how many of the underlying cases involved cannabis.
   - deJurnal gives 117 grams of ganja and about 350 counterfeit Rp100,000 notes, slightly different from the 117.5703 grams and 357 notes reported by the office's own figures; the report keeps the office figures.
   - deJurnal does not give a total case count or the 61-case breakdown, so its account does not independently confirm the number of cases.
+  - Pijar Nusa Media gives 122.6637 grams of ganja for the destruction, while the office figures cited in the report give 117.5703 grams and Pojoksatu and deJurnal give 117 grams.
+  - Pijar Nusa Media gives no total case count, case breakdown or sentences for the destroyed evidence.
+  - The page's only image is captioned with a file name and its credit or subject cannot be established, so no media entry is added.
 ---
 
 The Purwakarta District Attorney's Office, Kejari Purwakarta, destroyed evidence
@@ -110,6 +118,8 @@ soap solution so they could not be used again. [@1] The office said the exercise
 was meant to ensure no destroyed evidence could be misused or circulate back
 into the community. [@1] Deputy Regent Abang Ijo Hapidin attended and said
 enforcement needed coordination between prosecutors, police, courts and the
-regional government. [@2,5]
+regional government. [@2,5,6]
 
 The head of Kejari Purwakarta, Yudhi Kurniawan, said the destroyed evidence came from cases that had already received final court judgments. [@5] Deputy Regent Abang Ijo Hapidin called on parents to supervise their children and also urged residents to fight online gambling alongside drugs and counterfeit money. [@5]
+
+The Purwakarta district attorney's office destroyed 122.6637 grams of ganja alongside 161.0134 grams of methamphetamine during its destruction of evidence in cases with final court judgments. [@6]
