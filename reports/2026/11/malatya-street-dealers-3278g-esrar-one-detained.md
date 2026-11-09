@@ -53,6 +53,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-09
     language: tr
+  - title: 'Malatya''da uyuşturucu satıcılarına yönelik büyük operasyon: 3 kilo esrar ele geçirildi'
+    url: https://www.haber365.com/haber/malatyada-uyusturucu-saticilarina-yonelik-buyuk-operasyon-3-kilo-esrar-ele-gecirildi-481642
+    publisher: Haber365
+    date: 2026-11-09
+    language: tr
 open_questions:
   - Only one account of this operation was found; it is an agency dispatch published by Malatya Haber and was not corroborated by a second opened source.
   - No neighbourhood, address or specific street within Malatya was named for the operation.
@@ -63,10 +68,14 @@ open_questions:
   - The Haberler.com page image is captioned only with the headline and carries no credit, so it is not confirmed to show this seizure and no media entry was added.
   - The Haberler.com account is an İhlas Haber Ajansı dispatch. A second Malatya Güncel İLKHA page covering the same operation was read but could not be quoted against the saved capture, so it contributes no separate fact.
   - Son Dakika gives the publication time as 9 November 2026 and no separate operation date; the 8 November date comes from the account the existing report already cites.
+  - Haber365 is dated and timed 9 November 2026 at 23:07 and gives no separate operation date; the report's 8 November date comes from the account it already cites.
+  - Haber365 says the suspect was caught red-handed ('suçüstü yakalama'), which the report does not state.
+  - No neighbourhood within Malatya, weight breakdown, value, charge or court date is given.
+  - The page's two images are captioned only with the headline and carry no credit, so neither is confirmed to show this seizure and no media entry was added.
 ---
 
 Malatya provincial police directorate teams detained one suspect in an operation
-against street-level drug dealers on 8 November 2026. [@1] The operation seized
+against street-level drug dealers on 8 November 2026. [@1,4] The operation seized
 3,278 grams of esrar, the Turkish name for cannabis. [@1] The suspect was caught
 and taken into custody as someone assessed to be linked to drug dealing. [@1]
 
@@ -75,4 +84,4 @@ drug trafficking and block the activity of street sellers across the city. [@1]
 The police said operations against drug trafficking and street sellers across
 Malatya province would continue. [@1]
 
-Searches of the suspect's person and his address produced the 3 kg 278 g of esrar. [@2,3] The operation was carried out by teams of the provincial police directorate's narcotics branch, after physical and technical surveillance of street sellers. [@2]
+Searches of the suspect's person and his address produced the 3 kg 278 g of esrar. [@2,3,4] The operation was carried out by teams of the provincial police directorate's narcotics branch, after physical and technical surveillance of street sellers. [@2,4]
