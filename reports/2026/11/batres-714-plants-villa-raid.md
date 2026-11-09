@@ -46,6 +46,11 @@ media:
     media_url: https://fotografias-2.larazon.es/clipping/cmsimages01/2026/11/09/9AFC0FE0-D943-43C3-945E-E9C30D05FC29/guardia-civil-interior-plantacion_98.jpg?crop=1040,585,x25,y0&width=1900&height=1069&optimize=low&format=webply
     publisher: La Razón
     caption: 'A Guardia Civil officer inside the cannabis plantation found in the Batres house, in the photo captioned ''La Guardia Civil, en el interior de la plantación''. Photo: Guardia Civil'
+  - kind: photo
+    url: https://www.andaluciainformacion.es/articulo/sociedad/detenido-hombre-40-anos-batres-madrid-cultivar-714-plantas-cannabis-vivienda/202611091003013530725.html
+    media_url: https://www.andaluciainformacion.es/asset/thumbnail,1920,1080,center,center/media/andaluciainformacion/images/2026/11/02/2026110212450512517.jpg
+    publisher: Andalucía Información
+    caption: 'A Guardia Civil image captioned only "Guardia Civil | Europa Press", illustrating the Batres plantation case. Photo: Europa Press'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 03db6be9b37002443c78f707c810a0a7
@@ -76,6 +81,11 @@ sources:
     publisher: The Objective
     date: 2026-11-09
     language: es
+  - title: Detenido un hombre en Batres con 714 plantas de cannabis en su vivienda
+    url: https://www.andaluciainformacion.es/articulo/sociedad/detenido-hombre-40-anos-batres-madrid-cultivar-714-plantas-cannabis-vivienda/202611091003013530725.html
+    publisher: Andalucía Información
+    date: 2026-11-09
+    language: es
 open_questions:
   - No date is given for the search or the arrest; 9 November 2026 is the day the Guardia Civil announced the operation and the publication date, and is used as the incident date.
   - No weight was published for the hashish, only the count of 13 pressed tablets, so no kilogram figure can be recorded.
@@ -86,21 +96,25 @@ open_questions:
   - Left out environment, as its quotation was not found in Madrid Actual.
   - The Objective publishes the same Guardia Civil statement as the outlets already cited and adds no independently verified facts.
   - The page's lead photograph shows hashish in a car boot and belongs to a separate Huelva story, not to the Batres raid, so it is not recorded as media.
+  - Andalucía Información gives no weight for the 13 tablets of hashish resin, so no kilogram figure was added.
+  - The article carries a Guardia Civil image captioned only with agency credits, which cannot be confirmed to show this plantation.
 ---
 
 Guardia Civil officers searched a detached house (vivienda unifamiliar) in
 Batres, in the south-west of the Community of Madrid, and found an indoor
 cannabis plantation inside it. [@2] The officers seized 714 cannabis plants and
-13 pressed tablets of hashish resin. [@1,5] They also seized products and tools
+13 pressed tablets of hashish resin. [@1,5,6] They also seized products and tools
 used to grow and maintain the plants. [@1]
 
 A 40-year-old man was arrested as the suspected author of a crime against public
-health and of electricity fraud. [@1,5]
+health and of electricity fraud. [@1,5,6]
 
 The police said the inquiries began after neighbours complained about a possible
 indoor cannabis crop in the town. [@3] The Guardia Civil in Madrid said the
 investigation began at the start of September, when several neighbours'
-complaints alerted officers to a possible cannabis crop inside the house. [@4,5]
+complaints alerted officers to a possible cannabis crop inside the house. [@4,5,6]
 Noticias para Municipios described the installation as an indoor grow, the kind
 that uses artificial lighting and controlled conditions to cultivate marijuana
 in enclosed spaces. [@4]
+
+La actuación policial concluyó con la detención del varón que residía en la vivienda, imputado por un delito contra la salud pública y otro por defraudar fluido eléctrico. [@6] El delito de defraudación de fluido eléctrico se vincula con el uso ilegal o manipulado del suministro eléctrico para alimentar aparatos y sistemas necesarios para el control ambiental de la plantación, una práctica habitual en estos casos para reducir costes y evitar detección. [@6]
