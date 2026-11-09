@@ -68,6 +68,11 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-09
     language: tr
+  - title: JANDARMADAN ÜÇLÜ OPERASYON! Diyarbakır'da çeşitli suç ile suçlulara ağır darbe!
+    url: https://www.son.tv/jandarmadan-uclu-operasyon-diyarbakirda-jandarmadan-suc-ve-suclulara-darbe/
+    publisher: SON TV
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The reports give only the publication date of 9 November 2026 and no separate date for the operations; DHA says they took place over the previous week.
   - The İlke account says only that legal action was taken against 16 suspects, while DHA and Habertürk say the 16 were detained.
@@ -80,6 +85,10 @@ open_questions:
   - The Son Dakika text is attributed to the Anadolu Agency and reproduces the governor's office statement, so it is not independent reporting.
   - The Son Dakika page shows one photo captioned only with the headline, with no caption confirming it depicts this seizure, so no media entry is added.
   - The Son Dakika report says legal action was taken against the 16 and does not say how many were detained, while İHA's headline says 16 were detained.
+  - The Son TV page gives only the publication date of 9 November 2026 and no separate date for the operations themselves.
+  - The Son TV text says legal action was taken against 16 suspects without saying how many were detained, while the existing report records 16 arrested from other accounts.
+  - The Son TV totals combine the narcotics sweep with a wanted-persons operation (105 arrested on warrants) and a smuggling operation (31 suspects and 17 incidents); those are about other crimes and are excluded from this report's cannabis figures.
+  - The page's lead image has no caption or credit identifying what it depicts, so no media entry is added.
 ---
 
 Diyarbakır gendarmerie teams ran operations against people accused of selling,
@@ -97,3 +106,5 @@ whether any of the 16 was remanded or charged, and give no date other than the
 day of publication, 9 November 2026. [@2]
 
 The operation was announced by the Diyarbakır governor's office. [@5] The İHA account reported the 16 suspects were detained, the same figure recorded here as arrested. [@6]
+
+The figures came from three separate press statements published by the Diyarbakır governor's office on 9 November 2026. [@7]
