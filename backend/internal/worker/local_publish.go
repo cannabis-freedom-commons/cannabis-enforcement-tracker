@@ -55,15 +55,28 @@ func gitQuiet(ctx context.Context, repo string, limit time.Duration, args ...str
 	if err == nil {
 		return nil
 	}
-	lines := strings.Split(strings.TrimSpace(string(out)), "\n")
-	why := strings.TrimSpace(lines[len(lines)-1])
+	return errors.New(gitMessage(out, err))
+}
+
+// gitMessage is what Git said, on one line: its lines joined, without the generic "Please make
+// sure you have the correct access rights" advice, at most 300 characters.
+func gitMessage(out []byte, err error) string {
+	var parts []string
+	for _, line := range strings.Split(string(out), "\n") {
+		line = strings.TrimSpace(line)
+		if line == "" || strings.HasPrefix(line, "Please make sure you have") || line == "and the repository exists." {
+			continue
+		}
+		parts = append(parts, line)
+	}
+	why := strings.Join(parts, " / ")
 	if why == "" {
 		why = err.Error()
 	}
-	if len(why) > 200 {
-		why = why[:200]
+	if len(why) > 300 {
+		why = why[:300]
 	}
-	return errors.New(why)
+	return why
 }
 
 // Commit only the validated report paths; --only excludes unrelated staged work.

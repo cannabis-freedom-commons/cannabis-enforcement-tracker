@@ -4,6 +4,7 @@ import (
 	"context"
 	"crypto/sha256"
 	"encoding/hex"
+	"errors"
 	"os"
 	"os/exec"
 	"path/filepath"
@@ -282,5 +283,12 @@ func TestSyncedClonePublishesOnTopOfOthersPushes(t *testing.T) {
 	s.DB.QueryRow("SELECT commit_sha FROM local_publications WHERE case_id=?", v.CaseID).Scan(&recorded)
 	if recorded != pushed || !strings.Contains(result.Explanation, pushed[:12]) {
 		t.Fatal("recorded commit is not the pushed one", recorded, pushed)
+	}
+}
+
+func TestGitMessageKeepsTheReason(t *testing.T) {
+	out := []byte("git@github.com: Permission denied (publickey).\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n")
+	if got := gitMessage(out, errors.New("exit status 128")); got != "git@github.com: Permission denied (publickey). / fatal: Could not read from remote repository." {
+		t.Fatal(got)
 	}
 }
