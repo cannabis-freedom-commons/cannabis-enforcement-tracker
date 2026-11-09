@@ -94,6 +94,11 @@ sources:
     publisher: Centralne Biuro Śledcze Policji
     date: 2026-11-09
     language: pl
+  - title: Altana kryła linię produkcyjną amfetaminy. Kolejne laboratorium znaleźli w piwnicy bloku
+    url: https://www.kryminalki.pl/artykul/36757,altana-kryla-linie-produkcyjna-amfetaminy-kolejne-laboratorium-znalezli-w-piwnicy-bloku
+    publisher: kryminalki.pl
+    date: 2026-11-09
+    language: pl
 open_questions:
   - No separate date is given for the searches, detentions or arrests; 9 November 2026 is the publication date of both accounts and stands in for the incident date.
   - No count of cannabis plants, weight of cannabis or area of the cultivation was published; the only cannabis evidence stated is the cultivation and dried plant material in the allotment shed and growing equipment at one suspect's home.
@@ -115,6 +120,11 @@ open_questions:
   - The statement does not say whether the two locations it names for cannabis — the allotment shed in Gdynia and one suspect's home — are separate sites.
   - Neither suspect's plea nor any court outcome beyond temporary arrest is reported.
   - The three gallery photos and the embedded video carry no captions naming which laboratory or seizure they show.
+  - The kryminalki.pl page reproduces the same CBŚP statement as the accounts already cited, so it is not independent reporting of the operation.
+  - The page gives no plant count, weight of dried cannabis or area for the hemp cultivation in the allotment shed.
+  - The amphetamine quantities on the page are amphetamine, not cannabis figures, and its estimate of about 60 kg of finished drug from the 45 litres is a potential output estimate.
+  - The page's headline figure of 1.5 million zlotys differs from the 1.6 million zlotys reported elsewhere; it is a police estimate for amphetamine and chemicals in any case, not a cannabis figure.
+  - The page's photo is captioned only 'CBŚP', with no statement of which site or seizure it depicts, and it appears to be the police handout already listed in the report.
 ---
 
 Officers of the Bydgoszcz branch of the Central Bureau of Investigation of
@@ -124,19 +134,19 @@ illegal amphetamine laboratories in Gdynia and Rumia. [@1,3,4,5]
 
 The first laboratory, with a complete production line for amphetamine, operated
 on a plot in an allotment garden in Gdynia; the second was in the basement of an
-apartment block in Rumia and belonged to Tomasz D. [@1,3,4,5]
+apartment block in Rumia and belonged to Tomasz D. [@1,3,4,5,6]
 
 The police statement reported that the allotment shed where the drug was made
 also contained a cultivation of hemp other than fibre hemp and dried plant
-material, with no plant count or weight given. [@2] At the home of the second
+material, with no plant count or weight given. [@2,6] At the home of the second
 suspect, police found equipment for growing marijuana along with amphetamine.
-[@1,3,5]
+[@1,3,5,6]
 
 Both suspects were charged with illegal production of significant quantities of
 drugs, cultivation of hemp other than fibre hemp, and possession of intoxicating
-and psychotropic substances. [@1,3,4,5] The two men were taken to the District
+and psychotropic substances. [@1,3,4,5,6] The two men were taken to the District
 Prosecutor's Office in Gdynia, and a court ordered them held in temporary arrest
-at the prosecutor's request. [@2,4,5]
+at the prosecutor's request. [@2,4,5,6]
 
 The police figures for the operation concern amphetamine: 3.5 kg of liquid
 amphetamine and more than 45 litres of liquid base amphetamine, valued by police
