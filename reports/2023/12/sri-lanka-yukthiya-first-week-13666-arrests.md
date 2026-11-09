@@ -46,6 +46,10 @@ sources:
     url: https://www.tamilguardian.com/content/15000-arrested-military-backed-drug-crackdown-sri-lanka
     publisher: Tamil Guardian
     date: 2023-12-29
+  - title: 'Sri Lanka: Thousands arrested in week-long anti-drug operation'
+    url: https://www.bbc.com/news/world-asia-67816985
+    publisher: BBC News
+    date: 2023-12-24
 open_questions:
   - The hashish weight is contradicted because VOA reports 35 kilograms of hashish while the Daily Mirror reports 989 grams of hashish plus 35 kilograms listed separately as Ash, so no hashish weight is recorded.
   - Separately listed items called Mawa, Ash, Thule and Kush are not counted as cannabis because the sources list them apart from cannabis and hashish without establishing whether they are cannabis products or overlap with the 272-kilogram total.
@@ -57,13 +61,17 @@ open_questions:
   - 'Left out, as its quotation was not found in Daily Mirror: Police, the Special Task Force and other security forces ran the island-wide Operation Yukthiya across all provinces from 17 December until 12.30 am on 24 December 2023.'
   - 'Left out, as its quotation was not found in Daily Mirror: Police also reported seizing 944,651 cannabis plants in the same week.'
   - 'Left out, as its quotation was not found in Daily Mirror: The same operation also seized heroin, ice and narcotic pills alongside other separately listed drugs.'
+  - The BBC gives the week's seizure only as almost 440kg of various narcotics including heroin, without a separate cannabis weight, so it corroborates the overall haul but not the 272 kg cannabis figure.
+  - The BBC's almost 15,000 figure is its rounded description of the 13,666 suspects plus the 1,097 people sent to rehabilitation; the existing report keeps these two groups apart.
+  - The BBC names no operation, no officials and no individual suspects, and gives no charges or court outcomes.
+  - The BBC page's only image is a Getty stock photo captioned 'Drug raids are not uncommon in Sri Lanka', not a picture of this week's raids, so none is added.
 ---
 
-Police arrested 13,666 suspects during that first week. [@1,3] Of those arrested,
+Police arrested 13,666 suspects during that first week. [@1,3,4] Of those arrested,
 1,107 were people listed as island reconvicted criminals. [@2] Police held 717
 suspects under detention orders for further investigation. [@2] Another 1,097
 drug users were sent to rehabilitation centres, while 174 suspects faced
-investigations into illegally acquired assets. [@2,3]
+investigations into illegally acquired assets. [@2,3,4]
 
 Police said the week produced 272 kilograms of cannabis within almost 440
 kilograms of narcotics. [@1,3] Authorities described Sri Lanka as a
@@ -72,8 +80,10 @@ drug-trafficking transit point in the Indian Ocean. [@1,3]
 The week-long drive was backed by the military. [@1] Local media showed police
 and soldiers using sniffer dogs to search homes in the capital and elsewhere.
 [@1] Human rights lawyer Hejaaz Hizbullah said the raids were illegal because
-they were conducted without search warrants. [@1,3] Activist Ambika Satkunanathan
-said the searches were not based on evidence and targeted only poor areas. [@1,3]
+they were conducted without search warrants. [@1,3,4] Activist Ambika Satkunanathan
+said the searches were not based on evidence and targeted only poor areas. [@1,3,4]
 She added that police were arresting users and small-time dealers rather than
 focusing on large-scale traffickers. [@1,3] Police said raids would pause over
 Christmas for security duties and resume after Tuesday, a Buddhist holiday. [@1]
+
+A police spokesman told the BBC that warrants were not always required to check for drugs. [@4]
