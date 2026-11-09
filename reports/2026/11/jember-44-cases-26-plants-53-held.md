@@ -69,6 +69,11 @@ sources:
     publisher: Bangsapedia.com
     date: 2026-11-09
     language: id
+  - title: Geger! Polres Jember Temukan 26 Pohon Ganja dalam Pot dan Sita 1 Kg Sabu
+    url: https://seblang.com/berita/geger-polres-jember-temukan-26-pohon-ganja-dalam-pot-dan-sita-1-kg-sabu/
+    publisher: Seblang.com
+    date: 2026-11-09
+    language: id
 open_questions:
   - No second account of the 9 November 2026 press conference could be opened; the report rests on the SMN News article alone.
   - The 53 suspects cover all 44 cases; no cannabis-only arrest, charge or suspect count was published.
@@ -82,19 +87,22 @@ open_questions:
   - Bangsapedia places the 26 potted cannabis plants with JW in Situbondo, while separate reporting describes them as found in a rented house in Panji Permai, Mimbaan, Situbondo; the submitted page does not name that place.
   - Bangsapedia names Jalan Buleleng Jaya, Desa Jukung, Sukorambi as the street where CY was detained, whereas another account places the arrest at Jalan Brawijaya, Desa Jubung.
   - The submitted page gives no weight for the 26 living plants and does not say whether they were taken away or left in place.
+  - Seblang.com counts 40 narcotics cases and 49 suspects, while the report's head line carries 44 cases and 53 suspects including four dangerous-drug cases.
+  - Seblang.com gives no weight for the dried ganja seized with the 26 potted plants and does not say whether the plants were taken away or left in place.
+  - Seblang.com places the CY arrest on Jalan Brawijaya, Desa Jubung, Sukorambi, while another account cited in the report names Jalan Buleleng Jaya, Desa Jukung, Sukorambi.
 ---
 
 Police in Jember regency, East Java, said they uncovered 44 narcotics and
 dangerous-drug cases between October and 8 November 2026 and detained 53
-suspects, five of them repeat offenders. [@1,2] Jember police chief AKBP Alaiddin
+suspects, five of them repeat offenders. [@1,2,5] Jember police chief AKBP Alaiddin
 announced the results at a press conference at the police headquarters on Monday
-9 November 2026. [@1,3]
+9 November 2026. [@1,3,5]
 
 The cannabis evidence in the haul was 23.26 grams of dried ganja and 26 cannabis
-plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2] A cannabis
+plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2,5] A cannabis
 case began with the arrest of CY in Jubung village, Sukorambi subdistrict,
 holding 8.72 grams of dried ganja, which led officers to MTA in Kebonsari,
-Sumbersari. [@1] The inquiry then extended to Situbondo regency, where police
+Sumbersari. [@1,5] The inquiry then extended to Situbondo regency, where police
 detained JW as an alleged intercity dealer and found 26 cannabis plants and
 10.20 grams of dried ganja. [@1,2]
 
@@ -108,4 +116,6 @@ Narcotics suspects face up to 20 years in prison and a Rp10 billion fine under
 the 2009 Narcotics Law, while the dangerous-drug suspects face up to 12 years
 and a Rp5 billion fine under the 2023 Health Law. [@1,3]
 
-Police said JW admitted growing the cannabis for his own use as a user but also passed part of the crop in limited supply to people in his social circle. [@4] The 775.29 grams of methamphetamine were found in BSG's rented house at Perumahan Nazira Residence, Kelurahan Bintoro, Patrang, with BSG held after a positive urine test and a suspect identified as DN named as the alleged owner and still at large. [@4]
+Police said JW admitted growing the cannabis for his own use as a user but also passed part of the crop in limited supply to people in his social circle. [@4,5] The 775.29 grams of methamphetamine were found in BSG's rented house at Perumahan Nazira Residence, Kelurahan Bintoro, Patrang, with BSG held after a positive urine test and a suspect identified as DN named as the alleged owner and still at large. [@4]
+
+Officers also seized dried ganja and two ready-to-roll ganja cigarettes along with the 26 living potted plants when they moved against JW in Situbondo regency. [@5] Seblang.com counted the sweep as 40 narcotics cases and 49 suspects, 46 men and three women, four of them repeat offenders. [@5]
