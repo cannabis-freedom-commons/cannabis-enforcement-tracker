@@ -79,6 +79,11 @@ sources:
     publisher: mielec.tv
     date: 2026-11-09
     language: pl
+  - title: 40-latek miał marihuanę i krzewy konopi. Grożą mu konsekwencje
+    url: https://www.podkarpacie112.pl/artykul/52945-40-latek-mial-marihuane-i-krzewy-konopi-groza-mu-konsekwencje
+    publisher: podkarpacie112.pl
+    date: 2026-11-09
+    language: pl
 open_questions:
   - The sources give no separate date for the search and arrest; 9 November 2026 is the publication date of the police statement and is used as the incident date.
   - The 450 grams is described as dried plant material identified as marijuana by initial tests; no laboratory confirmation or street value was reported.
@@ -88,13 +93,14 @@ open_questions:
   - The plants are counted in plants_destroyed because the sources say only that they were secured as evidence, not whether they were seized for destruction.
   - WP Info says the text came from a partner outlet through the WP Kreator programme, so it may reproduce the same Mielec police statement as the other coverage rather than add an independent account.
   - The article gives no separate date for the search and detention; 9 November 2026 is its publication date and was used as the incident date.
+  - podkarpacie112.pl cites KPP Mielec as its source and reproduces the police statement, so it is not an independent account of the search.
 ---
 
 Criminal investigators from the Mielec district police headquarters established
 that a resident of Tuszów Narodowy might be holding banned substances. [@1,4,5]
 Officers went to the address and found the 40-year-old man there, and their
 suspicions were confirmed. [@1,4] In the search police seized 450 grams of dried
-plant material and four cannabis plants other than fibre hemp. [@1,4,5] Initial
+plant material and four cannabis plants other than fibre hemp. [@1,4,5,6] Initial
 tests confirmed that the dried material was marijuana. [@1,5] The man was detained
 and taken to a police detention room. [@2,4] The material was found during a
 search of his home in Tuszów Narodowy in Mielec County. [@2]
