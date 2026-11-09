@@ -51,6 +51,11 @@ sources:
     publisher: Portal Zap Catalão
     date: 2026-11-09
     language: pt
+  - title: Homem é preso com 18,4 kg de maconha e diz que era para "consumo pessoal"
+    url: https://www.metropoles.com/distrito-federal/entorno/homem-e-preso-com-184-kg-de-maconha-e-diz-que-era-para-consumo-pessoal
+    publisher: Metrópoles
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The article gives no exact kilometre marker, no name, age or home town of the driver, and no charge, custody decision or court step.
   - The weight of 18.4 kilograms comes from the PRF statement reproduced by the outlet; no exact scale reading or laboratory confirmation of the substance was published.
@@ -58,12 +63,17 @@ open_questions:
   - The article describes the drug as hidden under the spare tyre and elsewhere as tablets in the boot; the two hiding places are not reconciled.
   - No separate PRF statement or second outlet account of the stop could be opened, so the report rests on the submitted outlet alone, and Portal Zap Catalão follows the PRF statement closely.
   - The page carries one PRF handout photo; no other distinct image of the stop was available.
+  - Metrópoles says the drug was hidden in the car's boot (porta-malas), while the earlier account described it as under the spare tyre; the two hiding places are not reconciled.
+  - The amount of money seized is still not stated, and the source does not say whether it was recorded as drug proceeds.
+  - The article gives no exact kilometre marker and no name, age or home town of the driver, and no charge, custody decision or court step beyond the referral to the Jaraguá Civil Police station.
+  - Both accounts reproduce PRF information; the weight of 18.4 kilograms has no published scale reading or laboratory confirmation of the substance.
+  - The page's own video and the PRF handout photo could not be linked separately here beyond the publisher's image address.
 ---
 
 Federal Highway Police officers arrested a man on suspicion of drug trafficking
 on the BR-153 at Jaraguá, in central Goiás, late on the afternoon of Sunday 8
-November 2026. [@1] Officers found 18.4 kilograms of marijuana hidden under the
-spare tyre of the car he was driving, the PRF said. [@1]
+November 2026. [@1,2] Officers found 18.4 kilograms of marijuana hidden under the
+spare tyre of the car he was driving, the PRF said. [@1,2]
 
 The driver of a GM Astra was stopped during a routine check. [@1] According to
 the PRF, he showed nervousness and gave contradictory information about his
@@ -75,5 +85,6 @@ heading for Anápolis. [@1] Questioned about the drug, he claimed the substance
 was for "personal use". [@1]
 
 The suspect was taken to the Civil Police station in Jaraguá. [@1] The PRF also
-seized the car, two mobile phones and an amount of money. [@1]
+seized the car, two mobile phones and an amount of money. [@1,2]
 
+The man already had a criminal record for illegal possession of a firearm, according to the police. [@2]
