@@ -124,6 +124,11 @@ sources:
     url: https://macaubusiness.com/portugal-police-seize-4-5-tonnes-of-hashish-in-algarve-one-arrest/
     publisher: Macau Business
     date: 2026-11-09
+  - title: Detenido con cerca de 4,5 toneladas de hachís
+    url: https://www.huelvahoy.com/sucesos/detenido-cerca-45-toneladas-hachis/20261109184551406462.html
+    publisher: Huelva Hoy
+    date: 2026-11-09
+    language: es
 open_questions:
   - No date is given for the operation or the arrest; 9 November 2026 is the publication date of the accounts and stands in for the incident date.
   - The weight is given as approximately 4.5 tonnes and the bale count as about 100, not exact measured figures.
@@ -157,14 +162,18 @@ open_questions:
   - The Macau Business page shows a 10 November 2026 dateline above the article; 9 November 2026 is its listed publication timestamp, and neither is a separate date for the operation.
   - Macau Business reproduces the same AFP copy of the Judicial Police statement carried by the outlets already cited, so it does not independently corroborate the police version.
   - The submitted page's images are unrelated outlet banners and features, so no media entry is added.
+  - Huelva Hoy places the arrest "cerca de Huelva, en la frontera con Portugal", which conflicts with the Portuguese accounts placing the van and the arrest in the rural area of Olhão; the Olhão report follows the Portuguese accounts.
+  - Huelva Hoy gives no separate date for the operation or the arrest; 9 November 2026 is its publication date.
+  - Huelva Hoy reproduces the same Judicial Police statement as the Portuguese outlets already cited, so it does not independently corroborate the police version.
+  - The page's two article images are a Judicial Police photograph of a detained man and a Judicial Police photograph, both reused from other coverage with no indication that they show this seizure, so no media entry is added.
 ---
 
 Judicial police in Olhão arrested a 38-year-old man on suspicion of drug
-trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5,6,7,8,10,11,13]
+trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5,6,7,8,10,11,13,14]
 The bales weighed about 4.5 tonnes in total. [@1,4,5,8,9,10]
 
 The van was hidden on a rural property and investigators believe the hashish was
-brought ashore by sea through the channels of the Ria Formosa. [@1,4,7,8,10,11,12] Detectives
+brought ashore by sea through the channels of the Ria Formosa. [@1,4,7,8,10,11,12,14] Detectives
 identified the load inside the stolen goods vehicle while investigating the
 activity of a criminal group, which police say had the guarding of the drug in
 hand. [@3,8] Notícias ao Minuto described the stolen goods van as holding the
@@ -180,7 +189,7 @@ bringing drugs ashore from North Africa. [@1]
 
 The operation was run by the Judicial Police's Southern Directorate with the collaboration of the Republican National Guard (GNR). [@4,7,10,11,13] The detained man's role, police say, was to guard the drug. [@4,11]
 
-The suspect was tasked with guarding the drug, which was inside the vehicle hidden on a property in the rural area of Olhão. [@5,7,13] The Judicial Police announced the arrest on Monday, 9 November. [@5] No preventive measures had yet been decided and the investigation was continuing. [@5]
+The suspect was tasked with guarding the drug, which was inside the vehicle hidden on a property in the rural area of Olhão. [@5,7,13,14] The Judicial Police announced the arrest on Monday, 9 November. [@5] No preventive measures had yet been decided and the investigation was continuing. [@5]
 
 A Judicial Police source said the operation took place on Saturday. [@7,13]
 
