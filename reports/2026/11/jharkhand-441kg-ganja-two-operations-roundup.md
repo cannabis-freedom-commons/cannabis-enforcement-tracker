@@ -1,0 +1,74 @@
+---
+code: TNQW0M
+added_at: "2026-11-09T06:36:02.881665Z"
+date: 2026-11-07
+country: in
+place: Jharkhand
+coordinates: [23.36, 85.33]
+precision: region
+type: arrest
+also: [seizure]
+title: Jharkhand roundup counts 441 kg of ganja seized and four held in two busts
+summary: >-
+  Jharkhand police reported 441 kg of ganja worth a combined 2.2 crore rupees seized in two separate operations, with four people arrested. The arrests came at Tatisilway railway station, where the RPF held four men with 15 kg of ganja, while the Garhwa seizure of 426 kg from a container truck produced no arrests.
+figures:
+  arrested: 4
+  kg_seized: 441
+  value:
+    amount: 22000000
+    currency: INR
+details:
+  agencies: [Railway Protection Force (RPF), Garhwa police]
+  agency_types: [police]
+  products:
+    - {product: flower, kg: 441}
+  activity: [trafficking]
+  setting: [vehicle]
+  case_stage: investigation
+  date_precision: approximate
+  region: Jharkhand
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+  figures.value: [1]
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 67a46b757520e259a33a24dd88cd3060
+tags: [jharkhand, ganja, pti, rpf, state-roundup]
+sources:
+  - title: 'Major Drug Bust In Jharkhand: 441 Kg Ganja Seized, Four Arrested'
+    url: https://www.rediff.com/news/report/441-kg-ganja-seized-in-jharkhand-four-arrested/20261109.htm
+    publisher: Rediff.com
+    date: 2026-11-09
+open_questions:
+  - The submitted page is a roundup of two separate operations with different dates and no single incident; 7 November 2026, the night of the Tatisilway arrest, is used as the incident date, while the Garhwa recovery was on 8 November.
+  - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
+  - The page names no single place, so the state of Jharkhand and its centre coordinates are given.
+  - The page's only image is labelled as an AI-generated representation, so no media entry is made.
+  - Four arrests in the headline cover only the Tatisilway case; the Garhwa police account names no arrest.
+---
+
+Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
+was seized in two separate operations in Jharkhand, officials said on 9 November
+2026. [@1]
+
+In Garhwa district, police found 426 kg of ganja, valued at about 2.13 crore
+rupees, in a container truck parked near the Kalyanpur overbridge, and no one
+was arrested because the vehicle was empty. [@1]
+
+The Railway Protection Force arrested four interstate peddlers with 15 kg of
+ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway
+station on the night of 7 November, with the contraband valued at about 7.5 lakh
+rupees. [@1] Police said the four were taking the ganja from Balangir in Odisha
+to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi
+Government Railway Police. [@1]
+
+Police registered cases under the Narcotic Drugs and Psychotropic Substances
+Act, India's main anti-drug law, in both matters. [@1]
+

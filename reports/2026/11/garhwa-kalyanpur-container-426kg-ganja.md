@@ -78,6 +78,10 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-09
     language: hi
+  - title: 'Major Drug Bust In Jharkhand: 441 Kg Ganja Seized, Four Arrested'
+    url: https://www.rediff.com/news/report/441-kg-ganja-seized-in-jharkhand-four-arrested/20261109.htm
+    publisher: Rediff.com
+    date: 2026-11-09
 open_questions:
   - The article gives no separate date for the recovery; 8 November 2026 is its publication date and is used as the incident date.
   - The total is presented as 426 packets of about one kilogram each, so the 426 kg figure is the police's own calculation rather than a measured weight.
@@ -94,6 +98,7 @@ open_questions:
   - ETV Bharat calls the vehicle a container truck found during late-night checking on the Kalyanpur highway, while the existing report describes a container found standing empty near the Kalyanpur overbridge; both accounts agree on the 426 kg quantity and the investigation status.
   - The Amar Ujala page gives no separate date for the recovery; 9 November 2026 is its publication date, while the existing report uses 8 November 2026.
   - The page lists one image whose caption only repeats the headline and credits only Amar Ujala, so it is not confirmed to show this seizure and is omitted as media.
+  - PTI gives the Garhwa value as about 2.13 crore rupees, while ETV Bharat reported about one crore; the report carries neither figure in its structured value field.
 ---
 
 Garhwa police in Jharkhand recovered 426 kilograms of ganja from a container
@@ -120,3 +125,5 @@ the ganja was recovered, and the police account names no suspect. [@1,2,3,5]
 The container carrying the ganja bore the Uttar Pradesh registration number UP21BN7171, and Garhwa superintendent of police Ashutosh Shekhar received the tip that led to the search. [@3]
 
 The ETV Bharat account valued the 426 kg of ganja at about one crore rupees. [@4]
+
+A PTI account carried by Rediff valued the seized ganja at about 2.13 crore rupees, higher than the about one crore rupees reported by another outlet. [@6] The seized truck carried a Uttar Pradesh registration number, the Garhwa superintendent of police said. [@6]

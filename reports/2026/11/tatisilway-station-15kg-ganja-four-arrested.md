@@ -49,12 +49,17 @@ sources:
     publisher: ETV Bharat News
     date: 2026-11-09
     language: hi
+  - title: 'Major Drug Bust In Jharkhand: 441 Kg Ganja Seized, Four Arrested'
+    url: https://www.rediff.com/news/report/441-kg-ganja-seized-in-jharkhand-four-arrested/20261109.htm
+    publisher: Rediff.com
+    date: 2026-11-09
 open_questions:
   - Three accused are named only as Jitendra, Sunny and Verma, with no ages or full names given.
   - No court outcome beyond registration of the NDPS case and continuing investigation was reported.
   - Only one account of the Tatisilway arrest could be opened, and no agency statement was found.
   - The page's listed image is captioned as ganja worth one crore seized, which matches the Garhwa seizure in the same article rather than this 7.5-lakh Tatisilway seizure, so no media entry for this event is made.
   - The same page also reports the 426 kg Garhwa container-truck seizure, a separate event already recorded and handled here as an update to that report rather than part of this report.
+  - The PTI roundup places the Tatisilway seizure on the night of 7 November, while the existing report dates the incident 8 November from the publication date.
 ---
 
 RPF personnel arrested four alleged smugglers with 15 kg of ganja at Tatisilway
@@ -83,3 +88,4 @@ investigating the case further. [@1] Under Operation NARCOS, continuing special
 checks are being run on trains and at railway stations to stop narcotics
 smuggling. [@1]
 
+The PTI roundup confirms that three of the accused are from Uttar Pradesh and that the fourth, the purchaser of the contraband, is from West Champaran district in Bihar. [@2]
