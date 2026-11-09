@@ -1,7 +1,7 @@
 // The publication strip on /submissions/: committed reports waiting for the next batch to main,
 // reports on main waiting for the site's build, and the last batch (backend: worker/batch.go).
 // From /v1/status, every 30 seconds while the page is visible.
-const box = document.getElementById("register-publication");
+const box = document.getElementById("publication");
 if (box) {
   const api = (box.dataset.api || "").replace(/\/$/, "");
   const $ = (name) => box.querySelector(`[data-pub="${name}"]`);

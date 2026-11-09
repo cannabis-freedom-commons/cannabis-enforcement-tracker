@@ -161,7 +161,7 @@ func (s *Store) ListSubmissions(ctx context.Context, cursor, status, origin, sor
       count(CASE WHEN c.status<>'budget_wait' AND NOT EXISTS(SELECT 1 FROM jobs j WHERE j.ref=c.id AND j.status='running' AND j.lease_until>unixepoch()) THEN 1 END),
       count(CASE WHEN c.status='budget_wait' THEN 1 END)
       FROM cases c
-      WHERE c.status IN ('queued','budget_wait','fetching','classifying','researching','verifying','drafted','awaiting_review','publishing','merged','deploying')`).Scan(&out.Summary.Total, &out.Summary.Running, &out.Summary.Queued, &out.Summary.Paused); err != nil {
+      WHERE c.status IN ('queued','budget_wait','fetching','classifying','researching','verifying','drafted','awaiting_review','publishing')`).Scan(&out.Summary.Total, &out.Summary.Running, &out.Summary.Queued, &out.Summary.Paused); err != nil {
 		return out, err
 	}
 	var revision int64

@@ -14,61 +14,42 @@ const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boo
 ---
 <Base title="Submissions" description="Every source sent to the tracker: what is being researched, what was published and why the rest was not." wide noindex>
   <div class="sx" data-submission-register data-submissions data-api={api} data-base={base}>
-    <header class="sx-head">
-      <div>
-        <h1>Submissions</h1>
-        <p class="sx-lead">Send a news URL and follow its processing. All submitted sources appear below, most recently updated first.</p>
-      </div>
-      {/* the AI worker and the live connection, compact, at the top right */}
-      <aside class="sx-head-side sx-worker-card" aria-label="AI worker">
-        <section class="sx-worker" id="register-processing">{api ? "Checking the AI worker…" : "The submissions service is not connected."}</section>
-        <span class="sx-live" id="register-connection" data-state="offline" role="status"><i aria-hidden="true"></i><span>{api ? "Connecting…" : "Offline"}</span></span>
-      </aside>
-    </header>
+    <div class="sx-title">
+      <h1>Submissions</h1>
+      <button type="button" class="sx-btn sx-btn-primary sx-open-submit" data-open-submit disabled={!api}>+ Submit a source</button>
+    </div>
+    <p class="lead">Every news source sent to the tracker, and what became of it: researched by AI, checked against the sources, and published as a report or turned down with a reason. Anyone can send one and follow its way here.</p>
+    <nav class="sx-nav" aria-label="On this page">{[["overview", "Overview"], ["publication", "Publication"], ["activity", "Activity"], ["outcomes", "What became of them"], ["working", "Working now"], ["all", "All submissions"]].map(([id, label]) => <a href={`#${id}`}>{label}</a>)}</nav>
 
-    <section class="sx-overview" aria-label="All submissions" aria-live="polite">
-      <div class="sx-overview-running"><strong id="register-running">—</strong><span>Running now</span><small>Active processing jobs</small></div>
-      <div><strong id="register-total">—</strong><span>Total submissions</span><small>All sources and pages</small></div>
-      <div><strong id="register-queued">—</strong><span>Queued</span><small>Cases waiting to run</small><small id="register-queue-estimate" title="Approximate time for queued and running cases at the last hour's commit rate, assuming no new arrivals. Budget pauses prevent an estimate.">Est. to clear: —</small></div>
-      <div><strong id="register-commit-rate">—</strong><span>Committed / min</span><small>Last 60 minutes</small></div>
+    {/* the figures card, as on the statistics page: the register fills the headline
+        (submissions-table.js), the outcomes the row below it (submissions-outcomes.js) */}
+    <section id="overview" class="sx-overview" aria-label="Overview" aria-live="polite">
+      <div class="sx-headline">
+        <div class="sx-headline-main"><span class="sx-headline-num" id="register-total">—</span><span class="sx-headline-label">sources submitted</span></div>
+        <dl class="sx-headline-facts">
+          <div><dt>researching now</dt><dd id="register-running">—</dd></div>
+          <div><dt>waiting · <span id="register-queue-estimate" title="Approximate time for queued and running cases at the last hour's commit rate, assuming no new arrivals. Budget pauses prevent an estimate.">Est. to clear: —</span></dt><dd id="register-queued">—</dd></div>
+          <div><dt>reports committed per minute, last hour</dt><dd id="register-commit-rate">—</dd></div>
+          <div><dt>AI research</dt><dd class="sx-headline-live"><span class="sx-live" id="register-connection" data-state="offline" role="status"><i aria-hidden="true"></i><span>{api ? "Connecting…" : "Offline"}</span></span></dd></div>
+        </dl>
+      </div>
+      <div class="sx-worker-strip sx-worker" id="register-processing">{api ? "Checking the AI worker…" : "The submissions service is not connected."}</div>
+      {api && <div class="sx-figures" id="register-outcome-figures" data-api={api}>
+        <div class="sx-figure"><div class="sx-fig-num" data-fig="received">—</div><div class="sx-fig-label">Received · 24 h</div><div class="sx-fig-note" data-fig="received-note">&nbsp;</div></div>
+        <div class="sx-figure"><div class="sx-fig-num" data-fig="committed">—</div><div class="sx-fig-label">Reports · 24 h</div><div class="sx-fig-note" data-fig="committed-note">&nbsp;</div></div>
+        <div class="sx-figure"><div class="sx-fig-num" data-fig="published">—</div><div class="sx-fig-label">Published · 7 days</div><div class="sx-fig-note" data-fig="published-note">&nbsp;</div></div>
+        <div class="sx-figure"><div class="sx-fig-num" data-fig="speed">—</div><div class="sx-fig-label">Source to report</div><div class="sx-fig-note" data-fig="speed-note">&nbsp;</div></div>
+        <div class="sx-figure"><div class="sx-fig-num" data-fig="rate">—</div><div class="sx-fig-label">Became a report</div><div class="sx-fig-note" data-fig="rate-note">&nbsp;</div></div>
+      </div>}
     </section>
 
-    {/* committed reports on their way to the site: filled by src/scripts/submissions-publication.js */}
-    {api && <section class="sx-publication" id="register-publication" data-api={api} aria-labelledby="publication-title" aria-live="polite" hidden>
-      <h2 id="publication-title">Publication</h2>
-      <div class="sx-publication-steps">
-        <div data-step="waiting"><strong data-pub="waiting">—</strong><span>Waiting for the next batch</span><small data-pub="next">—</small></div>
-        <div data-step="deploying"><strong data-pub="deploying">—</strong><span>On main, deploying</span><small data-pub="build">—</small></div>
-        <div data-step="last"><strong data-pub="last-reports">—</strong><span>Last batch</span><small data-pub="last">—</small></div>
+    {/* the form opens over the page: the button by the title, or a link to #submit */}
+    <dialog id="submit" class="sx-dialog" aria-labelledby="submit-source-title">
+      <div class="sx-dialog-head">
+        <h2 id="submit-source-title">Submit a source</h2>
+        <button type="button" class="sx-dialog-close" data-close-submit aria-label="Close">✕</button>
       </div>
-      <p class="sx-publication-note" data-pub="note"></p>
-    </section>}
-
-    {api && <section class="sx-activity" data-submission-activity data-api={api} data-state="loading" aria-labelledby="activity-title">
-      <div class="sx-activity-head">
-        <h2 id="activity-title">Activity</h2>
-        <div class="sx-activity-switch" role="group" aria-label="Period">
-          <button type="button" data-window="1h" aria-pressed="true">Last hour</button>
-          <button type="button" data-window="24h" aria-pressed="false">Last 24 h</button>
-        </div>
-      </div>
-      <ul class="sx-activity-legend">
-        <li data-key="committed"><i aria-hidden="true"></i>Committed <b data-total="committed">—</b></li>
-        <li data-key="closed"><i aria-hidden="true"></i>Closed without a report <b data-total="closed">—</b></li>
-        <li data-key="received"><i aria-hidden="true"></i>Received <b data-total="received">—</b></li>
-        <li data-key="open"><i aria-hidden="true"></i>Waiting or running <b data-total="open">—</b></li>
-        <li data-key="tokens" class="sx-activity-tokens">AI tokens <b data-total="tokens">—</b></li>
-      </ul>
-      <div class="sx-activity-frame">
-        <div class="sx-activity-plot"></div>
-        <div class="sx-activity-tip" role="status" hidden></div>
-        <p class="sx-activity-note sx-activity-loading">Loading activity…</p>
-        <p class="sx-activity-note sx-activity-error">Activity could not be loaded.</p>
-      </div>
-    </section>}
-
-    <section class="sx-compose" aria-labelledby="submit-source-title">
-      <h2 id="submit-source-title">Submit a source</h2>
+      <div class="sx-compose">
       <form id="submission-form">
         <label for="source-url">News URL</label>
         <div class="sx-compose-line">
@@ -80,12 +61,60 @@ const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boo
           <textarea id="public-note" name="note" maxlength="500" rows="2" aria-describedby="note-hint" disabled={!api}></textarea>
           <p id="note-hint">Up to 500 characters. This note is public.</p>
         </details>
-        <p id="submission-hint" class="sx-compose-hint">No account needed. Use published reporting. URLs, notes and outcomes are public and may remain on Nostr permanently.</p>
+        <p id="submission-hint" class="sx-compose-hint">No account needed. Send a link to published reporting about a raid, seizure, eradication, arrest, prosecution or sentence. URLs, notes and outcomes are public and may remain on Nostr permanently.</p>
         <div id="submit-message" class="sx-message" role="status" aria-live="polite">{!api && "Submissions are not available yet. Please check back."}</div>
       </form>
-    </section>
+      </div>
+    </dialog>
 
-    <section class="sx-working" aria-labelledby="working-title">
+    {/* committed reports on their way to the site: filled by src/scripts/submissions-publication.js */}
+    {api && <section id="publication" class="sx-section sx-publication" data-api={api} aria-labelledby="publication-title" aria-live="polite" hidden>
+      <h2 id="publication-title">Publication</h2>
+      <div class="sx-card">
+        <div class="sx-publication-steps" id="register-publication-steps">
+          <div data-step="waiting"><strong data-pub="waiting">—</strong><span>Waiting for the next batch</span><small data-pub="next">—</small></div>
+          <div data-step="deploying"><strong data-pub="deploying">—</strong><span>On main, deploying</span><small data-pub="build">—</small></div>
+          <div data-step="last"><strong data-pub="last-reports">—</strong><span>In the last batch</span><small data-pub="last">—</small></div>
+        </div>
+        <p class="sx-publication-note" data-pub="note"></p>
+      </div>
+    </section>}
+
+    {api && <section id="activity" class="sx-section sx-activity" data-submission-activity data-api={api} data-state="loading" aria-labelledby="activity-title">
+      <div class="sx-section-head">
+        <h2 id="activity-title">Activity</h2>
+        <div class="sx-activity-switch" role="group" aria-label="Period">
+          <button type="button" data-window="1h" aria-pressed="true">Last hour</button>
+          <button type="button" data-window="24h" aria-pressed="false">Last 24 h</button>
+        </div>
+      </div>
+      <div class="sx-card">
+        <ul class="sx-activity-legend">
+          <li data-key="committed"><i aria-hidden="true"></i>Committed <b data-total="committed">—</b></li>
+          <li data-key="closed"><i aria-hidden="true"></i>Closed without a report <b data-total="closed">—</b></li>
+          <li data-key="received"><i aria-hidden="true"></i>Received <b data-total="received">—</b></li>
+          <li data-key="open"><i aria-hidden="true"></i>Waiting or running <b data-total="open">—</b></li>
+          <li data-key="tokens" class="sx-activity-tokens">AI tokens <b data-total="tokens">—</b></li>
+        </ul>
+        <div class="sx-activity-frame">
+          <div class="sx-activity-plot"></div>
+          <div class="sx-activity-tip" role="status" hidden></div>
+          <p class="sx-activity-note sx-activity-loading">Loading activity…</p>
+          <p class="sx-activity-note sx-activity-error">Activity could not be loaded.</p>
+        </div>
+      </div>
+    </section>}
+
+    {api && <section id="outcomes" class="sx-section" aria-labelledby="outcomes-title" hidden data-outcomes>
+      <h2 id="outcomes-title">What became of them</h2>
+      <p class="sx-section-lead">Every source since the tracker began taking submissions. Several sources about one event make one report: the others add to it or are already covered.</p>
+      <div class="sx-pair">
+        <figure class="sx-card"><figcaption><b>Outcome</b> <span>by source</span></figcaption><ul class="sx-bars" data-bars="status"></ul></figure>
+        <figure class="sx-card"><figcaption><b>Where they came from</b> <span>by submission</span></figcaption><ul class="sx-bars" data-bars="origin"></ul><p class="sx-card-note">Discovery reads Google News, Bing News and other feeds; people send links on the website and on Nostr.</p></figure>
+      </div>
+    </section>}
+
+    <section id="working" class="sx-section sx-working" aria-labelledby="working-title">
       <h2 id="working-title">Working now <span id="register-working-count"></span></h2>
       <div class="sx-table sx-table-working" tabindex="0" role="region" aria-label="Currently running submissions; scroll horizontally on smaller screens">
         <div class="sx-grid-head" aria-hidden="true"><span>Received</span><span>ID</span><span>Source</span><span>Status</span><span>Model</span><span>Tokens in/out</span><span>Runs · time</span><span>Cost</span></div>
@@ -93,7 +122,7 @@ const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boo
       </div>
       <p class="sx-table-note">Live processing across all sources. Restarted submissions appear here when work begins.</p>
     </section>
-    <h2 class="sx-history-title">All submissions</h2>
+    <h2 id="all" class="sx-history-title">All submissions</h2>
 
     <div class="sx-toolbar">
       <div class="sx-filters" role="group" aria-label="Filter by status">
@@ -152,6 +181,20 @@ const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boo
     {npub && <section class="panel"><h2 style="margin-top:0">Submit from Nostr</h2><p>Mention <a href={`https://njump.me/${npub}`} class="ext">the tracker bot</a> with one news URL in a normal post. Include the bot as a tagged mention so it can receive your submission.</p><p class="hint" style="overflow-wrap:anywhere">{npub}</p><p>The bot replies in your thread when there is an outcome.</p>{relays.length > 0 && <><p class="hint">Publish to one of the bot’s read relays to help your mention reach it:</p><ul>{relays.map(relay => <li class="mono">{relay}</li>)}</ul></>}</section>}
     </details>}
     <noscript><p>JavaScript is needed to send sources and load submissions.</p></noscript>
+    <script>
+      // the submit dialog: from its buttons, from #submit links, closed by its ✕, Escape or a click outside
+      const dialog = document.getElementById("submit") as HTMLDialogElement | null;
+      if (dialog) {
+        const open = () => { if (!dialog.open) { dialog.showModal(); dialog.querySelector<HTMLInputElement>("#source-url")?.focus(); } };
+        document.querySelectorAll("[data-open-submit]").forEach((b) => b.addEventListener("click", open));
+        dialog.querySelector("[data-close-submit]")?.addEventListener("click", () => dialog.close());
+        dialog.addEventListener("click", (e) => { if (e.target === dialog) dialog.close(); });
+        dialog.addEventListener("close", () => { if (location.hash === "#submit") history.replaceState(null, "", location.pathname + location.search); });
+        const fromHash = () => { if (location.hash === "#submit") open(); };
+        window.addEventListener("hashchange", fromHash);
+        fromHash();
+      }
+    </script>
   </div>
-  <script>import "../scripts/submissions-table.js"; import "../scripts/submissions.js"; import "../scripts/submissions-activity.js"; import "../scripts/submissions-publication.js";</script>
+  <script>import "../scripts/submissions-table.js"; import "../scripts/submissions.js"; import "../scripts/submissions-activity.js"; import "../scripts/submissions-publication.js"; import "../scripts/submissions-outcomes.js";</script>
 </Base>

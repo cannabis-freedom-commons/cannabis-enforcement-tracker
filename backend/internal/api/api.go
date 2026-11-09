@@ -115,6 +115,14 @@ func (s *Server) Handler() http.Handler {
 	mux.HandleFunc("GET /v1/submissions", s.submissions)
 	mux.HandleFunc("GET /v1/submissions/stream", s.submissionStream)
 	mux.HandleFunc("GET /v1/submissions/activity", s.submissionActivity)
+	mux.HandleFunc("GET /v1/submissions/outcomes", func(w http.ResponseWriter, r *http.Request) {
+		out, err := s.Store.Outcomes(r.Context())
+		if err != nil {
+			problem(w, 503, "Statistics unavailable.")
+			return
+		}
+		write(w, 200, out)
+	})
 	mux.HandleFunc("GET /v1/activity", s.activity)
 	mux.HandleFunc("GET /v1/status", s.status)
 	mux.HandleFunc("GET /v1/stats/ai", s.aiStats)
