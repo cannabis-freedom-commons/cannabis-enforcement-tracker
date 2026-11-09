@@ -70,6 +70,11 @@ sources:
     publisher: চ্যানেল এস | Channel S
     date: 2026-11-09
     language: bn
+  - title: হাতিয়ায় ৪ কেজি গাঁজাসহ চেয়ারম্যানঘাট থেকে এক মাদক কারবারি আটক
+    url: https://www.sangbadsarabela.com/country/article/87539/%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A7%AA-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%9A%E0%A7%87%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A6%98%E0%A6%BE%E0%A6%9F-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%86%E0%A6%9F%E0%A6%95
+    publisher: Sangbad Sarabela
+    date: 2026-11-09
+    language: bn
 open_questions:
   - Only NAGORIK TV's account, reproducing a Coast Guard press statement, could be opened; no separate outlet or Coast Guard page reporting this raid was found.
   - The report gives no weight or value estimate for the seized speedboat and does not say whether it was returned, held or handed to police.
@@ -82,25 +87,27 @@ open_questions:
   - The Newsbangla24 report reproduces the same Coast Guard media statement as the other accounts and names no separate source, so it is not independent corroboration.
   - Channel S reproduces the same Coast Guard media statement as the accounts already cited, so it is not independent corroboration.
   - The Channel S page image is stored as a generic site template file and its alt text only repeats the headline, so no caption establishes that it shows the seized ganja or the speedboat and it is not listed as media.
+  - The Sangbad Sarabela report reproduces the same Coast Guard media statement as the outlets already cited, so it is not independent corroboration.
+  - The Sangbad Sarabela page image carries no caption and its alt text only repeats the headline, so no caption establishes that it shows the seized ganja or the speedboat; it is not listed as media.
 ---
 
 Coast Guard officers arrested a man they described as a drug trafficker and
 seized 4 kg of ganja from him in Noakhali's Hatiya upazila on Monday 9 November
-2026. [@1,2] A Coast Guard team from Hatiya station searched a suspicious
+2026. [@1,2,5] A Coast Guard team from Hatiya station searched a suspicious
 speedboat near Chairman Ghat in the upazila during the operation and made the
-arrest on board, acting on a tip-off. [@1,2,3,4] The Coast Guard also seized the
+arrest on board, acting on a tip-off. [@1,2,3,4,5] The Coast Guard also seized the
 speedboat, which it said was used to move the drugs. [@1]
 
-The Coast Guard valued the seized ganja at about 160,000 taka. [@1,2,3] Lieutenant
+The Coast Guard valued the seized ganja at about 160,000 taka. [@1,2,3,5] Lieutenant
 Commander Sabbir Alam Sujan, a Coast Guard media officer, confirmed the details
 in a press statement sent to the media on Monday. [@1,2]
 
 The Coast Guard said the arrested man, aged 30, is the son of Ali Mia of Chak
 Lakkhipur village in Ujirpur union, Chouddagram thana, Cumilla. [@1,2] The seized
 ganja and the arrested man were handed over to Hatiya police station for legal
-action. [@1,2,3] The Coast Guard said it would continue such operations to protect
+action. [@1,2,3,5] The Coast Guard said it would continue such operations to protect
 the country's young people and curb the spread of drugs. [@1,2,3]
 
-The Coast Guard team carried out the raid at about 1:30 pm on Monday 9 November 2026. [@3]
+The Coast Guard team carried out the raid at about 1:30 pm on Monday 9 November 2026. [@3,5]
 
 The raid took place at about 1:30 pm on Monday 9 November 2026 in the area next to Chairman Ghat, under Hatiya police station. [@4]
