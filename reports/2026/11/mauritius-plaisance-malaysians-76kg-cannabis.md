@@ -156,6 +156,7 @@ open_questions:
   - The Vibes gives 17.8 kg for the 23 October cook case, close to the 17.88 kg recorded in that separate report.
   - The Vibes says the Mauritius Revenue Authority issued its statement 'last Wednesday', which would place the statement after the 2 November arrests.
   - The article's lead picture is a Bernama handcuffs photograph, and its other images are an unrelated building and a generic portrait, so no media entry is added.
+  - The New Straits Times reports 17.8 kg for the separate 23 October Malaysian cook case, while that case's own report records 17.88 kg; the difference is left open.
 ---
 
 Three Malaysian nationals who arrived on flight EK 709 from Dubai were searched
@@ -190,3 +191,5 @@ The three suspects—two men aged 30 and 22 and an 18-year-old woman—remain in
 Mauritius media reported that preliminary investigations linked the drugs to Thailand, with one of the suspects believed to have transited through the country before flying to Dubai and then Mauritius. [@14] A similar modus operandi was detected on Oct 23, when a 55-year-old Malaysian cook was arrested at the same airport with 17.8kg of cannabis in his luggage. [@14]
 
 The 55-year-old Malaysian cook arrested at the same airport on 23 October had arrived from Dubai on Emirates flight EK709, the same flight the three took before their 2 November arrest. [@15]
+
+Three Malaysians were arrested upon arrival in Mauritius on Nov 2 after authorities found 76.14kg of cannabis in their luggage. [@14] The Mauritius Revenue Authority said the Malaysians arrived at Sir Seewoosagur Ramgoolam International Airport on Nov 2 before being flagged for further checks. [@14] The 30-year-old man, who reportedly lives and works as a security officer in Singapore, was found carrying about 10.9kg of the drug. [@14] The three suspects travelled on Emirates flight EK709 from Dubai and were held at Sir Seewoosagur Ramgoolam International Airport. [@10]
