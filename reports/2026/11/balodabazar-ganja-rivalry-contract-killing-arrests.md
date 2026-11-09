@@ -39,6 +39,16 @@ media:
     media_url: https://images.bhaskarassets.com/web2images/521/2026/11/09/f324612a-09dd-4341-9215-26f89f442a1b_1794227913657.jpg
     publisher: Dainik Bhaskar
     caption: Lead photo on the Dainik Bhaskar report about the Balodabazar murder arrests; the page gives no caption or credit.
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/balodabazar-police-solved-murder-case-linked-to-cannabis-smuggling-in-chhattisgarh-cts26110905332
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/09-11-2026/bloodyrevengeinthedominationofganjasmugglingkarandongrealiaskpkilledbyfathertoavengehissonsmurderbodyfoundnakedinbayaforest_09112026185303_0911f_1794230583_614.jpg
+    publisher: ETV Bharat News
+    caption: 'Photo captioned ''Balodabazar police investigation based on car marks'' (कार के निशान से बलौदाबाजार पुलिस की जांच), published in the account of the Baya forest killing case; no agency credit is given. Photo: ETV Bharat News'
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/balodabazar-police-solved-murder-case-linked-to-cannabis-smuggling-in-chhattisgarh-cts26110905332
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/09-11-2026/bloodyrevengeinthedominationofganjasmugglingkarandongrealiaskpkilledbyfathertoavengehissonsmurderbodyfoundnakedinbayaforest_09112026185303_0911f_1794230583_581.jpg
+    publisher: ETV Bharat News
+    caption: 'Photo captioned ''Investigation by Balodabazar Police'', published with the account of the Baya forest killing case; no agency credit is given. Photo: ETV Bharat News'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 86a051837c437fad190a920dd7eb825e
@@ -59,6 +69,11 @@ sources:
     publisher: Haribhoomi
     date: 2026-11-01
     language: hi
+  - title: बलौदाबाजार में गांजा तस्करी के वर्चस्व में खूनी बदला, AI से पुलिस ने सुलझाई अंधे कत्ल की गुत्थी, 5 आरोपी गिरफ्तार
+    url: https://www.etvbharat.com/hi/state/balodabazar-police-solved-murder-case-linked-to-cannabis-smuggling-in-chhattisgarh-cts26110905332
+    publisher: ETV Bharat News
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The specific charges and sections filed were not spelled out; police said those arrested were being produced in court.
   - No quantity of ganja was reported, and the reports do not say whether the dead man's trade was sourcing, transporting or selling.
@@ -68,11 +83,14 @@ open_questions:
   - The submitted Dainik Bhaskar page is paywalled after its opening paragraphs; the fuller account comes from Haribhoomi's two reports.
   - 'Left out, as its quotation was not found in Haribhoomi: Police said the killing was planned over dominance in the illegal ganja trade and an old feud, and that a man paid for the killing to avenge his son''s murder.'
   - Left out deaths, as its quotation was not found in Haribhoomi.
+  - The submitted page lists the five arrested men by name and gives the dead man's age as 20, while it does not describe the case against the two detained minors or their age.
+  - No quantity of ganja is given, and the page does not say whether the dead man's trade was sourcing, transporting or selling.
+  - The page repeats police statements and does not give the status of the earlier killing of the accused's son Shiva.
 ---
 
 Police in Chhattisgarh's Balodabazar district arrested five people and detained
 two minors over the killing of a young man whose body was found on a lonely
-forest track in the Baya police station area. [@1]
+forest track in the Baya police station area. [@1,4]
 
 A young man's body was found on 31 October 2026 on the lonely forest stretch
 between Murumdih and Raytum villages in the Baya police station area, with knife
@@ -93,3 +111,4 @@ knife used in the killing, a Kia car, a WagonR car and a scooter. [@2] The five
 adults were being produced in court and the two minors before the Juvenile
 Justice Board on 9 November 2026. [@2]
 
+The case was registered at Baya police outpost as crime number 101/2026. [@4] The FIR was filed under sections 103(1), 238(a), 61(2) and 249 of the Bharatiya Nyaya Sanhita, India's criminal code, and sections 25 and 27 of the Arms Act. [@4] Superintendent of police Gaurav Rai directed the investigation, additional superintendent Khoman Sinha supervised it and a special team was formed under deputy superintendent Kaushal Kishore Vasanik of the Kasdol camp. [@4] Police identified the dead man as Karan Dongre, known as KP, aged 20, from digital traces and coordination between district police forces. [@4] Police said the first accused was traced through the cars' movements and, after questioning him, found the others hiding in an area of Durg city, where a Balodabazar-Bhatapara police team camped and, with Durg district police, surrounded and arrested them. [@4] A police release said those arrested already faced serious cases including murder and narcotics trafficking. [@4]
