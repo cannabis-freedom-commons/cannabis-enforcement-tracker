@@ -73,6 +73,11 @@ sources:
     publisher: Actu17
     date: 2026-11-07
     language: fr
+  - title: Cocaïne, cannabis, armes semi-automatiques, que sait-on du nouveau coup de filet anti-stups mené dans le Var ?
+    url: https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/hyeres/cocaine-cannabis-armes-semi-automatiques-que-sait-on-du-nouveau-coup-de-filet-anti-stups-mene-dans-le-var-3445983.html
+    publisher: France 3 Provence-Alpes-Côte d'Azur
+    date: 2026-11-07
+    language: fr
 open_questions:
   - The Nice-Matin account gives no date for the raids; 3 November 2026 comes from Var Actu.
   - Var Actu reports a judicial investigation opened in March 2026, while Nice-Matin says the Toulon prosecutor opened one after the May 2025 discovery.
@@ -80,13 +85,15 @@ open_questions:
   - No trial date or outcome is known; all eight are presumed innocent.
   - Two earlier Var Actu reports on the same operation gave six arrests and 3 kg of cocaine; the prosecutor's final tally superseded those preliminary figures.
   - The published photo shows the Val-des-Rougières estate, not the raids or the seizure itself.
+  - France 3 links the Hyères case to the history of the estate by reporting a June 2023 raid there in which seven people were arrested and about 20 kg of drugs, weapons and €70,000 were seized, and a February 2024 operation in which nine people were arrested and 54 kg of cannabis resin, €35,000 and 14 weapons were seized; these are separate events, not covered here.
+  - The 20 Minutes account republished by Yahoo does not describe the raids' exact date or the remand decisions, which rest on the Nice-Matin and Var Actu accounts already cited.
 ---
 
 Eight people were remanded in custody on Thursday 5 and Friday 6 November 2026
 after being placed under formal investigation in Toulon over a drug-trafficking
 network centred on Hyères, the public prosecutor of Toulon, Raphaël Balland,
 announced. [@1,3] The investigating judge accused them of taking part in the
-trafficking; they are presumed innocent until a court rules. [@2] The raids were
+trafficking; they are presumed innocent until a court rules. [@2,3] The raids were
 carried out on Tuesday 3 November 2026 in Hyères, Solliès-Pont, La Farlède and
 La Londe-les-Maures, with the help of the RAID, the national police intervention
 unit. [@2,4] Eight people were detained in the operation, all of them later placed
@@ -96,17 +103,19 @@ The searches that followed the raids turned up 5.5 kg of cocaine, 7.7 kg of
 cannabis resin and 1 kg of cannabis herb, the prosecutor's office said. [@1,3]
 Officers also seized €35,600 in cash, two semi-automatic pistols, large
 quantities of ammunition, packaging material for drugs, vehicles and some luxury
-clothing. [@1]
+clothing. [@1,3]
 
 The case began in May 2025, when the anti-crime squad of the Hyères police
 station found several hundred grams of cocaine, cannabis resin and cannabis
 herb, along with €6,000, in a parked vehicle in the Val-des-Rougières district
-of Hyères. [@1] The same account gives the May 2025 find as nearly 300 g of
-cocaine, 550 g of cannabis resin and 116 g of cannabis herb. [@2] The
+of Hyères. [@1,3] The same account gives the May 2025 find as nearly 300 g of
+cocaine, 550 g of cannabis resin and 116 g of cannabis herb. [@2,5] The
 investigation was run by the Hyères police station with the support of the
 national investigations unit attached to the national directorate of the
 judicial police, and the Toulon prosecutor's office opened a judicial
-investigation in March 2026. [@2] The case is continuing before an investigating
+investigation in March 2026. [@2,3] The case is continuing before an investigating
 judge at the Toulon judicial court. [@1]
 
 The seizures in the case amounted to more than 14 kg of drugs, along with two handguns and €35,600 in cash. [@4] The eight suspects lived in Hyères, Solliès-Pont, La Farlède and La Londe-les-Maures. [@3]
+
+France 3 reported that the Val-des-Rougières estate had already been the scene of drug-trafficking operations before this case. [@5]
