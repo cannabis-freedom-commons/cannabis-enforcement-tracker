@@ -76,6 +76,11 @@ sources:
     publisher: Repost.uz
     date: 2026-11-09
     language: ru
+  - title: В Ташкенте разоблачена семейная пара «закладчиков» и наркосеть, изъяты наркотические средства
+    url: https://zamin.uz/ru/obshchestvo/226782-v-tashkente-razoblachena-semeynaya-para-zakladchikov-i-narkoset-izyaty-narkoticheskie-sredstva.html
+    publisher: Zamin.uz
+    date: 2026-11-09
+    language: ru
 open_questions:
   - The article gives no separate date for the operations; 9 November 2026 is its publication date and is used as the incident date.
   - 'The report does not say how many people were detained in total beyond the five described: a married couple and their accomplice in Sergeli, a driver in Qibray and two suspects in Mirzo-Ulugbek.'
@@ -103,33 +108,36 @@ open_questions:
   - Repost.uz does not name the State Security Service, unlike the accounts already cited in the report.
   - Repost.uz gives no weight for the 50 packs of hashish or the hashish found in the Qibray car, so neither adds to the 550-gram total.
   - Repost.uz describes the Mirzo-Ulugbek suspects only as previously convicted men and does not report the online shop or the detailed criminal records given by the account already cited.
+  - Zamin.uz gives no total number detained, describes only the Sergeli couple, the online-shop administrator and his accomplices, and one Qibray courier, and does not mention the Sergeli accomplice described by the sources already cited.
+  - Zamin.uz says a criminal case was opened under 'the corresponding articles' of the Criminal Code without naming Article 273, and gives no separate date for the operations; 9 November 2026 is its publication date.
+  - Zamin.uz lists the hashish in the flat and the cars only as a total of 550 grams plus 40 grams and gives no weight for the hashish in the Qibray car or for the 50 packs seized in Sergeli.
 ---
 
 Officers of the Interior Ministry and the State Security Service broke up a
-group of drug sellers in Tashkent and Tashkent Region. [@1,2,3,4,5] Across several
+group of drug sellers in Tashkent and Tashkent Region. [@1,2,3,4,5,6] Across several
 operations officers found hashish, mephedrone and opium extract, described in
 total as about 26,300 single doses of drugs. [@1,3] The operations were carried
 out under the preventive campaign Safe and Healthy Country. [@1,3]
 
 In Sergeli district of the capital officers detained a married couple and their
 accomplice, who police say sold drugs through dead drops while moving by a Matiz
-car. [@1,2,3,4,5] Officers seized 50 packs of hashish from the couple and their
+car. [@1,2,3,4,5,6] Officers seized 50 packs of hashish from the couple and their
 accomplice. [@1,2,3,4,5] A search of the suspects' rented flat in Chilanzar district
 found another 450 grams of hashish, 100 grams of mephedrone, a thousand zip
 bags, electronic scales and tape for packing drugs. [@1,2,3,4,5] In Qibray district of
 Tashkent Region officers stopped the car of a man previously convicted of
-robbery and fraud and found hashish in it. [@1,2,3,4,5] Investigators say the Qibray
+robbery and fraud and found hashish in it. [@1,2,3,4,5,6] Investigators say the Qibray
 driver also sold drugs through dead drops. [@1,5] Two more suspected members of
 the group were identified in Mirzo-Ulugbek district of Tashkent, one of them a
-repeatedly convicted man who ran an online shop selling drugs. [@1]
+repeatedly convicted man who ran an online shop selling drugs. [@1,6]
 
 A search of a flat in Mirzo-Ulugbek found two kilograms of opium extract, 40
 grams of hashish, electronic scales, a thousand zip bags and equipment for
-preparing drugs. [@1,2,3,4,5] In total the operations seized 550 grams of hashish, 100
+preparing drugs. [@1,2,3,4,5,6] In total the operations seized 550 grams of hashish, 100
 grams of mephedrone and two kilograms of opium extract. [@1,3,4,5] A criminal case was
 opened against the group's members under Article 273, which covers making,
 processing, buying, storing and other dealings with drugs or psychotropic
-substances for sale. [@1,3,4,5]
+substances for sale. [@1,3,4,5,6]
 
 Officers searched the home of a man born in 1987, previously convicted of fraud, theft, traffic offences and running gambling, and of his accomplice, previously convicted over drugs, theft and serious bodily harm; they were found with about 2 kilograms of opium extract and 40 grams of hashish. [@2]
 
