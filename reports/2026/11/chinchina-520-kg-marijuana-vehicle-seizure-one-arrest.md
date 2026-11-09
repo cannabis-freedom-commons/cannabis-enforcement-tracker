@@ -64,6 +64,11 @@ sources:
     publisher: Nessma
     date: 2026-11-09
     language: fr
+  - title: Incautan 878 kilos de droga en dos operaciones contra el narcotráfico en Colombia
+    url: https://seguimiento.co/colombia/2026/11/09/incautan-878-kilos-de-droga-en-dos-operaciones-contra-el-narcotrafico-en-colombia
+    publisher: Seguimiento
+    date: 2026-11-09
+    language: es
 open_questions:
   - No date is given for the seizure; 9 November 2026 is when the president announced it and when the outlets published, and stands in for the incident date.
   - No weight breakdown, package count or street value for the Chinchiná marijuana was published.
@@ -75,16 +80,19 @@ open_questions:
   - The French text gives no operation name for the Cartagena cocaine find, which the Spanish report calls Estrategia Esmeralda.
   - The page's single photo is the headline illustration for the story and is not captioned as showing this seizure, so no media entry is added.
   - Neither account gives a separate date for the seizure; 9 November 2026 is when the president announced it and when the outlets published.
+  - Seguimiento reports the president's announcement too, so like the outlets already cited it is not independent reporting of the Chinchiná seizure.
+  - The page gives no separate date for the seizure; 9 November 2026 is its publication date and the date of the announcement, which stand in for the incident date.
+  - The photo on the page is credited only as 'INCAUTACIÓN DE DROGAS' with no caption stating which operation or seizure it shows, so no media entry is added.
 ---
 
 Colombian police intercepted a vehicle in the urban area of Chinchiná, Caldas,
 carrying 520 kilograms of marijuana and arrested one person caught in the act.
-[@2] During the procedure one person was captured in flagrante delicto. [@2]
+[@2,5] During the procedure one person was captured in flagrante delicto. [@2,5]
 Officers also immobilised the vehicle, whose identification systems had been
-altered. [@2]
+altered. [@2,5]
 
 In his own statement the president said the marijuana had left the department of
-Cauca bound for Medellín. [@3,4] President Abelardo de la Espriella announced the
+Cauca bound for Medellín. [@3,4,5] President Abelardo de la Espriella announced the
 Chinchiná seizure and a second operation at the port of Cartagena. [@1]
 
 The government presented the two hauls as 878 kilograms in total, of which 520
