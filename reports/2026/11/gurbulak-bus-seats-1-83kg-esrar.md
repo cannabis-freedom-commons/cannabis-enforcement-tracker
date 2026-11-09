@@ -72,6 +72,11 @@ sources:
     publisher: Adana Masası
     date: 2026-11-08
     language: tr
+  - title: Gürbulak'ta otobüste 1.6 milyon liralık esrar bulundu
+    url: https://www.saraymedya.com/haber/gurbulak-ta-otobuste-1-6-milyon-liralik-esrar-bulundu_322075/
+    publisher: Saray Medya
+    date: 2026-11-08
+    language: tr
 open_questions:
   - No arrests or detentions are named in either account; the governorship says only that judicial proceedings continue.
   - Neither account says whether any passenger or the driver was identified, questioned or taken into custody, or what charges are being considered.
@@ -90,6 +95,8 @@ open_questions:
   - The headline rounds the value to '1.6 milyon lira' while the body gives about 1,647,000 lira; the body figure is used.
   - The page's lead photo is captioned only with the headline and its alt text repeats the headline, so it is not added as media.
   - This page reproduces the İhlas Haber Ajansı feed text, the same agency account already cited, and names no authority as the source of the statement.
+  - The page carries the İhlas Haber Ajansı (İHA) feed text and names no separate authority, so it is not an independent account.
+  - The page's photo is captioned only with the article headline with no credit identifying it as the seized material or the bus, so no media entry is added.
 media:
   - kind: photo
     url: https://www.haber365.com/haber/gurbulak-sinir-kapisinda-otobuste-uyusturucu-baskini-16-milyon-lira-degerinde-esrar-ele-gecirildi-480870
@@ -100,13 +107,13 @@ media:
 
 Officers at the Gürbulak border crossing in Doğubayazıt, Ağrı, sent a bus
 arriving from Iran for X-ray screening under risk analysis on 8 November 2026.
-[@1,3,4,5,6,7] The scan showed suspicious density in some passenger seats, so the bus was
+[@1,3,4,5,6,7,8] The scan showed suspicious density in some passenger seats, so the bus was
 searched in detail. [@1,4,5]
 
 In metal compartments under the seat cushions, hidden with special fittings and
 wrapped in black bags, officers found 1 kg 830 g of esrar, the Turkish term for
-cannabis. [@1,3,4,5,6,7] Authorities put the cannabis's market value at about 1,647,000
-Turkish lira on 2026 figures. [@1,3,4,5,7]
+cannabis. [@1,3,4,5,6,7,8] Authorities put the cannabis's market value at about 1,647,000
+Turkish lira on 2026 figures. [@1,3,4,5,7,8]
 
 The account came in a statement by the Doğubayazıt district governorship, which
 said judicial proceedings in the case were continuing. [@1,3,4] The governorship
