@@ -112,6 +112,11 @@ sources:
     publisher: Onda Vasca
     date: 2026-11-06
     language: es
+  - title: 'Desarticulada una banda de tráfico de cannabis en Brunete y Villanueva de la Cañada: seis detenidos y 721.000 euros intervenidos'
+    url: https://cadenaser.com/cmadrid/2026/11/09/desarticulada-una-banda-de-trafico-de-cannabis-en-brunete-y-villanueva-de-la-canada-seis-detenidos-y-721000-euros-intervenidos-ser-madrid-oeste/
+    publisher: Cadena SER
+    date: 2026-11-09
+    language: es
 open_questions:
   - The articles give no separate date for the searches; 7 November 2026 is the day the Guardia Civil announced them and the other outlets' publication date, so it is used as the incident date.
   - No street value was given for the hashish and marijuana, only the cash amount seized.
@@ -127,23 +132,27 @@ open_questions:
   - Onda Vasca reproduces the Guardia Civil statement already cited in the report and is not independent reporting.
   - The page headline says several weapons were seized but names only the two 12-gauge shotguns, as other outlets did.
   - The page's only image is a file photo captioned ''La Guardia Civil interviene cerca de 2.000 plantas de marihuana en Granada'' (Guardia Civil seizes nearly 2,000 marijuana plants in Granada), an earlier, unrelated seizure in Granada, so no media entry is added.
+  - Cadena SER carries the EFE agency copy of the Guardia Civil statement already cited in the report, so it is not independent reporting.
+  - Cadena SER rounds the drug weights to 7.8 kg of hashish and 1.7 kg of marijuana; the report keeps the precise 7.843 kg and 1.771 kg figures from the earlier sources.
+  - Cadena SER says the force announced the operation 'this Saturday' but gives no separate date for the searches; the report retains 7 November 2026 as the incident date.
+  - The page's only photo is captioned as a Guardia Civil image from an unrelated La Rioja case of a baby intoxicated by cannabis, so it is not listed as media.
 ---
 
 The Guardia Civil, Spain's military-status national police force, said it had
 broken up a criminal organisation trafficking cannabis in Villanueva de la
-Cañada and Brunete, two towns in the Community of Madrid. [@1,3,4,5,6,7] Investigators
+Cañada and Brunete, two towns in the Community of Madrid. [@1,3,4,5,6,7,8] Investigators
 gathered indications of drug-trafficking activity in both municipalities before
 the operation, the force said in a statement issued on Saturday. [@1,6] Officers
 then searched two premises: the home in Brunete where the alleged leaders of the
 organisation lived, and a commercial unit (local) in Villanueva de la Cañada.
-[@1,3,4,5,6,7]
+[@1,3,4,5,6,7,8]
 
 Police seized 7.843 kg of hashish and 1.771 kg of marijuana, a combined 9.614
 kg, the force said. [@1,3,4,6,7] They also seized €721,000 in cash, two 12-gauge
-shotguns and five vehicles. [@1,3,4,6,7] The Europa Press news agency reported that the
+shotguns and five vehicles. [@1,3,4,6,7,8] The Europa Press news agency reported that the
 five vehicles were allegedly linked to the criminal activity. [@2,5]
 
 Six people were detained as suspected perpetrators of offences against public
 health through drug trafficking, membership of a criminal organisation and money
 laundering. [@1,3,4,6,7] The six arrested people, whose names and ages were not
-published, have been handed over to the courts. [@1,5,6,7]
+published, have been handed over to the courts. [@1,5,6,7,8]
