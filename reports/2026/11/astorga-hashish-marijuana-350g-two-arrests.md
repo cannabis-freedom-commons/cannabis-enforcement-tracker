@@ -57,6 +57,11 @@ sources:
     publisher: La Bañeza.Net
     date: 2026-11-09
     language: es
+  - title: Detenidas dos personas y cerca de 350 gramos de droga intervenidos en Astorga (León)
+    url: https://www.msn.com/es-es/noticias/otras/detenidas-dos-personas-y-cerca-de-350-gramos-de-droga-intervenidos-en-astorga-le%C3%B3n/ar-AA2h4fai
+    publisher: MSN (Europa Press)
+    date: 2026-11-09
+    language: es
 open_questions:
   - The published accounts do not separate the cannabis from the cocaine inside the roughly 350 grams seized in all, so the cannabis weight cannot be split out; the 350 grams is the combined figure.
   - No precise weights for the hashish and marijuana found in the flat are given, and no laboratory confirmation of the substances was reported.
@@ -64,11 +69,12 @@ open_questions:
   - No court decision or release was reported; the men were taken to police premises for questioning, and the case remained at the investigation stage in the published accounts.
   - No street value for the drugs was given.
   - The national police statement was reproduced with nearly identical wording by the outlets cited, so they are not independent confirmations.
+  - The European Press text on this page repeats the agency wording already cited and gives no separate hashish and marijuana weights, so the report's combined 350-gram figure and its cannabis split stay open.
 ---
 
 Spain's National Police detained two men in Astorga, in León province, on
 suspicion of a crime against public health, after an investigation into
-small-scale drug dealing in the town. [@1] Investigators from the local judicial
+small-scale drug dealing in the town. [@1,4] Investigators from the local judicial
 police unit linked the two men and documented meetings and journeys police
 suspected were tied to the drug trade. [@1] According to the investigation, the
 pair travelled outside the province to buy the drugs they then sold locally.
@@ -76,8 +82,8 @@ pair travelled outside the province to buy the drugs they then sold locally.
 
 Officers stopped the men at a police check and found about 200 grams of what
 appeared to be hashish and 1.3 grams of a white powder believed to be cocaine.
-[@1] The two were arrested there and taken to police premises for questioning.
-[@1] A judge then authorised a search of the flat used by one of them in
+[@1,4] The two were arrested there and taken to police premises for questioning.
+[@1,4] A judge then authorised a search of the flat used by one of them in
 Astorga. [@1] The search found another 150 grams of drugs in all, among them
 hashish, marijuana and cocaine, and officers also took cash, tools for preparing
 and distributing the drugs and handwritten notes on suspected sales. [@1]
@@ -91,5 +97,4 @@ turned up hashish, marijuana and cocaine in the home of one of the detainees,
 with cash, tools and handwritten notes on possible sales also seized. [@2]
 Another local outlet described the two as suspected small-scale drug traffickers
 whose shared activity had been documented through journeys outside the province.
-[@3]
-
+[@3,4]
