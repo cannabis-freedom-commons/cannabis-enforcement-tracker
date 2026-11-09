@@ -61,6 +61,11 @@ sources:
     publisher: G5 Noticias
     date: 2026-11-09
     language: es
+  - title: 'Decomisan en Chañaral cargamento de marihuana avaluado en más de $1.500 millones: droga tenía como destino Santiago'
+    url: https://www.nostalgica.cl/decomisan-en-chanaral-cargamento-de-marihuana-avaluado-en-mas-de-1-500-millones-droga-tenia-como-destino-santiago/
+    publisher: NOSTÁLGICA cl
+    date: 2026-11-09
+    language: es
 open_questions:
   - The article gives only its 9 November 2026 publication date and no separate date for the vehicle check, the arrests or the detention hearing, so the publication date stands in for the incident date.
   - No second independent account could be opened; the Carabineros Atacama statement and the Chañaral prosecutor's own releases were not retrievable, and a social-media post by Diario Chañarcillo repeats the same figures.
@@ -70,14 +75,18 @@ open_questions:
   - The 1,566,920,000 peso valuation and the 313,384 dose count are Carabineros estimates, not independent figures.
   - The lead photo on the page carries no caption or credit, so it is listed only as the article's lead image and not as confirmed to show the packages.
   - Cell phones and two radio transmitters were seized but their number beyond the two radios is not given.
+  - The submitted page gives no separate date for the vehicle check or the detentions, saying only that the procedure took place over the weekend before its 9 November 2026 publication; it does not resolve the report's existing question about the incident date.
+  - The page gives the seizure as 156 kilos and a value of more than 1.5 billion pesos, rounded figures that differ from the precise 156 kg 692 g and 1,566,920,000 pesos in the report; the report keeps the exact police figures.
+  - The submitted page's lead image is a generic stock-style illustration (file named DROGA-WPRSS.png) with no caption or credit tying it to this seizure, so no media entry was added from it.
+  - The report says the earlier PDI seizure of more than two tonnes took place the previous week; the submitted page reports the same, but that seizure is a separate event already recorded.
 ---
 
 Carabineros in the Atacama region detained five Chilean adults, all over 18, for
-drug trafficking and seized 156 kg 692 g of marijuana. [@1] The procedure began
+drug trafficking and seized 156 kg 692 g of marijuana. [@1,2] The procedure began
 at a service station on Route 5 Norte in the commune of Chañaral, where officers
 of the police investigation section (SIP) of the 1st Chañaral police station
 were checking two parked vehicles and found 140 packages containing marijuana
-inside them. [@1] The prosecutor's office then ordered the OS7 anti-drug section
+inside them. [@1,2] The prosecutor's office then ordered the OS7 anti-drug section
 of Carabineros de Atacama to carry out inquiries including phone analysis,
 review of security camera footage and statements. [@1] The investigation ended
 with 156 kg 692 g of marijuana seized, which Carabineros counted as 313,384
@@ -89,7 +98,7 @@ trafficking, theft and burglary of unoccupied premises, while the other two had
 no criminal record. [@1] On the order of the prosecutor's office all five were
 brought before a court and placed in preventive detention, and the prosecutor's
 office formalised charges against them as a criminal group for illicit drug
-trafficking. [@1] Chañaral chief prosecutor Nicolás Meléndez Chacón said the
+trafficking. [@1,2] Chañaral chief prosecutor Nicolás Meléndez Chacón said the
 detainees were caught moving a large quantity of drugs towards the Metropolitan
 Region, and that the Chañaral guarantee court ordered preventive detention for
 all of them because their freedom was considered a danger to public safety. [@1]
@@ -99,3 +108,4 @@ specialises in drug investigations. [@1] The zone chief general Cristián Aceved
 Yáñez presented the results together with presidential delegate Sofía Cid
 Versalovic and Atacama security minister Gabriel Ortega Urra. [@1]
 
+The court set an investigation period of 85 days while the prosecutor's office and Carabineros continued inquiries into the transport of the drug and the participation of the accused. [@2] Atacama security seremi Gabriel Ortega Urra said the procedure added to the seizure of more than two tonnes of drugs made by the PDI the previous week. [@2]
