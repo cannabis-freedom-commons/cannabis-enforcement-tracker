@@ -20,6 +20,11 @@ media:
     media_url: https://cdn.om1.ru/localStorage/news/2026/11/08/440282/nImg46909_resizedScaled_1280to720.webp
     publisher: Om1.ru
     caption: 'Wild cannabis found on farmland in Novosibirsk Oblast. Photo: Siberian Directorate of Rosselkhoznadzor.'
+  - kind: photo
+    url: https://precedent.tv/v-novosibirskoj-oblasti-nashli-devyat-ochagov-dikoj-konopli-na-selhozzemlyah
+    media_url: https://precedent.tv/wp-content/uploads/2026/11/BkJxHLw1rjRMMNZUdIkXuaXI0P4Yv5LmGpWDOzFJBX-1EPmEi8yn3foaRXBlP3s_6t2HAlZHB5w3SXN3e915mVU3-1-.jpg
+    publisher: Прецедент TV
+    caption: 'Photo captioned only as a picture from the Siberian Directorate of Rosselkhoznadzor, published with the article on the nine wild cannabis sites. Photo: Siberian Directorate of Rosselkhoznadzor'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dde68bbc632b0a32942c33ad466e3bee
@@ -55,6 +60,11 @@ sources:
     publisher: Сиб.фм
     date: 2026-11-09
     language: ru
+  - title: В Новосибирской области нашли девять очагов дикой конопли на сельхозземлях
+    url: https://precedent.tv/v-novosibirskoj-oblasti-nashli-devyat-ochagov-dikoj-konopli-na-selhozzemlyah
+    publisher: Прецедент TV
+    date: 2026-11-09
+    language: ru
 open_questions:
   - The incident date uses the agency publication date of 5 November 2026; the finds occurred throughout 2026, with one inspection in September, and exact dates for the other sites were not given.
   - The sources order destruction and notify the Interior Ministry but do not confirm that the 2,699 square metres were destroyed, so the recorded area is the area found.
@@ -68,11 +78,15 @@ open_questions:
   - Left out hectares, as its quotation was not found in Om1.ru.
   - Left out sites, as its quotation was not found in Om1.ru.
   - The MK article gives almost 2,700 square metres while the existing report records 2,699 square metres from the Rosselkhoznadzor statement; the report's precise figure is retained.
+  - Precedent TV dates the report 9 November 2026 while the underlying Rosselkhoznadzor statement, already used for the incident date, was published on 5 November 2026.
+  - Neither the Precedent TV nor the Sib.fm account confirms whether the 2,699 square metres of wild cannabis have since been destroyed.
+  - The Precedent TV lead photo is credited only to the Siberian Directorate of Rosselkhoznadzor, with no caption stating where or when it was taken.
+  - Sib.fm illustrates its article with an AI-generated image, which is not listed as media.
 ---
 
 In 2026, specialists of the Siberian interregional directorate of
 Rosselkhoznadzor found nine wild cannabis sites on farmland in Novosibirsk
-Oblast. [@2,3,4,5,6] The sites lay in the Barabinsky, Iskitimsky, Kolyvansky,
+Oblast. [@2,3,4,5,6,7] The sites lay in the Barabinsky, Iskitimsky, Kolyvansky,
 Novosibirsky and Ordynsky districts. [@2,3,4,5,6] Together they covered 2,699 square
 metres. [@2,4,5,6]
 
@@ -82,10 +96,12 @@ after residents complained about farmland overgrown with weeds including wild
 cannabis. [@2,3] An inspector found weed cannabis (Cannabis ruderalis) growing on
 three adjacent plots there. [@2,4,5] The cannabis on those plots covered at least
 1,615 square metres. [@2,4,5,6] The result was recorded with the Inspector mobile app.
-[@2]
+[@2,7]
 
 Landholders were warned to eliminate the wild cannabis and bring the land back
-into agricultural use. [@2,3,4,5] Information on the finds was sent to the Interior
+into agricultural use. [@2,3,4,5,7] Information on the finds was sent to the Interior
 Ministry for action within its remit. [@2,3,4,5,6] The watchdog reminded owners that
 overgrowth threatens fertility and that weed and drug-containing vegetation must
 be found and destroyed in time. [@1]
+
+An inspector found three adjacent plots overgrown in the Iskitimsky district after residents complained in September 2026. [@7] The regional Rosselkhoznadzor office reminded landowners they are obliged to monitor their land, promptly destroy weed and drug-containing vegetation and use plots for their designated purpose. [@6]
