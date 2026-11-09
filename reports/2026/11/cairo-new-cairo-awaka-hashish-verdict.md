@@ -70,6 +70,11 @@ sources:
     publisher: جريدة الدستور (Al-Dostor)
     date: 2026-09-14
     language: ar
+  - title: الحكم على البلوجر محمد أوتاكا في اتهامه بحيازة مخدرات 16 ديسمبر
+    url: https://www.masrawy.com/news/news_cases/details/2026/11/9/3076145/%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%84%D9%88%D8%AC%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%A3%D9%88%D8%AA%D8%A7%D9%83%D8%A7-%D9%81%D9%8A-%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D9%87-%D8%A8%D8%AD%D9%8A%D8%A7%D8%B2%D8%A9-%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-16-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1
+    publisher: مصراوي (Masrawy)
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No verdict has been given; the report covers the 9 November hearing and the scheduling of a 16 December verdict.
   - 'Sources name the court differently: the submitted page, Sada Elbalad and Dostor call it Shorouk criminal court, while Youm7 and Al-Masry Al-Youm place the session at the Cairo criminal court in the Fifth Settlement; the location given here follows the Fifth Settlement accounts.'
@@ -80,6 +85,9 @@ open_questions:
   - The defence arguments are those of the lawyer as reported; the prosecution's response at the hearing is not reported.
   - The submitted page and Sada Elbalad carry nearly identical text, so they are not independent accounts.
   - No photograph of the hearing was published, and the Sada Elbalad image is captioned only with the defendant's nickname and has no credit.
+  - Masrawy calls the defendant a blogger and content creator and says the charge is possession of narcotics, while the existing report's other accounts describe a trafficking charge; the report keeps the trafficking charge from those accounts.
+  - Masrawy gives no quantities for the hashish or cocaine, so it adds nothing to the weights already recorded.
+  - The page photo is a nickname-captioned image stored under an October 2025 upload path and is not confirmed to show the hearing or the seizure, so no media entry is added.
 ---
 
 A Cairo criminal court sitting in the Fifth Settlement heard the
@@ -87,7 +95,7 @@ drug-trafficking trial of Mohamed Alaa, known as Ottaka, on 9 November and set
 16 December for its verdict. [@2] Ottaka is a TikToker and the ex-husband of
 blogger Hadeer Abdelrazek, and he is the only defendant in the case. [@1] Sada
 Elbalad carried the same decision, saying the court reserved the case for a
-verdict on 16 December. [@4] The court had adjourned the case to the third
+verdict on 16 December. [@4,6] The court had adjourned the case to the third
 session of the October term, which fell on 9 November, after an earlier hearing.
 [@5] Prosecutors charge him with trafficking in narcotics rather than use, which
 carries a heavier penalty if he is convicted. [@2]
@@ -97,7 +105,7 @@ roughly 12 grams of cocaine; he denies the charges. [@2] Al-Masry Al-Youm
 reported the same amounts from the referral papers the day before the hearing.
 [@3] The Interior Ministry said officers arrested him at his home in the Shorouk
 police-station district of Cairo after complaints about videos it called
-indecent, and found hashish and cocaine with him. [@3]
+indecent, and found hashish and cocaine with him. [@3,6]
 
 The court ordered the officers who carried out the arrest and search to give
 evidence, and added the day's registers of the Shorouk police station and the
@@ -111,4 +119,3 @@ laboratory report alone could not show the tested substance was the material
 seized from him. [@1] It asked the court to summon the official who packed and
 sealed the exhibits and the forensic chemist, to be questioned on their
 condition, seals, number, weight and delivery. [@1]
-
