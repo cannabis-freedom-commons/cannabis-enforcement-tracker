@@ -43,6 +43,11 @@ media:
     media_url: https://www.enteratenoticias.com.ar/wp-content/uploads/2026/11/colalao-marihuana-1068x647.webp
     publisher: Enterate Noticias
     caption: Page picture captioned only "colalao marihuana", published with the report of the three detentions and the 17.5 kg seizure; it carries no credit.
+  - kind: photo
+    url: https://inforama.com.ar/actualidad/2026/11/06/tres-catamarquenos-fueron-detenidos-en-tucuman-con-mas-de-17-kilos-de-marihuana/
+    media_url: https://inforama.com.ar/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-15.41.32.jpeg.webp
+    publisher: Diario Inforama - Catamarca
+    caption: Uncaptioned page picture published with the report of the Colalao del Valle seizure of 17.5 kilos of marijuana; it carries no credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: acddf85200c38c206abebddedf0c49b9
@@ -58,6 +63,11 @@ sources:
     publisher: La Unión Digital
     date: 2026-11-06
     language: es
+  - title: Tres catamarqueños fueron detenidos en Tucumán con más de 17 kilos de marihuana
+    url: https://inforama.com.ar/actualidad/2026/11/06/tres-catamarquenos-fueron-detenidos-en-tucuman-con-mas-de-17-kilos-de-marihuana/
+    publisher: Diario Inforama - Catamarca
+    date: 2026-11-06
+    language: es
 open_questions:
   - The report gives no calendar date, only that the check happened "este jueves" (this Thursday); the article was published on 6 November 2026, so Thursday 5 November 2026 is used.
   - Tucumán police did not state a weight per package, location of origin or destination of the load, which investigators were still trying to establish.
@@ -67,24 +77,30 @@ open_questions:
   - The new account says the weight exceeded 17.5 kilos and gives no street value; the existing report keeps 17.5 kilos.
   - The page picture carries only the credit 'Foto gentileza La Gaceta' with no caption confirming it shows this seizure, so no media entry is added.
   - The article gives no separate calendar date beyond 'este jueves'; Thursday 5 November 2026, consistent with the existing report and the publication date, is used.
+  - The Inforama account gives no calendar date for the check, so Thursday 5 November 2026, used by the existing report, remains an inference from the publication date.
+  - Inforama says the court ordered the Didrop's participation rather than describing its chemists running field tests, so the court's specific instruction to the Didrop differs between accounts.
+  - The page picture is uncaptioned and carries no credit, so it is not established to show this exact seizure.
+  - No street value, charge sheet or later court outcome was published in this account.
 ---
 
 Tucumán provincial police detained three men who live in Catamarca province
 carrying 17.5 kilos of marijuana hidden inside a vehicle at the Colalao del
-Valle border post. [@1,2] The check took place on Thursday at a control post on
+Valle border post. [@1,2,3] The check took place on Thursday at a control post on
 the border trace under Operativo Lapacho, a standing provincial operation, and
-officers stopped a Ford EcoSport carrying the three suspects. [@1,2]
+officers stopped a Ford EcoSport carrying the three suspects. [@1,2,3]
 
 After asking for the vehicle's documents and searching it before witnesses,
 officers found two black travel bags holding 16 rectangular packages wrapped in
-yellow tape. [@1,2] Police said the find kept the load out of local distribution
+yellow tape. [@1,2,3] Police said the find kept the load out of local distribution
 networks. [@1]
 
 The Federal Court No. 2 of Tucumán was notified and ordered chemists of the
 Didrop, the provincial drug police directorate for the west of the province, to
 run field confirmation tests. [@1] The court ordered the three men held
 incommunicado and the preventive seizure of the EcoSport and of four mobile
-phones found in the cabin. [@1,2] The case was filed for alleged infringement of
+phones found in the cabin. [@1,2,3] The case was filed for alleged infringement of
 National Narcotics Law No. 23,737, Argentina's drug law, while investigators
 analyse the phone lines to establish where the load came from and where it was
-going. [@1,2]
+going. [@1,2,3]
+
+The Federal Court No. 2 of Tucumán ordered the Didrop, the provincial drug police directorate for the west of the province, to take part in the case after the find. [@3]
