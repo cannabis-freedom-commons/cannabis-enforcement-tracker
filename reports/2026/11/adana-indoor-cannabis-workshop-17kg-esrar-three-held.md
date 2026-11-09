@@ -192,6 +192,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-09
     language: tr
+  - title: Sakarya'da iz bırakmıştı... Tuğgeneral Karaca'dan Adana'da zehir tacirlerine darbe
+    url: https://www.halk54.com/sakaryada-iz-birakmisti-tuggeneral-karacadan-adanada-zehir-tacirlerine-darbe
+    publisher: Halk54
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -244,10 +249,14 @@ open_questions:
   - The page's lead photo is captioned only with the story headline and carries no photographer or agency credit; whether it shows the workshop, the seized esrar or the operation generally is not established, so no media entry is added.
   - The submitted page is a video page whose canonical article is the ANKA-credited Son Dakika text already cited in this report, so it reproduces the same Interior Ministry statement rather than providing independent reporting.
   - The submitted page does not say whether the video shows the workshop, the seized esrar or the operation generally, and it carries no separate photographer or agency credit.
+  - Halk54 reproduces the Interior Ministry's social media statement, so it corroborates rather than independently reports the raid.
+  - The page gives no separate date or time for the raid; 9 November 2026 is its publication date.
+  - The page says Karaca commanded the Adana provincial gendarmerie at the time of the operation but does not say he personally directed the raid.
+  - The page's single picture is captioned only with the story headline and carries no credit, so whether it shows the workshop, the seized esrar or the operation is not established and no media entry is added.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
@@ -280,3 +289,5 @@ The searches found a workshop where the suspects grew cannabis indoors with a pu
 The report is credited to the ANKA news agency. [@15]
 
 The address was identified through intelligence work by Adana Provincial Gendarmerie Command teams, which assessed that narcotics were being produced and traded there. [@18] The first statement did not say whether the three suspects were remanded in custody or placed under judicial supervision. [@18] In December 2025, police had found 40 Indian hemp plants and 2 kilograms 774 grams of dried esrar in a villa in Pozantı district of Adana where a similar system was installed, and two suspects were jailed in that investigation. [@18]
+
+At the time of the raid the Adana provincial gendarmerie command was led by Brigadier General Necdet Karaca, who had been appointed to the post by a decree published in the Official Gazette. [@20]
