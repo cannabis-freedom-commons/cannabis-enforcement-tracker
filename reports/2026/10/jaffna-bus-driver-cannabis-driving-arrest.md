@@ -37,11 +37,23 @@ sources:
     publisher: Jaffnazone.com
     date: 2026-11-03
     language: ta
+  - title: 'யாழில் ஆயுர்வேத மருந்தால் சிக்கலில் சிக்கிய சாரதி: நீதிமன்றின் உத்தரவு'
+    url: https://ibctamil.com/article/bus-driver-previously-in-remand-granted-bail-1793711275
+    publisher: IBC Tamil
+    date: 2026-11-03
+    language: ta
+  - title: யாழில் போதையில் வாகனம் செலுத்திய சாரதிக்கு பிணை
+    url: https://tamilwin.com/article/man-arrested-driving-drunk-kanja-bailed-1793725628
+    publisher: Tamilwin
+    date: 2026-11-03
+    language: ta
 open_questions:
   - The arrest date is inferred as Friday 30 October 2026 from 'last Friday' relative to the 3 November 2026 publication; no separate arrest date is stated.
   - No test method, test result, cannabis quantity, or seizure was reported.
   - No further court outcome beyond bail and adjournment to January was reported.
   - Only one source for this event was found; searches in Tamil and English did not locate a second account.
+  - The Tamilwin account does not give the remand end date; 3 November 2026 comes from the IBC Tamil report.
+  - Neither account states a test method, a cannabis quantity or any further court outcome.
 ---
 
 A bus driver who was carrying passengers from Jaffna to Urkavathurai (Kayts) was
@@ -59,6 +71,7 @@ produced signs of drug use in testing, the lawyer showed the court a medical
 report, an Ayurvedic doctor's confirmation report and the medicines being used,
 and applied for bail. [@1]
 
-The court then allowed the driver to be released on two surety bails. [@1] The
-court adjourned the case to January for the next hearing. [@1]
+The court then allowed the driver to be released on two surety bails. [@1,3] The
+court adjourned the case to January for the next hearing. [@1,3]
 
+The court that first produced him ordered the driver held on remand until Tuesday, 3 November 2026. [@2]
