@@ -38,6 +38,11 @@ sources:
     publisher: Jornal Panorama Minas
     date: 2026-11-09
     language: pt
+  - title: Polícia Militar prende homem por tráfico de drogas e apreende 28 pés de maconha em Bocaina de Minas, MG
+    url: https://agazetarm.com.br/policia-militar-prende-homem-por-trafico-de-drogas-e-apreende-28-pes-de-maconha-em-bocaina-de-minas-mg/
+    publisher: A Gazeta RM
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No figure for the weight or street value of the 28 plants or the seeds was published, and the seed quantity is not counted.
   - The plants appear to have been seized rather than destroyed, but the article does not say what happened to them after seizure.
@@ -45,6 +50,11 @@ open_questions:
   - The article gives no separate date for the operation beyond 'nesta segunda-feira (9)'; 9 November 2026 is also the publication date.
   - No second outlet report of this operation could be opened, and the outlet reproduces a Military Police account without a separately accessible PMMG statement.
   - The article says the action took place on the Minas Gerais–Rio de Janeiro border but does not name the police unit or operation involved.
+  - The suspect's identity, the charges filed and any custody or court decision were not reported; A Gazeta RM says only that the case passed to the Civil Police for investigation.
+  - A Gazeta RM says officers also seized a motorcycle that was in the suspect's possession, a detail not in the account already cited.
+  - A Gazeta RM gives no separate date for the operation; 9 November 2026 is its publication date, the date given by the existing account for the raid.
+  - 'Left out, as its quotation was not found in Jornal Panorama Minas: Officers seized 28 cannabis plants at the farm.'
+  - 'Left out, as its quotation was not found in Jornal Panorama Minas: The seizure included 450 reais in cash, a mobile phone and two notebooks with notes said to relate to drug-trafficking accounts.'
 ---
 
 Military police went to a farm in the hamlet of Bagres, in the rural zone of
@@ -65,3 +75,4 @@ carried out by military police teams on the Minas Gerais–Rio de Janeiro border
 [@1] The outlet credits the information and photos in the account to the Minas
 Gerais Military Police (PMMG). [@1]
 
+The man is 49 years old and was arrested in the act on suspicion of illicit drug trafficking in the Bagres district of Bocaina de Minas. [@2] Police went to the farm after an anonymous tip that cannabis was being cultivated there. [@2] Officers saw the man trying to flee while cutting cannabis plants with a machete, and stopped him. [@2]
