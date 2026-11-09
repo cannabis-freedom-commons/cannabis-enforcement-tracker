@@ -68,12 +68,17 @@ sources:
     url: https://www.heraldonline.co.zw/two-soccer-players-nabbed-with-nearly-a-tonne-of-mbanje/
     publisher: The Herald / Chronicle
     date: 2025-10-06
+  - title: A former Kaizer Chiefs player is accused of drug trafficking in Zimbabwe
+    url: https://iol.co.za/the-star/news/2025-10-08-a-former-kaizer-chiefs-player-is-accused-of-drug-trafficking-in-zimbabwe/
+    publisher: IOL / The Star
+    date: 2025-10-08
 open_questions:
   - Later court reporting described the haul as 780 kg worth about US$78,000, against the police figure of 750 kg worth USD 75,000 used here; the police figure is used because it is the official seizure account.
   - One later court account dates the interception to 4 October 2025 while the police statement gives 3 October 2025; the police date is used.
   - The sources vary the suspects' names and spellings (Tumai/Tumirai Matsika, Abbas/Abas/Brian Abbas Amidu; Kudzai/Reuben Mhlanga); the report uses the sentencing-report forms.
   - The sentencing court is not named in the opened sources; only the 24 February 2026 sentencing date is reported.
   - The arrest report also mentions a separate arrest of Prosper Mphofu with 60 kg of dagga at Trabablas Interchange; that is a different event left out here.
+  - This article's opening paragraph gives the haul as 780 kg, while the Zimbabwe Republic Police statement quoted further down gives 750 kg; the report uses the police figure.
 ---
 
 Former Kaizer Chiefs and Black Leopards forward Abbas Amidu was sentenced to 12
@@ -96,3 +101,4 @@ reported as worth about US$75,000 (about R1.2 million). [@1] Police announced
 the arrest, conviction and sentencing together, saying the two appeared in court
 on 24 February 2026 and were each sentenced to 12 years' imprisonment. [@1]
 
+The arrests followed a tip-off, after which detectives intercepted Amidu and Mhlanga just outside Kwekwe. [@4] The two are suspected of being part of a larger drug trafficking syndicate operating across several provinces in Zimbabwe. [@4]
