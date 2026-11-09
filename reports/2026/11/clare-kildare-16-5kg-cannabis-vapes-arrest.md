@@ -46,6 +46,10 @@ sources:
     url: https://www.clare.fm/news/crime-legal/illegal-substances-seized-in-clare-in-joint-garda-customs-operation/
     publisher: Clare FM
     date: 2026-11-09
+  - title: Illegal substances seized in joint Garda/Customs operation
+    url: https://clareherald.com/news/crime-legal/illegal-substances-seized-in-joint-garda-customs-operation/
+    publisher: The Clare Herald
+    date: 2026-11-09
 open_questions:
   - Only one account of this seizure was found; no Garda or Revenue statement for it was published on their November press-release listings.
   - The reported 16.5 kg herbal cannabis is a total for several operations across Clare and Kildare; the weight seized in each county, including the Clare operation of 6 November, was not stated.
@@ -54,19 +58,21 @@ open_questions:
   - The number of operations in Clare and Kildare, the exact locations, and whether the vapes and gummies contained cannabis or synthetic cannabinoids remain unreported.
   - No charges, court appearances or outcomes were reported.
   - No photo of the seizure was published; the page image is an An Garda Síochána logo.
+  - The Clare Herald does not report the County Kildare seizure or its arrest, so its account covers only part of the recorded operation.
 ---
 
 Gardaí and Revenue Customs officers seized approximately 16.5 kg of herbal
 cannabis, along with a quantity of cannabis vapes and cannabis gummies, with an
-estimated value of €359,000. [@1] The seizures were made by the Garda National
+estimated value of €359,000. [@1,2] The seizures were made by the Garda National
 Drugs and Organised Crime Bureau, Divisional Drugs Units in Clare and Kildare
-and Revenue's Customs Service. [@1]
+and Revenue's Customs Service. [@1,2]
 
 During one intelligence-led operation in County Clare on Friday 6 November 2026,
 cannabis vapes and cannabis gummies with an estimated street value of €124,000,
-subject to final analysis, were seized. [@1] One person was arrested after a
+subject to final analysis, were seized. [@1,2] One person was arrested after a
 significant seizure in County Kildare that afternoon. [@1] The operation was one
 of a number carried out in Clare and Kildare in recent days. [@1]
 
 Investigations were ongoing. [@1]
 
+A Garda spokesperson confirmed that investigations are ongoing. [@2]
