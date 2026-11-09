@@ -47,6 +47,11 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-09
     language: ar
+  - title: تفكيك شبكة لترويج المخدرات وحجز كوكايين ومبالغ مالية ضخمة..#خبر_عاجل
+    url: https://ar.webmanagercenter.com/2026/11/09/430193/%D8%AA%D9%81%D9%83%D9%8A%D9%83-%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%AD%D8%AC%D8%B2-%D9%83%D9%88%D9%83%D8%A7%D9%8A/
+    publisher: المصدر تونس
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No date is given for the operation; 9 November 2026 is the publication date and stands in for the incident date.
   - No weight, plant count or value was published for the cannabis; the cocaine weight is not included in the cannabis figure.
@@ -55,18 +60,18 @@ open_questions:
   - No court outcome or measure of restraint was reported beyond the prosecutor authorising legal measures.
   - Only one accessible account was found; searches in Arabic and English surfaced no second outlet or National Guard statement.
   - The page's only image is captioned with a truncated headline and no credit, with nothing confirming it shows this operation or seizure, so no media entry is included.
+  - This page describes the network as linked to a group of supporters of an unnamed sports club, while the existing report describes it as suspected of ties to another group; the difference is attributed to different versions of the same account.
 ---
 
 The National Guard's Research and Inspection Brigade in Tunis, working with the
 second central intelligence brigade after an intelligence and field
 investigation, dismantled a drug network suspected of ties to another group.
 [@1] Officers arrested three suspected members of the network, including a
-group-sports coach, and put a fourth person on a wanted list. [@1]
+group-sports coach, and put a fourth person on a wanted list. [@1,2]
 
 The operation seized about 100 grams of cocaine, an unspecified quantity of
 cannabis, known locally as zatla, about 100,000 dinars in cash and two cars
-suspected of being used to move the network's members. [@1]
+suspected of being used to move the network's members. [@1,2]
 
 After being informed, the public prosecutor authorised the legal measures
-required against the suspects. [@1]
-
+required against the suspects. [@1,2]
