@@ -68,6 +68,11 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-09
     language: ar
+  - title: السجن 10 سنوات وغرامة 50 ألف جنيه لمتهم بالاتجار في المخدرات بالشرقية
+    url: https://www.elaosboa.com/3016212/
+    publisher: الأسبوع
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No weight was published for the 20 pieces of hashish, so no cannabis weight is recorded.
   - No separate hearing date is given; 9 November 2026 is the publication date of both accounts and is used as the sentencing date for the ruling reported as delivered in the session that day.
@@ -78,11 +83,12 @@ open_questions:
   - The Al-Ahram account gives no weight for the 20 pieces of hashish.
   - Al-Masry Al-Youm gives the case as No. 27703 of 2025, while Al-Youm Al-Sabea gives 27703 of 2026 for the Bilbeis felony and 5117 of 2025 for the South Zagazig registration.
   - The picture on this page is captioned only with the headline and is not confirmed to show this defendant or the seizure, so no media entry is added.
+  - Al-Aosboa gives no date for the 2025 arrest, weight for the 20 pieces of hashish, or appeal against the ruling.
 ---
 
 The second appeals circuit of Zagazig Criminal Court jailed a broker for 10
 years and fined him 50,000 Egyptian pounds for possessing hashish for sale and
-for holding an automatic rifle and ammunition without a licence. [@1,4] The man
+for holding an automatic rifle and ammunition without a licence. [@1,4,5] The man
 was 40 years old, worked as a broker (simsar, a middleman who finds buyers) and
 lived in Bilbeis markaz. [@2,4] The panel was headed by Counsellor Sami Abdel
 Halim Ghoneim, with Counsellors Ahmed Sweilem Mohamed, Hazem Bashir Ahmed and
@@ -91,9 +97,9 @@ Osama Mohamed Abdel Hadi as members. [@1,4]
 The case was filed as No. 27703 of 2025, Bilbeis markaz felony, registered as
 No. 5117 of 2025 at South Zagazig, and the arrest dated to December 2025. [@2]
 Officers stopped his car on the public road and found a mobile phone and cash on
-him. [@2] A bag on the driver's seat held 20 pieces of hashish, and under the
+him. [@2,5] A bag on the driver's seat held 20 pieces of hashish, and under the
 seat was a rapid-fire automatic rifle loaded with 10 rounds of the same calibre.
-[@2] Police said he admitted holding the hashish for sale, that the money was
+[@2,5] Police said he admitted holding the hashish for sale, that the money was
 sale proceeds and that the rifle and ammunition were to defend the trade. [@2]
 
 The chemical laboratory report found the material was hashish classed near
