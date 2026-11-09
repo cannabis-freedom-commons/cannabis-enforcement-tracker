@@ -59,6 +59,10 @@ sources:
     url: https://iol.co.za/news/crime-and-courts/2026-11-09-police-intercept-truck-linked-to-r15m-drug-trafficking-operation/
     publisher: IOL
     date: 2026-11-09
+  - title: Police seize dagga and mandrax worth R1.5m after intercepting truck on N1
+    url: https://www.ewn.co.za/2026/11/09/police-seize-dagga-and-mandrax-worth-r15m-after-intercepting-truck-on-n1
+    publisher: EWN
+    date: 2026-11-09
 open_questions:
   - No one had been arrested for the load when the reports were published; the driver remained at large and no charges were reported.
   - The R1.5 million street value covers the dagga and the Mandrax together, so it cannot be treated as the value of the cannabis alone.
@@ -67,12 +71,13 @@ open_questions:
   - IOL spells the spokesperson's name Kelello Patsa while Algoa FM writes Kelelo Patsa.
   - No photograph published with the submitted Algoa FM page could be confirmed to show the seizure, and the two IOL SAPS handout photos carry general captions about the truck.
   - Only the truck owner was reached; the reports do not say whether the owner faced any investigation.
+  - EWN says the truck was heading to Cape Town, aligning with IOL but not with Algoa FM's account that it was carrying dagga from Cape Town to Johannesburg.
 ---
 
 Free State police are searching for a truck driver who jumped out of his moving
 vehicle and fled on foot near Parys police station after officers stopped his
 truck on the N1 south, allegedly carrying dagga from Cape Town to Johannesburg.
-[@1] The Trucking and Narcotics Team stopped the truck at about noon on Saturday
+[@1,3] The Trucking and Narcotics Team stopped the truck at about noon on Saturday
 7 November 2026 and escorted it towards Parys SAPS so that it could be searched
 in a safe place. [@2] About 100 metres from the police station the driver jumped
 out of the moving truck and ran away, and police found no one in the truck when
@@ -81,11 +86,12 @@ opened an enquiry docket before the interception. [@2]
 
 In the truck officers found 452 bales of dagga, each weighing about one
 kilogram, and seven packs of Mandrax, a methaqualone sedative, each also about
-one kilogram. [@1] Police put the street value of the whole load, dagga and
-Mandrax together, at R1.5 million. [@1] The truck's owner confirmed owning the
-vehicle but denied knowing about or having any link to the drugs inside it. [@2]
+one kilogram. [@1,3] Police put the street value of the whole load, dagga and
+Mandrax together, at R1.5 million. [@1,3] The truck's owner confirmed owning the
+vehicle but denied knowing about or having any link to the drugs inside it. [@2,3]
 Police seized the drugs and impounded the truck, and no one had been arrested
 for the load while the search for the driver continued. [@2] Lieutenant Colonel
 Kelello Patsa, a Free State police spokesperson, said an enquiry had been opened
 and investigations were under way. [@2]
 
+A Gauteng enquiry was opened into the case. [@3]
