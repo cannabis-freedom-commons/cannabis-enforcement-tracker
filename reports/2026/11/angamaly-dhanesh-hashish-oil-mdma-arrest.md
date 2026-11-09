@@ -73,6 +73,11 @@ sources:
     publisher: Mathrubhumi
     date: 2026-11-09
     language: ml
+  - title: വാഴക്കുലയ്ക്കുള്ളില്‍ എംഡിഎംഎ ഒളിപ്പിച്ച് കടത്ത്; ബെംഗളൂരു ലഹരിസംഘത്തിന്റെ മുഖ്യകണ്ണി പിടിയില്‍
+    url: https://janamtv.com/81067871/
+    publisher: Janam TV
+    date: 2026-11-09
+    language: ml
 open_questions:
   - Neither account gives a date for the arrest beyond 'Monday'; 9 November 2026, the publication date, is used as the incident date.
   - The hashish oil is described only as seized hashish oil, with no laboratory confirmation or street value reported.
@@ -88,6 +93,7 @@ open_questions:
   - Suprabhaatham gives no separate date or place for the arrest; it links the arrest only to the earlier Aluva MDMA seizure from Harikrishnan.
   - Mathrubhumi repeats the same police account as the ETV Bharat-based reports already cited and is not independent confirmation.
   - The Mathrubhumi page carries a portrait photograph of the accused and no picture of the arrest, seizure or plantation, so no media entry is added.
+  - Janam TV's page picture has no caption and no credit; its file name refers to Danny Bhai, but nothing on the page identifies what the photograph shows, so no media entry is added.
 ---
 
 Police arrested Dhanesh S Nair, 31, known as Danny, the alleged main accused of
@@ -124,3 +130,5 @@ A special investigation team led by Aluva Deputy Superintendent of Police Baiju 
 Suprabhaatham gives Dhanesh S Nair's home as Vayyapuram in Harippad. [@5]
 
 Aluva Deputy Superintendent of Police Baiju Paulos led the arrest team, which included the inspectors of the Angamaly and Nedumbassery police stations. [@6]
+
+Dhanesh, known as Danny Bhai, was arrested; police gave his home address as Parayil house in Vayyapuram village, Payippad, Harippad. [@7]
