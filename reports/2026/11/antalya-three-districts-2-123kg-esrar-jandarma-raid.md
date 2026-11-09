@@ -60,6 +60,11 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-09
     language: tr
+  - title: 3 İLÇEDE UYUŞTURUCU OPERASYONU, 2 KİLOGRAM 123 GRAM ESRAR ELE GEÇİRİLDİ
+    url: https://www.yozgatgazetesi.com/iha-haberleri/3-ilcede-uyusturucu-operasyonu-2-kilogram-123-gram-esrar-ele-gecirildi-302747.html
+    publisher: Yozgat Gazetesi
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The article gives no calendar date for the searches; 9 November 2026 is its publication date and is used here as the incident date.
   - No names, ages or nationalities of the seven suspects were published, and no charges or case outcome were reported beyond the jailing of one suspect.
@@ -74,6 +79,7 @@ open_questions:
   - The tobacco operation is a separate non-cannabis component of the wider drive and is not counted in the cannabis figures.
   - This is the agency page for the same İhlas Haber Ajansı dispatch already cited through other outlets, so it corroborates the existing account rather than confirming it independently.
   - The page images are captioned only with the operation headline and name no photographer, so what exactly they depict beyond the operation cannot be verified from the text.
+  - The Yozgat Gazetesi page reproduces the İHA agency text already cited, so it does not independently confirm the operation.
 media:
   - kind: photo
     url: https://www.iha.com.tr/antalya-haberleri/3-ilcede-uyusturucu-operasyonu-2-kilogram-123-gram-esrar-ele-gecirildi-513445099
@@ -88,16 +94,16 @@ media:
 ---
 
 Gendarmes searched the homes of seven suspects in the districts of Döşemealtı,
-Aksu and Alanya in Antalya province. [@1,2,3,4] The searches were carried out on the
-instructions of the Antalya and Alanya public prosecutor's offices. [@1]
-Officers seized 2 kilos 123 grams of esrar, the Turkish name for cannabis. [@1,2,3,4]
+Aksu and Alanya in Antalya province. [@1,2,3,4,5] The searches were carried out on the
+instructions of the Antalya and Alanya public prosecutor's offices. [@1,5]
+Officers seized 2 kilos 123 grams of esrar, the Turkish name for cannabis. [@1,2,3,4,5]
 
-The same searches found 3 grams of cocaine. [@1,2] The searches also found 232
-pills of the synthetic drug Gerica and 63 other synthetic drug pills. [@1,2]
+The same searches found 3 grams of cocaine. [@1,2,5] The searches also found 232
+pills of the synthetic drug Gerica and 63 other synthetic drug pills. [@1,2,5]
 Officers seized a precision scale, two unlicensed handguns and 30 cartridges.
-[@1] Police also seized money described as proceeds of crime. [@1,2]
+[@1,5] Police also seized money described as proceeds of crime. [@1,2,5]
 
 One suspect was arrested and jailed by the court he was brought before; no
-charges were reported. [@1,2,3,4]
+charges were reported. [@1,2,3,4,5]
 
 The cannabis searches were part of a wider operation in six Antalya districts that also targeted smuggled tobacco in Kepez, Alanya and Gazipaşa. [@3] The tobacco searches were coordinated by the Antalya, Alanya and Gazipaşa public prosecutor's offices. [@3]
