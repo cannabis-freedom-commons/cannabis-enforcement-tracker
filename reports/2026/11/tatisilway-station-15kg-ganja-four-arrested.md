@@ -58,6 +58,11 @@ sources:
     publisher: Vocal TV
     date: 2026-11-09
     language: hi
+  - title: टाटीसिलवे स्टेशन पर 15 किलो गांजा के साथ चार तस्कर गिरफ्तार, 7.50 लाख रुपये बताई गई कीमत
+    url: https://loktantrasavera.com/ranchi/four-smugglers-arrested-with-15kg-of-marijuana-at-tatisilve-station-price-set-at-rs-7-50-lakh/
+    publisher: Loktantra Savera
+    date: 2026-11-09
+    language: hi
 open_questions:
   - Three accused are named only as Jitendra, Sunny and Verma, with no ages or full names given.
   - No court outcome beyond registration of the NDPS case and continuing investigation was reported.
@@ -67,6 +72,9 @@ open_questions:
   - The PTI roundup places the Tatisilway seizure on the night of 7 November, while the existing report dates the incident 8 November from the publication date.
   - Vocal TV gives no separate date or time for the check; it carries the 9 November dateline of the Hindustan Samachar wire item and its publication date, so the 8 November incident date already used in the report is kept.
   - Vocal TV names the three Kushinagar residents (Jitendra, Sunny, Verma) and the fourth accused, Vishal Yadav, of West Champaran, but gives no ages.
+  - This Hindi account gives no separate date for the check; 9 November 2026 is its publication date.
+  - The account says the ganja in three bags was confirmed with a DD kit but does not name the test agency or give the weight per bag.
+  - This article reports only the Tatisilway arrest, not the separate Garhwa truck seizure counted in the same Jharkhand roundup.
 ---
 
 RPF personnel arrested four alleged smugglers with 15 kg of ganja at Tatisilway
@@ -98,3 +106,5 @@ smuggling. [@1]
 The PTI roundup confirms that three of the accused are from Uttar Pradesh and that the fourth, the purchaser of the contraband, is from West Champaran district in Bihar. [@2]
 
 The four arrested accused were handed over, with a written complaint, to the Government Railway Police (GRP) in Ranchi along with the 15 kg of ganja, three bags, four mobile phones and seizure documents. [@3]
+
+The accused were to receive financial gain in return for carrying the ganja consignment. [@4]
