@@ -42,6 +42,11 @@ sources:
     publisher: 47NEWS（琉球新報）
     date: 2026-11-05
     language: ja
+  - title: 那覇空港で大麻輸入疑い 米国籍の男逮捕 豊見城署
+    url: https://www.msn.com/ja-jp/news/other/%E9%82%A3%E8%A6%87%E7%A9%BA%E6%B8%AF%E3%81%A7%E5%A4%A7%E9%BA%BB%E8%BC%B8%E5%85%A5%E7%96%91%E3%81%84-%E7%B1%B3%E5%9B%BD%E7%B1%8D%E3%81%AE%E7%94%B7%E9%80%AE%E6%8D%95-%E8%B1%8A%E8%A6%8B%E5%9F%8E%E7%BD%B2/ar-AA2gMzyM
+    publisher: MSN（琉球新報）
+    date: 2026-11-05
+    language: ja
 open_questions:
   - Only one opened source supports this event; searches for a second account or agency statement found nothing to open.
   - The page's only image is captioned as a file photo of Naha Airport and does not show the seizure, so no media entry is included.
@@ -52,9 +57,9 @@ open_questions:
 
 Tomishiro Police Station emergency-arrested a 25-year-old United States national
 with no fixed address who described himself as a company employee on 18 October
-2026 on suspicion of importing narcotics. [@1,2] He is accused of hiding 1.87
+2026 on suspicion of importing narcotics. [@1,2,3] He is accused of hiding 1.87
 grams of liquid containing cannabis in a rucksack and importing it at Naha
-Airport at about 5 p.m. on 17 October 2026. [@1,2] Police said 1.24 grams of
+Airport at about 5 p.m. on 17 October 2026. [@1,2,3] Police said 1.24 grams of
 tablets containing stimulants were also found in the man's suitcase. [@1] The
 man was referred to the Naha District Public Prosecutors Office on 19 October.
 [@1]
@@ -65,7 +70,7 @@ Naha Airport on 17 October via Incheon International Airport in South Korea.
 containing stimulants. [@1] Okinawa District Customs, which had alerted police,
 accused the man to the Naha District Public Prosecutors Office on 4 November on
 suspicion of violating the Customs Act by attempting to import narcotics and
-stimulants. [@1]
+stimulants. [@1,3]
 
 Tomishiro police have not disclosed whether the man admits or denies the
 allegations, citing potential interference with the investigation. [@1]
