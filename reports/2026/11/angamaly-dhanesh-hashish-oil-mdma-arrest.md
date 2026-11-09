@@ -78,6 +78,11 @@ sources:
     publisher: Janam TV
     date: 2026-11-09
     language: ml
+  - title: വാഴക്കുലയ്ക്കുള്ളില്‍ എംഡിഎംഎ കടത്ത്; ബംഗളൂരുവില്‍ നിന്നും കേരളത്തിലേക്ക് മയക്കുമരുന്ന് കടത്തുന്ന സംഘത്തിലെ പ്രധാനി പിടിയില്‍
+    url: https://anweshanam.com/amp/crime/mdma-smuggled-inside-a-bunch-of-bananas-key-member-of-the-gang-arrested-1634243
+    publisher: Anweshanam
+    date: 2026-11-09
+    language: ml
 open_questions:
   - Neither account gives a date for the arrest beyond 'Monday'; 9 November 2026, the publication date, is used as the incident date.
   - The hashish oil is described only as seized hashish oil, with no laboratory confirmation or street value reported.
@@ -94,17 +99,21 @@ open_questions:
   - Mathrubhumi repeats the same police account as the ETV Bharat-based reports already cited and is not independent confirmation.
   - The Mathrubhumi page carries a portrait photograph of the accused and no picture of the arrest, seizure or plantation, so no media entry is added.
   - Janam TV's page picture has no caption and no credit; its file name refers to Danny Bhai, but nothing on the page identifies what the photograph shows, so no media entry is added.
+  - Anweshanam says the man arrested earlier in Aluva had 180 grams of MDMA, while accounts already in the report give 185 grams; the report keeps 185 grams.
+  - Anweshanam gives no separate date for the arrest; 9 November 2026 is its publication date.
+  - Anweshanam does not name the investigating team or its officers, so its account cannot confirm who led the arrest from that source alone.
+  - The page's only picture carries no credit and no caption stating who or what it shows, so no picture from it is added.
 ---
 
 Police arrested Dhanesh S Nair, 31, known as Danny, the alleged main accused of
 a network that smuggled MDMA from Bengaluru into Kerala, at Angamaly in
-Ernakulam district. [@1,6] A special investigation team led by Aluva Deputy
+Ernakulam district. [@1,6,8] A special investigation team led by Aluva Deputy
 Superintendent of Police Baiju Paulos caught him in Angamaly. [@1] Officers
 seized 803 grams of hashish oil from him, the only cannabis product counted in
-this event; eight grams of MDMA were seized with it. [@1,4,5,6]
+this event; eight grams of MDMA were seized with it. [@1,4,5,6,8]
 
 Police said Dhanesh has his own banana plantation and farmland at Nanjangudu
-near Mysuru and used them as cover for the trafficking. [@1,4,5] Police said he
+near Mysuru and used them as cover for the trafficking. [@1,4,5,8] Police said he
 recruited young people to move and distribute the drugs, took them to Bengaluru
 and nearby areas, and had MDMA hidden inside banana bunches carried on to agents
 and buyers in Kerala. [@1]
@@ -112,7 +121,7 @@ and buyers in Kerala. [@1]
 Videos and other visuals on his mobile phones showed how the drugs were hidden
 inside banana bunches, the investigation team found. [@1,5] The lead to Dhanesh
 came from the mobile phone of Harikrishnan, arrested a day earlier at a lodge in
-Aluva with 185 grams of MDMA. [@2,4,5,6] Harikrishnan and Shinu Sebastian, who was
+Aluva with 185 grams of MDMA. [@2,4,5,6,8] Harikrishnan and Shinu Sebastian, who was
 arrested with seven grams of MDMA at Thoppumpady in Kochi, distributed the drugs
 on Dhanesh's instructions through an Instagram account under the name Danny Bhai
 and passed the proceeds to his accounts, police said. [@1]
@@ -121,14 +130,16 @@ After Harikrishnan's arrest the investigation widened into Tamil Nadu and
 Karnataka under District Police Chief K S Sudarshan, and the team said it had
 broken the main supply line bringing drugs to Kerala from the Bengaluru-Mysuru
 area. [@1] Police said the investigation is continuing to find more members of
-the gang. [@1]
+the gang. [@1,8]
 
 Times Kerala reports that nendran plantain bunches from his Mysore plantation were trucked every day to markets across Kerala, with drugs hidden inside those loads. [@3]
 
-A special investigation team led by Aluva Deputy Superintendent of Police Baiju Paulos caught him in Angamaly after officers saw him loitering near the Angamaly railway gate. [@4] Police said sales were coordinated through Instagram and distribution was handled by couriers. [@4]
+A special investigation team led by Aluva Deputy Superintendent of Police Baiju Paulos caught him in Angamaly after officers saw him loitering near the Angamaly railway gate. [@4] Police said sales were coordinated through Instagram and distribution was handled by couriers. [@4,8]
 
 Suprabhaatham gives Dhanesh S Nair's home as Vayyapuram in Harippad. [@5]
 
 Aluva Deputy Superintendent of Police Baiju Paulos led the arrest team, which included the inspectors of the Angamaly and Nedumbassery police stations. [@6]
 
 Dhanesh, known as Danny Bhai, was arrested; police gave his home address as Parayil house in Vayyapuram village, Payippad, Harippad. [@7]
+
+Anweshanam said officers moved in after seeing him loitering near the Angamaly railway gate. [@8] Anweshanam said police described hiding the drugs inside banana bunches brought from Nanjangudu to Kerala as the gang's method. [@8]
