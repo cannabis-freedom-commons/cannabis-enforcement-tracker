@@ -64,6 +64,11 @@ sources:
     url: https://www.hindustantimes.com/cities/ranchi-news/441-kg-of-ganja-worth-rs-2-2-crore-seized-in-jharkhand-4-arrested-101794204011581.html
     publisher: Hindustan Times / Press Trust of India
     date: 2026-11-09
+  - title: झारखंड में 2.2 करोड़ रुपये का 441 किलोग्राम गांजा जब्त, चार गिरफ्तार
+    url: https://hindi.theprint.in/india/441-kg-of-ganja-worth-rs-2-2-crore-seized-in-jharkhand-four-arrested/1056227/
+    publisher: ThePrint Hindi
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The submitted page is a roundup of two separate operations with different dates and no single incident; 7 November 2026, the night of the Tatisilway arrest, is used as the incident date, while the Garhwa recovery was on 8 November.
   - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
@@ -80,6 +85,8 @@ open_questions:
   - The Rediff and Live Hindustan pages state the Tatisilway arrest happened on Saturday night and the Garhwa search on Sunday, consistent with the roundup report's 7 November incident date.
   - 'Left out, as its quotation was not found in ThePrint / Press Trust of India: The Railway Protection Force arrested four interstate peddlers with 15 kg of ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway station on the night of 7 November, with the contraband valued at about 7.5 lakh rupees.'
   - 'Left out, as its quotation was not found in ThePrint / Press Trust of India: Police said the four were taking the ganja from Balangir in Odisha to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi Government Railway Police.'
+  - The page is the Hindi-language Bhasha feed of the same PTI roundup already cited in the report, so it restates the same agency figures rather than being independent reporting.
+  - 'The page image is not a picture of the cannabis operations: it is a file photo from June 2023 captioned with an ISRO scientist, so it is not listed as media.'
 ---
 
 Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
@@ -93,9 +100,9 @@ was arrested because the vehicle was empty. [@1,2,3,5]
 The Railway Protection Force arrested four interstate peddlers with 15 kg of
 ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway
 station on the night of 7 November, with the contraband valued at about 7.5 lakh
-rupees. [@1,2,5] Police said the four were taking the ganja from Balangir in Odisha
+rupees. [@1,2,5,6] Police said the four were taking the ganja from Balangir in Odisha
 to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi
-Government Railway Police. [@1]
+Government Railway Police. [@1,6]
 
 Police registered cases under the Narcotic Drugs and Psychotropic Substances
 Act, India's main anti-drug law, in both matters. [@1]
