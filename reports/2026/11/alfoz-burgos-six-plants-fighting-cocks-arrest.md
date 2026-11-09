@@ -61,6 +61,11 @@ media:
     media_url: https://s3.ppllstatics.com/burgosconecta/www/multimedia/local/2026/11/09/marihuana-ko1B--758x530@Burgosconecta.jpg
     publisher: Burgosconecta
     caption: 'Photo captioned ''Finca, plantas aprehendidas y gallo'', showing the property, the seized cannabis plants and a cock, published with the report on the inspection. Photo: Burgosconecta (BC) / Guardia Civil handout'
+  - kind: photo
+    url: https://www.diariodeburgos.es/noticia/zaa967fcd-6190-4463-ac3e4dc4c990228c/202611/detenido-en-burgos-por-maltrato-animal-y-cultivo-de-marihuana
+    media_url: https://www.diariodeburgos.es/media/IMG/2026/53EB14EB-3AC0-42CD-B84F3BB3BFC424BB.JPEG
+    publisher: Diario de Burgos
+    caption: 'Guardia Civil photo published with the report on the inspection of the fenced plot in the Alfoz de Burgos, showing the seized cannabis plants and the cocks. Photo: Guardia Civil'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f46605f6a51bdf74643a1bc1823736fe
@@ -81,6 +86,11 @@ sources:
     publisher: Burgosconecta
     date: 2026-11-09
     language: es
+  - title: Detenido en Burgos por maltrato animal y cultivo de marihuana
+    url: https://www.diariodeburgos.es/noticia/zaa967fcd-6190-4463-ac3e4dc4c990228c/202611/detenido-en-burgos-por-maltrato-animal-y-cultivo-de-marihuana
+    publisher: Diario de Burgos
+    date: 2026-11-09
+    language: es
 open_questions:
   - The accounts give no date for the inspection or the arrest; 9 November 2026 is the publication date of the Guardia Civil statement and is used as the incident date.
   - The municipality is named only as a village in the Alfoz de Burgos district, so the coordinates mark the district and not the plot.
@@ -89,6 +99,8 @@ open_questions:
   - El Debate credits the statement to Europa Press and Burgosconecta reproduces the same Guardia Civil statement, so the accounts are not independent reporting.
   - The submitted page shows one handout photo captioned 'Gallos hallados en la finca', but no caption states which part of the property it depicts.
   - Burgosconecta's main photo is captioned as showing the property, the seized plants and a cock; the outlet credits it as 'BC' without naming the photographer, and it is not confirmed whether the Guardia Civil took it.
+  - The article gives no separate date for the inspection or arrest; 9 November 2026 is its publication date.
+  - 'The Diario de Burgos photos are identical in caption and credited only as ''Foto: Guardia Civil'', so only one is listed.'
 ---
 
 Guardia Civil officers arrested a 24-year-old man in a municipality of the Alfoz
@@ -96,7 +108,7 @@ de Burgos, the district around the city of Burgos, and placed him at the
 disposal of the courts. [@1] He is suspected of a crime against public health
 through drug trafficking in the form of cultivation, and of ill-treatment of a
 domestic animal for mutilating eight Spanish fighting-breed cocks without
-veterinary justification. [@1] The Guardia Civil said the investigation began
+veterinary justification. [@1,4] The Guardia Civil said the investigation began
 weeks earlier, when it found a fenced rural plot littered with rubbish, scrap
 and waste and showing signs of irregular care of the animals kept there. [@1]
 
@@ -104,18 +116,19 @@ Officers from Seprona, the Guardia Civil's nature-protection service, and from
 the judicial police of the Burgos command carried out a joint on-site
 inspection. [@2] In the greenhouses on the property they found six Cannabis
 sativa plants in an advanced stage of growth and more than two metres tall,
-which weighed 22 kilograms green. [@2] Burgosconecta reported that the plants
+which weighed 22 kilograms green. [@2,4] Burgosconecta reported that the plants
 grew directly in the ground, appeared to be tended, and were seized during the
-inspection. [@3]
+inspection. [@3,4]
 
 The eight cocks were found with their combs and wattles completely shaved off,
 and a later expert report by Seprona's environmental forensics group confirmed
 the mutilation had been carried out without veterinary justification by
-unqualified people. [@2] Officers also recorded administrative breaches: the
+unqualified people. [@2,4] Officers also recorded administrative breaches: the
 owner had no legal register for a poultry holding and kept several dogs without
 the required vaccination or deworming. [@2] They found birdlime, an adhesive
 used to trap birds, which is a prohibited means of catching game. [@1]
 
 The proceedings ended with officers drawing up formal complaints and sending the
-case file to the courts of the provincial capital, Burgos. [@1]
+case file to the courts of the provincial capital, Burgos. [@1,4]
 
+The owner had no legal register for a poultry holding and kept dogs without the required vaccination or deworming. [@4]
