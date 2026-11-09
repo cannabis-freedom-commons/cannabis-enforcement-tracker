@@ -1,0 +1,10 @@
+# What VictoriaMetrics (compose.yaml, profile "metrics") collects: the backend's /metrics, every
+# minute, over the compose network. %{METRICS_TOKEN} comes from .env.backend.
+scrape_configs:
+  - job_name: cet
+    scrape_interval: 60s
+    scrape_timeout: 20s
+    static_configs:
+      - targets: [tracker:8080]
+    authorization:
+      credentials: "%{METRICS_TOKEN}"

@@ -219,6 +219,35 @@ scrape_configs:
       credentials: <METRICS_TOKEN>
 ```
 
+### VictoriaMetrics on this server
+
+`compose.yaml` has VictoriaMetrics ready as an optional part: it scrapes the backend every minute
+over the compose network (`deploy/victoriametrics/scrape.yml`) and keeps two years of data. To start
+it with the backend:
+
+1. Set `METRICS_TOKEN` in `.env.backend`, as above.
+2. Add the profile to `.env`:
+   ```bash
+   echo 'COMPOSE_PROFILES=metrics' >> .env
+   ```
+3. Start it, and restart the backend so it reads the token:
+   ```bash
+   docker compose up -d --force-recreate
+   ```
+4. Check that it collects: http://127.0.0.1:8428/targets on the server (through an SSH tunnel,
+   `ssh -L 8428:127.0.0.1:8428 SERVER`) should show the `cet` target as up, and
+   ```bash
+   curl -s 'http://127.0.0.1:8428/api/v1/query?query=tracker_research_ready'
+   ```
+   should return a value.
+
+In Grafana, add a data source of type **Prometheus** with the URL `http://127.0.0.1:8428` (Grafana on
+this server) or the address where Grafana reaches it, then import the dashboard below and choose
+that data source. VictoriaMetrics answers the Prometheus API, so the dashboard works as it is.
+
+If you already run VictoriaMetrics (or vmagent) elsewhere, add the job above to its
+`-promscrape.config`; it reads the same format.
+
 Workers cannot be scraped behind NAT. Each one sends its figures to the backend with every call,
 and the backend lists them as `tracker_worker_*` with a `worker` label.
 
