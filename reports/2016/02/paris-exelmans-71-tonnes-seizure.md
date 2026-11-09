@@ -60,6 +60,10 @@ sources:
     publisher: Le Parisien
     date: 2016-03-02
     language: fr
+  - title: French customs seizes €20 million in cannabis hash
+    url: https://www.france24.com/en/20151018-french-customs-seizes-cannabis-hash-20-million-euros
+    publisher: France 24
+    date: 2015-10-18
 also: [seizure]
 media:
   - kind: photo
@@ -76,3 +80,5 @@ The cannabis lay in big bags in the boots of the vans, packed as resin blocks of
 The find capped a weeks-long investigation by the National Directorate of Customs Intelligence and Investigations that had already yielded 320 kilograms seized in Bayonne in September and 200 kilograms in Rouen earlier in October. [@2] No arrests were made when the vans were found. [@2]
 
 Belgian police arrested French trafficker Sofiane Hambli in Ghent on 22 February 2016. [@3] The arrest was based on a European arrest warrant issued by a Paris investigating judge, after Tournai prosecutors received a rogatory commission asking them to locate and arrest him. [@3] Hambli was returning from Brussels airport, where he had gone to meet his partner, when he was arrested, and he was placed in provisional detention pending transfer to the French judicial authorities. [@3] Les Dernières Nouvelles d'Alsace linked Hambli to the October seizure of 7.1 tonnes of cannabis resin. [@3] In 2011 the Mulhouse criminal court had sentenced Hambli to 13 years in prison and two million euros for running an international hashish trafficking operation from his prison cell in 2002. [@3] According to Les Dernières Nouvelles d'Alsace, Hambli had served only five of those 13 years and had been released in 2015 after accounting for pre-trial detention in France and Spain. [@3]
+
+The resin blocks were wrapped in plastic and burlap and stashed in the boots of three abandoned commercial vehicles parked along a boulevard in the 16th arrondissement. [@4] A source close to the investigation told BFMTV that the seizure followed several weeks of inquiry by the National Directorate of Customs Intelligence and Investigation (DNRED). [@4]
