@@ -43,21 +43,29 @@ sources:
     publisher: Linfodrome
     date: 2026-11-09
     language: fr
+  - title: 'Toulépleu : Une opération antidrogue conduit à la saisie de 5 kg de cannabis dans le village de Méo'
+    url: https://www.linfodrome.com/faits-divers/127386-toulepleu-une-operation-antidrogue-conduit-a-la-saisie-de-5-kg-de-cannabis-dans-le-village-de-meo
+    publisher: Linfodrome
+    date: 2026-11-09
+    language: fr
 open_questions:
   - The article does not say whether the grower has been charged or brought before a court.
   - No figure was published for the number of plants involved or the area cultivated.
   - Only the day of the operation is reported; the article was published on 9 November 2026.
   - Only one source, Linfodrome, republished by MSN, was found for this operation; the original page could not be opened again and the account rests on the MSN copy.
   - The article does not name the suspect or say where he was held.
+  - The article does not say whether the suspect has been charged or brought before a court beyond the police custody ordered by the prosecutor.
+  - The article gives the operation as part of Épervier spécial but does not link it to a numbered phase or to a campaign report in the tracker.
 ---
 
 Officers of the anti-drug squad (Groupe de répression anti-drogue, GRAD) based
 in Guiglo arrested a cannabis grower in the village of Méo, in Toulépleu
-department in western Côte d'Ivoire, on Sunday 8 November 2026. [@1]
+department in western Côte d'Ivoire, on Sunday 8 November 2026. [@1,2]
 
-The officers accuse the grower of selling cannabis illegally. [@1] They seized
-five blocks of cannabis weighing five kilograms in all. [@1]
+The officers accuse the grower of selling cannabis illegally. [@1,2] They seized
+five blocks of cannabis weighing five kilograms in all. [@1,2]
 
 The operation is part of a continuing crackdown on drug trafficking in western
-Côte d'Ivoire. [@1]
+Côte d'Ivoire. [@1,2]
 
+The officers acted under a police drive named Épervier spécial, which aims to dismantle drug dens and shut down distribution networks in their area. [@2] The suspect, a 30-year-old Ivorian cultivator living in Méo, was placed in police custody on the instructions of the public prosecutor at the Guiglo court of first instance, and an investigation was opened. [@2]
