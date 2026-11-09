@@ -48,6 +48,20 @@ sources:
     publisher: Irak Haber Ajansı
     date: 2026-11-03
     language: tk
+  - title: بعملية خارج الحدود.. مخدرات كركوك تفكك شبكة دولية وتضبط 20 كغم من الماريجوانا
+    url: https://shafaq.com/ar/أمـن/بعملية-خارج-الحدود-مخدرات-كركوك-تفكك-شبكة-دولية-وتضبط-20-كغم-من-الماريجوانا
+    publisher: شفق نيوز
+    date: 2026-08-13
+    language: ar
+  - title: Iraq seizes 20 kg of marijuana, dismantles 'international' drug network in Kirkuk
+    url: https://www.rudaw.net/english/categories/iraq/1078810
+    publisher: Rudaw
+    date: 2026-08-13
+  - title: بالتنسيق مع دولة مجاورة.. تفكيك شبكة دولية وضبط 20 كغم ماريجوانا في كركوك
+    url: https://www.kurdistan24.net/ar/story/932224
+    publisher: Kurdistan24
+    date: 2026-08-13
+    language: ar
 open_questions:
   - The articles give no separate date for the operation; 3 November 2026 is the publication date of both outlets and is used as the incident date.
   - The neighbouring country where the arrests and seizure occurred was not named.
@@ -62,11 +76,17 @@ open_questions:
   - The names, nationalities, charges and any court outcome for the four arrested people were not published.
   - Turkish “esrar” in this page corresponds to “hashish” in the existing report; identification rests on the directorate statement with no independent weighing record published.
   - The page image is captioned only with the headline and is not established to show this seizure, so no media entry is listed.
+  - The submitted Rudaw page calls the seized material marijuana and attributes the statement to the interior ministry, while the Shafaq and Iraqi News Agency accounts of the same 13 August announcement call it hashish and attribute it to the Kirkuk directorate; the report keeps hashish and records the discrepancy.
+  - The Rudaw page gives no separate date for the operation and no arrests; 13 August 2026 is its publication date and the date of the ministry statement.
+  - The page does not name the neighbouring country or the suspects, charges or court outcome, and gives no independent weighing record.
+  - The page's only image is the interior ministry logo, which does not show the seizure, so no media entry is added.
+  - 'Left out, as its quotation was not found in شفق نيوز: In total, the force arrested all four members of the network and seized 20 kilograms of hashish.'
+  - Left out arrested, as its quotation was not found in شفق نيوز.
 ---
 
 Kirkuk's narcotics affairs directorate, which belongs to the General Directorate
 for Narcotics Affairs, said its detachments successfully infiltrated a network
-trading in narcotic substances inside one of the neighbouring countries. [@1,3]
+trading in narcotic substances inside one of the neighbouring countries. [@1,3,4]
 The directorate described the effort as a tightly planned, high-quality
 operation that started by luring one of the network's members. [@1,3] Officers
 caught that member red-handed inside that country's territory. [@2] The first
@@ -80,3 +100,5 @@ international trafficking networks and dismantle their rings beyond Iraq's
 borders. [@1] It credited precise intelligence work and joint coordination,
 stressing that pursuing traffickers does not stop at the limits of geography and
 that the law reaches them wherever their activity extends. [@1]
+
+The Iraqi interior ministry said the operation was carried out in coordination with authorities in a neighbouring country. [@5] The ministry said the bust foiled the network's plans to move the substances and expand its activity. [@5] Kurdistan24 reported that the statement described intensive intelligence follow-up and high-level regional security coordination behind the operation. [@6]
