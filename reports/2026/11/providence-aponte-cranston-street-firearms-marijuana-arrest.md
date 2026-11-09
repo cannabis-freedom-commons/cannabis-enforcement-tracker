@@ -54,6 +54,10 @@ sources:
     url: https://fallriverreporter.com/rhode-island-man-arrested-after-seizure-of-7-firearms-multiple-large-capacity-magazines-suspected-marijuana-with-child-present/
     publisher: Fall River Reporter
     date: 2026-11-09
+  - title: '7 Guns Seized, Providence Man Arrested Following Pot Probe: Police'
+    url: https://patch.com/rhode-island/providence/7-guns-seized-providence-man-arrested-following-pot-probe-police
+    publisher: Providence, RI Patch
+    date: 2026-11-09
 open_questions:
   - No weight was given for the suspected marijuana packages, so no kilogram figure is recorded.
   - No laboratory confirmation that the material was cannabis was reported; it is described only as suspected marijuana.
@@ -62,6 +66,8 @@ open_questions:
   - The submitted article gives the arrest only as happening "On Tuesday"; 3 November 2026 is taken from the Providence Police Department's release.
   - The featured portrait image is a booking-style photograph of the named individual and is not listed as media.
   - The statement does not say whether the searched residence was a home or business premises, nor which street it is on beyond Cranston Street for the arrest.
+  - Patch lists marijuana sale and manufacture charges among the counts against Aponte, while the Providence police statement cited in the existing report described only a referral to the narcotics bureau for additional charges; the report records both accounts.
+  - Patch gives no weight for the marijuana seized and does not say whether the material was laboratory-confirmed as cannabis.
 ---
 
 Providence Police arrested Eric Aponte, 26, on Cranston Street on 3 November
@@ -88,3 +94,4 @@ over the suspected marijuana. [@1] Chief Colonel Oscar Perez said the
 investigation showed the department's commitment to holding people accountable
 when their actions put the community, particularly children, at risk. [@1]
 
+Aponte was charged with manufacturing, possessing or selling marijuana with intent to manufacture or sell. [@3]
