@@ -55,6 +55,11 @@ sources:
     publisher: NAGORIK TV
     date: 2026-11-09
     language: bn
+  - title: হাতিয়ায় কোস্ট গার্ডের অভিযান, আটক ১
+    url: https://dailyadin.com/country/29893
+    publisher: The Daily Adin
+    date: 2026-11-09
+    language: bn
 open_questions:
   - Only NAGORIK TV's account, reproducing a Coast Guard press statement, could be opened; no separate outlet or Coast Guard page reporting this raid was found.
   - The report gives no weight or value estimate for the seized speedboat and does not say whether it was returned, held or handed to police.
@@ -62,22 +67,23 @@ open_questions:
   - The Coast Guard described the man as aged 30 but gave his father's name and home village only, so his identity rests on that description.
   - The operation was described as a special drive, but its start and end times were not given; the raid is dated to the Monday afternoon stated in the press statement.
   - The page image is titled only "hatya" and carries no caption saying whether it shows the seized ganja or the speedboat, so what it depicts is not established.
+  - The Daily Adin reproduces the same Coast Guard press statement as the NAGORIK TV report already cited, so the two accounts are not independent.
+  - The Daily Adin report does not mention the seizure of the speedboat recorded in the existing report, and does not say whether any charges were filed or the boat was held.
 ---
 
 Coast Guard officers arrested a man they described as a drug trafficker and
 seized 4 kg of ganja from him in Noakhali's Hatiya upazila on Monday 9 November
-2026. [@1] A Coast Guard team from Hatiya station searched a suspicious
+2026. [@1,2] A Coast Guard team from Hatiya station searched a suspicious
 speedboat near Chairman Ghat in the upazila during the operation and made the
-arrest on board, acting on a tip-off. [@1] The Coast Guard also seized the
+arrest on board, acting on a tip-off. [@1,2] The Coast Guard also seized the
 speedboat, which it said was used to move the drugs. [@1]
 
-The Coast Guard valued the seized ganja at about 160,000 taka. [@1] Lieutenant
+The Coast Guard valued the seized ganja at about 160,000 taka. [@1,2] Lieutenant
 Commander Sabbir Alam Sujan, a Coast Guard media officer, confirmed the details
-in a press statement sent to the media on Monday. [@1]
+in a press statement sent to the media on Monday. [@1,2]
 
 The Coast Guard said the arrested man, aged 30, is the son of Ali Mia of Chak
-Lakkhipur village in Ujirpur union, Chouddagram thana, Cumilla. [@1] The seized
+Lakkhipur village in Ujirpur union, Chouddagram thana, Cumilla. [@1,2] The seized
 ganja and the arrested man were handed over to Hatiya police station for legal
-action. [@1] The Coast Guard said it would continue such operations to protect
-the country's young people and curb the spread of drugs. [@1]
-
+action. [@1,2] The Coast Guard said it would continue such operations to protect
+the country's young people and curb the spread of drugs. [@1,2]
