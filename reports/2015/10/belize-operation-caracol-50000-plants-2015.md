@@ -51,15 +51,21 @@ sources:
     url: https://www.dvidshub.net/news/181216/belizean-security-forces-us-army-conduct-counter-drug-operation
     publisher: Joint Task Force-Bravo
     date: 2015-11-06
+  - title: $61 million worth of marijuana crops destroyed in joint operation
+    url: https://www.breakingbelizenews.com/2015/11/03/61-million-worth-marijuana-crops-destroyed-joint-operation/
+    publisher: Breaking Belize News
+    date: 2015-11-03
 open_questions:
   - No arrests, charges or court outcomes were reported for the operation.
   - No figure was published for the number of fields, the area cleared or the value of the destroyed plants beyond the count of more than 50,000 plants.
   - The reports do not name the districts or sectors where the fields were located.
+  - The text gives a number of plants ("51,000 marijuana plants") but the figures have no plants_destroyed; check whether it belongs there.
+also: [seizure]
 ---
 
 Belizean security forces and US Joint Task Force-Bravo partnered during
 Operation CARACOL, a marijuana eradication mission led by Belizean intelligence
-forces in various sectors of Belize on 26-30 October 2015. [@1] The Belize
+forces in various sectors of Belize on 26-30 October 2015. [@1,3] The Belize
 Defence Force Mobile Interdiction Team, Anti-Narcotics Unit, Belize Coast Guard
 and Belize Police Department joined US Army 1-228 Aviation Regiment personnel in
 the mission, commanded through the Belize Joint Intelligence and Operation
@@ -86,3 +92,4 @@ eradication teams. [@1] US planners described the intelligence-driven operation
 as significantly reducing illicit drugs produced in remote jungle areas of
 Belize. [@1]
 
+The Joint Intelligence Operation Center based at the Price Barracks compound planned the operation, which used helicopter support from the US Southern Command. [@3] The Ministry of National Security said almost 51,000 marijuana plants were destroyed along with 300 pounds of compressed marijuana. [@3] The destroyed marijuana was valued at approximately $61 million. [@3]
