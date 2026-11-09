@@ -74,6 +74,11 @@ sources:
     publisher: Seblang.com
     date: 2026-11-09
     language: id
+  - title: Satresnarkoba Polres Jember Ungkap 44 Kasus, Sita Lebih dari 1 Kg Sabu dan 26 Batang Pohon Ganja
+    url: https://warta.in/satresnarkoba-polres-jember-ungkap-44-kasus-sita-lebih-dari-1-kg-sabu-dan-26-batang-pohon-ganja/
+    publisher: Warta.in (Wartawan Investigasi)
+    date: 2026-11-09
+    language: id
 open_questions:
   - No second account of the 9 November 2026 press conference could be opened; the report rests on the SMN News article alone.
   - The 53 suspects cover all 44 cases; no cannabis-only arrest, charge or suspect count was published.
@@ -90,21 +95,24 @@ open_questions:
   - Seblang.com counts 40 narcotics cases and 49 suspects, while the report's head line carries 44 cases and 53 suspects including four dangerous-drug cases.
   - Seblang.com gives no weight for the dried ganja seized with the 26 potted plants and does not say whether the plants were taken away or left in place.
   - Seblang.com places the CY arrest on Jalan Brawijaya, Desa Jubung, Sukorambi, while another account cited in the report names Jalan Buleleng Jaya, Desa Jukung, Sukorambi.
+  - Warta.in names the conference venue as Aula Rupatama Mapolres Jember, consistent with the recorded place.
+  - The page gives no weight for the 26 living plants and does not say whether they were taken away or destroyed.
+  - The page's only image is an uncaptioned file named IMG_20261109_204921 showing the press conference, so no new media entry is added.
 ---
 
 Police in Jember regency, East Java, said they uncovered 44 narcotics and
 dangerous-drug cases between October and 8 November 2026 and detained 53
-suspects, five of them repeat offenders. [@1,2,5] Jember police chief AKBP Alaiddin
+suspects, five of them repeat offenders. [@1,2,5,6] Jember police chief AKBP Alaiddin
 announced the results at a press conference at the police headquarters on Monday
-9 November 2026. [@1,3,5]
+9 November 2026. [@1,3,5,6]
 
 The cannabis evidence in the haul was 23.26 grams of dried ganja and 26 cannabis
-plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2,5] A cannabis
+plants, listed alongside methamphetamine and 25 ecstasy pills. [@1,2,5,6] A cannabis
 case began with the arrest of CY in Jubung village, Sukorambi subdistrict,
 holding 8.72 grams of dried ganja, which led officers to MTA in Kebonsari,
 Sumbersari. [@1,5] The inquiry then extended to Situbondo regency, where police
 detained JW as an alleged intercity dealer and found 26 cannabis plants and
-10.20 grams of dried ganja. [@1,2]
+10.20 grams of dried ganja. [@1,2,6]
 
 Police also reported other supply networks, including 775.29 grams of
 methamphetamine found stored in Bintoro, Patrang, an alleged cross-province
@@ -114,7 +122,7 @@ ranjau, dead-drop stashing, together with cut-off contacts to avoid detection,
 and that they dealt in dangerous drugs without a permit or prescription. [@1,3]
 Narcotics suspects face up to 20 years in prison and a Rp10 billion fine under
 the 2009 Narcotics Law, while the dangerous-drug suspects face up to 12 years
-and a Rp5 billion fine under the 2023 Health Law. [@1,3]
+and a Rp5 billion fine under the 2023 Health Law. [@1,3,6]
 
 Police said JW admitted growing the cannabis for his own use as a user but also passed part of the crop in limited supply to people in his social circle. [@4,5] The 775.29 grams of methamphetamine were found in BSG's rented house at Perumahan Nazira Residence, Kelurahan Bintoro, Patrang, with BSG held after a positive urine test and a suspect identified as DN named as the alleged owner and still at large. [@4]
 
