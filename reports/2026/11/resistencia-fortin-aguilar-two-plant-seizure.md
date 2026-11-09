@@ -51,6 +51,11 @@ sources:
     publisher: Noticias del Paraná
     date: 2026-11-09
     language: es
+  - title: PROCEDIMIENTO ANTIDROGAS EN RESISTENCIA SECUESTRARON PLANTAS DE MARIHUANA Y ELEMENTOS DE CULTIVO INDOOR EN UNA VIVIENDA
+    url: https://porticonoticias.com/procedimiento-antidrogas-en-resistencia-secuestraron-plantas-de-marihuana-y-elementos-de-cultivo-indoor-en-una-vivienda/
+    publisher: PORTICO NOTICIAS
+    date: 2026-11-09
+    language: es
 open_questions:
   - The article says the intervention happened 'esta mañana' and was published on 9 November 2026; 9 November is used as the incident date.
   - No weight was published for the marijuana flowers in the wrapper, so only the two plants are recorded as a cannabis quantity.
@@ -61,19 +66,20 @@ open_questions:
   - The prosecutor ordered the items seized with the exception of cash, but the source gives no amount and does not explain the cash.
   - The direct image address is the submitted page's lead picture, stored as hongos-marihuana.jpg; it has no caption or credit confirming it shows this seizure.
   - No second independent account of this event was found.
+  - Pórtico Noticias gives no number of marijuana flowers in the wrapper and no weight, so it adds no cannabis quantity.
 ---
 
 Officers of the División Patrulla Preventiva, the Chaco police's preventive
 patrol division, went to a house on calle Fortín Aguilar at about number 65 in
 Resistencia on the morning of 9 November 2026 to secure the belongings of a
 woman who had been taken away hours earlier for causing disorder and damage at
-her former partner's home. [@1] The owner of the house told them the woman had
+her former partner's home. [@1,2] The owner of the house told them the woman had
 rented a room there for about six weeks and handed over items among her
 belongings voluntarily. [@1]
 
 Among the items were two seedlings that appeared to be cannabis, five mushrooms
 of different sizes, a wrapper with marijuana flowers and indoor growing
-equipment including LED panels, lamps, pots, fertilisers and a grow tent. [@1]
+equipment including LED panels, lamps, pots, fertilisers and a grow tent. [@1,2]
 The División Drogas Peligrosas, the provincial dangerous-drugs unit, carried out
 field tests that were positive for marijuana on the seedlings examined, while a
 paper sample tested negative. [@1]
@@ -82,8 +88,7 @@ The woman turned up during the procedure, became agitated and was aggressive
 again towards the owner, and officers detained her. [@1] The Fiscalía Antidrogas
 N° 1, the anti-drug prosecutor's office led by Dr Lovey Pessano, ordered the
 seizure of items linked to the case except the cash and ordered the woman
-released after the file was recorded. [@1]
+released after the file was recorded. [@1,2]
 
 The seized items and the file went to the Comisaría Séptima Metropolitana, the
-city's seventh metropolitan police station, for the courts. [@1]
-
+city's seventh metropolitan police station, for the courts. [@1,2]
