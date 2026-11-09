@@ -78,6 +78,11 @@ sources:
     publisher: France 3 Provence-Alpes-Côte d'Azur
     date: 2026-11-07
     language: fr
+  - title: Un trafic de cannabis et de cocaïne démantelé après des opérations de police dans quatre communes du Var
+    url: https://www.ouest-france.fr/provence-alpes-cote-dazur/hyeres-83400/un-trafic-de-cannabis-et-de-cocaine-demantele-apres-des-operations-de-police-dans-quatre-communes-du-var-27e7fec0-dc2a-11f1-a04a-6776b5256c5b
+    publisher: Ouest-France
+    date: 2026-11-09
+    language: fr
 open_questions:
   - The Nice-Matin account gives no date for the raids; 3 November 2026 comes from Var Actu.
   - Var Actu reports a judicial investigation opened in March 2026, while Nice-Matin says the Toulon prosecutor opened one after the May 2025 discovery.
@@ -87,6 +92,9 @@ open_questions:
   - The published photo shows the Val-des-Rougières estate, not the raids or the seizure itself.
   - France 3 links the Hyères case to the history of the estate by reporting a June 2023 raid there in which seven people were arrested and about 20 kg of drugs, weapons and €70,000 were seized, and a February 2024 operation in which nine people were arrested and 54 kg of cannabis resin, €35,000 and 14 weapons were seized; these are separate events, not covered here.
   - The 20 Minutes account republished by Yahoo does not describe the raids' exact date or the remand decisions, which rest on the Nice-Matin and Var Actu accounts already cited.
+  - Ouest-France reports €36,000 in cash seized, while the Toulon prosecutor's figures given to the outlets already cited put the amount at €35,600; the report keeps the prosecutor's figure.
+  - Ouest-France cites France 3 Provence-Alpes-Côte d'Azur dated 7 November 2026 as its source, so it is not independent reporting of the operation.
+  - The only picture on the Ouest-France page is captioned as an illustrative photo by Marc Ollivier of Ouest-France, not a photo of these raids or seizures, so no media entry is added.
 ---
 
 Eight people were remanded in custody on Thursday 5 and Friday 6 November 2026
@@ -97,10 +105,10 @@ trafficking; they are presumed innocent until a court rules. [@2,3] The raids we
 carried out on Tuesday 3 November 2026 in Hyères, Solliès-Pont, La Farlède and
 La Londe-les-Maures, with the help of the RAID, the national police intervention
 unit. [@2,4] Eight people were detained in the operation, all of them later placed
-in pre-trial detention. [@2]
+in pre-trial detention. [@2,6]
 
 The searches that followed the raids turned up 5.5 kg of cocaine, 7.7 kg of
-cannabis resin and 1 kg of cannabis herb, the prosecutor's office said. [@1,3]
+cannabis resin and 1 kg of cannabis herb, the prosecutor's office said. [@1,3,6]
 Officers also seized €35,600 in cash, two semi-automatic pistols, large
 quantities of ammunition, packaging material for drugs, vehicles and some luxury
 clothing. [@1,3]
@@ -119,3 +127,5 @@ judge at the Toulon judicial court. [@1]
 The seizures in the case amounted to more than 14 kg of drugs, along with two handguns and €35,600 in cash. [@4] The eight suspects lived in Hyères, Solliès-Pont, La Farlède and La Londe-les-Maures. [@3]
 
 France 3 reported that the Val-des-Rougières estate had already been the scene of drug-trafficking operations before this case. [@5]
+
+The searches began in May 2025 after the anti-crime squad found drugs and cash in a car parked on a car park in Hyères. [@6]
