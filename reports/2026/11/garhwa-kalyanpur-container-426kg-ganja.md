@@ -86,6 +86,11 @@ sources:
     url: https://theprint.in/india/441-kg-of-ganja-worth-rs-2-2-crore-seized-in-jharkhand-4-arrested/3093935/
     publisher: ThePrint / Press Trust of India
     date: 2026-11-09
+  - title: 'Garhwa News: कंटेनर के गुप्त तहखाने से 426 किलो गांजा बरामद, चालक फरार'
+    url: https://www.livehindustan.com/jharkhand/garhwa/story-garhwa-police-seize-426-kg-of-cannabis-hidden-in-secret-container-compartment-201794225373669.html
+    publisher: Live Hindustan
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The article gives no separate date for the recovery; 8 November 2026 is its publication date and is used as the incident date.
   - The total is presented as 426 packets of about one kilogram each, so the 426 kg figure is the police's own calculation rather than a measured weight.
@@ -103,6 +108,9 @@ open_questions:
   - The Amar Ujala page gives no separate date for the recovery; 9 November 2026 is its publication date, while the existing report uses 8 November 2026.
   - The page lists one image whose caption only repeats the headline and credits only Amar Ujala, so it is not confirmed to show this seizure and is omitted as media.
   - PTI gives the Garhwa value as about 2.13 crore rupees, while ETV Bharat reported about one crore; the report carries neither figure in its structured value field.
+  - The Hindustan page gives no date other than Sunday, 8 November 2026, for the recovery, and its own publication date is 9 November 2026.
+  - The page describes the vehicle only as a container (कंटेनर) and names no registration number or owner, so it does not settle the truck-or-container wording used elsewhere.
+  - The page gives no value estimate for the ganja, no charge or case registration and no excerpt of a police statement beyond the recovery itself.
 ---
 
 Garhwa police in Jharkhand recovered 426 kilograms of ganja from a container
@@ -131,3 +139,5 @@ The container carrying the ganja bore the Uttar Pradesh registration number UP21
 The ETV Bharat account valued the 426 kg of ganja at about one crore rupees. [@4]
 
 A PTI account carried by Rediff valued the seized ganja at about 2.13 crore rupees, higher than the about one crore rupees reported by another outlet. [@6] The seized truck carried a Uttar Pradesh registration number, the Garhwa superintendent of police said. [@6]
+
+Garhwa police recovered 426 kilograms of ganja from a container on Sunday after the superintendent of police received a tip that a large quantity was hidden in a container standing by the road near the Kalyanpur overbridge. [@8]
