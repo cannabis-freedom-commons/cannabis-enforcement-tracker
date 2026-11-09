@@ -27,6 +27,11 @@ sources:
     publisher: Uniradio Informa
     date: 2026-11-09
     language: es
+  - title: Detienen a dos hombres tras localizar 68 envoltorios de marihuana
+    url: https://ndtnoticiasdetijuana.com/detienen-dos-hombres-68-envoltorios-presunta-marihuana/
+    publisher: NDT Noticias de Tijuana
+    date: 2026-11-09
+    language: es
 open_questions:
   - No weight of the suspected marijuana was published; the report records only the count of 68 bags.
   - 7 November 2026 is the date the article gives for the stop; 9 November 2026 is its publication date.
@@ -35,24 +40,37 @@ open_questions:
   - The article does not say which of the two men was driving or who allegedly carried the replica revolver.
   - Only one source for this event was found; search results for other Tijuana hyperlocal outlets returned older, unrelated detentions.
   - Photos on the page carry empty captions and the related content shows no description tying them to this stop, so no media is listed.
+  - NDT does not give the weight of the 68 bags, and it describes the contents only as a green, dry herb similar to marijuana with no laboratory confirmation.
+media:
+  - kind: photo
+    url: https://ndtnoticiasdetijuana.com/detienen-dos-hombres-68-envoltorios-presunta-marihuana/
+    media_url: https://ndtnoticiasdetijuana.com/wp-content/uploads/2026/11/envoltorios-web-1160x560.jpg
+    publisher: NDT Noticias de Tijuana
+    caption: Photo published with the report of the 68 bags of suspected marijuana found in a car in Colonia Altiplano, fourth section.
+  - kind: photo
+    url: https://ndtnoticiasdetijuana.com/detienen-dos-hombres-68-envoltorios-presunta-marihuana/
+    media_url: https://ndtnoticiasdetijuana.com/wp-content/uploads/2026/11/envoltorios-1160x653.jpg
+    publisher: NDT Noticias de Tijuana
+    caption: Photo of the intervention on a car in Colonia Altiplano, fourth section, during which Municipal Police also seized a replica revolver.
 ---
 
 Officers of Tijuana's Municipal Secretariat of Security and Citizen Protection
 (SSPCM) detained two men on suspicion of crimes against health during a
 preventive patrol on 7 November 2026 in the Altiplano neighbourhood, fourth
-section. [@1] The officers stopped a gold Honda Accord that was allegedly
+section. [@1,2] The officers stopped a gold Honda Accord that was allegedly
 breaching the traffic regulations, and its driver, identified as Enrique "N",
-21, said he had neither the vehicle's papers nor a driving licence. [@1]
+21, said he had neither the vehicle's papers nor a driving licence. [@1,2]
 
 A preventive search found a clear plastic bag holding 68 small zip-lock bags,
 each containing a green, dry herb with characteristics similar to marijuana.
-[@1] The officers also found a replica revolver, and detained Enrique "N", 21,
-and Irvin "N", 31. [@1]
+[@1,2] The officers also found a replica revolver, and detained Enrique "N", 21,
+and Irvin "N", 31. [@1,2]
 
 According to preliminary information, both detained men had records of
 proceedings and sentences for homicide and for carrying weapons. [@1] Both men
 were handed to the state Attorney General's Office (FGE), which is to open the
-investigation files and determine their legal situation. [@1] The SSPCM asked
+investigation files and determine their legal situation. [@1,2] The SSPCM asked
 residents to report the sale or distribution of illegal substances anonymously
-to the 089 line or through the 9-1-1 emergency number. [@1]
+to the 089 line or through the 9-1-1 emergency number. [@1,2]
 
+Both detained men had records of proceedings and sentences for homicide and for carrying weapons, according to preliminary information from the SSPCM. [@2] The SSPCM did not say which records belonged to each man or give details of those proceedings, this account says. [@2]
