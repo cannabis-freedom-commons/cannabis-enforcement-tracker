@@ -1,9 +1,9 @@
 name: Backend checks
 on:
   push:
-    paths: ['backend/**', '.opencode/**', '.github/workflows/backend.yml']
+    paths: ['backend/**', '.opencode/**', 'deploy/**', 'compose.yaml', '.dockerignore', 'package-lock.json', '.github/workflows/backend.yml']
   pull_request:
-    paths: ['backend/**', '.opencode/**', '.github/workflows/backend.yml']
+    paths: ['backend/**', '.opencode/**', 'deploy/**', 'compose.yaml', '.dockerignore', 'package-lock.json', '.github/workflows/backend.yml']
 permissions:
   contents: read
 jobs:
@@ -20,4 +20,26 @@ jobs:
           cache-dependency-path: backend/go.sum
       - run: go test -race ./...
       - run: go vet ./...
-      - run: go build ./cmd/tracker
+      # the backend, and the research worker that runs elsewhere (docs/WORKERS.md)
+      - run: go build ./cmd/tracker ./cmd/tracker-worker
+
+  # The server runs `docker compose up -d` in a clone (docs/DEPLOY.md): the image must build there,
+  # and have the tools the backend calls (git, ImageMagick with AVIF, the photo scripts' packages).
+  image:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - name: Check compose.yaml
+        run: touch .env.backend && docker compose config --quiet
+      - name: Build the server image
+        run: docker build -f deploy/backend.Dockerfile --build-arg TRACKER_UID=1001 --build-arg TRACKER_GID=1001 -t cet-tracker .
+      - name: Check the image's tools
+        run: |
+          docker run --rm --entrypoint sh cet-tracker -c '
+            set -e
+            test "$(id -u)" = 1001 && test "$HOME" = /home/tracker
+            git --version
+            magick -list format | grep -q AVIF
+            cd /tmp && node -e "require(\"sharp\"); require(\"js-yaml\"); require(\"thumbhash\")"
+            tracker -h 2>&1 | grep -q check-ai
+          '
