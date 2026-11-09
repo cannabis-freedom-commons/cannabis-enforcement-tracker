@@ -180,6 +180,9 @@ open_questions:
   - The page names no growers, arrests, suspects or charges for the Tor Sihite plots.
   - The page's single image carries only the article headline as caption with no credit identifying its content, so no media entry is added; it appears to repeat the agency handout already covered.
   - The page's single image carries no caption or credit identifying its content, so no media entry is listed for this source.
+  - This account gives the approach as 7.5 hours on foot, arriving about 14.00 WIB, while the existing report's main account says about seven hours one way and 14 hours round trip; other accounts already in the report say eight or nine hours.
+  - This account gives plant height as about one to 1.5 metres, while the existing report describes the plants as about one to two metres tall.
+  - The page's main photo carries only the article headline as its caption and no credit, and it appears to republish the provincial police handout already covered from other outlets, so no media entry is added.
 sources:
   - title: Tempuh 7 Jam ke Lokasi, 5 Hektare Ladang Ganja Dimusnahkan di Madina
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -466,6 +469,11 @@ sources:
     publisher: Gerindra Sumut
     date: 2026-11-07
     language: id
+  - title: Ladang Ganja Seluas 5 Hektare Terbongkar di Madina, Polda Sumut Musnahkan 150.000 Batang
+    url: https://hariandialog.co.id/ladang-ganja-seluas-5-hektare-terbongkar-di-madina-polda-sumut-musnahkan-150-000-batang/
+    publisher: Harian Dialog
+    date: 2026-11-08
+    language: id
 media:
   - kind: photo
     url: https://analisadaily.com/berita/baca/2026/11/01/1079078/tempuh-7-jam-ke-lokasi-5-hektare-ladang-ganja-dimusnahkan-di-madina/
@@ -593,3 +601,5 @@ The Mandailing Natal police drug unit followed up the public information with th
 The tip that started the operation went to the Mandailing Natal police drug unit, Satresnarkoba Polres Mandailing Natal, which coordinated with the North Sumatra police drug directorate before other agencies joined the joint operation. [@54]
 
 In Panyabungan on 7 November 2026, Mandailing Natal deputy regent Atika Azmi Utammi Nasution said she hoped the destruction operations would continue, so the government's effort to move residents to other crops could be realised faster. [@55,56,57]
+
+Officers uprooted and burned 149,980 of the plants on site and kept 20 stalks as evidence. [@58] The crop was five to six months old and stood about one to 1.5 metres tall. [@58] Provincial police spokesman Kombes Pol Ferry Walintukan said investigators were still questioning witnesses and sending the evidence to the provincial police forensic laboratory, and that police were hunting those responsible for the field. [@58] The find was part of the 2026 Narkoba Law Enforcement Operation (Gakkum), carried out by North Sumatra police with the National Narcotics Agency, the military, the public order agency and residents. [@58]
