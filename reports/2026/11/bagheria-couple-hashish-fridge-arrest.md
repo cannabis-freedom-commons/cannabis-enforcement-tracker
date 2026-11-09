@@ -64,6 +64,11 @@ sources:
     publisher: StrettoWeb
     date: 2026-11-09
     language: it
+  - title: 'Nascondevano hashish nel frigorifero: arrestati marito e moglie'
+    url: https://www.monrealepress.it/2026/11/09/nascondevano-hashish-nel-frigorifero-arrestati-marito-e-moglie/
+    publisher: Monreale Press
+    date: 2026-11-09
+    language: it
 open_questions:
   - No date is given for the arrest or the search; 9 November 2026 is the publication date of the reports and is used as the incident date.
   - The hashish found in the refrigerator is given as 51 doses weighing about 47 grams, so the 173-gram total derived from 47 plus 126 grams is approximate.
@@ -75,22 +80,21 @@ open_questions:
 
 Carabinieri of the Bagheria company's radiomobile section arrested a married
 couple, a man of 66 and a woman of 61, in Bagheria in the province of Palermo.
-[@1] The two are accused together of possessing drugs for sale, and the arrest
+[@1,5] The two are accused together of possessing drugs for sale, and the arrest
 was made in flagrante, with the couple caught in the act. [@2] Officers were
 watching the flat because of an unusual stream of people stopping outside for a
-few minutes and leaving again. [@1] The patrol moved in after seeing a young man
+few minutes and leaving again. [@1,5] The patrol moved in after seeing a young man
 hurry away from the building, apparently just after a handover, and searched the
-home. [@2]
+home. [@2,5]
 
 In the refrigerator officers found 51 ready-made doses of hashish weighing about
-47 grams. [@2] In a kitchen cupboard they found another 126 grams of the same
+47 grams. [@2,5] In a kitchen cupboard they found another 126 grams of the same
 substance in four parcels, along with cellophane rolls and material for
-packaging it. [@1]
+packaging it. [@1,5]
 
 At the request of the prosecutor's office led by Angelo Vittorio Cavallo, the
 Termini Imerese judge for preliminary investigations validated the arrests and
-ordered both suspects to report regularly to the judicial police. [@2] La Voce
+ordered both suspects to report regularly to the judicial police. [@2,5] La Voce
 di Bagheria, a local newspaper, reported the same arrests and the same
 validation ruling as the other outlets. [@3] StrettoWeb reported the case under
 a Palermo headline and repeated that the judge validated the arrests. [@4]
-
