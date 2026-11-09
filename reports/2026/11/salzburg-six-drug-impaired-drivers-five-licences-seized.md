@@ -67,6 +67,11 @@ sources:
     publisher: KOSMO
     date: 2026-11-08
     language: de
+  - title: Polizei zog sechs Drogenlenker aus dem Verkehr
+    url: https://salzburg.orf.at/stories/3378696/
+    publisher: salzburg.ORF.at
+    date: 2026-11-09
+    language: de
 open_questions:
   - The police describe the controls as taking place on Saturday and Sunday, so 7 November 2026 is used as the incident date, with the series running into 8 November.
   - The account gives the total of six drivers stopped but does not say how many were affected by cannabis alone; the cannabis-related stops are those in the city of Salzburg where the test reacted to cannabis.
@@ -88,7 +93,7 @@ open_questions:
 
 Between Saturday 7 and Sunday 8 November 2026, Salzburg police stopped six
 drivers under the influence of drugs in the city of Salzburg, in Thalgau in
-Flachgau and in Leogang in Pinzgau. [@1,2,3,5,6] Officers seized the driving licences of
+Flachgau and in Leogang in Pinzgau. [@1,2,3,5,6,7] Officers seized the driving licences of
 five of the six drivers on the spot. [@1,4,6] A civil patrol at a routine check in
 the Aigner Straße in the city of Salzburg stopped a 20-year-old car driver on
 Saturday; his alcohol test was clear, but the drug test reacted to cannabis.
@@ -119,3 +124,5 @@ The Salzburger Nachrichten reports that all five drivers whose driving licences 
 The radio station 5 Minuten added that a 25-year-old driver in Thalgau tested positive for cocaine and lost his licence. [@4]
 
 All six men were reported and were not allowed to continue driving. [@5] The 24-year-old e-scooter rider was already known to the police. [@5]
+
+A 24-year-old Salzburger on an e-scooter said he used cannabis daily as a sleep aid, and his quick test reacted to cannabis and cocaine [@7] The 35-year-old Hungarian driver on the Hochkönig Straße in Leogang admitted taking crystal meth and lost his licence after the medical officer's finding [@7] A 20-year-old car driver in the city admitted he had smoked cannabis before driving, his test reacted to cannabis, and officers stopped him from continuing [@7] The 25-year-old in Thalgau tested positive for cocaine, refused the medical examination and had his licence taken on the spot [@7]
