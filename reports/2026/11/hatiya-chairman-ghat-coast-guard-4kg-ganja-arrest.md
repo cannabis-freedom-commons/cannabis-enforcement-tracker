@@ -80,6 +80,10 @@ sources:
     publisher: Times of Bangladesh (bangla.tob.news)
     date: 2026-11-09
     language: bn
+  - title: Coast Guard seized 4-kg hemp in Hatiya, one detained
+    url: https://dailycountrytodaybd.com/story/coast-guard-seized-4-kg-hemp-in-hatiya,-one-detained-
+    publisher: Daily Country Today
+    date: 2026-11-09
 open_questions:
   - Only NAGORIK TV's account, reproducing a Coast Guard press statement, could be opened; no separate outlet or Coast Guard page reporting this raid was found.
   - The report gives no weight or value estimate for the seized speedboat and does not say whether it was returned, held or handed to police.
@@ -99,21 +103,23 @@ open_questions:
 
 Coast Guard officers arrested a man they described as a drug trafficker and
 seized 4 kg of ganja from him in Noakhali's Hatiya upazila on Monday 9 November
-2026. [@1,2,5] A Coast Guard team from Hatiya station searched a suspicious
+2026. [@1,2,5,7] A Coast Guard team from Hatiya station searched a suspicious
 speedboat near Chairman Ghat in the upazila during the operation and made the
-arrest on board, acting on a tip-off. [@1,2,3,4,5] The Coast Guard also seized the
+arrest on board, acting on a tip-off. [@1,2,3,4,5,7] The Coast Guard also seized the
 speedboat, which it said was used to move the drugs. [@1]
 
-The Coast Guard valued the seized ganja at about 160,000 taka. [@1,2,3,5] Lieutenant
+The Coast Guard valued the seized ganja at about 160,000 taka. [@1,2,3,5,7] Lieutenant
 Commander Sabbir Alam Sujan, a Coast Guard media officer, confirmed the details
 in a press statement sent to the media on Monday. [@1,2,6]
 
 The Coast Guard said the arrested man, aged 30, is the son of Ali Mia of Chak
 Lakkhipur village in Ujirpur union, Chouddagram thana, Cumilla. [@1,2] The seized
 ganja and the arrested man were handed over to Hatiya police station for legal
-action. [@1,2,3,5] The Coast Guard said it would continue such operations to protect
+action. [@1,2,3,5,7] The Coast Guard said it would continue such operations to protect
 the country's young people and curb the spread of drugs. [@1,2,3]
 
 The Coast Guard team carried out the raid at about 1:30 pm on Monday 9 November 2026. [@3,5]
 
-The raid took place at about 1:30 pm on Monday 9 November 2026 in the area next to Chairman Ghat, under Hatiya police station. [@4]
+The raid took place at about 1:30 pm on Monday 9 November 2026 in the area next to Chairman Ghat, under Hatiya police station. [@4,7]
+
+The Coast Guard said it would continue such anti-narcotics operations to curb the spread of illicit drugs. [@7]
