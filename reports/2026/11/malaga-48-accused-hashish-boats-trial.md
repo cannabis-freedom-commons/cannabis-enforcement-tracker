@@ -70,6 +70,11 @@ sources:
     publisher: بركة نيوز
     date: 2026-11-09
     language: ar
+  - title: 'إسبانيا : محاكمة 48 شخصا ضمن شبكة إجرامية متخصصة في تهريب الحشيش القادم من المغرب'
+    url: https://www.dz54.dz/%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9-48-%D8%B4%D8%AE%D8%B5%D8%A7-%D8%B6%D9%85%D9%86-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A5%D8%AC%D8%B1%D8%A7%D9%85%D9%8A%D8%A9/
+    publisher: DZ54
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No hashish weight, value or number of seized packages is published for this case, so no cannabis kilogram figure is recorded.
   - The sources give no dates for the investigation, the arrests or the seizures, only the trial's scheduled start on 9 November 2026.
@@ -83,24 +88,26 @@ open_questions:
   - The APS article reproduces Europa Press reporting and adds commentary on Moroccan production and official policy that is context, not new evidence about this case.
   - Baraka News credits Europa Press and gives no figures for hashish weight, money or dates of investigation or arrests.
   - The page's thumbnail is captioned only with the headline and is not confirmed to show the case, so it is not listed as media.
+  - The DZ54 text credits Europa Press and reproduces that agency's dispatch, so it is not independent reporting of the case.
+  - The DZ54 page carries no publication time for the trial's start and describes it as pending, consistent with a report filed before the 9 November hearing opened.
 ---
 
 Málaga's provincial court, the Audiencia Provincial, was due to begin a trial on
 Monday 9 November 2026 against 48 people accused of belonging to a network that
-brought hashish into Spain from Morocco. [@1,4,5] The prosecution's case is that the
+brought hashish into Spain from Morocco. [@1,4,5,6] The prosecution's case is that the
 ring used four pleasure boats, some registered to straw men, five banned
 high-speed semi-rigid speedboats and cars with hidden compartments. [@1,5]
 Prosecutors say two men led the organisation, one of whom has been declared a
-fugitive in this case, with two middle-ranking members handling logistics. [@1]
+fugitive in this case, with two middle-ranking members handling logistics. [@1,6]
 Two of the accused were dedicated almost exclusively to fitting vehicles with
 hidden compartments, for which, the indictment says, they charged above-market
 prices. [@1] The prosecution says the organisation had large financial capacity
 and a specialised structure, and used encrypted phones to hinder police
-investigations. [@2]
+investigations. [@2,6]
 
 The Guardia Civil's organised crime and anti-drug unit, EDOA, in Málaga carried
 out the investigation. [@1] During the investigation the Guardia Civil seized
-drugs and money from vehicles equipped with those compartments. [@1] The
+drugs and money from vehicles equipped with those compartments. [@1,6] The
 indictment charges drug trafficking in quantities of notorious importance and
 extreme gravity because boats were used, continued smuggling and unlawful
 possession of weapons. [@1] The prosecution seeks between nine years in prison
@@ -112,4 +119,4 @@ days in December. [@1]
 The indictment's assertions are provisional conclusions that the court will
 examine during the trial. [@3]
 
-Members of the organisation handled logistics including supplying the boats and supplies and securing mooring sites. [@5]
+Members of the organisation handled logistics including supplying the boats and supplies and securing mooring sites. [@5,6]
