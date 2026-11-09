@@ -75,6 +75,11 @@ sources:
     publisher: Sangbad Sarabela
     date: 2026-11-09
     language: bn
+  - title: হাতিয়ায় কোস্ট গার্ডের অভিযানে ৪ কেজি গাঁজাসহ আটক ১
+    url: https://bangla.tob.news/%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A7%8B%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%97%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AD/
+    publisher: Times of Bangladesh (bangla.tob.news)
+    date: 2026-11-09
+    language: bn
 open_questions:
   - Only NAGORIK TV's account, reproducing a Coast Guard press statement, could be opened; no separate outlet or Coast Guard page reporting this raid was found.
   - The report gives no weight or value estimate for the seized speedboat and does not say whether it was returned, held or handed to police.
@@ -89,6 +94,7 @@ open_questions:
   - The Channel S page image is stored as a generic site template file and its alt text only repeats the headline, so no caption establishes that it shows the seized ganja or the speedboat and it is not listed as media.
   - The Sangbad Sarabela report reproduces the same Coast Guard media statement as the outlets already cited, so it is not independent corroboration.
   - The Sangbad Sarabela page image carries no caption and its alt text only repeats the headline, so no caption establishes that it shows the seized ganja or the speedboat; it is not listed as media.
+  - This Times of Bangladesh account reproduces the same Coast Guard press statement as the outlets already cited, so it is not independent corroboration.
 ---
 
 Coast Guard officers arrested a man they described as a drug trafficker and
@@ -100,7 +106,7 @@ speedboat, which it said was used to move the drugs. [@1]
 
 The Coast Guard valued the seized ganja at about 160,000 taka. [@1,2,3,5] Lieutenant
 Commander Sabbir Alam Sujan, a Coast Guard media officer, confirmed the details
-in a press statement sent to the media on Monday. [@1,2]
+in a press statement sent to the media on Monday. [@1,2,6]
 
 The Coast Guard said the arrested man, aged 30, is the son of Ali Mia of Chak
 Lakkhipur village in Ujirpur union, Chouddagram thana, Cumilla. [@1,2] The seized
