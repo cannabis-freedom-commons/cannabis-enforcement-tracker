@@ -63,6 +63,10 @@ sources:
     publisher: Virgule
     date: 2025-12-01
     language: fr
+  - title: Customs uncover 600kg cannabis shipment at Findel
+    url: https://today.rtl.lu/news/luxembourg/customs-uncover-600kg-cannabis-shipment-at-findel-2141203482
+    publisher: RTL Today
+    date: 2025-12-01
 open_questions:
   - Only one source for this event could be opened and no second accessible account was found.
   - The weight is approximate at about 600 kg from 903 bags of 600 to 700 grams each, with no exact laboratory weight published.
@@ -74,10 +78,13 @@ open_questions:
   - The page carries one image captioned about the cotton-duvet consignment with no credit, which does not by itself establish that it shows this seizure, so no media entry is added.
   - This account dates the discovery to 7 August, while the existing report dates the seizure to 4 August 2025 and the controlled delivery to the Netherlands to 7 August 2025.
   - The Virgule caption credits the picture to the judicial administration without describing what it shows, so it may be a handout photo of the consignment rather than a view of the seized bags.
+  - The report dates the discovery only as Friday 4 August without a year; 2025 is inferred from the 1 December 2025 publication, the controlled delivery on 7 August and the 17 November hearing it reports.
+  - The Belgian authorities' specific role beyond being involved in the procedures is not explained.
+  - The page's lead image is credited only to the Luxembourg Customs and Excise Administration with no caption identifying what it shows, so no new media entry is added.
 ---
 
 Luxembourg customs officers made a major marijuana seizure at the cargo centre
-of Luxembourg-Findel Airport on 4 August 2025. [@1,2,3] A routine inspection flagged
+of Luxembourg-Findel Airport on 4 August 2025. [@1,2,3,5] A routine inspection flagged
 freight documents for a three-pallet cargo from a United States cargo plane as
 inconsistent. [@1,2,4] The documents declared the consignment as cotton duvets for a
 Dutch company. [@1,2,3,4] Suspicious officers scanned the consignment and found its
@@ -94,7 +101,9 @@ because the load was not for the domestic market a joint operation with Eurojust
 and the Belgian and Dutch authorities was organised. [@1,2] On 7 August 2025 the
 pallets were delivered under surveillance to the planned address in the
 Netherlands. [@1,4] The person tasked with collecting the drugs was arrested
-red-handed by Dutch police and detained. [@1,2,3,4] Dutch authorities took over
+red-handed by Dutch police and detained. [@1,2,3,4,5] Dutch authorities took over
 prosecution, the investigation continues and a first hearing was held on 17
 November 2025 before a Dutch criminal court. [@1,2,4] The case was only made public
 on 1 December to avoid compromising foreign investigations. [@1,2,4]
+
+The Belgian and Dutch authorities were involved in the procedures because the illicit goods were not destined for Luxembourg. [@5]
