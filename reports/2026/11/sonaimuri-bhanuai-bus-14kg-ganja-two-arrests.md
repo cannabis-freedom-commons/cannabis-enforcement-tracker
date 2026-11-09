@@ -52,6 +52,11 @@ sources:
     publisher: Noakhali Media
     date: 2026-11-09
     language: bn
+  - title: যাত্রীবাহী বাসে মিলল ১৪ কেজি গাঁজা, গ্রেপ্তার ২
+    url: https://talashbd.com/news/1215690841787404
+    publisher: Talash BD
+    date: 2026-11-09
+    language: bn
 open_questions:
   - Both accounts trace to the same Department of Narcotics Control district office, so they are not fully independent.
   - No court hearing, custody decision or plea was reported; the case was at the charge-filing stage.
@@ -60,17 +65,19 @@ open_questions:
   - Noakhali Media gives the bus registration number and a raid window of about 7:30 pm to 8:30 pm beside a madrasa; the submitted report gives neither.
   - 'No captioned photograph of the seizure could be confirmed: the submitted page carries only a headline-captioned graphic and the Noakhali Media image has no caption, so no media entry is listed.'
   - Channel 24 published a headline about two arrests in a bus operation in Noakhali, but its page returned only the headline and was not used.
+  - Talash BD, like the two accounts already cited, traces its story to the Department of Narcotics Control's Noakhali district office, so it is not independent reporting of the operation.
+  - Talash BD gives no value estimate for the 14 kilograms and reports no court hearing, custody decision or plea.
 ---
 
 Officers of the Department of Narcotics Control and SRB-11 searched a Sagarika
 passenger bus bound from Sylhet to Noakhali at Bhanuai, in Noakhali's Sonaimuri
-upazila, on the evening of 8 November 2026. [@1] The arrested were Alamgir
+upazila, on the evening of 8 November 2026. [@1,3] The arrested were Alamgir
 Hossain, 35, son of Md Dulal, and Md Jibon, 22, son of Harun, both of ward 7 of
 Bajra union in Sonaimuri upazila. [@2]
 
 Officers seized 14 kilograms of ganja from inside the bus and arrested the two
-men. [@1] The Department of Narcotics Control said the two had brought the ganja
-from Brahmanbaria. [@1] The operation followed a tip-off and was carried out by
+men. [@1,3] The Department of Narcotics Control said the two had brought the ganja
+from Brahmanbaria. [@1,3] The operation followed a tip-off and was carried out by
 the narcotics department's Noakhali district office together with SRB-11, the
 Special Response Battalion. [@1]
 
@@ -81,3 +88,4 @@ narcotics department sub-inspector filing the case at Sonaimuri police station.
 Noakhali district office, said a case had been filed against both men under the
 Narcotics Control Act. [@1]
 
+Officers also seized a button mobile phone used to carry the drug, the report said. [@3]
