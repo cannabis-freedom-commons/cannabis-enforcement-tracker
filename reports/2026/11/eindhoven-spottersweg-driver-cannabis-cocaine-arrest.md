@@ -51,6 +51,11 @@ sources:
     publisher: Eindhovens Dagblad
     date: 2026-11-09
     language: nl
+  - title: Bestuurder onder invloed van cannabis en cocaïne aangehouden in Eindhoven
+    url: https://drimble.nl/regio/noord-brabant/helmond/108544018/bestuurder-onder-invloed-van-cannabis-en-cocaine-aangehouden-in-eindhoven.html
+    publisher: Drimble
+    date: 2026-11-09
+    language: nl
 open_questions:
   - The driver's age, sex and identity were not published; the article uses only 'die' and 'de bestuurder'.
   - No quantity of cannabis or cocaine was reported; nothing was said to be seized except the car, and the cannabis finding rests on the odour and the results of a drug test.
@@ -59,10 +64,11 @@ open_questions:
   - The cocaine finding is outside the tracker's scope and only explains the same stop; no separate drug quantity is recorded.
   - Only one accessible article was found, syndicated by DPG Media to AD; a Drimble page is a stub linking back to the same AD text.
   - The article gives no exact address for the spottersplaats beyond the Spottersweg near Eindhoven Airport, so the coordinates are those of the nearby airport area.
+  - The Drimble page is a headline-only aggregator entry that links to the same AD article the existing report cites, so it adds no independent reporting.
 ---
 
 Police arrested a driver in Eindhoven on Sunday evening after a check showed the
-person had been driving under the influence of cannabis and cocaine. [@1]
+person had been driving under the influence of cannabis and cocaine. [@1,2]
 Officers decided to check the vehicle after they smelled a strong smell of
 cannabis (wietgeur). [@1]
 
@@ -77,4 +83,3 @@ the public road. [@1]
 The driver was arrested and the car was seized. [@1] An official report
 (proces-verbaal) is being drawn up for driving under the influence. [@1] The
 car's owner has been given two weeks to register the vehicle correctly. [@1]
-
