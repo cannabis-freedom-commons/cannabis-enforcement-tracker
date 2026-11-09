@@ -68,6 +68,10 @@ sources:
     publisher: Radio Las Nieves
     date: 2026-11-02
     language: es
+  - title: Evasión de control vehicular en Cochrane destapa acopio de un kilo y medio de marihuana y deja cuatro detenidos
+    url: https://www.msn.com/es-cl/noticias/other/evasi%C3%B3n-de-control-vehicular-en-cochrane-destapa-acopio-de-un-kilo-y-medio-de-marihuana-y-deja-cuatro-detenidos/ar-AA2gEV0W
+    publisher: 24horas.cl
+    language: es
 open_questions:
   - The article is dated 1 November 2026 and describes the operation as taking place on Saturday morning, so 31 October 2026 is used as the incident date.
   - The article does not state how much of the about 1.5 kg was found in the vehicle and how much was found in the house.
@@ -84,6 +88,7 @@ open_questions:
   - The new source gives a gross weight of one kilo 440 grams while the existing report rounds to about 1.5 kg, leaving no material discrepancy but no separate vehicle-versus-house split.
   - The page carries a lead image with no caption or credit establishing that it shows this seizure, so no media entry is added.
   - The Radio Las Nieves page carries a lead image captioned only with a file name, which does not establish that it shows this seizure, so no media entry is added.
+  - The opened page gives only relative age (5 days) with no readable publication date, so no source date is recorded.
 media:
   - kind: photo
     url: https://www.diarioregionalaysen.cl/noticia/actualidad/2026/11/operativo-permitio-concretar-historico-decomiso-de-cannabis-en-cochrane
@@ -94,16 +99,16 @@ media:
 
 Officers from the 4th Carabineros station in Cochrane acted on a Saturday
 morning after the driver of a car tried to evade a police check at about 08:50.
-[@1,3,4,5,6,7] After intercepting the vehicle, officers searched it and found four bags of
-plant material that field testing showed was cannabis sativa. [@1,2,3,4,5,7] With prior
+[@1,3,4,5,6,7,8] After intercepting the vehicle, officers searched it and found four bags of
+plant material that field testing showed was cannabis sativa. [@1,2,3,4,5,7,8] With prior
 authorization from the Guarantee Court, Carabineros entered and searched the
 driver's home, where further evidence linked to drug cultivation was found. [@1,6,7]
 In the home officers detained an adult woman, an adult man and a 17-year-old,
-seizing about one and a half kilos of cannabis sativa from inside. [@1,2,3,4,5,7] The
+seizing about one and a half kilos of cannabis sativa from inside. [@1,2,3,4,5,7,8] The
 driver of the vehicle that was first checked was sent to detention control
-before the competent court. [@1,2,4,7] On the duty prosecutor's instructions, the
+before the competent court. [@1,2,4,7,8] On the duty prosecutor's instructions, the
 three people found in the house were given a formal warning under Article 26 of
-the Criminal Procedure Code to await a summons from the Public Ministry. [@1,2,4,7]
+the Criminal Procedure Code to await a summons from the Public Ministry. [@1,2,4,7,8]
 
 The operation in the commune of Cochrane in Capitán Prat Province ended with the
 seizure of nearly one and a half kilos of marijuana and the search of a home.
