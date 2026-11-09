@@ -30,6 +30,10 @@ sources:
     url: https://www.41nbc.com/operation-snow-hill-perry-police-drug-arrests/
     publisher: 41NBC/WMGT
     date: 2026-11-07
+  - title: Operation Snow Hill sweep nets 12 arrests in Houston and Peach county drug probe
+    url: https://wgxa.tv/news/local/operation-snow-hill-sweep-nets-12-arrests-in-houston-and-peach-county-drug-probe-13-locations-commercial-residential-locations-perry-warner-robins-centerville-fort-valley-cocaine-marijuana-ga-rico-act-deltravious-shavad-hill-shane-giovani-brown-craigor
+    publisher: WGXA
+    date: 2026-11-09
 open_questions:
   - No cannabis quantity, plant count, weight or value was published for this operation, so no kilograms, plants or hectares can be recorded.
   - The release describes the network as distributing cocaine and marijuana, but no cocaine, firearm or cash quantities were published either.
@@ -41,20 +45,23 @@ open_questions:
   - Only a generic magnifying-glass stock photo appeared on the opened 41NBC page, and the WMAZ/MSN page showed no captioned photo of the operation, so no media entries are included.
   - The primary WMAZ article on 13wmaz.com returned a 403 error, so its text was read from the MSN syndicated copy, and the Perry police Facebook statement could not be opened.
   - WMAZ's text calls the charge a violation of Georgia's RICO Act and 41NBC calls it counts under the Georgia RICO Act; the report uses RICO Act for both.
+  - WGXA describes the sweep as taking place on Friday and dates the story 9 November 2026; no other outlet's article text was opened here to pin the day further, and the existing report uses 6 November.
+  - WGXA names only four men at the head of the investigation and gives no cannabis weight, plant count, cash or cocaine quantity, so no figures are added.
+  - The Friday wording could describe 6 November 2026; the exact date rests on the earlier report's WMAZ/MSN account.
 ---
 
 Perry police arrested 12 people on 6 November 2026 in an operation against an
 alleged cocaine and marijuana distribution network across Houston and Peach
-counties in central Georgia. [@1] The department called the operation Operation
+counties in central Georgia. [@1,3] The department called the operation Operation
 Snow Hill and said it ran it with the Houston County District Attorney's Office
 and several local, county and federal agencies. [@1] Investigators said the
-network worked mainly in Perry, Warner Robins, Centerville and Fort Valley. [@1]
+network worked mainly in Perry, Warner Robins, Centerville and Fort Valley. [@1,3]
 The operation followed a three-month inquiry by the Perry police criminal
 investigations division into trafficking involving four of the men arrested.
 [@2]
 
 Officers served search and arrest warrants at 10 homes and three businesses on 6
-November. [@1] All 12 people arrested face charges; 41NBC reported they were
+November. [@1,3] All 12 people arrested face charges; 41NBC reported they were
 booked into the Houston County or Peach County detention centres. [@2] Four face
 three counts each under Georgia's RICO Act: Deltravious Shavad Hill, Shawnterrio
 Jacinda Green, Trey Taylor and Darrell Antwan Lynn. [@2] Craigory Allen Jolly is
@@ -69,12 +76,11 @@ also faces six counts of possession of a firearm by a convicted felon and two
 counts of possession of a stolen firearm. [@1]
 
 Police agencies joining the operation included the FBI, the Warner Robins Police
-Department and the sheriff's offices of Houston, Peach and Monroe counties. [@2]
+Department and the sheriff's offices of Houston, Peach and Monroe counties. [@2,3]
 The U.S. Marshals Southeast Regional Fugitive Task Force and a Tri-County
 Special Response Team also assisted. [@2] Perry Police Chief Alan Everidge said
 drug trafficking organisations do not respect city limits and neither will the
-investigations. [@2] Police said more arrests and charges are expected as
-investigators review evidence gathered in the operation. [@2] Police credited
+investigations. [@2,3] Police said more arrests and charges are expected as
+investigators review evidence gathered in the operation. [@2,3] Police credited
 Houston County District Attorney Eric Edwards with funding equipment that
 expanded the department's use of unmanned aircraft during the inquiry. [@2]
-
