@@ -71,6 +71,11 @@ sources:
     publisher: Diario ABC
     date: 2026-11-09
     language: es
+  - title: Detenido por ocultar 1.003 plantas de marihuana en Olías
+    url: https://www.latribunadetoledo.es/noticia/z3942637d-054b-447f-9be7993868656ede/202611/detenido-por-ocultar-1-003-plantas-de-marihuana-en-olias
+    publisher: La Tribuna de Toledo
+    date: 2026-11-09
+    language: es
 open_questions:
   - 'The reports give only the months of the police steps: the investigation began in August 2026, the warehouse search took place in September and the arrest in October; 15 September is used only to place the search mid-month.'
   - No exact day for the search, the arrest or the investigation start was published.
@@ -82,20 +87,22 @@ open_questions:
 
 Spain's National Police dismantled a cannabis plantation in the industrial
 estate of Olías del Rey, Toledo province, and arrested the man accused of
-running it in the nearby town of Illescas. [@1,4] He was held on suspicion of drug
-trafficking and of defrauding the electricity supply. [@1,4] The National Police
+running it in the nearby town of Illescas. [@1,4,5] He was held on suspicion of drug
+trafficking and of defrauding the electricity supply. [@1,4,5] The National Police
 said the arrest took place in Illescas. [@2]
 
 Officers began the investigation in August after information pointed to a
-cannabis crop somewhere in the industrial estate of Olías del Rey. [@1] They
-searched the warehouse in September and seized 1,003 cannabis plants. [@1,3,4] About
+cannabis crop somewhere in the industrial estate of Olías del Rey. [@1,5] They
+searched the warehouse in September and seized 1,003 cannabis plants. [@1,3,4,5] About
 100 grams of cannabis buds were also taken out of the illegal market. [@1]
 Nobody was inside the unit during the search, and the investigation continued
-until the suspect was identified. [@1]
+until the suspect was identified. [@1,5]
 
 Those running the crop had built a sealed, climate-controlled partition of
-plasterboard inside the industrial building to optimise plant growth. [@1]
+plasterboard inside the industrial building to optimise plant growth. [@1,5]
 Police also found an illegal hook-up to the public power grid, used to avoid the
-cost of the large amount of electricity the plantation demanded. [@1,3]
+cost of the large amount of electricity the plantation demanded. [@1,3,5]
 
 ABC reports that officers found nearly 100 kilograms of cannabis buds already prepared for distribution in the illicit market. [@4] Nobody connected with the crop was inside the industrial unit when officers searched it, and the investigation stayed open to identify those responsible. [@4]
+
+The suspect was identified and arrested in Illescas in October, the police month given for that step. [@5]
