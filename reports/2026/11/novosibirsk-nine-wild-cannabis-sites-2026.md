@@ -45,6 +45,11 @@ sources:
     publisher: Gorsite.ru
     date: 2026-11-08
     language: ru
+  - title: В Новосибирской области на сельхозземлях выявили девять очагов с коноплей
+    url: https://iskitim-gazeta.ru/v-novosibirskoj-oblasti-na-selhozzemljah-vyjavili-devjat-ochagov-s-konoplej/
+    publisher: Искитимская газета
+    date: 2026-11-09
+    language: ru
 open_questions:
   - The incident date uses the agency publication date of 5 November 2026; the finds occurred throughout 2026, with one inspection in September, and exact dates for the other sites were not given.
   - The sources order destruction and notify the Interior Ministry but do not confirm that the 2,699 square metres were destroyed, so the recorded area is the area found.
@@ -62,20 +67,20 @@ open_questions:
 
 In 2026, specialists of the Siberian interregional directorate of
 Rosselkhoznadzor found nine wild cannabis sites on farmland in Novosibirsk
-Oblast. [@2,3,4] The sites lay in the Barabinsky, Iskitimsky, Kolyvansky,
-Novosibirsky and Ordynsky districts. [@2,3,4] Together they covered 2,699 square
-metres. [@2,4]
+Oblast. [@2,3,4,5] The sites lay in the Barabinsky, Iskitimsky, Kolyvansky,
+Novosibirsky and Ordynsky districts. [@2,3,4,5] Together they covered 2,699 square
+metres. [@2,4,5]
 
 The plants grew both as separate patches and among other weeds on the farmland.
 [@2,3,4] One of the largest finds came in September 2026 in the Iskitimsky district
 after residents complained about farmland overgrown with weeds including wild
 cannabis. [@2,3] An inspector found weed cannabis (Cannabis ruderalis) growing on
-three adjacent plots there. [@2,4] The cannabis on those plots covered at least
-1,615 square metres. [@2,4] The result was recorded with the Inspector mobile app.
+three adjacent plots there. [@2,4,5] The cannabis on those plots covered at least
+1,615 square metres. [@2,4,5] The result was recorded with the Inspector mobile app.
 [@2]
 
 Landholders were warned to eliminate the wild cannabis and bring the land back
-into agricultural use. [@2,3,4] Information on the finds was sent to the Interior
-Ministry for action within its remit. [@2,3,4] The watchdog reminded owners that
+into agricultural use. [@2,3,4,5] Information on the finds was sent to the Interior
+Ministry for action within its remit. [@2,3,4,5] The watchdog reminded owners that
 overgrowth threatens fertility and that weed and drug-containing vegetation must
 be found and destroyed in time. [@1]
