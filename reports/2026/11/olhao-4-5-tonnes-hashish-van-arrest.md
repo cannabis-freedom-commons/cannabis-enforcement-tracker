@@ -51,6 +51,11 @@ media:
     media_url: https://cdn.cmjornal.pt/images/2026-10/img_932x621uu2026-10-31-11-04-06-2318427.jpg
     publisher: Correio da Manhã
     caption: 'Video frame published with the report on the Olhão seizure, captioned Polícia Judiciária. Photo: Frame CMTV'
+  - kind: photo
+    url: https://www.jn.pt/justica/artigo/homem-guardava-45-toneladas-de-haxixe-numa-carrinha-furtada-em-olhao/18146255
+    media_url: https://staticx.noticiasilimitadas.pt/jn/image.webp?brand=jn&type=generate&guid=1b99ca44-3525-41d2-aa9e-31cbf2d03270&w=1080
+    publisher: Jornal de Notícias
+    caption: 'Hashish bales seized by Judicial Police inspectors, captioned as about a hundred bales. Photo: Carlos Carneiro'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4a062e6b0242fb2c620ef79d52b50918
@@ -90,6 +95,11 @@ sources:
     publisher: Correio da Manhã
     date: 2026-11-09
     language: pt
+  - title: Homem guardava 4,5 toneladas de haxixe numa carrinha furtada em Olhão
+    url: https://www.jn.pt/justica/artigo/homem-guardava-45-toneladas-de-haxixe-numa-carrinha-furtada-em-olhao/18146255
+    publisher: Jornal de Notícias
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No date is given for the operation or the arrest; 9 November 2026 is the publication date of the accounts and stands in for the incident date.
   - The weight is given as approximately 4.5 tonnes and the bale count as about 100, not exact measured figures.
@@ -108,24 +118,26 @@ open_questions:
   - The RTP page's lead image carries no caption or credit and is not confirmed to show the seizure, so no media entry is added.
   - The Correio da Manhã account, credited to Lusa, says a Judicial Police source placed the operation on Saturday, but gives no exact calendar date for it.
   - The Correio da Manhã picture is captioned only 'Polícia Judiciária' and credited to a CMTV video frame; the caption does not say what it shows.
+  - Jornal de Notícias reproduces the Judicial Police statement, so it does not independently corroborate the police version.
+  - The Jornal de Notícias photo is credited to its photographer rather than to the Judicial Police, and it is not stated where or when it was taken, though its caption ties it to this seizure.
 ---
 
 Judicial police in Olhão arrested a 38-year-old man on suspicion of drug
-trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5,6,7]
-The bales weighed about 4.5 tonnes in total. [@1,4,5]
+trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5,6,7,8]
+The bales weighed about 4.5 tonnes in total. [@1,4,5,8]
 
 The van was hidden on a rural property and investigators believe the hashish was
-brought ashore by sea through the channels of the Ria Formosa. [@1,4,7] Detectives
+brought ashore by sea through the channels of the Ria Formosa. [@1,4,7,8] Detectives
 identified the load inside the stolen goods vehicle while investigating the
 activity of a criminal group, which police say had the guarding of the drug in
-hand. [@3] Notícias ao Minuto described the stolen goods van as holding the
+hand. [@3,8] Notícias ao Minuto described the stolen goods van as holding the
 illicit load. [@2]
 
 The suspect, who police say has previous records, was to appear before a judge
-for a first judicial hearing that would decide any preventive measures. [@1,4] The
+for a first judicial hearing that would decide any preventive measures. [@1,4,8] The
 investigation continues in order to establish the full extent of the criminal
 activity, and the inquiry is directed by the Public Prosecutor's Office (DIAP)
-in Faro. [@3,4,7] The seizure adds to a series of major hashish trafficking cases
+in Faro. [@3,4,7,8] The seizure adds to a series of major hashish trafficking cases
 along the Algarve coast, where waterways are regularly used by organised groups
 bringing drugs ashore from North Africa. [@1]
 
