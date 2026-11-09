@@ -50,6 +50,11 @@ sources:
     url: https://pragativadi.com/two-women-nabbed-with-25kg-ganja-at-rayagada-bus-stand/
     publisher: Pragativadi
     date: 2026-11-09
+  - title: ओडिशा में गांजा तस्करी का खुलासा, बस स्टैंड से 25 किलो गांजा जब्त, दो महिलाएं गिरफ्तार
+    url: https://jantaserishta.com/local/odisha/ganja-smuggling-exposed-in-odisha-25-kg-ganja-seized-from-bus-stand-two-women-arrested-4920938
+    publisher: Janta Se Rishta
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The report gives no separate date for the interception or the arrest; 9 November 2026 is the article's publication date and is used as the incident date.
   - The weight is stated as about 25 kg, not an exact measured figure.
@@ -60,6 +65,7 @@ open_questions:
   - The weight is stated as about 25 kg, not an exact measured figure, and no specific market-value sum is given beyond several lakh rupees.
   - The article gives no separate date for the interception; 9 November 2026 is its publication date and is used as the incident date.
   - The submitted page carries a photo captioned 'Ganja seizure in Rayagada', but its image file name refers to an unrelated Bhubaneswar theft case, so it is not established to show this seizure and no media entry is added.
+  - The Hindi account gives no specific market-value sum for the seized ganja, saying only that it is worth several lakh rupees.
 media:
   - kind: photo
     url: https://www.orissapost.com/25-kg-ganja-seized-at-rayagada-bus-stand-two-women-arrested/
@@ -69,12 +75,12 @@ media:
 ---
 
 Muniguda police in Rayagada district, Odisha, arrested two women at the Muniguda
-bus stand and seized about 25 kg of ganja from them. [@1,2,3] Police said they acted
-on a tip-off, kept watch at the bus stand and intercepted the two women. [@1,2,3]
+bus stand and seized about 25 kg of ganja from them. [@1,2,3,4] Police said they acted
+on a tip-off, kept watch at the bus stand and intercepted the two women. [@1,2,3,4]
 
 The ganja was recovered from the women's possession, and police put its market
-value at over several lakh rupees. [@1,3] Both women were arrested and forwarded
-to court in connection with the case. [@1]
+value at over several lakh rupees. [@1,3,4] Both women were arrested and forwarded
+to court in connection with the case. [@1,4]
 
 Police said they had begun an investigation to establish where the ganja was
 being taken, and that the destination and other people in the smuggling network
