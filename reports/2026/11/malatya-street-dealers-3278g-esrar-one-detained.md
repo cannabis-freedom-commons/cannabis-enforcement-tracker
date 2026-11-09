@@ -68,6 +68,11 @@ sources:
     publisher: Bitlis Haber
     date: 2026-11-09
     language: tr
+  - title: 'Malatya’da takibin ardından sokak satıcısına operasyon: 3 kilo 278 gram esrar ele geçirildi'
+    url: https://www.aksiyon.com.tr/malatya-da-takibin-ardindan-sokak-saticisina-operasyon-3-kilo-278-gram-esrar-ele-gecirildi-391571
+    publisher: Aksiyon
+    date: 2026-11-09
+    language: tr
 open_questions:
   - Only one account of this operation was found; it is an agency dispatch published by Malatya Haber and was not corroborated by a second opened source.
   - No neighbourhood, address or specific street within Malatya was named for the operation.
@@ -83,6 +88,8 @@ open_questions:
   - No neighbourhood within Malatya, weight breakdown, value, charge or court date is given.
   - The page's two images are captioned only with the headline and carry no credit, so neither is confirmed to show this seizure and no media entry was added.
   - Bitlis Haber and İhlas Haber Ajansı give no separate date for the raid; 9 November 2026 is the publication date, and 8 November 2026 remains the incident date from the account the report already cites.
+  - Aksiyon gives no separate date for the operation; 9 November 2026 is its publication date, and the existing report's 8 November 2026 date comes from an earlier account.
+  - Aksiyon states no neighbourhood or street within Malatya for the address that was searched, and no charge or court date for the suspect.
 ---
 
 Malatya provincial police directorate teams detained one suspect in an operation
@@ -95,6 +102,8 @@ drug trafficking and block the activity of street sellers across the city. [@1]
 The police said operations against drug trafficking and street sellers across
 Malatya province would continue. [@1]
 
-Searches of the suspect's person and his address produced the 3 kg 278 g of esrar. [@2,3,4,6] The operation was carried out by teams of the provincial police directorate's narcotics branch, after physical and technical surveillance of street sellers. [@2,4]
+Searches of the suspect's person and his address produced the 3 kg 278 g of esrar. [@2,3,4,6,7] The operation was carried out by teams of the provincial police directorate's narcotics branch, after physical and technical surveillance of street sellers. [@2,4]
 
 The operation was carried out by teams of the Malatya provincial police directorate's anti-narcotics branch, the Narkotik Suçlarla Mücadele Şube Müdürlüğü. [@5]
+
+The suspect's processing at the police station was continuing and an investigation into the case is under way. [@7]
