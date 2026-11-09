@@ -49,6 +49,11 @@ sources:
     publisher: FrosinoneToday
     date: 2026-11-09
     language: it
+  - title: 'Cassino, 70 grammi di hashish e munizioni da guerra in camera: arrestato 21enne'
+    url: https://www.tunews24.it/2026/11/09/cassino-70-grammi-di-hashish-e-munizioni-da-guerra-in-camera-arrestato-21enne/
+    publisher: Tu News 24
+    date: 2026-11-09
+    language: it
 open_questions:
   - Only one accessible account of this arrest was found; no police statement or second outlet reporting it could be opened.
   - The 70 grams is stated as approximate net weight of three hashish wrappers, with no laboratory confirmation reported.
@@ -57,12 +62,14 @@ open_questions:
   - The man's name, exact residence and any plea were not published; the case remains at the preliminary investigation stage with no trial outcome reported.
   - No value estimate for the hashish was published; the 380 euros is described as money possibly derived from drug sales.
   - The page's only image, named cassino-polizia-commissariato-auto-2.jpg with an empty caption and alt text, appears to stock a police car rather than this search, so it is not listed as media.
+  - Tu News 24 gives the man's age and nationality and the court measure but does not name the municipality in Caserta province where he must reside.
+  - Tu News 24 does not say whether the 70 grams included the two ready-made joints.
 ---
 
 Officers of the flying squad of the Cassino police station arrested a
 21-year-old Brazilian national in the Colosseo district of Cassino on 5 November
 2026, accusing him of possessing drugs for sale and of illegally possessing war
-ammunition. [@1] The operation began around 10:15 in the morning, when officers
+ammunition. [@1,2] The operation began around 10:15 in the morning, when officers
 on drug-prevention patrol noticed an unusual coming and going of people known to
 them as drug users near an apartment block. [@1] Police spotted the young man,
 already known for earlier drug offences, at a third-floor window and searched
@@ -70,18 +77,17 @@ the bedroom that was at his exclusive disposal. [@1]
 
 In the room officers found three wrappers of hashish weighing about 70 grams
 net, two ready-made joints, a precision scale and a roll of aluminium foil that
-they considered suitable for packaging doses. [@1] Officers also seized 380
+they considered suitable for packaging doses. [@1,2] Officers also seized 380
 euros in cash, in banknotes of different denominations, which investigators
-considered possible proceeds of the illegal activity. [@1] In the same room
+considered possible proceeds of the illegal activity. [@1,2] In the same room
 police found one unexploded 7.62-calibre cartridge and a 30-06 case, which they
-described as war ammunition. [@1]
+described as war ammunition. [@1,2]
 
 Checks showed that the man was subject to an order barring him from returning to
 Cassino, issued by the Frosinone police chief on 29 May 2026 and valid for one
 year, and that he had returned to the town several times. [@1] The judge for
 preliminary investigations at the court of Cassino confirmed the arrest at the
 request of the prosecutor and ordered the man to reside in his home municipality
-in the province of Caserta, with a curfew between 22:00 and 07:00. [@1] The case
+in the province of Caserta, with a curfew between 22:00 and 07:00. [@1,2] The case
 is at the preliminary investigation stage, and the suspect is presumed innocent
 until a final conviction. [@1]
-
