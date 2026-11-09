@@ -85,6 +85,8 @@ open_questions:
   - The Manchester Evening News gives 4 November 2026 as the day of the search; the article does not say when the police photos were released.
   - The property is described only as a property or address on Stonesteads Way; no weight, street value, setup or growing environment for the farm was reported.
   - No court step beyond release on bail pending further enquiries has been reported.
+  - The article does not say whether the property was a house, flat or other building, nor how the grow was set up.
+  - No weight, street value or growing environment for the plants was reported.
 ---
 
 A 69-year-old woman was arrested on suspicion of producing cannabis and
