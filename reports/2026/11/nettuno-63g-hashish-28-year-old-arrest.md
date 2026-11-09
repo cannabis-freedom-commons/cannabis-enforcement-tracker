@@ -51,6 +51,11 @@ sources:
     publisher: Canale Dieci
     date: 2026-11-09
     language: it
+  - title: NETTUNO | Fermato in auto con 60 grammi di hashish, arrestato un 28enne
+    url: https://www.mondoreale.it/2026/11/nettuno-fermato-in-auto-con-60-grammi-di-hashish-arrestato-un-28enne/
+    publisher: Mondoreale
+    date: 2026-11-09
+    language: it
 open_questions:
   - The article was published on 9 November 2026 and says the stop happened the previous morning, so 8 November 2026 is used as the incident date.
   - The 60 grams in the car is described as approximate, so the 63-gram total combining it with the 3 grams at home is approximate.
@@ -58,24 +63,25 @@ open_questions:
   - No charge wording beyond serious suspicion of possession for sale, and no validation hearing or court outcome, was reported.
   - Only one accessible source for this event was found after searching in Italian.
   - The page photo caption identifies it only as the seized drugs, with no credit or confirmation that it is an official handout.
+  - The Mondoreale article gives no separate date for the stop, saying only it happened 'nei giorni scorsi' (in recent days), so the existing report's approximate incident date is retained.
+  - The page's only image is a generic illustration stored in a 2021 upload folder, so no media entry is added.
 ---
 
 Carabinieri stopped a vehicle in via Padre Liberati in Nettuno during a targeted
-check. [@1] The driver was a 28-year-old of Romanian origin living in Lariano
-who was already known to police for specific offences. [@1] Investigators
-consider him seriously suspected of possession of drugs for sale. [@1] He was
+check. [@1,2] The driver was a 28-year-old of Romanian origin living in Lariano
+who was already known to police for specific offences. [@1,2] Investigators
+consider him seriously suspected of possession of drugs for sale. [@1,2] He was
 taken to the Velletri prison and remains at the disposal of the judicial
-authority. [@1]
+authority. [@1,2]
 
 Hidden in the car, officers found a block of hashish alongside several
-ready-portioned wraps, weighing about 60 grams in total. [@1] Officers also
-found cash in the car considered proceeds of dealing. [@1] A search of his home
+ready-portioned wraps, weighing about 60 grams in total. [@1,2] Officers also
+found cash in the car considered proceeds of dealing. [@1,2] A search of his home
 found another 3 grams of hashish, a precision electronic scale and packaging
-material, with scissors still bearing visible hashish residue. [@1]
+material, with scissors still bearing visible hashish residue. [@1,2]
 
 The stop was carried out by the Radiomobile unit of the N.O.R. during a targeted
-check. [@1] Officers ordered the driver to stop after his behaviour aroused
+check. [@1,2] Officers ordered the driver to stop after his behaviour aroused
 suspicion and searched first the driver and then the car interior. [@1] The
 arrest came amid intensive checks by the Anzio company on the Roman coast using
 roadblocks, searches and monitoring of sensitive points. [@1]
-
