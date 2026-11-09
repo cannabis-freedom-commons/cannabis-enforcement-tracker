@@ -58,6 +58,16 @@ sources:
     publisher: Malatya Haber
     date: 2026-11-09
     language: tr
+  - title: Diyarbakır'da jandarma operasyonlarında 3 bin 239 kilogram esrar ele geçirildi
+    url: https://www.sondakika.com/guncel/haber-diyarbakir-da-jandarma-operasyonlarinda-3-bin-239--20410900/
+    publisher: Son Dakika
+    date: 2026-11-09
+    language: tr
+  - title: Diyarbakır'da uyuşturucu operasyonlarında 16 şüpheli gözaltına alındı
+    url: https://www.iha.com.tr/diyarbakir-haberleri/diyarbakirda-uyusturucu-operasyonlarinda-16-supheli-gozaltina-alindi-513509965
+    publisher: İhlas Haber Ajansı
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The reports give only the publication date of 9 November 2026 and no separate date for the operations; DHA says they took place over the previous week.
   - The İlke account says only that legal action was taken against 16 suspects, while DHA and Habertürk say the 16 were detained.
@@ -67,18 +77,23 @@ open_questions:
   - The lead image on the İlke page is captioned only with the headline and is not confirmed to show this seizure, so no media entry is added.
   - The Hürriyet and Habertürk texts are agency copies of the same statements, so they are not independent reporting.
   - The quantity is described as esrar, the Turkish word for cannabis, without saying whether it is resin or dried flower; it is recorded as hashish.
+  - The Son Dakika text is attributed to the Anadolu Agency and reproduces the governor's office statement, so it is not independent reporting.
+  - The Son Dakika page shows one photo captioned only with the headline, with no caption confirming it depicts this seizure, so no media entry is added.
+  - The Son Dakika report says legal action was taken against the 16 and does not say how many were detained, while İHA's headline says 16 were detained.
 ---
 
 Diyarbakır gendarmerie teams ran operations against people accused of selling,
 transporting and using drugs in the city centre and its districts, and 18
 incidents occurred. [@1,4] Legal proceedings were opened against 16 suspects
-linked to those incidents. [@1,4]
+linked to those incidents. [@1,4,5]
 
 The gendarmerie said it seized 300 kenevir/skunk roots and 3 kilograms 239 grams
-of esrar. [@1,4] The operations were coordinated by the provincial gendarmerie's
-anti-narcotics branch and covered the city centre and the districts. [@3]
+of esrar. [@1,4,5] The operations were coordinated by the provincial gendarmerie's
+anti-narcotics branch and covered the city centre and the districts. [@3,5]
 
 The DHA account said the 16 suspects were detained and that the operations took
 place over the previous week. [@2] The reports name no suspect, do not say
 whether any of the 16 was remanded or charged, and give no date other than the
 day of publication, 9 November 2026. [@2]
+
+The operation was announced by the Diyarbakır governor's office. [@5] The İHA account reported the 16 suspects were detained, the same figure recorded here as arrested. [@6]
