@@ -66,6 +66,11 @@ sources:
     publisher: Le Progrès
     date: 2026-11-09
     language: fr
+  - title: 'Loire : 425 kg de résine de cannabis saisis lors de l’interception de deux véhicules'
+    url: https://policeetrealites.com/2026/11/09/loire-425-kg-de-resine-de-cannabis-saisis-lors-de-linterception-de-deux-vehicules/
+    publisher: Police & Réalités
+    date: 2026-11-09
+    language: fr
 open_questions:
   - The amount of cash seized in the searches was not published.
   - The reports do not say when a trial might take place or what sentences the three men could face.
@@ -74,6 +79,7 @@ open_questions:
   - 'Left out, as its quotation was not found in Radio Scoop: The Saint-Étienne prosecutor''s office put the street resale value of the resin at several million euros.'
   - Le Progrès publishes only an illustration photo captioned as such ("Photo d'illustration"), so no media entry is added for this source.
   - Le Progrès does not state the exact amount of cash seized, nor the date on which the three were brought before the court (6 November is taken from the report's earlier sources).
+  - The new account repeats that the three suspects were placed in pre-trial detention but does not give the date of their court appearance.
 ---
 
 Three men aged between 28 and 45 were arrested in Saint-Chamond, in the Loire
@@ -81,13 +87,15 @@ department, in the late morning of Monday 2 November 2026. [@1,4]
 
 Gendarmes of the Lyon research section had opened a preliminary investigation at
 the end of August 2026 into an organisation suspected of importing cannabis
-resin. [@2,4] The convoy's two cars had loaded 425 kg of cannabis resin in
+resin. [@2,4,5] The convoy's two cars had loaded 425 kg of cannabis resin in
 Perpignan, after the drug had come from Spain, and were heading for the
 Saint-Étienne and Lyon markets. [@3,4]
 
 Searches found 425 kg of cannabis resin and cash, whose amount was not stated.
 [@2,4] The three suspects, from Saint-Chamond, Annonay in Ardèche and Vénissieux
 in the Rhône, were brought before the Saint-Étienne court on 6 November and
-placed in pre-trial detention. [@2,4] They were charged and placed in pre-trial
+placed in pre-trial detention. [@2,4,5] They were charged and placed in pre-trial
 detention in a judicial investigation opened for acquiring, transporting,
 importing, possessing, offering and supplying narcotics. [@3,4]
+
+The intervention was backed by the GIGN's Orange branch (AGIGN), the gendarmerie's intervention unit, which officers often call on for large-scale drug operations because of the risks involved. [@5]
