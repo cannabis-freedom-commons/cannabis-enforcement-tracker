@@ -67,6 +67,10 @@ sources:
     url: https://nagalandpost.com/assam-police-seize-over15-kg-of-ganja-arrest-one/
     publisher: Nagaland Post
     date: 2026-11-09
+  - title: 'Assam: Dobok Police seize 15 kg of suspected ganja, apprehend one in Rangia'
+    url: https://www.sentinelassam.com/north-east-india-news/assam-news/assam-dobok-police-seize-15-kg-of-suspected-ganja-apprehend-one-in-rangia
+    publisher: The Sentinel
+    date: 2026-11-09
 open_questions:
   - The accounts give no separate date for the interception, so the publication date of 8 November 2026 is used as the incident date.
   - No charges, court outcome or custody details were reported beyond that further legal action was being initiated.
@@ -86,6 +90,8 @@ open_questions:
   - The Nagaland Post copy is another reprint of the same IANS report already cited in this account, so it corroborates but is not independent reporting.
   - The page carries no separate date for the interception; 8 November 2026 is the dateline of the agency report, while the page itself is dated 9 November 2026.
   - The photo caption does not name a photographer or credit an agency.
+  - The Sentinel gives no separate date for the interception, saying only that it happened the night before its 9 November 2026 publication, so the incident date remains the 8 November 2026 dateline of the earlier agency accounts.
+  - The Sentinel names the police as Dobok police and its officer in charge as CI Baihata, while the earlier agency accounts call the unit Baihata Police; the two names appear to describe the same interception but the relationship is not explained.
 media:
   - kind: photo
     url: https://nagalandpost.com/assam-police-seize-over15-kg-of-ganja-arrest-one/
@@ -97,13 +103,13 @@ media:
 Police in Assam's Baihata seized over 15 kilograms of suspected cannabis,
 locally known as ganja, and apprehended one individual in connection with the
 haul. [@1,3,5,6,7] Baihata Police intercepted a vehicle during 'naka' checking based on
-specific input about the transportation of drugs through the area. [@1,3,4,5,6,7] The
+specific input about the transportation of drugs through the area. [@1,3,4,5,6,7,8] The
 apprehended individual was identified by police as Ridip Kumar, a resident of
-Assam's Kamrup district. [@1,3,4,5,6]
+Assam's Kamrup district. [@1,3,4,5,6,8]
 
 A search of the intercepted vehicle led to the recovery and seizure of suspected
-cannabis that had been packed in three separate packets. [@1,6,7] Police recorded
-the weight of the recovered suspected cannabis as 15.049 kilograms. [@1,3,4,5,6] Police
+cannabis that had been packed in three separate packets. [@1,6,7,8] Police recorded
+the weight of the recovered suspected cannabis as 15.049 kilograms. [@1,3,4,5,6,8] Police
 said one person was apprehended at the scene in connection with the recovery of
 the three packets. [@1]
 
@@ -113,3 +119,5 @@ person was being initiated following the seizure and apprehension. [@1,3,5,6,7]
 Officials described the recovered material as suspected cannabis, presenting
 both the drug identity and the weight as police findings rather than
 court-tested results. [@1]
+
+The vehicle stopped at the check bore registration number AS-01-GT-7541. [@8] The check was carried out by the officer in charge of Baihata police station and a sub-inspector of the Dobok outpost, under the Rangia subdivision. [@8] The man apprehended was a resident of Monakuchi Boramgoi village, under Kamalpur police station in Kamrup district. [@8]
