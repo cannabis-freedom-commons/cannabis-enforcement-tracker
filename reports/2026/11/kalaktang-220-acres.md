@@ -172,6 +172,11 @@ sources:
     url: https://english.hindusthansamachar.in/Encyc/2026/11/7/ARUNACHAL-CANNIBIES-WEST-KAMEN.php
     publisher: Hindusthan Samachar
     date: 2026-11-07
+  - title: नशे के काले कारोबार पर एनसीबी का सबसे बड़ा प्रहार, 458 एकड़ में फैली अवैध गांजे की खेती जमींदोज
+    url: https://www.thejbt.com/india/delhi/ncb-biggest-strike-against-dark-trade-of-narcotics-news-321484
+    publisher: Janbhawna Times
+    date: 2026-11-09
+    language: hi
 media:
   - kind: photo
     url: https://www.arunachaltimes.in/article/illicit-cannabis-cultivation-destroyed
@@ -260,19 +265,21 @@ open_questions:
   - The Lokmat Times page says it is sourced from a syndicated agency feed and refined with artificial intelligence without human editorial review, so it is not an independent observation of the fields.
   - The page's sole picture repeats the headline as its caption with no credit or field identification, so no media entry is added.
   - The page's sole picture is a generic regional thumbnail whose caption repeats the headline, so no media of the event is added.
+  - The Janbhawna Times page is a Hindi account of the NCB statement carried by wire services, so it is not an independent observation of the Kalaktang fields, and it gives no arrest, charge or court outcome for the drive.
+  - The page carries the headline framing that the NCB's strike was its biggest and files the story under a Delhi category, though the drive took place in Kalaktang subdivision of West Kameng district, Arunachal Pradesh.
 ---
 
 District police, the Narcotics Control Board, the Sashastra Seema Bal, the Central Reserve Police Force and the district administration destroyed illicit cannabis on at least 220 acres (about 89 hectares) in Kalaktang subdivision of West Kameng district. [@1,2,18,21,23] The two-day drive began on Monday 26 October 2026. [@1,2] Bomdila deputy superintendent of police Sashi Dore led it, under superintendent Dr D. W. Thongon and deputy commissioner Dr Dilip Kumar. [@1]
 
 About 50 acres at Boha, put at around 15,000 kilograms, were destroyed, then about 170 acres at Angkaling and R Pam, put at about 51,000 kilograms. [@1,2] Together the authorities' figures are about 66,000 kilograms. [@2] Gaon buras, the village headmen, panchayat leaders and residents of Boha and Angkaling assisted. [@1] The reports name no one arrested. [@1,2] Police said the drive against illicit cannabis cultivation would continue. [@1]
 
-The completed first phase covered about 458 acres in Kalaktang subdivision, up from the 220 acres recorded for the drive's first two days. [@3,4,6,9,11,12,13,14,16,17,20,23,25,26,27,28,29,30,31,32] The operation ran from 26 October to 3 November 2026, more than the two days covered by the earlier account of it. [@3,4,6,7,8,11,12,14,16,17,18,20,24,25,26,27,28,29,30,31,32] The NCB's Itanagar Zonal Unit led the drive, with 118 personnel and workers joined by the SSB, the CRPF, the Arunachal Pradesh Anti-Narcotics Task Force, West Kameng police and the district administration. [@3,4,10,11,13,14,17,18,25,31] Ground surveys by West Kameng police and the district administration, with satellite imagery from the NCB, located the cultivation in rugged terrain. [@3,4,9,11,12,13,14,18,23,24,25,26,28] The NCB said the area cleared of cannabis in Arunachal Pradesh in 2026 was more than eight times the area cleared in all of 2025. [@3,4,9,10,11,13,18,23,24,28]
+The completed first phase covered about 458 acres in Kalaktang subdivision, up from the 220 acres recorded for the drive's first two days. [@3,4,6,9,11,12,13,14,16,17,20,23,25,26,27,28,29,30,31,32,33] The operation ran from 26 October to 3 November 2026, more than the two days covered by the earlier account of it. [@3,4,6,7,8,11,12,14,16,17,18,20,24,25,26,27,28,29,30,31,32,33] The NCB's Itanagar Zonal Unit led the drive, with 118 personnel and workers joined by the SSB, the CRPF, the Arunachal Pradesh Anti-Narcotics Task Force, West Kameng police and the district administration. [@3,4,10,11,13,14,17,18,25,31] Ground surveys by West Kameng police and the district administration, with satellite imagery from the NCB, located the cultivation in rugged terrain. [@3,4,9,11,12,13,14,18,23,24,25,26,28] The NCB said the area cleared of cannabis in Arunachal Pradesh in 2026 was more than eight times the area cleared in all of 2025. [@3,4,9,10,11,13,18,23,24,28]
 
-Joint teams destroyed more than 1.37 lakh kg (about 137 tonnes) of cannabis plants, grown mainly on community land, during the first phase of the drive. [@5,6,12,13,14,16,18,20,21,23,24,25,26,27,28,29,30,32]
+Joint teams destroyed more than 1.37 lakh kg (about 137 tonnes) of cannabis plants, grown mainly on community land, during the first phase of the drive. [@5,6,12,13,14,16,18,20,21,23,24,25,26,27,28,29,30,32,33]
 
 A total of 118 personnel and workers took part in the joint drive. [@8,9,13,22,23,24,26] The NCB named the additional districts of Lohit, Lower Dibang Valley and Tirap, and both cannabis and opium poppy cultivation, when describing the areas it plans to operate in. [@8]
 
-The NCB placed the drive under its Vision Document on Narcotics Control (2026–2029), which calls for mapping cultivation hotspots and synchronised crop destruction by central, state and district agencies under a whole-of-government approach. [@9,18,23,28] The NCB said further joint drives would target illicit cannabis and opium poppy sites in Lohit, Lower Dibang Valley, Dibang Valley, Namsai, Anjaw, Tirap, Changlang and Longding districts. [@9]
+The NCB placed the drive under its Vision Document on Narcotics Control (2026–2029), which calls for mapping cultivation hotspots and synchronised crop destruction by central, state and district agencies under a whole-of-government approach. [@9,18,23,28,33] The NCB said further joint drives would target illicit cannabis and opium poppy sites in Lohit, Lower Dibang Valley, Dibang Valley, Namsai, Anjaw, Tirap, Changlang and Longding districts. [@9]
 
 Joint multi-agency teams took part in the first phase of the special eradication operation, which ran from 26 October to 3 November 2026. [@7,13,15,27]
 
