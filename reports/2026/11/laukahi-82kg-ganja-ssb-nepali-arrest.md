@@ -39,6 +39,11 @@ media:
     media_url: https://wpmedia.prabhatkhabar.com/uploads/2026/11/09/1794207374101/sizes/09mad_m_11_09112026_61-2d8a64-hero.webp
     publisher: Prabhat Khabar
     caption: 'Photograph published with the report on the Madhubani border seizure, captioned as the recovered ganja with police and SSB officers. Photo: Prabhat Khabar Network'
+  - kind: photo
+    url: https://www.bhaskar.com/local/bihar/madhubani/deohar/news/phulparas-india-nepal-border-ganja-seizure-smugglers-arrest-139637754.html
+    media_url: https://images.bhaskarassets.com/web2images/521/2026/11/09/f319bdac-660e-4d9d-9546-009c138165c0_1794222852439.jpg
+    publisher: Dainik Bhaskar
+    caption: 'The arrested man in police custody with the seized ganja, captioned in Hindi as the accused and the seized ganja. Photo: Dainik Bhaskar'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f5d93b199a1f25452fa5936aecc6ce95
@@ -49,6 +54,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-09
     language: hi
+  - title: 'नदी के रास्ते गांजा ला रहा तस्कर गिरफ्तार: फुलपरास में भारत-नेपाल सीमा पर 82.780 किलो गांजा जब्त, चार आरोपी भागे'
+    url: https://www.bhaskar.com/local/bihar/madhubani/deohar/news/phulparas-india-nepal-border-ganja-seizure-smugglers-arrest-139637754.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The article gives no time of day for the operation beyond Monday morning; 9 November 2026 is the day named and the publication date.
   - The weight of 82.780 kg is the SSB's own figure, with no independent confirmation or lab report reported.
@@ -56,11 +66,15 @@ open_questions:
   - The article calls the SSB unit the 18th Battalion based at Rajnagar; the exact border spot where the seizure took place is not named beyond the Laukahi company's area in Madhubani district.
   - No street value for the ganja was published.
   - The lead photograph is captioned only as recovered ganja with police and army officers and credited to Prabhat Khabar Network; it is attributed to this report but the scene is not independently confirmed.
+  - Dainik Bhaskar names the area as Phulparas sub-division while the earlier account names Laukahi company of the SSB's 18th Battalion; both lie in Madhubani district and appear to describe the same border sector, but the precise police jurisdiction receiving the case is not clear.
+  - No source states whether any of the four who fled has been identified or arrested since.
+  - The 42 lakh rupee value is an official estimate with no independent confirmation reported.
+  - The submitted page's readable text ends at a paywall prompt after its opening summary, so any further detail in the full article could not be checked.
 ---
 
 A joint party of the Sashastra Seema Bal, India's border-guard force, and Bihar
 police seized 82.780 kilograms of ganja on the India-Nepal border in Madhubani
-district, Bihar. [@1]
+district, Bihar. [@1,2]
 
 The operation was carried out on the morning of Monday, 9 November 2026 by the
 Laukahi company of the SSB's 18th Battalion at Rajnagar, together with Bihar
@@ -80,3 +94,4 @@ consignment was to be delivered and who else is part of the smuggling network.
 continuous surveillance of the India-Nepal border against narcotics and other
 contraband, in coordination with Bihar police and other agencies. [@1]
 
+The seized ganja was valued at about 42 lakh rupees. [@2] Officers arrested one smuggler at the scene, while four others fled towards Nepal. [@2]
