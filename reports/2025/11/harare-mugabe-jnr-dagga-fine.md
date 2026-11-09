@@ -88,12 +88,19 @@ sources:
     url: https://www.theeastafrican.co.ke/tea/news/southern-africa/mugabe-son-robert-jnr-arrested-charged-with-drug-possession-5215864
     publisher: The EastAfrican
     date: 2025-10-03
+  - title: Robert Mugabe Junior drove against oncoming traffic, behind bars for drug possession
+    url: https://iol.co.za/news/crime-and-courts/2025-10-03-robert-mugabe-junior-drove-against-oncoming-traffic-behind-bars-for-drug-possession/
+    publisher: IOL
+    date: 2025-10-03
 open_questions:
   - 'Accounts differ on the weight of cannabis: the police charge sheet cited 2 g and the lawyer said 0.02 g; the figures use the police weight of 2 g.'
   - The Club of Mozambique and BBC accounts give no separate date for the October arrest beyond 'Wednesday'; it is given as 1 October 2025 in the text only as the Wednesday before the 2 October appearance.
   - No outcome is reported for the five alleged syndicate members arrested with Mugabe, or for the ecstasy pills found with them.
   - News24's article body could not be read past its subscriber prompt; only its opening paragraph and summary text were usable, so the bail conditions it mentions are not recorded.
   - The EastAfrican gives no weight for the drugs found and no details of the charges, and says only that the arrest came the day before the Thursday appearance.
+  - The IOL report does not say when the bail hearing took place or whether bail was granted; it was published on 3 October with Mugabe still in custody.
+  - IOL places the stop on a "Tuesday night", while other accounts say he was arrested on Wednesday morning, 1 October 2025; the dates differ by a day.
+  - IOL describes a silver Honda Fit, while the BBC's account of the court documents describes the car only as black in relation to the sling bag.
 ---
 
 Robert Mugabe Jnr, 33, pleaded guilty to unlawful possession of drugs at the
@@ -127,3 +134,5 @@ attention because Mugabe is the son of Zimbabwe's late president Robert Mugabe.
 Robert Mugabe Junior, 33, was arrested on Wednesday, 1 October 2025, after he was stopped and searched by officers who spotted him driving into oncoming traffic. [@7]
 
 One of former Zimbabwean President Robert Mugabe's sons has been detained on drug possession charges, with the police saying he is part of a syndicate of illegal substance peddlers. [@8]
+
+Police stopped Mugabe, 33, on Tuesday night as he drove a silver Honda Fit the wrong way along 2nd Street Extension in central Harare. [@9] Officers reportedly found two small sachets of dagga, papers and a dagga crusher in a sling bag he was carrying. [@9] Mugabe was remanded in custody at Harare Central Prison after the Harare Magistrate's Court postponed his bail hearing to Friday, and by then had spent two nights in custody. [@9]
