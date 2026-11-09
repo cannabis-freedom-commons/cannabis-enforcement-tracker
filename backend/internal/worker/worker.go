@@ -87,6 +87,9 @@ func (w *Worker) Run(parent context.Context) {
 	// pushed) within seconds instead of waiting for a research run to end
 	wg.Add(1)
 	go func() { defer wg.Done(); w.jobs(ctx, "publish", nil) }()
+	if w.Config.RepoSync {
+		wg.Go(func() { syncLoop(ctx, w.Config.RepoPath) })
+	}
 	wg.Wait()
 }
 
@@ -853,7 +856,7 @@ func (w *Worker) publish(ctx context.Context, j store.Job) error {
 		media, mediaErr = prepareMedia(ctx, w.Config.RepoPath, d.Dir, rels)
 	}
 	defer media.Close()
-	sha, mediaNote, err := commitReportWithMedia(ctx, w.Config.RepoPath, j.Ref, d, media)
+	sha, mediaNote, err := commitReportWithMedia(ctx, w.Config.RepoPath, j.Ref, d, media, w.Config.RepoSync)
 	if err != nil {
 		var changed *coverageChanged
 		if errors.As(err, &changed) {
@@ -884,10 +887,17 @@ func (w *Worker) publish(ctx context.Context, j store.Job) error {
 	if w.Config.AutoPush {
 		// the commit goes to GitHub straight away, so its link works; a failed push leaves the
 		// commit in place and says so
-		if err := pushRepo(ctx, w.Config.RepoPath); err != nil {
+		if err := pushRepo(ctx, w.Config.RepoPath, w.Config.RepoSync); err != nil {
 			explanation += " Pushing it to GitHub failed (" + err.Error() + "); it is in the local repository only until the next push."
 		} else {
 			explanation += " It was pushed to GitHub."
+			// a push after others' commits rebases this one: record the commit GitHub has
+			if rebased := caseCommit(ctx, w.Config.RepoPath, j.Ref, d.Rel); rebased != "" && rebased != sha {
+				explanation = strings.Replace(explanation, sha[:12], rebased[:12], 1)
+				if _, err := w.Store.DB.ExecContext(ctx, "UPDATE local_publications SET commit_sha=? WHERE case_id=?", rebased, j.Ref); err != nil {
+					return err
+				}
+			}
 		}
 	} else {
 		explanation += " It is available in local development; pushing is separate."

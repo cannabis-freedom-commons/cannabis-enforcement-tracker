@@ -229,3 +229,58 @@ func TestLocalCommitRefusesMissingOrConcurrentlyClaimedCode(t *testing.T) {
 		})
 	}
 }
+
+// A server's clone (REPO_SYNC) is behind origin when others pushed meanwhile: the report is
+// committed on top of their work and pushed, and the commit GitHub has is the one recorded.
+func TestSyncedClonePublishesOnTopOfOthersPushes(t *testing.T) {
+	seed, d := commitFixture(t)
+	origin := filepath.Join(t.TempDir(), "origin.git")
+	testGit(t, seed, "clone", "--quiet", "--bare", seed, origin)
+	server := filepath.Join(t.TempDir(), "server")
+	testGit(t, seed, "clone", "--quiet", origin, server)
+	other := filepath.Join(t.TempDir(), "other")
+	testGit(t, seed, "clone", "--quiet", origin, other)
+	for _, repo := range []string{server, other} {
+		testGit(t, repo, "config", "user.name", "Fixture")
+		testGit(t, repo, "config", "user.email", "fixture@localhost")
+	}
+	os.WriteFile(filepath.Join(other, "elsewhere.txt"), []byte("someone else's report"), 0644)
+	testGit(t, other, "add", ".")
+	testGit(t, other, "commit", "-m", "Pushed elsewhere")
+	testGit(t, other, "push", "--quiet", "origin", "HEAD")
+
+	ctx := context.Background()
+	s, err := store.Open(filepath.Join(t.TempDir(), "store.sqlite"))
+	if err != nil {
+		t.Fatal(err)
+	}
+	defer s.DB.Close()
+	id, _ := s.Accept(ctx, store.Intake{Origin: "web", URL: "https://news.example/report", CanonicalURL: "https://news.example/report"})
+	v, _ := s.Get(ctx, id)
+	research, _ := s.Claim(ctx, "jobs", time.Minute)
+	s.Finish(ctx, "jobs", research, nil)
+	tx, _ := s.DB.BeginTx(ctx, nil)
+	store.Enqueue(tx, "jobs", "publish", v.CaseID, store.JSON(d), time.Now().Unix())
+	tx.Commit()
+	job, err := s.Claim(ctx, "jobs", time.Minute)
+	if err != nil {
+		t.Fatal(err)
+	}
+	w := Worker{Store: s, Config: config.Config{RepoPath: server, Workspaces: filepath.Dir(d.Dir), AutoPublish: true, AutoPush: true, RepoSync: true}}
+	if err = w.publish(ctx, job); err != nil {
+		t.Fatal(err)
+	}
+	result, _ := s.Get(ctx, id)
+	if result.Status != "committed" || !strings.Contains(result.Explanation, "pushed to GitHub") {
+		t.Fatal(result.Status, result.Explanation)
+	}
+	pushed := testGit(t, origin, "rev-parse", "HEAD")
+	if testGit(t, origin, "show", "HEAD~1:elsewhere.txt") != "someone else's report" {
+		t.Fatal("others' work lost")
+	}
+	var recorded string
+	s.DB.QueryRow("SELECT commit_sha FROM local_publications WHERE case_id=?", v.CaseID).Scan(&recorded)
+	if recorded != pushed || !strings.Contains(result.Explanation, pushed[:12]) {
+		t.Fatal("recorded commit is not the pushed one", recorded, pushed)
+	}
+}

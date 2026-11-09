@@ -22,25 +22,28 @@ type ResearchAgent struct {
 }
 
 type Config struct {
-	ResearchAgents                                                              []ResearchAgent
-	BingNewsEnabled                                                             bool
-	BingNewsQueries                                                             []harvest.BingNewsQuery
-	BingNewsInterval                                                            time.Duration
-	BingNewsMaxArticles, BingNewsQueriesPerScan                                 int
-	GoogleNewsEnabled                                                           bool
-	GoogleNewsQueries                                                           []harvest.GoogleNewsQuery
-	GoogleNewsQueriesPerScan                                                    int
-	GoogleNewsInterval                                                          time.Duration
-	GoogleNewsMaxArticles                                                       int
-	HarvestQueueTarget                                                          int // waiting research jobs before discovery holds back; -1 = automatic
-	Addr, Database, PublicURL, RepoPath, Workspaces, IngestToken                string
-	Origins, Relays, RSSFeeds, GDELTQueries, TrustedProxies                     []string
-	GatewaySecret, BotSecret                                                    string
-	ResearchImage, ResearchNetwork, ResearchModel, ResearchKey                  string
-	ResearchRunner, OpenCodeBinary, OpenCodeAuthFile, OpenCodeConfigFile        string
-	AutoPublish                                                                 bool
-	AutoPush                                                                    bool // push the report repository after each report commit
-	WorkerConcurrency                                                           int  // requests worked on at the same time
+	ResearchAgents                                                       []ResearchAgent
+	BingNewsEnabled                                                      bool
+	BingNewsQueries                                                      []harvest.BingNewsQuery
+	BingNewsInterval                                                     time.Duration
+	BingNewsMaxArticles, BingNewsQueriesPerScan                          int
+	GoogleNewsEnabled                                                    bool
+	GoogleNewsQueries                                                    []harvest.GoogleNewsQuery
+	GoogleNewsQueriesPerScan                                             int
+	GoogleNewsInterval                                                   time.Duration
+	GoogleNewsMaxArticles                                                int
+	HarvestQueueTarget                                                   int // waiting research jobs before discovery holds back; -1 = automatic
+	Addr, Database, PublicURL, RepoPath, Workspaces, IngestToken         string
+	Origins, Relays, RSSFeeds, GDELTQueries, TrustedProxies              []string
+	GatewaySecret, BotSecret                                             string
+	ResearchImage, ResearchNetwork, ResearchModel, ResearchKey           string
+	ResearchRunner, OpenCodeBinary, OpenCodeAuthFile, OpenCodeConfigFile string
+	AutoPublish                                                          bool
+	AutoPush                                                             bool // push the report repository after each report commit
+	// RepoSync keeps a report repository nobody edits by hand (a server's clone) level with origin:
+	// pulled before each commit and every few minutes, and pulled again when a push is rejected.
+	RepoSync                                                                    bool
+	WorkerConcurrency                                                           int // requests worked on at the same time
 	SourceBrowser                                                               bool
 	DevControls                                                                 bool
 	RawAILogs                                                                   bool
@@ -184,6 +187,10 @@ func Load() (Config, error) {
 	c.AutoPush, boolErr = strconv.ParseBool(env("AUTO_PUSH", "true"))
 	if boolErr != nil {
 		return c, errors.New("invalid AUTO_PUSH")
+	}
+	c.RepoSync, boolErr = strconv.ParseBool(env("REPO_SYNC", "false"))
+	if boolErr != nil {
+		return c, errors.New("invalid REPO_SYNC")
 	}
 	if c.ResearchRunner != "docker" && c.ResearchRunner != "local" {
 		return c, errors.New("RESEARCH_RUNNER must be docker or local")

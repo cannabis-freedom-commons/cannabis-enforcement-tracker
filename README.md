@@ -436,6 +436,7 @@ and shown beneath its sources. Local failed submissions have a restart control; 
 Research can also run on separate machines: with `RESEARCH_MODE=remote` the backend keeps the
 database, intake, harvesting and publishing, and research workers (`cmd/tracker-worker`, for example
 at home) take the jobs, open the pages and run the AI. See [docs/WORKERS.md](docs/WORKERS.md).
+To run the backend on a server with `docker compose up -d`, see [docs/DEPLOY.md](docs/DEPLOY.md).
 
 See [docs/NOSTR-SUBMISSIONS.md](docs/NOSTR-SUBMISSIONS.md) for setup, HTTP contracts, deployment,
 privacy, backups, research isolation and rollout requirements. Use `backend/config.example.env`

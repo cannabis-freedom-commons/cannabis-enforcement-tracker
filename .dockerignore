@@ -1,0 +1,6 @@
+# The backend image (deploy/backend.Dockerfile) needs only the Go service and the package lock.
+*
+!backend/
+backend/data/
+backend/tracker
+!package-lock.json

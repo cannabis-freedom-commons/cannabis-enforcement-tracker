@@ -65,7 +65,7 @@ func TestReportCommitIncludesItsPhotoManifest(t *testing.T) {
 		t.Fatal("no media prepared", err)
 	}
 	defer media.Close()
-	sha, note, err := commitReportWithMedia(context.Background(), dir, "case1", d, media)
+	sha, note, err := commitReportWithMedia(context.Background(), dir, "case1", d, media, false)
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -105,7 +105,7 @@ func TestReportCommitIncludesItsPhotoManifest(t *testing.T) {
 	defer media2.Close()
 	edited := strings.Replace(string(b), "{", "{ ", 1)
 	os.WriteFile(filepath.Join(dir, mediaManifest), []byte(edited), 0644)
-	_, note, err = commitReportWithMedia(context.Background(), dir, "case2", draftJob{Dir: workspace, Rel: rel2, Slug: "second", Title: "Second"}, media2)
+	_, note, err = commitReportWithMedia(context.Background(), dir, "case2", draftJob{Dir: workspace, Rel: rel2, Slug: "second", Title: "Second"}, media2, false)
 	if err != nil || !strings.Contains(note, "local changes") {
 		t.Fatal(note, err)
 	}

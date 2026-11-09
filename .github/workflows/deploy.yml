@@ -72,6 +72,8 @@ jobs:
         env:
           SITE: ${{ steps.pages.outputs.origin }}
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          # the submissions backend (docs/DEPLOY.md); unset leaves the submission form off
+          PUBLIC_SUBMISSIONS_API_URL: ${{ vars.PUBLIC_SUBMISSIONS_API_URL }}
       - uses: actions/upload-pages-artifact@v5
         with:
           path: dist
