@@ -167,6 +167,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-09
     language: tr
+  - title: Adana'da kenevir imalathanesine baskın düzenlendi, 17 kilo esrar ele geçirildi
+    url: https://www.sondakika.com/amp/haber-adana-da-kenevir-imalathanesine-baskin-duzenlendi--20409098/
+    publisher: Son Dakika
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -210,22 +215,23 @@ open_questions:
   - The page's three pictures carry no caption or credit; the top one is a site-format 880x440 image and the other two have no caption tying them to the workshop, so no new media entry is added.
   - The submitted AMP page carries the same ANKA-credited text and photo as Son Dakika's standard page already cited in the report, so it adds no independent reporting of the raid.
   - The AMP page gives no separate date or time for the raid; 9 November 2026 is its publication date and the date of the ministry statement.
+  - The İHA text reproduced here adds no district, plant count, area or value, and does not state whether the three suspects were charged, released or only referred to prosecutors.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15]
+the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16]
 
 The three suspects were taken into custody, and the ministry named no further
 court step. [@2,9,10,12,14]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14]
+anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14,16]
 TRT Haber reported that the three suspects were held in gözaltı, the police
 custody in which a person is questioned while prosecutors decide on charges or
 release. [@3]
