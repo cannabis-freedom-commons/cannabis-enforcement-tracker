@@ -44,6 +44,11 @@ media:
     media_url: https://news129.com/wp-content/uploads/2026/11/IMG-20261108-WA0036.jpg
     publisher: News129
     caption: Undated handout photo published with the report on the arrest of the wanted Kaliyar ganja supplier in Loni, Ghaziabad; the page gives no caption or credit, and the image is not confirmed to show the arrested man or the seized ganja.
+  - kind: photo
+    url: https://www.etvbharat.com/hi/state/piran-kaliyar-police-station-arrested-an-absconding-drug-smuggler-from-ghaziabad-uts26110900416
+    media_url: https://imgs.etvbharat.com/etvbharat/prod-images/09-11-2026/uk-har-01-ganja-smuggler-with-a-reward-of-rs-25-thousand-arrested-was-absconding-for-a-year-uk10028_08112026161305_0811f_1794134585_533.jpg
+    publisher: ETV Bharat
+    caption: 'Photo captioned ''बदमाश गाजियाबाद से गिरफ्तार'' (the suspect arrested from Ghaziabad) within the report on the Loni arrest of the wanted Kaliyar ganja supplier; the page gives no separate agency credit. Photo: ETV Bharat'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 87701527025c681efff3398cab3df08a
@@ -69,6 +74,11 @@ sources:
     publisher: Panchnama Khabar
     date: 2025-07-15
     language: hi
+  - title: एक साल से पुलिस को चकमा दे रहा था दिल्ली-यूपी का शातिर नशा तस्कर, गाजियाबाद से किया गिरफ्तार
+    url: https://www.etvbharat.com/hi/state/piran-kaliyar-police-station-arrested-an-absconding-drug-smuggler-from-ghaziabad-uts26110900416
+    publisher: ETV Bharat News
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The submitted page gives no details of what happened to Siddiqui after his arrest, such as production before a court or further remand, and no fresh charge against him is reported.
   - Panchnama Khabar names Imlikheda outpost in-charge Amit Nautiyal as leading the arrest team, while the submitted page names him only as a sub-inspector on the team; the arrest location and date agree.
@@ -82,7 +92,7 @@ open_questions:
 Police in Haridwar district arrested Amjad Siddiqui, a ganja supplier wanted for
 about a year in the July 2025 seizure of 21 kilograms of ganja from Sabir
 Hussain at Kaliyar, from the Ankur Vihar police station area of Loni in
-Ghaziabad on 7 November 2026. [@1] The arrest was made by a team led by Kaliyar
+Ghaziabad on 7 November 2026. [@1,5] The arrest was made by a team led by Kaliyar
 station house officer Kamal Mohan Bhandari, in what the reports present as part
 of Operation Prahar, a district anti-drug drive, and the Nasha Mukt
 Devbhoomi-2026 campaign. [@1] The Haridwar senior superintendent of police had
@@ -108,3 +118,4 @@ sections, including a 2017 NDPS case at Kav Nagar police station in Ghaziabad, a
 robbery, assault and the Arms Act. [@2] Police said they were gathering fuller
 details of his criminal record. [@1]
 
+ETV Bharat places the arrest in Ved Vihar Colony in the Ankur Vihar police station area of Loni, describing it as a raid after the team gathered leads through manual policing. [@5] Kaliyar station house officer Kamal Mohan Bhandari said the arrested man already faced cases under the NDPS Act, robbery and the Arms Act registered in Ghaziabad and Delhi, and that police were now gathering information on his criminal network and others linked to the drug trade. [@5]
