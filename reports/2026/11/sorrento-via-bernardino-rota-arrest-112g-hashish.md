@@ -46,6 +46,11 @@ sources:
     publisher: Sorrentopress
     date: 2026-11-09
     language: it
+  - title: 'Sorrento, tenta la fuga in Smart ma resta intrappolato: 23enne arrestato con cocaina, hashish e marijuana'
+    url: https://www.ilgiornalelocale.it/2026/11/la-smart-non-basta-per-scappare-23enne-arrestato-con-cocaina-hashish-e-marijuana/
+    publisher: Ilgiornalelocale.it
+    date: 2026-11-09
+    language: it
 open_questions:
   - The article gives no separate date for the arrest; 9 November 2026 is its publication date and is used as the incident date.
   - The cocaine is reported only as 132 doses, and its weight is not poolable with the cannabis, so it is excluded from the figures.
@@ -53,6 +58,13 @@ open_questions:
   - The suspect is identified only by initials and date of birth.
   - Only one source for this event was found; no carabinieri statement or second outlet could be opened.
   - No photo showing the seizure or the arrest could be identified; the page image address names only the drugs topic, so no media entry is given.
+  - The account gives the cocaine only as 132 doses and no total weight for the drugs, so the cocaine is excluded from the cannabis figure.
+media:
+  - kind: photo
+    url: https://www.ilgiornalelocale.it/2026/11/la-smart-non-basta-per-scappare-23enne-arrestato-con-cocaina-hashish-e-marijuana/
+    media_url: https://www.ilgiornalelocale.it/wp-content/uploads/2026/11/carabinierisorrentococainahashishmarijuana.jpg
+    publisher: Ilgiornalelocale.it
+    caption: Photograph published with the report on the Sorrento arrest, showing the drugs seized from the 23-year-old.
 ---
 
 Carabinieri from the Sorrento coast mobile radio unit arrested a 23-year-old man
@@ -69,3 +81,4 @@ car, officers found and seized 112 grams of hashish and 7.50 grams of marijuana.
 The man faces a charge of possessing drugs for the purpose of dealing and was
 placed under house arrest pending trial. [@1]
 
+Ilgiornalelocale.it identifies the officers as the Sorrento mobile radio unit, the Aliquota Radiomobile, working the via Bernardino Rota side street. [@2] Officers who knew the area set up a targeted operation in advance, blocking the possible escape routes with service cars and decoy vehicles before approaching on foot. [@2] Where he had been waiting before getting into the car, carabinieri seized 132 doses of cocaine alongside 112 grams of hashish and 7.50 grams of marijuana. [@2] A precision scale, presumably used to weigh the doses, was found with the drugs. [@2]
