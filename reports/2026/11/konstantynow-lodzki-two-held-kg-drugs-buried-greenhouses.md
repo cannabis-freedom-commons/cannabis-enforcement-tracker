@@ -76,25 +76,32 @@ sources:
     url: https://lodzka.policja.gov.pl/ld/informacje/124966,Lodzcy-policjanci-ds-pseudokibicow-zabezpieczyli-kilogram-narkotykow.html
     publisher: Policja Łódzka (Komenda Wojewódzka Policji w Łodzi)
     language: pl
+  - title: 'Konstantynów Łódzki: Zakopał narkotyki w szklarniach. Kryminalni wkroczyli do akcji po obserwacji domu'
+    url: https://informacje.wp.pl/wiadomosci/zakopal-narkotyki-w-szklarniach-kryminalni-wkroczyli-do-akcji-po-obserwacji-domu-7349229456226752a
+    publisher: WP Info / Kryminałki.pl
+    date: 2026-11-09
+    language: pl
 open_questions:
   - The roughly one kilogram is a combined figure for mephedrone and marijuana; the statement does not give the marijuana weight on its own, so the total is recorded as seized cannabis weight and the limitation noted here.
   - No plant count and no weight for the material in the jar are given, and the drugs are not described as home-grown, so the greenhouses are recorded as storage places and no plants figure is entered.
   - The articles give ages only, with no names or initials, and no plea, court date or further outcome was reported.
   - The place is given only as a property in Konstantynów Łódzki, so the coordinates are for the town centre.
   - Residents' reports and other outlets in Polish could not be opened for this event; the TVP3 Łódź text reproduces the Łódź regional police statement.
+  - Like the police statement, the article gives about a kilogram as a combined figure for mephedrone and marijuana and does not separate the marijuana weight.
+  - The article gives ages only and no names, plea or court date; it does not say how the stash was divided between the two men.
 ---
 
 Officers of the hooligan-crime unit of the Łódź regional police headquarters
 arrested two men aged 45 and 46 over drug offences at a property in Konstantynów
 Łódzki on 4 November 2026. [@1] Plain-clothes officers watching the property saw
 a delivery van pull up at about 15:10 and its driver and another man load
-various items into it. [@1]
+various items into it. [@1,3]
 
 Police stopped the van and found a glass jar of dried plant material and a fold
 of white powder inside; the 46-year-old was taken to the Pabianice district
 police headquarters, where the substances were weighed and tested. [@1] The
 46-year-old was held and charged the next day with possessing drugs, an offence
-carrying up to three years in prison. [@1]
+carrying up to three years in prison. [@1,3]
 
 A second, plain-clothes team searched the property and found drugs stored in the
 house and outbuildings and further substances buried in soil inside two
@@ -107,4 +114,3 @@ The operation was carried out by the hooligan-crime unit of the Łódź regional
 police headquarters, and the account came from its press officer, commissioner
 Agnieszka Jachimek. [@2] The police statement gives no plant count and does not
 describe the drugs as home-grown, so no eradication is recorded. [@2]
-
