@@ -82,6 +82,10 @@ sources:
     url: https://thenationonlineng.net/ugandan-woman-arrested-with-87-cocaine-wraps-concealed-in-private-part/
     publisher: The Nation Newspaper
     date: 2026-11-08
+  - title: NDLEA Arrests Ugandan Woman With Cocaine in Private Parts, Seizes N900m Opioids in Lagos Airport
+    url: https://radionigerialagos.gov.ng/ndlea-arrests-ugandan-woman-with-cocaine-in-private-parts-seizes-n900m-opioids-in-lagos-airport/
+    publisher: Radio Nigeria Lagos
+    date: 2026-11-09
 open_questions:
   - Whether the freight agent and the caterer were charged or remained in custody was not reported.
   - The sources do not say whether the named friend Taiwo Anuoluwapo Olusegun was arrested or questioned.
@@ -103,20 +107,22 @@ open_questions:
   - The Nation's copy gives no further detail on whether the two arrested men were charged or remained in custody.
   - The Nation does not say whether the caterer's friend Taiwo Anuoluwapo Olusegun was arrested or questioned.
   - The Nation's account, like the existing sources, gives no laboratory confirmation of the Loud parcels.
+  - The page also reports other separate cannabis seizures (22.2 kg for the UK via couriers, Ondo, Ekiti, Edo, Taraba, Enugu and Delta); those are different events left for their own reports.
+  - The page's cocaine, Tapentadol/opioid, tramadol and synthetic-cannabis (Colorado) quantities are not cannabis figures and are left out.
 ---
 
 On Wednesday 4 November 2026, NDLEA operatives at the import shed of the airport
 in Lagos intercepted 32 parcels of Loud, a strain of cannabis, weighing 16.15
-kilograms. [@1,4,5,6,8,10,11] The parcels were concealed inside two wooden sofas in a
+kilograms. [@1,4,5,6,8,10,11,12] The parcels were concealed inside two wooden sofas in a
 consolidated cargo that arrived from Houston, Texas, United States aboard a
-Turkish Airlines flight. [@2,5,10,11] Punch, citing the agency, also reported the
+Turkish Airlines flight. [@2,5,10,11,12] Punch, citing the agency, also reported the
 interception of 32 parcels of Loud weighing 16.15 kilogrammes concealed in two
 wooden sofas in a cargo shipment from Houston, United States. [@3,7]
 
 Freight agent Ibrahim Abdulwaheed Adewale, who came forward to clear the
-consignment, was taken into custody. [@1,2,4,5,6,7,10] In a follow-up operation on Friday 6
+consignment, was taken into custody. [@1,2,4,5,6,7,10,12] In a follow-up operation on Friday 6
 November 2026, 34-year-old caterer Adeoye Sarafa Ojo from Ibadan, Oyo state, was
-arrested when he walked in to collect the package. [@1,4,5,8,9,10,11] Adeoye claimed he was
+arrested when he walked in to collect the package. [@1,4,5,8,9,10,11,12] Adeoye claimed he was
 sent by a friend, Taiwo Anuoluwapo Olusegun. [@1,4,5,7] The NDLEA statement also
 records the 6 November follow-up arrest of the 34-year-old caterer from Ibadan
 who came to collect the package. [@2]
