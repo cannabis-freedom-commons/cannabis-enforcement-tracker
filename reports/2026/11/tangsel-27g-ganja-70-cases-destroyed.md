@@ -61,6 +61,9 @@ open_questions:
   - Sinte, a synthetic drug listed separately from ganja, and the other substances are left out of the cannabis weight.
   - The Semartara.News report says the destruction was led by Aditya Rakatama and attributes the account to him, while the RRI account already cited named Ronny Bona Tua Hutagalung, the office's intelligence chief, as the official who discussed the final rulings.
   - The report gives no breakdown of which of the 46 narcotics cases involved the 26.6792 grams of ganja.
+  - Semartara.News is a second outlet account and, like RRI, reproduces the prosecutor's statement; no separate agency release was opened.
+  - The ANTARA Banten report describes sinte as tembakau sintetis (synthetic tobacco), a synthetic product that stays outside the cannabis weight.
+  - 'Left out, as its quotation was not found in ANTARA News Banten: The destroyed narcotics included 26.6792 grams of ganja, the Indonesian term for cannabis.'
 ---
 
 The South Tangerang district prosecutor's office (Kejari Tangsel) destroyed
@@ -87,3 +90,5 @@ in the community. [@1,2]
 Ronny Bona Tua Hutagalung, the office's intelligence chief, said it would keep
 carrying out every court ruling, including on confiscated property with final
 legal force. [@1]
+
+The office's head, Aditya Rakatama, said the prosecutor's office would keep carrying out every court ruling, including on confiscated property with final legal force. [@2]
