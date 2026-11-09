@@ -57,6 +57,16 @@ sources:
     publisher: MBSニュース
     date: 2026-11-09
     language: ja
+  - title: 【速報】密売組織拠点か、薬物押収　兵庫県警、埼玉の住宅捜索
+    url: https://www.47news.jp/15205312.html
+    publisher: 47NEWS（共同通信）
+    date: 2026-11-09
+    language: ja
+  - title: 【速報】密売組織拠点か、薬物押収 兵庫県警、埼玉の住宅捜索
+    url: https://article.auone.jp/4aa70afc-fec7-48a8-9db2-8c12cff029ad
+    publisher: au Webポータル（共同通信VIDEO）
+    date: 2026-11-09
+    language: ja
 open_questions:
   - The page gives the man's age as 31 in the lead and 32 in the third paragraph; both are reported.
   - No exact date is given for the arrest or for the July 2026 raid in Honjo; July 2026 is used as the incident date and 9 November 2026 is the date of publication.
@@ -67,6 +77,9 @@ open_questions:
   - The street value of the cannabis is given as about 37 million yen, inside a total police valuation of more than 290 million yen that also includes stimulants, ketamine, cocaine and MDMA.
   - The FNN page and the dmenu/Kansai Television page carry the same text from the same broadcaster, so they are not independent accounts of the event.
   - The lead photograph on the FNN page carries no separate caption describing what it shows.
+  - Kyodo gives no exact day for the July raid and calls the site a house (住宅); 1 July remains the incident date standing in for the month.
+  - Kyodo names the drugs found as stimulants, dried cannabis and others but gives no total weight for the non-cannabis drugs.
+  - The au Web Portal page shows only the opening of the Kyodo bulletin before linking out, so its wording beyond the first line was checked against the fuller 47NEWS text of the same Kyodo dispatch.
 ---
 
 Hyogo prefectural police in western Japan arrested a Vietnamese man of no fixed
@@ -84,13 +97,15 @@ Prefecture, and seized a large quantity of drugs. [@1,4]
 
 The seizure included about 2 kg of stimulants worth about 104 million yen at
 street prices and about 7.5 kg of cannabis worth about 37 million yen, alongside
-ketamine, cocaine and MDMA valued together at about 150 million yen. [@1,4] Police
+ketamine, cocaine and MDMA valued together at about 150 million yen. [@1,4,6] Police
 valued the whole haul at more than 290 million yen at street prices and
-displayed it to reporters. [@1,3] Police regard the arrested man as one member of
-the trafficking group and are investigating its operations. [@1,3] The man has
+displayed it to reporters. [@1,3,6] Police regard the arrested man as one member of
+the trafficking group and are investigating its operations. [@1,3,6] The man has
 said "I will keep silent" to investigators and has not answered questions. [@1,4]
 A photograph published with the Kansai Television account is captioned "Seized
 drugs etc. (Kasai police station, Hyogo)", placing the display of the drugs to
 reporters at Kasai police station. [@2]
 
 MBS put the street value of the drugs seized in the July 2026 raid at about 150 million yen. [@5]
+
+The man had already been indicted for offences including violating the Immigration Control Act. [@6] The re-arrest warrant alleges that between April and May he sent small amounts of MDMA and ketamine for profit to a man in Hyogo Prefecture. [@6] The bulletin reports the police announcement that the drugs were found and seized at a house in Honjo, Saitama Prefecture, in July. [@7]
