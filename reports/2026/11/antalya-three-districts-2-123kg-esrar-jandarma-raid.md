@@ -55,6 +55,11 @@ sources:
     publisher: Akdeniz Gerçek
     date: 2026-11-09
     language: tr
+  - title: 3 ilçede uyuşturucu operasyonu, 2 kilogram 123 gram esrar ele geçirildi
+    url: https://www.iha.com.tr/antalya-haberleri/3-ilcede-uyusturucu-operasyonu-2-kilogram-123-gram-esrar-ele-gecirildi-513445099
+    publisher: İhlas Haber Ajansı
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The article gives no calendar date for the searches; 9 November 2026 is its publication date and is used here as the incident date.
   - No names, ages or nationalities of the seven suspects were published, and no charges or case outcome were reported beyond the jailing of one suspect.
@@ -67,12 +72,25 @@ open_questions:
   - The submitted Son Dakika page reproduces the same İHA text as the Mersin Haber account already cited, so the two are not independent reporting of the operation.
   - The article gives no calendar date for the searches; 9 November 2026 is its publication date.
   - The tobacco operation is a separate non-cannabis component of the wider drive and is not counted in the cannabis figures.
+  - This is the agency page for the same İhlas Haber Ajansı dispatch already cited through other outlets, so it corroborates the existing account rather than confirming it independently.
+  - The page images are captioned only with the operation headline and name no photographer, so what exactly they depict beyond the operation cannot be verified from the text.
+media:
+  - kind: photo
+    url: https://www.iha.com.tr/antalya-haberleri/3-ilcede-uyusturucu-operasyonu-2-kilogram-123-gram-esrar-ele-gecirildi-513445099
+    media_url: https://cdn.iha.com.tr/Contents/images/2026/11/09/20261109aw828689-0.jpg
+    publisher: İhlas Haber Ajansı
+    caption: Photograph published by İhlas Haber Ajansı with its report on the Antalya gendarmerie searches in Döşemealtı, Aksu and Alanya, captioned with the operation and the 2 kg 123 g esrar seizure. No individual credit given.
+  - kind: photo
+    url: https://www.iha.com.tr/antalya-haberleri/3-ilcede-uyusturucu-operasyonu-2-kilogram-123-gram-esrar-ele-gecirildi-513445099
+    media_url: https://cdn.iha.com.tr/Contents/images/2026/11/09/20261109aw828689-1.jpg
+    publisher: İhlas Haber Ajansı
+    caption: Second photograph published by İhlas Haber Ajansı with the same report on the three-district Antalya operation and the 2 kg 123 g esrar seizure. No individual credit given.
 ---
 
 Gendarmes searched the homes of seven suspects in the districts of Döşemealtı,
-Aksu and Alanya in Antalya province. [@1,2,3] The searches were carried out on the
+Aksu and Alanya in Antalya province. [@1,2,3,4] The searches were carried out on the
 instructions of the Antalya and Alanya public prosecutor's offices. [@1]
-Officers seized 2 kilos 123 grams of esrar, the Turkish name for cannabis. [@1,2,3]
+Officers seized 2 kilos 123 grams of esrar, the Turkish name for cannabis. [@1,2,3,4]
 
 The same searches found 3 grams of cocaine. [@1,2] The searches also found 232
 pills of the synthetic drug Gerica and 63 other synthetic drug pills. [@1,2]
@@ -80,6 +98,6 @@ Officers seized a precision scale, two unlicensed handguns and 30 cartridges.
 [@1] Police also seized money described as proceeds of crime. [@1,2]
 
 One suspect was arrested and jailed by the court he was brought before; no
-charges were reported. [@1,2,3]
+charges were reported. [@1,2,3,4]
 
 The cannabis searches were part of a wider operation in six Antalya districts that also targeted smuggled tobacco in Kepez, Alanya and Gazipaşa. [@3] The tobacco searches were coordinated by the Antalya, Alanya and Gazipaşa public prosecutor's offices. [@3]
