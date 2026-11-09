@@ -35,6 +35,11 @@ media:
     media_url: https://elcordillerano-s3.cdn.net.ar/s3i233/2026/11/elcordillerano/images/02/85/08/2850842_d34a17f325e662cc3fc60bb197d2ab000fd7b7d88bf1d997aec06d8d800bee5a/md.webp
     publisher: Diario El Cordillerano
     caption: 'Photo published with the report on the Saturday afternoon checkpoint on Ruta 250. Photo: Diario El Cordillerano.'
+  - kind: photo
+    url: https://www.rionegro.com.ar/policiales/viajaban-por-una-ruta-de-rio-negro-rumbo-a-las-grutas-y-el-olfato-de-una-perra-dejo-al-descubierto-marihuana-4790619/
+    media_url: https://www.rionegro.com.ar/wp-content/uploads/2026/11/RN-41.jpg?w=920&h=520&crop=1
+    publisher: Diario Río Negro
+    caption: 'Photo published with the report, captioned as Mora, the dog that detected marijuana during the checkpoint on Ruta 250. Photo: gentileza (courtesy).'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0e60d87c8a462595b26eac14b466f449
@@ -50,30 +55,37 @@ sources:
     publisher: 7enPunto
     date: 2026-11-08
     language: es
+  - title: Viajaban por una ruta de Río Negro rumbo a Las Grutas y el olfato de una perra dejó al descubierto marihuana
+    url: https://www.rionegro.com.ar/policiales/viajaban-por-una-ruta-de-rio-negro-rumbo-a-las-grutas-y-el-olfato-de-una-perra-dejo-al-descubierto-marihuana-4790619/
+    publisher: Diario Río Negro
+    date: 2026-11-09
+    language: es
 open_questions:
   - No weight, count or field-test result for the buds in the bag was published, so no cannabis quantity is recorded.
   - The reports say the checkpoint was on Saturday around 15:20 and were published on Sunday 8 November 2026, so Saturday 7 November 2026 is used as the incident date.
   - The driver was notified and the substance seized, but no arrest, charge or court outcome beyond the preliminary file was reported.
   - The substance was described only as plant material similar to marijuana after the dog's alert; no laboratory confirmation was reported.
+  - Diario Río Negro writes that the check took place on 'el pasado sábado 9 de noviembre', but 9 November 2026 was a Monday and the article is dated 9 November 2026; the earlier accounts date the checkpoint to Saturday 7 November, which the report uses.
+  - The Río Negro page describes only buds of plant material similar to marijuana, with no weight, field-test result or laboratory confirmation.
+  - No arrest, charge or court outcome beyond the preliminary file was reported.
 ---
 
 Police from Seguridad Vial, Toxicomanía and the División de Planta Automotor ran
 a joint vehicle checkpoint on Ruta Nacional 250 near Pomona with the
-drug-detection dog Mora. [@1] The checkpoint took place around 15:20 on Saturday
-at kilometre 258 of the route. [@1] The car involved was travelling from Villa
+drug-detection dog Mora. [@1,3] The checkpoint took place around 15:20 on Saturday
+at kilometre 258 of the route. [@1,3] The car involved was travelling from Villa
 Regina toward Las Grutas when it was intercepted on Ruta Nacional 250 near
-Pomona. [@2] Officers stopped a Peugeot 308 carrying two men aged 27 and 26,
-both domiciled in Villa Regina. [@2]
+Pomona. [@2,3] Officers stopped a Peugeot 308 carrying two men aged 27 and 26,
+both domiciled in Villa Regina. [@2,3]
 
 The Sección Canes inspected the outside of the vehicle with Mora, whose positive
-marking alerted officers to possible narcotics inside. [@1] When asked if he
+marking alerted officers to possible narcotics inside. [@1,3] When asked if he
 carried any substance, the driver said yes and voluntarily showed a bag holding
-several buds of plant material similar to marijuana. [@1]
+several buds of plant material similar to marijuana. [@1,3]
 
 Federal prosecutor Facundo Lencinas ordered the substance seized and the driver
-notified, and Toxicomanía staff attended to complete the proceedings. [@1] The
+notified, and Toxicomanía staff attended to complete the proceedings. [@1,3] The
 case opened as a preliminary file for violation of National Law 23.737 under the
-Federal Court of Roca. [@1] The checkpoint was part of coordinated prevention
+Federal Court of Roca. [@1,3] The checkpoint was part of coordinated prevention
 work on Río Negro routes using specialised staff and detector dogs to place
 suspected drug transport at the disposal of the courts. [@2]
-
