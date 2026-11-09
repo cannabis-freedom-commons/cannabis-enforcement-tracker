@@ -45,6 +45,11 @@ media:
     media_url: https://www.limpopomirror.co.za/media/r/article-images/3bfad276-5fff-4713-af64-55c391a62838/0.8115343029934308.jpg?width=896&resize=contain&quality=82
     publisher: Limpopo Mirror
     caption: 'The 14 bags of dagga recovered from the red SUV during the search on the R81 at Ximuwini, Malamulele. Photo: Limpopo Mirror / supplied'
+  - kind: photo
+    url: https://www.atnews.co.za/r600-000-worth-of-dagga-seized-in-malamulele-55-year-old-suspect-arrested/
+    media_url: https://www.atnews.co.za/wp-content/uploads/2026/11/Dagga-1024x500.jpg
+    publisher: African Times News
+    caption: 'The bags of dagga found during the joint police operation on the R81 at Ximuwini (Baobab tree), Malamulele. Photo: SAPS'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: dcbf43a0723c788ef3a66874be6d8d76
@@ -74,6 +79,10 @@ sources:
     url: https://www.africaninsider.com/news/man-55-arrested-with-dagga-worth-more-than-half-a-million-rand/
     publisher: African Insider
     date: 2026-11-09
+  - title: R600 000 Worth of Dagga Seized in Malamulele, 55-year Old Suspect Arrested - African Times News
+    url: https://www.atnews.co.za/r600-000-worth-of-dagga-seized-in-malamulele-55-year-old-suspect-arrested/
+    publisher: African Times News
+    date: 2026-11-09
 open_questions:
   - No weight was given for the dagga; only the police estimate of an R662,400 street value was published.
   - The outcome of the 9 November 2026 court appearance is not reported.
@@ -86,6 +95,8 @@ open_questions:
   - The African Times article is a one-minute read that gives no weight for the dagga and no outcome of the 9 November 2026 court appearance.
   - African Insider attributes the R662,400 figure to SAPS without naming a spokesperson, so it does not independently confirm the value beyond the police statement.
   - The African Insider account carries no weight for the dagga, like the reports already cited.
+  - The African Times headline gives the haul as R600,000 while its own body and the police estimate give R662,400.
+  - Like the report's existing sources, this account reproduces the Limpopo SAPS statement issued by Colonel Malesela Ledwaba, so it is not an independent account.
 ---
 
 Police arrested a 55-year-old man on Sunday 8 November 2026 at about 09:00
@@ -93,9 +104,9 @@ during a joint operation along the R81 road at Ximuwini, Malamulele, in the
 Vhembe District of Limpopo. [@1,6] Officers stopped and searched a red SUV and
 found 14 plastic refuse bags containing dagga inside. [@1,3,4,5,6] Limpopo police
 spokesperson Colonel Malesela Ledwaba said the dagga had an estimated street
-value of R662,400. [@1,4,5,6]
+value of R662,400. [@1,4,5,6,7]
 
-The suspect was arrested and detained at Malamulele Police Station. [@2,3,4,5,6] He was
+The suspect was arrested and detained at Malamulele Police Station. [@2,3,4,5,6,7] He was
 expected before the Malamulele Magistrate's Court on Monday 9 November,
 following his arrest for dealing in dagga. [@2,4,5,6]
 
@@ -103,3 +114,5 @@ Limpopo police commissioner Lieutenant General Jan Scheeper praised the
 operational team members at Malamulele for their commitment and vigilance. [@1,6]
 Dagga is the South African term for cannabis, and the police gave dealing in
 dagga as the alleged offence behind the arrest. [@1]
+
+Officers stopped and searched a red SUV at approximately 09:00, uncovering 14 plastic refuse bags filled with dagga. [@7]
