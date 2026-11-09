@@ -42,6 +42,10 @@ sources:
     publisher: Antigua Observer Newspaper
     archived: https://web.archive.org/web/20250320111239id_/https://antiguaobserver.com/12-pounds-of-cannabis-seized-at-general-post-office/
     date: 2023-10-04
+  - title: 12 Pounds of Cannabis Seized at General Post Office
+    url: https://antigua.news/2023/10/04/12-pounds-of-cannabis-seized-at-general-post-office
+    publisher: Antigua News
+    date: 2023-10-04
 open_questions:
   - No arrest, charge or court outcome was reported; the packages were taken for further investigation.
   - The article does not say whether the $72,000 estimate is in Eastern Caribbean or another dollars, so it is recorded as EC dollars, the currency Antigua uses.
@@ -49,15 +53,16 @@ open_questions:
   - The article gives no detail on the parcels' origin or destination, and does not say whether they were sent by post or bound for posting.
   - The featured photo carries no caption or credit naming this seizure, so no media entry is included.
   - This General Post Office seizure is separate from a February 2023 seizure at the same office reported as part of a three-seizure week; no source links the two apart from the shared location.
+  - Antigua News gives the currency of the $72,000 estimate only as a dollar sign, as the existing report already notes.
+  - The submitted page carries an uncaptioned photo of a post office building, so no media entry is added.
 ---
 
 Police and customs officers seized 12 pounds of cannabis at Antigua's General
-Post Office during a drug operation on Monday 2 October 2023. [@1] The 12 pounds
+Post Office during a drug operation on Monday 2 October 2023. [@1,2] The 12 pounds
 is about 5.44 kg. [@1]
 
 During the search officers found 12 packages of cannabis inside three separate
-boxes. [@1] The cannabis was estimated to be worth $72,000. [@1]
+boxes. [@1,2] The cannabis was estimated to be worth $72,000. [@1,2]
 
 The packages were taken to the police headquarters for further investigation.
-[@1]
-
+[@1,2]
