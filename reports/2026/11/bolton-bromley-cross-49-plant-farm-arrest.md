@@ -89,6 +89,10 @@ sources:
     url: https://uk.news.yahoo.com/woman-69-arrested-huge-cannabis-102609469.html
     publisher: Yahoo News UK
     date: 2026-11-09
+  - title: 69 year old woman arrested after police discover cannabis farm in Bromley Cross
+    url: https://aboutmanchester.co.uk/69-year-old-woman-arrested-after-police-discover-cannabis-farm-in-bromley-cross/
+    publisher: About Manchester
+    date: 2026-11-09
 open_questions:
   - Only one accessible source for this event was found; its account reproduces a Bolton Police statement and no police statement page or second outlet could be opened.
   - The article gives no weight for the plants, no street value for the drug and no detail of how the grow was set up.
@@ -101,18 +105,20 @@ open_questions:
   - No court step beyond release on bail pending further enquiries has been reported.
   - The article does not say whether the property was a house, flat or other building, nor how the grow was set up.
   - No weight, street value or growing environment for the plants was reported.
+  - The About Manchester page does not name the police force or give the date of the search or arrest; 4 November 2026 in the existing report comes from the Manchester Evening News.
+  - The page's only image is an uncaptioned file (IMG_8568) posted on About Manchester that cannot be confirmed to be the GMP handout already listed in the report, so no media entry is added.
 ---
 
 A 69-year-old woman was arrested on suspicion of producing cannabis and
 abstracting electricity after police found a cannabis farm at a property in
-Bromley Cross, Bolton. [@1,2,3] Officers from the Bolton North Neighbourhood Team
+Bromley Cross, Bolton. [@1,2,3,5] Officers from the Bolton North Neighbourhood Team
 attended an address on Stonesteads Way on Wednesday, November 4, where a search
 revealed 49 cannabis plants. [@1,2,3,4]
 
-Police also recovered more than £25,000 in cash from the property. [@1,2,4] The
+Police also recovered more than £25,000 in cash from the property. [@1,2,4,5] The
 account came from a Bolton Police statement issued through Greater Manchester
 Police. [@1]
 
-The 69-year-old woman has been released on bail pending further enquiries. [@1,2,3,4]
+The 69-year-old woman has been released on bail pending further enquiries. [@1,2,3,4,5]
 
 Police also shared a picture of a sniffer dog at the scene alongside photographs of the cannabis farm. [@2]
