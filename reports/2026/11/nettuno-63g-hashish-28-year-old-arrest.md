@@ -56,6 +56,11 @@ sources:
     publisher: Mondoreale
     date: 2026-11-09
     language: it
+  - title: 'Nettuno, fermato dai Carabinieri con in auto un panetto di hashish: arrestato 28enne'
+    url: https://www.giornaleinfocastelliromani.it/nettuno-fermato-dai-carabinieri-con-in-auto-un-panetto-di-hashish-arrestato-28enne/
+    publisher: Il Giornale dei Castelli Romani
+    date: 2026-11-09
+    language: it
 open_questions:
   - The article was published on 9 November 2026 and says the stop happened the previous morning, so 8 November 2026 is used as the incident date.
   - The 60 grams in the car is described as approximate, so the 63-gram total combining it with the 3 grams at home is approximate.
@@ -65,14 +70,15 @@ open_questions:
   - The page photo caption identifies it only as the seized drugs, with no credit or confirmation that it is an official handout.
   - The Mondoreale article gives no separate date for the stop, saying only it happened 'nei giorni scorsi' (in recent days), so the existing report's approximate incident date is retained.
   - The page's only image is a generic illustration stored in a 2021 upload folder, so no media entry is added.
+  - The Adnkronos-sourced article gives no date for the stop beyond its 9 November 2026 publication date.
 ---
 
 Carabinieri stopped a vehicle in via Padre Liberati in Nettuno during a targeted
 check. [@1,2] The driver was a 28-year-old of Romanian origin living in Lariano
-who was already known to police for specific offences. [@1,2] Investigators
+who was already known to police for specific offences. [@1,2,3] Investigators
 consider him seriously suspected of possession of drugs for sale. [@1,2] He was
 taken to the Velletri prison and remains at the disposal of the judicial
-authority. [@1,2]
+authority. [@1,2,3]
 
 Hidden in the car, officers found a block of hashish alongside several
 ready-portioned wraps, weighing about 60 grams in total. [@1,2] Officers also
@@ -85,3 +91,5 @@ check. [@1,2] Officers ordered the driver to stop after his behaviour aroused
 suspicion and searched first the driver and then the car interior. [@1] The
 arrest came amid intensive checks by the Anzio company on the Roman coast using
 roadblocks, searches and monitoring of sensitive points. [@1]
+
+The search of the house found another 3 grams of hashish, a precision scale and packaging material, and scissors with hashish residue; officers also found hashish residue on a pair of scissors. [@3]
