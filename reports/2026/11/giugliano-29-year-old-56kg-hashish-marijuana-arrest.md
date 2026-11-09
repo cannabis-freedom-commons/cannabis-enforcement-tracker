@@ -101,6 +101,11 @@ sources:
     publisher: Videoinformazioni
     date: 2026-11-09
     language: it
+  - title: Hashish Frozen, svapo illegali e un’auto clonata, arrestato 29enne
+    url: https://www.canale21.it/hashish-frozen-svapo-illegali-e-unauto-clonata-arrestato-29enne/
+    publisher: Canale 21
+    date: 2026-11-09
+    language: it
 open_questions:
   - Only one source for the event could be opened; the submitted page is an automatically translated English version of an Il Mattino article.
   - The article gives no date or time for the search; 9 November 2026 is its publication date and is used as the incident date.
@@ -127,13 +132,17 @@ open_questions:
   - Videoinformazioni gives no separate date for the search; 9 November 2026 is its publication date and the date used for the incident.
   - Videoinformazioni names the suspect in full, but the report records only his age.
   - The Videoinformazioni page photo, captioned only with the story headline, is a different image file from the ones already listed and is not confirmed to show which items it depicts, so no media entry is added.
+  - Canale 21 repeats the Carabinieri account, so it corroborates the existing report rather than providing independent reporting of the raid.
+  - Canale 21 gives no separate date for the search; 9 November 2026 is its publication date.
+  - Canale 21 names no value for the hashish or marijuana and gives no separate weight for the vapes.
+  - The submitted page's header photo is titled generically for Carabinieri and hashish with the story headline as its only alt text, and it is not confirmed which seized items it shows, so no media entry is added.
 ---
 
 Officers of the operational unit of the Carabinieri company in Giugliano in
 Campania raided the home of a 29-year-old man, already known to law enforcement.
-[@1,3,4,6,8] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
-of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5,6,7] In
-the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5,6,8]
+[@1,3,4,6,8,9] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
+of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5,6,7,9] In
+the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5,6,8,9]
 
 The haul included marijuana vapes that had arrived from California, where the
 account says they are legal, in colourful packaging featuring characters from
@@ -142,12 +151,14 @@ switchblade and several vacuum-packing machines. [@1,4,5] In the garage police f
 a Range Rover Sport worth 150,000 euros whose plates and chassis number had been
 cloned from another vehicle, and seized it for investigation. [@1,5]
 
-The 29-year-old was arrested and taken to prison. [@1,2,3,4,5,6,7,8] He is charged with
+The 29-year-old was arrested and taken to prison. [@1,2,3,4,5,6,7,8,9] He is charged with
 illegal possession of narcotics, unlawful possession of weapons and receiving
-stolen goods. [@1,4,5,8]
+stolen goods. [@1,4,5,8,9]
 
 Inside the home the officers found the parcel that had come from the United States. [@2]
 
 Some of the colourful bags and packets were decorated with characters from the animated series Dragon Ball and with exotic fruit. [@5]
 
 The Videoinformazioni account describes the hashish as more than a kilo and a half of "frozen" hashish in blocks and small bags hidden in the kitchen freezer, a slightly lower weight than the 1.639 kilograms in the existing report. [@8] Videoinformazioni reports that the officers found the packaging machines and the switchblade during the bedroom search. [@8]
+
+The Carabinieri said the car's control units were being changed and its alarms removed, and that it was close to being able to circulate without being detected. [@9]
