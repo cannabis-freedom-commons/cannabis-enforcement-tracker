@@ -76,6 +76,11 @@ sources:
     publisher: صحيفة سبق الإلكترونية
     date: 2026-11-09
     language: ar
+  - title: بالفيديو.. إحباط تهريب 5.6 كيلوغرامات «حشيش عشبي» داخل طرد بريدي بوصف «مصابيح سقف»
+    url: https://www.alanba.com.kw/1384402
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-10
+    language: ar
 open_questions:
   - The source gives no separate date for the inspection; 9 November 2026 is its publication date and stands in for the incident date.
   - The substance is described as suspected marijuana, called herbal hashish in Arabic; no laboratory confirmation was reported.
@@ -91,18 +96,28 @@ open_questions:
   - The Kuwait News page names the parcels' origin only as an African country, while the Sabq account of the same customs statement and the existing report name South Africa.
   - The page gives no separate date for the customs inspection; 9 November 2026 is its publication date.
   - The page's single photograph is uncaptioned and uncredited and is not shown to depict these parcels, so it is left out.
+  - Al-Anba gives no separate date for the customs inspection; 10 November 2026 is its publication date.
+  - Al-Anba publishes the seizure on 10 November 2026, a day after the other accounts of the same customs statement, and repeats the same General Directorate of Customs wording, so it is not independent reporting.
+  - The Al-Anba headline says 5.6 kilograms while its text and the other accounts give 5.650 kilograms; the text figure is used.
+  - Al-Anba gives no arrests, suspects, nationalities, charges or value estimate.
+media:
+  - kind: photo
+    url: https://www.alanba.com.kw/1384402
+    media_url: https://media.alanba.com.kw/articlefiles/2026/11/1384402-1.jpg?crop=(0,4,253,416)&cropxunits=253&cropyunits=450&w=770
+    publisher: جريدة الأنباء الكويتية
+    caption: Photo captioned 'المواد المخدرة هربت في طرد جوي' (the drugs were smuggled in an air parcel), published with Al-Anba's account of the air cargo customs seizure. No credit given.
 ---
 
 Kuwait's Air Cargo Customs Department said its inspection and deposit control
-inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7] The parcels
+inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8] The parcels
 carried a substance suspected to be marijuana, described as herbal hashish,
-weighing 5.650 kilograms in total. [@1,2,3,4,5,6]
+weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8]
 
 The parcels had been declared as ceiling lamps, and the inspectors found the
-suspected substance inside them after searching. [@1,2,3,4,5] After the seizure, the
+suspected substance inside them after searching. [@1,2,3,4,5,8] After the seizure, the
 customs search and investigation department coordinated with the Interior
 Ministry's General Department for Drug Control to complete the legal procedures
-for the seized parcels. [@1,2,3,4,5]
+for the seized parcels. [@1,2,3,4,5,8]
 
 The General Directorate of Customs said it would keep blocking drug-smuggling
 attempts through customs posts and working with security agencies. [@1]
