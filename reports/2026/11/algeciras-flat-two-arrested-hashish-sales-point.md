@@ -76,6 +76,11 @@ sources:
     publisher: Diario Área Campo de Gibraltar
     date: 2026-11-09
     language: es
+  - title: ¡Golpe al menudeo en Algeciras! Dos detenidos y más de 1,2 kilos de cocaína y hachís intervenidos
+    url: https://www.portaldecadiz.com/provinciacadiz/174518-golpe-al-menudeo-en-algeciras-dos-detenidos-y-mas-de-1-2-kilos-de-cocaina-y-hachis-intervenidos
+    publisher: Portal de Cádiz
+    date: 2026-11-09
+    language: es
 open_questions:
   - The reports give no date for the search; 9 November 2026 is the publication date of all three accounts and is used as the incident date.
   - The hashish weight (885 g) is the police figure, with no laboratory confirmation reported.
@@ -87,18 +92,20 @@ open_questions:
   - Cadena SER gives no date for the search either; 9 November 2026 is the publication date used for the incident.
   - Cadena SER, like the earlier reports, gives no street or neighbourhood for the flat and names neither detainee.
   - Diario Área gives no date for the search; 9 November 2026, its publication date, is the only date known.
+  - Portal de Cádiz reproduces the same Policía Nacional de Cádiz account as the outlets already cited and cites no independent reporting.
+  - Portal de Cádiz gives no separate date for the search; 9 November 2026, its publication date, is the only date it states.
 ---
 
 Policía Nacional officers arrested two people, the residents of a flat in
-Algeciras, as suspected perpetrators of a crime against public health. [@1,4,5]
+Algeciras, as suspected perpetrators of a crime against public health. [@1,4,5,6]
 Investigators began watching the flat after a constant stream of visitors who
 stayed only a few minutes, a pattern police said matched a small-scale drug
-sales point. [@2,5]
+sales point. [@2,5,6]
 
 The operation ended with the entry and search of the flat, carried out as part
 of police operations against drug trafficking in the Campo de Gibraltar. [@1]
 Inside, officers found 386 grams of cocaine and 885 grams of hashish, the
-hashish in formats including slabs and bellotas, egg-shaped lumps. [@2,4,5] Police
+hashish in formats including slabs and bellotas, egg-shaped lumps. [@2,4,5,6] Police
 described the seized substances as more than 1.2 kilos of drugs, both in
 sizeable quantities and in individual doses prepared for sale. [@1]
 
@@ -107,3 +114,5 @@ within operations intended to reduce drug dealing in the Campo de Gibraltar area
 around the Bay of Algeciras. [@3]
 
 Police also found 91 doses of hashish in small bags prepared for sale. [@4,5]
+
+Both detainees were the residents of the flat that was searched. [@6]
