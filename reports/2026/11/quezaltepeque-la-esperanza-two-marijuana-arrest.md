@@ -1,18 +1,21 @@
 ---
 code: BCV9JP
 added_at: "2026-11-05T08:20:50.128308Z"
-date: 2026-02-09
+date: 2026-11-09
 country: sv
 place: colonia La Esperanza, Quezaltepeque district, La Libertad Norte
 coordinates: [13.8303, -89.2731]
 precision: district
-type: arrest
-also: [seizure]
-title: Two arrested with marijuana and scales in a car in Quezaltepeque
-summary: >-
-  El Salvador's National Civil Police arrested Guillermo Aldair Laureano Meléndez and Héctor Wilfredo Jovel in the colonia La Esperanza, Quezaltepeque, La Libertad Norte, on the night of 9 February 2026, seizing marijuana, two digital scales and their car. Both were to be referred to court for illicit drug trafficking, with no weight or court outcome reported.
+type: sentence
+also: [seizure, arrest, prosecution]
+title: Santa Tecla court gives Quezaltepeque trafficker ten years over 386 grams
+summary: The Second Sentencing Court of Santa Tecla sentenced Guillermo Aldair Laureano Meléndez to ten years in prison for illicit drug trafficking over the 386.2 grams of marijuana police seized from him in the colonia La Esperanza, Quezaltepeque, on 9 February 2026. In the same case the court gave Héctor J. E. three years for possession of 34.8 grams, replaced by community work.
 figures:
-  arrested: 2
+    arrested: 2
+    charged: 2
+    kg_seized: 0.421
+    prison: 10 years
+    convicted: 2
 media:
   - kind: photo
     url: https://www.infobae.com/el-salvador/2026/02/11/las-recientes-capturas-muestran-la-lucha-legal-contra-el-trafico-de-drogas-en-el-salvador/
@@ -25,21 +28,33 @@ media:
     publisher: Diario1
     caption: 'Police photo captioned as two men captured with several portions of marijuana in Quezaltepeque. Photo: PNC via Diario1'
 details:
-  activity: [trafficking]
-  agency_types: [police]
-  case_stage: investigation
-  date_precision: exact
-  products:
-    - {product: flower}
-  setting: [street]
+    activity: [trafficking, possession]
+    agency_types: [court]
+    case_stage: sentenced
+    date_precision: exact
+    products:
+        - {product: flower, kg: 0.3862}
+        - {product: flower, kg: 0.0348}
+    setting: [street]
+    agencies: [Tribunal Segundo de Sentencia de Santa Tecla]
+    charges: [tráfico ilícito de drogas (illicit drug trafficking), posesión y tenencia de drogas (possession and holding of drugs)]
+    sentence_types: [prison, community-service]
+    region: La Libertad
 data_sources:
-  details.activity: [3, 2]
-  details.agency_types: [2, 1, 3]
-  details.case_stage: [2, 1, 3]
-  details.date_precision: [2, 1, 3]
-  details.products: [3]
-  details.setting: [2, 1, 3]
-  figures.arrested: [2, 1, 3]
+    details.activity: [4]
+    details.agency_types: [4]
+    details.case_stage: [4]
+    details.date_precision: [2, 1, 3]
+    details.products: [4]
+    details.setting: [4]
+    figures.arrested: [2, 1, 3]
+    details.agencies: [4]
+    details.charges: [4]
+    details.sentence_types: [4]
+    figures.charged: [4]
+    figures.convicted: [4]
+    figures.kg_seized: [4]
+    figures.prison: [4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 06b10ed7627d06badee3f13cbfcae309
@@ -60,6 +75,16 @@ sources:
     publisher: Diario1
     date: 2026-02-10
     language: es
+  - title: Tribunal impone diez años de cárcel a implicado en tráfico de marihuana
+    url: https://lapagina.com.sv/nacionales/tribunal-impone-diez-anos-de-carcel-a-implicado-en-trafico-de-marihuana/
+    publisher: Diario La Página
+    date: 2026-11-09
+    language: es
+  - title: Condenado por dedicarse al tráfico de drogas en Quezaltepeque
+    url: https://elblog.com/condenado-por-dedcarse-al-trafico-de-drogas-en-quezaltepeque/
+    publisher: El Blog
+    date: 2026-11-09
+    language: es
 open_questions:
   - No weight or value was published for the marijuana portions, so only the two arrests are recorded as a figure.
   - The incident date of 9 February 2026 comes from the night of Monday described by Radio YSKL and Infobae's explicit date; the police announcement was published on 10 February.
@@ -69,6 +94,10 @@ open_questions:
   - The same roundup reports a separate Ilopango arrest of Alejandro Javier Durón Ramos with ten jars of marijuana and other drugs, and a separate Sonsonate arrest; both are different events left out of this report.
   - The roundup's general account of drug penalties does not establish the sentence in this case.
   - 'Left out, as its quotation was not found in Infobae: Under El Salvador''s Law Regulating Drug Activities, holding drugs in order to carry out trafficking activity carries six to ten years in prison and a fine of ten to two thousand urban minimum wages.'
+  - La Página calls the co-defendant Héctor J. E.; the earlier arrest reports named him Héctor Wilfredo Jovel, which the court account abbreviates.
+  - The two sources do not say whether the ten-year term carries a fine or whether either sentence can be appealed.
+  - The court's own notice (Centros Judiciales El Salvador) was seen only as a search result and was not opened.
+  - The La Página article is illustrated with a police arrest photograph whose caption only repeats the headline; it is not established to show the arrest or the sentence.
 ---
 
 El Salvador's National Civil Police arrested Guillermo Aldair Laureano Meléndez
@@ -85,3 +114,4 @@ the scales were suspected of being used to sell the drug. [@3]
 Police said both men would be referred to court on a charge of illicit drug
 trafficking. [@2]
 
+The Second Sentencing Court of Santa Tecla sentenced Guillermo Aldair Laureano Meléndez to ten years in prison for illicit drug trafficking after evaluating the evidence presented at the public hearing. [@4] In the same case the court sentenced Héctor J. E. to three years in prison for possession and holding of drugs. [@4] His term was replaced by work of public utility, so he will not serve it in a prison but through activities set by the corresponding authorities. [@4] Laboratory analysis confirmed that the marijuana seized from Laureano Meléndez weighed 386.2 grams in total, and police also took a mobile phone, a vehicle and two digital scales from him. [@4] The arrest was made during a preventive police patrol in the colonia La Esperanza, Quezaltepeque, La Libertad Norte, on 9 February 2026. [@4] El Blog reported the same ten-year sentence from the Santa Tecla court, and that the co-defendant had 34.8 grams of marijuana in his possession. [@5]
