@@ -36,6 +36,11 @@ media:
     media_url: https://www.citinewsroom.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-162532-750x375.png
     publisher: Citinewsroom
     caption: The page picture carried by Citi Newsroom with the NACOC destruction story; it has no listed caption or photo credit, so it is not established to show the burning at Bundase.
+  - kind: photo
+    url: https://ghanaiantimes.com.gh/10m-worth-of-illicit-drugs-destroyed-by-nacoc/
+    media_url: https://ghanaiantimes.com.gh/wp-content/uploads/2026/11/NACOC-The-illicit-drugs-being-distroyed-700x470.jpg
+    publisher: Ghanaian Times
+    caption: Captioned “The illicit drugs being distroyed”, showing the NACOC consignment at the Bundase destruction; no photo credit is given.
 details:
   activity: [trafficking]
   agencies: [gh-nacoc]
@@ -109,6 +114,10 @@ sources:
     url: https://www.gbcghanaonline.com/general/nacoc-destroys-seized-illicit-drugs-worth-over-10-million/2026/
     publisher: GBC Ghana Online
     date: 2026-11-06
+  - title: $10m worth of illicit drugs destroyed by NACOC
+    url: https://ghanaiantimes.com.gh/10m-worth-of-illicit-drugs-destroyed-by-nacoc/
+    publisher: Ghanaian Times
+    date: 2026-11-09
 open_questions:
   - The article gives no separate date for the destruction; 5 November 2026, its publication date, is used as the incident date.
   - No arrests, charges or court outcomes connected with this destruction were reported.
@@ -129,12 +138,15 @@ open_questions:
   - The page is dated 5 November 2026 and gives no other date for the destruction.
   - The submitted page carries no article body beyond the headline and date; its supporting passage is the headline itself, so it corroborates only the overall value of the destruction.
   - The TV3 video item gives no location, no cannabis weight and no break-down of the substances destroyed.
+  - The article gives no separate date for the destruction, saying only that the exercise took place on “Thursday”; 5 November 2026 is used as the incident date, as in the existing report.
+  - No arrests, charges or court outcomes connected with the destruction are reported.
+  - The page photo is captioned only “The illicit drugs being distroyed” and carries no photographer or agency credit.
 ---
 
 The Narcotics Control Commission (NACOC) destroyed seized narcotic drugs at
 Bundase in an exercise with an estimated street value of more than US$10
 million. [@1,2,3,5,6,8,9,10,11,12] The destroyed stock included 564.39 kilograms of cannabis, valued
-at US$112,878. [@1,2,3,5,6,7,8,10,12] The same destruction included 4,730,100 capsules and tablets
+at US$112,878. [@1,2,3,5,6,7,8,10,12,13] The same destruction included 4,730,100 capsules and tablets
 of synthetic opioids, estimated at US$5,912,625, and 338,000 bottles of
 codeine-infused cough mixture, valued at US$4,225,000. [@1,2,5,6] The Ghana Standards
 Authority verified the authenticity of the seized substances before destruction,
@@ -150,7 +162,7 @@ intensify efforts to tackle the narcotics trade. [@1,5] He said NACOC would not
 give up in the face of challenges. [@1,10] He said the commission would pursue
 traffickers wherever they were and believed it would win the fight. [@1,10]
 
-The seized drugs had been cleared for destruction through court orders. [@3,7,12] The destruction took place at the Bundase Infantry Training School in the Greater Accra Region on 5 November 2026. [@3,7,9,12] NACOC put the combined value of the three categories at US$10,250,503. [@3,7]
+The seized drugs had been cleared for destruction through court orders. [@3,7,12] The destruction took place at the Bundase Infantry Training School in the Greater Accra Region on 5 November 2026. [@3,7,9,12,13] NACOC put the combined value of the three categories at US$10,250,503. [@3,7,13]
 
 Mantey said the Lebanon incident should not be viewed as evidence of institutional failure. [@5] NACOC did not disclose exactly where the destroyed substances had been seized. [@5]
 
@@ -159,3 +171,5 @@ The drugs destroyed had been confiscated during NACOC's anti-drug operations. [@
 Mantey urged the public to report suspicious activity to the Commission and said its doors were open to anyone with information on drug trafficking. [@8]
 
 Mantey said collaborating institutions gave the exercise transparency and accountability in handling the exhibits. [@10] Mantey said some international partners had described Ghana as increasingly becoming a “no-go area” for drug traffickers after recent enforcement successes. [@10] Mantey said NACOC held more than 10 million tramadol tablets awaiting court processes for destruction. [@10] He said details of some operations were withheld because of the sensitivity and complexity of the investigations. [@10]
+
+The Commission said the exercise formed part of its efforts to rid the country of illicit drugs seized in its enforcement operations and to stop them re-entering circulation. [@13]
