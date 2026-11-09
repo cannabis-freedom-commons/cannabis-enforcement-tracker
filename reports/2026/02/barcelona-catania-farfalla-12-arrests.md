@@ -26,6 +26,7 @@ details:
   environment: [indoor]
   products: [{product: hashish}, {product: flower}]
   setting: [field, home]
+  route: {from: [es], to: [it]}
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
@@ -35,6 +36,7 @@ data_sources:
   details.environment: [1, 2]
   details.products: [1, 2]
   details.setting: [1, 2]
+  details.route: [1, 2]
   figures.arrested: [1, 2]
   figures.plants_destroyed: [1, 2]
 status: verified

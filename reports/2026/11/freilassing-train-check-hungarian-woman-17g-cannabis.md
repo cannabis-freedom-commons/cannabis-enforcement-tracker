@@ -21,6 +21,7 @@ details:
     - {product: flower, kg: 0.017}
   activity: [possession, smuggling]
   setting: [vehicle]
+  route: {from: [de], to: [at]}
   charges: [attempted export of cannabis]
   case_stage: investigation
   period: {start: 2026-11-04, end: 2026-11-04}
@@ -35,6 +36,7 @@ data_sources:
   details.period: [1]
   details.products: [1]
   details.setting: [1]
+  details.route: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified

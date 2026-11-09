@@ -25,6 +25,7 @@ details:
   environment: [outdoor]
   products: [{product: flower, kg: 100}]
   setting: [home]
+  route: {from: [gh], to: [tg]}
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [1, 2, 3]
@@ -33,6 +34,7 @@ data_sources:
   details.environment: [1]
   details.products: [1, 2, 3]
   details.setting: [1, 2]
+  details.route: [2]
   figures.arrested: [1]
   figures.kg_seized: [1, 2]
   figures.value: [1, 2]

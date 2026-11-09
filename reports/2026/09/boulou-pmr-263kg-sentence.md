@@ -33,6 +33,7 @@ details:
   products: [{product: flower, kg: 263}]
   sentence_types: [prison]
   setting: [vehicle, prison]
+  route: {from: [es], to: [fr]}
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
@@ -42,6 +43,7 @@ data_sources:
   details.products: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
+  details.route: [1, 2]
   figures.fine: [1, 2]
   figures.kg_seized: [1, 2]
   figures.prison: [1, 2]

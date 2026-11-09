@@ -20,12 +20,14 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 7}]
   setting: [vehicle]
+  route: {from: [ng], to: [cm]}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1]
   details.products: [1, 2]
   details.setting: [1, 2]
+  details.route: [1]
   figures.arrested: [1, 2]
 media:
   - kind: photo
