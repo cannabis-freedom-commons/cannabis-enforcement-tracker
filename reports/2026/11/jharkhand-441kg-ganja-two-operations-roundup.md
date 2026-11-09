@@ -60,6 +60,10 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-09
     language: hi
+  - title: 441 kg of ganja worth Rs 2.2 crore seized in Jharkhand, 4 arrested
+    url: https://www.hindustantimes.com/cities/ranchi-news/441-kg-of-ganja-worth-rs-2-2-crore-seized-in-jharkhand-4-arrested-101794204011581.html
+    publisher: Hindustan Times / Press Trust of India
+    date: 2026-11-09
 open_questions:
   - The submitted page is a roundup of two separate operations with different dates and no single incident; 7 November 2026, the night of the Tatisilway arrest, is used as the incident date, while the Garhwa recovery was on 8 November.
   - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
@@ -71,20 +75,21 @@ open_questions:
   - The opened ThePrint text reproduces only the Garhwa part of the PTI roundup; the Tatisilway arrest details come from the other sources cited in the existing report and are not restated here.
   - The Hindi account dates the Garhwa search to Sunday and the train arrest to Saturday night, matching the PTI roundup, while the Tatisilway case was registered on 8 November 2026, so the incident date of the roundup report is kept as 7 November.
   - The page's only image is labelled in Hindi as an AI-generated symbolic picture, so it does not show the event and no media entry is made.
+  - The Hindustan Times page carries the same automated PTI feed text as the other outlets already cited and states that it was generated from an agency feed without modifications, so it is a reprint rather than independent reporting.
 ---
 
 Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
 was seized in two separate operations in Jharkhand, officials said on 9 November
-2026. [@1,2,3,4]
+2026. [@1,2,3,4,5]
 
 In Garhwa district, police found 426 kg of ganja, valued at about 2.13 crore
 rupees, in a container truck parked near the Kalyanpur overbridge, and no one
-was arrested because the vehicle was empty. [@1,2,3]
+was arrested because the vehicle was empty. [@1,2,3,5]
 
 The Railway Protection Force arrested four interstate peddlers with 15 kg of
 ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway
 station on the night of 7 November, with the contraband valued at about 7.5 lakh
-rupees. [@1,2] Police said the four were taking the ganja from Balangir in Odisha
+rupees. [@1,2,5] Police said the four were taking the ganja from Balangir in Odisha
 to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi
 Government Railway Police. [@1]
 
