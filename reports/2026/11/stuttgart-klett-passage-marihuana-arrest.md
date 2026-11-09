@@ -51,22 +51,28 @@ sources:
     publisher: Stuttgarter Nachrichten
     date: 2026-11-09
     language: de
+  - title: 'Polizei Stuttgart: Staatsanwaltschaft und Polizei Stuttgart geben bekannt: Mutmasslicher Rauschgifth...'
+    url: https://www.nachrichten-heute.net/1783608-polizei-stuttgart-staatsanwaltschaft-und-polizei-stuttgart-geben-bekannt-mutmasslicher-rauschgifth-2.html
+    publisher: nachrichten-heute.net
+    date: 2026-11-09
+    language: de
 open_questions:
   - No weight or amount of the marijuana was published, so no cannabis quantity can be recorded, and there is no report of a search of the suspect or his home.
   - The identity of the 21-year-old buyer and whether he faced any action are not reported.
   - No charge, court case or outcome beyond the arrest warrant and pre-trial detention has been reported; the case was at the investigation stage.
   - The three accounts reproduce the same Stuttgart police statement; BW24 and Stuttgarter Nachrichten add no facts beyond it.
   - The photos on the cited pages are captioned as Symbolbild (stock images), so no media entry is included.
+  - No weight or amount of the marijuana was published in this account either, so no cannabis quantity can be recorded.
 ---
 
 Police officers in the Klett-Passage in Stuttgart-Mitte arrested a 40-year-old
-man on Friday evening, 6 November 2026, on suspicion of dealing drugs. [@2]
+man on Friday evening, 6 November 2026, on suspicion of dealing drugs. [@2,4]
 Police observed him at about 18.15 in the Klett-Passage allegedly selling
-marijuana to a 21-year-old man. [@2] Officers then stopped the suspect and
+marijuana to a 21-year-old man. [@2,4] Officers then stopped the suspect and
 arrested him while he was still at the scene. [@1]
 
 The man, a Moroccan national, was brought before a detention judge during
-Saturday, 7 November, at the request of the public prosecutor's office. [@2] The
+Saturday, 7 November, at the request of the public prosecutor's office. [@2,4] The
 judge issued an arrest warrant and put it into force, and the man is in custody.
 [@3]
 
@@ -74,4 +80,3 @@ The account was released by the Stuttgart public prosecutor's office and the
 Stuttgart police headquarters. [@1] The Klett-Passage is a shopping and
 pedestrian passage beneath Stuttgart's main railway station in Stuttgart-Mitte.
 [@1]
-
