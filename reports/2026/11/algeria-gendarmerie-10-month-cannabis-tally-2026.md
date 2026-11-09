@@ -99,6 +99,11 @@ sources:
     publisher: Vietnam.vn / VietnamPlus
     date: 2026-11-09
     language: ja
+  - title: 'Tin thế giới tối 9-11: Algeria triệt phá 186 đường dây ma túy, bắt giữ hơn 25.000 người'
+    url: https://baogialai.com.vn/tin-the-gioi-toi-9-11-algeria-triet-pha-186-duong-day-ma-tuy-bat-giu-hon-25000-nguoi-post604466.html
+    publisher: Báo Gia Lai điện tử
+    date: 2026-11-09
+    language: vi
 open_questions:
   - The 11-tonne kif figure is given as approximate (قرابة 11 طنا); the 27,270 kg cannabis total is the sum of that rounded figure and 16,270 kg of cannabis herb.
   - No date is given for any individual seizure; 7 November 2026 is the publication and announcement date and is used as the incident date for this 10-month tally.
@@ -135,6 +140,8 @@ open_questions:
   - This outlet adds no new cannabis detail beyond the existing report's sentences; its Algiers network passage (33 arrests and 176 kg of resin) also repeats the separately recorded Algiers operation.
   - This Japanese translation says the announcement was made at a meeting in the capital Algiers, while the existing report says it was made at a national forum at the National Army Club in Beni Messous, Algiers; the venue does not change the event.
   - The Japanese text describes the haul as the first ten months of 2026, matching the existing report; it gives no date for when the tally was announced beyond the 9 November 2026 publication date.
+  - The Constantine find of nearly 200 kg is described only as drugs and stimulants, so it is not counted as a cannabis figure.
+  - The page's lead photo is captioned as the US secretary of state at a White House briefing and the Algeria section carries a picture of Oran city, neither showing the tally, so no media entry is added.
 ---
 
 National Gendarmerie commander Maj. Gen. Ali Seydan said in Algiers that drugs
@@ -144,7 +151,7 @@ Seydan spoke alongside Justice Minister Lotfi Boujemaa at the opening of a
 national forum on the dimensions of drug use under traffic law 26-09, held at
 the National Army Club in Beni Messous. [@1,3,5] Gendarmerie units arrested 25,218
 people in the same effort, with 5,264 placed in detention, and dismantled 186
-networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11,12]
+networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11,12,13]
 
 During the first 10 months of 2026 the units seized about 11 tonnes of processed
 kif. [@1,2,3,4,5,7,9,10,12] In the same period they seized 16,270 kilograms of cannabis herb and
@@ -159,6 +166,6 @@ influence caused 161 fatal and 144 injury accidents. [@1,3,5]
 
 Seydan said the figures cover the Gendarmerie's own operations and do not include the results of other security services. [@6]
 
-At Oran, officers found two organised international criminal networks, seized 96 kg of cocaine and arrested 12 people. [@7,8] At Algiers, an operation against a cross-border network arrested 33 people and seized more than 1 million psychotropic tablets, 30 kg of cocaine and 176 kg of cannabis resin. [@7,9] At Constantine, customs working with the army found nearly 200 kg of drugs and stimulants hidden in a garage. [@7,8,10] General Ali Sidane warned that trafficking networks are using digital technology and encrypted messaging apps to widen their operations and hide their routes. [@7,10]
+At Oran, officers found two organised international criminal networks, seized 96 kg of cocaine and arrested 12 people. [@7,8] At Algiers, an operation against a cross-border network arrested 33 people and seized more than 1 million psychotropic tablets, 30 kg of cocaine and 176 kg of cannabis resin. [@7,9] At Constantine, customs working with the army found nearly 200 kg of drugs and stimulants hidden in a garage. [@7,8,10,13] General Ali Sidane warned that trafficking networks are using digital technology and encrypted messaging apps to widen their operations and hide their routes. [@7,10]
 
-The Vietnamese news agency's Algiers correspondent reported that 5,264 of those arrested had been placed in pre-trial detention. [@8,11] In the south, traffickers hide cocaine inside the parts of refrigerated trucks and deliver it to northern provinces, and some networks use modified vehicles to conceal drugs and move them between several locations. [@8]
+The Vietnamese news agency's Algiers correspondent reported that 5,264 of those arrested had been placed in pre-trial detention. [@8,11,13] In the south, traffickers hide cocaine inside the parts of refrigerated trucks and deliver it to northern provinces, and some networks use modified vehicles to conceal drugs and move them between several locations. [@8]
