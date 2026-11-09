@@ -43,6 +43,11 @@ sources:
     publisher: Cairo24
     date: 2026-11-09
     language: ar
+  - title: ضبط شاب أطلق النار على القوات الأمنية وبحوزته بندقية آلية وشابو وحشيش في سوهاج
+    url: https://www.iqraa.news/208497/%D8%B6%D8%A8%D8%B7-%D8%B4%D8%A7%D8%A8-%D8%A3%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%88/
+    publisher: Iqraa News
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No weight or separate quantity was published for the hashish or the shabu, so no cannabis weight is recorded.
   - The article gives no separate date for the raid; 9 November 2026 is its publication date and is used as the incident date.
@@ -50,19 +55,21 @@ open_questions:
   - The page's only news photo is labelled as an archival image and is not known to show this event, so no media is listed.
   - Whether the other people alleged to traffic drugs with the suspect were pursued or detained was not reported.
   - Charges and the outcome of the investigation were not yet reported.
+  - No weight or separate quantity was published for the hashish, so no cannabis weight can be added.
+  - The page's photo caption only repeats the headline and is not confirmed to show this event, so no media is listed.
 ---
 
 Sohag security officers responded to a worker's appeal accusing his son of
-assaulting him, shooting at his house and trading drugs with others. [@1] After
+assaulting him, shooting at his house and trading drugs with others. [@1,2] After
 inquiries located the suspect, a force went to arrest him in Awlad Salem Qibli
 village in Dar El Salam district, where he was described as a man in his
 thirties. [@1] When he saw the force he opened fire on it, and the officers
-engaged him and brought the situation under control. [@1] The exchange left the
+engaged him and brought the situation under control. [@1,2] The exchange left the
 suspect wounded by gunshots in both the right and left thighs, and officers
-arrested him. [@1]
+arrested him. [@1,2]
 
 Officers found an automatic rifle and quantities of shabu and hashish in his
-possession. [@1] Legal procedures were completed, the seized items were held,
+possession. [@1,2] Legal procedures were completed, the seized items were held,
 and the suspect was to be presented to the competent investigation authority.
 [@1]
 
@@ -72,4 +79,3 @@ residents' lives through possession of firearms and drug trading. [@1] The
 security move came under directives from the Sohag security director and
 criminal investigation chiefs to quickly examine the appeal and take the
 necessary measures. [@1]
-
