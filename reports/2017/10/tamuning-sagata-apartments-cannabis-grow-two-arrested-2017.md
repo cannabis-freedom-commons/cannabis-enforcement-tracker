@@ -39,6 +39,10 @@ sources:
     url: https://www.kuam.com/story/36534967/two-men-jailed-for-marijuana-operation-in-tamuning
     publisher: KUAM
     date: 2017-10-06
+  - title: Men arrested after marijuana cultivation found in Tamuning apartment
+    url: https://www.postguam.com/news/local/men-arrested-after-marijuana-cultivation-found-in-tamuning-apartment/article_860880b0-aa48-11e7-b480-1bf685c7230d.html
+    publisher: The Guam Daily Post
+    date: 2017-10-06
 open_questions:
   - The article says the arrests happened on a Thursday but names no date; 5 October 2017 is used as the incident date because the article is dated 7 October and the preceding Thursday was 5 October, when KUAM published its report.
   - No number of plants, weight of marijuana, area or value was published; the indoor grow is described without quantities.
@@ -47,14 +51,16 @@ open_questions:
   - The possession charges name Schedule I and Schedule II controlled substances generically, and the report does not state that every count relates to cannabis.
   - The family violence allegation against one suspect comes from an earlier, separate incident and is not part of the cannabis case.
   - KUAM's headline was accessible but its article body did not load, so KUAM is cited only for the men being jailed.
+  - This article spells the task force name "Mandana", while the report and its other source use "Mandaña".
+  - The report gives the men's ages as 33 and 36 but does not name them in its prose, and the article's charge list includes a Schedule II controlled substance and a firearms-adjacent explosives count that are not stated to involve cannabis.
 ---
 
 Two men were arrested in a Tamuning apartment after police discovered a
-marijuana cultivation operation. [@1] The Mandaña Drug Task Force executed a
-search warrant at the Sagata Apartments in Tamuning. [@1] Officers found an
+marijuana cultivation operation. [@1,3] The Mandaña Drug Task Force executed a
+search warrant at the Sagata Apartments in Tamuning. [@1,3] Officers found an
 indoor marijuana cultivation operation inside, along with drug paraphernalia and
 fireworks, according to Guam Police Department spokesman Officer A.J. Balajadia.
-[@1]
+[@1,3]
 
 Justin Keith Flores, 33, of Tamuning, was arrested on suspicion of illegal
 possession of Schedule I and Schedule II controlled substances, possession of a
@@ -63,8 +69,9 @@ of explosives and possession of a controlled substance related to manufacturing,
 and on a family violence allegation from a previous incident. [@1] Elliot James
 Marques, 36, was arrested on suspicion of illegal possession of a Schedule I
 controlled substance and guilt established by complicity. [@1] Both men were
-booked and confined. [@1]
+booked and confined. [@1,3]
 
 The television station KUAM reported the Tamuning marijuana operation as leaving
 both men jailed. [@2]
 
+The 33-year-old man from Tamuning was also arrested on suspicion of possession of a controlled substance related to manufacturing. [@3] The 33-year-old suspect was described as a Tamuning resident. [@3]
