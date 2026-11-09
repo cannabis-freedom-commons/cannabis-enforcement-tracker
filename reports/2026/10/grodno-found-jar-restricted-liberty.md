@@ -41,6 +41,11 @@ sources:
     publisher: Гродно Плюс
     date: 2026-10-30
     language: ru
+  - title: В Гродно мужчину осудили за найденную банку с марихуаной
+    url: https://grodnoplustv.by/index.php/novosti/item/32267-v-grodno-muzhchinu-osudili-za-najdennuyu-banku-s-marikhuanoj
+    publisher: Гродно Плюс
+    date: 2026-10-30
+    language: ru
 open_questions:
   - The article gives no separate date for the verdict; 30 October 2026 is its publication date.
   - No weight was given for the marijuana in the jar, and no fine or estimated value was reported.
@@ -51,19 +56,18 @@ open_questions:
 ---
 
 The Leninsky District Court in Grodno sentenced a 59-year-old city resident in a
-drug case, the television channel Grodno Plus reported on 30 October 2026. [@1]
+drug case, the television channel Grodno Plus reported on 30 October 2026. [@1,2]
 The court found him guilty of illegally acquiring and storing narcotic drugs
 without intent to sell under Part 1 of Article 328 of the Criminal Code of
-Belarus. [@1] It sentenced him to two years' restriction of liberty without
-sending him to an open-type correctional institution. [@1]
+Belarus. [@1,2] It sentenced him to two years' restriction of liberty without
+sending him to an open-type correctional institution. [@1,2]
 
 According to the case file, in June he found a jar of plant material while
-walking near the railway station in Grodno. [@1] He recognised it as marijuana
+walking near the railway station in Grodno. [@1,2] He recognised it as marijuana
 by its smell but, instead of reporting the find to the police, took the jar home
-and used part of what was inside. [@1]
+and used part of what was inside. [@1,2]
 
 Senior assistant prosecutor for the city of Grodno Yulia Shcherbina said the
 court convicted him on the evidence presented by the state prosecutor. [@1] The
 verdict had not yet entered into force and could be appealed under the procedure
-set by law. [@1]
-
+set by law. [@1,2]
