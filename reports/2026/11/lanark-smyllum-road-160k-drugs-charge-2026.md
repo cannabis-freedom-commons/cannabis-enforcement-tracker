@@ -58,6 +58,14 @@ sources:
     url: https://news.stv.tv/west-central/man-charged-after-police-seize-drugs-worth-160000-in-lanark-raid
     publisher: STV News
     date: 2026-11-09
+  - title: Man charged after £160k 'cocaine, heroin and cannabis' seized in police raid
+    url: https://uk.news.yahoo.com/man-charged-160k-cocaine-heroin-123253352.html
+    publisher: Yahoo News UK
+    date: 2026-11-09
+  - title: Man charged after £160,000 of drugs found in Lanark
+    url: https://www.glasgowtimes.co.uk/news/scottish-news/26711833.man-charged-160-000-drugs-found-lanark/
+    publisher: Glasgow Times
+    date: 2026-11-09
 open_questions:
   - No weight or street value is given for the cannabis separately; the £160,000 estimate covers cocaine, heroin and cannabis together and is recorded as the overall recovery value.
   - The sources identify the man only by age, and state no plea, court date, court or outcome.
@@ -67,15 +75,16 @@ open_questions:
 ---
 
 Police Scotland officers searched a property in the Smyllum Road area of Lanark
-on Sunday 1 November 2026 and recovered cocaine, heroin and cannabis. [@2]
+on Sunday 1 November 2026 and recovered cocaine, heroin and cannabis. [@2,4]
 Police Scotland said the drugs seized had an estimated street value of more than
-£160,000. [@3] Officers also found a five-figure sum of cash at the address.
-[@2]
+£160,000. [@3,4] Officers also found a five-figure sum of cash at the address.
+[@2,4]
 
 On Sunday 8 November 2026, a 22-year-old man was arrested and charged in
-connection with the supply of controlled drugs. [@3] He was released on an
+connection with the supply of controlled drugs. [@3,4] He was released on an
 undertaking, a written promise to appear in court, and is due to appear at a
-later date. [@1] Detective Chief Inspector Forbes Wilson said removing illegal
+later date. [@1,4] Detective Chief Inspector Forbes Wilson said removing illegal
 drugs from local communities and targeting those involved in criminal activity
 remained a top priority in Lanarkshire. [@1]
 
+A man has been charged after drugs worth more than £160,000 were recovered in Lanark. [@5]
