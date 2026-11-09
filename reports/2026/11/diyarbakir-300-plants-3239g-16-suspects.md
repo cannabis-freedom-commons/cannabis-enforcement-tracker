@@ -53,6 +53,11 @@ sources:
     publisher: Habertürk Yerel Haberler
     date: 2026-11-09
     language: tr
+  - title: Diyarbakır'da uyuşturucu operasyonlarında yüzlerce kök kenevir ele geçirildi
+    url: https://www.malatyaguncel.com/diyarbakir-da-uyusturucu-operasyonlarinda-yuzlerce-3121562h.htm
+    publisher: Malatya Haber
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The reports give only the publication date of 9 November 2026 and no separate date for the operations; DHA says they took place over the previous week.
   - The İlke account says only that legal action was taken against 16 suspects, while DHA and Habertürk say the 16 were detained.
@@ -66,15 +71,14 @@ open_questions:
 
 Diyarbakır gendarmerie teams ran operations against people accused of selling,
 transporting and using drugs in the city centre and its districts, and 18
-incidents occurred. [@1] Legal proceedings were opened against 16 suspects
-linked to those incidents. [@1]
+incidents occurred. [@1,4] Legal proceedings were opened against 16 suspects
+linked to those incidents. [@1,4]
 
 The gendarmerie said it seized 300 kenevir/skunk roots and 3 kilograms 239 grams
-of esrar. [@1] The operations were coordinated by the provincial gendarmerie's
+of esrar. [@1,4] The operations were coordinated by the provincial gendarmerie's
 anti-narcotics branch and covered the city centre and the districts. [@3]
 
 The DHA account said the 16 suspects were detained and that the operations took
 place over the previous week. [@2] The reports name no suspect, do not say
 whether any of the 16 was remanded or charged, and give no date other than the
 day of publication, 9 November 2026. [@2]
-
