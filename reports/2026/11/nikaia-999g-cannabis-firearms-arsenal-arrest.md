@@ -61,30 +61,36 @@ sources:
     publisher: ΣΚΑΪ
     date: 2026-11-09
     language: el
+  - title: 'Νίκαια: Συνελήφθη 36χρονος μετά από άσκοπους πυροβολισμούς – Βρέθηκαν όπλα και κάνναβη'
+    url: https://www.flash.gr/nikaia-synelifthi-36chronos-meta-apo-askopoys-pyrovolismoys-vrethikan-opla-kai-kannavi-1090387
+    publisher: Flash.gr
+    date: 2026-11-09
+    language: el
 open_questions:
   - The cannabis amount is given as 999 grams by Skai and Protothema and as one kilogram by Kathimerini; the report records 0.999 kg.
   - The form of the cannabis (flower or resin) is not described.
   - A case file was opened but no court outcome or remand decision was reported.
+  - Flash.gr dates the arrest to the first hours of 3 November 2026, matching the incident date already recorded.
 ---
 
 Officers of the Immediate Action rapid-response unit, with OPKE special
 operations forces, arrested a 36-year-old man in Nikaia, a western suburb of
-Piraeus in Attica. [@1] Protothema reported that the incident happened in the
+Piraeus in Attica. [@1,4] Protothema reported that the incident happened in the
 early hours of Tuesday 3 November 2026. [@2]
 
 Officers went to the area after a call about a man firing a shotgun into the air
 and found five spent cartridge cases and, nearby, the 36-year-old holding a
-shotgun. [@3] The man tried to flee and turned the weapon toward the officers,
-who restrained him despite his resistance. [@3]
+shotgun. [@3,4] The man tried to flee and turned the weapon toward the officers,
+who restrained him despite his resistance. [@3,4]
 
 A search of his home by the Nikaia–Agios Ioannis Rentis crime-investigation
 department found and seized 999 grams of cannabis, two precision electronic
-scales, five more shotguns and a revolver loaded with a cartridge. [@3] Officers
+scales, five more shotguns and a revolver loaded with a cartridge. [@3,4] Officers
 also confiscated a large number of folding knives, fixed-blade knives, axes,
 bows and swords, three arrows, 78 cartridges and a knife and cartridge found on
 the man. [@3] A case file was opened against him for breaches of the weapons and
 narcotics laws, disobedience, violence against officials and damage to foreign
-property, and he was taken to the public prosecutor. [@3]
+property, and he was taken to the public prosecutor. [@3,4]
 
 The Athens daily Kathimerini put the quantity at one kilogram of cannabis. [@1]
 In Nikaia officers from Immediate Action were called for a man firing a shotgun,
@@ -92,4 +98,3 @@ and they went to the spot with OPKE forces. [@1] The night-time incident
 attributed to the 36-year-old involved firing a shotgun into the air and then
 aiming it at officers as they arrived, the Hellenic Police account given to
 Protothema said. [@2]
-
