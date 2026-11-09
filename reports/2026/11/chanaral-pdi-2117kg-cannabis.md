@@ -81,6 +81,11 @@ sources:
     publisher: Radio Nostálgica
     date: 2026-11-05
     language: es
+  - title: 'Delegada Sofía Cid: “Atacama registra un 52,9% menos de homicidios y nuestras policías reportan cerca de 10 toneladas de droga incautada”'
+    url: https://www.radiogennesis.cl/2026/11/07/delegada-sofia-cid-atacama-registra-un-529-menos-de-homicidios-y-nuestras-policias-reportan-cerca-de-10-toneladas-de-droga-incautada/
+    publisher: RadioGennesis
+    date: 2026-11-07
+    language: es
 open_questions:
   - Canal 9 values the cannabis at about 15 billion pesos, while the PDI figure quoted by Diario Chañarcillo and Radio Nostálgica is about 13 billion pesos; the report uses the police figure and records the difference.
   - The PDI did not disclose the amount found in the Chañaral vehicle and the amount found in Taltal separately.
@@ -91,11 +96,11 @@ open_questions:
 
 Detectives of the PDI's Brigada Antinarcóticos in Copiapó seized 2 tonnes and
 117 kg of cannabis in the operation, the largest cannabis seizure the force has
-made in the Atacama region through an investigation. [@1] The haul was packed in
+made in the Atacama region through an investigation. [@1,4] The haul was packed in
 1,332 packages carried in 98 sacks. [@1] The operation, carried out with the SAC
 unit of the Atacama prosecutor's office, ended with the arrest of the man
 accused of transporting the drug and of finding the site where the rest was
-stored. [@1]
+stored. [@1,4]
 
 The detained man, a Chilean citizen, had previous drug-law offences and was
 formalised on Thursday 5 November for illicit drug trafficking and placed in
@@ -109,8 +114,7 @@ presumptive destination was Santiago. [@3]
 The investigators said the cannabis came from Bolivia and was moved from Calama
 to remote pre-Andean storage sites in Antofagasta and Atacama before being
 distributed elsewhere in the country. [@1] The PDI valued the cannabis at about
-13 billion pesos, equivalent to more than two million doses. [@2] The head of
+13 billion pesos, equivalent to more than two million doses. [@2,4] The head of
 the PDI's Atacama region, prefect inspector Marcelo Rebolledo Camilo, said the
 force is working to set up an internal border plan to stop criminal
 organisations using Atacama to store, move and distribute drugs. [@1]
-
