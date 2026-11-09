@@ -58,6 +58,11 @@ sources:
     publisher: المصري اليوم
     date: 2026-11-09
     language: ar
+  - title: «جنايات الزقازيق» تقضي بالسجن لمتهم بالاتجار في «الحشيش» وحيازة سلاح آلي بـ «بلبيس»| صور
+    url: https://gate.ahram.org.eg/News/5981346.aspx
+    publisher: بوابة الأهرام
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No weight was published for the 20 pieces of hashish, so no cannabis weight is recorded.
   - No separate hearing date is given; 9 November 2026 is the publication date of both accounts and is used as the sentencing date for the ruling reported as delivered in the session that day.
@@ -65,6 +70,7 @@ open_questions:
   - The accounts do not give the exact day of the December 2025 arrest, only the month.
   - No appeal or challenge to the ruling was reported, so the sentence is recorded as given at first instance by the appeals circuit.
   - The submitted page's picture is captioned only with the headline and the Al-Masry Al-Youm picture shows the Zagazig courthouse, so neither is confirmed to show this defendant or seizure and no media entry is added.
+  - The Al-Ahram account gives no weight for the 20 pieces of hashish.
 ---
 
 The second appeals circuit of Zagazig Criminal Court jailed a broker for 10
@@ -89,3 +95,4 @@ rounds serviceable. [@1] The arrest followed testimony from the head of the
 Sharqia Security Directorate's drug unit, and the Public Prosecution referred
 the man to the criminal court in custody. [@1]
 
+The Al-Ahram account describes the rifle's ammunition as 10 rounds hidden with the rapid-fire automatic rifle under the driver's seat. [@3] A chemical laboratory report classed the seized material near schedule 1 of the narcotics law. [@3]
