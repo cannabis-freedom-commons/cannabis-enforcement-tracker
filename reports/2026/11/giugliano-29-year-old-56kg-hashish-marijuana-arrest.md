@@ -126,6 +126,11 @@ sources:
     publisher: Lo Strillone TV
     date: 2026-11-09
     language: it
+  - title: HASHISH FROZEN, SVAPO ALLA MARIJUANA DALLA CALIFORNIA E AUTO CLONATA, 29ENNE ARRESTATO
+    url: https://inveritas.news/2026/11/09/hashish-frozen-svapo-alla-marijuana-dalla-california-e-auto-clonata-29enne-arrestato/
+    publisher: In Veritas
+    date: 2026-11-09
+    language: it
 open_questions:
   - Only one source for the event could be opened; the submitted page is an automatically translated English version of an Il Mattino article.
   - The article gives no date or time for the search; 9 November 2026 is its publication date and is used as the incident date.
@@ -178,20 +183,20 @@ open_questions:
 
 Officers of the operational unit of the Carabinieri company in Giugliano in
 Campania raided the home of a 29-year-old man, already known to law enforcement.
-[@1,3,4,6,8,9,10,11,12,13] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
-of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5,6,7,9,10,11,12,13] In
-the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5,6,8,9,10,11,12,13]
+[@1,3,4,6,8,9,10,11,12,13,14] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
+of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5,6,7,9,10,11,12,13,14] In
+the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5,6,8,9,10,11,12,13,14]
 
 The haul included marijuana vapes that had arrived from California, where the
 account says they are legal, in colourful packaging featuring characters from
 the animated series Dragon Ball and exotic fruits. [@1] Officers also seized a
-switchblade and several vacuum-packing machines. [@1,4,5,10,11,12,13] In the garage police found
+switchblade and several vacuum-packing machines. [@1,4,5,10,11,12,13,14] In the garage police found
 a Range Rover Sport worth 150,000 euros whose plates and chassis number had been
-cloned from another vehicle, and seized it for investigation. [@1,5,10,11,12,13]
+cloned from another vehicle, and seized it for investigation. [@1,5,10,11,12,13,14]
 
-The 29-year-old was arrested and taken to prison. [@1,2,3,4,5,6,7,8,9,10,11,12,13] He is charged with
+The 29-year-old was arrested and taken to prison. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14] He is charged with
 illegal possession of narcotics, unlawful possession of weapons and receiving
-stolen goods. [@1,4,5,8,9,10,11,12,13]
+stolen goods. [@1,4,5,8,9,10,11,12,13,14]
 
 Inside the home the officers found the parcel that had come from the United States. [@2]
 
