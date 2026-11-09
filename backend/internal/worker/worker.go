@@ -89,7 +89,7 @@ func (w *Worker) Run(parent context.Context) {
 	wg.Add(1)
 	go func() { defer wg.Done(); w.jobs(ctx, "publish", nil) }()
 	if w.Config.RepoSync {
-		wg.Go(func() { syncLoop(ctx, w.Config.RepoPath) })
+		wg.Go(func() { syncLoop(ctx, w.Config.RepoPath, w.Config.PublishBranch) })
 	}
 	if w.Config.AutoPush && !w.Config.Demo {
 		wg.Go(func() { w.publicationLoop(ctx) })
@@ -860,7 +860,7 @@ func (w *Worker) publish(ctx context.Context, j store.Job) error {
 		media, mediaErr = prepareMedia(ctx, w.Config.RepoPath, d.Dir, rels)
 	}
 	defer media.Close()
-	sha, mediaNote, err := commitReportWithMedia(ctx, w.Config.RepoPath, j.Ref, d, media, w.Config.RepoSync)
+	sha, mediaNote, err := commitReportWithMedia(ctx, w.Config.RepoPath, j.Ref, d, media, w.Config.RepoSync, w.Config.PublishBranch)
 	if err != nil {
 		var changed *coverageChanged
 		if errors.As(err, &changed) {

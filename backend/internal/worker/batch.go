@@ -19,7 +19,9 @@ import (
 	"io"
 	"log/slog"
 	"net/http"
+	"os"
 	"os/exec"
+	"path/filepath"
 	"regexp"
 	"strings"
 	"time"
@@ -36,8 +38,48 @@ func gitOutput(ctx context.Context, repo string, args ...string) (string, error)
 	return strings.TrimSpace(string(out)), err
 }
 
-// ensurePublishBranch checks out the publish branch (made from main the first time) with main as
-// its upstream, so the pulls before each commit rebase the waiting reports onto main.
+// backendPush is set in the environment of the backend's own git commands; the pre-push hook it
+// installs lets only those push to main from its clone.
+const backendPush = "CET_BACKEND_PUSH"
+
+// prePushHook refuses a person's push to main from the backend's clone: reports reach main only
+// in the backend's batches. The backend's pushes carry backendPush.
+const prePushHook = `#!/bin/sh
+# Installed by the tracker backend (backend/internal/worker/batch.go); it is rewritten at start.
+# In this clone, reports wait on the publish branch and the backend pushes them to main in
+# batches. A person's push to main from here would skip that, so it is refused.
+[ -n "$` + backendPush + `" ] && exit 0
+while read -r local_ref local_sha remote_ref remote_sha; do
+  if [ "$remote_ref" = "refs/heads/` + mainBranch + `" ]; then
+    echo "Refused: in the backend's clone only the backend pushes to main (docs/DEPLOY.md, Publication)." >&2
+    exit 1
+  fi
+done
+exit 0
+`
+
+// installPrePushHook writes prePushHook into the clone, unless someone else's hook is there.
+func installPrePushHook(ctx context.Context, repo string) error {
+	path, err := gitOutput(ctx, repo, "rev-parse", "--git-path", "hooks/pre-push")
+	if err != nil {
+		return err
+	}
+	if !filepath.IsAbs(path) {
+		path = filepath.Join(repo, path)
+	}
+	if old, err := os.ReadFile(path); err == nil && !strings.Contains(string(old), "Installed by the tracker backend") {
+		slog.Warn("the clone has its own pre-push hook; manual pushes to main are not guarded", "hook", path)
+		return nil
+	}
+	if err := os.MkdirAll(filepath.Dir(path), 0755); err != nil {
+		return err
+	}
+	return os.WriteFile(path, []byte(prePushHook), 0755)
+}
+
+// ensurePublishBranch checks out the publish branch (made from main the first time). Its upstream
+// is itself on origin, so a plain git push or pull here touches only the branch; the backend
+// rebases onto main by name (pullRepo). A hook refuses manual pushes to main.
 func ensurePublishBranch(ctx context.Context, repo, branch string) error {
 	unlock, err := publishLock(ctx, repo)
 	if err != nil {
@@ -62,8 +104,13 @@ func ensurePublishBranch(ctx context.Context, repo, branch string) error {
 			return fmt.Errorf("checking out %s: %w", branch, err)
 		}
 	}
-	if err := gitQuiet(ctx, repo, time.Minute, "branch", "--quiet", "--set-upstream-to=origin/"+mainBranch); err != nil {
-		return err
+	for key, value := range map[string]string{"branch." + branch + ".remote": "origin", "branch." + branch + ".merge": "refs/heads/" + branch} {
+		if err := gitQuiet(ctx, repo, time.Minute, "config", key, value); err != nil {
+			return err
+		}
+	}
+	if err := installPrePushHook(ctx, repo); err != nil {
+		slog.Warn("the pre-push hook could not be installed", "error", err)
 	}
 	// a person's `git pull` here rebases as well, instead of merging main into the branch
 	return gitQuiet(ctx, repo, time.Minute, "config", "pull.rebase", "true")
@@ -108,7 +155,7 @@ func (w *Worker) mergeBatch(ctx context.Context) error {
 		return err
 	}
 	defer unlock()
-	if err := pullRepo(ctx, repo); err != nil {
+	if err := pullRepo(ctx, repo, branch); err != nil {
 		return fmt.Errorf("updating from main: %w", err)
 	}
 	ahead, err := gitOutput(ctx, repo, "rev-list", "--count", "origin/"+mainBranch+"..HEAD")
@@ -123,7 +170,7 @@ func (w *Worker) mergeBatch(ctx context.Context) error {
 	err = gitQuiet(ctx, repo, 90*time.Second, "push", "--quiet", "origin", "HEAD:refs/heads/"+mainBranch)
 	if err != nil {
 		// someone pushed to main in between: once more on top of theirs
-		if err = pullRepo(ctx, repo); err == nil {
+		if err = pullRepo(ctx, repo, branch); err == nil {
 			if cases, err = caseCommits(ctx, repo, "origin/"+mainBranch+"..HEAD"); err == nil {
 				err = gitQuiet(ctx, repo, 90*time.Second, "push", "--quiet", "origin", "HEAD:refs/heads/"+mainBranch)
 			}
@@ -292,6 +339,15 @@ func (w *Worker) publicationLoop(ctx context.Context) {
 	ticker := time.NewTicker(time.Minute)
 	defer ticker.Stop()
 	for {
+		// someone switched the clone to another branch: back to the publish branch before a batch
+		if b := w.Config.PublishBranch; b != "" {
+			if current, err := gitOutput(ctx, w.Config.RepoPath, "rev-parse", "--abbrev-ref", "HEAD"); err == nil && current != b {
+				slog.Warn("the clone was on another branch; switching back to the publish branch", "branch", current)
+				if err := ensurePublishBranch(ctx, w.Config.RepoPath, b); err != nil {
+					slog.Error("the publish branch could not be checked out; reports wait", "error", err)
+				}
+			}
+		}
 		if w.Config.PublishBranch != "" && !time.Now().Before(next) {
 			next = w.Config.NextBatch(time.Now())
 			if err := w.mergeBatch(ctx); err != nil && ctx.Err() == nil {

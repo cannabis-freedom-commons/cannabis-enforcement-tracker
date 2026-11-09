@@ -29,7 +29,7 @@ func pushRepo(ctx context.Context, repo string, sync bool) error {
 	err := gitQuiet(ctx, repo, 90*time.Second, "push", "--quiet", "origin", "HEAD")
 	if err != nil && sync {
 		// others pushed meanwhile: put this commit on top of theirs and push again
-		if pullErr := pullRepo(ctx, repo); pullErr != nil {
+		if pullErr := pullRepo(ctx, repo, ""); pullErr != nil {
 			return pullErr
 		}
 		err = gitQuiet(ctx, repo, 90*time.Second, "push", "--quiet", "origin", "HEAD")
@@ -39,7 +39,11 @@ func pushRepo(ctx context.Context, repo string, sync bool) error {
 
 // pullRepo brings a synced clone (REPO_SYNC) level with origin, putting any commit of its own
 // that was not pushed yet on top.
-func pullRepo(ctx context.Context, repo string) error {
+// With a publish branch it rebases onto main by name: the branch's own upstream is itself (batch.go).
+func pullRepo(ctx context.Context, repo, publishBranch string) error {
+	if publishBranch != "" {
+		return gitQuiet(ctx, repo, 2*time.Minute, "pull", "--rebase", "--autostash", "--quiet", "origin", mainBranch)
+	}
 	return gitQuiet(ctx, repo, 2*time.Minute, "pull", "--rebase", "--autostash", "--quiet")
 }
 
@@ -50,7 +54,8 @@ func gitQuiet(ctx context.Context, repo string, limit time.Duration, args ...str
 	defer cancel()
 	cmd := exec.CommandContext(runCtx, "git", args...)
 	cmd.Dir = repo
-	cmd.Env = append(os.Environ(), "GIT_TERMINAL_PROMPT=0")
+	// backendPush lets the clone's pre-push hook tell the backend's pushes from a person's (batch.go)
+	cmd.Env = append(os.Environ(), "GIT_TERMINAL_PROMPT=0", backendPush+"=1")
 	out, err := cmd.CombinedOutput()
 	if err == nil {
 		return nil
@@ -82,14 +87,14 @@ func gitMessage(out []byte, err error) string {
 // Commit only the validated report paths; --only excludes unrelated staged work.
 // The case trailer recovers a successful Git commit after a crash before the DB update.
 func commitReport(ctx context.Context, repo, cid string, d draftJob) (string, error) {
-	sha, _, err := commitReportWithMedia(ctx, repo, cid, d, nil, false)
+	sha, _, err := commitReportWithMedia(ctx, repo, cid, d, nil, false, "")
 	return sha, err
 }
 
 // commitReportWithMedia commits the report and, in the same commit, the manifest entries and
 // thumbnails of its new photos (media, downloaded beforehand; nil for none). A thumbnail failure
 // leaves the report to be committed alone; note says what became of the photos.
-func commitReportWithMedia(ctx context.Context, repo, cid string, d draftJob, media *mediaBatch, sync bool) (string, string, error) {
+func commitReportWithMedia(ctx context.Context, repo, cid string, d draftJob, media *mediaBatch, sync bool, publishBranch string) (string, string, error) {
 	if !reportPath.MatchString(d.Rel) || (d.PreviousRel != "" && !reportPath.MatchString(d.PreviousRel)) {
 		return "", "", errors.New("invalid report path")
 	}
@@ -119,7 +124,7 @@ func commitReportWithMedia(ctx context.Context, repo, cid string, d draftJob, me
 	defer unlock()
 	if sync {
 		// the coverage and base checks below compare with origin's reports, not a stale copy
-		if err := pullRepo(ctx, repo); err != nil {
+		if err := pullRepo(ctx, repo, publishBranch); err != nil {
 			return "", "", fmt.Errorf("the report repository could not be updated from origin: %w", err)
 		}
 	}
@@ -315,12 +320,12 @@ func caseCommit(ctx context.Context, repo, cid, rel string) string {
 
 // syncLoop keeps a synced clone (REPO_SYNC) level with origin every five minutes, so intake and
 // coverage checks see the reports others pushed.
-func syncLoop(ctx context.Context, repo string) {
+func syncLoop(ctx context.Context, repo, publishBranch string) {
 	ticker := time.NewTicker(5 * time.Minute)
 	defer ticker.Stop()
 	for {
 		if unlock, err := publishLock(ctx, repo); err == nil {
-			if err := pullRepo(ctx, repo); err != nil && ctx.Err() == nil {
+			if err := pullRepo(ctx, repo, publishBranch); err != nil && ctx.Err() == nil {
 				slog.Warn("the report repository could not be updated from origin", "error", err)
 			}
 			unlock()

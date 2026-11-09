@@ -321,8 +321,15 @@ A validated report goes through three statuses on its request page:
    published, and Nostr submitters get their reply with the report's link.
 
 `/submissions/` shows how many reports wait for the next batch and when it goes, how many are
-deploying, and the last batch. `PUBLISH_INTERVAL` and `PUBLISH_OFFSET` in `.env.backend` change the
-timing. Do not commit on the `submissions` branch by hand: the backend rebases and force-pushes it.
+deploying with a link to the site's build on GitHub, and the last batch. `PUBLISH_INTERVAL` and
+`PUBLISH_OFFSET` in `.env.backend` change the timing.
+
+In the server's clone, only the backend publishes. The `submissions` branch tracks itself on
+GitHub, so a plain `git push` or `git pull` there touches only that branch, and a hook the backend
+installs refuses pushes to `main` from the clone. If reports reach `main` some other way, nothing
+breaks: the next batch does not push them again, and they are published once the site has them. If
+the clone is switched to another branch, the backend switches it back. Do not commit on the
+`submissions` branch by hand: the backend rebases and force-pushes it.
 
 ## Updating
 

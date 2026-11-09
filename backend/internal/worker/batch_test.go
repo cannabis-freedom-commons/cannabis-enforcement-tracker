@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"os"
+	"os/exec"
 	"path/filepath"
 	"strings"
 	"testing"
@@ -191,5 +192,80 @@ func TestNextBatchIsOnTheClock(t *testing.T) {
 		if got := c.NextBatch(at(now)).Format("15:04:05"); got != want {
 			t.Errorf("at %s: next batch %s, want %s", now, got, want)
 		}
+	}
+}
+
+// In the backend's clone a plain git push or pull touches only the publish branch, and a manual
+// push to main is refused. Reports that reach main some other way anyway are taken as on main:
+// the next batch pushes nothing again, and they are published once the site has them.
+func TestReportsPushedToMainByHandAreRecovered(t *testing.T) {
+	origin, server, other := batchFixture(t)
+	ctx := context.Background()
+	s, err := store.Open(filepath.Join(t.TempDir(), "store.sqlite"))
+	if err != nil {
+		t.Fatal(err)
+	}
+	defer s.DB.Close()
+	deployed := ""
+	site := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		w.Write([]byte(`{"commit":"` + deployed + `"}`))
+	}))
+	defer site.Close()
+	w := &Worker{Store: s, Config: config.Config{RepoPath: server, Workspaces: t.TempDir(), AutoPublish: true, AutoPush: true, RepoSync: true,
+		PublishBranch: "submissions", PublishInterval: 30 * time.Minute, PublishOffset: 5 * time.Minute, PublicURL: site.URL}}
+	if got := testGit(t, server, "config", "branch.submissions.merge"); got != "refs/heads/submissions" {
+		t.Fatal("the publish branch tracks", got)
+	}
+	mainBefore := testGit(t, origin, "rev-parse", "main")
+	id := queueReport(t, w, 0)
+
+	// a plain push from the clone goes to the publish branch, a push to main is refused
+	testGit(t, server, "push", "--quiet")
+	if testGit(t, origin, "rev-parse", "main") != mainBefore {
+		t.Fatal("a plain push from the clone reached main")
+	}
+	cmd := exec.Command("git", "push", "--quiet", "origin", "HEAD:main")
+	cmd.Dir = server
+	if out, err := cmd.CombinedOutput(); err == nil || !strings.Contains(string(out), "only the backend pushes to main") {
+		t.Fatal("a manual push to main was not refused", err, string(out))
+	}
+
+	// it happens anyway, from elsewhere
+	testGit(t, other, "fetch", "--quiet", "origin")
+	testGit(t, other, "push", "--quiet", "origin", "origin/submissions:refs/heads/main")
+	head := testGit(t, origin, "rev-parse", "main")
+	if head == mainBefore {
+		t.Fatal("test setup: the reports did not reach main")
+	}
+	if err := w.mergeBatch(ctx); err != nil {
+		t.Fatal(err)
+	}
+	var batches int
+	s.DB.QueryRow("SELECT count(*) FROM publication_batches").Scan(&batches)
+	if testGit(t, origin, "rev-parse", "main") != head || batches != 0 {
+		t.Fatal("the reports already on main were pushed again", batches)
+	}
+	deployed = mainBefore
+	if err := w.watchDeploys(ctx); err != nil {
+		t.Fatal(err)
+	}
+	if v, _ := s.Get(ctx, id); v.Status != "deploying" {
+		t.Fatal("a report on main is not deploying", v.Status)
+	}
+	deployed = head
+	if err := w.watchDeploys(ctx); err != nil {
+		t.Fatal(err)
+	}
+	if v, _ := s.Get(ctx, id); v.Status != "published" {
+		t.Fatal("a report on the site is not published", v.Status)
+	}
+
+	// someone checks out main in the clone: the backend goes back to the publish branch
+	testGit(t, server, "checkout", "--quiet", "main")
+	if err := ensurePublishBranch(ctx, server, "submissions"); err != nil {
+		t.Fatal(err)
+	}
+	if got := testGit(t, server, "rev-parse", "--abbrev-ref", "HEAD"); got != "submissions" {
+		t.Fatal("the clone stays on", got)
 	}
 }
