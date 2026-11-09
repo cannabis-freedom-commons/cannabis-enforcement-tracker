@@ -70,6 +70,11 @@ sources:
     publisher: RWTV - Alto Vale
     date: 2026-11-09
     language: pt
+  - title: Casal é preso com 30,5 kg de maconha e 2 kg de cocaína em Presidente Getúlio
+    url: https://www.topelegance.com.br/seguranca/casal-e-preso-com-30-5-kg-de-maconha-e-2-kg-de-cocaina-em-presidente-getulio
+    publisher: TopElegance
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No names, ages or other identifying details of the two arrested people were published.
   - The articles do not say exactly where in Presidente Getúlio or on which highway the car was stopped.
@@ -81,6 +86,11 @@ open_questions:
   - Left out vehicles, as its quotation was not found in Portal GCD.
   - No names, ages, custody decision or court outcome for the two arrested people were reported beyond their presentation to the police authority in Rio do Sul.
   - RWTV gives no separate date for the stop and no exact location beyond Presidente Getúlio.
+  - TopElegance gives no separate date for the stop; its publication date, 9 November 2026, is the only date on the page.
+  - TopElegance reproduces the same Military Police account as the outlets already cited and is not independent reporting.
+  - The page says the couple had gone to the Santa Catarina coast to fetch drugs, without naming Itajaí, the coastal city given in earlier accounts.
+  - The page photo is captioned only as drugs seized by the Military Police in Presidente Getúlio, so it is not listed as a separate media entry alongside the handout already recorded.
+  - No custody decision, charge filed by a prosecutor or court outcome is reported beyond the pair being taken to the police station in Rio do Sul.
 ---
 
 A man and a woman were arrested for drug trafficking in Presidente Getúlio, in
@@ -92,18 +102,20 @@ passenger seat; the driver said she had travelled to Itajaí and denied carrying
 anything illegal. [@3]
 
 In a cardboard box in the car, officers found marijuana tablets weighing 30
-kilograms and 500 grams (30.5 kg), according to the Military Police. [@1] Two
+kilograms and 500 grams (30.5 kg), according to the Military Police. [@1,5] Two
 cocaine tablets weighing 2 kilograms and 100 grams and 457 ecstasy pills were
 seized in the same stop but are not counted as cannabis. [@3] Officers also
 seized the car, two mobile phones and a wallet with documents and 72 reais in
-cash. [@2]
+cash. [@2,5]
 
 Police said the couple used the car, registered in the name of the woman's
 father but in her possession, to supply other dealers in the region. [@3] Police
 took the pair and the seized material to the Regional Police Station in Rio do
 Sul, where they were presented to the police authority and then to the Civil
-Police. [@3] The two face charges on suspicion of drug trafficking under article
+Police. [@3,5] The two face charges on suspicion of drug trafficking under article
 33 of Brazil's drug law, and possible association for trafficking under article
 35 of the same law will be investigated. [@3]
 
 The stop followed intelligence work by the Military Police intelligence agency in Presidente Getúlio, which was investigating the pair's suspected role in supplying dealers in the region. [@4] Police said the pair used a silver car to fetch drugs on the Santa Catarina coast, mainly in Itajaí, and then supply other people involved in trafficking. [@4] The incident was registered as drug trafficking and association for trafficking, and police said the investigation would examine the pair's involvement and possible links to other dealers in the region. [@4]
+
+The approach took place on a local highway, after the patrols had monitored the couple's movements. [@5]
