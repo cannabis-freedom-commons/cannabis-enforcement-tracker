@@ -73,6 +73,11 @@ sources:
     publisher: SON TV
     date: 2026-11-09
     language: tr
+  - title: Diyarbakır jandarması 18 uyuşturucu olayında 16 şüpheliyi gözaltına aldı
+    url: https://www.sondakika.com/3-sayfa/haber-diyarbakir-jandarmasi-18-uyusturucu-olayinda-16-su-20410878/
+    publisher: Son Dakika
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The reports give only the publication date of 9 November 2026 and no separate date for the operations; DHA says they took place over the previous week.
   - The İlke account says only that legal action was taken against 16 suspects, while DHA and Habertürk say the 16 were detained.
@@ -94,17 +99,17 @@ open_questions:
 Diyarbakır gendarmerie teams ran operations against people accused of selling,
 transporting and using drugs in the city centre and its districts, and 18
 incidents occurred. [@1,4] Legal proceedings were opened against 16 suspects
-linked to those incidents. [@1,4,5]
+linked to those incidents. [@1,4,5,8]
 
 The gendarmerie said it seized 300 kenevir/skunk roots and 3 kilograms 239 grams
-of esrar. [@1,4,5] The operations were coordinated by the provincial gendarmerie's
-anti-narcotics branch and covered the city centre and the districts. [@3,5]
+of esrar. [@1,4,5,8] The operations were coordinated by the provincial gendarmerie's
+anti-narcotics branch and covered the city centre and the districts. [@3,5,8]
 
 The DHA account said the 16 suspects were detained and that the operations took
 place over the previous week. [@2] The reports name no suspect, do not say
 whether any of the 16 was remanded or charged, and give no date other than the
 day of publication, 9 November 2026. [@2]
 
-The operation was announced by the Diyarbakır governor's office. [@5] The İHA account reported the 16 suspects were detained, the same figure recorded here as arrested. [@6]
+The operation was announced by the Diyarbakır governor's office. [@5] The İHA account reported the 16 suspects were detained, the same figure recorded here as arrested. [@6,8]
 
 The figures came from three separate press statements published by the Diyarbakır governor's office on 9 November 2026. [@7]
