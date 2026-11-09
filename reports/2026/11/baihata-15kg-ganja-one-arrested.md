@@ -92,6 +92,7 @@ open_questions:
   - The photo caption does not name a photographer or credit an agency.
   - The Sentinel gives no separate date for the interception, saying only that it happened the night before its 9 November 2026 publication, so the incident date remains the 8 November 2026 dateline of the earlier agency accounts.
   - The Sentinel names the police as Dobok police and its officer in charge as CI Baihata, while the earlier agency accounts call the unit Baihata Police; the two names appear to describe the same interception but the relationship is not explained.
+  - The Sentinel names the unit Dobok police and its officer in charge as CI Baihata, while other accounts call it Baihata Police; the page does not explain how the sub-divisional and outpost units relate.
 media:
   - kind: photo
     url: https://nagalandpost.com/assam-police-seize-over15-kg-of-ganja-arrest-one/
@@ -115,7 +116,7 @@ the three packets. [@1]
 
 The enforcement action was reported from Baihata, with the account datelined
 Guwahati in Assam. [@2,5] Police said further legal action against the apprehended
-person was being initiated following the seizure and apprehension. [@1,3,5,6,7]
+person was being initiated following the seizure and apprehension. [@1,3,5,6,7,8]
 Officials described the recovered material as suspected cannabis, presenting
 both the drug identity and the weight as police findings rather than
 court-tested results. [@1]
