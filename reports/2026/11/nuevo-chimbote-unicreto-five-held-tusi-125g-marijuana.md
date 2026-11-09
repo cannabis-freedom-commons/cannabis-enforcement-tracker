@@ -43,6 +43,11 @@ media:
     media_url: https://rsdradio.s3.sa-east-1.amazonaws.com/2026-11/Dise%C3%B1o%20sin%20t%C3%ADtulo%20-%202026-11-08T092040.464.jpg
     publisher: Radio Santo Domingo
     caption: Lead image published with the report on the Nuevo Chimbote raid, captioned only 'banda' and credited to the outlet.
+  - kind: photo
+    url: https://diariodechimbote.com/2026/11/09/caen-cinco-jovenes-con-marihuana-y-presuntas-drogas-sinteticas/
+    media_url: https://diariodechimbote.com/wp-content/uploads/2026/11/9-nov-404.jpg
+    publisher: Diario de Chimbote
+    caption: Photo published with the Diario de Chimbote report on the Unicreto raid; the page gives no separate caption or credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 0870b06dc29c7aa56d93e963fa742089
@@ -58,15 +63,23 @@ sources:
     publisher: Lúmina Noticias
     date: 2026-11-07
     language: es
+  - title: Caen cinco jóvenes con marihuana y presuntas drogas sintéticas
+    url: https://diariodechimbote.com/2026/11/09/caen-cinco-jovenes-con-marihuana-y-presuntas-drogas-sinteticas/
+    publisher: Diario de Chimbote
+    date: 2026-11-09
+    language: es
 open_questions:
   - The five suspects are named in the police account, but no court appearance, charge sheet or measure of restraint has been reported; the case is at the investigation stage.
   - The 125 grams is described as approximately 125 grams of marijuana, without a laboratory confirmation or a value estimate.
   - The lead image on the submitted page is captioned only 'banda' and its credit is not stated, so it is not confirmed to show the seized drugs.
   - The Lúmina Noticias article is a roundup of several separate police interventions in Áncash; only the Nuevo Chimbote raid is covered here.
+  - Diario de Chimbote reports 56 small bags of suspected tusi (2C-B), while the existing report's sources gave 45; the report keeps 45 and the difference is unresolved.
+  - The article gives no date for the raid itself; 6 November 2026 in the existing report comes from Lúmina Noticias, and 9 November is this article's publication date.
+  - The article gives no separate caption or credit for its photo, so what it shows is unconfirmed.
 ---
 
 National Police officers detained five men during a raid on a building in the
-Unicreto housing estate in Nuevo Chimbote, Áncash region. [@1] The five
+Unicreto housing estate in Nuevo Chimbote, Áncash region. [@1,3] The five
 detainees, aged 22 to 26, were identified by police as suspected members of a
 criminal group called Los Químicos. [@1] Police said four men tried to run when
 they saw the officers, and two of them threw bags containing illegal substances.
@@ -75,11 +88,11 @@ they saw the officers, and two of them threw bags containing illegal substances.
 With the permission of one of the occupants, officers entered the building's
 second floor, where they seized 45 bags of tusi, four bottles of ketamine, six
 bags with apparent ketamine residues, two spoons and a digital scale. [@1]
-Officers also found about 125 grams of marijuana at the property. [@1]
+Officers also found about 125 grams of marijuana at the property. [@1,3]
 
 The five were detained for illicit drug trafficking and the case was referred to
 the Public Prosecutor's Office, which ordered the corresponding proceedings.
-[@1] Miguel Ángel Mesta Rebaza, the National Police chief for Áncash region,
+[@1,3] Miguel Ángel Mesta Rebaza, the National Police chief for Áncash region,
 said the group made the tusi for its own use and for sale in places where young
 people gather. [@1] The police general said tusi is made by hand from cocaine
 mixed with drugs such as ketamine and tramadol and was being introduced into
@@ -87,3 +100,4 @@ nightclubs in Chimbote. [@1] Lúmina Noticias placed the raid at 7:45 p.m. on 6
 November 2026 and gave the same seizure of tusi, ecstasy, ketamine and 125 grams
 of marijuana. [@2]
 
+Officers were from the Chimbote special group of Depincri, the National Police's criminal investigation directorate. [@3] The raid took place at manzana R3, lote 10, in the Unicreto estate. [@3] Beyond the marijuana, officers seized 56 small bags of what was described as tusi (2C-B), 19 pills of apparent ecstasy, four bottles with residues of a substance believed to be ketamine and one container with residues of apparent popper. [@3] Police also seized a digital scale, six mobile phones and two laptops, held as evidence for the investigation. [@3] The seized substances were to go for chemical analysis to establish their composition, while the electronic equipment would be examined to trace the origin of the products and possible responsibilities. [@3]
