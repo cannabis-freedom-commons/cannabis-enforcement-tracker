@@ -98,6 +98,11 @@ sources:
     publisher: Berita Harian
     date: 2026-10-29
     language: ms
+  - title: 70 bungkusan ganja disorok dalam bagasi, 3 rakyat Malaysia ditahan
+    url: https://www.hmetro.com.my/mutakhir/2026/11/1434048/70-bungkusan-ganja-disorok-dalam-bagasi-3-rakyat-malaysia-ditahan
+    publisher: Harian Metro
+    date: 2026-11-09
+    language: ms
 media:
   - kind: photo
     url: https://defimedia.info/plaisance-saisie-de-rs-255-m-de-cannabis-sur-un-cuisinier-malaisien
@@ -153,6 +158,7 @@ open_questions:
   - The article also describes a separate 15 September arrest of a Malaysian with 6.18 kg at the same airport, a different event recorded separately and left out here.
   - Berita Harian gives 17.92 kg and RM2.3 million for the haul, while the existing report keeps 17.88 kg and Rs 25.5 million from Le Défi Media Group; the difference is left open.
   - The Berita Harian page is an AI-generated news summary and names no suspect, flight or agency unit.
+  - Harian Metro gives 17.8 kg for the cook's luggage, a slightly different figure from the 17.88 kg recorded in this report; the difference is left open.
 ---
 
 Mauritian officers arrested a Malaysian cook arriving from Dubai with 17.88 kilograms of cannabis in his luggage. [@1,2,3,4,5,6,7,8,10]
@@ -177,3 +183,5 @@ A 55-year-old Malaysian chef was arrested in Mauritius on 23 October 2026 after 
 The Malaysian chef was 55 years old. [@9]
 
 The haul was the second case this year of a Malaysian national held for smuggling drugs into Mauritius. [@10]
+
+A similar modus operandi was detected on Oct 23, when a 55-year-old Malaysian cook was arrested at the same airport with 17.8kg of cannabis in his luggage. [@11] The 55-year-old Malaysian cook arrested at the same airport on 23 October had arrived from Dubai on Emirates flight EK709, the same flight the three took before their 2 November arrest. [@11]
