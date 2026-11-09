@@ -78,6 +78,11 @@ sources:
     publisher: Mi Periódico
     date: 2026-11-04
     language: es
+  - title: Cinco condenados por transporte de marihuana en Salta hacia Tucumán - Diario Panorama
+    url: https://www.diariopanorama.com/noticia/571930/cinco-condenados-transporte-marihuana-salta-hacia-tucuman
+    publisher: Diario Panorama
+    date: 2026-11-05
+    language: es
 open_questions:
   - The sentence was disclosed on 9 October before the 3 November 2026 publication, so the report dates it 9 October 2026 by inference.
   - The trial is said to have run from July to late September without a stated year.
@@ -88,12 +93,12 @@ open_questions:
 
 Salta Federal Oral Court No. 1 convicted five members of a drug-trafficking
 organisation for moving 23 kg of marijuana discovered in September 2024 during a
-National Gendarmerie checkpoint in Cafayate, bound for Tucumán. [@1,2] The court
+National Gendarmerie checkpoint in Cafayate, bound for Tucumán. [@1,2,4] The court
 imposed 7 years on Alejo Ricardo Silva, 6 years and 6 months on Emilio Alejandro
 Tapia, and 6 years each on Luciano Cancino and Mara Antonella Di Bez, the latter
-under house arrest. [@1,2,3] It treated those four as co-authors of drug transport
+under house arrest. [@1,2,3,4] It treated those four as co-authors of drug transport
 and gave Luis Benjamín Vicente a 3-year suspended sentence as a secondary
-participant. [@1,2,3] With Enzo Javier Gutiérrez, who received 4 years under house
+participant. [@1,2,3,4] With Enzo Javier Gutiérrez, who received 4 years under house
 arrest on 30 April 2025 through a plea agreement, six people have now been
 convicted in the case. [@1,2]
 
@@ -105,11 +110,11 @@ Silva drove that car with Tapia, Cancino and Vicente aboard, serving as the
 partner Di Bez, while portable radios in each car plus their coordinated
 movement and hour raised suspicion. [@1,3] Inspecting the second car’s trunk,
 officers found a burlap bag holding marijuana blocks weighing more than 23 kg,
-and the operation seized 24 marijuana packages and two handheld radios. [@1]
+and the operation seized 24 marijuana packages and two handheld radios. [@1,4]
 
 Silva fled into scrubland during the checkpoint and stayed fugitive until 6
 August 2025, when he was detained after returning from Brazil, where prosecutors
-said he had hidden for about eleven months. [@1,2,3] Prosecutors said Silva led the
+said he had hidden for about eleven months. [@1,2,3,4] Prosecutors said Silva led the
 group and pawned his own car to fund the marijuana purchase for Tucumán, while
 Gutiérrez rented the load car and Tapia supplied his mother’s car as the scout
 car, which the court ordered confiscated. [@1] Prosecutors said Di Bez and
