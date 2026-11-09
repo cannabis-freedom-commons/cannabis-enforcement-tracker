@@ -20,6 +20,7 @@ import (
 	"sync"
 	"time"
 
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/api"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
@@ -556,4 +557,63 @@ func sortedKeys(m map[string]string) []string {
 	}
 	sort.Strings(out)
 	return out
+}
+
+// WriteMetrics adds every worker heard from since the backend started to /metrics.
+func (a *API) WriteMetrics(p *api.Prom) {
+	a.mu.Lock()
+	defer a.mu.Unlock()
+	names := make([]string, 0, len(a.workers))
+	for name := range a.workers {
+		names = append(names, name)
+	}
+	sort.Strings(names)
+	p.Metric("tracker_worker_up", "gauge", "1 while a research worker calls in (within 90 seconds).")
+	p.Metric("tracker_worker_last_seen_seconds", "gauge", "Seconds since the worker last called in.")
+	p.Metric("tracker_worker_agent_ready", "gauge", "1 when the worker's research agent (model) passed its checks.")
+	p.Metric("tracker_worker_agent_slots", "gauge", "Jobs the worker's agent may run at once.")
+	p.Metric("tracker_worker_running_jobs", "gauge", "Research jobs the worker is doing now.")
+	p.Metric("tracker_worker_jobs_total", "counter", "Jobs the worker finished since it started, by result (done, failed, interrupted, requeued, lost).")
+	p.Metric("tracker_worker_job_seconds_total", "counter", "Time the worker spent on finished jobs since it started.")
+	p.Metric("tracker_worker_start_time_seconds", "gauge", "When the worker started (Unix time).")
+	for _, name := range names {
+		seen := a.workers[name]
+		age := time.Since(seen.at).Seconds()
+		up := 0.0
+		if age <= offlineAfter.Seconds() {
+			up = 1
+		}
+		p.Sample("tracker_worker_up", up, "worker", name)
+		p.Sample("tracker_worker_last_seen_seconds", float64(int64(age)), "worker", name)
+		ready := map[string]bool{}
+		if h := seen.Health; h != nil {
+			for _, agent := range h.Agents {
+				ready[agent.Model] = agent.Startup.Status == "ready"
+			}
+			if len(h.Agents) == 0 && len(seen.Agents) == 1 {
+				ready[seen.Agents[0].Model] = h.Status == "ready"
+			}
+		}
+		for _, agent := range seen.Agents {
+			r := 0.0
+			if ready[agent.Model] && up == 1 {
+				r = 1
+			}
+			p.Sample("tracker_worker_agent_ready", r, "worker", name, "model", agent.Model)
+			p.Sample("tracker_worker_agent_slots", float64(agent.MaxWorkers), "worker", name, "model", agent.Model)
+		}
+		if st := seen.Stats; st != nil {
+			p.Sample("tracker_worker_running_jobs", float64(st.Running), "worker", name)
+			results := make([]string, 0, len(st.Jobs))
+			for result := range st.Jobs {
+				results = append(results, result)
+			}
+			sort.Strings(results)
+			for _, result := range results {
+				p.Sample("tracker_worker_jobs_total", float64(st.Jobs[result]), "worker", name, "result", result)
+			}
+			p.Sample("tracker_worker_job_seconds_total", st.JobSeconds, "worker", name)
+			p.Sample("tracker_worker_start_time_seconds", float64(st.StartedAt), "worker", name)
+		}
+	}
 }

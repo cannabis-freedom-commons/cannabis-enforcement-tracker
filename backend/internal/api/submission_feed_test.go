@@ -43,7 +43,7 @@ func TestSubmissionListAndValidation(t *testing.T) {
 }
 func TestWebSocketAnnouncesIntakeTransitionsAndDeliveryChanges(t *testing.T) {
 	a, h := server(t)
-	httpServer := httptest.NewUnstartedServer(h)
+	httpServer := httptest.NewUnstartedServer(Instrument(h)) // as the backend serves it
 	httpServer.Config.ReadTimeout = 500 * time.Millisecond
 	httpServer.Config.WriteTimeout = 500 * time.Millisecond
 	httpServer.Start()

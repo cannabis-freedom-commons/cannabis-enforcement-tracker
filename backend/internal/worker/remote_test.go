@@ -11,6 +11,7 @@ import (
 	"testing"
 	"time"
 
+	trackerapi "github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/api"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/safeurl"
@@ -294,6 +295,35 @@ func TestBackendRestartKeepsRemoteLeases(t *testing.T) {
 		}
 		if err := s.Heartbeat(ctx, "jobs", job, time.Minute); (err == nil) != remote {
 			t.Fatal("remote", remote, "lease after restart:", err)
+		}
+	}
+}
+
+// A worker's agents and job counts reach the backend with its calls and appear in /metrics.
+func TestWorkerFiguresReachBackendMetrics(t *testing.T) {
+	s := openStore(t)
+	client, api := remoteBackend(t, s, config.Config{})
+	stats := &liveStats{s: workerStats{StartedAt: 1700000000, Jobs: map[string]int64{}}}
+	stats.finish(stats.start(), "done")
+	stats.start()
+	client.Presence = func() presence {
+		return presence{Runner: "local", Agents: []agentInfo{{"fixture/model", 3}}, Health: &research.HealthSnapshot{Status: "ready"}, Stats: stats.snapshot()}
+	}
+	if err := client.Hello(context.Background()); err != nil {
+		t.Fatal(err)
+	}
+	var out strings.Builder
+	api.WriteMetrics(trackerapi.NewProm(&out))
+	for _, want := range []string{
+		`tracker_worker_up{worker="home"} 1`,
+		`tracker_worker_agent_ready{worker="home",model="fixture/model"} 1`,
+		`tracker_worker_agent_slots{worker="home",model="fixture/model"} 3`,
+		`tracker_worker_running_jobs{worker="home"} 1`,
+		`tracker_worker_jobs_total{worker="home",result="done"} 1`,
+		`tracker_worker_start_time_seconds{worker="home"} 1700000000`,
+	} {
+		if !strings.Contains(out.String(), want+"\n") {
+			t.Errorf("missing %s in\n%s", want, out.String())
 		}
 	}
 }

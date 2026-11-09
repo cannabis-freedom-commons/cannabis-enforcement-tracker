@@ -42,6 +42,15 @@ type presence struct {
 	Agents []agentInfo              `json:"agents"`
 	Runner string                   `json:"runner"`
 	Health *research.HealthSnapshot `json:"health,omitempty"`
+	Stats  *workerStats             `json:"stats,omitempty"`
+}
+
+// workerStats are a worker's own figures since it started, for the backend's /metrics.
+type workerStats struct {
+	StartedAt  int64            `json:"started_at"`
+	Running    int              `json:"running"`
+	Jobs       map[string]int64 `json:"jobs"`        // finished jobs by result: done, failed, interrupted, requeued, lost
+	JobSeconds float64          `json:"job_seconds"` // time spent on them
 }
 type agentInfo struct {
 	Model      string `json:"model"`

@@ -257,12 +257,13 @@ func run() error {
 	handler := apiServer.Handler()
 	if workers != nil {
 		apiServer.RemoteAgents = workers.Agents
+		apiServer.WriteWorkerMetrics = workers.WriteMetrics
 		mux := http.NewServeMux()
 		mux.Handle("/worker/", workers.Handler())
 		mux.Handle("/", handler)
 		handler = mux
 	}
-	server := &http.Server{BaseContext: func(net.Listener) context.Context { return ctx }, Addr: c.Addr, Handler: handler, ReadHeaderTimeout: 5 * time.Second, ReadTimeout: 15 * time.Second, WriteTimeout: 30 * time.Second, IdleTimeout: 60 * time.Second, MaxHeaderBytes: 16384}
+	server := &http.Server{BaseContext: func(net.Listener) context.Context { return ctx }, Addr: c.Addr, Handler: api.Instrument(handler), ReadHeaderTimeout: 5 * time.Second, ReadTimeout: 15 * time.Second, WriteTimeout: 30 * time.Second, IdleTimeout: 60 * time.Second, MaxHeaderBytes: 16384}
 	shutdownDone := make(chan struct{})
 	go func() {
 		defer close(shutdownDone)

@@ -62,6 +62,7 @@ type Config struct {
 	WorkerTokens map[string]string // token → worker name
 	// A worker's own settings: the backend it works for and its token.
 	TrackerURL, WorkerToken string
+	MetricsToken            string // bearer token of GET /metrics (INGEST_TOKEN when blank)
 }
 
 func env(k, d string) string {
@@ -308,6 +309,10 @@ func Load() (Config, error) {
 	}
 	if c.ResearchMode == "remote" && len(c.WorkerTokens) == 0 {
 		return c, errors.New("RESEARCH_MODE=remote needs WORKER_TOKENS")
+	}
+	c.MetricsToken = os.Getenv("METRICS_TOKEN")
+	if c.MetricsToken != "" && len(c.MetricsToken) < 32 {
+		return c, errors.New("METRICS_TOKEN must be at least 32 characters")
 	}
 	c.TrackerURL = strings.TrimRight(os.Getenv("TRACKER_URL"), "/")
 	c.WorkerToken = os.Getenv("WORKER_TOKEN")

@@ -201,6 +201,66 @@ repository variable; the next Pages build uses it:
 gh variable set PUBLIC_SUBMISSIONS_API_URL --repo cannabis-freedom-commons/cet --body https://tracker-api.cannabisfreedom.fyi
 ```
 
+## Metrics
+
+`GET /metrics` gives the backend's figures in the Prometheus text format, for Prometheus (or
+Grafana Alloy) to scrape and Grafana to chart. Set `METRICS_TOKEN` in `.env.backend` (at least 32
+characters, `openssl rand -hex 32`) and restart the backend. Then scrape the backend, on this server
+at `127.0.0.1:7706` or from elsewhere through `https://tracker-api.cannabisfreedom.fyi`:
+
+```yaml
+scrape_configs:
+  - job_name: cet
+    scrape_interval: 60s
+    scheme: https
+    static_configs:
+      - targets: [tracker-api.cannabisfreedom.fyi]
+    authorization:
+      credentials: <METRICS_TOKEN>
+```
+
+Workers cannot be scraped behind NAT. Each one sends its figures to the backend with every call,
+and the backend lists them as `tracker_worker_*` with a `worker` label.
+
+| Metric | What it shows |
+| --- | --- |
+| `tracker_jobs{kind,status}` | The queue: research and publish jobs queued, running, done, dead |
+| `tracker_research_queue_oldest_seconds` | How long the longest-waiting research job has waited |
+| `tracker_cases{status}` | Submitted sources by status (committed, duplicate, failed, …) |
+| `tracker_submissions_total{origin}` | Submissions by origin: `web`, `nostr`, `rss` (news discovery) |
+| `tracker_harvest_seen_items{provider}` | News items discovery has seen |
+| `tracker_research_runs_total{model,status}` | AI runs by model: completed, failed, interrupted |
+| `tracker_research_outcomes_total{outcome}` | What completed runs proposed: new_event, additional_source, duplicate, … |
+| `tracker_research_tokens_total{model,type}` | Tokens: input, output, reasoning, cache_read, cache_write |
+| `tracker_research_cost_usd_total{model}` | Cost at API prices |
+| `tracker_research_run_seconds_sum/_count{model}` | Run durations |
+| `tracker_reports_committed_total` | Reports committed by the backend |
+| `tracker_budget_reserved_cents`, `tracker_budget_daily_limit_cents` | Today's research budget |
+| `tracker_research_ready` | 1 while a worker is ready to research |
+| `tracker_worker_up{worker}`, `tracker_worker_last_seen_seconds` | Whether each worker is connected |
+| `tracker_worker_agent_ready{worker,model}`, `tracker_worker_agent_slots` | Each worker's models and slots |
+| `tracker_worker_running_jobs{worker}` | Jobs a worker is doing now |
+| `tracker_worker_jobs_total{worker,result}` | Jobs a worker finished: done, failed, interrupted, requeued, lost |
+| `tracker_http_requests_total{route,code}`, `tracker_http_request_seconds_*` | API traffic and response times |
+| `tracker_database_bytes`, `go_goroutines`, `go_memstats_*` | The backend process |
+
+Counters from the database (`_total` from submissions, runs, commits) count everything since the
+start of the tracker. Counters of HTTP requests and worker jobs start again when the backend or
+the worker restarts. Grafana's `increase()` and `rate()` handle both.
+
+Useful panels:
+
+- Reports committed per day: `increase(tracker_reports_committed_total[1d])`
+- Submissions per hour by origin: `sum by (origin) (increase(tracker_submissions_total[1h]))`
+- Research queue: `tracker_jobs{kind="research",status="queued"}` and `tracker_research_queue_oldest_seconds`
+- Run outcomes per day: `sum by (outcome) (increase(tracker_research_outcomes_total[1d]))`
+- Failed share of runs: `sum(increase(tracker_research_runs_total{status="failed"}[1d])) / sum(increase(tracker_research_runs_total[1d]))`
+- Cost per day by model: `sum by (model) (increase(tracker_research_cost_usd_total[1d]))`
+- Average run time: `sum(rate(tracker_research_run_seconds_sum[1h])) / sum(rate(tracker_research_run_seconds_count[1h]))`
+- Tokens per hour: `sum by (type) (increase(tracker_research_tokens_total[1h]))`
+- Workers busy: `sum(tracker_worker_running_jobs) / sum(tracker_worker_agent_slots * on(worker, model) tracker_worker_agent_ready)`
+- Alert when no worker is connected: `max(tracker_worker_up) < 1` for 10 minutes
+
 ## Updating
 
 The backend pulls new reports itself. For new backend code, rebuild from the updated clone:

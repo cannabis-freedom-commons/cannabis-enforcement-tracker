@@ -23,8 +23,10 @@ func (w *Worker) RunRemote(parent context.Context, c *Client) {
 	defer cancel()
 	pool := newAgentPool(w.Config, w.Health)
 	c.Repo = w.Config.RepoPath
+	stats := &liveStats{s: workerStats{StartedAt: time.Now().Unix(), Jobs: map[string]int64{}}}
+	w.stats = stats
 	c.Presence = func() presence {
-		p := presence{Runner: w.Config.ResearchRunner}
+		p := presence{Runner: w.Config.ResearchRunner, Stats: stats.snapshot()}
 		for _, a := range w.Config.Agents() {
 			p.Agents = append(p.Agents, agentInfo{a.Model, a.MaxWorkers})
 		}
@@ -94,6 +96,7 @@ func (w *Worker) remoteJobs(ctx context.Context, c *Client, pool *agentPool) {
 			slog.Warn("the reports clone could not be updated; researching with what it has", "error", err)
 		}
 		selected.Backend = c.Job(j)
+		began := w.stats.start()
 		timed, cancelTimeout := context.WithTimeout(ctx, w.Config.ResearchTimeout)
 		jobCtx, cancel := context.WithCancelCause(timed)
 		stop := make(chan struct{})
@@ -104,16 +107,22 @@ func (w *Worker) remoteJobs(ctx context.Context, c *Client, pool *agentPool) {
 		lost := errors.Is(err, errLeaseLost) || errors.Is(context.Cause(jobCtx), errLeaseLost)
 		cancel(nil)
 		cancelTimeout()
+		result := "done"
 		switch {
 		case errors.Is(err, errCoverageRequeued) || errors.Is(err, errHeldBack):
 			// already back in the backend's queue
+			result = "requeued"
 		case lost:
+			result = "lost"
 			slog.Warn("research job lost its lease; another attempt will take it", "job", j.ID, "case", j.Ref)
 		default:
 			if ctx.Err() != nil {
 				err = store.ErrInterrupted
 			}
-			if err != nil && !errors.Is(err, store.ErrInterrupted) {
+			if errors.Is(err, store.ErrInterrupted) {
+				result = "interrupted"
+			} else if err != nil {
+				result = "failed"
 				slog.Error("research job failed", "job", j.ID, "case", j.Ref, "error", err)
 			}
 			finishCtx, finishCancel := context.WithTimeout(context.Background(), retryFor+30*time.Second)
@@ -122,6 +131,7 @@ func (w *Worker) remoteJobs(ctx context.Context, c *Client, pool *agentPool) {
 			}
 			finishCancel()
 		}
+		w.stats.finish(began, result)
 		w.cleanCase(j.Ref, err != nil)
 	}
 }
@@ -227,4 +237,36 @@ func (w *Worker) remoteJanitor(ctx context.Context) {
 		case <-ticker.C:
 		}
 	}
+}
+
+// liveStats counts a worker's jobs for its presence (workerStats).
+type liveStats struct {
+	mu sync.Mutex
+	s  workerStats
+}
+
+func (l *liveStats) start() time.Time {
+	l.mu.Lock()
+	l.s.Running++
+	l.mu.Unlock()
+	return time.Now()
+}
+
+func (l *liveStats) finish(began time.Time, result string) {
+	l.mu.Lock()
+	l.s.Running--
+	l.s.Jobs[result]++
+	l.s.JobSeconds += time.Since(began).Seconds()
+	l.mu.Unlock()
+}
+
+func (l *liveStats) snapshot() *workerStats {
+	l.mu.Lock()
+	defer l.mu.Unlock()
+	s := l.s
+	s.Jobs = map[string]int64{}
+	for k, v := range l.s.Jobs {
+		s.Jobs[k] = v
+	}
+	return &s
 }

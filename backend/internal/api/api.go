@@ -62,13 +62,15 @@ type Server struct {
 	Store  *store.Store
 	Health *research.Health
 	// RemoteAgents lists the research agents of connected workers (RESEARCH_MODE=remote).
-	RemoteAgents  func() ([]config.ResearchAgent, string)
-	Config        config.Config
-	Limit         Limiter
-	streamMu      sync.Mutex
-	streamCount   int
-	activityMu    sync.Mutex
-	activityCache map[string]cachedActivity
+	RemoteAgents func() ([]config.ResearchAgent, string)
+	// WriteWorkerMetrics adds the remote workers' figures to /metrics.
+	WriteWorkerMetrics func(*Prom)
+	Config             config.Config
+	Limit              Limiter
+	streamMu           sync.Mutex
+	streamCount        int
+	activityMu         sync.Mutex
+	activityCache      map[string]cachedActivity
 }
 
 var idPattern = regexp.MustCompile(`^[a-f0-9]{32}$`)
@@ -117,6 +119,7 @@ func (s *Server) Handler() http.Handler {
 	mux.HandleFunc("GET /v1/status", s.status)
 	mux.HandleFunc("GET /v1/stats/ai", s.aiStats)
 	mux.HandleFunc("GET /internal/metrics", s.metrics)
+	mux.HandleFunc("GET /metrics", s.prometheus)
 	mux.HandleFunc("POST /v1/ingest/candidate", s.ingest)
 	mux.HandleFunc("POST /v1/webhooks/github", s.webhook)
 	mux.HandleFunc("GET /v1/config", func(w http.ResponseWriter, r *http.Request) {

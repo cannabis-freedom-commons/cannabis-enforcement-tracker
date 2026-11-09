@@ -32,6 +32,7 @@ type Worker struct {
 	// FetchImage downloads a photo for the duplicate check; tests replace it
 	FetchImage      func(context.Context, string) ([]byte, error)
 	observeResearch func(error)
+	stats           *liveStats // a remote worker's job counts
 }
 
 // backend is how research reaches the database: Backend when set, else the store.
