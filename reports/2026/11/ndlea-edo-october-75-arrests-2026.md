@@ -75,6 +75,10 @@ sources:
     url: https://punchng.com/ndlea-arrests-75-seizes-destroys-16-8-tonnes-of-drugs-in-edo/
     publisher: Punch
     date: 2026-11-09
+  - title: NDLEA ​‌‌‌⁠⁠‍‍⁠⁠‍‍​‌⁠⁠​‌​‌​arrests 75 suspects, uncovers 16.8 tonnes of illicit drugs in Edo
+    url: https://www.galaxytvonline.com/news/local-news/ndlea-arrests-75-suspects-uncovers-16-8-tonnes-of-illicit-drugs-in-edo
+    publisher: Galaxy Television
+    date: 2026-11-09
 open_questions:
   - The bulletin does not give a single raid date; 9 November 2026 is the publication date, when the commander presented the October results, and stands in for the incident date.
   - The article gives no count of plants destroyed; 14,322.0475 kg is the command's estimated yield of the destroyed farms, not a weighed cannabis seizure, and is not recorded as a figure.
@@ -112,12 +116,12 @@ media:
 
 Nigeria's National Drug Law Enforcement Agency (NDLEA) in Edo State said its
 October 2026 operations arrested 75 suspected drug traffickers, 54 men and 21
-women. [@1,2,3,4,5,6] State commander Mitchell Ofoyeju said the command seized 2,496.11791
+women. [@1,2,3,4,5,6,9] State commander Mitchell Ofoyeju said the command seized 2,496.11791
 kg of illicit substances during the month, including 2,492.6973 kg of cannabis.
 [@1,3,4,5,6,7]
 
 He said eight cannabis farms covering 5.728819 hectares, with an estimated yield
-of 14,322.0475 kg, were identified and destroyed across the state. [@1,2,3,4,5,6,7] The
+of 14,322.0475 kg, were identified and destroyed across the state. [@1,2,3,4,5,6,7,9] The
 destroyed farms were in Uzebba Forest, Ukhuise-Osi Community and Ugbada Forest
 in Owan West, Ugboshi Ele Forest in Akoko Edo, and Eco Camp, Illushi, in Esan
 South-East. [@1,2,3,5,6]
@@ -136,6 +140,8 @@ The command's Counselling, Treatment and Rehabilitation Unit counselled 47 clien
 
 Six cups of cannabis brownies were among the other substances recovered in the October operations. [@5] The figures were released after NDLEA chairman Mohamed Buba Marwa charged the command during his official visit to intensify intelligence-led operations in the state. [@5]
 
-Six cups of cannabis brownies were among the other substances the Edo command recovered during the October operations. [@7] The command also ran 10 sensitisation programmes in schools, worship centres, markets and public places in Benin City that reached 5,293 people, 2,324 men and 2,969 women. [@7,8]
+Six cups of cannabis brownies were among the other substances the Edo command recovered during the October operations. [@7,9] The command also ran 10 sensitisation programmes in schools, worship centres, markets and public places in Benin City that reached 5,293 people, 2,324 men and 2,969 women. [@7,8]
 
 The statistics were released in a statement on Monday by the Commander of Narcotics, Mitchell Ofoyeju, who described the visit of the agency's Chairman, Mohammed Buba Marwa, as a catalyst for the command's fight against drug traffickers. [@8]
+
+The figures were given in a statement in Benin on the Monday by the command's State Commander, Dr Mitchell Ofoyeju. [@9]
