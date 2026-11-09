@@ -39,6 +39,11 @@ media:
     media_url: https://assets.telegraphindia.com/abp/2026/Nov/1794127685_gaja-1.jpg
     publisher: Anandabazar.com
     caption: Photo published with the report on the three sacks of ganja recovered in Jhargram.
+  - kind: photo
+    url: https://jantaserishta.com/local/west-bengal/a-large-consignment-of-marijuana-43-kilograms-was-recovered-from-a-secret-cellar-43--4921287
+    media_url: https://jantaserishta.com/h-upload/2026/11/09/5642037-a000b1be0e823636263e83ccf082ff38.webp
+    publisher: Janta Se Rishta
+    caption: Photo published with Janta Se Rishta's Hindi report, captioned only with the headline of the 43 kg ganja recovery in Jhargram.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3fb02929610f0f0c99dc7b2ae1e74e4e
@@ -71,6 +76,11 @@ sources:
     url: https://www.daijiworld.com/index.php/news/newsDisplay?newsID=1334769
     publisher: Daijiworld.com
     date: 2026-11-08
+  - title: गुप्त तहखाने से निकली गांजे की बड़ी खेप, 43 किलो बरामद
+    url: https://jantaserishta.com/local/west-bengal/a-large-consignment-of-marijuana-43-kilograms-was-recovered-from-a-secret-cellar-43--4921287
+    publisher: Janta Se Rishta
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The article is dated 8 November 2026, a Sunday, and says the raid happened on Saturday night; 7 November 2026 is used as the incident date.
   - No valuation of the seized ganja was published.
@@ -90,6 +100,8 @@ open_questions:
   - Daijiworld says the search happened early on Sunday 8 November 2026, while the report's other sources describe a Saturday-night search; the existing incident date of 7 November 2026 is kept.
   - Daijiworld transliterates the householder's name as Biswajit Shil and the officer as SDPO Rishabhraj Dev.
   - The page's single photograph carries no caption or credit that ties it to this search.
+  - The Hindi report says the raid happened on a Sunday without a calendar date, consistent with the 8 November 2026 accounts but not the Saturday-night wording of the Bengali reports; the existing incident date is kept.
+  - The report gives the village as Sulgeria Chandipur, while the existing accounts name Chandipur; whether the two spellings refer to the same village is not established.
 ---
 
 Police in Jhargram searched the house of Biswajit Sheel in Chandipur village in
@@ -119,3 +131,5 @@ The house was a very plain thatched dwelling with uneven brick walls, a temporar
 The search took place early in the morning, and the account came from an officer of Jhargram police station and the Jhargram sub-divisional police officer. [@4] The same account puts the raid and the recovery on Sunday 8 November 2026, saying the house search happened early that morning. [@4]
 
 In a separate operation, state police arrested Muhammad Mahfuz Alam at Lalgola in Murshidabad district on Sunday and recovered 324 g of heroin from his possession, and also seized his mobile phone and motorcycle. [@5]
+
+Jhargram police raided a house in Sulgeria Chandipur village on a Sunday after information from sources. [@7] A first information report was registered at Jhargram police station and police are investigating the case. [@7]
