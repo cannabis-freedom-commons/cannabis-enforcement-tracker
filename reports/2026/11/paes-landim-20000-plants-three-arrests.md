@@ -103,6 +103,11 @@ sources:
     publisher: Portal Lupa1
     date: 2026-11-04
     language: pt
+  - title: PF erradica 20 mil pés de maconha e prende três suspeitos no Piauí
+    url: https://agoralitoral.com.br/2026/11/05/pf-erradica-20-mil-pes-de-maconha-e-prende-tres-suspeitos-no-piaui/
+    publisher: Agora Litoral
+    date: 2026-11-05
+    language: pt
 open_questions:
   - Agência Gov names the rural zone of Paes Landim, in southern Piauí, while the Federal Police's own statement names the rural zone of Simplício Mendes; the report uses the submitted account's place and cannot say which municipality is correct.
   - No area in hectares was published for the four cultivation plots.
@@ -119,11 +124,14 @@ open_questions:
   - The submitted article's photos are credited as Reproducao / PF and appear to republish the same Federal Police handout already covered, so no new media entry is made.
   - The submitted article gives no identities, charges or later court outcome for the three detainees.
   - This account places the four plots in the rural zone of Simplício Mendes, while the existing report place uses Paes Landim; which municipality is correct remains unresolved, as already noted in the report.
+  - This account names only the interior of Piauí and gives no municipality, plot count or production estimate, so the Paes Landim location and four-plot detail rely on the existing report.
+  - It reports seized firearms and ammunition but gives no count, type or calibre.
+  - Its lead photo appears to republish the Federal Police handout already filed, so no new media entry is added.
 ---
 
 The Federal Police eradicated about 20,000 cannabis plants and arrested three
 people on Wednesday 4 November 2026 in the rural zone of Paes Landim, in
-southern Piauí. [@1,4,5,6,7,8] The operation was run from the Federal Police's Picos base
+southern Piauí. [@1,4,5,6,7,8,9] The operation was run from the Federal Police's Picos base
 in Piauí. [@1]
 
 During the operation the teams found four plots used to grow the drug. [@1,3,4,5,7,8] The
@@ -139,3 +147,5 @@ On 4 November 2026 g1 corrected its own report to say the cannabis plots were fo
 One of the page's photo captions describes the police as having eradicated about 20,000 cannabis plants in Paes Landim. [@4]
 
 The three people arrested in the operation were taken to the public jail in Picos. [@5]
+
+Police searches during the operation seized firearms and ammunition allegedly used by the suspects, and the material was sent for technical forensic examination. [@9] The three detained individuals were taken to the competent police station, where they gave statements and remained at the disposal of the justice system. [@9]
