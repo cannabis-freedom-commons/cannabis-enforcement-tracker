@@ -50,6 +50,10 @@ sources:
     url: https://www.cookislandsnews.com/internal/national/court/nz-disc-jockey-convicted-on-drug-charges-after-guilty-plea/
     publisher: Cook Islands News
     date: 2024-05-01
+  - title: New Zealand DJ convicted in Cook Islands for importing cocaine and cannabis
+    url: https://www.postcourier.com.pg/new-zealand-dj-convicted-in-cook-islands-for-importing-cocaine-and-cannabis/
+    publisher: Post Courier
+    date: 2024-10-11
 open_questions:
   - The captured page carries only the opening of the article before the subscription notice, so the airport concealment, drug weights and plea details could not be read there.
   - No cannabis weight or plant count is published in the accessible text; the 31.9 grams of cocaine and 836.5 grams of coffee powder reported in other accounts are not cannabis quantities and are excluded.
@@ -58,19 +62,23 @@ open_questions:
   - The man is described as 45, and a May 2024 report gave his age as 44.
   - No appeal, parole, release date or sentencing precedent is reported.
   - The page photo is credited to the Airport Authority Cook Islands but no caption confirms it shows the seized drugs.
+  - The 836.5 grams is given for the four cannabis packages stored with layers of coffee powder, and no source states the weight of the cannabis alone.
+  - No exact sentencing date is given; the penalty was pronounced at a sitting described as "last week" before the 11 October 2024 publication date.
+  - The guilty-plea report describes possession for supply of cocaine and importation of Class C drugs, while the sentencing account describes possession and importation of both cocaine and cannabis.
 ---
 
 A New Zealand-based Cook Islander, a 45-year-old disc jockey, was sentenced to
 20 months in prison for bringing cocaine and cannabis into the Cook Islands.
 [@1] He had been arrested the previous year for bringing the drugs into the
-country. [@1] The case was described as the first significant one of its kind.
+country. [@1,3] The case was described as the first significant one of its kind.
 [@1]
 
 The sentence covered both cocaine and cannabis brought into the Cook Islands.
-[@1] A court in the Cook Islands gave him 20 months in prison. [@1]
+[@1] A court in the Cook Islands gave him 20 months in prison. [@1,4]
 
 The Cook Islands News headline report on the sentencing gives the same account
 of 20 months for bringing cocaine and cannabis into the country. [@2] A report
 at his guilty plea hearing said he had been arrested on 6 September the previous
 year for bringing cocaine and cannabis to Rarotonga. [@3]
 
+The drugs were hidden in a large container of protein powder he had brought for someone else, and the four packages of cannabis, stored in glad wrap with layers of coffee powder, weighed 836.5 grams together with that powder. [@4] Justice Colin Doherty, sentencing at the High Court in Avarua, also ordered the destruction of the seized cocaine and cannabis. [@4]
