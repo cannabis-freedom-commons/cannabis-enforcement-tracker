@@ -56,6 +56,11 @@ sources:
     publisher: SoyChile
     date: 2026-11-08
     language: es
+  - title: 'Vuelco en fiscalización por desórdenes en Antofagasta: dos carabineros son golpeados en procedimiento'
+    url: https://www.adnradio.cl/2026/11/09/vuelco-en-fiscalizacion-por-desordenes-en-antofagasta-dos-carabineros-son-golpeados-en-procedimiento/
+    publisher: ADN Radio
+    date: 2026-11-09
+    language: es
 open_questions:
   - The article gives no time for the incident beyond the Saturday 7 November 2026 date; the 22:09 stamp at the top of the page may be the publication time.
   - The suspect is described only as a 33-year-old man; no name, nationality or prior record was reported.
@@ -70,20 +75,20 @@ open_questions:
 A 33-year-old man was arrested by officers of Antofagasta's 3rd Comisaría
 (police station) on Saturday 7 November after he attacked two officers who had
 come to check a complaint about disturbances at a building in the city centre.
-[@1,2] Officers found the man behaving violently and assaulting them with punches,
+[@1,2,3] Officers found the man behaving violently and assaulting them with punches,
 kicks and scratches, and detained him for mistreating officers in the line of
-duty. [@1,2] The two injured officers were taken to a medical centre, where their
-injuries were found to be minor. [@1,2]
+duty. [@1,2,3] The two injured officers were taken to a medical centre, where their
+injuries were found to be minor. [@1,2,3]
 
 The owner of the building, used to rent out rooms, told officers the man had
 also tried to attack him with a bladed weapon, and reported a strong smell of
-drugs coming from one of the rooms. [@1,2] With the owner's authorisation,
+drugs coming from one of the rooms. [@1,2,3] With the owner's authorisation,
 Carabineros went into one of the rooms and found substances already divided into
-doses. [@1,2] Specialists from OS7, the Carabineros anti-drug unit, carried out
-field tests that were positive for marijuana and cocaine. [@1,2] The search
+doses. [@1,2,3] Specialists from OS7, the Carabineros anti-drug unit, carried out
+field tests that were positive for marijuana and cocaine. [@1,2,3] The search
 yielded 579 grams and 400 milligrams of marijuana and 164 grams and 500
 milligrams of cocaine, which El America reported as a combined 743 grams and 900
-milligrams of illegal substances. [@1,2]
+milligrams of illegal substances. [@1,2,3]
 
 Carabineros presented the procedure as an example of a prompt police response to
 residents' complaints, without naming the suspect or reporting charges over the
