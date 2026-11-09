@@ -157,6 +157,11 @@ sources:
     publisher: Akdeniz Gerçek
     date: 2026-11-09
     language: tr
+  - title: 'Adana''da uyuşturucu imalathanesine operasyon: 17 kilo esrar ele geçirildi'
+    url: https://www.kucuksaat.com/service/amp/adanada-uyusturucu-imalathanesine-operasyon-17-kilo-esrar-ele-gecirildi-56370h.htm
+    publisher: Küçük Saat
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -193,6 +198,11 @@ open_questions:
   - The page gives no separate date for the raid; 9 November 2026 is its publication date and the date of the ministry statement.
   - The page's headline photo is captioned only with the story headline and carries no photographer or agency credit, so whether it shows the workshop, the seized esrar or the operation generally is not established and no media entry is added.
   - The phrase 'adli işlem' (judicial proceedings) does not state whether the three suspects were charged, released or merely referred to prosecutors, so the court stage remains unknown.
+  - Küçük Saat gives no date or time for the raid itself; 9 November 2026 is its publication date and the date of the ministry statement.
+  - Küçük Saat credits no agency and reproduces the same Interior Ministry statement as the outlets already cited, so it is not independent reporting.
+  - The article names no district or neighbourhood for the workshop, so the place stays at province level.
+  - The phrase 'adli işlem başlatıldığı' in Küçük Saat says judicial proceedings were started against the three suspects but not whether they were charged, so the court stage remains unknown.
+  - The page's three pictures carry no caption or credit; the top one is a site-format 880x440 image and the other two have no caption tying them to the workshop, so no new media entry is added.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
@@ -204,11 +214,11 @@ together with the workshop itself, four standing air conditioners, the rest of
 the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13]
 
 The three suspects were taken into custody, and the ministry named no further
-court step. [@2,9,10,12]
+court step. [@2,9,10,12,14]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10]
+anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14]
 TRT Haber reported that the three suspects were held in gözaltı, the police
 custody in which a person is questioned while prosecutors decide on charges or
 release. [@3]
@@ -223,3 +233,5 @@ Searches at the address found 17 kilograms of esrar together with four standing 
 The address the gendarmes raided was in Seyhan district, Adana. [@9]
 
 The three detained suspects were said to have been referred for judicial proceedings. [@13]
+
+The searches found a workshop where the suspects grew cannabis indoors with a purpose-built air-conditioning system. [@14]
