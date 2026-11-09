@@ -49,6 +49,11 @@ sources:
     publisher: السياسة
     date: 2026-11-09
     language: ar
+  - title: 'الجمارك: ضبط 5650 كيلوغرام من مادة يُشتبه بأنها ماريغوانا'
+    url: https://www.alqabas.com/article/5972093-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83-%D8%B6%D8%A8%D8%B7-5650-%D9%83%D9%8A%D9%84%D9%88%D8%BA%D8%B1%D8%A7%D9%85-%D9%85%D9%86-%D9%85%D8%A7%D8%AF%D8%A9-%D9%8A%D8%B4%D8%AA%D8%A8%D9%87-%D8%A8%D8%A3%D9%86%D9%87%D8%A7-%D9%85%D8%A7%D8%B1%D9%8A%D8%BA%D9%88%D8%A7%D9%86%D8%A7-/
+    publisher: جريدة القبس
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The source gives no separate date for the inspection; 9 November 2026 is its publication date and stands in for the incident date.
   - The substance is described as suspected marijuana, called herbal hashish in Arabic; no laboratory confirmation was reported.
@@ -61,15 +66,17 @@ open_questions:
 ---
 
 Kuwait's Air Cargo Customs Department said its inspection and deposit control
-inspectors seized two parcels that arrived from South Africa. [@1,2] The parcels
+inspectors seized two parcels that arrived from South Africa. [@1,2,3] The parcels
 carried a substance suspected to be marijuana, described as herbal hashish,
-weighing 5.650 kilograms in total. [@1,2]
+weighing 5.650 kilograms in total. [@1,2,3]
 
 The parcels had been declared as ceiling lamps, and the inspectors found the
-suspected substance inside them after searching. [@1,2] After the seizure, the
+suspected substance inside them after searching. [@1,2,3] After the seizure, the
 customs search and investigation department coordinated with the Interior
 Ministry's General Department for Drug Control to complete the legal procedures
-for the seized parcels. [@1,2]
+for the seized parcels. [@1,2,3]
 
 The General Directorate of Customs said it would keep blocking drug-smuggling
 attempts through customs posts and working with security agencies. [@1]
+
+Inspectors carried out the seizure on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@3]
