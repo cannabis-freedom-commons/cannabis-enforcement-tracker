@@ -54,6 +54,11 @@ sources:
     publisher: WP Info
     date: 2026-11-09
     language: pl
+  - title: Ponad kilogram amfetaminy i marihuana. Dwóch mężczyzn zatrzymanych | Bielany | TuStolica.pl
+    url: https://tustolica.pl/narkotyki-wynajete-mieszkanie-pod-warszawa-dwoch-mezczyzn-aresztowanych_97313
+    publisher: TuStolica.pl
+    date: 2026-11-09
+    language: pl
 open_questions:
   - The accounts give no date for the arrest or the court's remand decision; 8 November 2026 is an estimate drawn from the 9 November publication date.
   - 'The exact place is not named: police describe a flat rented outside Warsaw, and Wołomin is named only as the seat of the supervising prosecutor''s office.'
@@ -64,22 +69,21 @@ open_questions:
 ---
 
 Criminal police officers from Bielany, a district of Warsaw, detained two men
-suspected of possessing large quantities of narcotics. [@1] Officers first
+suspected of possessing large quantities of narcotics. [@1,2] Officers first
 traced a flat rented outside Warsaw that they believed was used to store drugs,
 then stopped two men entering it just after 8 pm; no date for the operation is
-given. [@1] The detained men were a 41-year-old and a 45-year-old. [@1]
+given. [@1,2] The detained men were a 41-year-old and a 45-year-old. [@1,2]
 
 The younger man carried plastic bags of a light, clumped substance and a
 vaporiser with THC oil, while the older man had a plastic bag of dried plant
 material. [@1] A search of the flat found aluminium foil with another portion of
 a light, clumped substance on a table. [@1] Tests showed the seized material was
 just over a kilogram of amphetamine, almost 30 grams of mephedrone and close to
-300 grams of marijuana; only the marijuana is counted here. [@1]
+300 grams of marijuana; only the marijuana is counted here. [@1,2]
 
 Both men were charged with possessing a significant quantity of narcotics, and
 the 41-year-old faced an additional charge for possessing mephedrone in the
-flat. [@1] A court remanded both suspects in custody for three months. [@1] The
+flat. [@1,2] A court remanded both suspects in custody for three months. [@1,2] The
 charges carry up to 10 years in prison, and the Wołomin district prosecutor's
-office is supervising the case. [@1] The account rests on a police statement
+office is supervising the case. [@1,2] The account rests on a police statement
 given by subst-insp. Elwira Kozłowska and published by local outlets. [@1]
-
