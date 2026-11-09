@@ -79,6 +79,11 @@ sources:
     publisher: ETV Bharat News
     date: 2026-11-09
     language: hi
+  - title: 'Roorki News: गाजियाबाद में छिपा बैठा था 25 हजार का इनामी गांजा तस्कर'
+    url: https://www.livehindustan.com/uttarakhand/roorki/story-kaliyar-police-arrest-wanted-cannabis-supplier-in-ghaziabad-201794222314759.html
+    publisher: हिंदुस्तान (Hindustan)
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The submitted page gives no details of what happened to Siddiqui after his arrest, such as production before a court or further remand, and no fresh charge against him is reported.
   - Panchnama Khabar names Imlikheda outpost in-charge Amit Nautiyal as leading the arrest team, while the submitted page names him only as a sub-inspector on the team; the arrest location and date agree.
@@ -87,12 +92,13 @@ open_questions:
   - The arrest took place in Loni, Ghaziabad district, Uttar Pradesh, while the case and the arrest team are from Haridwar district, Uttarakhand; the report is placed at the arrest location and tagged to Haridwar as the case's origin.
   - The submitted page's photos are uncaptioned WhatsApp-named handouts with no credit; only the lead image is linked and it is not confirmed to show the arrested man or the ganja.
   - Neither account states whether the woman accused in the Kaliyar case has been arrested.
+  - Hindustan places the arrest in Ghaziabad district without naming Loni or a colony, while the existing report places it in Ved Vihar Colony in the Ankur Vihar police station area of Loni; the two accounts agree on the district and the case.
 ---
 
 Police in Haridwar district arrested Amjad Siddiqui, a ganja supplier wanted for
 about a year in the July 2025 seizure of 21 kilograms of ganja from Sabir
 Hussain at Kaliyar, from the Ankur Vihar police station area of Loni in
-Ghaziabad on 7 November 2026. [@1,5] The arrest was made by a team led by Kaliyar
+Ghaziabad on 7 November 2026. [@1,5,6] The arrest was made by a team led by Kaliyar
 station house officer Kamal Mohan Bhandari, in what the reports present as part
 of Operation Prahar, a district anti-drug drive, and the Nasha Mukt
 Devbhoomi-2026 campaign. [@1] The Haridwar senior superintendent of police had
@@ -106,7 +112,7 @@ Hussain, a resident of Ghaziabad in Uttar Pradesh, was to supply the ganja to a
 woman in Kaliyar, and police said other people in the network, especially the
 woman, were still being sought. [@4] Hussain told police he had got the load
 from Siddiqui, son of Asgar Siddiqui, and the case was registered at Kaliyar
-police station. [@2] A chargesheet against Hussain and the named woman was filed
+police station. [@2,6] A chargesheet against Hussain and the named woman was filed
 in court while Siddiqui remained at large. [@1] The case registered at Kaliyar
 police station was number 191/25 under section 8/20 of the NDPS Act, India's
 Narcotic Drugs and Psychotropic Substances Act, and police were looking for the
@@ -119,3 +125,5 @@ robbery, assault and the Arms Act. [@2] Police said they were gathering fuller
 details of his criminal record. [@1]
 
 ETV Bharat places the arrest in Ved Vihar Colony in the Ankur Vihar police station area of Loni, describing it as a raid after the team gathered leads through manual policing. [@5] Kaliyar station house officer Kamal Mohan Bhandari said the arrested man already faced cases under the NDPS Act, robbery and the Arms Act registered in Ghaziabad and Delhi, and that police were now gathering information on his criminal network and others linked to the drug trade. [@5]
+
+Police said he was a key member and main supplier of the ganja trafficking network. [@6]
