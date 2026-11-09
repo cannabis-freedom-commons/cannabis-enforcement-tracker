@@ -69,6 +69,11 @@ sources:
     publisher: La Razón
     date: 2026-11-05
     language: es
+  - title: 'Caso maletas: marihuana química y muerte sospechosa'
+    url: https://elpais.bo/seguridad/20261107_caso-maletas-marihuana-quimica-y-muerte-sospechosa.html
+    publisher: El País Tarija
+    date: 2026-11-07
+    language: es
 open_questions:
   - The article does not date the January search that seized the 70 kilograms; 6 November 2026 is the publication date of the minister's press conference and is used as the incident date.
   - No figure for the weight of the marijuana in the more than 30 suitcases was published; only the 70 kilograms found in the January search is counted.
@@ -88,12 +93,12 @@ open_questions:
 
 Bolivia's interior minister, Marco Antonio Oviedo, said the more than 30
 suitcases flown into the country from the United States in November 2025 carried
-chemically altered marijuana that would fetch a high price in Brazil. [@1,4] After
+chemically altered marijuana that would fetch a high price in Brazil. [@1,4,7] After
 nearly a year, the authorities say they still do not know what became of the
 drug once it entered Bolivia. [@1]
 
 The suitcases arrived at Viru Viru airport in Santa Cruz de la Sierra on 29
-November 2025 on a private aircraft from the United States. [@1] Oviedo said the
+November 2025 on a private aircraft from the United States. [@1,7] Oviedo said the
 pilot was ordered to divert to San Ramón airport in Santa Cruz department,
 refused, and landed at Viru Viru, and that the luggage was cleared the next day
 as diplomatic baggage. [@1]
@@ -122,6 +127,6 @@ the suitcases the next day through a company belonging to Zeballos. [@2,4] Maria
 is held in preventive detention in Cantumarca prison while Saucedo has left
 Bolivia and his whereabouts are unknown. [@3]
 
-Vice-Minister of the Interior Peter Maldonado said Juan Carlos Espinoza Vaca, described as an alleged frontman for the organization, died while detained in Palmasola prison. [@4] Maldonado said doubts remain about the circumstances of that death and announced an investigation to clarify the cause and determine whether there are linked responsibilities. [@4]
+Vice-Minister of the Interior Peter Maldonado said Juan Carlos Espinoza Vaca, described as an alleged frontman for the organization, died while detained in Palmasola prison. [@4,7] Maldonado said doubts remain about the circumstances of that death and announced an investigation to clarify the cause and determine whether there are linked responsibilities. [@4,7]
 
 Zeballos said he did not know that the owner was Romer Saucedo and that he doubted Rojas's version because the person he spoke to told him the suitcases had Mariaca's protection. [@5]
