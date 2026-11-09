@@ -65,6 +65,11 @@ media:
     media_url: https://media.tag24.de/951x634/e/1/e1effh4ozl8ob95koyb2qmtqd5gdkht9.jpg
     publisher: TAG24
     caption: 'Customs graphic explaining that a cutting planted and grown on becomes a seedling, a cannabis plant that may not be imported into Germany, published with the A3 seizure report. Photo: Zoll Regensburg'
+  - kind: photo
+    url: https://www.pnp.de/lokales/stadt-straubing-und-landkreis-straubing-bogen/13-kartons-aus-oesterreich-zoll-stellt-auf-der-a3-bei-hunderdorf-1230-cannabispflanzen-sicher-22385747
+    media_url: https://img.pnp.de/ezplatform/images/0/7/1/3/455913170-1-ger-DE/108a73185efa-29-145120849.jpg
+    publisher: Passauer Neue Presse
+    caption: 'Four of the 1,230 cannabis plants seized near Hunderdorf, already rooted in soil and so classed as seedlings. Photo: Hauptzollamt Regensburg'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b1794f7d68669772a969a6ef7071f566
@@ -95,6 +100,11 @@ sources:
     publisher: Oberpfalz-Aktuell
     date: 2026-11-09
     language: de
+  - title: '13 Kartons aus Österreich: Zoll stellt auf der A3 bei Hunderdorf 1230 Cannabispflanzen sicher'
+    url: https://www.pnp.de/lokales/stadt-straubing-und-landkreis-straubing-bogen/13-kartons-aus-oesterreich-zoll-stellt-auf-der-a3-bei-hunderdorf-1230-cannabispflanzen-sicher-22385747
+    publisher: Passauer Neue Presse (pnp.de)
+    date: 2026-11-09
+    language: de
 open_questions:
   - Customs does not state the driver's or passenger's nationality, only that their van was Slovak-registered and had carried the parcels from Austria.
   - 'The release recommends no arrest: the two men were allowed to continue their journey, and no detention, charges before a court or outcome is reported.'
@@ -112,12 +122,15 @@ open_questions:
   - TAG24 credits the customs unit to Zoll Regensburg and names it as Kontrolleinheit Verkehrswege Furth im Wald, consistent with the report's attribution to the Regensburg main customs office.
   - The Oberpfalz-Aktuell page appears to reproduce the Regensburg main customs office's release, so it is not independent reporting of the check.
   - The page's only photograph is captioned with the story headline and carries no credit identifying it, so no media entry is added for it.
+  - The Passauer Neue Presse text is a regional title of the same publishing group as Wochenblatt.de and reproduces the customs office's release, so it is not independent reporting of the check.
+  - The page dates the check only to "Monday of last week"; the 2 November date comes from the customs release already cited.
+  - 'Left out, as its quotation was not found in Passauer Neue Presse (pnp.de): Customs officers of the Furth im Wald traffic control unit of the Regensburg main customs office seized 1,230 cannabis plants on the A3 near Hunderdorf on 2 November 2026.'
 ---
 
 Customs officers of the Furth im Wald traffic control unit of the Regensburg
 main customs office seized 1,230 cannabis plants on the A3 near Hunderdorf on 2
 November 2026. [@1,2,4,5] Customs opened criminal proceedings against the van's driver
-and his passenger on suspicion of the prohibited import of cannabis. [@1,4] The
+and his passenger on suspicion of the prohibited import of cannabis. [@1,4,6] The
 plants had been carried from Austria into Germany in a small van. [@1]
 
 During the check of the Slovak-registered van the two men said they were
@@ -139,3 +152,5 @@ said the import of seedlings into Germany is prohibited even from another EU
 state and regardless of the number of plants. [@1]
 
 Customs said a cutting (Steckling), a young plant or shoot without flowers or fruit, counts under the Cannabis Consumption Act as propagation material and not as cannabis. [@2] Once a cutting is planted and grows on as an independent plant it becomes a seedling (Setzling), which counts as a cannabis plant. [@2] The customs office said the label used in an online shop, an order or on a parcel does not decide the classification; the plant's actual stage of development does. [@2] Customs noted that the import ban applies to seedlings and independent plants even from another EU state and regardless of the number of plants, and that the rules letting adults grow up to three plants at home do not permit ordering plants from abroad. [@2] Customs is entitled to check consignments moved from other EU states to Germany because bans and restrictions remain for certain goods despite the free movement of goods within the European Union. [@2]
+
+The article credits the Regensburg main customs office for the account and publishes two customs handout photographs of the seized young plants. [@6]
