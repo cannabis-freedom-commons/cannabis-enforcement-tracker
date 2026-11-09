@@ -71,6 +71,11 @@ sources:
     publisher: Noticias para Municipios
     date: 2026-11-09
     language: es
+  - title: Detenido un hombre con 714 plantas de marihuana en una vivienda de Batres (Madrid)
+    url: https://theobjective.com/sociedad/suceso/2026-11-09/detenido-hombre-714-plantas-marihuana-vivienda-madrid/
+    publisher: The Objective
+    date: 2026-11-09
+    language: es
 open_questions:
   - No date is given for the search or the arrest; 9 November 2026 is the day the Guardia Civil announced the operation and the publication date, and is used as the incident date.
   - No weight was published for the hashish, only the count of 13 pressed tablets, so no kilogram figure can be recorded.
@@ -79,22 +84,23 @@ open_questions:
   - The outlets carry the same Guardia Civil statement rather than independent reporting, so contradictory versions could not be compared.
   - The published photos are Guardia Civil handout images; only the La Razón copy's direct image address could be confirmed, so only one photo is listed.
   - Left out environment, as its quotation was not found in Madrid Actual.
+  - The Objective publishes the same Guardia Civil statement as the outlets already cited and adds no independently verified facts.
+  - The page's lead photograph shows hashish in a car boot and belongs to a separate Huelva story, not to the Batres raid, so it is not recorded as media.
 ---
 
 Guardia Civil officers searched a detached house (vivienda unifamiliar) in
 Batres, in the south-west of the Community of Madrid, and found an indoor
 cannabis plantation inside it. [@2] The officers seized 714 cannabis plants and
-13 pressed tablets of hashish resin. [@1] They also seized products and tools
+13 pressed tablets of hashish resin. [@1,5] They also seized products and tools
 used to grow and maintain the plants. [@1]
 
 A 40-year-old man was arrested as the suspected author of a crime against public
-health and of electricity fraud. [@1]
+health and of electricity fraud. [@1,5]
 
 The police said the inquiries began after neighbours complained about a possible
 indoor cannabis crop in the town. [@3] The Guardia Civil in Madrid said the
 investigation began at the start of September, when several neighbours'
-complaints alerted officers to a possible cannabis crop inside the house. [@4]
+complaints alerted officers to a possible cannabis crop inside the house. [@4,5]
 Noticias para Municipios described the installation as an indoor grow, the kind
 that uses artificial lighting and controlled conditions to cultivate marijuana
 in enclosed spaces. [@4]
-
