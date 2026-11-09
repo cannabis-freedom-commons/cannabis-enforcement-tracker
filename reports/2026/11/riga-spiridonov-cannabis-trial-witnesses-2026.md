@@ -68,6 +68,11 @@ sources:
     publisher: ReTV
     date: 2025-06-20
     language: lv
+  - title: Суд продолжит допрос свидетелей по делу одного из самых известных криминальных авторитетов Латвии
+    url: https://rus.tvnet.lv/8579632/sud-prodolzhit-dopros-svideteley-po-delu-odnogo-iz-samyh-izvestnyh-kriminalnyh-avtoritetov-latvii
+    publisher: rus.tvnet.lv
+    date: 2026-11-08
+    language: ru
 open_questions:
   - 8 November 2026 is the publication date of the LETA/TVNET item; the article gives no separate date for the hearing or step it reports, so that date stands in for the incident date.
   - The 4 December hearing had not taken place when the article was published, and no verdict, sentence or plea was reported for any defendant.
@@ -79,9 +84,9 @@ open_questions:
 ---
 
 Nine people are on trial at Latvia's Economic Affairs Court, including Jurijs
-Spiridonovs, one of the country's best-known organised-crime figures. [@1] The
+Spiridonovs, one of the country's best-known organised-crime figures. [@1,6] The
 court will sit again on 4 December at 14:00 to continue hearing witnesses, the
-agency LETA learned at the court. [@1] Four of the nine defendants are held in
+agency LETA learned at the court. [@1,6] Four of the nine defendants are held in
 custody as a preventive measure. [@1] Three defendants were arrested in Spain
 and extradited to Latvia after cooperation between the two countries. [@1]
 
@@ -91,7 +96,7 @@ organised group that grew drug-containing plants illegally over large areas and
 distributed the drugs in the Baltic states and Scandinavia. [@2] The group,
 formed by four people, produced marijuana in indoor plantations in Spain from at
 least the start of 2020 until autumn 2024 and then organised its transport to
-Latvia and Norway for sale. [@1] The group also included Russian and Moldovan
+Latvia and Norway for sale. [@1,6] The group also included Russian and Moldovan
 citizens prosecuted in other countries. [@1] Prosecutors say the group's leader,
 using family members, tried to launder at least 70,000 euros. [@1] Another
 member of the group paid at least 19,695 euros of criminally obtained money into
@@ -125,4 +130,3 @@ money laundering. [@4] Another charge concerns sowing or growing drug-containing
 plants illegally on a large scale or in an organised group. [@4] The prosecution
 has also described the mechanism as marijuana grown in Spain, sold in the
 Baltics and Scandinavia, with the profit laundered in Latvia. [@5]
-
