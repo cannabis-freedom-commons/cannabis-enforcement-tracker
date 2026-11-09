@@ -59,6 +59,11 @@ sources:
     publisher: Fronda.pl
     date: 2026-11-09
     language: pl
+  - title: 波兰捣毁两处安非他明实验室，查获价值160万兹罗提毒品——RMF24
+    url: https://ua.news/cn/dovkolo-svitu/u-polshchi-likviduvali-dvi-laboratoriyi-amfetaminu-i-viluchili-narkotiki-na-1-6-mln-zlotikh-rmf24
+    publisher: UA.NEWS
+    date: 2026-11-09
+    language: zh
 open_questions:
   - No separate date is given for the searches, detentions or arrests; 9 November 2026 is the publication date of both accounts and stands in for the incident date.
   - No count of cannabis plants, weight of cannabis or area of the cultivation was published; the only cannabis evidence stated is the cultivation and dried plant material in the allotment shed and growing equipment at one suspect's home.
@@ -70,30 +75,31 @@ open_questions:
   - Both cited pages publish the same CBŚP statement, so they are not independent reporting; no police page or other outlet account of the operation was found.
   - The submitted page's photograph is captioned only as a frame from a video shared by the police, and the report does not say which laboratory or materials it shows.
   - The text gives a weight ("3.5 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The Chinese-language account gives the same police-sourced details as the Polish reports and does not independently confirm them.
+  - No separate date is given for the searches or detentions; 9 November 2026 is both its publication date and the date of the account it translates.
 ---
 
 Officers of the Bydgoszcz branch of the Central Bureau of Investigation of
 Police (CBŚP) and the Central Bureau for Combating Cybercrime (CBZC) detained
 two men, identified as Tomasz D. and Sebastian B., in an operation against two
-illegal amphetamine laboratories in Gdynia and Rumia. [@1]
+illegal amphetamine laboratories in Gdynia and Rumia. [@1,3]
 
 The first laboratory, with a complete production line for amphetamine, operated
 on a plot in an allotment garden in Gdynia; the second was in the basement of an
-apartment block in Rumia and belonged to Tomasz D. [@1]
+apartment block in Rumia and belonged to Tomasz D. [@1,3]
 
 The police statement reported that the allotment shed where the drug was made
 also contained a cultivation of hemp other than fibre hemp and dried plant
 material, with no plant count or weight given. [@2] At the home of the second
 suspect, police found equipment for growing marijuana along with amphetamine.
-[@1]
+[@1,3]
 
 Both suspects were charged with illegal production of significant quantities of
 drugs, cultivation of hemp other than fibre hemp, and possession of intoxicating
-and psychotropic substances. [@1] The two men were taken to the District
+and psychotropic substances. [@1,3] The two men were taken to the District
 Prosecutor's Office in Gdynia, and a court ordered them held in temporary arrest
 at the prosecutor's request. [@2]
 
 The police figures for the operation concern amphetamine: 3.5 kg of liquid
 amphetamine and more than 45 litres of liquid base amphetamine, valued by police
 at about 1.6 million zlotys, and are not counted as cannabis. [@2]
-
