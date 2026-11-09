@@ -66,6 +66,16 @@ sources:
     publisher: Sarmad (via KUNA)
     date: 2026-11-09
     language: ar
+  - title: بتوجيهات وزير الداخلية.. الجمارك تضبط 5,650 كيلوغرامات من مادة يشتبه أنها ماريجوانا قادمة من بلد إفريقي
+    url: https://kuwaitnews.com/138485/
+    publisher: كويت نيوز
+    date: 2026-11-09
+    language: ar
+  - title: جمارك الكويت تضبط أكثر من 5 كيلوغرامات من الماريجوانا مخبأة في طرود «مصابيح سقف»
+    url: https://sabq.org/article/K2HizLA
+    publisher: صحيفة سبق الإلكترونية
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The source gives no separate date for the inspection; 9 November 2026 is its publication date and stands in for the incident date.
   - The substance is described as suspected marijuana, called herbal hashish in Arabic; no laboratory confirmation was reported.
@@ -78,12 +88,15 @@ open_questions:
   - Al Qabas reproduces the same customs statement as the outlets already cited and credits the text to SyndiGate Media, so it is not independent reporting.
   - No date is given for the customs inspection; 9 November 2026 is the publication date.
   - No arrests, suspects, nationalities, charges or value estimate were reported, and no court outcome is known.
+  - The Kuwait News page names the parcels' origin only as an African country, while the Sabq account of the same customs statement and the existing report name South Africa.
+  - The page gives no separate date for the customs inspection; 9 November 2026 is its publication date.
+  - The page's single photograph is uncaptioned and uncredited and is not shown to depict these parcels, so it is left out.
 ---
 
 Kuwait's Air Cargo Customs Department said its inspection and deposit control
-inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5] The parcels
+inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7] The parcels
 carried a substance suspected to be marijuana, described as herbal hashish,
-weighing 5.650 kilograms in total. [@1,2,3,4,5]
+weighing 5.650 kilograms in total. [@1,2,3,4,5,6]
 
 The parcels had been declared as ceiling lamps, and the inspectors found the
 suspected substance inside them after searching. [@1,2,3,4,5] After the seizure, the
@@ -95,3 +108,5 @@ The General Directorate of Customs said it would keep blocking drug-smuggling
 attempts through customs posts and working with security agencies. [@1]
 
 Inspectors carried out the seizure on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@3]
+
+Kuwait's General Directorate of Customs said the seizure was made on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@6]
