@@ -64,6 +64,11 @@ sources:
     publisher: Corriere Etneo
     date: 2026-11-09
     language: it
+  - title: 'Maxi sequestro a Catania: Carabinieri bloccano auto con oltre un chilo di cocaina e marijuana (VIDEO)'
+    url: https://www.nuovosud.it/articoli/330170-cronaca-catania/maxi-sequestro-catania-carabinieri-bloccano-auto-con-oltre-un-chilo
+    publisher: Nuovo Sud
+    date: 2026-11-09
+    language: it
 open_questions:
   - The accounts give no separate date for the stop and arrest; 9 November 2026 is their publication date and is used as the incident date.
   - The marijuana is described only as marijuana, with no laboratory confirmation reported.
@@ -72,20 +77,22 @@ open_questions:
   - CataniaToday's headline figure of about 1.5 kilograms of drugs combines cocaine and marijuana and is not split in its text.
   - CataniaToday and Etna News 24 both publish the same Carabinieri handout image, so one photo entry is listed from CataniaToday, which credits it to the Carabinieri.
   - Left out agencies, as no supporting quotation was given.
+  - Nuovo Sud gives no separate date for the stop; 9 November 2026 is its publication date.
+  - Nuovo Sud describes the man as previously convicted, consistent with MeridioNews but still unverified beyond the outlets' accounts.
 ---
 
 Carabinieri from the investigative unit of the Catania provincial command
 arrested a 39-year-old man from Catania in the San Giorgio district on suspicion
-of possessing drugs for sale. [@1,4] Officers noticed him driving a small car in
+of possessing drugs for sale. [@1,4,5] Officers noticed him driving a small car in
 via dei Platani and, suspicious of his behaviour while watching him, followed
 him discreetly before stopping the vehicle. [@1,4]
 
 A search of the man and the car found 8 grams of marijuana in a shoulder bag
-left on the seat. [@1,4] A block of cocaine weighing more than 1.2 kilograms was
-hidden in the bonnet panel, and the drugs were seized. [@1,4]
+left on the seat. [@1,4,5] A block of cocaine weighing more than 1.2 kilograms was
+hidden in the bonnet panel, and the drugs were seized. [@1,4,5]
 
 He was placed in pre-trial detention in prison at the disposal of the judicial
-authorities. [@1,4]
+authorities. [@1,4,5]
 
 MeridioNews reported that the arrested man had previous convictions. [@2]
 
