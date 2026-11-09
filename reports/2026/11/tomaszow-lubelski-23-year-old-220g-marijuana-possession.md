@@ -58,6 +58,11 @@ sources:
     publisher: WP Info
     date: 2026-11-09
     language: pl
+  - title: 'Tomaszów Lub: Jechał samochodem z marihuaną. Kolejne porcje suszu policja znalazła w jego domu - Zamojska24'
+    url: https://zamojska24.pl/zamojszczyzna/tomaszow-lub-jechal-samochodem-z-marihuana-kolejne-porcje-suszu-policja-znalazla-w-jego-domu/s2bbRjFKgu97wGgoAhhl
+    publisher: Zamojska24
+    date: 2026-11-09
+    language: pl
 open_questions:
   - The statement gives no separate date for the detention or the search; 9 November 2026 is the publication date and is used as the incident date.
   - The weight is stated only as more than 220 grams of marijuana, with no exact figure and no laboratory confirmation of the substance.
@@ -66,16 +71,17 @@ open_questions:
   - Only the police statement itself was found; no second outlet coverage could be opened.
   - The 'up to three years' is the penalty the law allows, not a sentence given.
   - The WP Info account gives the same unspecific weight ('more than 220 grams'), no split between the car and the home, and no separate date for the detention, detention ruling or court outcome as the existing report.
+  - The page's main photo caption only repeats the headline, so it cannot be confirmed to show this seizure and no media entry is added.
 ---
 
 Detectives from the Tomaszów Lubelski police detained a 23-year-old resident of
 the municipality of Tomaszów Lubelski who, by their findings, may have held
-drugs. [@1,2]
+drugs. [@1,2,3]
 
 In the car the man was in, which detectives were watching, officers found
-marijuana. [@1,2] At his home officers seized further portions of dried plant
-material, bringing the total to more than 220 grams of marijuana. [@1,2] The
-23-year-old was charged with illegal possession of a narcotic drug. [@1,2] Under
+marijuana. [@1,2,3] At his home officers seized further portions of dried plant
+material, bringing the total to more than 220 grams of marijuana. [@1,2,3] The
+23-year-old was charged with illegal possession of a narcotic drug. [@1,2,3] Under
 Poland's law on counteracting drug addiction, illegal possession of a narcotic
 drug carries a penalty of up to three years in prison. [@1,2]
 
