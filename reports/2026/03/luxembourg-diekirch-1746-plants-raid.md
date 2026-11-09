@@ -77,6 +77,11 @@ sources:
     publisher: Virgule
     date: 2026-04-14
     language: fr
+  - title: Luxembourg police seize 1,746 cannabis plants at house
+    url: https://www.luxtimes.lu/luxembourg/luxembourg-police-seize-1746-cannabis-plants-at-house/145756021.html
+    publisher: Luxembourg Times
+    date: 2026-04-14
+    archived: https://web.archive.org/web/20260423194519id_/https://www.luxtimes.lu/luxembourg/luxembourg-police-seize-1746-cannabis-plants-at-house/145756021.html
 media:
   - kind: photo
     url: https://today.rtl.lu/news/luxembourg/over-1-700-cannabis-plants-found-in-house-near-belgian-border-1186297272
@@ -93,12 +98,12 @@ open_questions:
 
 On 22 March 2026 the Diekirch public prosecutor’s office said the Grand Ducal
 Police opened an inquiry after the owner of a rented single-family house reported
-a foreign tenant. [@1,2,3,4,5,7] Officers searched the property in northern Luxembourg,
+a foreign tenant. [@1,2,3,4,5,7,8] Officers searched the property in northern Luxembourg,
 near the Belgian border, and seized 1,746 cannabis plants grown indoors along
 with large quantities of cultivation material. [@1,2,3,4,5,6,7]
 
 Two suspects who were in Luxembourg illegally and lived in the house to tend the
-plants were arrested. [@1,2,3,4,5,6,7] They appeared before an examining magistrate in
+plants were arrested. [@1,2,3,4,5,6,7,8] They appeared before an examining magistrate in
 Diekirch on 23 March and were charged under Luxembourg’s 1973 drug law with
 cultivating cannabis, putting the drugs into circulation and laundering the
 proceeds. [@1,2,3,4,6,7] The magistrate issued arrest warrants and both men were held in
