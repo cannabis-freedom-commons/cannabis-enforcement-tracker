@@ -51,36 +51,42 @@ sources:
     publisher: 7Segundos
     date: 2026-11-07
     language: pt
+  - title: Mãe e filho são presos por associação ao tráfico em Delmiro Gouveia
+    url: https://nn1.com.br/2026/11/9/mae-e-filho-sao-presos-por-associacao-ao-trafico-em-delmiro-gouveia
+    publisher: NN1
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No weight, portion weight, cash amount or other quantity was published, so no cannabis weight is recorded and the combined cocaine and crack are not counted as cannabis.
   - No names, ages or later custody or court outcome were reported for the three people taken to the Civil Police.
   - Only one account of this arrest could be opened; no second source confirming or adding facts was found.
   - The same article also reports a separate robbery case in which officers seized an adolescent and recovered a motorcycle in Povoado Salgado and Povoado Cruz; that is a different event left out of this report.
+  - This NN1 account of the same Delmiro Gouveia arrests names no quantities of the maconha found and states no cash amount, so the report still has no cannabis weight.
+  - The NN1 text gives no time of day for the arrests, so the afternoon timing in the report rests on the earlier 7Segundos account alone.
 ---
 
 Military police in Delmiro Gouveia arrested a mother and son and took a third
-man to the police station on the afternoon of Friday 6 November 2026. [@1] The
+man to the police station on the afternoon of Friday 6 November 2026. [@1,2] The
 arrests were carried out by the Military Police of Alagoas through the 9th
-Military Police Battalion. [@1] The mother and son were booked in flagrante for
-association for drug trafficking. [@1]
+Military Police Battalion. [@1,2] The mother and son were booked in flagrante for
+association for drug trafficking. [@1,2]
 
 The case spanned two points in Delmiro Gouveia, in the Pedra Velha and Ponto
-Chique II neighbourhoods. [@1] Officers seized maconha alongside cocaine and
-crack, including packages stored in a wardrobe, as well as cash. [@1] A Pelopes
+Chique II neighbourhoods. [@1,2] Officers seized maconha alongside cocaine and
+crack, including packages stored in a wardrobe, as well as cash. [@1,2] A Pelopes
 special-operations team investigating a motorcycle theft spotted a man riding a
-motorcycle on Rua Deputado José Bandeira de Medeiros. [@1] After the rider tried
+motorcycle on Rua Deputado José Bandeira de Medeiros. [@1,2] After the rider tried
 to discard a package, officers stopped him, recovered it and found it held two
-portions of maconha. [@1] The rider wore an electronic ankle bracelet and
+portions of maconha. [@1,2] The rider wore an electronic ankle bracelet and
 already answered for drug trafficking, and he said he was a user and told
-officers where and from whom he had bought the drugs. [@1] At the house he
+officers where and from whom he had bought the drugs. [@1,2] At the house he
 indicated, officers saw a man and a woman at the gate who ran inside the house
-when they noticed the police. [@1]
+when they noticed the police. [@1,2]
 
 Officers contained the woman as she tried to discard maconha and cash and found
-the man in one of the bedrooms. [@1] Relatives and neighbours tried to interfere
+the man in one of the bedrooms. [@1,2] Relatives and neighbours tried to interfere
 and enter the house during the search, prompting officers to use an aerosol
-spray to disperse the group and protect those present. [@1] The woman resisted,
+spray to disperse the group and protect those present. [@1,2] The woman resisted,
 requiring force and handcuffs to restrain her, and all three were taken for
 examinations at the Delmiro Gouveia emergency care unit before being presented
-to the Civil Police at the integrated public-security centre. [@1]
-
+to the Civil Police at the integrated public-security centre. [@1,2]
