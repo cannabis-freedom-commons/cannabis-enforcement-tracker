@@ -35,6 +35,11 @@ sources:
     publisher: Le Parisien
     date: 2022-02-09
     language: fr
+  - title: 'Moufide Bouchibi : condamné à Bordeaux, le numéro un du cannabis français a été arrêté à Dubaï'
+    url: https://www.sudouest.fr/justice/condamne-a-vingt-ans-de-prison-a-bordeaux-et-arrete-a-dubai-le-numero-un-du-cannabis-francais-est-sous-les-verrous-1966537.php
+    publisher: SudOuest.fr
+    date: 2021-04-06
+    language: fr
 open_questions:
   - The article dates the arrest only as Sunday before its 25 March 2021 publication, so 21 March 2021 is used as the incident date as the preceding Sunday.
   - No quantity of cannabis seized at the Dubai arrest itself was published.
@@ -52,6 +57,12 @@ open_questions:
   - Dubai police's estimate that he imported 60 tonnes of drugs a year is an annual trafficking estimate, not a seizure, and is not recorded as kilograms seized.
   - The defence's announced cassation appeal and the parallel trafficking case had no reported outcome in this article.
   - No event photo is listed because the page's single image credit points to Dubai police and its caption could not verify it shows this appeal hearing.
+  - Sud Ouest puts the Dubai arrest on 20 March 2021, while the RMC account cited in the report dates it only to the Sunday before its 25 March publication; the report's 21 March incident date is kept, and the day differs between sources.
+  - Sud Ouest says his network was estimated to sell 50 to 100 tonnes of resin a year in France, while RMC said about 50 tonnes a year; the report keeps its figure and no kilograms are recorded from either estimate.
+  - The 750 kilograms seized from the Mercedes in Tarn-et-Garonne in 2011 belong to a separate seizure, not the Dubai arrest, and are not recorded as kilograms seized here.
+  - Sud Ouest uses ''shit'' as slang for cannabis resin; the account gives no further breakdown of the tonnes it estimates.
+  - The page's only photo is a Sud Ouest archive picture of Moufide Bouchibi, not an image of the Dubai arrest, so no media entry is added.
+  - Sud Ouest reports that customs intercepted 7 tonnes and thereby disrupted the anti-narcotics office's plan, and that its then head was later charged with complicity in drug trafficking; these events are not further specified in this account.
 also: [arrest]
 details:
     agencies: [Bordeaux Court of Appeal]
@@ -76,7 +87,7 @@ data_sources:
 ---
 
 Moufide Bouchibi, described as France's biggest drug trafficker, was arrested in
-Dubai. [@1,2] He was the man France's drugs squad had dreamed of arresting for
+Dubai. [@1,2,4] He was the man France's drugs squad had dreamed of arresting for
 more than 20 years. [@1] He headed the main networks importing Moroccan cannabis
 into Europe. [@1] He had lived outside France for more than ten years, hidden
 between Algeria, Morocco and finally Dubai. [@1]
@@ -92,3 +103,5 @@ teams worked for him, communicating in coded language, leaving unsent draft
 messages in mailboxes and using up to 80 telephones in a set order. [@1]
 
 On appeal in Bordeaux, Moufide Bouchibi was sentenced to 18 years in prison for a series of cannabis go-fasts. [@3] The go-fasts dated to 2011 and 2012 and involved several tonnes of cannabis. [@3] The appeal court added a two-thirds security period, a fine of one million euros and a customs fine of 2.9 million euros. [@3] He had been arrested in Dubai in March after nine years on the run and then transferred to France. [@3] His retrial before the same Bordeaux court the following September had resulted in a 16-year prison sentence. [@3] On appeal he denied being behind the trafficking. [@3] The defence challenged the telephone interceptions after learning the exhibits had been destroyed. [@3] His lawyers said they would file a cassation appeal that same day. [@3] He is being tried in parallel over alleged leadership of a 2010s drug-trafficking network. [@3]
+
+In 2011 a Mercedes carrying 750 kg of cannabis was chased in Tarn-et-Garonne, leading investigators to a courier network supplying Agen and Toulouse. [@4] In 2015, 14 of his associates were heavily sentenced in Bordeaux in his absence. [@4]
