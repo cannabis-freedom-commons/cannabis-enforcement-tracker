@@ -60,12 +60,20 @@ sources:
     url: https://www.newsx.com/regionals/delhi-igi-airport-drug-haul-woman-returning-from-thailand-arrested-with-65-kg-of-cannabis-worth-rs-229-crore-291060/
     publisher: NewsX
     date: 2026-11-09
+  - title: Woman arrested at IGI Airport for smuggling 3 kg of suspected ganja worth Rs 1.04 crore
+    url: https://www.tribuneindia.com/news/delhi/woman-arrested-at-igi-airport-for-smuggling-3-kg-of-suspected-ganja-worth-rs-1-04-crore/
+    publisher: The Tribune
+    date: 2026-11-09
 open_questions:
   - Neither opened source names the women, gives their ages or home towns, or reports a remand, charge sheet or court date; customs said only that both investigations were continuing.
   - Customs is quoted throughout, but the Delhi Customs statement itself or its X post for these two cases could not be opened, so the account rests on the two Hindi news reports.
   - Times Now Navbharat rounds the combined value to Rs 3.3 crore, while Janbhawna Times gives Rs 3.33 crore for the same 9,528.7 g; the report uses the Rs 3.33 crore figure consistently with the two case values (Rs 2.29 crore and Rs 1.04 crore).
   - The lead image on the Times Now Navbharat page is captioned as an AI-generated picture and the Janbhawna Times image carries no caption tying it to the seizure, so neither is listed as media.
   - The NewsX page reports only the TG331 woman with about 6.5 kg; it does not mention the second 30 October case on flight TG315 with 2,988.7 g recorded in the existing report.
+  - The report's figures cover only the 2,988.7 g case; the combined 9,528.7 g total in the existing report sums this and the separate 6,540 g TG331 case.
+  - The Tribune names no flight; the TG315 flight number comes from the existing report's Hindi sources.
+  - The woman's name, age, nationality and any remand or charge-sheet step remain unpublished.
+  - The Tribune gives the quantity as 2,988.7 g while the headline rounds it to 3 kg; the measured net weight is used.
 ---
 
 Customs officers at Delhi's Indira Gandhi International Airport arrested two
@@ -78,15 +86,17 @@ In the first case, six polythene packets weighing 6,540 grams were found in the
 trolley bag of a woman who arrived on flight TG331. [@1,3] Customs valued that
 load at about Rs 2.29 crore. [@1,3] In the second case, two polythene packets
 hidden in the bag of a woman who arrived on flight TG315 weighed 2,988.7 grams.
-[@1] Customs put that seizure's value at about Rs 1.04 crore. [@1] Together the
+[@1,4] Customs put that seizure's value at about Rs 1.04 crore. [@1,4] Together the
 two bags held 9,528.7 grams, about 9.5 kg, of suspected ganja. [@1] Preliminary
 testing confirmed that the substance in both cases was ganja or marijuana. [@1]
 Janbhawna Times, an Indian news site, reported the combined estimated value as
 about Rs 3.33 crore. [@2]
 
 Both women were arrested under Section 43(b) of the NDPS Act and the ganja was
-seized under Section 43(a). [@2,3] The arrests were made under Section 43(b) of
+seized under Section 43(a). [@2,3,4] The arrests were made under Section 43(b) of
 the Narcotic Drugs and Psychotropic Substances Act, 1985, and the seizures under
 Section 43(a). [@1] Customs registered the cases under Sections 8, 20, 23 and 29
 of the Act. [@1] Customs said its investigation in both cases was continuing and
-that surveillance against drug smuggling at the airport was ongoing. [@1]
+that surveillance against drug smuggling at the airport was ongoing. [@1,4]
+
+The pouches were hidden inside the woman's grey coloured trolley bag, and her arrest was recorded around 10 am on 30 October. [@4]
