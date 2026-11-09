@@ -82,6 +82,10 @@ sources:
     url: https://www.rediff.com/news/report/441-kg-ganja-seized-in-jharkhand-four-arrested/20261109.htm
     publisher: Rediff.com
     date: 2026-11-09
+  - title: 441 kg of ganja worth Rs 2.2 crore seized in Jharkhand, 4 arrested
+    url: https://theprint.in/india/441-kg-of-ganja-worth-rs-2-2-crore-seized-in-jharkhand-4-arrested/3093935/
+    publisher: ThePrint / Press Trust of India
+    date: 2026-11-09
 open_questions:
   - The article gives no separate date for the recovery; 8 November 2026 is its publication date and is used as the incident date.
   - The total is presented as 426 packets of about one kilogram each, so the 426 kg figure is the police's own calculation rather than a measured weight.
@@ -102,7 +106,7 @@ open_questions:
 ---
 
 Garhwa police in Jharkhand recovered 426 kilograms of ganja from a container
-parked beside the road near the Kalyanpur overbridge. [@1,2,3,4,5] The superintendent of
+parked beside the road near the Kalyanpur overbridge. [@1,2,3,4,5,7] The superintendent of
 police acted on a tip and sent a special raiding team led by Garhwa
 sub-divisional police officer Dillu Lohra, with station house officer Sunil
 Kumar Tiwari and other officers. [@1,3] The team found the container standing
@@ -114,7 +118,7 @@ structure that was being used to carry narcotics concealed. [@1,3,5] The contain
 was taken to Garhwa police station, where officers cut the hidden box open with
 a cutter machine and found 426 packets of ganja wrapped in plastic bags. [@1,3,5]
 Each packet weighed about one kilogram, giving the police's total of 426
-kilograms of ganja. [@1,3,5]
+kilograms of ganja. [@1,3,5,7]
 
 Lohra said Garhwa police were running a continuing campaign against the illegal
 narcotics trade and smuggling. [@1,2] Police said further investigation was under

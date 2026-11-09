@@ -51,6 +51,10 @@ sources:
     publisher: MSN / Press Trust of India
     date: 2026-11-09
     language: en
+  - title: 441 kg of ganja worth Rs 2.2 crore seized in Jharkhand, 4 arrested
+    url: https://theprint.in/india/441-kg-of-ganja-worth-rs-2-2-crore-seized-in-jharkhand-4-arrested/3093935/
+    publisher: ThePrint / Press Trust of India
+    date: 2026-11-09
 open_questions:
   - The submitted page is a roundup of two separate operations with different dates and no single incident; 7 November 2026, the night of the Tatisilway arrest, is used as the incident date, while the Garhwa recovery was on 8 November.
   - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
@@ -59,15 +63,16 @@ open_questions:
   - Four arrests in the headline cover only the Tatisilway case; the Garhwa police account names no arrest.
   - The Garhwa value in this PTI account, about 2.13 crore rupees, is higher than the about one crore rupees reported by ETV Bharat for the same 426 kg seizure.
   - The Garhwa case was described as under investigation, with no arrest reported because no one was in the vehicle.
+  - The opened ThePrint text reproduces only the Garhwa part of the PTI roundup; the Tatisilway arrest details come from the other sources cited in the existing report and are not restated here.
 ---
 
 Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
 was seized in two separate operations in Jharkhand, officials said on 9 November
-2026. [@1,2]
+2026. [@1,2,3]
 
 In Garhwa district, police found 426 kg of ganja, valued at about 2.13 crore
 rupees, in a container truck parked near the Kalyanpur overbridge, and no one
-was arrested because the vehicle was empty. [@1,2]
+was arrested because the vehicle was empty. [@1,2,3]
 
 The Railway Protection Force arrested four interstate peddlers with 15 kg of
 ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway
@@ -79,4 +84,6 @@ Government Railway Police. [@1]
 Police registered cases under the Narcotic Drugs and Psychotropic Substances
 Act, India's main anti-drug law, in both matters. [@1]
 
-Garhwa superintendent of police Ashutosh Shekhar said the 426 kg was wrapped in 426 plastic packets of one kilogram each and hidden in a secret chamber of the truck, and that the case was registered under the Narcotic Drugs and Psychotropic Substances Act. [@2]
+Garhwa superintendent of police Ashutosh Shekhar said the 426 kg was wrapped in 426 plastic packets of one kilogram each and hidden in a secret chamber of the truck, and that the case was registered under the Narcotic Drugs and Psychotropic Substances Act. [@2,3]
+
+The Garhwa seizure was made on Sunday, 8 November 2026, near the Kalyanpur overbridge under the Garhwa police station. [@3]
