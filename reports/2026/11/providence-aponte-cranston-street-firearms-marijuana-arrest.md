@@ -72,6 +72,7 @@ open_questions:
   - The statement does not say whether the searched residence was a home or business premises, nor which street it is on beyond Cranston Street for the arrest.
   - Patch lists marijuana sale and manufacture charges among the counts against Aponte, while the Providence police statement cited in the existing report described only a referral to the narcotics bureau for additional charges; the report records both accounts.
   - Patch gives no weight for the marijuana seized and does not say whether the material was laboratory-confirmed as cannabis.
+  - 'Left out, as its quotation was not found in WJAR: Officials said he is expected to face additional charges related to the suspected marijuana seized during the investigation.'
 ---
 
 Providence Police arrested Eric Aponte, 26, on Cranston Street on 3 November
@@ -82,7 +83,7 @@ drawn from the department's statement. [@2] After the arrest, investigators
 executed a court-authorized search warrant at his residence. [@1,4]
 
 Officers seized seven firearms, including an AR-15-style rifle and a Micro Draco
-rifle, along with multiple magazines, ammunition and firearm accessories. [@1]
+rifle, along with multiple magazines, ammunition and firearm accessories. [@1,4]
 They also seized multiple packages of suspected marijuana, a digital scale and
 packaging materials. [@1,4] Police found a child inside the residence where
 multiple firearms were accessible, transferred the child's custody to a family
@@ -99,3 +100,5 @@ investigation showed the department's commitment to holding people accountable
 when their actions put the community, particularly children, at risk. [@1]
 
 Aponte was charged with manufacturing, possessing or selling marijuana with intent to manufacture or sell. [@3]
+
+Providence Police Chief Oscar Perez said the investigation showed the department's commitment to holding people accountable when their actions put the community, particularly children, at risk. [@4]
