@@ -39,6 +39,11 @@ sources:
     publisher: Noticias Por Internet
     date: 2026-11-03
     language: es
+  - title: Aseguran armas, más de mil 400 dosis de presunta marihuana y detienen a un hombre en Cerano
+    url: https://tv4noticias.com/aseguran-armas-mas-de-mil-400-dosis-de-presunta-marihuana-y-detienen-a-un-hombre-en-cerano/
+    publisher: TV4 Noticias Guanajuato
+    date: 2026-11-09
+    language: es
 open_questions:
   - No weight for the suspected marijuana was published, only more than 1,400 doses, so no kilograms can be recorded.
   - No charges, custody ruling or court outcome were reported; the Ministerio Público investigation was still under way.
@@ -49,6 +54,11 @@ open_questions:
   - 'Left out, as its quotation was not found in TV4 Noticias Guanajuato: Cerano is a community in the municipality of Yuriria, in Guanajuato.'
   - 'Left out, as its quotation was not found in TV4 Noticias Guanajuato: The prosecutor’s office will continue the investigation and determine his legal situation.'
   - 'Left out, as its quotation was not found in TV4 Noticias Guanajuato: The phone and the motorcycle were listed among the items placed at the prosecutor’s disposal with the detainee.'
+  - TV4 Noticias dates the intervention to “el pasado 3 de octubre” although it was published on 9 November 2026, while the earlier accounts and the existing report date it to 3 November 2026; the report keeps 3 November.
+  - Milenio’s photograph is credited to social media, not to the state authorities, and does not establish that it shows the seized items, so it is not listed as media.
+  - TV4 reports that the man was getting on a motorcycle in front of a building and went inside when he saw police; the existing report does not describe how the detention began.
+  - 'Left out, as its quotation was not found in Milenio: Cerano, which Milenio calls San Juan Cerano, is a community in the municipality of Yuriria, Guanajuato.'
+  - 'Left out, as its quotation was not found in Milenio: The state security secretary, Juan Mauro González, gave the account of the detention.'
 ---
 
 State police detained 22-year-old Juan Roberto “N” during preventive patrols in
@@ -64,3 +74,5 @@ had been altered and added it to the case evidence. [@1,2]
 State authorities said these actions form part of the surveillance and
 crime-prevention operations they maintain in municipalities across Guanajuato.
 [@1]
+
+They seized 232 bags of green, dry herb with the characteristics of marijuana, which the state security ministry said amounted to about 1,426 doses. [@3] The intervention took place on Calle Venustiano Carranza, where the man had been getting on a motorcycle outside a building. [@3] The seized firearms were a .25-calibre handgun and a 5.56-calibre long gun, with two magazines and eight usable cartridges. [@3] The motorcycle, a black and white Motors Treck Cross, had altered identification numbers, and a mobile phone was also seized. [@3]
