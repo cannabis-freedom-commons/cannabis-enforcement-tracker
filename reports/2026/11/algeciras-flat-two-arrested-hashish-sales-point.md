@@ -41,6 +41,11 @@ media:
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261109142237_690.jpg
     publisher: Europa Press
     caption: 'Police handout photo of the hashish doses seized in the Algeciras flat. Photo: Policía Nacional de Cádiz'
+  - kind: photo
+    url: https://www.diarioarea.com/algeciras/dos-detenidos-en-algeciras-con-mas-de-un-kilo-de-cocaina-y-hachis-en-una-vivienda-utilizada-para-vender-droga/
+    media_url: https://www.diarioarea.com/wp-content/uploads/2026/11/algeciras-detenidos-cocaina.jpg
+    publisher: Diario Área Campo de Gibraltar
+    caption: 'Photo captioned “Droga intervenida” (drugs seized) on the report about the Algeciras flat; it shows the seized packages, with no credit given. Photo: Diario Área'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d64f59b311a868abf237e84ae3a8e392
@@ -66,6 +71,11 @@ sources:
     publisher: Cadena SER
     date: 2026-11-09
     language: es
+  - title: Dos detenidos en Algeciras con más de un kilo de cocaína y hachís en una vivienda utilizada para vender droga
+    url: https://www.diarioarea.com/algeciras/dos-detenidos-en-algeciras-con-mas-de-un-kilo-de-cocaina-y-hachis-en-una-vivienda-utilizada-para-vender-droga/
+    publisher: Diario Área Campo de Gibraltar
+    date: 2026-11-09
+    language: es
 open_questions:
   - The reports give no date for the search; 9 November 2026 is the publication date of all three accounts and is used as the incident date.
   - The hashish weight (885 g) is the police figure, with no laboratory confirmation reported.
@@ -76,18 +86,19 @@ open_questions:
   - 'Left out, as its quotation was not found in 8Directo: They also found 91 doses of hashish packed in small bags ready for sale.'
   - Cadena SER gives no date for the search either; 9 November 2026 is the publication date used for the incident.
   - Cadena SER, like the earlier reports, gives no street or neighbourhood for the flat and names neither detainee.
+  - Diario Área gives no date for the search; 9 November 2026, its publication date, is the only date known.
 ---
 
 Policía Nacional officers arrested two people, the residents of a flat in
-Algeciras, as suspected perpetrators of a crime against public health. [@1,4]
+Algeciras, as suspected perpetrators of a crime against public health. [@1,4,5]
 Investigators began watching the flat after a constant stream of visitors who
 stayed only a few minutes, a pattern police said matched a small-scale drug
-sales point. [@2]
+sales point. [@2,5]
 
 The operation ended with the entry and search of the flat, carried out as part
 of police operations against drug trafficking in the Campo de Gibraltar. [@1]
 Inside, officers found 386 grams of cocaine and 885 grams of hashish, the
-hashish in formats including slabs and bellotas, egg-shaped lumps. [@2,4] Police
+hashish in formats including slabs and bellotas, egg-shaped lumps. [@2,4,5] Police
 described the seized substances as more than 1.2 kilos of drugs, both in
 sizeable quantities and in individual doses prepared for sale. [@1]
 
@@ -95,4 +106,4 @@ Police said the flat was used to distribute and sell drugs on a small scale,
 within operations intended to reduce drug dealing in the Campo de Gibraltar area
 around the Bay of Algeciras. [@3]
 
-Police also found 91 doses of hashish in small bags prepared for sale. [@4]
+Police also found 91 doses of hashish in small bags prepared for sale. [@4,5]
