@@ -40,6 +40,10 @@ sources:
     publisher: DW
     date: 2026-05-26
     language: es
+  - title: Over 3,300 illegal firearms, 56 tonnes of drugs seized in operation in the Americas
+    url: https://www.interpol.int/News-and-Events/News/2026/Over-3-300-illegal-firearms-56-tonnes-of-drugs-seized-in-operation-in-the-Americas
+    publisher: INTERPOL
+    date: 2026-05-26
 open_questions:
   - The incident date uses the operation end date of 30 November 2025; the source was published on 26 May 2026.
   - The report is filed under Panama as a central participating-country reference; the operation spanned 19 listed countries with no single hub and the coordinates are a regional reference.
@@ -52,10 +56,12 @@ open_questions:
   - Only the DW account could be opened; no second independent account of this operation was found.
   - The page's only image is an archive photo of a different detention in Bogota and does not show this operation, so no event photo is listed.
   - The text gives a number of plants ("659,000 coca plants") but the figures have no plants_destroyed; check whether it belongs there.
+  - INTERPOL says the operation covered 20 countries while the existing report says 19; the INTERPOL list names Argentina, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, the Dominican Republic, Ecuador, El Salvador, Guatemala, Guyana, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Suriname and Uruguay.
+  - The Chile caption of over a tonne of cannabis with seven firearms and six vehicles appears distinct from the 580 kg Chile investigation already in the report, but the release does not clarify whether they are separate cases or give a cannabis-only weight for the 580 kg total.
 ---
 
 More than 8,700 people were detained in the coordinated Operation Orca XI across
-19 Latin American and Caribbean countries. [@1] Colombia reported the detention
+19 Latin American and Caribbean countries. [@1,2] Colombia reported the detention
 of 22 people investigated for terrorism financing and arms trafficking. [@1] In
 Panama, two suspects were arrested for smuggling arms through messaging and mail
 systems. [@1] In Brazil, authorities dismantled a criminal network dedicated to
@@ -63,10 +69,10 @@ drug trafficking and illegal possession of arms. [@1] In Chile, an investigation
 led to the arrest of three people. [@1]
 
 The operation seized 3,308 illegal firearms and 56 tonnes of drugs overall,
-according to Interpol. [@1] Ten participating countries seized 6.9 tonnes of
+according to Interpol. [@1,2] Ten participating countries seized 6.9 tonnes of
 cocaine, 9.3 tonnes of coca paste, 38.5 tonnes of marijuana, 2 tonnes of
 methamphetamine, 11 kilograms of ketamine and more than 659,000 coca plants.
-[@1] Security forces also seized about 200,000 rounds of ammunition, 256,025
+[@1,2] Security forces also seized about 200,000 rounds of ammunition, 256,025
 dollars in cash and 210 vehicles, Interpol said. [@1] In Chile, officers seized
 580 kilograms of drugs valued at about 5.6 million dollars plus nine pistols and
 froze 11 bank accounts linked to money laundering. [@1]
@@ -74,7 +80,7 @@ froze 11 bank accounts linked to money laundering. [@1]
 Operation Orca XI ran for six weeks between 15 October and 30 November 2025 in
 Central America, South America and the Caribbean with support from the
 Organization of American States, according to the International Criminal Police
-Organization based in Lyon, France. [@1] Interpol said illicit arms trafficking
+Organization based in Lyon, France. [@1,2] Interpol said illicit arms trafficking
 in the region is closely linked to drug trafficking, human trafficking, migrant
 smuggling and cybercrime. [@1] The operation involved Argentina, Belize,
 Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guyana,
@@ -85,3 +91,4 @@ the fight against organized crime. [@1] OAS Secretary General Albert R. Ramdin
 said the operation shows that international cooperation and information sharing
 deliver results. [@1]
 
+In one Chile case under the operation, officers seized over a tonne of cannabis along with seven firearms, cash and six vehicles. [@2]
