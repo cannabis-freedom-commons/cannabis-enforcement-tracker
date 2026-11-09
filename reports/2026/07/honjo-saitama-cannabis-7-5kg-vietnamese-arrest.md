@@ -92,6 +92,11 @@ sources:
     publisher: MBSニュース（TBS NEWS DIG）
     date: 2026-11-09
     language: ja
+  - title: 兵庫県警 違法薬物を郵送か ベトナム人再逮捕
+    url: https://news.web.nhk/newsweb/na/nd-20261109de73033
+    publisher: NHKニュース
+    date: 2026-11-09
+    language: ja
 open_questions:
   - The page gives the man's age as 31 in the lead and 32 in the third paragraph; both are reported.
   - No exact date is given for the arrest or for the July 2026 raid in Honjo; July 2026 is used as the incident date and 9 November 2026 is the date of publication.
@@ -110,6 +115,8 @@ open_questions:
   - No exact re-arrest date is given; the reports of 9 November 2026 give only the month-period of the alleged deliveries.
   - Kobe Shimbun gives the delivery window as late April to early May, Sun Television as April alone, and MBS as April to May.
   - Both the Kobe Shimbun and MBS accounts total the seizure at about 150 million yen at street prices, while the existing report also cites FNN's figure of more than 290 million yen for the same haul.
+  - The NHK page's text stops after its opening paragraph, so no further figures, charges or court stage can be read from it.
+  - NHK describes the Saitama site as a house from which cannabis, stimulants and other drugs were seized in large quantities but gives no weight, date or number of arrests beyond the two Vietnamese suspects.
 ---
 
 Hyogo prefectural police in western Japan arrested a Vietnamese man of no fixed
@@ -141,3 +148,5 @@ MBS put the street value of the drugs seized in the July 2026 raid at about 150 
 The man had already been indicted for offences including violating the Immigration Control Act. [@6] The re-arrest warrant alleges that between April and May he sent small amounts of MDMA and ketamine for profit to a man in Hyogo Prefecture. [@6] The bulletin reports the police announcement that the drugs were found and seized at a house in Honjo, Saitama Prefecture, in July. [@7,9]
 
 Police suspect he was a courier who passed drugs to dealers and customers on the group leader's orders, working in a group of seven or eight that moved between bases in Saitama, Gunma and other prefectures. [@10] He had been arrested in July 2026 for allegedly possessing cannabis plants at a house in Honjo. [@10] Police say about 100,000 yen was deposited into the man's bank account from a Vietnamese bank once a week. [@10] MBS reported that the ketamine and MDMA were mailed to a man in Amagasaki and handed over for about 120,000 yen. [@11]
+
+Hyogo prefectural police re-arrested one man on 9 November 2026 on suspicion of mailing narcotics including ketamine to a man in Amagasaki and transferring them to him. [@12]
