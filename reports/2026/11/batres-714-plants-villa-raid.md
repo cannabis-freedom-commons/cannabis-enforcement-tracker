@@ -1,0 +1,100 @@
+---
+code: 93ACT6
+added_at: "2026-11-09T09:41:48.098009Z"
+date: 2026-11-09
+country: es
+place: Batres, Community of Madrid
+coordinates: [40.2085, -3.923]
+precision: locality
+type: raid
+also: [seizure, arrest]
+title: Guardia Civil finds 714 cannabis plants in a Batres villa and arrests a man
+summary: >-
+  Guardia Civil officers searched a detached house in Batres, in the Community of Madrid, and found an indoor plantation of 714 cannabis plants and 13 pressed tablets of hashish resin. A 40-year-old man was arrested on suspicion of a crime against public health and of electricity fraud.
+figures:
+  arrested: 1
+  plants_destroyed: 714
+  sites: 1
+details:
+  agencies: [es-guardia-civil]
+  agency_types: [gendarmerie]
+  products:
+    - {product: plants, plants: 714}
+    - {product: hashish}
+  activity: [cultivation, possession]
+  setting: [home]
+  charges: [crime against public health, electricity fraud]
+  case_stage: investigation
+  force: [none-reported]
+  date_precision: publication
+  region: Community of Madrid
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [2]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.force: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.plants_destroyed: [1]
+  figures.sites: [1]
+media:
+  - kind: photo
+    url: https://www.larazon.es/madrid/guardia-civil-desmantela-plantacion-714-plantas-marihuana-chale-batres_202611096af1847cea8d8979977ed079.html
+    media_url: https://fotografias-2.larazon.es/clipping/cmsimages01/2026/11/09/9AFC0FE0-D943-43C3-945E-E9C30D05FC29/guardia-civil-interior-plantacion_98.jpg?crop=1040,585,x25,y0&width=1900&height=1069&optimize=low&format=webply
+    publisher: La Razón
+    caption: 'A Guardia Civil officer inside the cannabis plantation found in the Batres house, in the photo captioned ''La Guardia Civil, en el interior de la plantación''. Photo: Guardia Civil'
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: 03db6be9b37002443c78f707c810a0a7
+tags: [batres, madrid, guardia-civil, indoor, hashish]
+sources:
+  - title: La Guardia Civil desmantela una plantación con 714 plantas de marihuana en un chalé de Batres
+    url: https://www.larazon.es/madrid/guardia-civil-desmantela-plantacion-714-plantas-marihuana-chale-batres_202611096af1847cea8d8979977ed079.html
+    publisher: La Razón
+    date: 2026-11-09
+    language: es
+  - title: Detenido por cultivar 714 plantas de marihuana en un chalet de Batres
+    url: https://www.miracorredor.tv/madrid/detenido-cultivar-714-plantas-marihuana-chalet-batres/20261109092657106743.html
+    publisher: MiraCorredor
+    date: 2026-11-09
+    language: es
+  - title: La Guardia Civil detiene en Batres a un hombre por una plantación de 714 plantas de cannabis
+    url: https://www.madridactual.es/municipios/batres/guardia-civil-detiene-batres-hombre-plantacion-714-plantas-20261109-8127811.html
+    publisher: Madrid Actual
+    date: 2026-11-09
+    language: es
+  - title: Las quejas vecinales destapan una plantación de marihuana con 714 plantas en Batres
+    url: https://noticiasparamunicipios.com/municipios-madrid/desmantelada-una-plantacion-de-714-plantas-de-marihuana-en-batres/
+    publisher: Noticias para Municipios
+    date: 2026-11-09
+    language: es
+open_questions:
+  - No date is given for the search or the arrest; 9 November 2026 is the day the Guardia Civil announced the operation and the publication date, and is used as the incident date.
+  - No weight was published for the hashish, only the count of 13 pressed tablets, so no kilogram figure can be recorded.
+  - The plants are described as cannabis plants and marijuana; no laboratory confirmation of the substance was reported.
+  - The detainee's identity beyond his age was not published, and no court appearance, charge or judge's decision was reported.
+  - The outlets carry the same Guardia Civil statement rather than independent reporting, so contradictory versions could not be compared.
+  - The published photos are Guardia Civil handout images; only the La Razón copy's direct image address could be confirmed, so only one photo is listed.
+  - Left out environment, as its quotation was not found in Madrid Actual.
+---
+
+Guardia Civil officers searched a detached house (vivienda unifamiliar) in
+Batres, in the south-west of the Community of Madrid, and found an indoor
+cannabis plantation inside it. [@2] The officers seized 714 cannabis plants and
+13 pressed tablets of hashish resin. [@1] They also seized products and tools
+used to grow and maintain the plants. [@1]
+
+A 40-year-old man was arrested as the suspected author of a crime against public
+health and of electricity fraud. [@1]
+
+The police said the inquiries began after neighbours complained about a possible
+indoor cannabis crop in the town. [@3] The Guardia Civil in Madrid said the
+investigation began at the start of September, when several neighbours'
+complaints alerted officers to a possible cannabis crop inside the house. [@4]
+Noticias para Municipios described the installation as an indoor grow, the kind
+that uses artificial lighting and controlled conditions to cultivate marijuana
+in enclosed spaces. [@4]
+
