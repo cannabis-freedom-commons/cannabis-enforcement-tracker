@@ -74,6 +74,11 @@ sources:
     publisher: Il Moderatore
     date: 2026-11-09
     language: it
+  - title: 'Hashish pure dentro il frigo: arrestati coniugi'
+    url: https://siciliaweb.it/blog-detail/post/639890/droga-pure-dentro-il-frigo-arrestata-coppia-di-coniugi
+    publisher: SiciliaWeb
+    date: 2026-11-09
+    language: it
 open_questions:
   - No date is given for the arrest or the search; 9 November 2026 is the publication date of the reports and is used as the incident date.
   - The hashish found in the refrigerator is given as 51 doses weighing about 47 grams, so the 173-gram total derived from 47 plus 126 grams is approximate.
@@ -82,14 +87,17 @@ open_questions:
   - The couple is identified only by age and sex in these accounts.
   - The only photographs found on the cited pages show the Bagheria Carabinieri barracks, a La Sicilia image carrying an outlet logo, and a StrettoWeb AI illustration, so no media entry is listed.
   - The article gives no separate date for the search or the arrests; 9 November 2026 is its publication date, which the report already uses as the incident date.
+  - The SiciliaWeb page gives no date for the search or the arrests; 9 November 2026 is its publication date.
+  - The hashish in the 51 doses is not weighed in this account, so it does not affect the approximate 173-gram total in the report.
+  - The page's pictures are a Getty stock image and an uncaptioned refrigerator file, neither confirmed to show this seizure, so no media entry is added.
 ---
 
 Carabinieri of the Bagheria company's radiomobile section arrested a married
 couple, a man of 66 and a woman of 61, in Bagheria in the province of Palermo.
-[@1,5,6] The two are accused together of possessing drugs for sale, and the arrest
+[@1,5,6,7] The two are accused together of possessing drugs for sale, and the arrest
 was made in flagrante, with the couple caught in the act. [@2,6] Officers were
 watching the flat because of an unusual stream of people stopping outside for a
-few minutes and leaving again. [@1,5] The patrol moved in after seeing a young man
+few minutes and leaving again. [@1,5,7] The patrol moved in after seeing a young man
 hurry away from the building, apparently just after a handover, and searched the
 home. [@2,5,6]
 
@@ -104,3 +112,5 @@ ordered both suspects to report regularly to the judicial police. [@2,5,6] La Vo
 di Bagheria, a local newspaper, reported the same arrests and the same
 validation ruling as the other outlets. [@3] StrettoWeb reported the case under
 a Palermo headline and repeated that the judge validated the arrests. [@4]
+
+The patrol moved in after seeing a young man hurry away from the building, probably just after an exchange, and searched the home. [@7]
