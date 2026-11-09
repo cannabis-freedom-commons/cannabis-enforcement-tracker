@@ -60,6 +60,11 @@ sources:
     publisher: El Caso Málaga
     date: 2026-11-08
     language: es
+  - title: محاكمة 48 شخصا ضمن شبكة إجرامية متخصصة في تهريب الحشيش القادم من المغرب
+    url: https://www.aps.dz/monde/monde/mw9koasy-%D9%85%D8%AD%D8%A7%D9%83%D9%85%D8%A9-48-%D8%B4%D8%AE%D8%B5%D8%A7-%D8%B6%D9%85%D9%86-%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%95%D8%AC%D8%B1%D8%A7%D9%85%D9%8A%D8%A9-%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D8%A9-%D9%81%D9%8A-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%AD%D8%B4%D9%8A%D8%B4-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8
+    publisher: وكالة الأنباء الجزائرية
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No hashish weight, value or number of seized packages is published for this case, so no cannabis kilogram figure is recorded.
   - The sources give no dates for the investigation, the arrests or the seizures, only the trial's scheduled start on 9 November 2026.
@@ -70,11 +75,12 @@ open_questions:
   - Cadena SER's account reproduces an Europa Press agency dispatch that also circulates on other outlets, so the accounts are not independent reporting.
   - No operation name or case number is published for this investigation.
   - The courthouse photo on the pages shows the Málaga Justice City building, not the alleged smuggling, so no picture of the events is listed.
+  - The APS article reproduces Europa Press reporting and adds commentary on Moroccan production and official policy that is context, not new evidence about this case.
 ---
 
 Málaga's provincial court, the Audiencia Provincial, was due to begin a trial on
 Monday 9 November 2026 against 48 people accused of belonging to a network that
-brought hashish into Spain from Morocco. [@1] The prosecution's case is that the
+brought hashish into Spain from Morocco. [@1,4] The prosecution's case is that the
 ring used four pleasure boats, some registered to straw men, five banned
 high-speed semi-rigid speedboats and cars with hidden compartments. [@1]
 Prosecutors say two men led the organisation, one of whom has been declared a
@@ -98,4 +104,3 @@ days in December. [@1]
 
 The indictment's assertions are provisional conclusions that the court will
 examine during the trial. [@3]
-
