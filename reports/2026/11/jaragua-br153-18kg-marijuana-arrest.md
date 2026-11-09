@@ -41,6 +41,11 @@ media:
     media_url: https://zapcatalao.com.br/wp-content/uploads/2026/11/20261109T060352.jpg
     publisher: Portal Zap Catalão
     caption: 'The PRF photo published with the report of the BR-153 stop in Jaraguá, captioned as showing the 18.4 kg of marijuana the highway police seized under the car''s spare tyre. Photo: Reprodução/PRF'
+  - kind: photo
+    url: https://ncnews.com.br/2026/11/09/motorista-preso-maconha-br-153-goias/
+    media_url: https://ncnews.com.br/app/uploads/2026/11/trafico-drogas-goias-jpg-960x540.webp
+    publisher: NC News
+    caption: 'Photo published with the NC News report of the BR-153 stop in Jaraguá and captioned as the PRF handout for the case. Photo: Divulgação/PRF'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 654edd459126167c433ed0e1c6f4b8b0
@@ -71,6 +76,11 @@ sources:
     publisher: Tribuna do Planalto
     date: 2026-11-09
     language: pt
+  - title: Motorista é preso com 18 kg de maconha na BR-153, em Goiás
+    url: https://ncnews.com.br/2026/11/09/motorista-preso-maconha-br-153-goias/
+    publisher: NC News
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The article gives no exact kilometre marker, no name, age or home town of the driver, and no charge, custody decision or court step.
   - The weight of 18.4 kilograms comes from the PRF statement reproduced by the outlet; no exact scale reading or laboratory confirmation of the substance was published.
@@ -89,25 +99,26 @@ open_questions:
   - The page states that the marijuana tablets were in the boot compartment and under the spare tyre, which reconciles the earlier descriptions only if the spare tyre was carried in the boot; this is the outlet's wording and not a separate measurement.
   - The amount of cash seized is still not given, and no court step, charge or custody decision is reported.
   - Tribuna do Planalto reproduces the PRF account without a scale reading or laboratory confirmation of the substance, and does not give the amount of cash seized or any charge, custody decision or court step.
+  - NC News also describes the drug as 18.4 kilograms without a published scale reading or laboratory confirmation of the substance.
 ---
 
 Federal Highway Police officers arrested a man on suspicion of drug trafficking
 on the BR-153 at Jaraguá, in central Goiás, late on the afternoon of Sunday 8
-November 2026. [@1,2,3,4,5] Officers found 18.4 kilograms of marijuana hidden under the
-spare tyre of the car he was driving, the PRF said. [@1,2,5]
+November 2026. [@1,2,3,4,5,6] Officers found 18.4 kilograms of marijuana hidden under the
+spare tyre of the car he was driving, the PRF said. [@1,2,5,6]
 
-The driver of a GM Astra was stopped during a routine check. [@1,5] According to
+The driver of a GM Astra was stopped during a routine check. [@1,5,6] According to
 the PRF, he showed nervousness and gave contradictory information about his
 route. [@1] During the search of the vehicle, officers found the tablets of the
 drug in the boot. [@1]
 
 The corporation said the driver told officers he had left Nova Glória and was
-heading for Anápolis. [@1,3,5] Questioned about the drug, he claimed the substance
-was for "personal use". [@1,3]
+heading for Anápolis. [@1,3,5,6] Questioned about the drug, he claimed the substance
+was for "personal use". [@1,3,6]
 
-The suspect was taken to the Civil Police station in Jaraguá. [@1,3,4] The PRF also
-seized the car, two mobile phones and an amount of money. [@1,2,3,5]
+The suspect was taken to the Civil Police station in Jaraguá. [@1,3,4,6] The PRF also
+seized the car, two mobile phones and an amount of money. [@1,2,3,5,6]
 
-The man already had a criminal record for illegal possession of a firearm, according to the police. [@2,3,4,5]
+The man already had a criminal record for illegal possession of a firearm, according to the police. [@2,3,4,5,6]
 
 Officers found several tablets of marijuana hidden in the boot, under the spare tyre, during a detailed search of the vehicle, the same page describing both the tablets in the boot and the space under the spare tyre. [@4]
