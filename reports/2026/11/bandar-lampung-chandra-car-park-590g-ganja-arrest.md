@@ -50,22 +50,29 @@ sources:
     publisher: Radar Lampung
     date: 2026-11-08
     language: id
+  - title: Polisi Tangkap Pria Bawa Ganja Setengah Kilo Lebih Di Parkiran Chandra Mart Kupang Teba
+    url: https://www.sinarlampung.co/2026/11/09/polisi-tangkap-pria-bawa-ganja-setengah-kilo-lebih-di-parkiran-chandra-mart-kupang-teba/
+    publisher: Sinar Lampung
+    date: 2026-11-09
+    language: id
 open_questions:
   - No full name, age, charge or court outcome was published; police said the case was still being developed.
   - The reports do not say whether the 589.97 grams is net or gross weight.
   - No street value for the ganja was published.
   - The Rilis ID page carries a second image that is only the outlet's watermark logo, so it is omitted; the Radar Lampung photograph of the same evidence is omitted as a likely duplicate handout.
+  - The Sinar Lampung photograph is captioned only with the headline and has no credit, so it is not added as media.
+  - Sinar Lampung gives no full name, age, charge, street value or court outcome for W.
 ---
 
 A man identified only as W was secured by the Satresnarkoba unit of Polresta
-Bandar Lampung with ganja evidence weighing 589.97 grams. [@1] The arrest took
-place on the night of Wednesday 4 November 2026. [@1] Police said they received
+Bandar Lampung with ganja evidence weighing 589.97 grams. [@1,3] The arrest took
+place on the night of Wednesday 4 November 2026. [@1,3] Police said they received
 information from residents about suspected narcotics transactions in the area.
 [@1] After surveillance, officers found W in the car-park area of the Chandra
 minimarket on Jalan Pattimura, then stopped and searched him. [@1]
 
 The search found three packages containing dried ganja with a total weight of
-589.97 grams. [@1] The evidence consisted of one large black plastic package
+589.97 grams. [@1,3] The evidence consisted of one large black plastic package
 wrapped in brown tape and two medium-sized white plastic packages. [@1] Officers
 also seized an Android mobile phone and a white Honda Scoopy motorcycle
 allegedly linked to the suspect's activity. [@1] In the initial examination, W
@@ -79,3 +86,4 @@ occurred at about 21.30 on 4 November 2026. [@2] Police said they were still
 examining where the ganja came from, how long the activity had lasted and who it
 was meant for. [@2]
 
+Police said the car park was suspected to be used as a location for narcotics transactions. [@3]
