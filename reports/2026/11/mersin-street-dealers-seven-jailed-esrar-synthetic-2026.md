@@ -41,6 +41,21 @@ sources:
     publisher: Son Dakika
     date: 2026-11-09
     language: tr
+  - title: 'Mersin''de Narkotik Operasyonu: 7 Torbacı Tutuklandı'
+    url: https://www.akdenizgercek.com.tr/mersin/mersinde-narkotik-operasyonu-7-torbaci-tutuklandi/388948
+    publisher: Akdeniz Gerçek
+    date: 2026-11-09
+    language: tr
+  - title: Sokak satıcılarına operasyon! 7 şüpheli tutuklandı
+    url: https://www.sabah.com.tr/mersin/2026/11/09/sokak-saticilarina-operasyon-7-supheli-tutuklandi
+    publisher: Sabah
+    date: 2026-11-09
+    language: tr
+  - title: Mersin'de torbacı operasyonunda 7 kişi tutuklandı
+    url: https://www.aksiyon.com.tr/mersin-de-torbaci-operasyonunda-7-kisi-tutuklandi-391384
+    publisher: Aksiyon
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The article gives no separate date for the operation; 9 November 2026 is its publication date and is used as the incident date.
   - No weight, packaging or value was published for the esrar, so no cannabis kilograms can be recorded.
@@ -50,19 +65,22 @@ open_questions:
   - Only one accessible account of this operation was found after searching in Turkish; agency and other outlet versions could not be opened.
   - The page's single photo carries only the headline as its caption with no credit, so it could not be confirmed as a photo of this seizure.
   - The text gives a weight ("1 kg") but the figures have no kg_seized; check whether it belongs there.
+  - Akdeniz Gerçek and Aksiyon give an approximate cash figure of about 20,000 Turkish lira, while the fuller breakdown in other accounts gives 20,370 Turkish lira.
+  - The opened Sabah and Aksiyon accounts repeat the same agency wording as the submitted page and are not independent reporting.
 ---
 
 Mersin police teams acting in coordination with the Mersin Chief Public
 Prosecutor's Office carried out an operation against people identified as
-trading drugs on the street. [@1] Seven suspects were caught in the operation,
-identified by the agency only by their initials. [@1]
+trading drugs on the street. [@1,2] Seven suspects were caught in the operation,
+identified by the agency only by their initials. [@1,3]
 
 Searches of the suspects' persons, their vehicles and their homes found esrar,
-the Turkish word for cannabis, in a quantity the agency did not weigh. [@1] The
+the Turkish word for cannabis, in a quantity the agency did not weigh. [@1,3] The
 same searches found 1 kg 781 g of synthetic drugs and 129 synthetic pills, which
 are outside this tracker's cannabis figures. [@1] Officers also seized
 unspecified amounts of cocaine and heroin. [@1]
 
 After processing at the police station all seven were taken to the courthouse,
-where the on-duty magistrate's court jailed them in pre-trial detention. [@1]
+where the on-duty magistrate's court jailed them in pre-trial detention. [@1,2]
 
+Searches of the suspects' persons and homes also found various quantities of cocaine, esrar and synthetic pills, plus about 20,000 Turkish lira in cash police believed came from drug sales. [@3] Officers searched both the suspects' persons and their homes, according to the same report. [@4]
