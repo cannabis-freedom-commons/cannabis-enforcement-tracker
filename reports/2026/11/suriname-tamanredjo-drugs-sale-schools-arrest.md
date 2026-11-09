@@ -39,14 +39,21 @@ sources:
     publisher: Dagblad Suriname
     date: 2026-11-08
     language: nl
+  - title: Tip over drugsverkoop bij scholen leidt tot aanhouding verdachte in Tamansarie
+    url: https://www.waterkant.net/suriname/2026/11/09/tip-over-drugsverkoop-bij-scholen-leidt-tot-aanhouding-verdachte-in-tamansarie/
+    publisher: Waterkant
+    date: 2026-11-09
+    language: nl
 open_questions:
   - No quantities or weights were given for the crack cocaine or marijuana, so no cannabis weight can be recorded.
   - Only one source, Dagblad Suriname citing Police Region East, could be opened; no second independent report was found.
   - The supplied page image has no caption or credit tying it to this seizure, so no media entry is included.
+  - Waterkant still gives no weight or quantity for the marijuana or the crack cocaine.
+  - Waterkant does not say whether J.R. has been brought before a judge or charged.
 ---
 
 Police arrested suspect J.R. at Tamansarie on 5 November 2026 while he was
-selling drugs from his car. [@1] Police had identified him after a tip that he
+selling drugs from his car. [@1,2] Police had identified him after a tip that he
 was offering drugs for sale from his car near two schools in Tamanredjo to drug
 addicts and possibly schoolchildren. [@1] After a targeted operation, officers
 spotted and arrested him at Tamansarie at the moment he was selling drugs from
@@ -61,4 +68,3 @@ Tamansarie, Richelieu and Tamanredjo. [@1]
 K.B. stated that he was a drug user and bought drugs from J.R. [@1] Police
 released K.B. after questioning while J.R. was detained, according to Police
 Region East on 8 November. [@1]
-
