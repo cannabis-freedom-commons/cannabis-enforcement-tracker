@@ -25,6 +25,11 @@ media:
     media_url: https://cdnx.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2026/11/09/373196.jpg&w=1000&q=100&f=jpg&t=7
     publisher: Malay Mail
     caption: 'Photo of the cannabis seized at Sir Seewoosagur Ramgoolam International Airport, published with the Malay Mail report. Photo: Raymond Manuel'
+  - kind: photo
+    url: https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/sorok-76kg-ganja-dalam-bagasi-3-rakyat-malaysia-ditahan-di-mauritius
+    media_url: https://www.freemalaysiatoday.com/cdn-cgi/image/width=1080,quality=80,format=auto,fit=scale-down,metadata=none,sharpen=1,dpr=1,onerror=redirect/https://media.freemalaysiatoday.com/v3/2026/11/25084fe9-3f7f-411f-868d-09d356488886-Sorok-76kg-ganja-dalam-bagasi-Gambar-MRA-91126.jpg
+    publisher: Free Malaysia Today
+    caption: 'Black plastic packets of suspected cannabis found in the luggage of three Malaysians at SSRIA. Photo: Mauritius Revenue Authority'
 details:
   activity: [smuggling]
   agency_types: [customs, anti-narcotics, police]
@@ -86,6 +91,11 @@ sources:
     publisher: Sinar Harian
     date: 2026-11-09
     language: ms
+  - title: Sorok 76kg ganja dalam bagasi, 3 rakyat Malaysia ditahan di Mauritius
+    url: https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/sorok-76kg-ganja-dalam-bagasi-3-rakyat-malaysia-ditahan-di-mauritius
+    publisher: Free Malaysia Today
+    date: 2026-11-09
+    language: ms
 open_questions:
   - The article was published on 4 November 2026 but dates the seizure to “ce mardi”, so 3 November 2026 is used as the incident date.
   - No amount or currency was given for the seized foreign currency, so no value is recorded.
@@ -119,10 +129,12 @@ Anti-Narcotics Section at Plaisance airport on Tuesday. [@1] Inspectors Gopala
 and Lepois are leading the investigation under Assistant Superintendent of
 Police Goinden and Superintendent of Police Ghoora. [@1]
 
-The three suspects were two men aged 22 and 30 and a woman aged 18. [@2,6,8] The Mauritius Revenue Authority valued the haul at 114.21 million Mauritian rupees, about RM9.87 million, at local market prices. [@2,6,7,8] Le Mauricien put the market value of the seized cannabis at Rs 114.2 million. [@3] The three suspects carried an exact total of 76.14 kg of compressed cannabis. [@3,6] The 30-year-old suspect, a security officer living in Singapore, carried 10.9 kg of cannabis. [@4,9] The 18-year-old suspect carried 32.62 kg of cannabis in 30 vacuum-packed packets. [@4] Mauritian reporting said preliminary findings indicated the cannabis came from Thailand. [@3,9] The route used by these couriers was Thailand, then Dubai, then Mauritius. [@3,7,8] Harian Metro, quoting Mauritian media, said one suspect was believed to have passed through Thailand before flying on to Dubai and Mauritius. [@2,6] The customs anti-narcotics section inspected the passengers' checked baggage after profiling and questioning. [@2] The three passengers were arrested at Plaisance airport with the 76.14 kg haul valued at Rs 114.2 million. [@4] The three suspects travelled on the same Emirates flight EK709 from Dubai. [@5,6] The controlled delivery was interrupted on Tuesday 3 November, without identifying the intended recipients. [@5]
+The three suspects were two men aged 22 and 30 and a woman aged 18. [@2,6,8,10] The Mauritius Revenue Authority valued the haul at 114.21 million Mauritian rupees, about RM9.87 million, at local market prices. [@2,6,7,8,10] Le Mauricien put the market value of the seized cannabis at Rs 114.2 million. [@3] The three suspects carried an exact total of 76.14 kg of compressed cannabis. [@3,6,10] The 30-year-old suspect, a security officer living in Singapore, carried 10.9 kg of cannabis. [@4,9] The 18-year-old suspect carried 32.62 kg of cannabis in 30 vacuum-packed packets. [@4] Mauritian reporting said preliminary findings indicated the cannabis came from Thailand. [@3,9] The route used by these couriers was Thailand, then Dubai, then Mauritius. [@3,7,8] Harian Metro, quoting Mauritian media, said one suspect was believed to have passed through Thailand before flying on to Dubai and Mauritius. [@2,6] The customs anti-narcotics section inspected the passengers' checked baggage after profiling and questioning. [@2] The three passengers were arrested at Plaisance airport with the 76.14 kg haul valued at Rs 114.2 million. [@4] The three suspects travelled on the same Emirates flight EK709 from Dubai. [@5,6,10] The controlled delivery was interrupted on Tuesday 3 November, without identifying the intended recipients. [@5]
 
 The 30-year-old suspect lived and worked in Singapore as a security guard, while the other two suspects lived in Penang. [@6]
 
 The Mauritius Revenue Authority said the discovery was made after its officers stopped the three for questioning and inspected their checked baggage. [@7,9] The 30-year-old suspect was living and working in Singapore as a security guard, the Mauritius Revenue Authority said. [@7]
 
 The three Malaysians were detained at Sir Seewoosagur Ramgoolam International Airport on 2 November 2026. [@9]
+
+The 22-year-old man and the 18-year-old woman, reported to live together in Penang, carried about 32.5 kg and 32.6 kg of cannabis respectively. [@10]
