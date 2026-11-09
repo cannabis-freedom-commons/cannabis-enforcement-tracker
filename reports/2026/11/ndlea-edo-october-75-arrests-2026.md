@@ -71,6 +71,10 @@ sources:
     url: https://gazettengr.com/ndlea-arrests-75-suspects-seizes-16-8-tonnes-of-illicit-drugs-in-edo/
     publisher: Peoples Gazette Nigeria
     date: 2026-11-09
+  - title: NDLEA arrests 75, seizes, destroys 16.8 tonnes of drugs in Edo
+    url: https://punchng.com/ndlea-arrests-75-seizes-destroys-16-8-tonnes-of-drugs-in-edo/
+    publisher: Punch
+    date: 2026-11-09
 open_questions:
   - The bulletin does not give a single raid date; 9 November 2026 is the publication date, when the commander presented the October results, and stands in for the incident date.
   - The article gives no count of plants destroyed; 14,322.0475 kg is the command's estimated yield of the destroyed farms, not a weighed cannabis seizure, and is not recorded as a figure.
@@ -94,6 +98,10 @@ open_questions:
   - The Point NG page carries two images whose captions are bare file names with no credit, so neither is confirmed to show these seizures or farms and no media entry is added.
   - The People's Gazette uses NAN's rounded command figures (2,496.12 kg of seized substances, 14,322.05 kg of destroyed cannabis, 5.73 hectares) while the existing report records the finer totals; the finer figures are kept.
   - The article does not say what happened to the six cups of cannabis brownies or where they were found.
+  - Punch gives no separate date for the October operations; 9 November 2026, the Monday the commander presented the statistics, is the publication date.
+  - The Punch photographs carry only the bare caption 'Some recovered exhibits' with no credit, so they are not confirmed to show a specific seizure or farm.
+  - The report already cites a photograph of a confiscated car from P.M. News; whether the lead Punch image is the same NDLEA handout could not be established.
+  - Punch does not say which six cases produced the convictions or what sentences were given.
 media:
   - kind: photo
     url: https://pmnewsnigeria.com/2026/11/09/ndlea-arrests-75-suspects-seizes-16-8-tonnes-of-drugs-in-edo/
@@ -124,8 +132,10 @@ Ofoyeju said the command won six convictions and filed 14 cases in court, with
 Mohamed Buba Marwa visited the command and told officers to intensify
 intelligence-led operations against drug cartels in the state. [@1]
 
-The command's Counselling, Treatment and Rehabilitation Unit counselled 47 clients, 33 men and 14 women, and returned them to their families, while 12 others were undergoing rehabilitation and vocational training. [@3,6]
+The command's Counselling, Treatment and Rehabilitation Unit counselled 47 clients, 33 men and 14 women, and returned them to their families, while 12 others were undergoing rehabilitation and vocational training. [@3,6,8]
 
 Six cups of cannabis brownies were among the other substances recovered in the October operations. [@5] The figures were released after NDLEA chairman Mohamed Buba Marwa charged the command during his official visit to intensify intelligence-led operations in the state. [@5]
 
-Six cups of cannabis brownies were among the other substances the Edo command recovered during the October operations. [@7] The command also ran 10 sensitisation programmes in schools, worship centres, markets and public places in Benin City that reached 5,293 people, 2,324 men and 2,969 women. [@7]
+Six cups of cannabis brownies were among the other substances the Edo command recovered during the October operations. [@7] The command also ran 10 sensitisation programmes in schools, worship centres, markets and public places in Benin City that reached 5,293 people, 2,324 men and 2,969 women. [@7,8]
+
+The statistics were released in a statement on Monday by the Commander of Narcotics, Mitchell Ofoyeju, who described the visit of the agency's Chairman, Mohammed Buba Marwa, as a catalyst for the command's fight against drug traffickers. [@8]
