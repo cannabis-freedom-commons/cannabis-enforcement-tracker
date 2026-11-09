@@ -42,6 +42,11 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/pna_05112026.jpeg
     publisher: Ministerio de Seguridad Nacional (Argentina.gob.ar)
     caption: 'Police handout photograph placed in the security ministry release after the passage describing the four bundles found in the vegetation at Puerto Chinita; the release does not caption it. Photo: Prefectura Naval Argentina'
+  - kind: photo
+    url: https://www.ellitoral.com.ar/policiales/2026-11-6-17-8-0-prefectura-secuestro-mas-de-37-kilos-de-marihuana-valuados-en-143-millones-en-corrientes
+    media_url: https://pxcdn.ellitoral.com.ar/litoral/112026/1793995758095.webp?cw=1200&ch=675&extw=jpg
+    publisher: El Litoral
+    caption: Lead photograph on El Litoral's report of the 37-kilogram marijuana seizure at Puerto Chinita, captioned only with the headline; the page credits no agency.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 9b24b6dfb5a5aef76d3abbe7ed7b02e8
@@ -57,6 +62,11 @@ sources:
     publisher: Ministerio de Seguridad Nacional (Argentina.gob.ar)
     date: 2026-11-06
     language: es
+  - title: Prefectura secuestró más de 37 kilos de marihuana valuados en $143 millones en Corrientes
+    url: https://www.ellitoral.com.ar/policiales/2026-11-6-17-8-0-prefectura-secuestro-mas-de-37-kilos-de-marihuana-valuados-en-143-millones-en-corrientes
+    publisher: El Litoral
+    date: 2026-11-06
+    language: es
 open_questions:
   - Neither source gives a date for the operation; 6 November 2026 is the publication date of the security ministry release, while the submitted page is dated 8 November 2026.
   - The 143 million peso value is the force's own commercial estimate, not a market price confirmed independently.
@@ -66,9 +76,9 @@ open_questions:
 ---
 
 Prefectura Naval Argentina officers seized more than 37 kilograms of marijuana
-buds on the river bank at Itá Ibaté, in Corrientes province, Argentina. [@1] The
+buds on the river bank at Itá Ibaté, in Corrientes province, Argentina. [@1,3] The
 force valued the load at more than 143 million pesos, and said it had been
-brought in from Paraguay across the Paraná river. [@1]
+brought in from Paraguay across the Paraná river. [@1,3]
 
 The operation followed an inquiry by the force's Delegación de Inteligencia
 Criminal e Investigaciones, which established that drugs would be brought in on
@@ -87,3 +97,4 @@ The security ministry's own account says the boat's occupants threw the bundles
 overboard and returned quickly to Paraguay, and that the case is handled by the
 Unidad Fiscal Federal de Corrientes. [@2]
 
+Patrols set up surveillance on the stretch of the Paraná between kilometres 1370 and 1380 after intelligence indicated drugs would be brought in there. [@3]
