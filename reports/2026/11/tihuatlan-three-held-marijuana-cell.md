@@ -30,6 +30,11 @@ sources:
     publisher: Foro Coatza
     date: 2026-11-07
     language: es
+  - title: Detenidos en Tihuatlán tres presuntos integrantes de una célula delictiva
+    url: https://www.veracruz.gob.mx/seguridad/detenidos-en-tihuatlan-tres-presuntos-integrantes-de-una-celula-delictiva/
+    publisher: Secretaría de Seguridad Pública, Gobierno del Estado de Veracruz
+    date: 2026-11-06
+    language: es
 open_questions:
   - The page dates the operations only as Wednesday and Thursday; 5 November 2026 is used as the incident date and 4 November as the first day.
   - No weight was given for the two bags of marijuana, so the cannabis quantity is not recorded; the 40 doses of cristal are not cannabis and are excluded.
@@ -39,6 +44,8 @@ open_questions:
   - The Cristal cannabis doses and the other marijuana seizures appear in the same bulletin under other charges and are left out of this report's figures.
   - Only one account of these operations could be found, and no separate SSP statement was opened.
   - The page images carry no captions or credits linking them to this event, so no media is listed.
+  - Comunicado 1785 carries a Friday 6 November 2026 Xalapa dateline and describes operations on the Wednesday and Thursday before it, giving no separate date for the Tihuatlán intervention.
+  - No weight was given for the two bags of marijuana-like herb, so no cannabis quantity is recorded.
 ---
 
 Authorities detained two men and one woman in Tihuatlán, in northern Veracruz,
@@ -63,3 +70,5 @@ possession and seized 63 doses and a bag of marijuana with them, alongside
 crystal, two handguns and ammunition. [@1] In searches supporting the state
 prosecutor's office in Coscomatepec and Cosoleacaque, seven people were detained
 and one dose of marijuana was seized alongside crystal doses and firearms. [@1]
+
+The secretariat's bulletin 1785 reports that the operations were carried out by the state Public Security Secretariat, the state prosecutor's office, the Navy and Defence ministries, the National Guard and municipal police. [@3] The secretariat's bulletin 1785 also reports that in Manlio Fabio Altamirano authorities found a man who may have been a victim of unlawful deprivation of liberty. [@3]
