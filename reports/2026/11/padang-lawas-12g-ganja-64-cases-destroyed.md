@@ -48,6 +48,11 @@ sources:
     publisher: harianSIB.com
     date: 2026-11-09
     language: id
+  - title: Kejari Padang Lawas Musnahkan Sabu, Ganja, dan Ekstasi dari 64 Perkara
+    url: https://mistar.id/news/hukum-peristiwa/kejari-padang-lawas-musnahkan-sabu-ganja-dan-ekstasi-dari-64-perkara
+    publisher: Mistar.id
+    date: 2026-11-09
+    language: id
 open_questions:
   - No breakdown is given of how many of the 64 cases involved cannabis, or what sentences the underlying cases received.
   - No defendants are named and no original seizure dates or places for the cannabis evidence are given.
@@ -60,13 +65,13 @@ evidence that had obtained final legal force in the side yard of its office.
 [@1] The exercise covered evidence from 64 criminal cases with final and binding
 court decisions. [@2] Of the 64 cases, 44 were narcotics cases, 18 were crimes
 against persons and property and two were public-order cases, together
-comprising 214 evidence items. [@2] Padang Lawas Regent Putra Mahkota Alam
+comprising 214 evidence items. [@2,3] Padang Lawas Regent Putra Mahkota Alam
 Hasibuan, regional secretary Panguhum Nasution and agency heads attended,
 alongside district police chief AKBP Dodik Yulianto and prosecutors' personnel.
 [@1]
 
 The narcotics portion comprised 171 items, namely 277.10 grams of sabu, 12.16
-grams of ganja and 18 ecstasy pills. [@2] The submitted account gives the same
+grams of ganja and 18 ecstasy pills. [@2,3] The submitted account gives the same
 breakdown of 277.10 grams of sabu, 12.16 grams of ganja and 18 ecstasy pills.
 [@1] The district attorney and the district police chief destroyed the sabu
 evidence with a blender, watched by the regent and a South Tapanuli
@@ -79,3 +84,4 @@ the destroyed evidence came from drug cases. [@1] Regent Putra Mahkota Alam
 Hasibuan described the destruction as the prosecution's commitment to
 eradicating narcotics and other crimes. [@1]
 
+The ganja and the other evidence were burned and destroyed on site, while the sabu and ecstasy pills were dissolved in hot water and blended. [@3]
