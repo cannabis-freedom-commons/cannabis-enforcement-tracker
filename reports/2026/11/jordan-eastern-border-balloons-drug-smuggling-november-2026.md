@@ -31,20 +31,28 @@ sources:
     publisher: Saraya News
     date: 2026-11-09
     language: ar
+  - title: إحباط محاولة تهريب المخدرات بواسطة بالونات موجهة إلى الأراضي الأردنية
+    url: https://husna.fm/%D9%85%D8%AD%D9%84%D9%8A/%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%A8%D8%A7%D9%84%D9%88%D9%86%D8%A7%D8%AA
+    publisher: إذاعة حسنى
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The sources describe only "drugs" (المواد المخدرة) and give no substance; whether any of the cargo was cannabis is not established.
   - No weight, number of balloons or street value was published.
   - No arrests were reported; the sources say the seized material was handed to the competent authorities.
   - The Eastern Military Region covers Jordan's whole eastern frontier; the exact border location and the country the balloons came from are not named.
   - The Jo24 and Saraya accounts repeat the same army statement, so they are not independent confirmation of any detail beyond what the statement says.
+  - Husna FM reports the same army statement as the outlets already cited and gives no substance, weight, balloon count or arrests, and does not say whether any of the cargo was cannabis.
+  - Husna FM's page image is captioned only with the incident and date and carries no credit identifying the photographer or agency, so it is not added as media.
+  - Husna FM's related-articles box lists separate Anti-Narcotics Department cases from 29 October to 8 November 2026; they are different events and are not covered here.
 ---
 
 Jordan's Eastern Military Region foiled an attempt to smuggle a large quantity
-of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1]
+of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3]
 Border guard units spotted the balloons, brought them down inside Jordanian
-territory and seized the drugs they carried. [@1] The border guards acted with
+territory and seized the drugs they carried. [@1,3] The border guards acted with
 security and military bodies and the Anti-Narcotics Department, and the seized
-material was handed to the competent authorities for legal action. [@1]
+material was handed to the competent authorities for legal action. [@1,3]
 
 The Jordan Armed Forces said they would keep confronting infiltration and
 smuggling attempts whatever their methods in order to protect the kingdom's
@@ -54,4 +62,3 @@ Jo24. [@2]
 
 It said the balloons were heading towards Jordanian territory when they were
 spotted. [@2]
-
