@@ -47,21 +47,31 @@ sources:
     publisher: Divya Marathi
     date: 2026-11-09
     language: mr
+  - title: संभाजीनगरात 22 वर्षीय तरुणीचा कांड, कॉलेजमधूनच चालवायची रॅकेट, पोरांना जाळ्यात अडकवून बनवायची ग्राहक, पोलिसांनी ठोकल्या बेड्या
+    url: https://news18marathi.com/maharashtra/chhatrapati-sambhaji-nagar/college-girl-caught-selling-marijuana-in-chhatrapati-sambhajinagar-local18-ws-l-1826290.html
+    publisher: News18 Marathi
+    date: 2026-11-09
+    language: mr
 open_questions:
   - The article gives no separate date for the arrest; 2026-11-09 is the source's publication date and stands in for the event.
   - The captured page is truncated behind an app paywall, so the sentence beginning about the Mukundwadi police station and any further case details could not be read.
   - No separate figure for the cash alone was published; 46,500 rupees is the combined value of the seized ganja and cash, not the ganja price alone.
   - No second source for this arrest could be opened; only the Divya Marathi account supports the report.
   - The page lists one image without a caption tying it to this seizure, so no photo is linked as showing the event.
+  - News18 Marathi gives the ganja weight as 111 grams, while the Divya Marathi account already cited in this report gives 918 grams; the report keeps 918 grams and the difference is unresolved.
+  - Neither account gives a separate date for the arrest; 2026-11-09 is the publication date and stands in for the event.
+  - The accounts do not say who the woman's supplier was, what charges were filed, or how the case ended.
+  - The reported worth of 46,500 rupees covers the ganja and cash together; no separate cash amount was published.
 ---
 
 In Chhatrapati Sambhajinagar, an anti-narcotics squad caught a 22-year-old woman
-accused of selling ganja to college youth. [@1] She allegedly drew youth into
-ganja use through social media. [@1]
+accused of selling ganja to college youth. [@1,2] She allegedly drew youth into
+ganja use through social media. [@1,2]
 
-She was caught near a school in the Rajnagar area of Mukundwadi. [@1] Officers
+She was caught near a school in the Rajnagar area of Mukundwadi. [@1,2] Officers
 seized 918 grams of ganja from her. [@1]
 
 The seized ganja and cash together were recorded as case property worth a total
 of 46,500 rupees. [@1]
 
+The squad acted on a tip that a woman would come to Rajnagar to sell ganja. [@2] The crime branch is now investigating who supplied her with the ganja and who heads the supply chain. [@2]
