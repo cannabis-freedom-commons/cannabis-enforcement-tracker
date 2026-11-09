@@ -11,7 +11,7 @@ import (
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 )
 
-func TestSourceScreenshotIsLocalAndBoundToReceipt(t *testing.T) {
+func TestSourceScreenshotIsPublicAndBoundToReceipt(t *testing.T) {
 	s, _ := server(t)
 	s.Config.Addr = "127.0.0.1:8080"
 	s.Config.Workspaces = t.TempDir()
@@ -29,19 +29,43 @@ func TestSourceScreenshotIsLocalAndBoundToReceipt(t *testing.T) {
 	if _, err = s.Store.DB.Exec("INSERT INTO source_captures(id,case_id,url,artifact_dir,created_at) VALUES(?,?,?,?,?)", store.ID(), v.CaseID, v.URL, dir, time.Now().Unix()); err != nil {
 		t.Fatal(err)
 	}
-	send := func(remote string) *httptest.ResponseRecorder {
-		r := httptest.NewRequest("GET", "/v1/submissions/"+id+"/source/screenshot", nil)
+	request := func(remote, query string, header ...string) *httptest.ResponseRecorder {
+		r := httptest.NewRequest("GET", "/v1/submissions/"+id+"/source/screenshot"+query, nil)
 		r.RemoteAddr = remote
+		for i := 0; i+1 < len(header); i += 2 {
+			r.Header.Set(header[i], header[i+1])
+		}
 		w := httptest.NewRecorder()
 		s.Handler().ServeHTTP(w, r)
 		return w
 	}
-	if r := send("127.0.0.1:1234"); r.Code != 403 {
-		t.Fatal("screenshots enabled outside development")
+	send := func(remote string) *httptest.ResponseRecorder { return request(remote, "") }
+	// the request page on the public site shows it, from anywhere
+	if r := request("198.51.100.1:1234", "", "Sec-Fetch-Site", "same-site"); r.Code != 200 || r.Header().Get("Content-Type") != "image/png" || r.Header().Get("Content-Security-Policy") != "default-src 'none'; sandbox" {
+		t.Fatal("public screenshot not served", r.Code, r.Body.String())
 	}
-	s.Config.DevControls = true
-	if r := send("198.51.100.1:1234"); r.Code != 403 {
-		t.Fatal("remote screenshot access allowed")
+	// other sites may not embed it
+	if r := request("198.51.100.1:1234", "", "Sec-Fetch-Site", "cross-site"); r.Code != 403 {
+		t.Fatal("hotlinked from another site", r.Code)
+	}
+	if r := request("198.51.100.1:1234", "", "Origin", "https://elsewhere.example"); r.Code != 403 {
+		t.Fatal("foreign origin allowed", r.Code)
+	}
+	// a capture of an archived copy of the page is found by its id, a capture of another case is not
+	archive := store.ID()
+	archiveDir := filepath.Join(s.Config.Workspaces, "sources", v.CaseID, archive)
+	os.MkdirAll(archiveDir, 0700)
+	os.WriteFile(filepath.Join(archiveDir, "page.png"), png, 0600)
+	s.Store.DB.Exec("INSERT INTO source_captures(id,case_id,url,artifact_dir,created_at) VALUES(?,?,?,?,?)", archive, v.CaseID, "https://web.archive.org/web/2025/https://news.example/screenshot", archiveDir, time.Now().Unix())
+	if r := request("198.51.100.1:1234", "?capture="+archive); r.Code != 200 {
+		t.Fatal("archived capture not served", r.Code, r.Body.String())
+	}
+	other, _ := s.Store.Accept(context.Background(), store.Intake{Origin: "web", URL: "https://news.example/other", CanonicalURL: "https://news.example/other"})
+	o, _ := s.Store.Get(context.Background(), other)
+	foreign := store.ID()
+	s.Store.DB.Exec("INSERT INTO source_captures(id,case_id,url,artifact_dir,created_at) VALUES(?,?,?,?,?)", foreign, o.CaseID, o.URL, archiveDir, time.Now().Unix())
+	if r := request("198.51.100.1:1234", "?capture="+foreign); r.Code != 404 {
+		t.Fatal("another case's capture served", r.Code)
 	}
 	if r := send("127.0.0.1:1234"); r.Code != 200 || r.Header().Get("Content-Type") != "image/png" || len(r.Body.Bytes()) != len(png) {
 		t.Fatal(r.Code, r.Body.String())

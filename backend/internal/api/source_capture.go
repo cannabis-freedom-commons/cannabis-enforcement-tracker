@@ -2,7 +2,6 @@ package api
 
 import (
 	"bytes"
-	"net"
 	"net/http"
 	"net/url"
 	"os"
@@ -16,16 +15,22 @@ func (s *Server) sourceScreenshot(w http.ResponseWriter, r *http.Request) {
 	s.sourceFile(w, r, "page")
 }
 
+// sourceFile serves a page capture of a submission's source (its screenshot) to the request page:
+// public, like the rest of the request, but only to the tracker's own pages (no hotlinking from
+// other sites), and only as a validated image that cannot run anything.
 func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string) {
-	host, _, err := net.SplitHostPort(r.RemoteAddr)
-	if !s.localControls() || err != nil || !loopbackHost(host) || r.Header.Get("Sec-Fetch-Site") == "cross-site" {
-		problem(w, 403, "Source screenshots are available only on the local development backend.")
+	if r.Header.Get("Sec-Fetch-Site") == "cross-site" {
+		problem(w, 403, "Source screenshots are shown on the tracker's own pages.")
 		return
 	}
 	if origin := r.Header.Get("Origin"); origin != "" {
 		u, e := url.Parse(origin)
-		if e != nil || !loopbackHost(u.Hostname()) {
-			problem(w, 403, "A localhost origin is required.")
+		allowed := e == nil && loopbackHost(u.Hostname())
+		for _, o := range s.Config.Origins {
+			allowed = allowed || origin == o
+		}
+		if !allowed {
+			problem(w, 403, "origin not allowed")
 			return
 		}
 	}
@@ -35,6 +40,8 @@ func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string)
 		return
 	}
 	var dir string
+	// the capture the source check names (also one of an archived copy of the page), else the
+	// newest capture of the submitted page itself
 	query := `SELECT p.artifact_dir FROM source_captures p JOIN submissions s ON s.case_id=p.case_id JOIN cases c ON c.id=p.case_id WHERE s.id=? AND p.url=c.canonical_url`
 	args := []any{id}
 	if capture := r.URL.Query().Get("capture"); capture != "" {
@@ -42,10 +49,10 @@ func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string)
 			problem(w, 404, "Capture not found.")
 			return
 		}
-		query += " AND p.id=?"
+		query = `SELECT p.artifact_dir FROM source_captures p JOIN submissions s ON s.case_id=p.case_id WHERE s.id=? AND p.id=?`
 		args = append(args, capture)
 	}
-	err = s.Store.Reader().QueryRowContext(r.Context(), query+" ORDER BY p.created_at DESC,p.rowid DESC LIMIT 1", args...).Scan(&dir)
+	err := s.Store.Reader().QueryRowContext(r.Context(), query+" ORDER BY p.created_at DESC,p.rowid DESC LIMIT 1", args...).Scan(&dir)
 	if err != nil {
 		if store.IsMissingAI(err) {
 			problem(w, 404, "No captured screenshot is available.")
@@ -111,6 +118,8 @@ func (s *Server) sourceFile(w http.ResponseWriter, r *http.Request, name string)
 	}
 	file.Seek(0, 0)
 	w.Header().Set("Content-Type", contentType)
+	w.Header().Set("Content-Security-Policy", "default-src 'none'; sandbox")
+	w.Header().Set("Cross-Origin-Resource-Policy", "same-site")
 	w.Header().Set("Content-Disposition", `inline; filename="source-`+strings.ReplaceAll(name, "/", "-")+`"`)
 	w.Header().Set("Cache-Control", "private, max-age=3600") // a capture never changes once taken
 	http.ServeContent(w, r, "source-"+strings.ReplaceAll(name, "/", "-"), info.ModTime(), file)
