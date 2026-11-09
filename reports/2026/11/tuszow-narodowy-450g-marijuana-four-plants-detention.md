@@ -69,6 +69,11 @@ sources:
     publisher: korso.pl
     date: 2026-11-09
     language: pl
+  - title: 'Tuszów Narodowy: Podejrzenia kryminalnych się potwierdziły. Marihuana i konopie pod wskazanym adresem'
+    url: https://informacje.wp.pl/wiadomosci/podejrzenia-kryminalnych-sie-potwierdzily-marihuana-i-konopie-pod-wskazanym-adresem-7349089343003072a
+    publisher: WP Info
+    date: 2026-11-09
+    language: pl
 open_questions:
   - The sources give no separate date for the search and arrest; 9 November 2026 is the publication date of the police statement and is used as the incident date.
   - The 450 grams is described as dried plant material identified as marijuana by initial tests; no laboratory confirmation or street value was reported.
@@ -76,24 +81,25 @@ open_questions:
   - It is not stated where in the home the four cannabis plants were kept or whether they were grown under lights, so the growing setting is left out.
   - hej.mielec.pl and korso.pl reproduce the Mielec police statement and its photographs, so they are not independent accounts of the search.
   - The plants are counted in plants_destroyed because the sources say only that they were secured as evidence, not whether they were seized for destruction.
+  - WP Info says the text came from a partner outlet through the WP Kreator programme, so it may reproduce the same Mielec police statement as the other coverage rather than add an independent account.
+  - The article gives no separate date for the search and detention; 9 November 2026 is its publication date and was used as the incident date.
 ---
 
 Criminal investigators from the Mielec district police headquarters established
-that a resident of Tuszów Narodowy might be holding banned substances. [@1]
+that a resident of Tuszów Narodowy might be holding banned substances. [@1,4]
 Officers went to the address and found the 40-year-old man there, and their
-suspicions were confirmed. [@1] In the search police seized 450 grams of dried
-plant material and four cannabis plants other than fibre hemp. [@1] Initial
+suspicions were confirmed. [@1,4] In the search police seized 450 grams of dried
+plant material and four cannabis plants other than fibre hemp. [@1,4] Initial
 tests confirmed that the dried material was marijuana. [@1] The man was detained
-and taken to a police detention room. [@2] The material was found during a
+and taken to a police detention room. [@2,4] The material was found during a
 search of his home in Tuszów Narodowy in Mielec County. [@2]
 
 Police from the Mielec district police headquarters charged the 40-year-old with
-possessing significant quantities of narcotic substances. [@1] He admitted the
-charge and gave explanations. [@1] The court granted the prosecutor's request
-and ordered three months of pre-trial detention. [@1] The prosecutor asked the
+possessing significant quantities of narcotic substances. [@1,4] He admitted the
+charge and gave explanations. [@1,4] The court granted the prosecutor's request
+and ordered three months of pre-trial detention. [@1,4] The prosecutor asked the
 court for pre-trial detention and the court agreed. [@2]
 
 The case is still under investigation, and he faces criminal liability for
 possessing significant quantities of narcotic substances. [@2] The 40-year-old
 was charged after officers gathered the evidence. [@3]
-
