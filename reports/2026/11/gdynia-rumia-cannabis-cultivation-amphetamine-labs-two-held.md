@@ -44,6 +44,26 @@ media:
     media_url: https://rmf.rmffm.pl/news/attachments/2e/da/kadr-z-filmu-udost-966x643-2edafd96.jpg
     publisher: RMF24
     caption: Frame from a video shared by the police, published with the report on the two amphetamine laboratories in Gdynia and Rumia. The credit reads "materiały udostępnione" (materials provided).
+  - kind: photo
+    url: https://cbsp.policja.pl/cbs/aktualnosci/283656,Nielegalne-laboratoria-amfetaminy-zlikwidowane-Policjanci-zabezpieczyli-narkotyk.html
+    media_url: https://cbsp.policja.pl/dokumenty/zalaczniki/3/3-485832.jpg
+    publisher: Centralne Biuro Śledcze Policji
+    caption: Police gallery photo published with the CBŚP statement on the two drug laboratories in Gdynia and Rumia; the page carries no caption identifying which site or materials it shows.
+  - kind: photo
+    url: https://cbsp.policja.pl/cbs/aktualnosci/283656,Nielegalne-laboratoria-amfetaminy-zlikwidowane-Policjanci-zabezpieczyli-narkotyk.html
+    media_url: https://cbsp.policja.pl/dokumenty/zalaczniki/3/3-485833.jpg
+    publisher: Centralne Biuro Śledcze Policji
+    caption: Second photo in the CBŚP gallery for the Gdynia and Rumia laboratories; the page gives no caption naming the equipment or premises shown.
+  - kind: photo
+    url: https://cbsp.policja.pl/cbs/aktualnosci/283656,Nielegalne-laboratoria-amfetaminy-zlikwidowane-Policjanci-zabezpieczyli-narkotyk.html
+    media_url: https://cbsp.policja.pl/dokumenty/zalaczniki/3/3-485834.jpg
+    publisher: Centralne Biuro Śledcze Policji
+    caption: Third photo in the CBŚP gallery for the Gdynia and Rumia laboratories; the page gives no caption naming the equipment or premises shown.
+  - kind: video
+    url: https://cbsp.policja.pl/cbs/aktualnosci/283656,Nielegalne-laboratoria-amfetaminy-zlikwidowane-Policjanci-zabezpieczyli-narkotyk.html
+    media_url: https://www.youtube.com/watch?v=hWzi92GFtM4
+    publisher: Centralne Biuro Śledcze Policji
+    caption: Police video embedded in the CBŚP statement on the Gdynia and Rumia amphetamine laboratories.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3ca5659ef09ca5b5ec37f9678158c822
@@ -69,6 +89,11 @@ sources:
     publisher: UA.NEWS
     date: 2026-11-09
     language: uk
+  - title: Nielegalne laboratoria amfetaminy zlikwidowane. Policjanci zabezpieczyli narkotyki warte ponad 1,6 mln zł
+    url: https://cbsp.policja.pl/cbs/aktualnosci/283656,Nielegalne-laboratoria-amfetaminy-zlikwidowane-Policjanci-zabezpieczyli-narkotyk.html
+    publisher: Centralne Biuro Śledcze Policji
+    date: 2026-11-09
+    language: pl
 open_questions:
   - No separate date is given for the searches, detentions or arrests; 9 November 2026 is the publication date of both accounts and stands in for the incident date.
   - No count of cannabis plants, weight of cannabis or area of the cultivation was published; the only cannabis evidence stated is the cultivation and dried plant material in the allotment shed and growing equipment at one suspect's home.
@@ -84,28 +109,34 @@ open_questions:
   - No separate date is given for the searches or detentions; 9 November 2026 is both its publication date and the date of the account it translates.
   - The Ukrainian UA.NEWS page reproduces the same RMF24 material as the Polish accounts already cited, so it strengthens corroboration but is not independent reporting.
   - The page gives no separate date for the searches or detentions; 9 November 2026 is its publication date and stands in for the incident date.
+  - The CBŚP statement gives no separate date for the searches or detentions; 9 November 2026 is its publication date and stands in for the incident date.
+  - The statement still gives no plant count, weight of dried cannabis or area for the hemp cultivation, so no cannabis quantity is recorded.
+  - The amphetamine weights, the estimated 60 kg of finished drug and the 1.6 million zloty value are police estimates for amphetamine and chemicals, not cannabis figures, and are excluded.
+  - The statement does not say whether the two locations it names for cannabis — the allotment shed in Gdynia and one suspect's home — are separate sites.
+  - Neither suspect's plea nor any court outcome beyond temporary arrest is reported.
+  - The three gallery photos and the embedded video carry no captions naming which laboratory or seizure they show.
 ---
 
 Officers of the Bydgoszcz branch of the Central Bureau of Investigation of
 Police (CBŚP) and the Central Bureau for Combating Cybercrime (CBZC) detained
 two men, identified as Tomasz D. and Sebastian B., in an operation against two
-illegal amphetamine laboratories in Gdynia and Rumia. [@1,3,4]
+illegal amphetamine laboratories in Gdynia and Rumia. [@1,3,4,5]
 
 The first laboratory, with a complete production line for amphetamine, operated
 on a plot in an allotment garden in Gdynia; the second was in the basement of an
-apartment block in Rumia and belonged to Tomasz D. [@1,3,4]
+apartment block in Rumia and belonged to Tomasz D. [@1,3,4,5]
 
 The police statement reported that the allotment shed where the drug was made
 also contained a cultivation of hemp other than fibre hemp and dried plant
 material, with no plant count or weight given. [@2] At the home of the second
 suspect, police found equipment for growing marijuana along with amphetamine.
-[@1,3]
+[@1,3,5]
 
 Both suspects were charged with illegal production of significant quantities of
 drugs, cultivation of hemp other than fibre hemp, and possession of intoxicating
-and psychotropic substances. [@1,3,4] The two men were taken to the District
+and psychotropic substances. [@1,3,4,5] The two men were taken to the District
 Prosecutor's Office in Gdynia, and a court ordered them held in temporary arrest
-at the prosecutor's request. [@2,4]
+at the prosecutor's request. [@2,4,5]
 
 The police figures for the operation concern amphetamine: 3.5 kg of liquid
 amphetamine and more than 45 litres of liquid base amphetamine, valued by police
