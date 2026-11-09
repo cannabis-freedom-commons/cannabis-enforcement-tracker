@@ -51,6 +51,11 @@ sources:
     publisher: Mossos d'Esquadra (X)
     date: 2026-11-06
     language: ca
+  - title: Los Mossos desmantelan dos puntos de venta de droga en Cornellà y detienen a tres hombres
+    url: https://www.vilapress.cat/articulo/cornella/2026-11-09/6083932-mossos-desmantelan-puntos-venta-droga-cornell-detienen-tres-hombres
+    publisher: VilaPress
+    date: 2026-11-09
+    language: es
 open_questions:
   - No weight or street value was published for the hashish and marijuana seized, so the report gives no cannabis quantity.
   - The 24,000 euros in cash is money found in the searches; the sources call it proceeds of the drug trade but give no drug valuation.
@@ -60,28 +65,32 @@ open_questions:
   - The La Ciutat page's lead picture is an unrelated file photo of a Mossos corporal, and the press pictures are archive images, so no media entry is given.
   - 'Left out, as its quotation was not found in La Premsa del Baix: Plain-clothes officers on preventive patrol saw a woman in an alleged street drug deal in August, and surveillance from there led the investigators of the Cornellà police station''s investigation unit to the two dealers and their homes.'
   - Left out agency types, as its quotation was not found in La Premsa del Baix.
+  - Metrópoli Abierta says the two homes were searched simultaneously; no other account confirms the timing of the two entries.
+  - 'El Caso reports a clearer division of roles than the existing report: a woman speaking to buyers, her partner selling the hashish and a third member of the group dealing the marijuana.'
+  - El Caso says the two sellers had criminal records and that the Mossos did not disclose the nationalities of those arrested; no other account states this.
+  - The Europa Press TV listing publishes Mossos video of the three arrests on 3 November, dated 6 November and running one minute and seven seconds with ambient sound.
+  - No weight or street value for the hashish and marijuana was published in any of the added accounts, and the 24,000 euros remains money found in the searches, not a valuation of the drugs.
 ---
 
 Mossos d'Esquadra officers, Catalonia's regional police force, arrested three
 men aged 34, 41 and 58 in an operation against two drug sales points in the Sant
-Ildefons neighbourhood of Cornellà de Llobregat, in the Baix Llobregat. [@1] On
+Ildefons neighbourhood of Cornellà de Llobregat, in the Baix Llobregat. [@1,3] On
 3 November, with judicial authorisation, officers searched the two homes linked
 to the trade and seized prepared quantities of hashish and marijuana, 24,000
-euros in cash and tools for handling the drugs. [@1] Two of those detained are
+euros in cash and tools for handling the drugs. [@1,3] Two of those detained are
 accused of a crime against public health for drug trafficking, and the third, a
 relative of one of them, of illegal weapons possession, after a semi-automatic
-firearm and live ammunition were found in one of the flats. [@1]
+firearm and live ammunition were found in one of the flats. [@1,3]
 
 The inquiry began in August, when plain-clothes officers on preventive patrol
-saw a woman apparently carrying out a street drug transaction. [@1]
+saw a woman apparently carrying out a street drug transaction. [@1,3]
 
 Following her led officers to the woman's partner, who allegedly sold hashish to
 buyers who gathered near a building, and to a second man who supplied marijuana
-to customers who preferred it, each with a separate role. [@1] The suspects
+to customers who preferred it, each with a separate role. [@1,3] The suspects
 regularly went home to store the drugs before distributing them, so as not to
-carry large amounts in the street. [@1]
+carry large amounts in the street. [@1,3]
 
 All three detainees were brought before the duty court in Cornellà de Llobregat.
-[@1] The Mossos' own statement said they detained three men and seized hashish,
+[@1,3] The Mossos' own statement said they detained three men and seized hashish,
 marijuana, 24,000 euros and a 9 mm pistol with live ammunition. [@2]
-
