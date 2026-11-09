@@ -68,6 +68,11 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-08
     language: hi
+  - title: रांची के टाटीसिलवे स्टेशन पर 15 किलो गांजा के साथ चार तस्कर गिरफ्तार, गढ़वा में लगभग 1 करोड़ का गांजा जब्त
+    url: https://www.etvbharat.com/hi/state/rpf-arrested-smugglers-with-large-quantity-of-ganja-worth-lakhs-in-ranchi-and-garhwa-jhs26110803711
+    publisher: ETV Bharat News
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The article gives no separate date for the recovery; 8 November 2026 is its publication date and is used as the incident date.
   - The total is presented as 426 packets of about one kilogram each, so the 426 kg figure is the police's own calculation rather than a measured weight.
@@ -81,10 +86,11 @@ open_questions:
   - Prabhat Khabar gives no separate date for the recovery; 8 November 2026 is its publication date, as in the existing report.
   - The outlets share the same police account and the same 426-packet, about-one-kilogram-each basis for the total, so it is still the police's own calculation rather than a measured weight.
   - The page photo is credited only to Prabhat Khabar Network, and its alt text mentions a press briefing by the sub-divisional police officer, so it is not confirmed to show only the recovered ganja.
+  - ETV Bharat calls the vehicle a container truck found during late-night checking on the Kalyanpur highway, while the existing report describes a container found standing empty near the Kalyanpur overbridge; both accounts agree on the 426 kg quantity and the investigation status.
 ---
 
 Garhwa police in Jharkhand recovered 426 kilograms of ganja from a container
-parked beside the road near the Kalyanpur overbridge. [@1,2,3] The superintendent of
+parked beside the road near the Kalyanpur overbridge. [@1,2,3,4] The superintendent of
 police acted on a tip and sent a special raiding team led by Garhwa
 sub-divisional police officer Dillu Lohra, with station house officer Sunil
 Kumar Tiwari and other officers. [@1,3] The team found the container standing
@@ -105,3 +111,5 @@ vehicle's owner and driver, and the wider network. [@1,2,3] No one was arrested 
 the ganja was recovered, and the police account names no suspect. [@1,2,3]
 
 The container carrying the ganja bore the Uttar Pradesh registration number UP21BN7171, and Garhwa superintendent of police Ashutosh Shekhar received the tip that led to the search. [@3]
+
+The ETV Bharat account valued the 426 kg of ganja at about one crore rupees. [@4]
