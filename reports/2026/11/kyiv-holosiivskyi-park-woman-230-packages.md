@@ -41,6 +41,11 @@ media:
     media_url: https://npu.gov.ua/static-objects/npu/uploads/public/6af/18f/e42/6af18fe4296f1906777273.jpg
     publisher: Головне управління Національної поліції у місті Києві
     caption: 'Kyiv police photo 5 of 5 published with the report on the detention in the Holosiivskyi park. Photo: Kyiv police'
+  - kind: photo
+    url: https://www.cripo.com.ua/news/crime/stolychni-politsejski-zatrymaly-u-parku-v-golosiyivskomu-rajoni-narkozbuvachku-iz-psyhotropamy/
+    media_url: https://www.cripo.com.ua/wp-content/uploads/2026/11/2026-11-09_134221.jpg
+    publisher: УКРАЇНА КРИМІНАЛЬНА
+    caption: 'Police handout photo republished with the report on the detention in the Holosiivskyi district park. Photo: Kyiv police'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: e48f0ac01ebb0414db65c423174ef8ba
@@ -56,6 +61,11 @@ sources:
     publisher: Головне управління Національної поліції у місті Києві
     date: 2026-11-09
     language: uk
+  - title: Столичні поліцейські затримали у парку в Голосіївському районі наркозбувачку із психотропами
+    url: https://www.cripo.com.ua/news/crime/stolychni-politsejski-zatrymaly-u-parku-v-golosiyivskomu-rajoni-narkozbuvachku-iz-psyhotropamy/
+    publisher: УКРАЇНА КРИМІНАЛЬНА
+    date: 2026-11-09
+    language: uk
 open_questions:
   - No weight, count of doses or value was published for the cannabis found in her home or the packages in the park, and the 230 packages mix cannabis with PVP, MDMA, mephedrone, amphetamine and a drug-containing liquid, so no cannabis quantity is recorded.
   - The reports give only the publication date of 9 November 2026 and no separate date for the detention or the search, so that date is used as the incident date.
@@ -63,6 +73,8 @@ open_questions:
   - The suspicion is recorded under part 3 of article 307 for an especially dangerous psychotropic substance; the reports do not say which substance the charge itself concerns.
   - Alpha-PVP, MDMA, mephedrone and amphetamine are mentioned only to explain the mixed seizure and are excluded from the cannabis figures.
   - The photos are police handout images published without captions describing each frame, so only the police page was used for media.
+  - The outlet republishes the same Kyiv police statement as the other accounts and gives no date for the detention itself.
+  - It gives no weight or separate count for the cannabis in the nearly 140 mixed packages found at her home.
 ---
 
 Police in Kyiv's Holosiivskyi district detained a 41-year-old Kyiv woman who was
@@ -75,8 +87,8 @@ whose locations are sent to buyers. [@2]
 In her pockets officers found 60 packages of alpha-PVP, 10 of MDMA, 10 of
 mephedrone and 10 of a drug-containing liquid. [@1] A search of her home turned
 up almost 140 more pre-packed packages of cannabis, alpha-PVP and amphetamine.
-[@2] In total police seized about 230 packages of drugs prepared for
-distribution. [@2]
+[@2,3] In total police seized about 230 packages of drugs prepared for
+distribution. [@2,3]
 
 She was detained under article 208 of Ukraine's Criminal Procedure Code, which
 governs detention of a suspect. [@2] Holosiivskyi police investigators,
@@ -85,7 +97,6 @@ part 3 of article 307 of the Criminal Code for acquiring and storing an
 especially dangerous psychotropic substance for sale in especially large
 amounts. [@2] The article carries a penalty of up to 12 years in prison with
 confiscation of property. [@1] At the investigators' request a court ordered her
-held in custody without the right to post bail. [@1] The investigation is
+held in custody without the right to post bail. [@1,3] The investigation is
 continuing, and under article 62 of Ukraine's Constitution she is presumed
 innocent until a court verdict establishes guilt. [@1]
-
