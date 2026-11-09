@@ -61,29 +61,37 @@ sources:
     publisher: VRSicilia
     date: 2026-11-09
     language: it
+  - title: Pusher arrestato in corso Indipendenza con cocaina, crack e marijuana
+    url: https://www.freepressonline.it/2026/11/09/pusher-arrestato-in-corso-indipendenza-con-cocaina-crack-e-marijuana/
+    publisher: Free Press Online
+    date: 2026-11-09
+    language: it
 open_questions:
   - The articles give no separate date for the stop and arrest; 8 November 2026 is inferred from the 9 November publication date.
   - No court outcome was reported beyond the arrest.
   - Only the marijuana weight, 4.1 grams, is recorded as cannabis; the cocaine (2.5 g) and crack (2.2 g) are not cannabis figures.
   - The suspect was not named, only described as a 44-year-old from Catania.
   - The page photo is a police handout captioned only with the headline wording, so its exact content is not established beyond its link to this police operation.
+  - Free Press Online gives no separate date for the stop; 8 November 2026 is inferred from the 9 November publication date, as in the existing report.
+  - The page carries the same police handout photo already linked in the report, so no new media entry is added.
 ---
 
 State police arrested a 44-year-old man from Catania on suspicion of possession
-of narcotics for sale. [@1] Officers of the Falchi, the Mobile Squad unit of
+of narcotics for sale. [@1,4] Officers of the Falchi, the Mobile Squad unit of
 Catania police headquarters that targets widespread crime, stopped him in corso
-Indipendenza during patrols of the city's neighbourhoods. [@1] According to the
+Indipendenza during patrols of the city's neighbourhoods. [@1,4] According to the
 police account, the man was waiting in the street for a customer to make a drug
-delivery. [@2] VRSicilia reported that officers spotted him in corso
+delivery. [@2,4] VRSicilia reported that officers spotted him in corso
 Indipendenza during checks of the area. [@3]
 
 Police said he looked around furtively and kept checking his mobile phone, and
-when asked for documents he handed over 4.1 grams of marijuana. [@1] When
+when asked for documents he handed over 4.1 grams of marijuana. [@1,4] When
 officers asked him to empty the pockets of his hoodie they found eight wraps of
-cocaine weighing 2.5 grams and six baggies of crack weighing 2.2 grams. [@1]
+cocaine weighing 2.5 grams and six baggies of crack weighing 2.2 grams. [@1,4]
 
 Database checks showed he had several police records and was already subject to
 an oral warning from Catania's police commissioner. [@1] He was arrested for
 possession of narcotics for sale, and the case is at the preliminary
 investigation stage, where the presumption of innocence applies. [@1]
 
+The oral warning against him was issued by the Questore, Catania's police commissioner, as a personal prevention measure. [@4]
