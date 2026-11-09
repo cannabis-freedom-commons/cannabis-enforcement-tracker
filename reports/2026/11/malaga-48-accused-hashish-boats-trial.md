@@ -65,6 +65,11 @@ sources:
     publisher: وكالة الأنباء الجزائرية
     date: 2026-11-09
     language: ar
+  - title: اسبانيا تقاضي شبكة لتهريب الحشيش المغربي
+    url: https://barakanews.dz/posts/asbanya-tfkk-khyot-shbk-lthryb-alhshysh-almghrby
+    publisher: بركة نيوز
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No hashish weight, value or number of seized packages is published for this case, so no cannabis kilogram figure is recorded.
   - The sources give no dates for the investigation, the arrests or the seizures, only the trial's scheduled start on 9 November 2026.
@@ -76,13 +81,15 @@ open_questions:
   - No operation name or case number is published for this investigation.
   - The courthouse photo on the pages shows the Málaga Justice City building, not the alleged smuggling, so no picture of the events is listed.
   - The APS article reproduces Europa Press reporting and adds commentary on Moroccan production and official policy that is context, not new evidence about this case.
+  - Baraka News credits Europa Press and gives no figures for hashish weight, money or dates of investigation or arrests.
+  - The page's thumbnail is captioned only with the headline and is not confirmed to show the case, so it is not listed as media.
 ---
 
 Málaga's provincial court, the Audiencia Provincial, was due to begin a trial on
 Monday 9 November 2026 against 48 people accused of belonging to a network that
-brought hashish into Spain from Morocco. [@1,4] The prosecution's case is that the
+brought hashish into Spain from Morocco. [@1,4,5] The prosecution's case is that the
 ring used four pleasure boats, some registered to straw men, five banned
-high-speed semi-rigid speedboats and cars with hidden compartments. [@1]
+high-speed semi-rigid speedboats and cars with hidden compartments. [@1,5]
 Prosecutors say two men led the organisation, one of whom has been declared a
 fugitive in this case, with two middle-ranking members handling logistics. [@1]
 Two of the accused were dedicated almost exclusively to fitting vehicles with
@@ -104,3 +111,5 @@ days in December. [@1]
 
 The indictment's assertions are provisional conclusions that the court will
 examine during the trial. [@3]
+
+Members of the organisation handled logistics including supplying the boats and supplies and securing mooring sites. [@5]
