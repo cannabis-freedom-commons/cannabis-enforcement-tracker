@@ -77,6 +77,11 @@ sources:
     publisher: Portal de Comunicação da PMESP
     date: 2026-11-09
     language: pt
+  - title: PM apreende 4,5 toneladas de maconha e fuzil em Ourinhos
+    url: https://policialpadrao.com.br/45-toneladas-de-maconha-e-fuzil-apreendidos-em-ourinhos-4-5-pm-rodoviariaa/
+    publisher: Policial Padrão
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No charge or court decision was reported beyond the driver's arrest in flagrante and detention at the Federal Police station in Marília.
   - The driver's name, age, route and the origin or destination of the load were not published.
@@ -88,22 +93,24 @@ open_questions:
   - The two highway-police handout photos on the page show the seized drugs and rifle, but their relation to the photo already linked in the report could not be checked, so no media entry is added.
   - The PMESP page names the highway as SP-327, while the Voz do Vale account already cited in the report gives the stop as on the Raposo Tavares (SP-270) in Ourinhos; the accounts differ on the road but agree on the place and the Sunday afternoon stop.
   - The page gives no charge, court decision or release beyond the driver's detention at the Federal Police station in Marília.
+  - Policial Padrão places the stop on the SP-327, matching the PMESP portal already cited, while another account in the same report gives the Raposo Tavares (SP-270); the accounts still differ on the road but agree on the place and the afternoon stop.
+  - Policial Padrão dates the arrest to Monday 9 November, while the highway police account and the other outlets give Sunday 8 November; the report keeps the Sunday date.
 ---
 
 Highway police arrested a man in Ourinhos, São Paulo state, on the afternoon of
 Sunday 8 November 2026 after finding more than 4.5 tonnes of cannabis and a
-rifle in the truck he was driving. [@1,4,5] The stop was made at about 15:25 by
+rifle in the truck he was driving. [@1,4,5,6] The stop was made at about 15:25 by
 teams of the Tático Ostensivo Rodoviário (TOR), the military highway police's
 overt patrol unit, during Operação Impacto. [@1] Officers searched a Volvo FH
 460 truck pulling a trailer loaded with bags of meat-and-bone meal. [@1,5]
 
 Hidden under the legal cargo they found 5,100 tablets of cannabis weighing 4,535
-kilograms. [@1,4,5] A rifle of calibre 7.62 with no identifiable make, model or
+kilograms. [@1,4,5,6] A rifle of calibre 7.62 with no identifiable make, model or
 origin was found in the same place. [@1,4,5] The case was presented at the Federal
 Police station in Marília, and the driver, who has a criminal record, remained
-in custody. [@1,4,5] The operation was carried out jointly with the São Paulo and
+in custody. [@1,4,5,6] The operation was carried out jointly with the São Paulo and
 Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO),
-an integrated anti-organised-crime task force. [@2] The driver was held at the
+an integrated anti-organised-crime task force. [@2,6] The driver was held at the
 disposal of the courts. [@3]
 
 According to the highway police, the seizure caused an estimated loss of 9.1
