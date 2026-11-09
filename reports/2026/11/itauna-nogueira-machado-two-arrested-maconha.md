@@ -51,6 +51,11 @@ media:
     media_url: https://viuitauna.com.br/wp-content/uploads/2026/11/Trafico-de-drogas-Nogueira-Machado-2026.11.06-Fotos-Reproducao-video-9-Cia-de-PM-3.jpg
     publisher: Viu Itaúna
     caption: Third image published with the Nogueira Machado report, without a caption; the file name indicates reproduction from a 9th Military Police Company video.
+  - kind: photo
+    url: https://www.radiosantacruzfmg.com.br/policial/noticia/93244/0/dois-homens-presos-e-dois-adolescentes-apreendidos-por-trafico-de-drogas-em-itauna
+    media_url: https://www.radiosantacruzfmg.com.br/assets/uploads/imagens/17cfd-whatsapp-image-2026-11-07-at-11.22.34.jpeg
+    publisher: Rádio Santa Cruz FM
+    caption: 'Material seized in the two Itaúna occurrences, in the Military Police handout published with the report. Photo: PMMG'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 8f6f830725fde05f784ee6d4291c4243
@@ -76,6 +81,11 @@ sources:
     publisher: Portal MPA
     date: 2026-11-07
     language: pt
+  - title: Dois homens presos e dois adolescentes apreendidos por tráfico de drogas em Itaúna
+    url: https://www.radiosantacruzfmg.com.br/policial/noticia/93244/0/dois-homens-presos-e-dois-adolescentes-apreendidos-por-trafico-de-drogas-em-itauna
+    publisher: Rádio Santa Cruz FM
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No weight, count or value was published for the cannabis portions, so no kilogram figure is recorded.
   - The material is described as a substance similar to marijuana; no laboratory confirmation was reported.
@@ -84,6 +94,9 @@ open_questions:
   - Folha do Povo calls the units the Tático Móvel and Jornal S'passo likewise, while Viu Itaúna refers to the Comando Tático; the accounts describe the same operation.
   - The pages give no caption or credit for the handout images, which are file-named as reproductions from a 9th Military Police Company video, so it is not established which of them shows the street stop or the house search.
   - The Itaúna outlets appear to reproduce the same 9th Military Police Company statement and video, so they are not fully independent reporting.
+  - Rádio Santa Cruz FM folds the two 6 November 2026 Itaúna occurrences together, so its total of two men arrested and two 16-year-olds detained covers both neighbourhoods; the report records only the two men of the Nogueira Machado case.
+  - The Graças neighbourhood occurrence, in which two 16-year-olds were detained with six marijuana wraps, crack, R$ 209, packaging material and two security cameras, is not part of this report and would need its own entry.
+  - The radio credits its photos to PMMG but gives no caption naming which of the two occurrences the images show.
 ---
 
 Military police arrested two men, aged 38 and 42, on suspicion of drug
@@ -91,10 +104,10 @@ trafficking after an operation in the Nogueira Machado neighbourhood of Itaúna,
 Minas Gerais, on the night of Friday 6 November 2026. [@1] Officers on tactical
 patrol approached the 38-year-old who was running along a public street carrying
 a bag, and a personal search found two sizeable portions of a marijuana-like
-substance. [@1] During the same incident a second suspect, aged 42, was
+substance. [@1,5] During the same incident a second suspect, aged 42, was
 arrested. [@1] The 9th Military Police Company said both men were taken to the
 Civil Police station with the seized material for the appropriate legal steps.
-[@1]
+[@1,5]
 
 With support from the ROCCA and GEPMOR units, officers then searched a residence
 where they found the rest of the drugs. [@1] In total officers seized three
@@ -110,3 +123,4 @@ taken to the Civil Police station. [@3] Portal MPA reported that both men were
 arrested in flagrante for involvement in drug trafficking and remained at the
 disposal of the courts. [@4]
 
+The same operation also involved a separate occurrence in the Graças neighbourhood. [@5]
