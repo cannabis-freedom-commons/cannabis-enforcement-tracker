@@ -39,22 +39,26 @@ sources:
     url: https://samoaglobalnews.com/police-seize-men-charged-with-possession-of-162-plastic-bags-of-marijuana/
     publisher: Samoa Global News
     date: 2019-04-18
+  - title: Police arrest two men over drugs possession
+    url: https://www.samoaobserver.ws/category/samoa/40620
+    publisher: Samoa Observer
+    date: 2019-04-17
 open_questions:
   - The source gives no weight for the 162 plastic bags, so no kilogram figure is recorded.
   - The article gives no explicit date for the raid; 16 April 2019 is implied by its reference to the raid "yesterday morning" before the 17 April police statement, and the page was published on 18 April.
   - No court date or outcome is reported.
   - Only one accessible account was found; a Talanei report with the same wording could not be opened.
+  - The Observer dates the 7.30am raid to Wednesday, its 17 April 2019 publication day, while the existing report dates the raid to 16 April 2019 from the other account's wording; the timing difference is unresolved.
 ---
 
 Two men were arrested and charged with possession of marijuana after a police
-raid on the morning of 16 April 2019 in the Tafaigata area. [@1] The men were
+raid on the morning of 16 April 2019 in the Tafaigata area. [@1,2] The men were
 aged 42, from Vaitele Uta, and 27, from Tafaigata and Mulifanua, and were
 charged at the Tuanaimato police station the day after the raid. [@1]
 
 Police said a concerning number of people had reported marijuana activity in the
-Tafaigata area, prompting the raid. [@1] Officers seized 162 plastic bags of
-dried marijuana leaves, branches and marijuana seeds. [@1]
+Tafaigata area, prompting the raid. [@1,2] Officers seized 162 plastic bags of
+dried marijuana leaves, branches and marijuana seeds. [@1,2]
 
 The Samoa Police Service thanked the public for its support and asked people to
 contact its Narcotics Division about illicit drugs. [@1]
-
