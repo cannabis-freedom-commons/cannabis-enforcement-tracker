@@ -62,6 +62,11 @@ sources:
     publisher: Mosaique FM
     date: 2026-11-09
     language: fr
+  - title: تفكيك شبكة لترويج المخدرات وحجز كوكايين ومبالغ مالية ضخمة ...تونس
+    url: https://arabic.pressbee.net/amp/show11107086.html
+    publisher: برس بي (Pressbee)
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No date is given for the operation; 9 November 2026 is the publication date and stands in for the incident date.
   - No weight, plant count or value was published for the cannabis; the cocaine weight is not included in the cannabis figure.
@@ -76,6 +81,7 @@ open_questions:
   - The page's only listed image uses a generic June 2025 upload filename with only the headline as caption and no credit, so it is omitted as not shown to depict this seizure.
   - The French Mosaique FM page gives no weight, plant count or value for the cannabis (zatla) and no date for the operation beyond its own 9 November 2026 publication date.
   - The French page's only image is captioned 'Garde nationale' with no credit and nothing confirming it shows this operation or seizure.
+  - The Pressbee page is an aggregator stub with no substantive body text; it reproduces the Mosaique FM headline line only, and the fuller account was read on the linked Mosaique FM original, its reprint and La Presse de Tunisie.
 media:
   - kind: photo
     url: https://www.mosaiquefm.net/fr/national-tunisie/1536188/tunis-un-reseau-de-trafic-de-drogues-demantele
@@ -96,3 +102,5 @@ suspected of being used to move the network's members. [@1,2,3,4]
 
 After being informed, the public prosecutor authorised the legal measures
 required against the suspects. [@1,2,3]
+
+An informed source told the Tunis Afrique Presse agency that three people, including a sports coach, were arrested on suspicion of involvement in a drug-trafficking network linked to a group of supporters of a sports club. [@2] The accounts describe the network as promoting both cocaine and cannabis and put the cash seized at 100,000 dinars. [@5] La Presse de Tunisie, citing a source close to the TAP agency, reported that the three were held over a network tied to a supporters' group of a sports club. [@3]
