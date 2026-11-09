@@ -208,6 +208,11 @@ sources:
     publisher: Tuổi Trẻ (via MSN)
     date: 2026-11-06
     language: vi
+  - title: Bắt giữ hơn 25 kg cần sa, hàng trăm cây thuốc lá nung nóng ở Nội Bài
+    url: https://www.msn.com/vi-vn/money/news/b%E1%BA%AFt-gi%E1%BB%AF-h%C6%A1n-25-kg-c%E1%BA%A7n-sa-h%C3%A0ng-tr%C4%83m-c%C3%A2y-thu%E1%BB%91c-l%C3%A1-nung-n%C3%B3ng-%E1%BB%9F-n%E1%BB%99i-b%C3%A0i/ar-AA2gRLcc
+    publisher: MSN (Báo Tiền Phong)
+    date: 2026-11-06
+    language: vi
 open_questions:
   - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
   - No estimated value was published for the 25.4 kg of cannabis.
@@ -301,11 +306,13 @@ open_questions:
   - The same announcement reports a separate seizure of 405.5 TEREA heated-tobacco sticks from four passengers, a tobacco case left out of this cannabis report.
   - This account identifies the passenger only as Spanish and gives no name, payment account, trip origin beyond the VN922/VN19 itinerary, charge or court outcome, so it neither confirms nor contradicts the earlier account of those details.
   - This account describes the dried herb as parts of the cannabis plant in the Customs Department's words but gives no laboratory result confirming the species.
+  - The submitted MSN page is the same Tiền Phong article already cited in this report, not an independent account.
+  - The Tiền Phong page gives the cannabis weight as more than 25 kg rather than 25.4 kg; the existing figure is retained.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)
 were screening transit baggage at Noi Bai International Airport on 25 October
-2026 when they found a black checked suitcase. [@1,2,3,4,6,7,9,16,25,26,30] The suitcase was checked
+2026 when they found a black checked suitcase. [@1,2,3,4,6,7,9,16,25,26,30,31] The suitcase was checked
 through on a connecting itinerary and booked on flight VN19, which was due to
 leave Noi Bai for Paris Charles de Gaulle at 23:50 that night. [@1,2,3,4,5,6,7,15,24,26,27,29,30] The airport
 task force identified the passenger, Jesus Sanchez Gomez, as the owner of the
@@ -320,7 +327,7 @@ Customs handed the entire case file, the man and the cannabis to PC04, the drug
 crime investigation office of the Hanoi City police, to continue the
 investigation. [@1,2,3,5,6,7,10,14,15,16,17,18,19,21,24,25,26,27,29]
 
-The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,11,14,16,17,27,28,29,30]
+The herb in the two packages was of flowers, leaves, stems and buds, and the Customs Department said all of it was part of the cannabis plant. [@2,4,5,6,11,14,16,17,27,28,29,30,31]
 
 The packages were rectangular, wrapped in nylon and vacuum-sealed. [@3,6,11,13,14,16,17,19,25,27,28,30] The Customs Department said the load weighed about 25.4 kg, while its headline and opening line described more than 25 kg. [@3]
 
