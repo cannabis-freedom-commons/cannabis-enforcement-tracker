@@ -36,6 +36,8 @@ created_by_model: Meta Muse Spark (via Muse Code)
 tags: [westmoreland, negril]
 open_questions:
   - The Star's page would not load at write time, so the account rests on the JCF release; the men's identities and any charges were not reported.
+  - The Observer gives no time for the search; the JCF release says about midnight, while the Jamaica Star report gives about 5:30 p.m.
+  - No charges or court outcome were reported for the four men.
 sources:
   - title: Ganja Seizure in Westmoreland, Four Men in Custody
     url: https://jcf.gov.jm/ganja-seizure-in-westmoreland-four-men-in-custody/
@@ -47,6 +49,10 @@ sources:
     publisher: Jamaica Star
     date: 2025-05-09
     language: en
+  - title: Four arrested in 500-lb ganja bust
+    url: https://www.jamaicaobserver.com/2025/05/09/four-arrested-500-lb-ganja-bust/
+    publisher: Jamaica Observer
+    date: 2025-05-09
 ---
 
 Detectives assigned to the Westmoreland Police Division seized over 500
@@ -58,4 +64,4 @@ conducted a search of the premises and its occupants, discovering several
 plastic bags containing compressed packages of ganja. [@1][@2]
 
 Four men were arrested in relation to the seizure, and their identities were
-withheld pending further investigation. [@1][@2]
+withheld pending further investigation. [@1,3][@2]
