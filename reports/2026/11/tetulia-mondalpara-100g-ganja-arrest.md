@@ -45,6 +45,10 @@ sources:
     publisher: dhakamail.com
     date: 2026-11-09
     language: bn
+  - title: পঞ্চগড়ে পরিত্যক্ত বাড়ি থেকে ইয়াবা ও গাঁজাসহ যুবক গ্রেফতার
+    url: https://shironam.com/news/youth-arrested-with-yaba-and-cannabis-from-abandoned-house-in-panchagarh
+    publisher: Shironam
+    language: bn
 open_questions:
   - Only one source for this event was found after searching in Bengali and English.
   - The 100 grams of ganja is described only as recovered, with no laboratory confirmation reported.
@@ -52,21 +56,22 @@ open_questions:
   - The article does not say whether the 65-year-old owner of the abandoned house was questioned or accused.
   - The event is placed in Tetulia upazila; coordinates are those of the upazila centre, not of Mondalpara village.
   - The page photo has no credit and only repeats the headline as its caption, so no media entry is included.
+  - The Shironam page shows no fixed publication date, only a relative time stamp; its Dhaka Mail original is dated 9 November 2026 and the event is dated 8 November.
+  - The page's only photo repeats the headline as its caption and carries no credit, so it cannot be confirmed to show this raid.
 ---
 
 Tetulia Model police station officers arrested Md Lablu, 28, in a special
-anti-drug operation in Tetulia upazila of Panchagarh district. [@1] The arrest
+anti-drug operation in Tetulia upazila of Panchagarh district. [@1,2] The arrest
 took place around 9 pm on Sunday 8 November in Mondalpara village of Shalbahan
-Union. [@1]
+Union. [@1,2]
 
 Acting on a tip-off, a police team went to an abandoned homestead in the
 village, where a man was reported to be staying to buy and sell drugs. [@1] The
 team entered the house at about 9:10 pm and detained Lablu, recovering 60 yaba
-tablets and 100 grams of ganja from him. [@1] Police confiscated the recovered
+tablets and 100 grams of ganja from him. [@1,2] Police confiscated the recovered
 drugs according to the rules. [@1]
 
 Police filed a regular case against Lablu under the Narcotics Control Act at
-Tetulia Model police station. [@1] The officer-in-charge said anti-drug drives
+Tetulia Model police station. [@1,2] The officer-in-charge said anti-drug drives
 are continuing and such operations will be stepped up in future to eliminate
 drugs. [@1]
-
