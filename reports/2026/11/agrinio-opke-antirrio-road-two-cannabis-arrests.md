@@ -58,6 +58,11 @@ sources:
     publisher: ΑΙΧΜΗ - Εφημερίδα Ν. Αιτωλοακαρνανίας
     date: 2026-11-09
     language: el
+  - title: 'Αγρίνιο: Δύο συλλήψεις για χασίς'
+    url: https://www.agriniosite.gr/agrinio-dyo-syllipseis-gia-chasis/
+    publisher: AgrinioSite
+    date: 2026-11-09
+    language: el
 open_questions:
   - Only one source was found, and it reproduces a police announcement without naming any other outlet covering the checks.
   - No weight was published for the man's cannabis, described only as a small quantity, so only the woman's 6.4 grams is recorded.
@@ -70,20 +75,28 @@ open_questions:
   - PatrisNews gives no weight for the man's cannabis, describing it only as a small quantity, so no figure is added.
   - ΑΙΧΜΗ gives no weight for the man's cannabis, describing it only as a small quantity.
   - agriniopress.gr appears to carry another account of the same two checks but returned an access error and could not be opened for corroboration.
+  - The AgrinioSite page reproduces a police announcement and gives no weight for the man's cannabis, so the report's figures remain unchanged.
+  - The photo published with the page carries only the headline as its caption, so what it depicts is not confirmed.
+media:
+  - kind: photo
+    url: https://www.agriniosite.gr/agrinio-dyo-syllipseis-gia-chasis/
+    media_url: https://www.agriniosite.gr/wp-content/uploads/2026/11/3312413-750x375.jpg
+    publisher: AgrinioSite
+    caption: 'Photo published with the report on the two cannabis arrests in Agrinio and the Antirrio–Agrinio road, captioned only with the article headline. Photo: AgrinioSite'
 ---
 
 Police in Agrinio arrested two people on separate checks for breaching the drug
 legislation. [@1]
 
 On the evening of Sunday 8 November 2026, officers of the OPKE unit of the
-Agrinio crime investigation directorate arrested a man in Agrinio. [@1,2,3,4] A search
+Agrinio crime investigation directorate arrested a man in Agrinio. [@1,2,3,4,5] A search
 found a packet with a small quantity of cannabis and a metal grinder with
 cannabis residue on him, and both were seized. [@1,2,3]
 
 On the morning of Saturday 7 November 2026, officers of the anti-drug section of
 the same directorate arrested a woman on the Antirrio–Agrinio national road.
-[@1,3,4] A search found 6.4 grams of cannabis and a metal grinder with cannabis
-residue on her, and they were seized. [@1,3] The OPKE is the Greek police's Crime
+[@1,3,4,5] A search found 6.4 grams of cannabis and a metal grinder with cannabis
+residue on her, and they were seized. [@1,3,5] The OPKE is the Greek police's Crime
 Prevention and Suppression Group, a rapid-response unit. [@1]
 
 ΑΙΧΜΗ describes the checks as part of police controls in the wider Agrinio area. [@4]
