@@ -76,6 +76,10 @@ sources:
     url: https://clubofmozambique.com/news/zimbabwe-robert-mugabes-son-appears-in-court-on-drug-charge/
     publisher: Club of Mozambique
     date: 2025-10-03
+  - title: Mugabe’s son arrested with cannabis, faces court in Zimbabwe
+    url: https://www.africanews.com/2025/10/03/mugabes-son-arrested-with-cannabis-faces-court-in-zimbabwe/
+    publisher: Africanews
+    date: 2025-10-03
 open_questions:
   - 'Accounts differ on the weight of cannabis: the police charge sheet cited 2 g and the lawyer said 0.02 g; the figures use the police weight of 2 g.'
   - The Club of Mozambique and BBC accounts give no separate date for the October arrest beyond 'Wednesday'; it is given as 1 October 2025 in the text only as the Wednesday before the 2 October appearance.
@@ -92,21 +96,20 @@ father of two. [@2]
 
 Court papers said police stopped him in a silver Honda Fit travelling the wrong
 way along Second Street Extension in Harare and found two sachets of dagga, a
-pack of Rizla papers and a white dagga crusher in his sling bag. [@2] Dagga is
+pack of Rizla papers and a white dagga crusher in his sling bag. [@2,6] Dagga is
 the southern African name for cannabis. [@1]
 
 Mugabe was arrested in October and later released on $300 bail, and a warrant
 issued after he missed a routine remand date was cancelled before the trial.
 [@3] He had first appeared in court on 2 October and was remanded in custody
-pending a bail ruling. [@5] He was released on Friday after paying bail of $300.
+pending a bail ruling. [@5,6] He was released on Friday after paying bail of $300.
 [@4] At that first appearance police said five people in a "syndicate linked to
 him" had also been arrested and that they found 25 sachets of marijuana and six
-ecstasy pills. [@4]
+ecstasy pills. [@4,6]
 
 Police charged Mugabe over 2 g of cannabis with a street value of $30. [@4] His
 lawyer, Ashiel Mugiya, denied the charge and said the drugs came from a car
-carrying three other people, with only 0.02 g of cannabis found. [@4] The 13
+carrying three other people, with only 0.02 g of cannabis found. [@4,6] The 13
 November ruling followed a warrant and missed hearing in a case that had drawn
 attention because Mugabe is the son of Zimbabwe's late president Robert Mugabe.
 [@4]
-
