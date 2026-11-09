@@ -61,6 +61,11 @@ sources:
     publisher: JM Madeira
     date: 2026-11-09
     language: pt
+  - title: Homem de 63 anos detido por tráfico de droga em Machico
+    url: https://www.dnoticias.pt/2026/11/9/512194-homem-de-63-anos-detido-por-trafico-de-droga-em-machico/
+    publisher: DNOTICIAS.PT
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The article published 9 November 2026 says the street sale happened on the previous Friday, taken as 6 November 2026; no separate exact incident date was given.
   - No weight was given for the hashish doses, so no cannabis weight is recorded.
@@ -69,19 +74,21 @@ open_questions:
   - Only one source about this event could be opened.
   - The article repeats that the sale happened on the previous Friday without giving a calendar date; 6 November 2026 is used as in the existing report.
   - The two Bloom doses are not added as cannabis because their composition is not stated.
+  - The Dnoticias text says the arrest happened on the previous Friday without giving a calendar date; 6 November 2026 is used, as in the existing report.
+  - The two Bloom doses are not counted as cannabis because Dnoticias does not state their composition, and the police statement's warning about synthetic substances does not identify them.
 ---
 
 A 63-year-old man was caught by PSP in Machico, Madeira, during a drug sale on
-the previous Friday. [@1] PSP officers had seen the man selling drugs to another
+the previous Friday. [@1,3] PSP officers had seen the man selling drugs to another
 person, and after stopping and searching both found the buyer with one dose of
-hashish and one of liamba while the suspect carried 28 more hashish doses. [@1]
+hashish and one of liamba while the suspect carried 28 more hashish doses. [@1,3]
 
 A search of the suspect's house found another 842 hashish doses and two Bloom
 doses, plus 940 euros in cash and materials used to prepare and package doses.
-[@1]
+[@1,3]
 
 The man, born and living in Machico, had previous convictions for similar
-crimes. [@1] He was released for health reasons under a term of identity and
-residence and ordered to appear in court the next Monday. [@1]
+crimes. [@1,3] He was released for health reasons under a term of identity and
+residence and ordered to appear in court the next Monday. [@1,3]
 
 The Regional Command of Madeira of the PSP said the Criminal Investigation Squad of the Machico Police Division detected the drug transaction. [@2]
