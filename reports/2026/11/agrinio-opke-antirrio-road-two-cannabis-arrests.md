@@ -48,6 +48,11 @@ sources:
     publisher: dete.gr
     date: 2026-11-09
     language: el
+  - title: 'Αγρίνιο: Δύο συλλήψεις για κατοχή κάνναβης'
+    url: https://www.patrisnews.com/agrinio-dyo-syllipseis-gia-katochi-kannavis/
+    publisher: PatrisNews - Εφημερίδα Πατρίς Ηλείας
+    date: 2026-11-09
+    language: el
 open_questions:
   - Only one source was found, and it reproduces a police announcement without naming any other outlet covering the checks.
   - No weight was published for the man's cannabis, described only as a small quantity, so only the woman's 6.4 grams is recorded.
@@ -57,18 +62,19 @@ open_questions:
   - The article does not say whether the two arrests are linked or investigated together, and they are recorded as two checks in one police roundup.
   - dete.gr gives no weight for the cannabis, which it describes only as a small quantity, so none is added to the report's figures.
   - dete.gr does not say what happened to the man after the arrest, so no charge or court step can be added.
+  - PatrisNews gives no weight for the man's cannabis, describing it only as a small quantity, so no figure is added.
 ---
 
 Police in Agrinio arrested two people on separate checks for breaching the drug
 legislation. [@1]
 
 On the evening of Sunday 8 November 2026, officers of the OPKE unit of the
-Agrinio crime investigation directorate arrested a man in Agrinio. [@1,2] A search
+Agrinio crime investigation directorate arrested a man in Agrinio. [@1,2,3] A search
 found a packet with a small quantity of cannabis and a metal grinder with
-cannabis residue on him, and both were seized. [@1,2]
+cannabis residue on him, and both were seized. [@1,2,3]
 
 On the morning of Saturday 7 November 2026, officers of the anti-drug section of
 the same directorate arrested a woman on the Antirrio–Agrinio national road.
-[@1] A search found 6.4 grams of cannabis and a metal grinder with cannabis
-residue on her, and they were seized. [@1] The OPKE is the Greek police's Crime
+[@1,3] A search found 6.4 grams of cannabis and a metal grinder with cannabis
+residue on her, and they were seized. [@1,3] The OPKE is the Greek police's Crime
 Prevention and Suppression Group, a rapid-response unit. [@1]
