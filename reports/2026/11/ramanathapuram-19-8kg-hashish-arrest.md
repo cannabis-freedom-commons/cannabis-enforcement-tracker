@@ -126,6 +126,10 @@ sources:
     publisher: Tamilwin
     date: 2026-11-04
     language: ta
+  - title: 19.8 kg hashish meant for smuggling to Sri Lanka seized in TN's Ramanathapuram one arrested
+    url: https://www.theweek.in/wire-updates/national/2026/11/04/19-8-kg-hashish-meant-for-smuggling-to-sri-lanka-seized-in-tn-s-ramanathapuram-one-arrested.html
+    publisher: The Week
+    date: 2026-11-04
 open_questions:
   - >-
     The article gives no separate calendar date for the interception beyond Tuesday; 3 November 2026, the
@@ -276,9 +280,13 @@ open_questions:
   - The native place is transliterated as Thalir Marungur versus Thalir Marungoor in the existing report, treated as the same name.
   - This account attributes the earlier 15 kg ganja case to S.P. Pattinam police station and says Mano was absconding in that case; it does not mention the separate Thondi case described elsewhere.
   - The page's first two images carry only the headline as caption with no credit or depiction details, so no media entry is added.
+  - The PTI account says the arrest and briefing happened on Wednesday and was published on 4 November 2026, while the existing report uses 3 November 2026 as the incident date; the existing date is retained.
+  - The PTI text gives the residence recovery as nearly 18 kg rather than the 17.8 kg in the existing report, while both give the total as 19.8 kg; the existing breakdown is retained.
+  - The six other cases, five arrests and eight to nine kg of contraband mentioned in the same intensive-drive paragraph are separate events left out here.
+  - The page's only image is a generic PTI wire preview thumbnail with no caption describing the event, so no media entry is added for it.
 ---
 
-Police arrested Mano in Ramanathapuram district after recovering 19.8 kilograms of hashish. [@1,2,3,4,5,6,7,8,9,10,11,12,13]
+Police arrested Mano in Ramanathapuram district after recovering 19.8 kilograms of hashish. [@1,2,3,4,5,6,7,8,9,10,11,12,13,15]
 
 S.P. Pattinam police arrested 34-year-old A. Mano in Ramanathapuram district.
 [@4,7,8,9,12,14] Mano is from Thalir Marungoor in Thiruvadanai taluk. [@4,7]
@@ -307,7 +315,7 @@ Police valued the seized hashish at Rs 2.5 lakh per kg in India, rising to nearl
 
 Police valued the 20 kg haul at about Rs 10 crore. [@9] Ramanathapuram district superintendent of police Sandeesh visited the scene to inspect it. [@9]
 
-The patrol team was led by Inspector David Ravirajan with Sub-Inspector Ramesh. [@10,11,13]
+The patrol team was led by Inspector David Ravirajan with Sub-Inspector Ramesh. [@10,11,13,15]
 
 Around 12.50pm, police intercepted Mano [@1,2,3] and recovered 2kg of hashish from his possession. [@1,2,3]
 
