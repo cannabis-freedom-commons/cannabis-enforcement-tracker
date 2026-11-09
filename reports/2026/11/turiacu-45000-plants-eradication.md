@@ -50,21 +50,26 @@ sources:
     publisher: g1
     date: 2026-11-06
     language: pt
+  - title: Polícia Civil destrói cerca de 45 mil pés de maconha em operação em zona rural do Maranhão
+    url: https://diariosulmaranhense.com.br/2026/11/06/policia-civil-destroi-cerca-de-45-mil-pes-de-maconha-em-operacao-em-zona-rural-do-maranhao/
+    publisher: Diário Sul Maranhense
+    date: 2026-11-06
+    language: pt
 open_questions:
   - The reports give only an approximate plant count and no weight, area cleared, value or arrests.
 ---
 
 Maranhão Civil Police located and destroyed about 45,000 cannabis plants during
 an operation on Thursday 5 November 2026 in the rural zone of Turiaçu, on the
-state's western coast. [@1,4] No arrests were reported in the operation. [@2]
+state's western coast. [@1,4,5] No arrests were reported in the operation. [@2]
 Police said investigations are continuing to identify and criminally hold
-responsible those involved and to find other possible growing areas. [@3]
+responsible those involved and to find other possible growing areas. [@3,5]
 
 Officers found three large plantations in an area between the villages of
-Tatajubinha, Guananim and Tipizal, totalling about 45,000 plants. [@2] The
-approximately 45,000 plants were destroyed by burning at the site. [@3] Police
+Tatajubinha, Guananim and Tipizal, totalling about 45,000 plants. [@2,5] The
+approximately 45,000 plants were destroyed by burning at the site. [@3,5] Police
 described it as the largest cannabis-crop eradication operation ever carried out
-in the municipality's history. [@3]
+in the municipality's history. [@3,5]
 
 The case began when the Turiaçu police station team identified signs of illegal
 cultivation in the region. [@3] With support from the Tactical Air Center (CTA),
