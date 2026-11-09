@@ -58,6 +58,11 @@ sources:
     publisher: GrNet News Sicurezza e Difesa
     date: 2026-11-09
     language: it
+  - title: 'Migración: Redada policial en Roma: dos cubanos detenidos'
+    url: https://www.14ymedio.com/cuba/migracion/redada-policial-roma-termina-cubanos_1_1132995.amp.html
+    publisher: 14ymedio
+    date: 2026-11-09
+    language: es
 open_questions:
   - No separate date is given for the sweep; the Carabinieri statements and the published reports all date it 9 November 2026, which is used as the incident date.
   - The sources do not say where in the three districts the marijuana handover happened, so the coordinates are for the Corviale area and the precision is district.
@@ -97,3 +102,4 @@ The Carabinieri described the sweep as one of their extraordinary
 territory-control services meant to curb illegality and strengthen security in
 Rome's neighbourhoods. [@2]
 
+Among the other arrests in the Corviale, Trullo and Magliana sweep was a 42-year-old Italian held for breaching the conditions of his house arrest. [@3]
