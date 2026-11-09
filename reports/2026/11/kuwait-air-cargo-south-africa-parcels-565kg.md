@@ -81,6 +81,10 @@ sources:
     publisher: جريدة الأنباء الكويتية
     date: 2026-11-10
     language: ar
+  - title: 'Declared as Ceiling Lights: 5.65kg of Suspected Marijuana Seized at Kuwait Air Cargo from South Africa'
+    url: https://www.arabtimesonline.com/news/declared-as-ceiling-lights-565kg-of-suspected-marijuana-seized-at-kuwait-air-cargo-from-south-africa/
+    publisher: Arab Times
+    date: 2026-11-10
 open_questions:
   - The source gives no separate date for the inspection; 9 November 2026 is its publication date and stands in for the incident date.
   - The substance is described as suspected marijuana, called herbal hashish in Arabic; no laboratory confirmation was reported.
@@ -100,16 +104,24 @@ open_questions:
   - Al-Anba publishes the seizure on 10 November 2026, a day after the other accounts of the same customs statement, and repeats the same General Directorate of Customs wording, so it is not independent reporting.
   - The Al-Anba headline says 5.6 kilograms while its text and the other accounts give 5.650 kilograms; the text figure is used.
   - Al-Anba gives no arrests, suspects, nationalities, charges or value estimate.
+  - Arab Times gives no separate date for the customs inspection; 10 November 2026 is its publication date, while its text datelines the report to 9 November.
+  - The Arab Times video is uncaptioned and uncredited, so it cannot be confirmed to show these parcels; it is linked, not copied.
+  - The substance remains described as suspected marijuana; no laboratory confirmation was reported.
 media:
   - kind: photo
     url: https://www.alanba.com.kw/1384402
     media_url: https://media.alanba.com.kw/articlefiles/2026/11/1384402-1.jpg?crop=(0,4,253,416)&cropxunits=253&cropyunits=450&w=770
     publisher: جريدة الأنباء الكويتية
     caption: Photo captioned 'المواد المخدرة هربت في طرد جوي' (the drugs were smuggled in an air parcel), published with Al-Anba's account of the air cargo customs seizure. No credit given.
+  - kind: video
+    url: https://www.arabtimesonline.com/news/declared-as-ceiling-lights-565kg-of-suspected-marijuana-seized-at-kuwait-air-cargo-from-south-africa/
+    media_url: https://www.arabtimesonline.com/arabtimes/uploads/images/2026/11/09/149898.mp4
+    publisher: Arab Times
+    caption: Video published with Arab Times' account of the Kuwait air cargo customs seizure of 5.65 kg of suspected marijuana in two parcels from South Africa; it carries no caption or credit on the page.
 ---
 
 Kuwait's Air Cargo Customs Department said its inspection and deposit control
-inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8] The parcels
+inspectors seized two parcels that arrived from South Africa. [@1,2,3,4,5,7,8,9] The parcels
 carried a substance suspected to be marijuana, described as herbal hashish,
 weighing 5.650 kilograms in total. [@1,2,3,4,5,6,8]
 
@@ -122,6 +134,6 @@ for the seized parcels. [@1,2,3,4,5,8]
 The General Directorate of Customs said it would keep blocking drug-smuggling
 attempts through customs posts and working with security agencies. [@1]
 
-Inspectors carried out the seizure on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@3]
+Inspectors carried out the seizure on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@3,9]
 
 Kuwait's General Directorate of Customs said the seizure was made on the directions of First Deputy Prime Minister and Interior Minister Sheikh Fahad Al-Yousuf. [@6]
