@@ -79,6 +79,11 @@ sources:
     publisher: El Día
     date: 2026-11-06
     language: es
+  - title: 'Caso maletas: Oviedo afirma que contenían marihuana alterada y señala a Saucedo y Mariaca'
+    url: https://www.reduno.com.bo/noticias/caso-maletas-oviedo-afirma-que-contenian-marihuana-alterada-y-senala-a-saucedo-y-mariaca-202611614560
+    publisher: Red Uno de Bolivia
+    date: 2026-11-06
+    language: es
 open_questions:
   - The article does not date the January search that seized the 70 kilograms; 6 November 2026 is the publication date of the minister's press conference and is used as the incident date.
   - No figure for the weight of the marijuana in the more than 30 suitcases was published; only the 70 kilograms found in the January search is counted.
@@ -95,11 +100,14 @@ open_questions:
   - Zeballos's statements are his version of events and still need to be contrasted by the investigating authorities.
   - The page photo shows Hebert Zeballos and does not depict the suitcases, the airport, or any seizure, so no media entry is added.
   - The page carries a photo of Government Minister Marco Antonio Oviedo described as a composition; it does not depict the suitcases, the airport or any seizure, so no media entry is added.
+  - Red Uno gives no weight, volume or laboratory result for the marijuana said to have been in the suitcases.
+  - The article's lead says 31 suitcases while another line says more than 30 arrived from the United States on a charter flight.
+  - The minister's account rests on accused people's statements and on his own version; this article cites no forensic record, customs record or payment trail.
 ---
 
 Bolivia's interior minister, Marco Antonio Oviedo, said the more than 30
 suitcases flown into the country from the United States in November 2025 carried
-chemically altered marijuana that would fetch a high price in Brazil. [@1,4,7,8] After
+chemically altered marijuana that would fetch a high price in Brazil. [@1,4,7,8,9] After
 nearly a year, the authorities say they still do not know what became of the
 drug once it entered Bolivia. [@1]
 
@@ -113,7 +121,7 @@ The former deputy Laura Rojas, an accused in the case, said in an expanded
 statement that the owner of the suitcases was Supreme Court president Romer
 Saucedo, known as El Alemán. [@1,5,8] The former judge Hebert Zeballos then said the
 suitcases held high-concentration marijuana produced in California and had the
-protection of the then attorney general Roger Mariaca. [@1,5,6,8]
+protection of the then attorney general Roger Mariaca. [@1,5,6,8,9]
 
 The suitcases were taken to property belonging to Zeballos, where their trail
 was lost. [@1] When prosecutors took up the case in January, the property was
@@ -124,7 +132,7 @@ Oviedo named Mariaca and Saucedo the main authors of the operation, saying
 Mariaca organised the flight and financed the contents of the suitcases while
 Saucedo provided protection to those involved. [@1,4] The minister said there was
 still no information on how the marijuana was sold and that the investigation
-now rests with the Public Ministry and the courts. [@1]
+now rests with the Public Ministry and the courts. [@1,9]
 
 Oviedo also said a third person, prosecutor Delmy Guzmán, intervened when police
 tried to search the airport depot where the suitcases were left. [@2,4] According
