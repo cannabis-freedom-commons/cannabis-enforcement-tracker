@@ -154,6 +154,11 @@ sources:
     publisher: جفرا نيوز
     date: 2026-11-08
     language: ar
+  - title: مداهمات أمنية توقع بـ 28 تاجرا ومروجا للمخدرات
+    url: https://alqalahnews.net/article/995557
+    publisher: القلعة نيوز (Al Qalah News)
+    date: 2026-11-08
+    language: ar
 open_questions:
   - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
   - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
@@ -207,6 +212,9 @@ open_questions:
   - Jafra News carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
   - The Jafra News page gives no separate date for the raids; the article is dated 8 November 2026 and says the casework ran over the preceding days.
   - The page's four gallery photographs and its lead image have no caption or credit, so no media entry is added for Jafra News.
+  - Al Qalah News carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
+  - The Al Qalah page gives no separate date for the raids beyond their running over the preceding days; 8 November 2026 is its publication date.
+  - The page shows one lead image captioned only with the story headline and four further images with no caption or credit, all served from Ammon News, so none is confirmed to depict this roundup and no media entry is added.
 media:
   - kind: photo
     url: https://a5r5br.net/jordan/local-news/8453952-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-28-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%81%D9%8A-15-%D9%82%D8%B6%D9%8A%D8%A9
@@ -217,17 +225,17 @@ media:
 
 Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
 officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23]
+and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24]
 
 In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
-capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6,11,13,15,16,17,18,19,20,21,22]
+capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6,11,13,15,16,17,18,19,20,21,22,24]
 Two active pushers in the capital were arrested with 20 blocks of hashish. [@1,5,11,18]
 Three pushers were arrested after a raid with five blocks of hashish and 1,500
 pills. [@1,5,11] South of Amman, officers raided a tent that three people used to
 trade, store and push drugs, arresting all three and seizing 2 kilograms of
 marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
-methamphetamine. [@1,3,4,5,6,7,11,12,13,15,16,17,18,19,20,21,22,23] Officers arrested three people in the last Amman case with
-2,600 grams of marijuana. [@1,5,6,7,8,11,14,15,16,18,19,23] In the second Amman case three people were raided
+methamphetamine. [@1,3,4,5,6,7,11,12,13,15,16,17,18,19,20,21,22,23,24] Officers arrested three people in the last Amman case with
+2,600 grams of marijuana. [@1,5,6,7,8,11,14,15,16,18,19,23,24] In the second Amman case three people were raided
 inside a flat they used to store drugs for sale, and officers seized 6,000 pills
 and a quantity of hashish. [@1,5,13,15] In a farm south of the capital officers arrested
 two pushers with 200 grams of crystal methamphetamine, 200 grams of cocaine and
@@ -240,7 +248,7 @@ blocks of hashish from him, and seized 200 grams of crystal methamphetamine from
 another pusher in the second case. [@1,5,11,15] A pusher was arrested in Ma'an
 Governorate with seven blocks of hashish. [@1,5,11,15,18] In Zarqa Governorate officers
 arrested a suspected drug smuggler who was preparing a quantity of pills to
-smuggle to a neighbouring country, and seized 4,000 pills from him. [@1,5,15] In the
+smuggle to a neighbouring country, and seized 4,000 pills from him. [@1,5,15,24] In the
 last case officers arrested one person and seized the vehicle he had, in which
 an extra tank had been fitted holding 18 litres of liquid amphetamine. [@1,5,13,15,18]
 
