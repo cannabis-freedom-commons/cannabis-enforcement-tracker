@@ -58,22 +58,27 @@ sources:
     url: https://www.arrivealive.co.za/news.aspx?s=1&i=79103&page=drug-dealing-suspect-arrested-during-joint-operations-along-the-r81-road-at-ximuwini-malamulele-in-the-vhembe-district
     publisher: Arrive Alive
     date: 2026-11-09
+  - title: Suspect to appear in court over possession of dagga
+    url: https://www.sabcnews.com/sabcnews/suspect-to-appear-in-court-over-possession-of-dagga/
+    publisher: SABC News
+    date: 2026-11-09
 open_questions:
   - No weight was given for the dagga; only the police estimate of an R662,400 street value was published.
   - The outcome of the 9 November 2026 court appearance is not reported.
   - The Limpopo Mirror and Arrive Alive both reproduce the same Limpopo SAPS statement, so they are not independent accounts.
   - It is not stated whether the suspect was charged at his first appearance or whether the case was postponed.
   - The two Arrive Alive images were not added as media because their content could not be confirmed as showing the seizure.
+  - SABC News puts the dagga's value at R660 000, while the existing report and its sources give R662,400.
 ---
 
 Police arrested a 55-year-old man on Sunday 8 November 2026 at about 09:00
 during a joint operation along the R81 road at Ximuwini, Malamulele, in the
 Vhembe District of Limpopo. [@1] Officers stopped and searched a red SUV and
-found 14 plastic refuse bags containing dagga inside. [@1] Limpopo police
+found 14 plastic refuse bags containing dagga inside. [@1,3] Limpopo police
 spokesperson Colonel Malesela Ledwaba said the dagga had an estimated street
 value of R662,400. [@1]
 
-The suspect was arrested and detained at Malamulele Police Station. [@2] He was
+The suspect was arrested and detained at Malamulele Police Station. [@2,3] He was
 expected before the Malamulele Magistrate's Court on Monday 9 November,
 following his arrest for dealing in dagga. [@2]
 
@@ -81,4 +86,3 @@ Limpopo police commissioner Lieutenant General Jan Scheeper praised the
 operational team members at Malamulele for their commitment and vigilance. [@1]
 Dagga is the South African term for cannabis, and the police gave dealing in
 dagga as the alleged offence behind the arrest. [@1]
-
