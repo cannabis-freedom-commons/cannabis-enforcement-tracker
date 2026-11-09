@@ -51,6 +51,11 @@ sources:
     publisher: খবর সংযোগ
     date: 2026-11-09
     language: bn
+  - title: পুলিশের পৃথক মাদকবিরোধী অভিযানে ইয়াবা ও গাঁজাসহ আটক ২
+    url: https://www.dainiksokal.com/country-news/143902/
+    publisher: দৈনিক সকাল
+    date: 2026-11-09
+    language: bn
 open_questions:
   - Only one source for this event could be opened; no district police statement or second outlet account was found.
   - The two arrests came from one police drive, so they are recorded as one event; the report links them only through the shared direction of the superintendent of police.
@@ -58,20 +63,20 @@ open_questions:
   - The report does not say when the two detainees were due in court, so no court appearance is recorded.
   - No weight or value was given for the 12 yaba tablets, and they are excluded from the cannabis figures.
   - The article gives no time of day for either detention.
+  - The two outlets give the arrests in one sequence without separate times of day, so the order of the two operations stays unclear.
 ---
 
 Police in Lalmohan upazila, Bhola, detained two men in two separate anti-drug
 operations and reported seizing 12 yaba tablets and 50 grams of ganja from them.
-[@1] Officers recovered the 12 yaba tablets and the 50 grams of ganja from the
+[@1,2] Officers recovered the 12 yaba tablets and the 50 grams of ganja from the
 two men. [@1] Two police teams carried out the operations on Monday 9 November
 2026 under the direction of Superintendent of Police Md Shahidullah Kawsar and
 the supervision of the officer in charge of Lalmohan police station. [@1]
 
 On the paved road east of a grocery shop in Kathir Matha Bazar, Dhaligaurnagar
-Union, police detained Md Riaz, 35, with the 50 grams of ganja. [@1] In a second
+Union, police detained Md Riaz, 35, with the 50 grams of ganja. [@1,2] In a second
 operation on the paved road by a house on the Nawab Ali Munshi Bari road in ward
 1 of Lalmohan municipality, police detained Md Rakib Hossain, 23. [@1]
 
 Police said a case against each of the two detainees was being prepared under
-the Narcotics Control Act. [@1]
-
+the Narcotics Control Act. [@1,2]
