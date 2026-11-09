@@ -87,10 +87,11 @@ open_questions:
   - The Südwest Presse article gives no day for the searches and no charge or court detail beyond the arrest warrants; the incident date 4 November 2026 comes from the earlier reporting of the same police statement.
   - The Südwest Presse summary names Landkreis Günzburg as the place where the grow, cocaine and weapons were found, but it does not say which flat held what.
   - The SWP picture on the page is captioned as a symbol photo credited to Daniel Karmann/dpa, so no media entry is added.
+  - The Südwest Presse account gives no day for the searches and no further court detail beyond the arrest warrants and pretrial detention, so it does not change the report's incident date or case stage.
 ---
 
 Police in Landkreis Günzburg are investigating seven people aged between 18 and
-34 on suspicion of dealing in narcotics. [@1,4,7] Officers arrested two of the seven
+34 on suspicion of dealing in narcotics. [@1,4,7,8] Officers arrested two of the seven
 and brought them before an investigating judge, who issued arrest warrants for
 both. [@2,8] Both suspects are now being held in pretrial detention, according to
 a police statement. [@1] Police said the investigations into the suspected
@@ -100,10 +101,10 @@ On Wednesday officers searched several flats in Landkreis Günzburg, as well as
 flats in the city of Augsburg and in Göppingen in Baden-Württemberg. [@1,4,7,8] The
 searches were part of an investigation into suspected narcotics trafficking.
 [@1] In the raid against the suspected drug dealers, police in Landkreis
-Günzburg seized a cannabis plantation together with cocaine and weapons. [@2]
+Günzburg seized a cannabis plantation together with cocaine and weapons. [@2,8]
 
 According to the police account, officers found an illegal cannabis grow
-facility during the searches. [@1,5,7] They also seized more than 100 grams of
+facility during the searches. [@1,5,7,8] They also seized more than 100 grams of
 cocaine and a smaller quantity of amphetamine. [@1,7,8] The officers also
 confiscated brass knuckles, a blank-firing gun and several thousand euros in
 cash. [@1]
