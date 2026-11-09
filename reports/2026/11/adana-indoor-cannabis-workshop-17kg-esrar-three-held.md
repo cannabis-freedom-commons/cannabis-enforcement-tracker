@@ -137,6 +137,11 @@ sources:
     publisher: Haber Kenti
     date: 2026-11-09
     language: tr
+  - title: 'Adana''da uyuşturucu imalathanesine baskın: 3 gözaltı'
+    url: https://www.saraymedya.com/haber/adana-da-uyusturucu-imalathanesine-baskin-3-gozalti_322427/
+    publisher: Saray Medya
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -165,15 +170,17 @@ open_questions:
   - Haber Kenti credits the story to 'Ajanslar' (news agencies) and reproduces the same account as the ministry statement already cited, so it corroborates rather than independently reports the raid.
   - The page gives no separate date for the raid; 9 November 2026 is its publication date and stands in for the incident date.
   - The page's picture is captioned only with the story headline and carries no photographer or agency credit; whether it shows the workshop, the seized esrar or the operation generally is not established.
+  - Saray Medya credits the text to İHA and reproduces the same gendarmerie account as the outlets already cited, so it corroborates rather than independently reports the raid.
+  - The page's picture is captioned only with the story headline and carries no separate photographer or agency credit, so it is not added as a separate media entry.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9,10]
+the air-conditioning system and various materials. [@2,4,6,7,9,10,11]
 
 The three suspects were taken into custody, and the ministry named no further
 court step. [@2,9,10]
