@@ -41,6 +41,11 @@ media:
     media_url: https://img.europapress.es/fotoweb/fotonoticia_20261109101432_690.jpg
     publisher: Europa Press
     caption: 'Police handout photo of the cannabis plants seized in the Olías del Rey industrial unit. Photo: Policía Nacional / Europa Press'
+  - kind: photo
+    url: https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/desmantelada-plantacion-marihuana-1003-plantas-olias-rey-20261109104720-nt.html
+    media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/09/marihuana%20olias-Rr48D53Rl8L3Qm4JQQPvILO-1200x840@diario_abc.jpg
+    publisher: Diario ABC
+    caption: 'Police handout photo of the 1,003 cannabis plants and the buds seized in the Olías del Rey industrial unit. Photo: Policía Nacional'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a12b71b5c30c1e0a70f1dc64dcb024a2
@@ -61,23 +66,29 @@ sources:
     publisher: MSN / Europa Press
     date: 2026-11-09
     language: es
+  - title: Desmantelada una plantación de marihuana con 1.003 plantas en Olías del Rey
+    url: https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/desmantelada-plantacion-marihuana-1003-plantas-olias-rey-20261109104720-nt.html
+    publisher: Diario ABC
+    date: 2026-11-09
+    language: es
 open_questions:
   - 'The reports give only the months of the police steps: the investigation began in August 2026, the warehouse search took place in September and the arrest in October; 15 September is used only to place the search mid-month.'
   - No exact day for the search, the arrest or the investigation start was published.
   - Only ENCLM reports the seizure of about 100 grams of buds; Europa Press gives plants only, so the weight is recorded from a single outlet.
   - The reports do not say whether the 1,003 plants were uprooted and destroyed or kept as evidence.
   - No charges, court appearance or custody decision after the arrest was reported.
+  - ABC gives the buds as nearly 100 kilograms, against the 100 grams previously read from ENCLM; the sources do not reconcile the two and the report keeps the earlier figure pending a police statement.
 ---
 
 Spain's National Police dismantled a cannabis plantation in the industrial
 estate of Olías del Rey, Toledo province, and arrested the man accused of
-running it in the nearby town of Illescas. [@1] He was held on suspicion of drug
-trafficking and of defrauding the electricity supply. [@1] The National Police
+running it in the nearby town of Illescas. [@1,4] He was held on suspicion of drug
+trafficking and of defrauding the electricity supply. [@1,4] The National Police
 said the arrest took place in Illescas. [@2]
 
 Officers began the investigation in August after information pointed to a
 cannabis crop somewhere in the industrial estate of Olías del Rey. [@1] They
-searched the warehouse in September and seized 1,003 cannabis plants. [@1,3] About
+searched the warehouse in September and seized 1,003 cannabis plants. [@1,3,4] About
 100 grams of cannabis buds were also taken out of the illegal market. [@1]
 Nobody was inside the unit during the search, and the investigation continued
 until the suspect was identified. [@1]
@@ -86,3 +97,5 @@ Those running the crop had built a sealed, climate-controlled partition of
 plasterboard inside the industrial building to optimise plant growth. [@1]
 Police also found an illegal hook-up to the public power grid, used to avoid the
 cost of the large amount of electricity the plantation demanded. [@1,3]
+
+ABC reports that officers found nearly 100 kilograms of cannabis buds already prepared for distribution in the illicit market. [@4] Nobody connected with the crop was inside the industrial unit when officers searched it, and the investigation stayed open to identify those responsible. [@4]
