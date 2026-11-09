@@ -38,12 +38,18 @@ sources:
     publisher: El Litoral
     date: 2026-11-08
     language: es
+  - title: 'CORRIENTES: Secuestraron Cocaína, Marihuana Y Armas Tras Un Allanamiento'
+    url: https://www.noticiasdelparana.com.ar/NuevaEdicion/2026/11/09/corrientes-secuestraron-cocaina-marihuana-y-armas-tras-un-allanamiento/
+    publisher: Noticias del Paraná
+    date: 2026-11-09
+    language: es
 open_questions:
   - No weight, dose count, cash amount or firearm details were published, so no cannabis quantity can be recorded.
   - The article gives no separate date for the raid beyond reporting it on Sunday 8 November 2026; 8 November is used as the incident date.
   - No name, charge or court decision for the 21-year-old was reported.
   - Only one accessible source for this raid was opened; no agency statement or second outlet could be used.
   - The page carries a photo whose caption only repeats the headline, so it cannot be verified as showing this raid and no media entry is listed.
+  - The page is published on 9 November 2026 and still gives no separate date for the raid; the existing report keeps 8 November and the age of that date remains open.
 ---
 
 A 21-year-old was apprehended in the same operation, and police said he had an
@@ -54,11 +60,10 @@ Curuzú Cuatiá, where proceedings were continuing. [@1]
 Corrientes police said they seized cocaine, marijuana and two firearms during
 the raid in Curuzú Cuatiá. [@1] During the search officers found a whitish
 substance that field-tested positive for cocaine. [@1] Officers also seized
-plant material that field-tested positive for marijuana. [@1] Officers also
+plant material that field-tested positive for marijuana. [@1,2] Officers also
 seized two firearms, a mobile phone, cash and other items to be added to the
 investigation. [@1]
 
 The raid was carried out at a house on Calle Castillo 700 in Curuzú Cuatiá under
-a judicial order. [@1] Corrientes police announced the operation on Sunday 8
+a judicial order. [@1,2] Corrientes police announced the operation on Sunday 8
 November 2026. [@1]
-
