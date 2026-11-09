@@ -43,18 +43,31 @@ sources:
     publisher: Khabara.ru
     date: 2026-11-09
     language: ru
+  - title: В Хабаровске задержали двух закладчиков с 43 свертками гашиша
+    url: https://komsanews.ru/news/region/v-habarovske-zaderzhali-dvuh-zakladchikov-s-43-svertkami-gashisha/
+    publisher: КомсаNews
+    date: 2026-11-09
+    language: ru
+  - title: В Хабаровске задержали оптовых наркокурьеров с 245 граммами гашиша
+    url: https://altai.news/2026/11/09/v-habarovske-zaderzhali-optovyh-narkokurerov-s-245-grammami.html
+    publisher: Мой Алтай (altai.news)
+    date: 2026-11-09
+    language: ru
 open_questions:
   - The article gives no separate date for the detention; 9 November 2026 is its publication date and is used as the incident date.
   - The only image on the page carries a caption repeating the headline and cannot be confirmed to show this event, so no media entry is included.
+  - The accounts give no separate date for the detention; 9 November 2026, the publication date of all three texts, is used as the incident date.
+  - The charge classification and the 20-year maximum come from the statement as reproduced by Moi Altai; the earlier accounts named article 228.1 without parts, so the exact classification may still change as the investigation proceeds.
+  - The submitted page's only image is a 2015 police-chevron stock photo credited to Медиасток.рф, so no media entry is added.
 ---
 
 Drug-control officers of the Khabarovsk Krai police detained two local residents
-aged 22 and 23 suspected of systematically distributing hashish. [@1] Officers
+aged 22 and 23 suspected of systematically distributing hashish. [@1,2] Officers
 seized 43 wraps with a combined weight of 245 grams that the suspects had placed
 in the Kirovsky district of the city. [@1] After the detention, a criminal case
 was opened against both suspects. [@1] Both were placed under a travel
 restriction requiring them not to leave their residence without permission and
-to appear when summoned. [@1]
+to appear when summoned. [@1,2]
 
 Police said the suspects obtained the drug online, portioned it inside a car and
 distributed it across Khabarovsk, accepting payment only in cryptocurrency later
@@ -70,3 +83,4 @@ covering illegal production, sale or dispatch of narcotic drugs. [@1] The seized
 final legal classification will be determined after all investigative actions
 and examinations are completed. [@1]
 
+The criminal case was opened under part 4 of article 228.1 and part 3 of article 30 of the Russian Criminal Code, whose maximum sanction is up to 20 years in prison. [@3] The suspects portioned the hashish into smaller doses in a car belonging to one of them and sold it in different districts of the regional centre. [@3]
