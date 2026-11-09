@@ -54,6 +54,10 @@ sources:
     url: https://www.rferl.org/a/putin-pardons-us-israeli-woman-jailed-in-russia-on-drug-charges/30405672.html
     publisher: RadioFreeEurope/RadioLiberty (RFE/RL)
     date: 2020-01-29
+  - title: Before Brittney Griner, an American Israeli woman was held in a Russian prison for having cannabis
+    url: https://www.nbcnews.com/news/us-news/brittney-griner-american-israeli-woman-was-held-russian-prison-cannabi-rcna37938
+    publisher: NBC News
+    date: 2022-07-13
 open_questions:
   - Some outlets describe the 9 grams as hashish rather than marijuana; this report uses cannabis for the seized amount.
   - The exact date of the April 2019 arrest was not stated in these sources.
@@ -61,6 +65,8 @@ open_questions:
   - The BBC gives no exact date for the April 2019 arrest.
   - This account says police found 9 grams of marijuana, while the existing report notes that some outlets described the amount as hashish.
   - The account gives no exact date for the April 2019 airport detention.
+  - The interview was published on 13 July 2022 and recounts events of 2019 and 2020; it gives no new date for the original detention and reports her age as 28 at the time of publication.
+  - Issachar describes the amount as about 10 grams of marijuana in a photo caption while the body of the article gives 9 grams; the existing report uses 9 grams.
 media:
   - kind: photo
     url: https://www.bbc.com/news/world-europe-51301827
@@ -80,3 +86,5 @@ Minister Benjamin Netanyahu. [@2,3,4,5]
 After her release, Issachar and her mother Yaffa were greeted in Moscow by Benjamin Netanyahu, and she flew to Israel on the prime minister's plane. [@4] Her mother said: "Finally, thank God, thanks to everyone." [@4] Israeli media reported that the Israeli government was willing to give up ownership of the Alexander Courtyard in Jerusalem's Old City as a goodwill gesture ahead of her release. [@4] Her case gained attention in Israel, where local media accused Moscow of using it to press Israel over the jailed Russian hacker Aleksey Burkov, who was extradited to the US in November 2019. [@4]
 
 Putin met Issachar's mother in Israel on 23 January 2020, with Israeli Prime Minister Benjamin Netanyahu also attending, and told her that her daughter "will be okay". [@5] Israeli Prime Minister Benjamin Netanyahu, due to meet Putin in Moscow on 30 January 2020, welcomed the pardon and thanked him for it. [@5]
+
+Naama Issachar, 28, said in an exclusive interview with NBC's Kate Snow that she never knew the cannabis was in her bag and never imagined she would face prison time. [@6] Issachar said she spent 20 hours waiting at the Moscow airport for information before she could contact the Israeli Embassy, and her mother then flew to Russia and spent the next 10 months helping secure her release. [@6] While awaiting trial for six months she shared a cell with 40 other women and was allowed outside for one hour a day, she said. [@6] Issachar said she circulated through several Russian facilities, including the one where Brittney Griner was believed to be held at the time of the interview, and taught herself Russian to follow her case. [@6]
