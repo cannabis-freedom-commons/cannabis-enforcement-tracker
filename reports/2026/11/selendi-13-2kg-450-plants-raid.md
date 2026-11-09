@@ -75,6 +75,11 @@ sources:
     publisher: Milliyet
     date: 2026-11-05
     language: tr
+  - title: 'Manisa’da jandarmadan uyuşturucu operasyonu: 13 kilo esrar ele geçirildi'
+    url: https://www.msn.com/tr-tr/haber/turkiye/manisa-da-jandarmadan-uyu%C5%9Fturucu-operasyonu-13-kilo-esrar-ele-ge%C3%A7irildi/ar-AA2gNUke
+    publisher: MSN Haber (İhlas Haber Ajansı)
+    date: 2026-11-05
+    language: tr
 open_questions:
   - The reports give the raid only as having happened the day before their 5 November 2026 publication, so 4 November 2026 is an inferred date.
   - No charges, custody ruling or court outcome were reported beyond the stated referral to the judicial authorities.
@@ -91,6 +96,7 @@ open_questions:
   - The page gives no separate day for the remand; 5 November 2026 is its publication and entry date and is used as the latest-step date, while the raid itself was inferred as 4 November 2026 in the existing report.
   - The Habertürk page states its text came without editorial intervention through agency channels from Anadolu Ajansı, and a Milliyet page carries the same AA text, so no independent account beyond the agency copy was found.
   - The page image is captioned only with the headline Manisa'da uyuşturucu operasyonunda yakalanan şüpheli tutuklandı and carries no photographer or agency credit establishing that it shows this seizure, so no media entry is included.
+  - The MSN page carries the same İhlas Haber Ajansı text as the İHA original already cited, so it adds no independent account of the raid.
 details:
   activity: [cultivation, sale]
   agency_types: [gendarmerie]
@@ -110,14 +116,14 @@ data_sources:
 
 Gendarmerie teams raided a home in Selendi district in Manisa province and
 detained a 44-year-old man identified only as K.Y. on suspicion of producing and
-trading drugs. [@1,5,6,7,9] The search of the address turned up 13 kilos 200 grams of
+trading drugs. [@1,5,6,7,9,11] The search of the address turned up 13 kilos 200 grams of
 kubar esrar, a resin-rich grade of herbal cannabis, and 450 cannabis plants,
-described as kök kenevir. [@2,4,5,6,7,9,10]
+described as kök kenevir. [@2,4,5,6,7,9,10,11]
 
 The suspect was detained on the instruction of the public prosecutor and was due
-to be taken to the judicial authorities the day after the raid. [@1,5,6,7] The
+to be taken to the judicial authorities the day after the raid. [@1,5,6,7,11] The
 operation was carried out by teams of the Manisa provincial gendarmerie command
-and the Selendi district gendarmerie command after intelligence work. [@2,4,6,7] The
+and the Selendi district gendarmerie command after intelligence work. [@2,4,6,7,11] The
 gendarmerie acted on information that K.Y. was producing and trading drugs. [@3,4]
 Officers seized the drugs found at the address. [@3]
 
