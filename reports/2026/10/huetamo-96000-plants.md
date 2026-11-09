@@ -40,6 +40,7 @@ open_questions:
   - No arrests, charges or landowner names were reported.
   - The weight is given only as more than 7,000 kg of plant material; the report uses 7,000 kg as the stated floor.
   - The pin is the municipal seat of Huetamo; San Jerónimo and Buenavista are not given separate coordinates in the sources opened.
+  - La Jornada gives no separate date for the discovery; 18 October 2026 is both its publication date and the date the existing report uses.
 sources:
   - title: Destruyen cerca de 96 mil plantas de mariguana en Huetamo
     url: https://www.lavozdemichoacan.com.mx/seguridad/ssp-defensa-destruyen-96-mil-plantas-mariguana-huetamo-michoacan/
@@ -56,6 +57,11 @@ sources:
   - title: SSP y Defensa destruyen cerca de 96 mil plantas de mariguana en Huetamo
     url: https://www.respuesta.com.mx/seguridad-secciones/ssp-y-defensa-destruyen-cerca-de-96-mil-plantas-de-mariguana-en-huetamo/
     publisher: Respuesta Michoacán
+    date: 2026-10-18
+    language: es
+  - title: Defensa y Guardia Civil destruyen sembradío de 2 hectáreas de mariguana en Huetamo, Michoacán
+    url: https://www.jornada.com.mx/noticia/2026/10/18/estados/defensa-y-guardia-civil-destruyen-sembradio-de-2-hectareas-de-mariguana-en-huetamo-michoacan
+    publisher: La Jornada
     date: 2026-10-18
     language: es
 media:
@@ -76,14 +82,19 @@ media:
     media_url: https://www.quadratin.com.mx/www/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-12.01.25-PM.jpeg
     publisher: Quadratín Michoacán
     caption: Another photograph released with the SSP and defence statement on the Huetamo plots.
+  - kind: photo
+    url: https://www.jornada.com.mx/noticia/2026/10/18/estados/defensa-y-guardia-civil-destruyen-sembradio-de-2-hectareas-de-mariguana-en-huetamo-michoacan
+    media_url: https://www.jornada.com.mx/ndjsimg/images/jornada/jornadaimg/defensa-y-guardia-civil-destruyen-sembradio-de-2-hectareas-de-mariguana-en-huetamo-michoacan/defensa-y-guardia-civil-destruyen-sembradio-de-2-hectareas-de-mariguana-en-huetamo-michoacan_bd5a7209-351a-440b-953b-8bb24e8c7b37_medialjnimgndimage=fullsize
+    publisher: La Jornada
+    caption: 'La Jornada photo published with the report on the three Huetamo plots, captioned with the Guardia Civil and army ground patrols that found them. Photo: La Jornada'
 ---
 
 Michoacán's Secretaría de Seguridad Pública and Mexico's defence ministry said state Guardia Civil
 and Mexican army patrols found three marijuana plots at San Jerónimo and Buenavista in the
-municipality of Huetamo and destroyed about 96,000 plants there. [@1,2,3] The plots covered about
-two hectares and held plant material the authorities estimated at more than 7,000 kg. [@1,2,3]
+municipality of Huetamo and destroyed about 96,000 plants there. [@1,2,3,4] The plots covered about
+two hectares and held plant material the authorities estimated at more than 7,000 kg. [@1,2,3,4]
 
-The plants were destroyed and burned on site so they could not be used. [@1,2,3] The agencies said
-the action was part of Plan Michoacán por la Paz y la Justicia. [@1,2,3]
+The plants were destroyed and burned on site so they could not be used. [@1,2,3,4] The agencies said
+the action was part of Plan Michoacán por la Paz y la Justicia. [@1,2,3,4]
 
-None of the accounts opened named arrests or cultivators. [@1,2,3]
+None of the accounts opened named arrests or cultivators. [@1,2,3,4]
