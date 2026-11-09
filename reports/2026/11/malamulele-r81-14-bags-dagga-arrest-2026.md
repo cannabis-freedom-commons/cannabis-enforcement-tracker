@@ -66,6 +66,10 @@ sources:
     url: https://www.arrivealive.co.za/news.aspx?i=79103&name=drug-dealing-suspect-arrested-during-joint-operations-along-the-r81-road-at-ximuwini-malamulele-in-the-vhembe-district&s=1
     publisher: Arrive Alive
     date: 2026-11-09
+  - title: R600 000 worth of dagga seized in Malamulele, 55-year-old suspect arrested
+    url: https://www.msn.com/en-xl/news/other/r600-000-worth-of-dagga-seized-in-malamulele-55-year-old-suspect-arrested/ar-AA2h5jI1
+    publisher: African Times (via MSN)
+    date: 2026-11-09
 open_questions:
   - No weight was given for the dagga; only the police estimate of an R662,400 street value was published.
   - The outcome of the 9 November 2026 court appearance is not reported.
@@ -73,18 +77,21 @@ open_questions:
   - It is not stated whether the suspect was charged at his first appearance or whether the case was postponed.
   - The two Arrive Alive images were not added as media because their content could not be confirmed as showing the seizure.
   - SABC News puts the dagga's value at R660 000, while the existing report and its sources give R662,400.
+  - The African Times/MSN account reproduces the same Limpopo SAPS statement as the report's existing sources, so it is not an independent account.
+  - The headline gives the dagga's value as R600 000 while the body gives R662 400; the report keeps the police estimate of R662,400.
+  - The African Times article is a one-minute read that gives no weight for the dagga and no outcome of the 9 November 2026 court appearance.
 ---
 
 Police arrested a 55-year-old man on Sunday 8 November 2026 at about 09:00
 during a joint operation along the R81 road at Ximuwini, Malamulele, in the
 Vhembe District of Limpopo. [@1] Officers stopped and searched a red SUV and
-found 14 plastic refuse bags containing dagga inside. [@1,3,4] Limpopo police
+found 14 plastic refuse bags containing dagga inside. [@1,3,4,5] Limpopo police
 spokesperson Colonel Malesela Ledwaba said the dagga had an estimated street
-value of R662,400. [@1,4]
+value of R662,400. [@1,4,5]
 
-The suspect was arrested and detained at Malamulele Police Station. [@2,3,4] He was
+The suspect was arrested and detained at Malamulele Police Station. [@2,3,4,5] He was
 expected before the Malamulele Magistrate's Court on Monday 9 November,
-following his arrest for dealing in dagga. [@2,4]
+following his arrest for dealing in dagga. [@2,4,5]
 
 Limpopo police commissioner Lieutenant General Jan Scheeper praised the
 operational team members at Malamulele for their commitment and vigilance. [@1]
