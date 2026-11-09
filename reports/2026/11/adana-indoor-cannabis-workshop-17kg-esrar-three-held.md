@@ -122,6 +122,11 @@ sources:
     publisher: Cumhuriyet
     date: 2026-11-09
     language: tr
+  - title: ZEHİRE GEÇİT YOK! Jandarmadan uyuşturucu baskını! Tüneli olan imalathanede 17 kilogram esrar ele geçirildi!
+    url: https://www.son.tv/zehir-baskini-adanada-jandarmadan-uyusturucu-operasyonu-gizli-gecitli-imalathanede-17-kilogram-esrar-ele-gecirildi/
+    publisher: SON TV
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -142,22 +147,27 @@ open_questions:
   - No plant count, area, value or court step is reported for the three suspects, who were in gözaltı custody.
   - The Cumhuriyet page credits the text to DHA and reproduces the same Interior Ministry statement as the outlets already cited, so it is not independent reporting.
   - The page's lead photo is captioned only with the headline and carries no photographer or agency credit; whether it shows the workshop, the seized esrar or the operation generally is not established.
+  - Son TV's headline describes the premises as having a tunnel ('tüneli olan imalathane'), while its body and the existing report describe a hidden passage (gizli geçit) linking the production rooms; no source says a tunnel led out of the building.
+  - The account gives no separate date for the raid; 9 November 2026 is the date of the ministry statement and of publication.
+  - No plant count, planted area or estimated value of the esrar was published.
+  - Son TV reproduces the Interior Ministry statement, so it corroborates rather than independently reports the raid.
+  - The page's header picture is an unbylined .png with no credit or caption tying it to the workshop, the esrar or the operation, so it is not listed as media.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7]
+the air-conditioning system and various materials. [@2,4,6,7,9]
 
 The three suspects were taken into custody, and the ministry named no further
-court step. [@2]
+court step. [@2,9]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8]
+anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9]
 TRT Haber reported that the three suspects were held in gözaltı, the police
 custody in which a person is questioned while prosecutors decide on charges or
 release. [@3]
@@ -168,3 +178,5 @@ materials. [@1] Hürriyet reported that the operation uncovered a workshop where
 cannabis was grown with an air-conditioning system. [@4]
 
 Searches at the address found 17 kilograms of esrar together with four standing air conditioners and heat and light systems. [@8]
+
+The address the gendarmes raided was in Seyhan district, Adana. [@9]
