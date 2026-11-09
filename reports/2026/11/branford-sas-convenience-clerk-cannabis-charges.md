@@ -77,6 +77,10 @@ sources:
     url: https://www.ctinsider.com/news/article/branford-smoke-shop-cannabis-seizure-22519783.php
     publisher: CT Insider
     date: 2026-11-08
+  - title: 'Branford smoke shop raided after tip about sales to minors; 6.5 pounds of cannabis seized: Police'
+    url: https://www.thehour.com/news/article/branford-smoke-shop-cannabis-seizure-22519783.php
+    publisher: The Hour
+    date: 2026-11-08
 open_questions:
   - The article gives no date for the inspection or the clerk's arrest; 8 November 2026 is its publication date and is used as the incident date.
   - The seizure weights are police approximations in pounds and include a combined category of concentrates and vape products, so no separate concentrate weight is recorded.
@@ -102,7 +106,7 @@ A 33-year-old clerk at SAS Convenience Store on East Main Street in Branford,
 Connecticut, was charged with drug offences after police and state regulators
 seized cannabis products from a business not licensed to sell them. [@1,3,4]
 Branford police said they inspected the store after a resident reported that
-minors were buying marijuana products there. [@1,2,3,4,5,6] The business had previously
+minors were buying marijuana products there. [@1,2,3,4,5,6,7] The business had previously
 traded under the name ASA Smoke Shop. [@1,3,5,6]
 
 Police identified the clerk as Salah Kannane of Branford and charged him with
@@ -122,10 +126,10 @@ location, police said. [@1,3]
 
 Branford police said this was the fifth time they had found illegal cannabis
 sales at the store, and that they had previously arrested store clerks and the
-owner over alleged illegal drug sales there. [@1,3,4]
+owner over alleged illegal drug sales there. [@1,3,4,7]
 
 The edibles weighed 1.5125 pounds in total and came in 17 containers of 100 mg THC each, 12 containers of 200 mg THC each and 8 containers of 1,000 mg THC each. [@3] The concentrates and vape products weighed 4.2125 pounds in total and came as 155 individual units. [@3] The cannabis flower weighed 1.078 pounds in total and came in 91 containers. [@3] Police said that in numerous instances they learned of illegal sales after a minor bought cannabis products at the store and a parent later found the products in the child's possession. [@3]
 
 Authorities said the business is not licensed by the state to sell marijuana or cannabis products. [@2]
 
-Alongside edibles, concentrates for vape products and flower, officers found two packages of kratom. [@6]
+Alongside edibles, concentrates for vape products and flower, officers found two packages of kratom. [@6,7]
