@@ -66,12 +66,18 @@ sources:
     url: https://www.newslinetci.com/post/2m-marijuana-bust-56-migrants-held
     publisher: NewslineTCI
     date: 2024-08-18
+  - title: 'Haiti - Turks and Caicos : 217 Haitian migrants intercepted and significant seizure of marijuana'
+    url: https://www.haitilibre.com/en/news-43025-haiti-turks-and-caicos-217-haitian-migrants-intercepted-and-significant-seizure-of-marijuana.html
+    publisher: HaitiLibre
+    date: 2024-08-20
 open_questions:
   - No weight in kilograms was published for either seizure; the amounts are street-value estimates, so no cannabis weight is recorded.
   - The two values, US$131,660 and US$2,704,932, are added to the reported total of more than US$2 million; the sources give no combined figure beyond that phrase.
   - NewslineTCI dates the Friday landing to 18 August, which conflicts with its own reference to Saturday as 17 August and with the police statement's 16 August; the police date is used.
   - No arrests, charges or court outcome for suspected smugglers were reported; the 56 people detained were migrants in the two cannabis-related landings, and it is not reported whether any were held over the drugs.
   - No cannabis weight, number of packages or vessel ownership was published, and the origin of the cannabis is unknown.
+  - HaitiLibre does not say whether the boat stopped near West Caicos on 18 August carried cannabis; that landing is not counted in the report's cannabis figures.
+  - The report's summary keeps the two-cannabis-landing count of 56 migrants; the 217 total covers all the interception attempts that weekend, not only the two drug seizures.
 ---
 
 Royal Turks and Caicos Islands Police Force officers seized more than $2 million
@@ -98,3 +104,4 @@ from the northern coast of Haiti. [@1] The Herald said it was highly unusual for
 cannabis to come out of Haiti’s northern coast, which raised questions about its
 origin and transport. [@1]
 
+On Sunday, 18 August 2024 at about 10:17 p.m., police with the help of the Royal Bahamas Defence Force stopped a fourth overloaded boat carrying 144 migrants near West Caicos: 111 men, 32 women and 5 minors. [@4] That vessel was escorted to Providenciales and the migrants were handed to the Border Force for processing and repatriation to Haiti, bringing to 217 the number of Haitians intercepted in the attempts that began on Friday. [@4]
