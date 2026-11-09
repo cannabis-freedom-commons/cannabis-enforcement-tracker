@@ -45,6 +45,11 @@ media:
     media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/d15d/live/b3175390-3d4a-11f0-9672-b5f8c6868c1c.jpg.webp
     publisher: BBC News
     caption: Bags stuffed with drugs found in two large suitcases, authorities say.
+  - kind: photo
+    url: https://www.itv.com/news/2025-05-30/british-woman-appears-in-sri-lanka-court-over-serious-drug-trafficking-offences
+    media_url: https://images.ctfassets.net/pjshm78m9jt4/1aZXx3F4FRkS9cbcaOqrcW/9fd782342c9693dc15eaacee5487e4b1/FotoJet__19_.jpg?fm=jpg&fit=fill&f=faces&w=1600&h=900&q=80
+    publisher: ITV News
+    caption: 'Composite image published with the ITV News report and captioned as showing Charlotte May Lee''s travel from Thailand to Sri Lanka, credited to Sri Lanka Police. Photo: Sri Lanka Police'
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 617c03a247c589e2bfa9e000bf69b4f1
@@ -74,6 +79,10 @@ sources:
     url: https://www.theguardian.com/world/2025/may/19/young-british-woman-held-on-drug-charges-in-sri-lanka-could-be-linked-to-culley-case
     publisher: The Guardian
     date: 2025-05-19
+  - title: British woman arrested for drug offences in Sri Lanka 'trying her best' to cope, lawyer says
+    url: https://www.itv.com/news/2025-05-30/british-woman-appears-in-sri-lanka-court-over-serious-drug-trafficking-offences
+    publisher: ITV News
+    date: 2025-05-31
 open_questions:
   - The submitted article gives no exact arrest date beyond earlier this month; 12 May 2025 is used from the second BBC account, while Newswire dates the Customs arrest to 13 May.
   - The submitted BBC reports 46 kg while Newswire reports 46.6 kg of Kush; this report uses 46 kg and records no separate laboratory weight.
@@ -87,6 +96,10 @@ open_questions:
   - The Guardian values Lee's alleged haul at £1.2m and calls kush a synthetic cannabis strain; the report records no value and follows the earlier accounts identifying the haul as cannabis, with laboratory testing requested and no result reported.
   - The Guardian says a potential link between the Lee and Culley cases may form part of the investigations but reports no confirmed connection.
   - The Guardian gives no exact arrest date beyond 'last Monday' relative to its 19 May 2025 publication.
+  - ITV values the haul at £1.2 million and says customs called it their largest drug seizure to date; the existing report records no value and describes it as the largest kush seizure in the airport's history from a Customs officer.
+  - ITV dates the appearance to 'Friday' with a 30 May 2025 dateline and lists the next hearing as 13 June, which the existing report already records from another source alongside a later 13 July appearance; the sequence between those dates is not resolved.
+  - ITV gives no cannabis weight; the 46 kg figure in the existing report comes from other accounts.
+  - The page image is a composite captioned as showing Lee's travel from Thailand to Sri Lanka and credited to Sri Lanka Police; it is listed once here.
 ---
 
 Charlotte May Lee, 21, from south London, was arrested after authorities
@@ -99,7 +112,7 @@ shares a cell with five other women and sleeps on a thin mattress on the
 concrete floor using her clothes as a pillow. [@1]
 
 She made a procedural court appearance on Friday while the investigation into
-her alleged offences continues. [@1] Authorities wheeled a large brown box
+her alleged offences continues. [@1,7] Authorities wheeled a large brown box
 containing the alleged cannabis found in her luggage into court. [@1] The
 narcotics division of the Sri Lanka police told the court they intend to file an
 update on the investigation. [@1] Her lawyer Sampath Perera asked whether the
@@ -123,3 +136,5 @@ The Foreign, Commonwealth and Development Office said it was supporting a Britis
 Her next hearing was listed for 13 June. [@5] She had not yet been allowed e-visits including video calls with family and friends. [@5]
 
 The Guardian reports that Lee flew alone from Bangkok's Suvarnabhumi airport, as did Bella May Culley, who was arrested a day earlier in Georgia, and that investigators may examine a link between the two cases. [@6] The Guardian says Lee, described as a former cabin attendant, could face a 25-year sentence if found guilty. [@6]
+
+Arriving at the Negombo Magistrates Court on Friday, Lee wore a white dress, was accompanied by two police officers and the court heard that critical evidence, including forensic analysis, had not yet been submitted. [@7] Lee had not been formally indicted, and the Attorney General's department will file charges in the High Court only after all reports, including the forensic analysis, have been submitted in court. [@7] Lee's lawyer Sampath Perera told ITV News that she was "not emotionally perfect" but was trying her "very best" given the circumstances, and that her family was being "very supportive" and "cooperative" while in "big pain" over her arrest. [@7] Perera said he had not heard from the Foreign Office about support for Lee and did not know whether her family had been in contact with the British government. [@7] ITV News reported that customs described the haul allegedly found in Lee's luggage as its largest drug seizure to date and valued it at £1.2 million. [@7]
