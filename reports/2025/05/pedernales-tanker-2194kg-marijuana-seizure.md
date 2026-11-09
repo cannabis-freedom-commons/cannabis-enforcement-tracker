@@ -58,6 +58,10 @@ sources:
     publisher: Listín Diario
     date: 2025-05-17
     language: es
+  - title: What’s Behind Record Marijuana Seizures in the Dominican Republic?
+    url: https://insightcrime.org/news/whats-behind-record-marijuana-seizures-dominican-republic/
+    publisher: InSight Crime
+    date: 2025-05-22
 open_questions:
   - InSight Crime gives the weight as 2.7 tons while the DNCD-based Listin Diario account gives 4,836 pounds, about 2,194 kg; the report uses the more precise DNCD figure.
   - No arrests at the scene were reported; the driver fled and the registered owner was sought, with no charges or court outcome reported.
@@ -66,6 +70,7 @@ open_questions:
   - The same InSight Crime article also describes a separate 3-ton seizure at the Port of Haina Oriental about two weeks earlier, left out here as a different event already covered elsewhere.
   - Year-to-date and 2020-2024 seizure totals mentioned in the articles are general enforcement statistics and are left out of the figures for this single seizure.
   - Coordinates mark the Pedernales town area, not the exact roadside interception point.
+  - InSight Crime says 2.7 tons, while the DNCD-based figure already cited in the report is 4,836 pounds, about 2,194 kg; the report keeps the more precise DNCD figure.
 ---
 
 CESFRONT officers and DNCD agents intercepted a tanker truck on Avenida Libertad
@@ -77,15 +82,14 @@ the trafficking network. [@2]
 
 Inside the gas tank, officers found 1,043 packages of suspected marijuana
 weighing about 4,836 pounds, about 2,194 kilograms. [@2] InSight Crime described
-the same Pedernales haul as 2.7 tons of marijuana seized on 17 May. [@1]
+the same Pedernales haul as 2.7 tons of marijuana seized on 17 May. [@1,3]
 Officers also found 11 separate packages of white powder presumed to be cocaine,
 which are not counted in the cannabis total. [@2] The packages were sent under
 chain of custody to the National Institute of Forensic Sciences to determine
 their exact type and weight. [@2] The DNCD called it the largest suspected
-marijuana load ever seized on the Haitian-Dominican border. [@2]
+marijuana load ever seized on the Haitian-Dominican border. [@2,3]
 
 Investigators said the network moves drugs from Jamaica to Haiti and the
 Dominican Republic. [@2] The load had come from Jamaica and entered the
-Dominican Republic by truck through Haiti. [@1] The truck had been adapted to
+Dominican Republic by truck through Haiti. [@1,3] The truck had been adapted to
 look like a gas transporter in order to conceal drugs. [@2]
-
