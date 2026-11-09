@@ -50,6 +50,11 @@ sources:
     url: https://theeagleonline.com.ng/ndlea-arrests-ugandan-woman-with-87-cocaine-wraps-seizes-n900m-opioids/
     publisher: The Eagle Online
     date: 2026-11-08
+  - title: Ugandan woman in Nigeria for church crusade arrested with 87 wraps of cocaine
+    url: https://thesun.ng/ugandan-woman-in-nigeria-for-church-crusade-arrested-with-87-wraps-of-cocaine/
+    publisher: The Sun Nigeria
+    date: 2026-11-09
+    language: en
 open_questions:
   - No count is given for the cannabis seeds seized with the 216 kilograms, and the seeds are not included in the weight.
   - Neither account says where in Osin Forest the arrest was made, whether a farm was found, or what charges followed.
@@ -60,11 +65,12 @@ open_questions:
   - No photograph of the Ekiti arrest or seizure was published with the opened accounts, so no media entry is added.
   - The same statement reports other separate cannabis seizures in Lagos, Ondo, Edo, Taraba, Enugu and Delta states, which belong to their own reports.
   - The roundup's Enugu seizure of 44 blocks weighing 22.5 kg at the Eke Obinagu checkpoint on 3 November and Delta seizure of 10.54 kg of skunk with 9.4 kg of cannabis seeds at Ozoro on 31 October have no tracker report yet.
+  - The Sun, The Eagle Online and Peoples Gazette copies of the same NDLEA statement are not independent reporting of the Ekiti arrest.
 ---
 
 Operatives of the National Drug Law Enforcement Agency arrested a 53-year-old
-man at Osin Forest in Osin Ekiti, Ekiti State, on Thursday 5 November 2026. [@2]
-Officers found 216 kilograms of cannabis and cannabis seeds with him. [@1]
+man at Osin Forest in Osin Ekiti, Ekiti State, on Thursday 5 November 2026. [@2,4]
+Officers found 216 kilograms of cannabis and cannabis seeds with him. [@1,4]
 
 The arrest came as the agency's commands pressed a week of raids and seizures
 across Lagos, Ondo, Ekiti, Edo, Delta, Taraba and Enugu states. [@2] NDLEA
@@ -75,4 +81,3 @@ November 2026. [@2] In the same statement the agency reported a separate haul of
 Ekiti State's forests have been a recurring target for the agency, which
 destroyed cannabis farms in the Igbara Odo and Ilawe Ekiti forests in October
 2025. [@2]
-
