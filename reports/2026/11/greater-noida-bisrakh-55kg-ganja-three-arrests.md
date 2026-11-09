@@ -88,6 +88,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-09
     language: hi
+  - title: 'Noida News: ई कॉमर्स कंपनी के जरिए गांजे की सप्लाई करने वाले गांजा तस्करों का भंडाफोड़, 3 गिरफ्तार'
+    url: https://www.amarujala.com/delhi-ncr/noida/dfgs-grnoida-news-c-23-1-lko1064-111572-2026-11-09
+    publisher: Amar Ujala
+    date: 2026-11-09
+    language: hi
 open_questions:
   - Both opened pages carry the same IANS text, so the account rests on a single agency statement and no independent outlet reporting of the arrest was found.
   - Police describe a 2024 NDPS case against one of the three, Wasim, in Hapur district, but its outcome is not reported.
@@ -109,23 +114,25 @@ open_questions:
   - Dainik Bhaskar names the seized vehicle as a Hyundai Accent, while the existing report's outlets described it as a Hyundai Aura.
   - Dainik Bhaskar gives no remand, charge sheet or court outcome; the case stays at the investigation stage.
   - The page's two images carry no caption, credit or alt text and are not established to show this seizure, so no media entry is added.
+  - Amar Ujala describes the car used in the supply as a Hyundai Accent, matching Dainik Bhaskar, while other outlets cited in the existing report described a Hyundai Aura.
+  - Amar Ujala does not say how many other gang members police are seeking or give any remand, charge sheet or court outcome.
 ---
 
 Police in Gautam Buddh Nagar district arrested three men accused of smuggling
 ganja on 9 November 2026, in a joint operation by the SWAT team and Bisrakh
-police station. [@1,3,5,6,7] The three were arrested at an under-construction building
-on Golden Grand Road in Bisrakh, in Greater Noida. [@2,3,4,5,6,7] The operation was
+police station. [@1,3,5,6,7,9] The three were arrested at an under-construction building
+on Golden Grand Road in Bisrakh, in Greater Noida. [@2,3,4,5,6,7,9] The operation was
 carried out on input from local intelligence and beat policing, the police
 account said. [@2,6,7]
 
 Police seized 55 kg 124 g of ganja from them, which they estimated to be worth
-about ₹55 lakh. [@2,3,4,5,6,7,8] Officers also recovered a Hyundai Aura car used to supply
+about ₹55 lakh. [@2,3,4,5,6,7,8,9] Officers also recovered a Hyundai Aura car used to supply
 the drug and three mobile phones. [@1,5,7]
 
 According to the police account, the men bought ganja cheaply in Odisha and
-other areas and packed it in e-commerce parcels to conceal it. [@2,4,6,7] Police said
+other areas and packed it in e-commerce parcels to conceal it. [@2,4,6,7,9] Police said
 they delivered ganja door to door on demand through the Telegram messaging app
-and online parcel services, as well as by car. [@2,3,4,6,7]
+and online parcel services, as well as by car. [@2,3,4,6,7,9]
 
 Bisrakh police station registered a case under the Narcotic Drugs and
 Psychotropic Substances (NDPS) Act, India's main anti-drug law. [@2,4,5,6,7] Police said
@@ -134,8 +141,10 @@ Garhmukteshwar police station in Hapur district. [@2,3,5,6,7] Investigators were
 to establish how many other people are linked to the network and where the ganja
 was supplied. [@1,6,7]
 
-Police said the men had been running the operation for the past two years, taking bookings through the Telegram app. [@3]
+Police said the men had been running the operation for the past two years, taking bookings through the Telegram app. [@3,9]
 
 Bisrakh police station registered the case, numbered 846/2026, under sections 8 and 20 of the NDPS Act. [@6]
 
 The seized car is a Hyundai Accent. [@8]
+
+Police identified the three arrested men as Alam Khan, 30, of Ghaziabad; Wasim, 26, of Baghpat; and Lakshya Rathore, 19, of Chotpur Colony under Sector-63 police station in Noida. [@9] DCP Central Noida Praveen Ranjan Singh said the three were caught with the ganja consignment at the under-construction building on Golden Grand Road. [@9] According to the police account, the men supplied ganja to students at schools, colleges and universities. [@9] Police said the men booked orders through Telegram and then sent ganja by parcel through e-commerce sites such as Amazon shipping. [@9] The men set the price of a kilogram of ganja at more than about ₹1 lakh, police said. [@9] Police said they were searching for other people in the gang and expected to arrest them soon. [@9] The Bisrakh arrests were made during a special drive against illegal drug trafficking, Amar Ujala reports. [@9]
