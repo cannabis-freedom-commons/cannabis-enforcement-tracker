@@ -42,25 +42,35 @@ sources:
     url: https://www.ipulse24.com/two-arrested-as-police-seize-four-bales-of-suspected-cannabis-in-webuye/
     publisher: iPulse24
     date: 2026-11-09
+  - title: Two arrested after police intercept suspected cannabis consignment in Webuye
+    url: https://www.the-star.co.ke/news/2026-11-09-two-arrested-suspected-cannabis-consignment-seized
+    publisher: The Star
+    date: 2026-11-09
+    language: en
 open_questions:
   - No weight or street value was published for the four bales.
   - Neither suspect was named, and no charges, plea or court date were reported.
   - The articles give no separate time or place within Webuye for the vehicle stop; 9 November 2026 is the date of the police statement and of publication.
   - Coordinates are for Webuye town, not the exact interception point.
   - The TV47 Digital lead image is captioned only with the headline and carries no credit, so it is not listed as a confirmed photo of the seizure.
+media:
+  - kind: photo
+    url: https://www.the-star.co.ke/news/2026-11-09-two-arrested-suspected-cannabis-consignment-seized
+    media_url: https://cdn.radioafrica.digital/image/2026/11/48bfb8f3-26d8-4258-b0fd-8b7902cde221.webp
+    publisher: The Star
+    caption: 'Police photo of the bales described as suspected cannabis, concealed inside travel luggage after the Webuye vehicle interception. Photo: Police handout'
 ---
 
 Two people were arrested in Webuye, Bungoma County, after police stopped a
-vehicle carrying four concealed bales of suspected bhang. [@1] The National
+vehicle carrying four concealed bales of suspected bhang. [@1,3] The National
 Police Service said officers from Webuye Police Station found the bales during
-an intelligence-led operation on Monday, 9 November 2026. [@1]
+an intelligence-led operation on Monday, 9 November 2026. [@1,3]
 
 The two occupants of the vehicle were taken into custody pending arraignment in
-court, and the vehicle was detained for further investigation. [@1] The police
+court, and the vehicle was detained for further investigation. [@1,3] The police
 service said it would keep pursuing leads against drug trafficking networks and
 asked the public to report suspected criminals to the nearest police station.
 [@1] iPulse24 reported the same arrests of two suspects after the interception
 of a vehicle carrying four concealed bales of suspected cannabis in Webuye. [@2]
 It said the two suspects were held in police custody for processing and
 arraignment, and that the vehicle was detained. [@2]
-
