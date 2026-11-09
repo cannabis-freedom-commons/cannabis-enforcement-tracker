@@ -63,6 +63,12 @@ sources:
     publisher: Diario La Prensa
     date: 2024-09-12
     language: es
+  - title: 'Operativo antidrogas en Salto: incautaron 209 paquetes de droga, que presumen es marihuana'
+    url: https://www.elobservador.com.uy/nacional/operativo-antidrogas-salto-incautaron-209-paquetes-droga-que-presumen-es-marihuana-n5960435
+    publisher: El Observador
+    date: 2024-09-11
+    language: es
+    archived: https://web.archive.org/web/20251017015559id_/https://www.elobservador.com.uy/nacional/operativo-antidrogas-salto-incautaron-209-paquetes-droga-que-presumen-es-marihuana-n5960435
 open_questions:
   - 'No weight was confirmed: the Interior Ministry said only that the sacks would be weighed, while La Prensa reported a load of about 500 kilograms without attributing the figure to a weighing, so no kilogram figure is recorded.'
   - The substance was described as presumed marijuana and was sent for analysis; the sources do not report a confirmed result.
@@ -71,21 +77,23 @@ open_questions:
   - The exact checkpoint lies in Salto department; the coordinates give the departmental centre because the sources name no town at the junction of Rutas 4 and 31.
   - Media links point to the Interior Ministry's own gallery, whose images are captioned only "Procedimiento" and "Auto interceptado".
   - The text gives a weight ("500 kilograms") but the figures have no kg_seized; check whether it belongs there.
+  - El Observador gives no weight for the 209 packages and no further court outcome, so its account does not resolve the existing open questions about the load's weight or the detainees' charges.
+  - The El Observador gallery uses the same Interior Ministry handout photos already linked to the report, captioned only "Incautación de marihuana en el departamento de Salto", so no new media entry is added.
 ---
 
 Salto police arrested three men carrying 209 sacks of plant material, presumed
 to be marijuana, in a Chevrolet Corsa at the junction of Rutas 4 and 31 in Salto
-department. [@1] The operation was run by the Salto police command, its
+department. [@1,3] The operation was run by the Salto police command, its
 investigations directorate and Base 2 of the departmental rural security
-brigade. [@1] The three detainees were handed to the courts, and the 209 sacks
-were to be analysed to confirm what they contained. [@1]
+brigade. [@1,3] The three detainees were handed to the courts, and the 209 sacks
+were to be analysed to confirm what they contained. [@1,3]
 
 The operation began around 11:00 on 11 September when Base 2 officers went to
 kilometre 79 of national route 31 and found the Chevrolet Corsa with three men
 inside. [@1] One occupant, an adult man with a criminal record, was arrested at
 the car while the other two fled into a private property. [@1] Two officers
 chased the pair on foot and caught them five kilometres from where they fled,
-inside a private property. [@1] All three detainees live in Río Branco, in Cerro
+inside a private property. [@1,3] All three detainees live in Río Branco, in Cerro
 Largo department. [@1]
 
 A primary search of the car found several bags of plant material, which La
@@ -97,4 +105,3 @@ criminal judge handling the case the same day. [@2]
 
 La Prensa reported the load as weighing some 500 kilograms and said the drug was
 expected to be sent to Montevideo to be burned. [@2]
-
