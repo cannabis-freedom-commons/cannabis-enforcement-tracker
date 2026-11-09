@@ -162,6 +162,11 @@ sources:
     publisher: Küçük Saat
     date: 2026-11-09
     language: tr
+  - title: Adana'da kenevir imalathanesinde 17 kilo esrar ele geçirildi, 3 şüpheli yakalandı
+    url: https://www.sondakika.com/amp/haber-adana-da-kenevir-imalathanesinde-17-kilo-esrar-ele-20409025/
+    publisher: Son Dakika
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -203,15 +208,17 @@ open_questions:
   - The article names no district or neighbourhood for the workshop, so the place stays at province level.
   - The phrase 'adli işlem başlatıldığı' in Küçük Saat says judicial proceedings were started against the three suspects but not whether they were charged, so the court stage remains unknown.
   - The page's three pictures carry no caption or credit; the top one is a site-format 880x440 image and the other two have no caption tying them to the workshop, so no new media entry is added.
+  - The submitted AMP page carries the same ANKA-credited text and photo as Son Dakika's standard page already cited in the report, so it adds no independent reporting of the raid.
+  - The AMP page gives no separate date or time for the raid; 9 November 2026 is its publication date and the date of the ministry statement.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13]
+the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15]
 
 The three suspects were taken into custody, and the ministry named no further
 court step. [@2,9,10,12,14]
@@ -235,3 +242,5 @@ The address the gendarmes raided was in Seyhan district, Adana. [@9]
 The three detained suspects were said to have been referred for judicial proceedings. [@13]
 
 The searches found a workshop where the suspects grew cannabis indoors with a purpose-built air-conditioning system. [@14]
+
+The report is credited to the ANKA news agency. [@15]
