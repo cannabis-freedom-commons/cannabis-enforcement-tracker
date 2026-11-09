@@ -69,6 +69,11 @@ sources:
     publisher: ThePrint Hindi
     date: 2026-11-09
     language: hi
+  - title: झारखंड में 2 करोड़ का गांजा बरामद, ट्रक में गुप्त चैंबर देख पुलिस भी रह गई हैरान
+    url: https://www.aajtak.in/india/jharkhand/story/cannabis-worth-2-crore-seized-in-jharkhand-police-left-stunned-after-discovering-secret-chamber-in-truck-lcly-dskc-2691457-2026-11-09
+    publisher: Aaj Tak
+    date: 2026-11-09
+    language: hi
 open_questions:
   - The submitted page is a roundup of two separate operations with different dates and no single incident; 7 November 2026, the night of the Tatisilway arrest, is used as the incident date, while the Garhwa recovery was on 8 November.
   - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
@@ -87,11 +92,13 @@ open_questions:
   - 'Left out, as its quotation was not found in ThePrint / Press Trust of India: Police said the four were taking the ganja from Balangir in Odisha to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi Government Railway Police.'
   - The page is the Hindi-language Bhasha feed of the same PTI roundup already cited in the report, so it restates the same agency figures rather than being independent reporting.
   - 'The page image is not a picture of the cannabis operations: it is a file photo from June 2023 captioned with an ISRO scientist, so it is not listed as media.'
+  - The page's only photo is labelled a file photo of police action rather than a picture of these seizures, so it is not listed as media.
+  - The page gives no separate dates for either operation and presents only the combined 441 kg total, so it adds nothing to the incident dates already recorded for the two components.
 ---
 
 Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
 was seized in two separate operations in Jharkhand, officials said on 9 November
-2026. [@1,2,3,4,5]
+2026. [@1,2,3,4,5,7]
 
 In Garhwa district, police found 426 kg of ganja, valued at about 2.13 crore
 rupees, in a container truck parked near the Kalyanpur overbridge, and no one
@@ -102,7 +109,7 @@ ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway
 station on the night of 7 November, with the contraband valued at about 7.5 lakh
 rupees. [@1,2,5,6] Police said the four were taking the ganja from Balangir in Odisha
 to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi
-Government Railway Police. [@1,6]
+Government Railway Police. [@1,6,7]
 
 Police registered cases under the Narcotic Drugs and Psychotropic Substances
 Act, India's main anti-drug law, in both matters. [@1]
