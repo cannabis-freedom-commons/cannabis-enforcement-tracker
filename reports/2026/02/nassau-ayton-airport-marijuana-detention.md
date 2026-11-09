@@ -39,6 +39,10 @@ sources:
     url: https://people.com/lakers-deandre-ayton-detained-suspicion-marijuana-bahamas-airport-11908936
     publisher: People
     date: 2026-02-18
+  - title: Deandre Ayton Detained, Searched For Weed At Bahamas Airport, No Charges Filed
+    url: https://www.tmz.com/2026/02/17/deandre-ayton-detained-alleged-marijuana-possession-bahamas/
+    publisher: TMZ
+    date: 2026-02-17
 open_questions:
   - No weight was published beyond a small and very small amount of suspected marijuana, so no cannabis weight is recorded.
   - The incident date of 17 February 2026 is the Tuesday before the article's Wednesday 18 February 2026 publication date.
@@ -48,6 +52,10 @@ open_questions:
   - People reports only that Ayton was detained by "authorities" and does not say who carried out the detention, apart from noting the Royal Bahamas Police Force did not respond to its questions.
   - People gives no weight for the suspected marijuana beyond "very small amount" and "small amount".
   - People says neither Ayton's lawyer nor the Royal Bahamas Police Force immediately responded to its requests for comment, and names Reuters as the source of its account of the airport incident.
+  - TMZ says the search of Ayton's possessions for marijuana came up empty, while the existing report notes Reuters reported he was found with the drug; the dispute over whether marijuana was in his bag remains unresolved.
+  - TMZ gives no weight for the suspected marijuana.
+  - TMZ is a single exclusive account, although it quotes both the Royal Bahamas Police Force's Central Division and Ayton's attorney.
+  - No photographs showing the detention or the search were published; the TMZ pictures are Getty images of Ayton, not of the airport incident, so no media are linked.
 ---
 
 Los Angeles Lakers center Deandre Ayton was detained and quickly released on
@@ -55,12 +63,12 @@ Tuesday at Lynden Pindling International Airport on suspicion of possessing a
 small amount of marijuana. [@1,2] He would have been returning to the United
 States from his native Bahamas as the All-Star break neared its end. [@1] The
 central division of the Royal Bahamas Police Force initially said he was
-searched after being spotted smoking marijuana at the airport. [@1]
+searched after being spotted smoking marijuana at the airport. [@1,3]
 
 Reuters reported he was found with the drug, which remains illegal in the
 Bahamas. [@1] His lawyer Devard Francis said the suspected marijuana was
 actually in someone else's bag and that Ayton was never arrested or charged.
-[@1,2] Francis said investigators saw that the very small amount of marijuana was
+[@1,2,3] Francis said investigators saw that the very small amount of marijuana was
 not in Ayton's bag, completed their investigation and released him
 expeditiously. [@1,2] Ayton, a former No. 1 overall pick, is in his first season
 with the Lakers after signing a two-year deal worth 16.6 million dollars. [@1]
@@ -68,3 +76,5 @@ He entered the All-Star break averaging 13.2 points on 67.5 percent shooting
 with a team-high 8.5 rebounds per game. [@1]
 
 The United States Embassy in the Bahamas warned travellers that drugs including marijuana are not allowed in the country and that possession could lead to arrest and imprisonment. [@2] The embassy said penalties for importation, purchase, possession or use of drugs in the Bahamas are far greater than in the United States and that all people aged 16 or older are tried as adults. [@2]
+
+Francis said Ayton was on his way back to Los Angeles to rejoin the Lakers before the second half of the NBA season began. [@3]
