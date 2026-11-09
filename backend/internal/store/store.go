@@ -14,6 +14,7 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"sync/atomic"
 	"time"
 )
 
@@ -28,7 +29,24 @@ var ErrBudget = errors.New("daily research budget reached")
 type Store struct {
 	DB   *sql.DB
 	Read *sql.DB
+	// the site's latest Pages build on GitHub, as the publication loop last saw it (worker/batch.go)
+	deployRun atomic.Pointer[DeployRun]
 }
+
+// DeployRun is a run of the site's Pages workflow on GitHub.
+type DeployRun struct {
+	URL        string `json:"url"`
+	Status     string `json:"status"`               // queued, in_progress, completed
+	Conclusion string `json:"conclusion,omitempty"` // success, failure, cancelled… once completed
+	HeadSHA    string `json:"head_sha"`
+	StartedAt  int64  `json:"started_at"`
+	UpdatedAt  int64  `json:"updated_at"`
+	// IncludesBatch: the run builds the last publication batch (its commit contains the batch's)
+	IncludesBatch bool `json:"includes_batch"`
+}
+
+func (s *Store) SetDeployRun(r *DeployRun) { s.deployRun.Store(r) }
+func (s *Store) DeployRun() *DeployRun     { return s.deployRun.Load() }
 
 func (s *Store) reader() *sql.DB {
 	if s.Read != nil {

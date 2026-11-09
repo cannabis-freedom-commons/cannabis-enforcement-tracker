@@ -23,6 +23,8 @@ import (
 	"regexp"
 	"strings"
 	"time"
+
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 )
 
 const mainBranch = "main"
@@ -225,6 +227,7 @@ func (w *Worker) watchDeploys(ctx context.Context) error {
 	if len(list) == 0 {
 		return nil
 	}
+	w.refreshDeployRun(ctx)
 	repo := w.Config.RepoPath
 	deployed, err := w.deployedCommit(ctx)
 	if err != nil {
@@ -304,4 +307,72 @@ func (w *Worker) publicationLoop(ctx context.Context) {
 		case <-ticker.C:
 		}
 	}
+}
+
+// deployWorkflow is the site's Pages workflow (.github/workflows/deploy.yml).
+const deployWorkflow = "deploy.yml"
+
+// githubAPI is GitHub's REST API; tests point it elsewhere.
+var githubAPI = "https://api.github.com"
+
+var lastRunCheck time.Time
+
+// refreshDeployRun reads the Pages workflow's latest run on main from GitHub, at most every two
+// minutes, for the submissions page's link to the build. Anonymous reads are limited to 60 an
+// hour, so it is asked only while reports wait for the site (GITHUB_TOKEN raises the limit).
+func (w *Worker) refreshDeployRun(ctx context.Context) {
+	if time.Since(lastRunCheck) < 2*time.Minute {
+		return
+	}
+	lastRunCheck = time.Now()
+	fetchCtx, cancel := context.WithTimeout(ctx, 15*time.Second)
+	defer cancel()
+	url := githubAPI + "/repos/" + w.Config.GitHubRepo + "/actions/workflows/" + deployWorkflow + "/runs?branch=" + mainBranch + "&per_page=1"
+	req, err := http.NewRequestWithContext(fetchCtx, http.MethodGet, url, nil)
+	if err != nil {
+		return
+	}
+	req.Header.Set("Accept", "application/vnd.github+json")
+	req.Header.Set("User-Agent", "cannabis-enforcement-tracker-backend")
+	if w.Config.GitHubToken != "" {
+		req.Header.Set("Authorization", "Bearer "+w.Config.GitHubToken)
+	}
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		slog.Debug("deploy run unavailable", "error", err)
+		return
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != http.StatusOK {
+		slog.Debug("deploy run unavailable", "status", resp.Status)
+		return
+	}
+	var v struct {
+		Runs []struct {
+			HTMLURL    string    `json:"html_url"`
+			Status     string    `json:"status"`
+			Conclusion string    `json:"conclusion"`
+			HeadSHA    string    `json:"head_sha"`
+			StartedAt  time.Time `json:"run_started_at"`
+			UpdatedAt  time.Time `json:"updated_at"`
+		} `json:"workflow_runs"`
+	}
+	if err := json.NewDecoder(io.LimitReader(resp.Body, 1<<20)).Decode(&v); err != nil || len(v.Runs) == 0 {
+		return
+	}
+	run := v.Runs[0]
+	if !strings.HasPrefix(run.HTMLURL, "https://github.com/"+w.Config.GitHubRepo+"/actions/runs/") || !regexp.MustCompile(`^[0-9a-f]{40}$`).MatchString(run.HeadSHA) {
+		return
+	}
+	out := &store.DeployRun{URL: run.HTMLURL, Status: run.Status, Conclusion: run.Conclusion, HeadSHA: run.HeadSHA, StartedAt: run.StartedAt.Unix(), UpdatedAt: run.UpdatedAt.Unix()}
+	var batch string
+	if w.Store.DB.QueryRowContext(ctx, "SELECT commit_sha FROM publication_batches ORDER BY id DESC LIMIT 1").Scan(&batch) == nil && batch != "" {
+		repo := w.Config.RepoPath
+		if _, e := gitOutput(ctx, repo, "cat-file", "-e", run.HeadSHA+"^{commit}"); e != nil {
+			_ = gitQuiet(ctx, repo, 2*time.Minute, "fetch", "--quiet", "origin")
+		}
+		_, e := gitOutput(ctx, repo, "merge-base", "--is-ancestor", batch, run.HeadSHA)
+		out.IncludesBatch = e == nil
+	}
+	w.Store.SetDeployRun(out)
 }

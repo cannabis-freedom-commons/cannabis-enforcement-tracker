@@ -435,3 +435,9 @@
 .sx-dialog-close:hover { color: var(--text); }
 .sx-dialog .sx-compose { margin: 0; border: 0; background: none; padding: 14px 18px 18px; }
 @media (max-width: 520px) { .sx-dialog .sx-compose-line { flex-direction: column; } }
+.sx a.sx-run { margin-top: 4px; font: 11px var(--mono); color: var(--text-2); text-decoration: none; }
+.sx a.sx-run:hover { color: var(--text); text-decoration: underline; }
+.sx-run[hidden] { display: none; }
+.sx a.sx-run[data-state="running"] { color: #d9a43c; }
+.sx-run[data-state="running"]::before { --tone: #d9a43c; content: ""; display: inline-block; width: 7px; height: 7px; margin-right: 6px; border-radius: 50%; background: currentColor; animation: sx-pulse 2s ease-out infinite; vertical-align: 1px; }
+.sx a.sx-run[data-state="failure"], .sx a.sx-run[data-state="cancelled"] { color: var(--sx-failed); }

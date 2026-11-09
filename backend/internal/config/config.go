@@ -63,6 +63,7 @@ type Config struct {
 	// A worker's own settings: the backend it works for and its token.
 	TrackerURL, WorkerToken string
 	MetricsToken            string // bearer token of GET /metrics (INGEST_TOKEN when blank)
+	GitHubToken             string // optional: reading the Pages workflow's runs above GitHub's anonymous limit
 	// PublishBranch, when set, is where reports are committed; every PublishInterval the branch
 	// goes to main in one push (worker/batch.go). Blank: each report is pushed to main at once.
 	PublishBranch   string
@@ -334,6 +335,7 @@ func Load() (Config, error) {
 	if c.RepoFollow != "" && !regexp.MustCompile(`^[a-z0-9][a-z0-9/_-]{0,62}$`).MatchString(c.RepoFollow) {
 		return c, errors.New("invalid REPO_FOLLOW branch")
 	}
+	c.GitHubToken = os.Getenv("GITHUB_TOKEN")
 	c.MetricsToken = os.Getenv("METRICS_TOKEN")
 	if c.MetricsToken != "" && len(c.MetricsToken) < 32 {
 		return c, errors.New("METRICS_TOKEN must be at least 32 characters")

@@ -3,6 +3,8 @@ package api
 import (
 	"net/http"
 	"time"
+
+	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 )
 
 // Publication is where committed reports stand: waiting for the next batch to main, on main and
@@ -15,6 +17,8 @@ type Publication struct {
 	NextBatchAt int64      `json:"next_batch_at,omitempty"`
 	IntervalSec int64      `json:"interval_seconds,omitempty"`
 	LastBatch   *LastBatch `json:"last_batch,omitempty"`
+	// the site's latest Pages build on GitHub, while reports wait for the site
+	DeployRun *store.DeployRun `json:"deploy_run,omitempty"`
 }
 type LastBatch struct {
 	MergedAt   int64  `json:"merged_at"`
@@ -45,6 +49,9 @@ func (s *Server) status(w http.ResponseWriter, r *http.Request) {
 	var last LastBatch
 	if s.Store.Reader().QueryRowContext(r.Context(), "SELECT merged_at,commit_sha,reports,deployed_at FROM publication_batches ORDER BY id DESC LIMIT 1").Scan(&last.MergedAt, &last.Commit, &last.Reports, &last.DeployedAt) == nil {
 		pub.LastBatch = &last
+	}
+	if pub.Deploying > 0 || pub.Waiting > 0 {
+		pub.DeployRun = s.Store.DeployRun()
 	}
 	p := s.processingInfo(r.Context())
 	w.Header().Set("Cache-Control", "no-store")

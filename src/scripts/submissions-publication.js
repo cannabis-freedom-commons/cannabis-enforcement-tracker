@@ -34,7 +34,19 @@ if (box) {
       $("next").textContent = p.waiting > 0 ? `Next batch at ${clock(at)}, in ${minutes(at - now)}` : `Next batch at ${clock(at)}`;
     } else $("next").textContent = "Each report goes to main at once";
     const build = nextBuild(now);
-    $("build").textContent = `Next site build about ${clock(build)}, in ${minutes(build - now)}`;
+    const run = p.deploy_run, link = $("run");
+    const building = run && run.status !== "completed";
+    // the site's build on GitHub: the one running now, or the last one
+    $("build").textContent = building && run.includes_batch
+      ? `The site is being built with them (started ${clock(run.started_at)})`
+      : `Next site build about ${clock(build)}, in ${minutes(build - now)}`;
+    if (run?.url) {
+      link.hidden = false; link.href = run.url;
+      link.dataset.state = building ? "running" : run.conclusion || "";
+      link.textContent = building ? (run.status === "queued" ? "Site build queued on GitHub ↗" : `Site build running on GitHub, ${minutes(now - run.started_at)} so far ↗`)
+        : run.conclusion === "success" ? `Last site build finished ${clock(run.updated_at)} ↗`
+        : `Last site build ${run.conclusion || "ended"} at ${clock(run.updated_at)} ↗`;
+    } else link.hidden = true;
     const last = p.last_batch;
     if (last) {
       $("last-reports").textContent = num(last.reports);

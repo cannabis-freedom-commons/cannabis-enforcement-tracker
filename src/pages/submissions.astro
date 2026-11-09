@@ -73,7 +73,7 @@ const relays = (import.meta.env.PUBLIC_NOSTR_RELAYS || "").split(",").filter(Boo
       <div class="sx-card">
         <div class="sx-publication-steps" id="register-publication-steps">
           <div data-step="waiting"><strong data-pub="waiting">—</strong><span>Waiting for the next batch</span><small data-pub="next">—</small></div>
-          <div data-step="deploying"><strong data-pub="deploying">—</strong><span>On main, deploying</span><small data-pub="build">—</small></div>
+          <div data-step="deploying"><strong data-pub="deploying">—</strong><span>On main, deploying</span><small data-pub="build">—</small><a class="sx-run" data-pub="run" target="_blank" rel="noopener" hidden></a></div>
           <div data-step="last"><strong data-pub="last-reports">—</strong><span>In the last batch</span><small data-pub="last">—</small></div>
         </div>
         <p class="sx-publication-note" data-pub="note"></p>

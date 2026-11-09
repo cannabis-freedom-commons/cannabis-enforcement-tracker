@@ -137,6 +137,29 @@ func TestReportsGoToMainInBatchesAndArePublishedWhenLive(t *testing.T) {
 		t.Fatal("an empty batch changed main", err)
 	}
 
+	// the Pages build on GitHub: the page links it, and says whether it builds this batch
+	runSHA := mainBefore
+	github := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		if !strings.HasSuffix(r.URL.Path, "/actions/workflows/deploy.yml/runs") || r.URL.Query().Get("branch") != "main" {
+			http.NotFound(w, r)
+			return
+		}
+		w.Write([]byte(`{"workflow_runs":[{"html_url":"https://github.com/owner/repo/actions/runs/42","status":"in_progress","conclusion":null,"head_sha":"` + runSHA + `","run_started_at":"2026-11-09T05:13:00Z","updated_at":"2026-11-09T05:14:00Z"}]}`))
+	}))
+	defer github.Close()
+	githubAPI, w.Config.GitHubRepo = github.URL, "owner/repo"
+	defer func() { githubAPI = "https://api.github.com" }()
+	lastRunCheck = time.Time{}
+	w.refreshDeployRun(ctx)
+	if run := s.DeployRun(); run == nil || run.URL != "https://github.com/owner/repo/actions/runs/42" || run.Status != "in_progress" || run.IncludesBatch {
+		t.Fatal("deploy run of an older commit", run)
+	}
+	runSHA, lastRunCheck = head, time.Time{}
+	w.refreshDeployRun(ctx)
+	if run := s.DeployRun(); run == nil || !run.IncludesBatch {
+		t.Fatal("deploy run of the batch not recognised", run)
+	}
+
 	// the site still shows the build from before the batch
 	deployed = mainBefore
 	if err := w.watchDeploys(ctx); err != nil {
