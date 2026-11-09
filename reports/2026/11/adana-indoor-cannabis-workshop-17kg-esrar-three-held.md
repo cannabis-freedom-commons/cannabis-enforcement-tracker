@@ -77,6 +77,11 @@ media:
     media_url: https://media.cumhuriyet.com.tr/Archive/62c9a662-9235-449f-a8ff-8104b9db88d7.jpg
     publisher: Cumhuriyet
     caption: Picture published with Cumhuriyet's DHA account of the Adana gendarmerie raid that found an indoor cannabis workshop, 17 kg of esrar and four air conditioners; captioned only with the story headline and carrying no separate photographer or agency credit.
+  - kind: photo
+    url: https://www.haberkenti.com/adanada-uyusturucu-imalathanesine-operasyon-17-kilogram-esrar-ele-ge-gecti
+    media_url: https://haberkenticom.teimg.com/crop/1280x720/haberkenti-com/uploads/2026/11/adanada-uyusturucu-imalathanesine-operasyon-17-kilogram-esrar-ele-ge-gecti.jpg
+    publisher: Haber Kenti
+    caption: Picture published with Haber Kenti's copy of the Adana gendarmerie raid report, captioned only with the story headline; the page carries no separate photographer or agency credit.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3fe585ce68e86d3036a8cda280b36b64
@@ -127,6 +132,11 @@ sources:
     publisher: SON TV
     date: 2026-11-09
     language: tr
+  - title: 'Adana''da Uyuşturucu İmalathanesine Operasyon: 17 Kilogram Esrar Ele Ge geçti'
+    url: https://www.haberkenti.com/adanada-uyusturucu-imalathanesine-operasyon-17-kilogram-esrar-ele-ge-gecti
+    publisher: Haber Kenti
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -152,22 +162,25 @@ open_questions:
   - No plant count, planted area or estimated value of the esrar was published.
   - Son TV reproduces the Interior Ministry statement, so it corroborates rather than independently reports the raid.
   - The page's header picture is an unbylined .png with no credit or caption tying it to the workshop, the esrar or the operation, so it is not listed as media.
+  - Haber Kenti credits the story to 'Ajanslar' (news agencies) and reproduces the same account as the ministry statement already cited, so it corroborates rather than independently reports the raid.
+  - The page gives no separate date for the raid; 9 November 2026 is its publication date and stands in for the incident date.
+  - The page's picture is captioned only with the story headline and carries no photographer or agency credit; whether it shows the workshop, the seized esrar or the operation generally is not established.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
-three suspects were running a narcotics production and trading operation. [@2,4,7]
+three suspects were running a narcotics production and trading operation. [@2,4,7,10]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9]
+the air-conditioning system and various materials. [@2,4,6,7,9,10]
 
 The three suspects were taken into custody, and the ministry named no further
-court step. [@2,9]
+court step. [@2,9,10]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9]
+anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10]
 TRT Haber reported that the three suspects were held in gözaltı, the police
 custody in which a person is questioned while prosecutors decide on charges or
 release. [@3]
