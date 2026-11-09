@@ -55,26 +55,32 @@ sources:
     publisher: Il Mattino
     date: 2026-11-09
     language: de
+  - title: Si barrica in casa e minaccia di lanciarsi dal balcone, denunciato dopo il sequestro di hashish
+    url: https://casertaweb.com/notizie/si-barrica-in-casa-e-minaccia-di-lanciarsi-dal-balcone-denunciato-dopo-il-sequestro-di-hashish/
+    publisher: Caserta Web
+    date: 2026-11-09
+    language: it
 open_questions:
   - The incident date of 8 November 2026 is inferred from 'hier soir' in the report published on 9 November 2026; no separate calendar date is given.
   - No arrest was reported; the man was taken to hospital and reported to the judicial authority, so no arrested figure is recorded.
   - The reports give no name or age for the man and no later court outcome.
   - The page carries a photo whose caption only repeats the headline, and its file name dates to 2024, so it could not be confirmed to show this event and no media is listed.
+  - Caserta Web does not state a separate calendar date for the intervention, giving only 'nella serata di ieri' (the evening before) in a report published on 9 November 2026.
 ---
 
 The Caserta police reported a man for resisting a public officer and holding
 narcotics for trafficking after finding about 54 grams of hashish at his home.
-[@1,3] On the previous evening, officers of the Maddaloni commissariat's flying
+[@1,3,4] On the previous evening, officers of the Maddaloni commissariat's flying
 squad intervened in Via Napoli in San Felice a Cancello after a report of a
-highly agitated person blocking road traffic. [@1,3] At the scene, police
+highly agitated person blocking road traffic. [@1,3,4] At the scene, police
 identified the man, who was already known to law enforcement, and he resisted
-the check. [@1]
+the check. [@1,4]
 
 During follow-up checks at his home, the man first tried to stop officers
 entering the bedroom, then went onto the second-floor balcony and threatened to
-throw himself off. [@1,3] The officers' quick intervention allowed them to
-restrain him safely on the balcony. [@2]
+throw himself off. [@1,3,4] The officers' quick intervention allowed them to
+restrain him safely on the balcony. [@2,4]
 
 A search of the flat found a roughly 54-gram block of hashish on the bedroom
-desk. [@1,3] He was then taken to the hospital in Aversa by 118 medical staff and
-reported to the judicial authority. [@1,3]
+desk. [@1,3,4] He was then taken to the hospital in Aversa by 118 medical staff and
+reported to the judicial authority. [@1,3,4]
