@@ -46,6 +46,11 @@ sources:
     url: https://leadership.ng/edo-ndlea-arrest-75-seizes-16-8-tones-of-drugs/
     publisher: LEADERSHIP Newspapers
     date: 2026-11-09
+  - title: NDLEA arrests 75 suspected drug traffickers, seizes 16,818kg of illicit drugs in Edo
+    url: https://dailypost.ng/2026/11/09/ndlea-arrests-75-suspected-drug-traffickers-seizes-16818kg-of-illicit-drugs-in-edo/
+    publisher: Daily Post Nigeria
+    date: 2026-11-09
+    language: en
 open_questions:
   - The bulletin does not give a single raid date; 9 November 2026 is the publication date, when the commander presented the October results, and stands in for the incident date.
   - The article gives no count of plants destroyed; 14,322.0475 kg is the command's estimated yield of the destroyed farms, not a weighed cannabis seizure, and is not recorded as a figure.
@@ -55,27 +60,29 @@ open_questions:
   - The page's single image is captioned only with a file name (IMG 20261109 161652) and carries no credit, so it is not confirmed to show these seizures or farms and no media entry is added.
   - Only this outlet's account of the October results was available, and it reproduces the commander's statement rather than independent reporting.
   - The article does not say which six cases produced the convictions or what sentences were given.
+  - The 14,322.0475 kg is the command's estimated yield of the destroyed farms, not a weighed seizure, so it is not recorded in figures.
+  - The article gives no count of plants destroyed and no separate raid date; 9 November 2026 is the publication date when the October results were presented.
+  - It is not clear whether the Otuo car interception is the same 5 October 2026 seizure at Otuo recorded in the separate Otuo truck report.
 ---
 
 Nigeria's National Drug Law Enforcement Agency (NDLEA) in Edo State said its
 October 2026 operations arrested 75 suspected drug traffickers, 54 men and 21
-women. [@1] State commander Mitchell Ofoyeju said the command seized 2,496.11791
+women. [@1,2] State commander Mitchell Ofoyeju said the command seized 2,496.11791
 kg of illicit substances during the month, including 2,492.6973 kg of cannabis.
 [@1]
 
 He said eight cannabis farms covering 5.728819 hectares, with an estimated yield
-of 14,322.0475 kg, were identified and destroyed across the state. [@1] The
+of 14,322.0475 kg, were identified and destroyed across the state. [@1,2] The
 destroyed farms were in Uzebba Forest, Ukhuise-Osi Community and Ugbada Forest
 in Owan West, Ugboshi Ele Forest in Akoko Edo, and Eco Camp, Illushi, in Esan
-South-East. [@1]
+South-East. [@1,2]
 
 Among the seizures was a black Toyota Camry stopped at Otuo, Owan East, carrying
-1,049 compressed blocks of cannabis weighing 702.83 kg. [@1] Three people were
+1,049 compressed blocks of cannabis weighing 702.83 kg. [@1,2] Three people were
 arrested with that load: Monday Orji, 52, Monday Lawal, 40, and Precious
 Uduegele, 20, two men and a woman. [@1]
 
 Ofoyeju said the command won six convictions and filed 14 cases in court, with
-103 cases still pending. [@1] The figures were presented when NDLEA chairman
+103 cases still pending. [@1,2] The figures were presented when NDLEA chairman
 Mohamed Buba Marwa visited the command and told officers to intensify
 intelligence-led operations against drug cartels in the state. [@1]
-
