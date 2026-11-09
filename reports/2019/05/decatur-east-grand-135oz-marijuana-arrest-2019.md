@@ -40,6 +40,11 @@ sources:
     url: https://thesouthern.com/news/local/crime-and-courts/police-shots-fired-call-leads-to-marijuana-arrest-at-decatur-residence/article_3d6de48c-787d-576c-bd8e-cd737493e36e.html
     publisher: The Southern Illinoisan
     date: 2019-05-28
+  - title: 'Police: Shots fired call leads to marijuana arrest at Decatur residence'
+    url: https://thesouthern.com/news/local/crime-and-courts/police-shots-fired-call-leads-to-marijuana-arrest-at-decatur/article_3d6de48c-787d-576c-bd8e-cd737493e36e.html
+    publisher: The Southern
+    date: 2019-05-28
+    archived: https://web.archive.org/web/20190821205707id_/https://thesouthern.com/news/local/crime-and-courts/police-shots-fired-call-leads-to-marijuana-arrest-at-decatur/article_3d6de48c-787d-576c-bd8e-cd737493e36e.html
 open_questions:
   - The article says the man was arrested on a Saturday night; 25 May 2019 is used as the incident date because the story was published on Tuesday 28 May 2019.
   - The amount is given as nearly 13.5 ounces, not an exact weight; 0.38 kilograms is the conversion of 13.5 ounces.
@@ -47,6 +52,7 @@ open_questions:
   - The man is identified only by his age, and the address is given only as a block.
   - No photograph of this event was published with the accessible text; the images on the page are mug shots from an unrelated 2019 roundup and are not listed.
   - Only the Southern Illinoisan copy could be opened; the Pantagraph and JG-TC copies of the same story returned access errors.
+  - The article says the seizure was 380.4 grams, or 13.4 ounces, while its opening sentence says nearly 13.5 ounces; the report keeps 0.38 kilograms as the conversion.
 ---
 
 Decatur police arrested a 22-year-old man on a Saturday night after officers
@@ -57,3 +63,4 @@ A sworn Decatur police affidavit said officers were sent to the block just
 before 5 p.m. over a shots fired call. [@1] The 22-year-old told officers he had
 been shot at from a vehicle in the alley. [@1]
 
+Officers obtained a search warrant and found a digital scale and a total of 380.4 grams, or 13.4 ounces, of marijuana in the residence. [@2] The 22-year-old had $621 in his pocket and told officers he was unemployed. [@2] In a police interview he said the marijuana was his but denied selling it. [@2] He faced preliminary charges of possession of 30 to 500 grams of cannabis and manufacturing/delivery of 30 to 500 grams of cannabis. [@2] He was held in the Macon County Jail in lieu of $75,000 bail. [@2]
