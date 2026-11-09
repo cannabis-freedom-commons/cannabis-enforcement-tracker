@@ -45,6 +45,11 @@ media:
     media_url: https://radioeducadoramg.com.br/wp-content/uploads/2026/11/operacao-drogas-ipatinga.jpg
     publisher: Rádio Educadora
     caption: 'Photo of the police operation published with the report, captioned only with the headline of the arrest of a 31-year-old for trafficking and a fugitive, and of 8 cannabis plants found in Ipatinga. Photo: Rádio Educadora'
+  - kind: photo
+    url: https://vale24horas.com.br/noticia/15937/acao-da-pm-apreende-plantas-de-maconha-e-prende-dois-homens-em-ipatinga
+    media_url: https://vale24horas.com.br/images/noticias/15937/09111355_WhatsApp_I.jpeg
+    publisher: Vale 24 Horas
+    caption: Photo published with the report on the Cidade Nobre arrest, credited only as PMMG, the Minas Gerais Military Police.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1420d9f9ca07149e0c1dd5f418edb461
@@ -60,6 +65,11 @@ sources:
     publisher: Plox
     date: 2026-11-09
     language: pt
+  - title: Ação da PM apreende plantas de maconha e prende dois homens em Ipatinga
+    url: https://vale24horas.com.br/noticia/15937/acao-da-pm-apreende-plantas-de-maconha-e-prende-dois-homens-em-ipatinga
+    publisher: Vale 24 Horas
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No weight or value was given for the cannabis portion and cigarette found with the plants.
   - The substance described as similar to cocaine is not cannabis and is not counted in the figures.
@@ -67,6 +77,8 @@ open_questions:
   - It is not reported whether the man who escaped from the hospital escort was recaptured.
   - No charges from a court, plea or outcome of the case were reported.
   - The Rádio Educadora photo is captioned only with the story headline, and no credit states who took it.
+  - The Vale 24 Horas account gives no weight for the cannabis portion or cigarette and no value for the drugs seized.
+  - The picture is credited only as PMMG and its address is a generic WhatsApp image file, so it may duplicate the Military Police handout already filed from another outlet.
 ---
 
 Military Police officers were tracking a man who had escaped from a prison
@@ -77,14 +89,15 @@ found a small cannabis plantation. [@1]
 
 Police seized eight plants resembling cannabis, a portion of the same herb ready
 for consumption, one cannabis cigarette, a portion of a substance similar to
-cocaine and 5 reais in cash. [@1] A 31-year-old man said the plants were his and
-was arrested for drug trafficking. [@1]
+cocaine and 5 reais in cash. [@1,3] A 31-year-old man said the plants were his and
+was arrested for drug trafficking. [@1,3]
 
 Checking the identities of the others at the house, officers found that a
 35-year-old man had an open arrest warrant issued by a court, and he was also
-detained. [@1] The two detainees and the seized material were taken to the Civil
+detained. [@1,3] The two detainees and the seized material were taken to the Civil
 Police station in Ipatinga for the duty police chief to handle. [@1] The
 Military Police did not say why the arrest warrant had been issued or give
 details of the case behind it. [@2] The police record does not say whether the
 man who escaped from the hospital escort was found during the operation. [@2]
 
+The operation began at about 9pm on Sunday 8 November 2026, when officers pursued a man who had fled a penal escort at the Municipal Hospital and approached four men near a house in Cidade Nobre. [@3]
