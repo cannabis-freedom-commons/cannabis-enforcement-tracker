@@ -86,6 +86,11 @@ sources:
     publisher: Andalucía Información
     date: 2026-11-09
     language: es
+  - title: Detenido un hombre de 40 años en Batres por cultivar más de 700 plantas de cannabis en una vivienda
+    url: https://www.epe.es/es/madrid/20261109/detenido-hombre-cultivar-cannabis-vivienda-batres-136239220
+    publisher: El Periódico de España
+    date: 2026-11-09
+    language: es
 open_questions:
   - No date is given for the search or the arrest; 9 November 2026 is the day the Guardia Civil announced the operation and the publication date, and is used as the incident date.
   - No weight was published for the hashish, only the count of 13 pressed tablets, so no kilogram figure can be recorded.
@@ -98,19 +103,22 @@ open_questions:
   - The page's lead photograph shows hashish in a car boot and belongs to a separate Huelva story, not to the Batres raid, so it is not recorded as media.
   - Andalucía Información gives no weight for the 13 tablets of hashish resin, so no kilogram figure was added.
   - The article carries a Guardia Civil image captioned only with agency credits, which cannot be confirmed to show this plantation.
+  - El Periódico de España carries the same Guardia Civil statement as the outlets already cited and gives no date for the search or arrest beyond the 9 November 2026 publication date.
+  - The article gives no weight for the 13 tablets of hashish resin, only the count.
+  - The page's only image is an archive photo of a Guardia Civil car, so no image of the Batres plantation comes from this source.
 ---
 
 Guardia Civil officers searched a detached house (vivienda unifamiliar) in
 Batres, in the south-west of the Community of Madrid, and found an indoor
 cannabis plantation inside it. [@2] The officers seized 714 cannabis plants and
-13 pressed tablets of hashish resin. [@1,5,6] They also seized products and tools
-used to grow and maintain the plants. [@1]
+13 pressed tablets of hashish resin. [@1,5,6,7] They also seized products and tools
+used to grow and maintain the plants. [@1,7]
 
 A 40-year-old man was arrested as the suspected author of a crime against public
-health and of electricity fraud. [@1,5,6]
+health and of electricity fraud. [@1,5,6,7]
 
 The police said the inquiries began after neighbours complained about a possible
-indoor cannabis crop in the town. [@3] The Guardia Civil in Madrid said the
+indoor cannabis crop in the town. [@3,7] The Guardia Civil in Madrid said the
 investigation began at the start of September, when several neighbours'
 complaints alerted officers to a possible cannabis crop inside the house. [@4,5,6]
 Noticias para Municipios described the installation as an indoor grow, the kind
