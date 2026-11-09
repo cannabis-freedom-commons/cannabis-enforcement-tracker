@@ -56,6 +56,11 @@ sources:
     publisher: Metrópoles
     date: 2026-11-09
     language: pt
+  - title: Homem é preso com 18,4 kg de maconha e diz à PRF que droga era para “consumo pessoal”
+    url: https://terramtdigital.com.br/brasil/homem-e-preso-com-184-kg-de-maconha-e-diz-a-prf-que-droga-era-para-consumo-pessoal/
+    publisher: TERRA MT DIGITAL
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The article gives no exact kilometre marker, no name, age or home town of the driver, and no charge, custody decision or court step.
   - The weight of 18.4 kilograms comes from the PRF statement reproduced by the outlet; no exact scale reading or laboratory confirmation of the substance was published.
@@ -68,11 +73,13 @@ open_questions:
   - The article gives no exact kilometre marker and no name, age or home town of the driver, and no charge, custody decision or court step beyond the referral to the Jaraguá Civil Police station.
   - Both accounts reproduce PRF information; the weight of 18.4 kilograms has no published scale reading or laboratory confirmation of the substance.
   - The page's own video and the PRF handout photo could not be linked separately here beyond the publisher's image address.
+  - The Terra MT Digital account also calls the drug 18.4 kilograms without a scale reading or laboratory confirmation of the substance.
+  - The article gives no exact kilometre marker, no name, age or home town of the driver, and no custody decision or later court step.
 ---
 
 Federal Highway Police officers arrested a man on suspicion of drug trafficking
 on the BR-153 at Jaraguá, in central Goiás, late on the afternoon of Sunday 8
-November 2026. [@1,2] Officers found 18.4 kilograms of marijuana hidden under the
+November 2026. [@1,2,3] Officers found 18.4 kilograms of marijuana hidden under the
 spare tyre of the car he was driving, the PRF said. [@1,2]
 
 The driver of a GM Astra was stopped during a routine check. [@1] According to
@@ -81,10 +88,10 @@ route. [@1] During the search of the vehicle, officers found the tablets of the
 drug in the boot. [@1]
 
 The corporation said the driver told officers he had left Nova Glória and was
-heading for Anápolis. [@1] Questioned about the drug, he claimed the substance
-was for "personal use". [@1]
+heading for Anápolis. [@1,3] Questioned about the drug, he claimed the substance
+was for "personal use". [@1,3]
 
-The suspect was taken to the Civil Police station in Jaraguá. [@1] The PRF also
-seized the car, two mobile phones and an amount of money. [@1,2]
+The suspect was taken to the Civil Police station in Jaraguá. [@1,3] The PRF also
+seized the car, two mobile phones and an amount of money. [@1,2,3]
 
-The man already had a criminal record for illegal possession of a firearm, according to the police. [@2]
+The man already had a criminal record for illegal possession of a firearm, according to the police. [@2,3]
