@@ -46,6 +46,11 @@ sources:
     publisher: 24rodopi.com
     date: 2026-11-09
     language: bg
+  - title: Задържаха двама с наркотици при полицейска акция през уикенда
+    url: https://www.haskovo.net/news/640516/zadierzaxa-dvama-s-narkotici-pri-policeiska-akciia-prez-uikenda
+    publisher: Haskovo.Net
+    date: 2026-11-09
+    language: bg
 open_questions:
   - No weight was published for the dry leaf matter found on the 22-year-old, so only the 25-year-old's 6 grams are recorded.
   - The 6 grams is the only stated weight, and sources do not say whether it is the total cannabis seized in the operation.
@@ -55,21 +60,22 @@ open_questions:
   - The submitted page image carries no caption tying it to this seizure, and the 24rodopi photo is credited to a photographer without a caption, so no media entries are included.
   - All accounts repeat the same Kardzhali police statement; no independent account could be opened.
   - 'Left out, as its quotation was not found in Ministry of Interior, Kardzhali Directorate: The Interior Ministry''s Kardzhali directorate bulletin lists the two detentions among its weekend reports.'
+  - The Haskovo.Net account repeats the same Kardzhali police statement as the earlier sources and gives no weight for the 22-year-old's cannabis.
+  - The submitted page image has no caption linking it to the seizure, so no media entry is added.
 ---
 
 Police in Kardzhali detained two men on cannabis possession charges during a
 weekend police operation on 6 and 7 November 2026. [@1] At about 19:30 on 6
 November, officers checked a 25-year-old and found 6 grams of dry leaf matter
-that tested as marijuana. [@1] At about 20:00 on 7 November, police checked a
+that tested as marijuana. [@1,3] At about 20:00 on 7 November, police checked a
 22-year-old in Kardzhali and found dry leaf matter that tested as marijuana.
-[@1]
+[@1,3]
 
 Officers seized the drugs and held both men for up to 24 hours under the Law on
-the Ministry of Interior at the Kardzhali district police department. [@1]
+the Ministry of Interior at the Kardzhali district police department. [@1,3]
 Pre-trial proceedings were opened for unlawful possession of a high-risk drug.
-[@1]
+[@1,3]
 
 The Kardzhali regional press centre of the Interior Ministry announced the
-detentions. [@1] Local outlet 24rodopi.com published the same police account,
+detentions. [@1,3] Local outlet 24rodopi.com published the same police account,
 attributing it to the Kardzhali police directorate. [@2]
-
