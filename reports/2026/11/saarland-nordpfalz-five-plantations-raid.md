@@ -163,6 +163,11 @@ sources:
     publisher: CNEWS
     date: 2026-11-08
     language: fr
+  - title: 'Trafic de stupéfiants : démantèlement d’un réseau franco-allemand'
+    url: https://www.linfo.re/france/faits-divers/trafic-de-stupefiants-demantelement-d-un-reseau-franco-allemand
+    publisher: LINFO.re
+    date: 2026-11-09
+    language: fr
 open_questions:
   - The 3 November 2026 incident date comes from the stated Tuesday raid day and the explicit 03.11.2026 date in the authorities' statement; 5 November 2026 is the publication date.
   - The plant count is reported as more than 2,300, so 2,300 is recorded as the stated minimum.
@@ -200,6 +205,8 @@ open_questions:
   - The 31.4 kilos of cannabis seized in France is not broken down by herb, resin or pollen.
   - The French cash seizure of more than 17,000 euros is approximate and separate from the about 22,000 euros seized in Germany.
   - No names, ages or later court outcomes for the French suspects are given beyond the 11 mises en examen and six pretrial detentions.
+  - The article gives no breakdown of the 31.4 kilos of cannabis seized in France by herb, resin or pollen, and still no plant count for the French searches.
+  - The article gives the operation's date as Tuesday 3 November, consistent with the existing report; it gives no names, ages or later court outcomes for the French suspects.
 ---
 
 Customs officers arrested eight people aged 22 to 54 on suspicion of cultivating
@@ -238,4 +245,6 @@ Nancy's prosecutors and an investigating judge, working with the German authorit
 
 Officers also secured about 22,000 euros in cash. [@14] The customs investigation office said it had been investigating the group since spring 2026 on behalf of the Saarbrücken prosecutor's office. [@2]
 
-In France officers seized 31.4 kilos of cannabis along with ketamine, cocaine, a few grams of heroin and more than 17,000 euros in cash. [@21] Of the 13 people arrested in France, 11 were brought before an investigating judge for mise en examen. [@21] Six of the French suspects were placed in pretrial detention and the others under judicial supervision. [@21] The network was directed from a prison cell via Snapchat and Telegram by a man with multiple drug-trafficking convictions, stored drugs in many flats and distributed them across the Grand Est by couriers using rental vehicles. [@21]
+In France officers seized 31.4 kilos of cannabis along with ketamine, cocaine, a few grams of heroin and more than 17,000 euros in cash. [@21] Of the 13 people arrested in France, 11 were brought before an investigating judge for mise en examen. [@21] Six of the French suspects were placed in pretrial detention and the others under judicial supervision. [@21,22] The network was directed from a prison cell via Snapchat and Telegram by a man with multiple drug-trafficking convictions, stored drugs in many flats and distributed them across the Grand Est by couriers using rental vehicles. [@21,22]
+
+The German investigators found five plantations in abandoned buildings, run by suppliers of Albanian origin. [@22] The French prosecutions cover importing, transporting and selling drugs, illegal possession of weapons and refusal to hand over an encryption key. [@22]
