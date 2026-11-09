@@ -74,6 +74,11 @@ sources:
     publisher: Seneweb
     date: 2025-09-25
     language: fr
+  - title: 'Burkina Faso : plus d''une demi-tonne de chanvre indien saisi à Kaya et Ouagadougou'
+    url: https://www.koaci.com/article/2025/09/28/burkina-faso/societe/burkina-faso-plus-dune-demi-tonne-de-chanvre-indien-saisi-a-kaya-et-ouagadougou_190602.html
+    publisher: KOACI
+    date: 2025-09-28
+    language: fr
 open_questions:
   - The sources give only the announcement date, 25 September 2025, for both operations; the dates of the Kaya, Ouagadougou and Pô seizures themselves are not stated, and 25 September 2025 is used as the incident date.
   - KOACI calls the Pô traffickers' partner country Ghana while Burkina 24 and the National Police statement say only a neighbouring country, so no country is named in the text.
@@ -89,30 +94,33 @@ open_questions:
   - Seneweb gives the Pô weight only as "more than 20 kg" and the value as an estimate of about 2.3 million CFA francs; the precise 20.5 kg figure comes from the National Police statement as published by Burkina 24.
   - Seneweb does not name the neighbouring country the cannabis came from, nor the Dakola–Ouagadougou route or National Road 5 given in the other accounts.
   - 'Left out, as its quotation was not found in Seneweb: Separately, the central police station in Pô arrested two people during a security search at the Tambolo/Pô police post on National Road 5.'
+  - KOACI calls the Pô traffickers' partner country Ghana while Burkina 24 and the National Police statement say only a neighbouring country; the report's text reflects the latter.
+  - KOACI's Pô passage is written in the first person plural ("ma police"), apparently lifted from the police statement, and does not say when the Pô search took place.
+  - KOACI gives the Koulsé office as the regional judicial police for the "région des Koulsé", an area not otherwise identified in the article.
 ---
 
 Burkina Faso's regional judicial police for the Koulsé region carried out a
 seizure operation that took 575.15 kg of chanvre indien, the French term used
-for cannabis, off the market in Kaya and Ouagadougou. [@2] Acting on information
+for cannabis, off the market in Kaya and Ouagadougou. [@2,6] Acting on information
 about a drug-trafficking network in Kaya and other localities, investigators
-first seized 7 kg of chanvre indien in sector 4 of Kaya. [@1] The investigation
+first seized 7 kg of chanvre indien in sector 4 of Kaya. [@1,6] The investigation
 then traced the network to Ouagadougou, in the Boassa and Sondogo neighbourhoods
 and the commune of Saaba, where officers seized six and ten sacks holding fifty
-cannabis pads each. [@3]
+cannabis pads each. [@3,6]
 
 In total the operation recovered 575.15 kg of chanvre indien, which the police
-valued at 80 million CFA francs. [@3] Police valued the 575.15 kg at 80 million
+valued at 80 million CFA francs. [@3,6] Police valued the 575.15 kg at 80 million
 CFA francs. [@1] The Koulsé investigators arrested one active member of the
-network in that operation. [@2] They also seized a motorcycle and cash. [@3]
+network in that operation. [@2,6] They also seized a motorcycle and cash. [@3]
 
 Separately, the central police station in Pô arrested two people during a
-security search at the Tambolo/Pô police post on National Road 5. [@1] Police
+security search at the Tambolo/Pô police post on National Road 5. [@1,6] Police
 said the pair bought the cannabis in a neighbouring country and carried it as
 passengers on public transport along the Dakola–Ouagadougou route, hiding the
-pads among clothes in new suitcases. [@4]
+pads among clothes in new suitcases. [@4,6]
 
 The National Police published both results in statements dated Thursday 25
 September 2025, appealing to residents to keep reporting suspicious cases on its
 hotlines. [@4]
 
-Police estimated the value of the Pô seizure at 2.3 million CFA francs. [@5]
+Police estimated the value of the Pô seizure at 2.3 million CFA francs. [@5,6]
