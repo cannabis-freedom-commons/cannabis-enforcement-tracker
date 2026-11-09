@@ -126,6 +126,10 @@ sources:
     url: https://www.myjoyonline.com/playback-newsfile-discussed-traffitech-gh-drug-busts/
     publisher: MyJoyOnline
     date: 2026-11-07
+  - title: Ghana Navy intercepts 4.7 tonnes of suspected Indian hemp; warns drug traffikers and financiers
+    url: https://www.gbcghanaonline.com/general/ghana-navy-intercepts-4-7-tonnes-of-suspected-indian-hemp-warns-drug-traffikers-and-financiers/2026/
+    publisher: GBC Ghana Online
+    date: 2026-11-07
 open_questions:
   - The 4.7 tonnes and the US$1 million value are the Ghana Navy's estimates; the substance is described as suspected Indian hemp pending laboratory testing.
   - No confirmed weight from laboratory testing and no figure for the number of parcels or the identity of the boat operators was published.
@@ -157,28 +161,30 @@ open_questions:
   - The article was published on 6 November 2026 but describes the interception as taking place on 5 November 2026.
   - GhanaWeb gives no identity of the boat operators and does not say whether the boats, outboard motors or fuel were retained.
   - This is a programme preview published the day the Newsfile edition aired, not reporting of the seizure itself, and it gives no sack count, arrest figure or laboratory confirmation.
+  - GBC gives the seizure time as about 1 a.m. on 5 November, while other accounts describe the boats being searched around 5 a.m.; the report keeps 5 November as the date.
+  - GBC does not say the sacks were handed to NACOC for laboratory testing, although it describes the substance as suspected narcotics with an estimated value.
 ---
 
 Ghana Navy personnel from the Riverine Command, working with the Narcotics
 Control Commission (NACOC) and National Security, intercepted two wooden boats
-at the Ada Estuary on Thursday 5 November 2026. [@2,3,4,6,7,8,9,12] The boats carried 117 sacks
+at the Ada Estuary on Thursday 5 November 2026. [@2,3,4,6,7,8,9,12,14] The boats carried 117 sacks
 of compressed dried leaves suspected to be Indian hemp, each sack holding more
-than 80 parcels. [@2,3,4,7,8,12] The occupants spotted the approaching naval patrol,
-abandoned both vessels and their cargo, and fled. [@1,3,4,6,7,12]
+than 80 parcels. [@2,3,4,7,8,12,14] The occupants spotted the approaching naval patrol,
+abandoned both vessels and their cargo, and fled. [@1,3,4,6,7,12,14]
 
 The Navy estimated the cargo at about 4.7 tonnes and put its street value at
 more than US$1 million. [@1,3,4,9,10,12] No one was arrested, and the sacks remain
 classified as suspected narcotics pending laboratory testing. [@2,7] Preliminary
 intelligence indicated the consignment was being prepared for export out of
-Ghana. [@2,3,7,8]
+Ghana. [@2,3,7,8,14]
 
 The seized substances were handed to NACOC for forensic examination and further
 investigation. [@1,6] Naval Captain Festus Osei Brobbey, Director of Naval
 Operations, said a riverine detachment had been stationed to strengthen security
-on the Volta Lake and in surrounding communities. [@2,3,7,9,12] Kenneth Kofi Kabu Kanor,
+on the Volta Lake and in surrounding communities. [@2,3,7,9,12,14] Kenneth Kofi Kabu Kanor,
 the Ada East District Chief Executive and chairman of the District Security
 Committee (DISEC), urged residents not to let the Volta Lake become a transit
-route for drugs. [@2,3,7,8,9]
+route for drugs. [@2,3,7,8,9,14]
 
 The Navy said the interception was at least the third major abandonment of a
 cannabis boat on the Ada estuary in 2026, after 37 sacks found near Goi on 27
@@ -197,3 +203,5 @@ Peace FM Online reported that the abandoned boats were escorted to Ada Foah and 
 The Ghana Navy's preliminary intelligence suggested the consignment was being transported out of Ghana to Nigeria. [@12]
 
 Ghana Navy seized approximately 4.8 tonnes of suspected marijuana at the Volta Lake estuary near Ada, with the consignment allegedly destined for Nigeria. [@13]
+
+The Ada East District Chief Executive, Kenneth Kofi Kabu Kanor, asked relevant institutions to provide the logistical assistance needed to strengthen the fight against drug trafficking and assured the Navy of the Assembly's support. [@14]
