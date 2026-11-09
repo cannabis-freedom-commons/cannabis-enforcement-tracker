@@ -90,6 +90,11 @@ sources:
     publisher: TAG24
     date: 2026-11-09
     language: de
+  - title: Zoll stellt 1.230 Cannabissetzlinge aus Österreich auf der A3 sicher
+    url: https://www.oberpfalz-aktuell.com/artikel/zoll-stellt-1-230-cannabissetzlinge-aus-oesterreich-auf-der-a3-sicher
+    publisher: Oberpfalz-Aktuell
+    date: 2026-11-09
+    language: de
 open_questions:
   - Customs does not state the driver's or passenger's nationality, only that their van was Slovak-registered and had carried the parcels from Austria.
   - 'The release recommends no arrest: the two men were allowed to continue their journey, and no detention, charges before a court or outcome is reported.'
@@ -105,11 +110,13 @@ open_questions:
   - TAG24 does not say where the two men are from or whether they were detained, as in the report's existing account.
   - TAG24 republishes the customs office's handout photographs credited to Zoll Regensburg, so it adds no independent account of the check.
   - TAG24 credits the customs unit to Zoll Regensburg and names it as Kontrolleinheit Verkehrswege Furth im Wald, consistent with the report's attribution to the Regensburg main customs office.
+  - The Oberpfalz-Aktuell page appears to reproduce the Regensburg main customs office's release, so it is not independent reporting of the check.
+  - The page's only photograph is captioned with the story headline and carries no credit identifying it, so no media entry is added for it.
 ---
 
 Customs officers of the Furth im Wald traffic control unit of the Regensburg
 main customs office seized 1,230 cannabis plants on the A3 near Hunderdorf on 2
-November 2026. [@1,2,4] Customs opened criminal proceedings against the van's driver
+November 2026. [@1,2,4,5] Customs opened criminal proceedings against the van's driver
 and his passenger on suspicion of the prohibited import of cannabis. [@1,4] The
 plants had been carried from Austria into Germany in a small van. [@1]
 
@@ -118,7 +125,7 @@ carrying postal parcels from Austria to Germany for a logistics company. [@1,3,4
 the load bed officers found several parcels wrapped in black foil addressed to
 recipients in Germany, and 13 boxes held 1,230 young cannabis plants. [@1,3,4] The
 two men said they did not know what the parcels contained and presented a
-loading list and a lawyer's letter assessing the transport as permissible. [@1,3]
+loading list and a lawyer's letter assessing the transport as permissible. [@1,3,5]
 
 Customs judged the plants by their actual stage of development: they had already
 been planted in soil and grown into independent young plants, so officers
@@ -127,7 +134,7 @@ Customs opened proceedings on suspicion of a violation of the Cannabis
 Consumption Act (Konsumcannabisgesetz) in conjunction with Bannbruch, the
 customs offence of evading import bans. [@1,4] After the measures were completed
 the two men were allowed to continue their journey, and the case was referred to
-the Regensburg public prosecutor's office for further assessment. [@1,3] Customs
+the Regensburg public prosecutor's office for further assessment. [@1,3,5] Customs
 said the import of seedlings into Germany is prohibited even from another EU
 state and regardless of the number of plants. [@1]
 
