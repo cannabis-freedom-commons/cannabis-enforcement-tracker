@@ -126,6 +126,11 @@ sources:
     publisher: Europa Press (via MSN)
     date: 2026-11-08
     language: es
+  - title: 'Operación antidroga Granada: la Guardia Civil detiene a 22 personas y decomisa 13.000 plantas de marihuana'
+    url: https://www.msn.com/es-es/noticias/otras/operaci%C3%B3n-antidroga-granada-la-guardia-civil-detiene-a-22-personas-y-decomisa-13000-plantas-de-marihuana/ar-AA2h0kPq
+    publisher: Moncloa (via MSN)
+    date: 2026-11-08
+    language: es
 open_questions:
   - Bud weight is reported as more than 24 kilos, so the recorded cannabis total of 25.613 kg is a stated minimum combining 24 kg of buds and 1.613 kg of hashish.
   - The Loja seizure is written as 11.605 kilos; it is read as 11.605 kg, consistent with the reported total of more than 24 kilos of buds.
@@ -152,6 +157,7 @@ open_questions:
   - The MSN page's three image slots have no captions or image addresses in the captured markup, so no media entry is added for them.
   - The submitted page is Europa Press's text republished by MSN and credits the same Guardia Civil statement already cited, so it is not independent reporting of the figures.
   - The MSN page's lead image has no caption tying it to a specific seizure, so no new media entry is added for it.
+  - The submitted page is Moncloa's text republished by MSN and credits the same Comandancia de Granada statement already used in the report, so it is not an independent account of the figures.
 ---
 
 Granada's Guardia Civil carried out a special operation between 3 and 5 November
@@ -162,7 +168,7 @@ related crime. [@1,10,12]
 
 Across 13 police operations and 33 searches, officers seized 13,165 marijuana
 plants, more than 24 kilos of marijuana buds, 1,613 grams of hashish, 3,328
-grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5,6,7,8,9,10,11,12] They also recovered an air
+grams of pink cocaine and 34 grams of cocaine. [@1,2,3,5,6,7,8,9,10,11,12,13] They also recovered an air
 rifle, ammunition and 19,831 euros in cash. [@1,8,10,12] In Pulianas, two people were
 detained with 3,328 grams of pink cocaine and 4,506 grams of vacuum-packed
 marijuana buds. [@1,9,12] In Loja, five people were detained in three searches of
@@ -193,3 +199,5 @@ The operations were carried out by investigation units of the Granada command, i
 The two men detained in Pulianas were held by officers of the investigation area of the Guardia Civil's station in Maracena. [@8,9] The two Pulianas detainees' unit and the Loja group were described as follows: the Loja operation was run by the Alto Impacto operational group based in Durcal. [@8]
 
 The Correo de Andalucía account, written by Rafa Aranda, gives the figures as reported by Europa Press. [@11]
+
+The Granada command's Alto Impacto service ran 13 police operations on 3, 4 and 5 November, the three days of the sweep. [@13]
