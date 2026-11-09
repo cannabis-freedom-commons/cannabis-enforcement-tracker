@@ -60,6 +60,10 @@ sources:
     url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
     publisher: Falmouth Packet
     date: 2026-11-09
+  - title: Birmingham Airport drugs smuggling gang all sentenced
+    url: https://www.cotswoldjournal.co.uk/news/26713165.birmingham-airport-drugs-smuggling-gang-sentenced/
+    publisher: Cotswold Journal
+    date: 2026-11-09
 media:
   - kind: photo
     url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
@@ -101,4 +105,4 @@ others that smuggling is not worth the risk, and thanked Border Force for findin
 NCA figures show 801 cannabis couriers caught arriving by plane in 2024, 976 in 2025, and 600 more
 arrested between January and June 2026. [@1,2]
 
-Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
+Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
