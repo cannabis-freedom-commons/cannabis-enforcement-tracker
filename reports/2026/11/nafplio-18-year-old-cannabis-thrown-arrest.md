@@ -54,6 +54,11 @@ sources:
     publisher: anagnostis.org
     date: 2026-11-09
     language: el
+  - title: 'Ναύπλιο: Πέταξε την κάνναβη μόλις είδε τους Αστυνομικούς αλλά συνελήφθη'
+    url: https://hmerisiakorinthou.gr/%CE%BD%CE%B1%CF%8D%CF%80%CE%BB%CE%B9%CE%BF-%CF%80%CE%AD%CF%84%CE%B1%CE%BE%CE%B5-%CF%84%CE%B7%CE%BD-%CE%BA%CE%AC%CE%BD%CE%BD%CE%B1%CE%B2%CE%B7-%CE%BC%CF%8C%CE%BB%CE%B9%CF%82-%CE%B5%CE%AF%CE%B4%CE%B5/
+    publisher: Ημερησία Κορίνθου
+    date: 2026-11-09
+    language: el
 open_questions:
   - The weight of the small quantity of cannabis was not published, so no kg_seized figure is recorded.
   - Only one outlet describes the amount as a small quantity; Argolikes Eidiseis calls it simply a quantity of cannabis.
@@ -63,15 +68,17 @@ open_questions:
   - The page's lead photograph has no caption or credit and is not confirmed to show this arrest, so no media entry is included.
   - Anagnostis reproduces the same police announcement as the outlets already cited, so it is not independent reporting.
   - As before, no weight for the cannabis, charge, or court outcome was published.
+  - Hmerisia Korinthou reproduces the same police announcement as the outlets already cited and is not independent reporting.
+  - Its lead photograph is credited only as from the internet and was uploaded to the site in 2021, so it is a generic cannabis image that cannot be linked to this arrest.
 ---
 
 Police in Nafplio arrested an 18-year-old Greek man on the afternoon of 8
-November 2026. [@1,4] Officers of the Argolida motorcycle patrol group (DIAS),
+November 2026. [@1,4,5] Officers of the Argolida motorcycle patrol group (DIAS),
 part of the Argolida traffic police, made the arrest. [@2] Seeing the officers,
-the man threw a small quantity of cannabis to the ground. [@1,4] Police seized the
-cannabis. [@1,4]
+the man threw a small quantity of cannabis to the ground. [@1,4,5] Police seized the
+cannabis. [@1,4,5]
 
 The Nafplio Subdirectorate for the Suppression and Investigation of Crimes is
-conducting the preliminary investigation. [@1,4] Argolida24 and Argolikes Eidiseis
+conducting the preliminary investigation. [@1,4,5] Argolida24 and Argolikes Eidiseis
 carried the same police announcement, with Argolikes Eidiseis describing the
 amount only as a quantity of cannabis rather than a small quantity. [@3]
