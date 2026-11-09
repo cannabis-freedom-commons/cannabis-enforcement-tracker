@@ -64,6 +64,10 @@ sources:
     url: https://iol.co.za/news/crime-and-courts/2025-12-09-zimbabwean-nationals-remanded-in-custody-to-january-after-r12-million-dagga-bust/
     publisher: IOL
     date: 2025-12-09
+  - title: Zimbabwean duo arrested for dealing in dagga
+    url: https://www.thesouthafrican.com/news/zimbabwe/zimbabwean-duo-arrested-for-dealing-in-dagga/
+    publisher: The South African
+    date: 2025-12-06
 open_questions:
   - The R1.2 million figure is the police-estimated street value, not a confirmed market price.
   - No outcome beyond the remand to 28 January 2026 has been reported.
@@ -76,14 +80,13 @@ Zimbabwean nationals on the N2 near Mahamba at about 20:35 on 4 December 2025.
 Mutsetemari, aged 45. [@1] Both men were arrested for dealing in dagga and for
 being illegal immigrants. [@1]
 
-Officers found six big bags of compressed dagga at the back of the truck. [@1]
+Officers found six big bags of compressed dagga at the back of the truck. [@1,3]
 Police said the dagga weighed about 200 kilogrammes and had an estimated street
-value of R1.2 million. [@2] Police seized the dagga and also confiscated the
+value of R1.2 million. [@2,3] Police seized the dagga and also confiscated the
 truck for further investigation. [@1]
 
 The men told police they were travelling from Empangeni and were en route to
 Zimbabwe with dagga loaded at Tshelejuba, east of Mahamba, in KwaZulu-Natal.
 [@1] Chitsamba and Mutsetemari appeared in the Mkhondo Magistrate's Court on
 dealing in dagga charges and were remanded in custody. [@1] The duo will
-reappear in court on 28 January 2026 pending further investigation. [@1]
-
+reappear in court on 28 January 2026 pending further investigation. [@1,3]
