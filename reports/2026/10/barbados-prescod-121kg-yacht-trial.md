@@ -39,6 +39,10 @@ sources:
     url: https://loudradio.co/prescod-cannabis-trial-yacht-drugs-were-surprise
     publisher: Loud Radio
     date: 2026-10-23
+  - title: 'Prescod cannabis trial: Yacht drugs were ‘surprise’'
+    url: https://barbadostoday.bb/2026/10/23/prescod-cannabis-trial-yacht-drugs-were-surprise/
+    publisher: Barbados Today
+    date: 2026-10-23
 open_questions:
   - No verdict had been reported; the judge’s summation and jury deliberation were still scheduled for the Thursday after the 31 October 2026 publication, so that publication date is used as the incident date.
   - The exact location of the yacht within Barbados’ territorial waters was not specified beyond those waters.
@@ -47,6 +51,8 @@ open_questions:
   - The status of the two other men named aboard, Mr Rogers and Mr Herbert, was not clarified in the opened trial accounts.
   - The only page image found is captioned Jury, Court and is a generic illustration that does not show this seizure or trial, so no media entry is included.
   - Only two opened accounts of this trial stage were available, one being a republication of Barbados Today reporting, and no separate agency statement was found.
+  - The account of the offer to take the blame is Prescod's own unsworn statement from the dock and has not been tested by cross-examination or corroborated by Rogers or Herbert.
+  - No verdict from the jury is given; closing arguments were still set for the Thursday after the article's publication.
 ---
 
 A St Philip sailor accused of possessing and importing 121.4 kilogrammes of
@@ -60,22 +66,23 @@ traffickable quantity on that date. [@2] His trial is being heard before Justice
 Laurie-Ann Smith-Bovell and a nine-member jury. [@2]
 
 Prescod told the No. 4 Supreme Court that the discovery of drugs aboard the
-yacht on which he worked came as a surprise. [@2] Prescod, a sailor connected
+yacht on which he worked came as a surprise. [@2,3] Prescod, a sailor connected
 with the yacht Ecstasy, said he sailed from Barbados to Grenada for ship
-repairs. [@2] The boat then remained at the dock for six weeks before he left
+repairs. [@2,3] The boat then remained at the dock for six weeks before he left
 Grenada and returned to Barbados. [@2] He said that after six or eight days home
 in Barbados he and Mr Rogers returned to Grenada to bring the boat up, were
-joined by Mr Herbert, and the three sailed back together. [@2] He said Coast
+joined by Mr Herbert, and the three sailed back together. [@2,3] He said Coast
 Guard officers searched his belongings and then the boat in front of Mr Rogers,
 found illegal substances, and he denied knowing about them because the discovery
-was a surprise. [@2]
+was a surprise. [@2,3]
 
 Acting Director of Public Prosecutions Alliston Seale SC and acting Senior State
 Counsel Paul Prescod represent the State, while Sade Harris and Elan Greenidge
 represent Prescod. [@1] After the State closed its case Prescod opted to make an
-unsworn statement from the dock. [@2] He recalled being taken to Oistins Police
-Station where his cell phone was taken from him. [@2] Justice Smith-Bovell is
+unsworn statement from the dock. [@2,3] He recalled being taken to Oistins Police
+Station where his cell phone was taken from him. [@2,3] Justice Smith-Bovell is
 scheduled to deliver her summation on Thursday before turning the case over to
 the nine-member jury. [@1] The defence has closed its case and closing arguments
-are set for next Thursday. [@2]
+are set for next Thursday. [@2,3]
 
+Prescod, a sailor aboard the yacht Ecstasy, said Rogers offered him, in front of Mr Herbert, to take the rap so Rogers could get home, and that he agreed because the money would help pay bills while his wife was sick. [@3]
