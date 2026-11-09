@@ -43,6 +43,11 @@ media:
     media_url: https://www.mersinhaber.com/depo/haber/842160/org/842160.jpg
     publisher: Mersin Haber
     caption: Photograph published with the report on the 29 Antalya narcotics operations, captioned with the 7 kilo 981 gram esrar and 897,852-use synthetic cannabinoid seizure. No individual credit given.
+  - kind: photo
+    url: https://www.adanamasasi.com/29-operasyonda-8-kilo-esrar-ve-897-bin-852-kullanimlik-sentetik-kannabinoid-ele-gecirildi/829523/
+    media_url: https://www.adanamasasi.com/images/genel/detayfotowebp.webp
+    publisher: Adana Haber (Adana Masası)
+    caption: Lead image published with the İHA report on the 29 Antalya narcotics operations, captioned with the 8 kilo esrar and 897,852-use synthetic cannabinoid figures. No individual credit given.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 00581fd9f66f9f5e2268c95f2299ba66
@@ -68,6 +73,11 @@ sources:
     publisher: MSN / İhlas Haber Ajansı
     date: 2026-11-09
     language: tr
+  - title: 29 operasyonda 8 kilo esrar ve 897 bin 852 kullanımlık sentetik kannabinoid ele geçirildi - Asayiş - Adana Haber
+    url: https://www.adanamasasi.com/29-operasyonda-8-kilo-esrar-ve-897-bin-852-kullanimlik-sentetik-kannabinoid-ele-gecirildi/829523/
+    publisher: Adana Haber (Adana Masası) / İHA
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The sources give no calendar date for the operations, described only as the past week; 9 November 2026, the publication date of the governor's statement accounts, is used as the incident date.
   - No breakdown is given of which seizures or suspects relate to cannabis rather than the synthetic cannabinoid, cocaine, methamphetamine, heroin or pills found in the same operations.
@@ -82,22 +92,27 @@ open_questions:
   - The İHA text on the MSN page reproduces the same police statement already cited in the report, so it corroborates the account but is not independent of it.
   - The page gives no individual credit for its image, and the only image address available is a generic social-media card, so no media entry is added.
   - No calendar date for the operations is given; 9 November 2026, the date of publication, stands in for the incident date.
+  - The Adana Haber page is an İHA agency text and reproduces the same Antalya police statement, so it corroborates but is not independent of the report's other accounts.
+  - No calendar date is given for the operations beyond 'the past week'; 9 November 2026 is the publication date.
+  - The İHA text does not name the police or governor's statement it draws on.
 ---
 
 Antalya police carried out 29 separate anti-drug operations across the province
-in the past week. [@1,4] Officers caught 75 suspects in the operations. [@1,4] Of
+in the past week. [@1,4,5] Officers caught 75 suspects in the operations. [@1,4,5] Of
 the suspects brought before the courts, 24 were jailed in pre-trial custody and
 20 were released under judicial control, a set of conditions short of detention.
-[@1,4] The operations were coordinated by the provincial police narcotics branch
+[@1,4,5] The operations were coordinated by the provincial police narcotics branch
 against people and organisations trading drugs. [@2]
 
 Officers seized 7 kilograms 981 grams of esrar, the Turkish name for cannabis.
-[@1,4] The same operations found 75 kenevir plants, the Turkish word for cannabis
+[@1,4,5] The same operations found 75 kenevir plants, the Turkish word for cannabis
 plants. [@1,4] Officers also seized 228 packets holding 897,852-use doses of
-synthetic cannabinoid (A4). [@1,4] The same searches found 345 grams of cocaine,
+synthetic cannabinoid (A4). [@1,4,5] The same searches found 345 grams of cocaine,
 246 grams of methamphetamine, 98 synthetic pills, 4 grams of heroin and one
 ecstasy tablet. [@1]
 
 The figures were published in a statement by the Antalya governor's office. [@2]
 The İhlas Haber Ajansı account of the same statement reports the same week of 29
 operations with the same 7 kilograms 981 grams of esrar. [@3]
+
+The 75 cannabis plants found in the searches were recorded as kök kenevir, cannabis roots. [@5]
