@@ -58,6 +58,11 @@ sources:
     publisher: إخباري 24 نيوز
     date: 2026-11-09
     language: ar
+  - title: فحص 1094 سائقا خلال حملات الداخلية.. وضبط 45 حالة تعاطي مواد مخدرة
+    url: https://gate.ahram.org.eg/News/5981655.aspx
+    publisher: بوابة الأهرام
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The article names no substance in the 45 positive tests, so it is not established that any of them involved cannabis.
   - The article gives no separate date for the tests; 9 November 2026 is its publication date and is used as the incident date.
@@ -75,10 +80,14 @@ open_questions:
   - The page names no substance in any of the positive tests, so it does not show that any of them involved cannabis.
   - The article gives no separate date for the checks; 9 November 2026 is its publication date and is used as the incident date.
   - Its only picture is a stock traffic-campaign image whose file address dates from July 2025, captioned only with the section and time, so it is not listed as media of this event.
+  - The Ahram Gate account names no substance in the 45 positive tests, so it does not establish that any of them involved cannabis.
+  - The page gives no separate date for the checks; 9 November 2026 is its publication date and is used as the incident date.
+  - It reports no governorate breakdown, driver names, charges or prosecution decisions, and no figure for the Regional Ring Road checks recorded in the existing report.
+  - Its only picture is a stock traffic-campaign image stored in a 2018 upload folder and captioned only with the headline, so no media entry is added.
 ---
 
 Egypt's Interior Ministry said its General Traffic Directorate tested 1,094
-drivers in 24 hours and 45 tested positive for drug use. [@1,2,3,4] A parallel
+drivers in 24 hours and 45 tested positive for drug use. [@1,2,3,4,6] A parallel
 campaign on work zones along the Regional Ring Road tested 152 drivers and found
 five positive for drug use. [@1,2,3,4] Those checks took place at work zones on the
 Regional Ring Road, the ring road that runs around the edge of Greater Cairo.
@@ -92,3 +101,5 @@ for traffic offences. [@1,2,3,4] The ministry said the required legal measures h
 been taken in the recorded cases. [@1,2,3]
 
 Egypt's Interior Ministry said its traffic campaigns tested 1,061 drivers in 24 hours and 38 tested positive for drug use. [@5] In the same 24 hours the ministry recorded 106,705 traffic violations nationwide, including driving without a licence, speeding, parking at random, using a mobile phone at the wheel and breaching licence conditions. [@5] A parallel campaign in work zones along the Regional Ring Road recorded 565 violations, tested 171 drivers and found 10 positive for drug use. [@5] The same campaign detained five people wanted under eight court rulings and held three vehicles for traffic offences. [@5] This account adds that legal measures were taken against all the recorded violations and seizures, rather than only the traffic violations of the Ring Road campaign. [@5]
+
+The ministry said the checks aimed to improve road safety and cut accidents caused by unsafe driving. [@6] The ministry said legal measures were taken against the drivers whose tests came back positive. [@6]
