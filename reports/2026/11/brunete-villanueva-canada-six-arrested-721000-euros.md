@@ -117,6 +117,11 @@ sources:
     publisher: Cadena SER
     date: 2026-11-09
     language: es
+  - title: La Guardia Civil desarticula una organización criminal dedicada al tráfico de cannabis
+    url: https://www.ayto-villacanada.es/noticias/la-guardia-civil-desarticula-una-organizacion-criminal-dedicada-al-trafico-de-cannabis/
+    publisher: Ayuntamiento de Villanueva de la Cañada
+    date: 2026-11-09
+    language: es
 open_questions:
   - The articles give no separate date for the searches; 7 November 2026 is the day the Guardia Civil announced them and the other outlets' publication date, so it is used as the incident date.
   - No street value was given for the hashish and marijuana, only the cash amount seized.
@@ -136,23 +141,25 @@ open_questions:
   - Cadena SER rounds the drug weights to 7.8 kg of hashish and 1.7 kg of marijuana; the report keeps the precise 7.843 kg and 1.771 kg figures from the earlier sources.
   - Cadena SER says the force announced the operation 'this Saturday' but gives no separate date for the searches; the report retains 7 November 2026 as the incident date.
   - The page's only photo is captioned as a Guardia Civil image from an unrelated La Rioja case of a baby intoxicated by cannabis, so it is not listed as media.
+  - The notice gives no separate date for the searches; 9 November 2026 is its publication date and the report keeps 7 November 2026 as the incident date.
+  - The page photo is captioned only 'Imagen de recurso de la Guardia Civil' (a stock Guardia Civil image), so no media entry is added.
 ---
 
 The Guardia Civil, Spain's military-status national police force, said it had
 broken up a criminal organisation trafficking cannabis in Villanueva de la
-Cañada and Brunete, two towns in the Community of Madrid. [@1,3,4,5,6,7,8] Investigators
+Cañada and Brunete, two towns in the Community of Madrid. [@1,3,4,5,6,7,8,9] Investigators
 gathered indications of drug-trafficking activity in both municipalities before
 the operation, the force said in a statement issued on Saturday. [@1,6] Officers
 then searched two premises: the home in Brunete where the alleged leaders of the
 organisation lived, and a commercial unit (local) in Villanueva de la Cañada.
-[@1,3,4,5,6,7,8]
+[@1,3,4,5,6,7,8,9]
 
 Police seized 7.843 kg of hashish and 1.771 kg of marijuana, a combined 9.614
-kg, the force said. [@1,3,4,6,7] They also seized €721,000 in cash, two 12-gauge
-shotguns and five vehicles. [@1,3,4,6,7,8] The Europa Press news agency reported that the
+kg, the force said. [@1,3,4,6,7,9] They also seized €721,000 in cash, two 12-gauge
+shotguns and five vehicles. [@1,3,4,6,7,8,9] The Europa Press news agency reported that the
 five vehicles were allegedly linked to the criminal activity. [@2,5]
 
 Six people were detained as suspected perpetrators of offences against public
 health through drug trafficking, membership of a criminal organisation and money
-laundering. [@1,3,4,6,7] The six arrested people, whose names and ages were not
-published, have been handed over to the courts. [@1,5,6,7,8]
+laundering. [@1,3,4,6,7,9] The six arrested people, whose names and ages were not
+published, have been handed over to the courts. [@1,5,6,7,8,9]
