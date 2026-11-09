@@ -15,8 +15,10 @@ RUN apt-get update \
 # The repository's scripts the backend runs (photo thumbnails) need three packages, at the versions
 # of package-lock.json. Node finds them in /node_modules, a parent folder of /repo/scripts.
 COPY package-lock.json /tmp/package-lock.json
-RUN cd /tmp && npm install --prefix / --no-save --no-package-lock --no-audit --no-fund \
+RUN mkdir -p /opt/deps && cd /opt/deps && echo '{"private":true}' > package.json \
+ && npm install --no-audit --no-fund \
       $(node -p 'const p=require("/tmp/package-lock.json").packages; ["sharp","js-yaml","thumbhash"].map(n=>n+"@"+p["node_modules/"+n].version).join(" ")') \
+ && ln -s /opt/deps/node_modules /node_modules \
  && npm cache clean --force && rm /tmp/package-lock.json
 COPY --from=build /tracker /usr/local/bin/tracker
 # The container runs as the owner of the checkout (their ids from .env), so its commits and data
@@ -24,9 +26,11 @@ COPY --from=build /tracker /usr/local/bin/tracker
 # mounts their ~/.ssh.
 ARG TRACKER_UID=1000
 ARG TRACKER_GID=1000
-RUN userdel node && (getent group "$TRACKER_GID" >/dev/null || groupadd -g "$TRACKER_GID" tracker) \
- && useradd -o -u "$TRACKER_UID" -g "$TRACKER_GID" -d /home/tracker -m -s /bin/sh tracker
-USER tracker
+RUN userdel node \
+ && if [ "$TRACKER_UID" = 0 ]; then mkdir -p /home/tracker && usermod -d /home/tracker root; \
+    else (getent group "$TRACKER_GID" >/dev/null || groupadd -g "$TRACKER_GID" tracker) \
+      && useradd -o -u "$TRACKER_UID" -g "$TRACKER_GID" -d /home/tracker -m -s /bin/sh tracker; fi
+USER ${TRACKER_UID}:${TRACKER_GID}
 ENV HOME=/home/tracker
 EXPOSE 8080
 ENTRYPOINT ["tracker"]
