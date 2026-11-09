@@ -77,6 +77,11 @@ sources:
     publisher: CronacaOnline
     date: 2026-11-09
     language: it
+  - title: 卡利亚里，一名毒贩被捕：缴获一公斤可卡因
+    url: https://www.unionesarda.it/zh/%E6%92%92%E4%B8%81%E5%B2%9B/%E5%8D%A1%E5%88%A9%E4%BA%9A%E9%87%8C%E4%B8%80%E5%90%8D%E6%AF%92%E8%B4%A9%E8%A2%AB%E6%8D%95%E7%BC%B4%E8%8E%B7%E4%B8%80%E5%85%AC%E6%96%A4%E5%8F%AF%E5%8D%A1%E5%9B%A0-bu5c836x
+    publisher: L'Unione Sarda Chinese
+    date: 2026-11-09
+    language: zh
 open_questions:
   - The Carabinieri statement gives no day for the stop and searches. CronacaOnline places the operation on the day before its 9 November 2026 publication, so 8 November is used, while the other accounts give only their publication date.
   - The marijuana weight is given only as more than ten grams, or a dozen or so grams, and no weighing split between the street search and the home search was published.
@@ -87,6 +92,9 @@ open_questions:
   - La Nuova Sardegna dates the operation to 8 October 2026 in its text, which conflicts with the day-before-publication account and appears to be a typographical error.
   - The submitted Cagliaripad page carries one uncaptioned image whose filename refers to drugs in Cagliari but whose caption and credit do not confirm it shows this seizure, so only the CronacaOnline photo is listed.
   - The CronacaOnline photo shows drugs and cash captioned as seized in Cagliari by the Carabinieri, but the page gives no separate photographer or agency credit line.
+  - The Chinese edition gives the marijuana as about 10 grams, while the Italian editions give 'more than ten grams' or a dozen or so grams; the tracker keeps 10 grams.
+  - The page is an automatically translated edition of the Italian article, as its own footer states.
+  - The page has a single uncaptioned image with no alt text or credit, so it is not added as media.
 ---
 
 Carabinieri of the Cagliari company arrested a 28-year-old worker from the city,
@@ -98,7 +106,7 @@ accounts were published. [@5]
 
 A search of his person and then of his home found about one kilogram of cocaine
 packed in around thirty sealed wrappers. [@1] The same searches turned up more
-than ten grams of marijuana. [@1] ANSA places the marijuana at a dozen or so
+than ten grams of marijuana. [@1,6] ANSA places the marijuana at a dozen or so
 grams, seized along with the cocaine and 3,000 euros in cash. [@2] Officers also
 seized packaging material and more than 3,000 euros in cash in notes of various
 values, which investigators consider likely proceeds of dealing. [@3]
@@ -108,4 +116,3 @@ Cagliari-Uta, to await decisions by the judicial authority. [@1] La Nuova
 Sardegna says the man already had drug convictions on record. [@4] The operation
 was carried out during the patrols the Carabinieri run to curb drug trafficking
 and dealing in the Cagliari area. [@1]
-
