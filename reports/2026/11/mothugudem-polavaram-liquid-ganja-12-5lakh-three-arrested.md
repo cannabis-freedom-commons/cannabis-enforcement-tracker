@@ -44,6 +44,11 @@ media:
     media_url: https://www.dishadaily.com/h-upload/2026/11/09/613551-ganja.webp
     publisher: Disha Daily (దిశ)
     caption: Picture published with the Disha Daily report on the seizure of liquid ganja at Mothugudem, captioned with the story headline and naming no credit.
+  - kind: photo
+    url: https://www.hmtvlive.com/telugu-news/rajahmundry/chinturu-mothugudem-police-seize-liquid-ganja-worth-rs-125l-210998
+    media_url: https://assets.hmtvlive.com/h-upload/2026/11/09/486665-chinturu-1250-.webp
+    publisher: HMTV
+    caption: Photo published with the HMTV report on the Mothugudem liquid ganja seizure, captioned with the place name Chinturu and published the day of the event.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 7c872a2c93e53e66c680af68a1d8aced
@@ -54,6 +59,11 @@ sources:
     publisher: Disha Daily (దిశ)
     date: 2026-11-09
     language: te
+  - title: 'Chinturu: మోతుగూడెంలో రూ.12.50 లక్షల విలువైన లిక్విడ్ గంజాయి స్వాధీనం'
+    url: https://www.hmtvlive.com/telugu-news/rajahmundry/chinturu-mothugudem-police-seize-liquid-ganja-worth-rs-125l-210998
+    publisher: HMTV
+    date: 2026-11-09
+    language: te
 open_questions:
   - The article gives no weight for the liquid ganja, only a value of about Rs 12.5 lakh.
   - The article gives no date for the check or the arrests; 9 November 2026 is its publication date and stands in for the incident date.
@@ -62,6 +72,10 @@ open_questions:
   - Only one account of the seizure could be opened; no police statement or second outlet reporting this same interception was found.
   - The page image is captioned only with the story headline and no credit, so it is not confirmed to show the seizure.
   - The article does not say whether the Odisha supplier or the Uttar Pradesh receiver has been identified or arrested.
+  - HMTV gives the quantity as 1 kg and a value of Rs 12.5 lakh; the Disha Daily account recorded in the report gave the value but no weight.
+  - HMTV gives no separate date for the interception; 9 November 2026 is its publication date, the same day the earlier report used as the incident date.
+  - HMTV says the consignment came from Telerai village in Malkangiri district, Odisha, but does not say where on the route the police stopped it.
+  - No charging sections, remand or court outcome are reported for the three arrested people.
 ---
 
 Police in the Mothugudem area of Polavaram district seized a large quantity of
@@ -78,3 +92,4 @@ taken from the three. [@1] Police registered a case against the three under the
 relevant laws. [@1] Officers said they were investigating who organised the haul
 and how far the network extends. [@1]
 
+Mothugudem police seized 1 kg of liquid ganja worth Rs 12.50 lakh that they said was being moved from Odisha to Uttar Pradesh. [@2] Police said the consignment had come from Telerai village in Malkangiri district, Odisha. [@2] Mothugudem sub-inspector Abdul Nasir Hussain led the raid with his staff after police received specific information about the movement. [@2]
