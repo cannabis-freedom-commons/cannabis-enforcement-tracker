@@ -105,6 +105,11 @@ sources:
     publisher: Passauer Neue Presse (pnp.de)
     date: 2026-11-09
     language: de
+  - title: 'Hunderdorf: Zoll stellt auf der A3 über 1000 Cannabispflanzen sicher'
+    url: https://www.tvaktuell.com/hunderdorf-zoll-stellt-auf-der-a-3-1-230-cannabispflanzen-in-kleintransporter-sicher-738170/
+    publisher: TVA Ostbayern
+    date: 2026-11-09
+    language: de
 open_questions:
   - Customs does not state the driver's or passenger's nationality, only that their van was Slovak-registered and had carried the parcels from Austria.
   - 'The release recommends no arrest: the two men were allowed to continue their journey, and no detention, charges before a court or outcome is reported.'
@@ -125,32 +130,35 @@ open_questions:
   - The Passauer Neue Presse text is a regional title of the same publishing group as Wochenblatt.de and reproduces the customs office's release, so it is not independent reporting of the check.
   - The page dates the check only to "Monday of last week"; the 2 November date comes from the customs release already cited.
   - 'Left out, as its quotation was not found in Passauer Neue Presse (pnp.de): Customs officers of the Furth im Wald traffic control unit of the Regensburg main customs office seized 1,230 cannabis plants on the A3 near Hunderdorf on 2 November 2026.'
+  - The TVA Ostbayern page is credited to dpa and appears to restate the customs office's release, so it is not independent reporting of the check.
+  - 'The page''s only picture is a stock image labelled "Symbolbild / Quelle: Pixabay", not a photo of this seizure, so no media entry is added for it.'
+  - The page gives no nationality or place of origin for the two men, only that their van was Slovak-registered and had carried the parcels from Austria.
 ---
 
 Customs officers of the Furth im Wald traffic control unit of the Regensburg
 main customs office seized 1,230 cannabis plants on the A3 near Hunderdorf on 2
-November 2026. [@1,2,4,5] Customs opened criminal proceedings against the van's driver
-and his passenger on suspicion of the prohibited import of cannabis. [@1,4,6] The
+November 2026. [@1,2,4,5,7] Customs opened criminal proceedings against the van's driver
+and his passenger on suspicion of the prohibited import of cannabis. [@1,4,6,7] The
 plants had been carried from Austria into Germany in a small van. [@1]
 
 During the check of the Slovak-registered van the two men said they were
-carrying postal parcels from Austria to Germany for a logistics company. [@1,3,4] On
+carrying postal parcels from Austria to Germany for a logistics company. [@1,3,4,7] On
 the load bed officers found several parcels wrapped in black foil addressed to
-recipients in Germany, and 13 boxes held 1,230 young cannabis plants. [@1,3,4] The
+recipients in Germany, and 13 boxes held 1,230 young cannabis plants. [@1,3,4,7] The
 two men said they did not know what the parcels contained and presented a
-loading list and a lawyer's letter assessing the transport as permissible. [@1,3,5]
+loading list and a lawyer's letter assessing the transport as permissible. [@1,3,5,7]
 
 Customs judged the plants by their actual stage of development: they had already
 been planted in soil and grown into independent young plants, so officers
-classed them as seedlings (Setzlinge), which count as cannabis plants. [@1]
+classed them as seedlings (Setzlinge), which count as cannabis plants. [@1,7]
 Customs opened proceedings on suspicion of a violation of the Cannabis
 Consumption Act (Konsumcannabisgesetz) in conjunction with Bannbruch, the
 customs offence of evading import bans. [@1,4] After the measures were completed
 the two men were allowed to continue their journey, and the case was referred to
-the Regensburg public prosecutor's office for further assessment. [@1,3,5] Customs
+the Regensburg public prosecutor's office for further assessment. [@1,3,5,7] Customs
 said the import of seedlings into Germany is prohibited even from another EU
-state and regardless of the number of plants. [@1]
+state and regardless of the number of plants. [@1,7]
 
-Customs said a cutting (Steckling), a young plant or shoot without flowers or fruit, counts under the Cannabis Consumption Act as propagation material and not as cannabis. [@2] Once a cutting is planted and grows on as an independent plant it becomes a seedling (Setzling), which counts as a cannabis plant. [@2] The customs office said the label used in an online shop, an order or on a parcel does not decide the classification; the plant's actual stage of development does. [@2] Customs noted that the import ban applies to seedlings and independent plants even from another EU state and regardless of the number of plants, and that the rules letting adults grow up to three plants at home do not permit ordering plants from abroad. [@2] Customs is entitled to check consignments moved from other EU states to Germany because bans and restrictions remain for certain goods despite the free movement of goods within the European Union. [@2]
+Customs said a cutting (Steckling), a young plant or shoot without flowers or fruit, counts under the Cannabis Consumption Act as propagation material and not as cannabis. [@2] Once a cutting is planted and grows on as an independent plant it becomes a seedling (Setzling), which counts as a cannabis plant. [@2] The customs office said the label used in an online shop, an order or on a parcel does not decide the classification; the plant's actual stage of development does. [@2] Customs noted that the import ban applies to seedlings and independent plants even from another EU state and regardless of the number of plants, and that the rules letting adults grow up to three plants at home do not permit ordering plants from abroad. [@2] Customs is entitled to check consignments moved from other EU states to Germany because bans and restrictions remain for certain goods despite the free movement of goods within the European Union. [@2,7]
 
 The article credits the Regensburg main customs office for the account and publishes two customs handout photographs of the seized young plants. [@6]
