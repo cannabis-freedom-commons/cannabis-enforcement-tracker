@@ -38,6 +38,9 @@ tags: [cnb, mandatory-death-penalty, pasir-ris]
 open_questions:
   - The bureau did not publish his name out of respect for his family's wish for privacy; court and news reports identify him.
   - The opened sources do not say whether the other people with access to the rented unit were investigated further after the trial.
+  - Al Jazeera gives his age as 37 and the cannabis as about 1.5 kilogrammes, while the Central Narcotics Bureau statement and court records used in the report give 36 and 1,562.97 grams.
+  - The account of the DNA and fingerprint grounds for the review application comes from the Transformative Justice Collective campaigner, not from the judgment, which found the application an impermissible attempt to reargue the appeal.
+  - 'No media entry is added: the page photo is a file picture of the Changi Prison entrance credited to Lionel Ng/AP, not a picture of this execution.'
 sources:
   - title: S'porean man convicted of trafficking 1,562.97g of cannabis executed on May 17, 2023
     publisher: Mothership.SG
@@ -54,10 +57,14 @@ sources:
     url: https://www.elitigation.sg/gd/s/2023_SGCA_15
     archived: https://web.archive.org/web/20251008105815/https://www.elitigation.sg/gd/s/2023_SGCA_15
     date: 2023-05-16
+  - title: Singapore hangs man for trafficking 1.5kg of cannabis
+    url: https://www.aljazeera.com/news/2023/5/17/singapore-hangs-man-for-trafficking-1-5kg-of-cannabis
+    publisher: Al Jazeera
+    date: 2023-05-17
 ---
 
 Muhammad Faizal bin Mohd Shariff, 36, was hanged at dawn on 17 May 2023 at Changi Prison Complex.
-[@1] The Central Narcotics Bureau and prison service confirmed the capital sentence had been
+[@1,4] The Central Narcotics Bureau and prison service confirmed the capital sentence had been
 carried out but withheld his name at his family's request. [@1]
 
 ## Hidden in a television console
@@ -77,3 +84,5 @@ no certificate of substantive assistance. [@1,2] The Court of Appeal dismissed h
 2019. [@2] On 10 May 2023 his family learned the execution date; a review application filed on 11 May
 was dismissed on 16 May with no new evidence. [@2,3] His clemency petition failed before the
 hanging. [@1]
+
+The man was not named because his family asked for privacy. [@4] His bid to reopen the case rested on DNA evidence and fingerprints that tied him to a much smaller amount he admitted possessing. [@4]
