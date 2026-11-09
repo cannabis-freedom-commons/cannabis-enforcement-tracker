@@ -68,6 +68,10 @@ sources:
     url: https://www.kpbs.org/news/public-safety/2011/08/18/feds-bust-iraqi-mexican-drug-operation-el-cajon
     publisher: KPBS
     date: 2011-08-18
+  - title: 60 Arrested in El Cajon Weapon, Drug Ring
+    url: https://www.nbcsandiego.com/news/local/mexican-iraqi-drug-ring-busted-in-el-cajon/1905032/
+    publisher: NBC 7 San Diego
+    date: 2011-08-18
 open_questions:
   - The arrests occurred over about 10 days culminating in a late-night club search and an 18 August 2011 announcement, so 18 August 2011 is used as an approximate incident date.
   - The submitted account calls it a six-month investigation while local accounts say it began in January 2011 and a DEA release calls it a nine-month operation.
@@ -76,6 +80,10 @@ open_questions:
   - No plea, trial outcome or sentence was reported in the opened sources; the case stood at the charged stage with further arrests said to be possible.
   - The submitted page's share image is a generic restricted CBS graphic and is omitted; only the Union-Tribune photo of the club building is listed.
   - 'Left out, as its quotation was not found in Los Angeles Times: SWAT teams searched the club late on the Wednesday night before the announcement and found evidence of illegal gambling, while people inside were detained and then released.'
+  - The page states more than 60 arrests while its own text uses 60 throughout, and the existing report records 60.
+  - The methamphetamine figure of 18 pounds and the other-drug totals are mixed with cannabis quantities and are not recorded.
+  - Gun counts differ between more than 30 guns here and 34 firearms in the earlier account.
+  - No plea, trial outcome or sentencing was reported for the nine federally charged defendants.
 ---
 
 Federal and El Cajon authorities arrested about 60 people tied to an
@@ -106,3 +114,4 @@ Mexico. [@1] The DEA said Sinaloa operatives supplied the El Cajon traffickers
 with large amounts of marijuana that sold in Detroit for up to three times its
 purchase value. [@3]
 
+The club's managers were allegedly aware of the criminal activity and demanded a cut of the money. [@5]
