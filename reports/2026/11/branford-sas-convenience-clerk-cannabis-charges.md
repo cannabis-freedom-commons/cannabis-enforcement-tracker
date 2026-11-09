@@ -85,6 +85,10 @@ sources:
     url: https://www.ctpost.com/news/article/branford-smoke-shop-cannabis-seizure-22519783.php
     publisher: Connecticut Post
     date: 2026-11-08
+  - title: 'Branford smoke shop raided after tip about sales to minors; 6.5 pounds of cannabis seized: Police'
+    url: https://www.yahoo.com/news/us/articles/branford-smoke-shop-raided-tip-233957413.html
+    publisher: Yahoo News (CT Insider)
+    date: 2026-11-08
 open_questions:
   - The article gives no date for the inspection or the clerk's arrest; 8 November 2026 is its publication date and is used as the incident date.
   - The seizure weights are police approximations in pounds and include a combined category of concentrates and vape products, so no separate concentrate weight is recorded.
@@ -105,13 +109,14 @@ open_questions:
   - Its page image is a portrait of the clerk at an MSN image address with no caption confirming the scene, so no separate media entry is added.
   - This account gives the seizure as more than 6.5 pounds of cannabis, while the existing report records about 7 pounds from detailed outlet breakdowns; the report total is retained.
   - The Connecticut Post gives the cannabis seizure as more than 6.5 pounds, while the report records about 7 pounds from other outlets' breakdowns; the higher figure is retained.
+  - The CT Insider/Yahoo account gives the cannabis seizure as more than 6.5 pounds (about 2.95 kg), while the report records about 7 pounds (3.084 kg) from detailed outlet breakdowns; the report total is retained.
 ---
 
 A 33-year-old clerk at SAS Convenience Store on East Main Street in Branford,
 Connecticut, was charged with drug offences after police and state regulators
 seized cannabis products from a business not licensed to sell them. [@1,3,4]
 Branford police said they inspected the store after a resident reported that
-minors were buying marijuana products there. [@1,2,3,4,5,6,7,8] The business had previously
+minors were buying marijuana products there. [@1,2,3,4,5,6,7,8,9] The business had previously
 traded under the name ASA Smoke Shop. [@1,3,5,6,8]
 
 Police identified the clerk as Salah Kannane of Branford and charged him with
