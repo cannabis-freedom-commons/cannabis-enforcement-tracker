@@ -41,17 +41,23 @@ sources:
     url: https://www.cookislandsnews.com/uncategorised/internal/national/politics/cannabis-accused-allowed-to-travel/
     publisher: Cook Islands News
     date: 2023-06-23
+  - title: Man in possession of cannabis to face court
+    url: https://www.cookislandsnews.com/uncategorised/internal/national/crime/man-in-possession-of-cannabis-to-face-court/
+    publisher: Cook Islands News
+    date: 2023-06-21
 open_questions:
   - The article gives no weight or quantity of cannabis and does not say where in the baggage it was found.
   - Only the publication date is given for the court appearance, described as Thursday; that day is taken as the incident date, and the arrest is given only as a Saturday morning.
   - The case was to be called before the Chief Justice or a judge, but no trial court, plea, verdict or sentence is reported.
   - Only Cook Islands News published this account; no police statement or second outlet was found.
   - The country field uses New Zealand because the tracker's country registry has no Cook Islands id, as in other Rarotonga reports.
+  - The earlier article gives no weight or quantity of cannabis and does not name the flight's origin.
+  - The relationship between the two earlier medicinal-use cases mentioned by Pitt and this arrest is not explained.
 ---
 
 A passenger arriving at Rarotonga International Airport was arrested on a
 Saturday morning and later appeared in the Cook Islands Criminal Court charged
-with possession of cannabis. [@1] He appeared before Justice of the Peace John
+with possession of cannabis. [@1,2] He appeared before Justice of the Peace John
 Whitta in the Criminal Court on Thursday. [@1] The arrest followed a baggage
 check by Cook Islands Customs, and he had been remanded before being granted
 bail to appear in court. [@1]
@@ -69,3 +75,4 @@ for a bond to be put in place. [@1] Justice of the Peace Whitta adjourned the
 matter to 1 September and set a $500 surety before police would release the
 defendant's passport. [@1]
 
+Police media officer Trevor Pitt confirmed the offender will be prosecuted. [@2] Pitt said there were two previous cases where such an incident was related to medicinal use and this was handled by Customs, not police. [@2]
