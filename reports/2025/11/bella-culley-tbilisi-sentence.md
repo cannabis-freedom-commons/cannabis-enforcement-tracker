@@ -51,10 +51,14 @@ sources:
     archived: https://web.archive.org/web/20250724143711/https://www.lbc.co.uk/crime/brit-smuggling-cannabis-georgia-bella-culley/
     publisher: LBC
     date: 2025-07-24
+  - title: Why people become drug mules – and why harsh sentences don’t deter them
+    url: https://theconversation.com/why-people-become-drug-mules-and-why-harsh-sentences-dont-deter-them-258514
+    publisher: The Conversation
+    date: 2025-06-13
 ---
 
 Bella May Culley, a British citizen, was arrested at Tbilisi International Airport in 2025 with 12
-kilograms of marijuana and 2 kilograms of hashish in her luggage. [@1] Under Georgia's drug
+kilograms of marijuana and 2 kilograms of hashish in her luggage. [@1,3] Under Georgia's drug
 trafficking law she faced a possible life sentence. [@1,2] Her family had reported her missing in
 Thailand before she was found in Georgia. [@2]
 
@@ -65,3 +69,5 @@ lari and kept her in pre-trial detention. [@2]
 On 3 November 2025, Judge Giorgi Gelashvili of Tbilisi City Court found her guilty under a plea
 agreement. [@1] She was sentenced to five months and 24 days in prison, the time she had already
 spent in detention, and fined 500,000 lari (about £145,000). [@1] She was freed. [@1]
+
+Reports cited by a criminologist said she could receive up to 20 years in prison or life imprisonment in Georgia if convicted. [@3]
