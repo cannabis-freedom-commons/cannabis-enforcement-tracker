@@ -49,21 +49,28 @@ sources:
     publisher: Общественное мнение
     date: 2026-11-09
     language: ru
+  - title: В Саратове задержали женщину с 47 граммами гашиша в квартире
+    url: https://zur-saratov.ru/news/article/v-saratove-zaderjali-jenshchinu-s-47-grammami-gashisha-v-kvartire-200251/
+    publisher: Журнал Саратов
+    date: 2026-11-09
+    language: ru
 open_questions:
   - The article gives no separate date for the detention; 9 November 2026 is its publication date and is used as the incident date.
   - The article does not name the Criminal Code article under which the case was opened or the measure of restraint in legal terms beyond custody.
   - The woman's identity, the exact place of detention within the Zhasminny microdistrict and the intended buyer were not reported.
   - No court outcome is yet known; the case was at the investigation stage when the article was published.
   - A second account of the same police statement on saratov-news.ru could not be read because the page is encoded in Windows-1251, so no second source is cited.
+  - The Zhurnal Saratov article is based on material from Общественное мнение, the outlet the existing report already cites, so it may not be an independent second account.
 ---
 
 Police in Saratov detained a 40-year-old local woman in the Zhasminny
 microdistrict on suspicion of illegal drug trafficking, the regional
-headquarters of Russia's Interior Ministry said. [@1] Officers seized 47.2 grams
-of hashish in her flat. [@1]
+headquarters of Russia's Interior Ministry said. [@1,2] Officers seized 47.2 grams
+of hashish in her flat. [@1,2]
 
-The police account says the hashish was probably intended for onward sale. [@1]
-A criminal case was opened and the woman was placed in custody. [@1] The
+The police account says the hashish was probably intended for onward sale. [@1,2]
+A criminal case was opened and the woman was placed in custody. [@1,2] The
 photograph published with the account of the seizure came from the regional
 Interior Ministry headquarters. [@1]
 
+The article's material came from the outlet Общественное мнение. [@2]
