@@ -108,6 +108,11 @@ sources:
     publisher: 1188.lv (LETA)
     date: 2026-11-09
     language: lv
+  - title: 'Polis büyük bir uyuşturucu sevkiyatına el koydu: 130 kg esrar ve "kristal metamfetamin" ele geçirildi - MadeinVilnius.lt'
+    url: https://madeinvilnius.lt/tr/Haberler/Lituvos-naujienos/Polis--b%C3%BCy%C3%BCk-bir-uyu%C5%9Fturucu-sevkiyat%C4%B1na-el-koydu%3B-130-kg-esrar-ve-kristal-metamfetamin-ele-ge%C3%A7irildi./
+    publisher: MadeinVilnius.lt
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The sources give “about 130 kilograms” of cannabis rather than a measured weight, and do not say whether it was dried flower or another cannabis product.
   - No exact date is given for the searches and detentions; the operation is dated to 3 November 2026 in the police statement, while the accounts were published on 9 November.
@@ -129,27 +134,30 @@ open_questions:
   - The Latvian account gives approximately 130 kilograms and no exact measured weight.
   - It identifies the seized substance only as narcotic hemp (narkotiskās kaņepes) and does not say whether it was dried flower or another cannabis product.
   - The account dates the operation only to last week and gives no separate day for the searches.
+  - The Turkish page is a translation of an ELTA wire story and reproduces the same Vilnius county police statement already cited, so it is not independent reporting of the operation.
+  - The Turkish headline calls the 3-CMC "kristal metamfetamin", while its body correctly names 3-chloromethcathinone (3-CMC); the body text is followed and the 3-CMC is not counted as cannabis.
+  - The page's lead image is a 2023 stock police photograph credited to Karolina Gudžiūnienė, not confirmed to show this seizure, so no media entry is added.
 ---
 
 Officers of the organised-crime unit of the Vilnius county police struck a
 shadow drug-distribution network on 3 November, Vilnius county police said on
 Monday. [@2,6] After searches in Vilnius and Šiauliai, three people suspected of
 unlawful possession of a very large quantity of narcotic and psychotropic
-substances were detained. [@1,3,4,5,7]
+substances were detained. [@1,3,4,5,7,8]
 
 Police said they took about 130 kilograms of cannabis, one of the largest
 cannabis consignments in Lithuania's history. [@1,3,4,7] The searches also turned up
 about 3.5 kilograms of the psychotropic substance 3-chloromethcathinone, known
 as 3-CMC or “crystal”, and a combat firearm with ammunition, which are not
-cannabis. [@1,3,4] The substances were hidden in cars and homes and in pre-prepared
+cannabis. [@1,3,4,8] The substances were hidden in cars and homes and in pre-prepared
 caches in wooded areas, where drug handovers are suspected to have taken place.
-[@1,3,4]
+[@1,3,4,8]
 
-A court ordered the strictest measure for all three, detention in custody. [@1,3,4]
+A court ordered the strictest measure for all three, detention in custody. [@1,3,4,8]
 The pre-trial investigation concerns unlawful possession of a very large
 quantity of narcotic or psychotropic substances and unlawful possession of
 firearms and ammunition. [@1,4,7] The suspects face a prison term of 10 to 15 years
-if convicted. [@1,4] A prosecutor of the organised crime and corruption division
+if convicted. [@1,4,8] A prosecutor of the organised crime and corruption division
 of the Vilnius Regional Prosecutor's Office is leading the investigation. [@1,4]
 
 The operation took place on 3 November 2026. [@3,4]
