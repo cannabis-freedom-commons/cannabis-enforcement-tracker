@@ -57,6 +57,11 @@ sources:
     publisher: Polisia.kz
     date: 2026-11-09
     language: ru
+  - title: 'Что пряталось в белой коробке: подробности задержания близ Актау'
+    url: https://www.lada.kz/aktau_news/incidents/160552-chto-priatalos-v-beloi-korobke-podrobnosti-zaderzhaniia-bliz-aktau.html
+    publisher: Lada.kz
+    date: 2026-11-09
+    language: ru
 open_questions:
   - Neither account gives a separate date for the stop; 9 November 2026 is the publication date of both and is used as the incident date.
   - The weight is given as about 2 kg 355 g, not an exact measured figure, and police describe the substance only as preliminary suspected marijuana with no laboratory confirmation reported.
@@ -64,6 +69,9 @@ open_questions:
   - Article 297 of the Kazakh Criminal Code is cited without the part or the penalty it carries, and no court outcome was reported.
   - Both accounts derive from the same Mangystau police department statement, so they are not independent reporting.
   - The picture with the Kazlenta.kz report is a police handout credited to polisia.kz; the Polisia.kz page carries a separate handout image whose direct address could not be confirmed as showing this seizure.
+  - Lada.kz gives no day for the stop, saying only that the Qarasora and Kanal operations ran in late October 2026; the exact date of the stop is still unknown.
+  - Lada.kz states that testing showed the substance was marijuana, while the police statement cited in the existing report describes it as suspected marijuana; no laboratory report is published.
+  - The page shows a video still captioned only 'Кадр видео', and its caption does not confirm it depicts this stop or seizure, so no media entry is added.
 ---
 
 Police in Mangystau Region stopped an Opel Vectra driven by a 48-year-old man in
@@ -72,7 +80,7 @@ was part of the Qarasora and Kanal operations, run by officers of the regional
 police department's anti-narcotics and criminal police units. [@2]
 
 A search of the vehicle found two plastic packets of plant material, about 2 kg
-355 g in total, in a white box. [@1] Preliminary assessment indicated the
+355 g in total, in a white box. [@1,3] Preliminary assessment indicated the
 substance could be marijuana. [@1]
 
 A criminal case was opened under article 297 of Kazakhstan's Criminal Code. [@1]
@@ -82,3 +90,4 @@ continued. [@2]
 Drug testing found cannabinoid metabolites in the bodies of both the driver and
 his passenger, and administrative protocols were drawn up against both. [@1]
 
+The regional police department said the stop came during the Qarasora and Kanal operations, which it placed in late October 2026. [@3]
