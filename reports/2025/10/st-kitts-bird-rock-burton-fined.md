@@ -62,6 +62,10 @@ sources:
     url: http://www.police.kn/press-releases/detail/575
     publisher: Royal St. Christopher and Nevis Police Force
     date: 2025-08-28
+  - title: Dominican fined for importing marijuana
+    url: https://www.sknvibes.com/news/newsdetails.cfm/126617
+    publisher: SKNVibes
+    date: 2025-10-07
 open_questions:
   - The 2025 reports give no name or registry for Burton’s vessel, cannabis weight or cannabis-specific value.
   - The reports do not say how many other crew members were aboard or whether any were detained.
@@ -69,6 +73,9 @@ open_questions:
   - The submitted page’s only image has no caption or credit establishing that it shows this event, so no media entry is included.
   - No cannabis weight, value or vessel name was published in the charged statement or the WINNFM reprint.
   - The submitted page's only image is a headshot named for Burton without a caption or credit, so it is not established as showing the search or the seized cannabis.
+  - SKNVibes reports the amount only as “a quantity of cannabis” and gives no weight or value, so none is recorded.
+  - The existing report says Burton was a crew member detained during a search of a vessel; SKNVibes describes him only as a national of Dominica found with cannabis in his possession and does not mention a vessel or crew status.
+  - SKNVibes does not say whether the 12-month default term applies once or separately to each of the two fines.
 ---
 
 On 25 August 2025, the Anti-Narcotics Unit (ANU) of the Royal St Christopher and
@@ -87,5 +94,7 @@ On 6 October 2025, Magistrate Yasmine Clarke handed down Burton’s sentences at
 Basseterre Magistrate Court. [@2] Burton pleaded guilty to cannabis importation
 and possession with intent to supply and was fined EC$5,000 on each count,
 EC$10,000 in all, payable immediately, with 12 months’ imprisonment in default.
-[@3] Burton was convicted and cautioned on both additional customs offences.
-[@2]
+[@3,6] Burton was convicted and cautioned on both additional customs offences.
+[@2,6]
+
+Police said Burton, a national of Dominica, was found in possession of cannabis at the Deep Water Port in Bird Rock, Basseterre, on 25 August 2025. [@6]
