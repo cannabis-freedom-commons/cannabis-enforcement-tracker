@@ -28,12 +28,14 @@ details:
   products: [{product: hashish, kg: 237}]
   sentence_types: [prison]
   setting: [prison]
+  route: {from: [es], to: [fr]}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2, 3, 4]
   details.case_stage: [1, 2, 4]
   details.date_precision: [1, 2, 3, 4]
   details.products: [1, 2, 3, 4]
+  details.route: [2]
   details.sentence_types: [1, 2, 4]
   details.setting: [1, 2, 3, 4]
   figures.arrested: [1, 2, 3, 4]

@@ -30,7 +30,9 @@ details:
     setting: [vehicle]
     agencies: [Ejército Ecuatoriano (Ecuadorean Army)]
     region: Pichincha
+    route: {from: [co], to: [ec]}
 data_sources:
+    details.route: [1, 2]
     details.activity: [5]
     details.agency_types: [3]
     details.case_stage: [1, 2]

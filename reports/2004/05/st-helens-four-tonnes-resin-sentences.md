@@ -29,12 +29,14 @@ details:
     - {product: hashish}
   sentence_types: [prison]
   setting: [vehicle, prison]
+  route: {from: [nl], to: [gb]}
 data_sources:
   details.activity: [2]
   details.agency_types: [2, 1]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [2]
+  details.route: [2]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
   figures.arrested: [2, 1]

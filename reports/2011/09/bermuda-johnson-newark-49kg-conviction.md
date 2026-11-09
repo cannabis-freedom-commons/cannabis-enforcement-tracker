@@ -27,12 +27,14 @@ details:
   case_stage: convicted
   date_precision: exact
   region: Bermuda
+  route: {from: [us], to: [bm]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.charged: [1]
   figures.kg_seized: [1]

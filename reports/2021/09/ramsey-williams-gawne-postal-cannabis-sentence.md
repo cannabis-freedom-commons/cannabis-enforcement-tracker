@@ -29,12 +29,14 @@ details:
   sentence_types: [prison]
   date_precision: approximate
   region: Isle of Man
+  route: {from: [gb], to: [im]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1, 2]
+  details.route: [1]
   details.sentence_types: [1]
   details.setting: [1]
   figures.arrested: [1]

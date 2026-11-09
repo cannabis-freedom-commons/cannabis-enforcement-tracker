@@ -26,6 +26,7 @@ details:
   case_stage: investigation
   date_precision: exact
   region: Buenos Aires
+  route: {from: [es], to: [ar]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -33,6 +34,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.environment: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

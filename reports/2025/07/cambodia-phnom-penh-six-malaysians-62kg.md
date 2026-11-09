@@ -24,11 +24,13 @@ details:
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [airport]
+  route: {from: [kh], to: [gb]}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
 status: verified

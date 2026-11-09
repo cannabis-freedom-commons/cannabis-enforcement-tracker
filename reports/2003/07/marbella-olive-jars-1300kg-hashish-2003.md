@@ -23,10 +23,12 @@ details:
   setting: [building]
   products:
     - {product: hashish}
+  route: {from: [ma], to: [gb]}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [1, 2]
 status: verified

@@ -27,6 +27,7 @@ details:
   charges: [unlawful movement of drugs and psychotropics across the EAEU customs border by a group acting in prior conspiracy (article 328-1 part 2)]
   case_stage: investigation
   date_precision: publication
+  route: {from: [pl], to: [ru]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -34,6 +35,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [2]
   figures.kg_seized: [1]

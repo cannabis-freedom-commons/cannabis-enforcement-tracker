@@ -18,10 +18,12 @@ details:
   case_stage: sentenced
   products: [{product: flower}]
   setting: [airport]
+  route: {from: [kh], to: [gb]}
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 cfi_id: cambodia-cannabis-airport-sentence-2026

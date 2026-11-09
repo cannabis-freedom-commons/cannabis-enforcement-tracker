@@ -25,12 +25,14 @@ details:
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [airport, port, prison]
+  route: {from: [re], to: [mu]}
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [2]
+  details.route: [1]
   details.sentence_types: [1, 2]
   details.setting: [2, 1]
   figures.fine: [1, 2]

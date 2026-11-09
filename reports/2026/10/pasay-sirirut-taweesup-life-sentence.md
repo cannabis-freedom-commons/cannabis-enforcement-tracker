@@ -31,6 +31,7 @@ details:
   products: [{product: flower, kg: 13.16}]
   sentence_types: [life, fine]
   setting: [prison]
+  route: {from: [th], to: [ph]}
 data_sources:
   details.activity: [1, 3, 2]
   details.agencies: [1]
@@ -38,6 +39,7 @@ data_sources:
   details.case_stage: [1, 3]
   details.date_precision: [1, 3]
   details.products: [1, 2]
+  details.route: [1, 2]
   details.sentence_types: [1, 3]
   details.setting: [1, 3]
   figures.arrested: [1, 3, 2]

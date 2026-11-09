@@ -30,6 +30,7 @@ details:
   setting: [border]
   products:
     - {product: hashish}
+  route: {from: [mx], to: [bo]}
 data_sources:
   details.activity: [2, 1, 3]
   details.agencies: [1, 2, 3]
@@ -37,6 +38,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.date_precision: [2, 1, 3]
   details.products: [1]
+  details.route: [1, 3]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 3]

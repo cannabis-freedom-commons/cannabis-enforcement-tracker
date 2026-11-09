@@ -24,12 +24,14 @@ details:
   products: [{product: flower, kg: 27.6}]
   setting: [airport]
   environment: [indoor]
+  route: {from: [th], to: [in]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.environment: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

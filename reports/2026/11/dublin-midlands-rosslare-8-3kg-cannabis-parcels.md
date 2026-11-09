@@ -23,11 +23,13 @@ details:
   setting: [mail]
   case_stage: investigation
   date_precision: publication
+  route: {from: [es, be, nl, gb, in], to: [ie]}
 data_sources:
   details.activity: [2]
   details.agencies: [1]
   details.case_stage: [2]
   details.products: [1]
+  details.route: [2]
   details.setting: [2]
   figures.kg_seized: [1]
   figures.value: [1]

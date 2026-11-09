@@ -26,12 +26,14 @@ details:
     - {product: hashish}
   sentence_types: [prison, suspended]
   setting: [prison]
+  route: {from: [es], to: [pt]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.route: [1]
   details.sentence_types: [1]
   details.setting: [1]
   figures.prison: [1]

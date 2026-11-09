@@ -15,10 +15,12 @@ details:
   agency_types: [police]
   case_stage: charged
   products: [{product: flower}]
+  route: {from: [sb], to: [ki]}
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [1]
 status: verified
 cfi_id: solomon-islands-kiribati-cannabis-export-2019
 sources:

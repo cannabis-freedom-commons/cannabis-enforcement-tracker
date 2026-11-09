@@ -22,12 +22,14 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  route: {from: [sz], to: [mz]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.route: [1]
   figures.arrested: [1]
   figures.charged: [1]
   figures.kg_seized: [1]

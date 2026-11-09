@@ -17,10 +17,12 @@ details:
   case_stage: investigation
   products: [{product: flower}]
   setting: [airport]
+  route: {from: [th], to: [lk]}
 data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [2, 13, 18, 19]
   details.setting: [1]
 status: verified
 cfi_id: sri-lanka-record-kush-seizure-2026

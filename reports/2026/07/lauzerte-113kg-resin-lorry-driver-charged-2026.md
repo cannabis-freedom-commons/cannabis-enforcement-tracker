@@ -25,6 +25,7 @@ details:
   charges: [importation of narcotics, transport of narcotics, unlawful possession of narcotics, customs smuggling]
   case_stage: charged
   region: Tarn-et-Garonne
+  route: {from: [es], to: [fr]}
 data_sources:
   details.activity: [2]
   details.agencies: [2]
@@ -32,6 +33,7 @@ data_sources:
   details.case_stage: [2]
   details.charges: [2]
   details.products: [2]
+  details.route: [1, 2]
   details.setting: [2]
   figures.arrested: [1]
   figures.charged: [2]

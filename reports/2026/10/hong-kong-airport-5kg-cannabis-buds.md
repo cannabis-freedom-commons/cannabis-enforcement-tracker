@@ -32,6 +32,7 @@ details:
   products: [{product: flower, kg: 5}]
   sentence_types: [life]
   setting: [airport]
+  route: {from: [th], to: [hk]}
 
 data_sources:
   details.activity: [1]
@@ -39,6 +40,7 @@ data_sources:
   details.agency_types: [2, 3, 4, 5, 1]
   details.case_stage: [2, 3, 4, 5, 1]
   details.products: [2, 3, 4, 5, 1]
+  details.route: [1, 3, 4, 5]
   details.sentence_types: [1]
   details.setting: [2, 3, 4, 5]
   figures.arrested: [2, 3, 4, 5, 1]

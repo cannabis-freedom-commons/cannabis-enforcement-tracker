@@ -15,7 +15,10 @@ figures:
   arrested: 1
   charged: 1
   kg_seized: 2.858
+details:
+  route: {from: [jm], to: [bb]}
 data_sources:
+  details.route: [1]
   figures.arrested: [1]
   figures.charged: [1]
   figures.kg_seized: [1]

@@ -40,6 +40,7 @@ details:
   products:
     - {product: hashish}
   setting: [vehicle, home, building]
+  route: {from: [ma], to: [es]}
 
 data_sources:
   details.activity: [1, 4, 6, 9, 10, 12]
@@ -48,6 +49,7 @@ data_sources:
   details.case_stage: [6, 12, 8, 9, 10, 4]
   details.date_precision: [1, 8, 12, 3, 4, 5]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+  details.route: [1]
   details.setting: [12, 3, 5, 6, 8, 9]
   figures.arrested: [3, 8, 1, 4, 5, 7]
   figures.kg_seized: [1, 8, 11, 4]

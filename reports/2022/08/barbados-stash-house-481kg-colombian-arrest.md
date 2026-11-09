@@ -24,12 +24,14 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 481}]
   setting: [home]
+  route: {from: [tt], to: [bb]}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 3, 1]
   details.case_stage: [3, 1, 2]
   details.date_precision: [2, 3]
   details.products: [3, 1, 2]
+  details.route: [2]
   details.setting: [2, 3, 1]
   figures.arrested: [3, 1, 2]
   figures.kg_seized: [3, 1, 2]

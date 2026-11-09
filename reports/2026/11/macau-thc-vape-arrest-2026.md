@@ -22,10 +22,12 @@ details:
   case_stage: sentenced
   sentence_types: [prison]
   setting: [prison]
+  route: {from: [hk], to: [mo]}
 data_sources:
   details.activity: [2, 6, 9, 12, 3, 13]
   details.agency_types: [2, 6, 9, 12, 3, 14]
   details.case_stage: [1, 2]
+  details.route: [2, 3, 12, 13, 14]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [2, 6, 9, 12]

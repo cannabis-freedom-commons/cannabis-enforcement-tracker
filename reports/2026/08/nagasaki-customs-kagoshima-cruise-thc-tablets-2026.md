@@ -25,6 +25,7 @@ details:
   date_precision: exact
   region: Kagoshima Prefecture
   setting: [airport]
+  route: {from: [kr], to: [jp]}
 data_sources:
   details.activity: [2, 1, 3]
   details.agencies: [2]
@@ -32,6 +33,7 @@ data_sources:
   details.case_stage: [2]
   details.charges: [2]
   details.products: [2]
+  details.route: [2]
   details.setting: [1, 3]
   figures.charged: [2]
   figures.kg_seized: [2]

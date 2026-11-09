@@ -29,11 +29,13 @@ details:
   products:
     - {product: hashish}
   setting: [border, prison]
+  route: {from: [tj], to: [uz]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
   details.products: [1, 2, 6]
+  details.route: [5]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

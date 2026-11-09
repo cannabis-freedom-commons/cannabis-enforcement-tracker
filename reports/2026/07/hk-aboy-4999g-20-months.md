@@ -31,12 +31,14 @@ details:
   products: [{product: flower, kg: 4.999}]
   sentence_types: [life]
   setting: [airport]
+  route: {from: [th], to: [hk]}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.date_precision: [2, 1]
   details.products: [2, 1]
+  details.route: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.kg_seized: [2, 1]

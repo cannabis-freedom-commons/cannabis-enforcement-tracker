@@ -25,6 +25,7 @@ details:
   force: [none-reported]
   date_precision: exact
   region: Misiones
+  route: {from: [br], to: [ar]}
 data_sources:
   details.activity: [3]
   details.agencies: [1]
@@ -32,6 +33,7 @@ data_sources:
   details.case_stage: [2]
   details.force: [2]
   details.products: [1]
+  details.route: [3]
   details.setting: [3]
   figures.arrested: [1]
   figures.kg_seized: [1]

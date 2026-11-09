@@ -28,6 +28,7 @@ details:
   sentence_types: [prison]
   date_precision: publication
   region: Essex
+  route: {from: [za], to: [gb]}
 data_sources:
   details.activity: [1, 2]
   details.agencies: [2]
@@ -35,6 +36,7 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.products: [1, 2]
+  details.route: [1]
   details.sentence_types: [1]
   details.setting: [1]
   figures.cash: [1]

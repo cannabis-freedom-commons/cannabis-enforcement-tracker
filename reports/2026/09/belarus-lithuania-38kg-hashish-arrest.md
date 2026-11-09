@@ -21,10 +21,12 @@ details:
   setting: [border]
   products:
     - {product: hashish}
+  route: {from: [lt], to: [by]}
 data_sources:
   details.agency_types: [1, 2, 5, 3, 4]
   details.case_stage: [1, 2, 5, 3]
   details.products: [1, 2, 3, 5]
+  details.route: [1, 2]
   details.sentence_types: [1, 2, 5, 3]
   details.setting: [1, 2, 3]
   figures.arrested: [1, 2]

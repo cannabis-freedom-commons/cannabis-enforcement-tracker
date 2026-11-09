@@ -52,12 +52,14 @@ details:
   products:
     - {product: hashish}
   setting: [border]
+  route: {from: [sy], to: [jo]}
 data_sources:
   details.activity: [1, 3]
   details.agency_types: [2, 4, 3]
   details.case_stage: [2, 4, 3, 1]
   details.date_precision: [2, 4, 3, 1]
   details.products: [2, 3, 4]
+  details.route: [2, 4]
   details.setting: [2, 4, 3, 1]
   figures.kg_seized: [2, 4, 3, 1]
 status: verified

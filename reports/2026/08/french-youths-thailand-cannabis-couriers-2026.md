@@ -24,6 +24,7 @@ details:
   case_stage: investigation
   force: [none-reported]
   region: Thailand
+  route: {from: [th], to: [hk]}
 data_sources:
   details.activity: [3]
   details.agency_types: [1, 3]
@@ -31,6 +32,7 @@ data_sources:
   details.charges: [1]
   details.force: [3]
   details.products: [2]
+  details.route: [1]
   details.setting: [3]
   figures.arrested: [1, 2]
   figures.kg_seized: [2]

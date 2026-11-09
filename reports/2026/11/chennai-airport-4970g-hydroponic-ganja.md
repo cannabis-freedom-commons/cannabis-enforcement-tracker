@@ -24,12 +24,14 @@ details:
   products: [{product: flower, kg: 4.97}]
   setting: [airport]
   environment: [indoor]
+  route: {from: [th], to: [in]}
 data_sources:
   details.activity: [1, 5, 6, 7, 2, 3]
   details.agency_types: [1, 6, 5, 7, 2, 3]
   details.case_stage: [2, 3, 4, 5, 7]
   details.environment: [1, 6, 7]
   details.products: [1, 5, 6, 7, 2, 3]
+  details.route: [1, 5, 7]
   details.setting: [1, 2, 4, 6]
   figures.arrested: [2, 3, 4, 5, 7]
   figures.kg_seized: [1, 6, 7, 2, 3, 4]

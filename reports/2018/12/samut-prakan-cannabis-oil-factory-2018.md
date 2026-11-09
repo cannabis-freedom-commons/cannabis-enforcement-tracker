@@ -25,12 +25,14 @@ details:
   case_stage: charged
   products: [{product: hashish, kg: 76.6}]
   setting: [home, building]
+  route: {from: [th], to: [be]}
 data_sources:
   details.activity: [1]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [1, 2]
   details.products: [1]
+  details.route: [1]
   details.setting: [1, 2]
   figures.arrested: [1]
 status: verified

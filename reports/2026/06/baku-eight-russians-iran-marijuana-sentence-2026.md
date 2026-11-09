@@ -21,11 +21,13 @@ details:
   products: [{product: flower}]
   sentence_types: [prison]
   setting: [prison]
+  route: {from: [ir], to: [az]}
 data_sources:
   details.activity: [2, 3, 1]
   details.agency_types: [2, 3]
   details.case_stage: [1, 3]
   details.products: [2, 3]
+  details.route: [1, 2]
   details.sentence_types: [1, 3]
   details.setting: [1]
   figures.charged: [1, 3, 2]

@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   agency_types: [police]
   products: [{product: hashish}, {product: flower}]
+  route: {from: [ir], to: [kw]}
 data_sources:
   details.agency_types: [1]
   details.products: [1]
+  details.route: [1]
 status: verified
 cfi_id: kuwait-iran-car-hashish-2025
 sources:

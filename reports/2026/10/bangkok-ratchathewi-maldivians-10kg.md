@@ -25,11 +25,13 @@ details:
   case_stage: charged
   products: [{product: flower, kg: 10}]
   setting: [mail]
+  route: {from: [th], to: [in]}
 data_sources:
   details.activity: [1, 4, 3, 5]
   details.agency_types: [1, 5, 2, 3, 4]
   details.case_stage: [1, 4, 5, 2, 3]
   details.products: [1, 5, 2, 3, 4]
+  details.route: [4]
   details.setting: [1, 5, 2, 3, 4]
   figures.kg_seized: [1, 5, 2, 3, 4]
 status: verified

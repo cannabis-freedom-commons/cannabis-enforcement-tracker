@@ -41,11 +41,13 @@ details:
   products:
     - {product: hashish}
   setting: [prison]
+  route: {from: [np], to: [in]}
 data_sources:
   details.activity: [5, 7, 10, 8, 9, 2]
   details.agency_types: [2, 3, 4, 5, 6, 7]
   details.case_stage: [1, 4, 5, 6, 7, 8]
   details.products: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  details.route: [5]
   details.setting: [1, 4, 5, 6, 7, 8]
   figures.arrested: [2, 3, 4, 5, 6, 7]
   figures.kg_seized: [1, 4, 5, 6, 7, 8]

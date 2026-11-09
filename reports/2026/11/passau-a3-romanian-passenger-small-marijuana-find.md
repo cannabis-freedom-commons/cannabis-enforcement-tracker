@@ -11,6 +11,10 @@ also: [prosecution]
 title: Small marijuana find on Romanian passenger during A3 check near Passau
 summary: >-
   Border police on the A 3 motorway near Passau found a small amount of marijuana on a 23-year-old Romanian passenger during a check of a car travelling from the Netherlands to Romania. Officers seized the cannabis and opened an investigation against the woman because taking cannabis into and out of Germany remains punishable, then let both travellers continue.
+details:
+  route: {from: [nl], to: [ro]}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 367f6b6e8897a9e35433f7ce344e6169

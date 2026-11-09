@@ -17,9 +17,11 @@ details:
   agency_types: [coast-guard, gendarmerie, prosecutor]
   case_stage: investigation
   setting: [vehicle]
+  route: {from: [py], to: [ar]}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
+  details.route: [1]
   details.setting: [1, 2]
 media:
   - kind: photo

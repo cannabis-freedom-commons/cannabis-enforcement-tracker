@@ -25,11 +25,13 @@ details:
   case_stage: investigation
   products: [{product: flower, kg: 9241.94}]
   setting: [border]
+  route: {from: [mx], to: [us/az]}
 data_sources:
   details.agencies: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.kg_seized: [1, 2]

@@ -16,9 +16,11 @@ details:
   case_stage: investigation
   products: [{product: flower}]
   setting: [mail]
+  route: {from: [th], to: [bt]}
 data_sources:
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
 status: verified
 cfi_id: bhutan-parcel-cannabis-seizure-2026

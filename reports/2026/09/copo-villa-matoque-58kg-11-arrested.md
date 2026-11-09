@@ -19,10 +19,12 @@ details:
   case_stage: investigation
   products: [{product: flower, kg: 58}]
   setting: [field]
+  route: {from: [bo], to: [ar]}
 data_sources:
   details.agency_types: [1, 2, 3]
   details.case_stage: [1]
   details.products: [1, 2, 3]
+  details.route: [1]
   details.setting: [2, 3]
   figures.arrested: [2, 1]
   figures.kg_seized: [1, 2, 3]

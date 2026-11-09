@@ -26,12 +26,14 @@ details:
   case_stage: charged
   date_precision: exact
   products: [{product: flower, kg: 32}]
+  route: {from: [th], to: [gb]}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
   figures.arrested: [1, 2]
   figures.charged: [1, 2]
   figures.kg_seized: [1, 2]

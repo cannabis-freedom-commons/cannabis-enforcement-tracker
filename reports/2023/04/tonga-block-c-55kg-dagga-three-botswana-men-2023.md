@@ -14,7 +14,10 @@ summary: >-
 figures:
   arrested: 3
   kg_seized: 55
+details:
+  route: {from: [za], to: [bw]}
 data_sources:
+  details.route: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]
 status: verified

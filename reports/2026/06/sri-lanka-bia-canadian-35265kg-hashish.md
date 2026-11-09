@@ -25,12 +25,14 @@ details:
   setting: [airport]
   products:
     - {product: hashish}
+  route: {from: [ca], to: [lk]}
 data_sources:
   details.agencies: [1]
   details.agency_types: [1]
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1]
+  details.route: [1]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
   figures.value: [2, 1]

@@ -24,6 +24,7 @@ details:
   products:
     - {product: flower}
   setting: [mail]
+  route: {from: [us], to: [gr]}
 data_sources:
   details.activity: [2, 1, 3, 4]
   details.agency_types: [1, 2, 3, 4]
@@ -31,6 +32,7 @@ data_sources:
   details.date_precision: [3, 4, 1]
   details.environment: [2, 1]
   details.products: [1]
+  details.route: [3, 4]
   details.setting: [3, 4, 1, 2]
   figures.arrested: [3, 4, 1, 2]
   figures.kg_seized: [3, 4, 1, 2]

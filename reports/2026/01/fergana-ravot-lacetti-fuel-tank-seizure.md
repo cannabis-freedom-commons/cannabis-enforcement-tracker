@@ -33,11 +33,13 @@ details:
     - {product: flower}
     - {product: hashish}
   setting: [border, home]
+  route: {from: [tj], to: [uz]}
 data_sources:
   details.activity: [3, 2, 1]
   details.agency_types: [1, 3]
   details.case_stage: [3, 1, 2]
   details.products: [3]
+  details.route: [1]
   details.setting: [3, 2, 1]
   figures.arrested: [1, 3, 2]
 status: verified

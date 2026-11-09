@@ -21,12 +21,14 @@ details:
   products:
     - {product: flower}
   setting: [border, prison]
+  route: {from: [kg], to: [kz]}
 data_sources:
   details.activity: [2, 10, 11, 4, 1, 7]
   details.agency_types: [1, 3, 4, 5, 7, 9]
   details.case_stage: [4, 5, 8, 15, 16, 6]
   details.date_precision: [11, 14, 16, 15, 1, 3]
   details.products: [3, 4, 7, 8, 9, 10, 11]
+  details.route: [1, 3, 6, 7, 9, 13]
   details.setting: [1, 3, 4, 5, 7, 9]
   figures.arrested: [1, 3, 4, 5, 7, 9]
 status: verified

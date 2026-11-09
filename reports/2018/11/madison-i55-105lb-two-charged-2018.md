@@ -17,6 +17,10 @@ media:
     media_url: https://gray-wlbt-prod.gtv-cdn.com/resizer/v2/H6G7JI2BRNFGXJKIYCNTOAMXAI.jpg?auth=d0300fd6447eebf33a035b609b1ca668b2ea244d1356f6d010dfd1dac43d3e06&width=800&height=450&smart=true
     publisher: WLBT
     caption: 'Seized marijuana from the Madison I-55 traffic stop. Source: Madison Police Department'
+details:
+  route: {from: [us/ms], to: [gd]}
+data_sources:
+  details.route: [1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a669f333b0409c922057a841b17c846c

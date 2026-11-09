@@ -31,6 +31,7 @@ details:
   sentence_types: [prison, deportation, fine]
   force: [none-reported]
   region: Bouches-du-Rhône
+  route: {from: [es], to: [it]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -39,6 +40,7 @@ data_sources:
   details.charges: [1]
   details.force: [1]
   details.products: [1]
+  details.route: [1]
   details.sentence_types: [2]
   details.setting: [1]
   figures.arrested: [1]

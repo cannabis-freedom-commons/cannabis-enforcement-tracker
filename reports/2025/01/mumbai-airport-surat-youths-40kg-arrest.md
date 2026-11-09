@@ -25,6 +25,7 @@ details:
   environment: [indoor]
   products: [{product: flower, kg: 40}]
   setting: [airport]
+  route: {from: [th], to: [in]}
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
@@ -32,6 +33,7 @@ data_sources:
   details.date_precision: [1, 2]
   details.environment: [2, 1]
   details.products: [2, 1]
+  details.route: [1, 2]
   details.setting: [2, 1]
   figures.arrested: [2]
   figures.kg_seized: [2, 1]

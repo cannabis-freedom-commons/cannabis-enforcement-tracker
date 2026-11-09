@@ -22,11 +22,13 @@ details:
   products:
     - {product: hashish}
   setting: [port, vehicle]
+  route: {from: [ma], to: [es]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

@@ -15,8 +15,10 @@ created_by_model: unknown
 details:
   products: [{product: flower}]
   setting: [vehicle]
+  route: {from: [ir], to: [az]}
 data_sources:
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
 status: verified
 cfi_id: azerbaijan-drone-marijuana-2024

@@ -24,12 +24,14 @@ details:
   date_precision: exact
   products: [{product: flower}]
   setting: [mail]
+  route: {from: [us], to: [cn]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
 status: reported

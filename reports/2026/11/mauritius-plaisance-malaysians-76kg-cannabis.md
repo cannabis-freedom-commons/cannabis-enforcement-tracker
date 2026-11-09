@@ -46,11 +46,13 @@ details:
   case_stage: investigation
   products: [{product: flower, kg: 76}]
   setting: [airport]
+  route: {from: [th], to: [mu]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.case_stage: [1]
   details.products: [1]
+  details.route: [3, 9, 13]
   details.setting: [1]
   figures.arrested: [1]
   figures.kg_seized: [1]

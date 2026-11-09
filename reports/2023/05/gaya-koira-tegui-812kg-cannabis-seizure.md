@@ -30,11 +30,13 @@ details:
   case_stage: investigation
   date_precision: exact
   region: Dosso
+  route: {from: [bj], to: [ne]}
 data_sources:
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]
   details.products: [2]
+  details.route: [2]
   details.setting: [2]
   figures.arrested: [2]
   figures.cash: [1]

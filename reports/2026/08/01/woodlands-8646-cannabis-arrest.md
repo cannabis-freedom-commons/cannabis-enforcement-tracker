@@ -27,6 +27,7 @@ details:
   products: [{product: flower, kg: 8.646}]
   sentence_types: [death]
   setting: [port, border]
+  route: {from: [my], to: [sg], crossing: Woodlands Checkpoint}
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1, 2]
@@ -34,6 +35,7 @@ data_sources:
   details.case_stage: [1, 2]
   details.date_precision: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
   details.sentence_types: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]

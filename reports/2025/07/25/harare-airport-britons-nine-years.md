@@ -28,11 +28,13 @@ details:
   products: [{product: flower, kg: 66.415}]
   sentence_types: [prison]
   setting: [airport]
+  route: {from: [th], to: [zw]}
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
   details.case_stage: [1, 2, 3]
   details.products: [2, 3]
+  details.route: [2, 3]
   details.sentence_types: [1, 2, 3]
   details.setting: [2, 3]
   figures.kg_seized: [2, 3]

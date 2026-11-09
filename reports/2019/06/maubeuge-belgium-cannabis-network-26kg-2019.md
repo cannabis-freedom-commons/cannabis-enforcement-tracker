@@ -32,6 +32,7 @@ details:
   force: [none-reported]
   date_precision: exact
   region: Nord, Hauts-de-France
+  route: {from: [nl], to: [fr]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -40,6 +41,7 @@ data_sources:
   details.charges: [1]
   details.force: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.cash: [1]

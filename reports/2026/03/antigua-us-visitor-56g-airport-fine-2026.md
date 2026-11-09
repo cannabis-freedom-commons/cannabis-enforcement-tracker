@@ -33,6 +33,7 @@ details:
   case_stage: sentenced
   sentence_types: [fine]
   date_precision: exact
+  route: {from: [us], to: [ag]}
 data_sources:
   details.activity: [3]
   details.agencies: [1]
@@ -40,6 +41,7 @@ data_sources:
   details.case_stage: [4]
   details.charges: [3]
   details.products: [4]
+  details.route: [1, 5]
   details.sentence_types: [4]
   details.setting: [1]
   figures.arrested: [1]

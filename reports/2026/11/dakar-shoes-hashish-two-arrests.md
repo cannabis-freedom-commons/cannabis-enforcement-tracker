@@ -27,12 +27,14 @@ details:
   products:
     - {product: hashish}
   setting: [mail]
+  route: {from: [ma], to: [sn]}
 data_sources:
   details.activity: [1, 4, 7, 8, 9, 11]
   details.agency_types: [1, 4, 5, 7, 8, 9]
   details.case_stage: [1, 3, 4, 5, 6, 11]
   details.date_precision: [1, 3, 4, 5, 6, 11]
   details.products: [1, 4, 5]
+  details.route: [11]
   details.setting: [1, 3, 4, 6, 5, 7]
   figures.arrested: [1, 4, 7, 8, 9, 11]
 status: verified

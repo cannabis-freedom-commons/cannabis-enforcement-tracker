@@ -22,12 +22,14 @@ details:
   date_precision: exact
   products: [{product: flower}]
   setting: [vehicle]
+  route: {from: [al], to: [it]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.date_precision: [1]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1, 2]
 status: verified

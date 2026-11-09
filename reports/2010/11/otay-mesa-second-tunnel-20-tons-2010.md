@@ -25,12 +25,14 @@ details:
   case_stage: investigation
   products: [{product: flower, kg: 18143.7}]
   setting: [border, home, building]
+  route: {from: [mx], to: [us/ca]}
 data_sources:
   details.activity: [2, 1, 3]
   details.agencies: [3]
   details.agency_types: [3]
   details.case_stage: [1, 3]
   details.products: [1, 3]
+  details.route: [2]
   details.setting: [1, 3, 2]
 status: verified
 created_by_model: meta/muse-spark

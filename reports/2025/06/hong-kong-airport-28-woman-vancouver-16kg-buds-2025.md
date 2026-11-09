@@ -17,7 +17,10 @@ figures:
   value:
     amount: 12000000
     currency: HKD
+details:
+  route: {from: [ca], to: [hk]}
 data_sources:
+  details.route: [1, 5]
   figures.arrested: [1]
   figures.kg_seized: [1]
   figures.value: [2]

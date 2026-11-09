@@ -27,6 +27,7 @@ details:
   sentence_types: [fine]
   date_precision: exact
   region: Nkhotakota District
+  route: {from: [tz], to: [mw]}
 data_sources:
   details.activity: [1, 2]
   details.agencies: [1]
@@ -34,6 +35,7 @@ data_sources:
   details.case_stage: [3]
   details.charges: [1]
   details.products: [1]
+  details.route: [1]
   details.sentence_types: [3]
   details.setting: [1]
   figures.arrested: [1]

@@ -16,9 +16,11 @@ details:
   agency_types: [coast-guard, gendarmerie]
   products: [{product: hashish, kg: 59.41}]
   setting: [vehicle]
+  route: {from: [re], to: [mu]}
 data_sources:
   details.agency_types: [1, 2]
   details.products: [2, 1]
+  details.route: [2]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh

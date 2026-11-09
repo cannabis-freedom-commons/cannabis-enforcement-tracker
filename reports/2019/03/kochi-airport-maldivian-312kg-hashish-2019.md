@@ -25,12 +25,14 @@ details:
   activity: [smuggling]
   setting: [airport]
   case_stage: investigation
+  route: {from: [in], to: [mv, bh]}
 data_sources:
   details.activity: [2]
   details.agencies: [2]
   details.agency_types: [2]
   details.case_stage: [2]
   details.products: [2]
+  details.route: [2]
   details.setting: [2]
   figures.arrested: [2]
   figures.kg_seized: [2]

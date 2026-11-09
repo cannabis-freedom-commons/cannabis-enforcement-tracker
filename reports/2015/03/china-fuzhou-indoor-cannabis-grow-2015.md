@@ -33,6 +33,7 @@ details:
   environment: [indoor]
   products: [{product: flower, kg: 4.5128}]
   setting: [mail]
+  route: {from: [us], to: [cn]}
 data_sources:
   details.activity: [1, 2, 3]
   details.agency_types: [1, 2, 3]
@@ -40,6 +41,7 @@ data_sources:
   details.date_precision: [1, 2, 3]
   details.environment: [1]
   details.products: [1, 2]
+  details.route: [2]
   details.setting: [1, 2]
   figures.arrested: [1, 2, 3]
   figures.kg_seized: [1, 2]

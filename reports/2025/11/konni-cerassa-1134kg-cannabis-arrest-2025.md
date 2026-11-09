@@ -26,11 +26,13 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 11.34}]
   setting: [border, vehicle]
+  route: {from: [tg], to: [ne]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.date_precision: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified

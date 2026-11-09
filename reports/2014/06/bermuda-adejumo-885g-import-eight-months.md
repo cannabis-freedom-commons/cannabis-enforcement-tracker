@@ -19,7 +19,10 @@ figures:
   value:
     amount: 44250
     currency: BMD
+details:
+  route: {from: [ca], to: [bm]}
 data_sources:
+  details.route: [2]
   figures.arrested: [4]
   figures.charged: [1]
   figures.kg_seized: [2]

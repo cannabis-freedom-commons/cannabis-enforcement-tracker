@@ -33,6 +33,7 @@ details:
   period: {start: 2025-08-20, end: 2025-08-21}
   date_precision: exact
   region: Madhya Pradesh
+  route: {from: [th], to: [in]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
@@ -42,6 +43,7 @@ data_sources:
   details.environment: [1, 2, 3]
   details.period: [1]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.cash: [3]

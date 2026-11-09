@@ -18,7 +18,9 @@ details:
   setting: [airport]
   date_precision: exact
   region: Moscow Oblast
+  route: {from: [il], to: [ru]}
 data_sources:
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [2]

@@ -15,9 +15,11 @@ created_by_model: unknown
 details:
   activity: [trafficking]
   case_stage: investigation
+  route: {from: [ir], to: [ye]}
 data_sources:
   details.activity: [1]
   details.case_stage: [1]
+  details.route: [1]
 status: verified
 cfi_id: yemen-hadramout-iranians-death-2025
 sources:

@@ -32,11 +32,13 @@ details:
   products:
     - {product: hashish}
   setting: [mail]
+  route: {from: [tj, af], to: [uz]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.route: [1]
   details.setting: [1]
 status: verified
 created_by_model: swancloud/claude-haiku-5.5#xhigh

@@ -16,8 +16,10 @@ figures:
 details:
   agency_types: [police]
   setting: [port, field, street]
+  route: {from: [py], to: [ar]}
 data_sources:
   details.agency_types: [1, 2]
+  details.route: [1]
   details.setting: [1]
 media:
   - kind: photo

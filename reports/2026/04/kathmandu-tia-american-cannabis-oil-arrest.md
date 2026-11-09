@@ -19,10 +19,12 @@ details:
   products:
     - {product: oil}
   setting: [airport, vehicle]
+  route: {from: [np], to: [in]}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [2]
+  details.route: [2]
   details.setting: [1, 2]
   figures.arrested: [1, 2]
 status: verified

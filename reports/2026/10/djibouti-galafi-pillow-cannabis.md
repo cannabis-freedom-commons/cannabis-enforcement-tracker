@@ -21,10 +21,12 @@ details:
   date_precision: exact
   products: [{product: flower, kg: 4.7}]
   setting: [border]
+  route: {from: [et], to: [dj]}
 data_sources:
   details.agency_types: [1, 2, 3]
   details.date_precision: [1, 2, 3]
   details.products: [1, 2, 3]
+  details.route: [1, 2, 3]
   details.setting: [1, 2, 3]
   figures.kg_seized: [1, 2, 3]
 status: verified

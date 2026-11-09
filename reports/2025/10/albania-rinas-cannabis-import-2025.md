@@ -14,10 +14,12 @@ details:
   activity: [sale]
   agency_types: [police]
   products: [{product: flower}]
+  route: {from: [th], to: [al]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1]
   details.products: [1]
+  details.route: [1]
 status: verified
 cfi_id: albania-rinas-cannabis-import-2025
 sources:

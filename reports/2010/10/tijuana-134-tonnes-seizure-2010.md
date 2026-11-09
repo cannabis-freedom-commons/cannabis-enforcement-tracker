@@ -26,6 +26,7 @@ details:
   force: [shots-fired]
   products: [{product: flower, kg: 134000}]
   setting: [vehicle]
+  route: {from: [mx], to: [us]}
 data_sources:
   details.activity: [1, 2]
   details.agency_types: [1, 2]
@@ -33,6 +34,7 @@ data_sources:
   details.date_precision: [1, 2]
   details.force: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2]
   details.setting: [1, 2]
   figures.arrested: [2, 1]
   figures.kg_seized: [2, 1]

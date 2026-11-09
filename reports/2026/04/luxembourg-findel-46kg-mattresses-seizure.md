@@ -24,11 +24,13 @@ details:
   case_stage: investigation
   products: [{product: flower, kg: 45.86}]
   setting: [airport]
+  route: {from: [us], to: [de]}
 data_sources:
   details.activity: [3, 5, 2, 4]
   details.agency_types: [3, 5, 2, 4, 1]
   details.case_stage: [2, 4, 5, 3]
   details.products: [3, 5, 2, 4]
+  details.route: [2, 4, 5]
   details.setting: [3, 5]
   figures.kg_seized: [2, 4, 5, 3]
 status: verified

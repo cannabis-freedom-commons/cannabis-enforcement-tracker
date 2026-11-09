@@ -25,6 +25,7 @@ details:
   case_stage: investigation
   date_precision: approximate
   region: Tashkent
+  route: {from: [th], to: [uz]}
 data_sources:
   details.activity: [2]
   details.agencies: [2]
@@ -32,6 +33,7 @@ data_sources:
   details.case_stage: [2]
   details.charges: [2]
   details.products: [2]
+  details.route: [1]
   details.setting: [3]
   figures.arrested: [2]
   figures.kg_seized: [2]

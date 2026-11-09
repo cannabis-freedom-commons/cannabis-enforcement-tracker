@@ -32,12 +32,14 @@ details:
   products:
     - {product: hashish}
   setting: [airport, port, mail]
+  route: {from: [th], to: [kz]}
 data_sources:
   details.activity: [2, 1]
   details.agency_types: [2, 1]
   details.case_stage: [2, 1]
   details.date_precision: [2, 1]
   details.products: [2]
+  details.route: [1]
   details.setting: [2, 1]
   figures.kg_seized: [2, 1]
   figures.value: [2, 1]

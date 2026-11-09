@@ -16,10 +16,12 @@ details:
   case_stage: investigation
   products: [{product: flower}]
   setting: [street]
+  route: {from: [kr], to: [mo]}
 data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2]
   details.products: [1, 2]
+  details.route: [1, 2, 3]
   details.setting: [1, 2]
 status: verified
 cfi_id: macau-record-cannabis-seizure-2025

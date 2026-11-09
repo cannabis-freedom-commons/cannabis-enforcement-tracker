@@ -23,6 +23,7 @@ details:
   force: [lethal]
   products: [{product: flower, kg: 6350.29}]
   setting: [home, building]
+  route: {from: [mx], to: [us]}
 
 data_sources:
   details.activity: [1, 2, 3]
@@ -31,6 +32,7 @@ data_sources:
   details.date_precision: [2, 1]
   details.force: [3, 1, 2]
   details.products: [2, 1, 3]
+  details.route: [2, 3]
   details.setting: [1, 2, 3]
 status: verified
 created_by_model: muse-code/muse-spark-1.3#xhigh

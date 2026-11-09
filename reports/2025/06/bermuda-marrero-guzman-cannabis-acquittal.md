@@ -29,6 +29,7 @@ details:
   force: [none-reported]
   date_precision: exact
   region: Bermuda
+  route: {from: [ca], to: [bm]}
 data_sources:
   details.activity: [1]
   details.agencies: [2]
@@ -37,6 +38,7 @@ data_sources:
   details.charges: [2]
   details.force: [1]
   details.products: [2]
+  details.route: [2]
   details.setting: [2]
   figures.kg_seized: [1]
   figures.released: [1]

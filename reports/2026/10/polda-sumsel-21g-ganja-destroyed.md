@@ -29,6 +29,7 @@ details:
   date_precision: exact
   products:
     - {product: flower}
+  route: {from: [my], to: [id]}
 data_sources:
   details.activity: [1, 3]
   details.agencies: [3]
@@ -36,6 +37,7 @@ data_sources:
   details.case_stage: [2, 4, 1, 5]
   details.date_precision: [2, 4, 1]
   details.products: [1, 3]
+  details.route: [1]
   figures.arrested: [2, 4, 1, 5, 3]
 status: reported
 created_by_model: opencode-go/deepseek-v4.1-flash#max

@@ -69,6 +69,7 @@ details:
   setting: [airport]
   products:
     - {product: flower}
+  route: {from: [th], to: [ph]}
 data_sources:
   details.activity: [5, 14, 16, 6, 7, 9]
   details.agencies: [1, 2, 3, 4, 7, 8, 9, 12, 13, 15, 16]
@@ -76,6 +77,7 @@ data_sources:
   details.case_stage: [1, 2, 3, 4, 5, 6]
   details.date_precision: [1, 2, 3, 4, 7, 9]
   details.products: [1, 2, 3, 4, 7, 9, 12, 13]
+  details.route: [2, 19]
   details.setting: [1, 2, 3, 4, 5, 7, 9, 11, 12, 13, 14, 16]
   figures.arrested: [1, 2, 3, 4, 5, 6]
   figures.kg_seized: [1, 2, 15, 7, 11, 8]

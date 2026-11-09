@@ -29,11 +29,13 @@ details:
     - {product: flower}
   sentence_types: [prison]
   setting: [airport, vehicle, home]
+  route: {from: [nl], to: [gb]}
 data_sources:
   details.activity: [3]
   details.agency_types: [1, 2]
   details.case_stage: [3]
   details.products: [1, 2, 3]
+  details.route: [3]
   details.sentence_types: [3]
   details.setting: [1, 2, 3]
   figures.charged: [1, 2]

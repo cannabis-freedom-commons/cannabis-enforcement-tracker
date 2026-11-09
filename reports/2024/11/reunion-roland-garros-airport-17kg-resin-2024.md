@@ -26,11 +26,13 @@ details:
   setting: [airport]
   case_stage: investigation
   region: La Réunion
+  route: {from: [fr], to: [re]}
 data_sources:
   details.activity: [1]
   details.agency_types: [1, 4]
   details.case_stage: [4]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.arrested: [1]
   figures.charged: [1]

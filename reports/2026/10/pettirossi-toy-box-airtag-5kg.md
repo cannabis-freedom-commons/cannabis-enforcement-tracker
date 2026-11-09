@@ -25,11 +25,13 @@ details:
   agency_types: [anti-narcotics]
   products: [{product: flower, kg: 5.2}]
   setting: [airport, mail]
+  route: {from: [us], to: [py]}
 data_sources:
   details.activity: [1, 3, 2]
   details.agencies: [2]
   details.agency_types: [2]
   details.products: [1]
+  details.route: [1]
   details.setting: [1]
   figures.kg_seized: [1]
 status: verified
