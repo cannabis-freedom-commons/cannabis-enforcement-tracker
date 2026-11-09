@@ -61,12 +61,20 @@ sources:
     publisher: Poskota Sumatera
     date: 2026-11-09
     language: id
+  - title: Polres Aceh Tenggara Gagalkan Penyelundupan 11,20 Kilogram Ganja ke Sumatera Utara
+    url: https://indonesiaglobal.net/2026/11/09/polres-aceh-tenggara-gagalkan-penyelundupan-1120-kilogram-ganja-ke-sumatera-utara/
+    publisher: Indonesiaglobal.net
+    date: 2026-11-09
+    language: id
 open_questions:
   - No charges or court outcome were reported; the men had only been handed to the narcotics unit for examination and further legal proceedings.
   - The suspects were identified only by initials, age and village; full names were not released.
   - No street value or laboratory confirmation for the 11.20 kg was published.
   - Only one outlet account of this seizure could be opened, so the figures are the police account as reported by Waspada.id.
   - The two mobile phones were counted as seized evidence but no detail about their evidentiary value was given.
+  - The Indonesiaglobal account gives no charges, narcotics-law articles, estimated value or laboratory confirmation for the 11.20 kilograms beyond those already open in the report.
+  - The site describes the men's age as 31 for both, spelled out as a number, matching the initials-and-age identification already recorded.
+  - The handout photo is credited to the Southeast Aceh police public-relations unit and published by Indonesiaglobal, so it may be the same police image already listed from Waspada.id.
 ---
 
 Southeast Aceh police foiled an attempt to smuggle 11.2 kilograms of cannabis to
@@ -77,7 +85,7 @@ The men were identified only as S, 31, of Pulonas village in Babussalam, and
 D.P., 31, of Suka Makmur village in Semadam. [@1,3]
 
 Officers acted on a community tip that two people were carrying cannabis in a
-white Daihatsu Terios from Leuser village in Ketambe toward Kutacane. [@1] After
+white Daihatsu Terios from Leuser village in Ketambe toward Kutacane. [@1,4] After
 monitoring, officers stopped the car at Simpang Kuta Tinggi and detained both
 men. [@1] A search found 10 packages of cannabis with a net weight of 11.20
 kilograms, kept in a white sack and wrapped in white plastic. [@1,3] The men told
@@ -94,3 +102,5 @@ keep providing information about suspected narcotics activity. [@1]
 The joint team came from the operational unit of the criminal investigation division, the intelligence unit and the narcotics unit of the Aceh Tenggara police. [@2]
 
 Southeast Aceh police chief AKBP Rujiyanto Dwi Poernomo urged residents not to stay silent about suspicious activity linked to narcotics abuse or trafficking. [@3]
+
+Aceh Tenggara narcotics unit chief Iptu Hengki Harianto said the men admitted the 11.20 kilograms of cannabis was theirs and that it was to be taken to the Toba area of North Sumatra for distribution. [@4]
