@@ -84,3 +84,5 @@ Customs put the total value of the hashish and the vehicle at Rs239.5 million.
 [@1,2] A first information report was registered and investigators were looking
 for other members of the network, including its financial facilitators and
 intended recipients. [@1,2]
+
+Customs officials stopped the truck, registration number TKT-358, which was reportedly carrying a commercial consignment of carrots. [@1]
