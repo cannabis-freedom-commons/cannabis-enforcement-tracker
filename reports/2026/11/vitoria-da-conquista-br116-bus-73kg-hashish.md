@@ -62,6 +62,11 @@ sources:
     publisher: Polícia Rodoviária Federal
     date: 2026-11-09
     language: pt
+  - title: PRF apreende 7,3 kg de haxixe avaliados em R$ 146 mil em Conquista
+    url: https://takta.com.br/policia/prf-apreende-73-kg-de-haxixe-avaliados-em-r-146-mil-em-conquista/
+    publisher: Taktá No AR
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The weight is given as approximately 7.3 kilograms ("quase 7,3 quilos"), not an exact measured figure.
   - The 146,000 reais is the PRF's own valuation method estimate, not a sale price.
@@ -73,19 +78,18 @@ open_questions:
 Federal highway police stopped an interstate passenger bus at their post on
 BR-116 in Vitória da Conquista, in south-west Bahia, shortly before midday on
 Sunday 8 November. [@1] The bus was running the Rio de Janeiro to Natal line,
-and the check began at about 11:40. [@2] Searching the luggage hold, officers
+and the check began at about 11:40. [@2,3] Searching the luggage hold, officers
 noticed a strong smell of marijuana and traced it to a black backpack. [@1]
 
 Inside were seven packages of hashish weighing almost 7.3 kilograms, which the
-police seized. [@2] The officers identified the passenger who owned the backpack
+police seized. [@2,3] The officers identified the passenger who owned the backpack
 and asked him to get off the bus to explain. [@2] He told them he had spent four
 days on holiday in Rio de Janeiro and said he had previous records for drug
-trafficking and for using counterfeit currency. [@1]
+trafficking and for using counterfeit currency. [@1,3]
 
 Using the highway police's own valuation method for seizures, the load was
 estimated at almost 146,000 reais, described as financial damage to criminal
-organisations. [@2] Because the police treated the case as drug trafficking, the
+organisations. [@2,3] Because the police treated the case as drug trafficking, the
 passenger and the hashish were taken to the Integrated Public Security District
 of the Civil Police in Vitória da Conquista so that the arrest could be
 formalised. [@2]
-
