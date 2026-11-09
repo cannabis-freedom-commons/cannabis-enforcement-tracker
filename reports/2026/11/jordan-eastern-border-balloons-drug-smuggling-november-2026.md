@@ -50,6 +50,11 @@ sources:
     url: https://petra.gov.jo/en/news/border-guards-foil-drug-smuggling-attempt-using-balloons
     publisher: The Jordan News Agency (Petra)
     date: 2026-11-09
+  - title: المنطقة العسكرية الشرقية تحبط محاولة تهريب مواد مخدرة بواسطة بالونات موجّهة
+    url: https://alanbatnews.net/article/486022
+    publisher: الأنباط
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The sources describe only "drugs" (المواد المخدرة) and give no substance; whether any of the cargo was cannabis is not established.
   - No weight, number of balloons or street value was published.
@@ -60,18 +65,21 @@ open_questions:
   - Husna FM's page image is captioned only with the incident and date and carries no credit identifying the photographer or agency, so it is not added as media.
   - Husna FM's related-articles box lists separate Anti-Narcotics Department cases from 29 October to 8 November 2026; they are different events and are not covered here.
   - QNA says the balloons were detected at two different border locations, while the Petra statement describes a single interception and names no site; the two accounts are not reconciled.
+  - The Al-Anbat page describes only drugs (المواد المخدرة) and gives no substance, weight, balloon count or arrests, so it adds no cannabis quantities.
+  - Al-Anbat carries the same army statement as the sources already cited, so it corroborates rather than independently reports the interception.
+  - Al-Anbat's page image is captioned only with the headline and carries no credit identifying the photographer or agency, so it is not added as media.
 ---
 
 Jordan's Eastern Military Region foiled an attempt to smuggle a large quantity
-of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3,6]
+of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3,6,7]
 Border guard units spotted the balloons, brought them down inside Jordanian
-territory and seized the drugs they carried. [@1,3] The border guards acted with
+territory and seized the drugs they carried. [@1,3,7] The border guards acted with
 security and military bodies and the Anti-Narcotics Department, and the seized
-material was handed to the competent authorities for legal action. [@1,3]
+material was handed to the competent authorities for legal action. [@1,3,7]
 
 The Jordan Armed Forces said they would keep confronting infiltration and
 smuggling attempts whatever their methods in order to protect the kingdom's
-security and the safety of its citizens. [@1] Saraya News reported that the
+security and the safety of its citizens. [@1,7] Saraya News reported that the
 interception took place on Monday, 9 November 2026, matching the day given by
 Jo24. [@2]
 
@@ -79,3 +87,5 @@ It said the balloons were heading towards Jordanian territory when they were
 spotted. [@2,4]
 
 The Qatari news agency account put the balloons at two different locations on the border before they were brought down. [@5] Petra's Arabic statement says the border guard units that brought the balloons down acted within their own area of responsibility. [@4]
+
+The army statement says the balloons were detected as they were heading towards Jordanian territory. [@7]
