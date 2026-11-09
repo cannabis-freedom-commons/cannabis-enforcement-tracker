@@ -49,6 +49,11 @@ sources:
     publisher: ΑΡΓΟΛΙΚΕΣ ΕΙΔΗΣΕΙΣ
     date: 2026-11-09
     language: el
+  - title: 'Ναύπλιο: Συνελήφθη 18χρονος που απέρριψε κάνναβη στη θέα αστυνομικών'
+    url: https://www.anagnostis.org/2026/11/09/nafplio-synelifthi-18chronos-pou-aperripse-kannavi-sti-thea-astynomikon/
+    publisher: anagnostis.org
+    date: 2026-11-09
+    language: el
 open_questions:
   - The weight of the small quantity of cannabis was not published, so no kg_seized figure is recorded.
   - Only one outlet describes the amount as a small quantity; Argolikes Eidiseis calls it simply a quantity of cannabis.
@@ -56,16 +61,17 @@ open_questions:
   - The article names no street or neighbourhood in Nafplio where the arrest took place.
   - All three accounts reproduce the same police announcement and are not independent reporting; no police statement page was opened.
   - The page's lead photograph has no caption or credit and is not confirmed to show this arrest, so no media entry is included.
+  - Anagnostis reproduces the same police announcement as the outlets already cited, so it is not independent reporting.
+  - As before, no weight for the cannabis, charge, or court outcome was published.
 ---
 
 Police in Nafplio arrested an 18-year-old Greek man on the afternoon of 8
-November 2026. [@1] Officers of the Argolida motorcycle patrol group (DIAS),
+November 2026. [@1,4] Officers of the Argolida motorcycle patrol group (DIAS),
 part of the Argolida traffic police, made the arrest. [@2] Seeing the officers,
-the man threw a small quantity of cannabis to the ground. [@1] Police seized the
-cannabis. [@1]
+the man threw a small quantity of cannabis to the ground. [@1,4] Police seized the
+cannabis. [@1,4]
 
 The Nafplio Subdirectorate for the Suppression and Investigation of Crimes is
-conducting the preliminary investigation. [@1] Argolida24 and Argolikes Eidiseis
+conducting the preliminary investigation. [@1,4] Argolida24 and Argolikes Eidiseis
 carried the same police announcement, with Argolikes Eidiseis describing the
 amount only as a quantity of cannabis rather than a small quantity. [@3]
-
