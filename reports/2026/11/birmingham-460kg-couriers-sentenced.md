@@ -64,6 +64,14 @@ sources:
     url: https://www.cotswoldjournal.co.uk/news/26713165.birmingham-airport-drugs-smuggling-gang-sentenced/
     publisher: Cotswold Journal
     date: 2026-11-09
+  - title: Cornwall woman sentenced for her role in £13.8 million cannabis airport plot
+    url: https://uk.news.yahoo.com/cornwall-woman-sentenced-her-role-164755492.html
+    publisher: Yahoo News UK
+    date: 2026-11-09
+  - title: Newquay woman spared jail despite role in £13.8 million drug smuggling gang
+    url: https://www.cornwalllive.com/news/cornwall-news/newquay-woman-spared-jail-despite-11234818
+    publisher: Cornwall Live
+    date: 2026-11-09
 media:
   - kind: photo
     url: https://www.falmouthpacket.co.uk/news/26713455.cornwall-woman-sentenced-13-8m-cannabis-import-plot/
@@ -80,6 +88,7 @@ open_questions:
   - The Falmouth Packet's account of who was convicted at trial and who pleaded guilty repeats paragraphs; the NCA update gives the cleaner account that Nelson was convicted on 19 August and Clarke pleaded guilty at an earlier hearing.
   - The court's reasoning for suspending Nelson's 30-month term is not reported in either account.
   - No figure for the amount of cannabis attributable to the final two couriers alone is given; the 460 kg is the gang's total seizure.
+  - Birmingham Live gives Clarke's address as The Mile End in Walthamstow and Nelson's as Cheviot Road in Newquay; the report keeps only the towns.
 ---
 
 On 22 October 2026, Birmingham Crown Court sentenced five members of a drug-smuggling gang that
@@ -105,4 +114,4 @@ others that smuggling is not worth the risk, and thanked Border Force for findin
 NCA figures show 801 cannabis couriers caught arriving by plane in 2024, 976 in 2025, and 600 more
 arrested between January and June 2026. [@1,2]
 
-Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
+Tasia Nelson, 22, of Newquay, was sentenced to 30 months in prison suspended for three years at Birmingham Crown Court on Monday, 9 November 2026. [@3,4,5] The other defendant, Jamal Clarke, 22, of Walthamstow, London, was sentenced to 30 months in prison. [@3,4,6] The National Crime Agency described the two as the final two drugs couriers in the case. [@1]
