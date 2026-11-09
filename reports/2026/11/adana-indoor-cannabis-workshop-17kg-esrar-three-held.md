@@ -182,6 +182,11 @@ sources:
     publisher: Haberler.com
     date: 2026-11-09
     language: tr
+  - title: 'Adana''da uyuşturucu imalathanesine baskın: 3 şüpheli yakalandı'
+    url: https://www.yenialanya.com/adanada-uyusturucu-imalathanesine-baskin-3-supheli-yakalandi
+    publisher: Yeni Alanya
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -229,6 +234,9 @@ open_questions:
   - Haberler.com reproduces the same İHA account as the outlets already cited in the report, so it corroborates rather than independently reports the raid.
   - The page gives no separate date or time for the raid; 9 November 2026 is its publication date and the date of the ministry statement.
   - The page's picture is captioned and attributed only with the story headline and carries no separate photographer or agency credit, so whether it shows the workshop, the seized esrar or the operation generally is not established.
+  - A separate December 2025 Adana operation in Pozantı district, where police found 40 Indian hemp plants and 2 kilograms 774 grams of dried esrar in a villa with a similar air-conditioning system and jailed two suspects, is a different investigation and is not recorded in the tracker.
+  - Yeni Alanya credits the text to a newsroom ('Haber Merkezi') without naming an agency and reproduces the same Interior Ministry statement as the outlets already cited, so it corroborates rather than independently reports the raid.
+  - The page's lead photo is captioned only with the story headline and carries no photographer or agency credit; whether it shows the workshop, the seized esrar or the operation generally is not established, so no media entry is added.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
@@ -237,7 +245,7 @@ cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17]
+the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17,18]
 
 The three suspects were taken into custody, and the ministry named no further
 court step. [@2,9,10,12,14]
@@ -263,3 +271,5 @@ The three detained suspects were said to have been referred for judicial proceed
 The searches found a workshop where the suspects grew cannabis indoors with a purpose-built air-conditioning system. [@14]
 
 The report is credited to the ANKA news agency. [@15]
+
+The address was identified through intelligence work by Adana Provincial Gendarmerie Command teams, which assessed that narcotics were being produced and traded there. [@18] The first statement did not say whether the three suspects were remanded in custody or placed under judicial supervision. [@18] In December 2025, police had found 40 Indian hemp plants and 2 kilograms 774 grams of dried esrar in a villa in Pozantı district of Adana where a similar system was installed, and two suspects were jailed in that investigation. [@18]
