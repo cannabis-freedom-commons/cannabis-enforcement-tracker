@@ -51,6 +51,10 @@ sources:
     publisher: Le Sahel
     date: 2026-04-27
     language: fr
+  - title: Niger Police Seize 45kg of Cannabis, Arrest Two Suspects in Tamaské
+    url: https://www.seneweb.com/en/news/Afrique/niger-45-kg-de-cannabis-saisis-deux-suspects-interpelles_n_490342.html
+    publisher: Seneweb
+    date: 2026-04-22
 open_questions:
   - The names, ages, genders and nationalities of the two arrested people were not published.
   - No charges, custody decision or court outcome were reported.
@@ -59,7 +63,7 @@ open_questions:
 ---
 
 Police in Tamaské arrested two people whose cannabis seizure was presented at
-the commune police station on 22 April 2026. [@1] The presentation ceremony was
+the commune police station on 22 April 2026. [@1,3] The presentation ceremony was
 attended by Keita department prefect Captain Hamsatou Nomao. [@2] The seizure
 was carried out by officers of the Tamaské police station. [@2]
 
@@ -77,4 +81,3 @@ movements of suspicious people in order to stop supplies reaching terrorists and
 to put traffickers out of action. [@2] Tamaské canton chief Abdoulkadre Cheffou
 Touba asked young people to abandon drug trafficking. [@2] He also called on
 residents to continue cooperating with the forces. [@2]
-
