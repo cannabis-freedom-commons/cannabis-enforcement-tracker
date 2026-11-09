@@ -102,6 +102,11 @@ sources:
     publisher: Band
     date: 2026-11-09
     language: pt
+  - title: Operação apreende 4,5 toneladas de maconha e fuzil em caminhão em Ourinhos
+    url: https://www.band.com.br/nacional/sp/operacao-apreende-45-toneladas-de-maconha-e-fuzil-em-caminhao-em-ourinhos
+    publisher: Band
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No charge or court decision was reported beyond the driver's arrest in flagrante and detention at the Federal Police station in Marília.
   - The driver's name, age, route and the origin or destination of the load were not published.
@@ -120,17 +125,21 @@ open_questions:
   - The Federal Police account names no charge or court decision beyond the arrest in flagrante.
   - Band attributes the 9.1 million reais loss estimate to 'the authorities' generally, rather than specifically to the highway police as the other accounts do.
   - The Band page's lead photo carries only the credit 'Polícia Militar Rodoviária' and no caption describing what it shows; no media entry was added.
+  - Band names the road only as the rodovia Orlando Quagliato and gives no kilometre for the stop; it does not mention the SP-270 or SP-327 designations that other accounts give.
+  - The Band report reproduces the same highway-police account as the outlets already cited, so it is not an independent confirmation of the details.
+  - The Band page uses band.com.br/nacional/sp/policia-apreende-45-toneladas-de-maconha-e-fuzil-em-caminhao-em-ourinhos in its other coverage, while this copy sits at band.com.br/nacional/sp/operacao-apreende-45-toneladas-de-maconha-e-fuzil-em-caminhao-em-ourinhos; both carry the same text and photograph credit.
+  - Band's lead photo is credited only to Reprodução/SSP-SP and shows the seized cannabis and rifle, but its relation to the highway-police handout photos already linked in the report could not be checked, so no media entry is added.
 ---
 
 Highway police arrested a man in Ourinhos, São Paulo state, on the afternoon of
 Sunday 8 November 2026 after finding more than 4.5 tonnes of cannabis and a
-rifle in the truck he was driving. [@1,4,5,6] The stop was made at about 15:25 by
+rifle in the truck he was driving. [@1,4,5,6,10] The stop was made at about 15:25 by
 teams of the Tático Ostensivo Rodoviário (TOR), the military highway police's
 overt patrol unit, during Operação Impacto. [@1,7,9] Officers searched a Volvo FH
-460 truck pulling a trailer loaded with bags of meat-and-bone meal. [@1,5]
+460 truck pulling a trailer loaded with bags of meat-and-bone meal. [@1,5,10]
 
 Hidden under the legal cargo they found 5,100 tablets of cannabis weighing 4,535
-kilograms. [@1,4,5,6,7,9] A rifle of calibre 7.62 with no identifiable make, model or
+kilograms. [@1,4,5,6,7,9,10] A rifle of calibre 7.62 with no identifiable make, model or
 origin was found in the same place. [@1,4,5] The case was presented at the Federal
 Police station in Marília, and the driver, who has a criminal record, remained
 in custody. [@1,4,5,6,7,9] The operation was carried out jointly with the São Paulo and
@@ -146,8 +155,10 @@ The stop was made at about 15:30 on the Raposo Tavares highway (SP-270) in Ourin
 
 The stop was made at kilometre 28 of the SP-327, in a joint action with the São Paulo and Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO), coordinated by the Federal Police. [@5]
 
-Both the São Paulo and the Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO), an integrated anti-organised-crime task force, supported the operation. [@7]
+Both the São Paulo and the Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO), an integrated anti-organised-crime task force, supported the operation. [@7,10]
 
 The Federal Police said the operation was carried out jointly by the Paraná branch of the Força Integrada de Combate ao Crime Organizado (FICCO/PR) and the São Paulo Military Police (PM/SP). [@8] The Federal Police said the truck had left Paraná and was bound for Rio de Janeiro. [@8] The Federal Police said the rifle found with the cannabis was apparently of 7.62 calibre and had no ammunition. [@8] The FICCO in Paraná, according to the Federal Police, is made up of the Federal Police, the Paraná Military Police, the National Secretariat for Penal Policies and the Federal Highway Police. [@8]
 
-Band attributes the 9.1 million reais estimate of losses to drug trafficking to the authorities generally, rather than to the highway police. [@9]
+Band attributes the 9.1 million reais estimate of losses to drug trafficking to the authorities generally, rather than to the highway police. [@9,10]
+
+Band credits the 9.1 million real loss estimate to the highway police itself. [@10] Band reports that the case was referred to the Federal Police in Marília and that the driver, who had a criminal record, remained in custody. [@10]
