@@ -76,6 +76,11 @@ sources:
     publisher: La Tribuna de Toledo
     date: 2026-11-09
     language: es
+  - title: 'Marihuana en Olías del Rey: intervienen 1.003 plantas en una nave'
+    url: https://www.clm24.es/provincias/toledo/marihuana-olias-rey-intervienen-1003-plantas-nave/20261109112129485325.html
+    publisher: Castilla-La Mancha 24 (CLM24)
+    date: 2026-11-09
+    language: es
 open_questions:
   - 'The reports give only the months of the police steps: the investigation began in August 2026, the warehouse search took place in September and the arrest in October; 15 September is used only to place the search mid-month.'
   - No exact day for the search, the arrest or the investigation start was published.
@@ -83,26 +88,29 @@ open_questions:
   - The reports do not say whether the 1,003 plants were uprooted and destroyed or kept as evidence.
   - No charges, court appearance or custody decision after the arrest was reported.
   - ABC gives the buds as nearly 100 kilograms, against the 100 grams previously read from ENCLM; the sources do not reconcile the two and the report keeps the earlier figure pending a police statement.
+  - CLM24 says about 100 kilograms of buds were removed, matching ABC but not ENCLM, whose 100 grams the report still uses; the two figures remain unreconciled.
 ---
 
 Spain's National Police dismantled a cannabis plantation in the industrial
 estate of Olías del Rey, Toledo province, and arrested the man accused of
-running it in the nearby town of Illescas. [@1,4,5] He was held on suspicion of drug
+running it in the nearby town of Illescas. [@1,4,5,6] He was held on suspicion of drug
 trafficking and of defrauding the electricity supply. [@1,4,5] The National Police
 said the arrest took place in Illescas. [@2]
 
 Officers began the investigation in August after information pointed to a
 cannabis crop somewhere in the industrial estate of Olías del Rey. [@1,5] They
 searched the warehouse in September and seized 1,003 cannabis plants. [@1,3,4,5] About
-100 grams of cannabis buds were also taken out of the illegal market. [@1]
+100 grams of cannabis buds were also taken out of the illegal market. [@1,6]
 Nobody was inside the unit during the search, and the investigation continued
 until the suspect was identified. [@1,5]
 
 Those running the crop had built a sealed, climate-controlled partition of
-plasterboard inside the industrial building to optimise plant growth. [@1,5]
+plasterboard inside the industrial building to optimise plant growth. [@1,5,6]
 Police also found an illegal hook-up to the public power grid, used to avoid the
-cost of the large amount of electricity the plantation demanded. [@1,3,5]
+cost of the large amount of electricity the plantation demanded. [@1,3,5,6]
 
 ABC reports that officers found nearly 100 kilograms of cannabis buds already prepared for distribution in the illicit market. [@4] Nobody connected with the crop was inside the industrial unit when officers searched it, and the investigation stayed open to identify those responsible. [@4]
 
 The suspect was identified and arrested in Illescas in October, the police month given for that step. [@5]
+
+Officers searched the warehouse in September and seized the 1,003 plants, then identified and arrested the suspect in October, the Toledo provincial police station said. [@6]
