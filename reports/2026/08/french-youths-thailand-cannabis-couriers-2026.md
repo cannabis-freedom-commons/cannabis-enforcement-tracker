@@ -61,6 +61,11 @@ sources:
     publisher: BFMTV
     date: 2026-08-11
     language: fr
+  - title: 'Thaïlande : 11 Français incarcérés depuis le début de l’été pour transport de cannabis'
+    url: https://www.lejdd.fr/International/thailande-11-francais-incarceres-depuis-le-debut-de-lete-pour-transport-de-cannabis-180984
+    publisher: Le Journal du Dimanche
+    date: 2026-08-11
+    language: fr
 open_questions:
   - The total is reported as "at least eleven" in Thailand; the individual arrests, airports and dates for those eleven were not published in the opened accounts.
   - The 16.8 kilograms is the cannabis weight found in one Hong Kong suitcase, reported by a relative to AFP; no total weight for the eleven Thailand cases was published.
@@ -77,7 +82,7 @@ open_questions:
 At least eleven young French nationals have been held in Thailand on cannabis
 trafficking accusations since the start of summer 2026. [@1] Thai customs
 officers found cannabis in their luggage at airports and handed them to the Thai
-police, who placed them in pre-trial detention to await a judge. [@3] Their
+police, who placed them in pre-trial detention to await a judge. [@3,5] Their
 luggage held several kilograms of cannabis, according to a police source cited
 by BFMTV. [@4] Two more French nationals were held in Hong Kong after arriving
 from Thailand and being stopped in transit with cannabis in suitcases. [@1]
@@ -96,7 +101,7 @@ organised crime, said it had investigations under way into the "plans Thaïlande
 recruitment. [@1] Recruiters publish advertisements on apps such as Snapchat
 offering fully paid holidays in Thailand in exchange for bringing a suitcase
 back to Europe that supposedly holds phones but in reality holds 10 to 20 kg of
-cannabis, the Pnaco said. [@1] The Pnaco said its aim was to identify those
+cannabis, the Pnaco said. [@1,5] The Pnaco said its aim was to identify those
 behind the operation and the networks, and to understand how the young people
 were recruited. [@1]
 
@@ -108,3 +113,4 @@ of one Hong Kong detainee said he thought he had been recruited online to bring
 smartphones back for a French company in exchange for free holidays and pay of
 up to 3,000 euros. [@1]
 
+Those who do not pay can be taken into custody and held awaiting trial, and face between two and ten years in prison. [@5] Before mid-June 2026, travellers stopped with cannabis had the goods confiscated and were allowed to leave. [@5]
