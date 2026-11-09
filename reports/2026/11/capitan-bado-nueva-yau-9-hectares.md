@@ -62,24 +62,37 @@ sources:
     publisher: La Nación
     date: 2026-11-05
     language: es
+  - title: Senad destruye más de nueve hectáreas de marihuana y campamentos en Capitán Bado
+    url: https://www.ultimahora.com/senad-destruye-mas-de-nueve-hectareas-de-marihuana-y-campamentos-en-capitan-bado
+    publisher: Última Hora
+    date: 2026-11-05
+    language: es
+  - title: SENAD destruye nueve hectáreas de marihuana y 450 kilos de droga picada en Capitán Bado
+    url: https://radiooasisfm.com/senad-destruye-nueve-hectareas-de-marihuana-y-450-kilos-de-droga-picada-en-capitan-bado.html
+    publisher: Radio Oasis 94.3 FM
+    date: 2026-11-05
+    language: es
 open_questions:
   - No arrests were named in the opened reports; investigations were said to be continuing.
   - The articles give no separate raid date beyond the 5 November 2026 publications, so the publication date stands in for the event date.
+  - Última Hora, published on 5 November 2026, says the destruction happened "este jueves" (this Thursday), while Radio Oasis dates the search to the morning of Wednesday 4 November 2026; the report uses 4 November.
+  - The number of cannabis plants on the nine hectares was not published in either account.
 ---
 
 Agents of SENAD's Pedro Juan Caballero regional office raided a rural property
-in Colonia Nueva Yaú, Capitán Bado, Amambay. [@1] Local agents carried out the
+in Colonia Nueva Yaú, Capitán Bado, Amambay. [@1,3] Local agents carried out the
 raid with the support of SENAD Special Forces. [@1] The operation was led by
 anti-drug prosecutor Sarita Bonzi. [@2] Investigations were continuing to
 identify those responsible and bring them before the courts. [@1]
 
 Agents found three parcels of growing cannabis covering 9 hectares. [@2] They
-found 450 kilos of chopped marijuana packed in 15 bags of 30 kilos each. [@1]
-They also found 15 kilos of cannabis seeds. [@1] They dismantled five precarious
-camps used by the growers. [@2] They seized a homemade industrial sieve used to
+found 450 kilos of chopped marijuana packed in 15 bags of 30 kilos each. [@1,3]
+They also found 15 kilos of cannabis seeds. [@1,3] They dismantled five precarious
+camps used by the growers. [@2,3] They seized a homemade industrial sieve used to
 process the drug. [@2]
 
 By judicial order, all the evidence was destroyed and incinerated on site after
-samples were taken for custody and laboratory analysis. [@2] Senad is Paraguay's
+samples were taken for custody and laboratory analysis. [@2,3] Senad is Paraguay's
 Secretaría Nacional Antidrogas, the national anti-drug agency. [@1]
 
+During the intervention, the anti-drug agents located three plots of alleged cannabis in the growth stage, totalling a surface area of nine hectares. [@4] The procedure began at around 07:10 in the morning and was handled by special agents of SENAD's Regional Department No. 1, based in Pedro Juan Caballero, accompanied by members of the institution's Special Forces. [@4] According to the official report, no people were reported detained during the intervention. [@4]
