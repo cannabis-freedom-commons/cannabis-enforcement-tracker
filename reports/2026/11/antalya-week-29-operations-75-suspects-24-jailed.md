@@ -63,6 +63,11 @@ sources:
     publisher: Habertürk Yerel Haberler
     date: 2026-11-09
     language: tr
+  - title: 29 operasyonda 8 kilo esrar ve 897 bin 852 kullanımlık sentetik kannabinoid ele geçirildi
+    url: https://www.msn.com/tr-tr/haber/turkiye/29-operasyonda-8-kilo-esrar-ve-897-bin-852-kullan%C4%B1ml%C4%B1k-sentetik-kannabinoid-ele-ge%C3%A7irildi/ar-AA2h4Kmh
+    publisher: MSN / İhlas Haber Ajansı
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The sources give no calendar date for the operations, described only as the past week; 9 November 2026, the publication date of the governor's statement accounts, is used as the incident date.
   - No breakdown is given of which seizures or suspects relate to cannabis rather than the synthetic cannabinoid, cocaine, methamphetamine, heroin or pills found in the same operations.
@@ -74,23 +79,25 @@ open_questions:
   - The synthetic cannabinoid figure is counted in use doses rather than weight, so it cannot be recorded as a cannabis quantity and is excluded.
   - The submitted page credits İhlas Haber Ajansı while the Anadolu Ajansı account carried by Haberler.com and Habertürk gives the same figures from the governor's statement; the two agencies are not independent of that statement.
   - The submitted page's photo is captioned only with the operation and seizure figures, with no confirmed description of what it depicts.
+  - The İHA text on the MSN page reproduces the same police statement already cited in the report, so it corroborates the account but is not independent of it.
+  - The page gives no individual credit for its image, and the only image address available is a generic social-media card, so no media entry is added.
+  - No calendar date for the operations is given; 9 November 2026, the date of publication, stands in for the incident date.
 ---
 
 Antalya police carried out 29 separate anti-drug operations across the province
-in the past week. [@1] Officers caught 75 suspects in the operations. [@1] Of
+in the past week. [@1,4] Officers caught 75 suspects in the operations. [@1,4] Of
 the suspects brought before the courts, 24 were jailed in pre-trial custody and
 20 were released under judicial control, a set of conditions short of detention.
-[@1] The operations were coordinated by the provincial police narcotics branch
+[@1,4] The operations were coordinated by the provincial police narcotics branch
 against people and organisations trading drugs. [@2]
 
 Officers seized 7 kilograms 981 grams of esrar, the Turkish name for cannabis.
-[@1] The same operations found 75 kenevir plants, the Turkish word for cannabis
-plants. [@1] Officers also seized 228 packets holding 897,852-use doses of
-synthetic cannabinoid (A4). [@1] The same searches found 345 grams of cocaine,
+[@1,4] The same operations found 75 kenevir plants, the Turkish word for cannabis
+plants. [@1,4] Officers also seized 228 packets holding 897,852-use doses of
+synthetic cannabinoid (A4). [@1,4] The same searches found 345 grams of cocaine,
 246 grams of methamphetamine, 98 synthetic pills, 4 grams of heroin and one
 ecstasy tablet. [@1]
 
 The figures were published in a statement by the Antalya governor's office. [@2]
 The İhlas Haber Ajansı account of the same statement reports the same week of 29
 operations with the same 7 kilograms 981 grams of esrar. [@3]
-
