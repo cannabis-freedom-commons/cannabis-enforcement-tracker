@@ -111,6 +111,11 @@ sources:
     publisher: La Voz de Medina
     date: 2026-11-09
     language: es
+  - title: Detenido un joven en Burgos por maltrato animal y por cultivar marihuana
+    url: https://eladelantado.com/castilla-leon/2026/11/09/detenido-un-joven-en-burgos-por-maltrato-animal-y-por-cultivar-marihuana/
+    publisher: El Adelantado de Segovia
+    date: 2026-11-09
+    language: es
 open_questions:
   - The accounts give no date for the inspection or the arrest; 9 November 2026 is the publication date of the Guardia Civil statement and is used as the incident date.
   - The municipality is named only as a village in the Alfoz de Burgos district, so the coordinates mark the district and not the plot.
@@ -128,6 +133,9 @@ open_questions:
   - The 22 kilograms is described as the fresh green weight of the whole plants, not dried cannabis, and no dried weight is given.
   - La Voz de Medina does not name the municipality where the plot lay, nor the exact date of the inspection or arrest; 9 November 2026 is its publication date.
   - The outlet says the Guardia Civil has not confirmed that cockfights were held on the property, and it reports no later court situation for the detainee.
+  - El Adelantado credits the account to the Subdelegación del Gobierno and to Guardia Civil statement material, so it is not independent reporting of the arrest.
+  - The article gives no separate date for the inspection or the arrest; 9 November 2026 is its publication date and is already used as the incident date in the existing report.
+  - The page photo is captioned as the eight mutilated cocks found by Seprona, with no named photographer and no credit line.
 ---
 
 Guardia Civil officers arrested a 24-year-old man in a municipality of the Alfoz
@@ -141,7 +149,7 @@ and waste and showing signs of irregular care of the animals kept there. [@1,5]
 
 Officers from Seprona, the Guardia Civil's nature-protection service, and from
 the judicial police of the Burgos command carried out a joint on-site
-inspection. [@2,5] In the greenhouses on the property they found six Cannabis
+inspection. [@2,5,7] In the greenhouses on the property they found six Cannabis
 sativa plants in an advanced stage of growth and more than two metres tall,
 which weighed 22 kilograms green. [@2,4,5,6] Burgosconecta reported that the plants
 grew directly in the ground, appeared to be tended, and were seized during the
@@ -156,7 +164,7 @@ the required vaccination or deworming. [@2] They found birdlime, an adhesive
 used to trap birds, which is a prohibited means of catching game. [@1,5]
 
 The proceedings ended with officers drawing up formal complaints and sending the
-case file to the courts of the provincial capital, Burgos. [@1,4,5]
+case file to the courts of the provincial capital, Burgos. [@1,4,5,7]
 
 The owner had no legal register for a poultry holding and kept dogs without the required vaccination or deworming. [@4]
 
