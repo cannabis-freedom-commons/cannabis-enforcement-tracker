@@ -13,30 +13,30 @@ summary: >-
   NDLEA officers at Lagos airport found 1.20 kilogrammes of cannabis in two of nine parcels hidden in cartons of snacks from the United Kingdom, and arrested a 51-year-old freight agent who came to clear them. The other seven parcels held chemicals for making synthetic cannabis, and a sting in late October 2026 led to a second arrest.
 figures:
   arrested: 1
-  kg_seized: 22.2
+  kg_seized: 1.2
 details:
   agencies: [ng-ndlea]
   agency_types: [anti-narcotics, other]
   products:
-    - {product: flower, kg: 22.2}
+    - {product: flower, kg: 1.2}
   activity: [smuggling]
   setting: [airport, mail]
   case_stage: investigation
   force: [none-reported]
   date_precision: exact
   region: Lagos State
-  route: {from: [ng], to: [gb]}
+  route: {from: [gb], to: [ng]}
 data_sources:
   details.activity: [1]
   details.agencies: [1]
   details.agency_types: [1, 2]
   details.case_stage: [1]
   details.force: [1]
-  details.products: [1]
-  details.route: [1]
+  details.products: [2]
+  details.route: [2]
   details.setting: [1, 2]
   figures.arrested: [1]
-  figures.kg_seized: [1]
+  figures.kg_seized: [2]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3ecf102f09fb98825fbdff9aa6b0c3eb

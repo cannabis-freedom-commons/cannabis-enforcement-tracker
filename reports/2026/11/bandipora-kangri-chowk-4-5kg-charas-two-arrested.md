@@ -8,17 +8,17 @@ coordinates: [34.4225, 74.6389]
 precision: locality
 type: arrest
 also: [seizure]
-title: Two held with 4–5 kg of charas-like substance in Bandipora checkpoint
+title: Two held with about 4.5 kg of charas-like substance in Bandipora
 summary: >-
-  Bandipora police arrested four men in two separate checkpoint stops, recovering about 4–5 kg of a charas-like substance at Kangri Chowk and about 1.5 kg more at Garoora Crossing, roughly 6.5 kg in all. Both pairs were booked under the NDPS Act and police said they were investigating where the substance came from and who else was involved.
+  Bandipora police arrested Irfan Ahmad Chopan and Imran Ahmad Sheikh at a Kangri Chowk checkpoint and recovered a charas-like substance that Daily Excelsior and The Print put at about 4.5 kg. Police registered FIR No. 181/2026 at Police Station Bandipora; the district police post had given the weight as approximately 4–5 kg.
 figures:
-  arrested: 4
-  kg_seized: 6.5
+  arrested: 2
+  kg_seized: 4.5
 details:
   agencies: [Jammu and Kashmir Police]
   agency_types: [police]
   products:
-    - {product: hashish}
+    - {product: hashish, kg: 4.5}
   activity: [trafficking, possession]
   setting: [street]
   charges: ['sections 8, 20 and 29 of the NDPS Act (FIR No. 181/2026, Police Station Bandipora)']
@@ -33,10 +33,10 @@ data_sources:
   details.case_stage: [1]
   details.charges: [1]
   details.force: [1]
-  details.products: [1]
+  details.products: [3, 4]
   details.setting: [1]
   figures.arrested: [1]
-  figures.kg_seized: [1]
+  figures.kg_seized: [3, 4]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 16ee983ad450c4b569fa829dc23d5bad
@@ -63,8 +63,10 @@ sources:
     publisher: Kashmir Reader
     date: 2026-11-08
 open_questions:
-  - The day's two Bandipora cases together were reported as approximately 6.5 kg; the Kangri Chowk recovery is given only as a range of approximately 4–5 kg, so the Kangri weight cannot be stated exactly.
+  - The district police post gave the Kangri Chowk recovery as approximately 4–5 kg, while Daily Excelsior and The Print said approximately 4.5 kg; the report uses 4.5 kg and keeps the police range.
   - No laboratory confirmation that the substance was cannabis was published; police describe it only as a charas-like substance.
+  - The same day's stop at Garoora Crossing, with Rafaqat Ali Gojar and Zakir Hussain Qureshi and about 1.5 kg under FIR No. 72/2026, is a separate case with its own report.
+  - Kashmir Reader's count of 14 arrests across Bandipora, Anantnag, Baramulla, Handwara and Shopian covers other operations and is not added to this case.
   - No date is stated for the stop beyond the police post of 6 November and the Saturday statement; 6 November 2026 is used as the incident date.
   - No ages, measure of restraint, charge sheet or court outcome were reported; the case was at the investigation stage.
   - The KIMS article reproduces the police account published on the district police's social media post, so the two are not independent reporting; the PTI copy could not be opened.
@@ -82,29 +84,19 @@ open_questions:
   - Only this one account of the combined roundup was found; searches returned no other outlet carrying the same 14-arrest text.
 ---
 
-Police in Bandipora district arrested four people in two separate narcotics
-cases, one at Kangri Chowk and one at Garoora Crossing, and recovered
-approximately 6.5 kg of a charas-like substance between them. [@1,3,4]
+Police in Bandipora district stopped Irfan Ahmad Chopan, son of Fayaz Ahmad
+Chopan, of Bagh in Bandipora, and Imran Ahmad Sheikh, son of the late Ali Mohd
+Sheikh, of Sheikh Mohalla in Bandipora, during a naka checking at Kangri Chowk.
+[@1] Kashmir Independent Media Service said officers recovered approximately 4–5
+kg of a charas-like substance from the two men. [@1] Bandipora police posted that
+"during naka checking at Kangri Chowk" they apprehended two persons and recovered
+approximately 4–5 kg of charas-like substance. [@2]
 
-At Kangri Chowk, officers stopped Irfan Ahmad Chopan, a resident of Bagh in
-Bandipora, and Imran Ahmad Sheikh, a resident of Sheikh Mohalla in Bandipora,
-during a naka checking, a police checkpoint, and found roughly 4 kg to 5 kg of
-the substance on them. [@1] Bandipora police said "during naka checking at
-Kangri Chowk" they apprehended two persons and recovered approximately 4–5 kg of
-charas-like substance. [@2] Police registered FIR No. 181/2026 under sections 8,
-20 and 29 of the NDPS Act at Police Station Bandipora over the Kangri Chowk
-recovery. [@1]
+Daily Excelsior and The Print, both carrying the police account, put that Kangri
+Chowk recovery at approximately 4.5 kg. [@3,4] Police registered FIR No. 181/2026
+under sections 8, 20 and 29 of the NDPS Act at Police Station Bandipora. [@1,5]
+Police said they had begun an investigation to establish where the substance
+came from, where it was going and who else was involved. [@1,3]
 
-The KIMS roundup reporting the two cases was published on 7 November 2026, a
-Saturday. [@1]
-
-In a second case on the same day, police at Garoora Crossing stopped Rafaqat Ali
-Gojar of Halwadi, Aragam, and Zakir Hussain Qureshi of Chapran, Aragam, with
-approximately 1.5 kg of the same substance, registering FIR No. 72/2026 at
-Police Station Aragam. [@1] Police said they had begun investigations in both
-cases to establish where the substance came from, where it was going and who
-else was involved in the trade. [@1]
-
-Police gave the Kangri Chowk recovery as approximately 4.5 kg where the existing account recorded a 4–5 kg range. [@3] Police registered two separate cases and said they were investigating further links and the source and intended destination of the substance. [@3]
-
-Police said the 14 arrests were made in five districts of Jammu and Kashmir: Bandipora, Anantnag, Baramulla, Handwara and Shopian. [@5] Across the five districts police reported the recovery of charas-like substances, heroin, a bhang-like substance and ₹31,500 in cash. [@5] The Bandipora police registered FIR No. 181/2026 under sections 8, 20 and 29 of the NDPS Act, the Narcotic Drugs and Psychotropic Substances Act, at Police Station Bandipora. [@5] Police said investigations in all the cases were under way to trace the source and intended destination of the seized substances and identify further links. [@5] Police urged the public to report suspected drug-related activity to law enforcement agencies. [@5]
+The KIMS account of the checkpoint was published on Saturday 7 November 2026.
+[@1]

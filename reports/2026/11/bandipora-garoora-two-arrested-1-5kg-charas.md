@@ -65,6 +65,10 @@ sources:
     url: https://earthnews.in/two-arrested-with-1-5-kg-charas-like-substance-in-bandipora/
     publisher: The Earth News
     date: 2026-11-07
+  - title: Over 6 Kg Of Charas-Like Substance Seized In Bandipora, Four Arrested
+    url: https://kimskashmir.com/over-6-kg-of-charas-like-substance-seized-in-bandipora-four-arrested/
+    publisher: Kashmir Independent Media Service
+    date: 2026-11-07
 open_questions:
   - No laboratory confirmation that the substance was cannabis was published; police and outlets describe it only as a charas-like substance.
   - Police gave the weight only as approximately 1.5 kg, with no street value and no detail of how the substance was packed.
@@ -81,9 +85,9 @@ open_questions:
 
 Police in Bandipora district arrested Rafaqat Ali Gojar, of Halwadi in Aragam,
 and Zakir Hussain Qureshi, of Chapran in Aragam, during a naka checking, a
-police checkpoint stop, at Garoora Crossing on Saturday 7 November 2026. [@1,4,5,6]
+police checkpoint stop, at Garoora Crossing on Saturday 7 November 2026. [@1,4,5,6,7]
 Police recovered approximately 1.5 kg of a charas-like substance from the two
-men, a police spokesperson said. [@1,4,6]
+men, a police spokesperson said. [@1,4,6,7]
 
 Police said the two were arrested on Saturday in Bandipora district and about
 1.5 kg of charas-like substance was seized from them. [@1,5] Kashmir Life put the
@@ -93,7 +97,7 @@ Gojar, son of Mohd. Gulab Gojar, and Zakir Hussain Qureshi, son of Ghulam
 Noorani Qureshi, both residents of Aragam. [@3]
 
 Police registered FIR No. 72/2026 at Police Station Aragam under sections 8, 20
-and 29 of the NDPS Act. [@2] Kashmir Life said the case was registered under
+and 29 of the NDPS Act. [@2,7] Kashmir Life said the case was registered under
 sections 8, 20 and 29 of the NDPS Act at Police Station Aragam. [@3]
 
 Police said an investigation had begun to establish the source and intended

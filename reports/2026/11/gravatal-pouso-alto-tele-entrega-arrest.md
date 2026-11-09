@@ -64,6 +64,16 @@ sources:
     publisher: Notisul
     date: 2026-11-05
     language: pt
+  - title: Homens são presos por tráfico de drogas em Tubarão e Gravatal
+    url: https://extra.sc/2026/11/06/homens-sao-presos-por-trafico-de-drogas-em-tubarao-e-gravatal/
+    publisher: EXTRA.SC
+    date: 2026-11-06
+    language: pt
+  - title: Polícia Militar registra duas prisões por tráfico de drogas e apreensão de adolescente na região.
+    url: https://eximproviso.net/policia-militar-registra-duas-prisoes-por-trafico-de-drogas-e-apreensao-de-adolescente-na-regiao/
+    publisher: Eximproviso News
+    date: 2026-11-05
+    language: pt
 open_questions:
   - The 18.1 grams in the tube includes its packaging, so the recorded 1,096.9 grams may slightly overstate the drug weight.
   - No charges, custody hearing or court outcome were reported; both accounts end with the man taken to the Civil Police station.
@@ -77,14 +87,16 @@ the town by tele-entrega, a delivery service in which orders are placed by
 phone. [@2,3]
 
 When officers stopped the vehicle the suspect was driving they found 1 kg of
-marijuana in it. [@1,3] A search of his home then found a further 78.8 grams of
+marijuana in it. [@1,3,5] A search of his home then found a further 78.8 grams of
 marijuana and a tube containing 18.1 grams of the same drug, a weight that
-includes the packaging. [@1,3] At the property officers also seized 2 grams of
-cocaine and five ecstasy tablets, which are not counted in the cannabis total.
-[@1,3]
+includes the packaging. [@1,3] EXTRA.SC reported further portions of the same drug
+at the house without giving those gram weights. [@5] Eximproviso News put the
+marijuana recovered in the stop and the home search at approximately 1.1 kg. [@6]
+At the property officers also seized 2 grams of cocaine and five ecstasy tablets,
+which are not counted in the cannabis total. [@1,3,5,6]
 
 The man was taken with all the seized substances to the Civil Police station for
-legal procedures. [@2,3] The vehicle used to transport the drugs was also seized
-and left at the disposal of the police authority and the courts. [@2,3]
+legal procedures. [@2,3,6] The vehicle used to transport the drugs was also seized
+and left at the disposal of the police authority and the courts. [@2,3,6]
 
 The arrest was one of three relevant occurrences in the Military Police's regional roundup covering the 24 hours from 7 am on Wednesday 4 to 7 am on Thursday 5 November 2026. [@4]

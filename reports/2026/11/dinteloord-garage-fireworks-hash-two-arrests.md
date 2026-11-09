@@ -1,7 +1,7 @@
 ---
 code: AYK5EM
 added_at: "2026-11-07T13:49:09.987711Z"
-date: 2026-11-04
+date: 2026-11-06
 country: nl
 place: De Vriesstraat, Dinteloord, Steenbergen, North Brabant
 coordinates: [51.6308, 4.3706]
@@ -10,7 +10,7 @@ type: seizure
 also: [raid, arrest]
 title: Two held after 800 g of hash and illegal fireworks found in Dinteloord garage
 summary: >-
-  Police searching a garage box on the De Vriesstraat in Dinteloord on 4 November found more than 750 kilograms of illegal fireworks together with just over 800 grams of hash and just over 90 grams of hemp. A 25-year-old man from Dinteloord and a 42-year-old man from Steenbergen were arrested, and police also seized pills, an alarm pistol, jewellery and a car.
+  Police searching a garage box on the De Vriesstraat in Dinteloord found more than 750 kilograms of illegal fireworks together with just over 800 grams of hash and just over 90 grams of hemp. A 25-year-old man from Dinteloord was arrested on 4 November 2026 and a 42-year-old man from Steenbergen on 6 November, and police also seized pills, an alarm pistol, jewellery and a car.
 figures:
   arrested: 2
   sites: 1
@@ -26,7 +26,8 @@ details:
   setting: [building]
   case_stage: investigation
   force: [none-reported]
-  date_precision: exact
+  period: {start: 2026-11-04, end: 2026-11-06}
+  date_precision: approximate
   region: North Brabant
 data_sources:
   details.activity: [1]
@@ -34,6 +35,7 @@ data_sources:
   details.agency_types: [1]
   details.case_stage: [1]
   details.force: [1]
+  details.period: [1]
   details.products: [1]
   details.setting: [1]
   figures.arrested: [1]
@@ -67,6 +69,7 @@ sources:
     language: nl
   - title: Politie vindt tienduizend stuks illegaal vuurwerk in garagebox in Dinteloord
     url: https://nos.nl/artikel/2638452-politie-vindt-tienduizend-stuks-illegaal-vuurwerk-in-garagebox-in-dinteloord
+    archived: https://web.archive.org/web/20261108015554/https://nos.nl/artikel/2638452-politie-vindt-tienduizend-stuks-illegaal-vuurwerk-in-garagebox-in-dinteloord
     publisher: NOS Nieuws
     date: 2026-11-07
     language: nl
@@ -85,8 +88,12 @@ sources:
     publisher: Kijk op Steenbergen
     date: 2026-11-07
     language: nl
+  - title: 'Politie vindt 750 kilo illegaal vuurwerk Dinteloord: ''Genoeg voor massa-explosie'''
+    url: https://www.zuidwestupdate.nl/nieuws/politie-vindt-750-kilo-illegaal-vuurwerk-dinteloord-genoeg-voor-massa-explosie/
+    publisher: ZuidWest Update
+    date: 2026-11-07
+    language: nl
 open_questions:
-  - Only the police statement was found; no separate outlet reporting of this Dinteloord find was located.
   - The quantities are given as more than 90 grams of hemp and more than 800 grams of hash, not exact weights, so the cannabis total of about 891 grams is approximate.
   - The statement gives no street value for the hash or hemp and does not say which charges the two men face or whether they remain in custody.
   - The garage box is identified only by street; the pin is for Dinteloord.
@@ -113,14 +120,14 @@ open_questions:
 
 Police entered a garage box on the De Vriesstraat in Dinteloord on the evening
 of Wednesday 4 November 2026 and found a large quantity of heavy illegal
-fireworks. [@1,2,3,4,7,8] Officers arrested a 25-year-old man from Dinteloord that evening
-and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2,4,5,6,7,8]
+fireworks. [@1,2,3,4,7,8,9] Officers arrested a 25-year-old man from Dinteloord that evening
+and a 42-year-old man from Steenbergen on the evening of Friday 6 November. [@1,2,4,5,6,7,8,9]
 The search followed a longer police investigation that began with a report about
 the possible storage and sale of illegal fireworks. [@1,4,5,8]
 
 Alongside the fireworks, officers found just over 90 grams of hemp and just over
-800 grams of hash in the garage box. [@1,2,3,4,5,6,7] Police also seized about 250 pills, an
-alarm pistol, expensive jewellery and a car. [@1,2,3,4,6,7] In total more than 750
+800 grams of hash in the garage box. [@1,2,3,4,5,6,7,9] Police also seized about 250 pills, an
+alarm pistol, expensive jewellery and a car. [@1,2,3,4,6,7,9] In total more than 750
 kilograms of fireworks were taken away, including almost 10,000 cobras, boxes of
 lawinepijlen (heavy rockets) and shells weighing several kilograms each;
 specialists removed them safely. [@1,4]

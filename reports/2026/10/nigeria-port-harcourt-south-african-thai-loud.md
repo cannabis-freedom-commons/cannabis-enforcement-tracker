@@ -32,10 +32,10 @@ data_sources:
   details.agency_types: [1, 2]
   details.case_stage: [1, 2, 3]
   details.date_precision: [1, 2, 3]
-  details.products: [1, 2, 3]
+  details.products: [1, 2, 3, 5]
   details.setting: [1, 2]
-  figures.arrested: [1, 2, 3]
-  figures.kg_seized: [1, 2, 3]
+  figures.arrested: [1, 2, 3, 5]
+  figures.kg_seized: [1, 2, 3, 5]
 status: verified
 tags: [ndlea, port-harcourt, airport, thai-loud]
 sources:
@@ -57,6 +57,10 @@ sources:
     url: https://pmnewsnigeria.com/2026/11/05/nigeria-becoming-drug-trafficking-route-ndlea/
     publisher: P.M. News
     date: 2026-11-05
+  - title: Foreign drug cartels using Nigeria as transit route – NDLEA
+    url: https://dailytrust.com/foreign-drug-cartels-using-nigeria-as-transit-route-ndlea/
+    publisher: Daily Trust
+    date: 2026-11-06
 media:
   - kind: photo
     url: https://ndlea.gov.ng/blog/83-year-old-convicted-grandma-south-african-lady-arrested-with-colos-meth-shipments
@@ -71,7 +75,7 @@ media:
     publisher: P.M. News
     caption: Gebashe Sithandiwe Jessie, the suspect arrested at Port Harcourt airport
 open_questions:
-  - Head Topics calls the 32.74 kg of Thai Loud 'synthetic cannabis'; the existing report follows the NDLEA statement and P.M. News in treating Thai Loud as a cannabis strain.
+  - Head Topics and Daily Trust call the 32.74 kg of Thai Loud synthetic cannabis; the report follows the NDLEA statement and the October P.M. News account in treating Thai Loud as a cannabis strain.
   - The briefing gives no date for the Port Harcourt arrest beyond 'October 2026' and no court outcome.
   - The three-arrest tally in the briefing covers separate operations in different months, and the reporting does not say whether the Abuja heroin case has led to charges.
 ---
@@ -82,7 +86,8 @@ International Airport with 32.74 kg of cannabis. [@1,2,3]
 
 The woman, named by the agency as Gebashe Sithandiwe Jessie, arrived on Qatar Airways flight QR1431
 from Thailand via Doha with 30 parcels of Thai Loud, a cannabis strain, concealed in two travelling
-bags, the agency said. [@1,2,3] P.M. News reported that she is 30 years old. [@2] The agency said she
+bags, the agency said. [@1,2,3] Daily Trust likewise named Gebashe Sithandiwe Jessie and the 32.74 kg
+seized at Port Harcourt International Airport in October 2026. [@5] P.M. News reported that she is 30 years old. [@2] The agency said she
 confessed to having trafficked drugs through other African countries and was trying to extend her
 route to Port Harcourt when she was arrested. [@1,2]
 
@@ -90,4 +95,4 @@ The NDLEA did not say on what date she was arrested or whether she had appeared 
 
 The NDLEA said three South African nationals had been arrested in the period under review, a tally that also covered a separate July 2026 case in which a woman arriving from Doha was found with 5.75 kg of heroin. [@3]
 
-On 5 November 2026, NDLEA Assistant Director for Media and Advocacy Francis Okogun told a joint security briefing in Abuja that three South African nationals had been arrested in recent operations involving heroin, cocaine and Loud, a tally covering this Port Harcourt case. [@4]
+On 5 November 2026, NDLEA Assistant Director for Media and Advocacy Francis Okogun told a joint security briefing in Abuja that three South African nationals had been arrested in recent operations involving heroin, cocaine and Loud, a tally covering this Port Harcourt case. [@4,5]

@@ -78,6 +78,12 @@ export default {
     "sunsari-dharan-210kg-five-arrests": "dharan-chyandanda-210kg-five-arrested",
     "edirne-border-gates-326kg-cannabis-seizure-2026": "edirne-border-gates-326kg-cannabis-seizure",
     "chhagalnaiya-uttar-adharmanik-24kg-seizure": "feni-chhagalnaiya-24kg-ganja-seizure",
+    "dinteloord-garage-box-890g-cannabis-seizure": "dinteloord-garage-fireworks-hash-two-arrests",
+    "uae-rak-network-20-arrested-marijuana-hashish": "uae-ras-al-khaimah-20-arrests-captagon-drugs-2026",
+    "egypt-school-bus-drivers-31-positive-hashish-tramadol": "egypt-school-bus-drivers-hashish-screening",
+    "isle-of-man-boy-shayne-five-sentenced": "isle-of-man-boy-shayne-dunne-12-years",
+    "tubarao-gravatal-cocaine-cannabis-two-arrests": "gravatal-pouso-alto-tele-entrega-arrest",
+    "abuja-ndlea-three-south-africans-transit-route": "nigeria-port-harcourt-south-african-thai-loud",
     "glasgow-dalmarnock-ruby-street-arrest": "glasgow-ruby-street-drugs-raid-charge",
     "hong-kong-airport-5-1kg-bangkok-mainland-arrest": "hong-kong-airport-51kg-cannabis-buds-charged",
     "hong-kong-airport-9kg-22-year-old-arrest": "hong-kong-airport-9kg-cannabis-buds-arrest",
@@ -198,6 +204,12 @@ export default {
     "CEXRCJ": "semikarakorsky-27-plants-1-2kg-arrest",
     "DGH3SB": "sulthan-bathery-1-08kg-ganja-arrest",
     "5HAK3B": "bangkok-khu-bon-5-tonnes",
-    "330RPP": "kullu-ani-koot-2990g-charas-arrest"
+    "330RPP": "kullu-ani-koot-2990g-charas-arrest",
+    "21CEN3": "dinteloord-garage-fireworks-hash-two-arrests",
+    "NV6BQA": "uae-ras-al-khaimah-20-arrests-captagon-drugs-2026",
+    "AMT282": "egypt-school-bus-drivers-hashish-screening",
+    "V0BCSQ": "isle-of-man-boy-shayne-dunne-12-years",
+    "P9WVW4": "gravatal-pouso-alto-tele-entrega-arrest",
+    "CH8BCT": "nigeria-port-harcourt-south-african-thai-loud"
   }
 };
