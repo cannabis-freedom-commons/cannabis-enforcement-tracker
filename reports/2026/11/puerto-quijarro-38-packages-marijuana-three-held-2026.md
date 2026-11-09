@@ -39,6 +39,11 @@ media:
     media_url: https://abi.bo/wp-content/uploads/2026/11/896002500_1629579105240073_2121620818479006268_n.jpg
     publisher: El Deber
     caption: 'The marijuana packages seized by Umopar officers in Puerto Quijarro, in the FELCN handout photo published with the police report. Photo: Felcn'
+  - kind: photo
+    url: https://eju.tv/2026/11/fuerza-antidroga-secuestra-38-paquetes-de-marihuana-en-puerto-suarez-y-aprehende-a-tres-personas/
+    media_url: https://eju.tv/wp-content/uploads/2026/11/Screenshot_20261107-191942.jpg
+    publisher: eju.tv
+    caption: 'The FELCN handout image run with the statement on the seizure of the 38 marijuana packages in Puerto Suárez, credited to FELCN. Photo: Felcn'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: a82228e9f0e7b170988ad1327d592a28
@@ -64,6 +69,11 @@ sources:
     publisher: La Voz Bolivia
     date: 2026-11-07
     language: es
+  - title: Fuerza antidroga secuestra 38 paquetes de marihuana en Puerto Suárez y aprehende a tres personas
+    url: https://eju.tv/2026/11/fuerza-antidroga-secuestra-38-paquetes-de-marihuana-en-puerto-suarez-y-aprehende-a-tres-personas/
+    publisher: eju.tv
+    date: 2026-11-07
+    language: es
 open_questions:
   - No weight was published for the 38 packages, so no kilogram figure is recorded.
   - 'The reports give no day for the operation: the submitted page says only that it happened over the weekend, and 7 November 2026, the date of the police report and first publication, is used.'
@@ -72,18 +82,19 @@ open_questions:
   - The El Deber, ABI and La Voz Bolivia articles reproduce the same FELCN statement, so they are not independent accounts of the operation.
   - FELCN did not publish its own statement page that could be opened, so the police report is known through the cited outlets.
   - The submitted page's photo is credited to El Deber, and the same handout photo appears with the ABI copy of the statement; one media entry is listed.
+  - The eju.tv page credits ABI and the Felcn's social media accounts, so it repeats the same official statement and is not an independent description of the operation.
 ---
 
 Bolivian anti-drug officers arrested three people, two women and one man, in
 Puerto Quijarro, the Bolivian town across the border from Corumbá, Brazil. [@1]
 The operation was carried out by an Umopar unit, the mobile rural patrol unit of
-Bolivia's anti-narcotics force, under the Frontera Segura 2.0 programme. [@1]
+Bolivia's anti-narcotics force, under the Frontera Segura 2.0 programme. [@1,5]
 
-The three were stopped in a vehicle carrying 31 packages of marijuana. [@2]
+The three were stopped in a vehicle carrying 31 packages of marijuana. [@2,5]
 Officers then searched a property linked to one of those involved and found
-another seven packages, making 38 in all. [@2] Field tests on the substance were
-positive for marijuana. [@2] The searched house, the vehicle used to carry the
-drug and two mobile phones were seized. [@2]
+another seven packages, making 38 in all. [@2,5] Field tests on the substance were
+positive for marijuana. [@2,5] The searched house, the vehicle used to carry the
+drug and two mobile phones were seized. [@2,5]
 
 The three suspects were handed to Bolivia's Public Ministry, the prosecutors'
 office, for investigation. [@2]
@@ -94,4 +105,3 @@ Bolivia said the same force report recorded the seizure of a house, a vehicle
 and two mobile phones for the investigation. [@4] ABI, the Bolivian state news
 agency, published the same force statement describing the 31 packages found in a
 vehicle and seven in a linked property. [@3]
-
