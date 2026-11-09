@@ -89,6 +89,11 @@ sources:
     publisher: Telewizja Mielec.tv
     date: 2026-11-09
     language: pl
+  - title: Narkotyki w Tuszowie Narodowym. 40-latek trafił na trzy miesiące do aresztu
+    url: https://radio.rzeszow.pl/372478/narkotyki-w-tuszowie-narodowym-40-latek-trafil-na-trzy-miesiace-do-aresztu/
+    publisher: Polskie Radio Rzeszów
+    date: 2026-11-09
+    language: pl
 open_questions:
   - The sources give no separate date for the search and arrest; 9 November 2026 is the publication date of the police statement and is used as the incident date.
   - The 450 grams is described as dried plant material identified as marijuana by initial tests; no laboratory confirmation or street value was reported.
@@ -101,21 +106,23 @@ open_questions:
   - podkarpacie112.pl cites KPP Mielec as its source and reproduces the police statement, so it is not an independent account of the search.
   - The mielec.tv article gives no separate date for the search and detention; 9 November 2026 is its publication date and the incident date used.
   - mielec.tv credits Policja podkarpacka and reproduces the Mielec police statement, so it is not an independent account of the search.
+  - Polskie Radio Rzeszów reproduces the Mielec district police statement, so it is not independent reporting of the search.
+  - Radio Rzeszów gives no separate date for the search and arrest; 9 November 2026 is its publication date and the incident date used.
 ---
 
 Criminal investigators from the Mielec district police headquarters established
 that a resident of Tuszów Narodowy might be holding banned substances. [@1,4,5,7]
 Officers went to the address and found the 40-year-old man there, and their
 suspicions were confirmed. [@1,4] In the search police seized 450 grams of dried
-plant material and four cannabis plants other than fibre hemp. [@1,4,5,6,7] Initial
+plant material and four cannabis plants other than fibre hemp. [@1,4,5,6,7,8] Initial
 tests confirmed that the dried material was marijuana. [@1,5] The man was detained
 and taken to a police detention room. [@2,4] The material was found during a
 search of his home in Tuszów Narodowy in Mielec County. [@2]
 
 Police from the Mielec district police headquarters charged the 40-year-old with
-possessing significant quantities of narcotic substances. [@1,4,5] He admitted the
-charge and gave explanations. [@1,4] The court granted the prosecutor's request
-and ordered three months of pre-trial detention. [@1,4,5,7] The prosecutor asked the
+possessing significant quantities of narcotic substances. [@1,4,5,8] He admitted the
+charge and gave explanations. [@1,4,8] The court granted the prosecutor's request
+and ordered three months of pre-trial detention. [@1,4,5,7,8] The prosecutor asked the
 court for pre-trial detention and the court agreed. [@2]
 
 The case is still under investigation, and he faces criminal liability for
