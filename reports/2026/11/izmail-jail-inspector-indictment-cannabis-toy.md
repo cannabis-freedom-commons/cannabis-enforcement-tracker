@@ -71,6 +71,11 @@ sources:
     publisher: Інформер
     date: 2026-11-06
     language: uk
+  - title: В Одеській області судитимуть інспектора СІЗО, який проносив наркотики ув’язненим
+    url: https://on.od.ua/uk/2026/11/09/v-odesskoj-oblasti-budut-sudit-inspektora-sizo-pronosivshego-narkotiki-zaklyuchyonnym-2-338228/
+    publisher: Одесса News
+    date: 2026-11-09
+    language: uk
 open_questions:
   - The sources give no exact date for the attempt to bring the drugs in; July 2026 is when investigators say the man bought them, and 6 November 2026 is the date the indictment was announced.
   - The cannabis weight is reported only as "more than 73 grams", so 0.073 kg is recorded as the stated lower bound.
@@ -92,7 +97,7 @@ He put the drugs in a plastic wrap and hid it inside a soft SpongeBob toy, which
 he carried into the institution in a bag among his personal belongings. [@1]
 During a search of his belongings at the checkpoint, staff found and seized
 0.067 g of methadone, more than 73 g of cannabis and 4.5 g of PVP; the tracker
-records only the cannabis weight. [@1] Suspilne reported that the jail's
+records only the cannabis weight. [@1,5] Suspilne reported that the jail's
 internal control staff made the find on a subsequent attempt to bring the banned
 substances in. [@3] Informer reported that the detection was carried out with
 the assistance of the SBU, Ukraine's security service. [@4]
@@ -107,4 +112,3 @@ remains in custody, facing up to 10 years in prison with confiscation of
 property if convicted. [@3] He was notified of the suspicion in September 2026.
 [@1] Informer reported that the case was investigated as part of the nationwide
 Stop Traffik special operation. [@4]
-
