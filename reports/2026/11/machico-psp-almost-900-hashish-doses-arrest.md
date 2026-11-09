@@ -71,6 +71,11 @@ sources:
     publisher: Funchal Notícias
     date: 2026-11-09
     language: pt
+  - title: Homem de 63 anos detido por tráfico de droga em Machico
+    url: https://sapo.pt/artigo/homem-de-63-anos-detido-por-trafico-de-droga-em-machico-6af19831013ef6a6907f0359
+    publisher: SAPO (Diário de Notícias da Madeira)
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The article published 9 November 2026 says the street sale happened on the previous Friday, taken as 6 November 2026; no separate exact incident date was given.
   - No weight was given for the hashish doses, so no cannabis weight is recorded.
@@ -84,10 +89,13 @@ open_questions:
   - The article says the sale happened on the previous Friday without a calendar date; 6 November 2026 is used, as in the existing report.
   - No weight is given for the hashish doses, so no cannabis weight is recorded.
   - The two Bloom doses are not counted as cannabis because their composition is not stated, even though the PSP statement warns about synthetic drugs in general.
+  - The article says the arrest happened on the previous Friday without giving a calendar date; 6 November 2026 is used, as in the existing report.
+  - The page states 870 hashish doses in total but gives no weight, so no cannabis kilogram figure is recorded.
+  - The two Bloom doses are not counted as cannabis because their composition is not stated; the PSP's general warning about synthetic substances does not identify them.
 ---
 
 A 63-year-old man was caught by PSP in Machico, Madeira, during a drug sale on
-the previous Friday. [@1,3] PSP officers had seen the man selling drugs to another
+the previous Friday. [@1,3,5] PSP officers had seen the man selling drugs to another
 person, and after stopping and searching both found the buyer with one dose of
 hashish and one of liamba while the suspect carried 28 more hashish doses. [@1,3,4]
 
@@ -96,7 +104,9 @@ doses, plus 940 euros in cash and materials used to prepare and package doses.
 [@1,3,4]
 
 The man, born and living in Machico, had previous convictions for similar
-crimes. [@1,3,4] He was released for health reasons under a term of identity and
-residence and ordered to appear in court the next Monday. [@1,3,4]
+crimes. [@1,3,4,5] He was released for health reasons under a term of identity and
+residence and ordered to appear in court the next Monday. [@1,3,4,5]
 
-The Regional Command of Madeira of the PSP said the Criminal Investigation Squad of the Machico Police Division detected the drug transaction. [@2]
+The Regional Command of Madeira of the PSP said the Criminal Investigation Squad of the Machico Police Division detected the drug transaction. [@2,5]
+
+The buyer was carrying one dose of hashish and one dose of liamba, a Portuguese word for herbal cannabis. [@5]
