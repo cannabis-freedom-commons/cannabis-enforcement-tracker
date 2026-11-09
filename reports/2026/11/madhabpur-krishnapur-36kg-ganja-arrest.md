@@ -54,6 +54,11 @@ sources:
     publisher: সিলেট ভয়েস
     date: 2026-11-08
     language: bn
+  - title: মাধবপুরে ৩৬ কেজি গাঁজাসহ মাদক কারবারি গ্রেপ্তার
+    url: https://dhakamail.com/country/341806
+    publisher: Dhaka Mail
+    date: 2026-11-09
+    language: bn
 open_questions:
   - The incident falls in the night from Saturday 7 November to Sunday 8 November; both accounts date the raid to Sunday 8 November.
   - No street value for the 36 kg of ganja was published.
@@ -67,12 +72,13 @@ open_questions:
   - The Sylhet Voice account dates the raid to around 2 a.m. on Saturday night, which falls in the early hours of Sunday 8 November; the existing report gives 2:05 a.m. on 8 November, and the exact minutes differ between accounts.
   - The Sylhet Voice account says a case under the Narcotics Control Act had been filed and the man and ganja already handed to Madhabpur police station, while at least one account already cited says the filing was still under way; the case-document stage differs between accounts.
   - The submitted page's image is captioned only with the headline and carries no credit confirming it shows the seized ganja, so no media entry is added.
+  - This source calls the unit RAB-9 while the existing report calls it SRB-9.
 ---
 
 The operation took place at 2:05 a.m. on Sunday 8 November at a pond bank in
 Krishnapur village of Bahra Union, Madhabpur Upazila, Habiganj. [@1,3] Special
 Response Battalion (SRB)-9, a police battalion, arrested 26-year-old Ujjal Mia
-with 36 kg of ganja in Madhabpur, Habiganj. [@1,3] The SRB-9 team from the
+with 36 kg of ganja in Madhabpur, Habiganj. [@1,3,4] The SRB-9 team from the
 Shayestaganj camp carried out the raid after receiving confidential information,
 and when two men tried to flee with two plastic sacks, one was detained. [@1]
 One of the men carrying plastic sacks was detained and the other dropped a sack
