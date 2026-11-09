@@ -82,6 +82,11 @@ sources:
     publisher: Nachrichten.jetzt
     date: 2026-11-09
     language: de
+  - title: 'Öt kiló drog, 55 vevő: magyar dílert kapcsoltak le Ausztriában'
+    url: https://www.pmonline.hu/cikk/2026-11-09-ot-kilo-drog-55-vevo-magyar-dilert-kapcsoltak-le-ausztriaban
+    publisher: Pest Megye Online
+    date: 2026-11-09
+    language: hu
 open_questions:
   - The sources give no date for the house searches or the arrests; 9 November 2026 is the date of the police statement and of publication, and stands in for the incident date.
   - The 3 kilograms of cannabis herb is the amount investigators attribute to the 50-year-old as sold, not a quantity seized; no cannabis weight taken in the searches was published.
@@ -100,11 +105,14 @@ open_questions:
   - The Nachrichten.jetzt page carries only an AI-generated illustration of generic police uniforms and a police car, not this event, so no media entry is added.
   - The page is a short regional rewrite of the same Upper Austrian police statement already cited, so it does not independently confirm the account.
   - The page gives no separate date for the house searches or the arrests; 9 November 2026 is its publication date.
+  - The 150 grams of cocaine brought from Hungary into Austria is a cocaine quantity only; it is not added to the report's cannabis figures, and the report still gives no cannabis weight seized in the searches.
+  - The Pest Megye Online account is a Hungarian-language rewrite citing the ORF report, so it corroborates rather than independently confirms the Austrian police statement.
+  - The page's single picture is captioned as an illustration ("Képünk illusztráció") and is credited to Pest Megye Online / MI, so it is not listed as media.
 ---
 
 A 23-year-old from the Ried district and a 50-year-old Hungarian national were
 arrested and held in pre-trial detention over the sale of cocaine and cannabis
-in Upper Austria and Salzburg. [@1,6,7,8] The investigation was run for several months
+in Upper Austria and Salzburg. [@1,6,7,8,9] The investigation was run for several months
 by the drug unit of the coordinated criminal investigation service in Ried
 (Suchtgiftgruppe des Koordinierten Kriminaldienstes Ried). [@2] The Ried public
 prosecutor ordered house searches at both suspects' premises with court
@@ -114,7 +122,7 @@ pre-trial detention was imposed on both. [@2,7] Both suspects confessed to the
 main allegations during questioning, ORF reported. [@3]
 
 Investigators attribute to the 50-year-old the sale of about 3,000 grams of
-cannabis herb (Cannabiskraut) alongside about 2,000 grams of cocaine. [@1,6,7,8]
+cannabis herb (Cannabiskraut) alongside about 2,000 grams of cocaine. [@1,6,7,8,9]
 Police say he had been dealing in cocaine and cannabis for profit since 2022,
 buying the cocaine mainly from suppliers in Upper Austria and the marijuana from
 a woman living in Salzburg, with the handovers in Salzburg. [@2,6,7] The drugs were
@@ -125,7 +133,7 @@ organisation. [@2] The 23-year-old partly admitted selling about 640 grams of
 the cocaine, some of it together with the 50-year-old. [@1]
 
 Investigators identified about 55 people who had bought drugs from the pair.
-[@1,3,7,8] The inquiry also led to the arrest of the woman in Salzburg suspected of
+[@1,3,7,8,9] The inquiry also led to the arrest of the woman in Salzburg suspected of
 supplying the marijuana, and pre-trial detention was imposed on her too. [@2,6,8]
 The Oberösterreichische Nachrichten reported that the Salzburg supplier is a
 50-year-old woman. [@4] The case produced evidence of further, partly unrelated
@@ -135,3 +143,5 @@ detention. [@2] Police in Ried told the regional outlet Tips that the pair
 widened their circle of customers and expanded the trade. [@5]
 
 During the house searches police secured further items of evidence, ORF reported. [@3]
+
+Investigators also traced about 150 grams of cocaine brought from Hungary into Austria. [@3,9]
