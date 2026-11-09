@@ -92,6 +92,11 @@ sources:
     publisher: TV Paraguaçu
     date: 2026-11-09
     language: pt
+  - title: FICCO/PR e PM/SP apreendem 4,5 toneladas de maconha e fuzil
+    url: https://www.gov.br/pf/pt-br/assuntos/noticias/2026/11/ficco-pr-e-policia-militar-apreendem-4-5-toneladas-de-maconha-e-fuzil-em-caminhao-em-sao-paulo
+    publisher: Polícia Federal
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No charge or court decision was reported beyond the driver's arrest in flagrante and detention at the Federal Police station in Marília.
   - The driver's name, age, route and the origin or destination of the load were not published.
@@ -107,6 +112,7 @@ open_questions:
   - Policial Padrão dates the arrest to Monday 9 November, while the highway police account and the other outlets give Sunday 8 November; the report keeps the Sunday date.
   - TV Paraguaçu gives no road or kilometre for the stop, matching the existing report's open question.
   - The article names the Paraná FICCO branch as a supporting agency; the other accounts already cited describe only the São Paulo branch.
+  - The Federal Police account names no charge or court decision beyond the arrest in flagrante.
 ---
 
 Highway police arrested a man in Ourinhos, São Paulo state, on the afternoon of
@@ -134,3 +140,5 @@ The stop was made at about 15:30 on the Raposo Tavares highway (SP-270) in Ourin
 The stop was made at kilometre 28 of the SP-327, in a joint action with the São Paulo and Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO), coordinated by the Federal Police. [@5]
 
 Both the São Paulo and the Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO), an integrated anti-organised-crime task force, supported the operation. [@7]
+
+The Federal Police said the operation was carried out jointly by the Paraná branch of the Força Integrada de Combate ao Crime Organizado (FICCO/PR) and the São Paulo Military Police (PM/SP). [@8] The Federal Police said the truck had left Paraná and was bound for Rio de Janeiro. [@8] The Federal Police said the rifle found with the cannabis was apparently of 7.62 calibre and had no ammunition. [@8] The FICCO in Paraná, according to the Federal Police, is made up of the Federal Police, the Paraná Military Police, the National Secretariat for Penal Policies and the Federal Highway Police. [@8]
