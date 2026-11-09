@@ -121,6 +121,11 @@ sources:
     url: https://island.lk/hashish-haul-intended-for-sl-seized-in-tn/
     publisher: The Island
     date: 2026-11-05
+  - title: இலங்கைக்கு கடத்தப்படவிருந்த பாரிய போதைப்பொருட்கள்! தமிழகத்தில் சிக்கிய கடத்தல் கும்பல் - தமிழ்வின்
+    url: https://tamilwin.com/article/police-carried-out-a-surprise-raid-and-seized-1793776929
+    publisher: Tamilwin
+    date: 2026-11-04
+    language: ta
 open_questions:
   - >-
     The article gives no separate calendar date for the interception beyond Tuesday; 3 November 2026, the
@@ -266,19 +271,24 @@ open_questions:
     no media entry is added.
   - The Island item reproduces the same account carried elsewhere and states no source of its own, so it corroborates the existing report's wording rather than adding an independent version.
   - The Island page carries one image captioned only with the headline and with no credit or depiction details, so no media entry is added for it.
+  - The article was published on 4 November 2026 about an interception "last night Tuesday"; the existing report's 3 November 2026 incident date is retained.
+  - Tamilwin describes the haul only as worth several crore rupees without stating a total, and its page metadata mentions a per-kg figure that the body does not restate; no value is added.
+  - The native place is transliterated as Thalir Marungur versus Thalir Marungoor in the existing report, treated as the same name.
+  - This account attributes the earlier 15 kg ganja case to S.P. Pattinam police station and says Mano was absconding in that case; it does not mention the separate Thondi case described elsewhere.
+  - The page's first two images carry only the headline as caption with no credit or depiction details, so no media entry is added.
 ---
 
 Police arrested Mano in Ramanathapuram district after recovering 19.8 kilograms of hashish. [@1,2,3,4,5,6,7,8,9,10,11,12,13]
 
 S.P. Pattinam police arrested 34-year-old A. Mano in Ramanathapuram district.
-[@4,7,8,9,12] Mano is from Thalir Marungoor in Thiruvadanai taluk. [@4,7]
+[@4,7,8,9,12,14] Mano is from Thalir Marungoor in Thiruvadanai taluk. [@4,7]
 
 Acting on a tip-off, a special team led by Police Inspector David Raviraj went
 to the coastal area near Pasiyamman Temple at Pasipattinam where suspected
 illegal drug activity was taking place. [@4,6,7,8] The team intercepted Mano and
-recovered 2 kg of hashish from his possession. [@4,6,7,8,9,10,11,12] Questioning led police to
+recovered 2 kg of hashish from his possession. [@4,6,7,8,9,10,11,12,14] Questioning led police to
 his residence, where another 17.8 kg was found, bringing the total seizure to
-19.8 kg of hashish. [@4,6,7,8,9,10,12]
+19.8 kg of hashish. [@4,6,7,8,9,10,12,14]
 
 Investigators described Mano as a repeat offender with multiple pending cases
 under the Narcotic Drugs and Psychotropic Substances Act, including a Thondi
@@ -287,11 +297,11 @@ Chandeesh said Mano had been evading arrest and living as a fugitive before the
 operation. [@4] The accused was taken into custody and brought to the S.P.
 Pattinam police station following legal protocols. [@4,7]
 
-Mano has two pending NDPS cases and had been absconding in an S.P. Pattinam case in which police had seized 15 kg of ganja until his arrest on Tuesday. [@5,7]
+Mano has two pending NDPS cases and had been absconding in an S.P. Pattinam case in which police had seized 15 kg of ganja until his arrest on Tuesday. [@5,7,14]
 
 Mano is the son of Anthony Xavier. [@6,9] Police said the hashish had been stocked for smuggling to Sri Lanka. [@6,8,9,10,11,12]
 
-Police registered the new case as Crime No. 159/2026 under NDPS Act sections 8(c) and 20(b)(ii)(C) and said further legal action was under way. [@7] Police said they were investigating where the hashish came from, who planned to smuggle it to Sri Lanka, who else was involved and any international trafficking links. [@7]
+Police registered the new case as Crime No. 159/2026 under NDPS Act sections 8(c) and 20(b)(ii)(C) and said further legal action was under way. [@7] Police said they were investigating where the hashish came from, who planned to smuggle it to Sri Lanka, who else was involved and any international trafficking links. [@7,14]
 
 Police valued the seized hashish at Rs 2.5 lakh per kg in India, rising to nearly Rs 10 lakh per kg in Sri Lanka. [@8,10,11,12] Police described hashish as a highly concentrated cannabis resin where one kg meets the commercial-quantity threshold compared with 20 kg for ganja. [@8,10,11] Police said a wider network is involved and further arrests will follow. [@8,9,10] Police have started procedures to attach movable and immovable properties bought with drug-smuggling proceeds by the accused and relatives. [@8,10,11] Mano was already wanted in a previous case involving 15 kg of ganja registered at Thondi police station. [@8,10,11,13]
 
