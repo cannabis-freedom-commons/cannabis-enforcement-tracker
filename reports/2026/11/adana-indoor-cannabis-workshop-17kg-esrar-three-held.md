@@ -87,6 +87,11 @@ media:
     media_url: https://kayserihabercom.teimg.com/kayserihaber-com/uploads/2026/11/2026/11/adanada-kenevir-operasyonu-1.jpg
     publisher: Kayseri Haber
     caption: Photo placed in the İHA text beside the passage on the gendarme search that found the air-conditioning system used to grow cannabis indoors and 3 suspects; the page carries no separate photographer or agency credit.
+  - kind: photo
+    url: https://www.haberler.com/amp/adana-da-kenevir-imalathanesinde-17-kilogram-esrar-20409092-haberi/
+    media_url: https://foto.haberler.com/haber/2026/11/09/adana-da-kenevir-imalathanesinde-17-kilogram-20409092_amp.jpg
+    publisher: Haberler.com
+    caption: Lead picture on Haberler.com's İHA copy of the Adana gendarmerie raid report, captioned and attributed only with the story headline 'Adana'da kenevir imalathanesinde 17 kilogram esrar ele geçirildi, 3 şüpheli yakalandı'; no separate photographer or agency credit is given.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 3fe585ce68e86d3036a8cda280b36b64
@@ -172,6 +177,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-09
     language: tr
+  - title: Adana'da kenevir imalathanesinde 17 kilogram esrar ele geçirildi, 3 şüpheli yakalandı - Haberler
+    url: https://www.haberler.com/amp/adana-da-kenevir-imalathanesinde-17-kilogram-esrar-20409092-haberi/
+    publisher: Haberler.com
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -216,15 +226,18 @@ open_questions:
   - The submitted AMP page carries the same ANKA-credited text and photo as Son Dakika's standard page already cited in the report, so it adds no independent reporting of the raid.
   - The AMP page gives no separate date or time for the raid; 9 November 2026 is its publication date and the date of the ministry statement.
   - The İHA text reproduced here adds no district, plant count, area or value, and does not state whether the three suspects were charged, released or only referred to prosecutors.
+  - Haberler.com reproduces the same İHA account as the outlets already cited in the report, so it corroborates rather than independently reports the raid.
+  - The page gives no separate date or time for the raid; 9 November 2026 is its publication date and the date of the ministry statement.
+  - The page's picture is captioned and attributed only with the story headline and carries no separate photographer or agency credit, so whether it shows the workshop, the seized esrar or the operation generally is not established.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16]
+the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17]
 
 The three suspects were taken into custody, and the ministry named no further
 court step. [@2,9,10,12,14]
