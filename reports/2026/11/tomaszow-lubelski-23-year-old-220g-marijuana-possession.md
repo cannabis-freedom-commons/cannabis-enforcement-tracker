@@ -63,6 +63,11 @@ sources:
     publisher: Zamojska24
     date: 2026-11-09
     language: pl
+  - title: Najpierw kontrola auta, potem przeszukanie domu. 23-latek miał ponad 220 gramów marihuany
+    url: https://www.kryminalki.pl/artykul/36784,najpierw-kontrola-auta-potem-przeszukanie-domu-23-latek-mial-ponad-220-gramow-marihuany
+    publisher: kryminalki.pl
+    date: 2026-11-09
+    language: pl
 open_questions:
   - The statement gives no separate date for the detention or the search; 9 November 2026 is the publication date and is used as the incident date.
   - The weight is stated only as more than 220 grams of marijuana, with no exact figure and no laboratory confirmation of the substance.
@@ -72,18 +77,21 @@ open_questions:
   - The 'up to three years' is the penalty the law allows, not a sentence given.
   - The WP Info account gives the same unspecific weight ('more than 220 grams'), no split between the car and the home, and no separate date for the detention, detention ruling or court outcome as the existing report.
   - The page's main photo caption only repeats the headline, so it cannot be confirmed to show this seizure and no media entry is added.
+  - kryminalki.pl gives no separate date for the detention or the searches; its publication date, 9 November 2026, is the only date provided.
 ---
 
 Detectives from the Tomaszów Lubelski police detained a 23-year-old resident of
 the municipality of Tomaszów Lubelski who, by their findings, may have held
-drugs. [@1,2,3]
+drugs. [@1,2,3,4]
 
 In the car the man was in, which detectives were watching, officers found
-marijuana. [@1,2,3] At his home officers seized further portions of dried plant
-material, bringing the total to more than 220 grams of marijuana. [@1,2,3] The
-23-year-old was charged with illegal possession of a narcotic drug. [@1,2,3] Under
+marijuana. [@1,2,3,4] At his home officers seized further portions of dried plant
+material, bringing the total to more than 220 grams of marijuana. [@1,2,3,4] The
+23-year-old was charged with illegal possession of a narcotic drug. [@1,2,3,4] Under
 Poland's law on counteracting drug addiction, illegal possession of a narcotic
 drug carries a penalty of up to three years in prison. [@1,2]
 
 The police statement was published with the name of press officer aspirant
 Małgorzata Pawłowska. [@1,2]
+
+The man was arrested and heard the charges, which carry up to three years in prison under the police account of the case. [@4]
