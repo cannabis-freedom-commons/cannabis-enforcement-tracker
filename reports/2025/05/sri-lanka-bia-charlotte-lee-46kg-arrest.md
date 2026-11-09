@@ -70,6 +70,10 @@ sources:
     url: https://www.independent.co.uk/asia/south-asia/charlotte-lee-may-jail-kush-drug-sri-lanka-thailand-b2764200.html
     publisher: The Independent
     date: 2025-06-05
+  - title: Young British woman held on drug charges in Sri Lanka could be linked to Culley case
+    url: https://www.theguardian.com/world/2025/may/19/young-british-woman-held-on-drug-charges-in-sri-lanka-could-be-linked-to-culley-case
+    publisher: The Guardian
+    date: 2025-05-19
 open_questions:
   - The submitted article gives no exact arrest date beyond earlier this month; 12 May 2025 is used from the second BBC account, while Newswire dates the Customs arrest to 13 May.
   - The submitted BBC reports 46 kg while Newswire reports 46.6 kg of Kush; this report uses 46 kg and records no separate laboratory weight.
@@ -80,11 +84,14 @@ open_questions:
   - The Guardian dates detention only to 'Monday' (12 May 2025 given its 18 May publication); the exact 12 May date is taken from the existing report's second BBC account.
   - The Independent calls the haul synthetic cannabis, or kush, and values it at £1.2m, while also describing it as 46kg of cannabis; only the cannabis weight already recorded is corroborated and no value is added.
   - The Independent lists the next hearing as 13 June, while the existing report records a later next appearance on 13 July and remand until 3 September; the sequence between those dates is not resolved in this source.
+  - The Guardian values Lee's alleged haul at £1.2m and calls kush a synthetic cannabis strain; the report records no value and follows the earlier accounts identifying the haul as cannabis, with laboratory testing requested and no result reported.
+  - The Guardian says a potential link between the Lee and Culley cases may form part of the investigations but reports no confirmed connection.
+  - The Guardian gives no exact arrest date beyond 'last Monday' relative to its 19 May 2025 publication.
 ---
 
 Charlotte May Lee, 21, from south London, was arrested after authorities
 allegedly found 46 kg of cannabis in her suitcases on arrival from Thailand.
-[@1,4,5] The former flight attendant told the BBC she had travelled from Bangkok to
+[@1,4,5,6] The former flight attendant told the BBC she had travelled from Bangkok to
 Colombo to renew her Thai visa. [@1] Ms Lee has not yet been charged, denies
 knowing about the drugs, and could face up to 25 years if found guilty. [@1] She
 is being held in a prison in Negombo, a city just north of the capital. [@1,5] She
@@ -114,3 +121,5 @@ the British national female suspect remain in remand custody until September 3.
 The Foreign, Commonwealth and Development Office said it was supporting a British woman arrested in Sri Lanka and was in contact with her family and the local authorities. [@4]
 
 Her next hearing was listed for 13 June. [@5] She had not yet been allowed e-visits including video calls with family and friends. [@5]
+
+The Guardian reports that Lee flew alone from Bangkok's Suvarnabhumi airport, as did Bella May Culley, who was arrested a day earlier in Georgia, and that investigators may examine a link between the two cases. [@6] The Guardian says Lee, described as a former cabin attendant, could face a 25-year sentence if found guilty. [@6]
