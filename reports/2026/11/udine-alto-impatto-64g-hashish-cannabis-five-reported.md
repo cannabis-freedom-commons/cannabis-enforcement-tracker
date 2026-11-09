@@ -49,25 +49,31 @@ sources:
     publisher: Il Friuli
     date: 2026-11-09
     language: it
+  - title: 'Udine, controlli Borgo Stazione: sequestrati 64 grammi di droga'
+    url: https://www.friulioggi.it/cronaca/controlli-borgo-stazione-udine-sequestro/
+    publisher: Friuli Oggi
+    date: 2026-11-09
+    language: it
 open_questions:
   - The 60 grams of hashish and four grams of cannabis are reported as one combined total for both operations; the sources do not split the amounts between 30 October and 3 November.
   - No value estimate, number of officers deployed, or outcome for the five reported people was published.
   - The 3 November 2026 operation date is used as the incident date; the second check day was 30 October 2026.
   - Both accounts appear to draw on the same police statement, so they are not fully independent.
   - The only picture on the UdineToday page, and the photo on the Il Friuli page, are generic police images with no caption tying them to this operation, so no media entry is added.
+  - The page's lead photo comes from an upload folder dated 2021, predating this operation, so no media entry is added.
 ---
 
 Udine police identified more than 300 people, stopped 87 vehicles and checked
 four public businesses in two Alto Impatto (High Impact) operations held on 30
-October and 3 November 2026. [@1] The two operations seized a total of 60 grams
-of hashish and four grams of cannabis. [@1] Five people were reported
+October and 3 November 2026. [@1,3] The two operations seized a total of 60 grams
+of hashish and four grams of cannabis. [@1,3] Five people were reported
 administratively for possessing drugs for personal use under article 75 of
-Italy's 1990 drug law. [@1]
+Italy's 1990 drug law. [@1,3]
 
 An Italian citizen was also reported at liberty for insulting a public official.
-[@1] Udine's Polizia di Stato coordinated the operations with the Carabinieri,
+[@1,3] Udine's Polizia di Stato coordinated the operations with the Carabinieri,
 the railway police, the local police and drug-dog units of the Guardia di
-finanza. [@1] The checks concentrated on Borgo Stazione and on other parts of
+finanza. [@1,3] The checks concentrated on Borgo Stazione and on other parts of
 the city and its outskirts where drug dealing is reported. [@1]
 
 Il Friuli reported the same balance: five people reported for personal-use drug
@@ -76,4 +82,3 @@ Italian reported for insulting a public official. [@2]
 
 The checks were ordered by Udine's police chief (questore) under the city's
 urban prevention and security plan. [@1]
-
