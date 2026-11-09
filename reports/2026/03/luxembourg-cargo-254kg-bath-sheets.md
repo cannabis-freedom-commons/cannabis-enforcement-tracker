@@ -60,6 +60,15 @@ sources:
     publisher: Virgule
     date: 2026-04-03
     language: fr
+  - title: Why Luxembourg Airport is increasingly becoming a hub for drug smugglers
+    url: https://www.luxtimes.lu/luxembourg/why-luxembourg-airport-is-increasingly-becoming-a-hub-for-drug-smugglers/145125496.html
+    publisher: Luxembourg Times
+    date: 2026-04-03
+  - title: Zoll beschlagnahmt mehr als 253 Kilo Cannabis im Wert von 1,5 Millionen Euro
+    url: https://www.tageblatt.lu/Luxemburg/Zoll-beschlagnahmt-mehr-als-253-Kilo-Cannabis-im-Wert-von-15-Millionen-Euro-63278.html
+    publisher: Tageblatt
+    date: 2026-04-03
+    language: de
 open_questions:
   - The prosecutor said publicity was delayed until 3 April 2026 for operational reasons but gave no arrests or destination address in France.
   - RTL Today reported the shipment, like an earlier March seizure at the same hub, was US–France transit freight; no airline or consignee was named.
@@ -68,10 +77,20 @@ open_questions:
   - 'Left out, as its quotation was not found in RTL Infos: The office announced the case on 3 April 2026, saying it could not comment earlier because of operational needs, and that it was still deciding how the inquiry would proceed.'
   - The page's main image is credited as Chris Karaba/Archives/Illustration and does not show this shipment, so no media entry is included.
   - The article also mentions separate recent seizures at the same airport that belong to other reports and are left out here.
+  - The Luxembourg Times names no one arrested for this shipment and gives no consignee in France; the prosecutor's release likewise gives no arrests.
+  - The article gives no separate day for the discovery beyond 6 March, and no details of how the cannabis was packed inside the declared bath-towel shipment.
+  - The Luxembourg Times article was translated from a Luxemburger Wort original with the aid of an AI tool, so its wording is a translation of the German-language account.
+  - The article reports later airport seizures, including a further 123 kg of cannabis at the cargo centre and 600 kg of cannabis from the United States in August 2025, which are separate events and are not covered by this report.
+media:
+  - kind: photo
+    url: https://www.luxtimes.lu/luxembourg/why-luxembourg-airport-is-increasingly-becoming-a-hub-for-drug-smugglers/145125496.html
+    media_url: https://img.wort.lu/public/luxemburg/osten/xg3gal-20251209-saisie-cannabis-findel-%C2%A9administration-des-douanes-et-accises-2.jpg/alternates/SIXTEEN_NINE_1920/20251209_saisie_cannabis_findel_%C2%A9Administration-des-douanes-et-accises_2.jpg
+    publisher: Luxembourg Times
+    caption: 'Cannabis seized at Luxembourg''s Findel airport on 13 November 2025, published with the article on airport smuggling; this picture shows an earlier seizure, not the 6 March 2026 bath-towel cargo. Photo: Administration des douanes et accises / Luxemburger Wort Archive'
 ---
 
 On 6 March 2026 customs officers at Luxembourg-Findel’s Cargo Center inspected
-air freight that had arrived from the United States and was bound for France. [@1,2,3,4]
+air freight that had arrived from the United States and was bound for France. [@1,2,3,4,5]
 The cargo was declared as bath sheets, but checks raised doubts about the
 contents. [@1,2,4]
 
@@ -84,3 +103,5 @@ packaging as deliberate evasion of customs controls. [@1,2,4]
 The office announced the case on 3 April 2026, saying it could not comment earlier
 because of operational needs, and that it was still deciding how the inquiry
 would proceed. [@1,2,4] No arrests were reported. [@1,2]
+
+The public prosecutor's office announced the drug seizure on 3 April and said it could not disclose it earlier “due to certain requirements”, without specifying further details. [@5] The prosecutor's release says the false textile declaration and the packaging showed the deliberate and organised character of the operation and the aim of evading customs controls. [@1] Tageblatt reported that the public prosecutor's office announced the find on Friday 3 April. [@6]
