@@ -41,6 +41,11 @@ media:
     media_url: https://podrobno.uz/upload/iblock/981/zri81iedho2pirsly5te2sx2cklejnax/12543535354535434.jpg
     publisher: Podrobno.uz
     caption: Lead picture published with the report on the drug network broken up in Tashkent and Tashkent Region; its caption repeats the headline and it carries no credit.
+  - kind: photo
+    url: https://repost.uz/gde-tolko-ne-lovyat-ix
+    media_url: https://repost.uz/storage/uploads/thumbnails/4-1794206578-Oleg-post-material-large.webp
+    publisher: Repost.uz
+    caption: 'Interior Ministry handout photo published with the report on the operations in Tashkent and Tashkent Region. Photo: МВД'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f9c5b0bd9f5551a3c4cca7ac0f208f7b
@@ -66,6 +71,11 @@ sources:
     publisher: Пресса.uz
     date: 2026-11-09
     language: ru
+  - title: 'Наркотики в плюшевом медведе: в Ташкенте супругов поймали с крупной партией гашиша и мефедрона'
+    url: https://repost.uz/gde-tolko-ne-lovyat-ix
+    publisher: Repost.uz
+    date: 2026-11-09
+    language: ru
 open_questions:
   - The article gives no separate date for the operations; 9 November 2026 is its publication date and is used as the incident date.
   - 'The report does not say how many people were detained in total beyond the five described: a married couple and their accomplice in Sergeli, a driver in Qibray and two suspects in Mirzo-Ulugbek.'
@@ -89,34 +99,38 @@ open_questions:
   - Pressa.uz does not name the State Security Service, does not give the suspects' previous convictions in Mirzo-Ulugbek and does not mention the Safe and Healthy Country campaign reported by the other sources.
   - The page gives no separate date for the operations; 9 November 2026 is its publication date and stands in for the incident date.
   - The page's only image is a composite lead picture captioned with the headline, not confirmed to show this seizure, so no media entry is added.
+  - Repost.uz gives no separate date for the operations; 9 November 2026 is its publication date and that of the ministry statement.
+  - Repost.uz does not name the State Security Service, unlike the accounts already cited in the report.
+  - Repost.uz gives no weight for the 50 packs of hashish or the hashish found in the Qibray car, so neither adds to the 550-gram total.
+  - Repost.uz describes the Mirzo-Ulugbek suspects only as previously convicted men and does not report the online shop or the detailed criminal records given by the account already cited.
 ---
 
 Officers of the Interior Ministry and the State Security Service broke up a
-group of drug sellers in Tashkent and Tashkent Region. [@1,2,3,4] Across several
+group of drug sellers in Tashkent and Tashkent Region. [@1,2,3,4,5] Across several
 operations officers found hashish, mephedrone and opium extract, described in
 total as about 26,300 single doses of drugs. [@1,3] The operations were carried
 out under the preventive campaign Safe and Healthy Country. [@1,3]
 
 In Sergeli district of the capital officers detained a married couple and their
 accomplice, who police say sold drugs through dead drops while moving by a Matiz
-car. [@1,2,3,4] Officers seized 50 packs of hashish from the couple and their
-accomplice. [@1,2,3,4] A search of the suspects' rented flat in Chilanzar district
+car. [@1,2,3,4,5] Officers seized 50 packs of hashish from the couple and their
+accomplice. [@1,2,3,4,5] A search of the suspects' rented flat in Chilanzar district
 found another 450 grams of hashish, 100 grams of mephedrone, a thousand zip
-bags, electronic scales and tape for packing drugs. [@1,2,3,4] In Qibray district of
+bags, electronic scales and tape for packing drugs. [@1,2,3,4,5] In Qibray district of
 Tashkent Region officers stopped the car of a man previously convicted of
-robbery and fraud and found hashish in it. [@1,2,3,4] Investigators say the Qibray
-driver also sold drugs through dead drops. [@1] Two more suspected members of
+robbery and fraud and found hashish in it. [@1,2,3,4,5] Investigators say the Qibray
+driver also sold drugs through dead drops. [@1,5] Two more suspected members of
 the group were identified in Mirzo-Ulugbek district of Tashkent, one of them a
 repeatedly convicted man who ran an online shop selling drugs. [@1]
 
 A search of a flat in Mirzo-Ulugbek found two kilograms of opium extract, 40
 grams of hashish, electronic scales, a thousand zip bags and equipment for
-preparing drugs. [@1,2,3,4] In total the operations seized 550 grams of hashish, 100
-grams of mephedrone and two kilograms of opium extract. [@1,3,4] A criminal case was
+preparing drugs. [@1,2,3,4,5] In total the operations seized 550 grams of hashish, 100
+grams of mephedrone and two kilograms of opium extract. [@1,3,4,5] A criminal case was
 opened against the group's members under Article 273, which covers making,
 processing, buying, storing and other dealings with drugs or psychotropic
-substances for sale. [@1,3,4]
+substances for sale. [@1,3,4,5]
 
 Officers searched the home of a man born in 1987, previously convicted of fraud, theft, traffic offences and running gambling, and of his accomplice, previously convicted over drugs, theft and serious bodily harm; they were found with about 2 kilograms of opium extract and 40 grams of hashish. [@2]
 
-Officers found the hashish and mephedrone in the Chilanzar flat hidden inside a plush toy. [@4]
+Officers found the hashish and mephedrone in the Chilanzar flat hidden inside a plush toy. [@4,5]
