@@ -58,6 +58,11 @@ sources:
     publisher: Radio TV Valle Viejo
     date: 2026-11-09
     language: es
+  - title: Detuvieron a un joven de 27 años y secuestraron cocaína y plantines de marihuana
+    url: https://www.launion.digital/policiales/detuvieron-joven-27-anos-secuestraron-cocaina-plantines-marihuana-n246037
+    publisher: La Unión Digital
+    date: 2026-11-09
+    language: es
 open_questions:
   - The 27 seedlings are recorded as seized; the accounts do not say whether they were later destroyed or kept as evidence.
   - Radio TV Valle Viejo publishes the same provincial police account as El Esquiú, so it is not independent reporting of the search.
@@ -66,26 +71,29 @@ open_questions:
   - The young man is identified only by his age, and the evidence that the seized plants were marijuana rests on the police account.
   - Coordinates are for Santa María city centre, not the searched address on Calle 2 de Febrero.
   - An El Ancasti report on the same seizure could not be opened (the site blocked access), so its details are not used.
+  - La Unión Digital dates only the publication on 9 November 2026; the existing report uses 8 November as the incident date from the El Esquiú account.
+  - This page is the same provincial police statement carried by the other outlets, not independent reporting of the search.
+  - The page picture carries no caption or credit, so it is not added as media.
+  - No charge, plea or court outcome, and no weight or street value for the cannabis, was published in this account.
 ---
 
 Officers of the GAUR-Santa María anti-narcotics group, part of the Catamarca
 provincial police's Dangerous Drugs Directorate, searched a house on Calle 2 de
-Febrero in Santa María city. [@1] The Juzgado Federal N° 1, the federal court in
+Febrero in Santa María city. [@1,3] The Juzgado Federal N° 1, the federal court in
 Catamarca, knew of and took part in the search. [@1] The search took place on 8
 November 2026, the day before the account was published. [@1]
 
-Officers seized 27 marijuana seedlings of different sizes. [@1] Police also took
+Officers seized 27 marijuana seedlings of different sizes. [@1,3] Police also took
 a digital gram scale and two mobile phones, and placed them at the disposal of
 the court. [@1] Officers also found plastic wrappings with a white substance
 that a field test indicated was cocaine; the cocaine is not counted in the
 cannabis figures. [@1]
 
 At the end of the search police detained a 27-year-old man and handed him to the
-court handling the case. [@1] The federal court issued instructions for the case
+court handling the case. [@1,3] The federal court issued instructions for the case
 to continue. [@1] Radio TV Valle Viejo reports the same search at Calle 2 de
 Febrero S/N° in the city of Santa María, in the department of the same name,
 with the same seizures and the same detained 27-year-old. [@2]
 
 The police described the operation as part of the provincial force's prevention
 and investigation work against drug trafficking. [@1]
-
