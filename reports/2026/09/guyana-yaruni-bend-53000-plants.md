@@ -52,25 +52,35 @@ sources:
     url: https://newsroom.gy/2026/09/11/police-destroy-53000-cannabis-plants-in-linden-eradication-exercise/
     publisher: News Room Guyana
     date: 2026-09-11
+  - title: $22M worth of ganja, makeshift camps destroyed by Police
+    url: https://guyanatimesgy.com/22m-worth-of-ganja-makeshift-camps-destroyed-by-police
+    publisher: Guyana Times
+    date: 2026-09-12
 media:
   - kind: photo
     url: https://ignitenews.com/2026/09/11/police-destroy-53000-cannabis-plants-valued-at-22-million-in-linden/
     media_url: https://ignitenews.b-cdn.net/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-11-at-9.48.04-AM.jpeg
     publisher: Ignite News
     caption: "A wooden camp structure burning during the Yaruni Bend destruction operation (Ignite News)."
+  - kind: photo
+    url: https://guyanatimesgy.com/22m-worth-of-ganja-makeshift-camps-destroyed-by-police
+    media_url: https://guyanatimesgy.com/wp-content/uploads/2026/09/ganja-1-225x300.jpg
+    publisher: Guyana Times
+    caption: 'One of the makeshift camps on fire during the Yaruni Bend destruction operation. Photo: Guyana Times.'
 open_questions:
   - iNews Guyana published additional farm and drying-area photos of the same operation without separate direct media_url entries here.
+  - The submitted Guyana Chronicle page could not be read because its capture shows a Sucuri Website Firewall geo-block rather than the article text.
 ---
 
 Police destroyed about 53,000 cannabis plants on two farms at Yaruni Bend, Linden, in the Upper
-Demerara River area on 10 September 2026. [@1,2,3] The farms covered a combined eight acres (about
-3.24 hectares), and the plants were between two and six feet tall. [@1,2]
+Demerara River area on 10 September 2026. [@1,2,3,4] The farms covered a combined eight acres (about
+3.24 hectares), and the plants were between two and six feet tall. [@1,2,4]
 
 The eradication exercise ran from 05:30 to 16:36. [@1,3] Officers also found two makeshift camps and
 two drying areas holding a combined 10 pounds (about 4.5 kg) of dried cannabis; the plants, camps
-and drying areas were destroyed by fire. [@1,2,3]
+and drying areas were destroyed by fire. [@1,2,3,4]
 
 No arrests were made and investigations continue. [@1,2,3] The Guyana Police Force put the value of
-the destroyed narcotics at GY$22,038,728. [@1,3]
+the destroyed narcotics at GY$22,038,728. [@1,3,4]
 
 The operation was led by a Gazetted Officer. [@3]
