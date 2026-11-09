@@ -58,6 +58,11 @@ sources:
     publisher: المديرية العامة لقوى الأمن الداخلي
     date: 2026-11-09
     language: ar
+  - title: مداهمة في عرمون... توقيف 3 أشخاص وضبط كميات من المخدرات
+    url: https://elsiyasa.com/article/435925
+    publisher: ElSiyasa
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No date is given for the raid; 9 November 2026 is the date of the Internal Security Forces statement and of the articles, and stands in for the incident date.
   - No weight is given for the hashish found in one large and 11 medium bags, so no kilogram figure is recorded.
@@ -72,13 +77,15 @@ open_questions:
   - 'Left out, as its quotation was not found in المديرية العامة لقوى الأمن الداخلي: Officers also seized 145 Sanita sachets, 62 wrapped plastic capsules, 38 small transparent capsules, one large capsule and 14 medium capsules holding narcotic substances, most described as a white powder.'
   - 'Left out, as its quotation was not found in المديرية العامة لقوى الأمن الداخلي: A transparent bag held about 710 Captagon pills, an amphetamine-type stimulant, and another sachet held 69 small bags of drugs.'
   - Left out products, as its quotation was not found in المديرية العامة لقوى الأمن الداخلي.
+  - ElSiyasa reproduces the same Internal Security Forces statement already cited, so it is not independent reporting of the arrest.
+  - The page's only image is a betting-site banner, so no media is added.
 ---
 
 Lebanon's Internal Security Forces raided an apartment on Mariam Street in
 Aramoun, near Al-Mustafa Mosque in the Mneimneh Building, acting on information
-that people were dealing drugs there. [@2] A patrol of the Mount Lebanon
+that people were dealing drugs there. [@2,3] A patrol of the Mount Lebanon
 Investigation Unit, part of the Regional Gendarmerie Unit, arrested three men
-inside the apartment, all of whom it said were Syrian by their own account. [@2]
+inside the apartment, all of whom it said were Syrian by their own account. [@2,3]
 The three were born in 1988, 1991 and 2008. [@1]
 
 Police seized a motorcycle, a service handgun with an empty magazine, an
@@ -89,4 +96,3 @@ The force described the three as a drug-dealing network it had dismantled in
 Aramoun. [@2] The detainees, the seized items and the motorcycle were handed to
 the competent unit for legal action on the instructions of the competent
 judiciary. [@1]
-
