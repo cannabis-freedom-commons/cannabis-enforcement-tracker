@@ -41,26 +41,32 @@ sources:
     publisher: Seneweb
     date: 2026-11-08
     language: fr
+  - title: 'Port de Dakar : un vigile arrêté après une saisie de chanvre indien'
+    url: https://www.thiesinfo.com/Port-de-Dakar-un-vigile-arrete-apres-une-saisie-de-chanvre-indien_a15355.html
+    publisher: Thiesinfo
+    date: 2026-11-09
+    language: fr
 open_questions:
   - The published weight of 500 g covers the loose cannabis; no weight was given for the 13 sachets, so they are not counted in kilograms.
   - No charges beyond custody for detention and trafficking, and no court outcome were reported.
   - Only one outlet account could be opened; no second source or agency statement was found.
   - The page carries a photo captioned with the article headline and no credit, which does not establish that it shows this seizure, so no media entry is included.
+  - Thiesinfo does not give the arrested man's nationality, which the Seneweb and Le Dakarois accounts report as Guinean.
+  - The 13 sachets still carry no weight of their own; 500 g covers only the loose cannabis.
 ---
 
 On 7 November 2026, gendarmes of the Faidherbe Research Brigade received
 information about a drug-trafficking network operating around the Autonomous
-Port of Dakar. [@1] Early findings indicated that most of the people involved in
+Port of Dakar. [@1,2] Early findings indicated that most of the people involved in
 the network were of Guinean and Sierra Leonean nationality. [@1] A special
 operation led to the arrest of watchman A. Camara, a 34-year-old Guinean, caught
-in the act. [@1]
+in the act. [@1,2]
 
 Officers found him with 500 g of loose cannabis and 13 sachets of the same drug
-intended for sale. [@1] The drugs were carefully concealed in a backpack. [@1]
+intended for sale. [@1,2] The drugs were carefully concealed in a backpack. [@1]
 
 Questioned about the origin and destination of the drugs, Camara admitted
-trafficking cannabis and named a certain S. Y. as his main supplier. [@1] After
+trafficking cannabis and named a certain S. Y. as his main supplier. [@1,2] After
 questioning, Camara was placed in custody for detention and trafficking of
-cannabis. [@1] Searches were under way to locate and arrest the alleged
+cannabis. [@1,2] Searches were under way to locate and arrest the alleged
 supplier. [@1]
-
