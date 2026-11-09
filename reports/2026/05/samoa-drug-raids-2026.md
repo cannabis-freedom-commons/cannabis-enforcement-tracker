@@ -33,10 +33,17 @@ sources:
     url: https://islandsbusiness.com/pacnews/pacnews-three-28-may-2026/
     publisher: Islands Business
     date: 2026-05-28
+  - title: 20 raids, 55 charged
+    url: https://www.samoaobserver.ws/category/samoa/120132
+    publisher: Samoa Observer
+    date: 2026-05-27
 open_questions:
   - The bulletin gives no cannabis quantity beyond mentioning marijuana plants among the seized items.
+  - The article displays photos of seized marijuana products, firearms and the commissioner credited to Keith Ropati, but the supplied image metadata does not map captions to file addresses, so no photo entry is added.
 ---
 
 The acting police commissioner said 20 raids between January and May 2026 led to 55 charges, including 12 women aged 18–47 and 43 men aged 16–53. Seizures included just over 100 g of methamphetamine, marijuana plants and joints, and firearms. The figures cover all drugs. [@1]
 
-Those charged came from villages including Fasitoo Uta, Leone, Salelologa, Leauvaa, Afega, Moamoa, Nu’u Fou and Vaitele-Uta. [@2] The seized items shown at the press conference also included drug utensils and prescribed bottles containing drugs confiscated at the border. [@2]
+Those charged came from villages including Fasitoo Uta, Leone, Salelologa, Leauvaa, Afega, Moamoa, Nu’u Fou and Vaitele-Uta. [@2,3] The seized items shown at the press conference also included drug utensils and prescribed bottles containing drugs confiscated at the border. [@2,3]
+
+Police carried out the 20 raids between 29 January and 26 May 2026, seizing 100.98 grams of methamphetamine. [@3] Police first started publishing the photos and names of people allegedly involved in drug matters in December 2025. [@3]
