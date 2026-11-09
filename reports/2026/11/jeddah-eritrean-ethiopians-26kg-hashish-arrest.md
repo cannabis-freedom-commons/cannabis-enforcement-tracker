@@ -68,6 +68,11 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-09
     language: ar
+  - title: ضبط شبكة ترويج حشيش في جدة تضم إريترياً وعشرة إثيوبيين
+    url: https://alsaudi.news/local/0911/119936/
+    publisher: السعودية الإخبارية
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The article gives no separate date for the arrests; 9 November 2026 is its publication date and is used as the incident date.
   - The six residents other than the Eritrean are not given a nationality.
@@ -78,15 +83,16 @@ open_questions:
   - This outlet does not separate residents from violators of the border security law, unlike the account already cited in the report.
   - Sra7h gives no separate date for the arrests; 9 November 2026 is its publication date, matching the date used in the existing report.
   - The article carries the same directorate statement wording as the accounts already cited, so it is not an independent report.
+  - This outlet gives no separate date for the arrests; 9 November 2026 is its publication date.
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control arrested an Eritrean
 resident, six other residents and four Ethiopian violators of the border
-security law in Jeddah governorate. [@1,3,4] The directorate accused the 11 people
-of promoting 26 kilograms of hashish. [@1,3,4]
+security law in Jeddah governorate. [@1,3,4,5] The directorate accused the 11 people
+of promoting 26 kilograms of hashish. [@1,3,4,5]
 
 The suspects were stopped, the regulatory measures were taken against them and
-they were referred to the Public Prosecution. [@1,4] Ajel English reported the
+they were referred to the Public Prosecution. [@1,4,5] Ajel English reported the
 same arrest of an Eritrean resident and 10 Ethiopians in Jeddah over 26
 kilograms of hashish. [@2]
 
