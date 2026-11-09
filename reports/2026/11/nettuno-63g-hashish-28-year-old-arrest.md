@@ -1,0 +1,81 @@
+---
+code: 808WS5
+added_at: "2026-11-09T12:24:40.705089Z"
+date: 2026-11-08
+country: it
+place: Via Padre Liberati, Nettuno, Metropolitan City of Rome
+coordinates: [41.4572, 12.6622]
+precision: locality
+type: arrest
+also: [seizure]
+title: 28-year-old arrested in Nettuno with 63 g of hashish
+summary: >-
+  Carabinieri in Nettuno arrested a 28-year-old after finding about 60 grams of hashish in his car and another 3 grams at his home with a scale and packaging material. He was taken to Velletri prison as a suspected dealer.
+figures:
+  arrested: 1
+  kg_seized: 0.063
+details:
+  agencies: [it-carabinieri]
+  agency_types: [gendarmerie]
+  products:
+    - {product: hashish, kg: 0.063}
+  activity: [possession, sale]
+  setting: [home, vehicle]
+  charges: [detenzione ai fini di spaccio di sostanze stupefacenti]
+  case_stage: investigation
+  date_precision: approximate
+  region: Lazio
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.charges: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://canaledieci.it/2026/11/09/panetto-di-hashish-in-auto-e-droga-a-casa-arrestato-un-ventottenne-a-nettuno/
+    media_url: https://canaledieci.it/wp-content/uploads/2026/11/sequestro_1200x800-1-696x464.jpg
+    publisher: Canale Dieci
+    caption: Photo of the seized drugs published with the report on the Nettuno arrest.
+status: verified
+created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
+submission: decbdca929df4f22ff65797b804f11a1
+tags: [nettuno, lazio, hashish, carabinieri]
+sources:
+  - title: 'Panetto di hashish in auto e droga a casa: arrestato un ventottenne a Nettuno'
+    url: https://canaledieci.it/2026/11/09/panetto-di-hashish-in-auto-e-droga-a-casa-arrestato-un-ventottenne-a-nettuno/
+    publisher: Canale Dieci
+    date: 2026-11-09
+    language: it
+open_questions:
+  - The article was published on 9 November 2026 and says the stop happened the previous morning, so 8 November 2026 is used as the incident date.
+  - The 60 grams in the car is described as approximate, so the 63-gram total combining it with the 3 grams at home is approximate.
+  - No amount was published for the cash found, so no value or cash figure is recorded.
+  - No charge wording beyond serious suspicion of possession for sale, and no validation hearing or court outcome, was reported.
+  - Only one accessible source for this event was found after searching in Italian.
+  - The page photo caption identifies it only as the seized drugs, with no credit or confirmation that it is an official handout.
+---
+
+Carabinieri stopped a vehicle in via Padre Liberati in Nettuno during a targeted
+check. [@1] The driver was a 28-year-old of Romanian origin living in Lariano
+who was already known to police for specific offences. [@1] Investigators
+consider him seriously suspected of possession of drugs for sale. [@1] He was
+taken to the Velletri prison and remains at the disposal of the judicial
+authority. [@1]
+
+Hidden in the car, officers found a block of hashish alongside several
+ready-portioned wraps, weighing about 60 grams in total. [@1] Officers also
+found cash in the car considered proceeds of dealing. [@1] A search of his home
+found another 3 grams of hashish, a precision electronic scale and packaging
+material, with scissors still bearing visible hashish residue. [@1]
+
+The stop was carried out by the Radiomobile unit of the N.O.R. during a targeted
+check. [@1] Officers ordered the driver to stop after his behaviour aroused
+suspicion and searched first the driver and then the car interior. [@1] The
+arrest came amid intensive checks by the Anzio company on the Roman coast using
+roadblocks, searches and monitoring of sensitive points. [@1]
+
