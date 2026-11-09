@@ -65,6 +65,11 @@ sources:
     publisher: Jornal de Pomerode
     date: 2026-11-09
     language: pt
+  - title: Casal é preso com mais de 30 quilos de maconha, cocaína e ecstasy em operação da PM de Presidente Getúlio
+    url: https://rwtv.com.br/altovale/casal-e-preso-com-mais-de-30-quilos-de-maconha-cocaina-e-ecstasy-em-operacao-da-pm-de-presidente-getulio/
+    publisher: RWTV - Alto Vale
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No names, ages or other identifying details of the two arrested people were published.
   - The articles do not say exactly where in Presidente Getúlio or on which highway the car was stopped.
@@ -74,10 +79,12 @@ open_questions:
   - The submitted page's handout photo is captioned only PMSC, so no caption confirms exactly what it depicts.
   - The three accounts reproduce the same Military Police report rather than independent reporting, and the Portal Educadora account could not be opened.
   - Left out vehicles, as its quotation was not found in Portal GCD.
+  - No names, ages, custody decision or court outcome for the two arrested people were reported beyond their presentation to the police authority in Rio do Sul.
+  - RWTV gives no separate date for the stop and no exact location beyond Presidente Getúlio.
 ---
 
 A man and a woman were arrested for drug trafficking in Presidente Getúlio, in
-Santa Catarina's Alto Vale do Itajaí, on Sunday 8 November 2026. [@1] Military
+Santa Catarina's Alto Vale do Itajaí, on Sunday 8 November 2026. [@1,4] Military
 police stopped a silver car on a highway after the Intelligence Agency of the
 Military Police received information that the pair had travelled to the Santa
 Catarina coast to fetch drugs. [@2] The woman was driving and the man was in the
@@ -99,3 +106,4 @@ Police. [@3] The two face charges on suspicion of drug trafficking under article
 33 of Brazil's drug law, and possible association for trafficking under article
 35 of the same law will be investigated. [@3]
 
+The stop followed intelligence work by the Military Police intelligence agency in Presidente Getúlio, which was investigating the pair's suspected role in supplying dealers in the region. [@4] Police said the pair used a silver car to fetch drugs on the Santa Catarina coast, mainly in Itajaí, and then supply other people involved in trafficking. [@4] The incident was registered as drug trafficking and association for trafficking, and police said the investigation would examine the pair's involvement and possible links to other dealers in the region. [@4]
