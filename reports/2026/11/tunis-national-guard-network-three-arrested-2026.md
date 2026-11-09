@@ -77,6 +77,11 @@ sources:
     publisher: Nessma
     date: 2026-11-09
     language: fr
+  - title: تضم مدربا رياضيا… تفاصيل تفكيك شبكة لترويج المخدرات
+    url: https://realites.com.tn/ar/%d8%aa%d8%b6%d9%85-%d9%85%d8%af%d8%b1%d8%a8%d8%a7-%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d8%a7-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%aa%d9%81%d9%83%d9%8a%d9%83-%d8%b4%d8%a8%d9%83%d8%a9-%d9%84%d8%aa%d8%b1%d9%88%d9%8a%d8%ac-%d8%a7%d9%84%d9%85%d8%ae%d8%af%d8%b1%d8%a7%d8%aa/
+    publisher: رياليتي أون لاين
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No date is given for the operation; 9 November 2026 is the publication date and stands in for the incident date.
   - No weight, plant count or value was published for the cannabis; the cocaine weight is not included in the cannabis figure.
@@ -95,6 +100,8 @@ open_questions:
   - The Webdo article gives no weight or value for the cannabis, only 'une quantité de cannabis', so no cannabis figure can be added.
   - The Nessma/TAP account calls the cannabis zmital where the earlier accounts use zatla, and gives no weight, plant count or value for it.
   - The Nessma page's single picture carries only the truncated headline as caption and with no credit, so no media entry is added.
+  - Realites Online names no town or governorate for the operation, so the existing place of Tunis is kept from other accounts.
+  - The page's only image is a 2024-file National Guard photo with no credit and nothing confirming it shows this operation, so no media entry is added.
 media:
   - kind: photo
     url: https://www.mosaiquefm.net/fr/national-tunisie/1536188/tunis-un-reseau-de-trafic-de-drogues-demantele
@@ -107,11 +114,11 @@ The National Guard's Research and Inspection Brigade in Tunis, working with the
 second central intelligence brigade after an intelligence and field
 investigation, dismantled a drug network suspected of ties to another group.
 [@1,3,6,7] Officers arrested three suspected members of the network, including a
-group-sports coach, and put a fourth person on a wanted list. [@1,2,3,4,6]
+group-sports coach, and put a fourth person on a wanted list. [@1,2,3,4,6,8]
 
 The operation seized about 100 grams of cocaine, an unspecified quantity of
 cannabis, known locally as zatla, about 100,000 dinars in cash and two cars
-suspected of being used to move the network's members. [@1,2,3,4,6,7]
+suspected of being used to move the network's members. [@1,2,3,4,6,7,8]
 
 After being informed, the public prosecutor authorised the legal measures
 required against the suspects. [@1,2,3,6,7]
