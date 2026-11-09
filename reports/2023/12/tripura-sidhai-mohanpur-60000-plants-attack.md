@@ -49,6 +49,10 @@ sources:
     url: https://www.hindustantimes.com/india-news/tripura-cops-who-destroyed-60-000-cannabis-plants-attacked-5-hurt-official-101702566442239.html
     publisher: Hindustan Times
     date: 2023-12-14
+  - title: 'Tripura: Clash erupts as security personnel target cannabis plantations; 60000 plants destroyed'
+    url: https://organiser.org/2023/12/15/211025/bharat/tripura-clash-erupts-as-security-personnel-target-cannabis-plantations-60000-plants-destroyed/
+    publisher: Organiser
+    date: 2023-12-15
 open_questions:
   - Northeast Live reported at least four police personnel injured; the Indian Express and Hindustan Times reported five. The report uses five.
   - Northeast Live said thousands of cannabis plants were destroyed; the Indian Express and Hindustan Times reported around 60,000, the figure used here.
@@ -58,6 +62,8 @@ open_questions:
   - 'Left out, as its quotation was not found in The Indian Express: The injured were treated and discharged from hospital, and an officer said their injuries were not severe.'
   - 'Left out, as its quotation was not found in The Indian Express: A state police official said a sustained drive to destroy illegal cannabis plantations was under way across Tripura, with at least 2.8 million plants destroyed in the year to that point.'
   - Indian Express published a street crowd photograph of the aftermath that did not show the cannabis field clearly enough for a separate media_url entry here.
+  - Organiser gives the state-wide 2023 eradication total and its Rs 140 crore estimate as annual cumulative figures, not as a count for this Panchabati operation; they are not added to this report's figures.
+  - Organiser does not name the injured personnel or report any arrests, charges or court outcome.
 ---
 
 At least five personnel of the Tripura Police and the Tripura State Rifles were
@@ -65,11 +71,11 @@ injured when local residents attacked them in Sidhai Mohanpur village, West
 Tripura district, on Thursday 14 December 2023. [@2] In the Panchabati area, a
 group of locals threw bricks at the contingent on its way back after it
 destroyed the cannabis, and a second group attacked the vehicles and damaged
-their windows. [@2] A police officer said TSR personnel used mild force to
+their windows. [@2,4] A police officer said TSR personnel used mild force to
 disperse the villagers. [@3]
 
 A senior police official said the operation destroyed around 60,000 ganja
-plants, the local name for cannabis. [@2] West Tripura superintendent of police
+plants, the local name for cannabis. [@2,4] West Tripura superintendent of police
 Kiran Kumar said locals attacked the police and TSR team on their way back after
 destroying the cannabis and threw bricks at them, injuring a few. [@1] Kumar
 appealed to the public to cooperate with the police instead of resisting them.
@@ -77,3 +83,4 @@ appealed to the public to cooperate with the police instead of resisting them.
 
 Police registered a case and began a probe to identify the attackers. [@1]
 
+The injured were treated and discharged from hospital, and a case was registered with an investigation under way to identify the attackers, according to a statement from the police headquarters in Agartala. [@4] The security team had parked its vehicles at a distance from the Panchabati cannabis farm and was attacked in two waves, the second aimed at the police vehicles. [@4] Authorities said they had destroyed approximately 2.8 million cannabis plants across Tripura in 2023, an estimated damage of Rs 140 crore to the illegal drug economy. [@4]
