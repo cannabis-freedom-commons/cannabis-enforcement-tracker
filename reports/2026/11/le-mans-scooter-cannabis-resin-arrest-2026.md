@@ -55,6 +55,11 @@ sources:
     publisher: Sweet FM
     date: 2026-11-09
     language: fr
+  - title: 'Il circule à vive allure sur le trottoir et refuse d’obtempérer, au Mans : sa trottinette électrique mise en fourrière'
+    url: https://www.ouest-france.fr/societe/faits-divers/il-circule-a-vive-allure-sur-le-trottoir-et-refuse-dobtemperer-au-mans-sa-trottinette-electrique-mise-en-fourriere-009117c0-dc21-11f1-81f5-8e32b0872d76
+    publisher: Ouest-France
+    date: 2026-11-09
+    language: fr
 open_questions:
   - No weight was reported for the cannabis resin found on the man.
   - The substance was described only as appearing to be cannabis resin, with no laboratory confirmation reported.
@@ -62,14 +67,15 @@ open_questions:
   - The reports name no separate drug charge, and no court outcome was reported.
   - The Maine Libre account gives the date as 8 November 2025 in its opening paragraph, while its own text and other outlets give 8 November 2026; the report uses 2026.
   - The page picture is labelled an illustration by Le Maine Libre and is not known to show this event, so no media is listed.
+  - The Ouest-France page opened here is paywalled, so the full detail of its account, such as the exact duration of the chase or the man's custody, could not be read.
 ---
 
 A police patrol spotted a 22-year-old man riding an electric scooter at high
 speed on the pavement in rue Auvray in central Le Mans at 3:30 pm on Sunday 8
-November 2026. [@1] The rider refused to stop when officers sounded the siren
+November 2026. [@1,4] The rider refused to stop when officers sounded the siren
 and rode away. [@1] Officers caught him about ten minutes later and placed him
 in police custody. [@2] A search of the arrested man found a substance that
-appeared to be cannabis resin, according to the police account. [@1]
+appeared to be cannabis resin, according to the police account. [@1,4]
 
 The scooter was taken to a pound. [@3] The man is to answer for the case through
 a fixed-penalty court order setting 70 hours of unpaid work, with a summons on 7
@@ -78,3 +84,4 @@ and would be handled under a simplified procedure without a judge or a lawyer.
 [@3] Another outlet, citing the police, described the find only as a piece of
 substance resembling cannabis resin and gave no weight. [@3]
 
+The rider was riding on the pavement in rue Auvray, not far from the Sarthe prefecture, when officers spotted him. [@2]
