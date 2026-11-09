@@ -66,6 +66,11 @@ sources:
     publisher: A Redação
     date: 2026-11-09
     language: pt
+  - title: PRF prende homem e apreende mais de 18kg de maconha na BR-153 em Jaraguá
+    url: https://tribunadoplanalto.com.br/prf-prende-homem-e-apreende-mais-de-18kg-de-maconha-na-br-153-em-jaragua/
+    publisher: Tribuna do Planalto
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The article gives no exact kilometre marker, no name, age or home town of the driver, and no charge, custody decision or court step.
   - The weight of 18.4 kilograms comes from the PRF statement reproduced by the outlet; no exact scale reading or laboratory confirmation of the substance was published.
@@ -83,25 +88,26 @@ open_questions:
   - A Redação, like the outlets already cited, reproduces the PRF account; it gives no scale reading or laboratory confirmation of the substance.
   - The page states that the marijuana tablets were in the boot compartment and under the spare tyre, which reconciles the earlier descriptions only if the spare tyre was carried in the boot; this is the outlet's wording and not a separate measurement.
   - The amount of cash seized is still not given, and no court step, charge or custody decision is reported.
+  - Tribuna do Planalto reproduces the PRF account without a scale reading or laboratory confirmation of the substance, and does not give the amount of cash seized or any charge, custody decision or court step.
 ---
 
 Federal Highway Police officers arrested a man on suspicion of drug trafficking
 on the BR-153 at Jaraguá, in central Goiás, late on the afternoon of Sunday 8
-November 2026. [@1,2,3,4] Officers found 18.4 kilograms of marijuana hidden under the
-spare tyre of the car he was driving, the PRF said. [@1,2]
+November 2026. [@1,2,3,4,5] Officers found 18.4 kilograms of marijuana hidden under the
+spare tyre of the car he was driving, the PRF said. [@1,2,5]
 
-The driver of a GM Astra was stopped during a routine check. [@1] According to
+The driver of a GM Astra was stopped during a routine check. [@1,5] According to
 the PRF, he showed nervousness and gave contradictory information about his
 route. [@1] During the search of the vehicle, officers found the tablets of the
 drug in the boot. [@1]
 
 The corporation said the driver told officers he had left Nova Glória and was
-heading for Anápolis. [@1,3] Questioned about the drug, he claimed the substance
+heading for Anápolis. [@1,3,5] Questioned about the drug, he claimed the substance
 was for "personal use". [@1,3]
 
 The suspect was taken to the Civil Police station in Jaraguá. [@1,3,4] The PRF also
-seized the car, two mobile phones and an amount of money. [@1,2,3]
+seized the car, two mobile phones and an amount of money. [@1,2,3,5]
 
-The man already had a criminal record for illegal possession of a firearm, according to the police. [@2,3,4]
+The man already had a criminal record for illegal possession of a firearm, according to the police. [@2,3,4,5]
 
 Officers found several tablets of marijuana hidden in the boot, under the spare tyre, during a detailed search of the vehicle, the same page describing both the tablets in the boot and the space under the spare tyre. [@4]
