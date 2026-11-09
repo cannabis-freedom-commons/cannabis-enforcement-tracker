@@ -54,6 +54,11 @@ sources:
     publisher: Suspilne Zhytomyr
     date: 2026-11-03
     language: uk
+  - title: 'Наркобізнес за ґратами: у Бердичівському виправному центрі викрили двох засуджених на збуті наркотиків'
+    url: https://kriminal.net.ua/news/18340narkob-znes-za-ratami-u-berdich-vskomu-vipravnomu-centr-vikrili-dvoh-zasudzhenih-na-zbut-narkot.html
+    publisher: Криминал
+    date: 2026-11-08
+    language: uk
 open_questions:
   - No cannabis-only weight was published and seized narcotics were reported together with methadone, so no kilogram figure can be recorded.
   - The almost 10,000 hryvnias is seized cash, not a valuation of cannabis, so no value figure is recorded.
@@ -64,24 +69,23 @@ open_questions:
 
 Berdychiv investigators notified two convicts of suspicion for distributing
 drugs inside the correctional facility. [@1] The two are residents of Sumy
-region who are serving sentences in the Berdychiv correctional centre. [@2] The
+region who are serving sentences in the Berdychiv correctional centre. [@2,3] The
 men are aged 41 and 31 and had been convicted repeatedly before. [@1] Both
-suspects are now in custody after a court ordered detention without bail. [@1]
-They face up to 10 years in prison. [@1]
+suspects are now in custody after a court ordered detention without bail. [@1,3]
+They face up to 10 years in prison. [@1,3]
 
 The men received methadone and cannabis in postal parcels hidden among everyday
 items. [@2] They sold what they received to other convicts inside the facility.
-[@1] Officers documented several such sales. [@1] In late August the men planned
+[@1,3] Officers documented several such sales. [@1] In late August the men planned
 to receive another batch containing methadone plus dimedrol and zopiclone. [@1]
 A courier they hired threw the package over the correctional centre fence. [@1]
 Staff found the package and police seized it for expert examination. [@1] In
 late October officers shut down the scheme. [@1] Searches of the suspects
 quarters seized drugs, almost 10,000 hryvnias, phones, computer equipment, notes
-and bank cards. [@1]
+and bank cards. [@1,3]
 
 Investigators notified both men of suspicion under Ukraines Criminal Code
 articles on purchase, storage and sale of narcotics and attempted purchase and
 storage of potent medicines for sale. [@1] The case was uncovered jointly by
 regional strategic-investigations officers, Berdychiv district police, the
 correctional centre and the penitentiary service. [@1]
-
