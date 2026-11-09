@@ -42,6 +42,10 @@ sources:
     url: https://sambadenglish.com/latest-news/two-women-arrested-with-25-kg-of-ganja-in-odishas-rayagada-12794900
     publisher: Sambad English
     date: 2026-11-09
+  - title: 25 kg ganja seized at Rayagada bus stand, two women arrested
+    url: https://www.orissapost.com/25-kg-ganja-seized-at-rayagada-bus-stand-two-women-arrested/
+    publisher: OrissaPOST
+    date: 2026-11-09
 open_questions:
   - The report gives no separate date for the interception or the arrest; 9 November 2026 is the article's publication date and is used as the incident date.
   - The weight is stated as about 25 kg, not an exact measured figure.
@@ -49,11 +53,19 @@ open_questions:
   - The market value is given only as 'over several lakh rupees', without a specific sum.
   - Only one account of the arrest could be opened; no police statement or second outlet report was found to confirm the details.
   - The article's lead photo is captioned only with the headline and has no credit, so it is not listed as media.
+  - The weight is stated as about 25 kg, not an exact measured figure, and no specific market-value sum is given beyond several lakh rupees.
+  - The article gives no separate date for the interception; 9 November 2026 is its publication date and is used as the incident date.
+media:
+  - kind: photo
+    url: https://www.orissapost.com/25-kg-ganja-seized-at-rayagada-bus-stand-two-women-arrested/
+    media_url: https://www.orissapost.com/wp-content/uploads/2026/11/Ganja-.jpg
+    publisher: OrissaPOST
+    caption: 'Photo captioned ''Ganja'' published with the report on the 25 kg seizure at Muniguda bus stand. Photo: OrissaPOST'
 ---
 
 Muniguda police in Rayagada district, Odisha, arrested two women at the Muniguda
-bus stand and seized about 25 kg of ganja from them. [@1] Police said they acted
-on a tip-off, kept watch at the bus stand and intercepted the two women. [@1]
+bus stand and seized about 25 kg of ganja from them. [@1,2] Police said they acted
+on a tip-off, kept watch at the bus stand and intercepted the two women. [@1,2]
 
 The ganja was recovered from the women's possession, and police put its market
 value at over several lakh rupees. [@1] Both women were arrested and forwarded
@@ -65,3 +77,4 @@ were not yet known. [@1] Police said ganja smuggling through buses and trains
 had been a concern in the Muniguda region and that traffickers increasingly used
 women as carriers, believing they attract less suspicion. [@1]
 
+Muniguda police station Inspector-in-Charge Lalit Mohan Sagar said the arrested women had been forwarded to court. [@2] The ganja was weighed in the presence of Additional Tahasildar Brajagopal Das, and police estimated its market value at several lakh rupees. [@2] Police said a team including second officer Urmila Sethi, Home Guard Commandant Tulu Padhi, Prabhat Raut, Subhasini Rai, Sanjukta Nundruka and Santosh Sabar took part in the operation. [@2]
