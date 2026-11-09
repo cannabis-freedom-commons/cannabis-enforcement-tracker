@@ -58,6 +58,16 @@ media:
     media_url: https://i2-prod.manchestereveningnews.co.uk/article34883545.ece/ALTERNATES/s1200e/0_ABR_MEN_091126_CANNABISFARM01.jpg
     publisher: Manchester Evening News
     caption: 'A sniffer dog pictured at the scene in Bromley Cross, Bolton. Photo: GMP'
+  - kind: photo
+    url: https://uk.news.yahoo.com/woman-69-arrested-huge-cannabis-102609469.html
+    media_url: https://s.yimg.com/lo/mysterio/api/f5e732d1068f23850d2232ae0c17545f9ed1f5716e4b6a49681e2d23b1fa5942/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmanchester_evening_news_792%2F5d24fd597731b6e886b3d2b1ebbdbb49.jpg
+    publisher: Yahoo News UK
+    caption: 'The cannabis farm found at the property on Stonesteads Way, Bromley Cross. Photo: GMP'
+  - kind: photo
+    url: https://uk.news.yahoo.com/woman-69-arrested-huge-cannabis-102609469.html
+    media_url: https://s.yimg.com/lo/mysterio/api/200325163c00f5a72823b62dd4f2524d8b28bbab467195136ce9e1e0938c45eb/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmanchester_evening_news_792%2Fad8828e92563a96b4870ebb1dbb06f40.jpg
+    publisher: Yahoo News UK
+    caption: 'A sniffer dog at the scene in Bromley Cross. Photo: GMP'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: d2bbdf0b8aa0663c6c765e45d2edb214
@@ -73,6 +83,10 @@ sources:
     date: 2026-11-09
   - title: Woman, 69, arrested after 49 cannabis plants and £25k found in Bromley Cross property
     url: https://uk.news.yahoo.com/woman-69-arrested-49-cannabis-094524863.html
+    publisher: Yahoo News UK
+    date: 2026-11-09
+  - title: Woman, 69, arrested after huge cannabis farm and £25k in cash uncovered in Bolton
+    url: https://uk.news.yahoo.com/woman-69-arrested-huge-cannabis-102609469.html
     publisher: Yahoo News UK
     date: 2026-11-09
 open_questions:
@@ -93,12 +107,12 @@ A 69-year-old woman was arrested on suspicion of producing cannabis and
 abstracting electricity after police found a cannabis farm at a property in
 Bromley Cross, Bolton. [@1,2,3] Officers from the Bolton North Neighbourhood Team
 attended an address on Stonesteads Way on Wednesday, November 4, where a search
-revealed 49 cannabis plants. [@1,2,3]
+revealed 49 cannabis plants. [@1,2,3,4]
 
-Police also recovered more than £25,000 in cash from the property. [@1,2] The
+Police also recovered more than £25,000 in cash from the property. [@1,2,4] The
 account came from a Bolton Police statement issued through Greater Manchester
 Police. [@1]
 
-The 69-year-old woman has been released on bail pending further enquiries. [@1,2,3]
+The 69-year-old woman has been released on bail pending further enquiries. [@1,2,3,4]
 
 Police also shared a picture of a sniffer dog at the scene alongside photographs of the cannabis farm. [@2]
