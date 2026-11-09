@@ -12,12 +12,18 @@ const byStatus = Object.fromEntries(Object.keys(STATUS).map((s) => [s, reports.f
 const sources = reports.reduce((n, r) => n + r.sources.length, 0);
 const places = countriesWithReports().length;
 const first = Math.min(...years);
-const steps = [
-  ["Find", "Searches run around the clock on Google News, Bing News and other news aggregators, in more than 40 languages, and name the places of countries that have no news edition of their own. Anyone can also send a link."],
-  ["Read", "Each article is opened in a real browser, and its text and a screenshot are kept. When a page is gone or blocked, an archived copy is used."],
-  ["Research", "An AI agent reads the article, looks for other accounts of the same event and checks whether the tracker already has it. It writes a new report, adds the source to an existing one, or turns the article down and says why."],
-  ["Check", "Every fact must be backed by a quotation found in a source that was opened. Facts without one are dropped; a report whose facts all pass is marked verified."],
-  ["Publish", "The report goes on the site with its sources. It keeps a permanent code, and every later change to it is recorded."],
+// the pipeline as a diagram: where articles come from, the three steps each goes through, and the
+// three ways it can end; small stroke icons drawn on a 24-unit grid
+const icon = {
+  find: "M10.5 4a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13zM20 20l-4.6-4.6",
+  read: "M3 5h18v14H3zM3 9h18M6 7h.01M8.5 7h.01M7 13h10M7 16h6",
+  research: "M12 3l1.8 4.7L18.5 9.5l-4.7 1.8L12 16l-1.8-4.7L5.5 9.5l4.7-1.8zM18.5 15l.9 2.1 2.1.9-2.1.9-.9 2.1-.9-2.1-2.1-.9 2.1-.9z",
+  check: "M7 7h4v4H8.5L7 14zM14 7h4v4h-2.5L14 14zM5 19l3 2 5-5",
+};
+const flow = [
+  ["read", "Read", "In a real browser; text and a screenshot kept, or an archived copy."],
+  ["research", "AI research", "Finds other accounts and checks the tracker for the same event."],
+  ["check", "Check", "Every fact needs a quotation from a source that was opened."],
 ];
 const sections = [["how", "How it works"], ["scope", "What counts"], ["report", "A report"], ["figures", "Figures"], ["data", "Data"], ["help", "Help"]];
 ---
@@ -42,12 +48,35 @@ const sections = [["how", "How it works"], ["scope", "What counts"], ["report", 
     <h2 id="how">How it works</h2>
     <p>Most reports are found, read and written automatically, and anyone can correct them afterwards.</p>
   </div>
-  <ol class="about-steps">
-    {steps.map(([name, text], i) => <li><span class="step-n">{i + 1}</span><div><b>{name}</b><p>{text}</p></div></li>)}
-  </ol>
+  <figure class="flow" aria-label="How a report is made">
+    <div class="flow-row flow-in">
+      <span class="flow-head"><svg viewBox="0 0 24 24" aria-hidden="true"><path d={icon.find} /></svg><b>Find</b></span>
+      <ul class="flow-chips"><li>Google News</li><li>Bing News</li><li>Other aggregators</li><li>Links people send</li></ul>
+      <span class="flow-note">40+ languages, around the clock</span>
+    </div>
+    <span class="flow-down flow-to-first" aria-hidden="true"></span>
+    <ol class="flow-steps">
+      {flow.map(([key, name, text]) => (
+        <li class="flow-node">
+          <span class="flow-head"><svg viewBox="0 0 24 24" aria-hidden="true"><path d={icon[key]} /></svg><b>{name}</b></span>
+          <p>{text}</p>
+        </li>
+      ))}
+    </ol>
+    <span class="flow-down flow-from-last" aria-hidden="true"></span>
+    <div class="flow-row flow-out">
+      <span class="flow-head"><b>Outcome</b></span>
+      <ul class="flow-chips">
+        <li class="out-new"><span aria-hidden="true">✓</span>New report</li>
+        <li><span aria-hidden="true">+</span>Source added to a report</li>
+        <li class="out-no"><span aria-hidden="true">✕</span>Turned down, reason kept</li>
+      </ul>
+      <span class="flow-note">Published with a permanent code</span>
+    </div>
+  </figure>
   <div class="prose">
     <p>The AI does not decide what is true; the checks do. A report states only what its sources state, and every
-      sentence links to them. Articles about something else, about synthetic drugs, or that cannot be backed up are
+      sentence links to them; a report whose facts all pass is marked verified. Articles about something else, about synthetic drugs, or that cannot be backed up are
       turned down, and the reason is kept. The <a href={`${base}submissions/`}>submissions page</a> shows every article
       sent in, including the ones that did not become reports.</p>
 
@@ -91,7 +120,7 @@ const sections = [["how", "How it works"], ["scope", "What counts"], ["report", 
 </Base>
 
 <style>
-  .about-facts, .about-steps { max-width: 68ch; font-size: 16.5px; }
+  .about-facts { max-width: 68ch; font-size: 16.5px; }
   .about-facts { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 26px 0 0; background: var(--border); border: 1px solid var(--border); border-radius: var(--r); overflow: hidden; }
   .about-facts div { background: var(--surface); padding: 14px 16px; }
   .about-facts dt { font-size: 12.5px; color: var(--muted); }
@@ -100,11 +129,36 @@ const sections = [["how", "How it works"], ["scope", "What counts"], ["report", 
   .about-nav a { padding: 5px 11px; border: 1px solid var(--border); border-radius: 999px; font-size: 13px; color: var(--text-2); text-decoration: none; background: var(--surface); }
   .about-nav a:hover { color: var(--text); border-color: var(--text-2); }
   .prose h2 { scroll-margin-top: 16px; }
-  .about-steps { list-style: none; margin: 18px 0 20px; padding: 0; display: grid; gap: 10px; max-width: 68ch; }
-  .about-steps li { display: grid; grid-template-columns: 32px 1fr; gap: 14px; padding: 14px 16px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); }
-  .about-steps .step-n { display: grid; place-items: center; width: 32px; height: 32px; border-radius: var(--r); background: var(--accent); color: var(--accent-ink); font: 600 14px var(--mono); }
-  .about-steps b { font-family: var(--display); font-weight: 400; font-size: 21px; }
-  .about-steps p { margin: 2px 0 0; color: var(--text-2); font-size: 15.5px; line-height: 1.6; }
+  .flow { max-width: 68ch; font-size: 16.5px; margin: 22px 0 24px; display: flex; flex-direction: column; }
+  .flow-head { display: flex; align-items: center; gap: 8px; }
+  .flow-head svg { width: 20px; height: 20px; flex: none; fill: none; stroke: var(--text); stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+  .flow-head b { font: 400 19px/1.1 var(--display); white-space: nowrap; }
+  /* the sources above and the outcomes below: a dashed band of chips */
+  .flow-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; padding: 12px 14px; border: 1px dashed var(--border); border-radius: var(--r); }
+  .flow-chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+  .flow-chips li { padding: 4px 8px; border: 1px solid var(--border); border-radius: var(--r); background: var(--surface); font: 11.5px/1.35 var(--mono); color: var(--text-2); white-space: nowrap; }
+  .flow-chips span { margin-right: 6px; color: var(--muted); }
+  .flow-out .out-new { color: var(--text); border-color: var(--text-2); }
+  .flow-out .out-new span { color: var(--text); }
+  .flow-out .out-no { color: var(--muted); }
+  .flow-note { flex-basis: 100%; font-size: 12.5px; color: var(--muted); }
+  /* an arrow down between the bands, and arrows across between the three steps */
+  .flow-down { position: relative; align-self: center; width: 1.5px; height: 22px; background: var(--muted); margin-bottom: 4px; }
+  .flow-down::after { content: ""; position: absolute; left: -3px; bottom: -3px; width: 6px; height: 6px; border-right: 1.5px solid var(--muted); border-bottom: 1.5px solid var(--muted); transform: rotate(45deg); }
+  /* into the first step's middle, and out of the last one's (three columns, 24px gaps) */
+  .flow-to-first { align-self: flex-start; margin-left: calc((100% - 48px) / 6); }
+  .flow-from-last { align-self: flex-start; margin-left: calc(100% - (100% - 48px) / 6); }
+  .flow-steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+  .flow-node { position: relative; display: flex; flex-direction: column; gap: 7px; padding: 12px 13px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); }
+  .flow-node p { margin: 0; font-size: 13.5px; line-height: 1.5; color: var(--text-2); }
+  .flow-node:not(:last-child)::before { content: ""; position: absolute; top: 50%; right: -20px; width: 15px; height: 1.5px; background: var(--muted); }
+  .flow-node:not(:last-child)::after { content: ""; position: absolute; top: 50%; right: -20px; width: 6px; height: 6px; margin-top: -3px; border-top: 1.5px solid var(--muted); border-right: 1.5px solid var(--muted); transform: rotate(45deg); }
+  @media (max-width: 640px) {
+    .flow-steps { grid-template-columns: 1fr; gap: 26px; }
+    .flow-to-first, .flow-from-last { align-self: center; margin-left: 0; }
+    .flow-node:not(:last-child)::before { top: auto; bottom: -22px; right: auto; left: 50%; width: 1.5px; height: 17px; }
+    .flow-node:not(:last-child)::after { top: auto; bottom: -21px; right: auto; left: calc(50% - 2.25px); margin: 0; transform: rotate(135deg); }
+  }
   .about-types, .about-status { list-style: none; padding: 0; margin: 14px 0; border-top: 1px solid var(--border); }
   .about-types li, .about-status li { display: grid; grid-template-columns: 9.5em 1fr auto; gap: 12px; align-items: baseline; padding: 7px 0; border-bottom: 1px solid var(--border); font-size: 15px; line-height: 1.5; }
   @media (max-width: 640px) {
