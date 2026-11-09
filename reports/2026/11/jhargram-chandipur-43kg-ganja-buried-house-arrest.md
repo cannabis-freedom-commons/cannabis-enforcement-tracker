@@ -67,6 +67,10 @@ sources:
     url: https://www.daijiworld.com/news/newsDisplay?newsID=1334769
     publisher: Daijiworld.com
     date: 2026-11-08
+  - title: West Bengal police seize 43 Kg marijuana, heroin worth Rs 37 lac; two arrested
+    url: https://www.daijiworld.com/index.php/news/newsDisplay?newsID=1334769
+    publisher: Daijiworld.com
+    date: 2026-11-08
 open_questions:
   - The article is dated 8 November 2026, a Sunday, and says the raid happened on Saturday night; 7 November 2026 is used as the incident date.
   - No valuation of the seized ganja was published.
@@ -83,23 +87,26 @@ open_questions:
   - This account puts the raid early on Sunday 8 November 2026, while the reports already cited describe a search on Saturday night; the earlier incident date of 7 November 2026 is kept.
   - The account names the householder Biswajit Shil, transliterated as Biswajit Sheel in the reports already cited, and the officer as SDPO Rishabhraj Dev rather than Rishabhraj Deb.
   - No independent agency statement on the Jhargram search was opened; this page is an IANS wire text republished by SocialNews.XYZ, so it does not add a separate police source.
+  - Daijiworld says the search happened early on Sunday 8 November 2026, while the report's other sources describe a Saturday-night search; the existing incident date of 7 November 2026 is kept.
+  - Daijiworld transliterates the householder's name as Biswajit Shil and the officer as SDPO Rishabhraj Dev.
+  - The page's single photograph carries no caption or credit that ties it to this search.
 ---
 
 Police in Jhargram searched the house of Biswajit Sheel in Chandipur village in
-the Shalboni area of Jhargram police station. [@1,4] Acting on a secret tip-off,
+the Shalboni area of Jhargram police station. [@1,4,6] Acting on a secret tip-off,
 officers raided the house on Saturday night. [@1] After searching the house
 thoroughly they found nothing at first. [@1,5] The soil of the room's floor made
-police suspicious. [@1,5] They then began digging up the earth. [@1] After digging
+police suspicious. [@1,5] They then began digging up the earth. [@1,6] After digging
 only a short distance, police reached three sacks. [@1] They pulled the sacks
 out from under the soil, and when they opened them kilo upon kilo of ganja
 spilled out. [@1,5]
 
-Police said the three sacks together held 43 kg 222 g of ganja. [@1,4,5] The sacks
+Police said the three sacks together held 43 kg 222 g of ganja. [@1,4,5,6] The sacks
 of ganja were seized. [@1,4] The operation was carried out on Saturday night in
 the presence of Jhargram police station inspector-in-charge Udayshankar Ghosh
 and Jhargram block joint BDO Souvik Pramanik. [@1] Jhargram SDPO Rishabhraj Deb
 said Biswajit was arrested under sections of the NDPS Act, India's
-anti-narcotics law. [@1,4,5]
+anti-narcotics law. [@1,4,5,6]
 
 People in the area are used to ganja being recovered from searches of stopped
 trucks, buses, cars and motorbikes. [@1] Many cannot recall a recent case of

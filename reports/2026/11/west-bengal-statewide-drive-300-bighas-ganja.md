@@ -91,6 +91,10 @@ sources:
     publisher: Dinamalar
     date: 2026-11-08
     language: ta
+  - title: West Bengal police seize 43 Kg marijuana, heroin worth Rs 37 lac; two arrested
+    url: https://www.daijiworld.com/index.php/news/newsDisplay?newsID=1334769
+    publisher: Daijiworld.com
+    date: 2026-11-08
 open_questions:
   - No date is given for individual raids; 7 November 2026 is the date of the announcement and the last day of the drive, and is used as the incident date.
   - The 10,000 kg is the chief minister's estimate of the yield of the 300 bighas of ganja destroyed, not a weighed amount.
@@ -127,13 +131,13 @@ media:
 
 West Bengal police arrested 378 people in 212 cases registered under the
 Narcotic Drugs and Psychotropic Substances (NDPS) Act during a statewide special
-drive against drug trafficking and illicit cultivation. [@1,3,6,8,9,10] Chief Minister
+drive against drug trafficking and illicit cultivation. [@1,3,6,8,9,10,11] Chief Minister
 Suvendu Adhikari announced the results on 7 November 2026, the last day of the
 drive, in a post on social media. [@2,3,6] Officers destroyed illegal ganja
 cultivation spread over 300 bighas of land, a form of cannabis grown for its
 flowers and leaves. [@1,3,6,8,10] Law enforcement agencies also seized Rs 17 lakh in cash
 and disposed of seized narcotic substances worth around Rs 101 crore during the
-period. [@1,3,8,10]
+period. [@1,3,8,10,11]
 
 Police valued the narcotics seized in the drive at about Rs 64 crore, a figure
 that covered heroin, brown sugar, morphine, yaba tablets and codeine-based cough
@@ -152,3 +156,5 @@ The chief minister's post listed 215 public awareness campaigns during the drive
 The drive ran across the whole state for one week, from 31 October to 7 November. [@6,7,9]
 
 International and state borders were placed under intensified surveillance and vehicles were allowed through only after thorough checks during the drive. [@10]
+
+The drive destroyed illicit marijuana cultivation amounting to 10,000 kg, attached properties worth Rs 1 crore and began 68 financial investigations against 110 accused. [@11]
