@@ -162,6 +162,11 @@ sources:
     publisher: الزمان
     date: '2026-11-08'
     language: ar
+  - title: 'الدولة تضع طلاب المدارس على رأس أولوياتها.. صندوق مكافحة الإدمان: 4510 سائقين بحافلات مدرسية خضعوا للكشف عن تعاطى المخدرات خلال شهرين.. عمرو عثمان: ضبط 31 سائقًا يتعاطون الحشيش والترامادول وإحالتهم للنيابة'
+    url: https://www.youm7.com/story/2026/11/8/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%AA%D8%B6%D8%B9-%D8%B7%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%B9%D9%84%D9%89-%D8%B1%D8%A3%D8%B3-%D8%A3%D9%88%D9%84%D9%88%D9%8A%D8%A7%D8%AA%D9%87%D8%A7-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%A5%D8%AF%D9%85%D8%A7%D9%86/7610299
+    publisher: اليوم السابع
+    date: 2026-11-08
+    language: ar
 open_questions:
   - >-
     The checks ran across the opening of the school year and no single test date was published. 8 November 2026 is the
@@ -179,12 +184,15 @@ open_questions:
   - >-
     The outlets reproduce the fund's statements. The pages' pictures are portraits or graphics, not photographs of the
     screening, so no media is listed.
+  - The fund's warning signs describe suspected drug use in general, not hashish specifically.
 ---
 
-Egypt's Fund for Combating and Treatment of Addiction said on 8 November 2026 that early checks during the first two months of the 2026/2027 school year had tested 4,510 school-bus drivers in several governorates. [@6] Samples from 31 drivers were positive, 28 of them for hashish and three for tramadol. [@6] All 31 were referred to the public prosecution for driving under the influence, and the fund coordinated with the education ministry to dismiss any of them found to be working in schools. [@6] The three tramadol results are not counted as cannabis cases. [@6]
+Egypt's Fund for Combating and Treatment of Addiction said on 8 November 2026 that early checks during the first two months of the 2026/2027 school year had tested 4,510 school-bus drivers in several governorates. [@6,19] Samples from 31 drivers were positive, 28 of them for hashish and three for tramadol. [@6,19] All 31 were referred to the public prosecution for driving under the influence, and the fund coordinated with the education ministry to dismiss any of them found to be working in schools. [@6,19] The three tramadol results are not counted as cannabis cases. [@6]
 
-The same statement named the General Directorate of Drug Control, the General Traffic Directorate, the General Secretariat for Mental Health and the education ministry's Central Security Department as taking part. [@6] The fund's director, Amr Osman, received the report of the results. [@6] Parents can report a suspected driver on the hotline 16023, and the fund said that would bring an immediate confidential check. [@6] The fund said the checks would continue through the school year and expand to other governorates. [@6]
+The same statement named the General Directorate of Drug Control, the General Traffic Directorate, the General Secretariat for Mental Health and the education ministry's Central Security Department as taking part. [@6] The fund's director, Amr Osman, received the report of the results. [@6] Parents can report a suspected driver on the hotline 16023, and the fund said that would bring an immediate confidential check. [@6,19] The fund said the checks would continue through the school year and expand to other governorates. [@6]
 
 On 26 October 2026 the fund had published an earlier total for the first month and a half of the same school year: 3,660 drivers tested and 22 positive samples. [@2] Youm7 described 21 of those as hashish and one as tramadol, and said all 22 had been referred for driving under the influence. [@2] Dar Al-Maaref and Masrawy carried that October statement. [@1,3] The 8 November figures are the later total for the same screening, not a second group of drivers added to the October count. [@2,6]
 
 Other outlets carried the fund's 8 November statement of 4,510 drivers tested and 31 positive samples. [@4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+
+The fund listed red eyes, dark circles under them, aggressive behaviour, unsteadiness and driving either much too fast or much too slowly as signs that a driver may be using drugs. [@19]
