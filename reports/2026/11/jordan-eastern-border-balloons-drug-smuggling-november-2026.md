@@ -60,6 +60,11 @@ sources:
     publisher: اليوم السابع (Youm7)
     date: 2026-11-09
     language: ar
+  - title: المنطقة العسكرية الشرقية تحبط محاولة تهريب مواد مخدرة
+    url: https://www.fananews.com/%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9-%D8%AA%D8%AD%D8%A8%D8%B7-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-51/
+    publisher: Fana News (اتحاد وكالات الأنباء العربية)
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The sources describe only "drugs" (المواد المخدرة) and give no substance; whether any of the cargo was cannabis is not established.
   - No weight, number of balloons or street value was published.
@@ -74,18 +79,20 @@ open_questions:
   - Al-Anbat carries the same army statement as the sources already cited, so it corroborates rather than independently reports the interception.
   - Al-Anbat's page image is captioned only with the headline and carries no credit identifying the photographer or agency, so it is not added as media.
   - Youm7's midday news roundup describes only "drugs" (المواد المخدرة) and names no substance, weight, balloon count, arrests or border of origin, so it adds no cannabis quantity and does not establish that any of the cargo was cannabis.
+  - The Fana News page, published by the Arab News Agencies Federation, carries no substance, weight, balloon count or arrest count, so it does not establish that any of the cargo was cannabis.
+  - The image on the Fana News page carries no caption or credit identifying what it shows, so it is not added as media.
 ---
 
 Jordan's Eastern Military Region foiled an attempt to smuggle a large quantity
-of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3,6,7,8]
+of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3,6,7,8,9]
 Border guard units spotted the balloons, brought them down inside Jordanian
-territory and seized the drugs they carried. [@1,3,7] The border guards acted with
+territory and seized the drugs they carried. [@1,3,7,9] The border guards acted with
 security and military bodies and the Anti-Narcotics Department, and the seized
-material was handed to the competent authorities for legal action. [@1,3,7]
+material was handed to the competent authorities for legal action. [@1,3,7,9]
 
 The Jordan Armed Forces said they would keep confronting infiltration and
 smuggling attempts whatever their methods in order to protect the kingdom's
-security and the safety of its citizens. [@1,7] Saraya News reported that the
+security and the safety of its citizens. [@1,7,9] Saraya News reported that the
 interception took place on Monday, 9 November 2026, matching the day given by
 Jo24. [@2]
 
