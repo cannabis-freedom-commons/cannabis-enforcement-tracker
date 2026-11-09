@@ -66,6 +66,11 @@ sources:
     publisher: УКРАЇНА КРИМІНАЛЬНА
     date: 2026-11-09
     language: uk
+  - title: Столичні поліцейські затримали у парку в Голосіївському районі наркозбувачку із психотропами
+    url: https://www.cripo.com.ua/news/crime/stolychni-politsejski-zatrymaly-u-parku-v-golosiyivskomu-rajoni-narkozbuvachku-iz-psyhotropamy/amp/
+    publisher: УКРАЇНА КРИМІНАЛЬНА
+    date: 2026-11-09
+    language: uk
 open_questions:
   - No weight, count of doses or value was published for the cannabis found in her home or the packages in the park, and the 230 packages mix cannabis with PVP, MDMA, mephedrone, amphetamine and a drug-containing liquid, so no cannabis quantity is recorded.
   - The reports give only the publication date of 9 November 2026 and no separate date for the detention or the search, so that date is used as the incident date.
@@ -78,16 +83,16 @@ open_questions:
 ---
 
 Police in Kyiv's Holosiivskyi district detained a 41-year-old Kyiv woman who was
-found digging soil in a park to hide drug packages. [@1] Officers of the city
+found digging soil in a park to hide drug packages. [@1,4] Officers of the city
 police's drug crime unit called in an investigative team after noticing her
 suspicious behaviour. [@2] Police said she sold cannabis along with alpha-PVP,
 MDMA and mephedrone through so-called zakladky, packages hidden in public places
-whose locations are sent to buyers. [@2]
+whose locations are sent to buyers. [@2,4]
 
 In her pockets officers found 60 packages of alpha-PVP, 10 of MDMA, 10 of
-mephedrone and 10 of a drug-containing liquid. [@1] A search of her home turned
+mephedrone and 10 of a drug-containing liquid. [@1,4] A search of her home turned
 up almost 140 more pre-packed packages of cannabis, alpha-PVP and amphetamine.
-[@2,3] In total police seized about 230 packages of drugs prepared for
+[@2,3,4] In total police seized about 230 packages of drugs prepared for
 distribution. [@2,3]
 
 She was detained under article 208 of Ukraine's Criminal Procedure Code, which
@@ -97,6 +102,6 @@ part 3 of article 307 of the Criminal Code for acquiring and storing an
 especially dangerous psychotropic substance for sale in especially large
 amounts. [@2] The article carries a penalty of up to 12 years in prison with
 confiscation of property. [@1] At the investigators' request a court ordered her
-held in custody without the right to post bail. [@1,3] The investigation is
+held in custody without the right to post bail. [@1,3,4] The investigation is
 continuing, and under article 62 of Ukraine's Constitution she is presumed
 innocent until a court verdict establishes guilt. [@1]
