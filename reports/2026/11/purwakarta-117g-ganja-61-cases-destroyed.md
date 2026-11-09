@@ -38,6 +38,11 @@ media:
     media_url: https://purwakartakab.go.id/uploads/berita/8fa87433192095dfb902ab4b6974bb79.jpg
     publisher: Pemerintah Kabupaten Purwakarta
     caption: Photo published with the regency government's report on the Kejari Purwakarta evidence destruction on 9 November 2026.
+  - kind: photo
+    url: https://pojoksatu.id/purwakarta/14-ribu-tramadol-ribuan-obat-terlarang-dan-uang-palsu-berakhir-di-pemusnahan-kejari-purwakarta
+    media_url: https://pojoksatu.id/media-ps/pojoksatu/bd0ccf89-b75e-40f4-ae0e-ee925d1f8a87-567284.webp
+    publisher: Pojoksatu
+    caption: 'Evidence including ganja, methamphetamine and thousands of tramadol tablets displayed before its destruction by Kejari Purwakarta on 9 November 2026. Photo: Pojoksatu'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: b16cf76682c260bd8ed653d42e3b02f7
@@ -58,11 +63,18 @@ sources:
     publisher: Sidikjari.co.id
     date: 2026-11-09
     language: id
+  - title: 14 Ribu Tramadol, Ribuan Obat Terlarang dan Uang Palsu Berakhir di Pemusnahan Kejari Purwakarta
+    url: https://pojoksatu.id/purwakarta/14-ribu-tramadol-ribuan-obat-terlarang-dan-uang-palsu-berakhir-di-pemusnahan-kejari-purwakarta
+    publisher: Pojoksatu
+    date: 2026-11-09
+    language: id
 open_questions:
   - No breakdown is given of how many of the 61 cases involved cannabis, or what sentences the underlying cases received.
   - The reports do not name any defendants or give the original seizure dates and places for the cannabis evidence.
   - The published photos show the destruction of evidence from the 61 cases but do not separately show the cannabis portion.
   - The 42.4813 grams of tembakau sintetis (synthetic cannabinoid tobacco), the methamphetamine and the pills are excluded from the cannabis figures.
+  - Pojoksatu gives 117 grams of ganja while the office's figures reported elsewhere give 117.57 grams; the report keeps the more precise office figure.
+  - The articles give no breakdown of how many of the underlying cases involved cannabis.
 ---
 
 The Purwakarta District Attorney's Office, Kejari Purwakarta, destroyed evidence
@@ -72,7 +84,7 @@ the destruction at the same office courtyard of varieties of case evidence,
 including ganja. [@3]
 
 The office's figures give 117.5703 grams of ganja, the Indonesian term for
-cannabis, destroyed in the exercise. [@1] The ganja was part of 321.0550 grams
+cannabis, destroyed in the exercise. [@1,4] The ganja was part of 321.0550 grams
 of narcotics destroyed in total, which also included 161.0134 grams of sabu,
 crystal methamphetamine, and 42.4813 grams of tembakau sintetis, a tobacco
 product laced with synthetic cannabinoids. [@1]
@@ -81,7 +93,7 @@ Neither the methamphetamine nor the synthetic tobacco is counted in the cannabis
 figure. [@1]
 
 The same exercise covered 16,465 illegal pills described as tramadol, hexymer
-and an opioid-type drug known locally as Double Y. [@1] The office also
+and an opioid-type drug known locally as Double Y. [@1,4] The office also
 destroyed 357 counterfeit Rp100,000 notes worth Rp35.7 million and 99
 counterfeit US$100 notes worth US$9,900, and burned them with the printing
 equipment. [@1]
@@ -92,4 +104,3 @@ was meant to ensure no destroyed evidence could be misused or circulate back
 into the community. [@1] Deputy Regent Abang Ijo Hapidin attended and said
 enforcement needed coordination between prosecutors, police, courts and the
 regional government. [@2]
-
