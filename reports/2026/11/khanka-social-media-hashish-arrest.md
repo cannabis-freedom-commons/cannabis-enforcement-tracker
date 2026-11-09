@@ -65,6 +65,11 @@ sources:
     publisher: يوليو
     date: 2026-11-04
     language: ar
+  - title: الأمن يضبط أدمن صفحة لترويج المخدرات بالقليوبية
+    url: https://ekhbary24.com/article/47128
+    publisher: إخباري 24 نيوز
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No weight, packaging detail or valuation for the seized hashish was published, so no cannabis quantity or value can be recorded.
   - The article gives no separate date for the monitoring or arrest; 4 November 2026 is its publication date and is used as the incident date.
@@ -75,6 +80,8 @@ open_questions:
   - The new page's image caption repeats the headline and does not establish that it shows this seizure, so no media entry is included.
   - The Almasryalyoum page carries a photo captioned with the headline and credited to others, which does not by itself establish that it shows this seizure, so no media entry is added.
   - The Mobtada page carries images captioned as a security patrol and the accused, which do not by themselves establish that they show this Khanka seizure, so no media entry is included.
+  - Ekhbary24 gives no separate date for the arrest and published the account on 9 November 2026, five days after the first reports of this Khanka arrest, so it appears to be a later reprint of the same security statement rather than new reporting.
+  - The page carries a featured image captioned only with the section name and time, having the address media.elbalad.news, which does not establish that it shows this seizure; no media entry is added.
 ---
 
 Egypt's cybercrime investigators detected a person running a social-media page
@@ -83,16 +90,16 @@ conducted by the General Directorate for Combating Information Technology Crimes
 in the communications and information-technology sector, in coordination with
 the Public Security sector. [@1,2,3,4,5,6,7] After checks, officers identified the page's
 administrator as an unemployed man who lives in the Khanka police district in
-Qalyubia Governorate and arrested him. [@1,2,3,4,5,6,7]
+Qalyubia Governorate and arrested him. [@1,2,3,4,5,6,7,8]
 
 Officers seized a quantity of hashish found in his possession during the arrest.
-[@1,2,3,4,5,6,7] They also seized a mobile phone, and examination of the phone showed
+[@1,2,3,4,5,6,7,8] They also seized a mobile phone, and examination of the phone showed
 material confirming his criminal activity. [@1,3,4,5,6,7] The seized hashish is the
 cannabis product recorded in this report, while the phone was kept as evidence
 of the online promotion. [@1]
 
 When confronted, the man confessed that he ran the page to promote narcotic
-substances. [@1,2,3,4,5,6,7] In Egyptian press usage, the word عاطل describes an unemployed
+substances. [@1,2,3,4,5,6,7,8] In Egyptian press usage, the word عاطل describes an unemployed
 person, the term used here for the Khanka suspect. [@1] The enforcement action
 therefore linked online promotion of drugs for payment with physical possession
 of hashish in Khanka. [@1]
