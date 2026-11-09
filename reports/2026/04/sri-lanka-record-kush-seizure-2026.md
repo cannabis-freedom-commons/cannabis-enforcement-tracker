@@ -111,6 +111,10 @@ sources:
     publisher: wthr.com
     date: 2026-04-27
     archived: https://web.archive.org/web/20260428033624id_/https://www.wthr.com/article/news/nation-world/buddhist-monks-arrested-sri-lanka-smuggling-cannabis/507-a38ed1bb-64e1-45dc-8e90-b2ee69872455
+  - title: Sri Lanka tightens monks’ travel rules after drug arrests
+    url: https://www.ucanews.com/news/sri-lanka-tightens-monks-travel-rules-after-drug-arrests/113134
+    publisher: UCA News
+    date: 2026-05-05
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn4v4nzwj94o
@@ -169,6 +173,12 @@ open_questions:
   - The page's one image has no caption or credit tying it to this arrest, so no media entry is added.
   - The WTHR page credits its lead image to the stock library Adobe Stock and shows no photograph of the airport interception, so no media is added.
   - Each monk's share is given as about 11 pounds (approximately 5 kg), which works out slightly above the report's about 110 kg total; the report keeps its original 110 kg figure.
+  - UCA News values the haul at more than 110 million rupees (about US$350,000), far below the about US$3.5 million recorded in the existing report; the rupee-to-dollar conversion in this account cannot be reconciled with the others.
+  - UCA News describes 112 kilograms of combined narcotics including kush and hashish, against the 110 kg of kush kept in the existing report, and gives no split between the two substances.
+  - UCA News dates the airport arrest to 25 April and the monks' Negombo court appearance to 26 April, while the existing report dates the event 26 April; this fits the overnight 25-26 April sequence its open questions already note.
+  - The account says judicial medical tests found the suspects had used drugs but does not say how many tested positive.
+  - No court outcome beyond the remand already recorded is reported for the 22 monks or for Amithananda Thera.
+  - The travel-rule measure was described as reinstating an existing administrative requirement rather than changing a law, so no law change is recorded with it.
 ---
 
 On 26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5 million. It was reported as the country's largest single cannabis seizure. The case was an enforcement event, not a change in the law. [@1]
@@ -186,3 +196,5 @@ Chief Buddhist prelates of the three main chapters said they will conduct inquir
 Investigations indicate the operation may have been coordinated by three monks from a temple in the Jamburaliya area, who allegedly recruited 19 others through Facebook. [@12] The Police Narcotics Bureau has arrested an alleged mastermind from the Meegahamulla area of Gampaha. [@12] Investigators are also examining whether the group had previously carried out a similar operation involving 12 monks, with another trip allegedly being planned. [@12] On 28 April, a high-level meeting was held at the Presidential Secretariat under President Anura Kumara Dissanayake. [@12] The meeting included members of the Maha Sangha, the senior Buddhist monastic community, from the country’s three main Nikayas and senior officials, including the Inspector General of Police. [@12] Officers inspecting identical luggage carried by the group found approximately 112 kilograms of narcotics hidden in false compartments. [@12]
 
 The 22 monks were arrested at the airport around 10:10 p.m. [@20] Each monk reportedly carried roughly 11 pounds (about 5 kg) of the drug, found inside false walls in the luggage among school supplies and sweets. [@20] It was reported as the first time monks had been arrested at the airport carrying drugs. [@20] The monks' order told BBC Sinhala it strongly condemned the illegal actions and would work to expel any monks found guilty. [@20]
+
+Judicial medical tests later found that the suspects had used drugs. [@21] Police said the suspects, aged between 19 and 28 and from remote areas, were part of a trafficking network allegedly organised by a monk identified as Amithananda Thera, who was later arrested after hiding in a temple. [@21] Deputy Minister of Buddhasasana, Religious and Cultural Affairs Gamagedara Dissanayake said monks seeking to travel abroad must now obtain recommendation letters from their temple's chief incumbent and the provincial chief prelate, which the commissioner general of Buddhist affairs must forward to the relevant foreign mission. [@21] Dissanayake said the requirement was made compulsory after consultations with registrar monks representing different sections of the clergy and the president, and that registrar monks, the attorney general and ministry officials had begun discussions on strengthening legal and administrative frameworks governing temples and monastic discipline. [@21] He said the measure revived an earlier policy under which monks also needed recommendations to travel abroad, but that enforcement had become lax. [@21]
