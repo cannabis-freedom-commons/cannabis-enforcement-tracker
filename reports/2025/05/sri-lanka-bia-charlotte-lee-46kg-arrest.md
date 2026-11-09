@@ -83,6 +83,10 @@ sources:
     url: https://www.itv.com/news/2025-05-30/british-woman-appears-in-sri-lanka-court-over-serious-drug-trafficking-offences
     publisher: ITV News
     date: 2025-05-31
+  - title: Ex-air stewardess from south London arrested in Sri Lanka over £1.5m cannabis haul
+    url: https://www.standard.co.uk/news/london/woman-south-london-arrested-sri-lanka-cocaine-smuggling-b1228395.html
+    publisher: The Standard
+    date: 2025-05-19
 open_questions:
   - The submitted article gives no exact arrest date beyond earlier this month; 12 May 2025 is used from the second BBC account, while Newswire dates the Customs arrest to 13 May.
   - The submitted BBC reports 46 kg while Newswire reports 46.6 kg of Kush; this report uses 46 kg and records no separate laboratory weight.
@@ -100,11 +104,13 @@ open_questions:
   - ITV dates the appearance to 'Friday' with a 30 May 2025 dateline and lists the next hearing as 13 June, which the existing report already records from another source alongside a later 13 July appearance; the sequence between those dates is not resolved.
   - ITV gives no cannabis weight; the 46 kg figure in the existing report comes from other accounts.
   - The page image is a composite captioned as showing Lee's travel from Thailand to Sri Lanka and credited to Sri Lanka Police; it is listed once here.
+  - The Standard rounds the haul's value to £1.5 million and attributes it to unnamed sources close to the investigation, while other opened accounts put it at £1.2 million; the existing report records no value.
+  - The Standard gives no arrest date beyond 'Monday' relative to its 19 May 2025 publication; the exact 12 May date comes from another account.
 ---
 
 Charlotte May Lee, 21, from south London, was arrested after authorities
 allegedly found 46 kg of cannabis in her suitcases on arrival from Thailand.
-[@1,4,5,6] The former flight attendant told the BBC she had travelled from Bangkok to
+[@1,4,5,6,8] The former flight attendant told the BBC she had travelled from Bangkok to
 Colombo to renew her Thai visa. [@1] Ms Lee has not yet been charged, denies
 knowing about the drugs, and could face up to 25 years if found guilty. [@1] She
 is being held in a prison in Negombo, a city just north of the capital. [@1,5] She
@@ -125,7 +131,7 @@ months. [@1,5] Under Sri Lankan law people being held on remand must appear befo
 a judge every 14 days. [@1,5] She is held on suspicion of possession and smuggling
 with her next appearance on 13 July. [@1] A senior Customs Narcotics Control
 Unit officer said the find at Bandaranaike Airport was the largest kush seizure
-in the airport's history. [@2] Authorities said bags stuffed with drugs were
+in the airport's history. [@2,8] Authorities said bags stuffed with drugs were
 found in two large suitcases. [@2,4] She was arrested on 12 May after arriving
 from Bangkok without rechecking her luggage. [@2] The Magistrate ordered that
 the British national female suspect remain in remand custody until September 3.
@@ -138,3 +144,5 @@ Her next hearing was listed for 13 June. [@5] She had not yet been allowed e-vis
 The Guardian reports that Lee flew alone from Bangkok's Suvarnabhumi airport, as did Bella May Culley, who was arrested a day earlier in Georgia, and that investigators may examine a link between the two cases. [@6] The Guardian says Lee, described as a former cabin attendant, could face a 25-year sentence if found guilty. [@6]
 
 Arriving at the Negombo Magistrates Court on Friday, Lee wore a white dress, was accompanied by two police officers and the court heard that critical evidence, including forensic analysis, had not yet been submitted. [@7] Lee had not been formally indicted, and the Attorney General's department will file charges in the High Court only after all reports, including the forensic analysis, have been submitted in court. [@7] Lee's lawyer Sampath Perera told ITV News that she was "not emotionally perfect" but was trying her "very best" given the circumstances, and that her family was being "very supportive" and "cooperative" while in "big pain" over her arrest. [@7] Perera said he had not heard from the Foreign Office about support for Lee and did not know whether her family had been in contact with the British government. [@7] ITV News reported that customs described the haul allegedly found in Lee's luggage as its largest drug seizure to date and valued it at £1.2 million. [@7]
+
+Sources close to the investigation estimated the haul's street value at about 460 million Sri Lankan rupees (roughly £1.5 million), reportedly destined for high-end local buyers. [@8]
