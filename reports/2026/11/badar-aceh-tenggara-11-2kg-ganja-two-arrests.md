@@ -56,6 +56,11 @@ sources:
     publisher: Pos Aceh
     date: 2026-11-08
     language: id
+  - title: Polres Agara Gagalkan Pengiriman 11,2 Kg Ganja ke Sumut! Dua Pria Dibekuk Bersama Mobil Terios
+    url: https://www.poskotasumatera.com/2026/11/polres-agara-gagalkan-pengiriman-112-kg.html
+    publisher: Poskota Sumatera
+    date: 2026-11-09
+    language: id
 open_questions:
   - No charges or court outcome were reported; the men had only been handed to the narcotics unit for examination and further legal proceedings.
   - The suspects were identified only by initials, age and village; full names were not released.
@@ -65,25 +70,27 @@ open_questions:
 ---
 
 Southeast Aceh police foiled an attempt to smuggle 11.2 kilograms of cannabis to
-Toba regency, North Sumatra, on the night of Saturday 7 November 2026. [@1] A
+Toba regency, North Sumatra, on the night of Saturday 7 November 2026. [@1,3] A
 joint team from the criminal-investigation, intelligence and narcotics units
 detained two men at Simpang Kuta Tinggi village in Badar at about 20.00. [@1,2]
 The men were identified only as S, 31, of Pulonas village in Babussalam, and
-D.P., 31, of Suka Makmur village in Semadam. [@1]
+D.P., 31, of Suka Makmur village in Semadam. [@1,3]
 
 Officers acted on a community tip that two people were carrying cannabis in a
 white Daihatsu Terios from Leuser village in Ketambe toward Kutacane. [@1] After
 monitoring, officers stopped the car at Simpang Kuta Tinggi and detained both
 men. [@1] A search found 10 packages of cannabis with a net weight of 11.20
-kilograms, kept in a white sack and wrapped in white plastic. [@1] The men told
+kilograms, kept in a white sack and wrapped in white plastic. [@1,3] The men told
 officers the cannabis was theirs and was to be delivered to the Toba area. [@1]
 Police also seized the white Terios, two mobile phones, one white sack and one
-sheet of white plastic. [@1]
+sheet of white plastic. [@1,3]
 
 Both men and the evidence were taken to Southeast Aceh police headquarters and
-handed to the narcotics unit for examination and further legal proceedings. [@1]
+handed to the narcotics unit for examination and further legal proceedings. [@1,3]
 Southeast Aceh police chief AKBP Rujiyanto Dwi Poernomo on 8 November
 appreciated the community's role in the disclosure. [@1] He urged residents to
 keep providing information about suspected narcotics activity. [@1]
 
 The joint team came from the operational unit of the criminal investigation division, the intelligence unit and the narcotics unit of the Aceh Tenggara police. [@2]
+
+Southeast Aceh police chief AKBP Rujiyanto Dwi Poernomo urged residents not to stay silent about suspicious activity linked to narcotics abuse or trafficking. [@3]
