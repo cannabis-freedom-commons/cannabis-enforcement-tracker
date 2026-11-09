@@ -50,6 +50,10 @@ sources:
     publisher: i24NEWS
     date: 2019-03-12
     language: en
+  - title: 'Telegrass'' Marijuana Operation: Method, Testimonies, and Question Marks'
+    url: https://www.calcalistech.com/ctech/articles/0,7340,L-3766082,00.html
+    publisher: CTech (Calcalist)
+    date: 2019-07-10
 open_questions:
   - Police gave no overall weight of cannabis seized, no plant count and no number of homes and offices beyond "dozens", so only the arrest count is recorded in figures.
   - The CTech article describes the investigation as months long while a July 2019 CTech account describes it as a two-year operation; the report uses the March 2019 wording.
@@ -95,3 +99,5 @@ Magistrates' Courts, and lawyers for the suspects said their clients denied
 involvement. [@2]
 
 Police designated the ring "Crime Organization 420" and published its organizational chart. [@3] The network's founder, Amos Dov Silver, a dual Israeli-US citizen who had been living abroad, was arrested in Ukraine. [@3] Israeli Chief Superintendent Avi Maiberg, who runs the police cyber-crime unit leading the investigation, said officers saw the number of dealers jump from hundreds to thousands. [@3] Maiberg said the suspects dealt not only in marijuana but also ecstasy, LSD, cocaine and other dangerous substances. [@3]
+
+Indictments followed on 18 April 2019, when the State Attorney's Office charged 27 defendants at the Central District Court in Lod. [@4]
