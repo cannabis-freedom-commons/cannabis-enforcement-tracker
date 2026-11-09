@@ -56,6 +56,10 @@ sources:
     url: https://assamtribune.com/north-east/anti-smuggling-crackdown-triggered-attack-on-bsf-team-in-tripura-sp-1622395
     publisher: The Assam Tribune
     date: 2026-11-09
+  - title: 'Tripura: BSF attack in Ashabari linked to crackdown on cross-border smuggling, says SP'
+    url: https://www.sentinelassam.com/amp/story/north-east-india-news/tripura-news/tripura-bsf-attack-in-ashabari-linked-to-crackdown-on-cross-border-smuggling-says-sp
+    publisher: The Sentinel
+    date: 2026-11-09
 open_questions:
   - The 1.5 crore plant count covers a period of about a year and no separate date is given for any individual operation.
   - No area, weight or independent audit of the destroyed plants was reported; the count and the Rs 1,000 crore loss estimate are the police officer's figures.
@@ -70,23 +74,28 @@ open_questions:
   - The PTI copy repeats the same police briefing as the India Today NE report already cited, so it is not an independent account of the figures.
   - The page carries only a PTI preview thumbnail image with no event detail, so no media entry is added.
   - The article states that police have arrested 21 people over the Ashabari attack, matching the figure already in the Sonamura report; the separate Ashabari report on the attack does not record a different total from this account.
+  - The Sentinel credits the story to agencies and reproduces the same police briefing as the PTI-based outlets already cited, so it is not independent reporting of the figures.
+  - The page's only image carries just the story headline as its caption with no credit or event-specific detail, so it is not established to show this campaign and no media entry is added.
+  - The Sentinel attributes the 21 arrests to the Ashabari attack without giving a separate date for the arrest total, beyond the 8 November police statement.
 ---
 
 Joint teams of Tripura police, Tripura State Rifles and the Border Security
 Force destroyed at least 1.5 crore ganja plants in Sonamura subdivision over the
 past year, Sepahijala superintendent of police Bijoy Debbarma said on 8 November
-2026. [@1,2,3,4] Debbarma estimated that the destruction cost those running the
+2026. [@1,2,3,4,5] Debbarma estimated that the destruction cost those running the
 illegal trade 1 billion rupees (Rs 1,000 crore). [@1,2,3] Security agencies also
-seized smuggled goods worth several crores of rupees during the period. [@1,2,3]
+seized smuggled goods worth several crores of rupees during the period. [@1,2,3,5]
 
 He attributed the assault to losses suffered by smuggling syndicates because of
-the intensified crackdown. [@1,2,3]
+the intensified crackdown. [@1,2,3,5]
 
 Sepahijala district shares about 99 km of boundary with Bangladesh, nearly 99
-per cent of it fenced. [@1,3] About 300 families live outside the barbed-wire
+per cent of it fenced. [@1,3,5] About 300 families live outside the barbed-wire
 fencing, where an India-Bangladesh agreement barring permanent structures within
-150 yards of the zero line leaves room for smuggling. [@1,3]
+150 yards of the zero line leaves room for smuggling. [@1,3,5]
 
-BSF personnel intercepted an alleged smuggling attempt along the international border in Ashabari on 2 November, after which the force came under attack. [@1]
+BSF personnel intercepted an alleged smuggling attempt along the international border in Ashabari on 2 November, after which the force came under attack. [@1,5]
 
-Despite nearly all of the roughly 99 km border being fenced, smugglers still move cattle, clothes, medicines, essential commodities and contraband across, the superintendent said. [@4] The officer said the 2 November interception at Ashabari was part of the same intensified anti-smuggling drive, which he said had angered people involved in the illegal trade. [@4]
+Despite nearly all of the roughly 99 km border being fenced, smugglers still move cattle, clothes, medicines, essential commodities and contraband across, the superintendent said. [@4,5] The officer said the 2 November interception at Ashabari was part of the same intensified anti-smuggling drive, which he said had angered people involved in the illegal trade. [@4]
+
+Police had arrested 21 people, including two key suspects, for their alleged involvement in the 2 November attack at Ashabari, and a detailed investigation was under way. [@5]
