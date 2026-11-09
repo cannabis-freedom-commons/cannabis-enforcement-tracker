@@ -66,6 +66,16 @@ media:
     media_url: https://www.diariodeburgos.es/media/IMG/2026/53EB14EB-3AC0-42CD-B84F3BB3BFC424BB.JPEG
     publisher: Diario de Burgos
     caption: 'Guardia Civil photo published with the report on the inspection of the fenced plot in the Alfoz de Burgos, showing the seized cannabis plants and the cocks. Photo: Guardia Civil'
+  - kind: photo
+    url: https://www.diariodecastillayleon.es/burgos/261109/110052/detenido-joven-24-anos-burgos-maltrato-animal-cultivar-marihuana.html
+    media_url: https://imagenes.diariodecastillayleon.es/files/image_media_main_desktop/uploads/2026/11/09/6af1b7990db31.jpeg
+    publisher: Diario de Castilla y León
+    caption: 'Guardia Civil handout photo captioned ''Gallos con mutilaciones incautados durante el registro'', showing the cocks seized in the search. Photo: Guardia Civil'
+  - kind: photo
+    url: https://www.diariodecastillayleon.es/burgos/261109/110052/detenido-joven-24-anos-burgos-maltrato-animal-cultivar-marihuana.html
+    media_url: https://imagenes.diariodecastillayleon.es/files/image_composite_mobile/uploads/2026/11/09/6af1b7bb57deb.jpeg
+    publisher: Diario de Castilla y León
+    caption: 'Guardia Civil handout photo captioned ''Seis plantas de marihuana sativa incautadas durante el registro'', showing the six seized cannabis plants. Photo: Guardia Civil'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f46605f6a51bdf74643a1bc1823736fe
@@ -91,6 +101,11 @@ sources:
     publisher: Diario de Burgos
     date: 2026-11-09
     language: es
+  - title: Detenido un joven de 24 años en Burgos por maltrato animal y cultivar marihuana
+    url: https://www.diariodecastillayleon.es/burgos/261109/110052/detenido-joven-24-anos-burgos-maltrato-animal-cultivar-marihuana.html
+    publisher: Diario de Castilla y León
+    date: 2026-11-09
+    language: es
 open_questions:
   - The accounts give no date for the inspection or the arrest; 9 November 2026 is the publication date of the Guardia Civil statement and is used as the incident date.
   - The municipality is named only as a village in the Alfoz de Burgos district, so the coordinates mark the district and not the plot.
@@ -101,22 +116,25 @@ open_questions:
   - Burgosconecta's main photo is captioned as showing the property, the seized plants and a cock; the outlet credits it as 'BC' without naming the photographer, and it is not confirmed whether the Guardia Civil took it.
   - The article gives no separate date for the inspection or arrest; 9 November 2026 is its publication date.
   - 'The Diario de Burgos photos are identical in caption and credited only as ''Foto: Guardia Civil'', so only one is listed.'
+  - This outlet credits the account to Ical and its text follows the Guardia Civil statement, so it is not independent reporting.
+  - The account gives no separate date for the inspection or the arrest; 9 November 2026 is its publication date.
+  - The two photos are captioned as the seized cocks and plants but credited only as Guardia Civil.
 ---
 
 Guardia Civil officers arrested a 24-year-old man in a municipality of the Alfoz
 de Burgos, the district around the city of Burgos, and placed him at the
-disposal of the courts. [@1] He is suspected of a crime against public health
+disposal of the courts. [@1,5] He is suspected of a crime against public health
 through drug trafficking in the form of cultivation, and of ill-treatment of a
 domestic animal for mutilating eight Spanish fighting-breed cocks without
 veterinary justification. [@1,4] The Guardia Civil said the investigation began
 weeks earlier, when it found a fenced rural plot littered with rubbish, scrap
-and waste and showing signs of irregular care of the animals kept there. [@1]
+and waste and showing signs of irregular care of the animals kept there. [@1,5]
 
 Officers from Seprona, the Guardia Civil's nature-protection service, and from
 the judicial police of the Burgos command carried out a joint on-site
-inspection. [@2] In the greenhouses on the property they found six Cannabis
+inspection. [@2,5] In the greenhouses on the property they found six Cannabis
 sativa plants in an advanced stage of growth and more than two metres tall,
-which weighed 22 kilograms green. [@2,4] Burgosconecta reported that the plants
+which weighed 22 kilograms green. [@2,4,5] Burgosconecta reported that the plants
 grew directly in the ground, appeared to be tended, and were seized during the
 inspection. [@3,4]
 
@@ -126,9 +144,11 @@ the mutilation had been carried out without veterinary justification by
 unqualified people. [@2,4] Officers also recorded administrative breaches: the
 owner had no legal register for a poultry holding and kept several dogs without
 the required vaccination or deworming. [@2] They found birdlime, an adhesive
-used to trap birds, which is a prohibited means of catching game. [@1]
+used to trap birds, which is a prohibited means of catching game. [@1,5]
 
 The proceedings ended with officers drawing up formal complaints and sending the
-case file to the courts of the provincial capital, Burgos. [@1,4]
+case file to the courts of the provincial capital, Burgos. [@1,4,5]
 
 The owner had no legal register for a poultry holding and kept dogs without the required vaccination or deworming. [@4]
+
+The fenced plot also held a vegetable garden, sheds and greenhouses which, according to sources at the Government Sub-delegation, appeared to conceal an undetermined number of marijuana plants. [@5]
