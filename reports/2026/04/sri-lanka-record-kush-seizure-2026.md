@@ -115,6 +115,11 @@ sources:
     url: https://www.ucanews.com/news/sri-lanka-tightens-monks-travel-rules-after-drug-arrests/113134
     publisher: UCA News
     date: 2026-05-05
+  - title: Sri Lanka intercepts 22 Buddhist monks with over 110kg of cannabis at airport
+    url: https://www.thestandard.com.hk/world/article/330594/Sri-Lanka-intercepts-22-Buddhist-monks-with-over-110kg-of-cannabis-at-airport
+    publisher: The Standard
+    date: 2026-04-29
+    language: en
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn4v4nzwj94o
@@ -179,6 +184,8 @@ open_questions:
   - The account says judicial medical tests found the suspects had used drugs but does not say how many tested positive.
   - No court outcome beyond the remand already recorded is reported for the 22 monks or for Amithananda Thera.
   - The travel-rule measure was described as reinstating an existing administrative requirement rather than changing a law, so no law change is recorded with it.
+  - The Standard values the drugs at more than US$3.45 million (over HK$27 million), while the existing report keeps about US$3.5 million and its open questions already record figures ranging from US$345,000 to Rs 110 million; the report keeps its original figure.
+  - The Standard describes indefinite detention without charge for drug suspects and long prison terms as the general legal framework, without stating any charge or outcome specific to these 22 monks, so no charge or court result is recorded from it.
 ---
 
 On 26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5 million. It was reported as the country's largest single cannabis seizure. The case was an enforcement event, not a change in the law. [@1]
@@ -187,7 +194,7 @@ Customs officials said each monk carried about 5 kg of kush, a particularly pote
 
 Twenty-two Sri Lankan monks returning from Thailand were arrested at Sri Lanka's main international airport with 242 pounds of cannabis, customs officials said. [@3,6,9,10,11,13,15,16,17,20] A Sri Lanka Customs spokesman said the group had returned from a four-day vacation in Bangkok with kush hidden in their luggage. [@3,11,13,14,16,17,20] Customs officials called it the largest single detection of kush at the airport. [@3,6,7,9,11,12,13,14,16,17,19,20] Each monk carried about five kilos of the drug concealed within false walls in his luggage, and the group was handed over to police. [@3,11,13,16,17] The 22 monks appeared in court on Sunday and were remanded in custody for seven days for further questioning. [@2,7] The Police Narcotics Bureau's airport unit apprehended the suspects in an operation on the night of 25 April acting on intelligence. [@4,12]
 
-Police said the operation was carried out based on a tip-off. [@5,10,12] The government's official news portal put the estimated value of the narcotics at over $3.45 million (1.1 billion rupees). [@5,10,15] The group of young men from various parts of Sri Lanka had travelled to Thailand on 22 April using tickets provided by a sponsor. [@5,15] The monks were to appear before the Negombo Magistrate's Court for further legal proceedings and investigations, according to state media. [@5,15] According to the state-owned Daily News, it was the first time Buddhist monks had been arrested at the airport carrying illegal drugs. [@5,15]
+Police said the operation was carried out based on a tip-off. [@5,10,12] The government's official news portal put the estimated value of the narcotics at over $3.45 million (1.1 billion rupees). [@5,10,15,22] The group of young men from various parts of Sri Lanka had travelled to Thailand on 22 April using tickets provided by a sponsor. [@5,15] The monks were to appear before the Negombo Magistrate's Court for further legal proceedings and investigations, according to state media. [@5,15] According to the state-owned Daily News, it was the first time Buddhist monks had been arrested at the airport carrying illegal drugs. [@5,15]
 
 Senior Buddhist clergy described the accused as “imposter monks” who used religious garb to disguise criminal activity. [@6]
 
@@ -198,3 +205,5 @@ Investigations indicate the operation may have been coordinated by three monks f
 The 22 monks were arrested at the airport around 10:10 p.m. [@20] Each monk reportedly carried roughly 11 pounds (about 5 kg) of the drug, found inside false walls in the luggage among school supplies and sweets. [@20] It was reported as the first time monks had been arrested at the airport carrying drugs. [@20] The monks' order told BBC Sinhala it strongly condemned the illegal actions and would work to expel any monks found guilty. [@20]
 
 Judicial medical tests later found that the suspects had used drugs. [@21] Police said the suspects, aged between 19 and 28 and from remote areas, were part of a trafficking network allegedly organised by a monk identified as Amithananda Thera, who was later arrested after hiding in a temple. [@21] Deputy Minister of Buddhasasana, Religious and Cultural Affairs Gamagedara Dissanayake said monks seeking to travel abroad must now obtain recommendation letters from their temple's chief incumbent and the provincial chief prelate, which the commissioner general of Buddhist affairs must forward to the relevant foreign mission. [@21] Dissanayake said the requirement was made compulsory after consultations with registrar monks representing different sections of the clergy and the president, and that registrar monks, the attorney general and ministry officials had begun discussions on strengthening legal and administrative frameworks governing temples and monastic discipline. [@21] He said the measure revived an earlier policy under which monks also needed recommendations to travel abroad, but that enforcement had become lax. [@21]
+
+Police's Narcotics Bureau was investigating whether the smuggling operation was linked to local drug trafficking networks. [@22]
