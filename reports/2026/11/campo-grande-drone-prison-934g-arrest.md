@@ -12,31 +12,33 @@ title: Two held with 934 g cannabis in drone-to-prison plot in Campo Grande
 summary: >-
   Military police in Campo Grande arrested two men in the early hours of 7 November 2026 for allegedly using a drone to deliver cannabis and mobile phones to a prison. Officers seized 934 grams of cannabis, six phones, a DJI Air 3S drone and a Ford Ka valued together at R$97,000; a third suspect escaped.
 figures:
-  arrested: 2
-  vehicles: 1
-  kg_seized: 0.934
-  value:
-    amount: 97000
-    currency: BRL
+    arrested: 3
+    vehicles: 1
+    kg_seized: 1
+    value:
+        amount: 97000
+        currency: BRL
 details:
-  agencies: [br-pm]
-  agency_types: [gendarmerie]
-  products:
-    - {product: flower, kg: 0.934}
-  setting: [street, vehicle, prison]
-  case_stage: investigation
-  date_precision: exact
-  region: Mato Grosso do Sul
+    agencies: [br-pm]
+    agency_types: [gendarmerie]
+    products:
+        - {product: flower, kg: 1}
+    setting: [prison, street, vehicle]
+    case_stage: investigation
+    date_precision: exact
+    region: Mato Grosso do Sul
+    activity: [smuggling]
 data_sources:
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.kg_seized: [1]
-  figures.value: [1]
-  figures.vehicles: [1]
+    details.agencies: [3]
+    details.agency_types: [3]
+    details.case_stage: [3]
+    details.products: [3]
+    details.setting: [3]
+    figures.arrested: [3]
+    figures.kg_seized: [3]
+    figures.value: [1]
+    figures.vehicles: [3]
+    details.activity: [3]
 media:
   - kind: photo
     url: https://www.campograndenews.com.br/cidades/capital/dois-sao-presos-suspeitos-de-usar-drone-para-levar-drogas-a-presidio
@@ -58,12 +60,21 @@ sources:
     publisher: JD1 Notícias
     date: 2026-11-07
     language: pt
+  - title: 'Drones do crime: 10 são presos por tentarem lançar drogas e celulares em presídios da Capital'
+    url: https://midiamax.com.br/policia/2026/drones-crime-menos-10-sao-presos-tentar-lancar-ilicitos-presidio-capital/
+    publisher: Midiamax
+    date: 2026-11-09
+    language: pt
 open_questions:
   - The reports do not identify which prison was to receive the cannabis and phones.
   - The reports do not say who hired the men, how much they were to be paid, or whether they had made other drone deliveries.
   - No charge, custody decision or court outcome was reported beyond referral to the police station and Denar.
   - The R$97,000 figure is the police estimate for all the seized material together, including the drone, phones, batteries and car, not for the cannabis alone.
   - Campo Grande News describes two cannabis portions and four packed phones at the landing site against overall totals of 934 grams and six phones; the report uses the overall totals.
+  - Midiamax gives the cannabis seized on 6–7 November as more than one kilogram, while earlier reports of the same operation stated 934 grams; the existing figure has not been replaced.
+  - The article's 2026 total of 10 arrests and four drones aggregates several separate drone incidents around the Campo Grande prison complex, including cases from April, July and August that are not separately itemised in this report.
+  - No charges, custody decisions or court outcomes for the 6–7 November detainees were reported.
+  - The article does not state the exact date within 6–7 November on which the third suspect was arrested.
 ---
 
 Military police arrested two men, identified as Vladimir and Meyzon, in the
@@ -91,3 +102,4 @@ The occurrence record did not identify which prison was to receive the products,
 who hired the service, how much would be paid or whether the group had made
 other deliveries. [@1]
 
+In 2026 the 9th Military Police Battalion seized four drones and arrested 10 people around the Campo Grande prison complex in Jardim Noroeste who were trying to launch illicit items. [@3] Between Friday 6 and Saturday 7 November 2026, three people were arrested trying to launch drugs and mobile phones into the Maximum Security Prison. [@3] Officers seized more than one kilogram of marijuana, seven mobile phones, batteries, a precision scale, adhesive tape, scissors, a drone and a Ford Ka from the suspects. [@3] A commander of the 9th Battalion's Força Tática said the unit had stepped up preventive and intelligence work near the prison to identify suspects and make arrests. [@3] In April, two men were arrested trying to launch objects into the Maximum Security Prison, with a drone, 49 kilograms of marijuana, batteries and mobile phones seized. [@3]
