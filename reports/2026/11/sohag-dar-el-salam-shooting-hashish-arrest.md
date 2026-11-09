@@ -48,6 +48,11 @@ sources:
     publisher: Iqraa News
     date: 2026-11-09
     language: ar
+  - title: ضبط شاب بسوهاج بحوزته بندقية آلية و«شابو» وحشيش عقب مطاردة وإطلاق أعيرة نارية
+    url: https://www.alraeesnews.com/345314
+    publisher: Alraees News
+    date: 2026-11-09
+    language: ar
 open_questions:
   - No weight or separate quantity was published for the hashish or the shabu, so no cannabis weight is recorded.
   - The article gives no separate date for the raid; 9 November 2026 is its publication date and is used as the incident date.
@@ -60,16 +65,16 @@ open_questions:
 ---
 
 Sohag security officers responded to a worker's appeal accusing his son of
-assaulting him, shooting at his house and trading drugs with others. [@1,2] After
+assaulting him, shooting at his house and trading drugs with others. [@1,2,3] After
 inquiries located the suspect, a force went to arrest him in Awlad Salem Qibli
 village in Dar El Salam district, where he was described as a man in his
-thirties. [@1] When he saw the force he opened fire on it, and the officers
-engaged him and brought the situation under control. [@1,2] The exchange left the
+thirties. [@1,3] When he saw the force he opened fire on it, and the officers
+engaged him and brought the situation under control. [@1,2,3] The exchange left the
 suspect wounded by gunshots in both the right and left thighs, and officers
-arrested him. [@1,2]
+arrested him. [@1,2,3]
 
 Officers found an automatic rifle and quantities of shabu and hashish in his
-possession. [@1,2] Legal procedures were completed, the seized items were held,
+possession. [@1,2,3] Legal procedures were completed, the seized items were held,
 and the suspect was to be presented to the competent investigation authority.
 [@1]
 
