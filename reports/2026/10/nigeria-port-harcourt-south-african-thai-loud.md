@@ -63,6 +63,10 @@ sources:
     url: https://dailytrust.com/foreign-drug-cartels-using-nigeria-as-transit-route-ndlea/
     publisher: Daily Trust
     date: 2026-11-06
+  - title: South Africans entering Nigeria and fuelling global cartel drug trafficking, security briefing hears
+    url: https://www.dailymaverick.co.za/article/2026-11-08-south-africans-entering-nigeria-and-fuelling-global-cartel-drug-trafficking-security-briefing-hears/
+    publisher: Daily Maverick
+    date: 2026-11-08
 media:
   - kind: photo
     url: https://ndlea.gov.ng/blog/83-year-old-convicted-grandma-south-african-lady-arrested-with-colos-meth-shipments
@@ -80,6 +84,7 @@ open_questions:
   - Head Topics and Daily Trust call the 32.74 kg of Thai Loud synthetic cannabis; the report follows the NDLEA statement and the October P.M. News account in treating Thai Loud as a cannabis strain.
   - The briefing gives no date for the Port Harcourt arrest beyond 'October 2026' and no court outcome.
   - The three-arrest tally in the briefing covers separate operations in different months, and the reporting does not say whether the Abuja heroin case has led to charges.
+  - Daily Maverick describes the consignment only as weighing 'just under 33kg' and does not give the 32.74 kg figure or name Thai Loud; the report keeps the NDLEA statement's figure.
 ---
 
 Nigeria's National Drug Law Enforcement Agency (NDLEA) said on 11 October 2026 that its officers,
@@ -88,13 +93,15 @@ International Airport with 32.74 kg of cannabis. [@1,2,3]
 
 The woman, named by the agency as Gebashe Sithandiwe Jessie, arrived on Qatar Airways flight QR1431
 from Thailand via Doha with 30 parcels of Thai Loud, a cannabis strain, concealed in two travelling
-bags, the agency said. [@1,2,3] Daily Trust likewise named Gebashe Sithandiwe Jessie and the 32.74 kg
+bags, the agency said. [@1,2,3,6] Daily Trust likewise named Gebashe Sithandiwe Jessie and the 32.74 kg
 seized at Port Harcourt International Airport in October 2026. [@5] P.M. News reported that she is 30 years old. [@2] The agency said she
 confessed to having trafficked drugs through other African countries and was trying to extend her
-route to Port Harcourt when she was arrested. [@1,2]
+route to Port Harcourt when she was arrested. [@1,2,6]
 
 The NDLEA did not say on what date she was arrested or whether she had appeared in court. [@1]
 
 The NDLEA said three South African nationals had been arrested in the period under review, a tally that also covered a separate July 2026 case in which a woman arriving from Doha was found with 5.75 kg of heroin. [@3]
 
 On 5 November 2026, NDLEA Assistant Director for Media and Advocacy Francis Okogun told a joint security briefing in Abuja that three South African nationals had been arrested in recent operations involving heroin, cocaine and Loud, a tally covering this Port Harcourt case. [@4,5]
+
+Gebashe had travelled from Thailand to Doha before reaching Nigeria. [@6] Daily Maverick reports that the NDLEA put the consignment at just under 33 kg, while the tracker records the agency's figure of 32.74 kg. [@6]
