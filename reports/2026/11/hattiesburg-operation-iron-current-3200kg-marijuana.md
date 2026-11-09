@@ -118,6 +118,10 @@ sources:
     publisher: Trí Thức VN
     date: 2026-11-09
     language: vi
+  - title: 'Federal investigators seize 6K kilos of cocaine & marijuana worth more than $80.5M: ICE'
+    url: https://cnycentral.com/news/nation-world/federal-investigators-seize-6k-kilos-of-cocaine-marijuana-worth-more-than-805m-ice-illegal-drugs-narcotics-drug-trafficking-us-immigration-and-customs-enforcement-operation-homeland-security-investigations-dhs-iron-current-trump-true-crime
+    publisher: WSTM (CNY Central)
+    date: 2026-11-06
 open_questions:
   - The place and date of the vessel interceptions were not disclosed; 6 November 2026 is the date of ICE's announcement, which is also treated as the incident date, and Hattiesburg is only the office leading the case.
   - No arrests, charges, suspects or court stage were reported; ICE said only that the investigation remains ongoing.
@@ -144,7 +148,7 @@ Operation Iron Current, led to the coordinated interdiction and seizure of two
 go-fast vessels by HSI and its interagency partners, ICE said. [@1,12,15,16]
 
 The vessels carried about 3,200 kilograms of marijuana alongside about 3,188
-kilograms of cocaine, according to ICE. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16] The agency put the estimated street
+kilograms of cocaine, according to ICE. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17] The agency put the estimated street
 value of the seized narcotics at more than $80.5 million, a figure covering the
 cocaine and marijuana together. [@1,4,8,11,13,14,15,16] HSI said it worked with domestic and
 international partners to share information supporting maritime counternarcotics
@@ -154,7 +158,7 @@ HSI New Orleans Special Agent in Charge Matt Wright said transnational criminal
 organizations exploit maritime routes to move drugs and that HSI would keep
 working with partners to disrupt such networks and seize illicit narcotics. [@1,4]
 ICE said the investigation remains ongoing. [@1,4,15] The agencies did not say where
-or when the vessels were intercepted or whether anyone was arrested. [@2,4,5,6,7,8,9,10,11,12,13,14]
+or when the vessels were intercepted or whether anyone was arrested. [@2,4,5,6,7,8,9,10,11,12,13,14,17]
 
 SuperTalk Mississippi reported that the drugs were said to have been shipped to
 the United States by a Colombian cartel. [@3] The station said the investigation
