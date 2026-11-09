@@ -39,6 +39,11 @@ media:
     media_url: https://cdn.ajel.sa/articles/2026-11/HWrOYRJXQAAdmqg-crop-2QHpWU1X.png
     publisher: صحيفة عاجل
     caption: 'A group of men seated before a display of seized hashish packages and bundles at a table, in front of the General Directorate of Narcotics Control logo. Photo: Ajel'
+  - kind: photo
+    url: https://www.sra7h.com/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-11-%D8%B4%D8%AE%D8%B5%D9%8B%D8%A7-%D9%84%D8%AA%D8%B1%D9%88%D9%8A/
+    media_url: https://www.sra7h.com/wp-content/uploads/2026/11/HWq3X6nX0AAFEK1.jpg
+    publisher: صحيفة صراحة الالكترونية
+    caption: Photo published with the report of the Jeddah arrest, captioned that anti-narcotics officers arrested 11 people for promoting 26 kg of hashish in Jeddah.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: f3334f8b60dddf556d616d886653f974
@@ -58,6 +63,11 @@ sources:
     publisher: الاستاد الاخباري
     date: 2026-11-09
     language: ar
+  - title: مكافحة المخدرات تقبض على (11) شخصًا لترويجهم (26) كيلوجرامًا من الحشيش بجدة
+    url: https://www.sra7h.com/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%AA%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-11-%D8%B4%D8%AE%D8%B5%D9%8B%D8%A7-%D9%84%D8%AA%D8%B1%D9%88%D9%8A/
+    publisher: صحيفة صراحة الالكترونية
+    date: 2026-11-09
+    language: ar
 open_questions:
   - The article gives no separate date for the arrests; 9 November 2026 is its publication date and is used as the incident date.
   - The six residents other than the Eritrean are not given a nationality.
@@ -66,18 +76,20 @@ open_questions:
   - Al-Estad al-Akhbari gives the material only as "المخدرات" (drugs) in its body text; the hashish identification comes from its headline, which names 26 kilograms of cannabis hashish.
   - The page gives no date for the arrests; 9 November 2026 is its publication date.
   - This outlet does not separate residents from violators of the border security law, unlike the account already cited in the report.
+  - Sra7h gives no separate date for the arrests; 9 November 2026 is its publication date, matching the date used in the existing report.
+  - The article carries the same directorate statement wording as the accounts already cited, so it is not an independent report.
 ---
 
 Saudi Arabia's General Directorate of Narcotics Control arrested an Eritrean
 resident, six other residents and four Ethiopian violators of the border
-security law in Jeddah governorate. [@1,3] The directorate accused the 11 people
-of promoting 26 kilograms of hashish. [@1,3]
+security law in Jeddah governorate. [@1,3,4] The directorate accused the 11 people
+of promoting 26 kilograms of hashish. [@1,3,4]
 
 The suspects were stopped, the regulatory measures were taken against them and
-they were referred to the Public Prosecution. [@1] Ajel English reported the
+they were referred to the Public Prosecution. [@1,4] Ajel English reported the
 same arrest of an Eritrean resident and 10 Ethiopians in Jeddah over 26
 kilograms of hashish. [@2]
 
 The directorate asked citizens and residents to report information on drug
 smuggling or promotion to its hotline, 995, or by email, and said all reports
-would be kept confidential. [@1]
+would be kept confidential. [@1,4]
