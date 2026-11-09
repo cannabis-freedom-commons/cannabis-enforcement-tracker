@@ -106,6 +106,11 @@ sources:
     publisher: Arise News
     date: 2026-04-28
     language: en
+  - title: 22 Buddhist monks arrested at airport, accused of smuggling drugs in luggage
+    url: https://www.wthr.com/article/news/nation-world/buddhist-monks-arrested-sri-lanka-smuggling-cannabis/507-a38ed1bb-64e1-45dc-8e90-b2ee69872455
+    publisher: wthr.com
+    date: 2026-04-27
+    archived: https://web.archive.org/web/20260428033624id_/https://www.wthr.com/article/news/nation-world/buddhist-monks-arrested-sri-lanka-smuggling-cannabis/507-a38ed1bb-64e1-45dc-8e90-b2ee69872455
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn4v4nzwj94o
@@ -162,13 +167,15 @@ open_questions:
   - Arise News gives no calendar date for the arrest or the magistrate appearance, only 'Sunday'; 28 April 2026 is its publication date.
   - Arise calls the sponsor a businessman whose identity was not disclosed, while other accounts describe an unnamed sponsor and one reported a 23rd monk as organiser; these descriptions are not fully reconciled.
   - The page's one image has no caption or credit tying it to this arrest, so no media entry is added.
+  - The WTHR page credits its lead image to the stock library Adobe Stock and shows no photograph of the airport interception, so no media is added.
+  - Each monk's share is given as about 11 pounds (approximately 5 kg), which works out slightly above the report's about 110 kg total; the report keeps its original 110 kg figure.
 ---
 
 On 26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5 million. It was reported as the country's largest single cannabis seizure. The case was an enforcement event, not a change in the law. [@1]
 
 Customs officials said each monk carried about 5 kg of kush, a particularly potent form of the drug, hidden behind false walls inside the luggage on arrival in Colombo. [@2,6,8,10,15,18,19] The monks were mainly students returning from an all-expenses-paid four-day holiday in Thailand paid for by an unnamed sponsor. [@2,13,18,19] A 23rd monk, believed to have organised the trip, was later arrested in a Colombo suburb, police told BBC Sinhala. [@2,18] The acting police spokesman said the monk, who did not join the trip, had told the others that "these parcels are a donation" and that a van would collect the packages. [@2] The Police Narcotics Bureau found photos and videos on some of the monks' phones showing them enjoying their holiday in casual clothing. [@2,7] The 22 monks were remanded in custody for seven days after appearing in court on Sunday. [@2,6,12,18] Police told BBC Sinhala they believed the monks potentially did not know what they were carrying. [@2] The drugs were found among school supplies and sweets. [@2,9,15]
 
-Twenty-two Sri Lankan monks returning from Thailand were arrested at Sri Lanka's main international airport with 242 pounds of cannabis, customs officials said. [@3,6,9,10,11,13,15,16,17] A Sri Lanka Customs spokesman said the group had returned from a four-day vacation in Bangkok with kush hidden in their luggage. [@3,11,13,14,16,17] Customs officials called it the largest single detection of kush at the airport. [@3,6,7,9,11,12,13,14,16,17,19] Each monk carried about five kilos of the drug concealed within false walls in his luggage, and the group was handed over to police. [@3,11,13,16,17] The 22 monks appeared in court on Sunday and were remanded in custody for seven days for further questioning. [@2,7] The Police Narcotics Bureau's airport unit apprehended the suspects in an operation on the night of 25 April acting on intelligence. [@4,12]
+Twenty-two Sri Lankan monks returning from Thailand were arrested at Sri Lanka's main international airport with 242 pounds of cannabis, customs officials said. [@3,6,9,10,11,13,15,16,17,20] A Sri Lanka Customs spokesman said the group had returned from a four-day vacation in Bangkok with kush hidden in their luggage. [@3,11,13,14,16,17,20] Customs officials called it the largest single detection of kush at the airport. [@3,6,7,9,11,12,13,14,16,17,19,20] Each monk carried about five kilos of the drug concealed within false walls in his luggage, and the group was handed over to police. [@3,11,13,16,17] The 22 monks appeared in court on Sunday and were remanded in custody for seven days for further questioning. [@2,7] The Police Narcotics Bureau's airport unit apprehended the suspects in an operation on the night of 25 April acting on intelligence. [@4,12]
 
 Police said the operation was carried out based on a tip-off. [@5,10,12] The government's official news portal put the estimated value of the narcotics at over $3.45 million (1.1 billion rupees). [@5,10,15] The group of young men from various parts of Sri Lanka had travelled to Thailand on 22 April using tickets provided by a sponsor. [@5,15] The monks were to appear before the Negombo Magistrate's Court for further legal proceedings and investigations, according to state media. [@5,15] According to the state-owned Daily News, it was the first time Buddhist monks had been arrested at the airport carrying illegal drugs. [@5,15]
 
@@ -177,3 +184,5 @@ Senior Buddhist clergy described the accused as “imposter monks” who used re
 Chief Buddhist prelates of the three main chapters said they will conduct inquiries and that those found guilty will be removed from the order. [@8]
 
 Investigations indicate the operation may have been coordinated by three monks from a temple in the Jamburaliya area, who allegedly recruited 19 others through Facebook. [@12] The Police Narcotics Bureau has arrested an alleged mastermind from the Meegahamulla area of Gampaha. [@12] Investigators are also examining whether the group had previously carried out a similar operation involving 12 monks, with another trip allegedly being planned. [@12] On 28 April, a high-level meeting was held at the Presidential Secretariat under President Anura Kumara Dissanayake. [@12] The meeting included members of the Maha Sangha, the senior Buddhist monastic community, from the country’s three main Nikayas and senior officials, including the Inspector General of Police. [@12] Officers inspecting identical luggage carried by the group found approximately 112 kilograms of narcotics hidden in false compartments. [@12]
+
+The 22 monks were arrested at the airport around 10:10 p.m. [@20] Each monk reportedly carried roughly 11 pounds (about 5 kg) of the drug, found inside false walls in the luggage among school supplies and sweets. [@20] It was reported as the first time monks had been arrested at the airport carrying drugs. [@20] The monks' order told BBC Sinhala it strongly condemned the illegal actions and would work to expel any monks found guilty. [@20]
