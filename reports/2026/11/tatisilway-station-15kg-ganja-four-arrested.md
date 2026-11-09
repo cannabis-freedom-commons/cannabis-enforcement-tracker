@@ -63,6 +63,11 @@ sources:
     publisher: Loktantra Savera
     date: 2026-11-09
     language: hi
+  - title: टाटीसिलवे में 15 किलो गांजा जब्त, 4 तस्कर दबोचे
+    url: https://www.prabhatkhabar.com/state/jharkhand/ranchi/rpf-nabs-4-inter-state-smugglers-with-15-kg-ganja-at-tatisilwa-station
+    publisher: Prabhat Khabar
+    date: 2026-11-09
+    language: hi
 open_questions:
   - Three accused are named only as Jitendra, Sunny and Verma, with no ages or full names given.
   - No court outcome beyond registration of the NDPS case and continuing investigation was reported.
@@ -75,16 +80,18 @@ open_questions:
   - This Hindi account gives no separate date for the check; 9 November 2026 is its publication date.
   - The account says the ganja in three bags was confirmed with a DD kit but does not name the test agency or give the weight per bag.
   - This article reports only the Tatisilway arrest, not the separate Garhwa truck seizure counted in the same Jharkhand roundup.
+  - Prabhat Khabar names the four accused but gives no ages, and its three Kushinagar residents are listed only as Jitendra, Sunny and Verma.
+  - The page gives no date apart from Saturday night, so it confirms rather than supersedes the incident date already used in the report.
 ---
 
 RPF personnel arrested four alleged smugglers with 15 kg of ganja at Tatisilway
-railway station. [@1,3] Police put the estimated value of the seized ganja at
-about 7.50 lakh rupees. [@1,3] A joint team of the Ranchi division RPF flying team
+railway station. [@1,3,5] Police put the estimated value of the seized ganja at
+about 7.50 lakh rupees. [@1,3,5] A joint team of the Ranchi division RPF flying team
 and RPF Post Ranchi carried out the operation under Operation NARCOS. [@1,3]
 
 During a special check on the intervening night of 7-8 November, the joint RPF
 team examined the Hatia-Islampur Express when it reached Tatisilway station and
-found the behaviour of four people in the rear general coach suspicious. [@1] A
+found the behaviour of four people in the rear general coach suspicious. [@1,5] A
 search of three bags held by three of the four people yielded a total of 15 kg
 of ganja, confirmed as ganja with a DD kit, and four mobile phones were also
 seized from the smugglers. [@1,3] Three of those arrested were identified as
@@ -93,7 +100,7 @@ fourth as Vishal Yadav, a resident of West Champaran in Bihar. [@1]
 
 In preliminary questioning the accused said Vishal Yadav had ordered the ganja
 from Balangir in Odisha and planned to move it through Jitendra, Sunny and Verma
-via Patna to the Champaran area of Bihar. [@1,3] Police are gathering information
+via Patna to the Champaran area of Bihar. [@1,3,5] Police are gathering information
 on the full smuggling network and others involved in it. [@1] The operation took
 place under the direction and supervision of Assistant Security Commissioner,
 RPF Ranchi, Pratap Singh Negi, and was led by RPF flying-team Sub-Inspector Ravi
@@ -105,6 +112,6 @@ smuggling. [@1]
 
 The PTI roundup confirms that three of the accused are from Uttar Pradesh and that the fourth, the purchaser of the contraband, is from West Champaran district in Bihar. [@2]
 
-The four arrested accused were handed over, with a written complaint, to the Government Railway Police (GRP) in Ranchi along with the 15 kg of ganja, three bags, four mobile phones and seizure documents. [@3]
+The four arrested accused were handed over, with a written complaint, to the Government Railway Police (GRP) in Ranchi along with the 15 kg of ganja, three bags, four mobile phones and seizure documents. [@3,5]
 
 The accused were to receive financial gain in return for carrying the ganja consignment. [@4]
