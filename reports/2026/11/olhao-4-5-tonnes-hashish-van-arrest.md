@@ -100,6 +100,11 @@ sources:
     publisher: Jornal de Notícias
     date: 2026-11-09
     language: pt
+  - title: PJ apreende 4,5 toneladas de haxixe escondidas em camião furtado. Um homem detido
+    url: https://www.algarvemarafado.com/2026/11/09/pj-apreende-45-toneladas-de-haxixe-escondidas-em-camiao-furtado-um-homem-detido/
+    publisher: Algarve Marafado
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No date is given for the operation or the arrest; 9 November 2026 is the publication date of the accounts and stands in for the incident date.
   - The weight is given as approximately 4.5 tonnes and the bale count as about 100, not exact measured figures.
@@ -120,11 +125,14 @@ open_questions:
   - The Correio da Manhã picture is captioned only 'Polícia Judiciária' and credited to a CMTV video frame; the caption does not say what it shows.
   - Jornal de Notícias reproduces the Judicial Police statement, so it does not independently corroborate the police version.
   - The Jornal de Notícias photo is credited to its photographer rather than to the Judicial Police, and it is not stated where or when it was taken, though its caption ties it to this seizure.
+  - Algarve Marafado reproduces the Judicial Police statement also carried by the outlets already cited, so it does not independently corroborate the police version.
+  - The submitted page's only article image is a 2017 Judicial Police handcuffs file photo, so no media entry is added for it.
+  - The submitted page gives no separate date for the operation or the arrest; 9 November 2026 is its publication date.
 ---
 
 Judicial police in Olhão arrested a 38-year-old man on suspicion of drug
 trafficking after finding about 100 bales of hashish in a stolen goods van. [@1,4,5,6,7,8]
-The bales weighed about 4.5 tonnes in total. [@1,4,5,8]
+The bales weighed about 4.5 tonnes in total. [@1,4,5,8,9]
 
 The van was hidden on a rural property and investigators believe the hashish was
 brought ashore by sea through the channels of the Ria Formosa. [@1,4,7,8] Detectives
@@ -146,3 +154,5 @@ The operation was run by the Judicial Police's Southern Directorate with the col
 The suspect was tasked with guarding the drug, which was inside the vehicle hidden on a property in the rural area of Olhão. [@5,7] The Judicial Police announced the arrest on Monday, 9 November. [@5] No preventive measures had yet been decided and the investigation was continuing. [@5]
 
 A Judicial Police source said the operation took place on Saturday. [@7]
+
+The action was coordinated by the Judicial Police's Southern Directorate with the collaboration of the Republican National Guard (GNR), within an investigation into the storing and guarding of drugs by a criminal network. [@9]
