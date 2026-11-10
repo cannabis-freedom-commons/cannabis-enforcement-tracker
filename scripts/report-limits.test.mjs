@@ -17,12 +17,14 @@ const ALLOW = "scripts/report-limits-allow.json";
 
 const ROOT = "reports";
 const files = fs.readdirSync(ROOT, { recursive: true }).filter((f) => f.endsWith(".md")).map((f) => path.join(ROOT, f));
-const over = [], long = [];
+const over = [], long = [], notText = [];
 for (const file of files) {
   const m = fs.readFileSync(file, "utf8").match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
   if (!m) continue;
   const data = yaml.load(m[1], { schema: yaml.JSON_SCHEMA });
   const questions = data.open_questions?.length ?? 0;
+  // a question with ": " in it, unquoted, is read as a key and value and breaks the site build
+  if ((data.open_questions ?? []).some((q) => typeof q !== "string")) notText.push(path.basename(file, ".md"));
   const words = m[2].replace(/\[@[^\]]*\]/g, "").split(/\s+/).filter(Boolean).length;
   if (questions > MAX_QUESTIONS) over.push({ slug: path.basename(file, ".md"), questions, words });
   else if (words > MAX_WORDS) long.push({ slug: path.basename(file, ".md"), words });
@@ -34,6 +36,10 @@ if (process.argv.includes("--update")) {
   console.log(`${ALLOW}: ${over.length} reports over the limits`);
 }
 const allowed = new Set(JSON.parse(fs.readFileSync(ALLOW, "utf8")));
+
+test("every open question is plain text", () => {
+  assert.deepEqual(notText, [], "quote these open questions: one with \": \" in it is read as a key and value");
+});
 
 test(`no report has more than ${MAX_QUESTIONS} open questions, outside the list being rewritten`, () => {
   const fresh = over.filter((o) => !allowed.has(o.slug));
