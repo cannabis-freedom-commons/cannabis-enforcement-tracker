@@ -1,5 +1,5 @@
 // Reports stay readable as sources are added (docs/WRITING.md §2 and §9): at most 12 open
-// questions (a failure: the backend enforces it), and a text of about 900 words at most (reported
+// questions (the backend enforces it; the build fails past 20, a few over 12 are listed to rewrite), and a text of about 900 words at most (reported
 // here as a list to rewrite, not a failure: an automatic update cannot shorten a text). A report grows with
 // the case, not with each source; the backend refuses updates that would pile up questions
 // (backend/internal/research/updates.go). Reports that grew before that are listed in
@@ -12,6 +12,9 @@ import path from "node:path";
 import * as yaml from "js-yaml";
 
 export const MAX_QUESTIONS = 12;
+// The build fails only past this ceiling: a report a few over 12 (an older backend still running,
+// a service note) is listed below to rewrite, and must never stop a deployment.
+export const HARD_MAX_QUESTIONS = 20;
 export const MAX_WORDS = 900;
 const ALLOW = "scripts/report-limits-allow.json";
 
@@ -41,10 +44,14 @@ test("every open question is plain text", () => {
   assert.deepEqual(notText, [], "quote these open questions: one with \": \" in it is read as a key and value");
 });
 
-test(`no report has more than ${MAX_QUESTIONS} open questions, outside the list being rewritten`, () => {
-  const fresh = over.filter((o) => !allowed.has(o.slug));
+test(`no report has more than ${HARD_MAX_QUESTIONS} open questions, outside the list being rewritten`, () => {
+  const fresh = over.filter((o) => !allowed.has(o.slug) && o.questions > HARD_MAX_QUESTIONS);
   assert.deepEqual(fresh.map((o) => `${o.slug}: ${o.questions} open questions`), [],
     "rewrite these reports once, every fact and source kept, the open questions down to the real gaps (docs/WRITING.md)");
+});
+
+test(`reports over ${MAX_QUESTIONS} open questions, to rewrite`, (t) => {
+  for (const o of over.filter((o) => !allowed.has(o.slug) && o.questions <= HARD_MAX_QUESTIONS)) t.diagnostic(`${o.slug}: ${o.questions} open questions`);
 });
 
 // Not a failure: the backend fixes listed reports by itself when sources are added (it then

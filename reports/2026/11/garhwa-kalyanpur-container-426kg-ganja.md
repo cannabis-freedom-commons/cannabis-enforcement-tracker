@@ -92,21 +92,12 @@ sources:
     date: 2026-11-09
     language: hi
 open_questions:
-  - The article gives no separate date for the recovery; 8 November 2026 is its publication date and is used as the incident date.
-  - The total is presented as 426 packets of about one kilogram each, so the 426 kg figure is the police's own calculation rather than a measured weight.
-  - No arrest, detention, charge sheet or court step was reported; the case was at the investigation stage.
-  - No value estimate for the ganja, no registration number for the container and no vehicle owner were published.
-  - The article does not say who the ganja belonged to, where it came from or where it was heading.
-  - No second account of this event could be opened, and the police department's own statement was not found, so the report rests on the Dainik Jagran article.
-  - The single page photo is credited to the outlet, and its caption identifies it only as the ganja recovered from the container, so it is listed as media without a copy.
-  - Kashish News calls the vehicle a truck while Dainik Jagran described a container taken to Garhwa police station and cut open; the accounts agree on place, quantity, lead officer and investigation status.
-  - The outlets share the same police account and the same 426-packet, about-one-kilogram-each basis for the total, so it is still the police's own calculation rather than a measured weight.
-  - The page photo is credited only to Prabhat Khabar Network, and its alt text mentions a press briefing by the sub-divisional police officer, so it is not confirmed to show only the recovered ganja.
-  - The page lists one image whose caption only repeats the headline and credits only Amar Ujala, so it is not confirmed to show this seizure and is omitted as media.
-  - PTI gives the Garhwa value as about 2.13 crore rupees, while ETV Bharat reported about one crore; the report carries neither figure in its structured value field.
-  - The Hindustan page gives no date other than Sunday, 8 November 2026, for the recovery, and its own publication date is 9 November 2026.
-  - The page describes the vehicle only as a container (कंटेनर) and names no registration number or owner, so it does not settle the truck-or-container wording used elsewhere.
-  - The page gives no value estimate for the ganja, no charge or case registration and no excerpt of a police statement beyond the recovery itself.
+  - The accounts give no date for the recovery other than Sunday, 8 November 2026.
+  - The 426 kg is the police's count of 426 packets of about a kilogram each, not a weighed total.
+  - No one was in the vehicle; no arrest, charge or court step has been reported, and the case was under investigation.
+  - Who the ganja belonged to, where it came from and where it was going were not reported, nor the vehicle's registration or owner.
+  - The value is given as about one crore rupees (ETV Bharat) or about 2.13 crore rupees (PTI).
+  - Outlets call the vehicle a container or a truck.
 ---
 
 Garhwa police in Jharkhand recovered 426 kilograms of ganja from a container

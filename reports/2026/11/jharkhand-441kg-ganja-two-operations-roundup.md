@@ -75,21 +75,11 @@ sources:
     date: 2026-11-09
     language: hi
 open_questions:
-  - The 441 kg total is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, so it repeats quantities already recorded in their own reports.
-  - The page names no single place, so the state of Jharkhand and its centre coordinates are given.
-  - Four arrests in the headline cover only the Tatisilway case; the Garhwa police account names no arrest.
-  - The Garhwa value in this PTI account, about 2.13 crore rupees, is higher than the about one crore rupees reported by ETV Bharat for the same 426 kg seizure.
-  - The Garhwa case was described as under investigation, with no arrest reported because no one was in the vehicle.
-  - The Hindi account dates the Garhwa search to Sunday and the train arrest to Saturday night, matching the PTI roundup, while the Tatisilway case was registered on 8 November 2026, so the incident date of the roundup report is kept as 7 November.
-  - The Hindustan Times page carries the same automated PTI feed text as the other outlets already cited and states that it was generated from an agency feed without modifications, so it is a reprint rather than independent reporting.
-  - The opened ThePrint text carries the full PTI roundup, where the roundup report notes earlier that ThePrint gave only the Garhwa part; the full text matches the Rediff and Live Hindustan copies of the same wire item.
-  - The Rediff and Live Hindustan pages state the Tatisilway arrest happened on Saturday night and the Garhwa search on Sunday, consistent with the roundup report's 7 November incident date.
-  - 'Left out, as its quotation was not found in ThePrint / Press Trust of India: The Railway Protection Force arrested four interstate peddlers with 15 kg of ganja from a general coach of the Hatia-Islampur Express at Tatisilway railway station on the night of 7 November, with the contraband valued at about 7.5 lakh rupees.'
-  - 'Left out, as its quotation was not found in ThePrint / Press Trust of India: Police said the four were taking the ganja from Balangir in Odisha to the Champaran area of Bihar, and handed them and the ganja over to the Ranchi Government Railway Police.'
-  - The page is the Hindi-language Bhasha feed of the same PTI roundup already cited in the report, so it restates the same agency figures rather than being independent reporting.
-  - 'The page image is not a picture of the cannabis operations: it is a file photo from June 2023 captioned with an ISRO scientist, so it is not listed as media.'
-  - The page's only photo is labelled a file photo of police action rather than a picture of these seizures, so it is not listed as media.
-  - The page gives no separate dates for either operation and presents only the combined 441 kg total, so it adds nothing to the incident dates already recorded for the two components.
+  - The 441 kg is the sum of the Garhwa 426 kg and the Tatisilway 15 kg, both recorded in their own reports.
+  - The four arrests cover only the Tatisilway case; no one was arrested in Garhwa.
+  - The Garhwa value is given as about 2.13 crore rupees (PTI) or about one crore rupees (ETV Bharat).
+  - The roundup names no single place, so the map marks the centre of Jharkhand.
+  - Every account is the same PTI wire roundup, so there is no independent second account.
 ---
 
 Four people were arrested and 441 kg of ganja worth a combined 2.2 crore rupees
