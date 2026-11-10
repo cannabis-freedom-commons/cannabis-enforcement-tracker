@@ -69,28 +69,51 @@ sources:
     publisher: Seguimiento
     date: 2026-11-09
     language: es
+  - title: POLICÍA INCAUTÓ 520 KILOS DE MARIHUANA EN CHINCHINÁ; UN HOMBRE FUE CAPTURADO
+    url: https://www.instagram.com/p/DfiEYGCGfvS/
+    publisher: La Cheverísima (Instagram)
+    date: 2026-11-09
+    language: es
+  - title: Golpe al narcotráfico en Chinchiná, Caldas
+    url: https://x.com/Policia_Caldas/status/2119873943276339418
+    publisher: Departamento de Policía Caldas (X)
+    date: 2026-11-09
+    language: es
+  - title: 'Capturan a un hombre con 520 kilos de marihuana en Chinchiná: el vehículo tendría alteraciones'
+    url: https://www.facebook.com/lapatria.manizales/posts/capturan-a-un-hombre-con-520-kilos-de-marihuana-en-chinchin%C3%A1-el-veh%C3%ADculo-tendr%C3%ADa/1614038760750304/
+    publisher: La Patria Manizales (Facebook)
+    date: 2026-11-10
+    language: es
 open_questions:
-  - No date is given for the seizure; 9 November 2026 is when the president announced it and when the outlets published, and stands in for the incident date.
-  - No weight breakdown, package count or street value for the Chinchiná marijuana was published.
-  - The arrested person is not identified and no charges or court outcome are reported.
-  - The 878-kilogram figure covers both operations and is not used as the report's cannabis figure; the cocaine seized at Cartagena is a separate event left out of this report.
-  - The French text gives no operation name for the Cartagena cocaine find, which the Spanish report calls Estrategia Esmeralda.
-  - Neither account gives a separate date for the seizure; 9 November 2026 is when the president announced it and when the outlets published.
-  - Seguimiento reports the president's announcement too, so like the outlets already cited it is not independent reporting of the Chinchiná seizure.
-  - The page gives no separate date for the seizure; 9 November 2026 is its publication date and the date of the announcement, which stand in for the incident date.
+    - No date is given for the seizure itself; the accounts were published on 9 and 10 November 2026 and 9 November stands in for the incident date.
+    - No weight breakdown or package count for the Chinchiná marijuana was published in the reports the tracker cites.
+    - The arrested 32-year-old is not named and no charges, measure of restraint or court outcome are reported.
+    - The government's accounts and the local outlets largely restate the same police and presidential announcements, so they are not fully independent.
+    - The 878-kilogram figure covers both operations and is not used as the report's cannabis figure; the cocaine seized at Cartagena is a separate event left out of this report.
+    - The Chinchiná seizure is reported alongside a Cartagena cocaine find and the national Operación Tormenta results, which are separate events left out of this report.
+    - 'Sources differ on the load''s route: the president said it left Cauca, while local outlets say the vehicle had left Valle del Cauca.'
+    - No figure was published for the area of cultivation the marijuana came from or for the organisation behind the load.
+media:
+  - kind: video
+    url: https://x.com/Policia_Caldas/status/2119873943276339418
+    media_url: https://pbs.twimg.com/amplify_video_thumb/2119872848760029184/img/kBYVvvtzhyGIjxYp?format=webp&name=medium
+    publisher: Departamento de Policía Caldas
+    caption: 'Police video published with the announcement of the 520-kilogram marijuana seizure and the arrest of the 32-year-old driver in Chinchiná. Video: Departamento de Policía Caldas'
 ---
 
 Colombian police intercepted a vehicle in the urban area of Chinchiná, Caldas,
 carrying 520 kilograms of marijuana and arrested one person caught in the act.
-[@2,5] During the procedure one person was captured in flagrante delicto. [@2,5]
+[@2,5,6] During the procedure one person was captured in flagrante delicto. [@2,5]
 Officers also immobilised the vehicle, whose identification systems had been
-altered. [@2,5]
+altered. [@2,5,6,8] The man was handed to the judicial authorities and is to answer for the alleged crime of trafficking, manufacturing or carrying narcotics. [@6] The Caldas police department announced the arrest of the 32-year-old man and the seizure of the vehicle. [@7] Officers first tried to stop the vehicle near Chinchiná's main park during prevention and control work, but the driver ignored the order and fled. [@6]
 
 In his own statement the president said the marijuana had left the department of
 Cauca bound for Medellín. [@3,4,5] President Abelardo de la Espriella announced the
-Chinchiná seizure and a second operation at the port of Cartagena. [@1]
+Chinchiná seizure and a second operation at the port of Cartagena. [@1] The load was valued by police at more than 300 million pesos on the illegal market. [@6]
 
 The government presented the two hauls as 878 kilograms in total, of which 520
 were marijuana and 358 cocaine. [@1]
 
 For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2]
+
+After a cordon-and-search plan, known in Colombia as a plan candado, patrols intercepted the vehicle in the La Paz neighbourhood. [@6] A search of the vehicle found 111 plastic-wrapped parcels containing the marijuana. [@6]
