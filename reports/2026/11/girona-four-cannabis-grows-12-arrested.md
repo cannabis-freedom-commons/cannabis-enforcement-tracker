@@ -74,17 +74,18 @@ sources:
     publisher: La Vanguardia (via MSN)
     date: 2026-11-10
     language: es
-open_questions:
-    - 'The published totals do not reconcile exactly: one account reports 1,379 plants and cuttings seized, while La Vanguardia reports about 900 plants plus 524 cuttings and mentions 410 plants at Lloret de Mar alone.'
-    - The figures for buds seized are approximate (about 70 kilograms across all four sites), and the search dates differ slightly between accounts.
-    - No figure for the area of the four grows, their street value or the outcome of the case against the twelve arrested has been published.
+  - title: Doce detenidos y cuatro plantaciones de marihuana desmanteladas en Girona
+    url: https://www.lavanguardia.com/local/girona/20261110/11680640/doce-detenidos-cuatro-plantaciones-marihuana-desmanteladas-comarca-selva.html
+    publisher: La Vanguardia
+    date: 2026-11-10
+    language: es
 ---
 
 Mossos d'Esquadra officers arrested eight men and four women between 3 and 5
-November 2026 over four cannabis grows in the province of Girona. [@1,4] Four of the twelve arrested had previous police records. [@4] The twelve, aged between 20 and 48, were held over drug trafficking, electricity fraud and an offence against public health. [@4] The grows
+November 2026 over four cannabis grows in the province of Girona. [@1,4,5] Four of the twelve arrested had previous police records. [@4] The twelve, aged between 20 and 48, were held over drug trafficking, electricity fraud and an offence against public health. [@4,5] The grows
 were dismantled in three homes and an annex of an industrial warehouse in Lloret
 de Mar, Anglès, Llagostera and Maçanet de la Selva, the Catalan police said in a
-statement. [@2,4] Police treated the four sites as independent investigations
+statement. [@2,4,5] Police treated the four sites as independent investigations
 rather than one network. [@1] Investigators from the units of three Mossos d'Esquadra stations took part, and the inquiry began in summer 2026, when officers suspected a home in an urbanisation in Lloret de Mar was being used to grow cannabis. [@4]
 
 At Lloret de Mar officers seized 410 plants and 775 grams of buds, and arrested
@@ -97,4 +98,4 @@ cannabis cuttings and 66.5 kilograms of buds, and four people were arrested.
 
 In Maçanet de la Selva, suspicions raised by the local police prompted a search
 hours later, in which 245 plants and 2.9 kilograms of buds were seized and four
-people arrested. [@1,3]
+people arrested. [@1,3] The electricity company put the unbilled energy fraud at the Maçanet de la Selva house at 8,358 euros. [@5]
