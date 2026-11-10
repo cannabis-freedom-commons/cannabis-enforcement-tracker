@@ -55,6 +55,11 @@ sources:
     publisher: Общенациональное телевидение
     date: 2026-02-17
     language: ru
+  - title: 'В фуре обнаружили 260 кг гашиша: гродненские таможенники пресекли крупный канал контрабанды из Польши'
+    url: https://belta.by/society/view/v-fure-obnaruzhili-260-kg-gashisha-grodnenskie-tamozhenniki-presekli-krupnyj-kanal-kontrabandy-iz-764958-2026/
+    publisher: Белорусское телеграфное агентство (БЕЛТА)
+    date: 2026-02-17
+    language: ru
 open_questions:
   - The article gives no separate date for the border stop, the truck inspection or the detention; 17 February 2026 is its publication date and is used as the incident date.
   - The State Customs Committee's English rendering names the crossing after the town of Berestovitsa; this report uses the article's own spelling, Berezovitsa.
@@ -67,7 +72,7 @@ open_questions:
 
 Belarusian customs officers found 100 briquettes of a brown substance in a truck
 that arrived at the Berezovitsa border crossing from Poland and weighed them as
-260 kg of hashish after forensic testing. [@1] The State Customs Committee said
+260 kg of hashish after forensic testing. [@1,2] The State Customs Committee said
 the haul was an attempt to bring 260 kg of hashish from the European Union into
 the Eurasian Economic Union. [@1]
 
@@ -83,4 +88,3 @@ officers identified and detained the consignee, a 41-year-old Russian citizen.
 [@1] Grodno Regional Customs and the Federal Customs Service's Central
 Operational Customs in Russia opened criminal cases over the seizure. [@1]
 Members of the group face up to 20 years in prison. [@1]
-
