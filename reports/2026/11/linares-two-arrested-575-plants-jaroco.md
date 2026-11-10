@@ -58,6 +58,11 @@ sources:
     publisher: Extra Jaén
     date: 2026-11-10
     language: es
+  - title: Dos detenidos en Linares por cultivo de marihuana y defraudación del fluido eléctrico
+    url: https://www.diariojaen.es/amp/provincia/dos-detenidos-en-linares-por-cultivo-de-marihuana-y-defraudacion-del-fluido-electrico-AH11707689
+    publisher: Diario de Jaén
+    date: 2026-11-10
+    language: es
 open_questions:
   - No weight, area, value or identities beyond two detained people were published.
   - The reports give no separate date for the searches and arrests; 10 November 2026 is the publication date, while the operation ran over recent months.
@@ -72,16 +77,16 @@ media:
 
 Spain's National Police detained two people in Linares, Jaen, for alleged
 offences against public health and electricity fraud while dismantling two
-marijuana plantations. [@1,3,4] The investigation was carried out by the local
+marijuana plantations. [@1,3,4,5] The investigation was carried out by the local
 judicial police brigade and led by the drugs group, with support from other
 station units including citizen assistance, judicial police and scientific
-police. [@1,3,4]
+police. [@1,3,4,5]
 
 Officers carried out two home searches in which they seized 575 marijuana
-plants. [@1,3,4] Officers also seized assorted material intended for cultivation in
-the searches. [@1,3,4] Police said the operation dismantled two marijuana
-cultivation points in Linares. [@1,3,4]
+plants. [@1,3,4,5] Officers also seized assorted material intended for cultivation in
+the searches. [@1,3,4,5] Police said the operation dismantled two marijuana
+cultivation points in Linares. [@1,3,4,5]
 
 The action was Operation Jaroco, run over recent months by the Linares station
 as part of a firm fight against drug trafficking and public-health offences,
-within the work of the station's new narcotics group. [@2,3,4]
+within the work of the station's new narcotics group. [@2,3,4,5]
