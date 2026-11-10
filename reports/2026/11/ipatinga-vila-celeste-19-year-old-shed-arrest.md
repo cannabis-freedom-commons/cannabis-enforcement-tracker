@@ -53,6 +53,11 @@ sources:
     publisher: Diário do Aço
     date: 2026-11-10
     language: pt
+  - title: Suspeito de tráfico é preso com maconha, cocaína e haxixe em Ipatinga
+    url: https://vale24horas.com.br/noticia/15954/suspeito-de-trafico-e-preso-com-maconha-cocaina-haxixe-em-ipatinga
+    publisher: Vale 24 Horas
+    date: 2026-11-10
+    language: pt
 open_questions:
   - No weight or value was published for the marijuana or hashish, only counts of 20 packages and 12 portions, so no cannabis weight is recorded.
   - The first account does not mention the 31 cocaine portions listed by the second account, so cocaine quantities are excluded from cannabis figures.
@@ -64,20 +69,19 @@ open_questions:
 
 Military Police arrested a 19-year-old suspected of drug trafficking on the
 night of Monday 9 November 2026 in a shed on Rua Antonio Boaventura Batista in
-Vila Celeste, Ipatinga. [@1] Officers went to the property after receiving
+Vila Celeste, Ipatinga. [@1,3] Officers went to the property after receiving
 information that it was used to store drugs, and the youth authorized the team's
 entry and pointed out the drugs' hiding place. [@1]
 
 Police seized 20 packages of marijuana, 12 portions of hashish, a bar of cocaine
-base paste, three precision scales and a cell phone. [@1] A second account
+base paste, three precision scales and a cell phone. [@1,3] A second account
 identifies the marijuana as Colombian Gold type and additionally lists 31
 portions of cocaine and an iPhone 11 among the seized items. [@2]
 
 The suspect told police he had kept the material in the shed for about seven
-months and intended to distribute it. [@1] He said he was keeping the drugs in
+months and intended to distribute it. [@1,3] He said he was keeping the drugs in
 the property for a relative. [@2] He was arrested in the act for drug
 trafficking and taken with the seized material to the Civil Police station,
 where an inquiry was opened to investigate the case. [@2] Police are also
 investigating a possible link between the case and other serious crimes recently
 recorded in Vila Celeste. [@2]
-
