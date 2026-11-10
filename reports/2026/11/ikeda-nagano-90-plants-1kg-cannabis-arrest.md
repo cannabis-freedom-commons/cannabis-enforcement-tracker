@@ -67,6 +67,11 @@ sources:
     publisher: SBC NEWS (信越放送)
     date: 2026-11-10
     language: ja
+  - title: 乾燥大麻1キロ以上(末端価格500万円)を押収 自宅敷地内で大麻草90本を栽培か 無職の75歳男を逮捕 大麻を所持、使用した疑い 容疑認める 長野・池田町
+    url: https://www.fnn.jp/articles/-/1149923
+    publisher: FNNプライムオンライン
+    date: 2026-11-10
+    language: ja
 open_questions:
   - The narcotics counted in the more than 1 kilogram figure are not identified by name in the reporting, which also does not say whether any of that weight is dried cannabis; the 1 kilogram of dried cannabis found at the house is used as the seizure figure.
   - The 5 million yen street value is the police estimate for the more than 1 kilogram of narcotics, not separately for the dried cannabis.
@@ -79,11 +84,11 @@ open_questions:
 
 Police arrested a 75-year-old unemployed man from Ikeda, Nagano Prefecture, by
 10 November 2026 on suspicion of growing cannabis at his home and possessing
-narcotics. [@2,4] He was arrested on suspicion of violations of the Narcotics and
+narcotics. [@2,4,5] He was arrested on suspicion of violations of the Narcotics and
 Psychotropics Control Act and other laws, the report said. [@2,4] Investigators
-said he grew about 90 cannabis plants in his garden and inside the house. [@2]
+said he grew about 90 cannabis plants in his garden and inside the house. [@2,5]
 Officers found 1 kilogram of dried cannabis at the house, and police believe he
-grew it. [@2] The arrest was the third in the cultivation case, made by Omachi
+grew it. [@2,5] The arrest was the third in the cultivation case, made by Omachi
 police station with prefectural police, the Shinano Mainichi Shimbun reported.
 [@3] The newspaper published a police handout photo of the cannabis plants
 seized from the grounds of the man's home. [@3]
@@ -92,5 +97,5 @@ The man had first been arrested red-handed on 29 September 2026 for possessing 1
 gram of narcotics at home and was later re-arrested on suspicion of using
 narcotics. [@1,2] Police suspect he possessed more than 1 kilogram of narcotics,
 which they valued at 5 million yen at street prices. [@1,2] The man admitted the
-allegations in questioning, the report said. [@1,2] Police said they were
+allegations in questioning, the report said. [@1,2,5] Police said they were
 investigating on the view that he had grown the drugs he held. [@2]
