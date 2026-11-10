@@ -81,6 +81,11 @@ sources:
     publisher: Zamin.uz
     date: 2026-11-09
     language: ru
+  - title: В Узбекистане пресекли деятельность группы наркоторговцев
+    url: https://www.uzdaily.uz/ru/v-uzbekistane-presekli-deiatelnost-gruppy-narkotorgovtsev/
+    publisher: UzDaily.uz
+    date: 2026-11-09
+    language: ru
 open_questions:
   - The article gives no separate date for the operations; 9 November 2026 is its publication date and is used as the incident date.
   - 'The report does not say how many people were detained in total beyond the five described: a married couple and their accomplice in Sergeli, a driver in Qibray and two suspects in Mirzo-Ulugbek.'
@@ -111,6 +116,10 @@ open_questions:
   - Zamin.uz gives no total number detained, describes only the Sergeli couple, the online-shop administrator and his accomplices, and one Qibray courier, and does not mention the Sergeli accomplice described by the sources already cited.
   - Zamin.uz says a criminal case was opened under 'the corresponding articles' of the Criminal Code without naming Article 273, and gives no separate date for the operations; 9 November 2026 is its publication date.
   - Zamin.uz lists the hashish in the flat and the cars only as a total of 550 grams plus 40 grams and gives no weight for the hashish in the Qibray car or for the 50 packs seized in Sergeli.
+  - The UzDaily account gives no separate date for the operations; 9 November 2026 is its publication date and the standing incident date.
+  - UzDaily gives no weight for the 50 hashish packs seized in Sergeli or for the hashish found in the Qibray car.
+  - UzDaily counts the detained group members as a couple, their accomplice, the Qibray driver and the Mirzo-Ulugbek suspects without stating a total number held.
+  - The page's only picture is captioned as a video still, so no separate media entry is added for it.
 ---
 
 Officers of the Interior Ministry and the State Security Service broke up a
@@ -121,12 +130,12 @@ out under the preventive campaign Safe and Healthy Country. [@1,3]
 
 In Sergeli district of the capital officers detained a married couple and their
 accomplice, who police say sold drugs through dead drops while moving by a Matiz
-car. [@1,2,3,4,5,6] Officers seized 50 packs of hashish from the couple and their
+car. [@1,2,3,4,5,6,7] Officers seized 50 packs of hashish from the couple and their
 accomplice. [@1,2,3,4,5] A search of the suspects' rented flat in Chilanzar district
 found another 450 grams of hashish, 100 grams of mephedrone, a thousand zip
 bags, electronic scales and tape for packing drugs. [@1,2,3,4,5] In Qibray district of
 Tashkent Region officers stopped the car of a man previously convicted of
-robbery and fraud and found hashish in it. [@1,2,3,4,5,6] Investigators say the Qibray
+robbery and fraud and found hashish in it. [@1,2,3,4,5,6,7] Investigators say the Qibray
 driver also sold drugs through dead drops. [@1,5] Two more suspected members of
 the group were identified in Mirzo-Ulugbek district of Tashkent, one of them a
 repeatedly convicted man who ran an online shop selling drugs. [@1,6]
@@ -142,3 +151,5 @@ substances for sale. [@1,3,4,5,6]
 Officers searched the home of a man born in 1987, previously convicted of fraud, theft, traffic offences and running gambling, and of his accomplice, previously convicted over drugs, theft and serious bodily harm; they were found with about 2 kilograms of opium extract and 40 grams of hashish. [@2]
 
 Officers found the hashish and mephedrone in the Chilanzar flat hidden inside a plush toy. [@4,5]
+
+The Qibray stop took place at the Koramurt checkpoint. [@7] The criminal case was opened under part 5 of Article 273 of Uzbekistan's Criminal Code. [@7]
