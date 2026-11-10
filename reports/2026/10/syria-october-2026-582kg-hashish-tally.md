@@ -104,6 +104,11 @@ sources:
     publisher: أخبار اليوم
     date: 2026-11-02
     language: ar
+  - title: من ملاحقة المطلوبين إلى تطوير الخدمات.. الداخلية تستعرض إنجازات تشرين الأول بالأرقام
+    url: https://ouruba.alwehda.gov.sy/?p=156586
+    publisher: صحيفة العروبة
+    date: 2026-11-10
+    language: ar
 open_questions:
   - >-
     The tally covers the whole of October 2026 and was announced on 1 November 2026; 31 October is used as the
@@ -159,7 +164,7 @@ conducted 157 security operations and dismantled 30 domestic drug-trafficking
 networks in that month. [@9,10,11,12]
 
 It said those October operations seized 582 kilograms of hashish, the cannabis
-resin tracked here. [@9,10,12] It summarized that cannabis result as more than half a
+resin tracked here. [@9,10,12,14] It summarized that cannabis result as more than half a
 tonne of hashish. [@9] The same monthly tally also listed 4.3 million captagon
 pills, more than 28,000 narcotic medical pills and 7 kilograms of crystal meth,
 which are recorded only to explain the mixed seizure and are excluded from the
