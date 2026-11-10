@@ -128,6 +128,11 @@ sources:
     publisher: Caracol Radio
     date: 2026-11-10
     language: es
+  - title: Casi cuatro toneladas de marihuana que presuntamente iban a Perú y Chile fueron incautadas en el Cauca
+    url: https://rionoticias.co/casi-cuatro-toneladas-de-marihuana-que-presuntamente-iban-a-peru-y-chile-fueron-incautadas-en-el-cauca/
+    publisher: RÍO NOTICIAS
+    date: 2026-11-10
+    language: es
 open_questions:
   - No municipality or separate date for the operation was published; 7 November 2026 is the EFE dispatch and announcement date and stands in for the event date.
   - The names, charges and judicial outcome for the two captured people were not reported.
@@ -158,8 +163,8 @@ media:
 ---
 
 Colombian authorities seized 3,997 kilograms of marijuana in the department of Cauca in southwestern
-Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18] The marijuana was reportedly to be sent to Peru and Chile.
-[@1,3,4,5,6,7,10,11,12,14,18] President Abelardo de la Espriella announced the seizure, the capture of two
+Colombia. [@1,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19] The marijuana was reportedly to be sent to Peru and Chile.
+[@1,3,4,5,6,7,10,11,12,14,18,19] President Abelardo de la Espriella announced the seizure, the capture of two
 people and the immobilisation of three vehicles. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
 
 ## Three procedures
@@ -167,9 +172,9 @@ people and the immobilisation of three vehicles. [@1,2,3,4,5,6,7,8,9,10,11,12,13
 The National Police said the haul came from three procedures against drug-trafficking structures
 [@2,16,18]: in the Río Blanco sector of Popayán, in the municipality of Jambaló, and in Mondomo, a
 corregimiento of Santander de Quilichao. [@15,16,17] Most of the marijuana was collected at Río Blanco and
-Jambaló. [@16] In Mondomo, on the Panamericana highway, police arrested one person, immobilised a truck and
+Jambaló. [@16,19] In Mondomo, on the Panamericana highway, police arrested one person, immobilised a truck and
 seized about 4,542 litres of chemicals, 100 containers of caustic soda and 36 scales, Brigadier General
-Carlos Germán Oviedo, commander of Police Region 4, said. [@15,16,17,18]
+Carlos Germán Oviedo, commander of Police Region 4, said. [@15,16,17,18,19]
 
 The seized material included 1,186 packages of creepy-type marijuana [@1,3,4,5,6,8,9,10,11,12,13,14], and
 the chemicals, caustic soda, scales and other supplies used in clandestine laboratories for processing
