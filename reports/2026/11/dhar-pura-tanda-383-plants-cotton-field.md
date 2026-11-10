@@ -78,14 +78,18 @@ sources:
     publisher: Tarun Mitra
     date: 2026-11-10
     language: hi
+  - title: 'MP: Cannabis worth over Rs 1.19 crore seized, 2 arrested'
+    url: https://www.msn.com/en-in/news/other/mp-cannabis-worth-over-rs-119-crore-seized-2-arrested/ar-AA2h9DUz
+    publisher: Press Trust of India / MSN
+    date: 2026-11-10
 ---
 
 Tanda police in Dhar district, Madhya Pradesh, searched a cotton field at Pura
-village and found 383 green ganja plants growing illegally. [@1,2,3,4] Police formally
-seized all the plants. [@1,3] The seized plants weighed 363.188 kg and were put at
+village and found 383 green ganja plants growing illegally. [@1,2,3,4,5] Police formally
+seized all the plants. [@1,3,5] The seized plants weighed 363.188 kg and were put at
 an estimated market value of about 67 lakh 13 thousand rupees. [@1,4] Police
 arrested one suspect and registered a case under the NDPS Act, India's narcotics
-law. [@1,4]
+law. [@1,4,5]
 
 The raid was part of Operation Prahar, a district campaign against illegal drug
 cultivation and trade run on the direction of Superintendent of Police Sachin
@@ -97,4 +101,4 @@ Mulam Singh Davar, 26, of Jogiya village, had been arrested. [@1] A case was
 registered against him under section 8/20 of the NDPS Act and taken up for
 investigation. [@1] Police said they were questioning the accused about the
 purpose of the cultivation, where the seeds came from, the supply of the drug
-and other people involved in the trade. [@1,3,4]
+and other people involved in the trade. [@1,3,4,5]
