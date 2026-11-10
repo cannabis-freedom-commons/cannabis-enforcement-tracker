@@ -482,6 +482,11 @@ sources:
     publisher: 民視財經網
     date: 2026-11-07
     language: zh
+  - title: Toyz劉偉健出獄遣返香港後首度出po 赤柱歎啤：回來第一次感受到回來真好 | am730
+    url: https://www.am730.com.hk/article/1062927
+    publisher: am730
+    date: 2026-11-10
+    language: zh
 open_questions:
   - Most accounts give the deportation day only as “today” or “the 3rd”; 3 November 2026 comes from their publication dates.
   - Accounts name the prison as Changhua Prison or give only the place of pickup, and the airport as Taichung or Taoyuan; the 1:10 p.m. flight comes from one account.
@@ -492,7 +497,7 @@ open_questions:
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole
 and deported from Taiwan on 3 November 2026 after serving part of a
-cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81,83,84] Officers from the immigration agency's
+cannabis-trafficking sentence. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,68,70,81,83,84,85] Officers from the immigration agency's
 Changhua County task force picked him up from Changhua Prison and carried out
 the forced expulsion, barring him from returning to Taiwan for a set period.
 [@3,4,5,6,7,9,10,11,12,13,16,17,19,22,23,25,26,27,28,30,31,32,33,34,35,36,37,38,46,47,48,49,52,54,62,81] Prosecutors ordered deportation in place of protective supervision after
@@ -501,7 +506,7 @@ supervision on 20 October. [@2,4,5,7,8,9,11,14,15,16,19,20,21,22,23,25,27,28,29,
 
 He had been in prison since May 2024 serving a final combined sentence of 4
 years and 2 months for selling cannabis vape cartridges, prosecuted as
-second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32,33,35,37,38,39,43,44,45,48,49,50,51,52,54,57,59,60,61,62,65,66,68,82,83,84] Investigators traced him after
+second-level narcotics offences in Taiwan. [@1,4,6,7,8,9,11,12,15,22,25,27,28,30,31,32,33,35,37,38,39,43,44,45,48,49,50,51,52,54,57,59,60,61,62,65,66,68,82,83,84,85] Investigators traced him after
 police seized up to 200 cannabis cartridges from dealers in 2021, then
 prosecuted him for selling second-level drugs and the court imposed the combined
 term. [@1,6,33,36]
@@ -529,7 +534,7 @@ Officers from the immigration agency's Changhua County task force collected Liu 
 
 Officers from the immigration agency took Liu Weijian to Taichung Airport on 3 November for the forced expulsion, and he is barred from entering Taiwan for six years. [@64]
 
-Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69,70,72,73,74,75,76,77,79,83] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67,69,77,79]
+Liu Weijian, known as Toyz, appeared on camera during a Hong Kong livestream by his wife, entertainer 篠崎泫, on 6 November 2026. [@67,68,69,70,72,73,74,75,76,77,79,83] Toyz said he would restart his own channel once his livestreaming equipment in Hong Kong was fully set up. [@67,69,77,79] A week after returning to Hong Kong, Toyz made his first post-release social-media update, sharing recent photos taken in Stanley with Blake Pier in the background. [@85]
 
 Liu Weijian appeared by voice beside his girlfriend 篠崎泫 during a Hong Kong livestream on 6 November, drawing about 5,000 viewers instead of the few hundred the broadcast normally has. [@68] Immigration authorities said a marriage to a Taiwan resident would not by itself confer residence rights, and any application by a Hong Kong or Macao resident would still be reviewed under the relevant permit rules. [@68]
 
