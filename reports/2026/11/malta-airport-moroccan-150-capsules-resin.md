@@ -51,6 +51,10 @@ sources:
   - title: Man arrested after being caught with 150 cannabis resin capsules in stomach
     url: https://timesofmalta.com/article/man-arrested-caught-150-cannabis-resin-capsules-stomach.1136876
     publisher: Times of Malta
+  - title: Man arrested at airport found with 150 capsules of cannabis resin in his stomach
+    url: https://www.maltatoday.com.mt/news/court_and_police/145614/man_arrested_at_airport_found_with_150_capsules_of_cannabis_resin_in_his_stomach
+    publisher: MaltaToday
+    date: 2026-11-10
 media:
   - kind: photo
     url: https://timesofmalta.com/article/man-arrested-caught-150-cannabis-resin-capsules-stomach.1136876
@@ -61,14 +65,14 @@ media:
 
 A 45-year-old Moroccan man was arrested at Malta International Airport after
 police found about 150 capsules containing suspected cannabis resin inside his
-stomach. [@1,2] Police put the capsules at roughly 1.5 kilograms of suspected
+stomach. [@1,2,3] Police put the capsules at roughly 1.5 kilograms of suspected
 cannabis resin, with an estimated street value of €30,000. [@1,2]
 
 Intelligence suggested the man, travelling from Morocco to Malta via Spain,
-could be part of an organised drug trafficking network. [@1,2] Officers checked
+could be part of an organised drug trafficking network. [@1,2,3] Officers checked
 passengers on a flight from Madrid that he was due to arrive on, and arrested
-him. [@1,2] He was taken to Mater Dei Hospital, where medical scans revealed the
-suspected drug-filled capsules in his stomach. [@1,2] The capsules, about 150 in
+him. [@1,2,3] He was taken to Mater Dei Hospital, where medical scans revealed the
+suspected drug-filled capsules in his stomach. [@1,2,3] The capsules, about 150 in
 all, were seized as allegedly intended for illegal importation into Malta. [@1]
 
 Magistrate Philip Galea Farrugia was informed and opened an inquiry, appointing
