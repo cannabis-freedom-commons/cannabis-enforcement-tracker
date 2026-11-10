@@ -43,13 +43,17 @@ sources:
     publisher: Flynews
     date: 2026-11-08
     language: el
+  - title: Συλλήψεις αδελφών για κατοχή κάνναβης στην Καλαμάτα
+    url: https://www.tharrosnews.gr/2026/11/syllipseis-adelfon-gia-katochi-kannavis-stin-kalamata/
+    publisher: ΕΦΗΜΕΡΙΔΑ ΘΑΡΡΟΣ
+    date: 2026-11-10
+    language: el
 open_questions:
-  - No charges, custody outcome or court step were reported.
+    - No charges, custody outcome or court step beyond the transfer to prosecutors were reported.
 ---
 
 On the afternoon of 7 November 2026, officers of the Kalamata drug prosecution
-unit arrested two Greek nationals aged 34 and 23 in Kalamata. [@1]
+unit arrested two Greek nationals aged 34 and 23 in Kalamata. [@1,2]
 
 A search of their residence found and led to the seizure of cannabis totalling
-7.70 grams, a cannabis cigarette and a scale. [@1]
-
+7.70 grams, a cannabis cigarette and a scale. [@1,2] The two arrested men were taken before the competent prosecuting authorities, with the drug prosecution unit conducting the preliminary investigation. [@2]
