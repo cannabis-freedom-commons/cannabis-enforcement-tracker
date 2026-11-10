@@ -96,6 +96,11 @@ sources:
     publisher: Telemadrid
     date: 2026-11-09
     language: es
+  - title: La Guardia Civil desmantela una plantación con 714 plantas de marihuana en un chalé de Batres
+    url: https://www.msn.com/es-es/noticias/otras/la-guardia-civil-desmantela-una-plantaci%C3%B3n-con-714-plantas-de-marihuana-en-un-chal%C3%A9-de-batres/ar-AA2h2RwU
+    publisher: MSN
+    date: 2026-11-09
+    language: es
 open_questions:
   - No date is given for the search or the arrest; 9 November 2026 is the day the Guardia Civil announced the operation and the publication date, and is used as the incident date.
   - No weight was published for the hashish, only the count of 13 pressed tablets, so no kilogram figure can be recorded.
@@ -117,16 +122,16 @@ open_questions:
 Guardia Civil officers searched a detached house (vivienda unifamiliar) in
 Batres, in the south-west of the Community of Madrid, and found an indoor
 cannabis plantation inside it. [@2] The officers seized 714 cannabis plants and
-13 pressed tablets of hashish resin. [@1,5,6,7,8] They also seized products and tools
+13 pressed tablets of hashish resin. [@1,5,6,7,8,9] They also seized products and tools
 used to grow and maintain the plants. [@1,7,8]
 
 A 40-year-old man was arrested as the suspected author of a crime against public
-health and of electricity fraud. [@1,5,6,7,8]
+health and of electricity fraud. [@1,5,6,7,8,9]
 
 The police said the inquiries began after neighbours complained about a possible
 indoor cannabis crop in the town. [@3,7] The Guardia Civil in Madrid said the
 investigation began at the start of September, when several neighbours'
-complaints alerted officers to a possible cannabis crop inside the house. [@4,5,6,8]
+complaints alerted officers to a possible cannabis crop inside the house. [@4,5,6,8,9]
 Noticias para Municipios described the installation as an indoor grow, the kind
 that uses artificial lighting and controlled conditions to cultivate marijuana
 in enclosed spaces. [@4]
