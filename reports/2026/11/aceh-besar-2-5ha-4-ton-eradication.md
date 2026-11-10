@@ -55,6 +55,11 @@ sources:
     publisher: iNews.id
     date: 2026-11-10
     language: id
+  - title: BNN Musnahkan 4 Ton Ganja di Aceh Besar
+    url: https://www.rakyatterkini.com/2026/11/bnn-musnahkan-4-ton-ganja-di-aceh-besar.html
+    publisher: Rakyatterkini.com
+    date: 2026-11-10
+    language: id
 open_questions:
   - The article gives no separate operation date, so 10 November 2026 is the publication date standing in for the event.
   - No plant count was published, only an estimated weight of more than four tons of plants.
@@ -65,10 +70,10 @@ open_questions:
 
 BNN officers with TNI and police destroyed more than four tons of
 ready-to-harvest cannabis plants on a 2.5-hectare field in Aceh Besar. [@1] The
-field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2]
+field lay in the mountains of Desa Pulo Lamteba, Aceh Besar regency, Aceh. [@2,3]
 The destruction operation involved hundreds of personnel from BNN, the
-Indonesian military and the police. [@2] At the site, officers swept two field
-locations found at the foot of Mount Seulawah. [@2]
+Indonesian military and the police. [@2,3] At the site, officers swept two field
+locations found at the foot of Mount Seulawah. [@2,3]
 
 The joint team walked for three hours over rough terrain to reach the
 2.5-hectare field. [@2] The plants were about one to two metres tall and planted
@@ -79,8 +84,7 @@ The case began with information from local residents. [@2] Officers then
 investigated for about a week before finding the mountain planting site. [@2]
 BNN narcotics director Brigadier General Robby Karya Adi said at the scene that
 his team was destroying a cannabis field consisting of two points. [@2] He said
-officers found no landowner or party responsible for planting the cannabis. [@2]
+officers found no landowner or party responsible for planting the cannabis. [@2,3]
 Up to the destruction, the identity of the field owner and the growers remained
 unknown. [@2] BNN said it was still investigating the find to identify those
 involved in planting cannabis there. [@2]
-
