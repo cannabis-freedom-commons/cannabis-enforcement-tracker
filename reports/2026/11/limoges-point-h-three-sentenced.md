@@ -48,26 +48,39 @@ sources:
     publisher: Le Populaire du Centre
     date: 2026-11-10
     language: fr
+  - title: 'Un trafic de drogue démantelé à Limoges : des peines de prison ferme et des armes, cannabis, cocaïne et argent saisis - ICI'
+    url: https://www.ici.fr/nouvelle-aquitaine/haute-vienne-87/limoges/un-trafic-de-drogue-demanteles-a-limoges-trois-peines-de-prison-ferme-et-5-kg-de-cannabis-et-45-000-euros-saisis-6462300
+    publisher: ICI
+    date: 2026-11-10
+    language: fr
 open_questions:
-  - The article is partly behind a subscriber paywall; the individual prison terms given to each of the three men were not visible in the opened text.
-  - No weight or quantity of cannabis, cocaine or crack seized in the case was reported in the opened text.
-  - The size, area and number of plants or sites involved in the Point H operation were not reported.
-  - The fourth man arrested on 3 November was not tried with the other three, and the reason and his case's outcome are not reported.
-  - The suspects are described only by their ages, not by name, and the report does not say which of them was convicted of what.
-  - An asterisk after "trois ont été jugés" refers to a note that was not visible in the opened article.
-  - It is not stated whether the men are appealing; the report says only that they were sentenced at first instance in an immediate-appearance hearing.
+    - No figure for the quantity of crack involved in the Point H operation was published.
+    - The size, area and number of plants or sites involved in the Point H operation were not reported.
+    - The fourth man arrested on 3 November was placed under judicial supervision and is to be tried later, but the reason he was not tried with the other three is not reported.
+    - The suspects are described only by their ages or order, not by name, and the report does not say which of them received which sentence.
+    - It is not stated whether the men are appealing; the reports say only that they were sentenced at first instance in an immediate-appearance hearing.
+media:
+  - kind: photo
+    url: https://www.ici.fr/nouvelle-aquitaine/haute-vienne-87/limoges/un-trafic-de-drogue-demanteles-a-limoges-trois-peines-de-prison-ferme-et-5-kg-de-cannabis-et-45-000-euros-saisis-6462300
+    media_url: https://www.ici.fr/pikapi/images/a77a0735-9dc2-4862-a734-9eba7cf9c2e7/1200x680
+    publisher: ICI
+    caption: Police photos of the seized weapons and 5 kg of cannabis resin sold in Limoges and surrounding areas.
+  - kind: photo
+    url: https://www.ici.fr/nouvelle-aquitaine/haute-vienne-87/limoges/un-trafic-de-drogue-demanteles-a-limoges-trois-peines-de-prison-ferme-et-5-kg-de-cannabis-et-45-000-euros-saisis-6462300
+    media_url: https://www.ici.fr/pikapi/images/3fd9effc-f401-4be3-a09c-c0e76465fdec/1280
+    publisher: ICI
+    caption: Police photo of the seized 5 kg of cannabis resin, cocaine and 45,000 euros in cash.
 ---
 
 Three men aged between 19 and 39, all from the same Limoges drug network known
-as Point H, were sentenced on Monday to prison terms without suspension. [@1]
+as Point H, were sentenced on Monday to prison terms without suspension. [@1] All three were kept in detention. [@2] The first man was sentenced to three years in prison, the second to three years including one year suspended, and the third to two years including 10 months suspended. [@2]
 The three were among four people arrested before dawn on 3 November in a police
-operation and placed in pre-trial detention. [@1] They were accused of
+operation and placed in pre-trial detention. [@1,2] The fourth person was placed under judicial supervision and is to be tried at a later date. [@2] They were accused of
 trafficking across Limousin but also in Dordogne and Gironde since late 2025.
 [@1]
 
 The case was heard at an immediate-appearance hearing at the Limoges criminal
-court. [@1] Point H is a Limoges network known to police for distributing
-cannabis, cocaine and crack across Limousin and beyond. [@1] The public
+court. [@1,2] Point H is a Limoges network known to police for distributing
+cannabis, cocaine and crack across Limousin and beyond. [@1] Investigators also seized 45,000 euros in cash, weapons and ammunition, and cars and luxury lenses. [@2] The searches also seized 481 grams of cocaine. [@2] The searches seized 5 kg of cannabis resin. [@2] The public
 prosecutor said the defendants belonged to a lucrative, structured form of
 organised crime and had consciously chosen to join the network. [@1]
-
