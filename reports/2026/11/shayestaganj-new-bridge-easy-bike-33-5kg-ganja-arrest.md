@@ -32,25 +32,29 @@ sources:
     publisher: Rising Sylhet
     date: 2026-11-10
     language: bn
+  - title: চুনারুঘাটে ইজিবাইকে মিলল সাড়ে ৩৩ কেজি গাঁজা, আটক ১
+    url: https://sylhetvoice24.com/news/100003265
+    publisher: সিলেট ভয়েস
+    date: 2026-11-10
+    language: bn
 open_questions:
-  - The 33.5 kg figure is SRB-9's own count; no independent weighing was reported.
-  - No street value for the ganja was published.
-  - No charge sheet, plea or court outcome beyond the filing of a case under the Narcotics Control Act was reported.
-  - The stop is placed at about 10 p.m. in one account and 10:20 p.m. in the other, and the accounts also differ on whether the easy bike's driver or a passenger fled.
-  - The police did not say where in the India border areas the ganja was collected or who supplied it.
-  - The page image has no caption or credit and is not confirmed to show the seized ganja or the easy bike.
-  - Left out arrested, as no supporting quotation was given.
-  - Left out kg seized, as no supporting quotation was given.
+    - The 33.5 kg figure is SRB-9's own count; no independent weighing was reported.
+    - No street value for the ganja was published.
+    - No charge sheet, plea or court outcome beyond the filing of a case under the Narcotics Control Act was reported.
+    - Accounts differ on whether the checkpost stop took place at about 10 p.m. or 10:20 p.m., and whether the easy bike's driver or a passenger tried to flee.
+    - The police did not say where in the border areas the ganja was collected or who supplied it.
+    - The Shyamal Sylhet page image has no caption or credit and is not confirmed to show the seized ganja or the easy bike.
 ---
 
 SRB-9, a police Special Response Battalion, arrested Vishnu Chandra Kar, 33,
-with 33.5 kg of ganja in Chunarughat upazila, Habiganj district. [@1] Rising
+with 33.5 kg of ganja in Chunarughat upazila, Habiganj district. [@1,3] The detention took place at 10:20 p.m. on Monday 9 November at a checkpost on the paved road beside the new Shayestaganj bridge in Ubahata Union. [@3] Rising
 Sylhet, a second Bengali outlet, gave the same suspect's name and age. [@2]
 
 SRB-9 media officer and additional superintendent of police K M Shahidul Islam
-Sohag gave the account in a press statement. [@1] He is a resident of the
-Pakuria area of Chunarughat upazila. [@1] The team from the Shayestaganj camp of
+Sohag gave the account in a press statement. [@1,3] He is a resident of the
+Pakuria area of Chunarughat upazila. [@1,3] The team from the Shayestaganj camp of
 SRB-9's CPC-3 acted on a tip and signalled a battery-run easy bike coming from
 Chunarughat bazaar to stop; a passenger got out, tried to flee and was caught
-after a chase. [@1]
+after a chase. [@1] Officers recovered the 33.5 kg of ganja wrapped in scotch tape from a plastic sack on the passenger seat and seized the easy bike used to carry it. [@3]
 
+SRB-9 said that in preliminary questioning the detained man stated he had collected the ganja from a border area and kept it to sell. [@3] A case was filed under the Narcotics Control Act, and the detained man, recovered ganja and seized easy bike were handed over to Chunarughat police station. [@3]
