@@ -73,30 +73,33 @@ sources:
     url: https://www.london-now.co.uk/news/26717072.bexley-police-chase--four-men-convicted-cannabis-plant-robbery/
     publisher: London Now
     date: 2026-11-10
+  - title: Bexley police chase- Four men convicted over cannabis plant robbery
+    url: https://www.newsshopper.co.uk/news/26717072.bexley-police-chase--four-men-convicted-cannabis-plant-robbery/
+    publisher: News Shopper
+    date: 2026-11-10
 open_questions:
-  - The number and weight of the cannabis plants recovered from the vehicles and the road were not published, so no plant, area or kilogram figure is given.
-  - The sources do not say whether the robbed crop was being grown lawfully, and no offence was reported against the man whose home was robbed.
-  - My London gives 2.40am for the men leaving the house while KentOnline reports a call shortly after 2.30am.
-  - The sources give no detail on the injured man's recovery.
-  - Neither report says where the stolen plants were being grown beyond the victim's home.
-  - 'Left out, as its quotation was not found in KentOnline: Officers found the BMW in Rochester, followed it for 12 miles towards Bexley along the A2 and boxed it in after it passed through the Blackwall Tunnel, arresting Harris, Bonney and Williams.'
+    - The number and weight of the cannabis plants recovered from the vehicles and the road were not published, so no plant, area or kilogram figure is given.
+    - The sources do not say whether the robbed crop was being grown lawfully, and no offence was reported against the man whose home was robbed.
+    - My London gives 2.40am for the men leaving the house while KentOnline reports a call shortly after 2.30am.
+    - The sources give no detail on the injured man's recovery.
+    - Neither report says where the stolen plants were being grown beyond the victim's home.
 ---
 
 Four masked men who broke into a Strood home to steal a cannabis crop and
 attacked the man sleeping there were jailed for a combined 50 years at Maidstone
-Crown Court. [@1] The man was asleep in his home in Weston Road, Strood, when
+Crown Court. [@1,4] The man was asleep in his home in Weston Road, Strood, when
 the gang broke in, threatened him with a knife and attacked him, leaving him
-with facial injuries and a fractured wrist. [@1]
+with facial injuries and a fractured wrist. [@1] Clothing seized from the suspects was later found to have the victim’s blood on it. [@4]
 
 Kent Police were called shortly after 2.30am on 25 November 2025 after the four
-were seen loading cannabis plants into a BMW and a van. [@2] Other officers
+were seen loading cannabis plants into a BMW and a van. [@2] The vehicles split up after 12 miles, with officers pursuing the BMW towards Bexley via the A2. [@4] Police first spotted the grey BMW and van travelling in convoy along Watling Street in Rochester. [@4] Other officers
 stopped the van, which had also gone through the tunnel, at a red light, and
-Hylton tried to flee on foot before being caught. [@2] All four men were in custody by 3.24am. [@3] A search of both vehicles
+Hylton tried to flee on foot before being caught. [@2] The car was stopped shortly after passing through the Blackwall Tunnel, and Harris, Bonney, and Williams were arrested at the scene. [@4] All four men were in custody by 3.24am. [@3,4] A search of both vehicles
 found several cannabis plants, and officers also found a trail of plants and
-soil along Weston Road. [@2,3]
+soil along Weston Road. [@2,3] CCTV showed both vehicles arriving at the property and transporting bags and large plants. [@4]
 
 All four were charged with robbery and found guilty at Maidstone Crown Court
-after a trial on 30 October. [@2] Mobile phone evidence revealed messages planning the robbery, with Harris saying he needed "as many soldiers as possible." [@3] Hylton, 35, of no fixed address, was jailed
+after a trial on 30 October. [@2] Mobile phone evidence revealed messages planning the robbery, with Harris saying he needed "as many soldiers as possible." [@3,4] Hylton, 35, of no fixed address, was jailed
 for 12 years. [@1] Bonney, 35, of Albion Drive in Hackney, was locked up for 11
 years. [@1] Harris, 36, of Lansdowne Drive in Hackney, was jailed for 14 years,
 and Williams, 38, of no fixed address, for 13 years. [@1]
