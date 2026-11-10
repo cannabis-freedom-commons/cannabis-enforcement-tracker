@@ -84,15 +84,15 @@ sources:
     publisher: La Patria Manizales (Facebook)
     date: 2026-11-10
     language: es
-open_questions:
-    - No date is given for the seizure itself; the accounts were published on 9 and 10 November 2026 and 9 November stands in for the incident date.
-    - No weight breakdown or package count for the Chinchiná marijuana was published in the reports the tracker cites.
-    - The arrested 32-year-old is not named and no charges, measure of restraint or court outcome are reported.
-    - The government's accounts and the local outlets largely restate the same police and presidential announcements, so they are not fully independent.
-    - The 878-kilogram figure covers both operations and is not used as the report's cannabis figure; the cocaine seized at Cartagena is a separate event left out of this report.
-    - The Chinchiná seizure is reported alongside a Cartagena cocaine find and the national Operación Tormenta results, which are separate events left out of this report.
-    - 'Sources differ on the load''s route: the president said it left Cauca, while local outlets say the vehicle had left Valle del Cauca.'
-    - No figure was published for the area of cultivation the marijuana came from or for the organisation behind the load.
+  - title: شحنة «كوكايين» جديدة في طريقها إلى ليبيا.. أين كانت مخبأة؟
+    url: https://www.eanlibya.com/%D8%B4%D8%AD%D9%86%D8%A9-%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B7%D8%B1%D9%8A%D9%82%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D9%84%D9%8A%D8%A8/
+    publisher: عين ليبيا
+    date: 2026-11-10
+    language: ar
+  - title: 878 kilos of drugs seized in Caldas and Cartagena in operations announced by De La Espriella
+    url: https://co.ibtimes.com/drug-seizures-caldas-cartagena-3693
+    publisher: IBTimes CO
+    date: 2026-11-09
 media:
   - kind: video
     url: https://x.com/Policia_Caldas/status/2119873943276339418
@@ -112,7 +112,7 @@ Cauca bound for Medellín. [@3,4,5] President Abelardo de la Espriella announced
 Chinchiná seizure and a second operation at the port of Cartagena. [@1] The load was valued by police at more than 300 million pesos on the illegal market. [@6]
 
 The government presented the two hauls as 878 kilograms in total, of which 520
-were marijuana and 358 cocaine. [@1]
+were marijuana and 358 cocaine. [@1,9,10]
 
 For the whole pair of operations the authorities reported one person arrested, in the Caldas procedure. [@2] The Cartagena operation, named Estrategia Esmeralda, found the cocaine inside two electricity generators carried in a shipping container. [@2]
 
