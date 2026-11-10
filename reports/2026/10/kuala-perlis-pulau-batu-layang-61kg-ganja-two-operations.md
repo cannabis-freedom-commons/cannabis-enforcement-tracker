@@ -57,34 +57,38 @@ sources:
     publisher: Utusan Malaysia
     date: 2026-11-10
     language: ms
+  - title: Perlis Customs seizes drugs, kratom leaves, imported car worth over RM280,000
+    url: https://www.thestar.com.my/news/nation/2026/11/10/perlis-customs-seizes-drugs-kratom-leaves-imported-car-worth-over-rm280000
+    publisher: The Star (Malaysia)
+    date: 2026-11-10
 open_questions:
-  - No suspect was named or arrested, and no arrest was reported for either seizure.
-  - Kosmo gives no date for the earlier operation; Utusan says only that the sacks were found on the Kuala Perlis river platform 'last August'.
-  - The drugs are described as suspected ganja or kanabis; no laboratory confirmation was reported.
-  - 'The value figures are customs estimates: RM116,544 for the 36.42 kg and RM75,000 for the 25 kg.'
-  - It is not stated whether the two seizures are linked to the same syndicate beyond the shared method.
-  - The case outcome, charges against any person and any prosecution are unknown beyond the Section 39B investigation.
+    - No suspect was named or arrested, and no arrest was reported for either seizure.
+    - Kosmo gives no date for the earlier operation; The Star and Utusan place it on 28 August 2026.
+    - The drugs are described as suspected ganja or kanabis; no laboratory confirmation was reported.
+    - 'The value figures are customs estimates: RM116,544 for the 36.42 kg and RM75,000 for the 25 kg.'
+    - It is not stated whether the two seizures are linked to the same syndicate beyond the shared method.
+    - The case outcome, charges against any person and any prosecution are unknown beyond the Section 39B investigation.
+    - Customs said the drugs were believed to have been smuggled in from Thailand, but no arrest or border crossing point was identified.
 ---
 
 Malaysia's Royal Malaysian Customs Department (JKDM) seized 61.42 kg of cannabis
-valued at RM191,544 in two separate operations at Kuala Perlis, Perlis. [@1] In
+valued at RM191,544 in two separate operations at Kuala Perlis, Perlis. [@1,3] In
 the most recent operation, at about 8.15pm on 19 October 2026, a marine
 enforcement team from Kuala Perlis found three suspicious sacks on the jetty
-platform at Pulau Batu Layang, Simpang Empat. [@1]
+platform at Pulau Batu Layang, Simpang Empat. [@1,3]
 
 The sacks held 35 compressed blocks of suspected cannabis weighing 36.42 kg,
-which customs valued at RM116,544. [@1] Perlis customs director Mohammad Furiman
+which customs valued at RM116,544. [@1,3] Perlis customs director Mohammad Furiman
 Hattar said the packages were believed to have been deliberately left at the
 disused jetty for someone else to collect, so that the syndicate's movements
-would not be noticed. [@1]
+would not be noticed. [@1,3] Customs believed the drugs had been smuggled in from Thailand. [@3]
 
 In the earlier operation, customs officers found two suspicious sacks left on a
-disused platform on the Sungai Kuala Perlis near Taman Pelangi in August. [@2]
+disused platform on the Sungai Kuala Perlis near Taman Pelangi in August. [@2,3]
 Those sacks contained a black plastic bag with 25 compressed blocks of suspected
-cannabis weighing 25 kg and worth an estimated RM75,000. [@2] Furiman said
+cannabis weighing 25 kg and worth an estimated RM75,000. [@2,3] That earlier seizure was made at about 9.30pm on 28 August 2026. [@3] Furiman said
 customs believed the drugs from the two cases could have supplied about 199,000
 addicts had they gone through. [@2]
 
 He said the two cases are still under investigation under Section 39B of the
-Dangerous Drugs Act 1952, which covers trafficking. [@2]
-
+Dangerous Drugs Act 1952, which covers trafficking. [@2,3]
