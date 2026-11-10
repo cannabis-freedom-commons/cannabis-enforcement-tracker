@@ -86,6 +86,7 @@ func ensurePublishBranch(ctx context.Context, repo, branch string) error {
 		return err
 	}
 	defer unlock()
+	abortInProgress(ctx, repo)
 	if err := gitQuiet(ctx, repo, 2*time.Minute, "fetch", "--quiet", "origin"); err != nil {
 		return err
 	}
@@ -112,8 +113,106 @@ func ensurePublishBranch(ctx context.Context, repo, branch string) error {
 	if err := installPrePushHook(ctx, repo); err != nil {
 		slog.Warn("the pre-push hook could not be installed", "error", err)
 	}
-	// a person's `git pull` here rebases as well, instead of merging main into the branch
-	return gitQuiet(ctx, repo, time.Minute, "config", "pull.rebase", "true")
+	// earlier versions set pull.rebase here; a person's own `git pull` follows their own settings
+	_ = gitQuiet(ctx, repo, time.Minute, "config", "--unset", "pull.rebase")
+	return nil
+}
+
+// abortInProgress ends a rebase, merge or cherry-pick a crash or a person left half-done in the
+// clone, so the backend never works on (or stops at) a half-applied state.
+func abortInProgress(ctx context.Context, repo string) {
+	gitDir, err := gitOutput(ctx, repo, "rev-parse", "--git-dir")
+	if err != nil {
+		return
+	}
+	if !filepath.IsAbs(gitDir) {
+		gitDir = filepath.Join(repo, gitDir)
+	}
+	for marker, args := range map[string][]string{
+		"rebase-merge": {"rebase", "--abort"}, "rebase-apply": {"rebase", "--abort"},
+		"MERGE_HEAD": {"merge", "--abort"}, "CHERRY_PICK_HEAD": {"cherry-pick", "--abort"},
+	} {
+		if _, err := os.Stat(filepath.Join(gitDir, marker)); err == nil {
+			if err := gitQuiet(ctx, repo, time.Minute, args...); err != nil {
+				slog.Warn("could not end an unfinished git operation", "operation", args[0], "error", err)
+			} else {
+				slog.Warn("ended an unfinished git operation in the report repository", "operation", args[0])
+			}
+		}
+	}
+}
+
+// casesOn is every case a Submission-Case trailer names in the newest commits of rev.
+func casesOn(ctx context.Context, repo, rev string) (map[string]bool, error) {
+	out, err := gitOutput(ctx, repo, "log", "-n", "5000", "--format=%B", rev)
+	if err != nil {
+		return nil, err
+	}
+	cases := map[string]bool{}
+	for _, m := range caseTrailer.FindAllStringSubmatch(out, -1) {
+		cases[m[1]] = true
+	}
+	return cases, nil
+}
+
+// alignWithMain puts the publish branch on top of origin/main without ever stopping half-way, whatever
+// was done to main or to the branch by hand: an unfinished rebase, merge or cherry-pick is ended;
+// commits whose case main already has (a batch merged by hand, squashed or rebased) and merge
+// commits are dropped; the remaining report commits are replayed one by one, the branch's version
+// of a report winning a conflict (it is the newer one). A commit that still cannot be applied is
+// left out and logged instead of leaving the clone mid-rebase.
+func alignWithMain(ctx context.Context, repo string) error {
+	abortInProgress(ctx, repo)
+	if err := gitQuiet(ctx, repo, 2*time.Minute, "fetch", "--quiet", "origin"); err != nil {
+		return err
+	}
+	main := "origin/" + mainBranch
+	list, err := gitOutput(ctx, repo, "rev-list", "--reverse", "--no-merges", main+"..HEAD")
+	if err != nil {
+		return err
+	}
+	merges, _ := gitOutput(ctx, repo, "rev-list", "--merges", main+"..HEAD")
+	onTop := gitQuiet(ctx, repo, time.Minute, "merge-base", "--is-ancestor", main, "HEAD") == nil
+	if onTop && strings.TrimSpace(merges) == "" {
+		return nil // already main plus its own commits
+	}
+	published, err := casesOn(ctx, repo, main)
+	if err != nil {
+		return err
+	}
+	var keep []string
+	for _, sha := range strings.Fields(list) {
+		body, err := gitOutput(ctx, repo, "log", "-1", "--format=%B", sha)
+		if err != nil {
+			return err
+		}
+		ms := caseTrailer.FindAllStringSubmatch(body, -1)
+		new := len(ms) == 0
+		for _, m := range ms {
+			new = new || !published[m[1]]
+		}
+		if new {
+			keep = append(keep, sha)
+		}
+	}
+	// uncommitted changes survive the rebuild
+	dirty, _ := gitOutput(ctx, repo, "status", "--porcelain", "--untracked-files=no")
+	stashed := strings.TrimSpace(dirty) != "" && gitQuiet(ctx, repo, time.Minute, "stash", "push", "--quiet") == nil
+	if err := gitQuiet(ctx, repo, time.Minute, "reset", "--quiet", "--hard", main); err != nil {
+		return err
+	}
+	for _, sha := range keep {
+		if err := gitQuiet(ctx, repo, time.Minute, "cherry-pick", "--empty=drop", "-X", "theirs", sha); err != nil {
+			_ = gitQuiet(ctx, repo, time.Minute, "cherry-pick", "--abort")
+			slog.Warn("a report commit could not be put on top of main and was left out", "commit", sha, "error", err)
+		}
+	}
+	if stashed {
+		if err := gitQuiet(ctx, repo, time.Minute, "stash", "pop", "--quiet"); err != nil {
+			slog.Warn("uncommitted changes in the report repository were kept in git stash", "error", err)
+		}
+	}
+	return nil
 }
 
 // pushBranch pushes the publish branch; it is rebased onto main before each commit, so it is

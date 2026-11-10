@@ -63,6 +63,9 @@ type Config struct {
 	// A worker's own settings: the backend it works for and its token.
 	TrackerURL, WorkerToken string
 	MetricsToken            string // bearer token of GET /metrics (INGEST_TOKEN when blank)
+	// OperatorToken lets its bearer restart failed submissions on a deployed backend, where the
+	// localhost-only DEV_CONTROLS cannot apply; the site's dev proxy sends it (SUBMISSIONS_DEV_TOKEN).
+	OperatorToken string
 	GitHubToken             string // optional: reading the Pages workflow's runs above GitHub's anonymous limit
 	// PublishBranch, when set, is where reports are committed; every PublishInterval the branch
 	// goes to main in one push (worker/batch.go). Blank: each report is pushed to main at once.
@@ -152,6 +155,10 @@ func Load() (Config, error) {
 	}
 	c.SourceBrowser = env("SOURCE_BROWSER", "true") == "true"
 	c.DevControls = env("DEV_CONTROLS", "false") == "true"
+	c.OperatorToken = env("OPERATOR_TOKEN", "")
+	if c.OperatorToken != "" && len(c.OperatorToken) < 24 {
+		return c, errors.New("OPERATOR_TOKEN must be at least 24 characters")
+	}
 	c.RawAILogs = env("RAW_AI_LOGS", "false") == "true"
 	c.JobLogRetention, discoveryErr = time.ParseDuration(env("JOB_LOG_RETENTION", "336h"))
 	if discoveryErr != nil || c.JobLogRetention < time.Hour || c.JobLogRetention > 365*24*time.Hour {

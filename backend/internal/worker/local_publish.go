@@ -42,7 +42,7 @@ func pushRepo(ctx context.Context, repo string, sync bool) error {
 // With a publish branch it rebases onto main by name: the branch's own upstream is itself (batch.go).
 func pullRepo(ctx context.Context, repo, publishBranch string) error {
 	if publishBranch != "" {
-		return gitQuiet(ctx, repo, 2*time.Minute, "pull", "--rebase", "--autostash", "--quiet", "origin", mainBranch)
+		return alignWithMain(ctx, repo)
 	}
 	return gitQuiet(ctx, repo, 2*time.Minute, "pull", "--rebase", "--autostash", "--quiet")
 }

@@ -132,7 +132,7 @@ func (s *Server) Handler() http.Handler {
 	mux.HandleFunc("POST /v1/ingest/candidate", s.ingest)
 	mux.HandleFunc("POST /v1/webhooks/github", s.webhook)
 	mux.HandleFunc("GET /v1/config", func(w http.ResponseWriter, r *http.Request) {
-		write(w, 200, map[string]any{"nostr_enabled": s.Config.BotSecret != "", "relays": s.Config.Relays, "processing": s.processingInfo(r.Context())})
+		write(w, 200, map[string]any{"nostr_enabled": s.Config.BotSecret != "", "relays": s.Config.Relays, "processing": s.processingInfo(r)})
 	})
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		w.Header().Set("Cache-Control", "no-store")

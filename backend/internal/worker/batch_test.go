@@ -269,3 +269,54 @@ func TestReportsPushedToMainByHandAreRecovered(t *testing.T) {
 		t.Fatal("the clone stays on", got)
 	}
 }
+
+// A batch merged into main by hand (with its own edits), and a clone left mid-rebase: the branch
+// is put back on top of main with only what main does not have, and never stays half-rebased.
+func TestBranchRecoversFromHandMergeAndUnfinishedRebase(t *testing.T) {
+	ctx := context.Background()
+	_, server, other := batchFixture(t)
+	rel := "reports/2026/10/hand-merged.md"
+	commit := func(repo, content, msg string) {
+		t.Helper()
+		os.MkdirAll(filepath.Join(repo, "reports/2026/10"), 0755)
+		os.WriteFile(filepath.Join(repo, rel), []byte(content), 0644)
+		testGit(t, repo, "add", rel)
+		testGit(t, repo, "commit", "--quiet", "-m", msg)
+	}
+	a, b, c := strings.Repeat("a", 32), strings.Repeat("b", 32), strings.Repeat("c", 32)
+	commit(server, "first version\n", "Add report: first\n\nSubmission-Case: "+a)
+	commit(server, "second version\n", "Add source to report: second\n\nSubmission-Case: "+b)
+	testGit(t, server, "push", "--quiet", "--force", "origin", "HEAD:refs/heads/submissions")
+	// someone merges the branch into main by hand and edits the report while doing it
+	testGit(t, other, "fetch", "--quiet", "origin")
+	testGit(t, other, "merge", "--quiet", "--no-ff", "--no-edit", "origin/submissions")
+	commit(other, "second version, edited by hand\n", "Fix wording")
+	testGit(t, other, "push", "--quiet", "origin", "HEAD:refs/heads/main")
+	// a new report change arrives on the branch, then a rebase onto main stops at a conflict
+	commit(server, "third version\n", "Add source to report: third\n\nSubmission-Case: "+c)
+	testGit(t, server, "fetch", "--quiet", "origin")
+	if exec.Command("git", "-C", server, "-c", "user.name=x", "-c", "user.email=x@localhost", "rebase", "--quiet", "origin/main").Run() == nil {
+		t.Fatal("the fixture's rebase should stop at a conflict")
+	}
+	if err := alignWithMain(ctx, server); err != nil {
+		t.Fatal(err)
+	}
+	if _, err := os.Stat(filepath.Join(server, ".git", "rebase-merge")); !os.IsNotExist(err) {
+		t.Fatal("the clone is still mid-rebase")
+	}
+	if exec.Command("git", "-C", server, "merge-base", "--is-ancestor", "origin/main", "HEAD").Run() != nil {
+		t.Fatal("the branch is not on top of main")
+	}
+	ahead := strings.Fields(testGit(t, server, "rev-list", "origin/main..HEAD"))
+	if len(ahead) != 1 {
+		t.Fatalf("want only the new report commit on top of main, got %d", len(ahead))
+	}
+	if got, _ := os.ReadFile(filepath.Join(server, rel)); string(got) != "third version\n" {
+		t.Fatalf("the newer report did not win: %q", got)
+	}
+	// nothing left to do: a second run changes nothing
+	head := testGit(t, server, "rev-parse", "HEAD")
+	if err := alignWithMain(ctx, server); err != nil || testGit(t, server, "rev-parse", "HEAD") != head {
+		t.Fatal("a second alignment moved the branch", err)
+	}
+}

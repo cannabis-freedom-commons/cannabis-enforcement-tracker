@@ -40,7 +40,7 @@ func (s *Server) submissions(w http.ResponseWriter, r *http.Request) {
 	write(w, 200, struct {
 		store.SubmissionPage
 		Processing ProcessingInfo `json:"processing"`
-	}{page, s.processingInfo(r.Context())})
+	}{page, s.processingInfo(r)})
 }
 
 // Every connection reads only one indexed version row each second. Messages invalidate a

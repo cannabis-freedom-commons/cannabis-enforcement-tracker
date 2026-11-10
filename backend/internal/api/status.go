@@ -53,7 +53,7 @@ func (s *Server) status(w http.ResponseWriter, r *http.Request) {
 	if pub.Deploying > 0 || pub.Waiting > 0 {
 		pub.DeployRun = s.Store.DeployRun()
 	}
-	p := s.processingInfo(r.Context())
+	p := s.processingInfo(r)
 	w.Header().Set("Cache-Control", "no-store")
 	write(w, 200, struct {
 		Online      bool        `json:"online"`

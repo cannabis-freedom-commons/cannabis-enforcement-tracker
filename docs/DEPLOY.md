@@ -12,8 +12,8 @@ the public base images. The container:
 - commits new reports into the clone itself, on the `submissions` branch, and pushes them to
   GitHub with a deploy key (your `~/.ssh`, mounted read-only); every 30 minutes they go to `main`
   together (see "Publication" below);
-- keeps the clone level with GitHub: it rebases onto `main` before each commit and every five
-  minutes (`REPO_SYNC`), so other people's pushes never block its own;
+- keeps the clone level with GitHub: it puts its branch back on top of `main` before each commit
+  and every five minutes (`REPO_SYNC`), so other people's pushes never block its own;
 - listens on `127.0.0.1:7706` for the web server in front of it, which serves HTTPS;
 - harvests Google News, Bing News and the other feeds, and answers Nostr if configured;
 - does no research itself (`RESEARCH_MODE=remote`).
@@ -205,6 +205,15 @@ repository variable; the next Pages build uses it:
 gh variable set PUBLIC_SUBMISSIONS_API_URL --repo cannabis-freedom-commons/cet --body https://tracker-api.cannabisfreedom.fyi
 ```
 
+## Restarting submissions
+
+Restart (on a failed submission's page) works on a backend that runs on your own machine, or with
+the operator token. On the server, set `OPERATOR_TOKEN` in `.env.backend` (at least 24 characters,
+`openssl rand -hex 32`) and restart the backend. On your machine, put the same value in the site's
+`.env` as `SUBMISSIONS_DEV_TOKEN`, next to `SUBMISSIONS_DEV_API`, and restart `npm run dev`. The
+dev server's proxy adds the token to its requests, so the Restart button appears on localhost; it
+never reaches a browser or the built site.
+
 ## Metrics
 
 `GET /metrics` gives the backend's figures in the Prometheus text format, for Prometheus (or
@@ -313,9 +322,9 @@ A validated report goes through three statuses on its request page:
 
 1. **Waiting to publish** (`committed`): committed to the `submissions` branch and pushed there.
    Workers research against that branch, so nothing is researched twice meanwhile.
-2. **Deploying**: the branch went to `main`. Every 30 minutes, at :00 and :30, the backend rebases
-   the branch onto `main` and pushes it as a fast-forward: `main` gets the reports' own commits
-   and no merge commit. With no new reports, nothing is pushed.
+2. **Deploying**: the branch went to `main`. Every 30 minutes, at :00 and :30, the backend puts
+   the branch back on top of `main` and pushes it as a fast-forward: `main` gets the reports' own
+   commits and no merge commit. With no new reports, nothing is pushed.
 3. **Published**: each push to `main` builds the site (`.github/workflows/deploy.yml`). Every minute
    the backend reads the live `/version.json`; once the deployed commit contains a report, it is
    published, and Nostr submitters get their reply with the report's link.
@@ -329,13 +338,20 @@ GitHub, so a plain `git push` or `git pull` there touches only that branch, and 
 installs refuses pushes to `main` from the clone. If reports reach `main` some other way, nothing
 breaks: the next batch does not push them again, and they are published once the site has them. If
 the clone is switched to another branch, the backend switches it back. Do not commit on the
-`submissions` branch by hand: the backend rebases and force-pushes it.
+`submissions` branch by hand: the backend rebuilds and force-pushes it.
+
+Merging `submissions` into `main` by hand is safe too, even with edits made while resolving it. The
+backend never rebases: it puts the branch on top of `main` again with only the report commits whose
+case `main` does not have yet (by their `Submission-Case` line) and replays them one at a time. The
+branch's newer report wins a conflict, and a commit that still cannot apply is logged and left out.
+It also ends any rebase, merge or cherry-pick it finds half-done in the clone. If an older version
+left the clone mid-rebase, `git rebase --abort` there, or just start the new version.
 
 ## Updating
 
-The backend keeps the clone up to date itself (it is on the `submissions` branch, rebased onto
-`main` every few minutes). For new backend code, rebuild once the backend has pulled it, or pull
-first (`git pull` rebases here, so it never makes a merge commit):
+The backend keeps the clone up to date itself (it is on the `submissions` branch, put back on top
+of `main` every few minutes). For new backend code, rebuild once the backend has pulled it, or pull
+first:
 
 ```bash
 git pull && docker compose up -d --build

@@ -1,6 +1,7 @@
 package api
 
 import (
+	"crypto/subtle"
 	"encoding/json"
 	"errors"
 	"io"
@@ -8,6 +9,7 @@ import (
 	"net"
 	"net/http"
 	"net/url"
+	"strings"
 
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
 )
@@ -36,26 +38,42 @@ func (s *Server) localDevelopmentRequest(r *http.Request) bool {
 	return true
 }
 
-func (s *Server) restart(w http.ResponseWriter, r *http.Request) {
+// operator is a request carrying OPERATOR_TOKEN: the site's local dev proxy on the operator's own
+// machine, talking to a deployed backend.
+func (s *Server) operator(r *http.Request) bool {
+	token, ok := strings.CutPrefix(r.Header.Get("Authorization"), "Bearer ")
+	return ok && s.Config.OperatorToken != "" && subtle.ConstantTimeCompare([]byte(token), []byte(s.Config.OperatorToken)) == 1
+}
+
+// restartAllowed: the local development backend asked from this machine, or the operator's token.
+func (s *Server) restartAllowed(r *http.Request) bool {
+	if s.operator(r) {
+		return true
+	}
 	host, _, err := net.SplitHostPort(r.RemoteAddr)
-	if !s.localControls() || err != nil || !loopbackHost(host) {
-		problem(w, 403, "Restart is available only on the local development backend.")
+	return s.localControls() && err == nil && loopbackHost(host)
+}
+
+func (s *Server) restart(w http.ResponseWriter, r *http.Request) {
+	if !s.restartAllowed(r) {
+		problem(w, 403, "Restart is available on the local development backend, or with the operator token.")
 		return
 	}
-	// Require a non-simple JSON request and a local browser origin, including when
-	// Astro proxies the request. Never use forwarded IP headers for this control.
+	// Require a non-simple JSON request and, without the token, a local browser origin, including
+	// when Astro proxies the request. Never use forwarded IP headers for this control.
 	content, _, _ := mime.ParseMediaType(r.Header.Get("Content-Type"))
 	if content != "application/json" || r.Header.Get("Sec-Fetch-Site") == "cross-site" {
 		problem(w, 403, "Use the localhost submission restart control.")
 		return
 	}
-	if origin := r.Header.Get("Origin"); origin != "" {
+	if origin := r.Header.Get("Origin"); origin != "" && !s.operator(r) {
 		u, e := url.Parse(origin)
 		if e != nil || !loopbackHost(u.Hostname()) {
 			problem(w, 403, "Restart requires a localhost origin.")
 			return
 		}
 	}
+	var err error
 	id := r.PathValue("id")
 	if !idPattern.MatchString(id) {
 		problem(w, 404, "Receipt not found.")

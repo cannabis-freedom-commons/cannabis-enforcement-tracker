@@ -30,6 +30,6 @@ func (s *Server) aiStats(w http.ResponseWriter, r *http.Request) {
 		problem(w, 503, "AI usage is unavailable")
 		return
 	}
-	p := s.processingInfo(r.Context())
+	p := s.processingInfo(r)
 	write(w, 200, map[string]any{"period": period, "since": since, "updated_at": now.Unix(), "usage": buckets, "durations": durations, "plan": p.Plan})
 }

@@ -22,6 +22,9 @@ const base = (process.env.BASE_PATH || "").replace(/\/+$/, "") + "/";
 // The backend the dev server's /__submissions proxy forwards to: the local one, or the server's
 // (SUBMISSIONS_DEV_API=https://tracker-api.cannabisfreedom.fyi in .env).
 const submissionsDevAPI = loadEnv("development", process.cwd(), "").SUBMISSIONS_DEV_API || "http://127.0.0.1:8080";
+// the deployed backend's OPERATOR_TOKEN: the dev proxy adds it, so restart works on localhost against
+// the server; it stays in this server-side proxy and never reaches a browser or the built site
+const submissionsDevToken = loadEnv("development", process.cwd(), "").SUBMISSIONS_DEV_TOKEN || "";
 const reportsDirectory = resolve(process.env.REPORTS_DIR || "./reports").replaceAll("\\", "/");
 
 // Links in a report's text: one that leaves the site opens in a new tab and is marked `ext`;
@@ -140,7 +143,10 @@ export default defineConfig({
           configure: (proxy) => {
             // The dev server makes server-to-server requests. Do not forward its
             // browser origin: Astro may select a different port when 4321 is busy.
-            proxy.on("proxyReq", (request) => request.removeHeader("origin"));
+            proxy.on("proxyReq", (request) => {
+              request.removeHeader("origin");
+              if (submissionsDevToken && !request.getHeader("authorization")) request.setHeader("authorization", `Bearer ${submissionsDevToken}`);
+            });
             proxy.on("proxyReqWs", (request) => request.removeHeader("origin"));
           },
         },

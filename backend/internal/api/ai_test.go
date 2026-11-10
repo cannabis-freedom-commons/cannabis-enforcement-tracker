@@ -1,6 +1,7 @@
 package api
 
 import (
+	"net/http/httptest"
 	"context"
 	"encoding/json"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
@@ -75,7 +76,7 @@ func TestProcessingInfoMultipleAgents(t *testing.T) {
 	s.Health = research.NewAgentHealth(s.Config.Agents())
 	s.Health.ForModel("a/model#xhigh").Set(research.HealthSnapshot{Status: "ready", Diagnostics: &research.ProbeDiagnostics{Stdout: "private probe output"}})
 	s.Health.ForModel("b/model#xhigh").Set(research.HealthSnapshot{Status: "failed", Message: "Authentication failed."})
-	info := s.processingInfo(context.Background())
+	info := s.processingInfo(httptest.NewRequest("GET", "/v1/config", nil))
 	if !info.Enabled || info.MaxRunning != 6 || len(info.Agents) != 2 || len(info.Startup.Agents) != 2 || strings.Contains(info.Model, "legacy") {
 		t.Fatalf("incorrect processing info: %+v", info)
 	}

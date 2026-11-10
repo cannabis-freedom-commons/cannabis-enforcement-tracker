@@ -1,7 +1,6 @@
 package api
 
 import (
-	"context"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/config"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/research"
 	"github.com/burningtree/cannabis-freedom-index-tracker/backend/internal/store"
@@ -38,9 +37,10 @@ type Plan struct {
 	AllowanceUSD float64 `json:"allowance_usd"`
 }
 
-func (s *Server) processingInfo(ctx context.Context) ProcessingInfo {
+func (s *Server) processingInfo(r *http.Request) ProcessingInfo {
+	ctx := r.Context()
 	c := s.Config
-	p := ProcessingInfo{Budget: s.budgetInfo(ctx, time.Now()), RestartAvailable: s.localControls(), PublicationMode: "local_commit", RawLogsAvailable: c.RawAILogs, Mode: "automatic", Model: c.ResearchModel, Runner: "OpenCode (" + c.ResearchRunner + ")", Enabled: c.ResearchEnabled(), AutomaticPublication: true, PublicationConfigured: c.RepoPath != "", MaxRunning: c.MaxWorkers()}
+	p := ProcessingInfo{Budget: s.budgetInfo(ctx, time.Now()), RestartAvailable: s.restartAllowed(r), PublicationMode: "local_commit", RawLogsAvailable: c.RawAILogs, Mode: "automatic", Model: c.ResearchModel, Runner: "OpenCode (" + c.ResearchRunner + ")", Enabled: c.ResearchEnabled(), AutomaticPublication: true, PublicationConfigured: c.RepoPath != "", MaxRunning: c.MaxWorkers()}
 	p.Agents = c.Agents()
 	models := make([]string, 0, len(p.Agents))
 	for _, a := range p.Agents {
@@ -136,7 +136,7 @@ func (s *Server) ai(w http.ResponseWriter, r *http.Request) {
 	write(w, 200, struct {
 		Processing ProcessingInfo `json:"processing"`
 		Activity   any            `json:"activity"`
-	}{s.processingInfo(r.Context()), activity})
+	}{s.processingInfo(r), activity})
 }
 
 func (s *Server) aiLog(w http.ResponseWriter, r *http.Request) {
@@ -161,5 +161,5 @@ func (s *Server) aiLog(w http.ResponseWriter, r *http.Request) {
 		Scope         string           `json:"scope"`
 		Processing    ProcessingInfo   `json:"processing"`
 		Activity      store.AIActivity `json:"activity"`
-	}{1, id, "All recorded public AI activity; raw tool output and private reasoning are excluded.", s.processingInfo(r.Context()), activity})
+	}{1, id, "All recorded public AI activity; raw tool output and private reasoning are excluded.", s.processingInfo(r), activity})
 }
