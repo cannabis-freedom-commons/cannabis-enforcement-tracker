@@ -46,28 +46,32 @@ sources:
     publisher: Le Soir
     date: 2026-09-29
     language: fr
+  - title: 'Près de 240 kg de cannabis découverts dans un camion au Maroc: un Belge interpellé'
+    url: https://www.lavenir.net/actu/monde/2026/09/29/pres-de-240-kg-de-cannabis-decouverts-dans-un-camion-au-maroc-un-belge-interpelle-TDD2PYISPZAB7OOWIK7LVSQ7Y4/
+    publisher: L'Avenir
+    date: 2026-09-29
+    language: fr
 open_questions:
-  - "The map marks the Tanger Med port area; the source does not identify the exact inspection point."
-  - No charges, court date or outcome for the driver were reported; both accounts end at the judicial investigation stage.
-  - The van's country of registration and its intended destination were not stated.
-  - Le Soir's headline says 'près de 240 kg' while its text gives 238 kg, the figure used here.
-  - No estimated value was given for the resin.
-  - 'Un Belge arrêté au Maroc : près de 240 kg de cannabis découverts dans son camion (Le Soir) could not be opened again to check its quotations (access challenge: Website security verification blocked access to the article; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.'
+    - The map marks the Tanger Med port area; the source does not identify the exact inspection point.
+    - No charges, court date or outcome for the driver were reported; the accounts end at the judicial investigation stage.
+    - The vehicle's country of registration and its intended destination were not stated.
+    - Belgian headlines say 'près de 240 kg' while the text gives 238 kg, the figure used here.
+    - No estimated value was given for the resin.
 ---
 
 Morocco's national police (DGSN) and the customs administration (ADII) seized
 238 kg of cannabis resin at the port of Tanger Med on the evening of Monday 28
-September 2026. [@1] Officers found the resin hidden in the trailer of a
-foreign-registered van. [@1] The driver was arrested at the scene. [@1]
+September 2026. [@1,3] Officers found the resin hidden in the trailer of a
+foreign-registered van. [@1,3] The driver was arrested at the scene. [@1]
 
-He is a Belgian national of Moroccan origin. [@1] He was placed under a judicial
-investigation supervised by the competent public prosecutor. [@1] Checks at the
+He is a Belgian national of Moroccan origin. [@1,3] He was placed under a judicial
+investigation supervised by the competent public prosecutor. [@1,3] Checks at the
 border post preceded his handover to investigators, who hold the material
 gathered in the search of the vehicle. [@1] The inquiry is to establish who else
 was involved in moving the load and to determine the activity's suspected reach
-in Morocco and abroad. [@1] Le Soir, citing HLN and Moroccan media, reported
+in Morocco and abroad. [@1,3] Le Soir, citing HLN and Moroccan media, reported
 that the driver was being questioned. [@2] The case could involve a larger
-international trafficking network, the same account said. [@2] The van, its
+international trafficking network, the same account said. [@2,3] The van, its
 papers and its route are the first supports of those checks. [@1]
 
 The resin had been divided among cavities cut inside the trailer's structure, a
@@ -77,4 +81,3 @@ the vehicle. [@1] Tanger Med is the main road-freight crossing between Morocco
 and Europe, where exit checks concentrate on lorries and vans boarding for
 Spain. [@1] Police and customs there run checks against international
 trafficking in narcotics and psychotropic substances. [@1]
-
