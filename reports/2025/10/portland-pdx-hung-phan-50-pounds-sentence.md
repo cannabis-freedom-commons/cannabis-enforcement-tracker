@@ -38,12 +38,16 @@ sources:
     url: https://www.kptv.com/2026/11/10/exclusive-man-arrested-pdx-with-50-lbs-marijuana-says-he-planned-sell-it-another-state/
     publisher: KPTV (FOX 12 Oregon)
     date: 2026-11-10
+  - title: Man arrested at PDX with 50 lbs. of marijuana says he planned to sell it in another state
+    url: https://www.kptv.com/video/2026/11/10/man-arrested-pdx-with-50-lbs-marijuana-says-he-planned-sell-it-another-state/
+    publisher: KPTV (FOX 12 Oregon)
+    date: 2026-11-10
 ---
 
 Hung Phan was arrested at Portland International Airport in October 2025 with
-more than 50 pounds of marijuana in his checked bags. [@1] He was charged with
+more than 50 pounds of marijuana in his checked bags. [@1,2] He was charged with
 unlawful possession, illegal export and unlawful delivery of marijuana. [@1]
-Phan said he was trying to sell the marijuana to a dealer in another state. [@1]
+Phan said he was trying to sell the marijuana to a dealer in another state. [@1,2]
 He told FOX 12 he flew with suitcases full of cannabis because he had gotten
 away with it before and was in dire need of cash. [@1] Asked whether he had
 shipped marijuana through the airport before, Phan answered that he had done so
@@ -64,4 +68,3 @@ TSA agents found signs of cannabis in luggage. [@1] Port of Portland numbers
 show six arrests for smuggling at least 2 pounds of marijuana in 2022 and five
 in 2023, with arrests tripling in 2024 and rising since. [@1] As of September
 2026, there had been 19 arrests at PDX involving marijuana smuggling. [@1]
-
