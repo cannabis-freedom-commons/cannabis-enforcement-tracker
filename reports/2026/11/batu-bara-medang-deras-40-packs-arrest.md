@@ -41,6 +41,11 @@ media:
     media_url: https://files-manager.mistar.id/uploads/MISTAR/10-11-2026/pria_44_tahun_di_batu_bara_ditangkap_polisi_sita_40_bungkus_ganja_siap_edar_2026-11-10_08-20-14_8322.jpg
     publisher: HARIAN MISTAR
     caption: 'The suspect at the police station after the arrest. Photo: Polsek Medang Deras/Mistar'
+  - kind: photo
+    url: https://www.medanposonline.com/sumatera-utara/25221/polsek-medang-deras-amankan-pria-diduga-memiliki-ganja-40-bungkus-barang-bukti-disita/
+    media_url: https://www.medanposonline.com/cdn/uploads/images/2026/11/_8261_Polsek-Medang-Deras-Amankan-Pria-Diduga-Memiliki-Ganja--40-Bungkus-Barang-Bukti-Disita.png
+    publisher: Medan Pos
+    caption: 'The suspect and the cannabis and cash seized by Medang Deras police. Photo: Medan Pos'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 1c6a6797f54ca980875e3e91f77255b7
@@ -71,19 +76,18 @@ sources:
     publisher: MedanMerdeka.com
     date: 2026-11-10
     language: id
-open_questions:
-  - No weight for the 40 packs of cannabis was published, so no kilograms are recorded.
-  - One outlet's headline says 39 packs while its body describes 39 small packs plus one medium pack, totalling 40; the report follows the 40-pack total used by the other two outlets.
-  - The man's home village is spelled Sidomulio in one account and Sidomulyo in two others; both refer to the same person and place.
-  - No charge, detention status or court outcome beyond handover to the Batu Bara narcotics unit was reported.
-  - This account calls the location Perdomuan Nauli hamlet but gives no home village for the man and does not repeat the admission that he intended to resell, so those details continue to rest on the earlier sources.
+  - title: Polsek Medang Deras Amankan Pria Diduga Memiliki Ganja, 40 Bungkus Barang Bukti Disita
+    url: https://www.medanposonline.com/sumatera-utara/25221/polsek-medang-deras-amankan-pria-diduga-memiliki-ganja-40-bungkus-barang-bukti-disita/
+    publisher: Medan Pos
+    date: 2026-11-10
+    language: id
 ---
 
 A 44-year-old man identified as H, a resident of Sidomulio village in Talawi,
 Batu Bara, was arrested by the Medang Deras sector police criminal unit on
 Monday 9 November 2026 at about 18.00 WIB. [@1,4] He was detained at a small shop
 in Sei Buah Keras village, Medang Deras, on suspicion of possessing 40 packs of
-ready-to-distribute cannabis leaf. [@1] A second account names the man as
+ready-to-distribute cannabis leaf. [@1,6] A second account names the man as
 Hendra, 44, of Pematang Dalam hamlet in Sidomulyo village, and places the arrest
 in Perdomuan Nauli hamlet in Sei Buah Keras village. [@3] Medang Deras police
 chief AKP A.H. Sagala said the operation began with a public tip about cannabis
@@ -91,9 +95,9 @@ distribution in Sei Buah Keras village. [@1]
 
 Officers searching him found 40 packs of ready-to-distribute cannabis leaf in
 his left trouser pocket, plus Rp50,000 alleged to be proceeds of cannabis sales.
-[@1,4] Another account breaks the seizure down as 39 small packs wrapped in book
+[@1,4,6] Another account breaks the seizure down as 39 small packs wrapped in book
 paper and one medium pack wrapped in rice paper, with the same Rp50,000 in cash.
-[@2,4] When questioned, the man admitted the seized goods were his and were meant
+[@2,4,6] When questioned, the man admitted the seized goods were his and were meant
 to be resold. [@1]
 
 Police took him to the Medang Deras station and then handed him and the evidence
@@ -101,6 +105,6 @@ to the Batu Bara district police narcotics unit for further legal process. [@1,4
 Police said they were developing the case to find other parties involved,
 including tracing a suspected dealer linked to the cannabis. [@2]
 
-The Medang Deras criminal investigation unit was led in the arrest by its chief, IPDA Syaputra Mamana Hasibuan, acting on a public tip about suspected ganja distribution at the location. [@4] Police said they were continuing to develop the case to trace suspected involvement of other people in the ganja distribution. [@4]
+The Medang Deras criminal investigation unit was led in the arrest by its chief, IPDA Syaputra Mamana Hasibuan, acting on a public tip about suspected ganja distribution at the location. [@4,6] Police said they were continuing to develop the case to trace suspected involvement of other people in the ganja distribution. [@4,6]
 
 The team that made the arrest was led by Medang Deras criminal investigation chief IPDA Syaputra Mamana Hasibuan. [@5]
