@@ -117,6 +117,11 @@ sources:
     publisher: SOT
     date: 2026-11-09
     language: pt
+  - title: 'Operação Impacto: 4,5 toneladas de maconha e um fuzil são apreendidos em Ourinhos'
+    url: https://www.opinanews.com.br/noticia/operacao-impacto-4-5-toneladas-de-maconha-e-um-fuzil-sao-apreendidos-em-ourinhos
+    publisher: Opina News
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No charge or court decision was reported beyond the driver's arrest in flagrante and detention at the Federal Police station in Marília.
   - The driver's name, age, route and the origin or destination of the load were not published.
@@ -144,6 +149,8 @@ open_questions:
   - SOT attributes the operation to FICCO/PR together with the São Paulo Military Police and does not mention the Tático Ostensivo Rodoviário (TOR) unit named in the report's other accounts.
   - SOT places the stop on the SP-327, matching the highway police and PMESP accounts already cited, while another account in the report gives the Raposo Tavares (SP-270); the difference remains.
   - The article gives no count of tablets and no figure for the value of the load, unlike the accounts already cited, and names no charges against the driver.
+  - The page is a direct republication of the PMESP news agency account already cited in the report, so it is not independent confirmation of the details.
+  - Its lead photo is credited to the PMESP news agency, and its relation to the highway-police handout pictures already linked in the report could not be checked.
 ---
 
 Highway police arrested a man in Ourinhos, São Paulo state, on the afternoon of
@@ -157,7 +164,7 @@ Hidden under the legal cargo they found 5,100 tablets of cannabis weighing 4,535
 kilograms. [@1,4,5,6,7,9,10,11] A rifle of calibre 7.62 with no identifiable make, model or
 origin was found in the same place. [@1,4,5,11] The case was presented at the Federal
 Police station in Marília, and the driver, who has a criminal record, remained
-in custody. [@1,4,5,6,7,9,11] The operation was carried out jointly with the São Paulo and
+in custody. [@1,4,5,6,7,9,11,13] The operation was carried out jointly with the São Paulo and
 Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO),
 an integrated anti-organised-crime task force. [@2,6,11] The driver was held at the
 disposal of the courts. [@3]
@@ -168,7 +175,7 @@ were to undergo forensic examination. [@3]
 
 The stop was made at about 15:30 on the Raposo Tavares highway (SP-270) in Ourinhos, during Operação Impacto, by a Tático Ostensivo Rodoviário team working with the FICCO units of São Paulo and Paraná. [@4]
 
-The stop was made at kilometre 28 of the SP-327, in a joint action with the São Paulo and Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO), coordinated by the Federal Police. [@5]
+The stop was made at kilometre 28 of the SP-327, in a joint action with the São Paulo and Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO), coordinated by the Federal Police. [@5,13]
 
 Both the São Paulo and the Paraná branches of the Força Integrada de Combate ao Crime Organizado (FICCO), an integrated anti-organised-crime task force, supported the operation. [@7,10]
 
@@ -179,3 +186,5 @@ Band attributes the 9.1 million reais estimate of losses to drug trafficking to 
 Band credits the 9.1 million real loss estimate to the highway police itself. [@10] Band reports that the case was referred to the Federal Police in Marília and that the driver, who had a criminal record, remained in custody. [@10]
 
 A abordagem ocorreu por volta das 15h25, em uma base de policiamento rodoviário, após a FICCO/PR repassar informações sobre a possibilidade de transporte de materiais ilícitos no caminhão. [@12] O motorista afirmou desconhecer a existência da droga e disse que havia feito uma parada na região de Medianeira, no Oeste do Paraná, perto da fronteira com o Paraguai. [@12] A FICCO/PR é formada pela Polícia Federal, Polícia Militar do Paraná, Secretaria Nacional de Políticas Penais (SENAPPEN) e Polícia Rodoviária Federal. [@12] O fuzil de calibre 7.62 estava sem munições e sem identificação de marca, modelo ou origem. [@12]
+
+Highway police arrested a driver with more than 4.5 tonnes of cannabis and a rifle on the afternoon of Sunday 8 November 2026 on the SP-327 in Ourinhos, in the interior of São Paulo state. [@13] Under the sacks of flour they found 5,100 tablets of cannabis weighing 4,535 kg, and in the same load a 7.62-calibre rifle with no identifying make, model or origin. [@13] Police estimated the seizure caused a loss of 9.1 million reais to international drug trafficking. [@13] Opina News credited the PMESP news agency as its source, reproducing the Military Police's own account of the seizure. [@13]
