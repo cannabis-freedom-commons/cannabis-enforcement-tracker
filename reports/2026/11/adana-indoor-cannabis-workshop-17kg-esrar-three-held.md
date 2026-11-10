@@ -197,6 +197,11 @@ sources:
     publisher: Halk54
     date: 2026-11-09
     language: tr
+  - title: Adana'da iklimlendirme sistemli kenevir imalathanesine operasyon
+    url: https://heyhaber.com/adana-da-iklimlendirme-sistemli-kenevir-imalathanesine-operasyon
+    publisher: Hey Haber
+    date: 2026-11-09
+    language: tr
 open_questions:
   - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
   - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
@@ -253,22 +258,25 @@ open_questions:
   - The page gives no separate date or time for the raid; 9 November 2026 is its publication date.
   - The page says Karaca commanded the Adana provincial gendarmerie at the time of the operation but does not say he personally directed the raid.
   - The page's single picture is captioned only with the story headline and carries no credit, so whether it shows the workshop, the seized esrar or the operation is not established and no media entry is added.
+  - Hey Haber credits the text to its own newsroom ('Haber Merkezi') and reproduces the same Interior Ministry statement as the outlets already cited, so it corroborates rather than independently reports the raid.
+  - The page names no district or neighbourhood for the workshop and no plant count, area or value.
+  - The page's single illustration is a site card image captioned only with an alt text describing officers inspecting a workshop with sacks and production equipment, with no photographer or agency credit; it is not added as a media entry.
 ---
 
 Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20] The workshop was found growing
+Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21] The workshop was found growing
 cannabis under a purpose-built air-conditioning system, and police said the
 three suspects were running a narcotics production and trading operation. [@2,4,7,10]
 The searches turned up 17 kilograms of esrar, a cannabis hashish product,
 together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17,18,19]
+the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17,18,19,21]
 
 The three suspects were taken into custody, and the ministry named no further
 court step. [@2,9,10,12,14]
 
 The operation was run by the Adana Provincial Gendarmerie Command after
 intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14,16]
+anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14,16,21]
 TRT Haber reported that the three suspects were held in gözaltı, the police
 custody in which a person is questioned while prosecutors decide on charges or
 release. [@3]
