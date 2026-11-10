@@ -62,25 +62,31 @@ sources:
     url: https://www.newcastleherald.com.au/story/9389208/police-uncover-cannabis-grow-houses-at-belmont-lake-macquarie/
     publisher: Newcastle Herald
     date: 2026-11-10
+  - title: Over $1million cannabis plants seized - 2HD
+    url: https://2hd.com.au/articles/over-1million-cannabis-plants-seized/
+    publisher: 2HD
+    date: 2026-11-10
 open_questions:
   - No weight was given for the seized plants, so no kilogram figure is recorded.
   - No arrests or charges were reported; police said inquiries were continuing.
   - The sources do not say how the plants were destroyed or taken away, or how the three properties relate to each other.
   - The Mirage News text is the NSW Police public release and newy.com.au carries the same police account, so they are not independent reporting.
   - The Herald page carries NSW Police photos of the seizure, but the photo file itself was not opened.
+  - 2HD spells the address 'Brook Parade' while the existing report and the police release use 'Brooks Parade'.
+  - 2HD does not name the police units that executed the warrants or give the time of the raids.
 ---
 
 Police were called to a home on Brooks Parade in Belmont, in Lake Macquarie,
 about 9am on Monday 9 November 2026 after reports that a hydroponic grow house
 had been found. [@1,3] Officers from the Lake Macquarie Proactive Crime Team and
 the Lake Macquarie Criminal Investigation Unit executed search warrants at that
-home and two neighbouring properties. [@1,3]
+home and two neighbouring properties. [@1,3,5]
 
 Police seized 521 mature cannabis plants that had been grown hydroponically.
-[@1,3,4] Police put the plants' estimated potential street value at $1,042,000. [@1,3,4]
-Officers also seized cultivation equipment and lighting systems. [@1,3]
+[@1,3,4,5] Police put the plants' estimated potential street value at $1,042,000. [@1,3,4,5]
+Officers also seized cultivation equipment and lighting systems. [@1,3,5]
 
 No occupants were found at the homes and police said inquiries were continuing
-to identify those involved. [@1,3] The local outlet newy.com.au reported the same
+to identify those involved. [@1,3,5] The local outlet newy.com.au reported the same
 521 plants, the three Belmont properties, the $1,042,000 estimate and the
 absence of occupants. [@2]
