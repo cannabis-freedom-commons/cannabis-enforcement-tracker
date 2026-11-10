@@ -86,6 +86,10 @@ sources:
     publisher: Kosmo Online
     date: 2026-11-10
     language: ms
+  - title: Singaporean nabbed at Ipoh airport with ganja buds worth $473,000
+    url: https://www.straitstimes.com/asia/se-asia/singaporean-nabbed-at-ipoh-airport-with-ganja-buds-worth-473000
+    publisher: The Straits Times
+    date: 2026-11-10
 open_questions:
   - The Star gives the value as about RM1.5 million and the New Straits Times as RM1.52 million; the figures use the NST amount.
   - The Star says the man stayed at a hotel in Kajang, while the NST says he collected the drugs there from a supplier; both agree the drugs were picked up in Kajang.
@@ -106,6 +110,8 @@ open_questions:
   - Kosmo gives the offer as S$4,000, equal to RM12,686.68, while the report's text uses about RM12,690 from another account.
   - Kosmo describes the material as dried leaves suspected to be cannabis flower; no laboratory confirmation was reported.
   - Kosmo reports custody and the seven-day remand only; no charge, plea or court outcome beyond that was published.
+  - The Straits Times headline converts the value to S$473,000 from about RM1.5 million; the report uses the New Straits Times figure of RM1.52 million.
+  - The page describes the material as dried marijuana flowers; no laboratory confirmation was reported.
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/11/10/singaporean-lured-by-rm12685-job-offer-arrested-remanded-seven-days-over-rm15m-cannabis-haul-at-ipoh-airport/242670
@@ -117,13 +123,18 @@ media:
     media_url: https://www.kosmo.com.my/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-11.59.50-AM-1.jpeg
     publisher: Kosmo Online
     caption: 'Perak police chief Mohd. Alwi Zainal Abidin (third from left) shows the cannabis flowers seized after a Singaporean man was detained at Sultan Azlan Shah Airport in Ipoh on Sunday 8 November 2026, at a press conference in Ipoh. Photo: Kosmo Online'
+  - kind: photo
+    url: https://www.straitstimes.com/asia/se-asia/singaporean-nabbed-at-ipoh-airport-with-ganja-buds-worth-473000
+    media_url: https://cassette.sphdigital.com.sg/image/straitstimes/48b984b402a43bf27080584c916abfd45987e708471d8916c478f0264d9ea3be
+    publisher: The Straits Times
+    caption: 'The 36 plastic packages of cannabis seized from the Singaporean man''s check-in baggage at Sultan Azlan Shah Airport in Ipoh. Photo: The Star/Asia News Network'
 ---
 
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
-Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3] Auxiliary police at the
+Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10] Auxiliary police at the
 check-in counter searched his baggage and found 36 plastic packages holding
-19,040g of dried marijuana flowers. [@1,3,6,8,9] Police valued the cannabis at about
-RM1.5 million. [@1,3] The New Straits Times put the weight at 19.04kg and the
+19,040g of dried marijuana flowers. [@1,3,6,8,9,10] Police valued the cannabis at about
+RM1.5 million. [@1,3,10] The New Straits Times put the weight at 19.04kg and the
 value at RM1.52 million, an amount police said was enough to supply 47,900 drug
 users. [@2]
 
@@ -137,9 +148,9 @@ found no drugs in his system. [@2,9]
 
 Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
-Singapore, to traffic drugs abroad. [@2,3,5] The man was remanded for seven days
+Singapore, to traffic drugs abroad. [@2,3,5,10] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9]
+a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10]
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
