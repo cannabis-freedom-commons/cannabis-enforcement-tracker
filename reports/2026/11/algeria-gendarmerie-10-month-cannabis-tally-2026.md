@@ -109,6 +109,11 @@ sources:
     publisher: vietnam.vn / VietnamPlus (TTXVN)
     date: 2026-11-09
     language: vi
+  - title: L'Algérie a démantelé 186 réseaux de trafic de drogue et arrêté plus de 25 000 personnes.
+    url: https://www.vietnam.vn/fr/algeria-triet-pha-186-duong-day-ma-tuy-bat-giu-hon-25-000-nguoi
+    publisher: vietnam.vn (VietnamPlus)
+    date: 2026-11-09
+    language: fr
 open_questions:
   - The 11-tonne kif figure is given as approximate (قرابة 11 طنا); the 27,270 kg cannabis total is the sum of that rounded figure and 16,270 kg of cannabis herb.
   - No date is given for any individual seizure; 7 November 2026 is the publication and announcement date and is used as the incident date for this 10-month tally.
@@ -151,6 +156,9 @@ open_questions:
   - It gives no date for the announcement beyond its own 9 November 2026 publication date; 7 November 2026 remains the announcement date in the existing report.
   - The page's photo strip and story images are unrelated stock thumbnails (weather and other news), not pictures of this seizure, so no media entry is added.
   - Cocaine, pregabalin and ecstasy quantities are not cannabis and are excluded from tracker figures.
+  - The French page gives no separate date for the Gendarmerie announcement beyond its 9 November 2026 publication date; 7 November 2026 remains the announcement date used as the incident date.
+  - The page's listed images are unrelated Vietnam news thumbnails (heritage, television, fireworks, Hue, weather, flight attendant), not pictures of this tally, so no media entry is listed.
+  - This translation spells the commander as Ali Sidane and describes the announcement only as a conference in Algiers, while the existing report names Maj. Gen. Ali Seydan at the national forum at the National Army Club in Beni Messous; the venue wording does not change the event.
 ---
 
 National Gendarmerie commander Maj. Gen. Ali Seydan said in Algiers that drugs
@@ -160,11 +168,11 @@ Seydan spoke alongside Justice Minister Lotfi Boujemaa at the opening of a
 national forum on the dimensions of drug use under traffic law 26-09, held at
 the National Army Club in Beni Messous. [@1,3,5] Gendarmerie units arrested 25,218
 people in the same effort, with 5,264 placed in detention, and dismantled 186
-networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11,12,13,14]
+networks specialising in drug trafficking. [@1,2,3,4,5,7,8,10,11,12,13,14,15]
 
 During the first 10 months of 2026 the units seized about 11 tonnes of processed
-kif. [@1,2,3,4,5,7,9,10,12,14] In the same period they seized 16,270 kilograms of cannabis herb and
-4,162 cannabis shrubs. [@1,2,3,4,5,7,9,10,12,14] The same haul included 837 kilograms of cocaine,
+kif. [@1,2,3,4,5,7,9,10,12,14,15] In the same period they seized 16,270 kilograms of cannabis herb and
+4,162 cannabis shrubs. [@1,2,3,4,5,7,9,10,12,14,15] The same haul included 837 kilograms of cocaine,
 more than 13.6 million pregabalin tablets, 59,937 ecstasy tablets and 1,021,879
 other psychotropic tablets, which are not counted as cannabis. [@1,7]
 
@@ -175,6 +183,6 @@ influence caused 161 fatal and 144 injury accidents. [@1,3,5]
 
 Seydan said the figures cover the Gendarmerie's own operations and do not include the results of other security services. [@6]
 
-At Oran, officers found two organised international criminal networks, seized 96 kg of cocaine and arrested 12 people. [@7,8,14] At Algiers, an operation against a cross-border network arrested 33 people and seized more than 1 million psychotropic tablets, 30 kg of cocaine and 176 kg of cannabis resin. [@7,9,14] At Constantine, customs working with the army found nearly 200 kg of drugs and stimulants hidden in a garage. [@7,8,10,13] General Ali Sidane warned that trafficking networks are using digital technology and encrypted messaging apps to widen their operations and hide their routes. [@7,10]
+At Oran, officers found two organised international criminal networks, seized 96 kg of cocaine and arrested 12 people. [@7,8,14] At Algiers, an operation against a cross-border network arrested 33 people and seized more than 1 million psychotropic tablets, 30 kg of cocaine and 176 kg of cannabis resin. [@7,9,14,15] At Constantine, customs working with the army found nearly 200 kg of drugs and stimulants hidden in a garage. [@7,8,10,13] General Ali Sidane warned that trafficking networks are using digital technology and encrypted messaging apps to widen their operations and hide their routes. [@7,10]
 
 The Vietnamese news agency's Algiers correspondent reported that 5,264 of those arrested had been placed in pre-trial detention. [@8,11,13] In the south, traffickers hide cocaine inside the parts of refrigerated trucks and deliver it to northern provinces, and some networks use modified vehicles to conceal drugs and move them between several locations. [@8]
