@@ -181,6 +181,10 @@ sources:
     url: https://www.thehawk.in/news/india/war-on-drugs-agencies-widen-offensive-use-technology-to-wipe-out-cannabis-opium-cultivation
     publisher: The Hawk
     date: 2026-11-09
+  - title: NCB deploys satellite mapping to target hidden cannabis farms, destroys 458 acres in Arunachal
+    url: https://www.sentinelassam.com/more-news/national-news/ncb-deploys-satellite-mapping-to-target-hidden-cannabis-farms-destroys-458-acres-in-arunachal
+    publisher: The Sentinel
+    date: 2026-11-10
 media:
   - kind: photo
     url: https://www.arunachaltimes.in/article/illicit-cannabis-cultivation-destroyed
@@ -277,6 +281,8 @@ open_questions:
   - The page also says similar operations were carried out in Jharkhand, Uttarakhand, Jammu and Kashmir and Bihar, without naming places, figures or dates.
   - The page gives no arrest, charge or court outcome for the Kalaktang drive.
   - The page's single article image repeats the headline as its caption with no credit or identification of a specific field, so no media entry is added.
+  - The Sentinel page says the 458-acre action took place on 7 November, while the existing report dates the completed first phase to 26 October–3 November 2026, with the NCB announcement on 7 November; the difference in wording is unresolved.
+  - The Sentinel page attributes the 458 acres, the 1.37 lakh kg destroyed in October and the comparison with 2025 to unnamed officials and reproduces an IANS wire text, so it is not an independent observation of the fields.
 ---
 
 District police, the Narcotics Control Board, the Sashastra Seema Bal, the Central Reserve Police Force and the district administration destroyed illicit cannabis on at least 220 acres (about 89 hectares) in Kalaktang subdivision of West Kameng district. [@1,2,18,21,23] The two-day drive began on Monday 26 October 2026. [@1,2] Bomdila deputy superintendent of police Sashi Dore led it, under superintendent Dr D. W. Thongon and deputy commissioner Dr Dilip Kumar. [@1]
@@ -297,4 +303,6 @@ Aryan Age described the West Kameng drive as clearing eight times the area of ca
 
 The NCB said it had identified sites where cannabis and opium poppy are grown illegally across the state, for future joint drives. [@23]
 
-Following the go-ahead by the Union Home Ministry, the NCB began using satellite mapping to identify such fields as traffickers would attempt to hide these fields deep inside the mountains so that they could avoid tracking. [@34] An Intelligence Bureau official said the agencies had realised that recruiting new operatives is no big deal for the narcotic cartels, and that halting the supply chains, blocking routes and destroying drug fields goes a long way in battling the menace. [@34]
+Following the go-ahead by the Union Home Ministry, the NCB began using satellite mapping to identify such fields as traffickers would attempt to hide these fields deep inside the mountains so that they could avoid tracking. [@34,35] An Intelligence Bureau official said the agencies had realised that recruiting new operatives is no big deal for the narcotic cartels, and that halting the supply chains, blocking routes and destroying drug fields goes a long way in battling the menace. [@34]
+
+The NCB, the Sashastra Seema Bal (SSB) and Arunachal Pradesh Police wiped out 458 acres of illicit cannabis cultivation on 7 November 2026. [@35]
