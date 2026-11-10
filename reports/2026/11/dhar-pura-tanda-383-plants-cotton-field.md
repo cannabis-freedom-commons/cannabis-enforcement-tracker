@@ -73,18 +73,23 @@ sources:
     url: https://www.rediff.com/news/report/police-seize-rs-119-crore-cannabis-in-mp-two-arrested/20261110.htm
     publisher: Rediff
     date: 2026-11-10
+  - title: विदिशा-धार में 1.19 करोड़ का 467 किलो गांजा जब्त, दो गिरफ्तार
+    url: https://www.tarunmitra.in/state/madhya-pradesh/467-kg-ganja-worth-rs-119-crore-seized-in-vidisha-dhar/article-171442
+    publisher: Tarun Mitra
+    date: 2026-11-10
+    language: hi
 ---
 
 Tanda police in Dhar district, Madhya Pradesh, searched a cotton field at Pura
-village and found 383 green ganja plants growing illegally. [@1,2,3] Police formally
+village and found 383 green ganja plants growing illegally. [@1,2,3,4] Police formally
 seized all the plants. [@1,3] The seized plants weighed 363.188 kg and were put at
-an estimated market value of about 67 lakh 13 thousand rupees. [@1] Police
+an estimated market value of about 67 lakh 13 thousand rupees. [@1,4] Police
 arrested one suspect and registered a case under the NDPS Act, India's narcotics
-law. [@1]
+law. [@1,4]
 
 The raid was part of Operation Prahar, a district campaign against illegal drug
 cultivation and trade run on the direction of Superintendent of Police Sachin
-Sharma. [@1] Tanda police received a tip from an informer that ganja was being
+Sharma. [@1,4] Tanda police received a tip from an informer that ganja was being
 grown in a cotton field at Pura, and searched the field on that basis. [@1]
 
 Tanda station in-charge inspector Baldev Singh Mujalda said on Tuesday that
@@ -92,4 +97,4 @@ Mulam Singh Davar, 26, of Jogiya village, had been arrested. [@1] A case was
 registered against him under section 8/20 of the NDPS Act and taken up for
 investigation. [@1] Police said they were questioning the accused about the
 purpose of the cultivation, where the seeds came from, the supply of the drug
-and other people involved in the trade. [@1,3]
+and other people involved in the trade. [@1,3,4]

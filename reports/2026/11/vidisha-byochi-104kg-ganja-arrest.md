@@ -69,6 +69,11 @@ sources:
     url: https://www.rediff.com/news/report/police-seize-rs-119-crore-cannabis-in-mp-two-arrested/20261110.htm
     publisher: Rediff
     date: 2026-11-10
+  - title: विदिशा-धार में 1.19 करोड़ का 467 किलो गांजा जब्त, दो गिरफ्तार
+    url: https://www.tarunmitra.in/state/madhya-pradesh/467-kg-ganja-worth-rs-119-crore-seized-in-vidisha-dhar/article-171442
+    publisher: Tarun Mitra
+    date: 2026-11-10
+    language: hi
 open_questions:
   - The reports give no separate date for the raid; 9 November 2026 is inferred from a Bhaskar account of a joint police raid in the same village late on Monday night, the day before publication.
   - Patrika says Karariya Chauraha police station carried out the search, while a Bhaskar account of a raid in the same village that night says three police stations acted jointly.
@@ -78,18 +83,18 @@ open_questions:
 
 Karariya Chauraha police station officers searched a house in Byochi village in
 Vidisha district, Madhya Pradesh, and recovered 104.14 kg of ganja from a shed
-built in front of the house. [@1,3,4] Police acted on a tip-off that a man in the
+built in front of the house. [@1,3,4,5] Police acted on a tip-off that a man in the
 village was storing and selling ganja from the shed. [@1,3] Officers cordoned off
 the spot, searched it and weighed the haul at 104.14 kg before seizing it. [@1]
 
 Police arrested a 26-year-old villager on the spot in connection with the haul.
 [@1,3] Police estimated the market value of the ganja at about 5.2 million rupees.
-[@1,3,4] A case was registered against him under sections 8 and 20 of the NDPS Act,
+[@1,3,4,5] A case was registered against him under sections 8 and 20 of the NDPS Act,
 India's Narcotic Drugs and Psychotropic Substances Act, and investigation began.
 [@2,3]
 
 The operation was part of Operation Clean Sweep against drug trafficking,
-ordered by Superintendent of Police Rohit Kashwani. [@2] Police are
+ordered by Superintendent of Police Rohit Kashwani. [@2,5] Police are
 investigating where the ganja came from, who it was meant for and whether the
 arrested man acted alone or for a wider network. [@1] The reports say further
 arrests are possible as the supply source, buyers and others connected to the
