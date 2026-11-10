@@ -57,14 +57,16 @@ sources:
     date: 2026-11-10
     language: hi
 open_questions:
-  - The report gives the reward as 10,000 rupees for information leading to the arrest but does not say who announced it or whether it was paid.
-  - One account says police seized 1.4 kg from the arrested man in May 2026; the later accounts say officers seized 1.408 kg from two minor boys near the Masod Road highway bridge on 27 April 2026.
-  - The reports give no quantity seized when he was detained on Sunday.
-  - The report names no charges filed after the arrest and no case number for the May 2026 case.
-  - No court outcome, remand order or plea is reported; police said further legal action was ongoing.
-  - The reports give only the day of the week for the arrest, Sunday, and 8 November 2026 is the first publication date, used as the incident date.
-  - The report does not state how Garwa relates to Masod police station or to Multai tehsil, so the place is given at district precision.
-  - The accounts do not say whether the two minor boys were charged, placed before a juvenile board or released.
+    - The report gives the reward as 10,000 rupees for information leading to the arrest but does not say who announced it or whether it was paid.
+    - One account says police seized 1.4 kg from the arrested man in May 2026; the later accounts say officers seized 1.408 kg from two minor boys near the Masod Road highway bridge on 27 April 2026.
+    - The reports give no quantity seized when he was detained on Sunday.
+    - The report names no charges filed after the arrest and no case number for the May 2026 case.
+    - No court outcome, remand order or plea is reported; police said further legal action was ongoing.
+    - The reports give only the day of the week for the arrest, Sunday, and 8 November 2026 is the first publication date, used as the incident date.
+    - The report does not state how Garwa relates to Masod police station or to Multai tehsil, so the place is given at district precision.
+    - The accounts do not say whether the two minor boys were charged, placed before a juvenile board or released.
+    - Accounts differ on the arresting unit, naming Multai police station or Masod police, and do not explain which one stopped the accused at his home.
+    - The accounts give no separate date for the start of the case beyond 27 April and May 2026.
 ---
 
 Masod police arrested a man on Sunday who had been absconding in a ganja
@@ -80,7 +82,7 @@ operation and had been missing for six months before Sunday. [@2] The
 hideouts and gathering information from informers. [@2]
 
 Masod police were tipped that the man had come to Garwa for Diwali and arrested
-him there. [@2] Police said they were taking further legal action against him.
+him there. [@2,3] Police said they were taking further legal action against him.
 [@2]
 
-The two caught with the ganja were minor boys whom the accused used to sell it, police said. [@3] The seizure was made on 27 April 2026 near the Masod Road highway bridge, when the boys were caught with 1.408 kg of ganja on an unnumbered motorcycle. [@4] Station house officer Vikas Patel said the police station registered the case under the NDPS Act and the relevant sections of the BNS after the boys named the accused. [@4] After the arrest the accused was produced before a court. [@3]
+The two caught with the ganja were minor boys whom the accused used to sell it, police said. [@3] The seizure was made on 27 April 2026 near the Masod Road highway bridge, when the boys were caught with 1.408 kg of ganja on an unnumbered motorcycle. [@3,4] Police estimated the value of the 1.408 kg of ganja found on the boys at 15,000 rupees. [@3] Police said the accused told the boys to hand the ganja to someone in Multai and bring back the money, and seized the motorcycle used to carry it, which they valued at about 70,000 rupees. [@3] Station house officer Vikas Patel said the police station registered the case under the NDPS Act and the relevant sections of the BNS after the boys named the accused. [@3,4] After the arrest the accused was produced before a court. [@3]
