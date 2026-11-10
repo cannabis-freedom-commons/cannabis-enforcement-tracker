@@ -65,6 +65,10 @@ sources:
     publisher: MP Breaking News
     date: 2026-11-10
     language: hi
+  - title: 'Major Drug Bust In MP: Police Seize Cannabis Worth Over Rs 1 Crore'
+    url: https://www.rediff.com/news/report/police-seize-rs-119-crore-cannabis-in-mp-two-arrested/20261110.htm
+    publisher: Rediff
+    date: 2026-11-10
 open_questions:
   - The reports give no separate date for the raid; 9 November 2026 is inferred from a Bhaskar account of a joint police raid in the same village late on Monday night, the day before publication.
   - Patrika says Karariya Chauraha police station carried out the search, while a Bhaskar account of a raid in the same village that night says three police stations acted jointly.
@@ -74,13 +78,13 @@ open_questions:
 
 Karariya Chauraha police station officers searched a house in Byochi village in
 Vidisha district, Madhya Pradesh, and recovered 104.14 kg of ganja from a shed
-built in front of the house. [@1,3] Police acted on a tip-off that a man in the
+built in front of the house. [@1,3,4] Police acted on a tip-off that a man in the
 village was storing and selling ganja from the shed. [@1,3] Officers cordoned off
 the spot, searched it and weighed the haul at 104.14 kg before seizing it. [@1]
 
 Police arrested a 26-year-old villager on the spot in connection with the haul.
 [@1,3] Police estimated the market value of the ganja at about 5.2 million rupees.
-[@1,3] A case was registered against him under sections 8 and 20 of the NDPS Act,
+[@1,3,4] A case was registered against him under sections 8 and 20 of the NDPS Act,
 India's Narcotic Drugs and Psychotropic Substances Act, and investigation began.
 [@2,3]
 
