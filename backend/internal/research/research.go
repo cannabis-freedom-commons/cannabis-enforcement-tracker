@@ -130,6 +130,14 @@ type Result struct {
 	EventComparisons []EventComparison `json:"event_comparisons,omitempty"`
 }
 
+// note adds the service's own note to the open questions while the result stays within the bound.
+func note(questions []string, s string) []string {
+	if len(questions) >= MaxOpenQuestions {
+		return questions
+	}
+	return append(questions, s)
+}
+
 var slug = regexp.MustCompile(`^[a-z0-9]+(?:-[a-z0-9]+)*$`)
 var plain = regexp.MustCompile("[<>\\[\\]`*\\x00-\\x08]")
 var tag = regexp.MustCompile(`^[a-z0-9]+(?:-[a-z0-9]+)*$`)
@@ -458,7 +466,7 @@ func (r Result) Confirm(ctx context.Context, initial safeurl.Evidence, fetch fun
 					return r, nil, v, ctx.Err()
 				}
 				v.Sources[i].Error = err.Error()
-				r.Uncertainties = append(r.Uncertainties, fmt.Sprintf("%s (%s) could not be opened again to check its quotations (%s); what it says is as the AI read it.", s.Title, s.Publisher, strings.TrimSuffix(err.Error(), ".")))
+				r.Uncertainties = note(r.Uncertainties, fmt.Sprintf("%s (%s) could not be opened again to check its quotations (%s); what it says is as the AI read it.", s.Title, s.Publisher, strings.TrimSuffix(err.Error(), ".")))
 				continue
 			}
 		}
@@ -484,7 +492,7 @@ func (r Result) Confirm(ctx context.Context, initial safeurl.Evidence, fetch fun
 			continue
 		}
 		v.LeftOut = append(v.LeftOut, f.Text)
-		r.Uncertainties = append(r.Uncertainties, fmt.Sprintf("Left out, as its quotation was not found in %s: %s", r.Sources[f.Source-1].Publisher, f.Text))
+		r.Uncertainties = note(r.Uncertainties, fmt.Sprintf("Left out, as its quotation was not found in %s: %s", r.Sources[f.Source-1].Publisher, f.Text))
 	}
 	// the facts of updates to other reports: their quotations are checked the same way; an update
 	// that loses all its facts is dropped
@@ -495,7 +503,7 @@ func (r Result) Confirm(ctx context.Context, initial safeurl.Evidence, fetch fun
 			e := opened[f.Source-1]
 			if e != nil && !e.Supports(f.Quote) {
 				v.LeftOut = append(v.LeftOut, f.Text)
-				r.Uncertainties = append(r.Uncertainties, fmt.Sprintf("Not added to %s, as its quotation was not found in %s: %s", u.Report, r.Sources[f.Source-1].Publisher, f.Text))
+				r.Uncertainties = note(r.Uncertainties, fmt.Sprintf("Not added to %s, as its quotation was not found in %s: %s", u.Report, r.Sources[f.Source-1].Publisher, f.Text))
 				continue
 			}
 			f.confirmed = e != nil
