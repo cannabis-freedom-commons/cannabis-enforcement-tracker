@@ -71,25 +71,31 @@ sources:
     publisher: El Tiempo
     date: 2026-11-10
     language: es
+  - title: Incautan 2,7 toneladas de marihuana en el departamento colombiano de Putumayo
+    url: https://www.infobae.com/america/agencias/2026/11/10/incautan-27-toneladas-de-marihuana-en-el-departamento-colombiano-de-putumayo/
+    publisher: Infobae
+    date: 2026-11-10
+    language: es
 open_questions:
-  - No arrests, detentions, suspects or court outcomes were reported for this seizure.
-  - No commercial value or intended destination for this specific shipment was reported.
-  - The weight was reported as approximately 2,700 kilograms, not an exact measured figure.
-  - The sources give no separate date for the interception; 10 November 2026, the Army announcement and publication date, is used as the incident date.
-  - The substance was described only by its physical characteristics as resembling marijuana, with no laboratory confirmation reported.
-  - The Minuto30 article also recalls a July seizure of more than 12.5 tonnes at La Esmeralda wharf and a May seizure of more than 10 tonnes in rural houses in Puerto Asís; those are different events left out here.
+    - No arrests, detentions, suspects or court outcomes were reported for this seizure.
+    - No commercial value or intended destination for this specific shipment was reported.
+    - The weight was reported as approximately 2,700 kilograms, not an exact measured figure.
+    - The substance was described only by its physical characteristics as resembling marijuana, with no laboratory confirmation reported.
+    - EFE identifies the Comandos de la Frontera as part of the Coordinadora Nacional Ejército Bolivariano dissidence, while other reports refer to Segunda Marquetalia.
+    - The Minuto30 article also recalls a July seizure of more than 12.5 tonnes at La Esmeralda wharf and a May seizure of more than 10 tonnes in rural houses in Puerto Asís; those are different events left out here.
+    - The EFE dispatch also notes a separate 3,997-kilogram marijuana seizure in Cauca from the previous Saturday, which is recorded in another report.
 ---
 
 Colombia's National Army reported on 10 November 2026 that 2.7 tonnes of
 marijuana had been seized from a bongo remolcador, a river tugboat, during a
 military operation in Puerto Asís, Putumayo. [@1] The interinstitutional
 operation took place at the Hong Kong wharf in Puerto Asís, where authorities
-located the vessel. [@2] During the procedure, officers seized the boat and
+located the vessel. [@2,4] During the procedure, officers seized the boat and
 found about 2,700 kilograms of a substance that by its physical characteristics
 resembles marijuana. [@2]
 
 The seizure came from a joint operation by the Army, the Navy and the National
-Police. [@3] Units taking part under the Ayacucho Plus campaign plan included
+Police. [@3,4] Units taking part under the Ayacucho Plus campaign plan included
 the 27th Combat Engineer Battalion of the 27th Brigade, Marine Infantry River
 Battalion No. 30, the Anti-Narcotics Directorate, intelligence unit Sipol and
 criminal investigation unit Sijín. [@2] The Army announced the operation in its
@@ -107,4 +113,3 @@ and other international destinations, so military and police units maintain
 permanent controls in the area. [@1] The 27th Brigade, part of the Army's Sixth
 Division, said joint operations would continue against illegal economies in
 Putumayo. [@2]
-
