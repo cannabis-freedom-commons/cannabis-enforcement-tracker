@@ -86,6 +86,10 @@ sources:
     url: https://www.wansom.ai/briefly/news/ndlea-edo-drug-arrests-october-2026-75-held-16-tonnes_985f61b5-4f9f-4519-8130-ed3e5ab4e511
     publisher: Briefly by Wansom
     date: 2026-11-09
+  - title: NDLEA ‌‍‌‍⁠⁠‍‍‌⁠⁠‌‌arrests 75 suspects, uncovers 16.8 tonnes of illicit drugs in Edo
+    url: https://blueprint.ng/ndlea-%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0arrests-75-suspects-uncovers-16-8-tonnes-of-illicit-drugs-in-edo/
+    publisher: Blueprint Newspapers Limited
+    date: 2026-11-10
 open_questions:
   - The bulletin does not give a single raid date; 9 November 2026 is the publication date, when the commander presented the October results, and stands in for the incident date.
   - The article gives no count of plants destroyed; 14,322.0475 kg is the command's estimated yield of the destroyed farms, not a weighed cannabis seizure, and is not recorded as a figure.
@@ -113,6 +117,10 @@ open_questions:
   - The Punch photographs carry only the bare caption 'Some recovered exhibits' with no credit, so they are not confirmed to show a specific seizure or farm.
   - The report already cites a photograph of a confiscated car from P.M. News; whether the lead Punch image is the same NDLEA handout could not be established.
   - Punch does not say which six cases produced the convictions or what sentences were given.
+  - Blueprint reproduces the same NAN copy of the Edo command's statement as the outlets already cited, so it is not independent reporting on the October figures.
+  - Blueprint gives no separate date for the October operations; 10 November 2026 is its publication date, and the commander presented the monthly statistics in Benin on the preceding Monday.
+  - Blueprint does not state whether the 14 people charged are among the 75 arrested during October, or what happened to the three suspects detained with the Otuo load.
+  - The page's single image is captioned only 'Edo-State-map-1280x720', a map of Edo State, so it is not confirmed to show any of these raids or seizures and no media entry is added.
 media:
   - kind: photo
     url: https://pmnewsnigeria.com/2026/11/09/ndlea-arrests-75-suspects-seizes-16-8-tonnes-of-drugs-in-edo/
@@ -123,29 +131,29 @@ media:
 
 Nigeria's National Drug Law Enforcement Agency (NDLEA) in Edo State said its
 October 2026 operations arrested 75 suspected drug traffickers, 54 men and 21
-women. [@1,2,3,4,5,6,9,10] State commander Mitchell Ofoyeju said the command seized 2,496.11791
+women. [@1,2,3,4,5,6,9,10,12] State commander Mitchell Ofoyeju said the command seized 2,496.11791
 kg of illicit substances during the month, including 2,492.6973 kg of cannabis.
-[@1,3,4,5,6,7,10]
+[@1,3,4,5,6,7,10,12]
 
 He said eight cannabis farms covering 5.728819 hectares, with an estimated yield
-of 14,322.0475 kg, were identified and destroyed across the state. [@1,2,3,4,5,6,7,9,10] The
+of 14,322.0475 kg, were identified and destroyed across the state. [@1,2,3,4,5,6,7,9,10,12] The
 destroyed farms were in Uzebba Forest, Ukhuise-Osi Community and Ugbada Forest
 in Owan West, Ugboshi Ele Forest in Akoko Edo, and Eco Camp, Illushi, in Esan
-South-East. [@1,2,3,5,6]
+South-East. [@1,2,3,5,6,12]
 
 Among the seizures was a black Toyota Camry stopped at Otuo, Owan East, carrying
-1,049 compressed blocks of cannabis weighing 702.83 kg. [@1,2,3,4,5,10] Three people were
+1,049 compressed blocks of cannabis weighing 702.83 kg. [@1,2,3,4,5,10,12] Three people were
 arrested with that load: Monday Orji, 52, Monday Lawal, 40, and Precious
 Uduegele, 20, two men and a woman. [@1]
 
 Ofoyeju said the command won six convictions and filed 14 cases in court, with
-103 cases still pending. [@1,2,3,4,5,6] The figures were presented when NDLEA chairman
+103 cases still pending. [@1,2,3,4,5,6,12] The figures were presented when NDLEA chairman
 Mohamed Buba Marwa visited the command and told officers to intensify
 intelligence-led operations against drug cartels in the state. [@1]
 
 The command's Counselling, Treatment and Rehabilitation Unit counselled 47 clients, 33 men and 14 women, and returned them to their families, while 12 others were undergoing rehabilitation and vocational training. [@3,6,8]
 
-Six cups of cannabis brownies were among the other substances recovered in the October operations. [@5] The figures were released after NDLEA chairman Mohamed Buba Marwa charged the command during his official visit to intensify intelligence-led operations in the state. [@5]
+Six cups of cannabis brownies were among the other substances recovered in the October operations. [@5,12] The figures were released after NDLEA chairman Mohamed Buba Marwa charged the command during his official visit to intensify intelligence-led operations in the state. [@5]
 
 Six cups of cannabis brownies were among the other substances the Edo command recovered during the October operations. [@7,9] The command also ran 10 sensitisation programmes in schools, worship centres, markets and public places in Benin City that reached 5,293 people, 2,324 men and 2,969 women. [@7,8]
 
@@ -154,3 +162,5 @@ The statistics were released in a statement on Monday by the Commander of Narcot
 The figures were given in a statement in Benin on the Monday by the command's State Commander, Dr Mitchell Ofoyeju. [@9]
 
 The command reported six convictions in October 2026 and said 103 cases were still pending in court. [@11]
+
+Three suspects were arrested with the Otuo load of 702.83 kg of cannabis. [@12]
