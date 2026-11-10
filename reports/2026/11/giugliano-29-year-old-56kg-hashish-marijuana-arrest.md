@@ -146,6 +146,11 @@ sources:
     publisher: TorreSette
     date: 2026-11-09
     language: it
+  - title: 'Giugliano, in casa droga, svapo con la marijuana e un’auto clonata da 150mila euro: arrestato un 29enne'
+    url: https://www.ilcrivello.it/giugliano-in-casa-droga-svapo-dalla-california-e-unauto-clonata-da-150mila-euro-arrestato-un-29enne/
+    publisher: Il Crivello
+    date: 2026-11-09
+    language: it
 open_questions:
   - Only one source for the event could be opened; the submitted page is an automatically translated English version of an Il Mattino article.
   - The article gives no date or time for the search; 9 November 2026 is its publication date and is used as the incident date.
@@ -207,11 +212,14 @@ open_questions:
   - TorreSette names the suspect in full; the report records only his age.
   - The page gives no separate weight for the cannabis vapes, so only the 1.639 kg of hashish and 3.9 kg of marijuana are counted.
   - The page's single photo is captioned only with the story headline and carries no credit or confirmation of which seized items it shows, so no media entry is added.
+  - Il Crivello repeats the Carabinieri account, so it corroborates the existing report rather than providing independent reporting of the raid.
+  - The page's two images are the article header and a generic drug-giugliano picture with empty alt text, no caption and no credit, so they are not confirmed to show this seizure and no media entry is added.
+  - The page names the suspect by initials; the report records only his age.
 ---
 
 Officers of the operational unit of the Carabinieri company in Giugliano in
 Campania raided the home of a 29-year-old man, already known to law enforcement.
-[@1,3,4,6,8,9,10,11,12,13,14,15,17] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
+[@1,3,4,6,8,9,10,11,12,13,14,15,17,18] In the kitchen freezer they found 1 kilo and 639 grams of hashish, made up
 of 21 square blocks, 4 rectangular blocks and 23 doses in small bags. [@1,2,3,4,5,6,7,9,10,11,12,13,14,15,16,17] In
 the bedroom they found another 3 kilos and 900 grams of marijuana. [@1,2,4,5,6,8,9,10,11,12,13,14,15,16,17]
 
@@ -237,3 +245,5 @@ The Carabinieri said the car's control units were being changed and its alarms r
 The hashish, described as the "frozen" type, was hidden in the kitchen freezer, and the vapes seized were in colourful packaging showing characters from Dragon Ball and exotic fruit. [@11,15]
 
 TorreSette reports that the car was seized so that investigators could establish where it came from. [@17]
+
+The Italian charge is worded as possession of narcotics for the purpose of dealing (detenzione di sostanze stupefacenti ai fini di spaccio), unlawful possession of weapons and receiving stolen goods. [@18]
