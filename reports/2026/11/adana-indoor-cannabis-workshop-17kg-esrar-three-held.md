@@ -263,115 +263,44 @@ sources:
     date: 2026-11-09
     language: tr
 open_questions:
-  - The accounts give no separate date or time for the raid; 9 November 2026, the date of the ministry statement and of publication, stands in for the incident date.
-  - No figure for the number of cannabis plants in the workshop, the area used or an estimated value of the esrar was published.
-  - The reports say only that 17 kilograms of esrar was seized, without distinguishing dried flower from resin-type product.
-  - The suspects were not named and their ages, charges under specific articles and any court step were not reported; they were in gözaltı custody.
-  - Cumhuriyet credits the story to ANKA and the other outlets reproduce the same Interior Ministry statement, so they corroborate the ministry's account rather than providing independent reporting.
-  - A DHA copy of the statement on Avrupa Gazete also lists heat and light systems among the seized equipment; no count was given for them.
-  - The three photos linked here carry no separate photographer or agency credit, and their captions do not say whether they show the workshop, the seized esrar or the operation generally.
-  - The ministry statement did not say how many addresses were searched beyond the one workshop.
-  - Son Dakika credits the text to ANKA and reproduces the same Interior Ministry statement as the outlets already cited in this report, so it is not independent reporting of the raid.
-  - The Son Dakika photo is captioned only with the story headline and carries no credit; it is not confirmed to show the workshop, the seized esrar or the operation itself.
-  - The Son Dakika video page was not opened separately; only the page's embedded video file address and headline were read.
-  - Gazete Rize credits the text to the İHA news agency and reproduces the same gendarmerie account as the outlets already cited, so it corroborates rather than independently reporting the raid.
-  - Son Dakika credits this text to İHA and reproduces the same account as the ministry statement and the outlets already cited, so it corroborates rather than independently reports the raid.
-  - The picture is captioned only with the story headline and carries no separate photographer or agency credit; whether it shows the workshop, the seized esrar or the operation generally is not established.
-  - No plant count, area, value or court step is reported for the three suspects, who were in gözaltı custody.
-  - The Cumhuriyet page credits the text to DHA and reproduces the same Interior Ministry statement as the outlets already cited, so it is not independent reporting.
-  - The page's lead photo is captioned only with the headline and carries no photographer or agency credit; whether it shows the workshop, the seized esrar or the operation generally is not established.
-  - The account gives no separate date for the raid; 9 November 2026 is the date of the ministry statement and of publication.
-  - No plant count, planted area or estimated value of the esrar was published.
-  - Son TV reproduces the Interior Ministry statement, so it corroborates rather than independently reports the raid.
-  - The page's header picture is an unbylined .png with no credit or caption tying it to the workshop, the esrar or the operation, so it is not listed as media.
-  - Haber Kenti credits the story to 'Ajanslar' (news agencies) and reproduces the same account as the ministry statement already cited, so it corroborates rather than independently reports the raid.
-  - The page gives no separate date for the raid; 9 November 2026 is its publication date and stands in for the incident date.
-  - The page's picture is captioned only with the story headline and carries no photographer or agency credit; whether it shows the workshop, the seized esrar or the operation generally is not established.
-  - Saray Medya credits the text to İHA and reproduces the same gendarmerie account as the outlets already cited, so it corroborates rather than independently reports the raid.
-  - Kayseri Haber credits the text to İHA and reproduces the same news-agency account as the outlets already cited in this report, so it corroborates rather than independently reports the raid.
-  - The page's two in-story photos have no caption or credit tying them to the workshop, the seized esrar or the operation specifically.
-  - Akdeniz Gerçek credits the text to the İHA news agency and reproduces the same account as the ministry statement and outlets already cited, so it corroborates rather than independently reports the raid.
-  - The page gives no separate date for the raid; 9 November 2026 is its publication date and the date of the ministry statement.
-  - The phrase 'adli işlem' (judicial proceedings) does not state whether the three suspects were charged, released or merely referred to prosecutors, so the court stage remains unknown.
-  - Küçük Saat gives no date or time for the raid itself; 9 November 2026 is its publication date and the date of the ministry statement.
-  - Küçük Saat credits no agency and reproduces the same Interior Ministry statement as the outlets already cited, so it is not independent reporting.
-  - The article names no district or neighbourhood for the workshop, so the place stays at province level.
-  - The phrase 'adli işlem başlatıldığı' in Küçük Saat says judicial proceedings were started against the three suspects but not whether they were charged, so the court stage remains unknown.
-  - The submitted AMP page carries the same ANKA-credited text and photo as Son Dakika's standard page already cited in the report, so it adds no independent reporting of the raid.
-  - The AMP page gives no separate date or time for the raid; 9 November 2026 is its publication date and the date of the ministry statement.
-  - The İHA text reproduced here adds no district, plant count, area or value, and does not state whether the three suspects were charged, released or only referred to prosecutors.
-  - Haberler.com reproduces the same İHA account as the outlets already cited in the report, so it corroborates rather than independently reports the raid.
-  - The page gives no separate date or time for the raid; 9 November 2026 is its publication date and the date of the ministry statement.
-  - The page's picture is captioned and attributed only with the story headline and carries no separate photographer or agency credit, so whether it shows the workshop, the seized esrar or the operation generally is not established.
-  - A separate December 2025 Adana operation in Pozantı district, where police found 40 Indian hemp plants and 2 kilograms 774 grams of dried esrar in a villa with a similar air-conditioning system and jailed two suspects, is a different investigation and is not recorded in the tracker.
-  - Yeni Alanya credits the text to a newsroom ('Haber Merkezi') without naming an agency and reproduces the same Interior Ministry statement as the outlets already cited, so it corroborates rather than independently reports the raid.
-  - Halk54 reproduces the Interior Ministry's social media statement, so it corroborates rather than independently reports the raid.
-  - The page gives no separate date or time for the raid; 9 November 2026 is its publication date.
-  - The page says Karaca commanded the Adana provincial gendarmerie at the time of the operation but does not say he personally directed the raid.
-  - Hey Haber credits the text to its own newsroom ('Haber Merkezi') and reproduces the same Interior Ministry statement as the outlets already cited, so it corroborates rather than independently reports the raid.
-  - The page names no district or neighbourhood for the workshop and no plant count, area or value.
-  - The page gives no separate date or time for the raid; its publication date is 10 November 2026, one day after the Interior Ministry statement it reproduces.
-  - The page names no district or neighbourhood for the workshop and gives no plant count, area or estimated value.
-  - The page reproduces the same Interior Ministry statement as the outlets already cited in the report, so it corroborates rather than independently reports the raid.
-  - The page adds 'çeşitli malzemeler' (various materials) without listing them.
-  - The page gives no charge, court step or outcome for the three suspects.
-  - The page credits DHA and reproduces the same Interior Ministry statement as the sources already cited, so it corroborates rather than independently reports the raid.
-  - The page gives no charge, custody ruling or court step for the three suspects.
-  - The Yorumla page gives no date or time for the raid itself; 10 November 2026 is its publication date, one day after the Interior Ministry statement it reproduces.
-  - Yorumla is credited to its own writer, Emrah Aladağ, and reproduces the same Interior Ministry text as the outlets already cited, so it corroborates rather than independently reports the raid.
-  - 16 Haber credits no news agency and reproduces the same Interior Ministry statement as the outlets already cited in this report, so it corroborates rather than independently reports the raid.
-  - The page does not say whether the three suspects were charged, released or only referred to prosecutors.
-  - Kelkit Gazetesi credits the text to the DHA news agency and reproduces the same Interior Ministry statement as the outlets already cited in the report, so it corroborates rather than independently reporting the raid.
-  - The page gives no district or neighbourhood for the workshop and no count for the pieces of growing equipment found at the address; 9 November 2026 is its publication date and the date of the ministry statement, not a separate raid date.
-  - The İlkhaber page gives no separate date or time for the raid; 9 November 2026 is its publication date and the date of the statement it reproduces.
-  - The İlkhaber copy credits İHA and reproduces the same Interior Ministry statement as the outlets already cited, so it corroborates rather than independently reports the raid.
-  - The page's phrase 'adli işlem başlatıldığı' says judicial proceedings were started against the three suspects but not whether they were charged, released or only referred to prosecutors.
-  - The page names no district or neighbourhood for the workshop and gives no plant count, area or estimated value, so the place stays at province level.
-  - The page gives no separate date or time for the raid; 9 November 2026 is its publication and update date and the date of the ministry statement.
-  - Dosya Haber credits no news agency and reproduces the same Interior Ministry statement as the outlets already cited in the report, so it corroborates rather than independently reports the raid.
+  - No separate date was given for the raid; 9 November 2026 is the date of the Interior Ministry statement.
+  - No plant count, planted area or estimated value of the esrar was published, and the heat and light equipment was not counted.
+  - The 17 kilograms of esrar are not described as dried flower or resin.
+  - The three suspects were not named, and it is not reported whether they were charged, remanded or released.
+  - Only one account places the workshop in Seyhan district; the others name no district.
+  - Nearly every account reproduces the same ministry statement, carried by the ANKA, DHA and İHA agencies; there is no independent reporting.
 ---
 
-Gendarmes detained three suspects in a raid on an indoor cannabis workshop in
-Adana, the Interior Ministry announced. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21,22,24,25,27,28,29,30,31,32] The workshop was found growing
-cannabis under a purpose-built air-conditioning system, and police said the
-three suspects were running a narcotics production and trading operation. [@2,4,7,10,28,30]
-The searches turned up 17 kilograms of esrar, a cannabis hashish product,
-together with the workshop itself, four standing air conditioners, the rest of
-the air-conditioning system and various materials. [@2,4,6,7,9,10,11,12,13,15,16,17,18,19,21,22,24,25,26,27,28,29,30,33]
+Gendarmes detained three suspects in a raid on an indoor cannabis workshop in Adana, the Interior
+Ministry announced on 9 November 2026. [@2,4,5,6,7,8,9,10,11,13,15,16,17,19,20,21,22,24,25,27,28,29,30,31,32]
+The Adana Provincial Gendarmerie Command found the address through intelligence work, which
+suggested that narcotics were being produced and traded there; the operation was coordinated by the
+Gendarmerie General Command's anti-narcotics department and the Adana chief public prosecutor's
+office. [@2,4,6,7,8,9,10,14,16,18,21,22,25,26,27,28,30,31,32] One account says officers used technical
+and physical surveillance before the raid. [@32] One places the address in Seyhan district [@9], and
+another says the workshop had been set up inside a manufacturing premises. [@23] The provincial
+gendarmerie was then commanded by Brigadier General Necdet Karaca, appointed by decree in the
+Official Gazette. [@20] The statement was carried by news agencies, among them ANKA. [@15]
 
-The three suspects were taken into custody, and the ministry named no further
-court step. [@2,9,10,12,14,26,30,33]
+## What was found
 
-The operation was run by the Adana Provincial Gendarmerie Command after
-intelligence work, coordinated by the Gendarmerie General Command's
-anti-narcotics department and the Adana chief public prosecutor's office. [@2,4,6,7,8,9,10,14,16,21,22,25,26,27,28,30,31,32]
-TRT Haber reported that the three suspects were held in gözaltı, the police
-custody in which a person is questioned while prosecutors decide on charges or
-release. [@3]
+The suspects grew cannabis indoors under a purpose-built air-conditioning system, and police said
+they were running a narcotics production and trading operation. [@2,4,7,10,14,28,30] The searches
+turned up 17 kilograms of esrar, a cannabis hashish product, together with the workshop, four
+standing air conditioners, the rest of the air-conditioning system and various materials.
+[@2,4,6,7,9,10,11,12,13,15,16,17,18,19,21,22,24,25,26,27,28,29,30,33] The ministry's own list gives
+one workshop, 17 kilograms of esrar, four standing air conditioners, air-conditioning equipment and
+assorted materials [@1]; some copies of the statement add heat and light systems. [@8,23,32]
 
-The ministry described the confiscated material as one workshop, 17 kilograms of
-esrar, four standing air conditioners, air-conditioning equipment and assorted
-materials. [@1] Hürriyet reported that the operation uncovered a workshop where
-cannabis was grown with an air-conditioning system. [@4]
+## The suspects
 
-Searches at the address found 17 kilograms of esrar together with four standing air conditioners and heat and light systems. [@8,23,32]
+The three were held in gözaltı, the police custody in which a person is questioned while prosecutors
+decide on charges or release, and the ministry named no further court step. [@2,3,9,10,12,14,26,30,33]
+They were referred for judicial proceedings [@13,27,31,33]; the ministry said a judicial
+investigation had been opened and the technical equipment confiscated. [@32] The first statement did
+not say whether they were remanded or placed under judicial supervision. [@18] The ministry said
+operations against drugs across the country were continuing. [@22]
 
-The address the gendarmes raided was in Seyhan district, Adana. [@9]
-
-The three detained suspects were said to have been referred for judicial proceedings. [@13,27,31,33]
-
-The searches found a workshop where the suspects grew cannabis indoors with a purpose-built air-conditioning system. [@14]
-
-The report is credited to the ANKA news agency. [@15]
-
-The address was identified through intelligence work by Adana Provincial Gendarmerie Command teams, which assessed that narcotics were being produced and traded there. [@18] The first statement did not say whether the three suspects were remanded in custody or placed under judicial supervision. [@18] In December 2025, police had found 40 Indian hemp plants and 2 kilograms 774 grams of dried esrar in a villa in Pozantı district of Adana where a similar system was installed, and two suspects were jailed in that investigation. [@18]
-
-At the time of the raid the Adana provincial gendarmerie command was led by Brigadier General Necdet Karaca, who had been appointed to the post by a decree published in the Official Gazette. [@20]
-
-The Interior Ministry said in its statement of 9 November 2026 that operations against drugs across the country were continuing without interruption, and thanked those involved in the Adana raid. [@22]
-
-The workshop where the cannabis was grown with an air-conditioning system was set up inside a manufacturing premises. [@23]
-
-The address was identified through intelligence work before the raid, and the gendarmerie said the three suspects grew cannabis there indoors with an air-conditioning system. [@30]
-
-The address was identified through technical and physical surveillance before officers raided the workshop. [@32] The ministry said a judicial investigation (adli tahkikat) had been opened against the three detained suspects and that the technical equipment used in drug production was confiscated. [@32]
+In December 2025 police had found 40 Indian hemp plants and 2.774 kilograms of dried esrar in a villa
+in Pozantı district of Adana, where a similar system was installed; two suspects were jailed in that
+investigation. [@18]

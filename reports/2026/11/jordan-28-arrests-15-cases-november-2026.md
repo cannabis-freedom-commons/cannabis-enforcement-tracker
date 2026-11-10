@@ -160,44 +160,12 @@ sources:
     date: 2026-11-08
     language: ar
 open_questions:
-  - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
-  - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
-  - A quantity of hashish in the second Amman case and hashish in the Central Badia vehicle case are reported without blocks or weight.
-  - No value estimate, names, charges or court outcome were published.
-  - The pills, crystal methamphetamine, cocaine and 18 litres of liquid amphetamine belong to other enforcement actions reported in the same roundup and are not counted as cannabis.
-  - The reported 28 arrests are not itemised case by case, and some listed cases do not state an arrest count explicitly, so the breakdown by case is incomplete.
-  - The reported hashish is counted only in bars, and the 4.6 kilograms covers marijuana alone; hashish weight, value, charges and any court outcome remain unpublished.
-  - The statement gives no exact date for the raids; 8 November 2026, the date of the Petra release and of publication, stands in for the incident date.
-  - Saraya reproduces the same Public Security Directorate statement as the outlets already cited, so it is not independent reporting of the raids.
-  - The Al Mamlaka page gives only its creation time of 8 November 2026 without a separate date for the raids, so 8 November stands in for the incident date.
-  - Al Mamlaka carries the same Public Security Directorate statement as the outlets already cited in the report, so it corroborates rather than independently reports the roundup.
-  - The page's lead photograph is captioned only as a gate belonging to the Public Security Directorate and does not show the raids or seizures, so it is not listed as media.
-  - Al Wakeel News carries the same Public Security Directorate statement as the outlets already cited in the report, so it corroborates the text and its figures but is not independent reporting of the raids.
-  - The English Petra release puts the further Amman hashish seizure at 25 slabs, while other accounts of the same roundup give no slab count or weight for that seizure.
-  - The English release gives no separate date for the raids, stating only that they ran over the preceding days; 8 November 2026 is its publication date and stands in for the incident date.
-  - The English Petra text carries the same Public Security Directorate statement as the report's Arabic sources, so it corroborates rather than independently reports the roundup.
-  - Nabaa Jordan carries the same Public Security Directorate statement as the outlets already cited, so it corroborates rather than independently reports the roundup.
-  - The page shows one news image captioned only with the story headline and no credit identifying what it depicts, so it is not listed as media.
-  - Amman Net is a copy of the same Public Security Directorate statement as the report's other sources, so it corroborates rather than independently reports the roundup.
-  - The English Petra release groups further Amman seizures as 25 slabs of hashish, 4,500 pills, half a kilogram of crystal methamphetamine and 2.6 kilograms of marijuana, while the Arabic statement lists the hashish and the marijuana separately, so the cannabis figures cannot be matched case by case between the two versions.
-  - Husna FM gives no separate date for the raids; the article is dated 8 November 2026 and says the casework ran over the preceding days.
-  - The Zad Al Urdun page gives no separate date or place for the raids; it is an aggregator copy carrying the same Public Security Directorate statement as Khaberni and the Petra release, so it corroborates rather than independently reports the roundup.
-  - The article gives no separate date for the raids beyond operations conducted over recent days; 8 November 2026 is its publication date.
-  - Ammon News carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
-  - The Al Awal News page gives no separate date for the raids and says the casework ran over the preceding days; 8 November 2026 is its publication date.
-  - Al Awal News carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
-  - Ammon News in English carries the same Public Security Directorate statement as the report's existing Arabic sources, so it corroborates rather than independently reports the roundup.
-  - The Ammon News page gives no separate date for the raids beyond operations conducted over recent days; 8 November 2026 is its publication date.
-  - The Ammon News English text puts the further Amman seizure at 25 slabs of hashish and 2.6 kilograms of marijuana, matching the English Petra release but not itemised against the Arabic statement, so the cannabis amounts cannot be matched case by case.
-  - The page carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
-  - Saraha News reproduces the same Public Security Directorate statement as the report's other sources, so it corroborates rather than independently reports the roundup.
-  - The page gives no separate date for the raids; 8 November 2026 is its publication date and the casework is described as running over the preceding days.
-  - The Alsaa page gives no separate date for the raids beyond their running over the preceding days; 8 November 2026 is its publication date.
-  - Alsaa is an aggregator copy of the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
-  - Jafra News carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
-  - The Jafra News page gives no separate date for the raids; the article is dated 8 November 2026 and says the casework ran over the preceding days.
-  - Al Qalah News carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
-  - The Al Qalah page gives no separate date for the raids beyond their running over the preceding days; 8 November 2026 is its publication date.
+  - No exact date was given for the raids, which ran over the preceding days; 8 November 2026 is the date of the statement.
+  - The hashish is counted only in blocks, with no weight; the 4.6 kilograms covers marijuana only.
+  - The English and Arabic versions group the Amman seizures differently, so the cannabis amounts cannot be matched case by case.
+  - The 28 arrests are not broken down by case.
+  - No value, names, charges or court outcome were published.
+  - Every account reproduces the same Public Security Directorate statement.
 media:
   - kind: photo
     url: https://a5r5br.net/jordan/local-news/8453952-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-28-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%81%D9%8A-15-%D9%82%D8%B6%D9%8A%D8%A9
@@ -206,43 +174,39 @@ media:
     caption: 'News image published with the Petra English release on the 15 cases, captioned only with the story headline. Photo: Petra'
 ---
 
-Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department
-officers dealt with 15 drug cases over the preceding days, arresting 28 pushers
-and dealers and seizing large quantities of drugs. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24]
+Jordan's Public Security Directorate spokesperson said Anti-Narcotics Department officers dealt with
+15 drug cases over the preceding days, arresting 28 pushers and dealers and seizing large quantities
+of drugs. [@1,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24] Khaberni carried the same
+statement on the same day. [@2] Eight of the cases were in Amman and seven elsewhere [@7,12,15]: two in
+the Central Badia, two in Irbid Governorate, one in Ma'an, one in Zarqa and a final case involving a
+vehicle. [@22,23]
 
-In Amman, officers raided a dealer in the Jabal al-Taj area in the centre of the
-capital and seized 56 blocks of hashish and 4,000 narcotic pills from him. [@1,5,6,11,13,15,16,17,18,19,20,21,22,24]
-Two active pushers in the capital were arrested with 20 blocks of hashish. [@1,5,11,18]
-Three pushers were arrested after a raid with five blocks of hashish and 1,500
-pills. [@1,5,11] South of Amman, officers raided a tent that three people used to
-trade, store and push drugs, arresting all three and seizing 2 kilograms of
-marijuana, 1,500 pills, 85 grams of cocaine and 150 grams of crystal
-methamphetamine. [@1,3,4,5,6,7,11,12,13,15,16,17,18,19,20,21,22,23,24] Officers arrested three people in the last Amman case with
-2,600 grams of marijuana. [@1,5,6,7,8,11,14,15,16,18,19,23,24] In the second Amman case three people were raided
-inside a flat they used to store drugs for sale, and officers seized 6,000 pills
-and a quantity of hashish. [@1,5,13,15] In a farm south of the capital officers arrested
-two pushers with 200 grams of crystal methamphetamine, 200 grams of cocaine and
-a firearm. [@1,5,11]
+## Amman
 
-In the Central Badia, officers seized 20 blocks of hashish from two arrested
-people in the first case and 15 blocks of hashish from two pushers in a vehicle
-in the second. [@1,4,5,7,11,13,14,15,18,19,20,22] In Irbid Governorate officers raided a pusher and seized six
-blocks of hashish from him, and seized 200 grams of crystal methamphetamine from
-another pusher in the second case. [@1,5,11,15] A pusher was arrested in Ma'an
-Governorate with seven blocks of hashish. [@1,5,11,15,18] In Zarqa Governorate officers
-arrested a suspected drug smuggler who was preparing a quantity of pills to
-smuggle to a neighbouring country, and seized 4,000 pills from him. [@1,5,15,24] In the
-last case officers arrested one person and seized the vehicle he had, in which
-an extra tank had been fitted holding 18 litres of liquid amphetamine. [@1,5,13,15,18]
+Officers raided a dealer in the Jabal al-Taj area in the centre of the capital and seized 56 blocks of
+hashish and 4,000 narcotic pills from him. [@1,5,6,11,13,15,16,17,18,19,20,21,22,24] Two active pushers
+were arrested with 20 blocks of hashish. [@1,5,11,18] Three pushers were arrested after a raid with
+five blocks of hashish and 1,500 pills. [@1,5,11] In the second Amman case three people were raided
+inside a flat they used to store drugs for sale, and officers seized 6,000 pills and a quantity of
+hashish. [@1,5,13,15] The English release puts a further Amman hashish seizure at 25 slabs, without a
+weight. [@7]
 
-Khaberni carried the same anti-narcotics statement, counting 28 arrests in 15
-cases, on the same day. [@2] The hashish blocks and marijuana grams are the
-cannabis seizures counted here; the pills, crystal methamphetamine, cocaine and
-liquid amphetamine were seized in the same cases and are left out of the
-cannabis figures. [@1,11]
+South of Amman, officers raided a tent that three people used to trade, store and push drugs,
+arresting all three and seizing 2 kilograms of marijuana, 1,500 pills, 85 grams of cocaine and 150
+grams of crystal methamphetamine. [@1,3,4,5,6,7,11,12,13,15,16,17,18,19,20,21,22,23,24] Officers
+arrested three people in the last Amman case with 2,600 grams of marijuana.
+[@1,5,6,7,8,11,14,15,16,18,19,23,24] On a farm south of the capital they arrested two pushers with 200
+grams of crystal methamphetamine, 200 grams of cocaine and a firearm. [@1,5,11]
 
-The English release puts the further Amman hashish seizure at 25 slabs, without giving a weight. [@7]
+## Other governorates
 
-The Petra release says the cannabis and other drugs were seized in 15 cases, eight of them in Amman and seven in other governorates, carried out over recent days against trafficking, distribution and smuggling. [@7,12,15]
+In the Central Badia, officers seized 20 blocks of hashish from two people in the first case and 15
+blocks from two pushers in a vehicle in the second. [@1,4,5,7,11,13,14,15,18,19,20,22] In Irbid
+Governorate they seized six blocks of hashish from one pusher and 200 grams of crystal
+methamphetamine from another. [@1,5,11,15] A pusher was arrested in Ma'an Governorate with seven blocks
+of hashish. [@1,5,11,15,18] In Zarqa Governorate officers arrested a suspected smuggler preparing 4,000
+pills to smuggle to a neighbouring country. [@1,5,15,24] In the last case they arrested one person and
+seized his vehicle, fitted with an extra tank holding 18 litres of liquid amphetamine. [@1,5,13,15,18]
 
-The Arabic statement counts eight cases in the capital and describes the others as two in the Central Badia, two in Irbid Governorate, one in Ma'an Governorate, one in Zarqa Governorate and a final case involving 18 litres of liquid amphetamine found in an extra tank fitted inside a vehicle. [@22,23]
+The hashish blocks and marijuana are the cannabis seizures counted here; the pills, crystal
+methamphetamine, cocaine and liquid amphetamine are left out of the cannabis figures. [@1,11]

@@ -169,79 +169,49 @@ sources:
     date: 2026-11-05
     language: ar
 open_questions:
-  - No separate weight for cannabis or hashish was published, only a combined total of more than 67 kg for all drugs, so no cannabis kilograms are recorded.
-  - The figure of more than 90 million hryvnias values all seized drugs and property together, not cannabis alone, so no value is recorded.
-  - The cash of more than 3 million hryvnias is an equivalent across national and foreign currencies for the whole case, not cannabis proceeds alone.
-  - No separate date for the searches and detentions was published; 5 November 2026 is the publication date of both accounts and is used as the incident date.
-  - Ukrainian reports say 39 people were notified of suspicion, which is recorded here as charged, while 37 were detained.
-  - The heaviest charge carries up to 12 years with confiscation, but no sentence has been reported and everyone is presumed innocent until a court verdict.
-  - Both accounts reproduce the police and prosecutor statements, with no independent account of the operation.
-  - The text gives a weight ("67 kg") but the figures have no kg_seized; check whether it belongs there.
-  - StopCor uses the Russian spelling "Эспаньол" for the operation; the National Police writes "Еспаньйол" (Espanyol).
-  - The StopCor item links only to the National Police Telegram post and gives no separate date for the searches and detentions.
-  - The page carries several further gallery photographs under one generic caption, so only the lead photograph could be identified; the others were left out.
-  - StopCor's own related item, the 10.5 million hryvnia Kyiv drug sale disguised as animal feed, is a separate event and is not part of this report.
-  - The Cherkasy outlet gives no separate date for the searches and detentions; 5 November 2026, the publication date, remains the recorded incident date.
-  - Neither the Cherkasy page nor LB.ua and Blik gives a cannabis-only weight or valuation, so the combined 67 kg and 90 million hryvnias remain uncounted for cannabis.
-  - The Cherkasy photographs are published only with generic captions and no agency credit, so it cannot be confirmed which items they show beyond packaged drugs.
-  - Ukrainian outlets, including Blik, name both the SBU and the National Police as involved; the police press release names only the National Police and its special units.
-  - The National Police statement calls the operation two-stage; the Cherkasy page describes it only as lasting across eleven regions.
-  - LB.ua adds that the pre-trial investigation continues and that decisions on notifying further suspects will follow the expert findings.
-  - 'Left out, as its quotation was not found in 18000: The Cherkasy page also carries the National Police video of the operation, titled “Operation Espanyol: the National Police cut the drug traffic from Spain, the USA and Portugal to Ukraine”.'
-  - The Sumy page gives no separate date for the searches and detentions; 5 November 2026 is its publication date.
-  - The Sumy page reproduces the National Police statement without independent reporting, like the other accounts already cited.
-  - The Sumy page's lead photo carries no caption or credit and is not confirmed to show this operation's seizure, so it adds nothing to the identification of the operation's photographs.
-  - The Sumy page names no cannabis-only weight or valuation; the 67 kg and 90 million hryvnias stay unallocated to cannabis.
-  - The Sumy page names only the National Police as the source, while the police statement itself lists the Security Service of Ukraine and the Prosecutor General's Office as coordinators.
-  - The Sumy page does not mention the two-stage structure; the police statement and other outlets do.
-  - The National Police names 11 oblasts plus Kyiv city as areas of the first stage, which is 12 named units while the statements speak of 11 regions.
-  - Zahidnyi Front writes that cannabis came from the United States while the National Police and prosecutors list Spain, Portugal and the United States as the countries of origin without specifying cannabis to the United States alone.
-  - The page gives no separate date for the searches and detentions; 5 November 2026 is its publication date.
-  - The page gives no separable cannabis-only weight or valuation; the combined 67 kg and 90 million hryvnias cover all drugs and property together.
-  - The page reproduces the Office of the Prosecutor General and National Police statements and is not an independent account.
-  - The UA.NEWS Chinese page gives no separate date for the searches and detentions; 5 November 2026 is its publication date.
-  - The closing paragraph about the Greek coast guard intercepting a yacht with cannabis and detaining two Ukrainians is a separate event left out of this match.
-  - The Ukrinform page gives no separate date for the searches and detentions; 5 November 2026 is its publication date, as in the report.
-  - Ukrinform gives no cannabis-only or hashish-only weight, so the more than 67 kg total and the more than 90 million hryvnia valuation stay unallocated to cannabis.
-  - Ukrinform gives no figure for cannabis plants; it mentions only that equipment for cultivating drug-containing plants was seized.
-  - The four photographs on the Ukrinform page carry no caption or credit, so it cannot be confirmed which of them, if any, show cannabis rather than other seized drugs.
-  - Ukrinform carries the same National Police YouTube video (iQ2fH8surv0) already listed in the report, so it is not counted as a new picture.
-  - PravdaTUT NEWS reproduces the National Police and Prosecutor General's Office statements without independent reporting and gives no separate date for the searches and detentions; 5 November 2026 is its publication date.
-  - PravdaTUT NEWS gives no cannabis-only or hashish-only weight or valuation, so the more than 67 kg total and the more than 90 million hryvnia valuation stay unallocated to cannabis.
+  - No separate weight or value was published for the cannabis or hashish; the 67 kg and 90 million hryvnias cover all drugs and property together.
+  - No separate date was given for the searches and detentions; 5 November 2026 is the date of the statements.
+  - 39 people were notified of suspicion and 37 detained; what happened to the other two is not said.
+  - The statements speak of 11 regions but name 11 oblasts and the city of Kyiv.
+  - Equipment for growing plants was seized, but no plants or grow sites were counted.
+  - No court decision has been reported.
+  - Every account reproduces the police and prosecutors' statements.
 ---
 
-Ukrainian officers notified 39 people that they were suspected in a
-drug-trafficking scheme and detained 37 of them. [@1,3,4,5,6,8,11,12,13,15,17] The two-stage Operation
-Espanyol ran across 11 regions of Ukraine, cutting smuggling channels and
-interregional sales and exposing other distributors of cocaine and cannabis.
-[@1,3,7,9,12,13,15,17] The 39 suspects were notified over drug trafficking and smuggling, and the
-most serious charge carries up to 12 years in prison with confiscation. [@2,6,10,12,13]
+Ukrainian officers notified 39 people that they were suspected in a drug-trafficking scheme and
+detained 37 of them. [@1,3,4,5,6,8,11,12,13,15,17] The two-stage Operation Espanyol ran across 11
+regions of Ukraine, cutting smuggling channels and interregional sales and exposing other
+distributors of cocaine and cannabis. [@1,3,7,9,12,13,15,17] The 39 suspects were notified over drug
+trafficking and smuggling, and the most serious charge carries up to 12 years in prison with
+confiscation. [@2,6,10,12,13]
 
-Investigators said cocaine and hashish came from Spain and Portugal, while
-cannabis came from the United States. [@2,3,4,5,6,8,12,13,15,16,17,18] The drugs were hidden in household
-appliances and moved across the border on international buses and in postal
-parcels. [@1,6,8,13,14,16,18] In Ukraine the drugs were sold through Telegram channels and a
-network of distributors. [@1,3,6,12,13,14,16,18] Officers carried out 141 searches and seized more
-than 67 kg of drugs and psychotropic substances, including 3.5 kg of cocaine as
-well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine. [@2,3,4,5,7,9,12,13,15,16,17] They
-also seized equipment for growing drug-containing plants, cars, equipment,
-weapons and ammunition, and cash in national and foreign currencies worth more
-than 3 million hryvnias. [@1,6,13,16] Authorities put the total value of the seized
-drugs and property at more than 90 million hryvnias. [@2,4,5,6,9,12,13,14,15,16,17]
+## Supply and sales
 
-The operation was conducted under the procedural guidance of prosecutors from
-the Office of the Prosecutor General and regional and district offices and
-exposed international supply channels and a sales network. [@1,6] Everyone is
-presumed innocent until a court verdict proves guilt. [@1,7] The pre-trial
-investigation is continuing to identify other people involved in organising the
-smuggling and sales. [@2,7,17]
+Investigators said cocaine and hashish came from Spain and Portugal, while cannabis came from the
+United States. [@2,3,4,5,6,8,12,13,15,16,17,18] The drugs were hidden in household appliances and moved
+across the border on international buses and in postal parcels. [@1,6,8,13,14,16,18] In Ukraine they
+were sold through Telegram channels and a network of distributors. [@1,3,6,12,13,14,16,18]
 
-The seized drugs also included kratom, psilocybin mushrooms and confectionery containing tetrahydrocannabinol. [@3,13,16]
+Officers carried out 141 searches and seized more than 67 kg of drugs and psychotropic substances,
+including 3.5 kg of cocaine as well as cannabis, hashish, amphetamine, alpha-PVP, MDMA and ketamine.
+[@2,3,4,5,7,9,12,13,15,16,17] The haul also included kratom, psilocybin mushrooms and confectionery
+containing tetrahydrocannabinol. [@3,13,16] They also seized equipment for growing drug-containing
+plants, cars, equipment, weapons and ammunition, and cash in national and foreign currencies worth
+more than 3 million hryvnias. [@1,6,13,16] Authorities put the total value of the seized drugs and
+property at more than 90 million hryvnias. [@2,4,5,6,9,12,13,14,15,16,17]
 
-The Cherkasy outlet presented the operation as one that reached Cherkasy Oblast among 11 regions, and credited the National Police press service as its source. [@5] The Cherkasy page published a photograph of packaged drugs under a caption saying the operation covered Cherkasy Oblast and 10 other regions. [@5]
+## The operation
 
-The National Police statement was coordinated by its drug-crime department, main investigation directorate, the Security Service of Ukraine and the Prosecutor General's Office. [@7,16] The second stage of the operation targeted and detained other figures who handled the sale of cocaine and cannabis in Ukraine. [@7,16] The 141 searches were backed by tactical response and special-purpose police units, with canine teams from regional police and Kyiv. [@7,14,16,18]
+The National Police announced the operation through its Department for Combating Drug-Related Crime.
+[@16] It was coordinated with the police main investigation directorate, the Security Service of
+Ukraine and the Prosecutor General's Office [@7,16], under the procedural guidance of prosecutors from
+the Office of the Prosecutor General and regional and district offices. [@1,6] The second stage
+targeted those who handled the sale of cocaine and cannabis inside Ukraine. [@7,16] The searches were
+backed by tactical and special-purpose police units, with canine teams from the regions and Kyiv.
+[@7,14,16,18] Cherkasy Oblast was among the regions covered, the National Police press service said.
+[@5]
 
-Ukraine's National Police detained all 37 under the custody provisions of the Criminal Procedure Code. [@10] Ukrinform reported that the question of notifying further suspects will be decided on the results of expert examinations. [@10]
-
-Ukrinform attributes the announcement to the National Police's Department for Combating Drug-Related Crime. [@16]
+All 37 were detained under the custody provisions of the Criminal Procedure Code. [@10] The pre-trial
+investigation continues to identify others who organised the smuggling and sales [@2,7,17], and
+further suspects may be notified once expert examinations are complete. [@10] Everyone is presumed
+innocent until a court verdict proves guilt. [@1,7]

@@ -218,47 +218,11 @@ sources:
     date: 2026-11-01
     language: gu
 open_questions:
-  - Neither account names the two arrested passengers or gives their ages.
-  - No court appearance, remand order or charge sheet beyond the NDPS Act arrest was reported.
-  - The same airport saw separate hydroponic marijuana interceptions on 22 September (8.9 kg) and 6 September (5.5 kg), different events left out here.
-  - The page's only image is explicitly labelled as AI-generated for representational purposes and does not show the event, so no event photo can be linked from this source.
-  - The submitted capture's readable text contained only navigation, so its event details were taken from the page's own published metadata and corroborated by the two opened accounts of the same interception.
-  - No separate interception time beyond the 1 November 2026 publication and operation date was published.
-  - 'Left out, as its quotation was not found in Times Now: Inside the bags officers found 14 vacuum-sealed packets, whose contents field-tested positive for ganja, the Hindi term for cannabis.'
-  - The article also mentions separate hydroponic marijuana interceptions on 22 September (8.9 kg) and 6 September (5.5 kg) at the same airport, different events left out here.
-  - The article gives only its publication date of 1 November 2026 and no separate time for the interception.
-  - The page URL slug refers to two men while the article body reports one woman and one man from Surat; the body account is used for the match.
-  - The Saamana account does not repeat the flight number TG-343, the Air Intelligence Unit, passenger profiling, checked-in luggage detail, hydroponic description, passenger names, or ages reported in other sources for the same event.
-  - The Saamana account does not state the Rs 13 crore valuation method beyond reporting 13 কোটিंचा गांजा seized, matching the existing value figure.
-  - 'Left out, as its quotation was not found in Rozana Spokesman: X-ray screening of the baggage showed a suspicious image, and detailed examination found 14 packets in the trolley bags.'
-  - 'Left out, as its quotation was not found in Rozana Spokesman: The seized substance weighed 13.012 kg and was reported to be worth about Rs 13 crore in the illicit market.'
-  - The page states it uses auto-feed content from the Bhasha news agency and that ThePrint is not responsible for its content.
-  - The Tarun Bharat page gives only its publication date of 2 November 2026 and says the seizure happened recently, with no separate interception time beyond the existing incident date of 1 November 2026.
-  - Tarun Bharat does not name the passengers, give ages or Surat residence, or give the flight number TG-343, profiling detail or NDPS Act provision reported in other sources for the same event.
-  - 'Left out, as its quotation was not found in Ahmedabad Mirror: The pair were flagged through passenger profiling before their trolley bags went through X-ray screening, where officers noticed suspicious images and ordered a detailed manual examination.'
-  - The submitted GSTV page is a video headline roundup with no article body, so only the 13 kg seizure at Ahmedabad airport in its headline can be corroborated.
-  - GSTV gives only its publication date of 2 November 2026 and no separate interception time, while the existing incident date of 1 November 2026 is retained as consistent.
-  - GSTV does not name the two passengers, give ages or Surat residence, or give the flight number, agency, profiling, or NDPS Act details reported in other sources for the same event.
-  - The same headline also bundles unrelated items about Surendranagar water supply and a killing in Morbi, different events left out here.
-  - The Lokmat Times article gives only its publication date of 1 November 2026 and says the seizure occurred on Sunday, with no separate interception time.
-  - The Lokmat Times article does not name the two arrested passengers or give their ages reported in other sources for the same event.
-  - The submitted 08_AM GSTV page is a video headline roundup with no article body, so only the 13 kg seizure at Ahmedabad airport in its headline can be corroborated.
-  - The submitted 08_AM page gives only its publication date of 2 November 2026 and no separate interception time, while the existing incident date of 1 November 2026 is retained as consistent.
-  - The submitted 08_AM page does not name the two passengers, give ages or Surat residence, or give the flight number, agency, profiling, or NDPS Act details reported in other sources for the same event.
-  - The same 08_AM headline also bundles unrelated items about Vadodara CNG-PNG prices, different events left out here.
-  - The Abtak Media account does not name the two passengers or give their ages or Surat residence reported in other sources for the same event.
-  - The Abtak Media account gives only its publication date of 2 November 2026 and dates the Customs action to 1 November 2026, consistent with the existing incident date of 1 November 2026.
-  - The page uses hybrid cannabis in its headline and hydroponic ganja in its body for the same 13.012 kg seizure, while the existing hydroponic description is retained.
-  - 'Left out, as its quotation was not found in Janta Se Rishta: The drugs were seized under the Narcotic Drugs and Psychotropic Substances Act, 1985, India''s main drug law, and both passengers were arrested.'
-  - The Gujarat First page gives only its publication date of 1 November 2026 and no separate interception time.
-  - The account does not repeat the flight number TG-343, the Air Intelligence Unit detail, checked-in luggage detail, passenger names and ages, or the approximately Rs 13 crore valuation reported in other sources for the same event.
-  - The account identifies the pair only as two Surat passengers and does not identify them as a man and a woman or give Surat district detail.
-  - The Hawk dates the interception only as Sunday alongside its publication date of 1 November 2026, consistent with the existing incident date of 1 November 2026, with no separate interception time given.
-  - The News18 Gujarati account gives only its publication date of 1 November 2026 and says the interception was on 1 November, with no separate interception time.
-  - The account does not repeat the approximately Rs 13 crore valuation, passenger names and ages, or organised-network custody detail reported in other sources for the same event.
-  - This ETV Bharat Gujarati account does not name the two passengers, give their ages or Surat residence, or identify them as a man and a woman as reported in other sources for the same event.
-  - The Sandesh account describes the haul only as worth crores of rupees in the international market without stating the approximately Rs 13 crore figure used in the report.
-  - 'Left out, as its quotation was not found in Divya Bhaskar: Both passengers who arrived on the flight from Bangkok had a total of 14 vacuum-sealed packets in their bags.'
+  - No time was given for the interception; the reports date it to Sunday, 1 November 2026.
+  - Rs 13 crore is Customs' own estimate of the illicit-market value.
+  - One page's address speaks of two men, while the accounts describe a man and a woman.
+  - No court appearance, remand order or charge sheet has been reported.
+  - Separate hydroponic marijuana seizures at the same airport on 6 and 22 September are left out of this report.
 ---
 
 Officers of the Air Intelligence Unit of Ahmedabad Customs arrested a man and a

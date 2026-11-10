@@ -205,47 +205,12 @@ sources:
     date: 2026-11-05
     language: ko
 open_questions:
-  - No plant count, weight or neighbourhood inside Seoul was given; a Suwon office official told the Kyung-in Ilbo the scale could not be disclosed.
-  - 'Whether the cannabis was sold is unresolved: Newsis said he was understood to claim he had not distributed it, while investigators said accomplice inquiries were continuing.'
-  - The English Chosun headline calls him a 20-year-old, but the article body and the Korean reports say only that he is in his 20s.
-  - The only published photo shows the Suwon office building, not the home or the plants, so it was left out.
-  - No court outcome beyond the detention warrant was reported.
-  - The SBS English page is an AI translation and calls both the 28 October order and the court order issued on 30 October “arrest warrants,” while the existing Korean reports distinguish the arrest from a later detention warrant.
-  - The only photo on the SBS page shows a signboard-unveiling ceremony for the Suwon office, not the home or the plants, so it was left out.
-  - Only this one opened source was found for the updated seizure weight and second suspect; no second outlet could be opened.
-  - The English account is AI-translated and says A was detained on 28 October and formally arrested on 30 October, leaving the exact Korean warrant terminology partly unresolved.
-  - No plant count was published, only the dried-cannabis weight.
-  - Whether the cannabis was distributed and the court outcome for both men remain under investigation.
-  - The SBS English account is AI-translated and calls court detention orders 'arrest warrants', so Korean warrant terminology remains partly unresolved.
-  - The article also notes a separate Seoul office transfer of two drug-smuggling suspects on 30 October, a different event left out here.
-  - The page gives no seizure amount, cultivation location, plant count or separate incident date for the cannabis case.
-  - The page notes it was reconstructed from a Newsis dispatch, so it is not independent of the existing Newsis account.
-  - The page also describes a separate Pyeongtaek philopon-manufacturing case and a 2021 Cheongju sentence, different events left out here.
-  - Only the Yonhap report of the 5 November 2026 referral could be found; no second outlet covering the transfer to prosecutors could be opened.
-  - The article names neither the prosecution office that received the two men nor any charges filed by prosecutors beyond the Narcotics Control Act.
-  - The article says B was arrested on 28 October and A on 30 October, the reverse of the dates in the report's earlier account; the Korean referral terminology and the exact arrest sequence remain partly unresolved.
-  - No figure for the floor area of the grow, the market destination of the cannabis or the outcome of any prosecution was published.
-  - Newsis names the receiving office as the Suwon District Public Prosecutors Office (수원지방공소청), while the earlier coverage in this report calls it the Suwon District Prosecution Office, and the two names have not been reconciled.
-  - The only captioned picture on the page shows the agency building, not the grow or the seizure, and the other image addresses carry no captions, so no event photo is added.
-  - Its figures come from an AI-translated account and are consistent with the Korean coverage already cited.
-  - The same article also reports a separate liquid-methamphetamine smuggling arrest involving 3 kg of liquid, a different event left out of this cannabis account.
-  - The Hankook Ilbo report gives no man's age beyond "in his 20s" and does not name the prosecution office that received the men.
-  - Whether the cannabis was sold and what happened to the men after the referral remain unresolved.
-  - No count of how many kilograms of cannabis the 22-month grow produced in total was published.
-  - The Edaily merger of the first two division cases does not say whether both suspects' cases were referred together or separately, though the Korean reports say both went to the prosecutors office on 5 November.
-  - 'Not added to seoul-suwon-scia-privately-run-first-drug-cases, as its quotation was not found in 이데일리: The agency said the referral was the first case its narcotics joint investigation division had investigated itself and handed to prosecutors since the division was set up.'
-  - Edaily says A씨 was sent to prosecutors on 30 October 2026 and B씨 on 1 November 2026, while the report's earlier account of SBS, Segye and Yonhap coverage places A's detention warrant on 1 November and B's on 30 October.
-  - The English page is an AI translation, as it states itself, so the exact Korean wording behind its quotes and its label 'Suwon Serious Crime Investigation Agency' should be read alongside the Korean coverage already cited.
-  - The page's four listed images carry no caption or credit, so it cannot be established that they show the grow site or seizure; the event photo already listed comes from the page's own video still.
-  - 'Left out, as its quotation was not found in 연합뉴스: The narcotics joint investigation division arrested B on 28 October 2026 and A on 30 October 2026, the first time the dates of the two arrests were published.'
-  - The article gives no separate date for the events at the building and does not say whether the men had sold the cannabis or what charge prosecutors filed.
-  - The submitted amp URL carries the same article ID as the canonical Seoul Economic Daily URL already cited in the report, so it is the same account rather than an independent outlet; corroboration comes from the preserved YTN account.
-  - The YTN account also describes a separate 3 kg liquid-methamphetamine smuggling arrest from Laos, a different event left out of this cannabis account.
-  - This account names the receiving office 수원지방공소청 (Suwon District Prosecutors Office), consistent with the report's note but still not reconciled with the 'Suwon District Prosecution Office' wording used in its earlier coverage.
-  - The page gives no arrest or warrant dates and no separate date for the raid, only the 5 November referral.
-  - The only supplied image address carries another outlet's file path with no caption or credit, so it cannot be established as a photo of this grow or seizure.
-  - The article gives no weight, plant count, neighbourhood inside Seoul or value for the cannabis, so no figures are added from it.
-  - The article also reports a separate liquid-narcotics smuggling arrest involving a man in his 40s and an accomplice, which is not identified as cannabis and is left out of this cannabis account.
+  - 'Accounts disagree on the order of the arrests and warrants: some say A was arrested on 28 October and detained on 30 October, others put B''s warrant on 30 October and A''s on 1 November, or B''s arrest first.'
+  - Whether the cannabis was sold is not established; A was said to deny distributing it.
+  - No total was published for what the 22-month grow produced.
+  - The receiving office is named either the Suwon District Prosecution Office or the Suwon District Public Prosecutors Office, and no charge filed by prosecutors has been reported.
+  - No court outcome has been reported.
+  - Several articles also report separate drug-smuggling cases, including liquid methamphetamine from Laos, left out of this report.
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008832708
@@ -259,43 +224,43 @@ media:
     caption: 'SBS video report on the two men sent to prosecutors over the Seongbuk cannabis grow, showing the cultivation equipment and plants. Video: SBS (Lee Eui-seon)'
 ---
 
-A man in his twenties, identified only as Mr A, was arrested at his home in a
-Seoul residential neighbourhood on suspicion of cultivating marijuana. [@1,6] The
-Narcotics Joint Investigation Division of the Suwon Regional Office of the
-Serious Crime Investigation Agency obtained an arrest warrant on 28 October 2026
-and took him at the residence. [@1,4,5] On 30 October the Suwon District Court
-issued a detention warrant, citing a risk that he would flee or destroy
-evidence, and the division, headed by Superintendent Ahn In-soo, announced the
-arrest on 31 October. [@1]
+The Narcotics Joint Investigation Division of the Suwon Regional Office of the Serious Crime
+Investigation Agency arrested a man in his twenties, identified only as Mr A, in Seoul on suspicion
+of growing cannabis. [@1,6] It obtained an arrest warrant on 28 October 2026 and took him at the
+residence. [@1,4,5] The division, headed by Superintendent Ahn In-soo, announced the arrest on 31
+October. [@1] A court warrant was also obtained for a second man in his 20s, identified as B.
+[@6,16,20]
 
-He is accused of growing cannabis for several years in that home with
-specialised facilities, under South Korea's Narcotics Control Act. [@1,4,5]
-Investigators said they identified the case after the Suwon office was
-established, and that inquiries into possible accomplices were continuing. [@1]
-The Suwon District Prosecution Office asked the court for the detention warrant
-after the investigation office applied for it. [@2,4] A Suwon office official said
-the scale of the cultivation and other details of the allegation could not be
-disclosed because the investigation was still under way. [@2] He was understood
-to claim that he had not distributed the cannabis he grew. [@3]
+The first accounts say the Suwon District Court issued a detention warrant for A on 30 October,
+citing a risk that he would flee or destroy evidence, at the request of the Suwon District
+Prosecution Office. [@1,2,4] Later ones say the court issued B's warrant on 30 October and A's on 1
+November. [@7,10,13,14]
 
-The arrest is the Suwon office's first drug case since it opened. [@1,4,5,6,9,11,14] Its
-narcotics joint investigation division is the only dedicated unit of its kind
-among regional Serious Crime Investigation Agency offices, formed after the
-Government Joint Investigation Headquarters for Drug Crimes under the Suwon
-District Prosecutors' Office was dissolved. [@1,4] The division brings together 43
-people from the investigation agency, the police, the Immigration and Foreign
-Policy Headquarters and customs. [@1,7]
+## The grow
 
-Investigators also obtained a court warrant for his accomplice, a second man in his 20s identified as B. [@6,16,20] The two men are accused of leasing the fourth floor of a building in a Seongbuk residential area and growing cannabis there in large volumes from around January last year until recently. [@6,7,8,9,10,12,14,15,18,20,21,22,24,27,28,29,32] Investigators found that they purchased cannabis-growing equipment through overseas direct-purchase websites. [@6,7,10,14,15,19,20,21,22,24,25,27,28,29,33] Authorities seized about 1.1 kilograms of cannabis worth 170 million won at the site, described as enough for 3,700 people to use at once. [@6,9,12,14,15,17,18,19,20,21,22,26,27,31]
+The two men, both 29, were friends. [@17,19,22,23,24,26,32] They are accused of leasing the fourth
+floor of a building in a Seongbuk residential area and growing cannabis there with specialised
+facilities, in large volumes, from around January last year until recently.
+[@1,4,5,6,7,8,9,10,12,14,15,18,20,21,22,24,27,28,29,32] Investigators put the time at about 22
+months, one year and ten months of professional growing. [@23,25,26,32] They bought the equipment
+through overseas direct-purchase websites. [@6,7,10,14,15,19,20,21,22,24,25,27,28,29,33]
 
-On 1 November 2026 the Suwon District Court issued a detention warrant for Mr A, a man in his 20s charged with violating the Narcotics Control Act, citing risk of flight, after issuing a warrant for the other suspect Mr B on 30 October. [@7,10,13,14]
+Authorities seized about 1.1 kilograms of cannabis, valued at 170 million won and described as enough
+for 3,700 people to use at once [@6,9,12,14,15,17,18,19,20,21,22,26,27,31], and 33 plants still
+growing. [@16,17,18,19,20,21,22,24,25,26,27,28,29] At first a Suwon official said the scale could not
+be disclosed while the investigation continued [@2], and A was understood to claim he had not
+distributed the cannabis. [@3] Inquiries into possible accomplices were continuing. [@1]
 
-Investigators seized 33 cannabis plants still being grown at the rented fourth-floor site, a figure not published in the earlier coverage of the case. [@16,17,18,19,20,21,22,24,25,26,27,28,29] The Suwon Serious Crime Investigation Agency announced on 5 November 2026 that it had sent both men to prosecutors in custody on suspicion of violating the Narcotics Control Act. [@16,17,18,19,20,21,22,23,24,25,26,27,29,30,32,33] The agency said the referral was the first case its narcotics joint investigation division had investigated itself and handed to prosecutors since the division was set up. [@16,19,20,22,25,26,28,33] An official of the division said the case showed that cannabis-growing facilities had spread to the middle of Seoul and that the unit would keep working with other agencies against drug crime. [@16,18,20,21,25,26,29,30] The division is the only dedicated joint narcotics investigation unit among the regional Serious Crime Investigation Agency offices, created to succeed the former Suwon District Prosecutors' Office drug investigation headquarters. [@16,20] It brings together 43 people from the investigation agency, the police, the Immigration and Foreign Policy Headquarters and the customs service. [@16,20]
+## Referral
 
-Both men were 29 years old. [@17,19,23,32] The two were friends. [@17,19,22,24,26]
+On 5 November 2026 the agency announced that it had sent both men to prosecutors in custody on
+suspicion of violating the Narcotics Control Act. [@16,17,18,19,20,21,22,23,24,25,26,27,29,30,32,33]
+It was the Suwon office's first drug case since it opened [@1,4,5,6,9,11,14], and the first the
+division had investigated and referred itself. [@16,19,20,22,25,26,28,33] An official said the case
+showed that cannabis-growing facilities had spread to the middle of Seoul.
+[@16,18,20,21,25,26,29,30]
 
-The men used the whole floor of the commercial building as a cannabis-growing facility for about 22 months. [@23]
-
-Investigators said the two men had grown cannabis professionally for about one year and ten months, a duration the earlier coverage did not state. [@25,26,32]
-
-The two men were friends, the agency said. [@32]
+The division is the only dedicated unit of its kind among the agency's regional offices, formed after
+the Government Joint Investigation Headquarters for Drug Crimes under the Suwon District
+Prosecutors' Office was dissolved. [@1,4,16,20] It brings together 43 people from the agency, the
+police, the Immigration and Foreign Policy Headquarters and customs. [@1,7,16,20]

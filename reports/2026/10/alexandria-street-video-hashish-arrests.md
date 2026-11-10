@@ -209,79 +209,41 @@ sources:
     date: 2026-11-07
     language: ar
 open_questions:
-  - The reports give no date for the arrests; 30 October 2026, when both were published, is used as the incident date.
-  - Neither report gives the weight of the hashish found with the employee or with the supplier.
-  - The three men are not named, and no charges or court date are reported.
-  - Both accounts reproduce the same Interior Ministry statement; no independent reporting on the arrests was found.
-  - 'Left out, as its quotation was not found in Cairo 24: Hashish was also found with the supplier, who admitted holding it for trafficking.'
-  - The Mawlana page's lead image is an uncredited composite that mixes a still from the street video with other footage, so it is not listed as media.
-  - The Al-Ahram photograph shows the Interior Ministry headquarters, not the arrests or the hashish, so it was not added as media.
-  - Al-Khabr Live says police identified the motorcycle and found its licences valid, but does not say the motorcycle was seized.
-  - This account says the competent investigation authorities took over, rather than naming the public prosecution.
-  - The page image is captioned only with the article headline and has no photo credit, so it is not clear that it shows the arrests or the hashish and it was not added as media.
-  - The Mobtada photo is captioned only "the accused" and has no credit, so it is not certain it is a distinct image of the arrests rather than a republished still.
-  - The Egypt Telegraph photo captioned "the two accused" was not added; it is likely the same handout already listed from other outlets, and the other page images are advertisements or placeholders.
-  - Belbalady says it republishes automatically and credits النبأ; it adds no weight, names or arrest date.
-  - The lead image is captioned only with the headline, so it was not added as media.
-  - The Al-Nabaa image is captioned only “the accused” and has no credit, so it was not added as a separate photo of the arrests.
-  - Youlyou calls the third arrested man only "the third suspect" and does not say explicitly that he is the unemployed man from First Montazah named by the employee; Cairo 24 and Al-Dostor both say that man was arrested.
-  - 'Left out, as its quotation was not found in Cairo 24: Questioned, the two admitted the offence and said they held the drugs to use them.'
-  - 'Left out, as its quotation was not found in Cairo 24: The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking.'
-  - 'Left out, as its quotation was not found in المصري اليوم: The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking.'
-  - No weight is given for the hashish found with the employee or with the supplier.
-  - The page's only image is captioned as an archive photo of handcuffs, so it was not listed as media of this event.
-  - The ekhbary24 page is dated 5 November 2026 and gives no separate date for the arrests.
-  - It gives no weight for the hashish and names none of the three men.
-  - The page image is hosted on elbalad.news and is captioned only with the section and time, so it was not established as a photo of this seizure and was not added as media.
-  - دار الهلال describes both men as unemployed from the First Montazah police district, while the other accounts describe the two filmed as a company employee and a delivery worker, with the First Montazah man being their supplier.
-  - دار الهلال says both admitted holding hashish for use and for trafficking, while the other accounts say the two filmed admitted use only and the supplier admitted trafficking.
-  - No weight is given for the hashish found with the two men, and no charges or court outcome are reported.
-  - The page picture is captioned only "الواقعة" with no credit, so it is not established to show this seizure or the two men.
-  - The Dar El Hilal account is undated apart from its 7 November publication time and is the only account read for this submission that describes both men as unemployed.
-  - The الجمهور الإخباري page gives no date for the arrest, only 30 October as the date the two said they committed the offence, and Dar El Hilal likewise publishes on 7 November without an arrest date.
-  - Neither page gives a weight for the hashish or names the two men, and neither reports charges or a court outcome.
-  - Masrawy, like the earlier Dar El Hilal and Iqraa News accounts, describes both arrested men as unemployed and living in the First Montazah police district, while other accounts describe the filmed pair as a company employee and a delivery worker, with the First Montazah man their supplier.
-  - Masrawy gives no weight for the hashish, no separate date for the arrest apart from the 30 October offence date, and no charge or court outcome.
-  - The Akhbar El-Masaei page gives 30 October only as the date the two men said they committed the offence and no date for the arrest itself.
-  - The page gives no weight for the hashish found with the two men and names neither of them.
-  - The page says the matter was referred to the competent investigation authorities without naming the public prosecution, unlike some earlier accounts of this case.
-  - Iqraa News describes both arrested men as unemployed and resident in the First Montazah police district, as do the Dar El Hilal and Masrawy accounts, while earlier accounts describe the filmed pair as a company employee and a delivery worker.
-  - The article gives 30 October as the date the two admitted committing the offence but no separate date for the arrest.
-  - No weight for the hashish, no charge and no court outcome are reported.
-  - The Al-Ahram page gives 30 October as the date the two admitted committing the offence but no separate date for their arrest.
-  - It gives no weight for the hashish found with the two men, names neither of them, and reports no charge or court outcome.
-  - It describes both arrested men as unemployed residents of the First Montazah police district, as do several other later accounts, while earlier accounts describe the filmed pair as a company employee and a delivery worker.
-  - The page photo is captioned only المتهمان with no credit, so it is not certain it is a distinct image rather than a republished Interior Ministry handout already listed.
-  - 'Left out, as its quotation was not found in بوابة مولانا: Both arrested men were found with hashish and two mobile phones.'
-  - The News Room page gives no weight for the hashish found with the two men and names neither of them.
-  - The page gives 30 October only as the date the two men said they committed the offence, and no separate date for the arrest.
-  - The page picture is captioned only المتهمان with no credit, so it is not certain it is a distinct image rather than a republished handout already listed from other outlets.
-  - The page gives 30 October only as the date the two men said they committed the offence, and no separate date for their arrest.
-  - The Veto page of 7 November 2026 and the Masrawy page of the same date are later republishings of the Interior Ministry statement about the 30 October street-video case, and both describe the filmed pair as unemployed First Montazah residents, as do several earlier accounts.
+  - No date is given for the arrests; 30 October 2026 is the date the men said they committed the offence and the date of the first reports.
+  - No weight is given for the hashish found with any of the men.
+  - None of the three men is named, and no court outcome is reported.
+  - Later accounts describe both filmed men as unemployed First Montazah residents who admitted trafficking; the earlier ones describe a company employee and a delivery worker who admitted use only, with the First Montazah man as their supplier. The report follows the earlier accounts.
+  - One account says prosecutors ordered the two filmed men held for four days, another says all three.
+  - Every account reproduces the same Interior Ministry statement.
 ---
 
-The case began with a social-media post, backed by a video, in which the person
-who published it complained about two men, one of them riding a motorcycle,
-using drugs on a street in Alexandria. [@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,21,22,25] Egypt's Interior Ministry said its
-security services identified and arrested the pair and seized the motorcycle,
-which had valid licence plates. [@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22,25,27,30] The two were a company employee and a
-delivery worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21,23,30]
+The case began with a social-media post, backed by a video, in which the person who published it
+complained about two men, one of them riding a motorcycle, using drugs on a street in Alexandria.
+[@2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,21,22,25] Egypt's Interior Ministry said its security
+services identified and arrested the pair and seized the motorcycle, which had valid licence plates.
+[@1,3,4,6,7,8,9,10,11,12,13,16,17,18,21,22,25,27,30] The two were a company employee and a delivery
+worker, both living in Alexandria Governorate. [@1,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19,20,21,23,30]
+The ministry said no reports had been filed about the incident before the video spread online.
+[@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22,23,25,27,28,29]
 
-Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,23] Questioned, the two admitted the
-offence and said they held the drugs to use them. [@1,3,4,5,6,7,8,9,10,12,13,15,16,17,18,20] The employee said he had
-obtained the hashish from an unemployed man with a criminal record living in the
-First Montazah police district, and police arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20]
+## The supplier
 
-The ministry said no reports had been filed about the incident before the video
-spread online. [@1,3,4,5,6,7,8,9,10,11,12,13,16,17,18,21,22,23,25,27,28,29] The public prosecution has taken over the investigation.
-[@2,3,4,7,8,9,10,13,16,17,18,20,24,27,28]
+Hashish was found with the employee. [@1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,23]
+Questioned, the two admitted the offence and said they held the drugs to use them.
+[@1,3,4,5,6,7,8,9,10,12,13,15,16,17,18,20] The employee said he had obtained the hashish from an
+unemployed man with a criminal record living in the First Montazah police district, and police
+arrested that man. [@1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20] He too was found with hashish and
+admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20,24] Some accounts add
+that the arrested men had two mobile phones with them. [@22,23,24,26,27,29]
 
-The unemployed man arrested as the supplier was found with hashish and admitted holding it for trafficking. [@3,4,5,6,7,8,9,10,13,14,15,16,17,18,20,24]
+Later accounts, published up to 7 November, describe both arrested men as unemployed and say they
+admitted committing the offence on 30 October and holding the drugs for both use and trafficking.
+[@21,23,27,29]
 
-Alexandria prosecutors ordered the employee and the delivery worker held for four days pending investigation and ordered the seized drugs held and sent to the chemical laboratory for examination. [@14]
+## Prosecution
 
-The Montazah prosecution in Alexandria ordered the three accused held for four days pending investigation on charges of drug use and possession of hashish for use and trafficking. [@19]
-
-The two arrested men admitted committing the offence on 30 October and holding the drugs for both use and trafficking, the only account that reports an admission to trafficking by both. [@21,23,27,29]
-
-Both arrested men were found with hashish and two mobile phones. [@22,23,24,26,27,29]
+The public prosecution took over the investigation. [@2,3,4,7,8,9,10,13,16,17,18,20,24,27,28]
+Alexandria prosecutors ordered the employee and the delivery worker held for four days pending
+investigation and sent the seized drugs to the chemical laboratory. [@14] Another account says the
+Montazah prosecution ordered all three held for four days on charges of drug use and possession of
+hashish for use and trafficking. [@19]

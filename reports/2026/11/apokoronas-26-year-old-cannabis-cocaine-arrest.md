@@ -145,65 +145,37 @@ sources:
     date: 2026-11-08
     language: el
 open_questions:
-  - The exact village in the Municipality of Apokoronas is not named, so district coordinates are used.
-  - The sources call the cannabis only 'kannavi' without saying whether it is herbal or resin, or whether it was for sale.
-  - No estimated street value was published for the cannabis or the cocaine.
-  - No charge sheet or court outcome was reported; the man was to be taken before the prosecutor.
-  - All opened accounts reproduce the same Chania police statement, so they are not independent reporting.
-  - The three photos are from police handout material republished by Νέα Κρήτη; no caption confirms which items each shows.
-  - 'Left out, as its quotation was not found in Νέα Κρήτη: Officers of the Chania drug enforcement department acted on information they had gathered and planned the operation to tackle possession and trafficking of drugs.'
-  - 'Left out, as its quotation was not found in Creta24.gr: Creta24 reported that the drugs were hidden in jars, metal tins and sweet boxes, and that the money had been put in piggy banks.'
-  - Left out agencies, as its quotation was not found in Νέα Κρήτη.
-  - The submitted headline gives the cash as 15.000 euros while its text, and the report, give 15,500 euros; the text figure is used.
-  - Newpost and ApokoronasLife also reproduce the same Chania police statement, so they are not independent reporting of the arrest.
-  - The two photos on the ApokoronasLife page are the same police handout images as those already linked from Nea Kriti and are not added again.
-  - 'Χανιά: Συνελήφθη 26χρονος με ένα κιλό κοκαϊνη και 15.000 ευρώ (ΝΕΟΙ ΟΡΙΖΟΝΤΕΣ) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.'
-  - The three photos on the Newshub page are the same police handout images already linked from Nea Kriti and are not added again.
-  - The Newshub page gives no separate time for the searches beyond the morning of 7 November 2026 in its reproduction of the police announcement.
-  - Newshub and Rethemnos Live reproduce the same Chania police statement as the accounts already cited, so they are not independent reporting of the arrest.
-  - Cretalive reproduces the same Chania police announcement as the accounts already cited, so it is not independent reporting of the arrest.
-  - IraklioNews reproduces the same Chania police statement as the accounts already cited, so it is not independent reporting of the arrest.
-  - The page gives no village within the Municipality of Apokoronas and no separate time for the searches beyond the morning of 7 November 2026.
-  - Maleviziotis.gr calls the 96.8 grams only kannavi, without saying whether it was herbal cannabis or resin, and gives no street value for it.
-  - Maleviziotis.gr reproduces the same Chania police announcement as the accounts already cited, so it is not independent reporting of the arrest.
-  - The page's lead photo shows police handout material without a credit or caption identifying which items it depicts, so it was not added as a new photo of the event.
-  - Cretalive gives no date for the Thursday defence statement; 12 November 2026 is the first Thursday after the Sunday appearance.
-  - The page does not name the judge or court, or say whether the 26-year-old was held in custody while awaiting his statement.
-  - No independent outlet reporting the 8 November appearance was found; Cretalive's own 7 November report reproduces the same Chania police statement, so the remand rests on a single newsroom item.
-  - The Thursday 12 November 2026 hearing date rests on information attributed to zarpanews.gr, not on a prosecutor's or court announcement; neither page reports what happened at that appearance.
-  - Both open pages reproduce the same Chania police information on the 7 November raid, so they are not independent reporting of the operation.
-  - The cannabis is described only as kannavi (96.8 grams) without saying whether it is herbal or resin, and no charge sheet or detention order has been published.
-  - The court in Chania that will hear the case is not named beyond the investigating judge.
-  - Documento News gives the arrest as in an area of the Municipality of Apokoronas but, unlike Πρώτο Θέμα, does not name Nipos.
-  - Πρώτο Θέμα lists the handwritten note among the seized items but does not say whether it was found at the house or at one of the storage places.
-  - 'Left out, as its quotation was not found in Documento News: Police in the Municipality of Apokoronas, Chania, on Crete arrested a 26-year-old Greek man on the morning of 7 November 2026 after searches of his home and of storage places he used.'
-  - The page gives no exact date for the Thursday defence statement; it reproduces the same information already recorded from Cretalive and zarpanews.gr.
-  - The outlet credits cretalive.gr as its source and reproduces the same Chania police announcement, so it is not an independent account of the raid.
+  - No value was published for the cannabis or the cocaine.
+  - The Thursday of his defence statement is not dated, and its outcome has not been reported.
+  - It is not said whether he was held in custody while awaiting the investigating judge.
+  - The associates police suspected have not been identified.
+  - One headline gives the cash as 15,000 euros; the texts give 15,500.
+  - Every account reproduces the same Chania police statement.
 ---
 
-Police in the Municipality of Apokoronas, Chania, on Crete arrested a
-26-year-old Greek man on the morning of 7 November 2026 after searches of his
-home and of storage places he used. [@1,4,6,9,11] The searches were made in the house and
-in places the 26-year-old used as storage points, which the accounts call
-kavatzas, a Greek term for a hiding place or stash. [@2,10,13,17,18]
+Police in the Municipality of Apokoronas, Chania, on Crete arrested a 26-year-old Greek man on the
+morning of 7 November 2026 after searches of his home and of storage places he used.
+[@1,4,6,9,11] The accounts call these stores kavatzas, a Greek term for a hiding place or stash.
+[@2,10,13,17,18] The house was a secluded one in the community of Nipos, which police said was used
+to store and distribute drugs [@8,9,15], and a drug-detection dog took part in the search. [@8,9]
+Before the operation officers of the Chania security police had followed the man's movements by car,
+and no one else was identified during the surveillance. [@15]
 
-The searches found and seized 96.8 grams of cannabis, which is the only cannabis
-quantity the accounts give. [@1,5,6,7,9,12,13,15,17,18] Police also seized 1 kilo and 173.1 grams of
-cocaine in 14 improvised packages, a quantity that is not counted as cannabis
-here. [@1,5,6] Officers seized 15,500 euros that police said came from criminal
-activity. [@1,4,18] The accounts also list a weighing scale, three mobile phones and
-a private car seized as a means of facilitating the alleged crime. [@1]
+## What was seized
 
-The man was arrested for offences under the drug laws and was to be taken before
-the competent prosecutor. [@3,11,13] The preliminary investigation continued at the
-Chania drug enforcement department. [@1,6,15]
+The searches found 96.8 grams of cannabis, raw herb rather than resin, the only cannabis quantity
+the accounts give. [@1,5,6,7,8,9,12,13,15,17,18] Police also seized 1 kilo and 173.1 grams of cocaine
+in 14 improvised packages, not counted as cannabis here. [@1,5,6] Officers seized 15,500 euros that
+police said came from criminal activity [@1,4,18], a weighing scale, three mobile phones, a private car
+used in the alleged crime [@1], and a handwritten note listing sums of money. [@9] Police said the man
+was suspected of receiving, holding and passing on cocaine and cannabis, possibly with unknown
+associates who were still being sought. [@8]
 
-The cannabis the man was found with was raw cannabis, the herb rather than resin. [@8,9] The searches were made at a secluded house in the community of Nipos, in the Municipality of Apokoronas, which police said was used to store and distribute drugs. [@8,9,15] A drug-detection dog took part in the search of the house. [@8,9] Police said the man was suspected of receiving, holding and passing on quantities of cocaine and cannabis, possibly with unknown associates still being sought. [@8]
+## Court
 
-Rethemnos Live, reproducing the same Chania police announcement, describes the arrested 26-year-old as an ethnic Greek national (ημεδαπός). [@1]
-
-The man was led before the judicial authorities on Sunday 8 November 2026, the day after his arrest. [@14,16,18] He asked for and was granted a postponement to make his defence statement on Thursday. [@14,15,18] The police investigation into the case continued while he awaited his appearance. [@14,15]
-
-According to information from zarpanews.gr, the 26-year-old was to appear before the Chania investigating judge (ανακριτής, the judge who leads the pretrial inquiry) on Thursday to give his statement. [@15] Before the operation the police of the Chania sub-directorate for the detection and investigation of crimes (Ασφάλεια) had followed the young man's movements by car, and no other people were identified during the surveillance. [@15] During the surveillance no other people connected with his movements were identified. [@15]
-
-Police also seized a handwritten note listing sums of money alongside the three mobile phones. [@9] The arrested man was taken into custody under the procedure for offences caught in the act, aftoforo, and was expected to be taken before the judicial authorities. [@9]
+He was arrested under the procedure for offences caught in the act (aftoforo) and was to be taken
+before the competent prosecutor. [@3,9,11,13] The preliminary investigation continued at the Chania
+drug enforcement department. [@1,6,15] He was brought before the judicial authorities on Sunday 8
+November 2026 [@14,16,18] and was granted a postponement to give his defence statement on Thursday
+[@14,15,18] to the Chania investigating judge, the judge who leads the pretrial inquiry. [@15] The
+police investigation continued meanwhile. [@14,15]
