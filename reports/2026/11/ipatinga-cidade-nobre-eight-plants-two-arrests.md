@@ -70,6 +70,11 @@ sources:
     publisher: Vale 24 Horas
     date: 2026-11-09
     language: pt
+  - title: Homem foge de escolta penal no Hospital de Ipatinga e, nas buscas, PM localiza plantas de maconha
+    url: https://www.itatiaia.com.br/valedoaco/homem-foge-de-escolta-penal-no-hospital-municipal-de-ipatinga-e-nas-buscas-pm-localiza-plantas-de-maconha/
+    publisher: Rádio Itatiaia
+    date: 2026-11-09
+    language: pt
 open_questions:
   - No weight or value was given for the cannabis portion and cigarette found with the plants.
   - The substance described as similar to cocaine is not cannabis and is not counted in the figures.
@@ -84,20 +89,22 @@ open_questions:
 Military Police officers were tracking a man who had escaped from a prison
 escort at the Municipal Hospital in Ipatinga on the night of Sunday 8 November
 2026. [@1] Searching the Cidade Nobre neighbourhood, officers grew suspicious of
-four men near a house and went to question them. [@1] A search of the house
+four men near a house and went to question them. [@1,4] A search of the house
 found a small cannabis plantation. [@1]
 
 Police seized eight plants resembling cannabis, a portion of the same herb ready
 for consumption, one cannabis cigarette, a portion of a substance similar to
-cocaine and 5 reais in cash. [@1,3] A 31-year-old man said the plants were his and
-was arrested for drug trafficking. [@1,3]
+cocaine and 5 reais in cash. [@1,3,4] A 31-year-old man said the plants were his and
+was arrested for drug trafficking. [@1,3,4]
 
 Checking the identities of the others at the house, officers found that a
 35-year-old man had an open arrest warrant issued by a court, and he was also
-detained. [@1,3] The two detainees and the seized material were taken to the Civil
+detained. [@1,3,4] The two detainees and the seized material were taken to the Civil
 Police station in Ipatinga for the duty police chief to handle. [@1] The
 Military Police did not say why the arrest warrant had been issued or give
 details of the case behind it. [@2] The police record does not say whether the
 man who escaped from the hospital escort was found during the operation. [@2]
 
 The operation began at about 9pm on Sunday 8 November 2026, when officers pursued a man who had fled a penal escort at the Municipal Hospital and approached four men near a house in Cidade Nobre. [@3]
+
+The hospital the man escaped from was the Hospital Municipal Eliane Martins in Ipatinga. [@4]
