@@ -143,6 +143,11 @@ sources:
     publisher: Harian Metro
     date: 2026-11-09
     language: ms
+  - title: 3 Rakyat Malaysia Dicekup Di Mauritius, 76Kg Ganja Bernilai Hampir RM100 Juta Dirampas
+    url: https://newswav.com/article/3-rakyat-malaysia-dicekup-di-mauritius-76kg-ganja-bernilai-hampir-rm100-jut-A2611_LE4RjH
+    publisher: Newswav (Getaran)
+    date: 2026-11-09
+    language: ms
 open_questions:
   - The article was published on 4 November 2026 but dates the seizure to “ce mardi”, so 3 November 2026 is used as the incident date.
   - No amount or currency was given for the seized foreign currency, so no value is recorded.
@@ -188,14 +193,17 @@ open_questions:
   - The report carries no photo of the seizure; its only picture is captioned GAMBAR HIASAN (illustration), so none was added.
   - The submitted page is a Harian Metro AI-generated summary of an article already cited; it adds a new page address rather than new reporting.
   - The page's accompanying pictures are captioned GAMBAR HIASAN (illustration) and a portrait of an unrelated musician, so no media entry is added.
+  - Getaran credits the account to Mauritian media and the Mauritius Revenue Authority, so it restates reporting already cited rather than independently confirming it.
+  - Getaran gives 76.14 kg and about RM9.87 million, and says the Revenue Authority announced the case 'last Wednesday', which would place the statement after the 2 November arrest.
+  - Getaran gives 17.8 kg for the separate 23 October Malaysian cook case, close to the 17.88 kg recorded in that case's own report; the difference is left open.
 ---
 
 Three Malaysian nationals who arrived on flight EK 709 from Dubai were searched
-at Plaisance airport. [@1] The three passengers were two men and a woman. [@1,8]
+at Plaisance airport. [@1,19] The three passengers were two men and a woman. [@1,8]
 The three suspects were placed in police detention. [@1,5]
 
 The search by the Anti-Drug and Smuggling Unit and the Customs Anti-Narcotics
-Section found 70 packets of cannabis weighing 76 kilos hidden in suitcases. [@1,6,7,8,12,16]
+Section found 70 packets of cannabis weighing 76 kilos hidden in suitcases. [@1,6,7,8,12,16,19]
 Foreign currency was also seized from the three passengers. [@1] The two units
 then carried out a controlled delivery operation to identify the recipients of
 the drugs. [@1] Those recipients did not come forward. [@1]
