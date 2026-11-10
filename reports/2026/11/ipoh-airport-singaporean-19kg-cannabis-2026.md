@@ -103,6 +103,10 @@ sources:
     url: https://newswav.com/article/singaporean-faces-death-penalty-after-rm1-52m-cannabis-haul-found-at-ipoh-a-A2611_MUcrU2
     publisher: The Vibes, on Newswav
     date: 2026-11-10
+  - title: 29-year-old Singaporean arrested at Ipoh airport over suspected drug smuggling
+    url: https://www.zaobao.com.sg/en/news/sea/29-year-old-singaporean-arrested-ipoh-airport-over-suspected-drug-smuggling
+    publisher: Lianhe Zaobao (English)
+    date: 2026-11-10
 open_questions:
   - The Star gives the value as about RM1.5 million and the New Straits Times as RM1.52 million; the figures use the NST amount.
   - The Star says the man stayed at a hotel in Kajang, while the NST says he collected the drugs there from a supplier; both agree the drugs were picked up in Kajang.
@@ -121,12 +125,7 @@ open_questions:
   - The Straits Times headline converts the value to S$473,000 from about RM1.5 million; the report uses the New Straits Times figure of RM1.52 million.
   - The page describes the material as dried marijuana flowers; no laboratory confirmation was reported.
   - This account converts the promised S$4,000 wage to about RM12,600, against about RM12,690 and RM12,686.68 in other accounts; no wage amount is recorded in the figures.
-  - News.az gives the value as about RM1.5 million (S$473,000); the existing report uses RM1.52 million from the New Straits Times, a difference already noted as an open question.
-  - The Vibes describes the luggage as holding suspected cannabis flowers without reporting laboratory confirmation, in line with other accounts.
-  - This account gives the arrest day only as Sunday and does not say when the seven-day remand began.
-  - The page's lead image is a generic stock-style picture filed under a cover name with no caption on the arrest, so no media entry is added.
-  - Zaobao English converts the value to about S$473,000 from about RM1.5 million, in line with other accounts; the report uses the New Straits Times figure of RM1.52 million.
-  - The page is an AI-assisted translation of The Star's report and states that names may be transliterated; it is not an independent account.
+  - Lianhe Zaobao's English page is an AI-assisted translation of The Star's report and says names may be transliterated, so it is not an independent account.
 media:
   - kind: photo
     url: https://www.malaymail.com/news/malaysia/2026/11/10/singaporean-lured-by-rm12685-job-offer-arrested-remanded-seven-days-over-rm15m-cannabis-haul-at-ipoh-airport/242670
@@ -146,10 +145,10 @@ media:
 ---
 
 Perak police arrested a 29-year-old unemployed Singaporean man at Sultan Azlan
-Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13] Auxiliary police at the
+Shah Airport in Ipoh at 6.20am on 8 November 2026. [@1,3,10,12,13,14] Auxiliary police at the
 check-in counter searched his baggage and found 36 plastic packages holding
-19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12] Police valued the cannabis at about
-RM1.5 million. [@1,3,10,12,13] The New Straits Times put the weight at 19.04kg and the
+19,040g of dried marijuana flowers. [@1,3,6,8,9,10,11,12,14] Police valued the cannabis at about
+RM1.5 million. [@1,3,10,12,13,14] The New Straits Times put the weight at 19.04kg and the
 value at RM1.52 million, an amount police said was enough to supply 47,900 drug
 users. [@2]
 
@@ -165,7 +164,7 @@ Perak police chief Comm Datuk Mohd Alwi Zainal Abidin said syndicates
 increasingly use less busy airports such as Ipoh, which has one daily flight to
 Singapore, to traffic drugs abroad. [@2,3,5,10,11] The man was remanded for seven days
 from 9 November under Section 39B of the Dangerous Drugs Act 1952, which carries
-a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13]
+a death sentence or life imprisonment with caning on conviction. [@1,3,4,5,9,10,12,13,14]
 
 The man arrived in Ipoh on 7 November after picking up the load in Kajang and travelling by e-hailing car. [@3,5]
 
