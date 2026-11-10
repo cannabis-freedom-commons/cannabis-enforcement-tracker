@@ -86,21 +86,18 @@ sources:
     publisher: Comando General de las Fuerzas Militares de Colombia
     date: 2026-11-10
     language: es
-open_questions:
-    - No arrests, detentions, suspects or court outcomes were reported for this seizure.
-    - No commercial value or intended destination for this specific shipment was reported.
-    - The weight was reported as approximately 2,700 kilograms, not an exact measured figure.
-    - The substance was described only by its physical characteristics as resembling marijuana, with no laboratory confirmation reported.
-    - EFE identifies the Comandos de la Frontera as part of the Coordinadora Nacional Ejército Bolivariano dissidence, while other reports refer to Segunda Marquetalia.
-    - The Minuto30 article also recalls a July seizure of more than 12.5 tonnes at La Esmeralda wharf and a May seizure of more than 10 tonnes in rural houses in Puerto Asís; those are different events left out here.
-    - The EFE dispatch also notes a separate 3,997-kilogram marijuana seizure in Cauca from the previous Saturday, which is recorded in another report.
+  - title: Incautan 2,7 toneladas de marihuana en el departamento colombiano de Putumayo - SWI swissinfo.ch
+    url: https://www.swissinfo.ch/spa/incautan-2%2c7-toneladas-de-marihuana-en-el-departamento-colombiano-de-putumayo/92359068
+    publisher: SWI swissinfo.ch
+    date: 2026-11-10
+    language: es
 ---
 
 Colombia's National Army reported on 10 November 2026 that 2.7 tonnes of
 marijuana had been seized from a bongo remolcador, a river tugboat, during a
-military operation in Puerto Asís, Putumayo. [@1] The interinstitutional
+military operation in Puerto Asís, Putumayo. [@1,7] The interinstitutional
 operation took place at the Hong Kong wharf in Puerto Asís, where authorities
-located the vessel. [@2,4,5,6] During the procedure, officers seized the boat and
+located the vessel. [@2,4,5,6,7] During the procedure, officers seized the boat and
 found about 2,700 kilograms of a substance that by its physical characteristics
 resembles marijuana. [@2,5,6]
 
