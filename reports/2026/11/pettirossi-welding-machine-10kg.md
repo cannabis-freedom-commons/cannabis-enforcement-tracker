@@ -56,10 +56,16 @@ sources:
     publisher: Diario HOY
     date: 2026-11-09
     language: es
+  - title: Perro antidrogas detectó marihuana
+    url: https://www.lanacion.com.py/pais_edicion_impresa/2026/11/10/perro-antidrogas-detecto-marihuana/
+    publisher: La Nación (Paraguay)
+    date: 2026-11-10
+    language: es
 open_questions:
   - Prensa Mercosur and Hoy report the parcel as sent from Florida with inner packs labelled California, while La Nación says it arrived from the state of California; the report keeps both accounts without reconciling the origin.
   - No suspect, sender, recipient, arrest or charge was named in the accounts opened.
   - La Nación calls the material substance that would be marijuana (que sería marihuana); no laboratory confirmation, street value or court outcome was reported.
+  - 'Left out, as its quotation was not found in La Nación (Paraguay): Special agents of Paraguay''s National Anti-Drug Secretariat (SENAD) and detector dogs seized 10 kg of marijuana in the cargo area of Silvio Pettirossi International Airport.'
 ---
 
 Special agents of Paraguay's National Anti-Drug Secretariat (SENAD) and detector
@@ -70,7 +76,7 @@ welding equipment during routine cargo checks. [@3] Prosecutor María Irene
 official opening and inspection. [@1]
 
 The marijuana was hidden inside the metal structure of equipment presented as an
-industrial welding machine. [@1] Officers found the load divided into several
+industrial welding machine. [@1,4] Officers found the load divided into several
 packages inside the welder, with labels referring to California. [@1] The parcel
 was reported as sent from Florida in the United States. [@1] La Nación reported
 the same interception and put the total at 10 kg, describing the parcel as an
@@ -83,5 +89,4 @@ such as fungi of the genus Aspergillus. [@1] Inhaling the spores poses a
 significant respiratory risk, especially for people with weakened immune
 systems. [@1] The case remains under investigation by the Public Ministry and
 SENAD to identify those responsible for the load destined for the local market.
-[@1]
-
+[@1,4]
