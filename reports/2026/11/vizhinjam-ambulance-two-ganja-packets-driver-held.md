@@ -50,25 +50,30 @@ sources:
     publisher: GTV News
     date: 2026-11-09
     language: ml
+  - title: പുറമെ കണ്ടാൽ ആംബുലൻസ് സര്‍വീസ്, മറയാക്കി നടക്കുന്നത് കഞ്ചാവ് കടത്ത്, തിരുവനന്തപുരത്ത് യുവാവ് പിടിയിൽ
+    url: https://www.asianetnews.com/local-news/man-arrested-in-thiruvananthapuram-for-smuggling-ganja-under-the-guise-of-an-ambulance-servic-articleshow-7z51249
+    publisher: Asianet News Malayalam
+    date: 2026-11-10
+    language: ml
 open_questions:
-  - No weight for the two ganja packets was published, only their Rs 500 estimated value.
-  - No separate date for the search or the arrest was given, so the 10 November 2026 publication date stands in for the incident.
-  - No charges, case registration or court outcome were reported.
-  - The two outlets carry 9 and 10 November 2026 dates for the same account; 10 November is used as the incident date.
+    - No weight for the two ganja packets was published, only their Rs 500 estimated value.
+    - No separate date for the search or the arrest was given, so the 10 November 2026 publication date stands in for the incident.
+    - No charges, case registration or court outcome were reported.
+    - The two outlets carry 9 and 10 November 2026 dates for the same account; 10 November is used as the incident date.
+    - Outlets report differing names and residences for the suspect, identifying him either as Abhilash from Peringammala or S.S. Abhijith of Abhilash Bhavan in Kalliyoor.
 ---
 
 Police at Vizhinjam in Thiruvananthapuram arrested ambulance driver Abhilash,
 aged 23 and a native of Peringammala, after finding ganja inside his ambulance.
 [@1] The ambulance was parked near a hospital when officers searched it as part
 of an Operation Toofan check. [@1] Officers acted on a tip-off that ganja was
-being sold from an ambulance based in Vizhinjam. [@1]
+being sold from an ambulance based in Vizhinjam. [@1,3]
 
 They recovered two small packets of ganja, which police valued at Rs 500, hidden
 under the ambulance's seat. [@1] A second outlet confirms that the two small
 packets found under the seat were worth Rs 500. [@2] Police say Abhilash
-repacked ganja into small packets and sold them inside the ambulance. [@1]
+repacked ganja into small packets and sold them inside the ambulance. [@1,3]
 
 He did so after bringing patients to the hospital, according to the police
 account. [@2] Police took both Abhilash and the ambulance into custody when the
-vehicle was drawn up in front of the hospital. [@2]
-
+vehicle was drawn up in front of the hospital. [@2,3] A squad led by Fort Assistant Commissioner Pradeep monitored him from the morning and detained him in the evening before handing him over to Vizhinjam police. [@3]
