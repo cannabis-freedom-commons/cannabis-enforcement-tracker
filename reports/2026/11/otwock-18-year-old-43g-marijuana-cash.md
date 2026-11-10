@@ -64,6 +64,11 @@ sources:
     publisher: KPP w Otwocku (Portal polskiej Policji)
     date: 2026-11-10
     language: pl
+  - title: 'Otwock: 18-latek zatrzymany z 43 gramami marihuany | Otwock | TuStolica.pl'
+    url: https://tustolica.pl/otwock-18-latek-zatrzymany-z-43-gramami-marihuany_97336
+    publisher: TuStolica.pl
+    date: 2026-11-10
+    language: pl
 open_questions:
   - The article gives no separate date for the detention or the search; 10 November 2026 is its publication date and is used as the incident date.
   - The 43 grams is described as marijuana with no laboratory confirmation reported.
@@ -74,17 +79,16 @@ open_questions:
 ---
 
 Officers of the criminal division of the Otwock county police, working on drug
-crime, detained an 18-year-old resident of Otwock. [@1] The arrest followed
+crime, detained an 18-year-old resident of Otwock. [@1,2] The arrest followed
 operational work by the Otwock detectives against drug crime in the county, who
 tracked the teenager down. [@1]
 
 During a search of his home, officers seized 43 grams of marijuana and 1,700
-złoty in cash. [@1] The teenager was suspected of possessing significant
+złoty in cash. [@1,2] The teenager was suspected of possessing significant
 quantities of intoxicating substances. [@1]
 
 The Otwock district prosecutor's office, the Prokuratura Rejonowa, opened an
-investigation into the case. [@1] He was charged with possessing a significant
-quantity of intoxicating substances. [@1] By decision of the prosecutor, the
+investigation into the case. [@1,2] He was charged with possessing a significant
+quantity of intoxicating substances. [@1,2] By decision of the prosecutor, the
 suspect was placed under police supervision, a bail-type measure under which he
-must report to police and may not leave his place of residence. [@1]
-
+must report to police and may not leave his place of residence. [@1,2]
