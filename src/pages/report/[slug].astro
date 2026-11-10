@@ -50,6 +50,7 @@ const fmtChangeDate = (d) => d.length === 10 ? new Date(`${d}T00:00:00Z`).toLoca
 // docs/WRITING.md §7); videos and photos without one stay links
 const shown = (r.media ?? []).map((m) => ({ ...m, view: mediaView(m), photo: m.kind === "photo" ? photoOf(m.media_url) : null })).filter((m) => m.view);
 const linked = (r.media ?? []).filter((m) => !mediaView(m));
+const SOURCES_SHOWN = 8; // the sources listed before "Show all"
 const languageName = (code) => new Intl.DisplayNames(["en"], { type: "language" }).of(code);
 // the Landrace.wiki growing areas and regions the place lies in, when it is known closely enough
 // (a province or a country centre says nothing about where in it)
@@ -179,19 +180,28 @@ const jsonLd = [{
     )}
 
     <h2 id="sources">Sources</h2>
-    <ol class="sources">
-      {cited.map((s, i) => (
-        <li id={`ref-${i + 1}`}>
-          {s.authors && <>{s.authors.join(", ")}. </>}
-          {s.url ? <a href={s.url} class="ext" target="_blank" rel="noopener noreferrer">{s.title}</a> : <cite>{s.title}</cite>}.
-          {s.container && <> In <cite>{s.container}</cite>.</>}
-          {" "}{s.publisher}{s.date ? `, ${formatDate(s.date)}` : s.year ? `, ${s.year}` : ""}.
-          {s.locator && <span class="muted"> {s.locator}.</span>}
-          {s.language && <span class="muted"> In {languageName(s.language)}.</span>}
-          {s.archived && <> <a href={s.archived} target="_blank" rel="noopener">Archived copy</a>.</>}
-        </li>
-      ))}
+    {/* one line each: who published it, the site, when, the language and an archived copy; the title
+        is in the tooltip, and in the card a cited passage shows (report-citations.js). Past the first
+        few, the rest wait behind "Show all" (src/scripts/sources-more.js) */}
+    <ol class="sources" data-sources>
+      {cited.map((s, i) => {
+        const domain = s.url ? new URL(s.url).hostname.replace(/^www\./, "") : null;
+        const title = [s.authors?.join(", "), s.title, s.container && `In ${s.container}`, s.locator].filter(Boolean).join(". ");
+        const lang = s.language ? languageName(s.language) : null;
+        return (
+          <li id={`ref-${i + 1}`} data-n={i + 1} class:list={["src", { "src-extra": i >= SOURCES_SHOWN }]}>
+            {s.url
+              ? <a class="src-link" href={s.url} target="_blank" rel="noopener noreferrer" title={title}><span class="src-pub">{s.publisher || domain}</span>{domain && s.publisher && <span class="src-domain">{domain}</span>}</a>
+              : <span class="src-link" title={title}><span class="src-pub">{s.publisher || s.title}</span></span>}
+            {(s.date || s.year) ? <time class="src-date" datetime={s.date ? isoDate(s.date) : String(s.year)}>{s.date ? s.date.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric", timeZone: "UTC" }) : s.year}</time> : <span class="src-date is-empty"></span>}
+            {lang ? <abbr class="src-lang" title={`In ${lang}`}>{s.language.toUpperCase()}</abbr> : <span class="src-lang is-empty"></span>}
+            {s.archived ? <a class="src-arch" href={s.archived} target="_blank" rel="noopener" title="Archived copy"><Icon name="archive" /><span class="sr-only">Archived copy</span></a> : <span class="src-arch is-empty"></span>}
+            <span class="src-title" dir="auto" lang={s.language ?? undefined}>{title}</span>
+          </li>
+        );
+      })}
     </ol>
+    {cited.length > SOURCES_SHOWN && <button type="button" class="sources-more" data-sources-more data-label={`Show all ${cited.length} sources`}>Show all {cited.length} sources</button>}
     {r.open_questions?.length > 0 && <section class="report-questions" aria-labelledby="open-questions">
       <h2 id="open-questions">Open questions the AI reported</h2>
       <ul>{r.open_questions.map(question => <li>{question}</li>)}</ul>
@@ -263,7 +273,7 @@ const jsonLd = [{
   )}
 </Base>
 
-<script>import "../../scripts/report-citations.js";</script>
+<script>import "../../scripts/report-citations.js"; import "../../scripts/sources-more.js";</script>
 {r.submission && <script>import "../../scripts/report-submission.js";</script>}
 {shown.some((m) => m.view.type === "photo") && <script>import "../../scripts/media-viewer.js";</script>}
 {shown.some((m) => m.view.type !== "photo") && <script>import "../../scripts/video-facade.js";</script>}

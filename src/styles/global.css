@@ -281,10 +281,28 @@ sup.cite a { color: var(--cite); text-decoration: none; }
 @media (max-width: 560px) { .report-item .thumb { width: 96px; height: 70px; margin-left: 12px; } }
 /* the home page's map pane: smaller thumbnails */
 .browser.compact .report-item .thumb, .home-pane .report-item .thumb { width: 84px; height: 60px; margin-left: 12px; }
-.sources { padding-left: 22px; font-size: 14px; color: var(--text-2); }
-.sources li { margin-bottom: 8px; scroll-margin-top: 80px; }
-.sources li:target { color: var(--text); }
-.sources a { color: var(--text); }
+/* a report's sources (report/[slug].astro): a compact numbered grid, one line each, with who
+   published it, the site, the date, the language and an archived copy; the title in the tooltip */
+.sources { display: grid; margin: 0; padding: 0; list-style: none; font-size: 14px; color: var(--text-2); }
+.sources:not(.all) .src-extra:not(:target) { display: none; }
+.sources-more { margin-top: 10px; padding: 6px 12px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--r); color: var(--text-2); font: 12px var(--mono); cursor: pointer; }
+.sources-more:hover { color: var(--text); border-color: var(--text-2); }
+.sources li { scroll-margin-top: 80px; }
+.sources .src { display: grid; grid-template-columns: 2.4ch minmax(0, 1fr) auto 2.6em 14px; align-items: baseline; gap: 10px; min-width: 0; padding: 8px 6px; border-bottom: 1px solid var(--border); }
+.sources .src-lang, .sources .src-arch { justify-self: end; }
+.sources .is-empty { visibility: hidden; border: 0; }
+.sources .src::before { content: attr(data-n); text-align: right; font: 600 11px var(--mono); color: var(--cite); }
+.sources .src:target, .sources .src:hover { background: var(--surface); }
+.src-link { display: flex; align-items: baseline; gap: 10px; flex: 1; min-width: 0; color: var(--text); white-space: nowrap; overflow: hidden; }
+a.src-link:hover .src-pub { text-decoration: underline; }
+.src-pub { overflow: hidden; text-overflow: ellipsis; }
+.src-domain { flex: 0 1 auto; overflow: hidden; text-overflow: ellipsis; color: var(--muted); font: 11.5px var(--mono); }
+.src-date { flex: none; color: var(--muted); font: 11.5px var(--mono); white-space: nowrap; }
+.src-lang { flex: none; padding: 0 4px; border: 1px solid var(--border); border-radius: 3px; color: var(--text-2); font: 10px/1.5 var(--mono); text-decoration: none; cursor: help; }
+.src-arch { flex: none; display: inline-flex; color: var(--muted); }
+.src-arch:hover { color: var(--text); }
+.src-arch svg { width: 14px; height: 14px; }
+.src-title { display: none; }
 .side-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 32px; }
 @media (max-width: 700px) { .side-grid { grid-template-columns: 1fr; } }
 .note { font-size: 13px; color: var(--muted); }

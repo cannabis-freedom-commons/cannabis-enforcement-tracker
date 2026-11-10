@@ -42,6 +42,10 @@
 .cite-card-list li + li { border-top: 1px solid var(--border); }
 .cite-card-list li::marker { font: 600 11px var(--mono); color: var(--cite); }
 .cite-card-list a { color: var(--text); }
+/* a source in the card: its line from the list, then its full title */
+.cite-card-list .src-domain, .cite-card-list .src-date, .cite-card-list .src-lang, .cite-card-list .src-arch { margin-left: 6px; }
+.cite-card-list .is-empty { display: none; }
+.cite-card-list .src-title { display: block; margin-top: 3px; color: var(--text-2); font-size: 12.5px; line-height: 1.45; }
 
 /* at a glance, under the title: the main numbers, then who, what and how far, in one quiet band */
 .glance { margin: 24px 0; padding: 16px 0; border-block: 1px solid var(--border); }

@@ -7,6 +7,7 @@
 // A click with a modifier key, or the middle button, still opens the full page.
 import { initMediaViewers } from "./media-viewer.js";
 import "./video-facade.js";
+import "./sources-more.js";
 
 const pane = document.getElementById("report-pane");
 const home = pane?.closest(".home-pane");

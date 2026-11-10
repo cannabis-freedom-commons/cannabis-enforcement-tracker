@@ -163,7 +163,6 @@
 .rpane-body .prose { font-size: 15px; line-height: 1.65; }
 .rpane-body .cover img { width: 100%; height: auto; border-radius: var(--r); }
 .rpane-body .glance { margin: 16px 0; }
-.rpane-body .sources { padding-left: 20px; font-size: 13px; line-height: 1.5; color: var(--text-2); }
-.rpane-body .sources li { margin-bottom: 6px; }
+.rpane-body .sources { grid-template-columns: 1fr; font-size: 13px; }
 /* the whole report in the list opens it in the pane */
 .home-pane .report-item { cursor: pointer; }
