@@ -52,6 +52,11 @@ sources:
     publisher: Diario Tijuana
     date: 2026-11-10
     language: es
+  - title: Aseguran a menor por presunta venta de cigarrillos con marihuana en secundaria
+    url: https://ndtnoticiasdetijuana.com/menor-asegurado-venta-marihuana-secundaria-libertad/
+    publisher: NDT Noticias de Tijuana
+    date: 2026-11-10
+    language: es
 open_questions:
   - No count of the cigarettes and no weight of the suspected marijuana were published.
   - No separate date for the intervention was given; 10 November 2026 is the publication date of both reports.
@@ -61,21 +66,20 @@ open_questions:
 ---
 
 Tijuana municipal police detained a minor accused of selling marijuana
-cigarettes inside a secondary school in Tijuana. [@1] The school is a secondary
+cigarettes inside a secondary school in Tijuana. [@1,3] The school is a secondary
 school in colonia Libertad, where a student was allegedly offering the
 cigarettes to other students, according to the municipal security secretariat
-SSPCM. [@1] With the school authority's permission, officers entered the
+SSPCM. [@1,3] With the school authority's permission, officers entered the
 premises and teaching staff identified the adolescent as the alleged seller.
-[@1]
+[@1,3]
 
 During the check officers found a case holding several cigarettes containing a
-substance with characteristics similar to marijuana. [@1] In the mother's
+substance with characteristics similar to marijuana. [@1,3] In the mother's
 presence, officers seized the substance and money allegedly earned from the
-sales. [@1] The minor was then handed over to the investigative authority, which
-will determine his legal situation under the applicable law. [@1]
+sales. [@1,3] The minor was then handed over to the investigative authority, which
+will determine his legal situation under the applicable law. [@1,3]
 
 A second Tijuana outlet confirms municipal police were called about the alleged
 sale at the colonia Libertad secondary school. [@2] The SSPCM urged mothers and
 fathers to strengthen communication with their children about the legal and
-health risks of possessing, using and selling illicit substances. [@2]
-
+health risks of possessing, using and selling illicit substances. [@2,3]
