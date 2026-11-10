@@ -94,20 +94,35 @@ sources:
     date: 2026-05-31
     language: es
 open_questions:
-  - Only InSight Crime's Spanish account and its English edition could be opened; no separate SENAD or prosecutor's statement was opened directly.
-  - The total number of people detained is ambiguous because Brown's brief detention and the three United States citizens remaining in custody overlap in time, so the arrested figure records only the three reported as remaining in custody.
-  - ABC Color and Clarín say the three people remaining in custody were charged with international drug trafficking; no custody ruling, plea or court outcome was reported, and no charge document was opened.
-  - No arrest of Keith Siilats was reported; only an arrest warrant for international drug trafficking and unauthorized possession was reported.
+  - >-
+    The total number of people detained is ambiguous because Brown's brief detention and the three
+    United States citizens remaining in custody overlap in time, so the arrested figure records only
+    the three reported as remaining in custody.
+  - >-
+    The three people remaining in custody were reported as charged with international drug
+    trafficking; no custody ruling, plea or court outcome was reported.
+  - >-
+    No arrest of Keith Siilats was reported; only an arrest warrant was reported, while Infobae said
+    he was not charged and had left Paraguay on a commercial flight before the operation.
   - Panama's investigation into the aircraft's stopover was still under way with no outcome reported.
-  - The US$3.6 million is the authorities' estimated value for the Brazilian market, not an independently verified market value.
-  - 'Left out, as its quotation was not found in InSight Crime: The English edition confirms that Paraguayan authorities found 261.6 kilograms of marijuana with high-THC content valued at $3.6 million being unloaded from the private jet at Asuncion''s Silvio Pettirosi International Airport on May 29.'
-  - Infobae reports the load as 262.6 kg in the EFE-based account and more than 261 kilos in its lead; the report keeps 261.6 kg from InSight Crime, so the conflicting weight is not added as a figure.
-  - Infobae, citing EFE, says the aircraft landed on Friday and the seizure was on Saturday; Clarín dates the arrests to the night of Saturday 30 May, and Correo del Sur and El Horizonte also put the operation on Saturday, while the report dates the discovery to 29 May.
-  - Infobae attributes Brown's release to the prosecutor's finding that there were no grounds to suspect him, and gives his age as 21; the report says he was 20 and that a SENAD representative said investigators found no evidence he knew about the drugs.
-  - Infobae says Keith Siilats was not charged and left Paraguay on a commercial flight before the operation; the report records an arrest warrant against him, and El Horizonte says the Saturday-morning departure rests on intelligence still being checked.
-  - The new names, detention order and charter payment rest on Infobae's summary of EFE, AP and ABC; no SENAD, prosecutor or court document was opened directly.
+  - >-
+    The US$3.6 million is the authorities' estimated value for the Brazilian market, not an
+    independently verified market value.
+  - >-
+    Infobae reports the load as 262.6 kg in the EFE-based account and more than 261 kilos in its
+    lead; the report keeps 261.6 kg from InSight Crime.
+  - >-
+    Infobae, citing EFE, says the aircraft landed on Friday and the seizure was on Saturday; Clarín
+    dates the arrests to the night of Saturday 30 May, while the report dates the discovery to
+    29 May.
+  - >-
+    Infobae attributes Brown's release to the prosecutor finding no grounds to suspect him and gives
+    his age as 21; the report says he was 20 and that SENAD found no evidence he knew about the
+    drugs.
   - Clarín says the flight came from Miami and names no Panama stopover; other accounts record a stop in Panama.
-  - RCC says Siilats would be the owner of the aircraft, based on open-source and intelligence material; no ownership document was opened.
+  - >-
+    RCC says Siilats would be the owner of the aircraft; other accounts identify him as the
+    registered owner or pilot without a published ownership document.
 ---
 
 20-year-old influencer and co-pilot Jabari Stephen Brown, known as Captain
