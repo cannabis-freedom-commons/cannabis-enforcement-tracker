@@ -144,12 +144,25 @@ media:
     publisher: CNN
     caption: 'Sri Lankan monks arriving to appear before a court after their arrest in Negombo on 26 April 2026. Photo: Ishara S. Kodikara/AFP/Getty Images via CNN'
 open_questions:
-  - The arrests are dated to the night of 25 April 2026 in some accounts and to 26 April in others.
-  - The haul is given as 110 kg, about 112 kg or 242 pounds, and one account speaks of kush and hashish together without a split.
-  - The value is given as about US$3.5 million or over US$3.45 million (1.1 billion rupees).
-  - 'Accounts describe the organiser differently: a 23rd monk who stayed behind, three monks from a temple in Jamburaliya, a mastermind from Meegahamulla, a monk named Amithananda Thera, or an unnamed businessman sponsor.'
-  - Police said the carriers may not have known what they carried, while medical tests later found that the suspects had used drugs; how many tested positive was not said.
-  - No charges, trial date or outcome beyond the seven-day remand have been reported.
+  - The BBC says the 22 monks were remanded for seven days on the Sunday, but does not say what happened to the 23rd monk arrested in the Colombo suburb.
+  - No charges, trial date or court outcome beyond the remand were reported.
+  - 'The substance description differs: CBS and the BBC report kush cannabis only, while Ada Derana reports more than 110 kg of Kush and Hashish with no split between the two, so a cannabis-only share cannot be separated from that account.'
+  - BBC Sinhala reports that a 23rd monk who allegedly organised the trip was later arrested near Colombo and that police believed the carriers may not have known what they carried; the other opened accounts do not confirm this.
+  - CNN dates the arrests to 26 April, matching the report, while the BBC account cited in the report dates the airport arrival to Saturday 25 April.
+  - CNN gives the estimated value as over US$3.45 million (1.1 billion rupees), below the report's roughly US$3.5 million and the other figures its open questions record.
+  - No charges or court outcome beyond the scheduled Negombo Magistrate's Court appearance were reported.
+  - WION's photo pages use a mix of AFP and stock-library images captioned Pexels and Unsplash, so no event photo from this page is listed as media.
+  - The same article mentions a separate May 2025 arrest of a 21-year-old British woman with 46kg at the same airport, a different event left out here.
+  - The article also mentions heroin and other narcotics smuggled by fishing boats, with no cannabis weight given, so no figure is added.
+  - The article mentions heroin and other narcotics smuggled by small fishing boats as general context with no cannabis weight, a separate matter left out here.
+  - 'No event photo is listed: the page''s captioned image is a December 2022 Thailand greenhouse stock photo, and its second image has no caption tying it to this seizure.'
+  - Arise News gives no calendar date for the arrest or the magistrate appearance, only 'Sunday'; 28 April 2026 is its publication date.
+  - Arise calls the sponsor a businessman whose identity was not disclosed, while other accounts describe an unnamed sponsor and one reported a 23rd monk as organiser; these descriptions are not fully reconciled.
+  - Each monk's share is given as about 11 pounds (approximately 5 kg), which works out slightly above the report's about 110 kg total; the report keeps its original 110 kg figure.
+  - The account says judicial medical tests found the suspects had used drugs but does not say how many tested positive.
+  - No court outcome beyond the remand already recorded is reported for the 22 monks or for Amithananda Thera.
+  - The travel-rule measure was described as reinstating an existing administrative requirement rather than changing a law, so no law change is recorded with it.
+  - The Standard describes indefinite detention without charge for drug suspects and long prison terms as the general legal framework, without stating any charge or outcome specific to these 22 monks, so no charge or court result is recorded from it.
 ---
 
 On the night of 25–26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at

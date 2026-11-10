@@ -165,11 +165,37 @@ sources:
     date: 2026-11-05
     language: hi
 open_questions:
-  - The NDPS section is given as 20(b)(iii)(C) in one account and 20(b)(ii)(C) in others.
-  - No time was given for the interception, and no case number was published.
-  - It is not said whether the three children were charged or dealt with only under juvenile law.
-  - No court decision beyond the judicial remand has been reported.
-  - Several roundups give a combined total with separate seizures in Kanker and Keshkal, which have their own reports.
+  - Neither source says whether the three minors were charged alongside the four named adults or dealt with separately under juvenile law.
+  - Haribhoomi describes the accused as residents of Malkangiri in Odisha who were arrested in Chhattisgarh; the articles do not say where they were produced in court or what the court ordered.
+  - Amar Ujala gives the consignment as 476 kg and Haribhoomi as 476 kg 500 g; the report uses Haribhoomi's more precise weight.
+  - The articles do not give the time of day of the interception or the case number.
+  - Lalluram's image has no caption or descriptive alt text establishing that it shows this seizure, so it is not added as event media.
+  - CGKhabar names no accused and does not mention the three minors, so names and juvenile detail continue to rest on earlier sources.
+  - CGKhabar does not give the Adamvali crossing location, sack and packet count, phones, cash, NDPS section or court-production detail, which continue to rest on earlier sources.
+  - Bhaskar's 884 kg 410 g and 5.92-crore total and its Kanker 70-sack and Keshkal 407.910-kg accounts describe separate actions in other districts and are left out of this Jagdalpur report.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The cannabis was being taken from Odisha toward Uttar Pradesh.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The intercepted white pickup bore registration number CG 17 KL 0411.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The seized escort motorcycle bore registration number OD 30 B 6256.'
+  - Spellings differ only by transliteration across outlets, such as Adawal for Adamvali, Bodhghat for Boghaghat and Kontamadi for Kantamadi, and do not indicate different places.
+  - Navbharat Live puts the tip-off on the morning of 5 November and does not give the hour of the interception itself.
+  - The article names the four adults' fathers but gives no further identifying detail, and does not say whether the three children were formally charged.
+  - ETV Bharat does not say what the court decided when the seven accused were produced before it.
+  - The ETV Bharat page carries one lead image captioned only as ganja worth crores seized in Bastar, credited to ETV Bharat Chhattisgarh, without identifying the load or place shown.
+  - CGKhabar says Jagdalpur police set up strategic checkpoints across the Bastar region, while the existing account describes a single blockade near Adamvali railway crossing; neither explains whether other checkpoints were involved.
+  - The CGKhabar and Janta Se Rishta pages carry no credit for the lead photograph, which is captioned as the seizure but is not attributed to a photographer or agency.
+  - CG Sandesh gives no hour for the interception beyond the morning of 5 November 2026 and publishes no case or seizure-memo number.
+  - The CG Sandesh lead image carries only the headline as caption with no credit, so it is unclear what it depicts.
+  - GSTV gives no weight for the seized ganja, so the 476.5 kg figure continues to rest on earlier sources.
+  - GSTV gives no interception time or case details beyond detention and further legal proceedings.
+  - The page's combined figure of 884 kg 410 g worth about Rs 5.92 crore spans the Jagdalpur, Kanker and Keshkal actions and is not recorded as this event's figure.
+  - Navabharat's page address and English rendering call the seized substance tobacco, while its Hindi text describes ganja throughout.
+  - Navabharat attributes its account to police sources, names no officer and gives no accused names or court detail.
+  - The page photograph is captioned only with the headline and carries no credit, so it cannot be shown to depict this particular load.
+  - The page's combined total of 884 kg 410 g matches the Jagdalpur 476.5 kg and Keshkal 407.91 kg figures exactly, leaving no weighed contribution from the Kanker 70-bag recovery in that total.
+  - The page gives the Kanker and Keshkal actions only as occurring in the past two days and a day earlier, with no separate calendar dates beyond the Jagdalpur tip-off on 5 November.
+  - Rgh News and Bansal News carry the same roundup text, including the tip-off, the pickup registration and the accused's village, so they are not independent accounts of this interception.
+  - The page's combined total of 884 kg 410 g across the Jagdalpur, Keshkal and Kanker actions leaves no weighed contribution from the Kanker recovery, whose sacks were never weighed in the reports available.
+  - This account rounds the seizure to 476 kg while the report retains the more precise 476.5 kg from earlier sources.
 ---
 
 Bastar police arrested seven people and seized 476 kg 500 g of ganja in Jagdalpur on 5 November

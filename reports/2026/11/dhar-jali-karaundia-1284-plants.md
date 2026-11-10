@@ -100,12 +100,26 @@ sources:
     date: 2026-11-05
     language: hi
 open_questions:
-  - No date was given for the Jali raid; 5 November 2026 is the date of the reports.
-  - The Karaundia Khurd grower was not named, and no ages were given.
-  - It is not said whether the plants were destroyed or kept as evidence.
-  - The others named by the Jali grower have not been reported caught.
-  - No court step beyond the cases under the NDPS Act has been reported.
-  - Every account reproduces the Dhar police release.
+  - The article gives no separate date for the two raids; 5 November 2026 is its publication date and is used as the incident date.
+  - No names or ages of the two arrested growers were published.
+  - No court outcome beyond registration of cases under the NDPS Act was reported.
+  - The article does not say whether the seized green plants were destroyed or retained as evidence.
+  - Only one accessible source for this event was found after searches in Hindi and English.
+  - This account gives the second village as करौंदिया खुर्द (Karaundia Khurd), matching the existing record's spelling; no substantive discrepancy was found.
+  - A second article on breakingtube.com carries the same headline and totals and appears to be a reprint of the same police release, so it does not constitute independent corroboration.
+  - The article gives no separate date for the two raids; 5 November 2026 is its publication date.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: Police arrested the Jali accused and registered a case against him at Tanda police station under the Narcotic Drugs and Psychotropic Substances Act.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The Umarban outpost police received a tip from an informer on 4 November that cannabis was growing among cotton and pigeon pea in a Karondiya Khurd field and raided the field after confirming it.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The Manawar station house chief said the Karondiya Khurd action was the tenth against illegal cannabis cultivation under Operation Prahar in the district in two months, with ten cases registered.'
+  - The article gives no separate date for the two raids; 5 November 2026 is its publication date and is used here as the incident date.
+  - The article does not name the two arrested growers, give the field areas or record any court outcome.
+  - Neither account gives a separate date for the Jali raid; 5 November 2026 is the Vocal TV publication date already used as the report's incident date.
+  - The Vocal TV page photo carries no caption beyond the headline and no credit, so it is not established that it shows either of the two fields.
+  - The Nai Dunia report does not give a separate date for either raid; 5 November 2026 is the incident date already used, while the article was published on 6 November 2026.
+  - The article gives no court outcome beyond registration of cases under the NDPS Act.
+  - Ghamasan News reproduces the same Dhar police release as the outlets already cited, so it is not independent reporting of the raids.
+  - The article gives no separate date for either raid; 5 November 2026 is its publication date and the date already used for the incident.
+  - The page's handout photo carries no caption other than the story headline and the tag Dhar Police, so it is not established which of the two fields it depicts.
 ---
 
 Dhar police carried out two raids against illegal cannabis cultivation in Dhar district under Operation

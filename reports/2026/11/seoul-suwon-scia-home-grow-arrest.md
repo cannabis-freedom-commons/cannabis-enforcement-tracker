@@ -205,12 +205,47 @@ sources:
     date: 2026-11-05
     language: ko
 open_questions:
-  - 'Accounts disagree on the order of the arrests and warrants: some say A was arrested on 28 October and detained on 30 October, others put B''s warrant on 30 October and A''s on 1 November, or B''s arrest first.'
-  - Whether the cannabis was sold is not established; A was said to deny distributing it.
-  - No total was published for what the 22-month grow produced.
-  - The receiving office is named either the Suwon District Prosecution Office or the Suwon District Public Prosecutors Office, and no charge filed by prosecutors has been reported.
-  - No court outcome has been reported.
-  - Several articles also report separate drug-smuggling cases, including liquid methamphetamine from Laos, left out of this report.
+  - No plant count, weight or neighbourhood inside Seoul was given; a Suwon office official told the Kyung-in Ilbo the scale could not be disclosed.
+  - 'Whether the cannabis was sold is unresolved: Newsis said he was understood to claim he had not distributed it, while investigators said accomplice inquiries were continuing.'
+  - The English Chosun headline calls him a 20-year-old, but the article body and the Korean reports say only that he is in his 20s.
+  - The only published photo shows the Suwon office building, not the home or the plants, so it was left out.
+  - No court outcome beyond the detention warrant was reported.
+  - The SBS English page is an AI translation and calls both the 28 October order and the court order issued on 30 October “arrest warrants,” while the existing Korean reports distinguish the arrest from a later detention warrant.
+  - The only photo on the SBS page shows a signboard-unveiling ceremony for the Suwon office, not the home or the plants, so it was left out.
+  - Only this one opened source was found for the updated seizure weight and second suspect; no second outlet could be opened.
+  - The English account is AI-translated and says A was detained on 28 October and formally arrested on 30 October, leaving the exact Korean warrant terminology partly unresolved.
+  - No plant count was published, only the dried-cannabis weight.
+  - Whether the cannabis was distributed and the court outcome for both men remain under investigation.
+  - The SBS English account is AI-translated and calls court detention orders 'arrest warrants', so Korean warrant terminology remains partly unresolved.
+  - The article also notes a separate Seoul office transfer of two drug-smuggling suspects on 30 October, a different event left out here.
+  - The page gives no seizure amount, cultivation location, plant count or separate incident date for the cannabis case.
+  - The page notes it was reconstructed from a Newsis dispatch, so it is not independent of the existing Newsis account.
+  - The page also describes a separate Pyeongtaek philopon-manufacturing case and a 2021 Cheongju sentence, different events left out here.
+  - Only the Yonhap report of the 5 November 2026 referral could be found; no second outlet covering the transfer to prosecutors could be opened.
+  - The article names neither the prosecution office that received the two men nor any charges filed by prosecutors beyond the Narcotics Control Act.
+  - The article says B was arrested on 28 October and A on 30 October, the reverse of the dates in the report's earlier account; the Korean referral terminology and the exact arrest sequence remain partly unresolved.
+  - No figure for the floor area of the grow, the market destination of the cannabis or the outcome of any prosecution was published.
+  - Newsis names the receiving office as the Suwon District Public Prosecutors Office (수원지방공소청), while the earlier coverage in this report calls it the Suwon District Prosecution Office, and the two names have not been reconciled.
+  - The only captioned picture on the page shows the agency building, not the grow or the seizure, and the other image addresses carry no captions, so no event photo is added.
+  - Its figures come from an AI-translated account and are consistent with the Korean coverage already cited.
+  - The same article also reports a separate liquid-methamphetamine smuggling arrest involving 3 kg of liquid, a different event left out of this cannabis account.
+  - The Hankook Ilbo report gives no man's age beyond "in his 20s" and does not name the prosecution office that received the men.
+  - Whether the cannabis was sold and what happened to the men after the referral remain unresolved.
+  - No count of how many kilograms of cannabis the 22-month grow produced in total was published.
+  - The Edaily merger of the first two division cases does not say whether both suspects' cases were referred together or separately, though the Korean reports say both went to the prosecutors office on 5 November.
+  - 'Not added to seoul-suwon-scia-privately-run-first-drug-cases, as its quotation was not found in 이데일리: The agency said the referral was the first case its narcotics joint investigation division had investigated itself and handed to prosecutors since the division was set up.'
+  - Edaily says A씨 was sent to prosecutors on 30 October 2026 and B씨 on 1 November 2026, while the report's earlier account of SBS, Segye and Yonhap coverage places A's detention warrant on 1 November and B's on 30 October.
+  - The English page is an AI translation, as it states itself, so the exact Korean wording behind its quotes and its label 'Suwon Serious Crime Investigation Agency' should be read alongside the Korean coverage already cited.
+  - The page's four listed images carry no caption or credit, so it cannot be established that they show the grow site or seizure; the event photo already listed comes from the page's own video still.
+  - 'Left out, as its quotation was not found in 연합뉴스: The narcotics joint investigation division arrested B on 28 October 2026 and A on 30 October 2026, the first time the dates of the two arrests were published.'
+  - The article gives no separate date for the events at the building and does not say whether the men had sold the cannabis or what charge prosecutors filed.
+  - The submitted amp URL carries the same article ID as the canonical Seoul Economic Daily URL already cited in the report, so it is the same account rather than an independent outlet; corroboration comes from the preserved YTN account.
+  - The YTN account also describes a separate 3 kg liquid-methamphetamine smuggling arrest from Laos, a different event left out of this cannabis account.
+  - This account names the receiving office 수원지방공소청 (Suwon District Prosecutors Office), consistent with the report's note but still not reconciled with the 'Suwon District Prosecution Office' wording used in its earlier coverage.
+  - The page gives no arrest or warrant dates and no separate date for the raid, only the 5 November referral.
+  - The only supplied image address carries another outlet's file path with no caption or credit, so it cannot be established as a photo of this grow or seizure.
+  - The article gives no weight, plant count, neighbourhood inside Seoul or value for the cannabis, so no figures are added from it.
+  - The article also reports a separate liquid-narcotics smuggling arrest involving a man in his 40s and an accomplice, which is not identified as cannabis and is left out of this cannabis account.
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008832708

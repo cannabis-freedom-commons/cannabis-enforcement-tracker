@@ -138,12 +138,34 @@ sources:
     date: 2026-11-09
     language: pt
 open_questions:
-  - The road is given as the Raposo Tavares (SP-270) in one account and as kilometre 28 of the SP-327 in others.
-  - The legal cargo is described as meat-and-bone meal in most accounts and as flour in others.
-  - One account dates the arrest to Monday 9 November; the others give Sunday 8 November.
-  - The driver was not named, and his stop in Medianeira rests on his own account.
-  - The 9.1 million reais is the police's estimate of the loss to traffickers.
-  - No charge or court decision beyond the arrest in flagrante has been reported.
+  - No charge or court decision was reported beyond the driver's arrest in flagrante and detention at the Federal Police station in Marília.
+  - The driver's name, age, route and the origin or destination of the load were not published.
+  - The 9.1-million-real figure is a police estimate of losses to drug trafficking, not a confirmed street price.
+  - The article places the stop in Ourinhos but names no road or kilometre.
+  - Voz do Vale describes the seizure as having happened 'na tarde desta semana' rather than naming Sunday, and carries no publication date; the Sunday date comes from the other two outlets.
+  - The three accounts reproduce the same highway police account, so they are not independent reporting of the arrest.
+  - The article gives the stop as about 15:30 on the Raposo Tavares (SP-270) in Ourinhos but names no kilometre.
+  - The PMESP page names the highway as SP-327, while the Voz do Vale account already cited in the report gives the stop as on the Raposo Tavares (SP-270) in Ourinhos; the accounts differ on the road but agree on the place and the Sunday afternoon stop.
+  - The page gives no charge, court decision or release beyond the driver's detention at the Federal Police station in Marília.
+  - Policial Padrão places the stop on the SP-327, matching the PMESP portal already cited, while another account in the same report gives the Raposo Tavares (SP-270); the accounts still differ on the road but agree on the place and the afternoon stop.
+  - Policial Padrão dates the arrest to Monday 9 November, while the highway police account and the other outlets give Sunday 8 November; the report keeps the Sunday date.
+  - The article names the Paraná FICCO branch as a supporting agency; the other accounts already cited describe only the São Paulo branch.
+  - The Federal Police account names no charge or court decision beyond the arrest in flagrante.
+  - Band attributes the 9.1 million reais loss estimate to 'the authorities' generally, rather than specifically to the highway police as the other accounts do.
+  - Band names the road only as the rodovia Orlando Quagliato and gives no kilometre for the stop; it does not mention the SP-270 or SP-327 designations that other accounts give.
+  - The Band report reproduces the same highway-police account as the outlets already cited, so it is not an independent confirmation of the details.
+  - The Band page uses band.com.br/nacional/sp/policia-apreende-45-toneladas-de-maconha-e-fuzil-em-caminhao-em-ourinhos in its other coverage, while this copy sits at band.com.br/nacional/sp/operacao-apreende-45-toneladas-de-maconha-e-fuzil-em-caminhao-em-ourinhos; both carry the same text and photograph credit.
+  - Visão Notícias reproduces the same highway-police account as the outlets already cited, so it is not independent confirmation of the details.
+  - SOT attributes the operation to FICCO/PR together with the São Paulo Military Police and does not mention the Tático Ostensivo Rodoviário (TOR) unit named in the report's other accounts.
+  - SOT places the stop on the SP-327, matching the highway police and PMESP accounts already cited, while another account in the report gives the Raposo Tavares (SP-270); the difference remains.
+  - The article gives no count of tablets and no figure for the value of the load, unlike the accounts already cited, and names no charges against the driver.
+  - The page is a direct republication of the PMESP news agency account already cited in the report, so it is not independent confirmation of the details.
+  - Its lead photo is credited to the PMESP news agency, and its relation to the highway-police handout pictures already linked in the report could not be checked.
+  - Votunews gives rounded figures of 4.5 tonnes and about 5,100 bricks, while the report records the precise 4,535 kg and 5,100 tablets from the highway-police account.
+  - Votunews gives no time of day or kilometre for the stop; it names the road only as the rodovia Orlando Quagliato.
+  - The same page also reports statewide January-September totals of 95 tonnes of drugs and thousands of weapons, a separate balance left out of this event.
+  - The Medianeira stop is the driver's own account, relayed by police; no source says whether investigators verified it.
+  - The CGN page behind this account returned an access error when opened, so the Ubiratã Online republication and Rádio Cultura Foz were used instead.
 ---
 
 Highway police arrested a man in Ourinhos, São Paulo state, on the afternoon of Sunday 8 November 2026

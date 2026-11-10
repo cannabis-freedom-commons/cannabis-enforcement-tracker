@@ -104,13 +104,33 @@ sources:
     publisher: Kalimpong News
     date: 2026-11-08
 open_questions:
-  - The chief minister gave the destroyed area as 300 bighas; one account says about 300 acres, and the size of a bigha varies.
-  - The 10,000 kg is the chief minister's estimate of the crop's yield, not a weighed amount.
-  - No districts, villages or plant counts were given for the destroyed cultivation.
-  - The Rs 64 crore covers all drugs seized; the chief minister's office listed 840 kg of ganja among them, a figure no other account repeats.
-  - It is not said how many of the 378 arrests or 212 cases concerned cannabis.
-  - One account gives cash, disposal and property figures far above those in the chief minister's post.
-  - No court outcome has been reported in any of the cases.
+  - No date is given for individual raids; 7 November 2026 is the date of the announcement and the last day of the drive, and is used as the incident date.
+  - The 10,000 kg is the chief minister's estimate of the yield of the 300 bighas of ganja destroyed, not a weighed amount.
+  - The hectare figure is converted from 300 bighas at 0.16 hectares; bigha sizes vary between states and the source does not state which measure was used.
+  - The drive covered the whole state and the sources name no districts or villages for the destroyed cultivation.
+  - The sources give no figure for the number of cannabis plants destroyed.
+  - The Rs 64 crore value covers heroin, brown sugar, morphine, yaba tablets and codeine syrup as well as ganja, so no separate total for cannabis alone could be recorded.
+  - The chief minister's office post on X listed 840 kg of ganja among the seized drugs; that detail is not added here as a fact.
+  - The Rs 17 lakh in cash may form part of the narcotics and cash total valued at about Rs 64 crore.
+  - The sources do not say how many of the 378 arrests or the 212 cases concerned cannabis rather than other drugs.
+  - No court outcome for any of the 212 cases was reported; the financial investigations and property attachment were at the inquiry stage.
+  - The text gives a weight ("10,000 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The Bengali-language Indian Express account describes the destroyed cultivation as about 300 acres (প্রায় ৩০০ একর জমি) rather than 300 bighas; the report keeps the chief minister's wording, 300 bighas, which the English-language PTI account converts to 99.17 acres.
+  - The Times Kerala page's own image carries only the alt text 'West Bengal Anti Narcotics Drive' with no caption or credit identifying what it shows, so it is not listed as media.
+  - Dinamalar gives no figure for the area of ganja cultivation destroyed or the quantity of ganja seized, so it does not confirm the 300 bighas or 10,000 kg figures.
+  - The opened capture of the Statesman page showed only the headline and standfirst as readable text, with a further body and a 'Related posts' list that could not be read, so the fuller account attributed to the page here could not be checked against the capture.
+  - Newsinc24 gives cash as Rs 217 lakh and disposed narcotics as Rs 2,101 crore, which is not consistent with the Rs 17 lakh and Rs 101 crore carried in its own chief minister's post quote; the tracker keeps the post's figures.
+  - Newsinc24 states properties worth Rs 21 crore were attached, again inconsistent with the Rs 1 crore in its quoted post.
+  - The Statesman headline value of Rs 64 crore covers all narcotics seized in the drive, not ganja alone.
+  - 'The Statesman''s only image is captioned ''Photo: ANI/Representative'', so it is not listed as media for this event.'
+  - Dinamani describes the destroyed amount as about 10,000 kg of ganja plants and gives no area figure, so it does not confirm the 300 bighas reported elsewhere; the tracker keeps its existing area figure.
+  - Dinamani's Rs 64 crore figure covers all narcotics seized in the drive, not ganja alone.
+  - Dinamalar reports the cleared ganja cultivation as 99 acres and does not use the 300 bighas figure carried by the chief minister's post; 99.17 acres is the acreage equivalent of 300 bighas, so the two accounts describe the same area in different units.
+  - Dinamalar gives no figure for the quantity of ganja seized during the drive or for the Rs 17 lakh in cash, and states no separate total for cannabis among the Rs 64 crore of seized narcotics.
+  - The Times of India account gives no district- or case-level breakdown of the 378 arrests or the 212 NDPS cases, and no separate cannabis-only weight or value.
+  - The Times of India page's lead image carries only the headline as its caption and credit, so it is not listed as an independent photo of this event.
+  - Kalimpong News reproduces the same Press Trust of India text as the Rediff and ThePrint accounts already cited, so it is not independent reporting of the drive.
+  - This account gives no count of cannabis plants destroyed, no district-level breakdown and no separate total for cannabis among the Rs 64 crore of seized narcotics.
 media:
   - kind: photo
     url: https://www.theweek.in/news/india/2026/11/08/west-bengal-drug-mafia-crackdown-cm-adhikari-confirms-378-arrests-shares-video-of-police-action.html

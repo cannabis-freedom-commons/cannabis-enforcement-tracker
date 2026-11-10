@@ -142,10 +142,25 @@ sources:
     publisher: P.M. News
     date: 2026-11-01
 open_questions:
-  - No one was reported arrested in either bus stop.
-  - No value was published for the 976 kg.
-  - The exact origin on Lagos Island and destination on the Mainland were not given.
-  - The same roundup reports cocaine, opioid and ammunition seizures and cannabis cases in other states, left out of this report.
+  - Neither account names anyone arrested in the two Lagos bus stops.
+  - No street value for the 976 kg was published.
+  - The exact origin on the Island and destination on the Mainland were not given.
+  - The cocaine, AK-47 ammunition and opioid seizures in the same roundup are separate non-cannabis events and are excluded from this cannabis account.
+  - This account names no arrests for the two Lagos bus stops.
+  - The article gives no separate date for the Lagos seizures; 1 November 2026 is its publication date.
+  - The article names no suspects and gives no street value for the Lagos cannabis.
+  - The cocaine arrests described in the same article are a separate non-cannabis event and are excluded from this cannabis account.
+  - The statement lists Lagos, Kano, Kaduna, Sokoto, Ondo, Oyo and Edo as the seven states but the opened text gives no cannabis seizure detail for Kaduna.
+  - The diazepam, tramadol, Exol-5, pregabalin, pentazocine, cocaine and ammunition seizures in the same roundup are separate non-cannabis events and are excluded.
+  - The 976 kg figure is the sum of the two separately stated 537 kg and 439 kg seizures.
+  - The submitted headtopics URL yielded only a Google homepage capture, so no quotation could be taken from it.
+  - The cocaine, tramadol, diazepam, Exol-5, pregabalin, pentazocine and AK-47 ammunition seizures in the same roundup are non-cannabis events excluded from this cannabis account.
+  - No arrests or street value were reported for the two Lagos bus interceptions.
+  - 'Not added to sokoto-ayuba-236kg-skunk, as its quotation was not found in Channels Television: Operatives of the NDLEA Zone 7 Command arrested 68-year-old Ibrahim Ayuba in Sokoto on Saturday, 31 October 2026.'
+  - 'Not added to edo-eko-camp-plantation-eradication, as its quotation was not found in Channels Television: On 28 October 2026, NDLEA operatives supported by soldiers raided Eko Camp near Illushi in Esan South-East, Edo State, and destroyed a cannabis plantation covering 1.646 hectares.'
+  - The diazepam, tramadol, Exol-5, pregabalin and cocaine seizures in the same roundup are separate non-cannabis events excluded from these cannabis accounts.
+  - The cocaine, diazepam, Exol-5, tramadol, pentazocine and AK-47 ammunition seizures in the same roundup are separate non-cannabis events excluded from this cannabis account.
+  - The cocaine, AK-47 ammunition, diazepam, tramadol, Exol-5, pregabalin and pentazocine seizures in the same roundup are separate non-cannabis events excluded from this cannabis account.
 ---
 
 ## The interceptions

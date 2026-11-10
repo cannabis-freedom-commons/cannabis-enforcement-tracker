@@ -214,11 +214,52 @@ sources:
     date: 2026-11-06
     language: ta
 open_questions:
-  - The passenger's name and residence were not published.
-  - The marijuana was identified with a field testing kit; no laboratory result was reported.
-  - Rs 3.72 crore is Customs' own estimate of the illicit-market value, and it did not say how it was calculated.
-  - No separate date was given for the arrest or the remand hearing.
-  - No further arrests have been reported in the search for the syndicate.
+  - The passenger's name, age and residence were not published.
+  - The 4 November 2026 date is the evening interception date given by Pune Customs; the reports were published on 5-6 November 2026.
+  - Rs 3.72 crore is the Customs estimated illicit-market value, not an independently confirmed price.
+  - Identification rests on a field testing kit; laboratory confirmation was not reported.
+  - Further investigation into the smuggling network was still under way with no additional arrests reported.
+  - The Times of India gives the passenger's age as 45 but still does not publish a name or residence.
+  - Loksatta does not give the passenger's age or residence, so nothing is added on those points.
+  - The Instagram post's text is cut off mid-sentence and the post is a short video, so no new facts beyond the weight, value and interception details could be taken from it.
+  - Deshdoot says officers grew suspicious of the passenger's movements as well as his baggage, but gives no airport terminal, officers' ranks or court, and names no suspect.
+  - Lokshahi gives no name or age for the passenger and names no charges, court or flight.
+  - The article attributes the Rs 3.72 crore figure to an official as the international market price and does not say how it was estimated.
+  - The article's photo is captioned only with the headline and is not identified as a picture of this seizure, so it is not listed as media.
+  - The article repeats the interception without a separate date for the arrest or the remand hearing, so how many days passed before the magistrate's order is not established.
+  - It does not say which Customs office filed the case or how the Rs 3.72 crore valuation was calculated beyond describing it as the international market price.
+  - No other outlet's account of this same seizure was newly opened here; the match rests on the recorded event details and this article alone.
+  - Pune Pulse gives no name, age or residence for the passenger.
+  - Pune Pulse attributes the ₹3.72 crore figure to an estimate without saying how it was calculated.
+  - This article gives no separate date for the arrest or the remand hearing; it only states that custody runs till 18 November.
+  - Urban Acres does not name the passenger, his age or his residence.
+  - It gives no separate date for the arrest or the remand hearing, only that custody runs until 18 November.
+  - Identification of the substance rested on a Customs narcotics detection kit; laboratory confirmation is not reported.
+  - Dainik Bhaskar runs the IANS wire copy without editing, so it is not an independent confirmation of the facts beyond the agency's own reporting.
+  - The Indian Express attributes the Rs 3.72 crore figure to Pune Customs' press statement as an estimated market value and does not explain how it was calculated.
+  - Neither account names the passenger or gives his age, residence or the charges filed beyond the NDPS Act.
+  - Neither account gives a separate date for the arrest or the remand hearing, only that custody runs to 18 November.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar Hindi: The passenger was arrested and produced before a judicial magistrate, who granted him judicial custody till 18 November.'
+  - 'Left out, as its quotation was not found in The Indian Express: Customs seized the weed along with its packing materials under the Narcotic Drugs and Psychotropic Substances Act, 1985.'
+  - The Hindu dates the Pune Customs press note to 5 November 2026 but gives no separate date for the remand hearing beyond custody running to 18 November.
+  - Rediff does not give the flight number, the passenger's age, or the quantity in grams.
+  - Mid-Day gives the concealment as freeze-dried durian packets in check-in baggage but names no charges, court or investigating officer.
+  - Prahaar spells the customs deputy commissioner's name both 'धीरम मोरे' and 'धीरज मोरे' in the same article.
+  - The article gives no separate date for the interception, arrest or remand hearing; 6 November 2026 is its publication date.
+  - The article gives the weight as 10.642 kg in one place and about 10.6 kg in another.
+  - The Inshorts summary gives no date for the interception, the arrest or the remand hearing; 6 November 2026 is its publication date.
+  - The summary credits Hindustan Times but is a condensed rewrite, so it is not an independent account of the seizure.
+  - The Free Press Journal gives no separate date for the arrest or the remand hearing and does not name the passenger.
+  - The page's single picture is a headline collage captioned only with the article title, so it is not treated as a photograph of this seizure.
+  - The page's Rs 4.16 crore figure is a combined total for two separate seizures and is not used as a figure for this event.
+  - The Economic Times item is a short video summary and gives no interception date, flight, arrest or court details; those come from the other outlets opened here.
+  - 'Left out, as its quotation was not found in The Hindu: Pune Customs arrested an Indian passenger arriving from Bangkok on Air India Express flight IX-291 and seized the haul at Pune International Airport on 4 November 2026.'
+  - The Economic Times item is a short video summary that gives no interception date, flight, arrest or court details, and no weight in grams beyond the 10.642 kg figure.
+  - The item does not say which Customs office or officers carried out the interception.
+  - The live-update page lists the Pune airport seizure item without a separate date beyond its position in the 7 November 2026 roundup, so it is treated as a restatement of the 4 November seizure, not a second incident.
+  - The feed entry carries no date of its own beyond its position in the 7 November 2026 roundup and gives no airport terminal, Customs unit, quantity in grams or court detail, so it adds no new facts beyond the substance name, weight and value already recorded.
+  - The page mixes the Beed LPG blast, the Pune airport seizure and other unrelated Marathi news briefs; only the Pune airport seizure component is treated as cannabis evidence.
+  - The Tamil page describes the cannabis as carried in the passenger's luggage and says nothing about a flight number, the Air Intelligence Unit, the field testing kit or the drug's packaging layers beyond the nine durian-labelled packets, so those details still come only from the other accounts already cited.
 ---
 
 Customs officers at Pune International Airport intercepted an Indian national arriving from Bangkok

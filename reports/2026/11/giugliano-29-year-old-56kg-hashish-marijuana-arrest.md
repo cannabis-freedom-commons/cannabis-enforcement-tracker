@@ -162,12 +162,54 @@ sources:
     date: 2026-11-09
     language: de
 open_questions:
-  - No date or time is given for the search; 9 November 2026 is the publication date of the accounts.
-  - No value was published for the drugs; the 150,000 euros is the value given for the car.
-  - No weight is given for the vapes, and only some headlines say they held cannabis.
-  - One account puts the hashish at more than a kilo and a half rather than 1.639 kilograms.
-  - No court ruling on the arrest or the charges has been reported.
-  - All accounts repeat the same Carabinieri statement.
+  - The article gives no date or time for the search; 9 November 2026 is its publication date and is used as the incident date.
+  - No value estimate was published for the hashish or marijuana; the 150,000-euro figure refers to the cloned car, not to drugs.
+  - The article does not give a separate weight for the marijuana vapes, so they are not counted in the cannabis weight and only the 1.639 kg of hashish and 3.9 kg of marijuana are recorded.
+  - The charges as stated are generic (illegal possession of narcotics); the article gives no court measure, plea or outcome.
+  - The article names the suspect in full; the report records only his age, and the source calls the vehicle a "Ranger Rover Sport", apparently a slip for Range Rover Sport.
+  - The page's single photo carries only the story headline as its caption, with no credit naming who took it or confirming exactly which items it shows, so it is linked rather than described in detail.
+  - Whether the vapes contained cannabis is stated only by the headline framing ("marijuana vapes"); the text calls them "illegal vapes" among a collection of drugs.
+  - Telegolfo and Il Mattino describe the same Carabinieri account, so Telegolfo is not independent reporting of the raid.
+  - Telegolfo says the seized drugs arrived in a parcel from the United States, while Il Mattino describes the vapes as arriving from California with the package landing from overseas; the two are consistent but neither states a precise origin or route.
+  - The text gives a weight ("1.639 kilograms") but the figures have no kg_seized; check whether it belongs there.
+  - The French page is an automatically translated Il Mattino article (the page itself says "Cet article est traduit automatiquement"), so it repeats the outlet's own account rather than providing independent reporting.
+  - The Spanish page is an automatically translated Il Mattino article, as its own closing note says, so it repeats the outlet's account rather than providing independent reporting.
+  - The page's single photo carries only the Italian story headline as its caption, with no credit naming who took it or confirming exactly which items it shows.
+  - Corriere della Sera and Il Mattino describe the same Carabinieri account, so the Corriere article is not independent reporting of the raid.
+  - RaiNews, like the other accounts, gives no separate date for the search; 9 November 2026 is its publication date.
+  - RaiNews repeats the Carabinieri account, so it is not independent reporting of the raid.
+  - RaiNews gives no separate weight for the marijuana vapes and no value estimate for the drugs.
+  - Corriere gives no separate date for the search; 9 November 2026 is its publication date.
+  - Videoinformazioni states the hashish weighed "more than a kilo and a half", lower than the 1.639 kilograms recorded from Il Mattino; the report keeps the Il Mattino figure.
+  - Videoinformazioni gives no separate date for the search; 9 November 2026 is its publication date and the date used for the incident.
+  - Videoinformazioni names the suspect in full, but the report records only his age.
+  - Canale 21 gives no separate date for the search; 9 November 2026 is its publication date.
+  - Canale 21 names no value for the hashish or marijuana and gives no separate weight for the vapes.
+  - The ErgoTV page gives no date or time for the search; 9 November 2026 is its publication date.
+  - ErgoTV names the suspect in full; the report records only his age.
+  - The ErgoTV headline says 5.5 kilograms of drugs, while its text gives 1.639 kilograms of hashish and 3.9 kilograms of marijuana and no separate weight for the vapes; the text figures are used.
+  - Radio Marte gives no separate date or time for the search; 9 November 2026 is its publication date.
+  - Radio Marte gives no separate weight for the marijuana vapes and no drug value estimate; the 150,000 euros refers to the cloned car.
+  - Radio Marte names the suspect in full, but the report records only his age.
+  - Napolitan gives no separate date or time for the search; 9 November 2026 is its publication date.
+  - Napolitan names the suspect in full; the report records only his age.
+  - Napolitan gives no weight for the marijuana vapes and no drug value estimate; the 150,000-euro figure refers to the cloned car.
+  - Lo Strillone TV gives no separate date or time for the search; 9 November 2026 is its publication date.
+  - It gives no separate weight for the marijuana vapes and no value estimate for the drugs; the 150,000-euro figure refers to the cloned car.
+  - The page gives no separate date or time for the search; 9 November 2026 is its publication date.
+  - The packaging description on this page says the products had a particularly showy appearance but does not itself name Dragon Ball characters or exotic fruit; those details come from the longer Il Mattino account already cited in the report.
+  - The page names the suspect in full; the report records only his age.
+  - Teleclub gives no separate date or time for the search; 9 November 2026 is its publication date and stands in for the incident date.
+  - Teleclub names the suspect in full; the report records only his age.
+  - The Teleclub page's single image, captioned only "droga-giugliano" and carrying no credit, is not confirmed to show which seized items and is not added as media.
+  - TorreSette names the suspect in full; the report records only his age.
+  - The page gives no separate weight for the cannabis vapes, so only the 1.639 kg of hashish and 3.9 kg of marijuana are counted.
+  - The page names the suspect by initials; the report records only his age.
+  - Zazoom is a social-news aggregator that republishes the Napoli.corriere.it article and links back to it, so it repeats the Carabinieri account rather than providing independent reporting of the raid.
+  - The Zazoom page gives no separate date or time for the search; 9 November 2026 is its publication date.
+  - Zazoom gives the marijuana as “quasi quattro chili” (almost four kilograms) and no weight for the cannabis vapes, so only the weights already recorded are used.
+  - The German page is an automatically translated Il Mattino article, as its own closing note says, so it repeats the outlet's account rather than providing independent reporting.
+  - The German translation gives no separate date or time for the search; 9 November 2026 is its publication date and stands in for the incident date.
 ---
 
 Officers of the operational unit of the Carabinieri company in Giugliano in Campania raided the home

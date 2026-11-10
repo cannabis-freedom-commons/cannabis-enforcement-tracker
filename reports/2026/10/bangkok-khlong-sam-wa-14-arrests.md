@@ -135,13 +135,61 @@ sources:
     url: https://www.chiangraitimes.com/bangkok/bangkok-cannabis-raid/
     publisher: Chiang Rai Times
 open_questions:
-  - No weight, plant count or value was published for the cannabis, and the ice and yaba were not quantified.
-  - Police report 14 foreign nationals arrested; the narcotics board counted 15 workers inside.
-  - Police date the search to 31 October 2026; the narcotics board dates its part to 30 October.
-  - Police describe a warehouse for storing and packing cannabis; the board describes a site producing cannabis flower.
-  - It is not said how many were charged under Section 46, or whether the Thai and Vietnamese owners were arrested.
-  - The detainees were not named, and the outcome of the criminal and immigration cases has not been reported.
-  - It is not said whether the raid was linked to the 19 October warehouse raid in Bang Khen.
+  - >-
+    No cannabis weight or plant count was reported, and the amounts of ice and yaba seized were not
+    quantified.
+  - The detainees’ names and the outcomes of the criminal and immigration proceedings are not reported.
+  - The accounts do not say whether this raid was connected to the 19 October Bang Khen warehouse raid.
+  - >-
+    Naewna’s embedded images have no readable captions or alt text, so only the three event photos
+    identifiable on Matichon are listed.
+  - >-
+    Left out, as its quotation was not found in Naewna: Officers found concealed ice and yaba during the
+    search and charged the two Vietnamese suspects with jointly possessing Category 1 drugs without
+    authorization and with immigration-law offences.
+  - >-
+    Left out, as its quotation was not found in Naewna: The other 12 detainees were Vietnamese and Myanmar
+    nationals charged with immigration and work offences, including unauthorized entry or residence, overstay
+    and working without a permit.
+  - >-
+    The narcotics board counted 15 foreign workers inside the factory (nine Vietnamese and six Myanmar), while
+    Matichon and Naewna reported 14 foreign nationals arrested; the accounts do not explain the difference.
+  - >-
+    The board dated the operation to 30 October 2026, while the police reports on the same search said 31
+    October.
+  - >-
+    The board described the site as a cannabis flower production facility, while the police account described
+    a warehouse used to store and pack cannabis.
+  - >-
+    MGR Online republishes the same narcotics board release as Thai Tabloid, so the two added accounts are not
+    independent of each other.
+  - >-
+    Left out, as its quotation was not found in Thai Tabloid: Immigration Bureau investigators conducted the
+    search with Thailand’s Office of the Narcotics Control Board and Nimit Mai Police Station.
+  - >-
+    Left out, as its quotation was not found in Thai Tabloid: Suspects were arrested for selling or processing
+    controlled herbal medicine for commercial purposes without permission, under Section 46 of the Thai
+    Traditional Medicine Protection and Promotion Act.
+  - >-
+    The board's release does not say how many people were arrested on the Section 46 charge, or whether the
+    Thai and Vietnamese owners it names were among them.
+  - >-
+    News1Live reproduces the narcotics board's release word for word, so it repeats the board's figures rather
+    than corroborating them independently.
+  - >-
+    The board release counts 15 foreign workers inside the factory, while the police account records 14
+    foreign nationals arrested, with no explanation of the difference.
+  - >-
+    The FM91 page carries one image with only the article title as caption and no credit, so whether it shows
+    this raid is not established.
+  - >-
+    The Chinese account's own breakdown lists two Vietnamese drug suspects plus 12 other Vietnamese and
+    Myanmar nationals, which totals 14 rather than the stated 15.
+  - No weight or value for the cannabis stored or packed at the warehouse was published.
+  - >-
+    The Thai outlet MGR Online reports 15 foreign workers held while the English-language reports detail 14;
+    this report uses the detailed 14-person breakdown.
+  - Whether the lead photo on the source page shows this raid is not established.
 ---
 
 Immigration Bureau investigators, with Thailand's Office of the Narcotics Control Board (ONCB) and Nimit

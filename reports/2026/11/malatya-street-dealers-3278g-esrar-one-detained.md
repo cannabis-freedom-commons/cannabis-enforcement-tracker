@@ -134,11 +134,40 @@ sources:
     date: 2026-11-09
     language: tr
 open_questions:
-  - No neighbourhood, street or address within Malatya was named.
-  - Some accounts place the whole find at the suspect's home, others on his person and at his address.
-  - One account says he was caught in the act, which the others do not state.
-  - The suspect was not named, and no value, charge or court step was reported.
-  - Every account restates the same police statement.
+  - Only one account of this operation was found; it is an agency dispatch published by Malatya Haber and was not corroborated by a second opened source.
+  - No neighbourhood, address or specific street within Malatya was named for the operation.
+  - No weight breakdown, estimated street value, charge, court date or outcome for the single suspect was reported.
+  - The reports do not say whether the esrar was found on the suspect, in a vehicle or at an address.
+  - The page's article image is the site's generic placeholder captioned only with the headline, so no photo of the seizure could be confirmed and none is listed.
+  - The Haberler.com account is an İhlas Haber Ajansı dispatch. A second Malatya Güncel İLKHA page covering the same operation was read but could not be quoted against the saved capture, so it contributes no separate fact.
+  - Haber365 is dated and timed 9 November 2026 at 23:07 and gives no separate operation date; the report's 8 November date comes from the account it already cites.
+  - Haber365 says the suspect was caught red-handed ('suçüstü yakalama'), which the report does not state.
+  - No neighbourhood within Malatya, weight breakdown, value, charge or court date is given.
+  - Bitlis Haber and İhlas Haber Ajansı give no separate date for the raid; 9 November 2026 is the publication date, and 8 November 2026 remains the incident date from the account the report already cites.
+  - Aksiyon states no neighbourhood or street within Malatya for the address that was searched, and no charge or court date for the suspect.
+  - Malatya24 gives 8 November 2026 as the operation date, which corroborates the incident date the report already uses.
+  - The İHA lead image carries no caption or credit identifying what it depicts of this seizure.
+  - Malatya24 records no suspect name, age, neighbourhood, charge or court date.
+  - Malatya24 says the seized material was found at an address that was raided, while the İHA dispatch says searches were made on the suspect's person and at his address; the report's wording covers both.
+  - Haberport gives no separate date for the searches; 9 November 2026 is its publication date, and 8 November 2026 remains the incident date from the account the report already cites.
+  - Haberport names no neighbourhood, street or address within Malatya, and gives no charge, court date or value for the esrar.
+  - The page's two images repeat the headline and the phrase about an operation against street sellers, with no credit, so neither is confirmed to show this seizure.
+  - Haber49 gives no separate date for the operation; 9 November 2026 is its publication date, and 8 November 2026 remains the incident date from the accounts the report already cites.
+  - Malatya Olay Haber states the operation date as 8 November 2026 and is published on 9 November 2026 at 23:00; Bu Sabah Malatya also gives 8 November but does not describe the searches themselves, so it does not independently date the operation.
+  - Malatya Olay Haber names no neighbourhood, street or address within Malatya for the searched address.
+  - Bu Sabah Malatya's article image carries no caption or credit beyond the headline and is not confirmed to show this seizure.
+  - Bu Sabah Malatya attributes its account to a 'Haber Bülteni' (news bulletin) and gives no named agency, so it may restate the same police statement as the other accounts.
+  - Hey Haber gives no separate date for the operation; 9 November 2026 at 21:16 is its publication time, and the report keeps 8 November 2026 from the accounts it already cites.
+  - Hey Haber names no neighbourhood, street or address within Malatya and gives no charge, court date, weight breakdown or estimated value.
+  - This account is another restatement of the same Malatya police statement and is not independent reporting of the operation.
+  - The article gives no separate date for the search; 9 November 2026 is its publication date, and the report keeps 8 November 2026 from the accounts it already cites.
+  - The page places the whole seizure at the suspect's home, while the İHA dispatch says searches covered his person and his address; the report's existing wording covers both.
+  - Güneş TV gives no neighbourhood, street or address within Malatya for the searched residence.
+  - The article reports no weight breakdown, estimated street value, charge, court date or outcome for the suspect.
+  - Malatya Söz gives no separate date for the operation beyond the 8 November 2026 it states, and 9 November 2026 is its publication date.
+  - The Malatya Söz page names no neighbourhood, street or address within Malatya and gives no charge, court date, weight breakdown or estimated value.
+  - İLKHA gives no separate date for the operation; 9 November 2026 at 23:05 is its publication time, and 8 November 2026 remains the incident date from the accounts the report already cites.
+  - İLKHA names no neighbourhood, street or address within Malatya and gives no charge, court date or estimated value for the esrar.
 ---
 
 Malatya provincial police directorate teams detained one suspect in an operation against

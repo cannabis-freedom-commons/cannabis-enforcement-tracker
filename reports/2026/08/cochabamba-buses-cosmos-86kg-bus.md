@@ -110,12 +110,30 @@ sources:
     date: 2026-08-12
     language: es
 open_questions:
-  - The stop is dated to 11 August 2026 by some accounts and to 9 August by another.
-  - The weight is given as about 86 kg or 86.5 kg, and no value was published.
-  - The three drivers were not named, and no charge or court step has been reported.
-  - The accounts rely on Brazilian media and the Bolivian channel Red Uno; no police or prosecutor's statement was quoted.
-  - It is not said whether the check followed a tip-off.
-  - One account reports a second coach stopped at the same controls with about 110 kg, not covered by this report.
+  - Only one accessible source, Mediotiempo, was found for this event; it says it relied on Brazilian media reports with no named agency on the record.
+  - No arrest, detainee or suspect was named or counted, so the report cannot describe anyone as held over the load.
+  - The weight is reported as approximately 86 kilos, not an exact laboratory figure, and no value for the marijuana was published.
+  - No agency is named as having carried out the inspection and seizure, and it is unclear whether the inspection followed a tip-off or was a routine check.
+  - The article gives no time of day or exact address for the inspection beyond Cochabamba.
+  - The article reports São Paulo arrived first in Santa Cruz de la Sierra, while the seizure is placed in Cochabamba; the sequence of the bus's movements across the two cities is not explained.
+  - 'The report''s photograph is captioned only as the São Paulo vehicle stopped with marijuana and credited to X: GabrielSA; it shows officers and wrapped packages beside a bus marked Cosmos, but the caption does not state where it was taken.'
+  - TyC Sports says Buses Cosmos supplied another vehicle for the delegation but does not say what happened to the seized bus after the inspection.
+  - The submitted article is a sports-page account that relies on UOL and names no Bolivian agency, prosecutor or court step in the case.
+  - The page's only photograph is a file photo of São Paulo and Bolívar players in an earlier match, not the seizure, so no photo of this event was added from it.
+  - DSPORTS does not name the bus company, the agency that carried out the inspection, or any court step, so those details still rest on the existing sources.
+  - The Locotal area on the Cochabamba–Santa Cruz road is the interception point named in this account, but no more precise location or time of day for the check is given.
+  - El Litoral also reports a second coach stopped in the same controls with about 110 kilos of marijuana, for combined totals of about 196 kilos and five detainees across both vehicles; that seizure is not covered by this report.
+  - La Tercera dates the inspection to 11 August, the day of the Bolívar match, while El Comercio, citing UOL, dates the coach's stop to 9 August; the accounts are not treated as separate events.
+  - La Tercera does not name the three detained people, state their role in the bus company, or report any charge, prosecutor or court step in the case.
+  - La Tercera attributes the account to the Brazilian journalist Gabriel Sá and names no Bolivian police, prosecutor or company statement as its direct source.
+  - The article gives no time of day for the inspection at the Locotal check post.
+  - No detainee names, seizing agency, or court outcome beyond detention at the disposal of Bolivian justice were published.
+  - TUDN says the bus was stopped in the vicinity of Cochabamba and does not give the Locotal control post, a date for the stop or the number of people detained.
+  - TUDN attributes nothing to a Bolivian police, prosecutor or bus-company statement and names no agency that carried out the search.
+  - TUDN says the São Paulo squad used a second bus cleared by police for airport-hotel transfers in Santa Cruz de la Sierra before flying to La Paz, while other accounts describe the replacement coach as going back to the airport and the team travelling separately by plane.
+  - América Deportes dates the check only as "this start of the week"; 12 August 2026 is its publication date.
+  - América Deportes does not name the bus company, does not say who the three detainees were, and reports no charge or court step.
+  - América Deportes names no Bolivian agency statement and relies on the Brazilian journalist Gabriel Sá.
 ---
 
 Bolivian police stopped a coach of the company Buses Cosmos, hired to carry the São Paulo FC squad

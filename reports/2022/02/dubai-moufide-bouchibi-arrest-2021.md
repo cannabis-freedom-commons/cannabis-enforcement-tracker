@@ -41,10 +41,26 @@ sources:
     date: 2021-04-06
     language: fr
 open_questions:
-  - The Dubai arrest is dated to Sunday 21 March 2021 by one account and to 20 March by another.
-  - No quantity of cannabis was reported seized at the arrest itself.
-  - His network's yearly trade is estimated at about 50 tonnes, 50 to 100 tonnes or 60 tonnes in different accounts.
-  - The outcome of the cassation appeal and of the parallel trafficking trial has not been reported.
+  - The article dates the arrest only as Sunday before its 25 March 2021 publication, so 21 March 2021 is used as the incident date as the preceding Sunday.
+  - No quantity of cannabis seized at the Dubai arrest itself was published.
+  - The figure of about 50 tonnes per year is an annual trafficking estimate, not a seizure, and is not recorded as kilograms seized.
+  - The 240 kilos of cannabis refers to a separate 2002 arrest in Mulhouse, not this arrest, and is excluded from figures.
+  - The 20-year prison term was imposed in absentia in Bordeaux in 2015 before this arrest and is not recorded as a new sentence for this event.
+  - Only one accessible source for this arrest could be opened after searching.
+  - No usable event photo could be listed because the page image is generic stock and the listed video placeholder does not show the arrest.
+  - The text gives a weight ("240 kilos") but the figures have no kg_seized; check whether it belongs there.
+  - 'Left out, as its quotation was not found in RMC: After his release he specialised in “Go-fast” deliveries using powerful cars to cross Spain and France at speed with scout cars to spot controls.'
+  - 'The two page images are not usable as event media: one shows a July 2018 Marseille resin seizure and the other is a portrait captioned only Moufide Bouchibi, neither showing the Dubai arrest itself.'
+  - The go-fasts involved several tonnes of cannabis, but no exact weight was published, so no kilograms are recorded.
+  - The figures record the principal fine of one million euros; the additional 2.9 million euro customs fine is reported in the text but has no separate structured field.
+  - Dubai police's estimate that he imported 60 tonnes of drugs a year is an annual trafficking estimate, not a seizure, and is not recorded as kilograms seized.
+  - The defence's announced cassation appeal and the parallel trafficking case had no reported outcome in this article.
+  - No event photo is listed because the page's single image credit points to Dubai police and its caption could not verify it shows this appeal hearing.
+  - Sud Ouest puts the Dubai arrest on 20 March 2021, while the RMC account cited in the report dates it only to the Sunday before its 25 March publication; the report's 21 March incident date is kept, and the day differs between sources.
+  - Sud Ouest says his network was estimated to sell 50 to 100 tonnes of resin a year in France, while RMC said about 50 tonnes a year; the report keeps its figure and no kilograms are recorded from either estimate.
+  - The 750 kilograms seized from the Mercedes in Tarn-et-Garonne in 2011 belong to a separate seizure, not the Dubai arrest, and are not recorded as kilograms seized here.
+  - Sud Ouest uses ''shit'' as slang for cannabis resin; the account gives no further breakdown of the tonnes it estimates.
+  - Sud Ouest reports that customs intercepted 7 tonnes and thereby disrupted the anti-narcotics office's plan, and that its then head was later charged with complicity in drug trafficking; these events are not further specified in this account.
 also: [arrest]
 details:
     agencies: [Bordeaux Court of Appeal]

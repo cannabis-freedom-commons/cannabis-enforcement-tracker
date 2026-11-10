@@ -158,12 +158,39 @@ sources:
     publisher: MSN
     date: 2026-11-05
 open_questions:
-  - No date is given for the stop; police announced it on Thursday 5 November 2026, and one account places it on the eve of Diwali.
-  - The first reports gave about 100 kg; the police weighed 122.975 kg.
-  - Most accounts value the ganja at about Rs 60 lakh, others at about Rs 70 lakh.
-  - Early reports spoke of three people in the vehicle and one arrest, later ones of two arrests; whether anyone escaped is not settled.
-  - The place of the stop is given as Lohrauli, Naubari, Nauabari or Nautanwari.
-  - The same pages report separate heroin and liquor seizures, left out of this report.
+  - Only one report of the interception could be opened, and the page is partly closed by Dainik Bhaskar's app paywall after its opening paragraphs.
+  - The reports give no date for the stop; 5 November 2026 is the article's publication date and is used as the incident date.
+  - The arrested man's name, age and home area were not published.
+  - No charge, value for the ganja, or court outcome was reported.
+  - The photograph carried with the report has no caption or credit establishing that it shows this seizure, so the related images were not used beyond a single gallery link.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: Police said they had received information about ganja smuggling in the area, set up surveillance at the indicated spot and then stopped and searched the suspicious Scorpio.'
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The arrested man is being questioned, and the team is gathering information on where the ganja came from, who was meant to buy it and the smuggling network.'
+  - The new page gives no separate date for the interception, so 5 November 2026 remains the article publication date used as the incident date.
+  - No name, age, home area, charge, estimated value or court outcome for the arrested person was published in the opened text.
+  - No police or agency statement for this interception could be opened; a search for a further report of the same event found no additional accessible source.
+  - Amar Ujala reports only that the stop came on a Thursday morning, without a calendar date; 5 November 2026 remains the article publication date used as the incident date, and a second, later Amar Ujala item on the same seizure carries only the same publication date.
+  - Amar Ujala says only one of the three people in the Scorpio was arrested and that the search for the other two was under way, so the number and identity of those arrested remain unresolved.
+  - Amar Ujala attributes the case to Maharajganj Superintendent of Police Shakti Mohan Awasthi, but its report of his statement breaks off after the opening words, so no findings from him can be recorded.
+  - Both opened pages are Dainik Bhaskar video and text versions of the same story ID, so no independent outlet or agency statement is added by this submission.
+  - The Rediff PTI account also reports a separate 4 November heroin seizure of 57.24 grams from Rohit Maurya near Sonauli, a different event left out of this cannabis report.
+  - The ETV Bharat roundup also reports separate liquor seizures in Agra and Auraiya, different events left out here.
+  - The page gives no calendar date for the interception beyond its report that the superintendent of police spoke on Thursday, so 5 November 2026 remains the publication date used as the incident date.
+  - No court outcome beyond the production of the accused before a court is reported, and no further report of the case was found.
+  - 'Left out, as its quotation was not found in Prabhasakshi: One woman smuggler was reported arrested at the scene.'
+  - The Prabhasakshi account is published from the PTI-language feed, and the India TV text repeats the same police statement, so these are not independent reporting.
+  - Neither page gives a calendar date for the interception beyond the police statement being made on a Thursday, so 5 November 2026 remains the publication date used as the incident date.
+  - The page gives the crime number as 150/2026 at Thuthibari police station, a file reference not published in the earlier accounts.
+  - The page names the stop location as near Nautanwari, alongside Lohrauli, Naubari and Nauwabari in other reports, so the precise spot remains unresolved.
+  - The page puts the international value of the ganja at about Rs 70 lakh, against about Rs 60 lakh in other accounts of the same seizure, so the claimed value remains disputed.
+  - The page states only that legal proceedings were under way against the accused and gives no court outcome.
+  - Oneindia gives no separate date for the Thuthibari interception and published on 6 November 2026, a day after other accounts, so it adds no calendar date to the existing ambiguity.
+  - Oneindia puts the price at about Rs 60 lakh, while ETV Bharat and one Dainik Bhaskar account reported about Rs 70 lakh for the same seizure, so the claimed value remains disputed.
+  - The page names the stop location as near Nauabari, alongside Lohrauli, Naubari and Nautanwari in other accounts, so the precise spot remains unresolved.
+  - The Agra seizure of 201 boxes of English liquor and the Auraiya seizure of 30 litres of raw liquor and about 1,200 kg of lahan reported in the same page are separate non-cannabis events left out of this cannabis report.
+  - This Live Hindustan page puts the international value of the 122.975 kg ganja at about Rs 70 lakh, while other accounts of the same seizure recorded in the report put it at about Rs 60 lakh, so the claimed value remains disputed.
+  - The page places the stop near Nauabari, alongside Lohrauli, Naubari and Nautanwari in other accounts, so the precise spot remains unresolved.
+  - The page names Thuthibari station house officer Amit Kumar Singh as leading the police team, while other accounts credit Circle Officer Nichlaul Ravindra Kumar Singh with leading the operation, so the chain of command is not fully consistent.
+  - The opened text mentions a second, separate heroin operation involving a 19-year-old Nepal national but gives no quantity or place details for it in the captured lines, so it is left out of this cannabis report.
 ---
 
 Police in the Thuthibari police-station area of Maharajganj district, on the Indo-Nepal border,

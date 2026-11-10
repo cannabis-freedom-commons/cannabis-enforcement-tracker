@@ -236,13 +236,67 @@ sources:
     date: '2026-11-03'
     language: id
 open_questions:
-  - The provincial police named no owner, grower or suspect for their two-day operation, and no court step has been reported for anyone.
-  - No breakdown by district or by day was published for the 104.86 hectares and 157,290 plants.
-  - The police spokesman's statement is dated Sunday 1 November in one account and Monday 2 November in another.
-  - The 78.645 and 93.225 tonnes are estimates of fresh weight; no dried weight was published.
-  - The provincial total of 104.86 hectares does not match the national recap's 122.86 hectares, and it is not said whether it includes the 20 hectares reported for Beutong in Nagan Raya.
-  - It is not said whether the cannabis one suspect grew at home was counted.
-  - The national campaign as a whole is also recorded in a separate report.
+  - >-
+    The Polda Aceh account names no owner, grower or suspect, and no court follow-up is known; the later
+    Bareskrim recap names three suspects from the 27 October Lhokseumawe operation and a farmer suspect in
+    East Aceh, with no trial reported.
+  - No breakdown of area, plants or weight by district was published in the Polda Aceh account.
+  - >-
+    Sinata quotes Joko's statement as made on Sunday 1 November 2026, while Detik dates the statement to
+    Monday 2 November 2026.
+  - >-
+    The 78.645 tonnes is the police estimate for the uprooted plants as a whole; the reports give no weight of
+    dried cannabis.
+  - >-
+    The sources do not say whether the 104.86-hectare total includes the 20 hectares that police and BNN
+    reported destroying in Beutong district, Nagan Raya, on the same weekend.
+  - >-
+    The Bareskrim recap puts the Aceh operation at 122.86 hectares and 93.225 tonnes wet weight, which
+    reconciles with neither the 104.86-hectare Polda Aceh total nor the separately reported 20-hectare Beutong
+    operation; it separately describes a 77-hectare Nagan Raya phase.
+  - >-
+    The 122.86-hectare and 93.225-tonne recap comes from a single national-level briefing account observed by
+    detikcom at the scene; no independent corroboration of those totals was found.
+  - >-
+    The 93.225 tonnes is a wet-weight estimate, like the 78.645-tonne police estimate; no dried-cannabis
+    weight was published.
+  - >-
+    The recap's Mandailing Natal phase (five hectares, about 150,000 plants) lies in North Sumatra under a
+    different command and is counted separately from the 122.86-hectare Aceh total.
+  - >-
+    Sinata, Habapublik and Detik all carry the same police statement, and no independent reporting of the
+    operation was found.
+  - >-
+    Left out, as its quotation was not found in Sinata.id: He said the former cannabis land should be
+    converted into productive land that benefits local people.
+  - >-
+    Left out, as its quotation was not found in Sinata.id: He said the destruction showed the commitment of
+    Polda Aceh and BNNP Aceh to protecting the public, especially young people, from drug abuse.
+  - >-
+    The page states it was automatically rewritten by AI from news.detik.com without altering facts; no
+    independent corroboration of the recap totals was opened in this run.
+  - >-
+    The submitted photo caption describes a 25-hectare find in Aceh Utara, matching the 2 November Lhokseumawe
+    phase rather than the 122.86-hectare total.
+  - >-
+    Whether the cannabis one suspect grew at his house was seized or counted in the plant and weight totals is
+    not stated, and the fugitive field owner is not named with no charges or trial reported.
+  - >-
+    The page also embeds a video thumbnail for a separate BNN operation reported as 6.5 hectares in Aceh
+    Utara, a different event left out here.
+  - >-
+    This BSI page renders the third suspect as M 3(9) in both mentions, which is read as M, 39 following the
+    original detik account already cited.
+  - No arrests, suspects or charges were reported from the two-day operation.
+  - >-
+    The accounts give no breakdown of area or plant numbers by district, and no separate figure for dried
+    cannabis; 78.645 tonnes is the police estimate of the total weight of the plants destroyed.
+  - >-
+    The accounts date the operation to 31 October–1 November 2026 but do not say which district's fields were
+    destroyed on which of the two days.
+  - >-
+    Only the lead paragraph of the Tempo article could be opened; the remainder is paywalled, so no further
+    details or critique implied by the headline could be verified.
 ---
 
 A joint team of the Aceh provincial police (Polda Aceh) and the Aceh office of the National Narcotics

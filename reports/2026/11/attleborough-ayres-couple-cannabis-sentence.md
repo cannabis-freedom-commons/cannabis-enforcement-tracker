@@ -387,11 +387,45 @@ sources:
     publisher: Barry and District News (PA News Agency)
     date: 2026-11-05
 open_questions:
-  - Mark Ayres pleaded guilty to producing 28 plants, while the sentencing coverage reports 25 plants found.
-  - The court is named Norwich Crown Court by the BBC and the Daily Mail, and Norfolk Crown Court by Norfolk Constabulary, ITV and Press Association copies.
-  - The £46,000 is a police estimate for the plants and the dried cannabis together, and the 5.7 kg is approximate.
-  - When Marion Ayres changed her plea to guilty was not reported.
-  - No confiscation order or other ancillary penalty was reported.
+  - Mark Ayres's earlier guilty plea was entered for 28 cannabis plants, while the sentencing coverage reports 25 plants found, and no explanation for the difference was published.
+  - The £46,000 street value covers the plants and the dried cannabis together, so no separate cannabis-only valuation was published.
+  - The weight of 5.7 kg of dried cannabis is described as approximate.
+  - The exact dates of the magistrates' court plea hearing and the trial preparation hearing were not published, and Marion Ayres's guilty plea is not tied to a specific court date.
+  - No confiscation order or other ancillary penalty for either defendant was reported.
+  - The Eastern Daily Press dates the warrant only to May last year, so the exact 20 May 2025 raid date continues to rest on the earlier reporting.
+  - This account places the sentencing at Norfolk Crown Court, while the report records Norwich Crown Court; the difference is retained as a source wording discrepancy.
+  - The Sun gives no separate value for the dried cannabis; the £46,000 figure is given for the cannabis found at the property as a whole.
+  - This account gives the sentencing court as Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court is unconfirmed.
+  - This PA News Agency syndication places the sentencing at Norfolk Crown Court on "Thursday", that is 5 November 2026; whether Norfolk Crown Court and Norwich Crown Court are the same court under different names remains unconfirmed.
+  - This PA syndication again places the sentencing at Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - This PA syndication places the sentencing at Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - This PA syndication places the sentencing at Norfolk Crown Court on 5 November 2026, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - The account places the sentencing at Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - This Birmingham Now syndication gives the sentencing court as Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - This account places the sentencing at Norfolk Crown Court on Thursday 5 November, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - This PA syndication places the sentencing at Norfolk Crown Court on Thursday 5 November 2026, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - This account places the sentencing at Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - This PA syndication again gives the sentencing court as Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - The BBC places the sentencing at Norwich Crown Court, which matches the report but conflicts with PA syndications naming Norfolk Crown Court.
+  - ITV names the sentencing court as Norfolk Crown Court, the same wording as several PA syndications of this case; the report's main text records Norwich Crown Court, so the two names remain unresolved.
+  - The Sun describes the home only as being in Attleborough, Norfolk, without naming Burgh Common, where the report places it.
+  - The BBC account gives the raid only as in May 2025, without the 20 May date recorded in the report.
+  - The article reports 25 plants at sentencing, while the earlier guilty plea recorded in the report was entered for 28 plants.
+  - This account gives the sentencing court as Norfolk Crown Court, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - The Daily Mail describes Mark Ayres as a director of multiple companies, a personal detail not carried in the other accounts of the sentencing.
+  - The BBC account gives the search only as in May 2025, without the 20 May date the report records.
+  - This Press Association syndication places the sentencing at Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - This Redditch Advertiser syndication places the sentencing at Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - ITV places the sentencing at Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - This PA syndication places the sentencing at Norfolk Crown Court on Thursday 5 November, while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - This PA syndication gives the sentencing court as Norfolk Crown Court while the report records Norwich Crown Court; whether the two names refer to the same court remains unconfirmed.
+  - The page restates the 5.7 kg weight as dry cannabis without a measured weight and gives no separate value for the dried cannabis alone.
+  - The Daily Mail names Norwich Crown Court, matching the report, while several PA syndications of the same hearing name Norfolk Crown Court; the two names remain unresolved in the report's open questions.
+  - The Daily Mail does not give the individual sentences, which the report records as three and a half years for Mark Ayres and nine months suspended for Marion Ayres.
+  - The Daily Mail's own account says the sentencing was at Norwich Crown Court, matching the report, while several Press Association syndications of the same hearing name Norfolk Crown Court.
+  - The opened capture ends before the article's sections on the plants, the property's value and the diagnosis, so those parts of this account could not be checked; the article's own publication page could not be opened.
+  - The Daily Mail does not give the date of the eight-plant phase, saying only that the operation expanded to 25 plants by the time of the May 2025 arrest.
+  - The account gives the dried cannabis weight as 5.7kg without stating that it is approximate and publishes no separate value for the dried cannabis alone.
 ---
 
 Mark Ayres, 71, and his wife Marion Ayres, 70, were sentenced at Norwich Crown Court for producing

@@ -89,12 +89,35 @@ sources:
     date: 2026-11-07
     language: ta
 open_questions:
-  - Several accounts give no date for the planting or the arrests; 5 November 2026 comes from the two that do.
-  - 'Accounts differ on who planted the packet and where: two bar workers dropping it in the drain in front of the shop, or a plan by Periya Chokkanathan with Rajapandi and a boy to leave it by a canal opposite, near Rajkumar''s home.'
-  - Rajkumar's age is given differently, and accounts disagree on whether he was present during the search.
-  - Whether the prohibition officers knew of the plan has not been established; the police deny any involvement, and the inquiry's outcome is not known.
-  - There has been no police response to the allegation that an officer took a bribe from the bar operator.
-  - No court step beyond the remand of the four adults has been reported.
+  - The Hindu gives no separate date for the placement of the packet or the five arrests; 5 November 2026 is used, taken from The Times of India, which says the packet was planted on 5 November, and from Dinamalar, which dates it to 5 November.
+  - No weight, quantity or value of the ganja was published, so no cannabis weight is recorded.
+  - The accounts give different ages for Rajkumar, and The Hindu and Dinamalar disagree on whether Rajkumar was present during the search or arrived later; this report follows The Hindu's account.
+  - Dinamalar named Rajapandi and Asai as the two men who placed the packet; The Hindu names only Rajapandi among those arrested, and The Times of India attributes the planting to a person operating the attached bar.
+  - No charges, custody details or court outcome were reported, and the outcome of the departmental inquiry and of the criminal case is not yet known.
+  - No weight or quantity of the ganja in the planted packet is given, so no cannabis figure can be recorded.
+  - The article gives no date of its own for the incident; 5 November 2026 is used, the date the packet was planted and the five arrests were made as reported by other outlets.
+  - The article says bar employees and police officers acted together, but it gives no names, ranks or counts for the officers.
+  - Arappor Iyakkam's release asks for the officers to be charged with ganja trafficking; no such case, charge or court step is reported.
+  - No police response is given to the bribery allegation against the officer.
+  - The Oneindia article 'சிவகங்கையில் டாஸ்மாக் பாருக்கு எதிராக போராடியவரை சிக்க வைக்க மாஸ்டர் பிளான்.. சிக்கி கொண்ட போலீஸ்?' (oneindia 843647, 7 November 2026) appears to cover the same incident but could not be opened in full and is not cited.
+  - The page places the trader at Singampunari while other accounts name Thirukkalappatti near Tiruppattur in Sivaganga district; the report keeps the more specific locality.
+  - The DMK post also refers to an unrelated alleged 1,000-crore meth-trafficking case against a TVK functionary, which is not part of this cannabis event and is left out.
+  - The DMK post gives no date for the raid, the packet's weight or the number of people arrested, so nothing is added to the report's figures.
+  - The page gives no police response to the DMK's allegations and no outcome of any departmental or criminal action against the officers.
+  - 'Left out, as its quotation was not found in Tamil Oneindia: Rajkumar, the trader, said two men came to his shop posing as customers on the morning after a road blockade, one of them dropping a packet in the drain outside, and that a car with two plainclothes officers arrived about ten minutes later.'
+  - 'Left out, as its quotation was not found in Tamil Oneindia: Rajkumar said he believed the bar owner acted with police connivance because of his campaign, and that he had given CCTV footage and a complaint at the Sivaganga superintendent of police''s office.'
+  - The Times of India gives no date for the arrests or the planting; the report keeps the 5 November 2026 incident date it already uses.
+  - The account lists five accused but does not say which four were the adults remanded to judicial custody.
+  - The Times of India names Periya Chokkanathan as the informant and Rajapandi as one of the two who placed the substances; earlier accounts in the report attributed the planting to bar staff acting with the bar operator.
+  - The police account says the substances were placed near a canal opposite the grocery shop, while other accounts describe a packet dropped in a drain in front of it.
+  - The police account says the material was found near Rajkumar's residence, while other accounts describe a search of his shop.
+  - The page carries a single lead image whose caption does not describe the scene, so its subject cannot be confirmed.
+  - No court outcome beyond the remand is reported.
+  - The statement gives no date for the shop search or the alleged planting, no weight of the ganja and no names of the officers it accuses.
+  - The statement names both Singampunari and Thirukalappatti for the trader; the target report keeps the more specific Thirukalappatti locality.
+  - The DMK's separate reference to an alleged Rs 1,000 crore methamphetamine case against a TVK functionary is not a cannabis matter and is left out of the report's cannabis account.
+  - No police or state government response to the statement was published in the opened sources.
+  - The statement gives no count of people arrested, so nothing is added to the target report's figure of five.
 media:
   - kind: photo
     url: https://timesofindia.indiatimes.com/city/madurai/5-held-for-planting-ganja-to-frame-social-activist/articleshow/135642833.cms

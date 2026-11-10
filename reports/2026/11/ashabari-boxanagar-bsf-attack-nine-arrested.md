@@ -96,13 +96,31 @@ sources:
     publisher: ThePrint
     date: 2026-11-03
 open_questions:
-  - No weight, packet count or value was published for the ganja, and some accounts do not say any was seized.
-  - The arrest count rises from eight or nine to 18, 19 and 21 in different accounts, and it is unclear whether the two main accused detained by the BSF are counted in the 21.
-  - Accounts differ on whether a pump-action gun was snatched or only an attempt was made.
-  - The injured are given as three personnel including the company commander, or as the commander and three others.
-  - Villagers say the clash began when BSF men beat a local man, Hefzur Rahman; the BSF and police describe a challenge to smugglers.
-  - It is not said how many of the accused face the narcotics charge in particular.
-  - No court step beyond remand has been reported.
+  - No weight, packet count or value for the recovered ganja was published, so no cannabis quantity can be recorded.
+  - The sources give no calendar date for the attack; Monday before the 3 November publications is used as 2 November 2026.
+  - The chief minister first reported eight arrests in the morning, while the district police chief later reported nine after an overnight operation; the report uses nine.
+  - Only the New Indian Express account names the recovered substance as ganja; the corroborating ANI account describes smuggling and illegal goods without naming cannabis.
+  - No court outcome beyond the planned production in court on 3 November was reported.
+  - 'Left out, as its quotation was not found in ANI: The assault took place on Monday morning in the Ashabari area under Boxanagar.'
+  - This source gives no weight, packet count or value for the recovered ganja, so no cannabis quantity can be recorded from it.
+  - The new account reports ten arrests out of 19 named accused, while the report records nine, so whether a tenth arrest occurred after the earlier publications remains unclear.
+  - The new account describes the injured as three jawans including the company commander and is summarised as the commander plus three jawans, so the exact number of injured personnel remains unclear.
+  - The new account says a pump-action gun was snatched, while the report says firearms were allegedly attempted to be snatched, so whether a weapon was taken or only an attempt occurred remains unclear.
+  - The eight new arrests are dated to Thursday night and early Friday morning, so the incident date is set to the 6 November publication date of this stage.
+  - The article does not say how many of the 18 arrested face the NDPS Act charge specifically, or whether any ganja was recovered in the BSF interception.
+  - No court outcome for the eight new arrests was reported beyond production before a Sepahijala court.
+  - No weight, packet count or value for the ganja the BSF intercepted on 2 November was published.
+  - The article identifies no specific NDPS Act section and reports no court outcome for the newly arrested woman.
+  - The article says the search parties also aim to seize contraband, but does not say whether any cannabis was found in the 7 November searches.
+  - This account puts the total at 21 accused, four of them women, while the report records 19 after the 7 November arrest of one woman, so the exact number held on that date differs between sources.
+  - The report says the 2 November interception recovered ganja, while this account describes the BSF stopping ganja smugglers without stating that any cannabis was seized in the interception.
+  - The page does not say whether the two main accused detained by the BSF on 7 November are counted inside the stated total of 21 arrested, or held separately.
+  - No weight, packet count or value for the ganja the BSF intercepted on 2 November is published.
+  - No charge under a specific section and no court outcome for the two newly detained main accused is reported.
+  - The article credits the story to IANS and reproduces the same police account as other outlets, so it is not independent reporting.
+  - The account gives the woman's remand until 13 November but no outcome for the other newly arrested accused beyond being handed to Kalamchaura police station.
+  - The report names a villager, Hefzur Rahman, as the person whose alleged beating by BSF personnel villagers say triggered the protest; the BSF and police accounts in other sources describe the sequence differently.
+  - The page's later passages beyond the captured text, including the FIR account of the attack and the claim about ganja smuggling, were not available for checking, so they are not recorded here.
 ---
 
 Tripura police arrested a growing number of people over an attack on Border Security Force (BSF)

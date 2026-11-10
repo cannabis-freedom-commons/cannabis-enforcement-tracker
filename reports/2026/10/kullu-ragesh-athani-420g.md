@@ -86,11 +86,28 @@ sources:
     date: 2026-10-31
     language: ml
 open_questions:
-  - No calendar date is given for the arrest in Kullu; 30 October 2026 is the date of the first reports.
-  - The Hindu describes the MDMA and ganja as suspected and does not mention the LSD stamps that the Malayalam accounts report.
-  - The resort where Ragesh stayed is not named.
-  - No charge or court step beyond his remand has been reported, nor what became of Azad and Harikrishnan.
-  - Several Malayalam accounts are nearly word for word the same, apparently from one police note.
+  - Neither account gives the calendar date of the Kullu arrest; 30 October 2026 is the publication date of both.
+  - Asianet News alone reported two LSD stamps, the date 27 June 2024, the unnamed resort, the tourist disguise, the junior officers and seizure of the car. The Hindu described the MDMA and ganja as suspected and did not mention LSD.
+  - The arrest figure counts only Ragesh. Azad and Harikrishnan were arrested earlier in the same case and are not included.
+  - No court name, charge or sentence was reported; he was remanded.
+  - The cited pages show a portrait and a representational image, not the arrest or the seizure, so no photo is included.
+  - The resort 20 kilometres above the base camp is not named, so the coordinates are for Kullu town, the district centre.
+  - 'The note that Asianet News alone carried the LSD stamps, the 27 June 2024 date, the resort, the tourist disguise, the junior officers and the car seizure is now out of date: this Marunadan Malayalee account carries them too.'
+  - The article gives no calendar date for the Kullu arrest; 30 October 2026 is its publication date.
+  - The resort is not named, only described as about 20 kilometres above the base camp in Kullu.
+  - The article does not say what happened to Azad and Harikrishnan after their 2024 arrest.
+  - 'Left out, as its quotation was not found in Marunadan Malayalee: With Sudarshan were deputy superintendent Baiju Paulose, circle inspector B.K. Arun, sub-inspectors Arun Raj and Rony Augustine, assistant sub-inspector M.V. Binu and civil police officer Sajaz.'
+  - The page gives no separate date for the arrest; 30 October 2026 is its publication date and the date used for the report.
+  - The Malayalam text is almost identical to the police account carried by Asianet News and Marunadan Malayalee, so it does not independently confirm the details.
+  - The page does not name the resort in Kullu where the accused was staying.
+  - 'Left out, as its quotation was not found in Metro Vaartha: With Sudarshan were deputy superintendent Baiju Paulose, circle inspector B.K. Arun, sub-inspectors Arun Raj and Rony Augustine, assistant sub-inspector M.V. Binu and civil police officer Sajaz.'
+  - This account describes Ragesh as hiding for years and gives no count of LSD stamps, while the report records two years on the run and two LSD stamps; the report keeps its earlier, more specific details.
+  - Mathrubhumi's account closely matches the Asianet News report, so the two may share a common source rather than being independent.
+  - This account, published on 31 October 2026, still gives no calendar date for the Kullu arrest.
+  - Unlike The Hindu and several Malayalam accounts already cited, this article does not say Ragesh was produced in court or remanded.
+  - 'Left out, as its quotation was not found in Samakalika Malayalam: He had allegedly provided financial assistance to buy the narcotics, fled to Kullu on learning of the earlier arrests, and had been working as a tourist guide there.'
+  - 'Left out, as its quotation was not found in Samakalika Malayalam: On 27 June 2024, police seized 316 grams of MDMA, two LSD stamps and 420 grams of cannabis from a car at Athani that was carrying the drugs from Bengaluru.'
+  - This account states as fact that Ragesh provided the money for the drugs; the report keeps 'allegedly' because the claim comes from the police account.
 ---
 
 Nedumbassery police arrested Ragesh, also known as Jumanchi, the main accused in a drug case, a

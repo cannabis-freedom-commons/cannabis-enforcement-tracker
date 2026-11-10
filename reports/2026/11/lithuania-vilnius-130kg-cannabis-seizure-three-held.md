@@ -119,12 +119,31 @@ sources:
     date: 2026-11-09
     language: uk
 open_questions:
-  - The cannabis is given only as about 130 kilograms, and it is not said whether it was dried flower or another product.
-  - The police statement dates the operation to 3 November 2026; several accounts say only "last week".
-  - It is not said where in the cars, homes and forest caches each lot was found.
-  - The three suspects were not named, and no charge or court step beyond pre-trial detention has been reported.
-  - Some headlines call the 3-CMC crystal methamphetamine; the articles themselves name 3-chloromethcathinone.
-  - Every account reproduces the Vilnius county police statement.
+  - The sources give “about 130 kilograms” of cannabis rather than a measured weight, and do not say whether it was dried flower or another cannabis product.
+  - No exact date is given for the searches and detentions; the operation is dated to 3 November 2026 in the police statement, while the accounts were published on 9 November.
+  - The LRT report describes the operation only as “last week”; the 3 November date comes from the Respublika.lt account of the police statement.
+  - No number of plants or growing sites is reported, only a consignment of cannabis, consistent with a distribution network rather than a cultivation site.
+  - The three suspects are not named and no charges or court outcome beyond pre-trial detention are reported.
+  - The 3.5 kilograms of 3-CMC is not cannabis and is excluded from the figures; the sources do not say how the cannabis was packaged or where each lot was found.
+  - The five other photos in the Respublika.lt gallery could not be linked individually because their image addresses were not present in the opened page markup.
+  - The Delfi page gives no measured weight for the cannabis, only about 130 kilograms, and does not say whether it was dried flower or another cannabis product.
+  - Delfi carries no information on the suspects' identities, their pleas or any court outcome beyond the pre-trial detention already recorded.
+  - The Delfi captions for the police gallery do not say which premises or cache each photo depicts; only one of the two images on the page is listed as media.
+  - The tv3.lv article cites the Lithuanian outlet Lrytas and adds no independent reporting beyond the police statement.
+  - tv3.lv gives only about 130 kilograms of cannabis and does not say whether it was dried flower or another product.
+  - The page shows nine police gallery images, credited to the Vilnius county police headquarters, but captions do not say which premises, vehicle or forest cache each one depicts; only the first is listed as media.
+  - The embedded video is a YouTube-hosted police clip whose own footage and narration were not opened; only the embed address was found in the page.
+  - The ten-image gallery is credited only to the Lithuanian Police, with no captions saying which vehicle, home or forest cache each photo shows.
+  - The article dates the operation only to “last week” and gives no separate date for the searches; 3 November 2026 is already recorded from other accounts of the police statement.
+  - The Latvian headline calls the 3-CMC seizure “crystal methamphetamine” (kristāliskā metamfetamīna), while the article body describes it as 3-chloromethcathinone (3-CMC); the body text is followed and the 3-CMC is not counted as cannabis.
+  - The Latvian account gives approximately 130 kilograms and no exact measured weight.
+  - It identifies the seized substance only as narcotic hemp (narkotiskās kaņepes) and does not say whether it was dried flower or another cannabis product.
+  - The account dates the operation only to last week and gives no separate day for the searches.
+  - The Turkish page is a translation of an ELTA wire story and reproduces the same Vilnius county police statement already cited, so it is not independent reporting of the operation.
+  - The Turkish headline calls the 3-CMC "kristal metamfetamin", while its body correctly names 3-chloromethcathinone (3-CMC); the body text is followed and the 3-CMC is not counted as cannabis.
+  - The Ukrainian page is an ELTA wire translation and adds no independent reporting beyond the Vilnius county police statement already cited.
+  - Like the other accounts, it gives about 130 kilograms rather than a measured weight and does not say whether the cannabis was dried flower or another product.
+  - Its call that the 3-CMC is known as crystal (кристал) appears in the headline as "crystalline methamphetamine"; the body names 3-chloromethcathinone, and the 3-CMC is not counted as cannabis.
 ---
 
 Officers of the organised-crime unit of the Vilnius county police struck a shadow drug-distribution

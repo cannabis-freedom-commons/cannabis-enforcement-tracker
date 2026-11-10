@@ -92,11 +92,27 @@ sources:
     date: 2026-11-08
     language: te
 open_questions:
-  - The 60 kilograms is a round figure for 60 packets, not a weighed total.
-  - One account credits the Malkajgiri SOT and others the LB Nagar zone SOT, and the commissionerate that registered the case is not stated.
-  - One subheading gives the value as Rs 60 lakh; the texts give about Rs 30 lakh.
-  - No NDPS sections, remand or court step have been reported.
-  - The Odisha supplier and the Mumbai receiver have not been reported caught.
+  - Only one account of the check could be opened; no police statement or second outlet reporting this same seizure was found.
+  - The 60 kilograms is given as a round figure for 60 packets, with no exact weighed total.
+  - The article names the two arrested men and the two absconding men but gives no charges by NDPS section.
+  - No remand, charge sheet or court outcome is reported for the two arrested men.
+  - The photograph published with the report carries only the caption "Lb nagar" and no credit, and it cannot be confirmed exactly what scene it shows.
+  - The article refers to both the Malkajgiri police commissioner and LB Nagar zone officers; the commissionerate where the case was registered is not stated.
+  - Telangana Today attributes the operation to the Malkajgiri SOT, while the earlier HMTV account cited in this report named the LB Nagar zone SOT; both describe the same officers and the same seizure but do not explain the difference in unit designation.
+  - The Telangana Today article gives no names of the two arrested men, no charges by NDPS section, and no remand, charge sheet or court outcome.
+  - No police statement naming the unit that registered the case was published in either account.
+  - V6 Velugu does not give ages or home areas for the two arrested men; those come from The Hindu's account of the same check.
+  - Left out arrested, as its only supporting source is not cited by the report's text.
+  - Left out kg seized, as its only supporting source is not cited by the report's text.
+  - Left out value, as its only supporting source is not cited by the report's text.
+  - The article gives no NDPS section, remand date or court outcome for the two arrested men.
+  - Disha Daily does not say whether the Odisha supplier or the Mumbai receiver has since been arrested.
+  - Disha Daily gives a round value of about Rs 30 lakh for the consignment and does not report an exact weighed total beyond the 60 kilograms.
+  - The article quotes LB Nagar zone DCP Anuradha at a press conference but gives no NDPS section, remand date or court outcome for the two arrested men.
+  - The article does not say whether the Odisha supplier or the Mumbai receiver has since been arrested.
+  - The subheading says 60 lakh worth of goods seized while the body says Rs 30 lakh for the 60 kg; the existing Rs 30 lakh figure is unchanged.
+  - The page lists one photo whose caption matches the seizure, but its direct image address is under an August 2026 media path, so it is not listed as event media because it cannot be confirmed to show this check.
+  - The roundup gives a combined value of over Rs 80 lakh for both seizures without a separate breakdown, so no separate value is added to the Ghatkesar report.
 ---
 
 Police in the LB Nagar zone of Hyderabad arrested two men and seized 60 kilograms of ganja from a car near

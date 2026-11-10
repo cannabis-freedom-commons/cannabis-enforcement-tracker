@@ -121,13 +121,27 @@ sources:
     date: 2026-10-15
     language: ru
 open_questions:
-  - The police statement spoke only of a narcotic substance; 2.5 g of marijuana comes from a journalist's post, and Baza claimed 10 grams.
-  - One account dates the detention to 14 October; the police account gives 13 October.
-  - The second charge is described as unlawful transportation in some accounts and unlawful storage in others.
-  - The date and place of the case's closure and of the expulsion were not stated; police reported them on 20 October.
-  - No date or legal basis was given for the release of the two men travelling with Navai.
-  - The outcome of the Kyrgyz border service's inquiry has not been reported.
-  - His mother's account that she was promised his release with a fine has not been confirmed.
+  - The 2.5 g marijuana description and weight come from secondary reporting and were not part of the published Zhambyl police statement, which spoke only of an unspecified narcotic substance.
+  - An additional allegation that about 10 g of substance was found with the manager does not identify the substance as cannabis and is excluded from cannabis figures.
+  - The English Izvestia lede dates the detention to 14 October while the police account dates the interception to 13 October with reporting on 14 October; the report uses 13 October.
+  - No charges, custody ruling beyond temporary detention, or court outcome were reported in the cited detention-time sources.
+  - 'Left out, as its quotation was not found in Izvestia: Officers had found a green substance in the driver''s seat pocket, which examination identified as 2.5 grams of marijuana.'
+  - The opened articles give no separate date for the custody ruling; 15 October is the police announcement and publication date used as the incident date.
+  - The new accounts describe the companion charge differently as unlawful transportation versus unlawful storage, so the exact second article remains unclear.
+  - Whether the defence filed an appeal or sought bail and the date of the next hearing were not reported in the opened update passages.
+  - The exact custody end date was not stated in the opened passages, only the two-month duration.
+  - The outcome of the Kyrgyz border service's internal inquiry was not reported in the opened article.
+  - Whether the drugs the rapper admitted buying in Bishkek were the same cannabis found in the car was not specified in the opened article.
+  - This account describes the approximately 10 grams in the manager's pouch as an unspecified narcotic substance rather than marijuana, so only the 2.5 g of marijuana is countable as cannabis.
+  - This account says three people were detained but the two companions were later released, while giving no date or legal basis for their release.
+  - The 2.5 g marijuana weight comes from secondary reporting attributed to journalist Kozachkov, while the quoted police statement speaks only of an unspecified narcotic substance.
+  - The mother's account that security staff promised release with a fine is an unattributed family claim with no official confirmation in this outlet.
+  - 'Left out, as its quotation was not found in Podrobno.uz: A bag with roll-up paper and a grinder was also in the car.'
+  - The precise date and place of the case termination and expulsion were not stated; 20 October is when police reported the outcome, and Korday remains the location of the original detention.
+  - 'Left out, as its quotation was not found in Tengrinews.kz: Kyrgyzstan''s border service was checking the circumstances of Navai''s border crossing while he had drugs with him.'
+  - 'Left out, as its quotation was not found in РИА Новости: Baza''s account put the amount of marijuana reported in Navai''s car at 2.5 g.'
+  - The submitted article does not state the non-rehabilitating grounds or first-offence basis in those terms; it cites active remorse and prosecution approval for the case termination.
+  - Panorama.am reports the Korday district court's two-month custody order through Baza rather than describing the court ruling directly.
 ---
 
 Police and border guards detained the Russian rapper Navai, real name Navai Bakirov, at the Korday

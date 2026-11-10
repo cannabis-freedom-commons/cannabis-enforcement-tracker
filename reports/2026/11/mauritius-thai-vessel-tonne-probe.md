@@ -160,14 +160,27 @@ media:
     publisher: Defimedia
     caption: The speedboat moored under National Coast Guard surveillance in the north of Mauritius.
 open_questions:
-  - The 1.5 tonnes is what investigators believe was landed; no drugs were found aboard, and accounts differ between two deliveries of just over a tonne and three arrivals of several hundred kilos each in 2026.
-  - The number arrested is given as 14, 15, 18 and 19, and the number charged after the rise to 18 is not stated.
-  - The yacht's boarding is dated 21 October in most accounts and 23 October in one, which may describe separate boardings.
-  - The money aboard is given as about 2.7 million in euros and baht in an early account, and as 38,000 or 38,900 euros with baht, Singapore and US dollars in later ones.
-  - The first coast guard officer's surname is spelled Rungilal or Rangilal, and the charges against the two officers are not stated.
-  - Nishal has not been arrested, a request to Interpol is only under consideration, and L'Express says its account of him is still being checked.
-  - It is not said whether the three men suspected of meeting the yacht near Round Island were arrested or charged.
-  - The recipients and final destination of the cargo have not been identified, and no trial has been reported.
+  - Police put the number arrested at 14 in their 29 October statement, while Le Défi reported a second coast guard arrest that brought the total to 15; L'Express and Le Mauricien, published the same day, still said 14.
+  - Le Mauricien reported that no drugs were found aboard the yacht and that the cargo had already been landed; the 1.5-tonne figure is the amount investigators believe was imported, not a consignment recovered from the vessel.
+  - An earlier account said about 2.7 million in euros and Thai baht were seized; the later reports give 28,330 baht, 1,865 Singapore dollars and 38,900 euros, worth just over Rs 2 million.
+  - An earlier account dates the search to 23 October; Le Défi and L'Express say officers first boarded the yacht on 21 October, which may describe separate boardings.
+  - Le Mauricien spells the coast guard officer's surname Rangilal, while Le Défi and its headline use Rungilal.
+  - Investigators had not identified the intended recipients of the cargo or established its final destination, and no trial outcome beyond the remand until 5 November was reported.
+  - The identity of the alleged intermediary and whether confidential coast-guard operational information was actually passed to traffickers remained unresolved.
+  - L'Express's account of the suspected organiser, and of three yacht arrivals in 2026, rests on information it says is still to be verified; it names neither the Mauritian nor the suspected drug baron it says was recently arrested.
+  - L'Express reports three yacht arrivals carrying several hundred kilos each, while the existing account describes two suspected deliveries of just over a tonne; the two accounts have not been reconciled.
+  - No arrest or charge of Nishal himself was reported; he remains only a suspect sought under an Arrest on Arrival order.
+  - The total number provisionally charged after the rise to 18 arrests was not stated.
+  - The possible request to Interpol and British and Thai counterparts through the Central Barracks and the Attorney General's office is described as under consideration, not as a completed request, and Nishal himself had not been arrested or charged.
+  - The new accounts date the joint ADSU and Maritime Intelligence Cell boarding and search to 21 October, while the existing account describes a search on 23 October off Baie-du-Tombeau, which may reflect separate boardings.
+  - The accounts do not establish whether the three men named as suspected participants in the boat transfer were arrested or charged.
+  - L'Express does not name the suspected Mauritian trafficker transferred to Melrose; report of the transfer also appears in a subscriber-only Le Mauricien article, whose full text could not be read.
+  - The same account reports a possible cannabis supplier living in Thailand and holding interests in a farm where the plant would be grown, but says investigators had not verified this.
+  - Investigators were examining possible cryptocurrency payments on platforms such as Binance and use of the informal hawala transfer system, but the article says they had yet to establish whether hawala was used in this case.
+  - The account names Brian Foo Kin Lew Tin Wah, Terminal Officer at Cargo Handling Corporation Ltd, whose homes in Cité Roche-Bois and Calodyne were searched, and a National Coast Guard officer it spells both Bagboot and Pydegadu, but does not give the officers' surnames consistently or their charges.
+  - The article gives no weight for the cannabis said to have been delivered and states no new arrest or charge in this step.
+  - The article describes the suspected role of Nishal D. and the three men near île Ronde as under investigation, not as charges.
+  - The article does not state what offence the two coast guard officers are charged with.
 ---
 
 The Anti Drug and Smuggling Unit (ADSU), with the National Coast Guard's Maritime Intelligence Cell, is

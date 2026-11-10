@@ -148,12 +148,27 @@ sources:
     date: 2026-11-07
     language: tr
 open_questions:
-  - No date was given for the raids; 7 November 2026 is the date of the reports.
-  - The suspects were not named, and no charge, court step or value was published.
-  - Kubar esrar is not described as resin or dried flower.
-  - It is not said how much was found at each address.
-  - One account says an administrative investigation was opened as well as a judicial one.
-  - Every account reproduces the same İhlas Haber Ajansı text.
+  - The reports give no separate date for the raids; 7 November 2026 is the publication date and is used as the incident date.
+  - No charge, court step, suspect name or estimated value of the cannabis was published; the investigation was said to be continuing.
+  - The accounts describe the find only as kubar esrar, a pressed or lump form of cannabis, so the report records it as a cannabis product without stating whether it was resin or dried flower.
+  - No figure for plants, area or cash was published.
+  - The three cited accounts carry the same İhlas Haber Ajansı text, so they corroborate the agency's account rather than providing independent reporting.
+  - The page image is captioned only with the headline and has no photographer or agency credit, so whether it shows this seizure is not established.
+  - No breakdown of how much esrar was found at each of the two addresses was published.
+  - The video's pictures could not be checked frame by frame, so it is listed as Sabah's report on this operation rather than as footage confirmed to show the seized esrar.
+  - Küçük Saat does not say how the two addresses related to each other or how the esrar was divided between them, and it gives no separate date for the raids.
+  - Aksiyon says both a judicial and an administrative investigation are continuing, while the accounts already cited in the report describe only an ongoing investigation without saying it has an administrative arm.
+  - Aksiyon reproduces the same İhlas Haber Ajansı account as the outlets already cited, so it is not independent reporting.
+  - 'Left out, as its quotation was not found in Aksiyon: Both a judicial and an administrative investigation into the raid were said to be continuing, according to the Aksiyon account.'
+  - The page credits İHA and reproduces the same agency account already cited, so it is not independent reporting.
+  - The page credits its text to a newsroom (Haber Merkezi) with an editor byline and reproduces the same gendarmerie account as the İhlas Haber Ajansı text already cited, so it is not independent reporting.
+  - İlkhaber Gazetesi credits the text to İHA and reproduces the same agency account as the outlets already cited, so it is not independent reporting.
+  - The İlkhaber page gives no separate date for the raids; 7 November 2026 is its publication date and the date of the reported statement.
+  - 'The page credits İHA ("Kaynak: İHA") and reproduces the same agency account already cited, so it is not independent reporting.'
+  - The page image is captioned only with the headline and carries no photographer or agency credit, so whether it shows this seizure is not established.
+  - Kayseri Gürhaber reproduces the same İhlas Haber Ajansı account as the outlets already cited, so it is not independent reporting.
+  - 'The Ensonhaber page credits İHA (Kaynak: İhlas Haber Ajansı) and reproduces the same agency account already cited, so it is not independent reporting.'
+  - The MSN page reproduces the İhlas Haber Ajansı text already cited in the report, so it is not independent reporting of the raid.
 ---
 
 Gendarmes of the Adana Provincial Gendarmerie Command raided two addresses in Seyhan, a central district

@@ -112,10 +112,31 @@ sources:
     date: 2026-11-04
     language: uk
 open_questions:
-  - The Botunets stop is dated only to "last night" in a report of 4 November 2026; 3 November is used for the whole operation.
-  - 'The total is given only as more than 5 kg, and accounts split it differently: about 60 or 130 grams at the first Mladost address, and about 5 kg or 4.3 kg of marijuana with 150 grams of hashish oil at the second.'
-  - The resinous slab, the white substance and the 35 bags from Botunets were not weighed or identified.
-  - The three men were not named, and the court's decision on permanent custody for the two Mladost men has not been reported.
+  - The article gives no separate date for the Botunets stop, describing it as about 10.30pm last night relative to its 4 November 2026 publication; 3 November 2026 is used as the incident date for the whole operation.
+  - No net or laboratory weight was published; the cannabis total is reported only as more than 5 kg and about 5 kg, so 5 kg is recorded as the stated figure.
+  - The 35 plastic bags seized in Botunets and the many bags found in the second Mladost home were not weighed, so they are not counted beyond the reported total.
+  - A slab of resinous substance and a zip bag of white lumpy substance were not identified or weighed and are excluded from cannabis figures.
+  - The reported 0.5 grams of cocaine is mentioned only to explain the mixed seizure and is excluded from cannabis figures.
+  - The reported cash of about €1,700 is seized cash, not a valuation of the drugs, so no value is recorded.
+  - No names were published for the three detained men and no charges or court outcome beyond 24-hour and 72-hour custody were reported.
+  - Only one accessible source for this event was found after searching in English and Bulgarian.
+  - 'Left out, as its quotation was not found in BurgasMedia: The Botunets man is being held for up to 24 hours under pre-trial proceedings opened under Article 354a, paragraph 1, with police due to report the case to the prosecutor''s office.'
+  - 'Left out, as its quotation was not found in BurgasMedia: Sofia police director Nikolay Peltekov, a chief commissioner, announced the operation at a briefing at the directorate''s headquarters, joined by prosecutor''s office spokesman Nikolay Nikolaev.'
+  - NOVA reports a total of 130 grams from the first Mladost address while the submitted source reports about 60 grams there, so the exact amount for that address remains unresolved.
+  - NOVA reports 4.3 kg of marijuana plus 150 grams of hashish oil in the second Mladost flat while the submitted source reports about 5 kg overall and an unweighed resinous slab, so the exact split remains unresolved.
+  - The monthly aggregate of 37 persons sent to court and drugs worth over 1.1 million euro mentioned in the same briefings is a separate statistic left out of this event.
+  - The court's decision on permanent custody for the two charged Mladost men was due the next day but its outcome is not reported in these sources.
+  - No hearing or court outcome has been reported from the pre-trial proceedings opened over the Botunets seizure.
+  - 'Left out, as its quotation was not found in BurgasMedia: Police detained three men in raids on alleged drug dealers in Sofia''s Mladost and Botunets districts.'
+  - 'Left out, as its quotation was not found in BurgasMedia: On 3 November, officers from SDVR''s Specialised Police Forces unit checked a 26-year-old man in Mladost 2.'
+  - 'Left out, as its quotation was not found in BurgasMedia: The 26-year-old has a criminal record and a conviction for drug dealing and is serving a suspended sentence.'
+  - 'Left out, as its quotation was not found in BurgasMedia: A second raid in Mladost was carried out by the same unit together with SDVR''s Narcotics section, which detained a 33-year-old man who rents a home in the district.'
+  - 'Left out, as its quotation was not found in Министерство на вътрешните работи: In Botunets at about 10.30pm, patrol officers from the Fifth District Police Department stopped a man on an electric scooter.'
+  - 'Left out, as its quotation was not found in Dnes.bg: Police said they found the second dealer through the 26-year-old and that the 33-year-old told them he was spending his proceeds on renovating another Sofia flat.'
+  - 'Left out, as its quotation was not found in Dnes.bg: Police said the 26-year-old is known for thefts, has served an effective sentence for drug possession and was now breaching a suspended sentence for drug offences.'
+  - The reprint does not name the Mladost and Botunets districts or give the reported 5 kg total, which are established by the fuller MVR, NOVA and BurgasMedia accounts already cited.
+  - This Ukrainian-language account does not itself give the number of people sent to court or the drugs' euro value reported at the same briefings, so no figure for those is added.
+  - 'Left out, as its quotation was not found in BurgasMedia: Police said the Botunets case material would still be reported to the prosecutor''s office.'
 ---
 
 Police detained three men in raids on alleged drug dealers in Sofia's Mladost and Botunets districts.

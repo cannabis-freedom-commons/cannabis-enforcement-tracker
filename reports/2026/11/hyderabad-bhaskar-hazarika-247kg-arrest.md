@@ -146,14 +146,55 @@ sources:
     date: 2026-11-07
     language: te
 open_questions:
-  - No separate date is given for the arrests; the raid was on a Wednesday night, and 5 November 2026 is the date EAGLE announced it.
-  - Most accounts give the seizure as 24.7 kg, while one EAGLE officer put it at 25 kg; the 27 August car load is given as 20.3 or 20.36 kg.
-  - Sales are estimated at about ₹1.8 crore over ten months in most accounts and about ₹2 crore in one; no value was given for the 24.7 kg itself.
-  - The Odisha suppliers' names are spelled differently from one account to the next, and it is unclear how many there were.
-  - Accounts differ on when Hazarika first came to Hyderabad, when he was released in the 2024 cases and when he resumed the trade.
-  - It is not said whether the ₹1.45 crore credited to his bank account was all proceeds of ganja sales.
-  - No charges beyond the registered case and no court outcome have been reported.
-  - The same pages carry separate cases, a Quthbullapur plant seizure and a Maheshwaram forfeiture, left out of this report.
+  - The article gives no separate date for the five arrests; 5 November 2026, its publication date, is used as the incident date.
+  - The exact arrest location is not stated; Hyderabad is used from the dateline, while Prem Nagar, New Hafeezpet is given as the five men's residence.
+  - The article also describes an earlier 27 August interception and its 20.36 kg seizure; that earlier stage is excluded from this event's figures.
+  - No valuation of the seized 24.7 kg was published; the reported transaction and sales estimates concern the wider supply chain, not that seizure's value.
+  - The article reports arrests but gives no charges, custody decision or later court outcome.
+  - Only one accessible account of the five arrests and 24.7 kg seizure was found.
+  - The TV9 Telugu page says ganja was brought from Odisha suppliers and sold in Hyderabad, while The Hindu account already cited describes sales in Cyberabad; the two descriptions are not reconciled.
+  - 'Left out, as its quotation was not found in TV9 Telugu: 20.36 kg of marijuana was seized from the car on 27 August 2026.'
+  - 'Left out, as its quotation was not found in TV9 Telugu: Trilochana Samantaray and Sagarbala of Odisha were arrested in the interception and named Bikash Barik, who was also arrested.'
+  - 'Left out, as its quotation was not found in TV9 Telugu: EAGLE officials said monitoring of Hazarika followed Barik''s disclosures and that a full probe of the network was under way.'
+  - The article gives no separate date for the raid; 5 November 2026 is its publication date and is used as the incident date.
+  - HMTV says the business was worth about Rs 1.8 crore in the last ten months and that about 400 kg of ganja was brought into the city; it does not describe the Rs 1.8 crore as a valuation of the 10-month supply.
+  - This account gives 20.3 kg for the 27 August car interception; an earlier open question noted a 20.36 kg figure whose quotation was not found.
+  - This account spells the employer Bikas Barik; an earlier open question referred to Bikash Barik.
+  - The article gives no separate date for the raid; 5 November 2026 is its publication date.
+  - The page's only picture is captioned with the headline alone, so it cannot be confirmed to show this seizure.
+  - The page carries a separate Quthbullapur case in which Suraram police seized two cannabis plants from an open plot in Kaisar Nagar and arrested a 54-year-old welder; it is a different event and is left out of this report.
+  - Telangana Today repeats the 27 August interception's 20.36 kg, while The Times of India account already noted in the report gives 20.3 kg.
+  - The new account does not repeat that the five men were arrested at a house in Prem Nagar in a night raid, as another outlet already cited reported.
+  - BigTV Telugu gives 20.36 kg for the 27 August Choutuppal stop, while The Times of India account already cited in the report gives 20.3 kg and Telangana Today repeats 20.36 kg.
+  - BigTV Telugu says the EAGLE Force ran the 60-day hunt with a Special Task Force team; the report's other accounts do not mention an STF unit in this case.
+  - This account is datelined Hyderabad, 5 November but was published on 6 November 2026; it gives no separate time for the five arrests on that night.
+  - The article gives no separate arrest date; 5 November 2026, when the EAGLE director announced the case, is the incident date and 6 November is its publication date.
+  - NewsMeter dates the three 2024 NDPS cases to January and March and gives their seizures as 1.96 kg, 1.3 kg and 700 grams, which the report's earlier accounts did not state.
+  - NewsMeter spells two police stations Madhapur and Gachibowli for the 2024 cases, while the report's earlier sources give Madapoor and Gachibowli.
+  - The article gives no separate date for the five arrests; 6 November 2026 is its publication date and the dateline is Hyderabad.
+  - NewsMeter names the Odisha supplier only Ashish Kumar and quotes purchase prices of ₹12,000 to ₹15,000 per kg and sales at around ₹50,000 per kg, without distinguishing the several Odisha suppliers named in other accounts.
+  - NewsMeter says Hazarika's latest five-man arrest came after investigators tracked two couriers visiting his residence, while The Times of India account already cited describes a night raid on a house at Prem Nagar; the two descriptions of the arrest location are not reconciled.
+  - The New Indian Express gives no date for the five arrests beyond saying they were on Wednesday and reported on Thursday; 5 November 2026, the report's existing incident date, is consistent but not stated.
+  - The New Indian Express says Hazarika was arrested twice by Madhapur police and once by Gachibowli police in 2024 and released in March 2024, while the report's other accounts describe arrests in January and March 2024 and a release on bail; the release date is not reconciled.
+  - The New Indian Express spells the Odisha supplier Ashish Kumar Baliarsingh and names Bikas Barik as a supplier, where other accounts give Ashish Kumar, Ashok Kumar Baliyarsingh and other suppliers.
+  - The New Indian Express gives 20.36 kg for the 27 August interception, while the report's Times of India account gives 20.3 kg.
+  - The page also carries a separate Maheshwaram forfeiture item; that case is recorded in its own report and is left out here.
+  - The new account spells the Odisha supplier Debasis Nayak, while another account already noted in the report uses Debasish Nayak alias Pinku Nayak; whether the spellings refer to the same person is unclear.
+  - The submitted video story has no article body; only its sub-heading states the 60-day hunt, the five arrests and the 24.7 kg seizure, so it is cited for the match rather than for new details.
+  - Left out arrested, as no supporting quotation was given.
+  - Left out kg seized, as no supporting quotation was given.
+  - CK News gives no separate date for the five arrests; 6 November 2026 is its publication date and the page describes the raid without a date.
+  - CK News says EAGLE Force STF, while other accounts describe a Special Task Force formed by EAGLE; the two unit descriptions are not reconciled.
+  - The Telangana Tribune spells the 27 August couriers Trilochan Samantaray and Sagar Bal, while the report's earlier accounts describe two Odisha couriers and do not give those names.
+  - The Telangana Tribune names the Odisha suppliers Ashish Kumar Baliarsingh and Debasis Nayak alias Pinku Nayak, spellings that differ from other accounts already noted in the report.
+  - The Telangana Tribune calls the unit the EAGLE Force STF; other accounts describe a Special Task Force formed by EAGLE, and the two descriptions are not reconciled.
+  - The submitted Hindustan Times video has no article body beyond its headline and sub-heading, so it is cited for the match rather than for further detail.
+  - ETV Bharat quotes EAGLE deputy superintendent Madhumohan Reddy putting the Prem Nagar seizure at 25 kg, while other accounts recorded in the report give 24.7 kg; the report's existing figure is unchanged.
+  - ETV Bharat gives no separate date for the five arrests; 5 November 2026 is used as the incident date reported by the other accounts.
+  - ETV Bharat describes sales worth about Rs 2 crore over ten months, while other accounts give Rs 1.8 crore; the two estimates are not reconciled.
+  - ETV Bharat gives no charge sheet or court outcome for the new arrest.
+  - ETV Bharat spells the Odisha suppliers Ashish Kumar and Devasis Nayak alias Pinku Nayak, spellings that differ from other accounts noted in the report.
+  - ETV Bharat does not say whether the Rs 1.45 crore credited to the bank account is turnover or proceeds of ganja sales.
 ---
 
 Telangana's anti-narcotics force, the EAGLE Force, arrested Bhaskar Hazarika in Hyderabad after a

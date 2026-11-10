@@ -121,13 +121,28 @@ sources:
     date: 2026-11-07
     language: hi
 open_questions:
-  - The arrest is dated only to a Thursday in reports of 6 November 2026, so 5 November is inferred.
-  - The weight is given as about 10 kg, with no packet count, and the Rs 10 crore valuation is not explained.
-  - The man is named Rajesh Sahni, Rajesh Kumar Sahni or Rajesh Kumar.
-  - 'Accounts differ on the planned route: by bus through Basti to Patan in Gujarat, by several trains with deliberate delays, or to Basti and Surat.'
-  - Some accounts credit the DRI's Muzaffarpur unit alone rather than a joint STF and DRI team.
-  - No charge sections, case number or next court date were published.
-  - The same articles report a separate Purnia arrest with 61 grams of smack, left out of this report.
+  - The incident date of 5 November 2026 is inferred because the reports published on 6 November 2026 say the Dumaria Ghat arrest happened on Thursday.
+  - The same articles report a separate Purnia operation in which a woman was held with 61 grams of smack and a motorcycle; smack is not cannabis, so that seizure, vehicle and arrest are excluded from this cannabis report.
+  - No separate laboratory weight or cannabis-only valuation method was published beyond the reported 10 kg and the about Rs 10 crore official valuation.
+  - No charge, case number or court outcome was reported; the STF said investigation was still under way.
+  - The same page reports a separate Purnea operation with 61 grams of smack and a motorcycle; smack is not cannabis, so that arrest and seizure remain excluded from the cannabis report.
+  - Prabhat Khabar does not give the exact weight of the seized charas; the 10 kg figure is its statement that the suspect was carrying about 10 kg in his backpack.
+  - Prabhat Khabar gives no exact place or time for the bus interception and no district for the Gujarat destination, whereas other accounts name Patan district.
+  - Only the publication date, 6 November 2026, is on the page; the day of the arrest is inferred from its statement that the suspect was produced in court on Friday and the earlier reports that he was held on Thursday.
+  - The page capitalises the accused's name as Rajesh Sahni without further identification; no case number or next court step is given.
+  - The Gandiv Live page carries the same AI-experienced place spelling Dumariya Ghat and describes the arrest as reported by the STF on Friday without naming the DRI's Patna or Muzaffarpur units separately.
+  - The article names no suspect, and describes the joint team as the DRI's Muzaffarpur regional unit with the Bihar STF, without the Patna unit named in other accounts.
+  - Gandiv Live does not name the DRI's Patna or Muzaffarpur units and instead attributes the account to the STF's briefing on Friday; the report and other accounts describe a joint STF-DRI operation.
+  - Gandiv Live does not state the weight of the charas or the site of the interception, giving only the district and the Rs 10 crore valuation in its headline.
+  - Neither this web story nor The Followup gives a charge, case number or court outcome; both say investigation is continuing.
+  - 'Left out, as its quotation was not found in गांडीव लाइव: The seized consignment was to be delivered to Patan district in Gujarat.'
+  - The page attributes the Dumaria Ghat arrest to a joint STF and DRI operation covering the DRI's Patna and Muzaffarpur units, which other accounts reported differently; no case number or charge was published on this page either.
+  - Dainik Bhaskar says the load was to travel by bus through Basti in Uttar Pradesh to Patan, while another account records multiple trains and a deliberate delay; both describe the same Nepal-to-Gujarat route.
+  - 'The page carries no photo of the seizure: its only image is an uncaptioned headline thumbnail not established to show this consignment or the arrested man.'
+  - The page credits the operation to the DRI's Muzaffarpur unit alone, whereas the STF statement named in other accounts describes a joint STF and DRI operation with the DRI's Patna and Muzaffarpur units.
+  - The page gives the weight as about 10 kg rather than a measured packet total, and states no number of packets.
+  - The page names no charge section or case number beyond the arrest on trafficking suspicion, and gives no next court date.
+  - Hindustan names the arrested man Rajesh Kumar, while earlier accounts call him Rajesh Sahni, and gives his village as Bairiya under the Kesaraiya police station; the village name is spelled differently across accounts and the full name is inconsistent.
 ---
 
 A joint team of the Bihar Police Special Task Force (STF) and the Directorate of Revenue Intelligence's

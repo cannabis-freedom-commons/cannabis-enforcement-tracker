@@ -214,13 +214,80 @@ sources:
     date: 2026-11-06
     language: vi
 open_questions:
-  - Only the first account names the passenger and says he was paid €4,000 to carry the bags from Cambodia; later accounts call him only a Spanish passenger, and none confirms or contradicts this.
-  - The herb is described as suspected cannabis in the Customs Department's words; no laboratory result was published.
-  - No value, charge or court outcome has been reported.
-  - The origin airport of flight VN922 and the bags' final recipient in France are not given.
-  - Customs announced the seizure on 6 November 2026, two weeks after the 25 October inspection, without saying why.
-  - Some reprints give the weight as more than 25 kg; the customs statement gives 25.4 kg.
-  - The same announcement reports a separate seizure of heated-tobacco sticks from four passengers, a tobacco case left out of this report.
+  - The article describes the dried herb as suspected cannabis and gives no laboratory result confirming it.
+  - No estimated value was published for the 25.4 kg of cannabis.
+  - The article does not say what charge the passenger faces or whether a court has taken up the case.
+  - Only one full account of the case could be opened for this report; no separate statement from the customs branch was available to read.
+  - The same article reports a separate 2.5 kg ketamine parcel case from September 2026, a different drug and event left out of this report.
+  - The Tuổi Trẻ account describes the herb as parts of the cannabis plant in the Customs Department's words but still gives no laboratory result confirming the species.
+  - Tuổi Trẻ does not name the passenger or give the payment he described, so it neither confirms nor contradicts the earlier account of a €4,000 payment for carrying the load from Cambodia.
+  - VOH describes the load as flowers, leaves, stems and buds, while the earlier Regional Customs Branch I account described dried herb; neither reports a laboratory result, so the earlier open question about species confirmation stays open.
+  - VOH gives no name for the passenger and no figure for what he was paid, so the earlier account of a €4,000 payment for carrying the load from Cambodia is neither confirmed nor contradicted here.
+  - VOH does not name the passenger, give his age or say what he was paid, so the earlier account of Jesus Sanchez Gomez and a €4,000 payment from Cambodia is neither confirmed nor contradicted here.
+  - VOH and VOV2 report the customs announcement on 6 November 2026, two weeks after the 25 October inspection; neither says when the announcement was originally made.
+  - The separate heated-tobacco case in the same announcement involves a different product and is left out of this report.
+  - The Japanese page gives no name for the Spanish passenger and no account of what he was paid, so the earlier report of a €4,000 payment from Cambodia is neither confirmed nor contradicted here.
+  - The Japanese page gives no laboratory result confirming the dried herb was cannabis beyond the Customs Department's statement.
+  - The Chinese account gives no name for the passenger and no account of a payment, so the earlier report of a €4,000 payment from Cambodia is neither confirmed nor contradicted here.
+  - The Chinese account says dried plant parts were suspected cannabis and gives no laboratory result, so the species remains unconfirmed.
+  - The article reports the customs announcement dated 6 November 2026, two weeks after the inspection, and does not say what happened to the passenger afterwards.
+  - The 405 cartons and 5 packs of heated tobacco in the same announcement are a tobacco case outside this report.
+  - This account identifies the passenger only as Spanish and gives no name, itinerary origin, payment account or charge, so it neither confirms nor contradicts the earlier account of Jesus Sanchez Gomez and a €4,000 payment for carrying the load from Cambodia.
+  - The same announcement reports a separate heated-tobacco seizure of more than 400 sticks, a different product left out of the cannabis report.
+  - This Thai page gives no name for the passenger and no account of the €4,000 payment for carrying the load from Cambodia, so it neither confirms nor contradicts that earlier account.
+  - The page names flight VN922 as the incoming leg but gives no origin airport for that flight.
+  - The page gives no laboratory result confirming the dried herb was cannabis beyond the Customs Department's statement.
+  - The page describes the herb as suspected cannabis and gives no laboratory result confirming the species.
+  - The page names the passenger only as Spanish and gives no name, origin of the trip or payment.
+  - The page gives no charge, court outcome or estimated value for the cannabis.
+  - The more than 400 heated-tobacco sticks in the same announcement are a tobacco case left out of this report.
+  - The page gives no name for the passenger and no account of the €4,000 payment for carrying the load from Cambodia, so it neither confirms nor contradicts that earlier account.
+  - The page names the passenger only as Spanish and gives no €4,000 payment account, origin of the trip or charge, so it neither confirms nor contradicts those details.
+  - The separate seizure of more than 400 TEREA heated-tobacco sticks in the same announcement is a tobacco case left out of this report.
+  - The Bengali translation says the case was handed to the Hanoi City police drug crime investigation office without naming the office's number, so it neither confirms nor contradicts the earlier report that the receiving unit was PC04.
+  - The page describes the announced batch as two cases — heated tobacco and suspected cannabis — but records only one case file being transferred, so it does not say whether the heated-tobacco matter was referred to another agency.
+  - The page identifies the passenger only as Spanish and gives no name, trip origin, payment account or charge, so it neither confirms nor contradicts the earlier account of Jesus Sanchez Gomez and a €4,000 payment for carrying the load from Cambodia.
+  - The more than 400 TEREA heated-tobacco sticks in the same announcement are a tobacco case left out of this report.
+  - The page names no charge, court outcome or estimated value for the cannabis.
+  - The page identifies the passenger only as Spanish and gives no name and no account of a payment for carrying the load, so it neither confirms nor contradicts the earlier account of the €4,000 payment from Cambodia.
+  - The Tiền Phong original names no destination inside France beyond Charles de Gaulle airport and no final consignee for the 25 kg.
+  - The page gives no laboratory result confirming the dried herb was cannabis beyond the Customs Department's statement, no charge and no court outcome.
+  - The four heated-tobacco passengers and the more than 400 TEREA sticks in the same announcement are a tobacco case left out of the cannabis report.
+  - This Korean account names the passenger only as Spanish and names no origin airport for the VN922 leg, so it neither confirms nor contradicts the earlier account of Jesus Sanchez Gomez, a EUR 4,000 payment and a Cambodia origin.
+  - The page gives no laboratory result confirming the dried herb was cannabis beyond the Customs Department's statement, and no charge, court outcome or estimated value.
+  - The more than 400 TEREA heated-tobacco sticks and four passengers in the same announcement are a separate tobacco case left out of this report.
+  - This account rounds the cannabis weight to more than 25 kg rather than the 25.4 kg given in the authority's own statement; the existing figure is retained.
+  - The page gives no laboratory result confirming the dried herb was cannabis and no national currency or euro figure for a payment, so the earlier account of a EUR 4,000 payment from Cambodia is neither confirmed nor contradicted here.
+  - This German page describes the packages as yellow and white plastic, while the existing Vietnamese accounts describe them simply as nylon; neither says whether that means two colours or one package of each.
+  - The page gives no name for the Spanish passenger and no account of the reported €4,000 payment from Cambodia, so it neither confirms nor contradicts those details.
+  - This account names the joint inspection as airport customs working with the Noi Bai airport border police and Hanoi's PC04 drug unit, without naming the customs supervision and anti-smuggling units listed in the Regional Customs Branch I account.
+  - The page gives the cannabis weight as about 25.4 kg and does not name the passenger or the reported payment for carrying the load, so it neither confirms nor contradicts those details.
+  - The page describes the herb as parts of the cannabis plant without a laboratory result confirming the species, and gives no charge, court outcome or estimated value.
+  - The page reports four heated-tobacco passengers flagged on 3, 9 and 17 October at gates 6 and 7 of Terminal 2 and does not say which gate the cannabis suitcase passed through.
+  - This Ukrainian page gives no name for the passenger, no payment account and no origin of the trip, so it neither confirms nor contradicts the earlier account of Jesus Sanchez Gomez and a €4,000 payment for carrying the load from Cambodia.
+  - The page gives no name for the Spanish passenger, no account of the reported EUR 4,000 payment from Cambodia, and no charge or court outcome, so the earlier account of those details is neither confirmed nor contradicted here.
+  - The more than 400 TEREA heated-tobacco sticks in the same announcement are a separate tobacco case left out of the cannabis report.
+  - The page's five submitted images have captions naming other Hà Nội stories and none is confirmed to show this seizure, so only the embedded video is listed as media.
+  - The page gives no name for the Spanish passenger and no account of the reported EUR 4,000 payment for carrying the load from Cambodia, so it neither confirms nor contradicts those details.
+  - The page gives no laboratory result confirming the dried herb was cannabis, and no charge or court outcome.
+  - The more than 400 TEREA heated-tobacco sticks and the four passengers in the same announcement are a separate tobacco case left out of the cannabis report.
+  - The page places the inspection in the transit baggage screening area but names no gate and no flight number.
+  - The VTC News page is a reprint of the Tiền Phong report already cited in this report, and it credits the Customs Department only, so it is not an independent account.
+  - The page names the passenger only as Spanish and gives no account of the reported EUR 4,000 payment for carrying the load from Cambodia, so it neither confirms nor contradicts that detail.
+  - The page gives no laboratory result confirming the dried herb was cannabis beyond the Customs Department's statement, and no charge or court outcome.
+  - The page does not give the origin airport of the VN922 leg or a final consignee for the shipment inside France.
+  - The page places the 25 October inspection in the transit baggage screening area of Noi Bai at 22:45 but names no gate, while it says the four heated-tobacco passengers passed gates 6 and 7 of Terminal 2.
+  - The more than 400 TEREA heated-tobacco sticks and four passengers in the same announcement are a separate tobacco case left out of the cannabis report.
+  - This account identifies the passenger only as Spanish and gives no name, trip origin, payment account or charge, so it neither confirms nor contradicts the earlier account of Jesus Sanchez Gomez and a EUR 4,000 payment for carrying the load from Cambodia.
+  - This account gives no laboratory result confirming the dried herb was cannabis beyond the Customs Department's statement.
+  - The 405 cartons and 5 packs of heated tobacco in the same article are a separate tobacco case left out of the cannabis report.
+  - It names the passenger only as Spanish and gives no name, trip origin, payment account, charge or court outcome, so it neither confirms nor contradicts the earlier account of Jesus Sanchez Gomez and a EUR 4,000 payment for carrying the load from Cambodia.
+  - The same announcement reports a separate heated-tobacco seizure of more than 400 TEREA sticks by four passengers, a tobacco case left out of the cannabis report.
+  - The same announcement reports a separate seizure of 405.5 TEREA heated-tobacco sticks from four passengers, a tobacco case left out of this cannabis report.
+  - This account identifies the passenger only as Spanish and gives no name, payment account, trip origin beyond the VN922/VN19 itinerary, charge or court outcome, so it neither confirms nor contradicts the earlier account of those details.
+  - This account describes the dried herb as parts of the cannabis plant in the Customs Department's words but gives no laboratory result confirming the species.
+  - The submitted MSN page is the same Tiền Phong article already cited in this report, not an independent account.
+  - The Tiền Phong page gives the cannabis weight as more than 25 kg rather than 25.4 kg; the existing figure is retained.
 ---
 
 Customs officers of the Regional Customs Branch I (Chi cục Hải quan khu vực I)

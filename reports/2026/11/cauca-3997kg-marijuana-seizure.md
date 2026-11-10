@@ -124,11 +124,26 @@ sources:
     date: 2026-11-09
     language: es
 open_questions:
-  - No date was given for the three procedures; 7 November 2026 is the date of the president's announcement.
-  - The 3,997 kilograms is not broken down by site, and only one account calls the procedures simultaneous.
-  - The 3,883 million pesos is a police estimate of the economic impact, chemicals and supplies included, not a value of the marijuana.
-  - The two people arrested were not named, and no charges or court outcome were reported; the groups behind the shipment were not identified.
-  - One article also reports the separate capture of an armed-group commander known as Caballo near Popayán, not covered here.
+  - No municipality or separate date for the operation was published; 7 November 2026 is the EFE dispatch and announcement date and stands in for the event date.
+  - The names, charges and judicial outcome for the two captured people were not reported.
+  - The seized chemicals, caustic soda and scales relate to processing of narcotics generally and are not counted as cannabis figures.
+  - The page's only image is explicitly labelled as an archive photo of an earlier 7-tonne seizure, so no event photo can be listed as media.
+  - El Nacional gives no municipality or separate operation date; it attributes the result to official sources on Saturday and carries an 8 November 2026 publication date.
+  - The page image is captioned only with the headline and has no credit, so it is not established to show this seizure.
+  - The EFE dispatch gives no municipality for the operation; 7 November 2026 is the date of the dispatch and the president's announcement, not a separately stated operation date.
+  - The EFE dispatch in this Swissinfo edition gives the arrest and vehicle figures through the president's statement only and names no municipality for the operation.
+  - The CW+ Noticias page names the three sites but gives no separate date for each procedure; 7 November 2026 is the date of the president's announcement.
+  - The police report does not break down the 3,997 kilograms by site, and CW+ gives only the combined total.
+  - The 3,883 million peso impact is a police estimate that includes chemicals, caustic soda, scales and other supplies, not a marijuana street value alone.
+  - No names, charges or court outcome for the two arrested people were published.
+  - 'Left out, as its quotation was not found in El País: Among the seized material were 1,186 packages of creepy-type marijuana allegedly destined for illegal markets in Peru and Chile.'
+  - Semana gives no separate operation date; its 9 November 2026 publication date is not taken as the event date.
+  - Semana does not break down the 3,997 kilograms by site, and does not say how much was found in Santander de Quilichao.
+  - El País gives no separate date for the three procedures; its 10 November 2026 publication date is not taken as the event date, and the date already recorded for the report stands.
+  - The El País page also reports, in a separate item, the capture in rural Popayán of an alleged commander of the Jaime Martínez structure known as 'Caballo' or 'La Bestia'; that is a different event and is not part of this report.
+  - Semana describes the operations as three simultaneous procedures in the southwest, which is not confirmed by the other accounts for the same day.
+  - El País gives the general's name as Carlos Germán Oviedo and Semana as Carlos Oviedo; both refer to the commander of Police Region 4.
+  - 'Left out, as its quotation was not found in Semana: The Police estimated the economic impact of the three operations at 3,883 million pesos, of which about 800 million corresponds to the chemicals, caustic soda and scales seized in Mondomo, and did not break down the rest.'
 media:
   - kind: photo
     url: https://cwmas.com.co/nacion/2026/11/09/marihuana-cauca-tres-operativos-policia/

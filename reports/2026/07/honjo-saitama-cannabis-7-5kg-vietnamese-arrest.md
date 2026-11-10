@@ -118,13 +118,31 @@ sources:
     date: 2026-11-09
     language: ja
 open_questions:
-  - The man's age is given as 31 and as 32.
-  - No exact date is given for the July raid in Honjo; 1 July 2026 stands in for the month.
-  - The deliveries to Amagasaki are dated to April, to late April and early May, or to April and May.
-  - One broadcaster values the Honjo seizure at about 150 million yen, while police put the whole haul at more than 290 million yen.
-  - Only one member of the group of seven or eight has been reported arrested.
-  - The cannabis is not broken down into flower, resin or plants, and no laboratory result was reported.
-  - No court decision has been reported.
+  - The page gives the man's age as 31 in the lead and 32 in the third paragraph; both are reported.
+  - No exact date is given for the arrest or for the July 2026 raid in Honjo; July 2026 is used as the incident date and 9 November 2026 is the date of publication.
+  - No number of suspects is stated beyond the one arrested man; police describe him as one member of a group but no other arrests are reported.
+  - The site of the seizure is a base in Honjo, Saitama, but the display to reporters was photographed at Kasai police station in Hyogo; the exact base address is not given.
+  - No court stage, charge sheet or prosecutor's decision is reported; the case is at the investigation stage after arrest.
+  - The cannabis is described only as roughly 7.5 kg, with no product breakdown (flower, resin or oil) and no laboratory confirmation reported.
+  - The street value of the cannabis is given as about 37 million yen, inside a total police valuation of more than 290 million yen that also includes stimulants, ketamine, cocaine and MDMA.
+  - The FNN page and the dmenu/Kansai Television page carry the same text from the same broadcaster, so they are not independent accounts of the event.
+  - The lead photograph on the FNN page carries no separate caption describing what it shows.
+  - Kyodo gives no exact day for the July raid and calls the site a house (住宅); 1 July remains the incident date standing in for the month.
+  - Kyodo names the drugs found as stimulants, dried cannabis and others but gives no total weight for the non-cannabis drugs.
+  - The au Web Portal page shows only the opening of the Kyodo bulletin before linking out, so its wording beyond the first line was checked against the fuller 47NEWS text of the same Kyodo dispatch.
+  - MBS gives the delivery period as April to May 2026 and the payment as about 120,000 yen, while Sun Television says the profitable delivery happened in April 2026; the accounts differ on the timing.
+  - No cannabis was involved in the re-arrest charge itself, which concerns ketamine and MDMA only; the cannabis figures come from the earlier July 2026 Saitama raid already recorded in the report.
+  - No exact re-arrest date is given; the reports of 9 November 2026 give only the month-period of the alleged deliveries.
+  - Kobe Shimbun gives the delivery window as late April to early May, Sun Television as April alone, and MBS as April to May.
+  - The NHK page's text stops after its opening paragraph, so no further figures, charges or court stage can be read from it.
+  - NHK describes the Saitama site as a house from which cannabis, stimulants and other drugs were seized in large quantities but gives no weight, date or number of arrests beyond the two Vietnamese suspects.
+  - The ABC report gives no weight for the cannabis, no date or place for the base, and no figure for the number of suspects beyond the one man re-arrested.
+  - San-television (Sun TV) and Kobe Shimbun give the drug delivery as April 2026 or late April to early May, while MBS gives April to May; the report keeps its existing late April date.
+  - Kobe Shimbun says the man was indicted on stimulants and narcotics charges, which the report already records in different wording; no court decision is reported.
+  - The submitted broadcast still carries an older headline with a 150 million yen figure while another copy of the same report is headed 290 million yen; the report keeps both police valuations already recorded.
+  - Police say four Vietnamese nationals were arrested over the 2025 Kasai robbery and assault, but that case is not part of this report and no report on it was found.
+  - Police say the group moved between bases in Saitama and Gunma and give no further address for the Honjo house.
+  - 'Left out, as its quotation was not found in MBSニュース: Police said they identified the man''s involvement from analysis of smartphones.'
 ---
 
 Hyogo prefectural police re-arrested a Vietnamese man of no fixed address and no occupation, reported

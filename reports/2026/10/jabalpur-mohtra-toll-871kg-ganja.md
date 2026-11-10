@@ -357,13 +357,39 @@ sources:
     date: 2026-10-31
     language: hi
 open_questions:
-  - 'Accounts differ on the pay: Singh was promised ₹1 lakh for this trip in some, while police said the two were paid ₹1 lakh for each of several consignments.'
-  - Police valued the ganja at about ₹4.35 crore; other accounts give ₹4.34 crore, ₹4.30 crore, ₹4 crore and ₹1.30 crore.
-  - Most accounts count 28 sacks; one gives 29.
-  - One account says the container left Visakhapatnam on 18 October bound for Ambala before Sahu redirected it, which does not fit the loading in Odisha on 27 October.
-  - It is unclear whether the patrol that stopped the container was acting on the informer's tip received on 30 October.
-  - Only one account says the network also supplied Rajasthan.
-  - Prabhat Sahu has not been caught, and no court step beyond the five-day remand has been reported.
+  - 'The accounts differ on payment: Dainik Jagran says Singh was promised ₹1 lakh for a single trip, while PTI says the accused were paid ₹1 lakh for each consignment and had made earlier runs.'
+  - The toll plaza is spelled Mohtra in Dainik Jagran and Mohatra in the PTI report; this report uses Mohtra.
+  - No court appearance, remand order or trial outcome was reported.
+  - No photograph from a second outlet could be confirmed; the PTI copy on Rediff used an AI-generated representational image.
+  - No other account confirms the Rajasthan supply detail or the village-level addresses given by Tarun Mitra.
+  - Lalluram describes the route as Visakhapatnam to Jabalpur, while the PTI account and the report say the consignment came from Odisha and was bound for Maihar.
+  - Lalluram puts the value at about ₹4 crore 34 lakh, slightly below the ₹4.35 crore figure the report uses.
+  - Lalluram names the accused only as Vikram and Dharamveer and gives their states, without the ages and home districts recorded in the report.
+  - The Lalluram page publishes its lead photograph without a credit.
+  - 'Left out, as its quotation was not found in Navbharat Live: Police registered a case against the accused under the Narcotic Drugs and Psychotropic Substances Act.'
+  - ETV Bharat says the Gosalpur police acted on a tip-off received on 30 October and then spotted the container on National Highway 30, while the report describes a patrolling team noticing it speeding; the accounts do not say whether the patrol was acting on that tip-off.
+  - CG MP News reports a five-day police remand for both suspects; no other opened account confirms the remand or its terms.
+  - CG MP News values the consignment at about ₹4 crore, below the ₹4.35 crore figure used in the report.
+  - ETV Bharat English says the container left Visakhapatnam on 18 October and was due in Ambala on 19 October before a call from Prabhat Sahu redirected it to Madhya Pradesh, but also that the 28 sacks were loaded on 27 October; the sequence is unclear and does not fit the report's Odisha-to-Maihar route.
+  - Amar Ujala values the 871 kg consignment at ₹1.30 crore, well below the ₹4.35 crore figure used in the report.
+  - Amar Ujala describes 29 sacks loaded in a truck, while the report records 28 sacks hidden among 412 paint cans in a container.
+  - The Times of India gives the weight as 871.95 kg, apparently a decimal slip for 871 kg 95 g (871.095 kg).
+  - The submitted Amar Ujala page is a video article; its lead image is the video's poster frame, captioned only with the headline and carrying no credit, so it could not be confirmed to show the seizure and was not added to media. No direct video file address was recoverable.
+  - The three embedded video files have no captions in the captured page, so their connection to this seizure could not be established.
+  - The Vocal TV account is a Hindustan Samachar copy by Mukesh Tomar and repeats the police version; it is not independent reporting.
+  - The page's only photograph is an uncaptioned group picture of police personnel, so it was not added to media.
+  - The Daily Thanthi account values the seized cannabis at ₹4.30 crore, below the ₹4.35 crore figure the report uses.
+  - The page credits the text to Hindustan Samachar / Vilok Pathak and is therefore a reprint of the agency version, not independent reporting.
+  - The page URL slug refers to three accused while its headline and body say two accused were arrested at the spot; the report's two-arrest count is retained.
+  - The article gives no separate incident date; 31 October 2026 is its publication date and matches the report's incident date.
+  - The article dates the tip to October 30th without giving a separate interception time, while its publication date is 31 October 2026.
+  - This Tarun Mitra page dates the action to the Friday-Saturday intervening night, which is compatible with the report's around 2 am on 31 October 2026 but gives no separate clock time.
+  - This account attributes the Jhansi-Lalitpur-Mathura-Aligarh-Maihar supply route to Dharamveer's questioning rather than directly to police.
+  - The page credits its text to Hindustan Samachar / Mukesh Tomar and is therefore a reprint of the agency version, not independent reporting.
+  - The submitted Yash Bharat page could not be used as evidence because the capture resolves to the homepage and contains no article text about the seizure.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The two were identified as 45-year-old Dharamveer Singh of Aligarh, Uttar Pradesh, and 24-year-old Vikram Karmakar of South Dinajpur, West Bengal.'
+  - Left out arrested, as no supporting quotation was given.
+  - Left out kg seized, as no supporting quotation was given.
 ---
 
 Jabalpur police arrested two suspected smugglers, including the container driver, and seized a large

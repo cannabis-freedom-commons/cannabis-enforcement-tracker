@@ -108,12 +108,26 @@ sources:
     publisher: Youth India 24 News
     language: hi
 open_questions:
-  - The weight is given as about 3 kg, as 1.5 kg in the same article, and as 3.131 kg.
-  - The charas is said to have been found in a bag at her tea shop, in envelopes around her house, or behind or inside an empty gas cylinder at home.
-  - The arrest is placed late on Tuesday night in reports of 4 November 2026, so 3 November is used.
-  - The Rs 1.5 crore valuation and the substance itself were still to be confirmed by testing.
-  - The shop is said to have sold ganja too, but no ganja was reported seized.
-  - No court step has been reported, and the associates named, Said and Sharafat, have not been reported caught.
+  - The article states three kilograms of charas in its opening sentence but later says 1.5 kilograms was recovered from the bag, so no cannabis weight is recorded.
+  - The article says the arrest happened late on Tuesday night and was published on 4 November 2026, so 3 November 2026 is used as the incident date.
+  - No court outcome was reported; questioning to identify associates was still under way.
+  - Only one accessible source for this event was found after searching in Hindi and English.
+  - 'The video page repeats the same discrepancy already recorded: three kilograms stated at the start but 1.5 kilograms said to be recovered from the bag, so no cannabis weight is recorded.'
+  - The arrest is described as late on Tuesday night with publication on 4 November 2026, so 3 November 2026 is retained as the incident date.
+  - No independent second outlet was found; the new capture is Amar Ujala's video republication of its own text report.
+  - The new account consistently reports about 3 kg and 3 kg of charas from the shop bag, while the existing Amar Ujala source internally reports three kilos at the start but 1.5 kg recovered from the bag, so no cannabis weight is newly resolved here.
+  - The article says both charas and ganja were sold through the shop but gives no separate ganja weight, so no additional cannabis weight can be recorded.
+  - The lead image without a caption and the portrait captioned only as the accused woman are omitted as media; only the captioned bag-seizure and raid-cordon photos are listed.
+  - The new account's figure of about 1.5 kg of charas and a pistol refers to Riyaz Khatola's earlier separate arrest, not this seizure, and is left out here.
+  - The new account says the value estimate and the seized substance still require confirmation through investigation and testing.
+  - The roundup gives only the Rs 1.5 crore valuation and no weight for the charas, so it does not settle the recorded difference between 3 kg and 1.5 kg.
+  - The roundup repeats the account in a few lines and names no police officer, so it adds no detail beyond the value and the tea-stall cover story.
+  - The Gujarati account gives no weight or value for the 3 November seizure, only that police recovered four charas packets hidden inside an empty LPG cylinder, so the weight difference between 3.131 kg and about 1.5 kg stays unresolved.
+  - The Gujarati account speaks of Shabnam's house search, while other accounts place the recovery at her tea shop; where the charas was actually found is still unclear.
+  - The Gujarati report gives no court outcome and no charge sheet; it says only that police were still raiding to find her associates.
+  - Left out arrested, as no supporting quotation was given.
+  - Left out value, as no supporting quotation was given.
+  - The article consistently reports 3.131 kg in four packets and does not resolve the earlier difference between about 3 kg and 1.5 kg in the Amar Ujala account.
 ---
 
 A joint team of Bajaria police and the Crime Branch, led by Deputy Commissioner (Central) Atul

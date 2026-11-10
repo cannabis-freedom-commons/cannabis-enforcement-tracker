@@ -108,11 +108,27 @@ sources:
     date: 2026-11-06
     language: ro
 open_questions:
-  - The 7.8 kilograms is an approximate figure, and no value was published.
-  - Neither man was named, and it is not said where in Motru the parcel was handed over.
-  - It is not said whether the 34-year-old in Spain has been found or whether his extradition has been sought.
-  - No charges, indictment or trial date have been reported.
-  - One page also reports a separate cannabis grow in Țânțăreni, not covered by this report.
+  - Only one accessible account of this event could be opened; the DIICOT and IPJ Gorj statements were not reachable and searches found no second outlet reporting it.
+  - No court decision on the two preventive-arrest requests had been reported when the article was published.
+  - The 7.8 kg figure is stated as approximate.
+  - Neither suspect is named in the report.
+  - No street value for the cannabis was published.
+  - The preventive-arrest ruling is known from two local outlets quoting the county police; no full Agerpres article or DIICOT statement on the court decision could be opened.
+  - No charges, indictment or trial date in the case have been reported.
+  - No figure for the street value of the 7.8 kg was published.
+  - The page gives no weight, plant count, area or street value for the cannabis found in Țânțăreni.
+  - The page carries no photo of the Motru seizure or the Țânțăreni grow; its images are YouTube stills of other TVR Craiova bulletins.
+  - The Radio Târgu Jiu account gives no street value for the 7.8 kg and no court date, so nothing is added on those points.
+  - The page's lead image is a screenshot still and the page carries no photo established to show this parcel or the arrest; its only video is an unattributed WhatsApp clip embedded below the text.
+  - The Jurnalul Olteniei page gives no date for the arrest itself; 6 November 2026 is its publication date, and the report keeps 4 November from the larger Gorj coverage.
+  - The page reports the preventive-arrest request to the Gorj Tribunal but not the court's decision.
+  - The page does not identify the two men or give a street value for the 7.8 kg.
+  - The page's still photo carries no credit and only a caption placeholder, so it is not established to show this parcel; its embedded video shows the cannabis but has no stated source.
+  - The Gazeta de dimineata and Sabotorii pages give no court decision on the preventive-arrest requests; only the county police statement and later local coverage addressed the ruling.
+  - Neither newly opened page reports a street value, the exact type or purity of the cannabis, or any charge sheet.
+  - 'Left out, as its quotation was not found in AGERPRES: A 32-year-old man was caught in the act in Motru on 4 November 2026 as he was about to take possession of a parcel sent from abroad.'
+  - The page attributes the account to the DIICOT Gorj prosecutors and the Gorj organised-crime police, but gives no date for the judge's ruling beyond 'yesterday', i.e. 5 November 2026.
+  - The page does not name the two men, state where in Motru the parcel was taken over, or give a street value for the 7.8 kg.
 media:
   - kind: video
     url: https://www.gorjonline.ro/video-captura-de-78-kilograme-de-canabis-la-motru-un-barbat-a-fost-prins-cand-ridica-drogurile-ascunse-intr-un-colet-cu-alimente/

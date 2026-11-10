@@ -199,12 +199,29 @@ sources:
     date: 2026-11-09
     language: sl
 open_questions:
-  - The 181 kg of marijuana is not split into dried bud and plants, and it is not said whether the 1,388 plants were seized or cut down.
-  - It is not said how many of the 12 properties were grow sites.
-  - It is not said whether any of the three Slovenian-origin detainees is among the four remanded, or what their role was.
-  - The other countries the network may have reached are not named.
-  - No outcome beyond the remand of four has been reported.
-  - All the figures are the Guardia Civil's own; the Slovenian outlets repeat them.
+  - The Guardia Civil statement gives no breakdown of how much of the 181 kg of marijuana was bud and how much was plants, nor whether the 1,388 plants were seized or cut.
+  - The three sources give the same figures, but no independent verification of the weights was published; all figures are the Guardia Civil's own.
+  - No count of how many people were formally charged, how many of the 12 properties were grow sites as opposed to storage or money-laundering premises, and no outcome beyond the remand of four detainees has been reported.
+  - The Guardia Civil says only that possible international connections with other countries are not ruled out, without naming them; Slovenia is the only destination country stated.
+  - The gold pieces worth about 40,000 euros and the six vehicles are not included as cannabis or cash figures.
+  - The exact locations of the searched properties within Granada city, Almuñécar and Peligros were not published, so the district-level point is a central reference rather than a raid site.
+  - The EFE/Infobae account repeats the Guardia Civil's own figures and gives no independent verification of the weights.
+  - It does not say how many of the 12 properties held grow rooms or whether the 1,388 plants were seized or cut.
+  - It reports a pistol modified for automatic fire without naming the Glock model that other coverage used.
+  - Only the three Slovenian-origin detainees and the gold valuation are added; the outlet repeats the agency's other figures without independent verification.
+  - Portal24 does not say whether any of the four remanded suspects are the detainees of Slovenian origin.
+  - The article repeats the Spanish authorities' figures without independent verification and gives no outcome beyond the remand of four suspects.
+  - The Infocosta page is credited to the Guardia Civil as its source and repeats the agency's figures without independent verification.
+  - COPE's weapons photo is an Europa Press copy of the Guardia Civil handout already linked from the agency's own page.
+  - Maribor24 attributes its account to portal 24ur rather than to the Guardia Civil statement directly, so its figures repeat the authorities' account without independent verification.
+  - N1 reports the court ordered detention for four suspects but does not say which court or whether any are the Slovenian-origin detainees.
+  - The Slovenian portal does not say whether any of the four remanded suspects are the three Slovenians detained, nor what role the three had in the network.
+  - It repeats the Spanish authorities' figures without independent verification and gives no Slovenian court or police step linked to the case.
+  - The page gives no new detail on the role of the three Slovenian detainees or on whether any of them is among the four remanded suspects.
+  - The opened capture contains only the opening lines and the heading 'Doce registros en Granada y su provincia'; it gives no drug quantities, seizure towns beyond Granada province, or raid dates beyond the operation name.
+  - Lokalec.si attributes its account to the Slovenian outlet N1 rather than to the Guardia Civil statement directly, so it is not independent reporting.
+  - The article does not name the Guardia Civil as the acting force or give the operation name Graveyard 02.
+  - The article does not say whether any of the four remanded suspects are among the three detainees of Slovenian origin, nor what role the Slovenians had in the network.
 ---
 
 Spain's Guardia Civil said it had dismantled a criminal organisation that grew, bought and sold,

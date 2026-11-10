@@ -124,10 +124,33 @@ sources:
     date: 2026-11-08
     language: pt
 open_questions:
-  - The operation ran over several days and the ramming happened early on a Thursday; 6 November 2026 is the date of the first reports.
-  - The four were not named, and only one account gives their nationalities.
-  - It is not said whether the boat itself was seized.
-  - No court step after the pre-trial detention has been reported.
+  - The operation developed over several days; 6 November 2026 is the publication date used for the incident date.
+  - 'No event-specific photo could be listed: the DN page''s only image is credited as an archive photo, and the Sul Informação image has no caption establishing it shows this seizure.'
+  - The judicial outcome after the first interrogation was not reported in the cited sources.
+  - The SOL article carries only the same-day publication date of 6 November 2026; the police action took place over the preceding days and no separate operation date is given.
+  - No outcome of the first judicial interrogation or of any coercive measures was reported.
+  - The page photo is captioned only with the article headline and its credit is not given, so it is not established to show this seizure.
+  - The Renascença page picture has no caption or credit establishing that it shows this seizure, so it is not listed as media.
+  - The article gives no separate date for the operation, only that the detainees would appear in court 'today'; 6 November 2026 is its publication date.
+  - The PJ statement page on policiajudiciaria.pt could not be opened, so it provides no corroborating quotation.
+  - Braga TV gives no separate date for the operation; 6 November 2026 is its publication date, and the tracker report dates the event the same way.
+  - The article's only picture is captioned as an illustrative image, so it is not established to show this seizure and none is listed as media.
+  - Rua Direita gives no separate date for the police action, only that the detainees would appear in court 'today', its publication date of 6 November 2026.
+  - The page's only image is a generic file named drugs.jpg with no caption or credit, so no event photo is listed from this page.
+  - Beyond the house-search sentence, the page's body paragraphs could not be validated against the captured text, so none of its other sentences are quoted here.
+  - Jornal TVS gives no separate date for the operation, only that it ran 'nos últimos dias'; 6 November 2026 is its publication date.
+  - The article gives no separate date for the police action, only that it ran over recent days and that the detainees would face a first judicial interrogation on Friday, 6 November 2026, which is also its publication date.
+  - The page's second picture illustrates an earlier feature on trafficking along the Portuguese coast, not this operation, so only the first image is listed.
+  - Rádio Sines gives no separate date for the police action beyond saying it ran over the last few days, and no court outcome is reported.
+  - The video page gives no separate operation date; 7 November 2026 is its publication date.
+  - The page names only the Alentejo coast and gives no operation details beyond the headline summary.
+  - Jornal de Notícias dates the ramming and arrests to the early hours of Thursday, between Zambujeira do Mar and São Teotónio, while the report's date is the 6 November publication date used for the operation as a whole.
+  - Jornal de Notícias gives the four detainees' nationalities as Senegalese, Spanish and Moroccan, a detail not given in the sources already cited by the report.
+  - Jornal de Notícias reports no injuries in the collision and no court outcome; its account stops at the arrests and the drug seizure.
+  - The page gives no date for the operation itself, only that it ran over recent days and that the detainees would face a first judicial interrogation on Friday 6 November 2026, its publication date.
+  - Rádio Pax gives no separate date for the police action beyond saying it ran over recent days and that the four suspects were to appear in court that day; 6 November 2026 is its publication date.
+  - 'The page image carries only the credit ''Fonte: PJ'' with no caption describing the scene, so it is not clearly linked to this seizure.'
+  - The page does not report the outcome of the first judicial interrogation, which other coverage recorded as pre-trial detention.
 media:
   - kind: photo
     url: https://m.noticiasaominuto.com/pais/3079796/narcotrafico-4-detidos-e-1-1-toneladas-de-polen-de-haxixe-em-odemira

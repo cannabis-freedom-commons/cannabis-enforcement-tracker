@@ -483,11 +483,65 @@ sources:
     date: 2026-11-07
     language: zh
 open_questions:
-  - Most accounts give the deportation day only as “today” or “the 3rd”; 3 November 2026 comes from their publication dates.
-  - Accounts name the prison as Changhua Prison or give only the place of pickup, and the airport as Taichung or Taoyuan; the 1:10 p.m. flight comes from one account.
-  - The 200 or 500 cartridges in the case were held by other dealers and used to trace Liu, not seized from him; no cannabis weight was published.
-  - The six-year ban on re-entering Taiwan is reported without an immigration document quoting it.
-  - 'Accounts differ on whether he married 篠崎泫 in prison: some call her his wife, others his girlfriend or report the marriage as a rumour; whether it could let him return to Taiwan is not settled.'
+  - The detention site is called Changhua Prison by Liberty Times and United Daily News, while ETtoday says the 8 a.m. pickup was at Erlin Prison; this report uses Changhua Prison.
+  - United Daily News says Taichung Airport in its text and Taoyuan Airport in its push summary, while ETtoday gives only the 1:10 p.m. flight to Hong Kong; this report omits the airport.
+  - The 1:10 p.m. flight time and late-morning procedure window come only from the ETtoday account.
+  - The 200 cartridges were held by other dealers in 2021 and used to trace Liu, not seized from him, and no weight was published, so no cannabis weight is counted.
+  - The Liberty Times lead image is marked as file material and is not listed as event media; the listed photos are the Changhua task-force handout via ETtoday.
+  - The sources refer conditionally to a Taiwan-registered spouse but do not name her or confirm a marriage, so this report states only the review requirement.
+  - No photo or video entry is added because the page's poster image and embedded video carry no caption or credit establishing what they show beyond the headline.
+  - 'Left out, as its quotation was not found in LIFE 生活網: Prosecutors ordered deportation in place of protective supervision after the Taichung branch of the Taiwan High Court granted parole with protective supervision on 20 October.'
+  - The article gives the deportation day only as 今（3）日; 3 November 2026 comes from its publication date.
+  - The deportation day is given only as (3)日; 3 November 2026 comes from the page's publication date.
+  - The deportation day is given only as 今（3）日; 3 November 2026 comes from the page's publication date of 2026-11-03.
+  - The page's view, like and comment counts for the post-return Threads post describe post-deportation social activity, not the enforcement operation, so they are not recorded as enforcement figures.
+  - The deportation day is given only as yesterday relative to the 4 November 2026 publication date, supporting 3 November 2026.
+  - The deportation day is given only as 3日; 3 November 2026 comes from the page's 4 November 2026 publication date.
+  - The page's like and comment counts for the post-return Threads post describe post-deportation social activity, not the enforcement operation, so they are not recorded as enforcement figures.
+  - The article gives the deportation day only as 今日（11月3日); 3 November 2026 comes from its publication date of 2026-11-03.
+  - No cannabis weight is published, so no cannabis weight is counted.
+  - The page states Toyz registered a marriage in prison with Taiwanese entertainer 篠崎泫, which is not added as a verified fact here.
+  - The deportation day is given only as 今（3）日; 3 November 2026 comes from the page's publication date.
+  - The page's Threads like and repost counts describe post-deportation social activity, not the enforcement operation, so they are not recorded as enforcement figures.
+  - No cannabis weight or cartridge count is published in this page, so no cannabis figures are added.
+  - The deportation day is given only as 昨（3）日; 3 November 2026 comes from the page's 4 November 2026 publication date.
+  - The Threads post, like counts, and unpinned farewell post describe post-deportation social-media activity, not the enforcement operation, so no new enforcement detail is added.
+  - The deportation day is given only as 11月3日; 3 November 2026 comes from the page's 4 November 2026 publication date.
+  - The Threads like, comment and repost counts and the unpinned farewell post describe post-deportation social-media activity, not the enforcement operation, so no new enforcement detail or figures are added.
+  - The deportation day is given only as 今（3日); 3 November 2026 comes from the page's 2026-11-03 publication date.
+  - The page gives the deportation day only as 今（3）日; 3 November 2026 is its publication date.
+  - The page's account of another influencer's reaction to the deportation adds no enforcement detail.
+  - No cannabis weight was published for the 500 cartridges described in this page, so no kilograms are counted.
+  - The page repeats the unconfirmed claim of an in-prison marriage to 篠崎泫 and lawyer commentary on future依親 residence, which is not added as a verified fact.
+  - The more than 210,000 likes for the post-release Threads post and the unpinned farewell post describe post-deportation social-media activity, not the enforcement operation, so no new enforcement detail or figures are added.
+  - The more than 210,000 likes, 18,000 comments, 3 million views and unpinned farewell post describe post-deportation social-media activity, not the enforcement operation, so no new enforcement figures are added.
+  - The deportation day is given only as 昨（3日); 3 November 2026 comes from the page's 4 November 2026 publication date.
+  - The captured page image carries an unrelated entertainment caption about 沈伯洋, so no event photo from this page is established.
+  - The page describes the marriage to entertainer 篠崎泫 as a rumour (「傳出與Toyz在獄中登記結婚」) and reports only her 11-character reply to online criticism, which adds no enforcement detail and is not stated as a confirmed fact.
+  - The page gives the deportation day only as 3日; 3 November 2026 comes from the page's publication date and its own account that he had served more than two years.
+  - The page's Threads-post like and comment counts describe post-deportation social-media activity, not the enforcement operation, so they are not recorded as enforcement figures.
+  - The page states the six-year re-entry bar, but no immigration document is quoted for the exact period.
+  - The parole day is given only as 3日 and 本月3日; 3 November 2026 comes from the page's 6 November 2026 publication date.
+  - The Threads posts, like and comment counts and fan reactions describe post-release social-media activity, not the enforcement operation, so no new enforcement detail or figures are added.
+  - This page gives the parole day only as 本月3日; 3 November 2026 comes from its 6 November 2026 publication date.
+  - The page's 270,000 likes, 20,000 comments, 10,000 reposts and 100,000 shares for Toyz's post-return Threads post describe post-deportation social activity, not the enforcement operation, so they are not recorded as figures.
+  - The article gives the livestream day only as 今（6）日 with the publication date of 6 November 2026.
+  - The page calls 篠崎泫 Liu's girlfriend (女友) and reports only a rumour that a marriage could let him return to Taiwan; it does not state that a marriage was registered.
+  - The roughly 5,000 livestream viewers describe entertainment activity, not the enforcement operation, so they are not recorded as figures.
+  - The livestream audience figures and the equipment explanation describe post-deportation social activity, not the enforcement operation, so no enforcement figure is changed.
+  - The Threads posts, like and comment counts and marriage speculation describe post-deportation social activity, not the enforcement operation, so they are not recorded as enforcement figures.
+  - The page's claims about who ran Toyz's social-media accounts and the private messages describe social-media activity, not the enforcement operation, so no enforcement figures are added.
+  - The page gives no new figure for the cannabis trafficking case, and the social-media messages, letters and stock-market talk are personal matters rather than enforcement details.
+  - The page's photos are credited only to 篠崎泫's Instagram and are not established as showing the deportation, the cannabis case or the livestream itself, so they are not listed as event media.
+  - The page's livestream audience figure and personal details describe social activity after the deportation, not the enforcement operation, so no enforcement figure is changed.
+  - The letters, the account management and the private-message warnings describe the couple's personal and social-media activity, not the enforcement operation, so no enforcement figures are added.
+  - This page dates the deportation to the 3rd and the livestream to the evening of the 6th; no separate time for the broadcast is published.
+  - This page describes the prison-visit embrace photo only as being shown during the livestream and gives no date for the visit, so when it was taken is not established.
+  - The stock-market advice, trading losses and shareholdings described here are personal matters, not enforcement details, so no enforcement figures are added.
+  - The page gives the livestream day only as 昨（6）日 relative to its 7 November 2026 publication date.
+  - The livestream's roughly 13,000 concurrent viewers describe entertainment activity, not the enforcement operation, so they are not recorded as figures.
+  - The page is a preview that breaks off after the 2021 arrest paragraph and links to a fuller article, so it gives no new detail on the cartridges, the trial or the sentence dates.
+  - The livestream, social-account management and handwritten letters are personal aftermath, not a new enforcement step, so no new enforcement detail is added.
 ---
 
 Hong Kong esports influencer Liu Weijian, known as Toyz, was released on parole

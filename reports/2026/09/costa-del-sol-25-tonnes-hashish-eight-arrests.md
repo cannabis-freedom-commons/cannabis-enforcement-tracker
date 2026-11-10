@@ -147,12 +147,29 @@ sources:
     date: 2026-10-31
     language: ar
 open_questions:
-  - The searches are dated only to September 2026; 1 September stands in for the month.
-  - It is not said which house held the drugs, and one government account places the searches in Málaga, Valencia and Girona rather than Málaga and Valencia.
-  - No value was published for the hashish; one French account values all the drugs together at more than 50 million euros.
-  - What happened to the five men not remanded in custody is not reported.
-  - Some headlines give three or four arrests and one breakdown adds up to seven; the police count is eight.
-  - No trial has been reported.
+  - The police account, as reported by Europa Press, places the searches in September 2026 but gives no day; 1 September marks that month only.
+  - Which of the searched houses in Málaga or Valencia held the drugs is not stated.
+  - No street value was published, and no final sentence is known beyond the remand of three suspects.
+  - The National Police press note itself was not opened; both articles cite that statement.
+  - Europa Press places the six searched homes and the commercial premises in Málaga and Valencia, while Moncloa says they were spread across Málaga, Valencia and Girona.
+  - The reports do not say what happened to the five detainees who were not remanded in custody.
+  - No street value for the 2.5 tonnes of hashish was published.
+  - La Opinión de Málaga's headline highlights four detainees in Málaga and its breakdown adds to seven (four on the Costa del Sol, two in Cullera and one in Girona), although its text says eight; the report keeps the police count of eight reported by Europa Press and Sur in English.
+  - The page's photo captioned 'Parte de la droga intervenida' carries no credit and appears to repeat the National Police handout already linked in the report, so it was not listed twice.
+  - The elperiodic.com piece is an unsigned local account based on the National Police statement, as the other coverage is, so it corroborates the police figures rather than adding independent confirmation.
+  - The only other account opened, Actualidad Castellón, is a sister paper in the same media group and carries the same police account, so this source adds corroboration rather than independent confirmation.
+  - The El Español page's two photographs, of a seized rifle and of seized drug loads, are credited to the Policía Nacional and appear to repeat police handout images already linked in the report, so no new media entries were added.
+  - The main 20minutos photograph is a National Police handout of the seized drugs and may repeat the police image already linked from Sur in English.
+  - The page's second police photograph carries only a caption about the group's methods, so what it shows could not be established and it was not listed.
+  - 101 TV Sevilla lists drug trafficking, criminal organisation, unlawful possession of firearms and document forgery, but not vehicle theft, although it reports that the group used stolen cars.
+  - The Diario de Alicante headline says three people were arrested, while its text and the police account give eight, three of them in Cullera; the report keeps the figure of eight.
+  - The cited page is Diario de Alicante's English translation of its Spanish article; only the English version was opened.
+  - The page's featured photograph, credited to the National Police, appears to repeat the seized-drugs handout already linked from Sur in English, so it was not listed as a second photo.
+  - The 101TV photograph is credited to the Policía Nacional and shows part of the seized haul; whether it is a different frame from the police handout already linked from Sur in English could not be established.
+  - The page's lead photograph is captioned only with the headline and has no credit, so it could not be confirmed as a distinct image of this seizure and was not added; it may repeat a National Police handout already linked in the report. Other images on the page are advertisements.
+  - The Castellón Diario account repeats the National Police account reported elsewhere, so it corroborates rather than independently confirms the police figures.
+  - The French account values all seized drugs together at more than 50 million euros retail, so no cannabis-only value can be recorded.
+  - The page's second image advertises Tangier-Med ferry times and does not show the event, so it was omitted.
 ---
 
 Eight men aged 24 to 58, of Spanish, Moroccan and French nationality [@17], were arrested in Málaga,

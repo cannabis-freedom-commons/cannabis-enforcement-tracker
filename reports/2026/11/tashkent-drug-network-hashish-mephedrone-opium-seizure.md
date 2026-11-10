@@ -87,11 +87,35 @@ sources:
     date: 2026-11-09
     language: ru
 open_questions:
-  - No date was given for the operations; 9 November 2026 is the date of the ministry statement.
-  - No total number of people detained was given.
-  - No weight was given for the 50 packs seized in Sergeli or the hashish in the Qibray car, and one account calls the 50 packs drugs rather than hashish.
-  - The 26,300 single doses cover hashish, mephedrone and opium extract together.
-  - No detention measure or court outcome has been reported.
+  - The article gives no separate date for the operations; 9 November 2026 is its publication date and is used as the incident date.
+  - 'The report does not say how many people were detained in total beyond the five described: a married couple and their accomplice in Sergeli, a driver in Qibray and two suspects in Mirzo-Ulugbek.'
+  - No weight is given for the 50 packs of hashish seized in Sergeli, and no weight for the hashish found in the Qibray car, so these are not added to the total.
+  - The 26,300 single doses cover hashish, mephedrone and opium extract together, so no cannabis-only dose count is recorded.
+  - No street value, detention measure or court outcome was reported; the case was at the investigation stage.
+  - The page's lead picture carries no credit and its caption only repeats the headline, so it cannot be established to show this seizure.
+  - Only one accessible source for this event was found after searching in Russian, Uzbek and English; no separate ministry statement or second outlet account could be opened.
+  - The article reports the criminal case under Article 273 but does not state which part of the article applies.
+  - Vzglyad.uz gives no date for the operations; 9 November 2026 is its publication date and that of the ministry statement.
+  - Vzglyad.uz reports the drugs in the Chilanzar flat as 450 grams of hashish and 100 grams of mephedrone and says they were kept inside a soft toy, and counts the 50 packs as packs of drugs rather than packs of hashish.
+  - Vzglyad.uz says the criminal case covers illegal trafficking of drugs for sale but gives no article number, unlike the account already cited.
+  - The page describes the search in Mirzo-Ulugbek as a search of the men's home and gives their previous convictions, which the account already cited did not report.
+  - The page gives no separate date for the operations; 9 November 2026 is its publication date and is used as the standing incident date, and it does not state which part of Article 273 applies.
+  - The page leaves the 50 packs of hashish and the Qibray car hashish without weights, so neither is added to the 550-gram total.
+  - The 26,300 single doses cover hashish, mephedrone and opium extract together, so no cannabis-only dose count is possible.
+  - No detention measure, plea or court outcome is reported; the case is at the investigation stage.
+  - Pressa.uz reports 1,000 zip bags, electronic scales and tape found in the Chilanzar flat and packing equipment in Mirzo-Ulugbek, but gives no separate weight for the 50 hashish packs or the hashish in the Qibray car.
+  - Pressa.uz does not name the State Security Service, does not give the suspects' previous convictions in Mirzo-Ulugbek and does not mention the Safe and Healthy Country campaign reported by the other sources.
+  - The page gives no separate date for the operations; 9 November 2026 is its publication date and stands in for the incident date.
+  - Repost.uz gives no separate date for the operations; 9 November 2026 is its publication date and that of the ministry statement.
+  - Repost.uz does not name the State Security Service, unlike the accounts already cited in the report.
+  - Repost.uz gives no weight for the 50 packs of hashish or the hashish found in the Qibray car, so neither adds to the 550-gram total.
+  - Repost.uz describes the Mirzo-Ulugbek suspects only as previously convicted men and does not report the online shop or the detailed criminal records given by the account already cited.
+  - Zamin.uz gives no total number detained, describes only the Sergeli couple, the online-shop administrator and his accomplices, and one Qibray courier, and does not mention the Sergeli accomplice described by the sources already cited.
+  - Zamin.uz says a criminal case was opened under 'the corresponding articles' of the Criminal Code without naming Article 273, and gives no separate date for the operations; 9 November 2026 is its publication date.
+  - Zamin.uz lists the hashish in the flat and the cars only as a total of 550 grams plus 40 grams and gives no weight for the hashish in the Qibray car or for the 50 packs seized in Sergeli.
+  - The UzDaily account gives no separate date for the operations; 9 November 2026 is its publication date and the standing incident date.
+  - UzDaily gives no weight for the 50 hashish packs seized in Sergeli or for the hashish found in the Qibray car.
+  - UzDaily counts the detained group members as a couple, their accomplice, the Qibray driver and the Mirzo-Ulugbek suspects without stating a total number held.
 ---
 
 Officers of the Interior Ministry and the State Security Service broke up a group of drug sellers in

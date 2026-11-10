@@ -115,12 +115,36 @@ sources:
     date: 2026-11-10
     language: id
 open_questions:
-  - Some accounts give 44 cases and 53 suspects, which include four dangerous-drug cases; others count 40 narcotics cases and 49 suspects.
-  - No weight was given for the 26 plants, and it is not said whether they were taken away or destroyed.
-  - CY's arrest is placed on Jalan Brawijaya in Desa Jubung by one account and on Jalan Buleleng Jaya in Desa Jukung by another.
-  - No dates are given for the cannabis arrests beyond the period from October to 8 November 2026.
-  - Most accounts date the press conference to Monday 9 November; two quote the police chief on Tuesday 10 November.
-  - No cannabis-only suspect count, charge or court outcome was published.
+  - No second account of the 9 November 2026 press conference could be opened; the report rests on the SMN News article alone.
+  - The 53 suspects cover all 44 cases; no cannabis-only arrest, charge or suspect count was published.
+  - Police did not say whether the 26 cannabis plants were seized from a grow site or confiscated in processed form, and gave no weight for them.
+  - The article gives no date for the Jember and Situbondo cannabis arrests beyond the October to 8 November 2026 reporting period, so the 9 November announcement date stands as the incident date.
+  - No charge, court step or outcome was reported for the cannabis suspects; the penalties cited are the maximums the law allows, not sentences given.
+  - The row of the 44 cases, 1,035.47 grams of sabu and the dangerous-drug pills are other substances and are not counted as cannabis.
+  - The only photo on the page shows the police press conference rather than the seized cannabis.
+  - Bangsapedia reports 40 narcotics cases and 49 suspects (46 men, three women) for the narcotics offences, leaving the 44-case and 53-suspect totals to include four dangerous-drug cases and four male suspects.
+  - Bangsapedia names Jalan Buleleng Jaya, Desa Jukung, Sukorambi as the street where CY was detained, whereas another account places the arrest at Jalan Brawijaya, Desa Jubung.
+  - Seblang.com counts 40 narcotics cases and 49 suspects, while the report's head line carries 44 cases and 53 suspects including four dangerous-drug cases.
+  - Seblang.com gives no weight for the dried ganja seized with the 26 potted plants and does not say whether the plants were taken away or left in place.
+  - Seblang.com places the CY arrest on Jalan Brawijaya, Desa Jubung, Sukorambi, while another account cited in the report names Jalan Buleleng Jaya, Desa Jukung, Sukorambi.
+  - Warta.in names the conference venue as Aula Rupatama Mapolres Jember, consistent with the recorded place.
+  - The page gives no weight for the 26 living plants and does not say whether they were taken away or destroyed.
+  - ANTARA reports 40 narcotics cases and 49 suspects (46 men, three women, four repeat offenders) while the report's headline figures are 44 cases and 53 suspects; the higher totals include four dangerous-drug cases and their suspects.
+  - ANTARA states the 26 plants were grown in a pot by one suspect but does not say where or whether they were taken away or destroyed, and gives no weight for them.
+  - ANTARA cites up to 20 years, life or death for methamphetamine over 5 grams but gives no charge or penalty for the cannabis suspects.
+  - The only photo on the ANTARA page shows the Jember police press conference, including the police chief, and does not show the cannabis.
+  - Liputan6 counts 40 narcotics cases with 49 suspects (46 men, three women, four repeat offenders), while the report headlines 44 cases and 53 suspects; the higher totals include four dangerous-drug cases and their suspects, as already noted in the report.
+  - Liputan6 was published 10 November 2026 and quotes the police chief on Tuesday 10/11/2026, while the report dates the press conference to Monday 9 November 2026 on the strength of earlier-opened accounts.
+  - Liputan6 gives no weight for the 26 living potted plants and does not say whether they were taken away or destroyed.
+  - Merdeka was published 10 November 2026 and quotes the police chief on Tuesday (10/11/2026), while the report dates the press conference to 9 November 2026 on the strength of earlier-opened accounts.
+  - Merdeka counts 40 cases with 49 suspects for the narcotics operation, while the report headlines 44 cases and 53 suspects including four dangerous-drug cases; the higher totals include the dangerous-drug cases.
+  - The page counts 40 narcotics cases and 49 suspects, while the report headlines 44 cases and 53 suspects; the higher totals include four dangerous-drug cases and their suspects.
+  - The page gives no weight for the 26 living potted plants and does not say whether they were taken away or destroyed.
+  - The page gives no cannabis-only suspect count, charge or court outcome.
+  - JPNN was published 10 November 2026 and quotes the police chief at a press conference held Monday 9 November 2026, consistent with earlier accounts.
+  - JPNN gives no weight for the 26 potted plants and does not say whether they were taken away or destroyed.
+  - The page quotes no charge or court outcome for the cannabis suspect.
+  - JPNN does not explain the sistem ranjau it says some suspects used to avoid meeting buyers.
 ---
 
 Police in Jember regency, East Java, said they uncovered 44 narcotics and dangerous-drug cases

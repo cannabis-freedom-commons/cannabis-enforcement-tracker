@@ -111,12 +111,26 @@ sources:
     date: 2026-11-09
     language: de
 open_questions:
-  - The two men's nationality was not given, only that their van was registered in Slovakia.
-  - The men were not detained; the case is with the Regensburg public prosecutor, and it is not said whether the sender or the recipients face proceedings.
-  - No weight or value was given for the plants.
-  - The check is placed only on the A3 near Hunderdorf.
-  - It is not said whether the plants were destroyed.
-  - Every account reproduces the customs office's release.
+  - Customs does not state the driver's or passenger's nationality, only that their van was Slovak-registered and had carried the parcels from Austria.
+  - 'The release recommends no arrest: the two men were allowed to continue their journey, and no detention, charges before a court or outcome is reported.'
+  - The case was still with the Regensburg public prosecutor's office, and whether the Austrian sender or the German recipients face proceedings as in the separate August parcel case is not reported.
+  - No weight, street value or field area is given; the plants were seedlings counted by number only.
+  - No independent media account of this check was accessible, so the report rests on the customs office's release and its two handout photographs.
+  - The release does not give the exact place of the check beyond 'on the A3 near Hunderdorf', so the coordinates of Hunderdorf are used with district precision.
+  - The plants were seized rather than destroyed; destruction is not reported in this release.
+  - The Regensburger Nachrichten version credits the text to Hauptzollamt Regensburg / RNRed and reproduces the customs release already cited, so it is not independent reporting.
+  - The page does not give the nationality of the two men, only that the van was Slovak-registered and had come from Austria.
+  - Wochenblatt.de reports the check took place on "Monday of last week" and does not give the calendar date; the reported date of 2 November comes from the customs release already cited.
+  - The Wochenblatt.de account is a regional Passauer Neue Presse title and largely reproduces the customs office's release, so it is not independent reporting.
+  - TAG24 does not say where the two men are from or whether they were detained, as in the report's existing account.
+  - TAG24 republishes the customs office's handout photographs credited to Zoll Regensburg, so it adds no independent account of the check.
+  - TAG24 credits the customs unit to Zoll Regensburg and names it as Kontrolleinheit Verkehrswege Furth im Wald, consistent with the report's attribution to the Regensburg main customs office.
+  - The Oberpfalz-Aktuell page appears to reproduce the Regensburg main customs office's release, so it is not independent reporting of the check.
+  - The Passauer Neue Presse text is a regional title of the same publishing group as Wochenblatt.de and reproduces the customs office's release, so it is not independent reporting of the check.
+  - The page dates the check only to "Monday of last week"; the 2 November date comes from the customs release already cited.
+  - 'Left out, as its quotation was not found in Passauer Neue Presse (pnp.de): Customs officers of the Furth im Wald traffic control unit of the Regensburg main customs office seized 1,230 cannabis plants on the A3 near Hunderdorf on 2 November 2026.'
+  - The TVA Ostbayern page is credited to dpa and appears to restate the customs office's release, so it is not independent reporting of the check.
+  - The page gives no nationality or place of origin for the two men, only that their van was Slovak-registered and had carried the parcels from Austria.
 ---
 
 Customs officers of the Furth im Wald traffic control unit of the Regensburg main customs office seized

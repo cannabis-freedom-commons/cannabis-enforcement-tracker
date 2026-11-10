@@ -218,12 +218,29 @@ sources:
     date: 2026-11-03
     language: id
 open_questions:
-  - No charges or court outcome were reported for the 57, and it is not said how many remained in custody.
-  - The districts covered are counted as nine or ten, with or without Namorambe.
-  - 'Some accounts give other totals: ganja lots adding up to 23.8 kg, methamphetamine of 23.1 kg or 22,971.72 grams, and a further 620 grams of ganja in Titi Rantai.'
-  - One account presents the operation as five cases with six people arrested.
-  - Most accounts date the press conference to Friday 30 October; some give Saturday 31 October.
-  - Every account draws on the same police briefing.
+  - The reports give no charges against the 57 people, no court outcome and no breakdown of how many remained in custody.
+  - Medan Bisnis named ten districts covered, including Namorambe, while Mistar and Sumutpost named nine and left Namorambe out; the report names five districts without giving a count.
+  - The three reports appear to draw on the same police briefing, so the figures are the police's own and were not independently counted.
+  - The operation ran from 9 to 29 October 2026 and its results were announced on 30 October, the date used here.
+  - 'Left out, as its quotation was not found in Mistar.id: Police in Deli Serdang regency, North Sumatra, held 57 people during Operasi Sarang Narkoba, a drug operation that ran from 9 to 29 October 2026.'
+  - A photo caption on the 1kabar page says the operation lasted 20 days, while the article text says 21 days from 9 to 29 October 2026.
+  - The FTNews account dates the press conference to Saturday 31 October 2026, while the report and the earlier local reports date it to Friday 30 October.
+  - The FTNews headline says '23 Gram' where its body says 23 kg.
+  - FTNews gives the ganja as 23 kg, rounded from the 23,517.86 grams (23.5 kg) in the report.
+  - FTNews describes the remaining suspects only as 'puluhan' (dozens of) users, while the earlier reports give 36.
+  - 'Left out, as its quotation was not found in Sumut24.co: Of the 57 held, police classed 12 as bandar, or kingpins, nine as pengedar, or dealers, and 36 as users.'
+  - 'Left out, as its quotation was not found in Medan Pos Online: It produced 30 narcotics cases and seized 23,517.86 grams (23.5 kg) of ganja, 23,010.24 grams of methamphetamine and 42 ecstasy pills.'
+  - Tribun Medan gives the methamphetamine total as 23.1 kg and the second cannabis lot as 9.4 kg, while the report's earlier sources give 23,010.24 grams and 9,046 grams; the article's two lots (14.4 kg and 9.4 kg) sum to 23.8 kg, above its own 23.5 kg total.
+  - Trans89.com gives the ganja as 24 kg, a rounded figure; the report uses the police's detailed 23,517.86 g (23.5 kg).
+  - iNews Medan labels the press conference 'Friday (31/10/2026)', although 31 October 2026 fell on a Saturday; the report keeps Friday 30 October, the date given in the earlier accounts.
+  - This account presents five cases and six people arrested, while the report records 30 cases and 57 suspects from the same operation; the five-case list names suspects in every case without explaining the six-person count.
+  - The article gives the methamphetamine total as 22,971.72 grams, while the report's earlier sources give 23,010.24 grams.
+  - 'Left out, as its quotation was not found in Editorial24jam.com: The third case was at Dusun I in Seituan village, Pantai Labu, Deli Serdang, on the afternoon of 25 October 2026.'
+  - Metro24Jam.co.id labels the 30 October 2026 presentation 'Kamis' (Thursday), although 30 October 2026 was a Friday; the report keeps the date and the weekday given in its earlier sources.
+  - The supplied page-2 capture details only methamphetamine cases and gives no cannabis breakdown; the 9,046 gram and 14,471.86 gram ganja lots are on page 1 of the same article.
+  - This account values the whole haul at Rp11.5 billion and the ganja at Rp35 million, rounded against the Rp11.54 billion total and Rp35,276,000 ganja value already recorded.
+  - Its account of 9,046 grams held by FEJ and FAP plus an additional 620 grams in Titi Rantai, Medan Baru, is unclear against the recorded 23,517.86-gram ganja total if the 620 grams were added on top.
+  - Methamphetamine quantities are mentioned only to explain the mixed seizure and are excluded from cannabis figures.
 ---
 
 Police in Deli Serdang regency, North Sumatra, presented the results of Operasi Sarang Narkoba, a sweep

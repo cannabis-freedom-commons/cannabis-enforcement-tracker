@@ -111,12 +111,27 @@ sources:
     date: 2026-11-04
     language: id
 open_questions:
-  - The plants are counted as 25, 26 or 29 in different accounts.
-  - Police put the plants at 5 kg worth up to Rp 250 million in one account, at 2 to 2.5 kg in others, and at tens to hundreds of millions of rupiah in another.
-  - Accounts differ on whether the cannabis was for his own use, for New Year or partly for sale, and the person who received the harvested plant was not identified.
-  - The seed supplier, Juan, has not been found.
-  - No court step has been reported.
-  - One account also gives Sragen's October drug totals, a separate matter left out here.
+  - The article gives no separate arrest date; 4 November 2026 is the publication and police display date used as the incident date.
+  - Only one accessible source for this event was found; no second account confirming the arrest could be opened.
+  - No court outcome beyond the charge and the possible death penalty was reported.
+  - The page carries two near-identical photos of the same seized plants; only one is listed as media.
+  - The page also embeds an unrelated video thumbnail that does not show this event and is omitted.
+  - The new 5 kg figure is the police-calculated weight of the 25 live plants, distinct from the 15.8 grams of dried cannabis, and is not added to kg_seized without a dried-weight conversion.
+  - The article also reports a separate October 2026 Sragen total of 9 cases with 12 suspects involving methamphetamine, psychotropics and list-G drugs, a different enforcement total left out of this cannabis report.
+  - The page's second thumbnail about a Jakarta drug raid does not show this event and is omitted from media.
+  - The new account estimates about 2.5 kg with a value of tens of millions of rupiah under Rp100 million, differing from the 5 kg and Rp250 million figure already recorded from another outlet; the report keeps the earlier figures.
+  - The new account gives no separate raid date beyond an October 2026 operation and a 4 November 2026 police display, so the incident date remains the recorded display date.
+  - This account estimates about 2-2.5 kilograms with a potential value of about Rp250 million, differing from the 5 kilograms with a Rp250 million value already recorded, so the earlier figures are retained.
+  - This account gives only the 4 November 2026 police display date and no separate search date, so the recorded 24 October 2026 search and 4 November 2026 display dates are unchanged.
+  - This account counts 25 cannabis plants and gives no dried-cannabis weight, while the existing figures record 29 plants and 15.8 grams from other outlets.
+  - This account gives no separate search or arrest date; it quotes the police chief speaking on Wednesday 4 November 2026 and was published on 5 November 2026, when the police press conference took place.
+  - Police gave the plants' value only as a range of tens to hundreds of millions of rupiah, so no single value can be recorded.
+  - Police said the plants were sowed in April or May 2026 rather than April alone, and gave no arrest time.
+  - No court outcome was reported; police said the case would be updated as it develops.
+  - This account gives no separate search or arrest date beyond its 7 November 2026 publication; the recorded 24 October 2026 search and 4 November 2026 display dates come from earlier accounts.
+  - This account names only Sidoharjo district and does not name Jetak village or the Dukuh Jetak Tani address recorded from earlier accounts.
+  - This outlet's fuller article text gives slightly different figure details from those already recorded, so the earlier figures are retained.
+  - This account gives no separate search or arrest date, only the 4 November 2026 press conference, so the recorded 24 October 2026 search date is unchanged.
 ---
 
 Police in Sragen detained a man identified only as BW, from Jetak village in Sidoharjo, after finding

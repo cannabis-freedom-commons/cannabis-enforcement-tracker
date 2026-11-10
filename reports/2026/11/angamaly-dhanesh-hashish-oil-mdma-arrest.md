@@ -104,12 +104,30 @@ sources:
     date: 2026-11-10
     language: ml
 open_questions:
-  - No date is given for the arrest beyond a Monday; 9 November 2026 is the date of the first reports.
-  - No laboratory result or value was reported for the hashish oil.
-  - Harikrishnan's earlier seizure in Aluva is given as 185 grams of MDMA in some accounts and 180 grams in others.
-  - One account says the drugs came from Bengaluru, Mysuru and elsewhere rather than through the plantation.
-  - No charge, remand or court appearance has been reported.
-  - The accounts repeat the same police briefing.
+  - Neither account gives a date for the arrest beyond 'Monday'; 9 November 2026, the publication date, is used as the incident date.
+  - The hashish oil is described only as seized hashish oil, with no laboratory confirmation or street value reported.
+  - The eight grams of MDMA are outside the tracker's cannabis scope and are not recorded in the figures.
+  - No charge, charge sheet, remand order or court appearance is reported for Dhanesh.
+  - The earlier Aluva lodge arrest of Harikrishnan with 185 grams of MDMA and the Thoppumpady arrest of Shinu Sebastian with seven grams are separate arrests reported as MDMA-only, so they are not counted as cannabis arrests in this report.
+  - Rediff.com publishes the PTI text, which restates the police statement also reported by ETV Bharat; the two are not fully independent.
+  - Times Kerala gives no separate arrest date, and its own text does not say where the arrest took place; Angamaly is taken from the other accounts of the same arrest cited here.
+  - This account repeats the same police briefing as ETV Bharat and Metro Vaartha and is not independent confirmation.
+  - Samakalika Malayalam gives the earlier Aluva seizure from Harikrishnan as 180 grams of MDMA, while the ETV Bharat-based account in this report gives 185 grams; the report keeps the figure already recorded.
+  - The Samakalika account does not name the police team that made the arrest, unlike the ETV Bharat report.
+  - Suprabhaatham gives no separate date or place for the arrest; it links the arrest only to the earlier Aluva MDMA seizure from Harikrishnan.
+  - Mathrubhumi repeats the same police account as the ETV Bharat-based reports already cited and is not independent confirmation.
+  - Anweshanam says the man arrested earlier in Aluva had 180 grams of MDMA, while accounts already in the report give 185 grams; the report keeps 185 grams.
+  - Anweshanam gives no separate date for the arrest; 9 November 2026 is its publication date.
+  - Anweshanam does not name the investigating team or its officers, so its account cannot confirm who led the arrest from that source alone.
+  - The page's only picture carries no credit and no caption stating who or what it shows, so no picture from it is added.
+  - Neither Sirajlive nor Vachakam gives the exact day of the arrest; they were published on 9 and 8 November 2026, and the tracker report uses 9 November 2026 as the incident date.
+  - The eight grams of MDMA seized with the hashish oil are outside the tracker's cannabis scope and are not counted in the figures.
+  - Sirajlive says the drugs came from Bengaluru, Mysuru and elsewhere, while accounts already in the report describe the bunches as coming from the accused's Nanjangudu plantation near Mysuru.
+  - Vachakam's timestamp shows 8 November 2026 although its page also carries items dated 9 November, so its publication date could not be confirmed exactly.
+  - No charge, remand or court appearance is reported in either account.
+  - The Mathrubhumi page repeats the same police briefing as the accounts already cited in the report and is not independent confirmation.
+  - Mathrubhumi gives no separate date for the arrest, which the report dates to 9 November 2026 from the other accounts.
+  - Mathrubhumi gives no figure for the banana plantation's size or its crop value.
 ---
 
 Police arrested Dhanesh S Nair, 31, known as Danny or Danny Bhai, the alleged main accused of a network

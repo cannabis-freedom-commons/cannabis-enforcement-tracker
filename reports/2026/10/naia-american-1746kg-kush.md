@@ -168,11 +168,56 @@ sources:
     publisher: Daily Tribune (Philippines)
     date: 2026-10-31
 open_questions:
-  - The interception is placed at about 8.35 pm by PDEA and between 8.45 and 10 pm by the police.
-  - PDEA values the kush at ₱17.46 million; a police statement gives ₱26.196 million.
-  - The man was identified only by the alias "Henry".
-  - No charge sheet, court date or outcome has been reported.
-  - The same releases report a separate seizure of 7,335 grams in abandoned luggage at the terminal on 26 October, left out of this report.
+  - >-
+    Both opened sources are Daily Tribune reports of the same event; no independent statement from PDEA or
+    another outlet could be opened.
+  - >-
+    The two Tribune reports give the weight as approximately 17.46 kg and 17,464 grams; the report uses 17.46
+    kg.
+  - The suspect was identified only by the alias “Henry”; his full name was not published.
+  - >-
+    PDEA said the suspect faces formal charges under Republic Act 9165, but no charge sheet, court date or
+    outcome was reported.
+  - >-
+    The PNP statement valued the 17,464 grams at ₱26.196 million at the standard drug price, while the
+    report's PDEA-based sources give ₱17.46 million; the report keeps the PDEA figure.
+  - >-
+    The PNP statement places the arrest between 8:45 p.m. and 10 p.m., while the report's PDEA account says it
+    happened around 8:35 p.m.
+  - >-
+    The PNP post also reports four shabu operations in Bataan, Iloilo, Tondo and Pagadian, separate events
+    left out of this report.
+  - >-
+    The Facebook post shows only a relative posting time ('13 hours ago'), so its exact publication date is
+    not recorded.
+  - The Facebook post shows only a relative time (“11 hours ago”), so its publication date is not known.
+  - >-
+    Philippine Star valued the kush at “over P17 million,” which is compatible with but less precise than the
+    report’s PDEA figure of P17.46 million; the report keeps the PDEA figure.
+  - >-
+    The attached image is captioned as possibly an image of text and is not identified as a photo of the
+    seizure, so it was not added.
+  - No full Philippine Star article of this arrest could be opened; the Facebook post is the Star text used.
+  - >-
+    The article also reports the separate 26 October seizure of 7,335 grams and a combined four-day total of
+    about 24.8 kilograms, left to that event's report.
+  - The Chronicle's photo carries no credit line identifying it as this seizure.
+  - >-
+    Left out, as its quotation was not found in Daily Tribune: A 62-year-old American citizen was arrested at
+    Ninoy Aquino International Airport (NAIA) Terminal 3 after authorities intercepted about 17.46 kilograms
+    of high-grade marijuana in his luggage, the Philippine Drug Enforcement Agency (PDEA) reported.
+  - >-
+    Manila Standard credits the PNP Aviation Security Group with announcing the arrest, while the report's
+    lead attributes the account to PDEA; both agencies were part of the NAIA interdiction task group.
+  - >-
+    The post repeats the opening of the Philstar.com article the report already cites, so it corroborates that
+    account rather than independently confirming it.
+  - >-
+    The Journal account describes the passenger only as a male American or foreigner and gives no age or
+    alias, so the reported age of 62 and the alias Henry continue to rest on the report's earlier sources.
+  - >-
+    The same bureau release describes 7,335 grams of suspected kush found in abandoned luggage from Bangkok at
+    the same terminal on 26 October, a separate event left out of this report.
 ---
 
 Officers at Ninoy Aquino International Airport (NAIA) Terminal 3 arrested a 62-year-old American

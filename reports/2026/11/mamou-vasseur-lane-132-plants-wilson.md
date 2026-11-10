@@ -117,12 +117,29 @@ sources:
     publisher: MSN (KLFY Lafayette)
     date: 2026-11-06
 open_questions:
-  - The arrest date is not given; deputies arrested Wilson some time after the 2 November search.
-  - The 971 grams is not separated from the plants, and it is not said whether the plants were taken or destroyed.
-  - The sheriff's office value is reported as about $32,450 for all the drugs in one account and about $132,000 for the plants alone in another.
-  - One broadcast speaks of more than 100 plants rather than 132.
-  - Wilson's custody status, any court date and the outcome have not been reported.
-  - Every account comes from the sheriff's office statement.
+  - The arrest date is not given; deputies arrested the man “later on”, after the 2 November search, so 2 November is the raid date and not necessarily the arrest date.
+  - The 971 grams is described only as marijuana; no source separates plants from dried product or says what of the 132 plants was uprooted rather than taken.
+  - The page does not say whether the marijuana arose from the greenhouse plants or how the $32,450 street value was divided between the marijuana and the kratom, so the value is recorded as the sheriff’s office’s total drug estimate.
+  - The man’s booking and custody status, and any court date or outcome, were not reported; the case was at the charge stage.
+  - The seized items photograph listed on the page could not be confirmed by a direct image address, so only the plants photo is linked.
+  - No independent second account of the raid was found; the only source is KLFY’s report of the sheriff’s office statement.
+  - An 'items seized during the investigation' photo appears on the page but its direct image address could not be recovered from the markup, so it is not linked as media.
+  - No independent outlet coverage of the raid was found; both KLFY URLs carry the same sheriff's office account.
+  - KALB's sheriff's office figures are not reconciled with the $32,450 total drug value recorded in the report from KLFY's account of the same statement.
+  - The report does not say whether the 132 plants were taken as evidence or destroyed, so no separate plant seizure or destruction split is recorded.
+  - The Yahoo page is a syndicated copy of KLFY's Nexstar article, not an independent second account.
+  - The arrest date remains unstated beyond deputies finding Wilson "later on" after the 2 November search.
+  - The capture gives no court date or outcome; the case was at the charge stage.
+  - The KTVE item carries only a one-sentence caption and no arrests, figures or charges; its video was not transcribed, so no detail from the footage is recorded.
+  - KTVE's description says over 100 marijuana plants, fewer than the 132 plants the sheriff's office statement counted.
+  - No figure for an area, hectare or weight of the 132 plants in an uprooted-to-taken split was given; the 971 grams remains unseparated from the plants.
+  - The page reports the sheriff's office street value of the plants alone at about $132,000 and of the kratom at $50, which does not match the $32,450 total reported by KLFY from the same statement.
+  - The booking photograph of Wilson has no caption or credit beyond his name; the Evangeline Parish Sheriff's Office is inferred as its publisher from the statement it accompanies.
+  - No court date, plea or outcome was reported; the case was at the charge stage.
+  - The arrest date is still unstated beyond deputies finding Wilson "later on" after the 2 November search.
+  - 'Left out, as its quotation was not found in KTVE - myarklamiss.com: They also took two rifles, a Remington Model 700 .270 and a Savage Model 19 .22 Long Rifle, and 45 kratom capsules.'
+  - 'Left out, as its quotation was not found in KTVE - myarklamiss.com: The sheriff''s office listed the two seized rifles with their serial numbers, E6414823 for the Remington and 46840 for the Savage.'
+  - 'Left out, as its quotation was not found in KTVE - myarklamiss.com: The report credited the account to the sheriff''s office as relayed by KLFY in Lafayette.'
 ---
 
 Deputies of the Evangeline Parish Sheriff's Office searched a camper and three greenhouses at 1058

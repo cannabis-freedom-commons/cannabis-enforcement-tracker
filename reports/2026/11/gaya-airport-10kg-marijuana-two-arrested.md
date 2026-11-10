@@ -107,11 +107,32 @@ sources:
     date: 2026-11-05
     language: hi
 open_questions:
-  - The Rs 10 crore valuation has not been officially confirmed, and the authorities were still assessing the value.
-  - The weight is given as about 10 kg in most accounts and 10.5 kg in one, and the departure airport as Chiang Mai or Bangkok.
-  - No charges or custody ruling have been reported since the women were brought before the chief judicial magistrate.
-  - None of the other four travellers has been reported arrested.
-  - One account counts this as the fourth airport seizure of the year and also as four in two years.
+  - The reported Rs 10 crore international-market valuation was explicitly described as not officially confirmed, so no value is recorded.
+  - No charges, custody ruling or court outcome were reported; the customs investigation was still under way.
+  - Only one opened source supports this event; no second account was opened.
+  - Dainik Bhaskar alone reports the airport seizure count, and the same article gives it both as the fourth case this year and as four cases in the past two years.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The same report said four such consignments had been caught in the past two years and that investigators had still not mapped the networks behind them.'
+  - The Hindi-language sources render the women's names differently and the airport has had several cannabis seizures, so this is matched to the recorded event on the date, place, method and quantities rather than on the names alone.
+  - No charges, custody ruling or court outcome are reported in either account; the customs investigation was continuing.
+  - The Rs 10 crore international-market valuation is reported as approximate and, in Outlook India's account, not officially confirmed, so no value is recorded.
+  - The four other members of the six-person group had not reached Gaya airport when the accounts were written, and no arrests involving them were reported.
+  - The Janta Se Rishta account does not name the two women or give flight, baggage-count or questioning details, so those points continue to rest on the earlier sources.
+  - The account states that the specific form of cannabis in this seizure was not officially confirmed.
+  - The 10 kg quantity would imply an unusually high per-kilogram value at the reported Rs 10 crore international-market estimate; the sources give no breakdown of the consignment or the basis of the valuation.
+  - No charges, custody ruling or court outcome for the two women is given in the El Balad account.
+  - 'Left out, as its quotation was not found in صدى البلد: Officers allegedly recovered about 10 kg of marijuana from four separate bags belonging to the pair.'
+  - 'Left out, as its quotation was not found in صدى البلد: The bags were examined more closely after Central Industrial Security Force personnel and other security staff flagged something suspicious during routine screening.'
+  - 'Left out, as its quotation was not found in صدى البلد: The consignment was reported to be worth about Rs 10 crore on the international market, although that valuation was not officially confirmed.'
+  - The NewsBytes account does not name the two arrested people.
+  - The Times of India gives the quantity as 10.5 kg while the recorded report and Hindustan Times give about 10 kg; the report keeps the 10 kg figure.
+  - The Times of India names Bangkok as the departure city while the recorded report and Hindustan Times name Chiang Mai; both are in Thailand and the sources do not reconcile them.
+  - The Times of India reports the production before the chief judicial magistrate on Thursday but gives no custody ruling or charges, so no court outcome is known.
+  - Al-Estad says the women were caught on their arrival on Wednesday, which is consistent with the recorded 4 November 2026 date but gives no time for the arrest.
+  - The News24 account does not name the two women or report charges, custody orders or a court outcome.
+  - The ETV Bharat account says the pair was flown to Patna for further proceedings but does not say which agency took them or what charges, if any, were filed.
+  - The Hindustan Times gives the departure city as Chiang Mai, while the Times of India names Bangkok; this account agrees with the other Hindi-language sources on Chiang Mai.
+  - The Rs 10 crore international-market valuation is described as approximate and has not been officially confirmed, so no value is recorded.
+  - Security staff suspected 'suspicious items' before the search; the article does not say whether the bags were opened on site or whether the women were charged.
 ---
 
 Customs officers at Gaya International Airport arrested two women from Punjab, identified as

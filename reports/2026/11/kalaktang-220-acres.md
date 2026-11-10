@@ -202,14 +202,73 @@ media:
     publisher: Urban Acres
     caption: Photo of the illicit cannabis cultivation clearance operation in Arunachal Pradesh.
 open_questions:
-  - No one has been named, arrested or charged over the fields.
-  - The 15,000 kg, 51,000 kg and 1.37 lakh kg figures are the authorities' weights of plants destroyed, not dried cannabis; no count of plants was published.
-  - Nearly every account republishes one NCB press release carried by IANS, so there is no independent report from the fields.
-  - One account dates the end of this phase to 3 November 2026; the NCB release came on 7 November.
-  - The 118 people count officers, personnel and hired workers together, without a split.
-  - The fields lay around Boha, Angkaling and R Pam; the map marks Kalaktang, the subdivision's centre.
-  - Police said the drive would continue; later days are not in these reports.
-  - The same release mentions earlier NCB drives in Kullu, Himachal Pradesh, and Kandhamal and Boudh, Odisha, and a poppy drive in Manipur; those are separate events.
+  - No one was named or reported arrested.
+  - The Arunachal Times describes the weights as what was destroyed. Northeast Live calls the same 15,000 kg and 51,000 kg figures an estimated yield. This report follows the Arunachal Times.
+  - The drive covered Boha, Angkaling and R Pam. The map marks Kalaktang, the subdivision centre, not each field.
+  - Police said the destruction drive would continue. Later days are not in these reports.
+  - The Disha article gives the phase as completed on 3 November 2026; the NCB release reported it on 7 November.
+  - The NCB's comparison with 2025 and its plans for other districts are context for the campaign, not figures for this drive.
+  - 'Left out, as its quotation was not found in Social News XYZ: More than 1.37 lakh kilograms (about 137 tonnes) of cannabis plants grown mainly on community land were destroyed.'
+  - No arrest, charge or court outcome is reported for the drive in either opened account.
+  - The page names no individual officer and attributes the operation to the NCB and the security agencies named in the release.
+  - The Hindi page is a translated republication of the NCB press release carried by IANS, so it is not an independent second account of the events.
+  - The figures are the authorities' weights of plants destroyed, not a measured yield of dried cannabis.
+  - The Hindi page also mentions the NCB's opium poppy mapping in eight other districts and earlier drives in Himachal Pradesh and Odisha; these are separate events not recorded here.
+  - The 1.37 lakh kg is the authorities' weight of the plants destroyed, not a measured yield of dried cannabis.
+  - No figure for the number of individual plants destroyed was published.
+  - The Hindi page gives no arrest, charge or court outcome for the drive.
+  - The page's picture carries no credit and no caption identifying a specific field or seizure, so it is not recorded as media.
+  - The Hindi page is an automated IANS feed, so it is not an independent second account of the events.
+  - The India Today NE item is a short video report with no arrest, charge or court outcome reported for the drive.
+  - The Telugu page gives no arrest, charge or court outcome for the drive.
+  - The Telugu page is a brief, unattributed news summary of the authorities' account, not an independent report of its own observations.
+  - The Lokmat page is an automated IANS feed translation and has not been editorially reviewed, so it is not an independent account of the drive.
+  - The 118 figure counts personnel and hired workers together; the split is not given.
+  - No one is reported arrested, charged or convicted in any account of the Kalaktang drive.
+  - The 1.37 lakh kg is the authorities' weight of the cannabis plants destroyed, not a measured yield of dried cannabis, and no count of individual plants was published.
+  - The Times of India, Social News XYZ and India Today NE all rest on the same NCB account, so none is an independent observation of the fields.
+  - The Times of India image is captioned only as a representative image, so no photo of the event is added.
+  - 'Left out, as its quotation was not found in Social News XYZ: Joint teams destroyed more than 1.37 lakh kg (about 137 tonnes) of cannabis plants, grown mainly on community land, during the first phase of the drive.'
+  - The Ommcom News account is a republication of the same IANS report carried by other outlets and relies on the NCB press release, so it is not an independent observation of the fields.
+  - The page is a brief unattributed news summary of the authorities' account, not an independent observation of the fields.
+  - Arunachal24 is an Arunachal Pradesh news site republishing the NCB release carried by IANS; it reports no observation of the fields beyond the official account.
+  - The page does not split the 118 personnel and hired workers, and gives no count of individual plants or arrests for the Kalaktang drive.
+  - The article also mentions an earlier drive over about 592 acres in Parvati Valley, Kullu, and about 30 acres at Kandhamal under Mission Zero Cannabis Cultivation; these are separate events not recorded in the Kalaktang report.
+  - The Bhaskar Hindi page is an automated IANS feed translation and its own disclaimer says no editorial changes were made, so it is not an independent account of the fields.
+  - The page gives no arrest, charge or court outcome for the drive.
+  - The page also names districts for planned future cannabis and opium poppy drives; those plans are context for the campaign, not figures for this drive.
+  - The Deshbandhu page is an automated IANS feed copy with no editorial changes, so it is not an independent account of the fields.
+  - The page also mentions earlier NCB drives in Parvati Valley, Kullu, and in Kandhamal and Boudh, Odisha; those are separate events recorded elsewhere and left out here.
+  - The page gives no count of individual cannabis plants, no arrests and no court outcome for the drive.
+  - The 118 figure counts officers, personnel and local workers together; the page does not split them.
+  - The page's sole picture is an uncaptioned, uncredited thumbnail that does not identify a particular Kalaktang field, so it is not recorded as media.
+  - The Telugu report is a short video summary of the authorities' account and does not name an officer, give a count of individual plants, a count of participants, or any arrest, charge or court outcome.
+  - The video's own footage cannot be viewed here; whether it shows the Kalaktang fields rather than illustrative material is unconfirmed.
+  - The page reports no arrests, charges or court outcome for the drive.
+  - The Tarun Mitra page is a Hindi republication of the NCB release carried by IANS and carries no independent observation of the fields.
+  - The page gives no count of individual plants, no arrests, charges or court outcome for the drive.
+  - The page also mentions an NCB drive over about 592 acres in Parvati Valley, Kullu, and about 30 acres at Kandhamal under Mission Zero Cannabis Cultivation; these are separate events not recorded here.
+  - Aryan Age gives a summary account with no plant weight or count of individual plants, and its vague references to insurgent funding are not supported by the opened page text.
+  - The Eastern Mirror page is an IANS republication of the same NCB press release carried by other outlets, so it is not an independent observation of the fields.
+  - The page gives no count of individual cannabis plants, no arrests, charges or court outcome for the drive.
+  - The Marathi page is a translated republication of the same NCB press release carried in other languages, so it is not an independent observation of the fields.
+  - Narcotics Control Board in the English text corresponds to नार्कोटिक्स कंट्रोल ब्युरो (NCB), the Narcotics Control Bureau, in this account.
+  - The Times of India also reports, on the same page, a separate Manipur police operation that destroyed about 45 acres of illicit poppy cultivation in the Thangjing Hill Range, Churachandpur, on 5 November 2026, in which no cultivators were found and a summons was issued to the chief of Lhangnom village; poppy is outside this tracker's cannabis scope and that operation is not recorded here.
+  - The Times of India summary and the Imphal Times and India Today NE accounts of the Manipur poppy drive agree on the roughly 45 acres, the units involved and the summons to the village chief, but none of them gives a count of people arrested or charged for that separate operation.
+  - The Marathi wording couples a weight-like figure with plants (1 lakh 37 thousand kilohoon adhik ganjachi zaade); it is read as the authorities' 1.37 lakh kg plant weight already recorded, not a separate plant count.
+  - The same page also reports about 45 acres of poppy destroyed in the Thangjing Hill Range, Churachandpur, Manipur; poppy is outside the tracker's cannabis scope and is left out here.
+  - The page's NCB campaign context, including the Vision Document on Narcotics Control for 2026-2029, the eight-times-2025 comparison, planned drives in other Arunachal districts, and earlier drives in Himachal Pradesh and Odisha, concerns other or future events not recorded in this report.
+  - The page names no participating agencies beyond a joint multi-agency team, and reports no arrests, charges or court outcome for the drive.
+  - No count of individual cannabis plants was published; the 1.37 lakh kg is the authorities' weight of the plants destroyed.
+  - The page's claim that observers called the drive a blow to narcotics trade allegedly funding insurgents is unattributed, so it is not added as a fact.
+  - The Lokmat Times page says it is sourced from a syndicated agency feed and refined with artificial intelligence without human editorial review, so it is not an independent observation of the fields.
+  - The Janbhawna Times page is a Hindi account of the NCB statement carried by wire services, so it is not an independent observation of the Kalaktang fields, and it gives no arrest, charge or court outcome for the drive.
+  - The page carries the headline framing that the NCB's strike was its biggest and files the story under a Delhi category, though the drive took place in Kalaktang subdivision of West Kameng district, Arunachal Pradesh.
+  - The page attributes the 2026 Arunachal comparison with 2025 and the 458-acre total to unnamed officials and describes 458 acres as a single bust driven by satellite tracking.
+  - The page also mentions about 30 acres destroyed in Kandhamal district, Odisha, under Mission Zero Cannabis Cultivation, and about 592 acres cleared in Himachal Pradesh; these are separate events with no dates or agencies given in detail.
+  - The page also says similar operations were carried out in Jharkhand, Uttarakhand, Jammu and Kashmir and Bihar, without naming places, figures or dates.
+  - The page gives no arrest, charge or court outcome for the Kalaktang drive.
+  - The Sentinel page attributes the 458 acres, the 1.37 lakh kg destroyed in October and the comparison with 2025 to unnamed officials and reproduces an IANS wire text, so it is not an independent observation of the fields.
 ---
 
 District police, the Narcotics Control Board, the Sashastra Seema Bal, the Central Reserve Police Force and the district administration destroyed illicit cannabis on at least 220 acres (about 89 hectares) in Kalaktang subdivision of West Kameng district. [@1,2,18,21,23] The two-day drive began on Monday 26 October 2026. [@1,2] Bomdila deputy superintendent of police Sashi Dore led it, under superintendent Dr D. W. Thongon and deputy commissioner Dr Dilip Kumar. [@1]

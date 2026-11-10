@@ -65,12 +65,25 @@ sources:
     date: 2026-06-13
     language: pt
 open_questions:
-  - The raids are dated only to a Tuesday in May 2025 and the extradition to 11 September 2025 from reports of the following days; the accusation of 22 May is taken to be 2026.
-  - The breakdown given, about 1.78 tonnes at Sardoal and more than 3 tonnes in warehouses, does not add up to the 7.3 tonnes reported.
-  - One account says the network has been in Portugal since 2021, another that its leaders settled there in 2020.
-  - The cash is given as 411,000 euros or more than 400,000 euros; no value was given for the cannabis.
-  - The amphetamines are put at about 1,200 kg or one tonne.
-  - No trial date or court outcome has been reported; two defendants are still at large.
+  - The extradition date of 11 September 2025 is inferred because the 12 September 2025 report says the 48-year-old was extradited on Thursday; no separate detention date in the Netherlands was published.
+  - The May raids are dated May 2025 from a 21 May 2025 report describing Tuesday's operation; no separate hour or town-by-town breakdown was published.
+  - Amphetamine amounts differ by rounding between sources, about 1,200 kg reported by Portuguese outlets and one tonne in the French account; the report uses no amphetamine figure because synthetic cathinones are outside cannabis figures.
+  - The 411,000 euros in cash, 12 vehicles and 11 weapons are reported as seized alongside cannabis and are not recorded as a cannabis value.
+  - No cannabis-only valuation, plant count, field area or full suspect count was published; only five May detentions plus the extradited leader are counted as arrested.
+  - No charges, first-interrogation result or court outcome for the extradited leader had been reported; investigations were said to continue.
+  - 'Left out, as its quotation was not found in Observador: Police seized 7,300 kg of cannabis from licensed medical-cannabis producer firms, plus 411,000 euros in cash, 12 vehicles and 11 weapons.'
+  - 'Left out, as its quotation was not found in Jornal de Notícias: The investigation began in early 2022 in cooperation with Spain''s National Police, yielding about 1,200 kg of amphetamines, specifically 3-CMC and 3-MMC, in a first phase before the cannabis seizures.'
+  - The accusation year 2026 is inferred because the 15 June 2026 article says the accusation was issued on 22 May without naming the year.
+  - This accusation report gives no new cannabis weight, plant count or field area, and the recalled one-tonne amphetamine seizure is excluded from cannabis figures.
+  - Only one opened source could be used after searches found no accessible second account of the accusation.
+  - No company names, individual identities beyond custody status, or next court outcome were published.
+  - The charged figure counts all 24 defendants, comprising 13 people and 11 companies.
+  - Synthetic quantities of about 500 kg of 3-CMC, 149 kg of 3-MMC and 30,000 Lorazepam pills are excluded from cannabis figures, and cannabis resin is mentioned without a weight.
+  - The new breakdown of about 1.78 tonnes at Sardoal plus more than 3 tonnes of biomass and flower does not by itself account for the recorded 7.3-tonne total.
+  - The 28 June 2026 article is an account of the 22 May accusation already recorded, not a new enforcement date.
+  - ZAP says the network's Dutch and Danish leaders settled in Portugal in 2020, while the recorded account says the network was established in Portugal since 2021.
+  - ZAP rounds the cash seizure to more than 400,000 euros, while an earlier account already noted in the report put seized cash at 411,000 euros; this addition does not replace that figure.
+  - ZAP attributes the accusation narrative to Jornal de Notícias rather than to a prosecution document opened here.
 ---
 
 Portugal's Judicial Police ran Operation Erva Daninha, with about 300 inspectors, against a group

@@ -150,12 +150,37 @@ sources:
     date: 2026-11-07
     language: ar
 open_questions:
-  - No time was given for the operation; one account places it before dawn on Saturday 7 November, after the ministry had announced it on 6 November.
-  - No one was arrested or identified, and the smugglers' number and nationality were not given.
-  - No value or packaging detail was published for the hashish.
-  - Some accounts attribute the statement to the Interior Ministry rather than the Defence Ministry.
-  - Every account reproduces the same ministry statement.
-  - Several articles recount separate seizures at Jisr al-Qamar, Jdeidet Yabous and in October 2026, left out of this report.
+  - The sources give no time of day for the operation and no description of the spot where the smugglers crossed; Sarghaya town is used as the place at locality precision.
+  - No one was reported arrested, charged or identified after the smugglers fled into Lebanon, and the smugglers' number and nationality were not given.
+  - The only cannabis figure is the hashish weight; no value, plant count or packaging detail was published.
+  - The 28,000 Captagon pills are a separate non-cannabis drug and are not counted in the cannabis figures.
+  - The Janoubia report and the SANA report reproduce the same Defence Ministry statement, so there is no independent confirmation beyond the ministry's account.
+  - Janoubia's lead picture is a generic site image with no caption, so it is not listed; the photographs come from SANA's page and are credited to SANA.
+  - The Anadolu account adds no arrest, charge or new figure, and repeats the SANA statement already cited, so it does not independently confirm the official account.
+  - Al-Araby Al-Jadeed also recounts earlier, separate October 2026 seizures on the Syrian and Lebanese sides of the border; they belong to other reports and are not merged here.
+  - The Alekhbariah account reproduces the same Defence Ministry statement and the image on its page is credited to the outlet, adding no independent confirmation of the official figures.
+  - Like the SANA and Janoubia accounts already cited, this page reproduces the Defence Ministry statement, so it adds a further republication rather than independent confirmation.
+  - The Lebanon Debate page is credited to RED TV and reproduces the same Defence Ministry statement as the other accounts, so it adds a further republication rather than independent confirmation.
+  - The report's structured details list the setting as forest, but neither this page nor the other accounts names a forest at the Sarghaya operation; the setting should read border only.
+  - This Arabic-language account restates the Defence Ministry statement without any additional figure or description of the interception site.
+  - The smugglers' number, nationality and whether anyone was arrested remain unreported.
+  - Lebanon24 dates the interception to dawn on Saturday, a time of day the report's earlier sources did not state; no exact hour is given.
+  - This page attributes the statement to the Syrian Interior Ministry, carried by the Defence Ministry's media and communication directorate, rather than to the Defence Ministry alone.
+  - Like the accounts already cited, it reproduces the ministry statement, so it adds a republication rather than independent confirmation.
+  - The Al-Araby Al-Jadeed lead picture is captioned as drugs seized in Syria on 20 May 2026, an earlier event, so it does not show the Sarghaya operation.
+  - The article reproduces the Defence Ministry statement and also recounts separate October 2026 seizures on the Syrian and Lebanese sides of the border that are not part of this event.
+  - This account dates the operation to before dawn on Saturday 7 November 2026, and its own publication timestamp is 00:30 that day, while the report places the announcement on Friday 6 November 2026; the discrepancy is unresolved.
+  - This page reproduces the Defence Ministry statement in the same terms as SANA and the outlets already cited, so it adds a further republication rather than independent confirmation.
+  - No arrests, names, nationalities or court outcome were reported for this interception.
+  - The article's last section on dismantling drug networks and on the former regime's role is general context, and its Captagon seizures at Jisr Qamar and Jdeidet Yabous are separate events dealt with in other reports.
+  - The UA.NEWS page gives no separate incident date beyond its 7 November 2026 publication time, and attributes the statement to border forces generally, crediting The National and SANA rather than naming the Defence Ministry.
+  - This French SANA edition reproduces the same Defence Ministry statement as the Arabic SANA page already cited, so it adds no independent confirmation of the official figures.
+  - The Emirates 24 account restates SANA's report of the Defence Ministry statement and adds no independent confirmation.
+  - The page gives no separate incident date beyond its 7 November 2026 publication time and attributes the statement to border forces generally, crediting The National and SANA rather than naming the Defence Ministry.
+  - The page's only picture is a site image captioned with the headline, so it does not add media for the operation.
+  - The 28,000 Captagon pills are a separate non-cannabis drug and are not counted in cannabis figures.
+  - The page reproduces The National's account of the SANA statement, so it adds a further republication rather than independent confirmation of the official figures.
+  - The article also recounts earlier, separate seizures at Jisr al-Qamar and Jdeidet Yabous, which belong to other reports and are not merged here.
 ---
 
 Syria's Defence Ministry media office said border guard units of the Syrian Arab Army foiled an

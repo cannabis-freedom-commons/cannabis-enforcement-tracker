@@ -160,12 +160,44 @@ sources:
     date: 2026-11-08
     language: ar
 open_questions:
-  - No exact date was given for the raids, which ran over the preceding days; 8 November 2026 is the date of the statement.
-  - The hashish is counted only in blocks, with no weight; the 4.6 kilograms covers marijuana only.
-  - The English and Arabic versions group the Amman seizures differently, so the cannabis amounts cannot be matched case by case.
-  - The 28 arrests are not broken down by case.
-  - No value, names, charges or court outcome were published.
-  - Every account reproduces the same Public Security Directorate statement.
+  - Only the publication date, 8 November 2026, is given; the casework ran over the preceding days and 8 November stands in for the incident date.
+  - The hashish is counted only in blocks (كف, roughly a pressed slab), and the report gives no weight for any hashish, so no hashish kilogram figure is used and the 4.6 kilograms covers marijuana only.
+  - A quantity of hashish in the second Amman case and hashish in the Central Badia vehicle case are reported without blocks or weight.
+  - No value estimate, names, charges or court outcome were published.
+  - The pills, crystal methamphetamine, cocaine and 18 litres of liquid amphetamine belong to other enforcement actions reported in the same roundup and are not counted as cannabis.
+  - The reported 28 arrests are not itemised case by case, and some listed cases do not state an arrest count explicitly, so the breakdown by case is incomplete.
+  - The reported hashish is counted only in bars, and the 4.6 kilograms covers marijuana alone; hashish weight, value, charges and any court outcome remain unpublished.
+  - The statement gives no exact date for the raids; 8 November 2026, the date of the Petra release and of publication, stands in for the incident date.
+  - Saraya reproduces the same Public Security Directorate statement as the outlets already cited, so it is not independent reporting of the raids.
+  - The Al Mamlaka page gives only its creation time of 8 November 2026 without a separate date for the raids, so 8 November stands in for the incident date.
+  - Al Mamlaka carries the same Public Security Directorate statement as the outlets already cited in the report, so it corroborates rather than independently reports the roundup.
+  - The page's lead photograph is captioned only as a gate belonging to the Public Security Directorate and does not show the raids or seizures, so it is not listed as media.
+  - Al Wakeel News carries the same Public Security Directorate statement as the outlets already cited in the report, so it corroborates the text and its figures but is not independent reporting of the raids.
+  - The English Petra release puts the further Amman hashish seizure at 25 slabs, while other accounts of the same roundup give no slab count or weight for that seizure.
+  - The English release gives no separate date for the raids, stating only that they ran over the preceding days; 8 November 2026 is its publication date and stands in for the incident date.
+  - The English Petra text carries the same Public Security Directorate statement as the report's Arabic sources, so it corroborates rather than independently reports the roundup.
+  - Nabaa Jordan carries the same Public Security Directorate statement as the outlets already cited, so it corroborates rather than independently reports the roundup.
+  - The page shows one news image captioned only with the story headline and no credit identifying what it depicts, so it is not listed as media.
+  - Amman Net is a copy of the same Public Security Directorate statement as the report's other sources, so it corroborates rather than independently reports the roundup.
+  - The English Petra release groups further Amman seizures as 25 slabs of hashish, 4,500 pills, half a kilogram of crystal methamphetamine and 2.6 kilograms of marijuana, while the Arabic statement lists the hashish and the marijuana separately, so the cannabis figures cannot be matched case by case between the two versions.
+  - Husna FM gives no separate date for the raids; the article is dated 8 November 2026 and says the casework ran over the preceding days.
+  - The Zad Al Urdun page gives no separate date or place for the raids; it is an aggregator copy carrying the same Public Security Directorate statement as Khaberni and the Petra release, so it corroborates rather than independently reports the roundup.
+  - The article gives no separate date for the raids beyond operations conducted over recent days; 8 November 2026 is its publication date.
+  - Ammon News carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
+  - The Al Awal News page gives no separate date for the raids and says the casework ran over the preceding days; 8 November 2026 is its publication date.
+  - Al Awal News carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
+  - Ammon News in English carries the same Public Security Directorate statement as the report's existing Arabic sources, so it corroborates rather than independently reports the roundup.
+  - The Ammon News page gives no separate date for the raids beyond operations conducted over recent days; 8 November 2026 is its publication date.
+  - The Ammon News English text puts the further Amman seizure at 25 slabs of hashish and 2.6 kilograms of marijuana, matching the English Petra release but not itemised against the Arabic statement, so the cannabis amounts cannot be matched case by case.
+  - The page carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
+  - Saraha News reproduces the same Public Security Directorate statement as the report's other sources, so it corroborates rather than independently reports the roundup.
+  - The page gives no separate date for the raids; 8 November 2026 is its publication date and the casework is described as running over the preceding days.
+  - The Alsaa page gives no separate date for the raids beyond their running over the preceding days; 8 November 2026 is its publication date.
+  - Alsaa is an aggregator copy of the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
+  - Jafra News carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
+  - The Jafra News page gives no separate date for the raids; the article is dated 8 November 2026 and says the casework ran over the preceding days.
+  - Al Qalah News carries the same Public Security Directorate statement as the report's existing sources, so it corroborates rather than independently reports the roundup.
+  - The Al Qalah page gives no separate date for the raids beyond their running over the preceding days; 8 November 2026 is its publication date.
 media:
   - kind: photo
     url: https://a5r5br.net/jordan/local-news/8453952-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%B6%D8%A8%D8%B7-%D9%83%D9%85%D9%8A%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%88%D8%AA%D9%88%D9%82%D9%8A%D9%81-28-%D8%B4%D8%AE%D8%B5%D8%A7-%D9%81%D9%8A-15-%D9%82%D8%B6%D9%8A%D8%A9

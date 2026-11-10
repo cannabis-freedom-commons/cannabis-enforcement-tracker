@@ -131,11 +131,28 @@ sources:
     date: 2026-11-10
     language: id
 open_questions:
-  - No count of individual plants and no area were given for the 85 pots.
-  - The man's initials are given as KSBKN, KSB, KS or G.
-  - Some accounts place the plants on the roof, others simply in the house.
-  - No formal charge, custody decision or court step has been reported.
-  - Every account repeats the Salatiga police's statements.
+  - No weight was published for the dried cannabis found alongside the 85 pots, so no kilogram figure is recorded.
+  - The articles give the number of pots (85) but no count of individual plants, and no area.
+  - The suspect's initials are given as KSBKN by RMOL Jateng and Salatiga Terkini, as KS by Harian7 and G by Rasika FM, so the reports refer to a 59-year-old man from Tingkir Tengah without a consistent initial.
+  - No charge has been formally laid; police only said he is liable to face Law Number 35 of 2009, so no specific article or sentence range is recorded.
+  - The suspect's account reaches the public only through police, who said the initial version was personal use; no independent account was found.
+  - All accessible accounts repeat the Salatiga police narcotics unit's statements and are not independent of the police version.
+  - The photos published with the reports are police handout images, and the second RMOL Jateng image is uncaptioned.
+  - No court outcome or custody status beyond the initial questioning was reported.
+  - 'Geger! Polisi Bongkar 85 Pot Ganja di Rooftop Rumah Warga Salatiga, Pria 59 Tahun Diamankan (Salatiga Terkini (Pikiran Rakyat)) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
+  - 'Left out, as its quotation was not found in RASIKAFM.COM: Police presented the rooftop find as a case of cannabis cultivation hidden in an ordinary residential neighbourhood.'
+  - Left out environment, as its only supporting source is not cited by the report's text.
+  - Kompas.com describes the grow as at the suspect's house without specifying the rooftop location named in earlier reports.
+  - Espos.id attributes the account to Kapolres Salatiga AKBP Afrito Marbaro, while the report's account comes from narcotics chief AKP Joko Iskandar; both speak for the same Polres Salatiga investigation.
+  - Espos.id describes the grow as inside a house and does not mention a rooftop, which the earlier reports named.
+  - Kompas.com describes the grow as at the house where the suspect lived without specifying the rooftop location named in earlier reports.
+  - Kompas gives no count of individual plants behind the 85 pots, so the plant count remains unknown.
+  - detikJateng does not say whether the plants were on the roof or elsewhere in the occupied house, while earlier accounts described a rooftop grow.
+  - detikJateng gives no count of individual plants behind the 85 pots and no court outcome or formal charge beyond police naming the article.
+  - detikJateng's passage on the suspect's own-use admission could not be matched against the capture, so it was left out as a corroborating sentence.
+  - The MSN page is a republication of Tribunnews reporting; its byline names Muhammad Renald Shiftanto and the canonical link points to Tribunnews.
+  - iNews gives the suspect's initials as KSB, while RMOL Jateng and Salatiga Terkini give KSBKN and Harian7 gives KS.
+  - The captured first page of the iNews article carries only the headline, caption and station report; its continuation printed further statements from Salatiga narcotics chief AKP Joko Iskandar about the seeds coming from a prison acquaintance in 2016, which were not matched against the capture and so are not recorded as report facts.
 ---
 
 Police of the narcotics unit (Satresnarkoba) of Salatiga district police [@7] arrested a 59-year-old man

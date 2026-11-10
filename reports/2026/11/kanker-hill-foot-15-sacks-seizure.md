@@ -150,12 +150,55 @@ sources:
     date: 2026-11-05
     language: hi
 open_questions:
-  - 'The amount is unsettled: the first account counts 15 sacks valued in lakhs of rupees, most later ones 70 packets or bags weighing 280 kg worth about Rs 1.5 crore, and two more than 400 kg worth over Rs 2 crore.'
-  - Accounts differ on whether local people or a police informer told police about the sacks.
-  - The recovery is dated 4 November 2026 from the first account; the chase was late on a Tuesday night, and one account places the recovery at noon on Wednesday.
-  - The Keshkal officer's injury is described as a hurt thumb in some accounts and a crushed foot and big toe in others.
-  - No one has been arrested or named, and the vehicles' registration numbers were not published.
-  - The same articles report a separate 407 kg seizure in Keshkal and a container seizure at Saraipali, recorded in their own reports.
+  - No weight for the ganja in the 15 sacks was published, so no kilograms can be recorded.
+  - No exact value was published, only an estimate in lakhs of rupees, so no value figure is recorded.
+  - The article gives no separate date for the recovery; 4 November 2026 is its publication date and is used as the incident date.
+  - No arrests, charges or court outcome were reported; the smugglers remain unidentified and investigation was continuing.
+  - Only one accessible source for this Kanker recovery was found after searching.
+  - The same article also describes a separate Saraipali container seizure of 120.960 kg with two arrests, already recorded as mahasamund-saraipali-120kg-ganja-rice-bags and left out here.
+  - The page's combined figure of about Rs 4.88 crore spans the Kanker and Keshkal recoveries and is not recorded as this event's value.
+  - The source values the haul only vaguely in crores of rupees in the international market and gives no exact figure.
+  - The ETV account says police recovered the packets on an informer's tip, while the existing account records local people alerting police; it is unclear whether these refer to the same tip.
+  - The ETV account says two suspect vehicles and a car driver have been identified but publishes no registration numbers or names, so they remain unnamed.
+  - This Navbharat Live account was already cited by the report, so it adds no new corroboration or detail to the Kanker recovery.
+  - A second, differently named image file on the same page carries no visible caption beyond the page's general police tags, so it cannot be tied to this seizure either.
+  - 'Left out, as its quotation was not found in Navbharat Live: Kanker police seized 15 sacks of ganja found abandoned at the foot of a hill near National Highway-30.'
+  - Lalluram puts the haul at more than 400 kg of ganja worth more than Rs 2 crore, while other accounts of this recovery put it at 2.80 quintals (280 kg) and about Rs 1.5 crore; the report keeps the earlier figures and the difference is unresolved.
+  - Lalluram describes a chase of about 30 km from Keshkal towards Kanker and a car driven at the Keshkal station house officer during the interception, which other accounts do not mention.
+  - Lalluram says smugglers used a Fortuner and a pilot Tata Winger vehicle, whereas other accounts describe two vehicles and a car without naming them.
+  - Lalluram's account of the interception gives no date beyond "late on Tuesday night", and its publication date of 5 November 2026 is not the recovery date.
+  - Names of the smugglers and vehicle registration numbers remain unpublished; no arrests, charges or court step are reported in this account.
+  - Navbharat Live's headline and standfirst put the load at more than Rs 1 crore, while its article text says only that police estimated the value in crore-level figures in the international market; no exact rupee amount is stated.
+  - The article also describes a separate 407 kg Keshkal seizure from the previous day, already recorded as keshkal-407kg-ganja-arrest and left out here.
+  - The NDTV video values the haul only vaguely as worth crores of rupees and gives no weight, packet count or exact rupee figure, so the discrepancy with the 280 kg and Rs 1.5 crore reported by other outlets remains unresolved.
+  - No transcript of the video was available, so its spoken report could not be checked beyond the headline and page text.
+  - Grand News gives no sack or packet count and does not reconcile its figure of more than 400 kg with the 70 packets and 280 kg recorded from other outlets.
+  - Grand News and Lalluram carry near-identical Hindi text from the same day, so they are not independent accounts of the chase.
+  - Grand News says the station house officer's foot was crushed and his big toe badly injured, while the report records an injury to his thumb from a car brushing his foot; the exact injury is unresolved.
+  - Grand News dates the recovery to Wednesday afternoon at about 12 pm without giving a calendar date.
+  - 'Left out, as its quotation was not found in Lalluram: Keshkal police later stopped and searched a suspicious vehicle that was returning and released it after finding nothing.'
+  - This Navbharat Live account says police acted on an informer's precise tip, while the report's first source says local people alerted officers; the two accounts of the tip are not reconciled.
+  - The headline and highlights put the load at more than Rs 1 crore but the article publishes no exact figure or weight of individual bags, so no value is added.
+  - The page gives only "last night" and no calendar date for the recovery; 4 November 2026 is retained from the earlier accounts.
+  - This account values 280 kg at about Rs 1 crore in one line and above Rs 1 crore in the next, while the report keeps 2.80 quintals (280 kg) with about Rs 1.5 crore from other accounts and records no value figure.
+  - This account reports several bags without a count, so the 15-sack versus 70-packet difference remains unresolved.
+  - The article says the smugglers fled last night and gives no calendar date for the recovery; its publication date of 5 November 2026 is not used as the incident date.
+  - This account names no suspect, vehicle or Odisha district and says only that the load came from the Odisha border, so the Vishrampuri-Keshkal route reported elsewhere is not corroborated here.
+  - This account credits a police informer for the tip, while the report's first source says local people alerted officers; the two accounts of the tip are not reconciled.
+  - The Bansal account gives no weight, value or suspect detail for the Kanker recovery and calls the containers bags rather than packets.
+  - Rgh News and Bansal News give 70 bags and no weight for the Kanker recovery, so the 15-sack versus 70-bag difference remains unresolved and no kilograms are added.
+  - Neither roundup gives the Kanker valuation, which continues to rest on the report's earlier sources.
+  - Amar Ujala values the haul only vaguely in crores of rupees and gives no exact figure, so it does not resolve the valuation already recorded from other accounts.
+  - This page writes 70 बोरी (bags/sacks) while the Kanker report records 70 packets; whether the packets were packed inside the sacks remains unresolved.
+  - This account puts the haul's value only vaguely in crores of rupees, while the report records about Rs 1.5 crore from other outlets; no exact figure is added.
+  - 'Left out, as its quotation was not found in Dainik Bhaskar: The haul was 70 packets weighing 2 quintals 80 kg, found in an unclaimed condition at Gadhiya Pahad in Sigarbhat in the Kotwali police station area, with an estimated value of about Rs 1.5 crore.'
+  - This Naya Bharat Live account puts the haul at more than 400 kg of ganja worth more than Rs 2 crore, between the 280 kg and about Rs 1.5 crore reported by other outlets and the 433 kg and Rs 2.23 crore recorded for the later arrest in the case; the difference is unresolved.
+  - The page gives no separate date for the interception or the recovery; 5 November 2026 is its publication date and stands in for the incident date.
+  - The account says Kanker police recovered the sacks on information from villagers, while other accounts cited by the report credit a police informer; the two accounts of the tip are not reconciled.
+  - The page gives a combined figure of about Rs 3.54 crore for the Kanker and Keshkal recoveries together, while its own sections value the Kanker ganja at about Rs 1.5 crore and the Keshkal load at about Rs 2.04 crore; the combined total is not recorded as either event's value.
+  - This page carries the same story as the outlet's AMP version already cited by both reports, so it is not independent corroboration of the two recoveries.
+  - The roundup reports no arrest, charge or court step in the Kanker recovery, where the smugglers remain unidentified.
+  - The page's lead image and some section images have no caption or credit tying them to a specific seizure, so only the one captioned image of the recovered Kanker sacks is listed.
 ---
 
 Kanker police seized a large consignment of ganja found abandoned near National Highway-30 in Kanker,

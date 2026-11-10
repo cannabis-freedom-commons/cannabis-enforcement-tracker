@@ -115,11 +115,40 @@ sources:
     date: 2026-11-07
     language: mr
 open_questions:
-  - The woman's name and age were not published; she is described only as a Mumbai resident.
-  - Rs 1.14 crore is Customs' own estimate of the illicit-market value.
-  - The marijuana was identified with a field testing kit; no laboratory result was reported.
-  - Whether she knew what she was carrying is not established; an official said only that she appeared to have been handed the bag.
-  - No custody order, charge sheet or court step has been reported.
+  - The woman's name, age and precise home address were not published; only that she is a Mumbai resident.
+  - Rs 1.14 crore is Customs' estimated illicit-market value, not an independently confirmed price.
+  - Identification of the substance rested on a field testing kit; no laboratory confirmation is reported.
+  - No charge sheet, custody order or court outcome was reported; the case was at the investigation stage.
+  - Whether the woman knowingly carried the consignment is not established; an official only said it prima facie appeared she was handed the bag.
+  - The page photo carries no credit and its original photographer is not stated.
+  - Pudhari dates the operation to the evening of Thursday 5 November but does not give a separate date for the arrest.
+  - Pudhari gives no name, age or charge section, and no court or remand outcome for the woman.
+  - The page photograph carries only the headline as its caption and no credit, so it is not treated as a confirmed picture of this seizure.
+  - The article's related-news list includes other separate Pune airport seizures, which are not part of this case.
+  - The post gives no name, age or residence for the woman beyond saying she is Indian.
+  - The post repeats the arrest and continuing investigation without any court, remand or custody outcome.
+  - The post gives the value as an approximate market price without saying how it was estimated.
+  - The article gives no name, age, residence or home city for the woman, and no charge section beyond the NDPS Act.
+  - The article gives no remand or court outcome; it says only that further investigation is under way.
+  - The page's only image is a headline composite titled with the report headline, not identified as a photograph of this seizure, so it is not listed as media.
+  - The Free Press Journal earlier published a separate report on the 10.642 kg seizure of 4 November, which is a different event recorded in its own report.
+  - The Divya Marathi page is paywalled at the app-promotion point; only the first paragraph and the headline could be read, which limits what it can corroborate beyond the weight, value and concealment.
+  - Pune Pulse, like the original page, gives no name, age, home address or flight details beyond IX-291 for the woman.
+  - 'Left out, as its quotation was not found in PUNE PULSE: Sources said she had travelled to Bangkok four days before her arrival in Pune.'
+  - Pune Prime News describes the contents only as dried plant material of an orange-green colour, without the floral tops other outlets describe, though both identify it as hydroponic cannabis.
+  - The article gives no name, age, home city or court or remand outcome for the woman; it says only that investigation is under way.
+  - The article does not give the flight number, the woman's residence, the false-cavity concealment detail, the testing method or any court outcome.
+  - ABP Majha gives no name, age, home city, charge section beyond the NDPS Act, or court or remand outcome for the woman.
+  - The page photograph's original photographer and first publisher are not stated; ABP Majha may have republished another outlet's or an agency's image, so it is listed once here without a credit.
+  - Lokshahi gives no name, age, home city, flight number or court or remand outcome for the woman, so nothing is added on those points.
+  - The article does not state the testing method that identified the substance beyond saying the examination showed hydroponic ganja.
+  - The Marathi and English editions are Lokshahi's own versions of the same article by the same author, so they are not an independent second account.
+  - Lokshahi describes the packets as hidden inside the bag rather than inside a fabricated false cavity; both accounts describe the same black plastic wrapped parcels in her check-in trolley bag.
+  - The My Marathi page gives no name, age or home city for the woman beyond saying she is an Indian national, and states that her identity and address have not been officially released.
+  - The page gives no charge section beyond the NDPS Act, 1985, no custody or remand order and no court appearance for the woman.
+  - The page's identification of the substance rested on a preliminary field testing-kit result, and it gives no laboratory confirmation.
+  - The page describes the cut material only as an orange-green dried plant substance with a strong pungent smell rather than the floral tops other outlets describe, both being called hydroponic ganja.
+  - The page also reports the separate 4 November 2026 seizure of 10.642 kg, which is a different event recorded in its own report and is not part of this case.
 ---
 
 Officers of the Air Intelligence Unit and Airport Batch of Pune Customs intercepted an Indian woman

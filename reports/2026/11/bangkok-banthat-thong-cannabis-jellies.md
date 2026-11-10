@@ -268,12 +268,68 @@ sources:
     publisher: Thai Examiner
     date: 2026-11-01
 open_questions:
-  - The FDA dates the search to 29 October 2026; one account gives 1 November and another Saturday 31 October.
-  - No weight or THC content was given for the 90 jellies, and the laboratory results have not been reported.
-  - Some accounts say the employee was arrested; others say only that she was told she faced charges.
-  - The 50,000 baht is attributed to the FDA in most accounts and to the products' price tags in one.
-  - It is not said that the sick family's sweets came from this shop, and there has been no update on their condition.
-  - Every account draws on the police and FDA statement.
+  - >-
+    Thai PBS, published on 1 November 2026, says the search took place that day, while the FDA statement and
+    Hfocus give 29 October; this report uses the FDA's date.
+  - No weight was given for the 90 jellies, so the amount of cannabis they contained is not known.
+  - >-
+    The reports do not say whether the 26-year-old woman was arrested or detained, or whether anyone else at
+    the shop was investigated.
+  - The THC and CBD test results, and any further charges, had not been reported.
+  - All three accounts draw on the FDA statement; no independent reporting on the raid was found.
+  - >-
+    This account restates the police and FDA statement already cited and adds no independent reporting on the
+    raid.
+  - >-
+    The article gives no update on the condition of the parents or the two-year-old boy taken to hospital in
+    Chanthaburi.
+  - >-
+    The submitted Nation Thailand page redirected to the newspaper's homepage when opened, so its article text
+    could not be read; the match rests on the Thai Rath English and Bangkok Post accounts.
+  - >-
+    Thai Rath's English edition names the employee as Saowalak Namwongsa, while the report follows the sources
+    that withhold her surname.
+  - >-
+    Bangkok Post places the search on Saturday, which would be 31 October 2026, a third date alongside those
+    already recorded.
+  - >-
+    Bangkok Post attributes the 50,000-baht figure to the price tags on the seized products, while the report
+    attributes the valuation to the FDA.
+  - >-
+    This page gives no explicit raid date beyond its 1 November 2026 publication date, so it does not resolve
+    the existing 29 October versus 1 November dating.
+  - >-
+    The article gives only its 1 November 2026 publication date and calls the search recent, so it does not
+    resolve the existing 29 October versus 1 November dating.
+  - >-
+    The capture gives only a relative publication time of 4 hours ago and no explicit raid date, so it does
+    not resolve the existing 29 October versus 1 November dating question.
+  - >-
+    Left out, as its quotation was not found in newsclip.be: Police and food and drug officials searched a
+    cannabis shop in a building on Banthat Thong Road in Bangkok's Pathum Wan district on 29 October 2026.
+  - >-
+    Left out, as its quotation was not found in newsclip.be: The search followed a case in Khlung district,
+    Chanthaburi province, where a family fell severely ill after eating cannabis sweets, with convulsions and
+    loss of consciousness that required ventilators.
+  - >-
+    The full newspaper text is behind a paywall, so only the headline, publication date, summary paragraph and
+    metadata description could be read.
+  - >-
+    The page gives no explicit raid date beyond its 2 November 2026 publication date, so it does not resolve
+    the existing 29 October versus 1 November dating question.
+  - The summary does not state the reported 90-item count, so it does not corroborate the seized quantity.
+  - >-
+    This account gives only its 2 November 2026 publication date and no separate raid date, so it does not
+    resolve the existing 29 October versus 1 November dating question.
+  - No weight or THC content for the 90 seized jellies was published; laboratory testing was still pending.
+  - >-
+    The sources do not state that the family bought their sweets from this shop, only that they ate similar
+    products.
+  - Whether the lead photo on the source page shows this raid is not established.
+  - >-
+    One account dates the search to 29 October while another gives 1 November; the matching shop address,
+    employee, 90 jellies and 50,000-baht valuation identify the same operation.
+  - This account announces the operation on 1 November 2026 and gives no separate raid date, so it does not resolve the existing 29 October versus 1 November dating question.
 ---
 
 Police and health officials seized 90 cannabis-infused jellies from a shop in Bangkok's Pathum Wan

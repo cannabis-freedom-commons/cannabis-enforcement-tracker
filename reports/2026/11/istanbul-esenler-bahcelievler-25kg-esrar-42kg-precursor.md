@@ -121,12 +121,31 @@ sources:
     date: 2026-11-08
     language: ar
 open_questions:
-  - No calendar date was given; the raids took place within the 24 hours before the 7 November 2026 reports.
-  - The esrar is not divided between the car in Esenler and the home in Bahçelievler, and it is not said which suspect was caught where.
-  - A-M 2201 is described only as a precursor for synthetic cannabinoid, and it is not said whether a laboratory was found.
-  - Some accounts say the two were sent to court, others that they were still to be referred; no custody ruling or value was reported.
-  - One agency copy gives the possible output as 4 tonnes 200 grams rather than the police's 4 tonnes 200 kilograms.
-  - Nearly every account reproduces İHA, DHA or Anadolu agency copy of the police statement.
+  - The reports say the raids took place within 24 hours before the 7 November 2026 publication and give no calendar date, so 7 November 2026 is used as an approximate incident date.
+  - The weight of esrar found in the vehicle in Esenler and in the home in Bahçelievler is not broken down; only a combined 25 kilos 90 grams is given.
+  - Police did not say which suspect was stopped in the vehicle and which was caught at the home, or whether the esrar was being sold or produced.
+  - The accounts do not say what A-M 2201 is beyond a precursor for synthetic cannabinoid, or whether a laboratory was found.
+  - No custody ruling, charge sheet, court outcome or street value was reported; İHA said the suspects were to be sent to court while Anadolu reported they had been sent.
+  - Most outlets reproduced İHA or Anadolu agency copy, so the accounts are not independent reporting.
+  - Anadolu copy describes the precursor as enough for 4 tonnes 200 grams of synthetic drug, against 4 tonnes 200 kilograms in the police statement, so the figure used here is the larger one.
+  - Aksiyon described the suspects as to be sent to court after police processing, while the Anadolu copy already cited in the report said they had been sent; the report keeps both accounts.
+  - Aksiyon's wording of the synthetic potential differed between its summary and body (4 tonnes 200 kilograms against 4 tonnes 200 grams), a discrepancy already recorded in the report.
+  - DHA's headline gives a combined 67 kilograms, but only 25 kilos 90 grams of it is esrar; the rest is the A-M 2201 precursor for synthetic cannabinoid and is excluded from cannabis figures.
+  - DHA says the suspects would be sent to court (sevk edilecek), while other accounts already cited in the report said they had been sent.
+  - Tekha says the two suspects would be sent to court (sevk edileceği öğrenildi), while other accounts already cited in the report said they had been sent; the custody outcome remains as recorded.
+  - Kelkit credits the text to DHA, the same agency whose account the report already cites, so it is not independent reporting of the raids.
+  - The page gives no calendar date for the two raids, only the 7 November 2026 publication date already used in the report as an approximate incident date.
+  - The page says the two suspects would be referred to court (sevk edileceği öğrenildi), while the Anadolu copy already cited in the report said they had been sent; the custody outcome remains as the report records it.
+  - Mersin Haber credits İHA agency copy and reproduces the same İstanbul police statement already cited, so it is not independent reporting of the raids.
+  - Mersin Haber says the two suspects were still to be sent to court after police processing (adliyeye sevk edilmeleri bekleniyor), while other accounts already cited in the report said they had been sent; the report keeps both accounts.
+  - Mersin Haber's headline gives 4 tonnes 200 kilograms of raw material, which is the police estimate of synthetic cannabinoid production potential from the A-M 2201 chemical, not a cannabis quantity, and is excluded from cannabis figures.
+  - The page gives no calendar date for the two raids beyond the 7 November 2026 publication date already used as an approximate incident date.
+  - The page gives no calendar date for the two raids beyond its 7 November 2026 publication date, already used as an approximate incident date.
+  - The headline's combined 67 kilograms includes the 42 kilograms of A-M 2201 precursor for synthetic cannabinoid; only 25 kilos 90 grams is esrar and counts as cannabis.
+  - The page says the two suspects would be sent to court (sevk edilecek), while the Anadolu copy already cited in the report said they had been sent.
+  - The page credits DHA and reproduces the same police account already cited, so it is not independent reporting, and its image carries only the headline as caption and is not established to show this seizure.
+  - The page says the two suspects would be sent to court (sevk edileceği öğrenildi), while other accounts already cited said they had been sent; the custody outcome remains as recorded.
+  - The page credits DHA and reproduces the same police account already cited, so it is not independent reporting, and it gives no calendar date for the raids beyond the 7 November 2026 DHA date already used as an approximate incident date.
 ---
 
 Istanbul police narcotics officers detained two suspects in two separate operations in the Esenler and

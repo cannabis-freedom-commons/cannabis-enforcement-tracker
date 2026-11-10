@@ -115,11 +115,29 @@ sources:
     date: 2026-11-08
     language: hi
 open_questions:
-  - The weight is given as 433 kg, 447.720 kg or about 450 kg.
-  - The load was dumped on a Wednesday morning; the date and place of the arrest are unsettled, with most accounts saying Uttar Pradesh, one Fatehabad in Haryana, and one placing it on 7 November.
-  - It is not said whose estimates the values of Rs 2.23 crore, Rs 2.48 crore and Rs 3 crore are.
-  - No buyer in Haryana was named.
-  - The other members of the network have not been caught.
+  - The article does not date the interception or the arrest; 7 November 2026 is its publication date and is used as the incident date.
+  - Only one source, the submitted NWNews24 report, could be opened for this event, so the weights, packet count and valuations are not independently corroborated.
+  - 'The district stays unused: 433 kg exceeds the 20 kg threshold in the NDPS Act, but the article names no law or charge and no charges are recorded.'
+  - The article gives no date or place in Uttar Pradesh for the arrest, and no court step is reported for Sukhpal.
+  - The article says the load was going to Haryana but names no receiving buyer there.
+  - The seized Fortuner is valued at about Rs 25 lakh and the ganja at about Rs 2.23 crore; the article's total of about Rs 2.48 crore for all material matches these two rounded amounts, while the network's value is given as about Rs 3 crore.
+  - The page picture carries no caption tying it to this seizure and no credit, so it is linked rather than treated as evidence of the haul.
+  - ETV Bharat dates the dump to a Wednesday morning but gives no date for the Uttar Pradesh arrest.
+  - The page gives no separate date for the interception or the Uttar Pradesh arrest; 7 November 2026 is the publication date used for the event.
+  - The Naya Bharat Live text largely reproduces the NWNews24 report and does not state whose valuation the Rs 2.23 crore, Rs 2.48 crore, Rs 3 crore and Rs 25 lakh figures are.
+  - The page's page picture, taju.webp, has no caption or credit tying it to this seizure, so it is not listed as media.
+  - The opened text capture is truncated behind an app paywall, so dates of the 4 November interception and the Uttar Pradesh arrest, the CCTV and court details visible in the page markup could not be quoted from the captured text and are not added.
+  - Nai Dunia does not date the Mathura arrest beyond saying it followed a 48-hour search, so when the arrest happened is still open.
+  - Nai Dunia reports only that the accused was produced in court on 7 November, without naming the court, the charge sections or any custody order.
+  - Nai Dunia does not say whether the Rs 2 crore 23 lakh 50 thousand and Rs 2 crore 48 lakh 60 thousand valuations are police estimates.
+  - The page photo carries only the headline as its caption and no credit, so it cannot be confirmed to show this seizure and is not added as media.
+  - Vocal TV names no Odisha district for the purchase and no place or date within Uttar Pradesh for the arrest; it says only that the accused was brought to Kanker on Sunday 8 November.
+  - The page picture carries only the headline as its caption and no credit, so it cannot be confirmed to show this seizure.
+  - Raj Express puts the haul at about 450 kg and ETV Bharat's text gives about 450 quintals, while Nai Dunia records 447.720 kg and the report keeps 433 kg from the first account.
+  - Raj Express dates the dump of the packets to a Wednesday morning without giving a calendar date, and gives no date or place in Uttar Pradesh for the arrest.
+  - Raj Express calls the seized car by its Haryana registration only and does not name the make, while other accounts describe a Toyota Fortuner.
+  - Dainik Bhaskar dates the arrest to 7 November, the same day police recovered the load, while other accounts describe a search of several days; the earlier report's account of the arrest date is retained.
+  - RGH News repeats the combined valuation of the consignment at about Rs 2.23 crore; the different weights already recorded in the report (433 kg, 447.720 kg, about 450 kg) remain unresolved.
 ---
 
 Kanker district police in Chhattisgarh say they have broken up an interstate ganja smuggling network

@@ -112,10 +112,27 @@ sources:
     date: 2026-11-01
     language: bn
 open_questions:
-  - One account says the raids ended by 8.30 am on Sunday; another places the Badalgachhi search at about 10 am.
-  - No separate date is given for each raid; 1 November 2026 is the date of the press briefing.
-  - No value, independent weighing or court step has been reported.
-  - The same briefing reported van-theft arrests and recovered mobile phones, left out of this report.
+  - The cannabis raids ran from Saturday night through 8:30 a.m. Sunday; the report is dated to the 1 November press briefing that announced them.
+  - No charges, court outcome, drug value or independent weighing was reported.
+  - The same briefing also reported van-theft arrests and 517 recovered mobile phones, separate events left out here.
+  - The Desh TV page carries a press-conference photo whose content could not be verified, so it is not listed as media.
+  - 'Left out, as its quotation was not found in Desh TV: Police seized a total of 24 kg of ganja, the local term for cannabis, from the four men.'
+  - The RTV article also reports the arrests of two van-thief suspects and the recovery of 517 mobile phones; those are separate non-cannabis events left out of the cannabis report.
+  - The article gives no separate calendar date for the night raids; 1 November 2026 is the press-briefing and publication date used as the incident date.
+  - The same briefing also reports two van-theft arrests and 517 recovered mobile phones, separate non-cannabis events left out of the cannabis report.
+  - No charges, court outcome or drug value is given in this account.
+  - This account gives no separate calendar date for the night raids; 1 November 2026 is the press-briefing and publication date used as the incident date.
+  - The same briefing's two van-theft arrests and 517 recovered mobile phones are separate non-cannabis events left out of the cannabis report.
+  - The same article also reports 80 recovered mobile phones and a van-theft arrest with two suspects, separate non-cannabis events left out of the cannabis report.
+  - Sorejomin Barta places the Badalgachhi search at about 10 a.m. and names the Sadar house as rented by Faruk Hossain in the Kumaigari area and the Badalgachhi village as Nihinpur; these details are not in the other opened accounts.
+  - Sorejomin Barta says the 20 kg was recovered from five packets of 4 kg each; NTV gives only the total.
+  - Sarabangla dates the Manda raid to the night and gives the press briefing as Sunday midday; it gives no separate calendar date for each search.
+  - The article's headline counts six arrests, which is four ganja suspects plus two van-theft suspects; only four are counted here.
+  - The text gives a weight ("24 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The article describes the Manda search as taking place at night without giving it a separate calendar date; the 1 November 2026 press briefing is the only date it states.
+  - 'Left out, as its quotation was not found in Daily Jaijaidin: Naogaon District Detective Branch police arrested four alleged drug traders and seized 24 kg of ganja in raids across Manda, Sadar and Badalgachhi upazilas.'
+  - 'Left out, as its quotation was not found in Daily Jaijaidin: Information from Mosharraf then led to Badalgachhi, where police arrested Shilong and Arafat and recovered a further 2 kg from them.'
+  - 'Left out, as its quotation was not found in Daily Jaijaidin: Police said district anti-drug drives of this kind would continue.'
 ---
 
 Naogaon District Detective Branch (DB) police arrested four alleged drug traders in separate raids across

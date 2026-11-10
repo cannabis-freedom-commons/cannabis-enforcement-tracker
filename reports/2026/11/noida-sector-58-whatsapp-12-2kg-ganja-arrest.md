@@ -99,10 +99,28 @@ sources:
     publisher: The Times of India
     date: 2026-11-06
 open_questions:
-  - Most accounts place the arrests at Medicine Cut in Sector-57 and near ESI Colony in Sector-56; one places both near Radisson Cut, and no separate date is given for Manish Kumar Jha's arrest.
-  - Only some accounts say Manish worked at Delhi airport.
-  - The ganja is said to have come from Shillong or from the northeast generally; no supplier was named.
-  - No court step beyond the two men being sent to jail has been reported.
+  - The article gives 4 November 2026 only for Sumit Raghav's arrest at Sector-57; no separate date is given for Manish Kumar Jha's arrest near Sector-56.
+  - Only one accessible source for this event was found after searching in English and Hindi.
+  - No court outcome beyond registration of the NDPS case was reported.
+  - The source of the seized ganja and the wider network remain under investigation and were not reported.
+  - ETV Bharat places both arrests near Radisson Cut in Sector 57 in one passage, but later places Manish Kumar Jha's arrest near Sector 56.
+  - Dainik Bhaskar says only that the supplier works as a technical engineer and does not mention the Delhi airport workplace reported by ETV Bharat, so the employer remains unconfirmed.
+  - This account names only Manish and does not name the second accused or give the Medicine Cut Sector-57 and ESI Colony Sector-56 arrest locations already recorded.
+  - Chetna Manch describes generic look-alike delivery-company packets and states no real company involvement was disclosed, without naming a specific company.
+  - Amar Ujala does not say where the gang sourced its northeastern consignments or name the suppliers, and it gives no court outcome beyond registration of the FIR.
+  - The page's single lead image is captioned only with the article headline and gives no credit or description establishing that it shows this seizure.
+  - 'Left out, as its quotation was not found in Amar Ujala: Amar Ujala names the second accused as Sumit Raghav''s delivery boy and reports that he was paid 200 to 250 rupees for each delivery.'
+  - This account does not name the accused or give the Medicine Cut Sector-57 and ESI Colony Sector-56 arrest locations already recorded.
+  - This account mentions only a bike and two phones and does not mention the Splendor model, phone brands, or 42 printed packing packets already recorded.
+  - No court outcome beyond sending both accused to jail and registration of the case was reported, and the wider supply source remains under investigation.
+  - 'The opened Jagran page is a short, partly cropped copy: it gives no accused names, no arrest date and no quantity of ganja recovered.'
+  - The 420.in gives the arrests only as the night of 4 November 2026 and names no separate date for Manish Kumar Jha's arrest near Sector 56.
+  - The 420.in reports no court outcome beyond registration of the NDPS case.
+  - The Times of India says the arrests were made on Wednesday, which matches 4 November 2026 but is stated indirectly rather than as a date.
+  - This account gives no separate date for Manish Kumar Jha's arrest near ESI Colony in Sector 56.
+  - No court outcome beyond the arrests and questioning was reported.
+  - The submitted Chetna Manch page's article body could not be quoted after capture, so it is listed as a source for the case without supplying any facts.
+  - No court outcome beyond registration of case 385/26 under sections 8/20 of the NDPS Act was reported for this step.
 media:
   - kind: photo
     url: https://www.etvbharat.com/hi/state/two-arrested-including-an-airport-engineer-for-smuggling-cannabis-disguised-as-e-commerce-packages-in-noida-dls26110503335

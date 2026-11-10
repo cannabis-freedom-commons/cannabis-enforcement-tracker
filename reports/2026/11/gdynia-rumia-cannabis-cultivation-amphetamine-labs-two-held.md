@@ -100,12 +100,30 @@ sources:
     date: 2026-11-09
     language: pl
 open_questions:
-  - No separate date was given for the searches or detentions; 9 November 2026 is the date of the police statement.
-  - No plant count, weight or area was published for the cannabis grown in the allotment shed.
-  - It is not said whether the cannabis in the shed and the growing equipment at the suspect's home were separate sites.
-  - The amphetamine and chemicals are valued at 1.6 million zlotys in most accounts and 1.5 million in one.
-  - No plea or court step beyond temporary arrest has been reported.
-  - Every account reproduces the same police statement.
+  - No separate date is given for the searches, detentions or arrests; 9 November 2026 is the publication date of both accounts and stands in for the incident date.
+  - No count of cannabis plants, weight of cannabis or area of the cultivation was published; the only cannabis evidence stated is the cultivation and dried plant material in the allotment shed and growing equipment at one suspect's home.
+  - The 1.6 million zloty value in the headline is a police estimate for the amphetamine and chemicals, not for cannabis, and is not recorded as a cannabis figure.
+  - The amphetamine is described only as liquid and base amphetamine with no laboratory confirmation reported; none of its quantities are counted as cannabis.
+  - Cannabis was found at two different locations, the allotment shed in Gdynia and one suspect's home, and the sources do not say whether these are separate sites; the report records two production sites and does not give a cannabis site count.
+  - The report says the 45 litres of base amphetamine could yield 60 kg of finished drug; that is a police estimate of potential output, not a quantity seized.
+  - Neither account says when the case began or whether the two men had pleaded; no court outcome beyond temporary arrest was reported.
+  - Both cited pages publish the same CBŚP statement, so they are not independent reporting; no police page or other outlet account of the operation was found.
+  - The text gives a weight ("3.5 kg") but the figures have no kg_seized; check whether it belongs there.
+  - The Chinese-language account gives the same police-sourced details as the Polish reports and does not independently confirm them.
+  - No separate date is given for the searches or detentions; 9 November 2026 is both its publication date and the date of the account it translates.
+  - The Ukrainian UA.NEWS page reproduces the same RMF24 material as the Polish accounts already cited, so it strengthens corroboration but is not independent reporting.
+  - The page gives no separate date for the searches or detentions; 9 November 2026 is its publication date and stands in for the incident date.
+  - The CBŚP statement gives no separate date for the searches or detentions; 9 November 2026 is its publication date and stands in for the incident date.
+  - The statement still gives no plant count, weight of dried cannabis or area for the hemp cultivation, so no cannabis quantity is recorded.
+  - The amphetamine weights, the estimated 60 kg of finished drug and the 1.6 million zloty value are police estimates for amphetamine and chemicals, not cannabis figures, and are excluded.
+  - The statement does not say whether the two locations it names for cannabis — the allotment shed in Gdynia and one suspect's home — are separate sites.
+  - Neither suspect's plea nor any court outcome beyond temporary arrest is reported.
+  - The three gallery photos and the embedded video carry no captions naming which laboratory or seizure they show.
+  - The kryminalki.pl page reproduces the same CBŚP statement as the accounts already cited, so it is not independent reporting of the operation.
+  - The page gives no plant count, weight of dried cannabis or area for the hemp cultivation in the allotment shed.
+  - The amphetamine quantities on the page are amphetamine, not cannabis figures, and its estimate of about 60 kg of finished drug from the 45 litres is a potential output estimate.
+  - The page's headline figure of 1.5 million zlotys differs from the 1.6 million zlotys reported elsewhere; it is a police estimate for amphetamine and chemicals in any case, not a cannabis figure.
+  - The page's photo is captioned only 'CBŚP', with no statement of which site or seizure it depicts, and it appears to be the police handout already listed in the report.
 ---
 
 Officers of the Bydgoszcz branch of the Central Bureau of Investigation of

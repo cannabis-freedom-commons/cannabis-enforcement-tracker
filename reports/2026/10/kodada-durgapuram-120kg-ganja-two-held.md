@@ -144,11 +144,27 @@ sources:
     date: 2026-10-31
     language: te
 open_questions:
-  - The early Telugu accounts give 120 kg moved from Rajahmundry to Bengaluru; later ones give about 150 kg in 62 packets bought in Chitrakonda, Odisha, for Karnataka.
-  - The stop is placed at Durgapuram stage, near Kakatiya Seva Samithi on the Kodad highway, or near the Kamma Kakatiya function hall after a chase.
-  - Only some accounts speak of a five-man gang with three who fled, and none of them has been reported caught.
-  - The car's registration is transcribed differently from one report to the next.
-  - No charges or court step beyond the FIR have been reported.
+  - The reports give no names, ages, charges or court date for the two people held.
+  - The reports say the two were taken into custody but do not say whether they were formally arrested or charged.
+  - No value for the 120 kg was published.
+  - The reports transcribe the car's registration differently, so the registration is not given in the report.
+  - Police did not say where in Rajahmundry the consignment was loaded or who in Bengaluru was to receive it, saying they were investigating.
+  - 'Left out, as its quotation was not found in Namasthe Telangana: Kodada town police took two people into custody at Durgapuram stage in Kodada on the evening of Saturday 31 October 2026.'
+  - 'Left out, as its quotation was not found in Andhra Prabha: The two were being questioned, Andhra Prabha reported.'
+  - 'The reports disagree on the haul and route: the early Telugu accounts say 120 kg from Rajahmundry to Bengaluru, while The Hindu, Siasat and V6 Velugu say about 150 kg in 62 packets from Chitrakonda in Odisha to Karnataka; the report keeps 120 kg.'
+  - The early reports place the interception at Durgapuram stage; The Hindu and Siasat place it near Kakatiya Seva Samithi on Kodad Highway.
+  - The Hindu says both men are from Kollegala, while Siasat says Selva Surya is from Hanur taluk and Raja Gownder Murugan from Kollegala.
+  - The Telugu Post puts the haul at 150 kg and its value at about ₹75 lakh, while the report's figures keep 120 kg from the earlier Telugu accounts.
+  - Only this account says three other members of a five-person gang fled; The Hindu and Siasat, already cited in the report, describe two men in the car and name two alleged receivers, so the number of people at large is not confirmed.
+  - The article is dated 1 November and carries a Suryapet dateline for that day, but gives no separate event date; the report keeps 31 October, when The Hindu and Siasat say the interception happened.
+  - The article does not say whether the three who fled were later caught or charged.
+  - 'Left out, as its quotation was not found in Andhrajyothy: Police said preliminary inquiries showed the two were taking the cannabis by car from Rajahmundry to Bengaluru.'
+  - IND Today and The Hans India put the haul at 150 kg, while the report's title and figures keep 120 kg from the earlier Telugu accounts.
+  - The IND Today page gives no photo credit for its lead picture of officers and seized bundles, so its provenance is not documented.
+  - The Dailyhunt page is a syndicated copy of the Andhra Jyothy report already cited, so its 150 kg figure does not independently resolve the report's 120 kg versus 150 kg discrepancy or confirm the five-person account.
+  - The lead image on the Dailyhunt page has no photo credit, so its provenance is not documented.
+  - HMTV names neither of the two people detained and reports no charges, value or court outcome.
+  - The value of the seized ganja and the identities of the two people held were still to be disclosed in this account.
 ---
 
 Telangana's EAGLE Force and Kodad Town Police stopped a Honda City inside Kodada town limits, in

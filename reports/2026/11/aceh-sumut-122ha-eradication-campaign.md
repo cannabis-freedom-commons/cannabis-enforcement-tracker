@@ -233,14 +233,51 @@ sources:
     date: 2026-11-08
     language: id
 open_questions:
-  - The areas listed for each site add up to more than the official total of 122.86 hectares, which the report uses.
-  - Some accounts present the 122.86 hectares as an Aceh operation and leave out the Mandailing Natal find in North Sumatra.
-  - It is not stated whether the estimate of 186,450 plants includes the 150,000 plants counted at Mandailing Natal.
-  - The 93.225 tonnes is an estimated wet weight; no dry weight was published.
-  - One account gives the small plots in Bener Meriah, Aceh Besar and Aceh Timur as 4, 7 and 12 hectares, a hundred times the figures in the others.
-  - Another tracker report gives about 20 hectares for Nagan Raya on 31 October, against about 77 hectares here.
-  - It is unclear whether the suspects named after the 2 November follow-up at Sawang are the same three detained on 27 October.
-  - The owners of the Sawang fields have not been found, and no court outcome has been reported for any suspect.
+  - Only one opened source supports this campaign total; no second outlet or agency statement was accessible.
+  - The listed components add to about 127.74 hectares while police give the official total as 122.86 hectares; the report uses the official total.
+  - This source gives about 77 hectares for Nagan Raya on 31 October 2026 while the existing Nagan Raya report records about 20 hectares for the same district and date.
+  - No plant counts or weights were published for the Aceh plots; the 150,000-plant figure covers only the Mandailing Natal find.
+  - The four detainees are identified only by initials and no court outcome beyond the three suspect designations was reported.
+  - The incident date uses the latest reported destruction on 2 November 2026; the campaign ran from 27 October to 2 November 2026.
+  - The page photo credited to Taufiq/detikcom duplicates the cannabis-field photo already listed from the original detikNews page, so it is not listed again as media.
+  - The Ipol.id and BNN accounts present the 122.86 hectares as an Aceh operation, while the existing campaign report records it across North Sumatra and Aceh.
+  - The BNN phase areas of about 18, 25, 77, 0.04, 0.7, 2 and 0.12 hectares add to more than the official 122.86-hectare total.
+  - The existing campaign report counts about 150,000 plants for the Mandailing Natal phase, while the new accounts estimate 186,450 plants for the whole operation.
+  - 'Left out, as its quotation was not found in Badan Narkotika Nasional: BNN put the operation total at about 186,450 cannabis plants with an estimated wet weight of 93.225 tonnes.'
+  - The listed phase areas and plant counts add to more than the official 122.86-hectare total; the report keeps the official total.
+  - 'Left out, as its quotation was not found in Kalimantan Kita: On 31 October 2026, officers destroyed about 77 hectares of cannabis at Desa Blang Meurande and Beutong Ateuh–Benggala.'
+  - The 93.225-tonne figure is stated as wet bruto weight, not dry cannabis weight.
+  - No names, charges or court outcomes are given beyond the four people secured in the Sawang phase.
+  - The 93.225-tonne figure is stated as an estimated wet weight, not a dry seized weight.
+  - The Bareskrim statement quoted was given on 3 November 2026 while the article was published on 2 November 2026; the incident date follows the latest reported destruction on 2 November 2026.
+  - The four Sawang detainees are identified only by initials with ages and roles, and HM was released; no further court outcome is reported.
+  - The supplied page images are a stock cannabis illustration and unrelated Tempo items, so no event photo can be listed as media.
+  - No arrests, plant counts, weights, values or court outcomes for the 25-hectare phase are given in either new account.
+  - The RRI account presents the 122.86 hectares as an Aceh operation while the existing campaign report records it across North Sumatra and Aceh.
+  - The RRI account lists small-plot areas as 4 hectares in Bener Meriah, 7 hectares in Aceh Besar and 12 hectares in Aceh Timur, differing by a factor of 100 from the 0.04, 0.7 and 0.12 hectares in the wider campaign accounts.
+  - The new account gives no plant counts, weights, arrests, charges, values or court outcomes for the 25-hectare phase.
+  - The new account attributes the 25-hectare find to a joint Bareskrim Polri, BNN RI and Polda Aceh team, while the existing campaign report lists the 2 November 25-hectare phase under Lhokseumawe police within the wider operation.
+  - The article gives no separate operation date beyond its 2 November 2026 publication; the date match follows the existing campaign chronology and the reported 11.00 WIB arrival.
+  - The page names no arrests, plant counts, weights, values, charges or court outcomes for the 25-hectare phase.
+  - The opinion gives only approximate totals with no breakdown by district, no destruction-method details, and no suspect names, charges or court outcomes beyond four people secured.
+  - The opinion's 2025 yearly figures and linked headlines about other operations are separate contexts left out here.
+  - The new account gives no plant counts, weights, arrests, charges or court outcomes for the operation.
+  - The second of the two locations making up the 25 hectares is not named; only Gampong Teupin Rusep is identified.
+  - It is unresolved whether the four people secured and three suspects described here restate the 27 October Sawang detentions or are additional detentions in the 2 November follow-up, since the BNN account attributes four suspects to the 27 October 18-hectare operation.
+  - No seized weight, value, suspect ages or court outcome beyond suspect designation was published for the 25-hectare follow-up.
+  - The recapitulation describes the 122.86-hectare total as found, handled, and scheduled for handling, leaving unclear how much had been destroyed when published.
+  - The new account presents the 25-hectare second site plus an 18-hectare first site as a 43-hectare two-site total, while the existing campaign report records the official 122.86-hectare total across Aceh and North Sumatra.
+  - The new account attributes the 25-hectare find to a joint Bareskrim Polri, BNN RI and Polda Aceh team, while the existing campaign report lists the 2 November 25-hectare phase under Lhokseumawe police within the wider campaign.
+  - The page states it was automatically rewritten by AI based on news.detik.com without altering facts, so it adds no independent verification beyond the detik account already cited.
+  - The page names no arrests, charges or court outcomes for this operation.
+  - 'Left out, as its quotation was not found in Lensa Hukum: Police put the total area destroyed across both provinces at 122.86 hectares.'
+  - The Dialeksis account presents the 122.86 hectares as an Aceh operation, while the existing campaign report records it across Aceh and North Sumatra including Mandailing Natal.
+  - The weight is written as 93,225 ton, read here as 93.225 tonnes wet weight in Indonesian decimal notation.
+  - The new account gives no breakdown by district and no plant counts, weights, arrests, charges or court outcomes.
+  - No dried-cannabis weight was published; the 93,225-ton figure is stated as estimated wet weight.
+  - No names, charges or court outcomes beyond the four people secured in the Sawang phase were given in this account.
+  - The RRI account names three detainees, S, W and M, for the 27 October Sawang phase and records 282 grams of cannabis seeds and 29 grams of dried cannabis seized there, which agrees with this report's four secured with HM released.
+  - The 93.225-ton figure is stated as estimated wet bruto weight, not dry seized cannabis weight.
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh police, the National
