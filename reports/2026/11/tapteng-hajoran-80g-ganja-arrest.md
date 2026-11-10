@@ -47,6 +47,11 @@ sources:
     publisher: HARIAN MISTAR
     date: 2026-11-10
     language: id
+  - title: Sat Resnarkoba Polres Tapteng Bekuk Pengedar Ganja di Pandan, Sita Barang Bukti Seberat 80 Gram -
+    url: https://analisasiber.com/sat-resnarkoba-polres-tapteng-bekuk-pengedar-ganja-di-pandan-sita-barang-bukti-seberat-80-gram/
+    publisher: ANALISASIBER.COM
+    date: 2026-11-10
+    language: id
 open_questions:
   - Only one accessible source was found for this arrest, so the account could not be corroborated against a second outlet or the police statement.
   - The suspects are identified only by initials and aliases, so their full names are unknown.
@@ -56,18 +61,17 @@ open_questions:
 
 The operational team of the Tapanuli Tengah district police narcotics unit
 arrested a 20-year-old man identified as SP, alias Gelleng, as an alleged
-cannabis dealer. [@1] Officers stopped the man at about 17.30 WIB beside a house
+cannabis dealer. [@1,2] Officers stopped the man at about 17.30 WIB beside a house
 in a residential area at Simpang Idola. [@1] The arrest took place in Hajoran
 ward, Pandan district, Tapanuli Tengah, on the afternoon of Saturday 7 November
-2026. [@1] District narcotics chief AKP Johannes Munthe said the case began with
+2026. [@1,2] District narcotics chief AKP Johannes Munthe said the case began with
 a public tip that cannabis dealing and abuse were frequent at Simpang Idola.
 [@1] The detained man said he is SP, alias Gelleng, aged 20, a resident of
 Lopian ward in Badiri district. [@1]
 
 A search found one package of cannabis wrapped in black plastic with a gross
-weight of 80 grams and a black Redmi mobile phone. [@1] Under questioning at the
+weight of 80 grams and a black Redmi mobile phone. [@1,2] Under questioning at the
 scene, SP said he had obtained the package from a man identified as MHP, alias
-Uccok. [@1] Officers detained MHP later that same night in Lopian, Badiri. [@1]
+Uccok. [@1] Officers detained MHP later that same night in Lopian, Badiri. [@1,2]
 Both suspects and all the evidence were taken to Tapanuli Tengah police
 headquarters for proceedings under Law Number 35 of 2009 on Narcotics. [@1]
-
