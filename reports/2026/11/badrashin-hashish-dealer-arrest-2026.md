@@ -44,25 +44,21 @@ sources:
     publisher: اوان مصر
     date: 2026-11-10
     language: ar
-open_questions:
-  - No weight or number of pieces of hashish was published, so no cannabis quantity is recorded.
-  - The amount of cash seized was not stated.
-  - The article gives no separate date for the arrest; 9 November 2026 is its publication date and is used as the incident date.
-  - The suspect is described only as unemployed, with no name, age or prior record published.
-  - No court outcome beyond the prosecution starting its investigation was reported.
-  - Only one accessible source for this event was found after searching in Arabic; no agency statement or second outlet account was available.
-  - The Awan Masr article is dated 10 November 2026 and gives no separate date for the arrest; it appears to be a follow-up account of the 9 November detention but the interval is not stated.
-  - The article's tag line names a different drug alongside hashish, but its text describes only hashish; no other substance or quantity is reported.
+  - title: التحقيق مع ديلر الحشيش عقب إلقاء القبض عليه في البدرشين
+    url: https://www.dostor.org/5771505
+    publisher: جريدة الدستور
+    date: 2026-11-10
+    language: ar
 ---
 
 Detectives of the Giza Security Directorate arrested a suspected hashish dealer
 in Badrashin, south of Giza, before he could distribute the drug to his
-customers. [@1,2] Police at Badrashin police station received information that an
-unemployed man was trafficking narcotics in the station's area. [@1] After
+customers. [@1,2,3] Police at Badrashin police station received information that an
+unemployed man was trafficking narcotics in the station's area. [@1,3] After
 verifying the information and locating him, officers detained the suspect under
 legal procedures. [@1]
 
 He was found with a large quantity of hashish prepared for sale, cash described
-as proceeds of sale, and a mobile phone used to contact customers. [@1,2] Police
+as proceeds of sale, and a mobile phone used to contact customers. [@1,2,3] Police
 filed a report on the arrest and referred the case to the competent prosecution,
-which began its investigation. [@1,2]
+which began its investigation. [@1,2] The prosecution ordered the seized items to be examined to determine their nature, kept the hashish, cash and phone in custody, and is continuing investigations to establish the circumstances and the source of the drugs. [@3]
