@@ -121,59 +121,41 @@ sources:
     date: 2026-11-07
     language: hi
 open_questions:
-  - The incident date of 5 November 2026 is inferred because the reports published on 6 November 2026 say the Dumaria Ghat arrest happened on Thursday.
-  - The same articles report a separate Purnia operation in which a woman was held with 61 grams of smack and a motorcycle; smack is not cannabis, so that seizure, vehicle and arrest are excluded from this cannabis report.
-  - No separate laboratory weight or cannabis-only valuation method was published beyond the reported 10 kg and the about Rs 10 crore official valuation.
-  - No charge, case number or court outcome was reported; the STF said investigation was still under way.
-  - The same page reports a separate Purnea operation with 61 grams of smack and a motorcycle; smack is not cannabis, so that arrest and seizure remain excluded from the cannabis report.
-  - Prabhat Khabar does not give the exact weight of the seized charas; the 10 kg figure is its statement that the suspect was carrying about 10 kg in his backpack.
-  - Prabhat Khabar gives no exact place or time for the bus interception and no district for the Gujarat destination, whereas other accounts name Patan district.
-  - Only the publication date, 6 November 2026, is on the page; the day of the arrest is inferred from its statement that the suspect was produced in court on Friday and the earlier reports that he was held on Thursday.
-  - The page capitalises the accused's name as Rajesh Sahni without further identification; no case number or next court step is given.
-  - The Gandiv Live page carries the same AI-experienced place spelling Dumariya Ghat and describes the arrest as reported by the STF on Friday without naming the DRI's Patna or Muzaffarpur units separately.
-  - The article names no suspect, and describes the joint team as the DRI's Muzaffarpur regional unit with the Bihar STF, without the Patna unit named in other accounts.
-  - Gandiv Live does not name the DRI's Patna or Muzaffarpur units and instead attributes the account to the STF's briefing on Friday; the report and other accounts describe a joint STF-DRI operation.
-  - Gandiv Live does not state the weight of the charas or the site of the interception, giving only the district and the Rs 10 crore valuation in its headline.
-  - Neither this web story nor The Followup gives a charge, case number or court outcome; both say investigation is continuing.
-  - 'Left out, as its quotation was not found in गांडीव लाइव: The seized consignment was to be delivered to Patan district in Gujarat.'
-  - The page attributes the Dumaria Ghat arrest to a joint STF and DRI operation covering the DRI's Patna and Muzaffarpur units, which other accounts reported differently; no case number or charge was published on this page either.
-  - Dainik Bhaskar says the load was to travel by bus through Basti in Uttar Pradesh to Patan, while another account records multiple trains and a deliberate delay; both describe the same Nepal-to-Gujarat route.
-  - 'The page carries no photo of the seizure: its only image is an uncaptioned headline thumbnail not established to show this consignment or the arrested man.'
-  - The page credits the operation to the DRI's Muzaffarpur unit alone, whereas the STF statement named in other accounts describes a joint STF and DRI operation with the DRI's Patna and Muzaffarpur units.
-  - The page gives the weight as about 10 kg rather than a measured packet total, and states no number of packets.
-  - The page names no charge section or case number beyond the arrest on trafficking suspicion, and gives no next court date.
-  - Hindustan names the arrested man Rajesh Kumar, while earlier accounts call him Rajesh Sahni, and gives his village as Bairiya under the Kesaraiya police station; the village name is spelled differently across accounts and the full name is inconsistent.
+  - The arrest is dated only to a Thursday in reports of 6 November 2026, so 5 November is inferred.
+  - The weight is given as about 10 kg, with no packet count, and the Rs 10 crore valuation is not explained.
+  - The man is named Rajesh Sahni, Rajesh Kumar Sahni or Rajesh Kumar.
+  - 'Accounts differ on the planned route: by bus through Basti to Patan in Gujarat, by several trains with deliberate delays, or to Basti and Surat.'
+  - Some accounts credit the DRI's Muzaffarpur unit alone rather than a joint STF and DRI team.
+  - No charge sections, case number or next court date were published.
+  - The same articles report a separate Purnia arrest with 61 grams of smack, left out of this report.
 ---
 
-A joint team of the Bihar Police Special Task Force and the Directorate of
-Revenue Intelligence's Patna and Muzaffarpur units arrested Rajesh Sahni on
-Thursday in the Dumaria Ghat police station area of East Champaran district.
-[@1,4,6,7,8,9,10,12,14,15] Officers seized 10 kg of charas from him and valued the consignment at
-about Rs 10 crore. [@2,3,5,6,7,12,14] Officers also recovered a mobile phone and Rs 2,320 in
-cash from him. [@3,6] Sahni is a resident of East Champaran district, according to
-the STF account released on Friday. [@3]
+A joint team of the Bihar Police Special Task Force (STF) and the Directorate of Revenue Intelligence's
+(DRI) Patna and Muzaffarpur units arrested Rajesh Sahni on Thursday in the Dumaria Ghat police station
+area of East Champaran district. [@1,4,6,7,8,9,10,11,12,14,15] He is from Bairiya village in the
+Kesaraiya police station area of the same district [@3,12,13,14]; two accounts name him Rajesh Kumar
+Sahni. [@12,13]
 
-The STF said Sahni was allegedly part of an international drug-trafficking gang.
-[@1,4] He allegedly brought charas from Nepal and supplied it through Bihar to
-traffickers in Uttar Pradesh, Punjab, Haryana, Gujarat and Maharashtra. [@1,6,7,8,9] The
-seized consignment was to be delivered to Patan district in Gujarat. [@2,6,7,9]
+The STF's NDPS cell and the DRI were tipped off as the load left Nepal and followed the courier [@13,15],
+and stopped the bus he was travelling on at Dumaria Ghat. [@7,10,12] He was carrying about 10 kg of
+charas, a cannabis resin, in a backpack, which officers valued at about Rs 10 crore. [@2,3,5,6,7,12,14]
+They also took a mobile phone and Rs 2,320 in cash. [@3,6] Investigators said public buses were used to
+avoid the attention of security agencies. [@7]
 
-The STF said further investigation in the case is continuing. [@1,3,8,10,12] The criminal
-history of the arrested accused is being verified. [@1,8] Legal proceedings in the
-case have been started. [@1]
+## The route
 
-The DRI's Muzaffarpur regional unit made the recovery after stopping a bus in the Dumaria Ghat area and seizing a consignment of charas, a cannabis resin. [@7,12] The arrested man was carrying about 10 kg of charas in a backpack, and investigators said public buses were used to avoid the attention of security agencies. [@7] Officers took him to the DRI's zonal office at Imlichatti in Muzaffarpur and questioned him for several hours about his methods and his Nepali suppliers. [@7] The DRI produced him before a court on Friday, which ordered him to judicial custody in jail. [@7]
+The STF said Sahni was allegedly part of an international trafficking gang [@1,4] that brought charas
+from Nepal and supplied it through Bihar to traffickers in Uttar Pradesh, Punjab, Haryana, Gujarat and
+Maharashtra. [@1,6,7,8,9] This load was to go to Patan district in Gujarat [@2,6,7,9], through Basti in
+Uttar Pradesh. [@10,12,13] An STF statement said the syndicate planned to move it on several trains and
+deliberately delay it to avoid detection, with the onward journey set for 5 November [@10]; one account
+names Basti and Surat as destinations. [@15] Questioned, he said he worked as a courier and had received
+the load from a kingpin in Nepal, for a substantial payment. [@15]
 
-According to an STF statement, the syndicate planned to move the consignment through multiple trains and deliberately delay its movement to evade detection, and the load was scheduled to travel onwards on 5 November. [@10] Acting on a tip about a suspected carrier travelling by bus, the team intercepted the bus at Dumariaghat and arrested him. [@10] Police sources said the syndicate moved the charas from Nepal to Patan in Gujarat via Basti in Uttar Pradesh. [@10]
+## Investigation
 
-The STF said it is also verifying the arrested man's criminal history. [@3]
-
-The joint team that stopped the man in East Champaran and seized the 10 kg of charas was drawn from the Special Task Force and the DRI's Patna and Muzaffarpur units. [@11]
-
-The charas was said to have been brought from Nepal and was to be carried by bus to Gujarat, with the trafficker travelling through Basti in Uttar Pradesh towards Patan district. [@12,13] The arrested trafficker was identified as Rajesh Kumar Sahni, a resident of Bairiya in the Kesaraiya police station area of East Champaran. [@12,13]
-
-Officers acted on an intelligence input and raided the area jointly, detaining the trafficker at Dumaria Ghat. [@13]
-
-Sahni is a resident of Bairiya village in the Kesaraiya police station area of East Champaran district. [@14]
-
-The team surrounded and caught the courier near Dumaria Ghat after the STF's NDPS cell and the DRI were tipped off as soon as the load left Nepal, and officers followed him. [@15] Officials said the charas had been brought in from Nepal through difficult routes and was to be delivered to Basti in Uttar Pradesh and Surat in Gujarat. [@15] During questioning the arrested man said he worked as a courier for the syndicate and had received the load from a kingpin based in Nepal, for which he was to be paid a substantial sum. [@15] The DRI and STF teams were examining the man's mobile call records and contacts to identify the Nepal-based kingpin and the traffickers who were to receive the load in Uttar Pradesh and Gujarat, and expected more arrests. [@15]
+He was taken to the DRI's zonal office at Imlichatti in Muzaffarpur and questioned for several hours
+about his methods and his Nepali suppliers, and on Friday a court sent him to judicial custody. [@7]
+Legal proceedings have begun [@1], and the STF said the investigation, including into his criminal
+history, was continuing [@1,3,8,10,12]; officers were going through his call records to identify the
+kingpin and the intended buyers, and expected more arrests. [@15]

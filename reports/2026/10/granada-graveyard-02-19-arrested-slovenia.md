@@ -199,63 +199,40 @@ sources:
     date: 2026-11-09
     language: sl
 open_questions:
-  - The Guardia Civil statement gives no breakdown of how much of the 181 kg of marijuana was bud and how much was plants, nor whether the 1,388 plants were seized or cut.
-  - The three sources give the same figures, but no independent verification of the weights was published; all figures are the Guardia Civil's own.
-  - No count of how many people were formally charged, how many of the 12 properties were grow sites as opposed to storage or money-laundering premises, and no outcome beyond the remand of four detainees has been reported.
-  - The Guardia Civil says only that possible international connections with other countries are not ruled out, without naming them; Slovenia is the only destination country stated.
-  - The gold pieces worth about 40,000 euros and the six vehicles are not included as cannabis or cash figures.
-  - The exact locations of the searched properties within Granada city, Almuñécar and Peligros were not published, so the district-level point is a central reference rather than a raid site.
-  - The EFE/Infobae account repeats the Guardia Civil's own figures and gives no independent verification of the weights.
-  - It does not say how many of the 12 properties held grow rooms or whether the 1,388 plants were seized or cut.
-  - It reports a pistol modified for automatic fire without naming the Glock model that other coverage used.
-  - Only the three Slovenian-origin detainees and the gold valuation are added; the outlet repeats the agency's other figures without independent verification.
-  - Portal24 does not say whether any of the four remanded suspects are the detainees of Slovenian origin.
-  - The article repeats the Spanish authorities' figures without independent verification and gives no outcome beyond the remand of four suspects.
-  - The Infocosta page is credited to the Guardia Civil as its source and repeats the agency's figures without independent verification.
-  - COPE's weapons photo is an Europa Press copy of the Guardia Civil handout already linked from the agency's own page.
-  - Maribor24 attributes its account to portal 24ur rather than to the Guardia Civil statement directly, so its figures repeat the authorities' account without independent verification.
-  - N1 reports the court ordered detention for four suspects but does not say which court or whether any are the Slovenian-origin detainees.
-  - The Slovenian portal does not say whether any of the four remanded suspects are the three Slovenians detained, nor what role the three had in the network.
-  - It repeats the Spanish authorities' figures without independent verification and gives no Slovenian court or police step linked to the case.
-  - The page gives no new detail on the role of the three Slovenian detainees or on whether any of them is among the four remanded suspects.
-  - The opened capture contains only the opening lines and the heading 'Doce registros en Granada y su provincia'; it gives no drug quantities, seizure towns beyond Granada province, or raid dates beyond the operation name.
-  - Lokalec.si attributes its account to the Slovenian outlet N1 rather than to the Guardia Civil statement directly, so it is not independent reporting.
-  - The article does not name the Guardia Civil as the acting force or give the operation name Graveyard 02.
-  - The article does not say whether any of the four remanded suspects are among the three detainees of Slovenian origin, nor what role the Slovenians had in the network.
+  - The 181 kg of marijuana is not split into dried bud and plants, and it is not said whether the 1,388 plants were seized or cut down.
+  - It is not said how many of the 12 properties were grow sites.
+  - It is not said whether any of the three Slovenian-origin detainees is among the four remanded, or what their role was.
+  - The other countries the network may have reached are not named.
+  - No outcome beyond the remand of four has been reported.
+  - All the figures are the Guardia Civil's own; the Slovenian outlets repeat them.
 ---
 
-Spain's Guardia Civil said it had dismantled a criminal organisation that grew,
-bought and sold, transported and shipped marijuana to Slovenia, detaining 19
-people in operation Graveyard 02. [@2,4,5,8,9,10,12,13,15,16,17] Three of the 19 detainees are of
-Slovenian origin. [@1,4,5,7,9,13,14,15,17,18] The searches took place on 23 and 24 October 2026 at 12
-properties in Granada city, Almuñécar and Peligros. [@2,4,5,6,8,9,10,12,13,14,15] Investigators believe
-the organisation shipped the drugs to Slovenia and have not ruled out
-international links with other countries. [@2,5,14]
+Spain's Guardia Civil said it had dismantled a criminal organisation that grew, bought and sold,
+transported and shipped marijuana to Slovenia, detaining 19 people in operation Graveyard 02.
+[@2,4,5,8,9,10,12,13,15,16,17] Three of the 19 are of Slovenian origin. [@1,4,5,7,9,13,14,15,17,18] The
+searches took place on 23 and 24 October 2026 at 12 properties in Granada city, Almuñécar and Peligros.
+[@2,4,5,6,8,9,10,12,13,14,15] Investigators believe the organisation shipped the drugs to Slovenia and
+have not ruled out links with other countries. [@2,5,14]
 
-Agents found marijuana plantations indoors, in rooms fitted out for cultivation
-and, in one case, in a pit dug underground, a zulo. [@2,4,10,12] The properties had
-illegal connections to the electricity grid to feed the plantations. [@1,5] The
-searches yielded 181 kilograms of marijuana, 1,388 cannabis plants and 805 grams
-of hashish. [@1,4,5,6,8,9,10,12,13,14,15,16] Officers also seized almost 35,000 euros in cash, gold pieces
-valued at about 40,000 euros, six high-end vehicles, motorcycles and accounting
-records. [@2,5,12,13]
+## The plantations
 
-The weapons seized were four short firearms, a repeating shotgun, ammunition and
-magazines, among them a Glock pistol modified to fire automatically, which the
-Guardia Civil treats as a weapon of war. [@2,5,9,12,14] The detainees were accused of drug
-trafficking, belonging to a criminal organisation, illegal possession of
-firearms, illegal possession of weapons of war and money laundering. [@2,14] After
-appearing before the duty investigating court of the Granada court, four of them
-were remanded in custody. [@2,4,5,6,9,10,11,12,15,17] The investigation was run by the Guardia Civil's
-Organised Crime Judicial Police Unit in Granada, supported by the USECIC
-riot-control unit and units from other Andalusian commands. [@2] El Confidencial
-Digital, quoting the Guardia Civil, also reported the 19 detentions in operation
-Graveyard 02 and the remand in custody of four detainees. [@3]
+Agents found marijuana plantations indoors, in rooms fitted out for cultivation and, in one case, in a
+pit dug underground, a zulo. [@2,4,10,12] The properties had illegal connections to the electricity grid.
+[@1,5] The searches yielded 181 kilograms of marijuana, 1,388 cannabis plants and 805 grams of hashish.
+[@1,4,5,6,8,9,10,12,13,14,15,16] Officers also seized almost 35,000 euros in cash, gold pieces valued at
+about 40,000 euros, six high-end vehicles, motorcycles and accounting records. [@2,5,7,12,13]
 
-The operation drew on agents from different Granada companies with support from units of Almería, Huelva and Málaga. [@5]
+The weapons seized were four short firearms, a repeating shotgun, ammunition and magazines, among them a
+Glock pistol modified to fire automatically, which the Guardia Civil treats as a weapon of war.
+[@2,5,9,12,14]
 
-Officers also seized gold pieces valued at about 40,000 euros. [@7]
+## Court
 
-The investigation was run by the Guardia Civil's Organised Crime Judicial Police Unit in Granada, supported by the USECIC riot-control unit and units from other Andalusian commands, among them the Grupo de Acción Rápida, the Grupo de Reserva y Seguridad, patrols of the Armilla company and investigation teams from Almuñécar, Las Gabias and Armilla. [@11]
+The detainees were accused of drug trafficking, belonging to a criminal organisation, illegal
+possession of firearms and of weapons of war, and money laundering. [@2,14] After appearing before the
+duty investigating court in Granada, four were remanded in custody. [@2,3,4,5,6,9,10,11,12,15,17]
 
-Guardia Civil dog-handling teams from Granada, Almería, Huelva and Málaga took part in the searches, alongside the Granada riot-control unit and the rapid-action and reserve and security groups. [@12]
+The investigation was run by the Guardia Civil's Organised Crime Judicial Police Unit in Granada,
+supported by the USECIC riot-control unit, the rapid-action and reserve and security groups, patrols of
+the Armilla company, investigation teams from Almuñécar, Las Gabias and Armilla, and dog-handling teams
+from Granada, Almería, Huelva and Málaga. [@2,5,11,12]

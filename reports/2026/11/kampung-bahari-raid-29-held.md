@@ -161,50 +161,36 @@ sources:
     date: 2026-11-02
     language: zh
 open_questions:
-  - The sources did not publish a weight for the cannabis, or a precise count of the ecstasy pills beyond 'thousands'.
-  - The submitted article and Kompas reported 26 people held; the drug squad director's final update, quoted by Aktual, put the count at 29.
-  - 'Reports differ on the size of the operation: ANTARA says 1,816 officers, while Kompas and the submitted article say 1,800.'
-  - No names, formal charges or court step for the 29 detainees were reported.
-  - 'Left out, as its quotation was not found in Kompas.com: Bismo called the stone-throwing an attempt to divert police from their targets.'
-  - The VOI photo caption says 27 people were secured, while its article text says 26; the report uses the later count of 29.
-  - The Chinese-language version mistranslates sabu (methamphetamine) as heroin; the Indonesian original says police seized methamphetamine and cannabis.
-  - The French VOI page is a translation of the same article already cited in Indonesian and Chinese, so it is not independent corroboration.
-  - The French translation renders sabu (methamphetamine) as ecstasy and cocaine and gives the raid time as 17:30, while the report's Indonesian-language account gives methamphetamine and 05:30.
-  - The submitted CNN Indonesia account and ANTARA's midday report both put the number of people secured at 27, a count between the 26 first reported and the 29 the report uses.
-  - The lead picture on the CNN Indonesia page is a BNN archive photograph from an earlier Kampung Bahari raid, filed under November 2025, and its second picture is from an 18 October 2026 nightclub raid, so neither was listed as media for this raid.
-  - Media Indonesia's 11:17 WIB account gives the interim figure of 27 people held and does not report the later police count of 29 used in the report.
-  - The INP page is an English summary that credits antaranews.com, so it is not independent corroboration.
-  - Posnews reported that some people threw firecrackers at officers and police used tear gas, while the existing account records stone-throwing; the reports do not reconcile the two.
-  - Posnews said it was not clear whether the four people held at the primary site were among the larger group detained.
-  - The 26 people were detained over the drug market as a whole; the accounts do not say how many face cannabis-specific allegations.
-  - No separate weight for the marijuana is given, only hundreds of grams of methamphetamine and marijuana together and thousands of ecstasy pills.
-  - No separate weight or amount for the cannabis is given; it is listed only among mixed drug evidence with methamphetamine and ecstasy.
-  - No names, formal charges or court outcome for those detained are reported.
-  - This French version gives the raid time as 17h30, while the Indonesian-language account used in the report gives 05:30.
-  - The French translation names cocaine and ecstasy alongside cannabis, while the report follows Indonesian-language accounts in recording methamphetamine, cannabis and ecstasy pills.
-  - No separate weight or amount for the cannabis is given; it is listed only among mixed drug evidence with ecstasy, sharp weapons and firearms.
-  - The Chinese text repeats ecstasy several times and is machine-translated from Indonesian, so drug-type wording beyond cannabis is left to Indonesian-language accounts.
+  - No weight was published for the cannabis, and no count for the ecstasy pills beyond thousands.
+  - The number held was first given as 26, then 27, and finally 29 by the drug squad director.
+  - The force is given as 1,816 or about 1,800 officers.
+  - Officers are said to have been pelted with stones; one account speaks of firecrackers and tear gas.
+  - It is not said how many of those held face cannabis allegations, or whether the four held at the main site are counted in the larger group.
+  - No names, formal charges or court step have been reported.
+  - Translated versions render the drugs and the time of the raid differently from the Indonesian accounts.
 ---
 
-Police arrested 29 people in a raid on Kampung Bahari in North Jakarta on 1
-November 2026. [@4,15,19] Jakarta police drug squad director Kombes Bismo Teguh
-Prakoso said the operation involved the city police, the national police
-criminal investigation unit (Bareskrim), the National Narcotics Agency (BNN) and
-the mobile brigade (Brimob). [@2,8,10,12,15,16,17,19] He said some of those held were alleged
-dealers or owners and others were users. [@2] Police first reported 26 people
-held. [@2,12,13,18] Bismo later put the final number at 29. [@4] About 1,816 officers
-began sweeping the area at 5.30am. [@3,18] They rode a commuter train from Tanjung
-Priok station to Kampung Bahari and neighbouring Kampung Muara Bahari. [@3,5,7,13,18]
+Police arrested 29 people in a raid on Kampung Bahari in North Jakarta on 1 November 2026. [@4,15,19]
+Jakarta police drug squad director Kombes Bismo Teguh Prakoso said the operation involved the city
+police, the national police criminal investigation unit (Bareskrim), the National Narcotics Agency (BNN)
+and the mobile brigade (Brimob). [@2,8,10,12,15,16,17,19] About 1,816 officers began sweeping the area at
+5.30am [@3,18], having ridden a commuter train from Tanjung Priok station to Kampung Bahari and
+neighbouring Kampung Muara Bahari. [@3,5,7,13,18]
 
-Officers seized cannabis, hundreds of grams of methamphetamine, thousands of
-ecstasy pills and a machine for pressing ecstasy tablets. [@1,11,12,14,15,17,19] They also found
-bongs, packaging, sharp weapons and firearms. [@2,14,15] Police also seized Happy Five
-pills and cartridges suspected of containing etomidate. [@4]
+Police first reported 26 people held [@2,12,13,18]; Bismo later put the final number at 29. [@4] Some
+were alleged dealers or owners and others users [@2]; four were held at the main site, three of them
+users and one the owner of the evidence. [@9,11,12,15] The suspects were taken to the Jakarta Metro
+Police narcotics directorate, North Jakarta police chief Kombes Adhe Hariadi said, and were being
+questioned. [@5,6,7,13]
 
-Officers were pelted with stones during the raid. [@2] He said drug dealing in
-Kampung Bahari still used stalls along the railway despite earlier raids. [@2,11,15]
-He said police would keep raiding and hunting the suppliers. [@2,12,15,16,17]
+## The seizure
 
-The suspects were held at the Jakarta Metro Police's narcotics directorate, North Jakarta Metro Police chief Kombes Adhe Hariadi said. [@5,13] Police were still questioning the 26 people detained in the raid. [@6,7,13]
+Officers seized cannabis, hundreds of grams of methamphetamine, thousands of ecstasy pills and a machine
+for pressing ecstasy tablets [@1,11,12,14,15,17,19], with bongs, packaging, sharp weapons and firearms
+[@2,14,15], Happy Five pills and cartridges suspected of containing etomidate. [@4] They also seized
+cash, which Bismo said was kept with the cannabis and came from its sale. [@8,11]
 
-Officers also seized cash, which Bismo said was kept with the cannabis and came from its sale. [@8,11] He said police would also tear down the stalls so they could not be misused. [@8,11,15] He said the resistance was an attempt to draw officers away from the operation's targets. [@8,11,12,16,17] Bismo said four people were held at the primary site, three of them users and one the owner of the evidence. [@9,11,12,15]
+Officers were pelted with stones [@2], which Bismo called an attempt to draw them away from the
+operation's targets. [@8,11,12,16,17] He said dealing in Kampung Bahari still used stalls along the
+railway despite earlier raids [@2,11,15], that police would tear the stalls down [@8,11,15], and that they
+would keep raiding and hunting the suppliers. [@2,12,15,16,17]

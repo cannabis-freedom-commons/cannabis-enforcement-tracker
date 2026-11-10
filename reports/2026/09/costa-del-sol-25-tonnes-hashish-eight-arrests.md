@@ -147,59 +147,38 @@ sources:
     date: 2026-10-31
     language: ar
 open_questions:
-  - The police account, as reported by Europa Press, places the searches in September 2026 but gives no day; 1 September marks that month only.
-  - Which of the searched houses in Málaga or Valencia held the drugs is not stated.
-  - No street value was published, and no final sentence is known beyond the remand of three suspects.
-  - The National Police press note itself was not opened; both articles cite that statement.
-  - Europa Press places the six searched homes and the commercial premises in Málaga and Valencia, while Moncloa says they were spread across Málaga, Valencia and Girona.
-  - The reports do not say what happened to the five detainees who were not remanded in custody.
-  - No street value for the 2.5 tonnes of hashish was published.
-  - La Opinión de Málaga's headline highlights four detainees in Málaga and its breakdown adds to seven (four on the Costa del Sol, two in Cullera and one in Girona), although its text says eight; the report keeps the police count of eight reported by Europa Press and Sur in English.
-  - The page's photo captioned 'Parte de la droga intervenida' carries no credit and appears to repeat the National Police handout already linked in the report, so it was not listed twice.
-  - The elperiodic.com piece is an unsigned local account based on the National Police statement, as the other coverage is, so it corroborates the police figures rather than adding independent confirmation.
-  - The only other account opened, Actualidad Castellón, is a sister paper in the same media group and carries the same police account, so this source adds corroboration rather than independent confirmation.
-  - The El Español page's two photographs, of a seized rifle and of seized drug loads, are credited to the Policía Nacional and appear to repeat police handout images already linked in the report, so no new media entries were added.
-  - The main 20minutos photograph is a National Police handout of the seized drugs and may repeat the police image already linked from Sur in English.
-  - The page's second police photograph carries only a caption about the group's methods, so what it shows could not be established and it was not listed.
-  - 101 TV Sevilla lists drug trafficking, criminal organisation, unlawful possession of firearms and document forgery, but not vehicle theft, although it reports that the group used stolen cars.
-  - The Diario de Alicante headline says three people were arrested, while its text and the police account give eight, three of them in Cullera; the report keeps the figure of eight.
-  - The cited page is Diario de Alicante's English translation of its Spanish article; only the English version was opened.
-  - The page's featured photograph, credited to the National Police, appears to repeat the seized-drugs handout already linked from Sur in English, so it was not listed as a second photo.
-  - The 101TV photograph is credited to the Policía Nacional and shows part of the seized haul; whether it is a different frame from the police handout already linked from Sur in English could not be established.
-  - The page's lead photograph is captioned only with the headline and has no credit, so it could not be confirmed as a distinct image of this seizure and was not added; it may repeat a National Police handout already linked in the report. Other images on the page are advertisements.
-  - The Castellón Diario account repeats the National Police account reported elsewhere, so it corroborates rather than independently confirms the police figures.
-  - The French account values all seized drugs together at more than 50 million euros retail, so no cannabis-only value can be recorded.
-  - The page's second image advertises Tangier-Med ferry times and does not show the event, so it was omitted.
+  - The searches are dated only to September 2026; 1 September stands in for the month.
+  - It is not said which house held the drugs, and one government account places the searches in Málaga, Valencia and Girona rather than Málaga and Valencia.
+  - No value was published for the hashish; one French account values all the drugs together at more than 50 million euros.
+  - What happened to the five men not remanded in custody is not reported.
+  - Some headlines give three or four arrests and one breakdown adds up to seven; the police count is eight.
+  - No trial has been reported.
 ---
 
-Eight men, aged 24 to 58, were arrested in Málaga, Valencia and Girona after the
-National Police dismantled an international cocaine and hashish trafficking
-organisation operating from the Costa del Sol. [@2,4,5,7,9,10,11,13,16,17,18] Two were detained in
-Marbella, two in Torremolinos, three in Cullera in Valencia and one in Girona.
-[@1,5,6,7,8,9,11,12,14,15,16,18] After they appeared in court, a judge remanded three of them in custody.
-[@1,4,5,6,7,8,9,10,11,12,13,14,15,16,18] The men were held as suspected authors of drug trafficking, membership of a
-criminal organisation, unlawful possession of firearms, vehicle theft and
-document forgery. [@1,5,6,7,8,9,11,12,14,16,18]
+Eight men aged 24 to 58, of Spanish, Moroccan and French nationality [@17], were arrested in Málaga,
+Valencia and Girona after the National Police dismantled an international cocaine and hashish
+trafficking organisation operating from the Costa del Sol. [@2,3,4,5,7,9,10,11,13,16,17,18] Two were
+detained in Marbella, two in Torremolinos, three in Cullera in Valencia and one in Girona.
+[@1,5,6,7,8,9,11,12,14,15,16,18] After they appeared in court, a judge remanded three of them in custody
+[@1,4,5,6,7,8,9,10,11,12,13,14,15,16,18]; the police account did not say what happened to the other five.
+[@3] They were held as suspected authors of drug trafficking, membership of a criminal organisation,
+unlawful possession of firearms, vehicle theft and document forgery [@1,5,6,7,8,9,11,12,14,16,18], and
+none has been tried. [@3]
 
-Searches of six homes and one commercial premises in Málaga and Valencia,
-carried out in September, yielded 2.5 tonnes of hashish and 600 kilograms of
-cocaine from a single house, the National Police said in a statement reported by
-Europa Press. [@2,4,7,12,18] Officers also seized a rifle, 13,000 euros in cash, five
-stolen high-end vehicles, 14 sets of fake number plates, plate-stamping
-equipment, signal jammers and fraudulent identity documents. [@1,4,5,6,7,9,12,14,16,18]
+## The seizure
 
-The inquiry was run jointly by the Drugs and Organised Crime Unit (UDYCO, the
-National Police unit for drugs and organised crime) in Torremolinos-Benalmádena
-and its counterpart in Valencia, and began in May. [@1,2,4,5,6,7,8,10,11,12,13,14,16,18] Detectives said the
-group bought cocaine and hashish in Portugal, stored and prepared shipments in
-Málaga and Valencia, and moved them by road toward European markets, mainly
-France, in high-end cars stolen in France and Belgium and fitted with forged
-plates. [@1,7,9,17,18]
+Searches of six homes and one commercial premises in Málaga and Valencia, carried out in September,
+yielded 2.5 tonnes of hashish and 600 kilograms of cocaine from a single house, the National Police said.
+[@2,3,4,5,7,8,10,12,13,14,15,16,18] Officers also seized a rifle, 13,000 euros in cash, five stolen
+high-end vehicles, 14 sets of fake number plates, plate-stamping equipment, signal jammers and false
+identity documents. [@1,2,4,5,6,7,8,9,12,14,16,17,18]
 
-Eight men aged between 24 and 58 were arrested in Cullera, Marbella, Torremolinos and Girona. [@3] Three of the eight were remanded in provisional custody, and the police account did not detail the status of the other five. [@3] Officers searched six homes and one commercial premises and seized 2.5 tonnes of hashish and 600 kg of cocaine. [@3,5,8,10,13,14,15,16] The investigation began in May 2026 and was carried out jointly by the Udyco units of Torremolinos-Benalmádena and Valencia. [@2] Police said the group obtained cocaine and hashish in Portugal and used Málaga and Valencia as intermediate storage and distribution points before taking the drugs to France. [@2,16] Officers also seized a rifle, €13,000 in cash, five stolen vehicles, 14 sets of false number plates, plate-stamping tools, signal jammers and false identity documents. [@2,8,17] The eight were held on charges of drug trafficking, membership of a criminal organisation, unlawful possession of firearms, vehicle theft and forgery. [@1] None of the eight has been tried, and all retain the presumption of innocence. [@3]
+## The organisation
 
-Detectives said the group chose cars with enough power to try to flee if it spotted police or rival surveillance. [@7,8,10,11,12,14]
-
-Police said the group prepared the drugs in batches and distributed a portion in Spain before crossing the border, with the rest bound for France. [@12]
-
-The eight suspects were of Spanish, Moroccan and French nationality, with one arrested in Girona. [@17]
+The inquiry was run jointly by the Drugs and Organised Crime Unit (UDYCO) of Torremolinos-Benalmádena
+and its counterpart in Valencia, and began in May 2026. [@1,2,4,5,6,7,8,10,11,12,13,14,16,18] Detectives
+said the group bought cocaine and hashish in Portugal and stored and prepared it in batches in Málaga
+and Valencia; it sold part of it in Spain [@12] and drove the rest towards European markets, mainly
+France, in high-end cars stolen in France and Belgium and fitted with forged plates.
+[@1,2,7,9,16,17,18] It chose cars powerful enough to try to escape if it spotted police or rival
+surveillance. [@7,8,10,11,12,14]

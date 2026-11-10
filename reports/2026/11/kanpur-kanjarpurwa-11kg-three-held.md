@@ -187,55 +187,34 @@ sources:
     date: 2026-11-01
     language: hi
 open_questions:
-  - No value was given for the 11 kg of ganja.
-  - No charges, court date or legal outcome were reported; police said questioning was still under way.
-  - The woman arrested was named only as Anjali, and no ages were given for the three.
+  - No value was given for the ganja, and one account gives about 9 kg rather than 11 kg.
+  - The start of the operation is given as about 5 am or about 6 am.
+  - Accounts give 135 or about 150 police, and about 35 or 60 to 70 homes searched.
+  - The woman was named only as Anjali, and no ages were given.
   - The number of people who fled the cordon is not stated.
-  - Amar Ujala published this story as a video report; no direct video address could be recovered, so only its lead image is linked.
-  - All three accounts rest on the police account; no comment from the accused or independent reporting was found.
-  - Amar Ujala's headline says five police stations were involved, but its text names four — Kidwai Nagar, Babupurwa, Juhi and Govind Nagar; the report keeps the four named stations.
-  - Hindustan reported about 9 kg of ganja, while the report's existing accounts give about 11 kg; the report keeps the 11 kg figure.
-  - The lead photograph on the Tarun Mitra page carries only the headline as its caption and no credit, and could not be confirmed to show this operation, so it was not added to the report's media.
-  - India TV spells the neighbourhood Kanjadanpurwa, the form used in its headline and URL; the report uses Kanjarpurwa for the same locality in Kidwai Nagar.
-  - India TV says Deputy Commissioner of Police (South) Deependra Nath Chaudhary personally monitored the operation, while the report's other accounts say Assistant Commissioner of Police Ghatampur supervised the joint operation.
-  - The India TV photograph carries only the caption "Police action against drugs in Kanpur" and the credit "Reporter input", so it could not be confirmed to show this raid and was not linked as media.
-  - 'The Dynamite News lead photograph carried only the caption ''Raid at drug hideouts in Kanpur'' (IMG: Dynamite News), so it could not be confirmed to show this operation and was not linked as media.'
-  - The Bhaskar Hindi lead image carries only the combined Bareilly–Kanpur headline and no credit, so it could not be confirmed to show the Kanpur raid and was not linked as media.
-  - The Deshbandhu article also reports a separate cow-smuggling arrest in Bareilly after a police encounter; that is a different event and is not part of this report.
-  - The page's only image is a small uncaptioned, uncredited thumbnail carrying the combined Bareilly–Kanpur headline, so it could not be confirmed to show the Kanpur raid and was not linked as media.
-  - Deshbandhu's text is an IANS roundup, the same agency copy already cited through Dainik Bhaskar Hindi, so it adds no independent reporting.
-  - News18 Hindi says the operation began at about 6 am, while the report and Amar Ujala give about 5 am; the report keeps 5 am.
-  - The page was published on 2 November 2026 for a Sunday dawn raid, matching the report's 1 November 2026 event date.
-  - This account names only Kidwai Nagar and nearby suspicious locations, not Kanjarpurwa by name; the match rests on the same 135 personnel, five teams, drone use, names Sagar and Arman, 11 kg figure, stations and commanders.
-  - No charges, court outcome, ages, values or exact weights beyond about 11 kg were given in this account.
-  - No ages, charges, court outcome or drug value were reported; police said questioning of the three was still under way.
-  - The same article's Bareilly cow-smuggler encounter is a different non-cannabis event left out of this cannabis report.
-  - The same Khaskhabar page also reports a separate Bareilly cattle-smuggler encounter after a police exchange of fire; only the Kanpur cannabis component is used here as it is a different non-cannabis event.
+  - No charges or court step have been reported.
+  - Several roundups also report a separate cattle-smuggling encounter in Bareilly, left out of this report.
 ---
 
-Police arrested three people — Sagar, Arman and a woman named Anjali — during a
-search of the Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15,16,17,19,20,21,22,23] The
-operation began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15,16,17,20,21,22] The three were
-caught as they tried to flee, and about 11 kg of ganja was recovered from them.
+Police arrested three people — Sagar, Arman and a woman named Anjali — during a search of the
+Kanjarpurwa neighbourhood in Kidwai Nagar, Kanpur. [@2,7,8,9,15,16,17,19,20,21,22,23] Arman lives in
+Chishtinagar in Sanigwan, Chakeri, and Anjali and Sagar in the neighbourhood itself. [@17] The operation
+began at about 5 am on Sunday, 1 November 2026. [@3,4,7,8,9,10,15,16,17,20,21,22] The three were caught
+as they tried to flee, and about 11 kg of ganja was recovered from them.
 [@1,4,6,7,11,12,13,16,18,19,20,21,23]
 
-The search was ordered by Kanpur's police commissioner, with 135 officers in
-five teams cordoning the neighbourhood and watching it with drone cameras. [@1,4,11,13,14,17,19,20]
-The force came from the Kidwai Nagar, Babupurwa, Juhi and Govind Nagar police
-stations. [@2,4,6,7,9,10,12,13,14,18,19,20,21,22,23]
+## The cordon
 
-Some residents ran from their homes when police arrived and were caught in the
-cordon. [@2,12] Police said they had acted on repeated reports that drugs were sold
-in Kanjarpurwa and that buyers came from outside the area. [@3,4,6,8,12,13,14,16,18,19,20] Other teams kept
-searching during the operation, and police said they were trying to identify
-others involved in the trade. [@3,6,13,19]
+The search was ordered by Kanpur's police commissioner, with 135 officers in five teams cordoning the
+neighbourhood and watching it with drone cameras. [@1,4,11,13,14,17,19,20] One account gives about 150
+personnel, including about 50 sub-inspectors, 80 male and 24 female constables, and says 60 to 70 houses
+were searched [@15]; another says about 35. [@5] The force came from the Kidwai Nagar, Babupurwa, Juhi
+and Govind Nagar police stations [@2,4,6,7,9,10,12,13,14,18,19,20,21,22,23], under the supervision of
+the Assistant Commissioner of Police for Ghatampur. [@4,6,12,13,19,20] Police had watched the settlement
+for about 15 days before the raid. [@5]
 
-Deputy Commissioner of Police (South) Deependra Nath Chaudhary said the three
-were being questioned and that the drive against the drug trade would continue.
-[@2,7,8,9,10,19,21,22]
-
-Assistant Commissioner of Police Ghatampur supervised the joint operation. [@4,6,12,13,19,20] Police had watched the settlement for about 15 days before the raid, Hindustan reported. [@5] Officers searched about 35 homes during the operation, Hindustan reported. [@5]
-
-About 150 police personnel took part, including about 50 sub-inspectors, 80 male constables and 24 female constables. [@15] Officers searched about 60 to 70 houses while monitoring the area with drone cameras. [@15]
-
-Arman is a resident of Chishtinagar in Sanigwan, Chakeri, while Anjali and Sagar are residents of Kanjadanpurwa. [@17]
+Some residents ran from their homes when police arrived and were caught in the cordon. [@2,12] Police
+said they had acted on repeated reports that drugs were sold in Kanjarpurwa to buyers from outside the
+area [@3,4,6,8,12,13,14,16,18,19,20], and that they were trying to identify others involved.
+[@3,6,13,19] Deputy Commissioner of Police (South) Deependra Nath Chaudhary said the three were being
+questioned and the drive would continue. [@2,7,8,9,10,19,21,22]

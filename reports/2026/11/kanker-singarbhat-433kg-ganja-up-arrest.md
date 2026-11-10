@@ -115,60 +115,35 @@ sources:
     date: 2026-11-08
     language: hi
 open_questions:
-  - The article does not date the interception or the arrest; 7 November 2026 is its publication date and is used as the incident date.
-  - Only one source, the submitted NWNews24 report, could be opened for this event, so the weights, packet count and valuations are not independently corroborated.
-  - 'The district stays unused: 433 kg exceeds the 20 kg threshold in the NDPS Act, but the article names no law or charge and no charges are recorded.'
-  - The article gives no date or place in Uttar Pradesh for the arrest, and no court step is reported for Sukhpal.
-  - The article says the load was going to Haryana but names no receiving buyer there.
-  - The seized Fortuner is valued at about Rs 25 lakh and the ganja at about Rs 2.23 crore; the article's total of about Rs 2.48 crore for all material matches these two rounded amounts, while the network's value is given as about Rs 3 crore.
-  - The page picture carries no caption tying it to this seizure and no credit, so it is linked rather than treated as evidence of the haul.
-  - ETV Bharat dates the dump to a Wednesday morning but gives no date for the Uttar Pradesh arrest.
-  - The page gives no separate date for the interception or the Uttar Pradesh arrest; 7 November 2026 is the publication date used for the event.
-  - The Naya Bharat Live text largely reproduces the NWNews24 report and does not state whose valuation the Rs 2.23 crore, Rs 2.48 crore, Rs 3 crore and Rs 25 lakh figures are.
-  - The page's page picture, taju.webp, has no caption or credit tying it to this seizure, so it is not listed as media.
-  - The opened text capture is truncated behind an app paywall, so dates of the 4 November interception and the Uttar Pradesh arrest, the CCTV and court details visible in the page markup could not be quoted from the captured text and are not added.
-  - Nai Dunia does not date the Mathura arrest beyond saying it followed a 48-hour search, so when the arrest happened is still open.
-  - Nai Dunia reports only that the accused was produced in court on 7 November, without naming the court, the charge sections or any custody order.
-  - Nai Dunia does not say whether the Rs 2 crore 23 lakh 50 thousand and Rs 2 crore 48 lakh 60 thousand valuations are police estimates.
-  - The page photo carries only the headline as its caption and no credit, so it cannot be confirmed to show this seizure and is not added as media.
-  - Vocal TV names no Odisha district for the purchase and no place or date within Uttar Pradesh for the arrest; it says only that the accused was brought to Kanker on Sunday 8 November.
-  - The page picture carries only the headline as its caption and no credit, so it cannot be confirmed to show this seizure.
-  - Raj Express puts the haul at about 450 kg and ETV Bharat's text gives about 450 quintals, while Nai Dunia records 447.720 kg and the report keeps 433 kg from the first account.
-  - Raj Express dates the dump of the packets to a Wednesday morning without giving a calendar date, and gives no date or place in Uttar Pradesh for the arrest.
-  - Raj Express calls the seized car by its Haryana registration only and does not name the make, while other accounts describe a Toyota Fortuner.
-  - Dainik Bhaskar dates the arrest to 7 November, the same day police recovered the load, while other accounts describe a search of several days; the earlier report's account of the arrest date is retained.
-  - RGH News repeats the combined valuation of the consignment at about Rs 2.23 crore; the different weights already recorded in the report (433 kg, 447.720 kg, about 450 kg) remain unresolved.
+  - The weight is given as 433 kg, 447.720 kg or about 450 kg.
+  - The load was dumped on a Wednesday morning; the date and place of the arrest are unsettled, with most accounts saying Uttar Pradesh, one Fatehabad in Haryana, and one placing it on 7 November.
+  - It is not said whose estimates the values of Rs 2.23 crore, Rs 2.48 crore and Rs 3 crore are.
+  - No buyer in Haryana was named.
+  - The other members of the network have not been caught.
 ---
 
-Kanker district police in Chhattisgarh say they have broken up an interstate
-ganja smuggling network carrying consignments from Malkangiri in Odisha towards
-Haryana. [@1,2,3,6] Officers recovered 433 kg of ganja packed in 90 packets, which
-police valued at about Rs 2 crore 23 lakh. [@1,2,3,5,7] A Toyota Fortuner car said to
-have been used in the smuggling, valued at about Rs 25 lakh, was also seized.
-[@1,3]
+Kanker district police in Chhattisgarh say they have broken up an interstate ganja smuggling network
+carrying loads from Malkangiri in Odisha towards Haryana. [@1,2,3,6] A tip on 4 November said ganja was
+being brought in a Fortuner from Odisha via Keshkal towards Kanker. [@6,10] Police set up checkposts at
+four or five places [@2,7], first on the Garhpichwari Chowk bypass road and later at Makdi Pulia and Gyani
+Chowk. [@10] Seeing the check, the gang dumped the load near Singarbhat and fled. [@1,2,3,5,10]
 
-The gang fled after dumping the load near Singarbhat when they saw a police
-check. [@1,2,3,5,10] Police arrested the fugitive accused, named in the report as
-Sukhpal, in Uttar Pradesh. [@1,2,3,4,5,6,9,10]
+The brown-taped packets were found in forest and hills near the Shiva temple by the Singarbhat rice-mill
+quarter, and were counted and weighed before witnesses. [@6,10] They held 433 kg of ganja in 90 packets,
+which police valued at about Rs 2 crore 23 lakh. [@1,2,3,5,7]
 
-Investigators said the accused kept changing vehicle registration numbers to
-move loads between states. [@1,2,3,5] Police put the total value of what was seized in
-the case at about Rs 2 crore 48 lakh. [@1,3,5] Police said the whole smuggling
-network is estimated to be worth about Rs 3 crore and are still looking for the
-other accused. [@1,3]
+## The arrest
 
-Police traced the accused with the help of the cyber team. [@2,6,7] Police set up checkposts at 4 to 5 places. [@2,7] Police also seized the Haryana-passing vehicle used in the smuggling. [@2,6,7] So far one accused has been arrested. [@2,6,7]
+Police and the cyber cell went through footage from more than 300 CCTV cameras, including those at toll
+posts, petrol pumps and main junctions [@2,5,6,7,10], while the driver kept moving and switching off his
+phone. [@10] They arrested the accused, Sukhpal alias Sukkha, 30, in Uttar Pradesh [@1,2,3,4,5,6,9,10];
+one account places the arrest in Fatehabad district of Haryana. [@8] He was produced in court on 7
+November and sent to judicial remand in a case under the NDPS Act [@4,5], and was brought to Kanker on
+Sunday 8 November. [@10] He is the only one arrested so far, and police are looking for the others.
+[@1,2,3,6,7]
 
-The accused kept 6 fake number plates in the Fortuner for the Odisha-to-Haryana supply run. [@4]
-
-Police and the cyber cell checked footage from more than 300 CCTV cameras to trace the accused. [@5,10] The plates the accused used were from Odisha, Maharashtra and Haryana. [@5,10] The accused was produced in court on 7 November. [@5]
-
-Police said a tip on 4 November said ganja was being brought in a Fortuner from Odisha via Keshkal towards Kanker. [@6,10] The brown-taped packets were found in the forest and hill area near the Shiva temple at Singarbhat village's rice-mill quarter and were counted and weighed in front of witnesses. [@6,10] Additional superintendent of police Yogesh Sahu said the six plates carried numbers from Odisha, Maharashtra and Haryana and were used to dodge police checks. [@6]
-
-Raj Express attributes the account of the arrest, the car and the spare number plates to Yogesh Sahu, additional superintendent of police in Kanker. [@7]
-
-A 30-year-old man, Sukhpal alias Sukkha, was arrested in Fatehabad district of Haryana in connection with the ganja worth about Rs 2.23 crore found below Singarbhat hill near Kanker town. [@8]
-
-Police said the accused was arrested on 7 November and produced in court, where he was sent to judicial remand, and that a case was registered against him under the NDPS Act. [@4] Prison numbers for the case are unavailable; the report records no sentence. [@9]
-
-Police first blockaded the Garhpichwari Chowk bypass road and later set up blockades at Makdi Pulia and Gyani Chowk. [@10] The driver kept changing his location and switching off his mobile phone while evading the cordon. [@10] Police brought the accused to Kanker on Sunday 8 November after arresting him in Uttar Pradesh. [@10] Police also checked cameras at toll posts, petrol pumps and main intersections. [@10]
+The Fortuner used in the smuggling, registered in Haryana and valued at about Rs 25 lakh, was seized.
+[@1,2,3,6,7] Additional superintendent of police Yogesh Sahu said it carried six fake number plates from
+Odisha, Maharashtra and Haryana, which the driver changed to get loads past police checks.
+[@1,2,3,4,5,6,7,10] Police put the total seized at about Rs 2 crore 48 lakh and the whole network at
+about Rs 3 crore. [@1,3,5]
