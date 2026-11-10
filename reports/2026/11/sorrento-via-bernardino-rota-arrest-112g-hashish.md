@@ -51,6 +51,11 @@ sources:
     publisher: Ilgiornalelocale.it
     date: 2026-11-09
     language: it
+  - title: 'Sorrento, pusher in manette dopo un tentativo di fuga: arrestato 23enne'
+    url: https://www.torresette.news/cronaca/2026/11/09/sorrento-pusher-in-manette-dopo-un-tentativo-di-fuga-arrestato-23enne
+    publisher: TorreSette
+    date: 2026-11-09
+    language: it
 open_questions:
   - The article gives no separate date for the arrest; 9 November 2026 is its publication date and is used as the incident date.
   - The cocaine is reported only as 132 doses, and its weight is not poolable with the cannabis, so it is excluded from the figures.
@@ -69,16 +74,18 @@ media:
 
 Carabinieri from the Sorrento coast mobile radio unit arrested a 23-year-old man
 born in Vico Equense in November 2002 in a narrow side street off via Bernardino
-Rota in Sorrento. [@1] The street is used by dealers to sell drugs, so officers
+Rota in Sorrento. [@1,3] The street is used by dealers to sell drugs, so officers
 blocked the escape routes with patrol cars and unmarked vehicles before moving
 in on foot. [@1]
 
 The man tried to drive away in his Smart car, was stopped after a few metres,
-searched and handcuffed. [@1] Where he had been waiting before getting into the
+searched and handcuffed. [@1,3] Where he had been waiting before getting into the
 car, officers found and seized 112 grams of hashish and 7.50 grams of marijuana.
-[@1] The same search found a small scale for weighing doses. [@1]
+[@1,3] The same search found a small scale for weighing doses. [@1,3]
 
 The man faces a charge of possessing drugs for the purpose of dealing and was
-placed under house arrest pending trial. [@1]
+placed under house arrest pending trial. [@1,3]
 
 Ilgiornalelocale.it identifies the officers as the Sorrento mobile radio unit, the Aliquota Radiomobile, working the via Bernardino Rota side street. [@2] Officers who knew the area set up a targeted operation in advance, blocking the possible escape routes with service cars and decoy vehicles before approaching on foot. [@2] Where he had been waiting before getting into the car, carabinieri seized 132 doses of cocaine alongside 112 grams of hashish and 7.50 grams of marijuana. [@2] A precision scale, presumably used to weigh the doses, was found with the drugs. [@2]
+
+The street is particularly narrow, passable only by minicars and scooters, and was already known to police as a possible drug-dealing spot. [@3]
