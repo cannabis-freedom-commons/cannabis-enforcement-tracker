@@ -89,6 +89,11 @@ sources:
     publisher: Erzurum Gazetesi
     date: 2026-11-09
     language: tr
+  - title: 'Gürbulak Sınır Kapısı''nda Otobüste Uyuşturucu Operasyonu: 1 Kilo 830 Gram Esrar Ele Geçirildi'
+    url: https://www.igdirhaber.net/gurbulak-sinir-kapisinda-otobuste-uyusturucu-operasyonu-1-kilo-830-gram-esrar-ele-gecirildi/72609
+    publisher: Iğdır Haber
+    date: 2026-11-09
+    language: tr
 open_questions:
   - No arrests or detentions are named in either account; the governorship says only that judicial proceedings continue.
   - Neither account says whether any passenger or the driver was identified, questioned or taken into custody, or what charges are being considered.
@@ -113,6 +118,9 @@ open_questions:
   - Erzurum Gazetesi does not name the authority that issued the account, unlike the governorship attribution recorded in earlier coverage.
   - The page reproduces the same agency account carried by other outlets and adds no independent confirmation of the weight or value.
   - No arrests or detentions are named; the text says only that judicial proceedings continue.
+  - The page subheading says the market value was about 1 million 65 thousand lira, while its body says about 1 million 647 thousand lira; the body figure matching the existing report is used for corroboration.
+  - No arrests, detentions, suspects or charges are named; the article says only that multi-sided judicial proceedings continue.
+  - The page photo is captioned only with the article headline and carries no credit identifying it as the bus or seized material, so no media entry is added.
 media:
   - kind: photo
     url: https://www.haber365.com/haber/gurbulak-sinir-kapisinda-otobuste-uyusturucu-baskini-16-milyon-lira-degerinde-esrar-ele-gecirildi-480870
@@ -123,12 +131,12 @@ media:
 
 Officers at the Gürbulak border crossing in Doğubayazıt, Ağrı, sent a bus
 arriving from Iran for X-ray screening under risk analysis on 8 November 2026.
-[@1,3,4,5,6,7,8,9] The scan showed suspicious density in some passenger seats, so the bus was
-searched in detail. [@1,4,5]
+[@1,3,4,5,6,7,8,9,11] The scan showed suspicious density in some passenger seats, so the bus was
+searched in detail. [@1,4,5,11]
 
 In metal compartments under the seat cushions, hidden with special fittings and
 wrapped in black bags, officers found 1 kg 830 g of esrar, the Turkish term for
-cannabis. [@1,3,4,5,6,7,8,9] Authorities put the cannabis's market value at about 1,647,000
+cannabis. [@1,3,4,5,6,7,8,9,11] Authorities put the cannabis's market value at about 1,647,000
 Turkish lira on 2026 figures. [@1,3,4,5,7,8,9]
 
 The account came in a statement by the Doğubayazıt district governorship, which
@@ -141,3 +149,5 @@ and 1 kg 830 g of esrar worth about 1,647,000 lira. [@2]
 The article adds that the hiding place was detected with special equipment, and that the search was of a passenger bus that had entered Turkey from Iran. [@6,9]
 
 The passenger bus that officers searched after it entered Turkey from Iran came in on 8 November. [@10]
+
+Narcotic detector dogs also supported the search that found the drugs wrapped in black bags. [@11]
