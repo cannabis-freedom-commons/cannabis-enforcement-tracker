@@ -81,45 +81,20 @@ sources:
     date: 2026-11-09
     language: ar
 open_questions:
-  - The sources describe only "drugs" (المواد المخدرة) and give no substance; whether any of the cargo was cannabis is not established.
-  - No weight, number of balloons or street value was published.
-  - No arrests were reported; the sources say the seized material was handed to the competent authorities.
-  - The Eastern Military Region covers Jordan's whole eastern frontier; the exact border location and the country the balloons came from are not named.
-  - The Jo24 and Saraya accounts repeat the same army statement, so they are not independent confirmation of any detail beyond what the statement says.
-  - Husna FM reports the same army statement as the outlets already cited and gives no substance, weight, balloon count or arrests, and does not say whether any of the cargo was cannabis.
-  - Husna FM's page image is captioned only with the incident and date and carries no credit identifying the photographer or agency, so it is not added as media.
-  - Husna FM's related-articles box lists separate Anti-Narcotics Department cases from 29 October to 8 November 2026; they are different events and are not covered here.
-  - QNA says the balloons were detected at two different border locations, while the Petra statement describes a single interception and names no site; the two accounts are not reconciled.
-  - The Al-Anbat page describes only drugs (المواد المخدرة) and gives no substance, weight, balloon count or arrests, so it adds no cannabis quantities.
-  - Al-Anbat carries the same army statement as the sources already cited, so it corroborates rather than independently reports the interception.
-  - Al-Anbat's page image is captioned only with the headline and carries no credit identifying the photographer or agency, so it is not added as media.
-  - Youm7's midday news roundup describes only "drugs" (المواد المخدرة) and names no substance, weight, balloon count, arrests or border of origin, so it adds no cannabis quantity and does not establish that any of the cargo was cannabis.
-  - The Fana News page, published by the Arab News Agencies Federation, carries no substance, weight, balloon count or arrest count, so it does not establish that any of the cargo was cannabis.
-  - The image on the Fana News page carries no caption or credit identifying what it shows, so it is not added as media.
-  - The Al Wakeel page describes only drugs (المواد المخدرة) and gives no substance, weight, balloon count or arrests, so it does not establish that any of the cargo was cannabis.
-  - Al Wakeel carries the same army statement as the report's existing sources, so it corroborates rather than independently reports the interception.
-  - The page shows one image captioned only with the armed forces name and has no credit identifying what it depicts, so it is not added as media.
-  - The Johina News page describes only "drugs" (المواد المخدرة) and names no substance, weight, balloon count, arrests or border of origin, so it does not establish that any of the cargo was cannabis.
-  - Johina News carries the same armed forces statement as the report's existing sources, so it corroborates rather than independently reports the interception.
-  - The page shows one image whose caption is only the headline and carries no credit identifying the photographer or agency, so it is not added as media.
+  - The army statement speaks only of drugs and names no substance, so it is not established that any of the cargo was cannabis.
+  - No weight, number of balloons or value was published.
+  - No arrests were reported.
+  - Neither the place on the border nor the country the balloons came from was named, and one account speaks of two places.
+  - Every account repeats the same army statement.
 ---
 
-Jordan's Eastern Military Region foiled an attempt to smuggle a large quantity
-of drugs by guided balloons on the morning of Monday, 9 November 2026. [@1,3,6,7,8,9,11,12]
-Border guard units spotted the balloons, brought them down inside Jordanian
-territory and seized the drugs they carried. [@1,3,7,9,11,12] The border guards acted with
-security and military bodies and the Anti-Narcotics Department, and the seized
-material was handed to the competent authorities for legal action. [@1,3,7,9,11,12]
+Jordan's Eastern Military Region foiled an attempt to smuggle a large quantity of drugs by guided
+balloons on the morning of Monday, 9 November 2026. [@1,2,3,6,7,8,9,11,12] Border guard units spotted the
+balloons heading towards Jordanian territory, brought them down inside it and seized the drugs they
+carried. [@1,2,3,4,7,9,11,12] Petra's statement says the units acted within their own area of
+responsibility [@4]; the Qatari news agency placed the balloons at two different points on the border.
+[@5,10] The guards acted with security and military bodies and the Anti-Narcotics Department, and the
+seized material was handed to the competent authorities for legal action. [@1,3,7,9,11,12]
 
-The Jordan Armed Forces said they would keep confronting infiltration and
-smuggling attempts whatever their methods in order to protect the kingdom's
-security and the safety of its citizens. [@1,7,9] Saraya News reported that the
-interception took place on Monday, 9 November 2026, matching the day given by
-Jo24. [@2]
-
-It said the balloons were heading towards Jordanian territory when they were
-spotted. [@2,4]
-
-The Qatari news agency account put the balloons at two different locations on the border before they were brought down. [@5,10] Petra's Arabic statement says the border guard units that brought the balloons down acted within their own area of responsibility. [@4]
-
-The army statement says the balloons were detected as they were heading towards Jordanian territory. [@7]
+The Jordan Armed Forces said they would keep confronting infiltration and smuggling attempts by any
+method to protect the kingdom's security and its citizens. [@1,7,9]
