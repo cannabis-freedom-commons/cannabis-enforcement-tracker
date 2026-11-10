@@ -98,6 +98,11 @@ sources:
     publisher: Sathyam Online
     date: 2026-11-10
     language: ml
+  - title: കേരളത്തിലെ മികച്ച യുവകർഷകൻ ലഹരിമരുന്നുമായി അറസ്റ്റിൽ; പിടികൂടിയത് 803 ഗ്രാം ഹാഷിഷ് ഓയിലും എംഡിഎംഎയും
+    url: https://www.mathrubhumi.com/crime/news/kerala-young-farmer-arrested-for-mdma-hashish-smuggling-n8rq4q0h
+    publisher: Mathrubhumi
+    date: 2026-11-10
+    language: ml
 open_questions:
   - Neither account gives a date for the arrest beyond 'Monday'; 9 November 2026, the publication date, is used as the incident date.
   - The hashish oil is described only as seized hashish oil, with no laboratory confirmation or street value reported.
@@ -124,23 +129,27 @@ open_questions:
   - Vachakam's timestamp shows 8 November 2026 although its page also carries items dated 9 November, so its publication date could not be confirmed exactly.
   - Sirajlive's lead picture carries no caption and no credit, so no media entry is added for it.
   - No charge, remand or court appearance is reported in either account.
+  - The Mathrubhumi page repeats the same police briefing as the accounts already cited in the report and is not independent confirmation.
+  - The page's only picture is a portrait of the accused in front of a banana photograph, showing neither the seizure nor the plantation, so no media entry is added.
+  - Mathrubhumi gives no separate date for the arrest, which the report dates to 9 November 2026 from the other accounts.
+  - Mathrubhumi gives no figure for the banana plantation's size or its crop value.
 ---
 
 Police arrested Dhanesh S Nair, 31, known as Danny, the alleged main accused of
 a network that smuggled MDMA from Bengaluru into Kerala, at Angamaly in
-Ernakulam district. [@1,6,8,9] A special investigation team led by Aluva Deputy
+Ernakulam district. [@1,6,8,9,12] A special investigation team led by Aluva Deputy
 Superintendent of Police Baiju Paulos caught him in Angamaly. [@1,11] Officers
 seized 803 grams of hashish oil from him, the only cannabis product counted in
-this event; eight grams of MDMA were seized with it. [@1,4,5,6,8,9]
+this event; eight grams of MDMA were seized with it. [@1,4,5,6,8,9,12]
 
 Police said Dhanesh has his own banana plantation and farmland at Nanjangudu
-near Mysuru and used them as cover for the trafficking. [@1,4,5,8] Police said he
+near Mysuru and used them as cover for the trafficking. [@1,4,5,8,12] Police said he
 recruited young people to move and distribute the drugs, took them to Bengaluru
 and nearby areas, and had MDMA hidden inside banana bunches carried on to agents
 and buyers in Kerala. [@1]
 
 Videos and other visuals on his mobile phones showed how the drugs were hidden
-inside banana bunches, the investigation team found. [@1,5] The lead to Dhanesh
+inside banana bunches, the investigation team found. [@1,5,12] The lead to Dhanesh
 came from the mobile phone of Harikrishnan, arrested a day earlier at a lodge in
 Aluva with 185 grams of MDMA. [@2,4,5,6,8,10] Harikrishnan and Shinu Sebastian, who was
 arrested with seven grams of MDMA at Thoppumpady in Kochi, distributed the drugs
@@ -165,4 +174,6 @@ Dhanesh, known as Danny Bhai, was arrested; police gave his home address as Para
 
 Anweshanam said officers moved in after seeing him loitering near the Angamaly railway gate. [@8] Anweshanam said police described hiding the drugs inside banana bunches brought from Nanjangudu to Kerala as the gang's method. [@8]
 
-Dhanesh won awards as a young farmer for his banana cultivation and studied agribusiness in Germany. [@9]
+Dhanesh won awards as a young farmer for his banana cultivation and studied agribusiness in Germany. [@9,12]
+
+Mathrubhumi reports that Dhanesh S Nair received the state government's award for the best young farmer in 2023. [@12]
