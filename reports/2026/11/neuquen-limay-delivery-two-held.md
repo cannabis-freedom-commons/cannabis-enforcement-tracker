@@ -1,42 +1,45 @@
 ---
 code: VR5T3G
 added_at: "2026-11-07T01:27:00.866124Z"
-date: 2026-11-04
+date: 2026-11-06
 country: ar
 place: Barrio Limay, Neuquén city, Neuquén Province
 coordinates: [-38.9516, -68.0591]
 precision: locality
-type: raid
-also: [arrest, seizure]
-title: Two held in Neuquén's barrio Limay over delivery drug sales
-summary: >-
-  Neuquén police raided a house in the barrio Limay on 4 November 2026 and arrested a man and a woman accused of selling drugs by delivery. Officers took cannabis wrappings, more than 250 grams of cocaine, about 140,000 pesos in cash, a high-end car and scales, and both suspects were charged under the national drug law.
+type: prosecution
+also: [arrest, seizure, raid]
+title: Man remanded in Neuquén delivery drug case after barrio Limay raid
+summary: Neuquén prosecutors charged a couple on 6 November 2026 over delivery and stash-house drug sales following a raid in barrio Limay. A guarantee judge ordered four months of pre-trial detention for the man and control measures for the woman; authorities seized 439.8 grams of cannabis across the inquiry.
 figures:
-  arrested: 2
-  cash:
-    amount: 140000
-    currency: ARS
+    arrested: 2
+    cash:
+        amount: 140000
+        currency: ARS
+    charged: 2
+    kg_seized: 0.4398
 details:
-  agencies: [Policía de Neuquén]
-  agency_types: [police, anti-narcotics, prosecutor]
-  products:
-    - {product: flower}
-  activity: [sale]
-  setting: [home]
-  charges: [infracción a la Ley Nacional 23.737 (estupefacientes)]
-  case_stage: investigation
-  date_precision: exact
-  region: Neuquén
+    agencies: [Policía]
+    agency_types: [police, prosecutor, court]
+    products:
+        - {product: flower}
+    activity: [sale, trafficking]
+    setting: [home, street]
+    charges: ['comercialización de estupefacientes agravada por la intervención de tres o más personas, en calidad de coautores, de acuerdo con la Ley 23.737']
+    case_stage: charged
+    date_precision: exact
+    region: Neuquén
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [2]
-  details.charges: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.cash: [1]
+    details.activity: [5]
+    details.agencies: [5]
+    details.agency_types: [5]
+    details.case_stage: [5]
+    details.charges: [5]
+    details.products: [5]
+    details.setting: [5]
+    figures.arrested: [1]
+    figures.cash: [1]
+    figures.charged: [5]
+    figures.kg_seized: [5]
 media:
   - kind: photo
     url: https://www.infobae.com/sociedad/policiales/2026/11/06/cayo-una-banda-que-vendia-droga-por-delivery-en-neuquen-incautaron-un-auto-de-alta-gama-y-hay-dos-detenidos/
@@ -68,13 +71,15 @@ sources:
     publisher: Mejor Informado
     date: 2026-11-05
     language: es
+  - title: 'Vendían cocaína y marihuana en Neuquén: investigan movimientos por más de $43 millones'
+    url: https://www.noticiasnqn.com.ar/noticias/2026/11/10/360197-vendian-cocaina-y-marihuana-en-neuquen-investigan-movimientos-por-mas-de-43-millones
+    publisher: NoticiasNQN
+    date: 2026-11-10
+    language: es
 open_questions:
-  - No weight for the cannabis wrappings seized in the Limay raid was published, so the cannabis quantity is unknown.
-  - The agencies give the seizure as 'envoltorio de cannabis' or 'envoltorios con cannabis' without saying how many wrappings there were.
-  - Infobae says the accused remained detained by judicial order, but no detention hearing, charge wording or custody term is described.
-  - The two suspects were not named and their ages were not given.
-  - No court date, defence statement or later procedural step were reported; the case was at the investigation stage.
-  - A separate Neuquén case reported in the same articles, six people charged over raids on 29 October 2026 in barrios El Trébol II and Toma Pacífica, is a different event and is not recorded here.
+    - The two suspects were not named and their ages were not given.
+    - No trial date or defence statement was reported as the case entered a four-month pre-trial investigation phase.
+    - A separate Neuquén case reported in earlier articles, six people charged over raids on 29 October 2026 in barrios El Trébol II and Toma Pacífica, is a different event and is not recorded here.
 ---
 
 Police in Neuquén city arrested a man and a woman in a raid on a house in the
@@ -88,12 +93,12 @@ Público Fiscal, the provincial public prosecutor's office. [@3]
 Officers seized cannabis wrappings, more than 250 grams of cocaine
 hydrochloride, about 140,000 pesos in cash, a high-end car, mobile phones,
 electronic devices, precision scales and materials used for packaging
-substances. [@1] The cannabis was recorded only as wrappings, with no weight
+substances. [@1,5] The seized cannabis from the suspects' home weighed 1.7 grams, while an earlier raid on an associated house in barrio El Trébol had seized 438.1 grams of marijuana. [@5] The cannabis was recorded only as wrappings, with no weight
 published, so the cocaine haul is not counted as cannabis in this report. [@3]
 
 Both suspects were held and charged with a suspected breach of Ley Nacional
 23.737, Argentina's drug law, in a case handled by the Unidad Fiscal de
-Narcocriminalidad under prosecutor María Paula Yerfino. [@2] The provincial
+Narcocriminalidad under prosecutor María Paula Yerfino. [@2,5] At a charge hearing on 6 November 2026, guarantee judge Juan Manuel Kees accepted aggravated drug trafficking charges and opened a four-month investigation period. [@5] Judge Kees ordered four months of pre-trial detention for the man and released the woman with weekly police check-ins and contact restrictions. [@5] The provincial
 government presented the raid as part of Neuquén's defederalisation of
 microtrafficking, the policy that lets provincial courts and police handle
 certain drug-dealing offences. [@2] Mejor Informado, a Neuquén outlet, carried
@@ -102,4 +107,3 @@ referral to the drug prosecution unit. [@4] Infobae placed the Limay raid above
 a separate Neuquén case in which six people were charged over cocaine and
 marijuana sales after raids on Thursday 29 October 2026, which is not part of
 this report. [@1]
-
