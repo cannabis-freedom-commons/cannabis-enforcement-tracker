@@ -45,29 +45,27 @@ sources:
     url: https://www.kbc.co.ke/266kg-of-bhang-destroyed-in-court-supervised-exercise/
     publisher: KBC Digital
     date: 2026-11-10
-open_questions:
-  - The source does not specify how long the trial took between the January 2026 interception and the October 2026 destruction order.
-  - The 266 kg destroyed reflects the rounded weight stated by the DCI and court, compared to the 266.2 kg recorded during Odhiambo's trial and sentencing.
-  - The report does not state whether Vincent Odhiambo has appealed his conviction or 10-year sentence.
-  - Only one outlet account was opened for the destruction exercise, based on a statement from the Directorate of Criminal Investigations.
+  - title: 266kgs of bhang destroyed in court-supervised exercise in Elgeyo Marakwet
+    url: https://peopledaily.digital/news/266kgs-of-bhang-destroyed-in-court-supervised-exercise-in-elgeyo-marakwet
+    publisher: People Daily
+    date: 2026-11-10
 ---
 
 A total of 266 kilograms of cannabis sativa was destroyed at the incinerator
-facility of AIC Kapsowar Mission Hospital on 10 November 2026. [@1] The
+facility of AIC Kapsowar Mission Hospital on 10 November 2026. [@1,2] The
 destruction was conducted in a court-supervised exercise pursuant to an order
-issued by the Iten Law Courts on 30 October 2026. [@1] The incinerated cannabis
+issued by the Iten Law Courts on 30 October 2026. [@1,2] The incinerated cannabis
 was the subject of a case in which Vincent Odhiambo was convicted of trafficking
 in narcotic drugs. [@1] Odhiambo was sentenced to 10 years in prison, with an
 alternative fine of 24 million Kenyan shillings. [@1]
 
 The exercise commenced on Tuesday morning and was presided over by Senior
-Principal Magistrate Gladys Adhiambo of the Iten Law Courts. [@1] The disposal
+Principal Magistrate Gladys Adhiambo of the Iten Law Courts. [@1,2] The exercise began at 8.20 am and concluded at 10.20 am. [@2] The disposal
 was witnessed by multi-agency representatives including the Elgeyo Marakwet
 County Security Team, the County NEMA Director, prosecutors from the Office of
 the Director of Public Prosecutions, public health officers, senior police
-officers and the Marakwet West Sub-County Security Team. [@1] In a statement,
+officers and the Marakwet West Sub-County Security Team. [@1,2] In a statement,
 the Directorate of Criminal Investigations said the exercise underscored the
 government's commitment to combating drug trafficking and ensuring that seized
 illicit substances are disposed of in accordance with the law while safeguarding
 communities against narcotic drugs. [@1]
-
